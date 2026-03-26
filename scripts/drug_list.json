@@ -1,0 +1,1021 @@
+{
+  "total": 145,
+  "generated_at": "2026-03-26T15:37:48.986831",
+  "drugs": [
+    {
+      "name": "DB00003",
+      "file": "db00003.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00009",
+      "file": "db00009.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00054",
+      "file": "db00054.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00136",
+      "file": "db00136.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00169",
+      "file": "db00169.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00177",
+      "file": "db00177.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00178",
+      "file": "db00178.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00181",
+      "file": "db00181.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00184",
+      "file": "db00184.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00186",
+      "file": "db00186.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00188",
+      "file": "db00188.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00222",
+      "file": "db00222.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00231",
+      "file": "db00231.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00244",
+      "file": "db00244.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00248",
+      "file": "db00248.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00270",
+      "file": "db00270.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00284",
+      "file": "db00284.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00287",
+      "file": "db00287.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00294",
+      "file": "db00294.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00304",
+      "file": "db00304.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00315",
+      "file": "db00315.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00316",
+      "file": "db00316.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00321",
+      "file": "db00321.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00334",
+      "file": "db00334.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00335",
+      "file": "db00335.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00337",
+      "file": "db00337.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00349",
+      "file": "db00349.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00350",
+      "file": "db00350.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00352",
+      "file": "db00352.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00363",
+      "file": "db00363.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00367",
+      "file": "db00367.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00381",
+      "file": "db00381.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00391",
+      "file": "db00391.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00404",
+      "file": "db00404.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00426",
+      "file": "db00426.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00437",
+      "file": "db00437.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00440",
+      "file": "db00440.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00450",
+      "file": "db00450.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00455",
+      "file": "db00455.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00482",
+      "file": "db00482.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00494",
+      "file": "db00494.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00501",
+      "file": "db00501.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00502",
+      "file": "db00502.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00503",
+      "file": "db00503.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00544",
+      "file": "db00544.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00554",
+      "file": "db00554.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00555",
+      "file": "db00555.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00568",
+      "file": "db00568.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00571",
+      "file": "db00571.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00581",
+      "file": "db00581.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00583",
+      "file": "db00583.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00601",
+      "file": "db00601.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00625",
+      "file": "db00625.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00640",
+      "file": "db00640.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00654",
+      "file": "db00654.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00665",
+      "file": "db00665.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00668",
+      "file": "db00668.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00695",
+      "file": "db00695.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00712",
+      "file": "db00712.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00742",
+      "file": "db00742.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00745",
+      "file": "db00745.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00770",
+      "file": "db00770.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00773",
+      "file": "db00773.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00776",
+      "file": "db00776.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00788",
+      "file": "db00788.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00795",
+      "file": "db00795.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00806",
+      "file": "db00806.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00809",
+      "file": "db00809.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00813",
+      "file": "db00813.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00814",
+      "file": "db00814.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00818",
+      "file": "db00818.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00820",
+      "file": "db00820.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00829",
+      "file": "db00829.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00842",
+      "file": "db00842.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00853",
+      "file": "db00853.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00879",
+      "file": "db00879.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00887",
+      "file": "db00887.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00900",
+      "file": "db00900.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00904",
+      "file": "db00904.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00905",
+      "file": "db00905.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00909",
+      "file": "db00909.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00910",
+      "file": "db00910.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00912",
+      "file": "db00912.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00929",
+      "file": "db00929.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00947",
+      "file": "db00947.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00960",
+      "file": "db00960.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00966",
+      "file": "db00966.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00967",
+      "file": "db00967.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00987",
+      "file": "db00987.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00989",
+      "file": "db00989.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB00993",
+      "file": "db00993.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01023",
+      "file": "db01023.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01029",
+      "file": "db01029.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01048",
+      "file": "db01048.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01050",
+      "file": "db01050.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01058",
+      "file": "db01058.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01068",
+      "file": "db01068.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01083",
+      "file": "db01083.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01088",
+      "file": "db01088.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01097",
+      "file": "db01097.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01100",
+      "file": "db01100.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01101",
+      "file": "db01101.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01111",
+      "file": "db01111.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01115",
+      "file": "db01115.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01120",
+      "file": "db01120.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01124",
+      "file": "db01124.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01126",
+      "file": "db01126.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01128",
+      "file": "db01128.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01136",
+      "file": "db01136.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01194",
+      "file": "db01194.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01202",
+      "file": "db01202.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01205",
+      "file": "db01205.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01216",
+      "file": "db01216.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01222",
+      "file": "db01222.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01229",
+      "file": "db01229.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01339",
+      "file": "db01339.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01362",
+      "file": "db01362.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01394",
+      "file": "db01394.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01410",
+      "file": "db01410.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01418",
+      "file": "db01418.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01436",
+      "file": "db01436.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01544",
+      "file": "db01544.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01590",
+      "file": "db01590.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01595",
+      "file": "db01595.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01628",
+      "file": "db01628.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB01638",
+      "file": "db01638.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB02300",
+      "file": "db02300.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB04573",
+      "file": "db04573.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB04844",
+      "file": "db04844.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB04920",
+      "file": "db04920.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB06736",
+      "file": "db06736.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB08819",
+      "file": "db08819.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB09020",
+      "file": "db09020.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB09055",
+      "file": "db09055.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB09123",
+      "file": "db09123.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB09236",
+      "file": "db09236.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB11075",
+      "file": "db11075.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB11696",
+      "file": "db11696.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB11742",
+      "file": "db11742.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB12474",
+      "file": "db12474.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB12661",
+      "file": "db12661.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB13166",
+      "file": "db13166.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB13872",
+      "file": "db13872.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB14513",
+      "file": "db14513.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "DB14740",
+      "file": "db14740.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    }
+  ]
+}

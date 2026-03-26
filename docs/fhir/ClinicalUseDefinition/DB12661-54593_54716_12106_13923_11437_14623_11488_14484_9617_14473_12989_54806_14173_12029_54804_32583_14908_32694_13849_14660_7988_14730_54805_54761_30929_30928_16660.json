@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB12661-54593_54716_12106_13923_11437_14623_11488_14484_9617_14473_12989_54806_14173_12029_54804_32583_14908_32694_13849_14660_7988_14730_54805_54761_30929_30928_16660",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.987655+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB12661",
+      "display": "Ebrantil forte, capsules met gereguleerde afgifte 90 mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "54593_54716_12106_13923_11437_14623_11488_14484_9617_14473_12989_54806_14173_12029_54804_32583_14908_32694_13849_14660_7988_14730_54805_54761_30929_30928_16660",
+          "display": "primary microcephaly"
+        }
+      ],
+      "text": "primary microcephaly"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

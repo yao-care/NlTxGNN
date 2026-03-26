@@ -1,0 +1,35 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "DB01222",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.657486+00:00"
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB01222",
+        "display": "Pulmicort 200 Turbuhaler, inhalatiepoeder 200 microgram/dosis"
+      }
+    ],
+    "text": "Pulmicort 200 Turbuhaler, inhalatiepoeder 200 microgram/dosis"
+  },
+  "status": "active",
+  "manufacturer": {
+    "display": "Various"
+  },
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "Nl",
+          "display": "Netherlands"
+        }
+      ]
+    }
+  ]
+}

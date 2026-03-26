@@ -1,0 +1,35 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "DB00742",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.789043+00:00"
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB00742",
+        "display": "Mannitol 15 %, oplossing voor infusie 150 g/l"
+      }
+    ],
+    "text": "Mannitol 15 %, oplossing voor infusie 150 g/l"
+  },
+  "status": "active",
+  "manufacturer": {
+    "display": "Various"
+  },
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "Nl",
+          "display": "Netherlands"
+        }
+      ]
+    }
+  ]
+}

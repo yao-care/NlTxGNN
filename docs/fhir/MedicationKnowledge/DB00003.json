@@ -1,0 +1,35 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "DB00003",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.733856+00:00"
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB00003",
+        "display": "Pulmozyme 2500 E/2,5 ml, verneveloplossing"
+      }
+    ],
+    "text": "Pulmozyme 2500 E/2,5 ml, verneveloplossing"
+  },
+  "status": "active",
+  "manufacturer": {
+    "display": "Various"
+  },
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "Nl",
+          "display": "Netherlands"
+        }
+      ]
+    }
+  ]
+}

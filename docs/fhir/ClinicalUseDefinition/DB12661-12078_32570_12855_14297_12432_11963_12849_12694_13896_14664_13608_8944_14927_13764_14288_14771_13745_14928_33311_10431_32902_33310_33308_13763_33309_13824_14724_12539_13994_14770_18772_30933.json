@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB12661-12078_32570_12855_14297_12432_11963_12849_12694_13896_14664_13608_8944_14927_13764_14288_14771_13745_14928_33311_10431_32902_33310_33308_13763_33309_13824_14724_12539_13994_14770_18772_30933",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:06.484699+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB12661",
+      "display": "Ebrantil forte, capsules met gereguleerde afgifte 90 mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "12078_32570_12855_14297_12432_11963_12849_12694_13896_14664_13608_8944_14927_13764_14288_14771_13745_14928_33311_10431_32902_33310_33308_13763_33309_13824_14724_12539_13994_14770_18772_30933",
+          "display": "Joubert syndrome"
+        }
+      ],
+      "text": "Joubert syndrome"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

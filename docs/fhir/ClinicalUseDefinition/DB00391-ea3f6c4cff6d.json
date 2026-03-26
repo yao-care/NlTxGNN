@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB00391-ea3f6c4cff6d",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:29.195449+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB00391",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "14866_12012_33850_11890_11687_12014_13758_11569_13753_10550_12640_11903_8961_14154_10877_10699_32728_7790_11527_14665_11633_12231_13644_11066_11091_11916_14735_14467_11085_11889_12096_11570_11894_10949_36484_14733_14117_14012_10549_10551_14736_11113_7311_11534_11901_10995_13338_14208_14726_13212_7307_14074_12250_11902_14566_14511_10479_7309_10689_11475_14836_54833_11674_13959_11909_7308_11675_19011_18993_15626_18995_18994_18778_44640",
+          "display": "Charcot-Marie-Tooth disease"
+        }
+      ],
+      "text": "Charcot-Marie-Tooth disease"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

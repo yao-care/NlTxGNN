@@ -1,0 +1,35 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "DB14740",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.763439+00:00"
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB14740",
+        "display": "Hyason 150 I.E. poeder voor injectievloeistof"
+      }
+    ],
+    "text": "Hyason 150 I.E. poeder voor injectievloeistof"
+  },
+  "status": "active",
+  "manufacturer": {
+    "display": "Various"
+  },
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "Nl",
+          "display": "Netherlands"
+        }
+      ]
+    }
+  ]
+}

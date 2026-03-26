@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB12661-33541_14280_13500_14278_10296_33542_32723_14597_14727_8856_54696_32599_20849_32763_30858_30013_10504_14453_12426_10386_32803_14491_13427_14222_14981_13953_21094_30898_30973_30981",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:05.070571+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB12661",
+      "display": "Ebrantil forte, capsules met gereguleerde afgifte 90 mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "33541_14280_13500_14278_10296_33542_32723_14597_14727_8856_54696_32599_20849_32763_30858_30013_10504_14453_12426_10386_32803_14491_13427_14222_14981_13953_21094_30898_30973_30981",
+          "display": "immunodeficiency"
+        }
+      ],
+      "text": "immunodeficiency"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

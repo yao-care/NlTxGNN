@@ -1,0 +1,60 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "nltxgnn-server",
+  "url": "https://nltxgnn.yao.care/fhir/metadata",
+  "version": "0.1.0",
+  "name": "NlTxGNNServer",
+  "title": "NlTxGNN FHIR Server",
+  "status": "active",
+  "experimental": true,
+  "date": "2026-03-09",
+  "publisher": "yao.care",
+  "description": "FHIR R4 server for Australia drug repurposing predictions using TxGNN",
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "Nl",
+          "display": "Netherlands"
+        }
+      ]
+    }
+  ],
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": [
+    "json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "profile": "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "profile": "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

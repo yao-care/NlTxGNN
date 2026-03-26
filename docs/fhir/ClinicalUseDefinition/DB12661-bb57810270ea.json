@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB12661-bb57810270ea",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:04.953562+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB12661",
+      "display": "Ebrantil forte, capsules met gereguleerde afgifte 90 mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "14854_14293_14470_12380_11832_14603_14853_11761_11032_14594_12975_10973_12090_14740_12902_10915_11058_14283_11519_12083_7424_11673_11389_13632_11103_11226_11102_12974_12086_11159_11074_11031_10963_13823_11660_11893_13305_11708_11994_12030_11625_11350_13114_12023_11568_11920_12976_14738_14291_10817_11480_13593_11657_19587",
+          "display": "autosomal dominant nonsyndromic deafness"
+        }
+      ],
+      "text": "autosomal dominant nonsyndromic deafness"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

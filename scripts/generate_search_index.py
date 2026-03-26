@@ -1,0 +1,1 @@
+../../TwTxGNN/scripts/generate_search_index.py

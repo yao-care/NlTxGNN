@@ -1,0 +1,54 @@
+name: Gezondheidsnieuws Monitoring
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 lxml
+
+      - name: Check keywords.json
+        run: |
+          if [ ! -f data/news/keywords.json ]; then
+            echo "Generating keywords..."
+            python scripts/generate_news_keywords.py
+          fi
+
+      - name: Fetch Dutch health news
+        run: python scripts/fetchers/nl_news.py
+
+      - name: Process and generate pages
+        run: |
+          if [ -f scripts/process_news.py ]; then
+            python scripts/process_news.py
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+          git add data/news/*.json docs/_news/ docs/data/news-index.json 2>/dev/null || true
+
+          if git diff --staged --quiet; then
+            echo "No news updates"
+          else
+            git commit -m "Update health news $(date +%Y-%m-%d-%H%M)"
+            git push
+          fi

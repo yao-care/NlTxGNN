@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB00391-b4c9795e6c65",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:29.405266+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB00391",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "14302_12928_14568_12867_12766_13132_13239_11489_11785_11339_14304_10044_13962_11408_14018_12213_14644_12448_12787_14282_11532_12866_11445_14015_12639_12181_14295_8438_13552_14020_10043_11803_13165_13551_13342_11006_10047_14882_14016_12476_10287_12256_13048_10418_13179_14729_13401_10046_14303_11992_13737_11522_14024_12334_12453_8437_12643_10733_11862_14305_10878_19064",
+          "display": "hereditary spastic paraplegia"
+        }
+      ],
+      "text": "hereditary spastic paraplegia"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB04573-adb55cee834d",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:55.957942+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB04573",
+      "display": "Synapause-E3 1 mg/g, vaginale creme"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "13274_10761_10945_8378_12796_910_11272_13611_14692_10827_13175_44314_32604_33563_13469_13468_13052_14618_14687_14871_12943_54708_13402_14400_12363_10259_19200_13610_12523_14323_13780_8377_13437_44320_13425_10723_30071_11935_13413_12625_13414_13436_13314_12477_10320_13516_13395_11630_14653_14256_13407_13263_32689_11075_14093_10818_12463_10227_8379_13328_14345_32834_11137_14929_32940_13315_13447_10828_13405_13429_11974_12024_12367_15013_36482_10806_13312_32577_12813_10374_11259",
+          "display": "retinitis pigmentosa"
+        }
+      ],
+      "text": "retinitis pigmentosa"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

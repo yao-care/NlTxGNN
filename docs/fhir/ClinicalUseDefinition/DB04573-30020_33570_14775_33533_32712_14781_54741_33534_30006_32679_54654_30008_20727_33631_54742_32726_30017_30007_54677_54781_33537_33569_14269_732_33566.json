@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB04573-30020_33570_14775_33533_32712_14781_54741_33534_30006_32679_54654_30008_20727_33631_54742_32726_30017_30007_54677_54781_33537_33569_14269_732_33566",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:56.679034+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB04573",
+      "display": "Synapause-E3 1 mg/g, vaginale creme"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "30020_33570_14775_33533_32712_14781_54741_33534_30006_32679_54654_30008_20727_33631_54742_32726_30017_30007_54677_54781_33537_33569_14269_732_33566",
+          "display": "combined oxidative phosphorylation deficiency"
+        }
+      ],
+      "text": "combined oxidative phosphorylation deficiency"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

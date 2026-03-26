@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB12661-c30cc039b877",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:05.795199+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB12661",
+      "display": "Ebrantil forte, capsules met gereguleerde afgifte 90 mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://purl.obolibrary.org/obo/mondo.owl",
+          "code": "14832_13705_14876_12612_9580_12623_15020_14996_14930_12618_13706_13785_14962_13704_14409_12615_12619_14499_14524_54861_13173_14430_12617_32605_12614_13694_14759_13702_13629_14815_13528_13703_13708_13624_13707_14354_11828_13697_20850_14348_12613_30915_14649_44313_12037_13651_20846_13709",
+          "display": "intellectual disability, autosomal recessive"
+        }
+      ],
+      "text": "intellectual disability, autosomal recessive"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN-KG"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

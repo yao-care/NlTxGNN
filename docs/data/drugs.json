@@ -1,0 +1,1457 @@
+{
+  "generated": "2026-03-26",
+  "total_count": 145,
+  "source": "NlTxGNN",
+  "drugs": [
+    {
+      "slug": "db00003",
+      "name": "DB00003",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00003/"
+    },
+    {
+      "slug": "db00009",
+      "name": "DB00009",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00009/"
+    },
+    {
+      "slug": "db00054",
+      "name": "DB00054",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00054/"
+    },
+    {
+      "slug": "db00136",
+      "name": "DB00136",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00136/"
+    },
+    {
+      "slug": "db00169",
+      "name": "DB00169",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00169/"
+    },
+    {
+      "slug": "db00177",
+      "name": "DB00177",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00177/"
+    },
+    {
+      "slug": "db00178",
+      "name": "DB00178",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00178/"
+    },
+    {
+      "slug": "db00181",
+      "name": "DB00181",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00181/"
+    },
+    {
+      "slug": "db00184",
+      "name": "DB00184",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00184/"
+    },
+    {
+      "slug": "db00186",
+      "name": "DB00186",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00186/"
+    },
+    {
+      "slug": "db00188",
+      "name": "DB00188",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00188/"
+    },
+    {
+      "slug": "db00222",
+      "name": "DB00222",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00222/"
+    },
+    {
+      "slug": "db00231",
+      "name": "DB00231",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00231/"
+    },
+    {
+      "slug": "db00244",
+      "name": "DB00244",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00244/"
+    },
+    {
+      "slug": "db00248",
+      "name": "DB00248",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00248/"
+    },
+    {
+      "slug": "db00270",
+      "name": "DB00270",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00270/"
+    },
+    {
+      "slug": "db00284",
+      "name": "DB00284",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00284/"
+    },
+    {
+      "slug": "db00287",
+      "name": "DB00287",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00287/"
+    },
+    {
+      "slug": "db00294",
+      "name": "DB00294",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00294/"
+    },
+    {
+      "slug": "db00304",
+      "name": "DB00304",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00304/"
+    },
+    {
+      "slug": "db00315",
+      "name": "DB00315",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00315/"
+    },
+    {
+      "slug": "db00316",
+      "name": "DB00316",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00316/"
+    },
+    {
+      "slug": "db00321",
+      "name": "DB00321",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00321/"
+    },
+    {
+      "slug": "db00334",
+      "name": "DB00334",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00334/"
+    },
+    {
+      "slug": "db00335",
+      "name": "DB00335",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00335/"
+    },
+    {
+      "slug": "db00337",
+      "name": "DB00337",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00337/"
+    },
+    {
+      "slug": "db00349",
+      "name": "DB00349",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00349/"
+    },
+    {
+      "slug": "db00350",
+      "name": "DB00350",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00350/"
+    },
+    {
+      "slug": "db00352",
+      "name": "DB00352",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00352/"
+    },
+    {
+      "slug": "db00363",
+      "name": "DB00363",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00363/"
+    },
+    {
+      "slug": "db00367",
+      "name": "DB00367",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00367/"
+    },
+    {
+      "slug": "db00381",
+      "name": "DB00381",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00381/"
+    },
+    {
+      "slug": "db00391",
+      "name": "DB00391",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00391/"
+    },
+    {
+      "slug": "db00404",
+      "name": "DB00404",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00404/"
+    },
+    {
+      "slug": "db00426",
+      "name": "DB00426",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00426/"
+    },
+    {
+      "slug": "db00437",
+      "name": "DB00437",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00437/"
+    },
+    {
+      "slug": "db00440",
+      "name": "DB00440",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00440/"
+    },
+    {
+      "slug": "db00450",
+      "name": "DB00450",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00450/"
+    },
+    {
+      "slug": "db00455",
+      "name": "DB00455",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00455/"
+    },
+    {
+      "slug": "db00482",
+      "name": "DB00482",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00482/"
+    },
+    {
+      "slug": "db00494",
+      "name": "DB00494",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00494/"
+    },
+    {
+      "slug": "db00501",
+      "name": "DB00501",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00501/"
+    },
+    {
+      "slug": "db00502",
+      "name": "DB00502",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00502/"
+    },
+    {
+      "slug": "db00503",
+      "name": "DB00503",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00503/"
+    },
+    {
+      "slug": "db00544",
+      "name": "DB00544",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00544/"
+    },
+    {
+      "slug": "db00554",
+      "name": "DB00554",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00554/"
+    },
+    {
+      "slug": "db00555",
+      "name": "DB00555",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00555/"
+    },
+    {
+      "slug": "db00568",
+      "name": "DB00568",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00568/"
+    },
+    {
+      "slug": "db00571",
+      "name": "DB00571",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00571/"
+    },
+    {
+      "slug": "db00581",
+      "name": "DB00581",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00581/"
+    },
+    {
+      "slug": "db00583",
+      "name": "DB00583",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00583/"
+    },
+    {
+      "slug": "db00601",
+      "name": "DB00601",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00601/"
+    },
+    {
+      "slug": "db00625",
+      "name": "DB00625",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00625/"
+    },
+    {
+      "slug": "db00640",
+      "name": "DB00640",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00640/"
+    },
+    {
+      "slug": "db00654",
+      "name": "DB00654",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00654/"
+    },
+    {
+      "slug": "db00665",
+      "name": "DB00665",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00665/"
+    },
+    {
+      "slug": "db00668",
+      "name": "DB00668",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00668/"
+    },
+    {
+      "slug": "db00695",
+      "name": "DB00695",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00695/"
+    },
+    {
+      "slug": "db00712",
+      "name": "DB00712",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00712/"
+    },
+    {
+      "slug": "db00742",
+      "name": "DB00742",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00742/"
+    },
+    {
+      "slug": "db00745",
+      "name": "DB00745",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00745/"
+    },
+    {
+      "slug": "db00770",
+      "name": "DB00770",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00770/"
+    },
+    {
+      "slug": "db00773",
+      "name": "DB00773",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00773/"
+    },
+    {
+      "slug": "db00776",
+      "name": "DB00776",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00776/"
+    },
+    {
+      "slug": "db00788",
+      "name": "DB00788",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00788/"
+    },
+    {
+      "slug": "db00795",
+      "name": "DB00795",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00795/"
+    },
+    {
+      "slug": "db00806",
+      "name": "DB00806",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00806/"
+    },
+    {
+      "slug": "db00809",
+      "name": "DB00809",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00809/"
+    },
+    {
+      "slug": "db00813",
+      "name": "DB00813",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00813/"
+    },
+    {
+      "slug": "db00814",
+      "name": "DB00814",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00814/"
+    },
+    {
+      "slug": "db00818",
+      "name": "DB00818",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00818/"
+    },
+    {
+      "slug": "db00820",
+      "name": "DB00820",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00820/"
+    },
+    {
+      "slug": "db00829",
+      "name": "DB00829",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00829/"
+    },
+    {
+      "slug": "db00842",
+      "name": "DB00842",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00842/"
+    },
+    {
+      "slug": "db00853",
+      "name": "DB00853",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00853/"
+    },
+    {
+      "slug": "db00879",
+      "name": "DB00879",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00879/"
+    },
+    {
+      "slug": "db00887",
+      "name": "DB00887",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00887/"
+    },
+    {
+      "slug": "db00900",
+      "name": "DB00900",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00900/"
+    },
+    {
+      "slug": "db00904",
+      "name": "DB00904",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00904/"
+    },
+    {
+      "slug": "db00905",
+      "name": "DB00905",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00905/"
+    },
+    {
+      "slug": "db00909",
+      "name": "DB00909",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00909/"
+    },
+    {
+      "slug": "db00910",
+      "name": "DB00910",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00910/"
+    },
+    {
+      "slug": "db00912",
+      "name": "DB00912",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00912/"
+    },
+    {
+      "slug": "db00929",
+      "name": "DB00929",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00929/"
+    },
+    {
+      "slug": "db00947",
+      "name": "DB00947",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00947/"
+    },
+    {
+      "slug": "db00960",
+      "name": "DB00960",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00960/"
+    },
+    {
+      "slug": "db00966",
+      "name": "DB00966",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00966/"
+    },
+    {
+      "slug": "db00967",
+      "name": "DB00967",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00967/"
+    },
+    {
+      "slug": "db00987",
+      "name": "DB00987",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00987/"
+    },
+    {
+      "slug": "db00989",
+      "name": "DB00989",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00989/"
+    },
+    {
+      "slug": "db00993",
+      "name": "DB00993",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db00993/"
+    },
+    {
+      "slug": "db01023",
+      "name": "DB01023",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01023/"
+    },
+    {
+      "slug": "db01029",
+      "name": "DB01029",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01029/"
+    },
+    {
+      "slug": "db01048",
+      "name": "DB01048",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01048/"
+    },
+    {
+      "slug": "db01050",
+      "name": "DB01050",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01050/"
+    },
+    {
+      "slug": "db01058",
+      "name": "DB01058",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01058/"
+    },
+    {
+      "slug": "db01068",
+      "name": "DB01068",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01068/"
+    },
+    {
+      "slug": "db01083",
+      "name": "DB01083",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01083/"
+    },
+    {
+      "slug": "db01088",
+      "name": "DB01088",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01088/"
+    },
+    {
+      "slug": "db01097",
+      "name": "DB01097",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01097/"
+    },
+    {
+      "slug": "db01100",
+      "name": "DB01100",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01100/"
+    },
+    {
+      "slug": "db01101",
+      "name": "DB01101",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01101/"
+    },
+    {
+      "slug": "db01111",
+      "name": "DB01111",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01111/"
+    },
+    {
+      "slug": "db01115",
+      "name": "DB01115",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01115/"
+    },
+    {
+      "slug": "db01120",
+      "name": "DB01120",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01120/"
+    },
+    {
+      "slug": "db01124",
+      "name": "DB01124",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01124/"
+    },
+    {
+      "slug": "db01126",
+      "name": "DB01126",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01126/"
+    },
+    {
+      "slug": "db01128",
+      "name": "DB01128",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01128/"
+    },
+    {
+      "slug": "db01136",
+      "name": "DB01136",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01136/"
+    },
+    {
+      "slug": "db01194",
+      "name": "DB01194",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01194/"
+    },
+    {
+      "slug": "db01202",
+      "name": "DB01202",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01202/"
+    },
+    {
+      "slug": "db01205",
+      "name": "DB01205",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01205/"
+    },
+    {
+      "slug": "db01216",
+      "name": "DB01216",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01216/"
+    },
+    {
+      "slug": "db01222",
+      "name": "DB01222",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01222/"
+    },
+    {
+      "slug": "db01229",
+      "name": "DB01229",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01229/"
+    },
+    {
+      "slug": "db01339",
+      "name": "DB01339",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01339/"
+    },
+    {
+      "slug": "db01362",
+      "name": "DB01362",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01362/"
+    },
+    {
+      "slug": "db01394",
+      "name": "DB01394",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01394/"
+    },
+    {
+      "slug": "db01410",
+      "name": "DB01410",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01410/"
+    },
+    {
+      "slug": "db01418",
+      "name": "DB01418",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01418/"
+    },
+    {
+      "slug": "db01436",
+      "name": "DB01436",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01436/"
+    },
+    {
+      "slug": "db01544",
+      "name": "DB01544",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01544/"
+    },
+    {
+      "slug": "db01590",
+      "name": "DB01590",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01590/"
+    },
+    {
+      "slug": "db01595",
+      "name": "DB01595",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01595/"
+    },
+    {
+      "slug": "db01628",
+      "name": "DB01628",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01628/"
+    },
+    {
+      "slug": "db01638",
+      "name": "DB01638",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db01638/"
+    },
+    {
+      "slug": "db02300",
+      "name": "DB02300",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db02300/"
+    },
+    {
+      "slug": "db04573",
+      "name": "DB04573",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db04573/"
+    },
+    {
+      "slug": "db04844",
+      "name": "DB04844",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db04844/"
+    },
+    {
+      "slug": "db04920",
+      "name": "DB04920",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db04920/"
+    },
+    {
+      "slug": "db06736",
+      "name": "DB06736",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db06736/"
+    },
+    {
+      "slug": "db08819",
+      "name": "DB08819",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db08819/"
+    },
+    {
+      "slug": "db09020",
+      "name": "DB09020",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db09020/"
+    },
+    {
+      "slug": "db09055",
+      "name": "DB09055",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db09055/"
+    },
+    {
+      "slug": "db09123",
+      "name": "DB09123",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db09123/"
+    },
+    {
+      "slug": "db09236",
+      "name": "DB09236",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db09236/"
+    },
+    {
+      "slug": "db11075",
+      "name": "DB11075",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db11075/"
+    },
+    {
+      "slug": "db11696",
+      "name": "DB11696",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db11696/"
+    },
+    {
+      "slug": "db11742",
+      "name": "DB11742",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db11742/"
+    },
+    {
+      "slug": "db12474",
+      "name": "DB12474",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db12474/"
+    },
+    {
+      "slug": "db12661",
+      "name": "DB12661",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db12661/"
+    },
+    {
+      "slug": "db13166",
+      "name": "DB13166",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db13166/"
+    },
+    {
+      "slug": "db13872",
+      "name": "DB13872",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db13872/"
+    },
+    {
+      "slug": "db14513",
+      "name": "DB14513",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db14513/"
+    },
+    {
+      "slug": "db14740",
+      "name": "DB14740",
+      "evidence_level": "L5",
+      "indication_count": 100,
+      "original_indication": "",
+      "predicted_indication": "osteogenesis imperfecta",
+      "txgnn_score": "",
+      "url": "/drugs/db14740/"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ title: "NlTxGNN Drug Repurposing Reports"
 description: "Netherlands (CBG-MEB) drug repurposing predictions powered by TxGNN"
 url: "https://nltxgnn.yao.care"
 baseurl: ""
-lang: "en"
+lang: "nl"
 
 # Jekyll theme
 remote_theme: just-the-docs/just-the-docs@v0.10.1

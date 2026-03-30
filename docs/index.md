@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drug Repurposing Reports
+title: "Voorspellingen voor Geneesmiddelherpositionering \u2014 Nederland"
 nav_order: 1
 description: "AI-powered drug repurposing predictions for 145 Netherlands (CBG-MEB) approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
 permalink: /

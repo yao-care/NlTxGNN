@@ -1,100 +1,31 @@
-# NlTxGNN - Netherlands Drug Repurposing Predictions
+# NlTxGNN - Nederland: Herpositionering van Geneesmiddelen
 
-Drug repurposing predictions for medicines authorized in the Netherlands using TxGNN knowledge graph and deep learning models.
+[![Website](https://img.shields.io/badge/Website-nltxgnn.yao.care-blue)](https://nltxgnn.yao.care)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
-
-NlTxGNN analyzes medicines registered with the Dutch College ter Beoordeling van Geneesmiddelen (CBG-MEB) and predicts potential new therapeutic indications based on:
-
-- **TxGNN Knowledge Graph**: Relationships between drugs and diseases from biomedical knowledge bases
-- **Deep Learning Model**: Neural network predictions based on drug-disease embeddings
-- **Evidence Collection**: Clinical trials from ClinicalTrials.gov and literature from PubMed
-
-## Data Source
-
-Drug data is obtained from the [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/):
-- CSV export via [Open State Foundation](https://data.openstate.eu/dataset/geneesmiddeleninformatiebank/)
-- License: CC0 (Public Domain)
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yao-care/NlTxGNN.git
-cd NlTxGNN
-
-# Install dependencies
-uv sync
-
-# Download TxGNN data
-python scripts/download_data.py
-```
-
-## Usage
-
-### 1. Download Dutch Drug Data
-
-```bash
-uv run python scripts/download_dutch_data.py
-```
-
-### 2. Prepare External Data
-
-```bash
-uv run python scripts/prepare_external_data.py
-```
-
-### 3. Run KG Prediction
-
-```bash
-uv run python scripts/run_kg_prediction.py
-```
-
-### 4. Run Deep Learning Prediction (optional)
-
-```bash
-source ~/miniforge3/bin/activate txgnn
-PYTHONPATH=src python -m nltxgnn.predict.txgnn_model
-```
-
-## Project Structure
-
-```
-NlTxGNN/
-├── data/
-│   ├── raw/                    # Raw Dutch drug data
-│   ├── processed/              # Prediction results
-│   ├── external/               # TxGNN vocabularies
-│   └── news/                   # News monitoring data
-├── docs/                       # Jekyll website
-├── prompts/                    # LLM report prompts
-├── scripts/
-│   ├── download_dutch_data.py  # Data download script
-│   ├── prepare_external_data.py # Vocabulary extraction
-│   ├── run_kg_prediction.py    # KG prediction
-│   └── fetchers/               # News fetchers
-└── src/nltxgnn/
-    ├── data/                   # Data loading
-    ├── mapping/                # DrugBank/disease mapping
-    ├── predict/                # Prediction modules
-    └── collectors/             # Evidence collectors
-```
-
-## Regulatory Agency
-
-- **CBG-MEB**: College ter Beoordeling van Geneesmiddelen (Medicines Evaluation Board)
-- **Website**: https://www.cbg-meb.nl/
-- **Language**: Dutch / English
+Voorspellingen voor herpositionering van geneesmiddelen (drug repurposing) voor Nederland met behulp van het TxGNN-model.
 
 ## Disclaimer
 
-This project is for research purposes only and does not constitute medical advice. All drug repurposing predictions require clinical validation before any therapeutic application.
+- De resultaten van dit project zijn uitsluitend bedoeld voor onderzoeksdoeleinden en vormen geen medisch advies.
+- Kandidaten voor herpositionering van geneesmiddelen vereisen klinische validatie voor toepassing.
 
-## License
+## Projectoverzicht
 
-MIT License
+| Onderdeel | Aantal |
+|-----------|--------|
+| **Geneesmiddelrapporten** | 145 |
+| **Totale Voorspellingen** | 2,473,755 |
+
+## Voorspellingsmethoden
+
+### Kennisgrafiekmethode (Knowledge Graph)
+Directe bevraging van geneesmiddel-ziekterelaties in de TxGNN-kennisgrafiek, identificatie van potentiele herpositioneringskandidaten op basis van bestaande verbindingen in het biomedische netwerk.
+
+### Deep Learning-methode
+Maakt gebruik van het voorgetrainde neurale netwerkmodel van TxGNN om voorspellingsscores te berekenen, waarbij de waarschijnlijkheid van nieuwe therapeutische indicaties voor goedgekeurde geneesmiddelen wordt beoordeeld.
 
 ## Links
 
-- Website: https://nltxgnn.yao.care/
-- GitHub: https://github.com/yao-care/NlTxGNN
+- Website: https://nltxgnn.yao.care
+- TxGNN-publicatie: https://doi.org/10.1038/s41591-023-02233-x

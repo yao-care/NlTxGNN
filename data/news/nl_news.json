@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-12T12:55:59.565385+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-12T18:42:44.033283+00:00",
+  "count": 5,
   "news": [
     {
       "id": "46b95c5aa342",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "c3a78542894d",
-      "title": "Landbouwpesticiden verhogen kankerkans met 150 procent - bnnvara",
-      "published": "2026-04-11T12:10:31+00:00",
-      "summary": "Landbouwpesticiden verhogen kankerkans met 150 procent&nbsp;&nbsp;bnnvaraOnderzoek in Nature legt duidelijk verband tussen pesticiden en kanker&nbsp;&nbsp;KnackBlootstelling aan pesticiden houdt verband met verhoogd risico op kanker&nbsp;&nbsp;Newsmonkey -",
+      "id": "22ce6a201e3d",
+      "title": "Politiebericht over dood drie jonge kinderen na ziekteverschijnselen - Starnieuws",
+      "published": "2026-04-12T11:38:00+00:00",
+      "summary": "Politiebericht over dood drie jonge kinderen na ziekteverschijnselen&nbsp;&nbsp;StarnieuwsDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie SurinameOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of Suriname1-, 2- en 4-jarige kinderen levenloos binnengebracht bij Spoedeisende Hulp&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
-          "name": "bnnvara",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlozZkJ5bjVaM1V1S29iclZxZ2U2anpmR2lOOExhMk9ocWhGUV95bHRsRXdhYlRlYU1kcU1Xdld4QXpHenBGSEhFbDJDY2RhdEZKTUJ0THhmRjI1blYtckMwSUZqdjVvMTdUUXliRGc3OFgtZnFRbl9wZXZ0TnZ0NjRYYVp1TmNadVNIekpHY0EyRndPRkw4?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5taUxocWd4UXNHdkY2Y2wzX25FQXdwMFR3Q05WQ2pWUDlSY1lrWXI0UG5nTEd1LXY5allNTFZmWUJYQ3REYXRBemxucUFLRUhwbUs1QkgzTGd3blAyYUJSMWs1TVdmQ0gxLXZMaWJYenIyaXBidEE?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUS12T0ZZVEVEbmpEa3pEaHpabndCVUNWTnJadjlwcnJsY2s2anVmMDFkTm0wUzJMcS1IZ3dPcEpSNWdGWHBBbXB4WVM1bXlaTmJyN0U1M3RsSmRtNDlBX3J4amVZamNoaFUtZkR1c0FpVko3NXVqREpWWFRSMTZWX0g4aVdUWktZMFI1dmxxQjA0Vl9IVkxuaVBiOWNzSjlVVmdMZzFIUU9OZEZyWXdrOWl0Zmo1UGZYbUI1bTBqUXFEOFhuREQxRkJLUFhmblh3UkVidHdBbGY1ZzJPM2FuQzAtX3c0UkxmbkpldlpudHZiVFpDbngzY3g3QnIyWHFSSUV1d2NBay1yUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3a78542894d",
+      "title": "Landbouwpesticiden verhogen kankerkans met 150 procent - bnnvara",
+      "published": "2026-04-11T12:10:31+00:00",
+      "summary": "Landbouwpesticiden verhogen kankerkans met 150 procent&nbsp;&nbsp;bnnvaraOnderzoek in Nature legt duidelijk verband tussen pesticiden en kanker&nbsp;&nbsp;KnackBlootstelling aan pesticiden houdt verband met verhoogd risico op kanker&nbsp;&nbsp;Newsmonkey -",
+      "sources": [
+        {
+          "name": "bnnvara",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlozZkJ5bjVaM1V1S29iclZxZ2U2anpmR2lOOExhMk9ocWhGUV95bHRsRXdhYlRlYU1kcU1Xdld4QXpHenBGSEhFbDJDY2RhdEZKTUJ0THhmRjI1blYtckMwSUZqdjVvMTdUUXliRGc3OFgtZnFRbl9wZXZ0TnZ0NjRYYVp1TmNadVNIekpHY0EyRndPRkw4?oc=5"
         }
       ]
     }

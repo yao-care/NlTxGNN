@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-12T18:42:44.033283+00:00",
+  "fetched_at": "2026-04-13T02:27:16.266778+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "51154846020e",
+      "title": "Leven met Parkinson: 'Ik heb het, maar ik ben het niet' - L1 Nieuws",
+      "published": "2026-04-11T07:03:11+00:00",
+      "summary": "Leven met Parkinson: 'Ik heb het, maar ik ben het niet'&nbsp;&nbsp;L1 NieuwsSonja (66) uit Hoofddorp leeft met Parkinson: ’Parkinson mag meerijden op de achterbank, maar de ziekte mag niet achter het stuur gaan zitten’&nbsp;&nbsp;Haarlems DagbladMoeder Annelien (43) heeft de ziekte van Parkinson: ‘Ik wil dingen doen nu het nog kan’&nbsp;&nbsp;J/M OudersEn dan heb je Parkinson...&nbsp;&nbsp;L1Parkinson treft steeds vaker jonge mensen, zo ook Annelien (43): 'Ik tril mezelf weleens wakker'&nbsp;&nb",
+      "sources": [
+        {
+          "name": "L1 Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMW91d1UtTEp4MmYzTFlEYnBzT0U5TjFQd0ZRN0RPYjVDTFlQbmgzREx1Q2tQX09HczdvVmJaUWF2STVoUjd4eldpN1FvcVhiSzFvVWFvU0czZkFOT2swSUhHV0NFSVZJcXg5anBtbkdIMy1uSkZFZUtJV2VkQUtfeFgxQTA4M2x6SnBvSWIzS1pyN3VY?oc=5"
+        }
+      ]
+    },
     {
       "id": "46b95c5aa342",
       "title": "Na dubbele transplantatie heeft Liesanne geen diabetes meer: 'Leven zoveel makkelijker' - RTL.nl",
@@ -16,22 +28,10 @@
       ]
     },
     {
-      "id": "51154846020e",
-      "title": "Leven met Parkinson: 'Ik heb het, maar ik ben het niet' - L1 Nieuws",
-      "published": "2026-04-11T07:04:02+00:00",
-      "summary": "Leven met Parkinson: 'Ik heb het, maar ik ben het niet'&nbsp;&nbsp;L1 NieuwsSonja (66) uit Hoofddorp leeft met Parkinson: ’Parkinson mag meerijden op de achterbank, maar de ziekte mag niet achter het stuur gaan zitten’&nbsp;&nbsp;Haarlems DagbladMoeder Annelien (43) heeft de ziekte van Parkinson: ‘Ik wil dingen doen nu het nog kan’&nbsp;&nbsp;J/M OudersEn dan heb je Parkinson...&nbsp;&nbsp;L1Parkinson treft steeds vaker jonge mensen, zo ook Annelien (43): 'Ik tril mezelf weleens wakker'&nbsp;&nb",
-      "sources": [
-        {
-          "name": "L1 Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMW91d1UtTEp4MmYzTFlEYnBzT0U5TjFQd0ZRN0RPYjVDTFlQbmgzREx1Q2tQX09HczdvVmJaUWF2STVoUjd4eldpN1FvcVhiSzFvVWFvU0czZkFOT2swSUhHV0NFSVZJcXg5anBtbkdIMy1uSkZFZUtJV2VkQUtfeFgxQTA4M2x6SnBvSWIzS1pyN3VY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "22ce6a201e3d",
       "title": "Politiebericht over dood drie jonge kinderen na ziekteverschijnselen - Starnieuws",
       "published": "2026-04-12T11:38:00+00:00",
-      "summary": "Politiebericht over dood drie jonge kinderen na ziekteverschijnselen&nbsp;&nbsp;StarnieuwsDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie SurinameOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of Suriname1-, 2- en 4-jarige kinderen levenloos binnengebracht bij Spoedeisende Hulp&nbsp;&nbsp;Suriname Herald",
+      "summary": "Politiebericht over dood drie jonge kinderen na ziekteverschijnselen&nbsp;&nbsp;StarnieuwsDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie SurinameOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of Suriname1-, 2- en 4-jarige kinderen levenloos binnengebracht bij Spoedeisende Hulp&nbsp;&nbsp;Suriname HeraldDrie kindjes dood binnengebracht bij SEH; oorzaak overlijden nog onduidelijk&nbsp;&nbsp;Waterkant",
       "sources": [
         {
           "name": "Starnieuws",
@@ -55,7 +55,7 @@
       "id": "c3a78542894d",
       "title": "Landbouwpesticiden verhogen kankerkans met 150 procent - bnnvara",
       "published": "2026-04-11T12:10:31+00:00",
-      "summary": "Landbouwpesticiden verhogen kankerkans met 150 procent&nbsp;&nbsp;bnnvaraOnderzoek in Nature legt duidelijk verband tussen pesticiden en kanker&nbsp;&nbsp;KnackBlootstelling aan pesticiden houdt verband met verhoogd risico op kanker&nbsp;&nbsp;Newsmonkey -",
+      "summary": "Landbouwpesticiden verhogen kankerkans met 150 procent&nbsp;&nbsp;bnnvaraOnderzoek in Nature legt duidelijk verband tussen pesticiden en kanker&nbsp;&nbsp;Knack",
       "sources": [
         {
           "name": "bnnvara",

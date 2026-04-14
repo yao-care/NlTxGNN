@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-13T19:11:15.140295+00:00",
+  "fetched_at": "2026-04-14T02:13:06.520342+00:00",
   "count": 4,
   "news": [
-    {
-      "id": "40854fdb13f9",
-      "title": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie - De Telegraaf",
-      "published": "2026-04-13T18:06:28+00:00",
-      "summary": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXFFSl9hcHRrSFlMUVlOdG9wZkNFWDF4RU9yWXU4S3p3LTdmOHBLUnNEZkxCZ01fblN5MjFDWHBXUVJTNzdjZ3dnWEVVSUVoLVVFUVBHcFh3aXh2QjJxanc0OWNpYmlIWS1OS21faW1YejNNbl9ieHBMSzVULXY2SGdQY3NjZ1NlcGtzQS1nYVE0LTZMZDlZLWIyTmktMFhzMllLRmVGLVlyUlk4a2d1RDlOWlZNSE1W?oc=5"
-        }
-      ]
-    },
     {
       "id": "46b95c5aa342",
       "title": "Na dubbele transplantatie heeft Liesanne geen diabetes meer: 'Leven zoveel makkelijker' - RTL.nl",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "49d48af4519d",
-      "title": "Nieuw onderzoek: Je kunt je risico op een hartziekte halveren door je te richten op één detail rond je slaap – een expert noemt het belangrijk en over het hoofd gezien - wibnet.nl",
-      "published": "2026-04-11T20:00:31+00:00",
-      "summary": "Nieuw onderzoek: Je kunt je risico op een hartziekte halveren door je te richten op één detail rond je slaap – een expert noemt het belangrijk en over het hoofd gezien&nbsp;&nbsp;wibnet.nl",
+      "id": "40854fdb13f9",
+      "title": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie - De Telegraaf",
+      "published": "2026-04-14T01:35:48+00:00",
+      "summary": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie&nbsp;&nbsp;De TelegraafHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUS12T0ZZVEVEbmpEa3pEaHpabndCVUNWTnJadjlwcnJsY2s2anVmMDFkTm0wUzJMcS1IZ3dPcEpSNWdGWHBBbXB4WVM1bXlaTmJyN0U1M3RsSmRtNDlBX3J4amVZamNoaFUtZkR1c0FpVko3NXVqREpWWFRSMTZWX0g4aVdUWktZMFI1dmxxQjA0Vl9IVkxuaVBiOWNzSjlVVmdMZzFIUU9OZEZyWXdrOWl0Zmo1UGZYbUI1bTBqUXFEOFhuREQxRkJLUFhmblh3UkVidHdBbGY1ZzJPM2FuQzAtX3c0UkxmbkpldlpudHZiVFpDbngzY3g3QnIyWHFSSUV1d2NBay1yUQ?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXFFSl9hcHRrSFlMUVlOdG9wZkNFWDF4RU9yWXU4S3p3LTdmOHBLUnNEZkxCZ01fblN5MjFDWHBXUVJTNzdjZ3dnWEVVSUVoLVVFUVBHcFh3aXh2QjJxanc0OWNpYmlIWS1OS21faW1YejNNbl9ieHBMSzVULXY2SGdQY3NjZ1NlcGtzQS1nYVE0LTZMZDlZLWIyTmktMFhzMllLRmVGLVlyUlk4a2d1RDlOWlZNSE1W?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cce9b841b232",
+      "title": "Silve (10) kan niet meer onbevangen naar een verjaardagsfeest van een vriendje. Kinderartsen zien opvallende stijging jonge diabetespatiënten - Noordhollands Dagblad",
+      "published": "2026-04-13T12:00:00+00:00",
+      "summary": "Silve (10) kan niet meer onbevangen naar een verjaardagsfeest van een vriendje. Kinderartsen zien opvallende stijging jonge diabetespatiënten&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPR1hEejJNVTAwN1prUmJhek5pVTdSVkRkQWVRN3dNQVFPa29lUFBZVGdweXlJQjRad3JpQkhkTms0TURkUkJFRjVCaGNHbGY0bk1pamgycEVZaUZuQjV2NHNieVcyQ3VHV0c0alJRaUlYWFI4SWVpcXBkWjFVY1FUVUV2Y2Y0cEZ4WkVxRFNqcmhmVUlHSEpfaHdxaEp5bHhnRGRhWnJzSThfaXpLSmVnamxBNzZfVUFZTTJwMmphSVpiNUxtM2pmV0tUN1BKazk0T1NiclVDUTZXemNOZExaVGF1SEdzcGc3UGUwUUNCTVhjcEhCVGdEZEgzZWdNdmh1UTE5akE3eGtVXzBPRkNZdUphZGx3OW55aldZaUNIUHFJQVQ3RzRaTUJTZlNUSEtaQ3ltckg2RFRVSWhGZDR2Zy14YmF4cU1RYnhj?oc=5"
         }
       ]
     },

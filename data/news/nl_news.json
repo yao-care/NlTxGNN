@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-14T13:19:39.652217+00:00",
-  "count": 5,
+  "fetched_at": "2026-04-14T19:10:06.365518+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "74d06dcbd515",
+      "title": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’ - De Telegraaf",
+      "published": "2026-04-14T18:01:23+00:00",
+      "summary": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’&nbsp;&nbsp;De TelegraafEffect van de zwezerik op onze immuniteit lang onderschat: \"Klein orgaantje speelt echt een belangrijke rol\"&nbsp;&nbsp;VRTDe onderschatte zwezerik blijkt ‘essentieel’ voor onze gezondheid&nbsp;&nbsp;De MorgenHet ‘vergeten’ orgaan dat de sleutel kan zijn tot een langer leven: “Dit is een heel belangrijk inzicht”&nbsp;&nbsp;NieuwsbladD",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQT3Q5SXRQMTY0OHJLLXlURmJ4M1FyLTRaLVN1ckJqYTNYOWJFajFrcUdUVE5CUlZuVEh4YTZuc1BMSVFsOTZoWXBHWmdkdkhhTXBNX29iM21PMzIzUGdMVVAxY2hUUTNGZzBEd3cyQTU4RGw1b3YtZncxaklMd1RKZExxa1RORFd3TFZwcGcwSnlMZ1JhbFRLTi15QVlSanFkS2swRTZVdktOR0diUEcxUVpSUElGWE9GeFVzNks3N2twREZDMU9QWjRXcjV3V2pIck5DUkVYeDhremJvdWZvajM3aE9weXVvNm9CcW0xbU1zcmRDenl3b2xwaUNjM2tacG5rekxkTXg0XzA5a1UzU3QtaFd6NDRFNFVEQkhrQXI0dw?oc=5"
+        }
+      ]
+    },
     {
       "id": "592428432de4",
       "title": "Gevreesde vogelgriep lijkt veel minder eng: door griep of griepprik is er al wat immuniteit - de Volkskrant",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "fb6b82993a05",
-      "title": "Na jaren onbegrip heeft Nienke (27) eindelijk een diagnose: ‘Zelfs dénken aan eten kan een aanval uitlokken’ - De Gelderlander",
-      "published": "2026-04-14T05:20:00+00:00",
-      "summary": "Na jaren onbegrip heeft Nienke (27) eindelijk een diagnose: ‘Zelfs dénken aan eten kan een aanval uitlokken’&nbsp;&nbsp;De Gelderlander",
+      "id": "ca84e64517c1",
+      "title": "Onze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050 - bnnvara",
+      "published": "2026-04-14T10:19:13+00:00",
+      "summary": "Onze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvara",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQVVHeS12UGZ0WHpVVWZjYTZZMDB3c0JiRkJRQTdPNnoyMkZEdThzcllSZ3QxLVVEX0pJU1ZzaXlMMDRUeUdncnZ5SVRpbTZrTzA1UVlMSGJzaS1oNFZ2LWkyb1J6c0RzOFBHZXlQVk54LXE2WUxGZUdxX09aSkxrWVJzclpZdjV6V0FqY29uZEcwRzU5djZPcFlRc0t1SHVZWHZZQVZ0c012VmdWRDdvaHlDSk5iX0xJMnFHbnA3b0FiWlZqa056R0tJTG9ZYmFKYUtZcmJISDFSYWd1QzBqeHR5ZVltV3M?oc=5"
+          "name": "bnnvara",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmRYLVlWcFRRWkt4d29YSG9OU2d0M0JhYnhPYXpITVQ2Q1hvaTUyc2NCd0lKYUtSbS0xYTE3Y1AtQ3gyTXVaZ3hhTlVSb2VUc2tZZmowOWNRcVFlb1hrTkFiNHdYMnFobXJUQmdobHFCei1WSlQzVmZlMzlNMk51Nkw0azFLSHZmYkxKcmc0dUdoZk9ma2JnZ3JFQ0ZZUWF5SFBtYk1pNWJ5UFp2VVRNVkw5bG81Nkx6YjU2d1BxYlljeU80ZnJwd0pB?oc=5"
         }
       ]
     },

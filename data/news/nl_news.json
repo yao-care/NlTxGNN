@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-15T07:27:16.756174+00:00",
-  "count": 8,
+  "fetched_at": "2026-04-15T13:19:08.551703+00:00",
+  "count": 5,
   "news": [
     {
       "id": "5636b2c8089f",
       "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - AD.nl",
       "published": "2026-04-15T06:00:00+00:00",
-      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;AD.nlHele verhaal bekijken via Google Nieuws",
+      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;AD.nlDodelijke schimmels, ringworm: het gaat helemaal mis, artsen roepen WHO op om in actie te komen&nbsp;&nbsp;De GelderlanderResistente schimmels grijpen om zich heen, wetenschappers vragen WHO om actie&nbsp;&nbsp;TrouwArtsen slaan alarm: 'Meer ernstige schimmelinfecties door resistentie'&nbsp;&nbsp;plusonline.nlDoor onjuist medicijngebruik verspreidde de schimmelinfectie zich over het hele lichaam, met hevige jeu",
       "sources": [
         {
           "name": "AD.nl",
@@ -54,48 +54,12 @@
     {
       "id": "0815ded952b9",
       "title": "Studie: metabole leverziekte treft straks 1,8 miljard mensen - bnr.nl",
-      "published": "2026-04-14T19:15:00+00:00",
-      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlWereldwijd kampt één op zes met metabole leververvetting: “Ons lichaam is niet gemaakt voor onze manier van leven”&nbsp;&nbsp;NieuwsbladOnze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvaraMetabole leverziekte treft wereldwijd één op de zes mensen&nbsp;&nbsp;Business AM",
+      "published": "2026-04-14T19:15:38+00:00",
+      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaF9na29CMW1KWEhxSEotZFJqamw1ZjJTWDRzeHJkenRmVVFhdmlkbjFOY01rOEtVZThBUlAyNWZMR0dyLWc4Z1Vjb2Rmdl9BSWlOSXhjTmZicXRqeXpaRTZIV1NjTmxjekw2UFA5OG9CZUtrMFVjQkFfbkZtWmd6MjdBS28zallONEVZRFhPa0U2aEU0c2h0NG12WlRGd0thLW9KZ3Rybw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40854fdb13f9",
-      "title": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie - De Telegraaf",
-      "published": "2026-04-13T16:36:18+00:00",
-      "summary": "Noorse ’Oslo-patiënt’ lijkt genezen van hiv na stamceltransplantatie&nbsp;&nbsp;De TelegraafHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXFFSl9hcHRrSFlMUVlOdG9wZkNFWDF4RU9yWXU4S3p3LTdmOHBLUnNEZkxCZ01fblN5MjFDWHBXUVJTNzdjZ3dnWEVVSUVoLVVFUVBHcFh3aXh2QjJxanc0OWNpYmlIWS1OS21faW1YejNNbl9ieHBMSzVULXY2SGdQY3NjZ1NlcGtzQS1nYVE0LTZMZDlZLWIyTmktMFhzMllLRmVGLVlyUlk4a2d1RDlOWlZNSE1W?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e9e4e1b717f",
-      "title": "Zoetstoffen kunnen mogelijk effect hebben op volgende generatie, zegt nieuwe internationale studie - HLN",
-      "published": "2026-04-13T18:49:44+00:00",
-      "summary": "Zoetstoffen kunnen mogelijk effect hebben op volgende generatie, zegt nieuwe internationale studie&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTVpYjRLTEFWQUhWcWZZUWdxcmpnRmQtbl90N2JJemtMYW5iNVhPQlhlcGlvY2tBQ2pvSEkteFgzdmY4LUZRdGdiNGdzeEZHMFI0bTJ2T0haTWozcXJBUHZVcXNqMkJmUFlqcXNHT2tuWkwtYW45YWhsaDYyOXA2WE1TVXdxRGwteWtObG51NnpfVEJSdDBidERQbGs0ZDRKXzRIMGRQVTdodWZJR0FyX2kwUDRjbFNsWDgyRDVhUFZBMFRrcFFtdklydjREZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77195fc1e9a9",
-      "title": "Dementieonderzoeker achter een grote studie: We hebben iets cruciaals over het hoofd gezien waardoor je hersenen veel sneller kunnen verouderen - wibnet.nl",
-      "published": "2026-04-13T20:00:41+00:00",
-      "summary": "Dementieonderzoeker achter een grote studie: We hebben iets cruciaals over het hoofd gezien waardoor je hersenen veel sneller kunnen verouderen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTlNdG52TWNGTGt0MzRLSUFtc2pKYUFzRjZwczVsSm5GdVJuZTB3Yi1JSS1OeWVLNjc1ZExPZC1rUGVhOWZzcThDZmE0amZUamlkMXhIb0tENHdzcFMtLWVVcU1Kb1ZsWmZTWUZ1TGExT05FUkRTUzU5R1ZJUmRPaXNTWXpPTWZGX0FyV20yM2R5d0N5V1BPelJ1QW4wVmUtVkV1XzNFYmtpazJ1bHFEa1JiYkROVm5nZDV2NHhUX0FJRzlzLUNSb0NPWDBKTlhtNGxVcnd0elItMUpNUFdfVlFTQlR0M0pwdkRyby1KMXBJbEZpOWY4TEtzVmdfVXFx?oc=5"
         }
       ]
     }

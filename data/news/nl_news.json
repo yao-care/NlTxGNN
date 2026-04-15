@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-14T19:10:06.365518+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-15T02:10:20.591288+00:00",
+  "count": 7,
   "news": [
     {
       "id": "74d06dcbd515",
       "title": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’ - De Telegraaf",
-      "published": "2026-04-14T18:01:23+00:00",
+      "published": "2026-04-14T22:30:00+00:00",
       "summary": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’&nbsp;&nbsp;De TelegraafEffect van de zwezerik op onze immuniteit lang onderschat: \"Klein orgaantje speelt echt een belangrijke rol\"&nbsp;&nbsp;VRTDe onderschatte zwezerik blijkt ‘essentieel’ voor onze gezondheid&nbsp;&nbsp;De MorgenHet ‘vergeten’ orgaan dat de sleutel kan zijn tot een langer leven: “Dit is een heel belangrijk inzicht”&nbsp;&nbsp;NieuwsbladD",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQT3Q5SXRQMTY0OHJLLXlURmJ4M1FyLTRaLVN1ckJqYTNYOWJFajFrcUdUVE5CUlZuVEh4YTZuc1BMSVFsOTZoWXBHWmdkdkhhTXBNX29iM21PMzIzUGdMVVAxY2hUUTNGZzBEd3cyQTU4RGw1b3YtZncxaklMd1RKZExxa1RORFd3TFZwcGcwSnlMZ1JhbFRLTi15QVlSanFkS2swRTZVdktOR0diUEcxUVpSUElGWE9GeFVzNks3N2twREZDMU9QWjRXcjV3V2pIck5DUkVYeDhremJvdWZvajM3aE9weXVvNm9CcW0xbU1zcmRDenl3b2xwaUNjM2tacG5rekxkTXg0XzA5a1UzU3QtaFd6NDRFNFVEQkhrQXI0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe6cf7d2c34a",
+      "title": "Chatbots trappen met open ogen in de val: huidaandoening bestaat niet - NRC",
+      "published": "2026-04-14T10:59:59+00:00",
+      "summary": "Chatbots trappen met open ogen in de val: huidaandoening bestaat niet&nbsp;&nbsp;NRC",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1dNZTUyR09nTVBxWDNMaE1TcHZNcjNnRDJsVFJmVE4zTG4ydzc1QjhEeDZBYk9TX3A0S2hQRzZ5LTJWOWtSaThzRm5taWhHMThFR2F1RThYYTRxLWVnaUhNYUpBdE80UzZOMVI4bGhzSEZaaWcxajRsQTlLa1gyeGd3LW82czVoR2VQZEh0WWVQOGhFeEotc3ppbVVFcVdaUlQ4UUJ2VUJlYjY1VTJpZGNvQzg?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "ca84e64517c1",
-      "title": "Onze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050 - bnnvara",
-      "published": "2026-04-14T10:19:13+00:00",
-      "summary": "Onze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvara",
+      "id": "0815ded952b9",
+      "title": "Studie: metabole leverziekte treft straks 1,8 miljard mensen - bnr.nl",
+      "published": "2026-04-14T19:15:19+00:00",
+      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlOnze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvaraMetabole leverziekte treft wereldwijd één op de zes mensen&nbsp;&nbsp;Business AMWereldwijd kampt één op zes met metabole leververvetting: “Ons lichaam is niet gemaakt voor onze manier van leven”&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "bnnvara",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmRYLVlWcFRRWkt4d29YSG9OU2d0M0JhYnhPYXpITVQ2Q1hvaTUyc2NCd0lKYUtSbS0xYTE3Y1AtQ3gyTXVaZ3hhTlVSb2VUc2tZZmowOWNRcVFlb1hrTkFiNHdYMnFobXJUQmdobHFCei1WSlQzVmZlMzlNMk51Nkw0azFLSHZmYkxKcmc0dUdoZk9ma2JnZ3JFQ0ZZUWF5SFBtYk1pNWJ5UFp2VVRNVkw5bG81Nkx6YjU2d1BxYlljeU80ZnJwd0pB?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaF9na29CMW1KWEhxSEotZFJqamw1ZjJTWDRzeHJkenRmVVFhdmlkbjFOY01rOEtVZThBUlAyNWZMR0dyLWc4Z1Vjb2Rmdl9BSWlOSXhjTmZicXRqeXpaRTZIV1NjTmxjekw2UFA5OG9CZUtrMFVjQkFfbkZtWmd6MjdBS28zallONEVZRFhPa0U2aEU0c2h0NG12WlRGd0thLW9KZ3Rybw?oc=5"
         }
       ]
     },
@@ -52,6 +64,18 @@
       ]
     },
     {
+      "id": "8e9e4e1b717f",
+      "title": "Zoetstoffen kunnen mogelijk effect hebben op volgende generatie, zegt nieuwe internationale studie - HLN",
+      "published": "2026-04-13T18:49:44+00:00",
+      "summary": "Zoetstoffen kunnen mogelijk effect hebben op volgende generatie, zegt nieuwe internationale studie&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTVpYjRLTEFWQUhWcWZZUWdxcmpnRmQtbl90N2JJemtMYW5iNVhPQlhlcGlvY2tBQ2pvSEkteFgzdmY4LUZRdGdiNGdzeEZHMFI0bTJ2T0haTWozcXJBUHZVcXNqMkJmUFlqcXNHT2tuWkwtYW45YWhsaDYyOXA2WE1TVXdxRGwteWtObG51NnpfVEJSdDBidERQbGs0ZDRKXzRIMGRQVTdodWZJR0FyX2kwUDRjbFNsWDgyRDVhUFZBMFRrcFFtdklydjREZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77195fc1e9a9",
       "title": "Dementieonderzoeker achter een grote studie: We hebben iets cruciaals over het hoofd gezien waardoor je hersenen veel sneller kunnen verouderen - wibnet.nl",
       "published": "2026-04-13T20:00:41+00:00",
@@ -60,18 +84,6 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTlNdG52TWNGTGt0MzRLSUFtc2pKYUFzRjZwczVsSm5GdVJuZTB3Yi1JSS1OeWVLNjc1ZExPZC1rUGVhOWZzcThDZmE0amZUamlkMXhIb0tENHdzcFMtLWVVcU1Kb1ZsWmZTWUZ1TGExT05FUkRTUzU5R1ZJUmRPaXNTWXpPTWZGX0FyV20yM2R5d0N5V1BPelJ1QW4wVmUtVkV1XzNFYmtpazJ1bHFEa1JiYkROVm5nZDV2NHhUX0FJRzlzLUNSb0NPWDBKTlhtNGxVcnd0elItMUpNUFdfVlFTQlR0M0pwdkRyby1KMXBJbEZpOWY4TEtzVmdfVXFx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cce9b841b232",
-      "title": "Silve (10) kan niet meer onbevangen naar een verjaardagsfeest van een vriendje. Kinderartsen zien opvallende stijging jonge diabetespatiënten - Noordhollands Dagblad",
-      "published": "2026-04-13T12:00:00+00:00",
-      "summary": "Silve (10) kan niet meer onbevangen naar een verjaardagsfeest van een vriendje. Kinderartsen zien opvallende stijging jonge diabetespatiënten&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPR1hEejJNVTAwN1prUmJhek5pVTdSVkRkQWVRN3dNQVFPa29lUFBZVGdweXlJQjRad3JpQkhkTms0TURkUkJFRjVCaGNHbGY0bk1pamgycEVZaUZuQjV2NHNieVcyQ3VHV0c0alJRaUlYWFI4SWVpcXBkWjFVY1FUVUV2Y2Y0cEZ4WkVxRFNqcmhmVUlHSEpfaHdxaEp5bHhnRGRhWnJzSThfaXpLSmVnamxBNzZfVUFZTTJwMmphSVpiNUxtM2pmV0tUN1BKazk0T1NiclVDUTZXemNOZExaVGF1SEdzcGc3UGUwUUNCTVhjcEhCVGdEZEgzZWdNdmh1UTE5akE3eGtVXzBPRkNZdUphZGx3OW55aldZaUNIUHFJQVQ3RzRaTUJTZlNUSEtaQ3ltckg2RFRVSWhGZDR2Zy14YmF4cU1RYnhj?oc=5"
         }
       ]
     }

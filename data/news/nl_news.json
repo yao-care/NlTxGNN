@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-15T02:10:20.591288+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-15T07:27:16.756174+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "5636b2c8089f",
+      "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - AD.nl",
+      "published": "2026-04-15T06:00:00+00:00",
+      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;AD.nlHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ZJc0p0UHZ3WFdXRUJYNExmMjhaVE12eFIycDlHV0FsLVVnUkk1cmxielNBa2JzSUpOYW85RklONVNnWW50ckk4RkhUcEF4clA4bUp2Uy1XV245Z21nYmplMHcycUpodi1mME56NTlVejdRRzRMZWRxZlRjandjT01xZHYzRlRqUFhmTDFUNEt0cWVha0VJN1RoWW5oZ2pYUzRxR3FDZWRBUjQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "74d06dcbd515",
       "title": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’ - De Telegraaf",
@@ -42,8 +54,8 @@
     {
       "id": "0815ded952b9",
       "title": "Studie: metabole leverziekte treft straks 1,8 miljard mensen - bnr.nl",
-      "published": "2026-04-14T19:15:19+00:00",
-      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlOnze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvaraMetabole leverziekte treft wereldwijd één op de zes mensen&nbsp;&nbsp;Business AMWereldwijd kampt één op zes met metabole leververvetting: “Ons lichaam is niet gemaakt voor onze manier van leven”&nbsp;&nbsp;Nieuwsblad",
+      "published": "2026-04-14T19:15:00+00:00",
+      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlWereldwijd kampt één op zes met metabole leververvetting: “Ons lichaam is niet gemaakt voor onze manier van leven”&nbsp;&nbsp;NieuwsbladOnze voeding maakt ons ziek: bijna 2 miljard mensen worden getroffen door leverziekte in 2050&nbsp;&nbsp;bnnvaraMetabole leverziekte treft wereldwijd één op de zes mensen&nbsp;&nbsp;Business AM",
       "sources": [
         {
           "name": "bnr.nl",

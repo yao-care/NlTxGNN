@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-15T19:13:02.225800+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-16T02:26:05.532518+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "5636b2c8089f",
-      "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - AD.nl",
+      "id": "096da1b86eae",
+      "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - pzc.nl",
       "published": "2026-04-15T06:00:00+00:00",
-      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;AD.nlResistente schimmels grijpen om zich heen, wetenschappers vragen WHO om actie&nbsp;&nbsp;TrouwDodelijke schimmels, ringworm: het gaat helemaal mis, artsen roepen WHO op om in actie te komen&nbsp;&nbsp;De GelderlanderArtsen slaan alarm: 'Meer ernstige schimmelinfecties door resistentie'&nbsp;&nbsp;plusonline.nlOproep voor wereldwijde aanpak van resistente schimmels&nbsp;&nbsp;Pharmaceutisch Weekblad",
+      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;pzc.nlHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGw5bU01NEJkRmN0VWJlUkhyaFMtSFByS1FVNzRLdGNXYjZIVFA5aXNpZjMtTjBxeWVOWGlGQ3cyS3FhMlU1TGFmZjc1WUNkbHdWOWY2YVR2c1dwc0lQc1NSNXpQSzc2dDBpX19HZEFwN0txQ2JUbWlXWlE0MXAwVXJfUW9lSlZJeHY4QWlqNlE3bjJsOW4yTEIzRE1HWnJTcGI5eXhKWG1HX2F6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed9a563092dc",
+      "title": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen - AD.nl",
+      "published": "2026-04-15T21:59:00+00:00",
+      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ZJc0p0UHZ3WFdXRUJYNExmMjhaVE12eFIycDlHV0FsLVVnUkk1cmxielNBa2JzSUpOYW85RklONVNnWW50ckk4RkhUcEF4clA4bUp2Uy1XV245Z21nYmplMHcycUpodi1mME56NTlVejdRRzRMZWRxZlRjandjT01xZHYzRlRqUFhmTDFUNEt0cWVha0VJN1RoWW5oZ2pYUzRxR3FDZWRBUjQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXJCWG50NU9lblF1ZTkzSjNJYU9hM0lSLUI2OFh0XzRxTXpTSzdvWWtvMUZrLUkybVlmRlpacTdIVnhGMWNlYkNkRjlTYW56ZmdqS1RISzRrS0owR3lpck45UUw5MHZYTGVIZnZ5YXZGMllpUmJKVWVBbzl4VTZsSWd0bVJiZERLX0c3d0h0T0JkcGxIOHVOQVpFcjltUlZwZFR2bTYxM2JTLWdNSU5ERVNOR0F5U0ZxMHZxdWROVVFScnV5?oc=5"
         }
       ]
     },
@@ -40,26 +52,26 @@
       ]
     },
     {
-      "id": "77195fc1e9a9",
-      "title": "Dementieonderzoeker achter een grote studie: We hebben iets cruciaals over het hoofd gezien waardoor je hersenen veel sneller kunnen verouderen - wibnet.nl",
-      "published": "2026-04-13T20:00:41+00:00",
-      "summary": "Dementieonderzoeker achter een grote studie: We hebben iets cruciaals over het hoofd gezien waardoor je hersenen veel sneller kunnen verouderen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTlNdG52TWNGTGt0MzRLSUFtc2pKYUFzRjZwczVsSm5GdVJuZTB3Yi1JSS1OeWVLNjc1ZExPZC1rUGVhOWZzcThDZmE0amZUamlkMXhIb0tENHdzcFMtLWVVcU1Kb1ZsWmZTWUZ1TGExT05FUkRTUzU5R1ZJUmRPaXNTWXpPTWZGX0FyV20yM2R5d0N5V1BPelJ1QW4wVmUtVkV1XzNFYmtpazJ1bHFEa1JiYkROVm5nZDV2NHhUX0FJRzlzLUNSb0NPWDBKTlhtNGxVcnd0elItMUpNUFdfVlFTQlR0M0pwdkRyby1KMXBJbEZpOWY4TEtzVmdfVXFx?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5da2ef83796b",
       "title": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade - Suriname Herald",
       "published": "2026-04-15T16:07:18+00:00",
-      "summary": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie Suriname1-, 2- en 4-jarige kinderen levenloos binnengebracht bij Spoedeisende Hulp&nbsp;&nbsp;Suriname HeraldOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie kindjes dood binnengebracht bij SEH; oorzaak overlijden nog onduidelijk&nbsp;&nbsp;Waterkant",
+      "summary": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie SurinameOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad Suriname",
       "sources": [
         {
           "name": "Suriname Herald",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd004NVlQMnM1LTI0Q1pwcWNya1VlZHk5SGdJOUhESlBvbDEybjJ0R2ZrZFZBd0RkM2dhTlo4eVlJblNDX1ZKRmJ6bU43b2VqYnk2S3U4UTEtZVdBdG5PT0ZQZ2hEV01KaXQ0WUZFTjBMNk5BQ3NGeUF2LWVEOW5RVWRvbkpyQkxFMkhVcnNyRm1tUm9PSDVkcHVvTlBwSm0tdlFLVlBlQXZHNmxtM1hF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3037355f15e",
+      "title": "Maakt brood je dik? Muizenstudie wijst op effect in de stofwisseling - Scientias.nl",
+      "published": "2026-04-15T06:30:55+00:00",
+      "summary": "Maakt brood je dik? Muizenstudie wijst op effect in de stofwisseling&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2R1cm1OVkh1V29WLXNEWGhzY0JvZEFfeFo5VjM3cEFyRUNlaTdSM19yblZmUkN4YlNnbG5sQVVIb2VDUUQyV0Z3TW1xMjNHd3lwNzRZRHBkbjh6aFFpRmFiT1RsTlRPYWxRclZyc0V2djN5Qld0OUhUT29fT0lsU0ZYQWdtWUlUMENjYWZ2dU1hZFk?oc=5"
         }
       ]
     },

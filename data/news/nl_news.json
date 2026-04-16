@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-16T02:26:05.532518+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-16T07:27:56.760619+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "f3c817ff3828",
+      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - AD.nl",
+      "published": "2026-04-16T03:00:00+00:00",
+      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlKans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Barendrechts Dagblad",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlnZjlrUmM3YXhqQXg4aktZWFVQYTBuVUV1RVo3LXNLcEVDTW5nc3VNdUJjdXFGSHRMUTBLX0x4d0dJV28ybW9SMTE2ejRZeTVvUWJpRFNNQm5VWjFybVVDQkZJTnNuQ1dJcVA0c2JITUlHbVNXVENZS1pJLWIyVG1EOEdLX2d6MFM0TFRXTjBtS0szTF9seDlvN3o2OFhEbW5JU05iUjZXRjlZVE8xRQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "096da1b86eae",
       "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - pzc.nl",
@@ -16,10 +28,22 @@
       ]
     },
     {
+      "id": "c57e5cf69425",
+      "title": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan - de Volkskrant",
+      "published": "2026-04-16T03:00:18+00:00",
+      "summary": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVhlSzI0TnBmR1poMm5yakpMVExTaDRpMnRkXzhGTGxiRUxvQTJDeExUVjZWLVlQYk5laTd2LVNvVmlvRFdpak1VYWwzSE0yWk5ONUtlbVNJQ01MVWFRcmFiR3F4TW1vQ0R6UG5adndoUVNHQUI4ZV9LaU5yWktWcE9RUWRWZTJaSHgwTUloV2lXUkc1SWdMVXA3UVFxdlJqaExxeVR6cjZfTndZTFA0STVjTFhxRWo2eUVUcFBIUlJOSlhjdEZ3ZnJ6cVM1d1Ff?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ed9a563092dc",
       "title": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen - AD.nl",
       "published": "2026-04-15T21:59:00+00:00",
-      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;AD.nl",
+      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;AD.nlBreid de gordelroosvaccinatie uit en informeer: bescherm kwetsbaren en minima&nbsp;&nbsp;Petities.nlteken de petitie voor gordelroosvaccinatie&nbsp;&nbsp;ANBO-PCOB",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,10 +52,22 @@
       ]
     },
     {
+      "id": "fa3a07281926",
+      "title": "Wetenschapsblad trekt haast volledige editie terug na gesjoemel Chinese onderzoekers - de Volkskrant",
+      "published": "2026-04-15T14:25:00+00:00",
+      "summary": "Wetenschapsblad trekt haast volledige editie terug na gesjoemel Chinese onderzoekers&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2MxVHZ6UnY1Z1UxY2M1aWpiVDktbEZsMUxuOTVwa0drS0Y0ajFTcXJGTUpwQmM1OHh1UUdjOXNpWDhZQ1F0Z2xkaHNhQ1RGbkZiVE1wM29wY29tT3c2UXA4RDIwdHhnM2NKaUd3ak8weXowaUNqWC1GSGdtWGxHakx6Q3ZXMERuZVJMdDE5MTBCTk5JQVNERUJyR1BzZVhjUUdMSkt3RU5NeVpMZkxxcTg4Wm5tSEQyWnZ1cTc0SGFobkVFcldLdXpJMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "74d06dcbd515",
       "title": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’ - De Telegraaf",
       "published": "2026-04-14T22:30:00+00:00",
-      "summary": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’&nbsp;&nbsp;De TelegraafEffect van de zwezerik op onze immuniteit lang onderschat: \"Klein orgaantje speelt echt een belangrijke rol\"&nbsp;&nbsp;VRTDe onderschatte zwezerik blijkt ‘essentieel’ voor onze gezondheid&nbsp;&nbsp;De MorgenHet ‘vergeten’ orgaan dat de sleutel kan zijn tot een langer leven: “Dit is een heel belangrijk inzicht”&nbsp;&nbsp;NieuwsbladD",
+      "summary": "Dit ’vergeten’ orgaan kan onze sleutel zijn tot een langer leven: ’Ontbrekend puzzelstuk in begrijpen waarom mensen verschillend verouderen’&nbsp;&nbsp;De TelegraafDe onderschatte zwezerik blijkt ‘essentieel’ voor onze gezondheid&nbsp;&nbsp;De MorgenDit ten onrechte vergeten orgaan is veel belangrijker dan gedacht&nbsp;&nbsp;EOS WetenschapEffect van de zwezerik op onze immuniteit lang onderschat: \"Klein orgaantje speelt echt een belangrijke rol\"&nbsp;&nbsp;VRTHet ‘vergeten’ orgaan dat de sleutel",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -48,18 +84,6 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1dNZTUyR09nTVBxWDNMaE1TcHZNcjNnRDJsVFJmVE4zTG4ydzc1QjhEeDZBYk9TX3A0S2hQRzZ5LTJWOWtSaThzRm5taWhHMThFR2F1RThYYTRxLWVnaUhNYUpBdE80UzZOMVI4bGhzSEZaaWcxajRsQTlLa1gyeGd3LW82czVoR2VQZEh0WWVQOGhFeEotc3ppbVVFcVdaUlQ4UUJ2VUJlYjY1VTJpZGNvQzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5da2ef83796b",
-      "title": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade - Suriname Herald",
-      "published": "2026-04-15T16:07:18+00:00",
-      "summary": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie SurinameOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad Suriname",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd004NVlQMnM1LTI0Q1pwcWNya1VlZHk5SGdJOUhESlBvbDEybjJ0R2ZrZFZBd0RkM2dhTlo4eVlJblNDX1ZKRmJ6bU43b2VqYnk2S3U4UTEtZVdBdG5PT0ZQZ2hEV01KaXQ0WUZFTjBMNk5BQ3NGeUF2LWVEOW5RVWRvbkpyQkxFMkhVcnNyRm1tUm9PSDVkcHVvTlBwSm0tdlFLVlBlQXZHNmxtM1hF?oc=5"
         }
       ]
     },

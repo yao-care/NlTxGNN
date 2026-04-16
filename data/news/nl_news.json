@@ -1,37 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-16T07:27:56.760619+00:00",
+  "fetched_at": "2026-04-16T13:24:09.838737+00:00",
   "count": 9,
   "news": [
-    {
-      "id": "f3c817ff3828",
-      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - AD.nl",
-      "published": "2026-04-16T03:00:00+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlKans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Barendrechts Dagblad",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlnZjlrUmM3YXhqQXg4aktZWFVQYTBuVUV1RVo3LXNLcEVDTW5nc3VNdUJjdXFGSHRMUTBLX0x4d0dJV28ybW9SMTE2ejRZeTVvUWJpRFNNQm5VWjFybVVDQkZJTnNuQ1dJcVA0c2JITUlHbVNXVENZS1pJLWIyVG1EOEdLX2d6MFM0TFRXTjBtS0szTF9seDlvN3o2OFhEbW5JU05iUjZXRjlZVE8xRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "096da1b86eae",
-      "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - pzc.nl",
-      "published": "2026-04-15T06:00:00+00:00",
-      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;pzc.nlHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGw5bU01NEJkRmN0VWJlUkhyaFMtSFByS1FVNzRLdGNXYjZIVFA5aXNpZjMtTjBxeWVOWGlGQ3cyS3FhMlU1TGFmZjc1WUNkbHdWOWY2YVR2c1dwc0lQc1NSNXpQSzc2dDBpX19HZEFwN0txQ2JUbWlXWlE0MXAwVXJfUW9lSlZJeHY4QWlqNlE3bjJsOW4yTEIzRE1HWnJTcGI5eXhKWG1HX2F6?oc=5"
-        }
-      ]
-    },
     {
       "id": "c57e5cf69425",
       "title": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan - de Volkskrant",
       "published": "2026-04-16T03:00:18+00:00",
-      "summary": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan&nbsp;&nbsp;de Volkskrant",
+      "summary": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan&nbsp;&nbsp;de VolkskrantHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -40,14 +16,50 @@
       ]
     },
     {
-      "id": "ed9a563092dc",
-      "title": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen - AD.nl",
-      "published": "2026-04-15T21:59:00+00:00",
-      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;AD.nlBreid de gordelroosvaccinatie uit en informeer: bescherm kwetsbaren en minima&nbsp;&nbsp;Petities.nlteken de petitie voor gordelroosvaccinatie&nbsp;&nbsp;ANBO-PCOB",
+      "id": "a3d6e3c90114",
+      "title": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard - Metronieuws.nl",
+      "published": "2026-04-16T07:02:53+00:00",
+      "summary": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlKans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Albrandswaards Dagblad",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXJCWG50NU9lblF1ZTkzSjNJYU9hM0lSLUI2OFh0XzRxTXpTSzdvWWtvMUZrLUkybVlmRlpacTdIVnhGMWNlYkNkRjlTYW56ZmdqS1RISzRrS0owR3lpck45UUw5MHZYTGVIZnZ5YXZGMllpUmJKVWVBbzl4VTZsSWd0bVJiZERLX0c3d0h0T0JkcGxIOHVOQVpFcjltUlZwZFR2bTYxM2JTLWdNSU5ERVNOR0F5U0ZxMHZxdWROVVFScnV5?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXN6NnFvT2RRV1RyLWJDMWgxaXNqQTBHS01fcFcwN2pnSU1jUmd5QW1DbEhzc2lUNVI3QzZJOGxfR1N5bjJNaEVIRzVXaUFaTzNIWUNOSDB1cWxfLWRySnJWdkExNnVKWGR6X3NKXzV6S2wzT2VJUE1rZUUxNTBhNGlnb2lBdDREenl4d3p3N0pBWGI5RXlCOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "096da1b86eae",
+      "title": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm - pzc.nl",
+      "published": "2026-04-15T06:00:00+00:00",
+      "summary": "Aantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;pzc.nlDodelijke schimmels, ringworm: het gaat helemaal mis, artsen roepen WHO op om in actie te komen&nbsp;&nbsp;De GelderlanderResistente schimmels grijpen om zich heen, wetenschappers vragen WHO om actie&nbsp;&nbsp;TrouwArtsen slaan alarm: 'Meer ernstige schimmelinfecties door resistentie'&nbsp;&nbsp;plusonline.nlHoogste niveau van alertheid voor schimmelresistentie aub!&nbsp;&nbsp;Foodlog",
+      "sources": [
+        {
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGw5bU01NEJkRmN0VWJlUkhyaFMtSFByS1FVNzRLdGNXYjZIVFA5aXNpZjMtTjBxeWVOWGlGQ3cyS3FhMlU1TGFmZjc1WUNkbHdWOWY2YVR2c1dwc0lQc1NSNXpQSzc2dDBpX19HZEFwN0txQ2JUbWlXWlE0MXAwVXJfUW9lSlZJeHY4QWlqNlE3bjJsOW4yTEIzRE1HWnJTcGI5eXhKWG1HX2F6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82bd1276bb54",
+      "title": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen - De Gelderlander",
+      "published": "2026-04-15T21:59:00+00:00",
+      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;De GelderlanderHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG9EcGlSa0pYQVlIUzFsXzhYRnRERTNldXZQaDU1VUc1RW5jSHlNTVZodmR1THczU3dWN2ZPLXAwU1dSSENYMWloNm5FQktaX3hwa0pZUHpGTmFJdV91c3FLd3pZUGFlZHNnVExUalNIVURZRFpfOHJHeVlzOEVTdTZQbkt4VkJmVWpRMHpuOVlEczR3QzZmUm16YzRNeTlKeDFsY0lFZjE2c2dOeFowN3dQTDZJZVMwN3puNEVKcjN3NzQxLWJXQVdhdnJvMHByX2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4f30fab0f13",
+      "title": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker - de Stentor",
+      "published": "2026-04-15T15:00:00+00:00",
+      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;de StentorHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEJDY0tIQXVFRlRiWGdyVjJCa1Vkd0U5R2JQSC10TnVnb0J1T3dLOWhiVHc4TnRxVlhIYlZhT2NESFJpZTQydEg0Q0Jtamlib1hvRGcwUmIxQzEzODIzWVF5bF9hd0stN2pBUV83MmpnQkFOd2FpTS1SeUNnY29MbmZ5TXNLdFprdEd1UFYwb1diZlk3OW1Cd1ZuOXRZUTRNZGh0MzAya2lUMzQ0TzBrYnZadFlBT2lTX3Nkbm1WMTRLbkFwR2c?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "fe6cf7d2c34a",
-      "title": "Chatbots trappen met open ogen in de val: huidaandoening bestaat niet - NRC",
-      "published": "2026-04-14T10:59:59+00:00",
-      "summary": "Chatbots trappen met open ogen in de val: huidaandoening bestaat niet&nbsp;&nbsp;NRC",
-      "sources": [
-        {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1dNZTUyR09nTVBxWDNMaE1TcHZNcjNnRDJsVFJmVE4zTG4ydzc1QjhEeDZBYk9TX3A0S2hQRzZ5LTJWOWtSaThzRm5taWhHMThFR2F1RThYYTRxLWVnaUhNYUpBdE80UzZOMVI4bGhzSEZaaWcxajRsQTlLa1gyeGd3LW82czVoR2VQZEh0WWVQOGhFeEotc3ppbVVFcVdaUlQ4UUJ2VUJlYjY1VTJpZGNvQzg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f3037355f15e",
       "title": "Maakt brood je dik? Muizenstudie wijst op effect in de stofwisseling - Scientias.nl",
       "published": "2026-04-15T06:30:55+00:00",
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "0815ded952b9",
-      "title": "Studie: metabole leverziekte treft straks 1,8 miljard mensen - bnr.nl",
-      "published": "2026-04-14T19:15:00+00:00",
-      "summary": "Studie: metabole leverziekte treft straks 1,8 miljard mensen&nbsp;&nbsp;bnr.nlHele verhaal bekijken via Google Nieuws",
+      "id": "62f85cb9e734",
+      "title": "Hij onderzocht miljoenen kankergevallen: Eén bepaalde omstandigheid in je leven kan je risico aanzienlijk verhogen - wibnet.nl",
+      "published": "2026-04-15T20:00:12+00:00",
+      "summary": "Hij onderzocht miljoenen kankergevallen: Eén bepaalde omstandigheid in je leven kan je risico aanzienlijk verhogen&nbsp;&nbsp;wibnet.nlOngetrouwd door het leven? Dat verhoogt het risico op deze ziekte, aldus onderzoek&nbsp;&nbsp;Kek MamaEcht waar: ongetrouwde mensen lopen meer risico op kanker&nbsp;&nbsp;quest.nlOnderzoek: mensen die trouwen hebben een kleinere kans op kanker&nbsp;&nbsp;De TelegraafMensen die nooit zijn getrouwd, lopen meer kans op kanker, blijkt uit megastudie&nbsp;&nbsp;Scient",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaF9na29CMW1KWEhxSEotZFJqamw1ZjJTWDRzeHJkenRmVVFhdmlkbjFOY01rOEtVZThBUlAyNWZMR0dyLWc4Z1Vjb2Rmdl9BSWlOSXhjTmZicXRqeXpaRTZIV1NjTmxjekw2UFA5OG9CZUtrMFVjQkFfbkZtWmd6MjdBS28zallONEVZRFhPa0U2aEU0c2h0NG12WlRGd0thLW9KZ3Rybw?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTljeGM4TWxqdlVQbG81NzFEdHhmM1J5X0NsMnBTRldBQUdFNk1GY0xaNnhyUGRKdWFpVTY4SkVRZzk1cEFvS19sampDNVBDNDdfY21CZlZrZXpRX05VUlVNbTlYbnhRUTdVVnRnZndEMDJ0RmRnbFRWTjh6N21wTnhvUmpJaU5sX0hLQjZtWkZQcDNiZ2xFSThvdWdtckp0Y2o2YXpiM3RpRGw3UlltN2FQWGtjS1Uya2hxY1QwaDg3eXZlXy1zSEhxWWtyRXg1OFVXcmE2OU9kQQ?oc=5"
         }
       ]
     }

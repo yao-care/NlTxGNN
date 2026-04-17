@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-17T13:13:14.635322+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-17T18:56:28.907001+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "8ebf035efbd8",
-      "title": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker - AD.nl",
-      "published": "2026-04-15T15:00:00+00:00",
-      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;AD.nlHele verhaal bekijken via Google Nieuws",
+      "id": "f3c817ff3828",
+      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - AD.nl",
+      "published": "2026-04-16T03:00:00+00:00",
+      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlMinder darm- en longkankerdiagnoses, maar wel vaker huid- en prostaatkanker gevonden&nbsp;&nbsp;Nationale ZorggidsKans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlHet risico op kanker daalt, maar deze twee vormen komen juist vaker voor&nbsp;&nbsp;MargrietKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Voorburgs D",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDB3MTRyMlJIOEV4TEdISzFTZVB0a0dOcm14LVlDdFRnTmM4T0VBaHBodW1sV3EzOGhPcHdEZEk5OHVNWU1USU5hQ09udngyZGxFVE9CUU9zVlF6bDIyb1FqSk1lQkVlUHJkV0R1aDNqVjlrYTZJcGM2d1JhZ2dtbWQ3M2dBVV9ZY1M5a3htYUJMcVJhSUMxcmgzVm5sNTVnOEVyWkMzTkJCZTBONThpNEMxTlRQV0k4TFB5ag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3d6e3c90114",
-      "title": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard - Metronieuws.nl",
-      "published": "2026-04-16T07:02:53+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlHet risico op kanker daalt, maar deze twee vormen komen juist vaker voor&nbsp;&nbsp;MargrietKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Voorburgs DagbladKans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXN6NnFvT2RRV1RyLWJDMWgxaXNqQTBHS01fcFcwN2pnSU1jUmd5QW1DbEhzc2lUNVI3QzZJOGxfR1N5bjJNaEVIRzVXaUFaTzNIWUNOSDB1cWxfLWRySnJWdkExNnVKWGR6X3NKXzV6S2wzT2VJUE1rZUUxNTBhNGlnb2lBdDREenl4d3p3N0pBWGI5RXlCOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlnZjlrUmM3YXhqQXg4aktZWFVQYTBuVUV1RVo3LXNLcEVDTW5nc3VNdUJjdXFGSHRMUTBLX0x4d0dJV28ybW9SMTE2ejRZeTVvUWJpRFNNQm5VWjFybVVDQkZJTnNuQ1dJcVA0c2JITUlHbVNXVENZS1pJLWIyVG1EOEdLX2d6MFM0TFRXTjBtS0szTF9seDlvN3o2OFhEbW5JU05iUjZXRjlZVE8xRQ?oc=5"
         }
       ]
     },

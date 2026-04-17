@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-17T07:28:38.140484+00:00",
-  "count": 9,
+  "fetched_at": "2026-04-17T13:13:14.635322+00:00",
+  "count": 6,
   "news": [
     {
       "id": "8ebf035efbd8",
       "title": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker - AD.nl",
       "published": "2026-04-15T15:00:00+00:00",
-      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;AD.nlTumor-DNA selectief geknipt door Wageningse CRISPR-variant&nbsp;&nbsp;ZorgKrant.nl‘Deze nieuwe techniek doodt kankercellen van binnenuit’&nbsp;&nbsp;NEMO KennislinkNature-publicatie over kapot knippen kankercellen&nbsp;&nbsp;Resource online",
+      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;AD.nlHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "8ab21c65f737",
-      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - Brabants Dagblad",
-      "published": "2026-04-16T03:00:00+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;Brabants DagbladHele verhaal bekijken via Google Nieuws",
+      "id": "a3d6e3c90114",
+      "title": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard - Metronieuws.nl",
+      "published": "2026-04-16T07:02:53+00:00",
+      "summary": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlHet risico op kanker daalt, maar deze twee vormen komen juist vaker voor&nbsp;&nbsp;MargrietKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Voorburgs DagbladKans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHdkUGt2R08zZXhiUENHa25ZUGYxb01CYkpkUlBUbTZmOFM0ZGMydjkzWE9udmd4dmdhQlZDYURKUVVMQUEzcUYzXzBXYkJ0c2hnOTN0eWtyVV9yY2pTNXdxVWRsY0FHMHNSSDM5Umg4cHF1ZWUzaHhwNUZ3V2k0VU5FamhEUmhqZXlqbE5hVkcxOVpUVDZxR2kzX0FQRW84R19Pb29qczN1ZmxsNXlObw?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXN6NnFvT2RRV1RyLWJDMWgxaXNqQTBHS01fcFcwN2pnSU1jUmd5QW1DbEhzc2lUNVI3QzZJOGxfR1N5bjJNaEVIRzVXaUFaTzNIWUNOSDB1cWxfLWRySnJWdkExNnVKWGR6X3NKXzV6S2wzT2VJUE1rZUUxNTBhNGlnb2lBdDREenl4d3p3N0pBWGI5RXlCOA?oc=5"
         }
       ]
     },
@@ -36,18 +36,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG9EcGlSa0pYQVlIUzFsXzhYRnRERTNldXZQaDU1VUc1RW5jSHlNTVZodmR1THczU3dWN2ZPLXAwU1dSSENYMWloNm5FQktaX3hwa0pZUHpGTmFJdV91c3FLd3pZUGFlZHNnVExUalNIVURZRFpfOHJHeVlzOEVTdTZQbkt4VkJmVWpRMHpuOVlEczR3QzZmUm16YzRNeTlKeDFsY0lFZjE2c2dOeFowN3dQTDZJZVMwN3puNEVKcjN3NzQxLWJXQVdhdnJvMHByX2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "98a5ea059b15",
-      "title": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten - De Telegraaf",
-      "published": "2026-04-16T17:30:00+00:00",
-      "summary": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten&nbsp;&nbsp;De Telegraaf“Het grootste probleem zijn niet de snotneus of jeukende ogen.” Arts over de onderbelichte klachten bij hooikoorts (en hoe je die aanpakt)&nbsp;&nbsp;HLNHooikoorts: hierdoor hebben we er meer en langer last van&nbsp;&nbsp;V&amp;VNBeuk, populier en berk - Volop pollen in de lucht&nbsp;&nbsp;Weer en Radar NLVoorlichting bij hooikoortsmedicatie: denk aan de mondgezondheid&nbsp;&nbsp;nvda.nl",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmFYWngxVVVDWkYwblZac05MSFdya2ZzRGFVZHlCTFRsbmg1d3FWOVJQYzRXUmF6WkpoX0VHWVMxVUplTFhNX3lxTi10WnNiamNLbnIxUERrMHJyU1lELWJIQ3dTeElPRzkyYXFnZ1JXMy1lU0g1S3I4OU5FUlhlMkRXbEUtUzdnY0NiWk5NV09mUFZSRHNVZHcyOWVpaHlUT3RfRURNRDVBNFFqYUx3YUswblhBb0k?oc=5"
         }
       ]
     },
@@ -76,38 +64,14 @@
       ]
     },
     {
-      "id": "fa3a07281926",
-      "title": "Wetenschapsblad trekt haast volledige editie terug na gesjoemel Chinese onderzoekers - de Volkskrant",
-      "published": "2026-04-15T14:25:00+00:00",
-      "summary": "Wetenschapsblad trekt haast volledige editie terug na gesjoemel Chinese onderzoekers&nbsp;&nbsp;de Volkskrant",
+      "id": "a50cfb22e25f",
+      "title": "Artsen over ALK: ‘Door overbelasting ontstaan er ontregelingen' - Libelle",
+      "published": "2026-04-16T04:37:36+00:00",
+      "summary": "Artsen over ALK: ‘Door overbelasting ontstaan er ontregelingen'&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2MxVHZ6UnY1Z1UxY2M1aWpiVDktbEZsMUxuOTVwa0drS0Y0ajFTcXJGTUpwQmM1OHh1UUdjOXNpWDhZQ1F0Z2xkaHNhQ1RGbkZiVE1wM29wY29tT3c2UXA4RDIwdHhnM2NKaUd3ak8weXowaUNqWC1GSGdtWGxHakx6Q3ZXMERuZVJMdDE5MTBCTk5JQVNERUJyR1BzZVhjUUdMSkt3RU5NeVpMZkxxcTg4Wm5tSEQyWnZ1cTc0SGFobkVFcldLdXpJMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5da2ef83796b",
-      "title": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade - Suriname Herald",
-      "published": "2026-04-15T16:07:18+00:00",
-      "summary": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad SurinameDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie Suriname",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd004NVlQMnM1LTI0Q1pwcWNya1VlZHk5SGdJOUhESlBvbDEybjJ0R2ZrZFZBd0RkM2dhTlo4eVlJblNDX1ZKRmJ6bU43b2VqYnk2S3U4UTEtZVdBdG5PT0ZQZ2hEV01KaXQ0WUZFTjBMNk5BQ3NGeUF2LWVEOW5RVWRvbkpyQkxFMkhVcnNyRm1tUm9PSDVkcHVvTlBwSm0tdlFLVlBlQXZHNmxtM1hF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62f85cb9e734",
-      "title": "Hij onderzocht miljoenen kankergevallen: Eén bepaalde omstandigheid in je leven kan je risico aanzienlijk verhogen - wibnet.nl",
-      "published": "2026-04-15T20:00:12+00:00",
-      "summary": "Hij onderzocht miljoenen kankergevallen: Eén bepaalde omstandigheid in je leven kan je risico aanzienlijk verhogen&nbsp;&nbsp;wibnet.nlOngetrouwd door het leven? Dat verhoogt het risico op deze ziekte, aldus onderzoek&nbsp;&nbsp;Kek MamaEcht waar: ongetrouwde mensen lopen meer risico op kanker&nbsp;&nbsp;quest.nlOnderzoek: mensen die trouwen hebben een kleinere kans op kanker&nbsp;&nbsp;De TelegraafMensen die nooit zijn getrouwd, lopen meer kans op kanker, blijkt uit megastudie&nbsp;&nbsp;Scient",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTljeGM4TWxqdlVQbG81NzFEdHhmM1J5X0NsMnBTRldBQUdFNk1GY0xaNnhyUGRKdWFpVTY4SkVRZzk1cEFvS19sampDNVBDNDdfY21CZlZrZXpRX05VUlVNbTlYbnhRUTdVVnRnZndEMDJ0RmRnbFRWTjh6N21wTnhvUmpJaU5sX0hLQjZtWkZQcDNiZ2xFSThvdWdtckp0Y2o2YXpiM3RpRGw3UlltN2FQWGtjS1Uya2hxY1QwaDg3eXZlXy1zSEhxWWtyRXg1OFVXcmE2OU9kQQ?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDNJVGV5YjRyMnZqcV9TT2xvcmF0OUJfeTJ0Q2xKUDRCYTZaR1NUUWVlRzU4cXlpRk9rZm1mMG1sU2VBQ2xBZ0R3M3VKZllWNGRLalB0bmFTWDYtUHBESE5PMV9NTUZ2aHA1ei1hMTdMdDJDVlg4WnJ6TTJuQnBXWmtIU21oRFlrQlA5dmRJWHY?oc=5"
         }
       ]
     }

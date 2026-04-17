@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-17T02:14:18.179437+00:00",
-  "count": 11,
+  "fetched_at": "2026-04-17T07:28:38.140484+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "98a5ea059b15",
-      "title": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten - De Telegraaf",
-      "published": "2026-04-16T17:30:00+00:00",
-      "summary": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten&nbsp;&nbsp;De Telegraaf“Het grootste probleem zijn niet de snotneus of jeukende ogen.” Arts over de onderbelichte klachten bij hooikoorts (en hoe je die aanpakt)&nbsp;&nbsp;HLNHooikoorts: hierdoor hebben we er meer en langer last van&nbsp;&nbsp;V&amp;VNBeuk, populier en berk - Volop pollen in de lucht&nbsp;&nbsp;Weer en Radar NLVoorlichting bij hooikoortsmedicatie: denk aan de mondgezondheid&nbsp;&nbsp;nvda.nl",
+      "id": "8ebf035efbd8",
+      "title": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker - AD.nl",
+      "published": "2026-04-15T15:00:00+00:00",
+      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;AD.nlTumor-DNA selectief geknipt door Wageningse CRISPR-variant&nbsp;&nbsp;ZorgKrant.nl‘Deze nieuwe techniek doodt kankercellen van binnenuit’&nbsp;&nbsp;NEMO KennislinkNature-publicatie over kapot knippen kankercellen&nbsp;&nbsp;Resource online",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmFYWngxVVVDWkYwblZac05MSFdya2ZzRGFVZHlCTFRsbmg1d3FWOVJQYzRXUmF6WkpoX0VHWVMxVUplTFhNX3lxTi10WnNiamNLbnIxUERrMHJyU1lELWJIQ3dTeElPRzkyYXFnZ1JXMy1lU0g1S3I4OU5FUlhlMkRXbEUtUzdnY0NiWk5NV09mUFZSRHNVZHcyOWVpaHlUT3RfRURNRDVBNFFqYUx3YUswblhBb0k?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDB3MTRyMlJIOEV4TEdISzFTZVB0a0dOcm14LVlDdFRnTmM4T0VBaHBodW1sV3EzOGhPcHdEZEk5OHVNWU1USU5hQ09udngyZGxFVE9CUU9zVlF6bDIyb1FqSk1lQkVlUHJkV0R1aDNqVjlrYTZJcGM2d1JhZ2dtbWQ3M2dBVV9ZY1M5a3htYUJMcVJhSUMxcmgzVm5sNTVnOEVyWkMzTkJCZTBONThpNEMxTlRQV0k4TFB5ag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ab21c65f737",
+      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - Brabants Dagblad",
+      "published": "2026-04-16T03:00:00+00:00",
+      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;Brabants DagbladHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHdkUGt2R08zZXhiUENHa25ZUGYxb01CYkpkUlBUbTZmOFM0ZGMydjkzWE9udmd4dmdhQlZDYURKUVVMQUEzcUYzXzBXYkJ0c2hnOTN0eWtyVV9yY2pTNXdxVWRsY0FHMHNSSDM5Umg4cHF1ZWUzaHhwNUZ3V2k0VU5FamhEUmhqZXlqbE5hVkcxOVpUVDZxR2kzX0FQRW84R19Pb29qczN1ZmxsNXlObw?oc=5"
         }
       ]
     },
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "98a5ea059b15",
+      "title": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten - De Telegraaf",
+      "published": "2026-04-16T17:30:00+00:00",
+      "summary": "Tekort aan medicijnen voor hooikoorts- en astmapatiënten&nbsp;&nbsp;De Telegraaf“Het grootste probleem zijn niet de snotneus of jeukende ogen.” Arts over de onderbelichte klachten bij hooikoorts (en hoe je die aanpakt)&nbsp;&nbsp;HLNHooikoorts: hierdoor hebben we er meer en langer last van&nbsp;&nbsp;V&amp;VNBeuk, populier en berk - Volop pollen in de lucht&nbsp;&nbsp;Weer en Radar NLVoorlichting bij hooikoortsmedicatie: denk aan de mondgezondheid&nbsp;&nbsp;nvda.nl",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmFYWngxVVVDWkYwblZac05MSFdya2ZzRGFVZHlCTFRsbmg1d3FWOVJQYzRXUmF6WkpoX0VHWVMxVUplTFhNX3lxTi10WnNiamNLbnIxUERrMHJyU1lELWJIQ3dTeElPRzkyYXFnZ1JXMy1lU0g1S3I4OU5FUlhlMkRXbEUtUzdnY0NiWk5NV09mUFZSRHNVZHcyOWVpaHlUT3RfRURNRDVBNFFqYUx3YUswblhBb0k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c57e5cf69425",
       "title": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan - de Volkskrant",
       "published": "2026-04-16T03:00:18+00:00",
@@ -36,42 +60,6 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVhlSzI0TnBmR1poMm5yakpMVExTaDRpMnRkXzhGTGxiRUxvQTJDeExUVjZWLVlQYk5laTd2LVNvVmlvRFdpak1VYWwzSE0yWk5ONUtlbVNJQ01MVWFRcmFiR3F4TW1vQ0R6UG5adndoUVNHQUI4ZV9LaU5yWktWcE9RUWRWZTJaSHgwTUloV2lXUkc1SWdMVXA3UVFxdlJqaExxeVR6cjZfTndZTFA0STVjTFhxRWo2eUVUcFBIUlJOSlhjdEZ3ZnJ6cVM1d1Ff?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3d6e3c90114",
-      "title": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard - Metronieuws.nl",
-      "published": "2026-04-16T07:02:53+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlKans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Dagblad010",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXN6NnFvT2RRV1RyLWJDMWgxaXNqQTBHS01fcFcwN2pnSU1jUmd5QW1DbEhzc2lUNVI3QzZJOGxfR1N5bjJNaEVIRzVXaUFaTzNIWUNOSDB1cWxfLWRySnJWdkExNnVKWGR6X3NKXzV6S2wzT2VJUE1rZUUxNTBhNGlnb2lBdDREenl4d3p3N0pBWGI5RXlCOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ebf035efbd8",
-      "title": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker - AD.nl",
-      "published": "2026-04-15T15:00:00+00:00",
-      "summary": "Zoektocht in composthoop leidt tot vondst voor mogelijke genezing van leverkanker&nbsp;&nbsp;AD.nlHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDB3MTRyMlJIOEV4TEdISzFTZVB0a0dOcm14LVlDdFRnTmM4T0VBaHBodW1sV3EzOGhPcHdEZEk5OHVNWU1USU5hQ09udngyZGxFVE9CUU9zVlF6bDIyb1FqSk1lQkVlUHJkV0R1aDNqVjlrYTZJcGM2d1JhZ2dtbWQ3M2dBVV9ZY1M5a3htYUJMcVJhSUMxcmgzVm5sNTVnOEVyWkMzTkJCZTBONThpNEMxTlRQV0k4TFB5ag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27b48e7f0371",
-      "title": "Dodelijke schimmels en ringworm: artsen slaan alarm en roepen om actie - de Stentor",
-      "published": "2026-04-15T06:00:00+00:00",
-      "summary": "Dodelijke schimmels en ringworm: artsen slaan alarm en roepen om actie&nbsp;&nbsp;de StentorAantal patiënten met schimmelinfectie stijgt snel, artsen slaan alarm&nbsp;&nbsp;AD.nlResistente schimmels grijpen om zich heen, wetenschappers vragen WHO om actie&nbsp;&nbsp;TrouwDodelijke schimmels, ringworm: het gaat helemaal mis, artsen roepen WHO op om in actie te komen&nbsp;&nbsp;De GelderlanderArtsen slaan alarm: 'Meer ernstige schimmelinfecties door resistentie'&nbsp;&nbsp;plusonline.nl",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzJyZ2FjSkQ0UnNrRFdfTVZfQ0NmSGI2WkQ2ME8temI4cXAyUHRPenk5clprbEJkTjFRcW9DZ2RLazZ4REQ3VEJxY2IzSGdETWllQ0Jfd0c4MW5ha212aWppV3Z5ZFpXdVFjWUlhMFgtY0g0Um9tVUJPVXZNTUJDS0Z3Nmw4UlFkTWs1bEpiSXliN2N5RGhTMXlqZnptX1YxX2stS3RVa1htdXN0N0RGSA?oc=5"
         }
       ]
     },
@@ -88,18 +76,6 @@
       ]
     },
     {
-      "id": "cab4c4e2107d",
-      "title": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande - Starnieuws",
-      "published": "2026-04-16T19:45:00+00:00",
-      "summary": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande&nbsp;&nbsp;StarnieuwsDoodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad Suriname",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTnhCMENxWjhhNGxBRkc2NUZBbG9taE5GQkhyQVo5M1VzV3p2NkpCazE5dzZMaEJDZ0dwUXBhRnQyTWZUVTZHWFdxVGt3ZlhnZW8xRUYzVFhWLXFVaDh4d29wUHpISWc1YncwX3h5VnBCNlpCNEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fa3a07281926",
       "title": "Wetenschapsblad trekt haast volledige editie terug na gesjoemel Chinese onderzoekers - de Volkskrant",
       "published": "2026-04-15T14:25:00+00:00",
@@ -112,14 +88,14 @@
       ]
     },
     {
-      "id": "f3037355f15e",
-      "title": "Maakt brood je dik? Muizenstudie wijst op effect in de stofwisseling - Scientias.nl",
-      "published": "2026-04-15T06:30:55+00:00",
-      "summary": "Maakt brood je dik? Muizenstudie wijst op effect in de stofwisseling&nbsp;&nbsp;Scientias.nl",
+      "id": "5da2ef83796b",
+      "title": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade - Suriname Herald",
+      "published": "2026-04-15T16:07:18+00:00",
+      "summary": "Doodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad SurinameDrie peuters dood binnengebracht te SEH » Politieberichten&nbsp;&nbsp;Korps Politie Suriname",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2R1cm1OVkh1V29WLXNEWGhzY0JvZEFfeFo5VjM3cEFyRUNlaTdSM19yblZmUkN4YlNnbG5sQVVIb2VDUUQyV0Z3TW1xMjNHd3lwNzRZRHBkbjh6aFFpRmFiT1RsTlRPYWxRclZyc0V2djN5Qld0OUhUT29fT0lsU0ZYQWdtWUlUMENjYWZ2dU1hZFk?oc=5"
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd004NVlQMnM1LTI0Q1pwcWNya1VlZHk5SGdJOUhESlBvbDEybjJ0R2ZrZFZBd0RkM2dhTlo4eVlJblNDX1ZKRmJ6bU43b2VqYnk2S3U4UTEtZVdBdG5PT0ZQZ2hEV01KaXQ0WUZFTjBMNk5BQ3NGeUF2LWVEOW5RVWRvbkpyQkxFMkhVcnNyRm1tUm9PSDVkcHVvTlBwSm0tdlFLVlBlQXZHNmxtM1hF?oc=5"
         }
       ]
     },

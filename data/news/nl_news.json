@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-18T07:03:31.816616+00:00",
-  "count": 3,
+  "fetched_at": "2026-04-18T12:56:35.873122+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "52f9b797414a",
-      "title": "Tegen vrouwen die het pletten van de borsten voor de foto onaangenaam vinden, zeg ik: kanker en dood zijn erger - de Volkskrant",
-      "published": "2026-04-16T13:00:30+00:00",
-      "summary": "Tegen vrouwen die het pletten van de borsten voor de foto onaangenaam vinden, zeg ik: kanker en dood zijn erger&nbsp;&nbsp;de Volkskrant",
+      "id": "14071bca86ca",
+      "title": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan' - EenVandaag",
+      "published": "2026-04-18T09:10:34+00:00",
+      "summary": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan'&nbsp;&nbsp;EenVandaagOpinie: Zet preventie centraal in de strijd tegen obesitas. Medicatie is niet de oplossing&nbsp;&nbsp;de VolkskrantObesitasexpert maakt balans op van afslankmedicatie: “Nog tijd nodig om zeker te zijn van langetermijnresultaten”&nbsp;&nbsp;NieuwsbladObesitas als stille pandemie&nbsp;&nbsp;Forbes Belgique",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ041Xy1aRVFyRWFuQnUwMHEwLUtyQXdxSU9JUjcyUkJnYjlXRDA5T2tadmctb2RaWnlIaHdGT1dXSi1QLU5LdlVUd18ySjAtcFFseWpsS2J3SmhOZk80QWlZNVRUWWxMb2pISWZIanZkOTF6NmJSaElFSktScnFYRXVGNGZBTHpHXy0tM0hrNTVjeWprRElFRmxRT2xiRnk4X2FhaXFtdDVfSmthV2Vic0g3eUhqaUN0OTJWQjg3SUdZNnhIUzdKeU9EcW9rcEJ0ajRfVmdNSERXYmJqZEVuN2tqMm1zYmNxeHVYZWR4X1J6d3BIYUo0YjRQbXVqbnVWc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5948539e862b",
+      "title": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen - de Volkskrant",
+      "published": "2026-04-17T07:30:23+00:00",
+      "summary": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen&nbsp;&nbsp;de VolkskrantBeloftevol alzheimer-geneesmiddel staat ter discussie: “Schandalig dat ze deze studie durfden te publiceren”&nbsp;&nbsp;NieuwsbladSessie 12: Geneesmiddelen voor dementie: zijn we er klaar voor?&nbsp;&nbsp;ZonMwNieuw Alzheimer-medicijn geeft hoop op herstel&nbsp;&nbsp;Smarthealth.liveAlzheimer-medicatie: handelaars in valse hoop?&nbsp;&nbsp;pal.be",
       "sources": [
         {
           "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNamdyUURfSVg5QVlnS1VxMkF2aDRIZWpubGhuc3l5S2RESVZoVUFPYTk5WW9KYkdVVDQ0REY4N2FkX3NEOFBwcVVtU1ZHYlRxMzhlUERqb29oQnh4eHpTbkdYVV9TNWxtaFpkMU5uNGZXMjJUZE4yMXQ1NzBLcmEwdDlHZ0M0MVd0UW80YlgzUW9ZYWV0TUVTMW5RZmFEam5EX0ZDY2FjUUJpYXgyTW9UbFF3UXlOUTBYOHEzcHdtQjM2eGtlZ2Z4WkVXZlQwYkVJalJIdzVkNzdmcm5aRnZMb1BqY0J6YWRrWXZiVDZpcEczMzA1WU40?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXdMQTRfRlZtMnJOck4tRUc4LUdlcnpTS0Q5czkweXhaUm9zai1SNXIzcXlqVVIwUTNpbWJEQzJzMXl4LVJQdnBoRXNMVUxIeDYtdm9qVXlfaThmVFBYSFhOa3U2NFZPQkJsMWVxYTl3d0pCNjV5a3hKdklmN0x2V25DSnM3V3dxUzU1blpkLVFaU2tFSjRFY1g4Wi1OUG8weGR5MWhCZzBFVGhrT2pzSVRWZkZUQTM5VlNVM3FJVXhLM3JBSWNDVHpjZm9NbTIw?oc=5"
         }
       ]
     },

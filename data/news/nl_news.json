@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-18T02:05:15.038499+00:00",
-  "count": 5,
+  "fetched_at": "2026-04-18T07:03:31.816616+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "fe4017405e4c",
-      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - Tubantia",
-      "published": "2026-04-16T03:00:00+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;TubantiaHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm13Rk9LNGxLOXc1NTIwSVloT3hDSDl1cHlQUGtSWkhKTldQUmhabmR1VTZOWlpYTlUyMTRKSjZfMlhUMWxvYVBZNUZKbDVYa0NCYVZQVDBoNDdkSEw3bUxqdm8xOFVzVjNaNWdPNm02OGZfN2RkYTBwZlNMUUdLMVNZTWt6amptSkFBUzFMaVprLU9udnRlYWV1bjhiM1FTQTZZenowVmQzYVhUZXhXWUlRb0pBY1Zr?oc=5"
-        }
-      ]
-    },
     {
       "id": "52f9b797414a",
       "title": "Tegen vrouwen die het pletten van de borsten voor de foto onaangenaam vinden, zeg ik: kanker en dood zijn erger - de Volkskrant",
@@ -48,18 +36,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXItN0k0R0RseGJSbXFCWHAtUXI4Sm03eEJ5TndPeWJBWmoyeFU3bHhEMmhtSWN0UFNrOFR5LUtiUm1mODM5N0lMc1JDUjZLdjZpbjdFRWlHcU5zd2pPWEVmNDlzQ3IzeVdUVTRIRl9VT1E4Rmt5V3dkQjN4UEE1N0huMkItNjJvZTk3Qjd0bXVyM1JvYjlydFV5RzZMOXBMaFlIb0w1bFhzNlJZLW9MMjYwSEZlemlOWWhtN0JIMXY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a50cfb22e25f",
-      "title": "Artsen over ALK: ‘Door overbelasting ontstaan er ontregelingen' - Libelle",
-      "published": "2026-04-16T04:37:36+00:00",
-      "summary": "Artsen over ALK: ‘Door overbelasting ontstaan er ontregelingen'&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDNJVGV5YjRyMnZqcV9TT2xvcmF0OUJfeTJ0Q2xKUDRCYTZaR1NUUWVlRzU4cXlpRk9rZm1mMG1sU2VBQ2xBZ0R3M3VKZllWNGRLalB0bmFTWDYtUHBESE5PMV9NTUZ2aHA1ei1hMTdMdDJDVlg4WnJ6TTJuQnBXWmtIU21oRFlrQlA5dmRJWHY?oc=5"
         }
       ]
     }

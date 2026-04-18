@@ -1,41 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-17T18:56:28.907001+00:00",
+  "fetched_at": "2026-04-18T02:05:15.038499+00:00",
   "count": 5,
   "news": [
     {
-      "id": "f3c817ff3828",
-      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - AD.nl",
+      "id": "fe4017405e4c",
+      "title": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard - Tubantia",
       "published": "2026-04-16T03:00:00+00:00",
-      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;AD.nlMinder darm- en longkankerdiagnoses, maar wel vaker huid- en prostaatkanker gevonden&nbsp;&nbsp;Nationale ZorggidsKans op kanker daalt licht in Nederland, maar deze twee kankersoorten stijgen juist hard&nbsp;&nbsp;Metronieuws.nlHet risico op kanker daalt, maar deze twee vormen komen juist vaker voor&nbsp;&nbsp;MargrietKans op kanker blijft licht dalen; vorig jaar 135.000 diagnoses&nbsp;&nbsp;Voorburgs D",
+      "summary": "Kans op kanker daalt licht in Nederland, maar twee soorten stijgen juist hard&nbsp;&nbsp;TubantiaHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlnZjlrUmM3YXhqQXg4aktZWFVQYTBuVUV1RVo3LXNLcEVDTW5nc3VNdUJjdXFGSHRMUTBLX0x4d0dJV28ybW9SMTE2ejRZeTVvUWJpRFNNQm5VWjFybVVDQkZJTnNuQ1dJcVA0c2JITUlHbVNXVENZS1pJLWIyVG1EOEdLX2d6MFM0TFRXTjBtS0szTF9seDlvN3o2OFhEbW5JU05iUjZXRjlZVE8xRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82bd1276bb54",
-      "title": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen - De Gelderlander",
-      "published": "2026-04-15T21:59:00+00:00",
-      "summary": "Petitie voor gratis gordelroosvaccin: ouderen lopen meer risico, maar moeten zelf betalen&nbsp;&nbsp;De GelderlanderHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG9EcGlSa0pYQVlIUzFsXzhYRnRERTNldXZQaDU1VUc1RW5jSHlNTVZodmR1THczU3dWN2ZPLXAwU1dSSENYMWloNm5FQktaX3hwa0pZUHpGTmFJdV91c3FLd3pZUGFlZHNnVExUalNIVURZRFpfOHJHeVlzOEVTdTZQbkt4VkJmVWpRMHpuOVlEczR3QzZmUm16YzRNeTlKeDFsY0lFZjE2c2dOeFowN3dQTDZJZVMwN3puNEVKcjN3NzQxLWJXQVdhdnJvMHByX2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c57e5cf69425",
-      "title": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan - de Volkskrant",
-      "published": "2026-04-16T03:00:18+00:00",
-      "summary": "Artsen roepen MS-patiënten op die stamcelbehandeling in het buitenland hebben ondergaan&nbsp;&nbsp;de VolkskrantAntoniusziekenhuis zoekt MS-patiënten die stamceltherapie kregen in buitenland&nbsp;&nbsp;AD.nlStudie naar MS-patiënten die stamceltherapie kregen in buitenland&nbsp;&nbsp;Haarlems DagbladZiekenhuizen zoeken MS-patiënten die in het buitenland stamceltherapie hebben gehad&nbsp;&nbsp;Nationale ZorggidsOproep voor mensen met MS die stamceltherapie ondergingen in het buitenland&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVhlSzI0TnBmR1poMm5yakpMVExTaDRpMnRkXzhGTGxiRUxvQTJDeExUVjZWLVlQYk5laTd2LVNvVmlvRFdpak1VYWwzSE0yWk5ONUtlbVNJQ01MVWFRcmFiR3F4TW1vQ0R6UG5adndoUVNHQUI4ZV9LaU5yWktWcE9RUWRWZTJaSHgwTUloV2lXUkc1SWdMVXA3UVFxdlJqaExxeVR6cjZfTndZTFA0STVjTFhxRWo2eUVUcFBIUlJOSlhjdEZ3ZnJ6cVM1d1Ff?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm13Rk9LNGxLOXc1NTIwSVloT3hDSDl1cHlQUGtSWkhKTldQUmhabmR1VTZOWlpYTlUyMTRKSjZfMlhUMWxvYVBZNUZKbDVYa0NCYVZQVDBoNDdkSEw3bUxqdm8xOFVzVjNaNWdPNm02OGZfN2RkYTBwZlNMUUdLMVNZTWt6amptSkFBUzFMaVprLU9udnRlYWV1bjhiM1FTQTZZenowVmQzYVhUZXhXWUlRb0pBY1Zr?oc=5"
         }
       ]
     },
@@ -48,6 +24,30 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNamdyUURfSVg5QVlnS1VxMkF2aDRIZWpubGhuc3l5S2RESVZoVUFPYTk5WW9KYkdVVDQ0REY4N2FkX3NEOFBwcVVtU1ZHYlRxMzhlUERqb29oQnh4eHpTbkdYVV9TNWxtaFpkMU5uNGZXMjJUZE4yMXQ1NzBLcmEwdDlHZ0M0MVd0UW80YlgzUW9ZYWV0TUVTMW5RZmFEam5EX0ZDY2FjUUJpYXgyTW9UbFF3UXlOUTBYOHEzcHdtQjM2eGtlZ2Z4WkVXZlQwYkVJalJIdzVkNzdmcm5aRnZMb1BqY0J6YWRrWXZiVDZpcEczMzA1WU40?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cab4c4e2107d",
+      "title": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande - Starnieuws",
+      "published": "2026-04-16T19:45:00+00:00",
+      "summary": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande&nbsp;&nbsp;StarnieuwsKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantDoodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad Suriname",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTnhCMENxWjhhNGxBRkc2NUZBbG9taE5GQkhyQVo5M1VzV3p2NkpCazE5dzZMaEJDZ0dwUXBhRnQyTWZUVTZHWFdxVGt3ZlhnZW8xRUYzVFhWLXFVaDh4d29wUHpISWc1YncwX3h5VnBCNlpCNEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d6af6a31ce7",
+      "title": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel - Scientias.nl",
+      "published": "2026-04-17T09:00:33+00:00",
+      "summary": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXItN0k0R0RseGJSbXFCWHAtUXI4Sm03eEJ5TndPeWJBWmoyeFU3bHhEMmhtSWN0UFNrOFR5LUtiUm1mODM5N0lMc1JDUjZLdjZpbjdFRWlHcU5zd2pPWEVmNDlzQ3IzeVdUVTRIRl9VT1E4Rmt5V3dkQjN4UEE1N0huMkItNjJvZTk3Qjd0bXVyM1JvYjlydFV5RzZMOXBMaFlIb0w1bFhzNlJZLW9MMjYwSEZlemlOWWhtN0JIMXY?oc=5"
         }
       ]
     },

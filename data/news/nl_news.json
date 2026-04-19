@@ -1,10 +1,10 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-18T18:43:51.917310+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-19T02:26:42.744339+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "14071bca86ca",
+      "id": "2de591ad1f04",
       "title": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan' - EenVandaag",
       "published": "2026-04-18T09:10:34+00:00",
       "summary": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan'&nbsp;&nbsp;EenVandaagOpinie: Zet preventie centraal in de strijd tegen obesitas. Medicatie is niet de oplossing&nbsp;&nbsp;de VolkskrantObesitasexpert maakt balans op van afslankmedicatie: “Nog tijd nodig om zeker te zijn van langetermijnresultaten”&nbsp;&nbsp;NieuwsbladObesitas als stille pandemie&nbsp;&nbsp;Forbes Belgique",
@@ -16,19 +16,7 @@
       ]
     },
     {
-      "id": "875060d544f4",
-      "title": "Schaamte over je anus kan je doodvonnis zijn - Welingelichte Kringen",
-      "published": "2026-04-18T10:19:05+00:00",
-      "summary": "Schaamte over je anus kan je doodvonnis zijn&nbsp;&nbsp;Welingelichte KringenDarmdokter Magali Surmont: ‘Schaamte over je anus kan je doodvonnis betekenen’&nbsp;&nbsp;De Morgen“Als je kind net een ijsje at, wrijf je hun gezicht toch ook niet proper met droog papier?” Gastro-enteroloog beantwoordt vragen over je toiletbezoek&nbsp;&nbsp;GVAMoeilijke stoelgang? Darmdokter Magali Surmont: ‘Zet een voetenbankje naast je toilet en negeer je stoelgang nooit’&nbsp;&nbsp;KnackDarmdeskundige Magali Surmon",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1dPMXRCQU5NQ3BkeTF0aTVTWHFTam9QVjFhMXFBM1luTGZaVklzX05zeWp3T0JjaFJ3Zm9femV3VUdjX1VEUXFMTkxjOWVpY1VYeWVMNGpiaVlzNDNSV2xTT2hSTU1qdmRPR25aUXM5XzlINWRkblJFNk9iNnUtQ1Z6WkpmM1RVdzNKbDVyNlJwUnVLQ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5948539e862b",
+      "id": "c7166d50df4d",
       "title": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen - de Volkskrant",
       "published": "2026-04-17T07:30:23+00:00",
       "summary": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen&nbsp;&nbsp;de VolkskrantIs wondermedicijn tegen Alzheimer handeltje in valse hoop?&nbsp;&nbsp;pal.beNieuw Alzheimer-medicijn geeft hoop op herstel&nbsp;&nbsp;Smarthealth.liveBeloftevol alzheimer-geneesmiddel staat ter discussie: “Schandalig dat ze deze studie durfden te publiceren”&nbsp;&nbsp;NieuwsbladSessie 12: Geneesmiddelen voor dementie: zijn we er klaar voor?&nbsp;&nbsp;ZonMw",
@@ -40,7 +28,19 @@
       ]
     },
     {
-      "id": "6f0bdf81b14d",
+      "id": "78ceea158a9e",
+      "title": "Schaamte over je anus kan je doodvonnis zijn - Welingelichte Kringen",
+      "published": "2026-04-18T10:19:05+00:00",
+      "summary": "Schaamte over je anus kan je doodvonnis zijn&nbsp;&nbsp;Welingelichte KringenDarmdokter Magali Surmont: ‘Schaamte over je anus kan je doodvonnis betekenen’&nbsp;&nbsp;De Morgen“Als je kind net een ijsje at, wrijf je hun gezicht toch ook niet proper met droog papier?” Gastro-enteroloog beantwoordt vragen over je toiletbezoek&nbsp;&nbsp;GVAMoeilijke stoelgang? Darmdokter Magali Surmont: ‘Zet een voetenbankje naast je toilet en negeer je stoelgang nooit’&nbsp;&nbsp;KnackDarmdeskundige Magali Surmon",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1dPMXRCQU5NQ3BkeTF0aTVTWHFTam9QVjFhMXFBM1luTGZaVklzX05zeWp3T0JjaFJ3Zm9femV3VUdjX1VEUXFMTkxjOWVpY1VYeWVMNGpiaVlzNDNSV2xTT2hSTU1qdmRPR25aUXM5XzlINWRkblJFNk9iNnUtQ1Z6WkpmM1RVdzNKbDVyNlJwUnVLQ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9e4ebd69f1c",
       "title": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose - bnr.nl",
       "published": "2026-04-18T16:39:35+00:00",
       "summary": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose&nbsp;&nbsp;bnr.nlAantal gevallen van huidkanker stijgt explosief: Twee onderzoekers vinden een verborgen patroon dat je risico vijf jaar van tevoren kan voorspellen&nbsp;&nbsp;wibnet.nlAI voorspelt het risico op melanoom met een nauwkeurigheid van 73 procent&nbsp;&nbsp;Business AM",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "3ebaea49bf4d",
+      "id": "399f59a2946c",
       "title": "Uit onderzoek blijkt: op dít tijdstip kun je beter niet meer lunchen - Libelle",
       "published": "2026-04-17T17:33:59+00:00",
       "summary": "Uit onderzoek blijkt: op dít tijdstip kun je beter niet meer lunchen&nbsp;&nbsp;Libelle",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "id": "1d6af6a31ce7",
+      "id": "dd8849541c95",
       "title": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel - Scientias.nl",
       "published": "2026-04-17T09:00:33+00:00",
       "summary": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel&nbsp;&nbsp;Scientias.nl",
@@ -72,18 +72,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXItN0k0R0RseGJSbXFCWHAtUXI4Sm03eEJ5TndPeWJBWmoyeFU3bHhEMmhtSWN0UFNrOFR5LUtiUm1mODM5N0lMc1JDUjZLdjZpbjdFRWlHcU5zd2pPWEVmNDlzQ3IzeVdUVTRIRl9VT1E4Rmt5V3dkQjN4UEE1N0huMkItNjJvZTk3Qjd0bXVyM1JvYjlydFV5RzZMOXBMaFlIb0w1bFhzNlJZLW9MMjYwSEZlemlOWWhtN0JIMXY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cab4c4e2107d",
-      "title": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande - Starnieuws",
-      "published": "2026-04-16T19:45:00+00:00",
-      "summary": "Politiebericht over doodsoorzaak peuters; onderzoek nog gaande&nbsp;&nbsp;StarnieuwsKinderen overleden door oververhitting na achterlaten in auto&nbsp;&nbsp;WaterkantDoodsoorzaak drie peuters vastgesteld: zonnesteek en hersenschade&nbsp;&nbsp;Suriname HeraldOnderzoek gestart na mysterieuze dood van drie peuters&nbsp;&nbsp;Times of SurinameDrie jonge kinderen dood binnengebracht bij SEH AZP&nbsp;&nbsp;Dagblad Suriname",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTnhCMENxWjhhNGxBRkc2NUZBbG9taE5GQkhyQVo5M1VzV3p2NkpCazE5dzZMaEJDZ0dwUXBhRnQyTWZUVTZHWFdxVGt3ZlhnZW8xRUYzVFhWLXFVaDh4d29wUHpISWc1YncwX3h5VnBCNlpCNEE?oc=5"
         }
       ]
     }

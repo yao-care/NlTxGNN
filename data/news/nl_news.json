@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-19T02:26:42.744339+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-19T07:15:11.372938+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "6c67e7b9d61d",
+      "title": "ADHD vaak pas laat ontdekt bij vrouwen rond de overgang en ouderen van boven de 60: 'Waarom ziet niemand wat er echt speelt?' - MAX Meldpunt",
+      "published": "2026-04-17T09:38:36+00:00",
+      "summary": "ADHD vaak pas laat ontdekt bij vrouwen rond de overgang en ouderen van boven de 60: 'Waarom ziet niemand wat er echt speelt?'&nbsp;&nbsp;MAX MeldpuntNatuurlijk heeft niet iedereen bij wie de diagnose wordt gesteld daadwerkelijk ADHD&nbsp;&nbsp;Het ParoolSophie (32) ontdekte op late leeftijd dat ze ADHD heeft: ‘Had ik dit maar eerder geweten’&nbsp;&nbsp;bedrock.nlIn Meldpunt Actueel: vaker diagnose ADHD bij ouderen&nbsp;&nbsp;Perssite Omroep MAXADHD bij ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "sources": [
+        {
+          "name": "MAX Meldpunt",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOXlpN1lWMzZ6Y09fZFZOSTBVeHluRkFiNnRSUnVQZzNlQ1gzZ1VXOW8yZ3dJX1NHaDlSUU5kTGQtbGdOaVJRYWtSdHBXWUxQenFJdHFRT2hlOXNPM25uWUo3d2Q1Y3ZwQW1udlViWWhoeDBKMTlOTElVdHRQWFZWSjlrdVlxa2MwNTlYNW5BVU1BTUNoS3N3SzFIY2c0SWVIVF9LUjNQLU0yd2hDcVJoWWpReGM4Yk9hTXM1NlhoWWF5aTdzNzBrakR0Z3RUUW5VS2Z1SFhYNXpwaDZBX3BOX0NjcjB0Zkx1enVwUk00bFRxUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "2de591ad1f04",
       "title": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan' - EenVandaag",
@@ -42,7 +54,7 @@
     {
       "id": "f9e4ebd69f1c",
       "title": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose - bnr.nl",
-      "published": "2026-04-18T16:39:35+00:00",
+      "published": "2026-04-18T16:39:36+00:00",
       "summary": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose&nbsp;&nbsp;bnr.nlAantal gevallen van huidkanker stijgt explosief: Twee onderzoekers vinden een verborgen patroon dat je risico vijf jaar van tevoren kan voorspellen&nbsp;&nbsp;wibnet.nlAI voorspelt het risico op melanoom met een nauwkeurigheid van 73 procent&nbsp;&nbsp;Business AM",
       "sources": [
         {

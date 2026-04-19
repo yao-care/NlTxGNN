@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-19T12:55:57.246947+00:00",
-  "count": 9,
+  "fetched_at": "2026-04-19T18:43:45.549511+00:00",
+  "count": 7,
   "news": [
-    {
-      "id": "5278e0ee71ad",
-      "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
-      "published": "2026-04-19T12:20:54+00:00",
-      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSZe hield het zelfs voor haar dochters geheim: Rosa Rademakers (47) wint ‘Oscar van de wetenschap’ tussen Hollywoodsterren&nbsp;&nbsp;HLNDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenAntwerpse",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkhoUVlqODhiTmhBaDdaTzZsNDhyNVdUWGp0akFSTHQ4SEhIeHlzbkY4MUt3NzRyNWZCTGJsMi1LOERPX0VKUGtkN2k1UFFmYlF6Z05GNHJYeUNuV0Q1aFlGVldoMkdyUDlkMWRkUzl1MHM3X0I1VG43RWNBNXhwZktiaHAzWjVvNW8wMjhVeUJLcUlldUpLUUd1cTBJUmRfOUdVOC13?oc=5"
-        }
-      ]
-    },
     {
       "id": "8820de28b54b",
       "title": "Natuurlijk heeft niet iedereen bij wie de diagnose wordt gesteld daadwerkelijk adhd - Het Parool",
@@ -28,26 +16,14 @@
       ]
     },
     {
-      "id": "9727bad13f21",
-      "title": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’ - De Telegraaf",
-      "published": "2026-04-19T12:49:45+00:00",
-      "summary": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’&nbsp;&nbsp;De Telegraaf",
+      "id": "5278e0ee71ad",
+      "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
+      "published": "2026-04-19T12:20:54+00:00",
+      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSZe hield het zelfs voor haar dochters geheim: Rosa Rademakers (47) wint ‘Oscar van de wetenschap’ tussen Hollywoodsterren&nbsp;&nbsp;HLNDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTAntwerpse onderzoekster Rosa Rademakers wint ‘Oscar van de wetenschap’ voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;De Stan",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5985fee0b1a2",
-      "title": "1,8 miljoen Nederlandse vrouwen hebben er last van; huisarts Lotte (43) wil daar verandering in brengen - De Gelderlander",
-      "published": "2026-04-19T09:35:00+00:00",
-      "summary": "1,8 miljoen Nederlandse vrouwen hebben er last van; huisarts Lotte (43) wil daar verandering in brengen&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekhLSUZaa3liRFRxR2ZyZnRrZmZ5TmdGTnBsQnhfQ1pYZVJxYVJBaG5HVG1MUm5RY3NiamZwMmFZRmRtekMwTVBtVkE0TUJqUFpNa0pSSGhHRXpkSllmbGp3U1R3TXJmWFBHZ3p4c25wdGQyUVFkOEI0SnpnSjdSYnZLY3JfVUFEU2YxV2ZGQ09ld0NVd0ZNZjdtZjM5a3A0d2xuSVhaU2RCam1TVU5PaDdYME5xZTNSLVpvcEhpSUgtUnQ5MTlvTkRLQlV5WkNvUU9VUUcteFY5Q3Z6S2c?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkhoUVlqODhiTmhBaDdaTzZsNDhyNVdUWGp0akFSTHQ4SEhIeHlzbkY4MUt3NzRyNWZCTGJsMi1LOERPX0VKUGtkN2k1UFFmYlF6Z05GNHJYeUNuV0Q1aFlGVldoMkdyUDlkMWRkUzl1MHM3X0I1VG43RWNBNXhwZktiaHAzWjVvNW8wMjhVeUJLcUlldUpLUUd1cTBJUmRfOUdVOC13?oc=5"
         }
       ]
     },
@@ -60,6 +36,18 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ041Xy1aRVFyRWFuQnUwMHEwLUtyQXdxSU9JUjcyUkJnYjlXRDA5T2tadmctb2RaWnlIaHdGT1dXSi1QLU5LdlVUd18ySjAtcFFseWpsS2J3SmhOZk80QWlZNVRUWWxMb2pISWZIanZkOTF6NmJSaElFSktScnFYRXVGNGZBTHpHXy0tM0hrNTVjeWprRElFRmxRT2xiRnk4X2FhaXFtdDVfSmthV2Vic0g3eUhqaUN0OTJWQjg3SUdZNnhIUzdKeU9EcW9rcEJ0ajRfVmdNSERXYmJqZEVuN2tqMm1zYmNxeHVYZWR4X1J6d3BIYUo0YjRQbXVqbnVWc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9727bad13f21",
+      "title": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’ - De Telegraaf",
+      "published": "2026-04-19T18:34:45+00:00",
+      "summary": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
         }
       ]
     },
@@ -88,21 +76,9 @@
       ]
     },
     {
-      "id": "399f59a2946c",
-      "title": "Uit onderzoek blijkt: op dít tijdstip kun je beter niet meer lunchen - Libelle",
-      "published": "2026-04-17T17:33:59+00:00",
-      "summary": "Uit onderzoek blijkt: op dít tijdstip kun je beter niet meer lunchen&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EdzltcURVdFg5MjJUc3dvMTBxYVJvYlh3UHB3VzlKRF9ENGV3MGtMb1BYS2FDMFBmVnJmMVhaNTJRSUJyN002RC1GQWRTdmxwalMtYWUzZ0pDNUdIVmxwQWx3OFl2bEtVc19sUldVbWQ3TU5VM3NzOG80QUMwQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f9e4ebd69f1c",
       "title": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose - bnr.nl",
-      "published": "2026-04-18T16:39:00+00:00",
+      "published": "2026-04-18T16:39:36+00:00",
       "summary": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose&nbsp;&nbsp;bnr.nlAantal gevallen van huidkanker stijgt explosief: Twee onderzoekers vinden een verborgen patroon dat je risico vijf jaar van tevoren kan voorspellen&nbsp;&nbsp;wibnet.nlAI voorspelt het risico op melanoom met een nauwkeurigheid van 73 procent&nbsp;&nbsp;Business AM",
       "sources": [
         {

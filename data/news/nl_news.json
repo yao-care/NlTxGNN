@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-19T07:15:11.372938+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-19T12:55:57.246947+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "6c67e7b9d61d",
-      "title": "ADHD vaak pas laat ontdekt bij vrouwen rond de overgang en ouderen van boven de 60: 'Waarom ziet niemand wat er echt speelt?' - MAX Meldpunt",
-      "published": "2026-04-17T09:38:36+00:00",
-      "summary": "ADHD vaak pas laat ontdekt bij vrouwen rond de overgang en ouderen van boven de 60: 'Waarom ziet niemand wat er echt speelt?'&nbsp;&nbsp;MAX MeldpuntNatuurlijk heeft niet iedereen bij wie de diagnose wordt gesteld daadwerkelijk ADHD&nbsp;&nbsp;Het ParoolSophie (32) ontdekte op late leeftijd dat ze ADHD heeft: ‘Had ik dit maar eerder geweten’&nbsp;&nbsp;bedrock.nlIn Meldpunt Actueel: vaker diagnose ADHD bij ouderen&nbsp;&nbsp;Perssite Omroep MAXADHD bij ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "id": "5278e0ee71ad",
+      "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
+      "published": "2026-04-19T12:20:54+00:00",
+      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSZe hield het zelfs voor haar dochters geheim: Rosa Rademakers (47) wint ‘Oscar van de wetenschap’ tussen Hollywoodsterren&nbsp;&nbsp;HLNDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenAntwerpse",
       "sources": [
         {
-          "name": "MAX Meldpunt",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOXlpN1lWMzZ6Y09fZFZOSTBVeHluRkFiNnRSUnVQZzNlQ1gzZ1VXOW8yZ3dJX1NHaDlSUU5kTGQtbGdOaVJRYWtSdHBXWUxQenFJdHFRT2hlOXNPM25uWUo3d2Q1Y3ZwQW1udlViWWhoeDBKMTlOTElVdHRQWFZWSjlrdVlxa2MwNTlYNW5BVU1BTUNoS3N3SzFIY2c0SWVIVF9LUjNQLU0yd2hDcVJoWWpReGM4Yk9hTXM1NlhoWWF5aTdzNzBrakR0Z3RUUW5VS2Z1SFhYNXpwaDZBX3BOX0NjcjB0Zkx1enVwUk00bFRxUQ?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkhoUVlqODhiTmhBaDdaTzZsNDhyNVdUWGp0akFSTHQ4SEhIeHlzbkY4MUt3NzRyNWZCTGJsMi1LOERPX0VKUGtkN2k1UFFmYlF6Z05GNHJYeUNuV0Q1aFlGVldoMkdyUDlkMWRkUzl1MHM3X0I1VG43RWNBNXhwZktiaHAzWjVvNW8wMjhVeUJLcUlldUpLUUd1cTBJUmRfOUdVOC13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8820de28b54b",
+      "title": "Natuurlijk heeft niet iedereen bij wie de diagnose wordt gesteld daadwerkelijk adhd - Het Parool",
+      "published": "2026-04-18T01:00:00+00:00",
+      "summary": "Natuurlijk heeft niet iedereen bij wie de diagnose wordt gesteld daadwerkelijk adhd&nbsp;&nbsp;Het ParoolADHD vaak pas laat ontdekt bij vrouwen rond de overgang en ouderen van boven de 60: 'Waarom ziet niemand wat er echt speelt?'&nbsp;&nbsp;MAX MeldpuntSophie (32) ontdekte op late leeftijd dat ze ADHD heeft: ‘Had ik dit maar eerder geweten’&nbsp;&nbsp;bedrock.nlIn Meldpunt Actueel: vaker diagnose ADHD bij ouderen&nbsp;&nbsp;Perssite Omroep MAXADHD bij ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTURVUE9mdGtVbTZxYktIOGY5dzZMRy14SVRfMTc1djJTaE9uamVFVVREQmxzSjFZMUJfMDd1bmdoTUFVR1RoU3Y1VVlxSDVEZXpzdlAxU1F3LTFySXVHNmw3c3pPVS14cEJ6eWtzcm94OWJLcEVheEd6UXFqYTBndzlIZU9KLW9YRTRBU3RtRjdUUlZocVlJM05Ca21ubW45N0N5OGpTbmkzb3FzNDJkSjNyXzluRWRzeTZFSXBuYjdIUTFNbjQzbXJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9727bad13f21",
+      "title": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’ - De Telegraaf",
+      "published": "2026-04-19T12:49:45+00:00",
+      "summary": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5985fee0b1a2",
+      "title": "1,8 miljoen Nederlandse vrouwen hebben er last van; huisarts Lotte (43) wil daar verandering in brengen - De Gelderlander",
+      "published": "2026-04-19T09:35:00+00:00",
+      "summary": "1,8 miljoen Nederlandse vrouwen hebben er last van; huisarts Lotte (43) wil daar verandering in brengen&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekhLSUZaa3liRFRxR2ZyZnRrZmZ5TmdGTnBsQnhfQ1pYZVJxYVJBaG5HVG1MUm5RY3NiamZwMmFZRmRtekMwTVBtVkE0TUJqUFpNa0pSSGhHRXpkSllmbGp3U1R3TXJmWFBHZ3p4c25wdGQyUVFkOEI0SnpnSjdSYnZLY3JfVUFEU2YxV2ZGQ09ld0NVd0ZNZjdtZjM5a3A0d2xuSVhaU2RCam1TVU5PaDdYME5xZTNSLVpvcEhpSUgtUnQ5MTlvTkRLQlV5WkNvUU9VUUcteFY5Q3Z6S2c?oc=5"
         }
       ]
     },
@@ -28,18 +64,6 @@
       ]
     },
     {
-      "id": "c7166d50df4d",
-      "title": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen - de Volkskrant",
-      "published": "2026-04-17T07:30:23+00:00",
-      "summary": "Nieuwe wegen naar een middel tegen alzheimer: vijf inzichten – en vijf mogelijke medicijnen&nbsp;&nbsp;de VolkskrantIs wondermedicijn tegen Alzheimer handeltje in valse hoop?&nbsp;&nbsp;pal.beNieuw Alzheimer-medicijn geeft hoop op herstel&nbsp;&nbsp;Smarthealth.liveBeloftevol alzheimer-geneesmiddel staat ter discussie: “Schandalig dat ze deze studie durfden te publiceren”&nbsp;&nbsp;NieuwsbladSessie 12: Geneesmiddelen voor dementie: zijn we er klaar voor?&nbsp;&nbsp;ZonMw",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXdMQTRfRlZtMnJOck4tRUc4LUdlcnpTS0Q5czkweXhaUm9zai1SNXIzcXlqVVIwUTNpbWJEQzJzMXl4LVJQdnBoRXNMVUxIeDYtdm9qVXlfaThmVFBYSFhOa3U2NFZPQkJsMWVxYTl3d0pCNjV5a3hKdklmN0x2V25DSnM3V3dxUzU1blpkLVFaU2tFSjRFY1g4Wi1OUG8weGR5MWhCZzBFVGhrT2pzSVRWZkZUQTM5VlNVM3FJVXhLM3JBSWNDVHpjZm9NbTIw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "78ceea158a9e",
       "title": "Schaamte over je anus kan je doodvonnis zijn - Welingelichte Kringen",
       "published": "2026-04-18T10:19:05+00:00",
@@ -52,14 +76,14 @@
       ]
     },
     {
-      "id": "f9e4ebd69f1c",
-      "title": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose - bnr.nl",
-      "published": "2026-04-18T16:39:36+00:00",
-      "summary": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose&nbsp;&nbsp;bnr.nlAantal gevallen van huidkanker stijgt explosief: Twee onderzoekers vinden een verborgen patroon dat je risico vijf jaar van tevoren kan voorspellen&nbsp;&nbsp;wibnet.nlAI voorspelt het risico op melanoom met een nauwkeurigheid van 73 procent&nbsp;&nbsp;Business AM",
+      "id": "08a3da508717",
+      "title": "Onderzoekers achter grote studie naar vroegtijdig overlijden: Op deze leeftijd moet je extra op je gewicht letten - wibnet.nl",
+      "published": "2026-04-18T20:00:56+00:00",
+      "summary": "Onderzoekers achter grote studie naar vroegtijdig overlijden: Op deze leeftijd moet je extra op je gewicht letten&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVYxQWVfODN2MnpxZDBTRE9wTDNIQ2dFQnk5UndtejV5Qnh0T2hCZUREZXdUd0RDR092ekVYTmJ4REZidG81UHgxaEc3NzBQOGV5WEpqY1k3YTFPN1V3SGRBNmdubnRtUzM3bGJPdzdXOWJaTzRhSjlBMmlTT1ZYZWFuNi0taU9HR2E3MUxnaU1HdG9uNUx6dUpwNkNkaXcyamZuVXlGSXk5UXNuQXZLaw?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGplQnRjRWVaVkYtY0pWYy1lN0lrbGhxNDNZcVFSUzlLdUJ5dlFham9JLWQ1S2pnc3RySWpOMUowZ2RkNklPeWRqZDU4SWJCMEVKSWV4UDRrWFlvc1RUUUhjbkdHTk1aYzVaMU1jN3Jqb1ctQXFYaXAzZC1XUk44cjhHNlNwYkR0ajhvRVFpNEVKUV9CRHNDUnNfNXBNMmhUUklVRTVOemlKaGZQTlVFeF9rdk03TjUtbXZxcUJwZnJiakg1QlJfQnZvVF9Hd1lvdktnVWZ0dEFQaDVNVVFCOFRnWTNlUQ?oc=5"
         }
       ]
     },
@@ -76,14 +100,14 @@
       ]
     },
     {
-      "id": "dd8849541c95",
-      "title": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel - Scientias.nl",
-      "published": "2026-04-17T09:00:33+00:00",
-      "summary": "Nieuwe behandeling tegen zware depressie is even effectief als ECT, maar heeft een belangrijk voordeel&nbsp;&nbsp;Scientias.nl",
+      "id": "f9e4ebd69f1c",
+      "title": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose - bnr.nl",
+      "published": "2026-04-18T16:39:00+00:00",
+      "summary": "Onderzoek: AI kan risico op melanoom voorspellen voor diagnose&nbsp;&nbsp;bnr.nlAantal gevallen van huidkanker stijgt explosief: Twee onderzoekers vinden een verborgen patroon dat je risico vijf jaar van tevoren kan voorspellen&nbsp;&nbsp;wibnet.nlAI voorspelt het risico op melanoom met een nauwkeurigheid van 73 procent&nbsp;&nbsp;Business AM",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXItN0k0R0RseGJSbXFCWHAtUXI4Sm03eEJ5TndPeWJBWmoyeFU3bHhEMmhtSWN0UFNrOFR5LUtiUm1mODM5N0lMc1JDUjZLdjZpbjdFRWlHcU5zd2pPWEVmNDlzQ3IzeVdUVTRIRl9VT1E4Rmt5V3dkQjN4UEE1N0huMkItNjJvZTk3Qjd0bXVyM1JvYjlydFV5RzZMOXBMaFlIb0w1bFhzNlJZLW9MMjYwSEZlemlOWWhtN0JIMXY?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVYxQWVfODN2MnpxZDBTRE9wTDNIQ2dFQnk5UndtejV5Qnh0T2hCZUREZXdUd0RDR092ekVYTmJ4REZidG81UHgxaEc3NzBQOGV5WEpqY1k3YTFPN1V3SGRBNmdubnRtUzM3bGJPdzdXOWJaTzRhSjlBMmlTT1ZYZWFuNi0taU9HR2E3MUxnaU1HdG9uNUx6dUpwNkNkaXcyamZuVXlGSXk5UXNuQXZLaw?oc=5"
         }
       ]
     }

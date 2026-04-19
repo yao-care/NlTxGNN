@@ -73,7 +73,7 @@ def create_clinical_use_definition(
     raw_id = f"{drug_id.replace(':', '-')}-{disease_id.replace(':', '-')}"
     # Truncate if too long (macOS max filename is 255 chars)
     if len(raw_id) > 200:
-        hash_suffix = hashlib.md5(raw_id.encode()).hexdigest()[:12]
+        hash_suffix = hashlib.sha256(raw_id.encode()).hexdigest()[:12]
         resource_id = f"{drug_id.replace(':', '-')}-{hash_suffix}"
     else:
         resource_id = raw_id

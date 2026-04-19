@@ -6,7 +6,7 @@ You are a drug repurposing expert responsible for writing clear and understandab
 ## Input
 You will receive an Evidence Pack JSON containing:
 - `drug`: Basic drug information (inn, drugbank_id, original_moa)
-- `nl_regulatory`: CBG-MEB marketing authorization and market status in the Netherlands
+- `taiwan_regulatory`: CBG-MEB marketing authorization and market status in the Netherlands
 - `predicted_indications`: New indications predicted by TxGNN (including clinical trials and literature)
 - `safety`: Safety information (DDI, warnings, contraindications)
 
@@ -36,12 +36,12 @@ Example:
 
 | Item | Content |
 |------|------|
-| Original Indication | [Extract from nl_regulatory.licenses, use first non-empty approved_indication_text] |
+| Original Indication | [Extract from taiwan_regulatory.licenses, use first non-empty approved_indication_text] |
 | Predicted New Indication | [Extract from predicted_indications[0].disease_name] |
 | TxGNN Prediction Score | [Extract from predicted_indications[0].txgnn.score, convert to percentage] |
 | Evidence Level | [Determine L1-L5 based on number of clinical trials and literature] |
-| NL Market Status | [Extract from nl_regulatory.market_status] |
-| Number of Authorizations | [Extract from nl_regulatory.total_licenses] |
+| NL Market Status | [Extract from taiwan_regulatory.market_status] |
+| Number of Authorizations | [Extract from taiwan_regulatory.total_licenses] |
 | Recommended Decision | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@ Extract from `predicted_indications[0].evidence.literature` and create table:
 
 ### Netherlands Market Information
 
-Extract from `nl_regulatory.licenses` and create table:
+Extract from `taiwan_regulatory.licenses` and create table:
 
 | RVG Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

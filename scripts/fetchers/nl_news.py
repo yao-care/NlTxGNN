@@ -39,7 +39,7 @@ HEALTH_KEYWORDS = [
 def generate_id(title: str, link: str) -> str:
     """Generate news ID (hash based on title and link)"""
     content = f"{title}:{link}"
-    return hashlib.md5(content.encode()).hexdigest()[:12]
+    return hashlib.sha256(content.encode()).hexdigest()[:12]
 
 
 def parse_source(entry) -> dict:

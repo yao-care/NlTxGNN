@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-20T08:02:17.277290+00:00",
+  "fetched_at": "2026-04-20T13:23:51.888819+00:00",
   "count": 8,
   "news": [
     {
-      "id": "2b3113dabe12",
-      "title": "Desiree denkt aan stress, maar heeft hartfalen: 'Ademen werd steeds moeilijker' - Omroep West",
-      "published": "2026-04-20T05:31:32+00:00",
-      "summary": "Desiree denkt aan stress, maar heeft hartfalen: 'Ademen werd steeds moeilijker'&nbsp;&nbsp;Omroep West",
+      "id": "c2dc17f2820f",
+      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
+      "published": "2026-04-20T06:58:31+00:00",
+      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGdkQWhVek9ZbXRyeGN6dnN1R2x5MTNKZkZnZ25vM2p3R21fTVBnRmQzaUkxYWZYLXRMYU9YcUVNczBoWmMwd2lTMm11eEtDWVNkRzJPNFB5MVFxNVRqbE5yRHdQTkVfN3otOFg4RkU4bW42ZWRld0Fma1BTbTZ5VXFabXFCNTFVbGhrV3dUc0RhSTdSem5ESTRhVkVMVnFhdFhvQ0NSSFAxM3hDdzk5R2tWeXU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2de591ad1f04",
-      "title": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan' - EenVandaag",
-      "published": "2026-04-18T09:10:34+00:00",
-      "summary": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan'&nbsp;&nbsp;EenVandaagOpinie: Zet preventie centraal in de strijd tegen obesitas. Medicatie is niet de oplossing&nbsp;&nbsp;de VolkskrantObesitasexpert maakt balans op van afslankmedicatie: “Nog tijd nodig om zeker te zijn van langetermijnresultaten”&nbsp;&nbsp;NieuwsbladObesitas als stille pandemie&nbsp;&nbsp;Forbes Belgique",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ041Xy1aRVFyRWFuQnUwMHEwLUtyQXdxSU9JUjcyUkJnYjlXRDA5T2tadmctb2RaWnlIaHdGT1dXSi1QLU5LdlVUd18ySjAtcFFseWpsS2J3SmhOZk80QWlZNVRUWWxMb2pISWZIanZkOTF6NmJSaElFSktScnFYRXVGNGZBTHpHXy0tM0hrNTVjeWprRElFRmxRT2xiRnk4X2FhaXFtdDVfSmthV2Vic0g3eUhqaUN0OTJWQjg3SUdZNnhIUzdKeU9EcW9rcEJ0ajRfVmdNSERXYmJqZEVuN2tqMm1zYmNxeHVYZWR4X1J6d3BIYUo0YjRQbXVqbnVWc3c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
         }
       ]
     },
@@ -36,6 +24,18 @@
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2b0ZlSHVMZWQtYXdPM0tUd1BlTnZfU0lqaXVuXzFiUEpCU0VFakRMbGF0TnRITDVIRmx1c1VvdWxKUEcyRkVIMlRxdzAyeUlWVUhZZHFaSy02cWJ1QXNVUEp2dkl4czFpR203RTBMbnUwLW1lYkJNMXQ1MjN4QUdRUHBPcm5RRUU1T29FS2ItdGg5bV8xQXBNQzEzc2hRS015VGtWMW5PMnNLNXNTaGtseFdvb3Q2Tlh2MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60f900b98497",
+      "title": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’ - De Telegraaf",
+      "published": "2026-04-19T16:01:05+00:00",
+      "summary": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’&nbsp;&nbsp;De TelegraafProtestmars tegen apenproeven bij BPRC in Rijswijk&nbsp;&nbsp;rodi.nlBijna 1.000 apen in Rijswijk voor onderzoek: discussie blijft actueel&nbsp;&nbsp;Rijswijks Dagblad",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0pYVVpkQ2FycnhhSVFTMUExQVhRWWIwSTh4UmMzUkRUR280ZGFmbWQ4b1lzTmFmSVZ3YVlTUVJIMTRTQ25wbjJacE5zZHRyRkNLblB5NUZ0U2ZjY2JmUC1jQ1ZWQW9iQ0VjTVpVV3pmeVFoS0MweU85MUxWQnJHaWFrc3ZUVTI1OW92U0I3T3ZqN3pFRVFrQmowVGttQ0JibTdEbk9Lek9ubmNBQ0d5OEhvS3VUZEdBR1p4RGYyaVNvTjlUR3lOMQ?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "5278e0ee71ad",
       "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
       "published": "2026-04-19T12:20:54+00:00",
-      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTJef Rademakers is trots op ‘Oscar van de wetenschap’ voor zijn dochter: “Een sprookje om haar op de rode loper te zien”&nbsp;&nbsp;GVAAntwerpse onderzoekster Rosa Rademakers wint ‘Oscar van de wetenschap’ voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;De Standa",
+      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSAntwerpse onderzoekster Rosa Rademakers wint prestigieuze 'Oscar van de wetenschap' voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenJef Rademakers is trots op ‘Oscar van de wetenschap’ voor zijn dochter: “Een sprookje om haar op de rode loper te zien”&nbsp;&nbsp;G",
       "sources": [
         {
           "name": "NOS",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "78ceea158a9e",
-      "title": "Schaamte over je anus kan je doodvonnis zijn - Welingelichte Kringen",
-      "published": "2026-04-18T10:19:05+00:00",
-      "summary": "Schaamte over je anus kan je doodvonnis zijn&nbsp;&nbsp;Welingelichte KringenDarmdokter Magali Surmont: ‘Schaamte over je anus kan je doodvonnis betekenen’&nbsp;&nbsp;De Morgen“Als je kind net een ijsje at, wrijf je hun gezicht toch ook niet proper met droog papier?” Gastro-enteroloog beantwoordt vragen over je toiletbezoek&nbsp;&nbsp;GVAMoeilijke stoelgang? Darmdokter Magali Surmont: ‘Zet een voetenbankje naast je toilet en negeer je stoelgang nooit’&nbsp;&nbsp;KnackDarmdeskundige Magali Surmon",
+      "id": "86943ed7a8ed",
+      "title": "Mazelen maken wereldwijde comeback, onder andere in VS en Canada - bnr.nl",
+      "published": "2026-04-19T07:12:00+00:00",
+      "summary": "Mazelen maken wereldwijde comeback, onder andere in VS en Canada&nbsp;&nbsp;bnr.nlRecordaantal gevallen van mazelen en kinkhoest overschaduwt Europese vaccinatieweek&nbsp;&nbsp;VRTHoogste aantal ooit gemeten: recordaantal gevallen van mazelen en kinkhoest&nbsp;&nbsp;HLNMazelen maken wereldwijd comeback door dalende vaccinatie&nbsp;&nbsp;TPO.NL",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1dPMXRCQU5NQ3BkeTF0aTVTWHFTam9QVjFhMXFBM1luTGZaVklzX05zeWp3T0JjaFJ3Zm9femV3VUdjX1VEUXFMTkxjOWVpY1VYeWVMNGpiaVlzNDNSV2xTT2hSTU1qdmRPR25aUXM5XzlINWRkblJFNk9iNnUtQ1Z6WkpmM1RVdzNKbDVyNlJwUnVLQ1E?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDcta0JwTU9xUTR1d1pqNTBnZHpZV21BQzBKZWloMDUtblUtT091c3MtLTdMb3c2R1p4LV9HQWp6amZWRmxGMjBBV3dDVFM5LWpMUUNkRzAwTGhkb016NHMxdk0tYV9sbGVlSlppcDlnbFZRU0k4aVBSRHVYYjFVb2FianIza0hpRWRDdGp2NHAtX2VhMWxUNnhMbjlReGNkaFdzc0hiZmlrLVA3eW5JTkc1dw?oc=5"
         }
       ]
     },

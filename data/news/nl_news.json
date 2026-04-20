@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-20T13:23:51.888819+00:00",
-  "count": 8,
+  "fetched_at": "2026-04-20T19:01:12.949162+00:00",
+  "count": 7,
   "news": [
     {
       "id": "c2dc17f2820f",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "60f900b98497",
-      "title": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’ - De Telegraaf",
-      "published": "2026-04-19T16:01:05+00:00",
-      "summary": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’&nbsp;&nbsp;De TelegraafProtestmars tegen apenproeven bij BPRC in Rijswijk&nbsp;&nbsp;rodi.nlBijna 1.000 apen in Rijswijk voor onderzoek: discussie blijft actueel&nbsp;&nbsp;Rijswijks Dagblad",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0pYVVpkQ2FycnhhSVFTMUExQVhRWWIwSTh4UmMzUkRUR280ZGFmbWQ4b1lzTmFmSVZ3YVlTUVJIMTRTQ25wbjJacE5zZHRyRkNLblB5NUZ0U2ZjY2JmUC1jQ1ZWQW9iQ0VjTVpVV3pmeVFoS0MweU85MUxWQnJHaWFrc3ZUVTI1OW92U0I3T3ZqN3pFRVFrQmowVGttQ0JibTdEbk9Lek9ubmNBQ0d5OEhvS3VUZEdBR1p4RGYyaVNvTjlUR3lOMQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9727bad13f21",
       "title": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’ - De Telegraaf",
       "published": "2026-04-19T20:30:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60f900b98497",
+      "title": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’ - De Telegraaf",
+      "published": "2026-04-19T16:01:05+00:00",
+      "summary": "Bijna duizend apen opgesloten in Rijswijk: ’Voorlopig zijn dierproeven nog nodig’&nbsp;&nbsp;De TelegraafProtestmars tegen apenproeven bij BPRC in Rijswijk&nbsp;&nbsp;rodi.nlBijna 1.000 apen in Rijswijk voor onderzoek: discussie blijft actueel&nbsp;&nbsp;Rijswijks Dagblad",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0pYVVpkQ2FycnhhSVFTMUExQVhRWWIwSTh4UmMzUkRUR280ZGFmbWQ4b1lzTmFmSVZ3YVlTUVJIMTRTQ25wbjJacE5zZHRyRkNLblB5NUZ0U2ZjY2JmUC1jQ1ZWQW9iQ0VjTVpVV3pmeVFoS0MweU85MUxWQnJHaWFrc3ZUVTI1OW92U0I3T3ZqN3pFRVFrQmowVGttQ0JibTdEbk9Lek9ubmNBQ0d5OEhvS3VUZEdBR1p4RGYyaVNvTjlUR3lOMQ?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "5278e0ee71ad",
       "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
       "published": "2026-04-19T12:20:54+00:00",
-      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSAntwerpse onderzoekster Rosa Rademakers wint prestigieuze 'Oscar van de wetenschap' voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenJef Rademakers is trots op ‘Oscar van de wetenschap’ voor zijn dochter: “Een sprookje om haar op de rode loper te zien”&nbsp;&nbsp;G",
+      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSAntwerpse onderzoekster Rosa Rademakers wint ‘Oscar van de wetenschap’ voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;De StandaardDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenJ",
       "sources": [
         {
           "name": "NOS",
@@ -79,23 +79,11 @@
       "id": "86943ed7a8ed",
       "title": "Mazelen maken wereldwijde comeback, onder andere in VS en Canada - bnr.nl",
       "published": "2026-04-19T07:12:00+00:00",
-      "summary": "Mazelen maken wereldwijde comeback, onder andere in VS en Canada&nbsp;&nbsp;bnr.nlRecordaantal gevallen van mazelen en kinkhoest overschaduwt Europese vaccinatieweek&nbsp;&nbsp;VRTHoogste aantal ooit gemeten: recordaantal gevallen van mazelen en kinkhoest&nbsp;&nbsp;HLNMazelen maken wereldwijd comeback door dalende vaccinatie&nbsp;&nbsp;TPO.NL",
+      "summary": "Mazelen maken wereldwijde comeback, onder andere in VS en Canada&nbsp;&nbsp;bnr.nlRecordaantal gevallen van mazelen en kinkhoest overschaduwt Europese vaccinatieweek&nbsp;&nbsp;VRTHoogste aantal ooit gemeten: recordaantal gevallen van mazelen en kinkhoest&nbsp;&nbsp;HLNVaccins hebben in voorbije vijftig jaar 154 miljoen mensen gered&nbsp;&nbsp;MO* MagazineMazelen maken wereldwijd comeback door dalende vaccinatie&nbsp;&nbsp;TPO.NL",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDcta0JwTU9xUTR1d1pqNTBnZHpZV21BQzBKZWloMDUtblUtT091c3MtLTdMb3c2R1p4LV9HQWp6amZWRmxGMjBBV3dDVFM5LWpMUUNkRzAwTGhkb016NHMxdk0tYV9sbGVlSlppcDlnbFZRU0k4aVBSRHVYYjFVb2FianIza0hpRWRDdGp2NHAtX2VhMWxUNnhMbjlReGNkaFdzc0hiZmlrLVA3eW5JTkc1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08a3da508717",
-      "title": "Onderzoekers achter grote studie naar vroegtijdig overlijden: Op deze leeftijd moet je extra op je gewicht letten - wibnet.nl",
-      "published": "2026-04-18T20:00:56+00:00",
-      "summary": "Onderzoekers achter grote studie naar vroegtijdig overlijden: Op deze leeftijd moet je extra op je gewicht letten&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGplQnRjRWVaVkYtY0pWYy1lN0lrbGhxNDNZcVFSUzlLdUJ5dlFham9JLWQ1S2pnc3RySWpOMUowZ2RkNklPeWRqZDU4SWJCMEVKSWV4UDRrWFlvc1RUUUhjbkdHTk1aYzVaMU1jN3Jqb1ctQXFYaXAzZC1XUk44cjhHNlNwYkR0ajhvRVFpNEVKUV9CRHNDUnNfNXBNMmhUUklVRTVOemlKaGZQTlVFeF9rdk03TjUtbXZxcUJwZnJiakg1QlJfQnZvVF9Hd1lvdktnVWZ0dEFQaDVNVVFCOFRnWTNlUQ?oc=5"
         }
       ]
     }

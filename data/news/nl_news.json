@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-20T02:27:11.650124+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-20T08:02:17.277290+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "2b3113dabe12",
+      "title": "Desiree denkt aan stress, maar heeft hartfalen: 'Ademen werd steeds moeilijker' - Omroep West",
+      "published": "2026-04-20T05:31:32+00:00",
+      "summary": "Desiree denkt aan stress, maar heeft hartfalen: 'Ademen werd steeds moeilijker'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGdkQWhVek9ZbXRyeGN6dnN1R2x5MTNKZkZnZ25vM2p3R21fTVBnRmQzaUkxYWZYLXRMYU9YcUVNczBoWmMwd2lTMm11eEtDWVNkRzJPNFB5MVFxNVRqbE5yRHdQTkVfN3otOFg4RkU4bW42ZWRld0Fma1BTbTZ5VXFabXFCNTFVbGhrV3dUc0RhSTdSem5ESTRhVkVMVnFhdFhvQ0NSSFAxM3hDdzk5R2tWeXU?oc=5"
+        }
+      ]
+    },
     {
       "id": "2de591ad1f04",
       "title": "Zorgverzekeraar wil afslankmedicijnen voor grotere groep vergoeden, maar huisartsen zijn terughoudend: 'Dat kunnen wij niet aan' - EenVandaag",
@@ -12,6 +24,18 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ041Xy1aRVFyRWFuQnUwMHEwLUtyQXdxSU9JUjcyUkJnYjlXRDA5T2tadmctb2RaWnlIaHdGT1dXSi1QLU5LdlVUd18ySjAtcFFseWpsS2J3SmhOZk80QWlZNVRUWWxMb2pISWZIanZkOTF6NmJSaElFSktScnFYRXVGNGZBTHpHXy0tM0hrNTVjeWprRElFRmxRT2xiRnk4X2FhaXFtdDVfSmthV2Vic0g3eUhqaUN0OTJWQjg3SUdZNnhIUzdKeU9EcW9rcEJ0ajRfVmdNSERXYmJqZEVuN2tqMm1zYmNxeHVYZWR4X1J6d3BIYUo0YjRQbXVqbnVWc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9a2bbc78c0d",
+      "title": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen - Het Parool",
+      "published": "2026-04-19T18:01:01+00:00",
+      "summary": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen&nbsp;&nbsp;Het Parool‘Deze nieuwe techniek doodt kankercellen van binnenuit’&nbsp;&nbsp;NEMO KennislinkTumor-DNA selectief geknipt door Wageningse CRISPR-variant&nbsp;&nbsp;ZorgKrant.nlNature-publicatie over kapot knippen kankercellen&nbsp;&nbsp;Resource online",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2b0ZlSHVMZWQtYXdPM0tUd1BlTnZfU0lqaXVuXzFiUEpCU0VFakRMbGF0TnRITDVIRmx1c1VvdWxKUEcyRkVIMlRxdzAyeUlWVUhZZHFaSy02cWJ1QXNVUEp2dkl4czFpR203RTBMbnUwLW1lYkJNMXQ1MjN4QUdRUHBPcm5RRUU1T29FS2ItdGg5bV8xQXBNQzEzc2hRS015VGtWMW5PMnNLNXNTaGtseFdvb3Q2Tlh2MA?oc=5"
         }
       ]
     },
@@ -40,22 +64,10 @@
       ]
     },
     {
-      "id": "b9a2bbc78c0d",
-      "title": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen - Het Parool",
-      "published": "2026-04-19T18:01:01+00:00",
-      "summary": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen&nbsp;&nbsp;Het ParoolTumor-DNA selectief geknipt door Wageningse CRISPR-variant&nbsp;&nbsp;ZorgKrant.nl‘Deze nieuwe techniek doodt kankercellen van binnenuit’&nbsp;&nbsp;NEMO KennislinkNature-publicatie over kapot knippen kankercellen&nbsp;&nbsp;Resource online",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2b0ZlSHVMZWQtYXdPM0tUd1BlTnZfU0lqaXVuXzFiUEpCU0VFakRMbGF0TnRITDVIRmx1c1VvdWxKUEcyRkVIMlRxdzAyeUlWVUhZZHFaSy02cWJ1QXNVUEp2dkl4czFpR203RTBMbnUwLW1lYkJNMXQ1MjN4QUdRUHBPcm5RRUU1T29FS2ItdGg5bV8xQXBNQzEzc2hRS015VGtWMW5PMnNLNXNTaGtseFdvb3Q2Tlh2MA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5278e0ee71ad",
       "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
       "published": "2026-04-19T12:20:54+00:00",
-      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSAntwerpse onderzoekster Rosa Rademakers wint prestigieuze 'Oscar van de wetenschap' voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenZe hield het zelfs voor haar dochters geheim: Rosa Rademakers (47) wint ‘Oscar van de wetenschap’ tussen Hollywoodsterren&nbsp;&nbsp",
+      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTJef Rademakers is trots op ‘Oscar van de wetenschap’ voor zijn dochter: “Een sprookje om haar op de rode loper te zien”&nbsp;&nbsp;GVAAntwerpse onderzoekster Rosa Rademakers wint ‘Oscar van de wetenschap’ voor baanbrekende ontdekking over dementie en ALS&nbsp;&nbsp;De Standa",
       "sources": [
         {
           "name": "NOS",

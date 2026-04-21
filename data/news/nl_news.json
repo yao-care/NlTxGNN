@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-21T07:45:14.782052+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-21T13:19:46.197237+00:00",
+  "count": 4,
   "news": [
     {
       "id": "d0b6c56dd3ec",
@@ -18,7 +18,7 @@
     {
       "id": "aad81d224427",
       "title": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’ - De Telegraaf",
-      "published": "2026-04-21T07:25:51+00:00",
+      "published": "2026-04-21T13:03:23+00:00",
       "summary": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -30,24 +30,12 @@
     {
       "id": "c2dc17f2820f",
       "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
-      "published": "2026-04-20T06:58:31+00:00",
+      "published": "2026-04-20T17:21:00+00:00",
       "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "Omroep West",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9a2bbc78c0d",
-      "title": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen - Het Parool",
-      "published": "2026-04-19T18:01:01+00:00",
-      "summary": "Zoektocht in composthoop leidt tot vondst die mogelijk leverkanker kan genezen&nbsp;&nbsp;Het Parool‘Deze nieuwe techniek doodt kankercellen van binnenuit’&nbsp;&nbsp;NEMO KennislinkTumor-DNA selectief geknipt door Wageningse CRISPR-variant&nbsp;&nbsp;ZorgKrant.nlNature-publicatie over kapot knippen kankercellen&nbsp;&nbsp;Resource online",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2b0ZlSHVMZWQtYXdPM0tUd1BlTnZfU0lqaXVuXzFiUEpCU0VFakRMbGF0TnRITDVIRmx1c1VvdWxKUEcyRkVIMlRxdzAyeUlWVUhZZHFaSy02cWJ1QXNVUEp2dkl4czFpR203RTBMbnUwLW1lYkJNMXQ1MjN4QUdRUHBPcm5RRUU1T29FS2ItdGg5bV8xQXBNQzEzc2hRS015VGtWMW5PMnNLNXNTaGtseFdvb3Q2Tlh2MA?oc=5"
         }
       ]
     },
@@ -60,18 +48,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5278e0ee71ad",
-      "title": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper - NOS",
-      "published": "2026-04-19T12:20:54+00:00",
-      "summary": "'Oscars van de wetenschap' uitgereikt, ook prijs voor Vlaamse wetenschapper&nbsp;&nbsp;NOSZe hield het zelfs voor haar dochters geheim: Rosa Rademakers (47) wint ‘Oscar van de wetenschap’ tussen Hollywoodsterren&nbsp;&nbsp;HLNDe Breakthrough Prize of wetenschap op de rode loper: hoe is dat gearrangeerde huwelijk met Hollywood tot stand gekomen?&nbsp;&nbsp;VRTVlaamse onderzoeker Rosa Rademakers wint prestigieuze Breakthrough Prize voor ontdekking over dementie en ALS&nbsp;&nbsp;De MorgenJef Radem",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkhoUVlqODhiTmhBaDdaTzZsNDhyNVdUWGp0akFSTHQ4SEhIeHlzbkY4MUt3NzRyNWZCTGJsMi1LOERPX0VKUGtkN2k1UFFmYlF6Z05GNHJYeUNuV0Q1aFlGVldoMkdyUDlkMWRkUzl1MHM3X0I1VG43RWNBNXhwZktiaHAzWjVvNW8wMjhVeUJLcUlldUpLUUd1cTBJUmRfOUdVOC13?oc=5"
         }
       ]
     }

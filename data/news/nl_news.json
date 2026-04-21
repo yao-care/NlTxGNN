@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-21T02:23:17.485650+00:00",
-  "count": 5,
+  "fetched_at": "2026-04-21T07:45:14.782052+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "d0b6c56dd3ec",
+      "title": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’ - NRC",
+      "published": "2026-04-19T13:00:00+00:00",
+      "summary": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’&nbsp;&nbsp;NRCKan stress het risico op kanker verhogen?&nbsp;&nbsp;KIJK Magazine",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXFzblJVeU9GNFFOMFpiVXVwd3k1My1Ncjc0QUtVVnhveTN4UlotZjlHTWpnMXdVRS1IWEdmM2d0UXRTd2x5cDQ0NHlmYnYtTmllWFpneTRFekV0ZVNLLV9aU0FDZ002MGRleXFLQ1pWT3REdjF2VGdXY2VxZjJVYWIyZ2YzZHVDNmo1RGFTX0l5UW9xcDRIOTlkOFJUQTZYVFptY240NkxDcG5ycjNQTVVtWDZhblZqRnZiWXpGaUhxMmFNaXh0N04wbEQtMWlXZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aad81d224427",
+      "title": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’ - De Telegraaf",
+      "published": "2026-04-21T07:25:51+00:00",
+      "summary": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEZXcHdhUW5Pb2Exd1JKdVFNTVNkTU9ZVUw5M2J2VXF3dmpfSzhWSE9QVElpVnhfRFUtc0M3ZmJVRzVva1MwZEdLeENrSElCcjVnclZ5NzlhbjNaRG5YSHpmQXpkV1lJaVZsOThGdTYtYXBSOFdGWHh0dDE0QkY2SFluRG0tTGR0S0g0THlIVmdWYmtZYzVSaGtfZ3hXcFJSdjhFSy1ZSzE5dmdJSGhOZ080Q0NSR2tEb1JtMkY4M055YzFLS2F4N2N3?oc=5"
+        }
+      ]
+    },
     {
       "id": "c2dc17f2820f",
       "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
@@ -36,18 +60,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0b6c56dd3ec",
-      "title": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’ - NRC",
-      "published": "2026-04-19T13:00:00+00:00",
-      "summary": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’&nbsp;&nbsp;NRC",
-      "sources": [
-        {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXFzblJVeU9GNFFOMFpiVXVwd3k1My1Ncjc0QUtVVnhveTN4UlotZjlHTWpnMXdVRS1IWEdmM2d0UXRTd2x5cDQ0NHlmYnYtTmllWFpneTRFekV0ZVNLLV9aU0FDZ002MGRleXFLQ1pWT3REdjF2VGdXY2VxZjJVYWIyZ2YzZHVDNmo1RGFTX0l5UW9xcDRIOTlkOFJUQTZYVFptY240NkxDcG5ycjNQTVVtWDZhblZqRnZiWXpGaUhxMmFNaXh0N04wbEQtMWlXZlE?oc=5"
         }
       ]
     },

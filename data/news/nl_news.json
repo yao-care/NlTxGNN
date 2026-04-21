@@ -1,24 +1,48 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-21T13:19:46.197237+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-21T19:07:34.821606+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "d0b6c56dd3ec",
-      "title": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’ - NRC",
-      "published": "2026-04-19T13:00:00+00:00",
-      "summary": "‘Stress veroorzaakt géén kanker, dus daar hoeven patiënten zich niet schuldig over te voelen’&nbsp;&nbsp;NRCKan stress het risico op kanker verhogen?&nbsp;&nbsp;KIJK Magazine",
+      "id": "51f620d8e6d8",
+      "title": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker' - NOS",
+      "published": "2026-04-21T14:48:15+00:00",
+      "summary": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker'&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZLSFlZSXFFaUtFSDVoRjB3X0RvYlFYSmwwT2xRNGFibVFHQWVhWmJOa2VoX09fdEtqN01KMUFrLXVOb3JrVDJubnFZNkhzemhYMUFWcVFUZmhaaVJ0dTEyWTdfVXdxWHAyX2FMTVRDMkZ4bnhCemxlVnBrNk81bTFESklreHVad25QLWhQMVU1bDcwRVFSRVFtWEgyNWZvVnNYa3pvYWJPczdi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b4aaff701a4",
+      "title": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’ - De Telegraaf",
+      "published": "2026-04-21T18:20:27+00:00",
+      "summary": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObnRkZnVVVlBxMUpiM2cyQy1lN3RRb1NXaWg0VnYyZUFoeFc2NnBOVEE5U3ZMVWhoVmplcXNWSHVqOXh5SFBKUTZiMUR3cDVaZFh5eDhFWWgyQ0p3Skl3Snh5U3RnNDJIbDZNNUZiRDZ3WVB3OWdBUDRXaU1XejJiOUFwSUZKOTNjWWxmWTVOTGRBVXVKTkpuc0RVM2ptRWhOdV93eDdPRFhHY21NWnZ2Z1NFWVI1RmZKbjBmZFdMOHVHUGdnT0JieURtbUdEWG5TNV8zZnlOSmV2S2pBRGcxYi1ZOTNSWUJOdDhrSFhYblpTdkhyMm9aS0lqdEY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86ab142a9f19",
+      "title": "Afrikaanse landen betalen hoge prijs voor Amerikaanse zorg. ‘Ze geven op deze manier in feite hun nationale bezit weg’ - NRC",
+      "published": "2026-04-20T13:53:22+00:00",
+      "summary": "Afrikaanse landen betalen hoge prijs voor Amerikaanse zorg. ‘Ze geven op deze manier in feite hun nationale bezit weg’&nbsp;&nbsp;NRCNu Trump de geldkraan voor aidsbestrijding dichtdraait dreigt Zuid-Afrika ‘twintig jaar terug te gaan in de tijd’&nbsp;&nbsp;TrouwVS keren terug in Afrikaanse aidsbestrijding, in ruil voor mineralen en data&nbsp;&nbsp;Het Financieele DagbladAmerikaanse bezuinigingen ondermijnen hiv-preventie in Zuid-Afrika, aldus rapport&nbsp;&nbsp;MarketScreener Nederland",
       "sources": [
         {
           "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXFzblJVeU9GNFFOMFpiVXVwd3k1My1Ncjc0QUtVVnhveTN4UlotZjlHTWpnMXdVRS1IWEdmM2d0UXRTd2x5cDQ0NHlmYnYtTmllWFpneTRFekV0ZVNLLV9aU0FDZ002MGRleXFLQ1pWT3REdjF2VGdXY2VxZjJVYWIyZ2YzZHVDNmo1RGFTX0l5UW9xcDRIOTlkOFJUQTZYVFptY240NkxDcG5ycjNQTVVtWDZhblZqRnZiWXpGaUhxMmFNaXh0N04wbEQtMWlXZlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUUtfRHVnUlo0SUpYc2pfTUNlZ2I2ZVNvLV9IVTZ6S29CQ3AxNWNzc3ptS1FRMEw0WGdaMnliU29EYkM3el9EUWt5c3BMRm4xQno4MzcxQ1B2YjdzTzNFaVh3SGhVSXNTLUNMLTBnVnNoU0JPSndlYmhTTGpuYW5yRmR4amZqOXdqLTBUMjFqdDBpV3FXeHZjNnBPaTBCQzlNM2VEaS16RVZFTFpta1Vhem1XMkU5QVJlZVJpQTdPNklrTWhyM3owYTZoRVN6RVZBRWx4VG5IZFA1VFpKVFJvc1ZHdjJTWUVwcW9QLTVR?oc=5"
         }
       ]
     },
     {
       "id": "aad81d224427",
       "title": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’ - De Telegraaf",
-      "published": "2026-04-21T13:03:23+00:00",
+      "published": "2026-04-21T16:15:00+00:00",
       "summary": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -48,6 +72,18 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49264fbbd532",
+      "title": "Harvard-onderzoekers: Roodharigen hebben een speciale eigenschap die hun een evolutionair voordeel heeft gegeven - wibnet.nl",
+      "published": "2026-04-20T12:55:46+00:00",
+      "summary": "Harvard-onderzoekers: Roodharigen hebben een speciale eigenschap die hun een evolutionair voordeel heeft gegeven&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzhkcUc5OUpOZlpOZGJ5QUNXcFY4UnBrWG1qbzFfYWlQN1IyVGNoalBuQ1diWWdXQ0dVcjlwRloxRUdpNDNXQjhNM3pfSHRud0VLYld6dk5WUmt5V2htTjVxTFlBSXVpZ0JTTkluMnNtRm1lSDJEMF9JajFrbGF1WFh6Q0VIeXNPNnZiN2U5U0t2Y0VsNzZ4NlVSeFZCcEhrNWRGSGZKSjktTEVhS0s1Q1ptbGd1WXlPbmR4TGtYZmxlLWU4RGtJOFl2ZENSLVE?oc=5"
         }
       ]
     }

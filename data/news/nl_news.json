@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-22T07:28:39.377701+00:00",
-  "count": 6,
+  "fetched_at": "2026-04-22T13:20:53.590388+00:00",
+  "count": 4,
   "news": [
     {
       "id": "6cf823493021",
       "title": "Hartfalen treft half miljoen Nederlanders, maar velen weten het niet: ’herkennen van deze atypische signalen redt levens’ - De Telegraaf",
-      "published": "2026-04-22T06:51:26+00:00",
+      "published": "2026-04-22T12:30:00+00:00",
       "summary": "Hartfalen treft half miljoen Nederlanders, maar velen weten het niet: ’herkennen van deze atypische signalen redt levens’&nbsp;&nbsp;De TelegraafHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX1I2TVZWYS1JX0N3QnRTWWM4X0tKc2V3Qm0tZVRPM2R2VTdXaEhFdG16eFBuS1pROWJlX1RmNUVyWXpOaXlMVld6OUZwSzE1NW9lRm9BdVRJR2xCXzNQUWs0SGplZGNBeHpMRjJ3RlZhTnVFMXJmUjlmb3NLcGYzNzFyYXlTdkpLcU9fTklGN2Y1SXNIYjFvQmlNZVV6ZVlSMVJIRUdVemwzbDZ4bXhfLXNVaVlmOGRsZlVZeFFvT05GT0JZVTNFdGV4MUFocGxPNm9takVfbGppMWh4M3dXcmc4US0tbGpWMFFMaTNvTmVfemxjczRhSmRoY0RVWHBaRHdpa0FzTmhoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51f620d8e6d8",
-      "title": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker' - NOS",
-      "published": "2026-04-21T14:48:15+00:00",
-      "summary": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker'&nbsp;&nbsp;NOSGeen verhoogde kans op auto-immuun- of reumatische ziekten bij siliconen implantaten na borstkanker&nbsp;&nbsp;Antoni van Leeuwenhoek | AVL",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZLSFlZSXFFaUtFSDVoRjB3X0RvYlFYSmwwT2xRNGFibVFHQWVhWmJOa2VoX09fdEtqN01KMUFrLXVOb3JrVDJubnFZNkhzemhYMUFWcVFUZmhaaVJ0dTEyWTdfVXdxWHAyX2FMTVRDMkZ4bnhCemxlVnBrNk81bTFESklreHVad25QLWhQMVU1bDcwRVFSRVFtWEgyNWZvVnNYa3pvYWJPczdi?oc=5"
         }
       ]
     },
@@ -40,26 +28,14 @@
       ]
     },
     {
-      "id": "8b4aaff701a4",
-      "title": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’ - De Telegraaf",
-      "published": "2026-04-21T22:48:00+00:00",
-      "summary": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De Telegraaf",
+      "id": "51f620d8e6d8",
+      "title": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker' - NOS",
+      "published": "2026-04-21T14:48:15+00:00",
+      "summary": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker'&nbsp;&nbsp;NOSGeen verhoogde kans op auto-immuun- of reumatische ziekten bij siliconen implantaten na borstkanker&nbsp;&nbsp;Antoni van Leeuwenhoek | AVL",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObnRkZnVVVlBxMUpiM2cyQy1lN3RRb1NXaWg0VnYyZUFoeFc2NnBOVEE5U3ZMVWhoVmplcXNWSHVqOXh5SFBKUTZiMUR3cDVaZFh5eDhFWWgyQ0p3Skl3Snh5U3RnNDJIbDZNNUZiRDZ3WVB3OWdBUDRXaU1XejJiOUFwSUZKOTNjWWxmWTVOTGRBVXVKTkpuc0RVM2ptRWhOdV93eDdPRFhHY21NWnZ2Z1NFWVI1RmZKbjBmZFdMOHVHUGdnT0JieURtbUdEWG5TNV8zZnlOSmV2S2pBRGcxYi1ZOTNSWUJOdDhrSFhYblpTdkhyMm9aS0lqdEY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2dc17f2820f",
-      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
-      "published": "2026-04-21T21:23:00+00:00",
-      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZLSFlZSXFFaUtFSDVoRjB3X0RvYlFYSmwwT2xRNGFibVFHQWVhWmJOa2VoX09fdEtqN01KMUFrLXVOb3JrVDJubnFZNkhzemhYMUFWcVFUZmhaaVJ0dTEyWTdfVXdxWHAyX2FMTVRDMkZ4bnhCemxlVnBrNk81bTFESklreHVad25QLWhQMVU1bDcwRVFSRVFtWEgyNWZvVnNYa3pvYWJPczdi?oc=5"
         }
       ]
     },

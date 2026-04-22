@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-22T13:20:53.590388+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-22T19:09:32.759385+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "6cf823493021",
-      "title": "Hartfalen treft half miljoen Nederlanders, maar velen weten het niet: ’herkennen van deze atypische signalen redt levens’ - De Telegraaf",
-      "published": "2026-04-22T12:30:00+00:00",
-      "summary": "Hartfalen treft half miljoen Nederlanders, maar velen weten het niet: ’herkennen van deze atypische signalen redt levens’&nbsp;&nbsp;De TelegraafHele verhaal bekijken via Google Nieuws",
+      "id": "480402e431de",
+      "title": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is - RTL.nl",
+      "published": "2026-04-22T13:35:38+00:00",
+      "summary": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is&nbsp;&nbsp;RTL.nlNiet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De TelegraafNationaal Herseninstituut komt met gouden tip om af te vallen: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;Welingelichte KringenZonder avondsnack kilo's kwijt&nbsp;&nbsp;Dagblad070",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX1I2TVZWYS1JX0N3QnRTWWM4X0tKc2V3Qm0tZVRPM2R2VTdXaEhFdG16eFBuS1pROWJlX1RmNUVyWXpOaXlMVld6OUZwSzE1NW9lRm9BdVRJR2xCXzNQUWs0SGplZGNBeHpMRjJ3RlZhTnVFMXJmUjlmb3NLcGYzNzFyYXlTdkpLcU9fTklGN2Y1SXNIYjFvQmlNZVV6ZVlSMVJIRUdVemwzbDZ4bXhfLXNVaVlmOGRsZlVZeFFvT05GT0JZVTNFdGV4MUFocGxPNm9takVfbGppMWh4M3dXcmc4US0tbGpWMFFMaTNvTmVfemxjczRhSmRoY0RVWHBaRHdpa0FzTmhoQQ?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTJVOGg5OHpCVWRDNm5oanpCLWV1bzJEaWV4aHdYSEZUZ3hTcTVkd2NPNHlaN01ueWdfRFV3SDE1NEJ0THRlNjNSSFZ1eUtiVmZRRlZmcWVoUE13VHFWVlhuMXp3UkJ3TkhwVTVTTGMwakdhTnlYQlRwX1RyQ2dqQl95dWYyZ3pHZURFQW1oUkJRVWdWanc?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "044d0a25bd06",
       "title": "Koffie bevat een geheime superkracht voor je darmen én je humeur - Scientias.nl",
       "published": "2026-04-21T17:00:37+00:00",
-      "summary": "Koffie bevat een geheime superkracht voor je darmen én je humeur&nbsp;&nbsp;Scientias.nlKoffie beïnvloedt je darmen én je stemming, blijkt uit nieuw onderzoek&nbsp;&nbsp;Laboratorium.nlHoeveel kopjes koffie per dag geeft het meeste voldoening?&nbsp;&nbsp;Vietnam.vnAltijd al willen weten: dit doet koffie écht voor je mentale gezondheid&nbsp;&nbsp;flair.nl",
+      "summary": "Koffie bevat een geheime superkracht voor je darmen én je humeur&nbsp;&nbsp;Scientias.nlDit is de ideale hoeveelheid koffie voor een beter humeur&nbsp;&nbsp;GezondnuKoffie beïnvloedt je darmen én je stemming, blijkt uit nieuw onderzoek&nbsp;&nbsp;Laboratorium.nlHoeveel kopjes koffie per dag geeft het meeste voldoening?&nbsp;&nbsp;Vietnam.vnAltijd al willen weten: dit doet koffie écht voor je mentale gezondheid&nbsp;&nbsp;flair.nl",
       "sources": [
         {
           "name": "Scientias.nl",
@@ -36,18 +36,6 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZLSFlZSXFFaUtFSDVoRjB3X0RvYlFYSmwwT2xRNGFibVFHQWVhWmJOa2VoX09fdEtqN01KMUFrLXVOb3JrVDJubnFZNkhzemhYMUFWcVFUZmhaaVJ0dTEyWTdfVXdxWHAyX2FMTVRDMkZ4bnhCemxlVnBrNk81bTFESklreHVad25QLWhQMVU1bDcwRVFSRVFtWEgyNWZvVnNYa3pvYWJPczdi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aad81d224427",
-      "title": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’ - De Telegraaf",
-      "published": "2026-04-21T16:15:00+00:00",
-      "summary": "Revolutionaire therapie gaf René (57) zijn leven terug: ’Van kinds af aan trilde ik’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEZXcHdhUW5Pb2Exd1JKdVFNTVNkTU9ZVUw5M2J2VXF3dmpfSzhWSE9QVElpVnhfRFUtc0M3ZmJVRzVva1MwZEdLeENrSElCcjVnclZ5NzlhbjNaRG5YSHpmQXpkV1lJaVZsOThGdTYtYXBSOFdGWHh0dDE0QkY2SFluRG0tTGR0S0g0THlIVmdWYmtZYzVSaGtfZ3hXcFJSdjhFSy1ZSzE5dmdJSGhOZ080Q0NSR2tEb1JtMkY4M055YzFLS2F4N2N3?oc=5"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-21T19:07:34.821606+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-22T02:12:58.291508+00:00",
+  "count": 6,
   "news": [
     {
       "id": "51f620d8e6d8",
@@ -18,7 +18,7 @@
     {
       "id": "8b4aaff701a4",
       "title": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’ - De Telegraaf",
-      "published": "2026-04-21T18:20:27+00:00",
+      "published": "2026-04-21T22:48:00+00:00",
       "summary": "Niet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -28,14 +28,38 @@
       ]
     },
     {
+      "id": "044d0a25bd06",
+      "title": "Koffie bevat een geheime superkracht voor je darmen én je humeur - Scientias.nl",
+      "published": "2026-04-21T17:00:37+00:00",
+      "summary": "Koffie bevat een geheime superkracht voor je darmen én je humeur&nbsp;&nbsp;Scientias.nlKoffie beïnvloedt je darmen én je stemming, blijkt uit nieuw onderzoek&nbsp;&nbsp;Laboratorium.nlHoeveel kopjes koffie per dag geeft het meeste voldoening?&nbsp;&nbsp;Vietnam.vnAltijd al willen weten: dit doet koffie écht voor je mentale gezondheid&nbsp;&nbsp;flair.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUdaSDdJR0FPU3NPQnlYaXdNaXh4VnJNeEVHQV9LSmp6UVNTem84dUNRUTFPWENGV0dDQXZCWkZETTh1elFXcHV5WVFFeHI0eHRpZ2pEckRNd2thdGh4S3JzMWJfSHQyRWdPYWFKa3VDWXo3YzZpcG1qek5JN0ljX0tjM1hNYWhVWi15ckt4aw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "86ab142a9f19",
       "title": "Afrikaanse landen betalen hoge prijs voor Amerikaanse zorg. ‘Ze geven op deze manier in feite hun nationale bezit weg’ - NRC",
       "published": "2026-04-20T13:53:22+00:00",
-      "summary": "Afrikaanse landen betalen hoge prijs voor Amerikaanse zorg. ‘Ze geven op deze manier in feite hun nationale bezit weg’&nbsp;&nbsp;NRCNu Trump de geldkraan voor aidsbestrijding dichtdraait dreigt Zuid-Afrika ‘twintig jaar terug te gaan in de tijd’&nbsp;&nbsp;TrouwVS keren terug in Afrikaanse aidsbestrijding, in ruil voor mineralen en data&nbsp;&nbsp;Het Financieele DagbladAmerikaanse bezuinigingen ondermijnen hiv-preventie in Zuid-Afrika, aldus rapport&nbsp;&nbsp;MarketScreener Nederland",
+      "summary": "Afrikaanse landen betalen hoge prijs voor Amerikaanse zorg. ‘Ze geven op deze manier in feite hun nationale bezit weg’&nbsp;&nbsp;NRCNu Trump de geldkraan voor aidsbestrijding dichtdraait dreigt Zuid-Afrika ‘twintig jaar terug te gaan in de tijd’&nbsp;&nbsp;TrouwVS keren terug in Afrikaanse aidsbestrijding, in ruil voor mineralen en data&nbsp;&nbsp;Het Financieele DagbladWetenschappelijk topadviseur VS stapt op uit HIV-programma en hekelt Trumps mondiale gezondheidsbeleid&nbsp;&nbsp;MarketScreen",
       "sources": [
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUUtfRHVnUlo0SUpYc2pfTUNlZ2I2ZVNvLV9IVTZ6S29CQ3AxNWNzc3ptS1FRMEw0WGdaMnliU29EYkM3el9EUWt5c3BMRm4xQno4MzcxQ1B2YjdzTzNFaVh3SGhVSXNTLUNMLTBnVnNoU0JPSndlYmhTTGpuYW5yRmR4amZqOXdqLTBUMjFqdDBpV3FXeHZjNnBPaTBCQzlNM2VEaS16RVZFTFpta1Vhem1XMkU5QVJlZVJpQTdPNklrTWhyM3owYTZoRVN6RVZBRWx4VG5IZFA1VFpKVFJvc1ZHdjJTWUVwcW9QLTVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2dc17f2820f",
+      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
+      "published": "2026-04-20T05:30:00+00:00",
+      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
         }
       ]
     },
@@ -48,42 +72,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEZXcHdhUW5Pb2Exd1JKdVFNTVNkTU9ZVUw5M2J2VXF3dmpfSzhWSE9QVElpVnhfRFUtc0M3ZmJVRzVva1MwZEdLeENrSElCcjVnclZ5NzlhbjNaRG5YSHpmQXpkV1lJaVZsOThGdTYtYXBSOFdGWHh0dDE0QkY2SFluRG0tTGR0S0g0THlIVmdWYmtZYzVSaGtfZ3hXcFJSdjhFSy1ZSzE5dmdJSGhOZ080Q0NSR2tEb1JtMkY4M055YzFLS2F4N2N3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2dc17f2820f",
-      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
-      "published": "2026-04-20T17:21:00+00:00",
-      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9727bad13f21",
-      "title": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’ - De Telegraaf",
-      "published": "2026-04-19T20:30:00+00:00",
-      "summary": "Hülya (28) heeft uitgezaaide baarmoederhalskanker: ’Uit het niks begon ik hevig te bloeden’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3g5ZHJBOW1UQ3F6dFYwRjdqUFBEY0lta3Z5RmQtYkc0UXZURHE5dm1VSkkyZmZ0aUxHbDhteEVub1h4SERmVTJBTUs1cXQ1RWdLcThNOTBNdUNWMVQ0cHhJaVAyUng5YjRnY2VPT1c5aXRvV19yaUJZTi0xeURNUUNnQmR0ZzMzOUNBdjhpZW9ZZEYzaHdEYVpfWWpna3JEZ0ZHWGl0RG0tdVZ3QTF3cW5RX1BTZUZydFU4QnNjNDhGRVJlM2tXQ1lpY2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49264fbbd532",
-      "title": "Harvard-onderzoekers: Roodharigen hebben een speciale eigenschap die hun een evolutionair voordeel heeft gegeven - wibnet.nl",
-      "published": "2026-04-20T12:55:46+00:00",
-      "summary": "Harvard-onderzoekers: Roodharigen hebben een speciale eigenschap die hun een evolutionair voordeel heeft gegeven&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzhkcUc5OUpOZlpOZGJ5QUNXcFY4UnBrWG1qbzFfYWlQN1IyVGNoalBuQ1diWWdXQ0dVcjlwRloxRUdpNDNXQjhNM3pfSHRud0VLYld6dk5WUmt5V2htTjVxTFlBSXVpZ0JTTkluMnNtRm1lSDJEMF9JajFrbGF1WFh6Q0VIeXNPNnZiN2U5U0t2Y0VsNzZ4NlVSeFZCcEhrNWRGSGZKSjktTEVhS0s1Q1ptbGd1WXlPbmR4TGtYZmxlLWU4RGtJOFl2ZENSLVE?oc=5"
         }
       ]
     }

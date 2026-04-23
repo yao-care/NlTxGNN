@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-23T02:24:49.421698+00:00",
-  "count": 3,
+  "fetched_at": "2026-04-23T07:47:08.450836+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "3814336004cb",
+      "title": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’ - BN DeStem",
+      "published": "2026-04-22T19:00:00+00:00",
+      "summary": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’&nbsp;&nbsp;BN DeStemVaccinaties lopen achter: ‘Veel gemiste kansen op gezondheidsbescherming’&nbsp;&nbsp;MAX MagazineVeel volwassenen missen vaccinaties die voor hen relevant zijn&nbsp;&nbsp;ZorgKrant.nlVaccinatie? Prik eens door!&nbsp;&nbsp;V&amp;VN",
+      "sources": [
+        {
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTBNamV6Vy1BSml6Qm0xMF9IWUVGWTg3QkhsdzRoRTZsdlltdmVHb1FCZFFsak1vLWVsM05YV2N0TU1DUlNKWDZHZS1PM1VxVXVBSzNGQWhiYTRPY0RCMHNoYWpNQy1neldGejZtVGNNamZhYVZ4cE9UcGVteDZkQTFCN2twN1ZYSDg5YU5CVnZtZlg0ekdETTl0aXp6d2hEdm1sRHZnamFwY1cxUEFIQURUaFdWWGp1Wl83SmEySm42RXJCOGh4WkxJNjJlNmQ5Unk5Vzd4V3lhRllYNmF5bjNOMzM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "044d0a25bd06",
+      "title": "Koffie bevat een geheime superkracht voor je darmen én je humeur - Scientias.nl",
+      "published": "2026-04-21T17:00:37+00:00",
+      "summary": "Koffie bevat een geheime superkracht voor je darmen én je humeur&nbsp;&nbsp;Scientias.nlDit is de ideale hoeveelheid koffie voor een beter humeur&nbsp;&nbsp;GezondnuKoffie beïnvloedt je darmen én je stemming, blijkt uit nieuw onderzoek&nbsp;&nbsp;Laboratorium.nlHoeveel kopjes koffie per dag geeft het meeste voldoening?&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUdaSDdJR0FPU3NPQnlYaXdNaXh4VnJNeEVHQV9LSmp6UVNTem84dUNRUTFPWENGV0dDQXZCWkZETTh1elFXcHV5WVFFeHI0eHRpZ2pEckRNd2thdGh4S3JzMWJfSHQyRWdPYWFKa3VDWXo3YzZpcG1qek5JN0ljX0tjM1hNYWhVWi15ckt4aw?oc=5"
+        }
+      ]
+    },
     {
       "id": "480402e431de",
       "title": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is - RTL.nl",
@@ -16,14 +40,14 @@
       ]
     },
     {
-      "id": "044d0a25bd06",
-      "title": "Koffie bevat een geheime superkracht voor je darmen én je humeur - Scientias.nl",
-      "published": "2026-04-21T17:00:37+00:00",
-      "summary": "Koffie bevat een geheime superkracht voor je darmen én je humeur&nbsp;&nbsp;Scientias.nlDit is de ideale hoeveelheid koffie voor een beter humeur&nbsp;&nbsp;GezondnuKoffie beïnvloedt je darmen én je stemming, blijkt uit nieuw onderzoek&nbsp;&nbsp;Laboratorium.nlHoeveel kopjes koffie per dag geeft het meeste voldoening?&nbsp;&nbsp;Vietnam.vnAltijd al willen weten: dit doet koffie écht voor je mentale gezondheid&nbsp;&nbsp;flair.nl",
+      "id": "c2dc17f2820f",
+      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
+      "published": "2026-04-22T08:30:00+00:00",
+      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUdaSDdJR0FPU3NPQnlYaXdNaXh4VnJNeEVHQV9LSmp6UVNTem84dUNRUTFPWENGV0dDQXZCWkZETTh1elFXcHV5WVFFeHI0eHRpZ2pEckRNd2thdGh4S3JzMWJfSHQyRWdPYWFKa3VDWXo3YzZpcG1qek5JN0ljX0tjM1hNYWhVWi15ckt4aw?oc=5"
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
         }
       ]
     },

@@ -53,7 +53,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
   <div id="lookup-results" class="lookup-results"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha384-PCSoOZTpbkikBEtd/+uV3WNdc676i9KUf01KOA8CnJotvlx8rRrETbDuwdjqTYvt" crossorigin="anonymous"></script>
 <script>
   window.NLTXGNN_CONFIG = {
     searchIndexUrl: '{{ "/data/search-index.json" | relative_url }}',

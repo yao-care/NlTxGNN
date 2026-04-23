@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-23T07:47:08.450836+00:00",
-  "count": 5,
+  "fetched_at": "2026-04-23T13:22:18.288955+00:00",
+  "count": 7,
   "news": [
     {
       "id": "3814336004cb",
@@ -31,7 +31,7 @@
       "id": "480402e431de",
       "title": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is - RTL.nl",
       "published": "2026-04-22T13:35:38+00:00",
-      "summary": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is&nbsp;&nbsp;RTL.nlNiet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De TelegraafAfvallen? Dít is de gouden tip, volgens wetenschappers&nbsp;&nbsp;flair.nlNationaal Herseninstituut komt met gouden tip om af te vallen: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;Welingelichte Kringen‘s Avonds niet snacken scheelt je drie kilo per maand volgens nieuw onde",
+      "summary": "'s Avonds snacken op de bank? Dit is waarom dat geen goed idee is&nbsp;&nbsp;RTL.nlNiet avondsnacken scheelt drie kilo per maand aldus nieuw onderzoek: ’Goedkoper en beter dan afslankmedicatie’&nbsp;&nbsp;De Telegraaf‘s Avonds niet snacken scheelt je drie kilo per maand volgens nieuw onderzoek: “Goedkoper en beter dan afslankmedicatie”&nbsp;&nbsp;NieuwsbladAfvallen? Dít is de gouden tip, volgens wetenschappers&nbsp;&nbsp;flair.nlNationaal Herseninstituut komt met gouden tip om af te vallen: ’Goe",
       "sources": [
         {
           "name": "RTL.nl",
@@ -40,26 +40,50 @@
       ]
     },
     {
-      "id": "c2dc17f2820f",
-      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
-      "published": "2026-04-22T08:30:00+00:00",
-      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "51f620d8e6d8",
       "title": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker' - NOS",
       "published": "2026-04-21T14:48:15+00:00",
-      "summary": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker'&nbsp;&nbsp;NOSGeen verhoogde kans op auto-immuun- of reumatische ziekten bij siliconen implantaten na borstkanker&nbsp;&nbsp;Antoni van Leeuwenhoek | AVL",
+      "summary": "'Geen hogere kans op auto-immuunziekte bij siliconen implantaat na borstkanker'&nbsp;&nbsp;NOS'Siliconen implantaat na borstkanker leidt niet tot verhoogd risico op auto-immuunziekte en reuma'&nbsp;&nbsp;Nationale ZorggidsGeen verhoogde kans op auto-immuun- of reumatische ziekten bij siliconen implantaten na borstkanker&nbsp;&nbsp;Antoni van Leeuwenhoek | AVL",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZLSFlZSXFFaUtFSDVoRjB3X0RvYlFYSmwwT2xRNGFibVFHQWVhWmJOa2VoX09fdEtqN01KMUFrLXVOb3JrVDJubnFZNkhzemhYMUFWcVFUZmhaaVJ0dTEyWTdfVXdxWHAyX2FMTVRDMkZ4bnhCemxlVnBrNk81bTFESklreHVad25QLWhQMVU1bDcwRVFSRVFtWEgyNWZvVnNYa3pvYWJPczdi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b449473ed7dd",
+      "title": "Expert komt met simpele manier om de gezondheidsrisico's van zitten te verminderen - Welingelichte Kringen",
+      "published": "2026-04-22T11:20:38+00:00",
+      "summary": "Expert komt met simpele manier om de gezondheidsrisico's van zitten te verminderen&nbsp;&nbsp;Welingelichte Kringen3.000 stappen per dag: deze simpele gewoonte kan het risico op Alzheimer verlagen&nbsp;&nbsp;Futura, le média qui explore le mondeNieuw onderzoek: hoe meer je zit, hoe hoger het risico op het krijgen van dementie&nbsp;&nbsp;Metronieuws.nlBeweging, slaap en zittijd in verband gebracht met risico op dementie&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWZQVEtVanZQM3dQamZ2UmlVNzYwbzhETkdsemw5VHFtRktNSnZESm8tYXFTbUhTcTd3UndPWUZ2alBjRnV1alVXS2d3TjM5TzRrazRwNmVaYzlIQkxGcWtzdlV6R1Q1MFR5Yl94ZFd3OV9jakxIMjVHdGJaaENfY3VoaGRfdWYtNVgxUGdtSVVpaU5CZUxWNWgwaWthdHZwbkNPUXNIVlFBOG82LW1FekZGOG81Z0tMWnpjOEwwbTgydHB2WE40?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abaf7bc838c5",
+      "title": "Opvallend onderzoek: roodharigen blijken al 10.000 jaar bevoordeeld door natuurlijke selectie - Nieuwsblad",
+      "published": "2026-04-21T16:00:00+00:00",
+      "summary": "Opvallend onderzoek: roodharigen blijken al 10.000 jaar bevoordeeld door natuurlijke selectie&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORG1helpTVVNRZC05OTJyaVo5LXdsMG9EQXdRbzREQ2xSN3VrTXlWNzkwb0JOVGg1eklSZUxJVkxnNVM2V2M1OGpqZzRkUE43QTYxajZQTGt4ZnVmVnRPX2ZXT0tUaklmLWxXakdyUEc3WlVGNUpuZEZmWS1UR1AxYm5uWFlUd3VKLW1fa2JVNEY2N3A0ZnMxbXg2QnhUM2gxRjRnY1VWNjFoNDg1aVBWTEE4SEVjTWlmbjJXY1h3VG1xUDBocEktVTJYV24zREVqcEJQMTVSSGZHaDg0T3BjbDIxQkhROHFJOVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bb399bc4377",
+      "title": "Grotere groep krijgt dit vaccin vanaf juli terugbetaald door ziekteverzekering - Redactie24",
+      "published": "2026-04-22T13:00:36+00:00",
+      "summary": "Grotere groep krijgt dit vaccin vanaf juli terugbetaald door ziekteverzekering&nbsp;&nbsp;Redactie24HPV-vaccin wordt vanaf juni terugbetaald voor jongvolwassenen tot 30 jaar&nbsp;&nbsp;VRTHPV-vaccin straks terugbetaald tot 30 jaar: waarom vaccinatie ook op latere leeftijd nuttig is&nbsp;&nbsp;HLNTerugbetaling HPV-vaccin uitgebreid tot 30 jaar vanaf juni 2026&nbsp;&nbsp;De SpecialistTerugbetaling HPV-vaccin binnenkort ook voor jongvolwassenen&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVlTdF9yWXFieC1FSVRwczNXZUF0d1VpT0ZRVTBOX2lkSzlTY0ZmdlpwTUJmUDJFWFg0TEpvOWs1Z0NKMU9VWWVKVTFEM1M0S0dLaGNlc1ZZUlI2bzVza3dibm9MZDBIbWZKODR6ZUJrYXNjUklEX2JzYXJjLXhRbUhoMEpTWV9sQlhrWW44QjByNjFTS3YweFczSWxUTFQ0NW1xc3g0aHFhU0wzN01TY2xKTUlGOWJpN0HSAb8BQVVfeXFMT1Z0THNySngwXzRNTHE4OHE3YkFtanZzc2Q5WGFVeXhYcHNSbDk1cEgyckM5U2tyTnZDX01mUGVtblZ6TnA5ZDJoRU85V2pzYzNJY3BqTko5NmNtbUV1VnRGVlhKSXVmakhPQzk2RzFfbVZ5cEpsUFd0NFlXT2ptYzhuU2VzYmNlaWFFNW8yNU1ral92M0RHX3NkUTBwQzlJNUVyUVhTRDBEd0lGcFZjWV9wanBFbWxBcHZ2QVdpeDQ?oc=5"
         }
       ]
     }

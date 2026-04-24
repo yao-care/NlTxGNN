@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-24T07:58:47.317990+00:00",
+  "fetched_at": "2026-04-24T13:17:32.802761+00:00",
   "count": 3,
   "news": [
-    {
-      "id": "3814336004cb",
-      "title": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’ - BN DeStem",
-      "published": "2026-04-22T19:00:00+00:00",
-      "summary": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’&nbsp;&nbsp;BN DeStemHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTBNamV6Vy1BSml6Qm0xMF9IWUVGWTg3QkhsdzRoRTZsdlltdmVHb1FCZFFsak1vLWVsM05YV2N0TU1DUlNKWDZHZS1PM1VxVXVBSzNGQWhiYTRPY0RCMHNoYWpNQy1neldGejZtVGNNamZhYVZ4cE9UcGVteDZkQTFCN2twN1ZYSDg5YU5CVnZtZlg0ekdETTl0aXp6d2hEdm1sRHZnamFwY1cxUEFIQURUaFdWWGp1Wl83SmEySm42RXJCOGh4WkxJNjJlNmQ5Unk5Vzd4V3lhRllYNmF5bjNOMzM?oc=5"
-        }
-      ]
-    },
     {
       "id": "6c86b2d14815",
       "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc - De Gelderlander",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "c2dc17f2820f",
-      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
-      "published": "2026-04-22T08:30:00+00:00",
-      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
+      "id": "3814336004cb",
+      "title": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’ - BN DeStem",
+      "published": "2026-04-22T19:00:00+00:00",
+      "summary": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’&nbsp;&nbsp;BN DeStemHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTBNamV6Vy1BSml6Qm0xMF9IWUVGWTg3QkhsdzRoRTZsdlltdmVHb1FCZFFsak1vLWVsM05YV2N0TU1DUlNKWDZHZS1PM1VxVXVBSzNGQWhiYTRPY0RCMHNoYWpNQy1neldGejZtVGNNamZhYVZ4cE9UcGVteDZkQTFCN2twN1ZYSDg5YU5CVnZtZlg0ekdETTl0aXp6d2hEdm1sRHZnamFwY1cxUEFIQURUaFdWWGp1Wl83SmEySm42RXJCOGh4WkxJNjJlNmQ5Unk5Vzd4V3lhRllYNmF5bjNOMzM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69bca3beebab",
+      "title": "Amerikaanse gezondheidsdienst CDC houdt positief covid-vaccinatierapport tegen - bnr.nl",
+      "published": "2026-04-23T15:47:16+00:00",
+      "summary": "Amerikaanse gezondheidsdienst CDC houdt positief covid-vaccinatierapport tegen&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk1CX1VUZkJ4WDc5eFp4akhna0g5X2YzT19nRzhHbzJuOGtadklyZU5kRVpGbmlCX05pajhrNlYxMk53QUZxc0dUX2NiN21mOEZuRHRoZllIdW5RQ0RodXJJZ0VVNldrOFFieExvOHRQTTJzY09hZnZWSUx4eXJJbjU4SG9jdU5Kcl9odWRDY2xnR0ZuNWNycktyMU1INWQ5ZEhmaVZybU11Y2hNQnM2YWZ0WTlEMEJPdnNxT29Rcmo3VTV5cldR?oc=5"
         }
       ]
     }

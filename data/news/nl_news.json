@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-24T02:25:32.535098+00:00",
-  "count": 2,
+  "fetched_at": "2026-04-24T07:58:47.317990+00:00",
+  "count": 3,
   "news": [
     {
       "id": "3814336004cb",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "b449473ed7dd",
-      "title": "Expert komt met simpele manier om de gezondheidsrisico's van zitten te verminderen - Welingelichte Kringen",
-      "published": "2026-04-22T11:20:38+00:00",
-      "summary": "Expert komt met simpele manier om de gezondheidsrisico's van zitten te verminderen&nbsp;&nbsp;Welingelichte Kringen3.000 stappen per dag: deze simpele gewoonte kan het risico op Alzheimer verlagen&nbsp;&nbsp;Futura, le média qui explore le mondeNieuw onderzoek: hoe meer je zit, hoe hoger het risico op het krijgen van dementie&nbsp;&nbsp;Metronieuws.nlBeweging, slaap en zittijd in verband gebracht met risico op dementie&nbsp;&nbsp;MSN",
+      "id": "6c86b2d14815",
+      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc - De Gelderlander",
+      "published": "2026-04-23T02:09:00+00:00",
+      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWZQVEtVanZQM3dQamZ2UmlVNzYwbzhETkdsemw5VHFtRktNSnZESm8tYXFTbUhTcTd3UndPWUZ2alBjRnV1alVXS2d3TjM5TzRrazRwNmVaYzlIQkxGcWtzdlV6R1Q1MFR5Yl94ZFd3OV9jakxIMjVHdGJaaENfY3VoaGRfdWYtNVgxUGdtSVVpaU5CZUxWNWgwaWthdHZwbkNPUXNIVlFBOG82LW1FekZGOG81Z0tMWnpjOEwwbTgydHB2WE40?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGlBVUxSSnVhUXVyZVQ0bUROYXdjT3lkSjhJSTJxd0hGc0FpSWNJYk9ickZWNkM1b2k5WjNidVpsZVhFMWc4Q1oyUjRiQVUtclFzenpvWDctWVZDNk5yTFZGM0NjbnV6cFRuQ19NYUZCMHR3XzhwTnVZOUNvU2lrd1VYcG1SUWl5a251WTNTOC14MHo3VFdtR05xeEF4TGtuVjFYZ1MxZVpiSkNRak9iTlA3WXhnOWQtTWNLUUpCRmd4bTA2S2tIQzNxdGpxVExwbGJmLVRvRTI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2dc17f2820f",
+      "title": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out' - Omroep West",
+      "published": "2026-04-22T08:30:00+00:00",
+      "summary": "Hartfalen wordt vaak laat herkend, ook bij Desiree: 'Je denkt aan een burn-out'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllWUTh1cjBoMnR1Z3l5eXhGWFdscVc5UzJNa0N5bk1naHFXRUluMzJrYzdxTW43ZWNWWnJqLVcyNUR3d0d1TFNEdjh3bHBCVW9ab0tIRUJIQ016Tlo0dmJSUTZrYmdCbWJWbXdOMW9uNXl2SFF4TkNBNFZzZHROd2EwdmJMMi04Mnh5VFo3Qm8xbW13UEZNRzNqNDZUWlBoRmFUbS1icDhaU2xPZjI3WlpFMGQ?oc=5"
         }
       ]
     }

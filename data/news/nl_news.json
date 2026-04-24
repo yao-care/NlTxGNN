@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-24T13:17:32.802761+00:00",
-  "count": 3,
+  "fetched_at": "2026-04-24T18:44:38.622364+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "6c86b2d14815",
-      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc - De Gelderlander",
+      "id": "284c40de84b5",
+      "title": "Het is zover: veelbelovende Groningse pil wordt voor het eerst op parkinsonpatiënten getest - Dagblad van het Noorden",
+      "published": "2026-04-24T10:29:00+00:00",
+      "summary": "Het is zover: veelbelovende Groningse pil wordt voor het eerst op parkinsonpatiënten getest&nbsp;&nbsp;Dagblad van het NoordenGronings Alzheimer-medicijn voor het eerst getest bij patiënten&nbsp;&nbsp;OOG GroningenWinterslapende hamsters zorgen voor veelbelovend medicijn. Rob Henning (67) uit Groningen: ‘Ongelooflijk wat die beestjes allemaal kunnen’&nbsp;&nbsp;Dagblad van het Noorden",
+      "sources": [
+        {
+          "name": "Dagblad van het Noorden",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkcwMTF0TnRPUG1WRG9oRVA5RXdYdnZPY1RTUk1XeEFwSnJ3X2hMZGJYUTFRZ1FHT3FzZ2tud2JRTVprZzRpeGlJX2RyU1JObUVsZDhDTGlySnB5a2JfLWlBVTM1bk1Hc3ROMjBUZHFxSG91VUVTNDItZXp0VVY5d3NXNllqZ2lDUXhNT1dpYWdtY2VPVllWZ0Y5RlYya3ZpMm9aS0FFcmVRTFM5Z1VNaEV4TlVPTnZHaFl4c3VCODJmOW9YWlQtaEhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c64ccaa245f7",
+      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek - AD.nl",
       "published": "2026-04-23T02:09:00+00:00",
-      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc&nbsp;&nbsp;De Gelderlander",
+      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGlBVUxSSnVhUXVyZVQ0bUROYXdjT3lkSjhJSTJxd0hGc0FpSWNJYk9ickZWNkM1b2k5WjNidVpsZVhFMWc4Q1oyUjRiQVUtclFzenpvWDctWVZDNk5yTFZGM0NjbnV6cFRuQ19NYUZCMHR3XzhwTnVZOUNvU2lrd1VYcG1SUWl5a251WTNTOC14MHo3VFdtR05xeEF4TGtuVjFYZ1MxZVpiSkNRak9iTlA3WXhnOWQtTWNLUUpCRmd4bTA2S2tIQzNxdGpxVExwbGJmLVRvRTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3814336004cb",
-      "title": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’ - BN DeStem",
-      "published": "2026-04-22T19:00:00+00:00",
-      "summary": "Pijnlijke conclusie van zorgexperts: ‘Volwassenen lopen onnodig risico doordat invoering van vaccins jaren duurt’&nbsp;&nbsp;BN DeStemHele verhaal bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTBNamV6Vy1BSml6Qm0xMF9IWUVGWTg3QkhsdzRoRTZsdlltdmVHb1FCZFFsak1vLWVsM05YV2N0TU1DUlNKWDZHZS1PM1VxVXVBSzNGQWhiYTRPY0RCMHNoYWpNQy1neldGejZtVGNNamZhYVZ4cE9UcGVteDZkQTFCN2twN1ZYSDg5YU5CVnZtZlg0ekdETTl0aXp6d2hEdm1sRHZnamFwY1cxUEFIQURUaFdWWGp1Wl83SmEySm42RXJCOGh4WkxJNjJlNmQ5Unk5Vzd4V3lhRllYNmF5bjNOMzM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69bca3beebab",
-      "title": "Amerikaanse gezondheidsdienst CDC houdt positief covid-vaccinatierapport tegen - bnr.nl",
-      "published": "2026-04-23T15:47:16+00:00",
-      "summary": "Amerikaanse gezondheidsdienst CDC houdt positief covid-vaccinatierapport tegen&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk1CX1VUZkJ4WDc5eFp4akhna0g5X2YzT19nRzhHbzJuOGtadklyZU5kRVpGbmlCX05pajhrNlYxMk53QUZxc0dUX2NiN21mOEZuRHRoZllIdW5RQ0RodXJJZ0VVNldrOFFieExvOHRQTTJzY09hZnZWSUx4eXJJbjU4SG9jdU5Kcl9odWRDY2xnR0ZuNWNycktyMU1INWQ5ZEhmaVZybU11Y2hNQnM2YWZ0WTlEMEJPdnNxT29Rcmo3VTV5cldR?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkdpb0ktZUI3Vy02RHowWTkzdGFMRGhpMjF6X09SRDFzdDU4aUhGODFDbXBIYWVNLUhkem5HX3ZYZHdaMjdyUHdIRFN5VUNMNmRlMHk5MmhNWW1tbVAwdVdqaXEtLU91MEtOeW92aElzRHIydXptLUh6bHBEc0E1M2w5N0ZJd0xBd01zSzR4dkVudEVxS3pQX1cwSUM1MFZfcTNGdVkzcndmdGpOTjJ0WGozQXJRMUZ5b0c2N2hKMXNGcmxO?oc=5"
         }
       ]
     }

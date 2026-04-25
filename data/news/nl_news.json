@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-25T07:10:54.302534+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-25T12:58:46.144381+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "b5fd396f4f0d",
-      "title": "WHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd - NOS",
-      "published": "2026-04-25T02:39:25+00:00",
-      "summary": "WHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOSUitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NUWHO: doorbraak malariabehandeling voor pasgeborenen en baby's&nbsp;&nbsp;De TelegraafWHO keurt nieuwe malariabehandeling voor baby’s goed: 'Uitroeien malaria reële mogelijkheid'&nbsp;&nbsp;RTL.nlWHO keurt voor het eerst malariamedicijn voor baby's goed&nbsp;&nbsp;Medi-Sfeer",
+      "id": "ffcc3a09fd88",
+      "title": "Uitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's - NU",
+      "published": "2026-04-25T03:40:12+00:00",
+      "summary": "Uitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NU‘Uitroeien malaria is geen droom meer’: WHO keurt eerste medicijn voor baby’s goed&nbsp;&nbsp;AD.nlWHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOSWHO keurt nieuwe malariabehandeling voor baby’s goed: 'Uitroeien malaria reële mogelijkheid'&nbsp;&nbsp;RTL.nlPaludisme: feu vert de l'OMS à un traitement pour les nourissons&nbsp;&nbsp;De Specialist",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnlrdGdMZ2dHODhHZ0t2LVg3NE9GRDVDdE5BNTlZSXNsSG1RZW11ZWg2eGZFc3hIR0FqTVptUmZhWFBDNDl5YzZadHEzNmhIUlhQN2FlenhhX3NlQWNaV0dVQlRKMWJTTmtLaGNVdlI0ek1HUTBIcXVydWt2WW0zNC16Z0diSl9pME9nWmFZWWl0QmVJU3c?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3A2Qkg0Wm16OHdJbnpERE41Z2Z0dnpVc3RGVElZRWFPZ1pBSnFIa2FFTjRORlI1NlJaT01YYVMxOWRRZVdJX3FWT1A3bkZzanJoX3cwQld3eFg4V1FGaE1NQThDOVNKTDhiZ1RwVGVOMmRrTS1UZlo5N3lMdVF2X0ZyaUU1TVZqUjVtckJWNS01X0psOVQ1aldESE5tUHREQVprMUJLdllnZ0JyYl92Y3VFT2xTV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbdde2115337",
+      "title": "Oudere broers en zussen zijn slimmer en rijker, komt door vroege blootstelling aan ziekten - bnr.nl",
+      "published": "2026-04-25T05:17:21+00:00",
+      "summary": "Oudere broers en zussen zijn slimmer en rijker, komt door vroege blootstelling aan ziekten&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORzJBS2JzQ0VtbEJoR0hsRmhCQ2czQ0VnWHNFa2RfRjRUYmVDYkFwcVkyU1pPZHBxQmNHX3N4UjlIVmNTd1AwTGY1SGVXWEN6MGRPN0pXaDlRYkVvSHJBQkZGVU9KWTNxbFpGekN6cVFtNnd4cjNhZGxuWFVkZFRfX1Z2akJQZ29oSDd3Rm9OcHZibHU5cWtmU2RSMll1SVpDNHd5cmxUaHh6N0NEMldCMjRlaHNCZnpVMi1SLUdDbXE5VkFKZlhkNGpVS214Y1U?oc=5"
         }
       ]
     },
@@ -42,7 +54,7 @@
     {
       "id": "07c9e8ef0c2c",
       "title": "Sterke bilspieren helpen je gezond ouder worden: ’Als dit lukt, mag je jezelf als mobiel beschouwen’ - De Telegraaf",
-      "published": "2026-04-23T09:00:00+00:00",
+      "published": "2026-04-23T16:00:00+00:00",
       "summary": "Sterke bilspieren helpen je gezond ouder worden: ’Als dit lukt, mag je jezelf als mobiel beschouwen’&nbsp;&nbsp;De TelegraafWat je bilspieren verklappen over jouw gezondheid: “Als dat lukt, mag je jezelf als mobiel beschouwen”&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {

@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-24T18:44:38.622364+00:00",
-  "count": 2,
+  "fetched_at": "2026-04-25T02:07:01.074511+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "6c86b2d14815",
+      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc - De Gelderlander",
+      "published": "2026-04-23T02:09:00+00:00",
+      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGlBVUxSSnVhUXVyZVQ0bUROYXdjT3lkSjhJSTJxd0hGc0FpSWNJYk9ickZWNkM1b2k5WjNidVpsZVhFMWc4Q1oyUjRiQVUtclFzenpvWDctWVZDNk5yTFZGM0NjbnV6cFRuQ19NYUZCMHR3XzhwTnVZOUNvU2lrd1VYcG1SUWl5a251WTNTOC14MHo3VFdtR05xeEF4TGtuVjFYZ1MxZVpiSkNRak9iTlA3WXhnOWQtTWNLUUpCRmd4bTA2S2tIQzNxdGpxVExwbGJmLVRvRTI?oc=5"
+        }
+      ]
+    },
     {
       "id": "284c40de84b5",
       "title": "Het is zover: veelbelovende Groningse pil wordt voor het eerst op parkinsonpatiënten getest - Dagblad van het Noorden",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "c64ccaa245f7",
-      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek - AD.nl",
-      "published": "2026-04-23T02:09:00+00:00",
-      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek&nbsp;&nbsp;AD.nl",
+      "id": "07c9e8ef0c2c",
+      "title": "Sterke bilspieren helpen je gezond ouder worden: ’Als dit lukt, mag je jezelf als mobiel beschouwen’ - De Telegraaf",
+      "published": "2026-04-23T09:00:00+00:00",
+      "summary": "Sterke bilspieren helpen je gezond ouder worden: ’Als dit lukt, mag je jezelf als mobiel beschouwen’&nbsp;&nbsp;De TelegraafWat je bilspieren verklappen over jouw gezondheid: “Als dat lukt, mag je jezelf als mobiel beschouwen”&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkdpb0ktZUI3Vy02RHowWTkzdGFMRGhpMjF6X09SRDFzdDU4aUhGODFDbXBIYWVNLUhkem5HX3ZYZHdaMjdyUHdIRFN5VUNMNmRlMHk5MmhNWW1tbVAwdVdqaXEtLU91MEtOeW92aElzRHIydXptLUh6bHBEc0E1M2w5N0ZJd0xBd01zSzR4dkVudEVxS3pQX1cwSUM1MFZfcTNGdVkzcndmdGpOTjJ0WGozQXJRMUZ5b0c2N2hKMXNGcmxO?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdUFjMTR6SGhzUXVlMkNkTFFhNXlSSk4yMV9MZ1ZrVWdWMFF3VUhUMkpuQ0JpV2tnWnRHSEZwTXNnRzhSVDB2aUtOalIxc2xQUlVFbVlMOVZ1WTBGMzRxWkdieWw2NDduMkxKZmEzUUwwUVpWbkNENFUxUV93b3JSQ2lZUml3OGVnSG5JRy15MWkwSEJWYUtIbG1KQ0xxOU9kMUpWbTVJcmUtSDBYczk5S0NQN1VReW54YW1hS3dWMGNZSWx1dmljcmVIWWczRmhpcmFuSHpYc3lHUk80eW9ZbFVOX1FwLVRVakNTd0ln?oc=5"
         }
       ]
     }

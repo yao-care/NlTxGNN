@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-25T02:07:01.074511+00:00",
-  "count": 3,
+  "fetched_at": "2026-04-25T07:10:54.302534+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "6c86b2d14815",
-      "title": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc - De Gelderlander",
-      "published": "2026-04-23T02:09:00+00:00",
-      "summary": "Kans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst onderzoek Radboudumc&nbsp;&nbsp;De Gelderlander",
+      "id": "b5fd396f4f0d",
+      "title": "WHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd - NOS",
+      "published": "2026-04-25T02:39:25+00:00",
+      "summary": "WHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOSUitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NUWHO: doorbraak malariabehandeling voor pasgeborenen en baby's&nbsp;&nbsp;De TelegraafWHO keurt nieuwe malariabehandeling voor baby’s goed: 'Uitroeien malaria reële mogelijkheid'&nbsp;&nbsp;RTL.nlWHO keurt voor het eerst malariamedicijn voor baby's goed&nbsp;&nbsp;Medi-Sfeer",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGlBVUxSSnVhUXVyZVQ0bUROYXdjT3lkSjhJSTJxd0hGc0FpSWNJYk9ickZWNkM1b2k5WjNidVpsZVhFMWc4Q1oyUjRiQVUtclFzenpvWDctWVZDNk5yTFZGM0NjbnV6cFRuQ19NYUZCMHR3XzhwTnVZOUNvU2lrd1VYcG1SUWl5a251WTNTOC14MHo3VFdtR05xeEF4TGtuVjFYZ1MxZVpiSkNRak9iTlA3WXhnOWQtTWNLUUpCRmd4bTA2S2tIQzNxdGpxVExwbGJmLVRvRTI?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnlrdGdMZ2dHODhHZ0t2LVg3NE9GRDVDdE5BNTlZSXNsSG1RZW11ZWg2eGZFc3hIR0FqTVptUmZhWFBDNDl5YzZadHEzNmhIUlhQN2FlenhhX3NlQWNaV0dVQlRKMWJTTmtLaGNVdlI0ek1HUTBIcXVydWt2WW0zNC16Z0diSl9pME9nWmFZWWl0QmVJU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f25ba66e5da",
+      "title": "Combinatiepil tegen hoge bloeddruk verkleint kans op nieuwe hersenbloeding Internationale studie toont aan dat intensieve bloeddrukbehandeling werkt - Radboudumc",
+      "published": "2026-04-24T08:06:42+00:00",
+      "summary": "Combinatiepil tegen hoge bloeddruk verkleint kans op nieuwe hersenbloeding Internationale studie toont aan dat intensieve bloeddrukbehandeling werkt&nbsp;&nbsp;Radboudumc",
+      "sources": [
+        {
+          "name": "Radboudumc",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBlR2syU3pvUi0zY3pVX0IyWlE2VkhSTVZISHNWOTlBQm9CdngyaVotc3hHWGxDRm9ISXVOY3QzdmRseGs1VXRFV0pweVJaWUR3V2Rta1BMazdPeGU0aGlRVGttRWdvZW0tejA3MzlQN09ObzlGMVV3RlZXaTQzVG5FNzhuWXAxS0UyWWh0V1lILXN4RUdYclNsZjNJU1IzR2FZaFQ2OC15WC1IV2xLWWhR?oc=5"
         }
       ]
     },

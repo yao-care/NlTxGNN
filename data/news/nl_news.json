@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-26T07:24:51.607857+00:00",
-  "count": 2,
+  "fetched_at": "2026-04-26T13:00:18.384541+00:00",
+  "count": 1,
   "news": [
     {
-      "id": "752d19adff45",
-      "title": "Nieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij - NRC",
-      "published": "2026-04-25T13:12:01+00:00",
-      "summary": "Nieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij&nbsp;&nbsp;NRCUitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NUWHO: doorbraak malariabehandeling voor pasgeborenen en baby's&nbsp;&nbsp;telegraaf.nlNieuw medicijn tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;JeugdjournaalWHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOS",
+      "id": "a4b3aeb72d00",
+      "title": "Nieuw medicijn tegen malaria voor baby's goedgekeurd - Jeugdjournaal",
+      "published": "2026-04-25T17:11:36+00:00",
+      "summary": "Nieuw medicijn tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;JeugdjournaalNieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij&nbsp;&nbsp;NRCWHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;nos.nlWHO: doorbraak malariabehandeling voor pasgeborenen en baby's&nbsp;&nbsp;De TelegraafUitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NU",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGNnRjI1cEY5MUx4ajhEejdIUmF0SEQzUUhGQzBpZ0NXSi1KRXgzVWZIQ0s3VHJSSEVpZnJfVjNzUUtuOUV4NzNYMU9tRzR3SjlTbFVaSGV4WHY3Y3JkTVdqVVhpOWFUSkhTdktFTE15YmFfWlFraGJHT0FLZXVqRU16V2RxVlRiZzBPc3lUVmtIT01TZG5GWU5LdGViaXFwS0ZKSUtPbXRnU3d3Z0gzYTUyRnhGYjhUQndldFFndGhPelY5cl9jVzVhOUI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f25ba66e5da",
-      "title": "Combinatiepil tegen hoge bloeddruk verkleint kans op nieuwe hersenbloeding Internationale studie toont aan dat intensieve bloeddrukbehandeling werkt - Radboudumc",
-      "published": "2026-04-24T08:06:42+00:00",
-      "summary": "Combinatiepil tegen hoge bloeddruk verkleint kans op nieuwe hersenbloeding Internationale studie toont aan dat intensieve bloeddrukbehandeling werkt&nbsp;&nbsp;Radboudumc",
-      "sources": [
-        {
-          "name": "Radboudumc",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBlR2syU3pvUi0zY3pVX0IyWlE2VkhSTVZISHNWOTlBQm9CdngyaVotc3hHWGxDRm9ISXVOY3QzdmRseGs1VXRFV0pweVJaWUR3V2Rta1BMazdPeGU0aGlRVGttRWdvZW0tejA3MzlQN09ObzlGMVV3RlZXaTQzVG5FNzhuWXAxS0UyWWh0V1lILXN4RUdYclNsZjNJU1IzR2FZaFQ2OC15WC1IV2xLWWhR?oc=5"
+          "name": "Jeugdjournaal",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRVjBLcEl4M2RhUlB5TGI2a2pPX1ZKVUhxRVR3cHh0VWlqeVgxSkVTY1ZQTnhDRjVPckkwVzBQMW1zeGFZWjZEdzVn?oc=5"
         }
       ]
     }

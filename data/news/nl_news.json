@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-25T18:46:39.664290+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-26T02:29:52.336375+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "ffcc3a09fd88",
-      "title": "Uitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's - NU",
-      "published": "2026-04-25T03:40:12+00:00",
-      "summary": "Uitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NUNieuw medicijn tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;JeugdjournaalNieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij&nbsp;&nbsp;NRCWHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOS‘Uitroeien malaria is geen droom meer’: WHO keurt eerste medicijn voor baby’s goed&nbsp;&nbsp;AD.nl",
+      "id": "752d19adff45",
+      "title": "Nieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij - NRC",
+      "published": "2026-04-25T13:12:01+00:00",
+      "summary": "Nieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij&nbsp;&nbsp;NRCUitroeien malaria 'geen droom meer' na goedkeuring nieuwe behandeling baby's&nbsp;&nbsp;NUWHO keurt eerste malariamedicijn voor baby’s goed&nbsp;&nbsp;de VolkskrantNieuw medicijn tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;JeugdjournaalWHO: nieuwe behandeling tegen malaria voor baby's goedgekeurd&nbsp;&nbsp;NOS",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3A2Qkg0Wm16OHdJbnpERE41Z2Z0dnpVc3RGVElZRWFPZ1pBSnFIa2FFTjRORlI1NlJaT01YYVMxOWRRZVdJX3FWT1A3bkZzanJoX3cwQld3eFg4V1FGaE1NQThDOVNKTDhiZ1RwVGVOMmRrTS1UZlo5N3lMdVF2X0ZyaUU1TVZqUjVtckJWNS01X0psOVQ1aldESE5tUHREQVprMUJLdllnZ0JyYl92Y3VFT2xTV2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbdde2115337",
-      "title": "Oudere broers en zussen zijn slimmer en rijker, komt door vroege blootstelling aan ziekten - bnr.nl",
-      "published": "2026-04-25T05:17:21+00:00",
-      "summary": "Oudere broers en zussen zijn slimmer en rijker, komt door vroege blootstelling aan ziekten&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORzJBS2JzQ0VtbEJoR0hsRmhCQ2czQ0VnWHNFa2RfRjRUYmVDYkFwcVkyU1pPZHBxQmNHX3N4UjlIVmNTd1AwTGY1SGVXWEN6MGRPN0pXaDlRYkVvSHJBQkZGVU9KWTNxbFpGekN6cVFtNnd4cjNhZGxuWFVkZFRfX1Z2akJQZ29oSDd3Rm9OcHZibHU5cWtmU2RSMll1SVpDNHd5cmxUaHh6N0NEMldCMjRlaHNCZnpVMi1SLUdDbXE5VkFKZlhkNGpVS214Y1U?oc=5"
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGNnRjI1cEY5MUx4ajhEejdIUmF0SEQzUUhGQzBpZ0NXSi1KRXgzVWZIQ0s3VHJSSEVpZnJfVjNzUUtuOUV4NzNYMU9tRzR3SjlTbFVaSGV4WHY3Y3JkTVdqVVhpOWFUSkhTdktFTE15YmFfWlFraGJHT0FLZXVqRU16V2RxVlRiZzBPc3lUVmtIT01TZG5GWU5LdGViaXFwS0ZKSUtPbXRnU3d3Z0gzYTUyRnhGYjhUQndldFFndGhPelY5cl9jVzVhOUI?oc=5"
         }
       ]
     },
@@ -36,18 +24,6 @@
         {
           "name": "Radboudumc",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBlR2syU3pvUi0zY3pVX0IyWlE2VkhSTVZISHNWOTlBQm9CdngyaVotc3hHWGxDRm9ISXVOY3QzdmRseGs1VXRFV0pweVJaWUR3V2Rta1BMazdPeGU0aGlRVGttRWdvZW0tejA3MzlQN09ObzlGMVV3RlZXaTQzVG5FNzhuWXAxS0UyWWh0V1lILXN4RUdYclNsZjNJU1IzR2FZaFQ2OC15WC1IV2xLWWhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "284c40de84b5",
-      "title": "Het is zover: veelbelovende Groningse pil wordt voor het eerst op parkinsonpatiënten getest - Dagblad van het Noorden",
-      "published": "2026-04-24T10:29:00+00:00",
-      "summary": "Het is zover: veelbelovende Groningse pil wordt voor het eerst op parkinsonpatiënten getest&nbsp;&nbsp;Dagblad van het NoordenGronings Alzheimer-medicijn voor het eerst getest bij patiënten&nbsp;&nbsp;OOG GroningenWinterslapende hamsters zorgen voor veelbelovend medicijn. Rob Henning (67) uit Groningen: ‘Ongelooflijk wat die beestjes allemaal kunnen’&nbsp;&nbsp;Dagblad van het Noorden",
-      "sources": [
-        {
-          "name": "Dagblad van het Noorden",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkcwMTF0TnRPUG1WRG9oRVA5RXdYdnZPY1RTUk1XeEFwSnJ3X2hMZGJYUTFRZ1FHT3FzZ2tud2JRTVprZzRpeGlJX2RyU1JObUVsZDhDTGlySnB5a2JfLWlBVTM1bk1Hc3ROMjBUZHFxSG91VUVTNDItZXp0VVY5d3NXNllqZ2lDUXhNT1dpYWdtY2VPVllWZ0Y5RlYya3ZpMm9aS0FFcmVRTFM5Z1VNaEV4TlVPTnZHaFl4c3VCODJmOW9YWlQtaEhR?oc=5"
         }
       ]
     }

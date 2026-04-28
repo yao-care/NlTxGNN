@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-28T08:21:44.738261+00:00",
-  "count": 1,
+  "fetched_at": "2026-04-28T13:59:00.004752+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "bca6fa8530e3",
+      "title": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af - NRC",
+      "published": "2026-04-28T09:05:11+00:00",
+      "summary": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af&nbsp;&nbsp;NRCKans op nieuwe hersenbloeding verkleint door combinatiepil tegen hoge bloeddruk&nbsp;&nbsp;ZorgKrant.nlKans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek&nbsp;&nbsp;AD.nlKleinere kans op nieuwe hersenbloeding bij combinatiepil tegen hoge bloeddruk&nbsp;&nbsp;Nationale Zorggids",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME4xaWFMeHFDUVY1V2gwZU1qb3J4aTd2Y3B1ZVFzVkNGQ0xBQ21DNU43R0lrbnJ2RGk0YjBYSHN6VXB0S1hJT0lRSUFvcXJhaHpkNFVrZUNKLUxOcS1OS0tVYm5UU0JOS2p3MkVyZVE5X0NtUkV3MGoycnA0Q2ZuTzI2V1ZZV1VGQnpsMFdYdy03NUFpdTF0dG9HQjBtdF9YVHVaTVk0OGVQSk9rTGpMUXlDSWQ3QlFGZVE4Rk1PUTRIbFNmNl9aX3pjYlAwblZMa2RqVlNKQlFqeFZFUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50c8c3584fe4",
+      "title": "Huisartsen schrikken van een klacht van patiënt, en hebben een totaal andere kijk op de zaak - De Gelderlander",
+      "published": "2026-04-28T01:05:00+00:00",
+      "summary": "Huisartsen schrikken van een klacht van patiënt, en hebben een totaal andere kijk op de zaak&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNelJEY0hMTDFRV0VaMGtTcmNXTDFNOFBHeWJNbTFsRjgwUEJXOXFOUEkyYUlJRWY1d3k0TUNRdG9SUl93eUVQVjVSZVVTRUh5alhvVFZwbXpSLVFDWkRRaEx0TU41bVBDV0M2NW96R1I4RTNPeURLRFJ3bUE2YlJaQkd1LUY5M0toX3QxYzJYeUp0dkxpM2NJSWRaaGpzNVNBcjQzRVFXQ1VBd0ZEWWhYbmZvQ2FXQ1ZLM0tobHF2T3A3MlpEajRlc05MVHVUbFN5NVpmQjVEQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "20ebd6d95421",
       "title": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’ - De Telegraaf",
-      "published": "2026-04-28T08:09:46+00:00",
+      "published": "2026-04-28T13:30:00+00:00",
       "summary": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZE5JUVBrdXFtVWwtQUtGSjdLUUVaX3FiYzJ5TDVPckZOa3N3bzNuNjVWT2oxZU4ycC1RTzJITDhJcHVYSkpjTHpTMjNQalhfTWxtVk9aM3VVN204R1pWSEVVbmVNUlhDMmZUcUEwUm11c2FwTjlHUmY1QW8tU2xSZkhQQUJmMzh0SVdqWXNsM184WTZlQUprVmpHcHFKZHMxZEhtcVRxem5MZjE3QVBZQnRjZ1BEVnM3VDA5NFJHVTkwRWxQd3ZhMHh6ZzROaVQ0ZWpxdTZ4M0pSd0VfVzFMeDVDWkZFM1U3bmxtaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb3a9359a7ca",
+      "title": "Groot nieuw onderzoek: Eén veelvoorkomende emotie kan je geheugen schaden - wibnet.nl",
+      "published": "2026-04-27T20:00:28+00:00",
+      "summary": "Groot nieuw onderzoek: Eén veelvoorkomende emotie kan je geheugen schaden&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3J0cHRkY2ZLREJ0YUVjUHhZZDJidjFBdHF5VmFYR1ZFbGo0ZGlCS1N5SDcyYjNGdTlyR0lFY2RYY2tCMHJJT2I2WklDeTl4NkZIc1AwZjQ2cDBWWDlUN0pUOFhGRnpORjJ0dlFBSUU2S1JXbUUzbXUzWGlidzA3RDJrMUVTcVh2VFhQQmgzYVFDdldYVlVraFhQWW1QMThtZVdZ?oc=5"
         }
       ]
     }

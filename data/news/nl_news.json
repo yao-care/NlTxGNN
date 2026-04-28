@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-28T13:59:00.004752+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-28T19:28:36.619420+00:00",
+  "count": 3,
   "news": [
     {
       "id": "bca6fa8530e3",
@@ -12,18 +12,6 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME4xaWFMeHFDUVY1V2gwZU1qb3J4aTd2Y3B1ZVFzVkNGQ0xBQ21DNU43R0lrbnJ2RGk0YjBYSHN6VXB0S1hJT0lRSUFvcXJhaHpkNFVrZUNKLUxOcS1OS0tVYm5UU0JOS2p3MkVyZVE5X0NtUkV3MGoycnA0Q2ZuTzI2V1ZZV1VGQnpsMFdYdy03NUFpdTF0dG9HQjBtdF9YVHVaTVk0OGVQSk9rTGpMUXlDSWQ3QlFGZVE4Rk1PUTRIbFNmNl9aX3pjYlAwblZMa2RqVlNKQlFqeFZFUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50c8c3584fe4",
-      "title": "Huisartsen schrikken van een klacht van patiënt, en hebben een totaal andere kijk op de zaak - De Gelderlander",
-      "published": "2026-04-28T01:05:00+00:00",
-      "summary": "Huisartsen schrikken van een klacht van patiënt, en hebben een totaal andere kijk op de zaak&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNelJEY0hMTDFRV0VaMGtTcmNXTDFNOFBHeWJNbTFsRjgwUEJXOXFOUEkyYUlJRWY1d3k0TUNRdG9SUl93eUVQVjVSZVVTRUh5alhvVFZwbXpSLVFDWkRRaEx0TU41bVBDV0M2NW96R1I4RTNPeURLRFJ3bUE2YlJaQkd1LUY5M0toX3QxYzJYeUp0dkxpM2NJSWRaaGpzNVNBcjQzRVFXQ1VBd0ZEWWhYbmZvQ2FXQ1ZLM0tobHF2T3A3MlpEajRlc05MVHVUbFN5NVpmQjVEQQ?oc=5"
         }
       ]
     },

@@ -1,6 +1,19 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-28T02:39:29.026890+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-04-28T08:21:44.738261+00:00",
+  "count": 1,
+  "news": [
+    {
+      "id": "20ebd6d95421",
+      "title": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’ - De Telegraaf",
+      "published": "2026-04-28T08:09:46+00:00",
+      "summary": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZE5JUVBrdXFtVWwtQUtGSjdLUUVaX3FiYzJ5TDVPckZOa3N3bzNuNjVWT2oxZU4ycC1RTzJITDhJcHVYSkpjTHpTMjNQalhfTWxtVk9aM3VVN204R1pWSEVVbmVNUlhDMmZUcUEwUm11c2FwTjlHUmY1QW8tU2xSZkhQQUJmMzh0SVdqWXNsM184WTZlQUprVmpHcHFKZHMxZEhtcVRxem5MZjE3QVBZQnRjZ1BEVnM3VDA5NFJHVTkwRWxQd3ZhMHh6ZzROaVQ0ZWpxdTZ4M0pSd0VfVzFMeDVDWkZFM1U3bmxtaw?oc=5"
+        }
+      ]
+    }
+  ]
 }

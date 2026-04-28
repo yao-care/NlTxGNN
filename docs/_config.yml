@@ -8,7 +8,7 @@ baseurl: ""
 lang: "nl"
 
 # Jekyll theme
-remote_theme: just-the-docs/just-the-docs@v0.10.1
+remote_theme: just-the-docs/just-the-docs
 
 # Plugins
 plugins:

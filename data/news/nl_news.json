@@ -1,12 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-29T08:11:36.924169+00:00",
-  "count": 3,
+  "fetched_at": "2026-04-29T13:49:12.033297+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "f1bceb2d9f80",
+      "title": "Renoveren schimmelwoningen beter voor gezondheid van kinderen, blijkt uit onderzoek: 'Inzetten op betere isolatie en ventilatie' - EenVandaag",
+      "published": "2026-04-29T05:54:02+00:00",
+      "summary": "Renoveren schimmelwoningen beter voor gezondheid van kinderen, blijkt uit onderzoek: 'Inzetten op betere isolatie en ventilatie'&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVTAzbGNKUGpOTmJyb183M3ZqMTZiMENpVnFILWFPOUQ1c1JtRGhmdXRueGVGQ0JKWVFiaU9fdXVZM1EzWGV3VmxhVTVkTm9aWGxNMVVqV2lsY2M2RWFOaXJHMUZUM3FxLTVzdklocm1HYVdZWmNJc0pZbWd3NUotaVFmTzFWOVBZSHRsMWJKQkZ5LVEzS3dhN1ZmVFhkRzZOeEl2RGIxS0VObnBLWTVxMTZxYzR0VDRHVUVfNExRNFBxU2VwaHplLUNWbnp0WXBiSkhlejZCUGRESFZQVzloUXQ5N0U2bFhLblpqblhRTWxneWktVWRUYWViUEdYaWg4eXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "9431cc5c3060",
       "title": "Je kunt er maar beter vroeg genoeg bij zijn: deze 10 alarmsignalen kunnen op kanker wijzen - De Telegraaf",
-      "published": "2026-04-29T07:20:04+00:00",
+      "published": "2026-04-29T13:00:00+00:00",
       "summary": "Je kunt er maar beter vroeg genoeg bij zijn: deze 10 alarmsignalen kunnen op kanker wijzen&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "cb3a9359a7ca",
-      "title": "Groot nieuw onderzoek: Eén veelvoorkomende emotie kan je geheugen schaden - wibnet.nl",
-      "published": "2026-04-27T20:00:28+00:00",
-      "summary": "Groot nieuw onderzoek: Eén veelvoorkomende emotie kan je geheugen schaden&nbsp;&nbsp;wibnet.nl",
+      "id": "f165345b38ad",
+      "title": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud - Het Parool",
+      "published": "2026-04-29T01:00:00+00:00",
+      "summary": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud&nbsp;&nbsp;Het ParoolEinde berkenpollenseizoen en graspollenseizoen begint&nbsp;&nbsp;Nature TodayHooikoortsseizoen van start&nbsp;&nbsp;xon | 1 vallei",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3J0cHRkY2ZLREJ0YUVjUHhZZDJidjFBdHF5VmFYR1ZFbGo0ZGlCS1N5SDcyYjNGdTlyR0lFY2RYY2tCMHJJT2I2WklDeTl4NkZIc1AwZjQ2cDBWWDlUN0pUOFhGRnpORjJ0dlFBSUU2S1JXbUUzbXUzWGlidzA3RDJrMUVTcVh2VFhQQmgzYVFDdldYVlVraFhQWW1QMThtZVdZ?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjg5ckE3QnJBY1VYVTlzUWhJOG1KSDBkRjVDWUl6M0lGX25BZXIxLTQtRXRKZ0hHRjdFN0VUNVlVY0NkTC1BekJtWkJfMzlqY05ULXFBVmRYR0tjNnNsSTVLM1h4ZGVxc2pTNV9tdkJpbmtwLWNoeTQyWW5oUlZjeXJjNEcxdXJLYmVuLUdiSHdjdm5hTEtyTEVsR21UNEMwenR6aDJKcFlWei0zQUJUQmZhVHdDak5uM3gzVTk0ZTdEMmdIQ0dKMFFkYjVZc1dRdU1fSU1mOFJQcnd2cVFuaVZKd1FZZGZXbWktUGN6UQ?oc=5"
         }
       ]
     }

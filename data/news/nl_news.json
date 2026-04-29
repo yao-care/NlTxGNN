@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-29T02:39:28.061153+00:00",
+  "fetched_at": "2026-04-29T08:11:36.924169+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "9431cc5c3060",
+      "title": "Je kunt er maar beter vroeg genoeg bij zijn: deze 10 alarmsignalen kunnen op kanker wijzen - De Telegraaf",
+      "published": "2026-04-29T07:20:04+00:00",
+      "summary": "Je kunt er maar beter vroeg genoeg bij zijn: deze 10 alarmsignalen kunnen op kanker wijzen&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1liUTBMN2JxdHV1S0tDVDJZc2I2ZlJUYkx2ME1RT3VlRF81TGRHNVVlRmIxanQ1YW5qajc2U0tEQXRFX1c4eExZTDJNUVhnWHE3and4dENWNHN2bUUybjZIZl8xMzZwVEtKSlZSSFVSSXBhT21vVVJSZk1yRkpaSldkeEFGZXRiZWpSX2xzVGVxcDQ4dkk3bUpqNGFQcExEa3ZoelB2RTVQNGdncjRpc1R4TmJwZ0htWGZEUEc3czF3dGlRVWJiWW1GbnVWRW5YamhEVDVING5fLVBOYnVVSFdQLWY?oc=5"
+        }
+      ]
+    },
     {
       "id": "bca6fa8530e3",
       "title": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af - NRC",
@@ -12,18 +24,6 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME4xaWFMeHFDUVY1V2gwZU1qb3J4aTd2Y3B1ZVFzVkNGQ0xBQ21DNU43R0lrbnJ2RGk0YjBYSHN6VXB0S1hJT0lRSUFvcXJhaHpkNFVrZUNKLUxOcS1OS0tVYm5UU0JOS2p3MkVyZVE5X0NtUkV3MGoycnA0Q2ZuTzI2V1ZZV1VGQnpsMFdYdy03NUFpdTF0dG9HQjBtdF9YVHVaTVk0OGVQSk9rTGpMUXlDSWQ3QlFGZVE4Rk1PUTRIbFNmNl9aX3pjYlAwblZMa2RqVlNKQlFqeFZFUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20ebd6d95421",
-      "title": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’ - De Telegraaf",
-      "published": "2026-04-28T06:30:00+00:00",
-      "summary": "Expert wijst op risico gezondheidsapps, van stappenteller tot patiëntenportaal: ’Begeleiding nodig’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZE5JUVBrdXFtVWwtQUtGSjdLUUVaX3FiYzJ5TDVPckZOa3N3bzNuNjVWT2oxZU4ycC1RTzJITDhJcHVYSkpjTHpTMjNQalhfTWxtVk9aM3VVN204R1pWSEVVbmVNUlhDMmZUcUEwUm11c2FwTjlHUmY1QW8tU2xSZkhQQUJmMzh0SVdqWXNsM184WTZlQUprVmpHcHFKZHMxZEhtcVRxem5MZjE3QVBZQnRjZ1BEVnM3VDA5NFJHVTkwRWxQd3ZhMHh6ZzROaVQ0ZWpxdTZ4M0pSd0VfVzFMeDVDWkZFM1U3bmxtaw?oc=5"
         }
       ]
     },

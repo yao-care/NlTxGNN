@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-30T13:48:16.930510+00:00",
-  "count": 7,
+  "fetched_at": "2026-04-30T19:16:17.519856+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "d94444d4f9eb",
-      "title": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand - Eindhovens Dagblad",
-      "published": "2026-04-29T23:40:00+00:00",
-      "summary": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens DagbladHelmondse 'coach' beweert dat kwark en lijnzaadolie beter is dan chemo&nbsp;&nbsp;Omroep Brabant‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaKandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpatiënt",
+      "id": "27efa4c5f0d7",
+      "title": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument' - WNL",
+      "published": "2026-04-29T08:26:30+00:00",
+      "summary": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument'&nbsp;&nbsp;WNLDit moet je weten (en niet vergeten) als je zonnebrandcrème koopt én smeert&nbsp;&nbsp;RTL.nlLentezon verraderlijk: zo bescherm je je huid goed&nbsp;&nbsp;Hart van NederlandDe zon is niet de enige oorzaak van huidkanker: waarvoor moet u uitkijken?&nbsp;&nbsp;KnackGenieten van de zon, zonder de gevolgen van morgen&nbsp;&nbsp;FranekerActueel",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmstYTBpUUc0aktiT3BCRFA4VEFaMkU0Sl9LVDc3TS1FdW1TNTBRbGk5T1g1MEY2LTJBODJPek4zY1l4dW5YYTl3TVVLdHlWZFVHQ0lBd012cHc2dDVWVFc4NmJvSmxLYVZBUGhjaW9YU0ZTVW9PSWhRTWZlUllxaHNTOHpGa05DMkNmcnY0c1NwN0l3NUFUZGNUWjlveFFxYmcxenlfblNzMVJmU1N3aE5DaUdLeENFbzhmRHg1NEp1cVQ4T3dRcVBsYmNlelZ5NmVJ?oc=5"
+          "name": "WNL",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUd6Nkt1Yk9XbDRjcEpwOEU5VVlBbm1oQ09yaDBrQ2NpVHhVVmNlR1FiYjNUVm0wdW84V3hBR0k3OXA2c0x3ZWxzajlHTW1UQnBjTXExY3JqMTRraE5wUUtfekMwN2UwRE9FOHZKbnNiTm1QN2l2ZWVIQjRVcnQxN1ZVUDl3Q19TbVJjNElLS0stS0xONjBGOU55WDdWU1EtdllWb1JDdjZMZWlNdjQ1dHI4T1FSWEZhSl8yNk8yYmJmQkE0ZmR2SlNscDhFYjlrbV82MnlCWGN2VWxnYlZHV2hlZWVuTENfM2dlZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfac9ef00ffe",
+      "title": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand - De Gelderlander",
+      "published": "2026-04-29T23:40:00+00:00",
+      "summary": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;De GelderlanderHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeW82Zm1NOGlCNXNaUGJRZW1kYVp0eUJNelpfZncxVEk4dnQ1REZKdEpNaHEtYnVjVjZQNTFraFdUamZTZk1WUGFpajU2TmhGX3F5NmNHdll6dS02M1hHVlJNcEtPOFRiUTVxY1A0TjhxTTRTdHpmRUlFbWRwbFd5OGhPbEtEdWh4UExESlN3aElfeUlpQ0Y5NXE1OTNtR28xc1JNRF9lVGdoNWZ5aDJ0UVZDaS14NnBEcDI2LWp4VjVnNy1uVEVEcUlTbmJNTVR2RnYtUjRUX0p5R0trVE5Fdl9qZw?oc=5"
         }
       ]
     },
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "27efa4c5f0d7",
-      "title": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument' - WNL",
-      "published": "2026-04-29T08:26:30+00:00",
-      "summary": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument'&nbsp;&nbsp;WNLDe zon is niet de enige oorzaak van huidkanker: waarvoor moet u uitkijken?&nbsp;&nbsp;KnackGenieten van de zon, zonder de gevolgen van morgen&nbsp;&nbsp;FranekerActueelNieuwe campagne Zuid-Limburg: ‘Geniet, maar verbrand niet’&nbsp;&nbsp;assistentensite.nlWind maskeert zonkracht - UV-index: lentezon vraagt om bescherming&nbsp;&nbsp;Weer en Radar NL",
-      "sources": [
-        {
-          "name": "WNL",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUd6Nkt1Yk9XbDRjcEpwOEU5VVlBbm1oQ09yaDBrQ2NpVHhVVmNlR1FiYjNUVm0wdW84V3hBR0k3OXA2c0x3ZWxzajlHTW1UQnBjTXExY3JqMTRraE5wUUtfekMwN2UwRE9FOHZKbnNiTm1QN2l2ZWVIQjRVcnQxN1ZVUDl3Q19TbVJjNElLS0stS0xONjBGOU55WDdWU1EtdllWb1JDdjZMZWlNdjQ1dHI4T1FSWEZhSl8yNk8yYmJmQkE0ZmR2SlNscDhFYjlrbV82MnlCWGN2VWxnYlZHV2hlZWVuTENfM2dlZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2917d22852d3",
       "title": "Je kunt er maar beter vroeg bij zijn: deze 10 alarmsignalen kunnen op kanker wijzen - Noordhollands Dagblad",
       "published": "2026-04-29T09:11:54+00:00",
@@ -48,18 +48,6 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTJxVHZnbDVBUElQZzgtTXZUYk1oN0xLVlpROHoxMXVOdlpVNlA1QmUxYzd5cjhFc012MnR0dHlEeWRkd0lSMUZQVGNFNWx3QXd4cC1tWUdhekxOa1h4RWhFYWg1VndaU2Z1ZXlQX3hDYnNSV09JS0lic3YzRFUwMldHa3pFV1JCcFNNcnZPSzNxY2V0LVJocTdMTUppNEgzVHJxdU1va2xNeUxqX3dCMWJiSWoxTVNoc2VqQmFhTXhxaXY1TkVUV2kzYjFkQVI0TS14QnFmV3otTGtf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f165345b38ad",
-      "title": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud - Het Parool",
-      "published": "2026-04-29T01:00:00+00:00",
-      "summary": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud&nbsp;&nbsp;Het Parool",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjg5ckE3QnJBY1VYVTlzUWhJOG1KSDBkRjVDWUl6M0lGX25BZXIxLTQtRXRKZ0hHRjdFN0VUNVlVY0NkTC1BekJtWkJfMzlqY05ULXFBVmRYR0tjNnNsSTVLM1h4ZGVxc2pTNV9tdkJpbmtwLWNoeTQyWW5oUlZjeXJjNEcxdXJLYmVuLUdiSHdjdm5hTEtyTEVsR21UNEMwenR6aDJKcFlWei0zQUJUQmZhVHdDak5uM3gzVTk0ZTdEMmdIQ0dKMFFkYjVZc1dRdU1fSU1mOFJQcnd2cVFuaVZKd1FZZGZXbWktUGN6UQ?oc=5"
         }
       ]
     },

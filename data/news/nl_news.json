@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-30T02:40:20.574307+00:00",
-  "count": 4,
+  "fetched_at": "2026-04-30T08:16:15.349152+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "5595246ae4e8",
+      "title": "‘Met onze gezondheid raken we langzaam terug in de middeleeuwen’, zegt arts en hoogleraar Schelto Kruijff - Dagblad van het Noorden",
+      "published": "2026-04-29T17:41:00+00:00",
+      "summary": "‘Met onze gezondheid raken we langzaam terug in de middeleeuwen’, zegt arts en hoogleraar Schelto Kruijff&nbsp;&nbsp;Dagblad van het NoordenHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Dagblad van het Noorden",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmh4S3NpRW90UnFJNXJrX1QwdjNlaEhwVWpMR1JjWmFrbEdQRGN4Z1JfaXA4Vm1Fc2RSS2IzVUVDRVd5c0ZDWS1ZM0daRkpTS3lVTmNNb1VNeDJsaXF3YTIzZlpwTDJPQUNYdjU1NlhVdWVhVTNWN3dkYlVBNFIyekYtOURtV1pxMU1kRGZfTkNzeVBqQnV3T3UtUllSRGM3a0JIbXZ5Mk9QU0V4djFDVVNqRkxPaGtNMG1SbGQ0T0pTeWtkbnFVazlzd1ZyWUhIYWNDYld2Rk0xQ1Fp?oc=5"
+        }
+      ]
+    },
     {
       "id": "bca6fa8530e3",
       "title": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af - NRC",
@@ -12,6 +24,18 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME4xaWFMeHFDUVY1V2gwZU1qb3J4aTd2Y3B1ZVFzVkNGQ0xBQ21DNU43R0lrbnJ2RGk0YjBYSHN6VXB0S1hJT0lRSUFvcXJhaHpkNFVrZUNKLUxOcS1OS0tVYm5UU0JOS2p3MkVyZVE5X0NtUkV3MGoycnA0Q2ZuTzI2V1ZZV1VGQnpsMFdYdy03NUFpdTF0dG9HQjBtdF9YVHVaTVk0OGVQSk9rTGpMUXlDSWQ3QlFGZVE4Rk1PUTRIbFNmNl9aX3pjYlAwblZMa2RqVlNKQlFqeFZFUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9867d2d30b08",
+      "title": "Wetenschappers ontdoen kankercellen van hun vermomming met behulp van geluidsgolven - de Volkskrant",
+      "published": "2026-04-29T03:00:16+00:00",
+      "summary": "Wetenschappers ontdoen kankercellen van hun vermomming met behulp van geluidsgolven&nbsp;&nbsp;de VolkskrantNieuwe hoop bij uitgezaaide kanker: ultrageluid maakt immuuntherapie effectiever&nbsp;&nbsp;bnr.nlGeluid als wapen tegen kanker: met deze nieuwe immuuntherapie wil UMC Utrecht de ziekte bestrijden&nbsp;&nbsp;EWmagazine.nl",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2ZWRno0M0RtRTZQRHR6LWVwb3Z4aW0xd3k3bkJZZGRUc05nVGlrT3c4MTJPdE8tR3RScXBUd3lnUEZ2aHd3QlNJZmdsV1RuMTdxUzg4Y0FoTEVveHhSV2sxNTEtR2Z5U2l1UGc5YVhhYjJ3a0kwN3ZMTjdmRzV0WTJaWGViRktaSUpvWFZkaHFDeEFXTnQtNnRrejFCWjZ4RFkzX056dHVpVmtEWnVER1czSGZURDVTWlpLOFc0MXdJTUluOTJOQTJR?oc=5"
         }
       ]
     },
@@ -31,11 +55,23 @@
       "id": "f165345b38ad",
       "title": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud - Het Parool",
       "published": "2026-04-29T01:00:00+00:00",
-      "summary": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud&nbsp;&nbsp;Het ParoolEinde berkenpollenseizoen en graspollenseizoen begint&nbsp;&nbsp;Nature TodayHooikoortsseizoen van start&nbsp;&nbsp;xon | 1 vallei",
+      "summary": "Deze arts zag zelden kinderen jonger dan 6 langskomen met hooikoorts – nu ziet hij zelfs kinderen van 2 of 3 jaar oud&nbsp;&nbsp;Het Parool",
       "sources": [
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjg5ckE3QnJBY1VYVTlzUWhJOG1KSDBkRjVDWUl6M0lGX25BZXIxLTQtRXRKZ0hHRjdFN0VUNVlVY0NkTC1BekJtWkJfMzlqY05ULXFBVmRYR0tjNnNsSTVLM1h4ZGVxc2pTNV9tdkJpbmtwLWNoeTQyWW5oUlZjeXJjNEcxdXJLYmVuLUdiSHdjdm5hTEtyTEVsR21UNEMwenR6aDJKcFlWei0zQUJUQmZhVHdDak5uM3gzVTk0ZTdEMmdIQ0dKMFFkYjVZc1dRdU1fSU1mOFJQcnd2cVFuaVZKd1FZZGZXbWktUGN6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b522bd26c8d",
+      "title": "Joppe (7) leeft met de vlinderziekte: studenten organiseren padeltoernooi - Omroep Venlo",
+      "published": "2026-04-29T15:03:52+00:00",
+      "summary": "Joppe (7) leeft met de vlinderziekte: studenten organiseren padeltoernooi&nbsp;&nbsp;Omroep Venlo",
+      "sources": [
+        {
+          "name": "Omroep Venlo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXUxZWRwQlNTa0lhNXJ6QkFlMV9LQlZicUcxb01xaHRaR1dBTGtkdmFKb2E4RGZJZFFuZ0RhNER3V3NkdlBaOXAxdV9tc2lxejVjU1d1b052cWxRemFEaUZVYnItYm1iS2wya2R1Y0paeVN6dDdTY25aQUVwMjljOTcwU0RlUDV6enJaaU5wMmZWVWVvM0E?oc=5"
         }
       ]
     },

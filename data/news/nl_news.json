@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-30T08:16:15.349152+00:00",
+  "fetched_at": "2026-04-30T13:48:16.930510+00:00",
   "count": 7,
   "news": [
+    {
+      "id": "d94444d4f9eb",
+      "title": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand - Eindhovens Dagblad",
+      "published": "2026-04-29T23:40:00+00:00",
+      "summary": "Ophef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens DagbladHelmondse 'coach' beweert dat kwark en lijnzaadolie beter is dan chemo&nbsp;&nbsp;Omroep Brabant‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaKandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpatiënt",
+      "sources": [
+        {
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmstYTBpUUc0aktiT3BCRFA4VEFaMkU0Sl9LVDc3TS1FdW1TNTBRbGk5T1g1MEY2LTJBODJPek4zY1l4dW5YYTl3TVVLdHlWZFVHQ0lBd012cHc2dDVWVFc4NmJvSmxLYVZBUGhjaW9YU0ZTVW9PSWhRTWZlUllxaHNTOHpGa05DMkNmcnY0c1NwN0l3NUFUZGNUWjlveFFxYmcxenlfblNzMVJmU1N3aE5DaUdLeENFbzhmRHg1NEp1cVQ4T3dRcVBsYmNlelZ5NmVJ?oc=5"
+        }
+      ]
+    },
     {
       "id": "5595246ae4e8",
       "title": "‘Met onze gezondheid raken we langzaam terug in de middeleeuwen’, zegt arts en hoogleraar Schelto Kruijff - Dagblad van het Noorden",
@@ -16,26 +28,14 @@
       ]
     },
     {
-      "id": "bca6fa8530e3",
-      "title": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af - NRC",
-      "published": "2026-04-28T09:05:11+00:00",
-      "summary": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af&nbsp;&nbsp;NRCKans op nieuwe hersenbloeding verkleint door combinatiepil tegen hoge bloeddruk&nbsp;&nbsp;ZorgKrant.nlKans op nieuwe beroerte na hersenbloeding stuk kleiner door één pil, bewijst nieuw onderzoek&nbsp;&nbsp;AD.nlKleinere kans op nieuwe hersenbloeding bij combinatiepil tegen hoge bloeddruk&nbsp;&nbsp;Nationale Zorggids",
+      "id": "27efa4c5f0d7",
+      "title": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument' - WNL",
+      "published": "2026-04-29T08:26:30+00:00",
+      "summary": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument'&nbsp;&nbsp;WNLDe zon is niet de enige oorzaak van huidkanker: waarvoor moet u uitkijken?&nbsp;&nbsp;KnackGenieten van de zon, zonder de gevolgen van morgen&nbsp;&nbsp;FranekerActueelNieuwe campagne Zuid-Limburg: ‘Geniet, maar verbrand niet’&nbsp;&nbsp;assistentensite.nlWind maskeert zonkracht - UV-index: lentezon vraagt om bescherming&nbsp;&nbsp;Weer en Radar NL",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME4xaWFMeHFDUVY1V2gwZU1qb3J4aTd2Y3B1ZVFzVkNGQ0xBQ21DNU43R0lrbnJ2RGk0YjBYSHN6VXB0S1hJT0lRSUFvcXJhaHpkNFVrZUNKLUxOcS1OS0tVYm5UU0JOS2p3MkVyZVE5X0NtUkV3MGoycnA0Q2ZuTzI2V1ZZV1VGQnpsMFdYdy03NUFpdTF0dG9HQjBtdF9YVHVaTVk0OGVQSk9rTGpMUXlDSWQ3QlFGZVE4Rk1PUTRIbFNmNl9aX3pjYlAwblZMa2RqVlNKQlFqeFZFUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9867d2d30b08",
-      "title": "Wetenschappers ontdoen kankercellen van hun vermomming met behulp van geluidsgolven - de Volkskrant",
-      "published": "2026-04-29T03:00:16+00:00",
-      "summary": "Wetenschappers ontdoen kankercellen van hun vermomming met behulp van geluidsgolven&nbsp;&nbsp;de VolkskrantNieuwe hoop bij uitgezaaide kanker: ultrageluid maakt immuuntherapie effectiever&nbsp;&nbsp;bnr.nlGeluid als wapen tegen kanker: met deze nieuwe immuuntherapie wil UMC Utrecht de ziekte bestrijden&nbsp;&nbsp;EWmagazine.nl",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2ZWRno0M0RtRTZQRHR6LWVwb3Z4aW0xd3k3bkJZZGRUc05nVGlrT3c4MTJPdE8tR3RScXBUd3lnUEZ2aHd3QlNJZmdsV1RuMTdxUzg4Y0FoTEVveHhSV2sxNTEtR2Z5U2l1UGc5YVhhYjJ3a0kwN3ZMTjdmRzV0WTJaWGViRktaSUpvWFZkaHFDeEFXTnQtNnRrejFCWjZ4RFkzX056dHVpVmtEWnVER1czSGZURDVTWlpLOFc0MXdJTUluOTJOQTJR?oc=5"
+          "name": "WNL",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUd6Nkt1Yk9XbDRjcEpwOEU5VVlBbm1oQ09yaDBrQ2NpVHhVVmNlR1FiYjNUVm0wdW84V3hBR0k3OXA2c0x3ZWxzajlHTW1UQnBjTXExY3JqMTRraE5wUUtfekMwN2UwRE9FOHZKbnNiTm1QN2l2ZWVIQjRVcnQxN1ZVUDl3Q19TbVJjNElLS0stS0xONjBGOU55WDdWU1EtdllWb1JDdjZMZWlNdjQ1dHI4T1FSWEZhSl8yNk8yYmJmQkE0ZmR2SlNscDhFYjlrbV82MnlCWGN2VWxnYlZHV2hlZWVuTENfM2dlZw?oc=5"
         }
       ]
     },

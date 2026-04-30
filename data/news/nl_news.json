@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-04-29T19:20:38.672833+00:00",
+  "fetched_at": "2026-04-30T02:40:20.574307+00:00",
   "count": 4,
   "news": [
-    {
-      "id": "43df2797c8cf",
-      "title": "Kandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpatiënten chemotherapie ontraadt - bnnvara",
-      "published": "2026-04-29T08:46:06+00:00",
-      "summary": "Kandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpatiënten chemotherapie ontraadt&nbsp;&nbsp;bnnvaraHelmondse 'coach' beweert dat kwark en lijnzaadolie beter is dan chemo&nbsp;&nbsp;Omroep BrabantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS Eva",
-      "sources": [
-        {
-          "name": "bnnvara",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazd3QUJNOUU5azYxbWsydTlZYVU3eVh6Y3d2cHJ3cGt5NW1fdlVlbk83dm4tUkhpV3FZTmpYWEZwLTVjLUNQTXZXYWNpMEdNWktlWW1LLXFqMHRCYm9jODNIb1lUcHkyb3Y4QjN5SldvUU0wclYzQTk1VlVHMmtJYXcwaDZOdnRkcDFWdkVYanNyOE0yUEIyNVNNb1JXLUoxZjVYbGZvclEzSHNuXzFTUzhuT1B1LTU3cGxLWHdxb09vNVlGYUt3V1pqNA?oc=5"
-        }
-      ]
-    },
     {
       "id": "bca6fa8530e3",
       "title": "Houd na een hersenbloeding de bloeddruk laag en de kans op een nieuwe beroerte neemt aanzienlijk af - NRC",
@@ -48,6 +36,18 @@
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjg5ckE3QnJBY1VYVTlzUWhJOG1KSDBkRjVDWUl6M0lGX25BZXIxLTQtRXRKZ0hHRjdFN0VUNVlVY0NkTC1BekJtWkJfMzlqY05ULXFBVmRYR0tjNnNsSTVLM1h4ZGVxc2pTNV9tdkJpbmtwLWNoeTQyWW5oUlZjeXJjNEcxdXJLYmVuLUdiSHdjdm5hTEtyTEVsR21UNEMwenR6aDJKcFlWei0zQUJUQmZhVHdDak5uM3gzVTk0ZTdEMmdIQ0dKMFFkYjVZc1dRdU1fSU1mOFJQcnd2cVFuaVZKd1FZZGZXbWktUGN6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "790707cdbbad",
+      "title": "Cardioloog legt uit: Waarom sommige leefstijlfactoren je hart sneller beschadigen dan je denkt - Libelle",
+      "published": "2026-04-29T09:33:39+00:00",
+      "summary": "Cardioloog legt uit: Waarom sommige leefstijlfactoren je hart sneller beschadigen dan je denkt&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkxzdXBCWkVkZWllR08yU2VETGpVeXREZ0wyWXNRbjNSN2pYdktwZ0NLd0h6c0phcHNvN25icEFkZThUYW9kNlNESHk1QlctSWlFOE9yZDd3Qm0zb1ZvZEQwbkdhZEdKQzc3emJhT2pxOThlMl84dFo1eU1wYl9sOXJIQy03N1FRWnNpY2hobVN5MUxQWWM5RXp4NkRUZHBLbVVLemFkeTd2RnpMYjFGRTdJbnRHQkdYdmNvNk5FcF9NZnhTUVB1UkM1Y21YeHRmc1pQaG53?oc=5"
         }
       ]
     }

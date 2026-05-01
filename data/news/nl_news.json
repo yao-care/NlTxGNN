@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-01T02:46:49.749132+00:00",
+  "fetched_at": "2026-05-01T08:08:13.916975+00:00",
   "count": 6,
   "news": [
     {
-      "id": "27efa4c5f0d7",
-      "title": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument' - WNL",
-      "published": "2026-04-29T08:26:30+00:00",
-      "summary": "Pas op met zonnen, waarschuwt dermatoloog: 'Fabrieksmaat zonnebrand niet goed vertaald naar consument'&nbsp;&nbsp;WNLDit moet je weten (en niet vergeten) als je zonnebrandcrème koopt én smeert&nbsp;&nbsp;RTL.nl'Lentezon' verraderlijk: zo bescherm je je huid goed&nbsp;&nbsp;Hart van NederlandDe zon is niet de enige oorzaak van huidkanker: waarvoor moet u uitkijken?&nbsp;&nbsp;KnackGenieten van de zon, zonder de gevolgen van morgen&nbsp;&nbsp;FranekerActueel",
+      "id": "e206c0bd3c9c",
+      "title": "Helmondse coach raadt chemo af, ook deze behandelingen raakten in opspraak - Omroep Brabant",
+      "published": "2026-04-30T17:00:38+00:00",
+      "summary": "Helmondse coach raadt chemo af, ook deze behandelingen raakten in opspraak&nbsp;&nbsp;Omroep Brabant‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaKandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpatiënten chemotherapie ontraadt&nbsp;&nbsp;bnnvaraBOOS ontmaskert gezondheidscoach die claimt dat kwark kanker geneest&nbsp;&nbsp;Nati",
       "sources": [
         {
-          "name": "WNL",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUd6Nkt1Yk9XbDRjcEpwOEU5VVlBbm1oQ09yaDBrQ2NpVHhVVmNlR1FiYjNUVm0wdW84V3hBR0k3OXA2c0x3ZWxzajlHTW1UQnBjTXExY3JqMTRraE5wUUtfekMwN2UwRE9FOHZKbnNiTm1QN2l2ZWVIQjRVcnQxN1ZVUDl3Q19TbVJjNElLS0stS0xONjBGOU55WDdWU1EtdllWb1JDdjZMZWlNdjQ1dHI4T1FSWEZhSl8yNk8yYmJmQkE0ZmR2SlNscDhFYjlrbV82MnlCWGN2VWxnYlZHV2hlZWVuTENfM2dlZw?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkNvb0lqRzhLY0lNbmlfSlVibkxyWF9aaGI4ZVp5REt4ZTdpQnduWmxEX1ByN2RxNDIzTzVxTnpFQ1JiWWwyUVA4Unl6dXgwRG1NbU81OS10WU5xamd0M1h1ZjMySWZGa0RYZ2NnMi05elIzZEpFVFoxZmdoS1FMYXpEOGJ1WkpzUGxNckpxaERpT3htc3l1U1hmUWt6Um9OUWV5Tjk1WUJvVExpQWlRUmRmME43Q1No?oc=5"
         }
       ]
     },
@@ -24,6 +24,18 @@
         {
           "name": "De Nieuwe Ster Maastricht",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjZKa3Z3MmVHTDNKS01kVnBPOHN2SDd1XzJrREVyQlktTTBfSm5QNnkwLVctYmoyOGE3WUVrYnRBRmVtQ2cyQ1VCVGtaN2Vidy00NmRRWDVPQnJ6ZU9yTVU3VlFnSExnd2pvZ1FtS05sYWZYQ1RiRG0yWUNyZW5yZ1hnZlV6UGozTWF4dXljWncxcHVVY2NXSHJLa3p5bkMz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26520ffdb5ed",
+      "title": "GGD: Geen aanwijzingen voor hogere kans op longkanker in Noord door industrie - AT5",
+      "published": "2026-04-30T10:17:00+00:00",
+      "summary": "GGD: Geen aanwijzingen voor hogere kans op longkanker in Noord door industrie&nbsp;&nbsp;AT5",
+      "sources": [
+        {
+          "name": "AT5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUhEYUNpdTl2QWFHd092Y2tRUy1tOVhheHFPdk13X28xNndQQkVKdmRQYm83bHNGSTBTajZkNk9FQmJXTmYzSmtRNm9vSVQ0R2s0eTZHdVg5Q3hiT25DclBoMm96RFI3NWJBQ242V3ZMX0kzNndLUW5XSW5fVndZNGY2V0k0YkRlWXp5eVpjbXBRY3FuQ2RQV1pwZGZuU2pPLXBiTTB2MmNiVjd1RVpHNC1n?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTJxVHZnbDVBUElQZzgtTXZUYk1oN0xLVlpROHoxMXVOdlpVNlA1QmUxYzd5cjhFc012MnR0dHlEeWRkd0lSMUZQVGNFNWx3QXd4cC1tWUdhekxOa1h4RWhFYWg1VndaU2Z1ZXlQX3hDYnNSV09JS0lic3YzRFUwMldHa3pFV1JCcFNNcnZPSzNxY2V0LVJocTdMTUppNEgzVHJxdU1va2xNeUxqX3dCMWJiSWoxTVNoc2VqQmFhTXhxaXY1TkVUV2kzYjFkQVI0TS14QnFmV3otTGtf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b522bd26c8d",
-      "title": "Joppe (7) leeft met de vlinderziekte: studenten organiseren padeltoernooi - Omroep Venlo",
-      "published": "2026-04-29T15:03:52+00:00",
-      "summary": "Joppe (7) leeft met de vlinderziekte: studenten organiseren padeltoernooi&nbsp;&nbsp;Omroep Venlo",
-      "sources": [
-        {
-          "name": "Omroep Venlo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXUxZWRwQlNTa0lhNXJ6QkFlMV9LQlZicUcxb01xaHRaR1dBTGtkdmFKb2E4RGZJZFFuZ0RhNER3V3NkdlBaOXAxdV9tc2lxejVjU1d1b052cWxRemFEaUZVYnItYm1iS2wya2R1Y0paeVN6dDdTY25aQUVwMjljOTcwU0RlUDV6enJaaU5wMmZWVWVvM0E?oc=5"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-01T19:07:46.846669+00:00",
-  "count": 2,
+  "fetched_at": "2026-05-02T02:29:16.074580+00:00",
+  "count": 3,
   "news": [
     {
       "id": "e206c0bd3c9c",
@@ -24,6 +24,18 @@
         {
           "name": "De Nieuwe Ster Maastricht",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjZKa3Z3MmVHTDNKS01kVnBPOHN2SDd1XzJrREVyQlktTTBfSm5QNnkwLVctYmoyOGE3WUVrYnRBRmVtQ2cyQ1VCVGtaN2Vidy00NmRRWDVPQnJ6ZU9yTVU3VlFnSExnd2pvZ1FtS05sYWZYQ1RiRG0yWUNyZW5yZ1hnZlV6UGozTWF4dXljWncxcHVVY2NXSHJLa3p5bkMz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7745e4ba84bf",
+      "title": "Besmettelijke longziekte terug aan opmars bezig in ons land - Redactie24",
+      "published": "2026-05-01T19:30:00+00:00",
+      "summary": "Besmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2xwcFdkUFVYWVBLR0VqYTloeEE5Y3d0OGs3cW5WRnZfdHd4clRNU29naUUxTlVTMlpkM0pKbEJDOGs3LUxiRlYtWkMyYmx3UDlIY1RVT0xubWFtTENpUXNzaXhCUm5GOEw0U0lnRnFGRjhzYVJpV29HcjlfN1BQWXdKY0hZNlhBZU0xOUNKWjhJSlFVN1JPcGJsOTjSAaIBQVVfeXFMTWUxei1lOGdJOHNVMTY1RVBETlN1Y3BhMWlfNjlkUEpVNjJtd1ZGTWI3aEc0R3lRVzBkSG1yLVVIdHhjUFhHSWFrdld6NzFvYnlqQmpEN3UtQzZLeXM5XzAtQmtUSlUwQlRROVdzeUVUWFZKZmFvS0ZIYWxfOUUxbFVNOEdGRWVESGpOR0k4RkJSYlVVcmVhbHMwbzRqYzN6V0FR?oc=5"
         }
       ]
     }

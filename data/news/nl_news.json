@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-02T13:04:14.311846+00:00",
-  "count": 1,
+  "fetched_at": "2026-05-02T18:55:19.773051+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "7f2f220a6205",
+      "title": "Niet genoeg geld voor vrouwengezondheid, waarschuwen artsen: 'Er zijn alleen maar plannen' - RTL.nl",
+      "published": "2026-05-02T13:05:49+00:00",
+      "summary": "Niet genoeg geld voor vrouwengezondheid, waarschuwen artsen: 'Er zijn alleen maar plannen'&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmJ3b1dCX1ZhYU1LZVdNUms0WDNWOGN2ZTZMSEI4S3ZMMDZKMUgyLUNsSFoxTU13UHZ0WGdnRjQxaGRFVmF0RGFJZEpFbEdYalBiM0tfVGw3MkZxVnllTmsxNlBGRExsVHlNR0YtUmlUeUg2em9vZ1ZVUHNWMzR3RzdOYmtqelp0bjl0NU9tMEU1MHg1SVBLMTVBekVXdlpPV0s5b0RtcHo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "875051b32c12",
+      "title": "FvD Helmond neemt afstand van discutabele 'coach' die op kieslijst stond - Omroep Brabant",
+      "published": "2026-05-02T07:55:23+00:00",
+      "summary": "FvD Helmond neemt afstand van discutabele 'coach' die op kieslijst stond&nbsp;&nbsp;Omroep BrabantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaOphef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens Dagblad‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantBOOS ontmaskert gezondheidscoach die claimt dat kwark kanker genee",
+      "sources": [
+        {
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmxJQklBTm9RTlpNZThQOUt2TjJVNjEtNFc5NGs3SW9wZEtuQ1RkNjN0YXlwbTBMNTBtZExBVnRXS0pwajd0R0NNTkFBSEdJbjdtdzgtVXduQ2o3OGE0YlZ6bFZycm9CSUdvSDQxSUZlR0xwZnlxYkVXcW5IUHpScU1BLXNMclVVcGhHVmhlVFJUWFBWWG1YRzVsR0JsRl8wdTJuSl82czF1Y1VZRmJKSUZUb3Q?oc=5"
+        }
+      ]
+    },
     {
       "id": "7745e4ba84bf",
       "title": "Besmettelijke longziekte terug aan opmars bezig in ons land - Redactie24",

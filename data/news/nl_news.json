@@ -1,32 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-02T07:28:32.333134+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-02T13:04:14.311846+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "e206c0bd3c9c",
-      "title": "Helmondse coach raadt chemo af, ook deze behandelingen raakten in opspraak - Omroep Brabant",
-      "published": "2026-04-30T17:00:38+00:00",
-      "summary": "Helmondse coach raadt chemo af, ook deze behandelingen raakten in opspraak&nbsp;&nbsp;Omroep BrabantOphef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens Dagblad‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaKandidaat-raadslid FvD blijkt kwakzalver die kwetsbare kankerpat",
-      "sources": [
-        {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkNvb0lqRzhLY0lNbmlfSlVibkxyWF9aaGI4ZVp5REt4ZTdpQnduWmxEX1ByN2RxNDIzTzVxTnpFQ1JiWWwyUVA4Unl6dXgwRG1NbU81OS10WU5xamd0M1h1ZjMySWZGa0RYZ2NnMi05elIzZEpFVFoxZmdoS1FMYXpEOGJ1WkpzUGxNckpxaERpT3htc3l1U1hmUWt6Um9OUWV5Tjk1WUJvVExpQWlRUmRmME43Q1No?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbfd97ac8147",
-      "title": "MUMC: plots hartinfarct bij Zuidlimburgse families door eiwit - De Nieuwe Ster Maastricht",
-      "published": "2026-04-30T08:11:02+00:00",
-      "summary": "MUMC: plots hartinfarct bij Zuidlimburgse families door eiwit&nbsp;&nbsp;De Nieuwe Ster MaastrichtDoorbraak in onderzoek erfelijke hartafwijkingen sommige Zuid-Limburgse families&nbsp;&nbsp;L1 NieuwsDoorbraak in vroege opsporing van plotse hartstilstand door Maastricht onderzoek&nbsp;&nbsp;Sittard-Geleen.nieuws.nlHartstilstand op jonge leeftijd door DPP-6-gen&nbsp;&nbsp;RTV Parkstad",
-      "sources": [
-        {
-          "name": "De Nieuwe Ster Maastricht",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjZKa3Z3MmVHTDNKS01kVnBPOHN2SDd1XzJrREVyQlktTTBfSm5QNnkwLVctYmoyOGE3WUVrYnRBRmVtQ2cyQ1VCVGtaN2Vidy00NmRRWDVPQnJ6ZU9yTVU3VlFnSExnd2pvZ1FtS05sYWZYQ1RiRG0yWUNyZW5yZ1hnZlV6UGozTWF4dXljWncxcHVVY2NXSHJLa3p5bkMz?oc=5"
-        }
-      ]
-    },
     {
       "id": "7745e4ba84bf",
       "title": "Besmettelijke longziekte terug aan opmars bezig in ons land - Redactie24",

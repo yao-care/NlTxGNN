@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-03T07:57:54.646038+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-03T13:03:06.515087+00:00",
+  "count": 4,
   "news": [
     {
       "id": "7f2f220a6205",
@@ -19,11 +19,23 @@
       "id": "875051b32c12",
       "title": "FvD Helmond neemt afstand van discutabele 'coach' die op kieslijst stond - Omroep Brabant",
       "published": "2026-05-02T07:55:23+00:00",
-      "summary": "FvD Helmond neemt afstand van discutabele 'coach' die op kieslijst stond&nbsp;&nbsp;Omroep BrabantHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS EvaOphef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens Dagblad‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantBOOS ontmaskert gezondheidscoach die claimt dat kwark kanker genee",
+      "summary": "FvD Helmond neemt afstand van discutabele 'coach' die op kieslijst stond&nbsp;&nbsp;Omroep BrabantOphef na BOOS-uitzending over Helmondse gezondheidscoach die chemo afraadt: partijgenoot neemt afstand&nbsp;&nbsp;Eindhovens DagbladHet gevaar van gezondheidsgoeroes: \"Dit maakt mij zo boos\"&nbsp;&nbsp;AVROTROS Eva‘Boos’ confronteert een gevaarlijke kwakzalver. Wat haar drijft, blijft jammer genoeg onduidelijk&nbsp;&nbsp;de VolkskrantBOOS ontmaskert gezondheidscoach die claimt dat kwark kanker genee",
       "sources": [
         {
           "name": "Omroep Brabant",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmxJQklBTm9RTlpNZThQOUt2TjJVNjEtNFc5NGs3SW9wZEtuQ1RkNjN0YXlwbTBMNTBtZExBVnRXS0pwajd0R0NNTkFBSEdJbjdtdzgtVXduQ2o3OGE0YlZ6bFZycm9CSUdvSDQxSUZlR0xwZnlxYkVXcW5IUHpScU1BLXNMclVVcGhHVmhlVFJUWFBWWG1YRzVsR0JsRl8wdTJuSl82czF1Y1VZRmJKSUZUb3Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54870d9152ac",
+      "title": "Gestolen frietje smaakt beter, blijkt uit onderzoek - bnr.nl",
+      "published": "2026-05-02T13:26:00+00:00",
+      "summary": "Gestolen frietje smaakt beter, blijkt uit onderzoek&nbsp;&nbsp;bnr.nlGestolen frietje smaakt beter volgens onderzoek&nbsp;&nbsp;TPO.NLNieuw onderzoek toont aan: friet van andermans bord smaakt écht beter&nbsp;&nbsp;De TelegraafGestolen frietjes smaken 40 procent beter, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Waarom ‘gestolen’ eten beter smaakt: dit zegt onderzoek&nbsp;&nbsp;MAN MAN",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXVDUTh1VHBRVzV1aXdzTEN2bDBYRzA2RUhfbVZfSEtpbVpsMnUzYWlyeVhkb2ptODBXdkhDSXFuWmZZS2pjVmlydk1TQklzMG85YzhzMFhZLWVyVnZ5N3FDbDVwN004b3kySk9JcUxBUUl3ajB1RjJjVm91bU5jRzhkdk5ESDJZcks1ZHZGQVlSU3ZVYTc1T1pvNA?oc=5"
         }
       ]
     },

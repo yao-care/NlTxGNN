@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-03T18:55:41.087777+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-04T02:36:14.001117+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "3b4baae181a6",
+      "title": "Drie doden door uitbraak hantavirus op cruiseschip voor kust Kaapverdië: Nederlands echtpaar onder slachtoffers - De Telegraaf",
+      "published": "2026-05-03T22:27:08+00:00",
+      "summary": "Drie doden door uitbraak hantavirus op cruiseschip voor kust Kaapverdië: Nederlands echtpaar onder slachtoffers&nbsp;&nbsp;De TelegraafHantavirus op Nederlands cruiseschip, zeker drie doden&nbsp;&nbsp;NOSCruisemaatschappij: onderzoek naar herkomst hantavirus aan boord&nbsp;&nbsp;Noordhollands DagbladZeker twee Nederlanders overleden op cruiseschip, mogelijk door hantavirus&nbsp;&nbsp;NUTwee Nederlanders overleden op cruise, vermoedelijk door hantavirus&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUw2WXd4VmdsVGFxUUVVR3FhQ0ktMHBtU0pCdndvZmw5bXd3RFd6TnQtX1FGWXNabUZKNGYxOUhadDFzMDZySkJBR2p0NGxGaWxtWTU2WV82SnhqYmZNOEx1S2NHc2UwV0tyVi11eURoclNpV3ZJaGg3MXRheGZZR1QtcTIyc1V5ZXBvR0t4VzZ6d3FrQXVDeXJla2ZBQXNKdm9sc2ZmaGZUMnJxcXhUdlViQllWaDl2VGZOeVRHd3BPWTZiV29XcVFFNXNrN3otSXdTWFY5ZkpOTWJBeHMyNng5NWtNX2dlM3gzWklGSDBJdkE?oc=5"
+        }
+      ]
+    },
     {
       "id": "7f2f220a6205",
       "title": "Niet genoeg geld voor vrouwengezondheid, waarschuwen artsen: 'Er zijn alleen maar plannen' - RTL.nl",
@@ -24,30 +36,6 @@
         {
           "name": "Omroep Brabant",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmxJQklBTm9RTlpNZThQOUt2TjJVNjEtNFc5NGs3SW9wZEtuQ1RkNjN0YXlwbTBMNTBtZExBVnRXS0pwajd0R0NNTkFBSEdJbjdtdzgtVXduQ2o3OGE0YlZ6bFZycm9CSUdvSDQxSUZlR0xwZnlxYkVXcW5IUHpScU1BLXNMclVVcGhHVmhlVFJUWFBWWG1YRzVsR0JsRl8wdTJuSl82czF1Y1VZRmJKSUZUb3Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54870d9152ac",
-      "title": "Gestolen frietje smaakt beter, blijkt uit onderzoek - bnr.nl",
-      "published": "2026-05-02T13:26:36+00:00",
-      "summary": "Gestolen frietje smaakt beter, blijkt uit onderzoek&nbsp;&nbsp;bnr.nlGestolen frietje smaakt beter volgens onderzoek&nbsp;&nbsp;TPO.NLNieuw onderzoek toont aan: friet van andermans bord smaakt écht beter&nbsp;&nbsp;De TelegraafWaarom ‘gestolen’ eten beter smaakt: dit zegt onderzoek&nbsp;&nbsp;MAN MANGestolen frietjes smaken 40 procent beter, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXVDUTh1VHBRVzV1aXdzTEN2bDBYRzA2RUhfbVZfSEtpbVpsMnUzYWlyeVhkb2ptODBXdkhDSXFuWmZZS2pjVmlydk1TQklzMG85YzhzMFhZLWVyVnZ5N3FDbDVwN004b3kySk9JcUxBUUl3ajB1RjJjVm91bU5jRzhkdk5ESDJZcks1ZHZGQVlSU3ZVYTc1T1pvNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7745e4ba84bf",
-      "title": "Besmettelijke longziekte terug aan opmars bezig in ons land - Redactie24",
-      "published": "2026-05-01T19:30:00+00:00",
-      "summary": "Besmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24",
-      "sources": [
-        {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2xwcFdkUFVYWVBLR0VqYTloeEE5Y3d0OGs3cW5WRnZfdHd4clRNU29naUUxTlVTMlpkM0pKbEJDOGs3LUxiRlYtWkMyYmx3UDlIY1RVT0xubWFtTENpUXNzaXhCUm5GOEw0U0lnRnFGRjhzYVJpV29HcjlfN1BQWXdKY0hZNlhBZU0xOUNKWjhJSlFVN1JPcGJsOTjSAaIBQVVfeXFMTWUxei1lOGdJOHNVMTY1RVBETlN1Y3BhMWlfNjlkUEpVNjJtd1ZGTWI3aEc0R3lRVzBkSG1yLVVIdHhjUFhHSWFrdld6NzFvYnlqQmpEN3UtQzZLeXM5XzAtQmtUSlUwQlRROVdzeUVUWFZKZmFvS0ZIYWxfOUUxbFVNOEdGRWVESGpOR0k4RkJSYlVVcmVhbHMwbzRqYzN6V0FR?oc=5"
         }
       ]
     }

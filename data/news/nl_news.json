@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-04T13:52:07.234509+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-04T19:25:31.244205+00:00",
+  "count": 4,
   "news": [
     {
       "id": "e7ee5eedfee6",
       "title": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes - NU",
       "published": "2026-05-04T05:00:24+00:00",
-      "summary": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes&nbsp;&nbsp;NURIVM pleit voor neutraal uiterlijk e-sigaretten&nbsp;&nbsp;Noordhollands DagbladZoete smaak en kleur maakt e-sigaret aantrekkelijk, ook voor niet-rokers&nbsp;&nbsp;RIVMOnderzoeker RIVM vindt dat vapes er saai uit moeten zien: ‘Kleurrijke designs verbieden’&nbsp;&nbsp;Metronieuws.nl‘Ook opvallende kleuren maken vapes aantrekkelijker voor gebruikers’&nbsp;&nbsp;Westerwolde Actueel",
+      "summary": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes&nbsp;&nbsp;NUZoete smaak en kleur maakt e-sigaret aantrekkelijk, ook voor niet-rokers&nbsp;&nbsp;RIVMRIVM pleit voor neutraal uiterlijk e-sigaretten&nbsp;&nbsp;Noordhollands DagbladOnderzoeker RIVM vindt dat vapes er saai uit moeten zien: ‘Kleurrijke designs verbieden’&nbsp;&nbsp;Metronieuws.nl‘Ook opvallende kleuren maken vapes aantrekkelijker voor gebruikers’&nbsp;&nbsp;Westerwolde Actueel",
       "sources": [
         {
           "name": "NU",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "7f2f220a6205",
-      "title": "Niet genoeg geld voor vrouwengezondheid, waarschuwen artsen: 'Er zijn alleen maar plannen' - RTL.nl",
-      "published": "2026-05-02T13:05:49+00:00",
-      "summary": "Niet genoeg geld voor vrouwengezondheid, waarschuwen artsen: 'Er zijn alleen maar plannen'&nbsp;&nbsp;RTL.nl",
+      "id": "9b385ff34f20",
+      "title": "Komt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’ - Het Parool",
+      "published": "2026-05-04T01:00:00+00:00",
+      "summary": "Komt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackGepersonaliseerde behandeling keert symptomen van beginnende dementie om&nbsp;&nbsp;newscientist.nlExperts vragen Riziv om nieuwe behandelingen die Alzheimer vertragen te vergoeden: “Zij vormen een belangrijk keerp",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmJ3b1dCX1ZhYU1LZVdNUms0WDNWOGN2ZTZMSEI4S3ZMMDZKMUgyLUNsSFoxTU13UHZ0WGdnRjQxaGRFVmF0RGFJZEpFbEdYalBiM0tfVGw3MkZxVnllTmsxNlBGRExsVHlNR0YtUmlUeUg2em9vZ1ZVUHNWMzR3RzdOYmtqelp0bjl0NU9tMEU1MHg1SVBLMTVBekVXdlpPV0s5b0RtcHo?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmpkZUdKMW4tRmc1MVl2SmY3WkVhRUJlcFdGRzJDYm50TjFmb0lvckdVUUFZV0pjY3I1dmNiSXZ4NkRKbVM5Q243RnVWRzFkZ1k2MEtxN0k5ejZRWGxCRVJWR2x6Znp4dVFFWXpPVmExZWgxUFZTM2RUSzUxNUJhSlg5VEROaGthVHNtbDI0Z3FNUXJqRnZQY3lwRjdiR21GUmZCajBkTndUM0pFOGVOZDBEcEMyVWJI?oc=5"
         }
       ]
     },
@@ -48,18 +48,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjVobWVMMWotNjFGRGF5dms2RVhHY2pVYXZSWGFrRXVTTFIyU3lPZnhkOXJaa0NjS1NVSnRJcVRnT3Q2ZWd0dURWX3BfV3RaYXp2TF8wQ1BJa09LSkxXOHlESHFLSFVzT2FDRmRUUV9Gejc5MEExWFlhaEs3VXlEUjFIbk1kWkVRSzNNdXdnb1g2QUs0dkJscUVnVG5oSXllVFZhVE84ckN4TGNGZDJnSHBxNHVZVEYzejBGcHNFRDY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8037b1a24f07",
-      "title": "Nancy’s zoon kreeg keelkanker door het HPV-virus: ‘Ik zit in angst of hij over vijf jaar nog wel leeft’ - Libelle",
-      "published": "2026-05-03T12:34:15+00:00",
-      "summary": "Nancy’s zoon kreeg keelkanker door het HPV-virus: ‘Ik zit in angst of hij over vijf jaar nog wel leeft’&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4LWhoS3FzYU8xZ1FKVXFVYUpLUXVNOG5yZl9FUEZGVXdrN0NUWTRKVlJrQzFwYUVneTBUYlc3STlGS1Q3bE9NeV8zbU5KV1FwNEQtWUxHZnIxSldBWjFrbTRYdmJFaUdvVGwyaDFMUUZuSTZ1Wnp4c2hnNERsQQ?oc=5"
         }
       ]
     }

@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-05T08:04:44.049060+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-05T19:14:47.513653+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "bd42a5bd3343",
-      "title": "Eerste patiënt met alvleesklierkanker ter wereld behandeld met nieuwe therapie - Brabants Dagblad",
-      "published": "2026-05-03T20:00:00+00:00",
-      "summary": "Eerste patiënt met alvleesklierkanker ter wereld behandeld met nieuwe therapie&nbsp;&nbsp;Brabants Dagblad",
+      "id": "23ae38f3f1ab",
+      "title": "Artsen vroegen of ze hun baby wilden laten weghalen, vijf jaar later rent Pippi over het schoolplein - AD.nl",
+      "published": "2026-05-05T07:47:00+00:00",
+      "summary": "Artsen vroegen of ze hun baby wilden laten weghalen, vijf jaar later rent Pippi over het schoolplein&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVV96UUlqdkZqZ0psZ0d4RW8yNWVwbjZqNjFMQXN2eDJhb0xQdFdLcmx4TV8zeWNRWFNDUGxXNDZOdXFRWC1DZm1FeU5JYkRfc1d2ZlpLajliRmZVT1RBclRrMEpBUUplb2dZN3o5N21wWTJSVVlvMzZuZUtMc1pNX3hGZDJnbFpiNnVuc0JrX1VPcVp3OXMxT1NIYU9PTUh3aWMzYVBRYU94bTdBVXd1UEQ2UQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUdneWRpdWdSYzNEeExMcEFSdmVPREZsY2dFMGdIa3lHWXpIX0JobllnYzUtRW8xNHNZNXgzUkxsdmFNdWNOQTZKaThLdGpCX21NTXd1aG8zYVJVdk85NDJnYlhTRHZSM004QWdDdVVMWDE4QUFTaHJQVkhFZDdJMzJTa2U1djRteWVhQ3Q1TC1BM2pjM29BZG1sbnJ0WWJnYnMwQUpBeHpBR05mc2h2c1gySHhIQnJIdE5FcEZYUm1WQXZ0cGhjcklUVUVwemhkYXdnYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a84f49346469",
+      "title": "Diagnose MS veranderde alles voor Jessica (31), nu draagt ze het symbool trots op haar arm: ‘Mijn toekomst stortte in’ - Tubantia",
+      "published": "2026-05-05T04:30:00+00:00",
+      "summary": "Diagnose MS veranderde alles voor Jessica (31), nu draagt ze het symbool trots op haar arm: ‘Mijn toekomst stortte in’&nbsp;&nbsp;Tubantia",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUWxuQjF0V1ZKLVRQWW5FR1dyRUI0WlpRNUZoQy1pQ2tGUWN3WWs2YlJGVFpVRHhOYzV5UU9LM1RvYjFiNFhTZFB2SWU3MFU2S1FCWkdGNzNIY3E1SWtIM1hKblVjOG4yejk3a3dnNGFuNHZWOTR6d21uWTNXdlBQLV9lZUZ0ZWNOeXVxNXFMUmVCTkotRVhDTFhEd1ZvaXo1LTNONnRPR0F6SjNtSVowYWVWSEdHT2I0YnVVcUdFY294cFJHTm9DQXRHenJOaVB2c3hacUY4WUtObXctRlRCMHlWZ1BkNmZ3cVJtRkh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a1826e58dc3",
+      "title": "Doorbraak in Nijmegen: patiënt met alvleesklierkanker krijgt als eerste ter wereld experimentele immuuntherapie - De Gelderlander",
+      "published": "2026-05-03T20:58:00+00:00",
+      "summary": "Doorbraak in Nijmegen: patiënt met alvleesklierkanker krijgt als eerste ter wereld experimentele immuuntherapie&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTZqT05rdWpmdTluVk1ZUTRmVS1oTFNHQkhYSy1rSzMzWmdPQzlhQjRQdEJfQVhoaThsVjVNdjVwcTJ5Z2FZZ2IzMlFiSlNWNVZVck84V3lkUGRtbDFHYUdzd01YZnRpNGJ4UWU2ZmRHVDRic19pRFdFejd2SUpQRmxYaUsyR0NDUzE5UVlqS25JQ1h6eWJxWmMyNl9XaElEM0wzMllobFJUMnJoclZSeEtXNkpMR1dOVVRkS3Q2VjlsaFUzZUhqOF9BTW9JY1laWGpJMUJiX3dWeXNHUk03X1ZEamZMUVVZOHkzaXZR?oc=5"
         }
       ]
     },
@@ -24,18 +48,6 @@
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmpkZUdKMW4tRmc1MVl2SmY3WkVhRUJlcFdGRzJDYm50TjFmb0lvckdVUUFZV0pjY3I1dmNiSXZ4NkRKbVM5Q243RnVWRzFkZ1k2MEtxN0k5ejZRWGxCRVJWR2x6Znp4dVFFWXpPVmExZWgxUFZTM2RUSzUxNUJhSlg5VEROaGthVHNtbDI0Z3FNUXJqRnZQY3lwRjdiR21GUmZCajBkTndUM0pFOGVOZDBEcEMyVWJI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e45a1d92732d",
-      "title": "Dementie begint mogelijk al vóór je geboorte: ‘We moeten veel eerder ingrijpen’ - Welingelichte Kringen",
-      "published": "2026-05-03T15:35:20+00:00",
-      "summary": "Dementie begint mogelijk al vóór je geboorte: ‘We moeten veel eerder ingrijpen’&nbsp;&nbsp;Welingelichte KringenDementie voorkomen: wat doen vanaf je 40ste?&nbsp;&nbsp;Gezondheid.beAlzheimer werkgroep Oss; Invloed gezonde leefstijl op je brein&nbsp;&nbsp;Mooi BernhezeInvloed gezonde leefstijl op je brein&nbsp;&nbsp;arenalokaal.nlAlzheimer Café over invloed leefstijl op je brein&nbsp;&nbsp;Ons Oss",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjVobWVMMWotNjFGRGF5dms2RVhHY2pVYXZSWGFrRXVTTFIyU3lPZnhkOXJaa0NjS1NVSnRJcVRnT3Q2ZWd0dURWX3BfV3RaYXp2TF8wQ1BJa09LSkxXOHlESHFLSFVzT2FDRmRUUV9Gejc5MEExWFlhaEs3VXlEUjFIbk1kWkVRSzNNdXdnb1g2QUs0dkJscUVnVG5oSXllVFZhVE84ckN4TGNGZDJnSHBxNHVZVEYzejBGcHNFRDY?oc=5"
         }
       ]
     }

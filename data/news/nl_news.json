@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-04T19:25:31.244205+00:00",
+  "fetched_at": "2026-05-05T02:30:19.063209+00:00",
   "count": 4,
   "news": [
-    {
-      "id": "e7ee5eedfee6",
-      "title": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes - NU",
-      "published": "2026-05-04T05:00:24+00:00",
-      "summary": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes&nbsp;&nbsp;NUZoete smaak en kleur maakt e-sigaret aantrekkelijk, ook voor niet-rokers&nbsp;&nbsp;RIVMRIVM pleit voor neutraal uiterlijk e-sigaretten&nbsp;&nbsp;Noordhollands DagbladOnderzoeker RIVM vindt dat vapes er saai uit moeten zien: ‘Kleurrijke designs verbieden’&nbsp;&nbsp;Metronieuws.nl‘Ook opvallende kleuren maken vapes aantrekkelijker voor gebruikers’&nbsp;&nbsp;Westerwolde Actueel",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1htM2Y2ZnZxa3B3Vk1jSk1NNWhhZ2p4U0gxZm1jWS0xSjJOc0lINl90QWRwd25xdDVwYThLYmp6b2JzVktOd1M5R1VKc241MkktNURRMUNJWDg1aDU0MXVjZk1PVFgzNW0yU1hLQ0hLREFCWnRuVzAwQ1Z3c3Z1bjhBRzZNNUl5Wjh4Tm5MN1VJemVWb2NqcXJKZXNqTGZVSUJ6clBnb1FfQzlK?oc=5"
-        }
-      ]
-    },
     {
       "id": "bd42a5bd3343",
       "title": "Eerste patiënt met alvleesklierkanker ter wereld behandeld met nieuwe therapie - Brabants Dagblad",
@@ -24,6 +12,18 @@
         {
           "name": "Brabants Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVV96UUlqdkZqZ0psZ0d4RW8yNWVwbjZqNjFMQXN2eDJhb0xQdFdLcmx4TV8zeWNRWFNDUGxXNDZOdXFRWC1DZm1FeU5JYkRfc1d2ZlpLajliRmZVT1RBclRrMEpBUUplb2dZN3o5N21wWTJSVVlvMzZuZUtMc1pNX3hGZDJnbFpiNnVuc0JrX1VPcVp3OXMxT1NIYU9PTUh3aWMzYVBRYU94bTdBVXd1UEQ2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7ee5eedfee6",
+      "title": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes - NU",
+      "published": "2026-05-04T05:00:24+00:00",
+      "summary": "RIVM wil na smaakjes ook 'aantrekkelijke' kleuren weghalen van vapes&nbsp;&nbsp;NURIVM pleit voor neutraal uiterlijk e-sigaretten&nbsp;&nbsp;Noordhollands DagbladZoete smaak en kleur maakt e-sigaret aantrekkelijk, ook voor niet-rokers&nbsp;&nbsp;RIVMOnderzoeker RIVM vindt dat vapes er saai uit moeten zien: ‘Kleurrijke designs verbieden’&nbsp;&nbsp;Metronieuws.nl‘Ook opvallende kleuren maken vapes aantrekkelijker voor gebruikers’&nbsp;&nbsp;Westerwolde Actueel",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1htM2Y2ZnZxa3B3Vk1jSk1NNWhhZ2p4U0gxZm1jWS0xSjJOc0lINl90QWRwd25xdDVwYThLYmp6b2JzVktOd1M5R1VKc241MkktNURRMUNJWDg1aDU0MXVjZk1PVFgzNW0yU1hLQ0hLREFCWnRuVzAwQ1Z3c3Z1bjhBRzZNNUl5Wjh4Tm5MN1VJemVWb2NqcXJKZXNqTGZVSUJ6clBnb1FfQzlK?oc=5"
         }
       ]
     },

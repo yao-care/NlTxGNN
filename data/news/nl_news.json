@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-05T19:14:47.513653+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-06T02:34:46.808945+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "23ae38f3f1ab",
-      "title": "Artsen vroegen of ze hun baby wilden laten weghalen, vijf jaar later rent Pippi over het schoolplein - AD.nl",
-      "published": "2026-05-05T07:47:00+00:00",
-      "summary": "Artsen vroegen of ze hun baby wilden laten weghalen, vijf jaar later rent Pippi over het schoolplein&nbsp;&nbsp;AD.nl",
+      "id": "f000e8d04474",
+      "title": "Onderzoek: Kinderen foppen leeftijdscontrole, bijvoorbeeld met nepsnor - Jeugdjournaal",
+      "published": "2026-05-05T12:36:42+00:00",
+      "summary": "Onderzoek: Kinderen foppen leeftijdscontrole, bijvoorbeeld met nepsnor&nbsp;&nbsp;Jeugdjournaal",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUdneWRpdWdSYzNEeExMcEFSdmVPREZsY2dFMGdIa3lHWXpIX0JobllnYzUtRW8xNHNZNXgzUkxsdmFNdWNOQTZKaThLdGpCX21NTXd1aG8zYVJVdk85NDJnYlhTRHZSM004QWdDdVVMWDE4QUFTaHJQVkhFZDdJMzJTa2U1djRteWVhQ3Q1TC1BM2pjM29BZG1sbnJ0WWJnYnMwQUpBeHpBR05mc2h2c1gySHhIQnJIdE5FcEZYUm1WQXZ0cGhjcklUVUVwemhkYXdnYg?oc=5"
+          "name": "Jeugdjournaal",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2kyelhIcGM4Q1NsUXQ1Z2FVakJKcjlreXdtMThLeDRNTEtVSjk0Y3kwZWxoRmRaV2VqLU1pZFRpQ1FwMk5DV1ZmN0hxSUxDUGtJc0lfM0JCZUZyWWwwVTVQbjZPeXRoa2h2eFcyenJIeGtob05sbFZiOHZLNEVveXVKUXNMWW9RT2Zoc1RsWUJDdnZDU3lzUDVPUTF0TFlNOW9uczQ5V3UyZ0p2T1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9add917a99dc",
+      "title": "Amsterdam stikt van de ratten. Vergroot dat het risico op het Hantavirus? - Welingelichte Kringen",
+      "published": "2026-05-04T07:41:58+00:00",
+      "summary": "Amsterdam stikt van de ratten. Vergroot dat het risico op het Hantavirus?&nbsp;&nbsp;Welingelichte KringenHantavirus: Wat is het en moeten we ons zorgen maken?&nbsp;&nbsp;Dagblad van het NoordenEric en Chris raakten besmet met hantavirus: \"Ik had onwaarschijnlijke hoofdpijn en bleef maar braken\"&nbsp;&nbsp;VRTAmsterdam stikt van de ratten. Vergroot dat het risico op het Hantavirus? Plus: wat je zelf kunt doen tegen ratten&nbsp;&nbsp;Welingelichte KringenHet Ministerie van Volksgezondheid geeft e",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXhKZXh0cTNybEdFUG1qTHdLWWdZaEZ6ekVFS1Utb055RWxVclFJVkM3bWRCWlk4MjhRbTg5SlFDd214T281Smc0ZkZqT053cG56dUdZRlk4VFFheEhoam1ONjc3Qy1SYmNUMjlJZkw2VmRlaGNoZnZkNEFFV0MwZGU2eEtWaEs3cFh6amdrX0ctOHNhVEtrclM0NnExSVNycUtidUROS1JnMWdpaFJQNVJZd3F4QWFzUWc?oc=5"
         }
       ]
     },
@@ -24,30 +36,6 @@
         {
           "name": "Tubantia",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUWxuQjF0V1ZKLVRQWW5FR1dyRUI0WlpRNUZoQy1pQ2tGUWN3WWs2YlJGVFpVRHhOYzV5UU9LM1RvYjFiNFhTZFB2SWU3MFU2S1FCWkdGNzNIY3E1SWtIM1hKblVjOG4yejk3a3dnNGFuNHZWOTR6d21uWTNXdlBQLV9lZUZ0ZWNOeXVxNXFMUmVCTkotRVhDTFhEd1ZvaXo1LTNONnRPR0F6SjNtSVowYWVWSEdHT2I0YnVVcUdFY294cFJHTm9DQXRHenJOaVB2c3hacUY4WUtObXctRlRCMHlWZ1BkNmZ3cVJtRkh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a1826e58dc3",
-      "title": "Doorbraak in Nijmegen: patiënt met alvleesklierkanker krijgt als eerste ter wereld experimentele immuuntherapie - De Gelderlander",
-      "published": "2026-05-03T20:58:00+00:00",
-      "summary": "Doorbraak in Nijmegen: patiënt met alvleesklierkanker krijgt als eerste ter wereld experimentele immuuntherapie&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTZqT05rdWpmdTluVk1ZUTRmVS1oTFNHQkhYSy1rSzMzWmdPQzlhQjRQdEJfQVhoaThsVjVNdjVwcTJ5Z2FZZ2IzMlFiSlNWNVZVck84V3lkUGRtbDFHYUdzd01YZnRpNGJ4UWU2ZmRHVDRic19pRFdFejd2SUpQRmxYaUsyR0NDUzE5UVlqS25JQ1h6eWJxWmMyNl9XaElEM0wzMllobFJUMnJoclZSeEtXNkpMR1dOVVRkS3Q2VjlsaFUzZUhqOF9BTW9JY1laWGpJMUJiX3dWeXNHUk03X1ZEamZMUVVZOHkzaXZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b385ff34f20",
-      "title": "Komt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’ - Het Parool",
-      "published": "2026-05-04T01:00:00+00:00",
-      "summary": "Komt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackGepersonaliseerde behandeling keert symptomen van beginnende dementie om&nbsp;&nbsp;newscientist.nlExperts vragen Riziv om nieuwe behandelingen die Alzheimer vertragen te vergoeden: “Zij vormen een belangrijk keerp",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmpkZUdKMW4tRmc1MVl2SmY3WkVhRUJlcFdGRzJDYm50TjFmb0lvckdVUUFZV0pjY3I1dmNiSXZ4NkRKbVM5Q243RnVWRzFkZ1k2MEtxN0k5ejZRWGxCRVJWR2x6Znp4dVFFWXpPVmExZWgxUFZTM2RUSzUxNUJhSlg5VEROaGthVHNtbDI0Z3FNUXJqRnZQY3lwRjdiR21GUmZCajBkTndUM0pFOGVOZDBEcEMyVWJI?oc=5"
         }
       ]
     }

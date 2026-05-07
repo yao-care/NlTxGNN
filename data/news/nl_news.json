@@ -1,37 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-06T19:42:33.568382+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-07T02:36:59.879478+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "2d725df19ae5",
-      "title": "’Mogelijk zeven gevallen hantavirus op cruiseschip’, medisch personeel aanwezig voor evacuatie: ’Geen ratten aan boord’ - De Telegraaf",
-      "published": "2026-05-05T13:51:28+00:00",
-      "summary": "’Mogelijk zeven gevallen hantavirus op cruiseschip’, medisch personeel aanwezig voor evacuatie: ’Geen ratten aan boord’&nbsp;&nbsp;De TelegraafVrouw met hantavirus van KLM-vlucht gehaald voordat ze overleed&nbsp;&nbsp;NUPatiënt aangekomen bij LUMC in Leiden • Hondius onderweg naar Tenerife&nbsp;&nbsp;NOSWaarom juist het Radboudumc in beeld is bij uitbraak op cruiseschip: expert legt uit hoe gevaarlijk het hantavirus is&nbsp;&nbsp;De GelderlanderLIVE Hantavirus | Eerste evacuatievlucht cruiseschi",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUTZ0NXdCcUU5aWVNT0tSemJwUVNkdGd4c2Z1TG1qX3NVTnBRY1E1Z2MyRWhJVkRyeHRHU29WTS1RWTJ3U0xJdEpSYTB4cEZaYkE0R1VCcWtXWWRCdktIdE9GVkMwMkc1aDUtLS10QWFzNHhYR29DTTdlazY0RDgtd0RWSFBSZEpEQzN1d3c2TjJ6eUdhUWN0ZVRGNU1Ud2tRQ01BMHZHQ3dKTzFFYzhSTEJVTjM5Mkt5WmtJN1lNWEViUkVVd0RKNDBibGZrcFo0RG9hcE10aFRfbjBkZmgtWk5zRnhNaHA2SkdCcG5oa3RwVmFTaGVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6061f6a8e14f",
-      "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - Eindhovens Dagblad",
+      "id": "a25d0a2ff885",
+      "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - pzc.nl",
       "published": "2026-05-05T23:53:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;Eindhovens DagbladHele verhaal bekijken via Google Nieuws",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;pzc.nlHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0xkdGtjdjdiSWJYOTFsY2gxVGwxYjZPSFczRG81OGU3MXNheE14LXRwTjE0WDQyWmd1ZmJPc0N4UmNqeUJlMDVNb3hSUDlUd204UnpTU29TZGl1ZUpIZzA5QXVMTnpJSUVRdFZMa0ZDTFEyR0hWMkZTVjd6M3ItRXNpYmtUWThOMnhycXNDMEs5RVhIU3ZQNkhjOFFjYUF5T0JYMDFsUzExUFJJZHJTdGFsYmhLd3JZNFE?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3N1TXE1bWZrVGhYZXZSLWpUVUdGWExoLU1OaEJiOVhSRndVNnRSS01EZmRFZDhPengwVG90Q2drRTFQYUJNNkRfYmoxNnh4TnJpNDdkdmdUbWV6Tml4UVhwbTVvRmZ5QVJkeC1mSVBQa3lXYUFuNklmQnI2Y3RKZ1otdVdjZzZtc1puSUotRW5zaGlremdTUWhSTHpRTDBac1Rka2RYbkx3cS1Nd215U1dwdEJBSnVrRzh3?oc=5"
         }
       ]
     },
     {
       "id": "a1107f5347a8",
       "title": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding - AD.nl",
-      "published": "2026-05-06T07:05:00+00:00",
-      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolAlzheimer-experts vragen Riziv nieuwe behandelingen terug te betalen&nbsp;&nbsp;MediQualityDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;Knack",
+      "published": "2026-05-06T06:00:00+00:00",
+      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlAlzheimer-experts vragen Riziv nieuwe behandelingen terug te betalen&nbsp;&nbsp;MediQualityNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;Knack",
       "sources": [
         {
           "name": "AD.nl",

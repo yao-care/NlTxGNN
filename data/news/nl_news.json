@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-07T14:00:04.251274+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-07T19:40:28.970715+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "7811249ceb8d",
-      "title": "LIVE | Radboudumc: opgenomen patiënt van cruiseschip Hondius heeft het hantavirus - De Telegraaf",
-      "published": "2026-05-07T13:37:40+00:00",
-      "summary": "LIVE | Radboudumc: opgenomen patiënt van cruiseschip Hondius heeft het hantavirus&nbsp;&nbsp;De Telegraaf'Argentinië levert hantavirustests' • Patiënten in ziekenhuizen Nederland en Duitsland&nbsp;&nbsp;NOSRadboudumc heeft patiënt die besmet is met gevaarlijke hantavirus&nbsp;&nbsp;De GelderlanderNu 5 gevallen van hantavirus bevestigd, maar risico voor volksgezondheid blijft laag, meldt WHO: volg hier live persconferentie | Nieuws&nbsp;&nbsp;HLNLIVE Tientallen passagiers verlieten schip 2 weken ",
+      "id": "2fcd90c94cee",
+      "title": "Hoe wordt het hantavirus overgedragen? En andere vragen over de uitbraak beantwoord - EenVandaag",
+      "published": "2026-05-07T16:02:29+00:00",
+      "summary": "Hoe wordt het hantavirus overgedragen? En andere vragen over de uitbraak beantwoord&nbsp;&nbsp;EenVandaagHonderdduizenden Nederlanders hadden ooit hantavirus en wisten dat vaak niet&nbsp;&nbsp;NULIVE hantavirus | Minister van Volksgezondheid: Risico dat hantavirus zich in Nederland verspreidt heel klein&nbsp;&nbsp;AD.nlHantavirus wordt nauwlettend gevolgd door ministerie GMN&nbsp;&nbsp;nu.CWDoor welke weerseffecten wordt het hantavirus bevorderd?&nbsp;&nbsp;NoodweerBenelux",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFhaYmFtREVUMDhaeWh0X3NneTNGNFZ0ZzI5Zlh5N3dDc2R6YnZuZUNqdDliTmFOYWxVNkE1TFJweWxDdlVrS09GLVo5ZE5yU19yYVdKRDRGWlJZUVo5Z1QxREtGTTVwelUyZGFFSm56Nm9oaWZ0NXRBT05ZLWhTbGl0Y2ZYckV4MHh4d0wwMDBONGpBVXNDV0ZhekxQakJMSEE2OEZEajg2SHJpUTdpalo4T0pWaTVnMkZZaTlSSXF1Wk1heENCOA?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFVRUEQ3eUNnM2ViRFpsY2s1aVVvbXZEQXkwcWlIOFZPMEF5b3hyQjd2c3JTdG9ZMmRmTTVFcFhHSU82NEtRanQ4UF9iUDllUGpKdjdFZThmd25ETGhjWjRUbVRXRjRwam1PQWd4cXU0RFlKZmdSVnNBek5KVHBIOF9QOXotMERIV09KaVBZUlR4SzdMUmN4LXVhSGtXVTZfd3pwRkxWcm1HSmlXd29ub25zT2UtUVRZYlpUT19nY2ZJcXhFcmsw?oc=5"
         }
       ]
     },
@@ -19,11 +19,23 @@
       "id": "8fcd629a3a4c",
       "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - de Stentor",
       "published": "2026-05-06T21:30:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorHele verhaal bekijken via Google Nieuws",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "de Stentor",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkVKM2hPNERYUUNudWlFMUFPUlRCY3dHZzZuOEh1M3hSdWtnODBWWE1FZnVuandhZmdtck9TQllIUzk2U0hPZWNlWlF5Mk5XMTlXXzFwQW1ZRWNiTGFqNnRUODRDNkllX3dNdFBNZ2hDUU0tZmZsVnZVeFVZa2xPYTlPNUprYzczaXZra2hQd1BBMzgyNzFIcVNyRUNlU1l3b1BjRnVCdFpNR285NUFycjNUbDJMQXUxUl92dzQxR09KTVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb8784987d92",
+      "title": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen - Starnieuws",
+      "published": "2026-05-06T19:40:00+00:00",
+      "summary": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen&nbsp;&nbsp;StarnieuwsDataverzameling moet zorgwekkende stijging soa’s in cijfers uitdrukken&nbsp;&nbsp;Times of Suriname",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQ1FrXzI5Q2huV0FfYWhpZDNRRk5hYjdZbHhvc3FJWC11clBZSmxwMElleEVCTGpKTHNOYXZhRk1mWDZPMkVQYVkxSUFIVkoxeFgzOV9wTVpSSE5PV1VTRzNmSnJSUEI2QmRXSk9SYVJkeHAta3c?oc=5"
         }
       ]
     },

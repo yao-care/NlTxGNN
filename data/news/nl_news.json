@@ -1,24 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-07T08:29:34.848227+00:00",
+  "fetched_at": "2026-05-07T14:00:04.251274+00:00",
   "count": 3,
   "news": [
     {
-      "id": "34f4b9457658",
-      "title": "Britse patiënt met hantavirus in isolatie in Nederlands ziekenhuis - RTL.nl",
-      "published": "2026-05-07T06:02:57+00:00",
-      "summary": "Britse patiënt met hantavirus in isolatie in Nederlands ziekenhuis&nbsp;&nbsp;RTL.nl'Argentinië levert hantavirustests' • Patiënten in ziekenhuizen Nederland en Duitsland&nbsp;&nbsp;NOSLive cruiseschip | Tweede evacuatievliegtuig landt na tegenslag in Nederland&nbsp;&nbsp;NULIVE Hantavirus | Eerste evacuatievlucht cruiseschip op Schiphol geland, colonne met ambulances rijdt naar LUMC&nbsp;&nbsp;AD.nlWaarom juist het Radboudumc in beeld is bij uitbraak op cruiseschip: expert legt uit hoe gevaarli",
+      "id": "7811249ceb8d",
+      "title": "LIVE | Radboudumc: opgenomen patiënt van cruiseschip Hondius heeft het hantavirus - De Telegraaf",
+      "published": "2026-05-07T13:37:40+00:00",
+      "summary": "LIVE | Radboudumc: opgenomen patiënt van cruiseschip Hondius heeft het hantavirus&nbsp;&nbsp;De Telegraaf'Argentinië levert hantavirustests' • Patiënten in ziekenhuizen Nederland en Duitsland&nbsp;&nbsp;NOSRadboudumc heeft patiënt die besmet is met gevaarlijke hantavirus&nbsp;&nbsp;De GelderlanderNu 5 gevallen van hantavirus bevestigd, maar risico voor volksgezondheid blijft laag, meldt WHO: volg hier live persconferentie | Nieuws&nbsp;&nbsp;HLNLIVE Tientallen passagiers verlieten schip 2 weken ",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM09rSnRyT2pTa2gwSTJRM2E1SGVJdnN2dlBPMHdkNjI0b192VXhsZklYUUhyMlpqSmI3ZzFWX3FnU0FGY1k5SzBQSVVzY1o1UU44QjJxSXdQc0VBdFVYZzI3c1dMMU14WTJiV0o2M1JXN2U0czdGY3JpTnFTUW1FM0dncDBpdFE0N3VLSDVKOEw1ODRyX1d4cldSSkU4OHB5VllqblBxeDZIRllpT0ZxakJWTQ?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFhaYmFtREVUMDhaeWh0X3NneTNGNFZ0ZzI5Zlh5N3dDc2R6YnZuZUNqdDliTmFOYWxVNkE1TFJweWxDdlVrS09GLVo5ZE5yU19yYVdKRDRGWlJZUVo5Z1QxREtGTTVwelUyZGFFSm56Nm9oaWZ0NXRBT05ZLWhTbGl0Y2ZYckV4MHh4d0wwMDBONGpBVXNDV0ZhekxQakJMSEE2OEZEajg2SHJpUTdpalo4T0pWaTVnMkZZaTlSSXF1Wk1heENCOA?oc=5"
         }
       ]
     },
     {
       "id": "8fcd629a3a4c",
       "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - de Stentor",
-      "published": "2026-05-06T03:29:00+00:00",
+      "published": "2026-05-06T21:30:00+00:00",
       "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorHele verhaal bekijken via Google Nieuws",
       "sources": [
         {
@@ -31,7 +31,7 @@
       "id": "a1107f5347a8",
       "title": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding - AD.nl",
       "published": "2026-05-06T06:00:00+00:00",
-      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackAlzheimer-experts vragen Riziv nieuwe behandelingen terug te betalen&nbsp;&nbsp;MediQuality",
+      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackExperts vragen Riziv om nieuwe behandelingen die Alzheimer vertragen te vergoeden: “Zij vormen een belangrijk",
       "sources": [
         {
           "name": "AD.nl",

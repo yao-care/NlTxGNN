@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-07T02:36:59.879478+00:00",
+  "fetched_at": "2026-05-07T08:29:34.848227+00:00",
   "count": 3,
   "news": [
     {
-      "id": "a25d0a2ff885",
-      "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - pzc.nl",
-      "published": "2026-05-05T23:53:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;pzc.nlHele verhaal bekijken via Google Nieuws",
+      "id": "34f4b9457658",
+      "title": "Britse patiënt met hantavirus in isolatie in Nederlands ziekenhuis - RTL.nl",
+      "published": "2026-05-07T06:02:57+00:00",
+      "summary": "Britse patiënt met hantavirus in isolatie in Nederlands ziekenhuis&nbsp;&nbsp;RTL.nl'Argentinië levert hantavirustests' • Patiënten in ziekenhuizen Nederland en Duitsland&nbsp;&nbsp;NOSLive cruiseschip | Tweede evacuatievliegtuig landt na tegenslag in Nederland&nbsp;&nbsp;NULIVE Hantavirus | Eerste evacuatievlucht cruiseschip op Schiphol geland, colonne met ambulances rijdt naar LUMC&nbsp;&nbsp;AD.nlWaarom juist het Radboudumc in beeld is bij uitbraak op cruiseschip: expert legt uit hoe gevaarli",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3N1TXE1bWZrVGhYZXZSLWpUVUdGWExoLU1OaEJiOVhSRndVNnRSS01EZmRFZDhPengwVG90Q2drRTFQYUJNNkRfYmoxNnh4TnJpNDdkdmdUbWV6Tml4UVhwbTVvRmZ5QVJkeC1mSVBQa3lXYUFuNklmQnI2Y3RKZ1otdVdjZzZtc1puSUotRW5zaGlremdTUWhSTHpRTDBac1Rka2RYbkx3cS1Nd215U1dwdEJBSnVrRzh3?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM09rSnRyT2pTa2gwSTJRM2E1SGVJdnN2dlBPMHdkNjI0b192VXhsZklYUUhyMlpqSmI3ZzFWX3FnU0FGY1k5SzBQSVVzY1o1UU44QjJxSXdQc0VBdFVYZzI3c1dMMU14WTJiV0o2M1JXN2U0czdGY3JpTnFTUW1FM0dncDBpdFE0N3VLSDVKOEw1ODRyX1d4cldSSkU4OHB5VllqblBxeDZIRllpT0ZxakJWTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fcd629a3a4c",
+      "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - de Stentor",
+      "published": "2026-05-06T03:29:00+00:00",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorHele verhaal bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkVKM2hPNERYUUNudWlFMUFPUlRCY3dHZzZuOEh1M3hSdWtnODBWWE1FZnVuandhZmdtck9TQllIUzk2U0hPZWNlWlF5Mk5XMTlXXzFwQW1ZRWNiTGFqNnRUODRDNkllX3dNdFBNZ2hDUU0tZmZsVnZVeFVZa2xPYTlPNUprYzczaXZra2hQd1BBMzgyNzFIcVNyRUNlU1l3b1BjRnVCdFpNR285NUFycjNUbDJMQXUxUl92dzQxR09KTVk?oc=5"
         }
       ]
     },
@@ -19,23 +31,11 @@
       "id": "a1107f5347a8",
       "title": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding - AD.nl",
       "published": "2026-05-06T06:00:00+00:00",
-      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlAlzheimer-experts vragen Riziv nieuwe behandelingen terug te betalen&nbsp;&nbsp;MediQualityNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;Knack",
+      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackAlzheimer-experts vragen Riziv nieuwe behandelingen terug te betalen&nbsp;&nbsp;MediQuality",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlBCNmRibmJ1ckNoVno1WnAzaWU2Q1FGV3BtekdHaFVsTzljX3J2UVhNcHF0UnpvWHRSd3hLR1VtejhqT2h1NXFFMm9LaTVKSFdMVUFJYUpwWFpRUThPdDRFTzZYUGNieWt5VWZqVkhxVEZ5a0NaRmVMWUJOSGFiUjREUTREcDBKMXV2b3JQWW1NSFN1NkdnaGpscnJZZklqN3lmZ0tuYWJvOTVheGJscjJZRWtMSDFKb0ZJY2V3OA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a84f49346469",
-      "title": "Diagnose MS veranderde alles voor Jessica (31), nu draagt ze het symbool trots op haar arm: ‘Mijn toekomst stortte in’ - Tubantia",
-      "published": "2026-05-05T04:30:00+00:00",
-      "summary": "Diagnose MS veranderde alles voor Jessica (31), nu draagt ze het symbool trots op haar arm: ‘Mijn toekomst stortte in’&nbsp;&nbsp;Tubantia",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUWxuQjF0V1ZKLVRQWW5FR1dyRUI0WlpRNUZoQy1pQ2tGUWN3WWs2YlJGVFpVRHhOYzV5UU9LM1RvYjFiNFhTZFB2SWU3MFU2S1FCWkdGNzNIY3E1SWtIM1hKblVjOG4yejk3a3dnNGFuNHZWOTR6d21uWTNXdlBQLV9lZUZ0ZWNOeXVxNXFMUmVCTkotRVhDTFhEd1ZvaXo1LTNONnRPR0F6SjNtSVowYWVWSEdHT2I0YnVVcUdFY294cFJHTm9DQXRHenJOaVB2c3hacUY4WUtObXctRlRCMHlWZ1BkNmZ3cVJtRkh3?oc=5"
         }
       ]
     }

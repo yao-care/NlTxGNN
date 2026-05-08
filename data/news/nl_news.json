@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-08T02:42:29.702024+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-08T07:25:50.830166+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "fb5b5f94c801",
-      "title": "’Hantavirus begint met darmklachten en koorts’: waarom zorgen over een nieuwe pandemie volgens het RIVM nu niet nodig zijn - De Telegraaf",
-      "published": "2026-05-07T21:53:00+00:00",
-      "summary": "’Hantavirus begint met darmklachten en koorts’: waarom zorgen over een nieuwe pandemie volgens het RIVM nu niet nodig zijn&nbsp;&nbsp;De TelegraafIn LUMC en Radboudumc opgenomen opvarenden zijn besmet met hantavirus&nbsp;&nbsp;NUHantavirus is voor getroffenen een drama, maar voor virologen een ‘bliepje op de radar’&nbsp;&nbsp;Het ParoolLIVE | WHO waarschuwt: aantal besmettingen met hantavirus kan verder oplopen&nbsp;&nbsp;De TelegraafLIVE hantavirus | Minister van Volksgezondheid: Risico dat han",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmxTU3gtcGpDalVvcXVCTEZSTFRCMlZ6QjNTdVEwbFBWd0VhOUVSQzZsSHloNE5UbkJWbGdwY1ljeE9FcHdOd2R3ZWNlU2pIM0JZWlgyZ21idUtUX1BNUmp2X2c2aFdzQ1NMejM2eVFjTmNldHhtVFlQZ1pqMDJNMDRsdC12T2VtdVI4WlhQbVQwZmxzaTBWVHdnajJwUDZaempsY2JNTVdHMUhkY2NGaXZYNHlRMjlFQXJlUkhtMmhZSXMyMUZLYklOSUYxOWd2ZlplcFViUy00RWVNNXlPLXFkaThwcXpnQ1pCaWszOWZUZm9qbnljNUowc1hCZUk?oc=5"
-        }
-      ]
-    },
     {
       "id": "fb8784987d92",
       "title": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen - Starnieuws",
       "published": "2026-05-06T19:40:00+00:00",
-      "summary": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen&nbsp;&nbsp;StarnieuwsJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameDataverzameling moet zorgwekkende stijging soa’s in cijfers uitdrukken&nbsp;&nbsp;Times of Suriname",
+      "summary": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen&nbsp;&nbsp;StarnieuwsVeertig jongeren getraind voor voorlichting over hiv&nbsp;&nbsp;Times of SurinameJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameDataverzameling moet zorgwekkende stijging soa’s in cijfers uitdrukken&nbsp;&nbsp;Times of Suriname",
       "sources": [
         {
           "name": "Starnieuws",
@@ -28,22 +16,10 @@
       ]
     },
     {
-      "id": "a1107f5347a8",
-      "title": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding - AD.nl",
-      "published": "2026-05-06T06:00:00+00:00",
-      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlBCNmRibmJ1ckNoVno1WnAzaWU2Q1FGV3BtekdHaFVsTzljX3J2UVhNcHF0UnpvWHRSd3hLR1VtejhqT2h1NXFFMm9LaTVKSFdMVUFJYUpwWFpRUThPdDRFTzZYUGNieWt5VWZqVkhxVEZ5a0NaRmVMWUJOSGFiUjREUTREcDBKMXV2b3JQWW1NSFN1NkdnaGpscnJZZklqN3lmZ0tuYWJvOTVheGJscjJZRWtMSDFKb0ZJY2V3OA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "30b9b1a56bec",
       "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
       "published": "2026-05-06T22:04:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorBesmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "de Stentor",

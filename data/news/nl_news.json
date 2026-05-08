@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-08T07:25:50.830166+00:00",
-  "count": 2,
+  "fetched_at": "2026-05-08T13:42:46.944436+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "5cc57bd7e6f5",
+      "title": "Paul (68) overleefde het hantavirus, maar betaalt hoge prijs: ‘Ben onzeker geworden, denk overal over na’ - AD.nl",
+      "published": "2026-05-08T03:00:00+00:00",
+      "summary": "Paul (68) overleefde het hantavirus, maar betaalt hoge prijs: ‘Ben onzeker geworden, denk overal over na’&nbsp;&nbsp;AD.nlZorgminister Hermans: risico op verspreiding hantavirus klein in Nederland&nbsp;&nbsp;Hart van NederlandHantavirus: Hoe voorkom ik dat ik het krijg? En wat als ik het toch heb? Vijf vragen en antwoorden&nbsp;&nbsp;De GelderlanderHantavirus ’totaal niet te vergelijken’ met corona, zegt Jetten&nbsp;&nbsp;Haarlems DagbladHantavirus in Nederland: wat betekent dit voor bitcoin en ",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN2o2WWl6N3Z1SjJRb1k2U0NCRFhCWXVUTUduZU96RjhtRkdLY0ZfRUZkYThZaGdnSnUyOFlnd19rcHk3WGNhSFpnUzZqT2FJa3NHRlYtX1U1cktmN2xaaWkyMEVjOGQ2Vm9RX0gxeThiZ0V0R3lWR3RBX0dSSHk1aGxldHNvalYxS1I3VWxpeUozeXFpbGNXaDZwLWV0WElQZzZ2dHhSc1RsbEx6cGwxVERmcnBMYzlrc21oNGpCYnNaeGVoMG8xSVhRLThFOFJ6TU5V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2612f8dff850",
+      "title": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’ - De Telegraaf",
+      "published": "2026-05-08T13:01:03+00:00",
+      "summary": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafEierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXdyRG4yZGJNNENuRzNiVWRpdS1NeDNHX0d4aDJJbFFvNFFfb2dlSnE1b1BFaTdMVlFneWdsTlJtbzFKSmhGWVZFdERwdzhzdnBHc0Npb1ZHcWVRcVpWcUtFd3JvOUloQjFLOU9zX0QwR0NTT19JNVpPa1gxam1hN041YkdJOWJVY0h1NEd3OU5aWGN2VHZwR0lKUEJya3ZzdzhUWU5GS19YY3FHN0hMNV8tWGxNbl9yeHlCcXh6X0VyWW1VVnBKakVzLUxzUnhyTTNGc1RZNUxKVTdoVnRseDB0OGl2M09QZl8wMQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "fb8784987d92",
       "title": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen - Starnieuws",
@@ -19,7 +43,7 @@
       "id": "30b9b1a56bec",
       "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
       "published": "2026-05-06T22:04:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorBesmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nl",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nlBesmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24",
       "sources": [
         {
           "name": "de Stentor",

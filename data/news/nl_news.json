@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-07T19:40:28.970715+00:00",
+  "fetched_at": "2026-05-08T02:42:29.702024+00:00",
   "count": 4,
   "news": [
     {
-      "id": "2fcd90c94cee",
-      "title": "Hoe wordt het hantavirus overgedragen? En andere vragen over de uitbraak beantwoord - EenVandaag",
-      "published": "2026-05-07T16:02:29+00:00",
-      "summary": "Hoe wordt het hantavirus overgedragen? En andere vragen over de uitbraak beantwoord&nbsp;&nbsp;EenVandaagHonderdduizenden Nederlanders hadden ooit hantavirus en wisten dat vaak niet&nbsp;&nbsp;NULIVE hantavirus | Minister van Volksgezondheid: Risico dat hantavirus zich in Nederland verspreidt heel klein&nbsp;&nbsp;AD.nlHantavirus wordt nauwlettend gevolgd door ministerie GMN&nbsp;&nbsp;nu.CWDoor welke weerseffecten wordt het hantavirus bevorderd?&nbsp;&nbsp;NoodweerBenelux",
+      "id": "fb5b5f94c801",
+      "title": "’Hantavirus begint met darmklachten en koorts’: waarom zorgen over een nieuwe pandemie volgens het RIVM nu niet nodig zijn - De Telegraaf",
+      "published": "2026-05-07T21:53:00+00:00",
+      "summary": "’Hantavirus begint met darmklachten en koorts’: waarom zorgen over een nieuwe pandemie volgens het RIVM nu niet nodig zijn&nbsp;&nbsp;De TelegraafIn LUMC en Radboudumc opgenomen opvarenden zijn besmet met hantavirus&nbsp;&nbsp;NUHantavirus is voor getroffenen een drama, maar voor virologen een ‘bliepje op de radar’&nbsp;&nbsp;Het ParoolLIVE | WHO waarschuwt: aantal besmettingen met hantavirus kan verder oplopen&nbsp;&nbsp;De TelegraafLIVE hantavirus | Minister van Volksgezondheid: Risico dat han",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFVRUEQ3eUNnM2ViRFpsY2s1aVVvbXZEQXkwcWlIOFZPMEF5b3hyQjd2c3JTdG9ZMmRmTTVFcFhHSU82NEtRanQ4UF9iUDllUGpKdjdFZThmd25ETGhjWjRUbVRXRjRwam1PQWd4cXU0RFlKZmdSVnNBek5KVHBIOF9QOXotMERIV09KaVBZUlR4SzdMUmN4LXVhSGtXVTZfd3pwRkxWcm1HSmlXd29ub25zT2UtUVRZYlpUT19nY2ZJcXhFcmsw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fcd629a3a4c",
-      "title": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland - de Stentor",
-      "published": "2026-05-06T21:30:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkVKM2hPNERYUUNudWlFMUFPUlRCY3dHZzZuOEh1M3hSdWtnODBWWE1FZnVuandhZmdtck9TQllIUzk2U0hPZWNlWlF5Mk5XMTlXXzFwQW1ZRWNiTGFqNnRUODRDNkllX3dNdFBNZ2hDUU0tZmZsVnZVeFVZa2xPYTlPNUprYzczaXZra2hQd1BBMzgyNzFIcVNyRUNlU1l3b1BjRnVCdFpNR285NUFycjNUbDJMQXUxUl92dzQxR09KTVk?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmxTU3gtcGpDalVvcXVCTEZSTFRCMlZ6QjNTdVEwbFBWd0VhOUVSQzZsSHloNE5UbkJWbGdwY1ljeE9FcHdOd2R3ZWNlU2pIM0JZWlgyZ21idUtUX1BNUmp2X2c2aFdzQ1NMejM2eVFjTmNldHhtVFlQZ1pqMDJNMDRsdC12T2VtdVI4WlhQbVQwZmxzaTBWVHdnajJwUDZaempsY2JNTVdHMUhkY2NGaXZYNHlRMjlFQXJlUkhtMmhZSXMyMUZLYklOSUYxOWd2ZlplcFViUy00RWVNNXlPLXFkaThwcXpnQ1pCaWszOWZUZm9qbnljNUowc1hCZUk?oc=5"
         }
       ]
     },
@@ -31,7 +19,7 @@
       "id": "fb8784987d92",
       "title": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen - Starnieuws",
       "published": "2026-05-06T19:40:00+00:00",
-      "summary": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen&nbsp;&nbsp;StarnieuwsDataverzameling moet zorgwekkende stijging soa’s in cijfers uitdrukken&nbsp;&nbsp;Times of Suriname",
+      "summary": "Volksgezondheid start landelijke hiv-campagne na stijging besmettingen&nbsp;&nbsp;StarnieuwsJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameDataverzameling moet zorgwekkende stijging soa’s in cijfers uitdrukken&nbsp;&nbsp;Times of Suriname",
       "sources": [
         {
           "name": "Starnieuws",
@@ -43,11 +31,23 @@
       "id": "a1107f5347a8",
       "title": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding - AD.nl",
       "published": "2026-05-06T06:00:00+00:00",
-      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlKomt er een medicijn tegen alzheimer? ‘Ik ben hoopvol dat we iets gaan vinden’&nbsp;&nbsp;Het ParoolDementie en wetenschap: onderzoeker deelt nieuwste inzichten in Hoorn&nbsp;&nbsp;rodi.nlNieuwe wapens in de strijd tegen dementie: ‘Passief afwachten is geen optie meer’&nbsp;&nbsp;KnackExperts vragen Riziv om nieuwe behandelingen die Alzheimer vertragen te vergoeden: “Zij vormen een belangrijk",
+      "summary": "Strijd om nieuw alzheimermedicijn laait op: patiëntenvereniging dringt aan op vergoeding&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlBCNmRibmJ1ckNoVno1WnAzaWU2Q1FGV3BtekdHaFVsTzljX3J2UVhNcHF0UnpvWHRSd3hLR1VtejhqT2h1NXFFMm9LaTVKSFdMVUFJYUpwWFpRUThPdDRFTzZYUGNieWt5VWZqVkhxVEZ5a0NaRmVMWUJOSGFiUjREUTREcDBKMXV2b3JQWW1NSFN1NkdnaGpscnJZZklqN3lmZ0tuYWJvOTVheGJscjJZRWtMSDFKb0ZJY2V3OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30b9b1a56bec",
+      "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
+      "published": "2026-05-06T22:04:00+00:00",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnZlLUt0Y1RGU1NhbUpCcUo0UDJUMlVMdWN6UXQ5MUNEVFdySjFON0d1V3p3cjZYNjV0Y2J4aGVaV0h2NGd6aFA4TXFPMGdhUFhlQWhkYlh5VU1FWFdWaXNpYTJ0Y1pROG14Q3YwQ2wzUmcyaUFxRWt3SGpNb0p0Z0tNQjk0ZUJBSzVmSWl2WExYOHMyak14M3JGbXVwU28xZFNncGNHU21Bb3BtdVFCN1RDRVA0QmhB?oc=5"
         }
       ]
     }

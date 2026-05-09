@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-08T19:13:19.119451+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-09T02:36:21.543806+00:00",
+  "count": 5,
   "news": [
     {
       "id": "615a0c29cd87",
       "title": "Hantavirus op cruiseschip: angst in Haulerwijk? - De Telegraaf",
-      "published": "2026-05-08T19:01:12+00:00",
-      "summary": "Hantavirus op cruiseschip: angst in Haulerwijk?&nbsp;&nbsp;De TelegraafLive | Nederlanders op cruiseschip Hondius zes weken in thuisquarantaine&nbsp;&nbsp;NULIVE | Nederlandse opvarenden Hondius gaan na repatriëring zes weken in thuisquarantaine&nbsp;&nbsp;De TelegraafNederlandse opvarenden Hondius gaan zes weken in thuisquarantaine&nbsp;&nbsp;RTL.nlAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nl",
+      "published": "2026-05-09T01:00:00+00:00",
+      "summary": "Hantavirus op cruiseschip: angst in Haulerwijk?&nbsp;&nbsp;De TelegraafKan hantavirus muteren en pandemie worden? 'Totaal niet zoals corona'&nbsp;&nbsp;NUHantavirus vastgesteld bij overleden Duitse vrouw, zes gevallen nu bevestigd&nbsp;&nbsp;NOSDefensie ondersteunt met militair arts op cruiseschip Hondius&nbsp;&nbsp;Ministerie van DefensieAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNnlTQUJHaEYxcFQ5X2lhczR6TEVXTGZ1NF9ZdG4zZTIzdUloZE1VTFV5Z05TNzMteUJuajBCLXlrS2NkMVdCMEFoS3RPUk9OTWFjV1pOeXZfLUhoSDYya1ptZmFFWU1QNGdyOF9VM2hQb3BSc2R2Y1VXTTdWNnZOZkwxcEZUSk92OThkNHpxWW5MeDFMdVRaRUJHbzRMUEJfYVBNR0FpQXdfUVhnZ2RUdjlXWU9sZmVNUGFBSDBvSi03M3cxVnlId1RZb1pjeS1fSlBTWU95ZVkzcXFFV0x3ZzNjbHVydjdBMXA4NDJKM0swWVlZdmpz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7146d756416",
+      "title": "Speed op recept voor ADHD: ‘Het gekke is natuurlijk dat ik dat middel überhaupt kreeg’ - NRC",
+      "published": "2026-05-08T14:07:00+00:00",
+      "summary": "Speed op recept voor ADHD: ‘Het gekke is natuurlijk dat ik dat middel überhaupt kreeg’&nbsp;&nbsp;NRC",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2RENF9PZXA1NU1pQ0lUcUpIc0pJeHNmc0d0MkV6LTBiamZzRmZjX2FVcmJWWk9iZkRXVTFhdFBORXdobDRyVnNJWnJuOWdrRHNFNnYycnRISmVEUmJyRFNlb1Q3RmtKM0g5VklwTEVJNHJVMEpXRWo5WFNxeU45bFh1bklMZi1mN20wMGo3X29qSG45THE2cGgyei1vR2RtWFZRekV6TW1CVlk0akRZMGMtU3d1dHBVRkJJLWtKZnZ2c2hEOVQ3LQ?oc=5"
         }
       ]
     },
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "30b9b1a56bec",
-      "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
-      "published": "2026-05-06T22:04:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nlBesmettelijke longziekte terug aan opmars bezig in ons land&nbsp;&nbsp;Redactie24",
+      "id": "58c3d97f03ca",
+      "title": "Hevige strijd tegen borstkanker dwingt kapster Rosemarie (61) tot vervroegd pensioen: “Ik ga de blijvende vriendschappen voor altijd koesteren” - Nieuwsblad",
+      "published": "2026-05-08T10:00:00+00:00",
+      "summary": "Hevige strijd tegen borstkanker dwingt kapster Rosemarie (61) tot vervroegd pensioen: “Ik ga de blijvende vriendschappen voor altijd koesteren”&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnZlLUt0Y1RGU1NhbUpCcUo0UDJUMlVMdWN6UXQ5MUNEVFdySjFON0d1V3p3cjZYNjV0Y2J4aGVaV0h2NGd6aFA4TXFPMGdhUFhlQWhkYlh5VU1FWFdWaXNpYTJ0Y1pROG14Q3YwQ2wzUmcyaUFxRWt3SGpNb0p0Z0tNQjk0ZUJBSzVmSWl2WExYOHMyak14M3JGbXVwU28xZFNncGNHU21Bb3BtdVFCN1RDRVA0QmhB?oc=5"
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZEVaYXIyZ3NFRHZqckZiWHFveU9NZWloSU45aGJtLUEzMnM2QlR5c2pkQjVSRVpmR24yU3MwQk4xSVdCOUIyTUVtWndJY3k0MWREY2Z2Z1h6N0FoNnNnaHA1MHMzcDBNeHRONU95TUdrcXB5MkpDT2JkWHlPbUV1X2dBNHh5UUtLZHp4Um9WZW0zZmllczg1THotZVVUc2MxckVXS1RENHNWSkREOVo3aTZWWVVEQUFMT2RVNTJHTldpTmlFOGlPTk1FXzJ5bWpLUHBwSFhyVE1IQXFVTEJRQnkyRDI0OENBZGpjdEVTbFllNGpyT0x5Rl9ENkViYWJ1X2xpZTRJTS16Q09mVERERmF5RUpTaFlEd0NYd01DZHE3Z0U5MW43ZExQQzduMXc0U1hjRkNNbTNhM3p4blRac3hQQQ?oc=5"
         }
       ]
     }

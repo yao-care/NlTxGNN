@@ -1,53 +1,77 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-09T02:36:21.543806+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-09T07:52:26.731103+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "615a0c29cd87",
-      "title": "Hantavirus op cruiseschip: angst in Haulerwijk? - De Telegraaf",
-      "published": "2026-05-09T01:00:00+00:00",
-      "summary": "Hantavirus op cruiseschip: angst in Haulerwijk?&nbsp;&nbsp;De TelegraafKan hantavirus muteren en pandemie worden? 'Totaal niet zoals corona'&nbsp;&nbsp;NUHantavirus vastgesteld bij overleden Duitse vrouw, zes gevallen nu bevestigd&nbsp;&nbsp;NOSDefensie ondersteunt met militair arts op cruiseschip Hondius&nbsp;&nbsp;Ministerie van DefensieAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nl",
+      "id": "886e1bf85b56",
+      "title": "Traceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht - NOS",
+      "published": "2026-05-09T05:40:28+00:00",
+      "summary": "Traceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht&nbsp;&nbsp;NOSHantavirus vastgesteld bij overleden Duitse vrouw, zes gevallen nu bevestigd&nbsp;&nbsp;Omroep BrabantLive | Hantavirus op cruiseschip MV Hondius, doden en evacuatie&nbsp;&nbsp;Dagblad van het NoordenAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nlHantavirus op cruiseschip: angst in Haulerwijk?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNnlTQUJHaEYxcFQ5X2lhczR6TEVXTGZ1NF9ZdG4zZTIzdUloZE1VTFV5Z05TNzMteUJuajBCLXlrS2NkMVdCMEFoS3RPUk9OTWFjV1pOeXZfLUhoSDYya1ptZmFFWU1QNGdyOF9VM2hQb3BSc2R2Y1VXTTdWNnZOZkwxcEZUSk92OThkNHpxWW5MeDFMdVRaRUJHbzRMUEJfYVBNR0FpQXdfUVhnZ2RUdjlXWU9sZmVNUGFBSDBvSi03M3cxVnlId1RZb1pjeS1fSlBTWU95ZVkzcXFFV0x3ZzNjbHVydjdBMXA4NDJKM0swWVlZdmpz?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1U2OUxrcjZfLVU1Vm1oQVZNSzRmUkJIMWdRS3phMHNCZnVMTmpWd2gxblRYUURSNTNGWHJZNFFYek1veXNEeHZ6Q1dXVS1aUGtFR05VVkdTSGNXSDB0MVlhU203V2ZaQk5PZzBXY1BKa3RuUDdQWXpZbmNubG1rNUt1akc3RUtJYWk2VVd2blJkMEZqNHlrcmJMTTJqMzVUem1KMVFHQy1GcGhmQ3Zfaw?oc=5"
         }
       ]
     },
     {
-      "id": "f7146d756416",
-      "title": "Speed op recept voor ADHD: ‘Het gekke is natuurlijk dat ik dat middel überhaupt kreeg’ - NRC",
-      "published": "2026-05-08T14:07:00+00:00",
-      "summary": "Speed op recept voor ADHD: ‘Het gekke is natuurlijk dat ik dat middel überhaupt kreeg’&nbsp;&nbsp;NRC",
+      "id": "628ed7b86bd7",
+      "title": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona' - L1 Nieuws",
+      "published": "2026-05-09T06:32:10+00:00",
+      "summary": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona'&nbsp;&nbsp;L1 Nieuws",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2RENF9PZXA1NU1pQ0lUcUpIc0pJeHNmc0d0MkV6LTBiamZzRmZjX2FVcmJWWk9iZkRXVTFhdFBORXdobDRyVnNJWnJuOWdrRHNFNnYycnRISmVEUmJyRFNlb1Q3RmtKM0g5VklwTEVJNHJVMEpXRWo5WFNxeU45bFh1bklMZi1mN20wMGo3X29qSG45THE2cGgyei1vR2RtWFZRekV6TW1CVlk0akRZMGMtU3d1dHBVRkJJLWtKZnZ2c2hEOVQ3LQ?oc=5"
+          "name": "L1 Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTEwQ053c04xZjRwMEpoWm4zREVOUUFhXzVkS0RQbmdtdUpJNm1uRVFpVW93X3NzYWtqcEliYVFsYVR1LTFJYXpLanQzY0YzOUtDTEYtdEhhNlB1eGxya3VxUVhJeWtwWVFLdnhWRkc3X2cwalZBS2R1YXZmVU9BZXduOTdEZndXamxKeE53UzlZcFY3Y0M3WkxJSXFNU2JremxqVUpwYlZMb0lFWUVqaFFySUphendyTWV0VW9zY0VJcEkxSW9qc2M1MUhzOU0w?oc=5"
         }
       ]
     },
     {
-      "id": "6462b76b8cdc",
-      "title": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus - AD.nl",
-      "published": "2026-05-08T03:00:00+00:00",
-      "summary": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus&nbsp;&nbsp;AD.nlPaul (68) overleefde het hantavirus, maar betaalt hoge prijs: ‘Ben onzeker geworden, denk overal over na’&nbsp;&nbsp;AD.nlZorgminister Hermans: risico op verspreiding hantavirus klein in Nederland&nbsp;&nbsp;Hart van NederlandHantavirus: Hoe voorkom ik dat ik het krijg? En wat als ik het toch heb? Vijf vragen en antwoorden&nbsp;&nbsp;De GelderlanderHantavirus ’totaal niet te vergelijken’",
+      "id": "bba1d82148ee",
+      "title": "LIVE hantavirus | Man met hantavirus geeft update uit LUMC: ‘Gaat goed, maar nog veel onderzoeken’ - AD.nl",
+      "published": "2026-05-08T11:21:00+00:00",
+      "summary": "LIVE hantavirus | Man met hantavirus geeft update uit LUMC: ‘Gaat goed, maar nog veel onderzoeken’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRRN0VZOFZjWFJ3bGxUang4Zi1GQlBDckZkUU9QUndJci0wRG5remZST0VfS25SRjhCZmpNMXBraVZHNUktYWZEazZrMUhldHZRZmlpeHMxNENSMEJkTURNSGNoeXFsY2ZTMDZwSkp3Ukg3cmVWZ05tdURyeklfV3FEUlZNUGlmV3R6WGVFdlpQY0NnR1lJWGoyOVVMczBuLU5ZX0VoUTNLVXIyZnF2WXZHc3JNWkY1VzFXYzI3V3h3UTc1TUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEhRM3FmdUJxTEwxMjVaWFVkeUJEcElhd29yUWFyMnMySjhYQlNPNldpRVZzVzg5WVVtMFFzZjVZTk11YXVGMDlsdFk2d3hDMTNPaXowSVRTY25Hb3ZJSWtjSFhYZ1YtLWR0SjRyT0hnYW9OSnp1ODlkS0tDdEUxa0tDVVZyU2ZxVWtENFNWVUhXWW1XR2o2cUwyb3hGSFpNTmNocDBPeFRGb1dDdV9FZjE5c3VCbDQ4Ym91QW5IeDF3eUZ6SjNnNzNDOHVmQWNkMDR0eURscGJWZlJSUGxIWnB3?oc=5"
         }
       ]
     },
     {
-      "id": "2612f8dff850",
-      "title": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’ - De Telegraaf",
-      "published": "2026-05-08T17:30:00+00:00",
-      "summary": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafEierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
+      "id": "99e65bb2b038",
+      "title": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit' - Hart van Nederland",
+      "published": "2026-05-08T19:12:58+00:00",
+      "summary": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXdyRG4yZGJNNENuRzNiVWRpdS1NeDNHX0d4aDJJbFFvNFFfb2dlSnE1b1BFaTdMVlFneWdsTlJtbzFKSmhGWVZFdERwdzhzdnBHc0Npb1ZHcWVRcVpWcUtFd3JvOUloQjFLOU9zX0QwR0NTT19JNVpPa1gxam1hN041YkdJOWJVY0h1NEd3OU5aWGN2VHZwR0lKUEJya3ZzdzhUWU5GS19YY3FHN0hMNV8tWGxNbl9yeHlCcXh6X0VyWW1VVnBKakVzLUxzUnhyTTNGc1RZNUxKVTdoVnRseDB0OGl2M09QZl8wMQ?oc=5"
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm5QVUptamdqRFlHdFVpR19mejdVX1NGdmhTbHN4QmJyNFJBeWJYTGVwbThZWlQwNzh0TWUxTmFuT2hzb2l5UDhHUzFHREVxVFJKTXBzc1JoSG5TcnBqMHhITTBOLVhoY2dRazZpaEg2N3BEbDN3ZW5LTmVtMDlVUVI0aTZyNzJiNTYtTWdsQ3QzVWk5cGtzQmxESjZGYloxMU9vdzhFUi1CVjRJM051Y2lGdTc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30b9b1a56bec",
+      "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
+      "published": "2026-05-08T03:24:00+00:00",
+      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnZlLUt0Y1RGU1NhbUpCcUo0UDJUMlVMdWN6UXQ5MUNEVFdySjFON0d1V3p3cjZYNjV0Y2J4aGVaV0h2NGd6aFA4TXFPMGdhUFhlQWhkYlh5VU1FWFdWaXNpYTJ0Y1pROG14Q3YwQ2wzUmcyaUFxRWt3SGpNb0p0Z0tNQjk0ZUJBSzVmSWl2WExYOHMyak14M3JGbXVwU28xZFNncGNHU21Bb3BtdVFCN1RDRVA0QmhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "520538aa74c4",
+      "title": "Eierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot' - LINDA.nl",
+      "published": "2026-05-08T06:07:50+00:00",
+      "summary": "Eierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlMarieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
+      "sources": [
+        {
+          "name": "LINDA.nl",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN25hTWRsQWtibkdvY2o4UldSRTNvc0xnMVN6T2NUV3JlZ3VYeTdSbGVDSVdaMVdtNmZOX3p1T3NuQVFaWmJMclZXb2c2NV9BSW1tbXhoUWRXSUtYeDY3ZkVhdjhla0UzbXRXLVF1dDhtOW5peklfQ0ZmU05vV3ZMUVZNSHFTd1lNdGtaal9HTzNZa2lSNGc?oc=5"
         }
       ]
     },

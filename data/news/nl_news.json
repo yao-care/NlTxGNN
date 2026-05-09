@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-09T13:10:54.793638+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-09T18:56:37.746735+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "9ef879bc0933",
-      "title": "Live hantavirus | Cruiseschip vaart na stop bij Tenerife door naar Nederland - NU",
-      "published": "2026-05-09T11:59:55+00:00",
-      "summary": "Live hantavirus | Cruiseschip vaart na stop bij Tenerife door naar Nederland&nbsp;&nbsp;NUHoe droomreis eindigde in een wereldwijde klopjacht: de fatale vaart van het cruiseschip met hantavirus van dag tot dag&nbsp;&nbsp;HLNTraceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht&nbsp;&nbsp;NOS'Geheim' plan en waarschuwing voor zwaar weer: buitenlandse media volgen virusschip op de voet&nbsp;&nbsp;AD.nlOverleden Duitse vrouw op cruiseschip Hondius had hantavirus, Nederla",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzBKbDdLdVZ4eHZua01aZUlYWUo0WTEtQzdnaW8wNE1GeFYxWEtsb0NiSGtwejM0ZDh6OW00T1hCcUMwb0VRTHVNVzE5VkpLSXVDOWhzM3ZDeUdiN3RyTjJBcUtRWEp3YTRIT0RITHo1cWlZdEpBZW9XN2wtSjJtcVYwSzVfSEZKOEdwZTZ3RGhhekJ6bG9oYWlXQndLcjNLcFpDUGF4bzJVMGcycVhqc0pDeHdiVGM?oc=5"
-        }
-      ]
-    },
     {
       "id": "628ed7b86bd7",
       "title": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona' - L1 Nieuws",
@@ -52,14 +40,14 @@
       ]
     },
     {
-      "id": "520538aa74c4",
-      "title": "Eierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot' - LINDA.nl",
-      "published": "2026-05-08T06:07:50+00:00",
-      "summary": "Eierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlMarieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
+      "id": "2612f8dff850",
+      "title": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’ - De Telegraaf",
+      "published": "2026-05-08T10:30:00+00:00",
+      "summary": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafEierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
       "sources": [
         {
-          "name": "LINDA.nl",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN25hTWRsQWtibkdvY2o4UldSRTNvc0xnMVN6T2NUV3JlZ3VYeTdSbGVDSVdaMVdtNmZOX3p1T3NuQVFaWmJMclZXb2c2NV9BSW1tbXhoUWRXSUtYeDY3ZkVhdjhla0UzbXRXLVF1dDhtOW5peklfQ0ZmU05vV3ZMUVZNSHFTd1lNdGtaal9HTzNZa2lSNGc?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXdyRG4yZGJNNENuRzNiVWRpdS1NeDNHX0d4aDJJbFFvNFFfb2dlSnE1b1BFaTdMVlFneWdsTlJtbzFKSmhGWVZFdERwdzhzdnBHc0Npb1ZHcWVRcVpWcUtFd3JvOUloQjFLOU9zX0QwR0NTT19JNVpPa1gxam1hN041YkdJOWJVY0h1NEd3OU5aWGN2VHZwR0lKUEJya3ZzdzhUWU5GS19YY3FHN0hMNV8tWGxNbl9yeHlCcXh6X0VyWW1VVnBKakVzLUxzUnhyTTNGc1RZNUxKVTdoVnRseDB0OGl2M09QZl8wMQ?oc=5"
         }
       ]
     },

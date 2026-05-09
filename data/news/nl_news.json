@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-09T07:52:26.731103+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-09T13:10:54.793638+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "886e1bf85b56",
-      "title": "Traceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht - NOS",
-      "published": "2026-05-09T05:40:28+00:00",
-      "summary": "Traceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht&nbsp;&nbsp;NOSHantavirus vastgesteld bij overleden Duitse vrouw, zes gevallen nu bevestigd&nbsp;&nbsp;Omroep BrabantLive | Hantavirus op cruiseschip MV Hondius, doden en evacuatie&nbsp;&nbsp;Dagblad van het NoordenAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nlHantavirus op cruiseschip: angst in Haulerwijk?&nbsp;&nbsp;De Telegraaf",
+      "id": "9ef879bc0933",
+      "title": "Live hantavirus | Cruiseschip vaart na stop bij Tenerife door naar Nederland - NU",
+      "published": "2026-05-09T11:59:55+00:00",
+      "summary": "Live hantavirus | Cruiseschip vaart na stop bij Tenerife door naar Nederland&nbsp;&nbsp;NUHoe droomreis eindigde in een wereldwijde klopjacht: de fatale vaart van het cruiseschip met hantavirus van dag tot dag&nbsp;&nbsp;HLNTraceren hantavirus na uitbraak op Hondius is wereldwijde operatie: een overzicht&nbsp;&nbsp;NOS'Geheim' plan en waarschuwing voor zwaar weer: buitenlandse media volgen virusschip op de voet&nbsp;&nbsp;AD.nlOverleden Duitse vrouw op cruiseschip Hondius had hantavirus, Nederla",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1U2OUxrcjZfLVU1Vm1oQVZNSzRmUkJIMWdRS3phMHNCZnVMTmpWd2gxblRYUURSNTNGWHJZNFFYek1veXNEeHZ6Q1dXVS1aUGtFR05VVkdTSGNXSDB0MVlhU203V2ZaQk5PZzBXY1BKa3RuUDdQWXpZbmNubG1rNUt1akc3RUtJYWk2VVd2blJkMEZqNHlrcmJMTTJqMzVUem1KMVFHQy1GcGhmQ3Zfaw?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzBKbDdLdVZ4eHZua01aZUlYWUo0WTEtQzdnaW8wNE1GeFYxWEtsb0NiSGtwejM0ZDh6OW00T1hCcUMwb0VRTHVNVzE5VkpLSXVDOWhzM3ZDeUdiN3RyTjJBcUtRWEp3YTRIT0RITHo1cWlZdEpBZW9XN2wtSjJtcVYwSzVfSEZKOEdwZTZ3RGhhekJ6bG9oYWlXQndLcjNLcFpDUGF4bzJVMGcycVhqc0pDeHdiVGM?oc=5"
         }
       ]
     },
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "3286b629dfc1",
+      "title": "Nieuwe poging LUMC om over te stappen op patiëntendossier van gehackt bedrijf - Omroep West",
+      "published": "2026-05-08T11:28:00+00:00",
+      "summary": "Nieuwe poging LUMC om over te stappen op patiëntendossier van gehackt bedrijf&nbsp;&nbsp;Omroep West164 | De ChipSoft-hack: de zorg gegijzeld&nbsp;&nbsp;SkiprPatiëntenportaal ZOL na maand onderbreking opnieuw online&nbsp;&nbsp;NieuwsbladPodcast Voorzorg | De ChipSoft-hack: de zorg gegijzeld&nbsp;&nbsp;Skipr",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGRKd2toSzRCVnRzajBBR0IyQ0Q1MHhGUFVOWFplZnhHdDZlV2VXMUVPVkZVdXJiTXBVLWF2Z1pYaFdQZjBhQmJTaGN6MDNsQ2p5N3M0UlE0ems5MHlhZGJTLVFCSWZBOW15WTFzYkpULVpFcEZxSXFrV1EzS29IZDZDdERjM1ZWay1XNXkydXd4NS15X1hhRllqS0tVZ1FLX3pzdFNBRWtmTFZ6QVBLekFFSmxrUnM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bba1d82148ee",
       "title": "LIVE hantavirus | Man met hantavirus geeft update uit LUMC: ‘Gaat goed, maar nog veel onderzoeken’ - AD.nl",
       "published": "2026-05-08T11:21:00+00:00",
@@ -36,30 +48,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEhRM3FmdUJxTEwxMjVaWFVkeUJEcElhd29yUWFyMnMySjhYQlNPNldpRVZzVzg5WVVtMFFzZjVZTk11YXVGMDlsdFk2d3hDMTNPaXowSVRTY25Hb3ZJSWtjSFhYZ1YtLWR0SjRyT0hnYW9OSnp1ODlkS0tDdEUxa0tDVVZyU2ZxVWtENFNWVUhXWW1XR2o2cUwyb3hGSFpNTmNocDBPeFRGb1dDdV9FZjE5c3VCbDQ4Ym91QW5IeDF3eUZ6SjNnNzNDOHVmQWNkMDR0eURscGJWZlJSUGxIWnB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99e65bb2b038",
-      "title": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit' - Hart van Nederland",
-      "published": "2026-05-08T19:12:58+00:00",
-      "summary": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit'&nbsp;&nbsp;Hart van Nederland",
-      "sources": [
-        {
-          "name": "Hart van Nederland",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm5QVUptamdqRFlHdFVpR19mejdVX1NGdmhTbHN4QmJyNFJBeWJYTGVwbThZWlQwNzh0TWUxTmFuT2hzb2l5UDhHUzFHREVxVFJKTXBzc1JoSG5TcnBqMHhITTBOLVhoY2dRazZpaEg2N3BEbDN3ZW5LTmVtMDlVUVI0aTZyNzJiNTYtTWdsQ3QzVWk5cGtzQmxESjZGYloxMU9vdzhFUi1CVjRJM051Y2lGdTc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30b9b1a56bec",
-      "title": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland - de Stentor",
-      "published": "2026-05-08T03:24:00+00:00",
-      "summary": "Dodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnZlLUt0Y1RGU1NhbUpCcUo0UDJUMlVMdWN6UXQ5MUNEVFdySjFON0d1V3p3cjZYNjV0Y2J4aGVaV0h2NGd6aFA4TXFPMGdhUFhlQWhkYlh5VU1FWFdWaXNpYTJ0Y1pROG14Q3YwQ2wzUmcyaUFxRWt3SGpNb0p0Z0tNQjk0ZUJBSzVmSWl2WExYOHMyak14M3JGbXVwU28xZFNncGNHU21Bb3BtdVFCN1RDRVA0QmhB?oc=5"
         }
       ]
     },

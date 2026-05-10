@@ -1,41 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-10T02:40:57.165199+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-10T08:04:11.309386+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "4c32d8aaf1cb",
-      "title": "Live hantavirus | Na Tenerife vaart kernteam met MV Hondius naar Rotterdam - NU",
-      "published": "2026-05-09T21:36:17+00:00",
-      "summary": "Live hantavirus | Na Tenerife vaart kernteam met MV Hondius naar Rotterdam&nbsp;&nbsp;NULive hantavirus | Britse opvarenden na terugkeer toch in ziekenhuisquarantaine&nbsp;&nbsp;NU'Geheim' plan en waarschuwing voor zwaar weer: buitenlandse media volgen virusschip op de voet&nbsp;&nbsp;AD.nlLIVE | ’Nederlands echtpaar liep hantavirus niet op bij vuilstortplaats: epicentrum ligt 1500 kilometer verderop’&nbsp;&nbsp;De TelegraafCruiseschip Hondius vaart na stop in Tenerife door naar Rotterdam, passa",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVVXemlwaHFDakdfdUFwUHNSS2trbjluLUZFTzNKRDZ0Ukc5YllJNHpCZDF1d29YbnN4RC15c255YzZwQUE0dF9VOFJGTjBlWklBbEJuLXRXNVNIMVUyQ2I3TEZwaDdwZjNrd1htZHVxMXlueHRyMWN6bHRMWDBILURxSjFQTnNJRkhZTmJ2WTBYNVRBaGt6dkpydEhYNjlGekVuYWt5MVBRWC1aZmFKWHlTWXc?oc=5"
-        }
-      ]
-    },
     {
       "id": "ed7de67eb152",
       "title": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis - Hart van Nederland",
-      "published": "2026-05-09T10:01:27+00:00",
-      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker met mazelen opgenomen in Panama-Stad&nbsp;&nbsp;NUNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De Telegraaf",
+      "published": "2026-05-09T10:03:21+00:00",
+      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De TelegraafNederlandse backpacker (21) brengt mazelen binnen in Panama: noodteams ingezet om uitbraak te voorkomen&nbsp",
       "sources": [
         {
           "name": "Hart van Nederland",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkIwS2poUF9ibzFmWVY3LTByYmJxc0VRcE5wYmdWZVFNbGM4bUNSazhXajB2NF9DWTZpRTFHdnc4ODFpd2tDd3IyeXdKbGhTN04xTFd5eThjTmh3TVhJd3J5b3d5T3M0YUVnUTBrZEJNSGdXWkJUaEVlMlU3dGM2eTk4Y2g2NVhiNEVJRTBtaFdxNlo4VTB1bFNJZzFpVTB1dzVhRVVod25SZ0hPeUhCcXZpbzVCYnRBemgyUThwT19aZG9Td3VFQjkzTUJ5NWhtVzFNbUpEaThJdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6462b76b8cdc",
-      "title": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus - AD.nl",
-      "published": "2026-05-08T03:00:00+00:00",
-      "summary": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus&nbsp;&nbsp;AD.nlPaul (68) overleefde het hantavirus, maar betaalt hoge prijs: ‘Ben onzeker geworden, denk overal over na’&nbsp;&nbsp;AD.nlZorgminister Hermans: risico op verspreiding hantavirus klein in Nederland&nbsp;&nbsp;Hart van NederlandHantavirus: Hoe voorkom ik dat ik het krijg? En wat als ik het toch heb? Vijf vragen en antwoorden&nbsp;&nbsp;De GelderlanderHantavirus ’totaal niet te vergelijken’",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRRN0VZOFZjWFJ3bGxUang4Zi1GQlBDckZkUU9QUndJci0wRG5remZST0VfS25SRjhCZmpNMXBraVZHNUktYWZEazZrMUhldHZRZmlpeHMxNENSMEJkTURNSGNoeXFsY2ZTMDZwSkp3Ukg3cmVWZ05tdURyeklfV3FEUlZNUGlmV3R6WGVFdlpQY0NnR1lJWGoyOVVMczBuLU5ZX0VoUTNLVXIyZnF2WXZHc3JNWkY1VzFXYzI3V3h3UTc1TUE?oc=5"
         }
       ]
     },
@@ -72,6 +48,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEhRM3FmdUJxTEwxMjVaWFVkeUJEcElhd29yUWFyMnMySjhYQlNPNldpRVZzVzg5WVVtMFFzZjVZTk11YXVGMDlsdFk2d3hDMTNPaXowSVRTY25Hb3ZJSWtjSFhYZ1YtLWR0SjRyT0hnYW9OSnp1ODlkS0tDdEUxa0tDVVZyU2ZxVWtENFNWVUhXWW1XR2o2cUwyb3hGSFpNTmNocDBPeFRGb1dDdV9FZjE5c3VCbDQ4Ym91QW5IeDF3eUZ6SjNnNzNDOHVmQWNkMDR0eURscGJWZlJSUGxIWnB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99e65bb2b038",
+      "title": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit' - Hart van Nederland",
+      "published": "2026-05-08T19:12:58+00:00",
+      "summary": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit'&nbsp;&nbsp;Hart van Nederland",
+      "sources": [
+        {
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm5QVUptamdqRFlHdFVpR19mejdVX1NGdmhTbHN4QmJyNFJBeWJYTGVwbThZWlQwNzh0TWUxTmFuT2hzb2l5UDhHUzFHREVxVFJKTXBzc1JoSG5TcnBqMHhITTBOLVhoY2dRazZpaEg2N3BEbDN3ZW5LTmVtMDlVUVI0aTZyNzJiNTYtTWdsQ3QzVWk5cGtzQmxESjZGYloxMU9vdzhFUi1CVjRJM051Y2lGdTc?oc=5"
         }
       ]
     },

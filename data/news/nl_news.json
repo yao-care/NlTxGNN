@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-10T08:04:11.309386+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-10T13:11:58.306611+00:00",
+  "count": 4,
   "news": [
     {
       "id": "ed7de67eb152",
       "title": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis - Hart van Nederland",
       "published": "2026-05-09T10:03:21+00:00",
-      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De TelegraafNederlandse backpacker (21) brengt mazelen binnen in Panama: noodteams ingezet om uitbraak te voorkomen&nbsp",
+      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker met mazelen opgenomen in Panama-Stad&nbsp;&nbsp;NUNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "Hart van Nederland",
@@ -40,33 +40,9 @@
       ]
     },
     {
-      "id": "bba1d82148ee",
-      "title": "LIVE hantavirus | Man met hantavirus geeft update uit LUMC: ‘Gaat goed, maar nog veel onderzoeken’ - AD.nl",
-      "published": "2026-05-08T11:21:00+00:00",
-      "summary": "LIVE hantavirus | Man met hantavirus geeft update uit LUMC: ‘Gaat goed, maar nog veel onderzoeken’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEhRM3FmdUJxTEwxMjVaWFVkeUJEcElhd29yUWFyMnMySjhYQlNPNldpRVZzVzg5WVVtMFFzZjVZTk11YXVGMDlsdFk2d3hDMTNPaXowSVRTY25Hb3ZJSWtjSFhYZ1YtLWR0SjRyT0hnYW9OSnp1ODlkS0tDdEUxa0tDVVZyU2ZxVWtENFNWVUhXWW1XR2o2cUwyb3hGSFpNTmNocDBPeFRGb1dDdV9FZjE5c3VCbDQ4Ym91QW5IeDF3eUZ6SjNnNzNDOHVmQWNkMDR0eURscGJWZlJSUGxIWnB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99e65bb2b038",
-      "title": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit' - Hart van Nederland",
-      "published": "2026-05-08T19:12:58+00:00",
-      "summary": "Lonneke liep hantavirus op door muizenkeutels: 'Mijn nieren vielen uit'&nbsp;&nbsp;Hart van Nederland",
-      "sources": [
-        {
-          "name": "Hart van Nederland",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm5QVUptamdqRFlHdFVpR19mejdVX1NGdmhTbHN4QmJyNFJBeWJYTGVwbThZWlQwNzh0TWUxTmFuT2hzb2l5UDhHUzFHREVxVFJKTXBzc1JoSG5TcnBqMHhITTBOLVhoY2dRazZpaEg2N3BEbDN3ZW5LTmVtMDlVUVI0aTZyNzJiNTYtTWdsQ3QzVWk5cGtzQmxESjZGYloxMU9vdzhFUi1CVjRJM051Y2lGdTc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2612f8dff850",
       "title": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’ - De Telegraaf",
-      "published": "2026-05-08T10:30:00+00:00",
+      "published": "2026-05-08T17:30:00+00:00",
       "summary": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafEierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
       "sources": [
         {

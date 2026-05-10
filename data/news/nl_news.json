@@ -1,53 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-10T13:11:58.306611+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-10T18:58:06.405355+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "ed7de67eb152",
-      "title": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis - Hart van Nederland",
-      "published": "2026-05-09T10:03:21+00:00",
-      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker met mazelen opgenomen in Panama-Stad&nbsp;&nbsp;NUNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "Hart van Nederland",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkIwS2poUF9ibzFmWVY3LTByYmJxc0VRcE5wYmdWZVFNbGM4bUNSazhXajB2NF9DWTZpRTFHdnc4ODFpd2tDd3IyeXdKbGhTN04xTFd5eThjTmh3TVhJd3J5b3d5T3M0YUVnUTBrZEJNSGdXWkJUaEVlMlU3dGM2eTk4Y2g2NVhiNEVJRTBtaFdxNlo4VTB1bFNJZzFpVTB1dzVhRVVod25SZ0hPeUhCcXZpbzVCYnRBemgyUThwT19aZG9Td3VFQjkzTUJ5NWhtVzFNbUpEaThJdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17251a02a8e5",
-      "title": "Opinie: Waarom smartphones bijdragen aan de toename van ADHD-diagnoses - de Volkskrant",
-      "published": "2026-05-09T12:00:16+00:00",
-      "summary": "Opinie: Waarom smartphones bijdragen aan de toename van ADHD-diagnoses&nbsp;&nbsp;de Volkskrant",
+      "id": "3716d9d60c94",
+      "title": "Patiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven - de Volkskrant",
+      "published": "2026-05-10T14:00:00+00:00",
+      "summary": "Patiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
           "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnVBRTRWTVlOV054bTVUdXA5UUJPczJaUFZlZUV1VU92bFpjdEN2eHRROWJ3S3ZPNFVMSHZLTmdqVUpWVDItREFRWm9OdDgzUF9KUzdWSXg3RVE5WmtIRGlEa0lIS0hhM1dnTGVCbnZMSkVibEJORE9EVk9SQkJuT0ZENWlKVE5ocV9tNjcwT0kyTGZobEdMNnBnbVhqWEo0d2RSR1ZEa2x6ZnhCbDJiT2NubGFtcjBZcHhtbQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNWNFYm5MT2o1RzI0dzJHZFEzZTNlNjIxRGQ0ZTVUTHdYdnVvUGswVng3NlJHLUJRMUZCN19SX2xfckpZbDRfY3lBSU1aYWc3V0lNbVV6UjdhckJNWVlhdXpJUUJnWUYzbWNacnFqb2pxcnROQXl5NWpiWmJhRzRPd1JPWC1nUmJmVUl2ZldTWXBQQmpXdUctOXNSM3k0RGxLYU5UMklrLW5QVVgyY1hsV09ZN25WWEx6Y1p5SzFwZ0hDSEhWY1BFV3I2eC0wb0dqWFRTQTBKUlAtNVFsTVYtbDlOZFBkZU9zTFdURXlfUWtORFFFVi1lX1FyVV9SZw?oc=5"
         }
       ]
     },
     {
-      "id": "628ed7b86bd7",
-      "title": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona' - L1 Nieuws",
-      "published": "2026-05-09T06:32:10+00:00",
-      "summary": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona'&nbsp;&nbsp;L1 Nieuws",
+      "id": "85f27655e6f1",
+      "title": "Nederlandse backpacker met mazelen opgenomen in Panama-Stad - NU",
+      "published": "2026-05-09T09:34:55+00:00",
+      "summary": "Nederlandse backpacker met mazelen opgenomen in Panama-Stad&nbsp;&nbsp;NUNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De TelegraafNederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "L1 Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTEwQ053c04xZjRwMEpoWm4zREVOUUFhXzVkS0RQbmdtdUpJNm1uRVFpVW93X3NzYWtqcEliYVFsYVR1LTFJYXpLanQzY0YzOUtDTEYtdEhhNlB1eGxya3VxUVhJeWtwWVFLdnhWRkc3X2cwalZBS2R1YXZmVU9BZXduOTdEZndXamxKeE53UzlZcFY3Y0M3WkxJSXFNU2JremxqVUpwYlZMb0lFWUVqaFFySUphendyTWV0VW9zY0VJcEkxSW9qc2M1MUhzOU0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2612f8dff850",
-      "title": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’ - De Telegraaf",
-      "published": "2026-05-08T17:30:00+00:00",
-      "summary": "Marieke (52) heeft uitgezaaide eierstokkanker: ’Achteraf gezien heb ik meerdere symptomen gemist’&nbsp;&nbsp;De TelegraafEierstokkanker vaak pas laat ontdekt: 'De kans dat het na behandeling terugkomt is groot'&nbsp;&nbsp;LINDA.nlDeze ‘silent killer’ treft vooral vrouwen boven 50: gynaecoloog noemt ‘vage’ klachten die op eierstokkanker wijzen&nbsp;&nbsp;HLNEierstokkanker: een bloedtest zou bepaalde invasieve biopsieën kunnen vervangen&nbsp;&nbsp;Medi-Sfeer",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXdyRG4yZGJNNENuRzNiVWRpdS1NeDNHX0d4aDJJbFFvNFFfb2dlSnE1b1BFaTdMVlFneWdsTlJtbzFKSmhGWVZFdERwdzhzdnBHc0Npb1ZHcWVRcVpWcUtFd3JvOUloQjFLOU9zX0QwR0NTT19JNVpPa1gxam1hN041YkdJOWJVY0h1NEd3OU5aWGN2VHZwR0lKUEJya3ZzdzhUWU5GS19YY3FHN0hMNV8tWGxNbl9yeHlCcXh6X0VyWW1VVnBKakVzLUxzUnhyTTNGc1RZNUxKVTdoVnRseDB0OGl2M09QZl8wMQ?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkh5UEstYktjU2JaYmdMcElhdWtQakRIRWdrTW80Y3NxZTJXX214X1NQLWtpN0oxeUJESFJHQVJCenBXNVRsWVQ4THZGT29FbEpxNEtVWEJ6YzVrSVRFY3hSS3MzVVZMazJvTGJMbEIwQ0p0NDRSbE9iUjlabzFma1BsM1NTazZKMWlieGRtR0tTNlNsNDVWalBxT0t2a1UtdnEw?oc=5"
         }
       ]
     }

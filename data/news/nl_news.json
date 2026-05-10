@@ -1,8 +1,56 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-09T18:56:37.746735+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-10T02:40:57.165199+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "4c32d8aaf1cb",
+      "title": "Live hantavirus | Na Tenerife vaart kernteam met MV Hondius naar Rotterdam - NU",
+      "published": "2026-05-09T21:36:17+00:00",
+      "summary": "Live hantavirus | Na Tenerife vaart kernteam met MV Hondius naar Rotterdam&nbsp;&nbsp;NULive hantavirus | Britse opvarenden na terugkeer toch in ziekenhuisquarantaine&nbsp;&nbsp;NU'Geheim' plan en waarschuwing voor zwaar weer: buitenlandse media volgen virusschip op de voet&nbsp;&nbsp;AD.nlLIVE | ’Nederlands echtpaar liep hantavirus niet op bij vuilstortplaats: epicentrum ligt 1500 kilometer verderop’&nbsp;&nbsp;De TelegraafCruiseschip Hondius vaart na stop in Tenerife door naar Rotterdam, passa",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVVXemlwaHFDakdfdUFwUHNSS2trbjluLUZFTzNKRDZ0Ukc5YllJNHpCZDF1d29YbnN4RC15c255YzZwQUE0dF9VOFJGTjBlWklBbEJuLXRXNVNIMVUyQ2I3TEZwaDdwZjNrd1htZHVxMXlueHRyMWN6bHRMWDBILURxSjFQTnNJRkhZTmJ2WTBYNVRBaGt6dkpydEhYNjlGekVuYWt5MVBRWC1aZmFKWHlTWXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed7de67eb152",
+      "title": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis - Hart van Nederland",
+      "published": "2026-05-09T10:01:27+00:00",
+      "summary": "Nederlandse backpacker brengt mazelen naar Panama en belandt in ziekenhuis&nbsp;&nbsp;Hart van NederlandNederlandse toerist brengt mazelen naar Panama, sinds 1995 geen lokale gevallen&nbsp;&nbsp;NOSNederlandse backpacker met mazelen opgenomen in Panama-Stad&nbsp;&nbsp;NUNederlandse backpacker (21) met loopneus brengt mazelen naar Panama: land stuurt noodteams op pad&nbsp;&nbsp;AD.nlNederlandse toerist (21) met mazelen opgenomen in Panama&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkIwS2poUF9ibzFmWVY3LTByYmJxc0VRcE5wYmdWZVFNbGM4bUNSazhXajB2NF9DWTZpRTFHdnc4ODFpd2tDd3IyeXdKbGhTN04xTFd5eThjTmh3TVhJd3J5b3d5T3M0YUVnUTBrZEJNSGdXWkJUaEVlMlU3dGM2eTk4Y2g2NVhiNEVJRTBtaFdxNlo4VTB1bFNJZzFpVTB1dzVhRVVod25SZ0hPeUhCcXZpbzVCYnRBemgyUThwT19aZG9Td3VFQjkzTUJ5NWhtVzFNbUpEaThJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6462b76b8cdc",
+      "title": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus - AD.nl",
+      "published": "2026-05-08T03:00:00+00:00",
+      "summary": "‘Ik zwol op als een Michelin-mannetje’: Paul (68) werd getroffen door het zeldzame hantavirus&nbsp;&nbsp;AD.nlPaul (68) overleefde het hantavirus, maar betaalt hoge prijs: ‘Ben onzeker geworden, denk overal over na’&nbsp;&nbsp;AD.nlZorgminister Hermans: risico op verspreiding hantavirus klein in Nederland&nbsp;&nbsp;Hart van NederlandHantavirus: Hoe voorkom ik dat ik het krijg? En wat als ik het toch heb? Vijf vragen en antwoorden&nbsp;&nbsp;De GelderlanderHantavirus ’totaal niet te vergelijken’",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRRN0VZOFZjWFJ3bGxUang4Zi1GQlBDckZkUU9QUndJci0wRG5remZST0VfS25SRjhCZmpNMXBraVZHNUktYWZEazZrMUhldHZRZmlpeHMxNENSMEJkTURNSGNoeXFsY2ZTMDZwSkp3Ukg3cmVWZ05tdURyeklfV3FEUlZNUGlmV3R6WGVFdlpQY0NnR1lJWGoyOVVMczBuLU5ZX0VoUTNLVXIyZnF2WXZHc3JNWkY1VzFXYzI3V3h3UTc1TUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17251a02a8e5",
+      "title": "Opinie: Waarom smartphones bijdragen aan de toename van ADHD-diagnoses - de Volkskrant",
+      "published": "2026-05-09T12:00:16+00:00",
+      "summary": "Opinie: Waarom smartphones bijdragen aan de toename van ADHD-diagnoses&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnVBRTRWTVlOV054bTVUdXA5UUJPczJaUFZlZUV1VU92bFpjdEN2eHRROWJ3S3ZPNFVMSHZLTmdqVUpWVDItREFRWm9OdDgzUF9KUzdWSXg3RVE5WmtIRGlEa0lIS0hhM1dnTGVCbnZMSkVibEJORE9EVk9SQkJuT0ZENWlKVE5ocV9tNjcwT0kyTGZobEdMNnBnbVhqWEo0d2RSR1ZEa2x6ZnhCbDJiT2NubGFtcjBZcHhtbQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "628ed7b86bd7",
       "title": "Interview met arts-epidemioloog Casper den Heijer: 'Start hantavirus is heel anders dan bij corona' - L1 Nieuws",
@@ -12,18 +60,6 @@
         {
           "name": "L1 Nieuws",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTEwQ053c04xZjRwMEpoWm4zREVOUUFhXzVkS0RQbmdtdUpJNm1uRVFpVW93X3NzYWtqcEliYVFsYVR1LTFJYXpLanQzY0YzOUtDTEYtdEhhNlB1eGxya3VxUVhJeWtwWVFLdnhWRkc3X2cwalZBS2R1YXZmVU9BZXduOTdEZndXamxKeE53UzlZcFY3Y0M3WkxJSXFNU2JremxqVUpwYlZMb0lFWUVqaFFySUphendyTWV0VW9zY0VJcEkxSW9qc2M1MUhzOU0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3286b629dfc1",
-      "title": "Nieuwe poging LUMC om over te stappen op patiëntendossier van gehackt bedrijf - Omroep West",
-      "published": "2026-05-08T11:28:00+00:00",
-      "summary": "Nieuwe poging LUMC om over te stappen op patiëntendossier van gehackt bedrijf&nbsp;&nbsp;Omroep West164 | De ChipSoft-hack: de zorg gegijzeld&nbsp;&nbsp;SkiprPatiëntenportaal ZOL na maand onderbreking opnieuw online&nbsp;&nbsp;NieuwsbladPodcast Voorzorg | De ChipSoft-hack: de zorg gegijzeld&nbsp;&nbsp;Skipr",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGRKd2toSzRCVnRzajBBR0IyQ0Q1MHhGUFVOWFplZnhHdDZlV2VXMUVPVkZVdXJiTXBVLWF2Z1pYaFdQZjBhQmJTaGN6MDNsQ2p5N3M0UlE0ems5MHlhZGJTLVFCSWZBOW15WTFzYkpULVpFcEZxSXFrV1EzS29IZDZDdERjM1ZWay1XNXkydXd4NS15X1hhRllqS0tVZ1FLX3pzdFNBRWtmTFZ6QVBLekFFSmxrUnM?oc=5"
         }
       ]
     },
@@ -48,18 +84,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXdyRG4yZGJNNENuRzNiVWRpdS1NeDNHX0d4aDJJbFFvNFFfb2dlSnE1b1BFaTdMVlFneWdsTlJtbzFKSmhGWVZFdERwdzhzdnBHc0Npb1ZHcWVRcVpWcUtFd3JvOUloQjFLOU9zX0QwR0NTT19JNVpPa1gxam1hN041YkdJOWJVY0h1NEd3OU5aWGN2VHZwR0lKUEJya3ZzdzhUWU5GS19YY3FHN0hMNV8tWGxNbl9yeHlCcXh6X0VyWW1VVnBKakVzLUxzUnhyTTNGc1RZNUxKVTdoVnRseDB0OGl2M09QZl8wMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58c3d97f03ca",
-      "title": "Hevige strijd tegen borstkanker dwingt kapster Rosemarie (61) tot vervroegd pensioen: “Ik ga de blijvende vriendschappen voor altijd koesteren” - Nieuwsblad",
-      "published": "2026-05-08T10:00:00+00:00",
-      "summary": "Hevige strijd tegen borstkanker dwingt kapster Rosemarie (61) tot vervroegd pensioen: “Ik ga de blijvende vriendschappen voor altijd koesteren”&nbsp;&nbsp;Nieuwsblad",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZEVaYXIyZ3NFRHZqckZiWHFveU9NZWloSU45aGJtLUEzMnM2QlR5c2pkQjVSRVpmR24yU3MwQk4xSVdCOUIyTUVtWndJY3k0MWREY2Z2Z1h6N0FoNnNnaHA1MHMzcDBNeHRONU95TUdrcXB5MkpDT2JkWHlPbUV1X2dBNHh5UUtLZHp4Um9WZW0zZmllczg1THotZVVUc2MxckVXS1RENHNWSkREOVo3aTZWWVVEQUFMT2RVNTJHTldpTmlFOGlPTk1FXzJ5bWpLUHBwSFhyVE1IQXFVTEJRQnkyRDI0OENBZGpjdEVTbFllNGpyT0x5Rl9ENkViYWJ1X2xpZTRJTS16Q09mVERERmF5RUpTaFlEd0NYd01DZHE3Z0U5MW43ZExQQzduMXc0U1hjRkNNbTNhM3p4blRac3hQQQ?oc=5"
         }
       ]
     }

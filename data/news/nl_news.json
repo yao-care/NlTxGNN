@@ -1,41 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-11T14:43:42.406865+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-11T19:43:16.605202+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "eb464d24d72d",
+      "id": "85d1526bca69",
       "title": "LIVE | WHO: al zeven besmettingen van hantavirus bij passagiers van cruiseschip Hondius - De Telegraaf",
-      "published": "2026-05-11T14:08:55+00:00",
-      "summary": "LIVE | WHO: al zeven besmettingen van hantavirus bij passagiers van cruiseschip Hondius&nbsp;&nbsp;De TelegraafMinister vindt zes weken thuisquarantaine cruisepassagiers 'passende maatregel'&nbsp;&nbsp;NOSKapitein van virusschip Hondius laat van zich horen: ‘Wat ik ook zeg, het zal dit verlies niet verzachten’&nbsp;&nbsp;De GelderlanderAmerikaanse en Franse passagier Hondius vertonen symptomen hantavirus, Nederlandse opvarenden weer thuis&nbsp;&nbsp;de VolkskrantPassagiers van schip met hantavir",
+      "published": "2026-05-11T14:08:54+00:00",
+      "summary": "LIVE | WHO: al zeven besmettingen van hantavirus bij passagiers van cruiseschip Hondius&nbsp;&nbsp;De TelegraafMedewerkers Radboudumc in quarantaine om risico besmetting hantavirus: bloed en urine patiënt niet goed verwerkt&nbsp;&nbsp;De GelderlanderAlle passagiers van boord Hondius, cruiseschip onderweg naar Rotterdamse haven&nbsp;&nbsp;NUTweede Nederlandse vlucht vertrokken vanaf Tenerife met deel bemanning Hondius&nbsp;&nbsp;NOSHantavirus op cruiseschip Hondius: schip naar Rotterdam voor grot",
       "sources": [
         {
           "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPczB5X2FROHdIdXhtMl9KNE1ES0RNdmdGcU91VUp5Q1MyeGFXYl90YmN0cXdrRlFMekhuTHJGTGtNZ3BQb3RaQkVQdEhqWlNIQ19MdENydTVsNWNCTTNHZ29lZjE0NVY4d3p4SjA5SThrZTZiNzdTTnd2TEVsQ05TOUFuaU93QWd6Ym94cWZlR3ZrU08tVElON0thcjVIX1VaNmRQRkNnZFZfRVAzMEJjSGxnY3E2ZTRqeERrdkZZWG5YUjduWXlOVnRUaFRVT1I4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYXNfdXFKSXFZdWxuTkFkTlBCWlhYeUZlSElmem1wdS1wMjR6SGtVcmFqVVBfWDQxY1RvS2hzWlhxa1BnTmxJbTNOQ0h0YTA2Qm94cm1BTEVRaFpaMHNzZW40MU90U0ZSNjNaSVZERzdzME1MM2dMS0dhSDNGUmxsZi1JR3F1TXo1RUZlSUhGcm9nMS11THpwN2IySlJOcU5MUG51c0NWMUltUUE4a29WVUo3MlhyemkzUmx3V01B?oc=5"
         }
       ]
     },
     {
-      "id": "3d58245589cb",
-      "title": "Eeuwenoud medicijn gunstig voor patiënten met hartfalen - RTV Noord",
-      "published": "2026-05-11T13:27:07+00:00",
-      "summary": "Eeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordDit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent&nbsp;&nbsp;RTL.nlPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de VolkskrantUMCG-onderzoekers concluderen: eeuwenoud medicijn helpt patiënten met hartfalen&nbsp;&nbsp;OOG GroningenPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost",
+      "id": "c78736ce2d98",
+      "title": "Gros van de mannen heeft weleens erectieproblemen, voorspelt andere ziektes - bnr.nl",
+      "published": "2026-05-11T14:48:44+00:00",
+      "summary": "Gros van de mannen heeft weleens erectieproblemen, voorspelt andere ziektes&nbsp;&nbsp;bnr.nlGoedele Liekens over de ‘peniskater’: “We moeten af van het idee dat hij altijd braafjes doet wat je zou willen”&nbsp;&nbsp;HLNErectieproblemen vaak gemist alarmsignaal andere gezondheidsproblemen&nbsp;&nbsp;plusonline.nl",
       "sources": [
         {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnVTaTd6d3Q3ODZJbVl3NDNmYURITDkyLVhMZXowNGNqUmF1azlJNFFQRkRYeTVxTXBmSUlwRHBBMFZQRXBzQVU4aWRER3EzaFJlQ1M1V1dJOEQwX1VOelFCbkhUTUtCOHl6cGlSRFVjRHJHaGxBbDhsM3FfNUF1MW42R1lOV1dOdjZuWVVJTTAyWldveFhF?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVBwTXVuVUZKSVlIWVoyMTZweWp4VXVSaUxRR3I4SzBKV1pRVzZSamRfSS1kQ2xkY1NpZ3o1a295NHBWNTdZRF92cGRENzIwSFpHUWZERjZ4S0RnemVKZ3cyVjZTNEJ6YUloeW0yZTQwNkV4WWJNYWlLNnJ1a2t5aGlNVmpNZG4xa2Rjb0tqZ0NVM1pqc1d4X1g3ekg3X2M1T2NPOVBLTm1aY0o4MlNYQm9Oamxya2Zya0Vj?oc=5"
         }
       ]
     },
     {
-      "id": "52e6d1e3e5ae",
-      "title": "Live hantavirus | GGD: 'Controle thuisquarantaine passagiers is niet nodig' - NU",
-      "published": "2026-05-11T12:08:15+00:00",
-      "summary": "Live hantavirus | GGD: 'Controle thuisquarantaine passagiers is niet nodig'&nbsp;&nbsp;NUDe een moet drie weken in een quarantainecentrum, de ander mag naar huis. Landen passen WHO-advies voor uitbraak hantavirus verschillend toe&nbsp;&nbsp;NRC'Zes weken quarantaine bij hantavirus is nodig om zekerheid te krijgen'&nbsp;&nbsp;RTL.nlGeen controles op thuisquarantaine Hondius-opvarenden: 'Vertrouwen op eerlijkheid'&nbsp;&nbsp;Hart van NederlandGGD: controle thuisquarantaine passagiers is niet nodig",
+      "id": "c72ca014214d",
+      "title": "Hantapatiënten met andesvariant zijn besmettelijkst vlak voor ze klachten krijgen - NU",
+      "published": "2026-05-11T16:33:19+00:00",
+      "summary": "Hantapatiënten met andesvariant zijn besmettelijkst vlak voor ze klachten krijgen&nbsp;&nbsp;NUHantavirus is het besmettelijkst bij wie nog geen klachten heeft&nbsp;&nbsp;NUAmerikaanse passagier test ’mild positief’ op hantavirus na evacuatie Hondius&nbsp;&nbsp;De TelegraafBrussel herhaalt: 'laag' risico hantavirus voor Europese burgers&nbsp;&nbsp;RTL.nlArnhemmer Paul (68) overleeft zeldzaam hantavirus, maar hij betaalt een hoge prijs&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
           "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUZNUkkwNzNGNFNrNDZDNHZvV2tLOWdIMTVHQlhpaWRrWmZ5THp0UHhvVkJpYkJoZHItczVWamFGcTV0aGJwWTQ0SmFLUkQxVVJNLU5CN0lOeUlXdnFBVjZCdk1iSkVZYjFJQmp1eXV1aFZJenZtME1uOUxPUkhEMThQT0lld2tTYV9vc2xoY3dkNjhGZ2lHTXRYcU9QRmxPMU1ZdEhob1JxTjA2QVkwSFJ3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXREZXZaYzY0N2JYUGZyTlRnY2FsbmtpTmlKM3F4T2VkOGdZWjA3UmFHOW95VHpqalNnOVF1RDRQS3Z2dU5UQUQ5RS1pMkNhejNYOUdDVnZadnhKTl9lRkN2cEJ0VkJwdHZZWWFGS0lKZ0Job2NmT0tPdWFqaUJ1UmluWFQxbXhhdnZleDhyTmIzQ2trTllWbjFvaVVYN00xTWZUMEVYa3RUalpTelBKbE8xVDZfQzhwbXZtVEFYMDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5da67bc49be1",
+      "title": "Dit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent - RTL.nl",
+      "published": "2026-05-11T14:24:07+00:00",
+      "summary": "Dit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent&nbsp;&nbsp;RTL.nlEeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de VolkskrantUMCG-onderzoekers concluderen: eeuwenoud medicijn helpt patiënten met hartfalen&nbsp;&nbsp;OOG GroningenPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZzcyaTAwUVJlMmNQT1QyM1gxOExGYUFJdlBuSEtabkMzUGNxNzhqbjZwTlFJTi1Md0VhOXVtbVV5QTBFd3JPWGlSRy1DYlJZb0RtdmZoblhUaHdjUjhnQzkwSHNweUgtMENZZDgzdDNmLVdLZ0xQRElOYTNKUUxaMTZmSU9LMU5kcHZ5bDh2VzE?oc=5"
         }
       ]
     },
@@ -55,11 +67,23 @@
       "id": "16b84daf284a",
       "title": "Michel (55) uit Nijverdal geveld door levensgevaarlijke, bijna vergeten ziekte - Tubantia",
       "published": "2026-05-10T18:00:00+00:00",
-      "summary": "Michel (55) uit Nijverdal geveld door levensgevaarlijke, bijna vergeten ziekte&nbsp;&nbsp;TubantiaDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nlDodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de Stentor",
+      "summary": "Michel (55) uit Nijverdal geveld door levensgevaarlijke, bijna vergeten ziekte&nbsp;&nbsp;TubantiaDodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "Tubantia",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRC00cFpFLXVGczlRUUh5RlJrcktMT3gydlVIWlhuUkpHRmFKQXpCWXFwVkJEU3Z2QkJBUTFDY3hvbUhkRDFaemYzZlg3QVJXUG9TTGtYcUoyMVhmVy1LT1Atd1lhbW9FUUdBd2lrSGtJNnRTTGlzWWkyUjlfS2FoX0hGS0puT1VLVEl4eENJX3VSQVdhRktmTkExMVE4ZndwZ3Nwa0NFLTlINHFON2F1Z09zOWI5dnVHSS1FS3BvMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e381508c4733",
+      "title": "Nieuwe kankerbehandeling maakt wetenschappers enthousiast: \"We hebben nog maar het topje van de ijsberg gezien” - Welingelichte Kringen",
+      "published": "2026-05-11T09:20:53+00:00",
+      "summary": "Nieuwe kankerbehandeling maakt wetenschappers enthousiast: \"We hebben nog maar het topje van de ijsberg gezien”&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZG4weXFUc2EyUXVSeFAzb0tuVTJmTFUzZzFOUFFZaEZGNEI3VHFfNGNIU3A5V0RQd21ZSTR5Um8zWGtDQ2pMamJwV2tfZWhyV1pOWTk2UmExOGFGZVAxMm1CMXpfMjY1SXJrU3JaRm9kUkFKYWoxQVo4UWJFZkFTZk5TUFR2UVJYTnI3U0pvSEo3VlYzOGl6cE9Od3NrNVBDUVNYTl9TbDVFMlUzR294OGYtdDliRlgxSzhGYkpUeEpnZjlQMkhLamxzUzBON2hmNEFDSmFPSkZtVFRNT09lODM2c2tTS2MwQXZZ?oc=5"
         }
       ]
     }

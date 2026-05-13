@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-12T19:46:04.119364+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-13T02:48:38.867307+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "92be5d7d8f22",
-      "title": "Onderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen - Dagblad van het Noorden",
-      "published": "2026-05-12T04:15:00+00:00",
-      "summary": "Onderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenSimpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlDit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent&nbsp;&nbsp;RTL.nlPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de Volkskrant",
+      "id": "765f556c8b26",
+      "title": "67 mensen in Nederland in quarantaine om hantavirus, eerste tests negatief - RTL.nl",
+      "published": "2026-05-12T15:39:49+00:00",
+      "summary": "67 mensen in Nederland in quarantaine om hantavirus, eerste tests negatief&nbsp;&nbsp;RTL.nlVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noordhollands DagbladMet alles wat we weten over het andesvirus, lijken flashbacks naar corona onterecht&nbsp;&nbsp;NRCArtikel verwijderd&nbsp;&nbsp;RTL.nlVirusschip Hondius met 25 bemanningsleden, twee artsen en een stoffelijk overschot op weg naar Rotterdam&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "Dagblad van het Noorden",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbTBRZUd6RDBzOVB4ZEpzTlZHSGo0YVJsVXZwN19oa2xYRFpNX0pRQ29PdER6NFNXZjYtNkdMSXk2MnRUOGthZ0U3QU5fRk9QQVJwQzBZYUtsS1RONU1vSndUcFNNUDM5a0h3U2V6eF83TXF0RElqMUJBcTg1MXJTaWY3SjI3Y3JKanVHRVVJem9YVndHZmJPVmdFdFRLZndNMERTMEJldDFONHdQaVo5MGt1QkhHb0NtQUdPajlONF9MaktOZnc?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2tyWEhDajVSYkp1aTVsLVRLcjRKX0oxTEtnd1p0MEdRZE5HRU1vN0FFc2dDX2Z5TEJSNjd6NGdHeHUxaHA3OU5GMl90WG1iVHkyV0RvTFBCTVoxWFBIMHFHM2xHRDB3dERRS1hDMGxEbjJiUElkV2NLY0dXamxXQS13MkQ1azlTSGl4MXdaUUx3U0EyTTl6TlNmaGdKVlN6bVhHb2lJd1hFaEpUTWtIWlV4cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8d4142c89ee",
+      "title": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan - Scientias.nl",
+      "published": "2026-05-12T13:10:42+00:00",
+      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de VolkskrantDit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzR1cjIyaDVzT0NlU19OeW05anI5Z0tsV29qb1Mybi1Cb0NQQ1FRVjFGemdJcG9tbFNqN0h4cHNYSzU3a0VlaWI1MkhObm1qUHN4UE5PTHZ1VndKYU5pR1BseW5KclFNMk1kbEtnWUg2OW5jVXAyRXNKM01qeGhkX0lNNDRLQklhSVRnWDBSRGRnVkFCeEJaWWNvRE9xcVZGdVZ4aENBVFk0XzRVR3lYOWJRbkRUZWVDZEctaXo2VV84dEV4TmpESw?oc=5"
         }
       ]
     },
@@ -19,11 +31,23 @@
       "id": "6ac1c13a5a67",
       "title": "Spreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’ - De Telegraaf",
       "published": "2026-05-12T13:00:00+00:00",
-      "summary": "Spreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De TelegraafGGD: toch geen bewijs dat iemand zonder symptomen al hantavirus kan overdragen&nbsp;&nbsp;NUWaarom we zo aanslaan op de uitbraak van het hantavirus&nbsp;&nbsp;de VolkskrantZo wordt de Hondius in Rotterdam virusvrij gemaakt&nbsp;&nbsp;RijnmondHanta als waarschuwing&nbsp;&nbsp;Het Financieele Dagblad",
+      "summary": "Spreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De TelegraafHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUZo wordt de Hondius in Rotterdam virusvrij gemaakt&nbsp;&nbsp;RijnmondLIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de StentorLIVE WHO meldt 2 nieuwe gevallen van hantavirus, teller staat nu op 11&nbsp;&nbsp;VRT",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXlNMnlvQ1BaX3lSdWs0eUNiejNWS3pSekV2N1NBLW93MWtqQzNLVm9kek5JdTA1NGQ3bm1Sb1lOVUFRY1U1OHJMM2JBbzlyVERwak9wbEd2NDZYNmQxbDVvRUdnNjlmai1hY0ozQnVmU1ZBRmpEalpCZ3c2VEJxUDBYQWpCYnk2UkhSMmkyM0RNWjJMdmZsbV8wYmljVUVvM3AtVS14dzVIRk5MY1dKODVSR3JJVTJROXFUNUlYQWVzZ2lDNFJNTHFxd2dIVTlZdFVocGlGTTF0M1p5S3Bfc0NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "116a7b09ca14",
+      "title": "Droomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’ - AD.nl",
+      "published": "2026-05-12T05:46:00+00:00",
+      "summary": "Droomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’&nbsp;&nbsp;AD.nlRuim honderd opvarenden ziek door uitbraak buikgriepvirus op cruiseschip&nbsp;&nbsp;NUZeer besmettelijk norovirus velt meer dan 100 passagiers en 10 bemanningsleden op cruiseschip in Caraïben&nbsp;&nbsp;pzc.nlPaniek op cruiseschip in de Caraïben: meer dan 100 passagiers en 13 bemanningsleden ziek door norovirus&nbsp;&nbsp;De TelegraafRuim 100 opvarenden ziek door norovir",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakhuMTJVVUJZcHR1bDFyQ3l6dUhNclI0NWpIR3RraEFnaUlTVWtxam9EQVI1LWYtbjB1dWhRY0pfX2d3NjhJX0pHeW43VjZsNkh5M3YxekpXSldEWWhUbi1sZ3FXN0wxYk9ReHQxQWdHZzV6N21feWg1TnRQUDBScjVQQU5qU0RKc2VwVkh5OHA2UXI0cXFJMmRjVVlGZjRYcjJXb2VMSWdoc2dNd19iLUpuMHdsYlFMUTRub3EtRVVNbEE4dHRLZkJBZUJidW1TX2c4emQwbjJsZl84Q0Vtbi03Zl8ydEdT?oc=5"
         }
       ]
     },
@@ -36,18 +60,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZXdwcG9LMTJ3MFJzQXhXbVJrRGpXaHpkUDRnZ1BZRkhUZmhWWEhjOTdBcHBiNk5PM0swMXlVdEw5QU9YR0VxZU9Hdk0zbGxEb1dlYVhvbjJLd3A4QUFTaktzYlRKdFRJQm9aWjVHdi1WdEN2c0YwQm5KSEU2Vkt3WTVYeFJGOE9lNE51ejA5LWFfTTVGcVBUVExpLVdIZ2ZzcWJPeEVRdEN5OGxoTjM4LXZRUldzOFc0TnVFY0xZVHQzU1hWQm43SGlCU0ZaRmVzOEtreGdoN3lwdExnaURsSHVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a60c2be1822d",
-      "title": "Michel (55) geveld door levensgevaarlijke, bijna vergeten ziekte - de Stentor",
-      "published": "2026-05-10T21:54:00+00:00",
-      "summary": "Michel (55) geveld door levensgevaarlijke, bijna vergeten ziekte&nbsp;&nbsp;de StentorMichel (55) uit Nijverdal geveld door levensgevaarlijke, bijna vergeten ziekte&nbsp;&nbsp;TubantiaDodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de StentorDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajJFOFdxd3Vwa2JPWi1QRmQtd0ZFX1JRWDdNVkMzZ0xpVUUtaVFjVUN3dUMybThKQ21iME1DOE5uRURDVmI2b2NCMjUyY0ZMcWFLUmMxQ1BOWTJkNWVhN1RocklzeGRoVUtxeEY0ZGZSYlpZR0FLUEEwZVdHay1CUHBFQ3FLOE10Vll0UjQxMmRyN1JmcVExWGZPVG1LVTdHMTJlUlZoUQ?oc=5"
         }
       ]
     },

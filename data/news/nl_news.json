@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-13T02:48:38.867307+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-13T08:40:28.255070+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "765f556c8b26",
-      "title": "67 mensen in Nederland in quarantaine om hantavirus, eerste tests negatief - RTL.nl",
-      "published": "2026-05-12T15:39:49+00:00",
-      "summary": "67 mensen in Nederland in quarantaine om hantavirus, eerste tests negatief&nbsp;&nbsp;RTL.nlVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noordhollands DagbladMet alles wat we weten over het andesvirus, lijken flashbacks naar corona onterecht&nbsp;&nbsp;NRCArtikel verwijderd&nbsp;&nbsp;RTL.nlVirusschip Hondius met 25 bemanningsleden, twee artsen en een stoffelijk overschot op weg naar Rotterdam&nbsp;&nbsp;AD.nl",
+      "id": "38b9491c4fde",
+      "title": "Veel vragen over cruisevakanties door hanta: ’Hygiëne is strenger gereguleerd dan in luchtvaart en hotels’ - De Telegraaf",
+      "published": "2026-05-13T03:00:00+00:00",
+      "summary": "Veel vragen over cruisevakanties door hanta: ’Hygiëne is strenger gereguleerd dan in luchtvaart en hotels’&nbsp;&nbsp;De TelegraafVereniging scheepsartsen: sneller mondkapjes op aan boord&nbsp;&nbsp;Noordhollands DagbladViruscruise in trek bij vakantiegangers&nbsp;&nbsp;NieuwspaalZouden cruiseschepen broedplaatsen voor ziekten kunnen zijn?&nbsp;&nbsp;Vietnam.vnHoe zijn zeevarenden voorbereid op calamiteiten op zee? ‘Je bent op elkaar aangewezen’&nbsp;&nbsp;Dagblad van het Noorden",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2tyWEhDajVSYkp1aTVsLVRLcjRKX0oxTEtnd1p0MEdRZE5HRU1vN0FFc2dDX2Z5TEJSNjd6NGdHeHUxaHA3OU5GMl90WG1iVHkyV0RvTFBCTVoxWFBIMHFHM2xHRDB3dERRS1hDMGxEbjJiUElkV2NLY0dXamxXQS13MkQ1azlTSGl4MXdaUUx3U0EyTTl6TlNmaGdKVlN6bVhHb2lJd1hFaEpUTWtIWlV4cw?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVzktQTZNYTF3LWZiM0J3WEZvcDR4S19ZOUpwbXZCQ08zWWQyamxFc1d0eTBMTDJnU0Q0UlB2NnRYY1RHUExlZUVuUTFsc1cwa19wSjVvVnd5elpYUGZhLWFzUHV0a2l6cTNEci1oQXNfREpRU2k2T2FmRDB4QzRqZFd0d2RiQ3ZiMDJzMlpRTm9oamtSdmtPcFV5MFhOR3pwdW1QcS1WUkFQamVuOGhrYVpQcEdtUlpaaEF1aFhKZUhLSU9lQlp5d05tQUV3el9vZUpjMi1Sb1RVNXdyMkM2MDJqQWtfZFRWNHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c647d1ac9192",
+      "title": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’ - AD.nl",
+      "published": "2026-05-12T22:00:00+00:00",
+      "summary": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2ZhRkVOWVd4c1FyTlFqd1FtTzB2dEFOdWlEUTdqX3lqTzl3Q1NCdWNuOUhldWhUdlRsa2RRSFRrVFo3VEZJcWVHbnZyRnBIa1haRTJMSTlxWTBRbmdKdEh3bThaTWdpLWluU08tTEpGXzdxM3RjTk9WbU9BdjAxMXhGTUZXUExhS0dvbWtIWWEwNi1tNU92TjB5SkdjNUVFRkxTdDFkN3dqclhtQ216UjYtaGhNRXZLdEZOSmpHSExzcU5kRmNxOERaQzBtUGlOWUFid2NBWFBNeURj?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "6ac1c13a5a67",
-      "title": "Spreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’ - De Telegraaf",
-      "published": "2026-05-12T13:00:00+00:00",
-      "summary": "Spreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De TelegraafHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUZo wordt de Hondius in Rotterdam virusvrij gemaakt&nbsp;&nbsp;RijnmondLIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de StentorLIVE WHO meldt 2 nieuwe gevallen van hantavirus, teller staat nu op 11&nbsp;&nbsp;VRT",
+      "id": "924a3cbfbc55",
+      "title": "Ineens heeft iedereen het over het hantavirus, maar in Twente komt al jaren een ‘milde’ variant voor - Tubantia",
+      "published": "2026-05-11T19:30:00+00:00",
+      "summary": "Ineens heeft iedereen het over het hantavirus, maar in Twente komt al jaren een ‘milde’ variant voor&nbsp;&nbsp;TubantiaHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUZo wordt de Hondius in Rotterdam virusvrij gemaakt&nbsp;&nbsp;RijnmondSpreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De TelegraafLIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nb",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXlNMnlvQ1BaX3lSdWs0eUNiejNWS3pSekV2N1NBLW93MWtqQzNLVm9kek5JdTA1NGQ3bm1Sb1lOVUFRY1U1OHJMM2JBbzlyVERwak9wbEd2NDZYNmQxbDVvRUdnNjlmai1hY0ozQnVmU1ZBRmpEalpCZ3c2VEJxUDBYQWpCYnk2UkhSMmkyM0RNWjJMdmZsbV8wYmljVUVvM3AtVS14dzVIRk5MY1dKODVSR3JJVTJROXFUNUlYQWVzZ2lDNFJNTHFxd2dIVTlZdFVocGlGTTF0M1p5S3Bfc0NB?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY1I1dFVOTWxHcS1tdlExN3phVjVYczVyd3BZclBkLTZueHN6ZzJfejNVRFhqcG5Rd2YzcGdiQmpMVFZpVzZvZDBiM3hENVNxLWhWMC1JSEhrbF9vNkJmdGdGWnB3dDliWnlYTDZCVkdIVUpwc1FnSXhYaEN2dEZhenltTG5PQ0FCM3JtRU5vclRGdEpMVWMyVzIzNENYYWxiZmtHalhUcnJiWFFUNkNMQ2RxRGtFQTg4UlNSREJ5MUNhdWh3TWxPckE2cjI5UFJzZHFoU2NEZw?oc=5"
         }
       ]
     },
@@ -67,11 +79,35 @@
       "id": "fb0b2358f089",
       "title": "Acht tips die écht helpen tegen lage rugpijn: ‘Het advies om te rusten is allang achterhaald’ - AD.nl",
       "published": "2026-05-11T08:15:00+00:00",
-      "summary": "Acht tips die écht helpen tegen lage rugpijn: ‘Het advies om te rusten is allang achterhaald’&nbsp;&nbsp;AD.nl“Operaties maken heel wat brokken”: professor lijst de 8 zaken op die wél helpen tegen lage rugpijn&nbsp;&nbsp;HLNOnderzoekers van VUB waarschuwen voor dure producten tegen rugpijn&nbsp;&nbsp;Redactie24",
+      "summary": "Acht tips die écht helpen tegen lage rugpijn: ‘Het advies om te rusten is allang achterhaald’&nbsp;&nbsp;AD.nlChronische lage rugpijn: op weg naar een meer gepersonaliseerde aanpak waarin hersenen, beweging en angst worden geïntegreerd&nbsp;&nbsp;MediQuality“Operaties maken heel wat brokken”: professor lijst de 8 zaken op die wél helpen tegen lage rugpijn&nbsp;&nbsp;HLNOnderzoekers van VUB waarschuwen voor dure producten tegen rugpijn&nbsp;&nbsp;Redactie24",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0RmdHVMdEFhZXpuMVdqUXpmaVZmWV9BVzgwMElHVzVzNjQ0d2VlRGtmaDBKUEFHR0xWNUVFSlQ1ZC1MSGluZUdHR2ExTlcyWHlQaUtSX0wyX191THVWUUxqYnhYZ0lJOGRqUTB4WjFyTHR0eHhyWTRJQmEwMk1PeDJUd2JVeUVfSlNRX3FqdFlkVm1QOU9mXy1MNV9MY3Bfdzd1dm1uNFVIaU5fRHg0cVRJUW1MdE1RM2tMZS1ZMUloY1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f96d4520f3b",
+      "title": "Slank blijven? Dit is het aantal stappen dat je dagelijks moet lopen - De Telegraaf",
+      "published": "2026-05-11T17:13:00+00:00",
+      "summary": "Slank blijven? Dit is het aantal stappen dat je dagelijks moet lopen&nbsp;&nbsp;De TelegraafHoeveel stappen per dag na afvallen? Dit aantal houdt je slank&nbsp;&nbsp;Dagblad van het NoordenDit is hoeveel stappen je nodig hebt om het jojo-effect te voorkomen&nbsp;&nbsp;Scientias.nlWandelen: Onderzoek wijst uit wat het ideale aantal stappen is voor vrouwen boven de 50 om daadwerkelijk af te vallen.&nbsp;&nbsp;Vietnam.vnWandel jij om af te vallen? Dit tempo verbrandt écht het meeste vet&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmlrbkRHMFE4bk5zOGEtX0RDWEphdEZEZTRPcGkzaHhYSUxHc0E4VjZ0dm85QWVWS0ctaXFVSk5wbmtkbVZJamlySEZpRUpKbVgtVGRleGc1N2ttVWo0RWRBbEowT2sxbEktUjk4Tzl6TG1TWVlGN0doTkhVd05IbW16N29WbU8xQ0l0RkhiS0lSYmJLM01xTi11N0R6WnR6bzd5M1I5TTFZLTZYTWRYbVZxeWl4MW9Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d28959caaa7",
+      "title": "Gewichtstoename door creatine? Artsen weten vrij precies wat je kunt verwachten - Men's Health",
+      "published": "2026-05-12T18:00:00+00:00",
+      "summary": "Gewichtstoename door creatine? Artsen weten vrij precies wat je kunt verwachten&nbsp;&nbsp;Men's Health",
+      "sources": [
+        {
+          "name": "Men's Health",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUZWX1psZUpPNHJqcDRfam50blBKS2hWLXl6eE9MMTJpeWhnbmJNREZFRUtmOEJKMm0yX0hnTVU5QWpMS3FRSEV2Q3FsMy1SQTBrZFRpSy1yaklzZkh2c0VxOVB1REZ2WnJJQ0xqVmxSZDVJenRoSXJyZ2QxNTNWMEZzaHhPdDE3aWNSZw?oc=5"
         }
       ]
     }

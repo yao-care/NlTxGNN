@@ -1,32 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-13T14:26:16.890881+00:00",
-  "count": 9,
+  "fetched_at": "2026-05-13T19:50:43.141479+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "dec6e7ab401e",
-      "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
-      "published": "2026-05-13T12:57:14+00:00",
-      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafDit ging mis rond de patiënt met hantavirus in Nijmegen&nbsp;&nbsp;Omroep GelderlandPatiënten Marie-José en Ron over hantavirus in ‘hun’ Radboudumc: ‘Niet bezorgd, maar wel boos’&nbsp;&nbsp;De GelderlanderLIVE | Radboudumc noemt fouten bij hantavirus ‘ongelukkige samenloop’&nbsp;&nbsp;Leeuwarder CourantTwaalf medewerkers Radboudumc in quarantaine na foute werkwijze hantavirus&nbsp;&nbsp;NU",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1c0R2prM3hFVWM3ck9xNHZiWmhkclRTdmZ2TVctdmRPZmVnX0FJN0lTZVVhYWtxOE5zdDBPRHlQNmpnckc1MmV0WnR4d0RhcGtoWmstS2RzQ2p0MFlDU3ZyZUEzQzNCbzVMdzJTMzFUaWNRLVVHWUN4NS1lbkZmM2lERU9TNG5jMUYwbG04Q3FwX2o0Y3N2UzcwMTdVXzMzaHFTWkxZV0lSZmd4N25pSlJ4ZHZYVUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e212dc474ada",
-      "title": "Opnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine - RTL.nl",
-      "published": "2026-05-13T12:07:42+00:00",
-      "summary": "Opnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nl1700 mensen in quarantaine op cruiseschip na sterfgeval: vermoedelijk norovirus&nbsp;&nbsp;AD.nlMeer dan 1700 mensen vast op cruiseschip door uitbraak norovirus, honderden in quarantaine&nbsp;&nbsp;De TelegraafMeer dan 1.700 mensen vast op cruiseschip in Bordeaux na overlijden en mogelijke uitbraak norovirus&nbsp;&nbsp;VRTMeer dan 1.700 mensen vast op cruiseschip in Bordeaux na overlijden en ziekteuitbraak&nb",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1BIR1hsRFluZDg1cHFoTkhnNHYzcVRBYjRIMUV5SmhCelNwVk5xY3phd19rYklYLW1fWkNPbkNoOWVlMFR6U2VFLUM0QnZQTDl3ckVLSlJ0YmlPTlg1Q1RRMC1RM18xdjBRcV9RbmlPNHZxeHFxd2FmOGlzeHNVMlpndkgxU01HN3FjTUxLNGRCelM2dW1GT01iOVpRci11TF9pV1BVMi1IR21ibHNxcW5JLXlnZDl0X1E?oc=5"
-        }
-      ]
-    },
     {
       "id": "c647d1ac9192",
       "title": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’ - AD.nl",
@@ -40,22 +16,10 @@
       ]
     },
     {
-      "id": "38b9491c4fde",
-      "title": "Veel vragen over cruisevakanties door hanta: ’Hygiëne is strenger gereguleerd dan in luchtvaart en hotels’ - De Telegraaf",
-      "published": "2026-05-12T20:00:00+00:00",
-      "summary": "Veel vragen over cruisevakanties door hanta: ’Hygiëne is strenger gereguleerd dan in luchtvaart en hotels’&nbsp;&nbsp;De TelegraafVereniging scheepsartsen: sneller mondkapjes op aan boord&nbsp;&nbsp;Noordhollands DagbladLIVE hantavirus | Ziekteprotocol op schepen niet aangepast, wel advies om sneller mondkapjes te gebruiken&nbsp;&nbsp;AD.nlViruscruise in trek bij vakantiegangers&nbsp;&nbsp;NieuwspaalZouden cruiseschepen broedplaatsen voor ziekten kunnen zijn?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVzktQTZNYTF3LWZiM0J3WEZvcDR4S19ZOUpwbXZCQ08zWWQyamxFc1d0eTBMTDJnU0Q0UlB2NnRYY1RHUExlZUVuUTFsc1cwa19wSjVvVnd5elpYUGZhLWFzUHV0a2l6cTNEci1oQXNfREpRU2k2T2FmRDB4QzRqZFd0d2RiQ3ZiMDJzMlpRTm9oamtSdmtPcFV5MFhOR3pwdW1QcS1WUkFQamVuOGhrYVpQcEdtUlpaaEF1aFhKZUhLSU9lQlp5d05tQUV3el9vZUpjMi1Sb1RVNXdyMkM2MDJqQWtfZFRWNHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8d4142c89ee",
       "title": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan - Scientias.nl",
       "published": "2026-05-12T13:10:42+00:00",
-      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenPatiënten met hartfalen gebaat bij oud medicijn dat nog geen tien cent kost, effect van medicijn al in 18de eeuw beschreven&nbsp;&nbsp;de VolkskrantDit eeuwenoude medicijn kan patiënten met hartfalen helpen en kost maar 10 cent&nbsp;&nbsp;RTL.nl",
+      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenEeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordUMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen'&nbsp;&nbsp;Groninger Internet CourantDit eeuwenoude medicijn kan patiënten met hartfalen helpen",
       "sources": [
         {
           "name": "Scientias.nl",
@@ -64,14 +28,14 @@
       ]
     },
     {
-      "id": "ade51f4d370a",
-      "title": "LIVE | Baas WHO: ’Hantavirus zal zich verspreiden, maar geen tekenen begin van grotere uitbraak’ - De Telegraaf",
-      "published": "2026-05-13T11:17:47+00:00",
-      "summary": "LIVE | Baas WHO: ’Hantavirus zal zich verspreiden, maar geen tekenen begin van grotere uitbraak’&nbsp;&nbsp;De TelegraafHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUHanta als waarschuwing&nbsp;&nbsp;Het Financieele DagbladLIVE 22 mensen voor observatie in ziekenhuis in Frankrijk na contact met overleden passagier uit Nederland&nbsp;&nbsp;VRTWat wil jij weten over het hantavirus? Laat het ons weten&nbsp;&nbsp;De Gelderlander",
+      "id": "941e42147baf",
+      "title": "LIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’ - de Stentor",
+      "published": "2026-05-12T00:02:00+00:00",
+      "summary": "LIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de StentorHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUHanta als waarschuwing&nbsp;&nbsp;Het Financieele DagbladAlle 22 Franse contacten van Nederlandse vrouw die overleed aan hanta in ziekenhuis ter observatie&nbsp;&nbsp;HLNSpreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd05qU3NzdFhlYVNfNXItNVVtRk9FbWJwUVBLRkRyOWgtYjhCdlpDSHFTQzlhdzFyVWY0c2xEeklHOWF6TGhfWlBpcnI4MFdrVUI4SWtaeDZDSzl0ZHNISFhIMGtIbzk3VXlJNWRsbHJCc3dPazJEeHVXVElhYkhYVmtiamZ4NUE3YlR2bllmb3dzZ2xqYVkyVkcwMFlQOHVaZlpUT3hrV1o0RnhqbzdBTk1naU96NEY1WUxtYVdRSnZxOWFyX3U1QkJ4ZlIyYV9feUpnSUF5U2I?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZWVPdVpGZkZWV0JocTBscVlHSUVqY3BaQ2prWU9PbXRWTmFiMVlkR0RLdEo1NWVXQ2lQbDh3c0xuMGZuZHFnbElOWURCMXVXX2kzZlFBMGNDaXI1Z1JGVzhlYmFHVGJTLTFJS0RBeGFodXR5SklaV1ZHaWU5cmVVOHptblRnLTFkM1hCQWlOS1dQcmkwUG5UdXNZZUFBMjk5ejRKVTA1U3hqYXJJY2lKbHdTaDNMQVcxMW5XZlBjY0xYZmxRNFVyU3c5enBKSE0wN0hocUFrV2hYd3UwcEtEaVZDeUMzU2E3VnlrWEV0ZFVJNlli?oc=5"
         }
       ]
     },
@@ -84,18 +48,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQm9BRXRBMk8xaXItNmhkb2swMEdWUk91UnFDbXlpVzRHelVVdUdScHc2OEZsXzJFME1jVVpYRXplWmlIdGstX3ZpbmZiY1djeERJeDdlM1NJcGJiSFJmX3ZiUFhEWEhObWtGWlVaR3VQMWYwOG00R0J4SGc2QjFid3pWbnRQbnFsbENmNU5xcDJuMTRNT1cyVW1lbEpXZDZ5NF9ZeldXN0U2TDVwQWp4NElYTEdnNDhvSGNKNDhvOXAwSzNBaXNV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f96d4520f3b",
-      "title": "Slank blijven? Dit is het aantal stappen dat je dagelijks moet lopen - De Telegraaf",
-      "published": "2026-05-11T17:13:00+00:00",
-      "summary": "Slank blijven? Dit is het aantal stappen dat je dagelijks moet lopen&nbsp;&nbsp;De TelegraafHoeveel stappen per dag na afvallen? Dit aantal houdt je slank&nbsp;&nbsp;Dagblad van het NoordenDit is hoeveel stappen je nodig hebt om het jojo-effect te voorkomen&nbsp;&nbsp;Scientias.nlWandelen: Onderzoek wijst uit wat het ideale aantal stappen is voor vrouwen boven de 50 om daadwerkelijk af te vallen.&nbsp;&nbsp;Vietnam.vnWandel jij om af te vallen? Dit tempo verbrandt écht het meeste vet&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmlrbkRHMFE4bk5zOGEtX0RDWEphdEZEZTRPcGkzaHhYSUxHc0E4VjZ0dm85QWVWS0ctaXFVSk5wbmtkbVZJamlySEZpRUpKbVgtVGRleGc1N2ttVWo0RWRBbEowT2sxbEktUjk4Tzl6TG1TWVlGN0doTkhVd05IbW16N29WbU8xQ0l0RkhiS0lSYmJLM01xTi11N0R6WnR6bzd5M1I5TTFZLTZYTWRYbVZxeWl4MW9Y?oc=5"
         }
       ]
     },

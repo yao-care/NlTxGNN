@@ -1,13 +1,37 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-13T19:50:43.141479+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-14T02:50:14.760762+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "44cfb3283870",
+      "title": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus - NOS",
+      "published": "2026-05-13T21:00:05+00:00",
+      "summary": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus&nbsp;&nbsp;NOSAutoriteiten bevestigen uitbraak van norovirus op cruiseschip in Bordeaux: 80 zieken, passagiers zonder symptomen mogen boot verlaten&nbsp;&nbsp;HLNDroomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’&nbsp;&nbsp;AD.nlOpnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nlNa uitbraak hantavirus nu ook norovirus op ee",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2FCejhLNzVvMEIzWUVQRkR3d1ZfRlpjS2ZmaVVobndHalZ6MDlqLXZlN3o2YjQyUlpGZ3hEV2l6d1VpM1RDV1dDQXpyNE1lZ2psNTgtYkt6YUl1clYzM3hOVzI0T01GMlNwMExMTHBlMWdIdlRSandkbGRqZVBKbWpTOF9oSnBvUzEwZHROOEdjcmhTc1htc3NvUGJxTDRPeThXajZRZGo4eHVG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dec6e7ab401e",
+      "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
+      "published": "2026-05-13T14:43:25+00:00",
+      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Radboud: bloedonderzoek toont dat personeel geen risico was&nbsp;&nbsp;NULigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundigen vellen hun oordeel&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandWat ging er mis bij het Radboudumc en hoeveel gevaar is er voor verspreiding van het hantavirus?&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1c0R2prM3hFVWM3ck9xNHZiWmhkclRTdmZ2TVctdmRPZmVnX0FJN0lTZVVhYWtxOE5zdDBPRHlQNmpnckc1MmV0WnR4d0RhcGtoWmstS2RzQ2p0MFlDU3ZyZUEzQzNCbzVMdzJTMzFUaWNRLVVHWUN4NS1lbkZmM2lERU9TNG5jMUYwbG04Q3FwX2o0Y3N2UzcwMTdVXzMzaHFTWkxZV0lSZmd4N25pSlJ4ZHZYVUk?oc=5"
+        }
+      ]
+    },
     {
       "id": "c647d1ac9192",
       "title": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’ - AD.nl",
       "published": "2026-05-12T22:00:00+00:00",
-      "summary": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’&nbsp;&nbsp;AD.nl",
+      "summary": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’&nbsp;&nbsp;AD.nlSmartwatch verslaat het ziekenhuis bij parkinsonmeting&nbsp;&nbsp;ioplus.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,14 +52,26 @@
       ]
     },
     {
-      "id": "941e42147baf",
-      "title": "LIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’ - de Stentor",
-      "published": "2026-05-12T00:02:00+00:00",
-      "summary": "LIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de StentorHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUHanta als waarschuwing&nbsp;&nbsp;Het Financieele DagbladAlle 22 Franse contacten van Nederlandse vrouw die overleed aan hanta in ziekenhuis ter observatie&nbsp;&nbsp;HLNSpreekuur: Hoe gevaarlijk is het hantavirus voor mijn hart? Cardioloog: ’Uitbraak is een wake-up call’&nbsp;&nbsp;De Telegraaf",
+      "id": "f28a8f27d8ec",
+      "title": "Desinformatie over HIV schaadt de volksgezondheid - Starnieuws",
+      "published": "2026-05-13T03:58:00+00:00",
+      "summary": "Desinformatie over HIV schaadt de volksgezondheid&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of SurinameSimons bezorgd over stijging soa’s en hiv in Suriname&nbsp;&nbsp;Suriname HeraldJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameVeertig jongeren getraind voor voorlichting over hiv&nbsp;&nbsp;Times of Suriname",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZWVPdVpGZkZWV0JocTBscVlHSUVqY3BaQ2prWU9PbXRWTmFiMVlkR0RLdEo1NWVXQ2lQbDh3c0xuMGZuZHFnbElOWURCMXVXX2kzZlFBMGNDaXI1Z1JGVzhlYmFHVGJTLTFJS0RBeGFodXR5SklaV1ZHaWU5cmVVOHptblRnLTFkM1hCQWlOS1dQcmkwUG5UdXNZZUFBMjk5ejRKVTA1U3hqYXJJY2lKbHdTaDNMQVcxMW5XZlBjY0xYZmxRNFVyU3c5enBKSE0wN0hocUFrV2hYd3UwcEtEaVZDeUMzU2E3VnlrWEV0ZFVJNlli?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FWTRZS3RRcU56d3ZjSDA2bnNvbVZRTlFIYS1IWGVCRWhhYUR0bm50YXNJTDBpQzRXVGNjQUstdG9rd2JPM290MFcwbzlsdkJoclY2WFhsWkM5WFlUUVR4dEpOTU9EYnh6Q0hPd2tLdTFydDVzTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "507c0200b2a3",
+      "title": "Tbc rukt op: in Twente liggen overal sporen van deze vergeten volksziekte - Tubantia",
+      "published": "2026-05-13T09:53:00+00:00",
+      "summary": "Tbc rukt op: in Twente liggen overal sporen van deze vergeten volksziekte&nbsp;&nbsp;TubantiaMichel (55) geveld door levensgevaarlijke, bijna vergeten ziekte&nbsp;&nbsp;de StentorDodelijke ziekte bezig aan opmars: hoe tuberculose opnieuw toeneemt in Nederland&nbsp;&nbsp;AD.nlDodelijke ziekte bezig aan opmars: hoe tbc opnieuw toeneemt in Nederland&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NKUUxyQnVIZXQxQWR6LXFvQWJnVGJaU2xFSjBfby00SGdrYmYxSFdpMTNUNXJaejFZTkFLMmxxZHZDdmEyVWRMUmxMYWI0U3hWcFJlc0xmS1VBcTBUUjcyN1V6enVjT0dZT0tuQWo5STRQNEc4RkpFb2lBd210dUNmMkhLNjdOSGRSbkFQUVAwcHpid3pUVjN3Yk4xenc2RzBTNVZtSFQ3UXV1aENQM3E1WFVNTU9wWnc?oc=5"
         }
       ]
     },

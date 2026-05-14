@@ -1,65 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-14T14:03:24.392538+00:00",
-  "count": 8,
+  "fetched_at": "2026-05-14T19:42:08.155080+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "dec6e7ab401e",
-      "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
-      "published": "2026-05-13T14:43:25+00:00",
-      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Mogelijk besmette Radboud-medewerkers vormden geen gevaar&nbsp;&nbsp;NUOnderzoek wijst uit: nog geen virus in bloed gevonden van personeel Radboudumc, toch staat de twaalf een pittige tijd te wachten&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandLIVE Hantavirus | Medewerkers Radboudumc niet besmettelijk geweest voor anderen",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1c0R2prM3hFVWM3ck9xNHZiWmhkclRTdmZ2TVctdmRPZmVnX0FJN0lTZVVhYWtxOE5zdDBPRHlQNmpnckc1MmV0WnR4d0RhcGtoWmstS2RzQ2p0MFlDU3ZyZUEzQzNCbzVMdzJTMzFUaWNRLVVHWUN4NS1lbkZmM2lERU9TNG5jMUYwbG04Q3FwX2o0Y3N2UzcwMTdVXzMzaHFTWkxZV0lSZmd4N25pSlJ4ZHZYVUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8d4142c89ee",
-      "title": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan - Scientias.nl",
-      "published": "2026-05-12T13:10:42+00:00",
-      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenSpotgoedkoop hartfalenmedicijn in lage dosis tóch veilig en effectief bevonden&nbsp;&nbsp;Nationale ZorggidsEeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordDit eeuwenoude medicijn kan patiënten met hartfalen helpen en",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzR1cjIyaDVzT0NlU19OeW05anI5Z0tsV29qb1Mybi1Cb0NQQ1FRVjFGemdJcG9tbFNqN0h4cHNYSzU3a0VlaWI1MkhObm1qUHN4UE5PTHZ1VndKYU5pR1BseW5KclFNMk1kbEtnWUg2OW5jVXAyRXNKM01qeGhkX0lNNDRLQklhSVRnWDBSRGRnVkFCeEJaWWNvRE9xcVZGdVZ4aENBVFk0XzRVR3lYOWJRbkRUZWVDZEctaXo2VV84dEV4TmpESw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50ea432f91cc",
-      "title": "Lust je kind geen groente? Ontstaat mogelijk al in de baarmoeder - RTL.nl",
-      "published": "2026-05-13T14:20:47+00:00",
-      "summary": "Lust je kind geen groente? Ontstaat mogelijk al in de baarmoeder&nbsp;&nbsp;RTL.nlMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenLust je kind geen groenten? Dít kan volgens onderzoekers de reden zijn&nbsp;&nbsp;Metronieuws.nl“Smaakgeheugen begint al in de baarmoeder”: kleine Britse studie ziet vroege voorkeur voor groenten&nbsp;&nbsp;HBVLLust je kind geen groente? Dat is misschien al in de baarmoeder ontstaan&nbsp;&nbsp;Welingelicht",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXFiVVFnQ3c4dW41U0RtYlVEUEswZjNPcDl5WlhoYkxscU9VTVd0MklUdERzbzFyb1ppYks3N2RYbUZ2T2h5cm85cjRDVlZJMEpjOXlxN1FQT19iclNNdnk3TW5EMFBhWUNoYXQwTUhxekR0UDFZU2hrOVJfUVdXdERMT1lLUjlZa2RVUWlSY29wVnJoTTJoVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c647d1ac9192",
-      "title": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’ - AD.nl",
-      "published": "2026-05-12T22:00:00+00:00",
-      "summary": "Smartwatch kan parkinson beter volgen dan jaarlijkse controle: ‘Zo zien we sneller of een behandeling werkt’&nbsp;&nbsp;AD.nlSmartwatch verslaat het ziekenhuis bij parkinsonmeting&nbsp;&nbsp;ioplus.nl",
+      "id": "62cd79926959",
+      "title": "LIVE Hantavirus | Radboudumc spreekt van ‘ongelukkige samenloop van omstandigheden’ nadat 12 medewerkers in quarantaine moeten - AD.nl",
+      "published": "2026-05-13T02:00:00+00:00",
+      "summary": "LIVE Hantavirus | Radboudumc spreekt van ‘ongelukkige samenloop van omstandigheden’ nadat 12 medewerkers in quarantaine moeten&nbsp;&nbsp;AD.nlLive | Radboudumc: bloedonderzoek toont dat personeel geen risico vormde&nbsp;&nbsp;NULIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafOnderzoek wijst uit: nog geen virus in bloed gevonden van personeel Radboudumc, toch staat de twaalf een pittige tijd te wachten&nbsp;&nbsp;De GelderlanderLIVE Hantavirus | Medew",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2ZhRkVOWVd4c1FyTlFqd1FtTzB2dEFOdWlEUTdqX3lqTzl3Q1NCdWNuOUhldWhUdlRsa2RRSFRrVFo3VEZJcWVHbnZyRnBIa1haRTJMSTlxWTBRbmdKdEh3bThaTWdpLWluU08tTEpGXzdxM3RjTk9WbU9BdjAxMXhGTUZXUExhS0dvbWtIWWEwNi1tNU92TjB5SkdjNUVFRkxTdDFkN3dqclhtQ216UjYtaGhNRXZLdEZOSmpHSExzcU5kRmNxOERaQzBtUGlOWUFid2NBWFBNeURj?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTlhblB0cS1VekF3UDVidk56YXJyakJfTVBQOTgyZzJiTndMRXVCTERNMXRjY05DWDdMa1lwMTRSUmxCc1Y3b0RKTk9UcGZONnJHaW91MUFLY04ydlJFV1hVcHJtQ1FKN3A2WW1WdXBEaW5vNGJ1NW8ybFdCVTU2VHl4SW5ZaE9OMDFaeXFJY3h2SkdTRVI5SGRQUl9iZVgzZURpRkFweDNIc0NGR3VGcGFVSGhFb3IzZHhPTDlCanhWc0NRT3ZKSmxwVG9SNk9jZUMxRlBjVzFiSmRud3p4LTJMVXFOSDlRNEJrVFZMU3hWR28?oc=5"
         }
       ]
     },
     {
-      "id": "f28a8f27d8ec",
-      "title": "Desinformatie over HIV schaadt de volksgezondheid - Starnieuws",
-      "published": "2026-05-13T03:58:00+00:00",
-      "summary": "Desinformatie over HIV schaadt de volksgezondheid&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of SurinameSimons bezorgd over stijging soa’s en hiv in Suriname&nbsp;&nbsp;Suriname HeraldJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameVeertig jongeren getraind voor voorlichting over hiv&nbsp;&nbsp;Times of Suriname",
+      "id": "4acf82a85104",
+      "title": "Volksgezondheid: risico op hantavirus in Suriname momenteel zeer laag - Starnieuws",
+      "published": "2026-05-13T21:33:00+00:00",
+      "summary": "Volksgezondheid: risico op hantavirus in Suriname momenteel zeer laag&nbsp;&nbsp;StarnieuwsHantavirus is het besmettelijkst vlak voordat iemand klachten krijgt&nbsp;&nbsp;NUKindervraag: Is het hantavirus het nieuwe corona?&nbsp;&nbsp;NOS JeugdjournaalECDC: geen tekenen dat hantavirus op Hondius zich heeft gemuteerd&nbsp;&nbsp;De Gooi- en EemlanderLIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de Stentor",
       "sources": [
         {
           "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FWTRZS3RRcU56d3ZjSDA2bnNvbVZRTlFIYS1IWGVCRWhhYUR0bm50YXNJTDBpQzRXVGNjQUstdG9rd2JPM290MFcwbzlsdkJoclY2WFhsWkM5WFlUUVR4dEpOTU9EYnh6Q0hPd2tLdTFydDVzTlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYXJ1b0lhVlRkbUVCckN4cEZSUDRBNHdCa2pZTlpiYVJVSEdJTDd3M0lmdk9oemVhb2s5a2luZ3JRMk5JWXBiUGMxTWZvdVp1Q3UxRU44Ri1HT1hnb1NITnZxeWVta3JOTl9TOWpvZWJPWmxHUGc?oc=5"
         }
       ]
     },
@@ -72,30 +36,6 @@
         {
           "name": "Tubantia",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NKUUxyQnVIZXQxQWR6LXFvQWJnVGJaU2xFSjBfby00SGdrYmYxSFdpMTNUNXJaejFZTkFLMmxxZHZDdmEyVWRMUmxMYWI0U3hWcFJlc0xmS1VBcTBUUjcyN1V6enVjT0dZT0tuQWo5STRQNEc4RkpFb2lBd210dUNmMkhLNjdOSGRSbkFQUVAwcHpid3pUVjN3Yk4xenc2RzBTNVZtSFQ3UXV1aENQM3E1WFVNTU9wWnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07e2a4d77a6c",
-      "title": "Kankerpatiënten ruilen chemo in voor ivermectine: \"risico op leverschade en interacties met andere medicatie\" - Scientias.nl",
-      "published": "2026-05-12T17:10:19+00:00",
-      "summary": "Kankerpatiënten ruilen chemo in voor ivermectine: \"risico op leverschade en interacties met andere medicatie\"&nbsp;&nbsp;Scientias.nl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQm9BRXRBMk8xaXItNmhkb2swMEdWUk91UnFDbXlpVzRHelVVdUdScHc2OEZsXzJFME1jVVpYRXplWmlIdGstX3ZpbmZiY1djeERJeDdlM1NJcGJiSFJmX3ZiUFhEWEhObWtGWlVaR3VQMWYwOG00R0J4SGc2QjFid3pWbnRQbnFsbENmNU5xcDJuMTRNT1cyVW1lbEpXZDZ5NF9ZeldXN0U2TDVwQWp4NElYTEdnNDhvSGNKNDhvOXAwSzNBaXNV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d28959caaa7",
-      "title": "Gewichtstoename door creatine? Artsen weten vrij precies wat je kunt verwachten - Men's Health",
-      "published": "2026-05-12T18:00:00+00:00",
-      "summary": "Gewichtstoename door creatine? Artsen weten vrij precies wat je kunt verwachten&nbsp;&nbsp;Men's Health",
-      "sources": [
-        {
-          "name": "Men's Health",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUZWX1psZUpPNHJqcDRfam50blBKS2hWLXl6eE9MMTJpeWhnbmJNREZFRUtmOEJKMm0yX0hnTVU5QWpMS3FRSEV2Q3FsMy1SQTBrZFRpSy1yaklzZkh2c0VxOVB1REZ2WnJJQ0xqVmxSZDVJenRoSXJyZ2QxNTNWMEZzaHhPdDE3aWNSZw?oc=5"
         }
       ]
     }

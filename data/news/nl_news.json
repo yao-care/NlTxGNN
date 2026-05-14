@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-14T08:33:31.008418+00:00",
+  "fetched_at": "2026-05-14T14:03:24.392538+00:00",
   "count": 8,
   "news": [
-    {
-      "id": "44cfb3283870",
-      "title": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus - NOS",
-      "published": "2026-05-13T21:00:05+00:00",
-      "summary": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus&nbsp;&nbsp;NOSAutoriteiten bevestigen uitbraak van norovirus op cruiseschip in Bordeaux: 80 zieken, passagiers zonder symptomen mogen boot verlaten&nbsp;&nbsp;HLNDroomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’&nbsp;&nbsp;AD.nlOpnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nlMeeste passagiers van cruiseschip in Bordeaux",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2FCejhLNzVvMEIzWUVQRkR3d1ZfRlpjS2ZmaVVobndHalZ6MDlqLXZlN3o2YjQyUlpGZ3hEV2l6d1VpM1RDV1dDQXpyNE1lZ2psNTgtYkt6YUl1clYzM3hOVzI0T01GMlNwMExMTHBlMWdIdlRSandkbGRqZVBKbWpTOF9oSnBvUzEwZHROOEdjcmhTc1htc3NvUGJxTDRPeThXajZRZGo4eHVG?oc=5"
-        }
-      ]
-    },
     {
       "id": "dec6e7ab401e",
       "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
       "published": "2026-05-13T14:43:25+00:00",
-      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Radboud: 'Bloedonderzoek toont dat personeel geen risico was'&nbsp;&nbsp;NULigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundigen vellen hun oordeel&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandNa Hanta-fout in Radboudumc: was het wel verstandig passagiers van schip naar hier te halen? RIVM twijfe",
+      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Mogelijk besmette Radboud-medewerkers vormden geen gevaar&nbsp;&nbsp;NUOnderzoek wijst uit: nog geen virus in bloed gevonden van personeel Radboudumc, toch staat de twaalf een pittige tijd te wachten&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandLIVE Hantavirus | Medewerkers Radboudumc niet besmettelijk geweest voor anderen",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -36,6 +24,18 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzR1cjIyaDVzT0NlU19OeW05anI5Z0tsV29qb1Mybi1Cb0NQQ1FRVjFGemdJcG9tbFNqN0h4cHNYSzU3a0VlaWI1MkhObm1qUHN4UE5PTHZ1VndKYU5pR1BseW5KclFNMk1kbEtnWUg2OW5jVXAyRXNKM01qeGhkX0lNNDRLQklhSVRnWDBSRGRnVkFCeEJaWWNvRE9xcVZGdVZ4aENBVFk0XzRVR3lYOWJRbkRUZWVDZEctaXo2VV84dEV4TmpESw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50ea432f91cc",
+      "title": "Lust je kind geen groente? Ontstaat mogelijk al in de baarmoeder - RTL.nl",
+      "published": "2026-05-13T14:20:47+00:00",
+      "summary": "Lust je kind geen groente? Ontstaat mogelijk al in de baarmoeder&nbsp;&nbsp;RTL.nlMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenLust je kind geen groenten? Dít kan volgens onderzoekers de reden zijn&nbsp;&nbsp;Metronieuws.nl“Smaakgeheugen begint al in de baarmoeder”: kleine Britse studie ziet vroege voorkeur voor groenten&nbsp;&nbsp;HBVLLust je kind geen groente? Dat is misschien al in de baarmoeder ontstaan&nbsp;&nbsp;Welingelicht",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXFiVVFnQ3c4dW41U0RtYlVEUEswZjNPcDl5WlhoYkxscU9VTVd0MklUdERzbzFyb1ppYks3N2RYbUZ2T2h5cm85cjRDVlZJMEpjOXlxN1FQT19iclNNdnk3TW5EMFBhWUNoYXQwTUhxekR0UDFZU2hrOVJfUVdXdERMT1lLUjlZa2RVUWlSY29wVnJoTTJoVw?oc=5"
         }
       ]
     },

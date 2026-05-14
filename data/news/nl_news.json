@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-14T02:50:14.760762+00:00",
+  "fetched_at": "2026-05-14T08:33:31.008418+00:00",
   "count": 8,
   "news": [
     {
       "id": "44cfb3283870",
       "title": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus - NOS",
       "published": "2026-05-13T21:00:05+00:00",
-      "summary": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus&nbsp;&nbsp;NOSAutoriteiten bevestigen uitbraak van norovirus op cruiseschip in Bordeaux: 80 zieken, passagiers zonder symptomen mogen boot verlaten&nbsp;&nbsp;HLNDroomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’&nbsp;&nbsp;AD.nlOpnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nlNa uitbraak hantavirus nu ook norovirus op ee",
+      "summary": "Cruiseschip met 1700 opvarenden voor anker bij Bordeaux na uitbraak norovirus&nbsp;&nbsp;NOSAutoriteiten bevestigen uitbraak van norovirus op cruiseschip in Bordeaux: 80 zieken, passagiers zonder symptomen mogen boot verlaten&nbsp;&nbsp;HLNDroomreis Jolanda (64) verandert in nachtmerrie op cruiseschip: ‘Na de derde zieke gingen alle alarmbellen af’&nbsp;&nbsp;AD.nlOpnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nlMeeste passagiers van cruiseschip in Bordeaux",
       "sources": [
         {
           "name": "NOS",
@@ -19,11 +19,23 @@
       "id": "dec6e7ab401e",
       "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
       "published": "2026-05-13T14:43:25+00:00",
-      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Radboud: bloedonderzoek toont dat personeel geen risico was&nbsp;&nbsp;NULigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundigen vellen hun oordeel&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandWat ging er mis bij het Radboudumc en hoeveel gevaar is er voor verspreiding van het hantavirus?&nbsp;&nbs",
+      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Radboud: 'Bloedonderzoek toont dat personeel geen risico was'&nbsp;&nbsp;NULigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundigen vellen hun oordeel&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandNa Hanta-fout in Radboudumc: was het wel verstandig passagiers van schip naar hier te halen? RIVM twijfe",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1c0R2prM3hFVWM3ck9xNHZiWmhkclRTdmZ2TVctdmRPZmVnX0FJN0lTZVVhYWtxOE5zdDBPRHlQNmpnckc1MmV0WnR4d0RhcGtoWmstS2RzQ2p0MFlDU3ZyZUEzQzNCbzVMdzJTMzFUaWNRLVVHWUN4NS1lbkZmM2lERU9TNG5jMUYwbG04Q3FwX2o0Y3N2UzcwMTdVXzMzaHFTWkxZV0lSZmd4N25pSlJ4ZHZYVUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8d4142c89ee",
+      "title": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan - Scientias.nl",
+      "published": "2026-05-12T13:10:42+00:00",
+      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenSpotgoedkoop hartfalenmedicijn in lage dosis tóch veilig en effectief bevonden&nbsp;&nbsp;Nationale ZorggidsEeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordDit eeuwenoude medicijn kan patiënten met hartfalen helpen en",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzR1cjIyaDVzT0NlU19OeW05anI5Z0tsV29qb1Mybi1Cb0NQQ1FRVjFGemdJcG9tbFNqN0h4cHNYSzU3a0VlaWI1MkhObm1qUHN4UE5PTHZ1VndKYU5pR1BseW5KclFNMk1kbEtnWUg2OW5jVXAyRXNKM01qeGhkX0lNNDRLQklhSVRnWDBSRGRnVkFCeEJaWWNvRE9xcVZGdVZ4aENBVFk0XzRVR3lYOWJRbkRUZWVDZEctaXo2VV84dEV4TmpESw?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2ZhRkVOWVd4c1FyTlFqd1FtTzB2dEFOdWlEUTdqX3lqTzl3Q1NCdWNuOUhldWhUdlRsa2RRSFRrVFo3VEZJcWVHbnZyRnBIa1haRTJMSTlxWTBRbmdKdEh3bThaTWdpLWluU08tTEpGXzdxM3RjTk9WbU9BdjAxMXhGTUZXUExhS0dvbWtIWWEwNi1tNU92TjB5SkdjNUVFRkxTdDFkN3dqclhtQ216UjYtaGhNRXZLdEZOSmpHSExzcU5kRmNxOERaQzBtUGlOWUFid2NBWFBNeURj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8d4142c89ee",
-      "title": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan - Scientias.nl",
-      "published": "2026-05-12T13:10:42+00:00",
-      "summary": "Simpel en goedkoop vingerhoedskruid blijkt enorm effectief tegen hartfalen, tonen Groningse onderzoekers aan&nbsp;&nbsp;Scientias.nlOnderzoekers UMCG ontdekken: dit eeuwenoude en spotgoedkope medicijn helpt bij hartfalen&nbsp;&nbsp;Dagblad van het NoordenEeuwenoud medicijn gunstig voor patiënten met hartfalen&nbsp;&nbsp;RTV NoordUMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen'&nbsp;&nbsp;Groninger Internet CourantDit eeuwenoude medicijn kan patiënten met hartfalen helpen",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzR1cjIyaDVzT0NlU19OeW05anI5Z0tsV29qb1Mybi1Cb0NQQ1FRVjFGemdJcG9tbFNqN0h4cHNYSzU3a0VlaWI1MkhObm1qUHN4UE5PTHZ1VndKYU5pR1BseW5KclFNMk1kbEtnWUg2OW5jVXAyRXNKM01qeGhkX0lNNDRLQklhSVRnWDBSRGRnVkFCeEJaWWNvRE9xcVZGdVZ4aENBVFk0XzRVR3lYOWJRbkRUZWVDZEctaXo2VV84dEV4TmpESw?oc=5"
         }
       ]
     },

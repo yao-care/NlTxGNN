@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-15T02:50:56.633461+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-15T08:45:19.651616+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "4acf82a85104",
-      "title": "Volksgezondheid: risico op hantavirus in Suriname momenteel zeer laag - Starnieuws",
-      "published": "2026-05-13T21:33:00+00:00",
-      "summary": "Volksgezondheid: risico op hantavirus in Suriname momenteel zeer laag&nbsp;&nbsp;StarnieuwsKindervraag: Is het hantavirus het nieuwe corona?&nbsp;&nbsp;JeugdjournaalArgentinië doet onderzoek naar hantavirus in vertrekstad Hondius&nbsp;&nbsp;Noordhollands DagbladGGD: toch geen bewijs dat iemand zonder symptomen al hantavirus kan overdragen&nbsp;&nbsp;NUWaarom we zo aanslaan op de uitbraak van het hantavirus&nbsp;&nbsp;de Volkskrant",
+      "id": "de3d0e86260f",
+      "title": "Nederlandse overleden vogelaar reisde door regio met hantavirus - de Volkskrant",
+      "published": "2026-05-15T03:00:00+00:00",
+      "summary": "Nederlandse overleden vogelaar reisde door regio met hantavirus&nbsp;&nbsp;de VolkskrantKindervraag: Is het hantavirus het nieuwe corona?&nbsp;&nbsp;JeugdjournaalAantal besmettingen met hantavirus verdubbeld in Argentinië, overheid onderzoekt route Nederlandse 'patiënt 0'&nbsp;&nbsp;AD.nlArgentinië doet onderzoek naar hantavirus in vertrekstad Hondius&nbsp;&nbsp;Noordhollands DagbladLIVE hantavirus | Australië noemt repatriëring van zes passagiers uit Nederland ‘complexe operatie’&nbsp;&nbsp;de ",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYXJ1b0lhVlRkbUVCckN4cEZSUDRBNHdCa2pZTlpiYVJVSEdJTDd3M0lmdk9oemVhb2s5a2luZ3JRMk5JWXBiUGMxTWZvdVp1Q3UxRU44Ri1HT1hnb1NITnZxeWVta3JOTl9TOWpvZWJPWmxHUGc?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazZrelE1RmJwNWx6UkM2aVZXLS05YzV2NmVTM3JoZ1FsTm9VSUhlZFROSUZCYlQydktnUzhySWpWQzJHbTBqSHFHckdwaWltd01NUDNJNE1vVUQ4dHBkeEp5SS1IcTFnNTFRRThNUllteVVtYklfUUl6ei14ODBNTXRsTXBPc3NnZml2RmRBVkd6dDhOY2NyWkdiODlseVpVZzdpc3RzVEExa0tDSG9N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e212dc474ada",
+      "title": "Opnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine - RTL.nl",
+      "published": "2026-05-13T12:07:42+00:00",
+      "summary": "Opnieuw norovirus op cruiseschip: één dode, 1700 mensen in quarantaine&nbsp;&nbsp;RTL.nlCruiseschip met 1700 opvarenden gestrand in Franse haven na uitbraak norovirus&nbsp;&nbsp;NOSZeer besmettelijk norovirus velt meer dan 100 passagiers en 10 bemanningsleden op cruiseschip in Caraïben&nbsp;&nbsp;AD.nlAutoriteiten bevestigen norovirus-uitbraak op cruiseschip in Bordeaux na sterfgeval: 80 zieken, passagiers zonder symptomen mogen boot verlaten&nbsp;&nbsp;HLNNorovirus-uitbraak op cruiseschip: één ",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1BIR1hsRFluZDg1cHFoTkhnNHYzcVRBYjRIMUV5SmhCelNwVk5xY3phd19rYklYLW1fWkNPbkNoOWVlMFR6U2VFLUM0QnZQTDl3ckVLSlJ0YmlPTlg1Q1RRMC1RM18xdjBRcV9RbmlPNHZxeHFxd2FmOGlzeHNVMlpndkgxU01HN3FjTUxLNGRCelM2dW1GT01iOVpRci11TF9pV1BVMi1IR21ibHNxcW5JLXlnZDl0X1E?oc=5"
         }
       ]
     },
@@ -19,11 +31,23 @@
       "id": "dec6e7ab401e",
       "title": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’ - De Telegraaf",
       "published": "2026-05-13T14:43:25+00:00",
-      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive hantavirus | Mogelijk besmette Radboud-medewerkers vormden geen gevaar&nbsp;&nbsp;NUOnderzoek wijst uit: nog geen virus in bloed gevonden van personeel Radboudumc, toch staat de twaalf een pittige tijd te wachten&nbsp;&nbsp;De GelderlanderQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandLigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundige",
+      "summary": "LIVE | Radboudumc noemt fouten bij hantavirus ’ongelukkige samenloop’&nbsp;&nbsp;De TelegraafLive | Opvarende die is opgenomen in Radboudumc heeft hantavirus&nbsp;&nbsp;NUQuarantaine na hantavirus: vakbonden willen compensatie&nbsp;&nbsp;Omroep GelderlandOnderzoek wijst uit: nog geen virus in bloed gevonden van personeel Radboudumc, toch staat de twaalf een pittige tijd te wachten&nbsp;&nbsp;De GelderlanderLigt de reputatie van het Radboudumc aan diggelen na hantavirusfout? Deskundigen vellen hu",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1c0R2prM3hFVWM3ck9xNHZiWmhkclRTdmZ2TVctdmRPZmVnX0FJN0lTZVVhYWtxOE5zdDBPRHlQNmpnckc1MmV0WnR4d0RhcGtoWmstS2RzQ2p0MFlDU3ZyZUEzQzNCbzVMdzJTMzFUaWNRLVVHWUN4NS1lbkZmM2lERU9TNG5jMUYwbG04Q3FwX2o0Y3N2UzcwMTdVXzMzaHFTWkxZV0lSZmd4N25pSlJ4ZHZYVUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9328f88dc266",
+      "title": "Column: Vrije meningsuiting ook voor impopulaire meningen - Starnieuws",
+      "published": "2026-05-15T03:59:00+00:00",
+      "summary": "Column: Vrije meningsuiting ook voor impopulaire meningen&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of SurinameSimons bezorgd over stijging soa’s en hiv in Suriname&nbsp;&nbsp;Suriname HeraldJOS-minister “Jongeren onder druk, gerichte acties zijn gestart”&nbsp;&nbsp;Times of SurinameVeertig jongeren getraind voor voorlichting over hiv&nbsp;&nbsp;Times of Suriname",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUDd3VG5xM1Fod0VpcEZHVlg2UUZ0ajhVLU9RWkpMREtjMFhKeUNsX3pQeGNHQ2F1WUd6b215TWFheVh6Z0kwYVh5Q05tWV9JQm5BdklTdXFoNnZHNjI1MFpLMTdfVXlEVExWcWxsdWZqT0VKbGc?oc=5"
         }
       ]
     },

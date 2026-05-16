@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-16T07:59:54.411170+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-16T13:15:43.148229+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "88995d8ff4e2",
+      "title": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant - NOS",
+      "published": "2026-05-16T11:30:08+00:00",
+      "summary": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant&nbsp;&nbsp;NOS65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NUOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nlEbola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdy1jRTJMVXpORnA0Y2lMbGdZaUlSeHVubmplT0liTW1rWXMyc2JoOVVKOWw2R0pJemxWNFNOUjE0Z2w5OTRSb1hSdHZhOS1fdW1NSndqdE9OY0htdDFJTDdfUmx6V3pMR3NrNlVoUmZHVWVjNTZrODVjbHdrRmNBSjJ0YTRXWU5tWi1IWjlNTWlDZkdoUlNvOVZtMFdZYlk?oc=5"
+        }
+      ]
+    },
     {
       "id": "0bec7ee731eb",
       "title": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip - AD.nl",
       "published": "2026-05-15T10:13:00+00:00",
-      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NULIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder CourantHier komt cruiseschip Hondius vanaf maandag te liggen, omgeving afgesloten en afgeschermd&nbsp;&nbsp;RijnmondWHO: risico op hantavirus voor were",
+      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NULIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder CourantHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantWHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "3a1974d1f74c",
-      "title": "Ebola-uitbraak in het noordoosten van Congo: zeker 65 doden - NRC",
-      "published": "2026-05-15T10:37:15+00:00",
-      "summary": "Ebola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nlOpnieuw ebola-uitbraak in Congo, zeker 65 doden: 'Risico op verdere verspreiding'&nbsp;&nbsp;NOSEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;De Gelderlander65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NU",
+      "id": "9b8d6b0ef5c0",
+      "title": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\" - AT5",
+      "published": "2026-05-16T05:03:42+00:00",
+      "summary": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;AT5GGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;AT5",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUZyX2lxSkJ1bHdyNVpIeVUwamNwVTJFc0dEWFIyRWZINFBCYk1DOGV3VnBmY1o0Z0Nzcmw0N2lVaDJ5NjdGWmlUT2xzUWc3dGtsMm1JX0hycjVnY19TR2hDY1hOdzhzTFd5VE9tZ2ktcmRQejYwQk9kNmZWb3hvaDBWa1A5Y0JIQzFVVA?oc=5"
+          "name": "AT5",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcV9INkdQX093OUxlQk9PcG9GTU1xM0Fib0JscnRRTHh6YkNrQ1pQNEZ4MHB2VW9IaEthd3NOV214MVBDNWR4TGl6ZjZPZ29MVTU3d3FVdU0zYmtCV3NxQ2J6UHNvNlpkQ1c4MHZLT05yMkFGb0thcGRwdVBSTFFpdDFCWXhCcWVFQ0JuTWt3N1JDLTV3N3Y2U0hYMjBZUGRmN1FWX0JPdG5VLVM1aG9QX0pDZ1NVYkc5TUY1UWpZWXdZTE9KR2c?oc=5"
         }
       ]
     },
@@ -43,7 +55,7 @@
       "id": "e26319f31ad9",
       "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag - AD.nl",
       "published": "2026-05-15T14:04:00+00:00",
-      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK - WHO: Andesvariant hantavirus beter begrijpen is prioriteit | Nieuws&nbsp;&nbsp;HLNVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noor",
+      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK - WHO: Andesvariant hantavirus beter begrijpen is prioriteit&nbsp;&nbsp;HLNVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noordhollands",
       "sources": [
         {
           "name": "AD.nl",
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "9328f88dc266",
-      "title": "Column: Vrije meningsuiting ook voor impopulaire meningen - Starnieuws",
-      "published": "2026-05-15T03:59:00+00:00",
-      "summary": "Column: Vrije meningsuiting ook voor impopulaire meningen&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of SurinameArts Koendjbiharie: “Stop met stigma rond hiv/aids”&nbsp;&nbsp;Suriname Herald",
+      "id": "6fb380c3c8d1",
+      "title": "Arts Koendjbiharie: “Stop met stigma rond hiv/aids” - Suriname Herald",
+      "published": "2026-05-16T05:07:26+00:00",
+      "summary": "Arts Koendjbiharie: “Stop met stigma rond hiv/aids”&nbsp;&nbsp;Suriname HeraldGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of Suriname",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUDd3VG5xM1Fod0VpcEZHVlg2UUZ0ajhVLU9RWkpMREtjMFhKeUNsX3pQeGNHQ2F1WUd6b215TWFheVh6Z0kwYVh5Q05tWV9JQm5BdklTdXFoNnZHNjI1MFpLMTdfVXlEVExWcWxsdWZqT0VKbGc?oc=5"
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhGMHVzSVdfMEp1b3dpZkRiZk9fdWJzbjAtWlVHVnNhY2ZTSDlaQS1lOGZndU1uVy1uSUZBTXlzT0JBbjhpVHlSMHFEZC1ZSWZLR3RxNFBaZmhaZDlmbnZubVROd1F0YWFqbklrWkJIYjNhY3ZyeHZXV3RIYWJJSWhWV0pvZmw5ZlNUOWxwLU90MDk2ODllaXp3?oc=5"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-16T13:15:43.148229+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-16T19:00:28.977088+00:00",
+  "count": 7,
   "news": [
     {
       "id": "88995d8ff4e2",
       "title": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant - NOS",
       "published": "2026-05-16T11:30:08+00:00",
-      "summary": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant&nbsp;&nbsp;NOS65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NUOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nlEbola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;De Gelderlander",
+      "summary": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant&nbsp;&nbsp;NOSOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nl65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NUEbola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;Eindhovens Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -19,23 +19,11 @@
       "id": "0bec7ee731eb",
       "title": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip - AD.nl",
       "published": "2026-05-15T10:13:00+00:00",
-      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NULIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder CourantHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantWHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;",
+      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHantavirus vastgesteld bij Canadese opvarende cruiseschip Hondius&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NUWHO: geen nieuwe verdachte gevallen op Hondius na hanta-uitbraak&nbsp;&nbsp;Noordhollands DagbladHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3BSQXd3T2xZbnVwcFZ3NEhZcmM1RHdnYk5pcjAyV3dXYmdyeUExeEVneGE4QVM3SG9mZ1h3dWJYdDdhcnNMN05MejcybzUyU2hTNFloUENqek00TllwVFNKa1lmRXRTcGVoODYwR0F1UWVWYzc3MW42enVjYWVYak5UZ2hsMFRKS0JrWkVVTktOcGRXRHJUbnNGMUwwWm5oM3VIUmtIQ2Y4amJXYmhTWUI5YU9UMGxSZDRweTFIckFjOWY1N2VaWnp4TTdMS1hzS0VjS1BDallCM0NWcmhZRFV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d18447158688",
-      "title": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling - NU",
-      "published": "2026-05-15T16:52:00+00:00",
-      "summary": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling&nbsp;&nbsp;NUHormonale aandoening die miljoenen vrouwen treft krijgt nieuwe naam&nbsp;&nbsp;NOSZeg niet langer SOPK, maar PMOS!&nbsp;&nbsp;De SpecialistPCOS, de meest voorkomende oorzaak van onvruchtbaarheid, wordt PMOS: “Oude naam bemoeilijkt diagnoses”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVNIZ3RkcDZ1dzRhVEk0aWgtejkxZm1FMGdicVpMVko4cTA1T1ZlNDBLQ1JoUUJpZmlQVHNxR3hiRzVvYkFvZWJadGxrU0pOQUdJUDhkanl3ZFByTXg1aVpudU55RkZTeDQ0eDBncGFpc2JLTGhTWkRWazdWbmRwRzhBVXpyNVl1S2piQjJwZXJBaVBYZl9VTEYzMTNmVV8td0xRcVhxQTdBc0tvdFpaeEpuekRWRXox?oc=5"
         }
       ]
     },
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "d18447158688",
+      "title": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling - NU",
+      "published": "2026-05-15T16:52:00+00:00",
+      "summary": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling&nbsp;&nbsp;NUHormonale aandoening die miljoenen vrouwen treft krijgt nieuwe naam&nbsp;&nbsp;NOSZeg niet langer SOPK, maar PMOS!&nbsp;&nbsp;De SpecialistPCOS, de meest voorkomende oorzaak van onvruchtbaarheid, wordt PMOS: “Oude naam bemoeilijkt diagnoses”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVNIZ3RkcDZ1dzRhVEk0aWgtejkxZm1FMGdicVpMVko4cTA1T1ZlNDBLQ1JoUUJpZmlQVHNxR3hiRzVvYkFvZWJadGxrU0pOQUdJUDhkanl3ZFByTXg1aVpudU55RkZTeDQ0eDBncGFpc2JLTGhTWkRWazdWbmRwRzhBVXpyNVl1S2piQjJwZXJBaVBYZl9VTEYzMTNmVV8td0xRcVhxQTdBc0tvdFpaeEpuekRWRXox?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e26319f31ad9",
       "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag - AD.nl",
       "published": "2026-05-15T14:04:00+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVNyNXo5T0p5VXdpZU5IU3FYVmRYNGVsUzlyMkFQdVVuTDZiSTlNd0pKSFRoZWdLLVhTdzB0eU11b2p6V1VWX0R1M1pSdExvMWkxLVdBX2dGS2VxZlVYQjhTU1lSQkt5YTZzYy14WHVKdm5XbE5sNHYweENrekVMeVhWd3J5YUd4akItT3hDRTk0T0RBeTlzMDd6TThXaUY5N3lueEljX0p4cFdLbFpPYzhvMDQzMWV5YU11OXpKT2tpcDhid0NfcnozVE9qMzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19211f2e9903",
+      "title": "Blootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’ - bnr.nl",
+      "published": "2026-05-16T05:21:00+00:00",
+      "summary": "Blootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’&nbsp;&nbsp;bnr.nlLust je kind geen groenten? Dít kan volgens onderzoekers de reden zijn&nbsp;&nbsp;Metronieuws.nlWetenschappers ontdekken verrassende invloed op eetgedrag van kinderen&nbsp;&nbsp;Kek MamaMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenKinderen groenten laten eten begint al in de baarmoeder, volgens Brits onderzoek&nbsp;",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMlEwMFlxY0JsWmJseHZENlJHVUlPenlGUk5rSW1PaFFfZkNwcGV6aFlWdlp2b1lJR3JkRWFKVFZkMDNCSGZpeThmNktfOUdqbE16WDYzRVVHekpaVncyaDIyTEw3c3V6ZnhubllFRHpsb0lOU3R1d3VmZnlnaWgzQno3eDBEN1dCeG9ZdUh2ODU1M0hCa2k3M2VuMjU1SEtrRmVuS1VlWWI0WmYtN3dlSDRFZ2VyYUpiNWtoWnpaWUkxZ2FXbTBsVk9kRnIwaG9GdWRsTktfenU?oc=5"
         }
       ]
     },

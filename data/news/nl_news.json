@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-16T02:39:02.716084+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-16T07:59:54.411170+00:00",
+  "count": 5,
   "news": [
     {
       "id": "0bec7ee731eb",
       "title": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip - AD.nl",
       "published": "2026-05-15T10:13:00+00:00",
-      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NUHier komt cruiseschip Hondius vanaf maandag te liggen, omgeving afgesloten en afgeschermd&nbsp;&nbsp;RijnmondHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantLIVE | Opnieuw test Amerikaan met milde symptomen hantavirus negatief & Argentinië doet onderzoek naar hantavirus",
+      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NULIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder CourantHier komt cruiseschip Hondius vanaf maandag te liggen, omgeving afgesloten en afgeschermd&nbsp;&nbsp;RijnmondWHO: risico op hantavirus voor were",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,10 +28,22 @@
       ]
     },
     {
+      "id": "3a1974d1f74c",
+      "title": "Ebola-uitbraak in het noordoosten van Congo: zeker 65 doden - NRC",
+      "published": "2026-05-15T10:37:15+00:00",
+      "summary": "Ebola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nlOpnieuw ebola-uitbraak in Congo, zeker 65 doden: 'Risico op verdere verspreiding'&nbsp;&nbsp;NOSEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;De Gelderlander65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUZyX2lxSkJ1bHdyNVpIeVUwamNwVTJFc0dEWFIyRWZINFBCYk1DOGV3VnBmY1o0Z0Nzcmw0N2lVaDJ5NjdGWmlUT2xzUWc3dGtsMm1JX0hycjVnY19TR2hDY1hOdzhzTFd5VE9tZ2ktcmRQejYwQk9kNmZWb3hvaDBWa1A5Y0JIQzFVVA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e26319f31ad9",
       "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag - AD.nl",
       "published": "2026-05-15T14:04:00+00:00",
-      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noordhollands DagbladBritse minister dankt Nederland na repatriatie passagiers Hondius&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK - WHO: Andesvariant hantavirus beter begrijpen is prioriteit | Nieuws&nbsp;&nbsp;HLNVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noor",
       "sources": [
         {
           "name": "AD.nl",
@@ -43,7 +55,7 @@
       "id": "9328f88dc266",
       "title": "Column: Vrije meningsuiting ook voor impopulaire meningen - Starnieuws",
       "published": "2026-05-15T03:59:00+00:00",
-      "summary": "Column: Vrije meningsuiting ook voor impopulaire meningen&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of Suriname",
+      "summary": "Column: Vrije meningsuiting ook voor impopulaire meningen&nbsp;&nbsp;StarnieuwsGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of SurinameArts Koendjbiharie: “Stop met stigma rond hiv/aids”&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
           "name": "Starnieuws",

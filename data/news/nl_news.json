@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-16T19:00:28.977088+00:00",
+  "fetched_at": "2026-05-17T02:47:52.136397+00:00",
   "count": 7,
   "news": [
     {
       "id": "88995d8ff4e2",
       "title": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant - NOS",
       "published": "2026-05-16T11:30:08+00:00",
-      "summary": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant&nbsp;&nbsp;NOSOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nl65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NUEbola-uitbraak in het noordoosten van Congo: zeker 65 doden&nbsp;&nbsp;NRCEbola-uitbraak in noordoosten Congo, verhoogde paraatheid in Centraal-Afrika&nbsp;&nbsp;Eindhovens Dagblad",
+      "summary": "Dodental ebola-uitbraak in Congo loopt op, mogelijk zeldzame variant&nbsp;&nbsp;NOSWHO: ebola-uitbraak Congo en Uganda internationale noodsituatie&nbsp;&nbsp;NOSWHO noemt ebola-uitbraak in Congo ‘internationale medische noodsituatie’&nbsp;&nbsp;HLNOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nl65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NU",
       "sources": [
         {
           "name": "NOS",
@@ -19,23 +19,11 @@
       "id": "0bec7ee731eb",
       "title": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip - AD.nl",
       "published": "2026-05-15T10:13:00+00:00",
-      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHantavirus vastgesteld bij Canadese opvarende cruiseschip Hondius&nbsp;&nbsp;AD.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NUWHO: geen nieuwe verdachte gevallen op Hondius na hanta-uitbraak&nbsp;&nbsp;Noordhollands DagbladHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de Volkskrant",
+      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlCanadese cruisepassagier test positief op hantavirus&nbsp;&nbsp;NOSCanadese opvarende Hondius test positief op hantavirus&nbsp;&nbsp;De TelegraafLIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder Courant23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;N",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3BSQXd3T2xZbnVwcFZ3NEhZcmM1RHdnYk5pcjAyV3dXYmdyeUExeEVneGE4QVM3SG9mZ1h3dWJYdDdhcnNMN05MejcybzUyU2hTNFloUENqek00TllwVFNKa1lmRXRTcGVoODYwR0F1UWVWYzc3MW42enVjYWVYak5UZ2hsMFRKS0JrWkVVTktOcGRXRHJUbnNGMUwwWm5oM3VIUmtIQ2Y4amJXYmhTWUI5YU9UMGxSZDRweTFIckFjOWY1N2VaWnp4TTdMS1hzS0VjS1BDallCM0NWcmhZRFV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b8d6b0ef5c0",
-      "title": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\" - AT5",
-      "published": "2026-05-16T05:03:42+00:00",
-      "summary": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;AT5GGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;AT5",
-      "sources": [
-        {
-          "name": "AT5",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcV9INkdQX093OUxlQk9PcG9GTU1xM0Fib0JscnRRTHh6YkNrQ1pQNEZ4MHB2VW9IaEthd3NOV214MVBDNWR4TGl6ZjZPZ29MVTU3d3FVdU0zYmtCV3NxQ2J6UHNvNlpkQ1c4MHZLT05yMkFGb0thcGRwdVBSTFFpdDFCWXhCcWVFQ0JuTWt3N1JDLTV3N3Y2U0hYMjBZUGRmN1FWX0JPdG5VLVM1aG9QX0pDZ1NVYkc5TUY1UWpZWXdZTE9KR2c?oc=5"
         }
       ]
     },
@@ -52,14 +40,26 @@
       ]
     },
     {
-      "id": "e26319f31ad9",
-      "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag - AD.nl",
-      "published": "2026-05-15T14:04:00+00:00",
-      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK - WHO: Andesvariant hantavirus beter begrijpen is prioriteit&nbsp;&nbsp;HLNVK repatrieert 10 mensen voor preventieve isolatie om hantavirus&nbsp;&nbsp;Noordhollands",
+      "id": "9b8d6b0ef5c0",
+      "title": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\" - AT5",
+      "published": "2026-05-15T20:00:00+00:00",
+      "summary": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;AT5GGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;AT5",
+      "sources": [
+        {
+          "name": "AT5",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcV9INkdQX093OUxlQk9PcG9GTU1xM0Fib0JscnRRTHh6YkNrQ1pQNEZ4MHB2VW9IaEthd3NOV214MVBDNWR4TGl6ZjZPZ29MVTU3d3FVdU0zYmtCV3NxQ2J6UHNvNlpkQ1c4MHZLT05yMkFGb0thcGRwdVBSTFFpdDFCWXhCcWVFQ0JuTWt3N1JDLTV3N3Y2U0hYMjBZUGRmN1FWX0JPdG5VLVM1aG9QX0pDZ1NVYkc5TUY1UWpZWXdZTE9KR2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f697b598b9b9",
+      "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag - AD.nl",
+      "published": "2026-05-16T03:40:00+00:00",
+      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladWHO: 'Risico op hantavirus voor wereldbevolking blijft laag'&nbsp;&nbsp;Hart van NederlandBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK - WHO: Andesvariant hantavirus beter begrijpen is prioriteit&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVNyNXo5T0p5VXdpZU5IU3FYVmRYNGVsUzlyMkFQdVVuTDZiSTlNd0pKSFRoZWdLLVhTdzB0eU11b2p6V1VWX0R1M1pSdExvMWkxLVdBX2dGS2VxZlVYQjhTU1lSQkt5YTZzYy14WHVKdm5XbE5sNHYweENrekVMeVhWd3J5YUd4akItT3hDRTk0T0RBeTlzMDd6TThXaUY5N3lueEljX0p4cFdLbFpPYzhvMDQzMWV5YU11OXpKT2tpcDhid0NfcnozVE9qMzA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzBPOVBIeVhQbldCMG9qZVo0WUE0cmFWTUxCU3hOSkpzb0REaHM1cHdqNF8xaDhuTnlDVl93eW90d0xUaXhmc3hEbXdPSTZlQ2tkeEJhVjZwN21OSmRsVnRTOFFabjJjTExvYkFoLTlONWZfZUxweEp0WExqVUFJT3NwSjJCVEg3MXVHUHlOVkVDVTgwc1FqUXNhOS1VMmRTTzk3b0lUd1pCUFNhcHdGd2pybzJCX0U3eGNjZVdoTkdHU0J1Z3E1TA?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "19211f2e9903",
       "title": "Blootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’ - bnr.nl",
       "published": "2026-05-16T05:21:00+00:00",
-      "summary": "Blootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’&nbsp;&nbsp;bnr.nlLust je kind geen groenten? Dít kan volgens onderzoekers de reden zijn&nbsp;&nbsp;Metronieuws.nlWetenschappers ontdekken verrassende invloed op eetgedrag van kinderen&nbsp;&nbsp;Kek MamaMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenKinderen groenten laten eten begint al in de baarmoeder, volgens Brits onderzoek&nbsp;",
+      "summary": "Blootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’&nbsp;&nbsp;bnr.nlWetenschappers ontdekken verrassende invloed op eetgedrag van kinderen&nbsp;&nbsp;Kek MamaLust je kind geen groenten? Dít kan volgens onderzoekers de reden zijn&nbsp;&nbsp;Metronieuws.nlMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenKinderen groenten laten eten begint al in de baarmoeder, volgens Brits onderzoek&nbsp;",
       "sources": [
         {
           "name": "bnr.nl",

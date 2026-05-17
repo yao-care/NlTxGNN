@@ -1,65 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-17T08:17:24.644336+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-17T13:13:47.446646+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "e71bc649786d",
-      "title": "Alarm om ebola-uitbraak Congo en Uganda, WHO ziet internationale noodsituatie - NOS",
-      "published": "2026-05-17T06:54:21+00:00",
-      "summary": "Alarm om ebola-uitbraak Congo en Uganda, WHO ziet internationale noodsituatie&nbsp;&nbsp;NOSWHO: uitbraak ebola in Congo en Oeganda is wereldwijde noodsituatie&nbsp;&nbsp;Het ParoolGroot alarm om ebola in centraal Afrika: tientallen doden, honderden mogelijke besmettingen&nbsp;&nbsp;RTL.nlOeganda bevestigt na Congo ook ebola-uitbraak: man (59) overlijdt in ziekenhuis in Kampala&nbsp;&nbsp;AD.nl65 doden na nieuwe ebola-uitbraak in Congo&nbsp;&nbsp;NU",
+      "id": "b15e020e33c6",
+      "title": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’ - De Telegraaf",
+      "published": "2026-05-17T13:02:56+00:00",
+      "summary": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafNederlandse overleden vogelaar reisde door regio met hantavirus&nbsp;&nbsp;de VolkskrantTERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHet hantavirus lijkt niet op covid, maar de online misinformatie doet denken aan 2020&nbsp;&nbsp;Het ParoolHelderse Dirk-Piet (78) zat op schip w",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWd5UU56UUNaN0Y2NEFYMGh5dW1sWm5BUC1hM2dZVC1YTG5XdTJfSzQ5ZE4tZDk4dFJ1aTZNM3YzQjl6RFVseGpfYmhxT0xubUlkUEFEdVN0VUlTTkNabG9kaF94c1dDRnNwSWZ2RXMyd3BDRURfOHBlZXBiTnh0eFhmRmJoZ2c1YnNPRVQyU0c5RHNmZFpJZmFsa2JobFZmbmpiNEdhXzhNUDA?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa21kR2pNMEY5a0c2Z1JRVVF3RG41bGpDdld5Mi00UHJhYlp2cFhKRzFuNWV0VThLUHdWMFhLVDd3bVlTQ2Z2MldDY1FTNW94bFVnd0dpRjR5NmZ6QzdjWE55TFQtOXdGcXBMTTFHbUZieExrMTFQRzMxMXhROTFPZXloUFNydlRLYkRrdkZwaWtOM1ZPV2YxNVdkWjFvMy1qd29kTDNBOFhlMkhKektTTC1MWkJUdjFXdzhCWXhRX29aRThuSjdZdEdrTWpBMnhwUkJuMy1CcHVrZ0lWcFBBLVdTajdReG9LTTg5NGJtLWxWWkdTSW1mSmpRdUQwNjhmNU1oT1R6Q3haQnpT?oc=5"
         }
       ]
     },
     {
-      "id": "0bec7ee731eb",
-      "title": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip - AD.nl",
-      "published": "2026-05-15T10:13:00+00:00",
-      "summary": "TERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlCanadese cruisepassagier test positief op hantavirus&nbsp;&nbsp;NOSOpvarende cruiseschip test positief op hantavirus in Canada&nbsp;&nbsp;RTL.nl23 buitenlandse opvarenden Hondius gaan in quarantaine in Rotterdamse haven&nbsp;&nbsp;NULIVE | Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK & WHO: risico op hantavirus voor wereldbevolking blijft laag&nbsp;&nbsp;Leeuwarder Courant",
+      "id": "e26319f31ad9",
+      "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag - AD.nl",
+      "published": "2026-05-15T14:04:00+00:00",
+      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: risico hantavirus blijft laag&nbsp;&nbsp;AD.nlBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladWHO: 'Risico op hantavirus voor wereldbevolking blijft laag'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3BSQXd3T2xZbnVwcFZ3NEhZcmM1RHdnYk5pcjAyV3dXYmdyeUExeEVneGE4QVM3SG9mZ1h3dWJYdDdhcnNMN05MejcybzUyU2hTNFloUENqek00TllwVFNKa1lmRXRTcGVoODYwR0F1UWVWYzc3MW42enVjYWVYak5UZ2hsMFRKS0JrWkVVTktOcGRXRHJUbnNGMUwwWm5oM3VIUmtIQ2Y4amJXYmhTWUI5YU9UMGxSZDRweTFIckFjOWY1N2VaWnp4TTdMS1hzS0VjS1BDallCM0NWcmhZRFV3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVNyNXo5T0p5VXdpZU5IU3FYVmRYNGVsUzlyMkFQdVVuTDZiSTlNd0pKSFRoZWdLLVhTdzB0eU11b2p6V1VWX0R1M1pSdExvMWkxLVdBX2dGS2VxZlVYQjhTU1lSQkt5YTZzYy14WHVKdm5XbE5sNHYweENrekVMeVhWd3J5YUd4akItT3hDRTk0T0RBeTlzMDd6TThXaUY5N3lueEljX0p4cFdLbFpPYzhvMDQzMWV5YU11OXpKT2tpcDhid0NfcnozVE9qMzA?oc=5"
         }
       ]
     },
     {
-      "id": "665a06fb38bf",
-      "title": "Hormonale aandoening die miljoenen vrouwen treft krijgt nieuwe naam - NOS",
-      "published": "2026-05-15T12:34:33+00:00",
-      "summary": "Hormonale aandoening die miljoenen vrouwen treft krijgt nieuwe naam&nbsp;&nbsp;NOSHormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling&nbsp;&nbsp;NUZeg niet langer SOPK, maar PMOS!&nbsp;&nbsp;De SpecialistPCOS, de meest voorkomende oorzaak van onvruchtbaarheid, wordt PMOS: “Oude naam bemoeilijkt diagnoses”&nbsp;&nbsp;HLN",
+      "id": "d18447158688",
+      "title": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling - NU",
+      "published": "2026-05-15T16:52:00+00:00",
+      "summary": "Hormonale aandoening bij vrouwen krijgt nieuwe naam voor betere behandeling&nbsp;&nbsp;NUHormonale aandoening die miljoenen vrouwen treft krijgt nieuwe naam&nbsp;&nbsp;NOSZeg niet langer SOPK, maar PMOS!&nbsp;&nbsp;De SpecialistPCOS, de meest voorkomende oorzaak van onvruchtbaarheid, wordt PMOS: “Oude naam bemoeilijkt diagnoses”&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2VfWTYyQXp3a3Nmc1lCUkNMRTQyUENuWGpCc2xIM1VQNXpESzdSa3kxaXQxcXFJcnR1M2FSUVZ5aV9RVXVCOFZVNThIczFwZEpxcUU5VjVyeGxiVWxjanc1NGZCZURKdnM5aVlxUVRqdC1tY0N2WGlOXzZaRkVjenRQeFZQVFk1dlhNVzRiQmlEYXQtT1ZCUVA4WWRHczQ?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVNIZ3RkcDZ1dzRhVEk0aWgtejkxZm1FMGdicVpMVko4cTA1T1ZlNDBLQ1JoUUJpZmlQVHNxR3hiRzVvYkFvZWJadGxrU0pOQUdJUDhkanl3ZFByTXg1aVpudU55RkZTeDQ0eDBncGFpc2JLTGhTWkRWazdWbmRwRzhBVXpyNVl1S2piQjJwZXJBaVBYZl9VTEYzMTNmVV8td0xRcVhxQTdBc0tvdFpaeEpuekRWRXox?oc=5"
         }
       ]
     },
     {
-      "id": "9cdbcb7e080a",
-      "title": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\" - at5.nl",
+      "id": "9b8d6b0ef5c0",
+      "title": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\" - AT5",
       "published": "2026-05-15T20:00:00+00:00",
-      "summary": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;at5.nlGGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;at5.nl",
+      "summary": "Oud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;AT5GGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;AT5",
       "sources": [
         {
-          "name": "at5.nl",
+          "name": "AT5",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcV9INkdQX093OUxlQk9PcG9GTU1xM0Fib0JscnRRTHh6YkNrQ1pQNEZ4MHB2VW9IaEthd3NOV214MVBDNWR4TGl6ZjZPZ29MVTU3d3FVdU0zYmtCV3NxQ2J6UHNvNlpkQ1c4MHZLT05yMkFGb0thcGRwdVBSTFFpdDFCWXhCcWVFQ0JuTWt3N1JDLTV3N3Y2U0hYMjBZUGRmN1FWX0JPdG5VLVM1aG9QX0pDZ1NVYkc5TUY1UWpZWXdZTE9KR2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f697b598b9b9",
-      "title": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag - AD.nl",
-      "published": "2026-05-16T03:40:00+00:00",
-      "summary": "Britse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;AD.nlBritse parachutisten naar afgelegen eiland voor man met hantavirus-symptomen&nbsp;&nbsp;NOSHantavirus bevestigd bij twee Britten&nbsp;&nbsp;Reformatorisch DagbladWHO: 'Risico op hantavirus voor wereldbevolking blijft laag'&nbsp;&nbsp;Hart van NederlandCanadees testte positief op hantavirus&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzBPOVBIeVhQbldCMG9qZVo0WUE0cmFWTUxCU3hOSkpzb0REaHM1cHdqNF8xaDhuTnlDVl93eW90d0xUaXhmc3hEbXdPSTZlQ2tkeEJhVjZwN21OSmRsVnRTOFFabjJjTExvYkFoLTlONWZfZUxweEp0WExqVUFJT3NwSjJCVEg3MXVHUHlOVkVDVTgwc1FqUXNhOS1VMmRTTzk3b0lUd1pCUFNhcHdGd2pybzJCX0U3eGNjZVdoTkdHU0J1Z3E1TA?oc=5"
         }
       ]
     },
@@ -76,6 +64,30 @@
       ]
     },
     {
+      "id": "0127ee13e5ee",
+      "title": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond - Starnieuws",
+      "published": "2026-05-17T01:38:00+00:00",
+      "summary": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond&nbsp;&nbsp;StarnieuwsBOG voert gerichte Chikungunya-bestrijding uit in gebied Morgenstond&nbsp;&nbsp;Times of SurinameBOG start grootschalige bespuitingen tegen chikungunya in Blauwgrond&nbsp;&nbsp;Suriname HeraldNederland adviseert vaccinatie tegen chikungunya voor reizigers naar Suriname&nbsp;&nbsp;WaterkantVan Samson kritisch op aanpak chikungunya: “We hebben actie nodig”&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IaDRfQlZnWVNxaTJBUWZkUjZDMXJFbXlUMVVzV20yYW9WTmYtQ3pxZHdySnpSVjNWR3hJdU5XRVF0d01QbVNmYjJRU1ZocDl0UVZqYktodFNIaENySEIxMGl1TFpNRUl3UkhzYW0za0JNdU5FbkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9da2dee6eef3",
+      "title": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd' - RTV Utrecht",
+      "published": "2026-05-16T14:00:00+00:00",
+      "summary": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd'&nbsp;&nbsp;RTV UtrechtVan Rossem Vertelt over de noodzaak van vaccineren&nbsp;&nbsp;RTV Utrecht",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUhfV1NndzhIcXpfYTBPZmtoNnZMd3ViMU9JRjJ0UDBVUU1WUEJFdEE1Q0RUaGZnQUtwUjNNU2dXakRtcVU1MUxqdGE3d3lFOTliYXJRaXlERlo1S09hcDAtcVdWQ3RHYU1VbWxPMThSUmRFMDlLOElYNnBzLXNCWXhfLXZTVWt1ZXNfV1lsQjZpSXdKZGQ2TWNmMTNjVk92YlVyYUN2VnJGeko0bXUwMjZ1N2dFMTZ6NFpyeWtyX2l4WC1LbzZvZjdzS1AtcWRGcEJIZEZ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6fb380c3c8d1",
       "title": "Arts Koendjbiharie: “Stop met stigma rond hiv/aids” - Suriname Herald",
       "published": "2026-05-16T05:07:26+00:00",
@@ -84,6 +96,18 @@
         {
           "name": "Suriname Herald",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhGMHVzSVdfMEp1b3dpZkRiZk9fdWJzbjAtWlVHVnNhY2ZTSDlaQS1lOGZndU1uVy1uSUZBTXlzT0JBbjhpVHlSMHFEZC1ZSWZLR3RxNFBaZmhaZDlmbnZubVROd1F0YWFqbklrWkJIYjNhY3ZyeHZXV3RIYWJJSWhWV0pvZmw5ZlNUOWxwLU90MDk2ODllaXp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0100a0e6a7b7",
+      "title": "Fransman overleefde kanker tegen alle verwachting in: Nu kan hij de sleutel vormen tot toekomstige behandelingen - wibnet.nl",
+      "published": "2026-05-16T20:00:10+00:00",
+      "summary": "Fransman overleefde kanker tegen alle verwachting in: Nu kan hij de sleutel vormen tot toekomstige behandelingen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnJ5Y0FyMTgwbV80QjRsQnBDaTJBVUx4bjBwZzFWOWhzWVNMSnpBU01xZVZVemFKTUZrS0Vna0duSl9ONGp1WGRMWmh4enhmZGhTZk15Y3hreDNWQVJtbUZJcXdfZjlpcWxVZEJpRUwzS0hhbHJvNXRId29mSThDREc3UjF0NmtTUWxLLVdRYVRrRURkNHZWWU9QRXBVRVB1eGw2aFdNQXVMaGc5NjFacGVONklta1VYNUMyRE5zb0pDUzVkelBiMnQ4RlVIdGlyTDlBOV9xajBkdW4xSUE?oc=5"
         }
       ]
     }

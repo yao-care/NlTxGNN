@@ -1,8 +1,44 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-18T15:23:58.822466+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-18T19:41:33.425294+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "4a117b97e776",
+      "title": "Is Ebola-uitbraak in Congo ook risico voor Nederland? 'Kans is ontzettend klein' - EenVandaag",
+      "published": "2026-05-18T13:09:08+00:00",
+      "summary": "Is Ebola-uitbraak in Congo ook risico voor Nederland? 'Kans is ontzettend klein'&nbsp;&nbsp;EenVandaagKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagInternationale noodsituatie na ebola-uitbraak: ‘Er bestaat gewoon nog geen vaccin tegen het Bundibugyo-virus’&nbsp;&n",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXEwcndyMEM4S0oxRUZ3MUp6N2FxNmdjWG1sZTJvMjUyQUZwVGRQaGQ5M2JUOUpOQVpIeUJRMjF0X0lWWHR6VHA4bTdaeWtTWlpqdUtiNkkxNWtmZ2hGUlFtM0Y3UmxTUHdZOS04VFNqZ1gzODdnQXNSSnlqRk9aVXNHT2tkQzVQN2FjdnNQaE15ZGhlUFRCdkFZeUE5QkRoQl9lZk5vRlVCVkIwS255UEtMUE9tclY0MmtOLVl3RUM0ZHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e0cf15c450b",
+      "title": "Cruiseschip Hondius aangekomen in Rotterdam, resterende opvarenden in quarantaine - NU",
+      "published": "2026-05-18T08:19:56+00:00",
+      "summary": "Cruiseschip Hondius aangekomen in Rotterdam, resterende opvarenden in quarantaine&nbsp;&nbsp;NULive | Cruiseschip MV Hondius gaat in juni in Spitsbergen weer in de vaart&nbsp;&nbsp;NULIVE MV Hondius aangemeerd in Rotterdam: \"Geen symptomen bij laatste opvarenden\"&nbsp;&nbsp;VRTHondius in Rotterdam, begin schoonmaak en quarantaine bemanning&nbsp;&nbsp;NOS„Aandacht voor hantavirus is overtrokken; dit is gewoon niet de nieuwe corona”&nbsp;&nbsp;RD.nl",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVRuY2NrVl9QeldhOTV4N3djUmJUSk9WREVHZzZqbU11XzcxbXRpbDh6WEJOeWdrNTJwNUJZWDZ0U2ZCVnl1eUhXZ2dmcldPX0Q1TmlaczZxR1Q4V2VpaXh4LWFBZjQ1Uk9yeTQ4Q0lCcEZMdzZuekR0MGktM2J6WmtaTndSZWxESDAyc3VtQ1M0dFhSbFVBVU0tZ1lNX3dTVTNEZ0NVcXdCQlplLWJZdnZVeHFLOHExYTNPQWwwRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae55568012ab",
+      "title": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger - de Stentor",
+      "published": "2026-05-17T23:15:00+00:00",
+      "summary": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk83Vm9kVGFqcWF2eWl0MGhtWUVKblFhQWZnT2d1MGJSdXdCOEFUTk8tTjc3NHh0cDEzcnZBWXlmcGFuN2J1cGJwTHdjdWhINk1aQlB2SWRfOHVRYjdjLU1oY3VBRzhWdkJoTEk3REgtQ1lsS3Vpek5SVTVkVnptNXFtM2E1R1BHNXEtNWM2MUlQdjV5NGtKRFNUeGNCNlc4RTlHY2pHN0FIX2Y0MkV0bnRlT2tjSmJIX3I3TEpxVzVYUnZOdlF1Uw?oc=5"
+        }
+      ]
+    },
     {
       "id": "558fb4723da5",
       "title": "Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam - De Telegraaf",
@@ -19,23 +55,11 @@
       "id": "b7d7cfd036fc",
       "title": "‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis - Het Parool",
       "published": "2026-05-18T01:01:00+00:00",
-      "summary": "‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis&nbsp;&nbsp;Het ParoolOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlDominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenGroninger Dominic kreeg meerdere infectieziekten tegelijk en zet zich nu in om anderen bewust te maken van risico's&nbsp;&nbsp;Gron",
+      "summary": "‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis&nbsp;&nbsp;Het ParoolOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlGroninger Dominic kreeg meerdere infectieziekten tegelijk en zet zich nu in om anderen bewust te maken van risico's&nbsp;&nbsp;Groninger Internet CourantDominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nb",
       "sources": [
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWI4MDR2X2FXTk9ROHNIcEVlcXNTUFFoYzhTa2lMMVIzWjhwaWdiTWd5SmJFN3dybnY4ZzNRS3lhelFqVGxMSlhVbE5hNDBCWWM2T1R5SW5DLWxhQW1mYzVYMVlMc05rTVpFMTM4Y3VGVUVwUXUyZGo2MFBjQU9zZ1BGLVhwNnhHRmd3OGZrb29oS1VGOE5TVWpDRXBQQjA5X09CTnhseld1Wl9ubGVNSXNMYnF5eTFwUHZyUGtyMXQwYmljYVMxSTZqclZIQ2FwSHgzUy1ZSnQwXzZPOG5PLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed6391c52e3c",
-      "title": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger - Brabants Dagblad",
-      "published": "2026-05-17T23:15:00+00:00",
-      "summary": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger&nbsp;&nbsp;Brabants Dagblad",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjIwS29rd0NOaHAydGdkYnkxOWdCS204bWE4WG1aUDg1WlhaRWUxSjBmVVozUWNxNWpGQmY1SmNTMU9oRkhqYnRXVWhSTFB4TGFBZm56bFIwV2J6T1V0QTM3Si1DZkx5TGJITFdyTVdQcG1zeldyOTBOT2owNlBGUURaOUVfTnFJYmxrQ0t2NGpLSlItTmJ3OFY4TzBLT0FZaWpqWFZmb2IxclZidlFnWjRNY1NMSnljYnNSLU9kbw?oc=5"
         }
       ]
     },

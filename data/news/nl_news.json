@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-17T19:04:12.751678+00:00",
-  "count": 8,
+  "fetched_at": "2026-05-18T02:58:10.353337+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "f4c9efc8a7c9",
+      "title": "Ebola-uitbraak in Congo is ‘extreem zorgwekkend’, niet alleen omdat er geen vaccin tegen is - Het Parool",
+      "published": "2026-05-17T18:13:45+00:00",
+      "summary": "Ebola-uitbraak in Congo is ‘extreem zorgwekkend’, niet alleen omdat er geen vaccin tegen is&nbsp;&nbsp;Het ParoolGevaarlijke variant ebolavirus uitgebroken: ‘Extreem zorgwekkend’ en ‘complexe situatie’&nbsp;&nbsp;AD.nlAlarm om ebola-uitbraak Congo en Uganda, WHO ziet internationale noodsituatie&nbsp;&nbsp;NOSEbola-uitbraak Congo en Oeganda is volgens WHO 'wereldwijde noodsituatie'&nbsp;&nbsp;NUGrote ebola-uitbraak was te verwachten: 'Bezuinigingen kosten mensenlevens'&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmlqTzB5XzZZOFNkaDVnM0pxQklZWFJ1WW1CeUNZLXhQbmpBM3pVOXBRR2VrZzJWdV81c0V3Ykt5LW92WFpuTGhrTWpYQVE0Sk9XTWVPV0dPNnFHR1pfRTFvUjYwLWtuejlhdnVfOUNQRGRjTHVuMFlsU2NEOHhIN3ptWVRvUkVsd0d2RUNyS2U1MnhqZDlYeElCS05pcHpEbmFWNVQtYjhQVkx1Y3V3VDNwOFN0Uk1PMW10RXdCUkY4SWxTREE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b15e020e33c6",
       "title": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’ - De Telegraaf",
-      "published": "2026-05-17T13:31:44+00:00",
-      "summary": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafNederlandse overleden vogelaar reisde door regio met hantavirus&nbsp;&nbsp;de VolkskrantTERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHet hantavirus lijkt niet op covid, maar de online misinformatie doet denken aan 2020&nbsp;&nbsp;Het ParoolHelderse Dirk-Piet (78) zat op schip w",
+      "published": "2026-05-17T20:31:44+00:00",
+      "summary": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantHelderse Dirk-Piet (78) zat op schip waarop dodelijke hantavirus uitbrak: ’Ik dacht: dit zit niet goed’&nbsp;&nbsp;Noordhollands DagbladTERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHet hantavirus li",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "0127ee13e5ee",
+      "title": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond - Starnieuws",
+      "published": "2026-05-17T01:38:00+00:00",
+      "summary": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond&nbsp;&nbsp;StarnieuwsBlauwgrond week lang doelwit dengue-bespuitingen&nbsp;&nbsp;Times of SurinameBOG start grootschalige bespuitingen tegen chikungunya in Blauwgrond&nbsp;&nbsp;Suriname HeraldNederland adviseert vaccinatie tegen chikungunya voor reizigers naar Suriname&nbsp;&nbsp;WaterkantVan Samson kritisch op aanpak chikungunya: “We hebben actie nodig”&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IaDRfQlZnWVNxaTJBUWZkUjZDMXJFbXlUMVVzV20yYW9WTmYtQ3pxZHdySnpSVjNWR3hJdU5XRVF0d01QbVNmYjJRU1ZocDl0UVZqYktodFNIaENySEIxMGl1TFpNRUl3UkhzYW0za0JNdU5FbkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9da2dee6eef3",
       "title": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd' - RTV Utrecht",
       "published": "2026-05-16T14:00:00+00:00",
@@ -48,18 +72,6 @@
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUhfV1NndzhIcXpfYTBPZmtoNnZMd3ViMU9JRjJ0UDBVUU1WUEJFdEE1Q0RUaGZnQUtwUjNNU2dXakRtcVU1MUxqdGE3d3lFOTliYXJRaXlERlo1S09hcDAtcVdWQ3RHYU1VbWxPMThSUmRFMDlLOElYNnBzLXNCWXhfLXZTVWt1ZXNfV1lsQjZpSXdKZGQ2TWNmMTNjVk92YlVyYUN2VnJGeko0bXUwMjZ1N2dFMTZ6NFpyeWtyX2l4WC1LbzZvZjdzS1AtcWRGcEJIZEZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0127ee13e5ee",
-      "title": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond - Starnieuws",
-      "published": "2026-05-17T01:38:00+00:00",
-      "summary": "BOG start bespuitingscampagne tegen chikungunya in Blauwgrond&nbsp;&nbsp;StarnieuwsBOG voert gerichte Chikungunya-bestrijding uit in gebied Morgenstond&nbsp;&nbsp;Times of SurinameBOG start grootschalige bespuitingen tegen chikungunya in Blauwgrond&nbsp;&nbsp;Suriname HeraldNederland adviseert vaccinatie tegen chikungunya voor reizigers naar Suriname&nbsp;&nbsp;WaterkantVan Samson kritisch op aanpak chikungunya: “We hebben actie nodig”&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IaDRfQlZnWVNxaTJBUWZkUjZDMXJFbXlUMVVzV20yYW9WTmYtQ3pxZHdySnpSVjNWR3hJdU5XRVF0d01QbVNmYjJRU1ZocDl0UVZqYktodFNIaENySEIxMGl1TFpNRUl3UkhzYW0za0JNdU5FbkE?oc=5"
         }
       ]
     },

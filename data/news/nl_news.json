@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-18T02:58:10.353337+00:00",
-  "count": 9,
+  "fetched_at": "2026-05-18T09:56:20.120112+00:00",
+  "count": 11,
   "news": [
     {
       "id": "f4c9efc8a7c9",
       "title": "Ebola-uitbraak in Congo is ‘extreem zorgwekkend’, niet alleen omdat er geen vaccin tegen is - Het Parool",
       "published": "2026-05-17T18:13:45+00:00",
-      "summary": "Ebola-uitbraak in Congo is ‘extreem zorgwekkend’, niet alleen omdat er geen vaccin tegen is&nbsp;&nbsp;Het ParoolGevaarlijke variant ebolavirus uitgebroken: ‘Extreem zorgwekkend’ en ‘complexe situatie’&nbsp;&nbsp;AD.nlAlarm om ebola-uitbraak Congo en Uganda, WHO ziet internationale noodsituatie&nbsp;&nbsp;NOSEbola-uitbraak Congo en Oeganda is volgens WHO 'wereldwijde noodsituatie'&nbsp;&nbsp;NUGrote ebola-uitbraak was te verwachten: 'Bezuinigingen kosten mensenlevens'&nbsp;&nbsp;RTL.nl",
+      "summary": "Ebola-uitbraak in Congo is ‘extreem zorgwekkend’, niet alleen omdat er geen vaccin tegen is&nbsp;&nbsp;Het ParoolGevaarlijke variant ebolavirus uitgebroken: ‘Extreem zorgwekkend’ en ‘complexe situatie’&nbsp;&nbsp;AD.nlWHO: ebola-uitbraak Congo en Uganda is wereldwijde noodsituatie&nbsp;&nbsp;RD.nlEbola-uitbraak Congo en Oeganda is volgens WHO 'wereldwijde noodsituatie'&nbsp;&nbsp;NUUitbraak van zeldzame ebola-variant in Congo en Oeganda, WHO roept noodsituatie uit&nbsp;&nbsp;Nederlands Dagblad",
       "sources": [
         {
           "name": "Het Parool",
@@ -16,14 +16,62 @@
       ]
     },
     {
-      "id": "b15e020e33c6",
-      "title": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’ - De Telegraaf",
-      "published": "2026-05-17T20:31:44+00:00",
-      "summary": "Vergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantHelderse Dirk-Piet (78) zat op schip waarop dodelijke hantavirus uitbrak: ’Ik dacht: dit zit niet goed’&nbsp;&nbsp;Noordhollands DagbladTERUGLEZEN Hantavirus | Argentinië doet onderzoek naar hantavirus in vertrekstad cruiseschip&nbsp;&nbsp;AD.nlHet hantavirus li",
+      "id": "112151ba623c",
+      "title": "‘Ik gebruik geen condoom’ zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger - AD.nl",
+      "published": "2026-05-17T23:15:00+00:00",
+      "summary": "‘Ik gebruik geen condoom’ zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWF9WaW1pQS1RbGlwc2Mzb0ZBM0FEdGpCdjJnQjJ6VnJ2c2RyejVFd2QwaDc5Qjk1TU1LSG1EX1lDeWZqTnhieE96T2pxRlZ6S2xHcHVRdWVWbXZtaDh3aGk4Qml6cnliSEsxNEtlNTJ5ZVVDc3FEaVpKdDdpdmxVUVNOYnpaTWhoMVF6X0ZSb2pJSFo4ZVZLMFNfdG5tS3dxMnNIeUxNeHNzVjFrcjNLMDVfSnBydjQ1dFhkNWRLRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edee1257dea6",
+      "title": "Darmdokter Trisha (37) ziet ons massaal verkeerd poepen: ’Wegwezen als je date éénlaags-toiletpapier gebruikt’ - De Telegraaf",
+      "published": "2026-05-18T09:09:49+00:00",
+      "summary": "Darmdokter Trisha (37) ziet ons massaal verkeerd poepen: ’Wegwezen als je date éénlaags-toiletpapier gebruikt’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa21kR2pNMEY5a0c2Z1JRVVF3RG41bGpDdld5Mi00UHJhYlp2cFhKRzFuNWV0VThLUHdWMFhLVDd3bVlTQ2Z2MldDY1FTNW94bFVnd0dpRjR5NmZ6QzdjWE55TFQtOXdGcXBMTTFHbUZieExrMTFQRzMxMXhROTFPZXloUFNydlRLYkRrdkZwaWtOM1ZPV2YxNVdkWjFvMy1qd29kTDNBOFhlMkhKektTTC1MWkJUdjFXdzhCWXhRX29aRThuSjdZdEdrTWpBMnhwUkJuMy1CcHVrZ0lWcFBBLVdTajdReG9LTTg5NGJtLWxWWkdTSW1mSmpRdUQwNjhmNU1oT1R6Q3haQnpT?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSTR0ZzgxUmJPYzY0dU5DeEgxeVhwRlc2VUZnb0JENkFCR3BJd1hmbk9ZVk5NTWtqRk45RGRqNlVpTC11QVFrMXZGbTRETGlFdkZfMWJJODF4M3ZhZlBvZ0NxM2ZUVkNtbVlQVFpjcUJIV01odk5wNVV2NDJMYXVIRmVLTTJ4Q1NyUUJXc1ZtcFhzendmNXo3dHZ5aDBlRldSQ2ViaEd2OTdFV1ZFWG43UXBhTzVnaWxfMFJCd2otd2lWaUUwV05zNkV0aDh6YlR2d0NUb3pKMU9KRlZ0ZlFZRlB1VFMtcnl5YW44OUlKZ052TTZGNVd0dk5B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91471cd4ae16",
+      "title": "Nederland moet wakker worden, zegt dit instituut: of het over tien jaar komt, weten we niet, maar er komt weer een pandemie - De Gelderlander",
+      "published": "2026-05-17T16:01:00+00:00",
+      "summary": "Nederland moet wakker worden, zegt dit instituut: of het over tien jaar komt, weten we niet, maar er komt weer een pandemie&nbsp;&nbsp;De GelderlanderOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nl‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis&nbsp;&nbsp;Het ParoolCampagne wijst op risico’s van infectieziekten&nbsp;&nbsp;SkiprDominic kreeg meerdere infectieziekten t",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRThIdHhVcW1FcjVHU0tVaVl0ZHdBWldjZjlOcERKSmFPVk1Hc1Zycy0wY1BiZWdiTU9YanlSUVhaaXEzaUR5N00zd0lBRzZuekVpc1UybThqQmxSQktfQXhoeEl1TTdjcmh4cHhhX3hMaWp2NG52TWtQRU9SZmhjRG9nNmV5Mndjei1NMFJmbDI0WHJtcUxDLUxvTTN0eVV6ZGJDNFh5NFlNdXRRcnl1eEZMaE9ySkgwdWI1SmQ5VkN1MXpNMkVyZUFXUGUtaG1mN2hTMGoxS2pKM2d6Wmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cbdc4252139e",
+      "title": "Waarom sommige kinderen steeds verkouden zijn: onderzoekers vinden opvallend tekort aan Bifidobacterium - Tubantia",
+      "published": "2026-05-17T22:53:00+00:00",
+      "summary": "Waarom sommige kinderen steeds verkouden zijn: onderzoekers vinden opvallend tekort aan Bifidobacterium&nbsp;&nbsp;TubantiaMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVVBiSG9CNXpudWN5cjFaYXExcEtjVElleG83ODZZYWRaek1ZS216ckl1WnRFRDllcFZHemVfWU0yZ2VPRUswbzVvZlV3Nkk5RlFOdEUwYmhtVXBDYmh1d3NtMVVjZ05KYzhZZ0FnTk4wUkRWdUstNTZxMUtZM0NkcG1GVnBaNU5tS1BicFdTek9ralpfbEdveGRJZHNyTWhJdk1lRklhdUFWUG56UnJUc3lLSGw5WHdxTjdsWVR1OWhQX3lyQ3VkVWFjLTZJWlpTZTFHdkJyMWwtZDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "558fb4723da5",
+      "title": "Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam - De Telegraaf",
+      "published": "2026-05-18T08:27:15+00:00",
+      "summary": "Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;De TelegraafVergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafLIVE | Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;Leeuwarder CourantBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2ZfQldpd1NaTDBWemwzUGNBV0dha2RQcEx5ODF6UWZuMEVKWHJjNThpVm5TVEt3eWJsUFl2MTZXc2h5V2hRaFNhaUF3blBodHI2RHJEODBvWHphTnRzMVNjTk45N1VKcXQ3UTZLNHU4V1h6eDhCbnhGMTV3RWc2VmV1QW80NjlDbDBsR19tWS1FeGFISUFPQ3FhV1c5Zlh4UDNocC1BSlRJR1NJajByOW4zT2NEbk0ycGU1R3lOalRPOWhUWVEzQTF2SnVEY3VQTENOaXhYRG4tUQ?oc=5"
         }
       ]
     },
@@ -40,14 +88,14 @@
       ]
     },
     {
-      "id": "1efa27f2cd9e",
-      "title": "Wetenschappers ontdekken verrassende invloed op eetgedrag van kinderen - Kek Mama",
-      "published": "2026-05-16T07:13:26+00:00",
-      "summary": "Wetenschappers ontdekken verrassende invloed op eetgedrag van kinderen&nbsp;&nbsp;Kek MamaBlootstelling aan smaken in baarmoeder maakt peuters minder kieskeurig, ‘maar is niet dé oplossing’&nbsp;&nbsp;bnr.nlLust je kind geen groente? Ontstaat mogelijk al in de baarmoeder&nbsp;&nbsp;RTL.nlMinder strijd aan tafel later? Wetenschappers tonen hoe groenten eten al in de buik begint&nbsp;&nbsp;De MorgenKinderen groenten laten eten begint al in de baarmoeder, volgens Brits onderzoek&nbsp;&nbsp;Nieuwsbl",
+      "id": "9da2dee6eef3",
+      "title": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd' - RTV Utrecht",
+      "published": "2026-05-16T14:02:16+00:00",
+      "summary": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd'&nbsp;&nbsp;RTV UtrechtVan Rossem Vertelt over de noodzaak van vaccineren&nbsp;&nbsp;RTV Utrecht",
       "sources": [
         {
-          "name": "Kek Mama",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xazA0dGtUSFhncUxXVzBFam9SU1JNc3EtRW9SRUtzQTZCV0NUU2ozZlhyOVMyeEMyM0d3Rmczdno0bFdENWdWUGdxMlRHV0xfcHhIdDJ5MlZ0NkpWUGxfczBXODRQTVBxbHVMYTFIa2x1UGVxcmdj?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUhfV1NndzhIcXpfYTBPZmtoNnZMd3ViMU9JRjJ0UDBVUU1WUEJFdEE1Q0RUaGZnQUtwUjNNU2dXakRtcVU1MUxqdGE3d3lFOTliYXJRaXlERlo1S09hcDAtcVdWQ3RHYU1VbWxPMThSUmRFMDlLOElYNnBzLXNCWXhfLXZTVWt1ZXNfV1lsQjZpSXdKZGQ2TWNmMTNjVk92YlVyYUN2VnJGeko0bXUwMjZ1N2dFMTZ6NFpyeWtyX2l4WC1LbzZvZjdzS1AtcWRGcEJIZEZ3?oc=5"
         }
       ]
     },
@@ -64,38 +112,14 @@
       ]
     },
     {
-      "id": "9da2dee6eef3",
-      "title": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd' - RTV Utrecht",
-      "published": "2026-05-16T14:00:00+00:00",
-      "summary": "Maarten van Rossem over vaccineren: 'Hoe ze vaccins produceerden in Bilthoven was echt wereldberoemd'&nbsp;&nbsp;RTV UtrechtVan Rossem Vertelt over de noodzaak van vaccineren&nbsp;&nbsp;RTV Utrecht",
-      "sources": [
-        {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUhfV1NndzhIcXpfYTBPZmtoNnZMd3ViMU9JRjJ0UDBVUU1WUEJFdEE1Q0RUaGZnQUtwUjNNU2dXakRtcVU1MUxqdGE3d3lFOTliYXJRaXlERlo1S09hcDAtcVdWQ3RHYU1VbWxPMThSUmRFMDlLOElYNnBzLXNCWXhfLXZTVWt1ZXNfV1lsQjZpSXdKZGQ2TWNmMTNjVk92YlVyYUN2VnJGeko0bXUwMjZ1N2dFMTZ6NFpyeWtyX2l4WC1LbzZvZjdzS1AtcWRGcEJIZEZ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f730c8c20f93",
       "title": "Onderzoekers: 8500 stappen per dag maken de kans op terugval na afvallen kleiner dan gedacht - Metronieuws.nl",
       "published": "2026-05-16T15:54:00+00:00",
-      "summary": "Onderzoekers: 8500 stappen per dag maken de kans op terugval na afvallen kleiner dan gedacht&nbsp;&nbsp;Metronieuws.nlWetenschappers onthullen: Zoveel stappen moet je per dag lopen om op gewicht te blijven&nbsp;&nbsp;wibnet.nlVergeet die 10.000: zó veel stappen per dag zetten is óók genoeg&nbsp;&nbsp;flair.nlSlank blijven? Dit is het aantal stappen dat je dagelijks moet lopen&nbsp;&nbsp;De TelegraafWandel jij om af te vallen? Dit tempo verbrandt écht het meeste vet&nbsp;&nbsp;Futura, le média qu",
+      "summary": "Onderzoekers: 8500 stappen per dag maken de kans op terugval na afvallen kleiner dan gedacht&nbsp;&nbsp;Metronieuws.nlDe \"gouden sleutel\" tot het behouden van een gezond gewicht en het effectief voorkomen van obesitas.&nbsp;&nbsp;Vietnam.vnVergeet die 10.000: zó veel stappen per dag zetten is óók genoeg&nbsp;&nbsp;flair.nlSlank blijven? Dit is het aantal stappen dat je dagelijks moet lopen&nbsp;&nbsp;De TelegraafHoeveel stappen per dag na afvallen? Dit aantal houdt je slank&nbsp;&nbsp;Dagblad va",
       "sources": [
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDcwMU4zMGJySDBHZ1lOQjNsWlg5WnBlY3dpMzNxY2xYbFlVSVdWc0praVdJTVB0ak5KY2pmbFI2S1owMVZNMTUxNk5NNjBLUFZkQXdSbENIb0FHMGF4T044NHp4YnAyVERDeEdmaUN1clU1V0lnSUtmajFiajVNWTZiQk8xaDNydlBVUUFLeW9EYlRVTW9QYm5xMGlJUUhncXBFLVN3Y1ZndS1PcjI5N3JxemRNZmRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fb380c3c8d1",
-      "title": "Arts Koendjbiharie: “Stop met stigma rond hiv/aids” - Suriname Herald",
-      "published": "2026-05-16T05:07:26+00:00",
-      "summary": "Arts Koendjbiharie: “Stop met stigma rond hiv/aids”&nbsp;&nbsp;Suriname HeraldGezondheidsinstanties slaan alarm om stijging hiv-besmettingen&nbsp;&nbsp;Times of Suriname",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhGMHVzSVdfMEp1b3dpZkRiZk9fdWJzbjAtWlVHVnNhY2ZTSDlaQS1lOGZndU1uVy1uSUZBTXlzT0JBbjhpVHlSMHFEZC1ZSWZLR3RxNFBaZmhaZDlmbnZubVROd1F0YWFqbklrWkJIYjNhY3ZyeHZXV3RIYWJJSWhWV0pvZmw5ZlNUOWxwLU90MDk2ODllaXp3?oc=5"
         }
       ]
     },

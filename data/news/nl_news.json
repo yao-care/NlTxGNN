@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-19T02:54:24.970764+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-19T09:37:24.603492+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "eafa706c7dcf",
-      "title": "Amerikaanse arts besmet met ebola na behandelen van patiënten in Congo - De Telegraaf",
-      "published": "2026-05-19T01:50:03+00:00",
-      "summary": "Amerikaanse arts besmet met ebola na behandelen van patiënten in Congo&nbsp;&nbsp;De TelegraafEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagVerenigde Staten gaan reizigers uit DRC, Oeganda en Zuid-Soedan weren vanwege ebola-uitbraak&nbsp;&nbsp;NRC",
+      "id": "7d257764d5fd",
+      "title": "Duitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht - NU",
+      "published": "2026-05-19T06:05:22+00:00",
+      "summary": "Duitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlInternationale noodsituatie na ebola-uitbraak: ‘Mensen kunnen bloeden uit hun ogen, hun neus, hun mond’&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejBVTzZtQXNoV3lGNUM2MkJiR3V2Ti1vSmhadVZQeE5LZzdKcDFIRm0wd1hXMmlRYU4yWUxoMC1rWENSUHBvU2lGTWpNMFVvZ090UnYycFlwai1ldkRhUUtUWFN2eGUxVnBYT3FyRUdEaEdWd1FfY21sRGROQWpuYWZleFprZi1VekNiLTRqdHZoaGdZT21LYkgxTzJwX0luVkoyRWxsMkZ4ZUwzVjBQX3VzRUhvUFZaVUFxc2Fn?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlRtVmV2QkctNi05czN4QjhPNklsUDNZMUhjZXBKbTFiZ3dtXzVvVXRZZ2ltX1FZd0hrREhzSE5KZTd0S1lKbDdQMWlObVI3Q1ROSDQzVUY5eUpaNk0wQnExczNjRzY4Z2NPeUNfUG9qbHcyZ2NycW9VRF80azlub0Z2UDd0UTdGeEU3QUl3UFNBNFFqV1lTZmVwOUF1SmFYTkx6ZlRkVExKNWVhV0JKczlxd3NVMVRGQldV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19b43e72667b",
+      "title": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’ - de Stentor",
+      "published": "2026-05-19T00:06:00+00:00",
+      "summary": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’&nbsp;&nbsp;de StentorZonder klachten, toch laten prikken: duizenden Nederlanders ontdekken ineens dat hun waarden te hoog zijn&nbsp;&nbsp;AD.nlIedereen van boven de 50 moet geregeld een hartcheck krijgen&nbsp;&nbsp;De GelderlanderHartstichting opent Hartcheckpunt in Middelburg voor meting van cholesterol en bloeddruk&nbsp;&nbsp;pzc.nlGratis hartcheck in Panningen: laat je bloeddruk, cholesterol en",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmpqVTV2clRnSzhuck50dVEzbHlURHA5NkVqMDYzZGRmTGdsa0tJdlY3bTFFOUtmX3VtbEp4YkZYYjJzVW9ENDBqYVhLYzNhWU9QblZGWURnM1VlSzNKdEg2ZkR5cUNjd25EbFZDLTQxTGtwWFBpamR2Rk56ejBSM1owdGZnY0ZmbDV1RUc4dW1JMlJrcGRMSFdIcGY1N0xjb3ZBR05IZE1zcnQ0aHNsck41cnVmT1RrZDNmUC1jbjZtSXVlSVlCaW9XNmoxWFhWaDJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cad8bcf2b191",
+      "title": "Chili en Argentinië ruziën over de oorsprong van het dodelijke andesvirus - NRC",
+      "published": "2026-05-19T06:22:37+00:00",
+      "summary": "Chili en Argentinië ruziën over de oorsprong van het dodelijke andesvirus&nbsp;&nbsp;NRCRisico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;De TelegraafHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;De GelderlanderWHO bestempelt wereldwijde risico als ‘laag’: hierom is het hantavirus is niet corona 2.0&nbsp;&nb",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVdnQTl3ZG1qYi1sYWRRd2tRaU5ybVBtMlp0c0NPNFBlUHZSMS1rNENlOF9LOXZJYkl2ZjA0STNTa1k3Ym01T0xLV0d6X2JIaW8wX0c2Rld6Tnp5Vmo3b1VScnZHNWxpbmFGTlRfVGdNZUVzMUZlZ3E5bFplTWJoX28xYy04c0w0aWpmeGFQbVFVRkNNZ1JtMG5kcFF2WlZaVTJOMDI0OEV6LVZvMTFLNjZNVVRCRjRMbmZXZg?oc=5"
         }
       ]
     },
@@ -19,7 +43,7 @@
       "id": "766fb873a113",
       "title": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee - Omroep Brabant",
       "published": "2026-05-18T16:19:59+00:00",
-      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde (4) had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;BN DeStemIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
+      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
       "sources": [
         {
           "name": "Omroep Brabant",
@@ -28,26 +52,26 @@
       ]
     },
     {
-      "id": "558fb4723da5",
-      "title": "Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam - De Telegraaf",
-      "published": "2026-05-18T12:55:02+00:00",
-      "summary": "Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;De TelegraafVergeet dodelijk hantavirus; de échte dreiging voor een nieuwe pandemie ligt elders, waarschuwen experts: ’De vraag is alleen wanneer’&nbsp;&nbsp;De TelegraafLIVE | Risico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;Leeuwarder CourantBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2ZfQldpd1NaTDBWemwzUGNBV0dha2RQcEx5ODF6UWZuMEVKWHJjNThpVm5TVEt3eWJsUFl2MTZXc2h5V2hRaFNhaUF3blBodHI2RHJEODBvWHphTnRzMVNjTk45N1VKcXQ3UTZLNHU4V1h6eDhCbnhGMTV3RWc2VmV1QW80NjlDbDBsR19tWS1FeGFISUFPQ3FhV1c5Zlh4UDNocC1BSlRJR1NJajByOW4zT2NEbk0ycGU1R3lOalRPOWhUWVEzQTF2SnVEY3VQTENOaXhYRG4tUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e77e8ec165e",
       "title": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen - OOG Groningen",
       "published": "2026-05-18T08:08:00+00:00",
-      "summary": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlHanta-, norovirus of longontsteking: 200.000 Nederlanders belanden jaarlijks door een infectieziekte in het ziekenhuis&nbsp;&nbsp;Het ParoolGroninger Dominic kreeg meerdere infectieziekten tegelijk en zet zich nu in om anderen bewust te maken van risico's&nbsp;",
+      "summary": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenCampagne vraagt aandacht voor groeiende dreiging infecties&nbsp;&nbsp;Omroep GelderlandOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlHanta-, norovirus of longontsteking: 200.000 Nederlanders belanden jaarlijks door een infectieziekte in het ziekenhuis&nbsp;&nbsp;Het ParoolGroninger Dominic kreeg meerdere i",
       "sources": [
         {
           "name": "OOG Groningen",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0x4LWVjeUZFTDNaWWJkaXVqQkJobjJLb0UzWTI2eXpSa3BFVThQTW90US1VMzVTMWdwcmJKY1E2YkUxMUstMEJuTnItd3E5bVVNQ1UwbjQwLXNqb01RdlFkZkRpRXZMMktkclpCbVBHN2hrcG5IYnRKN1c3OHhfMVJlMlBjcDR2VGl0UzVoVkhvaUxtNmRIclZnemdQa1FwMklTMFdaOU02bHNSU1FEZTBDUnpVZGdrYmZDT3VJY2k2cW5G?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e19a54576099",
+      "title": "Opinie: ‘Door afslankmedicatie komt obesitas nóg meer op het bordje van de huisarts terecht – hoog tijd dat de Amsterdamse politiek ingrijpt’ - Het Parool",
+      "published": "2026-05-19T01:00:19+00:00",
+      "summary": "Opinie: ‘Door afslankmedicatie komt obesitas nóg meer op het bordje van de huisarts terecht – hoog tijd dat de Amsterdamse politiek ingrijpt’&nbsp;&nbsp;Het Parool",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZDhtNnJUbGdGaVZ3S0ZPcHo1NmpFT1AxbHU0NWFlZ1VhVHB5OVlmWTJBNVBLMTBYTjUzeVNnLWNWVlF3R0EwTkRlRm9EbUlXZS1JcEN0VjRYR1FoWlZLUXE3ZzNhXzlHWHNyYmpfcVdFQVJTNmY4QkhydHBiandMWkp0MEdEajkwQ1JnX1NCMnR3LVdQd2V0RHpmNVlkODF3LUl3T1FuQm9GWWdERG5BTGYyRGstdmRnVTNBd3lwTDZOQkxnWk1yWU93TVE3SFc0VzFZSnpoOXZmcTU4NkVzd050amMyVi15dldiQnZlWk05a1ZpMHVCeVB4UHhHYzY2MWdCVXJoLUg4R3llbVN2Qg?oc=5"
         }
       ]
     },

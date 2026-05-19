@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-19T09:37:24.603492+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-19T14:54:19.309498+00:00",
+  "count": 8,
   "news": [
     {
       "id": "7d257764d5fd",
       "title": "Duitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht - NU",
       "published": "2026-05-19T06:05:22+00:00",
-      "summary": "Duitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlInternationale noodsituatie na ebola-uitbraak: ‘Mensen kunnen bloeden uit hun ogen, hun neus, hun mond’&nbsp;&nbsp;de Volkskrant",
+      "summary": "Duitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUPodcast De Dag: als je midden in een ebola-brandhaard zit&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;Omroep Brabant",
       "sources": [
         {
           "name": "NU",
@@ -16,22 +16,10 @@
       ]
     },
     {
-      "id": "19b43e72667b",
-      "title": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’ - de Stentor",
-      "published": "2026-05-19T00:06:00+00:00",
-      "summary": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’&nbsp;&nbsp;de StentorZonder klachten, toch laten prikken: duizenden Nederlanders ontdekken ineens dat hun waarden te hoog zijn&nbsp;&nbsp;AD.nlIedereen van boven de 50 moet geregeld een hartcheck krijgen&nbsp;&nbsp;De GelderlanderHartstichting opent Hartcheckpunt in Middelburg voor meting van cholesterol en bloeddruk&nbsp;&nbsp;pzc.nlGratis hartcheck in Panningen: laat je bloeddruk, cholesterol en",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmpqVTV2clRnSzhuck50dVEzbHlURHA5NkVqMDYzZGRmTGdsa0tJdlY3bTFFOUtmX3VtbEp4YkZYYjJzVW9ENDBqYVhLYzNhWU9QblZGWURnM1VlSzNKdEg2ZkR5cUNjd25EbFZDLTQxTGtwWFBpamR2Rk56ejBSM1owdGZnY0ZmbDV1RUc4dW1JMlJrcGRMSFdIcGY1N0xjb3ZBR05IZE1zcnQ0aHNsck41cnVmT1RrZDNmUC1jbjZtSXVlSVlCaW9XNmoxWFhWaDJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cad8bcf2b191",
       "title": "Chili en Argentinië ruziën over de oorsprong van het dodelijke andesvirus - NRC",
       "published": "2026-05-19T06:22:37+00:00",
-      "summary": "Chili en Argentinië ruziën over de oorsprong van het dodelijke andesvirus&nbsp;&nbsp;NRCRisico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;De TelegraafHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;De GelderlanderWHO bestempelt wereldwijde risico als ‘laag’: hierom is het hantavirus is niet corona 2.0&nbsp;&nb",
+      "summary": "Chili en Argentinië ruziën over de oorsprong van het dodelijke andesvirus&nbsp;&nbsp;NRCRisico hantavirus voor wereld blijft volgens WHO laag, Hondius komt vandaag aan in Rotterdam&nbsp;&nbsp;De TelegraafHet bizarre relaas rond de opvarenden van de MV Hondius&nbsp;&nbsp;de VolkskrantBritse hantapatiënt in Nederlands ziekenhuis mag naar het VK, WHO: Risico virus blijft laag&nbsp;&nbsp;AD.nlWHO bestempelt wereldwijde risico als ‘laag’: hierom is het hantavirus is niet corona 2.0&nbsp;&nbsp;Metroni",
       "sources": [
         {
           "name": "NRC",
@@ -40,10 +28,22 @@
       ]
     },
     {
+      "id": "19b43e72667b",
+      "title": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’ - de Stentor",
+      "published": "2026-05-19T00:06:00+00:00",
+      "summary": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’&nbsp;&nbsp;de StentorZonder klachten toch laten prikken: duizenden Nederlanders ontdekken ineens dat hun waarden te hoog zijn&nbsp;&nbsp;AD.nlHartstichting slaat alarm: ‘Veel mensen lopen rond met te hoog cholesterol’&nbsp;&nbsp;De GelderlanderStelling | Bied iedereen tussen de 40 en 70 jaar een jaarlijkse hartcheck aan&nbsp;&nbsp;de StentorHartstichting opent Hartcheckpunt in Middelburg voor meti",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmpqVTV2clRnSzhuck50dVEzbHlURHA5NkVqMDYzZGRmTGdsa0tJdlY3bTFFOUtmX3VtbEp4YkZYYjJzVW9ENDBqYVhLYzNhWU9QblZGWURnM1VlSzNKdEg2ZkR5cUNjd25EbFZDLTQxTGtwWFBpamR2Rk56ejBSM1owdGZnY0ZmbDV1RUc4dW1JMlJrcGRMSFdIcGY1N0xjb3ZBR05IZE1zcnQ0aHNsck41cnVmT1RrZDNmUC1jbjZtSXVlSVlCaW9XNmoxWFhWaDJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "766fb873a113",
       "title": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee - Omroep Brabant",
       "published": "2026-05-18T16:19:59+00:00",
-      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
+      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMoeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven&nbsp;&nbsp;De GelderlanderIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
       "sources": [
         {
           "name": "Omroep Brabant",
@@ -55,7 +55,7 @@
       "id": "5e77e8ec165e",
       "title": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen - OOG Groningen",
       "published": "2026-05-18T08:08:00+00:00",
-      "summary": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenCampagne vraagt aandacht voor groeiende dreiging infecties&nbsp;&nbsp;Omroep GelderlandOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlHanta-, norovirus of longontsteking: 200.000 Nederlanders belanden jaarlijks door een infectieziekte in het ziekenhuis&nbsp;&nbsp;Het ParoolGroninger Dominic kreeg meerdere i",
+      "summary": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlCampagne vraagt aandacht voor groeiende dreiging infecties&nbsp;&nbsp;Omroep GelderlandHanta-, norovirus of longontsteking: 200.000 Nederlanders belanden jaarlijks door een infectieziekte in het ziekenhuis&nbsp;&nbsp;Het Parool'Zonder belerend vingertje': publi",
       "sources": [
         {
           "name": "OOG Groningen",
@@ -72,6 +72,18 @@
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZDhtNnJUbGdGaVZ3S0ZPcHo1NmpFT1AxbHU0NWFlZ1VhVHB5OVlmWTJBNVBLMTBYTjUzeVNnLWNWVlF3R0EwTkRlRm9EbUlXZS1JcEN0VjRYR1FoWlZLUXE3ZzNhXzlHWHNyYmpfcVdFQVJTNmY4QkhydHBiandMWkp0MEdEajkwQ1JnX1NCMnR3LVdQd2V0RHpmNVlkODF3LUl3T1FuQm9GWWdERG5BTGYyRGstdmRnVTNBd3lwTDZOQkxnWk1yWU93TVE3SFc0VzFZSnpoOXZmcTU4NkVzd050amMyVi15dldiQnZlWk05a1ZpMHVCeVB4UHhHYzY2MWdCVXJoLUg4R3llbVN2Qg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fdeea5d4beb8",
+      "title": "Darmdokter Trisha (37) ziet ons massaal verkeerd poepen: ’Wegwezen als je date éénlaagstoiletpapier gebruikt’ - Noordhollands Dagblad",
+      "published": "2026-05-18T09:28:49+00:00",
+      "summary": "Darmdokter Trisha (37) ziet ons massaal verkeerd poepen: ’Wegwezen als je date éénlaagstoiletpapier gebruikt’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdHNpTkwteXlJTzBRbnFsWWJzZEJ4SjdhbUxSdHdNSXp1bl9kQ1hOM19INm0wUDNFTjAxRGtFcmZxOUdWRElJNk54U21YaHBxM0szUVZEcFVwc0pxdkt4RnZLbHF0Y2ZjVkszZWdwVDA1SEh3VGtQYk1kdmJKTnA3V0g4QmFPZ1BGbTFWMzVQU3VtdTBleXB5YnJfaUQ4Wlh2cU5tekxUeWwzRndxb1JnX0lodG1KSDRzMmExaGl5Z3E0NHRwSlRZTDdYTDlta1VuQ25HTnVIOVAtRlBhWEltU2NMOTVDUVRDeF90eExvOTlxTUc1amdpenFn?oc=5"
         }
       ]
     },

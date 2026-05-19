@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-18T19:41:33.425294+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-19T02:54:24.970764+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "4a117b97e776",
-      "title": "Is Ebola-uitbraak in Congo ook risico voor Nederland? 'Kans is ontzettend klein' - EenVandaag",
-      "published": "2026-05-18T13:09:08+00:00",
-      "summary": "Is Ebola-uitbraak in Congo ook risico voor Nederland? 'Kans is ontzettend klein'&nbsp;&nbsp;EenVandaagKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagInternationale noodsituatie na ebola-uitbraak: ‘Er bestaat gewoon nog geen vaccin tegen het Bundibugyo-virus’&nbsp;&n",
+      "id": "eafa706c7dcf",
+      "title": "Amerikaanse arts besmet met ebola na behandelen van patiënten in Congo - De Telegraaf",
+      "published": "2026-05-19T01:50:03+00:00",
+      "summary": "Amerikaanse arts besmet met ebola na behandelen van patiënten in Congo&nbsp;&nbsp;De TelegraafEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nlIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagVerenigde Staten gaan reizigers uit DRC, Oeganda en Zuid-Soedan weren vanwege ebola-uitbraak&nbsp;&nbsp;NRC",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXEwcndyMEM4S0oxRUZ3MUp6N2FxNmdjWG1sZTJvMjUyQUZwVGRQaGQ5M2JUOUpOQVpIeUJRMjF0X0lWWHR6VHA4bTdaeWtTWlpqdUtiNkkxNWtmZ2hGUlFtM0Y3UmxTUHdZOS04VFNqZ1gzODdnQXNSSnlqRk9aVXNHT2tkQzVQN2FjdnNQaE15ZGhlUFRCdkFZeUE5QkRoQl9lZk5vRlVCVkIwS255UEtMUE9tclY0MmtOLVl3RUM0ZHc?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejBVTzZtQXNoV3lGNUM2MkJiR3V2Ti1vSmhadVZQeE5LZzdKcDFIRm0wd1hXMmlRYU4yWUxoMC1rWENSUHBvU2lGTWpNMFVvZ090UnYycFlwai1ldkRhUUtUWFN2eGUxVnBYT3FyRUdEaEdWd1FfY21sRGROQWpuYWZleFprZi1VekNiLTRqdHZoaGdZT21LYkgxTzJwX0luVkoyRWxsMkZ4ZUwzVjBQX3VzRUhvUFZaVUFxc2Fn?oc=5"
         }
       ]
     },
     {
-      "id": "6e0cf15c450b",
-      "title": "Cruiseschip Hondius aangekomen in Rotterdam, resterende opvarenden in quarantaine - NU",
-      "published": "2026-05-18T08:19:56+00:00",
-      "summary": "Cruiseschip Hondius aangekomen in Rotterdam, resterende opvarenden in quarantaine&nbsp;&nbsp;NULive | Cruiseschip MV Hondius gaat in juni in Spitsbergen weer in de vaart&nbsp;&nbsp;NULIVE MV Hondius aangemeerd in Rotterdam: \"Geen symptomen bij laatste opvarenden\"&nbsp;&nbsp;VRTHondius in Rotterdam, begin schoonmaak en quarantaine bemanning&nbsp;&nbsp;NOS„Aandacht voor hantavirus is overtrokken; dit is gewoon niet de nieuwe corona”&nbsp;&nbsp;RD.nl",
+      "id": "766fb873a113",
+      "title": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee - Omroep Brabant",
+      "published": "2026-05-18T16:19:59+00:00",
+      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde (4) had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;BN DeStemIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVRuY2NrVl9QeldhOTV4N3djUmJUSk9WREVHZzZqbU11XzcxbXRpbDh6WEJOeWdrNTJwNUJZWDZ0U2ZCVnl1eUhXZ2dmcldPX0Q1TmlaczZxR1Q4V2VpaXh4LWFBZjQ1Uk9yeTQ4Q0lCcEZMdzZuekR0MGktM2J6WmtaTndSZWxESDAyc3VtQ1M0dFhSbFVBVU0tZ1lNX3dTVTNEZ0NVcXdCQlplLWJZdnZVeHFLOHExYTNPQWwwRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae55568012ab",
-      "title": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger - de Stentor",
-      "published": "2026-05-17T23:15:00+00:00",
-      "summary": "‘Ik gebruik geen condoom’, zegt mevrouw Steltjens tot de grote verbazing van dokter Rutger&nbsp;&nbsp;de Stentor",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk83Vm9kVGFqcWF2eWl0MGhtWUVKblFhQWZnT2d1MGJSdXdCOEFUTk8tTjc3NHh0cDEzcnZBWXlmcGFuN2J1cGJwTHdjdWhINk1aQlB2SWRfOHVRYjdjLU1oY3VBRzhWdkJoTEk3REgtQ1lsS3Vpek5SVTVkVnptNXFtM2E1R1BHNXEtNWM2MUlQdjV5NGtKRFNUeGNCNlc4RTlHY2pHN0FIX2Y0MkV0bnRlT2tjSmJIX3I3TEpxVzVYUnZOdlF1Uw?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDBRU0U0elVobFdybDJZTVI5UW5raW1KSW93djZyaXhNYk4tMWdMWkpWODN0SUljNElhVjM3SnFLUDRFQ2ZBa25FdnhMMjJjOEU2TUVhOHkxV0xsaDFuZmFocTByaUJoQkp0QnpIVG5peDZENVhyWk43TlIweGEzTFA0M0YyeFhrWWJfSHRCNXNwN2NUWVo5dy1LUDRxY3pxTVM0d21UdTNyaC1rS0E?oc=5"
         }
       ]
     },
@@ -52,26 +40,14 @@
       ]
     },
     {
-      "id": "b7d7cfd036fc",
-      "title": "‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis - Het Parool",
-      "published": "2026-05-18T01:01:00+00:00",
-      "summary": "‘Pandemie zoals corona zal weer uitbreken’: jaarlijks 200.000 Nederlanders door infectieziekte in ziekenhuis&nbsp;&nbsp;Het ParoolOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlGroninger Dominic kreeg meerdere infectieziekten tegelijk en zet zich nu in om anderen bewust te maken van risico's&nbsp;&nbsp;Groninger Internet CourantDominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nb",
+      "id": "5e77e8ec165e",
+      "title": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen - OOG Groningen",
+      "published": "2026-05-18T08:08:00+00:00",
+      "summary": "Dominic kreeg meerdere infectieziekten tegelijk, Stadjer zet zich nu in om anderen te waarschuwen&nbsp;&nbsp;OOG GroningenOf het over tien jaar komt, weten we niet, maar een pandemie komt er: ‘Nederland moet wakker worden’&nbsp;&nbsp;AD.nlHanta-, norovirus of longontsteking: 200.000 Nederlanders belanden jaarlijks door een infectieziekte in het ziekenhuis&nbsp;&nbsp;Het ParoolGroninger Dominic kreeg meerdere infectieziekten tegelijk en zet zich nu in om anderen bewust te maken van risico's&nbsp;",
       "sources": [
         {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWI4MDR2X2FXTk9ROHNIcEVlcXNTUFFoYzhTa2lMMVIzWjhwaWdiTWd5SmJFN3dybnY4ZzNRS3lhelFqVGxMSlhVbE5hNDBCWWM2T1R5SW5DLWxhQW1mYzVYMVlMc05rTVpFMTM4Y3VGVUVwUXUyZGo2MFBjQU9zZ1BGLVhwNnhHRmd3OGZrb29oS1VGOE5TVWpDRXBQQjA5X09CTnhseld1Wl9ubGVNSXNMYnF5eTFwUHZyUGtyMXQwYmljYVMxSTZqclZIQ2FwSHgzUy1ZSnQwXzZPOG5PLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32d51529ae12",
-      "title": "Henk Schiffmacher over eerste GGD-inspecties: \"In de hoek stond een emmertje bloed met spons\" - AT5",
-      "published": "2026-05-16T20:00:00+00:00",
-      "summary": "Henk Schiffmacher over eerste GGD-inspecties: \"In de hoek stond een emmertje bloed met spons\"&nbsp;&nbsp;AT5Neem een kijkje achter de schermen bij de GGD&nbsp;&nbsp;GGD AmsterdamOud-directeur GGD Coutinho over enorme impact hiv/aidsepidemie: \"Stonden er totaal alleen voor\"&nbsp;&nbsp;AT5GGD bestaat 125 jaar: van noodzakelijke zuigelingenzorg tot scepsis over vaccinaties&nbsp;&nbsp;AT5",
-      "sources": [
-        {
-          "name": "AT5",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDNpVUNSQ0FxeTFRSWxFbHhQY3lpQmlpOGlCQnVKMTJVTC1pWHhBTDNPVEk0el9tR0ZybVVCbkY0UWtDRk1ZWGg1amtnWDVJTEc4d3dqTmswYVFTa2R0akU0NnBpUkZzRUQ3cmd2bENDTWF2bzFsUWJuTFRGbkFPbDJ3bW92czkySTlrRGZDTVdqeERhaDNwdnQ1OHYwa0FfakZXeDBkQWxWQVMyQ0FwNUg4V2FlTzNQNmloei16NE9pbk5w?oc=5"
+          "name": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0x4LWVjeUZFTDNaWWJkaXVqQkJobjJLb0UzWTI2eXpSa3BFVThQTW90US1VMzVTMWdwcmJKY1E2YkUxMUstMEJuTnItd3E5bVVNQ1UwbjQwLXNqb01RdlFkZkRpRXZMMktkclpCbVBHN2hrcG5IYnRKN1c3OHhfMVJlMlBjcDR2VGl0UzVoVkhvaUxtNmRIclZnemdQa1FwMklTMFdaOU02bHNSU1FEZTBDUnpVZGdrYmZDT3VJY2k2cW5G?oc=5"
         }
       ]
     },

@@ -1,53 +1,65 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-20T09:26:05.751791+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-20T14:56:36.343644+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "1c07db0e4fc5",
-      "title": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich' - RTL.nl",
-      "published": "2026-05-19T18:46:49+00:00",
-      "summary": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich'&nbsp;&nbsp;RTL.nlDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUCongo opent extra ebolacentra na 118 doden door virusuitbraak&nbsp;&nbsp;NOSRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRCLeo (78) vliegt tijdens ebola-uitbraak naar Oeganda. ’Ik kreeg wel wat appjes: Goh, moeten we ons zorgen maken?’&nbsp;&nbsp;Noordhollands Dagblad",
+      "id": "d19e340b1449",
+      "title": "Risico op wereldwijde verspreiding ebola laag, maar nationaal en regionaal hoog - NOS",
+      "published": "2026-05-20T11:43:23+00:00",
+      "summary": "Risico op wereldwijde verspreiding ebola laag, maar nationaal en regionaal hoog&nbsp;&nbsp;NOSRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRCZorgen over ebola-uitbraak in Afrika groeien in aanloop naar WK 2026&nbsp;&nbsp;De TelegraafDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NULeo (78) vliegt tijdens ebola-uitbraak naar Oeganda. ’Ik kreeg wel wat appjes: Goh, moeten we ons zorgen maken?’&nbsp;&nbsp;Noordh",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS09JNzNkZlpxQ3RVbHNhQ1NSS0xfanFhNFJMNHZBNEJlTzdvUVZ0Ul9pMVZxbjZXWk1YeDBaYW5aWFd3VWUzUzVGZ2RSQXZWNG1YNEppbmYtQVhpbUNSQXl2bjhSc3BYYmZ5bUtmRWEzeEw4VTNnajQxTWhqRDk4NTRHQnlMcnEwMkI3OHNYblI0d0NKWW5EMlZPZXU3V184YUR2UEdBenJ3bGd5VUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d5589e586a4",
+      "title": "Eerste vogelgriep bij ijsbeer in Europa: jong mannetje dood gevonden op Spitsbergen - De Telegraaf",
+      "published": "2026-05-20T13:52:53+00:00",
+      "summary": "Eerste vogelgriep bij ijsbeer in Europa: jong mannetje dood gevonden op Spitsbergen&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHBEMXRkVWVIQUxCVWxQVVN0am9YNk8xSzdjb3d1Rm1nZHhqWEJlM0xmQWxERjZtcVhLX1FYX1JPaERQQVVEZVAzb2l2WVMwdTdKbk5qRnMxUnV3dEpOX2RndVd6c2sxSGxhZXBLUFNDQ2M4cjlsb2xNYjI4eHROSnQwWllxWUlDekl2YW1YRnJSN2JvZ1hnUnV0VVFDQ001SDQ0VTAtaWFRa2VkejNETWpvSkNybW5IdmphQmFmSV9kek5vX1F3bkJQbVd3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eda618003fc4",
+      "title": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over - RTL.nl",
+      "published": "2026-05-20T07:51:50+00:00",
+      "summary": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
           "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1NoWVFyOVJMTDRZdzYyT2xWSnR3b0Vsa19IOC1DZVNfV3NPNG8yc1hxSTNiMDg4cVBlbVlBOG1pX255WjdWQzdidUFLTzM2Qm9ucHhXejd2eXRUQkV5THU5T3BqR1VTR2NST2tNRXA4bTRXYjUwTWFLdEZZaDhsWVVFWU9vaU9saE01Q0ZpTXNaQl9jdXExbDNGeGU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHZOYUlHTGlHamJnOWxRRUxVWTVsMFFYaXFZT2FIWHhpTnJwaGJXN0RBbkpadFN4aVZZNHlOZmY0RUprdXZEU1RqbEphTmVBazNwbzVJLWpHazFySXM4Q1pGZ3lpTHJ4aFc4MGpaVkZrUlltYzFXQTZvdl8tV2tWSWEzZWc2VVg5WlhDcS0tMDh6YkZjZU9WNjVQUU5VTEtJOXhlLUIyUnVUZV9qRm5zd3BuRQ?oc=5"
         }
       ]
     },
     {
-      "id": "f447026d2113",
-      "title": "Voor het eerst vogelgriep vastgesteld bij ijsbeer in Europa - NU",
-      "published": "2026-05-19T18:00:06+00:00",
-      "summary": "Voor het eerst vogelgriep vastgesteld bij ijsbeer in Europa&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "99bfe48e1e28",
+      "title": "Hartstichting slaat alarm: ‘Veel mensen lopen rond met te hoog cholesterol’ - De Gelderlander",
+      "published": "2026-05-18T16:00:00+00:00",
+      "summary": "Hartstichting slaat alarm: ‘Veel mensen lopen rond met te hoog cholesterol’&nbsp;&nbsp;De GelderlanderWanneer laat je je bloeddruk of cholesterol meten? ‘Vaak denken mensen: het zal bij mij allemaal wel meevallen’&nbsp;&nbsp;De GelderlanderStelling | Bied iedereen tussen de 40 en 70 jaar een jaarlijkse hartcheck aan&nbsp;&nbsp;de StentorHartstichting opent Hartcheckpunt in Middelburg voor meting van cholesterol en bloeddruk&nbsp;&nbsp;pzc.nlDuizenden mensen hebben zonder het door te hebben te ho",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHQ3TmpfYlN3QWQyWEt4SWJHSUxJNU5pY2p1UVdFMWZKZkN2blIzUHdFcHgtVTR2UDNDYk9hSDZHdGk3VWcwcFptRUdOYnRFVVdWLWZUQ2RyTG5tY09CNU5yQ3BQbWQ0Ymlid3lmZGRfNk9hQzQ5cTVuMUVuaHFKX0FmYmIyeTdXTXZzZGlmNms4cTdTakx5V1hyVllBdw?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE12RkJfOTdkeVVrcUNLMDhqYS1SNWV0WG4xdkwtY2I2ZU8wUl9rNEZySlZhcGtqaVpKREI3TkxIc1ZrdGJTOUFIOXcxZE5DWEhtdkNVWnNiWlU1RTZtR0g3Q2V2bW5IbHJTQmJ4bVdQb0pkUXV3ZDg3SFo0R2N6U2dvb1c3LWtFZTBEMnBpVWJuTUU0aWRqSU56YnplRDdUc3NmNlgyaFY1TWY1Z0xSMVZ4bnVCSHk3?oc=5"
         }
       ]
     },
     {
-      "id": "766fb873a113",
-      "title": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee - Omroep Brabant",
-      "published": "2026-05-18T16:19:59+00:00",
-      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
+      "id": "6985498c7fa0",
+      "title": "Nieuw onderzoek brengt herstel van zenuwschade bij MS mogelijk dichterbij - Scientias.nl",
+      "published": "2026-05-19T13:00:58+00:00",
+      "summary": "Nieuw onderzoek brengt herstel van zenuwschade bij MS mogelijk dichterbij&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDBRU0U0elVobFdybDJZTVI5UW5raW1KSW93djZyaXhNYk4tMWdMWkpWODN0SUljNElhVjM3SnFLUDRFQ2ZBa25FdnhMMjJjOEU2TUVhOHkxV0xsaDFuZmFocTByaUJoQkp0QnpIVG5peDZENVhyWk43TlIweGEzTFA0M0YyeFhrWWJfSHRCNXNwN2NUWVo5dy1LUDRxY3pxTVM0d21UdTNyaC1rS0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e19a54576099",
-      "title": "Opinie: ‘Door afslankmedicatie komt obesitas nóg meer op het bordje van de huisarts terecht – hoog tijd dat de Amsterdamse politiek ingrijpt’ - Het Parool",
-      "published": "2026-05-19T01:00:19+00:00",
-      "summary": "Opinie: ‘Door afslankmedicatie komt obesitas nóg meer op het bordje van de huisarts terecht – hoog tijd dat de Amsterdamse politiek ingrijpt’&nbsp;&nbsp;Het Parool",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZDhtNnJUbGdGaVZ3S0ZPcHo1NmpFT1AxbHU0NWFlZ1VhVHB5OVlmWTJBNVBLMTBYTjUzeVNnLWNWVlF3R0EwTkRlRm9EbUlXZS1JcEN0VjRYR1FoWlZLUXE3ZzNhXzlHWHNyYmpfcVdFQVJTNmY4QkhydHBiandMWkp0MEdEajkwQ1JnX1NCMnR3LVdQd2V0RHpmNVlkODF3LUl3T1FuQm9GWWdERG5BTGYyRGstdmRnVTNBd3lwTDZOQkxnWk1yWU93TVE3SFc0VzFZSnpoOXZmcTU4NkVzd050amMyVi15dldiQnZlWk05a1ZpMHVCeVB4UHhHYzY2MWdCVXJoLUg4R3llbVN2Qg?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEJiZTR2OEEycHhwZFdoWldCN3FubEk1d1hpMjhOUWZpR0p5Mk1sRXVfWDNFNGJVWWJRQW1mazFIRVA5cUJHdWxQVmxHNkctWXNCeXpRRTE2SHNxcXRSZG16VG5yemE2ajQ5anRJc205THZ0MHN0VjhkSEk2bXlEQlJ5bFJfbmd2QUF4R2t6eVQ3QVQ4YmRmTXFNYw?oc=5"
         }
       ]
     }

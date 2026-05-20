@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-19T19:48:41.476167+00:00",
+  "fetched_at": "2026-05-20T02:54:44.742798+00:00",
   "count": 4,
   "news": [
     {
-      "id": "b64ccaf761c0",
-      "title": "Podcast De Dag: als je midden in een ebola-brandhaard zit - NOS",
-      "published": "2026-05-19T14:30:29+00:00",
-      "summary": "Podcast De Dag: als je midden in een ebola-brandhaard zit&nbsp;&nbsp;NOSMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;NOSRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRCDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUKan ebolavirus zich vanuit Afrika ook verspreiden naar ons land?&nbsp;&nbsp;AD.nl",
+      "id": "1c07db0e4fc5",
+      "title": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich' - RTL.nl",
+      "published": "2026-05-19T18:46:49+00:00",
+      "summary": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich'&nbsp;&nbsp;RTL.nlDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRC",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUtwT3VveDMtVXdvcFFLemhsUjlmQ2RKdEFzN2xNd2NKWXJFWEJ0MHBvRjZ3YTNsekIxeHlUVkl3S2p0TGJKSmtsMkhGWUc1UnZfNkllSFlwaXpkbnpuMWhXbmRmdm9CeENRUThDaTk5bkpJOHptU1IxUk9XLUIxa3lLenk0R0k4VFhiWGVNRkc?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1NoWVFyOVJMTDRZdzYyT2xWSnR3b0Vsa19IOC1DZVNfV3NPNG8yc1hxSTNiMDg4cVBlbVlBOG1pX255WjdWQzdidUFLTzM2Qm9ucHhXejd2eXRUQkV5THU5T3BqR1VTR2NST2tNRXA4bTRXYjUwTWFLdEZZaDhsWVVFWU9vaU9saE01Q0ZpTXNaQl9jdXExbDNGeGU?oc=5"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "id": "d8406af92c2c",
       "title": "Moeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven - De Gelderlander",
       "published": "2026-05-18T08:40:00+00:00",
-      "summary": "Moeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven&nbsp;&nbsp;De GelderlanderMarelinde kreeg als kleuter meningokokken, gezin draagt trauma mee in Etten-leur&nbsp;&nbsp;Omroep BrabantIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
+      "summary": "Moeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven&nbsp;&nbsp;De GelderlanderMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlMarelinde kreeg als kleuter meningokokken, gezin draagt trauma mee in Etten-leur&nbsp;&nbsp;Omroep BrabantIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
       "sources": [
         {
           "name": "De Gelderlander",

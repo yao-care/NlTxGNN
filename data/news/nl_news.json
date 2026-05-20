@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-20T02:54:44.742798+00:00",
+  "fetched_at": "2026-05-20T09:26:05.751791+00:00",
   "count": 4,
   "news": [
     {
       "id": "1c07db0e4fc5",
       "title": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich' - RTL.nl",
       "published": "2026-05-19T18:46:49+00:00",
-      "summary": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich'&nbsp;&nbsp;RTL.nlDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUMeer dan 130 doden door ebola-uitbraak, Congo opent extra ebolacentra&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRC",
+      "summary": "Jan hielp bij eerdere uitbraak ebola in Congo: 'Mensen verstoppen zich'&nbsp;&nbsp;RTL.nlDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NUCongo opent extra ebolacentra na 118 doden door virusuitbraak&nbsp;&nbsp;NOSRuim 130 doden vermoed door ebola-uitbraak, ook Bahrein stelt inreisverbod in&nbsp;&nbsp;NRCLeo (78) vliegt tijdens ebola-uitbraak naar Oeganda. ’Ik kreeg wel wat appjes: Goh, moeten we ons zorgen maken?’&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "RTL.nl",
@@ -16,26 +16,26 @@
       ]
     },
     {
-      "id": "19b43e72667b",
-      "title": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’ - de Stentor",
-      "published": "2026-05-19T00:06:00+00:00",
-      "summary": "Duizenden mensen hebben zonder het door te hebben te hoog cholesterol: ‘Risico’s worden onderschat’&nbsp;&nbsp;de StentorZonder klachten toch laten prikken: duizenden Nederlanders ontdekken ineens dat hun waarden te hoog zijn&nbsp;&nbsp;AD.nlHartstichting slaat alarm: ‘Veel mensen lopen rond met te hoog cholesterol’&nbsp;&nbsp;De GelderlanderHartstichting opent Hartcheckpunt in Middelburg voor meting van cholesterol en bloeddruk&nbsp;&nbsp;pzc.nlStelling | Bied iedereen tussen de 40 en 70 jaar e",
+      "id": "f447026d2113",
+      "title": "Voor het eerst vogelgriep vastgesteld bij ijsbeer in Europa - NU",
+      "published": "2026-05-19T18:00:06+00:00",
+      "summary": "Voor het eerst vogelgriep vastgesteld bij ijsbeer in Europa&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmpqVTV2clRnSzhuck50dVEzbHlURHA5NkVqMDYzZGRmTGdsa0tJdlY3bTFFOUtmX3VtbEp4YkZYYjJzVW9ENDBqYVhLYzNhWU9QblZGWURnM1VlSzNKdEg2ZkR5cUNjd25EbFZDLTQxTGtwWFBpamR2Rk56ejBSM1owdGZnY0ZmbDV1RUc4dW1JMlJrcGRMSFdIcGY1N0xjb3ZBR05IZE1zcnQ0aHNsck41cnVmT1RrZDNmUC1jbjZtSXVlSVlCaW9XNmoxWFhWaDJB?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHQ3TmpfYlN3QWQyWEt4SWJHSUxJNU5pY2p1UVdFMWZKZkN2blIzUHdFcHgtVTR2UDNDYk9hSDZHdGk3VWcwcFptRUdOYnRFVVdWLWZUQ2RyTG5tY09CNU5yQ3BQbWQ0Ymlid3lmZGRfNk9hQzQ5cTVuMUVuaHFKX0FmYmIyeTdXTXZzZGlmNms4cTdTakx5V1hyVllBdw?oc=5"
         }
       ]
     },
     {
-      "id": "d8406af92c2c",
-      "title": "Moeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven - De Gelderlander",
-      "published": "2026-05-18T08:40:00+00:00",
-      "summary": "Moeder Marieke dacht aan griep, maar uren later vocht Marelinde (4) voor haar leven&nbsp;&nbsp;De GelderlanderMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlMarelinde kreeg als kleuter meningokokken, gezin draagt trauma mee in Etten-leur&nbsp;&nbsp;Omroep BrabantIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
+      "id": "766fb873a113",
+      "title": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee - Omroep Brabant",
+      "published": "2026-05-18T16:19:59+00:00",
+      "summary": "Marelinde kreeg als kleuter meningokokken, gezin draagt trauma mee&nbsp;&nbsp;Omroep BrabantMarelinde had geen griep, maar een ernstige infectie: ‘Een half uur later en ze had het niet overleefd’&nbsp;&nbsp;AD.nlIngeborgs dochter (21) overleed tijdens een vakantie aan meningokokken B: 'Ik voelde gelijk dat er iets niet klopte'&nbsp;&nbsp;LINDA.nl",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2JtSnFITnFSS252cUZwZjY0SkppR3JHTTU3NTBIOWNEUV9XNGt2Z2YxZ01GZlZMNFdQYzAyeFE5OWdTRXJtc1RadUkxSHEyTTJONW5OLUlFNEpqZ3U4UXpuREFjOFhZS1Z3bC1PLV9zVFBkY1BqMDNNNlNvWHQtalJsamM3VVh0end0WGtkbm5sb2VBS1NqVkd6T0ZtRWJpeGdEV29qd3N5ZlRvR3ZVd2Y5d2V5cS1wZFVlMjZ0cjdBQ3hW?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDBRU0U0elVobFdybDJZTVI5UW5raW1KSW93djZyaXhNYk4tMWdMWkpWODN0SUljNElhVjM3SnFLUDRFQ2ZBa25FdnhMMjJjOEU2TUVhOHkxV0xsaDFuZmFocTByaUJoQkp0QnpIVG5peDZENVhyWk43TlIweGEzTFA0M0YyeFhrWWJfSHRCNXNwN2NUWVo5dy1LUDRxY3pxTVM0d21UdTNyaC1rS0E?oc=5"
         }
       ]
     },

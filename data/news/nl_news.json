@@ -1,29 +1,65 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-21T14:59:47.529786+00:00",
-  "count": 2,
+  "fetched_at": "2026-05-21T19:49:36.487433+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "c9b1fc740fbc",
-      "title": "Ebola honderden kilometers van besmettingshaard in Congo opgedoken - RTL.nl",
-      "published": "2026-05-21T11:36:34+00:00",
-      "summary": "Ebola honderden kilometers van besmettingshaard in Congo opgedoken&nbsp;&nbsp;RTL.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NU",
+      "id": "40ecc38de4f3",
+      "title": "Ebola-uitbraak in Congo zet streep door uitzwaaimoment en trainingskamp - ESPN.nl",
+      "published": "2026-05-21T19:18:45+00:00",
+      "summary": "Ebola-uitbraak in Congo zet streep door uitzwaaimoment en trainingskamp&nbsp;&nbsp;ESPN.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwEbola honderden kilometers van besmettingshaard in Congo opgedoken&nbsp;&nbsp;rtl.nl",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUy1yb29oRS1Eb2xTWm9QeDZ0LXozZzBSN2RGUUtpTE1uSDR0X2hjcmRFNGlIUjVLMFNoUnk1ZzVsRjJKZU1nN01IMTBkUlF0Znd5bXI3NnNmMVV1VXV3RkFvZlZwWTJLTFZIc2FhdkZWMHlCQjR2dGx3Ym5YUTVvcDRLMGtZSjk5cjJrZTRYSE5SaHFINzhDUmRsOXB6WkF5UWNMNmhHYlhMZmtDeEk1OVdOWWR6QTQ?oc=5"
+          "name": "ESPN.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGhzaEdvaXBfVV9qSEZfM0lkbFNSTTV1bkdLU29nN2tkRlBHYlZVdFBqNjBTQ1NrTHhISjFxSmFmVFRsU0NxTjF1V3pUVjNmSzFkRjVSa0tzTHZPdm5kbjV3MGtkaFlZY0FEZG9yeGpySFpzc1k3RFFVNzRZWTBHZHFzN2o5QlpkX3AxN2RqeXdCNWJWcFRDWEVOWWI3cUg3UTB4cEpPQ0FfSkRNQldDMHJPZG16b25MQXM3SXRR?oc=5"
         }
       ]
     },
     {
-      "id": "eda618003fc4",
-      "title": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over - RTL.nl",
-      "published": "2026-05-20T07:51:50+00:00",
-      "summary": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over&nbsp;&nbsp;RTL.nl",
+      "id": "5c2d15253e2b",
+      "title": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie - De Gelderlander",
+      "published": "2026-05-21T04:52:00+00:00",
+      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "RTL.nl",
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1ktTVpSZEg0YU9YSXBkd2xwSG9OaE9nYjV0NTdia1dYd3NkVWx4MWtHNjFoUUJNTG51VWxnQk1zaFpoUm1BRGtuZUh5T3cyNHFvdGlFSThHeUhLbHZPMkkzTTlBd2lrVHh0aExHRXZmQ21QaWViM211RWk1eDdHNUh0aGg5cmZwVUpld1lOR25MYi1TY09kWnVFemdPR1pFbVhyYjBXbVRZRk1vSDZVaXMzT0N0TEJTU2pGYmk4SDJDSmpQNXB6ZVhvY0IxeHUxY0VtZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40c98e6db679",
+      "title": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname - Starnieuws",
+      "published": "2026-05-21T14:16:00+00:00",
+      "summary": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname&nbsp;&nbsp;Starnieuws",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NV2QtOUF0a2JNUGt3c2ZkS0ZzWW1KVzZVTXlVS0tpeVJoQVlfWUZlTUh5M0tWRVFRbWY0Qk1zOTJ3c3ZWZXhSTHZaOWxkcWE2RDlnc3E4WThDNjhiS1Q2MURDQ19abE10cThEVnpia1RRVGJuZ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab5e0bfbaaed",
+      "title": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over - rtl.nl",
+      "published": "2026-05-20T07:51:50+00:00",
+      "summary": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over&nbsp;&nbsp;rtl.nl",
+      "sources": [
+        {
+          "name": "rtl.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHZOYUlHTGlHamJnOWxRRUxVWTVsMFFYaXFZT2FIWHhpTnJwaGJXN0RBbkpadFN4aVZZNHlOZmY0RUprdXZEU1RqbEphTmVBazNwbzVJLWpHazFySXM4Q1pGZ3lpTHJ4aFc4MGpaVkZrUlltYzFXQTZvdl8tV2tWSWEzZWc2VVg5WlhDcS0tMDh6YkZjZU9WNjVQUU5VTEtJOXhlLUIyUnVUZV9qRm5zd3BuRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "010c44a7bad4",
+      "title": "Slaaponderzoeker: Een miljard mensen kampen met een over het hoofd gezien probleem dat kan leiden tot hartziekten en dementie – dit zijn mijn beste tips om deze aandoening te voorkomen - wibnet.nl",
+      "published": "2026-05-20T20:00:47+00:00",
+      "summary": "Slaaponderzoeker: Een miljard mensen kampen met een over het hoofd gezien probleem dat kan leiden tot hartziekten en dementie – dit zijn mijn beste tips om deze aandoening te voorkomen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWWxIXy1ndWZOVWlZX05MRkhueWFReW9ZYkV0eGpPNHI5Q3kwZ0dsWDNWTVBNVnF3N0Fib2cyNTdQWi1mRHlHS1RhY1VSOF9ZejF2UUZ5c2d2ajhoM281cm55MWtzQ2FDQ3dCY3ZwRzQtN1RCdHNmV3JBTzAwbXdWY2JfenMyLWRSMXFGWGVfVVRJbUZNTUM0ejVselR3UVgwZ0RGVzlEUy00WDl5SERkNXhaX0xBd1dqUHVfODlaQjZEVFZ6MEs1Wm9DbUtuWFhLSWZKWFFGUWsweEYyeWFHaGhrQlV2NG42aDY4TzFlQ3BDOWlQYlRxTVBfYm9UV3pUcEVyeW1TZ1o2eF9oNWd2MC1xdkVwSjV0aVUtdFMyaVYzeHp1SjNSNlZsZFBNV3pYaTNITQ?oc=5"
         }
       ]
     }

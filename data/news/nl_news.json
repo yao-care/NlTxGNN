@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-21T09:34:47.664965+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-21T14:59:47.529786+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "d996410e0276",
-      "title": "Voetbalploeg Congo verplaatst trainingskamp naar België vanwege uitbraak ebola - NOS",
-      "published": "2026-05-21T08:14:48+00:00",
-      "summary": "Voetbalploeg Congo verplaatst trainingskamp naar België vanwege uitbraak ebola&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwRode Kruis begint inzameling om ebolabestrijding uit te breiden&nbsp;&nbsp;Noordhollands DagbladZorgen over ebola-uitbraak in Afrika groeien in aanloop naar WK 2026&nbsp;&nbsp;De Telegraaf",
+      "id": "c9b1fc740fbc",
+      "title": "Ebola honderden kilometers van besmettingshaard in Congo opgedoken - RTL.nl",
+      "published": "2026-05-21T11:36:34+00:00",
+      "summary": "Ebola honderden kilometers van besmettingshaard in Congo opgedoken&nbsp;&nbsp;RTL.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwDuitsland schiet te hulp bij ebola-uitbraak: besmette arts uit VS overgebracht&nbsp;&nbsp;NU",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHltT2ZBWUxrdTU5ZDEwcDZsYTVURTFDQjY3VkNWNThEeWw1MmdDeGhEbng5R28tczhPVHVrWWd5WmNVZS1Nbko0Y21Pb19iNEtuaF9xdVJvQmw2eUdUUVdsZHF4Y0pQcnZzU182NlMyaGtpNkIxSUh0Vy1OVnUyT3NEeVl1VVZORW5wNFp3b0tlQVVCbFpNRHB6bm5jUEh0dWE3LVhWNmxfRUhKSUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d5589e586a4",
-      "title": "Eerste vogelgriep bij ijsbeer in Europa: jong mannetje dood gevonden op Spitsbergen - De Telegraaf",
-      "published": "2026-05-20T14:21:52+00:00",
-      "summary": "Eerste vogelgriep bij ijsbeer in Europa: jong mannetje dood gevonden op Spitsbergen&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHBEMXRkVWVIQUxCVWxQVVN0am9YNk8xSzdjb3d1Rm1nZHhqWEJlM0xmQWxERjZtcVhLX1FYX1JPaERQQVVEZVAzb2l2WVMwdTdKbk5qRnMxUnV3dEpOX2RndVd6c2sxSGxhZXBLUFNDQ2M4cjlsb2xNYjI4eHROSnQwWllxWUlDekl2YW1YRnJSN2JvZ1hnUnV0VVFDQ001SDQ0VTAtaWFRa2VkejNETWpvSkNybW5IdmphQmFmSV9kek5vX1F3bkJQbVd3dw?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUy1yb29oRS1Eb2xTWm9QeDZ0LXozZzBSN2RGUUtpTE1uSDR0X2hjcmRFNGlIUjVLMFNoUnk1ZzVsRjJKZU1nN01IMTBkUlF0Znd5bXI3NnNmMVV1VXV3RkFvZlZwWTJLTFZIc2FhdkZWMHlCQjR2dGx3Ym5YUTVvcDRLMGtZSjk5cjJrZTRYSE5SaHFINzhDUmRsOXB6WkF5UWNMNmhHYlhMZmtDeEk1OVdOWWR6QTQ?oc=5"
         }
       ]
     },
@@ -36,18 +24,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHZOYUlHTGlHamJnOWxRRUxVWTVsMFFYaXFZT2FIWHhpTnJwaGJXN0RBbkpadFN4aVZZNHlOZmY0RUprdXZEU1RqbEphTmVBazNwbzVJLWpHazFySXM4Q1pGZ3lpTHJ4aFc4MGpaVkZrUlltYzFXQTZvdl8tV2tWSWEzZWc2VVg5WlhDcS0tMDh6YkZjZU9WNjVQUU5VTEtJOXhlLUIyUnVUZV9qRm5zd3BuRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6985498c7fa0",
-      "title": "Nieuw onderzoek brengt herstel van zenuwschade bij MS mogelijk dichterbij - Scientias.nl",
-      "published": "2026-05-19T13:00:58+00:00",
-      "summary": "Nieuw onderzoek brengt herstel van zenuwschade bij MS mogelijk dichterbij&nbsp;&nbsp;Scientias.nl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEJiZTR2OEEycHhwZFdoWldCN3FubEk1d1hpMjhOUWZpR0p5Mk1sRXVfWDNFNGJVWWJRQW1mazFIRVA5cUJHdWxQVmxHNkctWXNCeXpRRTE2SHNxcXRSZG16VG5yemE2ajQ5anRJc205THZ0MHN0VjhkSEk2bXlEQlJ5bFJfbmd2QUF4R2t6eVQ3QVQ4YmRmTXFNYw?oc=5"
         }
       ]
     }

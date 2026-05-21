@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-21T02:58:49.250211+00:00",
+  "fetched_at": "2026-05-21T09:34:47.664965+00:00",
   "count": 4,
   "news": [
     {
-      "id": "46fd69921984",
-      "title": "Zorgen over ebola-uitbraak in Afrika groeien in aanloop naar WK 2026 - De Telegraaf",
-      "published": "2026-05-20T23:22:28+00:00",
-      "summary": "Zorgen over ebola-uitbraak in Afrika groeien in aanloop naar WK 2026&nbsp;&nbsp;De TelegraafRisico op wereldwijde verspreiding ebola laag, maar nationaal en regionaal hoog&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwEbola duikt opnieuw op: moeten we ons zorgen maken?&nbsp;&nbsp;Eindhovens Dagblad",
+      "id": "d996410e0276",
+      "title": "Voetbalploeg Congo verplaatst trainingskamp naar België vanwege uitbraak ebola - NOS",
+      "published": "2026-05-21T08:14:48+00:00",
+      "summary": "Voetbalploeg Congo verplaatst trainingskamp naar België vanwege uitbraak ebola&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwRode Kruis begint inzameling om ebolabestrijding uit te breiden&nbsp;&nbsp;Noordhollands DagbladZorgen over ebola-uitbraak in Afrika groeien in aanloop naar WK 2026&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEdBUXZ6eUsxRlNoNV9IMnJWVzQ4dlpkY0dJS3lERlRmZVZSRDU4U19Ua245dXZMWmV4WFZ4RG1oZWl6UGNJbW1LX2M2MHYydHRtaHJJTFhYQkR0YmVfSmJjdGI3cFZEeGlUZVBuNElRVFl2cGh6WmdPTmpRQ0lQZGRobFpDbm93QmtNaEVDRGdsd0hCM0VqTEtwT0Fnc3daQktVVjhBWEV4N0ZfRzIzNnpIVkhTM3ZmNF9vMExlUQ?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHltT2ZBWUxrdTU5ZDEwcDZsYTVURTFDQjY3VkNWNThEeWw1MmdDeGhEbng5R28tczhPVHVrWWd5WmNVZS1Nbko0Y21Pb19iNEtuaF9xdVJvQmw2eUdUUVdsZHF4Y0pQcnZzU182NlMyaGtpNkIxSUh0Vy1OVnUyT3NEeVl1VVZORW5wNFp3b0tlQVVCbFpNRHB6bm5jUEh0dWE3LVhWNmxfRUhKSUE?oc=5"
         }
       ]
     },

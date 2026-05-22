@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-22T08:56:42.287127+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-22T14:32:59.501519+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "b5d0a5e69353",
-      "title": "Tenten voor ebolapatiënten in Congo in brand gestoken na ruzie over begrafenis - RTL.nl",
-      "published": "2026-05-22T02:00:20+00:00",
-      "summary": "Tenten voor ebolapatiënten in Congo in brand gestoken na ruzie over begrafenis&nbsp;&nbsp;RTL.nlBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUMoeizame strijd tegen ebola in Oost-Congo: ‘Het transport van een monster naar het lab kan een week duren’&nbsp;&nbsp;de VolkskrantRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSDR Congo annuleert trainingskamp in eigen land vanwege uitbraak ebola&nbsp;&nbsp;De Telegraaf",
+      "id": "3c2871e92d16",
+      "title": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland - NOS",
+      "published": "2026-05-22T12:42:24+00:00",
+      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;NOSNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUHantavirus besmetting vastgesteld: is dit gevaarlijk?&nbsp;&nbsp;De TelegraafWHO meldt besmettingsgeval hantavirus in Nederland&nbsp;&nbsp;De GelderlanderPersoon met hantavirus van thuisquarantaine naar ziekenhuis&nbsp;&nbsp;Haarlems Dagblad",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnptMFFTRDJYX1I4MWUtelVKMURwUjhZS0VwV3BLdXlNUHBOZmlaMXBZUXpVUHpOTE1CSHpVd3k4N1Y4QkF5QjIxOF9EZmZvZjNnc2NGSG81VnN6WHJQYVNia1dqSHB5ZUpJbU00MXQtU0xxWnhSOVZSbFd6cGpiTWp4NmpkdC1rZGlqTFo2bC1sY25nZS1r?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d64459263a3f",
+      "title": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen - NU",
+      "published": "2026-05-22T14:03:04+00:00",
+      "summary": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNC1aYVBZZFM1dHBENEo1WFIxNDdIcFFRZVpUWHp6NWlMaUdzcHdBaUtjeVhMbFZtaEtPcjJzTldfTWMweWxJRktGNVBncnJZRmlueWlDcWQ3ajlaRzZJSnE2SjhJeHZHN3FiUDlPU2ZuMVhyV21QSzM5a2ZLNGRaVUk0M05VeWpLaFlhekVkRTlfUjRBYUhnUUFvQkh2OFVBcHBxMmduNUxMY2E2dWtwSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "173dbaabfc8a",
+      "title": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België - ESPN.nl",
+      "published": "2026-05-21T19:23:38+00:00",
+      "summary": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België&nbsp;&nbsp;ESPN.nlBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUAantal vermoedelijke ebolabesmettingen in Congo loopt op tot bijna 750&nbsp;&nbsp;RTL.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSRode Kruis waarschuwt voor snelle verspreiding ebola én nepnieuws omtrent ziekte&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "ESPN.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjNtdEZrWng5a3lKdjZIMVdlU0VXcFMzcEZ6M0U0ZmljdkI4OVQ2dnNBU1ExaW9Od01OQ3R6NzdEbWxuVk53MWowTjV5WENQdkVCNEN6YUJ1TFhzTklUc2Y3ZXdVWGozWEpwc2hWaFdoY2J1TGpVNlI5eGdSSjl3RjUxdi1LUXhtSWRJeXVKSTVqa0RuaDNuU3VQZng4X1Z2R0tOd0FXRUhZa2tQSUpBeGx3bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80bb8c7b987a",
+      "title": "Recordaantal soa's in Europa: 'Condoomgebruik neemt aantoonbaar af' - RTL.nl",
+      "published": "2026-05-22T11:04:52+00:00",
+      "summary": "Recordaantal soa's in Europa: 'Condoomgebruik neemt aantoonbaar af'&nbsp;&nbsp;RTL.nlVeel meer gonorroe en syfilis in Europa, ook in Nederland meer infecties&nbsp;&nbsp;NOSBesmettingen met gonorroe en syfilis op recordhoogte in Europa&nbsp;&nbsp;Trouw“We zien het niet terug in een bloedtest.” Op 10 jaar tijd komt gonorroe 4 keer meer voor: hoe kan dat?&nbsp;&nbsp;HLNRecordaantal soa's in Europa: vooral syfilis stijgt hard&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
           "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGloZV9FZkhzdmFFOVdHZF9nRlB6SUJXZzdoS2g1ckVJenp6NzZsWFc1enNpTkVEbjRua29sazlqRWJrLUtDSllDQXFTeDFTbWZnbDJWY28yZ0xJNU9mQ3g4VmlLbGZCYWdjQ1FONGNxaXZZeUhUNXA0dS1LOFFVRk1ncUQxLVhUNmdmRlFPT21kN2FnNFJzZkhPN3p5cW5jUl9oNFU3cEczRHJNTmFQcw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3NYVEh4VGY4NFZMeDNlUzlWbVVOTi1nOW9MOUlnUGw1bDR5b2UyMS0xSE9nVklXUF9XblNJUHA2VU1TVHhxVUVxMVlpUEp5S3BIM09Pdmt5WkNzWG1jZjlTeXNLbzEtOHVWR2JDMDk1Z1QzUzNDY2Ztb2l4YVY3SXFIY0tqN1AxcXdQN2ZrR3FvTWpYa2Y1MWNsSVFQUTdnSGNXWFNGcEM2eEkxX0xubGUyb1ZsVVlv?oc=5"
         }
       ]
     },
@@ -19,7 +55,7 @@
       "id": "5c2d15253e2b",
       "title": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie - De Gelderlander",
       "published": "2026-05-21T04:52:00+00:00",
-      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De GelderlanderVideo – Amateurvoetballer heeft na koppen tijdelijk hersenschade-biomarker in het bloed&nbsp;&nbsp;HuisartsVandaagPatiënt met hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;voxweb.nlHuisarts Mitrasing; ‘Het is fout om patiënten verantwoordelijk te maken voor de stijgende zorgkosten’&nbsp;&nbsp;HuisartsVandaagApp met medische informatie voor pa",
+      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De GelderlanderVideo – Amateurvoetballer heeft na koppen tijdelijk hersenschade-biomarker in het bloed&nbsp;&nbsp;HuisartsVandaagHuisarts Mitrasing; ‘Het is fout om patiënten verantwoordelijk te maken voor de stijgende zorgkosten’&nbsp;&nbsp;HuisartsVandaagApp met medische informatie voor patiënten gewild bij investeerders&nbsp;&nbsp;HuisartsVandaagClinical Diagnostics voldeed tijdens hack nie",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -31,7 +67,7 @@
       "id": "40c98e6db679",
       "title": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname - Starnieuws",
       "published": "2026-05-21T14:16:00+00:00",
-      "summary": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname&nbsp;&nbsp;StarnieuwsHet gaat geestelijk steeds slechter met steeds meer mensen: bijna 1,2 miljard mensen hebben een mentale aandoening&nbsp;&nbsp;TrouwPAHO-rapport: “Zelfdoding onder jongeren stijgt in regio”&nbsp;&nbsp;Times of SurinameVolgens de WHO leven meer dan een miljard mensen met psychische stoornissen.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname&nbsp;&nbsp;StarnieuwsHet gaat geestelijk steeds slechter met steeds meer mensen: bijna 1,2 miljard mensen hebben een mentale aandoening&nbsp;&nbsp;TrouwWereldwijde verdubbeling van aantal mensen met psychische stoornis: Nederland scoort slecht&nbsp;&nbsp;Scientias.nlZelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen&nbsp;&nbsp;Curacao.nuVolgens de WHO leven meer dan een miljard mensen met psy",
       "sources": [
         {
           "name": "Starnieuws",
@@ -60,18 +96,6 @@
         {
           "name": "quest.nl",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FRS11MC1EQmQ4VW9idE82VWIzQUdLeHZTbk81YlpfOFY4dnptZnpNb1B4V1RYbEc4MFc5STBXZV9vZzhmelFZUDhlUTZ0TGhLdDFfa1IzbGhqcGtZWjFQZEh1M2E3OGFxcjA0OEdvdGpFVFVV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "010c44a7bad4",
-      "title": "Slaaponderzoeker: Een miljard mensen kampen met een over het hoofd gezien probleem dat kan leiden tot hartziekten en dementie – dit zijn mijn beste tips om deze aandoening te voorkomen - wibnet.nl",
-      "published": "2026-05-20T20:00:47+00:00",
-      "summary": "Slaaponderzoeker: Een miljard mensen kampen met een over het hoofd gezien probleem dat kan leiden tot hartziekten en dementie – dit zijn mijn beste tips om deze aandoening te voorkomen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWWxIXy1ndWZOVWlZX05MRkhueWFReW9ZYkV0eGpPNHI5Q3kwZ0dsWDNWTVBNVnF3N0Fib2cyNTdQWi1mRHlHS1RhY1VSOF9ZejF2UUZ5c2d2ajhoM281cm55MWtzQ2FDQ3dCY3ZwRzQtN1RCdHNmV3JBTzAwbXdWY2JfenMyLWRSMXFGWGVfVVRJbUZNTUM0ejVselR3UVgwZ0RGVzlEUy00WDl5SERkNXhaX0xBd1dqUHVfODlaQjZEVFZ6MEs1Wm9DbUtuWFhLSWZKWFFGUWsweEYyeWFHaGhrQlV2NG42aDY4TzFlQ3BDOWlQYlRxTVBfYm9UV3pUcEVyeW1TZ1o2eF9oNWd2MC1xdkVwSjV0aVUtdFMyaVYzeHp1SjNSNlZsZFBNV3pYaTNITQ?oc=5"
         }
       ]
     }

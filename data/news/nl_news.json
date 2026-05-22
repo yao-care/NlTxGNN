@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-21T19:49:36.487433+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-22T02:58:12.087184+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "40ecc38de4f3",
-      "title": "Ebola-uitbraak in Congo zet streep door uitzwaaimoment en trainingskamp - ESPN.nl",
-      "published": "2026-05-21T19:18:45+00:00",
-      "summary": "Ebola-uitbraak in Congo zet streep door uitzwaaimoment en trainingskamp&nbsp;&nbsp;ESPN.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSIs Ebola-uitbraak in Congo ook risico voor Nederland? 'Virus is grens overgestoken'&nbsp;&nbsp;EenVandaagWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;TrouwEbola honderden kilometers van besmettingshaard in Congo opgedoken&nbsp;&nbsp;rtl.nl",
+      "id": "173dbaabfc8a",
+      "title": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België - ESPN.nl",
+      "published": "2026-05-21T19:23:38+00:00",
+      "summary": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België&nbsp;&nbsp;ESPN.nlInternationale noodsituatie na ebola-uitbraak: dreigt er een pandemie?&nbsp;&nbsp;de VolkskrantTenten voor ebolapatiënten in Congo in brand gestoken na ruzie over begrafenis&nbsp;&nbsp;RTL.nlEbolabesmetting gemeld op honderden kilometers van uitbraakgebied&nbsp;&nbsp;Haarlems DagbladWHO: Potentieel vaccin voor ebolavariant op z’n vroegst over een half jaar klaar&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "ESPN.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGhzaEdvaXBfVV9qSEZfM0lkbFNSTTV1bkdLU29nN2tkRlBHYlZVdFBqNjBTQ1NrTHhISjFxSmFmVFRsU0NxTjF1V3pUVjNmSzFkRjVSa0tzTHZPdm5kbjV3MGtkaFlZY0FEZG9yeGpySFpzc1k3RFFVNzRZWTBHZHFzN2o5QlpkX3AxN2RqeXdCNWJWcFRDWEVOWWI3cUg3UTB4cEpPQ0FfSkRNQldDMHJPZG16b25MQXM3SXRR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjNtdEZrWng5a3lKdjZIMVdlU0VXcFMzcEZ6M0U0ZmljdkI4OVQ2dnNBU1ExaW9Od01OQ3R6NzdEbWxuVk53MWowTjV5WENQdkVCNEN6YUJ1TFhzTklUc2Y3ZXdVWGozWEpwc2hWaFdoY2J1TGpVNlI5eGdSSjl3RjUxdi1LUXhtSWRJeXVKSTVqa0RuaDNuU3VQZng4X1Z2R0tOd0FXRUhZa2tQSUpBeGx3bw?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "5c2d15253e2b",
       "title": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie - De Gelderlander",
       "published": "2026-05-21T04:52:00+00:00",
-      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De Gelderlander",
+      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De GelderlanderVideo – Amateurvoetballer heeft na koppen tijdelijk hersenschade-biomarker in het bloed&nbsp;&nbsp;HuisartsVandaagPatiënt met hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;voxweb.nlHuisarts Mitrasing; ‘Het is fout om patiënten verantwoordelijk te maken voor de stijgende zorgkosten’&nbsp;&nbsp;HuisartsVandaagApp met medische informatie voor pa",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -40,14 +40,26 @@
       ]
     },
     {
-      "id": "ab5e0bfbaaed",
-      "title": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over - rtl.nl",
+      "id": "eda618003fc4",
+      "title": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over - RTL.nl",
       "published": "2026-05-20T07:51:50+00:00",
-      "summary": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over&nbsp;&nbsp;rtl.nl",
+      "summary": "'Ik weet niet wat ik moet zeggen' is beter dan niets, weet ex-kankerpatiënt Phyleen – ze schreef er een boek over&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "rtl.nl",
+          "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHZOYUlHTGlHamJnOWxRRUxVWTVsMFFYaXFZT2FIWHhpTnJwaGJXN0RBbkpadFN4aVZZNHlOZmY0RUprdXZEU1RqbEphTmVBazNwbzVJLWpHazFySXM4Q1pGZ3lpTHJ4aFc4MGpaVkZrUlltYzFXQTZvdl8tV2tWSWEzZWc2VVg5WlhDcS0tMDh6YkZjZU9WNjVQUU5VTEtJOXhlLUIyUnVUZV9qRm5zd3BuRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06a79793326f",
+      "title": "Nieuwe studie zet beweegrichtlijnen op zijn kop: ‘150 minuten per week is bij lange na niet genoeg’ - Scientias.nl",
+      "published": "2026-05-21T09:04:53+00:00",
+      "summary": "Nieuwe studie zet beweegrichtlijnen op zijn kop: ‘150 minuten per week is bij lange na niet genoeg’&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0NNWDZzbHBGZ2R1TVBuQS1xdGxQMkVoU0RjeDJ5RExYeF84d0NaeTE2MGg3ekFoMG1FZnhxd2Iyci04Vl9kcXRZVElISk95U0V2akpHVE12Y0RVRmxJQjllTG15UG1iY3VBVE1nNUZLOHZwZ2gwSDZvS1pZa2Rza3d3NWxJZmM4LURfWFBPbkNfNUNYTlRtYXhabjM4WlFKTGVJckNrUVg1dnYxN0tWRnJFWG9kZDVzQnc?oc=5"
         }
       ]
     },

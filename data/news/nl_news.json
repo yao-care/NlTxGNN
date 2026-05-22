@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-22T14:32:59.501519+00:00",
-  "count": 8,
+  "fetched_at": "2026-05-22T19:40:30.998892+00:00",
+  "count": 7,
   "news": [
     {
       "id": "3c2871e92d16",
       "title": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland - NOS",
       "published": "2026-05-22T12:42:24+00:00",
-      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;NOSNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUHantavirus besmetting vastgesteld: is dit gevaarlijk?&nbsp;&nbsp;De TelegraafWHO meldt besmettingsgeval hantavirus in Nederland&nbsp;&nbsp;De GelderlanderPersoon met hantavirus van thuisquarantaine naar ziekenhuis&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;NOSNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlHantavirus besmetting vastgesteld: is dit gevaarlijk?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "NOS",
@@ -16,38 +16,26 @@
       ]
     },
     {
+      "id": "234a5118dc00",
+      "title": "VS wil dat selectie Congo drie weken in isolatie gaat vanwege ebola-uitbraak - NOS",
+      "published": "2026-05-22T18:20:49+00:00",
+      "summary": "VS wil dat selectie Congo drie weken in isolatie gaat vanwege ebola-uitbraak&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUWHO slaat alarm: bijna 750 vermoedelijke ebolagevallen in Congo&nbsp;&nbsp;De TelegraafRode Kruis waarschuwt voor snelle verspreiding ebola én nepnieuws omtrent ziekte&nbsp;&nbsp;bnr.nl‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRC",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGZUV2VEek15eXRuaUJ3d3ZaT1lFb0xDeXhoYkU1UndRd2tRWGMyUU1HcnE0NzNNSkF2Y29LN3AxbkZMMTNqb2pVcTdBTDNTUWstNk83WVk2bGNqa1RzVkVpVjN4Ujh1N2ZBWGNVenN4bkJYbGFhbTZEYXJ5WUhTVDRXdnlFd2pzaW95UXdQU2cwQ0ZRVkhnMXpsX1FDbW5aTmdDcFMySXpkLUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d64459263a3f",
       "title": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen - NU",
-      "published": "2026-05-22T14:03:04+00:00",
+      "published": "2026-05-22T15:25:28+00:00",
       "summary": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNC1aYVBZZFM1dHBENEo1WFIxNDdIcFFRZVpUWHp6NWlMaUdzcHdBaUtjeVhMbFZtaEtPcjJzTldfTWMweWxJRktGNVBncnJZRmlueWlDcWQ3ajlaRzZJSnE2SjhJeHZHN3FiUDlPU2ZuMVhyV21QSzM5a2ZLNGRaVUk0M05VeWpLaFlhekVkRTlfUjRBYUhnUUFvQkh2OFVBcHBxMmduNUxMY2E2dWtwSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "173dbaabfc8a",
-      "title": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België - ESPN.nl",
-      "published": "2026-05-21T19:23:38+00:00",
-      "summary": "WK-deelnemer Congo wijkt vanwege ebola-uitbraak uit naar België&nbsp;&nbsp;ESPN.nlBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUAantal vermoedelijke ebolabesmettingen in Congo loopt op tot bijna 750&nbsp;&nbsp;RTL.nlRode Kruis opent gironummer voor ebola om dodelijke uitbraak in Afrika&nbsp;&nbsp;NOSRode Kruis waarschuwt voor snelle verspreiding ebola én nepnieuws omtrent ziekte&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "ESPN.nl",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjNtdEZrWng5a3lKdjZIMVdlU0VXcFMzcEZ6M0U0ZmljdkI4OVQ2dnNBU1ExaW9Od01OQ3R6NzdEbWxuVk53MWowTjV5WENQdkVCNEN6YUJ1TFhzTklUc2Y3ZXdVWGozWEpwc2hWaFdoY2J1TGpVNlI5eGdSSjl3RjUxdi1LUXhtSWRJeXVKSTVqa0RuaDNuU3VQZng4X1Z2R0tOd0FXRUhZa2tQSUpBeGx3bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80bb8c7b987a",
-      "title": "Recordaantal soa's in Europa: 'Condoomgebruik neemt aantoonbaar af' - RTL.nl",
-      "published": "2026-05-22T11:04:52+00:00",
-      "summary": "Recordaantal soa's in Europa: 'Condoomgebruik neemt aantoonbaar af'&nbsp;&nbsp;RTL.nlVeel meer gonorroe en syfilis in Europa, ook in Nederland meer infecties&nbsp;&nbsp;NOSBesmettingen met gonorroe en syfilis op recordhoogte in Europa&nbsp;&nbsp;Trouw“We zien het niet terug in een bloedtest.” Op 10 jaar tijd komt gonorroe 4 keer meer voor: hoe kan dat?&nbsp;&nbsp;HLNRecordaantal soa's in Europa: vooral syfilis stijgt hard&nbsp;&nbsp;Hart van Nederland",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3NYVEh4VGY4NFZMeDNlUzlWbVVOTi1nOW9MOUlnUGw1bDR5b2UyMS0xSE9nVklXUF9XblNJUHA2VU1TVHhxVUVxMVlpUEp5S3BIM09Pdmt5WkNzWG1jZjlTeXNLbzEtOHVWR2JDMDk1Z1QzUzNDY2Ztb2l4YVY3SXFIY0tqN1AxcXdQN2ZrR3FvTWpYa2Y1MWNsSVFQUTdnSGNXWFNGcEM2eEkxX0xubGUyb1ZsVVlv?oc=5"
         }
       ]
     },
@@ -76,14 +64,14 @@
       ]
     },
     {
-      "id": "06a79793326f",
-      "title": "Nieuwe studie zet beweegrichtlijnen op zijn kop: ‘150 minuten per week is bij lange na niet genoeg’ - Scientias.nl",
-      "published": "2026-05-21T09:04:53+00:00",
-      "summary": "Nieuwe studie zet beweegrichtlijnen op zijn kop: ‘150 minuten per week is bij lange na niet genoeg’&nbsp;&nbsp;Scientias.nl",
+      "id": "99b64c73525b",
+      "title": "Ik zie aan het einde van de dag een afdruk van mijn sok. Klopt het dat er dan iets met mijn hart is? - Trouw",
+      "published": "2026-05-21T20:00:26+00:00",
+      "summary": "Ik zie aan het einde van de dag een afdruk van mijn sok. Klopt het dat er dan iets met mijn hart is?&nbsp;&nbsp;Trouw",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0NNWDZzbHBGZ2R1TVBuQS1xdGxQMkVoU0RjeDJ5RExYeF84d0NaeTE2MGg3ekFoMG1FZnhxd2Iyci04Vl9kcXRZVElISk95U0V2akpHVE12Y0RVRmxJQjllTG15UG1iY3VBVE1nNUZLOHZwZ2gwSDZvS1pZa2Rza3d3NWxJZmM4LURfWFBPbkNfNUNYTlRtYXhabjM4WlFKTGVJckNrUVg1dnYxN0tWRnJFWG9kZDVzQnc?oc=5"
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXY3cnQ5RmN3NmwzTnJEaFBjbXF3eDFwR1JQcFBQRUxIRlh1LVBCTkc4XzM4T2tMZjFGSVFGYWlYcGduZ2ZyUHg4QUhWVDUtWXUwMXIyWFNHWUVsUDdOMzd1Q1ItUjJBSzFOZVVISFpCd2lCbVJ0LXBsRl96Y3U0bDRZdjlyRkhvcTRjREFfTEJxQmRnYVRqZGpuTGUwWVdTN2tTcDJZNFNFOS16ZndYZHpOTEh1X3VqcG4yaVBSa0wwWmE2eDFrR1NoWEIwSWtyOVZBUllDWQ?oc=5"
         }
       ]
     },

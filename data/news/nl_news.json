@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-23T02:43:35.338760+00:00",
+  "fetched_at": "2026-05-23T08:14:07.237228+00:00",
   "count": 8,
   "news": [
     {
-      "id": "4406c7ad155a",
-      "title": "Rouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt - NOS",
-      "published": "2026-05-22T21:26:36+00:00",
-      "summary": "Rouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt&nbsp;&nbsp;NOSEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUWHO slaat alarm: bijna 750 vermoedelijke ebolagevallen in Congo&nbsp;&nbsp;De Telegraaf‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRC",
+      "id": "c95cb308dbbb",
+      "title": "Ebola in Congo: strenge WK-eisen VS voor voetbalploeg - De Telegraaf",
+      "published": "2026-05-23T06:52:00+00:00",
+      "summary": "Ebola in Congo: strenge WK-eisen VS voor voetbalploeg&nbsp;&nbsp;De TelegraafRouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NU‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRCVoetballers Congo moeten van regering-Trump eerst 21 dagen in quarantaine vanwege ebola-uitbraak&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWlILUZiSzBpTWVGNEVHTFVydW1FRWJrMGFaNHJiX2V1c3kyVHRDMTJOS21aYklRQjdPeFNSbWV4blg1VVo2eWRsQXVjczRoOFBWbG9Kc1Y0MjllMkVKcjZvajlrMDlwNHB3UWJXS1Z2c2lmZHY5bDdDUEJQbG9RVDhaclJvOXotTm9sQnEwS0N4ajVEWHZ5V2VnMjhFeWxQSkdsdGVyZzhGTXN0TVRqUw?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQM2RGZWNweFZGM1VNeGFFLTJMaklNVGVuNzFQcl9sMXFrYjlKOU0wU3NoZ3JoREpFTUVuWDhHSGY3Ujd0b19qVEhzM0hhX3o4ZzZaV1NaeXdzMHR0aWUxdzVFUXNDUU9heWlVSG5HT2pmQzBRcVVXeS1aZHdlOS1tLWNQQXY1YmlSd3NETWE5T01Vbk1JZ2NFZjJHbGFJSDRhMDRYbmtkM0dOa3NreHZ0VjNhT1JHMUpwQVJvUGFOcVFzU3hjb3dqMWZrRlh6RWNCUEdMd2FuU1Y0VVdPOWxiWXMtaG14QVQ5VU4tdE43UF8wZ0h1Q1B1TVRVRS1ENVNXejlyd3BweUYzWWZmeXhjWHFoTmFIVE9Yd0tLZlZVTkk1TGFU?oc=5"
         }
       ]
     },
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "d64459263a3f",
-      "title": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen - NU",
-      "published": "2026-05-22T15:25:28+00:00",
-      "summary": "Patiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "1d55548c4fdc",
+      "title": "Patiënt opgenomen met mogelijke ebola-infectie in Nijmeegse Radboudumc - NOS",
+      "published": "2026-05-22T15:35:35+00:00",
+      "summary": "Patiënt opgenomen met mogelijke ebola-infectie in Nijmeegse Radboudumc&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in ziekenhuis, morgen uitslag test&nbsp;&nbsp;NUPatiënt met mogelijke ebola-infectie in Radboudumc, was in gebied waar uitbraak is&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen, morgen uitslag test&nbsp;&nbsp;AD.nlPatiënt met mogelijk ebola via Zwols ziekenhuis naar Nijmegen, uitslag in dit weekend&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNC1aYVBZZFM1dHBENEo1WFIxNDdIcFFRZVpUWHp6NWlMaUdzcHdBaUtjeVhMbFZtaEtPcjJzTldfTWMweWxJRktGNVBncnJZRmlueWlDcWQ3ajlaRzZJSnE2SjhJeHZHN3FiUDlPU2ZuMVhyV21QSzM5a2ZLNGRaVUk0M05VeWpLaFlhekVkRTlfUjRBYUhnUUFvQkh2OFVBcHBxMmduNUxMY2E2dWtwSQ?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTZ5Mm9raE40SU5UeG9KN1hibG9qZnlzRC10eTNnY3hCQm43dXJMYnNNZDFONU9YNDlBcnE2dmJkRDZxb0RFQ2Z0dklVdEJ2RGNhb1hOT3pjUVE0cHJzOVotYWp2b3RUSjZlWWU1a3pTcTRDeEc2RTE5RXByNEJvZnRFQXNaWUs1RkI4MFlQN1ZQWTBzV2RYcHVhYlVYc1JBRnJj?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3V3dGxOU25ZY3ZscUJpX2V4Rm5DQ3NiQVozb1FsYVFSTkJpRUpPcHNsemdYNkE4bkEyZERYUjdiVGQwSkpuVF9nSGp0ZTdCaUZhTVl0c0N3OUdjZXR5a05tVkhncHhYdUx6RnZFUUxFamMtTWhRZWFMOGlEcElrM0l1cGVjOWZ3RDdwZHRNQjBaRTFPYzFjQnJ4aUpDMGxSa3Z3UG9FSUJzQVE3WlpKY3hDSlR6YTR6MlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb7e1cbdcd9f",
+      "title": "Helma (49) is levend voorbeeld dat wonderen bestaan bij kankerbehandeling: toch hebben artsen een harde boodschap - De Telegraaf",
+      "published": "2026-05-23T05:01:05+00:00",
+      "summary": "Helma (49) is levend voorbeeld dat wonderen bestaan bij kankerbehandeling: toch hebben artsen een harde boodschap&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUmJIaGNGdjg3Qk9LRXNiaTJSbE1OcG9KRTdvd0MtdG5jSFZCdVBrVHJyXzlCdVF0RG9ITE9xc3k4WUp4OEgxVEl6X3VNMEFCZDFVcVNEV0NrYjQzNXFidUFOYk5yaG96WUxXRHJ3X2tuWFBmV3VIblRVWE04V19CclBWTFhJdEgtSU9EZzhreTBtcmRjZThSTGc0YXZGTDlWV0M5R3hsU2w0RnNIQVlRTEhaUVBTUGxJd1NGOU8tYXp4aVd0WHBJQmZ3WnZTQmhDN0FIN2lEcHFLaWdGYjdqMkw2S01KZFFSUjZoRDktSTZXTTQ?oc=5"
         }
       ]
     },
@@ -72,18 +84,6 @@
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXY3cnQ5RmN3NmwzTnJEaFBjbXF3eDFwR1JQcFBQRUxIRlh1LVBCTkc4XzM4T2tMZjFGSVFGYWlYcGduZ2ZyUHg4QUhWVDUtWXUwMXIyWFNHWUVsUDdOMzd1Q1ItUjJBSzFOZVVISFpCd2lCbVJ0LXBsRl96Y3U0bDRZdjlyRkhvcTRjREFfTEJxQmRnYVRqZGpuTGUwWVdTN2tTcDJZNFNFOS16ZndYZHpOTEh1X3VqcG4yaVBSa0wwWmE2eDFrR1NoWEIwSWtyOVZBUllDWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ae0f6721fec",
-      "title": "Nieuw onderzoek naar koffie laat zien: geen hoge bloeddruk - quest.nl",
-      "published": "2026-05-21T06:04:51+00:00",
-      "summary": "Nieuw onderzoek naar koffie laat zien: geen hoge bloeddruk&nbsp;&nbsp;quest.nl",
-      "sources": [
-        {
-          "name": "quest.nl",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FRS11MC1EQmQ4VW9idE82VWIzQUdLeHZTbk81YlpfOFY4dnptZnpNb1B4V1RYbEc4MFc5STBXZV9vZzhmelFZUDhlUTZ0TGhLdDFfa1IzbGhqcGtZWjFQZEh1M2E3OGFxcjA0OEdvdGpFVFVV?oc=5"
         }
       ]
     },

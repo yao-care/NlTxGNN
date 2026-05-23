@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-23T08:14:07.237228+00:00",
-  "count": 8,
+  "fetched_at": "2026-05-23T13:18:22.633951+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "c95cb308dbbb",
-      "title": "Ebola in Congo: strenge WK-eisen VS voor voetbalploeg - De Telegraaf",
-      "published": "2026-05-23T06:52:00+00:00",
-      "summary": "Ebola in Congo: strenge WK-eisen VS voor voetbalploeg&nbsp;&nbsp;De TelegraafRouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NU‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRCVoetballers Congo moeten van regering-Trump eerst 21 dagen in quarantaine vanwege ebola-uitbraak&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQM2RGZWNweFZGM1VNeGFFLTJMaklNVGVuNzFQcl9sMXFrYjlKOU0wU3NoZ3JoREpFTUVuWDhHSGY3Ujd0b19qVEhzM0hhX3o4ZzZaV1NaeXdzMHR0aWUxdzVFUXNDUU9heWlVSG5HT2pmQzBRcVVXeS1aZHdlOS1tLWNQQXY1YmlSd3NETWE5T01Vbk1JZ2NFZjJHbGFJSDRhMDRYbmtkM0dOa3NreHZ0VjNhT1JHMUpwQVJvUGFOcVFzU3hjb3dqMWZrRlh6RWNCUEdMd2FuU1Y0VVdPOWxiWXMtaG14QVQ5VU4tdE43UF8wZ0h1Q1B1TVRVRS1ENVNXejlyd3BweUYzWWZmeXhjWHFoTmFIVE9Yd0tLZlZVTkk1TGFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9bea34799ca4",
-      "title": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland - Rijnmond",
-      "published": "2026-05-22T13:00:08+00:00",
-      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius zat al in quarantaine, uit voorzorg opgen",
+      "id": "b509e63d1820",
+      "title": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor - Rijnmond",
+      "published": "2026-05-23T05:11:11+00:00",
+      "summary": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius za",
       "sources": [
         {
           "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZVblhUcU5kaWFHN3V4VDFTRGRIbFdFYncwZmNWcVFZbEFWc0NfSXBzeXpJUThqYVBzZHdmbW0xV1U1N1VNcEY1dE5hQU11b1RnVkdBQTJPSFdWWkIxWXBIWDNPcVFNX2NISXhzSy1zTy1fdDgzNDNhN2JUMnAwcDhka0U0MFVvNExXS2lubEVZQnhQX1o4M29UZnNoaHdneVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFNSZ1BITFFsR3YwejVxMzlnOHhwZ1JtYWNmMFliWVFTZWFKWXBGU2lWTzZUSGRtZFliSmFmWVJNTHp4UFhHV1hlTzUxbWhkWTBlVVlfMnB3MVZiSGQzMm9yUGxNcHFKckotc0EtV2tJMlZvZEo0dWhKcFkzRG5fbS1CNjRmaVN4c3BxMGxPS1lEaTVnTmRMazhwSDZTaUw4b1JKTEszdThCZk5RTzdxVlBvdjd4STJCdTF3eXVSVzBOZThFcE40ODZwaG9fZw?oc=5"
         }
       ]
     },
     {
-      "id": "1d55548c4fdc",
-      "title": "Patiënt opgenomen met mogelijke ebola-infectie in Nijmeegse Radboudumc - NOS",
-      "published": "2026-05-22T15:35:35+00:00",
-      "summary": "Patiënt opgenomen met mogelijke ebola-infectie in Nijmeegse Radboudumc&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in ziekenhuis, morgen uitslag test&nbsp;&nbsp;NUPatiënt met mogelijke ebola-infectie in Radboudumc, was in gebied waar uitbraak is&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen, morgen uitslag test&nbsp;&nbsp;AD.nlPatiënt met mogelijk ebola via Zwols ziekenhuis naar Nijmegen, uitslag in dit weekend&nbsp;&nbsp;de Stentor",
+      "id": "3d11fba0b33d",
+      "title": "Alsof je op een andere planeet belandt: zo gaat het eraan toe in de streng bewaakte ebola-unit van Radboudumc - De Gelderlander",
+      "published": "2026-05-23T01:07:00+00:00",
+      "summary": "Alsof je op een andere planeet belandt: zo gaat het eraan toe in de streng bewaakte ebola-unit van Radboudumc&nbsp;&nbsp;De GelderlanderPatiënt met mogelijke ebola-infectie opgenomen in ziekenhuis, morgen uitslag test&nbsp;&nbsp;NUPatiënt met mogelijke ebola-infectie in Radboudumc, was in gebied waar uitbraak is&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen, morgen uitslag test&nbsp;&nbsp;AD.nlPatiënt met mogelijk ebola via Zwols ziekenhuis naar Nijmegen, ui",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTZ5Mm9raE40SU5UeG9KN1hibG9qZnlzRC10eTNnY3hCQm43dXJMYnNNZDFONU9YNDlBcnE2dmJkRDZxb0RFQ2Z0dklVdEJ2RGNhb1hOT3pjUVE0cHJzOVotYWp2b3RUSjZlWWU1a3pTcTRDeEc2RTE5RXByNEJvZnRFQXNaWUs1RkI4MFlQN1ZQWTBzV2RYcHVhYlVYc1JBRnJj?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVjZUVTFERzZ1S2VZbU5yS2lBMDNpMnY5blFmbnUyV1RZcGd4WnVTcERZNjJqaGZnVTMtTTdJMU1UT3NkaTdXRHFJem80UWdfbkZwNjJCQjZsR3dab2hoaEhqa2Uyb0VYSklvOXhOeVBLOTBFX1BSdzdpVkhDWDZ0Y1NrbjA3RlVSSEZBcjR6RTFkbndmbmtQOFQ2SkROYVZjQS02dHNZVVQzQXJJVUNJMl9BUUd5UWhvZkh1S2paLWF0amhsX3RzN0ZTeXZ2SUY4eW4yRG1KNUIyTzNTOWF5TkQ1MDgtTlNWVmh3?oc=5"
         }
       ]
     },
@@ -48,18 +36,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3V3dGxOU25ZY3ZscUJpX2V4Rm5DQ3NiQVozb1FsYVFSTkJpRUpPcHNsemdYNkE4bkEyZERYUjdiVGQwSkpuVF9nSGp0ZTdCaUZhTVl0c0N3OUdjZXR5a05tVkhncHhYdUx6RnZFUUxFamMtTWhRZWFMOGlEcElrM0l1cGVjOWZ3RDdwZHRNQjBaRTFPYzFjQnJ4aUpDMGxSa3Z3UG9FSUJzQVE3WlpKY3hDSlR6YTR6MlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb7e1cbdcd9f",
-      "title": "Helma (49) is levend voorbeeld dat wonderen bestaan bij kankerbehandeling: toch hebben artsen een harde boodschap - De Telegraaf",
-      "published": "2026-05-23T05:01:05+00:00",
-      "summary": "Helma (49) is levend voorbeeld dat wonderen bestaan bij kankerbehandeling: toch hebben artsen een harde boodschap&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUmJIaGNGdjg3Qk9LRXNiaTJSbE1OcG9KRTdvd0MtdG5jSFZCdVBrVHJyXzlCdVF0RG9ITE9xc3k4WUp4OEgxVEl6X3VNMEFCZDFVcVNEV0NrYjQzNXFidUFOYk5yaG96WUxXRHJ3X2tuWFBmV3VIblRVWE04V19CclBWTFhJdEgtSU9EZzhreTBtcmRjZThSTGc0YXZGTDlWV0M5R3hsU2w0RnNIQVlRTEhaUVBTUGxJd1NGOU8tYXp4aVd0WHBJQmZ3WnZTQmhDN0FIN2lEcHFLaWdGYjdqMkw2S01KZFFSUjZoRDktSTZXTTQ?oc=5"
         }
       ]
     },

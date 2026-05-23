@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-22T19:40:30.998892+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-23T02:43:35.338760+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "3c2871e92d16",
-      "title": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland - NOS",
-      "published": "2026-05-22T12:42:24+00:00",
-      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;NOSNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlHantavirus besmetting vastgesteld: is dit gevaarlijk?&nbsp;&nbsp;De Telegraaf",
+      "id": "4406c7ad155a",
+      "title": "Rouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt - NOS",
+      "published": "2026-05-22T21:26:36+00:00",
+      "summary": "Rouwbijeenkomsten verboden in Congo nu ebolavirus nog verder om zich heen grijpt&nbsp;&nbsp;NOSEbola grijpt om zich heen in Congo: waarom verspreidt deze variant zich zo snel?&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUWHO slaat alarm: bijna 750 vermoedelijke ebolagevallen in Congo&nbsp;&nbsp;De Telegraaf‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRC",
       "sources": [
         {
           "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnptMFFTRDJYX1I4MWUtelVKMURwUjhZS0VwV3BLdXlNUHBOZmlaMXBZUXpVUHpOTE1CSHpVd3k4N1Y4QkF5QjIxOF9EZmZvZjNnc2NGSG81VnN6WHJQYVNia1dqSHB5ZUpJbU00MXQtU0xxWnhSOVZSbFd6cGpiTWp4NmpkdC1rZGlqTFo2bC1sY25nZS1r?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWlILUZiSzBpTWVGNEVHTFVydW1FRWJrMGFaNHJiX2V1c3kyVHRDMTJOS21aYklRQjdPeFNSbWV4blg1VVo2eWRsQXVjczRoOFBWbG9Kc1Y0MjllMkVKcjZvajlrMDlwNHB3UWJXS1Z2c2lmZHY5bDdDUEJQbG9RVDhaclJvOXotTm9sQnEwS0N4ajVEWHZ5V2VnMjhFeWxQSkdsdGVyZzhGTXN0TVRqUw?oc=5"
         }
       ]
     },
     {
-      "id": "234a5118dc00",
-      "title": "VS wil dat selectie Congo drie weken in isolatie gaat vanwege ebola-uitbraak - NOS",
-      "published": "2026-05-22T18:20:49+00:00",
-      "summary": "VS wil dat selectie Congo drie weken in isolatie gaat vanwege ebola-uitbraak&nbsp;&nbsp;NOSBoze demonstranten stichten brand in ebolakliniek in oosten van Congo&nbsp;&nbsp;NUWHO slaat alarm: bijna 750 vermoedelijke ebolagevallen in Congo&nbsp;&nbsp;De TelegraafRode Kruis waarschuwt voor snelle verspreiding ebola én nepnieuws omtrent ziekte&nbsp;&nbsp;bnr.nl‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRC",
+      "id": "9bea34799ca4",
+      "title": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland - Rijnmond",
+      "published": "2026-05-22T13:00:08+00:00",
+      "summary": "Hantavirus vastgesteld bij bemanningslid Hondius in Nederland&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius zat al in quarantaine, uit voorzorg opgen",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGZUV2VEek15eXRuaUJ3d3ZaT1lFb0xDeXhoYkU1UndRd2tRWGMyUU1HcnE0NzNNSkF2Y29LN3AxbkZMMTNqb2pVcTdBTDNTUWstNk83WVk2bGNqa1RzVkVpVjN4Ujh1N2ZBWGNVenN4bkJYbGFhbTZEYXJ5WUhTVDRXdnlFd2pzaW95UXdQU2cwQ0ZRVkhnMXpsX1FDbW5aTmdDcFMySXpkLUE?oc=5"
+          "name": "Rijnmond",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZVblhUcU5kaWFHN3V4VDFTRGRIbFdFYncwZmNWcVFZbEFWc0NfSXBzeXpJUThqYVBzZHdmbW0xV1U1N1VNcEY1dE5hQU11b1RnVkdBQTJPSFdWWkIxWXBIWDNPcVFNX2NISXhzSy1zTy1fdDgzNDNhN2JUMnAwcDhka0U0MFVvNExXS2lubEVZQnhQX1o4M29UZnNoaHdneVE?oc=5"
         }
       ]
     },
@@ -40,26 +40,26 @@
       ]
     },
     {
-      "id": "5c2d15253e2b",
-      "title": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie - De Gelderlander",
-      "published": "2026-05-21T04:52:00+00:00",
-      "summary": "Patiënt met zeldzaam hantavirus uit Radboudumc naar huis, twaalf medewerkers nog in isolatie&nbsp;&nbsp;De GelderlanderVideo – Amateurvoetballer heeft na koppen tijdelijk hersenschade-biomarker in het bloed&nbsp;&nbsp;HuisartsVandaagHuisarts Mitrasing; ‘Het is fout om patiënten verantwoordelijk te maken voor de stijgende zorgkosten’&nbsp;&nbsp;HuisartsVandaagApp met medische informatie voor patiënten gewild bij investeerders&nbsp;&nbsp;HuisartsVandaagClinical Diagnostics voldeed tijdens hack nie",
+      "id": "383eb0c9d7cc",
+      "title": "Hogere dosis vitamine D tijdens zwangerschap mogelijk gelinkt aan beter geheugen bij kinderen - RTL.nl",
+      "published": "2026-05-22T19:40:06+00:00",
+      "summary": "Hogere dosis vitamine D tijdens zwangerschap mogelijk gelinkt aan beter geheugen bij kinderen&nbsp;&nbsp;RTL.nlHoge dosis vitamine D tijdens zwangerschap blijkt gelinkt aan beter geheugen bij kinderen&nbsp;&nbsp;Scientias.nlHoge dosis vitamine D tijdens zwangerschap gelinkt aan beter geheugen bij kinderen&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1ktTVpSZEg0YU9YSXBkd2xwSG9OaE9nYjV0NTdia1dYd3NkVWx4MWtHNjFoUUJNTG51VWxnQk1zaFpoUm1BRGtuZUh5T3cyNHFvdGlFSThHeUhLbHZPMkkzTTlBd2lrVHh0aExHRXZmQ21QaWViM211RWk1eDdHNUh0aGg5cmZwVUpld1lOR25MYi1TY09kWnVFemdPR1pFbVhyYjBXbVRZRk1vSDZVaXMzT0N0TEJTU2pGYmk4SDJDSmpQNXB6ZVhvY0IxeHUxY0VtZQ?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3V3dGxOU25ZY3ZscUJpX2V4Rm5DQ3NiQVozb1FsYVFSTkJpRUpPcHNsemdYNkE4bkEyZERYUjdiVGQwSkpuVF9nSGp0ZTdCaUZhTVl0c0N3OUdjZXR5a05tVkhncHhYdUx6RnZFUUxFamMtTWhRZWFMOGlEcElrM0l1cGVjOWZ3RDdwZHRNQjBaRTFPYzFjQnJ4aUpDMGxSa3Z3UG9FSUJzQVE3WlpKY3hDSlR6YTR6MlE?oc=5"
         }
       ]
     },
     {
-      "id": "40c98e6db679",
-      "title": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname - Starnieuws",
-      "published": "2026-05-21T14:16:00+00:00",
-      "summary": "Psychische aandoeningen nemen wereldwijd toe, ook in Suriname&nbsp;&nbsp;StarnieuwsHet gaat geestelijk steeds slechter met steeds meer mensen: bijna 1,2 miljard mensen hebben een mentale aandoening&nbsp;&nbsp;TrouwWereldwijde verdubbeling van aantal mensen met psychische stoornis: Nederland scoort slecht&nbsp;&nbsp;Scientias.nlZelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen&nbsp;&nbsp;Curacao.nuVolgens de WHO leven meer dan een miljard mensen met psy",
+      "id": "ad76e76b080d",
+      "title": "Zelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen - Curacao.nu",
+      "published": "2026-05-22T12:10:00+00:00",
+      "summary": "Zelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen&nbsp;&nbsp;Curacao.nuWereldwijde verdubbeling van aantal mensen met psychische stoornis: Nederland scoort slecht&nbsp;&nbsp;Scientias.nlHet gaat geestelijk steeds slechter met steeds meer mensen: bijna 1,2 miljard mensen hebben een mentale aandoening&nbsp;&nbsp;TrouwVolgens de WHO leven meer dan een miljard mensen met psychische stoornissen.&nbsp;&nbsp;Vietnam.vnPAHO-rapport: “Zelfdoding onder jongeren ",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NV2QtOUF0a2JNUGt3c2ZkS0ZzWW1KVzZVTXlVS0tpeVJoQVlfWUZlTUh5M0tWRVFRbWY0Qk1zOTJ3c3ZWZXhSTHZaOWxkcWE2RDlnc3E4WThDNjhiS1Q2MURDQ19abE10cThEVnpia1RRVGJuZ3c?oc=5"
+          "name": "Curacao.nu",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVE1rWkVkZDVKYWd1cG9xeE02bDhrdTk0Zy0td1VlX3BTMGNUWEtzc2Z3bEVWZE9iQjhzMmdZTWtLTzktNGlIakNxVWNNY0JpbmJEa2NKR3BfQTJIS0NvelhtTF9iUGlBRXFvZEVxV2xPQkhDMEM3c1FlMTFRd1pKTThuSXJkY0pvRWE3LWZDeC1lbjd6UFhXd1QzNUUzYUpiT2lfT0RZbU9lWmZoWnhtTEFVcXNQVm5CNmdYVlRTMUlTeDZsQ2d4TFFRLW9vMDBEakxxVVVRSzJmdnc?oc=5"
         }
       ]
     },
@@ -84,6 +84,18 @@
         {
           "name": "quest.nl",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FRS11MC1EQmQ4VW9idE82VWIzQUdLeHZTbk81YlpfOFY4dnptZnpNb1B4V1RYbEc4MFc5STBXZV9vZzhmelFZUDhlUTZ0TGhLdDFfa1IzbGhqcGtZWjFQZEh1M2E3OGFxcjA0OEdvdGpFVFVV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10c6f8ca4fb8",
+      "title": "Pesticiden en de opmars van parkinson: ‘We moeten bereid zijn om meer te betalen voor biologische voeding’ - Knack",
+      "published": "2026-05-22T03:00:00+00:00",
+      "summary": "Pesticiden en de opmars van parkinson: ‘We moeten bereid zijn om meer te betalen voor biologische voeding’&nbsp;&nbsp;Knack“Ik heb gezien hoe moeilijk die strijd is.” Hoe herken je parkinson, de ziekte waar Zita Wauters nu aandacht voor vraagt?&nbsp;&nbsp;HLNZita Wauters zet zich in voor Parkinson na verlies van haar oma&nbsp;&nbsp;Newsmonkey -\"Snelst groeiende neurologische ziekte ter wereld\": hoeveel Belgen hebben parkinson en valt het te genezen?&nbsp;&nbsp;VRT“Ik mis mijn omaatje nog elke da",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMUlSY3pKZ21ENU9EQlZjSnZjd2t0OGctSTF5M2NlQUQydXRPRHVRRFVIUE9kU3dPTVJXR1htbURYTzgxWDRza1A2U2p3cWlHVTUyQ2xRRE9Hc0QtU0ptSXRNUzhwb0FjUlBWY181MVBSQlR0cFpmbkljWkpsM3B2TkVKZExqXy0yeDlzdkNlX0FsOW8tRS1paUNnLUJVVnYybVNrQ2NSNW9tRkxQM1Z5dmxkcUZnb19KSUFranVwSXR5RGl4Z0pRbGNvZFRvSXBrdEpScnh0S1ZCOU4wNGlPX1J4MVQ2cm9RQ1dndUJQZE40QjZKeWRvSWJ3NE85THZzejY2WkdiaEE?oc=5"
         }
       ]
     }

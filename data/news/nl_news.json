@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-24T08:25:29.340680+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-24T13:19:36.221662+00:00",
+  "count": 5,
   "news": [
     {
       "id": "a24a7756ee97",
       "title": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek - De Telegraaf",
-      "published": "2026-05-23T19:01:24+00:00",
-      "summary": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "published": "2026-05-23T20:59:29+00:00",
+      "summary": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek&nbsp;&nbsp;De TelegraafPatiënt Radboudumc test negatief op ebola-virus&nbsp;&nbsp;NOSPatiënt met mogelijke ebola-infectie opgenomen in Radboudumc Nijmegen&nbsp;&nbsp;NUAlsof je op een andere planeet belandt: zo gaat het eraan toe in de streng bewaakte ebola-unit van Radboudumc&nbsp;&nbsp;De GelderlanderPatiënt met mogelijk ebola via Zwols ziekenhuis naar Nijmegen, uitslag in dit weekend&nbsp;&nbsp;de Stentor",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -16,38 +16,26 @@
       ]
     },
     {
-      "id": "50070e7773b6",
-      "title": "Dodental ebola-uitbraak in Congo loopt op tot boven de tweehonderd - AD.nl",
-      "published": "2026-05-23T13:55:00+00:00",
-      "summary": "Dodental ebola-uitbraak in Congo loopt op tot boven de tweehonderd&nbsp;&nbsp;AD.nlWK-ploeg Congo moet van VS drie weken in quarantaine vanwege ebola-uitbraak&nbsp;&nbsp;NUDrie nieuwe ebola-besmettingen in Uganda na uitbraak in Congo&nbsp;&nbsp;NOS‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRCDrie vrijwilligers Rode Kruis overleden aan ebola in Congo, organisatie is 'diep bedroefd'&nbsp;&nbsp;RTL.nl",
+      "id": "899791f26b3d",
+      "title": "WHO meldt nog een besmettingsgeval hantavirus in Nederland - Reformatorisch Dagblad",
+      "published": "2026-05-22T17:33:05+00:00",
+      "summary": "WHO meldt nog een besmettingsgeval hantavirus in Nederland&nbsp;&nbsp;Reformatorisch DagbladNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius zat al in quarantaine, ui",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelhFVFRVQXNHUjlSZ1RGZzZOS0g2OHRGX21lUUNpdzdMU01HYkpRLU5oc2dkUDBkYWpkSjV2RDVLRUZKN01CMW5qcXUwX0hqZGg5SUdLZXdnZnVCRW8yZl9nMWtGV2V2RFpTTUJFNlpGeG83cnRuQ3R3Q081UGdfUDUwZFktYjlkdU05U1FsU2tGYnBaNVUzS1VDVVZ2MmtUeUZEcVp1cFc?oc=5"
+          "name": "Reformatorisch Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVJLMnRzVVBDMjNHX0psYlFBVTUyRVUzN0h4RERaUXhRb0I4NWJyX09uMDVEazRkR19KdFhRcTRzTmEwNzdNLXlHaVdKeTF0VF8xaXNlSDBuVUNjV2RPblFQMDc1YVBwZlBkY0NXOWxJRDJzRGstU1ZLQUxLWHc1UVZvVTdUenRfdFowWEpQWQ?oc=5"
         }
       ]
     },
     {
-      "id": "b509e63d1820",
-      "title": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor - Rijnmond",
-      "published": "2026-05-23T05:11:11+00:00",
-      "summary": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius za",
+      "id": "1e53620b7511",
+      "title": "Na discussie over omstreden middel lidocaïne blijven postcovidpatiënten achter zonder behandelopties: ’Het feit dat iemand beter wordt, zegt niks’ - Noordhollands Dagblad",
+      "published": "2026-05-24T05:00:00+00:00",
+      "summary": "Na discussie over omstreden middel lidocaïne blijven postcovidpatiënten achter zonder behandelopties: ’Het feit dat iemand beter wordt, zegt niks’&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFNSZ1BITFFsR3YwejVxMzlnOHhwZ1JtYWNmMFliWVFTZWFKWXBGU2lWTzZUSGRtZFliSmFmWVJNTHp4UFhHV1hlTzUxbWhkWTBlVVlfMnB3MVZiSGQzMm9yUGxNcHFKckotc0EtV2tJMlZvZEo0dWhKcFkzRG5fbS1CNjRmaVN4c3BxMGxPS1lEaTVnTmRMazhwSDZTaUw4b1JKTEszdThCZk5RTzdxVlBvdjd4STJCdTF3eXVSVzBOZThFcE40ODZwaG9fZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "383eb0c9d7cc",
-      "title": "Hogere dosis vitamine D tijdens zwangerschap mogelijk gelinkt aan beter geheugen bij kinderen - RTL.nl",
-      "published": "2026-05-22T19:40:06+00:00",
-      "summary": "Hogere dosis vitamine D tijdens zwangerschap mogelijk gelinkt aan beter geheugen bij kinderen&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3V3dGxOU25ZY3ZscUJpX2V4Rm5DQ3NiQVozb1FsYVFSTkJpRUpPcHNsemdYNkE4bkEyZERYUjdiVGQwSkpuVF9nSGp0ZTdCaUZhTVl0c0N3OUdjZXR5a05tVkhncHhYdUx6RnZFUUxFamMtTWhRZWFMOGlEcElrM0l1cGVjOWZ3RDdwZHRNQjBaRTFPYzFjQnJ4aUpDMGxSa3Z3UG9FSUJzQVE3WlpKY3hDSlR6YTR6MlE?oc=5"
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSkcwd1pvZzZCUnpQU0YwX1JwdG1rNlctclNDQldSRHM4S09JSUtvcDIzWkhJdVV3N3F0YU1MelZTYmswYTZyVU5YYjFxaUktNHlrbWlMTmxLUmVqUXRud0VIcExlbkFVS1hILWZZQ2FLMlU1TU8wcGY0VTVaMUwtYktGMDFZTVdEWDc2aS1wM0plZGY1OXkzN25pLU9KNGRxSEdnUm5XSm1OM2lsekU0SFNLUHVzSVp3cl9Xc1o5WjBkYmx2U3hqY2owclhlMnZ0RXFEZHZ2SzVqb3hvbk80a0pfUGxxUHBKWDI0WHRVWG9OcnNfWmVsSmdybWdFbkxia25zSno2TjRNT1lFNU1lRzJwU0h6ejA1WkdVa1VOaTRHbzJQUjJTM2ZVVlNqRnVnRHc?oc=5"
         }
       ]
     },

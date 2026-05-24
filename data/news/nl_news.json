@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-24T02:55:52.907774+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-24T08:25:29.340680+00:00",
+  "count": 6,
   "news": [
     {
       "id": "a24a7756ee97",
       "title": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek - De Telegraaf",
-      "published": "2026-05-24T02:31:34+00:00",
-      "summary": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek&nbsp;&nbsp;De TelegraafPatiënt die in Radboudumc Nijmegen werd opgenomen heeft geen ebola&nbsp;&nbsp;NUPatiënt met mogelijke ebola-infectie in Radboudumc, was in gebied waar uitbraak is&nbsp;&nbsp;NOSAlsof je op een andere planeet belandt: zo gaat het eraan toe in de streng bewaakte ebola-unit van Radboudumc&nbsp;&nbsp;De GelderlanderArts-microbioloog: ‘Risico op verspreiding ebola in Nederland klein'&nbsp;&nbsp;NPO Radio 1",
+      "published": "2026-05-23T19:01:24+00:00",
+      "summary": "Patiënt Radboudumc heeft geen ebola, blijkt uit onderzoek&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -19,7 +19,7 @@
       "id": "50070e7773b6",
       "title": "Dodental ebola-uitbraak in Congo loopt op tot boven de tweehonderd - AD.nl",
       "published": "2026-05-23T13:55:00+00:00",
-      "summary": "Dodental ebola-uitbraak in Congo loopt op tot boven de tweehonderd&nbsp;&nbsp;AD.nlWK-ploeg Congo moet van VS drie weken in quarantaine door ebola-uitbraak&nbsp;&nbsp;NUDrie nieuwe ebola-besmettingen in Uganda na uitbraak in Congo&nbsp;&nbsp;NOSDrie vrijwilligers van Rode Kruis overleden aan ebola&nbsp;&nbsp;AD.nl‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRC",
+      "summary": "Dodental ebola-uitbraak in Congo loopt op tot boven de tweehonderd&nbsp;&nbsp;AD.nlWK-ploeg Congo moet van VS drie weken in quarantaine vanwege ebola-uitbraak&nbsp;&nbsp;NUDrie nieuwe ebola-besmettingen in Uganda na uitbraak in Congo&nbsp;&nbsp;NOS‘Door gaten in het hele gezondheidssysteem wordt een ebola-uitbraak als deze moeilijker om aan te pakken’&nbsp;&nbsp;NRCDrie vrijwilligers Rode Kruis overleden aan ebola in Congo, organisatie is 'diep bedroefd'&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -31,7 +31,7 @@
       "id": "b509e63d1820",
       "title": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor - Rijnmond",
       "published": "2026-05-23T05:11:11+00:00",
-      "summary": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius za",
+      "summary": "Operatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor&nbsp;&nbsp;RijnmondNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSHoe Nederland zich in amper 60 uur klaarmaakte voor virusschip Hondius: ‘Veel telefoons niet opgenomen’&nbsp;&nbsp;AD.nlWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius za",
       "sources": [
         {
           "name": "Rijnmond",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "ad76e76b080d",
-      "title": "Zelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen - Curacao.nu",
-      "published": "2026-05-22T12:10:00+00:00",
-      "summary": "Zelfdoding onder jongeren in Amerika’s sterk gestegen, ook Curaçao ziet zorgwekkende signalen&nbsp;&nbsp;Curacao.nuWereldwijde verdubbeling van aantal mensen met psychische stoornis: Nederland scoort slecht&nbsp;&nbsp;Scientias.nlHet gaat geestelijk steeds slechter met steeds meer mensen: bijna 1,2 miljard mensen hebben een mentale aandoening&nbsp;&nbsp;TrouwVolgens de WHO leven meer dan een miljard mensen met psychische stoornissen.&nbsp;&nbsp;Vietnam.vnPAHO-rapport: “Zelfdoding onder jongeren ",
+      "id": "cde0a32f8940",
+      "title": "Groot onderzoek: Eén bepaalde factor kan je risico op kanker vijf keer verhogen - wibnet.nl",
+      "published": "2026-05-23T20:00:37+00:00",
+      "summary": "Groot onderzoek: Eén bepaalde factor kan je risico op kanker vijf keer verhogen&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "Curacao.nu",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVE1rWkVkZDVKYWd1cG9xeE02bDhrdTk0Zy0td1VlX3BTMGNUWEtzc2Z3bEVWZE9iQjhzMmdZTWtLTzktNGlIakNxVWNNY0JpbmJEa2NKR3BfQTJIS0NvelhtTF9iUGlBRXFvZEVxV2xPQkhDMEM3c1FlMTFRd1pKTThuSXJkY0pvRWE3LWZDeC1lbjd6UFhXd1QzNUUzYUpiT2lfT0RZbU9lWmZoWnhtTEFVcXNQVm5CNmdYVlRTMUlTeDZsQ2d4TFFRLW9vMDBEakxxVVVRSzJmdnc?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVk4dE1OVS1OYTFaZ1FhZUhkSjBFSFN5dXNPS2hMYnZjbFRNTWZMTHVrRW5zSExfNkZDSWtsMWgtdWNRTXZuYlFVamc1d0dYNmtVRzVvSENGQzRoNXhOVHhqZGR2VDhraHdORlhPLWVWaXU1TndqMU5FWHp6R2VBSmNsaVpGaW1wM2p1RV80aVJ6b2NjZWhlbEFwemZPVmp6VXA2ZTRWejlmcWc?oc=5"
         }
       ]
     },
@@ -72,18 +72,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVN4UFlEWHQyYW9HZWNBTy1QUzVEZHZfeEstdjZLLXlfNzFqQUtOOXF2endMN3J2Vnh3Zzc3dHQwaHFtYkJ6a1hUSFJMQTM1VmtDUDNwS2RlWVlhVnU2UEM5bzJNTHdiUFFQdVVTd2tURkc0OGh6b2drYUt1NktMRGo0T1d0aVR4aVdIamhZaE4xQWt2ajQ2am5ReGphaWxtR1RiUF8wdElhemdaMlJiaTdGTHFJWjcwYkhrRmRnaXR2SzN6NG96U1M2Q3o1WVdOa2x3Ni1mMUtmUjRkTmZyaG02eHZqTjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c6f8ca4fb8",
-      "title": "Pesticiden en de opmars van parkinson: ‘We moeten bereid zijn om meer te betalen voor biologische voeding’ - Knack",
-      "published": "2026-05-22T03:00:00+00:00",
-      "summary": "Pesticiden en de opmars van parkinson: ‘We moeten bereid zijn om meer te betalen voor biologische voeding’&nbsp;&nbsp;KnackSnelst groeiende neurologische ziekte ter wereld: hoeveel Belgen hebben parkinson en valt het te genezen?&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMUlSY3pKZ21ENU9EQlZjSnZjd2t0OGctSTF5M2NlQUQydXRPRHVRRFVIUE9kU3dPTVJXR1htbURYTzgxWDRza1A2U2p3cWlHVTUyQ2xRRE9Hc0QtU0ptSXRNUzhwb0FjUlBWY181MVBSQlR0cFpmbkljWkpsM3B2TkVKZExqXy0yeDlzdkNlX0FsOW8tRS1paUNnLUJVVnYybVNrQ2NSNW9tRkxQM1Z5dmxkcUZnb19KSUFranVwSXR5RGl4Z0pRbGNvZFRvSXBrdEpScnh0S1ZCOU4wNGlPX1J4MVQ2cm9RQ1dndUJQZE40QjZKeWRvSWJ3NE85THZzejY2WkdiaEE?oc=5"
         }
       ]
     }

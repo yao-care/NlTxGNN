@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-25T03:31:54.643726+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-25T09:59:22.085115+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "3d666471fcfb",
-      "title": "Woedende menigte bestormt ziekenhuis voor ebola-patiënten in Congo - NOS",
-      "published": "2026-05-24T23:16:15+00:00",
-      "summary": "Woedende menigte bestormt ziekenhuis voor ebola-patiënten in Congo&nbsp;&nbsp;NOSAantal vermoedelijke besmettingen met ebola blijft toenemen, medische tenten in brand gezet in Congo&nbsp;&nbsp;NRCDemonstranten stichten brand in ebolakliniek Congo omdat dode niet mee mag&nbsp;&nbsp;NUEbola grijpt om zich heen: rouwende familie raakt besmette lichamen aan, hulpverleners machteloos&nbsp;&nbsp;De GelderlanderDit is het grootste gevaar bij de ebola-epidemie: ’Wat bedoeld is als zorg, wordt zo een bro",
+      "id": "02f0429593d8",
+      "title": "Patiënt Radboudumc test negatief op ebola-virus - NOS",
+      "published": "2026-05-23T18:47:09+00:00",
+      "summary": "Patiënt Radboudumc test negatief op ebola-virus&nbsp;&nbsp;NOSMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDlrdzFOOVQ1TnRVakx0b3JyQ0QxaWRiRXBweEdDT3dlSDVxd05Wc0lCNWhMRHgwWWt6RHBrNko5d3V2MkswUUlsVEpKUll1bnp3NS1TQUZ6Skk0bEFTVnA0eGFqNmdhQlN6NTdPVXhFWV9nWi1wZXlkZFhteW50YXAwend1ekdSX2xkNWtfOEo5N0FqU0JDNE9OdGhFdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzVCTWhvV3V1bndQaHphdURJNkprdU5VYW54a0I5dkxmNDVtbjhRUV9mbVZEZm9vTXc5SnpjMVJHSWZwMVk3ZHE0RmhtNlNFZlB0Y1NYX3QxZlZuS0huWGF2dndJTHY4eFFrd2hUTUdrVXJjVHdmX2tMVEdWMTU3azhOR0U?oc=5"
         }
       ]
     },
     {
-      "id": "c0e49835e0df",
-      "title": "Patiënt in Radboudumc heeft tóch geen ebola - De Gelderlander",
-      "published": "2026-05-23T09:31:00+00:00",
-      "summary": "Patiënt in Radboudumc heeft tóch geen ebola&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "7899b548f30b",
+      "title": "Marliens zoon (16) kreeg huidkanker: ’Die twee bulten in zijn nek bleken geen vetbulten’ - De Telegraaf",
+      "published": "2026-05-25T09:03:24+00:00",
+      "summary": "Marliens zoon (16) kreeg huidkanker: ’Die twee bulten in zijn nek bleken geen vetbulten’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemhJZjVtVzJGeWlMSWZodW8wcVpOU01IRGt6X0JUY2FpR2lweGl4LWpueHNjajQtcjFzaVZxXzJpczJVel85SWRXUzRBVnBYVXQyWjBwc3VROFRmNmZXUi1DYUdKQkpqeUFrUk15Z0IyZzBIM1ZzbGs3LUx4bDBlTklmckFUTmhGcjNqaHlodDB5Smtf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0dab5a51ec7",
-      "title": "LIVE HANTAVIRUS. Kapitein mag cruiseschip eindelijk verlaten, zegt WHO - Nieuwsblad",
-      "published": "2026-05-24T00:09:27+00:00",
-      "summary": "LIVE HANTAVIRUS. Kapitein mag cruiseschip eindelijk verlaten, zegt WHO&nbsp;&nbsp;NieuwsbladNieuw geval van hantavirus in Nederland: bemanningslid cruiseschip blijkt toch besmet&nbsp;&nbsp;NUOperatie Hondius: zo bereidde Rotterdam in recordtempo de komst van een besmet cruiseschip voor&nbsp;&nbsp;RijnmondWHO meldt besmettingsgeval hantavirus in Nederland, patiënt in isolatie&nbsp;&nbsp;NOSWHO meldt besmettingsgeval met hantavirus in Nederland: bemanningslid Hondius zat al in quarantaine, uit voo",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmE2dkxtc1hfQVdXeHRpRW5SWC13dDVQclJOMHNFbUhEcXZMaC1jU3VKRDVZUWE0Ti1WTjRkWUFPaF8wZ09Va19aMGpPR2NoR00wY2FxOHZqUEtqN0taY0xZcWVxZTJNTGdvZVBndV9remtiNEJEWmZSVEtLXzJxQk5KZWFwUUZCbWRmUmtzdU1tMHBBWUFSNFFDQXRlZ1ZFNUxkay0xb1g3ME1HOEFoNXlPSHN1UmEzVG83TTJ3?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0xWdTRRYkQzaUNxcE1JRGVXWUZWRmozZWkweDVCZGlZaUR6Z2lzNFNQdG03cDlPclNWR3J4cjllNnY1eHdyTnB4QmNPOU1ONjhkUjU4cUhQZnA2OF83d0tXcDNvaXpUSGlnTXlYcmw2U0Fydm9IenBnY09oZ2VnUndvdnBGR2FWZ3hPZkJVeE1IYWwzczVEZEY2X3hQWGdnTVdEQ0FablF3ajk4cVliV3Q0Q1ZGUVJBWm5oMjg3Ql80VGJldUtpV1g5aENTcGZScW9tYW1RejF5MEo4dVUwZg?oc=5"
         }
       ]
     },
@@ -60,18 +48,6 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVk4dE1OVS1OYTFaZ1FhZUhkSjBFSFN5dXNPS2hMYnZjbFRNTWZMTHVrRW5zSExfNkZDSWtsMWgtdWNRTXZuYlFVamc1d0dYNmtVRzVvSENGQzRoNXhOVHhqZGR2VDhraHdORlhPLWVWaXU1TndqMU5FWHp6R2VBSmNsaVpGaW1wM2p1RV80aVJ6b2NjZWhlbEFwemZPVmp6VXA2ZTRWejlmcWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9f5f1eac2e7",
-      "title": "Bijna 4 op de 10 kankergevallen zijn te voorkomen: deze twee leefstijlfactoren spelen de belangrijkste rol - Welingelichte Kringen",
-      "published": "2026-05-23T08:54:15+00:00",
-      "summary": "Bijna 4 op de 10 kankergevallen zijn te voorkomen: deze twee leefstijlfactoren spelen de belangrijkste rol&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVN4UFlEWHQyYW9HZWNBTy1QUzVEZHZfeEstdjZLLXlfNzFqQUtOOXF2endMN3J2Vnh3Zzc3dHQwaHFtYkJ6a1hUSFJMQTM1VmtDUDNwS2RlWVlhVnU2UEM5bzJNTHdiUFFQdVVTd2tURkc0OGh6b2drYUt1NktMRGo0T1d0aVR4aVdIamhZaE4xQWt2ajQ2am5ReGphaWxtR1RiUF8wdElhemdaMlJiaTdGTHFJWjcwYkhrRmRnaXR2SzN6NG96U1M2Q3o1WVdOa2x3Ni1mMUtmUjRkTmZyaG02eHZqTjg?oc=5"
         }
       ]
     }

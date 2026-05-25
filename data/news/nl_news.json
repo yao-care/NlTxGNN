@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-25T14:48:08.290459+00:00",
-  "count": 4,
+  "fetched_at": "2026-05-25T19:25:22.486990+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "02f0429593d8",
-      "title": "Patiënt Radboudumc test negatief op ebola-virus - NOS",
-      "published": "2026-05-23T18:47:09+00:00",
-      "summary": "Patiënt Radboudumc test negatief op ebola-virus&nbsp;&nbsp;NOSMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzVCTWhvV3V1bndQaHphdURJNkprdU5VYW54a0I5dkxmNDVtbjhRUV9mbVZEZm9vTXc5SnpjMVJHSWZwMVk3ZHE0RmhtNlNFZlB0Y1NYX3QxZlZuS0huWGF2dndJTHY4eFFrd2hUTUdrVXJjVHdmX2tMVEdWMTU3azhOR0U?oc=5"
-        }
-      ]
-    },
     {
       "id": "7899b548f30b",
       "title": "Marliens zoon (16) kreeg huidkanker: ’Die twee bulten in zijn nek bleken geen vetbulten’ - De Telegraaf",

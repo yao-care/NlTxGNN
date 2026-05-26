@@ -1,12 +1,36 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-26T02:51:34.480839+00:00",
-  "count": 2,
+  "fetched_at": "2026-05-26T09:48:30.250704+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "638c2dd1a24e",
+      "title": "Psychiater Esther van Fenema: ’Hoe je het ook wendt of keert, het blijft speed op recept’ - De Telegraaf",
+      "published": "2026-05-26T09:47:19+00:00",
+      "summary": "Psychiater Esther van Fenema: ’Hoe je het ook wendt of keert, het blijft speed op recept’&nbsp;&nbsp;De TelegraafEsther van Fenema: speed blijft op recept&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalhHLWRRT2dLeTdCSnMtX2JGZ1JUX3IwMXN0VzN3cGQtd1JtYWVuRzBIQ1RVZUFHZC1vRWRuTzVoeGQtRDJRdjQ4QWxoTVE2dzFMUzR5c25CYzZXRVlfeS03ZlpBY21WcWY0emkxbGcxejNidklqY0FDQXJFUktVcUF1amdjNXdSN2pYNzVRQVFDa0taQmk3V0ZXVmdIZjRKbngzR1N5OTA1bVd4RGJNVHJyUXViVUEwN1h0Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71050da8876e",
+      "title": "Is jouw kind extreem vaak verkouden? Een op de acht heeft een tekort aan antistoffen, wijst onderzoek van UMC Utrecht uit - AD.nl",
+      "published": "2026-05-25T18:00:00+00:00",
+      "summary": "Is jouw kind extreem vaak verkouden? Een op de acht heeft een tekort aan antistoffen, wijst onderzoek van UMC Utrecht uit&nbsp;&nbsp;AD.nlDarmen cruciaal bij afweer tegen verkoudheid&nbsp;&nbsp;UMC UtrechtChronisch verkouden kind? Waarom de oorzaak in de darmen kan liggen&nbsp;&nbsp;GezondnuWaarom sommige kinderen steeds verkouden zijn: onderzoekers vinden opvallend tekort aan Bifidobacterium&nbsp;&nbsp;de StentorTerugkerende verkoudheid bij kinderen? ‘Goede’ darmbacterie blijkt een sleutelrol t",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFJaZ3dyUDVabzg3TzdmVFU4MFVjbGFHam4xZExkTzItMTdERTI0MXAyM0lfVGhrWXVqdkgtVkJoOWZNTzQ2djBzcTFEbS00U2xwQTNoNDdNRTFqdnFQUm42OFlzTnpRVEE3WGtmV2lQUXNnc0IwRGJMMjVUS05Gc2I1cmZQeGpBSGJNMzBxbGd0VEFKVzJCeWRpMVc1cng4RUZCdlNpandCdWNOWkc1N1ZkYXRDSzA3bzhiUnRIbjhOanB1OHZFTWNRTTZzVkVFVEtnQ25FVmpFbVE0Wi10T1UxQ09NdWxHVnJv?oc=5"
+        }
+      ]
+    },
     {
       "id": "7899b548f30b",
       "title": "Marliens zoon (16) kreeg huidkanker: ’Die twee bulten in zijn nek bleken geen vetbulten’ - De Telegraaf",
-      "published": "2026-05-25T09:30:00+00:00",
+      "published": "2026-05-25T16:30:00+00:00",
       "summary": "Marliens zoon (16) kreeg huidkanker: ’Die twee bulten in zijn nek bleken geen vetbulten’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

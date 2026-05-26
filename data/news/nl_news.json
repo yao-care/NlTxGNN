@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-25T19:25:22.486990+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-26T02:51:34.480839+00:00",
+  "count": 2,
   "news": [
     {
       "id": "7899b548f30b",
@@ -16,26 +16,14 @@
       ]
     },
     {
-      "id": "1e53620b7511",
-      "title": "Na discussie over omstreden middel lidocaïne blijven postcovidpatiënten achter zonder behandelopties: ’Het feit dat iemand beter wordt, zegt niks’ - Noordhollands Dagblad",
-      "published": "2026-05-24T05:00:00+00:00",
-      "summary": "Na discussie over omstreden middel lidocaïne blijven postcovidpatiënten achter zonder behandelopties: ’Het feit dat iemand beter wordt, zegt niks’&nbsp;&nbsp;Noordhollands Dagblad",
+      "id": "56e01f6737b8",
+      "title": "Zwevend tussen levend en dood blijven hersenen nuttig voor onderzoek - bnr.nl",
+      "published": "2026-05-25T08:31:44+00:00",
+      "summary": "Zwevend tussen levend en dood blijven hersenen nuttig voor onderzoek&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSkcwd1pvZzZCUnpQU0YwX1JwdG1rNlctclNDQldSRHM4S09JSUtvcDIzWkhJdVV3N3F0YU1MelZTYmswYTZyVU5YYjFxaUktNHlrbWlMTmxLUmVqUXRud0VIcExlbkFVS1hILWZZQ2FLMlU1TU8wcGY0VTVaMUwtYktGMDFZTVdEWDc2aS1wM0plZGY1OXkzN25pLU9KNGRxSEdnUm5XSm1OM2lsekU0SFNLUHVzSVp3cl9Xc1o5WjBkYmx2U3hqY2owclhlMnZ0RXFEZHZ2SzVqb3hvbk80a0pfUGxxUHBKWDI0WHRVWG9OcnNfWmVsSmdybWdFbkxia25zSno2TjRNT1lFNU1lRzJwU0h6ejA1WkdVa1VOaTRHbzJQUjJTM2ZVVlNqRnVnRHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cde0a32f8940",
-      "title": "Groot onderzoek: Eén bepaalde factor kan je risico op kanker vijf keer verhogen - wibnet.nl",
-      "published": "2026-05-23T20:00:37+00:00",
-      "summary": "Groot onderzoek: Eén bepaalde factor kan je risico op kanker vijf keer verhogen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVk4dE1OVS1OYTFaZ1FhZUhkSjBFSFN5dXNPS2hMYnZjbFRNTWZMTHVrRW5zSExfNkZDSWtsMWgtdWNRTXZuYlFVamc1d0dYNmtVRzVvSENGQzRoNXhOVHhqZGR2VDhraHdORlhPLWVWaXU1TndqMU5FWHp6R2VBSmNsaVpGaW1wM2p1RV80aVJ6b2NjZWhlbEFwemZPVmp6VXA2ZTRWejlmcWc?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1EzYXBfZnlmS0lXTmFhM0FhZkw2dGhiZnhfOEM3cVY0RHRYQXlqaVE5M2ExMEJoQk9tSk1IdEl3blVvb2Y1OVkwY0VwVWZMNFVEY0ZlRmZaaTcxS2dSc04taEcycmtNMDNUckFUUFZ4clVkc1JBSzcyTzBxUlVoaGd1QTQ1Q2NNTXR5Rk1oaElSS21kRk1MbEpRSkFSM0JrRFIwUmEtcGVzS0g2bUE5MV94NnI2QTdVeHc?oc=5"
         }
       ]
     }

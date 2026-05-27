@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-27T15:33:49.438849+00:00",
-  "count": 5,
+  "fetched_at": "2026-05-27T20:11:02.107250+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "8ee7be447605",
-      "title": "Advies: start geen vaccinatieprogramma tegen meningokokken B - RTL.nl",
-      "published": "2026-05-27T10:03:39+00:00",
-      "summary": "Advies: start geen vaccinatieprogramma tegen meningokokken B&nbsp;&nbsp;RTL.nlOndanks uitbraak in VK, worden vaccinaties tegen meningokokken B niet opgenomen rijksprogramma&nbsp;&nbsp;AD.nlGezondheidsraad: geen meningokokken B-vaccin in rijksprogramma&nbsp;&nbsp;De TelegraafHermans neemt advies over: geen vaccin tegen meningokokken B&nbsp;&nbsp;Haarlems DagbladNa uitbraak meningokokken in VK: moet de prik in ons land vergoed worden?&nbsp;&nbsp;De Gelderlander",
+      "id": "8ea79ef2af04",
+      "title": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma - NOS",
+      "published": "2026-05-27T18:57:53+00:00",
+      "summary": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma&nbsp;&nbsp;NOSOndanks uitbraak in VK, worden vaccinaties tegen meningokokken B niet opgenomen rijksprogramma&nbsp;&nbsp;AD.nlGezondheidsraad: geen meningokokken B-vaccin in rijksprogramma&nbsp;&nbsp;De TelegraafHermans neemt advies over: geen vaccin tegen meningokokken B&nbsp;&nbsp;Haarlems DagbladVaccinatie tegen meningokokken B vooralsnog niet invoeren&nbsp;&nbsp;Gezondheidsraad",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUduVEJvMHpwWC1pVjFEb3NDcTByRFdadk96am1SWWxpY3NTMVhwT2JxSUdySmh5a09KMmgzd3NIeHFpZ2tUQlpnaVVKNGlKWWJieGc4bFgxUFNBdU9CdHhpRElwQmhqbjFMSWFfbG5ocnhOSDRHZ2VwZlJvR2VOaHU4Ul8yMWVnUlFsTXdoM291SUhfS3NzdnAzNUFBeU9mSzVFUkl1cFZWUlJUVk1TVUtR?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFpHY3dVOFNRaFR2WFN3dGVwRlJkckJxYV8zQzJfZW1OQVdXSkJ6UGdzWDJVR3ZzaUhZbC14WGpweFhmTFA4Tl92cFBiYl83RGtkSnBUZER6bEJ4R01FS3dRbWg4ZjJxSnpULTRlLWFmRHp4YVR1SjlYbW9MMExJaDZMRjNiTzNjU3pGTGMxS1lEWlprVUN6dEx1TDQ?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "deed7aa058f5",
       "title": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen - NOS",
       "published": "2026-05-26T18:55:03+00:00",
-      "summary": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen&nbsp;&nbsp;NOSAlleen met internationale samenwerking is ebola te bestrijden&nbsp;&nbsp;NRCIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantOeganda sluit grens met Congo vanwege ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladEbola-vaccins in de maak, met techniek achter Covid-19-vaccins als basis&nbsp;&nbsp;bnr.nl",
+      "summary": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen&nbsp;&nbsp;NOSGeneesmiddelen voor ebola kunnen snel klaar zijn&nbsp;&nbsp;NRCIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantEbola-vaccins in de maak, met techniek achter Covid-19-vaccins als basis&nbsp;&nbsp;bnr.nlOeganda sluit grens met Congo vanwege ebola-uitbraak&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -28,14 +28,26 @@
       ]
     },
     {
-      "id": "af69d0e0e4f7",
-      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - De Gelderlander",
-      "published": "2026-05-27T04:48:00+00:00",
-      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;De Gelderlander",
+      "id": "f94f26f30e7c",
+      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - pzc.nl",
+      "published": "2026-05-27T06:05:00+00:00",
+      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;pzc.nl",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSzcyalpDR3VKNWJQX2tTMnZWWG1CRFBPSnlZLURiMm5BSWxHLUwwUm1lU1RNUDR6TFVyV1NrRmNmRURuOFR2em5RekFhUzUwWWN2MUpHUUtsemhlbTlRdDlkaHNON19kUGF2UUVHb2U5TWpPQ21ZNHJScERubXNpU1pfbG1Ob0R5V3oteGplQlE2OFJVamd5WnVuQVpWRFQ4a09mQU5naExxQllfRWhxZDh1ZGNORnc1Y0x2d3RzUEEzcDExdHN0RmdFYWFncUtPdFhOaUNqSFJuUQ?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2lmUlh6bEVXVk1fdGVuZERLTnZ1RHlfRWMzM0swenkzOGUySDMtUVlPOElaNWdjcFhDOUs1MUhxdEpESnFMbkhPWi1wM1dMZ2JHSXRhdE5CeGNvRk0tS1J2RmpmbFpFaWtvSFVRQ2k2ZWRMaHpRNFJQckdjdUhxZDF6ZHdvRlpRNzF3WExFbHhSbUI5c0QwS0VxTlN3cy10Nk15QzEtaVVMOFZFdDdJWG41VWFRbnNOeEFVbTkyRzhjeVRQcjlEaDNoT2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1940f0205c2b",
+      "title": "Bredase viroloog waarschuwt: nú kennis opdoen over muggen en muggenziektes - Omroep Brabant",
+      "published": "2026-05-27T04:30:15+00:00",
+      "summary": "Bredase viroloog waarschuwt: nú kennis opdoen over muggen en muggenziektes&nbsp;&nbsp;Omroep Brabant",
+      "sources": [
+        {
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzR3QjJNRXBpb3JwRE1RT2dYWUV4RkRiNmltM1ZUTlNCUi1tWEVnM3NDREc1eGVtazBwS25CM2hsVHM0Z296VWdBbHVOMmtjVGVZdUUzbVhVdEFMdWFWczM0YlY5Uk5tTWZVYXhMZHlIV3pMNmZTeF9EY3pNdC1MUDhWcWtNSGZTa1ZUY1pDM1ZrcmxxUjJmM3Mtc0VOZ1FwUWc2bWJWRWpQR0dIVW1XTFBtcEVmZHRi?oc=5"
         }
       ]
     },
@@ -43,7 +55,7 @@
       "id": "9d822201f4ea",
       "title": "Minder condooms, meer soa’s: waarom syfilis en gonorroe razendsnel oprukken in Europa - Welingelichte Kringen",
       "published": "2026-05-26T15:56:16+00:00",
-      "summary": "Minder condooms, meer soa’s: waarom syfilis en gonorroe razendsnel oprukken in Europa&nbsp;&nbsp;Welingelichte KringenMinder condooms, meer gonorroe: GGD maakt zich zorgen over seksuele gezondheid in Groningen&nbsp;&nbsp;RTV NoordStijging aantal besmettingen soa's, jongeren lopen tegen muur van desinformatie aan&nbsp;&nbsp;NOSMinder soa-testen, meer besmettingen: 'Altijd beter om het te weten dan om het niet te weten'&nbsp;&nbsp;RijnmondSoa’s nemen razendsnel toe en dat heeft zorgwekkende redene",
+      "summary": "Minder condooms, meer soa’s: waarom syfilis en gonorroe razendsnel oprukken in Europa&nbsp;&nbsp;Welingelichte KringenMinder condooms, meer gonorroe: GGD maakt zich zorgen over seksuele gezondheid in Groningen&nbsp;&nbsp;RTV NoordGGD ziet toename soa’s door minder veilig vrijen. Huisarts in Groningen: ‘Seks is oké maar neem ook je condoom mee’&nbsp;&nbsp;Dagblad van het NoordenStijging aantal besmettingen soa's, jongeren lopen tegen muur van desinformatie aan&nbsp;&nbsp;NOSMinder soa-testen, mee",
       "sources": [
         {
           "name": "Welingelichte Kringen",

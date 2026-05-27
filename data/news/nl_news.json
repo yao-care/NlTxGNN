@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-27T03:30:02.783233+00:00",
-  "count": 2,
+  "fetched_at": "2026-05-27T09:39:50.086145+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "07d53e5f7512",
-      "title": "Mensen met hitteberoerte op spoedeisende hulp: 'Niet onderschatten' - RTL.nl",
-      "published": "2026-05-26T14:26:17+00:00",
-      "summary": "Mensen met hitteberoerte op spoedeisende hulp: 'Niet onderschatten'&nbsp;&nbsp;RTL.nlPas op voor hitteberoerte: met deze tips blijf je veilig als het heet is&nbsp;&nbsp;Dagblad van het NoordenHeet, heter, heetst: zó herken je een hitteberoerte (en dit doe je ertegen)&nbsp;&nbsp;flair.nlAdvies ter voorkoming van hitteberoertes bij warm weer&nbsp;&nbsp;NieuwslensEssentiële gezondheidstips voor het warme seizoen.&nbsp;&nbsp;Vietnam.vn",
+      "id": "deed7aa058f5",
+      "title": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen - NOS",
+      "published": "2026-05-26T18:55:03+00:00",
+      "summary": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen&nbsp;&nbsp;NOSIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantWHO meldt negenhonderd vermoedelijke ebolabesmettingen in DRC&nbsp;&nbsp;NUEbola-vaccins in de maak, met techniek achter Covid-19-vaccins als basis&nbsp;&nbsp;bnr.nlDrie vrijwilligers van Rode Kruis overleden aan ebola&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEI4YkxtTWpYUlFkX2J6MW9VWWlpX0V3Zk5MQzdvZUFnLVdSZzNhcXNpWExlTnFCUGkwaVNmSkVQakxOc1lPSlZLMElTQ2MwQVlIcFg1Sy1ENVJCeGdDdzY5WV8tUFB6S3JsV2sxa3hMaTJDNGp2UDFCV3ltc0hRUGhJdjR0M0Z5UnZNSE5DdTJCTlhFZVg0dndSV2JDNHJvcGJYQkExRlF5QUFkUm1v?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxmLU9OUjRMWGQ4ckFfZW1hQ3IxcjdNZWRFSlhyaG96RnJ3VDFsa28yMEgxVHExdUEtYWlzeldaUWl2NG1lX0xCdll2YnBzbTNDWUEybmFQaTM4WVdpNzA0eDlIR2tBWVE0SzJNMXlyRVY2VnRNYlp2ZzFGM2RvLTBDUFNyU3Nuc3lyczBibENYWV85UjBveQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5084dbef154",
+      "title": "Oud-ziekenhuisapotheker Koos Brouwers (81) uit Oranjewoud: ‘We slikken veel te veel pillen’ - Leeuwarder Courant",
+      "published": "2026-05-26T18:31:00+00:00",
+      "summary": "Oud-ziekenhuisapotheker Koos Brouwers (81) uit Oranjewoud: ‘We slikken veel te veel pillen’&nbsp;&nbsp;Leeuwarder Courant",
+      "sources": [
+        {
+          "name": "Leeuwarder Courant",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0JIR01ub01IeFZpTWpTbC1wVHpNeGhTYVYwcEFmeUtmdlBCcGFsSkw5V3B2VkNDWmpQWTl2MEpMN0diQTFuTHJxOXM5dVNpV3AyQ2VmQ0tiQjl3Y19aOTlDT1l4OWN0QTVkM2ZTSno5c3A2cHZvMmJXOER4SDlFVVV4NEd6bFI5S1ZGUmREak9pcG1vTzc3ZmdpaVR6NFk3M1RTMlNESFFpbGxjaHI4alhodFl2aENKSEFaNTdzbFIzWVJvbDNaNzZETnRleFlv?oc=5"
         }
       ]
     },

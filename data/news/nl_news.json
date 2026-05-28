@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-28T15:43:51.854848+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-28T20:15:01.686791+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "d9ef06ff564c",
+      "title": "Eerst vader Eric, tien maanden later moeder Sophie: Merel (25) haalt geld op voor onderzoek naar kanker - AD.nl",
+      "published": "2026-05-28T06:19:00+00:00",
+      "summary": "Eerst vader Eric, tien maanden later moeder Sophie: Merel (25) haalt geld op voor onderzoek naar kanker&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVqN21pZnNlUGw2clhLR0hTU2UzMjBnX2tuLV9ndlppbmI3Ymd2aXVMZEVYMXhBSGgtX2FacXBHYkQ4ZjY5MWdoMHFydC1tdWlnRWZLZ2UxZGlFbGl6bmR5THB2d3lHRDUtT0U1bkNFRFZBcXFMWjdxX3NhZTJ1VzhESHZtZGotdmtDa2labGNuam54SzNLb0dKVXowNEZ4aGpJRjFPOFJKVzltdzV5TlQxeFNCR0JlaTB0Q3pKTXdnWm9JckRxREhkSzQyX1JPN1lXSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "8ea79ef2af04",
       "title": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma - NOS",
@@ -12,18 +24,6 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFpHY3dVOFNRaFR2WFN3dGVwRlJkckJxYV8zQzJfZW1OQVdXSkJ6UGdzWDJVR3ZzaUhZbC14WGpweFhmTFA4Tl92cFBiYl83RGtkSnBUZER6bEJ4R01FS3dRbWg4ZjJxSnpULTRlLWFmRHp4YVR1SjlYbW9MMExJaDZMRjNiTzNjU3pGTGMxS1lEWlprVUN6dEx1TDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0186890597c",
-      "title": "Waarom je juist nu extra moet opletten op teken - RTL.nl",
-      "published": "2026-05-27T11:03:52+00:00",
-      "summary": "Waarom je juist nu extra moet opletten op teken&nbsp;&nbsp;RTL.nlSteeds meer tekenbeten, maar Lyme blijft lastig te herkennen&nbsp;&nbsp;1ZwolleHet tekenseizoen gaat van start: dit is hoe je je huisdier optimaal beschermt&nbsp;&nbsp;Redactie24Dit pinksterweekend het bos in? Doe je broek in je sok tegen de teek&nbsp;&nbsp;RTV UtrechtKunnen huisdieren Lyme krijgen van een tekenbeet? Dierenartsen leggen uit&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnEwSndQN1d5YkNUMDZrTEl3MldtbHp2bGd2cUMtS3IydGpicDJHMHNGaEpSczg2Tkg2ck9BMGdfY2NHM0JqZk84VWxVWnVwdnlVbjJ1dHNLS2hyQXpLNUhGcWc4cVhXNmhvZ1VBdE1XSzQ2NVVDbEs0eUIxRGpzaV9YRQ?oc=5"
         }
       ]
     },
@@ -40,6 +40,42 @@
       ]
     },
     {
+      "id": "f94f26f30e7c",
+      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - pzc.nl",
+      "published": "2026-05-27T04:00:00+00:00",
+      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2lmUlh6bEVXVk1fdGVuZERLTnZ1RHlfRWMzM0swenkzOGUySDMtUVlPOElaNWdjcFhDOUs1MUhxdEpESnFMbkhPWi1wM1dMZ2JHSXRhdE5CeGNvRk0tS1J2RmpmbFpFaWtvSFVRQ2k2ZWRMaHpRNFJQckdjdUhxZDF6ZHdvRlpRNzF3WExFbHhSbUI5c0QwS0VxTlN3cy10Nk15QzEtaVVMOFZFdDdJWG41VWFRbnNOeEFVbTkyRzhjeVRQcjlEaDNoT2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1b68d04da0b",
+      "title": "‘Het is te simpel om te zeggen dat ultrabewerkt voedsel verslavend is’ - NRC",
+      "published": "2026-05-28T04:00:00+00:00",
+      "summary": "‘Het is te simpel om te zeggen dat ultrabewerkt voedsel verslavend is’&nbsp;&nbsp;NRC60% van onze calorieën komt uit de fabriek + de stille sloper op het Nederlandse menu&nbsp;&nbsp;GezondnuNederlanders eten opvallend veel ultrabewerkt voedsel - en dat kan slecht nieuws zijn voor je hart&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUE9JOWpvaU9YcDVaamJJMlcxT25ZalU3YnR6NkFNQ0FJR3ZabXc5MW1kXzdpQUFaOFk1WFpwZVpSWkMxdF9PNnczNFl6ZVpZTENOTzZqVWhQZ0JmRFZPNjQ1RGZ5THFkNGc3alFaRklpb25QR2hXR1FTOGc1RXNUdnF5UlIzeVlVMzgxQlk4MzlxNDlYelNIWUw0d29IUVR0dk0xaVk3SkpGNlFhdkhTRG9uNTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0186890597c",
+      "title": "Waarom je juist nu extra moet opletten op teken - RTL.nl",
+      "published": "2026-05-27T11:03:52+00:00",
+      "summary": "Waarom je juist nu extra moet opletten op teken&nbsp;&nbsp;RTL.nlSteeds meer tekenbeten, maar Lyme blijft lastig te herkennen&nbsp;&nbsp;1ZwolleHet tekenseizoen gaat van start: dit is hoe je je huisdier optimaal beschermt&nbsp;&nbsp;Redactie24Dit pinksterweekend het bos in? Doe je broek in je sok tegen de teek&nbsp;&nbsp;RTV UtrechtKunnen huisdieren Lyme krijgen van een tekenbeet? Dierenartsen leggen uit&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnEwSndQN1d5YkNUMDZrTEl3MldtbHp2bGd2cUMtS3IydGpicDJHMHNGaEpSczg2Tkg2ck9BMGdfY2NHM0JqZk84VWxVWnVwdnlVbjJ1dHNLS2hyQXpLNUhGcWc4cVhXNmhvZ1VBdE1XSzQ2NVVDbEs0eUIxRGpzaV9YRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c216af77ea00",
       "title": "GGD opent dit najaar nieuw vaccinatieloket in Eindhoven voor iedereen met vragen over prikken - Eindhovens Dagblad",
       "published": "2026-05-27T19:00:00+00:00",
@@ -48,30 +84,6 @@
         {
           "name": "Eindhovens Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmZjb1JNby1NVWd5SUpUQklrU09mNUNvMzMtWDB6WllTWEZLbUg3N25FZ0hKenBoaUFEQmxYR2c1dXpOT3BtMUxCOW9SY2szbl9EV1JuR1ZiaEFjanBlUEZKNGtpRGFCWVUxblNUU0x6aW4zMTh4Mk1ydXVFZXExdlhaZ2t3NEhwc1ZxRWktekhQZnRyRWxlSlV2aWxpY1d5dGFfSVZBempHdE5TUXFhVkZSRFhwOHRnRDJDYUVmY3N1VlNLYWRidHN4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1940f0205c2b",
-      "title": "Bredase viroloog waarschuwt: nú kennis opdoen over muggen en muggenziektes - Omroep Brabant",
-      "published": "2026-05-27T04:30:15+00:00",
-      "summary": "Bredase viroloog waarschuwt: nú kennis opdoen over muggen en muggenziektes&nbsp;&nbsp;Omroep BrabantChikungunyavirus kan zich door klimaatverandering ook in Europa verspreiden&nbsp;&nbsp;Scientias.nlViroloog waarschuwt voor toename muggen en muggenziektes&nbsp;&nbsp;NieuwslensKlimaatverandering kan verspreiding chikungunyavirus naar Europa bevorderen&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzR3QjJNRXBpb3JwRE1RT2dYWUV4RkRiNmltM1ZUTlNCUi1tWEVnM3NDREc1eGVtazBwS25CM2hsVHM0Z296VWdBbHVOMmtjVGVZdUUzbVhVdEFMdWFWczM0YlY5Uk5tTWZVYXhMZHlIV3pMNmZTeF9EY3pNdC1MUDhWcWtNSGZTa1ZUY1pDM1ZrcmxxUjJmM3Mtc0VOZ1FwUWc2bWJWRWpQR0dIVW1XTFBtcEVmZHRi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f94f26f30e7c",
-      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - pzc.nl",
-      "published": "2026-05-27T04:00:00+00:00",
-      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;pzc.nl",
-      "sources": [
-        {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2lmUlh6bEVXVk1fdGVuZERLTnZ1RHlfRWMzM0swenkzOGUySDMtUVlPOElaNWdjcFhDOUs1MUhxdEpESnFMbkhPWi1wM1dMZ2JHSXRhdE5CeGNvRk0tS1J2RmpmbFpFaWtvSFVRQ2k2ZWRMaHpRNFJQckdjdUhxZDF6ZHdvRlpRNzF3WExFbHhSbUI5c0QwS0VxTlN3cy10Nk15QzEtaVVMOFZFdDdJWG41VWFRbnNOeEFVbTkyRzhjeVRQcjlEaDNoT2w?oc=5"
         }
       ]
     },

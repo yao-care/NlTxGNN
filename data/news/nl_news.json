@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-27T20:11:02.107250+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-28T02:50:31.227896+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "8ea79ef2af04",
-      "title": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma - NOS",
-      "published": "2026-05-27T18:57:53+00:00",
-      "summary": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma&nbsp;&nbsp;NOSOndanks uitbraak in VK, worden vaccinaties tegen meningokokken B niet opgenomen rijksprogramma&nbsp;&nbsp;AD.nlGezondheidsraad: geen meningokokken B-vaccin in rijksprogramma&nbsp;&nbsp;De TelegraafHermans neemt advies over: geen vaccin tegen meningokokken B&nbsp;&nbsp;Haarlems DagbladVaccinatie tegen meningokokken B vooralsnog niet invoeren&nbsp;&nbsp;Gezondheidsraad",
+      "id": "07f99f11f3d2",
+      "title": "Geneesmiddelen voor ebola kunnen snel klaar zijn - NRC",
+      "published": "2026-05-27T13:14:29+00:00",
+      "summary": "Geneesmiddelen voor ebola kunnen snel klaar zijn&nbsp;&nbsp;NRCStrijd tegen ebola in Congo is ook een strijd tegen wantrouwen&nbsp;&nbsp;NOSIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantOeganda sluit grens met Congo vanwege ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladEbola-vaccins in de maak, met techniek achter Covid-19-vaccins als basis&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFpHY3dVOFNRaFR2WFN3dGVwRlJkckJxYV8zQzJfZW1OQVdXSkJ6UGdzWDJVR3ZzaUhZbC14WGpweFhmTFA4Tl92cFBiYl83RGtkSnBUZER6bEJ4R01FS3dRbWg4ZjJxSnpULTRlLWFmRHp4YVR1SjlYbW9MMExJaDZMRjNiTzNjU3pGTGMxS1lEWlprVUN6dEx1TDQ?oc=5"
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2RQbFA1cWJyNEJHQmVrOGUzdW02THczR3d6dFNmQUZ5OE1XaVVyMFNQamYyMGNHLUJyLWVXaGVGZFAyMFpsT1hZcEtPbzZYaVhqYjNsVzBvU3I4U3NhTE1pd0ZsYVJlT00xanJ3Uk9qYUVUTHNuQjh6U0JrRXdDR0hNZTR3SWZKV3VpWDUySnI1YjhBYjFhUUl3?oc=5"
         }
       ]
     },
     {
-      "id": "deed7aa058f5",
-      "title": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen - NOS",
-      "published": "2026-05-26T18:55:03+00:00",
-      "summary": "Strijd tegen ebola in Congo is ook een strijd tegen wantrouwen&nbsp;&nbsp;NOSGeneesmiddelen voor ebola kunnen snel klaar zijn&nbsp;&nbsp;NRCIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantEbola-vaccins in de maak, met techniek achter Covid-19-vaccins als basis&nbsp;&nbsp;bnr.nlOeganda sluit grens met Congo vanwege ebola-uitbraak&nbsp;&nbsp;Haarlems Dagblad",
+      "id": "8ea79ef2af04",
+      "title": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma - NOS",
+      "published": "2026-05-27T18:57:53+00:00",
+      "summary": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma&nbsp;&nbsp;NOSOndanks uitbraak in VK, worden vaccinaties tegen meningokokken B niet opgenomen rijksprogramma&nbsp;&nbsp;AD.nlGezondheidsraad: geen meningokokken B-vaccin in rijksprogramma&nbsp;&nbsp;De TelegraafHermans neemt advies over: geen vaccin tegen meningokokken B&nbsp;&nbsp;Haarlems DagbladNa uitbraak meningokokken in VK: moet de prik in ons land vergoed worden?&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
           "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxmLU9OUjRMWGQ4ckFfZW1hQ3IxcjdNZWRFSlhyaG96RnJ3VDFsa28yMEgxVHExdUEtYWlzeldaUWl2NG1lX0xCdll2YnBzbTNDWUEybmFQaTM4WVdpNzA0eDlIR2tBWVE0SzJNMXlyRVY2VnRNYlp2ZzFGM2RvLTBDUFNyU3Nuc3lyczBibENYWV85UjBveQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFpHY3dVOFNRaFR2WFN3dGVwRlJkckJxYV8zQzJfZW1OQVdXSkJ6UGdzWDJVR3ZzaUhZbC14WGpweFhmTFA4Tl92cFBiYl83RGtkSnBUZER6bEJ4R01FS3dRbWg4ZjJxSnpULTRlLWFmRHp4YVR1SjlYbW9MMExJaDZMRjNiTzNjU3pGTGMxS1lEWlprVUN6dEx1TDQ?oc=5"
         }
       ]
     },
@@ -48,18 +48,6 @@
         {
           "name": "Omroep Brabant",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzR3QjJNRXBpb3JwRE1RT2dYWUV4RkRiNmltM1ZUTlNCUi1tWEVnM3NDREc1eGVtazBwS25CM2hsVHM0Z296VWdBbHVOMmtjVGVZdUUzbVhVdEFMdWFWczM0YlY5Uk5tTWZVYXhMZHlIV3pMNmZTeF9EY3pNdC1MUDhWcWtNSGZTa1ZUY1pDM1ZrcmxxUjJmM3Mtc0VOZ1FwUWc2bWJWRWpQR0dIVW1XTFBtcEVmZHRi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d822201f4ea",
-      "title": "Minder condooms, meer soa’s: waarom syfilis en gonorroe razendsnel oprukken in Europa - Welingelichte Kringen",
-      "published": "2026-05-26T15:56:16+00:00",
-      "summary": "Minder condooms, meer soa’s: waarom syfilis en gonorroe razendsnel oprukken in Europa&nbsp;&nbsp;Welingelichte KringenMinder condooms, meer gonorroe: GGD maakt zich zorgen over seksuele gezondheid in Groningen&nbsp;&nbsp;RTV NoordGGD ziet toename soa’s door minder veilig vrijen. Huisarts in Groningen: ‘Seks is oké maar neem ook je condoom mee’&nbsp;&nbsp;Dagblad van het NoordenStijging aantal besmettingen soa's, jongeren lopen tegen muur van desinformatie aan&nbsp;&nbsp;NOSMinder soa-testen, mee",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzFfaDdSVThyQ2dFQ2t5N0gwNmVXM0xrUXhYSTF6MmU0aHQwNVY0X0JjNDZnZTR0blA0MVJXNnJvbW5xdVNueTIwMmUzazBaTXNDYnJwLXpTanZydFZRR3gyRmRGWUtQdEJwYy0xS1lHRHczVnBQX0NCUVgtbXBtbGFMekR4Mm8?oc=5"
         }
       ]
     },

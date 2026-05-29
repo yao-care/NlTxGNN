@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-29T14:55:56.770877+00:00",
+  "fetched_at": "2026-05-29T20:20:33.790316+00:00",
   "count": 6,
   "news": [
     {
       "id": "04d7eb8a9d0d",
       "title": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo - RTL.nl",
       "published": "2026-05-29T11:50:48+00:00",
-      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUKlaasje (52) uit Staphorst woont en werkt in Bunia, Congo, het epicentrum van de dodelijke ebola-epidemie&nbsp;&nbsp;Dagblad van het NoordenSociale onrust in Congo door ebolamaatregelen&nbsp;&nbsp;Reformatorisch DagbladAantal bevestigde gevallen van ebola in Oeganda stijgt naar acht&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUKlaasje (52) uit Staphorst woont en werkt in Bunia, Congo, het epicentrum van de dodelijke ebola-epidemie&nbsp;&nbsp;Dagblad van het NoordenIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Con",
       "sources": [
         {
           "name": "RTL.nl",
@@ -24,18 +24,6 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUE9JOWpvaU9YcDVaamJJMlcxT25ZalU3YnR6NkFNQ0FJR3ZabXc5MW1kXzdpQUFaOFk1WFpwZVpSWkMxdF9PNnczNFl6ZVpZTENOTzZqVWhQZ0JmRFZPNjQ1RGZ5THFkNGc3alFaRklpb25QR2hXR1FTOGc1RXNUdnF5UlIzeVlVMzgxQlk4MzlxNDlYelNIWUw0d29IUVR0dk0xaVk3SkpGNlFhdkhTRG9uNTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ea79ef2af04",
-      "title": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma - NOS",
-      "published": "2026-05-27T18:57:53+00:00",
-      "summary": "Vaccinatie tegen meningokokken B niet in rijksvaccinatieprogramma&nbsp;&nbsp;NOSOndanks uitbraak in VK, worden vaccinaties tegen meningokokken B niet opgenomen rijksprogramma&nbsp;&nbsp;AD.nlGezondheidsraad: geen meningokokken B-vaccin in rijksprogramma&nbsp;&nbsp;De TelegraafHermans neemt advies over: geen vaccin tegen meningokokken B&nbsp;&nbsp;Haarlems Dagblad‘Vaccinatie tegen meningokokken B vooralsnog niet invoeren’&nbsp;&nbsp;Pharmaceutisch Weekblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFpHY3dVOFNRaFR2WFN3dGVwRlJkckJxYV8zQzJfZW1OQVdXSkJ6UGdzWDJVR3ZzaUhZbC14WGpweFhmTFA4Tl92cFBiYl83RGtkSnBUZER6bEJ4R01FS3dRbWg4ZjJxSnpULTRlLWFmRHp4YVR1SjlYbW9MMExJaDZMRjNiTzNjU3pGTGMxS1lEWlprVUN6dEx1TDQ?oc=5"
         }
       ]
     },
@@ -72,6 +60,18 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZDQk0zczduY2NNbTZDU0VKU0NrWXc3Nm4yeVlUSnJmUmV3cmxEYWZRQWhCbU5VTk9hYzJaNUZRZTZNcVZQV0JwY0lJRWNhT3VoM2NHd0p5aDJJc0xNOHhuMGRFQ2RUczB1amxxdTRBVG5CcEdkbXlGeW1oaG9BeXZyTndZbHFmQzkyMHhCb0dKMkhJRWR2VzNpQzBzWDVXLUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "779131a4a77a",
+      "title": "Geprikt worden door brandnetels biedt geen gezondheidsvoordelen - gezondheidenwetenschap.be",
+      "published": "2026-05-28T08:24:03+00:00",
+      "summary": "Geprikt worden door brandnetels biedt geen gezondheidsvoordelen&nbsp;&nbsp;gezondheidenwetenschap.be",
+      "sources": [
+        {
+          "name": "gezondheidenwetenschap.be",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHVITGREZFpYRjJwbW1QRHFpcFRPb21kZmh0bUNGeWhYeG5sa21nRDd2YUFuemd3YmJPTXNNRWl4c3dybXJybUhZM2Jrd0lUbGZKM01NakRGemZWQ0x1YnpNT3FoSHE2RFZ3WFFRai1oY0JoWFZ1Xzd5ZnoyMHdDamhPMExqaEh5cHQzYU5IejlUNnowRlJnWEFjdGRCRmtBYWNyWllxR3B5cDV1c2VKMTNZbHRJcFJsRTQ2eWZaODEwdw?oc=5"
         }
       ]
     }

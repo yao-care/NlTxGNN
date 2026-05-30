@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-30T02:47:30.943836+00:00",
-  "count": 7,
+  "fetched_at": "2026-05-30T08:24:42.347911+00:00",
+  "count": 8,
   "news": [
     {
       "id": "04d7eb8a9d0d",
@@ -16,26 +16,38 @@
       ]
     },
     {
-      "id": "6bb0b03e70c0",
-      "title": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen - AD.nl",
-      "published": "2026-05-29T09:00:00+00:00",
-      "summary": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen&nbsp;&nbsp;AD.nl",
+      "id": "abda0772f241",
+      "title": "Onderzoek: betere slaap en minder depressie onder kinderen zonder telefoon - NOS",
+      "published": "2026-05-28T10:49:40+00:00",
+      "summary": "Onderzoek: betere slaap en minder depressie onder kinderen zonder telefoon&nbsp;&nbsp;NOSKabinet wil gat in de begroting dichten door het ophogen van de verkeersboetes&nbsp;&nbsp;bnnvara",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSjFBdXVaa2VJUDlpREhqY0ZXTjhLb0EtdXV4WlFrTE5LaUVHSy1ESjhEWGZabDhoT01zSDdJeUpPRkxRMVVsRURnWHBhU2IyckIzbGY5WFM0aUtnSzZqTU1PMW9OSk90RUV3Vk5ZMkVZcEt0MUxWZ3hoM0tOMFJGck5PWUFPUkhWS28tLWg5T05KY2dNTTlqMFJWQ3Iwb0h2bE8tUGpiZEptcnF6Sl90YWhqVTF4VWU5X0xpSXBNOVgtYXItOGl0WQ?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGNCSDM0M0p5aGhPQ0xMWmV2blItbTl0bjhOR0kyeDl5d0tmRGRzdVpQZXJ0emJQdVJBTTduMGF0b1FLRHlMQTU4Wi1LQWlSOW1pemM2MUtWTzllckllRFRZUGViS2NuQUhVSERxZFA5ZF9ZYWhoSmQ5aEhabVhicXpOcW00VDVrdlowVTlyUEgwWEcxby1IVmoxVGVNLUtYNy16UEUzOA?oc=5"
         }
       ]
     },
     {
-      "id": "f1b68d04da0b",
-      "title": "‘Het is te simpel om te zeggen dat ultrabewerkt voedsel verslavend is’ - NRC",
-      "published": "2026-05-28T04:00:00+00:00",
-      "summary": "‘Het is te simpel om te zeggen dat ultrabewerkt voedsel verslavend is’&nbsp;&nbsp;NRC60% van onze calorieën komt uit de fabriek + de stille sloper op het Nederlandse menu&nbsp;&nbsp;GezondnuNederlanders eten opvallend veel ultrabewerkt voedsel - en dat kan slecht nieuws zijn voor je hart&nbsp;&nbsp;MSN",
+      "id": "246170c23025",
+      "title": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen - De Gelderlander",
+      "published": "2026-05-29T09:00:00+00:00",
+      "summary": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUE9JOWpvaU9YcDVaamJJMlcxT25ZalU3YnR6NkFNQ0FJR3ZabXc5MW1kXzdpQUFaOFk1WFpwZVpSWkMxdF9PNnczNFl6ZVpZTENOTzZqVWhQZ0JmRFZPNjQ1RGZ5THFkNGc3alFaRklpb25QR2hXR1FTOGc1RXNUdnF5UlIzeVlVMzgxQlk4MzlxNDlYelNIWUw0d29IUVR0dk0xaVk3SkpGNlFhdkhTRG9uNTg?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUlGcUlNOVlVTW5YM0w5d1lrc0VOakFSZTh5Ym1YVUdlemw0cTg1b3RfUWVSOGIxdU9KZEZ3OVJ0WnViQ3F0ZGFtV2FKaDR6N1Y2U0VmMTJMY0xTcWJPWmVsMG1oTVJhNV9iVUJFSWVnS0JPdHBPSWdHZlJkMlZJREZGclRON1ZkSDU0YldZc2lablN4bHF0ZU80MjZLM2k2RXdXNmRqTkNFU29aX3lNQUhLYnNvVkJsN3lLeUVfU2dPa2lTdXBNM0kyVF9uMnh0UlNtTjhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef96641c8ead",
+      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - Libelle",
+      "published": "2026-05-29T17:33:49+00:00",
+      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;LibelleMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWVqUVZfaUhPYW02OXpOdENVeE0tNFRGTUhNUktPeVVUanI3TUVsNGV4LS1adWNqYzlIS25GeE9WajlxcktLQ2FvblpBYTRXcURSeU5mTlotN1VRQ1ZzOGFiZFA4LUNLdzNWNTZ4VWdFVEtmeWItazRBVW9jajFYMkZpRlpJOXAxNUY0UkNqSnltZw?oc=5"
         }
       ]
     },

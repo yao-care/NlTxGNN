@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-29T20:20:33.790316+00:00",
-  "count": 6,
+  "fetched_at": "2026-05-30T02:47:30.943836+00:00",
+  "count": 7,
   "news": [
     {
       "id": "04d7eb8a9d0d",
       "title": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo - RTL.nl",
       "published": "2026-05-29T11:50:48+00:00",
-      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUKlaasje (52) uit Staphorst woont en werkt in Bunia, Congo, het epicentrum van de dodelijke ebola-epidemie&nbsp;&nbsp;Dagblad van het NoordenIncubatietijd, dat woord kent u nog van corona. Welke taal rondom de ebola-uitbraak valt verder op?&nbsp;&nbsp;de VolkskrantWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Con",
+      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUKlaasje (52) uit Staphorst woont en werkt in Bunia, Congo, het epicentrum van de dodelijke ebola-epidemie&nbsp;&nbsp;Dagblad van het NoordenSociale onrust in Congo door ebolamaatregelen&nbsp;&nbsp;Reformatorisch DagbladWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Congo&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXg0bGc5b2pvRXJPU3lGbXpvb3UzN1NDNXMwS2V1QmpMakR2X2o5QnZIN0w0VFN0MUhPNFdzVm45WmxZc0tTd1pTaWNTZzdMNG1PU2lSc092UEFkbkhhaEtsTng1bmljVEx5U2RfY3c5dkRrc3N0cG81ZmE2THNScEg4RHBDcm4zUFpMSWZkc0JVUUV5YXUwaGhLbVNDZXd2UzhFMUlhQ0pJa0pETlhqRzZUYnZyZGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bb0b03e70c0",
+      "title": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen - AD.nl",
+      "published": "2026-05-29T09:00:00+00:00",
+      "summary": "Blaaskanker in top 5 van meest voorkomende kankers, maar wordt pas laat ontdekt bij vrouwen&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSjFBdXVaa2VJUDlpREhqY0ZXTjhLb0EtdXV4WlFrTE5LaUVHSy1ESjhEWGZabDhoT01zSDdJeUpPRkxRMVVsRURnWHBhU2IyckIzbGY5WFM0aUtnSzZqTU1PMW9OSk90RUV3Vk5ZMkVZcEt0MUxWZ3hoM0tOMFJGck5PWUFPUkhWS28tLWg5T05KY2dNTTlqMFJWQ3Iwb0h2bE8tUGpiZEptcnF6Sl90YWhqVTF4VWU5X0xpSXBNOVgtYXItOGl0WQ?oc=5"
         }
       ]
     },

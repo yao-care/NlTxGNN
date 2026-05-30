@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-30T13:22:37.018351+00:00",
+  "fetched_at": "2026-05-30T19:07:29.084131+00:00",
   "count": 4,
   "news": [
     {
-      "id": "04d7eb8a9d0d",
-      "title": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo - RTL.nl",
-      "published": "2026-05-29T11:50:48+00:00",
-      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO-topman Tedros aangekomen in Congolese regio ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Congo&nbsp;&nbsp;Noordhollands DagbladWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUSociale onrust in Congo door ebolamaatregelen&nbsp;&nbsp;Reformatorisch Dagblad",
+      "id": "f213c3f6c368",
+      "title": "WHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt - NOS",
+      "published": "2026-05-30T16:58:06+00:00",
+      "summary": "WHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSZorgen om kinderen in landen waar ebola is&nbsp;&nbsp;NOS JeugdjournaalWHO-topman Tedros aangekomen in Congolese regio ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Congo&nbsp;&nbsp;Noordhollands DagbladWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NU",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXg0bGc5b2pvRXJPU3lGbXpvb3UzN1NDNXMwS2V1QmpMakR2X2o5QnZIN0w0VFN0MUhPNFdzVm45WmxZc0tTd1pTaWNTZzdMNG1PU2lSc092UEFkbkhhaEtsTng1bmljVEx5U2RfY3c5dkRrc3N0cG81ZmE2THNScEg4RHBDcm4zUFpMSWZkc0JVUUV5YXUwaGhLbVNDZXd2UzhFMUlhQ0pJa0pETlhqRzZUYnZyZGc?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZG1EdElkaWNaM0hjQWVQdG1JRDNLSFQ2bFlvVzRUeUk3TDdqdXNRbmoxeTI4UlhwRHVLVzF1djlOa0FDNjl2RDk1cWRpNzFjMDJBTlp3RVdMVG9sdW1YYTBsdDZ0QmcybnJJOVJQeTVybWNkNUdrMDJ3czVVM2V1RVZLUTBydzE5Rm9hYk5WLXVUMjRlRDk5c01LQkhVX1lNUHc?oc=5"
         }
       ]
     },
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "8816e54a42d9",
+      "title": "De 7 geboden van de proteïnegekte: ‘De skyr-obsessie is wetenschappelijk volledig verantwoord’ - Knack",
+      "published": "2026-05-30T08:00:00+00:00",
+      "summary": "De 7 geboden van de proteïnegekte: ‘De skyr-obsessie is wetenschappelijk volledig verantwoord’&nbsp;&nbsp;KnackIs proteïne écht zo belangrijk? Sportarts legt uit: ’Zeker oudere mensen eten ze vaak te weinig’&nbsp;&nbsp;De TelegraafDit is waarom je een opgeblazen buik kan krijgen na het eten van eiwitten: “Maar er is een voor de hand liggende oplossing”&nbsp;&nbsp;HLNDe eiwit-hype&nbsp;&nbsp;Omroep BrabantZijn eiwitten écht zo belangrijk? Sportarts legt uit: ’Zeker oudere mensen eten ze vaak te w",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelFDQWZQbGZERXg1dmZXZmlqdGdheEtGa0lTS1V4S2cyb3FVVWY3VXhFdEt0ZnlUdWZEYVRHX3dha0hXbC1kNFl2WUd4Ni1zSVpXQzhQVzJzVUdEcWlhN2pzT0Rhd09KUVdlUndEblVLLS1helYtQ1Itd0Vqcm9TS2wtMVUwQ1MxdTRpRDZCR0tuMkFfUGt0MjhXYU0tb0VadWZ6d2VuWXlpQkMwMk9pNWxneDFLbzNQd2kxQ0hSZlZPaU5rZGtBcXotQWtKU0lR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "64c0404fe476",
       "title": "Familie Salimans uit Nederweert schenkt € 11.000 aan strijd tegen kanker - Nederweert24",
       "published": "2026-05-29T07:12:42+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "Nederweert24",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3A0STZnQjBtQU9ld1psTkF0eWlySU5sNVY2NTk3YUlYVk5JbGJxU2kxeVdWWnprOVJpbkRKYjJDUGV6TGVwZ2dhTFJjNXR0dnJFRVJmd3cwaGhHYm9ULW1LMi1lcF9hR0Jkd1B2ZWM1MUlWRy12YkhGaHU2VHlYdmdsemQtV0VCRVdqQm1FYmxsNmJXWHcyX2ZHSkQtYkluSU9jMHpCTmhlNTNmTzZOVjd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90a58c2af1ed",
-      "title": "Onderzoek: je brein heeft 3 goede nachten nodig na één slechte nacht slaap - Metronieuws.nl",
-      "published": "2026-05-28T14:24:00+00:00",
-      "summary": "Onderzoek: je brein heeft 3 goede nachten nodig na één slechte nacht slaap&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDY5MHpUZHpLQlNMZVNoZmdXYmhJemRXa3VQcEpCYWNxY1JfX05LYU9xb0hsZ0hKVl9rc0w2dHdSMEpmX2F1OVVXT3dkT2V4WEdIZjRnVUlCZ2tyWVdSTDZqREVvQW85aVZfc2tJUm5UQll4OFljVVpWMElZUXN1T3VUMWlZQ1ZxSlpFS1NKR3NtaS1QSm5YajJhRG9NLVU1SUc1bmYzaDN4NTdZblVjZVpISnc3ZEgyMUJJSUY3WTVYTTdvSXhhSXpn?oc=5"
         }
       ]
     }

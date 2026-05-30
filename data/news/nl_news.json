@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-30T08:24:42.347911+00:00",
-  "count": 8,
+  "fetched_at": "2026-05-30T13:22:37.018351+00:00",
+  "count": 4,
   "news": [
     {
       "id": "04d7eb8a9d0d",
       "title": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo - RTL.nl",
       "published": "2026-05-29T11:50:48+00:00",
-      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUKlaasje (52) uit Staphorst woont en werkt in Bunia, Congo, het epicentrum van de dodelijke ebola-epidemie&nbsp;&nbsp;Dagblad van het NoordenSociale onrust in Congo door ebolamaatregelen&nbsp;&nbsp;Reformatorisch DagbladWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Congo&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "WHO meldt eerste bevestigde herstel ebolapatiënt bij uitbraak in Congo&nbsp;&nbsp;RTL.nlWHO-topman Tedros aangekomen in Congolese regio ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladWHO meldt eerste bevestigde herstel ebolapatiënt uitbraak Congo&nbsp;&nbsp;Noordhollands DagbladWHO spreekt van 'catastrofale combinatie' ebola en oorlogsgeweld in Congo&nbsp;&nbsp;NUSociale onrust in Congo door ebolamaatregelen&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXg0bGc5b2pvRXJPU3lGbXpvb3UzN1NDNXMwS2V1QmpMakR2X2o5QnZIN0w0VFN0MUhPNFdzVm45WmxZc0tTd1pTaWNTZzdMNG1PU2lSc092UEFkbkhhaEtsTng1bmljVEx5U2RfY3c5dkRrc3N0cG81ZmE2THNScEg4RHBDcm4zUFpMSWZkc0JVUUV5YXUwaGhLbVNDZXd2UzhFMUlhQ0pJa0pETlhqRzZUYnZyZGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abda0772f241",
-      "title": "Onderzoek: betere slaap en minder depressie onder kinderen zonder telefoon - NOS",
-      "published": "2026-05-28T10:49:40+00:00",
-      "summary": "Onderzoek: betere slaap en minder depressie onder kinderen zonder telefoon&nbsp;&nbsp;NOSKabinet wil gat in de begroting dichten door het ophogen van de verkeersboetes&nbsp;&nbsp;bnnvara",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGNCSDM0M0p5aGhPQ0xMWmV2blItbTl0bjhOR0kyeDl5d0tmRGRzdVpQZXJ0emJQdVJBTTduMGF0b1FLRHlMQTU4Wi1LQWlSOW1pemM2MUtWTzllckllRFRZUGViS2NuQUhVSERxZFA5ZF9ZYWhoSmQ5aEhabVhicXpOcW00VDVrdlowVTlyUEgwWEcxby1IVmoxVGVNLUtYNy16UEUzOA?oc=5"
         }
       ]
     },
@@ -36,18 +24,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUlGcUlNOVlVTW5YM0w5d1lrc0VOakFSZTh5Ym1YVUdlemw0cTg1b3RfUWVSOGIxdU9KZEZ3OVJ0WnViQ3F0ZGFtV2FKaDR6N1Y2U0VmMTJMY0xTcWJPWmVsMG1oTVJhNV9iVUJFSWVnS0JPdHBPSWdHZlJkMlZJREZGclRON1ZkSDU0YldZc2lablN4bHF0ZU80MjZLM2k2RXdXNmRqTkNFU29aX3lNQUhLYnNvVkJsN3lLeUVfU2dPa2lTdXBNM0kyVF9uMnh0UlNtTjhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef96641c8ead",
-      "title": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’ - Libelle",
-      "published": "2026-05-29T17:33:49+00:00",
-      "summary": "Artsen waarschuwen voor ‘silent killer’ onder de organen: ‘80 procent komt pas als het te laat is’&nbsp;&nbsp;LibelleMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWVqUVZfaUhPYW02OXpOdENVeE0tNFRGTUhNUktPeVVUanI3TUVsNGV4LS1adWNqYzlIS25GeE9WajlxcktLQ2FvblpBYTRXcURSeU5mTlotN1VRQ1ZzOGFiZFA4LUNLdzNWNTZ4VWdFVEtmeWItazRBVW9jajFYMkZpRlpJOXAxNUY0UkNqSnltZw?oc=5"
         }
       ]
     },
@@ -72,30 +48,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDY5MHpUZHpLQlNMZVNoZmdXYmhJemRXa3VQcEpCYWNxY1JfX05LYU9xb0hsZ0hKVl9rc0w2dHdSMEpmX2F1OVVXT3dkT2V4WEdIZjRnVUlCZ2tyWVdSTDZqREVvQW85aVZfc2tJUm5UQll4OFljVVpWMElZUXN1T3VUMWlZQ1ZxSlpFS1NKR3NtaS1QSm5YajJhRG9NLVU1SUc1bmYzaDN4NTdZblVjZVpISnc3ZEgyMUJJSUY3WTVYTTdvSXhhSXpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e78146e37dc",
-      "title": "16 procent minder overlijdensrisico na kanker: deze leefstijladviezen vallen op in onderzoek - Metronieuws.nl",
-      "published": "2026-05-28T10:10:00+00:00",
-      "summary": "16 procent minder overlijdensrisico na kanker: deze leefstijladviezen vallen op in onderzoek&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZDQk0zczduY2NNbTZDU0VKU0NrWXc3Nm4yeVlUSnJmUmV3cmxEYWZRQWhCbU5VTk9hYzJaNUZRZTZNcVZQV0JwY0lJRWNhT3VoM2NHd0p5aDJJc0xNOHhuMGRFQ2RUczB1amxxdTRBVG5CcEdkbXlGeW1oaG9BeXZyTndZbHFmQzkyMHhCb0dKMkhJRWR2VzNpQzBzWDVXLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "779131a4a77a",
-      "title": "Geprikt worden door brandnetels biedt geen gezondheidsvoordelen - gezondheidenwetenschap.be",
-      "published": "2026-05-28T08:24:03+00:00",
-      "summary": "Geprikt worden door brandnetels biedt geen gezondheidsvoordelen&nbsp;&nbsp;gezondheidenwetenschap.be",
-      "sources": [
-        {
-          "name": "gezondheidenwetenschap.be",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHVITGREZFpYRjJwbW1QRHFpcFRPb21kZmh0bUNGeWhYeG5sa21nRDd2YUFuemd3YmJPTXNNRWl4c3dybXJybUhZM2Jrd0lUbGZKM01NakRGemZWQ0x1YnpNT3FoSHE2RFZ3WFFRai1oY0JoWFZ1Xzd5ZnoyMHdDamhPMExqaEh5cHQzYU5IejlUNnowRlJnWEFjdGRCRmtBYWNyWllxR3B5cDV1c2VKMTNZbHRJcFJsRTQ2eWZaODEwdw?oc=5"
         }
       ]
     }

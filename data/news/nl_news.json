@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-05-31T19:12:43.807447+00:00",
+  "fetched_at": "2026-06-01T03:42:29.863864+00:00",
   "count": 4,
   "news": [
     {
-      "id": "826b87bb1fb0",
-      "title": "Snelle verspreiding ebola in Congo is ‘zeer alarmerend’, aldus Artsen Zonder Grenzen - de Volkskrant",
-      "published": "2026-05-31T08:46:00+00:00",
-      "summary": "Snelle verspreiding ebola in Congo is ‘zeer alarmerend’, aldus Artsen Zonder Grenzen&nbsp;&nbsp;de VolkskrantArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSSnelle verspreiding ebola in Congo is ‘zeer alarmerend’, waarschuwt Artsen Zonder Grenzen&nbsp;&nbsp;AD.nlZorgen om kinderen in landen waar ebola is&nbsp;&nbsp;NOS Jeugdjournaal",
+      "id": "6ca90f67a7ab",
+      "title": "Nieuwe ebola-crisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden - NRC",
+      "published": "2026-05-31T13:22:07+00:00",
+      "summary": "Nieuwe ebola-crisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden&nbsp;&nbsp;NRCArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSSnelle verspreiding ebola in Congo is ‘zeer alarmerend’, waarschuwt Artsen Zonder Grenzen&nbsp;&nbsp;AD.nlZorgen om kinderen in landen waar ebola is&nbsp;&nbsp;NOS Jeugdjournaal",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0MtbWlxb1k5cGJEVHY5RkZnSFNLRDQ3alNfWnpMZmNnU0RJQzNzTkczbmtNZ0FTQmJCSHRMYk9BazVuLXRVVHFGYzZaT1VfQTNoQ21LTHBqSTN6QUszVUc1bDRQVlRXZHdjaXJWQlZnNVpDZUlZaEMyeEZjcmdRQ1ZuVmhVV0RER2huZUZlQU1KTVNocEcwVURwWlE0WnRXM3RINlJZa0I3d01jcDlqN3FSYnBkUWhjX3JBdUtONFRVMUhReVFz?oc=5"
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWFg4SE9aWmN1X295TFA0MkxTLXFLVWwzRThlajRuaTVMOXVFdkhNcldxS2VMZFpTRmpyTGdZQXhGNjBSS0twaGNic2FqNGd3NkhZTkpKdkV4WEZZYm0zcm85SFVEY3lqQk41MEIzNVpqU0NnVXgzZ2JCeEpZVjVrNzd0OHhwdWh2QTJ2dnZObFFtY0FndF81bGZic2JyTEdLREN2aVNpNjQ2ekJUdi1UakJ2NFhpeGROc1FqaFhkWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a33c9eca0e44",
+      "title": "AI ondermijnt de kwaliteit van het onderwijs - bnnvara",
+      "published": "2026-05-31T17:11:38+00:00",
+      "summary": "AI ondermijnt de kwaliteit van het onderwijs&nbsp;&nbsp;bnnvaraKinderen zonder smartphone en sociale media slapen beter en voelen zich minder depressief&nbsp;&nbsp;ggznieuws.nlOnderzoek: betere slaap en minder depressie onder kinderen zonder telefoon&nbsp;&nbsp;NOSOnderzoek: een week minder social media zorgt voor véél minder stress én betere slaap&nbsp;&nbsp;MAN MANEen heel universum onder je tent&nbsp;&nbsp;bnnvara",
+      "sources": [
+        {
+          "name": "bnnvara",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenVaYWJlaVlfbk9oR0toNW5KQlBEbHJ5cXZCcmNYZUJyOVZFNU5HU1lkcEZ2ZXRmWEZkbTBmaFhOVUdrYXZadFhHSUtydTFBdmdiU2xjTl82cWVOeEo4TUpwcEhVcWExYWR5Qk5DMmJURy12azBseTRSeXBjQlk1Z0NocHlWUEhISmc?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "Omroep Gelderland",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2lQcWZWeGJ4RUlRVjRkRWxXNFE1WTZrWHU5NFRBcll2eDNCUFl3QnZwQlRseWlHNlNULThpRllqLUhJUUl0SHhZYVliZm5RVlBTZkI2WHB0SWd3LS11bFRKYnNKUlJyc1dfVUZ3NmNpUjBNRWxOTGtyQWNJbUYzU3I1SGhUQ2NTLXpzQUFQZHRPcFZUQTNIOEttSHkyTFVqbExIWmRqMHNjdFpG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62cce263ff19",
-      "title": "“Ongezien sterke reacties”: kankerinjectie verrast onderzoekers met spectaculaire resultaten in internationale studie - HBVL",
-      "published": "2026-05-31T10:41:00+00:00",
-      "summary": "“Ongezien sterke reacties”: kankerinjectie verrast onderzoekers met spectaculaire resultaten in internationale studie&nbsp;&nbsp;HBVL",
-      "sources": [
-        {
-          "name": "HBVL",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYUJabWlfMkVfd0NRa1BSU1F0WDlDVVBSS1B4VXVPWDl5ODNPNm9QZjR3VGxhcUdpOEJwelQxbmRLUDhYcjdVOVp3cWZ5emNSSkhjeksxMlFzSGJ1MlVrQXpVUFRHdU53UFRkQXFsSzdDZV83aEQxby0waC1XcWx6R2pJV3NPTE1uYXZtczBUVXV4STkxSUFvUTdDa1Z1d2t0c2JIQ3hOUHNXOWFSTE40V2g0ZktCREZueFJYakxGZUxTTDBUZS0wSnBBOG5DUzNXVFRpQUY5LU81d3NhR2hTVDVYZW9peE9QLUs5MGNlb1hIbUJoSm8xNk01Z1dRV0E?oc=5"
         }
       ]
     }

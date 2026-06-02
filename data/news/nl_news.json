@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-02T16:17:14.174610+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-02T20:43:40.201096+00:00",
+  "count": 6,
   "news": [
     {
       "id": "7bb66f460072",
       "title": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen - RTL.nl",
       "published": "2026-06-02T15:25:21+00:00",
-      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nl",
+      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nl",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3RsbjktTUI4UFBOV2N4RUltVlRFQi1ZdTdMV1c1ZTRqUUZyNG1ZN0pVTjZWUHBKUl9ISVNaX1gyTElwUWtLamV0VEJiWDJVQzRMTWMyTjdXVkdsUWNsSkY0ajh1czlGZDdqMkR6MVgyU2hNZ01Db0ViclpIRzI0NUJnc3NGVElqOTZiTWdtMGw5V0hjZl9NMEI4YnREci11VDJNV25jODBteDV3X3lpczBndEEtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af1e736b1c28",
+      "title": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder - NOS",
+      "published": "2026-06-02T16:07:30+00:00",
+      "summary": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder&nbsp;&nbsp;NOSArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO meldt forse daling vermoedelijke ebolagevallen&nbsp;&nbsp;Haarlems DagbladRuim duizend inwoners van Congo hebben ebolaklachten, maar testen en contactonderzoek verlopen moeizaam&nbsp;&nbsp;de VolkskrantVerboden begrafenissen in Congo zijn omgeven door onrust en complottheorieën. ‘Geest zal blijven rondwaren’&nbsp;&nb",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDVHbDY0b1dnMGdFRTNqaGtWUFE2RjFVeGdWMzBiMjNXMlZsemp1QXZmVmdZWjJsbmctLXNCbTViU0g1ajlPRXM0QUhpdVF1SVFqQ0VGN1dIQWtXQVIxOHVBalJWZ3F5UUdmSlhScHNSSXFlVXFfbk5qX3NTZy1TUVNNQTBkQk1mV3Bzc1hYUmZGeUV1ajJfZDNpMl90aW00a3hr?oc=5"
         }
       ]
     },
@@ -24,6 +36,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1NnS28zSFMydHgzeS1KaDdBMGkySEVIRmIyaWFYOGFQQ1hLRWc2SlBWanJZWG05OUVNb3BVVW9wU19DMzgzZk1ubzBtWFg3TUtaeThmTDduNHlNY09sM2J3MnpCb19xbFZ3TFFtMmktTDVVdzBZeUhETmNVRmNIYk9HQjF1Y1FkdVVmNzBBck9CeVkzLWltSFB1ejNRb3pYcnZiRThkQXBNcFJQQVdZeVZGeGZlSGhSZGh6S3VGSktZWVR0TDJsNS1iVy1rVHpBcC1nUzJ5b0NRYXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ed6449ecfba",
+      "title": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’ - De Telegraaf",
+      "published": "2026-06-02T18:00:31+00:00",
+      "summary": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’&nbsp;&nbsp;De TelegraafMaik de Boer vreesde dat hij aids had: 'Ik had afscheid genomen van het leven'&nbsp;&nbsp;RTL.nlMaik de Boer dacht dat hij aids had: emotionele onthulling&nbsp;&nbsp;Nieuws.nlMaik de Boer vreesde hiv-besmetting: 'Een week lang nam ik afscheid van het leven'&nbsp;&nbsp;LINDA.nlMaik de Boer dacht dat hij aids had: ‘Had afscheid genomen van het leven’&nbsp;&nbsp;Weekend Online",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV1Rnb1o0a0V0eDA2aWRZX2pNcEgwMnYwU0JBcTljdEdBMnp3MVFGTzlQZElsV3dUcXpLVXRXSy1fakF5ejYwWFZzR21DcGlkNnl5UXlXa0JnVDVQZ1E0N1hGODNoWmR1VTc5ZW8tdENreUllaDdfMEU2b0RVXzFCT1dKNHNaNGhMSDZ0NVlONEZycTBFTzQwb3JoWmRqNHFHWGlZSlZqX0w0VmZkamw2ZWJtV0lvVWlENVFVTXdWc2lpZWlxWjRyVDZzT1l6NG1LWVBVV2dHWGRDbHc?oc=5"
         }
       ]
     },

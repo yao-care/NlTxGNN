@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-02T03:38:42.683330+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-02T10:17:27.303021+00:00",
+  "count": 3,
   "news": [
     {
       "id": "2881054fe4e0",
       "title": "Nieuwe ebolacrisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden - NRC",
       "published": "2026-05-31T13:22:07+00:00",
-      "summary": "Nieuwe ebolacrisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden&nbsp;&nbsp;NRCSnelle verspreiding ebola in Congo is ‘zeer alarmerend’, aldus Artsen Zonder Grenzen&nbsp;&nbsp;de VolkskrantWHO-arts waarschuwt voor grote ebola-uitbraak vanuit Congo en Oeganda: ‘Het virus kan zich met één vliegreis over de wereld verspreiden’&nbsp;&nbsp;Het ParoolWHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSZorgen om kinderen in landen waar ebola is&nbsp;&nbsp;NOS ",
+      "summary": "Nieuwe ebolacrisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden&nbsp;&nbsp;NRCRuim duizend inwoners van Congo hebben ebolaklachten, maar testen en contactonderzoek verlopen moeizaam&nbsp;&nbsp;de VolkskrantWHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSEbola-deskundige Joost Hopman doet vanuit UMCG wat hij kan bij indammen uitbraak in Oost-Afrika&nbsp;&nbsp;Dagblad van het NoordenWHO-arts waarschuwt voor grote ebola-uitbraak vanuit Congo en Oegan",
       "sources": [
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWFg4SE9aWmN1X295TFA0MkxTLXFLVWwzRThlajRuaTVMOXVFdkhNcldxS2VMZFpTRmpyTGdZQXhGNjBSS0twaGNic2FqNGd3NkhZTkpKdkV4WEZZYm0zcm85SFVEY3lqQk41MEIzNVpqU0NnVXgzZ2JCeEpZVjVrNzd0OHhwdWh2QTJ2dnZObFFtY0FndF81bGZic2JyTEdLREN2aVNpNjQ2ekJUdi1UakJ2NFhpeGROc1FqaFhkWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e4966a1262b",
+      "title": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden - wibnet.nl",
+      "published": "2026-06-01T20:00:04+00:00",
+      "summary": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZno4blZVMzMwQWpvR2lMOFB1NmlMamlpZjJuUnZVTUIxWlVJblhLU0JGV1diUHJwLUxjaTJnT0V1b3VUNi1sR1FSa3pNVXk0eTJ6MVJ4d2t3TzVobzAtUHhGRi1WQVZYTTVlTllnRVI0ODFrd2ZUQW9FeFVrM1c5Y3BlZ3E0SVBPVGItVkZ4cExNbEdEYlJTWDdrOXZTelVvNGhDVjlsczdSN1ZkcEJDNVNaOXIycmVmRS1CeDNrQWlhQWtTNVV0Y1NQTzFfc29wNHhfUGlrQQ?oc=5"
         }
       ]
     },

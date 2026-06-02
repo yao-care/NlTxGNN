@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-02T10:17:27.303021+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-02T16:17:14.174610+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "2881054fe4e0",
-      "title": "Nieuwe ebolacrisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden - NRC",
-      "published": "2026-05-31T13:22:07+00:00",
-      "summary": "Nieuwe ebolacrisis in Congo laat zien hoe kwetsbaar de WHO zelf is geworden&nbsp;&nbsp;NRCRuim duizend inwoners van Congo hebben ebolaklachten, maar testen en contactonderzoek verlopen moeizaam&nbsp;&nbsp;de VolkskrantWHO-baas naar ebolabrandhaard in Congo, waar de hulp moeizaam verloopt&nbsp;&nbsp;NOSEbola-deskundige Joost Hopman doet vanuit UMCG wat hij kan bij indammen uitbraak in Oost-Afrika&nbsp;&nbsp;Dagblad van het NoordenWHO-arts waarschuwt voor grote ebola-uitbraak vanuit Congo en Oegan",
+      "id": "7bb66f460072",
+      "title": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen - RTL.nl",
+      "published": "2026-06-02T15:25:21+00:00",
+      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nl",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWFg4SE9aWmN1X295TFA0MkxTLXFLVWwzRThlajRuaTVMOXVFdkhNcldxS2VMZFpTRmpyTGdZQXhGNjBSS0twaGNic2FqNGd3NkhZTkpKdkV4WEZZYm0zcm85SFVEY3lqQk41MEIzNVpqU0NnVXgzZ2JCeEpZVjVrNzd0OHhwdWh2QTJ2dnZObFFtY0FndF81bGZic2JyTEdLREN2aVNpNjQ2ekJUdi1UakJ2NFhpeGROc1FqaFhkWQ?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3RsbjktTUI4UFBOV2N4RUltVlRFQi1ZdTdMV1c1ZTRqUUZyNG1ZN0pVTjZWUHBKUl9ISVNaX1gyTElwUWtLamV0VEJiWDJVQzRMTWMyTjdXVkdsUWNsSkY0ajh1czlGZDdqMkR6MVgyU2hNZ01Db0ViclpIRzI0NUJnc3NGVElqOTZiTWdtMGw5V0hjZl9NMEI4YnREci11VDJNV25jODBteDV3X3lpczBndEEtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6184b82d3a90",
+      "title": "Dierenarts Mark (50) kreeg zware burn-out door ruzies met baasjes: ‘Het dier is vaak de makkelijkste patiënt’ - AD.nl",
+      "published": "2026-06-02T06:00:00+00:00",
+      "summary": "Dierenarts Mark (50) kreeg zware burn-out door ruzies met baasjes: ‘Het dier is vaak de makkelijkste patiënt’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1NnS28zSFMydHgzeS1KaDdBMGkySEVIRmIyaWFYOGFQQ1hLRWc2SlBWanJZWG05OUVNb3BVVW9wU19DMzgzZk1ubzBtWFg3TUtaeThmTDduNHlNY09sM2J3MnpCb19xbFZ3TFFtMmktTDVVdzBZeUhETmNVRmNIYk9HQjF1Y1FkdVVmNzBBck9CeVkzLWltSFB1ejNRb3pYcnZiRThkQXBNcFJQQVdZeVZGeGZlSGhSZGh6S3VGSktZWVR0TDJsNS1iVy1rVHpBcC1nUzJ5b0NRYXM?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "7e4966a1262b",
       "title": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden - wibnet.nl",
       "published": "2026-06-01T20:00:04+00:00",
-      "summary": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden&nbsp;&nbsp;wibnet.nl",
+      "summary": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden&nbsp;&nbsp;wibnet.nlVerhoogt jouw levensstijl het risico op Alzheimer?&nbsp;&nbsp;The Portugal NewsDe VS ontwikkelt een bloedtest die kan helpen bij het vroegtijdig opsporen van de ziekte van Alzheimer.&nbsp;&nbsp;Vietnam.vnVoor geheugenverlies kan dit subtiele symptoom al wijzen op Alzheimer&nbsp;&nbsp;Futura, le média qui explore le mondeVroegtijdige opsporing van het risico op de ",
       "sources": [
         {
           "name": "wibnet.nl",

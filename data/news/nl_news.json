@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-02T20:43:40.201096+00:00",
+  "fetched_at": "2026-06-03T03:45:44.466536+00:00",
   "count": 6,
   "news": [
-    {
-      "id": "7bb66f460072",
-      "title": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen - RTL.nl",
-      "published": "2026-06-02T15:25:21+00:00",
-      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3RsbjktTUI4UFBOV2N4RUltVlRFQi1ZdTdMV1c1ZTRqUUZyNG1ZN0pVTjZWUHBKUl9ISVNaX1gyTElwUWtLamV0VEJiWDJVQzRMTWMyTjdXVkdsUWNsSkY0ajh1czlGZDdqMkR6MVgyU2hNZ01Db0ViclpIRzI0NUJnc3NGVElqOTZiTWdtMGw5V0hjZl9NMEI4YnREci11VDJNV25jODBteDV3X3lpczBndEEtZw?oc=5"
-        }
-      ]
-    },
     {
       "id": "af1e736b1c28",
       "title": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder - NOS",
       "published": "2026-06-02T16:07:30+00:00",
-      "summary": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder&nbsp;&nbsp;NOSArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO meldt forse daling vermoedelijke ebolagevallen&nbsp;&nbsp;Haarlems DagbladRuim duizend inwoners van Congo hebben ebolaklachten, maar testen en contactonderzoek verlopen moeizaam&nbsp;&nbsp;de VolkskrantVerboden begrafenissen in Congo zijn omgeven door onrust en complottheorieën. ‘Geest zal blijven rondwaren’&nbsp;&nb",
+      "summary": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder&nbsp;&nbsp;NOSArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO meldt forse daling vermoedelijke ebolagevallen&nbsp;&nbsp;Haarlems DagbladVerboden begrafenissen in Congo zijn omgeven door onrust en complottheorieën. ‘Geest zal blijven rondwaren’&nbsp;&nbsp;TrouwEbola-deskundige Joost Hopman doet vanuit UMCG wat hij kan bij indammen uitbraak in Oost-Afrika&nbsp;&nbsp;Dagblad van h",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDVHbDY0b1dnMGdFRTNqaGtWUFE2RjFVeGdWMzBiMjNXMlZsemp1QXZmVmdZWjJsbmctLXNCbTViU0g1ajlPRXM0QUhpdVF1SVFqQ0VGN1dIQWtXQVIxOHVBalJWZ3F5UUdmSlhScHNSSXFlVXFfbk5qX3NTZy1TUVNNQTBkQk1mV3Bzc1hYUmZGeUV1ajJfZDNpMl90aW00a3hr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964044136aac",
+      "title": "Onderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen - NRC",
+      "published": "2026-06-02T12:22:47+00:00",
+      "summary": "Onderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nlLUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek nieuwe anticonceptiepil gestopt: te veel vrouwen met buitenbaarmoederlijke zwangerschap&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWh2N1l6WXFISVhSdEd1Z281OC1fNGdBUXpub3E0bWR6R3hoRUNVTVVIV1JBSjY0X3A3cDdPVThvQnFOeFFwT3lSUHBoZFFSek1aUWVvaUJFSmdUQmZ0bV85T1NITkVVSDFBd1NZU19VUC1nRHdIcUp5NERJdkxnYzN0NmF4Wloya0JVMURfSlJVX2Q3VFFnQjlHZ0toRVIyN0gwa0Zrc3dhX2lCNVBfM0RpeEtNYld5YkpuRFBMSllVMVpJVUNhUDQ3dE9iSUttanUtVVRvZ2FwajA?oc=5"
         }
       ]
     },
@@ -42,7 +42,7 @@
     {
       "id": "9ed6449ecfba",
       "title": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’ - De Telegraaf",
-      "published": "2026-06-02T18:00:31+00:00",
+      "published": "2026-06-02T23:27:29+00:00",
       "summary": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’&nbsp;&nbsp;De TelegraafMaik de Boer vreesde dat hij aids had: 'Ik had afscheid genomen van het leven'&nbsp;&nbsp;RTL.nlMaik de Boer dacht dat hij aids had: emotionele onthulling&nbsp;&nbsp;Nieuws.nlMaik de Boer vreesde hiv-besmetting: 'Een week lang nam ik afscheid van het leven'&nbsp;&nbsp;LINDA.nlMaik de Boer dacht dat hij aids had: ‘Had afscheid genomen van het leven’&nbsp;&nbsp;Weekend Online",
       "sources": [
         {

@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-03T10:52:38.255212+00:00",
-  "count": 9,
+  "fetched_at": "2026-06-03T16:42:34.425492+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "69bd20e648f5",
-      "title": "Nederlandse viroloog aangeklaagd in VS voor smokkelen flesjes met mpox - NU",
-      "published": "2026-06-03T06:52:57+00:00",
-      "summary": "Nederlandse viroloog aangeklaagd in VS voor smokkelen flesjes met mpox&nbsp;&nbsp;NUNederlandse viroloog in VS aangeklaagd voor invoer mpox-virus uit Congo&nbsp;&nbsp;AD.nlNederlandse viroloog aangeklaagd in VS voor smokkel flesjes met mpox&nbsp;&nbsp;NOSNederlandse onderzoeker (53) riskeert vijf jaar cel nadat hij apenpokken vanuit Congo de VS binnensmokkelde&nbsp;&nbsp;HLNNederlandse viroloog in VS aangeklaagd voor smokkelen mpox-virus&nbsp;&nbsp;RTL.nl",
+      "id": "233d00124bdf",
+      "title": "Medewerker Radboudumc test nu ‘zwak positief’ op hantavirus na fout met beschermingsprotocol - De Gelderlander",
+      "published": "2026-06-03T01:32:00+00:00",
+      "summary": "Medewerker Radboudumc test nu ‘zwak positief’ op hantavirus na fout met beschermingsprotocol&nbsp;&nbsp;De GelderlanderEén medewerker Radboudumc ‘zwak positief’ getest op hantavirus na fout in beschermingsprotocol&nbsp;&nbsp;de VolkskrantMedewerker Radboudumc test 'zwak positief' op hantavirus&nbsp;&nbsp;Omroep GelderlandRadboudumc: één medewerker uitgebreider getest op hantavirus&nbsp;&nbsp;Hart van NederlandMijn Radboud had een fout gemaakt en het deed me meer dan ik vooraf ooit had kunnen bed",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEczdGxVMW1uQjhVMnRQN2lnTktXNTR0S1ZLTnhIalpiSDNhYUdCT3p6S2gyMV9iV0xIckFqSzVUZmtvRDMyOHZvU1VOR2ZKYUw2TkZ3aHBVWHN0eVFHNDJwZnhwaWxIaFRScFIwQjNPak1zVjl1R0FrZDl2c2hIT0ZVc1doNzBqZzktaC1UTkZOdDRVQ01TZnRKa2FlWWNoeGtia3ZxOUVnOTRHc0ZKTzNR?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnBNV1JCT0UyR2UteXZSUjNUNVRsU0FnVzhRbllXRUhGOGhwYjg2a3poQU12a09ITXBwbHFZRmRhcTdOMG8zT3dERkZ0TURfNXZKQ3hyZFR5MzhFRUtrYUs5SjR0OUpvNFlYNEtBTGFQMlRHdUUyd0lkbjFEN2RhVVRiYWZRZWZvSTNsT1E2ak5wSjhqS25odDJwSlZWenBpbTI4RTZpOFV1RjdTbXFfV053ekRXTktYZ0VnaVVsY1p6ZWdUY19yNE56RFJwOUktcUpSLQ?oc=5"
         }
       ]
     },
     {
       "id": "19020accbef2",
       "title": "Ziekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden - Omroep West",
-      "published": "2026-06-02T20:54:00+00:00",
-      "summary": "Ziekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nlLUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nl",
+      "published": "2026-06-02T13:34:32+00:00",
+      "summary": "Ziekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nlOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "Omroep West",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUdONmZqUDRiZi1zSTlkdm5mdTZhOTM5MHlPSVRrRnJRM0stZHg0LVgySVo3cFhLdVhUZ0NfYXFFNzFvdVp1aDR2MlJqZHpOVVhJczVwU3FJNDQyUkJEYUUxQWpKYWFnb0tSMmd6ZjdDRHY3VWliMDdaNm83VXhHWTJuYjdrd2V6M01iNWJoR2tRWm00OW9ZY1llb0I3UHZGRFZwcXhyZ3B3ZWxx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af1e736b1c28",
-      "title": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder - NOS",
-      "published": "2026-06-02T16:07:30+00:00",
-      "summary": "Meer tests in Congo, aantal vermoedelijke ebolabesmettingen fors minder&nbsp;&nbsp;NOSArtsen zonder Grenzen erg verontrust over ebola-uitbraak: 'Ging nooit zo snel'&nbsp;&nbsp;NUWHO meldt forse daling vermoedelijke ebolagevallen&nbsp;&nbsp;Haarlems DagbladVerboden begrafenissen in Congo zijn omgeven door onrust en complottheorieën. ‘Geest zal blijven rondwaren’&nbsp;&nbsp;TrouwEbola-deskundige Joost Hopman doet vanuit UMCG wat hij kan bij indammen uitbraak in Oost-Afrika&nbsp;&nbsp;Dagblad van h",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDVHbDY0b1dnMGdFRTNqaGtWUFE2RjFVeGdWMzBiMjNXMlZsemp1QXZmVmdZWjJsbmctLXNCbTViU0g1ajlPRXM0QUhpdVF1SVFqQ0VGN1dIQWtXQVIxOHVBalJWZ3F5UUdmSlhScHNSSXFlVXFfbk5qX3NTZy1TUVNNQTBkQk1mV3Bzc1hYUmZGeUV1ajJfZDNpMl90aW00a3hr?oc=5"
         }
       ]
     },
@@ -52,26 +40,14 @@
       ]
     },
     {
-      "id": "e51ce85d902f",
-      "title": "Prof van KU Leuven krijgt hoogste wetenschappelijke onderscheiding voor vernieuwend kankeronderzoek - Nieuwsblad",
-      "published": "2026-06-02T14:10:41+00:00",
-      "summary": "Prof van KU Leuven krijgt hoogste wetenschappelijke onderscheiding voor vernieuwend kankeronderzoek&nbsp;&nbsp;NieuwsbladKoning Filip reikt 'Belgische Nobelprijs' uit&nbsp;&nbsp;RTL.nlKanker- en darmonderzoeker winnen prestigieuze 'Belgische Nobelprijs': \"Bekroning voor 20 jaar onderzoek\"&nbsp;&nbsp;VRTBelgische Nobelprijs voor kankeronderzoek: eer voor Diether Lambrechts uit Diepenbeek&nbsp;&nbsp;HBVL‘Belgische Nobelprijs’ voor baanbrekend kankeronderzoek en darmbacteriën bij obesitas en diabet",
+      "id": "9ed6449ecfba",
+      "title": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’ - De Telegraaf",
+      "published": "2026-06-02T23:27:29+00:00",
+      "summary": "Maik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’&nbsp;&nbsp;De TelegraafMaik de Boer vreesde voor zijn leven: ‘Ik dacht dat ik dood zou gaan’&nbsp;&nbsp;story.nlMaik de Boer dacht dat hij aids had: emotionele onthulling&nbsp;&nbsp;Nieuws.nlMaik de Boer vreesde hiv-besmetting: 'Een week lang nam ik afscheid van het leven'&nbsp;&nbsp;LINDA.nlMaik de Boer dacht dat hij aids had: ‘Had afscheid genomen van het leven’&nbsp;&nbsp;Weekend Online",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPREQzUVA3bkluY1JDV0lpTEVUNGcydk1iLUNlbGVESW9EbjdNMm1DOXMyVEpLY3lvT2VlWkFzSGV4OG4tcXRxaU9yekFTNnFQYy1vUVJydmswVG05ZXBrSnRrU1lkYW9EYjlwOXpBbmlGMTBnRXRYenJvTHE2RXNwU1RkVnBDUkhvbHJJR1VnRTEzUW1RMzdMQWo0UnhadFptaVZBdGRlRFd3NmRhVGctUm1yV082dy0yMkxieDlZc19WYm0ydkFVZXFveWFENnNTUm1fNnNVb09adklvaGN1eHhQSDdHN1NaRXRTbjd6aUl6VFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "97fc52096062",
-      "title": "Maik de Boer vreesde dat hij aids had: 'Ik had afscheid genomen van het leven' - RTL.nl",
-      "published": "2026-06-02T13:34:56+00:00",
-      "summary": "Maik de Boer vreesde dat hij aids had: 'Ik had afscheid genomen van het leven'&nbsp;&nbsp;RTL.nlMaik de Boer (65) open over vermoede aids-diagnose: ’Herinnering jarenlang weggestopt’&nbsp;&nbsp;De TelegraafMaik de Boer vreesde voor zijn leven: ‘Ik dacht dat ik dood zou gaan’&nbsp;&nbsp;story.nlMaik de Boer dacht dat hij aids had: emotionele onthulling&nbsp;&nbsp;Nieuws.nlMaik de Boer vreesde hiv-besmetting: 'Een week lang nam ik afscheid van het leven'&nbsp;&nbsp;LINDA.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDNnRlpEY1FKaGZRZFBfV3lyM1pRaFRYNnhlRXFJUllGdGtCdWZmQjhlY3F0UkxVMEhUcllZMnpuaTQ4VS1KYnhrMjVuYkxQbTVSNks0MzNScThpZHVMTm9GaVVhUlFCallrN2hZSEowTW9VeWxWR1ItZ2dNX09mXzYwdm1zMVE?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV1Rnb1o0a0V0eDA2aWRZX2pNcEgwMnYwU0JBcTljdEdBMnp3MVFGTzlQZElsV3dUcXpLVXRXSy1fakF5ejYwWFZzR21DcGlkNnl5UXlXa0JnVDVQZ1E0N1hGODNoWmR1VTc5ZW8tdENreUllaDdfMEU2b0RVXzFCT1dKNHNaNGhMSDZ0NVlONEZycTBFTzQwb3JoWmRqNHFHWGlZSlZqX0w0VmZkamw2ZWJtV0lvVWlENVFVTXdWc2lpZWlxWjRyVDZzT1l6NG1LWVBVV2dHWGRDbHc?oc=5"
         }
       ]
     },
@@ -84,30 +60,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1JXMEZqZVJseWsyYnMtSnEydnZQX2VpZGZSdzYwU2NjTGdaeWIxRThjcFQ4a3RETVhHV1hKc0FnVWVrMlVrSXJ6eUNfYmFOZy1hRUxWZ04wX0tGanRCVEFjaHhaeW5WTnpBMk04LUpEOVRvaElqd19ucDRFM0NCV19ObmpJQ0tETVFzSE5pNFE2dWFNY3dhMVNqejVjTDdFNlpiOXpuU2hjOEc5QlIwY2RyNG9wWDRWTzlNNk1ENA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "924e7e77bd74",
-      "title": "Minister David van Weel (VVD) doof voor bezwaren tegen afschaffen luchtalarm - bnnvara",
-      "published": "2026-06-02T06:24:04+00:00",
-      "summary": "Minister David van Weel (VVD) doof voor bezwaren tegen afschaffen luchtalarm&nbsp;&nbsp;bnnvaraOnderzoek: betere slaap en minder depressie onder kinderen zonder telefoon&nbsp;&nbsp;NOSDe media zagen in Lidewij de Vos een nieuw imago voor FVD&nbsp;&nbsp;bnnvaraKinderen zonder smartphone en sociale media slapen beter en voelen zich minder depressief&nbsp;&nbsp;ggznieuws.nlOnderzoek: een week minder social media zorgt voor véél minder stress én betere slaap&nbsp;&nbsp;MAN MAN",
-      "sources": [
-        {
-          "name": "bnnvara",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclV0cWM5YTRvd2dDMWEwYmhNWTM2aUdWSUdXMmhGVW5LRlAzSjZYMEF6TzVBeFYxMTNFNlRIeXFsZVllZ3ZCZHRkNXNtTTQ4RUxVS0ttVDFET3BjUS1NalhIZ3l6bUd5LXMzbFVoaXViUUJuTXNUbnJ4SWJ1R2kwSXctd0FGV2R6bmtQenpzbFZhbzBaMlVtUk9aTWFqWkl0SlphQVktUEM4S21YdGZZcnNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e4966a1262b",
-      "title": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden - wibnet.nl",
-      "published": "2026-06-01T20:00:04+00:00",
-      "summary": "Nieuw onderzoek: Vroeg waarschuwingssignaal van alzheimer kan één specifieke groep mensen ’s nachts wakker houden&nbsp;&nbsp;wibnet.nlVerhoogt jouw levensstijl het risico op Alzheimer?&nbsp;&nbsp;The Portugal NewsDe VS ontwikkelt een bloedtest die kan helpen bij het vroegtijdig opsporen van de ziekte van Alzheimer.&nbsp;&nbsp;Vietnam.vnVoor geheugenverlies kan dit subtiele symptoom al wijzen op Alzheimer&nbsp;&nbsp;Futura, le média qui explore le mondeVroegtijdige opsporing van het risico op de ",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZno4blZVMzMwQWpvR2lMOFB1NmlMamlpZjJuUnZVTUIxWlVJblhLU0JGV1diUHJwLUxjaTJnT0V1b3VUNi1sR1FSa3pNVXk0eTJ6MVJ4d2t3TzVobzAtUHhGRi1WQVZYTTVlTllnRVI0ODFrd2ZUQW9FeFVrM1c5Y3BlZ3E0SVBPVGItVkZ4cExNbEdEYlJTWDdrOXZTelVvNGhDVjlsczdSN1ZkcEJDNVNaOXIycmVmRS1CeDNrQWlhQWtTNVV0Y1NQTzFfc29wNHhfUGlrQQ?oc=5"
         }
       ]
     }

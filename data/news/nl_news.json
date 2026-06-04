@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-04T14:52:28.935903+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-04T20:01:19.124004+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "b09a72abbad6",
-      "title": "Voor tieners met obesitas komt een maagverkleining in het basispakket - NU",
-      "published": "2026-06-04T14:18:28+00:00",
-      "summary": "Voor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlJarenlange strijd van kinderarts MUMC+ beloond: maagverkleining voor jongeren met ernstige obesitas&nbsp;&nbsp;L1 NieuwsMaagverkleining voortaan vergoed vanaf 13 jaar: 'Soms is wachten geen",
+      "id": "59f4400f03c9",
+      "title": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel - NOS",
+      "published": "2026-06-04T05:16:37+00:00",
+      "summary": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSVoor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;ad.nlExperts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafMaagverkleining voortaan vergoed vanaf 13 jaar: 'S",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmFSSUY2U3NxYmtnbGJBMHFlRkdCak9RWURaaWhpOF9BOC1XV3dEQ29RcG5JeVFDWGNiVWFKWEFuaU9hbVJrcnNla0xDeFpyejFjdFJ4WDNLUFc5enVhd1h1d1NzdVRGUkRxNnVGS0hXSWlSemY1N2dIMm5vMF9wa2ZUSThUZGlXSUtCaEhDUUdKYmQtaWFONHp0ZEp0SERIVEZJRUtmU1huVHE3X290SA?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmEzZmtXMllVTFlKcktLcjh4N19oVl9iMWV6SjNnUTQzSHRMekhJTXFTM1NySnI5MkVZX0FqV0FQV1I5YXNKOF8zM1VBLXR0Tm5ielh6UWxENmxEakNxTy1NRUNlYVM0emNjWmx5alRmZVNLUWlHN3hGVkJzaHBRVmdMS1dJQjJJU0pIYTY1aDRNMVB2SERXNDJCQzNoNU51bUdkTHdOUnE5cURJdXlR?oc=5"
         }
       ]
     },
     {
-      "id": "7bb66f460072",
-      "title": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen - RTL.nl",
-      "published": "2026-06-02T15:25:21+00:00",
-      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCTegenvaller: onderzoek naar hormoonvrije anticonceptie stopgezet en dit is waarom&nbsp;&nbsp;Kek MamaOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep West",
+      "id": "08ff40e458e4",
+      "title": "Test nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld - NOS",
+      "published": "2026-06-04T15:53:49+00:00",
+      "summary": "Test nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;ad.nl",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3RsbjktTUI4UFBOV2N4RUltVlRFQi1ZdTdMV1c1ZTRqUUZyNG1ZN0pVTjZWUHBKUl9ISVNaX1gyTElwUWtLamV0VEJiWDJVQzRMTWMyTjdXVkdsUWNsSkY0ajh1czlGZDdqMkR6MVgyU2hNZ01Db0ViclpIRzI0NUJnc3NGVElqOTZiTWdtMGw5V0hjZl9NMEI4YnREci11VDJNV25jODBteDV3X3lpczBndEEtZw?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkJJMzFXVk4wa2hid1M1WFJwbkdhTURTa0U4d2E0UDBvclVQQ0xINmtBTTcyQzRIN3F4MUF0QUZkd0tudFV6anh4blFUZjBkQ2w0OThRRVBJUWFEREtFRTdGYno1WGl4OTM1RmdRQ3RDeU9BdmhPZkh1RGsyQk91b2FCS2xORWtfRXFwUm9maUtjRTVpS2tkUjkzY04?oc=5"
         }
       ]
     },
@@ -52,13 +52,13 @@
       ]
     },
     {
-      "id": "0bd7e500a9f0",
-      "title": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen - AD.nl",
+      "id": "6586df6743e9",
+      "title": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen - ad.nl",
       "published": "2026-06-03T15:49:00+00:00",
-      "summary": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen&nbsp;&nbsp;AD.nlVolgens de Wereldgezondheidsorganisatie doodt onveilig voedsel jaarlijks 1,5 miljoen mensen&nbsp;&nbsp;Gamereactor.nlDe WHO waarschuwt dat besmet voedsel jaarlijks 1,5 miljoen mensenlevens eist.&nbsp;&nbsp;Vietnam.vnWHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel&nbsp;&nbsp;Nieuwslens",
+      "summary": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen&nbsp;&nbsp;ad.nlVolgens de Wereldgezondheidsorganisatie doodt onveilig voedsel jaarlijks 1,5 miljoen mensen&nbsp;&nbsp;Gamereactor.nlTU Delft speelt een sleutelrol in voedselveiligheidsinitiatief van de WHO&nbsp;&nbsp;TU DelftDe WHO waarschuwt dat besmet voedsel jaarlijks 1,5 miljoen mensenlevens eist.&nbsp;&nbsp;Vietnam.vnWHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "AD.nl",
+          "name": "ad.nl",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUml2Q2VKSFVoUC1DaGk5TENIQ3hNbXlDSk9kc3lha1ppT1RXUUhucXFyQlFHaW1DN1Etbl9FOTNsNmRiWl9zTGFnZ1lfMV9OMU9SVVEzd1Q4aHIwNEs3ZU1PNU5YV2NwejdKVTVVWEF6NURuVDduLUVvWkl5Y0xvQVpSVmhqNE5pNVgwTGh6cHNHdWtfRTNsLW5OTXZ1YnluM3FxNEMxWUJiWnYtQ3Fxd09fNmdGVDY1UVVxRVdzbHNOcDdr?oc=5"
         }
       ]
@@ -72,6 +72,18 @@
         {
           "name": "HBVL",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT093Q3NVTm1NTVJhbFlDTjdpUHgtbnZwbmJrd1Nka1BqUWg1T0dPZ0NLLWM1dDVEb3lJTTVYVDFrM2pueDFNelRtSTFtWi05Szc1UUFBUkJScjNTdlFEQTFkdTVHakNOVFBDaWJHM3MzSGpaNXFidjNGUlRKYWJqaFRGU0RsTEk1cW92REJ3RmhOV2pwQ0F4XzRPMWVsMHFvZ3NaUzhoNk4zaFNrbUhWdnpNMFRpejNUZ2FOdGFYV2ppRnk1cXE3azhxTFdvRGFsSDF5SUJmemt1WVdlRkY1d09WS044ajZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86ae4ff4989a",
+      "title": "Hartonderzoeker: Je kunt je risico op vroegtijdig overlijden en hartproblemen verlagen door actief te zijn in een specifiek decennium van je leven - wibnet.nl",
+      "published": "2026-06-03T20:00:59+00:00",
+      "summary": "Hartonderzoeker: Je kunt je risico op vroegtijdig overlijden en hartproblemen verlagen door actief te zijn in een specifiek decennium van je leven&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaDJYNUYySDhONTNBMTZOVjRSVzJSc3VyNlhFdVpGNDc4UWFNRVNvQ0dNbFRQdEJ5UjZ2RjI2LUFCTHNlWjkwYnk4WFd6QTdBel9jYkdNdzhndEdXbEtyNWZnSDYzLWRpZzM2Q1RxNU4wZ2lLcE1wazEtR2JaSjd3QjZCV0dfVTNncFRIQWZDS3dIVk9wM09ZYUl6UExUcXplQkt5dGFCOHYwSTFHdENCWm51aTFUemRwYWZxTGxiYzdKMDR4LWZ6WW81c2o5eENxZ21kRWVxZHV0VEVxLXJscG9EeWF6Y3o2QUhYSUVxQlVEdVhiUjJjVVlreDBYcVBrM2drRQ?oc=5"
         }
       ]
     }

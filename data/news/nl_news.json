@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-04T03:41:16.053583+00:00",
+  "fetched_at": "2026-06-04T09:51:45.273478+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "59f4400f03c9",
+      "title": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel - NOS",
+      "published": "2026-06-04T05:16:37+00:00",
+      "summary": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSVoor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor tieners met extreem overgewicht wordt toch vergoed: ‘Obesitas is een chronische, ernstige ziekte’&nbsp;&nbsp;Het ParoolMaagverkleining voortaan vergoed vanaf 13 jaar: '",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmEzZmtXMllVTFlKcktLcjh4N19oVl9iMWV6SjNnUTQzSHRMekhJTXFTM1NySnI5MkVZX0FqV0FQV1I5YXNKOF8zM1VBLXR0Tm5ielh6UWxENmxEakNxTy1NRUNlYVM0emNjWmx5alRmZVNLUWlHN3hGVkJzaHBRVmdMS1dJQjJJU0pIYTY1aDRNMVB2SERXNDJCQzNoNU51bUdkTHdOUnE5cURJdXlR?oc=5"
+        }
+      ]
+    },
     {
       "id": "dba142d29adc",
       "title": "Eén medewerker Radboudumc ‘zwak positief’ getest op hantavirus na fout in beschermingsprotocol - de Volkskrant",
@@ -19,7 +31,7 @@
       "id": "7bb66f460072",
       "title": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen - RTL.nl",
       "published": "2026-06-02T15:25:21+00:00",
-      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek naar nieuwe pil stopgezet na risico’s zwangersch&nbsp;&nbsp;Nieuws.nlOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nl",
+      "summary": "LUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nlOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCTegenvaller: onderzoek naar hormoonvrije anticonceptie stopgezet en dit is waarom&nbsp;&nbsp;Kek MamaOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "RTL.nl",
@@ -28,26 +40,14 @@
       ]
     },
     {
-      "id": "5816e2108354",
-      "title": "Nieuwste medicijnen werken bij stabiele psoriasis even goed op halve dosering Minder prikken en lagere kosten dankzij nieuwe studie - Radboudumc",
-      "published": "2026-06-02T05:06:25+00:00",
-      "summary": "Nieuwste medicijnen werken bij stabiele psoriasis even goed op halve dosering Minder prikken en lagere kosten dankzij nieuwe studie&nbsp;&nbsp;RadboudumcOnderzoekers Radboudumc tonen aan: lagere dosis medicijnen werkt vaak net zo goed&nbsp;&nbsp;De GelderlanderRadboudumc: patiënten met ernstige psoriasis hebben mogelijk veel minder injecties nodig&nbsp;&nbsp;AD.nlDosering medicijnen kan vaak veel lager, bewijst onderzoek Radboudumc: kan veel geld besparen&nbsp;&nbsp;Eindhovens DagbladPsoriasisbe",
+      "id": "98b655b55581",
+      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - De Gelderlander",
+      "published": "2026-06-03T19:00:00+00:00",
+      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Radboudumc",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzZPWGVSMERNN1JOZFc4eGpMMzJJS0JaNl8zRmZqbHNsR2xzNzRLTk5ob1g4VFhsc2ZPRlZldzlITUowaXlRMWVXZmpPeFY5R2diX0F2anFhaFB2T2xJM0pIR1d1MEtoYXRydGZYYW1xRVY3T2pPb0FRV1dfX1BWNFQ5cHI1dFY4aWc4NXNDUmgtTzI1bTFOUXNxU1V6TlBpY01RM1dtXzNyalFaZlRJczlibDZoZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6184b82d3a90",
-      "title": "Dierenarts Mark (50) kreeg zware burn-out door ruzies met baasjes: ‘Het dier is vaak de makkelijkste patiënt’ - AD.nl",
-      "published": "2026-06-02T06:00:00+00:00",
-      "summary": "Dierenarts Mark (50) kreeg zware burn-out door ruzies met baasjes: ‘Het dier is vaak de makkelijkste patiënt’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1NnS28zSFMydHgzeS1KaDdBMGkySEVIRmIyaWFYOGFQQ1hLRWc2SlBWanJZWG05OUVNb3BVVW9wU19DMzgzZk1ubzBtWFg3TUtaeThmTDduNHlNY09sM2J3MnpCb19xbFZ3TFFtMmktTDVVdzBZeUhETmNVRmNIYk9HQjF1Y1FkdVVmNzBBck9CeVkzLWltSFB1ejNRb3pYcnZiRThkQXBNcFJQQVdZeVZGeGZlSGhSZGh6S3VGSktZWVR0TDJsNS1iVy1rVHpBcC1nUzJ5b0NRYXM?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzM3M3VUZTRkdW9JUXZ5Q3p0Yk9qbUt2c3JLWUpTNmlQZWtXVlgxVS13eUtoTlQ5WWVCVmIxclZ5bFpkOXl3Z2txNWhmWk5ENENFdzRES0Eyc3JkUUJBeF9YUXFXTVVQUzRrSFlJVWVBRGVQbk14YnZhNFItSU5QdzdKbXl5eF9SUmdYZjR1dTVOV0ttUVlPWEZMTzNmRHFGbGZiUlV4N3pKMEtlWk1mTGtTc3g2eHdLRDdDNWxyZzdLM3BPMnNTTzdTM0lYQUpfcE9RUQ?oc=5"
         }
       ]
     },

@@ -41,13 +41,13 @@
 
       drugFuse = new Fuse(data.drugs, {
         keys: ['name', 'brands', 'original'],
-        threshold: 0.4,
+        threshold: 0.25,
         includeScore: true
       });
 
       indicationFuse = new Fuse(data.indications, {
         keys: ['name'],
-        threshold: 0.4,
+        threshold: 0.25,
         includeScore: true
       });
 

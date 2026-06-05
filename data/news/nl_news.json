@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-05T14:43:46.784455+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-05T19:50:02.815571+00:00",
+  "count": 10,
   "news": [
     {
       "id": "819d7bc0a42f",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "7bf1a184bd57",
+      "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
+      "published": "2026-06-04T15:53:49+00:00",
+      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSVeelbelovend onderzoek naar hormoonvrije anticonceptie stopgezet na onverwachte zwangerschappen&nbsp;&nbsp;Metronieuws.nlLUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTh4M24tMG5KRWpJSWR1UWxQemlmZWZaRTRWcS1YNW9JX3JIR2JCdUdvTWRoUjVZTmVnMWZyblNIU05SOGdyMVBxdUExNVNrRjNaZlBGWnltYTlBXzJuREhmT1RBZlB3TU56VVNFZGM2M0cydVFCSEFRSmZ6cW1tdEV3MkNuQWtjZVFwNXFEbDZmUm05Wl9sUXlXODlzSkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e8a744c4b1e1",
       "title": "Een jaar lang afvallen met afslankmedicatie: dit zijn de 12 lessen die Hanneke leerde - RTL.nl",
       "published": "2026-06-05T07:08:04+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU5kdXlTOGp2VEV4UmhIQmM0Qjk2eVBJRTFpQTRxbGlQTXc3b1ZFenY1cUVHNm9BMDlQeFNkNlliZE5TYVpRbFJ0NTJubHhuZmZyZ0ljNmxxaWNtVXJwVjBWNE9BeHEzOW01Z3laQXZ5aTZ6Z0V2YWJoQTNuQUw2Mnh6eWFjYXhfY0pfbklDSUNZTnBnM3NJUUpvZVUwaGlYRk9BeEZaR3hyeGc1S0p4NTVNbDMzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bf1a184bd57",
-      "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
-      "published": "2026-06-04T15:53:49+00:00",
-      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSVeelbelovend onderzoek naar hormoonvrije anticonceptie stopgezet na onverwachte zwangerschappen&nbsp;&nbsp;Metronieuws.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTh4M24tMG5KRWpJSWR1UWxQemlmZWZaRTRWcS1YNW9JX3JIR2JCdUdvTWRoUjVZTmVnMWZyblNIU05SOGdyMVBxdUExNVNrRjNaZlBGWnltYTlBXzJuREhmT1RBZlB3TU56VVNFZGM2M0cydVFCSEFRSmZ6cW1tdEV3MkNuQWtjZVFwNXFEbDZmUm05Wl9sUXlXODlzSkE?oc=5"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "id": "462604647b15",
       "title": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’ - Tubantia",
       "published": "2026-06-04T19:00:00+00:00",
-      "summary": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’&nbsp;&nbsp;Tubantia",
+      "summary": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’&nbsp;&nbsp;TubantiaGeen pizza, wel gezeur: Lotte (20) vraagt aandacht voor onbekend probleem op festivals&nbsp;&nbsp;TubantiaFestival vraagt doktersbriefje dat huisarts Lotte niet mag geven&nbsp;&nbsp;NieuwslensStelling | Festivals moeten eigen eten toestaan voor mensen met een allergie&nbsp;&nbsp;Tubantia",
       "sources": [
         {
           "name": "Tubantia",
@@ -103,7 +103,7 @@
       "id": "f6637f1f6a00",
       "title": "Slaapexpert deelt hét geheim voor een betere nachtrust: ‘Alle ouders moeten dit weten’ - Kek Mama",
       "published": "2026-06-04T07:00:00+00:00",
-      "summary": "Slaapexpert deelt hét geheim voor een betere nachtrust: ‘Alle ouders moeten dit weten’&nbsp;&nbsp;Kek MamaDoe deze 4 dingen nu meteen om elke nacht beter en dieper te slapen.&nbsp;&nbsp;Vietnam.vnDit onschuldige bedritueel kan ongemerkt je mentale gezondheid ondermijnen&nbsp;&nbsp;Futura, le média qui explore le monde",
+      "summary": "Slaapexpert deelt hét geheim voor een betere nachtrust: ‘Alle ouders moeten dit weten’&nbsp;&nbsp;Kek MamaDoe deze 4 dingen nu meteen om elke nacht beter en dieper te slapen.&nbsp;&nbsp;Vietnam.vnSlaap lekker ?!&nbsp;&nbsp;LezerijDit onschuldige bedritueel kan ongemerkt je mentale gezondheid ondermijnen&nbsp;&nbsp;Futura, le média qui explore le monde",
       "sources": [
         {
           "name": "Kek Mama",
@@ -120,18 +120,6 @@
         {
           "name": "Nieuwspaal",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzY4LTA4NW9Oc1BXVWpaaTVOVmhKZFRCeDk0d2dwS0J1dDRpU3FZajA3U1BRTFlKRlltdnh1SmFXWnlWelZNRlFULU94OTNMS3k0RUhfV1VMUVpacnhwUVJTeWJpWFJxY2lXY3RqeFJtVUpscFpkUVpJQU8yYVJuYVgySjloXzJFandrZExfbU1DT1ExbERYOWZnRVJPWm5pUl9iZDFqbk5OUXBiajktOGt3ODg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86ae4ff4989a",
-      "title": "Hartonderzoeker: Je kunt je risico op vroegtijdig overlijden en hartproblemen verlagen door actief te zijn in een specifiek decennium van je leven - wibnet.nl",
-      "published": "2026-06-03T20:00:59+00:00",
-      "summary": "Hartonderzoeker: Je kunt je risico op vroegtijdig overlijden en hartproblemen verlagen door actief te zijn in een specifiek decennium van je leven&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaDJYNUYySDhONTNBMTZOVjRSVzJSc3VyNlhFdVpGNDc4UWFNRVNvQ0dNbFRQdEJ5UjZ2RjI2LUFCTHNlWjkwYnk4WFd6QTdBel9jYkdNdzhndEdXbEtyNWZnSDYzLWRpZzM2Q1RxNU4wZ2lLcE1wazEtR2JaSjd3QjZCV0dfVTNncFRIQWZDS3dIVk9wM09ZYUl6UExUcXplQkt5dGFCOHYwSTFHdENCWm51aTFUemRwYWZxTGxiYzdKMDR4LWZ6WW81c2o5eENxZ21kRWVxZHV0VEVxLXJscG9EeWF6Y3o2QUhYSUVxQlVEdVhiUjJjVVlreDBYcVBrM2drRQ?oc=5"
         }
       ]
     }

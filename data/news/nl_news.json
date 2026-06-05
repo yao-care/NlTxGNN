@@ -1,77 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-04T20:01:19.124004+00:00",
-  "count": 7,
+  "fetched_at": "2026-06-05T03:28:36.537852+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "59f4400f03c9",
-      "title": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel - NOS",
-      "published": "2026-06-04T05:16:37+00:00",
-      "summary": "Maagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSVoor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;ad.nlExperts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafMaagverkleining voortaan vergoed vanaf 13 jaar: 'S",
+      "id": "819d7bc0a42f",
+      "title": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’ - De Telegraaf",
+      "published": "2026-06-05T01:55:00+00:00",
+      "summary": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafVoor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSMaagverkleining voortaan vergoed vanaf 13 jaar: 'S",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmEzZmtXMllVTFlKcktLcjh4N19oVl9iMWV6SjNnUTQzSHRMekhJTXFTM1NySnI5MkVZX0FqV0FQV1I5YXNKOF8zM1VBLXR0Tm5ielh6UWxENmxEakNxTy1NRUNlYVM0emNjWmx5alRmZVNLUWlHN3hGVkJzaHBRVmdMS1dJQjJJU0pIYTY1aDRNMVB2SERXNDJCQzNoNU51bUdkTHdOUnE5cURJdXlR?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZnZ6NkE0bWhwRW1yVjlRdGpoWlFjUnNtWWRFZ2k1d1J4ZDA4R2RSV2E3YkVGTVdjN0w3bjZtVnBGVGNSbXdPYlh0Sk5MLVU2T0JqdnV1QXBqVDFQSENCN1c1WVdBSEZTQ0JYcEQ4TDVsMzFxRGh2MFE3Ujd3V0Jyd3lZTExpZlJ5U18zZC0yZlJEZDhsdWVsTG5hMGtGRXZTYk1OVTdJNVlBVUlObWgzZjc3aGlyZWFBYzRNeHp1QXpUMVFHQmJNV1dRVGdnc2dQWVNVMUtKUUxjaGhXaERGWjFGNXMzbjBJMzhGejZDVEdmazllSFE?oc=5"
         }
       ]
     },
     {
-      "id": "08ff40e458e4",
-      "title": "Test nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld - NOS",
+      "id": "7bf1a184bd57",
+      "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
       "published": "2026-06-04T15:53:49+00:00",
-      "summary": "Test nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep WestOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;ad.nl",
+      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkJJMzFXVk4wa2hid1M1WFJwbkdhTURTa0U4d2E0UDBvclVQQ0xINmtBTTcyQzRIN3F4MUF0QUZkd0tudFV6anh4blFUZjBkQ2w0OThRRVBJUWFEREtFRTdGYno1WGl4OTM1RmdRQ3RDeU9BdmhPZkh1RGsyQk91b2FCS2xORWtfRXFwUm9maUtjRTVpS2tkUjkzY04?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTh4M24tMG5KRWpJSWR1UWxQemlmZWZaRTRWcS1YNW9JX3JIR2JCdUdvTWRoUjVZTmVnMWZyblNIU05SOGdyMVBxdUExNVNrRjNaZlBGWnltYTlBXzJuREhmT1RBZlB3TU56VVNFZGM2M0cydVFCSEFRSmZ6cW1tdEV3MkNuQWtjZVFwNXFEbDZmUm05Wl9sUXlXODlzSkE?oc=5"
         }
       ]
     },
     {
-      "id": "87d9612a50ee",
-      "title": "Medewerker Radboudumc test ‘zwak positief’ op hantavirus na fouten met bescherming: nog geen ziekteverschijnselen - De Gelderlander",
-      "published": "2026-06-03T01:32:00+00:00",
-      "summary": "Medewerker Radboudumc test ‘zwak positief’ op hantavirus na fouten met bescherming: nog geen ziekteverschijnselen&nbsp;&nbsp;De GelderlanderMedewerker Radboudumc test nu ‘zwak positief’ op hantavirus na fout met beschermingsprotocol&nbsp;&nbsp;De GelderlanderRadboudumc: één medewerker uitgebreider getest op hantavirus&nbsp;&nbsp;Hart van NederlandEén medewerker Radboudumc ‘zwak positief’ getest op hantavirus na fout in beschermingsprotocol&nbsp;&nbsp;de VolkskrantMedewerker Radboudumc test 'zwak",
+      "id": "71cf4b3c7af7",
+      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - Tubantia",
+      "published": "2026-06-04T05:30:00+00:00",
+      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;Tubantia",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWhqVndrQk52LW9VcXV0eThZaGhCLTlOdlN2ZEQ5QVNqRVdHd0pzcUVTSFViQm8tTUZJWWVoNlVjVThoQ1FaRklUaGM2VGpOU1pTOEs0ZzkxbG4tcktuWDlEdWdCZ1NXeWV2cHJabDhhd2N5NEZZM1J6Ml9aUExjSmFTeDNLelNIMFJLR0RjcGpWcm9sazJJanVpVlVoZW5TdFFpeTNTZzZBekRWZEFtM1d2OEszZGdzZEt0YmRHN3gwbnF0R1NnNjQ3cjhJS1UxRTdVajdBbnNQVzBteDlHT0NZcEZ6aUhnVlBNVzBIVQ?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmkxUV9iM3Nia1hpZjNza1lxcDNyYmp5elRLYVpaR2VvVXBSNEU5UldFTWNYT181NU9JUHQwUjFhVExKZWlvOWtmaWE0Zm5tMXh3VGhmd0U2RXZweDhvdUs2WGJydFJBNmpXR0EzQnpTc3RzUTcyT2x3aHZ5dmlzUmdmOE15QTRFSjd4WEsxTDZ1bzVSNjVIUlNxakNON2dfYzFHQXJJdlFqLVZaNF9ad3plRzZrMTBBbXBHYmZ1eGpERlZqbFpWdm5WdWJzTHh5YlE?oc=5"
         }
       ]
     },
     {
-      "id": "861b7de8c167",
-      "title": "Op zomervakantie: ook voor landen als Turkije, Oostenrijk en Duitsland worden reizigers al vaccinaties aangeraden - De Gelderlander",
-      "published": "2026-06-03T19:00:00+00:00",
-      "summary": "Op zomervakantie: ook voor landen als Turkije, Oostenrijk en Duitsland worden reizigers al vaccinaties aangeraden&nbsp;&nbsp;De Gelderlander",
+      "id": "0bd7e500a9f0",
+      "title": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen - AD.nl",
+      "published": "2026-06-04T00:49:00+00:00",
+      "summary": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen&nbsp;&nbsp;AD.nlVolgens de Wereldgezondheidsorganisatie doodt onveilig voedsel jaarlijks 1,5 miljoen mensen&nbsp;&nbsp;Gamereactor.nlTU Delft speelt een sleutelrol in voedselveiligheidsinitiatief van de WHO&nbsp;&nbsp;TU DelftDe WHO waarschuwt dat besmet voedsel jaarlijks 1,5 miljoen mensenlevens eist.&nbsp;&nbsp;Vietnam.vnWHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSmk5b3JlcS1MME9qNVFZc09zZF9aeTk4bWJlV1ZBWkE1YVAxOEhKZzUzUHJqdGFlS0lmM0hnS25ER1lZaHRCajYzVU9IU0llenlQUTVTbVFVMWFuUlpJemJ6OGYtX201N040aGhuSXBqNnhnTlVrQmhuWklxTUpOSFczWktDeVNQRzk5d3Mza19KRUZyQTktRFBINEg1QUZQNlZjQ1JRaEtrWUg1Qk1UX3JPV2IxVkI5dWxBX09COVFpVzBkRWFySHQzdWp1VDRLV2lQamhCZTdXTmZwZWRGeTd4Mkl0TGdFOGF2TA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6586df6743e9",
-      "title": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen - ad.nl",
-      "published": "2026-06-03T15:49:00+00:00",
-      "summary": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen&nbsp;&nbsp;ad.nlVolgens de Wereldgezondheidsorganisatie doodt onveilig voedsel jaarlijks 1,5 miljoen mensen&nbsp;&nbsp;Gamereactor.nlTU Delft speelt een sleutelrol in voedselveiligheidsinitiatief van de WHO&nbsp;&nbsp;TU DelftDe WHO waarschuwt dat besmet voedsel jaarlijks 1,5 miljoen mensenlevens eist.&nbsp;&nbsp;Vietnam.vnWHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "ad.nl",
+          "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUml2Q2VKSFVoUC1DaGk5TENIQ3hNbXlDSk9kc3lha1ppT1RXUUhucXFyQlFHaW1DN1Etbl9FOTNsNmRiWl9zTGFnZ1lfMV9OMU9SVVEzd1Q4aHIwNEs3ZU1PNU5YV2NwejdKVTVVWEF6NURuVDduLUVvWkl5Y0xvQVpSVmhqNE5pNVgwTGh6cHNHdWtfRTNsLW5OTXZ1YnluM3FxNEMxWUJiWnYtQ3Fxd09fNmdGVDY1UVVxRVdzbHNOcDdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "388893d1c45b",
-      "title": "“Genezen verklaard, maar voor verzekering telde dat niet”: meldingsplicht kanker valt weg na vijf jaar - HBVL",
-      "published": "2026-06-02T23:59:00+00:00",
-      "summary": "“Genezen verklaard, maar voor verzekering telde dat niet”: meldingsplicht kanker valt weg na vijf jaar&nbsp;&nbsp;HBVLVerzekeraar moet niet meer weten dat je vijf jaar geleden kanker had: wat betekent het voor de patiënt? En heeft het een invloed op de premies?&nbsp;&nbsp;NieuwsbladWel of geen ORV blijft aan geldverstrekker&nbsp;&nbsp;VVPonline.nlOPROEP. Had u als voormalig kankerpatiënt ooit problemen met het afsluiten van een verzekering?&nbsp;&nbsp;GVAVerzekeraar hoeft niet meer te weten dat ",
-      "sources": [
-        {
-          "name": "HBVL",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT093Q3NVTm1NTVJhbFlDTjdpUHgtbnZwbmJrd1Nka1BqUWg1T0dPZ0NLLWM1dDVEb3lJTTVYVDFrM2pueDFNelRtSTFtWi05Szc1UUFBUkJScjNTdlFEQTFkdTVHakNOVFBDaWJHM3MzSGpaNXFidjNGUlRKYWJqaFRGU0RsTEk1cW92REJ3RmhOV2pwQ0F4XzRPMWVsMHFvZ3NaUzhoNk4zaFNrbUhWdnpNMFRpejNUZ2FOdGFYV2ppRnk1cXE3azhxTFdvRGFsSDF5SUJmemt1WVdlRkY1d09WS044ajZZ?oc=5"
         }
       ]
     },

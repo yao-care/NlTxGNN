@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-05T03:28:36.537852+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-05T09:40:41.527792+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "8bfda11c4ee8",
+      "title": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie - NU",
+      "published": "2026-06-05T06:41:28+00:00",
+      "summary": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdLbXZDWEREbzMxdjduYWVIMVA3ZFpCYnk5VHVfMW5OT3k1NElPVmVZb0M3TjE5YjdoMmFsNzh0blV5bW9OYjFDSWRzX3Rsb184SjFHbXAzc2FBQmcycERycnEzMHF3OGU1RUNxQ2pYdjgyVFZMSVBreXl2Q3l3N1JOajFEdGdGMGpuZXFoMmo4dFkxM25vaUtKUnE0YjNZel91aS1B?oc=5"
+        }
+      ]
+    },
     {
       "id": "819d7bc0a42f",
       "title": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’ - De Telegraaf",
-      "published": "2026-06-05T01:55:00+00:00",
-      "summary": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafVoor tieners met obesitas komt een maagverkleining in het basispakket&nbsp;&nbsp;NUExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSMaagverkleining voortaan vergoed vanaf 13 jaar: 'S",
+      "published": "2026-06-04T18:55:00+00:00",
+      "summary": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor jongeren met extreme obesitas nu deel van basispakket zorg&nbsp;&nbsp;de VolkskrantVoor tieners met obesitas kom",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -16,10 +28,34 @@
       ]
     },
     {
+      "id": "e8a744c4b1e1",
+      "title": "Een jaar lang afvallen met afslankmedicatie: dit zijn de 12 lessen die Hanneke leerde - RTL.nl",
+      "published": "2026-06-05T07:08:04+00:00",
+      "summary": "Een jaar lang afvallen met afslankmedicatie: dit zijn de 12 lessen die Hanneke leerde&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU5kdXlTOGp2VEV4UmhIQmM0Qjk2eVBJRTFpQTRxbGlQTXc3b1ZFenY1cUVHNm9BMDlQeFNkNlliZE5TYVpRbFJ0NTJubHhuZmZyZ0ljNmxxaWNtVXJwVjBWNE9BeHEzOW01Z3laQXZ5aTZ6Z0V2YWJoQTNuQUw2Mnh6eWFjYXhfY0pfbklDSUNZTnBnM3NJUUpvZVUwaGlYRk9BeEZaR3hyeGc1S0p4NTVNbDMzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35f83c35dae1",
+      "title": "Floris (17) deed dieet voor Wagenings ADHD-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’ - De Gelderlander",
+      "published": "2026-06-04T22:22:00+00:00",
+      "summary": "Floris (17) deed dieet voor Wagenings ADHD-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTnd1WVBJOXl0V3k0NFhXV3YtZkc3YjctRlZ0a3F2c0NIWUg4N1dsUUtlNGF2aG5YdVJPUXhKSHJfUUVMSkRRSU5EMXpwcktxQzFYdExzMTdkQ3V2dUlWZlpZaEhhSERxWkdjV1lNMW4tSXp0dHN0R3VXbVkybVhvcEF3YmhjY042SnpLRlFhMzJqVWVpeWpPbExrZHpnQlhfdF96NmlmdDRhMTFUY0FDU3dIZXNmeUJ6TU05TXpRTm1FdlgyUmwzYTJsTVNRQlQ5clRWV0ZxeGtoMnA3Z3RFWWNVUnZzYVEtbE5R?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7bf1a184bd57",
       "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
       "published": "2026-06-04T15:53:49+00:00",
-      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nlZiekenhuis stopt met test nieuwe pil: te veel vrouwen zwanger geworden&nbsp;&nbsp;Omroep West",
+      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSVeelbelovend onderzoek naar hormoonvrije anticonceptie stopgezet na onverwachte zwangerschappen&nbsp;&nbsp;Metronieuws.nlOnderzoek stilgelegd: hormoonloze anticonceptiepil leidt tot te veel zwangerschappen&nbsp;&nbsp;NRCOnderzoek van LUMC naar mifepriston als anticonceptiemiddel in Nederland stopgezet&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "NOS",
@@ -28,14 +64,50 @@
       ]
     },
     {
-      "id": "71cf4b3c7af7",
-      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - Tubantia",
-      "published": "2026-06-04T05:30:00+00:00",
-      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;Tubantia",
+      "id": "462604647b15",
+      "title": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’ - Tubantia",
+      "published": "2026-06-04T19:00:00+00:00",
+      "summary": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’&nbsp;&nbsp;Tubantia",
       "sources": [
         {
           "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmkxUV9iM3Nia1hpZjNza1lxcDNyYmp5elRLYVpaR2VvVXBSNEU5UldFTWNYT181NU9JUHQwUjFhVExKZWlvOWtmaWE0Zm5tMXh3VGhmd0U2RXZweDhvdUs2WGJydFJBNmpXR0EzQnpTc3RzUTcyT2x3aHZ5dmlzUmdmOE15QTRFSjd4WEsxTDZ1bzVSNjVIUlNxakNON2dfYzFHQXJJdlFqLVZaNF9ad3plRzZrMTBBbXBHYmZ1eGpERlZqbFpWdm5WdWJzTHh5YlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRElySHE5c1N6cG8zQTRhUzhjVkU5djFWTGxZbUs4NlFiRElwUHBKMFBWZHQxR2hHcnpwWHFNZmJHMHBaSHpMTzBuUG5DYVpDVmp5bzFyd3ptcmFWUzhGMWphUlE4UXMyWlFDSVg4c21Sck4wbHdwTmZkNU0wdjNqVXFUeS0xWTNKR05wNE9WNUxrY0RoMU5tNTU3OWlRR3NjS0JGa01EYzcyOE9NdEpfQWdPalVrMjhjbk93N09PX1NyZlNxWVNTSUF4M0xNc1EzZzdqTGJuR1d3aThxZjM3dXdmTDI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c56426073fa",
+      "title": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma - NU",
+      "published": "2026-06-04T18:51:35+00:00",
+      "summary": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnRnTXFxUjFRRjZpa3ZXcEtaaHpRZDB6VFViU2pvM0ZTTEtWWGY0aUV5N1V2eEZpNmh6VlIwZmEyS25RZFNGWml6R3lxdmY5M2RWOVRmdjRXSG1TMHQ3NHMwT1NjUkFwaU9wc19xWk54OUh4X3hfUGk1eXZ3S056SGRZSXRKX2xhMGgyckY5SGo3el9CZTFYUGh2WXN0UF81UmQ1SDRfYVhMVzR0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2dcaec9e70a4",
+      "title": "Nederlandse topviroloog Vincent Munster werkte met de gevaarlijkste virussen ter wereld: nu hangt hem jarenlange celstraf boven het hoofd - De Telegraaf",
+      "published": "2026-06-03T15:45:00+00:00",
+      "summary": "Nederlandse topviroloog Vincent Munster werkte met de gevaarlijkste virussen ter wereld: nu hangt hem jarenlange celstraf boven het hoofd&nbsp;&nbsp;De TelegraafNederlandse viroloog aangeklaagd in VS voor smokkelen flesjes met mpox&nbsp;&nbsp;NUNederlandse viroloog in de VS vervolgd om smokkel van het mpox-virus&nbsp;&nbsp;TrouwNederlandse onderzoeker (53) riskeert vijf jaar cel nadat hij apenpokken vanuit Congo de VS binnensmokkelde&nbsp;&nbsp;HLNNederlandse viroloog wordt in de Verenigde State",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYUZpZ0RmU3kxOHB1ZFhvbmMyX1U0aHQ3TF9PcXNHaWt5aEtjWDBTd2NmdHlZUEZwalN4Y1VoRC1heGhNVDhpMmpKdlltNUxrOENBQ050bW54akVqVEticDhpOUZGRTFRdkVCMktiUkNzUTBNVkJza3I0YXFHR3VYd3p4emlFZ0I4UGt3QW03OHF6dlZ0OG9ZcmxXaU5JNjhxODNpWFpyamNYdFctRUZ2MzNfcGJzaHVlMkpGMEVJZy02VWRoczZJUGItZnY5T29HQTFhUjZITG1jY3ozei1hY1B4Ukt5UlRxaVVzMk5nRmIxd3NhdnFGRDlBczd1d2ZLYlBuZ0wzUFpOaGR3YjBjZXpFTzBtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e76dfb680b9f",
+      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - de Stentor",
+      "published": "2026-06-03T19:00:00+00:00",
+      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1p0TjRIcHI2ekJPTW5JUTBCQWdsb1doTjVTNnllc2ducDJhZ25MVkY3cE0wMkNNMi1WdklSdkNmbk5RYlVJZHFCNGlBVmR1cUZQcjh4QXJnOTFXeEpFZ2NTZzVmQ29wVnIwXzY2XzNDV2ljd1VMbmhnelJnZjduY2puTk5PYktOWlZYS0xiaUVIbVZaT19LRUhZay03UVR6bHZXX0c3cF9lc0sta0dnal93Z2hJRlFzbktkSU5NV205cVNRSUJkM0wzejJpaHVueGJJ?oc=5"
         }
       ]
     },

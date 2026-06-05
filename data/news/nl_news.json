@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-05T09:40:41.527792+00:00",
+  "fetched_at": "2026-06-05T14:43:46.784455+00:00",
   "count": 11,
   "news": [
-    {
-      "id": "8bfda11c4ee8",
-      "title": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie - NU",
-      "published": "2026-06-05T06:41:28+00:00",
-      "summary": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie&nbsp;&nbsp;NU",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdLbXZDWEREbzMxdjduYWVIMVA3ZFpCYnk5VHVfMW5OT3k1NElPVmVZb0M3TjE5YjdoMmFsNzh0blV5bW9OYjFDSWRzX3Rsb184SjFHbXAzc2FBQmcycERycnEzMHF3OGU1RUNxQ2pYdjgyVFZMSVBreXl2Q3l3N1JOajFEdGdGMGpuZXFoMmo4dFkxM25vaUtKUnE0YjNZel91aS1B?oc=5"
-        }
-      ]
-    },
     {
       "id": "819d7bc0a42f",
       "title": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’ - De Telegraaf",
       "published": "2026-06-04T18:55:00+00:00",
-      "summary": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor jongeren met extreme obesitas nu deel van basispakket zorg&nbsp;&nbsp;de VolkskrantVoor tieners met obesitas kom",
+      "summary": "Experts verbaasd over vergoeding voor maagverkleining tieners met obesitas: ’Afslankmedicatie lijkt me eerste stap’&nbsp;&nbsp;De TelegraafExtreem zware tieners die écht niet kunnen afvallen krijgen maagverkleining vergoed: ‘Maar leefstijl blijft de basis’&nbsp;&nbsp;AD.nlMaagverkleining voor kinderen met obesitas in basispakket als laatste redmiddel&nbsp;&nbsp;NOSMaagverkleining voor jongeren met extreme obesitas nu deel van basispakket zorg&nbsp;&nbsp;de VolkskrantVoor tieners met obesitas kom",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZnZ6NkE0bWhwRW1yVjlRdGpoWlFjUnNtWWRFZ2k1d1J4ZDA4R2RSV2E3YkVGTVdjN0w3bjZtVnBGVGNSbXdPYlh0Sk5MLVU2T0JqdnV1QXBqVDFQSENCN1c1WVdBSEZTQ0JYcEQ4TDVsMzFxRGh2MFE3Ujd3V0Jyd3lZTExpZlJ5U18zZC0yZlJEZDhsdWVsTG5hMGtGRXZTYk1OVTdJNVlBVUlObWgzZjc3aGlyZWFBYzRNeHp1QXpUMVFHQmJNV1dRVGdnc2dQWVNVMUtKUUxjaGhXaERGWjFGNXMzbjBJMzhGejZDVEdmazllSFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8bfda11c4ee8",
+      "title": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie - NU",
+      "published": "2026-06-05T06:41:28+00:00",
+      "summary": "Voor het eerst vaccin ontworpen met kunstmatige intelligentie&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdLbXZDWEREbzMxdjduYWVIMVA3ZFpCYnk5VHVfMW5OT3k1NElPVmVZb0M3TjE5YjdoMmFsNzh0blV5bW9OYjFDSWRzX3Rsb184SjFHbXAzc2FBQmcycERycnEzMHF3OGU1RUNxQ2pYdjgyVFZMSVBreXl2Q3l3N1JOajFEdGdGMGpuZXFoMmo4dFkxM25vaUtKUnE0YjNZel91aS1B?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "35f83c35dae1",
-      "title": "Floris (17) deed dieet voor Wagenings ADHD-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’ - De Gelderlander",
-      "published": "2026-06-04T22:22:00+00:00",
-      "summary": "Floris (17) deed dieet voor Wagenings ADHD-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTnd1WVBJOXl0V3k0NFhXV3YtZkc3YjctRlZ0a3F2c0NIWUg4N1dsUUtlNGF2aG5YdVJPUXhKSHJfUUVMSkRRSU5EMXpwcktxQzFYdExzMTdkQ3V2dUlWZlpZaEhhSERxWkdjV1lNMW4tSXp0dHN0R3VXbVkybVhvcEF3YmhjY042SnpLRlFhMzJqVWVpeWpPbExrZHpnQlhfdF96NmlmdDRhMTFUY0FDU3dIZXNmeUJ6TU05TXpRTm1FdlgyUmwzYTJsTVNRQlQ5clRWV0ZxeGtoMnA3Z3RFWWNVUnZzYVEtbE5R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7bf1a184bd57",
       "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
       "published": "2026-06-04T15:53:49+00:00",
@@ -60,6 +48,30 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTh4M24tMG5KRWpJSWR1UWxQemlmZWZaRTRWcS1YNW9JX3JIR2JCdUdvTWRoUjVZTmVnMWZyblNIU05SOGdyMVBxdUExNVNrRjNaZlBGWnltYTlBXzJuREhmT1RBZlB3TU56VVNFZGM2M0cydVFCSEFRSmZ6cW1tdEV3MkNuQWtjZVFwNXFEbDZmUm05Wl9sUXlXODlzSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e02edcbbcab9",
+      "title": "Floris (17) deed dieet voor Wagenings adhd-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’ - De Gelderlander",
+      "published": "2026-06-04T22:22:00+00:00",
+      "summary": "Floris (17) deed dieet voor Wagenings adhd-onderzoek en merkte groot verschil: ‘Ei is voor hem echt een killer’&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTnd1WVBJOXl0V3k0NFhXV3YtZkc3YjctRlZ0a3F2c0NIWUg4N1dsUUtlNGF2aG5YdVJPUXhKSHJfUUVMSkRRSU5EMXpwcktxQzFYdExzMTdkQ3V2dUlWZlpZaEhhSERxWkdjV1lNMW4tSXp0dHN0R3VXbVkybVhvcEF3YmhjY042SnpLRlFhMzJqVWVpeWpPbExrZHpnQlhfdF96NmlmdDRhMTFUY0FDU3dIZXNmeUJ6TU05TXpRTm1FdlgyUmwzYTJsTVNRQlQ5clRWV0ZxeGtoMnA3Z3RFWWNVUnZzYVEtbE5R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c56426073fa",
+      "title": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma - NU",
+      "published": "2026-06-04T18:51:35+00:00",
+      "summary": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnRnTXFxUjFRRjZpa3ZXcEtaaHpRZDB6VFViU2pvM0ZTTEtWWGY0aUV5N1V2eEZpNmh6VlIwZmEyS25RZFNGWml6R3lxdmY5M2RWOVRmdjRXSG1TMHQ3NHMwT1NjUkFwaU9wc19xWk54OUh4X3hfUGk1eXZ3S056SGRZSXRKX2xhMGgyckY5SGo3el9CZTFYUGh2WXN0UF81UmQ1SDRfYVhMVzR0?oc=5"
         }
       ]
     },
@@ -76,50 +88,38 @@
       ]
     },
     {
-      "id": "5c56426073fa",
-      "title": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma - NU",
-      "published": "2026-06-04T18:51:35+00:00",
-      "summary": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma&nbsp;&nbsp;NU",
+      "id": "71cf4b3c7af7",
+      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - Tubantia",
+      "published": "2026-06-04T05:30:00+00:00",
+      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;Tubantia",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnRnTXFxUjFRRjZpa3ZXcEtaaHpRZDB6VFViU2pvM0ZTTEtWWGY0aUV5N1V2eEZpNmh6VlIwZmEyS25RZFNGWml6R3lxdmY5M2RWOVRmdjRXSG1TMHQ3NHMwT1NjUkFwaU9wc19xWk54OUh4X3hfUGk1eXZ3S056SGRZSXRKX2xhMGgyckY5SGo3el9CZTFYUGh2WXN0UF81UmQ1SDRfYVhMVzR0?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmkxUV9iM3Nia1hpZjNza1lxcDNyYmp5elRLYVpaR2VvVXBSNEU5UldFTWNYT181NU9JUHQwUjFhVExKZWlvOWtmaWE0Zm5tMXh3VGhmd0U2RXZweDhvdUs2WGJydFJBNmpXR0EzQnpTc3RzUTcyT2x3aHZ5dmlzUmdmOE15QTRFSjd4WEsxTDZ1bzVSNjVIUlNxakNON2dfYzFHQXJJdlFqLVZaNF9ad3plRzZrMTBBbXBHYmZ1eGpERlZqbFpWdm5WdWJzTHh5YlE?oc=5"
         }
       ]
     },
     {
-      "id": "2dcaec9e70a4",
-      "title": "Nederlandse topviroloog Vincent Munster werkte met de gevaarlijkste virussen ter wereld: nu hangt hem jarenlange celstraf boven het hoofd - De Telegraaf",
-      "published": "2026-06-03T15:45:00+00:00",
-      "summary": "Nederlandse topviroloog Vincent Munster werkte met de gevaarlijkste virussen ter wereld: nu hangt hem jarenlange celstraf boven het hoofd&nbsp;&nbsp;De TelegraafNederlandse viroloog aangeklaagd in VS voor smokkelen flesjes met mpox&nbsp;&nbsp;NUNederlandse viroloog in de VS vervolgd om smokkel van het mpox-virus&nbsp;&nbsp;TrouwNederlandse onderzoeker (53) riskeert vijf jaar cel nadat hij apenpokken vanuit Congo de VS binnensmokkelde&nbsp;&nbsp;HLNNederlandse viroloog wordt in de Verenigde State",
+      "id": "f6637f1f6a00",
+      "title": "Slaapexpert deelt hét geheim voor een betere nachtrust: ‘Alle ouders moeten dit weten’ - Kek Mama",
+      "published": "2026-06-04T07:00:00+00:00",
+      "summary": "Slaapexpert deelt hét geheim voor een betere nachtrust: ‘Alle ouders moeten dit weten’&nbsp;&nbsp;Kek MamaDoe deze 4 dingen nu meteen om elke nacht beter en dieper te slapen.&nbsp;&nbsp;Vietnam.vnDit onschuldige bedritueel kan ongemerkt je mentale gezondheid ondermijnen&nbsp;&nbsp;Futura, le média qui explore le monde",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYUZpZ0RmU3kxOHB1ZFhvbmMyX1U0aHQ3TF9PcXNHaWt5aEtjWDBTd2NmdHlZUEZwalN4Y1VoRC1heGhNVDhpMmpKdlltNUxrOENBQ050bW54akVqVEticDhpOUZGRTFRdkVCMktiUkNzUTBNVkJza3I0YXFHR3VYd3p4emlFZ0I4UGt3QW03OHF6dlZ0OG9ZcmxXaU5JNjhxODNpWFpyamNYdFctRUZ2MzNfcGJzaHVlMkpGMEVJZy02VWRoczZJUGItZnY5T29HQTFhUjZITG1jY3ozei1hY1B4Ukt5UlRxaVVzMk5nRmIxd3NhdnFGRDlBczd1d2ZLYlBuZ0wzUFpOaGR3YjBjZXpFTzBtZw?oc=5"
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjVGTlZiTERLRkt5TFZjazdKZVRmajQ5V1EweVFZSjlVOWp6SDlwMDBReE8wdU4zWUEwd2Y3bkpKeTFZaEFzYWlfT0k4b3dZWmw1YXNHdktoNzhOTUtUQXc0d1c1dFRqbUp3N1hTMDRGc1lqcU5teno0LWdrVWN0eXpZZ0pFODJlSkxZ?oc=5"
         }
       ]
     },
     {
-      "id": "e76dfb680b9f",
-      "title": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig - de Stentor",
-      "published": "2026-06-03T19:00:00+00:00",
-      "summary": "GGD waarschuwt vakantiegangers: ook voor Turkije, Oostenrijk en Duitsland soms vaccinatie nodig&nbsp;&nbsp;de Stentor",
+      "id": "457f8856201c",
+      "title": "Wetenschappers willen onderzoek: \"Brein Trump misschien toch meer dan toevallige klont cellen\" - Nieuwspaal",
+      "published": "2026-06-04T19:10:28+00:00",
+      "summary": "Wetenschappers willen onderzoek: \"Brein Trump misschien toch meer dan toevallige klont cellen\"&nbsp;&nbsp;Nieuwspaal",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1p0TjRIcHI2ekJPTW5JUTBCQWdsb1doTjVTNnllc2ducDJhZ25MVkY3cE0wMkNNMi1WdklSdkNmbk5RYlVJZHFCNGlBVmR1cUZQcjh4QXJnOTFXeEpFZ2NTZzVmQ29wVnIwXzY2XzNDV2ljd1VMbmhnelJnZjduY2puTk5PYktOWlZYS0xiaUVIbVZaT19LRUhZay03UVR6bHZXX0c3cF9lc0sta0dnal93Z2hJRlFzbktkSU5NV205cVNRSUJkM0wzejJpaHVueGJJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bd7e500a9f0",
-      "title": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen - AD.nl",
-      "published": "2026-06-04T00:49:00+00:00",
-      "summary": "WHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel, vooral risico voor jonge kinderen&nbsp;&nbsp;AD.nlVolgens de Wereldgezondheidsorganisatie doodt onveilig voedsel jaarlijks 1,5 miljoen mensen&nbsp;&nbsp;Gamereactor.nlTU Delft speelt een sleutelrol in voedselveiligheidsinitiatief van de WHO&nbsp;&nbsp;TU DelftDe WHO waarschuwt dat besmet voedsel jaarlijks 1,5 miljoen mensenlevens eist.&nbsp;&nbsp;Vietnam.vnWHO: Jaarlijks 1,5 miljoen doden door onveilig voedsel&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUml2Q2VKSFVoUC1DaGk5TENIQ3hNbXlDSk9kc3lha1ppT1RXUUhucXFyQlFHaW1DN1Etbl9FOTNsNmRiWl9zTGFnZ1lfMV9OMU9SVVEzd1Q4aHIwNEs3ZU1PNU5YV2NwejdKVTVVWEF6NURuVDduLUVvWkl5Y0xvQVpSVmhqNE5pNVgwTGh6cHNHdWtfRTNsLW5OTXZ1YnluM3FxNEMxWUJiWnYtQ3Fxd09fNmdGVDY1UVVxRVdzbHNOcDdr?oc=5"
+          "name": "Nieuwspaal",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzY4LTA4NW9Oc1BXVWpaaTVOVmhKZFRCeDk0d2dwS0J1dDRpU3FZajA3U1BRTFlKRlltdnh1SmFXWnlWelZNRlFULU94OTNMS3k0RUhfV1VMUVpacnhwUVJTeWJpWFJxY2lXY3RqeFJtVUpscFpkUVpJQU8yYVJuYVgySjloXzJFandrZExfbU1DT1ExbERYOWZnRVJPWm5pUl9iZDFqbk5OUXBiajktOGt3ODg?oc=5"
         }
       ]
     },

@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-06T13:25:36.426630+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-06T19:17:10.971923+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "eff25198abf4",
+      "title": "Na een bloedvergiftiging staat Tess' leven stil: \"Was liever een been verloren\" - NH Nieuws",
+      "published": "2026-06-05T07:58:00+00:00",
+      "summary": "Na een bloedvergiftiging staat Tess' leven stil: \"Was liever een been verloren\"&nbsp;&nbsp;NH NieuwsTess (21) overwint bloedvergiftiging na jarenlange strijd met speciale therapie&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "NH Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSC1YbjBBZjVKNTh4T3JnQzMxTVkwQm1CZkJWQmpZR2ViLVNkSks1NnVzNnFielFDTk9xekdhaWpCdGxIUjJRSm1EM0lJYVZlWm1LLUpTTXFUdGJYUFQwSG53TzdkWEg1MVNNNnd4YVZXZEZtTE40dE1DUUZQcnI2LW5Rbk1Mc2pfY0dmMFRDdVpRaUxDMkhEcUJPLVRJSmI3ajhVSnlDYzNCMWpTYWFQNGhjVQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "610614bba405",
       "title": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit - de Volkskrant",
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "7bf1a184bd57",
-      "title": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld - NOS",
-      "published": "2026-06-04T15:53:49+00:00",
-      "summary": "Test hormoonvrije anticonceptiepil gestopt, deelnemers teleurgesteld&nbsp;&nbsp;NOSOnderzoek naar Mifepriston als anticonceptiemiddel gestopt&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCTest nieuwe pil stopt na zwangerschappen, deelnemers teleurgesteld&nbsp;&nbsp;NOSVeelbelovend onderzoek naar hormoonvrije anticonceptie stopgezet na onverwachte zwangerschappen&nbsp;&nbsp;Metronieuws.nlLUMC stopt met veelbelovende anticonceptiepil: te veel zwangerschappen&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTh4M24tMG5KRWpJSWR1UWxQemlmZWZaRTRWcS1YNW9JX3JIR2JCdUdvTWRoUjVZTmVnMWZyblNIU05SOGdyMVBxdUExNVNrRjNaZlBGWnltYTlBXzJuREhmT1RBZlB3TU56VVNFZGM2M0cydVFCSEFRSmZ6cW1tdEV3MkNuQWtjZVFwNXFEbDZmUm05Wl9sUXlXODlzSkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83400ed491e0",
       "title": "Voor het eerst vaccin ontwikkeld met kunstmatige intelligentie - NU",
       "published": "2026-06-05T06:41:28+00:00",
@@ -55,7 +55,7 @@
       "id": "462604647b15",
       "title": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’ - Tubantia",
       "published": "2026-06-04T19:00:00+00:00",
-      "summary": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’&nbsp;&nbsp;TubantiaGeen pizza, wel gezeur: Lotte (20) vraagt aandacht voor onbekend probleem op festivals&nbsp;&nbsp;TubantiaFestival vraagt doktersbriefje dat huisarts Lotte niet mag geven&nbsp;&nbsp;NieuwslensStelling | Festivals moeten eigen eten toestaan voor mensen met een allergie&nbsp;&nbsp;Tubantia",
+      "summary": "Festival vraagt om een doktersbriefje dat Lottes huisarts niet mag geven: ‘Dan leef ik maar op waterijsjes’&nbsp;&nbsp;TubantiaGeen pizza, wel gezeur: Lotte (20) vraagt aandacht voor onbekend probleem op festivals&nbsp;&nbsp;De GelderlanderStelling | Festivals moeten eigen eten toestaan voor mensen met een allergie&nbsp;&nbsp;TubantiaFestival vraagt doktersbriefje dat huisarts Lotte niet mag geven&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "Tubantia",
@@ -96,18 +96,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTnd1WVBJOXl0V3k0NFhXV3YtZkc3YjctRlZ0a3F2c0NIWUg4N1dsUUtlNGF2aG5YdVJPUXhKSHJfUUVMSkRRSU5EMXpwcktxQzFYdExzMTdkQ3V2dUlWZlpZaEhhSERxWkdjV1lNMW4tSXp0dHN0R3VXbVkybVhvcEF3YmhjY042SnpLRlFhMzJqVWVpeWpPbExrZHpnQlhfdF96NmlmdDRhMTFUY0FDU3dIZXNmeUJ6TU05TXpRTm1FdlgyUmwzYTJsTVNRQlQ5clRWV0ZxeGtoMnA3Z3RFWWNVUnZzYVEtbE5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c56426073fa",
-      "title": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma - NU",
-      "published": "2026-06-04T18:51:35+00:00",
-      "summary": "Mensen met diabetes lopen groter risico op PTSS-klachten na trauma&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnRnTXFxUjFRRjZpa3ZXcEtaaHpRZDB6VFViU2pvM0ZTTEtWWGY0aUV5N1V2eEZpNmh6VlIwZmEyS25RZFNGWml6R3lxdmY5M2RWOVRmdjRXSG1TMHQ3NHMwT1NjUkFwaU9wc19xWk54OUh4X3hfUGk1eXZ3S056SGRZSXRKX2xhMGgyckY5SGo3el9CZTFYUGh2WXN0UF81UmQ1SDRfYVhMVzR0?oc=5"
         }
       ]
     },

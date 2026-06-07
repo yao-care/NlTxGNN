@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-07T03:34:44.828558+00:00",
-  "count": 8,
+  "fetched_at": "2026-06-07T08:51:51.979362+00:00",
+  "count": 5,
   "news": [
     {
       "id": "a2e7df983768",
       "title": "Ebolavirus niet onder controle: 'Raak je al besmet bij handen schudden?' - NU",
       "published": "2026-06-06T14:01:31+00:00",
-      "summary": "Ebolavirus niet onder controle: 'Raak je al besmet bij handen schudden?'&nbsp;&nbsp;NUWHO: ‘Bijna 500 ebolagevallen in Centraal-Afrika’&nbsp;&nbsp;AD.nlWantrouwen bevolking bemoeilijkt bestrijding ebola-uitbraak: behandelcentra aangevallen&nbsp;&nbsp;RTL.nlLIVE Amerikaanse dokter mag ziekenhuis in Berlijn verlaten, al 500 bevestigde gevallen van ebola in Centraal-Afrika&nbsp;&nbsp;VRTUitbraak ebola in Congo dreigt grootste ooit te worden; vaccin bestaat niet&nbsp;&nbsp;NPO Radio 1",
+      "summary": "Ebolavirus niet onder controle: 'Raak je al besmet bij handen schudden?'&nbsp;&nbsp;NUWHO: ‘Bijna 500 ebolagevallen in Centraal-Afrika’&nbsp;&nbsp;AD.nlLIVE Amerikaanse dokter mag ziekenhuis in Berlijn verlaten, al 500 bevestigde gevallen van ebola in Centraal-Afrika&nbsp;&nbsp;VRTWantrouwen bevolking bemoeilijkt bestrijding ebola-uitbraak: behandelcentra aangevallen&nbsp;&nbsp;RTL.nlUitbraak ebola in Congo dreigt grootste ooit te worden; vaccin bestaat niet&nbsp;&nbsp;NPO Radio 1",
       "sources": [
         {
           "name": "NU",
@@ -16,38 +16,14 @@
       ]
     },
     {
-      "id": "eff25198abf4",
-      "title": "Na een bloedvergiftiging staat Tess' leven stil: \"Was liever een been verloren\" - NH Nieuws",
-      "published": "2026-06-05T07:58:00+00:00",
-      "summary": "Na een bloedvergiftiging staat Tess' leven stil: \"Was liever een been verloren\"&nbsp;&nbsp;NH NieuwsTess (21) overwint bloedvergiftiging na jarenlange strijd met speciale therapie&nbsp;&nbsp;NieuwslensZien: licht aan het eind van de tunnel voor zieke Tess door nieuwe therapie&nbsp;&nbsp;NH Nieuws",
+      "id": "50424531b4b5",
+      "title": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit - AD.nl",
+      "published": "2026-06-06T01:40:00+00:00",
+      "summary": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit&nbsp;&nbsp;AD.nlArgentinië breidt onderzoek naar hantavirus uit&nbsp;&nbsp;WNLDeskundigen spreken zich uit over de 'wereldwijde dreiging van het Hantavirus'.&nbsp;&nbsp;Vietnam.vnArgentinië breidt zoektocht naar oorsprong hantavirus uit&nbsp;&nbsp;NieuwsbladArgentinië breidt onderzoek naar hantavirus op cruiseschip uit&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "NH Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSC1YbjBBZjVKNTh4T3JnQzMxTVkwQm1CZkJWQmpZR2ViLVNkSks1NnVzNnFielFDTk9xekdhaWpCdGxIUjJRSm1EM0lJYVZlWm1LLUpTTXFUdGJYUFQwSG53TzdkWEg1MVNNNnd4YVZXZEZtTE40dE1DUUZQcnI2LW5Rbk1Mc2pfY0dmMFRDdVpRaUxDMkhEcUJPLVRJSmI3ajhVSnlDYzNCMWpTYWFQNGhjVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83400ed491e0",
-      "title": "Voor het eerst vaccin ontwikkeld met kunstmatige intelligentie - NU",
-      "published": "2026-06-05T06:41:28+00:00",
-      "summary": "Voor het eerst vaccin ontwikkeld met kunstmatige intelligentie&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazFqQ1pVbGp6SXVQYnRhSDBuMms5ZjYyTHpiMTdwUk1wTjJDcjRNRlpqMHY0MW40cjZkbXVzM0J6a0NKZ2dnMmtrSWkwMlp1cTN5a25QcmRzUVFVa3FqTmZHQTZ4ckdDRWlXamRBVEtmbFRfdUJCZU03STh3WnZSeldaSHJ3MDRDX2pmdy1BTUZ1X3lJSHFvYVdZdS1Vd292azRITVJTZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "610614bba405",
-      "title": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit - de Volkskrant",
-      "published": "2026-06-06T03:21:00+00:00",
-      "summary": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZExIYWFTX2cwYnFwY3BqWVUxOWcyd1VfcjlLNmY4VjRDTGdrYy1lUGw3VWNyTENpOVRXaFlvN1JoeDJadWpsSVZsUkFyMVlLZkYzSG1IdHpPTG9iUzNEZEtzU0stam1ZNWQzdFRnaVk5UW5XVk9YdmVGUXlEb2U1QTVod0E2SEJEbDY1cjNDb3I0dXdBaUJKd1NRYTdCNWk5ZWplTVZDSGRwcUpobDhkQnozZzR6bEgxTlotTjR6aG4tNjZEdXc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDFjTnhQM0Jzcng3TmYxNDF2cU5ZcFpDQUcyanlQMEVtWUxhSGozU054QzV2b0o4T3BDbElQa2NZV2pSRW96LW94UVlZb2Z1THdncGF6SFhDcUFaQWNtTm5Xd1YyRGJtakc1ZkJnbm1NRGtHSXN6X3duUHZoRndobDJ2M2dhczNxT29lSUJ5a2dwTXVyaXRpdEVOSWRseWhEN2ZWcTJ4MThZZVQzS0pQdEoxZThPSWFWRlVJ?oc=5"
         }
       ]
     },
@@ -60,18 +36,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjEzUi1VSzJ2dVdZci0wWnRmYnpCaE9LQmNvZmtyNmZINF9uUVNtUHdsT2R6MGotemZHTW1zdW1tTGROT2lCc1I3YTR0SUhWa0ZETkVlTlpRQXJwb2dHb0E0LXN1V09fZ0xfMnc3Ml96amkzRWZIS1FpaGZZMVJXclI4d05LaVlnVXAwNkpsYlF2NWtJY3RZMldOM25GTE5zbXhuTGxlN1NzeVg0WjBIU0l4dEppb2dtY3c3S2FmWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8a744c4b1e1",
-      "title": "Een jaar lang afvallen met afslankmedicatie: dit zijn de 12 lessen die Hanneke leerde - RTL.nl",
-      "published": "2026-06-05T07:08:04+00:00",
-      "summary": "Een jaar lang afvallen met afslankmedicatie: dit zijn de 12 lessen die Hanneke leerde&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU5kdXlTOGp2VEV4UmhIQmM0Qjk2eVBJRTFpQTRxbGlQTXc3b1ZFenY1cUVHNm9BMDlQeFNkNlliZE5TYVpRbFJ0NTJubHhuZmZyZ0ljNmxxaWNtVXJwVjBWNE9BeHEzOW01Z3laQXZ5aTZ6Z0V2YWJoQTNuQUw2Mnh6eWFjYXhfY0pfbklDSUNZTnBnM3NJUUpvZVUwaGlYRk9BeEZaR3hyeGc1S0p4NTVNbDMzZw?oc=5"
         }
       ]
     },

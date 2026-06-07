@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-07T13:46:09.198296+00:00",
+  "fetched_at": "2026-06-07T19:18:07.507853+00:00",
   "count": 4,
   "news": [
     {
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "3b1b8e09f37e",
+      "title": "Zien: licht aan het eind van de tunnel voor zieke Tess door nieuwe therapie - NH Nieuws",
+      "published": "2026-06-06T09:49:00+00:00",
+      "summary": "Zien: licht aan het eind van de tunnel voor zieke Tess door nieuwe therapie&nbsp;&nbsp;NH NieuwsNa een bloedvergiftiging staat Tess' leven stil: \"Was liever een been verloren\"&nbsp;&nbsp;NH NieuwsTess (21) overwint bloedvergiftiging na jarenlange strijd met speciale therapie&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "NH Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVNvRHI2OUdsY1BwUnc0NTQ1WWlpUmhBUVRYNEpiakxJZjJ3QlZLcXoyb3E5NmJFclR4TC1zNm1RSVd2VG5RR01TcE9uaHd3V0ZrdkVjaHVrUDhnSERSVGc3TURwbzJvUXFiYmluZXVQNXZFU3N3VHdzejdtV0UyUlFJQVg1UGlHQVpSRFhndGo5VTBnWXFhV0xFVjlrTnB1aV9NaWQ2RzY0RS1yQ2pwOWN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b41d42d471d8",
       "title": "'Hoop doet leven': Gronings medicijn tegen Parkinson voor het eerst getest bij patiënten - RTV Noord",
       "published": "2026-06-06T07:23:00+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjEzUi1VSzJ2dVdZci0wWnRmYnpCaE9LQmNvZmtyNmZINF9uUVNtUHdsT2R6MGotemZHTW1zdW1tTGROT2lCc1I3YTR0SUhWa0ZETkVlTlpRQXJwb2dHb0E0LXN1V09fZ0xfMnc3Ml96amkzRWZIS1FpaGZZMVJXclI4d05LaVlnVXAwNkpsYlF2NWtJY3RZMldOM25GTE5zbXhuTGxlN1NzeVg0WjBIU0l4dEppb2dtY3c3S2FmWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f443f3c9ce8",
-      "title": "Dit is de optimale hoeveelheid krachttraining voor bescherming van hart, brein en bloedvaten - Scientias.nl",
-      "published": "2026-06-05T17:00:13+00:00",
-      "summary": "Dit is de optimale hoeveelheid krachttraining voor bescherming van hart, brein en bloedvaten&nbsp;&nbsp;Scientias.nlLanger blijven leven? Dan moet je volgens onderzoek dit type training doen&nbsp;&nbsp;Runner's World NederlandNieuw bij krachttraining? Hoe te beginnen boven de 60&nbsp;&nbsp;The Portugal NewsKrachttraining gaat gepaard met een lager risico op vroegtijdig overlijden&nbsp;&nbsp;Newsmonkey -Ongeveer twee uur krachttraining per week vermindert het risico op vroege dood aanzienlijk, bl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXQ3bU4wY1ZlWWNxMHpvWXM1QmlXQVY4RzBtVVJxOG1fcWpIRVgzNENaYkRqaDhOUzZEUHRWbVR4VHpxZzNiTVJCaEZiRUtfRm1OTnBWMmFLeHR5cTBSTnRHbDNUdWUwTEpGd3pYcFdHQnhRSDZNdUR4RGoyUVVWZlZMQzYxejRsV0dPVHF2bXFZdnhGOXh2cUVJNTZZZm9SYmRVejBEdXhDb2VnY1BmN0NNbw?oc=5"
         }
       ]
     }

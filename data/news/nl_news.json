@@ -1,6 +1,19 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-08T15:43:14.149489+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-06-08T20:10:25.078596+00:00",
+  "count": 1,
+  "news": [
+    {
+      "id": "e41b825de401",
+      "title": "Jan-Paul drinkt 10 tot 12 liter per dag, even later wordt zijn vermoeden bevestigd: ‘Ik héb diabetes. Ik bén geen diabetes’ - Tubantia",
+      "published": "2026-06-08T00:40:00+00:00",
+      "summary": "Jan-Paul drinkt 10 tot 12 liter per dag, even later wordt zijn vermoeden bevestigd: ‘Ik héb diabetes. Ik bén geen diabetes’&nbsp;&nbsp;Tubantia",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1k0S2h3OW0wTHhtY25sT0JpV1FZcFhVUDBhaXFJYmVfV2Nuc2x6dGJUaUJnc0NIajJUcm93S0dxTEJQSXA4dkhwSm1hYk5hVTZuWVBWYTI5N2kyMURGZFI1YXdyMGMwcE90TzZFbmpicFBIaXhXUF9oYVlTTkRvamtzMFdXbmdyMnpoYVR3aW5UYzNhNzBGd1hMcVJ3MF9TR0k4V0xSYnVyT01hVUhGV2xvM1pwOU1IX1NTa2szcDBmS1p3QjM5MzF6eHhKSURTVHNuSUxVamNZN05VUnFmZXpkdzBhcE04R2swZU93X0lBLW1DcXdN?oc=5"
+        }
+      ]
+    }
+  ]
 }

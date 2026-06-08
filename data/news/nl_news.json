@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-07T19:18:07.507853+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-08T03:40:16.499783+00:00",
+  "count": 3,
   "news": [
     {
       "id": "a2e7df983768",
@@ -12,18 +12,6 @@
         {
           "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUkyNENWV0RxSkdkOVptUVJ1Z2FqczJlR2R3OFZrX1lzVkRHTUxYMkJYUmhvNTBpemdqU1A2aEExVkJjeDJid2VOREZMQTlDSlBmZVJPTDBqbHdOQV9oVUtpOE1rMGlvTFJMekRQT1VoRHpsY1BEOXFkQkdnM09GX3dzclVnRG5odVFHMk5YT3BmZ0ZQVXdJQ1pFM25fVlVhZ3VlaGYzblI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50424531b4b5",
-      "title": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit - AD.nl",
-      "published": "2026-06-06T01:40:00+00:00",
-      "summary": "Argentinië breidt onderzoek naar oorsprong hantavirus op cruiseschip Hondius uit&nbsp;&nbsp;AD.nlArgentinië breidt onderzoek naar hantavirus uit&nbsp;&nbsp;WNLOnderzoek en ontwikkeling van behandelingen en vaccins tegen het hantavirus.&nbsp;&nbsp;Vietnam.vnArgentinië breidt zoektocht naar oorsprong hantavirus uit&nbsp;&nbsp;NieuwsbladArgentinië breidt onderzoek naar hantavirus op cruiseschip uit&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDFjTnhQM0Jzcng3TmYxNDF2cU5ZcFpDQUcyanlQMEVtWUxhSGozU054QzV2b0o4T3BDbElQa2NZV2pSRW96LW94UVlZb2Z1THdncGF6SFhDcUFaQWNtTm5Xd1YyRGJtakc1ZkJnbm1NRGtHSXN6X3duUHZoRndobDJ2M2dhczNxT29lSUJ5a2dwTXVyaXRpdEVOSWRseWhEN2ZWcTJ4MThZZVQzS0pQdEoxZThPSWFWRlVJ?oc=5"
         }
       ]
     },

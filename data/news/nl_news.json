@@ -1,19 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-08T10:47:02.394236+00:00",
-  "count": 1,
-  "news": [
-    {
-      "id": "a2e7df983768",
-      "title": "Ebolavirus niet onder controle: 'Raak je al besmet bij handen schudden?' - NU",
-      "published": "2026-06-06T14:01:31+00:00",
-      "summary": "Ebolavirus niet onder controle: 'Raak je al besmet bij handen schudden?'&nbsp;&nbsp;NURode Kruis haalt 690.000 euro op voor ebola-bestrijding Congo&nbsp;&nbsp;De Gooi- en EemlanderWHO: ‘Bijna 500 ebolagevallen in Centraal-Afrika’&nbsp;&nbsp;AD.nlLIVE Amerikaanse dokter mag ziekenhuis in Berlijn verlaten, al 500 bevestigde gevallen van ebola in Centraal-Afrika&nbsp;&nbsp;VRTUitbraak ebola in Congo dreigt grootste ooit te worden; vaccin bestaat niet&nbsp;&nbsp;NPO Radio 1",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUkyNENWV0RxSkdkOVptUVJ1Z2FqczJlR2R3OFZrX1lzVkRHTUxYMkJYUmhvNTBpemdqU1A2aEExVkJjeDJid2VOREZMQTlDSlBmZVJPTDBqbHdOQV9oVUtpOE1rMGlvTFJMekRQT1VoRHpsY1BEOXFkQkdnM09GX3dzclVnRG5odVFHMk5YT3BmZ0ZQVXdJQ1pFM25fVlVhZ3VlaGYzblI?oc=5"
-        }
-      ]
-    }
-  ]
+  "fetched_at": "2026-06-08T15:43:14.149489+00:00",
+  "count": 0,
+  "news": []
 }

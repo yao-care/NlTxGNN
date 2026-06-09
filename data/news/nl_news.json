@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-09T09:37:01.317857+00:00",
+  "fetched_at": "2026-06-09T14:43:11.509676+00:00",
   "count": 5,
   "news": [
     {
-      "id": "548d824c61ad",
-      "title": "De strijd tegen ebola in Oost-Congo is vooral een strijd om geloofwaardigheid: ‘Desinformatie komt voort uit onzekerheid en angst’ - NRC",
-      "published": "2026-06-08T14:14:06+00:00",
-      "summary": "De strijd tegen ebola in Oost-Congo is vooral een strijd om geloofwaardigheid: ‘Desinformatie komt voort uit onzekerheid en angst’&nbsp;&nbsp;NRCLIVE Al zeker 100 eboladoden in Congo, minstens 550 bevestigde besmettingen&nbsp;&nbsp;VRTEbolavirus niet onder controle: 'Raak je al besmet bij handen schudden?'&nbsp;&nbsp;NUUitbraak ebola in Congo dreigt grootste ooit te worden; vaccin bestaat niet&nbsp;&nbsp;NPO Radio 1WHO-topman prijst bij bezoek Oegandese ebola-inspanningen&nbsp;&nbsp;Haarlems Dag",
+      "id": "7ae6a7705984",
+      "title": "Mond-en-klauwzeer dat in 1983 opdook in Nagele kwam 'vrijwel zeker' uit Lelystads onderzoekslab - Omroep Flevoland",
+      "published": "2026-06-08T16:11:33+00:00",
+      "summary": "Mond-en-klauwzeer dat in 1983 opdook in Nagele kwam 'vrijwel zeker' uit Lelystads onderzoekslab&nbsp;&nbsp;Omroep Flevoland",
       "sources": [
         {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR0lRS09xZmllQWp3QXI5dDVrRFljUlNYU3VRZ09xcy0xV3FCUjRsbm5iQ3BLeFFHNGFzWjZ6NWo5aG1DaVEtRDQ5ZE1ZVkhXQl9OLWQwZXl1TXlibk5Vb2FFM1E3MWtIYnRoSnh5MllGazhBbnRNM1N3eTBRNlhNTzFxcnRPV0lvNFMzY3J3UXJzSk50M0R1Y084bXFHNmtTYlg4YXp2MGZZUmpCNFpHMnViRkx6WHhYbXpDQVp0R1EtcEoyVnB2TU5rcl9yczR5Vm9jUDRXbUwxNmdsTjRWelBOc2RyUkNxVFplRVMtTHhnMm01aTdCQjFJZEx1bXYxUVVJ?oc=5"
+          "name": "Omroep Flevoland",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3VOWWxFMEU1dkpacHRVRThlMWtUaWl2azZwMVJiRURjeEtuQVRRb2FlOTVYX2hzOC1TeTZEWXRqMDdHWmM0RjZFUV9YMS0wQUV4QVJ1OGFULUZLOE5CT3F0VWRaMHBpT3U0MUNJRjRRLU10cnRNTndtdF9XT3dONTZudkVYZFQtdGpGak1qcjdra0JTbzh2a2pzOGpLYXZkYnpac3hXM000aThNSnVRQmp0d1ZGcElYbDF5b21rcUt2MEZscTc5amNiR0I1ZXdFSV9NaDJ6aWptcU1n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bb8fa0d4e16",
+      "title": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’ - De Telegraaf",
+      "published": "2026-06-09T12:23:01+00:00",
+      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPXzRVOFFDcEVSaFRYSTFjTFpKUzh0QXBhTnBBZ0dhWm1GSWNrTHFnam4zUjZPN3hCZDU3cmJmVGJvMjBPc3lLaVhuNVlhMUJ2MWlvQVZLMGdGXzAzdGl2dWZUcUUtRVBqMXpKbG9OTzg1T1JuZ1VURVJfN3pZcEs2eGRXQmN1am5sdFhqMVNzUnRBd00xMEZSTWNiU09QYjJoRUJWeGw1emRFaGZJSEoxd2F0X2V4VHZuXzNQeG9UejQ3SkNuN1RRX0t6cXBMcU9Ic2tXTWM0S3Q2b2RFdDk3ZjdOc2I4N2VzbDJlYjNpMlNZQ3phVm93MDl5LXg3NXNPdkFJ?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "dec2286f5eff",
-      "title": "Eén glas alcohol per dag vergroot kans op tien soorten kanker - Welingelichte Kringen",
-      "published": "2026-06-08T09:21:57+00:00",
-      "summary": "Eén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
+      "id": "7a2944bc46be",
+      "title": "Kankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte - wibnet.nl",
+      "published": "2026-06-08T20:00:03+00:00",
+      "summary": "Kankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFhIZkZKWXJxNVBNYTk1V1lIQWlPSkFuYzJsYlk0SUtwY3pVcWlaWUFTOFVsdjBiekdLRm5KVFR6aG8xakpWX093TFFBM2psVHE3elNQVTlFRFZhNVBtaXlGTFU0UUlNcVlJTmptSW9TWlFNb1M2ZmF2OHdlekV3dnRxR2pCbHBrVmtHU0ZsakFwV3VGQzlabVpJUlZqZlRMYmFUZnFRN3BvTHMt?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSy1maE9Kcnk3emZoWTU3eWlwS3U2dWtWcWQ3ODdqZGI1RXBBN1NJZXM4eHZyLXIzN3lMYS03RDZ1b3l1RDJMVUdESmVISzV1TjZ3UVJkdDdibkF2bV8xLVU5R1Q5d1RnZFNDX0RmTER1dkJyWENETnNhdEhFcG5ianhHd0NvdmRscWYtRDR0N18xc1FnRFFzd0FPZml5b0xnVkh0cHprZ3pyS0lpODVCZjVPSWdzb3hIX181eDlZdkFZbnRSX2p6LW9xS3Nwb1VfWUY3NGUtUnliWjVwdzF6WTdpRlQ5R0JJMUZRYzZQcUl0YU1Hc3NpWVZ3?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "Curacao.nu",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHYxMU5QbXg3MTNUWEhFcFR2VWgwRjhuQ2xFUlNGRVFvdkhmRFp6WU1YWFNZYXRIOXpIQlBzNGZkMTZIakZrcmtoRjRiTllMcFlNWm1tLVRqM1EzWlc2Sks5ZUhiVFJmcHFFWWFMTjZfYnhUbmhfWmxsXzBwVXo3dDlzVGZkamgyQk12aFI5T3c3ZmxRTzF1b1BhSTk1QXhFVW5pZGtBRmREZmJEcS1ycEJjMTBNZEVDNy1td08ydGI5WEotTFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd9c292f72e4",
-      "title": "Wetenschapper is verrast: Nieuw onderzoek onthult de belangrijkste oorzaken dat jongeren ongelukkig zijn - wibnet.nl",
-      "published": "2026-06-07T10:00:56+00:00",
-      "summary": "Wetenschapper is verrast: Nieuw onderzoek onthult de belangrijkste oorzaken dat jongeren ongelukkig zijn&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWF0UnZoUG1MSEdQV0lVYWhFQk9kZVdpbldmQ0ZoOFo4c1Z2WU10cXlnU2dlNFBTOVRJeGlWZWFuNUlIUHBrWWgzTjBXSlZnaXdfY0w0VnVwazhRZE10Z1pKUGlLejlwcTlCTm01QmN3VHpzWDZkeVpiX3dTSVFJaHFmT1pUcHZYX1ZLRGxHblF4dUVONkVVNERBck1XQnNMeEhsbnRYOTZNdVhyZ3BjOUM1dTBfWjg3RXlGcjFpdm9RUjBV?oc=5"
         }
       ]
     }

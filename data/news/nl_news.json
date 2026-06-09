@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-09T02:49:04.100225+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-09T09:37:01.317857+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "548d824c61ad",
+      "title": "De strijd tegen ebola in Oost-Congo is vooral een strijd om geloofwaardigheid: ‘Desinformatie komt voort uit onzekerheid en angst’ - NRC",
+      "published": "2026-06-08T14:14:06+00:00",
+      "summary": "De strijd tegen ebola in Oost-Congo is vooral een strijd om geloofwaardigheid: ‘Desinformatie komt voort uit onzekerheid en angst’&nbsp;&nbsp;NRCLIVE Al zeker 100 eboladoden in Congo, minstens 550 bevestigde besmettingen&nbsp;&nbsp;VRTEbolavirus niet onder controle: 'Raak je al besmet bij handen schudden?'&nbsp;&nbsp;NUUitbraak ebola in Congo dreigt grootste ooit te worden; vaccin bestaat niet&nbsp;&nbsp;NPO Radio 1WHO-topman prijst bij bezoek Oegandese ebola-inspanningen&nbsp;&nbsp;Haarlems Dag",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR0lRS09xZmllQWp3QXI5dDVrRFljUlNYU3VRZ09xcy0xV3FCUjRsbm5iQ3BLeFFHNGFzWjZ6NWo5aG1DaVEtRDQ5ZE1ZVkhXQl9OLWQwZXl1TXlibk5Vb2FFM1E3MWtIYnRoSnh5MllGazhBbnRNM1N3eTBRNlhNTzFxcnRPV0lvNFMzY3J3UXJzSk50M0R1Y084bXFHNmtTYlg4YXp2MGZZUmpCNFpHMnViRkx6WHhYbXpDQVp0R1EtcEoyVnB2TU5rcl9yczR5Vm9jUDRXbUwxNmdsTjRWelBOc2RyUkNxVFplRVMtTHhnMm01aTdCQjFJZEx1bXYxUVVJ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e41b825de401",
       "title": "Jan-Paul drinkt 10 tot 12 liter per dag, even later wordt zijn vermoeden bevestigd: ‘Ik héb diabetes. Ik bén geen diabetes’ - Tubantia",
@@ -18,12 +30,36 @@
     {
       "id": "dec2286f5eff",
       "title": "Eén glas alcohol per dag vergroot kans op tien soorten kanker - Welingelichte Kringen",
-      "published": "2026-06-08T09:20:39+00:00",
+      "published": "2026-06-08T09:21:57+00:00",
       "summary": "Eén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFhIZkZKWXJxNVBNYTk1V1lIQWlPSkFuYzJsYlk0SUtwY3pVcWlaWUFTOFVsdjBiekdLRm5KVFR6aG8xakpWX093TFFBM2psVHE3elNQVTlFRFZhNVBtaXlGTFU0UUlNcVlJTmptSW9TWlFNb1M2ZmF2OHdlekV3dnRxR2pCbHBrVmtHU0ZsakFwV3VGQzlabVpJUlZqZlRMYmFUZnFRN3BvTHMt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7baab5682db3",
+      "title": "Fout bij borstonderzoek: 28 deelnemers kregen ten onrechte negatieve uitslag - Curacao.nu",
+      "published": "2026-06-08T12:03:31+00:00",
+      "summary": "Fout bij borstonderzoek: 28 deelnemers kregen ten onrechte negatieve uitslag&nbsp;&nbsp;Curacao.nu",
+      "sources": [
+        {
+          "name": "Curacao.nu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHYxMU5QbXg3MTNUWEhFcFR2VWgwRjhuQ2xFUlNGRVFvdkhmRFp6WU1YWFNZYXRIOXpIQlBzNGZkMTZIakZrcmtoRjRiTllMcFlNWm1tLVRqM1EzWlc2Sks5ZUhiVFJmcHFFWWFMTjZfYnhUbmhfWmxsXzBwVXo3dDlzVGZkamgyQk12aFI5T3c3ZmxRTzF1b1BhSTk1QXhFVW5pZGtBRmREZmJEcS1ycEJjMTBNZEVDNy1td08ydGI5WEotTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd9c292f72e4",
+      "title": "Wetenschapper is verrast: Nieuw onderzoek onthult de belangrijkste oorzaken dat jongeren ongelukkig zijn - wibnet.nl",
+      "published": "2026-06-07T10:00:56+00:00",
+      "summary": "Wetenschapper is verrast: Nieuw onderzoek onthult de belangrijkste oorzaken dat jongeren ongelukkig zijn&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWF0UnZoUG1MSEdQV0lVYWhFQk9kZVdpbldmQ0ZoOFo4c1Z2WU10cXlnU2dlNFBTOVRJeGlWZWFuNUlIUHBrWWgzTjBXSlZnaXdfY0w0VnVwazhRZE10Z1pKUGlLejlwcTlCTm01QmN3VHpzWDZkeVpiX3dTSVFJaHFmT1pUcHZYX1ZLRGxHblF4dUVONkVVNERBck1XQnNMeEhsbnRYOTZNdVhyZ3BjOUM1dTBfWjg3RXlGcjFpdm9RUjBV?oc=5"
         }
       ]
     }

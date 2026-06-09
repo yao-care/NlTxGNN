@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-08T20:10:25.078596+00:00",
-  "count": 1,
+  "fetched_at": "2026-06-09T02:49:04.100225+00:00",
+  "count": 2,
   "news": [
     {
       "id": "e41b825de401",
@@ -12,6 +12,18 @@
         {
           "name": "Tubantia",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1k0S2h3OW0wTHhtY25sT0JpV1FZcFhVUDBhaXFJYmVfV2Nuc2x6dGJUaUJnc0NIajJUcm93S0dxTEJQSXA4dkhwSm1hYk5hVTZuWVBWYTI5N2kyMURGZFI1YXdyMGMwcE90TzZFbmpicFBIaXhXUF9oYVlTTkRvamtzMFdXbmdyMnpoYVR3aW5UYzNhNzBGd1hMcVJ3MF9TR0k4V0xSYnVyT01hVUhGV2xvM1pwOU1IX1NTa2szcDBmS1p3QjM5MzF6eHhKSURTVHNuSUxVamNZN05VUnFmZXpkdzBhcE04R2swZU93X0lBLW1DcXdN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dec2286f5eff",
+      "title": "Eén glas alcohol per dag vergroot kans op tien soorten kanker - Welingelichte Kringen",
+      "published": "2026-06-08T09:20:39+00:00",
+      "summary": "Eén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFhIZkZKWXJxNVBNYTk1V1lIQWlPSkFuYzJsYlk0SUtwY3pVcWlaWUFTOFVsdjBiekdLRm5KVFR6aG8xakpWX093TFFBM2psVHE3elNQVTlFRFZhNVBtaXlGTFU0UUlNcVlJTmptSW9TWlFNb1M2ZmF2OHdlekV3dnRxR2pCbHBrVmtHU0ZsakFwV3VGQzlabVpJUlZqZlRMYmFUZnFRN3BvTHMt?oc=5"
         }
       ]
     }

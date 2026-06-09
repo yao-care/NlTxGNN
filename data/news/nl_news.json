@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-09T14:43:11.509676+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-09T20:03:35.337043+00:00",
+  "count": 6,
   "news": [
     {
       "id": "7ae6a7705984",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "0bb8fa0d4e16",
+      "id": "dbf917ba05c1",
       "title": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’ - De Telegraaf",
-      "published": "2026-06-09T12:23:01+00:00",
-      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "published": "2026-06-09T10:28:07+00:00",
+      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;de VolkskrantSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenTwee keer zo veel hooikoortsklachten als week eerder door warmte&nbsp;&nbsp;De Gooi- en EemlanderWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO Kennislink",
       "sources": [
         {
           "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPXzRVOFFDcEVSaFRYSTFjTFpKUzh0QXBhTnBBZ0dhWm1GSWNrTHFnam4zUjZPN3hCZDU3cmJmVGJvMjBPc3lLaVhuNVlhMUJ2MWlvQVZLMGdGXzAzdGl2dWZUcUUtRVBqMXpKbG9OTzg1T1JuZ1VURVJfN3pZcEs2eGRXQmN1am5sdFhqMVNzUnRBd00xMEZSTWNiU09QYjJoRUJWeGw1emRFaGZJSEoxd2F0X2V4VHZuXzNQeG9UejQ3SkNuN1RRX0t6cXBMcU9Ic2tXTWM0S3Q2b2RFdDk3ZjdOc2I4N2VzbDJlYjNpMlNZQ3phVm93MDl5LXg3NXNPdkFJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXl2SEFfTUdoVVZXTzVOOXVyWmc3ZFY1MmxHOUhKQWdESVc3VjVlZ3o4WVRjMURWNndNLTYxLUJyZU80eEViMVdIYVRXMDlySW56aXUxdVR2RXRvbExmeXZBWlVyMV85YnJTQzd0ekpLOGs5UVR6U0ZHTVJvQ1l5T0lDOF9WTDd3SXIwRU1tUVc4azZuNUc0bnMwN1ZTenA5XzVlRnNpMXRDYkN4MTA2ZDlDSFZYenJtcGNlVnp6dWxudzMxS0hwMjFnbzdxZndLSXBpT0RieTNzZw?oc=5"
         }
       ]
     },
@@ -60,6 +60,18 @@
         {
           "name": "Curacao.nu",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHYxMU5QbXg3MTNUWEhFcFR2VWgwRjhuQ2xFUlNGRVFvdkhmRFp6WU1YWFNZYXRIOXpIQlBzNGZkMTZIakZrcmtoRjRiTllMcFlNWm1tLVRqM1EzWlc2Sks5ZUhiVFJmcHFFWWFMTjZfYnhUbmhfWmxsXzBwVXo3dDlzVGZkamgyQk12aFI5T3c3ZmxRTzF1b1BhSTk1QXhFVW5pZGtBRmREZmJEcS1ycEJjMTBNZEVDNy1td08ydGI5WEotTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fcb990f8c70",
+      "title": "Kanker groeit niet sneller als je suiker eet - gezondheidenwetenschap.be",
+      "published": "2026-06-09T09:17:54+00:00",
+      "summary": "Kanker groeit niet sneller als je suiker eet&nbsp;&nbsp;gezondheidenwetenschap.be",
+      "sources": [
+        {
+          "name": "gezondheidenwetenschap.be",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHFuN09rV0d0VlQ4cWFwOGZ6c00zYU1OaWpMXzZuaHFSRzg4S0xoTkc1NzNOLV8wenNsOFF6YXJIRGl5T0dISnpFR2VremxtbmdWS0pzeWlVS0xLRWNWVFhEY2FxRXB4dEZ4ZTRyWGpLUGMxcVFCYmU0OUstY0JQTlJsV1JZcnpLNDRuLVFzdWJrYmRvcEhxaW5hTEJmQlk3VWhvZ3Zfak4?oc=5"
         }
       ]
     }

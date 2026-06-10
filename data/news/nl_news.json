@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-10T03:25:56.202619+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-10T09:53:15.440591+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "360f2df2e6f4",
+      "title": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’ - De Telegraaf",
+      "published": "2026-06-10T09:27:31+00:00",
+      "summary": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’&nbsp;&nbsp;De TelegraafGoedkoop medicijn kan levens redden, maar patiënten krijgen het toch niet: Hartstichting boos over regels&nbsp;&nbsp;De GelderlanderGoedkoop medicijn tegen hartinfarct niet beschikbaar door strenge regels&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeFBndlVETURyUHA1Q0dsRkdFVm9KR1hWNTktU3NPbzIyOWZnanFYOHdVcS0zTkxKLUpndjFOR0ppRVZpRjdWTVdvVDR3SVdaa05pODdsZWJWNHBRbjJMR3lrMjU0SUZ2TDZ5MXAwbnh2N1Y5d0dlREZDaW93ZTktanl1MkVBc1IyRUlVQTlWb3l2QjlBRWZlTlFlR3pPLUhrUjd1eDNfSU14WkEzUC1NenMzYkpoZnM0ZUNFRWplVEp0NkszNzJxdUZFamFkeVJqbzdYcFRMUXEtTkhfbWlWX210WmZldVdUVjB6aHdUcG5mUkRIYWpzRmZWdlplMG9WbXdTalRTVmNMZVJQWjZGR1FHcFk3WHRnM2tiSw?oc=5"
+        }
+      ]
+    },
     {
       "id": "7ae6a7705984",
       "title": "Mond-en-klauwzeer dat in 1983 opdook in Nagele kwam 'vrijwel zeker' uit Lelystads onderzoekslab - Omroep Flevoland",
@@ -19,7 +31,7 @@
       "id": "dbf917ba05c1",
       "title": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’ - De Telegraaf",
       "published": "2026-06-09T10:28:07+00:00",
-      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;de VolkskrantSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenTwee keer zo veel hooikoortsklachten als week eerder door warmte&nbsp;&nbsp;De Gooi- en EemlanderWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO Kennislink",
+      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;Nederlands DagbladSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO KennislinkBuitenspelen met hooikoorts: 87% van de ouders merkt dat hun kind minder graag naar buiten gaat&nbsp;&nbsp;r",
       "sources": [
         {
           "name": "De Telegraaf",

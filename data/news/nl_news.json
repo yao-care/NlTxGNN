@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-10T09:53:15.440591+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-10T15:26:25.812945+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "360f2df2e6f4",
-      "title": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’ - De Telegraaf",
-      "published": "2026-06-10T09:27:31+00:00",
-      "summary": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’&nbsp;&nbsp;De TelegraafGoedkoop medicijn kan levens redden, maar patiënten krijgen het toch niet: Hartstichting boos over regels&nbsp;&nbsp;De GelderlanderGoedkoop medicijn tegen hartinfarct niet beschikbaar door strenge regels&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeFBndlVETURyUHA1Q0dsRkdFVm9KR1hWNTktU3NPbzIyOWZnanFYOHdVcS0zTkxKLUpndjFOR0ppRVZpRjdWTVdvVDR3SVdaa05pODdsZWJWNHBRbjJMR3lrMjU0SUZ2TDZ5MXAwbnh2N1Y5d0dlREZDaW93ZTktanl1MkVBc1IyRUlVQTlWb3l2QjlBRWZlTlFlR3pPLUhrUjd1eDNfSU14WkEzUC1NenMzYkpoZnM0ZUNFRWplVEp0NkszNzJxdUZFamFkeVJqbzdYcFRMUXEtTkhfbWlWX210WmZldVdUVjB6aHdUcG5mUkRIYWpzRmZWdlplMG9WbXdTalRTVmNMZVJQWjZGR1FHcFk3WHRnM2tiSw?oc=5"
-        }
-      ]
-    },
     {
       "id": "7ae6a7705984",
       "title": "Mond-en-klauwzeer dat in 1983 opdook in Nagele kwam 'vrijwel zeker' uit Lelystads onderzoekslab - Omroep Flevoland",
@@ -31,35 +19,11 @@
       "id": "dbf917ba05c1",
       "title": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’ - De Telegraaf",
       "published": "2026-06-09T10:28:07+00:00",
-      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;Nederlands DagbladSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO KennislinkBuitenspelen met hooikoorts: 87% van de ouders merkt dat hun kind minder graag naar buiten gaat&nbsp;&nbsp;r",
+      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;de VolkskrantSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO KennislinkTips en gemeentelijke maatregelen tegen hooikoorts&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXl2SEFfTUdoVVZXTzVOOXVyWmc3ZFY1MmxHOUhKQWdESVc3VjVlZ3o4WVRjMURWNndNLTYxLUJyZU80eEViMVdIYVRXMDlySW56aXUxdVR2RXRvbExmeXZBWlVyMV85YnJTQzd0ekpLOGs5UVR6U0ZHTVJvQ1l5T0lDOF9WTDd3SXIwRU1tUVc4azZuNUc0bnMwN1ZTenA5XzVlRnNpMXRDYkN4MTA2ZDlDSFZYenJtcGNlVnp6dWxudzMxS0hwMjFnbzdxZndLSXBpT0RieTNzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a2944bc46be",
-      "title": "Kankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte - wibnet.nl",
-      "published": "2026-06-08T20:00:03+00:00",
-      "summary": "Kankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSy1maE9Kcnk3emZoWTU3eWlwS3U2dWtWcWQ3ODdqZGI1RXBBN1NJZXM4eHZyLXIzN3lMYS03RDZ1b3l1RDJMVUdESmVISzV1TjZ3UVJkdDdibkF2bV8xLVU5R1Q5d1RnZFNDX0RmTER1dkJyWENETnNhdEhFcG5ianhHd0NvdmRscWYtRDR0N18xc1FnRFFzd0FPZml5b0xnVkh0cHprZ3pyS0lpODVCZjVPSWdzb3hIX181eDlZdkFZbnRSX2p6LW9xS3Nwb1VfWUY3NGUtUnliWjVwdzF6WTdpRlQ5R0JJMUZRYzZQcUl0YU1Hc3NpWVZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7baab5682db3",
-      "title": "Fout bij borstonderzoek: 28 deelnemers kregen ten onrechte negatieve uitslag - Curacao.nu",
-      "published": "2026-06-08T12:03:31+00:00",
-      "summary": "Fout bij borstonderzoek: 28 deelnemers kregen ten onrechte negatieve uitslag&nbsp;&nbsp;Curacao.nu",
-      "sources": [
-        {
-          "name": "Curacao.nu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHYxMU5QbXg3MTNUWEhFcFR2VWgwRjhuQ2xFUlNGRVFvdkhmRFp6WU1YWFNZYXRIOXpIQlBzNGZkMTZIakZrcmtoRjRiTllMcFlNWm1tLVRqM1EzWlc2Sks5ZUhiVFJmcHFFWWFMTjZfYnhUbmhfWmxsXzBwVXo3dDlzVGZkamgyQk12aFI5T3c3ZmxRTzF1b1BhSTk1QXhFVW5pZGtBRmREZmJEcS1ycEJjMTBNZEVDNy1td08ydGI5WEotTFE?oc=5"
         }
       ]
     },

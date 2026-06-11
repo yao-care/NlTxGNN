@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-11T03:38:15.069752+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-11T10:18:00.857230+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "888604e9dcc9",
+      "title": "‘Ik wist meteen: dit is parkinson’: arts Ingrid (47) moest noodgedwongen afscheid nemen van haar vak - AD.nl",
+      "published": "2026-06-10T23:00:00+00:00",
+      "summary": "‘Ik wist meteen: dit is parkinson’: arts Ingrid (47) moest noodgedwongen afscheid nemen van haar vak&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFZhRzd0VzlyekkzMVZMcUFjY1FUT1dvSk96RllnRmE1VW85dHowdlU5cGRfYTBLVlM3T2NNQzdCN0loLV95a1FIbmhHdGpkTTVXZEtqWWRxRnFmcDhfYnl2UDNzQlMySURMT0hEVWJ6dDVXc1lieU9CbzBUNS1mLWd2TWQ1aTBWS1h1aEhXRDZGVVdrdGRxNVlpLXZyU0N2bXEyekdmeWs2bzY4TVFyemNaQkdwU1VDOFNLcmVtUE45LV9CWS1rbDMyLWpqQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee9d6b0dfa1b",
+      "title": "Goedkoop medicijn kan levens redden, maar patiënten krijgen het toch niet: Hartstichting boos over regels - De Gelderlander",
+      "published": "2026-06-09T19:00:00+00:00",
+      "summary": "Goedkoop medicijn kan levens redden, maar patiënten krijgen het toch niet: Hartstichting boos over regels&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWFlPei1Pa1ZXTkVEVVIxMlJGODAzRWxhdjR1cjdwdWloeXc2b2RtUFFVRTNER0VtTzhlQlgzRjV0aUVyMGZWUU0wVDZiVWdMMWp1R3VkYng2dVRQdS1XNHFMUFhmaXlHZjhYWFBLaHdiRkZ2enZKeExveTVWdHVVQWdtclluXzhjZDl2U0lxWTlRbndpZ3UxWUdjMWplb2txZ0REOUZrRk1oTFVtelIzZmpFMzV6VkItZlIwQm5Ld3RMVFBzLTUydUFsTlpZOWNyUFVIeFNaOUs2Q01KaVNSbWFR?oc=5"
+        }
+      ]
+    },
     {
       "id": "b29f5c7906c1",
       "title": "Onderzoek: ook als je verder gezond eet, kunnen deze populaire voedingsmiddelen funest zijn voor je concentratie - Metronieuws.nl",
@@ -19,23 +43,11 @@
       "id": "dbf917ba05c1",
       "title": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’ - De Telegraaf",
       "published": "2026-06-09T10:28:07+00:00",
-      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;de VolkskrantSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO KennislinkTips en gemeentelijke maatregelen tegen hooikoorts&nbsp;&nbsp;Nieuwslens",
+      "summary": "Pollenkaart kleurt rood: kan neusspray helpen? ’Voor deze medicatie moet je oppassen’&nbsp;&nbsp;De TelegraafZwaar jaar voor hooikoortspatiënten: veel meer pollen in de eerste maanden door droogte&nbsp;&nbsp;de VolkskrantSnotteren, jeukende ogen en kriebelhoest? Dit kan je doen tegen hooikoorts&nbsp;&nbsp;OOG GroningenTips en gemeentelijke maatregelen tegen hooikoorts&nbsp;&nbsp;NieuwslensWaarom hebben sommige mensen hooikoorts?&nbsp;&nbsp;NEMO Kennislink",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXl2SEFfTUdoVVZXTzVOOXVyWmc3ZFY1MmxHOUhKQWdESVc3VjVlZ3o4WVRjMURWNndNLTYxLUJyZU80eEViMVdIYVRXMDlySW56aXUxdVR2RXRvbExmeXZBWlVyMV85YnJTQzd0ekpLOGs5UVR6U0ZHTVJvQ1l5T0lDOF9WTDd3SXIwRU1tUVc4azZuNUc0bnMwN1ZTenA5XzVlRnNpMXRDYkN4MTA2ZDlDSFZYenJtcGNlVnp6dWxudzMxS0hwMjFnbzdxZndLSXBpT0RieTNzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5881a1c00dd9",
-      "title": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien - Welingelichte Kringen",
-      "published": "2026-06-10T12:22:38+00:00",
-      "summary": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGh0bmVlN0NXOGtpM3UzT2c4RGdxOHRaajFWVEhBQUdoYlp1RUQ2aV9nWm5LaFZUbTJabkFpWnd2cEwzcmV4Rnhla3pvMy1DNTZFZmJBdWxmdDVEdDdMRFdXNnpRR05fUmZ1SHhDZWRTNkZXd0xpcnMzTnVQZmVQQ1JicFNFWk9WbDl1TWhvM0FvTXVuaEwwTXlDTWdZQmFNNkJfc1VKdHpDOERhaTNCTGhDQVNCMjJza3hBT3R4enRTV1lFM1daWWV3Wjg?oc=5"
         }
       ]
     },
@@ -52,14 +64,26 @@
       ]
     },
     {
-      "id": "3fcb990f8c70",
-      "title": "Kanker groeit niet sneller als je suiker eet - gezondheidenwetenschap.be",
-      "published": "2026-06-09T09:17:54+00:00",
-      "summary": "Kanker groeit niet sneller als je suiker eet&nbsp;&nbsp;gezondheidenwetenschap.be",
+      "id": "5881a1c00dd9",
+      "title": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien - Welingelichte Kringen",
+      "published": "2026-06-10T12:22:38+00:00",
+      "summary": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
-          "name": "gezondheidenwetenschap.be",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHFuN09rV0d0VlQ4cWFwOGZ6c00zYU1OaWpMXzZuaHFSRzg4S0xoTkc1NzNOLV8wenNsOFF6YXJIRGl5T0dISnpFR2VremxtbmdWS0pzeWlVS0xLRWNWVFhEY2FxRXB4dEZ4ZTRyWGpLUGMxcVFCYmU0OUstY0JQTlJsV1JZcnpLNDRuLVFzdWJrYmRvcEhxaW5hTEJmQlk3VWhvZ3Zfak4?oc=5"
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGh0bmVlN0NXOGtpM3UzT2c4RGdxOHRaajFWVEhBQUdoYlp1RUQ2aV9nWm5LaFZUbTJabkFpWnd2cEwzcmV4Rnhla3pvMy1DNTZFZmJBdWxmdDVEdDdMRFdXNnpRR05fUmZ1SHhDZWRTNkZXd0xpcnMzTnVQZmVQQ1JicFNFWk9WbDl1TWhvM0FvTXVuaEwwTXlDTWdZQmFNNkJfc1VKdHpDOERhaTNCTGhDQVNCMjJza3hBT3R4enRTV1lFM1daWWV3Wjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58f02b01ec19",
+      "title": "Mannen boven de 50 opgelet: nieuwe therapie pakt hoog cholesterol permanent aan - Men's Health",
+      "published": "2026-06-09T13:00:00+00:00",
+      "summary": "Mannen boven de 50 opgelet: nieuwe therapie pakt hoog cholesterol permanent aan&nbsp;&nbsp;Men's Health",
+      "sources": [
+        {
+          "name": "Men's Health",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnI0X1lHQ1h5d1IyeGxQc2EtQUI3Z3JraGNjQWdOQzJ6c0NIQWV6UjVwRUxQSmlMVmwwcHJBU3JYRmdSd2toYTlNSzBpc29tWHd0NjFUV245aVZWSkt6Umd1cVBueVVNbnhzRFhmcTRzbERndUpYQ2RhSjJnTXNMNnFyVWJtUzZ4OVdyS3dxRTRaS2hjMV9Cc1lUZmVjQkQzS3RVVUJSREI3VW5LRDU4?oc=5"
         }
       ]
     }

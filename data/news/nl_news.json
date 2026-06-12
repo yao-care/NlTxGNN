@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-12T10:05:40.826928+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-12T14:51:31.016373+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "534dafae04f4",
-      "title": "Onderzoekers: te weinig borstkankerpatiënten krijgen nodige gentest - NOS",
-      "published": "2026-06-12T05:34:19+00:00",
-      "summary": "Onderzoekers: te weinig borstkankerpatiënten krijgen nodige gentest&nbsp;&nbsp;NOSTest voor borstkanker die chemo kan voorkomen nog maar weinig gebruikt&nbsp;&nbsp;NUSlechts één op de drie borstkankerpatiënten met indicatie krijgt vergoede genprofieltest die onnodige chemotherapie kan voorkomen&nbsp;&nbsp;IKNLProsigna-test kan onnodige chemotherapie voorkomen bij hoogrisicopatiënten met borstkanker&nbsp;&nbsp;ntvo.nlTe weinig borstkankerpatiënten krijgen nodige gentest&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVVtVlVzeGpwYmx6ME9jaTRKVDhxd0RVTHpSWXNXamEyNmo4WmNnWnl4U2ZHUW1sV1kxU3hmUTQtdXBqM3FZeGZCelFYR2lwZlNWSFljSlk2T2I4VGVjcDZnQmJpYjA4dlNUTkRpeEdjUmhicnYwX245WGJEUjZfY2Q4dG42Y001NGk3YzBIUk9JbURfdFJUY2ZnRmpidw?oc=5"
-        }
-      ]
-    },
     {
       "id": "3466c32760a4",
       "title": "Trillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’ - De Gelderlander",
@@ -28,26 +16,14 @@
       ]
     },
     {
-      "id": "b29f5c7906c1",
-      "title": "Onderzoek: ook als je verder gezond eet, kunnen deze populaire voedingsmiddelen funest zijn voor je concentratie - Metronieuws.nl",
-      "published": "2026-06-10T12:04:00+00:00",
-      "summary": "Onderzoek: ook als je verder gezond eet, kunnen deze populaire voedingsmiddelen funest zijn voor je concentratie&nbsp;&nbsp;Metronieuws.nl",
+      "id": "d8e4a8f86129",
+      "title": "Delier na operatie komt vaak voor. En het is een slecht teken - Scientias.nl",
+      "published": "2026-06-11T15:01:42+00:00",
+      "summary": "Delier na operatie komt vaak voor. En het is een slecht teken&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVWhtb1NaYkZ4N3EzZnRXV01PeURkVTVpTVVJT3NZWkNHNnF0b3FPX1JzNEx4YU5OSDRNZXhhcFJmbEZudThrRk9jbGpSR0U5MWpsVVNreEMwRENOZ281QmdmQlRGbFRmVUZWVzRpeVZCVjViU1ZxRDJkUzJFbmwwYk9OYnUzTlEtSjZ4R2N3azFkR1NWLXJaT19pU2NKZE92V3c5MGNsa3NYZ04ybkJxOHNhUHZTcGFYOFdWQ3NLUUtGYzZpd0lyOTRRSEVUVjdaYWZjei1uWGJiZnhGbFhFa3J2LWxWbVdHR1FOUnpjV1ZCSVZ5a3Y4dTZTSkQ5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e96150262cfe",
-      "title": "Wetenschapper: Eén allesoverheersende oorzaak van waarom jongeren ongelukkig zijn wordt gemist, blijkt uit groot onderzoek - wibnet.nl",
-      "published": "2026-06-10T20:00:47+00:00",
-      "summary": "Wetenschapper: Eén allesoverheersende oorzaak van waarom jongeren ongelukkig zijn wordt gemist, blijkt uit groot onderzoek&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFZwWXZlS2xjN0lfTVNhRnRtT1hJT0Q4bmRabm02bXgzNElUUlJuUUpWWHpWS01uYlllR2FBUy1jRF93MmdxTkFpVWlWaEJEVUs1WFRBR1FUd3o4THM0Tmw0OEpkaExGaUZoOVp3a2xUdnhfeE1YcElFVFI3WFJFejdseWRjX242XzBjRFVFTWxOcW5keHdPa3A0eC12Y1EyYnU3RHZVdEtRcGVFZUxqUkZld2RWa0R0dkhSZThjbEhVRmtjaXZUMHM5bGI5ZVMtT08yekgybENLb0xjWUtNZEdIdw?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzVsYTZwNUV1S3Y2U3hYS3prcDA2X2JYbXYxNm1vem9CSjFIVmUxQzZGZnZNMm9Kbi1sdzdSdk9jOUVUVHlOcG5Wa05hTnB3WWJGdXhvN3lRMmJXYlpocUNDVVZVSTh1eS11R3hVdm83anhWbmVwaFBFcHI2VVhWNmV6dnpqcTlnUWc?oc=5"
         }
       ]
     }

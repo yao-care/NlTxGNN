@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-12T03:37:37.409013+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-12T10:05:40.826928+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "534dafae04f4",
+      "title": "Onderzoekers: te weinig borstkankerpatiënten krijgen nodige gentest - NOS",
+      "published": "2026-06-12T05:34:19+00:00",
+      "summary": "Onderzoekers: te weinig borstkankerpatiënten krijgen nodige gentest&nbsp;&nbsp;NOSTest voor borstkanker die chemo kan voorkomen nog maar weinig gebruikt&nbsp;&nbsp;NUSlechts één op de drie borstkankerpatiënten met indicatie krijgt vergoede genprofieltest die onnodige chemotherapie kan voorkomen&nbsp;&nbsp;IKNLProsigna-test kan onnodige chemotherapie voorkomen bij hoogrisicopatiënten met borstkanker&nbsp;&nbsp;ntvo.nlTe weinig borstkankerpatiënten krijgen nodige gentest&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVVtVlVzeGpwYmx6ME9jaTRKVDhxd0RVTHpSWXNXamEyNmo4WmNnWnl4U2ZHUW1sV1kxU3hmUTQtdXBqM3FZeGZCelFYR2lwZlNWSFljSlk2T2I4VGVjcDZnQmJpYjA4dlNUTkRpeEdjUmhicnYwX245WGJEUjZfY2Q4dG42Y001NGk3YzBIUk9JbURfdFJUY2ZnRmpidw?oc=5"
+        }
+      ]
+    },
     {
       "id": "3466c32760a4",
       "title": "Trillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’ - De Gelderlander",
@@ -16,30 +28,6 @@
       ]
     },
     {
-      "id": "360f2df2e6f4",
-      "title": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’ - De Telegraaf",
-      "published": "2026-06-10T05:45:00+00:00",
-      "summary": "Dit goedkope medicijn kan hartinfarct voorkomen, maar door strenge regels krijgen hartpatiënten het niet: ’Dit kan toch niet waar zijn’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeFBndlVETURyUHA1Q0dsRkdFVm9KR1hWNTktU3NPbzIyOWZnanFYOHdVcS0zTkxKLUpndjFOR0ppRVZpRjdWTVdvVDR3SVdaa05pODdsZWJWNHBRbjJMR3lrMjU0SUZ2TDZ5MXAwbnh2N1Y5d0dlREZDaW93ZTktanl1MkVBc1IyRUlVQTlWb3l2QjlBRWZlTlFlR3pPLUhrUjd1eDNfSU14WkEzUC1NenMzYkpoZnM0ZUNFRWplVEp0NkszNzJxdUZFamFkeVJqbzdYcFRMUXEtTkhfbWlWX210WmZldVdUVjB6aHdUcG5mUkRIYWpzRmZWdlplMG9WbXdTalRTVmNMZVJQWjZGR1FHcFk3WHRnM2tiSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6761eb04955",
-      "title": "Door sepsis lag Tess' leven 3 jaar stil: \"Wil gewoon weer overal bij zijn\" - NH Nieuws",
-      "published": "2026-06-10T07:07:00+00:00",
-      "summary": "Door sepsis lag Tess' leven 3 jaar stil: \"Wil gewoon weer overal bij zijn\"&nbsp;&nbsp;NH NieuwsTess (21) overwint bloedvergiftiging na jarenlange strijd met speciale therapie&nbsp;&nbsp;NieuwslensZien: licht aan het eind van de tunnel voor zieke Tess door nieuwe therapie&nbsp;&nbsp;NH Nieuws",
-      "sources": [
-        {
-          "name": "NH Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFNXWjRCUDNXQXpRRWluaTJVYl9ZdmtCWHVCclkyRnJQbEhDMnpDc25ORUFpbTdzTE9QVTF4TURwTUI1MFA3R1R3VXpwdS0tQXJUTkZBd0VhbjNrMkpROVYwNmJOT0xrQjVNRTl2N2pXSGVNUElTSFB3bmFQR1NUQS03UkEydUtyeVBfYWpNRVJmaTByOElLRXdGdmVsRFVnZVRTOUd2T3BtYzFJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b29f5c7906c1",
       "title": "Onderzoek: ook als je verder gezond eet, kunnen deze populaire voedingsmiddelen funest zijn voor je concentratie - Metronieuws.nl",
       "published": "2026-06-10T12:04:00+00:00",
@@ -48,18 +36,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVWhtb1NaYkZ4N3EzZnRXV01PeURkVTVpTVVJT3NZWkNHNnF0b3FPX1JzNEx4YU5OSDRNZXhhcFJmbEZudThrRk9jbGpSR0U5MWpsVVNreEMwRENOZ281QmdmQlRGbFRmVUZWVzRpeVZCVjViU1ZxRDJkUzJFbmwwYk9OYnUzTlEtSjZ4R2N3azFkR1NWLXJaT19pU2NKZE92V3c5MGNsa3NYZ04ybkJxOHNhUHZTcGFYOFdWQ3NLUUtGYzZpd0lyOTRRSEVUVjdaYWZjei1uWGJiZnhGbFhFa3J2LWxWbVdHR1FOUnpjV1ZCSVZ5a3Y4dTZTSkQ5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5881a1c00dd9",
-      "title": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien - Welingelichte Kringen",
-      "published": "2026-06-10T12:22:38+00:00",
-      "summary": "Unicum: voor het eerst ooit krijgen mensen behandeling om veroudering terug te draaien&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGh0bmVlN0NXOGtpM3UzT2c4RGdxOHRaajFWVEhBQUdoYlp1RUQ2aV9nWm5LaFZUbTJabkFpWnd2cEwzcmV4Rnhla3pvMy1DNTZFZmJBdWxmdDVEdDdMRFdXNnpRR05fUmZ1SHhDZWRTNkZXd0xpcnMzTnVQZmVQQ1JicFNFWk9WbDl1TWhvM0FvTXVuaEwwTXlDTWdZQmFNNkJfc1VKdHpDOERhaTNCTGhDQVNCMjJza3hBT3R4enRTV1lFM1daWWV3Wjg?oc=5"
         }
       ]
     },

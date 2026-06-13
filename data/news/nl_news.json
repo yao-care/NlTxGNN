@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-12T20:05:42.049484+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-13T03:25:07.057344+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "3466c32760a4",
-      "title": "Trillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’ - De Gelderlander",
-      "published": "2026-06-10T23:00:00+00:00",
-      "summary": "Trillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTlKbjd3RUlCdXI0eUpMdndaTnFXakpJSDZ1U19Pa0E1c2NFMG1xY0hhMWRqVFdMMklNb0Rjc2E5ZzlIUW5fbGxuYmdfd2xiSzhYTDRBSzBVeWMwOHNTMDZfVm1RT3VmbUd4aGpmdEQxWTRZS1JXNFUzWElWSk9lVE1NVGVWVzE0SmpOYWpDSUI2bmZuenBoUktpQzBLcGNzOEp0VXEyMW1SX3Y2Sko4Z21XRnZueWVRV1BYNi1uUXNwcS0yZ3dsMzFzcHkyM29CbHc5M3FMWDNwYktM?oc=5"
-        }
-      ]
-    },
     {
       "id": "d8e4a8f86129",
       "title": "Delier na operatie komt vaak voor. En het is een slecht teken - Scientias.nl",

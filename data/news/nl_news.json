@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-14T13:55:40.994340+00:00",
+  "fetched_at": "2026-06-14T19:21:35.927457+00:00",
   "count": 2,
   "news": [
     {
-      "id": "fefcb72b8f80",
-      "title": "Natasja was een ‘doodgewone’ moeder, tot ze doordraaide door slaapgebrek: ‘Dacht dat ik God was’ - AD.nl",
-      "published": "2026-06-14T02:00:00+00:00",
-      "summary": "Natasja was een ‘doodgewone’ moeder, tot ze doordraaide door slaapgebrek: ‘Dacht dat ik God was’&nbsp;&nbsp;AD.nl’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladMoeder raakt door slaapgebrek in psychose en denkt God te zijn&nbsp;&nbsp;Nieuwslens",
+      "id": "535eb7b713c9",
+      "title": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag - bnr.nl",
+      "published": "2026-06-14T12:37:00+00:00",
+      "summary": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag&nbsp;&nbsp;bnr.nlNieuw onderzoek wijst uit hoeveel alcoholische dranken je niet per dag zou moeten drinken.&nbsp;&nbsp;Vietnam.vnKankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nlEén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1hDTFlYX056cUtIbUVXTkJUMnhDMFMtMmsyckFabTAzUDdOZEJOVXlORHl5QnpsRkMyVWk4UlRTY1dHUWxmc2Y4REQyRmVyeXRIR01YZXJSWDcwWmVHbV84VVdnTV9mRTdxNzc5SmJUY0FnckhKVERVRXczcGZtaVlfcmhjcU1iNmNTTktkM2NycGJZWUhiWXNZMjhXVmRINm5OOVdEenhVa1BvV0NqbVJaLVFONldVbXNVMHdoOWhmQQ?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjY1eEVLQWNndXdNWG9Hd0VxcUtfV25ERTgtYkVGdEhrbjAwMHcxZjdIRmF3c2xuZGszYTNqRFJfRWhZTW9nMmFHTXF5WF90ekdTUmMwQXJLbmE2bndNRkNvM0JRT3l1MXkwMlFSZk9HNXUwSDhZeEtNdENCTDdjcFFiYUk2b2NXYU5GZjktU2FWc3IwbDd4NjhXdERwVEFwa3B1bF8xd1cwOEU5QmZOdU5EUVpBdEFGNk5RSy1yWnRWTVJ4dWZz?oc=5"
         }
       ]
     },
     {
-      "id": "1442cfefe28a",
-      "title": "“Overweldigend bewijs”: waarom artsen nu waarschuwen dat landbouwgif parkinson aanjaagt - Welingelichte Kringen",
-      "published": "2026-06-13T04:13:31+00:00",
-      "summary": "“Overweldigend bewijs”: waarom artsen nu waarschuwen dat landbouwgif parkinson aanjaagt&nbsp;&nbsp;Welingelichte KringenTrillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’&nbsp;&nbsp;De GelderlanderArts (47) stopt met werk door trillende hand&nbsp;&nbsp;Nieuwslens",
+      "id": "4cbe407f925f",
+      "title": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose - Noordhollands Dagblad",
+      "published": "2026-06-14T09:00:00+00:00",
+      "summary": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladNatasja was een ‘doodgewone’ moeder, tot ze doordraaide door slaapgebrek: ‘Dacht dat ik God was’&nbsp;&nbsp;AD.nlMoeder raakt door slaapgebrek in psychose en denkt God te zijn&nbsp;&nbsp;NieuwslensVrouw raakt in manie door slaaptekort en bouwt weeshuis&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWMxeWs5WEFENS01dExJeHhCelJmYmIxVkpXcVpVWHNQWGd4ZVdjSk9LSXQ4Q19WSVFuUUhhbE5IY1hiVWRpVnVqbmpqZS1makgyQlFnWmRybmozREZzaHlBU1VrMmh5ZmlzMXV2dnVhT2Vib25BOVpjRE00eVpTM3pPR2hnWXdIX2FyV1Q3My11eGFxeEhlN08tVE40cjRHUF9IcHhWN0djZFhZYzF6a1F1VEhXTC02UUppcXJSSUlxS2x0WnZuY1RIUQ?oc=5"
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcmI5RzhWZGNDbFA4dGNxaWl0ZlR1UFc5YUsycllyWmduTWxmb2tDc2JIZGlUVmt3V0daMlUzXzEtOEFlaHpLbHd5NFloazQ0YkZCZXZ1c1RScldhbXJOQXhUTWZlV3JvNi1DM2tnTjlEQTdHYS1LakloN3JyYWFQQUhPR1lmRkZTMmFLc1lEbTd5Z014WUJBT01sUHlzTC1HS0ZiblFBY1J5WW9fSnRSb1FSSk9TRWZON1RFMlQ1bU1MaXl1MDBtemdIS0RNWTBhN21zcnBHYTdnR1FnRU1Ybm5yTkdjQU1WQ3QwSDh2SHJhcFdlSEpHNFg0SGRYTVdDSXRzYTZPQ3ZfN0pJMER5dG82aXNya3dpcWs1N0J4aHQyMDdseS1wTXpwUVVaS01SV29HOUUxT3E?oc=5"
         }
       ]
     }

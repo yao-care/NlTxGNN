@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-14T03:41:20.199212+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-14T09:28:36.181014+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "86eea1692c1c",
-      "title": "Ebola-doden in vluchtelingenkamp Congo, angst voor verdere verspreiding - NOS",
-      "published": "2026-06-12T15:18:09+00:00",
-      "summary": "Ebola-doden in vluchtelingenkamp Congo, angst voor verdere verspreiding&nbsp;&nbsp;NOSDe oneerlijke strijd tegen een virus dat zich sneller verspreidt dan artsen hun laarzen kunnen ontsmetten&nbsp;&nbsp;de VolkskrantAantal ebolabesmettingen loopt op tot bijna 700, ruim 130 doden&nbsp;&nbsp;Haarlems DagbladVerspreiding ebola baart nog altijd grote zorgen&nbsp;&nbsp;RD.nlUNICEF vreest dat meer kinderen zullen sterven als gevolg van ebola&nbsp;&nbsp;UNICEF",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDVEY0trWk5xdlVCazZ1VVpSUFJfU1lYTU1KbFF3dlVXTWMxWDVla2FtYldyaURweDc0Z1A0UThNLW95VDZ3YjJGNFZHREY3ZmtETEk0WTVTeGFWVlQwUndMbzFzamxDUVY1bEZiLWhXeGxHWHVoYzFmMUg5amoyVzRXRE1oMTZXVkZ1NjdSNkxCOVVXZVVxYzdsV1dIQy04aHM4?oc=5"
-        }
-      ]
-    },
     {
       "id": "1442cfefe28a",
       "title": "“Overweldigend bewijs”: waarom artsen nu waarschuwen dat landbouwgif parkinson aanjaagt - Welingelichte Kringen",
       "published": "2026-06-13T04:13:31+00:00",
-      "summary": "“Overweldigend bewijs”: waarom artsen nu waarschuwen dat landbouwgif parkinson aanjaagt&nbsp;&nbsp;Welingelichte KringenTrillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’&nbsp;&nbsp;De GelderlanderArts (47) stopt met werk door trillende hand&nbsp;&nbsp;Nieuwslens",
+      "summary": "“Overweldigend bewijs”: waarom artsen nu waarschuwen dat landbouwgif parkinson aanjaagt&nbsp;&nbsp;Welingelichte KringenTrillende hand betekende einde van loopbaan als arts voor Ingrid (47): ‘Ik dacht meteen aan parkinson’&nbsp;&nbsp;AD.nlArts (47) stopt met werk door trillende hand&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "Welingelichte Kringen",

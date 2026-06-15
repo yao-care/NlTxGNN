@@ -1,12 +1,12 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-15T03:56:22.735377+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-15T11:57:32.074867+00:00",
+  "count": 3,
   "news": [
     {
       "id": "535eb7b713c9",
       "title": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag - bnr.nl",
-      "published": "2026-06-14T12:37:33+00:00",
+      "published": "2026-06-14T12:37:00+00:00",
       "summary": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag&nbsp;&nbsp;bnr.nlNieuw onderzoek wijst uit hoeveel alcoholische dranken je niet per dag zou moeten drinken.&nbsp;&nbsp;Vietnam.vnKankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nlEén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
@@ -18,12 +18,24 @@
     {
       "id": "4cbe407f925f",
       "title": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose - Noordhollands Dagblad",
-      "published": "2026-06-14T09:00:00+00:00",
+      "published": "2026-06-15T10:26:19+00:00",
       "summary": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcmI5RzhWZGNDbFA4dGNxaWl0ZlR1UFc5YUsycllyWmduTWxmb2tDc2JIZGlUVmt3V0daMlUzXzEtOEFlaHpLbHd5NFloazQ0YkZCZXZ1c1RScldhbXJOQXhUTWZlV3JvNi1DM2tnTjlEQTdHYS1LakloN3JyYWFQQUhPR1lmRkZTMmFLc1lEbTd5Z014WUJBT01sUHlzTC1HS0ZiblFBY1J5WW9fSnRSb1FSSk9TRWZON1RFMlQ1bU1MaXl1MDBtemdIS0RNWTBhN21zcnBHYTdnR1FnRU1Ybm5yTkdjQU1WQ3QwSDh2SHJhcFdlSEpHNFg0SGRYTVdDSXRzYTZPQ3ZfN0pJMER5dG82aXNya3dpcWs1N0J4aHQyMDdseS1wTXpwUVVaS01SV29HOUUxT3E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee485c0f3fe4",
+      "title": "Grootscheeps onderzoek naar verspreiding vossenlintworm in Limburg: ‘Bij een besmet persoon kan ernstige leverschade ontstaan’ - De Limburger",
+      "published": "2026-06-14T20:41:00+00:00",
+      "summary": "Grootscheeps onderzoek naar verspreiding vossenlintworm in Limburg: ‘Bij een besmet persoon kan ernstige leverschade ontstaan’&nbsp;&nbsp;De Limburger",
+      "sources": [
+        {
+          "name": "De Limburger",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMVBOY3NkV1pzRzlOc1prZGJFR1RsTXlwbUlCWlZrQk53LXpJWVZoa1g5MFF5MEdUeFAtWmVUVXItUGo4VHI3QS1XU1VXRFBVNEZXRUR1Rklpb3EtbzJZUVdkNHVnN3BnZHRORzRTeXpBdUFLMEpTQWFfVUpTOUJXbnRkemlnVGNidE14ckg0eWZDVXNZSnJCTDVVYnJqaFJqQkRHWFNyaUJsT1VrS0hrREJCYllwYTdXcHBxeU1XQnFOa01Ja3U2eGg0amlTcjN5c0Mwak5SajNtNnJCVHpFNnlrWkZiamdkZG9oT1FBOFZkTkxvUk5MQmF6aV9mS2VtWUlTeDVxQ2p4R2tMSDh0eA?oc=5"
         }
       ]
     }

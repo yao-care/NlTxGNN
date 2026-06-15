@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-15T17:18:08.913237+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-15T20:52:00.468875+00:00",
+  "count": 4,
   "news": [
-    {
-      "id": "b5ed51a1a923",
-      "title": "WHO-topman diep bezorgd na bezoek aan Congo: “De bevolking noemt ebola een samenzwering of een hoax” - De Standaard",
-      "published": "2026-06-14T11:12:21+00:00",
-      "summary": "WHO-topman diep bezorgd na bezoek aan Congo: “De bevolking noemt ebola een samenzwering of een hoax”&nbsp;&nbsp;De StandaardEbolarespons in Oost-Congo schiet ernstig tekort, waarschuwt Artsen zonder Grenzen&nbsp;&nbsp;de VolkskrantAzG: meer noodhulp nodig om ebola-uitbraak te bedwingen&nbsp;&nbsp;Haarlems DagbladVerspreiding ebola baart nog altijd grote zorgen&nbsp;&nbsp;RD.nlEbola-doden in vluchtelingenkamp Congo, angst voor verdere verspreiding&nbsp;&nbsp;NOS",
-      "sources": [
-        {
-          "name": "De Standaard",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaFQwY2pZMUpISVZwSFlkMWRIelp1MDlGcVpPR09WZ0xCdTFMRzY4RUpXZGJvRDktazNwbHgtUmtBWWNmUFFENUtlOHVpZU9jLWluRVZTQXpDYnhnRjVvOWdrM1J2NEFHSkMwdzhweUh0Z3FFRWJXRFViX19HRThJbk92MVRfYXpiUFl2cEV0aVoyUEFxNDBTSDhuRUtXV0tuQ0pLcjg4SzB6SDRQQkxoRlktZm12dzNBMUhDeDFyeGdyRE1RcmhBRXh4MFBvYUNvdlZ0U2dwaXlxbUdZRVRKWDBR?oc=5"
-        }
-      ]
-    },
     {
       "id": "c155b74cccda",
       "title": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud - Metronieuws.nl",
@@ -30,7 +18,7 @@
     {
       "id": "535eb7b713c9",
       "title": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag - bnr.nl",
-      "published": "2026-06-14T12:37:00+00:00",
+      "published": "2026-06-14T12:37:33+00:00",
       "summary": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag&nbsp;&nbsp;bnr.nlNieuw onderzoek wijst uit hoeveel alcoholische dranken je niet per dag zou moeten drinken.&nbsp;&nbsp;Vietnam.vnKankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nlEén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {

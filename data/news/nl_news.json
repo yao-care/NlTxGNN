@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-15T20:52:00.468875+00:00",
+  "fetched_at": "2026-06-16T03:44:11.065271+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "0064b53d8df6",
+      "title": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen' - RTV Noord",
+      "published": "2026-06-15T20:11:19+00:00",
+      "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV NoordHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG zet vrouwengezondheid centraal: ‘Zorg moet passender’&nbsp;&nbsp;umcg.nlUMCG pakt medische ongelijkheid vrouwen aan&nbsp;&nbsp;NieuwslensMet mijn knieën ga je de oorlog niet winnen!&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWhTWjNpREw2MkRtNDMzN0hMWTNrWE5XRmtwYWxIcm9mY0pOMGNyUnJ4a0JZNVlqUzRVTzZ0SnVhcTk2NWR1NmtGSjdpQ1ZzQk51eDJ3TjVuLXF5TUlQdUhqRTZ2RHVELWJzRzdsYzQ4VzVwalVpdVRDdFRiaXBFQ0VER0NLcWRvVHFlM2NNenZtMFBzcEFPNGg3bEQ1Yk5kanViOUEyN0NKdDYwN3FFNw?oc=5"
+        }
+      ]
+    },
     {
       "id": "c155b74cccda",
       "title": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud - Metronieuws.nl",
       "published": "2026-06-15T12:37:00+00:00",
-      "summary": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud&nbsp;&nbsp;Metronieuws.nlDementie-explosie: deze vier dagelijkse gewoontes veranderen alles voor je brein&nbsp;&nbsp;Futura, le média qui explore le monde50+? Beweeg minimaal dit aantal minuten per week om je brein jong te houden&nbsp;&nbsp;Men's HealthGroot dementieonderzoek: Je kunt je risico aanzienlijk verlagen door één veelvoorkomende gewoonte te laten vallen&nbsp;&nbsp;wibnet.nlHersen",
+      "summary": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud&nbsp;&nbsp;Metronieuws.nlDementie-explosie: deze vier dagelijkse gewoontes veranderen alles voor je brein&nbsp;&nbsp;Futura, le média qui explore le monde50-plus? Dit is het minimum aan beweging dat je doet om je brein jong te houden&nbsp;&nbsp;Men's HealthGroot dementieonderzoek: Je kunt je risico aanzienlijk verlagen door één veelvoorkomende gewoonte te laten vallen&nbsp;&nbsp;wibnet.nlHe",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -16,22 +28,10 @@
       ]
     },
     {
-      "id": "535eb7b713c9",
-      "title": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag - bnr.nl",
-      "published": "2026-06-14T12:37:33+00:00",
-      "summary": "Onderzoek: alcohol verhoogt risico op ziekte en overlijden al vanaf één glas per dag&nbsp;&nbsp;bnr.nlNieuw onderzoek wijst uit hoeveel alcoholische dranken je niet per dag zou moeten drinken.&nbsp;&nbsp;Vietnam.vnKankeronderzoeker: Je risico neemt aanzienlijk toe door één veelvoorkomende gewoonte&nbsp;&nbsp;wibnet.nlEén glas alcohol per dag vergroot kans op tien soorten kanker&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjY1eEVLQWNndXdNWG9Hd0VxcUtfV25ERTgtYkVGdEhrbjAwMHcxZjdIRmF3c2xuZGszYTNqRFJfRWhZTW9nMmFHTXF5WF90ekdTUmMwQXJLbmE2bndNRkNvM0JRT3l1MXkwMlFSZk9HNXUwSDhZeEtNdENCTDdjcFFiYUk2b2NXYU5GZjktU2FWc3IwbDd4NjhXdERwVEFwa3B1bF8xd1cwOEU5QmZOdU5EUVpBdEFGNk5RSy1yWnRWTVJ4dWZz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4cbe407f925f",
       "title": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose - Noordhollands Dagblad",
       "published": "2026-06-15T10:26:19+00:00",
-      "summary": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladNatasja de Hollies (38) raakte door slaaptekort in manie: ‘In isoleercel zag ik nog niet dat er iets mis met me was’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "Noordhollands Dagblad",

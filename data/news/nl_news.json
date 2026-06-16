@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-16T11:05:41.785051+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-16T16:45:20.324859+00:00",
+  "count": 3,
   "news": [
     {
       "id": "0064b53d8df6",
       "title": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen' - RTV Noord",
-      "published": "2026-06-15T20:11:19+00:00",
-      "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV NoordHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG zet vrouwengezondheid centraal: ‘Zorg moet passender’&nbsp;&nbsp;umcg.nlUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale ZorggidsUMCG pakt medische ongelijkheid vrouwen aan&nbsp;&nbsp;Nieuwslens",
+      "published": "2026-06-15T20:09:00+00:00",
+      "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV NoordHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG zet vrouwengezondheid centraal: ‘Zorg moet passender’&nbsp;&nbsp;umcg.nlUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;GezondnuUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "RTV Noord",
@@ -36,18 +36,6 @@
         {
           "name": "J/M Ouders",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXZTdUljQUJxdXZtcGRvcmZxM2pueTM5X1BoUHlpbE9NWEhYVlpCVVV0U2lnWF93RjJVdlNXN25vOW5fOGtGbFN6bUFaMWs0MWM1OU1aWGxGWGttOEpiVXhZTy1OR1RUVm43V2FKZllQYVRKRDZIYnZYbnAxaVFqdW8tRmhqZC1tVkJQX2t2UEVSNElQdUlvNGt4b2NmY00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee485c0f3fe4",
-      "title": "Grootscheeps onderzoek naar verspreiding vossenlintworm in Limburg: ‘Bij een besmet persoon kan ernstige leverschade ontstaan’ - De Limburger",
-      "published": "2026-06-14T20:41:00+00:00",
-      "summary": "Grootscheeps onderzoek naar verspreiding vossenlintworm in Limburg: ‘Bij een besmet persoon kan ernstige leverschade ontstaan’&nbsp;&nbsp;De Limburger",
-      "sources": [
-        {
-          "name": "De Limburger",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMVBOY3NkV1pzRzlOc1prZGJFR1RsTXlwbUlCWlZrQk53LXpJWVZoa1g5MFF5MEdUeFAtWmVUVXItUGo4VHI3QS1XU1VXRFBVNEZXRUR1Rklpb3EtbzJZUVdkNHVnN3BnZHRORzRTeXpBdUFLMEpTQWFfVUpTOUJXbnRkemlnVGNidE14ckg0eWZDVXNZSnJCTDVVYnJqaFJqQkRHWFNyaUJsT1VrS0hrREJCYllwYTdXcHBxeU1XQnFOa01Ja3U2eGg0amlTcjN5c0Mwak5SajNtNnJCVHpFNnlrWkZiamdkZG9oT1FBOFZkTkxvUk5MQmF6aV9mS2VtWUlTeDVxQ2p4R2tMSDh0eA?oc=5"
         }
       ]
     }

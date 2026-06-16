@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-16T16:45:20.324859+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-16T20:46:33.053664+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "cff22eec75ab",
+      "title": "Jelte van Serious Request op vijfjarige leeftijd overleden: ’Hij heeft zijn rust gevonden’ - De Telegraaf",
+      "published": "2026-06-16T19:30:05+00:00",
+      "summary": "Jelte van Serious Request op vijfjarige leeftijd overleden: ’Hij heeft zijn rust gevonden’&nbsp;&nbsp;De TelegraafJelte de Haan (5) uit Leeuwarden overleden, hij werd het gezicht van metabole ziekten&nbsp;&nbsp;Omrop Fryslân5-jarige Jelte uit Leeuwarden overleden: hij maakte in zijn korte tijd meer impact dan veel mensen in hun hele leven&nbsp;&nbsp;Leeuwarder CourantJelte (5) van Serious Request in diepe slaap gebracht: 'Allerlaatste stukje van zijn reis'&nbsp;&nbsp;Hart van Nederland5-jarige J",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzNuSnd4aHpuRWhtNVNTWWR2dy1WMW80TGMzdFV6SHVWb0JES25zZWFtZlYzU2F0TlMwYlJOUVlYQXRhcVRRcnppRjFhZGZkQWQtUVU1MGtkWW1JQXZlWmhJWExXNmpFQ2hGa3ZYMWlrbjM4blVDRVAzUmtfeXgyYm1pdmpuMnJ2QWtlNnV1aGtiM0tPVmJncnNnWlpkR0dOcVIzVmEySHpodlNXZnhEMXBQVHNGMFNFXy1RX1ZmOFF4Q1c3RkZvUTk2RWJHaTlnRGhWbmNtcnhGT2ZLbTExZkU0OA?oc=5"
+        }
+      ]
+    },
     {
       "id": "0064b53d8df6",
       "title": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen' - RTV Noord",
-      "published": "2026-06-15T20:09:00+00:00",
-      "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV NoordHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG zet vrouwengezondheid centraal: ‘Zorg moet passender’&nbsp;&nbsp;umcg.nlUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;GezondnuUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale Zorggids",
+      "published": "2026-06-15T20:11:19+00:00",
+      "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV Noord'Voor het eerst werd er écht geluisterd': het menstruatiedagboek als medisch hulpmiddel&nbsp;&nbsp;RTV NoordUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale ZorggidsHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;Gez",
       "sources": [
         {
           "name": "RTV Noord",

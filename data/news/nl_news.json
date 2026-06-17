@@ -1,12 +1,12 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-17T03:45:45.560768+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-17T10:49:35.532179+00:00",
+  "count": 5,
   "news": [
     {
       "id": "0064b53d8df6",
       "title": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen' - RTV Noord",
-      "published": "2026-06-15T20:09:00+00:00",
+      "published": "2026-06-16T12:01:00+00:00",
       "summary": "UMCG pakt medische ongelijkheid vrouwen aan: 'Het is niet meer uit te leggen'&nbsp;&nbsp;RTV NoordHoog tijd voor wetenschappelijke interesse in het vrouwenlichaam&nbsp;&nbsp;TrouwUMCG zet vrouwengezondheid centraal: ‘Zorg moet passender’&nbsp;&nbsp;umcg.nlUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;GezondnuUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
@@ -16,9 +16,33 @@
       ]
     },
     {
+      "id": "0e32df88d3f3",
+      "title": "‘Over mijn lijk’-Loraine (27) heeft eierstokkanker - flair.nl",
+      "published": "2026-06-17T05:34:18+00:00",
+      "summary": "‘Over mijn lijk’-Loraine (27) heeft eierstokkanker&nbsp;&nbsp;flair.nl",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDlORjdwUV8xSU12eFhXanBockZWN3BPU2xWS0luWjczN0Q3Y2d1RklYQkdZb0NEOVd6d1dETnVWN3FYOEZqX0ZQNlY4ZldXcVVOeldRU0ZnVkFOMVdPNVZDZzNjb1dIRWxzWEdoNW0tOU5oNWd6Zm5SekFFX3dnbGlZNXl5QWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4cbe407f925f",
+      "title": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose - Noordhollands Dagblad",
+      "published": "2026-06-15T10:26:19+00:00",
+      "summary": "’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide en voedde die met scheerschuim.’ Natasja (38) vertelt openhartig over haar psychose&nbsp;&nbsp;Noordhollands DagbladNatasja (38) openhartig over psychose: ’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide’&nbsp;&nbsp;De TelegraafNatasja de Hollies (38) raakte door slaaptekort in manie: ‘In isoleercel zag ik nog niet dat er iets mis met me was’&nbsp;&nbsp;ad.nlMoeder raakt door slaapgebrek in psychose en",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcmI5RzhWZGNDbFA4dGNxaWl0ZlR1UFc5YUsycllyWmduTWxmb2tDc2JIZGlUVmt3V0daMlUzXzEtOEFlaHpLbHd5NFloazQ0YkZCZXZ1c1RScldhbXJOQXhUTWZlV3JvNi1DM2tnTjlEQTdHYS1LakloN3JyYWFQQUhPR1lmRkZTMmFLc1lEbTd5Z014WUJBT01sUHlzTC1HS0ZiblFBY1J5WW9fSnRSb1FSSk9TRWZON1RFMlQ1bU1MaXl1MDBtemdIS0RNWTBhN21zcnBHYTdnR1FnRU1Ybm5yTkdjQU1WQ3QwSDh2SHJhcFdlSEpHNFg0SGRYTVdDSXRzYTZPQ3ZfN0pJMER5dG82aXNya3dpcWs1N0J4aHQyMDdseS1wTXpwUVVaS01SV29HOUUxT3E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c155b74cccda",
       "title": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud - Metronieuws.nl",
-      "published": "2026-06-16T07:02:09+00:00",
+      "published": "2026-06-15T12:38:57+00:00",
       "summary": "Wetenschappers zetten idee over veroudering op zijn kop: hersenen blijven ontwikkelen, tot wel 90 jaar oud&nbsp;&nbsp;Metronieuws.nlDementie-explosie: deze vier dagelijkse gewoontes veranderen alles voor je brein&nbsp;&nbsp;Futura, le média qui explore le monde50-plus? Dit is het minimum aan beweging dat je doet om je brein jong te houden&nbsp;&nbsp;Men's HealthGroot dementieonderzoek: Je kunt je risico aanzienlijk verlagen door één veelvoorkomende gewoonte te laten vallen&nbsp;&nbsp;wibnet.nlHe",
       "sources": [
         {
@@ -36,18 +60,6 @@
         {
           "name": "J/M Ouders",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMllkVG5seng3RmV2S1lIQ1dKdUVoOFRXamtCZEdsWWNUREUyVFdsVDROYjZ0UE15MlJZazRLcENhX3hEazBicFQtNmYwcUFoMWhZZFFYbjhvVmlKZmRBMWx0cVZwMklmTmtSSG9va0tQNVR3YTVzbjRSZHJWaUVEZ0YyU2d2emhKdkRnVVhYSV95REZtSkJxeTUyX1hzbngwYkl0UE9BVU45aXo3NEZCWkpHYnZ5bXJHQ3R6VXZwbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed42e842fcf3",
-      "title": "Na de diagnose darmkanker met uitzaaiingen wilde Godwin vooral één ding: herinneringen maken met zijn gezin - J/M Ouders",
-      "published": "2026-06-15T09:01:00+00:00",
-      "summary": "Na de diagnose darmkanker met uitzaaiingen wilde Godwin vooral één ding: herinneringen maken met zijn gezin&nbsp;&nbsp;J/M Ouders",
-      "sources": [
-        {
-          "name": "J/M Ouders",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXZTdUljQUJxdXZtcGRvcmZxM2pueTM5X1BoUHlpbE9NWEhYVlpCVVV0U2lnWF93RjJVdlNXN25vOW5fOGtGbFN6bUFaMWs0MWM1OU1aWGxGWGttOEpiVXhZTy1OR1RUVm43V2FKZllQYVRKRDZIYnZYbnAxaVFqdW8tRmhqZC1tVkJQX2t2UEVSNElQdUlvNGt4b2NmY00?oc=5"
         }
       ]
     }

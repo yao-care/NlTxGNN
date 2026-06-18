@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-17T20:08:23.560944+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-18T03:36:50.159112+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "4dafc0f73a38",
+      "title": "5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen - de Volkskrant",
+      "published": "2026-06-17T15:00:13+00:00",
+      "summary": "5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen&nbsp;&nbsp;de VolkskrantDe pest trof Siberische jagers 5.500 jaar geleden al door eten rauwe marmotten&nbsp;&nbsp;NUVroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden&nbsp;&nbsp;NRCOudste bekende bewijs voor pestuitbraken gevonden: ziekte trof mogelijk al 5500 jaar geleden jagers en verzamelaars&nbsp;&nbsp;Scientias.nlOudste bewijs voor pestuitbraken gevonden in Siberië&nbsp",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYW1jSkZISlJSSXRsSi1QQ0Q0R19MMjJWMUc3THlOU1E5dk1vcXRBd1lqVzJxM0NBeW9NM0VJb0ZfZ19idkg1N0N3WnBHaXUyV2xWSk5RU1U2NllEeERwcTlXdGJYeFdpM1FrUW84d3pULXpXeDVUUE9SRjVnTkZIMUE5ZGZLMW02M0JiRHpPZzB1Vk1qT2tDVmJRUFZnMUtPUFQxR01CVGdMcG50a3ByR3U4eVZXdjJxb1RoaTRkY2dxaWpDMEo3cmZ0cDd2aW9ySk9NX213?oc=5"
+        }
+      ]
+    },
     {
       "id": "0e32df88d3f3",
       "title": "‘Over mijn lijk’-Loraine (27) heeft eierstokkanker - flair.nl",
@@ -16,9 +28,21 @@
       ]
     },
     {
+      "id": "093605f43df5",
+      "title": "Bijna alle hartaanvallen worden veroorzaakt door deze vier risicofactoren - Welingelichte Kringen",
+      "published": "2026-06-17T15:04:49+00:00",
+      "summary": "Bijna alle hartaanvallen worden veroorzaakt door deze vier risicofactoren&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV0lSX0NDRkNrbFZpaDJ4R3l6d0ZSY3ozRGo2cVVKeXo2UmRNMDEyaDFiMmIzS3Q3aUp3VnlTQzJRU1pjT3V6RVZvWTNEbXhNZU95eEJYdlE4ZGprR2lMeUxEYXNBQ3ozdlpOSkFnTTV1N2ItYzMzUWV2cTk3WF9jX01VNURMX0RxM1ZLTWZyVmZwM3k4UkpsNE9YeEZueXR1UFpKajlpRUN6ZmEtY3RiR1V6VGxOekJ3Tw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "432acfdf423e",
       "title": "Bang dat jouw stress slecht is voor je baby? Onderzoeker Nina Bruinhof heeft geruststellend nieuws - J/M Ouders",
-      "published": "2026-06-16T11:03:00+00:00",
+      "published": "2026-06-16T11:06:46+00:00",
       "summary": "Bang dat jouw stress slecht is voor je baby? Onderzoeker Nina Bruinhof heeft geruststellend nieuws&nbsp;&nbsp;J/M Ouders",
       "sources": [
         {

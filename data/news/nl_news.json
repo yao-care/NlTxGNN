@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-18T10:16:04.173890+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-18T15:17:07.687018+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "0177afe8d244",
+      "title": "Politiek trekt aan de bel: pak influencers aan die misinformatie verspreiden over seksuele gezondheid - RTL.nl",
+      "published": "2026-06-18T04:51:26+00:00",
+      "summary": "Politiek trekt aan de bel: pak influencers aan die misinformatie verspreiden over seksuele gezondheid&nbsp;&nbsp;RTL.nlBen jij misleid door desinformatie van influencers over anticonceptie of soa's?&nbsp;&nbsp;NUKamermeerderheid wil influencers kunnen vervolgen na recordaantal van 106.331 soa-besmettingen&nbsp;&nbsp;Metronieuws.nlTweede Kamer wil misinformatie over anticonceptie en soa's aanpakken&nbsp;&nbsp;NieuwslensKamermeerderheid open voor strafbaar stellen medische desinformatie over antic",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSG5JOHdQWlhZdzVwQkE2aWRvMXM3NTlKY1lWUG5pVVVvTjdDUGRPcmhwam1NSWJQZlhFMjNGTFRxSlJyVVloVi1QcDA3RjZkTHBodkhyYTN5WURhM1ViY3pjYjJKVng0eTM3cFUwcUprQUIxbXJRZ3FPV3ZBX3FLVXVCT2pSb1pQUVBmS2RuVFFIMnNKWV9tdTZmcm4tb2ZvZ0NXRzdfdUFPelFwX3RR?oc=5"
+        }
+      ]
+    },
     {
       "id": "0cb27213737d",
       "title": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden - NRC",
       "published": "2026-06-17T15:00:00+00:00",
-      "summary": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden&nbsp;&nbsp;NRCDe pest trof Siberische jagers 5.500 jaar geleden al door eten rauwe marmotten&nbsp;&nbsp;NU5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen&nbsp;&nbsp;de VolkskrantOudste bekende bewijs voor pestuitbraken gevonden: ziekte trof mogelijk al 5500 jaar geleden jagers en verzamelaars&nbsp;&nbsp;Scientias.nlDe pest zaaide al veel eerder dood en verderf dan gedacht",
+      "summary": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden&nbsp;&nbsp;NRCDe pest trof Siberische jagers 5.500 jaar geleden al door eten rauwe marmotten&nbsp;&nbsp;NU5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen&nbsp;&nbsp;de VolkskrantDe pest zaaide al veel eerder dood en verderf dan gedacht&nbsp;&nbsp;KIJK MagazineOudste bewijs voor pestuitbraken gevonden in Siberië&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3YtR1BYTmN6TDZjN2NVSG42YWdKNy1xQ001c3hXdTh6S1hrNnotalg5ekxNdGxURC1mRVc0V1FwbFFUMUNPUnF6TG0wWldXUDRWTGlTLU1la0FwN01ZQnRJLVV3SWw1RkcwN1FNTHp0ZmY3MEZYTW1KNmFUQzY3V0tPbEszTzhuemtWY1U3MDJwb0hhaUh1RHNEcjA1VFJNSzYwbXlYeWd1ZG5Zb1VNbjhVTkNwU0pSLXBsc04zczhPZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3909f91d0ddd",
+      "title": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’ - Mediacourant.nl",
+      "published": "2026-06-18T11:30:00+00:00",
+      "summary": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’&nbsp;&nbsp;Mediacourant.nl",
+      "sources": [
+        {
+          "name": "Mediacourant.nl",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlJOV0gwVjNtVzdqMjl6eUxyanRPN1B3RG9QM2h1U29tWVk1M2UyRXdFRXRIRl90cVcxWTYyZVJmMTFNeWN1dEVHWmZTbnBfRlZpUkpYdjI4QzU1TXU4OHNxa0JodklOZ0NESEFjWHRwa05tQy1xZU4zTk1xRkZDZkUyYmlTZWxMT2FXaHZ3UXRtTTFjWjJhenpMbVRCUUUteVZvM1JB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6aa5382a227f",
+      "title": "Vogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood - RTL.nl",
+      "published": "2026-06-18T12:40:23+00:00",
+      "summary": "Vogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nlAlarmerend onderzoek: duizenden babyzeeolifanten sterven door vogelgriep op eilanden bij Australië&nbsp;&nbsp;HLN13.000 jonge zeeolifanten sterven aan vogelgriep op Heard en McDonaldeilanden&nbsp;&nbsp;De MorgenVogelgriep doodt 75% van zeehondenpups op Australisch eiland&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjJLUUgtX3ZvY1RfaVp3MnVfcXRmZHA3TWctaHp6VUdBeDhMQnR3YXpMRkZULTE4RWk3eC1rOVpEV2xCQVptWmFZVEZqT0tJNU54d1hVbk5rMlRpUTlBOTBKZ0F5am5oQnlQbk53dWlKZmFyNkpOdlUzSzRYYXpqd3J3WURCZnV5WV9KZC1oVmFMOXkwbzZsVWRsbjVGR2owcW5MQkp6RmhVU3llT0VKdkRB?oc=5"
         }
       ]
     },
@@ -48,18 +84,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV0lSX0NDRkNrbFZpaDJ4R3l6d0ZSY3ozRGo2cVVKeXo2UmRNMDEyaDFiMmIzS3Q3aUp3VnlTQzJRU1pjT3V6RVZvWTNEbXhNZU95eEJYdlE4ZGprR2lMeUxEYXNBQ3ozdlpOSkFnTTV1N2ItYzMzUWV2cTk3WF9jX01VNURMX0RxM1ZLTWZyVmZwM3k4UkpsNE9YeEZueXR1UFpKajlpRUN6ZmEtY3RiR1V6VGxOekJ3Tw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "432acfdf423e",
-      "title": "Bang dat jouw stress slecht is voor je baby? Onderzoeker Nina Bruinhof heeft geruststellend nieuws - J/M Ouders",
-      "published": "2026-06-16T11:03:00+00:00",
-      "summary": "Bang dat jouw stress slecht is voor je baby? Onderzoeker Nina Bruinhof heeft geruststellend nieuws&nbsp;&nbsp;J/M Ouders",
-      "sources": [
-        {
-          "name": "J/M Ouders",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMllkVG5seng3RmV2S1lIQ1dKdUVoOFRXamtCZEdsWWNUREUyVFdsVDROYjZ0UE15MlJZazRLcENhX3hEazBicFQtNmYwcUFoMWhZZFFYbjhvVmlKZmRBMWx0cVZwMklmTmtSSG9va0tQNVR3YTVzbjRSZHJWaUVEZ0YyU2d2emhKdkRnVVhYSV95REZtSkJxeTUyX1hzbngwYkl0UE9BVU45aXo3NEZCWkpHYnZ5bXJHQ3R6VXZwbw?oc=5"
         }
       ]
     }

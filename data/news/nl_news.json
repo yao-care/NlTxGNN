@@ -1,25 +1,37 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-19T10:21:05.998352+00:00",
-  "count": 9,
+  "fetched_at": "2026-06-19T14:57:58.222999+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "e81ffb9d446c",
-      "title": "Ebola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag - gezondheidenwetenschap.be",
-      "published": "2026-06-18T07:01:53+00:00",
-      "summary": "Ebola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beAantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladEbola-uitbraak ernstiger dan gedacht door gebrek aan schoon water, vreest Oxfam&nbsp;&nbsp;AD.nlG7 wil met betere reisregels, vaccins en tests ebola indammen&nbsp;&nbsp;De Gooi- ",
+      "id": "cdbae45700bc",
+      "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
+      "published": "2026-06-19T10:04:04+00:00",
+      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladEbola-uitbraak ernstiger dan gedacht door gebrek aan schoon water, vreest Oxfam&nbsp;&nbsp;AD.nlAmerikaanse CDC maakt 107 miljoen dollar aan noodfondsen vrij voor ebolabestrijdin",
       "sources": [
         {
-          "name": "gezondheidenwetenschap.be",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRTE2ODRBWll6emhOSi00cnduZ0NMMERYS2ppX3puS0Z0dTFHV3VWN1RMYkJNcWpUNmZndEZfTmk5c2VCVVJ0elNpWDBOWGJ6NW1nRWswUDhkdFpzSkh5ck83emM4V0JRUHhKWUNFYm1jRXhWVG8tRzBoS3hpcTRodUdhRlRqMXFpVWpQbTc3WUpyMmxkMk9zSE9OVEN5dzFpZWZOaGlSQVhjUlRBekdxYVJyQTdwUXlkZl90b0p1bWJvcHBCcHpwUUpOdVB5Wklqa0NHcm56RENPV0EyQXdkbXNQa2EyWGlmZnVKVFJvSi0?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJKUHhxc1JpUW85amlab1IxR2ZUY2djYnlrWFJVcGR4ZzlqOWFBRUxrMzBZbjN6ZTJZQnU3V1lHQ01FMjlaRkI5REljeXQwUUE0THZYTG00RWFsV3VWMUl3UjQ5UXpSUklTWEVKdUxRNERTejJrMmVEVFVkaXNqRzYtQmZwNWVWRkJOTlhqMllOaF9lM0I4X0N1azI2d0xMTU81Q0pXaFAwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac73299fd6a0",
+      "title": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland - NOS",
+      "published": "2026-06-19T13:11:37+00:00",
+      "summary": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland&nbsp;&nbsp;NOSVogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nl13.000 jonge zeeolifanten sterven aan vogelgriep op Heard en McDonaldeilanden&nbsp;&nbsp;De MorgenAustralië, laatste continent zonder H5-vogelgriep, detecteert eerste vermoedelijke geval&nbsp;&nbsp;MarketScreener NederlandAlarmerend onderzoek: duizenden babyzeeolifanten sterven door vogelgriep op e",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVQ2eEVwM2lTUktZbW85bGhfNVVmdnpPemxTMGhGZ3JkSnp5cjhBLTVTdFU5ak9kVTBYZ2NGVm5tMEZkRTJOLTZ3elZ2MlNVd3diM2cwb1JhbklpY3RJNzNENnRzd0pfMF92MGVSZ2IzZjBPZkRYdlRhZlRVN1FfMGxaMG5ZbGszdENpdzlyQnRHeHVKMnVYaWJGOUV1MElqSDZGSEpIbWZEdGhNcHh0ZXU5bw?oc=5"
         }
       ]
     },
     {
       "id": "4a518084ed5c",
       "title": "De dokter ziet een vrouw, maar behandelt ze haar ook als patiënt? - RTV Noord",
-      "published": "2026-06-18T14:03:22+00:00",
-      "summary": "De dokter ziet een vrouw, maar behandelt ze haar ook als patiënt?&nbsp;&nbsp;RTV NoordWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenMeer aandacht voor vrouwengezondheid in de spreekkamer én op de werkvloer&nbsp;&nbsp;DutchHealthHubUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;Gezondnu",
+      "published": "2026-06-18T14:23:00+00:00",
+      "summary": "De dokter ziet een vrouw, maar behandelt ze haar ook als patiënt?&nbsp;&nbsp;RTV NoordMedicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordMeer aandacht voor vrouwengezondheid in de spreekkamer én op de werkvloer&nbsp;&nbsp;DutchHealthHubWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;Gezondnu",
       "sources": [
         {
           "name": "RTV Noord",
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "3909f91d0ddd",
+      "title": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’ - Mediacourant.nl",
+      "published": "2026-06-18T11:30:00+00:00",
+      "summary": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’&nbsp;&nbsp;Mediacourant.nlZieke Freek volgt het paleodieet: wat is het en hoe (on)gezond is het écht?&nbsp;&nbsp;LibelleOngeneeslijk zieke Freek (33) volgt het paleodieet. Helpt dat echt bij kanker? Expert: “Op gewicht blijven is de prioriteit”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "Mediacourant.nl",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlJOV0gwVjNtVzdqMjl6eUxyanRPN1B3RG9QM2h1U29tWVk1M2UyRXdFRXRIRl90cVcxWTYyZVJmMTFNeWN1dEVHWmZTbnBfRlZpUkpYdjI4QzU1TXU4OHNxa0JodklOZ0NESEFjWHRwa05tQy1xZU4zTk1xRkZDZkUyYmlTZWxMT2FXaHZ3UXRtTTFjWjJhenpMbVRCUUUteVZvM1JB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0cb27213737d",
       "title": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden - NRC",
       "published": "2026-06-17T15:00:00+00:00",
@@ -52,21 +76,21 @@
       ]
     },
     {
-      "id": "3909f91d0ddd",
-      "title": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’ - Mediacourant.nl",
-      "published": "2026-06-18T11:30:00+00:00",
-      "summary": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’&nbsp;&nbsp;Mediacourant.nl",
+      "id": "796060539162",
+      "title": "Is helemaal suikervrij eten echt zo gezond? Nieuwe studie trekt het in twijfel - Metronieuws.nl",
+      "published": "2026-06-19T10:08:42+00:00",
+      "summary": "Is helemaal suikervrij eten echt zo gezond? Nieuwe studie trekt het in twijfel&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "Mediacourant.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlJOV0gwVjNtVzdqMjl6eUxyanRPN1B3RG9QM2h1U29tWVk1M2UyRXdFRXRIRl90cVcxWTYyZVJmMTFNeWN1dEVHWmZTbnBfRlZpUkpYdjI4QzU1TXU4OHNxa0JodklOZ0NESEFjWHRwa05tQy1xZU4zTk1xRkZDZkUyYmlTZWxMT2FXaHZ3UXRtTTFjWjJhenpMbVRCUUUteVZvM1JB?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2Y0aGFXSlhta016c2llSXZtS2RFcXh2c0g1dlhnZDFWdWJEOUlyQ3FzVl9rSG1nTVJHOW9RWVVfb1MxM25CRlc0NVJ4ck0wOHZPNmJIUUJFaWVCN0w0TGFxZU9kLXFEUXZ4YzdRZll6MTVfVWF0cTdqVEx6TWNZYmhjQlBaVkFPTlhWanZXNmhVQ1JqU3hOU2gtaWxqcUpKVFlr?oc=5"
         }
       ]
     },
     {
       "id": "2f91b54fa8d3",
       "title": "Natasja (38) openhartig over psychose: ’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide’ - De Telegraaf",
-      "published": "2026-06-17T12:30:00+00:00",
+      "published": "2026-06-17T19:30:00+00:00",
       "summary": "Natasja (38) openhartig over psychose: ’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

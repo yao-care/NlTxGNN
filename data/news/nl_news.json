@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-19T14:57:58.222999+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-19T19:45:10.894583+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "167477119f96",
+      "title": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen' - RTV Noord",
+      "published": "2026-06-19T14:03:58+00:00",
+      "summary": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenMet mijn knieën ga je de oorlog niet winnen!&nbsp;&nbsp;Noordhollands DagbladUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale ZorggidsMedicijnen niet altijd optimaal afgestemd op vrouwen&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHhTc1dKYmhySS1WcldfY0w4b1Z4c2xQV1lzN1hCSnBXOVl3RkpwZGlxS19LcWc3UHpQbHNDS3BWSE9CYzhJVzUwUnk2WFJMZjRTclJLVUlpTkx6Z0pTT3phR1RrUW0yMkNYNFdnVVZpYXAzRWYyQ3dEN1p6VGhTMFhNcFFfSURCUWgwQjl2ZTJhUnVFMjRIaUdzelZndUYxZjJoZnJpMEtnTUk?oc=5"
+        }
+      ]
+    },
     {
       "id": "cdbae45700bc",
       "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
       "published": "2026-06-19T10:04:04+00:00",
-      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladEbola-uitbraak ernstiger dan gedacht door gebrek aan schoon water, vreest Oxfam&nbsp;&nbsp;AD.nlAmerikaanse CDC maakt 107 miljoen dollar aan noodfondsen vrij voor ebolabestrijdin",
+      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak ernstiger dan gedacht door gebrek aan schoon wa",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJKUHhxc1JpUW85amlab1IxR2ZUY2djYnlrWFJVcGR4ZzlqOWFBRUxrMzBZbjN6ZTJZQnU3V1lHQ01FMjlaRkI5REljeXQwUUE0THZYTG00RWFsV3VWMUl3UjQ5UXpSUklTWEVKdUxRNERTejJrMmVEVFVkaXNqRzYtQmZwNWVWRkJOTlhqMllOaF9lM0I4X0N1azI2d0xMTU81Q0pXaFAwQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac73299fd6a0",
-      "title": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland - NOS",
-      "published": "2026-06-19T13:11:37+00:00",
-      "summary": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland&nbsp;&nbsp;NOSVogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nl13.000 jonge zeeolifanten sterven aan vogelgriep op Heard en McDonaldeilanden&nbsp;&nbsp;De MorgenAustralië, laatste continent zonder H5-vogelgriep, detecteert eerste vermoedelijke geval&nbsp;&nbsp;MarketScreener NederlandAlarmerend onderzoek: duizenden babyzeeolifanten sterven door vogelgriep op e",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVQ2eEVwM2lTUktZbW85bGhfNVVmdnpPemxTMGhGZ3JkSnp5cjhBLTVTdFU5ak9kVTBYZ2NGVm5tMEZkRTJOLTZ3elZ2MlNVd3diM2cwb1JhbklpY3RJNzNENnRzd0pfMF92MGVSZ2IzZjBPZkRYdlRhZlRVN1FfMGxaMG5ZbGszdENpdzlyQnRHeHVKMnVYaWJGOUV1MElqSDZGSEpIbWZEdGhNcHh0ZXU5bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a518084ed5c",
-      "title": "De dokter ziet een vrouw, maar behandelt ze haar ook als patiënt? - RTV Noord",
-      "published": "2026-06-18T14:23:00+00:00",
-      "summary": "De dokter ziet een vrouw, maar behandelt ze haar ook als patiënt?&nbsp;&nbsp;RTV NoordMedicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordMeer aandacht voor vrouwengezondheid in de spreekkamer én op de werkvloer&nbsp;&nbsp;DutchHealthHubWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;Gezondnu",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDhZNjM3UHYxeTNkM1NOUzV2RG5WSHIxSHdXeWp0T2kwYmtveGtOdjN1Y0tZZ0ZsazdaeUtpRFZ4bHpQZVdOYlN3Mkd1eVJ6cXZwN1V2U2Q0VVg0UkV3M284VkJ2c21aVmU5a1BPOUpQczltVm5WbktscmhyOGlBYlJUMkhsckZNeF96blg3MFRzenl6QV9OTGw0SV9vREZCZlE?oc=5"
         }
       ]
     },
@@ -64,18 +52,6 @@
       ]
     },
     {
-      "id": "0cb27213737d",
-      "title": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden - NRC",
-      "published": "2026-06-17T15:00:00+00:00",
-      "summary": "Vroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden&nbsp;&nbsp;NRCDe pest trof Siberische jagers 5.500 jaar geleden al door eten rauwe marmotten&nbsp;&nbsp;NU5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen&nbsp;&nbsp;de VolkskrantDe pest zaaide al veel eerder dood en verderf dan gedacht&nbsp;&nbsp;KIJK MagazineOudste bewijs voor pestuitbraken gevonden in Siberië&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3YtR1BYTmN6TDZjN2NVSG42YWdKNy1xQ001c3hXdTh6S1hrNnotalg5ekxNdGxURC1mRVc0V1FwbFFUMUNPUnF6TG0wWldXUDRWTGlTLU1la0FwN01ZQnRJLVV3SWw1RkcwN1FNTHp0ZmY3MEZYTW1KNmFUQzY3V0tPbEszTzhuemtWY1U3MDJwb0hhaUh1RHNEcjA1VFJNSzYwbXlYeWd1ZG5Zb1VNbjhVTkNwU0pSLXBsc04zczhPZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "796060539162",
       "title": "Is helemaal suikervrij eten echt zo gezond? Nieuwe studie trekt het in twijfel - Metronieuws.nl",
       "published": "2026-06-19T10:08:42+00:00",
@@ -84,18 +60,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2Y0aGFXSlhta016c2llSXZtS2RFcXh2c0g1dlhnZDFWdWJEOUlyQ3FzVl9rSG1nTVJHOW9RWVVfb1MxM25CRlc0NVJ4ck0wOHZPNmJIUUJFaWVCN0w0TGFxZU9kLXFEUXZ4YzdRZll6MTVfVWF0cTdqVEx6TWNZYmhjQlBaVkFPTlhWanZXNmhVQ1JqU3hOU2gtaWxqcUpKVFlr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f91b54fa8d3",
-      "title": "Natasja (38) openhartig over psychose: ’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide’ - De Telegraaf",
-      "published": "2026-06-17T19:30:00+00:00",
-      "summary": "Natasja (38) openhartig over psychose: ’Ik dacht dat ik zwanger was van een tweeling die in een meloen groeide’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSlNKQk5ackFYeHh2eUl6ejdkNWU4cGxuekhuZGtDakZZa3hBSjdlVFo1aGstWDhnVjNocUlsLXd2cnlNckFaYUQtdGF5MVBFQXFQQkdmeHA0U0NLdHBDMDJIZHE2cUZoTzBIM3MwaGFFM0FhYXZwODQ3SUM4UHBqNGJ5Ulh5WEVkTFRJbEZwRXZ2LTFvTDMzOFR4RUdqME92ajFNNmVsOUYzUFdnSnRudDJzeTdHVlVyRF9vbHRJa0liOVFLSGpoOTExUDNCQXVxTHlhOGp3Y01jNzQyaWUxWUd3elZjZ1JJVXZnWE9ZcHZIWFNiR2dDeDVtN0F2a0k?oc=5"
         }
       ]
     },
@@ -120,18 +84,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGpjekt2aUVCNldNV29wdldrODgxSTBiYVVVRGExeVlkczVJZzJleUtzWTBhLXk0UHhMU1gzc0EteGpmR0JNM0w5LUMxWTFOT0c3X0h1SEJNQmRzUGdYVHVGZ2tWa3VDM1VhOWhsSlRGVldTaG95NHRLNVZvTkpkemJFeEJiQndramxJdmJqNUhfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "093605f43df5",
-      "title": "Bijna alle hartaanvallen worden veroorzaakt door deze vier risicofactoren - Welingelichte Kringen",
-      "published": "2026-06-17T15:04:49+00:00",
-      "summary": "Bijna alle hartaanvallen worden veroorzaakt door deze vier risicofactoren&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV0lSX0NDRkNrbFZpaDJ4R3l6d0ZSY3ozRGo2cVVKeXo2UmRNMDEyaDFiMmIzS3Q3aUp3VnlTQzJRU1pjT3V6RVZvWTNEbXhNZU95eEJYdlE4ZGprR2lMeUxEYXNBQ3ozdlpOSkFnTTV1N2ItYzMzUWV2cTk3WF9jX01VNURMX0RxM1ZLTWZyVmZwM3k4UkpsNE9YeEZueXR1UFpKajlpRUN6ZmEtY3RiR1V6VGxOekJ3Tw?oc=5"
         }
       ]
     }

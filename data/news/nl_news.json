@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-20T08:50:16.784956+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-20T13:55:01.124124+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "45dc3c9ff28d",
+      "title": "Duizenden baby-zeehondjes gestorven op afgelegen eiland, wetenschappers denken nu te weten hoe dat komt - De Telegraaf",
+      "published": "2026-06-20T11:14:24+00:00",
+      "summary": "Duizenden baby-zeehondjes gestorven op afgelegen eiland, wetenschappers denken nu te weten hoe dat komt&nbsp;&nbsp;De TelegraafOnderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland&nbsp;&nbsp;NOSEerste geval ooit van H5-vogelgriep vastgesteld in Australië&nbsp;&nbsp;HLNVogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nlHet H5N1-vogelgriepvirus is voor het eerst op elk continent aangetroffen.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0tuRWJGYWYzS24zSmJEVzFpZ25xUFJmRlZNVWxjQUR6NkE4RWxQM29xaFRuTVlnWER1Wi1iUmJBYzNkMkRuQzY5bXBCN1V1Vk44UlBSWFU3NEdtaWIzRUlFX0tTbC1BTjRzWWtOa1BBM3BPVlBoUTlBTFk4S2l6MGkxOFpWU3hHTDExR0VDSV9lWFhReTNkcUtJeGsycHRUcFczY2NYRDQ2YS1YUk5iRFBCWFdxcm1XQlBkY3M1MEJtNHhLZl94ZUxRZkVyWmhCZkM3cThlVXFwVTZqWEhMNGJVOWlzZlMz?oc=5"
+        }
+      ]
+    },
     {
       "id": "cdbae45700bc",
       "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
       "published": "2026-06-19T10:04:04+00:00",
-      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLNEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScr",
+      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLNEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.be\"Ze geloven dat ziekte is uitgevonden uit geldgewin\": complottheorieën verergeren ebola-uitbraak in Congo&nbsp;&nbsp;VRTMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding",
       "sources": [
         {
           "name": "NOS",
@@ -18,8 +30,8 @@
     {
       "id": "167477119f96",
       "title": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen' - RTV Noord",
-      "published": "2026-06-19T14:14:00+00:00",
-      "summary": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenMet mijn knieën ga je de oorlog niet winnen!&nbsp;&nbsp;Noordhollands DagbladUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale ZorggidsMedicijnen niet altijd optimaal afgestemd op vrouwen&nbsp;&nbsp;Nieuwslens",
+      "published": "2026-06-19T14:03:58+00:00",
+      "summary": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenMet mijn knieën ga je de oorlog niet winnen!&nbsp;&nbsp;Noordhollands DagbladMedicijnen niet altijd optimaal afgestemd op vrouwen&nbsp;&nbsp;NieuwslensUMCG start medische revolutie: 'Dat zorg niet is afgestemd op de vrouw, is niet meer uit te leggen'&nbsp;&nbsp;Gezondnu",
       "sources": [
         {
           "name": "RTV Noord",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "3909f91d0ddd",
-      "title": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’ - Mediacourant.nl",
-      "published": "2026-06-18T11:30:00+00:00",
-      "summary": "Hongert Freek Rikkerink zijn kanker uit? ‘Hij mist nu wel vitamine B’&nbsp;&nbsp;Mediacourant.nlZieke Freek volgt het paleodieet: wat is het en hoe (on)gezond is het écht?&nbsp;&nbsp;LibelleOngeneeslijk zieke Freek (33) volgt het paleodieet. Helpt dat echt bij kanker? Expert: “Op gewicht blijven is de prioriteit”&nbsp;&nbsp;HLN",
+      "id": "ec5c13adeaeb",
+      "title": "Dit gebeurt er als je alcohol drinkt: een reis langs de belangrijkste organen - de Volkskrant",
+      "published": "2026-06-18T18:32:48+00:00",
+      "summary": "Dit gebeurt er als je alcohol drinkt: een reis langs de belangrijkste organen&nbsp;&nbsp;de VolkskrantDrank laat geen orgaan ongemoeid: wat alcohol in je lichaam aanricht&nbsp;&nbsp;De MorgenAlcohol schaadt de gezondheid&nbsp;&nbsp;Doorbraak.beDit populaire drankje kan zelfs in kleine hoeveelheden je immuunsysteem ondermijnen&nbsp;&nbsp;Futura, le média qui explore le monde",
       "sources": [
         {
-          "name": "Mediacourant.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlJOV0gwVjNtVzdqMjl6eUxyanRPN1B3RG9QM2h1U29tWVk1M2UyRXdFRXRIRl90cVcxWTYyZVJmMTFNeWN1dEVHWmZTbnBfRlZpUkpYdjI4QzU1TXU4OHNxa0JodklOZ0NESEFjWHRwa05tQy1xZU4zTk1xRkZDZkUyYmlTZWxMT2FXaHZ3UXRtTTFjWjJhenpMbVRCUUUteVZvM1JB?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUTZMZm53RnJBeHd6VVdrX28zbkU2ME1MU2l2T2VxT0ZDRi01T2RLaHZSakd1YWlwQVFqc3FmTUZSSUxDYmRjLW9FbWxPaENBbWJ0ZWZkLUhZVXBJQ3hRZnhPV2FSTEhmSTh2Rm52RF81ck9XWWxyZXppb0NSMVBOYTl5WTYwd29GckFBYWhmSFlUUkFESGl0ZEU1cjczOUExcUh1UGhWTll4ZXhOWWxZejN0RGJjeW5HeVUtS0tyb0c?oc=5"
         }
       ]
     },
@@ -54,7 +66,7 @@
     {
       "id": "72df1f3d7429",
       "title": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel - Metronieuws.nl",
-      "published": "2026-06-19T07:53:18+00:00",
+      "published": "2026-06-19T07:04:16+00:00",
       "summary": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {

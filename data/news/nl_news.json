@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-19T19:45:10.894583+00:00",
-  "count": 7,
+  "fetched_at": "2026-06-20T03:23:00.711856+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "ac73299fd6a0",
+      "title": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland - NOS",
+      "published": "2026-06-19T13:11:37+00:00",
+      "summary": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland&nbsp;&nbsp;NOSAustralië bevestigt eerste geval van H5N1-vogelgriep&nbsp;&nbsp;Haarlems DagbladVogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nl13.000 jonge zeeolifanten sterven aan vogelgriep op Heard en McDonaldeilanden&nbsp;&nbsp;De MorgenAlarmerend onderzoek: duizenden babyzeeolifanten sterven door vogelgriep op eilanden bij Australië&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVQ2eEVwM2lTUktZbW85bGhfNVVmdnpPemxTMGhGZ3JkSnp5cjhBLTVTdFU5ak9kVTBYZ2NGVm5tMEZkRTJOLTZ3elZ2MlNVd3diM2cwb1JhbklpY3RJNzNENnRzd0pfMF92MGVSZ2IzZjBPZkRYdlRhZlRVN1FfMGxaMG5ZbGszdENpdzlyQnRHeHVKMnVYaWJGOUV1MElqSDZGSEpIbWZEdGhNcHh0ZXU5bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdbae45700bc",
+      "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
+      "published": "2026-06-19T10:04:04+00:00",
+      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLNEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScr",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJKUHhxc1JpUW85amlab1IxR2ZUY2djYnlrWFJVcGR4ZzlqOWFBRUxrMzBZbjN6ZTJZQnU3V1lHQ01FMjlaRkI5REljeXQwUUE0THZYTG00RWFsV3VWMUl3UjQ5UXpSUklTWEVKdUxRNERTejJrMmVEVFVkaXNqRzYtQmZwNWVWRkJOTlhqMllOaF9lM0I4X0N1azI2d0xMTU81Q0pXaFAwQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "167477119f96",
       "title": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen' - RTV Noord",
@@ -12,30 +36,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHhTc1dKYmhySS1WcldfY0w4b1Z4c2xQV1lzN1hCSnBXOVl3RkpwZGlxS19LcWc3UHpQbHNDS3BWSE9CYzhJVzUwUnk2WFJMZjRTclJLVUlpTkx6Z0pTT3phR1RrUW0yMkNYNFdnVVZpYXAzRWYyQ3dEN1p6VGhTMFhNcFFfSURCUWgwQjl2ZTJhUnVFMjRIaUdzelZndUYxZjJoZnJpMEtnTUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdbae45700bc",
-      "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
-      "published": "2026-06-19T10:04:04+00:00",
-      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak ernstiger dan gedacht door gebrek aan schoon wa",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJKUHhxc1JpUW85amlab1IxR2ZUY2djYnlrWFJVcGR4ZzlqOWFBRUxrMzBZbjN6ZTJZQnU3V1lHQ01FMjlaRkI5REljeXQwUUE0THZYTG00RWFsV3VWMUl3UjQ5UXpSUklTWEVKdUxRNERTejJrMmVEVFVkaXNqRzYtQmZwNWVWRkJOTlhqMllOaF9lM0I4X0N1azI2d0xMTU81Q0pXaFAwQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88a0a117c557",
-      "title": "Niet langer ongestraft onzin over seksuele gezondheid verkopen: ‘Stel je bent meisje van 17’ - De Gelderlander",
-      "published": "2026-06-18T09:15:00+00:00",
-      "summary": "Niet langer ongestraft onzin over seksuele gezondheid verkopen: ‘Stel je bent meisje van 17’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnQycHh1cWxKeEpHQklNX0t2UnZWaHVYMzZ1dFBiRjNXYVNKT0Z3b2JkcDVHZmplWnVlMWhlbjEtZmJQeVBraXRlVXUyaUlyRU9KWkZBOFJ1dWZ1WXJvcmZGclFPUk5TZEFiMDgya3FQdFZkZ1QxT2lrTjZhYTRmWWFHMFNfTllJck5ycTNyME5ZVlp3SGU1dC12bk1qc0hCdUZObVBXdHB1eVYwdUptQkNoeFRtNHViMDN4Q3VPc1RhaExTQVZ2WUlwaGFwZlpUN3J6MQ?oc=5"
         }
       ]
     },
@@ -64,21 +64,9 @@
       ]
     },
     {
-      "id": "0c82c58a8bb6",
-      "title": "VES: Medicatievoorziening één van de drie grootste kostenposten in de gezondheidszorg - Starnieuws",
-      "published": "2026-06-18T16:13:00+00:00",
-      "summary": "VES: Medicatievoorziening één van de drie grootste kostenposten in de gezondheidszorg&nbsp;&nbsp;Starnieuws",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JdjlvTTFGdS1yYUJGbDJ3Uk1qOGExRFhmRHZMYmJxOVc5ZGxlVnZfbW5sd3NtWHlKOG0zTDNMSXoxZFZSdDFFV2hZbTYySkFLbXNnUE5PYktGaVlKc3pkcWpJbGNjb19CZTROWVJXLW5oeGRrQWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72df1f3d7429",
       "title": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel - Metronieuws.nl",
-      "published": "2026-06-18T13:48:00+00:00",
+      "published": "2026-06-19T07:53:18+00:00",
       "summary": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {

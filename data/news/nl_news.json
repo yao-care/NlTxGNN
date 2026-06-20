@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-20T03:23:00.711856+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-20T08:50:16.784956+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "ac73299fd6a0",
-      "title": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland - NOS",
-      "published": "2026-06-19T13:11:37+00:00",
-      "summary": "Onderzoekers: vogelgriep doodt driekwart van zeeolifantenpups op Australisch eiland&nbsp;&nbsp;NOSAustralië bevestigt eerste geval van H5N1-vogelgriep&nbsp;&nbsp;Haarlems DagbladVogelgriep bereikt afgelegen Australisch eiland: 75 procent van de zeehondenpups dood&nbsp;&nbsp;RTL.nl13.000 jonge zeeolifanten sterven aan vogelgriep op Heard en McDonaldeilanden&nbsp;&nbsp;De MorgenAlarmerend onderzoek: duizenden babyzeeolifanten sterven door vogelgriep op eilanden bij Australië&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVQ2eEVwM2lTUktZbW85bGhfNVVmdnpPemxTMGhGZ3JkSnp5cjhBLTVTdFU5ak9kVTBYZ2NGVm5tMEZkRTJOLTZ3elZ2MlNVd3diM2cwb1JhbklpY3RJNzNENnRzd0pfMF92MGVSZ2IzZjBPZkRYdlRhZlRVN1FfMGxaMG5ZbGszdENpdzlyQnRHeHVKMnVYaWJGOUV1MElqSDZGSEpIbWZEdGhNcHh0ZXU5bw?oc=5"
-        }
-      ]
-    },
     {
       "id": "cdbae45700bc",
       "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
       "published": "2026-06-19T10:04:04+00:00",
-      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLNEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScr",
+      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLNEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEuropese Unie draagt bijna half miljard bij aan bestrijding ebola&nbsp;&nbsp;Haarlems DagbladMinstens 30 doden in Congolees kamp wijzen op mogelijk snelle verspreiding ebola&nbsp;&nbsp;MarketScr",
       "sources": [
         {
           "name": "NOS",
@@ -30,7 +18,7 @@
     {
       "id": "167477119f96",
       "title": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen' - RTV Noord",
-      "published": "2026-06-19T14:03:58+00:00",
+      "published": "2026-06-19T14:14:00+00:00",
       "summary": "Medicijnen zijn geen 'one size fits all': 'Vrouwen zijn geen kleine mannen'&nbsp;&nbsp;RTV NoordWeek van de vrouwengezondheid in UMCG&nbsp;&nbsp;OOG GroningenMet mijn knieën ga je de oorlog niet winnen!&nbsp;&nbsp;Noordhollands DagbladUMCG pakt blind vlek in de zorg aan met Week van de Vrouwengezondheid&nbsp;&nbsp;Nationale ZorggidsMedicijnen niet altijd optimaal afgestemd op vrouwen&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {

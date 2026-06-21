@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-21T09:44:34.684940+00:00",
+  "fetched_at": "2026-06-21T14:03:00.779091+00:00",
   "count": 2,
   "news": [
+    {
+      "id": "4540676b7a2b",
+      "title": "Hij is expert in het belang van bacteriën voor de gezondheid van kinderen: Zo creëer je een huis waar je gezin gezonder van wordt - wibnet.nl",
+      "published": "2026-06-20T20:00:09+00:00",
+      "summary": "Hij is expert in het belang van bacteriën voor de gezondheid van kinderen: Zo creëer je een huis waar je gezin gezonder van wordt&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGpWT3VkdTFCMzk2RU1DSndBcTQwT25xZjVBS0UwYlJFaks5RlhFR012WkZoazZxMVRqOXgwSnh5T1RIVVNOamNmMnFoVU5Ebnp3T3lUQmloRE9Fb2RsUTY0Ukhrc0Q4aGZMRmoxS1ZEOVB5Uzhrb20wdGpqNTVVd2FsNTBnY0kzTF9FUDdmMVpFVUg2Q003dUhkRnNsOE5Dd0FBLU85bnQ5YTVPVlpzRm1KN3ZJUWxnUW1yVDBEWElHZWFja1lWRW5CYVRZMENwc1puMG1jUjlRNXBJRUIxZXFpcDJvcUlsZllsTWxn?oc=5"
+        }
+      ]
+    },
     {
       "id": "e394c48af706",
       "title": "‘Het duidelijkste beeld tot nu toe’: Onderzoekers hebben mogelijk ontdekt hoe kankercellen zich echt ontwikkelen - wibnet.nl",
@@ -12,18 +24,6 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2EyYWZidFNVWWc0V193MjM3Z29KMzFac1pqeFhKdnRrZHJGeUNuVkpCdWxsYkdiX2RfbVUwRkhsRXJ1d3liN2JiVlByNHB6NVNMUFVCNnpHbkhlaGltWEI0RG9JNVN3dmhXQlA1VDN0dnBFSzBKOHBHNmxoTnd6M2hPbFJ2MS16TXhRYzBOZ21SVVNIeEV6S2wyOVgzYUhrQXpuUnFsbmkxWF9rUXNWUUN3VW5BSmJjWnFkZm5wdGVGUndQYXJMUWxWQlctSzZFWTdvRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "796060539162",
-      "title": "Is helemaal suikervrij eten echt zo gezond? Nieuwe studie trekt het in twijfel - Metronieuws.nl",
-      "published": "2026-06-19T10:08:42+00:00",
-      "summary": "Is helemaal suikervrij eten echt zo gezond? Nieuwe studie trekt het in twijfel&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2Y0aGFXSlhta016c2llSXZtS2RFcXh2c0g1dlhnZDFWdWJEOUlyQ3FzVl9rSG1nTVJHOW9RWVVfb1MxM25CRlc0NVJ4ck0wOHZPNmJIUUJFaWVCN0w0TGFxZU9kLXFEUXZ4YzdRZll6MTVfVWF0cTdqVEx6TWNZYmhjQlBaVkFPTlhWanZXNmhVQ1JqU3hOU2gtaWxqcUpKVFlr?oc=5"
         }
       ]
     }

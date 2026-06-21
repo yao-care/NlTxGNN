@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-21T14:03:00.779091+00:00",
-  "count": 2,
+  "fetched_at": "2026-06-21T19:25:29.847723+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "78e1f255eabd",
+      "title": "Jagers-verzamelaars slachtoffer van pestuitbraak veroorzaakt door marmotten - bnr.nl",
+      "published": "2026-06-21T13:47:00+00:00",
+      "summary": "Jagers-verzamelaars slachtoffer van pestuitbraak veroorzaakt door marmotten&nbsp;&nbsp;bnr.nlDe pest trof Siberische jagers 5.500 jaar geleden al door eten rauwe marmotten&nbsp;&nbsp;NUVroege pestbacteriën konden al flink wat slachtoffers maken, 5.500 jaar geleden&nbsp;&nbsp;NRC5.500 jaar oude pestuitbraak laat zien: ook toen al sprongen dierlijke ziekten over op mensen&nbsp;&nbsp;de VolkskrantIn oeroud DNA deden onderzoekers een opzienbarende ontdekking over een van de grootste killers uit de g",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTR0VnpVdUdyZmpzSUpWMFIza25NT29GV0E2ejhZMi1zdlhrVjU0TFo4S2F3cWg5aUxnWW5fUFFRQVJSVzlUNi1NaS1KekYwaExneFRtVXJTRkdqMjJxRlFGbm1jbHYtMlpqd2dERDdGYjRIc1UyakpfY0JHM0RDQXBQaVkwdVdVZEx1LXhsU3gweHFndS0zMWwyaGczVVhzdUlNLWZmWl9aUFB0YTM0SGpoVU1RUFNPTHBNYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "4540676b7a2b",
       "title": "Hij is expert in het belang van bacteriën voor de gezondheid van kinderen: Zo creëer je een huis waar je gezin gezonder van wordt - wibnet.nl",

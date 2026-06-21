@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-20T19:20:41.261873+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-21T03:52:10.523764+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "cdbae45700bc",
-      "title": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle' - NOS",
-      "published": "2026-06-19T10:04:04+00:00",
-      "summary": "Aantal ebola-gevallen blijft toenemen: 'Uitbraak nog verre van onder controle'&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo tot 933 opgelopen, 245 doden&nbsp;&nbsp;HLN\"Ze geloven dat ziekte is uitgevonden uit geldgewin\": complottheorieën verergeren ebola-uitbraak in Congo&nbsp;&nbsp;VRTEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beIn de Democratische Republiek Congo zijn meer dan 70 zorgmedewerkers besme",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJKUHhxc1JpUW85amlab1IxR2ZUY2djYnlrWFJVcGR4ZzlqOWFBRUxrMzBZbjN6ZTJZQnU3V1lHQ01FMjlaRkI5REljeXQwUUE0THZYTG00RWFsV3VWMUl3UjQ5UXpSUklTWEVKdUxRNERTejJrMmVEVFVkaXNqRzYtQmZwNWVWRkJOTlhqMllOaF9lM0I4X0N1azI2d0xMTU81Q0pXaFAwQQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "e394c48af706",
       "title": "‘Het duidelijkste beeld tot nu toe’: Onderzoekers hebben mogelijk ontdekt hoe kankercellen zich echt ontwikkelen - wibnet.nl",
@@ -36,18 +24,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2Y0aGFXSlhta016c2llSXZtS2RFcXh2c0g1dlhnZDFWdWJEOUlyQ3FzVl9rSG1nTVJHOW9RWVVfb1MxM25CRlc0NVJ4ck0wOHZPNmJIUUJFaWVCN0w0TGFxZU9kLXFEUXZ4YzdRZll6MTVfVWF0cTdqVEx6TWNZYmhjQlBaVkFPTlhWanZXNmhVQ1JqU3hOU2gtaWxqcUpKVFlr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72df1f3d7429",
-      "title": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel - Metronieuws.nl",
-      "published": "2026-06-19T07:04:16+00:00",
-      "summary": "Koemelk gezonder dan havermelk of amandelmelk? Nieuw onderzoek zegt van wel&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGpjekt2aUVCNldNV29wdldrODgxSTBiYVVVRGExeVlkczVJZzJleUtzWTBhLXk0UHhMU1gzc0EteGpmR0JNM0w5LUMxWTFOT0c3X0h1SEJNQmRzUGdYVHVGZ2tWa3VDM1VhOWhsSlRGVldTaG95NHRLNVZvTkpkemJFeEJiQndramxJdmJqNUhfQQ?oc=5"
         }
       ]
     }

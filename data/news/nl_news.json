@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-23T14:41:40.542733+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-23T19:58:09.927327+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "511356b3a540",
+      "title": "Aantal ebola-besmettingen Congo boven de 1000, bron nog steeds niet gevonden - NOS",
+      "published": "2026-06-22T09:41:03+00:00",
+      "summary": "Aantal ebola-besmettingen Congo boven de 1000, bron nog steeds niet gevonden&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo loopt op tot meer dan duizend&nbsp;&nbsp;NUMeer dan 1000 bevestigde ebola-besmettingen in Congo, en ‘piek van uitbraak komt er nog aan’&nbsp;&nbsp;AD.nlLIVE Meer dan 1.000 bevestigde ebolapatiënten, van wie er al 254 zijn overleden&nbsp;&nbsp;VRTUNHCR waarschuwt dat de ebola-uitbraak een bedreiging vormt voor ontheemde gemeenschappen in DRC en regio&nbsp;&nbsp;UNHCR - The ",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXBWSGpfaFBiUGVHQi1DNlhEYzNQMmE5U2xiRnV5SUc1djVtMFJiR3lMUDZXZThINV9zc3RveXFHdG80UUVCU0tPUkduWGxuVERHRFRSS3YteFFPVnRrV0FlSHQwaFd1SV9CT1hBYXM3WVdmWVI1bWMyRDcxRHZZaTBBM2p0dEJLR3VZZFB4M0NMRzczcmNCRUlxSUFNeEwycDJ3TFRINVgzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81df018171d2",
+      "title": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien - NRC",
+      "published": "2026-06-22T13:56:29+00:00",
+      "summary": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien&nbsp;&nbsp;NRCOnderzoek naar baarmoederhalskanker: van nazorg in Nederland tot betere zorg wereldwijd&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMCEindelijk écht goed nieuws: hoe een gerichte prik baarmoederhalskanker nagenoeg liet verdwijnen&nbsp;&nbsp;GezondnuVan een bejaarde vrouw van in de tachtig tot een jonge moeder uit Generatie Z: experts waarschuwen: baarmoederhalsk",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNclFSSzRSUURSaFlsLW14bGhNTGRyRUdRZTBkYTdGNWFOOG1VRmJ2eDF6MG1fQkRNaFgtajhOaWYwS3ZKOFhJOFE1YkNvTnNfNy1QZGc1TnBXNHBOTzFRVTVpQV9GVjROdHEtbEdWOVcxbTZhZE4xMzhNbkRqekhLU2RWbnZESGM0TW5tdFVNMUhNOVhha0RyTGxGdGhlSy1NOFJocmlxQkEwbEhvdGNyZURLVFFDb0Y2VV9URTlUZTNYWmZiU0pjVXo0MVI1VVBpcmF3QUdqVlJLZ05NM2dnZVkySW1JTlEzVmI3LXRxMzd2UQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "f6f055d7e9ff",
       "title": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker' - Hart van Nederland",
@@ -12,18 +36,6 @@
         {
           "name": "Hart van Nederland",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT19wVUhZbWhCT1ZWUXpDeHM4ZWxIYldWRXg3X01EX0VpamRHN2ZseHVReTdOM21NZ25kTVl6U01iYi1iMzc1eDhtZ0JGVF9LRzhyMnBydno4dWh2XzhqenpxQm1aa0dYZUpSYjNfNndzMDFINVU2V2RlRVM3eDhvSE5MSkpDdVVRalkwR0huR2dmQW0zeUE0Mk9jZ1NoQ0N5SGtVRUx2MzRWS0poaFMwSFV5WndRTUZ6bEZwTHVKVzRoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81df018171d2",
-      "title": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien - NRC",
-      "published": "2026-06-22T13:56:29+00:00",
-      "summary": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien&nbsp;&nbsp;NRCEindelijk écht goed nieuws: hoe een gerichte prik baarmoederhalskanker nagenoeg liet verdwijnen&nbsp;&nbsp;GezondnuBritse studie: HPV-vaccin elimineert sterfte aan baarmoederhalskanker bij jonge vrouwen&nbsp;&nbsp;NieuwslensHet HPV-vaccin helpt het sterftecijfer door baarmoederhalskanker bij jonge vrouwen tot nul te reduceren.&nbsp;&nbsp;Vietnam.vnVaccinatiesucces: ba",
-      "sources": [
-        {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNclFSSzRSUURSaFlsLW14bGhNTGRyRUdRZTBkYTdGNWFOOG1VRmJ2eDF6MG1fQkRNaFgtajhOaWYwS3ZKOFhJOFE1YkNvTnNfNy1QZGc1TnBXNHBOTzFRVTVpQV9GVjROdHEtbEdWOVcxbTZhZE4xMzhNbkRqekhLU2RWbnZESGM0TW5tdFVNMUhNOVhha0RyTGxGdGhlSy1NOFJocmlxQkEwbEhvdGNyZURLVFFDb0Y2VV9URTlUZTNYWmZiU0pjVXo0MVI1VVBpcmF3QUdqVlJLZ05NM2dnZVkySW1JTlEzVmI3LXRxMzd2UQ?oc=5"
         }
       ]
     },

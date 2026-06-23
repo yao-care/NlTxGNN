@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-22T20:41:53.787763+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-23T02:53:52.768542+00:00",
+  "count": 3,
   "news": [
     {
       "id": "b19b17fd45a2",
@@ -12,18 +12,6 @@
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRG9sT2hSVUt6WWF1T2xFLVdGb0lWM1VMcHR0bEI4VjE3emZJQWVxTVRmdUUtZGF5RXhWQ1lxTmJLUmFNRXkyVTlyNEFXUF9LSGpaQ1FURVlGYVVLMThmWlRzTU0tU3JrWEV2WUlFa19sRWE3dWxuZ1lFeFhGelFueW5oY3VJeUhIUnJFYkNvVTQ4dEVBenVNclhPN2hzWjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "511356b3a540",
-      "title": "Aantal ebola-besmettingen Congo boven de 1000, bron nog steeds niet gevonden - NOS",
-      "published": "2026-06-22T09:41:03+00:00",
-      "summary": "Aantal ebola-besmettingen Congo boven de 1000, bron nog steeds niet gevonden&nbsp;&nbsp;NOSAantal ebolabesmettingen in Congo loopt op tot meer dan duizend&nbsp;&nbsp;NUMeer dan 1000 bevestigde ebola-besmettingen in Congo, en ‘piek van uitbraak komt er nog aan’&nbsp;&nbsp;AD.nlEbola-uitbraak in Congo en Oeganda dreigt groter te worden, het risico voor België blijft heel laag&nbsp;&nbsp;gezondheidenwetenschap.beEbolabesmettingen in Congo opgelopen tot boven de duizend&nbsp;&nbsp;Haarlems Dagblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXBWSGpfaFBiUGVHQi1DNlhEYzNQMmE5U2xiRnV5SUc1djVtMFJiR3lMUDZXZThINV9zc3RveXFHdG80UUVCU0tPUkduWGxuVERHRFRSS3YteFFPVnRrV0FlSHQwaFd1SV9CT1hBYXM3WVdmWVI1bWMyRDcxRHZZaTBBM2p0dEJLR3VZZFB4M0NMRzczcmNCRUlxSUFNeEwycDJ3TFRINVgzQQ?oc=5"
         }
       ]
     },

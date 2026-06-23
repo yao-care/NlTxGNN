@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-23T09:32:50.054570+00:00",
+  "fetched_at": "2026-06-23T14:41:40.542733+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "f6f055d7e9ff",
+      "title": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker' - Hart van Nederland",
+      "published": "2026-06-23T07:54:28+00:00",
+      "summary": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandDermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlZonnebrand-fabeltjes: 5 mythes die je vandaag nog mag vergeten (aldus dermatologen)&nbsp;&nbsp;nouveau.nlZomers weer op komst, dermatoloog waarschuwt voor de risic",
+      "sources": [
+        {
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT19wVUhZbWhCT1ZWUXpDeHM4ZWxIYldWRXg3X01EX0VpamRHN2ZseHVReTdOM21NZ25kTVl6U01iYi1iMzc1eDhtZ0JGVF9LRzhyMnBydno4dWh2XzhqenpxQm1aa0dYZUpSYjNfNndzMDFINVU2V2RlRVM3eDhvSE5MSkpDdVVRalkwR0huR2dmQW0zeUE0Mk9jZ1NoQ0N5SGtVRUx2MzRWS0poaFMwSFV5WndRTUZ6bEZwTHVKVzRoQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "81df018171d2",
       "title": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien - NRC",
@@ -12,18 +24,6 @@
         {
           "name": "NRC",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNclFSSzRSUURSaFlsLW14bGhNTGRyRUdRZTBkYTdGNWFOOG1VRmJ2eDF6MG1fQkRNaFgtajhOaWYwS3ZKOFhJOFE1YkNvTnNfNy1QZGc1TnBXNHBOTzFRVTVpQV9GVjROdHEtbEdWOVcxbTZhZE4xMzhNbkRqekhLU2RWbnZESGM0TW5tdFVNMUhNOVhha0RyTGxGdGhlSy1NOFJocmlxQkEwbEhvdGNyZURLVFFDb0Y2VV9URTlUZTNYWmZiU0pjVXo0MVI1VVBpcmF3QUdqVlJLZ05NM2dnZVkySW1JTlEzVmI3LXRxMzd2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ecd8c28329b",
-      "title": "Dermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’ - AD.nl",
-      "published": "2026-06-22T18:00:00+00:00",
-      "summary": "Dermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlDermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlZonnebrand-fabeltjes: 5 mythes die je vandaag nog mag vergeten (aldus dermatologen)&nbsp;&nbsp;nouveau.nlZomers weer op komst, dermatoloog waarschuwt voor de risic",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDlmcWdReGoxRXVIcnJ0bXZXazVxeFFoSHlWclhnUFJqNHNjbE50dmFycXZkbmZLLTM2aXY5dndXVE5NODhGREhqSEZZajRqVmd0ZzRveVJNV2ZTYWJqMWcwWDdMZ05nbWxjSDV4Njh4LUJTdTRNUkUtRUlZbzF5cUVOSXkzc2RrbFRQaWdVVGhNMWZVS2lYYXk4T3VqYklHNXVGN00yakxCOFpLRjRZeDRCQXdaTjI1eWk1X1VwRnEtMERCcnFHblYxY3BMRXJscTRuZ3VqSnVubUoyakduUg?oc=5"
         }
       ]
     },

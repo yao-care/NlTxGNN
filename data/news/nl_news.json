@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-23T02:53:52.768542+00:00",
+  "fetched_at": "2026-06-23T09:32:50.054570+00:00",
   "count": 3,
   "news": [
-    {
-      "id": "b19b17fd45a2",
-      "title": "Wie aan alcohol komt, komt in Nederland aan iets heiligs - Trouw",
-      "published": "2026-06-22T04:00:00+00:00",
-      "summary": "Wie aan alcohol komt, komt in Nederland aan iets heiligs&nbsp;&nbsp;TrouwHoe de dranklobby opereert: ‘Ik sta nog liever in mijn onderbroek dan dat ik zoiets doe’&nbsp;&nbsp;de VolkskrantHoe schadelijk zijn bier, wijn en sterke drank? Alcohol laat geen orgaan ongemoeid: dit gebeurt er in het lichaam als je alcohol drinkt&nbsp;&nbsp;De MorgenBewustzijn verdubbeld over risico op kanker door alcohol&nbsp;&nbsp;KWF KankerbestrijdingWaarom Nederlandse alcoholonderzoekers vaak de gunstige effecten van ",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRG9sT2hSVUt6WWF1T2xFLVdGb0lWM1VMcHR0bEI4VjE3emZJQWVxTVRmdUUtZGF5RXhWQ1lxTmJLUmFNRXkyVTlyNEFXUF9LSGpaQ1FURVlGYVVLMThmWlRzTU0tU3JrWEV2WUlFa19sRWE3dWxuZ1lFeFhGelFueW5oY3VJeUhIUnJFYkNvVTQ4dEVBenVNclhPN2hzWjg?oc=5"
-        }
-      ]
-    },
     {
       "id": "81df018171d2",
       "title": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien - NRC",
       "published": "2026-06-22T13:56:29+00:00",
-      "summary": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien&nbsp;&nbsp;NRCBritse studie: HPV-vaccin elimineert sterfte aan baarmoederhalskanker bij jonge vrouwen&nbsp;&nbsp;NieuwslensHet HPV-vaccin helpt het sterftecijfer door baarmoederhalskanker bij jonge vrouwen tot nul te reduceren.&nbsp;&nbsp;Vietnam.vnVaccinatiesucces: baarmoederhalskanker bij jonge vrouwen nagenoeg verdwenen&nbsp;&nbsp;bnnvaraHPV-vaccin succesvol: baarmoederhalskanke",
+      "summary": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien&nbsp;&nbsp;NRCEindelijk écht goed nieuws: hoe een gerichte prik baarmoederhalskanker nagenoeg liet verdwijnen&nbsp;&nbsp;GezondnuBritse studie: HPV-vaccin elimineert sterfte aan baarmoederhalskanker bij jonge vrouwen&nbsp;&nbsp;NieuwslensHet HPV-vaccin helpt het sterftecijfer door baarmoederhalskanker bij jonge vrouwen tot nul te reduceren.&nbsp;&nbsp;Vietnam.vnVaccinatiesucces: ba",
       "sources": [
         {
           "name": "NRC",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "c570781057be",
-      "title": "Hartstoornis checken via vinger op telefooncamera: patiënten en behandelaars ontlast door digitale innovaties - De Telegraaf",
-      "published": "2026-06-22T15:48:00+00:00",
-      "summary": "Hartstoornis checken via vinger op telefooncamera: patiënten en behandelaars ontlast door digitale innovaties&nbsp;&nbsp;De Telegraaf",
+      "id": "2ecd8c28329b",
+      "title": "Dermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’ - AD.nl",
+      "published": "2026-06-22T18:00:00+00:00",
+      "summary": "Dermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlDermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlZonnebrand-fabeltjes: 5 mythes die je vandaag nog mag vergeten (aldus dermatologen)&nbsp;&nbsp;nouveau.nlZomers weer op komst, dermatoloog waarschuwt voor de risic",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY1dwWGw2dGdaMDg2cWVENlRnSGZPUWItdG9sUFVmYmFpT2Z3bjFiallQT2lIZkZ3NnMxT2huenZFdEpFOUd5RmVqcEdvYW5uQXFVVExmX2FyWERBU1NJdE5vcTU0c2lFbWZrdkNFM25VZldoSkxzem5Gd1RMbHpIT21uX0xtVll6TUxDZWczOUhwckpxcm9ZZjM1Qmg4V1VYUzg0ZDlmaW9HWUVjUEJNQms2eUM0YmlqRnlPZHYyRzRma29kSXQ2NUJteFc3bFlUa3hfVzVDTFBITW1GNmZ3S250bmtqWWNaMnJvVU43eTM3YXJyd25qRVpMRGRFUQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDlmcWdReGoxRXVIcnJ0bXZXazVxeFFoSHlWclhnUFJqNHNjbE50dmFycXZkbmZLLTM2aXY5dndXVE5NODhGREhqSEZZajRqVmd0ZzRveVJNV2ZTYWJqMWcwWDdMZ05nbWxjSDV4Njh4LUJTdTRNUkUtRUlZbzF5cUVOSXkzc2RrbFRQaWdVVGhNMWZVS2lYYXk4T3VqYklHNXVGN00yakxCOFpLRjRZeDRCQXdaTjI1eWk1X1VwRnEtMERCcnFHblYxY3BMRXJscTRuZ3VqSnVubUoyakduUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee1e28919788",
+      "title": "Longarts en somnoloog waarschuwt: ‘Veel mensen gebruiken paracetamol als slaapmiddel’ - Libelle",
+      "published": "2026-06-21T20:20:19+00:00",
+      "summary": "Longarts en somnoloog waarschuwt: ‘Veel mensen gebruiken paracetamol als slaapmiddel’&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcE0xXzUxdGRqQ1drZXRtNnIxVUpGdUdxZGtDLUJNRnQ2THhJSHAxN0RmQ0NBRjRvQmVFT01ZTWs0U3R4YUF6UFhsVDl3ZVFWV0l4aEd5amtzU3gwT3p5bktSaEdKS0djTHdCeEJQNzRBVHJybFZBS1FkejR4QnA0Yw?oc=5"
         }
       ]
     }

@@ -1,13 +1,37 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-24T09:22:39.906989+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-24T14:23:32.856816+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "509f3ff6e8ce",
+      "title": "Ebolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak - NU",
+      "published": "2026-06-24T10:20:49+00:00",
+      "summary": "Ebolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlLIVE Eerste geval van ebola vastgesteld in Frankrijk, arts die terugkeerde uit Congo",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjE5aU5TWWRXblZUb1czaXNzaW9QRXNVMGdIc0ZRekxqRk1Fbk9wYnpjb25KUVU5bG1PVlgxWnZaaHhhclNpRHFDSF81YUVaSWt1TmMtcFdlazlweEZ3ZG5LdnVoLUctSEJtSHN1Yjc4NjRBbUs3VkxXSkxfUXpzOTJKeXg4cE1LMmlvdHBybjE4Y0NPNV9WZVNONzU3MjlwTlE4QUJlUnRDcDJfX0h6YVlqb1A?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5e89365dac3",
+      "title": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief - NOS",
+      "published": "2026-06-24T09:34:18+00:00",
+      "summary": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmhNR0dxMGJSc2J5bUNNSDdOdkdWZ0RwamlRX0x2OVJaeWJOdzE1ZFNCZEpuWll6NDJtc1BWNmZTNFZzaFRCUzZReHBjaWVqWW5OMzR6a0dBMlFMa2JuUVZxQWl1a25MT2FXR2pYZS1fc1REZFlmZ0phOUhEOGpRd0ZLQ3hId05lQTRfTHRPWTl1bDYtWk9NUFVSUktsa3g5bmJqNEc0d1JkeFNfYTQ5bFl4SVpadw?oc=5"
+        }
+      ]
+    },
     {
       "id": "f6f055d7e9ff",
       "title": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker' - Hart van Nederland",
       "published": "2026-06-23T07:54:28+00:00",
-      "summary": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandDermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlZonnebrandcrème is niet kankerverwekkend en zonnebrillen doen je niet sneller verbranden: foute beweringen die steeds weer opduiken&nbsp;&nbsp;VRTWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlZonnebrand-fabelt",
+      "summary": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandDermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlNee, je zonnebril zorgt er niet voor dat je sneller verbrandt: dit zijn de grootste misverstanden over zonbescherming&nbsp;&nbsp;VRTWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlDermatoloog over desinformatie ",
       "sources": [
         {
           "name": "Hart van Nederland",
@@ -16,22 +40,10 @@
       ]
     },
     {
-      "id": "81df018171d2",
-      "title": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien - NRC",
-      "published": "2026-06-22T13:56:29+00:00",
-      "summary": "Nagenoeg geen vrouwen onder de dertig jaar overlijden aan baarmoederhalskanker na HPV-prik, laat Britse studie zien&nbsp;&nbsp;NRCEindelijk écht goed nieuws: hoe een gerichte prik baarmoederhalskanker nagenoeg liet verdwijnen&nbsp;&nbsp;GezondnuBritse studie: HPV-vaccin elimineert sterfte aan baarmoederhalskanker bij jonge vrouwen&nbsp;&nbsp;NieuwslensVaccinatiesucces: baarmoederhalskanker bij jonge vrouwen nagenoeg verdwenen&nbsp;&nbsp;bnnvaraHet HPV-vaccin helpt het sterftecijfer door baarmoed",
-      "sources": [
-        {
-          "name": "NRC",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNclFSSzRSUURSaFlsLW14bGhNTGRyRUdRZTBkYTdGNWFOOG1VRmJ2eDF6MG1fQkRNaFgtajhOaWYwS3ZKOFhJOFE1YkNvTnNfNy1QZGc1TnBXNHBOTzFRVTVpQV9GVjROdHEtbEdWOVcxbTZhZE4xMzhNbkRqekhLU2RWbnZESGM0TW5tdFVNMUhNOVhha0RyTGxGdGhlSy1NOFJocmlxQkEwbEhvdGNyZURLVFFDb0Y2VV9URTlUZTNYWmZiU0pjVXo0MVI1VVBpcmF3QUdqVlJLZ05NM2dnZVkySW1JTlEzVmI3LXRxMzd2UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb0e436b46ef",
       "title": "Waarom je echt nu met krachttraining moet beginnen: zo gezond is het - Welingelichte Kringen",
       "published": "2026-06-23T11:30:40+00:00",
-      "summary": "Waarom je echt nu met krachttraining moet beginnen: zo gezond is het&nbsp;&nbsp;Welingelichte KringenLanger leven? Zoveel minuten krachttraining per week is al genoeg (volgens nieuwe studie)&nbsp;&nbsp;GezondnuHet officiële beweegadvies is mogelijk te laag, blijkt uit nieuw onderzoek&nbsp;&nbsp;Runner's World NederlandZoveel minuten fitness blijkt de heilige graal voor je gezondheid&nbsp;&nbsp;Manners",
+      "summary": "Waarom je echt nu met krachttraining moet beginnen: zo gezond is het&nbsp;&nbsp;Welingelichte KringenLanger leven? Zoveel minuten krachttraining per week is al genoeg (volgens nieuwe studie)&nbsp;&nbsp;GezondnuHet officiële beweegadvies is mogelijk te laag, blijkt uit nieuw onderzoek&nbsp;&nbsp;Runner's World Nederland",
       "sources": [
         {
           "name": "Welingelichte Kringen",

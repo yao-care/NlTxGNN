@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-24T14:23:32.856816+00:00",
+  "fetched_at": "2026-06-24T19:41:39.943850+00:00",
   "count": 4,
   "news": [
     {
-      "id": "509f3ff6e8ce",
-      "title": "Ebolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak - NU",
-      "published": "2026-06-24T10:20:49+00:00",
-      "summary": "Ebolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlLIVE Eerste geval van ebola vastgesteld in Frankrijk, arts die terugkeerde uit Congo",
+      "id": "5839ce2d860b",
+      "title": "Eerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo - De Telegraaf",
+      "published": "2026-06-24T19:09:25+00:00",
+      "summary": "Eerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafEbolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjE5aU5TWWRXblZUb1czaXNzaW9QRXNVMGdIc0ZRekxqRk1Fbk9wYnpjb25KUVU5bG1PVlgxWnZaaHhhclNpRHFDSF81YUVaSWt1TmMtcFdlazlweEZ3ZG5LdnVoLUctSEJtSHN1Yjc4NjRBbUs3VkxXSkxfUXpzOTJKeXg4cE1LMmlvdHBybjE4Y0NPNV9WZVNONzU3MjlwTlE4QUJlUnRDcDJfX0h6YVlqb1A?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZDRDNWtnZGRVN0NtZnp6X2Zaa1hqMmpzdzFlWFpJSjRUbDBGVkJjVDF0Mi1oQ3ZaeWdNRkQyYTZxaDR4UlU2cnRGc0piQm5VbGVWNDk3MjRlejJrSVZtd3Y2Tkp0eTM3WC0wclJ1MklhdnpjQVozN2dPSFRkdjk2dHkwek1BTzRZeTN5WndoaHlwX3BYUTZVSVR3UUN2blBBNUNSbEpyVjVQSGpmemZPcGU4Y1RvZVVVU3o1bzdJVWJIVHdkSE5NZ0hZR2Voa0NTUDBLOTVRM1c0eHBEU3FqRllDNEZ3QQ?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "f5e89365dac3",
       "title": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief - NOS",
       "published": "2026-06-24T09:34:18+00:00",
-      "summary": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOS",
+      "summary": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSAfvallen met medicatie en injecties in de praktijk&nbsp;&nbsp;Nationale ZorggidsVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief 2026 | GERECHTIGHEID - IUSTITIA.BG 2025&nbsp;&nbsp;iustitia.bg",
       "sources": [
         {
           "name": "NOS",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "f6f055d7e9ff",
-      "title": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker' - Hart van Nederland",
-      "published": "2026-06-23T07:54:28+00:00",
-      "summary": "Dermatoloog rekent af met hardnekkige mythe: 'Zonnebrandcrème veroorzaakt geen kanker'&nbsp;&nbsp;Hart van NederlandDermatoloog Luc ziet hardnekkige beweringen over zonnebrandcrèmes met lede ogen aan: ‘Smeren levert geen likes op’&nbsp;&nbsp;AD.nlNee, je zonnebril zorgt er niet voor dat je sneller verbrandt: dit zijn de grootste misverstanden over zonbescherming&nbsp;&nbsp;VRTWaarom misinformatie over zonnebrandcrème zo goed scoort op TikTok&nbsp;&nbsp;Scientias.nlDermatoloog over desinformatie ",
+      "id": "add3a531943f",
+      "title": "Jongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker - Welingelichte Kringen",
+      "published": "2026-06-24T09:16:58+00:00",
+      "summary": "Jongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
-          "name": "Hart van Nederland",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT19wVUhZbWhCT1ZWUXpDeHM4ZWxIYldWRXg3X01EX0VpamRHN2ZseHVReTdOM21NZ25kTVl6U01iYi1iMzc1eDhtZ0JGVF9LRzhyMnBydno4dWh2XzhqenpxQm1aa0dYZUpSYjNfNndzMDFINVU2V2RlRVM3eDhvSE5MSkpDdVVRalkwR0huR2dmQW0zeUE0Mk9jZ1NoQ0N5SGtVRUx2MzRWS0poaFMwSFV5WndRTUZ6bEZwTHVKVzRoQQ?oc=5"
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXF5SlJhVkhNaFBRTDhqcWdrVGtObXMtRzdJaWVCWlJqTFZVM2hnYU5CekxPTnBLNmtJNkhWZUxzMkxsaHdDYUNqX0ZobzVySmdZMC0wYklEcEU4UWd0WE1pTEE4RWpKbjBPQm8yZWo5aXZXR0hEZ2t2WkNJeHJmWnU0bFFybmV5RzdvY1VRajdXR2FLZmF1UlEwRFlZX1dWZlg4dG91NFE4NTBNSGxsZEtXQXJrWXplTXpKdjFqaU05bmdxZDVVVXZPOWw?oc=5"
         }
       ]
     },

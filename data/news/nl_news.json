@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-25T08:56:11.438068+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-25T14:25:08.631494+00:00",
+  "count": 5,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSEbolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "NOS",
@@ -16,9 +16,21 @@
       ]
     },
     {
+      "id": "c29eeef85106",
+      "title": "Gezondheidsraad: Elk glas alcohol is riskant, geen bewijs voor gunstig effect - NU",
+      "published": "2026-06-25T11:33:56+00:00",
+      "summary": "Gezondheidsraad: Elk glas alcohol is riskant, geen bewijs voor gunstig effect&nbsp;&nbsp;NUGezondheidsraad: Élk glas alcohol heeft risico's voor je gezondheid&nbsp;&nbsp;NUGaat alcohol het roken achterna? Gezondheidsraad wil dat overheid ingrijpt&nbsp;&nbsp;NOSOok één biertje is al te veel. Het alcoholbeleid moet strenger, vindt de Gezondheidsraad: drinken zou niet normaal moeten zijn&nbsp;&nbsp;NRCAlcoholgebruik moet minder normaal worden, er is geen veilige ondergrens&nbsp;&nbsp;Gezondheidsraa",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjYzX3htSDl0RWNTOGRjY3FIeXRBby1mRGN5OFJ2NVRVTy15VVlrRXFJdWN2TjZLSE1sX080TEVLSTFtbURqY3RDQXpJNnFUM3F1TmlQYjdtRlFTNXhIU1RuUnphZDB6NGhGYjFvVEZPMHZIZHcyc1RWT3Q4ZWtPZWNPMk5QMGl2VGtIS01PdUlCR0hrOEgzWU1Qeng3T0NFUEFNLTA2Q1dEWUYtY29jTEo2dXdDQ25U?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0cb599f07ba6",
       "title": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is - RTV Noord",
-      "published": "2026-06-24T18:17:00+00:00",
+      "published": "2026-06-24T17:00:00+00:00",
       "summary": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is&nbsp;&nbsp;RTV NoordMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -48,30 +60,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXF5SlJhVkhNaFBRTDhqcWdrVGtObXMtRzdJaWVCWlJqTFZVM2hnYU5CekxPTnBLNmtJNkhWZUxzMkxsaHdDYUNqX0ZobzVySmdZMC0wYklEcEU4UWd0WE1pTEE4RWpKbjBPQm8yZWo5aXZXR0hEZ2t2WkNJeHJmWnU0bFFybmV5RzdvY1VRajdXR2FLZmF1UlEwRFlZX1dWZlg4dG91NFE4NTBNSGxsZEtXQXJrWXplTXpKdjFqaU05bmdxZDVVVXZPOWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb0e436b46ef",
-      "title": "Waarom je echt nu met krachttraining moet beginnen: zo gezond is het - Welingelichte Kringen",
-      "published": "2026-06-23T11:30:40+00:00",
-      "summary": "Waarom je echt nu met krachttraining moet beginnen: zo gezond is het&nbsp;&nbsp;Welingelichte KringenLanger leven? Zoveel minuten krachttraining per week is al genoeg (volgens nieuwe studie)&nbsp;&nbsp;GezondnuHet officiële beweegadvies is mogelijk te laag, blijkt uit nieuw onderzoek&nbsp;&nbsp;Runner's World Nederland",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcF9LWS12UlBTSlBSRFhiNnRvYVJWeVJOQjB0ZXFxeDhyNU1hZUhxdFltYUZxMVlfT3FoT09YMklxT0lEV3RMMW9IbkdGQ0tHVTVfdmV4bERZWF9kYmZvN1VqWG54SE83eVBpeGRhUmxaLUNZVDZMTkpTUGdTUkFYSlUybTJHa1NPVTZ1SnduM01YMjY5eG5oSC1WREE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd1ad0ba6ee4",
-      "title": "Ellen (44) zit in de perimenopauze, wat kan ze doen tegen de ongemakken? HLN-huisarts: “Deze fase geeft vaak meer klachten dan de menopauze zelf” - HLN",
-      "published": "2026-06-23T14:01:35+00:00",
-      "summary": "Ellen (44) zit in de perimenopauze, wat kan ze doen tegen de ongemakken? HLN-huisarts: “Deze fase geeft vaak meer klachten dan de menopauze zelf”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWllMdmFQaHRadGw2LWZ0RHZ3blZkelFNUE9NUHZaWWxsT0Jrcy05anFjcnR3VkpwVV9KeURLNVQ4T1E0ZE1rcFhORk1ISklDSWNwdFEzWFFEYl9QZGk4UDFjc0R2UVR6ZVlqNHRkZ0pacWFscWF4cUFZZ0JQRFhsa0l2SHQ4ZnFnTjFTMG1QR3pmY3RWdU1PN1pHcXRQX2lkTTh5ell0UUNqb3pwNDRQWER6eDhRbzR1ekFHbTlPUG5NenlZWnJwZUQxdHhaSXo5dzJEc29LemZ3Vlc4eEFjd1Y0eFRPbUNJWktzaFdSTUpHQUFkVjgzVFhyakxuRnRjaXdRMXk0ZVhRQQ?oc=5"
         }
       ]
     }

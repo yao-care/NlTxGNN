@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-25T14:25:08.631494+00:00",
+  "fetched_at": "2026-06-25T19:55:20.518588+00:00",
   "count": 5,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De Telegraaf",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -16,26 +16,14 @@
       ]
     },
     {
-      "id": "c29eeef85106",
-      "title": "Gezondheidsraad: Elk glas alcohol is riskant, geen bewijs voor gunstig effect - NU",
-      "published": "2026-06-25T11:33:56+00:00",
-      "summary": "Gezondheidsraad: Elk glas alcohol is riskant, geen bewijs voor gunstig effect&nbsp;&nbsp;NUGezondheidsraad: Élk glas alcohol heeft risico's voor je gezondheid&nbsp;&nbsp;NUGaat alcohol het roken achterna? Gezondheidsraad wil dat overheid ingrijpt&nbsp;&nbsp;NOSOok één biertje is al te veel. Het alcoholbeleid moet strenger, vindt de Gezondheidsraad: drinken zou niet normaal moeten zijn&nbsp;&nbsp;NRCAlcoholgebruik moet minder normaal worden, er is geen veilige ondergrens&nbsp;&nbsp;Gezondheidsraa",
+      "id": "2fb709df03c1",
+      "title": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden - NOS",
+      "published": "2026-06-25T13:35:44+00:00",
+      "summary": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden&nbsp;&nbsp;NOSGGD ziet vaker soa's terwijl minder mensen zich laten testen&nbsp;&nbsp;NUMinder soa-bezoeken aan GGD-centra, Soa Aids Nederland is bezorgd&nbsp;&nbsp;Noordhollands DagbladZorgwekkend: minder soa-tests, maar wel meer hiv, gonorroe en syfilis&nbsp;&nbsp;Hart van NederlandAantal soa’s in Nederland neemt toe, terwijl minder mensen zich laten testen&nbsp;&nbsp;Trouw",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjYzX3htSDl0RWNTOGRjY3FIeXRBby1mRGN5OFJ2NVRVTy15VVlrRXFJdWN2TjZLSE1sX080TEVLSTFtbURqY3RDQXpJNnFUM3F1TmlQYjdtRlFTNXhIU1RuUnphZDB6NGhGYjFvVEZPMHZIZHcyc1RWT3Q4ZWtPZWNPMk5QMGl2VGtIS01PdUlCR0hrOEgzWU1Qeng3T0NFUEFNLTA2Q1dEWUYtY29jTEo2dXdDQ25U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cb599f07ba6",
-      "title": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is - RTV Noord",
-      "published": "2026-06-24T17:00:00+00:00",
-      "summary": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is&nbsp;&nbsp;RTV NoordMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGNsejVJMFZrSnVrd18ySGlDclhpNmQxUW1hVUJyWWRaVVd5UE9GeUFGcGJEc1UxUlNRQVZIR3JaS3NUMTJVYXFLeDdpV0JYbHBTV0VCWFJqWUFkWTZCSVdVdThPY3ZHUWhBQ2NiWkMwUVFxaURIbzJkYng4ZmZuR3lIX3ROQjFsbndfRUNhTFY5LXpMYmc5VC0yc01YcVowYk8xc2J0aW1IWklxZ1o3WWRUUXF2VlVOU2NUbXNmNGo2TzgtVHRndnFB?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGJGZzV5T2E0M21YVi1oTE52alJFN01qZlZJcUg4RldyV3pfak1jMmVQOE5HTl91UU1CWnpsOWRzVEpWYTU1Rld2Rk5mcS1pMTBrMFNDb1hSUmVRS1E4VFIzUU5TbDZHZjBRMjJqNE1nSHU2MjFzeWhuTHAwajZiaUtYWXJNb25FUTl4SWFrMEhwZWhXbXo0Yl9UU0tndnM?oc=5"
         }
       ]
     },
@@ -48,6 +36,18 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmhNR0dxMGJSc2J5bUNNSDdOdkdWZ0RwamlRX0x2OVJaeWJOdzE1ZFNCZEpuWll6NDJtc1BWNmZTNFZzaFRCUzZReHBjaWVqWW5OMzR6a0dBMlFMa2JuUVZxQWl1a25MT2FXR2pYZS1fc1REZFlmZ0phOUhEOGpRd0ZLQ3hId05lQTRfTHRPWTl1bDYtWk9NUFVSUktsa3g5bmJqNEc0d1JkeFNfYTQ5bFl4SVpadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cb599f07ba6",
+      "title": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is - RTV Noord",
+      "published": "2026-06-24T17:02:15+00:00",
+      "summary": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is&nbsp;&nbsp;RTV NoordMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGNsejVJMFZrSnVrd18ySGlDclhpNmQxUW1hVUJyWWRaVVd5UE9GeUFGcGJEc1UxUlNRQVZIR3JaS3NUMTJVYXFLeDdpV0JYbHBTV0VCWFJqWUFkWTZCSVdVdThPY3ZHUWhBQ2NiWkMwUVFxaURIbzJkYng4ZmZuR3lIX3ROQjFsbndfRUNhTFY5LXpMYmc5VC0yc01YcVowYk8xc2J0aW1IWklxZ1o3WWRUUXF2VlVOU2NUbXNmNGo2TzgtVHRndnFB?oc=5"
         }
       ]
     },

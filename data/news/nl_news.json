@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-24T19:41:39.943850+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-25T02:54:12.616899+00:00",
+  "count": 5,
   "news": [
     {
       "id": "5839ce2d860b",
       "title": "Eerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo - De Telegraaf",
-      "published": "2026-06-24T19:09:25+00:00",
-      "summary": "Eerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafEbolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "published": "2026-06-24T13:37:39+00:00",
+      "summary": "Eerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafEbolabesmetting gemeld in Frankrijk, eerste in Europa sinds nieuwe uitbraak&nbsp;&nbsp;NUEerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlLIVE Vijf passagiers op vlucht van arts uit Frankrijk die ebola heeft, zijn mogelijk",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZDRDNWtnZGRVN0NtZnp6X2Zaa1hqMmpzdzFlWFpJSjRUbDBGVkJjVDF0Mi1oQ3ZaeWdNRkQyYTZxaDR4UlU2cnRGc0piQm5VbGVWNDk3MjRlejJrSVZtd3Y2Tkp0eTM3WC0wclJ1MklhdnpjQVozN2dPSFRkdjk2dHkwek1BTzRZeTN5WndoaHlwX3BYUTZVSVR3UUN2blBBNUNSbEpyVjVQSGpmemZPcGU4Y1RvZVVVU3o1bzdJVWJIVHdkSE5NZ0hZR2Voa0NTUDBLOTVRM1c0eHBEU3FqRllDNEZ3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cb599f07ba6",
+      "title": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is - RTV Noord",
+      "published": "2026-06-24T17:02:15+00:00",
+      "summary": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is&nbsp;&nbsp;RTV NoordMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGNsejVJMFZrSnVrd18ySGlDclhpNmQxUW1hVUJyWWRaVVd5UE9GeUFGcGJEc1UxUlNRQVZIR3JaS3NUMTJVYXFLeDdpV0JYbHBTV0VCWFJqWUFkWTZCSVdVdThPY3ZHUWhBQ2NiWkMwUVFxaURIbzJkYng4ZmZuR3lIX3ROQjFsbndfRUNhTFY5LXpMYmc5VC0yc01YcVowYk8xc2J0aW1IWklxZ1o3WWRUUXF2VlVOU2NUbXNmNGo2TzgtVHRndnFB?oc=5"
         }
       ]
     },

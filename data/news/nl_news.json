@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-26T14:17:31.268476+00:00",
+  "fetched_at": "2026-06-26T19:42:52.949648+00:00",
   "count": 3,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",

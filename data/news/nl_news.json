@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-26T08:58:34.969825+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-26T14:17:31.268476+00:00",
+  "count": 3,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -19,7 +19,7 @@
       "id": "2fb709df03c1",
       "title": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden - NOS",
       "published": "2026-06-25T13:35:44+00:00",
-      "summary": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden&nbsp;&nbsp;NOSGGD ziet vaker soa's terwijl minder mensen zich laten testen&nbsp;&nbsp;NUMinder soa-bezoeken aan GGD-centra, Soa Aids Nederland is bezorgd&nbsp;&nbsp;Noordhollands DagbladZorgwekkend: minder soa-tests, maar wel meer hiv, gonorroe en syfilis&nbsp;&nbsp;Hart van NederlandAantal soa’s in Nederland neemt toe, terwijl minder mensen zich laten testen&nbsp;&nbsp;Trouw",
+      "summary": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden&nbsp;&nbsp;NOSGGD ziet vaker soa's terwijl minder mensen zich laten testen&nbsp;&nbsp;NUOpnieuw daling aantal soa-consulten in 2025, aantal gonorroe en syfilis diagnoses stabiel hoog&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMMinder soa-bezoeken aan GGD-centra, Soa Aids Nederland is bezorgd&nbsp;&nbsp;Noordhollands DagbladAantal soa’s in Nederland neemt toe, terwijl minder mensen zich laten testen&nbsp;&nbsp",
       "sources": [
         {
           "name": "NOS",
@@ -28,26 +28,14 @@
       ]
     },
     {
-      "id": "f5e89365dac3",
-      "title": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief - NOS",
-      "published": "2026-06-24T09:34:18+00:00",
-      "summary": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSAfslankmedicatie mogelijk ook effectief tegen hiv, artritis en hart- en vaatziekten&nbsp;&nbsp;Nationale ZorggidsVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief 2026 | GERECHTIGHEID - IUSTITIA.BG 2025&nbsp;&nbsp;iustitia.bg",
+      "id": "feab837a3c98",
+      "title": "Deze vaak gebruikte bewaarmiddelen zijn slecht voor het hart - Knack",
+      "published": "2026-06-25T13:14:09+00:00",
+      "summary": "Deze vaak gebruikte bewaarmiddelen zijn slecht voor het hart&nbsp;&nbsp;Knack",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmhNR0dxMGJSc2J5bUNNSDdOdkdWZ0RwamlRX0x2OVJaeWJOdzE1ZFNCZEpuWll6NDJtc1BWNmZTNFZzaFRCUzZReHBjaWVqWW5OMzR6a0dBMlFMa2JuUVZxQWl1a25MT2FXR2pYZS1fc1REZFlmZ0phOUhEOGpRd0ZLQ3hId05lQTRfTHRPWTl1bDYtWk9NUFVSUktsa3g5bmJqNEc0d1JkeFNfYTQ5bFl4SVpadw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cb599f07ba6",
-      "title": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is - RTV Noord",
-      "published": "2026-06-24T17:00:00+00:00",
-      "summary": "Onderzoek Hanze doorbraak in strijd tegen ondervoeding: ‘Niet pas behandelen als het te laat is&nbsp;&nbsp;RTV NoordMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGNsejVJMFZrSnVrd18ySGlDclhpNmQxUW1hVUJyWWRaVVd5UE9GeUFGcGJEc1UxUlNRQVZIR3JaS3NUMTJVYXFLeDdpV0JYbHBTV0VCWFJqWUFkWTZCSVdVdThPY3ZHUWhBQ2NiWkMwUVFxaURIbzJkYng4ZmZuR3lIX3ROQjFsbndfRUNhTFY5LXpMYmc5VC0yc01YcVowYk8xc2J0aW1IWklxZ1o3WWRUUXF2VlVOU2NUbXNmNGo2TzgtVHRndnFB?oc=5"
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0dTN2I0M2RWeWQyMWM4QzI3ZE5NSU80RGpPTUVXcmNVY3IxYTBrYVBUNmRlUTlQMlA0Z3lnLVpaMlB0dFpGZHp6RkxrZXRtbjNxRktUckZ1OUxoR3lmWVdxUTBvSFJmOUU2aGFtcmNfM1RGV2hzdWY2MnVVUWJ2WW5wTGpHQ0FIbGtYeFhFU3o1NTAteEdoeUFITGhnR1lhbVJUU2xITUlLZldn?oc=5"
         }
       ]
     }

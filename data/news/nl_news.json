@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-26T03:23:17.634264+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-26T08:58:34.969825+00:00",
+  "count": 4,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -48,18 +48,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGNsejVJMFZrSnVrd18ySGlDclhpNmQxUW1hVUJyWWRaVVd5UE9GeUFGcGJEc1UxUlNRQVZIR3JaS3NUMTJVYXFLeDdpV0JYbHBTV0VCWFJqWUFkWTZCSVdVdThPY3ZHUWhBQ2NiWkMwUVFxaURIbzJkYng4ZmZuR3lIX3ROQjFsbndfRUNhTFY5LXpMYmc5VC0yc01YcVowYk8xc2J0aW1IWklxZ1o3WWRUUXF2VlVOU2NUbXNmNGo2TzgtVHRndnFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "add3a531943f",
-      "title": "Jongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker - Welingelichte Kringen",
-      "published": "2026-06-24T09:16:58+00:00",
-      "summary": "Jongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXF5SlJhVkhNaFBRTDhqcWdrVGtObXMtRzdJaWVCWlJqTFZVM2hnYU5CekxPTnBLNmtJNkhWZUxzMkxsaHdDYUNqX0ZobzVySmdZMC0wYklEcEU4UWd0WE1pTEE4RWpKbjBPQm8yZWo5aXZXR0hEZ2t2WkNJeHJmWnU0bFFybmV5RzdvY1VRajdXR2FLZmF1UlEwRFlZX1dWZlg4dG91NFE4NTBNSGxsZEtXQXJrWXplTXpKdjFqaU05bmdxZDVVVXZPOWw?oc=5"
         }
       ]
     }

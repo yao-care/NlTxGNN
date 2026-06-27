@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-27T08:32:08.010282+00:00",
+  "fetched_at": "2026-06-27T13:25:34.041508+00:00",
   "count": 4,
   "news": [
     {
-      "id": "b86bbd398a8c",
-      "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
-      "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkFwcXBYb0JxZDFKeHZkbVQtZTNVUnRhLUJVUjNPOE1RbkpUMnJlSlBSMC1vVWREMnozM3pJWUhIOHdiWkNTVFlMMUVDTWdEQTJLMUpubTMyNmlWaVV6TlhTekdaX2pSYnVwZU1UOEEyX2hITlBrVjV2NnY1S25FTmdEZTNlVF9VbVJPSWJzbmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc431688b468",
-      "title": "'Alarmerend' onderzoek: jongvolwassenen verouderen mogelijk sneller - RTL.nl",
+      "id": "d35dcde82547",
+      "title": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek - RTL.nl",
       "published": "2026-06-27T06:52:11+00:00",
-      "summary": "'Alarmerend' onderzoek: jongvolwassenen verouderen mogelijk sneller&nbsp;&nbsp;RTL.nlVerrassend onderzoek: Jongeren verouderen sneller en hebben een hoger risico op kanker op jonge leeftijd.&nbsp;&nbsp;Vietnam.vnNieuwe ontdekking over kanker baart opzien: Er verandert iets bij jongere generaties – en dat kan misschien verklaren waarom steeds meer mensen de ziekte krijgen&nbsp;&nbsp;wibnet.nlJongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker&nbsp;&nbsp;Welingel",
+      "summary": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek&nbsp;&nbsp;RTL.nlVerrassend onderzoek: Jongeren verouderen sneller en hebben een hoger risico op kanker op jonge leeftijd.&nbsp;&nbsp;Vietnam.vnNieuwe ontdekking over kanker baart opzien: Er verandert iets bij jongere generaties – en dat kan misschien verklaren waarom steeds meer mensen de ziekte krijgen&nbsp;&nbsp;wibnet.nlJongeren verouderen sneller dan vorige generaties: wat dat zegt over de kans op kanker&nbsp;&nbsp;Weli",
       "sources": [
         {
           "name": "RTL.nl",
@@ -36,6 +24,18 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DU055MnIyQUtKQzR5RXVPOWtBU05UTFU4NlNIZ2ZPMVFjWGVqR3ZYUnZQTTlXZm82WHNjQTNsdS1BX1RxUl9BYTZIRndoTXBRemxOWjdhTVZsQ09wLVNNdG1UY1lNa1BaMExYMVF0NEhZbnRJaTNHSTd1MjFiQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c9564a0e94a",
+      "title": "Buikgriep of …. - DalfsenNet",
+      "published": "2026-06-26T19:23:22+00:00",
+      "summary": "Buikgriep of ….&nbsp;&nbsp;DalfsenNet",
+      "sources": [
+        {
+          "name": "DalfsenNet",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WUGozU2pNWllzTURFbklNdXl1dk00NjRDRXJUT1lRa0JBRnlrQ0VFSEx2S1dLRmNzU0FvOTNHdDdsNnVxTHhXMTkzcDlKNUl2Y2thSzBzMzJKVkkyTmFtR0ZPTWFqY3Vy?oc=5"
         }
       ]
     },

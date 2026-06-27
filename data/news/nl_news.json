@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-26T19:42:52.949648+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-27T02:49:01.777358+00:00",
+  "count": 4,
   "news": [
     {
       "id": "b86bbd398a8c",
       "title": "Vijf mensen in isolatie na contact Franse arts met ebola - NOS",
       "published": "2026-06-25T08:13:12+00:00",
-      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEbolavirus bereikt Frankrijk, meer dan duizend gevallen in Democratische Republiek Congo&nbsp;&nbsp;bnr.nlWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Vijf mensen in isolatie na contact Franse arts met ebola&nbsp;&nbsp;NOSVijf mensen in quarantaine na ebolabesmetting Franse arts&nbsp;&nbsp;NUEbolageval in Frankrijk vastgesteld: eerste besmetting in Europa sinds nieuwe uitbraak in Congo&nbsp;&nbsp;AD.nlEerste ebolageval in Frankrijk vastgesteld: arts in isolatie na werk in Democratische Republiek Congo&nbsp;&nbsp;De TelegraafWHO: wereldwijde risico op ebola blijft laag&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -19,11 +19,23 @@
       "id": "2fb709df03c1",
       "title": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden - NOS",
       "published": "2026-06-25T13:35:44+00:00",
-      "summary": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden&nbsp;&nbsp;NOSGGD ziet vaker soa's terwijl minder mensen zich laten testen&nbsp;&nbsp;NUOpnieuw daling aantal soa-consulten in 2025, aantal gonorroe en syfilis diagnoses stabiel hoog&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMMinder soa-bezoeken aan GGD-centra, Soa Aids Nederland is bezorgd&nbsp;&nbsp;Noordhollands DagbladAantal soa’s in Nederland neemt toe, terwijl minder mensen zich laten testen&nbsp;&nbsp",
+      "summary": "Weer minder getest op soa's, maar bij GGD-centra toch vaker gevonden&nbsp;&nbsp;NOSGGD ziet vaker soa's terwijl minder mensen zich laten testen&nbsp;&nbsp;NUOpnieuw daling aantal soa-consulten in 2025, aantal gonorroe en syfilis diagnoses stabiel hoog&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMZorgwekkend: minder soa-tests, maar wel meer hiv, gonorroe en syfilis&nbsp;&nbsp;Hart van NederlandAantal soa’s in Nederland neemt toe, terwijl minder mensen zich laten testen&nbsp;&nbs",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGJGZzV5T2E0M21YVi1oTE52alJFN01qZlZJcUg4RldyV3pfak1jMmVQOE5HTl91UU1CWnpsOWRzVEpWYTU1Rld2Rk5mcS1pMTBrMFNDb1hSUmVRS1E4VFIzUU5TbDZHZjBRMjJqNE1nSHU2MjFzeWhuTHAwajZiaUtYWXJNb25FUTl4SWFrMEhwZWhXbXo0Yl9UU0tndnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f5a3ad33370",
+      "title": "Jeroen Pen was verslaafd aan ritalin, maar niemand die het merkte - Trouw",
+      "published": "2026-06-25T04:00:15+00:00",
+      "summary": "Jeroen Pen was verslaafd aan ritalin, maar niemand die het merkte&nbsp;&nbsp;TrouwJeroen Pen was verslaafd aan speedpillen voor ADHD: ‘Ik slikte vier weken medicatie in drie dagen’&nbsp;&nbsp;bnnvara",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUEzSkFNSFBMSF9lSHhaR25jVUJka1A0enh1RHZjZWEwMG5PN29OaEtnQWF3czItcnlDX2JfV3FJb2RIdFcteTZLMUdFMVBZV0swTDk2bkdhV3dKSUg4Z0psaS05WHQyLU9kN0cxUTFOanpoMENPZkJaMWc1REloam94aW5LSXY3akYyQjR1cTh3alBUSkpwQUhqdDZzcFdYRDNEcw?oc=5"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-27T13:25:34.041508+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-27T19:15:48.272407+00:00",
+  "count": 3,
   "news": [
     {
       "id": "d35dcde82547",
@@ -36,18 +36,6 @@
         {
           "name": "DalfsenNet",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WUGozU2pNWllzTURFbklNdXl1dk00NjRDRXJUT1lRa0JBRnlrQ0VFSEx2S1dLRmNzU0FvOTNHdDdsNnVxTHhXMTkzcDlKNUl2Y2thSzBzMzJKVkkyTmFtR0ZPTWFqY3Vy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "feab837a3c98",
-      "title": "Deze vaak gebruikte bewaarmiddelen zijn slecht voor het hart - Knack",
-      "published": "2026-06-25T13:14:09+00:00",
-      "summary": "Deze vaak gebruikte bewaarmiddelen zijn slecht voor het hart&nbsp;&nbsp;Knack",
-      "sources": [
-        {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0dTN2I0M2RWeWQyMWM4QzI3ZE5NSU80RGpPTUVXcmNVY3IxYTBrYVBUNmRlUTlQMlA0Z3lnLVpaMlB0dFpGZHp6RkxrZXRtbjNxRktUckZ1OUxoR3lmWVdxUTBvSFJmOUU2aGFtcmNfM1RGV2hzdWY2MnVVUWJ2WW5wTGpHQ0FIbGtYeFhFU3o1NTAteEdoeUFITGhnR1lhbVJUU2xITUlLZldn?oc=5"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-28T08:47:01.765867+00:00",
+  "fetched_at": "2026-06-28T13:39:26.467865+00:00",
   "count": 4,
   "news": [
     {
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "5c9564a0e94a",
-      "title": "Buikgriep of …. - DalfsenNet",
-      "published": "2026-06-26T19:23:22+00:00",
-      "summary": "Buikgriep of ….&nbsp;&nbsp;DalfsenNet",
+      "id": "0401a846a4b1",
+      "title": "Zij doet al tien jaar onderzoek naar ADHD en autisme: Eén specifiek ding kan ervoor hebben gezorgd dat het aantal diagnosen explosief is gestegen - wibnet.nl",
+      "published": "2026-06-27T20:00:02+00:00",
+      "summary": "Zij doet al tien jaar onderzoek naar ADHD en autisme: Eén specifiek ding kan ervoor hebben gezorgd dat het aantal diagnosen explosief is gestegen&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "DalfsenNet",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WUGozU2pNWllzTURFbklNdXl1dk00NjRDRXJUT1lRa0JBRnlrQ0VFSEx2S1dLRmNzU0FvOTNHdDdsNnVxTHhXMTkzcDlKNUl2Y2thSzBzMzJKVkkyTmFtR0ZPTWFqY3Vy?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWURkdUh3aF9fbzM0SVJLQWROWFZVaXlWNzBEZEcxaUZ5SmtNVWV4SEFiWko3U05MMXREU21BQ0Y4Tk15dWRGdmZmNlBiMU9taHBiMFcyckFTQTdGcldsbGQteERuZUhzdWVEZzIwcjEyOU1tbUkyQjloQW8xTUw4amxDNzBmT3pzd0JEN0hhOE1lRjRhUC1GM0ZwNktVdlNRWmlselE3azdDdE9fTWpVMDFSSzM1MjJ5ZVpNTk1QU09wUmZSTkRoQTZqbEVtdmJHcm5SbFlONWNQOG9OUFJ4eFpab003X2NodnVvaGdFYXJfbExYRndvSHVHcG5tbmc4cXZj?oc=5"
         }
       ]
     }

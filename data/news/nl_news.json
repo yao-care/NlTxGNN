@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-28T13:39:26.467865+00:00",
+  "fetched_at": "2026-06-28T19:14:07.814513+00:00",
   "count": 4,
   "news": [
     {
@@ -16,6 +16,18 @@
       ]
     },
     {
+      "id": "b42d44a6ae23",
+      "title": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen - De Gelderlander",
+      "published": "2026-06-28T06:14:00+00:00",
+      "summary": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYUJraTc4QnhHQVlKWFM5MEEtTWh2Tm5YZEZ1V3Qxd2xiYU9JTWdTNmRaTkpzcVFoNnk4N3MxR0F4UG1RMWV1UTlwVzQ1NHVTczhXNmRpNTFhM2lEWHlXRzJYaDFDUkQtOWVuNHJvU2VJZVIzSUtLRUg5ZmRadnV6NGVoNTlCc2d3ZWludHhfMEJRX0J5bFNxUWlnVkZ6UlV1cThaRGs3Qk9vS3JmX05VVWtRR0Q1b2RvYVg4Mm5Bb1dkdmFvR1g4elUwWjAxbDB1LTNDMV9PZ0YwMDBfem5VV0RkWmVQR3FPWnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d35dcde82547",
       "title": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek - RTL.nl",
       "published": "2026-06-27T06:52:11+00:00",
@@ -24,18 +36,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0g1UzUwd09tM2hPODhiSWZhVXBRTFJaYzNReDVnZG85VWw3cl9mZnp6RUkySzRvTENMT2h0SEtSTm1iVVdtV3lzR0hIMG5fWUpoeUZpZWdRa1ZHcTAyN3Q3TFc2MWdRREtZOGYwZ2xabTlVaTdjQjU4Sm9sTE0talZhTG9URTY0elFHTmtQRU1qOHJZOGdkQ0NTc0hWeVpKd1NSaDYwajdsbUtQeVJZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72137eab85b5",
-      "title": "Brain freeze door een ijsje? Dit zegt die felle hoofdpijn volgens onderzoekers over je gezondheid - Metronieuws.nl",
-      "published": "2026-06-26T13:13:16+00:00",
-      "summary": "Brain freeze door een ijsje? Dit zegt die felle hoofdpijn volgens onderzoekers over je gezondheid&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DU055MnIyQUtKQzR5RXVPOWtBU05UTFU4NlNIZ2ZPMVFjWGVqR3ZYUnZQTTlXZm82WHNjQTNsdS1BX1RxUl9BYTZIRndoTXBRemxOWjdhTVZsQ09wLVNNdG1UY1lNa1BaMExYMVF0NEhZbnRJaTNHSTd1MjFiQQ?oc=5"
         }
       ]
     },

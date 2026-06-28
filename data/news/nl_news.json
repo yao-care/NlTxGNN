@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-27T19:15:48.272407+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-28T03:30:29.647927+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "9f072eefb492",
+      "title": "27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur - NOS",
+      "published": "2026-06-27T13:53:10+00:00",
+      "summary": "27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur&nbsp;&nbsp;NOSDe Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOSVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;NieuwslensPodcast De Dag: de bijvangst van middelen als Ozempic 2026 | GERECHTIGHEID - IUSTITIA.BG 2025&nbsp;&nbsp;iustitia.bg",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG9DMlJBMlZGblBzdjFiY18yaG1oYU14LUZQN0pmOVh1SnhheWJMclE1SFZVREU4bFJ6V2U1SDI5czZVUjROUmxyNnd6TWpubU1mOWdPVldIRE9FeDNSNk11enR2eG9vMHhkc2ZBNEJfUmptZ1F2Q1JxYTM5bnBNMUs4YnNhSDZkMXNYYTFkTmt6M1N4bldZQmgxV09ISVB3TjNpdFRBQ3RLZWR4VmxTUHRTSW11WVB6NXBqaldQUnNfUWRqZ0tv?oc=5"
+        }
+      ]
+    },
     {
       "id": "d35dcde82547",
       "title": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek - RTL.nl",

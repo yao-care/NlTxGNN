@@ -1,32 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-29T10:50:55.907575+00:00",
-  "count": 4,
+  "fetched_at": "2026-06-29T15:40:27.345593+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "b42d44a6ae23",
-      "title": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen - De Gelderlander",
-      "published": "2026-06-28T06:14:00+00:00",
-      "summary": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYUJraTc4QnhHQVlKWFM5MEEtTWh2Tm5YZEZ1V3Qxd2xiYU9JTWdTNmRaTkpzcVFoNnk4N3MxR0F4UG1RMWV1UTlwVzQ1NHVTczhXNmRpNTFhM2lEWHlXRzJYaDFDUkQtOWVuNHJvU2VJZVIzSUtLRUg5ZmRadnV6NGVoNTlCc2d3ZWludHhfMEJRX0J5bFNxUWlnVkZ6UlV1cThaRGs3Qk9vS3JmX05VVWtRR0Q1b2RvYVg4Mm5Bb1dkdmFvR1g4elUwWjAxbDB1LTNDMV9PZ0YwMDBfem5VV0RkWmVQR3FPWnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d123f7672d4",
-      "title": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord - EenVandaag",
-      "published": "2026-06-28T06:02:50+00:00",
-      "summary": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWxFek1MemhyRVB6N3hZRi1fb2Q2Y0VGbVY1WnJhX0VWNDJ2MFF2TGM4azJLMGtwNk1XVnkwQzRzTHhEbFdCclhCcFRwOVhfUWRwYzhTSlFCb0RVUmtfekx0eHNWY2N0Q1RWamVvODV1a2NSUVBJdGMwbVZrbU5oQmM3cFA5SWtQVjl5cEFWX0tiSG8wcGJhdFY4NjlLc251VmRuNDlMcVpUNzd6c3FUa3k3ejZOc2Ytcl9mc2x0NFkwd0YzOXJFMGdwTUJQRGFCWHFnYnlJYzlSQQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "389d53ccb638",
       "title": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken - NOS",
@@ -40,14 +16,26 @@
       ]
     },
     {
-      "id": "0401a846a4b1",
-      "title": "Zij doet al tien jaar onderzoek naar ADHD en autisme: Eén specifiek ding kan ervoor hebben gezorgd dat het aantal diagnosen explosief is gestegen - wibnet.nl",
-      "published": "2026-06-27T20:00:02+00:00",
-      "summary": "Zij doet al tien jaar onderzoek naar ADHD en autisme: Eén specifiek ding kan ervoor hebben gezorgd dat het aantal diagnosen explosief is gestegen&nbsp;&nbsp;wibnet.nl",
+      "id": "9d123f7672d4",
+      "title": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord - EenVandaag",
+      "published": "2026-06-28T06:02:50+00:00",
+      "summary": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord&nbsp;&nbsp;EenVandaagWaarom zijn eiwitten zo belangrijk? Een voedingswetenschapper legt het uit&nbsp;&nbsp;quest.nl",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWURkdUh3aF9fbzM0SVJLQWROWFZVaXlWNzBEZEcxaUZ5SmtNVWV4SEFiWko3U05MMXREU21BQ0Y4Tk15dWRGdmZmNlBiMU9taHBiMFcyckFTQTdGcldsbGQteERuZUhzdWVEZzIwcjEyOU1tbUkyQjloQW8xTUw4amxDNzBmT3pzd0JEN0hhOE1lRjRhUC1GM0ZwNktVdlNRWmlselE3azdDdE9fTWpVMDFSSzM1MjJ5ZVpNTk1QU09wUmZSTkRoQTZqbEVtdmJHcm5SbFlONWNQOG9OUFJ4eFpab003X2NodnVvaGdFYXJfbExYRndvSHVHcG5tbmc4cXZj?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWxFek1MemhyRVB6N3hZRi1fb2Q2Y0VGbVY1WnJhX0VWNDJ2MFF2TGM4azJLMGtwNk1XVnkwQzRzTHhEbFdCclhCcFRwOVhfUWRwYzhTSlFCb0RVUmtfekx0eHNWY2N0Q1RWamVvODV1a2NSUVBJdGMwbVZrbU5oQmM3cFA5SWtQVjl5cEFWX0tiSG8wcGJhdFY4NjlLc251VmRuNDlMcVpUNzd6c3FUa3k3ejZOc2Ytcl9mc2x0NFkwd0YzOXJFMGdwTUJQRGFCWHFnYnlJYzlSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7678c69d98eb",
+      "title": "Onderzoekers willen richtlijnen voor schermtijd voor kinderen onder twee jaar - NU",
+      "published": "2026-06-28T07:43:02+00:00",
+      "summary": "Onderzoekers willen richtlijnen voor schermtijd voor kinderen onder twee jaar&nbsp;&nbsp;NUWetenschappers willen af van schermtijd voor baby's en peuters&nbsp;&nbsp;Telecompaper",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlN0dE5fUXZkSmg4TXV6ZkxOSFlhUF9pRmV5aHNsN3V3bUtRcVN4QjB1Q05mVmktSXRlUURxeFdqRGFCTlQwWU5YV0ZESjNmYWJ1Nm1lSDBpaERoM0I0dkdWX1o4T041Qnh0QXk4a2FuNGwzQThwVkhISEtqaHU2WGxFaGwtZGZQMnV6NEh6MktFY1piMFRCd1pIQ3UzWWN6T2tSQWVUVXo3TU9rdkVpVUN5Yw?oc=5"
         }
       ]
     }

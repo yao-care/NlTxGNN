@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-29T15:40:27.345593+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-29T19:52:17.323357+00:00",
+  "count": 4,
   "news": [
     {
       "id": "389d53ccb638",
       "title": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken - NOS",
       "published": "2026-06-27T21:11:46+00:00",
-      "summary": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOS27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur&nbsp;&nbsp;NOSVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSCardioloog Leonard Hofstra: ‘Ozempic lijkt het risico op hart- en vaatziekten te verkleinen’&nbsp;&nbsp;quest.nlBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;Nieuwslens",
+      "summary": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOSNieuwsuur&nbsp;&nbsp;TVgids.nlVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;NieuwslensCardioloog Leonard Hofstra: ‘Ozempic lijkt het risico op hart- en vaatziekten te verkleinen’&nbsp;&nbsp;quest.nl",
       "sources": [
         {
           "name": "NOS",
@@ -24,6 +24,18 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWxFek1MemhyRVB6N3hZRi1fb2Q2Y0VGbVY1WnJhX0VWNDJ2MFF2TGM4azJLMGtwNk1XVnkwQzRzTHhEbFdCclhCcFRwOVhfUWRwYzhTSlFCb0RVUmtfekx0eHNWY2N0Q1RWamVvODV1a2NSUVBJdGMwbVZrbU5oQmM3cFA5SWtQVjl5cEFWX0tiSG8wcGJhdFY4NjlLc251VmRuNDlMcVpUNzd6c3FUa3k3ejZOc2Ytcl9mc2x0NFkwd0YzOXJFMGdwTUJQRGFCWHFnYnlJYzlSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "669984e163b2",
+      "title": "Bart, de vriend van Amber (26), heeft een erfelijke ziekte - flair.nl",
+      "published": "2026-06-29T15:07:38+00:00",
+      "summary": "Bart, de vriend van Amber (26), heeft een erfelijke ziekte&nbsp;&nbsp;flair.nl",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5MDZSUlJLN0pHMHRhOW1FT04wVldfYlJNeVdMVFkzTmNjUi1lU3hFREVEUGhZRENHWGVUYWdTY1dPMXdRcGRtY1U2aTBhMEdId0JuNmQtQU1VSzZnekFiTWt5WmVseTBQZFRaN2JmV3l1dG42QUFiWGtn?oc=5"
         }
       ]
     },

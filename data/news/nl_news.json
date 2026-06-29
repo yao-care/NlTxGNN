@@ -1,29 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-29T03:35:10.830604+00:00",
-  "count": 3,
+  "fetched_at": "2026-06-29T10:50:55.907575+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "389d53ccb638",
-      "title": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken - NOS",
-      "published": "2026-06-27T21:11:46+00:00",
-      "summary": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOS27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur&nbsp;&nbsp;NOSVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;NieuwslensPodcast De Dag: de bijvangst van middelen als Ozempic 2026 | GERECHTIGHEID - IUSTITIA.BG 2025&nbsp;&nbsp;iustitia.bg",
+      "id": "b42d44a6ae23",
+      "title": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen - De Gelderlander",
+      "published": "2026-06-28T06:14:00+00:00",
+      "summary": "Toeval helpt artsen op nieuw spoor: bestraling kan immuunsysteem aanzetten om ook andere tumoren aan te vallen&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2NtcWw3RmlDWUwtd1RWaks3VG5iamxRY3F6NjB2R2NVVjlnY09mSTlHdnpscWtYVVc4RmFNRG1EUUMyNmxydVVRUTFSZ28ySFJnYzRpOHZMcUdnVkJEa1ZNSXg0N2VPTmFJa29PSy1rUXFoeWo4SUpSTVA5akpoRlM3LWtoTkhvbUx6aW5kaFRLZmVoUlpnam5TaVNRZXh6UlJta3lRMUg2MFd4SHBTX1dSY2U0TW9QdFE?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYUJraTc4QnhHQVlKWFM5MEEtTWh2Tm5YZEZ1V3Qxd2xiYU9JTWdTNmRaTkpzcVFoNnk4N3MxR0F4UG1RMWV1UTlwVzQ1NHVTczhXNmRpNTFhM2lEWHlXRzJYaDFDUkQtOWVuNHJvU2VJZVIzSUtLRUg5ZmRadnV6NGVoNTlCc2d3ZWludHhfMEJRX0J5bFNxUWlnVkZ6UlV1cThaRGs3Qk9vS3JmX05VVWtRR0Q1b2RvYVg4Mm5Bb1dkdmFvR1g4elUwWjAxbDB1LTNDMV9PZ0YwMDBfem5VV0RkWmVQR3FPWnc?oc=5"
         }
       ]
     },
     {
-      "id": "d35dcde82547",
-      "title": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek - RTL.nl",
-      "published": "2026-06-27T06:52:11+00:00",
-      "summary": "Jongere volwassenen verouderen mogelijk sneller: 'alarmerend' onderzoek&nbsp;&nbsp;RTL.nlNieuwe ontdekking over kanker baart opzien: Er verandert iets bij jongere generaties – en dat kan misschien verklaren waarom steeds meer mensen de ziekte krijgen&nbsp;&nbsp;wibnet.nlNieuwe bevindingen onthullen de redenen waarom steeds meer jongeren kanker ontwikkelen.&nbsp;&nbsp;Vietnam.vnOnderzoek: jongvolwassenen verouderen mogelijk sneller&nbsp;&nbsp;Nieuwslens",
+      "id": "9d123f7672d4",
+      "title": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord - EenVandaag",
+      "published": "2026-06-28T06:02:50+00:00",
+      "summary": "Marketingpraatje of écht gezondheidsadvies? En andere vragen over toegevoegde eiwitten beantwoord&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0g1UzUwd09tM2hPODhiSWZhVXBRTFJaYzNReDVnZG85VWw3cl9mZnp6RUkySzRvTENMT2h0SEtSTm1iVVdtV3lzR0hIMG5fWUpoeUZpZWdRa1ZHcTAyN3Q3TFc2MWdRREtZOGYwZ2xabTlVaTdjQjU4Sm9sTE0talZhTG9URTY0elFHTmtQRU1qOHJZOGdkQ0NTc0hWeVpKd1NSaDYwajdsbUtQeVJZ?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWxFek1MemhyRVB6N3hZRi1fb2Q2Y0VGbVY1WnJhX0VWNDJ2MFF2TGM4azJLMGtwNk1XVnkwQzRzTHhEbFdCclhCcFRwOVhfUWRwYzhTSlFCb0RVUmtfekx0eHNWY2N0Q1RWamVvODV1a2NSUVBJdGMwbVZrbU5oQmM3cFA5SWtQVjl5cEFWX0tiSG8wcGJhdFY4NjlLc251VmRuNDlMcVpUNzd6c3FUa3k3ejZOc2Ytcl9mc2x0NFkwd0YzOXJFMGdwTUJQRGFCWHFnYnlJYzlSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "389d53ccb638",
+      "title": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken - NOS",
+      "published": "2026-06-27T21:11:46+00:00",
+      "summary": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOS27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur&nbsp;&nbsp;NOSVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSCardioloog Leonard Hofstra: ‘Ozempic lijkt het risico op hart- en vaatziekten te verkleinen’&nbsp;&nbsp;quest.nlBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2NtcWw3RmlDWUwtd1RWaks3VG5iamxRY3F6NjB2R2NVVjlnY09mSTlHdnpscWtYVVc4RmFNRG1EUUMyNmxydVVRUTFSZ28ySFJnYzRpOHZMcUdnVkJEa1ZNSXg0N2VPTmFJa29PSy1rUXFoeWo4SUpSTVA5akpoRlM3LWtoTkhvbUx6aW5kaFRLZmVoUlpnam5TaVNRZXh6UlJta3lRMUg2MFd4SHBTX1dSY2U0TW9QdFE?oc=5"
         }
       ]
     },

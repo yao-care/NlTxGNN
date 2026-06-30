@@ -1,29 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-06-30T14:11:56.771926+00:00",
-  "count": 5,
+  "fetched_at": "2026-06-30T19:50:38.005678+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "63e0992343bd",
-      "title": "Vaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen - NOS",
-      "published": "2026-06-30T10:07:58+00:00",
-      "summary": "Vaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOSVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NUZucht... Steeds minder jonge kinderen gevaccineerd: RIVM blijft zich zorgen maken&nbsp;&nbsp;PowNedVaccinatiegraad bij baby’s en kleuters licht gedaald, bij tieners gestegen&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMVaccinatiegraad baby's en kleuters weer gedaald, overheid komt in actie&nbsp;&n",
+      "id": "fbc7b20b03d2",
+      "title": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’ - NRC",
+      "published": "2026-06-30T16:27:17+00:00",
+      "summary": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’&nbsp;&nbsp;NRCOverleving kanker verder gestegen, grootste winst in later stadium&nbsp;&nbsp;NUMensen met kanker blijven steeds langer leven: ‘De vooruitzichten bij longkanker waren jarenlang echt hopeloos’&nbsp;&nbsp;de VolkskrantGoed nieuws voor kankerpatiënt: gemiddelde overlevingskans neemt opnieuw toe&nbsp;&nbsp;Reformatorisch DagbladZeven op de tien kankerpatiënten leven vijf jaar n",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUgyXzh5UXlmV2RlVTFTbmRvZWRkQm9VZGxDYUhoTmJqZnFkN0tGOFVNbTROeXA4UzhnRW1PNnRJUUVkbzVQbUtkMmQ4UVhaY1pfZ3dMbFZ2SFUtVmZVcVQ5RmdJY2Z1ZkRFRVdNSGlwSmFkTjVseEtMNGI4cVcwaGtRa1FpcUZEYktELXN0eDlxUVZ6WVVIcHk0T3NySmxwMUdyT3p6d0Fla2p0QUE?oc=5"
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnkxQW5DYm40NHZFeGE0MzhSeFNIS1BJczhMMVlsR19BNUpqSk5CNjJIdm1nRGFCeW00SmVtZGNoZ2RSa0RiRTJIbmxCRmZuazU2b1FrMUltTTRMMGNWYkFqMVlWa1NLd3pNckJkWXpMdFZ1MDg2clJaYllUcHRZUS01ZnNGc1c3bXlGZDhvOEZZOHBvcW9vdmZNeGtxT05LUEdORjVyLTZxREYycHN4MmFnMHRtOHdwMkdVM280QVpIR3NOYzQtMXpTYkVLdWRzQXhyTHdUaXVPd185a3BKRndtV25RZw?oc=5"
         }
       ]
     },
     {
-      "id": "503feae3559e",
-      "title": "Mensen met kanker blijven steeds langer leven, 5 jaar na diagnose is 71 procent nog in leven - de Volkskrant",
-      "published": "2026-06-30T03:00:05+00:00",
-      "summary": "Mensen met kanker blijven steeds langer leven, 5 jaar na diagnose is 71 procent nog in leven&nbsp;&nbsp;de VolkskrantOverleving kanker verder gestegen, grootste winst in later stadium&nbsp;&nbsp;NUMensen met kanker blijven steeds langer leven: ‘De vooruitzichten bij longkanker waren jarenlang echt hopeloos’&nbsp;&nbsp;de VolkskrantZeven op de tien kankerpatiënten leven vijf jaar na diagnose nog&nbsp;&nbsp;Noordhollands DagbladIKNL: overlevingskans bij kanker stijgt fors, vooral voor patiënten in",
+      "id": "5680cb183d70",
+      "title": "Aantal mazelengevallen schiet omhoog naar 539: vaccinatiegraad onder jonge kinderen opnieuw lager - AD.nl",
+      "published": "2026-06-30T09:58:00+00:00",
+      "summary": "Aantal mazelengevallen schiet omhoog naar 539: vaccinatiegraad onder jonge kinderen opnieuw lager&nbsp;&nbsp;AD.nlVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NUVaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOSVaccinatiegraad bij baby’s en kleuters licht gedaald, bij tieners gestegen&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMVaccinatiegraad Zeeuwse kinderen nog steeds te laag voor goede b",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblMyVm1tQ19BS2FVRE45NDhHdXVWZTFOM2pDZ0RLSDI2dnBueFFIREhkZlFpNjYxNEo2azhOeXc3RllfeG5KQzF1RDVkZTE2SHRzanF0QXNMQllrXzQzMm5XT2NvRDh3TDJrbnhkbXZfd21MZ0hNY2phRm05RFcyVEJMZi0zN2NheHJFcDFCN0h4TjhYUmNmRkV4ZVhuU0dfTFN3LW9fTldPeVZtSW1rQUsyNlB3bXdUck1KdFNPYW9xRGM2aTdLVy1CRDY5SkVFZUh3aw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnVnMzVZNE1FeFlObGJkX2hGemRzVHJiZkY1b1dNWWgtQ1NoWkJBLTJ5SElFbG5udG9scDlMM19hUmJkRFBjQ2VPTmVQSWRtTzN5VEVhU1NPclJMbTk2Xy03LUppZW95a0lTWl93NkdIcFQ2SklXMFZ3ZjFCc1NHYUc4aEpPOGNWNnh4Rjd3a2NiVXJKaUVIUFdyOXNxdncwekFUOHl2U1lDX0Y5NWdFN0xnQXRlZFhqT3B5RUdUTzJtUGdqYkR5SW5iYkRDOEZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c23347e05e05",
+      "title": "RIVM waarschuwt voor nieuwe grote dreigingen voor volksgezondheid in Nederland - Hart van Nederland",
+      "published": "2026-06-30T10:05:37+00:00",
+      "summary": "RIVM waarschuwt voor nieuwe grote dreigingen voor volksgezondheid in Nederland&nbsp;&nbsp;Hart van NederlandRIVM vreest polycrisis: samenwerking nodig voor zich opstapelende problemen&nbsp;&nbsp;NOSDesinformatie en druk op internationale samenwerking grote internationale dreigingen voor Nederlandse volksgezondheid&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMEen nieuw virus, hitte én desinformatie: RIVM waarschuwt voor een ‘polycrisis’, waarop Nederland niet goed is voorbereid&",
+      "sources": [
+        {
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDBkTXBxNTJwTU5GdGZvWnd2dU1ZMmpub3FJTFlYM2NkWFVXUlpHMDdTWkpVbjJJTFlIQ0tZZnhZa0FYaW55R1dVVkYtQTJuWDBVenBMSHJGQTZQUnpraHpWcC13REo0ekE0MmYxdXY4Y0NaODB3NXRSOUZVUnc4eWhWeFprdmVXbXhIUUxBbEdnV3JWejN2NWlqd3E5alVhS2FWUEVUcFhaYVFEZnJVWkotV2Q2X2h4azl1ZDA4VUs0cVdzUFFJa2tR?oc=5"
         }
       ]
     },
@@ -48,6 +60,18 @@
         {
           "name": "Eindhovens Dagblad",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2NEUk5WZ1FCeERySkI5MUY1X2h2cDByTFJKSlNLNXBWNkNKRG5jZ0FuT1VSNzc5T0JZcnluODB3OGM2Uk1lVnd2eDlEZDNKSUdfbXR5SkNrR0RsWWREZjNXTm9CamxnREhrRGl1azgxTk1kcmdzbzlSWGFSVEg2eTJ1Z3RGT2FzVjREZE9pYnlwRXB4ZFpUZGRIb29XVENqcDdsclVIaFN0S0h1Qm4xbW5YTkhibkcyYW9OcldB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e82aab7169fc",
+      "title": "Over het hoofd gezien waarschuwingssignaal kan verband houden met je risico om later kanker te krijgen - wibnet.nl",
+      "published": "2026-06-29T20:00:00+00:00",
+      "summary": "Over het hoofd gezien waarschuwingssignaal kan verband houden met je risico om later kanker te krijgen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalp1OXpjZ0swcFpBMmRwNFZZRW1BTFA5eTRVQmIwWGRXLWNfNkc5dmdzdzh2WUtKTGJTUTcteW42YlNyZENySU1tVmRmR3pzOUZTbDRlY2c1TWNVWTE2Ym9OaGo3Q0M3ZjhiTzQ3VlN3T1dwR25VX3d6WlYtRXh5d1FOa0s0TzFnZnVnYlprd1RYV25QeHY2aFUyUDR6amo2ZzZOZUNIQmZZbWZrS05ESUtTdy1PbTlNSnZtT1BmSWgyelFkMEtKMU5GNA?oc=5"
         }
       ]
     },

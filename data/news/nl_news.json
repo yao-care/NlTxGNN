@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-01T09:39:48.335691+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-01T14:27:56.670660+00:00",
+  "count": 6,
   "news": [
     {
       "id": "81bf0dc9b2d4",
@@ -19,23 +19,11 @@
       "id": "9cf82a386102",
       "title": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen - AD.nl",
       "published": "2026-06-30T23:01:00+00:00",
-      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NURIVM-cijfers: Zeeuwse vaccinatiegraad blijft laag, wel meer jongeren met HPV-prik&nbsp;&nbsp;pzc.nlVaccinatiegraad Zeeuwse kinderen nog steeds te laag voor goede bescherming&nbsp;&nbsp;Omroep ZeelandVaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOS",
+      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlVaccinatiegraad jonge kinderen in Drenthe stijgt&nbsp;&nbsp;RTV DrentheVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NURIVM-cijfers: Zeeuwse vaccinatiegraad blijft laag, wel meer jongeren met HPV-prik&nbsp;&nbsp;pzc.nlVaccinatiegraad kinderen Gooi en Vechtstreek gedaald: wat betekent dit?&nbsp;&nbsp;De Gooi- en Eemlander",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ01iRFk5azJFM0ZTMG5TV0MtMzA2WE5jdWdvU0VQWjlyLXFJbDJDMHIwZWVWRl9nWXpnSzMwYmp6MXhvSFVYaTFYQ2Iwa3RkSzNZUXhvZzBxT0I5TFMzdUd3MVpYZlJwei1ibS1mcE53Q1E5QWhsVWFDdmFrOTNUa3BEaW1FRk5mSUVXakhlZ2I4bm5GSGhhdnpSVlNJLUZ1UFBzSWtLbEZndFFnTDI1QUdKWmk3SW1nU082TU8xckp6VkVXSFZFOENZY0loa1ZYSGdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33d5185a53ca",
-      "title": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’ - De Telegraaf",
-      "published": "2026-07-01T09:01:08+00:00",
-      "summary": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHRNY2VranRPWXZRNHc2V0oxMDM1WGVlaXFaUV80dEZmSks5X0V3a0RZQzNrY194VWVvVzUwT2tIX1ZFX3FiVldHR0doQnpiZ2pzUWR4TzMyM0VKYmZmX2s0YjJBVmVLRVJReWtQYlRfVl83R0VUVkVMSEQ3ZVRST1c0cWctU0M1MmQ2VW51REE3dWU1Q0tlOVFtcUhmTEhBMkVjR1EzeUYwbmxyVTJxUWRvenozYnE0WXF1QUpFSW9JU0dKa0dLZlI4SUVianpMeS05emdkZWR4NHVLV3ZGT0RrMGVNLVViY0M0NzNwc19aQU9ET2xkTVJB?oc=5"
         }
       ]
     },
@@ -52,26 +40,26 @@
       ]
     },
     {
+      "id": "33d5185a53ca",
+      "title": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’ - De Telegraaf",
+      "published": "2026-07-01T13:30:00+00:00",
+      "summary": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHRNY2VranRPWXZRNHc2V0oxMDM1WGVlaXFaUV80dEZmSks5X0V3a0RZQzNrY194VWVvVzUwT2tIX1ZFX3FiVldHR0doQnpiZ2pzUWR4TzMyM0VKYmZmX2s0YjJBVmVLRVJReWtQYlRfVl83R0VUVkVMSEQ3ZVRST1c0cWctU0M1MmQ2VW51REE3dWU1Q0tlOVFtcUhmTEhBMkVjR1EzeUYwbmxyVTJxUWRvenozYnE0WXF1QUpFSW9JU0dKa0dLZlI4SUVianpMeS05emdkZWR4NHVLV3ZGT0RrMGVNLVViY0M0NzNwc19aQU9ET2xkTVJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cc2b7bfe590f",
       "title": "Zorgen om verdwijnende kennis over postcovid en Q-koorts: website voor huisartsen gaat binnenkort op zwart - Brabants Dagblad",
-      "published": "2026-06-30T05:30:00+00:00",
+      "published": "2026-06-30T14:30:00+00:00",
       "summary": "Zorgen om verdwijnende kennis over postcovid en Q-koorts: website voor huisartsen gaat binnenkort op zwart&nbsp;&nbsp;Brabants DagbladNieuwe aanknopingspunten voor behandeling van post-COVID&nbsp;&nbsp;ZonMwHulporganisatie voor mensen met chronische klachten door infectie stopt&nbsp;&nbsp;Hart van NederlandHulporganisatie Q-support en C-support stopt per einde jaar&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "Brabants Dagblad",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN25UVktDUGEzNGhaLV9uZVA4V0czb3F6aU8wS2x5cnZERF8teTFvVERaNEwtSFRwZXhCVllveTZ0UlQxamF1VHdtcnVZUGRzTnI4dW9JZERZTlV1YmdLVDdVbi14TTdFRG9WSDJZNTNEYzM4MmNHV2w4aF9ra25wN2x6cGtPYlhfMnpMeDJ2eDJwa0F1ZEtOeHlTRk90eG00WC1CWkxNdjRpaWhRMWd2NmVBUXJhaXM1SXhNVm1kbEktUGZFMDI2a2J5YWwxbXpUTGIxTTkyY3cxSGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e82aab7169fc",
-      "title": "Over het hoofd gezien waarschuwingssignaal kan verband houden met je risico om later kanker te krijgen - wibnet.nl",
-      "published": "2026-06-29T20:00:00+00:00",
-      "summary": "Over het hoofd gezien waarschuwingssignaal kan verband houden met je risico om later kanker te krijgen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalp1OXpjZ0swcFpBMmRwNFZZRW1BTFA5eTRVQmIwWGRXLWNfNkc5dmdzdzh2WUtKTGJTUTcteW42YlNyZENySU1tVmRmR3pzOUZTbDRlY2c1TWNVWTE2Ym9OaGo3Q0M3ZjhiTzQ3VlN3T1dwR25VX3d6WlYtRXh5d1FOa0s0TzFnZnVnYlprd1RYV25QeHY2aFUyUDR6amo2ZzZOZUNIQmZZbWZrS05ESUtTdy1PbTlNSnZtT1BmSWgyelFkMEtKMU5GNA?oc=5"
         }
       ]
     },

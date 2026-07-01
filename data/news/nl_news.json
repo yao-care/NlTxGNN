@@ -1,8 +1,44 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-01T03:30:55.637384+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-01T09:39:48.335691+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "81bf0dc9b2d4",
+      "title": "Waarom heeft het ene kind wel adhd, en het andere niet? Onderzoeker Dorret Boomsma (68) is dé expert op het gebied van tweelingen: ‘Het speurwerk is leuk’ - Het Parool",
+      "published": "2026-07-01T01:00:00+00:00",
+      "summary": "Waarom heeft het ene kind wel adhd, en het andere niet? Onderzoeker Dorret Boomsma (68) is dé expert op het gebied van tweelingen: ‘Het speurwerk is leuk’&nbsp;&nbsp;Het ParoolHoe tweelingonderzoek onze kijk op de mens radicaal veranderde&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOT2tJZ1lJdG1SOUJrM0s0MXMxSlg0X0hqVFE3NUFPZXNaaWVyenRMVEVpanM2WWxjSDBnWUhNRDJJUWFHaDVyTDQtRzlTbUg4ZDF3ZmNwbzVwci1aRmRCckN0MkpWTlFtT2w4UnBCVFpBdjFxdFJIbTZNdzJhTlVGWGJNaTBzeUQ2aGM4bGUtSnhyRmhUWWFCZXdfb2RNbWFDQ21yZnIxd2YtQWc3MlpJTlA5WjNOYkF4ZllpUHN6VFA4OTRPOVpuSjdKRV8xaTBGWlN5SkZqdk9QQXZjRGllV1VTaWp1U0l3R3R0eGVUZHJKSlU2eVdLLXgxX2hZU3hxUEFrOUFzbmFJcGp2c29nWE54TDFsYk5EVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9cf82a386102",
+      "title": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen - AD.nl",
+      "published": "2026-06-30T23:01:00+00:00",
+      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NURIVM-cijfers: Zeeuwse vaccinatiegraad blijft laag, wel meer jongeren met HPV-prik&nbsp;&nbsp;pzc.nlVaccinatiegraad Zeeuwse kinderen nog steeds te laag voor goede bescherming&nbsp;&nbsp;Omroep ZeelandVaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ01iRFk5azJFM0ZTMG5TV0MtMzA2WE5jdWdvU0VQWjlyLXFJbDJDMHIwZWVWRl9nWXpnSzMwYmp6MXhvSFVYaTFYQ2Iwa3RkSzNZUXhvZzBxT0I5TFMzdUd3MVpYZlJwei1ibS1mcE53Q1E5QWhsVWFDdmFrOTNUa3BEaW1FRk5mSUVXakhlZ2I4bm5GSGhhdnpSVlNJLUZ1UFBzSWtLbEZndFFnTDI1QUdKWmk3SW1nU082TU8xckp6VkVXSFZFOENZY0loa1ZYSGdr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33d5185a53ca",
+      "title": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’ - De Telegraaf",
+      "published": "2026-07-01T09:01:08+00:00",
+      "summary": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHRNY2VranRPWXZRNHc2V0oxMDM1WGVlaXFaUV80dEZmSks5X0V3a0RZQzNrY194VWVvVzUwT2tIX1ZFX3FiVldHR0doQnpiZ2pzUWR4TzMyM0VKYmZmX2s0YjJBVmVLRVJReWtQYlRfVl83R0VUVkVMSEQ3ZVRST1c0cWctU0M1MmQ2VW51REE3dWU1Q0tlOVFtcUhmTEhBMkVjR1EzeUYwbmxyVTJxUWRvenozYnE0WXF1QUpFSW9JU0dKa0dLZlI4SUVianpMeS05emdkZWR4NHVLV3ZGT0RrMGVNLVViY0M0NzNwc19aQU9ET2xkTVJB?oc=5"
+        }
+      ]
+    },
     {
       "id": "fbc7b20b03d2",
       "title": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’ - NRC",
@@ -16,26 +52,14 @@
       ]
     },
     {
-      "id": "8f6892324bf5",
-      "title": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen - AD.nl",
-      "published": "2026-06-30T09:58:00+00:00",
-      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "cc2b7bfe590f",
+      "title": "Zorgen om verdwijnende kennis over postcovid en Q-koorts: website voor huisartsen gaat binnenkort op zwart - Brabants Dagblad",
+      "published": "2026-06-30T05:30:00+00:00",
+      "summary": "Zorgen om verdwijnende kennis over postcovid en Q-koorts: website voor huisartsen gaat binnenkort op zwart&nbsp;&nbsp;Brabants DagbladNieuwe aanknopingspunten voor behandeling van post-COVID&nbsp;&nbsp;ZonMwHulporganisatie voor mensen met chronische klachten door infectie stopt&nbsp;&nbsp;Hart van NederlandHulporganisatie Q-support en C-support stopt per einde jaar&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnVnMzVZNE1FeFlObGJkX2hGemRzVHJiZkY1b1dNWWgtQ1NoWkJBLTJ5SElFbG5udG9scDlMM19hUmJkRFBjQ2VPTmVQSWRtTzN5VEVhU1NPclJMbTk2Xy03LUppZW95a0lTWl93NkdIcFQ2SklXMFZ3ZjFCc1NHYUc4aEpPOGNWNnh4Rjd3a2NiVXJKaUVIUFdyOXNxdncwekFUOHl2U1lDX0Y5NWdFN0xnQXRlZFhqT3B5RUdUTzJtUGdqYkR5SW5iYkRDOEZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "782987d95f0b",
-      "title": "Cardioloog Leonard Hofstra: ‘Ozempic lijkt het risico op hart- en vaatziekten te verkleinen’ - quest.nl",
-      "published": "2026-06-29T04:00:35+00:00",
-      "summary": "Cardioloog Leonard Hofstra: ‘Ozempic lijkt het risico op hart- en vaatziekten te verkleinen’&nbsp;&nbsp;quest.nlVan artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief&nbsp;&nbsp;NOSDe Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOSBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;Nieuwslens27/6 in Nieuwsuur: De Ozempic-afvalrevolutie • Hittegolf teistert zorg • Strafhof onder vuur&nbsp;&nbsp;NOS",
-      "sources": [
-        {
-          "name": "quest.nl",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFRScWJOeXNJZVpWS3NnRF9lRmxoWk45R1JiNTZNSERaV0t2REdmajR2OHM1cXFrWTQyMUY0TFk1bmdqR0lZZ29renVZQkM1YWJUMXF1bDV2YlA4MENBbmhMcUlYQThLRUQzOGxiWi1ucVZEU091cjJYUXJqV3lITm1LUmRxRUxNTEdzd19n?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN25UVktDUGEzNGhaLV9uZVA4V0czb3F6aU8wS2x5cnZERF8teTFvVERaNEwtSFRwZXhCVllveTZ0UlQxamF1VHdtcnVZUGRzTnI4dW9JZERZTlV1YmdLVDdVbi14TTdFRG9WSDJZNTNEYzM4MmNHV2w4aF9ra25wN2x6cGtPYlhfMnpMeDJ2eDJwa0F1ZEtOeHlTRk90eG00WC1CWkxNdjRpaWhRMWd2NmVBUXJhaXM1SXhNVm1kbEktUGZFMDI2a2J5YWwxbXpUTGIxTTkyY3cxSGs?oc=5"
         }
       ]
     },

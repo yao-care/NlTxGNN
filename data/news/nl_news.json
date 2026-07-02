@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-01T19:49:26.589644+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-02T02:55:30.459616+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "3e061519fdbe",
+      "title": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt - de Volkskrant",
+      "published": "2026-07-01T16:59:00+00:00",
+      "summary": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantMenigte steekt Congolees centrum voor ebolapatiënten in brand, politieagent komt om&nbsp;&nbsp;VRTEr was covid, er is ebola en dan is er nog de epidemie van wantrouwen | opinie&nbsp;&nbsp;Dagblad van het NoordenAantal ebolagevallen in Congo stijgt tot boven de 1300&nbsp;&nbsp;Haarlems DagbladDodental ebola loopt op terwijl indammen stroef gaat: 300 mensen met het virus zijn zoek&nbsp;&nbsp;Nederlands D",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDAtek44TUt1SExFU19UVEZXYVpyR2N1RWpqXzZweC1pQWNWTVh5Z3B2cnFQdGx2aXF5MGFRbjJJOHU2YXNoaVh0OGl3b296UGFpRkpqOEozLUppRmhpLW0zR0pxMEtSQUZOM3NrRnZsZ19kbndpUGxucmxSOFNtY2tnVklnS3VST3dnSVM3WkQtWEF2cFpuOEppdnFLTlJqS3pLWWFpTVRXXzJOSTc5OFQzY1MtYUE?oc=5"
+        }
+      ]
+    },
     {
       "id": "9cf82a386102",
       "title": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen - AD.nl",
       "published": "2026-06-30T23:01:00+00:00",
-      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NUVaccinatiegraad jonge kinderen in Drenthe stijgt&nbsp;&nbsp;RTV DrentheRIVM-cijfers: Zeeuwse vaccinatiegraad blijft laag, wel meer jongeren met HPV-prik&nbsp;&nbsp;pzc.nlVaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOS",
+      "summary": "Mazelenuitbraak op meer plekken in Nederland: 539 besmettingen terwijl vaccinatiegraad blijft dalen&nbsp;&nbsp;AD.nlVaccinatiegraad daalt verder en blijft zorgwekkend, gemeente maakt zich zorgen&nbsp;&nbsp;Omroep WestVaccinatiegraad baby's en kleuters opnieuw gedaald, wel meer HPV-vaccinaties&nbsp;&nbsp;NUVaccinatiegraad jonge kinderen in Drenthe stijgt&nbsp;&nbsp;RTV DrentheVaccinatiegraad baby's en kleuters weer licht gedaald, onder tieners toegenomen&nbsp;&nbsp;NOS",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ01iRFk5azJFM0ZTMG5TV0MtMzA2WE5jdWdvU0VQWjlyLXFJbDJDMHIwZWVWRl9nWXpnSzMwYmp6MXhvSFVYaTFYQ2Iwa3RkSzNZUXhvZzBxT0I5TFMzdUd3MVpYZlJwei1ibS1mcE53Q1E5QWhsVWFDdmFrOTNUa3BEaW1FRk5mSUVXakhlZ2I4bm5GSGhhdnpSVlNJLUZ1UFBzSWtLbEZndFFnTDI1QUdKWmk3SW1nU082TU8xckp6VkVXSFZFOENZY0loa1ZYSGdr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c23347e05e05",
+      "title": "RIVM waarschuwt voor nieuwe grote dreigingen voor volksgezondheid in Nederland - Hart van Nederland",
+      "published": "2026-06-30T10:06:43+00:00",
+      "summary": "RIVM waarschuwt voor nieuwe grote dreigingen voor volksgezondheid in Nederland&nbsp;&nbsp;Hart van NederlandMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDBkTXBxNTJwTU5GdGZvWnd2dU1ZMmpub3FJTFlYM2NkWFVXUlpHMDdTWkpVbjJJTFlIQ0tZZnhZa0FYaW55R1dVVkYtQTJuWDBVenBMSHJGQTZQUnpraHpWcC13REo0ekE0MmYxdXY4Y0NaODB3NXRSOUZVUnc4eWhWeFprdmVXbXhIUUxBbEdnV3JWejN2NWlqd3E5alVhS2FWUEVUcFhaYVFEZnJVWkotV2Q2X2h4azl1ZDA4VUs0cVdzUFFJa2tR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbc7b20b03d2",
+      "title": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’ - NRC",
+      "published": "2026-06-30T16:27:17+00:00",
+      "summary": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’&nbsp;&nbsp;NRCOverleving kanker verder gestegen, grootste winst in later stadium&nbsp;&nbsp;NUMensen met kanker blijven steeds langer leven: ‘De vooruitzichten bij longkanker waren jarenlang echt hopeloos’&nbsp;&nbsp;de VolkskrantGoed nieuws voor kankerpatiënt: gemiddelde overlevingskans neemt opnieuw toe&nbsp;&nbsp;Reformatorisch DagbladZeven op de tien kankerpatiënten leven vijf jaar n",
+      "sources": [
+        {
+          "name": "NRC",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnkxQW5DYm40NHZFeGE0MzhSeFNIS1BJczhMMVlsR19BNUpqSk5CNjJIdm1nRGFCeW00SmVtZGNoZ2RSa0RiRTJIbmxCRmZuazU2b1FrMUltTTRMMGNWYkFqMVlWa1NLd3pNckJkWXpMdFZ1MDg2clJaYllUcHRZUS01ZnNGc1c3bXlGZDhvOEZZOHBvcW9vdmZNeGtxT05LUEdORjVyLTZxREYycHN4MmFnMHRtOHdwMkdVM280QVpIR3NOYzQtMXpTYkVLdWRzQXhyTHdUaXVPd185a3BKRndtV25RZw?oc=5"
         }
       ]
     },
@@ -28,21 +64,9 @@
       ]
     },
     {
-      "id": "1f18986f7297",
-      "title": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-06-30T16:27:17+00:00",
-      "summary": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOverleving kanker verder gestegen, grootste winst in later stadium&nbsp;&nbsp;NUMensen met kanker blijven steeds langer leven: ‘De vooruitzichten bij longkanker waren jarenlang echt hopeloos’&nbsp;&nbsp;de VolkskrantGoed nieuws voor kankerpatiënt: gemiddelde overlevingskans neemt opnieuw toe&nbsp;&nbsp;Reformatorisch Dagbla",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnkxQW5DYm40NHZFeGE0MzhSeFNIS1BJczhMMVlsR19BNUpqSk5CNjJIdm1nRGFCeW00SmVtZGNoZ2RSa0RiRTJIbmxCRmZuazU2b1FrMUltTTRMMGNWYkFqMVlWa1NLd3pNckJkWXpMdFZ1MDg2clJaYllUcHRZUS01ZnNGc1c3bXlGZDhvOEZZOHBvcW9vdmZNeGtxT05LUEdORjVyLTZxREYycHN4MmFnMHRtOHdwMkdVM280QVpIR3NOYzQtMXpTYkVLdWRzQXhyTHdUaXVPd185a3BKRndtV25RZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "33d5185a53ca",
       "title": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’ - De Telegraaf",
-      "published": "2026-07-01T13:30:00+00:00",
+      "published": "2026-07-01T06:30:00+00:00",
       "summary": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

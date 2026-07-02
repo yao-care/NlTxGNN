@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-02T13:52:11.154346+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-02T19:19:26.332466+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "3e061519fdbe",
-      "title": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt - de Volkskrant",
-      "published": "2026-07-01T16:59:00+00:00",
-      "summary": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSAantal ebolagevallen Congo stijgt naar ruim 1400, uitbraak niet onder controle&nbsp;&nbsp;bnr.nlMenigte steekt Congolees centrum voor ebolapatiënten in brand, politieagent komt om&nbsp;&nbsp;VRTAantal gevallen van ebola in Congo loopt op tot ruim 1400&nbsp;&nbsp;Haarlems Dagblad",
+      "id": "dfd5cd9b73cb",
+      "title": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht - NOS",
+      "published": "2026-07-02T06:56:19+00:00",
+      "summary": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwEbolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantAantal ebolagevallen Congo stijgt naar ruim 1400, uitbraak niet onder controle&nbsp;&nbsp;bnr.nlProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDAtek44TUt1SExFU19UVEZXYVpyR2N1RWpqXzZweC1pQWNWTVh5Z3B2cnFQdGx2aXF5MGFRbjJJOHU2YXNoaVh0OGl3b296UGFpRkpqOEozLUppRmhpLW0zR0pxMEtSQUZOM3NrRnZsZ19kbndpUGxucmxSOFNtY2tnVklnS3VST3dnSVM3WkQtWEF2cFpuOEppdnFLTlJqS3pLWWFpTVRXXzJOSTc5OFQzY1MtYUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f18986f7297",
-      "title": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-06-30T16:27:17+00:00",
-      "summary": "We leven langer bij kanker, ook bij ernstige uitzaaiingen. ‘Je gaat eerder dood mét prostaatkanker dan eráán’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOverleving kanker verder gestegen, grootste winst in later stadium&nbsp;&nbsp;NUMensen met kanker blijven steeds langer leven: ‘De vooruitzichten bij longkanker waren jarenlang echt hopeloos’&nbsp;&nbsp;de VolkskrantGoed nieuws voor kankerpatiënt: gemiddelde overlevingskans neemt opnieuw toe&nbsp;&nbsp;Reformatorisch Dagbla",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnkxQW5DYm40NHZFeGE0MzhSeFNIS1BJczhMMVlsR19BNUpqSk5CNjJIdm1nRGFCeW00SmVtZGNoZ2RSa0RiRTJIbmxCRmZuazU2b1FrMUltTTRMMGNWYkFqMVlWa1NLd3pNckJkWXpMdFZ1MDg2clJaYllUcHRZUS01ZnNGc1c3bXlGZDhvOEZZOHBvcW9vdmZNeGtxT05LUEdORjVyLTZxREYycHN4MmFnMHRtOHdwMkdVM280QVpIR3NOYzQtMXpTYkVLdWRzQXhyTHdUaXVPd185a3BKRndtV25RZw?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc242YkEtS3RaQjA5VWxTbFliYmpSSm1DRVdUQ1VjYVJod0wtTlFvV21rbXg3U2hwUVNaalp3NWYyOVdubG5IOGYxOEo1cl84YXp5ZkRreFVxNDZBZnQ3SUdVT0lDYmY1RGRqUzRFSEtlYVZBa0w4eFo5SWFRa1R4ejlaMlV1Q0oxamk5dGRyUQ?oc=5"
         }
       ]
     },

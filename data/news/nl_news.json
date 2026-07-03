@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-03T13:55:52.655903+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-03T19:15:36.985702+00:00",
+  "count": 4,
   "news": [
     {
       "id": "6a16e5709424",
       "title": "WHO-baas Tedros: uitbraak hantavirus voorbij - NOS",
       "published": "2026-07-03T00:33:28+00:00",
-      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSUitbraak hantavirus is voorbij, zegt Wereldgezondheidsorganisatie&nbsp;&nbsp;AD.nlGeen nieuwe besmettingen: WHO verklaart uitbraak hantavirus voorbij&nbsp;&nbsp;Hart van NederlandWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws",
+      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekUitbraak van hantavirus volgens WHO officieel voorbij&nbsp;&nbsp;Haarlems DagbladTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws.nlUitbraak hantavirus is voorbij, aldus WHO&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
           "name": "NOS",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "dfd5cd9b73cb",
-      "title": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht - NOS",
-      "published": "2026-07-02T06:56:19+00:00",
-      "summary": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwEbolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "id": "1c0c2f741c4d",
+      "title": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’ - Metronieuws.nl",
+      "published": "2026-07-03T10:58:00+00:00",
+      "summary": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc242YkEtS3RaQjA5VWxTbFliYmpSSm1DRVdUQ1VjYVJod0wtTlFvV21rbXg3U2hwUVNaalp3NWYyOVdubG5IOGYxOEo1cl84YXp5ZkRreFVxNDZBZnQ3SUdVT0lDYmY1RGRqUzRFSEtlYVZBa0w4eFo5SWFRa1R4ejlaMlV1Q0oxamk5dGRyUQ?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnFXSTduaHF6cFQtVG1GWVY3d2tVcmxmSl9zR3RhVTVNOGpPMEhoZk9MN3hHUjllTHN0N3ZfX21LYXNYRGZTS0FETUhwcktLVWxUb2ptWURMR1p4OWo3Z01zSU1XV2ZpTEljZWpQcm10ckxHMWlGNm9sc29adFhacE0xajQyeDRaUlhNQi1UaEtzYlh2MUdFUS1xTQ?oc=5"
         }
       ]
     },
@@ -36,6 +36,18 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjVRZjJjeHlqcFp0UFNvUm1DdWNoUkZXcm9rWkRwam9LWVMyTFJYQm5NYXl6Tzh0LW1zV2VpZENFUi04cUhDZkkzM01ybFhNVHpQSUNSSFlDQnQyMV9YbHAzdFcxb0kzQ3dBTEdETk83bkU5UVE1MFUyMGxyRlBhWDE1ZTVpSlFVQVhwM1E2VWlnMzg3SzJ0N0VZOXA3ZkYxQUYwM1VoQnptUGRkaEN2a3ZJVnlzWGw2VVMtOTdFNEstdG54R2hRT0w2dGFDYlBSTmxnYlBYdWdIbmQ0NXN1WGNnTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12caee6e9afb",
+      "title": "Kans op hartaanval fors gedaald bij 40-plussers met obesitas. Expert: “Zonder twijfel goed nieuws, maar tegelijk ook wake-upcall” - HLN",
+      "published": "2026-07-02T05:01:18+00:00",
+      "summary": "Kans op hartaanval fors gedaald bij 40-plussers met obesitas. Expert: “Zonder twijfel goed nieuws, maar tegelijk ook wake-upcall”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOajl6aXFseUZ4THFPQ0g1VnpadlRzS0NKTUZlZ2Z1dEJCdklMQzlMcGh2X1JONURWM2N0NEhybkg5ZU1ZdlhWVnNpMnBwZks0VGJKRmRvQXdkOFdtVUNNdkNCT1pWQmVqM3oyNUp2a0FzM3A5czNsdE84WVRUUDZZeTV5OUVQcGpfcTJVajRva281Z0I0NFBwcUlpYm1LYXA1YWdid1VHaWVlUkJNV3EzMW55ZVlsbVVxV0wtdVU2aFVkM05PUEJWT0t4U25Wb3dGLVBvZDVNRmNNZVZKb2Z3WGJXLU1LeTkwSmZ2ek5vVmFkQ2hTLWI4?oc=5"
         }
       ]
     }

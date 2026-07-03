@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-03T08:57:14.582584+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-03T13:55:52.655903+00:00",
+  "count": 3,
   "news": [
     {
       "id": "6a16e5709424",
       "title": "WHO-baas Tedros: uitbraak hantavirus voorbij - NOS",
       "published": "2026-07-03T00:33:28+00:00",
-      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSGeen nieuwe besmettingen: WHO verklaart uitbraak hantavirus voorbij&nbsp;&nbsp;Hart van NederlandUitbraak hantavirus is voorbij, zegt Wereldgezondheidsorganisatie&nbsp;&nbsp;AD.nlWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws",
+      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSUitbraak hantavirus is voorbij, zegt Wereldgezondheidsorganisatie&nbsp;&nbsp;AD.nlGeen nieuwe besmettingen: WHO verklaart uitbraak hantavirus voorbij&nbsp;&nbsp;Hart van NederlandWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws",
       "sources": [
         {
           "name": "NOS",
@@ -16,26 +16,14 @@
       ]
     },
     {
-      "id": "3e061519fdbe",
-      "title": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt - de Volkskrant",
-      "published": "2026-07-01T16:59:00+00:00",
-      "summary": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "id": "dfd5cd9b73cb",
+      "title": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht - NOS",
+      "published": "2026-07-02T06:56:19+00:00",
+      "summary": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwEbolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDAtek44TUt1SExFU19UVEZXYVpyR2N1RWpqXzZweC1pQWNWTVh5Z3B2cnFQdGx2aXF5MGFRbjJJOHU2YXNoaVh0OGl3b296UGFpRkpqOEozLUppRmhpLW0zR0pxMEtSQUZOM3NrRnZsZ19kbndpUGxucmxSOFNtY2tnVklnS3VST3dnSVM3WkQtWEF2cFpuOEppdnFLTlJqS3pLWWFpTVRXXzJOSTc5OFQzY1MtYUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b762aebf270",
-      "title": "Myriam vond een effectieve behandeling tegen darmkanker - Libelle",
-      "published": "2026-07-01T12:01:32+00:00",
-      "summary": "Myriam vond een effectieve behandeling tegen darmkanker&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUTVUcUQxbGREZkNUXzkwcV9KNG4xMEsycHhSM2loZTAtZVIxV1lzLU12c3d4WTdISVgxTk1oVUZNM1JrRmFBWEU5QjQ0TFpqUGhSM21fQXdlWXVsMG5kYTJCMHAwV2JGSzd0MG9ybGhFVHhSOVJ1QnR5S0t0T2xsX0tBaXZZR0FKVnQtUXBPenRyZDNSUW1RVFpR?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc242YkEtS3RaQjA5VWxTbFliYmpSSm1DRVdUQ1VjYVJod0wtTlFvV21rbXg3U2hwUVNaalp3NWYyOVdubG5IOGYxOEo1cl84YXp5ZkRreFVxNDZBZnQ3SUdVT0lDYmY1RGRqUzRFSEtlYVZBa0w4eFo5SWFRa1R4ejlaMlV1Q0oxamk5dGRyUQ?oc=5"
         }
       ]
     },

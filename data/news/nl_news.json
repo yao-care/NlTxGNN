@@ -1,36 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-02T19:19:26.332466+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-03T02:38:51.535322+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "dfd5cd9b73cb",
-      "title": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht - NOS",
-      "published": "2026-07-02T06:56:19+00:00",
-      "summary": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwEbolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantAantal ebolagevallen Congo stijgt naar ruim 1400, uitbraak niet onder controle&nbsp;&nbsp;bnr.nlProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "id": "3e061519fdbe",
+      "title": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt - de Volkskrant",
+      "published": "2026-07-01T16:59:00+00:00",
+      "summary": "Ebolavirus verspreidt zich verder door Congo, vierde provincie bereikt&nbsp;&nbsp;de VolkskrantDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwAantal ebolagevallen Congo stijgt naar ruim 1400, uitbraak niet onder controle&nbsp;&nbsp;bnr.nlProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc242YkEtS3RaQjA5VWxTbFliYmpSSm1DRVdUQ1VjYVJod0wtTlFvV21rbXg3U2hwUVNaalp3NWYyOVdubG5IOGYxOEo1cl84YXp5ZkRreFVxNDZBZnQ3SUdVT0lDYmY1RGRqUzRFSEtlYVZBa0w4eFo5SWFRa1R4ejlaMlV1Q0oxamk5dGRyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81bf0dc9b2d4",
-      "title": "Waarom heeft het ene kind wel adhd, en het andere niet? Onderzoeker Dorret Boomsma (68) is dé expert op het gebied van tweelingen: ‘Het speurwerk is leuk’ - Het Parool",
-      "published": "2026-07-01T01:00:00+00:00",
-      "summary": "Waarom heeft het ene kind wel adhd, en het andere niet? Onderzoeker Dorret Boomsma (68) is dé expert op het gebied van tweelingen: ‘Het speurwerk is leuk’&nbsp;&nbsp;Het ParoolHoe tweelingonderzoek onze kijk op de mens radicaal veranderde&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOT2tJZ1lJdG1SOUJrM0s0MXMxSlg0X0hqVFE3NUFPZXNaaWVyenRMVEVpanM2WWxjSDBnWUhNRDJJUWFHaDVyTDQtRzlTbUg4ZDF3ZmNwbzVwci1aRmRCckN0MkpWTlFtT2w4UnBCVFpBdjFxdFJIbTZNdzJhTlVGWGJNaTBzeUQ2aGM4bGUtSnhyRmhUWWFCZXdfb2RNbWFDQ21yZnIxd2YtQWc3MlpJTlA5WjNOYkF4ZllpUHN6VFA4OTRPOVpuSjdKRV8xaTBGWlN5SkZqdk9QQXZjRGllV1VTaWp1U0l3R3R0eGVUZHJKSlU2eVdLLXgxX2hZU3hxUEFrOUFzbmFJcGp2c29nWE54TDFsYk5EVVE?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDAtek44TUt1SExFU19UVEZXYVpyR2N1RWpqXzZweC1pQWNWTVh5Z3B2cnFQdGx2aXF5MGFRbjJJOHU2YXNoaVh0OGl3b296UGFpRkpqOEozLUppRmhpLW0zR0pxMEtSQUZOM3NrRnZsZ19kbndpUGxucmxSOFNtY2tnVklnS3VST3dnSVM3WkQtWEF2cFpuOEppdnFLTlJqS3pLWWFpTVRXXzJOSTc5OFQzY1MtYUE?oc=5"
         }
       ]
     },
     {
       "id": "33d5185a53ca",
       "title": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’ - De Telegraaf",
-      "published": "2026-07-01T06:30:00+00:00",
+      "published": "2026-07-01T13:30:00+00:00",
       "summary": "Opgeblazen gevoel meestbesproken kwaal bij maag-darmarts: ’Ik zie mensen onnodig extreme diëten uitproberen’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-04T08:32:01.889550+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-04T13:17:13.553449+00:00",
+  "count": 4,
   "news": [
     {
       "id": "4fc23ee34f12",
@@ -12,18 +12,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDJ2UndsVWU4aDNyTVNOaDVJdFJKSm81VWFldTExU3FBMUpIUTg5blpYME41Z2g0OG1TU0ZPREFrU0ZCQURnMy0xdEw0YWpTVG4tYWVRZ3VXcDREcnBoeVhBS2V5UmpNeFg0ZjZTem00MU04MGQ2NkJJLXRSaFhjY2JZVk1yaGJKYjZqbVQyenlxeUZ6a1VjQnRBaGNUSG01alVUdUFoRXNCNVJQckt0bVJwb3Rrck9RLXJ6TEgyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a16e5709424",
-      "title": "WHO-baas Tedros: uitbraak hantavirus voorbij - NOS",
-      "published": "2026-07-03T00:33:28+00:00",
-      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws.nlUitbraak van hantavirus volgens WHO officieel voorbij&nbsp;&nbsp;Haarlems DagbladWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekUitbraak hantavirus is voorbij, aldus WHO&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUTNySXBlUnZXXzZseUdYREstQ3RXNHNUZkRwSHFxUWVIZklGc2l4a3ozX1pITjNSRDROVTVnOC1pMUxuNDV6QUx1R1VZVXN3WHFHb2hNMGRKWGxZbVVpVnc2cHNkYVZYVU5nTmRCclBxajA0SDJmTUpsclNpXzg?oc=5"
         }
       ]
     },
@@ -52,14 +40,14 @@
       ]
     },
     {
-      "id": "2e5c93bca87b",
-      "title": "Neuroloog John van Swieten: ‘De meesten willen het niet weten, net omdat er nog geen behandeling is’ - De Morgen",
-      "published": "2026-07-02T08:00:00+00:00",
-      "summary": "Neuroloog John van Swieten: ‘De meesten willen het niet weten, net omdat er nog geen behandeling is’&nbsp;&nbsp;De Morgen",
+      "id": "e73e664e6365",
+      "title": "Zo ontdekte Evy (45) haar zeldzame vorm van borstkanker: “‘Maak je geen zorgen’, zeiden ze. Maar mijn buikgevoel vertelde iets anders” - HLN",
+      "published": "2026-07-04T03:38:16+00:00",
+      "summary": "Zo ontdekte Evy (45) haar zeldzame vorm van borstkanker: “‘Maak je geen zorgen’, zeiden ze. Maar mijn buikgevoel vertelde iets anders”&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlpOTFRFcVZlTmhOTUtUUlZmbFFqdzQybXJDLUIxNnJ3UkZIV0RfY0M5Tkc0N1JuUXQ1NGd0bG90TXR5UzVKQ1FTSUJhQWlvSlNFaXVHc09MRzNJbzBGbXk5RXV1YVA2WVNBWWtYNXVLOUdkMUdkS24xODZsQjRtTWh2cFhSWUtGbHNkcHByem1UalYwT1JNS3BWZGlCVkFTWEpqcHhiUGRtRlhxZ0ZCbm1yN2ZUTkZxZHVGcmZESURXVFBWdUJ1RzFnLWNRb3dCVUlUY3NhLXozUQ?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcWVoaGc2ejdJX01RdXR0UHRPZGRGb1RvTFNFYy1uNEM3UVRsX2V0MVc4NmR6b2NoNmNjYk1XX1FvSE42TGd2V3E0Z0V1S1RQTi1QMDZ5Y3FsTVBlcncxU3lfeXBzcDlnamRjd3pjakNpcFQ2a3hqcEZRLS1OVWRTLWw0QmFkcGFYOXAxcF9fWFNNMFR4QlNjNW5aanplN2ZFTVpCNVlWUGVMa3I0YTU1aUM4UG1ENGpGNzQzeEVzclBCdFQ3aDNINEpTTHBMa1RtU1lxMkI5TE9zQVNlTUowcXl6ZjVWWHNjbGZSWkRaV1hmTEtEY29sRXRKOA?oc=5"
         }
       ]
     }

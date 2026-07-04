@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-04T02:35:26.319081+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-04T08:32:01.889550+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "5273f7bfc5e5",
-      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden - AD.nl",
+      "id": "4fc23ee34f12",
+      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden - AD.nl",
       "published": "2026-07-03T13:08:00+00:00",
-      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeW9uZEpxaHYzcFBEcWxOdDloVjd4cFpWbHJsWWhka3M0ZU9uNWZoeWZsTHlydXNkelBVTE1SZ0FyVm5aZXRVQWltQVZEWUc2aWM0OHRIMFVtWDF1M2szLWo2OGJ0TXFEUmZUYjFDem1QbjVPVEc3OGVvYjJzdlh0OFoxenN4dC1jRUhycXRmNmlwZnkzaE9Qc0JUQm9JTXNSZEVIa1JUTXZWVlNzMW1ZUXpZVDVoWURDOGc0ZVFWeUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDJ2UndsVWU4aDNyTVNOaDVJdFJKSm81VWFldTExU3FBMUpIUTg5blpYME41Z2g0OG1TU0ZPREFrU0ZCQURnMy0xdEw0YWpTVG4tYWVRZ3VXcDREcnBoeVhBS2V5UmpNeFg0ZjZTem00MU04MGQ2NkJJLXRSaFhjY2JZVk1yaGJKYjZqbVQyenlxeUZ6a1VjQnRBaGNUSG01alVUdUFoRXNCNVJQckt0bVJwb3Rrck9RLXJ6TEgyUQ?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "Ouders van Nu",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlNJOGRfTzlEbi1uMzJzaE50TWZyTDRBa0R1R3Jid014VW53eTZMWUd0MmQ4RHQtN3VoN2RHdTBqU2M5TzFsQnBaa2VEV09KanRnaXZrTEozaWQxVjNnMUxLUXRncmoyU251dGJTVU5sS3I1SlRDV3VYS1VJYTF2X2dfQkpPR3pYUFBtOHVRSE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e5c93bca87b",
+      "title": "Neuroloog John van Swieten: ‘De meesten willen het niet weten, net omdat er nog geen behandeling is’ - De Morgen",
+      "published": "2026-07-02T08:00:00+00:00",
+      "summary": "Neuroloog John van Swieten: ‘De meesten willen het niet weten, net omdat er nog geen behandeling is’&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlpOTFRFcVZlTmhOTUtUUlZmbFFqdzQybXJDLUIxNnJ3UkZIV0RfY0M5Tkc0N1JuUXQ1NGd0bG90TXR5UzVKQ1FTSUJhQWlvSlNFaXVHc09MRzNJbzBGbXk5RXV1YVA2WVNBWWtYNXVLOUdkMUdkS24xODZsQjRtTWh2cFhSWUtGbHNkcHByem1UalYwT1JNS3BWZGlCVkFTWEpqcHhiUGRtRlhxZ0ZCbm1yN2ZUTkZxZHVGcmZESURXVFBWdUJ1RzFnLWNRb3dCVUlUY3NhLXozUQ?oc=5"
         }
       ]
     }

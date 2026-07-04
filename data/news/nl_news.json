@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-03T19:15:36.985702+00:00",
+  "fetched_at": "2026-07-04T02:35:26.319081+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "5273f7bfc5e5",
+      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden - AD.nl",
+      "published": "2026-07-03T13:08:00+00:00",
+      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeW9uZEpxaHYzcFBEcWxOdDloVjd4cFpWbHJsWWhka3M0ZU9uNWZoeWZsTHlydXNkelBVTE1SZ0FyVm5aZXRVQWltQVZEWUc2aWM0OHRIMFVtWDF1M2szLWo2OGJ0TXFEUmZUYjFDem1QbjVPVEc3OGVvYjJzdlh0OFoxenN4dC1jRUhycXRmNmlwZnkzaE9Qc0JUQm9JTXNSZEVIa1JUTXZWVlNzMW1ZUXpZVDVoWURDOGc0ZVFWeUU?oc=5"
+        }
+      ]
+    },
     {
       "id": "6a16e5709424",
       "title": "WHO-baas Tedros: uitbraak hantavirus voorbij - NOS",
       "published": "2026-07-03T00:33:28+00:00",
-      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekUitbraak van hantavirus volgens WHO officieel voorbij&nbsp;&nbsp;Haarlems DagbladTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws.nlUitbraak hantavirus is voorbij, aldus WHO&nbsp;&nbsp;de Volkskrant",
+      "summary": "WHO-baas Tedros: uitbraak hantavirus voorbij&nbsp;&nbsp;NOSTopman WHO over het hantavirus: ‘Uitbraak is voorbij, meer inzicht krijgen in de oorzaak’&nbsp;&nbsp;Metronieuws.nlUitbraak van hantavirus volgens WHO officieel voorbij&nbsp;&nbsp;Haarlems DagbladWHO: Uitbraak Hantavirus officieel voorbij, twee mensen worden nog medisch behandeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekUitbraak hantavirus is voorbij, aldus WHO&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
           "name": "NOS",
@@ -28,26 +40,14 @@
       ]
     },
     {
-      "id": "0ca21ebc197c",
-      "title": "Wetenschapper achter nieuw onderzoek: Bepaalde voedingsmiddelen kunnen je darmen gezond houden en je tegen ziekten beschermen - wibnet.nl",
-      "published": "2026-07-01T20:00:37+00:00",
-      "summary": "Wetenschapper achter nieuw onderzoek: Bepaalde voedingsmiddelen kunnen je darmen gezond houden en je tegen ziekten beschermen&nbsp;&nbsp;wibnet.nl",
+      "id": "cc5a36cd13f5",
+      "title": "De must-haves van tandarts Samantha Sastroredjo: ‘Veel ouders weten niet dat kinderen ook moeten flossen’ - Ouders van Nu",
+      "published": "2026-07-03T17:03:48+00:00",
+      "summary": "De must-haves van tandarts Samantha Sastroredjo: ‘Veel ouders weten niet dat kinderen ook moeten flossen’&nbsp;&nbsp;Ouders van Nu",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjVRZjJjeHlqcFp0UFNvUm1DdWNoUkZXcm9rWkRwam9LWVMyTFJYQm5NYXl6Tzh0LW1zV2VpZENFUi04cUhDZkkzM01ybFhNVHpQSUNSSFlDQnQyMV9YbHAzdFcxb0kzQ3dBTEdETk83bkU5UVE1MFUyMGxyRlBhWDE1ZTVpSlFVQVhwM1E2VWlnMzg3SzJ0N0VZOXA3ZkYxQUYwM1VoQnptUGRkaEN2a3ZJVnlzWGw2VVMtOTdFNEstdG54R2hRT0w2dGFDYlBSTmxnYlBYdWdIbmQ0NXN1WGNnTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12caee6e9afb",
-      "title": "Kans op hartaanval fors gedaald bij 40-plussers met obesitas. Expert: “Zonder twijfel goed nieuws, maar tegelijk ook wake-upcall” - HLN",
-      "published": "2026-07-02T05:01:18+00:00",
-      "summary": "Kans op hartaanval fors gedaald bij 40-plussers met obesitas. Expert: “Zonder twijfel goed nieuws, maar tegelijk ook wake-upcall”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOajl6aXFseUZ4THFPQ0g1VnpadlRzS0NKTUZlZ2Z1dEJCdklMQzlMcGh2X1JONURWM2N0NEhybkg5ZU1ZdlhWVnNpMnBwZks0VGJKRmRvQXdkOFdtVUNNdkNCT1pWQmVqM3oyNUp2a0FzM3A5czNsdE84WVRUUDZZeTV5OUVQcGpfcTJVajRva281Z0I0NFBwcUlpYm1LYXA1YWdid1VHaWVlUkJNV3EzMW55ZVlsbVVxV0wtdVU2aFVkM05PUEJWT0t4U25Wb3dGLVBvZDVNRmNNZVZKb2Z3WGJXLU1LeTkwSmZ2ek5vVmFkQ2hTLWI4?oc=5"
+          "name": "Ouders van Nu",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlNJOGRfTzlEbi1uMzJzaE50TWZyTDRBa0R1R3Jid014VW53eTZMWUd0MmQ4RHQtN3VoN2RHdTBqU2M5TzFsQnBaa2VEV09KanRnaXZrTEozaWQxVjNnMUxLUXRncmoyU251dGJTVU5sS3I1SlRDV3VYS1VJYTF2X2dfQkpPR3pYUFBtOHVRSE4?oc=5"
         }
       ]
     }

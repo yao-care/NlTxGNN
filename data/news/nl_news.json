@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-04T19:05:52.838087+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-05T02:45:58.995520+00:00",
+  "count": 5,
   "news": [
     {
       "id": "4fc23ee34f12",
       "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden - AD.nl",
       "published": "2026-07-03T13:08:00+00:00",
-      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Plexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;TrouwProef met twee mogelijke ebola-behandelingen van start in Congo&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSDoe de ebolacijfers maar keer drie of vier, zegt tropenarts Mark Godeschalk&nbsp;&nbsp;Reformatorisch DagbladPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDJ2UndsVWU4aDNyTVNOaDVJdFJKSm81VWFldTExU3FBMUpIUTg5blpYME41Z2g0OG1TU0ZPREFrU0ZCQURnMy0xdEw0YWpTVG4tYWVRZ3VXcDREcnBoeVhBS2V5UmpNeFg0ZjZTem00MU04MGQ2NkJJLXRSaFhjY2JZVk1yaGJKYjZqbVQyenlxeUZ6a1VjQnRBaGNUSG01alVUdUFoRXNCNVJQckt0bVJwb3Rrck9RLXJ6TEgyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c4f10a62049",
+      "title": "Stoppen als je eenmaal begonnen bent met Ozempic? Dat is niet makkelijk, waarschuwt obesitas-arts - quest.nl",
+      "published": "2026-07-04T06:01:07+00:00",
+      "summary": "Stoppen als je eenmaal begonnen bent met Ozempic? Dat is niet makkelijk, waarschuwt obesitas-arts&nbsp;&nbsp;quest.nlDe Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken&nbsp;&nbsp;NOSWe benaderen onze lieve lichamen nu als doe-het-zelfprojecten&nbsp;&nbsp;TrouwBijwerkingen van Ozempic en vergelijkbare middelen onderzocht&nbsp;&nbsp;NieuwslensSteeds meer tieners gebruiken Ozempic, maar niemand weet wat de langetermijneffecten zijn&nbsp;&nbsp;National Geographic",
+      "sources": [
+        {
+          "name": "quest.nl",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWMtNU13WWdjQUlJOVo0d0NqMUZPR1FLdHpYTG5XQ2x2WkRUUXRmUFZ4MGwybkluRjdrSE5tN2FLS2VFeC1kMldFTEh0Q005ZUtNQ3hna2hUQXhZaGZ4SEhzX0RheWxyaVdfSVAxVVgzSVg5ZlBCRWNUWWtEb01PdU5n?oc=5"
         }
       ]
     },
@@ -30,7 +42,7 @@
     {
       "id": "1c0c2f741c4d",
       "title": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’ - Metronieuws.nl",
-      "published": "2026-07-03T10:58:00+00:00",
+      "published": "2026-07-03T16:57:53+00:00",
       "summary": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {

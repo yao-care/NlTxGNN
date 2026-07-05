@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-05T02:45:58.995520+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-05T08:48:06.295882+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "ac217de7f8f7",
+      "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
+      "published": "2026-07-05T06:54:32+00:00",
+      "summary": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fba0c112b93f",
+      "title": "Franse arts die uit Congo terugkeerde met ebolabesmetting is hiervan hersteld - NU",
+      "published": "2026-07-04T19:34:28+00:00",
+      "summary": "Franse arts die uit Congo terugkeerde met ebolabesmetting is hiervan hersteld&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDVPczBQTU4tejlmd00wa3Uzb2pVTzhKNDh4SzVMcUN3c1NjM1R5dW9mRnRMSDVVYWFOVjFkeFJLME9iYUdTSWhPcHJGbXF0VnJnUjdOS2lkcTlkYmRwRWZKdTZsMlRWWlR2dDNrNExTWHRZTXhfZUhELW5XZVE3SDcxZnV3enJGZ29sYmlRaENNbWh5aHJIWkZnNXFSNjVWZUljckZnUVFVZ3o3VmNGa1NMdFVOeS1GSFJz?oc=5"
+        }
+      ]
+    },
     {
       "id": "4fc23ee34f12",
       "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden - AD.nl",
@@ -30,12 +54,24 @@
     {
       "id": "9f13ebee06ae",
       "title": "Studie: eierstokken ontwikkelen zich tot onderdeel immuunsysteem nadat voortplantingsfunctie eindigt - bnr.nl",
-      "published": "2026-07-04T10:11:23+00:00",
+      "published": "2026-07-04T10:11:00+00:00",
       "summary": "Studie: eierstokken ontwikkelen zich tot onderdeel immuunsysteem nadat voortplantingsfunctie eindigt&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdVVjVmFnSmNsR0pvSEdvd1FKLUJyUlJpN2JILU4ydVBOdlhncEdCa0JpVFdfZWpfV1BqTXd1dThSeEVrNWE1bXpiSklYQ0t5RUVXZWFjSXFIRWZoOXo0cTduUS1sdm5aczQxNS04STJPWV8ySnZRd3ZKbTRDVDhpNDNoalZ4NEZaNTdqVGZZTk5oeklISFhqQUY1S0g1TTBnRFk2R2ppM0FTdmQ3SFE0Vm1TNmlOblJzYTNxY0Rzb0hTRFJHMmMtdEF6eEZ4Z05yd2NjR3c3NkFHQkxy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad525ba898dc",
+      "title": "Plasklachten bij mannen: wanneer naar de huisarts? - Welingelichte Kringen",
+      "published": "2026-07-04T08:48:25+00:00",
+      "summary": "Plasklachten bij mannen: wanneer naar de huisarts?&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1RpUnotNDdQWXVyTlVOeWdIOXpyQTNpU0tac3VubTN1NjJNcWpiV0Rkd1VFb3JMcEE0RVlfOW5jc3ZQYlpIdTc2WlIxZmhjUEJxc0g0UDAtMlJ3SEU5cnRzYWRxbHNOM1VpNmYtc0JxQlZMM0ZwNGZOVUR3VkhKbmpXWmNaLUc0SlFqbEo3R01HSXZPVVBVZHRWQQ?oc=5"
         }
       ]
     },

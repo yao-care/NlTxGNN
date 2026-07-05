@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-05T13:23:37.299126+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-05T19:12:23.870591+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "5273f7bfc5e5",
-      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden - AD.nl",
-      "published": "2026-07-03T13:08:00+00:00",
-      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlAantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Doe de ebolacijfers maar keer drie of vier, zegt tropenarts Mark Godeschalk&nbsp;&nbsp;Reformatorisch DagbladDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOS",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeW9uZEpxaHYzcFBEcWxOdDloVjd4cFpWbHJsWWhka3M0ZU9uNWZoeWZsTHlydXNkelBVTE1SZ0FyVm5aZXRVQWltQVZEWUc2aWM0OHRIMFVtWDF1M2szLWo2OGJ0TXFEUmZUYjFDem1QbjVPVEc3OGVvYjJzdlh0OFoxenN4dC1jRUhycXRmNmlwZnkzaE9Qc0JUQm9JTXNSZEVIa1JUTXZWVlNzMW1ZUXpZVDVoWURDOGc0ZVFWeUU?oc=5"
-        }
-      ]
-    },
     {
       "id": "ac217de7f8f7",
       "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
@@ -72,18 +60,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1RpUnotNDdQWXVyTlVOeWdIOXpyQTNpU0tac3VubTN1NjJNcWpiV0Rkd1VFb3JMcEE0RVlfOW5jc3ZQYlpIdTc2WlIxZmhjUEJxc0g0UDAtMlJ3SEU5cnRzYWRxbHNOM1VpNmYtc0JxQlZMM0ZwNGZOVUR3VkhKbmpXWmNaLUc0SlFqbEo3R01HSXZPVVBVZHRWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc5a36cd13f5",
-      "title": "De must-haves van tandarts Samantha Sastroredjo: ‘Veel ouders weten niet dat kinderen ook moeten flossen’ - Ouders van Nu",
-      "published": "2026-07-03T17:03:48+00:00",
-      "summary": "De must-haves van tandarts Samantha Sastroredjo: ‘Veel ouders weten niet dat kinderen ook moeten flossen’&nbsp;&nbsp;Ouders van Nu",
-      "sources": [
-        {
-          "name": "Ouders van Nu",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlNJOGRfTzlEbi1uMzJzaE50TWZyTDRBa0R1R3Jid014VW53eTZMWUd0MmQ4RHQtN3VoN2RHdTBqU2M5TzFsQnBaa2VEV09KanRnaXZrTEozaWQxVjNnMUxLUXRncmoyU251dGJTVU5sS3I1SlRDV3VYS1VJYTF2X2dfQkpPR3pYUFBtOHVRSE4?oc=5"
         }
       ]
     }

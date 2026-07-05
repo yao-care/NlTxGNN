@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-05T08:48:06.295882+00:00",
-  "count": 8,
+  "fetched_at": "2026-07-05T13:23:37.299126+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "5273f7bfc5e5",
+      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden - AD.nl",
+      "published": "2026-07-03T13:08:00+00:00",
+      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlAantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Doe de ebolacijfers maar keer drie of vier, zegt tropenarts Mark Godeschalk&nbsp;&nbsp;Reformatorisch DagbladDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeW9uZEpxaHYzcFBEcWxOdDloVjd4cFpWbHJsWWhka3M0ZU9uNWZoeWZsTHlydXNkelBVTE1SZ0FyVm5aZXRVQWltQVZEWUc2aWM0OHRIMFVtWDF1M2szLWo2OGJ0TXFEUmZUYjFDem1QbjVPVEc3OGVvYjJzdlh0OFoxenN4dC1jRUhycXRmNmlwZnkzaE9Qc0JUQm9JTXNSZEVIa1JUTXZWVlNzMW1ZUXpZVDVoWURDOGc0ZVFWeUU?oc=5"
+        }
+      ]
+    },
     {
       "id": "ac217de7f8f7",
       "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
@@ -12,30 +24,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fba0c112b93f",
-      "title": "Franse arts die uit Congo terugkeerde met ebolabesmetting is hiervan hersteld - NU",
-      "published": "2026-07-04T19:34:28+00:00",
-      "summary": "Franse arts die uit Congo terugkeerde met ebolabesmetting is hiervan hersteld&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDVPczBQTU4tejlmd00wa3Uzb2pVTzhKNDh4SzVMcUN3c1NjM1R5dW9mRnRMSDVVYWFOVjFkeFJLME9iYUdTSWhPcHJGbXF0VnJnUjdOS2lkcTlkYmRwRWZKdTZsMlRWWlR2dDNrNExTWHRZTXhfZUhELW5XZVE3SDcxZnV3enJGZ29sYmlRaENNbWh5aHJIWkZnNXFSNjVWZUljckZnUVFVZ3o3VmNGa1NMdFVOeS1GSFJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4fc23ee34f12",
-      "title": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden - AD.nl",
-      "published": "2026-07-03T13:08:00+00:00",
-      "summary": "Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Dode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSDoe de ebolacijfers maar keer drie of vier, zegt tropenarts Mark Godeschalk&nbsp;&nbsp;Reformatorisch DagbladPlexiglas en dure handalcohol: het Congolese Beni bereidt zich voor op ebola&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDJ2UndsVWU4aDNyTVNOaDVJdFJKSm81VWFldTExU3FBMUpIUTg5blpYME41Z2g0OG1TU0ZPREFrU0ZCQURnMy0xdEw0YWpTVG4tYWVRZ3VXcDREcnBoeVhBS2V5UmpNeFg0ZjZTem00MU04MGQ2NkJJLXRSaFhjY2JZVk1yaGJKYjZqbVQyenlxeUZ6a1VjQnRBaGNUSG01alVUdUFoRXNCNVJQckt0bVJwb3Rrck9RLXJ6TEgyUQ?oc=5"
         }
       ]
     },
@@ -52,14 +40,26 @@
       ]
     },
     {
-      "id": "9f13ebee06ae",
-      "title": "Studie: eierstokken ontwikkelen zich tot onderdeel immuunsysteem nadat voortplantingsfunctie eindigt - bnr.nl",
-      "published": "2026-07-04T10:11:00+00:00",
-      "summary": "Studie: eierstokken ontwikkelen zich tot onderdeel immuunsysteem nadat voortplantingsfunctie eindigt&nbsp;&nbsp;bnr.nl",
+      "id": "cab74a23166f",
+      "title": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten - bnr.nl",
+      "published": "2026-07-05T05:33:22+00:00",
+      "summary": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker bij vijf kopjes per dag&nbsp;&nbsp;HLNNieuwe bevindingen over de effecten van koffiedrinken.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdVVjVmFnSmNsR0pvSEdvd1FKLUJyUlJpN2JILU4ydVBOdlhncEdCa0JpVFdfZWpfV1BqTXd1dThSeEVrNWE1bXpiSklYQ0t5RUVXZWFjSXFIRWZoOXo0cTduUS1sdm5aczQxNS04STJPWV8ySnZRd3ZKbTRDVDhpNDNoalZ4NEZaNTdqVGZZTk5oeklISFhqQUY1S0g1TTBnRFk2R2ppM0FTdmQ3SFE0Vm1TNmlOblJzYTNxY0Rzb0hTRFJHMmMtdEF6eEZ4Z05yd2NjR3c3NkFHQkxy?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVndkYlFqSUVFYkVza1d3TWEzT0wydS1FcGl2Q2NTdXpJQ1pvSUNRVGZVa1ZvQmFfSHctTWVJV0Uzd21RMFNtNzBNSmd1OC1rS2E1Q1ZoR0owazN5cWVlc0hBSlcwUXVkMkpoSnA4MEdPM0VvYU9ULU5KaTMxaTFPcjQ4aHFMYnFVbkhjVnNTVmJFQnN6RVVFaThQaGEzMjdGTkJrLVNOd1prdVVwOUpKenYxQ1A?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1811a024793",
+      "title": "Eerste ziekenhuis introduceert glutenvrije bloedtransfusie - Nieuwspaal",
+      "published": "2026-07-04T19:22:38+00:00",
+      "summary": "Eerste ziekenhuis introduceert glutenvrije bloedtransfusie&nbsp;&nbsp;Nieuwspaal",
+      "sources": [
+        {
+          "name": "Nieuwspaal",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGhLRzRqOUpEX044dURmeFJtNnIzamxJSk1GZVFtNEh0dzBsVC1CZm5WbElmQnNrTEJBUzBSU3VRMDQ5Z0JxNTh1dmt6SGNhLTR4WjRNaXNINFhOMEh1T2ZvVzVhdjJ6Y2NIc0VybmJpT3ZLendkRURqclItVEdRRkNsbVl5Y0lr?oc=5"
         }
       ]
     },
@@ -72,18 +72,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1RpUnotNDdQWXVyTlVOeWdIOXpyQTNpU0tac3VubTN1NjJNcWpiV0Rkd1VFb3JMcEE0RVlfOW5jc3ZQYlpIdTc2WlIxZmhjUEJxc0g0UDAtMlJ3SEU5cnRzYWRxbHNOM1VpNmYtc0JxQlZMM0ZwNGZOVUR3VkhKbmpXWmNaLUc0SlFqbEo3R01HSXZPVVBVZHRWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c0c2f741c4d",
-      "title": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’ - Metronieuws.nl",
-      "published": "2026-07-03T16:57:53+00:00",
-      "summary": "Heeft Ozempic echt invloed op mentale gezondheid? ‘Het was alsof alle joy was verdwenen’&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnFXSTduaHF6cFQtVG1GWVY3d2tVcmxmSl9zR3RhVTVNOGpPMEhoZk9MN3hHUjllTHN0N3ZfX21LYXNYRGZTS0FETUhwcktLVWxUb2ptWURMR1p4OWo3Z01zSU1XV2ZpTEljZWpQcm10ckxHMWlGNm9sc29adFhacE0xajQyeDRaUlhNQi1UaEtzYlh2MUdFUS1xTQ?oc=5"
         }
       ]
     },

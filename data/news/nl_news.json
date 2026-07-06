@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-05T19:12:23.870591+00:00",
+  "fetched_at": "2026-07-06T02:52:31.413575+00:00",
   "count": 5,
   "news": [
-    {
-      "id": "ac217de7f8f7",
-      "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
-      "published": "2026-07-05T06:54:32+00:00",
-      "summary": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
-        }
-      ]
-    },
     {
       "id": "1c4f10a62049",
       "title": "Stoppen als je eenmaal begonnen bent met Ozempic? Dat is niet makkelijk, waarschuwt obesitas-arts - quest.nl",
@@ -28,9 +16,21 @@
       ]
     },
     {
+      "id": "ac217de7f8f7",
+      "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
+      "published": "2026-07-05T06:54:32+00:00",
+      "summary": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cab74a23166f",
       "title": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten - bnr.nl",
-      "published": "2026-07-05T05:33:22+00:00",
+      "published": "2026-07-05T05:33:00+00:00",
       "summary": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker bij vijf kopjes per dag&nbsp;&nbsp;HLNNieuwe bevindingen over de effecten van koffiedrinken.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {

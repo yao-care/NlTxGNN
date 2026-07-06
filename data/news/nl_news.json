@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-06T15:24:06.467549+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-06T19:50:56.249295+00:00",
+  "count": 6,
   "news": [
     {
       "id": "694a71898cf7",
       "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-07-06T09:04:48+00:00",
-      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSUitbraak zeldzame variant ebola: Wat doet ZOA?&nbsp;&nbsp;ZOA.nl",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;De Gooi- en EemlanderWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Uitbraak zeldzame variant ebola: Wat doet ZOA?&nbsp;&nbsp;ZOA.nl",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -24,6 +24,18 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f25d56f1581b",
+      "title": "Eerst patiënt, straks onderzoeker: Emma (17) uit Assendelft blijft vechten tegen knokkelkoorts. ’Ziekte heeft ook iets positiefs opgeleverd’ - Noordhollands Dagblad",
+      "published": "2026-07-05T20:00:00+00:00",
+      "summary": "Eerst patiënt, straks onderzoeker: Emma (17) uit Assendelft blijft vechten tegen knokkelkoorts. ’Ziekte heeft ook iets positiefs opgeleverd’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNdDlQcW1XRUI2M1J2a0Z2WnhGS2J3NmZocklqekdQTWVDQTlWdEliOW8yUnpYc2liVkVWOTFGVFgyblp2RS1LQ0VpekVQcTA5eFVtY1p6YmVXUXZSc3A2eHpFZWNIbXduM0N6bndya3BmU3lJeFBsODV2SVh4ZzY0dmpnbkFsVDhTRXlubnphYjdSS050MnlGNmFXM09ZVDkyNnFPWFEzVWV0Nk9mYnU0SHVPT1dmTnYzMGc3dG5hR2VJM1NuY2FCVjN5ODNqempUREZwR0ViUVNrdUF0aWI3M0FaTHhwaTdxb3duakJ0a20zZjZaajN0WHVBcGFYNzUtYTVVSjg3cGFqaUZqMTlLclFKOGlIVU4yZ2lsTjdLcU5LTGxiaEFweVNjSGVQeWFPWHJ5QVBjNEVQV3ZBVjZsNlF4THVNQQ?oc=5"
         }
       ]
     },

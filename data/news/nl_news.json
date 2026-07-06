@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-06T10:12:19.358394+00:00",
+  "fetched_at": "2026-07-06T15:24:06.467549+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "694a71898cf7",
+      "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-06T09:04:48+00:00",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSUitbraak zeldzame variant ebola: Wat doet ZOA?&nbsp;&nbsp;ZOA.nl",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
+        }
+      ]
+    },
     {
       "id": "ac217de7f8f7",
       "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "2e4e1e187112",
-      "title": "Nieuwe ontdekking: Je eierstokken kunnen na de overgang een geheel nieuwe, verrassende taak krijgen - wibnet.nl",
-      "published": "2026-07-04T10:00:06+00:00",
-      "summary": "Nieuwe ontdekking: Je eierstokken kunnen na de overgang een geheel nieuwe, verrassende taak krijgen&nbsp;&nbsp;wibnet.nlStudie: eierstokken ontwikkelen zich tot onderdeel immuunsysteem nadat voortplantingsfunctie eindigt&nbsp;&nbsp;bnr.nlEierstokken krijgen immuunfunctie na einde vruchtbaarheid, blijkt uit studie&nbsp;&nbsp;NieuwslensNieuw onderzoek: de eierstokken stoppen niet met functioneren na de menopauze.&nbsp;&nbsp;Vietnam.vn",
+      "id": "0ceb1d4d499c",
+      "title": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn - Scientias.nl",
+      "published": "2026-07-05T11:00:41+00:00",
+      "summary": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid en effectiviteit mRNA-vaccins&nbsp;&nbsp;NieuwslensMiljarden doses bewijzen dat mRNA-vaccins veilig zijn - en ze komen",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMnVNeFlidnVkU05hWmJmYXBFUFVxMzFsdV83QVg2N042VEppVC16YmlUMk5sdHJ1V2E0enlWLXVOTmpiWnVDa0JwV3lBRnJZcDVFMHdDMThTNFFtRFFHQmdHejdyRVVYVzIwSU5PajV3MTNaRm1OUzJsampWTG1ieHhLRlQySklUeHZQcUV3X3JZT2xtTV9VVWpLRWF2d3Brb1BtckJsdHJpM2hPc0UzTnVNSHpheElZZTJhTXRST3FabnNK?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDNnUHFEdlFac1FTaHhNX0xGaFVwQ0N3a1NSVnJtb1J3Rk9rdjQtYUN5SWswRmlMd2lqMFVxYmE1anpFcm5yMFNVNDZ0aFlScmc5dTItTFVvMzcwRkZUbVJxNm14S0p2TTVOb05TSGRGM2JoV3VyZHltUThuaEhxeVhnYlZ0TlZicjkyWm1TeFFfQWFCajRwbFRTVFRpUXVhNnVneXgwenBxczkwYWIwWHo4TDRZOTBQTThIVTBIUW5qczdqSnM1LWFWSlotdDVydTdr?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVndkYlFqSUVFYkVza1d3TWEzT0wydS1FcGl2Q2NTdXpJQ1pvSUNRVGZVa1ZvQmFfSHctTWVJV0Uzd21RMFNtNzBNSmd1OC1rS2E1Q1ZoR0owazN5cWVlc0hBSlcwUXVkMkpoSnA4MEdPM0VvYU9ULU5KaTMxaTFPcjQ4aHFMYnFVbkhjVnNTVmJFQnN6RVVFaThQaGEzMjdGTkJrLVNOd1prdVVwOUpKenYxQ1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ceb1d4d499c",
-      "title": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn - Scientias.nl",
-      "published": "2026-07-05T11:00:41+00:00",
-      "summary": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beGrootschalige studie bevestigt veiligheid en effectiviteit mRNA-vaccins&nbsp;&nbsp;NieuwslensMiljarden doses bewijzen dat mRNA-vaccins veilig zijn - en ze komen nu voor kanker&nbsp;&nbsp;upday News",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDNnUHFEdlFac1FTaHhNX0xGaFVwQ0N3a1NSVnJtb1J3Rk9rdjQtYUN5SWswRmlMd2lqMFVxYmE1anpFcm5yMFNVNDZ0aFlScmc5dTItTFVvMzcwRkZUbVJxNm14S0p2TTVOb05TSGRGM2JoV3VyZHltUThuaEhxeVhnYlZ0TlZicjkyWm1TeFFfQWFCajRwbFRTVFRpUXVhNnVneXgwenBxczkwYWIwWHo4TDRZOTBQTThIVTBIUW5qczdqSnM1LWFWSlotdDVydTdr?oc=5"
         }
       ]
     },

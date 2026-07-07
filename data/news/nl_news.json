@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-07T09:35:10.074991+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-07T14:24:49.505284+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "694a71898cf7",
-      "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-07-06T09:04:48+00:00",
-      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;Haarlems DagbladWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlEbola-uitbraak Congo: dodental stijgt tot 506 | WHO&nbsp;&nbsp;Nieuws.nl",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
-        }
-      ]
-    },
     {
       "id": "8c12844c37da",
       "title": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker - Eindhovens Dagblad",
@@ -28,6 +16,54 @@
       ]
     },
     {
+      "id": "694a71898cf7",
+      "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-06T09:04:48+00:00",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;Haarlems DagbladAantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDode bij brand in ebolacentrum Congo, patiënten gevlucht&nbsp;&nbsp;NOSWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92996b1d2cd3",
+      "title": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’ - De Telegraaf",
+      "published": "2026-07-07T13:29:49+00:00",
+      "summary": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGtsLVoxUy1xWkNFRWdMM2R3anVleUU2SVZBeFhDRWJDcWNUdGNzYTdIWDJGS1lvdjdXSktDQmhkUGRyVWg2ZW4xWUx0dkFGZURCNTdiOUgtVGdDT1B2aDV0VzVMTFNMNFFjTGZ4V080S2RaanpKSUltSi1mc2RJS3JvLVRSLXBTQ0VSU0ctUWlFTmp0SjRkeE82Y1RTNUNfMFNPcnZwUWtMOTNyZFlFUmVOY1lFVmFydzdHWW5rWUhnbWUzakZzbjNPZGctMDhYeVFqZUFYV1kwYUdFTm1INlFZeXlMOFg4cEQ2Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7a87ec0dc3c",
+      "title": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker - RTL.nl",
+      "published": "2026-07-07T09:09:50+00:00",
+      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlKorte bewegingspauzes verlagen het risico op sterfte door kanker, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Het staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte KringenVerhoogt te veel zitten het risico op kanker?&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDRaM2JSR1FDS1FSa0hINFhBZVVHdXFJbjZGRVBVNmFSUUYxR3lwS3dEMVdETi04ZE9NalNUbFpiMjhsZGpZc2tpVE5RQjFLRUo5RDdmNUhyUloxdVRWR0tIdmNMUGxHRXE3TF9DcEtHMmJUTUIyelZaTndrakViajQtQWlpRGNlS2NZWjFpcVB6X0hGYTA5S3VlMi1UMlMtZDU2aTV5aXQwcEhM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a7accfcc112",
+      "title": "Eeuwenlang heeft een mysterieus De’ Medici-sterfgeval historici hoofdbrekens bezorgd – nu heeft een onderzoeker het moordmysterie opgelost - Historianet.nl",
+      "published": "2026-07-06T18:30:47+00:00",
+      "summary": "Eeuwenlang heeft een mysterieus De’ Medici-sterfgeval historici hoofdbrekens bezorgd – nu heeft een onderzoeker het moordmysterie opgelost&nbsp;&nbsp;Historianet.nl",
+      "sources": [
+        {
+          "name": "Historianet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHVGakRMMnVybVdfbWJobTA5SVcySmtUdVlZdzBlRzd4OFN6RDlpWFp6QjZSSEVsdWZhMVJ0d3pqbWRmQ0lacFRHN0Jub0NCN1dmbENaR1ZMcFVKc2VVUDVqWFI0QXg2dXNnYXg5RDZaYmFYOFg5Y29RSEVuVjdOSGRXNU5jSWlKeWlBTUFfWkFBSlBNSlJQbjQ3Z1hzTm5waXdGeEdZV1BWd2lkNG56ZTI0dURZUTZHSzNhVEVncGJ4MF9EUS1pRS1kY3Z2WE5vbzBOSnZzd2JEZVNqZW9NbTR1bk1yQXVqc2VXbWs2LXRuTXNyR1pBR3QtY0JlZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2574b6824ef6",
       "title": "Onderzoek: vaker seks hebben zou goed zijn voor de gezondheid van vrouwen (maar er is een belangrijke kanttekening) - Kek Mama",
       "published": "2026-07-06T19:13:26+00:00",
@@ -36,30 +72,6 @@
         {
           "name": "Kek Mama",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMmtYTjV2ZUxqZ1ZueURENFNCamtHeURremw5X3liTGxTVjQ4Z0RlOGNXZHEySUwwWHd5Ymtpc0RnbkxQUUxRNmRoWGRFUmJEc2F0UVRQOGh3LUt2SWFQcVBMTkU3UkVTeWExNzd5MzlQRGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f25d56f1581b",
-      "title": "Eerst patiënt, straks onderzoeker: Emma (17) uit Assendelft blijft vechten tegen knokkelkoorts. ’Ziekte heeft ook iets positiefs opgeleverd’ - Noordhollands Dagblad",
-      "published": "2026-07-05T20:00:00+00:00",
-      "summary": "Eerst patiënt, straks onderzoeker: Emma (17) uit Assendelft blijft vechten tegen knokkelkoorts. ’Ziekte heeft ook iets positiefs opgeleverd’&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNdDlQcW1XRUI2M1J2a0Z2WnhGS2J3NmZocklqekdQTWVDQTlWdEliOW8yUnpYc2liVkVWOTFGVFgyblp2RS1LQ0VpekVQcTA5eFVtY1p6YmVXUXZSc3A2eHpFZWNIbXduM0N6bndya3BmU3lJeFBsODV2SVh4ZzY0dmpnbkFsVDhTRXlubnphYjdSS050MnlGNmFXM09ZVDkyNnFPWFEzVWV0Nk9mYnU0SHVPT1dmTnYzMGc3dG5hR2VJM1NuY2FCVjN5ODNqempUREZwR0ViUVNrdUF0aWI3M0FaTHhwaTdxb3duakJ0a20zZjZaajN0WHVBcGFYNzUtYTVVSjg3cGFqaUZqMTlLclFKOGlIVU4yZ2lsTjdLcU5LTGxiaEFweVNjSGVQeWFPWHJ5QVBjNEVQV3ZBVjZsNlF4THVNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ceb1d4d499c",
-      "title": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn - Scientias.nl",
-      "published": "2026-07-05T11:00:41+00:00",
-      "summary": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid en effectiviteit mRNA-vaccins&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDNnUHFEdlFac1FTaHhNX0xGaFVwQ0N3a1NSVnJtb1J3Rk9rdjQtYUN5SWswRmlMd2lqMFVxYmE1anpFcm5yMFNVNDZ0aFlScmc5dTItTFVvMzcwRkZUbVJxNm14S0p2TTVOb05TSGRGM2JoV3VyZHltUThuaEhxeVhnYlZ0TlZicjkyWm1TeFFfQWFCajRwbFRTVFRpUXVhNnVneXgwenBxczkwYWIwWHo4TDRZOTBQTThIVTBIUW5qczdqSnM1LWFWSlotdDVydTdr?oc=5"
         }
       ]
     }

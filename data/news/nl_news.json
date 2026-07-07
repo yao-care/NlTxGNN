@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-07T02:46:49.316513+00:00",
+  "fetched_at": "2026-07-07T09:35:10.074991+00:00",
   "count": 5,
   "news": [
     {
       "id": "694a71898cf7",
       "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-07-06T09:04:48+00:00",
-      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;Haarlems DagbladAantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Ebola-uitbraak Congo: dodental stijgt tot 506 | WHO&nbsp;&nbsp;Nieuws.nl",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;Haarlems DagbladWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Aantal ebola-gevallen blijft maar stijgen; nu al ruim 1500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlEbola-uitbraak Congo: dodental stijgt tot 506 | WHO&nbsp;&nbsp;Nieuws.nl",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "ac217de7f8f7",
-      "title": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo - RTL.nl",
-      "published": "2026-07-05T06:54:32+00:00",
-      "summary": "Mooi zijn helpt, weet onderzoeker Giselinde, die onherkenbaar werd door chemo&nbsp;&nbsp;RTL.nl",
+      "id": "2574b6824ef6",
+      "title": "Onderzoek: vaker seks hebben zou goed zijn voor de gezondheid van vrouwen (maar er is een belangrijke kanttekening) - Kek Mama",
+      "published": "2026-07-06T19:13:26+00:00",
+      "summary": "Onderzoek: vaker seks hebben zou goed zijn voor de gezondheid van vrouwen (maar er is een belangrijke kanttekening)&nbsp;&nbsp;Kek Mama",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFyWjdtaEJqWlVRQ0Exb3lORDFLUGt3T0RQZkRvSl9YeWVWOUpPUUc4dEItQWhHNzRQNWtXd002STNOV292RnlpczZVU2V1MEFxZTQ3bzBkZkkwQXBNVWU1dDlMUE84eU5zS1lPbi1GVlQyMnNZUzQ3YXF0a19Td2daU2wweEl1UjE0TS1fTEU2QlVQSFNFQ0JfLVhHZGJFR09raEI0S0xoMFoya1FpX25KTUFzZw?oc=5"
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMmtYTjV2ZUxqZ1ZueURENFNCamtHeURremw5X3liTGxTVjQ4Z0RlOGNXZHEySUwwWHd5Ymtpc0RnbkxQUUxRNmRoWGRFUmJEc2F0UVRQOGh3LUt2SWFQcVBMTkU3UkVTeWExNzd5MzlQRGM?oc=5"
         }
       ]
     },

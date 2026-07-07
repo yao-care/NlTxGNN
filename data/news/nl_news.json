@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-07T14:24:49.505284+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-07T19:50:26.601845+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "8c12844c37da",
-      "title": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker - Eindhovens Dagblad",
-      "published": "2026-07-06T01:35:00+00:00",
-      "summary": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "d00804d5ae91",
+      "title": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’ - De Telegraaf",
+      "published": "2026-07-07T13:50:00+00:00",
+      "summary": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3pJelpTY1F1dHNwWU53YkE1NjQ3NUtGd0NhSDVJUDkxbWltNWdaSWJBZkRBa1NoQjgta2ROblc1SEpsQUhFU2sxNWFhMDFHZ3Z2MGFnaUt0SG9FSUJMdE12Mjd4YzhTLXQ1YkpTSk1IZ1FGWGdYaHlVS3NXWFlrR0w2OVdLd3hoTzMyMzVYVEhINDg0SkFGN245bWZMc3hYYlZ1TWNVY21nMElraWFDa1p0QjlBdG5KbHBDT2tWcnM?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONkVER0pBektGaGVzT3p2TnZUQkNlZDlEU2g3aW5KTUpGMEpDYV85clpKc0xYcmZ2NWlCd1NSWW5fWWhTWng1QWd2RDVRYTJoaTVEYXFqMWpVdlFPdEtZaGpMSjhMd2xiekxJbHdIYndpMXZnU2NSWmoxOGJIUlVrRmNsZjRSZTREdkI2YjRRZ1N5ckNld3NfMWlaWm9DMVpnbE1qZHBBdzdISk53ZXl4VG5heDcxbWhXMm5TaG1jWnQxTjkwRGFVVnF1ak1xOWNzUXF4WWRaOFNlSVdQRmc?oc=5"
         }
       ]
     },
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "92996b1d2cd3",
-      "title": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’ - De Telegraaf",
-      "published": "2026-07-07T13:29:49+00:00",
-      "summary": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’&nbsp;&nbsp;De Telegraaf",
+      "id": "8c12844c37da",
+      "title": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker - Eindhovens Dagblad",
+      "published": "2026-07-06T01:35:00+00:00",
+      "summary": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGtsLVoxUy1xWkNFRWdMM2R3anVleUU2SVZBeFhDRWJDcWNUdGNzYTdIWDJGS1lvdjdXSktDQmhkUGRyVWg2ZW4xWUx0dkFGZURCNTdiOUgtVGdDT1B2aDV0VzVMTFNMNFFjTGZ4V080S2RaanpKSUltSi1mc2RJS3JvLVRSLXBTQ0VSU0ctUWlFTmp0SjRkeE82Y1RTNUNfMFNPcnZwUWtMOTNyZFlFUmVOY1lFVmFydzdHWW5rWUhnbWUzakZzbjNPZGctMDhYeVFqZUFYV1kwYUdFTm1INlFZeXlMOFg4cEQ2Yg?oc=5"
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3pJelpTY1F1dHNwWU53YkE1NjQ3NUtGd0NhSDVJUDkxbWltNWdaSWJBZkRBa1NoQjgta2ROblc1SEpsQUhFU2sxNWFhMDFHZ3Z2MGFnaUt0SG9FSUJMdE12Mjd4YzhTLXQ1YkpTSk1IZ1FGWGdYaHlVS3NXWFlrR0w2OVdLd3hoTzMyMzVYVEhINDg0SkFGN245bWZMc3hYYlZ1TWNVY21nMElraWFDa1p0QjlBdG5KbHBDT2tWcnM?oc=5"
         }
       ]
     },
@@ -43,11 +43,35 @@
       "id": "a7a87ec0dc3c",
       "title": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker - RTL.nl",
       "published": "2026-07-07T09:09:50+00:00",
-      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlKorte bewegingspauzes verlagen het risico op sterfte door kanker, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Het staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte KringenVerhoogt te veel zitten het risico op kanker?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlKorte bewegingspauzes verlagen het risico op sterfte door kanker, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Het staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDRaM2JSR1FDS1FSa0hINFhBZVVHdXFJbjZGRVBVNmFSUUYxR3lwS3dEMVdETi04ZE9NalNUbFpiMjhsZGpZc2tpVE5RQjFLRUo5RDdmNUhyUloxdVRWR0tIdmNMUGxHRXE3TF9DcEtHMmJUTUIyelZaTndrakViajQtQWlpRGNlS2NZWjFpcVB6X0hGYTA5S3VlMi1UMlMtZDU2aTV5aXQwcEhM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1356f876c96",
+      "title": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat - Metronieuws.nl",
+      "published": "2026-07-07T07:25:00+00:00",
+      "summary": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat&nbsp;&nbsp;Metronieuws.nlVerrassend wapen tegen chronische pijn: sla je met melatonine twee vliegen in één klap?&nbsp;&nbsp;Scientias.nlMelatonine mogelijk effectief tegen chronische pijn en slaapproblemen&nbsp;&nbsp;NieuwslensHet slaapsupplement dat even goed werkt als opioïden tegen chronische pijn&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB1d2xQeDNKOVJwRmcwRlRJcmlNQVZmcUVPaWZBRXByN0h0X1hDWVJOV3lncWctcDhaSVVQS0VoSG13WmthVEE3WmF5WjhfOVB2Vl9UeWFkOEdSVWJyZVk5TzhVRnQ5MWxzeXZyN3dRUkRhcF9sQUNzdHJqS0EtSWtIbG5hOURjblBwZzFkOE1lc2hZVVlLSnMyOTRVSklscUUyUGdnZzlpV0ptUk5QSnA4QU40aDIyYWdBOVI1S29OQTFBdzYyNkZLT2QtZm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5a702960e82",
+      "title": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier - Trouw",
+      "published": "2026-07-07T11:44:00+00:00",
+      "summary": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier&nbsp;&nbsp;TrouwMiljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtVSDIyU0ZIV1ViNkEza2V2LXpyb2JiYXo1WDRqOWdIZGRrRlJUaVlnSHRkY19fdUxnc0JlQUJ4eUtBakd5cGpDdG5MaU5qeUZTWmNwenBHMnBSY3I2OVdyZG5wVkhqOXVyZ1B1VFU2SVU1eVNlRHZJbHNrbklnb3p1WmhUdTBrZXlMbllzRW0zT2NCaGU3Y3JSMlZidmdHSk13aVhfZ0NiVUhwZFAyNThKZW85MG1lbXhVeElMOXJSSEpxd1RmUDJyZERRbzFNUzB0RGpDZnFWSmlM?oc=5"
         }
       ]
     },

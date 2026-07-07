@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-06T19:50:56.249295+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-07T02:46:49.316513+00:00",
+  "count": 5,
   "news": [
     {
       "id": "694a71898cf7",
       "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-07-06T09:04:48+00:00",
-      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;De Gooi- en EemlanderWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Uitbraak zeldzame variant ebola: Wat doet ZOA?&nbsp;&nbsp;ZOA.nl",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental uitbraak ebola in Congo boven de 500&nbsp;&nbsp;Haarlems DagbladAantal ebola-gevallen blijft maar stijgen; nu al ruim 1.500 besmettingen en 473 doden&nbsp;&nbsp;AD.nlWereldwijde 'noodsituatie' door ebola-uitbraak in Congo? 'Moeilijk aan te pakken'&nbsp;&nbsp;NPO Radio 1Ebola-uitbraak Congo: dodental stijgt tot 506 | WHO&nbsp;&nbsp;Nieuws.nl",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c12844c37da",
+      "title": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker - Eindhovens Dagblad",
+      "published": "2026-07-06T01:35:00+00:00",
+      "summary": "Catharina Ziekenhuis krijgt opnieuw topstatus voor behandeling maag- en slokdarmkanker&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3pJelpTY1F1dHNwWU53YkE1NjQ3NUtGd0NhSDVJUDkxbWltNWdaSWJBZkRBa1NoQjgta2ROblc1SEpsQUhFU2sxNWFhMDFHZ3Z2MGFnaUt0SG9FSUJMdE12Mjd4YzhTLXQ1YkpTSk1IZ1FGWGdYaHlVS3NXWFlrR0w2OVdLd3hoTzMyMzVYVEhINDg0SkFGN245bWZMc3hYYlZ1TWNVY21nMElraWFDa1p0QjlBdG5KbHBDT2tWcnM?oc=5"
         }
       ]
     },
@@ -43,35 +55,11 @@
       "id": "0ceb1d4d499c",
       "title": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn - Scientias.nl",
       "published": "2026-07-05T11:00:41+00:00",
-      "summary": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid en effectiviteit mRNA-vaccins&nbsp;&nbsp;NieuwslensMiljarden doses bewijzen dat mRNA-vaccins veilig zijn - en ze komen",
+      "summary": "Miljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid en effectiviteit mRNA-vaccins&nbsp;&nbsp;Nieuwslens",
       "sources": [
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDNnUHFEdlFac1FTaHhNX0xGaFVwQ0N3a1NSVnJtb1J3Rk9rdjQtYUN5SWswRmlMd2lqMFVxYmE1anpFcm5yMFNVNDZ0aFlScmc5dTItTFVvMzcwRkZUbVJxNm14S0p2TTVOb05TSGRGM2JoV3VyZHltUThuaEhxeVhnYlZ0TlZicjkyWm1TeFFfQWFCajRwbFRTVFRpUXVhNnVneXgwenBxczkwYWIwWHo4TDRZOTBQTThIVTBIUW5qczdqSnM1LWFWSlotdDVydTdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cab74a23166f",
-      "title": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten - bnr.nl",
-      "published": "2026-07-05T05:33:00+00:00",
-      "summary": "Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker bij vijf kopjes per dag&nbsp;&nbsp;HLNNieuwe bevindingen over de effecten van koffiedrinken.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVndkYlFqSUVFYkVza1d3TWEzT0wydS1FcGl2Q2NTdXpJQ1pvSUNRVGZVa1ZvQmFfSHctTWVJV0Uzd21RMFNtNzBNSmd1OC1rS2E1Q1ZoR0owazN5cWVlc0hBSlcwUXVkMkpoSnA4MEdPM0VvYU9ULU5KaTMxaTFPcjQ4aHFMYnFVbkhjVnNTVmJFQnN6RVVFaThQaGEzMjdGTkJrLVNOd1prdVVwOUpKenYxQ1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1811a024793",
-      "title": "Eerste ziekenhuis introduceert glutenvrije bloedtransfusie - Nieuwspaal",
-      "published": "2026-07-04T19:22:38+00:00",
-      "summary": "Eerste ziekenhuis introduceert glutenvrije bloedtransfusie&nbsp;&nbsp;Nieuwspaal",
-      "sources": [
-        {
-          "name": "Nieuwspaal",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGhLRzRqOUpEX044dURmeFJtNnIzamxJSk1GZVFtNEh0dzBsVC1CZm5WbElmQnNrTEJBUzBSU3VRMDQ5Z0JxNTh1dmt6SGNhLTR4WjRNaXNINFhOMEh1T2ZvVzVhdjJ6Y2NIc0VybmJpT3ZLendkRURqclItVEdRRkNsbVl5Y0lr?oc=5"
         }
       ]
     }

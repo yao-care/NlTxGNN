@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-08T02:24:51.268773+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-08T08:22:17.490057+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "694a71898cf7",
+      "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-06T09:04:48+00:00",
+      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
+        }
+      ]
+    },
     {
       "id": "92996b1d2cd3",
       "title": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’ - De Telegraaf",
@@ -12,18 +24,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGtsLVoxUy1xWkNFRWdMM2R3anVleUU2SVZBeFhDRWJDcWNUdGNzYTdIWDJGS1lvdjdXSktDQmhkUGRyVWg2ZW4xWUx0dkFGZURCNTdiOUgtVGdDT1B2aDV0VzVMTFNMNFFjTGZ4V080S2RaanpKSUltSi1mc2RJS3JvLVRSLXBTQ0VSU0ctUWlFTmp0SjRkeE82Y1RTNUNfMFNPcnZwUWtMOTNyZFlFUmVOY1lFVmFydzdHWW5rWUhnbWUzakZzbjNPZGctMDhYeVFqZUFYV1kwYUdFTm1INlFZeXlMOFg4cEQ2Yg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "694a71898cf7",
-      "title": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-07-06T09:04:48+00:00",
-      "summary": "De zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3I5OElOQ3RLOVJobHN4ZVRqWjZVMTFic2RCMW1oelZYOUUtS1lVVnl2cWs1OF9maVZyYlNoT1Q3QmNBdDR3XzdkZFBNVEtlZ290UVZaaGItTGhUaDc5NnBWb0xMVV9BOHJubTZqNmxJb2ROV0N2Y3h5aXNIelhhR2lzZzZoNzRMOW1pV1Z5aFdFZS15RkMzT1BVTjlIc2hzaVBmRTZNVDFRdUlCX3N0MW1MTl94V25DNlNNMFJLU3VYNlh1Q0k0?oc=5"
         }
       ]
     },
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "f1356f876c96",
-      "title": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat - Metronieuws.nl",
-      "published": "2026-07-07T07:25:00+00:00",
-      "summary": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat&nbsp;&nbsp;Metronieuws.nlVerrassend wapen tegen chronische pijn: sla je met melatonine twee vliegen in één klap?&nbsp;&nbsp;Scientias.nlMelatonine mogelijk effectief tegen chronische pijn en slaapproblemen&nbsp;&nbsp;NieuwslensHet slaapsupplement dat even goed werkt als opioïden tegen chronische pijn&nbsp;&nbsp;upday News",
+      "id": "002121726101",
+      "title": "Verrassend effect van koffie ontdekt in lichaam - Redactie24",
+      "published": "2026-07-07T09:30:00+00:00",
+      "summary": "Verrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeWat je 's ochtends kunt drinken dat goed is voor je lever: drie Amerikaanse artsen geven dezelfde aanbeveling.&nbsp;&nbsp;Vietnam.vnGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker b",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB1d2xQeDNKOVJwRmcwRlRJcmlNQVZmcUVPaWZBRXByN0h0X1hDWVJOV3lncWctcDhaSVVQS0VoSG13WmthVEE3WmF5WjhfOVB2Vl9UeWFkOEdSVWJyZVk5TzhVRnQ5MWxzeXZyN3dRUkRhcF9sQUNzdHJqS0EtSWtIbG5hOURjblBwZzFkOE1lc2hZVVlLSnMyOTRVSklscUUyUGdnZzlpV0ptUk5QSnA4QU40aDIyYWdBOVI1S29OQTFBdzYyNkZLT2QtZm8?oc=5"
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemhoZU91TFlDNXNPTWxRblVGaEVrdmtrXzlOTEtYcnYzeUpSM3hGQm1XQkpEUUxld0xqWFN4QXlIN2x6UVFoR3Nrb2ljQldjcUhKU3U4SHJyRVc2MHljUU85VEpjeUpxdWozZGtMTXVEdVhLdEcwTHF3ZDl6VUFJTUFmZ3NtMDRpTjFMU0RnaDA3UWNaVTJuN9IBngFBVV95cUxQSGVoenhRNWs3Q05hNW5ZOE1UWnhUY3BrRldCMzBMVGRlMUFpMW5udUxORzZsMzlBLThPeUVoMl9Ma0t5NWI4V0hKMkFSSVpvRTJQWExOTF8xblV5S1N0ODZCV0o0NjRySFZTVmxYNFdkVFNUenl2YlVGVHU1eXE0ZWMxZUNGc1VuekZTRGJuMExrMDZwdUNZdWdxR2wtdw?oc=5"
         }
       ]
     },
@@ -60,6 +60,18 @@
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtVSDIyU0ZIV1ViNkEza2V2LXpyb2JiYXo1WDRqOWdIZGRrRlJUaVlnSHRkY19fdUxnc0JlQUJ4eUtBakd5cGpDdG5MaU5qeUZTWmNwenBHMnBSY3I2OVdyZG5wVkhqOXVyZ1B1VFU2SVU1eVNlRHZJbHNrbklnb3p1WmhUdTBrZXlMbllzRW0zT2NCaGU3Y3JSMlZidmdHSk13aVhfZ0NiVUhwZFAyNThKZW85MG1lbXhVeElMOXJSSEpxd1RmUDJyZERRbzFNUzB0RGpDZnFWSmlM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1356f876c96",
+      "title": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat - Metronieuws.nl",
+      "published": "2026-07-06T16:31:09+00:00",
+      "summary": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat&nbsp;&nbsp;Metronieuws.nlVerrassend wapen tegen chronische pijn: sla je met melatonine twee vliegen in één klap?&nbsp;&nbsp;Scientias.nlMelatonine mogelijk effectief tegen chronische pijn en slaapproblemen&nbsp;&nbsp;NieuwslensHet slaapsupplement dat even goed werkt als opioïden tegen chronische pijn&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB1d2xQeDNKOVJwRmcwRlRJcmlNQVZmcUVPaWZBRXByN0h0X1hDWVJOV3lncWctcDhaSVVQS0VoSG13WmthVEE3WmF5WjhfOVB2Vl9UeWFkOEdSVWJyZVk5TzhVRnQ5MWxzeXZyN3dRUkRhcF9sQUNzdHJqS0EtSWtIbG5hOURjblBwZzFkOE1lc2hZVVlLSnMyOTRVSklscUUyUGdnZzlpV0ptUk5QSnA4QU40aDIyYWdBOVI1S29OQTFBdzYyNkZLT2QtZm8?oc=5"
         }
       ]
     },

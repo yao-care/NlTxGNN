@@ -1,6 +1,91 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-08T13:56:01.943148+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-07-08T19:19:49.225054+00:00",
+  "count": 7,
+  "news": [
+    {
+      "id": "ffe242fac3f5",
+      "title": "Hondenziekte rukt op in provincie Utrecht. Dierenarts waarschuwt: ’Het is een rotvirus, één snuffel kan al genoeg zijn’ - De Gooi- en Eemlander",
+      "published": "2026-07-07T05:00:00+00:00",
+      "summary": "Hondenziekte rukt op in provincie Utrecht. Dierenarts waarschuwt: ’Het is een rotvirus, één snuffel kan al genoeg zijn’&nbsp;&nbsp;De Gooi- en EemlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gooi- en Eemlander",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNR016X1J4dWN1bDMtU0tMeWxfMzVWUGFic0YyQkN6SjByQjg5YjkzSFB5S0RJc3NCNzRESlI5YUlyR080UVNTREt1TE4zRFRFNXRGSzQ2blpqQ3dTRTdfVGd0WUxLRnZnUERoRE1KWkw3SUZOSUNLVFJyQktjV0Z1Yzl1TEc1elZwNmxYN0IyOHlkM2FMTGFPdnIyekE2VXBRaXpSelJ3OHU0UlZ2QlNzNFgzTWxCQ0VhS1JVSjIwc2hjRmt2SGdyZnpzMGk3VGZlelhONjc4VWRJOU81ZHVUeWhLTkN5SXc4ZTNvSVFHdGhjMlUtaF9RaFRoU3owOThBaGl0aEhXTHIxaGg4eVoxTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92996b1d2cd3",
+      "title": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’ - De Telegraaf",
+      "published": "2026-07-07T13:29:49+00:00",
+      "summary": "Maaike (37) heeft ongeneeslijke huidkanker: ’De grond zakte letterlijk onder mijn voeten vandaan’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGtsLVoxUy1xWkNFRWdMM2R3anVleUU2SVZBeFhDRWJDcWNUdGNzYTdIWDJGS1lvdjdXSktDQmhkUGRyVWg2ZW4xWUx0dkFGZURCNTdiOUgtVGdDT1B2aDV0VzVMTFNMNFFjTGZ4V080S2RaanpKSUltSi1mc2RJS3JvLVRSLXBTQ0VSU0ctUWlFTmp0SjRkeE82Y1RTNUNfMFNPcnZwUWtMOTNyZFlFUmVOY1lFVmFydzdHWW5rWUhnbWUzakZzbjNPZGctMDhYeVFqZUFYV1kwYUdFTm1INlFZeXlMOFg4cEQ2Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7a87ec0dc3c",
+      "title": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker - RTL.nl",
+      "published": "2026-07-07T09:09:50+00:00",
+      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlHet staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDRaM2JSR1FDS1FSa0hINFhBZVVHdXFJbjZGRVBVNmFSUUYxR3lwS3dEMVdETi04ZE9NalNUbFpiMjhsZGpZc2tpVE5RQjFLRUo5RDdmNUhyUloxdVRWR0tIdmNMUGxHRXE3TF9DcEtHMmJUTUIyelZaTndrakViajQtQWlpRGNlS2NZWjFpcVB6X0hGYTA5S3VlMi1UMlMtZDU2aTV5aXQwcEhM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "002121726101",
+      "title": "Verrassend effect van koffie ontdekt in lichaam - Redactie24",
+      "published": "2026-07-07T09:30:00+00:00",
+      "summary": "Verrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeWat je 's ochtends kunt drinken dat goed is voor je lever: drie Amerikaanse artsen geven dezelfde aanbeveling.&nbsp;&nbsp;Vietnam.vnGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker b",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemhoZU91TFlDNXNPTWxRblVGaEVrdmtrXzlOTEtYcnYzeUpSM3hGQm1XQkpEUUxld0xqWFN4QXlIN2x6UVFoR3Nrb2ljQldjcUhKU3U4SHJyRVc2MHljUU85VEpjeUpxdWozZGtMTXVEdVhLdEcwTHF3ZDl6VUFJTUFmZ3NtMDRpTjFMU0RnaDA3UWNaVTJuN9IBngFBVV95cUxQSGVoenhRNWs3Q05hNW5ZOE1UWnhUY3BrRldCMzBMVGRlMUFpMW5udUxORzZsMzlBLThPeUVoMl9Ma0t5NWI4V0hKMkFSSVpvRTJQWExOTF8xblV5S1N0ODZCV0o0NjRySFZTVmxYNFdkVFNUenl2YlVGVHU1eXE0ZWMxZUNGc1VuekZTRGJuMExrMDZwdUNZdWdxR2wtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5a702960e82",
+      "title": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier - Trouw",
+      "published": "2026-07-07T11:44:00+00:00",
+      "summary": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier&nbsp;&nbsp;TrouwMiljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtVSDIyU0ZIV1ViNkEza2V2LXpyb2JiYXo1WDRqOWdIZGRrRlJUaVlnSHRkY19fdUxnc0JlQUJ4eUtBakd5cGpDdG5MaU5qeUZTWmNwenBHMnBSY3I2OVdyZG5wVkhqOXVyZ1B1VFU2SVU1eVNlRHZJbHNrbklnb3p1WmhUdTBrZXlMbllzRW0zT2NCaGU3Y3JSMlZidmdHSk13aVhfZ0NiVUhwZFAyNThKZW85MG1lbXhVeElMOXJSSEpxd1RmUDJyZERRbzFNUzB0RGpDZnFWSmlM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1356f876c96",
+      "title": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat - Metronieuws.nl",
+      "published": "2026-07-07T07:25:00+00:00",
+      "summary": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat&nbsp;&nbsp;Metronieuws.nlVerrassend wapen tegen chronische pijn: sla je met melatonine twee vliegen in één klap?&nbsp;&nbsp;Scientias.nlMelatonine mogelijk effectief tegen chronische pijn en slaapproblemen&nbsp;&nbsp;NieuwslensHet slaapsupplement dat even goed werkt als opioïden tegen chronische pijn&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB1d2xQeDNKOVJwRmcwRlRJcmlNQVZmcUVPaWZBRXByN0h0X1hDWVJOV3lncWctcDhaSVVQS0VoSG13WmthVEE3WmF5WjhfOVB2Vl9UeWFkOEdSVWJyZVk5TzhVRnQ5MWxzeXZyN3dRUkRhcF9sQUNzdHJqS0EtSWtIbG5hOURjblBwZzFkOE1lc2hZVVlLSnMyOTRVSklscUUyUGdnZzlpV0ptUk5QSnA4QU40aDIyYWdBOVI1S29OQTFBdzYyNkZLT2QtZm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be4ee3fb2c20",
+      "title": "Dina Tersago gaat op vakantie, maar waarschuwt volgers na advies van huisarts - Redactie24",
+      "published": "2026-07-08T07:19:20+00:00",
+      "summary": "Dina Tersago gaat op vakantie, maar waarschuwt volgers na advies van huisarts&nbsp;&nbsp;Redactie24Ook Dina Tersago liet zich vaccineren tegen tekenencefalitis voor haar reis: “Een teek snel verwijderen helpt hier niet”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG50T2lvaHcteW1BN3hEVU1wdEpkdTkzVUgzM3FwcEpzSWlIaHhtS2pRblNrYzFvTU1KbGtzRjZ6RE9jSnFndk1fOERRX195YmdlT0FQTUN6Y282YlhmdkJCdzJ1emdnQldwUGdNUVVBaGxPd0QxUlBzYy1wOXdlT1Z2cXRydW8wR3VtOU80NFUwVHE0eUZxMVREa29tSnJsWHJrYldFUVlZOHV4MU9ENnM0ZkZ4cm1FandsVGtYQTR3X1dU0gHKAUFVX3lxTE9PcUFfSmlOWE9GNUtWcG9NbTdWT1hKV2swWDFQY1ZFOVJfMHVncXZwSERyYkxLZjAzYll6bFBHdFlCLVVudUo4Rm9MUG5QY2JXSW9mUVRDMEZuRlRQVExwcmd6SUJzR1E4TWNoeXZCRUNUaklKM2syczAtLTdad3ZaUUZBMlk5eW1YRzZnNmRkcDduUkhTdlV0NjZoM1c3N2tFRVlIVFVZbWJQV2NLejZEVGx5QVJHZEhSUEhWTU5Cek5IRkw5ZG1LaFE?oc=5"
+        }
+      ]
+    }
+  ]
 }

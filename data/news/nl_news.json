@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-08T19:19:49.225054+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-09T02:38:55.793603+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "ffe242fac3f5",
-      "title": "Hondenziekte rukt op in provincie Utrecht. Dierenarts waarschuwt: ’Het is een rotvirus, één snuffel kan al genoeg zijn’ - De Gooi- en Eemlander",
-      "published": "2026-07-07T05:00:00+00:00",
-      "summary": "Hondenziekte rukt op in provincie Utrecht. Dierenarts waarschuwt: ’Het is een rotvirus, één snuffel kan al genoeg zijn’&nbsp;&nbsp;De Gooi- en EemlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "2ec7c448ac08",
+      "title": "Amerikaanse zakenman die dood wil 'overwinnen' is ongeneeslijk ziek - NU",
+      "published": "2026-07-07T16:19:27+00:00",
+      "summary": "Amerikaanse zakenman die dood wil 'overwinnen' is ongeneeslijk ziek&nbsp;&nbsp;NUBiohackers willen topfit verouderen, artsen zien vooral dure schijnzekerheid&nbsp;&nbsp;De TelegraafNetflix-influencer die miljoenen uitgaf om eeuwig jong te blijven blijkt ongeneeslijk ziek&nbsp;&nbsp;AD.nlBekende biohacker die eeuwig wil leven, krijgt slecht nieuws over zijn gezondheid&nbsp;&nbsp;LINDA.nlAmerikaanse influencer die veroudering wil vertragen krijgt diagnose van ongeneeslijke auto-immuunziekte&nbsp;&",
       "sources": [
         {
-          "name": "De Gooi- en Eemlander",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNR016X1J4dWN1bDMtU0tMeWxfMzVWUGFic0YyQkN6SjByQjg5YjkzSFB5S0RJc3NCNzRESlI5YUlyR080UVNTREt1TE4zRFRFNXRGSzQ2blpqQ3dTRTdfVGd0WUxLRnZnUERoRE1KWkw3SUZOSUNLVFJyQktjV0Z1Yzl1TEc1elZwNmxYN0IyOHlkM2FMTGFPdnIyekE2VXBRaXpSelJ3OHU0UlZ2QlNzNFgzTWxCQ0VhS1JVSjIwc2hjRmt2SGdyZnpzMGk3VGZlelhONjc4VWRJOU81ZHVUeWhLTkN5SXc4ZTNvSVFHdGhjMlUtaF9RaFRoU3owOThBaGl0aEhXTHIxaGg4eVoxTw?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUS04ZUtMUnBJRkI0elZXSjR5LWliS0xod284dGVEZjJFQTd5MlQtLVFlT0FkV2czcXNwR1p4ZGZkODNTeTgxNExWbFJsODZuYXJoWTUzMFhsN0M0U0FvYWFtTG9IWFRuLUk1ZHkwRVA4X25yUk52TXpPdVlSRkVVZjhjdFRlcUtPUDZXd1BDakhwVDQxLWZ2bzl0bHNUWWVlWldzWGZ1eUFCVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94db41b02269",
+      "title": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken - National Geographic",
+      "published": "2026-07-07T09:33:39+00:00",
+      "summary": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken&nbsp;&nbsp;National GeographicNieuwe aanbevelingen om de screening en diagnose van obesitas te verbeteren&nbsp;&nbsp;Medi-SfeerMeest recente inzichten in obesitas (2): de toekomst&nbsp;&nbsp;ArtsenkrantOpinie: ‘We behandelen obesitas pas als het te laat is’&nbsp;&nbsp;DutchHealthHubMeest recente inzichten in obesitas (1): etiologie&nbsp;&nbsp;Artsenkrant",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWdydHZjNHFCbE5QRlNBVFVQRDZPMEhQSXQtcld2bkVwdmYya2J5cEFNakJxdmlJV2NZT25OUkJsVTR1NWpQMkhOdFNOUF9kX1lqYWtRZW9hRGtSNlJIYUpUeVNDbTFhbFpoTkJlR0N6Wk1hS2kzNVloYjhxbml0RDByUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3e1751643ab",
+      "title": "Marieke (43) schreef elke dag een brief aan haar dochter toen ze borstkanker kreeg, nu is het een boek - AD.nl",
+      "published": "2026-07-08T06:00:00+00:00",
+      "summary": "Marieke (43) schreef elke dag een brief aan haar dochter toen ze borstkanker kreeg, nu is het een boek&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXNURWROYkVVRVpYRlJUbzFUWHlST1M3VThFb2xWdkoteGQxQXpnZkxQRHF2R1BMT0pGZlpYeGRYZVZXTmRURF9yeVNkZFFabThCY2RPUmNPd2MxekpRT3ZpZ0sxeU1lNW93S29yd1hyaUFoVGNsWG9odGFJS1lRQXFnSEpuRmI1aVA3NzdReE5mLVRYVm8xMlhPMHhiNXJjeUU0QnZDdFhJT0QtblJsYmZ0b0RrUS1sME1qbHo0bnpmLS1uT2VDZzhYYkQ3WE0?oc=5"
         }
       ]
     },
@@ -31,7 +55,7 @@
       "id": "a7a87ec0dc3c",
       "title": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker - RTL.nl",
       "published": "2026-07-07T09:09:50+00:00",
-      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlHet staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte Kringen",
+      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlLangdurig zitten verhoogt risico op kanker en overlijden&nbsp;&nbsp;NieuwslensHet staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte KringenDe wetenschap waarschuwt: een uur achter elkaar zitten vergroot het risico om te overlijden aan kanker.&nb",
       "sources": [
         {
           "name": "RTL.nl",
@@ -64,22 +88,10 @@
       ]
     },
     {
-      "id": "f1356f876c96",
-      "title": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat - Metronieuws.nl",
-      "published": "2026-07-07T07:25:00+00:00",
-      "summary": "Onderzoek naar melatonine toont mogelijk effect op chronische pijn: zo zit dat&nbsp;&nbsp;Metronieuws.nlVerrassend wapen tegen chronische pijn: sla je met melatonine twee vliegen in één klap?&nbsp;&nbsp;Scientias.nlMelatonine mogelijk effectief tegen chronische pijn en slaapproblemen&nbsp;&nbsp;NieuwslensHet slaapsupplement dat even goed werkt als opioïden tegen chronische pijn&nbsp;&nbsp;upday News",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB1d2xQeDNKOVJwRmcwRlRJcmlNQVZmcUVPaWZBRXByN0h0X1hDWVJOV3lncWctcDhaSVVQS0VoSG13WmthVEE3WmF5WjhfOVB2Vl9UeWFkOEdSVWJyZVk5TzhVRnQ5MWxzeXZyN3dRUkRhcF9sQUNzdHJqS0EtSWtIbG5hOURjblBwZzFkOE1lc2hZVVlLSnMyOTRVSklscUUyUGdnZzlpV0ptUk5QSnA4QU40aDIyYWdBOVI1S29OQTFBdzYyNkZLT2QtZm8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "be4ee3fb2c20",
       "title": "Dina Tersago gaat op vakantie, maar waarschuwt volgers na advies van huisarts - Redactie24",
       "published": "2026-07-08T07:19:20+00:00",
-      "summary": "Dina Tersago gaat op vakantie, maar waarschuwt volgers na advies van huisarts&nbsp;&nbsp;Redactie24Ook Dina Tersago liet zich vaccineren tegen tekenencefalitis voor haar reis: “Een teek snel verwijderen helpt hier niet”&nbsp;&nbsp;HLN",
+      "summary": "Dina Tersago gaat op vakantie, maar waarschuwt volgers na advies van huisarts&nbsp;&nbsp;Redactie24",
       "sources": [
         {
           "name": "Redactie24",

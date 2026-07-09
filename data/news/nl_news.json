@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-09T02:38:55.793603+00:00",
+  "fetched_at": "2026-07-09T09:32:46.293021+00:00",
   "count": 8,
   "news": [
     {
-      "id": "2ec7c448ac08",
-      "title": "Amerikaanse zakenman die dood wil 'overwinnen' is ongeneeslijk ziek - NU",
-      "published": "2026-07-07T16:19:27+00:00",
-      "summary": "Amerikaanse zakenman die dood wil 'overwinnen' is ongeneeslijk ziek&nbsp;&nbsp;NUBiohackers willen topfit verouderen, artsen zien vooral dure schijnzekerheid&nbsp;&nbsp;De TelegraafNetflix-influencer die miljoenen uitgaf om eeuwig jong te blijven blijkt ongeneeslijk ziek&nbsp;&nbsp;AD.nlBekende biohacker die eeuwig wil leven, krijgt slecht nieuws over zijn gezondheid&nbsp;&nbsp;LINDA.nlAmerikaanse influencer die veroudering wil vertragen krijgt diagnose van ongeneeslijke auto-immuunziekte&nbsp;&",
+      "id": "88491c89a592",
+      "title": "“Veel mensen blijven lang onder de radar”: wat is AIG, de ziekte die ‘de gezondste man ter wereld’ treft? - HLN",
+      "published": "2026-07-09T07:18:13+00:00",
+      "summary": "“Veel mensen blijven lang onder de radar”: wat is AIG, de ziekte die ‘de gezondste man ter wereld’ treft?&nbsp;&nbsp;HLNAmerikaanse zakenman die dood wil 'overwinnen' is ongeneeslijk ziek&nbsp;&nbsp;NUBiohackers willen topfit verouderen, artsen zien vooral dure schijnzekerheid&nbsp;&nbsp;De TelegraafNetflix-influencer die miljoenen uitgaf om eeuwig jong te blijven heeft ongeneeslijke ziekte&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUS04ZUtMUnBJRkI0elZXSjR5LWliS0xod284dGVEZjJFQTd5MlQtLVFlT0FkV2czcXNwR1p4ZGZkODNTeTgxNExWbFJsODZuYXJoWTUzMFhsN0M0U0FvYWFtTG9IWFRuLUk1ZHkwRVA4X25yUk52TXpPdVlSRkVVZjhjdFRlcUtPUDZXd1BDakhwVDQxLWZ2bzl0bHNUWWVlWldzWGZ1eUFCVVE?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1drZlFRTTRweVNPb0prNTJkRTBnUFZpa3ZIVFpTQlV6Y0IwcTZYd2Z5XzFUbDRPVzBYcnFUTjRmWjBSMmpWU0xTYkVIdzhjbU84azQ4QTh6TElKaGtTckZpc2FRR09sMkpGSVJ0QUxQMEpyMXRXOTBRSl93VUpQTlN2QVZaSExLMHQxSEhTa2JzaWF6VDVFRE9pV0NjQUNaMXRkQnBZWUZWU2RENFpmeG9GVWJEZFhfMERQRC1KMmdVZHU2OEdITWM0TnpnSVMxbWY4SA?oc=5"
         }
       ]
     },
     {
-      "id": "94db41b02269",
-      "title": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken - National Geographic",
-      "published": "2026-07-07T09:33:39+00:00",
-      "summary": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken&nbsp;&nbsp;National GeographicNieuwe aanbevelingen om de screening en diagnose van obesitas te verbeteren&nbsp;&nbsp;Medi-SfeerMeest recente inzichten in obesitas (2): de toekomst&nbsp;&nbsp;ArtsenkrantOpinie: ‘We behandelen obesitas pas als het te laat is’&nbsp;&nbsp;DutchHealthHubMeest recente inzichten in obesitas (1): etiologie&nbsp;&nbsp;Artsenkrant",
+      "id": "e5a702960e82",
+      "title": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier - Trouw",
+      "published": "2026-07-07T11:44:00+00:00",
+      "summary": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier&nbsp;&nbsp;TrouwmRNA-technologie biedt hoop voor behandeling van MS en diabetes type 1: “Belangrijke stap richting patiëntvriendelijke therapieën”&nbsp;&nbsp;HLNMiljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheid",
       "sources": [
         {
-          "name": "National Geographic",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWdydHZjNHFCbE5QRlNBVFVQRDZPMEhQSXQtcld2bkVwdmYya2J5cEFNakJxdmlJV2NZT25OUkJsVTR1NWpQMkhOdFNOUF9kX1lqYWtRZW9hRGtSNlJIYUpUeVNDbTFhbFpoTkJlR0N6Wk1hS2kzNVloYjhxbml0RDByUQ?oc=5"
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtVSDIyU0ZIV1ViNkEza2V2LXpyb2JiYXo1WDRqOWdIZGRrRlJUaVlnSHRkY19fdUxnc0JlQUJ4eUtBakd5cGpDdG5MaU5qeUZTWmNwenBHMnBSY3I2OVdyZG5wVkhqOXVyZ1B1VFU2SVU1eVNlRHZJbHNrbklnb3p1WmhUdTBrZXlMbllzRW0zT2NCaGU3Y3JSMlZidmdHSk13aVhfZ0NiVUhwZFAyNThKZW85MG1lbXhVeElMOXJSSEpxd1RmUDJyZERRbzFNUzB0RGpDZnFWSmlM?oc=5"
         }
       ]
     },
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "a7a87ec0dc3c",
-      "title": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker - RTL.nl",
-      "published": "2026-07-07T09:09:50+00:00",
-      "summary": "Lang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlLangdurig zitten verhoogt risico op kanker en overlijden&nbsp;&nbsp;NieuwslensHet staat nu vast: van te veel zitten krijg je (eerder) kanker&nbsp;&nbsp;Welingelichte KringenDe wetenschap waarschuwt: een uur achter elkaar zitten vergroot het risico om te overlijden aan kanker.&nb",
+      "id": "94db41b02269",
+      "title": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken - National Geographic",
+      "published": "2026-07-07T09:33:39+00:00",
+      "summary": "Is obesitas een ziekte? Waarom artsen anders naar obesitas zijn gaan kijken&nbsp;&nbsp;National GeographicObesitas aanpakken: ‘Realiseer je dat het leuke, dankbare zorg is’&nbsp;&nbsp;doq.nlMeest recente inzichten in obesitas (2): de toekomst&nbsp;&nbsp;ArtsenkrantNieuwe aanbevelingen om de screening en diagnose van obesitas te verbeteren&nbsp;&nbsp;Medi-SfeerOpinie: ‘We behandelen obesitas pas als het te laat is’&nbsp;&nbsp;DutchHealthHub",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDRaM2JSR1FDS1FSa0hINFhBZVVHdXFJbjZGRVBVNmFSUUYxR3lwS3dEMVdETi04ZE9NalNUbFpiMjhsZGpZc2tpVE5RQjFLRUo5RDdmNUhyUloxdVRWR0tIdmNMUGxHRXE3TF9DcEtHMmJUTUIyelZaTndrakViajQtQWlpRGNlS2NZWjFpcVB6X0hGYTA5S3VlMi1UMlMtZDU2aTV5aXQwcEhM?oc=5"
+          "name": "National Geographic",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWdydHZjNHFCbE5QRlNBVFVQRDZPMEhQSXQtcld2bkVwdmYya2J5cEFNakJxdmlJV2NZT25OUkJsVTR1NWpQMkhOdFNOUF9kX1lqYWtRZW9hRGtSNlJIYUpUeVNDbTFhbFpoTkJlR0N6Wk1hS2kzNVloYjhxbml0RDByUQ?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "002121726101",
       "title": "Verrassend effect van koffie ontdekt in lichaam - Redactie24",
       "published": "2026-07-07T09:30:00+00:00",
-      "summary": "Verrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlKoffieliefhebbers leven langer: het onverwachte gezondheidsvoordeel verbaast artsen&nbsp;&nbsp;Futura, le média qui explore le mondeWat je 's ochtends kunt drinken dat goed is voor je lever: drie Amerikaanse artsen geven dezelfde aanbeveling.&nbsp;&nbsp;Vietnam.vnGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker b",
+      "summary": "Verrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Onderzoek: koffiedrinkers lopen mogelijk minder risico op leverziekten&nbsp;&nbsp;bnr.nlDit populaire drankje beschermt mogelijk ook tegen depressie&nbsp;&nbsp;Welingelichte KringenGoed nieuws voor koffieliefhebbers: tot 47 procent minder kans op leverkanker bij vijf kopjes per dag&nbsp;&nbsp;HLNKoffie in de strijd tegen een depressie? Onderzoekers zien extra reden om koffie te drinken&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "Redactie24",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "e5a702960e82",
-      "title": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier - Trouw",
-      "published": "2026-07-07T11:44:00+00:00",
-      "summary": "Geweldig nieuws voor alle complotcasters en onzinfluencers: die coronavaccins werken als een tierelier&nbsp;&nbsp;TrouwMiljarden prikken later: grootste studie ooit bevestigt dat mRNA-vaccins veilig, effectief en enorm veelbelovend zijn&nbsp;&nbsp;Scientias.nlDe mRNA-covidvaccins hebben tijdens de coronapandemie vooral levens gered&nbsp;&nbsp;gezondheidenwetenschap.beBekendmaking van de conclusies over het mRNA-vaccin tegen Covid-19.&nbsp;&nbsp;Vietnam.vnGrootschalige studie bevestigt veiligheid",
+      "id": "63612cf6edc4",
+      "title": "Vervolg: de dag nadat... ik de diagnose uitgezaaide eierstokkanker kreeg - Libelle",
+      "published": "2026-07-08T14:47:07+00:00",
+      "summary": "Vervolg: de dag nadat... ik de diagnose uitgezaaide eierstokkanker kreeg&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtVSDIyU0ZIV1ViNkEza2V2LXpyb2JiYXo1WDRqOWdIZGRrRlJUaVlnSHRkY19fdUxnc0JlQUJ4eUtBakd5cGpDdG5MaU5qeUZTWmNwenBHMnBSY3I2OVdyZG5wVkhqOXVyZ1B1VFU2SVU1eVNlRHZJbHNrbklnb3p1WmhUdTBrZXlMbllzRW0zT2NCaGU3Y3JSMlZidmdHSk13aVhfZ0NiVUhwZFAyNThKZW85MG1lbXhVeElMOXJSSEpxd1RmUDJyZERRbzFNUzB0RGpDZnFWSmlM?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaExBMTE2ekZ3OWpXR3A0NF9xNDg4QUlYVmc0YWJ1cUNpRDlWZ3RrVjJMempMQmZNSTdfeEJBZktBQkstMXJSNTJxclEyZ1A3aXVxc2gxdjZoUnBNT1FnWXFnMTBjSF9VcF9iR0tGck8xWmI5Sm5NbWJ1RVNCbWhjYzNR?oc=5"
         }
       ]
     },

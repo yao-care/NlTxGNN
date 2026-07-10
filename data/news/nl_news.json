@@ -1,29 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-10T02:41:30.268722+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-10T09:28:53.695334+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "375d03923c7d",
-      "title": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen' - Jeugdjournaal",
-      "published": "2026-07-09T16:40:57+00:00",
-      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalBehandeling voor patiënten met obesitas die na hersentumor steeds honger hebben&nbsp;&nbsp;NOSNieuw medicijn bij obesitas na hersentumor ‘verbluffend’: vele kilo’s lichter in een jaar tijd&nbsp;&nbsp;AD.nlDoorbraak in behandeling van ontregeld gewicht na hersentumor&nbsp;&nbsp;Prinses Maxima CentrumVeelbelovend nieuw medicijn voor patiënten die na hersentumor steeds honger hebben&nbsp;&nb",
+      "id": "c251a7fa1469",
+      "title": "Huisartsen spreken in jaar tijd bijna 40 procent meer patiënten met overgewicht - NU",
+      "published": "2026-07-10T05:12:46+00:00",
+      "summary": "Huisartsen spreken in jaar tijd bijna 40 procent meer patiënten met overgewicht&nbsp;&nbsp;NUMensen gaan plots volop naar huisarts vanwege hun overgewicht&nbsp;&nbsp;NUSteeds meer Nederlanders stappen acuut naar de huisarts voor afslankmedicatie&nbsp;&nbsp;Men's HealthJaarcijfers huisartsenzorg 2025: het aantal visites blijft afnemen&nbsp;&nbsp;Nivel | Kennis voor betere zorg",
       "sources": [
         {
-          "name": "Jeugdjournaal",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iRmZOT0o4bHZKTXRUQm90UzEyT2JKaXc1djlEdXFMeXMyMjNGWEE1aEVmX1JEM0wzX19wLXVHNXlrelRxU1RlcDdB?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUFVdm8zd2ZGS21aMzdkOGtGcDZJVDZVcUMyeU1wU05uN0ZxMS1yamlMbzlwS1dGNWVtNmNnTE9fRlVRRXU4cVAwWE10NkNIV3NLTk95RU51MFNWUnotcDRwbXhRZTlsaF9ZQWhxczBLaXpQUkc3cGRJSHplZGNJTXd1S2NOUEZoSzlNbnlwM25TNXc2N0VMLUp2Y0FiYk9LNlI2QmdmTGx5RnNTRUxyM3c0MmJwY1duUThVZTB3?oc=5"
         }
       ]
     },
     {
-      "id": "d3e1751643ab",
-      "title": "Marieke (43) schreef elke dag een brief aan haar dochter toen ze borstkanker kreeg, nu is het een boek - AD.nl",
-      "published": "2026-07-08T06:00:00+00:00",
-      "summary": "Marieke (43) schreef elke dag een brief aan haar dochter toen ze borstkanker kreeg, nu is het een boek&nbsp;&nbsp;AD.nl",
+      "id": "dae99cc2ec4d",
+      "title": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen' - Jeugdjournaal",
+      "published": "2026-07-09T16:40:57+00:00",
+      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalBehandeling voor zwaar obese kinderen die na hersentumor steeds honger hebben&nbsp;&nbsp;NOSArtsen in Máxima Centrum enthousiast over medicijn tegen onstilbare honger door hersenschade&nbsp;&nbsp;AD.nlDoorbraak in behandeling van ontregeld gewicht na hersentumor&nbsp;&nbsp;Prinses Maxima CentrumVeelbelovend nieuw medicijn voor patiënten die na hersentumor steeds honger hebben&nbsp;&nbsp;R",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXNURWROYkVVRVpYRlJUbzFUWHlST1M3VThFb2xWdkoteGQxQXpnZkxQRHF2R1BMT0pGZlpYeGRYZVZXTmRURF9yeVNkZFFabThCY2RPUmNPd2MxekpRT3ZpZ0sxeU1lNW93S29yd1hyaUFoVGNsWG9odGFJS1lRQXFnSEpuRmI1aVA3NzdReE5mLVRYVm8xMlhPMHhiNXJjeUU0QnZDdFhJT0QtblJsYmZ0b0RrUS1sME1qbHo0bnpmLS1uT2VDZzhYYkQ3WE0?oc=5"
+          "name": "Jeugdjournaal",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUJuRXl5UnBjSFI3VTN4NnBzNnlpanFmckRiVldNWG1XZG5ZTzdBOWJQQ2JLcmwtYlhWUEh2eUJoTVFqNnFGOUhjM1BZWTZ4Q3o1dEpFQzZOb0FrYXB0eExhZkdpNXpPR3BaeWZZVHN5MmdsRGoyb2tUNEZXYjFqNlhScWdFSkZIY0hTN3JHSWc1US04MXJPWXlYNHZfczNSdURhdUlpSTBWVWRnVjVLSS0ycHRNcFVRRmtGakZNQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e445a1cfeff",
+      "title": "Nieuw onderzoek: zelfs iets minder slapen kan al zorgen voor gewichtstoename - Metronieuws.nl",
+      "published": "2026-07-09T11:02:00+00:00",
+      "summary": "Nieuw onderzoek: zelfs iets minder slapen kan al zorgen voor gewichtstoename&nbsp;&nbsp;Metronieuws.nlDit doet structureel te weinig slapen met je lichaamsgewicht&nbsp;&nbsp;Scientias.nlZelfs een beetje te weinig slaap kan al leiden tot gewichtstoename&nbsp;&nbsp;Laboratorium.nlZelfs een beetje te weinig slaap kan je doen aankomen&nbsp;&nbsp;Nieuwslens",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTQ5Sk5DRy1rYWZBTFhYbm1id0xYc0U1eTFhYWJjVHQxT3ZseW9jeW4za01PeWVZNDM2VktlNDM1N1pNZlVGeXBMc0lsQnd5cG4xQmpXQWpSRG1KRzZSLXl2R2M1aHM2MldXanNWNTNWWnhhSkhnSkJtUmI0a0g2cTN2NmM?oc=5"
         }
       ]
     },

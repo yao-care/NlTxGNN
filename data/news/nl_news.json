@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-10T14:16:02.647668+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-10T19:22:14.368609+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "dae99cc2ec4d",
+      "id": "6cc90121d13e",
+      "title": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht - RTV Utrecht",
+      "published": "2026-07-10T15:05:55+00:00",
+      "summary": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht&nbsp;&nbsp;RTV UtrechtExtra vaccinatiedag bij Hilversumse Dierenartsenpraktijk Loosdrechtseweg na onrust over hondenziekte: ’We willen het virus voor zijn’&nbsp;&nbsp;De Gooi- en EemlanderOnrust over oprukkende hondenziekte: ’We willen het virus voor zijn’&nbsp;&nbsp;Noordhollands DagbladBesmettelijke hondenziekte duikt op rond Nijmegen en Utrecht: dierenartsen gewaarschuwd voor virus met zware klachten&nbsp;&nbsp;De GelderlanderHi",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNadWh1WFVMOVZDdjVpb05zVEtrc3VUZjh2clVEOVVDZUM4bXJ5cmhmd2hqSEFuSzA1RWcxY2ZybWNqTldzdGhSVEN4SUhHLXA4ZWRjMUFtNWd4eTZDS2xtTUp5QUpVOGVKMjdhc01fV0dEV21sZjNKelRZU1c1UktNU2JTVGxPVkxnSTZwcHVndmM5WHhQTXhvVWVIbjMxY19tSVRCWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "375d03923c7d",
       "title": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen' - Jeugdjournaal",
       "published": "2026-07-09T16:40:57+00:00",
-      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalBehandeling voor zwaar obese kinderen die na hersentumor steeds honger hebben&nbsp;&nbsp;NOSArtsen in Máxima Centrum enthousiast over medicijn tegen onstilbare honger door hersenschade&nbsp;&nbsp;AD.nlDoorbraak in behandeling van ontregeld gewicht na hersentumor&nbsp;&nbsp;Prinses Maxima CentrumVeelbelovend nieuw medicijn voor patiënten die na hersentumor steeds honger hebben&nbsp;&nbsp;R",
       "sources": [
         {
           "name": "Jeugdjournaal",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUJuRXl5UnBjSFI3VTN4NnBzNnlpanFmckRiVldNWG1XZG5ZTzdBOWJQQ2JLcmwtYlhWUEh2eUJoTVFqNnFGOUhjM1BZWTZ4Q3o1dEpFQzZOb0FrYXB0eExhZkdpNXpPR3BaeWZZVHN5MmdsRGoyb2tUNEZXYjFqNlhScWdFSkZIY0hTN3JHSWc1US04MXJPWXlYNHZfczNSdURhdUlpSTBWVWRnVjVLSS0ycHRNcFVRRmtGakZNQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iRmZOT0o4bHZKTXRUQm90UzEyT2JKaXc1djlEdXFMeXMyMjNGWEE1aEVmX1JEM0wzX19wLXVHNXlrelRxU1RlcDdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02d75a6285a6",
+      "title": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen) - Trouw",
+      "published": "2026-07-10T12:09:00+00:00",
+      "summary": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen)&nbsp;&nbsp;TrouwNa 12 jaar is er bewijs: wie lang stilzit zonder te bewegen, verhoogt het risico op kanker&nbsp;&nbsp;HLN90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlLang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nlKankeronderzoeker: Eén veelvoorkomende gewoonte kan je risico flink ve",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSlBnaHRSbkdZTGptak1ERmM0Vkk3dVlSNlhqT1VwY2Y0VWlPMGtZVXkzNEpoY2JaMlA5ODB2V2JLZHpWaUlUbks2RVplc2lmOEVUdmxXZnF3d2ZHZ1BHYWVXTnNITzcwdkg5UFI1TmVpaEN5cl9yNHVPb051YVBZZEkzOWJ5V3FDV0xobU1YeE8xSHVqZGFadFFpOExXNzF0cDhFNWFGNUJSWExDY19GYUM5aG5XRWZfb3prajVn?oc=5"
         }
       ]
     },
@@ -24,42 +48,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenNmYXpjbmJqeWlkZjc2Qkxhcktwd2VvNEhLQmVBQ3hYQWNocFNTeG9sNUVUZi1STm00Zmc3QVpwMl9WNXZvaDBiNFg0X2dUMjVzTW5RaFBZYUd5QjBueGpQOGZSV2FOdHlYUjR3czlXY19IcThsdkh0RzRKSUR3b0xkSFJWN2oxTnMzWTVoTi0yYUtSTmtTa1ZfelBTWWY0TXZrR0dVak5LZXFfakxZV3lfTUZmaVZxc1NnVnE3bmkxdUEwNjZYeWswaHBVTWJrQ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e445a1cfeff",
-      "title": "Nieuw onderzoek: zelfs iets minder slapen kan al zorgen voor gewichtstoename - Metronieuws.nl",
-      "published": "2026-07-09T11:02:00+00:00",
-      "summary": "Nieuw onderzoek: zelfs iets minder slapen kan al zorgen voor gewichtstoename&nbsp;&nbsp;Metronieuws.nlDit doet structureel te weinig slapen met je lichaamsgewicht&nbsp;&nbsp;Scientias.nlZelfs een beetje te weinig slaap kan al leiden tot gewichtstoename&nbsp;&nbsp;Laboratorium.nlZelfs een beetje te weinig slaap kan je doen aankomen&nbsp;&nbsp;Nieuwslens",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTQ5Sk5DRy1rYWZBTFhYbm1id0xYc0U1eTFhYWJjVHQxT3ZseW9jeW4za01PeWVZNDM2VktlNDM1N1pNZlVGeXBMc0lsQnd5cG4xQmpXQWpSRG1KRzZSLXl2R2M1aHM2MldXanNWNTNWWnhhSkhnSkJtUmI0a0g2cTN2NmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "63612cf6edc4",
-      "title": "Vervolg: de dag nadat... ik de diagnose uitgezaaide eierstokkanker kreeg - Libelle",
-      "published": "2026-07-08T14:47:07+00:00",
-      "summary": "Vervolg: de dag nadat... ik de diagnose uitgezaaide eierstokkanker kreeg&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaExBMTE2ekZ3OWpXR3A0NF9xNDg4QUlYVmc0YWJ1cUNpRDlWZ3RrVjJMempMQmZNSTdfeEJBZktBQkstMXJSNTJxclEyZ1A3aXVxc2gxdjZoUnBNT1FnWXFnMTBjSF9VcF9iR0tGck8xWmI5Sm5NbWJ1RVNCbWhjYzNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15aa7504715a",
-      "title": "Waarom experten afraden om screening op borstkanker uit te breiden naar meer vrouwen - HLN",
-      "published": "2026-07-09T06:02:20+00:00",
-      "summary": "Waarom experten afraden om screening op borstkanker uit te breiden naar meer vrouwen&nbsp;&nbsp;HLNWaarom uitbreiding van borstkankerscreening niet beste keuze is: \"Voordelen wegen niet op tegen nadelen\"&nbsp;&nbsp;VRT‘We moeten af van de slogan: ‘Laat je borsten screenen want het redt levens’’&nbsp;&nbsp;De MorgenKCE beveelt uitbreiding van borstkankerscreening niet aan&nbsp;&nbsp;NieuwsbladScreenen van borstkanker: is het zinvol? De feiten op een rij&nbsp;&nbsp;Testaankoop",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0xGWGZCVmtVSDQwYi1OUEdhMndXUThQNmxTdm5ISW1vajhKZFd1Q1lNemFKVEhjc2ZYWEU4ZEhkTlZ4aktoWjJUdHpueUxXUTY4Z2V4blF0OS1wT2U1MGNTM0RKQ0QxdDlxNWxFSWJ4Yi1CdFdqOFlBNkFoNTdSb1E4N3VmZVZzSEFFT1FsWXhRSmxvZUdMQTdrcTMxYzZRVGlWaXhnMzNrREdQeFB4VzFBWERRZzlpeWlRcWJxQkZ6dw?oc=5"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-11T02:22:05.495325+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-11T07:49:48.282281+00:00",
+  "count": 6,
   "news": [
     {
       "id": "6cc90121d13e",
@@ -16,14 +16,38 @@
       ]
     },
     {
+      "id": "b8460d747dd3",
+      "title": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef - RTL.nl",
+      "published": "2026-07-11T05:11:09+00:00",
+      "summary": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlEbola eist in Congo al 600 doden&nbsp;&nbsp;TrouwCongo: aantal bevestigde ebolagevallen opgelopen tot bijna 1800&nbsp;&nbsp;De Gooi- en EemlanderDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE Ebola-epidemie verspreidt zich sneller dan vorige epidemieën, al 600 doden geteld&nbsp;&nbsp;VRT",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1owWEhkOHZDWUlmZi13SlFhNE4wVEhlTHk5RkZueUlDTFFkTF9IbXktRDBualV4VUpuZVRsaU9DZ18ySHFMcG9uODNhODJBc043aGxjMEFmdXRZRW5IUUFRQTlTMVJzMGxBOHJWNmNkR2ZyRXRzSGpLNnBIdzNKdUpNYnZMbDdXTG9UVEpxUG81cmR3ZUpzVW1FeEpmeGpEVExnVWlYQUY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "375d03923c7d",
       "title": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen' - Jeugdjournaal",
       "published": "2026-07-09T16:40:57+00:00",
-      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalBehandeling voor zwaar obese kinderen die na hersentumor steeds honger hebben&nbsp;&nbsp;NOSVeelbelovend nieuw medicijn voor patiënten die na hersentumor steeds honger hebben&nbsp;&nbsp;Reformatorisch DagbladDoorbraak in behandeling van ontregeld gewicht na hersentumor&nbsp;&nbsp;Prinses Maxima CentrumPrinses Máxima Centrum helpt bij nieuw medicijn tegen obesitas na hersentumor&nbsp;&nbsp",
+      "summary": "Quiyana heeft altijd honger door een zeldzame ziekte: 'Eindelijk zijn er medicijnen'&nbsp;&nbsp;JeugdjournaalMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "Jeugdjournaal",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iRmZOT0o4bHZKTXRUQm90UzEyT2JKaXc1djlEdXFMeXMyMjNGWEE1aEVmX1JEM0wzX19wLXVHNXlrelRxU1RlcDdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbf61691b31b",
+      "title": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-10T13:00:00+00:00",
+      "summary": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekStoppen als je eenmaal begonnen bent met Ozempic? Dat is nog niet zo makkelijk, waarschuwt obesitas-arts&nbsp;&nbsp;quest.nlWat gebeurt er als mensen met een eetstoornis Ozempic gebruiken?&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHFwcUVRMEhjY1RLRzNXeFlwY3liTUJKMkQzSEYyR2VjY2Q0NU9pMGhLN0ZQUzlacGw5SnJ3WXc4YXd5UTRFRGhJMVpiODFUd3VqMno5ZGNzN2NOUXhlb2QzajIwRmRGU1VjWEQ3dkNsRkJDSVd0aVhRSV95V2owM3pHLUhMLVFqTUxpZ0J3aFZkU3J3NTM3MDMwVUZVVkctbGM1ckdsa2tTZkJlMWVSeFJyWVhrSDhoaVlTOE9Gd1NaTV9y?oc=5"
         }
       ]
     },

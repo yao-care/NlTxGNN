@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-11T07:49:48.282281+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-11T13:10:49.107811+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "0c9e59752c8b",
+      "title": "Amerikaanse hulpverlener in Congo besmet met ebolavirus - NOS",
+      "published": "2026-07-11T05:41:28+00:00",
+      "summary": "Amerikaanse hulpverlener in Congo besmet met ebolavirus&nbsp;&nbsp;NOSEbola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlEbola eist in Congo al 600 doden&nbsp;&nbsp;TrouwDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekCongo: aantal bevestigde ebolagevallen opgelopen tot bijna 1800&nbsp;&nbsp;De Gooi- en Eemlander",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTRGeE05Q3dqMzFSSlZiZzVNcERqalJjc2gwY19KcXNHOUdaV05aNTBaVUVLYWdnSVBfREp4ZHBVUC1XMkpZSlZ1YzFzQ1hyVEpuMm10R0E4TDZGTE9PcVVXSVFSLTVHY2pabWplcW5hcngxbXFJNXRxYTUxTWY0RnFZOXBhbEs5TkxZV3RSWQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "6cc90121d13e",
       "title": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht - RTV Utrecht",
@@ -12,18 +24,6 @@
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNadWh1WFVMOVZDdjVpb05zVEtrc3VUZjh2clVEOVVDZUM4bXJ5cmhmd2hqSEFuSzA1RWcxY2ZybWNqTldzdGhSVEN4SUhHLXA4ZWRjMUFtNWd4eTZDS2xtTUp5QUpVOGVKMjdhc01fV0dEV21sZjNKelRZU1c1UktNU2JTVGxPVkxnSTZwcHVndmM5WHhQTXhvVWVIbjMxY19tSVRCWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8460d747dd3",
-      "title": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef - RTL.nl",
-      "published": "2026-07-11T05:11:09+00:00",
-      "summary": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlEbola eist in Congo al 600 doden&nbsp;&nbsp;TrouwCongo: aantal bevestigde ebolagevallen opgelopen tot bijna 1800&nbsp;&nbsp;De Gooi- en EemlanderDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE Ebola-epidemie verspreidt zich sneller dan vorige epidemieën, al 600 doden geteld&nbsp;&nbsp;VRT",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1owWEhkOHZDWUlmZi13SlFhNE4wVEhlTHk5RkZueUlDTFFkTF9IbXktRDBualV4VUpuZVRsaU9DZ18ySHFMcG9uODNhODJBc043aGxjMEFmdXRZRW5IUUFRQTlTMVJzMGxBOHJWNmNkR2ZyRXRzSGpLNnBIdzNKdUpNYnZMbDdXTG9UVEpxUG81cmR3ZUpzVW1FeEpmeGpEVExnVWlYQUY?oc=5"
         }
       ]
     },
@@ -55,11 +55,23 @@
       "id": "02d75a6285a6",
       "title": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen) - Trouw",
       "published": "2026-07-10T12:09:00+00:00",
-      "summary": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen)&nbsp;&nbsp;TrouwNa 12 jaar is er bewijs: wie lang stilzit zonder te bewegen, verhoogt het risico op kanker&nbsp;&nbsp;HLN90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlLang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nlKankeronderzoeker: Eén veelvoorkomende gewoonte kan je risico flink ve",
+      "summary": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen)&nbsp;&nbsp;TrouwNa 12 jaar is er bewijs: wie lang stilzit zonder te bewegen, verhoogt het risico op kanker&nbsp;&nbsp;HLN90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elkaar zit, loopt meer risico op kanker&nbsp;&nbsp;Metronieuws.nlLang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nlLangdurig zitten verhoogt risico op kanker en overlijden&nbsp;&nbsp;Ni",
       "sources": [
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSlBnaHRSbkdZTGptak1ERmM0Vkk3dVlSNlhqT1VwY2Y0VWlPMGtZVXkzNEpoY2JaMlA5ODB2V2JLZHpWaUlUbks2RVplc2lmOEVUdmxXZnF3d2ZHZ1BHYWVXTnNITzcwdkg5UFI1TmVpaEN5cl9yNHVPb051YVBZZEkzOWJ5V3FDV0xobU1YeE8xSHVqZGFadFFpOExXNzF0cDhFNWFGNUJSWExDY19GYUM5aG5XRWZfb3prajVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "156dca37ab69",
+      "title": "Wetenschappers: meertaligen hebben tot dertien jaar jongere hersenen - bnr.nl",
+      "published": "2026-07-11T06:16:00+00:00",
+      "summary": "Wetenschappers: meertaligen hebben tot dertien jaar jongere hersenen&nbsp;&nbsp;bnr.nl850 hersenscans laten zien: Mensen met een jonger brein hebben misschien één ding gemeen&nbsp;&nbsp;wibnet.nlMensen die meerdere talen spreken lijken een jonger brein te hebben&nbsp;&nbsp;KIJK MagazineTalen leren kan hersenveroudering met 13 jaar vertragen - studie toont hoeveel helpen&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDFmUlp1Z3h3X2ZseVAtVWdlVGU4dEV3cU01VU1VTG5YOVhoU0xFZUZyVjB6QmVmdmw3Q19CcXM2VjdpUmFVTkJvdTVOS0MwMTNSTnVoZVlqZHlWY2xaRVhMNDVLQ0xrV21kMk9HcGRLSHoyMU83dUVQdWtNR25JaGd1NmhQbmM1MEh1WTM1NXJSUGc5X1pYWG1nM2drTnFpM3IwYlZYS2pMVWlVM2lBd0lB?oc=5"
         }
       ]
     },

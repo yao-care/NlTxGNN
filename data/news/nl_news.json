@@ -1,6 +1,79 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-11T18:57:18.565291+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-07-12T02:27:01.028237+00:00",
+  "count": 6,
+  "news": [
+    {
+      "id": "b8460d747dd3",
+      "title": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef - RTL.nl",
+      "published": "2026-07-11T05:11:09+00:00",
+      "summary": "Ebola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlAmerikaanse hulpverlener in Congo besmet met ebolavirus&nbsp;&nbsp;NOSTweede Amerikaanse hulpverlener raakt besmet met ebola&nbsp;&nbsp;HLNEbola eist in Congo al 600 doden&nbsp;&nbsp;TrouwDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1owWEhkOHZDWUlmZi13SlFhNE4wVEhlTHk5RkZueUlDTFFkTF9IbXktRDBualV4VUpuZVRsaU9DZ18ySHFMcG9uODNhODJBc043aGxjMEFmdXRZRW5IUUFRQTlTMVJzMGxBOHJWNmNkR2ZyRXRzSGpLNnBIdzNKdUpNYnZMbDdXTG9UVEpxUG81cmR3ZUpzVW1FeEpmeGpEVExnVWlYQUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f746040c218",
+      "title": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij? - De Standaard",
+      "published": "2026-07-12T01:47:00+00:00",
+      "summary": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij?&nbsp;&nbsp;De StandaardErnstige nierproblemen bij Vlaamse kinderen, mogelijk door bezoek aan kinderboerderij&nbsp;&nbsp;NOSEleonora (2) in coma nadat ze STEC-bacterie kreeg van broertje dat mogelijk besmet raakte op kinderboerderij: “Haar nieren en hart zijn aangetast”&nbsp;&nbsp;HLNVijf kinderen in ziekenhuis opgenomen met ernstige nierinfectie, mogelijk link met bezoek aan kinderboe",
+      "sources": [
+        {
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUhsbFkyUGZRVzRKRGZ4UnhlcDVMNDlFa2RHa2poRkpmamNycEgzOTlwOGVKMHRZaHM4a3JnMWFBUFJqdEpBcW9vaHRqT2RtMzJjRzlBVHFJa3VSWjZIQjhPTmRpYWZSbFNSNUFEUXhqektNemdzWFI3ZGtPOXZJMkE1V24tUGlXLU9XZG1Fc2JtOHFSRzNlUktfWE1zeEgyUWRnRUZ0S0xjeUJiRk41SE91Rk55OUJpX1VaaTlOSmloTXNwNHRkd3Zxck1QU21STFVIdFpxVjk5dnMzeElfX2NWWGFTb1ZkQ0JUZ2c1aWN0cEc1R3k2OXY3UUNZVVds?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cc90121d13e",
+      "title": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht - RTV Utrecht",
+      "published": "2026-07-10T14:30:00+00:00",
+      "summary": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht&nbsp;&nbsp;RTV UtrechtHilversumse dierenartsenpraktijk organiseert extra vaccinatieronde na meldingen van hondenziekte in regio Utrecht&nbsp;&nbsp;NH NieuwsExtra vaccinatiedag bij Hilversumse Dierenartsenpraktijk Loosdrechtseweg na onrust over hondenziekte: ’We willen het virus voor zijn’&nbsp;&nbsp;De Gooi- en EemlanderBesmettelijke hondenziekte duikt op rond Nijmegen en Utrecht: dierenartsen gewaarschuwd voor virus met zware klac",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNadWh1WFVMOVZDdjVpb05zVEtrc3VUZjh2clVEOVVDZUM4bXJ5cmhmd2hqSEFuSzA1RWcxY2ZybWNqTldzdGhSVEN4SUhHLXA4ZWRjMUFtNWd4eTZDS2xtTUp5QUpVOGVKMjdhc01fV0dEV21sZjNKelRZU1c1UktNU2JTVGxPVkxnSTZwcHVndmM5WHhQTXhvVWVIbjMxY19tSVRCWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbf61691b31b",
+      "title": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-10T13:00:00+00:00",
+      "summary": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekStoppen als je eenmaal begonnen bent met Ozempic? Dat is nog niet zo makkelijk, waarschuwt obesitas-arts&nbsp;&nbsp;quest.nlWat gebeurt er als mensen met een eetstoornis Ozempic gebruiken?&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHFwcUVRMEhjY1RLRzNXeFlwY3liTUJKMkQzSEYyR2VjY2Q0NU9pMGhLN0ZQUzlacGw5SnJ3WXc4YXd5UTRFRGhJMVpiODFUd3VqMno5ZGNzN2NOUXhlb2QzajIwRmRGU1VjWEQ3dkNsRkJDSVd0aVhRSV95V2owM3pHLUhMLVFqTUxpZ0J3aFZkU3J3NTM3MDMwVUZVVkctbGM1ckdsa2tTZkJlMWVSeFJyWVhrSDhoaVlTOE9Gd1NaTV9y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02d75a6285a6",
+      "title": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen) - Trouw",
+      "published": "2026-07-10T12:09:00+00:00",
+      "summary": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen)&nbsp;&nbsp;TrouwNa 12 jaar is er bewijs: wie lang stilzit zonder te bewegen, verhoogt het risico op kanker&nbsp;&nbsp;HLNGrootschalig onderzoek van de UK Biobank: waarom onafgebroken stilzitten nóg veel schadelijker is dan we dachten&nbsp;&nbsp;GezondnuLang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elk",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSlBnaHRSbkdZTGptak1ERmM0Vkk3dVlSNlhqT1VwY2Y0VWlPMGtZVXkzNEpoY2JaMlA5ODB2V2JLZHpWaUlUbks2RVplc2lmOEVUdmxXZnF3d2ZHZ1BHYWVXTnNITzcwdkg5UFI1TmVpaEN5cl9yNHVPb051YVBZZEkzOWJ5V3FDV0xobU1YeE8xSHVqZGFadFFpOExXNzF0cDhFNWFGNUJSWExDY19GYUM5aG5XRWZfb3prajVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "156dca37ab69",
+      "title": "Wetenschappers: meertaligen hebben tot dertien jaar jongere hersenen - bnr.nl",
+      "published": "2026-07-11T06:16:00+00:00",
+      "summary": "Wetenschappers: meertaligen hebben tot dertien jaar jongere hersenen&nbsp;&nbsp;bnr.nl850 hersenscans laten zien: Mensen met een jonger brein hebben misschien één ding gemeen&nbsp;&nbsp;wibnet.nlMensen die meerdere talen spreken lijken een jonger brein te hebben&nbsp;&nbsp;KIJK MagazineTalen leren kan hersenveroudering met 13 jaar vertragen - studie toont hoeveel helpen&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDFmUlp1Z3h3X2ZseVAtVWdlVGU4dEV3cU01VU1VTG5YOVhoU0xFZUZyVjB6QmVmdmw3Q19CcXM2VjdpUmFVTkJvdTVOS0MwMTNSTnVoZVlqZHlWY2xaRVhMNDVLQ0xrV21kMk9HcGRLSHoyMU83dUVQdWtNR25JaGd1NmhQbmM1MEh1WTM1NXJSUGc5X1pYWG1nM2drTnFpM3IwYlZYS2pMVWlVM2lBd0lB?oc=5"
+        }
+      ]
+    }
+  ]
 }

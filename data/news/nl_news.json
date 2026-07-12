@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-12T13:12:46.650961+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-12T19:00:08.706264+00:00",
+  "count": 5,
   "news": [
     {
       "id": "0c9e59752c8b",
       "title": "Amerikaanse hulpverlener in Congo besmet met ebolavirus - NOS",
       "published": "2026-07-11T05:41:28+00:00",
-      "summary": "Amerikaanse hulpverlener in Congo besmet met ebolavirus&nbsp;&nbsp;NOSEbola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlEbola eist in Congo al 600 doden&nbsp;&nbsp;TrouwDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekTweede Amerikaanse hulpverlener raakt besmet met ebola&nbsp;&nbsp;HLN",
+      "summary": "Amerikaanse hulpverlener in Congo besmet met ebolavirus&nbsp;&nbsp;NOSEbola slaat om zich heen in Congo, hulpverlening verloopt zeer stroef&nbsp;&nbsp;RTL.nlDe zoektocht naar goud maakt de ebola-uitbraak in Oost-Congo moeilijk te bedwingen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDe WHO waarschuwt dat de bron van de infectie in veel gevallen van ebola nog steeds onbekend is.&nbsp;&nbsp;Vietnam.vnTweede Amerikaanse hulpverlener raakt besmet met ebola&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "NOS",
@@ -16,38 +16,14 @@
       ]
     },
     {
-      "id": "6cc90121d13e",
-      "title": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht - RTV Utrecht",
-      "published": "2026-07-10T14:30:00+00:00",
-      "summary": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht&nbsp;&nbsp;RTV UtrechtExtra vaccinatiedag bij Hilversumse Dierenartsenpraktijk Loosdrechtseweg na onrust over hondenziekte: ’We willen het virus voor zijn’&nbsp;&nbsp;De Gooi- en EemlanderHilversumse dierenartsenpraktijk organiseert extra vaccinatieronde na meldingen van hondenziekte in regio Utrecht&nbsp;&nbsp;NH GooiBesmettelijke hondenziekte duikt op rond Nijmegen en Utrecht: dierenartsen gewaarschuwd voor virus met zware klacht",
+      "id": "6f746040c218",
+      "title": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij? - De Standaard",
+      "published": "2026-07-11T18:47:00+00:00",
+      "summary": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij?&nbsp;&nbsp;De StandaardErnstige nierproblemen bij Vlaamse kinderen, mogelijk door bezoek aan kinderboerderij&nbsp;&nbsp;NOSKinderboerderij Mikerf in Brasschaat neemt extra maatregelen na STEC-besmettingen: “Het blijft onduidelijk of de bacterie van hier komt”&nbsp;&nbsp;pzc.nl“Het is hartverscheurend om je kindje zo te zien”: ook Marielou (1) uit Deinze belandde door de gevaarlijke ST",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNadWh1WFVMOVZDdjVpb05zVEtrc3VUZjh2clVEOVVDZUM4bXJ5cmhmd2hqSEFuSzA1RWcxY2ZybWNqTldzdGhSVEN4SUhHLXA4ZWRjMUFtNWd4eTZDS2xtTUp5QUpVOGVKMjdhc01fV0dEV21sZjNKelRZU1c1UktNU2JTVGxPVkxnSTZwcHVndmM5WHhQTXhvVWVIbjMxY19tSVRCWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbf61691b31b",
-      "title": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-07-10T13:00:00+00:00",
-      "summary": "Opinie | Ozempic: van medicijn naar lifestyleproduct, maar niemand die de gevolgen overziet&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekStoppen als je eenmaal begonnen bent met Ozempic? Dat is nog niet zo makkelijk, waarschuwt obesitas-arts&nbsp;&nbsp;quest.nlWat gebeurt er als mensen met een eetstoornis Ozempic gebruiken?&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHFwcUVRMEhjY1RLRzNXeFlwY3liTUJKMkQzSEYyR2VjY2Q0NU9pMGhLN0ZQUzlacGw5SnJ3WXc4YXd5UTRFRGhJMVpiODFUd3VqMno5ZGNzN2NOUXhlb2QzajIwRmRGU1VjWEQ3dkNsRkJDSVd0aVhRSV95V2owM3pHLUhMLVFqTUxpZ0J3aFZkU3J3NTM3MDMwVUZVVkctbGM1ckdsa2tTZkJlMWVSeFJyWVhrSDhoaVlTOE9Gd1NaTV9y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02d75a6285a6",
-      "title": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen) - Trouw",
-      "published": "2026-07-10T12:09:00+00:00",
-      "summary": "Dit doet een zittende leefstijl met ons lijf (maar gelukkig is er ook iets aan te doen)&nbsp;&nbsp;TrouwNa 12 jaar is er bewijs: wie lang stilzit zonder te bewegen, verhoogt het risico op kanker&nbsp;&nbsp;HLNGrootschalig onderzoek van de UK Biobank: waarom onafgebroken stilzitten nóg veel schadelijker is dan we dachten&nbsp;&nbsp;GezondnuLang achter elkaar zitten gelinkt aan hoger risico op overlijden aan kanker&nbsp;&nbsp;RTL.nl90.000 deelnemers onderzocht: wie langer dan 30 minuten achter elk",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSlBnaHRSbkdZTGptak1ERmM0Vkk3dVlSNlhqT1VwY2Y0VWlPMGtZVXkzNEpoY2JaMlA5ODB2V2JLZHpWaUlUbks2RVplc2lmOEVUdmxXZnF3d2ZHZ1BHYWVXTnNITzcwdkg5UFI1TmVpaEN5cl9yNHVPb051YVBZZEkzOWJ5V3FDV0xobU1YeE8xSHVqZGFadFFpOExXNzF0cDhFNWFGNUJSWExDY19GYUM5aG5XRWZfb3prajVn?oc=5"
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUhsbFkyUGZRVzRKRGZ4UnhlcDVMNDlFa2RHa2poRkpmamNycEgzOTlwOGVKMHRZaHM4a3JnMWFBUFJqdEpBcW9vaHRqT2RtMzJjRzlBVHFJa3VSWjZIQjhPTmRpYWZSbFNSNUFEUXhqektNemdzWFI3ZGtPOXZJMkE1V24tUGlXLU9XZG1Fc2JtOHFSRzNlUktfWE1zeEgyUWRnRUZ0S0xjeUJiRk41SE91Rk55OUJpX1VaaTlOSmloTXNwNHRkd3Zxck1QU21STFVIdFpxVjk5dnMzeElfX2NWWGFTb1ZkQ0JUZ2c1aWN0cEc1R3k2OXY3UUNZVVds?oc=5"
         }
       ]
     },

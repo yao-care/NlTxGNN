@@ -1,6 +1,43 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-13T09:19:15.004053+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-07-13T14:27:29.992160+00:00",
+  "count": 3,
+  "news": [
+    {
+      "id": "2a9d4865a415",
+      "title": "Waarom kanker de tweede keer moeilijker te bestrijden is - AD.nl",
+      "published": "2026-07-13T02:15:00+00:00",
+      "summary": "Waarom kanker de tweede keer moeilijker te bestrijden is&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnNEV2Qya2NvUUpLdkR2NHE0ZG5mRzhhQi1WaDM2Mlh0NUZ4amVLb0RMSzZuRnY3d3VJM3FSVVR0ajVqTlpxS3RodWJuVTNaYWZWQlRzcUp4SHQtbU42aTRQV3I4TXNCTnREc0tsWmlvTkhpa3NhQnVKTTJOUlFuUVdnd2R1dkdFRzZqbjFFcF9wZTE3d1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f746040c218",
+      "title": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij? - De Standaard",
+      "published": "2026-07-11T18:47:00+00:00",
+      "summary": "Hoe gevaarlijk is een besmetting met een STEC-bacterie? En hoe waarschijnlijk is de link met de kinderboerderij?&nbsp;&nbsp;De StandaardBoerderijkamp in Brasschaat gaat toch door ondanks mogelijke STEC-besmettingen: \"We brengen onze dochter met gerust hart\"&nbsp;&nbsp;VRTErnstige nierproblemen bij Vlaamse kinderen, mogelijk door bezoek aan kinderboerderij&nbsp;&nbsp;NOSSTEC-infecties komen almaar vaker voor: wat zijn de complicaties voor de vijf besmette Antwerpse kinderen?&nbsp;&nbsp;GVAVijf ki",
+      "sources": [
+        {
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUhsbFkyUGZRVzRKRGZ4UnhlcDVMNDlFa2RHa2poRkpmamNycEgzOTlwOGVKMHRZaHM4a3JnMWFBUFJqdEpBcW9vaHRqT2RtMzJjRzlBVHFJa3VSWjZIQjhPTmRpYWZSbFNSNUFEUXhqektNemdzWFI3ZGtPOXZJMkE1V24tUGlXLU9XZG1Fc2JtOHFSRzNlUktfWE1zeEgyUWRnRUZ0S0xjeUJiRk41SE91Rk55OUJpX1VaaTlOSmloTXNwNHRkd3Zxck1QU21STFVIdFpxVjk5dnMzeElfX2NWWGFTb1ZkQ0JUZ2c1aWN0cEc1R3k2OXY3UUNZVVds?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cc90121d13e",
+      "title": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht - RTV Utrecht",
+      "published": "2026-07-11T17:30:00+00:00",
+      "summary": "Veel zorgen om besmettelijke hondenziekte: uitbraak rond Utrecht&nbsp;&nbsp;RTV UtrechtExtra vaccinatiedag bij Hilversumse Dierenartsenpraktijk Loosdrechtseweg na onrust over hondenziekte: ’We willen het virus voor zijn’&nbsp;&nbsp;De Gooi- en EemlanderHilversumse dierenartsenpraktijk organiseert extra vaccinatieronde na meldingen van hondenziekte in regio Utrecht&nbsp;&nbsp;NH GooiBesmettelijke hondenziekte duikt op rond Nijmegen en Utrecht: dierenartsen gewaarschuwd voor virus met zware klacht",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNadWh1WFVMOVZDdjVpb05zVEtrc3VUZjh2clVEOVVDZUM4bXJ5cmhmd2hqSEFuSzA1RWcxY2ZybWNqTldzdGhSVEN4SUhHLXA4ZWRjMUFtNWd4eTZDS2xtTUp5QUpVOGVKMjdhc01fV0dEV21sZjNKelRZU1c1UktNU2JTVGxPVkxnSTZwcHVndmM5WHhQTXhvVWVIbjMxY19tSVRCWQ?oc=5"
+        }
+      ]
+    }
+  ]
 }

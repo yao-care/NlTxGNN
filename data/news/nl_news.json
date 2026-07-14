@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-14T02:08:18.745178+00:00",
-  "count": 2,
+  "fetched_at": "2026-07-14T07:57:13.790009+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "a525636587f1",
+      "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk verdwijnt geen toeval’ - De Telegraaf",
+      "published": "2026-07-14T07:26:24+00:00",
+      "summary": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk verdwijnt geen toeval’&nbsp;&nbsp;De TelegraafSamenwerking Infectieziekten waarschuwt vakantiegangers: ‘Bereid je goed voor’&nbsp;&nbsp;InternetbodeReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;RTV Midden HollandVan dengue tot diarree: zo blijft jouw vakantie infectieveilig&nbsp;&nbsp;rodi.nl",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZUVqTmpibTAwXy1aUFlWeUM0NTBMbzM4QzFTVC1ndzJMVUtlWTRSMVV6TU12Y05ldVo0TlNUV3ZJbzNfWGx2bzZiZF8xMjJ3cGs5LURWODFILUgtRlJPLUIySjNrZ1dDM1pnVlpmZTgxdWtqZ2YyVXBuMnQyS1M3YzhGUlVfLU4xQWRYb3doLTQ1ZThkZTJfQ19JSFBPV3NOeWhSMmx6OHpWNHpSY1RYTUp5ZEtZOXA0VFNnN1Axek0tUTNoalVUZVpOTWNaMy1hVTdzN1hzT1QxUVhKdWgxX1UwbzZNOVFLMWZTS3lNNmlWVTg3SEFtRzdHdTZqVFMzRWhV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce4e8ed66dbc",
+      "title": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven - De Telegraaf",
+      "published": "2026-07-14T07:51:01+00:00",
+      "summary": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&nbsp;Welingelichte KringenEen dertien jaar durende studie onthult verdere voordelen van koffie voor de lever.&nbsp;&nbsp;Vietnam.vnVerrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZllWNFpjOU8zdXc0VzdDVDR4OS11U3JFN2NGVG9KbjVUSjhLTE5MX3RPcFl2ZTN2SkdZQjBvWERUNnYxQ0YwSGRvWTRyV3JvNWQtaVJmYUswcmw0Z0FQam9laXlGaExxNU1GZE90dldVSmdod25xTHpOVWNmWUhBRnhvNEl6ZkxiUUFSUEhnYy03UzRNdkVjM3hTMXY2bE1Ya3paa3BpQWt0NDNOclJWRnl1aGl4Y1puMG9WblZlLWVuUmdtRlYyVmRielZ3c1llbjVOQUU5Wk9sNGNkaTV3LV9nUGRrSnR6Z0dlMw?oc=5"
+        }
+      ]
+    },
     {
       "id": "2a9d4865a415",
       "title": "Waarom kanker de tweede keer moeilijker te bestrijden is - AD.nl",

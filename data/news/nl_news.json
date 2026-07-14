@@ -1,12 +1,12 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-14T13:26:48.428422+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-14T19:14:31.561246+00:00",
+  "count": 6,
   "news": [
     {
       "id": "81de90af78b5",
       "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’ - De Telegraaf",
-      "published": "2026-07-14T12:05:48+00:00",
+      "published": "2026-07-14T13:00:00+00:00",
       "summary": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’&nbsp;&nbsp;De TelegraafSamenwerking Infectieziekten waarschuwt vakantiegangers: ‘Bereid je goed voor’&nbsp;&nbsp;InternetbodeReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;RTV Midden HollandVan dengue tot diarree: zo blijft jouw vakantie infectieveilig&nbsp;&nbsp;rodi.nl",
       "sources": [
         {
@@ -18,7 +18,7 @@
     {
       "id": "ce4e8ed66dbc",
       "title": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven - De Telegraaf",
-      "published": "2026-07-14T12:00:53+00:00",
+      "published": "2026-07-14T13:30:00+00:00",
       "summary": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&nbsp;Welingelichte KringenNieuwe bevindingen over koffieconsumptie en leverfunctie.&nbsp;&nbsp;Vietnam.vnVerrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Een dertien jaar durende studie onthult verdere voordelen van koffie voor de lever.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
@@ -28,14 +28,26 @@
       ]
     },
     {
-      "id": "2a9d4865a415",
-      "title": "Waarom kanker de tweede keer moeilijker te bestrijden is - AD.nl",
-      "published": "2026-07-13T02:15:00+00:00",
-      "summary": "Waarom kanker de tweede keer moeilijker te bestrijden is&nbsp;&nbsp;AD.nl",
+      "id": "858efd8bd6a8",
+      "title": "Psychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’ - Het Parool",
+      "published": "2026-07-13T01:00:00+00:00",
+      "summary": "Psychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;Scientias.nlHitte is extra zwaar voor wie sommige soorten antidepressiva neemt&nbsp;&nbsp;deCheckersCode rood&nbsp;&nbsp;Zevenaar PostStijgende hitte zorgt voor meer ziekenhuisopnames bij jongeren door psychische problemen&nbsp;&nbsp;Newsmonkey -",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnNEV2Qya2NvUUpLdkR2NHE0ZG5mRzhhQi1WaDM2Mlh0NUZ4amVLb0RMSzZuRnY3d3VJM3FSVVR0ajVqTlpxS3RodWJuVTNaYWZWQlRzcUp4SHQtbU42aTRQV3I4TXNCTnREc0tsWmlvTkhpa3NhQnVKTTJOUlFuUVdnd2R1dkdFRzZqbjFFcF9wZTE3d1E?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWnlwRkVUd242dGdwbDFNcEVFb3R3MU0tLVNYa1c3Wl9fdi0xTnBkbWN4RVdXNzR4SkdlNVpXNWt1a0ZoRmpBV0V1VUFLakNoWlVtZk9wS0R6MHRpdFVGaWQyTVdGdjlnTmVqUlA0a3Y3TGxmUng3SmJOWG1Rd0tIdHhaZ0N2ckEwcG9ZZzdwR2UxNXQzbmZFUkRoNE5rMjJMQnhXQm5OU0FXWkZHQjJra2R6YU8ySjFtVXRtR0Rvdk93N0p4YTJaR2lvek1kakZKUDJqczR1QlAzbElxcUo5Z0ZnVWVGa3BkN25qYllPYjZIMkNlcFdCOHowbmV4d1kwYUI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "624ba7443823",
+      "title": "Annette: ‘Ik verzon een ernstige ziekte voor aandacht – en verloor al mijn vriendinnen’ - Vriendin.nl",
+      "published": "2026-07-14T07:02:13+00:00",
+      "summary": "Annette: ‘Ik verzon een ernstige ziekte voor aandacht – en verloor al mijn vriendinnen’&nbsp;&nbsp;Vriendin.nl",
+      "sources": [
+        {
+          "name": "Vriendin.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOC1wNFgxWXJ2em9wQmlDNmlmdWNMakM4eGpSWUp3M1dCNzdraDZtVWs4ZUluLVp0YjBTclZfNFFPRnZIUE90bzlnR18wbnBuc21rVjdFS3VvOTZ2YWtPSUNpaXBIRWtJNFRPdERiZEZYbUtDZl9OdktlTWJYa0F5RDg2SQ?oc=5"
         }
       ]
     },
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "ffe0266213a0",
-      "title": "'Neem huidkanker serieuzer': Fanny en Renée (32) dragen dezelfde genmutatie als hun overleden vader - LINDA.nl",
-      "published": "2026-07-13T06:07:05+00:00",
-      "summary": "'Neem huidkanker serieuzer': Fanny en Renée (32) dragen dezelfde genmutatie als hun overleden vader&nbsp;&nbsp;LINDA.nl",
+      "id": "007ea494d928",
+      "title": "Kaneel, gember, kurkuma: een theelepel kruiden per dag zou de gezondheid van je hart boosten, maar is dat ook echt zo? - HLN",
+      "published": "2026-07-13T07:54:42+00:00",
+      "summary": "Kaneel, gember, kurkuma: een theelepel kruiden per dag zou de gezondheid van je hart boosten, maar is dat ook echt zo?&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "LINDA.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1ZTQ2tVOUdDRFFGc0ZKMGxVMVBoQ1BOMnkyaXJ2M2oxTXcxV0RuaUk0Z1VISHRXQnM3YVpNOVE4MGVsRnZ0YzhKUS1nR1FlTHZPUjVyTGtvT25qaF93SE1VeTl1dWtLTWFaSmVGQ0swOFU2RWtZeGJBOGh5STRnYi1MMHkxM1JzR1djRjEtZkpXV2M1YU1sR3F5cWhXVzhzTzdNeGk0TUxuVG8?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2tYc0VRWDMwUjkwbS1NLUN4cTVuY3pnenF4NGVVcVhndmdvbE9wOC1CVGJ1cnhZR2JCUHc2eW55VFg4N3d4cDVPcFoyczJyQ1lyRWtRZ3A4UmwxNEprd0ozM3VvR0dxTVBEbTRBN0tVQml4SXl4aHpiWTc0MDZUODNkVEVfN3hSTzR2TVNuWXIxRFF5SHhvTktTQW5vbWNkbmFUZW94Y19hWVlzWGFVTGpjd3FfdzNxUzJ6ZWFuMFhsRl9TYkFLeGduWFRqMkNnVDdiY2t1ZVBnSkRZdnk1a3pLc0EtcVZO?oc=5"
         }
       ]
     }

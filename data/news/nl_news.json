@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-14T19:14:31.561246+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-15T02:05:54.146937+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "8b5585dc461b",
+      "title": "Stakingen doen ebolarespons in Congo wankelen, terwijl het virus zich in recordtempo verspreidt - de Volkskrant",
+      "published": "2026-07-14T16:32:46+00:00",
+      "summary": "Stakingen doen ebolarespons in Congo wankelen, terwijl het virus zich in recordtempo verspreidt&nbsp;&nbsp;de VolkskrantMedicijnen tegen ebolavariant op patiënten getest: 'Willen sterfte omlaag krijgen'&nbsp;&nbsp;NOSWHO heeft meer geld nodig voor aanpak ebola&nbsp;&nbsp;haarlemsdagblad.nlAmerikanen in Congo mogen niet naar VS vliegen vanwege ebola&nbsp;&nbsp;De Gooi- en EemlanderEbolabesmettingen Congo opgelopen tot meer dan 1900&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTl2UE1udGRsekR6OENtVDM5ZUpoVzUtRl9nV1ZYUm14NkVHYnNTQm12MXRWQW1GbHM2MWotaGtRY0Iwak5JZTdPcWNaWWpteXhrdHhOTjQ5Yk00R3lrS3lOS1lhaVFJTlU1OHBOb3dBLXZSQ1phOG9pd3doQXcxSjg3dE9LUHljNGlkbjI0Mm9DSVlJZXNWN1dYcmpFTVc0LUN2aS04dWRmbUxvWm1ERlRwX25DVk5tcTFlSXBPMGRyUk1rc01uczVKaWtxWGpRRkJPSTA3LTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef67851cc5f6",
+      "title": "Wereldwijd meer kinderen gevaccineerd, maar grote verschillen tussen landen - NOS",
+      "published": "2026-07-14T23:00:05+00:00",
+      "summary": "Wereldwijd meer kinderen gevaccineerd, maar grote verschillen tussen landen&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGF1MlliLU9tYmxYVkVmMEF5cUVIN2R0cVVUUE5VYnN5Y1RxOUJ3VzdLandCNFZoYVB6RkU3cWQ2SXBiU0E1SXBxQ3dpZG0wTlVrOUhJYi1mZHZ0WldWOHVjbXl3dEdybGZWOFNJQWlpLTRra1IxT3Nwam1pM3FfU09BY2Rsd0FCX1RUOWd2WnRfTnF6S2xMblJXUmZ5akQ1V2tVRjFwOWc?oc=5"
+        }
+      ]
+    },
     {
       "id": "81de90af78b5",
       "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’ - De Telegraaf",
@@ -16,6 +40,18 @@
       ]
     },
     {
+      "id": "06fee56345bc",
+      "title": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’ - Knack",
+      "published": "2026-07-14T14:17:43+00:00",
+      "summary": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’&nbsp;&nbsp;KnackPsychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;Scientias.nlHitte is extra zwaar voor wie sommige soorten antidepressiva neemt&nbsp;&nbsp;deCheckersCode rood&nbsp;&nbsp;Zevena",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdUp4Nkc5OVJLSXloTzJDNElsUFZ2MmNQY3lxVy1McVRhLTNPQ0lyNFBvN01JdVoyOEdSaEJGSndBOHRTVUtOVXExVEczQUZaWkZvYUhnSHhIQXZuU3AyZVJkRDRqc1labTRZV09pazJOMUVUMWVhYWdseDNVcEV5bm1IZTFhZnFEQzFISWh5M0tHeks4bXRiODNLejdxTDk1Q29hcnNSbkVlbkttWno0SDFrb2VxbzR2ZjBPemctVk9zRlN3Y1BBcHVrbU9jbjJVSjA5b0JzT005bjZ4LUtpLUpLdDRMU1p0NUVuX2tmUk5MdTRfdE8tV0EwTGJETlVpR0l1VGU1bGh4SnVaWjZ1dlVDdVBMZFFCcHlySUNEOE5mTDVUcTB4VUtFMmY5NzdjRE05VWZnQUV4M2s2NzZlUjkwb0Rzd3ZK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ce4e8ed66dbc",
       "title": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven - De Telegraaf",
       "published": "2026-07-14T13:30:00+00:00",
@@ -24,18 +60,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZllWNFpjOU8zdXc0VzdDVDR4OS11U3JFN2NGVG9KbjVUSjhLTE5MX3RPcFl2ZTN2SkdZQjBvWERUNnYxQ0YwSGRvWTRyV3JvNWQtaVJmYUswcmw0Z0FQam9laXlGaExxNU1GZE90dldVSmdod25xTHpOVWNmWUhBRnhvNEl6ZkxiUUFSUEhnYy03UzRNdkVjM3hTMXY2bE1Ya3paa3BpQWt0NDNOclJWRnl1aGl4Y1puMG9WblZlLWVuUmdtRlYyVmRielZ3c1llbjVOQUU5Wk9sNGNkaTV3LV9nUGRrSnR6Z0dlMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "858efd8bd6a8",
-      "title": "Psychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’ - Het Parool",
-      "published": "2026-07-13T01:00:00+00:00",
-      "summary": "Psychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;Scientias.nlHitte is extra zwaar voor wie sommige soorten antidepressiva neemt&nbsp;&nbsp;deCheckersCode rood&nbsp;&nbsp;Zevenaar PostStijgende hitte zorgt voor meer ziekenhuisopnames bij jongeren door psychische problemen&nbsp;&nbsp;Newsmonkey -",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWnlwRkVUd242dGdwbDFNcEVFb3R3MU0tLVNYa1c3Wl9fdi0xTnBkbWN4RVdXNzR4SkdlNVpXNWt1a0ZoRmpBV0V1VUFLakNoWlVtZk9wS0R6MHRpdFVGaWQyTVdGdjlnTmVqUlA0a3Y3TGxmUng3SmJOWG1Rd0tIdHhaZ0N2ckEwcG9ZZzdwR2UxNXQzbmZFUkRoNE5rMjJMQnhXQm5OU0FXWkZHQjJra2R6YU8ySjFtVXRtR0Rvdk93N0p4YTJaR2lvek1kakZKUDJqczR1QlAzbElxcUo5Z0ZnVWVGa3BkN25qYllPYjZIMkNlcFdCOHowbmV4d1kwYUI4?oc=5"
         }
       ]
     },
@@ -55,7 +79,7 @@
       "id": "1222f1fd52ce",
       "title": "Zorgen om dalende vaccinatiegraad in Westland - Westlanders.nu",
       "published": "2026-07-13T14:29:21+00:00",
-      "summary": "Zorgen om dalende vaccinatiegraad in Westland&nbsp;&nbsp;Westlanders.nuPraat mee💬- Kinderen in Barneveld lopen meer risico op infectieziekten door de lage vaccinatiegraad: moeten inentingen verplicht worden?&nbsp;&nbsp;AD.nlVaccinatiegraad daalt verder, politiek wil weten waar actie blijft&nbsp;&nbsp;WOS NieuwsVaccinatiegraad daalt in Lekstroomregio: GGD waarschuwt voor groter risico op uitbraken&nbsp;&nbsp;Omroep LekstroomVaccinatiegraad bij jonge kinderen op Goeree-Overflakkee onder 90 procent",
+      "summary": "Zorgen om dalende vaccinatiegraad in Westland&nbsp;&nbsp;Westlanders.nuKinderen in Barneveld lopen meer risico op infectieziekten door de lage vaccinatiegraad: moeten inentingen verplicht worden?&nbsp;&nbsp;AD.nlVaccinatiegraad daalt verder, politiek wil weten waar actie blijft&nbsp;&nbsp;WOS NieuwsVaccinatiegraad daalt in Lekstroomregio: GGD waarschuwt voor groter risico op uitbraken&nbsp;&nbsp;Omroep LekstroomVaccinatiegraad bij jonge kinderen op Goeree-Overflakkee onder 90 procent&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Westlanders.nu",

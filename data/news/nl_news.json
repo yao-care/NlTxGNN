@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-15T13:36:47.641142+00:00",
-  "count": 8,
+  "fetched_at": "2026-07-15T19:05:31.755069+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "6939eea6e4c1",
-      "title": "Dodental door ebola in Congo is in twee weken tijd verdubbeld - NU",
-      "published": "2026-07-15T09:37:13+00:00",
-      "summary": "Dodental door ebola in Congo is in twee weken tijd verdubbeld&nbsp;&nbsp;NUEbola-bestrijders verliezen de race, hulpverleners nog steeds onderbetaald&nbsp;&nbsp;De TelegraafStakingen doen ebolarespons in Congo wankelen, terwijl het virus zich in recordtempo verspreidt&nbsp;&nbsp;de VolkskrantArtsen staken werk in door ebola geteisterd Oost-Congo, aantal vastgestelde overlijdens in twee weken verdubbeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekSjoerdsma maakt 4 miljoen eur",
+      "id": "f6084febca06",
+      "title": "Dit zijn de eerste tekens van hartproblemen - AD.nl",
+      "published": "2026-07-15T05:15:00+00:00",
+      "summary": "Dit zijn de eerste tekens van hartproblemen&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDdFZXo0OTZsbkdHQ29zaHZXNFFVMUpwZnFadzVWTGJkUkpUbDF4OHowWlAweWpiVTktR2FHLVRlZmthYklHaUJ5dm55R3k0Q3NQVFdyX3ItUnVpenZHNVJDT1NLM25rQVd5cTMyU0lhN2dHTU1sRnYxeTM5cThmUUJMZF9NbEduc1BQYkVoRXJlc1cwSm5obWdnelBmaVlPQlNVTGNn?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWNkbDJSS3BoUEtNNjdaeVp0ZlVIWlBBb2VZXzdqaDVLZkRnd3JOZjFFd3BiRjZWaEpOUl9xRGIwaFdadWJKc0s3ZjV3WU8tMnhrSHpVUHdsVXNLR0JTX1VnWFVUS0lxSldVTm1ISmdUYWxTMFZfdWdsNW56ZlFONWQ0aXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06fee56345bc",
+      "title": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’ - Knack",
+      "published": "2026-07-14T14:17:43+00:00",
+      "summary": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’&nbsp;&nbsp;KnackDeskundigen slaan alarm: ook psychisch kwetsbare mensen moeten in het hittebeleid worden opgenomen&nbsp;&nbsp;Brabants DagbladPsychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;S",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdUp4Nkc5OVJLSXloTzJDNElsUFZ2MmNQY3lxVy1McVRhLTNPQ0lyNFBvN01JdVoyOEdSaEJGSndBOHRTVUtOVXExVEczQUZaWkZvYUhnSHhIQXZuU3AyZVJkRDRqc1labTRZV09pazJOMUVUMWVhYWdseDNVcEV5bm1IZTFhZnFEQzFISWh5M0tHeks4bXRiODNLejdxTDk1Q29hcnNSbkVlbkttWno0SDFrb2VxbzR2ZjBPemctVk9zRlN3Y1BBcHVrbU9jbjJVSjA5b0JzT005bjZ4LUtpLUpLdDRMU1p0NUVuX2tmUk5MdTRfdE8tV0EwTGJETlVpR0l1VGU1bGh4SnVaWjZ1dlVDdVBMZFFCcHlySUNEOE5mTDVUcTB4VUtFMmY5NzdjRE05VWZnQUV4M2s2NzZlUjkwb0Rzd3ZK?oc=5"
         }
       ]
     },
@@ -28,50 +40,14 @@
       ]
     },
     {
-      "id": "a525636587f1",
-      "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk verdwijnt geen toeval’ - De Telegraaf",
-      "published": "2026-07-14T07:26:24+00:00",
-      "summary": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk verdwijnt geen toeval’&nbsp;&nbsp;De TelegraafSteeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’&nbsp;&nbsp;De TelegraafSamenwerking Infectieziekten waarschuwt vakantiegangers: ‘Bereid je goed voor’&nbsp;&nbsp;InternetbodeReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;RTV Midden HollandVan dengue tot diarree: zo blijft jouw ",
+      "id": "81de90af78b5",
+      "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’ - De Telegraaf",
+      "published": "2026-07-14T06:00:00+00:00",
+      "summary": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’&nbsp;&nbsp;De TelegraafSamenwerking Infectieziekten waarschuwt vakantiegangers: ‘Bereid je goed voor’&nbsp;&nbsp;InternetbodeReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;RTV Midden HollandVan dengue tot diarree: zo blijft jouw vakantie infectieveilig&nbsp;&nbsp;rodi.nl",
       "sources": [
         {
           "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZUVqTmpibTAwXy1aUFlWeUM0NTBMbzM4QzFTVC1ndzJMVUtlWTRSMVV6TU12Y05ldVo0TlNUV3ZJbzNfWGx2bzZiZF8xMjJ3cGs5LURWODFILUgtRlJPLUIySjNrZ1dDM1pnVlpmZTgxdWtqZ2YyVXBuMnQyS1M3YzhGUlVfLU4xQWRYb3doLTQ1ZThkZTJfQ19JSFBPV3NOeWhSMmx6OHpWNHpSY1RYTUp5ZEtZOXA0VFNnN1Axek0tUTNoalVUZVpOTWNaMy1hVTdzN1hzT1QxUVhKdWgxX1UwbzZNOVFLMWZTS3lNNmlWVTg3SEFtRzdHdTZqVFMzRWhV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce4e8ed66dbc",
-      "title": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven - De Telegraaf",
-      "published": "2026-07-14T06:30:00+00:00",
-      "summary": "Blijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&nbsp;Welingelichte KringenNieuwe bevindingen over koffieconsumptie en leverfunctie.&nbsp;&nbsp;Vietnam.vnVerrassend effect van koffie ontdekt in lichaam&nbsp;&nbsp;Redactie24Een dertien jaar durende studie onthult verdere voordelen van koffie voor de lever.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZllWNFpjOU8zdXc0VzdDVDR4OS11U3JFN2NGVG9KbjVUSjhLTE5MX3RPcFl2ZTN2SkdZQjBvWERUNnYxQ0YwSGRvWTRyV3JvNWQtaVJmYUswcmw0Z0FQam9laXlGaExxNU1GZE90dldVSmdod25xTHpOVWNmWUhBRnhvNEl6ZkxiUUFSUEhnYy03UzRNdkVjM3hTMXY2bE1Ya3paa3BpQWt0NDNOclJWRnl1aGl4Y1puMG9WblZlLWVuUmdtRlYyVmRielZ3c1llbjVOQUU5Wk9sNGNkaTV3LV9nUGRrSnR6Z0dlMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06fee56345bc",
-      "title": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’ - Knack",
-      "published": "2026-07-14T14:17:43+00:00",
-      "summary": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’&nbsp;&nbsp;KnackPsychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;Scientias.nlHitte is extra zwaar voor wie sommige soorten antidepressiva neemt&nbsp;&nbsp;deCheckersCode rood&nbsp;&nbsp;Zevena",
-      "sources": [
-        {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdUp4Nkc5OVJLSXloTzJDNElsUFZ2MmNQY3lxVy1McVRhLTNPQ0lyNFBvN01JdVoyOEdSaEJGSndBOHRTVUtOVXExVEczQUZaWkZvYUhnSHhIQXZuU3AyZVJkRDRqc1labTRZV09pazJOMUVUMWVhYWdseDNVcEV5bm1IZTFhZnFEQzFISWh5M0tHeks4bXRiODNLejdxTDk1Q29hcnNSbkVlbkttWno0SDFrb2VxbzR2ZjBPemctVk9zRlN3Y1BBcHVrbU9jbjJVSjA5b0JzT005bjZ4LUtpLUpLdDRMU1p0NUVuX2tmUk5MdTRfdE8tV0EwTGJETlVpR0l1VGU1bGh4SnVaWjZ1dlVDdVBMZFFCcHlySUNEOE5mTDVUcTB4VUtFMmY5NzdjRE05VWZnQUV4M2s2NzZlUjkwb0Rzd3ZK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1222f1fd52ce",
-      "title": "Zorgen om dalende vaccinatiegraad in Westland - Westlanders.nu",
-      "published": "2026-07-13T14:29:21+00:00",
-      "summary": "Zorgen om dalende vaccinatiegraad in Westland&nbsp;&nbsp;Westlanders.nuMinder Westlanders laten zich vaccineren, zorgen bij VVD en D66&nbsp;&nbsp;AD.nlKinderen in Barneveld lopen meer risico op infectieziekten door de lage vaccinatiegraad: moeten inentingen verplicht worden?&nbsp;&nbsp;De GelderlanderVaccinatiegraad daalt verder, politiek wil weten waar actie blijft&nbsp;&nbsp;WOS NieuwsVaccinatiegraad daalt in Lekstroomregio: GGD waarschuwt voor groter risico op uitbraken&nbsp;&nbsp;Omroep Leks",
-      "sources": [
-        {
-          "name": "Westlanders.nu",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREo2SGFnVmd3cGs1TkdfUEFZcFUwX285UGZzZHh2ckJJR0JLTHYxVm5EZHZPNkJJQnNrenZGUjRHZTVuRFBMdnRyeE41Zzd1djV5WmRFQVQtb0NoRE5KeG51c2pZSHkyc09UVmx6R0FWOHg2Qy1uWWtEM2NCYjlVZ0ZTcHk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzVIcTBsd0p2dU1RM1NmUlNWTTN0aGx0MmRmUjNHZnNRTTNJeG5lenB5MHpFMDJNQnBTN0F5N2ptSDVyd3NFQjF4VWZIVnVKOXV2bjRTVjVFRXpxNFJubzRYb1hpZ29DbGxpYnd5ajl6TFBPVHhrdDdLYmNQWlBCdmczcHVicXFHWVV0RjI4c21EQzJESTVfQnN4bktzZHVlR0cyVXprb0p4dVBjNzFBVzFGR2pXUUtDTGJoUlhPT3poaF92OVZuMy1XRFNReGIxSW1Wek1OMjk4QnVnU3c3Q1Vqa2hsODl1LWVxWUdvV2dHREk0Xy10X2JaamEzbmtD?oc=5"
         }
       ]
     },

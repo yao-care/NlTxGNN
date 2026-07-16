@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-16T02:15:27.154064+00:00",
+  "fetched_at": "2026-07-16T08:06:54.975795+00:00",
   "count": 4,
   "news": [
     {
       "id": "b706d261ecb8",
       "title": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal - Hart van Nederland",
-      "published": "2026-07-15T16:19:43+00:00",
+      "published": "2026-07-15T16:24:06+00:00",
       "summary": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal&nbsp;&nbsp;Hart van NederlandMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "Hart van Nederland",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFYYndMeFVBc2xXVGRNeUpBWTJkNUhqQk1qVGRGcVhQRUQxTElrMHozczBTX0wxejZFakNBdXc0MF96dDR2SHNWNXdZdjlvS3hwbDQtN2hORE5iS0lpcndDdE9iRWpBWjFsVm1qR3FrUHV2OHZ0OXZQSDlaNWNqc2dPY080Ui1uS1NJVFlsbmJGZl9PSEgyUHRZWVl4QWlDZ1ZScEM0ZG9YTEFJU18tX3FITmY3TmtZdGZDRmZBelhKN1pJOVpabko5ZVEtM1djUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d60ceb35b28",
-      "title": "Dit zijn de eerste tekens van hartproblemen - de Stentor",
-      "published": "2026-07-15T05:15:00+00:00",
-      "summary": "Dit zijn de eerste tekens van hartproblemen&nbsp;&nbsp;de Stentor",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFHdWh4a2ZrdEpyZjZubDViYkVLSnJSanZuV0p1Zi1BZHdxYTR1a1FsY050c29CWHo3ekxUSkMxa28zcGVXZE9USjRrRWtQb3pTdW05T0ZmclJDc2xnTU5oT3FWZmxLWTFGVXhEZkQ1SlMtUXBpckVCUXhGSHgzdEt0YU1PcWtjbXlnSVF3?oc=5"
         }
       ]
     },
@@ -40,14 +28,26 @@
       ]
     },
     {
-      "id": "81de90af78b5",
-      "title": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’ - De Telegraaf",
-      "published": "2026-07-14T06:00:00+00:00",
-      "summary": "Steeds ziek zodra je eindelijk vakantie hebt? Experts waarschuwen: ’Slecht voelen als werkdruk wegvalt geen toeval’&nbsp;&nbsp;De TelegraafSamenwerking Infectieziekten waarschuwt vakantiegangers: ‘Bereid je goed voor’&nbsp;&nbsp;InternetbodeReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;RTV Midden HollandVan dengue tot diarree: zo blijft jouw vakantie infectieveilig&nbsp;&nbsp;rodi.nl",
+      "id": "38b7fd14070a",
+      "title": "Deskundigen slaan alarm: ook psychisch kwetsbare mensen moeten in het hittebeleid worden opgenomen - Brabants Dagblad",
+      "published": "2026-07-15T09:00:00+00:00",
+      "summary": "Deskundigen slaan alarm: ook psychisch kwetsbare mensen moeten in het hittebeleid worden opgenomen&nbsp;&nbsp;Brabants DagbladMedicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’&nbsp;&nbsp;KnackPsychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;S",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzVIcTBsd0p2dU1RM1NmUlNWTTN0aGx0MmRmUjNHZnNRTTNJeG5lenB5MHpFMDJNQnBTN0F5N2ptSDVyd3NFQjF4VWZIVnVKOXV2bjRTVjVFRXpxNFJubzRYb1hpZ29DbGxpYnd5ajl6TFBPVHhrdDdLYmNQWlBCdmczcHVicXFHWVV0RjI4c21EQzJESTVfQnN4bktzZHVlR0cyVXprb0p4dVBjNzFBVzFGR2pXUUtDTGJoUlhPT3poaF92OVZuMy1XRFNReGIxSW1Wek1OMjk4QnVnU3c3Q1Vqa2hsODl1LWVxWUdvV2dHREk0Xy10X2JaamEzbmtD?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGpLaHU1bEVaYjZzUFFLaXlmdFFncTIwR3Z3ZWwxb01FY3Z1bE9rcXBsc2QwQUkwVjlJc2RJT1F4c0dVOVBpdXJpZ3hQME9xVk5ieWVETnhLZno5X0MzY21mM2huU2d3aFZlallnN05nYm44ZFJRVC1MN2FQdnVjTE91ZWhLMVhiQXdobEp2WXN2Z09NOWFsaWRNcG41Y2NseWNvT19tVEktZVBHSXJaYkluZ1dTU1hodzhrMklVUTVOVERTQzBQQ2dVR3Q0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d60ceb35b28",
+      "title": "Dit zijn de eerste tekens van hartproblemen - de Stentor",
+      "published": "2026-07-15T05:15:00+00:00",
+      "summary": "Dit zijn de eerste tekens van hartproblemen&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFHdWh4a2ZrdEpyZjZubDViYkVLSnJSanZuV0p1Zi1BZHdxYTR1a1FsY050c29CWHo3ekxUSkMxa28zcGVXZE9USjRrRWtQb3pTdW05T0ZmclJDc2xnTU5oT3FWZmxLWTFGVXhEZkQ1SlMtUXBpckVCUXhGSHgzdEt0YU1PcWtjbXlnSVF3?oc=5"
         }
       ]
     }

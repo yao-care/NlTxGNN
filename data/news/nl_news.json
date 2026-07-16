@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-15T19:05:31.755069+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-16T02:15:27.154064+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "f6084febca06",
-      "title": "Dit zijn de eerste tekens van hartproblemen - AD.nl",
-      "published": "2026-07-15T05:15:00+00:00",
-      "summary": "Dit zijn de eerste tekens van hartproblemen&nbsp;&nbsp;AD.nl",
+      "id": "b706d261ecb8",
+      "title": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal - Hart van Nederland",
+      "published": "2026-07-15T16:19:43+00:00",
+      "summary": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal&nbsp;&nbsp;Hart van NederlandMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWNkbDJSS3BoUEtNNjdaeVp0ZlVIWlBBb2VZXzdqaDVLZkRnd3JOZjFFd3BiRjZWaEpOUl9xRGIwaFdadWJKc0s3ZjV3WU8tMnhrSHpVUHdsVXNLR0JTX1VnWFVUS0lxSldVTm1ISmdUYWxTMFZfdWdsNW56ZlFONWQ0aXg?oc=5"
+          "name": "Hart van Nederland",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFYYndMeFVBc2xXVGRNeUpBWTJkNUhqQk1qVGRGcVhQRUQxTElrMHozczBTX0wxejZFakNBdXc0MF96dDR2SHNWNXdZdjlvS3hwbDQtN2hORE5iS0lpcndDdE9iRWpBWjFsVm1qR3FrUHV2OHZ0OXZQSDlaNWNqc2dPY080Ui1uS1NJVFlsbmJGZl9PSEgyUHRZWVl4QWlDZ1ZScEM0ZG9YTEFJU18tX3FITmY3TmtZdGZDRmZBelhKN1pJOVpabko5ZVEtM1djUXc?oc=5"
         }
       ]
     },
     {
-      "id": "06fee56345bc",
-      "title": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’ - Knack",
-      "published": "2026-07-14T14:17:43+00:00",
-      "summary": "Medicijngebruik tijdens een hittegolf: ‘Let op met onstekingsremmers, bloeddrukverlagers en antidepressiva’&nbsp;&nbsp;KnackDeskundigen slaan alarm: ook psychisch kwetsbare mensen moeten in het hittebeleid worden opgenomen&nbsp;&nbsp;Brabants DagbladPsychiatrische patiënten zijn extra kwetsbaar voor hittestress: ‘Ik heb een cliënt die sinds de hittegolf alleen nog maar op bed ligt’&nbsp;&nbsp;Het ParoolHittegolven treffen niet alleen het lichaam: ook psychiatrische opnames nemen toe&nbsp;&nbsp;S",
+      "id": "4d60ceb35b28",
+      "title": "Dit zijn de eerste tekens van hartproblemen - de Stentor",
+      "published": "2026-07-15T05:15:00+00:00",
+      "summary": "Dit zijn de eerste tekens van hartproblemen&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdUp4Nkc5OVJLSXloTzJDNElsUFZ2MmNQY3lxVy1McVRhLTNPQ0lyNFBvN01JdVoyOEdSaEJGSndBOHRTVUtOVXExVEczQUZaWkZvYUhnSHhIQXZuU3AyZVJkRDRqc1labTRZV09pazJOMUVUMWVhYWdseDNVcEV5bm1IZTFhZnFEQzFISWh5M0tHeks4bXRiODNLejdxTDk1Q29hcnNSbkVlbkttWno0SDFrb2VxbzR2ZjBPemctVk9zRlN3Y1BBcHVrbU9jbjJVSjA5b0JzT005bjZ4LUtpLUpLdDRMU1p0NUVuX2tmUk5MdTRfdE8tV0EwTGJETlVpR0l1VGU1bGh4SnVaWjZ1dlVDdVBMZFFCcHlySUNEOE5mTDVUcTB4VUtFMmY5NzdjRE05VWZnQUV4M2s2NzZlUjkwb0Rzd3ZK?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFHdWh4a2ZrdEpyZjZubDViYkVLSnJSanZuV0p1Zi1BZHdxYTR1a1FsY050c29CWHo3ekxUSkMxa28zcGVXZE9USjRrRWtQb3pTdW05T0ZmclJDc2xnTU5oT3FWZmxLWTFGVXhEZkQ1SlMtUXBpckVCUXhGSHgzdEt0YU1PcWtjbXlnSVF3?oc=5"
         }
       ]
     },
@@ -48,30 +48,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzVIcTBsd0p2dU1RM1NmUlNWTTN0aGx0MmRmUjNHZnNRTTNJeG5lenB5MHpFMDJNQnBTN0F5N2ptSDVyd3NFQjF4VWZIVnVKOXV2bjRTVjVFRXpxNFJubzRYb1hpZ29DbGxpYnd5ajl6TFBPVHhrdDdLYmNQWlBCdmczcHVicXFHWVV0RjI4c21EQzJESTVfQnN4bktzZHVlR0cyVXprb0p4dVBjNzFBVzFGR2pXUUtDTGJoUlhPT3poaF92OVZuMy1XRFNReGIxSW1Wek1OMjk4QnVnU3c3Q1Vqa2hsODl1LWVxWUdvV2dHREk0Xy10X2JaamEzbmtD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "624ba7443823",
-      "title": "Annette: ‘Ik verzon een ernstige ziekte voor aandacht – en verloor al mijn vriendinnen’ - Vriendin.nl",
-      "published": "2026-07-14T07:02:13+00:00",
-      "summary": "Annette: ‘Ik verzon een ernstige ziekte voor aandacht – en verloor al mijn vriendinnen’&nbsp;&nbsp;Vriendin.nl",
-      "sources": [
-        {
-          "name": "Vriendin.nl",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOC1wNFgxWXJ2em9wQmlDNmlmdWNMakM4eGpSWUp3M1dCNzdraDZtVWs4ZUluLVp0YjBTclZfNFFPRnZIUE90bzlnR18wbnBuc21rVjdFS3VvOTZ2YWtPSUNpaXBIRWtJNFRPdERiZEZYbUtDZl9OdktlTWJYa0F5RDg2SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3445ae17e19f",
-      "title": "Els zou door zeldzame ziekte maar 10 jaar worden, nu is ze toch 62: ‘Stilzitten maakte me niet beter’ - AD.nl",
-      "published": "2026-07-14T12:01:00+00:00",
-      "summary": "Els zou door zeldzame ziekte maar 10 jaar worden, nu is ze toch 62: ‘Stilzitten maakte me niet beter’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenNmYXpjbmJqeWlkZjc2Qkxhcktwd2VvNEhLQmVBQ3hYQWNocFNTeG9sNUVUZi1STm00Zmc3QVpwMl9WNXZvaDBiNFg0X2dUMjVzTW5RaFBZYUd5QjBueGpQOGZSV2FOdHlYUjR3czlXY19IcThsdkh0RzRKSUR3b0xkSFJWN2oxTnMzWTVoTi0yYUtSTmtTa1ZfelBTWWY0TXZrR0dVak5LZXFfakxZV3lfTUZmaVZxc1NnVnE3bmkxdUEwNjZYeWswaHBVTWJrQ0E?oc=5"
         }
       ]
     }

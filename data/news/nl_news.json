@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-16T08:06:54.975795+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-16T13:42:32.172144+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "4b122d010933",
+      "title": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-16T08:01:00+00:00",
+      "summary": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWmNlQWl5SE5FRnJLUkg1d21hemdFdFh0YzVONWpvNk5iVmI5eEJ5MHBmNUFjU01iZEJuVDFtcEc5UkhLeVpfOHRFVVAwSmNLTklaV0tZdkZDVy16RUNEdV9MNVplLUVPWERCOENpT1lDcVYzcUJuZlV3OFZTWWNLcFlSdGV3dTZOZy0xb1JXT1FwbXJaLUFybW5IcG9sR090XzM3S3Rjc3lzN1N1SjlJTl9OSEllSFpSWndqQnVlVzQzYjZBWVZ2Z3BqVm92OGh2UEVFR04xWV91OTVDcGhvb0Y3OXY2bmhCUURzbXhqNjBOUmdBX1NVZEQxaTRnc1V6VE4wVkVWQ2lpcENTM0dfYktULXV6UkFhR3FTaHh3UThMVjRRUmdlbTdOZGU0QUF1QVE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b706d261ecb8",
       "title": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal - Hart van Nederland",
@@ -19,11 +31,23 @@
       "id": "ef67851cc5f6",
       "title": "Wereldwijd meer kinderen gevaccineerd, maar grote verschillen tussen landen - NOS",
       "published": "2026-07-14T23:00:05+00:00",
-      "summary": "Wereldwijd meer kinderen gevaccineerd, maar grote verschillen tussen landen&nbsp;&nbsp;NOSMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Wereldwijd meer kinderen gevaccineerd, maar grote verschillen tussen landen&nbsp;&nbsp;NOSDe WHO maakt bekend dat 13 miljoen kinderen niet zijn ingeënt&nbsp;&nbsp;The Portugal News",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGF1MlliLU9tYmxYVkVmMEF5cUVIN2R0cVVUUE5VYnN5Y1RxOUJ3VzdLandCNFZoYVB6RkU3cWQ2SXBiU0E1SXBxQ3dpZG0wTlVrOUhJYi1mZHZ0WldWOHVjbXl3dEdybGZWOFNJQWlpLTRra1IxT3Nwam1pM3FfU09BY2Rsd0FCX1RUOWd2WnRfTnF6S2xMblJXUmZ5akQ1V2tVRjFwOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "739a8f3ff6cf",
+      "title": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd - De Groene Amsterdammer",
+      "published": "2026-07-15T12:01:58+00:00",
+      "summary": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd&nbsp;&nbsp;De Groene AmsterdammerNog 450.000 mensen kampen met langdurige klachten na corona&nbsp;&nbsp;RTV OostLong covid&nbsp;&nbsp;SteunactieVoor Vivienne en Charlie is long covid geen verleden tijd: 'Ik krijg veel boze blikken als ik een masker draag'&nbsp;&nbsp;voxweb.nl‘Reguliere zorg heeft nog onvoldoende kennis over post-COVID’&nbsp;&nbsp;1Zwolle",
+      "sources": [
+        {
+          "name": "De Groene Amsterdammer",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSEdaVlRtUkVoR3BmckVBVlhNZTJkVUhYTGlKVFZ3cVpnek9RU19JNlgzMDMtQ1ducUZDRVVGaG12MkpsbUFreG0zRUtDd0x3Zjl2THFWeWRrUUhsV3RNVTBQX1lBRllxQ2N1SHRfLVVFTnlZYkZaS2FR?oc=5"
         }
       ]
     },

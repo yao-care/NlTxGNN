@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-16T19:03:58.796357+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-17T02:22:50.518409+00:00",
+  "count": 6,
   "news": [
     {
       "id": "4b122d010933",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "0fdf7df30602",
-      "title": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’ - AD.nl",
-      "published": "2026-07-16T08:15:00+00:00",
-      "summary": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’&nbsp;&nbsp;AD.nl",
+      "id": "56972f86f4a2",
+      "title": "Ebola-arts test nieuw medicijn in Congo: ‘We zijn het virus achterna aan het hollen’ - de Volkskrant",
+      "published": "2026-07-16T06:00:36+00:00",
+      "summary": "Ebola-arts test nieuw medicijn in Congo: ‘We zijn het virus achterna aan het hollen’&nbsp;&nbsp;de VolkskrantMedicijnen tegen ebolavariant op patiënten getest: 'Willen sterfte omlaag krijgen'&nbsp;&nbsp;NOSUniversiteit van Oxford begint met eerste proeven op mensen voor het Bundibugyo-ebola-vaccin&nbsp;&nbsp;Newsmonkey -Ebolavaccinproeven op mensen zullen binnenkort in het Verenigd Koninkrijk beginnen&nbsp;&nbsp;Gamereactor.nlEbola: start van de proeven met een eerste vaccin tegen de Bundibugyo-",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVlZT1k5RjRHMTZId0VITnYwQS02aDZmUy05T1dSZlFGSGY4Z3BPMlk2V0pYbV9ISjhlUTFMOXk3TzdRQTM3cUdJT2hJVmZVR0JMYmxrdXR1d0E0MThEbjYzNXY3aElaeGg5MEhnWVFWLThaS0JLWFZrbi1PbEFkTWkwMHlDa0dETlEtMS1GZXJjdVFyaUxFdGhUVXM5ZHNhaU9hZDgxUEk2ZzdiTk5fN3RGY1htQ1hEeWloenhoX24wNmp1U1dpMDNQTEljb2QxUHZkR0F3?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2tGSGYtYVZEVXFQUTVsbnBlWXRjRW8zYmx5WVRMQ1NVQUo5OHdHQno0eHJKTkNIc0RiaXdWS3VSTDJ5SUVGdkVHbHdPcVlRY0hFbVBFS0V2VlBOU2RCR0ZDTW5CaXd0aUhxcm5wSEd3UjlqR192LVB0VGpCSWNGeVpuNkNMRXRjMVRIZHFBY0R4STBJUkdJNHYxcENFNURkcDhxcWJzcEs5bUg0NjNNejVFUHlXNC1TWXhkNTBuUVBTalRtdVZZ?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "De Groene Amsterdammer",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSEdaVlRtUkVoR3BmckVBVlhNZTJkVUhYTGlKVFZ3cVpnek9RU19JNlgzMDMtQ1ducUZDRVVGaG12MkpsbUFreG0zRUtDd0x3Zjl2THFWeWRrUUhsV3RNVTBQX1lBRllxQ2N1SHRfLVVFTnlZYkZaS2FR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fdf7df30602",
+      "title": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’ - AD.nl",
+      "published": "2026-07-16T08:15:00+00:00",
+      "summary": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVlZT1k5RjRHMTZId0VITnYwQS02aDZmUy05T1dSZlFGSGY4Z3BPMlk2V0pYbV9ISjhlUTFMOXk3TzdRQTM3cUdJT2hJVmZVR0JMYmxrdXR1d0E0MThEbjYzNXY3aElaeGg5MEhnWVFWLThaS0JLWFZrbi1PbEFkTWkwMHlDa0dETlEtMS1GZXJjdVFyaUxFdGhUVXM5ZHNhaU9hZDgxUEk2ZzdiTk5fN3RGY1htQ1hEeWloenhoX24wNmp1U1dpMDNQTEljb2QxUHZkR0F3?oc=5"
         }
       ]
     },

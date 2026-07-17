@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-17T13:20:05.606401+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-17T19:01:56.865594+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "b49067d4f173",
+      "title": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij - AD.nl",
+      "published": "2026-07-17T01:05:00+00:00",
+      "summary": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VtUTI4UVRIdXh1Q2VYbnYxZ01VM3R2UXFReUswd3NrVGI2TTBEOWVUYkZWQXFPRElDSjRPNjJrbm9ZTUl3S3h4MjZZMGlpM0RabWluajBWelM3VXFZN1FTeEJQbjNjLTVnR05seVdSY3BpWUd1YlZEU29kVG5WUXJtSWxIdnhkdkxnMmZqMTBLS01SV3kzYnhpYlNveFItNk0wMjBZUHBfMW1KVzRKMUFGZmppdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "4b122d010933",
       "title": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "739a8f3ff6cf",
-      "title": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd - De Groene Amsterdammer",
-      "published": "2026-07-15T12:01:58+00:00",
-      "summary": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd&nbsp;&nbsp;De Groene AmsterdammerNog 450.000 mensen kampen met langdurige klachten na corona&nbsp;&nbsp;RTV OostLong covid&nbsp;&nbsp;Steunactie‘Reguliere zorg heeft nog onvoldoende kennis over post-COVID’&nbsp;&nbsp;1Zwolle",
+      "id": "7a3122249cf4",
+      "title": "Het ketodieet zou kankercellen uithongeren, maar nieuwe MIT-studie laat iets anders zien - Scientias.nl",
+      "published": "2026-07-17T09:00:41+00:00",
+      "summary": "Het ketodieet zou kankercellen uithongeren, maar nieuwe MIT-studie laat iets anders zien&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
-          "name": "De Groene Amsterdammer",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSEdaVlRtUkVoR3BmckVBVlhNZTJkVUhYTGlKVFZ3cVpnek9RU19JNlgzMDMtQ1ducUZDRVVGaG12MkpsbUFreG0zRUtDd0x3Zjl2THFWeWRrUUhsV3RNVTBQX1lBRllxQ2N1SHRfLVVFTnlZYkZaS2FR?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEQyYWZKSUtMcVpvTzlXUDVHdWRpczF2T1hzUHluVkpFeDk0YjVkX2ZlVlliRGNoZTVTYjRJMW9uUFZ2Zlp6NXFpMEFSX3pJRjdscmNPMFhpTmdiOGxVbGp6dm9XcE9wb3EzOEdMYmNaeHRHaXpsSE5nTWNyUzBsb2pKc2dkU3hzSi1oVWpvSHZWOVRnRE1kRGlQelVBdjdsMDBYRTZTbm5HUm5tZ2c?oc=5"
         }
       ]
     },
@@ -48,6 +60,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVlZT1k5RjRHMTZId0VITnYwQS02aDZmUy05T1dSZlFGSGY4Z3BPMlk2V0pYbV9ISjhlUTFMOXk3TzdRQTM3cUdJT2hJVmZVR0JMYmxrdXR1d0E0MThEbjYzNXY3aElaeGg5MEhnWVFWLThaS0JLWFZrbi1PbEFkTWkwMHlDa0dETlEtMS1GZXJjdVFyaUxFdGhUVXM5ZHNhaU9hZDgxUEk2ZzdiTk5fN3RGY1htQ1hEeWloenhoX24wNmp1U1dpMDNQTEljb2QxUHZkR0F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ace683e5141",
+      "title": "De wetenschap krijgt eindelijk vat op alvleesklierkanker: vaccin veroorzaakt veelbelovende afweerreactie - Scientias.nl",
+      "published": "2026-07-16T16:00:29+00:00",
+      "summary": "De wetenschap krijgt eindelijk vat op alvleesklierkanker: vaccin veroorzaakt veelbelovende afweerreactie&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWZXRkF6LWstYzB5V2NBWno2YjUwUTV3ZkIzR1R3MFhTVk82MEZnNzFtb2xzMjZ5a3lBTlRUVzA0VE1wNDNVbWVkNGFBUzdBcmdvTWtRZjFjd1VjUXk1cURUTV9HYjZGOXMzMHl0Mk5sRmxBSXQ5a3ZOQWpta1oycm1PamJPNktLSmRYQTVqZXd3TktDcWtxcXUxVUoyYTY0YmpVUFppU1ZEYlFmcXU1eHR4WjViWV9fTlBGSEZJQlAxNkE?oc=5"
         }
       ]
     },

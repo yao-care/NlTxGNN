@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-17T08:03:50.568412+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-17T13:20:05.606401+00:00",
+  "count": 5,
   "news": [
     {
       "id": "4b122d010933",
@@ -18,7 +18,7 @@
     {
       "id": "56972f86f4a2",
       "title": "Ebola-arts test nieuw medicijn in Congo: ‘We zijn het virus achterna aan het hollen’ - de Volkskrant",
-      "published": "2026-07-16T06:00:36+00:00",
+      "published": "2026-07-16T06:00:00+00:00",
       "summary": "Ebola-arts test nieuw medicijn in Congo: ‘We zijn het virus achterna aan het hollen’&nbsp;&nbsp;de VolkskrantMedicijnen tegen ebolavariant op patiënten getest: 'Willen sterfte omlaag krijgen'&nbsp;&nbsp;NOSUniversiteit van Oxford begint met eerste proeven op mensen voor het Bundibugyo-ebola-vaccin&nbsp;&nbsp;Newsmonkey -Ebolavaccinproeven op mensen zullen binnenkort in het Verenigd Koninkrijk beginnen&nbsp;&nbsp;Gamereactor.nlEbola-arts test nieuw medicijn in Congo: 'We zijn het virus achterna a",
       "sources": [
         {
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "b706d261ecb8",
-      "title": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal - Hart van Nederland",
-      "published": "2026-07-15T16:24:06+00:00",
-      "summary": "Veel kinderen naar huisarts met krentenbaard, meer meldingen dan normaal&nbsp;&nbsp;Hart van NederlandMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Hart van Nederland",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFYYndMeFVBc2xXVGRNeUpBWTJkNUhqQk1qVGRGcVhQRUQxTElrMHozczBTX0wxejZFakNBdXc0MF96dDR2SHNWNXdZdjlvS3hwbDQtN2hORE5iS0lpcndDdE9iRWpBWjFsVm1qR3FrUHV2OHZ0OXZQSDlaNWNqc2dPY080Ui1uS1NJVFlsbmJGZl9PSEgyUHRZWVl4QWlDZ1ZScEM0ZG9YTEFJU18tX3FITmY3TmtZdGZDRmZBelhKN1pJOVpabko5ZVEtM1djUXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "739a8f3ff6cf",
       "title": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd - De Groene Amsterdammer",
       "published": "2026-07-15T12:01:58+00:00",
-      "summary": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd&nbsp;&nbsp;De Groene AmsterdammerNog 450.000 mensen kampen met langdurige klachten na corona&nbsp;&nbsp;RTV OostLong covid&nbsp;&nbsp;SteunactieVoor Vivienne en Charlie is long covid geen verleden tijd: 'Ik krijg veel boze blikken als ik een masker draag'&nbsp;&nbsp;voxweb.nl‘Reguliere zorg heeft nog onvoldoende kennis over post-COVID’&nbsp;&nbsp;1Zwolle",
+      "summary": "Zes jaar na corona zijn duizenden patiënten nog altijd aan hun bed gekluisterd&nbsp;&nbsp;De Groene AmsterdammerNog 450.000 mensen kampen met langdurige klachten na corona&nbsp;&nbsp;RTV OostLong covid&nbsp;&nbsp;Steunactie‘Reguliere zorg heeft nog onvoldoende kennis over post-COVID’&nbsp;&nbsp;1Zwolle",
       "sources": [
         {
           "name": "De Groene Amsterdammer",

@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-18T07:43:13.087142+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-18T13:06:31.878199+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "4b122d010933",
-      "title": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-07-16T08:01:00+00:00",
-      "summary": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWmNlQWl5SE5FRnJLUkg1d21hemdFdFh0YzVONWpvNk5iVmI5eEJ5MHBmNUFjU01iZEJuVDFtcEc5UkhLeVpfOHRFVVAwSmNLTklaV0tZdkZDVy16RUNEdV9MNVplLUVPWERCOENpT1lDcVYzcUJuZlV3OFZTWWNLcFlSdGV3dTZOZy0xb1JXT1FwbXJaLUFybW5IcG9sR090XzM3S3Rjc3lzN1N1SjlJTl9OSEllSFpSWndqQnVlVzQzYjZBWVZ2Z3BqVm92OGh2UEVFR04xWV91OTVDcGhvb0Y3OXY2bmhCUURzbXhqNjBOUmdBX1NVZEQxaTRnc1V6VE4wVkVWQ2lpcENTM0dfYktULXV6UkFhR3FTaHh3UThMVjRRUmdlbTdOZGU0QUF1QVE?oc=5"
-        }
-      ]
-    },
     {
       "id": "b49067d4f173",
       "title": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij - AD.nl",
@@ -36,42 +24,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEQyYWZKSUtMcVpvTzlXUDVHdWRpczF2T1hzUHluVkpFeDk0YjVkX2ZlVlliRGNoZTVTYjRJMW9uUFZ2Zlp6NXFpMEFSX3pJRjdscmNPMFhpTmdiOGxVbGp6dm9XcE9wb3EzOEdMYmNaeHRHaXpsSE5nTWNyUzBsb2pKc2dkU3hzSi1oVWpvSHZWOVRnRE1kRGlQelVBdjdsMDBYRTZTbm5HUm5tZ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fdf7df30602",
-      "title": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’ - AD.nl",
-      "published": "2026-07-16T08:15:00+00:00",
-      "summary": "Adhd-medicatie in de zomervakantie: doorgaan of juist even stoppen? ‘Je kunt de dosering tijdelijk verlagen’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVlZT1k5RjRHMTZId0VITnYwQS02aDZmUy05T1dSZlFGSGY4Z3BPMlk2V0pYbV9ISjhlUTFMOXk3TzdRQTM3cUdJT2hJVmZVR0JMYmxrdXR1d0E0MThEbjYzNXY3aElaeGg5MEhnWVFWLThaS0JLWFZrbi1PbEFkTWkwMHlDa0dETlEtMS1GZXJjdVFyaUxFdGhUVXM5ZHNhaU9hZDgxUEk2ZzdiTk5fN3RGY1htQ1hEeWloenhoX24wNmp1U1dpMDNQTEljb2QxUHZkR0F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ace683e5141",
-      "title": "De wetenschap krijgt eindelijk vat op alvleesklierkanker: vaccin veroorzaakt veelbelovende afweerreactie - Scientias.nl",
-      "published": "2026-07-16T16:00:29+00:00",
-      "summary": "De wetenschap krijgt eindelijk vat op alvleesklierkanker: vaccin veroorzaakt veelbelovende afweerreactie&nbsp;&nbsp;Scientias.nl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWZXRkF6LWstYzB5V2NBWno2YjUwUTV3ZkIzR1R3MFhTVk82MEZnNzFtb2xzMjZ5a3lBTlRUVzA0VE1wNDNVbWVkNGFBUzdBcmdvTWtRZjFjd1VjUXk1cURUTV9HYjZGOXMzMHl0Mk5sRmxBSXQ5a3ZOQWpta1oycm1PamJPNktLSmRYQTVqZXd3TktDcWtxcXUxVUoyYTY0YmpVUFppU1ZEYlFmcXU1eHR4WjViWV9fTlBGSEZJQlAxNkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13b23c2b67c1",
-      "title": "Pas na ruim twintig jaar kreeg Camilla (34) de diagnose PMDD: ‘Je herkent jezelf niet meer in de spiegel’ - Libelle",
-      "published": "2026-07-16T07:13:12+00:00",
-      "summary": "Pas na ruim twintig jaar kreeg Camilla (34) de diagnose PMDD: ‘Je herkent jezelf niet meer in de spiegel’&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW1fTnJJcFp0OFJBVFQwbnFyNVoxQ0dacHNzTElMWGhtZmp4Q1B0eGpWd3o3TDJUU3Z5cjhob0pqQXlsNHlWNUdVSzVQb3U5S3ppeU5Mcm04WlBtVkdWV1JLa0JOLThpLUl4VUo0amloeGJWMW44OXRXUUNra3BiS2MzbnlZWFJiWldJSzJaWWptcmdLY3c?oc=5"
         }
       ]
     }

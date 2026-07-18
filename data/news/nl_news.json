@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-18T02:07:06.394029+00:00",
+  "fetched_at": "2026-07-18T07:43:13.087142+00:00",
   "count": 6,
   "news": [
-    {
-      "id": "b49067d4f173",
-      "title": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij - AD.nl",
-      "published": "2026-07-17T01:05:00+00:00",
-      "summary": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VtUTI4UVRIdXh1Q2VYbnYxZ01VM3R2UXFReUswd3NrVGI2TTBEOWVUYkZWQXFPRElDSjRPNjJrbm9ZTUl3S3h4MjZZMGlpM0RabWluajBWelM3VXFZN1FTeEJQbjNjLTVnR05seVdSY3BpWUd1YlZEU29kVG5WUXJtSWxIdnhkdkxnMmZqMTBLS01SV3kzYnhpYlNveFItNk0wMjBZUHBfMW1KVzRKMUFGZmppdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "4b122d010933",
       "title": "RIVM moet bij de volgende pandemie afstand houden tot politiek, zegt opvolger van Jaap van Dissel. ‘Het heeft schade berokkend aan de onafhankelijkheid van de wetenschap’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -24,6 +12,18 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWmNlQWl5SE5FRnJLUkg1d21hemdFdFh0YzVONWpvNk5iVmI5eEJ5MHBmNUFjU01iZEJuVDFtcEc5UkhLeVpfOHRFVVAwSmNLTklaV0tZdkZDVy16RUNEdV9MNVplLUVPWERCOENpT1lDcVYzcUJuZlV3OFZTWWNLcFlSdGV3dTZOZy0xb1JXT1FwbXJaLUFybW5IcG9sR090XzM3S3Rjc3lzN1N1SjlJTl9OSEllSFpSWndqQnVlVzQzYjZBWVZ2Z3BqVm92OGh2UEVFR04xWV91OTVDcGhvb0Y3OXY2bmhCUURzbXhqNjBOUmdBX1NVZEQxaTRnc1V6VE4wVkVWQ2lpcENTM0dfYktULXV6UkFhR3FTaHh3UThMVjRRUmdlbTdOZGU0QUF1QVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b49067d4f173",
+      "title": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij - AD.nl",
+      "published": "2026-07-17T01:05:00+00:00",
+      "summary": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VtUTI4UVRIdXh1Q2VYbnYxZ01VM3R2UXFReUswd3NrVGI2TTBEOWVUYkZWQXFPRElDSjRPNjJrbm9ZTUl3S3h4MjZZMGlpM0RabWluajBWelM3VXFZN1FTeEJQbjNjLTVnR05seVdSY3BpWUd1YlZEU29kVG5WUXJtSWxIdnhkdkxnMmZqMTBLS01SV3kzYnhpYlNveFItNk0wMjBZUHBfMW1KVzRKMUFGZmppdw?oc=5"
         }
       ]
     },

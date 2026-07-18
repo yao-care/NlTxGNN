@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-18T13:06:31.878199+00:00",
-  "count": 2,
+  "fetched_at": "2026-07-18T18:58:19.439665+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "b49067d4f173",
-      "title": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij - AD.nl",
-      "published": "2026-07-17T01:05:00+00:00",
-      "summary": "Oeganda ontslaat laatste ebolapatiënt en begint met aftellen naar ebolavrij&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VtUTI4UVRIdXh1Q2VYbnYxZ01VM3R2UXFReUswd3NrVGI2TTBEOWVUYkZWQXFPRElDSjRPNjJrbm9ZTUl3S3h4MjZZMGlpM0RabWluajBWelM3VXFZN1FTeEJQbjNjLTVnR05seVdSY3BpWUd1YlZEU29kVG5WUXJtSWxIdnhkdkxnMmZqMTBLS01SV3kzYnhpYlNveFItNk0wMjBZUHBfMW1KVzRKMUFGZmppdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "7a3122249cf4",
       "title": "Het ketodieet zou kankercellen uithongeren, maar nieuwe MIT-studie laat iets anders zien - Scientias.nl",

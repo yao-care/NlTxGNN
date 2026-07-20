@@ -1,12 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-20T02:39:45.366146+00:00",
-  "count": 1,
+  "fetched_at": "2026-07-20T08:51:36.506584+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "b47fc1980623",
+      "title": "Kurkumabehandeling tegen kanker? Crowdfundingplatforms doen weinig tegen misleiding - NOS",
+      "published": "2026-07-20T05:00:01+00:00",
+      "summary": "Kurkumabehandeling tegen kanker? Crowdfundingplatforms doen weinig tegen misleiding&nbsp;&nbsp;NOS",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUdpTmdlejdGSG4waDJpZEQ3aW9ZVUxveHdJMmFJUVFfLV95OU1iX0pCYVBkaWEwM1RKc0FJVUlZR0s4MDdGVXg3X3lrTGk4Tlp4UVJtSlgwSy14aXBZQm1nTlhiaXlEOU1ua0tPNkp0a0UyWWRsV0dUYk1UUUpielBjT18yWjl4WXJ1RG1LNFIyY0xJTlE0X3g5ZlU4bXZJQndJRDE3YTc2QnFPanBxNXRrTXpkTVFqclRpNEl0elU?oc=5"
+        }
+      ]
+    },
     {
       "id": "057791739555",
       "title": "Leven Caroline (51) verwoest door besmetting met Q-koorts: ’Dat moment dat de huisarts belde, vergeet ik nooit meer’ - De Telegraaf",
-      "published": "2026-07-19T13:00:00+00:00",
+      "published": "2026-07-19T06:00:00+00:00",
       "summary": "Leven Caroline (51) verwoest door besmetting met Q-koorts: ’Dat moment dat de huisarts belde, vergeet ik nooit meer’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

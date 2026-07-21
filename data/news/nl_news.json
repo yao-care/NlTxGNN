@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-21T02:23:16.996758+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-21T08:22:13.185095+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "6e232b8b1df0",
-      "title": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken - Scientias.nl",
-      "published": "2026-07-20T13:00:08+00:00",
-      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlBlijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;GezondnuKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&nbsp;Welingelichte KringenTot 5 koppen koffie per dag is veilig voor de meeste vol",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjlnaFhGNTRFc1I4VmRBMkZRUF9QWTNIUlNCUHdFNkhSZWdBdEVYaDZRRnlZRklFNXhReGZHZWRyendhRHI5clVSSkR4NkVUaFdZUmNMM1pTSkZGSWZQekZNUjEzU1NneGtnVG5nZExRM0hZVUtUUnlFQ2l0OUNGZ1BGX3JVLUJEUzRRUkRnMmhhWnM4aWdUSUhQVHl5blB4YnpNbQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "46b11e354671",
       "title": "Neuroloog Machteld Leembruggen van Tergooi MC ziet hoe MS een ander gezicht krijgt: ’Het is niet meer de ziekte van de mevrouw in een rolstoel met een dekentje’ - De Gooi- en Eemlander",
@@ -28,14 +16,14 @@
       ]
     },
     {
-      "id": "057791739555",
-      "title": "Leven Caroline (51) verwoest door besmetting met Q-koorts: ’Dat moment dat de huisarts belde, vergeet ik nooit meer’ - De Telegraaf",
-      "published": "2026-07-19T06:00:00+00:00",
-      "summary": "Leven Caroline (51) verwoest door besmetting met Q-koorts: ’Dat moment dat de huisarts belde, vergeet ik nooit meer’&nbsp;&nbsp;De Telegraaf",
+      "id": "6e232b8b1df0",
+      "title": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken - Scientias.nl",
+      "published": "2026-07-20T13:00:08+00:00",
+      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlBlijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;GezondnuWetenschappers onthullen hoeveel kopjes koffie per dag ideaal zijn&nbsp;&nbsp;MSNKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&n",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQktrZ05IcktaQXNEODlubDdWWmhhUUZuYS11eVZQNWdoeENNbHU4MXpUN08xaVM4N2NDRnNlZGZYNmpWNTU0OVdYOVo4anZuazJNd080SjMyb1dJTV9ONlYwY1V4TWRsYXNkTXhpd254YnpLR3ZuUXM3dXE5bUduV251NzRISWJfUkxfVm8xeTBsN2tKdW15OGNLN2plOVpfb3U4emt0dUNRSUgyOXhwaFZFbE5LNEpmeUdIM1o2Ym1xV0VObWlFTlJ3ZDJjOWdQNU04bm5NRW1sbTZPTGhBVVphOFJmSEQyUmNPM1JrTDdwMjVwV2NCR1hyZjNjMnRhWWd4Xw?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjlnaFhGNTRFc1I4VmRBMkZRUF9QWTNIUlNCUHdFNkhSZWdBdEVYaDZRRnlZRklFNXhReGZHZWRyendhRHI5clVSSkR4NkVUaFdZUmNMM1pTSkZGSWZQekZNUjEzU1NneGtnVG5nZExRM0hZVUtUUnlFQ2l0OUNGZ1BGX3JVLUJEUzRRUkRnMmhhWnM4aWdUSUhQVHl5blB4YnpNbQ?oc=5"
         }
       ]
     }

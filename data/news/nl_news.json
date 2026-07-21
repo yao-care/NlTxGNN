@@ -1,12 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-21T08:22:13.185095+00:00",
-  "count": 2,
+  "fetched_at": "2026-07-21T13:40:28.563619+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "6e232b8b1df0",
+      "title": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken - Scientias.nl",
+      "published": "2026-07-20T13:00:08+00:00",
+      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlBlijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafZo gezond is koffie echt: nieuwe megastudie komt tot verrassende conclusie&nbsp;&nbsp;Welingelichte KringenTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;MSNTot 5 koppen koffie per dag is veilig voor de meeste volwass",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjlnaFhGNTRFc1I4VmRBMkZRUF9QWTNIUlNCUHdFNkhSZWdBdEVYaDZRRnlZRklFNXhReGZHZWRyendhRHI5clVSSkR4NkVUaFdZUmNMM1pTSkZGSWZQekZNUjEzU1NneGtnVG5nZExRM0hZVUtUUnlFQ2l0OUNGZ1BGX3JVLUJEUzRRUkRnMmhhWnM4aWdUSUhQVHl5blB4YnpNbQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "46b11e354671",
       "title": "Neuroloog Machteld Leembruggen van Tergooi MC ziet hoe MS een ander gezicht krijgt: ’Het is niet meer de ziekte van de mevrouw in een rolstoel met een dekentje’ - De Gooi- en Eemlander",
-      "published": "2026-07-20T05:02:00+00:00",
+      "published": "2026-07-21T11:08:55+00:00",
       "summary": "Neuroloog Machteld Leembruggen van Tergooi MC ziet hoe MS een ander gezicht krijgt: ’Het is niet meer de ziekte van de mevrouw in een rolstoel met een dekentje’&nbsp;&nbsp;De Gooi- en Eemlander",
       "sources": [
         {
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "6e232b8b1df0",
-      "title": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken - Scientias.nl",
-      "published": "2026-07-20T13:00:08+00:00",
-      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlBlijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;GezondnuWetenschappers onthullen hoeveel kopjes koffie per dag ideaal zijn&nbsp;&nbsp;MSNKoffie blijkt verrassende bondgenoot voor de lever – zelfs zonder cafeïne&nbsp;&n",
+      "id": "c03a7e154205",
+      "title": "‘Op reis en bij hitte neemt het risico op een hartinfarct toe' - quest.nl",
+      "published": "2026-07-20T04:09:26+00:00",
+      "summary": "‘Op reis en bij hitte neemt het risico op een hartinfarct toe'&nbsp;&nbsp;quest.nl",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjlnaFhGNTRFc1I4VmRBMkZRUF9QWTNIUlNCUHdFNkhSZWdBdEVYaDZRRnlZRklFNXhReGZHZWRyendhRHI5clVSSkR4NkVUaFdZUmNMM1pTSkZGSWZQekZNUjEzU1NneGtnVG5nZExRM0hZVUtUUnlFQ2l0OUNGZ1BGX3JVLUJEUzRRUkRnMmhhWnM4aWdUSUhQVHl5blB4YnpNbQ?oc=5"
+          "name": "quest.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekExSGlWOFRCcHhZUGc3TC11WHVJdGtiNU1ReEVVTEc5Q29oeXo5Xzl0M1cxcVRURG9Cd29Zc1BIZTkzYjZ6R1ZtYTVPbnRhYWdZYVlZQ2RsM2NTZDIxNm8xdnZPSDFNS0loV2NpdUFpcG8wVE9OSF9mNjlVTkdUWDJycmw2T1ZBWW4wZGhzTzZRZEhXY0p4R2xXcm5vSkJMUS1JcA?oc=5"
         }
       ]
     }

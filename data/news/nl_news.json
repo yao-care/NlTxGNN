@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-22T02:21:37.222023+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-22T08:22:32.065060+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "46b11e354671",
-      "title": "Neuroloog Machteld Leembruggen van Tergooi MC ziet hoe MS een ander gezicht krijgt: ’Het is niet meer de ziekte van de mevrouw in een rolstoel met een dekentje’ - De Gooi- en Eemlander",
-      "published": "2026-07-20T05:02:00+00:00",
-      "summary": "Neuroloog Machteld Leembruggen van Tergooi MC ziet hoe MS een ander gezicht krijgt: ’Het is niet meer de ziekte van de mevrouw in een rolstoel met een dekentje’&nbsp;&nbsp;De Gooi- en Eemlander",
+      "id": "013540baaa7f",
+      "title": "Wie koopt er online medicijnen? Nieuw onderzoek moet verborgen groep in beeld brengen - RTL.nl",
+      "published": "2026-07-21T14:51:32+00:00",
+      "summary": "Wie koopt er online medicijnen? Nieuw onderzoek moet verborgen groep in beeld brengen&nbsp;&nbsp;RTL.nlZorgen over online medicatie groeien, Trimbos wil meer weten over kopers&nbsp;&nbsp;NOSWaarom wijken mensen uit naar illegale medicijnen? ‘Het probleem verdwijnt niet als je het gebruik verbiedt’&nbsp;&nbsp;de VolkskrantWaarom wijken mensen uit naar illegale medicijnen? ‘Probleem verdwijnt niet als je het gebruik verbiedt’&nbsp;&nbsp;Nederlands DagbladTrimbos zoekt uit wie benzo’s en oxycodon o",
       "sources": [
         {
-          "name": "De Gooi- en Eemlander",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNM01lNFZXVHEyTzRXSmZKa3N5Y2t6T0pUQ2VfWWoweWZ6X210R3dCLVpWOWdNMElQbTR4MUpLSGgxVkZFTzh1cDJSclJrME83VzhSZDVtcG9kOG9tZF9tTkFqM3pWMGQ0d2lTN1FPVVFvRWhuQjBPb0Nwd2NHSDBCMnJQNXVlWE5RLVpRSmlST1Q2aWxfOXFlZHY3YmdTeTdzUXlMdDBUUHdBMVdUN09jc1NlYU53dUhYMjhvX2x6SnlQWkVySENKUml0V2NhenlmbUdqVkQ5ZUNSXzJrX0pxejk5RXBUWXFvYk9NLUpkbG1VVjFkd05CR3UxQjI3VkRGZEQyWTNlM3ZvQ1VwOUVtNEh2RkctQlNNWU1JVlB1NHM2N0RIM2NDeWhlOHNoanFsV1lZUXNjcUk2WERXVzdXbTNOa2h5QUtL?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDFLWi13bTE0WDVfczVjNnQxYXpYMHdiS21RenRjUlJCbUszT0RHRWplQ0EwUl9udHJIYVBTSHdjUXY3Y25MTHRzMmYtQ2d5M0NUSUhBcnJfMkxDRjVid3oxM0NqZ0JEV25kZ1ZfZlV4SkxFWFpaMUh4TElRa25XQ2ppRjdaQ09JMWUyUHNvTWJtRlpJU3F1ZHpqMlJEMk0yamV2M2NCejFmMmJIcThVbVN4Yy1VQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d12e480d6e2",
+      "title": "Onderzoek: bezuinigingen VS op aidszorg raken risicogroepen het hardst - de Volkskrant",
+      "published": "2026-07-21T14:01:08+00:00",
+      "summary": "Onderzoek: bezuinigingen VS op aidszorg raken risicogroepen het hardst&nbsp;&nbsp;de VolkskrantTrumps stop op hiv-geld brengt enorme slag toe: 1700 klinieken dicht en 16.000 hulpverleners weg&nbsp;&nbsp;AD.nlHoe Trumps decreet de hiv-zorg wereldwijd ontregelde: ‘Alsof we terug zijn in de crisis van toen’&nbsp;&nbsp;Het Parool",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3d1ckhTeXZtR2kzZWM4aE9yVkkwQXNDR2VOdURNN0lmUDZ1WU5Ra3BPYlNjR2dmYXY4QXphbHpPWHEzNUh4N1Q5OEEzbDloUVEwajM0YnJzZU52RDhEWUxoYWxONi1GdlVjbnlKNU01dTFJZ0kza3BGWEdSSWpGM19PVEpwRl9fV0lKQWt0LTdULVhENXgzTVVjRjV2SlBZdUNYUS13cnp1bWN1bFRkOG5kYW1aWmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75e8f6fc5289",
+      "title": "HPV-vaccin redt levens: Chermaine (30) haalde de prik niet en kreeg later baarmoederhalskanker - EenVandaag",
+      "published": "2026-07-21T14:21:31+00:00",
+      "summary": "HPV-vaccin redt levens: Chermaine (30) haalde de prik niet en kreeg later baarmoederhalskanker&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVZHRTRaODJ2bW5OVHpwaGEyLWdWRUVRNjRCYmpveDJXU3NiNDFXWnUtdEs5TlVzRm1STVJoLW01QzNpa1BGamRiTmZleWxtcjlYVzExWFl4YXhXS3ZwRktaMkJuWld3UkdhT0hvT3hwbWZzZW13OVJpdnNuc2pmcnE0RmtUc3E2TWQyWnhIRGdqeU9CZnJ3UWdTY09UX2syVTVBcG45bFlZMG5IYjc4ODNMc2ljbHp1cWtub3VtcjBhYXlZSlpJUDE5THRaVFUtUjNJWVNR?oc=5"
         }
       ]
     },
@@ -28,22 +52,10 @@
       ]
     },
     {
-      "id": "c03a7e154205",
-      "title": "‘Op reis en bij hitte neemt het risico op een hartinfarct toe' - quest.nl",
-      "published": "2026-07-20T04:09:26+00:00",
-      "summary": "‘Op reis en bij hitte neemt het risico op een hartinfarct toe'&nbsp;&nbsp;quest.nl",
-      "sources": [
-        {
-          "name": "quest.nl",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekExSGlWOFRCcHhZUGc3TC11WHVJdGtiNU1ReEVVTEc5Q29oeXo5Xzl0M1cxcVRURG9Cd29Zc1BIZTkzYjZ6R1ZtYTVPbnRhYWdZYVlZQ2RsM2NTZDIxNm8xdnZPSDFNS0loV2NpdUFpcG8wVE9OSF9mNjlVTkdUWDJycmw2T1ZBWW4wZGhzTzZRZEhXY0p4R2xXcm5vSkJMUS1JcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6e232b8b1df0",
       "title": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken - Scientias.nl",
       "published": "2026-07-20T13:00:08+00:00",
-      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlBlijf weg van detoxkuren en overdrijf niet met paracetamol: 6 tips om je lever te laten herleven&nbsp;&nbsp;De TelegraafTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;MSNZo gezond is koffie echt: nieuwe megastudie komt tot verrassende conclusie&nbsp;&nbsp;Welingelichte KringenTot 5 koppen koffie per dag is veilig voor de meeste volwass",
+      "summary": "Alles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlTwijfel je na je derde kopje koffie? Dit zegt gloednieuw cardiologisch onderzoek over je hart&nbsp;&nbsp;MSNZo gezond is koffie echt: nieuwe megastudie komt tot verrassende conclusie&nbsp;&nbsp;Welingelichte KringenTot 5 koppen koffie per dag is veilig voor de meeste volwassenen, maar energiedrankjes vormen ernstige risico's&nbsp;&nbsp;upday NewsWetenschappers onthullen hoeveel kopjes koffie ",
       "sources": [
         {
           "name": "Scientias.nl",

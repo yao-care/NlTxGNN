@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-21T19:15:37.096907+00:00",
+  "fetched_at": "2026-07-22T02:21:37.222023+00:00",
   "count": 4,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "De Gooi- en Eemlander",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNM01lNFZXVHEyTzRXSmZKa3N5Y2t6T0pUQ2VfWWoweWZ6X210R3dCLVpWOWdNMElQbTR4MUpLSGgxVkZFTzh1cDJSclJrME83VzhSZDVtcG9kOG9tZF9tTkFqM3pWMGQ0d2lTN1FPVVFvRWhuQjBPb0Nwd2NHSDBCMnJQNXVlWE5RLVpRSmlST1Q2aWxfOXFlZHY3YmdTeTdzUXlMdDBUUHdBMVdUN09jc1NlYU53dUhYMjhvX2x6SnlQWkVySENKUml0V2NhenlmbUdqVkQ5ZUNSXzJrX0pxejk5RXBUWXFvYk9NLUpkbG1VVjFkd05CR3UxQjI3VkRGZEQyWTNlM3ZvQ1VwOUVtNEh2RkctQlNNWU1JVlB1NHM2N0RIM2NDeWhlOHNoanFsV1lZUXNjcUk2WERXVzdXbTNOa2h5QUtL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c0ff254f064",
+      "title": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking - wibnet.nl",
+      "published": "2026-07-20T20:00:20+00:00",
+      "summary": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa3FYbmc3V3ByNUV0eGk0cHlmTEt0QUxzT3VuV3VjT19sTG5kQlNtZnd5ZlhJemdJckVsXzJCby1uektWbHFEaXIxbWVSY2Y1Q3lkV3NGVDdLZXUzXzFndGVla0h4WFhmUVBNS3JvQk8wSVJvbU04aXp1LVp4XzAyQ2p6MmsxcS0wZFVtVkN4M29CcjdtaWlYWE1iOHoxb0FGaG43cHVMQ1N6b0d3aE1UYmlJUzlSYmp2Z3lzRllLUzJpUVo5RC1EdzhBUjdRaDdUQ1gwT0h3?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjlnaFhGNTRFc1I4VmRBMkZRUF9QWTNIUlNCUHdFNkhSZWdBdEVYaDZRRnlZRklFNXhReGZHZWRyendhRHI5clVSSkR4NkVUaFdZUmNMM1pTSkZGSWZQekZNUjEzU1NneGtnVG5nZExRM0hZVUtUUnlFQ2l0OUNGZ1BGX3JVLUJEUzRRUkRnMmhhWnM4aWdUSUhQVHl5blB4YnpNbQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c0ff254f064",
-      "title": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking - wibnet.nl",
-      "published": "2026-07-20T20:00:20+00:00",
-      "summary": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa3FYbmc3V3ByNUV0eGk0cHlmTEt0QUxzT3VuV3VjT19sTG5kQlNtZnd5ZlhJemdJckVsXzJCby1uektWbHFEaXIxbWVSY2Y1Q3lkV3NGVDdLZXUzXzFndGVla0h4WFhmUVBNS3JvQk8wSVJvbU04aXp1LVp4XzAyQ2p6MmsxcS0wZFVtVkN4M29CcjdtaWlYWE1iOHoxb0FGaG43cHVMQ1N6b0d3aE1UYmlJUzlSYmp2Z3lzRllLUzJpUVo5RC1EdzhBUjdRaDdUQ1gwT0h3?oc=5"
         }
       ]
     }

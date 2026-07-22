@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-22T13:43:24.362537+00:00",
+  "fetched_at": "2026-07-22T19:10:51.674728+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "61a2866802e8",
+      "title": "Ebola-uitbraak in Congo eist bijna 1000 doden, snelste uitbraak ooit - NOS",
+      "published": "2026-07-22T12:39:30+00:00",
+      "summary": "Ebola-uitbraak in Congo eist bijna 1000 doden, snelste uitbraak ooit&nbsp;&nbsp;NOSEbola-uitbraak in Congo eist bijna 1000 doden&nbsp;&nbsp;NOSDodental ebola-uitbraak stijgt tot boven 1000&nbsp;&nbsp;De Gooi- en EemlanderDRC: bijna duizend doden door ebola-uitbraak&nbsp;&nbsp;Haarlems DagbladEbola-arts test nieuw medicijn in Congo: ‘We zijn het virus achterna aan het hollen’&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEhObS10eE02WHBrVkZlWmV2RVRERHdYZ0tzUXNnZ1dhNjE1NG15NmY3dE82b1ljVWVJWUJHTTRyYTE5eFZfT1VpYmhnSXZYQ2g3a1M0MGNyOXl6U3JXOWQydXh1NEVWdTltYnJzOXV4ak9MTEo5ZlJDM1RwOHctU285WXFvN1o1bVdzazd5Wl9tRGxCZE5zVFlkY3hBUlk?oc=5"
+        }
+      ]
+    },
     {
       "id": "8d12e480d6e2",
       "title": "Onderzoek: bezuinigingen VS op aidszorg raken risicogroepen het hardst - de Volkskrant",
@@ -24,18 +36,6 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVZHRTRaODJ2bW5OVHpwaGEyLWdWRUVRNjRCYmpveDJXU3NiNDFXWnUtdEs5TlVzRm1STVJoLW01QzNpa1BGamRiTmZleWxtcjlYVzExWFl4YXhXS3ZwRktaMkJuWld3UkdhT0hvT3hwbWZzZW13OVJpdnNuc2pmcnE0RmtUc3E2TWQyWnhIRGdqeU9CZnJ3UWdTY09UX2syVTVBcG45bFlZMG5IYjc4ODNMc2ljbHp1cWtub3VtcjBhYXlZSlpJUDE5THRaVFUtUjNJWVNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c0ff254f064",
-      "title": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking - wibnet.nl",
-      "published": "2026-07-20T20:00:20+00:00",
-      "summary": "Hartonderzoeker: Ik heb één ding in mijn eigen dagelijks leven veranderd na een opzienbarende nieuwe ontdekking&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa3FYbmc3V3ByNUV0eGk0cHlmTEt0QUxzT3VuV3VjT19sTG5kQlNtZnd5ZlhJemdJckVsXzJCby1uektWbHFEaXIxbWVSY2Y1Q3lkV3NGVDdLZXUzXzFndGVla0h4WFhmUVBNS3JvQk8wSVJvbU04aXp1LVp4XzAyQ2p6MmsxcS0wZFVtVkN4M29CcjdtaWlYWE1iOHoxb0FGaG43cHVMQ1N6b0d3aE1UYmlJUzlSYmp2Z3lzRllLUzJpUVo5RC1EdzhBUjdRaDdUQ1gwT0h3?oc=5"
         }
       ]
     }

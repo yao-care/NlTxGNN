@@ -1,41 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-23T13:48:47.746213+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-23T19:09:43.815880+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "efd651d7b3fe",
-      "title": "Isa (24) heeft zeldzame lymfeklierkanker: ’Deze ziekte heeft mij voorgoed veranderd’ - De Telegraaf",
-      "published": "2026-07-23T13:03:08+00:00",
-      "summary": "Isa (24) heeft zeldzame lymfeklierkanker: ’Deze ziekte heeft mij voorgoed veranderd’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLV9jT2RSSnFoOHF5MzFJZ0ZIMkFCdjdJQ1NiX0NobVZNS3F0OUVZeFg2dXJuUjRpNjJJRTdYNGs2VTAyaHVqMWE2MXlGMkxnNGZOSTVXX1ZKdFd1LUFLbkdseTdWRHk2MlZFMzRzQlVFY1pPRmhMTV9NVjZZbEVobU9TdVJPd091Q2pQVkVYVUJ6WkRMbGIyZExjMkIxb3labl9JMkVsV3JtZ3ptOERaYTZFNzBpaF9aUFN0bktreXF0eVE?oc=5"
-        }
-      ]
-    },
     {
       "id": "00d8d03bd107",
       "title": "Nieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’ - bnr.nl",
-      "published": "2026-07-22T18:52:00+00:00",
+      "published": "2026-07-22T18:52:41+00:00",
       "summary": "Nieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlEen maand stoppen met koffie? Dit gebeurt er allemaal in je lichaam&nbsp;&nbsp;quest.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeTwijfel je na je derde kopje koffie? Dit zegt gloed",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2lCNjlTSjFaMjlDYnZGcFNwcFI0Z1lZSjVkRTlNYW1KaWt4ejJtZGRMa2tDMWpiN0RVdWVhLWc2a0xGS3c5b0pCWjB3SzNmWjN5RWdRQmFEUWFRQnpYZDEtVnBHZ3lBNTRHZk1aSHJkb3ZMOEFUOXpESEhvZ1g1MWttWTdoMm9XalZFUmZLem9RNUtaVzhOOThKRjBnYVJNc2gyVG85Y1gwUGZMQnMwaU9BZzVoU0RiZEk2RkpEVTFKeHJVSlZ5VlU1cGJuaExEcm5YcXRTWkY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75e8f6fc5289",
-      "title": "HPV-vaccin redt levens: Chermaine (30) haalde de prik niet en kreeg later baarmoederhalskanker - EenVandaag",
-      "published": "2026-07-21T14:21:31+00:00",
-      "summary": "HPV-vaccin redt levens: Chermaine (30) haalde de prik niet en kreeg later baarmoederhalskanker&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVZHRTRaODJ2bW5OVHpwaGEyLWdWRUVRNjRCYmpveDJXU3NiNDFXWnUtdEs5TlVzRm1STVJoLW01QzNpa1BGamRiTmZleWxtcjlYVzExWFl4YXhXS3ZwRktaMkJuWld3UkdhT0hvT3hwbWZzZW13OVJpdnNuc2pmcnE0RmtUc3E2TWQyWnhIRGdqeU9CZnJ3UWdTY09UX2syVTVBcG45bFlZMG5IYjc4ODNMc2ljbHp1cWtub3VtcjBhYXlZSlpJUDE5THRaVFUtUjNJWVNR?oc=5"
         }
       ]
     }

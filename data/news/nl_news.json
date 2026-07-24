@@ -1,12 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-23T19:09:43.815880+00:00",
-  "count": 1,
+  "fetched_at": "2026-07-24T02:23:47.828091+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "cd15cbf885f5",
+      "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
+      "published": "2026-07-23T19:43:56+00:00",
+      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDrie Dekkerbeurzen voor UMC Utrecht&nbsp;&nbsp;UMC Utrecht",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "00d8d03bd107",
       "title": "Nieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’ - bnr.nl",
-      "published": "2026-07-22T18:52:41+00:00",
+      "published": "2026-07-22T18:52:00+00:00",
       "summary": "Nieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlEen maand stoppen met koffie? Dit gebeurt er allemaal in je lichaam&nbsp;&nbsp;quest.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeTwijfel je na je derde kopje koffie? Dit zegt gloed",
       "sources": [
         {

@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-24T13:28:59.395554+00:00",
-  "count": 1,
+  "fetched_at": "2026-07-24T19:19:35.901836+00:00",
+  "count": 3,
   "news": [
     {
       "id": "cd15cbf885f5",
       "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
       "published": "2026-07-23T19:43:00+00:00",
-      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDrie Dekkerbeurzen voor UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;SkiprDekkerbeurs voor dertien topwetenschappers die onderzoek doen naar hart- en vaatziekten&nbsp;&nbsp;Nationale Zorggids",
+      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDrie Dekkerbeurzen voor onderzoekers van het UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;SkiprDekkerbeurs voor dertien topwetenschappers die onderzoek doen naar hart- en vaatziekten&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1232ccc41aee",
+      "title": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma - EenVandaag",
+      "published": "2026-07-24T04:08:56+00:00",
+      "summary": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma&nbsp;&nbsp;EenVandaagDengue, diarree en dierenbeten, zo voorkom je vervelende vakantiesouvenirs: ’Ook in Europa moet je opletten’&nbsp;&nbsp;De TelegraafOm goed beschermd te zijn tegen teken-encefalitis, zijn minstens 2 prikken nodig&nbsp;&nbsp;gezondheidenwetenschap.beTeek met levensgevaarlijk TBE-virus gaat rond in Europa&nbsp;&nbsp;Welingelichte KringenOp reis in Europa? Dit moet je wet",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdTF2LVIyaGwzU1JpSTVKMlFPY2d5MnFuT0VvNzNBckFXRFZycG1EcnFXNlhSTlpWUl9hTmMwWFNjVV9sTjJfVExNUzk1QnVzY09UclRsUUlaaU5HQzlaMDFyUXBOU0V3N0p0OGVMSHZLU1FCdTF2V1JnQWxNa0o4ZGVZM29JTWVlcDRXUFFuSGN0MTJLaXpqWHBod0Y1Nkg1VnJscUFfSTJkeTBDNDVVNWJYeUJ1eEdOY0JKSzBqUENwRE1JNExjYUNONld6UTF1UHNsejZsTld4ZmtoLUtjWkhzVndZdmV3Y1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c72f989068b7",
+      "title": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers - Metronieuws.nl",
+      "published": "2026-07-24T08:01:00+00:00",
+      "summary": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson verhogen.&nbsp;&nbsp;Vietnam.vnRaar maar waar: verkeerslawaai vergroot mogelijk je ",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb01Ya1p0Rjl2RnQyUFVPeFVBNXdXYjJJUS1UMWZJWEhEQ2Zqb085VUZUNTBqOWxORFVaNU1fNWVnRFAyMmhUb0VWMnI1TzBKM2tHZmZ5ME9EVmVzeEo4RUpIUzhCcGk2OGNRMktlNnFlaE5TN2pmRmVZMVY2bTB6aE5GX21Sc1pmMG5EMEltNFk5WmJjaDg0VkZnVQ?oc=5"
         }
       ]
     }

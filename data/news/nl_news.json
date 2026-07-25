@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-25T13:17:07.488637+00:00",
-  "count": 10,
+  "fetched_at": "2026-07-25T19:01:38.322359+00:00",
+  "count": 8,
   "news": [
     {
       "id": "6cd3a4658bea",
       "title": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant - RTL.nl",
       "published": "2026-07-24T18:58:02+00:00",
-      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad828 doden en geen goedgekeurd vaccin: Waarom deze ebola-uitbraak anders is&nbsp;&nbsp;upday NewsDe wereld begint met de eerste klinische proeven met het Ebola Bundibugyo-vaccin op mensen.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "RTL.nl",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "cd15cbf885f5",
+      "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
+      "published": "2026-07-24T15:32:00+00:00",
+      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDekkerbeurs van Hartstichting voor Leidse wetenschapper Laura Bosmans&nbsp;&nbsp;SleutelstadDrie Dekkerbeurzen voor onderzoekers van het UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;Skipr",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bda83a55ec24",
       "title": "Hoe wordt HPV overgedragen en welke ziektes kan het veroorzaken? En andere vragen over het virus beantwoord - EenVandaag",
       "published": "2026-07-25T11:34:28+00:00",
@@ -42,7 +54,7 @@
     {
       "id": "b53c6ad24d99",
       "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
-      "published": "2026-07-25T12:39:07+00:00",
+      "published": "2026-07-25T15:23:59+00:00",
       "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafGLP-1-medicijnen gaan gepaard met een hoger risico op haaruitval, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Wegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
       "sources": [
         {
@@ -54,7 +66,7 @@
     {
       "id": "ac445835281b",
       "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
-      "published": "2026-07-25T13:06:56+00:00",
+      "published": "2026-07-25T14:35:11+00:00",
       "summary": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De TelegraafNieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeMoeten me",
       "sources": [
         {
@@ -64,26 +76,14 @@
       ]
     },
     {
-      "id": "cd15cbf885f5",
-      "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
-      "published": "2026-07-23T18:30:00+00:00",
-      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDrie Dekkerbeurzen voor onderzoekers van het UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;SkiprDekkerbeurs voor dertien topwetenschappers die onderzoek doen naar hart- en vaatziekten&nbsp;&nbsp;Nationale Zorggids",
+      "id": "1232ccc41aee",
+      "title": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma - EenVandaag",
+      "published": "2026-07-24T04:08:56+00:00",
+      "summary": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma&nbsp;&nbsp;EenVandaagDengue, diarree en dierenbeten, zo voorkom je vervelende vakantiesouvenirs: ’Ook in Europa moet je opletten’&nbsp;&nbsp;De TelegraafOm goed beschermd te zijn tegen teken-encefalitis, zijn minstens 2 prikken nodig&nbsp;&nbsp;gezondheidenwetenschap.beTeek met levensgevaarlijk TBE-virus gaat rond in Europa&nbsp;&nbsp;Welingelichte KringenOp reis in Europa? Dit moet je wet",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b628e8cf25af",
-      "title": "Teek met levensgevaarlijk TBE-virus gaat rond in Europa - welingelichtekringen.nl",
-      "published": "2026-07-24T04:40:02+00:00",
-      "summary": "Teek met levensgevaarlijk TBE-virus gaat rond in Europa&nbsp;&nbsp;welingelichtekringen.nlTeek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma&nbsp;&nbsp;EenVandaagDengue, diarree en dierenbeten, zo voorkom je vervelende vakantiesouvenirs: ’Ook in Europa moet je opletten’&nbsp;&nbsp;De TelegraafOm goed beschermd te zijn tegen teken-encefalitis, zijn minstens 2 prikken nodig&nbsp;&nbsp;gezondheidenwetenschap.beOp reis in Europa? Dit moet je w",
-      "sources": [
-        {
-          "name": "welingelichtekringen.nl",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFdtVFdTdXNEMDZpMUFBbVlHSEkxSjg4X3BJVmFjSkxNa2RiRXdNbWZqS1VmNUZSTTVKMEFreXA5aHE3b1NVV3NNRldkOVlJVzFWM3pMc0x4djljUFdTR3F1OVBwRUpNWk0zVjk0MUpsSzRYQXRoV3daNlJYZ0hvV2o1WjRXVXBlRjBDNDN6dGhDaWYtUXFjTE9PaENRN3JwLUxIQw?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdTF2LVIyaGwzU1JpSTVKMlFPY2d5MnFuT0VvNzNBckFXRFZycG1EcnFXNlhSTlpWUl9hTmMwWFNjVV9sTjJfVExNUzk1QnVzY09UclRsUUlaaU5HQzlaMDFyUXBOU0V3N0p0OGVMSHZLU1FCdTF2V1JnQWxNa0o4ZGVZM29JTWVlcDRXUFFuSGN0MTJLaXpqWHBod0Y1Nkg1VnJscUFfSTJkeTBDNDVVNWJYeUJ1eEdOY0JKSzBqUENwRE1JNExjYUNONld6UTF1UHNsejZsTld4ZmtoLUtjWkhzVndZdmV3Y1E?oc=5"
         }
       ]
     },
@@ -91,35 +91,11 @@
       "id": "c72f989068b7",
       "title": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers - Metronieuws.nl",
       "published": "2026-07-24T08:01:00+00:00",
-      "summary": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;welingelichtekringen.nlLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson verhogen.&nbsp;&nbsp;Vietnam.vnRaar maar waar: verkeerslawaai vergroot mogelijk j",
+      "summary": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson verhogen.&nbsp;&nbsp;Vietnam.vnRaar maar waar: verkeerslawaai vergroot mogelijk je ",
       "sources": [
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb01Ya1p0Rjl2RnQyUFVPeFVBNXdXYjJJUS1UMWZJWEhEQ2Zqb085VUZUNTBqOWxORFVaNU1fNWVnRFAyMmhUb0VWMnI1TzBKM2tHZmZ5ME9EVmVzeEo4RUpIUzhCcGk2OGNRMktlNnFlaE5TN2pmRmVZMVY2bTB6aE5GX21Sc1pmMG5EMEltNFk5WmJjaDg0VkZnVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "969fbba6b92e",
-      "title": "Veel tv kijken op middelbare leeftijd kan later slecht uitpakken voor je brein, blijkt uit onderzoek - Metronieuws.nl",
-      "published": "2026-07-24T11:26:00+00:00",
-      "summary": "Veel tv kijken op middelbare leeftijd kan later slecht uitpakken voor je brein, blijkt uit onderzoek&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnZlTDVmYTdZMUVoNzc0dHVJUnIwYTFyR29HTTlhOU9hZ21NbTdWNUxUYUhQNlRUeTlxVXQwZnZVcW1BU2NTQ29iRUU2ZFF0SUd4R0swQzc0ZGxTWkdiYVQwNzIxb0hxcGV1R1V1UGt2TzF1amxsTEl5QmZLM042dWhHaGJQdUJBTThBTnBzNUdsdy1zNXhLeXFhMFpqcUJzOEFpUHhlWmZ5NHNJNWs0ZFQySmZVNWUtZlBZTU9vNlo1TWhkU2ptZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a8dcda51eb5",
-      "title": "Longkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil” - De Standaard",
-      "published": "2026-07-23T23:59:00+00:00",
-      "summary": "Longkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Standaard",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmFSSXRxTmFuQ0NTYkNBM0dBU3FjOFBBMWQ3UHhMT1FDRzZmQ3M2LThTclVmYy1wSV8wUkUtYnFBd0RIQXhiS1VnRjBGWVZQV3h0MnJQbG5KUVl3UWxnMVVvcjdKSlp3SUk3WTZCcUhXV25UcV9IcGpoWW9zYW1YRXJHZXdvRVNtNnYwYllqcHhxU095UWEybnNEMjJmT2w4R1pyb2lINUp4UmVEQUpoSHZfYlJUZlo5bTlsVHFtVThWS3BUQk9LeTJXTmJpTnBxNVEw?oc=5"
         }
       ]
     }

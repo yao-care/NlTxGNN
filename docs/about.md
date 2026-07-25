@@ -113,7 +113,7 @@ tegen zeldzame ziekten wordt voorspeld."
 
 | Onderdeel | Waarde |
 |------|-------|
-| Geneesmiddelrapporten | 261 |
+| Geneesmiddelrapporten | {{ site.drugs.size }} |
 | Registratieautoriteit | CBG-MEB |
 | Uitgerolde sites | 30 landen / regio's |
 

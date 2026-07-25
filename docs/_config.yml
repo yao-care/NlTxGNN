@@ -1,8 +1,8 @@
 # NlTxGNN - Netherlands Drug Repurposing Predictions
 
 # Basic settings
-title: "NlTxGNN Drug Repurposing Reports"
-description: "Netherlands (CBG-MEB) drug repurposing predictions powered by TxGNN"
+title: "NlTxGNN - Geneesmiddelherpositionering"
+description: "Voorspellingen voor herpositionering van door CBG-MEB goedgekeurde geneesmiddelen in Nederland, op basis van TxGNN"
 
 author:
   name: 藥提醒科技有限公司 (yao.care)

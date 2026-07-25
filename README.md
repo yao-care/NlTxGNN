@@ -1,5 +1,8 @@
 # NlTxGNN - Nederland: Herpositionering van Geneesmiddelen
 
+> 本專案由 **藥提醒科技有限公司**（[yao.care](https://www.yao.care)）開發與維運。
+> NlTxGNN 站台：<https://nltxgnn.yao.care/>｜產品總覽：<https://www.yao.care/medical/txgnn/>
+
 [![Website](https://img.shields.io/badge/Website-nltxgnn.yao.care-blue)](https://nltxgnn.yao.care)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -344,3 +347,4 @@ Citeer ook het oorspronkelijke TxGNN-artikel:
   doi={10.1038/s41591-023-02233-x}
 }
 ```
+

@@ -163,5 +163,23 @@ NlTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 <strong>Disclaimer</strong><br>
 This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Any drug repurposing decisions require complete clinical validation and regulatory review.
 <br><br>
-<small>Last updated: 2026-03-10 | Maintainer: NlTxGNN Research Team</small>
+<small>Last updated: 2026-03-10 | Maintainer: 藥提醒科技有限公司 (yao.care)</small>
 </div>
+
+---
+
+## Over de ontwikkelaar
+
+Dit platform wordt ontwikkeld en beheerd door **藥提醒科技有限公司** (yao.care, inschrijvingsnummer
+83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
+
+NlTxGNN is de Nederlandse site van de productlijn "TxGNN Drug Repurposing" van het bedrijf.
+Hetzelfde systeem is uitgerold in 30 landen en regio's, elk met de naam `{CC}TxGNN`
+(JpTxGNN, UsTxGNN, DETxGNN, enzovoort) op `{cc}txgnn.yao.care`.
+Productoverzicht: <https://www.yao.care/medical/txgnn/>.
+
+Het TxGNN-model zelf is ontwikkeld door het Zitnik Lab van Harvard Medical School en gepubliceerd
+in *Nature Medicine*. Dit platform is het productiesysteem dat 藥提醒科技有限公司 op dat model heeft
+gebouwd; het omvat de integratie van nationale geneesmiddelregistratiegegevens, dubbele voorspelling
+met kennisgraaf en deep learning, bewijsgradering op basis van PubMed / ClinicalTrials, en integratie
+met elektronische patiëntendossiers via SMART on FHIR.

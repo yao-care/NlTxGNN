@@ -3,6 +3,10 @@
 # Basic settings
 title: "NlTxGNN Drug Repurposing Reports"
 description: "Netherlands (CBG-MEB) drug repurposing predictions powered by TxGNN"
+
+author:
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 url: "https://nltxgnn.yao.care"
 baseurl: ""
 lang: "nl"
@@ -23,7 +27,7 @@ search:
   heading_level: 3
 
 # Footer
-footer_content: "Copyright &copy; 2026 NlTxGNN Project. For research purposes only. Not medical advice."
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). For research purposes only. Not medical advice."
 
 # RSS Feed
 feed:
@@ -73,3 +77,4 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+

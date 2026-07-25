@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-25T02:22:18.833483+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-25T08:01:26.820763+00:00",
+  "count": 8,
   "news": [
     {
       "id": "6cd3a4658bea",
       "title": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant - RTL.nl",
       "published": "2026-07-24T18:58:02+00:00",
-      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De Telegraaf‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOS‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De TelegraafVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVRlQXN6Q3FCaTNWeXJnTGVyNDk1WHVTRHo5aGJ0MWc2N2VwNnFiN0hHUHpxeGtOZWgtN3R3ajhXNmpNVDNRT0MzX05wbGp6VGpnWWFra2dFcGRnZ0liajJhQ0ZJR0ZaWW5YSTVTcG1CM0xYU0YyaVM5OHdGSWtmTDJKcmpjS2RJNk9XSnluVUlUa0NqaVBuQlMzR1JPQS12YmlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b53c6ad24d99",
+      "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
+      "published": "2026-07-25T07:56:40+00:00",
+      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTTExWWI4RjUzMl8ybks2dzJGRkQzYnpWYl9OTEVQZ01VRjBaWTR2WHQ4aHNoeVNLQm41OTBtczRqVkduZ0p5TEVzR3VtaHI4OWxRMzhIdnVLTjZXeDJSaGJiY2FNSzlPRk83UkJrQkpoYlcxRzhPU05qMkljMVd5bnVVR1M0NldSSk9TbTVIeUVUWUlUakVwVDhMRzNYLXJYUllfYk51Wlc1TG5JdnlxZFg1LXE3Q2lpMUlPY2dpcEVmMmx1TDg3bGxKNG9qdXREVEp6b00zWTB4VktsWS1URnpKbEhucEYxaWRRYzU3Y0lhTGhMckZIU2JURDdNQW9qbW5ITw?oc=5"
         }
       ]
     },
@@ -24,6 +36,18 @@
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac445835281b",
+      "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
+      "published": "2026-07-25T07:06:56+00:00",
+      "summary": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De TelegraafNieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeMoeten me",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQngyTHhDMXcwR2F6RE1kZkxWcVBpdG03bHJqbFhWX01GLVBfRlg2QlBsU1YtR3A0bmdQdjJKZ21hYm0tSFEzX0t6Q3YyUEM0YVowakwtVzUwd0FTclBUU0xaMjVJOWRxYmZIRGVraXQ5RDAtdlF6RjBxWndGLTJtOE9mME5fbFFORjFrbGhEb0JJUW44d0loa0FwT08yXzAyR0NidVNHYmZVb1ozRDcwUURvM3lQaEFhOEtCT1dDcmpSNXFfMXl1bTRuVlBua3NlYkZVQmNMVmJiZVpQTHlFeHdRWlVIYnJuVlFMb0tWcFBjaVpKaXc?oc=5"
         }
       ]
     },
@@ -66,7 +90,7 @@
     {
       "id": "0fa6ceae7e91",
       "title": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt” - HLN",
-      "published": "2026-07-24T22:26:48+00:00",
+      "published": "2026-07-25T04:34:15+00:00",
       "summary": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt”&nbsp;&nbsp;HLNLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityElke dag krijgen meer dan 215 Belgen te horen dat ze kanker hebben, sterkste stijging in Wallonië&nbsp;&nbsp;GVABelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-Sfeer",
       "sources": [
         {

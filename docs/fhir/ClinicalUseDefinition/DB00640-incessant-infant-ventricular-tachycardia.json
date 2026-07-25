@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB00640-incessant-infant-ventricular-tachycardia",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:41.546324+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB00640",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
+          "code": "incessant-infant-ventricular-tachycardia",
+          "display": "incessant infant ventricular tachycardia"
+        }
+      ],
+      "text": "incessant infant ventricular tachycardia"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN KG + DL"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

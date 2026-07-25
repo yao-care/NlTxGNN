@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB01029-obsolete-susceptibility-to-ischemic-stroke",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:41.546324+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB01029",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
+          "code": "obsolete-susceptibility-to-ischemic-stroke",
+          "display": "obsolete susceptibility to ischemic stroke"
+        }
+      ],
+      "text": "obsolete susceptibility to ischemic stroke"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN KG + DL"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

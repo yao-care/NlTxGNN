@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB00287-ambras-type-hypertrichosis-universalis-congenita",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:41.546324+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB00287",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
+          "code": "ambras-type-hypertrichosis-universalis-congenita",
+          "display": "Ambras type hypertrichosis universalis congenita"
+        }
+      ],
+      "text": "Ambras type hypertrichosis universalis congenita"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN KG + DL"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

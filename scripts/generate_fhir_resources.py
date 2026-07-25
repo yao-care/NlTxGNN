@@ -23,6 +23,60 @@ KG_ONLY_MODE = True
 MAX_CUD_RESOURCES = 50000
 
 
+TOP_PER_DRUG = 50
+
+
+def _indication_slug(text):
+    """疾病名 -> URL/檔名安全的 slug。"""
+    import re
+    return re.sub(r"[^a-z0-9]+", "-", str(text).lower()).strip("-") or "unknown"
+
+
+def _load_predictions(processed_dir):
+    """載入預測，收斂成每個藥最多 TOP_PER_DRUG 筆。
+
+    repurposing_candidates 在部分站是未過濾的 KG 笛卡爾積（每個藥配上整個疾病
+    詞彙表），直接取前 N 列會讓資源全集中在少數幾個藥。改以 integrated_predictions
+    為主，用 confidence 收斂（very_high 優先，某藥若無才退回其 high），
+    再依 dl_score 排序。
+    """
+    import pandas as pd
+
+    integrated = processed_dir / "integrated_predictions.csv.gz"
+    candidates = processed_dir / "repurposing_candidates.csv.gz"
+
+    if integrated.exists():
+        wanted = ["drugbank_id", "potential_indication", "disease_name", "source",
+                  "drug_ingredient", "confidence", "dl_score"]
+        parts = []
+        # 檔案可達數百 MB，分塊讀並即時丟掉低信心列
+        for chunk in pd.read_csv(integrated, usecols=lambda c: c in wanted,
+                                 chunksize=500_000):
+            if "confidence" in chunk.columns:
+                chunk = chunk[chunk["confidence"].isin(["very_high", "high"])]
+            parts.append(chunk)
+        df = pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
+    else:
+        df = pd.read_csv(candidates)
+
+    if df.empty:
+        return df
+
+    ind_col = "potential_indication" if "potential_indication" in df.columns else "disease_name"
+    df = df.dropna(subset=["drugbank_id", ind_col])
+    df = df.drop_duplicates(subset=["drugbank_id", ind_col])
+
+    if "confidence" in df.columns:
+        vh = df[df["confidence"] == "very_high"]
+        rest = df[(df["confidence"] == "high")
+                  & (~df["drugbank_id"].isin(set(vh["drugbank_id"])))]
+        df = pd.concat([vh, rest], ignore_index=True)
+    if "dl_score" in df.columns:
+        df = df.sort_values("dl_score", ascending=False)
+
+    return df.groupby("drugbank_id", sort=False).head(TOP_PER_DRUG)
+
+
 def create_medication_knowledge(drug_id: str, drug_name: str) -> dict:
     """Create a FHIR MedicationKnowledge resource."""
     return {
@@ -98,7 +152,8 @@ def create_clinical_use_definition(
             "diseaseSymptomProcedure": {
                 "coding": [
                     {
-                        "system": "http://purl.obolibrary.org/obo/mondo.owl",
+                        # 舊版宣告 MONDO 卻填入 row index，改用站內 CodeSystem
+                        "system": f"{BASE_URL}/fhir/CodeSystem/predicted-indication",
                         "code": disease_id,
                         "display": disease_name
                     }
@@ -140,7 +195,7 @@ def main():
 
     # Load data
     print("Loading prediction data...")
-    candidates_df = pd.read_csv(candidates_file)
+    candidates_df = _load_predictions(processed_dir)
     print(f"  Candidates: {len(candidates_df)}")
 
     # Load drug mapping for names
@@ -178,16 +233,26 @@ def main():
     print()
     print("Generating ClinicalUseDefinition resources...")
 
-    # Limit in KG-only mode
-    if KG_ONLY_MODE and len(candidates_df) > MAX_CUD_RESOURCES:
-        print(f"  KG-only mode: limiting to {MAX_CUD_RESOURCES} resources")
-        candidates_df = candidates_df.head(MAX_CUD_RESOURCES)
+    # _load_predictions 已將每個藥收斂到 TOP_PER_DRUG 筆；
+    # 這裡只留總量上限當保險，不再用 head() 截斷（會讓資源集中在少數幾個藥）。
+    if len(candidates_df) > MAX_CUD_RESOURCES:
+        print(f"  Warning: {len(candidates_df)} > {MAX_CUD_RESOURCES}, 請調整 TOP_PER_DRUG")
+
+    # 重建目錄，避免上一版留下的資源變成孤兒
+    import shutil
+    if cud_dir.exists():
+        shutil.rmtree(cud_dir)
+    cud_dir.mkdir(parents=True, exist_ok=True)
 
     cud_count = 0
     for _, row in candidates_df.iterrows():
         drug_id = row['drugbank_id']
-        disease_id = row['disease_id']
-        disease_name = row.get('disease_name', disease_id)
+        # 候選檔沒有 disease_id 欄位，原本直接取會 KeyError；
+        # 改用適應症名稱，並以其 slug 當識別碼
+        disease_name = row.get('potential_indication') or row.get('disease_name') or ''
+        if not disease_name:
+            continue
+        disease_id = _indication_slug(disease_name)
         drug_name = drug_names.get(drug_id, drug_id)
 
         resource = create_clinical_use_definition(

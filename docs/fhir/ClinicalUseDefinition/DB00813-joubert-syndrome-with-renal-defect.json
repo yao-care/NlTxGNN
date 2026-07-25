@@ -1,0 +1,39 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "DB00813-joubert-syndrome-with-renal-defect",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ],
+    "lastUpdated": "2026-03-09T14:20:41.546324+00:00"
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/DB00813",
+      "display": "Sulpiride ERC 50 mg, capsules"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
+          "code": "joubert-syndrome-with-renal-defect",
+          "display": "Joubert syndrome with renal defect"
+        }
+      ],
+      "text": "Joubert syndrome with renal defect"
+    }
+  },
+  "extension": [
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN KG + DL"
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
+      "valueBoolean": true
+    }
+  ]
+}

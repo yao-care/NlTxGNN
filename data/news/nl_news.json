@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-25T08:01:26.820763+00:00",
-  "count": 8,
+  "fetched_at": "2026-07-25T13:17:07.488637+00:00",
+  "count": 10,
   "news": [
     {
       "id": "6cd3a4658bea",
       "title": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant - RTL.nl",
       "published": "2026-07-24T18:58:02+00:00",
-      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOS‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De TelegraafVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "RTL.nl",
@@ -16,14 +16,50 @@
       ]
     },
     {
+      "id": "68de9e99a252",
+      "title": "Ziek op vakantie? Tips tegen teken, muggen en soa’s - De Telegraaf",
+      "published": "2026-07-24T13:00:00+00:00",
+      "summary": "Ziek op vakantie? Tips tegen teken, muggen en soa’s&nbsp;&nbsp;De TelegraafReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;Jutter | Hofgeest‘Ik dacht dat ik iets verkeerds had gegeten, maar het bleek malaria.’ Hoe bescherm je jezelf op reis?&nbsp;&nbsp;Nederlands Dagblad",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdUdlZWV4c0xnZUpDNFZVUlBKS005WDdvMTVEc0I3d0huRXF6YWdRejRNZnRIRkRnSTBVTWdkNktwNmhTb3JZbTZfbFZ5VHdzWkNQYk5KZmpBdmsyNFVUS2t3ZVNaRm1XWDV4TVJ3N0YxYkpGd3dUOTZ6OUxPVDFTeWR6V2FEaThjYWxfeGZPUExYdEl6amNONnpacE5ad1JmQ25nWWJyNTY0Z2R5eUxJTE1JYWEyN09VdXJCUHAyQ244Vng0Z2I4Nko5eWN5ZnNFWThsYWxSdUlpZDVERVhudjlSRm1zQVJvdFNNQ0poUG1nVDA3dElHUU5vMmJKYTR6Qk90dlR2WnJIejZqdU9qQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bda83a55ec24",
+      "title": "Hoe wordt HPV overgedragen en welke ziektes kan het veroorzaken? En andere vragen over het virus beantwoord - EenVandaag",
+      "published": "2026-07-25T11:34:28+00:00",
+      "summary": "Hoe wordt HPV overgedragen en welke ziektes kan het veroorzaken? En andere vragen over het virus beantwoord&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdVAxanA1T3VXdWk4QktCdThKMTl3MHRSVjU5ek8wM1ROR29ydW1MRlJwZ1NYUmRXbUZBNVRLekdvTjZFUzlZNlFuZGIxWkZ6U0JQZDRyeTRicXVsSkpMTEVvWkphbXMyVkdaMUlxMUYtczkzcUpRR2c0bGlacS1vc0JBTVZXREN4VFhrM0tTN05nYjg3a3Nsb2hOcVc1a3NBc0pnSXFEbGZucEhJTjgwR0M0dU5WNFVFamJ3cEFLX3E5eWhiSU5mN1U3ZmlFRHJRNGZhQk5MNGtZa2tPdmtSTjUwYXVWS1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b53c6ad24d99",
       "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
-      "published": "2026-07-25T07:56:40+00:00",
-      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De Telegraaf",
+      "published": "2026-07-25T12:39:07+00:00",
+      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafGLP-1-medicijnen gaan gepaard met een hoger risico op haaruitval, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Wegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTTExWWI4RjUzMl8ybks2dzJGRkQzYnpWYl9OTEVQZ01VRjBaWTR2WHQ4aHNoeVNLQm41OTBtczRqVkduZ0p5TEVzR3VtaHI4OWxRMzhIdnVLTjZXeDJSaGJiY2FNSzlPRk83UkJrQkpoYlcxRzhPU05qMkljMVd5bnVVR1M0NldSSk9TbTVIeUVUWUlUakVwVDhMRzNYLXJYUllfYk51Wlc1TG5JdnlxZFg1LXE3Q2lpMUlPY2dpcEVmMmx1TDg3bGxKNG9qdXREVEp6b00zWTB4VktsWS1URnpKbEhucEYxaWRRYzU3Y0lhTGhMckZIU2JURDdNQW9qbW5ITw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac445835281b",
+      "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
+      "published": "2026-07-25T13:06:56+00:00",
+      "summary": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De TelegraafNieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeMoeten me",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQngyTHhDMXcwR2F6RE1kZkxWcVBpdG03bHJqbFhWX01GLVBfRlg2QlBsU1YtR3A0bmdQdjJKZ21hYm0tSFEzX0t6Q3YyUEM0YVowakwtVzUwd0FTclBUU0xaMjVJOWRxYmZIRGVraXQ5RDAtdlF6RjBxWndGLTJtOE9mME5fbFFORjFrbGhEb0JJUW44d0loa0FwT08yXzAyR0NidVNHYmZVb1ozRDcwUURvM3lQaEFhOEtCT1dDcmpSNXFfMXl1bTRuVlBua3NlYkZVQmNMVmJiZVpQTHlFeHdRWlVIYnJuVlFMb0tWcFBjaVpKaXc?oc=5"
         }
       ]
     },
@@ -40,26 +76,14 @@
       ]
     },
     {
-      "id": "ac445835281b",
-      "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
-      "published": "2026-07-25T07:06:56+00:00",
-      "summary": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De TelegraafNieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeMoeten me",
+      "id": "b628e8cf25af",
+      "title": "Teek met levensgevaarlijk TBE-virus gaat rond in Europa - welingelichtekringen.nl",
+      "published": "2026-07-24T04:40:02+00:00",
+      "summary": "Teek met levensgevaarlijk TBE-virus gaat rond in Europa&nbsp;&nbsp;welingelichtekringen.nlTeek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma&nbsp;&nbsp;EenVandaagDengue, diarree en dierenbeten, zo voorkom je vervelende vakantiesouvenirs: ’Ook in Europa moet je opletten’&nbsp;&nbsp;De TelegraafOm goed beschermd te zijn tegen teken-encefalitis, zijn minstens 2 prikken nodig&nbsp;&nbsp;gezondheidenwetenschap.beOp reis in Europa? Dit moet je w",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQngyTHhDMXcwR2F6RE1kZkxWcVBpdG03bHJqbFhWX01GLVBfRlg2QlBsU1YtR3A0bmdQdjJKZ21hYm0tSFEzX0t6Q3YyUEM0YVowakwtVzUwd0FTclBUU0xaMjVJOWRxYmZIRGVraXQ5RDAtdlF6RjBxWndGLTJtOE9mME5fbFFORjFrbGhEb0JJUW44d0loa0FwT08yXzAyR0NidVNHYmZVb1ozRDcwUURvM3lQaEFhOEtCT1dDcmpSNXFfMXl1bTRuVlBua3NlYkZVQmNMVmJiZVpQTHlFeHdRWlVIYnJuVlFMb0tWcFBjaVpKaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1232ccc41aee",
-      "title": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma - EenVandaag",
-      "published": "2026-07-24T04:08:56+00:00",
-      "summary": "Teek met levensgevaarlijk TBE-virus volop in vakantiehotspots onder Nederlanders: Erika lag 4 dagen in coma&nbsp;&nbsp;EenVandaagDengue, diarree en dierenbeten, zo voorkom je vervelende vakantiesouvenirs: ’Ook in Europa moet je opletten’&nbsp;&nbsp;De TelegraafOm goed beschermd te zijn tegen teken-encefalitis, zijn minstens 2 prikken nodig&nbsp;&nbsp;gezondheidenwetenschap.beTeek met levensgevaarlijk TBE-virus gaat rond in Europa&nbsp;&nbsp;Welingelichte KringenOp reis in Europa? Dit moet je wet",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdTF2LVIyaGwzU1JpSTVKMlFPY2d5MnFuT0VvNzNBckFXRFZycG1EcnFXNlhSTlpWUl9hTmMwWFNjVV9sTjJfVExNUzk1QnVzY09UclRsUUlaaU5HQzlaMDFyUXBOU0V3N0p0OGVMSHZLU1FCdTF2V1JnQWxNa0o4ZGVZM29JTWVlcDRXUFFuSGN0MTJLaXpqWHBod0Y1Nkg1VnJscUFfSTJkeTBDNDVVNWJYeUJ1eEdOY0JKSzBqUENwRE1JNExjYUNONld6UTF1UHNsejZsTld4ZmtoLUtjWkhzVndZdmV3Y1E?oc=5"
+          "name": "welingelichtekringen.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFdtVFdTdXNEMDZpMUFBbVlHSEkxSjg4X3BJVmFjSkxNa2RiRXdNbWZqS1VmNUZSTTVKMEFreXA5aHE3b1NVV3NNRldkOVlJVzFWM3pMc0x4djljUFdTR3F1OVBwRUpNWk0zVjk0MUpsSzRYQXRoV3daNlJYZ0hvV2o1WjRXVXBlRjBDNDN6dGhDaWYtUXFjTE9PaENRN3JwLUxIQw?oc=5"
         }
       ]
     },
@@ -67,7 +91,7 @@
       "id": "c72f989068b7",
       "title": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers - Metronieuws.nl",
       "published": "2026-07-24T08:01:00+00:00",
-      "summary": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson verhogen.&nbsp;&nbsp;Vietnam.vnRaar maar waar: verkeerslawaai vergroot mogelijk je ",
+      "summary": "Met een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;welingelichtekringen.nlLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson verhogen.&nbsp;&nbsp;Vietnam.vnRaar maar waar: verkeerslawaai vergroot mogelijk j",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -88,14 +112,14 @@
       ]
     },
     {
-      "id": "0fa6ceae7e91",
-      "title": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt” - HLN",
-      "published": "2026-07-25T04:34:15+00:00",
-      "summary": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt”&nbsp;&nbsp;HLNLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityElke dag krijgen meer dan 215 Belgen te horen dat ze kanker hebben, sterkste stijging in Wallonië&nbsp;&nbsp;GVABelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-Sfeer",
+      "id": "6a8dcda51eb5",
+      "title": "Longkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil” - De Standaard",
+      "published": "2026-07-23T23:59:00+00:00",
+      "summary": "Longkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOERnY21ORU1xdmhkTnQ1SEE1Ym5DNWo3WkwtMFk5NW9NRklLdXZiaVA0aEZncnRDWEZWYVRYRWN3Wl9CeVRMTlVLOXFjTDZyR1FyR3lOVzFGcVZXZ1NydUFMa2NnZWd0TWtrdHl0OXZmOGd5VWh6S2wzT3E1SGVVemRZb1pXTkVlamw0UGRJeU1zenVPaFhqbXBYaWFNaURsTlEtaGVjcGdxd3BqWW1Jc0NZZjJ6UEhPN1FvTUhFX0dHalNFQ09PUVF1Q2V3VDFjck41bGRzVnM0U3RFUHI4MQ?oc=5"
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmFSSXRxTmFuQ0NTYkNBM0dBU3FjOFBBMWQ3UHhMT1FDRzZmQ3M2LThTclVmYy1wSV8wUkUtYnFBd0RIQXhiS1VnRjBGWVZQV3h0MnJQbG5KUVl3UWxnMVVvcjdKSlp3SUk3WTZCcUhXV25UcV9IcGpoWW9zYW1YRXJHZXdvRVNtNnYwYllqcHhxU095UWEybnNEMjJmT2w4R1pyb2lINUp4UmVEQUpoSHZfYlJUZlo5bTlsVHFtVThWS3BUQk9LeTJXTmJpTnBxNVEw?oc=5"
         }
       ]
     }

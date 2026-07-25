@@ -39,7 +39,8 @@ def generate_drug_page(drugbank_id: str, drug_name: str, indications: list) -> s
     slug = slugify(drugbank_id)
 
     content = f"""---
-layout: drug
+layout: default
+nav_exclude: true
 title: {drug_name}
 drugbank_id: {drugbank_id}
 evidence_level: L5
@@ -93,7 +94,7 @@ def main():
     print()
 
     # Load prediction data
-    candidates_path = DATA_DIR / "repurposing_candidates.csv.gz"
+    candidates_path = DATA_DIR / "integrated_predictions.csv.gz"
 
     if not candidates_path.exists():
         print(f"Error: {candidates_path} not found")
@@ -101,11 +102,38 @@ def main():
         return
 
     print(f"1. Loading predictions from {candidates_path}...")
-    # Only load needed columns for efficiency
-    candidates = pd.read_csv(candidates_path, usecols=lambda x: x in [
-        'drugbank_id', 'disease_name', 'potential_indication', 'source', 'drug_ingredient'
-    ])
-    print(f"   Loaded {len(candidates)} predictions")
+    # 檔案 33-307MB（gz），全載會吃掉數 GB 記憶體，改分塊讀並即時丟掉低信心列。
+    # 只留 very_high / high：integrated_predictions 仍是藥 x 疾病的全展開，
+    # confidence 是唯一能把它收斂成有意義預測的欄位。
+    wanted = ['drugbank_id', 'disease_name', 'potential_indication', 'source',
+              'drug_ingredient', 'confidence', 'dl_score']
+    parts = []
+    for chunk in pd.read_csv(candidates_path,
+                             usecols=lambda x: x in wanted,
+                             chunksize=500_000):
+        if 'confidence' in chunk.columns:
+            chunk = chunk[chunk['confidence'].isin(['very_high', 'high'])]
+        parts.append(chunk)
+    candidates = pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
+    print(f"   Loaded {len(candidates)} high-confidence predictions")
+
+    # 同一個藥同一個適應症會因多筆許可證重複出現，先去重
+    if 'potential_indication' in candidates.columns:
+        candidates = candidates.drop_duplicates(
+            subset=['drugbank_id', 'potential_indication'])
+
+    # very_high 優先；某個藥完全沒有 very_high 時才退回它的 high
+    if 'confidence' in candidates.columns:
+        vh = candidates[candidates['confidence'] == 'very_high']
+        covered = set(vh['drugbank_id'])
+        rest = candidates[(candidates['confidence'] == 'high')
+                          & (~candidates['drugbank_id'].isin(covered))]
+        candidates = pd.concat([vh, rest], ignore_index=True)
+        print(f"   After confidence filter: {len(candidates)}")
+
+    # 頁面只列前 50，先按分數排序，讓列出的是最相關的那些
+    if 'dl_score' in candidates.columns:
+        candidates = candidates.sort_values('dl_score', ascending=False)
 
     # Determine column names
     drug_col = "drugbank_id" if "drugbank_id" in candidates.columns else candidates.columns[0]
@@ -135,8 +163,16 @@ def main():
                 source = str(row.get("source", "KG")) if has_source and pd.notna(row.get("source")) else "KG"
                 indications.append({"indication": str(ind), "source": source})
 
+        # 原本寫死 drug_id_str，導致 title 只有 DrugBank ID
+        drug_name = drug_id_str
+        if "drug_ingredient" in group.columns:
+            vals = group["drug_ingredient"].dropna()
+            if len(vals) and str(vals.iloc[0]).strip():
+                # 站內既有藥名頁的慣例是 Title Case（如 Alfentanil Hcl）
+                drug_name = str(vals.iloc[0]).strip().title()
+
         drugs[drug_id_str] = {
-            "name": drug_id_str,
+            "name": drug_name,
             "indications": indications
         }
 

@@ -4,9 +4,6 @@
 title: "NlTxGNN - Geneesmiddelherpositionering"
 description: "Voorspellingen voor herpositionering van door CBG-MEB goedgekeurde geneesmiddelen in Nederland, op basis van TxGNN"
 
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
 url: "https://nltxgnn.yao.care"
 baseurl: ""
 lang: "nl"
@@ -77,4 +74,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 

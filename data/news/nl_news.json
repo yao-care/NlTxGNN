@@ -1,12 +1,24 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-24T19:19:35.901836+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-25T02:22:18.833483+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "6cd3a4658bea",
+      "title": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant - RTL.nl",
+      "published": "2026-07-24T18:58:02+00:00",
+      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De Telegraaf‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVRlQXN6Q3FCaTNWeXJnTGVyNDk1WHVTRHo5aGJ0MWc2N2VwNnFiN0hHUHpxeGtOZWgtN3R3ajhXNmpNVDNRT0MzX05wbGp6VGpnWWFra2dFcGRnZ0liajJhQ0ZJR0ZaWW5YSTVTcG1CM0xYU0YyaVM5OHdGSWtmTDJKcmpjS2RJNk9XSnluVUlUa0NqaVBuQlMzR1JPQS12YmlR?oc=5"
+        }
+      ]
+    },
     {
       "id": "cd15cbf885f5",
       "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
-      "published": "2026-07-23T19:43:00+00:00",
+      "published": "2026-07-23T18:30:00+00:00",
       "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDrie Dekkerbeurzen voor onderzoekers van het UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;SkiprDekkerbeurs voor dertien topwetenschappers die onderzoek doen naar hart- en vaatziekten&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
@@ -36,6 +48,30 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb01Ya1p0Rjl2RnQyUFVPeFVBNXdXYjJJUS1UMWZJWEhEQ2Zqb085VUZUNTBqOWxORFVaNU1fNWVnRFAyMmhUb0VWMnI1TzBKM2tHZmZ5ME9EVmVzeEo4RUpIUzhCcGk2OGNRMktlNnFlaE5TN2pmRmVZMVY2bTB6aE5GX21Sc1pmMG5EMEltNFk5WmJjaDg0VkZnVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "969fbba6b92e",
+      "title": "Veel tv kijken op middelbare leeftijd kan later slecht uitpakken voor je brein, blijkt uit onderzoek - Metronieuws.nl",
+      "published": "2026-07-24T11:26:00+00:00",
+      "summary": "Veel tv kijken op middelbare leeftijd kan later slecht uitpakken voor je brein, blijkt uit onderzoek&nbsp;&nbsp;Metronieuws.nl",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnZlTDVmYTdZMUVoNzc0dHVJUnIwYTFyR29HTTlhOU9hZ21NbTdWNUxUYUhQNlRUeTlxVXQwZnZVcW1BU2NTQ29iRUU2ZFF0SUd4R0swQzc0ZGxTWkdiYVQwNzIxb0hxcGV1R1V1UGt2TzF1amxsTEl5QmZLM042dWhHaGJQdUJBTThBTnBzNUdsdy1zNXhLeXFhMFpqcUJzOEFpUHhlWmZ5NHNJNWs0ZFQySmZVNWUtZlBZTU9vNlo1TWhkU2ptZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fa6ceae7e91",
+      "title": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt” - HLN",
+      "published": "2026-07-24T22:26:48+00:00",
+      "summary": "Waarom krijgen steeds meer vrouwen de diagnose van longkanker? “Bijna 1 op de 5 patiënten heeft nooit gerookt”&nbsp;&nbsp;HLNLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityElke dag krijgen meer dan 215 Belgen te horen dat ze kanker hebben, sterkste stijging in Wallonië&nbsp;&nbsp;GVABelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-Sfeer",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOERnY21ORU1xdmhkTnQ1SEE1Ym5DNWo3WkwtMFk5NW9NRklLdXZiaVA0aEZncnRDWEZWYVRYRWN3Wl9CeVRMTlVLOXFjTDZyR1FyR3lOVzFGcVZXZ1NydUFMa2NnZWd0TWtrdHl0OXZmOGd5VWh6S2wzT3E1SGVVemRZb1pXTkVlamw0UGRJeU1zenVPaFhqbXBYaWFNaURsTlEtaGVjcGdxd3BqWW1Jc0NZZjJ6UEhPN1FvTUhFX0dHalNFQ09PUVF1Q2V3VDFjck41bGRzVnM0U3RFUHI4MQ?oc=5"
         }
       ]
     }

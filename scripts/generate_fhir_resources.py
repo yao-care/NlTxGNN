@@ -245,6 +245,8 @@ def main():
     cud_dir.mkdir(parents=True, exist_ok=True)
 
     cud_count = 0
+    _used_stems = set()
+    _cud_collisions = 0
     for _, row in candidates_df.iterrows():
         drug_id = row['drugbank_id']
         # 候選檔沒有 disease_id 欄位，原本直接取會 KeyError；
@@ -263,7 +265,18 @@ def main():
             prediction_type="KG"
         )
 
-        output_file = cud_dir / f"{resource['id']}.json"
+        # 標點不同的適應症可能 slug 相同，不處理會讓後者覆蓋前者而靜默少檔
+        _stem = resource['id']
+        if _stem in _used_stems:
+            _cud_collisions += 1
+            _n = 2
+            while f"{_stem}-{_n}" in _used_stems:
+                _n += 1
+            _stem = f"{_stem}-{_n}"
+            resource['id'] = _stem
+        _used_stems.add(_stem)
+
+        output_file = cud_dir / f"{_stem}.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(resource, f, indent=2, ensure_ascii=False)
         cud_count += 1
@@ -271,7 +284,8 @@ def main():
         if cud_count % 10000 == 0:
             print(f"  Progress: {cud_count}/{len(candidates_df)}")
 
-    print(f"  Generated: {cud_count} ClinicalUseDefinition resources")
+    print(f"  Generated: {cud_count} ClinicalUseDefinition resources"
+          f"（slug 碰撞另加後綴 {_cud_collisions} 筆）")
 
     # Generate CapabilityStatement
     print()

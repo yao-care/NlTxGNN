@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-25T19:01:38.322359+00:00",
+  "fetched_at": "2026-07-26T02:28:31.011286+00:00",
   "count": 8,
   "news": [
     {
       "id": "6cd3a4658bea",
       "title": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant - RTL.nl",
       "published": "2026-07-24T18:58:02+00:00",
-      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad828 doden en geen goedgekeurd vaccin: Waarom deze ebola-uitbraak anders is&nbsp;&nbsp;upday NewsDe wereld begint met de eerste klinische proeven met het Ebola Bundibugyo-vaccin op mensen.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Proefpersoon krijgt eerste vaccin tegen zeldzame ebolavariant&nbsp;&nbsp;RTL.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Haarlems Dagblad1.309 doden terwijl Oxford eerste vaccin test tegen onbehandelbare ebola-variant&nbsp;&nbsp;upday NewsDe wereld begint met de eerste klinische proeven met het Ebola Bundibugyo-vaccin op mensen.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "RTL.nl",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "b53c6ad24d99",
-      "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
-      "published": "2026-07-25T15:23:59+00:00",
-      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafGLP-1-medicijnen gaan gepaard met een hoger risico op haaruitval, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Wegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTTExWWI4RjUzMl8ybks2dzJGRkQzYnpWYl9OTEVQZ01VRjBaWTR2WHQ4aHNoeVNLQm41OTBtczRqVkduZ0p5TEVzR3VtaHI4OWxRMzhIdnVLTjZXeDJSaGJiY2FNSzlPRk83UkJrQkpoYlcxRzhPU05qMkljMVd5bnVVR1M0NldSSk9TbTVIeUVUWUlUakVwVDhMRzNYLXJYUllfYk51Wlc1TG5JdnlxZFg1LXE3Q2lpMUlPY2dpcEVmMmx1TDg3bGxKNG9qdXREVEp6b00zWTB4VktsWS1URnpKbEhucEYxaWRRYzU3Y0lhTGhMckZIU2JURDdNQW9qbW5ITw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ac445835281b",
       "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
       "published": "2026-07-25T14:35:11+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdTF2LVIyaGwzU1JpSTVKMlFPY2d5MnFuT0VvNzNBckFXRFZycG1EcnFXNlhSTlpWUl9hTmMwWFNjVV9sTjJfVExNUzk1QnVzY09UclRsUUlaaU5HQzlaMDFyUXBOU0V3N0p0OGVMSHZLU1FCdTF2V1JnQWxNa0o4ZGVZM29JTWVlcDRXUFFuSGN0MTJLaXpqWHBod0Y1Nkg1VnJscUFfSTJkeTBDNDVVNWJYeUJ1eEdOY0JKSzBqUENwRE1JNExjYUNONld6UTF1UHNsejZsTld4ZmtoLUtjWkhzVndZdmV3Y1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b53c6ad24d99",
+      "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
+      "published": "2026-07-25T08:23:59+00:00",
+      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafGLP-1-medicijnen gaan gepaard met een hoger risico op haaruitval, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Wegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTTExWWI4RjUzMl8ybks2dzJGRkQzYnpWYl9OTEVQZ01VRjBaWTR2WHQ4aHNoeVNLQm41OTBtczRqVkduZ0p5TEVzR3VtaHI4OWxRMzhIdnVLTjZXeDJSaGJiY2FNSzlPRk83UkJrQkpoYlcxRzhPU05qMkljMVd5bnVVR1M0NldSSk9TbTVIeUVUWUlUakVwVDhMRzNYLXJYUllfYk51Wlc1TG5JdnlxZFg1LXE3Q2lpMUlPY2dpcEVmMmx1TDg3bGxKNG9qdXREVEp6b00zWTB4VktsWS1URnpKbEhucEYxaWRRYzU3Y0lhTGhMckZIU2JURDdNQW9qbW5ITw?oc=5"
         }
       ]
     },

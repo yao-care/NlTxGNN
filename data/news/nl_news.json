@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-26T13:12:33.664001+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-26T19:05:20.610458+00:00",
+  "count": 7,
   "news": [
     {
       "id": "b48922674cd9",
       "title": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase - AD.nl",
       "published": "2026-07-25T16:50:00+00:00",
-      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;AD.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Noordhollands DagbladEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De TelegraafDodental ebola in Congo gestegen tot meer dan 1300&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "cd15cbf885f5",
-      "title": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs - RTV Utrecht",
-      "published": "2026-07-24T15:32:00+00:00",
-      "summary": "Beroertes voorspellen en een magneet als behandeling: deze 3 onderzoekers krijgen Dekkerbeurs&nbsp;&nbsp;RTV Utrecht5,6 miljoen euro voor hartonderzoek: 13 topwetenschappers krijgen Dekkerbeurs&nbsp;&nbsp;HartstichtingDekkerbeurs van Hartstichting voor Leidse wetenschapper Laura Bosmans&nbsp;&nbsp;SleutelstadDrie Dekkerbeurzen voor onderzoekers van het UMC Utrecht&nbsp;&nbsp;UMC Utrecht13 wetenschappers krijgen 5,6 miljoen euro voor hartonderzoek&nbsp;&nbsp;Skipr",
+      "id": "2c5ba8f6df36",
+      "title": "Zomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog - AD.nl",
+      "published": "2026-07-26T05:15:00+00:00",
+      "summary": "Zomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog&nbsp;&nbsp;AD.nlExtreme hitte raakt ook je mentale gezondheid: meer stress, agressie en sombere gevoelens&nbsp;&nbsp;Metronieuws.nlPsychiatrisch patiënten beschermen tegen de hitte: 'Kom in actie vóórdat het warm wordt', waarschuwen deze artsen&nbsp;&nbsp;Zorg+Welzijn",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmJHUWZ0UHYtNTBVaGpsdHhYREVWOU1EYWdHQXgyX18tamVxQnk0LXRLMWtBRTVMM3J0SEtvb2ZxcXpPdG40WktRMlZ2MnFFQ2xJQnNYUVFRLWNINjV3SHlkcndJZU1tUTIydWV0Q3ZtRElqcUxwRmhHTmk2NHJFN0JocGlRZTloT0VIaUFuX0VtY1FRSlUxcG5NX2xzV1l6TzJTQWk2ZG5ZNjVDMGpacXQtYVpuSExRdXBpYjc5OU0tRE0wWGFiN3VnVi1DUQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkZVYmFjLTBKdHdESkdDMzFrZ1pWbHJZRFJKM3RGeUNWMTdXRm56aXlRbk1Ud1pwZHpIS0Ezc0VjSG1HdGNFWEhWeW5nOVBDWEZqRGpJRWZLMEpMNC1ZeEt6ZktaOUNoRjRYM3MyTTNqNDlGblVwX1B3TWthdlNqVm1sSWJvelVkazFSTmlmVEFTRHhyeUVYa2NDdlU4RmY4Z1lWSC1OMzl0SEEzNUU4VFUxWUk5WE9GaTlj?oc=5"
         }
       ]
     },
@@ -40,10 +40,22 @@
       ]
     },
     {
+      "id": "b325f8f537d0",
+      "title": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid - bnr.nl",
+      "published": "2026-07-25T18:54:40+00:00",
+      "summary": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid&nbsp;&nbsp;bnr.nlDe medische paradox: We beheersen het uitstellen van de dood, maar niet de achteruitgang van functies&nbsp;&nbsp;upday NewsOp weg naar een gezond leven&nbsp;&nbsp;Vietnam.vnWereldwijde levensverwachting stijgt, maar aantal gezonde jaren blijft achter&nbsp;&nbsp;Newsmonkey -Mensen leven langer, maar brengen meer jaren door in slechte gezondheid&nbsp;&nbsp;Artsenkrant",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNFR1o0ekg1RUhsaTZYT2YzWlMzMTlEQWJTc0hUTGxqYjU1dXBsd1N3cXJqX3BvcDVQY3dva1ltdWtOSkU2YzJpOXBBamZ0US1yeGVkVFNyMjByRGEzMTRrRkZQQTF2bVozaVJmbXB2eUZCWG5iV3ZGa055dWN0US1HbDdKck13aGhlZDltY1Z6d0p4d3NzQjFJcHk3RHhMWHdHN3hOOVJaRHJUZEpGWjRrUGVPd0JMLUs0UzRZUVl3T2M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b53c6ad24d99",
       "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
       "published": "2026-07-25T08:23:59+00:00",
-      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafGLP-1-medicijnen gaan gepaard met een hoger risico op haaruitval, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Wegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
+      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafWegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -55,7 +67,7 @@
       "id": "96b2984799a5",
       "title": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson - bnr.nl",
       "published": "2026-07-25T15:35:00+00:00",
-      "summary": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson&nbsp;&nbsp;bnr.nlMet een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson v",
+      "summary": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson&nbsp;&nbsp;bnr.nlMet een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladRaar maar waar: verkeerslawaai vergroot mogelijk je kans op parkinson",
       "sources": [
         {
           "name": "bnr.nl",
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "b325f8f537d0",
-      "title": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid - bnr.nl",
-      "published": "2026-07-25T18:54:40+00:00",
-      "summary": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid&nbsp;&nbsp;bnr.nl",
+      "id": "616b926c987b",
+      "title": "Hij doet al 25 jaar onderzoek naar ouderdomsziekten: Nu heeft een nieuwe ontdekking ertoe geleid dat de hoogleraar één ding in zijn eigen leven heeft veranderd - wibnet.nl",
+      "published": "2026-07-25T20:00:10+00:00",
+      "summary": "Hij doet al 25 jaar onderzoek naar ouderdomsziekten: Nu heeft een nieuwe ontdekking ertoe geleid dat de hoogleraar één ding in zijn eigen leven heeft veranderd&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNFR1o0ekg1RUhsaTZYT2YzWlMzMTlEQWJTc0hUTGxqYjU1dXBsd1N3cXJqX3BvcDVQY3dva1ltdWtOSkU2YzJpOXBBamZ0US1yeGVkVFNyMjByRGEzMTRrRkZQQTF2bVozaVJmbXB2eUZCWG5iV3ZGa055dWN0US1HbDdKck13aGhlZDltY1Z6d0p4d3NzQjFJcHk3RHhMWHdHN3hOOVJaRHJUZEpGWjRrUGVPd0JMLUs0UzRZUVl3T2M?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcnd0MHhfVjYzajV3UnU0SFhSakFoNGtaSHpLM3YtU0VXMnFKUGxDN1JvY2Z1djJjRm9Ld3VVbWpna3FRTTdXbjhrOGxMaF81eWF1anBVc2RqR1pWSmM1QVhIV0VXU29zbTRCbGdDdHJJRXpXbzR6ZzItaE8tWklFaTVpRnhKb040NGJGZmdrYmhxbnpISW5CWWVfMzdJVlZmNEVEOTE4c3BfNk9rakFqX1Y4a0ZsaHdfRWFtWG5JTlRxcXhSZmxtTTB0S2g2dmo4VUozdW1SZmkyZXFCRFJneEZCWXV4VFBQb05Kc1kwbGhrS3BpZE8yZkZoeXJnN1E?oc=5"
         }
       ]
     }

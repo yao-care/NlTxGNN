@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-26T08:21:10.771413+00:00",
-  "count": 8,
+  "fetched_at": "2026-07-26T13:12:33.664001+00:00",
+  "count": 6,
   "news": [
     {
       "id": "b48922674cd9",
       "title": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase - AD.nl",
       "published": "2026-07-25T16:50:00+00:00",
-      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;AD.nl‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Noordhollands DagbladEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De Telegraaf",
+      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;AD.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSVrijwilliger ontvangt eerste prik met nieuw ebolavaccin&nbsp;&nbsp;Noordhollands DagbladEbola-doden in Congo boven de duizend: chaos in Kenia om ’geheime’ quarantaine Amerikaanse hulpverleners&nbsp;&nbsp;De TelegraafDodental ebola in Congo gestegen tot meer dan 1300&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSndCOVRxd0FiNlNDbzl4NlB2ZDNSZndDaW52VHpLOFV1bmpuelltZkwxNUZIemhyYm00X0hrUzZ4emY5aWU5RkpPbW5GM01GaUx1OGNGdmpKVXc5Tnd3MS1fdDJaQnhXeDVQU0Raa0VWTFZJN0YwVE40bzRQMzh2T0tmSkZpMXo2YUtWUThvMUdEZmFYS05ZOWRwcE5Ic2VfdUVTY0VmRm56WVJkcDlGRUNReEFiMUtrYjByZ1Nn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68de9e99a252",
-      "title": "Ziek op vakantie? Tips tegen teken, muggen en soa’s - De Telegraaf",
-      "published": "2026-07-24T13:00:00+00:00",
-      "summary": "Ziek op vakantie? Tips tegen teken, muggen en soa’s&nbsp;&nbsp;De TelegraafReizigersdiarree meest voorkomende vakantieziekte&nbsp;&nbsp;Jutter | Hofgeest‘Ik dacht dat ik iets verkeerds had gegeten, maar het bleek malaria.’ Hoe bescherm je jezelf op reis?&nbsp;&nbsp;Nederlands Dagblad",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdUdlZWV4c0xnZUpDNFZVUlBKS005WDdvMTVEc0I3d0huRXF6YWdRejRNZnRIRkRnSTBVTWdkNktwNmhTb3JZbTZfbFZ5VHdzWkNQYk5KZmpBdmsyNFVUS2t3ZVNaRm1XWDV4TVJ3N0YxYkpGd3dUOTZ6OUxPVDFTeWR6V2FEaThjYWxfeGZPUExYdEl6amNONnpacE5ad1JmQ25nWWJyNTY0Z2R5eUxJTE1JYWEyN09VdXJCUHAyQ244Vng0Z2I4Nko5eWN5ZnNFWThsYWxSdUlpZDVERVhudjlSRm1zQVJvdFNNQ0poUG1nVDA3dElHUU5vMmJKYTR6Qk90dlR2WnJIejZqdU9qQw?oc=5"
         }
       ]
     },
@@ -52,18 +40,6 @@
       ]
     },
     {
-      "id": "ac445835281b",
-      "title": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers - De Telegraaf",
-      "published": "2026-07-25T07:35:11+00:00",
-      "summary": "Vijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De TelegraafNieuwe studie wijst op gezondheidsvoordelen van koffie ‘maar verschillen tussen mensen zijn groot’&nbsp;&nbsp;bnr.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nl1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeKoffie is",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQngyTHhDMXcwR2F6RE1kZkxWcVBpdG03bHJqbFhWX01GLVBfRlg2QlBsU1YtR3A0bmdQdjJKZ21hYm0tSFEzX0t6Q3YyUEM0YVowakwtVzUwd0FTclBUU0xaMjVJOWRxYmZIRGVraXQ5RDAtdlF6RjBxWndGLTJtOE9mME5fbFFORjFrbGhEb0JJUW44d0loa0FwT08yXzAyR0NidVNHYmZVb1ozRDcwUURvM3lQaEFhOEtCT1dDcmpSNXFfMXl1bTRuVlBua3NlYkZVQmNMVmJiZVpQTHlFeHdRWlVIYnJuVlFMb0tWcFBjaVpKaXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b53c6ad24d99",
       "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
       "published": "2026-07-25T08:23:59+00:00",
@@ -78,7 +54,7 @@
     {
       "id": "96b2984799a5",
       "title": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson - bnr.nl",
-      "published": "2026-07-25T15:35:40+00:00",
+      "published": "2026-07-25T15:35:00+00:00",
       "summary": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson&nbsp;&nbsp;bnr.nlMet een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladOnderzoek: Verkeerslawaai kan het risico op de ziekte van Parkinson v",
       "sources": [
         {

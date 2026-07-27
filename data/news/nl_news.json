@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-27T09:43:14.082108+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-27T14:25:23.149234+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "76936b48d87a",
-      "title": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase - de Volkskrant",
-      "published": "2026-07-26T01:52:31+00:00",
-      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;de VolkskrantMeer dan duizend nieuwe ebolabesmettingen in Congo op minder dan twee weken tijd&nbsp;&nbsp;HLNEbola-uitbraak Congo tikt meer dan drieduizend besmettingen aan, vaccin ontbreekt nog&nbsp;&nbsp;bnr.nl‘Nadeel van al het hout: door de splinters heb je zo een gat in je ebolapak’&nbsp;&nbsp;de VolkskrantEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOS",
+      "id": "b53c6ad24d99",
+      "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
+      "published": "2026-07-25T15:23:59+00:00",
+      "summary": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans&nbsp;&nbsp;De TelegraafWegovy en Mounjaro gekoppeld aan 68% hoger risico op haaruitval, toont nieuw onderzoek&nbsp;&nbsp;upday News",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkxjX2NtUW92RWhjRHVGMWxPR3ZUeEQzaXppeUMtaFpPX0xWWm1HTXlnUWhfZUxicjNlNWZNWFJ1SHFTeUxDeU1UMmEtbUJ0dTJucGVFSl9YYUdFa0dfTmZsRjh4N1dwbFZrRkdoMjFzVVdweWJ2eUw4TjlLMDFjT0lsU2M4Mzd0UmI1dDhmakJjVGw2TFJCZFVGZGx3UkZ2TzN0OUdTbXhmZHVzZEFNRERxelo5cDR4NEwxRGlSMENYU2dWUkZZVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bda83a55ec24",
-      "title": "Hoe wordt HPV overgedragen en welke ziektes kan het veroorzaken? En andere vragen over het virus beantwoord - EenVandaag",
-      "published": "2026-07-25T11:34:28+00:00",
-      "summary": "Hoe wordt HPV overgedragen en welke ziektes kan het veroorzaken? En andere vragen over het virus beantwoord&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdVAxanA1T3VXdWk4QktCdThKMTl3MHRSVjU5ek8wM1ROR29ydW1MRlJwZ1NYUmRXbUZBNVRLekdvTjZFUzlZNlFuZGIxWkZ6U0JQZDRyeTRicXVsSkpMTEVvWkphbXMyVkdaMUlxMUYtczkzcUpRR2c0bGlacS1vc0JBTVZXREN4VFhrM0tTN05nYjg3a3Nsb2hOcVc1a3NBc0pnSXFEbGZucEhJTjgwR0M0dU5WNFVFamJ3cEFLX3E5eWhiSU5mN1U3ZmlFRHJRNGZhQk5MNGtZa2tPdmtSTjUwYXVWS1E?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTTExWWI4RjUzMl8ybks2dzJGRkQzYnpWYl9OTEVQZ01VRjBaWTR2WHQ4aHNoeVNLQm41OTBtczRqVkduZ0p5TEVzR3VtaHI4OWxRMzhIdnVLTjZXeDJSaGJiY2FNSzlPRk83UkJrQkpoYlcxRzhPU05qMkljMVd5bnVVR1M0NldSSk9TbTVIeUVUWUlUakVwVDhMRzNYLXJYUllfYk51Wlc1TG5JdnlxZFg1LXE3Q2lpMUlPY2dpcEVmMmx1TDg3bGxKNG9qdXREVEp6b00zWTB4VktsWS1URnpKbEhucEYxaWRRYzU3Y0lhTGhMckZIU2JURDdNQW9qbW5ITw?oc=5"
         }
       ]
     },

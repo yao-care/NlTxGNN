@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-26T19:05:20.610458+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-27T02:36:24.156638+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "b48922674cd9",
-      "title": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase - AD.nl",
-      "published": "2026-07-25T16:50:00+00:00",
-      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "76936b48d87a",
+      "title": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase - de Volkskrant",
+      "published": "2026-07-26T01:52:31+00:00",
+      "summary": "Aantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSndCOVRxd0FiNlNDbzl4NlB2ZDNSZndDaW52VHpLOFV1bmpuelltZkwxNUZIemhyYm00X0hrUzZ4emY5aWU5RkpPbW5GM01GaUx1OGNGdmpKVXc5Tnd3MS1fdDJaQnhXeDVQU0Raa0VWTFZJN0YwVE40bzRQMzh2T0tmSkZpMXo2YUtWUThvMUdEZmFYS05ZOWRwcE5Ic2VfdUVTY0VmRm56WVJkcDlGRUNReEFiMUtrYjByZ1Nn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c5ba8f6df36",
-      "title": "Zomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog - AD.nl",
-      "published": "2026-07-26T05:15:00+00:00",
-      "summary": "Zomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog&nbsp;&nbsp;AD.nlExtreme hitte raakt ook je mentale gezondheid: meer stress, agressie en sombere gevoelens&nbsp;&nbsp;Metronieuws.nlPsychiatrisch patiënten beschermen tegen de hitte: 'Kom in actie vóórdat het warm wordt', waarschuwen deze artsen&nbsp;&nbsp;Zorg+Welzijn",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkZVYmFjLTBKdHdESkdDMzFrZ1pWbHJZRFJKM3RGeUNWMTdXRm56aXlRbk1Ud1pwZHpIS0Ezc0VjSG1HdGNFWEhWeW5nOVBDWEZqRGpJRWZLMEpMNC1ZeEt6ZktaOUNoRjRYM3MyTTNqNDlGblVwX1B3TWthdlNqVm1sSWJvelVkazFSTmlmVEFTRHhyeUVYa2NDdlU4RmY4Z1lWSC1OMzl0SEEzNUU4VFUxWUk5WE9GaTlj?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkxjX2NtUW92RWhjRHVGMWxPR3ZUeEQzaXppeUMtaFpPX0xWWm1HTXlnUWhfZUxicjNlNWZNWFJ1SHFTeUxDeU1UMmEtbUJ0dTJucGVFSl9YYUdFa0dfTmZsRjh4N1dwbFZrRkdoMjFzVVdweWJ2eUw4TjlLMDFjT0lsU2M4Mzd0UmI1dDhmakJjVGw2TFJCZFVGZGx3UkZ2TzN0OUdTbXhmZHVzZEFNRERxelo5cDR4NEwxRGlSMENYU2dWUkZZVw?oc=5"
         }
       ]
     },
@@ -40,18 +28,6 @@
       ]
     },
     {
-      "id": "b325f8f537d0",
-      "title": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid - bnr.nl",
-      "published": "2026-07-25T18:54:40+00:00",
-      "summary": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid&nbsp;&nbsp;bnr.nlDe medische paradox: We beheersen het uitstellen van de dood, maar niet de achteruitgang van functies&nbsp;&nbsp;upday NewsOp weg naar een gezond leven&nbsp;&nbsp;Vietnam.vnWereldwijde levensverwachting stijgt, maar aantal gezonde jaren blijft achter&nbsp;&nbsp;Newsmonkey -Mensen leven langer, maar brengen meer jaren door in slechte gezondheid&nbsp;&nbsp;Artsenkrant",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNFR1o0ekg1RUhsaTZYT2YzWlMzMTlEQWJTc0hUTGxqYjU1dXBsd1N3cXJqX3BvcDVQY3dva1ltdWtOSkU2YzJpOXBBamZ0US1yeGVkVFNyMjByRGEzMTRrRkZQQTF2bVozaVJmbXB2eUZCWG5iV3ZGa055dWN0US1HbDdKck13aGhlZDltY1Z6d0p4d3NzQjFJcHk3RHhMWHdHN3hOOVJaRHJUZEpGWjRrUGVPd0JMLUs0UzRZUVl3T2M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b53c6ad24d99",
       "title": "Afslankmedicatie in verband gebracht met mogelijk verhoogd risico op haaruitval, soms tot wel 68 procent meer kans - De Telegraaf",
       "published": "2026-07-25T08:23:59+00:00",
@@ -64,14 +40,14 @@
       ]
     },
     {
-      "id": "96b2984799a5",
-      "title": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson - bnr.nl",
-      "published": "2026-07-25T15:35:00+00:00",
-      "summary": "Deense onderzoekers: verkeerslawaai vergroot risico op Parkinson&nbsp;&nbsp;bnr.nlMet een stille kamer in huis kun je de kans op het krijgen van Parkinson verkleinen, zeggen onderzoekers&nbsp;&nbsp;Metronieuws.nl42 studies tonen aan: luchtvervuiling vergroot de kans op parkinson&nbsp;&nbsp;Welingelichte KringenLangdurige blootstelling aan verkeerslawaai mogelijk gelinkt aan (iets) hoger risico op Parkinson&nbsp;&nbsp;NieuwsbladRaar maar waar: verkeerslawaai vergroot mogelijk je kans op parkinson",
+      "id": "b325f8f537d0",
+      "title": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid - bnr.nl",
+      "published": "2026-07-25T18:54:00+00:00",
+      "summary": "Nederlander leeft langer ziek: bijna 13 jaar van levensduur in slechte gezondheid&nbsp;&nbsp;bnr.nlDe medische paradox: We beheersen het uitstellen van de dood, maar niet de achteruitgang van functies&nbsp;&nbsp;upday NewsOp weg naar een gezond leven&nbsp;&nbsp;Vietnam.vnWereldwijde levensverwachting stijgt, maar aantal gezonde jaren blijft achter&nbsp;&nbsp;Newsmonkey -Mensen leven langer, maar brengen meer jaren door in slechte gezondheid&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
           "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeE9TWE1xMV92U1gzamE2d1pHVURTMEhiWnZCZ01MekFfRUFRTFNlamFXazVVNFBzZnBWbGhKcTE3WUhiS0V2bzdOYUg4VXVKLVQ2YzhNd1NQblB2Z0M1aEtNc09TcEJVWGQweXY1eVJUU0lXWTZzSmtrR3ZaRlp4YjhHbTlOb045dUhjZE5rbGlBZ09fb2lvc0lUX0IyMFJCeC11QU41SXJpdHhy?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNFR1o0ekg1RUhsaTZYT2YzWlMzMTlEQWJTc0hUTGxqYjU1dXBsd1N3cXJqX3BvcDVQY3dva1ltdWtOSkU2YzJpOXBBamZ0US1yeGVkVFNyMjByRGEzMTRrRkZQQTF2bVozaVJmbXB2eUZCWG5iV3ZGa055dWN0US1HbDdKck13aGhlZDltY1Z6d0p4d3NzQjFJcHk3RHhMWHdHN3hOOVJaRHJUZEpGWjRrUGVPd0JMLUs0UzRZUVl3T2M?oc=5"
         }
       ]
     },

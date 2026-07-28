@@ -1,6 +1,55 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-28T13:57:45.019664+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-07-28T19:17:12.601320+00:00",
+  "count": 4,
+  "news": [
+    {
+      "id": "afe23a0b83a5",
+      "title": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’ - AD.nl",
+      "published": "2026-07-27T19:15:00+00:00",
+      "summary": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE56d1Rralh6dTAwQmdXNG15aGtPUFhUOE5lTFc5VmFaUl9GS0l2cl9CZTllMnZGNnFSYjhsTTZZUUJEZHQyUzItd201Y0RkeTk0Z0NrcklRQV8xSkNka09rOEdEb0ZaNkZPWWJScWZTdVRKaDRCTXRfMldtRGM2eUZ0eTVVVF9MTHBIR1N4NEVFYUw3azI4VmJwWVBTYjBzd2s3YXlmNEIyeTVJdGpzSjh6eXA4bm8tTmRlQkc5alhMNTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da52c9628e3c",
+      "title": "Cambridge-onderzoekers na nieuwe ontdekking: Veelgebruikt ingrediënt kan je darmen mogelijk verzwakken - wibnet.nl",
+      "published": "2026-07-27T03:00:22+00:00",
+      "summary": "Cambridge-onderzoekers na nieuwe ontdekking: Veelgebruikt ingrediënt kan je darmen mogelijk verzwakken&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX25Zb1pGaVl5SmVVclpmbzVCQlZaYVEwTEotN0djbEpNcHdhay10MW5FWFBTUlo0S1U3S3NOa0xwWURRNW9iRkN3N0gyQlFGeUVPOVNhak5nZmxFUFh3MWRGZGVibmUxZlNiWVpRdDByZkdkOF9iYl9ENGl6dFJCaUFDSUtaeU1YOWxKNER3SHdLUWp2WHdyMUJlajlyd1ZSTGQycnltSTgyTnRzemNwWVhmY2pPeENPTHFqZnllaW5BN3lhc2ZTTHhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7ad7bf2652c",
+      "title": "Onderzoekers vinden verrassende aanwijzing voor handartrose: mondbacteriën spelen mogelijk grotere rol dan gedacht - Metronieuws.nl",
+      "published": "2026-07-27T15:04:48+00:00",
+      "summary": "Onderzoekers vinden verrassende aanwijzing voor handartrose: mondbacteriën spelen mogelijk grotere rol dan gedacht&nbsp;&nbsp;Metronieuws.nl",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWXZzYTFCSVRtVkloOVhocmJQckhwYVVBTmJMM2tpbFZJckhSRUdUeXVhQ29BWUlfcmhkamI1czRJVzV5X3AtTUpzSmJOTjIydkE5MHZ0T3o4M3JZT2dJbldhR3dKcUp3SjFPclF1bmVUU2hsZ3RPT1l4WTJ5WER1Ti1RaGtsUDYtTENzRk1wSlBvWXVxNDFoREszTl83WmI5OGlmYWpsaU9TV2EteGhYczQ0dl81aFA3ckdOTnk1Nm5ZaDRfalI0TU8xZ2dqbnZIb3lHMzE3djg2LXVWRDF5cFV6Y0FNeXhUX3doMFl4T2N5aEhDc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d94f0f8dd77",
+      "title": "Deze aandoening kost de maatschappij 4,1 miljard euro per jaar - Redactie24",
+      "published": "2026-07-28T07:30:00+00:00",
+      "summary": "Deze aandoening kost de maatschappij 4,1 miljard euro per jaar&nbsp;&nbsp;Redactie24Meer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXhLUEVYajMyZmNNeUhrbkJaNDU3MHRWbnloX3pnZUktV2NBLU9DdTNpTXRUUzZPbi01SlJrZVBLSVZ2T2V2MXVlaU5HRXhpenRJU3EtQVZUTUtad0JjMFc0Wlh1bHNjNGpJb1ctSEFxWTFMc2t5UTRBV1VCdGNVNzZ2LWxQSmhqOVkxdmphOUtjeXl0WmpqdjBaaFV2Z9IBowFBVV95cUxQUHNONWZmOWVhb1EtU3hGajI5SVdaSnczb19GMTBSa1I5dW1CWU1aXzNHUHF3OF9yQ3pSdkxqa0V3Z0UxaW9SSEJKbS1mVnFFdDd6M0VhU0FPMWxkR0tleVE4T2oyblpxa3htUHo1dmFNejdRRWc0TkkzMy0yYTVmeUdNX2pPenh4cWlSVEJESkYtRk54aEJFSnZnV2tzYzZvYUFF?oc=5"
+        }
+      ]
+    }
+  ]
 }

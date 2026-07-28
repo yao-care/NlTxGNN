@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-28T02:11:01.929630+00:00",
-  "count": 1,
+  "fetched_at": "2026-07-28T08:27:50.039428+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "afe23a0b83a5",
+      "title": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’ - AD.nl",
+      "published": "2026-07-27T23:02:00+00:00",
+      "summary": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE56d1Rralh6dTAwQmdXNG15aGtPUFhUOE5lTFc5VmFaUl9GS0l2cl9CZTllMnZGNnFSYjhsTTZZUUJEZHQyUzItd201Y0RkeTk0Z0NrcklRQV8xSkNka09rOEdEb0ZaNkZPWWJScWZTdVRKaDRCTXRfMldtRGM2eUZ0eTVVVF9MTHBIR1N4NEVFYUw3azI4VmJwWVBTYjBzd2s3YXlmNEIyeTVJdGpzSjh6eXA4bm8tTmRlQkc5alhMNTA?oc=5"
+        }
+      ]
+    },
     {
       "id": "da52c9628e3c",
       "title": "Cambridge-onderzoekers na nieuwe ontdekking: Veelgebruikt ingrediënt kan je darmen mogelijk verzwakken - wibnet.nl",

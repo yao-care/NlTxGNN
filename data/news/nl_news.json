@@ -1,8 +1,56 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-29T08:34:15.142279+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-29T14:02:00.448405+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "3c3e69608962",
+      "title": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen - NOS",
+      "published": "2026-07-29T10:29:43+00:00",
+      "summary": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0tTQm03TmN2d3hVVE9BeTJFN01zdzRBVlQ2Uk5BME1qRkFsNmJwNkNzckw2U1M2bUlta3ZCeXJILWJFZjZIMlRYeUdvQ25ZcGkzWDl5U1g2RUt2VVJ1YUZIeDQxYXJVeXJTZ2hpU3N5ZUw3RjdmSFA1RUJSU1JhS0E0Rk5IclE5WnJodGgtTXVwbFlkT2VpQjZiYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2c20238811e",
+      "title": "Esmee (24) kampt met een zomerdepressie: ’Het zonnetje kan voor mij niet snel genoeg weggaan’ - De Telegraaf",
+      "published": "2026-07-29T13:02:08+00:00",
+      "summary": "Esmee (24) kampt met een zomerdepressie: ’Het zonnetje kan voor mij niet snel genoeg weggaan’&nbsp;&nbsp;De TelegraafZomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog&nbsp;&nbsp;AD.nlPsychiatrisch patiënten beschermen tegen de hitte: 'Kom in actie vóórdat het warm wordt', waarschuwen deze artsen&nbsp;&nbsp;Zorg+WelzijnZomerdepressie komt weinig voor, maar kan langdurig sombere gevoelens veroorzaken&nbsp;&nbsp;Nationale ZorggidsExtreme hitte raakt ook je mental",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHNSczFlX2ZSMFZJeHJZb0NoVmtxSmRzRWxzbkdpTFlVanBXNzFXeVZxLWkzM2M5bm1zR1FjMkc1QnRGM0VHUVJjZm5nUWlpOTQ0ZDVLMW10LWU1Sk9XUDczcVFvemZxX3hNSHhEbE8tSHM4aDZqSjU5NkxTNUhtMERNSHRMQ3NRakV1WERZcVhjTmdzeWswT3cwSUVuUk94a0pkODJKQlYtMlh5TFkya1pPVlVCczZGS3F2amcwLXFpOV9aZThmQWc3RmMxUEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afe23a0b83a5",
+      "title": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’ - AD.nl",
+      "published": "2026-07-27T19:15:00+00:00",
+      "summary": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE56d1Rralh6dTAwQmdXNG15aGtPUFhUOE5lTFc5VmFaUl9GS0l2cl9CZTllMnZGNnFSYjhsTTZZUUJEZHQyUzItd201Y0RkeTk0Z0NrcklRQV8xSkNka09rOEdEb0ZaNkZPWWJScWZTdVRKaDRCTXRfMldtRGM2eUZ0eTVVVF9MTHBIR1N4NEVFYUw3azI4VmJwWVBTYjBzd2s3YXlmNEIyeTVJdGpzSjh6eXA4bm8tTmRlQkc5alhMNTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20c5cccdb5f1",
+      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
+      "published": "2026-07-29T07:46:00+00:00",
+      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nlAlles over koffie en gezondheid: zoveel kopjes kun je met een gerust hart drinken&nbsp;&nbsp;Scientias.nlVijf koppen koffie per dag? Niet alleen veilig, ook nog eens goed voor je gezondheid, zeggen onderzoekers&nbsp;&nbsp;De Telegraaf1 tot 3 koppen per dag: zo zou zwarte koffie je brein beschermen na je 50ste volgens Harvard&nbsp;&nbsp;Futura, le média qui explore le mondeKoffie",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
+        }
+      ]
+    },
     {
       "id": "f7ad7bf2652c",
       "title": "Onderzoekers vinden verrassende aanwijzing voor handartrose: mondbacteriën spelen mogelijk grotere rol dan gedacht - Metronieuws.nl",
@@ -24,18 +72,6 @@
         {
           "name": "Redactie24",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXhLUEVYajMyZmNNeUhrbkJaNDU3MHRWbnloX3pnZUktV2NBLU9DdTNpTXRUUzZPbi01SlJrZVBLSVZ2T2V2MXVlaU5HRXhpenRJU3EtQVZUTUtad0JjMFc0Wlh1bHNjNGpJb1ctSEFxWTFMc2t5UTRBV1VCdGNVNzZ2LWxQSmhqOVkxdmphOUtjeXl0WmpqdjBaaFV2Z9IBowFBVV95cUxQUHNONWZmOWVhb1EtU3hGajI5SVdaSnczb19GMTBSa1I5dW1CWU1aXzNHUHF3OF9yQ3pSdkxqa0V3Z0UxaW9SSEJKbS1mVnFFdDd6M0VhU0FPMWxkR0tleVE4T2oyblpxa3htUHo1dmFNejdRRWc0TkkzMy0yYTVmeUdNX2pPenh4cWlSVEJESkYtRk54aEJFSnZnV2tzYzZvYUFF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "964035690b7a",
-      "title": "Steeds meer longkanker bij niet-rokers, en vooral bij vrouwen is de toename opvallend: “Maar de precieze oorzaken kennen we nog niet” - Nieuwsblad",
-      "published": "2026-07-29T07:08:58+00:00",
-      "summary": "Steeds meer longkanker bij niet-rokers, en vooral bij vrouwen is de toename opvallend: “Maar de precieze oorzaken kennen we nog niet”&nbsp;&nbsp;NieuwsbladLongkanker komt steeds vaker voor bij vrouwen en mensen die nooit hebben gerookt&nbsp;&nbsp;De SpecialistLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;MediQualityLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in Bel",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ2pIRmtMNUtBb2Fyc19HbUo3eEx0UVVVbVgxaDRxZkp4azJkSHBNQkxYUUNLRllmSExGb1Vzd3FjRGkwRkdvaXp1SlN3eW5RRmY0N3hyLXFLak1lQ2E1dzJ2QVlWUDUtd2hHekoxYzNrZWw3VmJycGZwdk5mYjBLLXA5U2l3Qnd4VnpSUzZtakdWRl85SU9BZDYxVmZIXzZRcHlpWFhQdGtUc2FhMUQ1enl1aUY0c2JBaTNrVW9jU2hjX01kRkNueE8ycVY1SWtSTmhnYm1XWF81Z1J4blB0RVl0dWlVNC1MM2xPZFRQTksxVUxwVDVJQU0zWXBYUGR3dlpXS25tTUktTUE3c0E?oc=5"
         }
       ]
     }

@@ -1,32 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-29T02:20:39.365594+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-29T08:34:15.142279+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "afe23a0b83a5",
-      "title": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’ - AD.nl",
-      "published": "2026-07-27T23:02:00+00:00",
-      "summary": "Een maagverkleining is meer dan gewichtsverlies: ‘Vaak verdwijnen suikerziekte en slaapapneu’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE56d1Rralh6dTAwQmdXNG15aGtPUFhUOE5lTFc5VmFaUl9GS0l2cl9CZTllMnZGNnFSYjhsTTZZUUJEZHQyUzItd201Y0RkeTk0Z0NrcklRQV8xSkNka09rOEdEb0ZaNkZPWWJScWZTdVRKaDRCTXRfMldtRGM2eUZ0eTVVVF9MTHBIR1N4NEVFYUw3azI4VmJwWVBTYjBzd2s3YXlmNEIyeTVJdGpzSjh6eXA4bm8tTmRlQkc5alhMNTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da52c9628e3c",
-      "title": "Cambridge-onderzoekers na nieuwe ontdekking: Veelgebruikt ingrediënt kan je darmen mogelijk verzwakken - wibnet.nl",
-      "published": "2026-07-27T03:00:22+00:00",
-      "summary": "Cambridge-onderzoekers na nieuwe ontdekking: Veelgebruikt ingrediënt kan je darmen mogelijk verzwakken&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX25Zb1pGaVl5SmVVclpmbzVCQlZaYVEwTEotN0djbEpNcHdhay10MW5FWFBTUlo0S1U3S3NOa0xwWURRNW9iRkN3N0gyQlFGeUVPOVNhak5nZmxFUFh3MWRGZGVibmUxZlNiWVpRdDByZkdkOF9iYl9ENGl6dFJCaUFDSUtaeU1YOWxKNER3SHdLUWp2WHdyMUJlajlyd1ZSTGQycnltSTgyTnRzemNwWVhmY2pPeENPTHFqZnllaW5BN3lhc2ZTTHhB?oc=5"
-        }
-      ]
-    },
     {
       "id": "f7ad7bf2652c",
       "title": "Onderzoekers vinden verrassende aanwijzing voor handartrose: mondbacteriën spelen mogelijk grotere rol dan gedacht - Metronieuws.nl",
@@ -48,6 +24,18 @@
         {
           "name": "Redactie24",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXhLUEVYajMyZmNNeUhrbkJaNDU3MHRWbnloX3pnZUktV2NBLU9DdTNpTXRUUzZPbi01SlJrZVBLSVZ2T2V2MXVlaU5HRXhpenRJU3EtQVZUTUtad0JjMFc0Wlh1bHNjNGpJb1ctSEFxWTFMc2t5UTRBV1VCdGNVNzZ2LWxQSmhqOVkxdmphOUtjeXl0WmpqdjBaaFV2Z9IBowFBVV95cUxQUHNONWZmOWVhb1EtU3hGajI5SVdaSnczb19GMTBSa1I5dW1CWU1aXzNHUHF3OF9yQ3pSdkxqa0V3Z0UxaW9SSEJKbS1mVnFFdDd6M0VhU0FPMWxkR0tleVE4T2oyblpxa3htUHo1dmFNejdRRWc0TkkzMy0yYTVmeUdNX2pPenh4cWlSVEJESkYtRk54aEJFSnZnV2tzYzZvYUFF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964035690b7a",
+      "title": "Steeds meer longkanker bij niet-rokers, en vooral bij vrouwen is de toename opvallend: “Maar de precieze oorzaken kennen we nog niet” - Nieuwsblad",
+      "published": "2026-07-29T07:08:58+00:00",
+      "summary": "Steeds meer longkanker bij niet-rokers, en vooral bij vrouwen is de toename opvallend: “Maar de precieze oorzaken kennen we nog niet”&nbsp;&nbsp;NieuwsbladLongkanker komt steeds vaker voor bij vrouwen en mensen die nooit hebben gerookt&nbsp;&nbsp;De SpecialistLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;MediQualityLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De StandaardMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in Bel",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ2pIRmtMNUtBb2Fyc19HbUo3eEx0UVVVbVgxaDRxZkp4azJkSHBNQkxYUUNLRllmSExGb1Vzd3FjRGkwRkdvaXp1SlN3eW5RRmY0N3hyLXFLak1lQ2E1dzJ2QVlWUDUtd2hHekoxYzNrZWw3VmJycGZwdk5mYjBLLXA5U2l3Qnd4VnpSUzZtakdWRl85SU9BZDYxVmZIXzZRcHlpWFhQdGtUc2FhMUQ1enl1aUY0c2JBaTNrVW9jU2hjX01kRkNueE8ycVY1SWtSTmhnYm1XWF81Z1J4blB0RVl0dWlVNC1MM2xPZFRQTksxVUxwVDVJQU0zWXBYUGR3dlpXS25tTUktTUE3c0E?oc=5"
         }
       ]
     }

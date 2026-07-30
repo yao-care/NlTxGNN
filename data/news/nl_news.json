@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-30T02:02:52.997578+00:00",
+  "fetched_at": "2026-07-30T08:19:29.691233+00:00",
   "count": 6,
   "news": [
     {
@@ -30,12 +30,24 @@
     {
       "id": "12389eabf5ab",
       "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - AD.nl",
-      "published": "2026-07-29T09:15:00+00:00",
+      "published": "2026-07-29T18:15:00+00:00",
       "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXZzV254aHFjM2NPZUtrcmUwajBnZGM0WmNrVVJaSEU2TGNMSXEzVk9qUUJnWFM3V2RwMk9Ra2d6VEpXekhMWHJuMU5Lc0FnMFZkbnNMTFNacURXZTNHdUg0a29BMWFBUXptZV9iUlJKRnFKNnowSlBNZm1LbDZEYUZMdzdfZXpsOEx6enBJRTMxWldHM21UUGpuSEhwNVlScWVaWmRLLXI1bVMwU19kNmVfRWx1dkZFT3NtdzEyOUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5735270f7e8",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
+      "published": "2026-07-29T03:00:00+00:00",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladBelgië meldt recordaantal kankergevallen in 2024&nbsp;&nbsp;Newsmonkey -België: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De Standaard",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     },
@@ -60,18 +72,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d94f0f8dd77",
-      "title": "Deze aandoening kost de maatschappij 4,1 miljard euro per jaar - Redactie24",
-      "published": "2026-07-28T07:30:00+00:00",
-      "summary": "Deze aandoening kost de maatschappij 4,1 miljard euro per jaar&nbsp;&nbsp;Redactie24Meer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXhLUEVYajMyZmNNeUhrbkJaNDU3MHRWbnloX3pnZUktV2NBLU9DdTNpTXRUUzZPbi01SlJrZVBLSVZ2T2V2MXVlaU5HRXhpenRJU3EtQVZUTUtad0JjMFc0Wlh1bHNjNGpJb1ctSEFxWTFMc2t5UTRBV1VCdGNVNzZ2LWxQSmhqOVkxdmphOUtjeXl0WmpqdjBaaFV2Z9IBowFBVV95cUxQUHNONWZmOWVhb1EtU3hGajI5SVdaSnczb19GMTBSa1I5dW1CWU1aXzNHUHF3OF9yQ3pSdkxqa0V3Z0UxaW9SSEJKbS1mVnFFdDd6M0VhU0FPMWxkR0tleVE4T2oyblpxa3htUHo1dmFNejdRRWc0TkkzMy0yYTVmeUdNX2pPenh4cWlSVEJESkYtRk54aEJFSnZnV2tzYzZvYUFF?oc=5"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-30T13:50:37.278478+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-30T19:20:05.590019+00:00",
+  "count": 6,
   "news": [
     {
       "id": "3c3e69608962",
       "title": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen - NOS",
       "published": "2026-07-29T10:29:43+00:00",
-      "summary": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek: long covid en ME/CVS beschadigen spieren&nbsp;&nbsp;NOSOnderzoek: afwijking in spieren van postcovidpatiënten heeft niets te maken met slechte conditie&nbsp;&nbsp;volkskrant.nlLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NU'Spieren van mensen met long covid en ME/CVS verschillen van die van andere inactieve mensen'&nbsp;&nbsp;NPO Radio 1",
+      "summary": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek: afwijking in spieren van postcovidpatiënten heeft niets te maken met slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.org'Spieren van mensen met long covid en ME/CVS verschillen van die van andere inactieve mensen'&nbsp;&nbsp;NPO Radio 1Long covid en ME/CVS tasten spieren aan, maar ni",
       "sources": [
         {
           "name": "NOS",
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "d2c20238811e",
-      "title": "Esmee (24) kampt met een zomerdepressie: ’Het zonnetje kan voor mij niet snel genoeg weggaan’ - De Telegraaf",
-      "published": "2026-07-29T20:30:00+00:00",
-      "summary": "Esmee (24) kampt met een zomerdepressie: ’Het zonnetje kan voor mij niet snel genoeg weggaan’&nbsp;&nbsp;De TelegraafZomerdepressie treft 1 op de 1000 Nederlanders: dit zijn kenmerken volgens psycholoog&nbsp;&nbsp;AD.nlGeen zin in de zomer? Een zomerdepressie komt vaker voor dan je denkt en zo bewaak je je ritme&nbsp;&nbsp;GezondnuPsychiatrisch patiënten beschermen tegen de hitte: 'Kom in actie vóórdat het warm wordt', waarschuwen deze artsen&nbsp;&nbsp;Zorg+WelzijnZomerdepressie komt weinig voo",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHNSczFlX2ZSMFZJeHJZb0NoVmtxSmRzRWxzbkdpTFlVanBXNzFXeVZxLWkzM2M5bm1zR1FjMkc1QnRGM0VHUVJjZm5nUWlpOTQ0ZDVLMW10LWU1Sk9XUDczcVFvemZxX3hNSHhEbE8tSHM4aDZqSjU5NkxTNUhtMERNSHRMQ3NRakV1WERZcVhjTmdzeWswT3cwSUVuUk94a0pkODJKQlYtMlh5TFkya1pPVlVCczZGS3F2amcwLXFpOV9aZThmQWc3RmMxUEk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d5735270f7e8",
       "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
       "published": "2026-07-29T03:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladBelgië meldt recordaantal kankergevallen in 2024&nbsp;&nbsp;Newsmonkey -België: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;artsenkrant.pmg.beLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De Standaard",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladBelgië meldt recordaantal kankergevallen in 2024&nbsp;&nbsp;Newsmonkey -België: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;medi-sfeer.beAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De Standaard",
       "sources": [
         {
           "name": "Nieuwsblad",
@@ -52,25 +40,25 @@
       ]
     },
     {
-      "id": "20c5cccdb5f1",
-      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
+      "id": "ee7cde95de72",
+      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - metronieuws.nl",
       "published": "2026-07-29T07:46:00+00:00",
-      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nl",
+      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;metronieuws.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
         }
       ]
     },
     {
-      "id": "2aee97a9f336",
-      "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - bd.nl",
+      "id": "190f00c0302a",
+      "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - Brabants Dagblad",
       "published": "2026-07-29T18:15:00+00:00",
-      "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;bd.nl",
+      "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;Brabants Dagblad",
       "sources": [
         {
-          "name": "bd.nl",
+          "name": "Brabants Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3FBWXNybEx6ZXZpSHJza0V3aGhmb0MzTXJnc1NRZFlOektONHJ5c2ZEREVIa2stM2pwRlBVMVgzeGl4ZGF2YXhqYmZGSF9iWlppT29vU0xnQVFXWF9oblJnUEVVdDBMSmo5T3BRTi03bVh0Qkd2a1Z6Uy1CV3dFbGI3SUpyZS1aZ3FmZTBjQ3VpYVFwOUFZQ0o2blBNQk9odnR6TkdiV3lqbV9uN1N3TUpvcWhfby0wRzcwYUZiYjg?oc=5"
         }
       ]

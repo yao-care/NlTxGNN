@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-31T13:56:36.553514+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-31T19:19:15.532338+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "35494505cd9d",
+      "title": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-31T14:39:01+00:00",
+      "summary": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;de VolkskrantEbola-hotspot in Oost-Congo ‘een van de moeilijkste plekken op aarde om een uitbraak te bestrijden’&nbsp;&nbsp;bnr.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSEbola-uitbraak Con",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkEybmpKNThraUZVNFZmbmg0WkFCUnNuVFBMRmExc1R6dlJCZFdtS0hQUXVTd2pBYlR0Z0llT29reEZ4OGFORENYZXJYRy1JdmpLdDZXWHpmc1lfcC1GZnlPaU02V05vSDZYZlRtek1tcEE5aEVubmJ1T0pSWUFIQkN5X3lBanRPdEExMlZNUzI0eUhrcVNfQUpMcG5UYnYyVnFvWXhTVndVTmw4OFVDYkxuLXhjdGQycWJ6YlB5MVNKLVNaeUN0VjduXzFGUzEzYWhvREgwZU9CYm5kMC16aVVuRlBIRElycEs4dnJGMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "340cbd1b96c5",
       "title": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter - Reformatorisch Dagblad",
       "published": "2026-07-31T10:51:14+00:00",
-      "summary": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;Nederlands DagbladLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NU'Spieren van mensen met long covid en ME/CVS verschillen van die van andere inactieve mensen'&nbsp;&nbsp;NPO R",
+      "summary": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;Nederlands DagbladLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nb",
       "sources": [
         {
           "name": "Reformatorisch Dagblad",
@@ -16,26 +28,26 @@
       ]
     },
     {
-      "id": "07d978b34e7a",
-      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - nieuwsblad.be",
+      "id": "d5735270f7e8",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
       "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;nieuwsblad.beMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackBelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;mediquality.net",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantWaarom longkanker meer en meer vrouwen en niet-rokers treft&nbsp;&nbsp;plusmagazine.beLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;MediQuality",
       "sources": [
         {
-          "name": "nieuwsblad.be",
+          "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     },
     {
-      "id": "f95f73bed0b1",
-      "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - De Gelderlander",
-      "published": "2026-07-29T18:15:00+00:00",
-      "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;De Gelderlander",
+      "id": "f125dd4e2475",
+      "title": "Helft van alle mondkankers wordt pas ontdekt als de kanker al vergevorderd is: kan nieuwe test daar verandering in brengen? - HLN",
+      "published": "2026-07-30T07:51:54+00:00",
+      "summary": "Helft van alle mondkankers wordt pas ontdekt als de kanker al vergevorderd is: kan nieuwe test daar verandering in brengen?&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV3NGY2xYc0xsbzBOM1ZwZkYzQXBYckxzeGdEZ2ZHTXdDRHBSVnpBS2tsdDJTX0JWY1hQVWFTYzVjVDU4X1pYa1VBUkFoR1RCWktqU1RTenB0SlN1ckdYdHE0M3JQejZWdGFvVW0tUGoxSEhkamxGamNxWDJSYS1YLWpMcEswSjJZaWhzUVRCd0lldXZBWi1YXzVRYWJ3YWVDY0hlYzBfeHlPY0plVmhaVUEwaGYybHRObXFXU1RROGFkbnk2Y2d1NlJrRTlRUQ?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONXFFUDRERkJVYWttRGJCODhTTGVOX0lnOWVMOFA3elFaUTNydE9ONFVUd3RhZTFVVHo0Y0pONXMzSlVIMWpnNjlTeVdJdEJPaHNXbTl5ZnpUYmJ1eHF5WVN3VWdTcHB5VW9OTUY1dmx4aHdnR0RvZG9NWV8ybkctX19oTnJsLThlazhDTHl4bGZnSzZ2ZXhocDJsMTVuYzBKVF9wWVlud0ttT2NtU0lrUXVNU2RNbXdZM0NnSXducUU0dlBwelhTWk9Ya3NIaVJhNGktZHMta19iQTdSWkh5Ny0xbERZUkNyckNHQXlBRXpDa2FD?oc=5"
         }
       ]
     },

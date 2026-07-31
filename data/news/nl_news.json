@@ -1,41 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-31T08:44:01.656378+00:00",
-  "count": 3,
+  "fetched_at": "2026-07-31T13:56:36.553514+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "c2b6438e679c",
-      "title": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit - NU",
-      "published": "2026-07-29T12:39:13+00:00",
-      "summary": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NUOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&",
+      "id": "340cbd1b96c5",
+      "title": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter - Reformatorisch Dagblad",
+      "published": "2026-07-31T10:51:14+00:00",
+      "summary": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;Nederlands DagbladLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NU'Spieren van mensen met long covid en ME/CVS verschillen van die van andere inactieve mensen'&nbsp;&nbsp;NPO R",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjhUU1FIRF9FdEo4XzhJY2M2NmVOZ1ZfVFNJcW5IbmpvNEFnWC15RFBqMjVpejBPODhPekFuOTZtNGhoam1TSGRzZVV4anNoWTdiWUFpMkFLMU1fVTloTi1kRFV2bnU3NTk2NGUxdWVpQlZHZk4yTGVqdUV6M2w4eTZPTUh3QzY1eFBNa05qeVZld3Vld0ZHNkRJTEE4dURpOE5Yc1dXQmZha0FXRnZlNVhUYUhHQQ?oc=5"
+          "name": "Reformatorisch Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa18xV0ozUjZSYkdoeklBVzRPUk12RF8wUnZKbFhFTzJNcFpjbFBZTHBwazNYaHk4d3ZFcFJYVnlmYVVTMURPMGFLMmJ6TzhJdmQxYm1rQTgyZmZraE5iZVBCTmdPZy1hRDY4R0w1c2d6VV9Ba29kV2VHTFM5d2RBVkVnNWptUk5OeHFadGV5NWlqUEE2?oc=5"
         }
       ]
     },
     {
-      "id": "20c5cccdb5f1",
-      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
-      "published": "2026-07-30T06:04:22+00:00",
-      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "07d978b34e7a",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - nieuwsblad.be",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;nieuwsblad.beMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackBelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;mediquality.net",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
+          "name": "nieuwsblad.be",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     },
     {
-      "id": "190f00c0302a",
-      "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - Brabants Dagblad",
+      "id": "f95f73bed0b1",
+      "title": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal - De Gelderlander",
       "published": "2026-07-29T18:15:00+00:00",
-      "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;Brabants Dagblad",
+      "summary": "Pus, bloed en een wond die niet geneest: duizenden operaties voor deze verzwegen kwaal&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3FBWXNybEx6ZXZpSHJza0V3aGhmb0MzTXJnc1NRZFlOektONHJ5c2ZEREVIa2stM2pwRlBVMVgzeGl4ZGF2YXhqYmZGSF9iWlppT29vU0xnQVFXWF9oblJnUEVVdDBMSmo5T3BRTi03bVh0Qkd2a1Z6Uy1CV3dFbGI3SUpyZS1aZ3FmZTBjQ3VpYVFwOUFZQ0o2blBNQk9odnR6TkdiV3lqbV9uN1N3TUpvcWhfby0wRzcwYUZiYjg?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV3NGY2xYc0xsbzBOM1ZwZkYzQXBYckxzeGdEZ2ZHTXdDRHBSVnpBS2tsdDJTX0JWY1hQVWFTYzVjVDU4X1pYa1VBUkFoR1RCWktqU1RTenB0SlN1ckdYdHE0M3JQejZWdGFvVW0tUGoxSEhkamxGamNxWDJSYS1YLWpMcEswSjJZaWhzUVRCd0lldXZBWi1YXzVRYWJ3YWVDY0hlYzBfeHlPY0plVmhaVUEwaGYybHRObXFXU1RROGFkbnk2Y2d1NlJrRTlRUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2544dcd826ee",
+      "title": "Specialiste Caren Randon over de bloedvaten: ‘Als je stopt met roken, duurt het minimaal tien jaar voor je bloedvaten weer zoals voorheen zijn’ - De Morgen",
+      "published": "2026-07-30T08:00:00+00:00",
+      "summary": "Specialiste Caren Randon over de bloedvaten: ‘Als je stopt met roken, duurt het minimaal tien jaar voor je bloedvaten weer zoals voorheen zijn’&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU3BvMWtzTkd3TXVta0piZEpZSF8zNllHQVpmMmtkMUJGUjlHTnM0eU9LUzVmRHp4czVBM1BNWU5hdVBUcWpWVG5qd0xjcnZNWVA4YnQtUlhVUjhnSldZR2t4X0ZvaUlvTU92eVFwNDFqdmd0SGlDazhPZ1JWWVk2SklZZUlmdktSelFGRHpHcGkySGlSUHlmMFY4TlBGTGxEM3J6clN3ZHhFT0ZnclJKakdBRFAwdFV6aWpoTFNnMHFVc3RhZWRxTnFtMkVpekt5ajNzSUUyNTlPT0RKX1lyTGpwV1BYcXRQRndyRnlJVTZfc0xTS0h0a1dqaE1YeFdfdTNPdGhlam14RUFuQm5WT0tvam8?oc=5"
         }
       ]
     }

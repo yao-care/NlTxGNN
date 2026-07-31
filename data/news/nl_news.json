@@ -1,53 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-30T19:20:05.590019+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-31T02:29:30.495852+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "3c3e69608962",
-      "title": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen - NOS",
-      "published": "2026-07-29T10:29:43+00:00",
-      "summary": "Onderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek: afwijking in spieren van postcovidpatiënten heeft niets te maken met slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.org'Spieren van mensen met long covid en ME/CVS verschillen van die van andere inactieve mensen'&nbsp;&nbsp;NPO Radio 1Long covid en ME/CVS tasten spieren aan, maar ni",
+      "id": "f2ef16ce3ca0",
+      "title": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit - nu.nl",
+      "published": "2026-07-29T12:39:13+00:00",
+      "summary": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;nu.nlOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;nos.nlOnderzoek: afwijking in spieren van postcovidpatiënten heeft niets te maken met slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.org'Spieren van mensen met long covid en ME/CVS verschillen van die van ",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0tTQm03TmN2d3hVVE9BeTJFN01zdzRBVlQ2Uk5BME1qRkFsNmJwNkNzckw2U1M2bUlta3ZCeXJILWJFZjZIMlRYeUdvQ25ZcGkzWDl5U1g2RUt2VVJ1YUZIeDQxYXJVeXJTZ2hpU3N5ZUw3RjdmSFA1RUJSU1JhS0E0Rk5IclE5WnJodGgtTXVwbFlkT2VpQjZiYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07d379b3ad62",
-      "title": "Afslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klinieken - Trouw",
-      "published": "2026-07-29T12:21:00+00:00",
-      "summary": "Afslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klinieken&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFBaMFNZVklSMlBJT0lCbERkcGR4MWxORmZzaXFHMFpKeDRVam5kelNqMzR5OWo0MER3S1hWTGZ4Y1pmWEJZUkVFNWhFSUpXZmZubHJ4VmZPQ2V5Z1FTUVNoSFIySmVCVXVBalp4cklsRU8xaHB1ZUxzSzN6R1BaNjhJaUNuNk8xRnczTTR4R2ExQ2Q5WEZHX0oyRzVXOVV5ZHpwLWZycFM3eC1NYk1xcEVoclBmT3kwNjVPM2hVV0ZoVXNIazlJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5735270f7e8",
-      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
-      "published": "2026-07-29T03:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladBelgië meldt recordaantal kankergevallen in 2024&nbsp;&nbsp;Newsmonkey -België: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;medi-sfeer.beAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker is steeds beter te behandelen: “Nieuwe behandelingen maken een reëel verschil”&nbsp;&nbsp;De Standaard",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee7cde95de72",
-      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - metronieuws.nl",
-      "published": "2026-07-29T07:46:00+00:00",
-      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;metronieuws.nl",
-      "sources": [
-        {
-          "name": "metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
+          "name": "nu.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjhUU1FIRF9FdEo4XzhJY2M2NmVOZ1ZfVFNJcW5IbmpvNEFnWC15RFBqMjVpejBPODhPekFuOTZtNGhoam1TSGRzZVV4anNoWTdiWUFpMkFLMU1fVTloTi1kRFV2bnU3NTk2NGUxdWVpQlZHZk4yTGVqdUV6M2w4eTZPTUh3QzY1eFBNa05qeVZld3Vld0ZHNkRJTEE4dURpOE5Yc1dXQmZha0FXRnZlNVhUYUhHQQ?oc=5"
         }
       ]
     },
@@ -64,14 +28,26 @@
       ]
     },
     {
-      "id": "f871017ebdd7",
-      "title": "Zwarte vlekken op meervallen blijken besmettelijke kanker: ‘Aanvankelijk dachten we dat het om een virus ging’ - De Morgen",
-      "published": "2026-07-28T19:36:00+00:00",
-      "summary": "Zwarte vlekken op meervallen blijken besmettelijke kanker: ‘Aanvankelijk dachten we dat het om een virus ging’&nbsp;&nbsp;De Morgen",
+      "id": "20c5cccdb5f1",
+      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
+      "published": "2026-07-30T06:04:22+00:00",
+      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU2JQbzdmNTcycFVkMWlnaUJMYnBZMWdsdjI5QWNYMkNQMG4wczFhc25wX2VrSVpIeXZndE5rMUR6QWNQbmNGNXh3VFVTY0E3cW9VWTN2eHg1RzJmU1hsY1pmY2lwOXJPOVFqNVlQM2x2LVgzZmx2cmQtMl9aQXd0YldDLUw0dFVvT0JrYnNmNHl5RlBHSXJCQlVwRDBpeDNXZkZDLTlSaVNsbEtiRGUzMkUwalI0cHZfd1ZKMDlMTmpXcm1ld0FwdEdhMXFuWlJ0czk4X05vdHZFTWhhaG9nS1Rn?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5735270f7e8",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
+      "published": "2026-07-29T03:00:00+00:00",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackBelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;mediquality.net",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     }

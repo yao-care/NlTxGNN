@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-31T02:29:30.495852+00:00",
-  "count": 4,
+  "fetched_at": "2026-07-31T08:44:01.656378+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "f2ef16ce3ca0",
-      "title": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit - nu.nl",
+      "id": "c2b6438e679c",
+      "title": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit - NU",
       "published": "2026-07-29T12:39:13+00:00",
-      "summary": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;nu.nlOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;nos.nlOnderzoek: afwijking in spieren van postcovidpatiënten heeft niets te maken met slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.org'Spieren van mensen met long covid en ME/CVS verschillen van die van ",
+      "summary": "Long covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NUOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOnderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;de VolkskrantNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&",
       "sources": [
         {
-          "name": "nu.nl",
+          "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjhUU1FIRF9FdEo4XzhJY2M2NmVOZ1ZfVFNJcW5IbmpvNEFnWC15RFBqMjVpejBPODhPekFuOTZtNGhoam1TSGRzZVV4anNoWTdiWUFpMkFLMU1fVTloTi1kRFV2bnU3NTk2NGUxdWVpQlZHZk4yTGVqdUV6M2w4eTZPTUh3QzY1eFBNa05qeVZld3Vld0ZHNkRJTEE4dURpOE5Yc1dXQmZha0FXRnZlNVhUYUhHQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20c5cccdb5f1",
+      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
+      "published": "2026-07-30T06:04:22+00:00",
+      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
         }
       ]
     },
@@ -24,30 +36,6 @@
         {
           "name": "Brabants Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3FBWXNybEx6ZXZpSHJza0V3aGhmb0MzTXJnc1NRZFlOektONHJ5c2ZEREVIa2stM2pwRlBVMVgzeGl4ZGF2YXhqYmZGSF9iWlppT29vU0xnQVFXWF9oblJnUEVVdDBMSmo5T3BRTi03bVh0Qkd2a1Z6Uy1CV3dFbGI3SUpyZS1aZ3FmZTBjQ3VpYVFwOUFZQ0o2blBNQk9odnR6TkdiV3lqbV9uN1N3TUpvcWhfby0wRzcwYUZiYjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20c5cccdb5f1",
-      "title": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen - Metronieuws.nl",
-      "published": "2026-07-30T06:04:22+00:00",
-      "summary": "Onderzoekers zien opvallend verband: koffiedrinkers hebben vaak lager risico op hartproblemen&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1hzV3dlbTBKVlh5QS01bU5aSVZKOWdTQmhMRTdoYklnNi1iSG14Y1J3MnZGcDVMbmNpcThkSXVNM3A5WjVlTTY1VG4tLWtBd0VwcGhibUFqRHF5V21Ua1NOb1Y5ZFpLX2U3cmZsTXNXVGpmTXBITk03UnpiMDd2U19YcU15Zy1PVHh0WA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5735270f7e8",
-      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
-      "published": "2026-07-29T03:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackBelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;Medi-SfeerAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;mediquality.net",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     }

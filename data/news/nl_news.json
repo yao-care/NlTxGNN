@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-01T13:11:42.818878+00:00",
-  "count": 9,
+  "fetched_at": "2026-08-01T19:03:18.374202+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "ca31fd3c7699",
+      "title": "WHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe - NU",
+      "published": "2026-08-01T17:16:51+00:00",
+      "summary": "WHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NU1/8 in Nieuwsuur: Ebola-uitbraak groeit door • Zorgen over de AI-bril • Hoop op grote grazers&nbsp;&nbsp;NOSEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak Congo op een na grootste ooit geregistreerd&nbsp;&nbsp;Haarlems DagbladOngeziene ebola-uitbraak in Congo, me",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVJaWEtKZUw3Zkt2MWphemtYMmdEaC1KMUh2WlBmWTNJODQzRnd4aktRMnRXUXl0MVNXUXhrMzdtaHd6QURQY1hfODd2ZTBrSmJla01FQ3FvWmZ6ZlJobFlkM2dRS0xhQWFWRlkyNTZPU3BkTl8zLUU4T05NcHN3Qmxha3VkZmVrUmFJVlMxZWtNSFVpYTd1WlJBc2EzUmlqZmFfcnFZeF82ZTZUQ0Q1WC1HUlpYdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "6998d64214f8",
       "title": "Hoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’ - De Gelderlander",
       "published": "2026-08-01T09:13:00+00:00",
-      "summary": "Hoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderRadboudumc wijkt af van zwaarste isolatie, en juist dan gaat het mis met besmette hantapatiënt&nbsp;&nbsp;AD.nlEen zak urine, een besmet buisje bloed en een ongelezen mail: dit ging er fout in het Radboudumc bij de opname van de hantapatiënt&nbsp;&nbsp;De GelderlanderRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUQuarantaine ",
+      "summary": "Hoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;NOSRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NURadboudumc wijkt af van zwaarste isolatie, en juist dan gaat het mis met besmette hantapatiënt&nbsp;&nbsp;ad.nlOnderzoek: blootstelling hantavirus Radboudumc was te vermijden&nbsp;&nbsp;Haarlems ",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "35494505cd9d",
-      "title": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-07-31T14:39:01+00:00",
-      "summary": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak Congo op een na grootste ooit geregistreerd&nbsp;&nbsp;Haarlems DagbladOngeziene ebola-uitbraak in Congo, met meer dan 3.500 gevallen&nbsp;&nbsp;hln.beEbola : Meer dan 1.500 doden bij ebola-uitbraak in Congo&nbsp;&nbsp;MediQualityEbola eist meer dan 1500 levens in Democratische Republiek Congo&nbsp;&nbsp;L",
+      "id": "d5735270f7e8",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladLongkanker treft steeds meer vrouwen en niet-rokers, Conny (63) kreeg ziekte zelfs 3 keer&nbsp;&nbsp;vrt.beOpvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;GVAMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityLongkanker treft steeds",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkEybmpKNThraUZVNFZmbmg0WkFCUnNuVFBMRmExc1R6dlJCZFdtS0hQUXVTd2pBYlR0Z0llT29reEZ4OGFORENYZXJYRy1JdmpLdDZXWHpmc1lfcC1GZnlPaU02V05vSDZYZlRtek1tcEE5aEVubmJ1T0pSWUFIQkN5X3lBanRPdEExMlZNUzI0eUhrcVNfQUpMcG5UYnYyVnFvWXhTVndVTmw4OFVDYkxuLXhjdGQycWJ6YlB5MVNKLVNaeUN0VjduXzFGUzEzYWhvREgwZU9CYm5kMC16aVVuRlBIRElycEs4dnJGMA?oc=5"
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
     },
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "d5735270f7e8",
-      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
-      "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladLongkanker treft steeds meer vrouwen en niet-rokers, Conny (63) kreeg ziekte zelfs 3 keer&nbsp;&nbsp;VRTOpvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;GVAMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityLongkanker treft steeds me",
+      "id": "9307cdc75a1a",
+      "title": "Onderzoek: niet eten voor het slapengaan is goed voor je brein - bnr.nl",
+      "published": "2026-08-01T12:03:30+00:00",
+      "summary": "Onderzoek: niet eten voor het slapengaan is goed voor je brein&nbsp;&nbsp;bnr.nlIntermittent fasting toch nuttig? Het vertraagt mogelijk cognitieve achteruitgang bij ouderen&nbsp;&nbsp;Scientias.nlEten binnen een tijdsvenster van 8 uur helpt het geheugen op peil te houden op oudere leeftijd.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1ZqTTlhSm1BRDRqcnBkV1FMYlJjeEQ2dTMtd215RGRUQUNCMU5XOXItM3E2dk9Jd1d6TFE0Mm1xVUdIZHZQalZyN2kyWEVpcmFsWVBxTjhBb0RISkNXTXB2YW9vZDlfU29kYnpNZ01BRi10cEhDSGQ1aU9SWnlfazJseTlDVURRbFdTczZVTjBranhBMTUxTmxXc0pGTHFFTHJOX0lHb3YzZw?oc=5"
         }
       ]
     },
@@ -88,25 +100,25 @@
       ]
     },
     {
-      "id": "00efa393e846",
-      "title": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval” - hln.be",
+      "id": "07d5d4c5cf1a",
+      "title": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval” - pzc.nl",
       "published": "2026-07-31T08:33:38+00:00",
-      "summary": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval”&nbsp;&nbsp;hln.be",
+      "summary": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval”&nbsp;&nbsp;pzc.nl",
       "sources": [
         {
-          "name": "hln.be",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdTlBX1FkWmZpQk1mcUxvMXYzdUV1Z2xRYk4xM0ItQmk2TUN0ejgxSFlDN2hSWmQ1RTUwS1ZidGhvTk1SODBYN19FdFhRZWJLWllHY1BkNEZWR3ItZzRsUjNiV2lQWnNZTnpEd21QV01YRDVSRUlKZDFxcTFWWnROLXhUVXNBeld2MzRkajR5RGJfcGlyOW10M09qTXNBWGxRU3dESVpQcXFkTWZpQURpc0tscnlzclNQZDhkR3FTLW9ZVUxFajlxQVpjT25HbWpiOGhmS3psMTFOUV9OdHoyQXk0bHpoYVJLNG43Q1Ffbw?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdi1XVm1XT2NudEFyUjRHMjc2c0JXVjhKSExNQTBXNXB4dS1UZVFCMFRBSjJDUzN4UDVxLWZkcUtSWlYwSVBleEdhSHkxMnJaV3EyeFpWdktRWFRnSWpDRW9SNDQxZFlKRzU3X0xFNnhZTTFiTExMQ3JWZ190VkMwZTh0Z1JwdkVDRU81a2EtM0dZNFJRY3pmdFdQblZhV2JyeDVmS0lTTXEwU1I4ZGJQOFBzZGZGdFlPd3B5cnFPb1RVclM5dFlzbHItaWJMRTBoRE5TdUhRYkhqaW5mY0tfNXF0dGNvZ2FGZ1FIUXJzTQ?oc=5"
         }
       ]
     },
     {
-      "id": "ab66d811cb7f",
-      "title": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen - hln.be",
+      "id": "7342c6dbf863",
+      "title": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen - HLN",
       "published": "2026-07-31T05:01:17+00:00",
-      "summary": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen&nbsp;&nbsp;hln.be",
+      "summary": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "hln.be",
+          "name": "HLN",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0NjdEhSY1h3YzdPTGw0VnJGWkJFOTJHX1lzTExhZGpPMUx3UmotWXdRcG5NelNWTG1WSGlkTVYxajlFSV82NUNhUEllc19BSldKcFJsWHo5SVZEZlpyR0V6QzBUTUZpbWtiUWpwZWtTS01PVlBxLS1iQUhHUTRGRXEwbWlVLXFiR254dHNpbllfR2hkNFpsLU9Pc2xmTWZwRWMwc01BYTBVY2d4d3REamQ5Tk1mcE1ETk1NQXM0akl1ak5hQnBNTE1Tc0lsRUgzXy04?oc=5"
         }
       ]

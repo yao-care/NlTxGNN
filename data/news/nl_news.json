@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-07-31T19:19:15.532338+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-01T02:29:29.699086+00:00",
+  "count": 6,
   "news": [
     {
       "id": "35494505cd9d",
       "title": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-07-31T14:39:01+00:00",
-      "summary": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAantal ebola-besmettingen in Congo stijgt tot boven de 3000, vaccin nog in testfase&nbsp;&nbsp;de VolkskrantEbola-hotspot in Oost-Congo ‘een van de moeilijkste plekken op aarde om een uitbraak te bestrijden’&nbsp;&nbsp;bnr.nlEerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola&nbsp;&nbsp;NOSEbola-uitbraak Con",
+      "summary": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -28,10 +28,22 @@
       ]
     },
     {
+      "id": "dcc48ed7c3ef",
+      "title": "Deze alledaagse voedingsmiddelen kunnen je brein langer jong houden, zeggen onderzoekers - metronieuws.nl",
+      "published": "2026-07-31T16:16:00+00:00",
+      "summary": "Deze alledaagse voedingsmiddelen kunnen je brein langer jong houden, zeggen onderzoekers&nbsp;&nbsp;metronieuws.nl",
+      "sources": [
+        {
+          "name": "metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTRlSDdwNVdVelBhR2RqT3E0NUlycmY1VjNyYmFQQmNjbHVBQU5maXh6bDRIWi1vMWVwbkhub1IyYjBlRkw5SmhIWi1VaEhibFV0V2Z3ZF9zWUJLMnlpcmp6a1pZM1NRMTlISkRrSHZtbFgwVkdWd3c0cHd4TVFBdnBJcEM3TU9DV3NDZ3RhOVBhSlpPc3VudGZNZlFBTVZwY3QwSmJIRWtfdHlGV0czY3BORFk2NzQ5d2Naam1WMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5735270f7e8",
       "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
       "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;KnackAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;ArtsenkrantWaarom longkanker meer en meer vrouwen en niet-rokers treft&nbsp;&nbsp;plusmagazine.beLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;MediQuality",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityBelgië: de nieuwe cijfers van het Kankerregister&nbsp;&nbsp;De SpecialistAantal longkankers blijft stijgen, vooral bij vrouwen en niet-rokers&nbsp;&nbsp;Artsenkrant“Maak de sigaret wat mij betreft illegaal”: bijna 10.000 nieuwe longkankerdiagnoses&nbsp;&nbsp;hbvl.be",
       "sources": [
         {
           "name": "Nieuwsblad",

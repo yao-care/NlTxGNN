@@ -1,40 +1,76 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-01T08:13:52.898191+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-01T13:11:42.818878+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "93c5406009fa",
-      "title": "Radboudumc ging door miscommunicatie en 'druk uit overleg' fout in met hantavirus - NU",
-      "published": "2026-07-31T15:59:26+00:00",
-      "summary": "Radboudumc ging door miscommunicatie en 'druk uit overleg' fout in met hantavirus&nbsp;&nbsp;NUEen zak urine, een besmet buisje bloed en een ongelezen mail: dit ging er fout in het Radboudumc bij de opname van de hantapatiënt&nbsp;&nbsp;De GelderlanderRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NURadboudumc wijkt af van zwaarste isolatie, en juist dan gaat het mis met besmette hantapatiënt&nbsp;&nbsp;AD.nlQuarantaine medewerkers Radboudumc had voork",
+      "id": "6998d64214f8",
+      "title": "Hoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’ - De Gelderlander",
+      "published": "2026-08-01T09:13:00+00:00",
+      "summary": "Hoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderRadboudumc wijkt af van zwaarste isolatie, en juist dan gaat het mis met besmette hantapatiënt&nbsp;&nbsp;AD.nlEen zak urine, een besmet buisje bloed en een ongelezen mail: dit ging er fout in het Radboudumc bij de opname van de hantapatiënt&nbsp;&nbsp;De GelderlanderRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUQuarantaine ",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3psbzI4cDZEbUNycjdCQTlBWURuUjFtYm0zZWZSenh2MHFLM2pHa0NpaFQyMWJDSTItWjNOZERDMlV0VEZKTW9kUlJ6Sy1ScGVkS3BidTcxTWtHT1RmWThhS1F6aFktUC1zSXh4QWFKRWFscmNGSWxPbGM0X3pGWWlETEg2NmVuZ1RZS18xNnBSbTBQYmlycTN4V3Aycms3d2xVbjVCcGJnRHNEeDhJYzRhOTNRb0EweEtCSmZn?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOME5CZHdFMl9LT2V3RGpfNUZDMzh6QXFBMGh6ZWFkc0lXVFFMWmdkOWpEVDZfRVZDSFdfVTM5NUZ0cmtZWGNsNTdJZndHSFc3bWpoS1Q4dzdMckdkN3VwNERVU1R4UVpXVjJMT2xqeDhwamZ0dzM3ZmRWYl9LNWNNeWdZbFdNTm5pOVZjRjJQTDkzVHhkYi1mYVlQUFdFYTBITlN6c1AwejhzQ0RjamZha0lKakxRLWstSEFBcnp0bnN2ZzBjeE90ZnV0NTZRWnJmaGhHc0p1T0t2dw?oc=5"
         }
       ]
     },
     {
-      "id": "340cbd1b96c5",
-      "title": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter - Reformatorisch Dagblad",
-      "published": "2026-07-31T10:51:14+00:00",
-      "summary": "Onderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek toont aan dat long covid en ME/CVS spieren beschadigen&nbsp;&nbsp;NOSOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;Nederlands DagbladLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nb",
+      "id": "aea620a70c94",
+      "title": "Waarom mag er voor long covid en ME/CVS geen psychische verklaring bestaan? - Wynia's Week",
+      "published": "2026-08-01T03:58:05+00:00",
+      "summary": "Waarom mag er voor long covid en ME/CVS geen psychische verklaring bestaan?&nbsp;&nbsp;Wynia's WeekOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantOnderzoek VU: Meer beweging maakt longcovidpatiënten niet beter&nbsp;&nbsp;Reformatorisch DagbladOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te maken met hun slechte conditie&nbsp;&nbsp;Nederlands DagbladLong covid en ME/CVS tasten spieren aan, maar niet alleen door i",
       "sources": [
         {
-          "name": "Reformatorisch Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa18xV0ozUjZSYkdoeklBVzRPUk12RF8wUnZKbFhFTzJNcFpjbFBZTHBwazNYaHk4d3ZFcFJYVnlmYVVTMURPMGFLMmJ6TzhJdmQxYm1rQTgyZmZraE5iZVBCTmdPZy1hRDY4R0w1c2d6VV9Ba29kV2VHTFM5d2RBVkVnNWptUk5OeHFadGV5NWlqUEE2?oc=5"
+          "name": "Wynia's Week",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHlxanFzMGZCVkprcldqUFFhWDNOWG10eTNHdlM0SUZPZk5OczdmNHF1ZHVFbVczSnVDTDhUZm0wYjNmNk10a1FqcGMxUlhRcTdFRXBsZ1BKaVJQNWQ1T0tLVzVBelJibXIxd08wZXg4azNPdG0wbkRhQk0tLXk3Q0R1UVRUbVpYMnBXVGUwdHNIX0F5Q3FhaWhKRlo0cm5kVHF3?oc=5"
         }
       ]
     },
     {
-      "id": "07d978b34e7a",
-      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - nieuwsblad.be",
+      "id": "8acc4616380f",
+      "title": "Britse vrouw lag 42 dagen in coma na tekenbeet op vakantie in Griekenland - RTL.nl",
+      "published": "2026-08-01T08:11:46+00:00",
+      "summary": "Britse vrouw lag 42 dagen in coma na tekenbeet op vakantie in Griekenland&nbsp;&nbsp;RTL.nlOp reis in Europa? Let ook op deze tekenziekte&nbsp;&nbsp;AVROTROS RadarExperts waarschuwen voor risico op nieuwe ziekte na tekenbeet&nbsp;&nbsp;Oosterhout.nieuws.nlBelgische vakantiegangers gewaarschuwd: deze tekenziekte kan hersenontsteking veroorzaken&nbsp;&nbsp;Nieuws365",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0dacFUteEswbTFRZWt5N1lCb2t1ZHRGNnNmVTlJSi00b0poQU1MLWFlTkFXYzQ0NGc4TS0xMUlWbUNPY1F0RlZwMXpwUmdHbVFlWXhJS1FGNFd3S016ZHF6ZW5pUGczWWM5WVhlc21Ga09pYXo2U3ZrejFDU2t5YnVsbFhnNEE3SkxvaFFsOW1vTU0tVlVucFR5a1JEcmhNQUxLbHRPeWVSUzJO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35494505cd9d",
+      "title": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-07-31T14:39:01+00:00",
+      "summary": "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak Congo op een na grootste ooit geregistreerd&nbsp;&nbsp;Haarlems DagbladOngeziene ebola-uitbraak in Congo, met meer dan 3.500 gevallen&nbsp;&nbsp;hln.beEbola : Meer dan 1.500 doden bij ebola-uitbraak in Congo&nbsp;&nbsp;MediQualityEbola eist meer dan 1500 levens in Democratische Republiek Congo&nbsp;&nbsp;L",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkEybmpKNThraUZVNFZmbmg0WkFCUnNuVFBMRmExc1R6dlJCZFdtS0hQUXVTd2pBYlR0Z0llT29reEZ4OGFORENYZXJYRy1JdmpLdDZXWHpmc1lfcC1GZnlPaU02V05vSDZYZlRtek1tcEE5aEVubmJ1T0pSWUFIQkN5X3lBanRPdEExMlZNUzI0eUhrcVNfQUpMcG5UYnYyVnFvWXhTVndVTmw4OFVDYkxuLXhjdGQycWJ6YlB5MVNKLVNaeUN0VjduXzFGUzEzYWhvREgwZU9CYm5kMC16aVVuRlBIRElycEs4dnJGMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "489eaf123b17",
+      "title": "Impulsaankopen op sociale media? Dit gebeurt al scrollend met je brein - Omroep Brabant",
+      "published": "2026-08-01T07:06:44+00:00",
+      "summary": "Impulsaankopen op sociale media? Dit gebeurt al scrollend met je brein&nbsp;&nbsp;Omroep BrabantKun jij niet stoppen met scrollen? Onderzoekers zien opvallend effect bij jongens&nbsp;&nbsp;Kek Mama",
+      "sources": [
+        {
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0V2SEVYT0ZFWF94RTJhY3RkSk45ZFJveS00NWtVTl9ZZVRpTGRLMkowVi1qakhEdHl3dHpfeVM0RnViT0tsVjlMVER6am9uOF9YUk11aHQ2V1k3QlBGZE9aak1mNnc1VkFBakpWXzNFeG9YWWlRQlgyRmJEaWRWZ3hUbWRVa3ZEbk1qWlJNVWFSckdHdnBIMTloRkd0NU5FQmRrNzZHdk1ZdktuOVR0T3hhMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5735270f7e8",
+      "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
       "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;nieuwsblad.beLongkanker treft steeds meer vrouwen en niet-rokers&nbsp;&nbsp;nieuwsblad.beOpvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;GVAMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityAantal longkankers blijft stijgen, vooral bij vrouw",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladLongkanker treft steeds meer vrouwen en niet-rokers, Conny (63) kreeg ziekte zelfs 3 keer&nbsp;&nbsp;VRTOpvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;GVAMeer dan 78.000 nieuwe kankerdiagnoses in 2024 in België&nbsp;&nbsp;MediQualityLongkanker treft steeds me",
       "sources": [
         {
-          "name": "nieuwsblad.be",
+          "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGxMSjBqTlZDa0VHSU5NbjhfSm1ENExQVTUyVF9OVFJuSFZmSlk2aVdycDgyeHJQVDVjN0hzcThPVWRaT041Rzh6OGFoNDJuQktGUTdSekZ3Zy1jWWxMZE04eVYxVTd6eDlJWUN4bkVxNTBDQmtJcnNINnVHcTZZVDU1ZUNQM2M3ZElqSTNjSzIxT3lDaGtBOFhuWWZCZEdWQm5hWjRBRXc1MFd5U1pud3Ryb0JrZEpxOUtnVFBKTjlrTmdJRDQtQWtGLTJtME1GbkJOSGRVbVRDVlc1bW1GMEhOVElUVzVfaXhoWFpORktRU012RkhGQXAxcF9kZHc?oc=5"
         }
       ]
@@ -52,26 +88,26 @@
       ]
     },
     {
-      "id": "6a0a3c1c7699",
-      "title": "Helft van alle mondkankers wordt pas ontdekt als de kanker al vergevorderd is: kan nieuwe test daar verandering in brengen? - hln.be",
-      "published": "2026-07-30T07:51:54+00:00",
-      "summary": "Helft van alle mondkankers wordt pas ontdekt als de kanker al vergevorderd is: kan nieuwe test daar verandering in brengen?&nbsp;&nbsp;hln.be",
+      "id": "00efa393e846",
+      "title": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval” - hln.be",
+      "published": "2026-07-31T08:33:38+00:00",
+      "summary": "Antwerpse onderzoekers ontdekken waarom helft beroertepatiënten niet volledig herstelt: “Zoals een weg na zware sneeuwval”&nbsp;&nbsp;hln.be",
       "sources": [
         {
           "name": "hln.be",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONXFFUDRERkJVYWttRGJCODhTTGVOX0lnOWVMOFA3elFaUTNydE9ONFVUd3RhZTFVVHo0Y0pONXMzSlVIMWpnNjlTeVdJdEJPaHNXbTl5ZnpUYmJ1eHF5WVN3VWdTcHB5VW9OTUY1dmx4aHdnR0RvZG9NWV8ybkctX19oTnJsLThlazhDTHl4bGZnSzZ2ZXhocDJsMTVuYzBKVF9wWVlud0ttT2NtU0lrUXVNU2RNbXdZM0NnSXducUU0dlBwelhTWk9Ya3NIaVJhNGktZHMta19iQTdSWkh5Ny0xbERZUkNyckNHQXlBRXpDa2FD?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdTlBX1FkWmZpQk1mcUxvMXYzdUV1Z2xRYk4xM0ItQmk2TUN0ejgxSFlDN2hSWmQ1RTUwS1ZidGhvTk1SODBYN19FdFhRZWJLWllHY1BkNEZWR3ItZzRsUjNiV2lQWnNZTnpEd21QV01YRDVSRUlKZDFxcTFWWnROLXhUVXNBeld2MzRkajR5RGJfcGlyOW10M09qTXNBWGxRU3dESVpQcXFkTWZpQURpc0tscnlzclNQZDhkR3FTLW9ZVUxFajlxQVpjT25HbWpiOGhmS3psMTFOUV9OdHoyQXk0bHpoYVJLNG43Q1Ffbw?oc=5"
         }
       ]
     },
     {
-      "id": "2544dcd826ee",
-      "title": "Specialiste Caren Randon over de bloedvaten: ‘Als je stopt met roken, duurt het minimaal tien jaar voor je bloedvaten weer zoals voorheen zijn’ - De Morgen",
-      "published": "2026-07-30T08:00:00+00:00",
-      "summary": "Specialiste Caren Randon over de bloedvaten: ‘Als je stopt met roken, duurt het minimaal tien jaar voor je bloedvaten weer zoals voorheen zijn’&nbsp;&nbsp;De Morgen",
+      "id": "ab66d811cb7f",
+      "title": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen - hln.be",
+      "published": "2026-07-31T05:01:17+00:00",
+      "summary": "Diabetes type 2 treft steeds vaker deze leeftijdsgroep: arts geeft 5 tips om je risico te verlagen&nbsp;&nbsp;hln.be",
       "sources": [
         {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU3BvMWtzTkd3TXVta0piZEpZSF8zNllHQVpmMmtkMUJGUjlHTnM0eU9LUzVmRHp4czVBM1BNWU5hdVBUcWpWVG5qd0xjcnZNWVA4YnQtUlhVUjhnSldZR2t4X0ZvaUlvTU92eVFwNDFqdmd0SGlDazhPZ1JWWVk2SklZZUlmdktSelFGRHpHcGkySGlSUHlmMFY4TlBGTGxEM3J6clN3ZHhFT0ZnclJKakdBRFAwdFV6aWpoTFNnMHFVc3RhZWRxTnFtMkVpekt5ajNzSUUyNTlPT0RKX1lyTGpwV1BYcXRQRndyRnlJVTZfc0xTS0h0a1dqaE1YeFdfdTNPdGhlam14RUFuQm5WT0tvam8?oc=5"
+          "name": "hln.be",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0NjdEhSY1h3YzdPTGw0VnJGWkJFOTJHX1lzTExhZGpPMUx3UmotWXdRcG5NelNWTG1WSGlkTVYxajlFSV82NUNhUEllc19BSldKcFJsWHo5SVZEZlpyR0V6QzBUTUZpbWtiUWpwZWtTS01PVlBxLS1iQUhHUTRGRXEwbWlVLXFiR254dHNpbllfR2hkNFpsLU9Pc2xmTWZwRWMwc01BYTBVY2d4d3REamQ5Tk1mcE1ETk1NQXM0akl1ak5hQnBNTE1Tc0lsRUgzXy04?oc=5"
         }
       ]
     }

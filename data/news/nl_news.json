@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-02T02:27:31.877286+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-02T08:16:55.115831+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "6a45e3516319",
+      "title": "WHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe - nu.nl",
+      "published": "2026-08-01T17:16:51+00:00",
+      "summary": "WHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;nu.nl1/8 in Nieuwsuur: Ebola-uitbraak groeit door • Zorgen over de AI-bril • Hoop op grote grazers&nbsp;&nbsp;NOSEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak Congo op een na grootste ooit geregistreerd&nbsp;&nbsp;haarlemsdagblad.nlOngeziene ebola-uitbraak in Cong",
+      "sources": [
+        {
+          "name": "nu.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVJaWEtKZUw3Zkt2MWphemtYMmdEaC1KMUh2WlBmWTNJODQzRnd4aktRMnRXUXl0MVNXUXhrMzdtaHd6QURQY1hfODd2ZTBrSmJla01FQ3FvWmZ6ZlJobFlkM2dRS0xhQWFWRlkyNTZPU3BkTl8zLUU4T05NcHN3Qmxha3VkZmVrUmFJVlMxZWtNSFVpYTd1WlJBc2EzUmlqZmFfcnFZeF82ZTZUQ0Q1WC1HUlpYdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "d5735270f7e8",
       "title": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks” - Nieuwsblad",
       "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladLongkanker treft steeds meer vrouwen en niet-rokers, Conny (63) kreeg ziekte zelfs 3 keer&nbsp;&nbsp;VRT1 augustus 2026&nbsp;&nbsp;L1Opvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;GVADoe mee aan onze actie op social media: Laat je longen zien op Wereld Longka",
+      "summary": "Opvallend meer vrouwen die niet roken krijgen longkanker, net als Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;NieuwsbladLongkanker treft steeds meer vrouwen en niet-rokers, Conny (63) kreeg ziekte zelfs 3 keer&nbsp;&nbsp;VRT1 augustus 2026&nbsp;&nbsp;L1Opvallend meer vrouwen die niet roken krijgen kanker, net als Antwerpse Tamara (55): “Ik leefde gezond en sportte bijna dagelijks”&nbsp;&nbsp;gva.beDoe mee aan onze actie op social media: Laat je longen zien op Wereld Lon",
       "sources": [
         {
           "name": "Nieuwsblad",
@@ -43,7 +55,7 @@
       "id": "489eaf123b17",
       "title": "Impulsaankopen op sociale media? Dit gebeurt al scrollend met je brein - Omroep Brabant",
       "published": "2026-08-01T07:06:44+00:00",
-      "summary": "Impulsaankopen op sociale media? Dit gebeurt al scrollend met je brein&nbsp;&nbsp;Omroep BrabantKun jij niet stoppen met scrollen? Onderzoekers zien opvallend effect bij jongens&nbsp;&nbsp;Kek Mama",
+      "summary": "Impulsaankopen op sociale media? Dit gebeurt al scrollend met je brein&nbsp;&nbsp;Omroep BrabantKun jij niet stoppen met scrollen? Onderzoekers zien opvallend effect bij jongens&nbsp;&nbsp;kekmama.nl",
       "sources": [
         {
           "name": "Omroep Brabant",

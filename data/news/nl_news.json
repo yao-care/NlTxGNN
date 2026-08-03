@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-02T19:04:03.928747+00:00",
+  "fetched_at": "2026-08-03T02:29:46.816020+00:00",
   "count": 6,
   "news": [
     {
-      "id": "5c68b4aed36f",
-      "title": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje' - NU",
-      "published": "2026-08-02T08:29:12+00:00",
-      "summary": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje'&nbsp;&nbsp;NUOp sociale media bejubelde afslankprik triggert eetstoornissen: 'Is geen quick fix'&nbsp;&nbsp;NUTerwijl de experts alarm slaan over afslankmedicatie, wordt deze rage met risico’s alom bejubeld&nbsp;&nbsp;de VolkskrantHype rond afslankprikken triggert eetstoornissen: ‘Dieetcultuur in medisch jasje’&nbsp;&nbsp;nu.CWAfslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klini",
+      "id": "9fc5348bc320",
+      "title": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit - Tubantia",
+      "published": "2026-08-02T11:38:00+00:00",
+      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;Tubantia1/8 in Nieuwsuur: Ebola-uitbraak groeit door • Zorgen over de AI-bril • Hoop op grote grazers&nbsp;&nbsp;NOS‘Ik zou dolgraag met een epidemioloog naar kleine dorpen gaan, maar dat is vaak te onveilig’&nbsp;&nbsp;de VolkskrantEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjou",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1gtOUs0S0RIZDhBdEZCVlVIR2hKMFYxSUVVUVNaeGZNbVBxQkY2U2J0WVRqcnJCRGpWQ0lQX0YtTXJObDk0bEpzYnJkNFJxOUZvTXdtM1lHV0M0UGxldl9VSl9DNWllMzVQaDN2WEluMzJ1RDBvR0lMeW9zZU1lTlhRTVRwWlBxRHc5UlZXWEJfeno3cDgtdFJOV1BvdXhjT3g3bDJDSzhVV1JTaGRrbVItRVVlVXpqZEg0UA?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenZja0xQSkRXeTQzOUdrWUFwSjdDT0FBZnVfZU5KRk9udktBSTItR18tTTRYNTFCR2lSaUxXWGpxWFpTN1FtWngwUGcwR0xQYUxxUDZ6Zk5MTEQ1ZHhXbk5mRlpmQlNKbW4zTzNfNGxKU1RNX0R0a19LQVJmVTlUY24zWkxmTGNWRlNlZTlNQ2xMOXV1UlFMN0tqal9FbkF5Y3RoMGZxeW14ZTMyRVV1OVU3eUV3SlNSNEhOX1lUbk9sSWZMbjhN?oc=5"
         }
       ]
     },
@@ -24,6 +24,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2N3QzJEd1FwVjNxWHd4QzQtMEE2eHcxLTkzNzh1YWdqNE9MWkdCRUppUTcySEhEODFTX1NOR2lDc3JfTnBkd0hDaEdLMS1CLV9XMnlGTy1yRFZOem42U0JlZmhuLWVYVUNUTTl2YlUtb1BZbXdCbkZWeDQ3NERYTmVWVTdsV3ZFWVkxR0s5MHRBbjk0LUdwU3JjZ3RNMTFSSWdnb1ozLUoteFpaQWVkaS1DUHVnbTJIaHlndngwMEwycU9pV0F5YkwxUFR3QzZXdDMzV2hfNWowd0JtTW1jQl9FWXExeWpJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c68b4aed36f",
+      "title": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje' - NU",
+      "published": "2026-08-02T08:29:12+00:00",
+      "summary": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje'&nbsp;&nbsp;NUOp sociale media bejubelde afslankprik triggert eetstoornissen: 'Is geen quick fix'&nbsp;&nbsp;NUTerwijl de experts alarm slaan over afslankmedicatie, wordt deze rage met risico’s alom bejubeld&nbsp;&nbsp;de VolkskrantHype rond afslankprikken triggert eetstoornissen: ‘Dieetcultuur in medisch jasje’&nbsp;&nbsp;nu.CWAfslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klini",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1gtOUs0S0RIZDhBdEZCVlVIR2hKMFYxSUVVUVNaeGZNbVBxQkY2U2J0WVRqcnJCRGpWQ0lQX0YtTXJObDk0bEpzYnJkNFJxOUZvTXdtM1lHV0M0UGxldl9VSl9DNWllMzVQaDN2WEluMzJ1RDBvR0lMeW9zZU1lTlhRTVRwWlBxRHc5UlZXWEJfeno3cDgtdFJOV1BvdXhjT3g3bDJDSzhVV1JTaGRrbVItRVVlVXpqZEg0UA?oc=5"
         }
       ]
     },
@@ -43,23 +55,11 @@
       "id": "8acc4616380f",
       "title": "Britse vrouw lag 42 dagen in coma na tekenbeet op vakantie in Griekenland - RTL.nl",
       "published": "2026-08-01T08:11:46+00:00",
-      "summary": "Britse vrouw lag 42 dagen in coma na tekenbeet op vakantie in Griekenland&nbsp;&nbsp;RTL.nlOp reis in Europa? Let ook op deze tekenziekte&nbsp;&nbsp;AVROTROS RadarExperts waarschuwen voor risico op nieuwe ziekte na tekenbeet&nbsp;&nbsp;Oosterhout.nieuws.nlBelgische vakantiegangers gewaarschuwd: deze tekenziekte kan hersenontsteking veroorzaken&nbsp;&nbsp;Nieuws365",
+      "summary": "Britse vrouw lag 42 dagen in coma na tekenbeet op vakantie in Griekenland&nbsp;&nbsp;RTL.nlOp reis in Europa? Let ook op deze tekenziekte&nbsp;&nbsp;AVROTROS RadarExperts waarschuwen voor risico op nieuwe ziekte na tekenbeet&nbsp;&nbsp;Oosterhout.nieuws.nl",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0dacFUteEswbTFRZWt5N1lCb2t1ZHRGNnNmVTlJSi00b0poQU1MLWFlTkFXYzQ0NGc4TS0xMUlWbUNPY1F0RlZwMXpwUmdHbVFlWXhJS1FGNFd3S016ZHF6ZW5pUGczWWM5WVhlc21Ga09pYXo2U3ZrejFDU2t5YnVsbFhnNEE3SkxvaFFsOW1vTU0tVlVucFR5a1JEcmhNQUxLbHRPeWVSUzJO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9307cdc75a1a",
-      "title": "Onderzoek: niet eten voor het slapengaan is goed voor je brein - bnr.nl",
-      "published": "2026-08-01T12:03:30+00:00",
-      "summary": "Onderzoek: niet eten voor het slapengaan is goed voor je brein&nbsp;&nbsp;bnr.nlIntermittent fasting toch nuttig? Het vertraagt mogelijk cognitieve achteruitgang bij ouderen&nbsp;&nbsp;Scientias.nlEten binnen een tijdsvenster van 8 uur helpt het geheugen op peil te houden op oudere leeftijd.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1ZqTTlhSm1BRDRqcnBkV1FMYlJjeEQ2dTMtd215RGRUQUNCMU5XOXItM3E2dk9Jd1d6TFE0Mm1xVUdIZHZQalZyN2kyWEVpcmFsWVBxTjhBb0RISkNXTXB2YW9vZDlfU29kYnpNZ01BRi10cEhDSGQ1aU9SWnlfazJseTlDVURRbFdTczZVTjBranhBMTUxTmxXc0pGTHFFTHJOX0lHb3YzZw?oc=5"
         }
       ]
     },

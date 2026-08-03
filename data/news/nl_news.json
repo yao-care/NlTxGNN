@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-03T09:36:26.523719+00:00",
+  "fetched_at": "2026-08-03T14:30:45.315392+00:00",
   "count": 5,
   "news": [
     {
       "id": "9fc5348bc320",
       "title": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit - Tubantia",
       "published": "2026-08-02T11:38:00+00:00",
-      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;TubantiaWHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NU1/8 in Nieuwsuur: Ebola-uitbraak groeit door • Zorgen over de AI-bril • Hoop op grote grazers&nbsp;&nbsp;NOSEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak C",
+      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;TubantiaEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NUInternationaal nieuws van 2 augustus: WHO waarschuwt voor ebola-uitbraak in Congo, blokkade van de Straat van Hormuz drijft ",
       "sources": [
         {
           "name": "Tubantia",
@@ -19,7 +19,7 @@
       "id": "5c68b4aed36f",
       "title": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje' - NU",
       "published": "2026-08-02T08:29:12+00:00",
-      "summary": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje'&nbsp;&nbsp;NUTerwijl de experts alarm slaan over afslankmedicatie, wordt deze rage met risico’s alom bejubeld&nbsp;&nbsp;de VolkskrantEerste internationale richtlijn voor zwangerschap na afslankmedicatie: stoppen zodra zwangerschap bevestigd is&nbsp;&nbsp;HLNOp sociale media bejubelde afslankprik triggert eetstoornissen: ‘Is geen quick fix’&nbsp;&nbsp;nu.cwAfslankmedicatie vormt een perverse prikkel voor mensen met",
+      "summary": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje'&nbsp;&nbsp;NUEerste internationale richtlijn voor zwangerschap na afslankmedicatie: stoppen zodra zwangerschap bevestigd is&nbsp;&nbsp;HLNAfslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klinieken&nbsp;&nbsp;TrouwTerwijl de experts alarm slaan over afslankmedicatie, wordt deze rage met risico’s alom bejubeld&nbsp;&nbsp;de VolkskrantOp sociale media bejubelde afslankprik triggert e",
       "sources": [
         {
           "name": "NU",
@@ -31,11 +31,23 @@
       "id": "9559baba55cf",
       "title": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt - AD.nl",
       "published": "2026-08-02T13:00:49+00:00",
-      "summary": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt&nbsp;&nbsp;AD.nlHoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;NOSRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUFysiotherapeuten stappen wederom naar de rechter wegens aantoo",
+      "summary": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt&nbsp;&nbsp;AD.nlRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUHoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;nos.nlRadboudumc wijkt af van zwaarste isolatie, en juist dan gaa",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2N3QzJEd1FwVjNxWHd4QzQtMEE2eHcxLTkzNzh1YWdqNE9MWkdCRUppUTcySEhEODFTX1NOR2lDc3JfTnBkd0hDaEdLMS1CLV9XMnlGTy1yRFZOem42U0JlZmhuLWVYVUNUTTl2YlUtb1BZbXdCbkZWeDQ3NERYTmVWVTdsV3ZFWVkxR0s5MHRBbjk0LUdwU3JjZ3RNMTFSSWdnb1ozLUoteFpaQWVkaS1DUHVnbTJIaHlndngwMEwycU9pV0F5YkwxUFR3QzZXdDMzV2hfNWowd0JtTW1jQl9FWXExeWpJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84571a1107a7",
+      "title": "Nog steeds te weinig aandacht voor hartproblemen bij vrouwen: cardioloog Janneke maakte daarom een theatershow - EenVandaag",
+      "published": "2026-08-03T04:03:23+00:00",
+      "summary": "Nog steeds te weinig aandacht voor hartproblemen bij vrouwen: cardioloog Janneke maakte daarom een theatershow&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQXzFBMWR1YWxnb09lRy1XZlJZR281Z1FhV1RVV1I3V213U21PSjZrQVFBemdnOVBjX3ZCZXd2bl90NU91QzZDWG9tN3ozZ2taM21rclpubGctb21ITWlabDlnRjJFUGhFbDZjZjVBVkpuLW00RWM5eGdtaTh3dXp1bVVWbl9nT3Z0S2dKbWFPQjhlQzV1c044bi1qTDNERVUzRjhEOHdhZHp6eEpiZjlLZVg1QnBhcVhHQW1qSWo4ck5LV1NqeDk2SHlFTXUzeTU1TV9kOGsyUnpuVzlIdXBZLVRjUFZleGl3RWJFa2tR?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUGoyNi12YTRrem1yQ19hazR0V2dQenZpUXZhcnlfamNxdXNFclkxcnZoa1NVc1k5cGJJSGpfXzdpZmNCNmM4dGZkTGtPTzUyLTlsa1lHem5yQnF6NjRLRmRmWERhT01HdU5zNUJ6NXpKaml0V3NId0pxMmptTUhrTlV4UEhBQ05CbVgxNGhEdVVnaWNDWVpTbjhlMVhSU2laazFzS0UzYURZcFo4UmhETm9QMzZZVDc2RG41RU1JbUwtLVpDS013NXlTWFU0ZHBhdU5VVkc0enhXSkVpd1RjaFhncngxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6035b2eb978",
-      "title": "Een kleine aanpassing in je dagelijkse wandeling kan je beschermen tegen dementie, zeggen de wetenschappers achter een nieuw onderzoek - wibnet.nl",
-      "published": "2026-08-01T20:00:07+00:00",
-      "summary": "Een kleine aanpassing in je dagelijkse wandeling kan je beschermen tegen dementie, zeggen de wetenschappers achter een nieuw onderzoek&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNzFxNzd3dWFIM1pjSXliOEgzekVPM2I5WU9ZOU9NN0JzQXBHMEVFNWh1TWhKWEpqUXFWMG02S21XUGgybXBBOWtzQkoyOC1SRFZpRVlYcU5lRWc5ZU5tLXN0TXdVVWxNVkgzWEhPeEI3cE5iMVQ3Ty1TWG9nM3BHVU10UTMyeGNNbHBlTnN0Nkl1SmtnNzZzeG9ldEdXOTRlRUNIX0t0Q1U5QnU5RW9HaDVFSzRUaWtXWjR4bTJ2dnJyZ3IzRWVCaXEzSXJSaXRsX2RPQ0RjcHVSOFZBYmNDVDdWdzdMUmZqeU1ER0tOei1rZlpw?oc=5"
         }
       ]
     }

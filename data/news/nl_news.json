@@ -1,65 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-04T08:30:41.849272+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-04T14:02:26.707684+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "3ce62b2ac640",
-      "title": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit - tubantia.nl",
-      "published": "2026-08-02T11:38:00+00:00",
-      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;tubantia.nlEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NUInternationaal nieuws van 2 augustus: WHO waarschuwt voor ebola-uitbraak in Congo, blokkade van de Straat van Hormuz drij",
+      "id": "e7cdf2331e50",
+      "title": "Dodental door ebola in Congo in korte tijd snel gestegen naar ruim 1700 - NOS",
+      "published": "2026-08-04T10:51:59+00:00",
+      "summary": "Dodental door ebola in Congo in korte tijd snel gestegen naar ruim 1700&nbsp;&nbsp;NOSEbola rukt weer op in DR Congo: ‘Wantrouwen tegen zorgpersoneel wegnemen kost tijd’&nbsp;&nbsp;Het Financieele DagbladEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOud-Hengeloër Ronald strijdt in Congo tegen dodelijkste ebola-uitbraak ooit&nbsp;&nbsp;ad.nlWHO: Ebola-uitbraak Congo ",
       "sources": [
         {
-          "name": "tubantia.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenZja0xQSkRXeTQzOUdrWUFwSjdDT0FBZnVfZU5KRk9udktBSTItR18tTTRYNTFCR2lSaUxXWGpxWFpTN1FtWngwUGcwR0xQYUxxUDZ6Zk5MTEQ1ZHhXbk5mRlpmQlNKbW4zTzNfNGxKU1RNX0R0a19LQVJmVTlUY24zWkxmTGNWRlNlZTlNQ2xMOXV1UlFMN0tqal9FbkF5Y3RoMGZxeW14ZTMyRVV1OVU3eUV3SlNSNEhOX1lUbk9sSWZMbjhN?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFV2d2t0aUttaTlXRkZiX0JXTEQ3ZWpQVjduMVZlM01NT2pnaFctdkRmbGVQUC1uVzQwSG4ybmlBaXVvcHNPMDJVYVdyNXliSzBSUURobFdBQTlOa1NHVE9PWVVFZThiRUlCTU9mYkJIaW1kSkpHMGZHZ3liamFyN3R6VzZGVzhJNnhDdndhVXJRQ3NVN1g2T3c4WVJsdWVBZU1yNA?oc=5"
         }
       ]
     },
     {
-      "id": "5c68b4aed36f",
-      "title": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje' - NU",
-      "published": "2026-08-02T08:29:12+00:00",
-      "summary": "Hype rond afslankprikken triggert eetstoornissen: 'Dieetcultuur in medisch jasje'&nbsp;&nbsp;NUEerste internationale richtlijn voor zwangerschap na afslankmedicatie: stoppen zodra zwangerschap bevestigd is&nbsp;&nbsp;HLNAfslankmedicatie vormt een perverse prikkel voor mensen met een eetstoornis, zeggen klinieken&nbsp;&nbsp;TrouwTerwijl de experts alarm slaan over afslankmedicatie, wordt deze rage met risico’s alom bejubeld&nbsp;&nbsp;de VolkskrantOp sociale media bejubelde afslankprik triggert e",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1gtOUs0S0RIZDhBdEZCVlVIR2hKMFYxSUVVUVNaeGZNbVBxQkY2U2J0WVRqcnJCRGpWQ0lQX0YtTXJObDk0bEpzYnJkNFJxOUZvTXdtM1lHV0M0UGxldl9VSl9DNWllMzVQaDN2WEluMzJ1RDBvR0lMeW9zZU1lTlhRTVRwWlBxRHc5UlZXWEJfeno3cDgtdFJOV1BvdXhjT3g3bDJDSzhVV1JTaGRrbVItRVVlVXpqZEg0UA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a073acd7cd9a",
-      "title": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’ - rtvnoord.nl",
-      "published": "2026-08-03T20:16:00+00:00",
-      "summary": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’&nbsp;&nbsp;rtvnoord.nlOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NUNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.orgOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te m",
-      "sources": [
-        {
-          "name": "rtvnoord.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVVhbEh3NXpibnhEUzd5RHlZbTBGYVo5VmcwdzVBbVpTbkEwQldJUmZDZGlQdERPY3JYZHl2QkRWcS12aUlUQ3JJTWsyTUdfOHJNRmVHTFVIY05PRHFxdVNiSVZoRHJJSWlHNUdueUE4dDNSaEpCd1RTTmdYR2xaSkVvSjJuRG1RMDRGcnp6bEhPZW56cHc1NHlqSDZKSEVaaU9sTDQ2SGk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec718e1cd5d7",
-      "title": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt - ad.nl",
-      "published": "2026-08-02T13:00:49+00:00",
-      "summary": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt&nbsp;&nbsp;ad.nlRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUHoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;gelderlander.nlQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;NOSNaleven van wet- en regelgeving kost de zorgsector jaarlijks t",
-      "sources": [
-        {
-          "name": "ad.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2N3QzJEd1FwVjNxWHd4QzQtMEE2eHcxLTkzNzh1YWdqNE9MWkdCRUppUTcySEhEODFTX1NOR2lDc3JfTnBkd0hDaEdLMS1CLV9XMnlGTy1yRFZOem42U0JlZmhuLWVYVUNUTTl2YlUtb1BZbXdCbkZWeDQ3NERYTmVWVTdsV3ZFWVkxR0s5MHRBbjk0LUdwU3JjZ3RNMTFSSWdnb1ozLUoteFpaQWVkaS1DUHVnbTJIaHlndngwMEwycU9pV0F5YkwxUFR3QzZXdDMzV2hfNWowd0JtTW1jQl9FWXExeWpJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84e189458339",
-      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan' - EenVandaag",
-      "published": "2026-08-03T17:15:16+00:00",
-      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaag",
+      "id": "c05c93c795fc",
+      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan' - EenVandaag",
+      "published": "2026-08-04T07:51:37+00:00",
+      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaagHoogleraar over kenniskloof in vrouwengezondheid: 'Er is vaak tegen vrouwen gezegd: niet zeuren'&nbsp;&nbsp;Omroep Gelderland",
       "sources": [
         {
           "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUJjMGdkVkU4UkNWTXVaTF9YZVJoT1RqdEtSY1hUNldGMW1NYlhCSVpvWGc3WmhfZEhoZkNPWThhSVZ3dmpyd1dMbXZjN3RVWVpkMHViZmNRVVRnRUt3eGhPWFotb3ZMYXJFQjdIQU9qcjVFTzlITW9LVjBCdExtN1ZwT2JoaHRkdTFUbExZWXVSRU55WjM3dWQwWEo5WWJBN2U2UVg4a3NkNEtLbElVR2VrclEzdmliSFo1LWNIN0c5NVU1UkxqdzhVOHhmcFI2dEFoU3ctSXk0aWIxTXpCYjh0dmV3MUl2VXZoM0NmamNjdjRs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRG1XMzB0enN1UFROSDRhQUIwdHVTS2VKbWhobkFHa3pyQ2s3czJ5NjhDcjhJbDgxbThLWm8xYXpPRWxLT1EzRFMtWXE1dTRrZU9QX3B6MHBxRV9TMmJoRWtGSzBtVDJBU285OHF6WWdYM1A1LUd1UGxNcHVfQWM4c1lJTUFWMWtZWjJXTDdMMmthbklEVmZmRWozeG5mbGZ0dElxRzF0R0U4YllxUTNpWVk5R2tlaEFBdWZXVXZ5ejZCcUwzcm96WTctdGpCaHFJOHUxa2pHajdiMFllaEZFWmFkTG1SUUlMdWFaNXN6R00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dda403727d20",
+      "title": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’ - RTV Noord",
+      "published": "2026-08-03T20:16:00+00:00",
+      "summary": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’&nbsp;&nbsp;RTV NoordOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NUNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.orgOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te mak",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVVhbEh3NXpibnhEUzd5RHlZbTBGYVo5VmcwdzVBbVpTbkEwQldJUmZDZGlQdERPY3JYZHl2QkRWcS12aUlUQ3JJTWsyTUdfOHJNRmVHTFVIY05PRHFxdVNiSVZoRHJJSWlHNUdueUE4dDNSaEpCd1RTTmdYR2xaSkVvSjJuRG1RMDRGcnp6bEhPZW56cHc1NHlqSDZKSEVaaU9sTDQ2SGk?oc=5"
         }
       ]
     },
@@ -76,14 +52,14 @@
       ]
     },
     {
-      "id": "58901c0e6b7b",
-      "title": "Op de operatietafel naar je favoriete muziek luisteren vermindert pijn en stress. In het ErasmusMC kan het - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-02T13:00:00+00:00",
-      "summary": "Op de operatietafel naar je favoriete muziek luisteren vermindert pijn en stress. In het ErasmusMC kan het&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "id": "84e189458339",
+      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan' - EenVandaag",
+      "published": "2026-08-03T17:15:16+00:00",
+      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUGoyNi12YTRrem1yQ19hazR0V2dQenZpUXZhcnlfamNxdXNFclkxcnZoa1NVc1k5cGJJSGpfXzdpZmNCNmM4dGZkTGtPTzUyLTlsa1lHem5yQnF6NjRLRmRmWERhT01HdU5zNUJ6NXpKaml0V3NId0pxMmptTUhrTlV4UEhBQ05CbVgxNGhEdVVnaWNDWVpTbjhlMVhSU2laazFzS0UzYURZcFo4UmhETm9QMzZZVDc2RG41RU1JbUwtLVpDS013NXlTWFU0ZHBhdU5VVkc0enhXSkVpd1RjaFhncngxUQ?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUJjMGdkVkU4UkNWTXVaTF9YZVJoT1RqdEtSY1hUNldGMW1NYlhCSVpvWGc3WmhfZEhoZkNPWThhSVZ3dmpyd1dMbXZjN3RVWVpkMHViZmNRVVRnRUt3eGhPWFotb3ZMYXJFQjdIQU9qcjVFTzlITW9LVjBCdExtN1ZwT2JoaHRkdTFUbExZWXVSRU55WjM3dWQwWEo5WWJBN2U2UVg4a3NkNEtLbElVR2VrclEzdmliSFo1LWNIN0c5NVU1UkxqdzhVOHhmcFI2dEFoU3ctSXk0aWIxTXpCYjh0dmV3MUl2VXZoM0NmamNjdjRs?oc=5"
         }
       ]
     }

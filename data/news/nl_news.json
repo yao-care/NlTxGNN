@@ -1,28 +1,16 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-04T02:09:34.998714+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-04T08:30:41.849272+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "84e189458339",
-      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan' - EenVandaag",
-      "published": "2026-08-03T17:15:16+00:00",
-      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUJjMGdkVkU4UkNWTXVaTF9YZVJoT1RqdEtSY1hUNldGMW1NYlhCSVpvWGc3WmhfZEhoZkNPWThhSVZ3dmpyd1dMbXZjN3RVWVpkMHViZmNRVVRnRUt3eGhPWFotb3ZMYXJFQjdIQU9qcjVFTzlITW9LVjBCdExtN1ZwT2JoaHRkdTFUbExZWXVSRU55WjM3dWQwWEo5WWJBN2U2UVg4a3NkNEtLbElVR2VrclEzdmliSFo1LWNIN0c5NVU1UkxqdzhVOHhmcFI2dEFoU3ctSXk0aWIxTXpCYjh0dmV3MUl2VXZoM0NmamNjdjRs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fc5348bc320",
-      "title": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit - Tubantia",
+      "id": "3ce62b2ac640",
+      "title": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit - tubantia.nl",
       "published": "2026-08-02T11:38:00+00:00",
-      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;TubantiaEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NUInternationaal nieuws van 2 augustus: WHO waarschuwt voor ebola-uitbraak in Congo, blokkade van de Straat van Hormuz drijft ",
+      "summary": "Oud-Hengeloër Ronald strijdt in Congo tegen ebola, dat zich sneller verspreidt dan ooit&nbsp;&nbsp;tubantia.nlEbola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe&nbsp;&nbsp;NUInternationaal nieuws van 2 augustus: WHO waarschuwt voor ebola-uitbraak in Congo, blokkade van de Straat van Hormuz drij",
       "sources": [
         {
-          "name": "Tubantia",
+          "name": "tubantia.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenZja0xQSkRXeTQzOUdrWUFwSjdDT0FBZnVfZU5KRk9udktBSTItR18tTTRYNTFCR2lSaUxXWGpxWFpTN1FtWngwUGcwR0xQYUxxUDZ6Zk5MTEQ1ZHhXbk5mRlpmQlNKbW4zTzNfNGxKU1RNX0R0a19LQVJmVTlUY24zWkxmTGNWRlNlZTlNQ2xMOXV1UlFMN0tqal9FbkF5Y3RoMGZxeW14ZTMyRVV1OVU3eUV3SlNSNEhOX1lUbk9sSWZMbjhN?oc=5"
         }
       ]
@@ -40,14 +28,38 @@
       ]
     },
     {
-      "id": "9559baba55cf",
-      "title": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt - AD.nl",
-      "published": "2026-08-02T13:00:49+00:00",
-      "summary": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt&nbsp;&nbsp;AD.nlRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUHoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;De GelderlanderQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;NOSMet de toegenomen levensverwachting neemt ook het aantal leven",
+      "id": "a073acd7cd9a",
+      "title": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’ - rtvnoord.nl",
+      "published": "2026-08-03T20:16:00+00:00",
+      "summary": "Zes jaar ziek en eindelijk een verklaring: 'Het ligt echt niet aan mij’&nbsp;&nbsp;rtvnoord.nlOpinie: De wetenschap loopt altijd achter – de patiënt mag daar niet de prijs voor betalen&nbsp;&nbsp;de VolkskrantLong covid en ME/CVS tasten spieren aan, maar niet alleen door inactiviteit&nbsp;&nbsp;NUNieuw onderzoek: spierproblemen bij post-covid en ME/CVS zijn niet te verklaren door langdurige inactiviteit&nbsp;&nbsp;amsterdamumc.orgOnderzoek wijst uit: klachten postcovidpatiënten hebben niets te m",
       "sources": [
         {
-          "name": "AD.nl",
+          "name": "rtvnoord.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVVhbEh3NXpibnhEUzd5RHlZbTBGYVo5VmcwdzVBbVpTbkEwQldJUmZDZGlQdERPY3JYZHl2QkRWcS12aUlUQ3JJTWsyTUdfOHJNRmVHTFVIY05PRHFxdVNiSVZoRHJJSWlHNUdueUE4dDNSaEpCd1RTTmdYR2xaSkVvSjJuRG1RMDRGcnp6bEhPZW56cHc1NHlqSDZKSEVaaU9sTDQ2SGk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec718e1cd5d7",
+      "title": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt - ad.nl",
+      "published": "2026-08-02T13:00:49+00:00",
+      "summary": "Twijfelende verpleegkundigen, besmet buisje bloed en ongelezen mail: zo liep het fout bij opname van de hantapatiënt&nbsp;&nbsp;ad.nlRadboudumc door miscommunicatie en 'druk uit overleg' in de fout met hantavirus&nbsp;&nbsp;NUHoogleraar over fouten in Radboudumc rond ‘hanta-affaire’: ‘Mensen hebben hun stinkende best gedaan’&nbsp;&nbsp;gelderlander.nlQuarantaine wegens hantavirus in Radboudumc had vermeden kunnen worden&nbsp;&nbsp;NOSNaleven van wet- en regelgeving kost de zorgsector jaarlijks t",
+      "sources": [
+        {
+          "name": "ad.nl",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2N3QzJEd1FwVjNxWHd4QzQtMEE2eHcxLTkzNzh1YWdqNE9MWkdCRUppUTcySEhEODFTX1NOR2lDc3JfTnBkd0hDaEdLMS1CLV9XMnlGTy1yRFZOem42U0JlZmhuLWVYVUNUTTl2YlUtb1BZbXdCbkZWeDQ3NERYTmVWVTdsV3ZFWVkxR0s5MHRBbjk0LUdwU3JjZ3RNMTFSSWdnb1ozLUoteFpaQWVkaS1DUHVnbTJIaHlndngwMEwycU9pV0F5YkwxUFR3QzZXdDMzV2hfNWowd0JtTW1jQl9FWXExeWpJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84e189458339",
+      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan' - EenVandaag",
+      "published": "2026-08-03T17:15:16+00:00",
+      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUJjMGdkVkU4UkNWTXVaTF9YZVJoT1RqdEtSY1hUNldGMW1NYlhCSVpvWGc3WmhfZEhoZkNPWThhSVZ3dmpyd1dMbXZjN3RVWVpkMHViZmNRVVRnRUt3eGhPWFotb3ZMYXJFQjdIQU9qcjVFTzlITW9LVjBCdExtN1ZwT2JoaHRkdTFUbExZWXVSRU55WjM3dWQwWEo5WWJBN2U2UVg4a3NkNEtLbElVR2VrclEzdmliSFo1LWNIN0c5NVU1UkxqdzhVOHhmcFI2dEFoU3ctSXk0aWIxTXpCYjh0dmV3MUl2VXZoM0NmamNjdjRs?oc=5"
         }
       ]
     },

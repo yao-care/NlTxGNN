@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-05T13:59:56.391238+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-05T19:24:15.296842+00:00",
+  "count": 4,
   "news": [
-    {
-      "id": "c05c93c795fc",
-      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan' - EenVandaag",
-      "published": "2026-08-04T07:51:37+00:00",
-      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaagMedisch onderzoek naar vrouwen loopt nog altijd achter: ‘We moeten hun gezondheid verbeteren en beschermen’&nbsp;&nbsp;Omroep Gelderland",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRG1XMzB0enN1UFROSDRhQUIwdHVTS2VKbWhobkFHa3pyQ2s3czJ5NjhDcjhJbDgxbThLWm8xYXpPRWxLT1EzRFMtWXE1dTRrZU9QX3B6MHBxRV9TMmJoRWtGSzBtVDJBU285OHF6WWdYM1A1LUd1UGxNcHVfQWM4c1lJTUFWMWtZWjJXTDdMMmthbklEVmZmRWozeG5mbGZ0dElxRzF0R0U4YllxUTNpWVk5R2tlaEFBdWZXVXZ5ejZCcUwzcm96WTctdGpCaHFJOHUxa2pHajdiMFllaEZFWmFkTG1SUUlMdWFaNXN6R00?oc=5"
-        }
-      ]
-    },
     {
       "id": "e7cdf2331e50",
       "title": "Dodental door ebola in Congo in korte tijd snel gestegen naar ruim 1700 - NOS",
@@ -24,6 +12,18 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFV2d2t0aUttaTlXRkZiX0JXTEQ3ZWpQVjduMVZlM01NT2pnaFctdkRmbGVQUC1uVzQwSG4ybmlBaXVvcHNPMDJVYVdyNXliSzBSUURobFdBQTlOa1NHVE9PWVVFZThiRUlCTU9mYkJIaW1kSkpHMGZHZ3liamFyN3R6VzZGVzhJNnhDdndhVXJRQ3NVN1g2T3c4WVJsdWVBZU1yNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c05c93c795fc",
+      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan' - EenVandaag",
+      "published": "2026-08-04T07:51:37+00:00",
+      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen verbetering: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaagMedisch onderzoek naar vrouwen loopt nog altijd achter: ‘We moeten hun gezondheid verbeteren en beschermen’&nbsp;&nbsp;gld.nl",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRG1XMzB0enN1UFROSDRhQUIwdHVTS2VKbWhobkFHa3pyQ2s3czJ5NjhDcjhJbDgxbThLWm8xYXpPRWxLT1EzRFMtWXE1dTRrZU9QX3B6MHBxRV9TMmJoRWtGSzBtVDJBU285OHF6WWdYM1A1LUd1UGxNcHVfQWM4c1lJTUFWMWtZWjJXTDdMMmthbklEVmZmRWozeG5mbGZ0dElxRzF0R0U4YllxUTNpWVk5R2tlaEFBdWZXVXZ5ejZCcUwzcm96WTctdGpCaHFJOHUxa2pHajdiMFllaEZFWmFkTG1SUUlMdWFaNXN6R00?oc=5"
         }
       ]
     },
@@ -40,26 +40,14 @@
       ]
     },
     {
-      "id": "f3c43d48718d",
-      "title": "Nieuw onderzoek onthult geheim achter ongelooflijke Chinese rotsschilderingen - historianet.nl",
-      "published": "2026-08-03T18:30:32+00:00",
-      "summary": "Nieuw onderzoek onthult geheim achter ongelooflijke Chinese rotsschilderingen&nbsp;&nbsp;historianet.nl",
+      "id": "16b3c882a9c9",
+      "title": "Ernstige bijwerkingen HPV-vaccinatie buiten beeld gehouden - deanderekrant.nl",
+      "published": "2026-08-05T07:04:59+00:00",
+      "summary": "Ernstige bijwerkingen HPV-vaccinatie buiten beeld gehouden&nbsp;&nbsp;deanderekrant.nl",
       "sources": [
         {
-          "name": "historianet.nl",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzkzb2NHZ2VsNWV1X1Q4Wm00WlBDTk9Gc0RBUW1iRTVHOS1KZ1JaVk51NnpCN0ZHdWJPQXNHUWtCdXVCMW1kbVRBSmtSMlUxTzhoTjhwUjljUnZrOW05Yy1LS0NEYm1YRTFXSGREV3AzeFU1NGlib0ZlTUNPSUNHTWtaN1FGOE50eEo0bi1TdEY1OFBIenNaazdiUHRxVGRObVRlWHpqSTJ3T1MteFc3ZDQ1dExGTzRPLVNQeg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84e189458339",
-      "title": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan' - EenVandaag",
-      "published": "2026-08-03T17:15:16+00:00",
-      "summary": "1 jaar na ingaan Nationale Strategie Vrouwengezondheid nog geen duidelijk plan: 'Minister geeft er geen urgentie aan'&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUJjMGdkVkU4UkNWTXVaTF9YZVJoT1RqdEtSY1hUNldGMW1NYlhCSVpvWGc3WmhfZEhoZkNPWThhSVZ3dmpyd1dMbXZjN3RVWVpkMHViZmNRVVRnRUt3eGhPWFotb3ZMYXJFQjdIQU9qcjVFTzlITW9LVjBCdExtN1ZwT2JoaHRkdTFUbExZWXVSRU55WjM3dWQwWEo5WWJBN2U2UVg4a3NkNEtLbElVR2VrclEzdmliSFo1LWNIN0c5NVU1UkxqdzhVOHhmcFI2dEFoU3ctSXk0aWIxTXpCYjh0dmV3MUl2VXZoM0NmamNjdjRs?oc=5"
+          "name": "deanderekrant.nl",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMERQZnhaXzQtY2d2cmVtRWVvRjVsa1E4dWxGQmRGcFpEQ1F6ZHpNUTg1Sk10elBDRnQ0MGQtVUhLNENhbXluLWdPVS1KNVJsYWVHMTFCejRibUhhZzVCdXVOejI4NHBmRk90TDNDWjFRQS0zZC1HT0VpUEwtYkhZYzlCVjJkeDFpX3NpLQ?oc=5"
         }
       ]
     }

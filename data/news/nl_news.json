@@ -1,19 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-06T08:29:11.929096+00:00",
-  "count": 1,
-  "news": [
-    {
-      "id": "dbcf1b2b7e7f",
-      "title": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen? - RTV Noord",
-      "published": "2026-08-06T04:01:29+00:00",
-      "summary": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen?&nbsp;&nbsp;RTV Noord",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFZSRXhsdUNPNzhUV08yNW1ScnlFdGJlTnBjVjRsZHRMMGd1UGQwM1NtSkFUTU1GVlY5VUJRQTNOc0Z1NUgtZE42RzFpWS1DejZwbW9BN1ZRMFlfemdXeFRIcG14YUU3S2hZNWE0SGJud25tNDhReXB3MEhHSUJxRk5WMnQ3OUI3ZXVnSUhRcUFZMjdZTUo3U0taTllUM2lkaHh6SG9OYlB1MXJoWGVV?oc=5"
-        }
-      ]
-    }
-  ]
+  "fetched_at": "2026-08-06T13:58:10.970387+00:00",
+  "count": 0,
+  "news": []
 }

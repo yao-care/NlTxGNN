@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-07T12:54:45.564587+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-07T18:50:29.441222+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "4f114ccfa120",
+      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - de Volkskrant",
+      "published": "2026-08-07T16:01:34+00:00",
+      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;TrouwForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFkxMTRaUkd2azZzMDctRjdManBheml4b0ZUQ2lCc3Zkb2VqQnFFQjQ4YTEzT2E0Wmxkd3otdUl5a0RLTERZMzdCVkZHUUF2OGcyLXltY0pVaFNSa3NMRnkzTk5VYmx0YW1FTTR1cmF2RHJ5QlAtUVoxTHZoX0VOSDFxRXVYekt0QkV6UDhKRW1TazhFTkV6VktkS2NGSGNHSTlSdkhnbVFzNVdPRjFlbWh4cDhaVnZJYThNYmlzcw?oc=5"
+        }
+      ]
+    },
     {
       "id": "b6173a15869c",
       "title": "Wetenschappers maken met AI virus dat bacteriën doodt - RTL.nl",
       "published": "2026-08-07T09:40:31+00:00",
-      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNAI ontwerpt 16 werkende virussen in lab van Stanf",
+      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNAI ontwerpt 16 werkende virussen in lab van Stanf",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDZ5ejdHNWNiZ3ZZVEg0UHJIaVZSVEk0S0tieEJCcHo5NUpoVDJYeXJrN2xrU3pXZHlsczlZUHZZOUhWUGF2RlFZQXBIOHR3b0NwV1JQQ2podDRkSkIwX2x1UndwMDBSbHk2SEhEcE9saVJlaFVaQmN0ckVOSkxNY1BfWEdNbWxSNWduYmdaN2tPY0tJVjYtV3VveXFnNWlUenk5ZE9qNzB6ZzBqV2lTaWZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbcf1b2b7e7f",
-      "title": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen? - RTV Noord",
-      "published": "2026-08-06T04:01:29+00:00",
-      "summary": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen?&nbsp;&nbsp;RTV Noord",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFZSRXhsdUNPNzhUV08yNW1ScnlFdGJlTnBjVjRsZHRMMGd1UGQwM1NtSkFUTU1GVlY5VUJRQTNOc0Z1NUgtZE42RzFpWS1DejZwbW9BN1ZRMFlfemdXeFRIcG14YUU3S2hZNWE0SGJud25tNDhReXB3MEhHSUJxRk5WMnQ3OUI3ZXVnSUhRcUFZMjdZTUo3U0taTllUM2lkaHh6SG9OYlB1MXJoWGVV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce88a35b79ed",
-      "title": "Kankercellen manipuleren gericht ons immuunsysteem: onderzoekers uit België ontdekken nieuwe manier om leveruitzaaiingen te behandelen - VRT",
-      "published": "2026-08-05T13:43:53+00:00",
-      "summary": "Kankercellen manipuleren gericht ons immuunsysteem: onderzoekers uit België ontdekken nieuwe manier om leveruitzaaiingen te behandelen&nbsp;&nbsp;VRTMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "VRT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeEZPeEFQcU1QRC1PUUM2SGFqREpuTVd2SWdfU2xndEpXNm1wRHNXR3pObllqS1VHakV0R0QxUEVxcm1ZVHQ4S2R0U3VFZ1U3em9xaXJVVmt5LWFaMUdzYlRpWHItNTNQcS1TNnV1QjZhMkdCNUttMUU2WmhzVmMyUEhrU05BSGg5eHNTOU45TS01SDNfYmc?oc=5"
         }
       ]
     }

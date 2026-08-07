@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-07T07:09:36.676602+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-07T12:54:45.564587+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "b6173a15869c",
+      "title": "Wetenschappers maken met AI virus dat bacteriën doodt - RTL.nl",
+      "published": "2026-08-07T09:40:31+00:00",
+      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNAI ontwerpt 16 werkende virussen in lab van Stanf",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDZ5ejdHNWNiZ3ZZVEg0UHJIaVZSVEk0S0tieEJCcHo5NUpoVDJYeXJrN2xrU3pXZHlsczlZUHZZOUhWUGF2RlFZQXBIOHR3b0NwV1JQQ2podDRkSkIwX2x1UndwMDBSbHk2SEhEcE9saVJlaFVaQmN0ckVOSkxNY1BfWEdNbWxSNWduYmdaN2tPY0tJVjYtV3VveXFnNWlUenk5ZE9qNzB6ZzBqV2lTaWZ3?oc=5"
+        }
+      ]
+    },
     {
       "id": "dbcf1b2b7e7f",
       "title": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen? - RTV Noord",

@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-07T18:50:29.441222+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-08T01:17:49.045747+00:00",
+  "count": 1,
   "news": [
     {
       "id": "4f114ccfa120",
@@ -12,18 +12,6 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFkxMTRaUkd2azZzMDctRjdManBheml4b0ZUQ2lCc3Zkb2VqQnFFQjQ4YTEzT2E0Wmxkd3otdUl5a0RLTERZMzdCVkZHUUF2OGcyLXltY0pVaFNSa3NMRnkzTk5VYmx0YW1FTTR1cmF2RHJ5QlAtUVoxTHZoX0VOSDFxRXVYekt0QkV6UDhKRW1TazhFTkV6VktkS2NGSGNHSTlSdkhnbVFzNVdPRjFlbWh4cDhaVnZJYThNYmlzcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6173a15869c",
-      "title": "Wetenschappers maken met AI virus dat bacteriën doodt - RTL.nl",
-      "published": "2026-08-07T09:40:31+00:00",
-      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNAI ontwerpt 16 werkende virussen in lab van Stanf",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDZ5ejdHNWNiZ3ZZVEg0UHJIaVZSVEk0S0tieEJCcHo5NUpoVDJYeXJrN2xrU3pXZHlsczlZUHZZOUhWUGF2RlFZQXBIOHR3b0NwV1JQQ2podDRkSkIwX2x1UndwMDBSbHk2SEhEcE9saVJlaFVaQmN0ckVOSkxNY1BfWEdNbWxSNWduYmdaN2tPY0tJVjYtV3VveXFnNWlUenk5ZE9qNzB6ZzBqV2lTaWZ3?oc=5"
         }
       ]
     }

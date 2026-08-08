@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-08T06:44:09.088070+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-08T12:39:29.001213+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "4f114ccfa120",
-      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - de Volkskrant",
+      "id": "a7d6e22e0700",
+      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - volkskrant.nl",
       "published": "2026-08-07T16:01:00+00:00",
-      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;TrouwForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nl",
+      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;volkskrant.nlForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSWHO wil ebolavaccin Ervebo testen tegen nieuwe variant in DR Congo&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "de Volkskrant",
+          "name": "volkskrant.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFkxMTRaUkd2azZzMDctRjdManBheml4b0ZUQ2lCc3Zkb2VqQnFFQjQ4YTEzT2E0Wmxkd3otdUl5a0RLTERZMzdCVkZHUUF2OGcyLXltY0pVaFNSa3NMRnkzTk5VYmx0YW1FTTR1cmF2RHJ5QlAtUVoxTHZoX0VOSDFxRXVYekt0QkV6UDhKRW1TazhFTkV6VktkS2NGSGNHSTlSdkhnbVFzNVdPRjFlbWh4cDhaVnZJYThNYmlzcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41f03c2d0641",
+      "title": "Vader Herman (73) gaf zijn kinderen onbewust een kankergen door: ‘Iedereen schrok zich een hoedje’ - De Gelderlander",
+      "published": "2026-08-08T08:22:47+00:00",
+      "summary": "Vader Herman (73) gaf zijn kinderen onbewust een kankergen door: ‘Iedereen schrok zich een hoedje’&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeDBha1J1eTRlZXBGQmxrekpmaFNoVjJBWlJqVU1ld0RWOHY5VThnSkVFOUstb016QTVWeHBlYXJMZmY3bXFSa0NpWHo4QXdRLTRnd2JSeS1qOUhtM0xlZUF4MWdBMUhVVHllS1ZhWGhIc0hWZlB6OXNhRmpjbkw4VlpPODBqcTZ2OXBLX1BDeVZucGJjaGE0WkhldEpvTlRwWGVKMW01cHo4eEpKZElOTlBDVnVSUW13ZXY3ZEpROUM3OVh1Wk5fSXdhV29Zd2FIdkVPUzg3VmVQZw?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "b6173a15869c",
       "title": "Wetenschappers maken met AI virus dat bacteriën doodt - RTL.nl",
       "published": "2026-08-07T09:40:31+00:00",
-      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNAI ontwerpt 16 werkende virussen in lab van Stanf",
+      "summary": "Wetenschappers maken met AI virus dat bacteriën doodt&nbsp;&nbsp;RTL.nlRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAI ontwerpt 16 werkende virussen in lab van Stanford&nbsp;&nbsp;TPO.NLAI creëert voor het eerst virussen die niet in natuur voorkomen, maar niet zonder risico’s&nbsp;&nbsp;HLNWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke",
       "sources": [
         {
           "name": "RTL.nl",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "dbcf1b2b7e7f",
-      "title": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen? - RTV Noord",
-      "published": "2026-08-06T08:12:00+00:00",
-      "summary": "Bevolkingsonderzoek naar borstkanker onder druk: anders of minder screenen?&nbsp;&nbsp;RTV Noord",
+      "id": "fba8438f3f48",
+      "title": "Levensbrede reumazorg zet patiënt centraal - Reformatorisch Dagblad",
+      "published": "2026-08-07T18:10:08+00:00",
+      "summary": "Levensbrede reumazorg zet patiënt centraal&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFZSRXhsdUNPNzhUV08yNW1ScnlFdGJlTnBjVjRsZHRMMGd1UGQwM1NtSkFUTU1GVlY5VUJRQTNOc0Z1NUgtZE42RzFpWS1DejZwbW9BN1ZRMFlfemdXeFRIcG14YUU3S2hZNWE0SGJud25tNDhReXB3MEhHSUJxRk5WMnQ3OUI3ZXVnSUhRcUFZMjdZTUo3U0taTllUM2lkaHh6SG9OYlB1MXJoWGVV?oc=5"
+          "name": "Reformatorisch Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzlRT3FlNXc3TFlWY25GWDh3RmtlSzV4Szl2R01RNHV5NHFNRjMtWUVDbmxNRFNtLUU3NjR3YjNfSHQ5dzM2T00zeGhMS2t6bFNGMXVtYVd1VTVSbkxVTkdZUVNGN3MyMGc3TnFLRVhsdzNmN1hnOWZHVHpGWWdfVlNn?oc=5"
         }
       ]
     },

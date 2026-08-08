@@ -1,16 +1,16 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-08T12:39:29.001213+00:00",
+  "fetched_at": "2026-08-08T18:32:05.615887+00:00",
   "count": 5,
   "news": [
     {
-      "id": "a7d6e22e0700",
-      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - volkskrant.nl",
+      "id": "4f114ccfa120",
+      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - de Volkskrant",
       "published": "2026-08-07T16:01:00+00:00",
-      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;volkskrant.nlForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSWHO wil ebolavaccin Ervebo testen tegen nieuwe variant in DR Congo&nbsp;&nbsp;HLN",
+      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch DagbladForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDodental door ebola in Congo gestegen tot boven 1800&nbsp;",
       "sources": [
         {
-          "name": "volkskrant.nl",
+          "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFkxMTRaUkd2azZzMDctRjdManBheml4b0ZUQ2lCc3Zkb2VqQnFFQjQ4YTEzT2E0Wmxkd3otdUl5a0RLTERZMzdCVkZHUUF2OGcyLXltY0pVaFNSa3NMRnkzTk5VYmx0YW1FTTR1cmF2RHJ5QlAtUVoxTHZoX0VOSDFxRXVYekt0QkV6UDhKRW1TazhFTkV6VktkS2NGSGNHSTlSdkhnbVFzNVdPRjFlbWh4cDhaVnZJYThNYmlzcw?oc=5"
         }
       ]

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-08T18:32:05.615887+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-09T01:22:36.746691+00:00",
+  "count": 6,
   "news": [
     {
       "id": "4f114ccfa120",
       "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - de Volkskrant",
       "published": "2026-08-07T16:01:00+00:00",
-      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch DagbladForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlAl meer dan 1800 mensen overleden: waarom het ebolavirus in Congo zo snel om zich heen grijpt en steeds dodelijker wordt&nbsp;&nbsp;Het ParoolDodental door ebola in Congo gestegen tot boven 1800&nbsp;",
+      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch DagbladForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSWHO wil ebolavaccin Ervebo testen tegen nieuwe variant in DR Congo&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "41f03c2d0641",
-      "title": "Vader Herman (73) gaf zijn kinderen onbewust een kankergen door: ‘Iedereen schrok zich een hoedje’ - De Gelderlander",
-      "published": "2026-08-08T08:22:47+00:00",
-      "summary": "Vader Herman (73) gaf zijn kinderen onbewust een kankergen door: ‘Iedereen schrok zich een hoedje’&nbsp;&nbsp;De Gelderlander",
+      "id": "68f772068692",
+      "title": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel - bnr.nl",
+      "published": "2026-08-08T18:04:16+00:00",
+      "summary": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeDBha1J1eTRlZXBGQmxrekpmaFNoVjJBWlJqVU1ld0RWOHY5VThnSkVFOUstb016QTVWeHBlYXJMZmY3bXFSa0NpWHo4QXdRLTRnd2JSeS1qOUhtM0xlZUF4MWdBMUhVVHllS1ZhWGhIc0hWZlB6OXNhRmpjbkw4VlpPODBqcTZ2OXBLX1BDeVZucGJjaGE0WkhldEpvTlRwWGVKMW01cHo4eEpKZElOTlBDVnVSUW13ZXY3ZEpROUM3OVh1Wk5fSXdhV29Zd2FIdkVPUzg3VmVQZw?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUpWMGNzNm5BdmtFT1FITkIyekpMdEdNMm44b1c5eGF5N1hYd3dZUUhSazRlUGZFOGZMYTNWTDg1WlpPb0FWaWJOYzI4MThLQ2dXTFMwcDhUbGptNV9iLTdyc0xzcmFyQjBIS1pCVktNb0EwRWEzS0ZRVlB4QXV1TjNGdzNjemxpTmxvQWtndHhZNE9RVHdGM2I2aVNwLV9ZeHMxbDdZOTk5WnM?oc=5"
         }
       ]
     },
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "c0f87fe4bf66",
+      "title": "Herman (73) gaf kankergen door aan dochters: ‘Als ik dit had geweten, was ik misschien nooit aan kinderen begonnen’ - AD.nl",
+      "published": "2026-08-08T18:30:56+00:00",
+      "summary": "Herman (73) gaf kankergen door aan dochters: ‘Als ik dit had geweten, was ik misschien nooit aan kinderen begonnen’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2llcnRiWmNyazVpT08xSFpxX29UMjUwYkgtcjYwOTcyeTZOblBtLU40Rk1uSUR3OWRpRklRVDQwNEtHeFBJZGNEYVdNdS1DYm16S2ZGcTFCUUxwWkxIQWd1Nnp4VzIzcG84RXB6SVBmNVB2dXZjN0p1WWY4ejdXRGNtaHVqcjg1VEhIQzd3VXVrRVBMM3plV3UzV3YxMjRtZDZrbjBEajB4TlN4VGFMN2hDczc4M0ZYQU5UcjJaa3l6NGJlMFB5UVBacmh5VFV6V3NMbTYwUDdRZkRW?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fba8438f3f48",
       "title": "Levensbrede reumazorg zet patiënt centraal - Reformatorisch Dagblad",
       "published": "2026-08-07T18:10:08+00:00",
@@ -52,13 +64,13 @@
       ]
     },
     {
-      "id": "41f988167b98",
-      "title": "Waarom je trek krijgt in bepaald eten: onderzoekers ontdekken 2 verrassende routes naar het brein - Metronieuws.nl",
+      "id": "440d13380fd3",
+      "title": "Waarom je trek krijgt in bepaald eten: onderzoekers ontdekken 2 verrassende routes naar het brein - metronieuws.nl",
       "published": "2026-08-07T10:18:00+00:00",
-      "summary": "Waarom je trek krijgt in bepaald eten: onderzoekers ontdekken 2 verrassende routes naar het brein&nbsp;&nbsp;Metronieuws.nl",
+      "summary": "Waarom je trek krijgt in bepaald eten: onderzoekers ontdekken 2 verrassende routes naar het brein&nbsp;&nbsp;metronieuws.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQS1uN256M3dfbTdPQUVieGFXLUxMeEpvQzIxdk9XOGdXVFdPdXdCRmpRTjc1ejhHUUItV2pzMHg3eFZGYTVIOEY5R0xpdVJtMVUya0dwbGZTRF9ycHY2N3FmRDhXQXF2eGVYMDVmVExic3ZOODV3QjFmY2tzandINEJURmRqUnNpNk5HOFlvYVNLdVFLbF95UGtVSlZSQkpMbUJtSGIxMUx6Y3Q1U18w?oc=5"
         }
       ]

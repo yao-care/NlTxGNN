@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-09T12:41:20.296525+00:00",
+  "fetched_at": "2026-08-09T18:34:34.017884+00:00",
   "count": 6,
   "news": [
     {
-      "id": "4f114ccfa120",
-      "title": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’ - de Volkskrant",
-      "published": "2026-08-07T16:01:00+00:00",
-      "summary": "‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch DagbladForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOSWHO wil ebolavaccin Ervebo testen tegen nieuwe variant in DR Congo&nbsp;&nbsp;HLN",
+      "id": "629eebd56afc",
+      "title": "Ebola-uitbraak in Congo overschrijdt 4.000 gevallen - Starnieuws",
+      "published": "2026-08-08T06:05:00+00:00",
+      "summary": "Ebola-uitbraak in Congo overschrijdt 4.000 gevallen&nbsp;&nbsp;StarnieuwsDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch Dagblad‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOS",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFkxMTRaUkd2azZzMDctRjdManBheml4b0ZUQ2lCc3Zkb2VqQnFFQjQ4YTEzT2E0Wmxkd3otdUl5a0RLTERZMzdCVkZHUUF2OGcyLXltY0pVaFNSa3NMRnkzTk5VYmx0YW1FTTR1cmF2RHJ5QlAtUVoxTHZoX0VOSDFxRXVYekt0QkV6UDhKRW1TazhFTkV6VktkS2NGSGNHSTlSdkhnbVFzNVdPRjFlbWh4cDhaVnZJYThNYmlzcw?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUlEwZERUQUxlTGw1cVNZSWpqdmtOMjFuMUthLTBIbllRLTZ2ZEFpcHJMQkZlTFhENDZ3ZjVIUzRlc0dvV202Tlg3LTF2RDRmeDRpTmZNV1lFT3NwWGdEb3dGT2hlT21XQ092bGx6MGx1RzNXWEE?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "77e6f0d804de",
       "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie - bnr.nl",
       "published": "2026-08-09T06:09:00+00:00",
-      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlZijn eiwitten uit ultra-bewerkte producten slecht voor je gains?&nbsp;&nbsp;Men's HealthMeer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezond zijn als je denkt&nbsp;&nbsp;Scientias.nlVersnelt veel proteïne je veroudering? Dit is wat",
+      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlZijn eiwitten uit ultra-bewerkte producten slecht voor je gains?&nbsp;&nbsp;Men's HealthMeer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezond zijn als je denkt&nbsp;&nbsp;scientias.nlVersnelt veel proteïne je veroudering? Dit is wat",
       "sources": [
         {
           "name": "bnr.nl",
@@ -30,7 +30,7 @@
     {
       "id": "68f772068692",
       "title": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel - bnr.nl",
-      "published": "2026-08-08T16:35:49+00:00",
+      "published": "2026-08-08T16:35:00+00:00",
       "summary": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "fba8438f3f48",
-      "title": "Levensbrede reumazorg zet patiënt centraal - Reformatorisch Dagblad",
-      "published": "2026-08-07T18:10:08+00:00",
-      "summary": "Levensbrede reumazorg zet patiënt centraal&nbsp;&nbsp;Reformatorisch Dagblad",
-      "sources": [
-        {
-          "name": "Reformatorisch Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzlRT3FlNXc3TFlWY25GWDh3RmtlSzV4Szl2R01RNHV5NHFNRjMtWUVDbmxNRFNtLUU3NjR3YjNfSHQ5dzM2T00zeGhMS2t6bFNGMXVtYVd1VTVSbkxVTkdZUVNGN3MyMGc3TnFLRVhsdzNmN1hnOWZHVHpGWWdfVlNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "141e44ff5161",
       "title": "Ondergewaardeerd voedingsmiddel is mogelijk goed voor je darmgezondheid. Door een nieuwe ontdekking heeft een onderzoeker één specifiek ding in zijn eigen eetgewoonten aangepast - wibnet.nl",
       "published": "2026-08-08T20:00:37+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPLWhRVVNrYjVEb3dqT1BURUx0MkRvM3lFcDJ2NlRzN1BYeTJUeWVmX3hlVFk4STAwNUhteFNteHcxd2ZkTkxaWEF3OFZHX0tmcXljWjQ1VXZDV2cxOEctZE85dFo2b0NfelpMWHdUMHJIOXBQeEduWUtaRVd3MXpkVU1rSnQ2eElvNlE2LVV4YWVOd3NqM0pzSmZId0RvNG1uQnBKaUtiUm9LWFpZVDZIQlNmWk5NUW82SE5FS2pGVktpVnV3VTNvUWNnOW05M04zd0Q3QW1Jdm9sVGo3Yk0yU3o5UFdaX2ZiWHc3Z281WXlqNHN1eDZqRGphczRDTWRfS1RFZy1TSmVtUFVtTXRjaHZ0c1dGemUzam0tOWR3VmNnRzIxNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c569859208f",
+      "title": "‘Immunotherapie moet de allereerste behandeling van kanker worden’ - Knack",
+      "published": "2026-08-09T03:00:00+00:00",
+      "summary": "‘Immunotherapie moet de allereerste behandeling van kanker worden’&nbsp;&nbsp;Knack",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDhQM0dIVUpfR04ySHNENEM1SWtNTzlyb09MT2g0alhEX1lNeEVabXNtT1pIN0JrZ3FmRGNWTFRvUWZZNEdVZ2NoTURrOVdaMTN2NUpiaXhDbVJiXzZXMkxwa29PLTAtQnZOODJQaVVjSEp1cm1wTGpkb2tfX0FLZEFHd0F1MHpyRkZCWWdYRjQtMmljVG05YUZfdnVvN1JYU0dVUW11OA?oc=5"
         }
       ]
     }

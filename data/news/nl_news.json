@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-10T07:24:47.382676+00:00",
+  "fetched_at": "2026-08-10T12:58:55.086573+00:00",
   "count": 6,
   "news": [
     {
@@ -16,10 +16,22 @@
       ]
     },
     {
+      "id": "0584d3eecd80",
+      "title": "AI schrijft virus-DNA dat in de natuur niet bestaat en de virussen komen echt tot leven - Scientias.nl",
+      "published": "2026-08-09T09:05:47+00:00",
+      "summary": "AI schrijft virus-DNA dat in de natuur niet bestaat en de virussen komen echt tot leven&nbsp;&nbsp;Scientias.nlWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRoep om regulering van OpenAI en techbedrijven na AI-ontwerp van 16 virussen&nbsp;&nbsp;aiinsider.nlAI schrijft ee",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFNTdDB2Ynl1dTJ1YXlnRXpoT1lzbnpoeGhKeUdjRDhaWFd0SFl5RnNNYUZFXzkwcE50cFRtN0wtclFKYklGbGpNLW9YT2JRSlFFeGFYdXdsSHo2WUlSVS1mVUd5cnZkU25WcFNCenNnYUdCZG1NRGZOVHBsQlp3VXdn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77e6f0d804de",
       "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie - bnr.nl",
-      "published": "2026-08-09T06:09:00+00:00",
-      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlMinder eiwitten eten kan je leven verlengen, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Meer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezond zijn als je denkt&nbsp;&nbsp;Scientias.nlVersnelt veel proteïne je veroudering? Dit is wa",
+      "published": "2026-08-10T11:07:00+00:00",
+      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlMinder eiwitten eten kan je leven verlengen, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Meer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuVersnelt veel proteïne je veroudering? Dit is wat de wetenschap zegt&nbsp;&nbsp;Men's HealthMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezo",
       "sources": [
         {
           "name": "bnr.nl",
@@ -48,18 +60,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2llcnRiWmNyazVpT08xSFpxX29UMjUwYkgtcjYwOTcyeTZOblBtLU40Rk1uSUR3OWRpRklRVDQwNEtHeFBJZGNEYVdNdS1DYm16S2ZGcTFCUUxwWkxIQWd1Nnp4VzIzcG84RXB6SVBmNVB2dXZjN0p1WWY4ejdXRGNtaHVqcjg1VEhIQzd3VXVrRVBMM3plV3UzV3YxMjRtZDZrbjBEajB4TlN4VGFMN2hDczc4M0ZYQU5UcjJaa3l6NGJlMFB5UVBacmh5VFV6V3NMbTYwUDdRZkRW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "141e44ff5161",
-      "title": "Ondergewaardeerd voedingsmiddel is mogelijk goed voor je darmgezondheid. Door een nieuwe ontdekking heeft een onderzoeker één specifiek ding in zijn eigen eetgewoonten aangepast - wibnet.nl",
-      "published": "2026-08-08T20:00:37+00:00",
-      "summary": "Ondergewaardeerd voedingsmiddel is mogelijk goed voor je darmgezondheid. Door een nieuwe ontdekking heeft een onderzoeker één specifiek ding in zijn eigen eetgewoonten aangepast&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPLWhRVVNrYjVEb3dqT1BURUx0MkRvM3lFcDJ2NlRzN1BYeTJUeWVmX3hlVFk4STAwNUhteFNteHcxd2ZkTkxaWEF3OFZHX0tmcXljWjQ1VXZDV2cxOEctZE85dFo2b0NfelpMWHdUMHJIOXBQeEduWUtaRVd3MXpkVU1rSnQ2eElvNlE2LVV4YWVOd3NqM0pzSmZId0RvNG1uQnBKaUtiUm9LWFpZVDZIQlNmWk5NUW82SE5FS2pGVktpVnV3VTNvUWNnOW05M04zd0Q3QW1Jdm9sVGo3Yk0yU3o5UFdaX2ZiWHc3Z281WXlqNHN1eDZqRGphczRDTWRfS1RFZy1TSmVtUFVtTXRjaHZ0c1dGemUzam0tOWR3VmNnRzIxNGc?oc=5"
         }
       ]
     },

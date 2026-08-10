@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-09T18:34:34.017884+00:00",
+  "fetched_at": "2026-08-10T01:24:35.568998+00:00",
   "count": 6,
   "news": [
     {
-      "id": "629eebd56afc",
-      "title": "Ebola-uitbraak in Congo overschrijdt 4.000 gevallen - Starnieuws",
-      "published": "2026-08-08T06:05:00+00:00",
-      "summary": "Ebola-uitbraak in Congo overschrijdt 4.000 gevallen&nbsp;&nbsp;StarnieuwsDe epidemie in Congo is snelst groeiende ebola-uitbraak ooit: al meer dan 1800 mensen overleden&nbsp;&nbsp;Reformatorisch Dagblad‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantForse groei ebola in Congo: bijna 4000 besmettingen&nbsp;&nbsp;RTL.nlDodental door ebola in Congo gestegen tot boven 1800&nbsp;&nbsp;NOS",
+      "id": "db352cd38bd2",
+      "title": "‘Een wondermedicijn is er niet, en toch neemt de kans af om dementie te krijgen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-09T13:00:00+00:00",
+      "summary": "‘Een wondermedicijn is er niet, en toch neemt de kans af om dementie te krijgen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDementie uitstellen? Vermijd deze 3 dingen op middelbare leeftijd&nbsp;&nbsp;quest.nl3 gewoonten voor mensen van middelbare leeftijd die hun mentale helderheid met 13 jaar kunnen verlengen.&nbsp;&nbsp;Vietnam.vnDementie verandert je hersenen al 20 jaar voor je iets merkt&nbsp;&nbsp;Futura, le média qui explore le mondeWat je doet tussen je 45 en 65ste ",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUlEwZERUQUxlTGw1cVNZSWpqdmtOMjFuMUthLTBIbllRLTZ2ZEFpcHJMQkZlTFhENDZ3ZjVIUzRlc0dvV202Tlg3LTF2RDRmeDRpTmZNV1lFT3NwWGdEb3dGT2hlT21XQ092bGx6MGx1RzNXWEE?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFlWa3NMclNidGR5YWtDR0FjWk1NaVBYZHpRSXdPWms1TllMTnRvSEliWVQxU0JkWHRfOTUtZ2RWeUloaG5vLVg0SUc0VjFyblc0N2pNSFgwUjA1TjNhTmtWOVB1NE5tWHpSSk9UU1ctQjFIZWE0dnJIcG5SZ2ZOa3dBRkpTNUdFVWJDVTlzVzZBWGN1LThCa3ZpeXNwVGo1bXNBR1JjSUY5WkVHV3VGSFZXZHBSODBlRW9TelVUSHU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "327d13a2cdcf",
+      "title": "Stappenteller mag van huisarts de prullenbak in: '10.000 stappen en daarna aan de jenever' - wnl.tv",
+      "published": "2026-08-08T13:30:00+00:00",
+      "summary": "Stappenteller mag van huisarts de prullenbak in: '10.000 stappen en daarna aan de jenever'&nbsp;&nbsp;wnl.tv",
+      "sources": [
+        {
+          "name": "wnl.tv",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQldGV18wQ1J3Y1RsYlB6NWR1ZmRFaFFCWlRONG5SWWlaQnhJS3E4M2liMVhHanN2N3hNQnVuTmtVQmxRTjFEQi1sWHJwSS05dFZUbnVIeU9wM204T3pxaWUtbklSRG9jM0dQcXBGMW1oUzdWelJaYmV2dmVfUG9UbjhJVmNrXzFocTZGcnZUSGVIYnNhRnVLTF9ORE9HMEtKTDBCTC1nVnVDTW5hX1NkSmpn?oc=5"
         }
       ]
     },
@@ -19,23 +31,11 @@
       "id": "77e6f0d804de",
       "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie - bnr.nl",
       "published": "2026-08-09T06:09:00+00:00",
-      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlZijn eiwitten uit ultra-bewerkte producten slecht voor je gains?&nbsp;&nbsp;Men's HealthMeer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezond zijn als je denkt&nbsp;&nbsp;scientias.nlVersnelt veel proteïne je veroudering? Dit is wat",
+      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, blijkt uit studie&nbsp;&nbsp;bnr.nlZijn eiwitten uit ultra-bewerkte producten slecht voor je gains?&nbsp;&nbsp;Men's HealthMeer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezond zijn als je denkt&nbsp;&nbsp;Scientias.nlVersnelt veel proteïne je veroudering? Dit is wat",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnV1NERRbnNxQ0xtYlBybkJVNDQ0Zk5pdExsTGtNQy1XbGxlMF9qcG9uV1loSVZ6Y3ZTc1RVM0tLaWd0WVd5UWRSR0dxTTRUOEFkWjN2bFRtby1HX0pBLWZ5LU9lV2dkOWo0YWNTZmJaVDhqZnlfaEdFSFdJN0Y3Tk0za3JNc1RSQ01CTG1qa2lJMEhsbExPcmFHaG5BX0RqZWNKdmVEakhxS20waEVVdFlpNEpwa0tNQWxPdzhDOVdDZVhQZzQtYlRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68f772068692",
-      "title": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel - bnr.nl",
-      "published": "2026-08-08T16:35:00+00:00",
-      "summary": "Onderzoek: Eiwit TRF2 blijkt onbekende sleutel tot spierherstel&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUpWMGNzNm5BdmtFT1FITkIyekpMdEdNMm44b1c5eGF5N1hYd3dZUUhSazRlUGZFOGZMYTNWTDg1WlpPb0FWaWJOYzI4MThLQ2dXTFMwcDhUbGptNV9iLTdyc0xzcmFyQjBIS1pCVktNb0EwRWEzS0ZRVlB4QXV1TjNGdzNjemxpTmxvQWtndHhZNE9RVHdGM2I2aVNwLV9ZeHMxbDdZOTk5WnM?oc=5"
         }
       ]
     },

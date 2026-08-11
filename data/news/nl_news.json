@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-10T18:51:45.633034+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-11T01:22:26.227021+00:00",
+  "count": 7,
   "news": [
     {
       "id": "bd182839e652",
@@ -42,7 +42,7 @@
     {
       "id": "3bd64611d1b9",
       "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie - bnr.nl",
-      "published": "2026-08-10T11:07:00+00:00",
+      "published": "2026-08-09T06:09:00+00:00",
       "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie&nbsp;&nbsp;bnr.nlMinder eiwitten eten kan je leven verlengen, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Meer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuVersnelt veel proteïne je veroudering? Dit is wat de wetenschap zegt&nbsp;&nbsp;Men's HealthMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezo",
       "sources": [
         {
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "c0f87fe4bf66",
-      "title": "Herman (73) gaf kankergen door aan dochters: ‘Als ik dit had geweten, was ik misschien nooit aan kinderen begonnen’ - AD.nl",
-      "published": "2026-08-08T18:30:56+00:00",
-      "summary": "Herman (73) gaf kankergen door aan dochters: ‘Als ik dit had geweten, was ik misschien nooit aan kinderen begonnen’&nbsp;&nbsp;AD.nl",
+      "id": "5c5ab8170ca4",
+      "title": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker - Libelle",
+      "published": "2026-08-10T05:03:33+00:00",
+      "summary": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2llcnRiWmNyazVpT08xSFpxX29UMjUwYkgtcjYwOTcyeTZOblBtLU40Rk1uSUR3OWRpRklRVDQwNEtHeFBJZGNEYVdNdS1DYm16S2ZGcTFCUUxwWkxIQWd1Nnp4VzIzcG84RXB6SVBmNVB2dXZjN0p1WWY4ejdXRGNtaHVqcjg1VEhIQzd3VXVrRVBMM3plV3UzV3YxMjRtZDZrbjBEajB4TlN4VGFMN2hDczc4M0ZYQU5UcjJaa3l6NGJlMFB5UVBacmh5VFV6V3NMbTYwUDdRZkRW?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzNvcGNOcWtOMU5oMEJaVXhzWVhoc0llcUhWTjZWYXRxVWJyMVpHMTNud1NHZnhjZ19tRUoyVzYzOWZiRFRoMWdhT3A3UGtHVG41bGdVelB6Ml9zODJKOGltMnZtS25Dai1RQXRLU3k1Zjh2MG45d0VHekQ2SW1mUWNvb2d4STBUR3l6SWljLVBJTDZhYlB5U3Rn?oc=5"
         }
       ]
     },
@@ -72,6 +72,18 @@
         {
           "name": "Knack",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDhQM0dIVUpfR04ySHNENEM1SWtNTzlyb09MT2g0alhEX1lNeEVabXNtT1pIN0JrZ3FmRGNWTFRvUWZZNEdVZ2NoTURrOVdaMTN2NUpiaXhDbVJiXzZXMkxwa29PLTAtQnZOODJQaVVjSEp1cm1wTGpkb2tfX0FLZEFHd0F1MHpyRkZCWWdYRjQtMmljVG05YUZfdnVvN1JYU0dVUW11OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff0eb5fc8bd4",
+      "title": "Muggenbeet die maar blijft jeuken? Dermatoloog: “Dit zijn verontrustende tekenen waarmee je naar de dokter moet” - HLN",
+      "published": "2026-08-09T07:01:00+00:00",
+      "summary": "Muggenbeet die maar blijft jeuken? Dermatoloog: “Dit zijn verontrustende tekenen waarmee je naar de dokter moet”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNExBOE5WZGFZNVljbThpaFJWcmVZWmc4QmZkV0p2clNYUDI4VTRhZU14REZ1NmdLYVVWZ0ZXaUw4ekRTajFkeWctMXB6bWdjT2tBaDNfUGhRVkRiQk56RF9XRzNZMXpYRUNocDRsb3VvY0lTWllqMmxRRjk4RGFsOGpDUUFKbHBpZkpOY1lrWk5vQ1J3Ui05VmRuQ01HbEdWTmFPajB2eHNScU5EeUdfdzRoRk1kZ05vSmpWQmJLQjlwTGF5NkkyUDBENE83S0FOY0tHbEFkQTd3eEliNmY0Nnl3?oc=5"
         }
       ]
     }

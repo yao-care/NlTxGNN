@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-11T07:00:18.793209+00:00",
+  "fetched_at": "2026-08-11T12:55:16.982376+00:00",
   "count": 5,
   "news": [
     {
-      "id": "bd182839e652",
-      "title": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen - WNL",
-      "published": "2026-08-10T11:07:00+00:00",
-      "summary": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen&nbsp;&nbsp;WNL",
+      "id": "ad70c235b655",
+      "title": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden - nos.nl",
+      "published": "2026-08-11T09:18:35+00:00",
+      "summary": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;nos.nlRuim tweeduizend doden door ebola-uitbraak in Congo: 'Snelste verspreiding ooit'&nbsp;&nbsp;NUInstituut voor Tropische Geneeskunde onderzoekt nieuwe ebolavariant in Congo: \"We hollen de epidemie achterna\"&nbsp;&nbsp;VRT‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDodental ebola-uitbraak Congo loopt op tot boven 2000&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
-          "name": "WNL",
+          "name": "nos.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGxtNnBIYjl6cTMxaEZ4MVEzN3BudElVVk81Wlc1MjJFRnM2N1QzcFFVdXZxZlJ2RXVFVF9LdllUZFVlQ3BSbk8ydzhhem1zalZJeGk0ZnRZeGU3RTR6NkU3c2xPTEthRDhRdG5IeVV4MWx4UUM2MmQ3ekN0VXZacW81N1hVaE44UEFobVR5b2RKNG1OQlFsQmNvOEQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66c04de68ef1",
+      "title": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen - wnl.tv",
+      "published": "2026-08-10T11:07:00+00:00",
+      "summary": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen&nbsp;&nbsp;wnl.tv",
+      "sources": [
+        {
+          "name": "wnl.tv",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJ0cHB1VGVQYm4tanpkVFcxVkFfZ1NlTDFDR2NrczZIOVhxTVh1aVhrVldxX2Z1WmhEektaZXQ3WDZwLVVDQVNFdm1IY1A4c3FjdGFwNzRvbUNnZkd0OEpiM1dVZzhzS2JxV2JYRjdQeXNTMFJ3enJobFZpaGptTXpQRVRlM24wQjFFNWdYQkNFVVhRcWROdS1MakxNUFNNbTFTMEpfZVQyYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bd64611d1b9",
+      "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie - bnr.nl",
+      "published": "2026-08-10T11:07:00+00:00",
+      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie&nbsp;&nbsp;bnr.nlMinder eiwitten eten kan je leven verlengen, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Meer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuVersnelt veel proteïne je veroudering? Dit is wat de wetenschap zegt&nbsp;&nbsp;Men's Health",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnV1NERRbnNxQ0xtYlBybkJVNDQ0Zk5pdExsTGtNQy1XbGxlMF9qcG9uV1loSVZ6Y3ZTc1RVM0tLaWd0WVd5UWRSR0dxTTRUOEFkWjN2bFRtby1HX0pBLWZ5LU9lV2dkOWo0YWNTZmJaVDhqZnlfaEdFSFdJN0Y3Tk0za3JNc1RSQ01CTG1qa2lJMEhsbExPcmFHaG5BX0RqZWNKdmVEakhxS20waEVVdFlpNEpwa0tNQWxPdzhDOVdDZVhQZzQtYlRn?oc=5"
         }
       ]
     },
@@ -28,38 +52,14 @@
       ]
     },
     {
-      "id": "3bd64611d1b9",
-      "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie - bnr.nl",
-      "published": "2026-08-09T06:09:00+00:00",
-      "summary": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie&nbsp;&nbsp;bnr.nlMinder eiwitten eten kan je leven verlengen, blijkt uit onderzoek&nbsp;&nbsp;Newsmonkey -Meer proteïne is niet altijd beter, blijkt uit nieuw onderzoek (het kan juist zorgen voor snellere veroudering)&nbsp;&nbsp;GezondnuVersnelt veel proteïne je veroudering? Dit is wat de wetenschap zegt&nbsp;&nbsp;Men's HealthMinder eiwit, langer leven? Waarom al die proteïneproducten mogelijk niet zo gezo",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnV1NERRbnNxQ0xtYlBybkJVNDQ0Zk5pdExsTGtNQy1XbGxlMF9qcG9uV1loSVZ6Y3ZTc1RVM0tLaWd0WVd5UWRSR0dxTTRUOEFkWjN2bFRtby1HX0pBLWZ5LU9lV2dkOWo0YWNTZmJaVDhqZnlfaEdFSFdJN0Y3Tk0za3JNc1RSQ01CTG1qa2lJMEhsbExPcmFHaG5BX0RqZWNKdmVEakhxS20waEVVdFlpNEpwa0tNQWxPdzhDOVdDZVhQZzQtYlRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c5ab8170ca4",
-      "title": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker - Libelle",
+      "id": "365232221300",
+      "title": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker - libelle.nl",
       "published": "2026-08-10T05:03:33+00:00",
-      "summary": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker&nbsp;&nbsp;Libelle",
+      "summary": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker&nbsp;&nbsp;libelle.nl",
       "sources": [
         {
-          "name": "Libelle",
+          "name": "libelle.nl",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzNvcGNOcWtOMU5oMEJaVXhzWVhoc0llcUhWTjZWYXRxVWJyMVpHMTNud1NHZnhjZ19tRUoyVzYzOWZiRFRoMWdhT3A3UGtHVG41bGdVelB6Ml9zODJKOGltMnZtS25Dai1RQXRLU3k1Zjh2MG45d0VHekQ2SW1mUWNvb2d4STBUR3l6SWljLVBJTDZhYlB5U3Rn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff0eb5fc8bd4",
-      "title": "Muggenbeet die maar blijft jeuken? Dermatoloog: “Dit zijn verontrustende tekenen waarmee je naar de dokter moet” - HLN",
-      "published": "2026-08-09T07:01:00+00:00",
-      "summary": "Muggenbeet die maar blijft jeuken? Dermatoloog: “Dit zijn verontrustende tekenen waarmee je naar de dokter moet”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNExBOE5WZGFZNVljbThpaFJWcmVZWmc4QmZkV0p2clNYUDI4VTRhZU14REZ1NmdLYVVWZ0ZXaUw4ekRTajFkeWctMXB6bWdjT2tBaDNfUGhRVkRiQk56RF9XRzNZMXpYRUNocDRsb3VvY0lTWllqMmxRRjk4RGFsOGpDUUFKbHBpZkpOY1lrWk5vQ1J3Ui05VmRuQ01HbEdWTmFPajB2eHNScU5EeUdfdzRoRk1kZ05vSmpWQmJLQjlwTGF5NkkyUDBENE83S0FOY0tHbEFkQTd3eEliNmY0Nnl3?oc=5"
         }
       ]
     }

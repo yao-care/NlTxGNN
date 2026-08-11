@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-11T01:22:26.227021+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-11T07:00:18.793209+00:00",
+  "count": 5,
   "news": [
     {
       "id": "bd182839e652",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "0584d3eecd80",
-      "title": "AI schrijft virus-DNA dat in de natuur niet bestaat en de virussen komen echt tot leven - Scientias.nl",
-      "published": "2026-08-09T09:05:47+00:00",
-      "summary": "AI schrijft virus-DNA dat in de natuur niet bestaat en de virussen komen echt tot leven&nbsp;&nbsp;Scientias.nlWetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"&nbsp;&nbsp;VRTRoep om regulering van wetenschappers nadat AI-model zestien nieuwe virussen ontwerpt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRoep om regulering van OpenAI en techbedrijven na AI-ontwerp van 16 virussen&nbsp;&nbsp;aiinsider.nlAI schrijft ee",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFNTdDB2Ynl1dTJ1YXlnRXpoT1lzbnpoeGhKeUdjRDhaWFd0SFl5RnNNYUZFXzkwcE50cFRtN0wtclFKYklGbGpNLW9YT2JRSlFFeGFYdXdsSHo2WUlSVS1mVUd5cnZkU25WcFNCenNnYUdCZG1NRGZOVHBsQlp3VXdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3bd64611d1b9",
       "title": "‘Proteïnehype’ op zijn kop: juist minder eiwitten goed voor gezondheid, suggereert studie - bnr.nl",
       "published": "2026-08-09T06:09:00+00:00",
@@ -60,18 +48,6 @@
         {
           "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzNvcGNOcWtOMU5oMEJaVXhzWVhoc0llcUhWTjZWYXRxVWJyMVpHMTNud1NHZnhjZ19tRUoyVzYzOWZiRFRoMWdhT3A3UGtHVG41bGdVelB6Ml9zODJKOGltMnZtS25Dai1RQXRLU3k1Zjh2MG45d0VHekQ2SW1mUWNvb2d4STBUR3l6SWljLVBJTDZhYlB5U3Rn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c569859208f",
-      "title": "‘Immunotherapie moet de allereerste behandeling van kanker worden’ - Knack",
-      "published": "2026-08-09T03:00:00+00:00",
-      "summary": "‘Immunotherapie moet de allereerste behandeling van kanker worden’&nbsp;&nbsp;Knack",
-      "sources": [
-        {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDhQM0dIVUpfR04ySHNENEM1SWtNTzlyb09MT2g0alhEX1lNeEVabXNtT1pIN0JrZ3FmRGNWTFRvUWZZNEdVZ2NoTURrOVdaMTN2NUpiaXhDbVJiXzZXMkxwa29PLTAtQnZOODJQaVVjSEp1cm1wTGpkb2tfX0FLZEFHd0F1MHpyRkZCWWdYRjQtMmljVG05YUZfdnVvN1JYU0dVUW11OA?oc=5"
         }
       ]
     },

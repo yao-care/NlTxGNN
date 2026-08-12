@@ -1,16 +1,16 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-11T18:56:54.985479+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-12T01:39:02.674207+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "c637adf22218",
-      "title": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’ - nrc.nl",
+      "id": "73a9f7a27567",
+      "title": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-08-11T13:09:08+00:00",
-      "summary": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;nrc.nlEbola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;NOSRuim tweeduizend doden door ebola-uitbraak in Congo: 'Snelste verspreiding ooit'&nbsp;&nbsp;NU‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDodental ebola-uitbraak Congo loopt op tot boven 2000&nbsp;&nbsp;Haarlems Dagblad",
+      "summary": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim tweeduizend doden door ebola-uitbraak in Congo: 'Snelste verspreiding ooit'&nbsp;&nbsp;NU‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantDodental ebola-uitbraak Congo loopt op tot boven 2000&nbsp;&nbsp;De Gooi- en EemlanderEbola grijpt in Congo sneller om zich heen ",
       "sources": [
         {
-          "name": "nrc.nl",
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV1M3VmE4QW1xNXlNWm9tRmR4MDhaVWVsOEVGbG13Uk9Od0hia0RCWF9YLTREWVVMSm51QkVBcVFhdER0QnBzcU5KQkEtUjNQT0dNVDQ1R0pqUVk2cjlPZ2hDOWFkUHFWdmZDWll1WE5mQTYtT2dNQ1JtSFBUYWdSY0FiQUI4TlZjeVFiNzFNdUlwRXhiS1FyU2VKY0hPWlUxYjJoaHBNR0RvblgwMzhyZnl1VHlVOHpBYnpuWmoxNk84ZVQ0UjNlZU5uMmpiM0VBLWFEbjFHNWV0UURRNEZNUGx5S2llcG8?oc=5"
         }
       ]
@@ -24,18 +24,6 @@
         {
           "name": "WNL",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJ0cHB1VGVQYm4tanpkVFcxVkFfZ1NlTDFDR2NrczZIOVhxTVh1aVhrVldxX2Z1WmhEektaZXQ3WDZwLVVDQVNFdm1IY1A4c3FjdGFwNzRvbUNnZkd0OEpiM1dVZzhzS2JxV2JYRjdQeXNTMFJ3enJobFZpaGptTXpQRVRlM24wQjFFNWdYQkNFVVhRcWROdS1MakxNUFNNbTFTMEpfZVQyYXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c5ab8170ca4",
-      "title": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker - Libelle",
-      "published": "2026-08-10T05:03:33+00:00",
-      "summary": "Brenda (51) raakte haar relatie kwijt door de nasleep van kanker&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzNvcGNOcWtOMU5oMEJaVXhzWVhoc0llcUhWTjZWYXRxVWJyMVpHMTNud1NHZnhjZ19tRUoyVzYzOWZiRFRoMWdhT3A3UGtHVG41bGdVelB6Ml9zODJKOGltMnZtS25Dai1RQXRLU3k1Zjh2MG45d0VHekQ2SW1mUWNvb2d4STBUR3l6SWljLVBJTDZhYlB5U3Rn?oc=5"
         }
       ]
     }

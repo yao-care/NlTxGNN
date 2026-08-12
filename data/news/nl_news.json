@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-12T07:18:36.394600+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-12T12:59:52.397912+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "3fc9d752ca52",
+      "title": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen - Nieuwe Oogst",
+      "published": "2026-08-12T09:42:00+00:00",
+      "summary": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen&nbsp;&nbsp;Nieuwe OogstNieuw aan Schmallenberg gerelateerd virus ontdekt in Duitsland&nbsp;&nbsp;Melkveebedrijf.nlNieuw virus rukt op bij rundvee: “Mogelijk snelle verspreiding”&nbsp;&nbsp;VILT vzwGD: veel meldingen van symptomen nieuw knuttenvirus&nbsp;&nbsp;Sterke Erven‘Shamonda-virus’ breidt uit: overweeg uitstellen dekperiode&nbsp;&nbsp;Het Schaap",
+      "sources": [
+        {
+          "name": "Nieuwe Oogst",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzdDR0RzNXpDSmFYOERabU42WXVHQy1LOGZvYzdHV1l6VTR3ZjBGel9GanpWQk9uRzRsVUVPVFprUkw2UXBRdXROTVBKUEVrdURaNjVJZFczUjdmeUQ1djVueWxfMlp0a05taE5JMUs0M1NSdmlaM2xMcEZEVTNINlkzeFNUZzhlOXhUam9KOTNGSklhakpRNXpicmp2czM5TWM0QWVlbFFocEpkTU1SRDVtdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "73a9f7a27567",
       "title": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-08-11T13:09:08+00:00",
-      "summary": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim tweeduizend doden door ebola-uitbraak in Congo: 'Snelste verspreiding ooit'&nbsp;&nbsp;NU‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantEbola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;nos.nlDodental ebola-uitbraak Congo loopt op tot bo",
+      "summary": "Meer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim tweeduizend doden door ebola-uitbraak in Congo: 'Snelste verspreiding ooit'&nbsp;&nbsp;nu.nl‘Bijna alle bedden voor mogelijk besmette patiënten in de stad liggen al vol’&nbsp;&nbsp;de VolkskrantEbola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;NOSDodental ebola-uitbraak Congo loopt op tot bo",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "bd182839e652",
-      "title": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen - WNL",
-      "published": "2026-08-10T11:07:00+00:00",
-      "summary": "Smartwatches zijn 'winst voor preventie', zorgverzekeraar beloont klanten voor stappen&nbsp;&nbsp;WNL",
+      "id": "e7b997f73f40",
+      "title": "Wetenschappers ontwikkelen menselijke miniatuurorganen voor medicijntests - nu.nl",
+      "published": "2026-08-12T09:34:57+00:00",
+      "summary": "Wetenschappers ontwikkelen menselijke miniatuurorganen voor medicijntests&nbsp;&nbsp;nu.nl",
       "sources": [
         {
-          "name": "WNL",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJ0cHB1VGVQYm4tanpkVFcxVkFfZ1NlTDFDR2NrczZIOVhxTVh1aVhrVldxX2Z1WmhEektaZXQ3WDZwLVVDQVNFdm1IY1A4c3FjdGFwNzRvbUNnZkd0OEpiM1dVZzhzS2JxV2JYRjdQeXNTMFJ3enJobFZpaGptTXpQRVRlM24wQjFFNWdYQkNFVVhRcWROdS1MakxNUFNNbTFTMEpfZVQyYXc?oc=5"
+          "name": "nu.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjJnSFdzUGF5Mkd3M3kxM1NMR2MwLS12RXM3RHk3WE5qNGVzNmZHY2k0VkJhVUJrcXg2dnhnQnAxeTV3cFhmd3RZRDRGeWt5dzl1RGJOLXc5WlI0X2Nua0lRX1VfV2pxaWIzNmhxVldWcHFDS3p1d3lZaWZ6cFVtdTViYWtYVWJqUllxR0dWRUo4Z1NCN3VnS2lsekNueUlkZm1jMldQd2JUNlJhTllyR1lSb0NlUQ?oc=5"
         }
       ]
     }

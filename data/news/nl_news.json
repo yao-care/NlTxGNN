@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-13T07:20:48.827398+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-13T13:00:57.702454+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "3fc9d752ca52",
-      "title": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen - Nieuwe Oogst",
-      "published": "2026-08-12T09:29:00+00:00",
-      "summary": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen&nbsp;&nbsp;Nieuwe OogstNieuw aan Schmallenberg gerelateerd virus ontdekt in Duitsland&nbsp;&nbsp;Melkveebedrijf.nlNieuw virus rukt op bij rundvee: “Mogelijk snelle verspreiding”&nbsp;&nbsp;VILT vzwGD onderzoekt mogelijke nieuwe virusziekte bij runderen&nbsp;&nbsp;De Kalverhouder‘Shamonda-virus’ breidt uit: overweeg uitstellen dekperiode&nbsp;&nbsp;Het Schaap",
-      "sources": [
-        {
-          "name": "Nieuwe Oogst",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzdDR0RzNXpDSmFYOERabU42WXVHQy1LOGZvYzdHV1l6VTR3ZjBGel9GanpWQk9uRzRsVUVPVFprUkw2UXBRdXROTVBKUEVrdURaNjVJZFczUjdmeUQ1djVueWxfMlp0a05taE5JMUs0M1NSdmlaM2xMcEZEVTNINlkzeFNUZzhlOXhUam9KOTNGSklhakpRNXpicmp2czM5TWM0QWVlbFFocEpkTU1SRDVtdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "8bfc04a3fd79",
       "title": "Doorbraak in strijd tegen erfelijke hersenziekte: dit medicijn remt dodelijke aandoening bij kinderen - De Telegraaf",
-      "published": "2026-08-13T06:01:39+00:00",
-      "summary": "Doorbraak in strijd tegen erfelijke hersenziekte: dit medicijn remt dodelijke aandoening bij kinderen&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "published": "2026-08-13T00:30:00+00:00",
+      "summary": "Doorbraak in strijd tegen erfelijke hersenziekte: dit medicijn remt dodelijke aandoening bij kinderen&nbsp;&nbsp;De TelegraafBloeddrukmedicijn remt zeldzame hersenziekte bij kinderen af&nbsp;&nbsp;NUHersenziekte VWM afgeremd met bestaand bloeddrukmedicijn&nbsp;&nbsp;TPO.NLBestaand bloeddrukmedicijn blijkt effectief tegen dodelijke hersenziekte bij kinderen&nbsp;&nbsp;Nationale ZorggidsBloeddrukmiddel guanabenz remt hersenziekte bij kinderen&nbsp;&nbsp;Pharmaceutisch Weekblad",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -28,26 +16,50 @@
       ]
     },
     {
-      "id": "b3207b90ffe6",
-      "title": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden - NOS",
-      "published": "2026-08-11T09:18:35+00:00",
-      "summary": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;NOSEbola-epidemie in Congo loopt uit de hand: “Virus verspreidt zich sneller dan bij elke vorige uitbraak”&nbsp;&nbsp;HLNLIVE WHO-baas waarschuwt dat huidige ebola-uitbraak op weg is om dodelijkste ooit te worden&nbsp;&nbsp;VRTMeer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak DRC b",
+      "id": "07a5cae2f689",
+      "title": "Seniorenspecialist Mitchell: ‘Dementie is niet onvermijdelijk, inzetten op bewegen loont’ - Metronieuws.nl",
+      "published": "2026-08-12T13:14:00+00:00",
+      "summary": "Seniorenspecialist Mitchell: ‘Dementie is niet onvermijdelijk, inzetten op bewegen loont’&nbsp;&nbsp;Metronieuws.nlColumn | Ik durf het bijna niet te zeggen, maar we leven steeds gezonder&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAlzheimer Café met als thema beweging&nbsp;&nbsp;Zwolle.nieuws.nl‘Bewegen verkleint niet alleen de kans op dementie, maar vertraagt ook het ziekteproces’&nbsp;&nbsp;Nationale ZorggidsDementie verandert je hersenen al 20 jaar voor je iets merkt&nbs",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGxtNnBIYjl6cTMxaEZ4MVEzN3BudElVVk81Wlc1MjJFRnM2N1QzcFFVdXZxZlJ2RXVFVF9LdllUZFVlQ3BSbk8ydzhhem1zalZJeGk0ZnRZeGU3RTR6NkU3c2xPTEthRDhRdG5IeVV4MWx4UUM2MmQ3ekN0VXZacW81N1hVaE44UEFobVR5b2RKNG1OQlFsQmNvOEQ?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0M2cTF6SmwzRUtsbnk1ZnFaa0ZpemdaaEJMdEZVSVZmWHF5QW5oTGJjbXJjMkZKX2hLUXZZVVhxQVp2UThYSDl3SnRKTVdmMThfUTVJUEVmX014TFlxVWwzeE85Y2FNUFQtVzMwbHBaakVrbHZNbWJraDBZVGw4S0hLTkFEcVE1QzRqRVptWDloWjZXX3NFWnVhNjhEVmNKXzNRVE05ME9HemlHRzFEUWliOG00cnV3SEE?oc=5"
         }
       ]
     },
     {
-      "id": "9473e45cc74d",
-      "title": "Artsen willen verbod op total bodyscans: 'Baat het niet, dan schaadt het niet gaat hier niet op' - WNL",
-      "published": "2026-08-12T06:30:00+00:00",
-      "summary": "Artsen willen verbod op total bodyscans: 'Baat het niet, dan schaadt het niet gaat hier niet op'&nbsp;&nbsp;WNLMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "3fc9d752ca52",
+      "title": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen - Nieuwe Oogst",
+      "published": "2026-08-12T09:29:00+00:00",
+      "summary": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen&nbsp;&nbsp;Nieuwe OogstMeer meldingen van koorts en melkproductiedaling bij melkvee&nbsp;&nbsp;BoerderijNieuw orthobunyavirus mogelijk ook in Nederland&nbsp;&nbsp;VeeteeltGD: veel meldingen van symptomen nieuw knuttenvirus&nbsp;&nbsp;Sterke ErvenNieuw virus rukt op bij rundvee: “Mogelijk snelle verspreiding”&nbsp;&nbsp;VILT vzw",
       "sources": [
         {
-          "name": "WNL",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd29iTXVldWVvdXRYdHFVbjNxd1hWc2MtSzBFdnpFdHdKTFNjZTU4ekpYcTdrVlJTTGZmTVkxYUMxa25zZjJLdXUzOWwyY2JJNVFIQ1F6Ti1ySXlWM0RERHBYcE1pY1R0eXF6T2ZNd2lmUXhXZ2tfN0FnZU9lYlRzTnVjcG45VmRtS1VCU2ozNk5YTzRlMjV0WVBCMEl3ZXNzVDFVZDdMMThPRXVBcEFnam1FSVBFWkcwU1E?oc=5"
+          "name": "Nieuwe Oogst",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzdDR0RzNXpDSmFYOERabU42WXVHQy1LOGZvYzdHV1l6VTR3ZjBGel9GanpWQk9uRzRsVUVPVFprUkw2UXBRdXROTVBKUEVrdURaNjVJZFczUjdmeUQ1djVueWxfMlp0a05taE5JMUs0M1NSdmlaM2xMcEZEVTNINlkzeFNUZzhlOXhUam9KOTNGSklhakpRNXpicmp2czM5TWM0QWVlbFFocEpkTU1SRDVtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3df6757bcc1a",
+      "title": "Krabben maakt muggenbult alleen maar erger: dit helpt volgens artsen beter tegen de jeuk - AD.nl",
+      "published": "2026-08-13T11:15:00+00:00",
+      "summary": "Krabben maakt muggenbult alleen maar erger: dit helpt volgens artsen beter tegen de jeuk&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUJtWlVzcUZCYmxRMmJBVXdyQzFEMGp3QVp1UGNXYUlVUGpfRk1FODVqb2FTdm1Hb1Rfb2FVc1VkbUhYWXc0LVdLbFczeFR3d0RhRV9vMWJsZDF0czBPRlJjOG5sODFLaWU4aHFoWGVtU0xuNlpYS29kRWY0Q1h4SUNjeVI1VEZOc0l2UVdsbG9FNF9FWlllQ0pQYUVkVHYwb0RhektHUmFHWFgzQXlCR2R4dzlFYV9aRVlpa1pSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "629bc2df85c5",
+      "title": "Minder geschoold, zwaar werk verricht en arm? Dan is de kans kleiner dat een patiënt de IC levend verlaat - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-12T12:47:46+00:00",
+      "summary": "Minder geschoold, zwaar werk verricht en arm? Dan is de kans kleiner dat een patiënt de IC levend verlaat&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGN5aEVKZjMtYk5sWlFIOTExTTI1ZDZ5RXlNNGtaNXFBMWZpUEpFSnBpSjlMeUNBem1tNHBKOHNGX1ZPSFB3M2g0SE9NaFJTaUk3aVlmay1lQm9GTDZfR3ZldXJGNjlBVGFSZ193TjFJTUNOYTVvX3B2Z1pscUxmR3hSZ3dfQ1M0d1FtaHN0M1pNMzFNay1ISnByVzhLREZ2dk5GNVBxNTNwY2lfS0xXNDBWSElKOVQwTFZraUhXWWN2VDhqZ01EVUNlOWtqbDlnSTFvLXhPamxES0lCTWYwRmFBRQ?oc=5"
         }
       ]
     },
@@ -76,14 +88,26 @@
       ]
     },
     {
-      "id": "c872131bc343",
-      "title": "Een glucosesensor heeft weinig nut als je geen diabetes hebt - gezondheidenwetenschap.be",
-      "published": "2026-08-12T08:40:40+00:00",
-      "summary": "Een glucosesensor heeft weinig nut als je geen diabetes hebt&nbsp;&nbsp;gezondheidenwetenschap.be",
+      "id": "8f59172bc7e4",
+      "title": "Opinie | Laat suïcidale jonge vrouwen niet helemaal aan hun lot over - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-12T10:00:00+00:00",
+      "summary": "Opinie | Laat suïcidale jonge vrouwen niet helemaal aan hun lot over&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "sources": [
         {
-          "name": "gezondheidenwetenschap.be",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzBPS0Y2aUl1MXFVVThsWDdqdjJPNlhUZkpvR0tlSHNBOEdHV3YyUlN6NTBLcDBRLWNNTmFzSFF3UkhQUTY1dWJmOVdPSUVYbXFVMjFjSkE4b3ZFdHh6YXJWMXVhUGNaUEtjd3lDUWRabjE3R1NFanl3THlteHVsUmN5MUNCcVZkNE53eEd4eDNkcDJZeHYyNTAxQzB3MmVFYkZ5dFhud2FQV3pVZ2ZfRkh2R3VhZDN0c0MtQnp3?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkJvVld3Y2JILTFZRWFOUFo0MjFQWGhtZzBBM09ncF9aQmJMUy1GN21FeTVlb0VMMzc4LXNLQ1FhYlhfOTgxYXY0N2llVnRqdzRCd0JGR29MQy1XaGdSc2RMRFRuVXZLUXI4cXF1NU9kV3JhdmowU2xmWTNJQ3Q3bmJWVkdHMHRlUlQxR09IZ0h3OHpsazZFWWRqdURCV2RKOEJsc1pJckk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "626e4143266b",
+      "title": "Grootschalig onderzoek: Zeer veelvoorkomende aandoening kan je risico op diabetes flink verhogen – dit zijn de tips die een professor zelf volgt om deze volksziekte te voorkomen - wibnet.nl",
+      "published": "2026-08-12T18:30:06+00:00",
+      "summary": "Grootschalig onderzoek: Zeer veelvoorkomende aandoening kan je risico op diabetes flink verhogen – dit zijn de tips die een professor zelf volgt om deze volksziekte te voorkomen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRGRzN2RtelU5cWZMSlNQeUNCdHF0S1FMR3V0MVFvOG9UQlBOQUs0cFN0RXNnMUxEcnNza29ZMFJJaWtKVzdBeHV2S29tdDlxVkktT2FORFJfb3kxek1Udy1PNWp5RFk0eFI5Zm8zRFg1RzFMclZOTnlDODBUc3dlX0tCNFZUdU91SlV2NjRCcHFlLTAtTXBtQS0zNDJGemtwUW1hbGRfVFg5UmNMMWRBeWh6ZHhBeUpZZ0ZBUWJkWGt4d01FNFRETlRZZzFPdXZIWXE1U08zS1Fqcmk0bHlCcFRZSkNGMUhQUGlGRkNOcGFKMzJVNGhQZmtjQWFDT05LYkxWX1hGNG9jeEUyLVV5aEtRdjJSV1A1bDVzQkpXd3RnOFFxbVY1MmowTQ?oc=5"
         }
       ]
     }

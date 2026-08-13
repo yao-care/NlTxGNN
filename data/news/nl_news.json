@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-13T13:00:57.702454+00:00",
-  "count": 9,
+  "fetched_at": "2026-08-13T18:58:01.216364+00:00",
+  "count": 8,
   "news": [
     {
       "id": "8bfc04a3fd79",
@@ -19,7 +19,7 @@
       "id": "07a5cae2f689",
       "title": "Seniorenspecialist Mitchell: ‘Dementie is niet onvermijdelijk, inzetten op bewegen loont’ - Metronieuws.nl",
       "published": "2026-08-12T13:14:00+00:00",
-      "summary": "Seniorenspecialist Mitchell: ‘Dementie is niet onvermijdelijk, inzetten op bewegen loont’&nbsp;&nbsp;Metronieuws.nlColumn | Ik durf het bijna niet te zeggen, maar we leven steeds gezonder&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAlzheimer Café met als thema beweging&nbsp;&nbsp;Zwolle.nieuws.nl‘Bewegen verkleint niet alleen de kans op dementie, maar vertraagt ook het ziekteproces’&nbsp;&nbsp;Nationale ZorggidsDementie verandert je hersenen al 20 jaar voor je iets merkt&nbs",
+      "summary": "Seniorenspecialist Mitchell: ‘Dementie is niet onvermijdelijk, inzetten op bewegen loont’&nbsp;&nbsp;Metronieuws.nlColumn | Ik durf het bijna niet te zeggen, maar we leven steeds gezonder&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAlzheimer Café met als thema beweging&nbsp;&nbsp;Zwolle.nieuws.nl‘Bewegen verkleint niet alleen de kans op dementie, maar vertraagt ook het ziekteproces’&nbsp;&nbsp;Nationale ZorggidsWaarom is je brein in gevaar? Wat regeringen dringend moeten ver",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -31,7 +31,7 @@
       "id": "3fc9d752ca52",
       "title": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen - Nieuwe Oogst",
       "published": "2026-08-12T09:29:00+00:00",
-      "summary": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen&nbsp;&nbsp;Nieuwe OogstMeer meldingen van koorts en melkproductiedaling bij melkvee&nbsp;&nbsp;BoerderijNieuw orthobunyavirus mogelijk ook in Nederland&nbsp;&nbsp;VeeteeltGD: veel meldingen van symptomen nieuw knuttenvirus&nbsp;&nbsp;Sterke ErvenNieuw virus rukt op bij rundvee: “Mogelijk snelle verspreiding”&nbsp;&nbsp;VILT vzw",
+      "summary": "Nieuw virus: ook Nederlandse koeien vertonen verdachte verschijnselen&nbsp;&nbsp;Nieuwe OogstMeer meldingen van koorts en melkproductiedaling bij melkvee&nbsp;&nbsp;BoerderijGD onderzoekt mogelijke nieuwe virusziekte bij runderen&nbsp;&nbsp;De KalverhouderNieuw orthobunyavirus mogelijk ook in Nederland&nbsp;&nbsp;VeeteeltNieuw virus rukt op bij rundvee: “Mogelijk snelle verspreiding”&nbsp;&nbsp;VILT vzw",
       "sources": [
         {
           "name": "Nieuwe Oogst",
@@ -40,26 +40,14 @@
       ]
     },
     {
-      "id": "3df6757bcc1a",
-      "title": "Krabben maakt muggenbult alleen maar erger: dit helpt volgens artsen beter tegen de jeuk - AD.nl",
+      "id": "8acd12a9d87a",
+      "title": "Muggenbeet die maar blijft jeuken? Bij deze tekenen moet je je bij arts melden - AD.nl",
       "published": "2026-08-13T11:15:00+00:00",
-      "summary": "Krabben maakt muggenbult alleen maar erger: dit helpt volgens artsen beter tegen de jeuk&nbsp;&nbsp;AD.nl",
+      "summary": "Muggenbeet die maar blijft jeuken? Bij deze tekenen moet je je bij arts melden&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUJtWlVzcUZCYmxRMmJBVXdyQzFEMGp3QVp1UGNXYUlVUGpfRk1FODVqb2FTdm1Hb1Rfb2FVc1VkbUhYWXc0LVdLbFczeFR3d0RhRV9vMWJsZDF0czBPRlJjOG5sODFLaWU4aHFoWGVtU0xuNlpYS29kRWY0Q1h4SUNjeVI1VEZOc0l2UVdsbG9FNF9FWlllQ0pQYUVkVHYwb0RhektHUmFHWFgzQXlCR2R4dzlFYV9aRVlpa1pSZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "629bc2df85c5",
-      "title": "Minder geschoold, zwaar werk verricht en arm? Dan is de kans kleiner dat een patiënt de IC levend verlaat - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-12T12:47:46+00:00",
-      "summary": "Minder geschoold, zwaar werk verricht en arm? Dan is de kans kleiner dat een patiënt de IC levend verlaat&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGN5aEVKZjMtYk5sWlFIOTExTTI1ZDZ5RXlNNGtaNXFBMWZpUEpFSnBpSjlMeUNBem1tNHBKOHNGX1ZPSFB3M2g0SE9NaFJTaUk3aVlmay1lQm9GTDZfR3ZldXJGNjlBVGFSZ193TjFJTUNOYTVvX3B2Z1pscUxmR3hSZ3dfQ1M0d1FtaHN0M1pNMzFNay1ISnByVzhLREZ2dk5GNVBxNTNwY2lfS0xXNDBWSElKOVQwTFZraUhXWWN2VDhqZ01EVUNlOWtqbDlnSTFvLXhPamxES0lCTWYwRmFBRQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGVCNmg3R0NacjlHTm9QNnY3Y3hVRWFXWDRGTWZBMFlnWXQ5djk2ZkxnaGRGZkNJdjBlcUo0RUJMNVRTeFdON3dIODZJSnVKTlZmZ3l2OWJ1a1dLWGhTTUxFbXExMFpkdEgtUkNhN2xLb0U3QXRseF9DbXl6cWN3VXp3cjV2VDlQdTVwcTlLX3FldGZGTVZDV0NleHgydTRQSno1WmVNSDNDbzRBNzBnVVlB?oc=5"
         }
       ]
     },

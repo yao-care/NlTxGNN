@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-13T01:41:54.527091+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-13T07:20:48.827398+00:00",
+  "count": 7,
   "news": [
     {
       "id": "3fc9d752ca52",
@@ -16,10 +16,22 @@
       ]
     },
     {
+      "id": "8bfc04a3fd79",
+      "title": "Doorbraak in strijd tegen erfelijke hersenziekte: dit medicijn remt dodelijke aandoening bij kinderen - De Telegraaf",
+      "published": "2026-08-13T06:01:39+00:00",
+      "summary": "Doorbraak in strijd tegen erfelijke hersenziekte: dit medicijn remt dodelijke aandoening bij kinderen&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1RQeXIxUXg3N1g2UTJIbzNWQW1pSXFMWlFtcjFCeVFQWmtUakV0Yk8xdE5BU0FHWEdPa3lURTBGUXRHZ3g1NFRqNFRONlVzRkpSWmFIMXFiRlpvMmExeUZSSkJaVFNVd2pzNnVyREIwcGk5bllEQ2hidzFBcmxYYXBSVjR2aTFtY25zRU1MdTdDV3BHMW9VazNEVlQtUE5uM1BadjRvZ3JqSEtPVFZDYVJzclp3bURaSUJRR0JWbjNxbEw3ekFVY0JnUkM4YWgyQW56Z2gyZWpOQmZWR3N1UV8xUDlRQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3207b90ffe6",
       "title": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden - NOS",
       "published": "2026-08-11T09:18:35+00:00",
-      "summary": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;NOSEbola-epidemie in Congo loopt uit de hand: “Virus verspreidt zich sneller dan bij elke vorige uitbraak”&nbsp;&nbsp;HLNLIVE WHO-baas waarschuwt dat huidige ebola-uitbraak op weg is om dodelijkste ooit te worden&nbsp;&nbsp;VRTMeer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim tweeduizend dod",
+      "summary": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden&nbsp;&nbsp;NOSEbola-epidemie in Congo loopt uit de hand: “Virus verspreidt zich sneller dan bij elke vorige uitbraak”&nbsp;&nbsp;HLNLIVE WHO-baas waarschuwt dat huidige ebola-uitbraak op weg is om dodelijkste ooit te worden&nbsp;&nbsp;VRTMeer dan tweeduizend doden door ebola in Democratische Republiek Congo, ‘ebolavirus mogelijk aan het muteren’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak DRC b",
       "sources": [
         {
           "name": "NOS",

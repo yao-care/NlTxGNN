@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-15T06:31:11.789151+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-15T12:29:43.282068+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "8acd12a9d87a",
-      "title": "Muggenbeet die maar blijft jeuken? Bij deze tekenen moet je je bij arts melden - AD.nl",
-      "published": "2026-08-13T11:15:00+00:00",
-      "summary": "Muggenbeet die maar blijft jeuken? Bij deze tekenen moet je je bij arts melden&nbsp;&nbsp;AD.nl",
+      "id": "31d8f0667e0f",
+      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - RTV Noord",
+      "published": "2026-08-15T08:01:33+00:00",
+      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;RTV Noord",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGVCNmg3R0NacjlHTm9QNnY3Y3hVRWFXWDRGTWZBMFlnWXQ5djk2ZkxnaGRGZkNJdjBlcUo0RUJMNVRTeFdON3dIODZJSnVKTlZmZ3l2OWJ1a1dLWGhTTUxFbXExMFpkdEgtUkNhN2xLb0U3QXRseF9DbXl6cWN3VXp3cjV2VDlQdTVwcTlLX3FldGZGTVZDV0NleHgydTRQSno1WmVNSDNDbzRBNzBnVVlB?oc=5"
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzNnWThDVWZoZ3VBQURMOXZpOW5FVGthT3VoR1NVdmFXSFJ4WExSUU45WEh0WkNyM0xoeHI1eUVsZldxWEN2d3VGUmx3Y0wxbmFrcnF5SWpDV2dGa3J1WF9BbWtTRzZzV2JaLW1OcXdVSmY2Zkk1Zk4tYUFVRW9Hd3hMRFI0QmYtQkk2X3p0VV8wUDl4YVhWVjI4NG9HeUZtaGZ2bXNrNFdlOUY4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9207da31caf",
+      "title": "Waarom wandelen en yoga de perfecte combinatie zijn voor je hart - Marie Claire",
+      "published": "2026-08-15T05:00:00+00:00",
+      "summary": "Waarom wandelen en yoga de perfecte combinatie zijn voor je hart&nbsp;&nbsp;Marie Claire",
+      "sources": [
+        {
+          "name": "Marie Claire",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkNhcW53djl3SHhFVDExMFRUX2FPYmRKS0hkQjMxcnM1emgtaURuSmNfT2hHRU5KdkNTd2FQRm1CQ0Q1U1hWOHNlamtqVW90R3dhRERjMnVXekw1UmlZa19vZVg5U0JLYWl5THZrZjZoTTNLUEtrNENzZHlmUTIyQzBsMnVjZl9tY2c?oc=5"
         }
       ]
     },
@@ -24,6 +36,18 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFJXSFpHYjVaYkgwek9XS1YxZ05acnFiWWFDNkdyajlQY01fdDlPRzI0cGxrVTZhSWZyVU1VS3BPa2doMjJFLU0zVDlncmMwSmFmTjRMcjBsdXBiOU1EcWpESXhvb0NwSU1qVEF4b1V3ZndwM09oTmNzVkIwX202YUZOeE5FUDcxaWxxd1VJYnVCc0UtSkNtRlFjYXpVODJzdTlUSWRYUmlxTTJqb0JOMTBIbmx6VXd0Ti00YkkyQktjYmlwWmV5Z1FFalNqOU9MRG1WeEl0MWUxSWpXRzQwb2tYcThHMW5fd1FR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "23ec05be1134",
+      "title": "Maasstad Ziekenhuis maakt interessante uitlegvideo, maar trek heb je voorlopig niet meer - VK Magazine",
+      "published": "2026-08-14T10:03:00+00:00",
+      "summary": "Maasstad Ziekenhuis maakt interessante uitlegvideo, maar trek heb je voorlopig niet meer&nbsp;&nbsp;VK Magazine",
+      "sources": [
+        {
+          "name": "VK Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczRqckJMUVFMd1A5Z0xIcVRHR0QzWllTbnRyZ2h2RG5DM2pzVlh6c21KSEgwa3daN3hRT1pqUHUxOTFNQkJqV2U0bmcxcEtnemZSbHVZcXlfeWhTMlVVdVA0b2pzYjBNaGlFRDBkcFlxTjBMNElxUVczZTZXblFhUDVHVGVBdk94V3YxSHZtUUtsdW9SUDhVN0l6Mkxnb1RxcE1rVXdoYkNybVRjUFN6ZEZ5LU9feUxfWVHSAb8BQVVfeXFMTTRmR2VGM3FtTkhKdHlTb1hUOWRYcm4yYTVHT0VsVnVJaVNKQ0NSMXNXTDFSTDhxbHoyWWNESmlTSWk5RjY3X2d3Y09CVzE0djVyVTFzdU13b1RTOXk3ZURuZWdka01SUG1vQlphVlNSRGRmeV9NNXhjWTNqTlh5RlNSb2VFQ240UVd5cnBILWNqNnAya19yOC1JR1dvdldpalgwTEtkTGliU3BLVFp6WG9PSzFrUHFnZm5tTlNzQ0U?oc=5"
         }
       ]
     }

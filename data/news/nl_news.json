@@ -1,16 +1,28 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-15T12:29:43.282068+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-15T18:22:24.030541+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "31d8f0667e0f",
-      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - RTV Noord",
-      "published": "2026-08-15T08:01:33+00:00",
-      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;RTV Noord",
+      "id": "f5396c55f4db",
+      "title": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie - bnr.nl",
+      "published": "2026-08-15T11:25:00+00:00",
+      "summary": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie&nbsp;&nbsp;bnr.nlArtsen: neem ook mensen met ernstige psychiatrische ziekte op in Nationaal Hitteplan&nbsp;&nbsp;NOSWaarom hoge temperaturen leiden tot stress en 'n kort lontje&nbsp;&nbsp;flair.nlDe hitte tast je mentaal welzijn aan: experts geven tips om jezelf te beschermen. “Het klinkt onnozel, maar dit helpt echt”&nbsp;&nbsp;HLNHoge temperaturen hangen samen met meer zelfdodingen&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
-          "name": "RTV Noord",
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3JTOG1rWGFuTWlJQmZzSXdaQlN6cFFXZElrRGlUaEFERVBGRjdsZE00allLeElFcmNiUHdzZmdyMnNyb2ZoSy14S1ZBNGZHWGM2VU5valg5Ym56SlNpSnZFZ1Nacm5kOHdOOTNZYUdpM1RBQ3djaUF6LU9seWtKcnBMd3o0SnlxRHVaNnVzR2F3UjlJbWlCcElqX1hzV1pWSW9ZUm1zemtUWFVrRzQtb2o5Q0Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cec211f52d03",
+      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - rtvnoord.nl",
+      "published": "2026-08-15T08:01:33+00:00",
+      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;rtvnoord.nl",
+      "sources": [
+        {
+          "name": "rtvnoord.nl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzNnWThDVWZoZ3VBQURMOXZpOW5FVGthT3VoR1NVdmFXSFJ4WExSUU45WEh0WkNyM0xoeHI1eUVsZldxWEN2d3VGUmx3Y0wxbmFrcnF5SWpDV2dGa3J1WF9BbWtTRzZzV2JaLW1OcXdVSmY2Zkk1Zk4tYUFVRW9Hd3hMRFI0QmYtQkk2X3p0VV8wUDl4YVhWVjI4NG9HeUZtaGZ2bXNrNFdlOUY4?oc=5"
         }
       ]
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "2d72319960ca",
+      "title": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’ - flair.nl",
+      "published": "2026-08-15T05:33:37+00:00",
+      "summary": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’&nbsp;&nbsp;flair.nl",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWpwSV85bXg2eXBNYlNFelMwdE82RURyeU9hcm9PcTdBaGZWVkpac2lkc19SWWx6UUhySUNMLUpycnVidEo3dTN2R21DNVZnM0JyeVB1MUVGZVRvX2lEb1cwYjhWY2VVVGNIRVVHcmQ5TnhQUi1PWGg2d1JwTFlQald4bURsdlpkRmFXb3NXaFlic2JLSXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eca81f3ad1b6",
       "title": "Waarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetenschappers tasten nog altijd in het duister - Welingelichte Kringen",
       "published": "2026-08-14T16:17:54+00:00",
@@ -36,18 +60,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFJXSFpHYjVaYkgwek9XS1YxZ05acnFiWWFDNkdyajlQY01fdDlPRzI0cGxrVTZhSWZyVU1VS3BPa2doMjJFLU0zVDlncmMwSmFmTjRMcjBsdXBiOU1EcWpESXhvb0NwSU1qVEF4b1V3ZndwM09oTmNzVkIwX202YUZOeE5FUDcxaWxxd1VJYnVCc0UtSkNtRlFjYXpVODJzdTlUSWRYUmlxTTJqb0JOMTBIbmx6VXd0Ti00YkkyQktjYmlwWmV5Z1FFalNqOU9MRG1WeEl0MWUxSWpXRzQwb2tYcThHMW5fd1FR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23ec05be1134",
-      "title": "Maasstad Ziekenhuis maakt interessante uitlegvideo, maar trek heb je voorlopig niet meer - VK Magazine",
-      "published": "2026-08-14T10:03:00+00:00",
-      "summary": "Maasstad Ziekenhuis maakt interessante uitlegvideo, maar trek heb je voorlopig niet meer&nbsp;&nbsp;VK Magazine",
-      "sources": [
-        {
-          "name": "VK Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczRqckJMUVFMd1A5Z0xIcVRHR0QzWllTbnRyZ2h2RG5DM2pzVlh6c21KSEgwa3daN3hRT1pqUHUxOTFNQkJqV2U0bmcxcEtnemZSbHVZcXlfeWhTMlVVdVA0b2pzYjBNaGlFRDBkcFlxTjBMNElxUVczZTZXblFhUDVHVGVBdk94V3YxSHZtUUtsdW9SUDhVN0l6Mkxnb1RxcE1rVXdoYkNybVRjUFN6ZEZ5LU9feUxfWVHSAb8BQVVfeXFMTTRmR2VGM3FtTkhKdHlTb1hUOWRYcm4yYTVHT0VsVnVJaVNKQ0NSMXNXTDFSTDhxbHoyWWNESmlTSWk5RjY3X2d3Y09CVzE0djVyVTFzdU13b1RTOXk3ZURuZWdka01SUG1vQlphVlNSRGRmeV9NNXhjWTNqTlh5RlNSb2VFQ240UVd5cnBILWNqNnAya19yOC1JR1dvdldpalgwTEtkTGliU3BLVFp6WG9PSzFrUHFnZm5tTlNzQ0U?oc=5"
         }
       ]
     }

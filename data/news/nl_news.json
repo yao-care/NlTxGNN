@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-14T18:47:53.537645+00:00",
+  "fetched_at": "2026-08-15T01:01:10.249066+00:00",
   "count": 2,
   "news": [
+    {
+      "id": "eca81f3ad1b6",
+      "title": "Waarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetenschappers tasten nog altijd in het duister - Welingelichte Kringen",
+      "published": "2026-08-14T16:17:54+00:00",
+      "summary": "Waarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetenschappers tasten nog altijd in het duister&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFJXSFpHYjVaYkgwek9XS1YxZ05acnFiWWFDNkdyajlQY01fdDlPRzI0cGxrVTZhSWZyVU1VS3BPa2doMjJFLU0zVDlncmMwSmFmTjRMcjBsdXBiOU1EcWpESXhvb0NwSU1qVEF4b1V3ZndwM09oTmNzVkIwX202YUZOeE5FUDcxaWxxd1VJYnVCc0UtSkNtRlFjYXpVODJzdTlUSWRYUmlxTTJqb0JOMTBIbmx6VXd0Ti00YkkyQktjYmlwWmV5Z1FFalNqOU9MRG1WeEl0MWUxSWpXRzQwb2tYcThHMW5fd1FR?oc=5"
+        }
+      ]
+    },
     {
       "id": "8acd12a9d87a",
       "title": "Muggenbeet die maar blijft jeuken? Bij deze tekenen moet je je bij arts melden - AD.nl",
@@ -12,18 +24,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGVCNmg3R0NacjlHTm9QNnY3Y3hVRWFXWDRGTWZBMFlnWXQ5djk2ZkxnaGRGZkNJdjBlcUo0RUJMNVRTeFdON3dIODZJSnVKTlZmZ3l2OWJ1a1dLWGhTTUxFbXExMFpkdEgtUkNhN2xLb0U3QXRseF9DbXl6cWN3VXp3cjV2VDlQdTVwcTlLX3FldGZGTVZDV0NleHgydTRQSno1WmVNSDNDbzRBNzBnVVlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6ef9267f03b",
-      "title": "Er blijkt een verrassend simpele manier om je risico op diabetes te verkleinen - Welingelichte Kringen",
-      "published": "2026-08-13T10:37:01+00:00",
-      "summary": "Er blijkt een verrassend simpele manier om je risico op diabetes te verkleinen&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWxuQVZCTEJZdzBFMmdZekZsRUVRa1VlMDY5ZjdpTmpBX29qc1piY3FyNTJnYjNkT3FFRHlMVDZBdjVreEVVS3lXanBrUHQxd1hWdGhRYzg3Y2tudUVfQUgzR3VMTk83V3NjdDNIQ2NaMWhmQjl2bllldTV3cTFfenJZWjBZR3VhLVJMenBJdjdXYnF4ZWlKMDU2ZTBWd1lCOWx2Q1NEWUh0Yk1IQlhUMW9IdUIwbW5pZVF5VzVuRXo3TkE?oc=5"
         }
       ]
     }

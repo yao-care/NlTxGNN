@@ -1,12 +1,12 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-15T18:22:24.030541+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-16T01:04:44.871965+00:00",
+  "count": 6,
   "news": [
     {
       "id": "f5396c55f4db",
       "title": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie - bnr.nl",
-      "published": "2026-08-15T11:25:00+00:00",
+      "published": "2026-08-15T11:25:36+00:00",
       "summary": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie&nbsp;&nbsp;bnr.nlArtsen: neem ook mensen met ernstige psychiatrische ziekte op in Nationaal Hitteplan&nbsp;&nbsp;NOSWaarom hoge temperaturen leiden tot stress en 'n kort lontje&nbsp;&nbsp;flair.nlDe hitte tast je mentaal welzijn aan: experts geven tips om jezelf te beschermen. “Het klinkt onnozel, maar dit helpt echt”&nbsp;&nbsp;HLNHoge temperaturen hangen samen met meer zelfdodingen&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
@@ -16,13 +16,25 @@
       ]
     },
     {
-      "id": "cec211f52d03",
-      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - rtvnoord.nl",
-      "published": "2026-08-15T08:01:33+00:00",
-      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;rtvnoord.nl",
+      "id": "a41a595df3cc",
+      "title": "Wat doet Ozempic met je mentale gezondheid? LUMC-arts over de positieve én negatieve gevolgen - quest.nl",
+      "published": "2026-08-15T08:08:46+00:00",
+      "summary": "Wat doet Ozempic met je mentale gezondheid? LUMC-arts over de positieve én negatieve gevolgen&nbsp;&nbsp;quest.nl",
       "sources": [
         {
-          "name": "rtvnoord.nl",
+          "name": "quest.nl",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUjFFR0gxZy1iV2ZlT2JFMkxEM3ByVVFBd0kwN2lseVVjN1A1ZWxabW04Y0EzekJpMzZFaVZnLW5QbVhoQy1MSUtKaTZmUmM0NlZNZDdZU0ZWOWE1WEI4a2tGeDR3UWUwTlpMM0NEWmhGN3dDUTVFckthcUozTHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31d8f0667e0f",
+      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - RTV Noord",
+      "published": "2026-08-15T08:01:33+00:00",
+      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;RTV Noord",
+      "sources": [
+        {
+          "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzNnWThDVWZoZ3VBQURMOXZpOW5FVGthT3VoR1NVdmFXSFJ4WExSUU45WEh0WkNyM0xoeHI1eUVsZldxWEN2d3VGUmx3Y0wxbmFrcnF5SWpDV2dGa3J1WF9BbWtTRzZzV2JaLW1OcXdVSmY2Zkk1Zk4tYUFVRW9Hd3hMRFI0QmYtQkk2X3p0VV8wUDl4YVhWVjI4NG9HeUZtaGZ2bXNrNFdlOUY4?oc=5"
         }
       ]

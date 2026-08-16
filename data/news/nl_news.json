@@ -1,12 +1,12 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-16T12:31:30.119929+00:00",
+  "fetched_at": "2026-08-16T18:22:02.787135+00:00",
   "count": 6,
   "news": [
     {
       "id": "f5396c55f4db",
       "title": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie - bnr.nl",
-      "published": "2026-08-15T11:25:00+00:00",
+      "published": "2026-08-15T11:25:37+00:00",
       "summary": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie&nbsp;&nbsp;bnr.nlArtsen: neem ook mensen met ernstige psychiatrische ziekte op in Nationaal Hitteplan&nbsp;&nbsp;NOSWaarom hoge temperaturen leiden tot stress en 'n kort lontje&nbsp;&nbsp;flair.nlDe hitte tast je mentaal welzijn aan: experts geven tips om jezelf te beschermen. “Het klinkt onnozel, maar dit helpt echt”&nbsp;&nbsp;HLNHoge temperaturen hangen samen met meer zelfdodingen&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "22224899072c",
+      "title": "Een kwart van de Nederlanders kijkt in telefoon van partner - flair.nl",
+      "published": "2026-08-15T08:47:55+00:00",
+      "summary": "Een kwart van de Nederlanders kijkt in telefoon van partner&nbsp;&nbsp;flair.nlWaarom die telefoon in je relatie de échte verbinding in de weg staat&nbsp;&nbsp;GezondnuOnderzoek: 1 op de 5 kijkt stiekem in partners telefoon&nbsp;&nbsp;GadgetGear.nlWow: zoveel mensen checken stiekem de telefoon van hun partner, blijkt uit onderzoek&nbsp;&nbsp;Kek Mama",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VMYnM4WmhQWjcyWU9uM2hjM1JBQ0szZUIyODVTRFlWRV9XRFJPRmZCZWJ0S0lzcTY4RkRUQWJPUmxJZHRMRmhITVRtNzVIaG9yRWpQNmNtTmIzaUNRQlo4LU1FNVQ3RWRfUGtEVVh4TjlFMkpXRHN1SUUyM29MZGNxYmJqUzREM3pHNHVCMWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d72319960ca",
       "title": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’ - flair.nl",
       "published": "2026-08-15T05:33:37+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "flair.nl",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWpwSV85bXg2eXBNYlNFelMwdE82RURyeU9hcm9PcTdBaGZWVkpac2lkc19SWWx6UUhySUNMLUpycnVidEo3dTN2R21DNVZnM0JyeVB1MUVGZVRvX2lEb1cwYjhWY2VVVGNIRVVHcmQ5TnhQUi1PWGg2d1JwTFlQald4bURsdlpkRmFXb3NXaFlic2JLSXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eca81f3ad1b6",
-      "title": "Waarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetenschappers tasten nog altijd in het duister - Welingelichte Kringen",
-      "published": "2026-08-14T16:17:54+00:00",
-      "summary": "Waarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetenschappers tasten nog altijd in het duister&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFJXSFpHYjVaYkgwek9XS1YxZ05acnFiWWFDNkdyajlQY01fdDlPRzI0cGxrVTZhSWZyVU1VS3BPa2doMjJFLU0zVDlncmMwSmFmTjRMcjBsdXBiOU1EcWpESXhvb0NwSU1qVEF4b1V3ZndwM09oTmNzVkIwX202YUZOeE5FUDcxaWxxd1VJYnVCc0UtSkNtRlFjYXpVODJzdTlUSWRYUmlxTTJqb0JOMTBIbmx6VXd0Ti00YkkyQktjYmlwWmV5Z1FFalNqOU9MRG1WeEl0MWUxSWpXRzQwb2tYcThHMW5fd1FR?oc=5"
         }
       ]
     }

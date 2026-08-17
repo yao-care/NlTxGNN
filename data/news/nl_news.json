@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-17T12:36:07.364029+00:00",
+  "fetched_at": "2026-08-17T18:32:57.390135+00:00",
   "count": 4,
   "news": [
     {
-      "id": "4b54eb42504e",
-      "title": "Westnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen - NU",
-      "published": "2026-08-17T09:10:01+00:00",
-      "summary": "Westnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen&nbsp;&nbsp;NUPersoon in Nederland besmet met westnijlvirus, eerste besmetting sinds 2020&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWestnijlvirus aangetroffen bij bloeddonor in Nederland, eerste keer sinds 2020&nbsp;&nbsp;NOSWestnijlvirus aangetroffen bij bloeddonor, in Nederland besmet geraakt&nbsp;&nbsp;RTL.nl",
+      "id": "7526e542d4d0",
+      "title": "Sanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus - AD.nl",
+      "published": "2026-08-17T14:09:00+00:00",
+      "summary": "Sanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen&nbsp;&nbsp;NUDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheWestnijlvirus aangetroffen bij bloeddonor in Nederland, eerste keer sinds 2020&nbsp;&nbsp;NOSWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUtWUDFHMWx5ZzdCR2NNblZTcmVRb1FrNkJaRWlOU000ZWNHdDVKa0duV0hVRjlCS0w2cnQ5V0ttRGx4WVY4aDBCWDNabUpocmRRTVk1TExuZ3VzVWhHV2F2dGpuS0Y3ZE1KSmdMVmJfUnI4VTRiMmJnMzNyeUQtZUZCWS1QdExrUmpsaGw3RHJwQ081TGNTMm1aLUJ6RDJyRGRrbUg2VjVPSE51YV9nWDNSeVBRQzRYNFA4?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmxrV3AwbWhZblFJVXNJY1VwMXkwVE41dVpvTE91LW12MzJKN1Z4ejQtY29Cb05sdllMSk5QbTUyakNwSnBJOS1GbHN2X29MU3ZSeTFkZ2UxMnc5QnpWVEZ1bXlfY19iMXJRUE5OQVVqdkFnWk9CWURJVW9MWTB6bW5JVXNmT016Z0xDNEZnMHVYTjFjUmNKdmRMS2tYWGczZzNVanU3dVgwaVFnVzBrQlZTcW1naDFCYzZQb3JVa0lSa1NiWE5OMHF3bWwtNTQ?oc=5"
         }
       ]
     },
     {
-      "id": "621da64ddb93",
-      "title": "Ebola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-17T07:51:47+00:00",
-      "summary": "Ebola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak Congo dodelijkste ooit in het land&nbsp;&nbsp;AD.nlVN slaat alarm: ebola doodt elke dertig minuten iemand in Congo&nbsp;&nbsp;MAROKKO.nl",
+      "id": "5cba4ec7597b",
+      "title": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land - telegraaf.nl",
+      "published": "2026-08-17T16:31:00+00:00",
+      "summary": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;telegraaf.nlEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak Congo dodelijkste ooit in het land&nbsp;&nbsp;AD.nlEbola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWlZcVpsSlczbUUzWDhpVFBMQ1lpQ2ZOcEJkNm9JcVNUNnlGUUtneWl5c29wRmJoUjNXdVRTRWxvY2tOMm91YUpOMzcwUjZGdnFIRnFFMVhvb20wMG1rRFZpcENDZW03NUZzWXRQMHlwZUxPY2xJa3JKTEhaMTZMd0ZtYVZFSHRnTEQ2S0s0SW45VDRoX2VCS25LYWlacUtITnBEU3NZODJjSDJ4TGpZSEJBWmVibXNuY3dvYl9ZOHpHSXdabnZQNFhqOFZpRjlMamtBNTU4OE9IOEdiUWVhellCcjJzczByQXRUSExXQ1NRNHl5UHFF?oc=5"
+          "name": "telegraaf.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc3VzZEFvMXVZelpybjJieXlMdzhsM1B6Vll5a1g4dHNYRkdiU241UVRFaTBaY0prclItUlhzRVVaRk55QVh2YXVQSWNCRVRpX2M4dElIS2RGbXB0cjR6bHlQMWhENWRfb3BHWHoxT0F1NHJQMzlLMDhjVENWSDlWWnBnLUlYQUc3RnJ6QW5ENXBSdW9FVlBoMDVwUm5uUVNTLWFJSVRDcXAtTzFEbjhNSi1lcDh1aXl3SExKdmZkNldId0pWN0YzNHFHeWd6YU82a0NjbVhnZ2dScFkw?oc=5"
         }
       ]
     },

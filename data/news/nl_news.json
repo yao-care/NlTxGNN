@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-16T18:22:02.787135+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-17T01:02:08.940156+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "f5396c55f4db",
-      "title": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie - bnr.nl",
-      "published": "2026-08-15T11:25:37+00:00",
-      "summary": "De onzichtbare slachtoffers van een hittegolf: mensen met schizofrenie&nbsp;&nbsp;bnr.nlArtsen: neem ook mensen met ernstige psychiatrische ziekte op in Nationaal Hitteplan&nbsp;&nbsp;NOSWaarom hoge temperaturen leiden tot stress en 'n kort lontje&nbsp;&nbsp;flair.nlDe hitte tast je mentaal welzijn aan: experts geven tips om jezelf te beschermen. “Het klinkt onnozel, maar dit helpt echt”&nbsp;&nbsp;HLNHoge temperaturen hangen samen met meer zelfdodingen&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3JTOG1rWGFuTWlJQmZzSXdaQlN6cFFXZElrRGlUaEFERVBGRjdsZE00allLeElFcmNiUHdzZmdyMnNyb2ZoSy14S1ZBNGZHWGM2VU5valg5Ym56SlNpSnZFZ1Nacm5kOHdOOTNZYUdpM1RBQ3djaUF6LU9seWtKcnBMd3o0SnlxRHVaNnVzR2F3UjlJbWlCcElqX1hzV1pWSW9ZUm1zemtUWFVrRzQtb2o5Q0Q?oc=5"
-        }
-      ]
-    },
     {
       "id": "a41a595df3cc",
       "title": "Wat doet Ozempic met je mentale gezondheid? LUMC-arts over de positieve én negatieve gevolgen - quest.nl",
@@ -36,42 +24,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzNnWThDVWZoZ3VBQURMOXZpOW5FVGthT3VoR1NVdmFXSFJ4WExSUU45WEh0WkNyM0xoeHI1eUVsZldxWEN2d3VGUmx3Y0wxbmFrcnF5SWpDV2dGa3J1WF9BbWtTRzZzV2JaLW1OcXdVSmY2Zkk1Zk4tYUFVRW9Hd3hMRFI0QmYtQkk2X3p0VV8wUDl4YVhWVjI4NG9HeUZtaGZ2bXNrNFdlOUY4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9207da31caf",
-      "title": "Waarom wandelen en yoga de perfecte combinatie zijn voor je hart - Marie Claire",
-      "published": "2026-08-15T05:00:00+00:00",
-      "summary": "Waarom wandelen en yoga de perfecte combinatie zijn voor je hart&nbsp;&nbsp;Marie Claire",
-      "sources": [
-        {
-          "name": "Marie Claire",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkNhcW53djl3SHhFVDExMFRUX2FPYmRKS0hkQjMxcnM1emgtaURuSmNfT2hHRU5KdkNTd2FQRm1CQ0Q1U1hWOHNlamtqVW90R3dhRERjMnVXekw1UmlZa19vZVg5U0JLYWl5THZrZjZoTTNLUEtrNENzZHlmUTIyQzBsMnVjZl9tY2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22224899072c",
-      "title": "Een kwart van de Nederlanders kijkt in telefoon van partner - flair.nl",
-      "published": "2026-08-15T08:47:55+00:00",
-      "summary": "Een kwart van de Nederlanders kijkt in telefoon van partner&nbsp;&nbsp;flair.nlWaarom die telefoon in je relatie de échte verbinding in de weg staat&nbsp;&nbsp;GezondnuOnderzoek: 1 op de 5 kijkt stiekem in partners telefoon&nbsp;&nbsp;GadgetGear.nlWow: zoveel mensen checken stiekem de telefoon van hun partner, blijkt uit onderzoek&nbsp;&nbsp;Kek Mama",
-      "sources": [
-        {
-          "name": "flair.nl",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VMYnM4WmhQWjcyWU9uM2hjM1JBQ0szZUIyODVTRFlWRV9XRFJPRmZCZWJ0S0lzcTY4RkRUQWJPUmxJZHRMRmhITVRtNzVIaG9yRWpQNmNtTmIzaUNRQlo4LU1FNVQ3RWRfUGtEVVh4TjlFMkpXRHN1SUUyM29MZGNxYmJqUzREM3pHNHVCMWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d72319960ca",
-      "title": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’ - flair.nl",
-      "published": "2026-08-15T05:33:37+00:00",
-      "summary": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’&nbsp;&nbsp;flair.nl",
-      "sources": [
-        {
-          "name": "flair.nl",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWpwSV85bXg2eXBNYlNFelMwdE82RURyeU9hcm9PcTdBaGZWVkpac2lkc19SWWx6UUhySUNMLUpycnVidEo3dTN2R21DNVZnM0JyeVB1MUVGZVRvX2lEb1cwYjhWY2VVVGNIRVVHcmQ5TnhQUi1PWGg2d1JwTFlQald4bURsdlpkRmFXb3NXaFlic2JLSXc?oc=5"
         }
       ]
     }

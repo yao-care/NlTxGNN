@@ -1,29 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-17T06:46:16.873307+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-17T12:36:07.364029+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "a41a595df3cc",
-      "title": "Wat doet Ozempic met je mentale gezondheid? LUMC-arts over de positieve én negatieve gevolgen - quest.nl",
-      "published": "2026-08-15T08:08:46+00:00",
-      "summary": "Wat doet Ozempic met je mentale gezondheid? LUMC-arts over de positieve én negatieve gevolgen&nbsp;&nbsp;quest.nl",
+      "id": "4b54eb42504e",
+      "title": "Westnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen - NU",
+      "published": "2026-08-17T09:10:01+00:00",
+      "summary": "Westnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen&nbsp;&nbsp;NUPersoon in Nederland besmet met westnijlvirus, eerste besmetting sinds 2020&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWestnijlvirus aangetroffen bij bloeddonor in Nederland, eerste keer sinds 2020&nbsp;&nbsp;NOSWestnijlvirus aangetroffen bij bloeddonor, in Nederland besmet geraakt&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "quest.nl",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUjFFR0gxZy1iV2ZlT2JFMkxEM3ByVVFBd0kwN2lseVVjN1A1ZWxabW04Y0EzekJpMzZFaVZnLW5QbVhoQy1MSUtKaTZmUmM0NlZNZDdZU0ZWOWE1WEI4a2tGeDR3UWUwTlpMM0NEWmhGN3dDUTVFckthcUozTHM?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUtWUDFHMWx5ZzdCR2NNblZTcmVRb1FrNkJaRWlOU000ZWNHdDVKa0duV0hVRjlCS0w2cnQ5V0ttRGx4WVY4aDBCWDNabUpocmRRTVk1TExuZ3VzVWhHV2F2dGpuS0Y3ZE1KSmdMVmJfUnI4VTRiMmJnMzNyeUQtZUZCWS1QdExrUmpsaGw3RHJwQ081TGNTMm1aLUJ6RDJyRGRrbUg2VjVPSE51YV9nWDNSeVBRQzRYNFA4?oc=5"
         }
       ]
     },
     {
-      "id": "31d8f0667e0f",
-      "title": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm - RTV Noord",
-      "published": "2026-08-15T08:00:00+00:00",
-      "summary": "Vaccinatiegraad bij jonge kinderen in Groningen daalt tot onder de norm&nbsp;&nbsp;RTV Noord",
+      "id": "621da64ddb93",
+      "title": "Ebola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-17T07:51:47+00:00",
+      "summary": "Ebola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak Congo dodelijkste ooit in het land&nbsp;&nbsp;AD.nlVN slaat alarm: ebola doodt elke dertig minuten iemand in Congo&nbsp;&nbsp;MAROKKO.nl",
       "sources": [
         {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzNnWThDVWZoZ3VBQURMOXZpOW5FVGthT3VoR1NVdmFXSFJ4WExSUU45WEh0WkNyM0xoeHI1eUVsZldxWEN2d3VGUmx3Y0wxbmFrcnF5SWpDV2dGa3J1WF9BbWtTRzZzV2JaLW1OcXdVSmY2Zkk1Zk4tYUFVRW9Hd3hMRFI0QmYtQkk2X3p0VV8wUDl4YVhWVjI4NG9HeUZtaGZ2bXNrNFdlOUY4?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWlZcVpsSlczbUUzWDhpVFBMQ1lpQ2ZOcEJkNm9JcVNUNnlGUUtneWl5c29wRmJoUjNXdVRTRWxvY2tOMm91YUpOMzcwUjZGdnFIRnFFMVhvb20wMG1rRFZpcENDZW03NUZzWXRQMHlwZUxPY2xJa3JKTEhaMTZMd0ZtYVZFSHRnTEQ2S0s0SW45VDRoX2VCS25LYWlacUtITnBEU3NZODJjSDJ4TGpZSEJBWmVibXNuY3dvYl9ZOHpHSXdabnZQNFhqOFZpRjlMamtBNTU4OE9IOEdiUWVhellCcjJzczByQXRUSExXQ1NRNHl5UHFF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a838a45806d",
+      "title": "Simpele scan voorkomt onnodige doorverwijzing naar cardioloog - de Volkskrant",
+      "published": "2026-08-17T03:00:00+00:00",
+      "summary": "Simpele scan voorkomt onnodige doorverwijzing naar cardioloog&nbsp;&nbsp;de VolkskrantCT-kalkscore via de huisarts voorkomt bijna de helft van de verwijzingen naar de cardioloog&nbsp;&nbsp;HartstichtingOnderzoek UMCG toont aan: veel minder verwijzingen naar cardioloog bij pijn op de borst dankzij snelle CT-scan&nbsp;&nbsp;OOG Groningen",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVuUkpKaVViU2Vkcmx3WEZMVVdwOUpNbFNZX0xzRWxyUGp5dG5CcHRnd3FvNGxjcW9PcUJGcnFZX3hWU2tjUU1Ja2RuQkFEQ0pFeTE1TVg5c1IzV1RJaEtGa050TXZSMUNESUswSVVPUlJ0dUoyR2tHQ2hQeVNHeHNITktvQVB3TXNDdWdLVmRJa3pLc0NDdzRiZFpYdXlKUFBmMTlSTk1pVHNT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1efc3492c75",
+      "title": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-16T13:00:00+00:00",
+      "summary": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0t3NThMTWl2OXFubFBmTHh2VHFXcTNSTjFsSjMzdTd4S1M2anJOaXloc1U1M2htU0xwWFdVLW54Nm1rMWtYcGc2TmhNOUpKaXdrbUNZdkxnaUZFbVp1STltY0tFT2VwNDZPX1FHZnM3Mkh5VGkyWkJjQmFzdEZGMGJiWm96cGRKbllyQ25Cc0hMYUlzN2RRVl9jOWt2MWlvS0pNcDBlTXI0cHhWVWkyeUpMYnhpWHZad25qNHlsRVJYUkxWaERHRmF0aWZyd0w2b1FnNjlldXYtLWNiSzVnRHdWLXlVR3BQU0Y1RlZxSG4?oc=5"
         }
       ]
     }

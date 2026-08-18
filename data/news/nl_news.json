@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-18T01:00:41.317749+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-18T06:36:10.623539+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "7526e542d4d0",
-      "title": "Sanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus - AD.nl",
-      "published": "2026-08-17T14:09:00+00:00",
-      "summary": "Sanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen&nbsp;&nbsp;NUDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheWestnijlvirus aangetroffen bij bloeddonor in Nederland, eerste keer sinds 2020&nbsp;&nbsp;NOSWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
+      "id": "1c2151b26af7",
+      "title": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land - De Telegraaf",
+      "published": "2026-08-17T23:31:00+00:00",
+      "summary": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;De TelegraafEbola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak Congo is de dodelijkste ooit in het land&nbsp;&nbsp;de Vol",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmxrV3AwbWhZblFJVXNJY1VwMXkwVE41dVpvTE91LW12MzJKN1Z4ejQtY29Cb05sdllMSk5QbTUyakNwSnBJOS1GbHN2X29MU3ZSeTFkZ2UxMnc5QnpWVEZ1bXlfY19iMXJRUE5OQVVqdkFnWk9CWURJVW9MWTB6bW5JVXNmT016Z0xDNEZnMHVYTjFjUmNKdmRMS2tYWGczZzNVanU3dVgwaVFnVzBrQlZTcW1naDFCYzZQb3JVa0lSa1NiWE5OMHF3bWwtNTQ?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc3VzZEFvMXVZelpybjJieXlMdzhsM1B6Vll5a1g4dHNYRkdiU241UVRFaTBaY0prclItUlhzRVVaRk55QVh2YXVQSWNCRVRpX2M4dElIS2RGbXB0cjR6bHlQMWhENWRfb3BHWHoxT0F1NHJQMzlLMDhjVENWSDlWWnBnLUlYQUc3RnJ6QW5ENXBSdW9FVlBoMDVwUm5uUVNTLWFJSVRDcXAtTzFEbjhNSi1lcDh1aXl3SExKdmZkNldId0pWN0YzNHFHeWd6YU82a0NjbVhnZ2dScFkw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5162a215865",
+      "title": "Bloeddonor besmet met westnijlvirus, voor het eerst sinds 2020, mogelijk is donorpatiënt ook besmet - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-17T13:00:25+00:00",
+      "summary": "Bloeddonor besmet met westnijlvirus, voor het eerst sinds 2020, mogelijk is donorpatiënt ook besmet&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWestnijlvirus vastgesteld bij bloeddonor die het in Nederland heeft opgelopen&nbsp;&nbsp;NUSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheWestnijlvirus aangetroffen bij bloeddonor in Nederland, eer",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEdob3N2c3lyZzl3Rm9EZWhESkphU2ZpbHo4Nlh0ekRGYUNNQ2s4TV9vdXljcjBGSmxrMklPS3BCblgzSHRFMnJUV0ZjMDNUMEJGZ1Brdkx5TldtSVdCNXR4S1RVVjQ0WU4wX2RxNnJPQW9aTU8zbHMtQTlkWmVDdXlYRXo0MTcwYjE1d2tLX2VncGVWUHFYcWFlblZ2UEZYQzVydFliVUtCQVVxX2w1Q2tZWGVnNmFFeHltRUhDczdRbXQ2c1J4aUhrZXl5bUJzZnhjMHZfczU0X2c?oc=5"
         }
       ]
     },
@@ -31,7 +43,7 @@
       "id": "e1efc3492c75",
       "title": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-08-16T13:00:00+00:00",
-      "summary": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "summary": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekTien jaar zoeken, AI vindt het antwoord in amper 48 uur&nbsp;&nbsp;Futura, le média qui explore le mondeAI creëert virussen die in staat zijn om antibioticaresistente bacteriën te vernietigen.&nbsp;&nbsp;Vietnam.vnHet eerste virus dat met behulp van AI is ontworpen.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",

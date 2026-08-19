@@ -1,25 +1,37 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-18T18:32:05.897698+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-19T01:01:32.434816+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "2b77938b6d16",
-      "title": "Veel ouders van zeer vroeg geboren baby's hebben PTSS-klachten - NU",
-      "published": "2026-08-18T07:14:49+00:00",
-      "summary": "Veel ouders van zeer vroeg geboren baby's hebben PTSS-klachten&nbsp;&nbsp;NUVeel ouders lijden aan PTSS-klachten na vroeggeboorte&nbsp;&nbsp;NOSExtreme vroeggeboorte kan leiden tot PTSS bij ouders. ‘Gigantisch stressvol’&nbsp;&nbsp;nd.nlTatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna&nbsp;&nbsp;RTL.nlOnderzoekers zien veel PTSS-klachten na zeer vroege geboorte: vooral moeders worden hard geraakt&nbsp;&nbsp;Metronieuws.nl",
+      "id": "949cb02e9546",
+      "title": "Bloeddonor besmet: 7 vragen over het westnijlvirus - RTV Utrecht",
+      "published": "2026-08-18T15:01:24+00:00",
+      "summary": "Bloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV UtrechtDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;rtvdrenthe.nlSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;De GelderlanderWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWestnijlvirus terug in Nederland: paard, vogel en nu ook een mens besmet&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3Eyc1NvVGc4MTdQdW43RDRPNTNqbzRFUk83RFpFVG9nc2tCMGU4UUozcFVPSWFUbUMyYjlQSFJfX1M2X1BCR2wtT1JkcFZnZkQ5QlU2ZDdEZXkwVE4xMnpFcEhra1hRZ1NfTjYtbG1zR1dqVVdwUlFVSHhoTmdhZDZiMUhaSjB6ZXozT2JhNWNnMXFzT29UNHlySGpYRUdNbWlpMzJB?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUU9wVUcwZmhTOGQ2Y3pjdzFONzFYZWZZSWRwMVZfYVJfVzlCRzVLR1RmR3BudjEydlZmbDFocFBpMlFYY2ZyN1JqNVRvMGpvNlEwdFZPZ05QOVMtektOMkJKYWVQYUdBZFI5bm5IRUJ1alVIUVIxMC05Y205eU12NldrdGQ4aEdoMDV2SWdEU0JtcFBK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b059c44812fd",
+      "title": "Tatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna - RTL.nl",
+      "published": "2026-08-18T05:04:02+00:00",
+      "summary": "Tatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna&nbsp;&nbsp;RTL.nlVeel ouders lijden aan PTSS-klachten na vroeggeboorte&nbsp;&nbsp;NOSExtreme vroeggeboorte kan leiden tot PTSS bij ouders. ‘Gigantisch stressvol’&nbsp;&nbsp;Nederlands DagbladVeel ouders van zeer vroeg geboren baby's hebben PTSS-klachten&nbsp;&nbsp;NUOnderzoekers zien veel PTSS-klachten na zeer vroege geboorte: vooral moeders worden hard geraakt&nbsp;&nbsp;Metronieuws.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGVEVTFaZ1JrdnRBSm5XbUtianE1YS1VaElxbXB2UGFmaWlLQ0xGUmU1NC1lN2NjeF9XRzBrcTVMWXlVU2xscmxMblZlaXZ0T3BkZEFyeFIxZWJkY0xrb3YzYmdfd0VCUVJFbEJSN0d3REpPQW96RkZyWWYwTU5KYkhOYmVDMFhTTWc5Y3B1VVNObmdlamM4a0NPZ3FfWHFyN2EyZWFLSjdrQ1l0U1BFX2VoREE2S3Y1?oc=5"
         }
       ]
     },
     {
       "id": "1c2151b26af7",
       "title": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land - De Telegraaf",
-      "published": "2026-08-17T16:31:00+00:00",
-      "summary": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;De TelegraafEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak Congo dodelijkste ooit in het land&nbsp;&nbsp;ad.nl",
+      "published": "2026-08-17T23:31:00+00:00",
+      "summary": "’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;De TelegraafEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSEbola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak in Congo is de dodelijkste ooit in het land en de snelst groeiende in de wereldgeschiedenis&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak Congo dodelijkste ooit in het land&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "6ff8afca2e63",
-      "title": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’ - De Telegraaf",
-      "published": "2026-08-18T14:12:50+00:00",
-      "summary": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’&nbsp;&nbsp;De TelegraafOnderzoek bewijst: vaker traplopen is dé weg naar een langer leven&nbsp;&nbsp;beaumonde.nlElke dag de trap nemen kan verrassend veel voor je gezondheid betekenen, blijkt uit onderzoek&nbsp;&nbsp;gezondnu.nlMet deze simpele gewoonte leef je mogelijk langer&nbsp;&nbsp;Racing.nl",
+      "id": "d367b80801b6",
+      "title": "Cardioloog Leonard Hofstra: ‘Na de overgang neemt het risico op hart- en vaatziekten toe’ - quest.nl",
+      "published": "2026-08-17T04:09:07+00:00",
+      "summary": "Cardioloog Leonard Hofstra: ‘Na de overgang neemt het risico op hart- en vaatziekten toe’&nbsp;&nbsp;quest.nlErik Scherder over de overgang: ‘Samenwerkingen in je brein raken uit balans’&nbsp;&nbsp;quest.nlUMCG in Forum: de overgang is meer dan vervelend -&nbsp;&nbsp;ggznieuws.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDVMT3M2XzdlbUQ5eUtkR0xSZjAyVzdzOXgtMzItdTJUTlpTaVpHMjctZ2gtd0tpbjlpMUdwRUFKR2h5NVhIS0xHdHY4MnFyMko1M1JnMFIyWDFobUZrMXZMcDdEM05aZkg5TGFfeHF6MDhCUU9laTZmVE43X0ctVFl0YWNmOEdTVVRnV1V2N2txRUZSbktIZVVaY1NwM2wxTjRMMDhHX2pobEJzdWdGNkxsWkZUZjA5Uk5aZGxLTDJzYzBJOF9ZeTROa1g?oc=5"
+          "name": "quest.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDU2ZHUxNFJSeEdWRjdpZk4xMnFCNk1FOHdaa0R2cWVYN3g4aHlOMl9RQXJOaG43WEJaTVNtbWJEOWNqbVM0ZllkUWtRbnoydWJ4c3ZSV2ZyZTVKZUpkOHZxZ2pPcmJHMVJqai1KbGNPVTBBcncxNEhaaWljRFJXT3ByRFE5Q1M5V0lRaUVrMnFuazRzUEY1Vw?oc=5"
         }
       ]
     },
@@ -43,11 +55,23 @@
       "id": "1a838a45806d",
       "title": "Simpele scan voorkomt onnodige doorverwijzing naar cardioloog - de Volkskrant",
       "published": "2026-08-17T03:00:00+00:00",
-      "summary": "Simpele scan voorkomt onnodige doorverwijzing naar cardioloog&nbsp;&nbsp;de VolkskrantCT-kalkscore via de huisarts voorkomt bijna de helft van de verwijzingen naar de cardioloog&nbsp;&nbsp;HartstichtingOnderzoek UMCG toont aan: veel minder verwijzingen naar cardioloog bij pijn op de borst dankzij snelle CT-scan&nbsp;&nbsp;OOG GroningenSimpele scan voorkomt onnodige doorverwijzing naar cardioloog, blijkt uit Nederlands onderzoek&nbsp;&nbsp;nd.nlCT‑kalkscore helpt huisartsen om pijn‑op‑de‑borstkla",
+      "summary": "Simpele scan voorkomt onnodige doorverwijzing naar cardioloog&nbsp;&nbsp;de VolkskrantCT-kalkscore via de huisarts voorkomt bijna de helft van de verwijzingen naar de cardioloog&nbsp;&nbsp;HartstichtingOnderzoek UMCG toont aan: veel minder verwijzingen naar cardioloog bij pijn op de borst dankzij snelle CT-scan&nbsp;&nbsp;OOG GroningenSimpele scan voorkomt onnodige doorverwijzing naar cardioloog, blijkt uit Nederlands onderzoek&nbsp;&nbsp;Nederlands DagbladCT‑kalkscore helpt huisartsen om pijn‑o",
       "sources": [
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVuUkpKaVViU2Vkcmx3WEZMVVdwOUpNbFNZX0xzRWxyUGp5dG5CcHRnd3FvNGxjcW9PcUJGcnFZX3hWU2tjUU1Ja2RuQkFEQ0pFeTE1TVg5c1IzV1RJaEtGa050TXZSMUNESUswSVVPUlJ0dUoyR2tHQ2hQeVNHeHNITktvQVB3TXNDdWdLVmRJa3pLc0NDdzRiZFpYdXlKUFBmMTlSTk1pVHNT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ff8afca2e63",
+      "title": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’ - De Telegraaf",
+      "published": "2026-08-18T21:12:50+00:00",
+      "summary": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’&nbsp;&nbsp;De TelegraafOnderzoek bewijst: vaker traplopen is dé weg naar een langer leven&nbsp;&nbsp;beaumonde.nlElke dag de trap nemen kan verrassend veel voor je gezondheid betekenen, blijkt uit onderzoek&nbsp;&nbsp;GezondnuMet deze simpele gewoonte leef je mogelijk langer&nbsp;&nbsp;Racing.nlZoveel trappen lopen per dag levert de meeste gezondheidswinst op: 'Vermijd de lift'&nbsp;&nbsp;Headliner.nl",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDVMT3M2XzdlbUQ5eUtkR0xSZjAyVzdzOXgtMzItdTJUTlpTaVpHMjctZ2gtd0tpbjlpMUdwRUFKR2h5NVhIS0xHdHY4MnFyMko1M1JnMFIyWDFobUZrMXZMcDdEM05aZkg5TGFfeHF6MDhCUU9laTZmVE43X0ctVFl0YWNmOEdTVVRnV1V2N2txRUZSbktIZVVaY1NwM2wxTjRMMDhHX2pobEJzdWdGNkxsWkZUZjA5Uk5aZGxLTDJzYzBJOF9ZeTROa1g?oc=5"
         }
       ]
     },
@@ -64,13 +88,13 @@
       ]
     },
     {
-      "id": "275c6841e641",
-      "title": "Is het recept voor geluk gevonden? Deze simpele factor komt telkens terug bij de mensen die zich hun leven lang lichamelijk en geestelijk het beste voelen - wibnet.nl",
+      "id": "5918f46201b5",
+      "title": "Is het recept voor geluk gevonden? Deze simpele factor komt telkens terug bij de mensen die zich hun leven lang lichamelijk en geestelijk het beste voelen - Wetenschap in Beeld",
       "published": "2026-08-17T18:30:03+00:00",
-      "summary": "Is het recept voor geluk gevonden? Deze simpele factor komt telkens terug bij de mensen die zich hun leven lang lichamelijk en geestelijk het beste voelen&nbsp;&nbsp;wibnet.nl",
+      "summary": "Is het recept voor geluk gevonden? Deze simpele factor komt telkens terug bij de mensen die zich hun leven lang lichamelijk en geestelijk het beste voelen&nbsp;&nbsp;Wetenschap in Beeld",
       "sources": [
         {
-          "name": "wibnet.nl",
+          "name": "Wetenschap in Beeld",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNWJjeklsWkxQejk5RGxXOUZlVEFIaDVfRmhPVDVzMUQ0S2FIVFk0NlNWelM2ZlFPd2swSnJCZk40aklvaENodGdqb2owWUZWbWotajJoV0RwRjNvd2cxYkwwemstalBSVngwXy1LVzQ5a0pIN1pKYWo2VFlPSy1MNHllUElTeExfdlRQUVR2LU8wdDBzLVl1Wkc2aF9Rd2hfeHJsWmdld2hzeE9ncXVqN2d1dWloTlp0WEIyV2R0WjJvM2MwdmlwZGdvYlpnQjdRUWttZm03Z2J2c2tFY0QxTGlzR3RtZjFwM3F1VUdvUzJCQjkyc3ZEZFdGRHdhbXVrRVNiZS03cw?oc=5"
         }
       ]

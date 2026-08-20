@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-19T18:28:57.927528+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-20T01:01:21.216245+00:00",
+  "count": 6,
   "news": [
     {
       "id": "ece423ae538d",
       "title": "Aantal ebolabesmettingen in Congo stijgt tot boven de 5000, vaccin nog in testfase - AD.nl",
       "published": "2026-08-18T20:59:00+00:00",
-      "summary": "Aantal ebolabesmettingen in Congo stijgt tot boven de 5000, vaccin nog in testfase&nbsp;&nbsp;AD.nlDe Ebola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSMeer dan 5000 ebolabesmettingen in Congo&nbsp;&nbsp;Haarlems Dagblad’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;telegraaf.nl",
+      "summary": "Aantal ebolabesmettingen in Congo stijgt tot boven de 5000, vaccin nog in testfase&nbsp;&nbsp;AD.nlDe Ebola-uitbraak in Congo is dodelijkste ooit in het land&nbsp;&nbsp;NUEbola-uitbraak met 2325 doden dodelijkste ooit in Congo&nbsp;&nbsp;NOSMeer dan 5000 ebolabesmettingen in Congo&nbsp;&nbsp;Haarlems Dagblad’Ebola wint in Congo’, waarschuwt de VN: uitbraak is dodelijkste ooit in het Afrikaanse land&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "AD.nl",
@@ -16,26 +16,26 @@
       ]
     },
     {
-      "id": "02474fbfccae",
-      "title": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’ - telegraaf.nl",
-      "published": "2026-08-19T11:45:00+00:00",
-      "summary": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’&nbsp;&nbsp;telegraaf.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMVrouw in Drenthe overleden na besmetting westnijlvirus in Zuidoost-Europa&nbsp;&nbsp;Leeuwarder CourantWestnijlvirus terug in Nederland: paard, vogel en nu ook een mens besmet&nbsp;&nbsp;AD.nlBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV Utrecht",
+      "id": "339e1ff5595b",
+      "title": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’ - De Telegraaf",
+      "published": "2026-08-19T18:45:00+00:00",
+      "summary": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’&nbsp;&nbsp;De TelegraafSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMVrouw in Drenthe overleden na besmetting westnijlvirus in Zuidoost-Europa&nbsp;&nbsp;Leeuwarder CourantBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp",
       "sources": [
         {
-          "name": "telegraaf.nl",
+          "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONGJ4UzdjRFd3Z3BPdTFEYkdHdXd4Z2NIeFZJR1FocnJWVnZoZkhMb0VidkZ3NFlGVVo5T3M4Z2pzdkZMOXBKQ2tzODUyZkh5cE1XNXhNWll1OEs5dzFRMW45RDZ3R1dNMDl6UmdPOHZjVzVUMkpodDhad3l2RFI2cEd0OGNwUkkxLTNnMHlqeVdNc094Q2YyeDdVZHRXLVNhU1pGbFZBN1JRTTAxcXhxSFlqOVU2ZXd2MlFjVHRwbmI4WFVEeHZsMlFMM2k3Wmk5aUxLVXFwNkJUWDV1M21yMDA4cC1TajhTVHZmcXdFS2U1VGplNFBnSlpUZE53UQ?oc=5"
         }
       ]
     },
     {
-      "id": "0b7f57abcbd6",
-      "title": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller - telegraaf.nl",
-      "published": "2026-08-19T17:03:00+00:00",
-      "summary": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller&nbsp;&nbsp;telegraaf.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "b273a96ea918",
+      "title": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller - De Telegraaf",
+      "published": "2026-08-19T10:03:00+00:00",
+      "summary": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "telegraaf.nl",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXBRM2xHem1uSi0wMEpmWTNYLUE2MzhnOXR0QUJpMFJVZ1FBNnRSWGQ3Y3ZOWHdhT2w0VS1hVWY2YnJlM1RjN1d3dUFwTkp2anFtSEprZF9WVmZHQkNjQVdaQnptZWdZdG5BZjE1bUJDeHVuVl9nQWNIUTN3cGVHd3ZNZ0s0aF9mNXRlOTRiMnpySXA5SnNJaXVfeTFtcnZ2Qks3SmtTdzZRT25ycEI5anNLeWtzcC1RVk84bUhwbWlIT2dPMnRjN0sybk9XWFVUSkhjMW9TaENWdUFYOG4tYUw3YWZKV2c4c3NLdl9DWmc4enUzOEE?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR04tblI3RFVsY1pGc3M4N0JzTDl1bUsyUTQ3ZVk2UXdhSlNxY2tGbEdFUHhHQzU1U2U0YkhjeUMzd3phaUdwd3ZXcTFkdkNfcXJJdjVtaFlhZTJEdEtYWnVMZVVJek9RU29NQlZoNjhkSk9mc2hILVlUYkp5YUR3NWR2Y2ozZU5XZWVCaTgxR0ZVTVJKRk5oSjFid0JXZFo1Q2FEd2lDbV9zWG9BbWhWTWZNRDBaV3ZTbHNuRG9CQUVVRERyVnJiRFQ2ajVFX3VCZ25QMmliZWJackxFXy16ZXFXRm11VDFK?oc=5"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "id": "2b77938b6d16",
       "title": "Veel ouders van zeer vroeg geboren baby's hebben PTSS-klachten - NU",
       "published": "2026-08-18T07:14:49+00:00",
-      "summary": "Veel ouders van zeer vroeg geboren baby's hebben PTSS-klachten&nbsp;&nbsp;NUVeel ouders lijden aan PTSS-klachten na vroeggeboorte&nbsp;&nbsp;NOSTatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna&nbsp;&nbsp;RTL.nlOnderzoekers zien veel PTSS-klachten na zeer vroege geboorte: vooral moeders worden hard geraakt&nbsp;&nbsp;Metronieuws.nlExtreme vroeggeboorte kan leiden tot PTSS bij ouders: „Gigantisch stressvol”&nbsp;&nbsp;Reformatorisch Dagblad",
+      "summary": "Veel ouders van zeer vroeg geboren baby's hebben PTSS-klachten&nbsp;&nbsp;NUVeel ouders lijden aan PTSS-klachten na vroeggeboorte&nbsp;&nbsp;NOSTatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna&nbsp;&nbsp;rtl.nlOnderzoekers zien veel PTSS-klachten na zeer vroege geboorte: vooral moeders worden hard geraakt&nbsp;&nbsp;Metronieuws.nlExtreme vroeggeboorte kan leiden tot PTSS bij ouders: „Gigantisch stressvol”&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
           "name": "NU",
@@ -72,30 +72,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2lQejczd0o2WEViYTdvOFVTX0JuaGREeW1rS2NFREFCQm1icU0tUlJfQXM2MWZwdGsycUhubTBpZDB1WnNTcXRsT3QzUkJBX3RBNFRWRlBPbC1nVG5CZWxacW0wWGlCTnpRblY2QlNRQmpkVTZJYUF3V09wTkVneEdXYTZZWUYxZmMyNy1ZYllvVWNQSUgtVG5RdnYycHMzTEx0WlV5c3R0ZU12NlNXR0UzNUQtUER1b05hd3VFUzR2RHVCR3NpVEgwbGdkZDJ2SXNGQ0VHZ1IwVXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "866044253b36",
-      "title": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’ - telegraaf.nl",
-      "published": "2026-08-18T14:12:50+00:00",
-      "summary": "Zoveel trappen lopen per dag levert de meeste gezondheidswinst op: ’Vermijd de lift’&nbsp;&nbsp;telegraaf.nlOnderzoek bewijst: vaker traplopen is dé weg naar een langer leven&nbsp;&nbsp;beaumonde.nlElke dag de trap nemen kan verrassend veel voor je gezondheid betekenen, blijkt uit onderzoek&nbsp;&nbsp;GezondnuMet deze simpele gewoonte leef je mogelijk langer&nbsp;&nbsp;Racing.nlZoveel trappen lopen per dag levert de meeste gezondheidswinst op: 'Vermijd de lift'&nbsp;&nbsp;Headliner.nl",
-      "sources": [
-        {
-          "name": "telegraaf.nl",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDVMT3M2XzdlbUQ5eUtkR0xSZjAyVzdzOXgtMzItdTJUTlpTaVpHMjctZ2gtd0tpbjlpMUdwRUFKR2h5NVhIS0xHdHY4MnFyMko1M1JnMFIyWDFobUZrMXZMcDdEM05aZkg5TGFfeHF6MDhCUU9laTZmVE43X0ctVFl0YWNmOEdTVVRnV1V2N2txRUZSbktIZVVaY1NwM2wxTjRMMDhHX2pobEJzdWdGNkxsWkZUZjA5Uk5aZGxLTDJzYzBJOF9ZeTROa1g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8296e00ebfb2",
-      "title": "'Een pijnscore van 2': veelbelovende resultaten bij studie naar verdoving bij spiraalplaatsing - Linda",
-      "published": "2026-08-18T06:37:09+00:00",
-      "summary": "'Een pijnscore van 2': veelbelovende resultaten bij studie naar verdoving bij spiraalplaatsing&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUplTVljLW9OX1cybGlCUDdpVkdKNzliS0szckNzaEVKR1VjOUFZbEZLWkMyRGtBZFRYdEtPUjRWT0twSGRIVUhLV1RLUS1NV3pfTVpLMEw5VWg0WTRqM0NGa3E2SVNZaUdRczN4N3ZkaTNnVGxSRDRUWmJUdjYzRkNrU3plT2FZNUtn?oc=5"
         }
       ]
     }

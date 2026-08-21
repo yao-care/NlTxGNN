@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-21T12:38:34.713118+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-21T18:30:58.851796+00:00",
+  "count": 7,
   "news": [
-    {
-      "id": "28c319f5a46b",
-      "title": "Ongezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’ - de Volkskrant",
-      "published": "2026-08-21T03:00:00+00:00",
-      "summary": "Ongezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantDagboek uit ebolagebied: ‘Hoe kan er in zo’n mooi land zoveel ellende zijn?’&nbsp;&nbsp;TrouwEbola-uitbraak Congo groeit 'exponentieel', VN meldt ruim 2500 doden&nbsp;&nbsp;RTL.nlEbola-epidemie in Congo dreigt de dodelijkste ooit te worden en nepnieuws maakt het nog erger&nbsp;&nbsp;AD.nlCongo krijgt 70.000 vaccins tegen ebolavirus&nbsp;&nbsp;Haarlems D",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHhLUXJyNEtoZkJSMGVMc0lReHVHbDRHcHkyMGZZVE1oS2FycFZJMXlBV1pIMzh0ZnE1OWRIeWFLVjFmUlJQNldka0hxczNBaXI1ZGk2N0RjMXpxeExfS0FaLVNGaDg2M1BCb3I0Z3JlREhiellQXzlkcnFVOEl1V2tEWl9SUmoyeFgxVjBpVU9PbU5KaXIyNVVpb3RDUW9HdGsyVl9zeVUzcno3T1FwaWU2N25SX3otUGlFRW9BZkE1eGgtQnJvNlJBdnZNT21RQW4zRy1RY1F6UXlmUmRQcF9weE1HSmR1UU9CR2FPYVZkRldrVmc?oc=5"
-        }
-      ]
-    },
     {
       "id": "113ab8d8d8c3",
       "title": "Nieuw medicijn voor mensen met zeldzame slaapziekte - NOS Jeugdjournaal",
@@ -24,18 +12,6 @@
         {
           "name": "NOS Jeugdjournaal",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmh0OFBWTXJIU25EQVcwOHNJaTBWNmRNckU5RTU1a252MUEyOGFEdWZyajIxaktzLTFEYkVlQjR1dVBHbDVIcWUyUnJDZ2c3bTYzMjZnSExLVWJoelppWEpzYkE0dU4zZmE0bzNvTmJLTlVGd3NiOHhEaGViRzlwY21XdEszTF9PdnJVMkNScTc0Vlhybm4w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7807611c99a",
-      "title": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden - de Volkskrant",
-      "published": "2026-08-21T03:00:00+00:00",
-      "summary": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXpxUFAxX2pTU0h1QkxIX0RUVUJpdlotazRrU09KOWFwMzFDa3B0VWoxRGhGYjM4N3lBRzlzMHdVbWxZQzRZMXJqeFNuaWFENjdmdGFEdFg4QlFtVVRJeldwRVNteHdIc0h3VG9RUlJubmZ2TjV2Mm1XaEVrRkdmbEo2cWdyS3E5OVc1XzJ1T3l5UTVXX0ZTTEo3VWFhdDVwV3kzSXVuWWNwQ0NEWEdvaDJSVzF6QmFYSjQtN19CaS03Q3JVZ0Y0ekJEYXNfMTQ2azVTOGVXMmRmS2R0TXJyRDlkNFpjekpTQzduNlJGb0Q?oc=5"
         }
       ]
     },
@@ -52,10 +28,22 @@
       ]
     },
     {
+      "id": "c7807611c99a",
+      "title": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden - de Volkskrant",
+      "published": "2026-08-21T03:00:00+00:00",
+      "summary": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden&nbsp;&nbsp;de VolkskrantGrote schrik: kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu&nbsp;&nbsp;Nederlands DagbladErnstig zieke grieppatiënt niet gebaat bij virusremmer tamiflu; kans op sterfte lijkt door gebruik zelfs groter&nbsp;&nbsp;Reformatorisch Dagblad",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXpxUFAxX2pTU0h1QkxIX0RUVUJpdlotazRrU09KOWFwMzFDa3B0VWoxRGhGYjM4N3lBRzlzMHdVbWxZQzRZMXJqeFNuaWFENjdmdGFEdFg4QlFtVVRJeldwRVNteHdIc0h3VG9RUlJubmZ2TjV2Mm1XaEVrRkdmbEo2cWdyS3E5OVc1XzJ1T3l5UTVXX0ZTTEo3VWFhdDVwV3kzSXVuWWNwQ0NEWEdvaDJSVzF6QmFYSjQtN19CaS03Q3JVZ0Y0ekJEYXNfMTQ2azVTOGVXMmRmS2R0TXJyRDlkNFpjekpTQzduNlJGb0Q?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2e5230874272",
       "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
       "published": "2026-08-20T13:57:00+00:00",
-      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;AD.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNieuwe coronaprikronde ook voor mondzorg&nbsp;&nbsp;KNMT",
+      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNog vaccineren tegen corona? De nieuwe ronde begint, maar voor steeds minder mensen beschikbaar&nbsp;&nbsp;AD.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNieuwe coronaprikronde ook voor mondzorg&nbsp;&nbsp;KNMT",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -66,7 +54,7 @@
     {
       "id": "b0c2fc480473",
       "title": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys - De Telegraaf",
-      "published": "2026-08-21T12:11:51+00:00",
+      "published": "2026-08-21T13:30:00+00:00",
       "summary": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -79,7 +67,7 @@
       "id": "9adea781069b",
       "title": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld - Waterkant",
       "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld&nbsp;&nbsp;Waterkant20.08. Wereldmuggendag&nbsp;&nbsp;Nieuws.nlGezondheidsraad viert Dag van de Mug met brochure vol tips en weetjes&nbsp;&nbsp;HLN",
+      "summary": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld&nbsp;&nbsp;WaterkantGezondheidsraad viert Dag van de Mug met brochure vol tips en weetjes&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "Waterkant",

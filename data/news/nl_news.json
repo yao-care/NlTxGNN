@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-21T01:04:30.425084+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-21T06:39:07.122715+00:00",
+  "count": 7,
   "news": [
     {
       "id": "113ab8d8d8c3",
@@ -16,10 +16,22 @@
       ]
     },
     {
+      "id": "c7807611c99a",
+      "title": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden - de Volkskrant",
+      "published": "2026-08-21T03:00:00+00:00",
+      "summary": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXpxUFAxX2pTU0h1QkxIX0RUVUJpdlotazRrU09KOWFwMzFDa3B0VWoxRGhGYjM4N3lBRzlzMHdVbWxZQzRZMXJqeFNuaWFENjdmdGFEdFg4QlFtVVRJeldwRVNteHdIc0h3VG9RUlJubmZ2TjV2Mm1XaEVrRkdmbEo2cWdyS3E5OVc1XzJ1T3l5UTVXX0ZTTEo3VWFhdDVwV3kzSXVuWWNwQ0NEWEdvaDJSVzF6QmFYSjQtN19CaS03Q3JVZ0Y0ekJEYXNfMTQ2azVTOGVXMmRmS2R0TXJyRDlkNFpjekpTQzduNlJGb0Q?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2e5230874272",
       "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
       "published": "2026-08-20T13:57:00+00:00",
-      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;ad.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNog vaccineren tegen corona? De nieuwe ronde begint, maar voor steed",
+      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;AD.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNieuwe coronaprikronde ook voor mondzorg&nbsp;&nbsp;KNMT",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "339e1ff5595b",
-      "title": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’ - De Telegraaf",
-      "published": "2026-08-19T11:45:00+00:00",
-      "summary": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’&nbsp;&nbsp;De TelegraafDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV UtrechtSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;ad.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
+      "id": "b0c2fc480473",
+      "title": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys - De Telegraaf",
+      "published": "2026-08-21T06:11:51+00:00",
+      "summary": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONGJ4UzdjRFd3Z3BPdTFEYkdHdXd4Z2NIeFZJR1FocnJWVnZoZkhMb0VidkZ3NFlGVVo5T3M4Z2pzdkZMOXBKQ2tzODUyZkh5cE1XNXhNWll1OEs5dzFRMW45RDZ3R1dNMDl6UmdPOHZjVzVUMkpodDhad3l2RFI2cEd0OGNwUkkxLTNnMHlqeVdNc094Q2YyeDdVZHRXLVNhU1pGbFZBN1JRTTAxcXhxSFlqOVU2ZXd2MlFjVHRwbmI4WFVEeHZsMlFMM2k3Wmk5aUxLVXFwNkJUWDV1M21yMDA4cC1TajhTVHZmcXdFS2U1VGplNFBnSlpUZE53UQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnM5Zmw3RHFrVEZjOUFvbVByMHVrLXgzSEVFWEE3MEpMVlctRmtZUi1nZEZ6LUFBM3VISnN5S2ZGMmYzczQyWnNZejY3RkhsZjRkUDdobUxvMGpUS1FjaFkxTHowTVdjUkdpc1FLeVhqVnJFVGl1bWhqd1EzRDh1OUx4NGN0WVJrODBwRk80RWtJdjl6a3pGRmczelFZeVVGamxfaW9KVVZMWElaX0hvVTVqUXdxd1AzSjFheWtxTVU4Zk50Wm9CX3ZUNVd6UmFkRV9sSlZjTjl2U0hBOWEzVUo0RzVzcDVxVGFPZUdYTVBkU0dSZkJZRg?oc=5"
         }
       ]
     },
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "124ca30d533e",
-      "title": "UMCG onderzoekt rol van bestrijdingsmiddelen bij parkinson - RTV Noord",
-      "published": "2026-08-19T05:03:58+00:00",
-      "summary": "UMCG onderzoekt rol van bestrijdingsmiddelen bij parkinson&nbsp;&nbsp;RTV Noord",
+      "id": "9adea781069b",
+      "title": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld - Waterkant",
+      "published": "2026-08-20T07:00:00+00:00",
+      "summary": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld&nbsp;&nbsp;Waterkant20.08. Wereldmuggendag&nbsp;&nbsp;Nieuws.nlGezondheidsraad viert Dag van de Mug met brochure vol tips en weetjes&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0lDSGNJR1BzWXpNejZoUGh5VWtUYV9YMW15bE5OZ2xyVWZJWkFoRlZGeFhDZUVVQlNKa0RSM2xVODZnV2U2ZnhEYVcxWkFVN094LUZGcE5DLS1vNjZRYkVlMF9XbjhPbng5MnJYanc1SHFqT1BYUnN4MmRfQ25xSWxCS3lDRHZSUTE5YWVYRE5sWDdTWGVpU2RPTQ?oc=5"
+          "name": "Waterkant",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTG5MRDVUQWEzXzRrS0RQMjlzLWNZdjZRSFlXUGxudV9sbklJRUNVUE9UanBtZFc5SkU5dmtPb0VaZ083R3p5UGNwdGNWdjZZdjE0djlvNllacVhQZ0VkbDlnakxBakI3d3pxSThOZGh0MzFUUUtUWkFCRUJtaEwxRGE4Zm1XMlJDclh0VWZVR1BxbC1SeG5MN3BialFtOHpoZUdPd0VnQWpaTzg?oc=5"
         }
       ]
     },

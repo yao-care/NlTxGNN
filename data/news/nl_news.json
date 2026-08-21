@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-21T06:39:07.122715+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-21T12:38:34.713118+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "28c319f5a46b",
+      "title": "Ongezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’ - de Volkskrant",
+      "published": "2026-08-21T03:00:00+00:00",
+      "summary": "Ongezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantDagboek uit ebolagebied: ‘Hoe kan er in zo’n mooi land zoveel ellende zijn?’&nbsp;&nbsp;TrouwEbola-uitbraak Congo groeit 'exponentieel', VN meldt ruim 2500 doden&nbsp;&nbsp;RTL.nlEbola-epidemie in Congo dreigt de dodelijkste ooit te worden en nepnieuws maakt het nog erger&nbsp;&nbsp;AD.nlCongo krijgt 70.000 vaccins tegen ebolavirus&nbsp;&nbsp;Haarlems D",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHhLUXJyNEtoZkJSMGVMc0lReHVHbDRHcHkyMGZZVE1oS2FycFZJMXlBV1pIMzh0ZnE1OWRIeWFLVjFmUlJQNldka0hxczNBaXI1ZGk2N0RjMXpxeExfS0FaLVNGaDg2M1BCb3I0Z3JlREhiellQXzlkcnFVOEl1V2tEWl9SUmoyeFgxVjBpVU9PbU5KaXIyNVVpb3RDUW9HdGsyVl9zeVUzcno3T1FwaWU2N25SX3otUGlFRW9BZkE1eGgtQnJvNlJBdnZNT21RQW4zRy1RY1F6UXlmUmRQcF9weE1HSmR1UU9CR2FPYVZkRldrVmc?oc=5"
+        }
+      ]
+    },
     {
       "id": "113ab8d8d8c3",
       "title": "Nieuw medicijn voor mensen met zeldzame slaapziekte - NOS Jeugdjournaal",
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "2253682983e3",
+      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
+      "published": "2026-08-21T08:56:41+00:00",
+      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV Drenthe",
+      "sources": [
+        {
+          "name": "RTV Drenthe",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2e5230874272",
       "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
       "published": "2026-08-20T13:57:00+00:00",
@@ -42,24 +66,12 @@
     {
       "id": "b0c2fc480473",
       "title": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys - De Telegraaf",
-      "published": "2026-08-21T06:11:51+00:00",
+      "published": "2026-08-21T12:11:51+00:00",
       "summary": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnM5Zmw3RHFrVEZjOUFvbVByMHVrLXgzSEVFWEE3MEpMVlctRmtZUi1nZEZ6LUFBM3VISnN5S2ZGMmYzczQyWnNZejY3RkhsZjRkUDdobUxvMGpUS1FjaFkxTHowTVdjUkdpc1FLeVhqVnJFVGl1bWhqd1EzRDh1OUx4NGN0WVJrODBwRk80RWtJdjl6a3pGRmczelFZeVVGamxfaW9KVVZMWElaX0hvVTVqUXdxd1AzSjFheWtxTVU4Zk50Wm9CX3ZUNVd6UmFkRV9sSlZjTjl2U0hBOWEzVUo0RzVzcDVxVGFPZUdYTVBkU0dSZkJZRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b273a96ea918",
-      "title": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller - De Telegraaf",
-      "published": "2026-08-19T10:03:00+00:00",
-      "summary": "Leeftijdssprong in het leven: op deze cruciale momenten verouder je volgens onderzoek plots veel sneller&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR04tblI3RFVsY1pGc3M4N0JzTDl1bUsyUTQ3ZVk2UXdhSlNxY2tGbEdFUHhHQzU1U2U0YkhjeUMzd3phaUdwd3ZXcTFkdkNfcXJJdjVtaFlhZTJEdEtYWnVMZVVJek9RU29NQlZoNjhkSk9mc2hILVlUYkp5YUR3NWR2Y2ozZU5XZWVCaTgxR0ZVTVJKRk5oSjFid0JXZFo1Q2FEd2lDbV9zWG9BbWhWTWZNRDBaV3ZTbHNuRG9CQUVVRERyVnJiRFQ2ajVFX3VCZ25QMmliZWJackxFXy16ZXFXRm11VDFK?oc=5"
         }
       ]
     },
@@ -76,14 +88,14 @@
       ]
     },
     {
-      "id": "29b9e8c5d42c",
-      "title": "Duizenden automobilisten rijden rond met het verkeerde rijbewijs - gocar.be",
-      "published": "2026-08-20T04:00:00+00:00",
-      "summary": "Duizenden automobilisten rijden rond met het verkeerde rijbewijs&nbsp;&nbsp;gocar.be1 op de 5 mensen met diabetes rijdt rond met een ongeldig rijbewijs. “Deze regelgeving blijft soms onder de radar”&nbsp;&nbsp;HLNVias waarschuwt: verborgen rijbewijsregel kan diabeten duur komen te staan&nbsp;&nbsp;PITANE.BLUEMensen met suikerziekte mogen niet zomaar met de auto rijden: wist jij dat ook niet?&nbsp;&nbsp;P-magazineVias en Diabetes Liga slaan alarm: tienduizenden diabeten riskeren boete of probleme",
+      "id": "9f05f8fad0b2",
+      "title": "Vaak bewegen is belangrijker dan hard bewegen voor je mentale gezondheid - Scientias.nl",
+      "published": "2026-08-20T09:01:45+00:00",
+      "summary": "Vaak bewegen is belangrijker dan hard bewegen voor je mentale gezondheid&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
-          "name": "gocar.be",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3dlRi1GYUs1YzFtLVBSOFFPN2VvOUVIdnBKdlNtWUZHMDNTdG1xS2NNLWRMeE9DOGEyX05RWWl5Y3JadFFMeE5RRU5lSnhzSlAtTnJxcWttUzIxTXU4LTJHRzM4ZmZMVzVCelA2WWRxZ0xDdnk4TjBFam93YVJGV3lmM09RcEU5OXk4eVAxbVlTdFZobFpvSktCZmxvdVc3S25rOWNjNEthUQ?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjdnS3JwUnNDUk9wSjhPN1VNZHdjOUR6NHhDcHJrNXFsaGt0bHhOV09OVEJtQ0QzRUlPeXVZMTRwQzV4OEdENlNUS3dyMmFqdnFMQkttSjR5aUR0Rm80dVUtQmJ1T1M5bVZzQlZxSmNGMmw1Wm5hNThtTk5GMWswZnRtb3hqeUtReFJfRDBrc201ZjBCTGVVbnVn?oc=5"
         }
       ]
     }

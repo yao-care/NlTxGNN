@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-20T18:33:00.804773+00:00",
+  "fetched_at": "2026-08-21T01:04:30.425084+00:00",
   "count": 6,
   "news": [
     {
-      "id": "5b591f6baf89",
-      "title": "Hoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep) - Het Parool",
-      "published": "2026-08-20T07:19:54+00:00",
-      "summary": "Hoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;AD.nlCoronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nl",
+      "id": "113ab8d8d8c3",
+      "title": "Nieuw medicijn voor mensen met zeldzame slaapziekte - NOS Jeugdjournaal",
+      "published": "2026-08-20T15:50:16+00:00",
+      "summary": "Nieuw medicijn voor mensen met zeldzame slaapziekte&nbsp;&nbsp;NOS Jeugdjournaal",
       "sources": [
         {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSTNDTWVJa2prOTNuSi1kQ19tRDlicnFDRVBfQkIwRVFXeXVHREJqa0s2QXFjd3p2endVWWVrSm96bzRSdWdCNDJacE0yalY2YTcyb2JOalV0RzNfTHJnR3AwaEdCSnZRQkxJYW9MbkJ1Zmt4UGY2X1h3bk5xUmhQQy1oOENKWFVGMW9hbndDSUt0dGNVcWVfa2RIdlUzUEhQb1M3Z3RmVklsN2c5V2tLSWZHdkdXTmR2QjlHMjdZTkVzU1hfb0FvZHdNcFFTR3ZBMnBFNzQ1OGVXWmhyMllyWjhEV3RiZnc?oc=5"
+          "name": "NOS Jeugdjournaal",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmh0OFBWTXJIU25EQVcwOHNJaTBWNmRNckU5RTU1a252MUEyOGFEdWZyajIxaktzLTFEYkVlQjR1dVBHbDVIcWUyUnJDZ2c3bTYzMjZnSExLVWJoelppWEpzYkE0dU4zZmE0bzNvTmJLTlVGd3NiOHhEaGViRzlwY21XdEszTF9PdnJVMkNScTc0Vlhybm4w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e5230874272",
+      "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
+      "published": "2026-08-20T13:57:00+00:00",
+      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;ad.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNog vaccineren tegen corona? De nieuwe ronde begint, maar voor steed",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGRoX1RFN3pHcDdhREVrMl9GWkFKZVkzQUNTLTd3ay04RjBoeTg5aTM5aU5KNDFrUldtUGh5WnFjNUFLZDZ5b01qX3dXSFZXVzVobmh0U01EMEpOb2ZaQWtxdVNXRjFRTTN3a0JvX19ZSTJPbHNPQm5VUnl1U2hHZDl2Y2ptZVdlSVhqODNxQTcwRG8?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "339e1ff5595b",
       "title": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’ - De Telegraaf",
       "published": "2026-08-19T11:45:00+00:00",
-      "summary": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’&nbsp;&nbsp;De TelegraafDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV UtrechtSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
+      "summary": "Vijf vragen over het Westnijlvirus: ’Een hele kleine groep krijgt te maken met heftige symptomen’&nbsp;&nbsp;De TelegraafDrentse overleden na besmetting met westnijlvirus&nbsp;&nbsp;RTV DrentheBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV UtrechtSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;ad.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -48,18 +60,6 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0lDSGNJR1BzWXpNejZoUGh5VWtUYV9YMW15bE5OZ2xyVWZJWkFoRlZGeFhDZUVVQlNKa0RSM2xVODZnV2U2ZnhEYVcxWkFVN094LUZGcE5DLS1vNjZRYkVlMF9XbjhPbng5MnJYanc1SHFqT1BYUnN4MmRfQ25xSWxCS3lDRHZSUTE5YWVYRE5sWDdTWGVpU2RPTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4eec093252e6",
-      "title": "Medicatie voor artrose heeft Tineke niet langer nodig na dieet: ‘2 weken na start waren mijn knieën al dunner’ - AD.nl",
-      "published": "2026-08-18T21:00:00+00:00",
-      "summary": "Medicatie voor artrose heeft Tineke niet langer nodig na dieet: ‘2 weken na start waren mijn knieën al dunner’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2lQejczd0o2WEViYTdvOFVTX0JuaGREeW1rS2NFREFCQm1icU0tUlJfQXM2MWZwdGsycUhubTBpZDB1WnNTcXRsT3QzUkJBX3RBNFRWRlBPbC1nVG5CZWxacW0wWGlCTnpRblY2QlNRQmpkVTZJYUF3V09wTkVneEdXYTZZWUYxZmMyNy1ZYllvVWNQSUgtVG5RdnYycHMzTEx0WlV5c3R0ZU12NlNXR0UzNUQtUER1b05hd3VFUzR2RHVCR3NpVEgwbGdkZDJ2SXNGQ0VHZ1IwVXc?oc=5"
         }
       ]
     },

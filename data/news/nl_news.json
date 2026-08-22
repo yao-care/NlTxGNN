@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-22T01:00:56.358467+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-22T06:32:59.298468+00:00",
+  "count": 7,
   "news": [
     {
       "id": "113ab8d8d8c3",
@@ -12,6 +12,18 @@
         {
           "name": "NOS Jeugdjournaal",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmh0OFBWTXJIU25EQVcwOHNJaTBWNmRNckU5RTU1a252MUEyOGFEdWZyajIxaktzLTFEYkVlQjR1dVBHbDVIcWUyUnJDZ2c3bTYzMjZnSExLVWJoelppWEpzYkE0dU4zZmE0bzNvTmJLTlVGd3NiOHhEaGViRzlwY21XdEszTF9PdnJVMkNScTc0Vlhybm4w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2253682983e3",
+      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
+      "published": "2026-08-21T08:56:41+00:00",
+      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV DrentheWelke bestrijdingsmiddelen zijn echt schadelijk? UMCG onderzoekt link tussen pesticiden en parkinson&nbsp;&nbsp;RTV Noord",
+      "sources": [
+        {
+          "name": "RTV Drenthe",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
         }
       ]
     },
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "2253682983e3",
-      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
-      "published": "2026-08-21T08:56:41+00:00",
-      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV Drenthe",
-      "sources": [
-        {
-          "name": "RTV Drenthe",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b0c2fc480473",
       "title": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys - De Telegraaf",
       "published": "2026-08-21T13:30:00+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnM5Zmw3RHFrVEZjOUFvbVByMHVrLXgzSEVFWEE3MEpMVlctRmtZUi1nZEZ6LUFBM3VISnN5S2ZGMmYzczQyWnNZejY3RkhsZjRkUDdobUxvMGpUS1FjaFkxTHowTVdjUkdpc1FLeVhqVnJFVGl1bWhqd1EzRDh1OUx4NGN0WVJrODBwRk80RWtJdjl6a3pGRmczelFZeVVGamxfaW9KVVZMWElaX0hvVTVqUXdxd1AzSjFheWtxTVU4Zk50Wm9CX3ZUNVd6UmFkRV9sSlZjTjl2U0hBOWEzVUo0RzVzcDVxVGFPZUdYTVBkU0dSZkJZRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb45fb8fd80c",
+      "title": "Groot onderzoek onder 4,2 miljoen mensen: fysiek zwaar werk hangt samen met 20 procent meer risico op dementie - Metronieuws.nl",
+      "published": "2026-08-21T11:49:00+00:00",
+      "summary": "Groot onderzoek onder 4,2 miljoen mensen: fysiek zwaar werk hangt samen met 20 procent meer risico op dementie&nbsp;&nbsp;Metronieuws.nl",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERJak9fbWVkM2RZcWNwZmJUeWg5NkpsaGU2Mm9PNG1JV0t1bk9XdDlwUkl4VlZzMGJoMjZkclVBSG12SUxIWTdOUTFtc1FJSXJfZnlmblViRUdTYW1POW82OS1yMXpyZkVCY0VWdDJKWDJOSkFrRnlVajZJZVVaRjV4bzFLT1RFczFJRHRnbHNMaE0?oc=5"
         }
       ]
     },

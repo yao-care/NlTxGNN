@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-21T18:30:58.851796+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-22T01:00:56.358467+00:00",
+  "count": 6,
   "news": [
     {
       "id": "113ab8d8d8c3",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "2253682983e3",
-      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
-      "published": "2026-08-21T08:56:41+00:00",
-      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV Drenthe",
+      "id": "2e5230874272",
+      "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
+      "published": "2026-08-20T13:57:00+00:00",
+      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNog vaccineren tegen corona? De nieuwe ronde begint, maar voor steeds minder mensen beschikbaar&nbsp;&nbsp;AD.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolAmper nog coronabesmettingen, toch komt er een nieuwe vaccinatieronde (vo",
       "sources": [
         {
-          "name": "RTV Drenthe",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGRoX1RFN3pHcDdhREVrMl9GWkFKZVkzQUNTLTd3ay04RjBoeTg5aTM5aU5KNDFrUldtUGh5WnFjNUFLZDZ5b01qX3dXSFZXVzVobmh0U01EMEpOb2ZaQWtxdVNXRjFRTTN3a0JvX19ZSTJPbHNPQm5VUnl1U2hHZDl2Y2ptZVdlSVhqODNxQTcwRG8?oc=5"
         }
       ]
     },
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "2e5230874272",
-      "title": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen - Metronieuws.nl",
-      "published": "2026-08-20T13:57:00+00:00",
-      "summary": "Coronaprik komt er weer aan, maar alleen nog voor deze groep mensen&nbsp;&nbsp;Metronieuws.nlNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNog vaccineren tegen corona? De nieuwe ronde begint, maar voor steeds minder mensen beschikbaar&nbsp;&nbsp;AD.nlHoewel er amper nog coronabesmettingen zijn, komt er toch weer een vaccinatieronde (voor een veel kleinere groep)&nbsp;&nbsp;Het ParoolNieuwe coronaprikronde ook voor mondzorg&nbsp;&nbsp;KNMT",
+      "id": "2253682983e3",
+      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
+      "published": "2026-08-21T08:56:41+00:00",
+      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV Drenthe",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGRoX1RFN3pHcDdhREVrMl9GWkFKZVkzQUNTLTd3ay04RjBoeTg5aTM5aU5KNDFrUldtUGh5WnFjNUFLZDZ5b01qX3dXSFZXVzVobmh0U01EMEpOb2ZaQWtxdVNXRjFRTTN3a0JvX19ZSTJPbHNPQm5VUnl1U2hHZDl2Y2ptZVdlSVhqODNxQTcwRG8?oc=5"
+          "name": "RTV Drenthe",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
         }
       ]
     },
@@ -60,18 +60,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnM5Zmw3RHFrVEZjOUFvbVByMHVrLXgzSEVFWEE3MEpMVlctRmtZUi1nZEZ6LUFBM3VISnN5S2ZGMmYzczQyWnNZejY3RkhsZjRkUDdobUxvMGpUS1FjaFkxTHowTVdjUkdpc1FLeVhqVnJFVGl1bWhqd1EzRDh1OUx4NGN0WVJrODBwRk80RWtJdjl6a3pGRmczelFZeVVGamxfaW9KVVZMWElaX0hvVTVqUXdxd1AzSjFheWtxTVU4Zk50Wm9CX3ZUNVd6UmFkRV9sSlZjTjl2U0hBOWEzVUo0RzVzcDVxVGFPZUdYTVBkU0dSZkJZRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9adea781069b",
-      "title": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld - Waterkant",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Vandaag aandacht voor de mug, het dodelijkste dier ter wereld&nbsp;&nbsp;WaterkantGezondheidsraad viert Dag van de Mug met brochure vol tips en weetjes&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "Waterkant",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTG5MRDVUQWEzXzRrS0RQMjlzLWNZdjZRSFlXUGxudV9sbklJRUNVUE9UanBtZFc5SkU5dmtPb0VaZ083R3p5UGNwdGNWdjZZdjE0djlvNllacVhQZ0VkbDlnakxBakI3d3pxSThOZGh0MzFUUUtUWkFCRUJtaEwxRGE4Zm1XMlJDclh0VWZVR1BxbC1SeG5MN3BialFtOHpoZUdPd0VnQWpaTzg?oc=5"
         }
       ]
     },

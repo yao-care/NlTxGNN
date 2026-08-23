@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-22T18:23:02.322175+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-23T01:06:03.039002+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "3b946a8c8395",
+      "title": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker - AD.nl",
+      "published": "2026-08-22T19:00:28+00:00",
+      "summary": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker&nbsp;&nbsp;AD.nlWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantOp Lowlands kun je tussen het dansen door even crimineel worden. ‘Verbrand meteen je kleding na een misdrijf’&nbsp;&nbsp;TrouwReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands Science&nbsp;&nbsp;Festileaks.comForensische Spelen op Lowlands: laat jij gee",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEVmV0lYNnlVNUpSMDQ2ZTJoakFNSlBtZkZyajM4MFJ4bEpvM010VGtiQ18yOGpLN0V4UnF2cUJzUVpWdFNpT01IdzJmRGUyV05qRURLWkNwUnRabzk5d1c3U25xNEJQVXJHSWtaUFk1MUtpS0x0dFpldDFtNlI3emlwa0RiQVV5bWNIYkotZ0pJWkQtU1d6ejFZZ3BINXd2bDFnSzBiREtYb3lBWHR1SENxMHNNV0M4RE5DcENJTk44SjFYZ1dDQk5ES0lQckRmczVLaEtn?oc=5"
+        }
+      ]
+    },
     {
       "id": "c6f9dd927044",
       "title": "‘Je bent veel te jong voor darmkanker’, toch krijgen steeds meer mensen onder de 50 zoals Michelle (33) uit Spaubeek de ziekte: waarom? - De Limburger",
@@ -16,21 +28,9 @@
       ]
     },
     {
-      "id": "74f805bd8b27",
-      "title": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\" - NH Nieuws",
-      "published": "2026-08-22T05:32:30+00:00",
-      "summary": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\"&nbsp;&nbsp;NH Nieuws",
-      "sources": [
-        {
-          "name": "NH Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjdHV0t2dDBtdjd4TU9VSzkxZ1JDVnJzZzBkaG82SHZEUjVpVTVrT29SZGNwbXVqeFhqR3JjLS1zU2dxZHZfZlpOQnhta0F4R0cxOWJVN2x4UGJwNFlkZ19mX0VxNXBBR1N5QzBQdXVmbC1BSlJhQ0ZMLVFlOHNtVHY3czhFQ2UtSUhIOUhjNEJIMTZsNEh2X2pUZnZab1BPYTZBWUVFN21GQUIxWUxN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2253682983e3",
       "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
-      "published": "2026-08-21T08:56:41+00:00",
+      "published": "2026-08-21T07:00:00+00:00",
       "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV DrentheWelke bestrijdingsmiddelen zijn echt schadelijk? UMCG onderzoekt link tussen pesticiden en parkinson&nbsp;&nbsp;RTV Noord",
       "sources": [
         {
@@ -40,14 +40,26 @@
       ]
     },
     {
-      "id": "c7807611c99a",
-      "title": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden - de Volkskrant",
-      "published": "2026-08-21T03:00:00+00:00",
-      "summary": "Kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden&nbsp;&nbsp;de VolkskrantGrote schrik: kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu&nbsp;&nbsp;Nederlands DagbladErnstig zieke grieppatiënt niet gebaat bij virusremmer tamiflu; kans op sterfte lijkt door gebruik zelfs groter&nbsp;&nbsp;Reformatorisch Dagblad",
+      "id": "74f805bd8b27",
+      "title": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\" - NH Nieuws",
+      "published": "2026-08-21T21:48:00+00:00",
+      "summary": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\"&nbsp;&nbsp;NH Nieuws",
+      "sources": [
+        {
+          "name": "NH Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjdHV0t2dDBtdjd4TU9VSzkxZ1JDVnJzZzBkaG82SHZEUjVpVTVrT29SZGNwbXVqeFhqR3JjLS1zU2dxZHZfZlpOQnhta0F4R0cxOWJVN2x4UGJwNFlkZ19mX0VxNXBBR1N5QzBQdXVmbC1BSlJhQ0ZMLVFlOHNtVHY3czhFQ2UtSUhIOUhjNEJIMTZsNEh2X2pUZnZab1BPYTZBWUVFN21GQUIxWUxN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "984847fa7557",
+      "title": "Kritiek zieke grieppatiënt heeft niks aan Tamiflu - de Volkskrant",
+      "published": "2026-08-21T03:00:22+00:00",
+      "summary": "Kritiek zieke grieppatiënt heeft niks aan Tamiflu&nbsp;&nbsp;de VolkskrantKritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu: grote kans dat ic-patiënten juist vaker overlijden&nbsp;&nbsp;de VolkskrantGrote schrik: kritiek zieke grieppatiënt heeft niks aan virusremmer Tamiflu&nbsp;&nbsp;Nederlands DagbladErnstig zieke grieppatiënt niet gebaat bij virusremmer tamiflu; kans op sterfte lijkt door gebruik zelfs groter&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
           "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXpxUFAxX2pTU0h1QkxIX0RUVUJpdlotazRrU09KOWFwMzFDa3B0VWoxRGhGYjM4N3lBRzlzMHdVbWxZQzRZMXJqeFNuaWFENjdmdGFEdFg4QlFtVVRJeldwRVNteHdIc0h3VG9RUlJubmZ2TjV2Mm1XaEVrRkdmbEo2cWdyS3E5OVc1XzJ1T3l5UTVXX0ZTTEo3VWFhdDVwV3kzSXVuWWNwQ0NEWEdvaDJSVzF6QmFYSjQtN19CaS03Q3JVZ0Y0ekJEYXNfMTQ2azVTOGVXMmRmS2R0TXJyRDlkNFpjekpTQzduNlJGb0Q?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE9MbWh4bkU4b1piYnNVREV1TTFvV0ZNbkM5VjhPc0pEYVl4VXdrSzQ3UGViZ1JpbmZaY2RORkgwcFd6TWMzNFhmSW01RmVNT3pIQktyTHRXRXFhNnZoT19JZkZSWmJGbjBFNE5VM3JodENPWXlLeXpaY09FeEdnMGJPZ3BoTFJQYW9rQ3RrRS1ITEZJZEZhOFNlZkk?oc=5"
         }
       ]
     },
@@ -78,7 +90,7 @@
     {
       "id": "1649ef7ff7dc",
       "title": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald - HLN",
-      "published": "2026-08-22T03:37:46+00:00",
+      "published": "2026-08-22T07:06:59+00:00",
       "summary": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald&nbsp;&nbsp;HLN",
       "sources": [
         {

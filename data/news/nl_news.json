@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-23T06:34:20.027559+00:00",
+  "fetched_at": "2026-08-23T12:32:00.460340+00:00",
   "count": 7,
   "news": [
     {
-      "id": "ff84b0162fc6",
-      "title": "Wetenschappers vinden hun proefpersonen tegenwoordig op Lowlands - de Volkskrant",
-      "published": "2026-08-22T17:45:00+00:00",
-      "summary": "Wetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantLowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker&nbsp;&nbsp;AD.nlOp Lowlands ben je proefkonijn én wetenschapper: 13 projecten om aan mee te doen&nbsp;&nbsp;Scientias.nlReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands Science&nbsp;&nbsp;Festileaks.comStress Roulette: wat gebeurt er als je zomaar het podium op moet?&",
+      "id": "af66a446386d",
+      "title": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker - NU",
+      "published": "2026-08-23T09:20:50+00:00",
+      "summary": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUOngezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrouw overleden’&nbsp;&nbsp;TrouwDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSVN: Ruim 2500 doden door ebola, uitbraak groeit ’exponentieel’&nbsp;&nb",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMEhBZml6UG5lWThnOXQ3TGt0RjZnX3dwVXpkWGdxckJnX0VrS3NGQ0tmUlZLSjlQYl9XSUJmTlh1UWl3WU1GZVZleDhzVUhwNHBsY3lPS1B5QU9WQlZFYWtIYVlsTV9OcTNvaGJjSG9Lc1hTZGRJbGJ4anhpQUpjSzlWdnlnSjdYTjMxQ0d2MDZuVWZ5ZnFGdjI2SUY1Y1pmUDRJTTlRT3Q2Yjg?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQW9XOWZrcDk2VVpuSVJhR1phZ3pSYWhFZURZODlGUHg2bkFGQlpEMGczYnhnMkd0b04yX0dwNktYSEhPeHdjZFA0eERFd05ZcmhuN0l5a0RGa19lRk5wVDdfaU5EYjg1eXlnenRvZ1FpQ1pQNUplX2NGTzlRWklSeUU2Mk9OVzNfellEQWRnWEtzSUJGQmZRTk9Za2hTU1FWZ0ttaTdGeGRTUDEtV25iV2Myb01sQU8wOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dae6c7976a68",
+      "title": "Festivalgangers knippen haar voor kankeronderzoek: 'Het groeit toch weer terug' - NU",
+      "published": "2026-08-23T11:50:44+00:00",
+      "summary": "Festivalgangers knippen haar voor kankeronderzoek: 'Het groeit toch weer terug'&nbsp;&nbsp;NUWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantLowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker&nbsp;&nbsp;AD.nlReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands Science&nbsp;&nbsp;Festileaks.comOp Lowlands ben je proefkonijn én wetenschapper: 13 projecten om aan mee te d",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWdwNWpsWFZma2IzQXVGWFZLNVhnYkxMOVozVmcxaXRSZmI2V3IxcGFsNnYtUGtKSEhqS05JdzBsUG90Qm5pelNZTXA4My1BZmVRTGZxT0JkaXF0YmFQRHBGV0RKQmFLNzVTb1AwZl9DdC1PTU9ydElQTjZYSDlZSlJ4QkhvUnliMVlJMDVwd0FoN003bnVJUDFYSERvNlFNcHFRVVRQWGpPV2gtaXRob1BOSmEwVzduakdQZFRXYzdzWkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f027dd586232",
+      "title": "Westnijlvirus duikt dit jaar al op in twaalf Europese landen: meeste besmettingen in Italië en Griekenland - HLN",
+      "published": "2026-08-21T18:48:31+00:00",
+      "summary": "Westnijlvirus duikt dit jaar al op in twaalf Europese landen: meeste besmettingen in Italië en Griekenland&nbsp;&nbsp;HLN\"Het gezicht van klimaatverandering\": wat is het westnijlvirus en hoe gevaarlijk is het voor de mens?&nbsp;&nbsp;VRTSanquin gaat bloed uit provincie Utrecht en de Gooi- en Vechtstreek controleren op westnijlvirus&nbsp;&nbsp;AD.nlWestnijlvirus vastgesteld bij een bloeddonor&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWestnijlvirus aangetroffen bij vogels en p",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmRfclhUU2w2TktGbUpNVEZPZTA1NHI2ai1udEZWcHdXSnNrcjhHQ3NLb0J2X1doMkRTMTdKVGlUeGZRNUxWTVhYSS1BaVJKcWpWVjVxQ0Z3enRxMlRLaXVKUE1uOWp1ejlEQUNaRElaVGhXMjU3NXdhVF9NVk1PMnU5Z0p3WXZLeFZoQXl2NjY3dVVaZHlZQW5LdkdlWnVYVDYtNmI4ckZqb2pnOE1DMDN5d2tXS21NVDJZVUVBdHNsOGFQT0ZVZmRSYUxXQzVSMGR1UU5CQ015a0ROS2c?oc=5"
         }
       ]
     },
@@ -19,7 +43,7 @@
       "id": "c6f9dd927044",
       "title": "‘Je bent veel te jong voor darmkanker’, toch krijgen steeds meer mensen onder de 50 zoals Michelle (33) uit Spaubeek de ziekte: waarom? - De Limburger",
       "published": "2026-08-22T06:45:00+00:00",
-      "summary": "‘Je bent veel te jong voor darmkanker’, toch krijgen steeds meer mensen onder de 50 zoals Michelle (33) uit Spaubeek de ziekte: waarom?&nbsp;&nbsp;De Limburger",
+      "summary": "‘Je bent veel te jong voor darmkanker’, toch krijgen steeds meer mensen onder de 50 zoals Michelle (33) uit Spaubeek de ziekte: waarom?&nbsp;&nbsp;De LimburgerMichelle (33) kreeg op haar 29e darmkanker: ’Ik dacht, dit kan niet’&nbsp;&nbsp;De TelegraafWetenschappers ontdekken dat deze darmbacterie al bij kinderen het DNA beschadigt — en mogelijk verklaart waarom darmkanker steeds jonger toeslaat&nbsp;&nbsp;Welingelichte KringenWaarom krijgen steeds meer jonge mensen deze vorm van kanker? Wetensch",
       "sources": [
         {
           "name": "De Limburger",
@@ -28,14 +52,14 @@
       ]
     },
     {
-      "id": "2253682983e3",
-      "title": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij' - RTV Drenthe",
-      "published": "2026-08-21T07:00:00+00:00",
-      "summary": "Nieuw onderzoek naar verband pesticiden en Parkinson: 'De wereld wordt namelijk niet pesticidevrij'&nbsp;&nbsp;RTV DrentheWelke bestrijdingsmiddelen zijn echt schadelijk? UMCG onderzoekt link tussen pesticiden en parkinson&nbsp;&nbsp;RTV Noord",
+      "id": "4f8a2a597775",
+      "title": "De jacht op een langer leven: ‘longevity’-behandelingen zijn big business, maar gezondheidsclaims zijn twijfelachtig - Het Parool",
+      "published": "2026-08-22T01:00:00+00:00",
+      "summary": "De jacht op een langer leven: ‘longevity’-behandelingen zijn big business, maar gezondheidsclaims zijn twijfelachtig&nbsp;&nbsp;Het Parool",
       "sources": [
         {
-          "name": "RTV Drenthe",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZbDZ3NnRQMzdfazZhS2xLMkxFZzJpQlBmV2Q1OWFBVGpJTm5rNWYxMVlvZ3ptbzJzaU9XTzFrYzBoRFFqSjQwS0dsUW11UFV0d3MzSjltRlQ4WEo5b2VLT2F5SHJ5MGltMVI4Z1JVc3VRaUpkNXlzUGVuVktWMm5lR0Y5TzVKU1hISGdQaEVIcFE0WC11ZUQyWmU3eTZzR1JzWW9abDBZYWx5WVVQaGx0TFBVYWZCQnVMQ21oS29ka3RTY0thbE1QNHhyQmFLbmNUQQ?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUGhlRFFVSENDSDQyX1BmVTlOSUZuMVVhdHUwcjI4R0ZhaUVERFpLWEE5U2pHM3VaU2VHWm5JRFkxTHVLME80ejB1X1JDdkFwZHRBbUtCV0ZaN1JEWTNzUGJBQjhrS2V4OFJaWmNrOF9yZHFMQmJiU2NFYkdGVm4tU2t5WW1Jbm5mazJMOEVOaElMVjVCeXhJWVRabm1pX1JybGZjNHZLTEE2MnlMcmJmalp1N0Q2VWNMMW5GeUNTbWJuM2Jqem14U1c2UXlKazZpeVZlUmk2T3gybnVYanFEZDk0S2txZWk4UVE?oc=5"
         }
       ]
     },
@@ -52,33 +76,9 @@
       ]
     },
     {
-      "id": "e626c2ff59fd",
-      "title": "Alles is inderdaad relatief, soms op een verbijsterende manier - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-21T08:20:00+00:00",
-      "summary": "Alles is inderdaad relatief, soms op een verbijsterende manier&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNk9IRUpaRWNkRmFob0lZSEdBUXlZLTFLNF94b3hRaDgwUkxiR2VCYnB3VzlVVV9FVjRwVHc4cDMzLXlOSHkxak13OGVlc0JVdUJKejRIdWM1Q0R4WThpYzFVUHdzcTRQbGNuQmtod0JEOVphcERoazY3ajBoVHZrVHd3OUMzS3h3ZmI3UXpTdVBPRHFKQkJ4em5uVW1hMUFwck5acnJfSkE1Vms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb45fb8fd80c",
-      "title": "Groot onderzoek onder 4,2 miljoen mensen: fysiek zwaar werk hangt samen met 20 procent meer risico op dementie - Metronieuws.nl",
-      "published": "2026-08-21T11:49:00+00:00",
-      "summary": "Groot onderzoek onder 4,2 miljoen mensen: fysiek zwaar werk hangt samen met 20 procent meer risico op dementie&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERJak9fbWVkM2RZcWNwZmJUeWg5NkpsaGU2Mm9PNG1JV0t1bk9XdDlwUkl4VlZzMGJoMjZkclVBSG12SUxIWTdOUTFtc1FJSXJfZnlmblViRUdTYW1POW82OS1yMXpyZkVCY0VWdDJKWDJOSkFrRnlVajZJZVVaRjV4bzFLT1RFczFJRHRnbHNMaE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1649ef7ff7dc",
       "title": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald - HLN",
-      "published": "2026-08-22T07:06:59+00:00",
+      "published": "2026-08-22T03:37:46+00:00",
       "summary": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald&nbsp;&nbsp;HLN",
       "sources": [
         {

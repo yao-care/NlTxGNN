@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-24T01:03:46.355590+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-24T06:50:28.422763+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "c4efc2070ca0",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
+      "published": "2026-08-23T19:00:00+00:00",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5"
+        }
+      ]
+    },
     {
       "id": "af66a446386d",
       "title": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker - NU",
       "published": "2026-08-23T09:20:50+00:00",
-      "summary": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSOngezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrouw overleden’&nbsp;&nbsp;TrouwEbola-epidemie in Congo dreigt de dodelijkste ooit te worden en nepnieu",
+      "summary": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrouw overleden’&nbsp;&nbsp;TrouwOngezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantEbola-epidemie in Congo dreigt de dodelijkste ooit te worden en nepnieu",
       "sources": [
         {
           "name": "NU",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "3b946a8c8395",
-      "title": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker - AD.nl",
-      "published": "2026-08-23T10:26:53+00:00",
-      "summary": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker&nbsp;&nbsp;AD.nlFestivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NULowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands ",
+      "id": "058f23c0c457",
+      "title": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug' - NU",
+      "published": "2026-08-23T11:50:44+00:00",
+      "summary": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NULowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands Science&nbsp;&nbsp;Festileaks.comOp Lowlands ben je proefkonijn én wetenschapper: 13 projecten om aan mee te doen&nbsp",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEVmV0lYNnlVNUpSMDQ2ZTJoakFNSlBtZkZyajM4MFJ4bEpvM010VGtiQ18yOGpLN0V4UnF2cUJzUVpWdFNpT01IdzJmRGUyV05qRURLWkNwUnRabzk5d1c3U25xNEJQVXJHSWtaUFk1MUtpS0x0dFpldDFtNlI3emlwa0RiQVV5bWNIYkotZ0pJWkQtU1d6ejFZZ3BINXd2bDFnSzBiREtYb3lBWHR1SENxMHNNV0M4RE5DcENJTk44SjFYZ1dDQk5ES0lQckRmczVLaEtn?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnU4Rm5kSGVpWUVQQ3p3VUNoeHpzR0JKOThmUkRDeTlKQ25rMUVQOUNKd05kSjM4WmV6c1RPU2NKZDNXWnVGRGtfVEZuQTRqS0xKcGo1bzJnN1F6TndjV2hILV83LVB1Z2QwcDY4RkdTa1hXaVRLTDcwNGxWak5Ncm91SU1xaU1yZjkyUTFLSnJsWHN3ZXJzVWs3Vm03WVRodHZyOW13bnFPZmNrR0pjV2N4d0hKV1k4aXR1cjc2VQ?oc=5"
         }
       ]
     },
@@ -36,30 +48,6 @@
         {
           "name": "De Limburger",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPR05DTnltaU1RanJVWlVNVmZGRFVFTDRHX2pFZHFtTi11bmIzYVV6RUZOTjJoc0x5a0xBdnVKLVdKSjhRVFB2UWZuWERleTdkN19jWXI1aUlXUVQyQm5Ib2Vybi1KUlE2bHlZNEs1eE1PX0lZbWt0elFRemh5Vk5JbDQyZkZBTTVvREhRQ01YT2R2VzFuUFRxQTh0eWhLZGF0a0dodm9hQ0ZDbUVKZndJR3huZjhfRTliQ0hOTnhUMkJqM0ZnajgyenJHMldodkNMMUpxWXp3T2dZTFpTR3JmX2ozSG4xUkloUWNXR2FUV2RBRzgtTjdrcWkxN3ZnbWtSbG5xRFBIcENPY1Vva2ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4da5b80aef90",
-      "title": "Een ‘low calorie’-biertje waarmee je ‘bewust kiest’? Misleidend, zegt onderzoeker - De Gelderlander",
-      "published": "2026-08-22T18:28:00+00:00",
-      "summary": "Een ‘low calorie’-biertje waarmee je ‘bewust kiest’? Misleidend, zegt onderzoeker&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblU1NTE1MmtMczRVc0VvV3NiTmxfMEZrSDM5VWhuMEFGSXBFQ1FtREFVb0xqVjB5MnVQc1RZZEg0aV93SzdZRXVUNndjWF8wRmZXdmdzR0Z3YmJEUHplVnplUVUwV1B2Q3RjNXB4SE5XWkpNbFNlMDFNQ2ptTEpNNGdPb0Y0Y010SkdFN2lzQ090dGVPbnRLSjNnemdnWFRqMVlubS1tQmtDNlR0TEUxTmNuMUVWVFhFNUdCYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f8a2a597775",
-      "title": "De jacht op een langer leven: ‘longevity’-behandelingen zijn big business, maar gezondheidsclaims zijn twijfelachtig - Het Parool",
-      "published": "2026-08-22T01:00:00+00:00",
-      "summary": "De jacht op een langer leven: ‘longevity’-behandelingen zijn big business, maar gezondheidsclaims zijn twijfelachtig&nbsp;&nbsp;Het Parool",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUGhlRFFVSENDSDQyX1BmVTlOSUZuMVVhdHUwcjI4R0ZhaUVERFpLWEE5U2pHM3VaU2VHWm5JRFkxTHVLME80ejB1X1JDdkFwZHRBbUtCV0ZaN1JEWTNzUGJBQjhrS2V4OFJaWmNrOF9yZHFMQmJiU2NFYkdGVm4tU2t5WW1Jbm5mazJMOEVOaElMVjVCeXhJWVRabm1pX1JybGZjNHZLTEE2MnlMcmJmalp1N0Q2VWNMMW5GeUNTbWJuM2Jqem14U1c2UXlKazZpeVZlUmk2T3gybnVYanFEZDk0S2txZWk4UVE?oc=5"
         }
       ]
     },

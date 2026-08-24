@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-23T18:23:00.158102+00:00",
+  "fetched_at": "2026-08-24T01:03:46.355590+00:00",
   "count": 6,
   "news": [
     {
       "id": "af66a446386d",
       "title": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker - NU",
       "published": "2026-08-23T09:20:50+00:00",
-      "summary": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSOngezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrouw overleden’&nbsp;&nbsp;TrouwVN: Ruim 2500 doden door ebola, uitbraak groeit ’exponentieel’&nbsp;&nb",
+      "summary": "Congo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSOngezien broeide het ebolavirus, nu dreigt de grootste uitbraak ooit: ‘Het virus legt routes af waar we niets van weten’&nbsp;&nbsp;de VolkskrantMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrouw overleden’&nbsp;&nbsp;TrouwEbola-epidemie in Congo dreigt de dodelijkste ooit te worden en nepnieu",
       "sources": [
         {
           "name": "NU",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "058f23c0c457",
-      "title": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug' - NU",
-      "published": "2026-08-23T11:50:44+00:00",
-      "summary": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NULowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands Science&nbsp;&nbsp;Festileaks.comOp Lowlands ben je proefkonijn én wetenschapper: 13 projecten om aan mee te doen&nbsp",
+      "id": "3b946a8c8395",
+      "title": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker - AD.nl",
+      "published": "2026-08-23T10:26:53+00:00",
+      "summary": "Lowlands is niet alleen bier en bandjes: er wordt dit jaar ook onderzoek gedaan naar stress na kanker&nbsp;&nbsp;AD.nlFestivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NULowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantReportage: Dit gebeurt er wanneer je je beschikbaar stelt voor de wetenschap bij Lowlands ",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnU4Rm5kSGVpWUVQQ3p3VUNoeHpzR0JKOThmUkRDeTlKQ25rMUVQOUNKd05kSjM4WmV6c1RPU2NKZDNXWnVGRGtfVEZuQTRqS0xKcGo1bzJnN1F6TndjV2hILV83LVB1Z2QwcDY4RkdTa1hXaVRLTDcwNGxWak5Ncm91SU1xaU1yZjkyUTFLSnJsWHN3ZXJzVWs3Vm03WVRodHZyOW13bnFPZmNrR0pjV2N4d0hKV1k4aXR1cjc2VQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEVmV0lYNnlVNUpSMDQ2ZTJoakFNSlBtZkZyajM4MFJ4bEpvM010VGtiQ18yOGpLN0V4UnF2cUJzUVpWdFNpT01IdzJmRGUyV05qRURLWkNwUnRabzk5d1c3U25xNEJQVXJHSWtaUFk1MUtpS0x0dFpldDFtNlI3emlwa0RiQVV5bWNIYkotZ0pJWkQtU1d6ejFZZ3BINXd2bDFnSzBiREtYb3lBWHR1SENxMHNNV0M4RE5DcENJTk44SjFYZ1dDQk5ES0lQckRmczVLaEtn?oc=5"
         }
       ]
     },
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "4da5b80aef90",
+      "title": "Een ‘low calorie’-biertje waarmee je ‘bewust kiest’? Misleidend, zegt onderzoeker - De Gelderlander",
+      "published": "2026-08-22T18:28:00+00:00",
+      "summary": "Een ‘low calorie’-biertje waarmee je ‘bewust kiest’? Misleidend, zegt onderzoeker&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblU1NTE1MmtMczRVc0VvV3NiTmxfMEZrSDM5VWhuMEFGSXBFQ1FtREFVb0xqVjB5MnVQc1RZZEg0aV93SzdZRXVUNndjWF8wRmZXdmdzR0Z3YmJEUHplVnplUVUwV1B2Q3RjNXB4SE5XWkpNbFNlMDFNQ2ptTEpNNGdPb0Y0Y010SkdFN2lzQ090dGVPbnRLSjNnemdnWFRqMVlubS1tQmtDNlR0TEUxTmNuMUVWVFhFNUdCYg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f8a2a597775",
       "title": "De jacht op een langer leven: ‘longevity’-behandelingen zijn big business, maar gezondheidsclaims zijn twijfelachtig - Het Parool",
       "published": "2026-08-22T01:00:00+00:00",
@@ -52,26 +64,14 @@
       ]
     },
     {
-      "id": "74f805bd8b27",
-      "title": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\" - NH Nieuws",
-      "published": "2026-08-21T21:48:00+00:00",
-      "summary": "Hersenaandoening afasie heeft grote impact: \"Kan nooit meer met hem praten\"&nbsp;&nbsp;NH Nieuws",
+      "id": "9161d7e9f0c5",
+      "title": "Waarom mensen met de ziekte van Alzheimer hun naasten vergeten - Marie Claire",
+      "published": "2026-08-23T15:00:00+00:00",
+      "summary": "Waarom mensen met de ziekte van Alzheimer hun naasten vergeten&nbsp;&nbsp;Marie Claire",
       "sources": [
         {
-          "name": "NH Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjdHV0t2dDBtdjd4TU9VSzkxZ1JDVnJzZzBkaG82SHZEUjVpVTVrT29SZGNwbXVqeFhqR3JjLS1zU2dxZHZfZlpOQnhta0F4R0cxOWJVN2x4UGJwNFlkZ19mX0VxNXBBR1N5QzBQdXVmbC1BSlJhQ0ZMLVFlOHNtVHY3czhFQ2UtSUhIOUhjNEJIMTZsNEh2X2pUZnZab1BPYTZBWUVFN21GQUIxWUxN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1649ef7ff7dc",
-      "title": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald - HLN",
-      "published": "2026-08-22T03:37:46+00:00",
-      "summary": "“Twee jaar lang voor gevochten als een leeuw”: Julie (14) uit Stabroek krijgt eindelijk peperduur medicijn voor muco terugbetaald&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaEpocEJ5M3pCX1k3WF9jWEVqd1Fpc19YYXVEX3ZCSEotTmo0SWJuel9ldFlLUTNpLWUwZEk5S1VyTjdteTZfSnJxUHA2cUxuMGpSWkZxMFRndzdMQlBlVmwtTXFTN200ZnVRY0N0QnJRMS11Q01NY003S3hRRkp4eEctZ3FGYmItVnlCQXlVLV9abGd1QXJIVndkVU9yTWJCaWFsajl0a0d5LWdZV2NTbmFVMHRoN1JyNkVTYXhlZld1THB0Qno1MExmSy0wdWp4THh3NnV1SDBDMlVDUXRpekFoLUdjTFBYQ19fRDlsMFE5cTFM?oc=5"
+          "name": "Marie Claire",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1k2VTJjZmdWa0xIZTkxMVhLOG5QbUx3RWI0UnlXUnJCdVp2bEI4MU9yUjc3TEpBeExPeXE1WEZ2TXNlZ0Y3Q1VNeEt0RXZXRzU3T3FwejhkYUVnNjRtX0pMendoaE5fQ1M5R1phekZpUDhIRnJpd0dSN28xQ1BoRmw2bVlRZ3o2Z1V3SnF1NzhURjlnZVZ4OE1nMWJJel80QzBBNDVCM19yUQ?oc=5"
         }
       ]
     }

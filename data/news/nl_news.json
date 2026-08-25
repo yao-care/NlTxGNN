@@ -1,12 +1,36 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-25T06:39:26.959136+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-25T12:39:41.351056+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "1b1cda35b844",
+      "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
+      "published": "2026-08-24T06:56:31+00:00",
+      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUOnderzoek naar behandeling endeldarmkanker in ziekenhuis Roermond en Maastro-clinic effectief&nbsp;&nbsp;L1 NieuwsDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlGeen stoma of ingrijpende operatie: vaak volstaat chemo of bestraling voor patiënten met endeldarmkanker&nbsp;&nbsp;Het ParoolNieuwe behandeling endeldarmkanker biedt vaak betere kwalit",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0RoSjlSMF9JRlY1WUFFeEhWcHNENi1Za1FYSWtmWHh4eWh1UE5CSTl4bkY4ZldlUFFfVkRaeUt5bGt6X3pWNG1DdHhMSmgwbS13SmZRUjU4UFQyN3JfRVQyN29pT1d1bTl6c3I0dkhUWnFoNlpobUtCT3VwcVpDTE8wOFBwVVFUWlQtb0ZrYzJHX0RZRHRESGxBMmdWNGVkNlBzS1N5eGpvZjhKR1lBd3Nta3ZJMUVSbGY0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62e90a83cc84",
+      "title": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-24T16:30:38+00:00",
+      "summary": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDagboek uit ebolagebied: „Hoe kan er in zo’n mooi land zo veel ellende zijn?”&nbsp;&nbsp;Reformatorisch DagbladCongo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNN01WUEVJajhpRmhqUk41cjFwUHJ2WGxvUnhOTnFDbnZWR2cwbUkybEswYnFrNHR6ZXVHUThtcHY3d1BuQk5YeHFiQ1k3U0NpYTJOaldINUJ0ZWQ5bVdPSzNRZndfRVZLazlZWGlBTWRaTXFrbkppXzlTaC15UWdtVFdsOVBRVWdLUmxOYTlrMjFJczRKcjZkZXpuVVFEOFlQM3BKaVRIclowbVM2cUFVQnA1QTRnZGp4YVduOWhyeHlfSTNHOHlncDNmZ000QzZvVnJlNkw2YU9uREk4dEo4bHZLaUt2cDNaQ0lBMWtrdGJfaXo4T2NjQmdzS1Jjcm0wMXZQaXM4ZmJiZXV6eC1rcUZVNmlPN3ZERFBMQlNJTWVOUzJfVC0tRThzelZ1NEl4VHhnY015YUxvRGpFc0hNdU9WOA?oc=5"
+        }
+      ]
+    },
     {
       "id": "e8f975de8517",
       "title": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’ - De Telegraaf",
-      "published": "2026-08-25T05:00:00+00:00",
+      "published": "2026-08-25T12:00:00+00:00",
       "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -16,38 +40,26 @@
       ]
     },
     {
-      "id": "62e90a83cc84",
-      "title": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-24T16:30:38+00:00",
-      "summary": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekCongo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrou",
+      "id": "09d9e2d3c238",
+      "title": "Pieter Zandhuis kreeg ALS: ‘De ziekte is ongrijpbaar’ - Het Financieele Dagblad",
+      "published": "2026-08-25T06:30:20+00:00",
+      "summary": "Pieter Zandhuis kreeg ALS: ‘De ziekte is ongrijpbaar’&nbsp;&nbsp;Het Financieele Dagblad",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNN01WUEVJajhpRmhqUk41cjFwUHJ2WGxvUnhOTnFDbnZWR2cwbUkybEswYnFrNHR6ZXVHUThtcHY3d1BuQk5YeHFiQ1k3U0NpYTJOaldINUJ0ZWQ5bVdPSzNRZndfRVZLazlZWGlBTWRaTXFrbkppXzlTaC15UWdtVFdsOVBRVWdLUmxOYTlrMjFJczRKcjZkZXpuVVFEOFlQM3BKaVRIclowbVM2cUFVQnA1QTRnZGp4YVduOWhyeHlfSTNHOHlncDNmZ000QzZvVnJlNkw2YU9uREk4dEo4bHZLaUt2cDNaQ0lBMWtrdGJfaXo4T2NjQmdzS1Jjcm0wMXZQaXM4ZmJiZXV6eC1rcUZVNmlPN3ZERFBMQlNJTWVOUzJfVC0tRThzelZ1NEl4VHhnY015YUxvRGpFc0hNdU9WOA?oc=5"
+          "name": "Het Financieele Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHEzSndtWEpYQ1l5VWY4MmFyellnbGZJUzRGSHJ3TzdqaG4yenZzRXBNaW1NNE1IOUNvVzlLa0psNFBuN1d3eDl0NzFIdWY2RF90cmMzcDg3UzVRTWFiUy0ySkloajJ5WnY0ZVBoeDhjRXV1X3YwZzZXMGlYVFJoc2JKVEV0Z25JXzlfQg?oc=5"
         }
       ]
     },
     {
-      "id": "1b1cda35b844",
-      "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
-      "published": "2026-08-24T06:56:31+00:00",
-      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlNieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep GelderlandLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVO",
+      "id": "eba943b48337",
+      "title": "Erik Scherder over de link tussen brein en hart: ‘Je hersenen kunnen je hart gezond helpen houden’ - quest.nl",
+      "published": "2026-08-24T04:07:14+00:00",
+      "summary": "Erik Scherder over de link tussen brein en hart: ‘Je hersenen kunnen je hart gezond helpen houden’&nbsp;&nbsp;quest.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0RoSjlSMF9JRlY1WUFFeEhWcHNENi1Za1FYSWtmWHh4eWh1UE5CSTl4bkY4ZldlUFFfVkRaeUt5bGt6X3pWNG1DdHhMSmgwbS13SmZRUjU4UFQyN3JfRVQyN29pT1d1bTl6c3I0dkhUWnFoNlpobUtCT3VwcVpDTE8wOFBwVVFUWlQtb0ZrYzJHX0RZRHRESGxBMmdWNGVkNlBzS1N5eGpvZjhKR1lBd3Nta3ZJMUVSbGY0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8526cc79c9ff",
-      "title": "Wat doet licht met je hersengolven tijdens Lowlands? ‘Unieke data van proefkonijn die 11 soorten drugs gebruikte’ - AD.nl",
-      "published": "2026-08-24T16:43:00+00:00",
-      "summary": "Wat doet licht met je hersengolven tijdens Lowlands? ‘Unieke data van proefkonijn die 11 soorten drugs gebruikte’&nbsp;&nbsp;AD.nlFestivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NUWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantLowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolUMC Utrecht onderzoekt hoe hersenen van Lowlands-bezoekers reageren op festiva",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbG8tQXZZWnU4SGlHbmloMHk4X2puWjNYNVhPc3F5NVA4ODItYTBlTk1LektsNV91b1dmSUh2dXhxMzlsemlxUDM2T01RNEZLN0xIbFBRUmEteXN0b1l0S1d2NVJqT0dvV3FuaG5INnVISFRvYy1TV19xU1pUUVJhbFdCdEFtb2k0TkhqbzM4WEh0d3A5NkNFRmJ0R1ZXWUdVSDRlQm9WcWEzUVlGbFNadTJ1X2wyaUVTSE9LVE56YVUxMnZBNU9UVk9YVVN3RTRxVnN6MF9JaGh6MERLTXY4?oc=5"
+          "name": "quest.nl",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHEteFQ3TkhOSnNwZmF4Rlh1bTRfOWNBWngtZXFvMEo5dmhUX1BqRlBuNGk2ZHNReGJVWHVMVG1POUR3dlBxS1p0NWV0aTI1Z1lRbXpqVDA4d0FTbzZ3Z21BOERzaU5hTndDX3pyRXhXMExTU2Y2SGlaN3ZVRmhmLUtYeXpCbzU2bjRrN0Z2cDVpdw?oc=5"
         }
       ]
     }

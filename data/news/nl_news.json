@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-24T18:34:22.435542+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-25T01:03:03.491285+00:00",
+  "count": 3,
   "news": [
     {
       "id": "1b1cda35b844",
       "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
       "published": "2026-08-24T06:56:31+00:00",
-      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVONieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep Gelderland",
+      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSNieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep GelderlandDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVO",
       "sources": [
         {
           "name": "NU",
@@ -16,38 +16,26 @@
       ]
     },
     {
-      "id": "058f23c0c457",
-      "title": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug' - NU",
-      "published": "2026-08-23T11:50:44+00:00",
-      "summary": "Festivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NUWat doet licht met je hersengolven tijdens Lowlands? ‘Unieke data van proefkonijn die 11 soorten drugs gebruikte’&nbsp;&nbsp;AD.nlWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantLowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolUMC Utrecht onderzoekt hoe hersenen van Lowlands-bezoekers reageren op festiva",
+      "id": "7feb403600e5",
+      "title": "Rode Kruis neemt extra maatregelen door nieuw virus - Redactie24",
+      "published": "2026-08-24T10:30:00+00:00",
+      "summary": "Rode Kruis neemt extra maatregelen door nieuw virus&nbsp;&nbsp;Redactie24Hoe gevaarlijk is het westnijlvirus? En zit het nu overal in Vlaanderen? Steven Van Gucht legt uit&nbsp;&nbsp;HLNArtsen en ziekenhuizen in regio Mechelen-Willebroek verwittigd nu dieren besmet zijn met westnijlvirus&nbsp;&nbsp;VRTWestnijlvirus duikt nu ook in Vlaanderen op: “Probeer muggenbeten te voorkomen”&nbsp;&nbsp;De StandaardBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV Utrecht",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnU4Rm5kSGVpWUVQQ3p3VUNoeHpzR0JKOThmUkRDeTlKQ25rMUVQOUNKd05kSjM4WmV6c1RPU2NKZDNXWnVGRGtfVEZuQTRqS0xKcGo1bzJnN1F6TndjV2hILV83LVB1Z2QwcDY4RkdTa1hXaVRLTDcwNGxWak5Ncm91SU1xaU1yZjkyUTFLSnJsWHN3ZXJzVWs3Vm03WVRodHZyOW13bnFPZmNrR0pjV2N4d0hKV1k4aXR1cjc2VQ?oc=5"
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUhGNEVINGVRY0NOWUJpbGpSMmtrR2xVSmxLZjYtb1ZNaEJWSEtxRG1zbWRwTnphSm5QRGxvbm1vYVFfLTRmN3NMMW1VTGd2SUlSOFJ4VnNyVnYtV3NOSzN0VnRnZkp5VzUwLV9YZ2YzV1ZhQ1ZpZWh1eldLcmpqM0RJM2tsOHZvaWNtVmdFcTBQLS1mWlR4UjV3?oc=5"
         }
       ]
     },
     {
-      "id": "92278b2dc69a",
-      "title": "Charlotte beviel na 32 weken van een tweeling en helpt nu andere ouders na vroeggeboorte - RTV Utrecht",
-      "published": "2026-08-23T04:01:11+00:00",
-      "summary": "Charlotte beviel na 32 weken van een tweeling en helpt nu andere ouders na vroeggeboorte&nbsp;&nbsp;RTV UtrechtVeel ouders lijden aan PTSS-klachten na vroeggeboorte&nbsp;&nbsp;NOSVeel ouders van zeer vroeg geboren baby's hebben PTSS-klachten&nbsp;&nbsp;NUTatiana's baby's werden veel te vroeg geboren, de zware stress bleef nog lang daarna&nbsp;&nbsp;RTL.nlOuders van premature baby’s hebben vaak last van PTSS, blijkt uit nieuw onderzoek&nbsp;&nbsp;Newsmonkey -",
+      "id": "8526cc79c9ff",
+      "title": "Wat doet licht met je hersengolven tijdens Lowlands? ‘Unieke data van proefkonijn die 11 soorten drugs gebruikte’ - AD.nl",
+      "published": "2026-08-24T16:43:00+00:00",
+      "summary": "Wat doet licht met je hersengolven tijdens Lowlands? ‘Unieke data van proefkonijn die 11 soorten drugs gebruikte’&nbsp;&nbsp;AD.nlFestivalgangers staan haar af voor kankeronderzoek: 'Groeit toch weer terug'&nbsp;&nbsp;NUWetenschappers vinden hun proefpersonen tegenwoordig op Lowlands&nbsp;&nbsp;de VolkskrantLowlands is niet alleen bier en bandjes: dit jaar is er ook onderzoek naar stress na kanker&nbsp;&nbsp;Het ParoolUMC Utrecht onderzoekt hoe hersenen van Lowlands-bezoekers reageren op festiva",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjJWOW9TeFRZTGMwOFI1ZF9uWXJvZDRWazlXdmtrblZ0c25iNThpakdpdnQ2QV9BNmxYaTdqcE11QVNtUlQza0pBVUY4MllKNXFLc3Z5QzNSMTNOaHEtYmRPdjEzMHBrTUtjbGFTR3NZM3QzLWwxN2lNLVFTa3Q0OV9WWG5nSmR1enEwYUYybzdSTWpGbG5yZnQyZGFOWGM3LTVpWUR2M1Y1SjBaOFY2NTVON2pSVkU0SWFQZWxOaDZnMzJBNDdnNQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9161d7e9f0c5",
-      "title": "Waarom mensen met de ziekte van Alzheimer hun naasten vergeten - Marie Claire",
-      "published": "2026-08-23T15:00:00+00:00",
-      "summary": "Waarom mensen met de ziekte van Alzheimer hun naasten vergeten&nbsp;&nbsp;Marie Claire",
-      "sources": [
-        {
-          "name": "Marie Claire",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1k2VTJjZmdWa0xIZTkxMVhLOG5QbUx3RWI0UnlXUnJCdVp2bEI4MU9yUjc3TEpBeExPeXE1WEZ2TXNlZ0Y3Q1VNeEt0RXZXRzU3T3FwejhkYUVnNjRtX0pMendoaE5fQ1M5R1phekZpUDhIRnJpd0dSN28xQ1BoRmw2bVlRZ3o2Z1V3SnF1NzhURjlnZVZ4OE1nMWJJel80QzBBNDVCM19yUQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbG8tQXZZWnU4SGlHbmloMHk4X2puWjNYNVhPc3F5NVA4ODItYTBlTk1LektsNV91b1dmSUh2dXhxMzlsemlxUDM2T01RNEZLN0xIbFBRUmEteXN0b1l0S1d2NVJqT0dvV3FuaG5INnVISFRvYy1TV19xU1pUUVJhbFdCdEFtb2k0TkhqbzM4WEh0d3A5NkNFRmJ0R1ZXWUdVSDRlQm9WcWEzUVlGbFNadTJ1X2wyaUVTSE9LVE56YVUxMnZBNU9UVk9YVVN3RTRxVnN6MF9JaGh6MERLTXY4?oc=5"
         }
       ]
     }

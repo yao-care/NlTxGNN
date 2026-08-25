@@ -1,29 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-25T01:03:03.491285+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-25T06:39:26.959136+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "1b1cda35b844",
-      "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
-      "published": "2026-08-24T06:56:31+00:00",
-      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSNieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep GelderlandDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVO",
+      "id": "e8f975de8517",
+      "title": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’ - De Telegraaf",
+      "published": "2026-08-25T05:00:00+00:00",
+      "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0RoSjlSMF9JRlY1WUFFeEhWcHNENi1Za1FYSWtmWHh4eWh1UE5CSTl4bkY4ZldlUFFfVkRaeUt5bGt6X3pWNG1DdHhMSmgwbS13SmZRUjU4UFQyN3JfRVQyN29pT1d1bTl6c3I0dkhUWnFoNlpobUtCT3VwcVpDTE8wOFBwVVFUWlQtb0ZrYzJHX0RZRHRESGxBMmdWNGVkNlBzS1N5eGpvZjhKR1lBd3Nta3ZJMUVSbGY0?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVDQ5LS1lc0V6cDVyX2stUUdZalNmN2I4ZTZNaHJFQzdBaHo2QkppSEtiT2QxbG1NMzNXMC1TZ3YyT3F6LTRCdTA0SGlRN0NPazVMUC02VUhyeUpBVHhQREZnbDVCcktNcDZjUTVHVG1PaGxlOFVOUDBqVG5VbGNtQXUzN05oNjdMV3gzaU5UdzY1dC05M2hxZ1ZVZHphSUxnZmNEd1BPcTBFZGRKSXNPNTVxZGVrRlVWVlFqT0NLOU9hWnZRZjVLRUdpX3VjTkJmeFo4bnNibEQ5MHozUEFfTnp5cFBEVkdkSDZ2dmFZeTJmNmt1am03aHdiQTYzQjZ2QW9n?oc=5"
         }
       ]
     },
     {
-      "id": "7feb403600e5",
-      "title": "Rode Kruis neemt extra maatregelen door nieuw virus - Redactie24",
-      "published": "2026-08-24T10:30:00+00:00",
-      "summary": "Rode Kruis neemt extra maatregelen door nieuw virus&nbsp;&nbsp;Redactie24Hoe gevaarlijk is het westnijlvirus? En zit het nu overal in Vlaanderen? Steven Van Gucht legt uit&nbsp;&nbsp;HLNArtsen en ziekenhuizen in regio Mechelen-Willebroek verwittigd nu dieren besmet zijn met westnijlvirus&nbsp;&nbsp;VRTWestnijlvirus duikt nu ook in Vlaanderen op: “Probeer muggenbeten te voorkomen”&nbsp;&nbsp;De StandaardBloeddonor besmet: 7 vragen over het westnijlvirus&nbsp;&nbsp;RTV Utrecht",
+      "id": "62e90a83cc84",
+      "title": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-24T16:30:38+00:00",
+      "summary": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekCongo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUDe dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?&nbsp;&nbsp;NOSMarcella Kraaij (57) houdt een dagboek bij in ebolagebied. ‘Vanochtend is een zwangere vrou",
       "sources": [
         {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUhGNEVINGVRY0NOWUJpbGpSMmtrR2xVSmxLZjYtb1ZNaEJWSEtxRG1zbWRwTnphSm5QRGxvbm1vYVFfLTRmN3NMMW1VTGd2SUlSOFJ4VnNyVnYtV3NOSzN0VnRnZkp5VzUwLV9YZ2YzV1ZhQ1ZpZWh1eldLcmpqM0RJM2tsOHZvaWNtVmdFcTBQLS1mWlR4UjV3?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNN01WUEVJajhpRmhqUk41cjFwUHJ2WGxvUnhOTnFDbnZWR2cwbUkybEswYnFrNHR6ZXVHUThtcHY3d1BuQk5YeHFiQ1k3U0NpYTJOaldINUJ0ZWQ5bVdPSzNRZndfRVZLazlZWGlBTWRaTXFrbkppXzlTaC15UWdtVFdsOVBRVWdLUmxOYTlrMjFJczRKcjZkZXpuVVFEOFlQM3BKaVRIclowbVM2cUFVQnA1QTRnZGp4YVduOWhyeHlfSTNHOHlncDNmZ000QzZvVnJlNkw2YU9uREk4dEo4bHZLaUt2cDNaQ0lBMWtrdGJfaXo4T2NjQmdzS1Jjcm0wMXZQaXM4ZmJiZXV6eC1rcUZVNmlPN3ZERFBMQlNJTWVOUzJfVC0tRThzelZ1NEl4VHhnY015YUxvRGpFc0hNdU9WOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b1cda35b844",
+      "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
+      "published": "2026-08-24T06:56:31+00:00",
+      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSDoorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc&nbsp;&nbsp;AD.nlNieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep GelderlandLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVO",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0RoSjlSMF9JRlY1WUFFeEhWcHNENi1Za1FYSWtmWHh4eWh1UE5CSTl4bkY4ZldlUFFfVkRaeUt5bGt6X3pWNG1DdHhMSmgwbS13SmZRUjU4UFQyN3JfRVQyN29pT1d1bTl6c3I0dkhUWnFoNlpobUtCT3VwcVpDTE8wOFBwVVFUWlQtb0ZrYzJHX0RZRHRESGxBMmdWNGVkNlBzS1N5eGpvZjhKR1lBd3Nta3ZJMUVSbGY0?oc=5"
         }
       ]
     },

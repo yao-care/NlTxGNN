@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-26T06:40:55.963671+00:00",
+  "fetched_at": "2026-08-26T12:43:28.233543+00:00",
   "count": 6,
   "news": [
     {
-      "id": "3574607e579e",
-      "title": "Nieuwe najaarsronde coronaprik 2026 van start - Westlanders.nu",
-      "published": "2026-08-25T08:33:13+00:00",
-      "summary": "Nieuwe najaarsronde coronaprik 2026 van start&nbsp;&nbsp;Westlanders.nuNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep FlevolandNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOS",
+      "id": "79d7474eb366",
+      "title": "Dode in Utrecht door het westnijlvirus, opgelopen in Nederland - NOS",
+      "published": "2026-08-26T10:23:45+00:00",
+      "summary": "Dode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUPersoon in Utrecht overleden aan infectie westnijlvirus&nbsp;&nbsp;AD.nlPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMTweede persoon in Nederland overleden aan westnijlvirus, twee mensen in ziekenhuis&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "Westlanders.nu",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOTJ1dy1EYkNUNTF0WWRHWWZWdGRXRjZOQ3g0N2hKVTdUa0NidkpZamk4LVRUcjRqdWFPWWpLVThZRGd4N1liMVBSRGQ1MXNuYjNiZFFOcVlRVHBjekczNHF4WUFZRUxrZ3pLRk01Q0FwR0dodG8xS2Vnd21adkE?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblB4b002ek41eTFLZF8zVEVORUluY2N2Y2VKeTR2RG5jUXp6MjJLMWNqNHZyNXRfcXBOcW1wOXh4blB0dEdEOEgxSGE3WXJjOC1yZkRKZHdlT1M4eHVsYzlBOVJ3RWJRdk9lNkl1elJNV1AtNTlsLUN3eWc4dk10MmFnUlJIMjAyZUV3b296aGZ3Tk5YWjgw?oc=5"
         }
       ]
     },
     {
-      "id": "1b1cda35b844",
-      "title": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker - NU",
-      "published": "2026-08-24T06:56:31+00:00",
-      "summary": "Ingrijpende operatie niet langer standaard voor patiënten met endeldarmkanker&nbsp;&nbsp;NUOnderzoek naar behandeling endeldarmkanker in ziekenhuis Roermond en Maastro-clinic effectief&nbsp;&nbsp;L1 NieuwsNieuw onderzoek biedt hoop: endeldarmkanker vaker te genezen zonder operatie&nbsp;&nbsp;Omroep GelderlandNieuwe behandeling endeldarmkanker biedt vaak betere kwaliteit van leven&nbsp;&nbsp;NOSLangdurige chemoradiatie kan rectumverwijdering voorkomen bij endeldarmkanker&nbsp;&nbsp;NTVO",
+      "id": "3574607e579e",
+      "title": "Nieuwe najaarsronde coronaprik 2026 van start - Westlanders.nu",
+      "published": "2026-08-25T08:33:13+00:00",
+      "summary": "Nieuwe najaarsronde coronaprik 2026 van start&nbsp;&nbsp;Westlanders.nuNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep Flevoland",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0RoSjlSMF9JRlY1WUFFeEhWcHNENi1Za1FYSWtmWHh4eWh1UE5CSTl4bkY4ZldlUFFfVkRaeUt5bGt6X3pWNG1DdHhMSmgwbS13SmZRUjU4UFQyN3JfRVQyN29pT1d1bTl6c3I0dkhUWnFoNlpobUtCT3VwcVpDTE8wOFBwVVFUWlQtb0ZrYzJHX0RZRHRESGxBMmdWNGVkNlBzS1N5eGpvZjhKR1lBd3Nta3ZJMUVSbGY0?oc=5"
+          "name": "Westlanders.nu",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOTJ1dy1EYkNUNTF0WWRHWWZWdGRXRjZOQ3g0N2hKVTdUa0NidkpZamk4LVRUcjRqdWFPWWpLVThZRGd4N1liMVBSRGQ1MXNuYjNiZFFOcVlRVHBjekczNHF4WUFZRUxrZ3pLRk01Q0FwR0dodG8xS2Vnd21adkE?oc=5"
         }
       ]
     },
@@ -42,7 +42,7 @@
     {
       "id": "e8f975de8517",
       "title": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’ - De Telegraaf",
-      "published": "2026-08-25T12:00:00+00:00",
+      "published": "2026-08-25T05:00:00+00:00",
       "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

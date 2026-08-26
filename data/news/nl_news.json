@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-26T12:43:28.233543+00:00",
+  "fetched_at": "2026-08-26T19:43:02.376114+00:00",
   "count": 6,
   "news": [
     {
-      "id": "79d7474eb366",
-      "title": "Dode in Utrecht door het westnijlvirus, opgelopen in Nederland - NOS",
-      "published": "2026-08-26T10:23:45+00:00",
-      "summary": "Dode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUPersoon in Utrecht overleden aan infectie westnijlvirus&nbsp;&nbsp;AD.nlPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMTweede persoon in Nederland overleden aan westnijlvirus, twee mensen in ziekenhuis&nbsp;&nbsp;RTL.nl",
+      "id": "cf70313ea33f",
+      "title": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig - NU",
+      "published": "2026-08-26T17:19:43+00:00",
+      "summary": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig&nbsp;&nbsp;NUPersoon overleden door westnijlvirus, vier besmettingen in Utrecht dit jaar&nbsp;&nbsp;AD.nlPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nb",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblB4b002ek41eTFLZF8zVEVORUluY2N2Y2VKeTR2RG5jUXp6MjJLMWNqNHZyNXRfcXBOcW1wOXh4blB0dEdEOEgxSGE3WXJjOC1yZkRKZHdlT1M4eHVsYzlBOVJ3RWJRdk9lNkl1elJNV1AtNTlsLUN3eWc4dk10MmFnUlJIMjAyZUV3b296aGZ3Tk5YWjgw?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmZCaUwwUmZOY1pNdktrMmpOSjNiNmtrMTVfZ0t1Q21SQ2Iyd2c3SFZoU21Fc2hCYmJ3UmJjSEFISDJUVERUN2tvV0ZOandmYjFOSVFLUnprbmx3U0pmZml6cWZvSXNUdmxiRGdJZVlNRWhmRUZ6anVORjNiZVBLRnlRSjFQMFh6QzFYQ0dfNnQyaXI1ZDMyV0w5Q3VrcWx1cGZvM1lpRzRTWHA0ZHJaclc2SXhlUC1fUmxj?oc=5"
         }
       ]
     },
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "62e90a83cc84",
-      "title": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-24T16:30:38+00:00",
-      "summary": "Gezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDagboek uit ebolagebied: „Hoe kan er in zo’n mooi land zo veel ellende zijn?”&nbsp;&nbsp;Reformatorisch DagbladCongo krijgt tienduizenden vaccins tegen ebola, maar of die werken is onzeker&nbsp;&nbsp;NUGeweld tegen hulpverleners belemmert ebolabestrijding",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNN01WUEVJajhpRmhqUk41cjFwUHJ2WGxvUnhOTnFDbnZWR2cwbUkybEswYnFrNHR6ZXVHUThtcHY3d1BuQk5YeHFiQ1k3U0NpYTJOaldINUJ0ZWQ5bVdPSzNRZndfRVZLazlZWGlBTWRaTXFrbkppXzlTaC15UWdtVFdsOVBRVWdLUmxOYTlrMjFJczRKcjZkZXpuVVFEOFlQM3BKaVRIclowbVM2cUFVQnA1QTRnZGp4YVduOWhyeHlfSTNHOHlncDNmZ000QzZvVnJlNkw2YU9uREk4dEo4bHZLaUt2cDNaQ0lBMWtrdGJfaXo4T2NjQmdzS1Jjcm0wMXZQaXM4ZmJiZXV6eC1rcUZVNmlPN3ZERFBMQlNJTWVOUzJfVC0tRThzelZ1NEl4VHhnY015YUxvRGpFc0hNdU9WOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e8f975de8517",
       "title": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’ - De Telegraaf",
       "published": "2026-08-25T05:00:00+00:00",
-      "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De Telegraaf",
+      "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De TelegraafGGD biedt ook komende drie jaar gezondheidszorg aan kinderen in asielopvang&nbsp;&nbsp;NUGezondheidszorg voor twintigduizend asielkinderen toch niet per oktober gestaakt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekZorg voor 20.000 asielzoekerskinderen toch geregeld dankzij nieuw contract GGD&nbsp;&nbsp;NOSTóch zorg voor 20.000 a",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -72,6 +60,18 @@
         {
           "name": "Ouders van Nu",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2R0TG9vM295NnVSekZmZmYtYmNrSkdTSkFncE5nVnM1bWU5R1ZOYlk1eWF1ZTlPS2RQc2U5OHdMSm01ZGpzd1hsZjlfT0ZfOXVWRHozTm03M0Zxc1Zpb1VDcXBYVzBEOW1xdnNlNWNXZ2N3bUN5VG5QODV3Q3JZVER0azQ5bzVsM3l5YkdDZk1jVmU4bVZBOWxXQW10RG1FN0FDZ3J1Y2RKQ28zZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69197ec5315e",
+      "title": "Het gif van deze zeeslak kent geen tegengif, en toch komt er medicijn uit - Duurzaamnieuws",
+      "published": "2026-08-26T07:17:31+00:00",
+      "summary": "Het gif van deze zeeslak kent geen tegengif, en toch komt er medicijn uit&nbsp;&nbsp;Duurzaamnieuws",
+      "sources": [
+        {
+          "name": "Duurzaamnieuws",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUExyUWFXNVhkbFVyYnlBSjhQYzB2TXJBcUxGS3V5WERRUFFaMXFnZUJvbDlRaENlOXAzR1JSQlFjWEllZmo0T3NXMkYzc2VHaGFRMy1ZYUJGaWdseUQtbURwd1JDQTNGa1c0QnV4Y01zUEpaRnFEcGZYekRUOC03b1dTOU5TdnFsQlBhVDdoRHFwR0hWZVR5TERtTTVtVGg5RHZHTnNrSHNBaVpvMWc?oc=5"
         }
       ]
     }

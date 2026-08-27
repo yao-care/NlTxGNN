@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-26T19:43:02.376114+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-27T07:06:20.447438+00:00",
+  "count": 5,
   "news": [
     {
       "id": "cf70313ea33f",
       "title": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig - NU",
       "published": "2026-08-26T17:19:43+00:00",
-      "summary": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig&nbsp;&nbsp;NUPersoon overleden door westnijlvirus, vier besmettingen in Utrecht dit jaar&nbsp;&nbsp;AD.nlPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nb",
+      "summary": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig&nbsp;&nbsp;NUPersoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon overleden door westnijlvirus, vier besmettingen in Utrecht dit jaar&nbsp;&nbsp;AD.nlDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "NU",
@@ -16,38 +16,26 @@
       ]
     },
     {
-      "id": "3574607e579e",
-      "title": "Nieuwe najaarsronde coronaprik 2026 van start - Westlanders.nu",
-      "published": "2026-08-25T08:33:13+00:00",
-      "summary": "Nieuwe najaarsronde coronaprik 2026 van start&nbsp;&nbsp;Westlanders.nuNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep Flevoland",
+      "id": "6956b633e613",
+      "title": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken - BN DeStem",
+      "published": "2026-08-26T19:12:00+00:00",
+      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep Flevoland",
       "sources": [
         {
-          "name": "Westlanders.nu",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOTJ1dy1EYkNUNTF0WWRHWWZWdGRXRjZOQ3g0N2hKVTdUa0NidkpZamk4LVRUcjRqdWFPWWpLVThZRGd4N1liMVBSRGQ1MXNuYjNiZFFOcVlRVHBjekczNHF4WUFZRUxrZ3pLRk01Q0FwR0dodG8xS2Vnd21adkE?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFlZjctazA4SktGX0F2R25DOVNOR3VRS0dBOENNLS1ZLU8zSWNDSFNyUDJINDZLWUltbHdsWnpxTUpMWnktS19hWVA4Z2lrckhRZjlLTm4tRTFockxMQS02TUZ0NVlrVW10LWNRQ0lCbzJiMFNGNnJZaUZqTno5NmFZNHFzM2JuX0hwSHF2M3BJWDNiM09ZN1phN0pWd2Zsby1RZmpCcl9CYUdGaWtuTTRITUFJTzQ?oc=5"
         }
       ]
     },
     {
-      "id": "e8f975de8517",
-      "title": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’ - De Telegraaf",
-      "published": "2026-08-25T05:00:00+00:00",
-      "summary": "Medische experts slaan alarm om tienduizenden jonge asielzoekers die niet worden ingeënt: ’Ernstige ziekten kunnen uitbreken’&nbsp;&nbsp;De TelegraafGGD biedt ook komende drie jaar gezondheidszorg aan kinderen in asielopvang&nbsp;&nbsp;NUGezondheidszorg voor twintigduizend asielkinderen toch niet per oktober gestaakt&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekZorg voor 20.000 asielzoekerskinderen toch geregeld dankzij nieuw contract GGD&nbsp;&nbsp;NOSTóch zorg voor 20.000 a",
+      "id": "2f686f668a89",
+      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVDQ5LS1lc0V6cDVyX2stUUdZalNmN2I4ZTZNaHJFQzdBaHo2QkppSEtiT2QxbG1NMzNXMC1TZ3YyT3F6LTRCdTA0SGlRN0NPazVMUC02VUhyeUpBVHhQREZnbDVCcktNcDZjUTVHVG1PaGxlOFVOUDBqVG5VbGNtQXUzN05oNjdMV3gzaU5UdzY1dC05M2hxZ1ZVZHphSUxnZmNEd1BPcTBFZGRKSXNPNTVxZGVrRlVWVlFqT0NLOU9hWnZRZjVLRUdpX3VjTkJmeFo4bnNibEQ5MHozUEFfTnp5cFBEVkdkSDZ2dmFZeTJmNmt1am03aHdiQTYzQjZ2QW9n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09d9e2d3c238",
-      "title": "Pieter Zandhuis kreeg ALS: ‘De ziekte is ongrijpbaar’ - Het Financieele Dagblad",
-      "published": "2026-08-25T06:31:53+00:00",
-      "summary": "Pieter Zandhuis kreeg ALS: ‘De ziekte is ongrijpbaar’&nbsp;&nbsp;Het Financieele Dagblad",
-      "sources": [
-        {
-          "name": "Het Financieele Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHEzSndtWEpYQ1l5VWY4MmFyellnbGZJUzRGSHJ3TzdqaG4yenZzRXBNaW1NNE1IOUNvVzlLa0psNFBuN1d3eDl0NzFIdWY2RF90cmMzcDg3UzVRTWFiUy0ySkloajJ5WnY0ZVBoeDhjRXV1X3YwZzZXMGlYVFJoc2JKVEV0Z25JXzlfQg?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
         }
       ]
     },

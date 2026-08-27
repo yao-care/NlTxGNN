@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-27T07:06:20.447438+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-27T21:41:22.100384+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "cf70313ea33f",
-      "title": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig - NU",
-      "published": "2026-08-26T17:19:43+00:00",
-      "summary": "Westnijlvirus lijkt blijvertje in ons land, maar voor meeste mensen onschuldig&nbsp;&nbsp;NUPersoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon overleden door westnijlvirus, vier besmettingen in Utrecht dit jaar&nbsp;&nbsp;AD.nlDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nbsp;&nbsp;De Telegraaf",
+      "id": "3794afbe6c7f",
+      "title": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer' - RTV Utrecht",
+      "published": "2026-08-27T17:48:20+00:00",
+      "summary": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtWestnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;Brabants DagbladIemand in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWestnij",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmZCaUwwUmZOY1pNdktrMmpOSjNiNmtrMTVfZ0t1Q21SQ2Iyd2c3SFZoU21Fc2hCYmJ3UmJjSEFISDJUVERUN2tvV0ZOandmYjFOSVFLUnprbmx3U0pmZml6cWZvSXNUdmxiRGdJZVlNRWhmRUZ6anVORjNiZVBLRnlRSjFQMFh6QzFYQ0dfNnQyaXI1ZDMyV0w5Q3VrcWx1cGZvM1lpRzRTWHA0ZHJaclc2SXhlUC1fUmxj?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzh1b0tYbjF0Ul9nVTJKSGJyb0IzdEg1ckJDa0NVLWpBRlNRMDE3Z3pvRjU0dm96VGxNX3BNS3pkWEZtcWJ0VzJLTzNKY0FZWWVwUHF3RlBoOHdaS1pvSVpVQ2FObzM5NnFlV1BiNWpvbGUybkl5OFhsLTNmX0JrZm9aMEhpc0lnRUhpdDhRZmlNb1RQMmNPR2FERHVKX1RYUEIwUi1MbEVWMk1SblA4dURnOFJUSW9OWG5ObHZZRllMREN4THA3Tm5UMTFmX09Tc1Q0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfdbb234c963",
+      "title": "Inspectie ziet aantal meldingen over slechte fillers of botox exploderen: ‘Jongeren niet kritisch genoeg’ - AD.nl",
+      "published": "2026-08-27T13:30:35+00:00",
+      "summary": "Inspectie ziet aantal meldingen over slechte fillers of botox exploderen: ‘Jongeren niet kritisch genoeg’&nbsp;&nbsp;AD.nlInspectie waarschuwt voor botox en fillers tijdens introductieweken studenten&nbsp;&nbsp;NOSMeldingen over slecht uitgevoerde botox- en fillerbehandelingen vervijfvoudigd&nbsp;&nbsp;NUInspectie krijgt 5 keer zoveel klachten over botox en fillers: 'Jongeren denken te weinig na over een behandeling'&nbsp;&nbsp;Metronieuws.nlPerspectief vanuit de wetenschap&nbsp;&nbsp;Inspectie ",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQUZtSnBaNXpRRU1JSjdFT09OSVkwcThOZ1NJbFdadjduVHppVWhKWkJwcnF4VkM3cVgyVkstUXdJNm5DSlE1YjZiTUM5RG54QkdoNEloc082a05mTlYzeDYzQ21CRTdYcUdsNVIwTzhERkgtQW9UMGRiUGdIeVhuelMtNllPeHF5d0RNaE5mQzdvOGktcjEwbnpTMFU3dVNxOURFWGw5aXd5M2NDOG1lU1hLUEExb0hBU0pxOXk0RUZ2LUhiQjRlV1ZIWE5hemx0aXJ3Wg?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "6956b633e613",
       "title": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken - BN DeStem",
       "published": "2026-08-26T19:12:00+00:00",
-      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe prikronde tegen corona komt eraan, voor 70-plussers en kwetsbaren&nbsp;&nbsp;NOSNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep Flevoland",
+      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep FlevolandCoronaprik dit najaar voor mensen met een hoger gezondheidsrisico&nbsp;&nbsp;Noordoostpolder.nieuws.nl",
       "sources": [
         {
           "name": "BN DeStem",
@@ -28,14 +40,26 @@
       ]
     },
     {
-      "id": "2f686f668a89",
-      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
+      "id": "093c5bfab892",
+      "title": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten - AD.nl",
+      "published": "2026-08-22T09:31:00+00:00",
+      "summary": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten&nbsp;&nbsp;AD.nlUtrechtse onderzoekers houden ‘mini-brein’ meer dan vijf jaar in leven: ‘Kan zich jarenlang blijven ontwikkelen’&nbsp;&nbsp;De Utrechtse Internet CourantNieuw model biedt inzicht hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Pharmaceutisch WeekbladNieuw model helpt onderzoekers begrijpen hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Laboratorium.nlMedicijnen beter naar de hersen",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjE0dkd2MjRmSFIydWRVT0NHelh5RGRnSm4wQUY2VUpPc0Nod1BXYWRyeFExR1ozQnFEUTMzdTY2MUxHaEVrVlNLTks3Q3BlQUZJUEpjWFBINS1HcmtrUWN6dXNXTVNGUUVtMjdFQVdHTFR1MERrTkFzYzdEbUtiUEtFUDZxMXFqQUxZUDZqNHRMdXMtZ0t2cUV1YmxvYl9wTUVtbGxFRlpGeHhXWjBaTUN0bWpGQzgwU1NpZHFVN2hBbjBJTHV3dUQ3bW04eTg2VGtZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea5f6db5790f",
+      "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG0xUE1maC1KRUM2N2xnOFRkRFVXMUJvdDlTNEFISUhLNDRyOF9COU1GR2NvUlVKQi1naDF5WHJkcFpyTFFuMHRrSFA0VU5nZWp4bnVzckYwMkFWUUF0cExScEhIc0pwYnB1R0NqRWlhdFNENi03Q3piUXl4TVJTQnUtVElEMzhrS3QxcXM2R0JjOTVVa01fWGxNMGxUQmFiVk0zUjB0dnpaUzlkTkNFeVBROU10UVJSaXJxUGlDLWMwU1VDTHNyNC1PTllrUWd6dnlYR281UEl6dHc?oc=5"
         }
       ]
     },
@@ -52,6 +76,18 @@
       ]
     },
     {
+      "id": "b0c2fc480473",
+      "title": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys - De Telegraaf",
+      "published": "2026-08-21T06:30:00+00:00",
+      "summary": "Snurk jij zo hard dat je relatie eronder lijdt? De oplossing is soms al simpel, zegt kno-arts Sofie Claeys&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnM5Zmw3RHFrVEZjOUFvbVByMHVrLXgzSEVFWEE3MEpMVlctRmtZUi1nZEZ6LUFBM3VISnN5S2ZGMmYzczQyWnNZejY3RkhsZjRkUDdobUxvMGpUS1FjaFkxTHowTVdjUkdpc1FLeVhqVnJFVGl1bWhqd1EzRDh1OUx4NGN0WVJrODBwRk80RWtJdjl6a3pGRmczelFZeVVGamxfaW9KVVZMWElaX0hvVTVqUXdxd1AzSjFheWtxTVU4Zk50Wm9CX3ZUNVd6UmFkRV9sSlZjTjl2U0hBOWEzVUo0RzVzcDVxVGFPZUdYTVBkU0dSZkJZRg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "69197ec5315e",
       "title": "Het gif van deze zeeslak kent geen tegengif, en toch komt er medicijn uit - Duurzaamnieuws",
       "published": "2026-08-26T07:17:31+00:00",
@@ -60,6 +96,18 @@
         {
           "name": "Duurzaamnieuws",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUExyUWFXNVhkbFVyYnlBSjhQYzB2TXJBcUxGS3V5WERRUFFaMXFnZUJvbDlRaENlOXAzR1JSQlFjWEllZmo0T3NXMkYzc2VHaGFRMy1ZYUJGaWdseUQtbURwd1JDQTNGa1c0QnV4Y01zUEpaRnFEcGZYekRUOC03b1dTOU5TdnFsQlBhVDdoRHFwR0hWZVR5TERtTTVtVGg5RHZHTnNrSHNBaVpvMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ebc4a92a194",
+      "title": "Heel wat mensen doen het maar het zou risico op maagkanker verdubbelen - Redactie24",
+      "published": "2026-08-27T16:30:00+00:00",
+      "summary": "Heel wat mensen doen het maar het zou risico op maagkanker verdubbelen&nbsp;&nbsp;Redactie24",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzlWOGNpakFVYllIcXYwMVk2WkdZQnl1NkdwcnlscGhFOHJpc3lGSDJrY001cDRrRXZoZWhUbWNfMHFOSkpTS2dqYUdDUlpKMGZrdDh4SjZwVk1RZTB4UkNzNjdNLU1rdnkyeXJ3OWZuTjd1Sy0xMGIzdmhOVjNmZVNPTnVfUTdzYmEwUmlYTHE0WWxSRzE4TUMyekhVeG1SVGtqbThIVDRta184amtodjV3eFJOM2pYNEFN?oc=5"
         }
       ]
     }

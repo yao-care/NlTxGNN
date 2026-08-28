@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-28T08:53:58.999779+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-28T21:41:33.722629+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "53c9daa566e5",
+      "title": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed - de Volkskrant",
+      "published": "2026-08-28T12:45:20+00:00",
+      "summary": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding voor belangenbehartiger ME-patiënten&nbsp;&nbsp;Amsterdamsdagblad.nl",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnRNeWhYN0cxdnVrbG84VXk0Rnkwalo5d2tDUG9PSTBDYTUtMWpTZDlBMjF3ZmJMX2tMeTZWZFVkV0JTbEg0am95blpWdUo5dERObGlQWkFsX0RRVXR5OVAtTFdJaHBRZ0t4STkyci1vaU1kTWRpUkdQaWdDd2xjRkxfQUVYeTBIQTY1X3BkLWJ2UmdFQUxOTUQ4V3hKOWxWTWRVZ0oyRnJBdUFFOFRxSEZvVDduRnZDcHJWVA?oc=5"
+        }
+      ]
+    },
     {
       "id": "f4fd33de674a",
       "title": "Congo begint met vaccineren tegen ebola-uitbraak, maar heeft nog geen specifiek vaccin voor deze variant - RTL.nl",
       "published": "2026-08-28T02:08:31+00:00",
-      "summary": "Congo begint met vaccineren tegen ebola-uitbraak, maar heeft nog geen specifiek vaccin voor deze variant&nbsp;&nbsp;RTL.nlCongo gebruikt vaccin voor ander type ebola tegen grootste uitbraak ooit&nbsp;&nbsp;NOSGezondheidschef Jean Kaseya pleit temidden van Congo’s ebolacrisis voor Afrikaanse soevereiniteit: ‘Deze epidemie kan ervoor zorgen dat wij voortaan ons lot in eigen handen nemen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRode Kruis meldt aanvallen op hulpverleners ti",
+      "summary": "Congo begint met vaccineren tegen ebola-uitbraak, maar heeft nog geen specifiek vaccin voor deze variant&nbsp;&nbsp;RTL.nlCongo gebruikt vaccin voor ander type ebola tegen grootste uitbraak ooit&nbsp;&nbsp;NOSCongo begint vaccinatiecampagne tegen ebola met vaccin voor andere variant, uitbraak in buurland Oeganda is voorbij&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRode Kruis meldt aanvallen op hulpverleners tijdens groeiende ebola-uitbraak in Congo&nbsp;&nbsp;De Telegraaf'",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkdRMk5TRmwxY3RSTGxIOXVxUjhFQ1FPWUx6emxncDd1T1BJNUJWamMzQTVPaWZudGZ5cHZDRjNob0JfYi04QW5qX29RNmExUTJOLUdCN1VEVExKUVRoT0I3dlUya3c1NHFpUmxjT21wV3lpSlZveElVUDZ3QnhkVFlkNF9uZmNoeXdqQ0ljdnVHMi1ybTVYSnZMVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfdbb234c963",
-      "title": "Inspectie ziet aantal meldingen over slechte fillers of botox exploderen: ‘Jongeren niet kritisch genoeg’ - AD.nl",
-      "published": "2026-08-27T13:30:35+00:00",
-      "summary": "Inspectie ziet aantal meldingen over slechte fillers of botox exploderen: ‘Jongeren niet kritisch genoeg’&nbsp;&nbsp;AD.nlInspectie waarschuwt voor botox en fillers tijdens introductieweken studenten&nbsp;&nbsp;NOSMeldingen over slecht uitgevoerde botox- en fillerbehandelingen vervijfvoudigd&nbsp;&nbsp;NUInspectie krijgt 5 keer zoveel klachten over botox en fillers: 'Jongeren denken te weinig na over een behandeling'&nbsp;&nbsp;Metronieuws.nlVijf keer zoveel meldingen: inspectie slaat alarm over",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQUZtSnBaNXpRRU1JSjdFT09OSVkwcThOZ1NJbFdadjduVHppVWhKWkJwcnF4VkM3cVgyVkstUXdJNm5DSlE1YjZiTUM5RG54QkdoNEloc082a05mTlYzeDYzQ21CRTdYcUdsNVIwTzhERkgtQW9UMGRiUGdIeVhuelMtNllPeHF5d0RNaE5mQzdvOGktcjEwbnpTMFU3dVNxOURFWGw5aXd5M2NDOG1lU1hLUEExb0hBU0pxOXk0RUZ2LUhiQjRlV1ZIWE5hemx0aXJ3Wg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "093c5bfab892",
-      "title": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten - AD.nl",
-      "published": "2026-08-22T09:31:00+00:00",
-      "summary": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten&nbsp;&nbsp;AD.nlUtrechtse onderzoekers houden ‘mini-brein’ meer dan vijf jaar in leven: ‘Kan zich jarenlang blijven ontwikkelen’&nbsp;&nbsp;De Utrechtse Internet CourantNieuw model biedt inzicht hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Pharmaceutisch WeekbladNieuw model helpt onderzoekers begrijpen hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Laboratorium.nlMedicijnen beter naar de hersen",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjE0dkd2MjRmSFIydWRVT0NHelh5RGRnSm4wQUY2VUpPc0Nod1BXYWRyeFExR1ozQnFEUTMzdTY2MUxHaEVrVlNLTks3Q3BlQUZJUEpjWFBINS1HcmtrUWN6dXNXTVNGUUVtMjdFQVdHTFR1MERrTkFzYzdEbUtiUEtFUDZxMXFqQUxZUDZqNHRMdXMtZ0t2cUV1YmxvYl9wTUVtbGxFRlpGeHhXWjBaTUN0bWpGQzgwU1NpZHFVN2hBbjBJTHV3dUQ3bW04eTg2VGtZ?oc=5"
         }
       ]
     },
@@ -52,26 +40,62 @@
       ]
     },
     {
-      "id": "5496628ea05b",
-      "title": "Zo wil ziekenhuis Rijnstate depressies sneller behandelen met AI: ‘Moet patiënten een zoektocht besparen’ - De Gelderlander",
-      "published": "2026-08-21T16:00:00+00:00",
-      "summary": "Zo wil ziekenhuis Rijnstate depressies sneller behandelen met AI: ‘Moet patiënten een zoektocht besparen’&nbsp;&nbsp;De Gelderlander",
+      "id": "6956b633e613",
+      "title": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken - BN DeStem",
+      "published": "2026-08-26T19:12:00+00:00",
+      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep FlevolandJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;GGD Zuid-Limburg",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUxDbU9kdWtIeEFvRUY5MnRDWV9GdG1PejR4Ri1LZjUxS3loZ2l1OGdkdUhSNEY4dU1uaE5POXhlMC1vMElQMHBrLXh6YUdlb0VSc1ZOaHpiaXI3ZGpnMlFnNndicGN2NXpOYWJVMk9mdnRUZEZ2LUd3WS1UeU5UUzh2SmZ3T2ZwM3VyM1VWRlZGY2pqUlZGSGZZdEFjVEl2TlpvZkMwWGRvNF9hLTVEUkNVVW0xaV9yRmpZU0I4ZmtGRDlUWlJSaHpnSWJ4Z3Y5dEpNWm1MUWFsNW50a05sLQ?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFlZjctazA4SktGX0F2R25DOVNOR3VRS0dBOENNLS1ZLU8zSWNDSFNyUDJINDZLWUltbHdsWnpxTUpMWnktS19hWVA4Z2lrckhRZjlLTm4tRTFockxMQS02TUZ0NVlrVW10LWNRQ0lCbzJiMFNGNnJZaUZqTno5NmFZNHFzM2JuX0hwSHF2M3BJWDNiM09ZN1phN0pWd2Zsby1RZmpCcl9CYUdGaWtuTTRITUFJTzQ?oc=5"
         }
       ]
     },
     {
-      "id": "46be7f35fa6c",
-      "title": "Michelle (31) stelde het bevolkingsonderzoek uit: ‘Na mijn bevalling bleek ik een voorstadium van kanker te hebben’ - Ouders van Nu",
-      "published": "2026-08-25T17:05:26+00:00",
-      "summary": "Michelle (31) stelde het bevolkingsonderzoek uit: ‘Na mijn bevalling bleek ik een voorstadium van kanker te hebben’&nbsp;&nbsp;Ouders van Nu",
+      "id": "efe35439006a",
+      "title": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan' - RTV Utrecht",
+      "published": "2026-08-28T04:03:34+00:00",
+      "summary": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan'&nbsp;&nbsp;RTV Utrecht",
       "sources": [
         {
-          "name": "Ouders van Nu",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2R0TG9vM295NnVSekZmZmYtYmNrSkdTSkFncE5nVnM1bWU5R1ZOYlk1eWF1ZTlPS2RQc2U5OHdMSm01ZGpzd1hsZjlfT0ZfOXVWRHozTm03M0Zxc1Zpb1VDcXBYVzBEOW1xdnNlNWNXZ2N3bUN5VG5QODV3Q3JZVER0azQ5bzVsM3l5YkdDZk1jVmU4bVZBOWxXQW10RG1FN0FDZ3J1Y2RKQ28zZXc?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEpsWGNKQWJCdEMwZWFWYThQemlhQ0JudHhSVzNhMFpBNm5Rdi1pZGV4aDZwejZ4SzBBeEJNZnU1R0FJSzE5TV9xUUJoOHY3Vi1TZGhjOG5RYlItS0NUTThhZHpkN0tCQkg0eGRGdVRjeC1fMkpQVEdXcGg4WXM5d2ZCdkdwRXgwbEo2SEE3czhVQ0d3d3k0cmNMaTNBckNGR2xhMUxDOUdpYzlhVEVEc1d1QzJHeUxzY1ExRTVxaTQ5YkNOU1V3LW55SkpKUXIwdlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa49b1a74a76",
+      "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
+      "published": "2026-08-26T15:49:08+00:00",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlSuikerarm kinddieet gelinkt aan tot 69 procent minder kans op kanker en tragere veroudering&nbsp;&nbsp;Welingelichte KringenOnderzoek onder 64.000 Britten: minder suiker als kind gelinkt aan tot 69 procent minder kanker&nbsp;&nbsp;Metronieuws.nlOnderzoek: weinig suiker als peuter ",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGdBbWphbWN6elJScG1iMGlrWkl3N2oyejFDUGk0R042V2xqTTVub1FkZ2IzRjF3SkZ5LTEzanl4RFVkTVE0Y3lObHptVlpMSU9tU2ttR3cyc2ZacEc5bEwwdThFZC1MS2Mxekk1YVNQS1VsaWpoaUprZ0pHWE5uY2E3QjJLeVI3QmNWSy1vOWg4aGcyVGFPS1BJeFVjUWY5TFNfbnppc0tGRUNGb1pLS0xhRnlDOENyZnRnVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aaec675e26af",
+      "title": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg - EenVandaag",
+      "published": "2026-08-28T15:01:27+00:00",
+      "summary": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg&nbsp;&nbsp;EenVandaagVoor het eerst hersentumor verwijderd met hulp van AI&nbsp;&nbsp;RTL.nlEerste hersentumor ooit verwijderd met hulp van AI&nbsp;&nbsp;NieuwsbladDe eerste patiënt ter wereld die een door AI ondersteunde hersentumoroperatie heeft ondergaan.&nbsp;&nbsp;Vietnam.vnWereldprimeur: AI helpt chirurgen voor het eerst succesvol hersentumor te verwijderen&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVB6YWVZRFdzSXdQRlRwc3FyV2t0eVZ1RGxJZmRZRTE4U29ZY2pjOHFaTlpBemlfR3RvSDB4YjFHZXhHMmlmVDRReHhuczVMY2RQV0E1MDNHRU1mcE44VlpCVDRnaXczN1hlZ2Z5UExCcmh6Q3AwLVZWTnpKM3FEc2VPc3ZqLXFGdVRNbkdsd3lxZ1RCLVJKdVRpVHZZVFFGd2VORThJN1JCbTB3R09pQXAyNHVhU29PVUppSktzd2FkNzZ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "093c5bfab892",
+      "title": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten - AD.nl",
+      "published": "2026-08-22T09:31:00+00:00",
+      "summary": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten&nbsp;&nbsp;AD.nlUtrechtse onderzoekers houden ‘mini-brein’ meer dan vijf jaar in leven: ‘Kan zich jarenlang blijven ontwikkelen’&nbsp;&nbsp;De Utrechtse Internet CourantNieuw model biedt inzicht hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Pharmaceutisch WeekbladNieuw model helpt onderzoekers begrijpen hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Laboratorium.nlMedicijnen beter naar de hersen",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjE0dkd2MjRmSFIydWRVT0NHelh5RGRnSm4wQUY2VUpPc0Nod1BXYWRyeFExR1ozQnFEUTMzdTY2MUxHaEVrVlNLTks3Q3BlQUZJUEpjWFBINS1HcmtrUWN6dXNXTVNGUUVtMjdFQVdHTFR1MERrTkFzYzdEbUtiUEtFUDZxMXFqQUxZUDZqNHRMdXMtZ0t2cUV1YmxvYl9wTUVtbGxFRlpGeHhXWjBaTUN0bWpGQzgwU1NpZHFVN2hBbjBJTHV3dUQ3bW04eTg2VGtZ?oc=5"
         }
       ]
     },
@@ -96,6 +120,18 @@
         {
           "name": "Duurzaamnieuws",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUExyUWFXNVhkbFVyYnlBSjhQYzB2TXJBcUxGS3V5WERRUFFaMXFnZUJvbDlRaENlOXAzR1JSQlFjWEllZmo0T3NXMkYzc2VHaGFRMy1ZYUJGaWdseUQtbURwd1JDQTNGa1c0QnV4Y01zUEpaRnFEcGZYekRUOC03b1dTOU5TdnFsQlBhVDdoRHFwR0hWZVR5TERtTTVtVGg5RHZHTnNrSHNBaVpvMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83fb5a419dc8",
+      "title": "Wanneer moet je pigmentvlekken laten nakijken? Dermatoloog geeft 5 tips: “Niet elke huidkanker ziet eruit als een klassieke bruine of zwarte vlek” - HLN",
+      "published": "2026-08-25T15:00:11+00:00",
+      "summary": "Wanneer moet je pigmentvlekken laten nakijken? Dermatoloog geeft 5 tips: “Niet elke huidkanker ziet eruit als een klassieke bruine of zwarte vlek”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORVBybWIwXzV5R0VhRzJHYTlBdjZnQ0pRUm9BNUl5MzZHZTIzUmI1cUQxckEwa2lYVWwtRmVhZHNUb0ZGMTZmMllocUthQVBhY2dxbHdNV2twZGVxU1hhWTFVT0VRMU43a1JSa2Vna1NSck5FdGRHMFpnbTR1aHlSX3dPMHFwSElLbTRhemZ4VnlRMWxzWTZzQ1lCR3ZGX05DaW9DSThPVUo3N1JrMjBUX2hzMVlZNk5oNWVTWDRjcGRaOXJqTmsyMUc1Z2xfZWNoUXMtVHl5QlJxR0p0SmlSSVJUTlcwb0dRQWpZNFRBb001d2lrcHJ4QnBVXzl0dHUyLUx4QmYtYk5SaXNGWkhJ?oc=5"
         }
       ]
     }

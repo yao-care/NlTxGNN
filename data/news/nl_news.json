@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-28T21:41:33.722629+00:00",
+  "fetched_at": "2026-08-29T05:29:32.393515+00:00",
   "count": 11,
   "news": [
+    {
+      "id": "3794afbe6c7f",
+      "title": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer' - RTV Utrecht",
+      "published": "2026-08-27T19:12:00+00:00",
+      "summary": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt&nbsp;&nbsp;AD.nlWestnijlvirus ook in Brabant: paard en muggen besmet&nbsp;&nbsp;Omroep BrabantNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksj",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzh1b0tYbjF0Ul9nVTJKSGJyb0IzdEg1ckJDa0NVLWpBRlNRMDE3Z3pvRjU0dm96VGxNX3BNS3pkWEZtcWJ0VzJLTzNKY0FZWWVwUHF3RlBoOHdaS1pvSVpVQ2FObzM5NnFlV1BiNWpvbGUybkl5OFhsLTNmX0JrZm9aMEhpc0lnRUhpdDhRZmlNb1RQMmNPR2FERHVKX1RYUEIwUi1MbEVWMk1SblA4dURnOFJUSW9OWG5ObHZZRllMREN4THA3Tm5UMTFmX09Tc1Q0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f686f668a89",
+      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;healthSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch Dagblad",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
+        }
+      ]
+    },
     {
       "id": "53c9daa566e5",
       "title": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed - de Volkskrant",
@@ -12,6 +36,18 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnRNeWhYN0cxdnVrbG84VXk0Rnkwalo5d2tDUG9PSTBDYTUtMWpTZDlBMjF3ZmJMX2tMeTZWZFVkV0JTbEg0am95blpWdUo5dERObGlQWkFsX0RRVXR5OVAtTFdJaHBRZ0t4STkyci1vaU1kTWRpUkdQaWdDd2xjRkxfQUVYeTBIQTY1X3BkLWJ2UmdFQUxOTUQ4V3hKOWxWTWRVZ0oyRnJBdUFFOFRxSEZvVDduRnZDcHJWVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6956b633e613",
+      "title": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken - BN DeStem",
+      "published": "2026-08-26T19:12:00+00:00",
+      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep FlevolandGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;GGD Zuid-Limburg",
+      "sources": [
+        {
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFlZjctazA4SktGX0F2R25DOVNOR3VRS0dBOENNLS1ZLU8zSWNDSFNyUDJINDZLWUltbHdsWnpxTUpMWnktS19hWVA4Z2lrckhRZjlLTm4tRTFockxMQS02TUZ0NVlrVW10LWNRQ0lCbzJiMFNGNnJZaUZqTno5NmFZNHFzM2JuX0hwSHF2M3BJWDNiM09ZN1phN0pWd2Zsby1RZmpCcl9CYUdGaWtuTTRITUFJTzQ?oc=5"
         }
       ]
     },
@@ -28,42 +64,6 @@
       ]
     },
     {
-      "id": "ea5f6db5790f",
-      "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG0xUE1maC1KRUM2N2xnOFRkRFVXMUJvdDlTNEFISUhLNDRyOF9COU1GR2NvUlVKQi1naDF5WHJkcFpyTFFuMHRrSFA0VU5nZWp4bnVzckYwMkFWUUF0cExScEhIc0pwYnB1R0NqRWlhdFNENi03Q3piUXl4TVJTQnUtVElEMzhrS3QxcXM2R0JjOTVVa01fWGxNMGxUQmFiVk0zUjB0dnpaUzlkTkNFeVBROU10UVJSaXJxUGlDLWMwU1VDTHNyNC1PTllrUWd6dnlYR281UEl6dHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6956b633e613",
-      "title": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken - BN DeStem",
-      "published": "2026-08-26T19:12:00+00:00",
-      "summary": "Nieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStemNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;AD.nlCoronaprik vanaf september weer beschikbaar voor risicogroepen&nbsp;&nbsp;Omroep FlevolandJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;GGD Zuid-Limburg",
-      "sources": [
-        {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFlZjctazA4SktGX0F2R25DOVNOR3VRS0dBOENNLS1ZLU8zSWNDSFNyUDJINDZLWUltbHdsWnpxTUpMWnktS19hWVA4Z2lrckhRZjlLTm4tRTFockxMQS02TUZ0NVlrVW10LWNRQ0lCbzJiMFNGNnJZaUZqTno5NmFZNHFzM2JuX0hwSHF2M3BJWDNiM09ZN1phN0pWd2Zsby1RZmpCcl9CYUdGaWtuTTRITUFJTzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "efe35439006a",
-      "title": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan' - RTV Utrecht",
-      "published": "2026-08-28T04:03:34+00:00",
-      "summary": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan'&nbsp;&nbsp;RTV Utrecht",
-      "sources": [
-        {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEpsWGNKQWJCdEMwZWFWYThQemlhQ0JudHhSVzNhMFpBNm5Rdi1pZGV4aDZwejZ4SzBBeEJNZnU1R0FJSzE5TV9xUUJoOHY3Vi1TZGhjOG5RYlItS0NUTThhZHpkN0tCQkg0eGRGdVRjeC1fMkpQVEdXcGg4WXM5d2ZCdkdwRXgwbEo2SEE3czhVQ0d3d3k0cmNMaTNBckNGR2xhMUxDOUdpYzlhVEVEc1d1QzJHeUxzY1ExRTVxaTQ5YkNOU1V3LW55SkpKUXIwdlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa49b1a74a76",
       "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
       "published": "2026-08-26T15:49:08+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGdBbWphbWN6elJScG1iMGlrWkl3N2oyejFDUGk0R042V2xqTTVub1FkZ2IzRjF3SkZ5LTEzanl4RFVkTVE0Y3lObHptVlpMSU9tU2ttR3cyc2ZacEc5bEwwdThFZC1MS2Mxekk1YVNQS1VsaWpoaUprZ0pHWE5uY2E3QjJLeVI3QmNWSy1vOWg4aGcyVGFPS1BJeFVjUWY5TFNfbnppc0tGRUNGb1pLS0xhRnlDOENyZnRnVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aaec675e26af",
-      "title": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg - EenVandaag",
-      "published": "2026-08-28T15:01:27+00:00",
-      "summary": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg&nbsp;&nbsp;EenVandaagVoor het eerst hersentumor verwijderd met hulp van AI&nbsp;&nbsp;RTL.nlEerste hersentumor ooit verwijderd met hulp van AI&nbsp;&nbsp;NieuwsbladDe eerste patiënt ter wereld die een door AI ondersteunde hersentumoroperatie heeft ondergaan.&nbsp;&nbsp;Vietnam.vnWereldprimeur: AI helpt chirurgen voor het eerst succesvol hersentumor te verwijderen&nbsp;&nbsp;De Morgen",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVB6YWVZRFdzSXdQRlRwc3FyV2t0eVZ1RGxJZmRZRTE4U29ZY2pjOHFaTlpBemlfR3RvSDB4YjFHZXhHMmlmVDRReHhuczVMY2RQV0E1MDNHRU1mcE44VlpCVDRnaXczN1hlZ2Z5UExCcmh6Q3AwLVZWTnpKM3FEc2VPc3ZqLXFGdVRNbkdsd3lxZ1RCLVJKdVRpVHZZVFFGd2VORThJN1JCbTB3R09pQXAyNHVhU29PVUppSktzd2FkNzZ0?oc=5"
         }
       ]
     },
@@ -100,6 +88,30 @@
       ]
     },
     {
+      "id": "efe35439006a",
+      "title": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan' - RTV Utrecht",
+      "published": "2026-08-28T04:03:34+00:00",
+      "summary": "Verhogen vaccinatiegraad is kwestie van lange adem: 'Als iets onvoldoende werkt, passen we het aan'&nbsp;&nbsp;RTV Utrecht",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEpsWGNKQWJCdEMwZWFWYThQemlhQ0JudHhSVzNhMFpBNm5Rdi1pZGV4aDZwejZ4SzBBeEJNZnU1R0FJSzE5TV9xUUJoOHY3Vi1TZGhjOG5RYlItS0NUTThhZHpkN0tCQkg0eGRGdVRjeC1fMkpQVEdXcGg4WXM5d2ZCdkdwRXgwbEo2SEE3czhVQ0d3d3k0cmNMaTNBckNGR2xhMUxDOUdpYzlhVEVEc1d1QzJHeUxzY1ExRTVxaTQ5YkNOU1V3LW55SkpKUXIwdlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aaec675e26af",
+      "title": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg - EenVandaag",
+      "published": "2026-08-28T15:01:27+00:00",
+      "summary": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg&nbsp;&nbsp;EenVandaagVoor het eerst hersentumor verwijderd met hulp van AI&nbsp;&nbsp;RTL.nlEerste hersentumor ooit verwijderd met hulp van AI&nbsp;&nbsp;NieuwsbladDe eerste patiënt ter wereld die een door AI ondersteunde hersentumoroperatie heeft ondergaan.&nbsp;&nbsp;Vietnam.vnWereldprimeur: AI helpt chirurgen voor het eerst succesvol hersentumor te verwijderen&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVB6YWVZRFdzSXdQRlRwc3FyV2t0eVZ1RGxJZmRZRTE4U29ZY2pjOHFaTlpBemlfR3RvSDB4YjFHZXhHMmlmVDRReHhuczVMY2RQV0E1MDNHRU1mcE44VlpCVDRnaXczN1hlZ2Z5UExCcmh6Q3AwLVZWTnpKM3FEc2VPc3ZqLXFGdVRNbkdsd3lxZ1RCLVJKdVRpVHZZVFFGd2VORThJN1JCbTB3R09pQXAyNHVhU29PVUppSktzd2FkNzZ0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8ebc4a92a194",
       "title": "Heel wat mensen doen het maar het zou risico op maagkanker verdubbelen - Redactie24",
       "published": "2026-08-27T16:30:00+00:00",
@@ -108,18 +120,6 @@
         {
           "name": "Redactie24",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzlWOGNpakFVYllIcXYwMVk2WkdZQnl1NkdwcnlscGhFOHJpc3lGSDJrY001cDRrRXZoZWhUbWNfMHFOSkpTS2dqYUdDUlpKMGZrdDh4SjZwVk1RZTB4UkNzNjdNLU1rdnkyeXJ3OWZuTjd1Sy0xMGIzdmhOVjNmZVNPTnVfUTdzYmEwUmlYTHE0WWxSRzE4TUMyekhVeG1SVGtqbThIVDRta184amtodjV3eFJOM2pYNEFN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69197ec5315e",
-      "title": "Het gif van deze zeeslak kent geen tegengif, en toch komt er medicijn uit - Duurzaamnieuws",
-      "published": "2026-08-26T07:17:31+00:00",
-      "summary": "Het gif van deze zeeslak kent geen tegengif, en toch komt er medicijn uit&nbsp;&nbsp;Duurzaamnieuws",
-      "sources": [
-        {
-          "name": "Duurzaamnieuws",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUExyUWFXNVhkbFVyYnlBSjhQYzB2TXJBcUxGS3V5WERRUFFaMXFnZUJvbDlRaENlOXAzR1JSQlFjWEllZmo0T3NXMkYzc2VHaGFRMy1ZYUJGaWdseUQtbURwd1JDQTNGa1c0QnV4Y01zUEpaRnFEcGZYekRUOC03b1dTOU5TdnFsQlBhVDdoRHFwR0hWZVR5TERtTTVtVGg5RHZHTnNrSHNBaVpvMWc?oc=5"
         }
       ]
     },

@@ -1,41 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-29T05:29:32.393515+00:00",
-  "count": 11,
+  "fetched_at": "2026-08-29T12:13:35.940985+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "3794afbe6c7f",
-      "title": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer' - RTV Utrecht",
-      "published": "2026-08-27T19:12:00+00:00",
-      "summary": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt&nbsp;&nbsp;AD.nlWestnijlvirus ook in Brabant: paard en muggen besmet&nbsp;&nbsp;Omroep BrabantNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksj",
+      "id": "57f21115abd7",
+      "title": "Fidan Ekiz op vakantie in de rats om rabiës: ’Er stond: binnen 24 uur vaccineren, anders ben je te laat!’ - De Telegraaf",
+      "published": "2026-08-29T11:00:00+00:00",
+      "summary": "Fidan Ekiz op vakantie in de rats om rabiës: ’Er stond: binnen 24 uur vaccineren, anders ben je te laat!’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzh1b0tYbjF0Ul9nVTJKSGJyb0IzdEg1ckJDa0NVLWpBRlNRMDE3Z3pvRjU0dm96VGxNX3BNS3pkWEZtcWJ0VzJLTzNKY0FZWWVwUHF3RlBoOHdaS1pvSVpVQ2FObzM5NnFlV1BiNWpvbGUybkl5OFhsLTNmX0JrZm9aMEhpc0lnRUhpdDhRZmlNb1RQMmNPR2FERHVKX1RYUEIwUi1MbEVWMk1SblA4dURnOFJUSW9OWG5ObHZZRllMREN4THA3Tm5UMTFmX09Tc1Q0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f686f668a89",
-      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;healthSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch Dagblad",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53c9daa566e5",
-      "title": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed - de Volkskrant",
-      "published": "2026-08-28T12:45:20+00:00",
-      "summary": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding voor belangenbehartiger ME-patiënten&nbsp;&nbsp;Amsterdamsdagblad.nl",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnRNeWhYN0cxdnVrbG84VXk0Rnkwalo5d2tDUG9PSTBDYTUtMWpTZDlBMjF3ZmJMX2tMeTZWZFVkV0JTbEg0am95blpWdUo5dERObGlQWkFsX0RRVXR5OVAtTFdJaHBRZ0t4STkyci1vaU1kTWRpUkdQaWdDd2xjRkxfQUVYeTBIQTY1X3BkLWJ2UmdFQUxOTUQ4V3hKOWxWTWRVZ0oyRnJBdUFFOFRxSEZvVDduRnZDcHJWVA?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPallMRFRYS0Jra1RDWG1QSEJDOVg2ZmpwbkNScllkaE43a3YtU3I3NkRZRi1yR1FnUi14VHRmNFNpNjhfSzVvWU9lYlpLUHlVYzdCQ2hmSE9XUVJSUzRmcTdQSkRFc1FnWTVrTUl5UXBvb2FINTBtbXFGT0gzaktWRXNlaUN1WGkwZXFWcWZMZWpGQVVFVXNPeU9sQW9DaTNjcU1NRXd4cUtnZjdnVGtvX18wMUlWQlBoeFBfakZmY2RRVDhjY2ZvbmtjT21nVm0xdzVQamVGN210b0ZGSFdrMUQwMmxvS0k?oc=5"
         }
       ]
     },
@@ -64,26 +40,62 @@
       ]
     },
     {
-      "id": "aa49b1a74a76",
-      "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
-      "published": "2026-08-26T15:49:08+00:00",
-      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlSuikerarm kinddieet gelinkt aan tot 69 procent minder kans op kanker en tragere veroudering&nbsp;&nbsp;Welingelichte KringenOnderzoek onder 64.000 Britten: minder suiker als kind gelinkt aan tot 69 procent minder kanker&nbsp;&nbsp;Metronieuws.nlOnderzoek: weinig suiker als peuter ",
+      "id": "53c9daa566e5",
+      "title": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed - de Volkskrant",
+      "published": "2026-08-28T12:45:20+00:00",
+      "summary": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding voor belangenbehartiger ME-patiënten&nbsp;&nbsp;Amsterdamsdagblad.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGdBbWphbWN6elJScG1iMGlrWkl3N2oyejFDUGk0R042V2xqTTVub1FkZ2IzRjF3SkZ5LTEzanl4RFVkTVE0Y3lObHptVlpMSU9tU2ttR3cyc2ZacEc5bEwwdThFZC1MS2Mxekk1YVNQS1VsaWpoaUprZ0pHWE5uY2E3QjJLeVI3QmNWSy1vOWg4aGcyVGFPS1BJeFVjUWY5TFNfbnppc0tGRUNGb1pLS0xhRnlDOENyZnRnVA?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnRNeWhYN0cxdnVrbG84VXk0Rnkwalo5d2tDUG9PSTBDYTUtMWpTZDlBMjF3ZmJMX2tMeTZWZFVkV0JTbEg0am95blpWdUo5dERObGlQWkFsX0RRVXR5OVAtTFdJaHBRZ0t4STkyci1vaU1kTWRpUkdQaWdDd2xjRkxfQUVYeTBIQTY1X3BkLWJ2UmdFQUxOTUQ4V3hKOWxWTWRVZ0oyRnJBdUFFOFRxSEZvVDduRnZDcHJWVA?oc=5"
         }
       ]
     },
     {
-      "id": "093c5bfab892",
-      "title": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten - AD.nl",
-      "published": "2026-08-22T09:31:00+00:00",
-      "summary": "Hersenen in een bakje, bloedvaten erbij: dit is de doorbraak waar wetenschappers al jaren op wachten&nbsp;&nbsp;AD.nlUtrechtse onderzoekers houden ‘mini-brein’ meer dan vijf jaar in leven: ‘Kan zich jarenlang blijven ontwikkelen’&nbsp;&nbsp;De Utrechtse Internet CourantNieuw model biedt inzicht hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Pharmaceutisch WeekbladNieuw model helpt onderzoekers begrijpen hoe medicijnen de hersenen bereiken&nbsp;&nbsp;Laboratorium.nlMedicijnen beter naar de hersen",
+      "id": "2f686f668a89",
+      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;healthSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjE0dkd2MjRmSFIydWRVT0NHelh5RGRnSm4wQUY2VUpPc0Nod1BXYWRyeFExR1ozQnFEUTMzdTY2MUxHaEVrVlNLTks3Q3BlQUZJUEpjWFBINS1HcmtrUWN6dXNXTVNGUUVtMjdFQVdHTFR1MERrTkFzYzdEbUtiUEtFUDZxMXFqQUxZUDZqNHRMdXMtZ0t2cUV1YmxvYl9wTUVtbGxFRlpGeHhXWjBaTUN0bWpGQzgwU1NpZHFVN2hBbjBJTHV3dUQ3bW04eTg2VGtZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3989a1cb1f0",
+      "title": "Opinie: Artsen kunnen nog wat leren van de Bechdeltest - de Volkskrant",
+      "published": "2026-08-28T18:00:06+00:00",
+      "summary": "Opinie: Artsen kunnen nog wat leren van de Bechdeltest&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFRVaVk3bHhEUEJIbkxPOEVQcUdpMnlOMml2SXJZRU5SQzdPbG9RNFlVc0toa01SR3ZGdkVzUEszSVhVRExsUVNxS1hlMU1ybXNuVTV0cEdUUkR2enVZbDVwRlB1QVVxT0dRYXQwcGxxTUpnOERIQVZTNGZ3b25XZTNIQzY5cENFV3N1Ty1MZGkteUxfQkwtUG1SRW1aSFJ6TUZ2cWRIYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "846bfd8ed6a4",
+      "title": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn en ziekte’ - flair.nl",
+      "published": "2026-08-29T05:30:43+00:00",
+      "summary": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn en ziekte’&nbsp;&nbsp;flair.nl",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pYlF1bHFleXpyalhhNkhjcmFjVGNtb05OMUNLSHZxbnYtNkdrcDdWZU5vbk1kN3p4TDZqSDE0QXF2c0VUaU4wUmxEVk1kbHBqTlVNWVpDTUNfNEZCbHlrRkdmNUNVRHgySS1OczdVckJfdWRvV2xaYWtn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64ae8ded508d",
+      "title": "Fei-Fei Li: de ‘peetmoeder van AI’ die computers leerde kijken en nu bouwt aan de volgende fase - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-08-28T14:10:10+00:00",
+      "summary": "Fei-Fei Li: de ‘peetmoeder van AI’ die computers leerde kijken en nu bouwt aan de volgende fase&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzVNQUcyVVpoTzEyRHlxV1RmV3J6Vms0QlNYWXA1S3B5UDZkOVo4dG9MTnFKaXdvSGlYMXo4Z1hyam5USHFsSHNtcDBKemJualRTSGc1UFU5LVdreWdGLThlUlNJdmRRblE0aDNGX1dvNzhZdmxuS0owRlJZRk52UWtBUW9hZ3BYb0gyaG5ra0gxWTE3b3ZtM3pYNHR4RE56VTl3bm0tNWVXdC1qUE5vclVfbjBjdkVxLTJTY2xtVFNWSVdZdGUxTWwwT0hKWVpTbkZ3Ng?oc=5"
         }
       ]
     },
@@ -96,6 +108,18 @@
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEpsWGNKQWJCdEMwZWFWYThQemlhQ0JudHhSVzNhMFpBNm5Rdi1pZGV4aDZwejZ4SzBBeEJNZnU1R0FJSzE5TV9xUUJoOHY3Vi1TZGhjOG5RYlItS0NUTThhZHpkN0tCQkg0eGRGdVRjeC1fMkpQVEdXcGg4WXM5d2ZCdkdwRXgwbEo2SEE3czhVQ0d3d3k0cmNMaTNBckNGR2xhMUxDOUdpYzlhVEVEc1d1QzJHeUxzY1ExRTVxaTQ5YkNOU1V3LW55SkpKUXIwdlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa49b1a74a76",
+      "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
+      "published": "2026-08-26T15:49:08+00:00",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlSuikerarm kinddieet gelinkt aan tot 69 procent minder kans op kanker en tragere veroudering&nbsp;&nbsp;Welingelichte KringenOnderzoek onder 64.000 Britten: minder suiker als kind gelinkt aan tot 69 procent minder kanker&nbsp;&nbsp;Metronieuws.nlOnderzoek: weinig suiker als peuter ",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGdBbWphbWN6elJScG1iMGlrWkl3N2oyejFDUGk0R042V2xqTTVub1FkZ2IzRjF3SkZ5LTEzanl4RFVkTVE0Y3lObHptVlpMSU9tU2ttR3cyc2ZacEc5bEwwdThFZC1MS2Mxekk1YVNQS1VsaWpoaUprZ0pHWE5uY2E3QjJLeVI3QmNWSy1vOWg4aGcyVGFPS1BJeFVjUWY5TFNfbnppc0tGRUNGb1pLS0xhRnlDOENyZnRnVA?oc=5"
         }
       ]
     },

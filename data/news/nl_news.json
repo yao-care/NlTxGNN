@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-30T03:26:59.723352+00:00",
+  "fetched_at": "2026-08-30T11:10:41.974276+00:00",
   "count": 13,
   "news": [
     {
-      "id": "843039f8c5eb",
-      "title": "Dode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt - AD.nl",
-      "published": "2026-08-28T12:00:53+00:00",
-      "summary": "Dode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt&nbsp;&nbsp;AD.nlNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtPersoon overleden aan een in Nederland opgelopen westnijlvirusinfe",
+      "id": "3794afbe6c7f",
+      "title": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer' - RTV Utrecht",
+      "published": "2026-08-27T19:12:00+00:00",
+      "summary": "Ongeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt&nbsp;&nbsp;AD.nlPersoon overleden aan een in Nederland opgelopen westnijlvirusinfe",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdlVsYzBfbUl5ZnV4M2lhZUNuTnZObi1oVTM3Tkc5cWdENHU0MEoxc3NwS2xRbDFJTmZodTUzSjZyLUxiRFQ2RmdSWTZaSlJDbzR0ZFl2cGFtUGRHbzI1em5YMEloNVIzcW1QaG9ETkZpU1RGb3p2d3F3OGdJWG9iaURDdmdnWU5zaVFqaFZPdUVtclNVOFBuMXBCTzVfRFpZN2tVM2FKd0dpMVlDZ3dST3dXUzZhOTFLdFRHd3RJbEVBOVMzLTNHODIxNTJ2aTN3RHAzMQ?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzh1b0tYbjF0Ul9nVTJKSGJyb0IzdEg1ckJDa0NVLWpBRlNRMDE3Z3pvRjU0dm96VGxNX3BNS3pkWEZtcWJ0VzJLTzNKY0FZWWVwUHF3RlBoOHdaS1pvSVpVQ2FObzM5NnFlV1BiNWpvbGUybkl5OFhsLTNmX0JrZm9aMEhpc0lnRUhpdDhRZmlNb1RQMmNPR2FERHVKX1RYUEIwUi1MbEVWMk1SblA4dURnOFJUSW9OWG5ObHZZRllMREN4THA3Tm5UMTFmX09Tc1Q0?oc=5"
         }
       ]
     },
@@ -24,18 +24,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3NMVEZrUXp4WG01Nm1wSXV0clhMSktXTTNsZmxmSDh5ZFIwSExsVWF1YkpsRDcweExsN3ZwQ2NuSS1tTU1WRl8tNjFod25xdlY2RmVVTmVxVC1kcHpNbThQYkN4QWptSzRYSDBCSlQwM3lLUlVXM3YyZk9zMEJpN0JfMl9VYTFtQmttUlFadzNSUklRVGt6MjFXQlJiWlB4dkVpN0Ywdmp2dEJZVGF5endDdS1KWmRkdUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f94e973d6e45",
-      "title": "‘Gezonde’ zoetstof in kauwgom verbonden aan hoger risico op hartproblemen - bnr.nl",
-      "published": "2026-08-29T13:07:22+00:00",
-      "summary": "‘Gezonde’ zoetstof in kauwgom verbonden aan hoger risico op hartproblemen&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1d2MlVuS2dLdkExMVBaWHp1dnBVTGYxYV9qZWVSZFN6ckNEcTB5aU5kNjRGZDZoR2Vtazk0QXkwaVBDTWpCYmpfZjNRTmZ5Z1FnSEZOdGZRQTR0RExXTmJZb1YwbWpicVVuNDk1Q0hZOHk1R19sbnRSaEU2N3B2NWlUcl9obm5RMnpNRVB1QzRKT1lJTGU3eFlEcThsbnNnUEk2Zm5oN0pFWFVyX2FDV0VlUEhZQ1U?oc=5"
         }
       ]
     },
@@ -64,9 +52,21 @@
       ]
     },
     {
+      "id": "f94e973d6e45",
+      "title": "‘Gezonde’ zoetstof in kauwgom verbonden aan hoger risico op hartproblemen - bnr.nl",
+      "published": "2026-08-29T13:07:22+00:00",
+      "summary": "‘Gezonde’ zoetstof in kauwgom verbonden aan hoger risico op hartproblemen&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1d2MlVuS2dLdkExMVBaWHp1dnBVTGYxYV9qZWVSZFN6ckNEcTB5aU5kNjRGZDZoR2Vtazk0QXkwaVBDTWpCYmpfZjNRTmZ5Z1FnSEZOdGZRQTR0RExXTmJZb1YwbWpicVVuNDk1Q0hZOHk1R19sbnRSaEU2N3B2NWlUcl9obm5RMnpNRVB1QzRKT1lJTGU3eFlEcThsbnNnUEk2Zm5oN0pFWFVyX2FDV0VlUEhZQ1U?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f9306bab363",
       "title": "Hester (49) over de overgang: ’Als ze ook maar één keer moeilijk zou kijken, zou ik het hele ziekenhuis bij elkaar gillen van woede’ - De Telegraaf",
-      "published": "2026-08-29T19:15:00+00:00",
+      "published": "2026-08-29T12:15:00+00:00",
       "summary": "Hester (49) over de overgang: ’Als ze ook maar één keer moeilijk zou kijken, zou ik het hele ziekenhuis bij elkaar gillen van woede’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {

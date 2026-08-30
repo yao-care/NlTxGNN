@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-30T15:58:24.933144+00:00",
-  "count": 10,
+  "fetched_at": "2026-08-30T20:29:47.215030+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "2a45a2bfb945",
-      "title": "Dode in Utrecht door westnijlvirus - RTV Utrecht",
-      "published": "2026-08-26T10:16:00+00:00",
-      "summary": "Dode in Utrecht door westnijlvirus&nbsp;&nbsp;RTV UtrechtOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt&nbsp;&nbsp;AD.nlNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWestnijlv",
+      "id": "81d942d10944",
+      "title": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland - NU",
+      "published": "2026-08-26T10:29:45+00:00",
+      "summary": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet ",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2tHc25CaGV3eGV1Q3V1NWRtUlJVWGlpc1VlWnA1b0lOSmNzVERtb3YtWmdBZDMwc25faDhTQVdwOTJxanN5T2YxaXU1azNXcTdpV1JZZXpTaEhBRUU2aG42SEl4dHRJSVV3czBzM285TWQ1Qll4cjVtTnhCcFI2Sw?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01BQzFCTkl2YjdVajBDQXFHVkpaYlNlUEo5V0xnUHBneExHWHdVTEdFY2dyOTlNUFFfSVhqR0FuckxvekFIYTRvSVZ5SVZWaWtNZzBVTGh6TmRjQWpJVTFNQTd4VWJ2bUNvR09uYjVCYmhrWUFIaFhmcnVYOXg2Z1VlaGQtRkp6Q0h0eHo2ZlNrUDI5WnN1UTZJc2NkMkJTaUtiOFVPd3hMTTZ2bklQSF9NbEliUUk?oc=5"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "id": "53c9daa566e5",
       "title": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed - de Volkskrant",
       "published": "2026-08-28T12:45:20+00:00",
-      "summary": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding voor belangenbehartiger ME-patiënten&nbsp;&nbsp;Amsterdamsdagblad.nl",
+      "summary": "Een kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantBurgemeester Halsema reikt ridderorde uit in slaapkamer van Amsterdamse ME-patiënt Anil van der Zee&nbsp;&nbsp;Het ParoolFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding voor belangenbehartiger ME-patiënten&nbsp;&",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -40,14 +40,26 @@
       ]
     },
     {
-      "id": "2f686f668a89",
-      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
+      "id": "ea5f6db5790f",
+      "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
       "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch DagbladRadboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De GelderlanderLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;health",
+      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De GelderlanderSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch DagbladLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;healthZelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG0xUE1maC1KRUM2N2xnOFRkRFVXMUJvdDlTNEFISUhLNDRyOF9COU1GR2NvUlVKQi1naDF5WHJkcFpyTFFuMHRrSFA0VU5nZWp4bnVzckYwMkFWUUF0cExScEhIc0pwYnB1R0NqRWlhdFNENi03Q3piUXl4TVJTQnUtVElEMzhrS3QxcXM2R0JjOTVVa01fWGxNMGxUQmFiVk0zUjB0dnpaUzlkTkNFeVBROU10UVJSaXJxUGlDLWMwU1VDTHNyNC1PTllrUWd6dnlYR281UEl6dHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46df767ae4a3",
+      "title": "Deze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid - Scientias.nl",
+      "published": "2026-08-28T17:00:10+00:00",
+      "summary": "Deze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUSuikerarm kinddieet gelinkt aan tot 69 procent minder kans op kanker en tragere veroudering&nbsp;&nbsp;Welingelichte KringenOnderzoek onder 64.000 Britten: minder suiker als kind gelinkt aan tot 69 procent minder kanker&nbsp;&nbsp;Metronieuws.nlPeuters die weinig suiker eten, hebb",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHcyUVc2RGZDY3ZuZnFDNXhmUFFZUUp3QlV5cjVpRWw3cDJjdW5jV2xjYWx4MFJONllSbGJhYS1FRVAxeEpSY2tBUllSc2J4WXY2SkkxY0hDZHVoRm1rX0liMEp0MTFqbEhMYzFUZjdxWkFsNHlFbUFmSU9TNDgwUmxmQWpvemU4Q3VRRjdGTlhtYmNfNkpwazdSdks5cUJnSy1yVkRZbzlqUXJTd3BIMXJuU0hhX3l6N0VxU3NrQ1c?oc=5"
         }
       ]
     },
@@ -76,6 +88,18 @@
       ]
     },
     {
+      "id": "e1542dbf3cb2",
+      "title": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’ - Libelle",
+      "published": "2026-08-30T05:05:28+00:00",
+      "summary": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnNaUnRwc0lveXM0N05iNEkwZFZoMFcxZGNYZGx2a28tQzE5a3A0dk1GcjNkTDBjMEdLbmZwa2owbmRvOVNmbDlmTnljNGNFajVULW96VGdadnNfZDZWb1BOWWxmdDVZV3BJMmJBQWktUTVSQlQtMVFXMmc0UVlncDdqUTBtNENCbmgyZE1KelF5eDVjbkUzbXp2elg1cWkyaXlmeXFteWg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "64ae8ded508d",
       "title": "Fei-Fei Li: de ‘peetmoeder van AI’ die computers leerde kijken en nu bouwt aan de volgende fase - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-08-28T14:10:10+00:00",
@@ -84,18 +108,6 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzVNQUcyVVpoTzEyRHlxV1RmV3J6Vms0QlNYWXA1S3B5UDZkOVo4dG9MTnFKaXdvSGlYMXo4Z1hyam5USHFsSHNtcDBKemJualRTSGc1UFU5LVdreWdGLThlUlNJdmRRblE0aDNGX1dvNzhZdmxuS0owRlJZRk52UWtBUW9hZ3BYb0gyaG5ra0gxWTE3b3ZtM3pYNHR4RE56VTl3bm0tNWVXdC1qUE5vclVfbjBjdkVxLTJTY2xtVFNWSVdZdGUxTWwwT0hKWVpTbkZ3Ng?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46df767ae4a3",
-      "title": "Deze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid - Scientias.nl",
-      "published": "2026-08-28T17:00:10+00:00",
-      "summary": "Deze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUSuikerarm kinddieet gelinkt aan tot 69 procent minder kans op kanker en tragere veroudering&nbsp;&nbsp;Welingelichte KringenOnderzoek onder 64.000 Britten: minder suiker als kind gelinkt aan tot 69 procent minder kanker&nbsp;&nbsp;Metronieuws.nlOnderzoek: weinig suiker als peuter ",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHcyUVc2RGZDY3ZuZnFDNXhmUFFZUUp3QlV5cjVpRWw3cDJjdW5jV2xjYWx4MFJONllSbGJhYS1FRVAxeEpSY2tBUllSc2J4WXY2SkkxY0hDZHVoRm1rX0liMEp0MTFqbEhMYzFUZjdxWkFsNHlFbUFmSU9TNDgwUmxmQWpvemU4Q3VRRjdGTlhtYmNfNkpwazdSdks5cUJnSy1yVkRZbzlqUXJTd3BIMXJuU0hhX3l6N0VxU3NrQ1c?oc=5"
         }
       ]
     },

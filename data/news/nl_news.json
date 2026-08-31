@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-08-31T12:35:55.883908+00:00",
+  "fetched_at": "2026-08-31T22:23:05.769924+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "7073d57a349a",
+      "title": "Steeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk - NU",
+      "published": "2026-08-31T21:20:04+00:00",
+      "summary": "Steeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldDZ25hV2JMMmRIQVBESzVyeDlaWkVFRGd0emNLMVJtYktqa1hVSmN3Z3dwMVVZNGxsVk1ERUJFaHFVM3hFZXZET1NLWHBoeGRPYWZFRXpFdDJtcVpCSDFScnk2WkF5VEVPaHlKTDJFcGdhVHNBMjVDdkdfaWdCaWVQTzdKb2hYMzI2OHU1VExadU5xSDRtS0VrYkFZMFc5ZnNEVDRQRmNNWFMwaUhYVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30b04bab533d",
+      "title": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas - bnr.nl",
+      "published": "2026-08-31T14:37:00+00:00",
+      "summary": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDFSUnkwLWNNSzFNOE1sWEUyaXFTZGFBbjZoLVc2WTN0YzNsbEowV18zZEpXenEwUFNacUR6bElUX3VuM3YtOFVUSW1Lc3N6eUViWE1xanRJNEw1dW9Xb2lfQWdrZElPLWltdUo3ZEttT05hbGVIOUE5Ync5NDhXYzdxN0FHNEE2QU5iZHFXUkhyU0Z5UzIzdHVZX2VKd0JwOHJxSENR?oc=5"
+        }
+      ]
+    },
     {
       "id": "844b34303461",
       "title": "Injecties met studentenbloed tegen rimpels: is deze dure anti-aging behandeling veilig? - De Telegraaf",
@@ -16,26 +40,14 @@
       ]
     },
     {
-      "id": "81d942d10944",
-      "title": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland - NU",
-      "published": "2026-08-26T10:29:45+00:00",
-      "summary": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet ",
+      "id": "b3eec8a0a3c5",
+      "title": "Nieuwe ronde coronaprik begint: leeftijdsgrens verhoogd naar 70 jaar - AD.nl",
+      "published": "2026-08-31T13:00:08+00:00",
+      "summary": "Nieuwe ronde coronaprik begint: leeftijdsgrens verhoogd naar 70 jaar&nbsp;&nbsp;AD.nlNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;de StentorEerste uitnodigingen voor coronavaccinatie vallen vandaag voor het eerste in de bus&nbsp;&nbsp;Nationale ZorggidsNieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStem",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01BQzFCTkl2YjdVajBDQXFHVkpaYlNlUEo5V0xnUHBneExHWHdVTEdFY2dyOTlNUFFfSVhqR0FuckxvekFIYTRvSVZ5SVZWaWtNZzBVTGh6TmRjQWpJVTFNQTd4VWJ2bUNvR09uYjVCYmhrWUFIaFhmcnVYOXg2Z1VlaGQtRkp6Q0h0eHo2ZlNrUDI5WnN1UTZJc2NkMkJTaUtiOFVPd3hMTTZ2bklQSF9NbEliUUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5be2d39e3ca2",
-      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
-      "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUYtUnRWWTFqWWN0bUhFM0QxLXktOGNMejRidDlzOUxRaDhWNFNpcGtfdHVRVjNJQ25VNmZINUpqMXN4V0s3M1FoOG5jOWJ1SzV1eEdycUxkcFd3OTh4THh6azRPeE11SXdJa1o1Z0JKVGxwTHpsLVNoZk9PZWNjc0tsZnhFazVFWkttSjJIUzM0QlF4MnRkZF9VaWVHRDlWdmlvR2RnU080Zw?oc=5"
         }
       ]
     },
@@ -67,7 +79,7 @@
       "id": "ea5f6db5790f",
       "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
       "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De GelderlanderSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;rd.nlLeefstijlprogramma verkleint kans op complicaties na operatie&nbsp;&nbsp;ICT&amp;healthZelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
+      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -76,50 +88,38 @@
       ]
     },
     {
-      "id": "aaec675e26af",
-      "title": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg - EenVandaag",
-      "published": "2026-08-28T15:01:27+00:00",
-      "summary": "Voor het eerst hersentumor verwijderd met hulp van AI: zo verandert het de zorg&nbsp;&nbsp;EenVandaagEerste hersentumor ooit verwijderd met hulp van AI&nbsp;&nbsp;GVAEerste hersentumor succesvol verwijderd dankzij AI-assistent&nbsp;&nbsp;aiinsider.nlVoor het eerst hersentumor verwijderd met hulp van AI&nbsp;&nbsp;RTL.nlDe eerste patiënt ter wereld die een door AI ondersteunde hersentumoroperatie heeft ondergaan.&nbsp;&nbsp;Vietnam.vn",
+      "id": "5be2d39e3ca2",
+      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
+      "published": "2026-08-31T03:00:00+00:00",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVB6YWVZRFdzSXdQRlRwc3FyV2t0eVZ1RGxJZmRZRTE4U29ZY2pjOHFaTlpBemlfR3RvSDB4YjFHZXhHMmlmVDRReHhuczVMY2RQV0E1MDNHRU1mcE44VlpCVDRnaXczN1hlZ2Z5UExCcmh6Q3AwLVZWTnpKM3FEc2VPc3ZqLXFGdVRNbkdsd3lxZ1RCLVJKdVRpVHZZVFFGd2VORThJN1JCbTB3R09pQXAyNHVhU29PVUppSktzd2FkNzZ0?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
         }
       ]
     },
     {
-      "id": "64ae8ded508d",
-      "title": "Fei-Fei Li: de ‘peetmoeder van AI’ die computers leerde kijken en nu bouwt aan de volgende fase - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-08-28T14:10:10+00:00",
-      "summary": "Fei-Fei Li: de ‘peetmoeder van AI’ die computers leerde kijken en nu bouwt aan de volgende fase&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "id": "16d2bd67824f",
+      "title": "Twee werknemers van luchthaven Frankfurt overleden aan malaria: ‘Muggen waren met vliegtuig meegereisd’ - AD.nl",
+      "published": "2026-08-26T17:15:28+00:00",
+      "summary": "Twee werknemers van luchthaven Frankfurt overleden aan malaria: ‘Muggen waren met vliegtuig meegereisd’&nbsp;&nbsp;AD.nlArts roept na uitbraak in Frankfurt op alert te zijn op luchtvaartmalaria: ’Werkt u op of om Schiphol?’&nbsp;&nbsp;noordhollandsdagblad.nlDuitse luchthavenmedewerkers gestorven aan malaria, besmette mug zat in vliegtuig&nbsp;&nbsp;NOSMedewerkers luchthaven Frankfurt overleden aan malaria door meereizende mug&nbsp;&nbsp;NUMalaria-uitbraak op luchthaven Frankfurt: twee doden&nbsp",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzVNQUcyVVpoTzEyRHlxV1RmV3J6Vms0QlNYWXA1S3B5UDZkOVo4dG9MTnFKaXdvSGlYMXo4Z1hyam5USHFsSHNtcDBKemJualRTSGc1UFU5LVdreWdGLThlUlNJdmRRblE0aDNGX1dvNzhZdmxuS0owRlJZRk52UWtBUW9hZ3BYb0gyaG5ra0gxWTE3b3ZtM3pYNHR4RE56VTl3bm0tNWVXdC1qUE5vclVfbjBjdkVxLTJTY2xtVFNWSVdZdGUxTWwwT0hKWVpTbkZ3Ng?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWFJSjRhWlVkbVEtMW9PX1hJbWVidlJ5SlBteFBpa2c0T2JrcGdnb3NueENBMlFWSk9PYmUwV2FCZWxnSjdtaUdUMDJUckRKV1JMZ3RJWklwRjFacDFrQkc1di1wQktnSVZXUXJDZVBfcUJyZTBScmJ5czBtSHIxMzk1X1ROU1BtOVkyTkdza1VIc1ZHRHJ4RjNMUlV1M0R3dXJvYWRmOFFNRFFSR0lpRDZ1OHZYeVB6akltd0dHdTFSNGpBSWVEQ0l3amFTM2VRY2tlNUFB?oc=5"
         }
       ]
     },
     {
-      "id": "e1542dbf3cb2",
-      "title": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’ - Libelle",
-      "published": "2026-08-30T05:05:28+00:00",
-      "summary": "Roxanne (36) heeft een pijnlijke slokdarmziekte: ‘Ik beval liever drie keer dan dat ik drie dagen slokdarmkrampen heb’&nbsp;&nbsp;Libelle",
+      "id": "f41b2a89803f",
+      "title": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter - Metronieuws.nl",
+      "published": "2026-08-31T09:28:00+00:00",
+      "summary": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnNaUnRwc0lveXM0N05iNEkwZFZoMFcxZGNYZGx2a28tQzE5a3A0dk1GcjNkTDBjMEdLbmZwa2owbmRvOVNmbDlmTnljNGNFajVULW96VGdadnNfZDZWb1BOWWxmdDVZV3BJMmJBQWktUTVSQlQtMVFXMmc0UVlncDdqUTBtNENCbmgyZE1KelF5eDVjbkUzbXp2elg1cWkyaXlmeXFteWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d41c40122dd",
-      "title": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’ - flair.nl",
-      "published": "2026-08-29T05:30:43+00:00",
-      "summary": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’&nbsp;&nbsp;flair.nl",
-      "sources": [
-        {
-          "name": "flair.nl",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pYlF1bHFleXpyalhhNkhjcmFjVGNtb05OMUNLSHZxbnYtNkdrcDdWZU5vbk1kN3p4TDZqSDE0QXF2c0VUaU4wUmxEVk1kbHBqTlVNWVpDTUNfNEZCbHlrRkdmNUNVRHgySS1OczdVckJfdWRvV2xaYWtn?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWRFeW5UTC05RERyQWIxS180TENwUE9BbURCNnRBZnNmNGQ0MzZaVFFlT0RoU2lqQmRHeHRYVzRDeUV0M0xPLXpBbjlfbFNNSmNTYnBWcVUtMDZtenJ1R2wySTFJNHBJMlgzRFFIVWZjbGpqV2huRmhsWGxQNlpkUDZjVHlkdWM4VEwxa2twdGVhelA0SWNNSi1DbmE2NFlyWWpOckJhMUEzYUcwczRLNE44QU54SS1YTzBJRlZ4NA?oc=5"
         }
       ]
     }

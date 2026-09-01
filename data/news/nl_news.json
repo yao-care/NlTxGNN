@@ -1,41 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-01T03:25:02.393329+00:00",
-  "count": 9,
+  "fetched_at": "2026-09-01T11:02:00.635813+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "7073d57a349a",
-      "title": "Steeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk - NU",
-      "published": "2026-08-31T21:20:04+00:00",
-      "summary": "Steeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "e13a78d0d00c",
+      "title": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring - RTV Utrecht",
+      "published": "2026-09-01T04:47:11+00:00",
+      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUSteeds meer kinderen overleven kanker, melden KiKa en Máxima&nbsp;&nbsp;Hart van NederlandOverlevingskans voor kinderen met kanker flink gestegen&nbsp;&nbsp;TrouwKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldDZ25hV2JMMmRIQVBESzVyeDlaWkVFRGd0emNLMVJtYktqa1hVSmN3Z3dwMVVZNGxsVk1ERUJFaHFVM3hFZXZET1NLWHBoeGRPYWZFRXpFdDJtcVpCSDFScnk2WkF5VEVPaHlKTDJFcGdhVHNBMjVDdkdfaWdCaWVQTzdKb2hYMzI2OHU1VExadU5xSDRtS0VrYkFZMFc5ZnNEVDRQRmNNWFMwaUhYVA?oc=5"
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakQ1T3dYNTdYTHBsM3VJSkMzNVdHVWh0bFl6cU02MTVKNThNQkpiTFFBQm1UZVQ3TDFtOGRLZmNqaHprY3VVVjh6OGg5dGxRcE1Ea3k2aEtwWGlSd01LeE1nSGN3bGs3S01GdVQ4cHVSV2l4cGc1V1duNzNTdnBwSk1rUjBhRU81OFd3bWxJSEQwOWhuY2V4SUlBWWhrRDVmY0VMeXdaWTVsZTNsM3dvUzFoNl9DMnFVcXl3eEdPZTl5VnVJUTZNUDVrMlFYWWZCN2c?oc=5"
         }
       ]
     },
     {
-      "id": "2a961c94452e",
-      "title": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen - bd.nl",
-      "published": "2026-08-27T10:07:00+00:00",
-      "summary": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;bd.nlNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;rtvutrecht.nlDode en meerdere gevallen van westnijlkoorts in Utrecht: zo groot is het gevaar dat je ook besmet wordt",
+      "id": "81d942d10944",
+      "title": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland - NU",
+      "published": "2026-08-26T10:29:45+00:00",
+      "summary": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut v",
       "sources": [
         {
-          "name": "bd.nl",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDM4bUJoVU5jYldGd19zbC1ySDRrdFNick9wNlNlVjIyT1pfRkxrOHE0ZWlwV29IVHVYSzdVNmdMTzNSdmFfZTJrcWd6VGpVYUJLUEMxVTZKQTJRZElBQmVJZEtmSE91dEZza0Z0djZ6OHJjM2o1dE0tVnJNQjdNdEdLWHkxY2VaTWZBNVgxM1lkVHZsN25xT2RSTFlqOXFT?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01BQzFCTkl2YjdVajBDQXFHVkpaYlNlUEo5V0xnUHBneExHWHdVTEdFY2dyOTlNUFFfSVhqR0FuckxvekFIYTRvSVZ5SVZWaWtNZzBVTGh6TmRjQWpJVTFNQTd4VWJ2bUNvR09uYjVCYmhrWUFIaFhmcnVYOXg2Z1VlaGQtRkp6Q0h0eHo2ZlNrUDI5WnN1UTZJc2NkMkJTaUtiOFVPd3hMTTZ2bklQSF9NbEliUUk?oc=5"
         }
       ]
     },
     {
       "id": "30b04bab533d",
       "title": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas - bnr.nl",
-      "published": "2026-08-31T14:36:58+00:00",
+      "published": "2026-08-31T17:12:00+00:00",
       "summary": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDFSUnkwLWNNSzFNOE1sWEUyaXFTZGFBbjZoLVc2WTN0YzNsbEowV18zZEpXenEwUFNacUR6bElUX3VuM3YtOFVUSW1Lc3N6eUViWE1xanRJNEw1dW9Xb2lfQWdrZElPLWltdUo3ZEttT05hbGVIOUE5Ync5NDhXYzdxN0FHNEE2QU5iZHFXUkhyU0Z5UzIzdHVZX2VKd0JwOHJxSENR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "218cb7cf7c3a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
+      "published": "2026-09-01T06:05:00+00:00",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3eec8a0a3c5",
-      "title": "Nieuwe ronde coronaprik begint: leeftijdsgrens verhoogd naar 70 jaar - AD.nl",
-      "published": "2026-08-31T13:00:08+00:00",
-      "summary": "Nieuwe ronde coronaprik begint: leeftijdsgrens verhoogd naar 70 jaar&nbsp;&nbsp;AD.nlNieuwe najaarsronde 2026 coronaprik start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMGGD Flevoland geeft coronaprik dit najaar op zes locaties in de provincie&nbsp;&nbsp;de StentorEerste uitnodigingen voor coronavaccinatie vallen vandaag voor het eerste in de bus&nbsp;&nbsp;nationalezorggids.nlNieuwe ronde coronaprik van start: in West-Brabant kan dat op negen plekken&nbsp;&nbsp;BN DeStem",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUYtUnRWWTFqWWN0bUhFM0QxLXktOGNMejRidDlzOUxRaDhWNFNpcGtfdHVRVjNJQ25VNmZINUpqMXN4V0s3M1FoOG5jOWJ1SzV1eEdycUxkcFd3OTh4THh6azRPeE11SXdJa1o1Z0JKVGxwTHpsLVNoZk9PZWNjc0tsZnhFazVFWkttSjJIUzM0QlF4MnRkZF9VaWVHRDlWdmlvR2RnU080Zw?oc=5"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "id": "ea5f6db5790f",
       "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
       "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De Gelderlander",
+      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De GelderlanderSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch DagbladZelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;pzc.nl",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -108,6 +108,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWFJSjRhWlVkbVEtMW9PX1hJbWVidlJ5SlBteFBpa2c0T2JrcGdnb3NueENBMlFWSk9PYmUwV2FCZWxnSjdtaUdUMDJUckRKV1JMZ3RJWklwRjFacDFrQkc1di1wQktnSVZXUXJDZVBfcUJyZTBScmJ5czBtSHIxMzk1X1ROU1BtOVkyTkdza1VIc1ZHRHJ4RjNMUlV1M0R3dXJvYWRmOFFNRFFSR0lpRDZ1OHZYeVB6akltd0dHdTFSNGpBSWVEQ0l3amFTM2VRY2tlNUFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1b8f7e4274b",
+      "title": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht - Wetenschap in Beeld",
+      "published": "2026-08-31T13:09:43+00:00",
+      "summary": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht&nbsp;&nbsp;Wetenschap in Beeld",
+      "sources": [
+        {
+          "name": "Wetenschap in Beeld",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb2V3LWQydXBLU1cxbm83eC1qN2pqRmdfLW5TZzYwODFpR0tHNWhfNDQydFFuMXJqNi1Ram1RRHM4R2JhZVdPMmdCNHhXU1prN2YxRHZuWUR1dm9udmNUaUhndkoxNlFfX3o0dnJuMDZmckVhTmk4UUdac2l2NE93TmtOaDFaR3Vza19WcTRVMFZuY094RVlsX3RpMXdseHFyZzNFRm8wamIweU05Ny1aRlNDOVcxLVE5SjNta0ZZcjJFRzYwLVNKdGhPMFlCbFlnR2FpMFI0REtUbm5KVERhRmFWOTBBTWNwbHgxYTJMMGlnbVF3ZTRON1B3T2lZWU9kR040?oc=5"
         }
       ]
     }

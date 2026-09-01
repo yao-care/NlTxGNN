@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-01T11:02:00.635813+00:00",
+  "fetched_at": "2026-09-01T16:00:33.609618+00:00",
   "count": 10,
   "news": [
     {
       "id": "e13a78d0d00c",
       "title": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring - RTV Utrecht",
       "published": "2026-09-01T04:47:11+00:00",
-      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUSteeds meer kinderen overleven kanker, melden KiKa en Máxima&nbsp;&nbsp;Hart van NederlandOverlevingskans voor kinderen met kanker flink gestegen&nbsp;&nbsp;TrouwKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen&nbsp;&nbsp;AD.nl",
+      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSSteeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;de VolkskrantSteeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntje",
       "sources": [
         {
           "name": "RTV Utrecht",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "81d942d10944",
-      "title": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland - NU",
-      "published": "2026-08-26T10:29:45+00:00",
-      "summary": "Persoon in Utrecht overleden aan westnijlkoorts na besmetting in Nederland&nbsp;&nbsp;NUNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekOngeloof heerst bij familie van man die overleed aan westnijlvirus: 'Hij was zo sterk als een beer'&nbsp;&nbsp;RTV UtrechtPersoon overleden aan een in Nederland opgelopen westnijlvirusinfectie&nbsp;&nbsp;Rijksinstituut v",
+      "id": "12c77c23fc68",
+      "title": "Opnieuw westnijlvirus vastgesteld: vrouw (39) in regio Amsterdam besmet en loopt hersenvliesontsteking op - De Telegraaf",
+      "published": "2026-09-01T15:17:39+00:00",
+      "summary": "Opnieuw westnijlvirus vastgesteld: vrouw (39) in regio Amsterdam besmet en loopt hersenvliesontsteking op&nbsp;&nbsp;De TelegraafVrouw (39) besmet met westnijlvirus in regio Amsterdam&nbsp;&nbsp;AT5Persoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDode en meerdere gevallen van wes",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01BQzFCTkl2YjdVajBDQXFHVkpaYlNlUEo5V0xnUHBneExHWHdVTEdFY2dyOTlNUFFfSVhqR0FuckxvekFIYTRvSVZ5SVZWaWtNZzBVTGh6TmRjQWpJVTFNQTd4VWJ2bUNvR09uYjVCYmhrWUFIaFhmcnVYOXg2Z1VlaGQtRkp6Q0h0eHo2ZlNrUDI5WnN1UTZJc2NkMkJTaUtiOFVPd3hMTTZ2bklQSF9NbEliUUk?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFYxVG5TRE4xX3Vwc3V0NGxCTkVZQXRfSkt2X3otdVZadmNDclBzVWNtd1RTMTNuUlNUdHZ0UFNzWi1HWXZKV0tMVmFCWnR5SFFrLVlubENKNDQ2d0ZzeVdYamg5SkV3V0l5eVdBZmdkV3diaU5BaXdXZkFNYnNIbXY0c3Y1ZGx4OFJxNF9lcjRtRHpkUW93ZEpNeWRQaFNrTU1wRUhTTlA2UnpQOThzYUNxNWhzdHJGNlNyXzlqZmdKNmZxT1lWUG9ST1NMQktXOENhZExsVDlGLWxBeUczbEkxUG9zS1RE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0472e127e609",
+      "title": "Heemsteedse huisarts mag van Regionaal Tuchtcollege niet meer werken als huisarts na negatieve uitlatingen over vaccinaties. ’Mensen bang maken zorgt voor dalende vaccinatiegraad’ - Haarlems Dagblad",
+      "published": "2026-09-01T06:25:00+00:00",
+      "summary": "Heemsteedse huisarts mag van Regionaal Tuchtcollege niet meer werken als huisarts na negatieve uitlatingen over vaccinaties. ’Mensen bang maken zorgt voor dalende vaccinatiegraad’&nbsp;&nbsp;Haarlems Dagblad",
+      "sources": [
+        {
+          "name": "Haarlems Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTGZnNl9tN0VSV0xIYll1WEZ6bHMwUktyaDdkanVudXdsVGlfbTBHTkZ3My1KbVBhb1hKdDhVMjBybUFwR1lzNE9wVVNKSGlSZWFNUUR1T0pVdzdxSGpmbDVWV0NIajRTYTFlYnJib1RpOE55TGVzajdGSEVlc3M0cnZET1ZoR0djVDZzdFpuaXdKdnA4ZnNvYVAwZVNFXzZiV05Ba19aNnBzaDh5WVhOa01ERlZLRlZLNUZlbEFtYXRlUlpzNzZybnpEbXR5TW5SUXhXN0lIME9ERXVqTXVyMEpqTXpMQWtjY1NmT2pneGl2NE1Eb3VSS0dTNnBlX3lYRUM4WXpDZEhBeHhSUVZRVDBsNFJDSjJGUHJjdjBPaXVDVWJRUFM1eEJHc1BER0dJY3Y5Wk42VkRnQkxnY3MyblVSQjltajRvVGNneTBoeDhhQ2NTT0E5OQ?oc=5"
         }
       ]
     },
@@ -40,22 +52,10 @@
       ]
     },
     {
-      "id": "218cb7cf7c3a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
-      "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5be2d39e3ca2",
       "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
       "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands DagbladTwee Amerikanen overleden als gevolg van een mazelenbesmetting&nbsp;&nbsp;HBVLRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;newsmonkey.be",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "250d0112e5cf",
-      "title": "Vanuit een donkere kamer groeide Anil van der Zee uit tot een belangrijke stem voor ME-patiënten: koninklijke onderscheiding voor Amsterdammer - Het Parool",
-      "published": "2026-08-30T20:03:00+00:00",
-      "summary": "Vanuit een donkere kamer groeide Anil van der Zee uit tot een belangrijke stem voor ME-patiënten: koninklijke onderscheiding voor Amsterdammer&nbsp;&nbsp;Het ParoolEen kritische stem voor patiënten met ME en postcovid, gekluisterd aan bed&nbsp;&nbsp;de VolkskrantFysiek uitgeschakeld maar belangrijke bron van kennis, lintje voor ME-patiënt Anil van der Zee&nbsp;&nbsp;NOSAnil van der Zee ontvangt koninklijke onderscheiding van burgemeester Halsema&nbsp;&nbsp;PostCovid NLKoninklijke onderscheiding ",
+      "id": "218cb7cf7c3a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
+      "published": "2026-09-01T06:05:00+00:00",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLURkZHNZem5HTG8wQUl1cGRqNW1tUktpRndTR19BOG5HbW1KbHFvVXloSEtPYU9DUnVjamFBUXNHcURpVTFOb3EwaXlOR1JjTXVIV293cVdYWlV1am9hQ1c5ZC04NkN1SzJqSjd3cHgwN3cwSHVhOU9xRXhqaEI0bGZvT1o3cXRuRnlfNFpWU21idU9paHg2WmJTM29DSkdRSjBtZ2oweXVZckZuUVBETVhKUkxGd1ctWVpYWUc5MGxLcW85Nm91dzRLblRjSEtyT2F4YkYwRWRCNml5S1hUQUh4c0tIWUgxVXEtaGVGLWZoTmF2aFc0clhCeGp2TkpITDVnNzhYVGk4QWdwQWlMMQ?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
         }
       ]
     },
@@ -91,7 +91,7 @@
       "id": "aa49b1a74a76",
       "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
       "published": "2026-08-26T15:49:08+00:00",
-      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste leve",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste leve",
       "sources": [
         {
           "name": "NU",
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "16d2bd67824f",
-      "title": "Twee werknemers van luchthaven Frankfurt overleden aan malaria: ‘Muggen waren met vliegtuig meegereisd’ - AD.nl",
-      "published": "2026-08-26T17:15:28+00:00",
-      "summary": "Twee werknemers van luchthaven Frankfurt overleden aan malaria: ‘Muggen waren met vliegtuig meegereisd’&nbsp;&nbsp;AD.nlArts roept na uitbraak in Frankfurt op alert te zijn op luchtvaartmalaria: ’Werkt u op of om Schiphol?’&nbsp;&nbsp;Noordhollands DagbladDuitse luchthavenmedewerkers gestorven aan malaria, besmette mug zat in vliegtuig&nbsp;&nbsp;NOSMedewerkers luchthaven Frankfurt overleden aan malaria door meereizende mug&nbsp;&nbsp;NUMalaria-uitbraak op luchthaven Frankfurt: twee doden&nbsp;&",
+      "id": "f41b2a89803f",
+      "title": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter - Metronieuws.nl",
+      "published": "2026-08-31T09:28:00+00:00",
+      "summary": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWFJSjRhWlVkbVEtMW9PX1hJbWVidlJ5SlBteFBpa2c0T2JrcGdnb3NueENBMlFWSk9PYmUwV2FCZWxnSjdtaUdUMDJUckRKV1JMZ3RJWklwRjFacDFrQkc1di1wQktnSVZXUXJDZVBfcUJyZTBScmJ5czBtSHIxMzk1X1ROU1BtOVkyTkdza1VIc1ZHRHJ4RjNMUlV1M0R3dXJvYWRmOFFNRFFSR0lpRDZ1OHZYeVB6akltd0dHdTFSNGpBSWVEQ0l3amFTM2VRY2tlNUFB?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWRFeW5UTC05RERyQWIxS180TENwUE9BbURCNnRBZnNmNGQ0MzZaVFFlT0RoU2lqQmRHeHRYVzRDeUV0M0xPLXpBbjlfbFNNSmNTYnBWcVUtMDZtenJ1R2wySTFJNHBJMlgzRFFIVWZjbGpqV2huRmhsWGxQNlpkUDZjVHlkdWM4VEwxa2twdGVhelA0SWNNSi1DbmE2NFlyWWpOckJhMUEzYUcwczRLNE44QU54SS1YTzBJRlZ4NA?oc=5"
         }
       ]
     },

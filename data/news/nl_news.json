@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-01T16:00:33.609618+00:00",
-  "count": 10,
+  "fetched_at": "2026-09-01T20:29:23.979970+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "ac04ac95dde2",
+      "title": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’ - AD.nl",
+      "published": "2026-09-01T17:01:00+00:00",
+      "summary": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandVrouw (39) besmet met westnijlvirus in Amstelveen&nbsp;&nbsp;NH Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREJjbS00ZWVDTXFyUzVXS1hrVWJ5ZkdYaFA2b2l2N3p5bFlYbk1BeFBPOENzcUlVdWFVRE9Zb2Z1aDk0ZFRwNDFpa0FTVVpzbEd0MjJ4NkdrazBNTDFxMTZReVVOMklhc1hwcjhuU2RrbUYxSDJqVW5lOFVlNWEzS01YdllkVk8zNmxaLUltODJ1S3FGRkdDVFduVXg?oc=5"
+        }
+      ]
+    },
     {
       "id": "e13a78d0d00c",
       "title": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring - RTV Utrecht",
       "published": "2026-09-01T04:47:11+00:00",
-      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSSteeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;de VolkskrantSteeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntje",
+      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen&nbsp;&nbsp;AD.nlKiKa en het Máxima: overlevingskans kinderkanker sterk verbeterd&nbsp;&nbsp;Noordhollands DagbladOverlevingskans voor kinderen met kanker flink gestegen&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "RTV Utrecht",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "12c77c23fc68",
-      "title": "Opnieuw westnijlvirus vastgesteld: vrouw (39) in regio Amsterdam besmet en loopt hersenvliesontsteking op - De Telegraaf",
-      "published": "2026-09-01T15:17:39+00:00",
-      "summary": "Opnieuw westnijlvirus vastgesteld: vrouw (39) in regio Amsterdam besmet en loopt hersenvliesontsteking op&nbsp;&nbsp;De TelegraafVrouw (39) besmet met westnijlvirus in regio Amsterdam&nbsp;&nbsp;AT5Persoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDode en meerdere gevallen van wes",
+      "id": "c63956702d3c",
+      "title": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg - de Volkskrant",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantDe psychiatrie is zo gek nog niet&nbsp;&nbsp;TrouwPsychiater Jim van Os over hoe je psychisch kunt lijden met een ‘normaal brein’&nbsp;&nbsp;Trouw",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFYxVG5TRE4xX3Vwc3V0NGxCTkVZQXRfSkt2X3otdVZadmNDclBzVWNtd1RTMTNuUlNUdHZ0UFNzWi1HWXZKV0tMVmFCWnR5SFFrLVlubENKNDQ2d0ZzeVdYamg5SkV3V0l5eVdBZmdkV3diaU5BaXdXZkFNYnNIbXY0c3Y1ZGx4OFJxNF9lcjRtRHpkUW93ZEpNeWRQaFNrTU1wRUhTTlA2UnpQOThzYUNxNWhzdHJGNlNyXzlqZmdKNmZxT1lWUG9ST1NMQktXOENhZExsVDlGLWxBeUczbEkxUG9zS1RE?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1dnM2tvT0tDeDVzVkVlU016LUpzVDhkSjhBazNfalBzV01uZWJfODZJVHdmS29jYVBZV3BUcF9qeThzWVNqYXR4TkxzQTNtVHk5OXliZHhaTGxLWndpWlZkOUFJeGktMHl2QVRxZVEycnN4WDBlTUVtNk83UzdlTU1KTG9ja05jQ2lvRnpBVFRfd3dta0twenBXVTBuREgyeUxRZjhCWWdUTTJmX29lVVVuZDVtc1EzU2ptdWUydTFCdmpkbUU2c2g1S2tDb3FNSEJZZw?oc=5"
         }
       ]
     },
@@ -42,7 +54,7 @@
     {
       "id": "30b04bab533d",
       "title": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas - bnr.nl",
-      "published": "2026-08-31T17:12:00+00:00",
+      "published": "2026-08-31T14:37:00+00:00",
       "summary": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
@@ -55,23 +67,11 @@
       "id": "5be2d39e3ca2",
       "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
       "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands DagbladTwee Amerikanen overleden als gevolg van een mazelenbesmetting&nbsp;&nbsp;HBVLRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;newsmonkey.be",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands DagbladRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;Newsmonkey -In 2026 werden in de VS de eerste sterfgevallen als gevolg van mazelen geregistreerd.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "218cb7cf7c3a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
-      "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
         }
       ]
     },
@@ -88,10 +88,22 @@
       ]
     },
     {
+      "id": "1bbb62b3134a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - metronieuws.nl",
+      "published": "2026-09-01T06:05:00+00:00",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;metronieuws.nl",
+      "sources": [
+        {
+          "name": "metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aa49b1a74a76",
       "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
       "published": "2026-08-26T15:49:08+00:00",
-      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste leve",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;kekmama.nlBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste le",
       "sources": [
         {
           "name": "NU",
@@ -100,13 +112,13 @@
       ]
     },
     {
-      "id": "f41b2a89803f",
-      "title": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter - Metronieuws.nl",
+      "id": "4c8baf1b0e73",
+      "title": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter - metronieuws.nl",
       "published": "2026-08-31T09:28:00+00:00",
-      "summary": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter&nbsp;&nbsp;Metronieuws.nl",
+      "summary": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter&nbsp;&nbsp;metronieuws.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWRFeW5UTC05RERyQWIxS180TENwUE9BbURCNnRBZnNmNGQ0MzZaVFFlT0RoU2lqQmRHeHRYVzRDeUV0M0xPLXpBbjlfbFNNSmNTYnBWcVUtMDZtenJ1R2wySTFJNHBJMlgzRFFIVWZjbGpqV2huRmhsWGxQNlpkUDZjVHlkdWM4VEwxa2twdGVhelA0SWNNSi1DbmE2NFlyWWpOckJhMUEzYUcwczRLNE44QU54SS1YTzBJRlZ4NA?oc=5"
         }
       ]

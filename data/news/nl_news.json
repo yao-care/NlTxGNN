@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-01T20:29:23.979970+00:00",
-  "count": 11,
+  "fetched_at": "2026-09-02T02:42:50.459439+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "ac04ac95dde2",
-      "title": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’ - AD.nl",
-      "published": "2026-09-01T17:01:00+00:00",
-      "summary": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlDode in Utrecht door het westnijlvirus, opgelopen in Nederland&nbsp;&nbsp;NOSPersoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandVrouw (39) besmet met westnijlvirus in Amstelveen&nbsp;&nbsp;NH Nieuws",
+      "id": "c63956702d3c",
+      "title": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg - de Volkskrant",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantWat als wat wij ziek noemen eigenlijk normaal is&nbsp;&nbsp;Noordhollands DagbladPsychiater Jim van Os over hoe je psychisch kunt lijden met een ‘normaal brein’&nbsp;&nbsp;Trouw",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREJjbS00ZWVDTXFyUzVXS1hrVWJ5ZkdYaFA2b2l2N3p5bFlYbk1BeFBPOENzcUlVdWFVRE9Zb2Z1aDk0ZFRwNDFpa0FTVVpzbEd0MjJ4NkdrazBNTDFxMTZReVVOMklhc1hwcjhuU2RrbUYxSDJqVW5lOFVlNWEzS01YdllkVk8zNmxaLUltODJ1S3FGRkdDVFduVXg?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1dnM2tvT0tDeDVzVkVlU016LUpzVDhkSjhBazNfalBzV01uZWJfODZJVHdmS29jYVBZV3BUcF9qeThzWVNqYXR4TkxzQTNtVHk5OXliZHhaTGxLWndpWlZkOUFJeGktMHl2QVRxZVEycnN4WDBlTUVtNk83UzdlTU1KTG9ja05jQ2lvRnpBVFRfd3dta0twenBXVTBuREgyeUxRZjhCWWdUTTJmX29lVVVuZDVtc1EzU2ptdWUydTFCdmpkbUU2c2g1S2tDb3FNSEJZZw?oc=5"
         }
       ]
     },
@@ -19,23 +19,11 @@
       "id": "e13a78d0d00c",
       "title": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring - RTV Utrecht",
       "published": "2026-09-01T04:47:11+00:00",
-      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSKinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen&nbsp;&nbsp;AD.nlKiKa en het Máxima: overlevingskans kinderkanker sterk verbeterd&nbsp;&nbsp;Noordhollands DagbladOverlevingskans voor kinderen met kanker flink gestegen&nbsp;&nbsp;Trouw",
+      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakQ1T3dYNTdYTHBsM3VJSkMzNVdHVWh0bFl6cU02MTVKNThNQkpiTFFBQm1UZVQ3TDFtOGRLZmNqaHprY3VVVjh6OGg5dGxRcE1Ea3k2aEtwWGlSd01LeE1nSGN3bGs3S01GdVQ4cHVSV2l4cGc1V1duNzNTdnBwSk1rUjBhRU81OFd3bWxJSEQwOWhuY2V4SUlBWWhrRDVmY0VMeXdaWTVsZTNsM3dvUzFoNl9DMnFVcXl3eEdPZTl5VnVJUTZNUDVrMlFYWWZCN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c63956702d3c",
-      "title": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg - de Volkskrant",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantDe psychiatrie is zo gek nog niet&nbsp;&nbsp;TrouwPsychiater Jim van Os over hoe je psychisch kunt lijden met een ‘normaal brein’&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1dnM2tvT0tDeDVzVkVlU016LUpzVDhkSjhBazNfalBzV01uZWJfODZJVHdmS29jYVBZV3BUcF9qeThzWVNqYXR4TkxzQTNtVHk5OXliZHhaTGxLWndpWlZkOUFJeGktMHl2QVRxZVEycnN4WDBlTUVtNk83UzdlTU1KTG9ja05jQ2lvRnpBVFRfd3dta0twenBXVTBuREgyeUxRZjhCWWdUTTJmX29lVVVuZDVtc1EzU2ptdWUydTFCdmpkbUU2c2g1S2tDb3FNSEJZZw?oc=5"
         }
       ]
     },
@@ -52,14 +40,14 @@
       ]
     },
     {
-      "id": "30b04bab533d",
-      "title": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas - bnr.nl",
-      "published": "2026-08-31T14:37:00+00:00",
-      "summary": "Hoogleraar: op dieet gaan is geen behandeling voor obesitas&nbsp;&nbsp;bnr.nl",
+      "id": "2f686f668a89",
+      "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDFSUnkwLWNNSzFNOE1sWEUyaXFTZGFBbjZoLVc2WTN0YzNsbEowV18zZEpXenEwUFNacUR6bElUX3VuM3YtOFVUSW1Lc3N6eUViWE1xanRJNEw1dW9Xb2lfQWdrZElPLWltdUo3ZEttT05hbGVIOUE5Ync5NDhXYzdxN0FHNEE2QU5iZHFXUkhyU0Z5UzIzdHVZX2VKd0JwOHJxSENR?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hmV043ejlGWnN6TFZmeEhiVVJXUktkT0E5Tm5MQUhYcUJHNXVNRV9QUER4a3JCb2p2V1lBUEZFdV8tQzBXOWJJS1FwVERSWHBsY2hwaTd4V3JWSEgzd1YycV9rYm95TDEteUVNSzQzUVplbGN3bTRsY2NkdVRwTUR5YzF4SGZMeUN3VHBfRXY2eS1sUnluRWNiVjBab2J4VFRid0Fjb21SZkRuSTV0aXVEcVBZdHBlRm5yTTBhU09nSmdSVnpDLXA5bU9XRzR5ZUs5TlA3cEk?oc=5"
         }
       ]
     },
@@ -67,7 +55,7 @@
       "id": "5be2d39e3ca2",
       "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
       "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands DagbladRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;Newsmonkey -In 2026 werden in de VS de eerste sterfgevallen als gevolg van mazelen geregistreerd.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;nd.nlRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;Newsmonkey -In 2026 werden in de VS de eerste sterfgevallen als gevolg van mazelen geregistreerd.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -76,34 +64,10 @@
       ]
     },
     {
-      "id": "ea5f6db5790f",
-      "title": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie - De Gelderlander",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Radboudumc-onderzoek: al drie weken gezonder leven verkleint kans op complicaties na kankeroperatie&nbsp;&nbsp;De GelderlanderSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch DagbladZelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;pzc.nl",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG0xUE1maC1KRUM2N2xnOFRkRFVXMUJvdDlTNEFISUhLNDRyOF9COU1GR2NvUlVKQi1naDF5WHJkcFpyTFFuMHRrSFA0VU5nZWp4bnVzckYwMkFWUUF0cExScEhIc0pwYnB1R0NqRWlhdFNENi03Q3piUXl4TVJTQnUtVElEMzhrS3QxcXM2R0JjOTVVa01fWGxNMGxUQmFiVk0zUjB0dnpaUzlkTkNFeVBROU10UVJSaXJxUGlDLWMwU1VDTHNyNC1PTllrUWd6dnlYR281UEl6dHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bbb62b3134a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - metronieuws.nl",
-      "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;metronieuws.nl",
-      "sources": [
-        {
-          "name": "metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa49b1a74a76",
       "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
       "published": "2026-08-26T15:49:08+00:00",
-      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;kekmama.nlBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste le",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste leve",
       "sources": [
         {
           "name": "NU",
@@ -112,26 +76,14 @@
       ]
     },
     {
-      "id": "4c8baf1b0e73",
-      "title": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter - metronieuws.nl",
-      "published": "2026-08-31T09:28:00+00:00",
-      "summary": "Onderzoek onder 31.044 volwassenen: wie na 12.00 uur ontbijt, leeft gemiddeld 2,46 jaar korter&nbsp;&nbsp;metronieuws.nl",
+      "id": "218cb7cf7c3a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
+      "published": "2026-09-01T06:05:00+00:00",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWRFeW5UTC05RERyQWIxS180TENwUE9BbURCNnRBZnNmNGQ0MzZaVFFlT0RoU2lqQmRHeHRYVzRDeUV0M0xPLXpBbjlfbFNNSmNTYnBWcVUtMDZtenJ1R2wySTFJNHBJMlgzRFFIVWZjbGpqV2huRmhsWGxQNlpkUDZjVHlkdWM4VEwxa2twdGVhelA0SWNNSi1DbmE2NFlyWWpOckJhMUEzYUcwczRLNE44QU54SS1YTzBJRlZ4NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1b8f7e4274b",
-      "title": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht - Wetenschap in Beeld",
-      "published": "2026-08-31T13:09:43+00:00",
-      "summary": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht&nbsp;&nbsp;Wetenschap in Beeld",
-      "sources": [
-        {
-          "name": "Wetenschap in Beeld",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb2V3LWQydXBLU1cxbm83eC1qN2pqRmdfLW5TZzYwODFpR0tHNWhfNDQydFFuMXJqNi1Ram1RRHM4R2JhZVdPMmdCNHhXU1prN2YxRHZuWUR1dm9udmNUaUhndkoxNlFfX3o0dnJuMDZmckVhTmk4UUdac2l2NE93TmtOaDFaR3Vza19WcTRVMFZuY094RVlsX3RpMXdseHFyZzNFRm8wamIweU05Ny1aRlNDOVcxLVE5SjNta0ZZcjJFRzYwLVNKdGhPMFlCbFlnR2FpMFI0REtUbm5KVERhRmFWOTBBTWNwbHgxYTJMMGlnbVF3ZTRON1B3T2lZWU9kR040?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
         }
       ]
     }

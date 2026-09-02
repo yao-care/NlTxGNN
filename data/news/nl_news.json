@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-02T02:42:50.459439+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-02T10:33:15.985628+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "df4a526794ef",
+      "title": "Nieuw geval van westnijlvirus in regio Amsterdam - RTL.nl",
+      "published": "2026-09-01T17:56:36+00:00",
+      "summary": "Nieuw geval van westnijlvirus in regio Amsterdam&nbsp;&nbsp;RTL.nl'Vrouw (39) uit Amstelveen besmet met westnijlvirus'&nbsp;&nbsp;NOS‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlPersoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van Nederland",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjU5cnBfMVZKVGgzQ2NTT2JrbUNTLWR0STR5ZVBHNy1GTHdtTXFZd1RLRWM4UXVWOHo2OEhseDlaZU85TUVSZTYxMjZwZVU3ZVhqN0FEZXhVRW5CTW9XMlZmdkp3NHZVcmZkbVYxYWo4dmwtblRLTEpCRFM5dnRjMmVfbXF4S3dvTDFhZ28xWHJOakVDc0ZaaFZyNHl3OUE?oc=5"
+        }
+      ]
+    },
     {
       "id": "c63956702d3c",
       "title": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg - de Volkskrant",
       "published": "2026-08-31T18:00:00+00:00",
-      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantWat als wat wij ziek noemen eigenlijk normaal is&nbsp;&nbsp;Noordhollands DagbladPsychiater Jim van Os over hoe je psychisch kunt lijden met een ‘normaal brein’&nbsp;&nbsp;Trouw",
+      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantDe psychiatrie is zo gek nog niet&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -28,22 +40,10 @@
       ]
     },
     {
-      "id": "0472e127e609",
-      "title": "Heemsteedse huisarts mag van Regionaal Tuchtcollege niet meer werken als huisarts na negatieve uitlatingen over vaccinaties. ’Mensen bang maken zorgt voor dalende vaccinatiegraad’ - Haarlems Dagblad",
-      "published": "2026-09-01T06:25:00+00:00",
-      "summary": "Heemsteedse huisarts mag van Regionaal Tuchtcollege niet meer werken als huisarts na negatieve uitlatingen over vaccinaties. ’Mensen bang maken zorgt voor dalende vaccinatiegraad’&nbsp;&nbsp;Haarlems Dagblad",
-      "sources": [
-        {
-          "name": "Haarlems Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTGZnNl9tN0VSV0xIYll1WEZ6bHMwUktyaDdkanVudXdsVGlfbTBHTkZ3My1KbVBhb1hKdDhVMjBybUFwR1lzNE9wVVNKSGlSZWFNUUR1T0pVdzdxSGpmbDVWV0NIajRTYTFlYnJib1RpOE55TGVzajdGSEVlc3M0cnZET1ZoR0djVDZzdFpuaXdKdnA4ZnNvYVAwZVNFXzZiV05Ba19aNnBzaDh5WVhOa01ERlZLRlZLNUZlbEFtYXRlUlpzNzZybnpEbXR5TW5SUXhXN0lIME9ERXVqTXVyMEpqTXpMQWtjY1NmT2pneGl2NE1Eb3VSS0dTNnBlX3lYRUM4WXpDZEhBeHhSUVZRVDBsNFJDSjJGUHJjdjBPaXVDVWJRUFM1eEJHc1BER0dJY3Y5Wk42VkRnQkxnY3MyblVSQjltajRvVGNneTBoeDhhQ2NTT0E5OQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f686f668a89",
       "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
       "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -55,7 +55,7 @@
       "id": "5be2d39e3ca2",
       "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
       "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;nd.nlRFK Jr. roept ouders op kinderen te laten vaccineren tegen mazelen&nbsp;&nbsp;kwakzalverij.nlMazelenuitbraak in de Verenigde Staten eist twee levens in Pennsylvania&nbsp;&nbsp;Newsmonkey -In 2026 werden in de VS de eerste sterfgevallen als gevolg van mazelen geregistreerd.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -84,6 +84,18 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22fc229e5047",
+      "title": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht - wibnet.nl",
+      "published": "2026-08-31T13:09:43+00:00",
+      "summary": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb2V3LWQydXBLU1cxbm83eC1qN2pqRmdfLW5TZzYwODFpR0tHNWhfNDQydFFuMXJqNi1Ram1RRHM4R2JhZVdPMmdCNHhXU1prN2YxRHZuWUR1dm9udmNUaUhndkoxNlFfX3o0dnJuMDZmckVhTmk4UUdac2l2NE93TmtOaDFaR3Vza19WcTRVMFZuY094RVlsX3RpMXdseHFyZzNFRm8wamIweU05Ny1aRlNDOVcxLVE5SjNta0ZZcjJFRzYwLVNKdGhPMFlCbFlnR2FpMFI0REtUbm5KVERhRmFWOTBBTWNwbHgxYTJMMGlnbVF3ZTRON1B3T2lZWU9kR040?oc=5"
         }
       ]
     }

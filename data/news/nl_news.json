@@ -1,41 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-02T10:33:15.985628+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-02T15:54:49.021571+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "df4a526794ef",
-      "title": "Nieuw geval van westnijlvirus in regio Amsterdam - RTL.nl",
-      "published": "2026-09-01T17:56:36+00:00",
-      "summary": "Nieuw geval van westnijlvirus in regio Amsterdam&nbsp;&nbsp;RTL.nl'Vrouw (39) uit Amstelveen besmet met westnijlvirus'&nbsp;&nbsp;NOS‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlPersoon uit de regio Amsterdam besmet met westnijlvirus&nbsp;&nbsp;Het ParoolVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van Nederland",
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;gooieneemlander.nlCongo telt meer dan 6000 besmettingen met ebolavirus&nbsp;&nbsp;leidschdagblad.nlCongo gebruikt vaccin voor ander type ebola tegen grootste uitbraak ooit&nbsp;&nbsp;NOSVN vragen 1,1 miljard dollar om ebola te bestrijden in Congo&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjU5cnBfMVZKVGgzQ2NTT2JrbUNTLWR0STR5ZVBHNy1GTHdtTXFZd1RLRWM4UXVWOHo2OEhseDlaZU85TUVSZTYxMjZwZVU3ZVhqN0FEZXhVRW5CTW9XMlZmdkp3NHZVcmZkbVYxYWo4dmwtblRLTEpCRFM5dnRjMmVfbXF4S3dvTDFhZ28xWHJOakVDc0ZaaFZyNHl3OUE?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
     },
     {
-      "id": "c63956702d3c",
-      "title": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg - de Volkskrant",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "Opinie: De klant-is-koningmentaliteit is een gevaar voor de geestelijke gezondheidszorg&nbsp;&nbsp;de VolkskrantDe psychiatrie is zo gek nog niet&nbsp;&nbsp;Trouw",
+      "id": "2a19d836aa5d",
+      "title": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen - volkskrant.nl",
+      "published": "2026-09-01T05:00:00+00:00",
+      "summary": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;volkskrant.nlSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSNa overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;rtvutrecht.nlOverlevingskansen voor kinderen met kanker nemen toe: vooral prognose voor leukemie is verbeterd&nbsp;&nbsp;Het ParoolSteeds meer kinderen overleven kanker, maar de vooru",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1dnM2tvT0tDeDVzVkVlU016LUpzVDhkSjhBazNfalBzV01uZWJfODZJVHdmS29jYVBZV3BUcF9qeThzWVNqYXR4TkxzQTNtVHk5OXliZHhaTGxLWndpWlZkOUFJeGktMHl2QVRxZVEycnN4WDBlTUVtNk83UzdlTU1KTG9ja05jQ2lvRnpBVFRfd3dta0twenBXVTBuREgyeUxRZjhCWWdUTTJmX29lVVVuZDVtc1EzU2ptdWUydTFCdmpkbUU2c2g1S2tDb3FNSEJZZw?oc=5"
+          "name": "volkskrant.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTc2bURiSFNwTjByWFE3SE9jRUlwRXZoN3NFNk9SY3FzbEJhM2JWU2xMTUxlTlJWd1VfVlg1Qk83VlRyY2htN2x6UElpcW15Z3U2ZWJvV0F4c2hqMkpqWWhqZFU3Q1lsTmVlNU1ORFhpMjhOUU10MHVTVHc2S3JOanRsUlIzaWF1cHVUM2JtSEZIMUViazBybEtjY1daRTA2WTJhQnUtWXpHWDJ5cGtxVFdfT1ZhNGc4Nzg4bTB2OXAxV0pvMDR5VjMxSzdlUHhGMjRyUDBPdm41Zw?oc=5"
         }
       ]
     },
     {
-      "id": "e13a78d0d00c",
-      "title": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring - RTV Utrecht",
-      "published": "2026-09-01T04:47:11+00:00",
-      "summary": "Na overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "a95040d14971",
+      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - volkskrant.nl",
+      "published": "2026-08-31T03:00:00+00:00",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;volkskrant.nlMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakQ1T3dYNTdYTHBsM3VJSkMzNVdHVWh0bFl6cU02MTVKNThNQkpiTFFBQm1UZVQ3TDFtOGRLZmNqaHprY3VVVjh6OGg5dGxRcE1Ea3k2aEtwWGlSd01LeE1nSGN3bGs3S01GdVQ4cHVSV2l4cGc1V1duNzNTdnBwSk1rUjBhRU81OFd3bWxJSEQwOWhuY2V4SUlBWWhrRDVmY0VMeXdaWTVsZTNsM3dvUzFoNl9DMnFVcXl3eEdPZTl5VnVJUTZNUDVrMlFYWWZCN2c?oc=5"
+          "name": "volkskrant.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "id": "2f686f668a89",
       "title": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker - AD.nl",
       "published": "2026-08-26T19:00:00+00:00",
-      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nl",
+      "summary": "Zelfs 3 weken gezonder leven helpt: minder complicaties na operatie voor vrouwen met gynaecologische kanker&nbsp;&nbsp;AD.nlSporten voorafgaand aan operatie leidt tot minder complicaties bij vrouwen met kanker, ontdekte promovenda Joëlle Dhanis&nbsp;&nbsp;Reformatorisch Dagblad",
       "sources": [
         {
           "name": "AD.nl",
@@ -52,22 +52,10 @@
       ]
     },
     {
-      "id": "5be2d39e3ca2",
-      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
-      "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa49b1a74a76",
       "title": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van - NU",
       "published": "2026-08-26T15:49:08+00:00",
-      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUDeze Britse baby's groeiden op met heel weinig suiker. Dat had verrassende gevolgen voor hun gezondheid&nbsp;&nbsp;Scientias.nlPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste leve",
+      "summary": "Peuters die weinig suiker eten hebben daar later als bejaarden nog profijt van&nbsp;&nbsp;NUPeuters die weinig suiker eten, hebben daar mogelijk op latere leeftijd vele gezondheidsvoordelen van&nbsp;&nbsp;Kek MamaBritse suikerrantsoenering tijdens de zwangerschap en babytijd mogelijk gelinkt aan lager kankerrisico&nbsp;&nbsp;assistentensite.nlMinder suiker in eerste levensjaren kan risico op kanker en veroudering verlagen&nbsp;&nbsp;Newsmonkey -Suikerarm kinddieet gelinkt aan tot 69 procent mind",
       "sources": [
         {
           "name": "NU",
@@ -84,18 +72,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22fc229e5047",
-      "title": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht - wibnet.nl",
-      "published": "2026-08-31T13:09:43+00:00",
-      "summary": "Belangrijke ontdekking in de strijd tegen kanker en auto-immuunziekten: Bepaald deel van je lichaam heeft misschien een nog onbekende superkracht&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb2V3LWQydXBLU1cxbm83eC1qN2pqRmdfLW5TZzYwODFpR0tHNWhfNDQydFFuMXJqNi1Ram1RRHM4R2JhZVdPMmdCNHhXU1prN2YxRHZuWUR1dm9udmNUaUhndkoxNlFfX3o0dnJuMDZmckVhTmk4UUdac2l2NE93TmtOaDFaR3Vza19WcTRVMFZuY094RVlsX3RpMXdseHFyZzNFRm8wamIweU05Ny1aRlNDOVcxLVE5SjNta0ZZcjJFRzYwLVNKdGhPMFlCbFlnR2FpMFI0REtUbm5KVERhRmFWOTBBTWNwbHgxYTJMMGlnbVF3ZTRON1B3T2lZWU9kR040?oc=5"
         }
       ]
     }

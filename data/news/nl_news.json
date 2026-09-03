@@ -1,28 +1,40 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-02T20:27:54.844863+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-03T02:48:10.968853+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "2a19d836aa5d",
-      "title": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen - volkskrant.nl",
-      "published": "2026-09-01T05:00:00+00:00",
-      "summary": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;volkskrant.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "a24aca315465",
+      "title": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen - Brabants Dagblad",
+      "published": "2026-08-27T10:07:00+00:00",
+      "summary": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;Brabants DagbladVrouw uit Amstelveen loopt westnijlvirus op in Nederland&nbsp;&nbsp;NUNieuw geval van westnijlvirus in regio Amsterdam&nbsp;&nbsp;RTL.nlVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeks",
       "sources": [
         {
-          "name": "volkskrant.nl",
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDM4bUJoVU5jYldGd19zbC1ySDRrdFNick9wNlNlVjIyT1pfRkxrOHE0ZWlwV29IVHVYSzdVNmdMTzNSdmFfZTJrcWd6VGpVYUJLUEMxVTZKQTJRZElBQmVJZEtmSE91dEZza0Z0djZ6OHJjM2o1dE0tVnJNQjdNdEdLWHkxY2VaTWZBNVgxM1lkVHZsN25xT2RSTFlqOXFT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eab4454a327e",
+      "title": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen - de Volkskrant",
+      "published": "2026-09-01T05:00:00+00:00",
+      "summary": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTc2bURiSFNwTjByWFE3SE9jRUlwRXZoN3NFNk9SY3FzbEJhM2JWU2xMTUxlTlJWd1VfVlg1Qk83VlRyY2htN2x6UElpcW15Z3U2ZWJvV0F4c2hqMkpqWWhqZFU3Q1lsTmVlNU1ORFhpMjhOUU10MHVTVHc2S3JOanRsUlIzaWF1cHVUM2JtSEZIMUViazBybEtjY1daRTA2WTJhQnUtWXpHWDJ5cGtxVFdfT1ZhNGc4Nzg4bTB2OXAxV0pvMDR5VjMxSzdlUHhGMjRyUDBPdm41Zw?oc=5"
         }
       ]
     },
     {
-      "id": "a95040d14971",
-      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - volkskrant.nl",
+      "id": "5be2d39e3ca2",
+      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
       "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;volkskrant.nlMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
+      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
       "sources": [
         {
-          "name": "volkskrant.nl",
+          "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
         }
       ]

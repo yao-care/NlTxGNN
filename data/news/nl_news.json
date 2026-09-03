@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-03T02:48:10.968853+00:00",
-  "count": 4,
+  "fetched_at": "2026-09-03T10:37:13.817405+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "cf5bb76d4775",
+      "title": "Al negen besmettingen met westnijlvirus vastgesteld die in Nederland zijn opgelopen, tot nu toe één dode - AD.nl",
+      "published": "2026-09-03T09:50:00+00:00",
+      "summary": "Al negen besmettingen met westnijlvirus vastgesteld die in Nederland zijn opgelopen, tot nu toe één dode&nbsp;&nbsp;AD.nlNegen mensen hebben westnijlvirus opgelopen in Nederland&nbsp;&nbsp;NURIVM meldt negen besmettingen met westnijlvirus in Nederland&nbsp;&nbsp;RTL.nlUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWR0dERwczk2QVhNeU5LamVZbDBwdldHUzM5elQ3WFpQSE10ZmRIQXdXRnVBMFBodGhHQ2pfa1pMRWQtV3M0WGlxN3lXRFVoYkc5WVFXX281dXMtTkZtblVWdngxY09uNmRJNE9yZDFUeWY5cEFRRjdCUW9VTkZtQ2VZRWpEZjFfbndEM2kwSGdfdjBIQ2JvVWpydUdXNlViVmZtNVFZdnozTHpaT2FyMzNXanlyWGFka0RrWXpHVzZmaE1QN1J6U1d3NmZiZ3lCZDViVkRVRjdZdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "a24aca315465",
       "title": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen - Brabants Dagblad",
       "published": "2026-08-27T10:07:00+00:00",
-      "summary": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;Brabants DagbladVrouw uit Amstelveen loopt westnijlvirus op in Nederland&nbsp;&nbsp;NUNieuw geval van westnijlvirus in regio Amsterdam&nbsp;&nbsp;RTL.nlVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeks",
+      "summary": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;Brabants DagbladVrouw uit Amstelveen loopt westnijlvirus op in Nederland&nbsp;&nbsp;NUVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek‘Vrouw (39) uit Amstelveen besmet en ziek door westni",
       "sources": [
         {
           "name": "Brabants Dagblad",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "eab4454a327e",
-      "title": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen - de Volkskrant",
-      "published": "2026-09-01T05:00:00+00:00",
-      "summary": "Steeds meer kinderen zijn tien jaar na kankerdiagnose nog in leven, al zijn er grote verschillen&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "0955f2927524",
+      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - NPO Radio 1",
+      "published": "2026-09-02T15:02:09+00:00",
+      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;NPO Radio 1",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTc2bURiSFNwTjByWFE3SE9jRUlwRXZoN3NFNk9SY3FzbEJhM2JWU2xMTUxlTlJWd1VfVlg1Qk83VlRyY2htN2x6UElpcW15Z3U2ZWJvV0F4c2hqMkpqWWhqZFU3Q1lsTmVlNU1ORFhpMjhOUU10MHVTVHc2S3JOanRsUlIzaWF1cHVUM2JtSEZIMUViazBybEtjY1daRTA2WTJhQnUtWXpHWDJ5cGtxVFdfT1ZhNGc4Nzg4bTB2OXAxV0pvMDR5VjMxSzdlUHhGMjRyUDBPdm41Zw?oc=5"
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
         }
       ]
     },

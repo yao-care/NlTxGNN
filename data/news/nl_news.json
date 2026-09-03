@@ -1,41 +1,89 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-03T15:43:27.688295+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-03T20:26:40.482923+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "cfd36d76b5bd",
-      "title": "RIVM meldt negen besmettingen met westnijlvirus in Nederland - rtl.nl",
-      "published": "2026-09-03T09:54:12+00:00",
-      "summary": "RIVM meldt negen besmettingen met westnijlvirus in Nederland&nbsp;&nbsp;rtl.nlNegen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafOpnieuw besmetting met westnijlvirus in provincie Utrecht&nbsp;&nbsp;AD.nlIemand liep westnijlvirus op in Brabant, aantal besmettingen loopt op&nbsp;&nbsp;Omroep BrabantUitbraak muggenziekte westnijlkoorts breidt zich verder uit. ‘We lopen achter de feiten aan’&nbsp;&nbsp;nd.nl",
+      "id": "df099ff13e78",
+      "title": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland - De Telegraaf",
+      "published": "2026-09-03T19:46:22+00:00",
+      "summary": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;De TelegraafNegen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nbsp;NOSNieuwe besmetting westnijlvirus in provincie&nbsp;&nbsp;RTV Utrecht",
       "sources": [
         {
-          "name": "rtl.nl",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnRVN1lQdzB6Wno5Ykp5SEhLNjVXSlE0aUJmdS1faU1SQ0RpOTdvcmhGeU1jNWJhQ3UxUi0wZFBLbVBPOU85V1FzREs4Y2ZnODlRSm5NZDVQczc5Z0RVUHZKSXpUQXZ3U1c5dGg4bTh6cEVlRGExOFUxWDladmMzY3VyZS1kM0p3R0FkV0VlVGhTOTZKNXZ6dGhOeUY?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0lXN05UUUJxSWNPWDRCS092T1pKX0wzMmh6bzYwME5aMWFLS0xTYjUxbEc1OERJS3BOZ1lPcWJ6Wm1BWVR3ZGFfVHBCTU9kUFFTenptd1JBVHFMU3djWm5ZaXdsRUhNcU90eUVxYmZCeGQ5Y1BzYURpWXNyV2Q4Tm1IVFExZDBjVkE2M0VXX1otZkNnN3RzQnJwN1djeDlaS0R1cEtVU3dYek5EeWt3YkNiUkFZblVqa0trM05nQ1JTdTNyQVpCcnBNUUJ2eTc4Ym1vb0RkNUd1aFJqQl90OHhfWXRtNmpDTWxVWHlBNFdueWxvaXc5SE5ZV2h0YXM?oc=5"
         }
       ]
     },
     {
-      "id": "7692a0b336f6",
-      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - nporadio1.nl",
-      "published": "2026-09-02T15:02:09+00:00",
-      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;nporadio1.nl",
+      "id": "0880e202d845",
+      "title": "Opinie: Artsen zien vrouwen worstelen, maar missen antwoorden: tijd voor een specialist vrouwengeneeskunde - de Volkskrant",
+      "published": "2026-09-03T09:00:44+00:00",
+      "summary": "Opinie: Artsen zien vrouwen worstelen, maar missen antwoorden: tijd voor een specialist vrouwengeneeskunde&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
-          "name": "nporadio1.nl",
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS3N6R0JIRlNaSzN5a1lsWDVyYnhFUFVQNjRfRVZ4WXhSaGhTdkpBU0RPSDZ0V3R1eDNIckJjSlU2ZmlsRXVhdlJETzBFbGpWekJFU29zTXpYcWZZcHBKVTZpWW81cXVnbWwtZmlVRzh4U1RVQVBhUUpyU29fdW5fb2hPaDlZbkdKTnFvcGdjM0xtSDh0MWJBY3ctd3l2YV9vaFFXeWhsV0FSaHBFS2FKWHIydjNKdkMyV2VETExhbHg2eFQ4SmNFSDF5a0xfS0hXbGZHR0dPdXBsZG5fN0pKdTlJYm5mU285aVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSCongo telt meer dan 6000 besmettingen met ebolavirus&nbsp;&nbsp;Noordhollands DagbladCongo begint vaccinatiecampagne tegen ebola met vaccin voor andere variant, uitbraak in buurland Oeganda is voorbij&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandSamenwerken om de ebola-epidemie te bestrijden.&nbsp;&nbsp;vietnam",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a78931aee07",
+      "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - AD.nl",
+      "published": "2026-08-29T12:30:00+00:00",
+      "summary": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk&nbsp;&nbsp;AD.nlOnduidelijk of stewardessen vaker overlijden aan borstkanker door kosmische straling&nbsp;&nbsp;deCheckersStewardess Sophie kreeg kanker na 12.600 vlieguren: is werken in de lucht ongezond?&nbsp;&nbsp;RTL.nlBorstkanker Air France-stewardess na 30 jaar vliegen erkend als beroepsziekte&nbsp;&nbsp;Actueel365‘Ik hoop dat mijn zaak de weg effent voor andere vrouwen’: borstkanker oud",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWZweUtYaXFlekVuRENPMFlwbkhLVzBESFFUQ0VoTlZ5Y2lycE9PS3czM0thZWtsU1hRcnVlaUEwWUlpaU9hZ2toaFVNU3FjUTBYcG5XSGNWSFRBeU9SOFhmSGZUUHBsWG9IV1dtVXR4WmlEbWkwY2FxbXpkUF9mWXZZeEdmQVMtZ2I2elVrLTZObmNvTnhzZGozcXdQQmdwOEJMaVVSbHU2eVhGdng4dGEwcXFPMUI0VndxM3Qtdl9EMFNITlNTZmQ3dDFiMDQxcUdxV2JR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0955f2927524",
+      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - NPO Radio 1",
+      "published": "2026-09-02T15:02:09+00:00",
+      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;NPO Radio 1",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
         }
       ]
     },
     {
-      "id": "218cb7cf7c3a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
+      "id": "1bbb62b3134a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - metronieuws.nl",
       "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;metronieuws.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af809afaa7ec",
+      "title": "Jarbandhan: \"SZF stopt dekking kosten glucosesensoren voor kinderen met suikerziekte type 1\" - Waterkant",
+      "published": "2026-09-02T05:00:00+00:00",
+      "summary": "Jarbandhan: \"SZF stopt dekking kosten glucosesensoren voor kinderen met suikerziekte type 1\"&nbsp;&nbsp;Waterkant",
+      "sources": [
+        {
+          "name": "Waterkant",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGlocmhFXzFYNUpEdnoyMHNqajMxS0psTUpuQ3JVV0VXVXoxUlljeDY1eko2dlo5Yml3Z25uSk82anRmWEJnSGhoUTlMd3hCazRYVmc0WWdjam9OeklhbExyOS1aenR2ZTRlWjctWDdZelFPdlpXMEpYb1pmTFZvZ0diWVA4bzBDaVpNb2ZKa0ZIRm1zUGtETlZCVWI2M1RkVmU5RFdxckJzZllnSHdWNWVYd2tYbVdCT0x1aTV0djNURzJ1R08yWlRLMEV3YmtZQVE?oc=5"
         }
       ]
     }

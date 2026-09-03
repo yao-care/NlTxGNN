@@ -1,53 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-03T10:37:13.817405+00:00",
-  "count": 5,
+  "fetched_at": "2026-09-03T15:43:27.688295+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "cf5bb76d4775",
-      "title": "Al negen besmettingen met westnijlvirus vastgesteld die in Nederland zijn opgelopen, tot nu toe één dode - AD.nl",
-      "published": "2026-09-03T09:50:00+00:00",
-      "summary": "Al negen besmettingen met westnijlvirus vastgesteld die in Nederland zijn opgelopen, tot nu toe één dode&nbsp;&nbsp;AD.nlNegen mensen hebben westnijlvirus opgelopen in Nederland&nbsp;&nbsp;NURIVM meldt negen besmettingen met westnijlvirus in Nederland&nbsp;&nbsp;RTL.nlUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantDit hangt ons nog boven het hoofd nu westnijlvirus dodelijk toeslaat: ’De ziekte is er en blijft hier’&nbsp;&nbsp;De Telegraaf",
+      "id": "cfd36d76b5bd",
+      "title": "RIVM meldt negen besmettingen met westnijlvirus in Nederland - rtl.nl",
+      "published": "2026-09-03T09:54:12+00:00",
+      "summary": "RIVM meldt negen besmettingen met westnijlvirus in Nederland&nbsp;&nbsp;rtl.nlNegen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafOpnieuw besmetting met westnijlvirus in provincie Utrecht&nbsp;&nbsp;AD.nlIemand liep westnijlvirus op in Brabant, aantal besmettingen loopt op&nbsp;&nbsp;Omroep BrabantUitbraak muggenziekte westnijlkoorts breidt zich verder uit. ‘We lopen achter de feiten aan’&nbsp;&nbsp;nd.nl",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWR0dERwczk2QVhNeU5LamVZbDBwdldHUzM5elQ3WFpQSE10ZmRIQXdXRnVBMFBodGhHQ2pfa1pMRWQtV3M0WGlxN3lXRFVoYkc5WVFXX281dXMtTkZtblVWdngxY09uNmRJNE9yZDFUeWY5cEFRRjdCUW9VTkZtQ2VZRWpEZjFfbndEM2kwSGdfdjBIQ2JvVWpydUdXNlViVmZtNVFZdnozTHpaT2FyMzNXanlyWGFka0RrWXpHVzZmaE1QN1J6U1d3NmZiZ3lCZDViVkRVRjdZdw?oc=5"
+          "name": "rtl.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnRVN1lQdzB6Wno5Ykp5SEhLNjVXSlE0aUJmdS1faU1SQ0RpOTdvcmhGeU1jNWJhQ3UxUi0wZFBLbVBPOU85V1FzREs4Y2ZnODlRSm5NZDVQczc5Z0RVUHZKSXpUQXZ3U1c5dGg4bTh6cEVlRGExOFUxWDladmMzY3VyZS1kM0p3R0FkV0VlVGhTOTZKNXZ6dGhOeUY?oc=5"
         }
       ]
     },
     {
-      "id": "a24aca315465",
-      "title": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen - Brabants Dagblad",
-      "published": "2026-08-27T10:07:00+00:00",
-      "summary": "Westnijlvirus in Brabant: deze voorzorgsmaatregelen kun je nemen&nbsp;&nbsp;Brabants DagbladVrouw uit Amstelveen loopt westnijlvirus op in Nederland&nbsp;&nbsp;NUVrouw uit regio Amsterdam in Nederland besmet met westnijlvirus&nbsp;&nbsp;Hart van NederlandNederland moet ruimte maken voor water. Maar dat geeft óók ruimte aan muggen die virussen overdragen – zoals het westnijlvirus&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek‘Vrouw (39) uit Amstelveen besmet en ziek door westni",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDM4bUJoVU5jYldGd19zbC1ySDRrdFNick9wNlNlVjIyT1pfRkxrOHE0ZWlwV29IVHVYSzdVNmdMTzNSdmFfZTJrcWd6VGpVYUJLUEMxVTZKQTJRZElBQmVJZEtmSE91dEZza0Z0djZ6OHJjM2o1dE0tVnJNQjdNdEdLWHkxY2VaTWZBNVgxM1lkVHZsN25xT2RSTFlqOXFT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0955f2927524",
-      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - NPO Radio 1",
+      "id": "7692a0b336f6",
+      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - nporadio1.nl",
       "published": "2026-09-02T15:02:09+00:00",
-      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;NPO Radio 1",
+      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;nporadio1.nl",
       "sources": [
         {
-          "name": "NPO Radio 1",
+          "name": "nporadio1.nl",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5be2d39e3ca2",
-      "title": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft - de Volkskrant",
-      "published": "2026-08-31T03:00:00+00:00",
-      "summary": "Meer kinderen met mazelen in VS, dat vaccinaties terugschroeft&nbsp;&nbsp;de VolkskrantMeer kinderen met mazelen in VS, dat het aantal vaccinaties terugschroeft&nbsp;&nbsp;Nederlands Dagblad",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3N3aDR5UXhjZEd4cDk0LUlkcmNnSk16RmpmaUUxZGxjNjFkMlU1V0tKS25QZ1pxREdYSWd2TG8tRWFNWnJYRHUycVpMcEN1SzJocC1NX1JoSHFlUzMwVUZOTk0yd1VFUldqUG4wNEFUU1YxNXNDaWZRaHhzZXM4VFQ3YlJTUnB4dVQ2Qm5VemdIX3pwQkU5MGRjLWF2OXRNZzVuYXZkQ1NiWTRm?oc=5"
         }
       ]
     },

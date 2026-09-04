@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-04T02:46:18.323158+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-04T10:31:02.379935+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "df099ff13e78",
-      "title": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland - De Telegraaf",
-      "published": "2026-09-04T01:46:22+00:00",
-      "summary": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;De TelegraafNegen mensen hebben westnijlvirus opgelopen in Nederland&nbsp;&nbsp;NUUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantIemand loopt westnijlvirus op in Brabant, aantal besmettingen in Nederland neemt toe&nbsp;&nbsp;Brabants DagbladNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nb",
+      "id": "74ab3a9d2050",
+      "title": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland - telegraaf.nl",
+      "published": "2026-09-03T20:15:00+00:00",
+      "summary": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;telegraaf.nlNegen mensen hebben westnijlvirus opgelopen in Nederland&nbsp;&nbsp;NUMinister Hermans over westnijlvirus: bescherm jezelf tegen muggen&nbsp;&nbsp;RTL.nlUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nbsp;NOS",
       "sources": [
         {
-          "name": "De Telegraaf",
+          "name": "telegraaf.nl",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0lXN05UUUJxSWNPWDRCS092T1pKX0wzMmh6bzYwME5aMWFLS0xTYjUxbEc1OERJS3BOZ1lPcWJ6Wm1BWVR3ZGFfVHBCTU9kUFFTenptd1JBVHFMU3djWm5ZaXdsRUhNcU90eUVxYmZCeGQ5Y1BzYURpWXNyV2Q4Tm1IVFExZDBjVkE2M0VXX1otZkNnN3RzQnJwN1djeDlaS0R1cEtVU3dYek5EeWt3YkNiUkFZblVqa0trM05nQ1JTdTNyQVpCcnBNUUJ2eTc4Ym1vb0RkNUd1aFJqQl90OHhfWXRtNmpDTWxVWHlBNFdueWxvaXc5SE5ZV2h0YXM?oc=5"
         }
       ]
     },
     {
-      "id": "c191540b589a",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSCongo telt meer dan 6000 besmettingen met ebolavirus&nbsp;&nbsp;Noordhollands DagbladCongo begint vaccinatiecampagne tegen ebola met vaccin voor andere variant, uitbraak in buurland Oeganda is voorbij&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandSamenwerken om de ebola-epidemie te bestrijden.&nbsp;&nbsp;Vietnam",
+      "id": "8d40eb13872e",
+      "title": "Kinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen - AD.nl",
+      "published": "2026-08-31T20:00:00+00:00",
+      "summary": "Kinderen met kanker blijven steeds vaker leven, met name prognose voor leukemiepatiëntjes is sterk gestegen&nbsp;&nbsp;AD.nlNa overleven van kinderkanker voelde Fleur (27) zich alleen, nu helpt ze anderen met haar ervaring&nbsp;&nbsp;RTV UtrechtSteeds meer kinderen met kanker overleven de ziekte door meer onderzoek&nbsp;&nbsp;NOSSteeds meer kinderen overleven kanker, maar de vooruitgang is ongelijk&nbsp;&nbsp;NUOverlevingskans voor kinderen met kanker flink gestegen&nbsp;&nbsp;trouw.nl",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZVk2ZW9ySUYxVk5CRmctb3VZMjY1bWxOQ19GdmFZSTFnSFNDcXBETWhnb3RfSnZhcExqeGpDX292UjFPUzVxM1ozcjNrcUNIeGRzODJMYzVkRW01VXZ0XzBGbmVpNkYtRDA3WFR5MGdRQ0RDM25PRkpNcFBDNU05SG1SQU43aWdiMWEtZl82Y2tCRzhleXVjb2JGck1WS1E1YW1Ncm5NZ2xFUGd4aGpvNkdMMExHTE1fMnBESUtaUXo2MEJ0RXNodjJtaDdqUWF1MkpqTURxMld0RXV3R2c?oc=5"
         }
       ]
     },
@@ -54,7 +54,7 @@
     {
       "id": "0955f2927524",
       "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - NPO Radio 1",
-      "published": "2026-09-02T15:02:09+00:00",
+      "published": "2026-09-02T15:01:50+00:00",
       "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;NPO Radio 1",
       "sources": [
         {
@@ -72,18 +72,6 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af809afaa7ec",
-      "title": "Jarbandhan: \"SZF stopt dekking kosten glucosesensoren voor kinderen met suikerziekte type 1\" - Waterkant",
-      "published": "2026-09-02T05:00:00+00:00",
-      "summary": "Jarbandhan: \"SZF stopt dekking kosten glucosesensoren voor kinderen met suikerziekte type 1\"&nbsp;&nbsp;Waterkant",
-      "sources": [
-        {
-          "name": "Waterkant",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGlocmhFXzFYNUpEdnoyMHNqajMxS0psTUpuQ3JVV0VXVXoxUlljeDY1eko2dlo5Yml3Z25uSk82anRmWEJnSGhoUTlMd3hCazRYVmc0WWdjam9OeklhbExyOS1aenR2ZTRlWjctWDdZelFPdlpXMEpYb1pmTFZvZ0diWVA4bzBDaVpNb2ZKa0ZIRm1zUGtETlZCVWI2M1RkVmU5RFdxckJzZllnSHdWNWVYd2tYbVdCT0x1aTV0djNURzJ1R08yWlRLMEV3YmtZQVE?oc=5"
         }
       ]
     }

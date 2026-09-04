@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-03T20:26:40.482923+00:00",
+  "fetched_at": "2026-09-04T02:46:18.323158+00:00",
   "count": 7,
   "news": [
     {
       "id": "df099ff13e78",
       "title": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland - De Telegraaf",
-      "published": "2026-09-03T19:46:22+00:00",
-      "summary": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;De TelegraafNegen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nbsp;NOSNieuwe besmetting westnijlvirus in provincie&nbsp;&nbsp;RTV Utrecht",
+      "published": "2026-09-04T01:46:22+00:00",
+      "summary": "Mug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;De TelegraafNegen mensen hebben westnijlvirus opgelopen in Nederland&nbsp;&nbsp;NUUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantIemand loopt westnijlvirus op in Brabant, aantal besmettingen in Nederland neemt toe&nbsp;&nbsp;Brabants DagbladNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nb",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0lXN05UUUJxSWNPWDRCS092T1pKX0wzMmh6bzYwME5aMWFLS0xTYjUxbEc1OERJS3BOZ1lPcWJ6Wm1BWVR3ZGFfVHBCTU9kUFFTenptd1JBVHFMU3djWm5ZaXdsRUhNcU90eUVxYmZCeGQ5Y1BzYURpWXNyV2Q4Tm1IVFExZDBjVkE2M0VXX1otZkNnN3RzQnJwN1djeDlaS0R1cEtVU3dYek5EeWt3YkNiUkFZblVqa0trM05nQ1JTdTNyQVpCcnBNUUJ2eTc4Ym1vb0RkNUd1aFJqQl90OHhfWXRtNmpDTWxVWHlBNFdueWxvaXc5SE5ZV2h0YXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSCongo telt meer dan 6000 besmettingen met ebolavirus&nbsp;&nbsp;Noordhollands DagbladCongo begint vaccinatiecampagne tegen ebola met vaccin voor andere variant, uitbraak in buurland Oeganda is voorbij&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandSamenwerken om de ebola-epidemie te bestrijden.&nbsp;&nbsp;Vietnam",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
     },
@@ -28,26 +40,14 @@
       ]
     },
     {
-      "id": "c191540b589a",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSCongo telt meer dan 6000 besmettingen met ebolavirus&nbsp;&nbsp;Noordhollands DagbladCongo begint vaccinatiecampagne tegen ebola met vaccin voor andere variant, uitbraak in buurland Oeganda is voorbij&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandSamenwerken om de ebola-epidemie te bestrijden.&nbsp;&nbsp;vietnam",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a78931aee07",
-      "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - AD.nl",
+      "id": "0ac8675efa47",
+      "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - pzc.nl",
       "published": "2026-08-29T12:30:00+00:00",
-      "summary": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk&nbsp;&nbsp;AD.nlOnduidelijk of stewardessen vaker overlijden aan borstkanker door kosmische straling&nbsp;&nbsp;deCheckersStewardess Sophie kreeg kanker na 12.600 vlieguren: is werken in de lucht ongezond?&nbsp;&nbsp;RTL.nlBorstkanker Air France-stewardess na 30 jaar vliegen erkend als beroepsziekte&nbsp;&nbsp;Actueel365‘Ik hoop dat mijn zaak de weg effent voor andere vrouwen’: borstkanker oud",
+      "summary": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWZweUtYaXFlekVuRENPMFlwbkhLVzBESFFUQ0VoTlZ5Y2lycE9PS3czM0thZWtsU1hRcnVlaUEwWUlpaU9hZ2toaFVNU3FjUTBYcG5XSGNWSFRBeU9SOFhmSGZUUHBsWG9IV1dtVXR4WmlEbWkwY2FxbXpkUF9mWXZZeEdmQVMtZ2I2elVrLTZObmNvTnhzZGozcXdQQmdwOEJMaVVSbHU2eVhGdng4dGEwcXFPMUI0VndxM3Qtdl9EMFNITlNTZmQ3dDFiMDQxcUdxV2JR?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaTVMNmdSQlFKejdqQTM1UFlHV1hwTDU0enZHMS1IeVJXMGhIWFZtRmF0LXJPbmJTWVBUaEgxbFVFN2JXLWpPb0ZOaWZTTXllOVFrVHdrNUthazUtM2ZfZWt1cWN4TlhnTmdjc0tJXzhnOEJpbjVoS1BXUmdxRjFrWGhBN1piVjlLSGl0bVVUS0l6ZEZjaFN6WmNfVU05TklMU1E5NlJ3dzAzWXdDMzVPa2ZlbnJuZDZsZmc3TkljaEtWMUZubWtDWkxHQS1MaTQ5UW1TeEtESQ?oc=5"
         }
       ]
     },
@@ -64,13 +64,13 @@
       ]
     },
     {
-      "id": "1bbb62b3134a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - metronieuws.nl",
+      "id": "218cb7cf7c3a",
+      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
       "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;metronieuws.nl",
+      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
-          "name": "metronieuws.nl",
+          "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
         }
       ]

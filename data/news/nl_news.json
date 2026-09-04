@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-04T15:42:25.617866+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-04T20:13:32.152538+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "fa578a6ca44a",
-      "title": "Minister Hermans over westnijlvirus: bescherm jezelf tegen muggen - rtl.nl",
-      "published": "2026-09-04T09:15:48+00:00",
-      "summary": "Minister Hermans over westnijlvirus: bescherm jezelf tegen muggen&nbsp;&nbsp;rtl.nlNegen mensen liepen in Nederland het westnijlvirus op, blijkt uit nieuwe cijfers&nbsp;&nbsp;NOSLangere zomers vergroten de kans op westnijlinfecties&nbsp;&nbsp;fd.nlUitbraak muggenziekte westnijlkoorts breidt zich verder uit&nbsp;&nbsp;de VolkskrantMug lijkt onschuldig, maar veroorzaakt wereldwijd miljoen doden per jaar: zo gevaarlijk is het westnijlvirus in Nederland&nbsp;&nbsp;telegraaf.nl",
-      "sources": [
-        {
-          "name": "rtl.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlFlTmkwWHJsRDFyYncyMHg3Q2t6R0JQQXljd0tFYUk3R3RQeFBTSzhWemFsS1FGbWZCd2o5WmNza2ZtV21DaDhHOGdmOC1NVFJjWWhHLUpxNE5YZFUzaGJPOXgzOGQ5akRrNXY3SXNIOV9STlJNVlU2SzB3S2tqZWJ5YTFGWUhyV21FYmtGbDlrNGhuRHU2ZjhoeWhxZ1g1YzhrRXA1Nmtwdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "7a78931aee07",
       "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - AD.nl",
@@ -40,13 +28,13 @@
       ]
     },
     {
-      "id": "7692a0b336f6",
-      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - nporadio1.nl",
+      "id": "0955f2927524",
+      "title": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker - NPO Radio 1",
       "published": "2026-09-02T15:01:50+00:00",
-      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;nporadio1.nl",
+      "summary": "'Seks is natuurlijk meer dan alleen een erectie': opnieuw intimiteit ontdekken na prostaatkanker&nbsp;&nbsp;NPO Radio 1",
       "sources": [
         {
-          "name": "nporadio1.nl",
+          "name": "NPO Radio 1",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
         }
       ]

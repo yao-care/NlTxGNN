@@ -1,41 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-05T02:47:58.090438+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-05T09:54:32.894433+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "8c4cb3a60c06",
+      "title": "'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam - EenVandaag",
+      "published": "2026-09-05T04:32:59+00:00",
+      "summary": "'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam&nbsp;&nbsp;EenVandaag",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjVZZ0NMVjdJNW84LVlHTWNMa213MS1TSTNEVUF1cUo3cEljRFZ3WnczdG9LeFR4a0tLWHhaSVU4cnV6cWJYSzZVcGpfQ0pMWmpqeFkzTzY0bk4xdXFINFowNlpZM3JsNmFwMi1fWlZPWkJDbEw3ZE9MSXZhMWZFUm12cW4yOWo0bVlsZjFnVlRSbHFJZ3ZGaHdGcU1uTy1PdlpFSHYzbDdLQTBFN3c0Wmc1cDNfcWNQWm5pRFVvRnJJVjg?oc=5"
+        }
+      ]
+    },
     {
       "id": "c191540b589a",
       "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
       "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Noordhollands DagbladEbola-uitbraak in Congo eist ruim 3.000 doden sinds mei&nbsp;&nbsp;TPO.NLEbola : Meer dan 6.000 bevestigde ebolagevallen in Congo&nbsp;&nbsp;De Specialist",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnEbola : Meer dan 6.000 bevestigde ebolagevallen in Congo&nbsp;&nbsp;De Specialist",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a78931aee07",
-      "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - AD.nl",
-      "published": "2026-08-29T12:30:00+00:00",
-      "summary": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWZweUtYaXFlekVuRENPMFlwbkhLVzBESFFUQ0VoTlZ5Y2lycE9PS3czM0thZWtsU1hRcnVlaUEwWUlpaU9hZ2toaFVNU3FjUTBYcG5XSGNWSFRBeU9SOFhmSGZUUHBsWG9IV1dtVXR4WmlEbWkwY2FxbXpkUF9mWXZZeEdmQVMtZ2I2elVrLTZObmNvTnhzZGozcXdQQmdwOEJMaVVSbHU2eVhGdng4dGEwcXFPMUI0VndxM3Qtdl9EMFNITlNTZmQ3dDFiMDQxcUdxV2JR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0880e202d845",
-      "title": "Opinie: Artsen zien vrouwen worstelen, maar missen antwoorden: tijd voor een specialist vrouwengeneeskunde - de Volkskrant",
-      "published": "2026-09-03T09:00:44+00:00",
-      "summary": "Opinie: Artsen zien vrouwen worstelen, maar missen antwoorden: tijd voor een specialist vrouwengeneeskunde&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS3N6R0JIRlNaSzN5a1lsWDVyYnhFUFVQNjRfRVZ4WXhSaGhTdkpBU0RPSDZ0V3R1eDNIckJjSlU2ZmlsRXVhdlJETzBFbGpWekJFU29zTXpYcWZZcHBKVTZpWW81cXVnbWwtZmlVRzh4U1RVQVBhUUpyU29fdW5fb2hPaDlZbkdKTnFvcGdjM0xtSDh0MWJBY3ctd3l2YV9vaFFXeWhsV0FSaHBFS2FKWHIydjNKdkMyV2VETExhbHg2eFQ4SmNFSDF5a0xfS0hXbGZHR0dPdXBsZG5fN0pKdTlJYm5mU285aVE?oc=5"
         }
       ]
     },
@@ -48,30 +36,6 @@
         {
           "name": "NPO Radio 1",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed8d31fc7b3b",
-      "title": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen - bnnvara.nl",
-      "published": "2026-09-03T13:34:07+00:00",
-      "summary": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen&nbsp;&nbsp;bnnvara.nl",
-      "sources": [
-        {
-          "name": "bnnvara.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFk2SWFuOE5YZU9YZ2p1dm4zQy1odEhqQm9QVEhSdXM2Y3ZmdWFEMlRGejUyQ3RHTDY1bDI0MUdYaWZhUG16bmpPQ2Q2bTlFNkhtdzlKRm1LNmswSGhUMzZfVWsxZGVHLW03aEprdHQ3VlBucTRSQ0NNYmRRN3dSVGkwM3dzMGwtd2k5WmNUZVlGRDlkbjk5Q3V5ekd5NG9oM1dzZTFKZ1hteXA0ZUdRVGdYazJuTTlPa2RwU2pKTUk1NW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d41c40122dd",
-      "title": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’ - flair.nl",
-      "published": "2026-08-29T05:30:43+00:00",
-      "summary": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’&nbsp;&nbsp;flair.nl",
-      "sources": [
-        {
-          "name": "flair.nl",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pYlF1bHFleXpyalhhNkhjcmFjVGNtb05OMUNLSHZxbnYtNkdrcDdWZU5vbk1kN3p4TDZqSDE0QXF2c0VUaU4wUmxEVk1kbHBqTlVNWVpDTUNfNEZCbHlrRkdmNUNVRHgySS1OczdVckJfdWRvV2xaYWtn?oc=5"
         }
       ]
     }

@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-04T20:13:32.152538+00:00",
-  "count": 5,
+  "fetched_at": "2026-09-05T02:47:58.090438+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Noordhollands DagbladEbola-uitbraak in Congo eist ruim 3.000 doden sinds mei&nbsp;&nbsp;TPO.NLEbola : Meer dan 6.000 bevestigde ebolagevallen in Congo&nbsp;&nbsp;De Specialist",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+        }
+      ]
+    },
     {
       "id": "7a78931aee07",
       "title": "Baanbrekende uitspraak: borstkanker stewardess na 30 jaar vliegen erkend als beroepsziekte in Frankrijk - AD.nl",
@@ -40,26 +52,26 @@
       ]
     },
     {
-      "id": "37c2af0611cc",
-      "title": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen - bnnvara",
+      "id": "ed8d31fc7b3b",
+      "title": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen - bnnvara.nl",
       "published": "2026-09-03T13:34:07+00:00",
-      "summary": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen&nbsp;&nbsp;bnnvara",
+      "summary": "Invasieve ziekteverspreiders rukken op dankzij klimaatcrisis: gelekoortsmuggen in Londen&nbsp;&nbsp;bnnvara.nl",
       "sources": [
         {
-          "name": "bnnvara",
+          "name": "bnnvara.nl",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFk2SWFuOE5YZU9YZ2p1dm4zQy1odEhqQm9QVEhSdXM2Y3ZmdWFEMlRGejUyQ3RHTDY1bDI0MUdYaWZhUG16bmpPQ2Q2bTlFNkhtdzlKRm1LNmswSGhUMzZfVWsxZGVHLW03aEprdHQ3VlBucTRSQ0NNYmRRN3dSVGkwM3dzMGwtd2k5WmNUZVlGRDlkbjk5Q3V5ekd5NG9oM1dzZTFKZ1hteXA0ZUdRVGdYazJuTTlPa2RwU2pKTUk1NW8?oc=5"
         }
       ]
     },
     {
-      "id": "218cb7cf7c3a",
-      "title": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil - Metronieuws.nl",
-      "published": "2026-09-01T06:05:00+00:00",
-      "summary": "Oncoloog: 70 tot 90 procent van kanker is mogelijk te vermijden – deze factoren maken grootste verschil&nbsp;&nbsp;Metronieuws.nl",
+      "id": "6d41c40122dd",
+      "title": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’ - flair.nl",
+      "published": "2026-08-29T05:30:43+00:00",
+      "summary": "Anke (32) had de ziekte van Lyme: ‘Met oud en nieuw dacht ik: weer een jaar voorbij vol pijn’&nbsp;&nbsp;flair.nl",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTZ5ajRFdGNKUENGUW5XOWw1Y3RiZThaMnBnYzA0NU9DZTBFbkpGeEhidW1hU19qYWwyMGNmN3V1ODRnNERvVEU3T3NzWkxDLXRwRFFOT3o5YVZMbS1LZWQ1Y09aNXNpLXVIUVRRV0xwMVdNd3dkRm1HUTdZU0F1WkZVdXhMcnY4Ujk5OVJlSzIzZlNFWjBDXw?oc=5"
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pYlF1bHFleXpyalhhNkhjcmFjVGNtb05OMUNLSHZxbnYtNkdrcDdWZU5vbk1kN3p4TDZqSDE0QXF2c0VUaU4wUmxEVk1kbHBqTlVNWVpDTUNfNEZCbHlrRkdmNUNVRHgySS1OczdVckJfdWRvV2xaYWtn?oc=5"
         }
       ]
     }

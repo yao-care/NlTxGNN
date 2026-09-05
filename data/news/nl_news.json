@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-05T09:54:32.894433+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-05T14:30:41.478943+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "8c4cb3a60c06",
-      "title": "'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam - EenVandaag",
-      "published": "2026-09-05T04:32:59+00:00",
-      "summary": "'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam&nbsp;&nbsp;EenVandaag",
+      "id": "800278d53534",
+      "title": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen' - EenVandaag",
+      "published": "2026-09-05T12:17:00+00:00",
+      "summary": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
           "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjVZZ0NMVjdJNW84LVlHTWNMa213MS1TSTNEVUF1cUo3cEljRFZ3WnczdG9LeFR4a0tLWHhaSVU4cnV6cWJYSzZVcGpfQ0pMWmpqeFkzTzY0bk4xdXFINFowNlpZM3JsNmFwMi1fWlZPWkJDbEw3ZE9MSXZhMWZFUm12cW4yOWo0bVlsZjFnVlRSbHFJZ3ZGaHdGcU1uTy1PdlpFSHYzbDdLQTBFN3c0Wmc1cDNfcWNQWm5pRFVvRnJJVjg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpNQTJTcUtNR3Y2cnZpQjdHQzhzbVhvNWdzODZ1RklCYUlKdDZRSG9JbjRwZ1dMVUJET1dMSnZxeFdielZXcE56ZWwtWDJBdHE2Y2piQkl5NlNybkJPa0Z3TWE3YVNCUGlnVVMtMXdVQ20yV0dnSUpPX0swbDUzWGR3ZjFkTk5fOG8tUThXTjU5Zm84YUVFUVVtaEY1VEJKVG5JX2YyXzZydzUxY3lGZkVCUVRXTjRzOVdXaW1fZXIxckJLSHY0TzJpNjRtQnRvVENCTw?oc=5"
         }
       ]
     },
@@ -19,11 +19,23 @@
       "id": "c191540b589a",
       "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
       "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnEbola : Meer dan 6.000 bevestigde ebolagevallen in Congo&nbsp;&nbsp;De Specialist",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Noordhollands DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnEbola : Meer dan 6.000 bevestigde ebolagevallen in Congo&nbsp;&nbsp;De Specialist",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97e7b25d7b9e",
+      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - Trouw",
+      "published": "2026-09-04T20:00:18+00:00",
+      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;TrouwMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
         }
       ]
     },
@@ -36,6 +48,18 @@
         {
           "name": "NPO Radio 1",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ1BRWmlITmlvLUx6MjMyUWdyMVZCVlE2SkFhemtQaXRFNEpaQXVsZVJad2lzcHdXRDVZMTVNNEtEWVk5YlJRLUhxUzRoRDQxVlkwVEk0VTdvcjg2RW9kS0FLdkFJcktDNHgyanZydzNZWHg0NDl2d3ZkNnVNRFZyOGVEMERsanRQd1JVcTM2ejdPVXAyTkxBMjExR0xiTXJ4SXJBOXZ0SHh5bjllT2dwN3A1MGdRazZSa2RNSHhpdnptcEs3SlMtV2lqU3k1UkVnVDVoSHVvTXB1aVNlTTFtUGExb2UtaTBiTlRKLUJJMVRZQU0zZGVBd2l6U2x0YnowRDdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2938bdcd7c9",
+      "title": "Als tweede land ter wereld: Nieuw-Zeeland keurt MDMA-behandeling voor ernstige PTSS goed - HLN",
+      "published": "2026-09-04T08:37:00+00:00",
+      "summary": "Als tweede land ter wereld: Nieuw-Zeeland keurt MDMA-behandeling voor ernstige PTSS goed&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUnNJaEdiaUswN0FERFFlRG1uV0tMSXFINVNYZTV6Y2Zhakp3Vnlvc2wwekRIU0Z2VVc0MWc3SUtHX1p2TjN2UjZfRmM2OXdqM3o3T0s5Wl9BTU5Ra0pYUThsOHdWczdPZklfeDhXTHp0bFE0bUhJRnZFOEtzNEVYZDE4UjhLWkh6ckpKN3YxOHBNd1Q5RFEyMk9VQjZ5WXJLd3gtMk9QdmxNQVpvWE5sVnFwaGxnQ2ZCS0hVUm52YTY3U2R3b0E?oc=5"
         }
       ]
     }

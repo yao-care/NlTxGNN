@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-06T14:52:45.873313+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-06T19:56:59.292941+00:00",
+  "count": 7,
   "news": [
     {
       "id": "11f9a01155bd",
@@ -16,13 +16,13 @@
       ]
     },
     {
-      "id": "f4eeaa1ca6b4",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - nos.nl",
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
       "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;nos.nlGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;nrc.nlWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend respon",
       "sources": [
         {
-          "name": "nos.nl",
+          "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "97e7b25d7b9e",
+      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - Trouw",
+      "published": "2026-09-04T20:00:18+00:00",
+      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;TrouwMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ba23fdabad7f",
       "title": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek - Runner's World Nederland",
       "published": "2026-09-05T11:03:44+00:00",
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "97e7b25d7b9e",
-      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - Trouw",
-      "published": "2026-09-04T20:00:18+00:00",
-      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;TrouwMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "86a602181788",
+      "title": "Genetische netwerken leggen nieuwe verbanden bloot tussen vermoeidheid in verschillende ziekten - Scientias.nl",
+      "published": "2026-09-05T14:00:37+00:00",
+      "summary": "Genetische netwerken leggen nieuwe verbanden bloot tussen vermoeidheid in verschillende ziekten&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ05SWWxScHlEOUZYU0N2VVV4OWtvNnU4WjFnbFpCNWg4RGZRdU1UbThGRVEzMmg1aktMX193ckZ4Y0pQb0RtX1Y4bXBuSXZYZW5zT3RWdkU2MnBXajdwZ0xsMXJjZWd3R1pNWTdONDZPZ1NzaE5XMi1iQlE5T3VwUXpPLVV2Yzc3MFJzX2gwWldtM1piM1pIU1FOVFFxSE9YZkVrMXFTS0xwT2NJLTY5VVZiS2NvRFowaFR6cUNWanR0dXFFZDN6YTFrNXJWc28wbHc?oc=5"
         }
       ]
     },

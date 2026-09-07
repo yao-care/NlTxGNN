@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-07T17:10:12.403628+00:00",
+  "fetched_at": "2026-09-07T21:04:02.433836+00:00",
   "count": 7,
   "news": [
     {
       "id": "4c9a2f5feabb",
       "title": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen' - EenVandaag",
       "published": "2026-09-06T05:07:54+00:00",
-      "summary": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlArtsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaag'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam&nbsp;&nbsp;EenVandaag",
+      "summary": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlArtsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
           "name": "EenVandaag",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "636831f19412",
-      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - trouw.nl",
-      "published": "2026-09-04T20:00:18+00:00",
-      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;trouw.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "3e8ebe816c46",
+      "title": "Fins onderzoek: langslapers gaan eerder met pensioen - bnr.nl",
+      "published": "2026-09-07T17:04:00+00:00",
+      "summary": "Fins onderzoek: langslapers gaan eerder met pensioen&nbsp;&nbsp;bnr.nlZorgt te weinig slapen voor snellere veroudering? Een expert legt de connectie uit&nbsp;&nbsp;ELLE",
       "sources": [
         {
-          "name": "trouw.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0YxS2p4MVp4NDVzY1M3YXItbXkzTnZsekhZQTNrR2hqSnZleWFEUFI1SHlfNHdvSlFvSXp4U2N6Q3huRFVXRzBablg0QS1QWXhzQUU5VGRpUjJuOUdyMlh1QmtvZGhITzlyWlZzbjExQnBxX0xoYkdNOEtKWU1yNzAzbV91RjFIUDRhaTdqRkdvODc0VEozR0c5R2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "096be835546e",
+      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
+      "published": "2026-09-07T13:34:38+00:00",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
         }
       ]
     },
@@ -31,7 +43,7 @@
       "id": "3990e5d80761",
       "title": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-09-06T12:00:00+00:00",
-      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;haarlemsdagblad.nlEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatoris",
+      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatorisch",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -72,18 +84,6 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ05SWWxScHlEOUZYU0N2VVV4OWtvNnU4WjFnbFpCNWg4RGZRdU1UbThGRVEzMmg1aktMX193ckZ4Y0pQb0RtX1Y4bXBuSXZYZW5zT3RWdkU2MnBXajdwZ0xsMXJjZWd3R1pNWTdONDZPZ1NzaE5XMi1iQlE5T3VwUXpPLVV2Yzc3MFJzX2gwWldtM1piM1pIU1FOVFFxSE9YZkVrMXFTS0xwT2NJLTY5VVZiS2NvRFowaFR6cUNWanR0dXFFZDN6YTFrNXJWc28wbHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b76722f3d207",
-      "title": "Gopie: geen algemeen tekort aan artsen, wel ongelijke spreiding over Suriname - Suriname Herald",
-      "published": "2026-09-07T03:02:38+00:00",
-      "summary": "Gopie: geen algemeen tekort aan artsen, wel ongelijke spreiding over Suriname&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEhjV25yWmdxczkzMm93eEZPWngyOThkcVBHQ0ZPMnJaZXZyMkV4Y1NzcVA4ZHdxU2hHRDFkYmpOT3FXcmVqQ3pwaEo4LWRQMVVfbzhfUDkzUkRTNXNIUVhtcjVYVlV1c0dsdEwyMGZfT1FfUkhQZjRnbU1jekJ3T0g4alpJejRHU3hVY2xZdUJuUUszTnRQamxlSWNvY0pfcTNmeV9na1JCdG5zTHlxYW9mX0sxRTlPUHNkZ2l3?oc=5"
         }
       ]
     }

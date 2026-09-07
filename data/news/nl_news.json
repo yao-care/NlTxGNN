@@ -1,16 +1,28 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-07T02:43:56.061654+00:00",
+  "fetched_at": "2026-09-07T11:29:33.023966+00:00",
   "count": 7,
   "news": [
     {
-      "id": "f4eeaa1ca6b4",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - nos.nl",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;nos.nlGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend res",
+      "id": "4c9a2f5feabb",
+      "title": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen' - EenVandaag",
+      "published": "2026-09-06T05:07:54+00:00",
+      "summary": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlArtsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaag'Letterlijk een ondergeschoven kindje': artsen willen betere nazorg bij miskraam&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
-          "name": "nos.nl",
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0JXbDBuT1l3cl9HMlhXOGhrNGkzUVdWeVpGYWZoV2RxempLXzFXT0lNWGJQUnZNczE4TVJXQ0NGU2k3bVlpZGQzcFRsOFJsUWdCMnhGWktEbEIweU1TTkJMT3h3TXZBQ0NxOVlGc0oyem05MDRFb3R6TC1DWjAxRXU3TXpZUDhHVDlFallDajVSOWhqZ3dQanl0UkNIckVSTFlUNlk4dkZoREl2RHRjdXl1MjRJSEJwS2RzWkJRT1pGczQyS1pCYVZVdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;haarlemsdagblad.nlEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatoris",
+      "sources": [
+        {
+          "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
@@ -24,18 +36,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtpQ1Y3a1cyYWZFVFg1VHN6d1g5a2NSdWpvU3ZFN0NxV25tcTN6UkY5bXVueHRmSENxTVFtLXdlcmhiMEZUZUZqV3E5eHZ3ellVREl1WGdmMUJicWFqMWJZa1V0SDk1MER3bndaYUtxVEZHVG5WeDV6UDAwalROSnR0UHRQZlBGZDByT21QOW0yMmxjWmF6UllKMWJvNnU2ZzNqLXYyLWVmdjdVdnVGajJ4MHlyLU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a861e42e0299",
-      "title": "Stof uit paddo’s lijkt gevreesde zenuwpijn na chemokuur te remmen - de Volkskrant",
-      "published": "2026-09-05T13:43:00+00:00",
-      "summary": "Stof uit paddo’s lijkt gevreesde zenuwpijn na chemokuur te remmen&nbsp;&nbsp;de VolkskrantPsilocybine kan zenuwpijn door chemotherapie verminderen&nbsp;&nbsp;Newsmonkey -",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUpEZzZTcVpnSHE3Z0FuME5fZ3Vzb3ZudmU2RFVZVnhBYmtwX2hXMW83d2RFTlRxNlJ4cEs5NFNEY2xxbzlfUXRqdGFVTGhVX3MzN3dsQ1Q0SWZtWEQwSEk5dW1nRWtaNXVscktldmVOX2swLTZwalpOSUhSRHo3YzZfODlMakNWcXZ6d3RnbkdrTXZOaHN1R2hNRjFPX2Rad2ExQzNxOXduWk83VU4tTVF3?oc=5"
         }
       ]
     },
@@ -54,7 +54,7 @@
     {
       "id": "ba23fdabad7f",
       "title": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek - Runner's World Nederland",
-      "published": "2026-09-05T11:03:44+00:00",
+      "published": "2026-09-05T15:58:38+00:00",
       "summary": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek&nbsp;&nbsp;Runner's World Nederland",
       "sources": [
         {
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "1b964e2c8aeb",
-      "title": "Moeder Melissa (29) leeft met een zeldzame ziekte: ‘De kinderwagen gebruik ik als rollator’ - Kek Mama",
-      "published": "2026-09-05T14:10:42+00:00",
-      "summary": "Moeder Melissa (29) leeft met een zeldzame ziekte: ‘De kinderwagen gebruik ik als rollator’&nbsp;&nbsp;Kek Mama",
+      "id": "b76722f3d207",
+      "title": "Gopie: geen algemeen tekort aan artsen, wel ongelijke spreiding over Suriname - Suriname Herald",
+      "published": "2026-09-07T03:02:38+00:00",
+      "summary": "Gopie: geen algemeen tekort aan artsen, wel ongelijke spreiding over Suriname&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
-          "name": "Kek Mama",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWW4zd1ExNUduMjRDTUNzZ0ZkWTJOSkQ3YTF0aldCYWFEaXFzMlRZLUJVelAxYUNneEFJbkN0RlFzLVI4UU5BQy1GNkxtNUVaV0lnV00xYm1SRmdPbkduZV9xRUJzeHJ1QWFKcHdFWmJIV3c4YnNZYlN1LWdYQ3huSVdB?oc=5"
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEhjV25yWmdxczkzMm93eEZPWngyOThkcVBHQ0ZPMnJaZXZyMkV4Y1NzcVA4ZHdxU2hHRDFkYmpOT3FXcmVqQ3pwaEo4LWRQMVVfbzhfUDkzUkRTNXNIUVhtcjVYVlV1c0dsdEwyMGZfT1FfUkhQZjRnbU1jekJ3T0g4alpJejRHU3hVY2xZdUJuUUszTnRQamxlSWNvY0pfcTNmeV9na1JCdG5zTHlxYW9mX0sxRTlPUHNkZ2l3?oc=5"
         }
       ]
     }

@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-06T19:56:59.292941+00:00",
+  "fetched_at": "2026-09-07T02:43:56.061654+00:00",
   "count": 7,
   "news": [
+    {
+      "id": "f4eeaa1ca6b4",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - nos.nl",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;nos.nlGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend res",
+      "sources": [
+        {
+          "name": "nos.nl",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+        }
+      ]
+    },
     {
       "id": "11f9a01155bd",
       "title": "Toekomstdroom van Lilian en Joris viel weg door kanker: 'Dat verdriet dragen we samen' - RTL.nl",
@@ -12,18 +24,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtpQ1Y3a1cyYWZFVFg1VHN6d1g5a2NSdWpvU3ZFN0NxV25tcTN6UkY5bXVueHRmSENxTVFtLXdlcmhiMEZUZUZqV3E5eHZ3ellVREl1WGdmMUJicWFqMWJZa1V0SDk1MER3bndaYUtxVEZHVG5WeDV6UDAwalROSnR0UHRQZlBGZDByT21QOW0yMmxjWmF6UllKMWJvNnU2ZzNqLXYyLWVmdjdVdnVGajJ4MHlyLU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c191540b589a",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladVK zegt extra 50 miljoen pond toe voor indamming ebola-uitbraak in Congo&nbsp;&nbsp;MarketScreener NederlandEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend respon",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
     },

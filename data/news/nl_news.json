@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-07T11:29:33.023966+00:00",
+  "fetched_at": "2026-09-07T17:10:12.403628+00:00",
   "count": 7,
   "news": [
     {
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "c191540b589a",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;haarlemsdagblad.nlEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatoris",
+      "id": "636831f19412",
+      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - trouw.nl",
+      "published": "2026-09-04T20:00:18+00:00",
+      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;trouw.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
+          "name": "trouw.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3990e5d80761",
+      "title": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-09-06T12:00:00+00:00",
+      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;haarlemsdagblad.nlEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatoris",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObnVvcXNWQUVSU0JwSWNOcmNnQ0NYVXRLTGFOTEw3cEtOemlxbkNqY3JvNnVhVWdUVENJc3hSSVg0cFJBS2paWVBHU2I0UzkwdGpLUU4wVzBjQVgwYWcxZTd0MEcyZ0c2SEc4ZC1sMzU1Q2NuVUtwSjdkYzZnaThDMTVfQjlJLVBKV3I5R1NVS2pDV3ctbU5hc1FGZ1h4SGxNT1VMY2dTdUpaUnBjc0NaUW9uUHJwS0M3T1p6VGFyWExVb0lFWS1GWFNWWkhxdTBnWGpiQkd3UGl4YnpwV0twQkREYmZCZGY2Vm5LQzBGbUcydjg?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtpQ1Y3a1cyYWZFVFg1VHN6d1g5a2NSdWpvU3ZFN0NxV25tcTN6UkY5bXVueHRmSENxTVFtLXdlcmhiMEZUZUZqV3E5eHZ3ellVREl1WGdmMUJicWFqMWJZa1V0SDk1MER3bndaYUtxVEZHVG5WeDV6UDAwalROSnR0UHRQZlBGZDByT21QOW0yMmxjWmF6UllKMWJvNnU2ZzNqLXYyLWVmdjdVdnVGajJ4MHlyLU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "97e7b25d7b9e",
-      "title": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening - Trouw",
-      "published": "2026-09-04T20:00:18+00:00",
-      "summary": "Zorgen over de samenleving? Dan heb je een hogere kans op een psychische aandoening&nbsp;&nbsp;TrouwMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzhoLXBFYk5jWGxub2tNa1FSeU1uNnZkSk1fSlNjZzI5TmNhdkVseFJPcGxEVWxLOTVlX3R5WWhaaXRwZWhNei04V1d6R2VLUzVRRmVkZkd1azczTkN5bW5DQ3ExSVdoUVRSUzFJR1ZHd1VkSE5ER1Npd19LSGxMNUxpYU03Z19Lbk1hZ3haUG9leGt2Y2h1eGRZQzlnT2R6WFJ3MjVyOXdibzNCVWRYUnZac0UxaVNybldiWXYzUzRydw?oc=5"
         }
       ]
     },

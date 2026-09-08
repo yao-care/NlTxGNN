@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-08T10:31:10.725151+00:00",
+  "fetched_at": "2026-09-08T15:55:52.461912+00:00",
   "count": 7,
   "news": [
     {
-      "id": "2c974c0848b3",
-      "title": "Wie wil hier straks onder een klamboe slapen? - de Volkskrant",
-      "published": "2026-09-06T13:55:00+00:00",
-      "summary": "Wie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;de VolkskrantMoeten we ons in Nederland zorgen maken over het westnijlvirus?&nbsp;&nbsp;NOSMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van NederlandWestnijlvirus: GGD geeft tips om muggenbeten te voorkomen&nbsp;&nbsp;amersfoort.nieuws.nlKosteloze monitoring westnijlvirus stopt per direct&nbsp;&nbsp;nieuweoogst.nl",
+      "id": "ac04ac95dde2",
+      "title": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’ - AD.nl",
+      "published": "2026-09-01T17:01:00+00:00",
+      "summary": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlMoeten we ons in Nederland zorgen maken over het westnijlvirus?&nbsp;&nbsp;NOSWie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;de VolkskrantMeer dan duizend Europeanen al besmet met westnijlvirus&nbsp;&nbsp;AD.nlMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjNvODdwSFRxRHlWVmpUV2dZUW5MUHRrQTVQV1JMSHZfakNtMER6TnhYR2VLOEdmQXRzYU9UY3I2X1JxUlVUVDBMa0tHd3FJVUZKbG9GMmZYM3pOWnd1NkdGVXBBZk1RNjI3VlV1R2p6bF9uamNaWEM2YjdHLXNaV3AxQ24xZ1B3UnhSQVkwMjEwaU5PZHhBRXIwN3U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "800278d53534",
-      "title": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen' - EenVandaag",
-      "published": "2026-09-05T12:17:00+00:00",
-      "summary": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlShirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaag",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpNQTJTcUtNR3Y2cnZpQjdHQzhzbVhvNWdzODZ1RklCYUlKdDZRSG9JbjRwZ1dMVUJET1dMSnZxeFdielZXcE56ZWwtWDJBdHE2Y2piQkl5NlNybkJPa0Z3TWE3YVNCUGlnVVMtMXdVQ20yV0dnSUpPX0swbDUzWGR3ZjFkTk5fOG8tUThXTjU5Zm84YUVFUVVtaEY1VEJKVG5JX2YyXzZydzUxY3lGZkVCUVRXTjRzOVdXaW1fZXIxckJLSHY0TzJpNjRtQnRvVENCTw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREJjbS00ZWVDTXFyUzVXS1hrVWJ5ZkdYaFA2b2l2N3p5bFlYbk1BeFBPOENzcUlVdWFVRE9Zb2Z1aDk0ZFRwNDFpa0FTVVpzbEd0MjJ4NkdrazBNTDFxMTZReVVOMklhc1hwcjhuU2RrbUYxSDJqVW5lOFVlNWEzS01YdllkVk8zNmxaLUltODJ1S3FGRkdDVFduVXg?oc=5"
         }
       ]
     },
@@ -31,7 +19,7 @@
       "id": "c191540b589a",
       "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
       "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatorisch DagbladWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;ZeelandN",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: personeelstekort en financieringsproblemen belemmeren ebolabestrijding in Congo&nbsp;&nbsp;MarketScreener NederlandNauwe samenwerking zorgt voor een sterkere respons: gez&nbsp;&nbsp;itg.beWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarle",
       "sources": [
         {
           "name": "NOS",
@@ -43,7 +31,7 @@
       "id": "3e8ebe816c46",
       "title": "Fins onderzoek: langslapers gaan eerder met pensioen - bnr.nl",
       "published": "2026-09-07T17:04:28+00:00",
-      "summary": "Fins onderzoek: langslapers gaan eerder met pensioen&nbsp;&nbsp;bnr.nlZorgt te weinig slapen voor snellere veroudering? Een expert legt de connectie uit&nbsp;&nbsp;ELLE",
+      "summary": "Fins onderzoek: langslapers gaan eerder met pensioen&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
           "name": "bnr.nl",
@@ -52,9 +40,33 @@
       ]
     },
     {
+      "id": "032cc7b51f2f",
+      "title": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen' - eenvandaag.avrotros.nl",
+      "published": "2026-09-05T12:17:00+00:00",
+      "summary": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;eenvandaag.avrotros.nlArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlShirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;eenvandaag.avrotros.nl",
+      "sources": [
+        {
+          "name": "eenvandaag.avrotros.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpNQTJTcUtNR3Y2cnZpQjdHQzhzbVhvNWdzODZ1RklCYUlKdDZRSG9JbjRwZ1dMVUJET1dMSnZxeFdielZXcE56ZWwtWDJBdHE2Y2piQkl5NlNybkJPa0Z3TWE3YVNCUGlnVVMtMXdVQ20yV0dnSUpPX0swbDUzWGR3ZjFkTk5fOG8tUThXTjU5Zm84YUVFUVVtaEY1VEJKVG5JX2YyXzZydzUxY3lGZkVCUVRXTjRzOVdXaW1fZXIxckJLSHY0TzJpNjRtQnRvVENCTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ea2c815dc26",
+      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - welingelichtekringen.nl",
+      "published": "2026-09-07T13:34:38+00:00",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;welingelichtekringen.nl",
+      "sources": [
+        {
+          "name": "welingelichtekringen.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6610979c65d1",
       "title": "Trimbos ziet opvallend verband: wie veel maatschappelijke zorgen heeft, heeft vaker een psychische aandoening - Metronieuws.nl",
-      "published": "2026-09-06T16:06:00+00:00",
+      "published": "2026-09-07T13:08:20+00:00",
       "summary": "Trimbos ziet opvallend verband: wie veel maatschappelijke zorgen heeft, heeft vaker een psychische aandoening&nbsp;&nbsp;Metronieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -72,18 +84,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtpQ1Y3a1cyYWZFVFg1VHN6d1g5a2NSdWpvU3ZFN0NxV25tcTN6UkY5bXVueHRmSENxTVFtLXdlcmhiMEZUZUZqV3E5eHZ3ellVREl1WGdmMUJicWFqMWJZa1V0SDk1MER3bndaYUtxVEZHVG5WeDV6UDAwalROSnR0UHRQZlBGZDByT21QOW0yMmxjWmF6UllKMWJvNnU2ZzNqLXYyLWVmdjdVdnVGajJ4MHlyLU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "096be835546e",
-      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
-      "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
         }
       ]
     }

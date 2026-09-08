@@ -1,24 +1,48 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-08T02:55:11.461153+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-08T10:31:10.725151+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "4c9a2f5feabb",
-      "title": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen' - EenVandaag",
-      "published": "2026-09-06T05:07:54+00:00",
-      "summary": "Shirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlArtsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaag",
+      "id": "2c974c0848b3",
+      "title": "Wie wil hier straks onder een klamboe slapen? - de Volkskrant",
+      "published": "2026-09-06T13:55:00+00:00",
+      "summary": "Wie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;de VolkskrantMoeten we ons in Nederland zorgen maken over het westnijlvirus?&nbsp;&nbsp;NOSMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van NederlandWestnijlvirus: GGD geeft tips om muggenbeten te voorkomen&nbsp;&nbsp;amersfoort.nieuws.nlKosteloze monitoring westnijlvirus stopt per direct&nbsp;&nbsp;nieuweoogst.nl",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjNvODdwSFRxRHlWVmpUV2dZUW5MUHRrQTVQV1JMSHZfakNtMER6TnhYR2VLOEdmQXRzYU9UY3I2X1JxUlVUVDBMa0tHd3FJVUZKbG9GMmZYM3pOWnd1NkdGVXBBZk1RNjI3VlV1R2p6bF9uamNaWEM2YjdHLXNaV3AxQ24xZ1B3UnhSQVkwMjEwaU5PZHhBRXIwN3U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "800278d53534",
+      "title": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen' - EenVandaag",
+      "published": "2026-09-05T12:17:00+00:00",
+      "summary": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;EenVandaagArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlShirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
           "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0JXbDBuT1l3cl9HMlhXOGhrNGkzUVdWeVpGYWZoV2RxempLXzFXT0lNWGJQUnZNczE4TVJXQ0NGU2k3bVlpZGQzcFRsOFJsUWdCMnhGWktEbEIweU1TTkJMT3h3TXZBQ0NxOVlGc0oyem05MDRFb3R6TC1DWjAxRXU3TXpZUDhHVDlFallDajVSOWhqZ3dQanl0UkNIckVSTFlUNlk4dkZoREl2RHRjdXl1MjRJSEJwS2RzWkJRT1pGczQyS1pCYVZVdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpNQTJTcUtNR3Y2cnZpQjdHQzhzbVhvNWdzODZ1RklCYUlKdDZRSG9JbjRwZ1dMVUJET1dMSnZxeFdielZXcE56ZWwtWDJBdHE2Y2piQkl5NlNybkJPa0Z3TWE3YVNCUGlnVVMtMXdVQ20yV0dnSUpPX0swbDUzWGR3ZjFkTk5fOG8tUThXTjU5Zm84YUVFUVVtaEY1VEJKVG5JX2YyXzZydzUxY3lGZkVCUVRXTjRzOVdXaW1fZXIxckJLSHY0TzJpNjRtQnRvVENCTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c191540b589a",
+      "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
+      "published": "2026-09-02T08:53:29+00:00",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatorisch DagbladWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;ZeelandN",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
         }
       ]
     },
     {
       "id": "3e8ebe816c46",
       "title": "Fins onderzoek: langslapers gaan eerder met pensioen - bnr.nl",
-      "published": "2026-09-07T17:04:00+00:00",
+      "published": "2026-09-07T17:04:28+00:00",
       "summary": "Fins onderzoek: langslapers gaan eerder met pensioen&nbsp;&nbsp;bnr.nlZorgt te weinig slapen voor snellere veroudering? Een expert legt de connectie uit&nbsp;&nbsp;ELLE",
       "sources": [
         {
@@ -28,14 +52,14 @@
       ]
     },
     {
-      "id": "3990e5d80761",
-      "title": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-09-06T12:00:00+00:00",
-      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;rd.nlWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;ZeelandNet, startpagina v",
+      "id": "6610979c65d1",
+      "title": "Trimbos ziet opvallend verband: wie veel maatschappelijke zorgen heeft, heeft vaker een psychische aandoening - Metronieuws.nl",
+      "published": "2026-09-06T16:06:00+00:00",
+      "summary": "Trimbos ziet opvallend verband: wie veel maatschappelijke zorgen heeft, heeft vaker een psychische aandoening&nbsp;&nbsp;Metronieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObnVvcXNWQUVSU0JwSWNOcmNnQ0NYVXRLTGFOTEw3cEtOemlxbkNqY3JvNnVhVWdUVENJc3hSSVg0cFJBS2paWVBHU2I0UzkwdGpLUU4wVzBjQVgwYWcxZTd0MEcyZ0c2SEc4ZC1sMzU1Q2NuVUtwSjdkYzZnaThDMTVfQjlJLVBKV3I5R1NVS2pDV3ctbU5hc1FGZ1h4SGxNT1VMY2dTdUpaUnBjc0NaUW9uUHJwS0M3T1p6VGFyWExVb0lFWS1GWFNWWkhxdTBnWGpiQkd3UGl4YnpwV0twQkREYmZCZGY2Vm5LQzBGbUcydjg?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdktLYTJKclc3SzdoQWozSHJyOXZuUGJyYTBHSUc5dXpXQ1ZPTnNGLUhydGVibEtpNWFrWFlpckl2UWZpWFBndW9ielhUT21kZ0tJQkc1RFotQzZmUElmRS1MNnBKQ2pCNVBpTGRTdjJPSzVLOHI4ZGpnVjRvUndDaVRJMHlyTThiMmE3VUdwQVliNm5tS2dtS09SYXBOektfRUg5Z3g1d1JKS3J5ZklkWXZjYlpLVnFpcmU5MVVvbllrUXJkb2NfdFhSX3BHbWc?oc=5"
         }
       ]
     },
@@ -60,18 +84,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba23fdabad7f",
-      "title": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek - Runner's World Nederland",
-      "published": "2026-09-05T15:58:38+00:00",
-      "summary": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek&nbsp;&nbsp;Runner's World Nederland",
-      "sources": [
-        {
-          "name": "Runner's World Nederland",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVml1a19ZekVGMW1KZ2c2ajhTcVhWLXhZWFFOc2xqTTdTWnY4Umw2eGRxcHBwVV9tYzI3eFpVRDBKS2xaMFBPM1R2bTdEVnNZekhYUHBENGNUODJxYkRqTFBmbHBHYXU4VGd5NC1mcTYwNHlhSkd5U0lucHRLc2xhMXd3OU1zMXR5ejY3YUpNbUt5UThtXzk3bWNBazkwS3prU2ZJS0J3YTRNZw?oc=5"
         }
       ]
     }

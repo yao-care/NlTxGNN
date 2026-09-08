@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-07T21:04:02.433836+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-08T02:55:11.461153+00:00",
+  "count": 6,
   "news": [
     {
       "id": "4c9a2f5feabb",
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "096be835546e",
-      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
-      "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3990e5d80761",
       "title": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-09-06T12:00:00+00:00",
-      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems DagbladEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;Reformatorisch",
+      "summary": "Goede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRuim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSEbola-uitbraak: Democratische Republiek Congo zet zes maanden durend responsplan in werking.&nbsp;&nbsp;Vietnam.vnCongo, precies de plek waar ik nu moet zijn&nbsp;&nbsp;rd.nlWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;ZeelandNet, startpagina v",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "096be835546e",
+      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
+      "published": "2026-09-07T13:34:38+00:00",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ba23fdabad7f",
       "title": "Het sporthart kan artsen misleiden, blijkt uit nieuw onderzoek - Runner's World Nederland",
       "published": "2026-09-05T15:58:38+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "Runner's World Nederland",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVml1a19ZekVGMW1KZ2c2ajhTcVhWLXhZWFFOc2xqTTdTWnY4Umw2eGRxcHBwVV9tYzI3eFpVRDBKS2xaMFBPM1R2bTdEVnNZekhYUHBENGNUODJxYkRqTFBmbHBHYXU4VGd5NC1mcTYwNHlhSkd5U0lucHRLc2xhMXd3OU1zMXR5ejY3YUpNbUt5UThtXzk3bWNBazkwS3prU2ZJS0J3YTRNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86a602181788",
-      "title": "Genetische netwerken leggen nieuwe verbanden bloot tussen vermoeidheid in verschillende ziekten - Scientias.nl",
-      "published": "2026-09-05T14:00:37+00:00",
-      "summary": "Genetische netwerken leggen nieuwe verbanden bloot tussen vermoeidheid in verschillende ziekten&nbsp;&nbsp;Scientias.nl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ05SWWxScHlEOUZYU0N2VVV4OWtvNnU4WjFnbFpCNWg4RGZRdU1UbThGRVEzMmg1aktMX193ckZ4Y0pQb0RtX1Y4bXBuSXZYZW5zT3RWdkU2MnBXajdwZ0xsMXJjZWd3R1pNWTdONDZPZ1NzaE5XMi1iQlE5T3VwUXpPLVV2Yzc3MFJzX2gwWldtM1piM1pIU1FOVFFxSE9YZkVrMXFTS0xwT2NJLTY5VVZiS2NvRFowaFR6cUNWanR0dXFFZDN6YTFrNXJWc28wbHc?oc=5"
         }
       ]
     }

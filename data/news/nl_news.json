@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-08T15:55:52.461912+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-08T20:40:01.005080+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "ac04ac95dde2",
-      "title": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’ - AD.nl",
-      "published": "2026-09-01T17:01:00+00:00",
-      "summary": "‘Vrouw (39) uit Amstelveen besmet en ziek door westnijlvirus’&nbsp;&nbsp;AD.nlMoeten we ons in Nederland zorgen maken over het westnijlvirus?&nbsp;&nbsp;NOSWie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;de VolkskrantMeer dan duizend Europeanen al besmet met westnijlvirus&nbsp;&nbsp;AD.nlMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van Nederland",
+      "id": "f03b3498f894",
+      "title": "Negen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden - De Telegraaf",
+      "published": "2026-09-03T11:48:38+00:00",
+      "summary": "Negen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafMoeten we ons in Nederland zorgen maken over het westnijlvirus?&nbsp;&nbsp;NOSWie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;de VolkskrantMeer dan duizend Europeanen al besmet met westnijlvirus&nbsp;&nbsp;ad.nlMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREJjbS00ZWVDTXFyUzVXS1hrVWJ5ZkdYaFA2b2l2N3p5bFlYbk1BeFBPOENzcUlVdWFVRE9Zb2Z1aDk0ZFRwNDFpa0FTVVpzbEd0MjJ4NkdrazBNTDFxMTZReVVOMklhc1hwcjhuU2RrbUYxSDJqVW5lOFVlNWEzS01YdllkVk8zNmxaLUltODJ1S3FGRkdDVFduVXg?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2FxR09SaW1iaDhPZTFhVTlQajJGRGVPUUFnWTNuVzhyWXZvdE54eEczNEhDZGRXYndRdG5pN1AwdE0tUW5TLS1ZS1VPT1p5UWJmaFo3NTFDWExManNnTVJ5akd5S0dUUHBfNWdWVm1lRXF4VDNCWXNKa0V2cVRPODl3NFhnRGRNdlVGUEl6eUY5Y1k3X0xlbUJYb3pxNFB0bzZVWVpjT0VYZDZGVUJMaGthSkRUODhVNWRqdk42OVR2OEprTDE2MzhYYUM?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "c191540b589a",
       "title": "Ruim 3000 mensen overleden aan ebola in Congo - NOS",
       "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: personeelstekort en financieringsproblemen belemmeren ebolabestrijding in Congo&nbsp;&nbsp;MarketScreener NederlandNauwe samenwerking zorgt voor een sterkere respons: gez&nbsp;&nbsp;itg.beWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarle",
+      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;NOSGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWHO: personeelstekort en financieringsproblemen belemmeren ebolabestrijding in Congo&nbsp;&nbsp;MarketScreener NederlandNauwe samenwerking zorgt voor een sterkere respons: gez&nbsp;&nbsp;Tropische GeneeskundeWHO: opschalen ebolabestrijding in DRC nodig&nb",
       "sources": [
         {
           "name": "NOS",
@@ -30,36 +30,12 @@
     {
       "id": "3e8ebe816c46",
       "title": "Fins onderzoek: langslapers gaan eerder met pensioen - bnr.nl",
-      "published": "2026-09-07T17:04:28+00:00",
+      "published": "2026-09-07T17:04:00+00:00",
       "summary": "Fins onderzoek: langslapers gaan eerder met pensioen&nbsp;&nbsp;bnr.nl",
       "sources": [
         {
           "name": "bnr.nl",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0YxS2p4MVp4NDVzY1M3YXItbXkzTnZsekhZQTNrR2hqSnZleWFEUFI1SHlfNHdvSlFvSXp4U2N6Q3huRFVXRzBablg0QS1QWXhzQUU5VGRpUjJuOUdyMlh1QmtvZGhITzlyWlZzbjExQnBxX0xoYkdNOEtKWU1yNzAzbV91RjFIUDRhaTdqRkdvODc0VEozR0c5R2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "032cc7b51f2f",
-      "title": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen' - eenvandaag.avrotros.nl",
-      "published": "2026-09-05T12:17:00+00:00",
-      "summary": "Artsen willen betere nazorg bij miskraam: 'Ongelofelijk verdrietig om je kindje te verliezen'&nbsp;&nbsp;eenvandaag.avrotros.nlArtsen willen betere nazorg na miskraam: ‘1 op de 5 heeft maanden later nog klachten’&nbsp;&nbsp;Metronieuws.nlShirin (41) kreeg drie miskramen, maar nazorg was er niet: 'Je draagt het verlies alleen'&nbsp;&nbsp;eenvandaag.avrotros.nl",
-      "sources": [
-        {
-          "name": "eenvandaag.avrotros.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpNQTJTcUtNR3Y2cnZpQjdHQzhzbVhvNWdzODZ1RklCYUlKdDZRSG9JbjRwZ1dMVUJET1dMSnZxeFdielZXcE56ZWwtWDJBdHE2Y2piQkl5NlNybkJPa0Z3TWE3YVNCUGlnVVMtMXdVQ20yV0dnSUpPX0swbDUzWGR3ZjFkTk5fOG8tUThXTjU5Zm84YUVFUVVtaEY1VEJKVG5JX2YyXzZydzUxY3lGZkVCUVRXTjRzOVdXaW1fZXIxckJLSHY0TzJpNjRtQnRvVENCTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ea2c815dc26",
-      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - welingelichtekringen.nl",
-      "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;welingelichtekringen.nl",
-      "sources": [
-        {
-          "name": "welingelichtekringen.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
         }
       ]
     },
@@ -72,6 +48,18 @@
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdktLYTJKclc3SzdoQWozSHJyOXZuUGJyYTBHSUc5dXpXQ1ZPTnNGLUhydGVibEtpNWFrWFlpckl2UWZpWFBndW9ielhUT21kZ0tJQkc1RFotQzZmUElmRS1MNnBKQ2pCNVBpTGRTdjJPSzVLOHI4ZGpnVjRvUndDaVRJMHlyTThiMmE3VUdwQVliNm5tS2dtS09SYXBOektfRUg5Z3g1d1JKS3J5ZklkWXZjYlpLVnFpcmU5MVVvbllrUXJkb2NfdFhSX3BHbWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ea2c815dc26",
+      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - welingelichtekringen.nl",
+      "published": "2026-09-07T13:34:38+00:00",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;welingelichtekringen.nl",
+      "sources": [
+        {
+          "name": "welingelichtekringen.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
         }
       ]
     },

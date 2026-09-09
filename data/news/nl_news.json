@@ -1,44 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-09T02:55:43.027476+00:00",
-  "count": 5,
+  "fetched_at": "2026-09-09T10:42:36.210360+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "f03b3498f894",
-      "title": "Negen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden - De Telegraaf",
-      "published": "2026-09-03T11:48:38+00:00",
-      "summary": "Negen besmettingen met westnijlvirus in Nederland: eerder al een persoon overleden&nbsp;&nbsp;De TelegraafWestnijlvirus rukt verder op: meer dan duizend besmettingen binnen Europa&nbsp;&nbsp;nos.nlWie wil hier straks onder een klamboe slapen?&nbsp;&nbsp;volkskrant.nlMinister Hermans over westnijlvirus: 'Bescherm jezelf tegen muggen'&nbsp;&nbsp;Hart van NederlandWestnijlvirus: GGD geeft tips om muggenbeten te voorkomen&nbsp;&nbsp;Nieuws.nl",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2FxR09SaW1iaDhPZTFhVTlQajJGRGVPUUFnWTNuVzhyWXZvdE54eEczNEhDZGRXYndRdG5pN1AwdE0tUW5TLS1ZS1VPT1p5UWJmaFo3NTFDWExManNnTVJ5akd5S0dUUHBfNWdWVm1lRXF4VDNCWXNKa0V2cVRPODl3NFhnRGRNdlVGUEl6eUY5Y1k3X0xlbUJYb3pxNFB0bzZVWVpjT0VYZDZGVUJMaGthSkRUODhVNWRqdk42OVR2OEprTDE2MzhYYUM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4eeaa1ca6b4",
-      "title": "Ruim 3000 mensen overleden aan ebola in Congo - nos.nl",
-      "published": "2026-09-02T08:53:29+00:00",
-      "summary": "Ruim 3000 mensen overleden aan ebola in Congo&nbsp;&nbsp;nos.nlGoede zorg, tests, vaccins: de bestrijding van ebola kan niet zonder. Maar het begint met het overwinnen van wantrouwen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental door ebola in Congo stijgt naar 3.226&nbsp;&nbsp;MAROKKO.nlNauwe samenwerking zorgt voor een sterkere respons: gez&nbsp;&nbsp;Tropische GeneeskundeWHO: opschalen ebolabestrijding in DRC nodig&nbsp;&nbsp;Haarlems Dagblad",
-      "sources": [
-        {
-          "name": "nos.nl",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdVb0ZqM05EMFB5RU1zR2xPSTNTaUhZNFZHOGNaRUFndFFvRFZPX29xUUpZeVRmTUo1WnNZTWwyYnFlNDF3QUVIZ1hBekwwa2laM3FKcnBiaUZSUTFDaERIWGNKZnlkdDFXTEltaV9yd0pIT3ByclZ2QkVtTmYtRjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11f9a01155bd",
-      "title": "Toekomstdroom van Lilian en Joris viel weg door kanker: 'Dat verdriet dragen we samen' - RTL.nl",
-      "published": "2026-09-06T06:23:36+00:00",
-      "summary": "Toekomstdroom van Lilian en Joris viel weg door kanker: 'Dat verdriet dragen we samen'&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtpQ1Y3a1cyYWZFVFg1VHN6d1g5a2NSdWpvU3ZFN0NxV25tcTN6UkY5bXVueHRmSENxTVFtLXdlcmhiMEZUZUZqV3E5eHZ3ellVREl1WGdmMUJicWFqMWJZa1V0SDk1MER3bndaYUtxVEZHVG5WeDV6UDAwalROSnR0UHRQZlBGZDByT21QOW0yMmxjWmF6UllKMWJvNnU2ZzNqLXYyLWVmdjdVdnVGajJ4MHlyLU0?oc=5"
-        }
-      ]
-    },
     {
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
@@ -52,13 +16,13 @@
       ]
     },
     {
-      "id": "eed3b4c670d8",
-      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - medischcontact",
+      "id": "768a1b23b884",
+      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - Medisch Contact",
       "published": "2026-09-08T06:00:00+00:00",
-      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;medischcontact",
+      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;Medisch Contact",
       "sources": [
         {
-          "name": "medischcontact",
+          "name": "Medisch Contact",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUdFSU81bUxySzZycjhtVFQtWi1MU0VnaERaMW5iX2k5dDFyZ0RINkpwUzhkeUxpZjJiMGt6VUNhRnlZYWluTERMb0xFVXRqZlRuemtyT2NxbmRFT3pXdkdTbDBqcWhROHpJOXJ1Zm15WlZweUgwVXI5NWw5empmdEJCS0MzVWpNeFJYUTVYMVlVSHpuTThDMVhWcEFnbjA1TUR5S1dUbEVjVEJCalNUTmxyWQ?oc=5"
         }
       ]

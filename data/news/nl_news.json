@@ -1,16 +1,16 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-10T15:46:19.655717+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-10T20:23:00.731012+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "b853cb2b73a5",
-      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - maxvandaag.nl",
+      "id": "deb543ec3bb8",
+      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
       "published": "2026-09-10T04:15:12+00:00",
-      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;maxvandaag.nl",
+      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;MAX Vandaag",
       "sources": [
         {
-          "name": "maxvandaag.nl",
+          "name": "MAX Vandaag",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJXVE9HNFFmbzRsWnRlSDZyd3dMb2dwMkRPUTlBVFpDZTlaQ01paTRZZVFBN3ZFYm53cnJyX1ltTk53dm9KZ09JWnpuendtSHlxR1JHOHZ6NjRubm5DdERJb0VzM1pGNk5FU3lvQlBNN2pXSUlXQndleEJsTmdKSnRlZTlQMmg2bEJyNlZKQmRDY2czTEl0NHVibXZKQWZrQmRxOVpycC1RMktiMy0tQmlrNG1xRVJlbjFpNm5QX19fd3dnMjMxNlFMQ08xTWZQVlV3dHduMXVmR1dnOXdpSUVnWGVUS19wRG92NkZONlBFZk5oM2RfWnpFZFJtQ053d0xOUjktNnAzSEZPeE42eHk4LUwtbU5z?oc=5"
         }
       ]
@@ -24,18 +24,6 @@
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "768a1b23b884",
-      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - Medisch Contact",
-      "published": "2026-09-08T06:00:00+00:00",
-      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;Medisch Contact",
-      "sources": [
-        {
-          "name": "Medisch Contact",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUdFSU81bUxySzZycjhtVFQtWi1MU0VnaERaMW5iX2k5dDFyZ0RINkpwUzhkeUxpZjJiMGt6VUNhRnlZYWluTERMb0xFVXRqZlRuemtyT2NxbmRFT3pXdkdTbDBqcWhROHpJOXJ1Zm15WlZweUgwVXI5NWw5empmdEJCS0MzVWpNeFJYUTVYMVlVSHpuTThDMVhWcEFnbjA1TUR5S1dUbEVjVEJCalNUTmxyWQ?oc=5"
         }
       ]
     }

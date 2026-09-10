@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-09T20:20:47.867180+00:00",
-  "count": 2,
+  "fetched_at": "2026-09-10T02:56:18.258483+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "a40ae51668f8",
+      "title": "Veel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn - bnr.nl",
+      "published": "2026-09-09T18:42:43+00:00",
+      "summary": "Veel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVhXc2o0Z2psMkFIcW8yRWk1bTlBcElES19sbkJwQy1SOGJiWF9FMFVFMXRHdm90aW5lS0FpZ2M2aV9Jbl9JM05hSnBHdUpMR3FhMzU1OVJUWG5KRGZaSFNFQWpOaGszUGpxSFRSQVl4QzdpeFhDZXZVblRhRzlQQ3VVYlZrMXRoeXN6QU9JYUFpUUVRRldrSUxMTDlfb3BhbVhmTEloZ1lhWE03UTdMWV9DMHlOcWNUTEJsWElrcw?oc=5"
+        }
+      ]
+    },
     {
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Welingelichte Kringen",

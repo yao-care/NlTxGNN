@@ -1,40 +1,52 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-10T02:56:18.258483+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-10T10:32:02.497396+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "a40ae51668f8",
-      "title": "Veel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn - bnr.nl",
-      "published": "2026-09-09T18:42:43+00:00",
-      "summary": "Veel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nl",
+      "id": "deb543ec3bb8",
+      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
+      "published": "2026-09-10T04:15:12+00:00",
+      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;MAX Vandaag",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVhXc2o0Z2psMkFIcW8yRWk1bTlBcElES19sbkJwQy1SOGJiWF9FMFVFMXRHdm90aW5lS0FpZ2M2aV9Jbl9JM05hSnBHdUpMR3FhMzU1OVJUWG5KRGZaSFNFQWpOaGszUGpxSFRSQVl4QzdpeFhDZXZVblRhRzlQQ3VVYlZrMXRoeXN6QU9JYUFpUUVRRldrSUxMTDlfb3BhbVhmTEloZ1lhWE03UTdMWV9DMHlOcWNUTEJsWElrcw?oc=5"
+          "name": "MAX Vandaag",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJXVE9HNFFmbzRsWnRlSDZyd3dMb2dwMkRPUTlBVFpDZTlaQ01paTRZZVFBN3ZFYm53cnJyX1ltTk53dm9KZ09JWnpuendtSHlxR1JHOHZ6NjRubm5DdERJb0VzM1pGNk5FU3lvQlBNN2pXSUlXQndleEJsTmdKSnRlZTlQMmg2bEJyNlZKQmRDY2czTEl0NHVibXZKQWZrQmRxOVpycC1RMktiMy0tQmlrNG1xRVJlbjFpNm5QX19fd3dnMjMxNlFMQ08xTWZQVlV3dHduMXVmR1dnOXdpSUVnWGVUS19wRG92NkZONlBFZk5oM2RfWnpFZFJtQ053d0xOUjktNnAzSEZPeE42eHk4LUwtbU5z?oc=5"
         }
       ]
     },
     {
-      "id": "096be835546e",
-      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
+      "id": "4ea2c815dc26",
+      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - welingelichtekringen.nl",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;welingelichtekringen.nlGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
+          "name": "welingelichtekringen.nl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
         }
       ]
     },
     {
-      "id": "768a1b23b884",
-      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - Medisch Contact",
-      "published": "2026-09-08T06:00:00+00:00",
-      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;Medisch Contact",
+      "id": "e4c545cabf28",
+      "title": "Niet te vroeg én niet te laat: dít specifieke uur naar bed gaan is het beste voor je hart - Gezondnu",
+      "published": "2026-09-09T19:00:00+00:00",
+      "summary": "Niet te vroeg én niet te laat: dít specifieke uur naar bed gaan is het beste voor je hart&nbsp;&nbsp;Gezondnu",
       "sources": [
         {
-          "name": "Medisch Contact",
+          "name": "Gezondnu",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRl90VzdkUnpkb1k2RXpuRzJwNlgxRmlmNF9CZ0RNLWk4ZUZCZFNjNFF6Zmo0d2R3ZGlHLU8ycVhQeTQwZGtjcnBCdlVqWU8yQ1NJbXNzN3ZMcHRsTzFqaE5sbm84Sld5ZkxnRmNCdzlsVzBUT3lHajVqRVhaVURQR0JIRGF4b1dQdU1WX1F0NG5QSEI2Q1duTXp3aTlEXzJJTmhmMmhyWjFDU2NZM1U2UjMxNkdYMTI3MjRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3a8b345d24f",
+      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - medischcontact.nl",
+      "published": "2026-09-08T06:00:00+00:00",
+      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;medischcontact.nl",
+      "sources": [
+        {
+          "name": "medischcontact.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUdFSU81bUxySzZycjhtVFQtWi1MU0VnaERaMW5iX2k5dDFyZ0RINkpwUzhkeUxpZjJiMGt6VUNhRnlZYWluTERMb0xFVXRqZlRuemtyT2NxbmRFT3pXdkdTbDBqcWhROHpJOXJ1Zm15WlZweUgwVXI5NWw5empmdEJCS0MzVWpNeFJYUTVYMVlVSHpuTThDMVhWcEFnbjA1TUR5S1dUbEVjVEJCalNUTmxyWQ?oc=5"
         }
       ]

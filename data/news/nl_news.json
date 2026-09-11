@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-11T10:32:38.789171+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-11T15:48:19.565572+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "c5d24cdc2012",
+      "title": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker' - RTL.nl",
+      "published": "2026-09-11T12:17:12+00:00",
+      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlEet je nog veel vlees? Deze soorten worden in enorme studie gelinkt aan meer kans op kanker&nbsp;&nbsp;Welingelichte KringenKoffie voor het leven&nbsp;&nbsp;Resource onlineBewerkt vlees verdubbelt risico op slokdarmkanker: Studie koppelt spek en worst aan spijsverteringskankers&nbsp;&nbsp;upday News",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJsWklqVW5tS3lVaUNwSjBzSi00dXVlbHk0MlVUd0hzbFRDYnhkZl9UaVp3Nl9sY1Babnhsd3ZULVZiTjV4OHQydmctUlhjQWxSUWFxREJZNEZpc1oxMzB1azc0NGlaN1VkTlhIRV95cVpIc0ItZXFkS0pQNTNPMFQwbFBhbG1ieVBLbWRPYzN2aU9nWW5ndHRmdW9qM1Z6UkYtWkx3WHJkYXgtWHVGWHFvVGozQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "811a3b76d28e",
       "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -16,14 +28,26 @@
       ]
     },
     {
-      "id": "b853cb2b73a5",
-      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - maxvandaag.nl",
+      "id": "deb543ec3bb8",
+      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
       "published": "2026-09-10T04:15:12+00:00",
-      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;maxvandaag.nl",
+      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;MAX Vandaag",
       "sources": [
         {
-          "name": "maxvandaag.nl",
+          "name": "MAX Vandaag",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJXVE9HNFFmbzRsWnRlSDZyd3dMb2dwMkRPUTlBVFpDZTlaQ01paTRZZVFBN3ZFYm53cnJyX1ltTk53dm9KZ09JWnpuendtSHlxR1JHOHZ6NjRubm5DdERJb0VzM1pGNk5FU3lvQlBNN2pXSUlXQndleEJsTmdKSnRlZTlQMmg2bEJyNlZKQmRDY2czTEl0NHVibXZKQWZrQmRxOVpycC1RMktiMy0tQmlrNG1xRVJlbjFpNm5QX19fd3dnMjMxNlFMQ08xTWZQVlV3dHduMXVmR1dnOXdpSUVnWGVUS19wRG92NkZONlBFZk5oM2RfWnpFZFJtQ053d0xOUjktNnAzSEZPeE42eHk4LUwtbU5z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3caba4d39c62",
+      "title": "WHO-advies vertraagt griepprik, huisartsen sturen brief aan patiënten: ‘We begrijpen dat dit vervelend is’ - AD.nl",
+      "published": "2026-09-10T11:26:56+00:00",
+      "summary": "WHO-advies vertraagt griepprik, huisartsen sturen brief aan patiënten: ‘We begrijpen dat dit vervelend is’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUYtdlkzcnpwTzFRZzNscktRVnFPY0gxcFgzR2xqSUhRMGpVcGUzeG0tYUw1ZnRHMHJCX0NMSWwwa1lVcVBza2VDVjlHNUNQS0MwTlBCbEJLYnJqTWJ6dklsUDhTYXVZN2IzOFVvTWRSYTEzTmRkdzkzZ250NGxibC1HWndDX1Nkekdjb3VTcWRIU3pVdVRLaEJRSk8zOTU4TEU4eXI0aHAzRF8yX2ZuUk9fSVRISDVBZHFxal9uM2JHVHM2X3hEa3hQeU51Y2JXWFRFWVVWWkM?oc=5"
         }
       ]
     },
@@ -31,11 +55,23 @@
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "877433b2c6f3",
+      "title": "'Sophie (3) nam eerder alle medicatie dapper in, maar sinds gisteravond weigert ze die voor het eerst' - Linda",
+      "published": "2026-09-11T05:06:22+00:00",
+      "summary": "'Sophie (3) nam eerder alle medicatie dapper in, maar sinds gisteravond weigert ze die voor het eerst'&nbsp;&nbsp;Linda",
+      "sources": [
+        {
+          "name": "Linda",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJXX3lfN1JIQmoyNlZOa0dGakNjWVBZNHRrb0cydC1jSVEwYTN0bEhMOGhBU0gzUktYLXowdDhqMXZpZjlCUzA3amhCSVVCWnlOV2ZxZUgxUFc4MjRNV2p3TjFPTWNMeEJGb29lRHdab0U3bzVwOFFXdjNhTEtPUW8xNUZELWFqVldCY3BFT3hrQUFUNVhUVEFubXNrdE80am5yZTJ3?oc=5"
         }
       ]
     }

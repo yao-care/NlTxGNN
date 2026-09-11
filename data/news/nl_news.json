@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-10T20:23:00.731012+00:00",
-  "count": 2,
+  "fetched_at": "2026-09-11T02:51:14.886663+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "46226ff49902",
+      "title": "Onderzoekers vinden 25.000 jaar oud bewijs voor drugsgebruik in Indonesië - NU",
+      "published": "2026-09-10T18:03:41+00:00",
+      "summary": "Onderzoekers vinden 25.000 jaar oud bewijs voor drugsgebruik in Indonesië&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU9DR1BPS0VtSTJobVZYMTZpSS1KWE9KTE9aUFpkY29QOTdUUFpnQm9oZkZsdF9peGR4YlB3NFdtLWx0dVF2UVJqSG9EUURCY1J4ZXI4Tk5rSEtUbzJhMFRnN0RnaGRVdjV6eUI3bmpOSHpHdS1WRWhHbTluamhIVm50b09fVWtWdEVqWm1RNmJ2ZVJPUXhWcnJOOVhhX19jN0tkeFhocVhqZzVMMm9rWWJjbTU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfcfcea77f4a",
+      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - nrc.nl",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;nrc.nl",
+      "sources": [
+        {
+          "name": "nrc.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
+        }
+      ]
+    },
     {
       "id": "deb543ec3bb8",
       "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
@@ -19,11 +43,23 @@
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "768a1b23b884",
+      "title": "Huisartsen verwijzen te weinig voor een verkennend gesprek - Medisch Contact",
+      "published": "2026-09-08T06:00:00+00:00",
+      "summary": "Huisartsen verwijzen te weinig voor een verkennend gesprek&nbsp;&nbsp;Medisch Contact",
+      "sources": [
+        {
+          "name": "Medisch Contact",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUdFSU81bUxySzZycjhtVFQtWi1MU0VnaERaMW5iX2k5dDFyZ0RINkpwUzhkeUxpZjJiMGt6VUNhRnlZYWluTERMb0xFVXRqZlRuemtyT2NxbmRFT3pXdkdTbDBqcWhROHpJOXJ1Zm15WlZweUgwVXI5NWw5empmdEJCS0MzVWpNeFJYUTVYMVlVSHpuTThDMVhWcEFnbjA1TUR5S1dUbEVjVEJCalNUTmxyWQ?oc=5"
         }
       ]
     }

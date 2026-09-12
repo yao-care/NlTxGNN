@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-12T02:58:50.016894+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-12T10:01:25.249986+00:00",
+  "count": 7,
   "news": [
     {
       "id": "4f5fbf64ce3a",
@@ -19,7 +19,7 @@
       "id": "fdfcb3e6aff8",
       "title": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker' - rtl.nl",
       "published": "2026-09-11T12:17:12+00:00",
-      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;rtl.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlEet je nog veel vlees? Deze soorten worden in enorme studie gelinkt aan meer kans op kanker&nbsp;&nbsp;Welingelichte KringenKoffie voor het leven&nbsp;&nbsp;Resource onlineBewerkt vlees verdubbelt risico op slokdarmkanker: Studie koppelt spek en worst aan spijsverteringskankers&nbsp;&nbsp;upday News",
+      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;rtl.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlKoffie voor het leven&nbsp;&nbsp;Resource onlineWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday News",
       "sources": [
         {
           "name": "rtl.nl",
@@ -55,7 +55,7 @@
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -72,6 +72,18 @@
         {
           "name": "Linda",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJXX3lfN1JIQmoyNlZOa0dGakNjWVBZNHRrb0cydC1jSVEwYTN0bEhMOGhBU0gzUktYLXowdDhqMXZpZjlCUzA3amhCSVVCWnlOV2ZxZUgxUFc4MjRNV2p3TjFPTWNMeEJGb29lRHdab0U3bzVwOFFXdjNhTEtPUW8xNUZELWFqVldCY3BFT3hrQUFUNVhUVEFubXNrdE80am5yZTJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "719b08f947bc",
+      "title": "Vrouw (59) die maar niet van longontstekingen afraakt blijkt al 51 jaar Barbie-bekertje in haar longen te hebben - HLN",
+      "published": "2026-09-10T14:03:30+00:00",
+      "summary": "Vrouw (59) die maar niet van longontstekingen afraakt blijkt al 51 jaar Barbie-bekertje in haar longen te hebben&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQU5xQXRwNno1SHBmUkxoN1ZiNF9ma0V2WG11VEJPakxWTV9ib1U4aXU4aHlWYnNWV1hKWWxBNzdydEg1dlB3SE4zb25RYkVObUdFWmRVMnNvTTVCNEJWbmlMaVZnOXNFY2hhb1FUTU5mYXpxbUF3eEx4WnhYNmhmSVZIYlBvWWtPcXJqcGNqemo3N21ZM3hhb2xtVmxhVzhGQUwtZjU0UllVRE5hdGhtZFBHU0hYWGxtZWVoS1ZBUGRIcFUzbm5lb0xPUV96ZEx0VkhUYVdkdFVCVEVDT2JjdQ?oc=5"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-11T20:23:44.967257+00:00",
+  "fetched_at": "2026-09-12T02:58:50.016894+00:00",
   "count": 6,
   "news": [
     {
       "id": "4f5fbf64ce3a",
       "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
       "published": "2026-09-11T13:30:24+00:00",
-      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandGewone mug wegkrijgen is onhaalbaar, zegt deze deskundige: ‘Maar de tijgermug moet je buiten de deur zien te houden’&nbsp;&nbsp;De GelderlanderAziatische tijgermug gevonden langs de A73&nbsp;&nbsp;kliknieuwsdemaasdriehoek.nlHuis-aan-huis-inspecties en behandeling tijgermug.&nbsp;&nbsp;Dender",
+      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "pzc.nl",
@@ -16,26 +16,14 @@
       ]
     },
     {
-      "id": "c5d24cdc2012",
-      "title": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker' - RTL.nl",
+      "id": "fdfcb3e6aff8",
+      "title": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker' - rtl.nl",
       "published": "2026-09-11T12:17:12+00:00",
-      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlEet je nog veel vlees? Deze soorten worden in enorme studie gelinkt aan meer kans op kanker&nbsp;&nbsp;Welingelichte KringenKoffie voor het leven&nbsp;&nbsp;Resource onlineBewerkt vlees verdubbelt risico op slokdarmkanker: Studie koppelt spek en worst aan spijsverteringskankers&nbsp;&nbsp;upday News",
+      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;rtl.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlEet je nog veel vlees? Deze soorten worden in enorme studie gelinkt aan meer kans op kanker&nbsp;&nbsp;Welingelichte KringenKoffie voor het leven&nbsp;&nbsp;Resource onlineBewerkt vlees verdubbelt risico op slokdarmkanker: Studie koppelt spek en worst aan spijsverteringskankers&nbsp;&nbsp;upday News",
       "sources": [
         {
-          "name": "RTL.nl",
+          "name": "rtl.nl",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJsWklqVW5tS3lVaUNwSjBzSi00dXVlbHk0MlVUd0hzbFRDYnhkZl9UaVp3Nl9sY1Babnhsd3ZULVZiTjV4OHQydmctUlhjQWxSUWFxREJZNEZpc1oxMzB1azc0NGlaN1VkTlhIRV95cVpIc0ItZXFkS0pQNTNPMFQwbFBhbG1ieVBLbWRPYzN2aU9nWW5ndHRmdW9qM1Z6UkYtWkx3WHJkYXgtWHVGWHFvVGozQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "811a3b76d28e",
-      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
         }
       ]
     },
@@ -52,10 +40,22 @@
       ]
     },
     {
+      "id": "811a3b76d28e",
+      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Welingelichte Kringen",

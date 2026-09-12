@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-12T10:01:25.249986+00:00",
+  "fetched_at": "2026-09-12T14:55:57.112385+00:00",
   "count": 7,
   "news": [
     {
-      "id": "4f5fbf64ce3a",
-      "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
-      "published": "2026-09-11T13:30:24+00:00",
-      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "fed3fe1a5e43",
+      "title": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen - NU",
+      "published": "2026-09-12T14:16:02+00:00",
+      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXJkOHViaXkyRUVBNkkteDFmNmNWeEFZVnRsZHR1MVVyY0ZJLXdQYkZJcUQwQk8yc0VIME9PTTFIRjc0OVZZRzF5UWtnZGJyS0lqSW01cTNpZjhMYzJ5cmpRaXVUZGRGZVBfVV9qLTIwVFM5T0o1QVJjcVZiOUgzOFhySWxYbEd4RUltTU43dmFNbjh0ZUZ4WDlhWkRrZVRqY1lWeXFrU19MMEdRS2lXaWlMMmMzZmtWWDN6c1V1RGNJd3dkZmo1MEdvNFU2OVNT?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNk1KZ2VLT3JrRXdVTGNYVXdMME80TmNpb2JMejVtOWFYMUZPUlhqcFVRREJfNU5lc21pclg5ZGZDTVZ1OW9hbmlabDBhVWJaOXU2MkZfQUpMNVRBYjB3dkV4aFU1ZEw2N0lmUXdSaXpqR2ViUnFIVWJ1VDFGYURNSlB2QktMaEpHdHc3em4tUU9YT2I3eDlWaUI4NkpLa3k0dUg2U09OU2hKcDB1ZS1tTVg3ZzVWemxRenNF?oc=5"
         }
       ]
     },
     {
-      "id": "fdfcb3e6aff8",
-      "title": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker' - rtl.nl",
-      "published": "2026-09-11T12:17:12+00:00",
-      "summary": "Onderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;rtl.nlVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlKoffie voor het leven&nbsp;&nbsp;Resource onlineWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday News",
+      "id": "4f5fbf64ce3a",
+      "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
+      "published": "2026-09-11T13:30:24+00:00",
+      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;omroepzeeland.nlGewone mug wegkrijgen is onhaalbaar, zegt deze deskundige: ‘Maar de tijgermug moet je buiten de deur zien te houden’&nbsp;&nbsp;De GelderlanderAziatische tijgermug gevonden langs de A73&nbsp;&nbsp;kliknieuwsdemaasdriehoek.nlAziatische tijgermug duikt op&nbsp;&nbsp;wereldregio",
       "sources": [
         {
-          "name": "rtl.nl",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJsWklqVW5tS3lVaUNwSjBzSi00dXVlbHk0MlVUd0hzbFRDYnhkZl9UaVp3Nl9sY1Babnhsd3ZULVZiTjV4OHQydmctUlhjQWxSUWFxREJZNEZpc1oxMzB1azc0NGlaN1VkTlhIRV95cVpIc0ItZXFkS0pQNTNPMFQwbFBhbG1ieVBLbWRPYzN2aU9nWW5ndHRmdW9qM1Z6UkYtWkx3WHJkYXgtWHVGWHFvVGozQQ?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXJkOHViaXkyRUVBNkkteDFmNmNWeEFZVnRsZHR1MVVyY0ZJLXdQYkZJcUQwQk8yc0VIME9PTTFIRjc0OVZZRzF5UWtnZGJyS0lqSW01cTNpZjhMYzJ5cmpRaXVUZGRGZVBfVV9qLTIwVFM5T0o1QVJjcVZiOUgzOFhySWxYbEd4RUltTU43dmFNbjh0ZUZ4WDlhWkRrZVRqY1lWeXFrU19MMEdRS2lXaWlMMmMzZmtWWDN6c1V1RGNJd3dkZmo1MEdvNFU2OVNT?oc=5"
         }
       ]
     },
@@ -55,11 +55,23 @@
       "id": "096be835546e",
       "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
       "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
+      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte KringenGezichtssignalen die waarschuwen voor het risico op een hartaanval of beroerte.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "Welingelichte Kringen",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58152c97133c",
+      "title": "Invloed van temperatuur airfryer op gezondheid van maaltijd - Libelle",
+      "published": "2026-09-12T08:01:35+00:00",
+      "summary": "Invloed van temperatuur airfryer op gezondheid van maaltijd&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFN1M3YtY0hLZ2ZxOXNrQ3huMmpYaXdFU0syV3g0WEVUTmw2Wkl2NDRVYlpZZzIzWVNQTmxuMnhzbHRTdGRPekp3MHIzVmRtdERrcl9vRTA1enVNSWlnMmx4Qm9HLVp5NjRkYUxIX2w3VU93aHZoTk5RMG82bXZ1aWY2cWkyM2tEenFaNkg5a09kMnNQVGc?oc=5"
         }
       ]
     },
@@ -72,18 +84,6 @@
         {
           "name": "Linda",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJXX3lfN1JIQmoyNlZOa0dGakNjWVBZNHRrb0cydC1jSVEwYTN0bEhMOGhBU0gzUktYLXowdDhqMXZpZjlCUzA3amhCSVVCWnlOV2ZxZUgxUFc4MjRNV2p3TjFPTWNMeEJGb29lRHdab0U3bzVwOFFXdjNhTEtPUW8xNUZELWFqVldCY3BFT3hrQUFUNVhUVEFubXNrdE80am5yZTJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "719b08f947bc",
-      "title": "Vrouw (59) die maar niet van longontstekingen afraakt blijkt al 51 jaar Barbie-bekertje in haar longen te hebben - HLN",
-      "published": "2026-09-10T14:03:30+00:00",
-      "summary": "Vrouw (59) die maar niet van longontstekingen afraakt blijkt al 51 jaar Barbie-bekertje in haar longen te hebben&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQU5xQXRwNno1SHBmUkxoN1ZiNF9ma0V2WG11VEJPakxWTV9ib1U4aXU4aHlWYnNWV1hKWWxBNzdydEg1dlB3SE4zb25RYkVObUdFWmRVMnNvTTVCNEJWbmlMaVZnOXNFY2hhb1FUTU5mYXpxbUF3eEx4WnhYNmhmSVZIYlBvWWtPcXJqcGNqemo3N21ZM3hhb2xtVmxhVzhGQUwtZjU0UllVRE5hdGhtZFBHU0hYWGxtZWVoS1ZBUGRIcFUzbm5lb0xPUV96ZEx0VkhUYVdkdFVCVEVDT2JjdQ?oc=5"
         }
       ]
     }

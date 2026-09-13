@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-12T20:08:34.893238+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-13T02:58:46.699620+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "4f5fbf64ce3a",
+      "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
+      "published": "2026-09-11T13:30:24+00:00",
+      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXJkOHViaXkyRUVBNkkteDFmNmNWeEFZVnRsZHR1MVVyY0ZJLXdQYkZJcUQwQk8yc0VIME9PTTFIRjc0OVZZRzF5UWtnZGJyS0lqSW01cTNpZjhMYzJ5cmpRaXVUZGRGZVBfVV9qLTIwVFM5T0o1QVJjcVZiOUgzOFhySWxYbEd4RUltTU43dmFNbjh0ZUZ4WDlhWkRrZVRqY1lWeXFrU19MMEdRS2lXaWlMMmMzZmtWWDN6c1V1RGNJd3dkZmo1MEdvNFU2OVNT?oc=5"
+        }
+      ]
+    },
     {
       "id": "fed3fe1a5e43",
       "title": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen - NU",
       "published": "2026-09-12T13:10:06+00:00",
-      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday",
+      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday",
       "sources": [
         {
           "name": "NU",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "4f5fbf64ce3a",
-      "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
-      "published": "2026-09-11T13:30:24+00:00",
-      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;omroepzeeland.nlAziatische tijgermug gevonden langs de A73&nbsp;&nbsp;kliknieuwsdemaasdriehoek.nlAziatische tijgermug duikt op&nbsp;&nbsp;wereldregioHuis-aan-huis-inspecties en behandeling tijgermug.&nbsp;&nbsp;Dender Journaal",
+      "id": "09f228e8354a",
+      "title": "Voor het eerst zicht op vrouwenbrein rond puberteit, zwangerschap en menopauze - NOS",
+      "published": "2026-09-10T09:51:31+00:00",
+      "summary": "Voor het eerst zicht op vrouwenbrein rond puberteit, zwangerschap en menopauze&nbsp;&nbsp;NOSHet brein blijft opmerkelijk stabiel tijdens de menopauze, blijkt uit hersenscans bij duizend vrouwen&nbsp;&nbsp;Nederlands DagbladHersenveranderingen bij vrouwen tijdens puberteit, zwangerschap en menopauze voor het eerst in kaart gebracht&nbsp;&nbsp;amsterdamumc.orgDe overgang: een stille crisis op de werkvloer&nbsp;&nbsp;ZwembadBranchePuberteit, zwangerschap of de overgang - Groot Nature-onderzoek too",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXJkOHViaXkyRUVBNkkteDFmNmNWeEFZVnRsZHR1MVVyY0ZJLXdQYkZJcUQwQk8yc0VIME9PTTFIRjc0OVZZRzF5UWtnZGJyS0lqSW01cTNpZjhMYzJ5cmpRaXVUZGRGZVBfVV9qLTIwVFM5T0o1QVJjcVZiOUgzOFhySWxYbEd4RUltTU43dmFNbjh0ZUZ4WDlhWkRrZVRqY1lWeXFrU19MMEdRS2lXaWlMMmMzZmtWWDN6c1V1RGNJd3dkZmo1MEdvNFU2OVNT?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGJXY0FYd3ZkYWctYVMxdU51WUIzTWpEa2tlekJqdDhmc2RxQjZxNU5XeHNaakhxdGdwVFVLYW1OU3dEeHk5N2FUa1pVaHlja2N6UGd3MTZlZE9fUElQbW1BOGZoNTc4YkRBSHpwVm5paEpweTFUa2pLRU1yYkRtTjRzcnN1ZHNzT3Ffem9TQXRCVjN6UHRwd3dXcTNnSE9TRGRVWndHb1ZBSmJ4?oc=5"
         }
       ]
     },
@@ -48,30 +60,6 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "096be835546e",
-      "title": "Een waarschuwing voor een hartaanval is op je gezicht te zien - Welingelichte Kringen",
-      "published": "2026-09-07T13:34:38+00:00",
-      "summary": "Een waarschuwing voor een hartaanval is op je gezicht te zien&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2lhdjlfMDJ0bElHUkNYbDFDYkRCNWZHOWgyYkZrUW96SFNoWldHczJ0djNZVUUyNzRhWHpvZU80amEwX2xreXNKSlBjdGtWR0RvSGMzaU1QeUFmeHpPT29XaFRyT19yMVJxMEJoZUxsYWJLYkhUSnlhb3V2OVlzc1RXcWhyZkM2a2FKVWhVTWpoZk9pdkRKc3o1OXEtaUwyVnR1ZDM0QjZLcEdK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a3fa66b3b01",
-      "title": "'Sophie (3) nam eerder alle medicatie dapper in, maar sinds gisteravond weigert ze die voor het eerst' - linda.nl",
-      "published": "2026-09-11T05:06:22+00:00",
-      "summary": "'Sophie (3) nam eerder alle medicatie dapper in, maar sinds gisteravond weigert ze die voor het eerst'&nbsp;&nbsp;linda.nl",
-      "sources": [
-        {
-          "name": "linda.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJXX3lfN1JIQmoyNlZOa0dGakNjWVBZNHRrb0cydC1jSVEwYTN0bEhMOGhBU0gzUktYLXowdDhqMXZpZjlCUzA3amhCSVVCWnlOV2ZxZUgxUFc4MjRNV2p3TjFPTWNMeEJGb29lRHdab0U3bzVwOFFXdjNhTEtPUW8xNUZELWFqVldCY3BFT3hrQUFUNVhUVEFubXNrdE80am5yZTJ3?oc=5"
         }
       ]
     }

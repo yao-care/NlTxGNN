@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-13T02:58:46.699620+00:00",
-  "count": 5,
+  "fetched_at": "2026-09-13T11:01:51.640969+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "4f5fbf64ce3a",
-      "title": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken - pzc.nl",
-      "published": "2026-09-11T13:30:24+00:00",
-      "summary": "Aziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "9461f3588110",
+      "title": "Aziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen - Brabants Dagblad",
+      "published": "2026-09-13T08:40:00+00:00",
+      "summary": "Aziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;Brabants DagbladAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlHuis-aan-huis-inspecties en behandeling tijgermug.&nbsp;&nbsp;Dender JournaalAziatische tijgermug duikt op&nbsp;&nbsp;wereldregio",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXJkOHViaXkyRUVBNkkteDFmNmNWeEFZVnRsZHR1MVVyY0ZJLXdQYkZJcUQwQk8yc0VIME9PTTFIRjc0OVZZRzF5UWtnZGJyS0lqSW01cTNpZjhMYzJ5cmpRaXVUZGRGZVBfVV9qLTIwVFM5T0o1QVJjcVZiOUgzOFhySWxYbEd4RUltTU43dmFNbjh0ZUZ4WDlhWkRrZVRqY1lWeXFrU19MMEdRS2lXaWlMMmMzZmtWWDN6c1V1RGNJd3dkZmo1MEdvNFU2OVNT?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0drQnR6aUp0ek5zRXVrZXo0LUU2VFpTcGItQzFidW4taV81MUtha2UzcWtOem5iUU9kREFUMEhhTW84VFgwa2xTRGJCa1M0bHV4N2Z6ZDlPWUNEaUdSOEo1cGZQZW5BeUNHUHh6WFdSMXJBb0FEYURleUVDRm1uYldUbXFDR3BCV1NlcF9mWFl1aURXU0lQdDA2dm14MV9jMnFveU9iMHlLWWg4NUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b3be4d2519c",
+      "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
+      "published": "2026-09-13T08:15:00+00:00",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlNieuw onderzoek: koffiedrinkers hebben minder buikvet en meer spiermassa&nbsp;&nbsp;Runner's World Nederland",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "fed3fe1a5e43",
       "title": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen - NU",
       "published": "2026-09-12T13:10:06+00:00",
-      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday",
+      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nlZeer hete dranken boven 65°C verdrievoudigen risico op slokdarmkanker – waarom artsen zeggen te wachten voor het drinken&nbsp;&nbsp;upday",
       "sources": [
         {
           "name": "NU",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "09f228e8354a",
-      "title": "Voor het eerst zicht op vrouwenbrein rond puberteit, zwangerschap en menopauze - NOS",
-      "published": "2026-09-10T09:51:31+00:00",
-      "summary": "Voor het eerst zicht op vrouwenbrein rond puberteit, zwangerschap en menopauze&nbsp;&nbsp;NOSHet brein blijft opmerkelijk stabiel tijdens de menopauze, blijkt uit hersenscans bij duizend vrouwen&nbsp;&nbsp;Nederlands DagbladHersenveranderingen bij vrouwen tijdens puberteit, zwangerschap en menopauze voor het eerst in kaart gebracht&nbsp;&nbsp;amsterdamumc.orgDe overgang: een stille crisis op de werkvloer&nbsp;&nbsp;ZwembadBranchePuberteit, zwangerschap of de overgang - Groot Nature-onderzoek too",
+      "id": "34588fda0183",
+      "title": "Een ingrijpend besluit over het aanpassen van embryo-DNA: is Nederland daar klaar voor? ‘Dit gaat niet over technologie, maar over mensen’ - Trouw",
+      "published": "2026-09-12T16:08:00+00:00",
+      "summary": "Een ingrijpend besluit over het aanpassen van embryo-DNA: is Nederland daar klaar voor? ‘Dit gaat niet over technologie, maar over mensen’&nbsp;&nbsp;TrouwDNA-onderzoekers in het Natuurhistorisch Museum Rotterdam&nbsp;&nbsp;Amazing Erasmus MC‘Een goede dialoog begint niet met de vraag of iemand voor of tegen is’&nbsp;&nbsp;Amazing Erasmus MCWat vindt Nederland van sleutelen aan DNA?&nbsp;&nbsp;Amazing Erasmus MC",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGJXY0FYd3ZkYWctYVMxdU51WUIzTWpEa2tlekJqdDhmc2RxQjZxNU5XeHNaakhxdGdwVFVLYW1OU3dEeHk5N2FUa1pVaHlja2N6UGd3MTZlZE9fUElQbW1BOGZoNTc4YkRBSHpwVm5paEpweTFUa2pLRU1yYkRtTjRzcnN1ZHNzT3Ffem9TQXRCVjN6UHRwd3dXcTNnSE9TRGRVWndHb1ZBSmJ4?oc=5"
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZDJDLUYtdTRXamJwVXlnQ2Z3UEw4MWxzMkgtZXBLSU5QSUllaDV4NWRObW5SSXpYbTY0TUJqQ25VeVdPdVJrUmgzeVFKbDR6R0o5YlZUQUtDRHBudWxwVlVHX0FnZzloSkZZZFVPQXI3cUNGRVJ1YTZwY3pCSTgzQ1JLNl9vNDUxc0IzcFd6YWF1d0xvY3gyc0Q3Rjc5QTJQOHZycldDWWdZb2JSeDVfamJyYm1DWEI3dHY5Z3Z4dUhKY3dWekVsVkJyTDZNdGtjMFZTOWpPbHpWd2FRVjdJcV9Jb081SmQwUkJacnQzSFRmalBoVEU4bTR1SmdFLThUcl9rOG1B?oc=5"
         }
       ]
     },

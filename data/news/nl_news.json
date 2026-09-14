@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-14T17:36:19.592711+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-14T21:24:45.019731+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "fed3fe1a5e43",
-      "title": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen - NU",
-      "published": "2026-09-12T13:10:06+00:00",
-      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUGroot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker&nbsp;&nbsp;Metronieuws.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;Gezondnu",
+      "id": "3ac8578b9d14",
+      "title": "Jolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken' - RTL.nl",
+      "published": "2026-09-14T19:12:02+00:00",
+      "summary": "Jolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken'&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNk1KZ2VLT3JrRXdVTGNYVXdMME80TmNpb2JMejVtOWFYMUZPUlhqcFVRREJfNU5lc21pclg5ZGZDTVZ1OW9hbmlabDBhVWJaOXU2MkZfQUpMNVRBYjB3dkV4aFU1ZEw2N0lmUXdSaXpqR2ViUnFIVWJ1VDFGYURNSlB2QktMaEpHdHc3em4tUU9YT2I3eDlWaUI4NkpLa3k0dUg2U09OU2hKcDB1ZS1tTVg3ZzVWemxRenNF?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1NzaTIwcXU4Ymt0OTE0SUswMEFJaXAxS2Q1aVVsbTY5SGRxQmFrVmNUNWlSWUc1UURJa2dNSjgwRGdrd0FINHQwMTVwSklxenV2MVVQd1BHNTlaVWZUN1owWldudGowN2JQcE9nX2lDX3BUWUpmakp2WWs0dXl4SXFqMA?oc=5"
         }
       ]
     },
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "4edc5013acd4",
+      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
+      "published": "2026-09-11T18:21:00+00:00",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling verandert de vorm en werking van het hart -&nbsp;&nbsp;mariabodeSlapen met het licht aan of uit? Nieuw onderzoek geeft het antwoord.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d568f205589a",
       "title": "Deze maagbacterie lijkt verantwoordelijk voor meer dan 1 op de 5 gevallen van darmkanker wereldwijd - Scientias.nl",
       "published": "2026-09-13T17:19:36+00:00",
@@ -72,30 +84,6 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4edc5013acd4",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
-      "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling verandert de vorm en werking van het hart&nbsp;&nbsp;Inter Press ServiceSlapen met het licht aan of uit? Nieuw onderzoek geeft het antwoord.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca76783ae59e",
-      "title": "Meer dan 2500 Surinamers doen mee aan onderzoek naar chronische ziekten - Suriname Herald",
-      "published": "2026-09-13T11:07:07+00:00",
-      "summary": "Meer dan 2500 Surinamers doen mee aan onderzoek naar chronische ziekten&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm05Y2gwTWpqTnNRX0ExM1ZFd3dFWWEwd1V2VVV2REdTcEFUekMtTHkxZmtBdWE5NFp0cTZUQ3dLZjdTNEdUZnE0WnI4LVhoWWpwMS1uWjk5d1gxNzAzRlR1ZkZxaVd0LWZIQUdsbDJvYjVuN1BwbHR0WlZFRU5oRFN5TklmZVg1RnNmam5hOGhISmRBRng2YTFJa0xZMC1kRHhZMkVaVDNoU09TMGJmRUt6cjctMXhm?oc=5"
         }
       ]
     }

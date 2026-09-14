@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-14T03:12:43.474527+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-14T11:41:46.822760+00:00",
+  "count": 10,
   "news": [
-    {
-      "id": "9461f3588110",
-      "title": "Aziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen - Brabants Dagblad",
-      "published": "2026-09-13T08:40:00+00:00",
-      "summary": "Aziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;Brabants DagbladAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;AD.nlAziatische tijgermug gevonden langs de A73, donderdag bestrijdingsactie&nbsp;&nbsp;Omroep Land van CuijkAziatische tijgermug duikt op&nbsp;&nbsp;wereldregio",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0drQnR6aUp0ek5zRXVrZXo0LUU2VFpTcGItQzFidW4taV81MUtha2UzcWtOem5iUU9kREFUMEhhTW84VFgwa2xTRGJCa1M0bHV4N2Z6ZDlPWUNEaUdSOEo1cGZQZW5BeUNHUHh6WFdSMXJBb0FEYURleUVDRm1uYldUbXFDR3BCV1NlcF9mWFl1aURXU0lQdDA2dm14MV9jMnFveU9iMHlLWWg4NUE?oc=5"
-        }
-      ]
-    },
     {
       "id": "fed3fe1a5e43",
       "title": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen - NU",
       "published": "2026-09-12T13:10:06+00:00",
-      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnVeel hete koffie of thee? Kans op slokdarmkanker kan tot drie keer groter zijn&nbsp;&nbsp;bnr.nl",
+      "summary": "Drinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;GezondnuOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnMensen die zeer hete thee of koffie drinken hebben drie keer zoveel kans op zeldzame vorm van slokdarmkanker&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "NU",
@@ -28,14 +16,38 @@
       ]
     },
     {
-      "id": "3d96b746b056",
-      "title": "Zwangerschap verandert het vrouwenbrein: Echt voor specifieke functies zijn - bnr.nl",
-      "published": "2026-09-13T07:57:22+00:00",
-      "summary": "Zwangerschap verandert het vrouwenbrein: Echt voor specifieke functies zijn&nbsp;&nbsp;bnr.nlVoor het eerst zicht op vrouwenbrein rond puberteit, zwangerschap en menopauze&nbsp;&nbsp;NOSKrimp van hersenen stopt tijdelijk tijdens menopauze&nbsp;&nbsp;NUHet brein blijft opmerkelijk stabiel tijdens de menopauze, blijkt uit hersenscans bij duizend vrouwen&nbsp;&nbsp;de VolkskrantPuberteit, zwangerschap of de overgang - Groot Nature-onderzoek toont hoe hormonen het vrouwenbrein écht verbouwen&nbsp;&n",
+      "id": "7efbbb42d5d8",
+      "title": "Aziatische tijgermug in Mierlo, NVWA gaat deuren langs voor bestrijding - ed.nl",
+      "published": "2026-09-14T10:24:59+00:00",
+      "summary": "Aziatische tijgermug in Mierlo, NVWA gaat deuren langs voor bestrijding&nbsp;&nbsp;ed.nlAziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;bd.nlAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlAziatische tijgermug duikt op&nbsp;&nbsp;wereldregio",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE1ScGZkdXhtWEY3N09mNF80d1RhZ01VZHlIeGQyRmVCZWg2ejFYSDIwaXduYmFvYk5RX1dMQ0ZMQWUyNDdQRWh5YXJhckdiaTU0TENYUU9PZXlXaGJOMGprc1BOakVUOXFEODNLZVVCTEpxUm05TnBhVnRNZHZKMnRBQVdyei1vcW5WUjBzSEtVTFNWcF90Uko5aVRwckVZUW9GSTg3RUE0aVJrNTQ2ay1XV3hYT2RjTmc4?oc=5"
+          "name": "ed.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0preVJQVTVINXc1YXJURHJ0R2xMU1hjc2plRzBTM01YZEZqWFhFd3N6SlI1bmk0V1BSaDJVYlB3NkgwRHljZUNqa2JXb25jMmZNZm85WVpDZHBjcEdsYWpsNlFKU1R3aFdud0l0SHcybTJDTnBQSjdvUHVoOUV1V2VwVTBwaDFLaGhxcFRSMFZhUHEyb2hwdUh0ZFVfb3ZvanA1REp4cFFPQXBqcDVsTjRkbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3b6796ca9a4",
+      "title": "Oncoloog geeft advies: deze 4 klachten moet je niet negeren - flair.nl",
+      "published": "2026-09-13T06:32:32+00:00",
+      "summary": "Oncoloog geeft advies: deze 4 klachten moet je niet negeren&nbsp;&nbsp;flair.nl4 aanhoudende lichamelijke symptomen die op kanker kunnen wijzen&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "flair.nl",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2FXT0I1R19NYTdiSEFVdDYwS0FCMy11aG5Vb0c5akp2TkRjTURQY2lsdlpSeXhkTlNRd3dkWFRZd1BULWpfQ1RPMTMzeG1ENmVndnN0Y3dIeDE4LVVBNmNaRUQ3ejRZSEpBSTNBLTNzMlpSTVd3WWdQUlBCTDJLdVg2dlBjX09lejBLY2RtZkc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22f172d0ea6d",
+      "title": "‘Buikpijn hoort erbij’, kreeg Cynthia te horen, tot de diagnose endometriose kwam - AD.nl",
+      "published": "2026-09-13T13:00:00+00:00",
+      "summary": "‘Buikpijn hoort erbij’, kreeg Cynthia te horen, tot de diagnose endometriose kwam&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHY0NW1kZnhBMlc2ZDBNeFh0VHpySVNMWEdQdVo5RlRxRVI5NTR3MmlzZmtOVGpYT2lTMExweHo1NWtua2J1VmItUHZqN3A2c00tZDU5aHVJNnpkUk1UYmdRdDhkcU1heWdCcXN4Zl9nQXRXX09iSHFXWC1ndU41bkxQd0FvZ3NUdi1CWE9UTzJVVkVPLWpQWFBWWW9zd3JCYUdLOXE1Q3c3Z2pfY09iNWdqenFBZw?oc=5"
         }
       ]
     },
@@ -52,6 +64,18 @@
       ]
     },
     {
+      "id": "d568f205589a",
+      "title": "Deze maagbacterie lijkt verantwoordelijk voor meer dan 1 op de 5 gevallen van darmkanker wereldwijd - Scientias.nl",
+      "published": "2026-09-13T17:19:36+00:00",
+      "summary": "Deze maagbacterie lijkt verantwoordelijk voor meer dan 1 op de 5 gevallen van darmkanker wereldwijd&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHpQMmdIRUlndlFoVkdGdzNSZVNZcUR2c25oQ3ZaMy1SZUFYcWFfdjRNYVBNMlVvajMtZ3pwMlBzZWplbDBCSTBtUEw2X0pvcG1NRnhXekNPbml3NDNabl9RWE9jS2pIVUFvanAzcWoydFp0X0d1RTh2YXQzekxsSThRTlM5MWdubzhCbURLa2dEaFZvVG1tTG9FZ0lKc3Q1cnM5aG9ZWWowNHNEWVVpUkRTU1plZS1leWZzTDJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9639fd3c7911",
       "title": "Dit doet een lampje in je slaapkamer met je hart, jaren later - Scientias.nl",
       "published": "2026-09-11T09:02:02+00:00",
@@ -64,26 +88,14 @@
       ]
     },
     {
-      "id": "811a3b76d28e",
-      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "id": "dfcfcea77f4a",
+      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - nrc.nl",
       "published": "2026-09-10T04:00:00+00:00",
-      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;nrc.nl",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "name": "nrc.nl",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e36322b048c",
-      "title": "Ramdin: gezondheidszorg mag niet leunen op Amerikaanse financiering - Suriname Herald",
-      "published": "2026-09-13T03:04:52+00:00",
-      "summary": "Ramdin: gezondheidszorg mag niet leunen op Amerikaanse financiering&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Suriname Herald",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmZHbkFjMEUwREowMnFtV19qM3UtQmgzc0xnTTBNMmp5d1JPdmgtS2I3ZUtsVGMtUTgwQVpmVmx6b1lvQ3BmS0pPbFp6aWVTY0hNaER5RzdRWWltNHRfYkZhWDRQLVVWU0FJNktUc2pJVW44cTNRNWE2QWpCd2VYQUtLSUUzblRKcjBWSmxXd2dxN3daVElaRWJreEVIUGRlOTZLODRhdGwza3ZwNmp1Qmp3?oc=5"
         }
       ]
     },
@@ -96,6 +108,18 @@
         {
           "name": "Suriname Herald",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm05Y2gwTWpqTnNRX0ExM1ZFd3dFWWEwd1V2VVV2REdTcEFUekMtTHkxZmtBdWE5NFp0cTZUQ3dLZjdTNEdUZnE0WnI4LVhoWWpwMS1uWjk5d1gxNzAzRlR1ZkZxaVd0LWZIQUdsbDJvYjVuN1BwbHR0WlZFRU5oRFN5TklmZVg1RnNmam5hOGhISmRBRng2YTFJa0xZMC1kRHhZMkVaVDNoU09TMGJmRUt6cjctMXhm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e36322b048c",
+      "title": "Ramdin: gezondheidszorg mag niet leunen op Amerikaanse financiering - Suriname Herald",
+      "published": "2026-09-13T03:04:52+00:00",
+      "summary": "Ramdin: gezondheidszorg mag niet leunen op Amerikaanse financiering&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmZHbkFjMEUwREowMnFtV19qM3UtQmgzc0xnTTBNMmp5d1JPdmgtS2I3ZUtsVGMtUTgwQVpmVmx6b1lvQ3BmS0pPbFp6aWVTY0hNaER5RzdRWWltNHRfYkZhWDRQLVVWU0FJNktUc2pJVW44cTNRNWE2QWpCd2VYQUtLSUUzblRKcjBWSmxXd2dxN3daVElaRWJreEVIUGRlOTZLODRhdGwza3ZwNmp1Qmp3?oc=5"
         }
       ]
     }

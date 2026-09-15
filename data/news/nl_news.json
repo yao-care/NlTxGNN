@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-15T03:14:43.545835+00:00",
-  "count": 6,
+  "fetched_at": "2026-09-15T10:59:51.031411+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "ffac1a0e9cba",
+      "title": "Gevaarlijke muggenbeet en geen vaccin: zo bescherm je jezelf tegen het westnijlvirus - Redactie24",
+      "published": "2026-09-13T19:30:29+00:00",
+      "summary": "Gevaarlijke muggenbeet en geen vaccin: zo bescherm je jezelf tegen het westnijlvirus&nbsp;&nbsp;Redactie24Muggenkenner Bart Knols: Zet het leger in voor bestrijding van westnijlvirus&nbsp;&nbsp;Reformatorisch DagbladExpert Bart Knols slaat alarm over muggen met westnijlvirus in Nederland: ’Meteen bestrijden, niet wachten tot het te laat is’&nbsp;&nbsp;noordhollandsdagblad.nlMinister Hermans over westnijlvirus: ‘Voorkom muggenbeten, slaap onder een klamboe’&nbsp;&nbsp;AD.nlDrie doden door westnij",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHBoVXBoQl90R2FoX2dkR2JndTFmd0JVbUpIRUNHWDRFaDFfX2NtNzc0SjFEcFR6NGpWdWl0U1ZKMGNPVVV2TWdTNUtncWlTZVc2LXNHeFRZS1M3ZTV0NjRfTU1SWVYwV0w3R1NpSUhja3ZPTVBsRFFLeVlCQ2hDN1hicGNuMzAxeDZqWFN2VmNsYjBVdUtIY1JGeDhDWjhWTWlaa0lRaW11MDBsVVRpbGQ4YVJ2WDJ1b2FnOEJPQ01xYy1BUUJQdm8zUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "3ac8578b9d14",
       "title": "Jolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken' - RTL.nl",
@@ -19,11 +31,35 @@
       "id": "4509ccde2e98",
       "title": "Meerdere tijgermuggen gevonden in Mierlo: bewoners krijgen brief en tuincontrole - Eindhovens Dagblad",
       "published": "2026-09-14T10:24:00+00:00",
-      "summary": "Meerdere tijgermuggen gevonden in Mierlo: bewoners krijgen brief en tuincontrole&nbsp;&nbsp;Eindhovens DagbladAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;Brabants DagbladAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nlAziatische tijgermug bij Haps werd eind augustus al aangetroffen&nbsp;&nbsp;Omro",
+      "summary": "Meerdere tijgermuggen gevonden in Mierlo: bewoners krijgen brief en tuincontrole&nbsp;&nbsp;Eindhovens DagbladAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;Brabants DagbladAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nl",
       "sources": [
         {
           "name": "Eindhovens Dagblad",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9pS3hqQzYzUF9WN3BtOXMzR1hfdnhkTVEyMkJpdFgwRDR2bkR0VGF0RHlzQm9HUEs1NHdCZTNkbTc1c3NLb25vR09PTEVmM3E5RGUzMVBHZXpOQWktZXJaRnBQVmNTb0d2QnJYemdrTUhxMmtlYm1vTHJpeUtVcXUwRzhGaUlIWEJoazlFV1lrQlRkVVp6WlFUQjNXakl2Y0hXb0xPZzZScFFjWnRrZUJCZ1lPZ1FJaUMxM1pMRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70dca8bd4b23",
+      "title": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden - Metronieuws.nl",
+      "published": "2026-09-14T16:16:00+00:00",
+      "summary": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden&nbsp;&nbsp;Metronieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzJPZVBKZ1hoRnFMRGw4MklvTVBIcGxIRWNmZ3MzeEpaQkxqYjN1WmtGekp6ZDBpckRGRmFfM04yQVpnRGhOWXBDRTFERjU2cWxid1Q4VDdLRHZ4Ql9ZQkdfZ2ZTbURla20xeEtuVGJsczFuTUljeWFzMGY0THRKRDA1bnJwZkZGZGdKbU0tZlVkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc32af2968b4",
+      "title": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker - Metronieuws.nl",
+      "published": "2026-09-13T16:05:00+00:00",
+      "summary": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker&nbsp;&nbsp;Metronieuws.nlDrinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUWarme dranken verdrievoudigen het risico op slokdarmkanker.&nbsp;&nbsp;Vietnam.vnOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;Gezondnu",
+      "sources": [
+        {
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNJSHdKdmdoS2JUVlR1bW1LWF9YcG1rNEl1aGg1U3FIVDM5UWo0WUZ3LWdIb2hta2pkaXlFUGQ0SFNXZWVEUGl0VzR4UkVRRWstc19aRDB4c2Z3R28tN3RhUHFzZVhSTmp4ZmFWc3Q3RmdoZEtXQWVsOVVGc3NZaXpuc0xodXBFeFhqTnRYckRwUGZFcFBJTmQ5ZWtudHZXMm5tQXI0cm95RDltREVwck5jSmVoQjJselRwQUVJYkxMTHNn?oc=5"
         }
       ]
     },
@@ -40,6 +76,18 @@
       ]
     },
     {
+      "id": "2b3be4d2519c",
+      "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
+      "published": "2026-09-13T08:15:00+00:00",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlOp welk moment van de dag is het het beste voor je gezondheid om koffie te drinken?&nbsp;&nbsp;Vietnam.vnVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV FocusNieuw onderzoek: koffiedrinkers hebben minder buikvet en meer spiermassa&nbsp;&nbsp;Runner's World NederlandMeer spieren, minder vet én een beter suikermetabolisme: wat doet koffie met je ",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "deb543ec3bb8",
       "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
       "published": "2026-09-10T04:15:12+00:00",
@@ -52,13 +100,13 @@
       ]
     },
     {
-      "id": "4edc5013acd4",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
+      "id": "12e2e04175c8",
+      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - demorgen.be",
       "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling verandert de vorm en werking van het hart -&nbsp;&nbsp;mariabodeSlapen met het licht aan of uit? Nieuw onderzoek geeft het antwoord.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;demorgen.beDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlTe veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;gezondheidenwetenschap.beLichtvervuiling verandert de vorm en werking van het hart&nbsp;&nbsp;Inter Press ServiceSlapen met het licht aan of uit? Nieuw onderzoek geeft het antwoord.&nbsp;&nbsp;Vietn",
       "sources": [
         {
-          "name": "De Morgen",
+          "name": "demorgen.be",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
         }
       ]

@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-16T03:10:58.131540+00:00",
-  "count": 9,
+  "fetched_at": "2026-09-16T10:47:30.353931+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "9db6da757047",
+      "title": "Longkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn - De Gelderlander",
+      "published": "2026-09-16T07:28:32+00:00",
+      "summary": "Longkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSE91NFFvRmc3SG5zbkppSjBrOVRvSTU3T3hjUnM3RHdZRXB5c0o3LXVQSW13Y1JIOXRiZnJBYmZ1cjdDVGFDMF9WRmhRX1pxMU5uQUR0aU95SVZyQWpNZ0dLR3daa0ZtVWFVZFFuU0VsSnFJZWNOckVPMWJobnk0UGpCTkRBdzZKRmV6T29mUVc3NGs2akp4ZGJiWHotZXkwalkwWlJONE5hem5rTlI4dk9pSmMyLUYwLXg2TnJvUzVZRkxQYlE2NQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "16a9b7378b8d",
       "title": "Jolanda uit Wierden liep zeldzaam virus op door kitten: 'Wil vooral waarschuwen' - RTV Oost",
       "published": "2026-09-15T16:18:44+00:00",
-      "summary": "Jolanda uit Wierden liep zeldzaam virus op door kitten: 'Wil vooral waarschuwen'&nbsp;&nbsp;RTV OostJolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken'&nbsp;&nbsp;RTL.nl",
+      "summary": "Jolanda uit Wierden liep zeldzaam virus op door kitten: 'Wil vooral waarschuwen'&nbsp;&nbsp;RTV OostJolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken'&nbsp;&nbsp;rtl.nl",
       "sources": [
         {
           "name": "RTV Oost",
@@ -16,25 +28,25 @@
       ]
     },
     {
-      "id": "42208aa898f4",
-      "title": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "id": "1a175ca0900d",
+      "title": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie - nrc.nl",
       "published": "2026-09-15T14:44:14+00:00",
-      "summary": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "summary": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;nrc.nl",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "name": "nrc.nl",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMVFFeTg3VVZsc1RCQ0pDRjh4RzVPal96SnhhOUY5a2NMcHFVLXJFZWl3VXBXOHpaTWljai14WlRhLUN0MGg2d1dCN096OU41Wnl0MVMwU0hOY2dudlk2NUVkRWQ1Ni1QNnpCR0dSdFNpbXBKU0FTRnI1X3FaWklrejRpSElMSVBXcTNoUVVqUDZlQ3JCUk5DMFZpQnJyTHRyZmNaSnhvbHBwSHJlU3pIMHh1SDNWaTRxT1k1S2ZRSllKN21SdmtOR2E4TkMyMHBsSzBoNmNLd18xQTZuYTVlN3NocG5ONFpBYXc?oc=5"
         }
       ]
     },
     {
-      "id": "dc32af2968b4",
-      "title": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker - Metronieuws.nl",
+      "id": "a8b27d9c6468",
+      "title": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker - metronieuws.nl",
       "published": "2026-09-14T12:31:00+00:00",
-      "summary": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker&nbsp;&nbsp;Metronieuws.nlDrinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;GezondnuMensen die zeer hete thee of koffie drinken hebben drie keer zoveel kans op zeldzame vorm van slokdarmkanker&nbs",
+      "summary": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker&nbsp;&nbsp;metronieuws.nlDrinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;rtl.nlHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;GezondnuMensen die zeer hete thee of koffie drinken hebben drie keer zoveel kans op zeldzame vorm van slokdarmkanker&nbs",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNJSHdKdmdoS2JUVlR1bW1LWF9YcG1rNEl1aGg1U3FIVDM5UWo0WUZ3LWdIb2hta2pkaXlFUGQ0SFNXZWVEUGl0VzR4UkVRRWstc19aRDB4c2Z3R28tN3RhUHFzZVhSTmp4ZmFWc3Q3RmdoZEtXQWVsOVVGc3NZaXpuc0xodXBFeFhqTnRYckRwUGZFcFBJTmQ5ZWtudHZXMm5tQXI0cm95RDltREVwck5jSmVoQjJselRwQUVJYkxMTHNn?oc=5"
         }
       ]
@@ -43,7 +55,7 @@
       "id": "7f5d2667c74d",
       "title": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts - AD.nl",
       "published": "2026-09-12T12:00:00+00:00",
-      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;parool.nlFontys ontwikkelt mobiel lab voor razendsnelle soa-uitslag&nbsp;&nbsp;Nationale Onderwijsgids",
+      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;Het ParoolFontys ontwikkelt mobiel lab voor razendsnelle soa-uitslag&nbsp;&nbsp;Nationale Onderwijsgids",
       "sources": [
         {
           "name": "AD.nl",
@@ -52,13 +64,13 @@
       ]
     },
     {
-      "id": "79d3c1933497",
-      "title": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden - Metronieuws.nl",
-      "published": "2026-09-15T07:08:32+00:00",
-      "summary": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden&nbsp;&nbsp;Metronieuws.nl7 kleine gewoontes die bepalend zijn voor je levensduur.&nbsp;&nbsp;Vietnam.vn",
+      "id": "baf63bb6817f",
+      "title": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden - metronieuws.nl",
+      "published": "2026-09-15T07:10:10+00:00",
+      "summary": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden&nbsp;&nbsp;metronieuws.nl7 kleine gewoontes die bepalend zijn voor je levensduur.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Metronieuws.nl",
+          "name": "metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXVHeHowYTczZE9jUzhyc25uYVJRSmVpajZQSWxKZ2tJbFpESEdOYXZ3dHZmamZJTUdMLVhRRHlTeV8wQ1d5c1cwZGJYN1dQMW9zSmJQaHEzUHduMnhvdUtFUjRPMllaemdwa3BKendKcTNIOWdyaTlOTlIxS0pSMzZzVnc1Yk55T1lFR24xdWNFQ3FNRFUyS2dFYw?oc=5"
         }
       ]
@@ -88,6 +100,18 @@
       ]
     },
     {
+      "id": "2b3be4d2519c",
+      "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
+      "published": "2026-09-13T08:15:00+00:00",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlOp welk moment van de dag is het het beste voor je gezondheid om koffie te drinken?&nbsp;&nbsp;Vietnam.vnVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV Focus",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4edc5013acd4",
       "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
       "published": "2026-09-11T18:21:00+00:00",
@@ -96,18 +120,6 @@
         {
           "name": "De Morgen",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afb0d7982bb4",
-      "title": "Je gebit kan bepalend zijn voor je werk en je liefdesleven. Nu komt een hoogleraar met een speciale oproep om het taboe rond deze ‘verborgen volksziekte’ te doorbreken - wibnet.nl",
-      "published": "2026-09-14T18:30:49+00:00",
-      "summary": "Je gebit kan bepalend zijn voor je werk en je liefdesleven. Nu komt een hoogleraar met een speciale oproep om het taboe rond deze ‘verborgen volksziekte’ te doorbreken&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPb2J4VmxOTHJheFdaU3piQi1YSmRJZmxHQ2QzM3dFYWlpZHJOb2lZSnVBWkRRZG54ejlpbmt5R20wR1ZsS1VwRlVTRzQ0ODhnYmhZdUJNaXFsUm5EVkIyRXp0aTB5OUJCc0dYS3JYS2FpeHRpTVFXa0NMS0tSNlNtYWxReGhMTktnTGhxb1d6UTJlMy15c3VDbUtvcGxSVlE3a3R4VzNLV2pIbVhGSTZFbjhaX1h2R196OTZ2SVBlMjgyUzJqc2ZWdjBBb1hnc3pYLU84N3RXMXg0VFUyNlU5VS1yTENPbWpxYjJsejdCQl81T0RrU2kzQmRFYll1NTE0YWx4b3N1dWVKQkJGNi1ZSGNrYVVZRlFzNEtHNGF3?oc=5"
         }
       ]
     }

@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-16T16:03:22.374796+00:00",
-  "count": 11,
+  "fetched_at": "2026-09-16T20:49:49.505255+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "9db6da757047",
-      "title": "Longkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn - De Gelderlander",
-      "published": "2026-09-16T07:28:32+00:00",
-      "summary": "Longkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;De GelderlanderBijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladOnderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer&nbsp;&nbsp;De GelderlanderStudie aan Radboudumc: app voor klachtenmonitoring verlengt ove",
+      "id": "b5842c567980",
+      "title": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd' - RTL.nl",
+      "published": "2026-09-16T14:45:53+00:00",
+      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladStudie aan Radboudumc: app voor klachtenmonitoring verlengt overleving bij longkanker&nbsp;&nbsp;NTVOKlachtenmonitoring via app verlengt leven bij longkanker&nbsp;&nbsp;ICT&amp;healthOnderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer&nbsp;&nbsp;De Geld",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSE91NFFvRmc3SG5zbkppSjBrOVRvSTU3T3hjUnM3RHdZRXB5c0o3LXVQSW13Y1JIOXRiZnJBYmZ1cjdDVGFDMF9WRmhRX1pxMU5uQUR0aU95SVZyQWpNZ0dLR3daa0ZtVWFVZFFuU0VsSnFJZWNOckVPMWJobnk0UGpCTkRBdzZKRmV6T29mUVc3NGs2akp4ZGJiWHotZXkwalkwWlJONE5hem5rTlI4dk9pSmMyLUYwLXg2TnJvUzVZRkxQYlE2NQ?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFNLTnVYV18wcUYyMmhLYXZ4SkEyR09KbTFMT09rZzl6TXl0ZDBpR2pqSFJMSzlPalZRWmJNV1ZJbnFGSElVbXBxMEVyUjVVLU5kekNvOVhTV2t2YnppTWxlT0ZfbXE5bDZDNUpsVVFjNDFvTFp1Y3RKX2hwR1JSLXI4NGRmdG15SzByaG4tZnpZV2RlY1d2TFhkbEhBaTNSMXBvbktFS2k0eTNYQWtNZENULWRZUV8x?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "42208aa898f4",
       "title": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-09-15T14:44:14+00:00",
-      "summary": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "summary": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekKabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV OostDe Seniorencoalitie kritisch op bezuinigingen, ziet pluspunten&nbsp;&nbsp;ANBO-PCOB",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -36,18 +36,6 @@
         {
           "name": "RTV Oost",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2NMZFlMZDBRSW82NUhXdXFrODNldGExeXp2LWUzZHllZlZHQWtFb2FaM280MjBWTE5NRERvcTJ2UjhwRXBISExSYk5ndUhhX1RyRnhMMmc2TzZfUU14M1h4ZlFydWRmbDZ4WHdTMy1CQm43VDQ3V2VYZnV0WVV0M0JjUUVHZ2llNy1KX093RzdwVkFyQ29sNHFSbXloYW83XzhKeDIwTDJNOWc1MmlnMUd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5ccabf24498",
-      "title": "Huidkanker zit bij mannen en vrouwen vaak op andere plekken: hier wil je extra goed controleren - Metronieuws.nl",
-      "published": "2026-09-16T06:26:28+00:00",
-      "summary": "Huidkanker zit bij mannen en vrouwen vaak op andere plekken: hier wil je extra goed controleren&nbsp;&nbsp;Metronieuws.nlHuidkanker herken je zo: deze 5 signalen kunnen wijzen op een verdacht plekje op je huid&nbsp;&nbsp;Kek Mama",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0prbWM2MXJHd1h1dXVhSDh2bGRqemhKd3g4bXY3Sl9fRW5qRTk0TUozZnBzVVBDeDA0V3FsTGJSNkJmMUZMc3hxNTFyTmtZdkpwV1hHTk9oWlV4RmwxWUlNZ1lGU1R0SFFpUzhSeGlNdDJ6QWM2UEtEal9FRzJ0ekxkaWNNdU9zbEJnNURBYVlKRVg4VjBuT1JneG05UmQ1Q3VYTXBaOXVBSmxGR1pGM3Y4b0RIbGprMExmWmRpMXNBQQ?oc=5"
         }
       ]
     },
@@ -88,14 +76,14 @@
       ]
     },
     {
-      "id": "b853cb2b73a5",
-      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - maxvandaag.nl",
-      "published": "2026-09-10T04:15:12+00:00",
-      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;maxvandaag.nl",
+      "id": "4edc5013acd4",
+      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
+      "published": "2026-09-11T18:21:00+00:00",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "maxvandaag.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJXVE9HNFFmbzRsWnRlSDZyd3dMb2dwMkRPUTlBVFpDZTlaQ01paTRZZVFBN3ZFYm53cnJyX1ltTk53dm9KZ09JWnpuendtSHlxR1JHOHZ6NjRubm5DdERJb0VzM1pGNk5FU3lvQlBNN2pXSUlXQndleEJsTmdKSnRlZTlQMmg2bEJyNlZKQmRDY2czTEl0NHVibXZKQWZrQmRxOVpycC1RMktiMy0tQmlrNG1xRVJlbjFpNm5QX19fd3dnMjMxNlFMQ08xTWZQVlV3dHduMXVmR1dnOXdpSUVnWGVUS19wRG92NkZONlBFZk5oM2RfWnpFZFJtQ053d0xOUjktNnAzSEZPeE42eHk4LUwtbU5z?oc=5"
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
         }
       ]
     },
@@ -112,26 +100,14 @@
       ]
     },
     {
-      "id": "4edc5013acd4",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
-      "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79d3c1933497",
+      "id": "70dca8bd4b23",
       "title": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden - Metronieuws.nl",
-      "published": "2026-09-15T07:08:32+00:00",
+      "published": "2026-09-14T16:16:00+00:00",
       "summary": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
           "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXVHeHowYTczZE9jUzhyc25uYVJRSmVpajZQSWxKZ2tJbFpESEdOYXZ3dHZmamZJTUdMLVhRRHlTeV8wQ1d5c1cwZGJYN1dQMW9zSmJQaHEzUHduMnhvdUtFUjRPMllaemdwa3BKendKcTNIOWdyaTlOTlIxS0pSMzZzVnc1Yk55T1lFR24xdWNFQ3FNRFUyS2dFYw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzJPZVBKZ1hoRnFMRGw4MklvTVBIcGxIRWNmZ3MzeEpaQkxqYjN1WmtGekp6ZDBpckRGRmFfM04yQVpnRGhOWXBDRTFERjU2cWxid1Q4VDdLRHZ4Ql9ZQkdfZ2ZTbURla20xeEtuVGJsczFuTUljeWFzMGY0THRKRDA1bnJwZkZGZGdKbU0tZlVkdw?oc=5"
         }
       ]
     }

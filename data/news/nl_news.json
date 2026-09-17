@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-17T03:16:03.296231+00:00",
-  "count": 10,
+  "fetched_at": "2026-09-17T10:54:22.368809+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "551c29060c03",
+      "title": "Persoon die via bloedtransfusie besmet raakte met westnijlvirus overleden - NU",
+      "published": "2026-09-17T09:39:40+00:00",
+      "summary": "Persoon die via bloedtransfusie besmet raakte met westnijlvirus overleden&nbsp;&nbsp;NUVierde dode westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;De TelegraafGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt wordt'&nbsp;&nbsp;RijnmondVierde dode in Nederland na besmetting met westnijlvirus, aantal besmettingen stijgt naar 28&nbsp;&nbsp;De GelderlanderSlapen onder een klamboe tegen westnijlvirus? Bestrijd muggen, vindt expert&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa29BOUZVOHI5VUM5VUZ6TGdPdEEta1ViVEt6VXdDOUxTZmczNEVPb2V4NGhvM2dZazFDbVZxUmh4cGtDdWRlRVdnSGlDTGp3N2N3UWV4TWhsSGttcy1tTVYyQmMwTUFFaGx4b2JVeGVzTmVQeDhpckpqMWVxdmlCUnRGc3NSZ1JNYVNSUU5VVWkxanJnSmxsZmhRdHJUd3JTekJ2bnpaaVo1VklMeVBxNjQydThwQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "b5842c567980",
       "title": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd' - RTL.nl",
       "published": "2026-09-16T14:45:53+00:00",
-      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladOnderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer&nbsp;&nbsp;De GelderlanderStudie aan Radboudumc: app voor klachtenmonitoring verlengt overleving bij longkanker&nbsp;&nbsp;NTVOKlachtenmonitoring via app verlengt leven bij longkanker&nbsp;&nbsp;ICT&am",
+      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlLongkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;De GelderlanderDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladStudie aan Radboudumc: app voor klachtenmonitoring verlengt overleving bij longkanker&nbsp;&nbsp;ntvo.nlDoor bijhouden van klachten leven Longkankerpatiënten langer&nbsp;&nbs",
       "sources": [
         {
           "name": "RTL.nl",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "42208aa898f4",
-      "title": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-09-15T14:44:14+00:00",
-      "summary": "Met de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekKabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV OostDe Seniorencoalitie kritisch op bezuinigingen, ziet pluspunten&nbsp;&nbsp;ANBO-PCOB",
+      "id": "0d3042c747e7",
+      "title": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch - RTV Oost",
+      "published": "2026-09-16T17:47:40+00:00",
+      "summary": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV OostMet de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDe Seniorencoalitie kritisch op bezuinigingen, ziet pluspunten&nbsp;&nbsp;ANBO-PCOB",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMVFFeTg3VVZsc1RCQ0pDRjh4RzVPal96SnhhOUY5a2NMcHFVLXJFZWl3VXBXOHpaTWljai14WlRhLUN0MGg2d1dCN096OU41Wnl0MVMwU0hOY2dudlk2NUVkRWQ1Ni1QNnpCR0dSdFNpbXBKU0FTRnI1X3FaWklrejRpSElMSVBXcTNoUVVqUDZlQ3JCUk5DMFZpQnJyTHRyZmNaSnhvbHBwSHJlU3pIMHh1SDNWaTRxT1k1S2ZRSllKN21SdmtOR2E4TkMyMHBsSzBoNmNLd18xQTZuYTVlN3NocG5ONFpBYXc?oc=5"
+          "name": "RTV Oost",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNF9iUWlaNjctYzhDbnhzMUw3Z0ZiaHpGZTkzQ1ptc3cxNFdCTWNSYTdfa0VIOUFYMkZ0b0tsSEpMeWo3OHFxcDRrZjd2eThTMUVYUlNILW5KQkUwN1NxZDFRZFZoMktJNF9tcHlQYW55RVhjY3JRTkQ0QVIzMDlMRVp1QW9EN0UwcldkWmtFYl9hbGlKUWdLVU9tY0NnMjRMamdPVDI5bW5hVlBod2hsQ3FrM0tBUQ?oc=5"
         }
       ]
     },
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "dc32af2968b4",
-      "title": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker - Metronieuws.nl",
-      "published": "2026-09-14T12:31:00+00:00",
-      "summary": "Groot onderzoek: koffie en thee boven 65 graden gelinkt aan tot 3 keer hoger risico op slokdarmkanker&nbsp;&nbsp;Metronieuws.nlDrinken van te hete koffie of thee kan kans op slokdarmkanker verdrievoudigen&nbsp;&nbsp;NUOnderzoek: zeer hete koffie of thee drinken 'vergroot kans op slokdarmkanker'&nbsp;&nbsp;RTL.nlHeet eten en drinken: waarom je beter even kunt wachten&nbsp;&nbsp;GezondnuMensen die zeer hete thee of koffie drinken hebben drie keer zoveel kans op zeldzame vorm van slokdarmkanker&nbs",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNJSHdKdmdoS2JUVlR1bW1LWF9YcG1rNEl1aGg1U3FIVDM5UWo0WUZ3LWdIb2hta2pkaXlFUGQ0SFNXZWVEUGl0VzR4UkVRRWstc19aRDB4c2Z3R28tN3RhUHFzZVhSTmp4ZmFWc3Q3RmdoZEtXQWVsOVVGc3NZaXpuc0xodXBFeFhqTnRYckRwUGZFcFBJTmQ5ZWtudHZXMm5tQXI0cm95RDltREVwck5jSmVoQjJselRwQUVJYkxMTHNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b3be4d2519c",
       "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
       "published": "2026-09-13T08:15:00+00:00",
@@ -64,10 +64,22 @@
       ]
     },
     {
+      "id": "4edc5013acd4",
+      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
+      "published": "2026-09-11T18:21:00+00:00",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f5d2667c74d",
       "title": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts - AD.nl",
       "published": "2026-09-12T12:00:00+00:00",
-      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;Het Parool",
+      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;Het ParoolFontys ontwikkelt mobiel lab voor razendsnelle soa-uitslag&nbsp;&nbsp;Nationale Onderwijsgids",
       "sources": [
         {
           "name": "AD.nl",
@@ -88,38 +100,14 @@
       ]
     },
     {
-      "id": "4edc5013acd4",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
-      "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75c5b6a277bb",
       "title": "Onderzoek onder 33.000 mensen: wandeling van 15 minuten of langer lijkt gezonder dan korte ommetjes - Metronieuws.nl",
-      "published": "2026-09-16T07:13:21+00:00",
+      "published": "2026-09-15T16:18:12+00:00",
       "summary": "Onderzoek onder 33.000 mensen: wandeling van 15 minuten of langer lijkt gezonder dan korte ommetjes&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjRMOWNtLWFLampoSEozSUM5ODlvcmdvSVVvZ0otSHVJR2NFNVBHcy12alNmQ1ZqY0tXMUs3TkFSbnJ3TUFUcG41c3JPR2xFeXNOaFNjdUI1UHplNmVlS3N6RzhKRl9WV0JkSHlqZ1FUTXdxbjMzR1MyaEVpY3FnbC1TcDU5VkdoaE9jbEk5SmRyY1ptSVFLV3lDRFBWQ0x2T0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70dca8bd4b23",
-      "title": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden - Metronieuws.nl",
-      "published": "2026-09-14T16:16:00+00:00",
-      "summary": "Studie onder 500.000 mensen: deze 5 verrassende factoren wegen zwaar bij gezond ouder worden&nbsp;&nbsp;Metronieuws.nl",
-      "sources": [
-        {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzJPZVBKZ1hoRnFMRGw4MklvTVBIcGxIRWNmZ3MzeEpaQkxqYjN1WmtGekp6ZDBpckRGRmFfM04yQVpnRGhOWXBDRTFERjU2cWxid1Q4VDdLRHZ4Ql9ZQkdfZ2ZTbURla20xeEtuVGJsczFuTUljeWFzMGY0THRKRDA1bnJwZkZGZGdKbU0tZlVkdw?oc=5"
         }
       ]
     }

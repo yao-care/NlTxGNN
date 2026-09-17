@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clobazam
-parent: 僅模型預測 (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 44
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Clobazam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -109,8 +109,8 @@ Despite a high TxGNN prediction score (99.82%), the supporting evidence for clob
 - Safety review to resolve DG001: Dutch or EMA SmPC warnings and contraindications must be obtained before entering formal safety evaluation (currently blocking S1 stage)
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

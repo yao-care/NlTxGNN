@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Entacapone
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Entacapone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -100,8 +100,8 @@ Despite a high TxGNN prediction score (99.76%), the evidence for Entacapone in P
 - Safety profile review via the current SmPC before any clinical consideration is advanced
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

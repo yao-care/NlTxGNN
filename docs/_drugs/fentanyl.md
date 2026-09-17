@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fentanyl
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Fentanyl
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -107,8 +107,8 @@ This is an L5 prediction with zero supporting clinical trials or published liter
 > **Note:** The second-ranked TxGNN prediction — **Tourette Syndrome** (score 99.05%) — similarly carries an L5 evidence level and a Hold recommendation. While an indirect mechanistic link exists via opioid modulation of striatal dopaminergic circuits (CSTC loop), fentanyl's high addiction liability and extremely narrow therapeutic window make it entirely unsuitable for the long-term management of a chronic neurodevelopmental disorder. That prediction also appears to be a topological false positive and is not recommended for further development.
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

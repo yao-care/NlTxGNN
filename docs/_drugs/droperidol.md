@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Droperidol
-parent: 僅模型預測 (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 54
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Droperidol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -114,8 +114,8 @@ Evidence for droperidol in Tourette syndrome is at L4 level — the single retri
 - Comparative analysis against existing approved D2 antagonists for Tourette syndrome (haloperidol, pimozide, aripiprazole) to establish a differentiation rationale
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

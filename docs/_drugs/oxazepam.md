@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oxazepam
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 101
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Oxazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Bewijsniveau: **L2** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -124,8 +124,8 @@ The TxGNN prediction score of 99.86% is supported by a coherent and well-underst
 - **Comparison with approved hypnotics**: Position Oxazepam against currently authorized first-line insomnia treatments in the Netherlands (e.g., temazepam, z-drugs) to define the clinical niche and patient population where Oxazepam would offer incremental value.
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

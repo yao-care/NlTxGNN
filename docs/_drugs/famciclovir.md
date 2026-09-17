@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Famciclovir
-parent: 僅模型預測 (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 66
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Famciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -115,8 +115,8 @@ Although a plausible mechanistic connection exists between VZV-driven nerve dama
 > **Additional note — stronger evidence exists for a related indication:** Among all TxGNN predictions in this pack, **chickenpox (VZV infection, rank 7)** carries the highest evidence level (L1), supported by two completed Phase 3 RCTs directly involving famciclovir (NCT01327144; NCT00098046). If the objective is to establish famciclovir on the Dutch market, pursuing a primary authorization for VZV infection/herpes zoster — leveraging this robust clinical evidence base — would be a more defensible first step, with post-infectious neuralgia as a secondary indication hypothesis to investigate thereafter.
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

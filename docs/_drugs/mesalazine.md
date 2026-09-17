@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mesalazine
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Mesalazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -108,8 +108,8 @@ The top-ranked TxGNN prediction for Mesalazine — congenital hypotrichosis with
 - **Consider alternative indications**: The evidence pack contains two other predictions with stronger biological support — **osteoarthritis** (rank 2, L4, 1 × 2024 Nature Communications pre-clinical study via OSCAR-PPARγ axis) and **rheumatoid arthritis** (rank 3, L3, historical Sulfasalazine DMARD evidence) — which may be more suitable candidates for dedicated repurposing evaluation reports
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

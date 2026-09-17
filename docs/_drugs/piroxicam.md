@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Piroxicam
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 106
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Piroxicam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -127,8 +127,8 @@ Piroxicam has direct controlled clinical trial evidence in Juvenile Idiopathic A
 - Evaluate whether more COX-2 selective NSAIDs with better-established paediatric safety profiles (e.g., naproxen, meloxicam) should be preferred first-line options before pursuing Piroxicam for this indication
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

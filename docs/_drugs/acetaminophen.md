@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetaminophen
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Acetaminophen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -108,8 +108,8 @@ Acetaminophen has strong RCT-level evidence (L1) for efficacy in general acute m
 *This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Report generated on 2026-04-03 based on evidence pack v4 (data cutoff: 2026-04-03).*
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

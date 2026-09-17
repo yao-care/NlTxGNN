@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vecuronium
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Vecuronium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -119,8 +119,8 @@ Vecuronium's mechanism of action — peripheral nAChR antagonism causing skeleta
 - Re-evaluation of the second TxGNN prediction (Irritable Bowel Syndrome, score 99.11%) — which also carries a "Hold / no plausible mechanism" assessment — before committing any resources to this candidate
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

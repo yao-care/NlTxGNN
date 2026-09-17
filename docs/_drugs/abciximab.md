@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abciximab
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Abciximab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -45,7 +45,7 @@ Abciximab (DrugBank: DB00054) is a glycoprotein IIb/IIIa receptor inhibitor hist
 | Predicted New Indication | **None** — no TxGNN predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No model predictions, no supporting studies) |
-| NL Market Status | Not marketed (未上市) |
+| NL Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -73,7 +73,7 @@ Currently no related literature available for repurposing candidates (no predict
 
 ## Netherlands Market Information
 
-Abciximab has **no current marketing authorizations** registered in the evidence pack. The drug is listed as **not marketed** (未上市).
+Abciximab has **no current marketing authorizations** registered in the evidence pack. The drug is listed as **not marketed** (Not marketed).
 
 > **Regulatory context:** No CBG-MEB (College ter Beoordeling van Geneesmiddelen) registrations or EMA centrally authorized product records were identified for this drug. Historically, abciximab was marketed as ReoPro but has been discontinued in many jurisdictions. Any future repurposing consideration would require a new marketing authorization application.
 
@@ -100,8 +100,8 @@ The TxGNN model did not identify any repurposing candidates for abciximab. Combi
 *This report was generated on 2026-04-03 based on Evidence Pack v4. Results are for research purposes only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

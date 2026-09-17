@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lactulose
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Lactulose
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -120,8 +120,8 @@ The TxGNN prediction for acute urate nephropathy sits at evidence level L5 — w
 > The **obstructive jaundice** indication (rank 3) is particularly notable: a direct clinical trial (NCT01090193) and a 1991 multicentre randomised controlled trial (PMID 2032107) exist, and the mechanistic basis — Lactulose reducing perioperative endotoxaemia and postoperative renal dysfunction in jaundiced surgical patients — is well described. A separate, focused report for that indication is recommended as the next step.
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Capecitabine
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 38
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Capecitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L1** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -137,8 +137,8 @@ The TxGNN prediction aligns with — and is directly validated by — an extensi
 - **Institutional protocol**: Confirm CAPOX cycle scheduling, antiemetic prophylaxis, and hand-foot syndrome management guidelines in the context of Dutch oncology formulary standards
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

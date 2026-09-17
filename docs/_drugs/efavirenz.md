@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Efavirenz
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Efavirenz
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -51,7 +51,7 @@ however there are currently **0 clinical trials** and **0 publications** specifi
 | Predicted New Indication | Simian Immunodeficiency Virus Infection |
 | TxGNN Prediction Score | 99.80% |
 | Evidence Level | L5 — model prediction only, no actual studies |
-| NL Market Status | Not registered (未上市) |
+| NL Market Status | Not registered (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -107,8 +107,8 @@ The TxGNN model assigns a near-maximum confidence score to this repurposing cand
 - **Re-evaluate rank 2 indication**: The Evidence Pack's second-ranked prediction (feline acquired immunodeficiency syndrome, same score of 99.80%) has one supporting biochemical study (PMID [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/)) comparing NNRTI activity against FIV and HIV-1 reverse transcriptases — this may represent a more actionable evidence thread for further review
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Diazepam
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 51
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Diazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -138,8 +138,8 @@ Diazepam's hypnotic mechanism is directly and robustly established — this TxGN
 - Pharmacovigilance strategy covering cognitive effects, fall risk, and potential cancer signal with prolonged use
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

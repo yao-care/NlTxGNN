@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bicalutamide
-parent: 僅模型預測 (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 30
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Bicalutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -131,8 +131,8 @@ The only available supporting evidence is a single expert commentary letter disc
 > ⚠️ **Disclaimer**: This report is intended for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application. This analysis reflects data available as of 2026-04-03.
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

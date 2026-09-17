@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clozapine
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 46
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Clozapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -47,7 +47,7 @@ with **6 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Manic Bipolar Affective Disorder |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L2 |
-| NL Market Status | Not marketed (未上市) |
+| NL Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -95,7 +95,7 @@ The prediction is further supported by a body of clinical evidence: a completed 
 
 ## Netherlands Market Information
 
-No CBG-MEB marketing authorizations for Clozapine were found in the queried database, and the market status is recorded as "not marketed" (未上市).
+No CBG-MEB marketing authorizations for Clozapine were found in the queried database, and the market status is recorded as "not marketed" (Not marketed).
 
 > **Note for Dutch prescribers:** This result may reflect a data gap in the queried source rather than the complete regulatory picture. Clozapine products may be available in the Netherlands under EMA centrally authorised procedures or via national hospital supply channels. Please verify current authorisation status directly with the **CBG-MEB** (College ter Beoordeling van Geneesmiddelen) or the EMA medicines database before drawing regulatory conclusions. The SmPC (Samenvatting van de Productkenmerken) should be consulted for the definitive approved indication and prescribing conditions.
 
@@ -125,8 +125,8 @@ A systematic review with meta-analysis and a completed Phase 2 double-blind tria
 - Consider pharmacovigilance plan aligned with CBG-MEB and EMA post-marketing requirements for off-label use
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

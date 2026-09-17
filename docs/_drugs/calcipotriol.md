@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Calcipotriol
-parent: 僅模型預測 (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 36
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Calcipotriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -113,8 +113,8 @@ Multiple observational studies and case series (6 publications, Evidence Level L
 - Confirm optimal treatment duration and long-term remission data beyond the 6–10 year follow-up observed in the 2023 case series
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

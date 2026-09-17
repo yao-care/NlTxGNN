@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Temozolomide
-parent: 僅模型預測 (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 118
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Bewijsniveau: **L1** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -135,8 +135,8 @@ Temozolomide carries one of the strongest evidence bases in neuro-oncology, with
 - **Clinical governance:** Define patient eligibility criteria (performance status, age, MGMT status, tumour grade) consistent with current Dutch neuro-oncology society guidelines and align with multidisciplinary tumour board protocols
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

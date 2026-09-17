@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adrenaline
-parent: 僅模型預測 (L5)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Adrenaline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Bewijsniveau: **L5** | Voorspelde indicaties: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhoudsopgave
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Farmaceutisch beoordelingsrapport
 
 </div>
 
@@ -47,7 +47,7 @@ Adrenaline (epinephrine) is a well-known sympathomimetic amine used broadly in e
 | Predicted New Indication | None — no TxGNN predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (No prediction to evaluate) |
-| Market Status | Not marketed (未上市) |
+| Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -61,7 +61,7 @@ This evidence pack was generated with significant data gaps that prevent a meani
 
 2. **No DrugBank ID mapped**: Although a DrugBank query returned 1 result, the `drugbank_id` field remains null. This prevents automated retrieval of mechanism of action, pharmacological targets, and safety profile data.
 
-3. **No regulatory records**: The drug shows 0 marketing authorizations and a status of "not marketed" (未上市), meaning there are no local label data (SmPC equivalent) from which to extract indications, warnings, or contraindications.
+3. **No regulatory records**: The drug shows 0 marketing authorizations and a status of "not marketed" (Not marketed), meaning there are no local label data (SmPC equivalent) from which to extract indications, warnings, or contraindications.
 
 Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, adrenaline (epinephrine) is an endogenous catecholamine and non-selective adrenergic agonist (acting on α1, α2, β1, and β2 receptors). It is widely used in emergency medicine for anaphylaxis, cardiac arrest, and acute bronchospasm. However, without a specific TxGNN prediction, no mechanistic bridge to a new indication can be evaluated.
 
@@ -81,7 +81,7 @@ Currently no related literature available in this evidence pack.
 
 ## Market Information
 
-No marketing authorizations are recorded for this drug in the current evidence pack. The market status is listed as "not marketed" (未上市) with 0 licenses.
+No marketing authorizations are recorded for this drug in the current evidence pack. The market status is listed as "not marketed" (Not marketed) with 0 licenses.
 
 ---
 
@@ -120,8 +120,8 @@ There are no TxGNN-predicted indications for Adrenaline in this evidence pack, a
 *Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
 ## Disclaimer
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.
+Klinische validatie is vereist vóór elke klinische toepassing.
 
 ---
 

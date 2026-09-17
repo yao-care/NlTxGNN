@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-16T20:49:49.505255+00:00",
-  "count": 9,
+  "fetched_at": "2026-09-17T03:16:03.296231+00:00",
+  "count": 10,
   "news": [
     {
       "id": "b5842c567980",
       "title": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd' - RTL.nl",
       "published": "2026-09-16T14:45:53+00:00",
-      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladStudie aan Radboudumc: app voor klachtenmonitoring verlengt overleving bij longkanker&nbsp;&nbsp;NTVOKlachtenmonitoring via app verlengt leven bij longkanker&nbsp;&nbsp;ICT&amp;healthOnderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer&nbsp;&nbsp;De Geld",
+      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladOnderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer&nbsp;&nbsp;De GelderlanderStudie aan Radboudumc: app voor klachtenmonitoring verlengt overleving bij longkanker&nbsp;&nbsp;NTVOKlachtenmonitoring via app verlengt leven bij longkanker&nbsp;&nbsp;ICT&am",
       "sources": [
         {
           "name": "RTL.nl",
@@ -64,6 +64,18 @@
       ]
     },
     {
+      "id": "7f5d2667c74d",
+      "title": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts - AD.nl",
+      "published": "2026-09-12T12:00:00+00:00",
+      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;Het Parool",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3M4eGRwSGZaek5xbGFJMmh5a3MtTTBvdkVTblJHTndzcl95bHYyNjFsN0ZOQUdoamNad0tEYTlXbXVRazVQWlBLZ0NUSDUyUTJCalh1aUlzRENXTzJJbVRiMW9CMjhCMElGQmttOGtKV2cwTTlBbVZrQVJqRXFQbldWZVFNSHdBS09UY2o2RUFtRzlLRVlKVVhHM2ZDa1BQTTUtbmRKQllWd1dUaHBvTDRESU9tcTFkZU9IV0NOWWk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f2b728ec911",
       "title": "Waarom de vergoeding van obesitasmedicijnen volgens expert nu op de schop moet - AD.nl",
       "published": "2026-09-12T09:34:00+00:00",
@@ -90,7 +102,7 @@
     {
       "id": "75c5b6a277bb",
       "title": "Onderzoek onder 33.000 mensen: wandeling van 15 minuten of langer lijkt gezonder dan korte ommetjes - Metronieuws.nl",
-      "published": "2026-09-15T16:15:00+00:00",
+      "published": "2026-09-16T07:13:21+00:00",
       "summary": "Onderzoek onder 33.000 mensen: wandeling van 15 minuten of langer lijkt gezonder dan korte ommetjes&nbsp;&nbsp;Metronieuws.nl",
       "sources": [
         {

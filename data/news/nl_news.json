@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-18T03:02:06.164733+00:00",
+  "fetched_at": "2026-09-18T10:30:03.670194+00:00",
   "count": 7,
   "news": [
     {
       "id": "15603781091e",
       "title": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus - NU",
       "published": "2026-09-17T20:02:21+00:00",
-      "summary": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus&nbsp;&nbsp;NUVierde dode na besmetting met westnijlvirus, tien mensen positief getest&nbsp;&nbsp;NOSVierde dode met westnijlvirus, virus opgelopen via bloeddonor uit provincie Utrecht&nbsp;&nbsp;RTV UtrechtGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt wordt'&nbsp;&nbsp;RijnmondSteeds meer vogels met symptomen westnijlvirus in opvang Zundert&nbsp;&nbsp;Omroep Brabant",
+      "summary": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus&nbsp;&nbsp;NUVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSSanquin test vanaf vandaag bloed van Zeeuwse donoren op westnijlvirus&nbsp;&nbsp;Omroep ZeelandSteeds meer vogels met symptomen westnijlvirus in opvang Zundert&nbsp;&nbsp;Omroep BrabantGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt wordt'&nbsp;&nbsp;Rijnmond",
       "sources": [
         {
           "name": "NU",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "0d3042c747e7",
-      "title": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch - RTV Oost",
-      "published": "2026-09-16T17:47:40+00:00",
-      "summary": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV OostMet de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekSeniorencoalitie reageert op Miljoenennota: lichtpunten, maar ook financiële tegenvallers voor ouderen&nbsp;&nbsp;Nationale ZorggidsDe Seniorencoalitie kritisch op bezuinigingen, ziet pluspunten&nbsp;&nbsp;ANBO-PCOB70-plusse",
+      "id": "7bedfb264df6",
+      "title": "Veel Twentenaren wachten weken langer op hun griepprik - Tubantia",
+      "published": "2026-09-18T07:28:40+00:00",
+      "summary": "Veel Twentenaren wachten weken langer op hun griepprik&nbsp;&nbsp;TubantiaMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "RTV Oost",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNF9iUWlaNjctYzhDbnhzMUw3Z0ZiaHpGZTkzQ1ptc3cxNFdCTWNSYTdfa0VIOUFYMkZ0b0tsSEpMeWo3OHFxcDRrZjd2eThTMUVYUlNILW5KQkUwN1NxZDFRZFZoMktJNF9tcHlQYW55RVhjY3JRTkQ0QVIzMDlMRVp1QW9EN0UwcldkWmtFYl9hbGlKUWdLVU9tY0NnMjRMamdPVDI5bW5hVlBod2hsQ3FrM0tBUQ?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGpxQVFvYm5qR2hZSEsxVTAtb2ozNDBzblA3U1hJN3N3N1F1Nlpwb1F3VmNMdXBpbktlU3c1cWtRZy0xaHpUWlptYlJWeW44RnpvRndKVzJoYVpRaXIxUnp4YjVMQVB0Z0NrZmFHWC1QZTg5RnQ4MDJNZDJoYlphbWhqVzdSMno0YjA3WlFvdk1YMWQ0UmNtNDRDU0xQZw?oc=5"
         }
       ]
     },
@@ -43,23 +43,11 @@
       "id": "2b3be4d2519c",
       "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
       "published": "2026-09-13T08:15:00+00:00",
-      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlWat is het beste moment om koffie te drinken om alert te blijven zonder slaap te verliezen?&nbsp;&nbsp;Vietnam.vnVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV Focus",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlOnderzoek: koffiedrinkers hebben meer spieren én minder lichaamsvet&nbsp;&nbsp;Metronieuws.nlVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV Focus",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12e2e04175c8",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - demorgen.be",
-      "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;demorgen.beDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling kan leiden tot cardiale remodellering&nbsp;&nbsp;artsenkrant.pmg.beTe veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;deCheckersHoe kan blootstelling aan licht 's nachts het hart schaden?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "demorgen.be",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
         }
       ]
     },
@@ -84,6 +72,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3M4eGRwSGZaek5xbGFJMmh5a3MtTTBvdkVTblJHTndzcl95bHYyNjFsN0ZOQUdoamNad0tEYTlXbXVRazVQWlBLZ0NUSDUyUTJCalh1aUlzRENXTzJJbVRiMW9CMjhCMElGQmttOGtKV2cwTTlBbVZrQVJqRXFQbldWZVFNSHdBS09UY2o2RUFtRzlLRVlKVVhHM2ZDa1BQTTUtbmRKQllWd1dUaHBvTDRESU9tcTFkZU9IV0NOWWk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4edc5013acd4",
+      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
+      "published": "2026-09-11T18:21:00+00:00",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenLichtvervuiling kan leiden tot cardiale remodellering&nbsp;&nbsp;ArtsenkrantTe veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;deCheckersHoe kan blootstelling aan licht 's nachts het hart schaden?&nbsp;&nbsp;Vietnam.vnSlapen in het donker blijkt belangrijk voor het hart&nbsp;&nbsp;Newsmonkey -",
+      "sources": [
+        {
+          "name": "De Morgen",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
         }
       ]
     }

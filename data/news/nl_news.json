@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-17T20:55:07.423000+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-18T03:02:06.164733+00:00",
+  "count": 7,
   "news": [
     {
       "id": "15603781091e",
       "title": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus - NU",
       "published": "2026-09-17T20:02:21+00:00",
-      "summary": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus&nbsp;&nbsp;NUVierde dode na besmetting met westnijlvirus, tien mensen positief getest&nbsp;&nbsp;NOSVierde dode met westnijlvirus, virus opgelopen via bloeddonor uit provincie Utrecht&nbsp;&nbsp;RTV UtrechtSteeds meer vogels met symptomen westnijlvirus in opvang Zundert&nbsp;&nbsp;Omroep BrabantGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt wordt'&nbsp;&nbsp;Rijnmond",
+      "summary": "Bloedbank Sanquin test in 9 provincies donoren individueel op westnijlvirus&nbsp;&nbsp;NUVierde dode na besmetting met westnijlvirus, tien mensen positief getest&nbsp;&nbsp;NOSVierde dode met westnijlvirus, virus opgelopen via bloeddonor uit provincie Utrecht&nbsp;&nbsp;RTV UtrechtGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt wordt'&nbsp;&nbsp;RijnmondSteeds meer vogels met symptomen westnijlvirus in opvang Zundert&nbsp;&nbsp;Omroep Brabant",
       "sources": [
         {
           "name": "NU",
@@ -19,7 +19,7 @@
       "id": "b5842c567980",
       "title": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd' - RTL.nl",
       "published": "2026-09-16T14:45:53+00:00",
-      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlLongkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;De GelderlanderDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladDoor bijhouden van klachten leven Longkankerpatiënten langer&nbsp;&nbsp;zorgkrant.nlLongkankerpatiënten leven gemiddeld vijf maanden langer bij gebruik van klachtenapp&nbsp;&",
+      "summary": "Bijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlLongkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;De GelderlanderDoor simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladDoor bijhouden van klachten leven Longkankerpatiënten langer&nbsp;&nbsp;ZorgKrant.nlLongkankerpatiënten leven gemiddeld vijf maanden langer bij gebruik van klachtenapp&nbsp;&",
       "sources": [
         {
           "name": "RTL.nl",
@@ -30,7 +30,7 @@
     {
       "id": "0d3042c747e7",
       "title": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch - RTV Oost",
-      "published": "2026-09-16T17:47:35+00:00",
+      "published": "2026-09-16T17:47:40+00:00",
       "summary": "Kabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV OostMet de inhaalcampagne van de gordelroosvaccinatie worden ouderen wellicht ook beter beschermd tegen dementie&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekSeniorencoalitie reageert op Miljoenennota: lichtpunten, maar ook financiële tegenvallers voor ouderen&nbsp;&nbsp;Nationale ZorggidsDe Seniorencoalitie kritisch op bezuinigingen, ziet pluspunten&nbsp;&nbsp;ANBO-PCOB70-plusse",
       "sources": [
         {
@@ -40,22 +40,10 @@
       ]
     },
     {
-      "id": "7bedfb264df6",
-      "title": "Veel Twentenaren wachten weken langer op hun griepprik - Tubantia",
-      "published": "2026-09-17T17:20:00+00:00",
-      "summary": "Veel Twentenaren wachten weken langer op hun griepprik&nbsp;&nbsp;TubantiaPatiënten krijgen griepprik maanden later: 'Begrijpen dat dat vervelend is'&nbsp;&nbsp;Omroep BrabantBericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst RouveenVertraging griepvaccins dwingt huisartsen tot herplanning van prikrondes&nbsp;&nbsp;Nationale Zorggids",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGpxQVFvYm5qR2hZSEsxVTAtb2ozNDBzblA3U1hJN3N3N1F1Nlpwb1F3VmNMdXBpbktlU3c1cWtRZy0xaHpUWlptYlJWeW44RnpvRndKVzJoYVpRaXIxUnp4YjVMQVB0Z0NrZmFHWC1QZTg5RnQ4MDJNZDJoYlphbWhqVzdSMno0YjA3WlFvdk1YMWQ0UmNtNDRDU0xQZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b3be4d2519c",
       "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
       "published": "2026-09-13T08:15:00+00:00",
-      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV Focus",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlWat is het beste moment om koffie te drinken om alert te blijven zonder slaap te verliezen?&nbsp;&nbsp;Vietnam.vnVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV Focus",
       "sources": [
         {
           "name": "AD.nl",
@@ -67,7 +55,7 @@
       "id": "12e2e04175c8",
       "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - demorgen.be",
       "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;demorgen.beMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;demorgen.beDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling kan leiden tot cardiale remodellering&nbsp;&nbsp;artsenkrant.pmg.beTe veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;deCheckersHoe kan blootstelling aan licht 's nachts het hart schaden?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "demorgen.be",

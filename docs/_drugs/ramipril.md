@@ -29,89 +29,86 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the Drug Repurposing Evaluation Report Prompt (v5) already loaded as my system prompt, I'll proceed directly to generate the report.
+# Ramipril: van Hypertensie naar Pulmonale Hypertensie met Onduidelijk Multifactorieel Mechanisme
+
+## Samenvatting in één zin
+
+Ramipril is een angiotensine-converterende enzym (ACE) remmer met goed gevestigde cardiovasculaire indicaties — waaronder hypertensie, hartfalen, management na myocardinfarct en nierprotectie — hoewel geen actieve CBG-MEB-marktvergunningen in de huidige dataset voor Nederland zijn geregistreerd.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **pulmonale hypertensie met onduidelijk multifactorieel mechanisme**, wat het hoogst gerangschikte hergebruikingssignaal vertegenwoordigt.
+Echter, **geen klinische onderzoeken en geen publicaties** ondersteunen direct deze specifieke richting, waardoor dit op dit moment een alleen-model-voorspelling is.
 
 ---
 
-# Ramipril: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+## Snelle overzicht
 
-## One-Sentence Summary
-
-Ramipril is an angiotensin-converting enzyme (ACE) inhibitor with well-established cardiovascular indications — including hypertension, heart failure, post-myocardial infarction management, and renal protection — though no active CBG-MEB marketing authorizations are recorded in the current dataset for the Netherlands.
-The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, representing the highest-ranked repurposing signal.
-However, **no clinical trials and no publications** directly support this specific direction, making this a model-only prediction at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No CBG-MEB authorization records available (drug not registered per current dataset) |
-| Predicted New Indication | Pulmonary Hypertension with Unclear Multifactorial Mechanism |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered (per current CBG-MEB records) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Geen CBG-MEB-vergunningsrecords beschikbaar (geneesmiddel niet geregistreerd volgens huidige dataset) |
+| Voorspelde nieuwe indicatie | Pulmonale Hypertensie met Onduidelijk Multifactorieel Mechanisme |
+| TxGNN-voorspellingsscore | 99,93% |
+| Bewijsniveau | L5 |
+| NL-marktStatus | Niet geregistreerd (volgens huidige CBG-MEB-records) |
+| Aantal vergunningen | 0 |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological information, Ramipril belongs to the ACE inhibitor (ACEI) drug class. It blocks the conversion of angiotensin I to angiotensin II within the renin-angiotensin-aldosterone system (RAAS), thereby reducing systemic vascular resistance, aldosterone secretion, and — theoretically — pulmonary vascular tone. Its efficacy in hypertension and cardiovascular risk reduction is well established through large landmark trials (including the HOPE trial) and renal protection through the REIN study.
+Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit bewijspakket. Op basis van bekende farmacologische informatie behoort Ramipril tot de stofklasse van ACE-remmers (ACEI). Het blokkeert de omzetting van angiotensine I naar angiotensine II binnen het renine-angiotensine-aldosteron-systeem (RAAS), waardoor systemische vaatweerstand, aldosteronafscheiding en — theoretisch — pulmonale vasculaire tonus afnemen. De werkzaamheid bij hypertensie en cardiovasculaire risicovermindering is goed aangetoond in grote oriëntatiepuntstudies (waaronder de HOPE-studie) en nierprotectie door de REIN-studie.
 
-The theoretical basis for the TxGNN prediction rests on the partial overlap between RAAS activation and pulmonary vascular pathophysiology. Angiotensin II promotes pulmonary vasoconstriction, smooth muscle proliferation, and endothelial dysfunction, all of which contribute to elevated pulmonary vascular resistance. By suppressing angiotensin II activity, Ramipril could, in principle, attenuate one of the contributing pathways in multifactorial pulmonary hypertension.
+De theoretische basis voor de TxGNN-voorspelling berust op de gedeeltelijke overlap tussen RAAS-activering en pathofysiologie van pulmonale vaten. Angiotensine II bevordert pulmonale vasoconrictie, proliferatie van gladde spieren en endotheeldisfunctie, die allemaal bijdragen aan verhoogde pulmonale vaatweerstand. Door angiotensine II-activiteit te onderdrukken, zou Ramipril in principe één van de bijdragende pathways in multifactoriële pulmonale hypertensie kunnen verzwakken.
 
-In clinical reality, however, this overlap is insufficient to drive therapeutic efficacy. Pulmonary hypertension with unclear multifactorial mechanism is governed by multiple parallel pathogenic axes — including endothelin-1 (ET-1), platelet-derived growth factor (PDGF), and dysregulated bone morphogenetic protein receptor type II (BMPR2) signalling — that are entirely outside the scope of RAAS blockade. ACE inhibition may also lower systemic blood pressure without proportionally reducing pulmonary vascular resistance, introducing a risk of adverse compensatory haemodynamics in this patient population. Accordingly, the mechanistic rationale is weak, and no clinical signal has been identified to support this prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+In de klinische praktijk is deze overlap echter onvoldoende om therapeutische werkzaamheid te stimuleren. Pulmonale hypertensie met onduidelijk multifactorieel mechanisme wordt beheerst door meerdere parallelle pathogene assen — waaronder endotheline-1 (ET-1), plaatjesafkomstige groeifactor (PDGF) en dysgereguleerde beenmorfogeenproteïne-receptortype II (BMPR2) signaaltransductie — die volledig buiten het bereik van RAAS-blokkade vallen. ACE-remming kan ook de systemische bloeddruk verlagen zonder evenredig de pulmonale vaatweerstand te verminderen, wat een risico van ongunstige compensatoire hemodynamica in deze patiëntenpopulatie introduceert. Dienovereenkomstig is de mechanistische rationale zwak, en geen klinisch signaal is geïdentificeerd ter ondersteuning van deze voorspelling.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB marketing authorizations for Ramipril are recorded in the current dataset. This is likely a **data pipeline gap** rather than a true absence from the Dutch market — Ramipril is a widely used generic ACE inhibitor available throughout Europe, and centrally or nationally authorized products may not yet be captured in this evidence pack.
-
-Before any regulatory action, the current authorization status should be verified directly via:
-- The **CBG-MEB public register** at [geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)
-- The **EMA product database** for centrally authorized generics
-- The relevant **SmPC (Samenvatting van de Productkenmerken)** for approved indications and safety data
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
-
-> **Note:** Safety data (key warnings, contraindications, and drug interactions) were not available in this evidence pack. For a drug of Ramipril's profile — an ACE inhibitor with known class effects including hyperkalaemia, acute kidney injury in renovascular disease, angioedema, and teratogenicity — SmPC review is **mandatory** before any clinical or regulatory evaluation proceeds.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Hold**
+Geen CBG-MEB-marktvergunningen voor Ramipril zijn geregistreerd in de huidige dataset. Dit is waarschijnlijk een **data pipeline-hiaat** in plaats van een werkelijke afwezigheid op de Nederlandse markt — Ramipril is een veel gebruikt generiek ACE-remmermiddel dat overal in Europa beschikbaar is, en centraal of nationaal geautoriseerde producten zijn mogelijk nog niet opgenomen in dit bewijspakket.
+
+Voordat enige regelgevingsactie wordt ondernomen, moet de huidige autorisatiestatus rechtstreeks worden geverifieerd via:
+- Het **CBG-MEB openbare register** op [geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)
+- De **EMA-productdatabase** voor centraal geautoriseerde generica
+- De relevante **SmPC (Samenvatting van de Productkenmerken)** voor goedgekeurde indicaties en veiligheidsgegevens
+
+---
+
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+> **Opmerking:** Veiligheidsgegevens (belangrijke waarschuwingen, contra-indicaties en geneesmiddelinteracties) waren niet beschikbaar in dit bewijspakket. Voor een geneesmiddel met het profiel van Ramipril — een ACE-remmer met bekende klassieke effecten waaronder hyperkaliëmie, acuut nierfalen bij renovasculaire ziekten, angioneurotisch oedeem en teratogeniteit — is SmPC-controle **verplicht** voordat enige klinische of regelgevingsevaluatie wordt voortgezet.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Hold**
 
 **Rationale:**
-This prediction is rated L5 (model prediction only, no supporting clinical trials or publications). The mechanistic link between ACE inhibition and multifactorial pulmonary hypertension is theoretically plausible but pharmacologically insufficient — RAAS blockade addresses only a minor component of a complex, multi-pathway disease — and the risk of adverse systemic hypotension in PAH patients is a documented safety concern that further limits development interest.
+Deze voorspelling wordt ingedeeld als L5 (alleen modelvoorspelling, geen ondersteunende klinische onderzoeken of publicaties). De mechanistische link tussen ACE-remming en multifactoriële pulmonale hypertensie is theoretisch aannemelijk maar farmacologisch onvoldoende — RAAS-blokkade richt zich op slechts een klein onderdeel van een complexe, multi-pathway-ziekte — en het risico van ongunstige systemische hypotensie bij PAH-patiënten is een gedocumenteerde veiligheidskwestie die verdere ontwikkelingsbetrokkenheid verder beperkt.
 
-**To proceed, the following is needed:**
+**Om voort te gaan is het volgende nodig:**
 
-- **Regulatory data gap resolution**: Retrieve the current CBG-MEB authorization records and SmPC for Ramipril to confirm NL market status, approved indications, and formal safety data
-- **MOA data retrieval**: Query the DrugBank API (DB00178) to populate mechanism of action fields and drug interaction profile
-- **Preclinical evidence review**: Identify whether any animal or in vitro studies have investigated ACE inhibition specifically in multifactorial PAH models (distinct from HPV-driven or idiopathic PAH)
-- **Comparator context**: Review existing PAH therapies (endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin analogues) to assess whether RAAS inhibition could play an adjunctive rather than primary role
-- **Safety modelling**: Given the known class risk of haemodynamic decompensation in PAH, a structured benefit-risk assessment would be required before any exploratory clinical investigation
+- **Regelgeving gegevenshipaat-resolutie**: Haal de huidige CBG-MEB-vergunningsrecords en SmPC voor Ramipril op om de NL-marktstatusstatus, goedgekeurde indicaties en formele veiligheidsgegevens te bevestigen
+- **MOA-gegevens ophalen**: Query de DrugBank API (DB00178) om werkingsmechanismevelden en geneesmiddelinteractieprofiel in te vullen
+- **Preclinisch bewijsonderzoek**: Identificeer of enig dier- of in vitro-onderzoek specifiek ACE-remming in multifactoriële PAH-modellen heeft onderzocht (onderscheiden van HPV-aangedreven of idiopathische PAH)
+- **Comparatorcontext**: Beoordeel bestaande PAH-therapieën (endotheline-receptorantagonisten, PDE-5-remmers, prostacycline-analoga) om te beoordelen of RAAS-remming een ondersteunende rol in plaats van een primaire rol zou kunnen spelen
+- **Veiligheidsmodellering**: Gezien het bekende klassieke risico van hemodynamische decompensatie in PAH, zou een gestructureerde voordeel-risicobeoordeling vereist zijn voordat enig verkennend klinisch onderzoek wordt ondernomen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

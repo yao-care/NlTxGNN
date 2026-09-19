@@ -29,111 +29,108 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide this NL drug repurposing report. The most clinically actionable predicted indication is **rank 10 (manic bipolar affective disorder)** — with L1 evidence and a "Proceed with Guardrails" recommendation — rather than ranks 1–9 which are all L5/Hold with no supporting evidence. The report focuses accordingly.
+# Haloperidol: Van acuut psychose naar manische bipolaire affectieve stoornis
+
+## Samenvatting in één zin
+
+Haloperidol is een eerstegeneratie (typische) antipsychoticum dat al lange tijd wordt gebruikt voor de behandeling van acuut psychose en schizofrenie en dat werkt als een potente dopamine-D2-receptorantagonist. Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **manische bipolaire affectieve stoornis**, met momenteel **9 klinische onderzoeken** en **20 publicaties** die deze richting ondersteunen. Opmerkelijk is dat twee voltooide fase 3 RCT's haloperidol als primaire actieve comparator in bipolaire manie hebben gebruikt, wat aanzienlijke directe werkzaamheidsgegevens oplevert.
 
 ---
 
-# Haloperidol: From Acute Psychosis to Manic Bipolar Affective Disorder
+## Overzicht
 
-## One-Sentence Summary
-
-Haloperidol is a first-generation (typical) antipsychotic, long used for the management of acute psychosis and schizophrenia, acting as a potent dopamine D2 receptor antagonist. The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, with **9 clinical trials** and **20 publications** currently supporting this direction. Notably, two completed Phase 3 RCTs used Haloperidol as a primary active comparator in bipolar mania, providing substantial direct efficacy data.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Item | Inhoud |
 |------|---------|
-| Original Indication | Not available from NL CBG-MEB registry (known clinical use: schizophrenia and acute psychosis) |
-| Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L1 |
-| NL Market Status | Not registered (likely data gap — Haloperidol generics are in wide international use) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Oorspronkelijke indicatie | Niet beschikbaar in NL CBG-MEB-register (bekend klinisch gebruik: schizofrenie en acuut psychose) |
+| Voorspelde nieuwe indicatie | Manische bipolaire affectieve stoornis |
+| TxGNN-voorspellingsscore | 99,83% |
+| Bewijsniveau | L1 |
+| NL-marktpositie | Niet geregistreerd (waarschijnlijk gegevenslacune — generieke haloperidolpreparaten zijn wereldwijd veel gebruikt) |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Doorgaan met waarborgen |
 
-> **Note on NL market data:** The CBG-MEB query returned 0 registered products. Haloperidol (e.g., Haldol) is a well-established generic that holds marketing authorizations in numerous EU member states. This zero result likely reflects a data retrieval gap rather than genuine non-availability. A direct CBG-MEB registry check is recommended before drawing regulatory conclusions.
-
----
-
-## Why Is This Prediction Reasonable?
-
-Haloperidol is a high-affinity dopamine D2 receptor antagonist (Ki ≈ 1 nM), the pharmacological hallmark of first-generation antipsychotics. Although detailed SmPC/MOA data was not returned in the current evidence package, its core mechanism is among the most extensively documented in clinical pharmacology: by blocking D2 receptors in the mesolimbic pathway, it suppresses dopaminergic hyperactivity — the same pathway that drives psychotic symptoms in schizophrenia.
-
-The mechanistic bridge to bipolar mania is direct and well-established. Acute manic episodes are characterised by hyperactivation of the mesolimbic dopamine system, manifesting as psychomotor agitation, grandiosity, pressured speech, and reduced need for sleep. This dopaminergic excess is pharmacologically indistinguishable from the hyperdopaminergic state targeted in acute psychosis, meaning Haloperidol's mechanism is immediately applicable. Multiple international treatment guidelines — including BAP (British Association for Psychopharmacology), CANMAT, and WFSBP — include Haloperidol as a treatment option for acute mania on exactly this basis.
-
-The TxGNN prediction is therefore not a novel repurposing hypothesis but a confirmation of an already-established off-label and guideline-supported use. The prediction score of 99.83% and L1 evidence level together reflect decades of real-world clinical evidence. The primary clinical consideration for the Netherlands context is that CBG-MEB authorisation specifically for bipolar mania may need to be verified, and that Haloperidol's extrapyramidal side-effect (EPS) burden makes it second-line to atypical antipsychotics in most contemporary guidelines.
+> **Opmerking over NL-marktgegevens:** De CBG-MEB-zoekopdracht leverde 0 geregistreerde producten op. Haloperidol (bijv. Haldol) is een goed gevestigd genericum dat marktvergunningen in talrijke EU-lidstaten heeft. Dit nulresultaat weerspiegelt waarschijnlijk een gegevensverzamelingslacune in plaats van echte niet-beschikbaarheid. Een directe controle van het CBG-MEB-register wordt aanbevolen voordat regelgevende conclusies worden getrokken.
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Haloperidol is een dopamine-D2-receptorantagonist met hoge affiniteit (Ki ≈ 1 nM), het farmacologische kenmerk van eerstegeneratie-antipsychotica. Hoewel gedetailleerde SmPC/MOA-gegevens niet in het huidige bewijspakket zijn opgenomen, behoort het kernmechanisme tot de meest uitvoerig gedocumenteerde in klinische farmacologie: door D2-receptoren in de mesolimbische baan te blokkeren, onderdrukt het dopaminerge hyperactiviteit — dezelfde baan die psychotische symptomen in schizofrenie veroorzaakt.
+
+De mechanistische verbinding naar bipolaire manie is direct en goed gevestigd. Acute manie-episodes worden gekenmerkt door hyperactivatie van het mesolimbische dopaminesysteem, zich manifesterende als psychomotorische agitatie, grootheidswaan, gehaaste spraak en verminderde behoefte aan slaap. Dit dopaminerge overschot is farmacologisch niet te onderscheiden van de hyperdopaminerge toestand die in acuut psychose wordt aangepakt, wat betekent dat het werkingsmechanisme van haloperidol onmiddellijk toepasbaar is. Meerdere internationale behandelingsrichtlijnen — inclusief BAP (British Association for Psychopharmacology), CANMAT en WFSBP — vermelden haloperidol als behandelingsoptie voor acuut manie op exact deze basis.
+
+De TxGNN-voorspelling is daarom niet een nieuwe herpositioneringshypothese, maar een bevestiging van een al gevestigd off-label en richtlijn-ondersteund gebruik. De voorspellingsscore van 99,83% en het bewijsniveau L1 weerspiegelen samen decennia van klinische praktijkervaring. De primaire klinische overweging voor de Nederlandse context is dat de CBG-MEB-goedkeuring specifiek voor bipolaire manie dient te worden geverifieerd, en dat haloperidol vanwege de aanzienlijke belasting van extrapyramidaire neveneffecten (EPS) in de meeste hedendaagse richtlijnen als tweedelijnsmiddel achter atypische antipsychotica wordt geplaatst.
+
+---
+
+## Klinische onderzoeksgegevens
+
+| Onderzoeksnummer | Fase | Status | Deelnemers | Belangrijkste bevindingen |
 |-------------|-------|--------|-----------|-------------|
-| [NCT00253162](https://clinicaltrials.gov/study/NCT00253162) | Phase 3 | Completed | 439 | Risperidone vs Placebo vs **Haloperidol** in bipolar I manic episodes; provides direct 3-week and 12-week haloperidol efficacy and safety data |
-| [NCT00253149](https://clinicaltrials.gov/study/NCT00253149) | Phase 3 | Completed | 158 | Risperidone vs Placebo vs **Haloperidol** as add-on to mood stabilisers in bipolar mania; direct head-to-head comparative data |
-| [NCT00129220](https://clinicaltrials.gov/study/NCT00129220) | Phase 3 | Completed | 224 | Olanzapine vs Placebo vs **Haloperidol** (active comparator) in bipolar I manic/mixed episode; haloperidol benchmark efficacy data |
-| [NCT00097266](https://clinicaltrials.gov/study/NCT00097266) | Phase 3 | Completed | 615 | Aripiprazole monotherapy vs Placebo in bipolar I mania over 12 weeks; provides indirect comparison context against a D2-active agent class |
-| [NCT00126009](https://clinicaltrials.gov/study/NCT00126009) | Phase 2 | Completed | 120 | Valproate + Amisulpride vs Valproate + **Haloperidol** (5–15 mg/day) in bipolar I manic episode over 3 months; combination therapy safety comparison |
-| [NCT04327843](https://clinicaltrials.gov/study/NCT04327843) | Phase 3 | Completed | 22 | Long-acting injectable antipsychotics (including haloperidol decanoate) in chronic psychotic disorders including bipolar disorder in Tanzania; real-world adherence and effectiveness data |
-| [NCT03541031](https://clinicaltrials.gov/study/NCT03541031) | N/A | Unknown | 120 | Micronutrient supplement as adjunct to conventional medications (including antipsychotics) in bipolar disorder; haloperidol used as background medication |
-| [NCT06049953](https://clinicaltrials.gov/study/NCT06049953) | N/A | Recruiting | 200 | Observational study of antenatal antipsychotic exposure and infant development in severe mental illness; safety surveillance context |
-| [NCT00767715](https://clinicaltrials.gov/study/NCT00767715) | Phase 4 | Terminated | 11 | Olanzapine vs conventional antipsychotics (including haloperidol) in acute mania in Sweden; early termination limits conclusions |
+| [NCT00253162](https://clinicaltrials.gov/study/NCT00253162) | Fase 3 | Voltooid | 439 | Risperidon vs placebo vs **haloperidol** in bipolaire I manie-episodes; levert directe gegevens over werkzaamheid en veiligheid van haloperidol over 3 en 12 weken |
+| [NCT00253149](https://clinicaltrials.gov/study/NCT00253149) | Fase 3 | Voltooid | 158 | Risperidon vs placebo vs **haloperidol** als toevoeging aan stemmingsstabilisatoren in bipolaire manie; rechtstreekse vergelijkende head-to-head gegevens |
+| [NCT00129220](https://clinicaltrials.gov/study/NCT00129220) | Fase 3 | Voltooid | 224 | Olanzapine vs placebo vs **haloperidol** (actieve comparator) in bipolaire I manie/gemengde episodes; haloperidol benchmark werkzaamheidsgegevens |
+| [NCT00097266](https://clinicaltrials.gov/study/NCT00097266) | Fase 3 | Voltooid | 615 | Aripiprazol monotherapie vs placebo in bipolaire I manie gedurende 12 weken; biedt indirecte vergelijkingscontext tegen een klasse van D2-actieve middelen |
+| [NCT00126009](https://clinicaltrials.gov/study/NCT00126009) | Fase 2 | Voltooid | 120 | Valproaat + amisulpride vs valproaat + **haloperidol** (5–15 mg/dag) in bipolaire I manie-episode gedurende 3 maanden; vergelijking van veiligheid van combinatietherapie |
+| [NCT04327843](https://clinicaltrials.gov/study/NCT04327843) | Fase 3 | Voltooid | 22 | Antipsychotica met langdurige werking (inclusief haloperidol decanoaat) in chronische psychotische stoornissen inclusief bipolaire stoornis in Tanzania; werkelijkheidstroupe gegevens over therapietrouw en werkzaamheid |
+| [NCT03541031](https://clinicaltrials.gov/study/NCT03541031) | N/A | Onbekend | 120 | Micronutriëntensupplement als toevoeging aan conventionele geneesmiddelen (inclusief antipsychotica) in bipolaire stoornis; haloperidol gebruikt als achtergrondmedicatie |
+| [NCT06049953](https://clinicaltrials.gov/study/NCT06049953) | N/A | Werving | 200 | Observationele studie van blootstelling aan antipsychotica prenataal en zuigelingontwikkeling bij ernstige psychiatrische ziekte; context voor veiligheidsbewaking |
+| [NCT00767715](https://clinicaltrials.gov/study/NCT00767715) | Fase 4 | Beëindigd | 11 | Olanzapine vs conventionele antipsychotica (inclusief haloperidol) in acute manie in Zweden; vroegtijdige beëindiging beperkt conclusies |
 
 ---
 
-## Literature Evidence
+## Literatuurgegevens
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|------|------|---------|-------------|
-| [34642461](https://pubmed.ncbi.nlm.nih.gov/34642461/) | 2022 | Systematic Review + Network Meta-Analysis | Molecular Psychiatry | Comprehensive NMA comparing pharmacological treatments for acute bipolar mania across double-blind RCTs; haloperidol included as a benchmark comparator |
-| [22134043](https://pubmed.ncbi.nlm.nih.gov/22134043/) | 2012 | RCT | Journal of Affective Disorders | Randomised double-blind study of olanzapine vs placebo vs haloperidol in Japanese bipolar I manic/mixed episode patients; direct haloperidol efficacy confirmed |
-| [3312180](https://pubmed.ncbi.nlm.nih.gov/3312180/) | 1987 | RCT | Journal of Clinical Psychiatry | Double-blind controlled trial comparing clonazepam with haloperidol in acutely manic patients; advantages of benzodiazepines over neuroleptics discussed |
-| [369472](https://pubmed.ncbi.nlm.nih.gov/369472/) | 1979 | RCT | Archives of General Psychiatry | Double-blind 5-week trial of lithium carbonate + haloperidol vs placebo + haloperidol in excited schizo-affective illness (N=36); statistically significant benefit of combination |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Clinical Review | Acta Psychiatrica Scandinavica | Evidence-based treatment recommendations for bipolar mania; haloperidol positioned as add-on option for partial responders to mood stabilisers |
-| [22070611](https://pubmed.ncbi.nlm.nih.gov/22070611/) | 2012 | Review | CNS Neuroscience & Therapeutics | Treatment of refractory bipolar disorder; haloperidol cited as a recommended add-on for acutely manic patients with partial response to lithium/valproate/carbamazepine |
-| [36789916](https://pubmed.ncbi.nlm.nih.gov/36789916/) | 2023 | Comparative Analysis | BMJ Mental Health | Comparison of antipsychotic dose equivalents for acute bipolar mania vs schizophrenia; provides practical dosing reference for haloperidol in mania context |
-| [18344731](https://pubmed.ncbi.nlm.nih.gov/18344731/) | 2008 | Systematic Review | Journal of Clinical Psychopharmacology | Systematic review of antipsychotic-induced EPS in bipolar disorder and schizophrenia; haloperidol consistently shows higher EPS burden vs atypicals — key safety consideration |
-| [39756485](https://pubmed.ncbi.nlm.nih.gov/39756485/) | 2025 | Retrospective Study | Journal of Affective Disorders | Real-world effectiveness of long-acting injectable antipsychotics (including haloperidol decanoate) in reducing rehospitalisation during bipolar manic episodes |
-| [10343182](https://pubmed.ncbi.nlm.nih.gov/10343182/) | 1999 | Clinical Study | Neuropsychobiology | Investigation of lithium and haloperidol effects on Gαs protein levels in bipolar affective disorder; mechanistic insights into combined pharmacotherapy |
+| [34642461](https://pubmed.ncbi.nlm.nih.gov/34642461/) | 2022 | Systematische review + netwerkmetaanalyse | Molecular Psychiatry | Uitgebreide NMA die farmacologische behandelingen voor acuut bipolaire manie in dubbelblinde RCT's vergelijkt; haloperidol opgenomen als benchmarkcomparator |
+| [22134043](https://pubmed.ncbi.nlm.nih.gov/22134043/) | 2012 | RCT | Journal of Affective Disorders | Gerandomiseerde dubbelblinde studie van olanzapine vs placebo vs haloperidol bij Japanse patiënten met bipolaire I manie/gemengde episodes; werkzaamheid van haloperidol bevestigd |
+| [3312180](https://pubmed.ncbi.nlm.nih.gov/3312180/) | 1987 | RCT | Journal of Clinical Psychiatry | Dubbelblind gecontroleerde proef met clonazepam versus haloperidol bij acuut manische patiënten; voordelen van benzodiazepinen boven neuroleptische middelen besproken |
+| [369472](https://pubmed.ncbi.nlm.nih.gov/369472/) | 1979 | RCT | Archives of General Psychiatry | Dubbelblinde 5-weekse proef van lithiumcarbonaat + haloperidol vs placebo + haloperidol in opgewonden schizoaffectieve ziekte (N=36); statistisch significant voordeel van combinatie |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Klinisch overzicht | Acta Psychiatrica Scandinavica | Aanbevelingen voor evidence-based behandeling van bipolaire manie; haloperidol gepositioneerd als add-on optie voor partiële responders op stemmingsstabilisatoren |
+| [22070611](https://pubmed.ncbi.nlm.nih.gov/22070611/) | 2012 | Overzicht | CNS Neuroscience & Therapeutics | Behandeling van therapieresistente bipolaire stoornis; haloperidol aanbevolen als add-on voor acuut manische patiënten met partiële respons op lithium/valproaat/carbamazepine |
+| [36789916](https://pubmed.ncbi.nlm.nih.gov/36789916/) | 2023 | Vergelijkende analyse | BMJ Mental Health | Vergelijking van antipsychotica-doseringsequivalenten voor acuut bipolaire manie versus schizofrenie; levert praktische doseringsleidraad voor haloperidol in maniekcontext |
+| [18344731](https://pubmed.ncbi.nlm.nih.gov/18344731/) | 2008 | Systematische review | Journal of Clinical Psychopharmacology | Systematische review van antipsychotica-geïnduceerde EPS in bipolaire stoornis en schizofrenie; haloperidol toont consistent hogere EPS-belasting versus atypische middelen — belangrijke veiligheidsfactor |
+| [39756485](https://pubmed.ncbi.nlm.nih.gov/39756485/) | 2025 | Retrospectieve studie | Journal of Affective Disorders | Praktische werkzaamheid van langwerkende injecteerbare antipsychotica (inclusief haloperidol decanoaat) in vermindering van heropnames tijdens bipolaire manie-episodes |
+| [10343182](https://pubmed.ncbi.nlm.nih.gov/10343182/) | 1999 | Klinische studie | Neuropsychobiology | Onderzoek van lithium- en haloperidoleffecten op Gαs-eiwitniveaus in bipolaire affectieve stoornis; inzichten in werkingsmechanisme van gecombineerde farmacotherapie |
 
 ---
 
-## Netherlands Market Information
+## Informatieve gegevens Nederlandse markt
 
-No CBG-MEB marketing authorizations were returned by the current data query (market status recorded as "not registered", 0 licenses).
+De huidige gegevenszoekopdracht van CBG-MEB leverde geen marktingsvergunningen op (marktpositie geregistreerd als "niet geregistreerd", 0 licenties).
 
-This result is inconsistent with Haloperidol's status as a long-established generic medicine available across EU member states. Haloperidol and its decanoate long-acting injectable formulation have EMA/national marketing authorizations in multiple EU countries. A direct search of the CBG-MEB public registry (https://www.cbg-meb.nl) is recommended to retrieve current RVG numbers, approved SmPC texts, and registered indications before any clinical or regulatory proceeding.
-
----
-
-## Safety Considerations
-
-All safety fields (key warnings, contraindications, drug interactions) were not retrieved in the current evidence package.
-
-> Please refer to the current SmPC (Samenvatting van de Productkenmerken) for Haloperidol via the CBG-MEB registry for full warnings, contraindications, and drug interaction data.
-
-The following safety signal is consistently highlighted in the retrieved literature and warrants particular attention for this indication:
-
-- **Extrapyramidal side effects (EPS):** Multiple systematic reviews (PMID 18344731) confirm that Haloperidol carries a substantially higher EPS burden than second-generation antipsychotics. This is the primary reason contemporary bipolar mania guidelines position it as a second-line agent despite proven efficacy. Monitoring for akathisia, parkinsonism, and tardive dyskinesia is essential.
+Dit resultaat is inconsistent met de status van haloperidol als langdurig gevestigd genericum dat in EU-lidstaten beschikbaar is. Haloperidol en zijn decanoaat-formulering met langdurige werking hebben EMA/nationale marktingsvergunningen in meerdere EU-landen. Een rechtstreekse zoeking in het openbare CBG-MEB-register (https://www.cbg-meb.nl) wordt aanbevolen om huidige RVG-nummers, goedgekeurde SmPC-teksten en geregistreerde indicaties op te halen voordat enige klinische of regelgevende proceeding plaatsvindt.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsconsideraties
 
-**Decision: Proceed with Guardrails**
+Alle veiligheidsvelden (sleutelwaarschuwingen, contra-indicaties, geneesmiddelinteracties) zijn niet opgehaald in het huidige bewijspakket.
 
-**Rationale:**
-Haloperidol's use in acute bipolar mania is not a novel repurposing hypothesis — it is a guideline-supported indication with direct evidence from at least two completed Phase 3 RCTs in which it served as the primary active comparator (NCT00253162, NCT00253149), qualifying this as L1 evidence. The D2 receptor antagonism mechanism maps directly onto the dopaminergic hyperactivity pathophysiology of acute mania. The TxGNN model prediction is concordant with established clinical knowledge.
+> Raadpleeg de huidige SmPC (Samenvatting van de Productkenmerken) voor haloperidol via het CBG-MEB-register voor volledige waarschuwingen, contra-indicaties en geneesmiddelinteracties.
 
-**To proceed, the following is needed:**
+Het volgende veiligheidssignaal wordt consistent benadrukt in de opgehaalde literatuur en verdient bijzondere aandacht voor deze indicatie:
 
-1. **Confirm NL regulatory status:** Verify current CBG-MEB registration and approved indications for Haloperidol via direct registry search — the 0-license result is likely a data pipeline gap, not true non-registration.
-2. **Retrieve current SmPC:** Download the Dutch SmPC to extract approved indications, contraindications, and current warnings (addresses data gaps DG001 and DG002).
-3. **Clarify indication scope:** Determine whether the CBG-MEB SmPC already includes bipolar mania, or whether this constitutes off-label use requiring pharmacovigilance documentation.
-4. **EPS risk management plan:** Given the higher EPS burden vs. atypical antipsychotics, a clinical monitoring protocol (baseline neurological assessment, AIMS scale follow-up) should be included in any prescribing guidance.
-5. **Consider second-line positioning:** For NL guideline alignment, evaluate whether Haloperidol should be positioned as first-line monotherapy or as an add-on/alternative for patients who fail or cannot tolerate atypical antipsychotics (e.g., olanzapine, quetiapine, aripiprazole).
+- **Extrapyramidaire neveneffecten (EPS):** Meerdere systematische reviews (PMID 18344731) bevestigen dat haloperidol een aanzienlijk hogere EPS-belasting draagt dan antipsychotica van de tweede generatie. Dit is de primaire reden waarom hedendaagse richtlijnen voor bipolaire manie het als tweedelijnsmiddel positioneren ondanks bewezen werkzaamheid. Monitoring voor akathisie, parkinsonisme en tardieve dyskinesie is essentieel.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Doorgaan met waarborgen**
+
+**Motivering:**
+Het gebruik van haloperidol in acute bipolaire manie is geen nieuwe herpositioneringshypothese — het is een richtlijn-ondersteunde indicatie met directe gegevens uit ten minste twee voltooide fase 3 RCT's waarin het als primaire actieve comparator diende (NCT00253162, NCT00253149), wat als L1-bewijsniveau kwalificeert. Het D2-receptorantagonismewerk mechanisme wijst direct op de dopaminerge hyperactiviteitspathofysiologie van acute manie. De TxGNN-modelvoorspelling is in overeenstemming met gevestigde klinische kennis.
+
+**Om door te gaan is het volgende nodig:**
+
+1. **Bevestig NL-regelgevende status:** Verifieer huidige CBG-MEB-registratie en goedgekeurde indicaties voor haloperidol via rechtstreekse registercontrole — het resultaat met 0 licenties is waarschijnlijk een gegevenspipeline-lacune, geen werkelijke niet-registratie.
+2. **Retrieve huidige SmPC:** Download de Nederlandse SmPC om goedgekeurde indicaties, contra-indicaties en huidige waarschuwingen uit te pakken (beheert gegevenslacunes DG001 en DG002).
+3. **Clarificeer indicatiebereik:** Bepaal of de CBG-MEB-SmPC reeds bipolaire manie omvat, of dit off-label gebruik vormt waarvoor farmacovigilantiedocumentatie vereist is.
+4. **EPS-risicobeheerplan:** Gegeven de hogere EPS-belasting versus atypische antipsychotica, moet een klinisch monitoringprotocol (basale neurologische beoordeling, vervolgmeting AIMS-schaal) in alle voorschrijfgidsen worden opgenomen.
+5. **Overweeg tweedelijnspositie:** Voor afstemming met Nederlandse richtlijnen, evalueer of haloperidol als eerstelinse monotherapie of als add-on/alternatief voor patiënten die niet reageren op of atypische antipsychotica niet tolereren (bijv. olanzapine, quetiapine, aripiprazol) moet worden gepositioneerd.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,92 +29,89 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-Using `txgnn-pipeline` skill for context on TxGNN drug repurposing report generation. Now generating the report based on the Evidence Pack.
+# Pimozide: Van Gilles de la Tourette-syndroom naar Trichotillomanie
+
+## Samenvatting in één zin
+
+Pimozide is een typische antipsychoticum van de diphenylbutylpiperidine-klasse, goedgekeurd in meerdere landen als secondelijns behandeling voor het syndroom van Gilles de la Tourette en historisch gebruikt voor onderhoudstherapie van schizofrenie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **trichotillomanie**,
+met **0 klinische onderzoeken** en **10 publicaties** die momenteel deze richting ondersteunen.
 
 ---
 
-# Pimozide: From Tourette Syndrome to Trichotillomania
+## Snel overzicht
 
-## One-Sentence Summary
-
-Pimozide is a typical antipsychotic of the diphenylbutylpiperidine class, approved in multiple countries as a second-line treatment for Gilles de la Tourette syndrome and historically used for schizophrenia maintenance therapy.
-The TxGNN model predicts it may be effective for **Trichotillomania**,
-with **0 clinical trials** and **10 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Tourette Syndrome (Gilles de la Tourette); schizophrenia maintenance |
-| Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.996% |
-| Evidence Level | L3 |
-| NL Market Status | Not marketed in the Netherlands |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Syndroom van Gilles de la Tourette; onderhoudstreatment schizofrenie |
+| Voorspelde nieuwe indicatie | Trichotillomanie |
+| TxGNN Voorspellingsscore | 99.996% |
+| Bewijsniveau | L3 |
+| Status op de Nederlandse markt | Niet op de markt in Nederland |
+| Aantal vergunningen | 0 |
+| Aanbevolen beslissing | Doorgaan met waarborgen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known information, Pimozide belongs to the diphenylbutylpiperidine class of typical antipsychotics and acts as a dopamine D2 receptor antagonist. Its efficacy in Tourette syndrome has been established through postsynaptic dopamine blockade in the striatum, suppressing repetitive motor and vocal tics driven by hyperdopaminergic activity in cortico-striato-thalamo-cortical (CSTC) circuits.
+Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar uit het Evidence Pack. Op basis van beschikbare informatie behoort pimozide tot de typische antipsychotica van de diphenylbutylpiperidine-klasse en werkt het als antagonist van dopaminereceptor D2. De effectiviteit ervan bij het syndroom van Gilles de la Tourette is vastgesteld door postsynaptische dopamineblokade in het striatum, waarmee repetitieve motor- en vocale tics worden onderdrukt die veroorzaakt worden door hyperdominerge activiteit in cortico-striato-thalamo-corticale (CSTC)-circuits.
 
-Trichotillomania (TTM) is classified within the obsessive-compulsive spectrum disorders (OCD-spectrum), where dysregulation of striatal dopamine circuits plays a central role in mediating repetitive compulsive behaviours — the same circuit implicated in Tourette syndrome. This neurobiological overlap provides a direct mechanistic rationale: if D2 blockade in the striatum reduces tic expression in Tourette syndrome, the same mechanism may attenuate the compulsive hair-pulling urges in TTM. Furthermore, pimozide's mechanistic resemblance to the augmentation strategies already employed in refractory OCD (where adding a low-dose D2 antagonist to an SRI improves outcomes) strengthens the cross-indication case.
+Trichotillomanie (TTM) wordt ingedeeld bij de obsessief-compulsieve spectrumstoornis­sen (OCD-spectrum), waarbij disregulatie van dopaminerge circuits in het striatum een centrale rol speelt in het mediëren van repetitief dwanggedrag — hetzelfde circuit dat betrokken is bij het syndroom van Gilles de la Tourette. Deze neurobiologische overlap biedt een directe mechanistische onderbouwing: als D2-blokade in het striatum tikexpressie bij het syndroom van Gilles de la Tourette vermindert, kan hetzelfde mechanisme de dwangmatige pulkgedrag bij TTM verzwakken. Bovendien versterkt pimozides mechanistische overeenkomst met de versterking­sstrategieën die al worden gebruikt bij therapieresistente OCD (waarbij toevoeging van een lage dosis D2-antagonist aan een SRI betere resultaten oplevert) de casus voor kruis­indicatie.
 
-Clinically, published case series (PMID 1532960) and a 2023 systematic evidence mapping of randomised controlled trials (PMID 36802832) both identify pimozide augmentation of serotonin reuptake inhibitors (SRIs) as a pharmacologically grounded strategy for SRI-refractory TTM. A 2004 comprehensive review (PMID 15554735) additionally confirms pimozide's established off-label use across several psychodermatological compulsive conditions. While the evidence base remains observational, the mechanistic alignment and the drug's prior clinical experience in closely related disorders make this TxGNN prediction well-founded.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Klinisch gezien identificeren gepubliceerde casusreeksen (PMID 1532960) en een systematische bewijsmapping van gerandomiseerde gecontroleerde onderzoeken uit 2023 (PMID 36802832) beide pimozide­versterking van serotonine-heropnameremmerss (SRI's) als een farmacologisch onderbouwde strategie voor SRI-resistente TTM. Een uitgebreide review uit 2004 (PMID 15554735) bevestigt bovendien pimozides vastgestelde off-label gebruik voor meerdere psychodermato­logische dwangstoornissen. Hoewel de bewijsbasis observationeel blijft, maken de mechanistische aansluiting en de eerdere klinische ervaring van het geneesmiddel bij nauw verwante aandoeningen deze TxGNN-voorspelling goed onderbouwd.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Systematic Review / Evidence Mapping | J Cutaneous Med Surg | Evidence mapping of RCTs for pharmacological management of primary psychodermatologic disorders including TTM; highlights evidence gaps and appraises available safety and effectiveness data |
-| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Comprehensive Review | Am J Clin Dermatol | Comprehensive review of pimozide in dermatological practice; documents established off-label efficacy in monosymptomatic hypochondriacal psychosis and psychodermatological compulsive conditions |
-| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Review | Clin Dermatol | Reviews antipsychotics including pimozide in dermatology; describes D2 blockade, H1, muscarinic, and α1-adrenergic effects relevant to cutaneous and psychodermatological applications |
-| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Review | Tijdschr Psychiatrie | Reviews treatment options for paediatric TTM; highlights limited pharmacotherapeutic research investment and discusses antipsychotic augmentation strategies |
-| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Clinical Case Series | J Clin Psychiatry | Low-dose pimozide augmentation of SRI therapy in TTM; draws mechanistic parallels between Tourette syndrome, OCD, and TTM; supports D2 antagonist as augmentation strategy in SRI-refractory cases |
-| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Case Series | J Child Adolesc Psychopharmacol | Reports risperidone augmentation in SRI-resistant TTM; cites prior open-label pimozide augmentation data showing benefit, establishing the D2 antagonist augmentation rationale in TTM |
-| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Review | CNS Drugs | Reviews psychogenic excoriation and related OCD-spectrum conditions; contextualises compulsive skin/hair disorders and the role of antipsychotic augmentation |
-| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | Case Report | An Bras Dermatol | Case report of TTM with dermoscopic differential diagnosis from alopecia areata; notes standardisation gap in pharmacological treatment, with N-acetylcysteine as one emerging option |
-| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Review | Ann Acad Med Singapore | Epidemiology, clinical features, and treatment approaches for TTM as an under-diagnosed chronic psychiatric syndrome; lifetime prevalence 1.5–3.4% in college students |
-| [10900563](https://pubmed.ncbi.nlm.nih.gov/10900563/) | 2000 | Clinical Profile | Int J Psychiatry Med | Clinical profile of monohypochondriacal psychosis (delusional parasitosis); contextualises pimozide's broader psychodermatological utility in delusional compulsive conditions |
+Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Pimozide currently holds **no marketing authorisations** in the Netherlands registered with the CBG-MEB. The drug is not commercially available through registered channels. Any clinical use would require a special import procedure (Article 3.17 Geneesmiddelenwet) or a compassionate use/named-patient application.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|-------------------------|
+| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Systematische review / Bewijsmapping | J Cutaneous Med Surg | Bewijsmapping van gerandomiseerde gecontroleerde onderzoeken voor farmacologisch beheer van primaire psychodermato­logische stoornissen inclusief TTM; benadrukt bewijslacunes en beoordeelt beschikbare veiligheids- en effectiviteitsgegevens |
+| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Uitgebreide review | Am J Clin Dermatol | Uitgebreide review van pimozide in dermatologische praktijk; documenteert vastgestelde off-label effectiviteit bij monosymptomatische hypochondrische psychose en psychodermato­logische dwangstoornissen |
+| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Review | Clin Dermatol | Beoordeelt antipsychotica inclusief pimozide in dermatologie; beschrijft D2-blokade, H1-, muscarinerge en α1-adrenerge effecten relevant voor cutane en psychodermato­logische toepassingen |
+| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Review | Tijdschr Psychiatrie | Beoordeelt behandelingsopties voor TTM bij kinderen; benadrukt beperkte onderzoeks­investering in farmacotherapie en bespreekt antipsychotische versterkingsstrategieën |
+| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Klinische casusreeks | J Clin Psychiatry | Lagedosis pimozideversterking van SRI-therapie bij TTM; trekt mechanistische parallellen tussen syndroom van Gilles de la Tourette, OCD en TTM; ondersteunt D2-antagonist als versterkingsstrategie in SRI-resistente gevallen |
+| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Casusreeks | J Child Adolesc Psychopharmacol | Meldt risperidonversterking in SRI-resistente TTM; verwijst naar eerdere open-label pimozideversterking­sgegevens met gunstig resultaat, wat de D2-antagonistversterkingsredenering bij TTM vaststelt |
+| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Review | CNS Drugs | Beoordeelt psychogene excoriatie en gerelateerde OCD-spectrumstoornis­sen; contextualiseert dwangstoornissen van huid/haar en de rol van antipsychotische versterking |
+| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | Casusrapport | An Bras Dermatol | Casusrapport van TTM met dermoscopische differentiaaldiagnose van alopecia areata; merkt op dat standaardisatie van farmacologische behandeling nog steeds ontoereikend is, waarbij N-acetylcysteïne als één opkomende optie wordt genoemd |
+| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Review | Ann Acad Med Singapore | Epidemiologie, klinische kenmerken en behandelingsbenaderingen voor TTM als een onderdiagnostificeerde chronische psychiatrische aandoening; levenslange prevalentie van 1,5–3,4% bij universiteitsstudenten |
+| [10900563](https://pubmed.ncbi.nlm.nih.gov/10900563/) | 2000 | Klinisch profiel | Int J Psychiatry Med | Klinisch profiel van monohypochondrische psychose (waan van parasitaire infectie); contextualiseert pimozides breder psychodermato­logisch nut in waan­achtige dwangstoornissen |
 
 ---
 
-## Safety Considerations
+## Nederlandse marktinformatie
 
-Please refer to the SmPC (Summary of Product Characteristics) for complete safety information.
+Pimozide beschikt momenteel over **geen vergunningen** in Nederland die bij de CBG-MEB zijn geregistreerd. Het geneesmiddel is niet commercieel beschikbaar via geregistreerde kanalen. Elk klinisch gebruik zou een speciale importprocedure (artikel 3.17 Geneesmiddelenwet) of een compassionate use-/named-patient-aanvraag vereisen.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsconsideraties
 
-**Decision: Proceed with Guardrails**
+Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor volledige veiligheidsinformatie.
 
-**Rationale:**
-Trichotillomania shares a striatal dopaminergic neurobiological basis with Tourette syndrome, and published case series combined with a 2023 systematic evidence mapping provide L3-level support for pimozide augmentation in SRI-refractory TTM. However, pimozide holds no CBG-MEB authorisation in the Netherlands and no dedicated TTM clinical trials have been registered to date, meaning any patient access requires regulatory navigation and prospective safety monitoring.
+---
 
-**To proceed, the following is needed:**
-- Design of a dedicated Phase 2 RCT evaluating low-dose pimozide augmentation in SRI-refractory TTM patients
-- Full SmPC review to establish QT prolongation risk profile and mandatory ECG monitoring protocol prior to any clinical use
-- CBG-MEB special import or named-patient application for NL patient access
-- DrugBank MOA data retrieval (DG002) to formally document receptor binding profile and strengthen mechanistic rationale documentation
-- Definition of a safety monitoring plan covering cardiac monitoring, extrapyramidal effects, and contraindication screening
+## Conclusie en vervolgstappen
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Redenering:**
+Trichotillomanie deelt een dopinerge neurobiologische basis in het striatum met het syndroom van Gilles de la Tourette, en gepubliceerde casusreeksen gekoppeld aan een systematische bewijsmapping uit 2023 leveren L3-niveau ondersteuning voor pimozideversterking bij SRI-resistente TTM. Pimozide beschikt echter niet over een CBG-MEB-vergunning in Nederland en er zijn geen gerelateerde TTM-klinische onderzoeken geregistreerd, wat betekent dat elke patiëntentoegang regelgeving­snavigatie en prospectief veiligheidstoezicht vereist.
+
+**Om door te gaan, is het volgende nodig:**
+- Ontwerp van een gericht fase 2-gerandomiseerd gecontroleerd onderzoek naar lagedosis pimozideversterking bij SRI-resistente TTM-patiënten
+- Volledige SmPC-beoordeling om QT-verlengingsrisicoprofiel vast te stellen en verplicht ECG-monitoringsprotocol voorafgaand aan klinisch gebruik
+- CBG-MEB speciale import- of named-patient-aanvraag voor Nederlandse patiëntentoegang
+- Opvraaging van DrugBank-MOA-gegevens (DG002) om receptorbindingsprofiel formeel te documenteren en mechanistische onderbouwing te versterken
+- Bepaling van een veiligheidsmonitoringsplan met aandacht voor cardiale monitoring, extrapiramidale effecten en contraïndicatiezeving
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

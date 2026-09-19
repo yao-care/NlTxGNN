@@ -29,96 +29,93 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-The txgnn-pipeline skill confirms this is within the NlTxGNN (Netherlands) deployment scope. The report generation instructions are fully specified in the system prompt. I'll now generate the report.
+# Clonazepam: Van epilepsie & paniekstoornis naar het syndroom van onrustige benen
+
+## Eenregelige samenvatting
+
+Clonazepam is een langwerkend benzodiazepine dat klinisch veel gebruikt wordt voor epileptische aanvallen en paniekstoornis, hoewel er momenteel geen CBG-MEB-registratie beschikbaar is in Nederland.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **het syndroom van onrustige benen (RLS)**,
+met **0 geregistreerde klinische trials** en **20 publicaties** die deze richting momenteel ondersteunen — inclusief een Cochrane-systematische review, een 2025 AASM-klinische praktijkrichtlijn, en een gewijd historisch overzicht van clonazepam's rol in RLS.
 
 ---
 
-# Clonazepam: From Epilepsy & Panic Disorder to Restless Legs Syndrome
+## Snel overzicht
 
-## One-Sentence Summary
-
-Clonazepam is a long-acting benzodiazepine widely used clinically for epileptic seizure disorders and panic disorder, though no CBG-MEB marketing authorization is currently on file in the Netherlands.
-The TxGNN model predicts it may be effective for **Restless Legs Syndrome (RLS)**,
-with **0 registered clinical trials** and **20 publications** currently supporting this direction — including a Cochrane Systematic Review, a 2025 AASM Clinical Practice Guideline, and a dedicated historical overview of clonazepam's role in RLS.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No CBG-MEB authorization on file; clinically established for epilepsy and panic disorder |
-| Predicted New Indication | Restless Legs Syndrome (RLS) |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L3 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Geen CBG-MEB-registratie beschikbaar; klinisch vastgesteld voor epilepsie en paniekstoornis |
+| Voorspelde nieuwe indicatie | Syndroom van onrustige benen (RLS) |
+| TxGNN-voorspellingsscore | 99.65% |
+| Bewijsniveau | L3 |
+| Status op NL-markt | Niet geregistreerd |
+| Aantal registraties | 0 |
+| Aanbevolen beslissing | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, clonazepam belongs to the **benzodiazepine class** and acts as a positive allosteric modulator of GABA-A receptors. Its efficacy in seizure suppression and panic disorder has been established across decades of clinical practice, and mechanistically this GABAergic action may be applicable to Restless Legs Syndrome.
+Momenteel zijn gedetailleerde werkingsmechanismegegevens niet beschikbaar in dit Evidence Pack. Op basis van bekende farmacologische informatie behoort clonazepam tot de **benzodiazepineklasse** en werkt als een positieve allosterische modulator van GABA-A-receptoren. De werkzaamheid daarvan bij het onderdrukken van aanvallen en paniekstoornis is vastgesteld gedurende decennia van klinische praktijk, en mechanistisch gezien kan deze GABAerge werking van toepassing zijn op het syndroom van onrustige benen.
 
-Restless Legs Syndrome is a sensorimotor disorder defined by an irresistible urge to move the legs — particularly at rest and at night — often accompanied by uncomfortable paresthesias and periodic limb movements during sleep (PLMS). While the primary pathophysiology of RLS is dopaminergic, nocturnal cortical hyperarousal and spinal motor neuron over-excitability are recognised contributing factors. Clonazepam's GABA-A–mediated neuronal hyperpolarization can dampen this cortical hyperarousal and suppress PLMS, providing symptomatic relief through an **adjunctive, non-dopaminergic mechanism** rather than addressing the core dopamine pathway.
+Het syndroom van onrustige benen is een sensomotorische stoornis die gekenmerkt wordt door een onweerstaanbare drang om de benen te bewegen — vooral in rust en 's nachts — vaak gepaard gaande met oncomfortabele paresthesieën en periodieke leggerbewegingen tijdens de slaap (PLMS). Hoewel de primaire pathofysiologie van RLS dopaminerge aard is, zijn nachtelijke corticale hyperarousal en overmatige excitabiliteit van motorische neuronen in het ruggenmerg erkende bijdragende factoren. De GABA-A-gemedieerde neuronale hyperpolarisatie van clonazepam kan deze corticale hyperarousal dempen en PLMS onderdrukken, wat symptomatische verlichting biedt via een **aanvullend, niet-dopaminerge mechanisme** in plaats van het primaire dopaminepad aan te pakken.
 
-Clinical evidence corroborates this mechanistic rationale. A 2024 historical review (PMID 38708125) identified 17 articles on clonazepam use specifically in RLS, and a survey of 16,694 RLS patients found approximately **25% were treated with benzodiazepines**. The 1984 randomised double-blind crossover trial (PMID 6380197) demonstrated significant improvement in subjective sleep quality and leg dysaesthesia versus placebo. The 2017 Cochrane Systematic Review and the 2025 AASM Clinical Practice Guideline both acknowledge clonazepam within the RLS treatment landscape — positioning it as an adjunct option rather than first-line therapy (which remains dopamine agonists and alpha-2-delta ligands).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Clonazepam in Restless Legs Syndrome.
+Klinisch bewijs ondersteunt deze mechanistische rationale. Een historisch overzicht uit 2024 (PMID 38708125) identificeerde 17 artikelen over clonazepamgebruik specifiek bij RLS, en een enquête onder 16.694 RLS-patiënten bleek dat ongeveer **25% behandeld werd met benzodiazepinen**. De gerandomiseerde dubbelblinde crossover-studie uit 1984 (PMID 6380197) toonde aanzienlijke verbetering in subjectieve slaapkwaliteit en beensymptomen ten opzichte van placebo. De Cochrane-systematische review uit 2017 en de AASM-klinische praktijkrichtlijn uit 2025 erkennen beide clonazepam in het RLS-behandelingslandschap — en positioneren het als een aanvullende optie in plaats van eerstelijntherapie (wat dopamineagonisten en alpha-2-deltaligaturen blijven).
 
 ---
 
-## Literature Evidence
+## Bewijzen uit klinische trials
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Cochrane Systematic Review | Cochrane Database Syst Rev | Systematic review of benzodiazepines (including clonazepam) for RLS; acknowledges widespread clinical use despite limited RCT evidence; highlights the evidence gap |
-| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Clinical Practice Guideline | J Clin Sleep Med | AASM clinical practice guideline for treatment of RLS and PLMD in adults and paediatric patients; provides authoritative therapeutic framework |
-| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Narrative Review | Tremor Other Hyperkinetic Mov | Historical overview of benzodiazepines — particularly clonazepam — in RLS/PLMS; identified 17 relevant articles; ~25% of 16,694 surveyed RLS patients received benzodiazepines |
-| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Systematic Review & Meta-analysis | J Clin Sleep Med | Pharmacological responsiveness of PLMS in RLS; meta-analysis quantifying efficacy of drug categories including benzodiazepines in suppressing periodic limb movements |
-| [31942156](https://pubmed.ncbi.nlm.nih.gov/31942156/) | 2019 | RCT | J Mid-Life Health | Prospective open-label randomised study comparing clonazepam vs nortriptyline in women over 40 with RLS; directly evaluates clonazepam efficacy on RLS frequency and severity |
-| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Placebo-Controlled Study | Eur Neuropsychopharmacol | Placebo-controlled sleep laboratory study of 1 mg clonazepam measuring objective and subjective sleep quality in RLS/PLMD patients; demonstrates acute polysomnographic effects |
-| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | RCT | Acta Neurol Scand | Randomised double-blind crossover trial vs placebo in 6 RLS patients; significant improvement in sleep quality and leg dysaesthesia; earliest controlled evidence for clonazepam in RLS |
-| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Evidence-Based Review | Movement Disorders | MDS task force evidence-based review of RLS treatments; classifies therapeutic efficacy by drug class including benzodiazepines |
-| [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Review | Neurotherapeutics | Overview of evolving RLS treatment landscape; discusses role of benzodiazepines alongside first-line dopaminergic agents and anticonvulsants |
-| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Expert Consensus | Arq Neuropsiquiatr | Brazilian RLS Study Group consensus on diagnosis and management; discusses therapeutic evidence hierarchy including clonazepam as a secondary option |
+Momenteel zijn er geen gerelateerde klinische trials geregistreerd voor clonazepam bij het syndroom van onrustige benen.
 
 ---
 
-## Netherlands Market Information
+## Bewijzen uit literatuur
 
-Clonazepam currently holds **no CBG-MEB marketing authorizations** in the Netherlands based on available data (0 RVG numbers on file). There are no registered products to list.
-
-> If prescribers are considering off-label use, they should consult the applicable EMA-level SmPC (e.g., for Rivotril or equivalent centrally authorised products) and follow the relevant Dutch off-label prescribing framework under the Geneesmiddelenwet.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|------------------------|
+| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Cochrane-systematische review | Cochrane Database Syst Rev | Systematische review van benzodiazepinen (inclusief clonazepam) voor RLS; erkent wijdverbreid klinisch gebruik ondanks beperkt RCT-bewijsmateriaal; benadrukt de bewijsgat |
+| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Klinische praktijkrichtlijn | J Clin Sleep Med | AASM-klinische praktijkrichtlijn voor behandeling van RLS en PLMD bij volwassenen en pediatrische patiënten; biedt gezaghebbend therapeutisch raamwerk |
+| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Narratief overzicht | Tremor Other Hyperkinetic Mov | Historisch overzicht van benzodiazepinen — in het bijzonder clonazepam — in RLS/PLMS; identificeerde 17 relevante artikelen; ~25% van de 16.694 onderzochte RLS-patiënten ontving benzodiazepinen |
+| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Systematische review & meta-analyse | J Clin Sleep Med | Farmacologische reactiviteit van PLMS in RLS; meta-analyse van werkzaamheid van medicijnklassen inclusief benzodiazepinen bij het onderdrukken van periodieke leggerbewegingen |
+| [31942156](https://pubmed.ncbi.nlm.nih.gov/31942156/) | 2019 | RCT | J Mid-Life Health | Prospectieve open-label gerandomiseerde studie vergelijking clonazepam versus nortriptyline bij vrouwen over 40 jaar met RLS; evalueert rechtstreeks clonazepam-werkzaamheid op RLS-frequentie en ernst |
+| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Placebogecontroleerde studie | Eur Neuropsychopharmacol | Placebogecontroleerde slaaplaboratoriumstudie van 1 mg clonazepam meetend objectieve en subjectieve slaapkwaliteit bij RLS/PLMD-patiënten; demonstreert acute polysomnografische effecten |
+| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | RCT | Acta Neurol Scand | Gerandomiseerde dubbelblinde crossover-studie versus placebo bij 6 RLS-patiënten; aanzienlijke verbetering in slaapkwaliteit en beendysesthesie; vroegste gecontroleerde bewijs voor clonazepam in RLS |
+| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Op bewijzen gebaseerd overzicht | Movement Disorders | MDS-taakforceoverzicht van RLS-behandelingen op basis van bewijzen; classificeert therapeutische werkzaamheid naar medicijnklasse inclusief benzodiazepinen |
+| [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Overzicht | Neurotherapeutics | Overzicht van zich ontwikkelend RLS-behandelingslandschap; bespreekt rol van benzodiazepinen naast eerstelijnsdopaminerge middelen en anticonvulsiva |
+| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Deskundige consensus | Arq Neuropsiquiatr | Braziliaanse RLS Study Group-consensus inzake diagnose en behandeling; bespreekt therapeutisch bewijsmateriaal hierarisch inclusief clonazepam als secundaire optie |
 
 ---
 
-## Safety Considerations
+## Informatie over de Nederlandse markt
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Clonazepam heeft momenteel **geen CBG-MEB-registraties** in Nederland op basis van beschikbare gegevens (0 RVG-nummers in dossier). Er zijn geen geregistreerde producten op te noemen.
+
+> Indien voorschrijvers off-label gebruik overwegen, moeten zij zich raadplegen met de toepasselijke EMA-SmPC (bijvoorbeeld voor Rivotril of gelijkwaardige centraal goedgekeurde producten) en de relevante Nederlandse framework voor off-label voorschrijven volgen onder de Geneesmiddelenwet.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsbeschouwingen
 
-**Decision: Hold**
+Raadpleeg de SmPC (Samenvatting van het Productkenmerken) voor veiligheidsinformatie.
 
-**Rationale:**
-Clonazepam has a mechanistically plausible and historically documented role in RLS — supported by a Cochrane review, an AASM guideline, and a small placebo-controlled RCT — however the overall evidence base is characterised by small sample sizes, older study dates, and an absence of active clinical trials. The drug is furthermore not registered with CBG-MEB, and complete safety data (key warnings, contraindications, DDI profile) could not be retrieved, making a full risk-benefit assessment impossible at this stage.
+---
 
-**To proceed, the following is needed:**
+## Conclusie en vervolgstappen
 
-- **Regulatory clarification**: Verify whether clonazepam (e.g., as Rivotril) holds any current CBG-MEB or EMA centrally authorised status; resolve the apparent data gap in the regulatory pipeline
-- **Full SmPC review**: Retrieve and analyse the SmPC for clonazepam to complete S1 safety screening — specifically regarding dependence risk, CNS depression, use in elderly, and respiratory insufficiency (standard benzodiazepine class concerns)
-- **DDI profile**: Obtain drug-drug interaction data to assess safety in the polypharmacy context typical of RLS patients (who may also be on dopamine agonists or iron supplements)
-- **MOA documentation**: Retrieve full mechanism of action data from DrugBank (DB01068) to complete the mechanistic link analysis
-- **Guideline alignment**: Assess whether current Dutch/EU RLS treatment guidelines (e.g., EAN, EFNS) formally include clonazepam and under what conditions
-- **Prospective evidence**: Commission or identify a prospective controlled study in an EU/NL RLS patient cohort before any formal repurposing recommendation can be issued
+**Beslissing: In afwachting**
+
+**Onderbouwing:**
+Clonazepam heeft een mechanistisch plausibele en historisch gedocumenteerde rol in RLS — ondersteund door een Cochrane-review, een AASM-richtlijn, en een kleine placebogecontroleerde RCT — echter de algehele bewijsbasis wordt gekenmerkt door kleine steekproefomvang, oudere studiedatums, en een afwezigheid van actieve klinische trials. Het geneesmiddel is bovendien niet geregistreerd bij CBG-MEB, en volledige veiligheidsgegevens (belangrijke waarschuwingen, contra-indicaties, DDI-profiel) konden niet worden opgehaald, waardoor een volledige risico-batenanalyse op dit moment onmogelijk is.
+
+**Om door te gaan, is het volgende nodig:**
+
+- **Regelgevingsverheldering**: Verifieer of clonazepam (bijvoorbeeld als Rivotril) momenteel CBG-MEB of EMA centraal goedgekeurde status heeft; los de kennelijke gegevensgap in de regelgevingspijplijn op
+- **Volledig SmPC-onderzoek**: Haal de SmPC voor clonazepam op en analyseer deze om S1-veiligheidsscreening te voltooien — specifiek met betrekking tot afhankelijkheidsrisico, CNS-depressie, gebruik bij ouderen, en ademhalingsonvoldoendheid (standaard benzodiazepine-zorgen)
+- **DDI-profiel**: Verkrijg geneesmiddel-geneesmiddelinteractiegegevens om veiligheid in de polyfarmaciecontext te beoordelen typisch voor RLS-patiënten (die ook dopamineagonisten of ijzersupplementen kunnen gebruiken)
+- **MOA-documentatie**: Haal volledige werkingsmechanismegegevens op van DrugBank (DB01068) om de mechanistische linkanalyse te voltooien
+- **Richtlijnuitlijning**: Beoordeel of actuele Nederlandse/EU RLS-behandelingsrichtlijnen (bijvoorbeeld EAN, EFNS) clonazepam formeel opnemen en onder welke omstandigheden
+- **Prospectief bewijs**: Organiseer of identificeer een prospectieve gecontroleerde studie in een EU/NL RLS-patiëntencohort voordat een formele aanbeveling voor hergebruik kan worden uitgebracht
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,100 +29,97 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for the Netherlands deployment context.
+# Etoposide: Van Kiemceltumoren en Kleincellig Longkanker naar Goed Gedifferentieerd Foetaal Adenocarcinoom van de Long
+
+## Samenvatting in Één Zin
+
+Etoposide (VP-16) is een klassieke topoïsomerase II-remmer, wereldwijd gevestigd als hoeksteen chemotherapiemiddel voor kiemceltumoren, kleincellig longkanker en lymfomen — hoewel het momenteel geen CBG-MEB-markttoelatingen in Nederland heeft.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **goed gedifferentieerd foetaal adenocarcinoom van de long (WDFA)**,
+met **geen geregistreerde klinische onderzoeken** en **1 publicatie** die deze specifieke richting momenteel ondersteunt.
 
 ---
 
-# Etoposide: From Germ Cell Tumours and Small Cell Lung Cancer to Well-Differentiated Fetal Adenocarcinoma of the Lung
+## Snel Overzicht
 
-## One-Sentence Summary
-
-Etoposide (VP-16) is a classic topoisomerase II inhibitor, established globally as a cornerstone chemotherapy agent for germ cell tumours, small cell lung cancer, and lymphomas — although it holds no current CBG-MEB marketing authorisation in the Netherlands.
-The TxGNN model predicts it may be effective for **well-differentiated fetal adenocarcinoma of the lung (WDFA)**,
-with **no registered clinical trials** and **1 publication** currently supporting this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Germ cell tumours, small cell lung cancer, lymphomas (globally recognised; not registered in the Netherlands) |
-| Predicted New Indication | Well-differentiated fetal adenocarcinoma of the lung |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke Indicatie | Kiemceltumoren, kleincellig longkanker, lymfomen (wereldwijd erkend; niet geregistreerd in Nederland) |
+| Voorspelde Nieuwe Indicatie | Goed gedifferentieerd foetaal adenocarcinoom van de long |
+| TxGNN-voorspellingsscore | 99.94% |
+| Bewijsniveau | L4 |
+| NL-marktstatuus | Niet geregistreerd |
+| Aantal Autorisaties | 0 |
+| Aanbevolen Beslissing | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Etoposide is a semisynthetic derivative of podophyllotoxin that inhibits topoisomerase II alpha (TOP2A), an enzyme essential for DNA replication and transcription in rapidly proliferating cells. By stabilising the TOP2A–DNA cleavage complex, etoposide induces irreversible DNA double-strand breaks and triggers apoptosis. This mechanism is particularly effective in tumours with high proliferation indices and elevated TOP2A expression.
+Etoposide is een halfsyntetische afleiding van podofyllotoxine die topoïsomerase II alfa (TOP2A) remt, een enzym dat essentieel is voor DNA-replicatie en transcriptie in snel delende cellen. Door het TOP2A-DNA-splitsingscomplex te stabiliseren, induceert etoposide onherstelbare dubbele DNA-breuken en leidt tot apoptose. Dit mechanisme is vooral effectief in tumoren met hoge proliferatieindices en verhoogde TOP2A-expressie.
 
-Well-differentiated fetal adenocarcinoma of the lung (WDFA) is the monophasic, low-grade variant of pulmonary blastoma, characterised by glandular structures that closely resemble the pseudoglandular stage of fetal lung development (approximately 10–16 weeks). The tumour cells are glycogen-rich and typically harbour activating β-catenin mutations. As a rare subtype of pulmonary blastoma — a highly proliferative, poorly understood malignancy — WDFA would be expected to express TOP2A at levels sufficient to confer sensitivity to etoposide-based regimens.
+Goed gedifferentieerd foetaal adenocarcinoom van de long (WDFA) is de monofasische, laagmaligniteitsvariëteit van pulmonaal blastoom, gekarakteriseerd door klierstructuren die sterk lijken op het pseudoklierige stadium van foetale longontwikkeling (ongeveer 10–16 weken). De tumorcellen zijn glycogeen-rijk en herbergen meestal activerende β-catenine-mutaties. Als zeldzame subtype van pulmonaal blastoom — een zeer proliferatieve, slecht begrepen maligniteit — zou WDFA naar verwachting TOP2A op niveaus uitdrukken die voldoende zijn voor gevoeligheid voor etoposide-gebaseerde behandelingsschema's.
 
-The mechanistic extrapolation is supported indirectly by case reports of the closely related classic biphasic pulmonary blastoma (CBPB) responding to cisplatin/etoposide and ICE (ifosfamide, carboplatin, etoposide) chemotherapy. WDFA constitutes the adenocarcinomatous component of CBPB, and its shared embryonic lung histology makes the biochemical rationale for TOP2A inhibition plausible. However, no direct clinical trial or prospective observational study has evaluated etoposide specifically in WDFA, and the TxGNN prediction is primarily driven by knowledge-graph connectivity between etoposide's TOP2A inhibitor node and the pulmonary blastoma disease cluster.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for this specific indication.
+De mechanistische extrapolatie wordt indirect ondersteund door casuïstiek van het nauw verwante klassieke bifasische pulmonale blastoom (CBPB) dat reageert op cisplatin/etoposide en ICE (ifosfamide, carboplatin, etoposide) chemotherapie. WDFA vormt de adenocarcinomateuze component van CBPB, en zijn gedeelde embryonale longhistologie maakt de biochemische rationale voor TOP2A-remming aannemelijk. Echter, geen direct klinisch onderzoek of prospectieve observatiestude heeft etoposide specifiek in WDFA geëvalueerd, en de TxGNN-voorspelling wordt vooral aangestuurd door kennisgrafiek-connectiviteit tussen de TOP2A-inhibitor knoop van etoposide en de pulmonale blastoom-ziektegroep.
 
 ---
 
-## Literature Evidence
+## Bewijs uit Klinische Onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Case Report | The Journal of International Medical Research | Classic biphasic pulmonary blastoma (which contains a WDFA component): patient underwent resection followed by nedaplatin + paclitaxel adjuvant chemotherapy; upon recurrence, published literature supporting etoposide-containing regimens was reviewed. No standard treatment guidelines exist due to tumour rarity. |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd voor deze specifieke indicatie.
 
 ---
 
-## Netherlands Market Information
+## Bewijsmateriaal uit Literatuur
 
-Etoposide holds no CBG-MEB marketing authorisations in the Netherlands. No RVG numbers are currently registered.
-
-> Etoposide is widely available internationally — EMA-centralised authorisations exist for combination products containing etoposide, and standalone etoposide formulations are registered in multiple EU member states. For any clinical application in the Netherlands, a compassionate use pathway, hospital preparation exemption, or Article 3(1) national licensing route under CBG-MEB would need to be explored prior to use.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Epipodophyllotoxin class / Topoisomerase II inhibitor) |
-| Myelosuppression Risk | High — leucopenia is the primary dose-limiting toxicity; nadir typically at days 10–14; thrombocytopenia also common |
-| Emetogenicity Classification | Low to moderate (IV route: low; oral route: moderate) |
-| Monitoring Items | Full blood count (CBC) at baseline and before each cycle; liver function tests (LFTs); renal function (dose reduction required for impaired clearance); temperature monitoring for febrile neutropenia |
-| Handling Protection | Special cytotoxic handling required: PPE (gloves, gown, eye protection), closed-system drug transfer devices (CSTDs), disposal per hazardous waste regulations |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste Bevindingen |
+|------|------|------|-------------|---------------------------|
+| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Casuïstiek | The Journal of International Medical Research | Klassiek bifasisch pulmonaal blastoom (dat een WDFA-component bevat): patiënt onderging resectie gevolgd door nedaplatin + paclitaxel adjuvante chemotherapie; bij recidief werd gepubliceerde literatuur ondersteunende etoposide-bevattende schema's gereviewed. Geen standaardbehandelingrichtlijnen bestaan vanwege tumorariteit. |
 
 ---
 
-## Safety Considerations
+## Informatie Nederlandse Markt
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for full safety information, as no Dutch SmPC data is currently available in this Evidence Pack.
+Etoposide heeft geen CBG-MEB-markttoelatingen in Nederland. Er zijn momenteel geen RVG-nummers geregistreerd.
+
+> Etoposide is wereldwijd veel beschikbaar — EMA-centraal toegestane combinatieproducten die etoposide bevatten bestaan, en zelfstandige etoposide-formuleringen zijn in meerdere EU-lidstaten geregistreerd. Voor enige klinische toepassing in Nederland zou een compassionele gebruiksroute, ziekenhuisbereiding-uitzondering of artikel 3(1) nationale licentieringsroute onder CBG-MEB vooraf moeten worden onderzocht.
 
 ---
 
-## Conclusion and Next Steps
+## Cytotoxiciteit
 
-**Decision: Hold**
+| Item | Inhoud |
+|------|--------|
+| Cytotoxiciteitclassificatie | Conventionele cytotoxisch (Epipodofyllotoxine klasse / Topoïsomerase II-remmer) |
+| Myelosuppressie-risico | Hoog — leukopenie is de primaire dosis-beperkende toxiciteit; nadir meestal op dag 10–14; trombocytopenie ook algemeen |
+| Emetogeniciteitclassificatie | Laag tot matig (IV-route: laag; orale route: matig) |
+| Controleitems | Volledig bloedbeeld (CBC) bij baseline en vóór elke cyclus; leverfunctietesten (LFT's); nierfunctie (dosisreductie vereist voor verminderde klaring); temperatuurbewaking voor febriële neutropenie |
+| Verwerkingsveiligheid | Speciale cytotoxische verwerking vereist: PBM (handschoenen, schort, oogbescherming), gesloten-systeem medicijnoverdrachtkasten (CSDA's), afvoer conform regelgeving voor gevaarlijk afval |
 
-**Rationale:**
-Although the TxGNN model assigns a very high prediction score (99.94%), the clinical evidence base for etoposide in well-differentiated fetal adenocarcinoma of the lung is at L4 — limited to mechanistic inference and a single tangentially related case report involving the parent tumour type (biphasic pulmonary blastoma). WDFA is an exceptionally rare tumour with no established chemotherapy guidelines, no dedicated clinical trials, and no CBG-MEB registration for etoposide in the Netherlands.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsoverwegingen
 
-- **Evidence review:** Systematic identification of all published WDFA case reports and series to determine whether any patient received an etoposide-containing regimen and what outcomes were observed
-- **MOA documentation:** Retrieval of formal mechanism of action data from DrugBank (DB00773) to complete the pharmacological rationale section
-- **Safety data:** Download and parse the relevant SmPC/PIL to establish contraindications, warnings, and clinically significant drug interactions for the Dutch prescribing context
-- **Regulatory pathway assessment:** Evaluation of CBG-MEB routes for hospital use or compassionate access (Article 3(1) national licensing, hospital formula, or named-patient import)
-- **Expert consultation:** Referral to a rare lung tumour multidisciplinary team (pulmonary oncology, pathology) before any clinical application is considered
+Gelieve naar de SmPC (Samenvatting van de Productkenmerken) te verwijzen voor volledige veiligheidsinformatie, aangezien momenteel geen Nederlandse SmPC-gegevens beschikbaar zijn in dit bewijspakket.
 
-> ⚠️ This report is for research reference only and does not constitute medical advice. All repurposing candidates require prospective clinical validation before therapeutic application.
+---
+
+## Conclusie en Vervolgstappen
+
+**Beslissing: Afwachten**
+
+**Motivering:**
+Hoewel het TxGNN-model een zeer hoge voorspellingsscore toewijst (99.94%), is de klinische bewijsbasis voor etoposide in goed gedifferentieerd foetaal adenocarcinoom van de long L4 — beperkt tot mechanistische gevolgtrekking en een enkel tangentiaal gerelateerde casuïstiek met betrekking tot het moedertumortype (bifasisch pulmonaal blastoom). WDFA is een uitzonderlijk zeldzame tumor zonder gevestigde chemotherapierichtlijnen, geen toegewijde klinische onderzoeken, en geen CBG-MEB-registratie voor etoposide in Nederland.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Bewijsreview:** Systematische identificatie van alle gepubliceerde WDFA-casuïstiek en -series om te bepalen of enige patiënt een etoposide-bevattend schema kreeg en welke uitkomsten werden waargenomen
+- **MOA-documentatie:** Ophalen van formele werkingsmechanisme-gegevens uit DrugBank (DB00773) om de farmacologische rationale-sectie aan te vullen
+- **Veiligheidsgegevens:** Download en parseer de relevante SmPC/PIL om contraïndicaties, waarschuwingen en klinisch significante medicijninteracties vast te stellen voor de Nederlandse voorschrijvingscontext
+- **Regelgevingspadzieving:** Evaluatie van CBG-MEB-routes voor ziekenhuisgebruik of compassionele toegang (artikel 3(1) nationale licenties, ziekenhuisformule of naampatient-import)
+- **Deskundige consultatie:** Verwijzing naar een zeldzaam longtumoraal multidisciplinair team (longoncologie, pathologie) voordat enige klinische toepassing wordt overwogen
+
+> ⚠️ Dit rapport is alleen voor onderzoeksreferentie en vormt geen medisch advies. Alle repurposing-kandidaten vereisen prospectieve klinische validatie voordat therapeutische toepassing wordt overwogen.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

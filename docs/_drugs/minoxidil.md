@@ -29,89 +29,86 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-Using `txgnn-pipeline` to confirm this is a Netherlands (Nl) deployment report — proceeding with the Evidence Pack analysis for Minoxidil.
+# Minoxidil: Van androgenetische alopecia naar hypotrichosis simplex van de hoofdhuid
+
+## Samenvatting in één zin
+
+Minoxidil is een kaliumkanaalopener die is vastgesteld als een topicale behandeling voor androgenetische alopecia (patroonhaaruitval) bij zowel mannen als vrouwen, met een lang bestaande geschiedenis van systemisch gebruik voor ernstige hypertensie.
+Het TxGNN-model voorspelt dat het ook effectief kan zijn voor **Hypotrichosis simplex van de hoofdhuid** (HSS), een zeldzame erfelijke haargroeisstoornis,
+met **geen geregistreerde klinische onderzoeken** en **3 publicaties op casusniveau** die momenteel beschikbaar zijn ter ondersteuning van deze richting.
 
 ---
 
-# Minoxidil: From Androgenetic Alopecia to Hypotrichosis Simplex of the Scalp
+## Snel overzicht
 
-## One-Sentence Summary
-
-Minoxidil is a potassium channel opener established as a topical treatment for androgenetic alopecia (pattern hair loss) in both men and women, with a long-standing systemic use history for severe hypertension.
-The TxGNN model predicts it may also be effective for **Hypotrichosis Simplex of the Scalp** (HSS), a rare hereditary hair growth disorder,
-with **no registered clinical trials** and **3 case-level publications** currently available to support this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Androgenetic alopecia (pattern hair loss) — no Dutch (CBG-MEB) marketing authorisation on record |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
-| TxGNN Prediction Score | 99.9999% |
-| Evidence Level | L3 |
-| NL Market Status | Not Registered |
-| Number of Authorisations | 0 |
-| Recommended Decision | Hold |
+| Onderdeel | Inhoud |
+|-----------|--------|
+| Oorspronkelijke indicatie | Androgenetische alopecia (patroonhaaruitval) — geen registratie van de Nederlandse (CBG-MEB) vergunning voor het in de handel brengen |
+| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
+| TxGNN-voorspellingsscore | 99.9999% |
+| Bewijsniveau | L3 |
+| Status Nederlandse markt | Niet geregistreerd |
+| Aantal vergunningen | 0 |
+| Aanbevolen besluit | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data was not available in this Evidence Pack. Based on established pharmacological knowledge, Minoxidil functions as a potassium (K⁺) ATP channel opener. Applied topically, it promotes perifollicular vasodilation — increasing blood flow and oxygen delivery to hair follicles — and extends the anagen (active growth) phase of the hair cycle. It may also facilitate the conversion of fine vellus hairs into thicker terminal hairs. These properties underlie its well-established efficacy in androgenetic alopecia and explain why it appears frequently as an adjunct treatment across multiple hair loss conditions.
+Gedetailleerde gegevens over het werkingsmechanisme waren niet beschikbaar in dit bewijspakket. Op basis van gevestigde farmacologische kennis fungeert minoxidil als een kalium (K⁺) ATP-kanaalopener. Topicaal toegepast bevordert het perifolliculaire vaatverwijding — waardoor de bloeddoorstroming en zuurstoftoevoer naar haarfollikels toenemen — en verlengt het de anagenfase (actieve groei) van de haarcyclus. Het kan ook de omzetting van zachte dons haren naar dikker eindstandig haar vergemakkelijken. Deze eigenschappen liggen ten grondslag aan de goed vastgestelde werkzaamheid ervan bij androgenetische alopecia en verklaren waarom het frequent voorkomt als aanvullende behandeling bij meerdere vormen van haaruitval.
 
-Hypotrichosis Simplex of the Scalp is a rare autosomal dominant monogenic disorder caused by loss-of-function variants in the *CDSN* gene, which encodes the desmosome protein corneodesmosin. Unlike scarring alopecias — where follicles are permanently replaced by fibrous tissue — HSS involves structurally underdeveloped follicles that retain a degree of residual function. This distinction is mechanistically important: Minoxidil's vasodilation-based approach can, in principle, stimulate these remaining follicles to produce more and longer hair, which is the primary biological reason the TxGNN model assigns a near-perfect prediction score.
+Hypotrichosis simplex van de hoofdhuid is een zeldzame autosomaal dominante monogenetische aandoening die wordt veroorzaakt door functieverliesvarianten in het *CDSN*-gen, dat codeert voor het desmosoomeiwit corneodesmosin. In tegenstelling tot litteken-alopecia's — waar follikels permanent worden vervangen door fibreus weefsel — betreft HSS onderontwikkelde follikels die een mate van restfunctie behouden. Dit onderscheid is mechanistisch belangrijk: minoxidils op vaatverwijding gebaseerde benadering kan in principe deze overblijvende follikels stimuleren om meer en langer haar te produceren, wat de primaire biologische reden is waarom het TxGNN-model een bijna perfecte voorspellingsscore toekent.
 
-The mechanistic overlap between HSS and androgenetic alopecia is real but partial. Both conditions involve impaired hair growth from living follicles; however, HSS arises from a fixed genetic structural defect rather than androgen-mediated follicular miniaturisation. All three currently available publications document positive clinical responses to Minoxidil at the case level, consistent with biological plausibility. However, the evidence base is far too limited to support routine clinical use, and the ultra-rare nature of HSS makes large-scale trial recruitment exceptionally challenging.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Minoxidil in Hypotrichosis Simplex of the Scalp.
+De mechanistische overlapping tussen HSS en androgenetische alopecia is reëel maar gedeeltelijk. Beide aandoeningen betreffen verstoorde haargroei van actieve follikels; HSS ontstaat echter uit een vaste genetische structurele afwijking in plaats van androgeen-gemedieerde follikelminiatuïsering. Alle drie momenteel beschikbare publicaties documenteren positieve klinische reacties op minoxidil op casusniveau, consistent met biologische aannemelijkheid. De bewijsbasis is echter veel te beperkt om routinegebruik in de kliniek te ondersteunen, en het ultra-zeldzame karakter van HSS maakt het reclutement voor grootschalige onderzoeken uitzonderlijk uitdagend.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case Series | Dermatologic Therapy | Oral minoxidil combined with growth factors led to improvement in hereditary HSS; supports feasibility of minoxidil-based treatment in this rare genetic condition |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case Series | Frontiers in Genetics | An 8-year-old male with genetically confirmed HSS (CDSN mutation) was treated with botanical extracts plus minoxidil; clinical response documented in a diagnosed familial case |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case Report | Journal of Dermatological Treatment | A 14-year-old with hereditary hypotrichosis simplex treated with platelet-rich plasma injection combined with topical minoxidil 2%; improvement in hair length and density reported |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd voor minoxidil bij hypotrichosis simplex van de hoofdhuid.
 
 ---
 
-## Netherlands Market Information
+## Bewijs uit literatuur
 
-No products containing Minoxidil hold a marketing authorisation issued by CBG-MEB at the time of this assessment. No RVG numbers are on record.
-
-> **Note:** Topical Minoxidil preparations (e.g., Regaine/Rogaine) are widely authorised across other EU Member States for androgenetic alopecia. This result warrants direct verification against the current CBG-MEB and EMA product registers, as a data collection gap cannot be excluded.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics / *Samenvatting van de Productkenmerken*) for complete safety information, including key warnings, contraindications, and drug interactions.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Casusserie | Dermatologic Therapy | Oraal minoxidil gecombineerd met groeifactoren leidde tot verbetering bij erfelijke HSS; ondersteunt de haalbaarheid van minoxidil-gebaseerde behandeling in deze zeldzame genetische aandoening |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Casusserie | Frontiers in Genetics | Een 8-jarige jongen met genetisch bevestigde HSS (CDSN-mutatie) werd behandeld met botanische extracten plus minoxidil; klinische respons gedocumenteerd in een gediagnosticeerde familiale casus |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Casusrapport | Journal of Dermatological Treatment | Een 14-jarige met erfelijke hypotrichosis simplex behandeld met injectie van bloedplaatjes-rijke plasma gecombineerd met topicaal minoxidil 2%; verbetering in haarlengte en -dichtheid gerapporteerd |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Geen producten met minoxidil hebben een vergunning voor het in de handel brengen afgegeven door de CBG-MEB op het moment van deze beoordeling. Geen RVG-nummers zijn geregistreerd.
 
-**Rationale:**
-The TxGNN model assigns a near-perfect prediction score and the mechanistic rationale for Minoxidil in HSS is biologically plausible — residual functional follicles in this genetic condition may respond to perifollicular vasodilation. However, all current supporting evidence is limited to three case-level publications (two case series, one case report), no prospective trials exist for this indication, formal safety data in this Evidence Pack is incomplete, and Minoxidil carries no confirmed CBG-MEB marketing authorisation in the Netherlands. This combination of evidence and regulatory gaps warrants a Hold until foundational data can be collected.
+> **Opmerking:** Topicale minoxidilpreparaten (bijv. Regaine/Rogaine) zijn ruim geauthoriseerd in andere EU-lidstaten voor androgenetische alopecia. Dit resultaat rechtvaardigt directe verificatie aan de hand van het huidige CBG-MEB- en EMA-productenregister, omdat een lacune in gegevensverzameling niet kan worden uitgesloten.
 
-**To proceed, the following is needed:**
+---
 
-- Verification of current NL/EU marketing authorisation status through the CBG-MEB register and EMA product database (EPAR)
-- Retrieval of SmPC safety data: key warnings, contraindications, and drug-drug interactions
-- Mechanism of action documentation via DrugBank API (DB00350)
-- At least one prospective pilot study or well-documented consecutive case series (n ≥ 10) in genetically confirmed HSS patients
-- EMA Orphan Designation assessment, given the ultra-rare classification of HSS
-- Pre-consultation with CBG-MEB on off-label prescribing pathways if an unregistered product is to be used in the Netherlands
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie, inclusief belangrijkste waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Afwachten**
+
+**Grondslag:**
+Het TxGNN-model wijst een bijna perfecte voorspellingsscore toe en het mechanistische fundament voor minoxidil bij HSS is biologisch aannemelijk — restfunctionele follikels in deze genetische aandoening kunnen reageren op perifolliculaire vaatverwijding. Al het huidige ondersteunende bewijs beperkt zich echter tot drie publicaties op casusniveau (twee cassusserien, één casusrapport), geen prospectieve onderzoeken bestaan voor deze indicatie, formele veiligheidsgegevens in dit bewijspakket zijn onvolledig, en minoxidil draagt geen bevestigde vergunning voor het in de handel brengen van de CBG-MEB in Nederland. Deze combinatie van bewijs en regelgevingsgaten rechtvaardigt een afwachting totdat basisgegevens kunnen worden verzameld.
+
+**Om door te gaan is het volgende nodig:**
+
+- Verificatie van de huidige status van vergunningen voor het in de handel brengen in NL/EU via het CBG-MEB-register en de EMA-productendatabase (EPAR)
+- Opvragen van SmPC-veiligheidsgegevens: belangrijkste waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties
+- Documentatie van het werkingsmechanisme via de DrugBank-API (DB00350)
+- Minstens één prospectief pilotstudie of goed gedocumenteerde opeenvolgende casusserie (n ≥ 10) bij genetisch bevestigde HSS-patiënten
+- EMA Orphan Designation-beoordeling, gezien de ultra-zeldzame classificatie van HSS
+- Voorconsultatie met de CBG-MEB over off-label voorschrijfpaden als een ongeregistreerd product in Nederland moet worden gebruikt
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

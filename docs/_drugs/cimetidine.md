@@ -29,86 +29,83 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-The txgnn-pipeline skill confirms this is a Netherlands (NL) deployment context. Now I'll generate the full evaluation report for Cimetidine based on the Evidence Pack.
+# Cimetidine: van Peptische Ulcusziekte tot Sluimerende Systemische Mastocytose
+
+## Samenvatting in één zin
+
+Cimetidine is een H2-receptorantagonist uit de eerste generatie, historisch de standaardbehandeling voor peptische ulcusziekte en daarmee samenhangende zuurhypersecretie-aandoeningen gedurende de jaren 70–90 van de 20e eeuw.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Sluimerende Systemische Mastocytose (SMM)**,
+met **geen geregistreerde klinische onderzoeken** en **geen gepubliceerde literatuur** die deze specifieke indicatie direct ondersteunt op dit moment — wat deze voorspelling in de categorie mechanistische hypothese plaatst.
 
 ---
 
-# Cimetidine: From Peptic Ulcer Disease to Smouldering Systemic Mastocytosis
+## Snel overzicht
 
-## One-Sentence Summary
-
-Cimetidine is a first-generation histamine H2 receptor antagonist, historically the standard-of-care treatment for peptic ulcer disease and related acid hypersecretory conditions throughout the 1970s–1990s.
-The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis (SMM)**,
-with **no registered clinical trials** and **no published literature** directly supporting this specific indication at this time — placing this prediction in the mechanistic hypothesis category only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Peptic ulcer disease (histamine H2 receptor antagonist; well-established historical core indication) |
-| Predicted New Indication | Smouldering Systemic Mastocytosis |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L4 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Peptische ulcusziekte (H2-receptorantagonist; goed gevestigde historische kernIndicatie) |
+| Voorspelde nieuwe indicatie | Sluimerende Systemische Mastocytose |
+| TxGNN-voorspellingsscore | 99.80% |
+| Bewijsniveau | L4 |
+| Status op de NL-markt | Niet op de markt gebracht |
+| Aantal registraties | 0 |
+| Aanbevolen besluit | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data from DrugBank is not available for this report. Based on well-established pharmacological knowledge, Cimetidine is a **histamine H2 receptor antagonist** — it competitively blocks H2 receptors on gastric parietal cells, markedly reducing both basal and stimulated gastric acid secretion. This mechanism underpinned its landmark role in peptic ulcer healing throughout the late 20th century and is one of the most thoroughly validated drug–receptor interactions in modern pharmacology.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme uit DrugBank niet beschikbaar voor dit rapport. Op basis van goed gevestigde farmacologische kennis is Cimetidine een **H2-receptorantagonist** — het blokkeert competitief H2-receptoren op gastrale pariëtale cellen, waardoor zowel basale als gestimuleerde gastrale zuursecratie aanzienlijk afneemt. Dit werkingsmechanisme lag ten grondslag aan de baanbrekende rol ervan bij de genezing van peptische ulcus gedurende de late twintigste eeuw en is een van de meest grondige gevalideerde geneesmiddel-receptorinteracties in de moderne farmacologie.
 
-The TxGNN prediction for Smouldering Systemic Mastocytosis (SMM) is mechanistically coherent. SMM is an indolent variant of systemic mastocytosis in which clonally expanded mast cells accumulate primarily in the bone marrow; progression to aggressive disease is slow. The dominant symptom burden — urticaria, gastrointestinal cramps, flushing, and episodic hypotension — is driven by excess **histamine release** from activated mast cells. Blocking H2 receptors therefore directly addresses the gastric acid hypersecretion and GI components of histamine-mediated injury. In clinical practice, combined H1 + H2 antihistamine therapy is already recommended as first-line symptomatic management in mastocytosis guidelines (e.g., European Competence Network on Mastocytosis).
+De TxGNN-voorspelling voor Sluimerende Systemische Mastocytose (SMM) is mechanistisch coherent. SMM is een indolente variant van systemische mastocytose waarin klonaal uitgebreide mestcellen zich vooral in het beenmerg ophopen; progressie naar agressieve ziekte verloopt langzaam. De dominante symptoomlast — urticaria, gastro-intestinale krampen, vasomotore flushing en episodische hypotensie — wordt veroorzaakt door overmatige **histamineafgifte** uit geactiveerde mestcellen. H2-receptorblokade richt zich daarom rechtstreeks op de gastrale zuurhypersecretie en gastro-intestinale componenten van histaminegeïnduceerde schade. In de klinische praktijk wordt gecombineerde H1 + H2-antihistaminetherapie al aanbevolen als eerstelijnsbehandeling van symptomen bij mastocytose (bijv. European Competence Network on Mastocytosis).
 
-That said, cimetidine's role in SMM is supportive and off-label. SMM is an indolent but systemic disease requiring specialist haematological follow-up, and no formal RCT has ever been conducted. The TxGNN model likely captures the strong histamine-pathway overlap between peptic ulcer disease (the original indication) and mastocytosis, but the mechanistic step from "H2 blockade reduces GI symptoms" to "modifies mast cell disease course" is not proven.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Cimetidine in Smouldering Systemic Mastocytosis.
+Dat gezegd hebbende, de rol van cimetidine bij SMM is ondersteunend en off-label. SMM is een indolente maar systemische aandoening die specialistische haematologische vervolgzorg vereist, en er is nooit een formeel RCT uitgevoerd. Het TxGNN-model vangt waarschijnlijk de sterke overlap van het histamineroute tussen peptische ulcusziekte (de oorspronkelijke indicatie) en mastocytose, maar de mechanistische stap van "H2-blokade vermindert gastro-intestinale symptomen" naar "wijzigt het ziektebeloop van mastocytose" is niet bewezen.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-Currently no related literature available for Cimetidine in Smouldering Systemic Mastocytosis.
-
----
-
-## Netherlands Market Information
-
-Cimetidine is currently **not authorized for marketing in the Netherlands**. No RVG numbers are on record with the CBG-MEB (College ter Beoordeling van Geneesmiddelen). Any clinical use would require an individual patient named-patient or magistral preparation route.
-
-| RVG Number | Product Name | Dosage Form | Approved Indication |
-|------------|--------------|-------------|---------------------|
-| — | — | — | No CBG-MEB authorization on record |
+Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd voor Cimetidine in Sluimerende Systemische Mastocytose.
 
 ---
 
-## Safety Considerations
+## Bewijsvoering uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel is er geen gerelateerde literatuur beschikbaar voor Cimetidine in Sluimerende Systemische Mastocytose.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Cimetidine is momenteel **niet geregistreerd voor marketing in Nederland**. Er zijn geen RVG-nummers geregistreerd bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Elk klinisch gebruik zou een individuele aanvraag of magistrale bereiding vereisen.
 
-**Rationale:**
-The TxGNN model generates a high confidence score (99.80%) for cimetidine in SMM based on a mechanistically sound histamine H2 pathway overlap, but the complete absence of direct clinical trial or published literature evidence — combined with the drug's unauthorized status in the Netherlands — means this prediction cannot be translated into a repurposing programme without substantial additional evidence generation.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|------------|-------------|-----------------|----------------------|
+| — | — | — | Geen CBG-MEB-registratie op record |
 
-**To proceed, the following is needed:**
+---
 
-- Systematic search and review of off-label cimetidine use in mastocytosis case series, expert consensus statements, and mastocytosis society guidelines (e.g., ECNM) to establish whether any informal clinical evidence base already exists
-- Retrieval of cimetidine's full mechanism of action and safety profile from DrugBank (DG002 remediation: DrugBank API query)
-- Identification of available pharmaceutical formulations and appropriate dosing regimens suitable for SMM symptom management in Dutch clinical practice
-- CBG-MEB consultation on the regulatory pathway for an unlicensed drug in a rare/ultra-rare disease setting (SMM qualifies as an orphan disease indication under EMA criteria)
-- If supportive evidence is found, design of a prospective observational registry or pilot study in collaboration with a Dutch haematology centre (e.g., HOVON network) before considering a formal Phase 2 trial
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Wachten**
+
+**Reden:**
+Het TxGNN-model genereert een hoge betrouwbaarheidsscore (99.80%) voor cimetidine in SMM op basis van een mechanistisch sluitende overlap van het histamineroute, maar de volledige afwezigheid van direct klinisch onderzoeks- of gepubliceerde literatuurbewijsvoering — gecombineerd met de niet-geregistreerde status van het geneesmiddel in Nederland — betekent dat deze voorspelling niet kan worden omgezet in een herpositioneringsprogramma zonder aanzienlijke aanvullende bewijsvoering.
+
+**Het volgende is nodig om verder te gaan:**
+
+- Systematische zoeken en beoordeling van off-label cimetidinegebruik in mastocytose-casuïstiek, deskundigenconsensusverklaringen en richtlijnen van mastocytose-organisaties (bijv. ECNM) om vast te stellen of er al enige informele klinische bewijsbasis bestaat
+- Opvraging van het volledige werkingsmechanisme en veiligheidsprofiel van cimetidine uit DrugBank (DG002 remediëring: DrugBank API-query)
+- Identificatie van beschikbare farmaceutische formuleringen en geschikte doseeringsschema's geschikt voor SMM-symptoombehandeling in de Nederlandse klinische praktijk
+- Raadpleging van CBG-MEB over de regelgevingsweg voor een niet-geregistreerd geneesmiddel in een zeldzame/ultra-zeldzame aandoening (SMM valt onder de EMA-criteria voor weesgeneesmiddelen)
+- Indien ondersteunend bewijs wordt gevonden, opzet van een prospectief observatieregister of pilotonderzoek in samenwerking met een Nederlands haematologiecentrum (bijv. HOVON-netwerk) voordat een formeel fase 2-onderzoek wordt overwogen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

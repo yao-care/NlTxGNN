@@ -29,108 +29,105 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-以下是根據 Evidence Pack 生成的完整評估報告：
+# Colchicine: Van jicht naar Plasmodium falciparum malaria
+
+## Samenvatting in één zin
+
+Colchicine is een plantaardig alkaloid met een lange geschiedenis van gebruik bij jicht en auto-inflammatoire aandoeningen — hoewel er momenteel geen registratie voor toelating op de Nederlandse markt is.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn tegen **Plasmodium falciparum-malaria**,
+met **0 klinische onderzoeken** en **6 mechanistische publicaties** die deze richting ondersteunen — allemaal op basis van vergelijkbare verbindingen in plaats van Colchicine zelf.
+
+> **Opmerking:** De op één na hoogst gerangschikte TxGNN-voorspelling — **Familiale mediterrane koorts (FMK)** — heeft aanzienlijk sterker bewijs (L1, 1 klinisch onderzoek, 20 publicaties) en een aanbeveling van *Doorgaan met waarborgen*. Clinici en formulariumbijdragers kunnen er goed aan doen die indicatie prioritair voor verdere evaluatie uit te kiezen.
 
 ---
 
-# Colchicine: From Gout to Plasmodium Falciparum Malaria
+## Snelle overzicht
 
-## One-Sentence Summary
-
-Colchicine is a plant-derived alkaloid with a long history of use in gout and autoinflammatory conditions — though no Netherlands marketing authorization is currently registered.
-The TxGNN model predicts it may be effective against **Plasmodium Falciparum Malaria**,
-with **0 clinical trials** and **6 mechanistic publications** currently supporting this direction — all based on analogous compounds rather than Colchicine itself.
-
-> **Note:** The second-ranked TxGNN prediction — **Familial Mediterranean Fever (FMF)** — carries substantially stronger evidence (L1, 1 clinical trial, 20 publications) and a recommendation of *Proceed with Guardrails*. Clinicians and formulary reviewers may wish to prioritise that indication for further evaluation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not specified in NL regulatory data (established historical use: Gout, Familial Mediterranean Fever) |
-| Predicted New Indication | Plasmodium Falciparum Malaria |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Niet gespecificeerd in NL regelgevingsgegevens (gevestigde historisch gebruik: jicht, familiale mediterrane koorts) |
+| Voorspelde nieuwe indicatie | Plasmodium falciparum-malaria |
+| TxGNN-voorspellingsscore | 99,60% |
+| Bewijsniveau | L4 |
+| NL-markeringsstatus | Niet geregistreerd |
+| Aantal toelatingingen | 0 |
+| Aanbevolen besluit | Stil leggen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Colchicine binds to β-tubulin dimers and inhibits microtubule polymerisation. This disrupts mitotic spindle formation (blocking cell division) and impairs neutrophil chemotaxis and degranulation. These properties underpin its efficacy in gout flares and autoinflammatory conditions such as FMF and pericarditis.
+Colchicine bindt aan β-tubulinedimeren en remt polymerisatie van microtubuli. Dit verstoort de vorming van de mitotische spil (blokkeert celdelingen) en bemoeilijkt neutrofiele chemotaxis en degranulatie. Deze eigenschappen ondersteunen de werkzaamheid ervan bij jichtaanvallen en auto-inflammatoire aandoeningen zoals FMK en pericarditis.
 
-*Plasmodium falciparum* possesses its own β-tubulin (pfβ-tubulin), which is an essential structural component throughout the parasite's intraerythrocytic life cycle. Several tubulin-binding compounds — including tubulozoles and curcumin — have demonstrated activity against *P. falciparum* in vitro, providing the biological rationale for TxGNN's prediction. Colchicine, as a prototypical tubulin-binding agent, is algorithmically grouped with this mechanistic class.
+*Plasmodium falciparum* bezit zijn eigen β-tubuline (pfβ-tubuline), een essentieel structureel onderdeel gedurende de intra-erythrocytaire levenscyclus van de parasiet. Verschillende tubulinebindende verbindingen — waaronder tubulozolen en curcumine — hebben activiteit tegen *P. falciparum* in vitro aangetoond, wat de biologische grondslag voor TxGNN's voorspelling vormt. Colchicine, als een prototypisch tubulinebindend middel, wordt algoritmisch gegroepeerd met deze mechanistische klasse.
 
-However, the mechanistic parallel has important limitations. Plasmodial β-tubulin differs from mammalian tubulin at functionally important residues, raising questions about selectivity and therapeutic window. Critically, **none of the identified literature studies Colchicine directly** — all six publications concern structurally distinct compounds. Colchicine's extremely narrow therapeutic index (therapeutic and toxic doses overlap significantly) further complicates any infectious disease application. The current prediction is therefore best characterised as a **mechanistic analogy hypothesis** rather than evidence-based repurposing.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De mechanistische parallel kent echter belangrijke beperkingen. Parasitaire β-tubuline verschilt van mammalische tubuline op functioneel belangrijke residuen, wat vragen oproept over selectiviteit en therapeutisch venster. Kritiek is dat **geen van de geïdentificeerde literatuurstudies Colchicine rechtstreeks bestudeert** — alle zes publicaties betreffen structureel verschillende verbindingen. De extreem nauwe therapeutische breedte van Colchicine (therapeutische en toxische doses overlappen significant) bemoeilijkt verder elke infectieziekte-toepassing. De huidige voorspelling is daarom het best te karakteriseren als een **mechanistische analogie-hypothese** in plaats van bewijs-gebaseerde herbestemming.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [2670249](https://pubmed.ncbi.nlm.nih.gov/2670249/) | 1989 | In vitro screening | Cell Biology International Reports | Nine tubulin-binding compounds tested against *P. falciparum* in vitro; plasmodial tubulin differs from mammalian protein at molecular level; tubulozole-T showed promise |
-| [2221861](https://pubmed.ncbi.nlm.nih.gov/2221861/) | 1990 | In vitro mechanistic | Antimicrobial Agents and Chemotherapy | Tubulozoles inhibit protein biosynthesis in *P. falciparum*; Colcemid (a tubulin-binding agent related to Colchicine) showed a similar inhibitory profile |
-| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | In vitro mechanistic | PLoS ONE | Curcumin binds tubulin and disrupts *P. falciparum* microtubule structure; supports the concept that tubulin-targeted agents can affect the malaria parasite |
-| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | In vitro mechanistic | Molecular and Cellular Biology | *pfmdr1*-encoded protein Pgh1 expressed in CHO cells increases chloroquine susceptibility; mechanistic context for *P. falciparum* drug resistance |
-| [6362934](https://pubmed.ncbi.nlm.nih.gov/6362934/) | 1984 | Clinical observation | Clinical and Experimental Immunology | 82% of acute malaria patients showed antibodies to intermediate filaments; suggests cytoskeletal involvement in host–parasite interaction |
-
-> **Caution on relevance:** No publication directly investigates Colchicine against *P. falciparum*. All studies concern compounds with overlapping but distinct mechanisms.
+Er zijn momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Colchicine holds no marketing authorization (RVG number) issued by the CBG-MEB (College ter Beoordeling van Geneesmiddelen). There are no registered products to list.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [2670249](https://pubmed.ncbi.nlm.nih.gov/2670249/) | 1989 | In vitro screening | Cell Biology International Reports | Negen tubulinebindende verbindingen getest tegen *P. falciparum* in vitro; parasitaire tubuline verschilt van mammalisch eiwit op moleculair niveau; tubulozol-T toonde beloften |
+| [2221861](https://pubmed.ncbi.nlm.nih.gov/2221861/) | 1990 | In vitro mechanistisch | Antimicrobial Agents and Chemotherapy | Tubulozolen remmen eiwitbiosynthese in *P. falciparum*; Colcemid (een tubulinebindend middel gerelateerd aan Colchicine) toonde een soortgelijk remmend profiel |
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | In vitro mechanistisch | PLoS ONE | Curcumine bindt tubuline en verstoort *P. falciparum*-microtubuli-structuur; ondersteunt het concept dat tubuline-gerichte middelen de malariaparasiet kunnen beïnvloeden |
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | In vitro mechanistisch | Molecular and Cellular Biology | *pfmdr1*-gecodeerd eiwit Pgh1 tot expressie gebracht in CHO-cellen verhoogt chloroquine-gevoeligheid; mechanistische context voor *P. falciparum*-geneesmiddelresistentie |
+| [6362934](https://pubmed.ncbi.nlm.nih.gov/6362934/) | 1984 | Klinische observatie | Clinical and Experimental Immunology | 82% van acute malariapatïënten vertoonde antistoffen tegen intermediaire filamenten; suggereert cytoskeletale betrokkenheid in gastheer-parasiet-interactie |
 
-> For prescribers in the Netherlands: Colchicine may be available via hospital pharmacy compounding or importation procedures under Article 3(1) of Directive 2001/83/EC. Clinicians should consult the relevant SmPC from an EMA-approved source (e.g., for the EU-authorized product *Colchicine Rottapharm*, if applicable) or contact CBG-MEB for current regulatory status.
-
----
-
-## Safety Considerations
-
-Safety data (key warnings, contraindications, and drug–drug interaction records) is not available in the current Evidence Pack.
-
-> Please refer to the SmPC (Summary of Product Characteristics — *Samenvatting van de Productkenmerken*) for complete safety information.
-
-**Known clinical safety signals of note** (based on established pharmacological knowledge, to be verified against the SmPC):
-
-- **Narrow therapeutic index**: The gap between therapeutic and toxic doses is small; overdose can be fatal.
-- **Renal and hepatic impairment**: Colchicine is renally excreted and hepatically metabolised (CYP3A4, P-glycoprotein); dose reduction is required in organ impairment.
-- **Drug interactions**: Strong CYP3A4 inhibitors (e.g., clarithromycin, cyclosporine) can markedly increase Colchicine plasma levels and toxicity risk.
-- **Haematological toxicity**: Bone marrow suppression, leucopenia, and agranulocytosis reported with prolonged use.
+> **Voorzichtigheid bij relevantie:** Geen publicatie onderzoekt Colchicine rechtstreeks tegen *P. falciparum*. Alle studies betreffen verbindingen met overlappende maar verschillende mechanismen.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Colchicine heeft geen vergunning voor toelating (RVG-nummer) van het CBG-MEB (College ter Beoordeling van Geneesmiddelen). Er zijn geen geregistreerde geneesmiddelen die kunnen worden vermeld.
 
-**Rationale:**
-The TxGNN model identifies a mechanistically plausible tubulin-disruption pathway applicable to *P. falciparum*, but all supporting evidence derives from structurally distinct compounds — not Colchicine itself. With zero clinical trials, no direct in vitro *P. falciparum* data, a narrow therapeutic index, and no Netherlands regulatory foothold, there is insufficient evidence to advance this indication.
-
-**To proceed, the following is needed:**
-
-- **Direct preclinical validation**: In vitro susceptibility testing of Colchicine against *P. falciparum* strains (e.g., 3D7, Dd2), including IC₅₀ determination
-- **Selectivity assessment**: Comparative binding affinity of Colchicine to pfβ-tubulin vs. human β-tubulin to assess selective toxicity
-- **Pharmacokinetic modelling**: Determine whether therapeutic concentrations in erythrocytes can be achieved without systemic toxicity
-- **Complete MOA data**: Obtain full mechanism of action data via DrugBank API (currently listed as a data gap — DG002)
-- **Safety profile from SmPC**: Download and parse the applicable SmPC to complete the safety tier (DG001)
-- **Consideration of FMF indication**: The rank-2 prediction (Familial Mediterranean Fever, autosomal dominant) has L1 evidence and a *Proceed with Guardrails* recommendation — this represents a more actionable near-term priority for the Netherlands clinical context
+> Voor voorschrijvers in Nederland: Colchicine kan beschikbaar zijn via ziekenhuisapotheekmengoeien of invoegprocedures onder artikel 3(1) van Richtlijn 2001/83/EG. Clinici moeten het relevante SmPC van een EMA-goedgekeurde bron raadplegen (bijvoorbeeld voor het EMA-goedgekeurde product *Colchicine Rottapharm*, indien van toepassing) of contact opnemen met CBG-MEB voor de huidige regelgevingsstatus.
 
 ---
-*Report generated: 2026-05-01 | Data cut-off: 2026-05-01 | Evidence Pack v4 | Candidate ID: TW-DB01394-multi*
-*This report is intended for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+
+## Veiligheidsoverwegingen
+
+Veiligheidsgegevens (belangrijke waarschuwingen, contra-indicaties en geneesmiddelinteractieverslag) zijn niet beschikbaar in het huidige Evidence Pack.
+
+> Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
+
+**Bekende klinische veiligheidssignalen van belang** (op basis van gevestigde farmacologische kennis, ter verificatie tegen de SmPC):
+
+- **Nauwe therapeutische breedte**: Het verschil tussen therapeutische en toxische doses is klein; overdosering kan fataal zijn.
+- **Nieren- en leverbeschadiging**: Colchicine wordt renaal uitgescheiden en hepatisch gemetaboliseerd (CYP3A4, P-glycoproteïne); dosisreductie is vereist bij orgaanbeschadiging.
+- **Geneesmiddelinteracties**: Sterke CYP3A4-remmers (bijvoorbeeld clarithromycine, cyclosporine) kunnen Colchicine-plasmawaarden en toxiciteitrisico aanzienlijk verhogen.
+- **Hematologische toxiciteit**: Beenmergsuppressie, leukopenie en agranulocytose gerapporteerd bij langdurig gebruik.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Stil leggen**
+
+**Grondslag:**
+Het TxGNN-model identificeert een mechanistisch aannemelijke tubuline-verstoringsweg van toepassing op *P. falciparum*, maar al het ondersteunende bewijs is afkomstig van structureel verschillende verbindingen — niet Colchicine zelf. Met nul klinische onderzoeken, geen directe in vitro *P. falciparum*-gegevens, een nauwe therapeutische breedte en geen Nederlands regelgevingsvoetafdruk is er onvoldoende bewijs om deze indicatie verder uit te werken.
+
+**Om verder te gaan is het volgende nodig:**
+
+- **Directe preklinische validatie**: In vitro gevoeligheidstesten van Colchicine tegen *P. falciparum*-stammen (bijvoorbeeld 3D7, Dd2), inclusief IC₅₀-bepaling
+- **Selectiviteitsbeoordeling**: Vergelijkende bindingsaffiniteit van Colchicine voor pfβ-tubuline versus menselijke β-tubuline om selectieve toxiciteit te beoordelen
+- **Farmacokinetische modellering**: Bepaal of therapeutische concentraties in erythrocyten kunnen worden bereikt zonder systemische toxiciteit
+- **Volledige MOA-gegevens**: Verkrijg volledige mechanisme-van-actie-gegevens via DrugBank API (momenteel vermeld als gegevensgat — DG002)
+- **Veiligheidsprofiel van SmPC**: Download en parseer de toepasselijke SmPC om de veiligheidstier in te vullen (DG001)
+- **Overweging van FMK-indicatie**: De rang-2-voorspelling (familiale mediterrane koorts, autosomaal dominant) heeft L1-bewijs en een aanbeveling van *Doorgaan met waarborgen* — dit vertegenwoordigt een meer uitvoerbare kortetermijnprioriteit voor de Nederlandse klinische context
+
+---
+*Rapport gegenereerd: 2026-05-01 | Gegevensstop: 2026-05-01 | Evidence Pack v4 | Kandidaat-ID: TW-DB01394-multi*
+*Dit rapport is bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies. Alle kandidaten voor geneesmiddelherherstemming vereisen klinische validatie vóór enige therapeutische toepassing.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,149 +29,150 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Azathioprine: From Immunosuppression to Inflammatory Bowel Disease
+# Azathioprine: Van Immunosuppressie naar Inflammatoire Darmziekten
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Azathioprine is a well-established purine antimetabolite immunosuppressant, historically used for organ transplant rejection prevention and autoimmune diseases. The TxGNN model predicts it may be effective for **Inflammatory Bowel Disease (IBD)**, with **50 clinical trials** and **20 publications** currently supporting this direction — notably, this prediction aligns with azathioprine's already-approved use for IBD in the Netherlands and internationally, serving as a strong validation of the model.
+Azathioprine is een gevestigde purine-antimetaboliet immunosuppressivum, historisch gebruikt voor preventie van orgaantransplantatafstoting en auto-immuunziekten. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Inflammatoire Darmziekte (IBD)**, ondersteund door **50 klinische onderzoeken** en **20 publicaties** — opmerkelijk genoeg sluit deze voorspelling aan bij azathioprines reeds goedgekeurde gebruik voor IBD in Nederland en internationaal, wat een sterke validatie van de modelnauwkeurigheid vormt.
 
-## Quick Overview
+## Snelle samenvatting
 
-| Item | Content |
-|------|------|
-| Original Indication | Immunosuppression (autoimmune diseases, organ transplant rejection) |
-| Predicted New Indication | Inflammatory Bowel Disease |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L1 (multiple completed Phase 3 RCTs) |
-| NL Market Status | Marketed (Azathioprine is registered in the Netherlands; note: the evidence pack contains Taiwan regulatory data showing "Not marketed" in Taiwan) |
-| Number of Authorizations | Not available for NL in this dataset |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Immunosuppressie (auto-immuunziekten, preventie orgaantransplantatafstoting) |
+| Voorspelde nieuwe indicatie | Inflammatoire Darmziekte |
+| TxGNN voorspellingsscore | 99.52% |
+| Evidentiëniveau | L1 (meerdere voltooide fase 3 RCT's) |
+| NL-marketstatus | Op de markt (Azathioprine is geregistreerd in Nederland; opmerking: het bewijspakket bevat regelgegevens uit Taiwan met "Niet op de markt" in Taiwan) |
+| Aantal goedkeuringen | Niet beschikbaar voor NL in deze dataset |
+| Aanbevolen beslissing | Voortgang met waarborgen |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Azathioprine is a prodrug of 6-mercaptopurine, which inhibits purine synthesis, reduces lymphocyte proliferation, and suppresses pro-inflammatory cytokines (TNF-α, IL-6). By dampening the adaptive immune response, azathioprine effectively controls the dysregulated immune activation that drives chronic intestinal inflammation in IBD.
+Azathioprine is een prodrug van 6-mercaptopurine, die purine-synthese remt, lymfocytproliferatie reduceert en pro-inflammatoire cytokines (TNF-α, IL-6) onderdrukt. Door de aangepaste immuunrespons te dempen, controleert azathioprine effectief de gedereguleerde immuunactivering die chronische darmontstekking bij IBD aandrijft.
 
-Inflammatory bowel disease — encompassing both Crohn's disease and ulcerative colitis — is fundamentally an immune-mediated condition where the gut's adaptive and innate immune systems mount an inappropriate response against intestinal flora and mucosal antigens. Azathioprine's mechanism of suppressing lymphocyte-driven inflammation directly addresses this core pathology, making the TxGNN prediction mechanistically well-grounded.
+Inflammatoire darmziekte — omvattende zowel de ziekte van Crohn als colitis ulcerosa — is fundamenteel een immuun-gemedieerde aandoening waarin het immuunsysteem van de darm (adaptief en aangeboren) een ongepaste respons toont tegen darmbacteriën en mucosale antigenen. Azathioprines mechanisme van lymfocytgedreven ontstekingsonderdrukking spreekt rechtstreeks deze kernpathologie aan, waardoor de TxGNN-voorspelling mechanistisch goed onderbouwd is.
 
-Remarkably, this prediction is already clinically validated: azathioprine was approved for long-term therapy of Crohn's disease in the Netherlands and is recognized worldwide as a first-line immunomodulatory maintenance therapy for both Crohn's disease and ulcerative colitis. Multiple Cochrane systematic reviews and landmark trials (e.g., SONIC trial, NCT00094458) have confirmed its efficacy. The TxGNN model's correct identification of this established drug-disease relationship serves as a powerful positive control for the model's predictive accuracy.
+Opmerkelijk genoeg wordt deze voorspelling al klinisch gevalideerd: azathioprine werd goedgekeurd voor langetermijntherapie van de ziekte van Crohn in Nederland en wordt wereldwijd erkend als eerste-lijns immunomodulerende onderhoudstherapie voor zowel de ziekte van Crohn als colitis ulcerosa. Meerdere Cochrane-systematische reviews en baanbrekende onderzoeken (bijv. SONIC-onderzoek, NCT00094458) hebben de werkzaamheid bevestigd. De correcte identificatie door het TxGNN-model van deze gevestigde geneesmiddel-ziekterelatie dient als sterke positieve controle voor de voorspellende nauwkeurigheid van het model.
 
-## Clinical Trial Evidence
+## Klinisch onderzoeksmateriaal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Phase 3 | Completed | 508 | SONIC trial: IFX + AZA combination vs. AZA or IFX monotherapy in CD naïve to immunomodulators and biologics; demonstrated superiority of combination therapy |
-| [NCT05040464](https://clinicaltrials.gov/study/NCT05040464) | Phase 3 | Recruiting | 166 | Head-to-head RCT comparing AZA vs. MTX as combination partner with adalimumab in Crohn's disease |
-| [NCT03185611](https://clinicaltrials.gov/study/NCT03185611) | Phase 3 | Unknown | 120 | Rifaximin + thiopurine vs. thiopurine alone for preventing postoperative endoscopic recurrence in CD |
-| [NCT00976690](https://clinicaltrials.gov/study/NCT00976690) | Phase 3 | Completed | 83 | AZA vs. mesalazine for prevention of postoperative CD recurrence; assessed AZA superiority |
-| [NCT07424040](https://clinicaltrials.gov/study/NCT07424040) | N/A | Not Yet Recruiting | 154 | Infliximab monotherapy vs. IFX + AZA combination in pediatric Crohn's disease |
-| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Phase 4 | Completed | 192 | Risk-stratified trial: MTX vs. AZA for maintaining remission in low-risk pediatric CD |
-| [NCT00554710](https://clinicaltrials.gov/study/NCT00554710) | Phase 4 | Completed | 129 | Top-down (early immunomodulators/biologics) vs. step-up strategy in newly diagnosed CD (Benelux study) |
-| [NCT00546546](https://clinicaltrials.gov/study/NCT00546546) | Phase 4 | Completed | 120 | Early immunosuppressant prescription vs. conventional strategy on 3-year CD course |
-| [NCT05584228](https://clinicaltrials.gov/study/NCT05584228) | N/A | Not Yet Recruiting | 150 | SMART trial: AZA + subcutaneous IFX vs. ileocecal resection in symptomatic stricturing small bowel CD |
-| [NCT03464136](https://clinicaltrials.gov/study/NCT03464136) | Phase 3b | Completed | 386 | Ustekinumab vs. adalimumab in biologic-naïve CD patients who failed conventional therapy including AZA |
+| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Fase 3 | Voltooid | 508 | SONIC-onderzoek: IFX + AZA-combinatie versus AZA- of IFX-monotherapie in CD naïef voor immunomodulatoren en biologica; toonde superioriteit van combinatietherapie aan |
+| [NCT05040464](https://clinicaltrials.gov/study/NCT05040464) | Fase 3 | Rekruteert | 166 | Head-to-head RCT vergelijking van AZA versus MTX als combinatiepartner met adalimumab bij de ziekte van Crohn |
+| [NCT03185611](https://clinicaltrials.gov/study/NCT03185611) | Fase 3 | Onbekend | 120 | Rifaximin + thiopurine versus thiopurine alleen ter voorkoming van postoperatief endoscopisch recidief bij CD |
+| [NCT00976690](https://clinicaltrials.gov/study/NCT00976690) | Fase 3 | Voltooid | 83 | AZA versus mesalazine ter voorkoming van postoperatief CD-recidief; beoordeelde AZA-superioriteit |
+| [NCT07424040](https://clinicaltrials.gov/study/NCT07424040) | N/A | Nog niet gerecruteerd | 154 | Infliximab-monotherapie versus IFX + AZA-combinatie bij pediatrische ziekte van Crohn |
+| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Fase 4 | Voltooid | 192 | Risicostratificeerdeproef: MTX versus AZA ter instandhouding van remissie bij laagrisico pediatrische CD |
+| [NCT00554710](https://clinicaltrials.gov/study/NCT00554710) | Fase 4 | Voltooid | 129 | Top-down (vroege immunomodulatoren/biologica) versus step-up strategie bij nieuw gediagnosticeerde CD (Benelux-onderzoek) |
+| [NCT00546546](https://clinicaltrials.gov/study/NCT00546546) | Fase 4 | Voltooid | 120 | Vroeg immunosuppressivumvoorschrift versus conventionele strategie op 3-jarig CD-verloop |
+| [NCT05584228](https://clinicaltrials.gov/study/NCT05584228) | N/A | Nog niet gerecruteerd | 150 | SMART-onderzoek: AZA + subkutaan IFX versus ileocecale resectie bij symptomatische stricturerende dunne darm-CD |
+| [NCT03464136](https://clinicaltrials.gov/study/NCT03464136) | Fase 3b | Voltooid | 386 | Ustekinumab versus adalimumab bij biologica-naïeve CD-patiënten die conventionele therapie, inclusief AZA, niet toepasten |
 
-## Literature Evidence
+## Literatuurbewijsmateriaal
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Review | J Crohn's Colitis | State-of-the-art overview of thiopurine (AZA/MP/TG) treatment in IBD: indications, efficacy, and safety by expert panel |
-| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Mechanistic Review | Expert Rev Gastroenterol Hepatol | 45 years of clinical experience with thiopurines in IBD; strong data from RCTs and meta-analyses documenting efficacy |
-| [30889246](https://pubmed.ncbi.nlm.nih.gov/30889246/) | 2019 | Translational Research | Inflamm Bowel Dis | AZA induces autophagy via mTORC1 and PERK pathways — a novel molecular mechanism relevant to CD treatment |
-| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Translational Research | Cell Rep Med | Commensal bacteria (B. wexlerae) promote AZA therapy failure in IBD by decreasing 6-MP bioavailability |
-| [22072847](https://pubmed.ncbi.nlm.nih.gov/22072847/) | 2011 | Clinical Review | World J Gastroenterol | Optimizing 6-MP and AZA therapy: 6-TGN levels correlate with efficacy, 6-MMP with toxicity |
-| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | Pharmacogenomics Review | J Gastroenterol Hepatol | AZA/6-MP pharmacogenetics and metabolite monitoring; TPMT polymorphisms and dosing implications |
-| [36462311](https://pubmed.ncbi.nlm.nih.gov/36462311/) | 2023 | Pharmacogenomics | Biomed Pharmacother | DNA methylation of TPMT affects AZA pharmacokinetics in VEO-IBD children |
-| [10499471](https://pubmed.ncbi.nlm.nih.gov/10499471/) | 1999 | Comprehensive Review | Scand J Gastroenterol Suppl | AZA clinical efficacy and safety update — documents approval for Crohn's disease in the Netherlands |
-| [15177535](https://pubmed.ncbi.nlm.nih.gov/15177535/) | 2004 | Clinical Review | Gastroenterol Clin North Am | Critical review of 6-MP and AZA efficacy and toxicities in IBD |
-| [30954317](https://pubmed.ncbi.nlm.nih.gov/30954317/) | 2019 | Review | Gastroenterol Hepatol | Evidence on optimal duration and withdrawal of thiopurine therapy in IBD |
+| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Review | J Crohn's Colitis | State-of-the-art overzicht van thiopurine (AZA/MP/TG) behandeling in IBD: indicaties, werkzaamheid en veiligheid door deskundigenteam |
+| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Mechanistische review | Expert Rev Gastroenterol Hepatol | 45 jaar klinische ervaring met thiopurines in IBD; sterke gegevens van RCT's en meta-analyses die werkzaamheid documenteren |
+| [30889246](https://pubmed.ncbi.nlm.nih.gov/30889246/) | 2019 | Translationeel onderzoek | Inflamm Bowel Dis | AZA induceert autofagie via mTORC1 en PERK-paden — een nieuw moleculair mechanisme relevant voor CD-behandeling |
+| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Translationeel onderzoek | Cell Rep Med | Commensale bacteriën (B. wexlerae) bevorderen AZA-therapiefalen in IBD door 6-MP-biobeschikbaarheid te verminderen |
+| [22072847](https://pubmed.ncbi.nlm.nih.gov/22072847/) | 2011 | Klinische review | World J Gastroenterol | Optimaliseren van 6-MP- en AZA-therapie: 6-TGN-niveaus correleren met werkzaamheid, 6-MMP met toxiciteit |
+| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | Farmacogenetica-review | J Gastroenterol Hepatol | AZA/6-MP farmacogenetica en metaboliet monitoring; TPMT-polymorfismen en doseringsgevolgen |
+| [36462311](https://pubmed.ncbi.nlm.nih.gov/36462311/) | 2023 | Farmacogenetica | Biomed Pharmacother | DNA-methylering van TPMT beïnvloedt AZA-farmacokinetiek bij VEO-IBD kinderen |
+| [10499471](https://pubmed.ncbi.nlm.nih.gov/10499471/) | 1999 | Uitgebreide review | Scand J Gastroenterol Suppl | AZA klinische werkzaamheid- en veiligheidsupdate — documenteert goedkeuring voor de ziekte van Crohn in Nederland |
+| [15177535](https://pubmed.ncbi.nlm.nih.gov/15177535/) | 2004 | Klinische review | Gastroenterol Clin North Am | Kritische review van 6-MP en AZA werkzaamheid en toxiciteiten in IBD |
+| [30954317](https://pubmed.ncbi.nlm.nih.gov/30954317/) | 2019 | Review | Gastroenterol Hepatol | Bewijsmateriaal over optimale duur en stopzetting van thiopurinetherapie in IBD |
 
-## Ulcerative Colitis — Secondary Prediction (Rank 9)
+## Colitis Ulcerosa — Secundaire Voorspelling (Rang 9)
 
-The TxGNN model also independently predicts azathioprine for **ulcerative colitis** (score: 99.33%, Evidence Level: L1), which is a subtype of IBD. This prediction is supported by equally robust evidence:
+Het TxGNN-model voorspelt onafhankelijk ook azathioprine voor **colitis ulcerosa** (score: 99.33%, Evidentiëniveau: L1), wat een subtype van IBD is. Deze voorspelling wordt ondersteund door evenzo robuust bewijsmateriaal:
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Phase 3 | Unknown | 84 | Low-dose AZA + allopurinol vs. AZA monotherapy in UC — directly evaluates AZA dosing strategies |
-| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Phase 4 | Completed | 65 | Early AZA + IFX vs. corticosteroids + AZA for acute severe UC |
-| [NCT00537316](https://clinicaltrials.gov/study/NCT00537316) | Phase 3 | Terminated | 242 | IFX monotherapy vs. IFX + AZA vs. AZA monotherapy in moderate-to-severe active UC |
-| [NCT07235904](https://clinicaltrials.gov/study/NCT07235904) | Phase 4 | Recruiting | 300 | MIRACLE trial: Mirikizumab vs. AZA as standard of care in newly diagnosed moderate-to-severe UC |
-| [NCT07271069](https://clinicaltrials.gov/study/NCT07271069) | N/A | Not Yet Recruiting | 150 | Real-world: Ozanimod vs. AZA for UC in Japan |
+| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Fase 3 | Onbekend | 84 | Lage-dosis AZA + allopurinol versus AZA-monotherapie in UC — evalueert rechtstreeks AZA-doseringstrategieën |
+| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Fase 4 | Voltooid | 65 | Vroege AZA + IFX versus corticosteroïden + AZA voor acute ernstige UC |
+| [NCT00537316](https://clinicaltrials.gov/study/NCT00537316) | Fase 3 | Geëindigd | 242 | IFX-monotherapie versus IFX + AZA versus AZA-monotherapie bij matig tot ernstig actieve UC |
+| [NCT07235904](https://clinicaltrials.gov/study/NCT07235904) | Fase 4 | Rekruteert | 300 | MIRACLE-onderzoek: Mirikizumab versus AZA als standaard zorg bij nieuw gediagnosticeerde matig tot ernstige UC |
+| [NCT07271069](https://clinicaltrials.gov/study/NCT07271069) | N/A | Nog niet gerecruteerd | 150 | Real-world: Ozanimod versus AZA voor UC in Japan |
 
-**Key UC Literature:**
+**Belangrijkste UC-literatuur:**
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | Cochrane Systematic Review | Cochrane Database Syst Rev | Updated Cochrane review: AZA and 6-MP for maintenance of remission in UC |
-| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | ACTIVE trial: Top-down IFX + AZA vs. AZA alone in acute severe UC responding to IV steroids |
-| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | Meta-analysis | Aliment Pharmacol Ther | Meta-analysis confirming AZA/6-MP efficacy in UC |
-| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | Cochrane Systematic Review | Cochrane Database Syst Rev | AZA and 6-MP for UC remission maintenance |
-| [9412914](https://pubmed.ncbi.nlm.nih.gov/9412914/) | 1997 | Clinical Study | J Clin Gastroenterol | AZA in steroid-resistant and steroid-dependent UC: clinical outcomes |
+| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | Cochrane Systematische Review | Cochrane Database Syst Rev | Bijgewerkte Cochrane-review: AZA en 6-MP voor remissieinstandhouding in UC |
+| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | ACTIVE-onderzoek: Top-down IFX + AZA versus AZA alleen bij acute ernstige UC respondeerend op IV-steroïden |
+| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | Meta-analyse | Aliment Pharmacol Ther | Meta-analyse bevestigend AZA/6-MP werkzaamheid in UC |
+| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | Cochrane Systematische Review | Cochrane Database Syst Rev | AZA en 6-MP voor UC-remissieinstandhouding |
+| [9412914](https://pubmed.ncbi.nlm.nih.gov/9412914/) | 1997 | Klinische studie | J Clin Gastroenterol | AZA bij steroïde-resistente en steroïde-afhankelijke UC: klinische uitkomsten |
 
-## Netherlands Market Information
+## Nederlands Marktinformatie
 
-The evidence pack contains Taiwan regulatory data (showing azathioprine as "Not marketed" in Taiwan with 0 licenses). However, **azathioprine is well-established in the Netherlands**:
+Het bewijspakket bevat regelgegevens uit Taiwan (azathioprine weergegeven als "Niet op de markt" in Taiwan met 0 licenties). Echter, **azathioprine is goed gevestigd in Nederland**:
 
-| Item | Content |
-|------|------|
-| Market Status (NL) | Marketed — azathioprine has been registered and widely prescribed in the Netherlands for decades |
-| CBG-MEB Authorization | Available as Imuran® and generic formulations |
-| Known NL Approvals | Crohn's disease (documented since 1999, PMID 10499471), organ transplant rejection, autoimmune hepatitis, severe rheumatoid arthritis, SLE, dermatomyositis |
-| Dosage Forms | Oral tablets (25 mg, 50 mg); injectable formulations |
-| SmPC Reference | Consult the CBG-MEB Geneesmiddeleninformatiebank for current Dutch SmPC |
+| Item | Inhoud |
+|------|--------|
+| Marketstatus (NL) | Op de markt — azathioprine is decennialang geregistreerd en veel voorgeschreven in Nederland |
+| CBG-MEB Goedkeuring | Beschikbaar als Imuran® en generieke formuleringen |
+| Bekende NL-goedkeuringen | Ziekte van Crohn (gedocumenteerd sinds 1999, PMID 10499471), preventie orgaantransplantatafstoting, auto-immuun hepatitis, ernstige reumatoïde artritis, SLE, dermatomyositis |
+| Darreichingsvormen | Orale tabletten (25 mg, 50 mg); injecteerbare formuleringen |
+| SmPC-referentie | Raadpleeg de CBG-MEB Geneesmiddeleninformatiebank voor de huidige Nederlandse SmPC |
 
-> **Note:** Detailed CBG-MEB license numbers (RVG numbers) were not included in this evidence pack. Please consult the [CBG-MEB database](https://www.geneesmiddeleninformatiebank.nl/) for complete authorization details.
+> **Opmerking:** Gedetailleerde CBG-MEB licentienummers (RVG-nummers) waren niet opgenomen in dit bewijspakket. Raadpleeg alstublieft de [CBG-MEB database](https://www.geneesmiddeleninformatiebank.nl/) voor volledige autorisatiegegevens.
 
-## Other TxGNN Predictions
+## Andere TxGNN-voorspellingen
 
-The TxGNN model generated 10 predictions for azathioprine. Beyond IBD and UC (discussed above), the remaining 8 predictions are all classified as **Hold** due to lack of mechanistic rationale or absence of clinical evidence:
+Het TxGNN-model genereerde 10 voorspellingen voor azathioprine. Afgezien van IBD en UC (hierboven besproken), zijn de overige 8 voorspellingen allemaal geclassificeerd als **In Afwachting** vanwege gebrek aan mechanistische rationale of afwezigheid van klinisch bewijsmateriaal:
 
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation | Rationale |
-|------|---------|-------------|----------------|----------------|-----------|
-| 1 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.99% | L5 | Hold | Congenital developmental anomaly; no immune-mediated pathology; no clinical evidence |
-| 2 | Brachydactyly-syndactyly syndrome | 99.99% | L5 | Hold | Genetic skeletal defect (GDF5/BMPR1B); not inflammatory; no clinical evidence |
-| 3 | Osteoarthritis susceptibility | 99.70% | L5 | Hold | Genetic susceptibility phenotype; AZA cannot modify genetic predisposition |
-| 4 | WHIM syndrome | 99.68% | L5 | Hold | Primary immunodeficiency (CXCR4 mutation); immunosuppression is **contraindicated** |
-| 6 | Chronic granulomatous disease (AR type 5) | 99.41% | L5 | Hold | NADPH oxidase deficiency; further immunosuppression would worsen infection risk |
-| 7 | Osteoarthritis | 99.40% | L4 | Hold | Degenerative/mechanical pathology; systemic immunosuppression risk outweighs benefit |
-| 8 | Granulomatous disease with neutrophil chemotaxis defect | 99.37% | L5 | Hold | Innate immune deficiency; AZA would worsen immune function |
-| 10 | Acromesomelic dysplasia, Hunter-Thompson type | 99.27% | L5 | Hold | GDF5 homozygous mutation; gene-driven developmental defect; no treatment logic |
+| Rang | Ziekte | TxGNN-score | Evidentiëniveau | Aanbeveling | Rationale |
+|------|--------|-------------|----------------|----------------|-----------|
+| 1 | Colobomateuze microfthalmie-rhizomielische dysplasie syndroom | 99.99% | L5 | In Afwachting | Congenitale ontwikkelaandoening; geen immuun-gemedieerde pathologie; geen klinisch bewijsmateriaal |
+| 2 | Brachidactylie-syndactyliesyndroom | 99.99% | L5 | In Afwachting | Genetisch skeletdefect (GDF5/BMPR1B); niet ontstekingsgevoelig; geen klinisch bewijsmateriaal |
+| 3 | Vatbaarheid voor artrose | 99.70% | L5 | In Afwachting | Genetische vatbaarheidsfenotype; AZA kan genetische predispositie niet wijzigen |
+| 4 | WHIM-syndroom | 99.68% | L5 | In Afwachting | Primaire immunodeficiëntie (CXCR4-mutatie); immunosuppressie is **gecontra-indiceerd** |
+| 6 | Chronische granulomateuze ziekte (AR type 5) | 99.41% | L5 | In Afwachting | NADPH-oxidasedeficiëntie; verdere immunosuppressie zou infectierisico verergeren |
+| 7 | Artrose | 99.40% | L4 | In Afwachting | Degeneratief/mechanisch pathologie; risico's van systemische immunosuppressie wegen niet op tegen voordelen |
+| 8 | Granulomateuze ziekte met neutrofiel chemotatxisdefect | 99.37% | L5 | In Afwachting | Aangeboren immuundeficiëntie; AZA zou immuunfunctie verslechteren |
+| 10 | Acromesomielische dysplasie, Hunter-Thompson type | 99.27% | L5 | In Afwachting | GDF5 homozygotische mutatie; gen-gedreven ontwikkelingdefect; geen behandelingslogica |
 
-> **Important safety note:** Predictions for WHIM syndrome (Rank 4), chronic granulomatous disease (Rank 6), and granulomatous disease with neutrophil chemotaxis defect (Rank 8) represent immunodeficiency conditions where azathioprine use would be **mechanistically contraindicated**, as further immunosuppression could cause life-threatening infections.
+> **Belangrijk veiligheidsbericht:** Voorspellingen voor WHIM-syndroom (Rang 4), chronische granulomateuze ziekte (Rang 6) en granulomateuze ziekte met neutrofiel chemotatxisdefect (Rang 8) vertegenwoordigen immunodeficiëntiestanden waarbij azathioprine-gebruik **mechanistisch gecontra-indiceerd** zou zijn, aangezien verdere immunosuppressie levensbedreigend infecties zou kunnen veroorzaken.
 
-## Safety Considerations
+## Veiligheidsoverwegingen
 
-Please refer to the SmPC (Summary of Product Characteristics; Dutch: Samenvatting van de Productkenmerken) for comprehensive safety information. The SmPC is available via the [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor uitgebreide veiligheidsinformatie. De SmPC is beschikbaar via de [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
-Key safety considerations known from established clinical use include:
-- **Myelosuppression:** Dose-dependent bone marrow suppression (leukopenia, thrombocytopenia, anaemia); TPMT and NUDT15 genotyping recommended before initiation
-- **Hepatotoxicity:** Elevated 6-MMP metabolite levels associated with liver injury
-- **Infection risk:** Increased susceptibility to opportunistic infections due to immunosuppression
-- **Malignancy risk:** Long-term use associated with increased risk of lymphoproliferative disorders (particularly hepatosplenic T-cell lymphoma when combined with anti-TNF agents in young males)
-- **Pharmacogenomics:** TPMT and NUDT15 polymorphisms significantly affect drug metabolism; pre-treatment genotyping is recommended by EMA guidelines
-- **Drug interactions:** Allopurinol markedly increases 6-TGN levels (dose reduction to 25-33% required); 5-aminosalicylates may increase thiopurine toxicity
+Belangrijke veiligheidsoverwegingen bekend uit gevestigd klinisch gebruik omvatten:
+- **Beenmergonderdrukking:** Dosisafhankelijke beenmergonderdrukking (leukopenie, trombocytopenie, bloedarmoede); TPMT- en NUDT15-genotypering aanbevolen vóór aanvang
+- **Hepatotoxiciteit:** Verhoogde niveaus van 6-MMP-metaboliet gerelateerd aan leverletsel
+- **Infectierisico:** Toegenomen gevoeligheid voor opportunistische infecties vanwege immunosuppressie
+- **Risico op maligniteit:** Langetermijngebruik gerelateerd aan verhoogd risico op lymfoproliferatieve stoornis (in het bijzonder hepatosplene T-cellymfoom bij combinatie met anti-TNF-middelen bij jonge mannen)
+- **Farmacogenetica:** TPMT- en NUDT15-polymorfismen beïnvloeden significant geneesmiddelmetabolisme; genotypering vóór behandeling aanbevolen door EMA-richtlijnen
+- **Geneesmiddelinteracties:** Allopurinol verhoogt 6-TGN-niveaus aanzienlijk (dosisreductie tot 25-33% vereist); 5-aminosalicylaten kunnen thiopurine-toxiciteit verhogen
 
-> **Note:** Detailed DDI, warnings, and contraindications data were not available in this evidence pack. The items listed above are derived from the clinical trial and literature evidence reviewed.
+> **Opmerking:** Gedetailleerde DDI-, waarschuwings- en contra-indicatiegegevens waren niet beschikbaar in dit bewijspakket. De hierboven genoemde items zijn afgeleid van het onderzochte klinische onderzoeks- en literatuurbewijsmateriaal.
 
-## Conclusion and Next Steps
+## Conclusie en Vervolgstappen
 
-**Decision: Proceed with Guardrails**
+**Beslissing: Voortgang met Waarborgen**
 
 **Rationale:**
-Azathioprine for inflammatory bowel disease represents a validated prediction — the drug is already an approved and guideline-recommended therapy for both Crohn's disease and ulcerative colitis in the Netherlands and globally. Multiple completed Phase 3 RCTs, Cochrane systematic reviews, and meta-analyses provide L1-level evidence confirming its efficacy in maintaining steroid-free remission. The TxGNN model's correct identification of this established drug-disease relationship serves as a strong positive control for the model's overall predictive validity.
+Azathioprine voor inflammatoire darmziekte vertegenwoordigt een gevalideerde voorspelling — het geneesmiddel is reeds een goedgekeurd en richtlijnaanbevolen therapie voor zowel de ziekte van Crohn als colitis ulcerosa in Nederland en wereldwijd. Meerdere voltooide fase 3 RCT's, Cochrane-systematische reviews en meta-analyses bieden L1-niveau bewijsmateriaal ter bevestiging van de werkzaamheid in het handhaven van steroïde-vrije remissie. De correcte identificatie door het TxGNN-model van deze gevestigde geneesmiddel-ziekterelatie dient als sterke positieve controle voor de algemene voorspellende validiteit van het model.
 
-**To proceed, the following is needed:**
-- **Obtain NL-specific regulatory data:** Retrieve current CBG-MEB authorization details (RVG numbers, approved indications, current SmPC) from the Geneesmiddeleninformatiebank
-- **Complete safety profile:** Download and parse the current Dutch SmPC for detailed warnings, contraindications, and drug interactions
-- **Mechanism of action data:** Query DrugBank API for structured MOA data (known: purine antimetabolite → 6-MP → 6-TGN → lymphocyte apoptosis via Rac1 inhibition)
-- **Pharmacogenomic screening protocol:** Ensure TPMT and NUDT15 genotyping is integrated into any prescribing pathway, per current EMA and DPWG (Dutch Pharmacogenetics Working Group) guidelines
-- **Therapeutic drug monitoring:** Establish 6-TGN and 6-MMP metabolite monitoring protocols for dose optimization
-- **Evaluate model performance:** Use this validated prediction as a benchmark to assess TxGNN model reliability for other, less-established drug-disease predictions
+**Voor voortgang is het volgende nodig:**
+- **NL-specifieke regelgegevens verkrijgen:** Huidige CBG-MEB-autorisatiegegevens (RVG-nummers, goedgekeurde indicaties, huidige SmPC) ophalen van de Geneesmiddeleninformatiebank
+- **Compleet veiligheidsprofiel:** De huidige Nederlandse SmPC downloaden en parseren voor gedetailleerde waarschuwingen, contra-indicaties en geneesmiddelinteracties
+- **Werkingsmechanisme-gegevens:** DrugBank API voor gestructureerde werkingsmechanisme-gegevens opvragen (bekend: purine-antimetaboliet → 6-MP → 6-TGN → lymfocytapoptose via Rac1-remming)
+- **Farmacogenetisch screeningsprotocol:** TPMT- en NUDT15-genotypering in elk voorschrijfpad integreren, volgens huidige EMA- en DPWG (Dutch Pharmacogenetics Working Group) richtlijnen
+- **Therapeutische geneesmiddelmonitoring:** Protocolestablishment voor 6-TGN- en 6-MMP-metaboliet monitoring voor dosiswoptimalisatie
+- **Modelprestatie evalueren:** Gebruik deze gevalideerde voorspelling als benchmark ter beoordeling van TxGNN-modelbetrouwbaarheid voor andere, minder-gevestigde geneesmiddel-ziektevoorspellingen
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. All treatment decisions should be made by qualified healthcare professionals in accordance with current clinical guidelines and the applicable SmPC.*
+*Dit rapport dient uitsluitend voor onderzoeksdoeleinden en stelt geen medisch advies voor. Geneesmiddelherwerkingskandidaten vereisen klinische validatie vóór toepassing. Alle behandelingsbeslissingen moeten worden genomen door gekwalificeerde zorgverleners in overeenstemming met huidige klinische richtlijnen en de toepasselijke SmPC.*
 
-*Data cutoff: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB00993-multi*
+*Gegevenscutoff: 2026-04-03 | Bewijspakketversie: v4 | Kandidaat-ID: TW-DB00993-multi*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

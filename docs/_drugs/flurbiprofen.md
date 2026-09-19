@@ -29,104 +29,101 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. This is a NlTxGNN report generation task. The Evidence Pack's highest-ranked prediction (acromesomelic dysplasia, L5/Hold) has zero evidence, while **rank 8 — Ankylosing Spondylitis** carries 20 publications including 8 RCTs and an L2/Proceed with Guardrails classification. I'll focus the report on AS as the sole clinically actionable candidate, which is consistent with the report format's intent.
+# Flurbiprofen: van ontstekingsachtige gewrichtsziekten naar ankyloserende spondylitis
+
+## Samenvatting in één zin
+
+Flurbiprofen is een fenylalkaanzuur-NSAID die internationaal is vastgesteld voor reumatoïde artritis, artrose en ontstekingsachtige gewrichtsziekten, maar momenteel **geen registratie in Nederland heeft**.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **ankyloserende spondylitis (AS)**, met **0 geregistreerde klinische onderzoeken** maar **20 publicaties** — inclusief ten minste 8 gerandomiseerde gecontroleerde onderzoeken die flurbiprofen rechtstreeks vergelijken met standaardbehandelingen bij AS-patiënten.
+Dit bewijsmateriaal, stemmend van 1974–1986, toont consequent gelijkwaardige werkzaamheid aan indomethacine, fenylbutazon en naproxen, en flurbiprofen heeft AS-registratie ontvangen in andere Europese markten zoals het Verenigd Koninkrijk.
 
 ---
 
-# Flurbiprofen: From Inflammatory Joint Disease to Ankylosing Spondylitis
+## Snel overzicht
 
-## One-Sentence Summary
-
-Flurbiprofen is a phenylalkanoic acid NSAID internationally established for rheumatoid arthritis, osteoarthritis, and inflammatory joint conditions, but currently holding **no marketing authorization in the Netherlands**.
-The TxGNN model predicts it may be effective for **Ankylosing Spondylitis (AS)**, with **0 registered clinical trials** but **20 publications** — including at least 8 randomized controlled trials directly comparing Flurbiprofen against standard-of-care agents in AS patients.
-This body of evidence, spanning 1974–1986, consistently demonstrates efficacy equivalent to indomethacin, phenylbutazone, and naproxen, and Flurbiprofen has received AS marketing authorization in other European markets such as the United Kingdom.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, and allied inflammatory joint conditions (international; not registered in NL) |
-| Predicted New Indication | Ankylosing Spondylitis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L2 |
-| NL Market Status | Not on market |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Reumatoïde artritis, artrose en aanverwante ontstekingsachtige gewrichtsziekten (internationaal; niet in NL geregistreerd) |
+| Voorspelde nieuwe indicatie | Ankyloserende spondylitis |
+| TxGNN-voorspellingsscore | 99.97% |
+| Bewijsniveau | L2 |
+| Nederlandse marketstatus | Niet op markt |
+| Aantal registraties | 0 |
+| Aanbevolen besluit | Doorgaan onder voorwaarden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Flurbiprofen is a non-selective inhibitor of cyclooxygenase enzymes (COX-1 and COX-2). By blocking prostaglandin synthesis, it reduces the downstream inflammatory mediators responsible for joint pain, swelling, and stiffness. Although detailed MOA documentation was not available in the current Evidence Pack, published review data establishes Flurbiprofen as at least as potent as indomethacin in preclinical models, and approximately 200 times more potent than aspirin — placing it among the more efficacious members of the NSAID class.
+Flurbiprofen is een niet-selectieve remmer van cyclo-oxygenase-enzymen (COX-1 en COX-2). Door prostaglandinesynthese te blokkeren, vermindert het de stroomafwaartse ontstekingsmediatoren die verantwoordelijk zijn voor gewrichtspijn, zwelling en stijfheid. Hoewel gedetailleerde MOA-documentatie niet beschikbaar was in het huidige bewijspakket, stellen gepubliceerde reviewgegevens vast dat flurbiprofen minstens even werkzaam is als indometacine in preklinische modellen, en ongeveer 200 keer werkzamer dan aspirine — hetgeen het onder de werkzamere werkende leden van de NSAID-klasse plaatst.
 
-Ankylosing Spondylitis is an HLA-B27-associated chronic inflammatory spondyloarthropathy in which prostaglandin-driven inflammation causes progressive axial skeletal destruction and joint fusion. NSAIDs are recognized as the first-line pharmacological treatment for AS by current ASAS/EULAR guidelines precisely because COX inhibition directly suppresses the inflammatory cascade that drives disease activity and symptom burden. Flurbiprofen's mechanism is therefore not peripheral or speculative — it targets the central pathophysiological pathway of AS.
+Ankyloserende spondylitis is een HLA-B27-geassocieerde chronische ontstekingsspondyloartropatie waarin prostaglandine-gedreven ontsteking progressieve axiale skeletale destructie en gewrichtsfusie veroorzaakt. NSAID's worden erkend als eerstelijnsfarmacologische behandeling voor AS door huidige ASAS/EULAR-richtlijnen, precies omdat COX-remming direct de ontstekingscascade onderdrukt die ziekte-activiteit en symptoombelasting aandrijft. Het mechanisme van flurbiprofen is daarom niet perifeer of speculatief — het richt zich op de centrale pathofysiologische weg van AS.
 
-This is not a novel or hypothetical repurposing. Multiple rigorous double-blind RCTs conducted between 1974 and 1986 directly evaluated Flurbiprofen in AS patients, and Flurbiprofen (as Froben®) received marketing authorization for AS and allied rheumatic conditions in the United Kingdom. The TxGNN knowledge graph model independently recovers this biological connection through shared musculoskeletal inflammatory nodes, lending additional computational confidence. The key question for the Netherlands is not whether Flurbiprofen works in AS, but rather whether a CBG-MEB marketing authorization pathway can be established using the existing international evidence base.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP for Flurbiprofen in Ankylosing Spondylitis.
-
-> **Context note:** The available clinical evidence derives entirely from published randomized trials conducted in the 1970s–1980s (see Literature Evidence below). These trials predate mandatory trial registration requirements (introduced circa 2000) and were therefore never assigned NCT or ICTRP identifiers. Their absence from trial registries does not reflect a lack of formal investigation.
+Dit is geen nieuwe of hypothetische herzieningspharmacie. Meerdere rigoureuze dubbelblinde RCT's uitgevoerd tussen 1974 en 1986 evalueerden rechtstreeks flurbiprofen bij AS-patiënten, en flurbiprofen (als Froben®) ontving registratie voor AS en aanverwante reumatische aandoeningen in het Verenigd Koninkrijk. Het TxGNN-kennisgraafmodel ontdekt deze biologische verbinding onafhankelijk door gedeelde skeletspier-ontstekingsknooppunten, waardoor extra computationeel vertrouwen ontstaat. De sleutelvraag voor Nederland is niet of flurbiprofen werkt bij AS, maar eerder of een CBG-MEB-registratieweg kan worden vastgesteld met behulp van de bestaande internationale bewijsbasis.
 
 ---
 
-## Literature Evidence
+## Klinische onderzoeksgegevens
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [4611579](https://pubmed.ncbi.nlm.nih.gov/4611579/) | 1974 | RCT (double-blind crossover) | British Medical Journal | Flurbiprofen 150 mg/day vs phenylbutazone 300 mg/day in 35 AS patients over 4 weeks; flurbiprofen well tolerated with therapeutic efficacy approaching phenylbutazone |
-| [4595274](https://pubmed.ncbi.nlm.nih.gov/4595274/) | 1974 | RCT (double-blind crossover) | Annals of the Rheumatic Diseases | Three-arm double-blind comparison: flurbiprofen vs indomethacin vs placebo in AS patients |
-| [71969](https://pubmed.ncbi.nlm.nih.gov/71969/) | 1977 | RCT (active-controlled) | Current Medical Research and Opinion | Flurbiprofen 150–200 mg/day vs indomethacin 75–100 mg/day in 26 active AS patients over 6 weeks; equally effective in pain and joint tenderness relief; no withdrawals due to lack of efficacy in either arm |
-| [329422](https://pubmed.ncbi.nlm.nih.gov/329422/) | 1977 | RCT (active-controlled) | Southern Medical Journal | Parallel double-blind RCT, flurbiprofen vs indomethacin in 26 AS patients; comparable efficacy confirmed in an independent cohort |
-| [324773](https://pubmed.ncbi.nlm.nih.gov/324773/) | 1977 | RCT (active-controlled) | European Journal of Clinical Pharmacology | Flurbiprofen 150–200 mg/day vs phenylbutazone 300–400 mg/day in 27 AS patients over 6 weeks; equivalent joint pain and tenderness relief |
-| [7003449](https://pubmed.ncbi.nlm.nih.gov/7003449/) | 1980 | RCT (double-blind crossover) | New Zealand Medical Journal | Flurbiprofen 200 mg/day vs naproxen 750 mg/day in 30 AS patients over 4 weeks; both agents very effective; side-effects more frequent with flurbiprofen; minor renal excretion increase noted |
-| [3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/) | 1986 | RCT (double-blind, 26-week) | The American Journal of Medicine | Flurbiprofen vs indomethacin in 57 AS patients over 26 weeks; flurbiprofen 200 mg/day effectively controlled pain and associated symptoms; some patients adequately managed at 100 mg/day |
-| [3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) | 1986 | RCT (double-blind, 26-week) | The American Journal of Medicine | Flurbiprofen 200 mg/day vs phenylbutazone 300 mg/day in 90 AS patients over 26 weeks; equivalent efficacy; some patients well controlled at 150 mg/day |
-| [3963024](https://pubmed.ncbi.nlm.nih.gov/3963024/) | 1986 | Pooled Safety Analysis | The American Journal of Medicine | Liver and kidney function data pooled from 9 Phase III trials (941 flurbiprofen / 736 comparator patients with AS, OA, or RA); no clinically significant organ function abnormalities identified |
-| [391529](https://pubmed.ncbi.nlm.nih.gov/391529/) | 1979 | Review | Drugs | Comprehensive pharmacological review; flurbiprofen 150–300 mg/day comparable to established NSAID doses in AS; fewer side-effects than aspirin at equivalent anti-inflammatory doses |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd op ClinicalTrials.gov of ICTRP voor flurbiprofen in ankyloserende spondylitis.
+
+> **Contextnotitie:** Het beschikbare klinische bewijs is geheel afkomstig van gepubliceerde gerandomiseerde onderzoeken uitgevoerd in de jaren 1970–1980 (zie Literatuurbewijs hieronder). Deze onderzoeken waren voorafgaand aan verplichte registratievereisten voor onderzoeken (ingevoerd rond 2000) en kregen daarom nooit NCT- of ICTRP-identificaties. Hun afwezigheid in onderzoeksregisters weerspiegelt niet een gebrek aan formeel onderzoek.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Flurbiprofen currently holds **no CBG-MEB marketing authorization** in the Netherlands. No RVG registration numbers are on file and the drug is classified as **not on market**.
-
-For regulatory context: Flurbiprofen is authorized in other European markets under brand names including **Froben®** (UK, indicated for rheumatoid arthritis, osteoarthritis, and ankylosing spondylitis) and **Ansaid®** (US). An EMA centralized procedure or a CBG-MEB national/mutual recognition procedure would be required before Flurbiprofen can be lawfully marketed in the Netherlands.
-
----
-
-## Safety Considerations
-
-Detailed SmPC safety data — including formal warnings, contraindications, and drug-drug interactions — was not available in the Evidence Pack for the Netherlands market. Please refer to the **SmPC** (Samenvatting van de Productkenmerken) of an EMA-authorized or equivalent European formulation for complete safety information.
-
-Based on the published clinical trial programme and NSAID class knowledge, the following considerations are relevant for the Dutch clinical context:
-
-- **Gastrointestinal risk**: NSAIDs carry a well-established association with peptic ulcer disease, GI bleeding, and perforation. The 1979 review (PMID 391529) notes that flurbiprofen causes fewer GI side-effects than aspirin at anti-inflammatory doses. Co-prescription of a proton pump inhibitor (PPI) should be evaluated for at-risk patients, consistent with current NL prescribing standards.
-- **Renal monitoring**: The 1986 pooled safety analysis (PMID 3963024) found no clinically significant renal impairment across 9 Phase III trials; however, a 1980 crossover study (PMID 7003449) observed a small but significant increase in urinary β-N-acetylglucosaminidase excretion with flurbiprofen. Monitoring of renal function is advisable in elderly patients or those with pre-existing renal conditions.
-- **Elderly patients**: A dedicated pharmacokinetic study in patients with mean age 84 years (sustained-release 200 mg capsule) has been conducted, supporting use in older populations with appropriate monitoring.
-- **Cardiovascular risk**: Long-term non-selective NSAID use is associated with increased cardiovascular event risk and should be weighed against disease burden, particularly in patients with pre-existing cardiovascular disease.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|-------------------------|
+| [4611579](https://pubmed.ncbi.nlm.nih.gov/4611579/) | 1974 | RCT (dubbelblind crossover) | British Medical Journal | Flurbiprofen 150 mg/dag versus fenylbutazon 300 mg/dag bij 35 AS-patiënten gedurende 4 weken; flurbiprofen goed verdragen met therapeutische werkzaamheid die fenylbutazon benadert |
+| [4595274](https://pubmed.ncbi.nlm.nih.gov/4595274/) | 1974 | RCT (dubbelblind crossover) | Annals of the Rheumatic Diseases | Driearmige dubbelblinde vergelijking: flurbiprofen versus indometacine versus placebo bij AS-patiënten |
+| [71969](https://pubmed.ncbi.nlm.nih.gov/71969/) | 1977 | RCT (actief-gecontroleerd) | Current Medical Research and Opinion | Flurbiprofen 150–200 mg/dag versus indometacine 75–100 mg/dag bij 26 actieve AS-patiënten gedurende 6 weken; even werkzaam bij pijnverlichting en gewrichtstendernessverlichting; geen deelnemers gestopt vanwege gebrek aan werkzaamheid in beide groepen |
+| [329422](https://pubmed.ncbi.nlm.nih.gov/329422/) | 1977 | RCT (actief-gecontroleerd) | Southern Medical Journal | Parallelle dubbelblinde RCT, flurbiprofen versus indometacine bij 26 AS-patiënten; vergelijkbare werkzaamheid bevestigd in een onafhankelijk cohort |
+| [324773](https://pubmed.ncbi.nlm.nih.gov/324773/) | 1977 | RCT (actief-gecontroleerd) | European Journal of Clinical Pharmacology | Flurbiprofen 150–200 mg/dag versus fenylbutazon 300–400 mg/dag bij 27 AS-patiënten gedurende 6 weken; gelijkwaardige gewrichtspin- en tendernesspijnverlichting |
+| [7003449](https://pubmed.ncbi.nlm.nih.gov/7003449/) | 1980 | RCT (dubbelblind crossover) | New Zealand Medical Journal | Flurbiprofen 200 mg/dag versus naproxen 750 mg/dag bij 30 AS-patiënten gedurende 4 weken; beide middelen zeer werkzaam; bijwerkingen frequenter met flurbiprofen; kleine toename renale uitscheiding opgemerkt |
+| [3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/) | 1986 | RCT (dubbelblind, 26 weken) | The American Journal of Medicine | Flurbiprofen versus indometacine bij 57 AS-patiënten gedurende 26 weken; flurbiprofen 200 mg/dag controleerde pijn en geassocieerde symptomen effectief; sommige patiënten adequaat beheerd met 100 mg/dag |
+| [3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) | 1986 | RCT (dubbelblind, 26 weken) | The American Journal of Medicine | Flurbiprofen 200 mg/dag versus fenylbutazon 300 mg/dag bij 90 AS-patiënten gedurende 26 weken; gelijkwaardige werkzaamheid; sommige patiënten goed beheerd met 150 mg/dag |
+| [3963024](https://pubmed.ncbi.nlm.nih.gov/3963024/) | 1986 | Samengevoegde veiligheidsanalyse | The American Journal of Medicine | Lever- en nierfunctiegegevens samengevoegd uit 9 Phase III-onderzoeken (941 flurbiprofen / 736 vergelijkingspatiënten met AS, OA of RA); geen klinisch significante orgaanfunctiestoornissen vastgesteld |
+| [391529](https://pubmed.ncbi.nlm.nih.gov/391529/) | 1979 | Review | Drugs | Uitgebreide farmacologische review; flurbiprofen 150–300 mg/dag vergelijkbaar met vastgestelde NSAID-doseringen bij AS; minder bijwerkingen dan aspirine bij gelijkwaardige anti-ontstekingsdoseringen |
 
 ---
 
-## Conclusion and Next Steps
+## Nederlandse marktinformatie
 
-**Decision: Proceed with Guardrails**
+Flurbiprofen heeft momenteel **geen CBG-MEB-registratie** in Nederland. Geen RVG-registratienummers zijn in het dossier en het medicijn is ingedeeld als **niet op markt**.
 
-**Rationale:**
-At least eight double-blind randomized controlled trials conducted between 1974 and 1986 directly and consistently demonstrate Flurbiprofen's efficacy in Ankylosing Spondylitis, with results equivalent to indomethacin, phenylbutazone, and naproxen across studies ranging from 4 to 26 weeks in duration. The COX-inhibition mechanism is directly applicable to AS pathophysiology, and Flurbiprofen already holds an AS indication in other European markets. The primary barrier to use in the Netherlands is the **absence of a CBG-MEB marketing authorization**, not a lack of clinical evidence.
+Voor regelgevingscontext: flurbiprofen is geautoriseerd in andere Europese markten onder merknamen inclusief **Froben®** (VK, geïndiceerd voor reumatoïde artritis, artrose en ankyloserende spondylitis) en **Ansaid®** (VS). Een EMA-gecentraliseerde procedure of een CBG-MEB nationale/onderlinge erkenningsprocedure zou vereist zijn voordat flurbiprofen wettelijk op de Nederlandse markt kan worden verhandeld.
 
-**To proceed, the following is needed:**
+---
 
-- **Regulatory pathway determination**: Assess whether an EMA centralized procedure or a CBG-MEB national/mutual recognition procedure is appropriate; confirm whether the existing UK Froben® SmPC data package meets current EMA evidentiary standards for an AS indication
-- **SmPC / safety documentation**: Obtain the full Dutch-language SmPC (or an EMA-equivalent document) to complete the safety profile required for prescriber and pharmacist review
-- **Modern evidence gap assessment**: The existing RCT evidence predates current AS management standards (biologic DMARDs, ASDAS outcome measures); CBG-MEB may require evidence against contemporary comparators or a bridging justification
-- **MOA documentation**: Retrieve formal DrugBank / EMA mechanism-of-action data to strengthen the mechanistic rationale in the regulatory submission dossier
-- **Risk Management Plan (RMP)**: Develop an EU-standard RMP covering GI, cardiovascular, and renal safety monitoring as part of the registration application
+## Veiligheidsconsideraties
+
+Gedetailleerde SmPC-veiligheidsgegevens — inclusief formele waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties — waren niet beschikbaar in het bewijspakket voor de Nederlandse markt. Raadpleeg de **SmPC** (Samenvatting van de Productkenmerken) van een EMA-geautoriseerde of gelijkwaardige Europese formulering voor volledige veiligheidsinformatie.
+
+Gebaseerd op het gepubliceerde klinische onderzoeksprogramma en NSAID-klassekennis zijn de volgende overwegingen relevant voor de Nederlandse klinische context:
+
+- **Gastro-intestinaal risico**: NSAID's hebben een goed gevestigde associatie met maagzweren, maagdarmkanaalbleeding en perforatie. De 1979 review (PMID 391529) vermeldt dat flurbiprofen minder gastro-intestinale bijwerkingen veroorzaakt dan aspirine bij anti-ontstekingsdoseringen. Gelijktijdig voorschrijven van protonpompremmers (PPI) moet worden geëvalueerd voor patiënten met risico, consistent met huidige Nederlandse voorschrijfstandaarden.
+- **Niermonitoring**: de 1986 samengevoegde veiligheidsanalyse (PMID 3963024) vond geen klinisch significante nierfunctiestoornissen in 9 Phase III-onderzoeken; een 1980 crossover-onderzoek (PMID 7003449) observeerde echter een kleine maar significante toename van urine β-N-acetylglucosaminidaseuitscheiding met flurbiprofen. Monitoring van nierfunctie is raadzaam bij oudere patiënten of patiënten met pre-bestaande nierziekten.
+- **Oudere patiënten**: Een toegewijd farmacokinetisch onderzoek bij patiënten met gemiddelde leeftijd 84 jaar (verlengde-afgifte 200 mg capsule) is uitgevoerd, ondersteunend het gebruik in oudere populaties met passende monitoring.
+- **Cardiovasculair risico**: langdurig niet-selectief NSAID-gebruik is geassocieerd met verhoogd cardiovasculair event-risico en moet tegen ziektebelasting worden afgewogen, vooral bij patiënten met pre-bestaande hartvaatziekte.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Doorgaan onder voorwaarden**
+
+**Onderbouwing:**
+Ten minste acht dubbelblinde gerandomiseerde gecontroleerde onderzoeken uitgevoerd tussen 1974 en 1986 demonstreren rechtstreeks en consequent flurbiprofen's werkzaamheid bij ankyloserende spondylitis, met resultaten gelijkwaardig aan indometacine, fenylbutazon en naproxen in onderzoeken variërend van 4 tot 26 weken duur. Het COX-remmingsmechanisme is rechtstreeks van toepassing op AS-pathofysiologie, en flurbiprofen heeft al een AS-indicatie in andere Europese markten. De primaire hindernis voor gebruik in Nederland is de **afwezigheid van een CBG-MEB-registratie**, niet een gebrek aan klinisch bewijs.
+
+**Om door te gaan, is het volgende nodig:**
+
+- **Bepaling regelgevingsweg**: beoordeel of een EMA-gecentraliseerde procedure of een CBG-MEB nationale/onderlinge erkenningsprocedure passend is; bevestig of het bestaande Froben® SmPC-gegevenspakket van het VK voldoet aan huidige EMA-bewijsnormen voor een AS-indicatie
+- **SmPC / veiligheidsdocumentatie**: verkrijg de volledige Nederlandstalige SmPC (of een gelijkwaardig EMA-document) om het veiligheidsprofiel in te vullen dat nodig is voor beoordeling door voorschrijvers en apothekers
+- **Beoordeling moderne bewijskloof**: het bestaande RCT-bewijs is voorafgaand aan huidige AS-beheerstandaarden (biologische DMARDs, ASDAS-uitkomstmaten); CBG-MEB kan bewijs tegen hedendaagse comparatoren of een overbruggingsjustificatie vereisen
+- **MOA-documentatie**: haal formele DrugBank / EMA-werkingsmechanisme-gegevens op om de mechanistische onderbouwing in het regelgevingsindieningsdossier te versterken
+- **Risicobeheerplan (RMP)**: ontwikkel een EU-standaard RMP die gastro-intestinale, cardiovasculaire en renale veiligheidsmonitoring afdekt als onderdeel van de registratieaanvraag
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

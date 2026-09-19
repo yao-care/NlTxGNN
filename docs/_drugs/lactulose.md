@@ -29,95 +29,92 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-The txgnn-pipeline skill covers infrastructure management and does not override the report generation instructions already specified in the system prompt. I will now generate the report directly from the Evidence Pack.
+# Lactulose: Van Hepatische Encefalopatie naar Acute Uraat Nefropathie
+
+## Samenvatting in één zin
+
+Lactulose is een niet-absorbeerbare synthetische disaccharide met een tientallen jaren durende klinische staat van dienst in de behandeling van hepatische encefalopatie en obstipatie, werkend via osmotische effecten in het maagdarmkanaal en modulatie van de microbiota.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Acute Uraat Nefropathie**,
+echter **geen klinische onderzoeken** en **geen publicaties** ondersteunen momenteel deze specifieke indicatie — wat het bewijs plaatst op niveau **L5 (alleen modelvoorspelling)**.
 
 ---
 
-# Lactulose: From Hepatic Encephalopathy to Acute Urate Nephropathy
+## Snelle Samenvatting
 
-## One-Sentence Summary
-
-Lactulose is a non-absorbable synthetic disaccharide with a decades-long clinical track record in treating hepatic encephalopathy and constipation, acting through gut osmotic effects and microbiome modulation.
-The TxGNN model predicts it may be effective for **Acute Urate Nephropathy**,
-however **no clinical trials** and **no publications** currently support this specific indication — placing the evidence at level **L5 (model prediction only)**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hepatic encephalopathy / Constipation (established clinical use; no NL registration data found in this evidence pack) |
-| Predicted New Indication | Acute Urate Nephropathy |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke Indicatie | Hepatische encefalopatie / Obstipatie (gevestigde klinische toepassing; geen NL registratiegegevens gevonden in deze bewijsvoering) |
+| Voorspelde Nieuwe Indicatie | Acute Uraat Nefropathie |
+| TxGNN Voorspellingsscore | 99.89% |
+| Bewijsniveau | L5 |
+| NL Marktbeschikbaarheid | Niet Geregistreerd |
+| Aantal Toelatingingen | 0 |
+| Aanbevolen Besluit | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is Deze Voorspelling Redelijk?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established clinical knowledge, Lactulose is a non-absorbable disaccharide whose primary actions include: **(1)** an osmotic laxative effect that accelerates intestinal transit, **(2)** acidification of colonic contents that suppresses ammonia-producing gram-negative bacteria, and **(3)** reduction of systemic endotoxin load by limiting bacterial translocation. Its efficacy in hepatic encephalopathy has been proven and is confirmed by multiple independent publications in this evidence pack (e.g., PMID 9145459, PMID 28875419).
+Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in de bewijsvoering. Op basis van gevestigde klinische kennis is Lactulose een niet-absorbeerbare disaccharide waarvan de primaire werkingen zijn: **(1)** een osmotisch laxatief effect dat de darmdoorgang versnelt, **(2)** verzuring van de coloniale inhoud die gramnegatieve bacteriën die ammonia produceren onderdrukten, en **(3)** vermindering van de systemische endotoxinebelasting door beperking van bacteriële translokatie. Zijn werkzaamheid bij hepatische encefalopatie is bewezen en wordt bevestigd door meerdere onafhankelijke publicaties in deze bewijsvoering (bijv. PMID 9145459, PMID 28875419).
 
-Acute urate nephropathy is a distinct condition caused by the sudden crystallisation of uric acid within renal tubules — typically triggered by tumour lysis syndrome or severe hyperuricaemia — leading to tubular obstruction and acute kidney injury. This mechanism has no direct pharmacological overlap with Lactulose's known actions.
+Acute uraat nefropathie is een afzonderlijke aandoening veroorzaakt door de plotselinge kristallisatie van uraat in de niertubuli — meestal geactiveerd door tumorcellysis syndroom of ernstige hyperuricemie — wat leidt tot tubulaire obstructie en acuut nierfalen. Dit mechanisme heeft geen rechtstreekse farmacologische overlap met de bekende werkingen van Lactulose.
 
-The theoretical bridge proposed by TxGNN — **gut microbiota modulation → altered purine metabolism → reduced uric acid production** — is an extremely indirect pathway that currently has no supporting preclinical or clinical evidence. The model's high score of 99.89% most plausibly reflects knowledge graph over-generalisation between renal disease nodes rather than a genuine therapeutic signal. This prediction is consistent with a model artefact and should not be prioritised for clinical development at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De theoretische brug die door TxGNN wordt voorgesteld — **modificatie van de darmflora → veranderde purinemetabolisme → verminderde uraat productie** — is een uiterst indirect traject dat momenteel geen ondersteunend preklinisch of klinisch bewijs heeft. De hoge score van het model van 99.89% weerspiegelt waarschijnlijk het meest plausibel een overbegeneralisatie van de kennisgraaf tussen nierschade-knooppunten eerder dan een echt therapeutisch signaal. Deze voorspelling is consistent met een modelartefact en moet op dit moment niet prioritair worden gesteld voor klinische ontwikkeling.
 
 ---
 
-## Literature Evidence
+## Klinisch Onderzoeksmateriaal
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB (College ter Beoordeling van Geneesmiddelen) marketing authorisations for Lactulose were identified in this evidence pack.
-
-> **Important note:** Lactulose is a long-established generic medicine with widespread use across Europe. The absence of RVG records in this dataset is likely a data collection gap and does **not** necessarily reflect the actual market situation in the Netherlands. Before drawing any regulatory conclusions, direct verification via the **CBG-MEB online register** (geneesmiddeleninformatiebank.nl) and the **EMA product database** is strongly recommended. The relevant regulatory document to consult is the **SmPC (Samenvatting van de Productkenmerken)** for the authorised product.
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction for acute urate nephropathy sits at evidence level L5 — with zero supporting publications, zero clinical trials, and no mechanistically plausible pathway connecting Lactulose's gut-targeted pharmacology to uric acid crystal nephropathy. Advancing this indication would require building an entirely new evidence base from scratch with no strong scientific rationale to justify the investment.
-
-**To proceed, the following is needed:**
-- Preclinical studies (animal or in vitro) demonstrating any effect of Lactulose on uric acid metabolism, xanthine oxidase activity, or renal tubular protection under hyperuricaemic conditions
-- Mechanistic data explicitly linking gut microbiome modulation to purine catabolism and uric acid production
-- MOA data retrieval from DrugBank (DB00581) to establish a full pharmacological profile and assess biological plausibility
-- Verification of actual NL market authorisation status via the CBG-MEB register
-- Review of the authorised SmPC for contraindications, warnings, and drug interactions before any study design is considered
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-> **Context note on other TxGNN predictions:** While this report focuses on the top-ranked TxGNN prediction, it is important to flag that other predicted indications for Lactulose carry substantially stronger evidence and are better-positioned for near-term evaluation in the Dutch healthcare context:
+## Marktinformatie Nederland
+
+Geen CBG-MEB (College ter Beoordeling van Geneesmiddelen) markttoelatingingen voor Lactulose werden in deze bewijsvoering geïdentificeerd.
+
+> **Belangrijk opmerking:** Lactulose is een lang gevestigd generiek geneesmiddel met wijdverbreid gebruik in heel Europa. De afwezigheid van RVG-dossiers in deze dataset is waarschijnlijk een gegevensverzamelingsgat en weerspiegelt **niet** noodzakelijk de werkelijke marktsituatie in Nederland. Voordat u regelgevingsconclusies trekt, wordt sterk aanbevolen direct verificatie via het **CBG-MEB online register** (geneesmiddeleninformatiebank.nl) en de **EMA productdatabase**. Het relevante regelgevingsdocument dat moet worden geraadpleegd, is de **SmPC (Samenvatting van de Productkenmerken)** voor het toegelaten product.
+
+---
+
+## Veiligheidsbeschouwingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en Volgende Stappen
+
+**Besluit: Wachten**
+
+**Grondslag:**
+De TxGNN-voorspelling voor acute uraat nefropathie ligt op bewijsniveau L5 — met nul ondersteunende publicaties, nul klinische onderzoeken, en geen mechanistisch aannemelijk traject dat Lactulose's darmaangeslagen farmacologie verbindt met uraat-kristal nefropathie. Het vooruitgang van deze indicatie zou vereisen dat een geheel nieuw bewijs van grond af wordt opgebouwd zonder sterke wetenschappelijke grondslag om de investering te rechtvaardigen.
+
+**Om door te gaan, is het volgende nodig:**
+- Preklinische onderzoeken (dier- of in vitro) die enig effect van Lactulose op uraat metabolisme, xanthine oxidase activiteit, of renale tubulaire bescherming onder hyperuricemische omstandigheden aantonen
+- Mechanistische gegevens die expliciet de modificatie van de darmflora koppelen aan purineafbraak en uraat productie
+- MOA-gegevens ophaling van DrugBank (DB00581) om een volledig farmacologisch profiel vast te stellen en biologische plausibiliteit te beoordelen
+- Verificatie van de werkelijke NL markttoelatingsstatus via het CBG-MEB register
+- Beoordeling van de toegelaten SmPC voor contra-indicaties, waarschuwingen, en geneesmiddelinteracties voordat enig studieontwerp wordt overwogen
+
+---
+
+> **Contextopmerking over andere TxGNN-voorspellingen:** Hoewel dit rapport zich richt op de hoogst geclassificeerde TxGNN-voorspelling, is het belangrijk aan te geven dat andere voorspelde indicaties voor Lactulose aanzienlijk sterker bewijs hebben en beter zijn gepositioneerd voor nabije evaluatie in de Nederlandse gezondheidszorgcontext:
 >
-> | Rank | Indication | Evidence Level | Recommendation | Trials | Publications |
-> |------|-----------|---------------|----------------|--------|--------------|
-> | 3 | Obstructive Jaundice | L3 | Proceed with Guardrails | 1 | 20 |
-> | 4 | Bile Duct Disease | L3 | Research Question | 0 | 20 |
-> | 5 | Biliary Tract Disease | L3 | Research Question | 0 | 20 |
+> | Rang | Indicatie | Bewijsniveau | Aanbeveling | Onderzoeken | Publicaties |
+> |------|-----------|--------------|------------|-------------|-------------|
+> | 3 | Obstructieve Icterus | L3 | Doorgaan met Waarborgen | 1 | 20 |
+> | 4 | Galwegziekte | L3 | Onderzoeksvraag | 0 | 20 |
+> | 5 | Galbewegziekte | L3 | Onderzoeksvraag | 0 | 20 |
 >
-> The **obstructive jaundice** indication (rank 3) is particularly notable: a direct clinical trial (NCT01090193) and a 1991 multicentre randomised controlled trial (PMID 2032107) exist, and the mechanistic basis — Lactulose reducing perioperative endotoxaemia and postoperative renal dysfunction in jaundiced surgical patients — is well described. A separate, focused report for that indication is recommended as the next step.
+> De indicatie **obstructieve icterus** (rang 3) is bijzonder opvallend: een direct klinisch onderzoek (NCT01090193) en een gerandomiseerde gecontroleerde multicentrische studie uit 1991 (PMID 2032107) bestaan, en de mechanistische basis — Lactulose vermindert perioperatieve endotoxemie en postoperatief nierfalen bij gele niergebrekkige chirurgische patiënten — is goed beschreven. Een afzonderlijk, gericht rapport voor die indicatie wordt aanbevolen als de volgende stap.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

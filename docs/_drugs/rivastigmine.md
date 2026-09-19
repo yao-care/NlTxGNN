@@ -29,90 +29,87 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context, and now generating the evaluation report from the Evidence Pack.
+# Rivastigmine: van Alzheimer-ziekte naar Glaucoom
+
+## Samenvatting in één zin
+
+Rivastigmine is een dubbele remmer van acetylcholinesterase (AChE) en butyrylcholinesterase (BuChE), wereldwijd aangegeven voor Alzheimer-ziekte en dementie bij de ziekte van Parkinson.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Glaucoom** door intraoculaire druk (IOP) te verminderen via dezelfde cholinerge werkingsroute die door eerstelijnsgaucoomgeneesmiddelen wordt gebruikt.
+Deze voorspelling wordt momenteel ondersteund door **0 klinische onderzoeken** en **3 preklinische/mechanistische publicaties**.
 
 ---
 
-# Rivastigmine: From Alzheimer's Disease to Glaucoma
+## Snel overzicht
 
-## One-Sentence Summary
-
-Rivastigmine is a dual acetylcholinesterase (AChE) and butyrylcholinesterase (BuChE) inhibitor, globally indicated for Alzheimer's disease and Parkinson's disease dementia.
-The TxGNN model predicts it may be effective for **Glaucoma** by reducing intraocular pressure (IOP) through the same cholinergic pathway used by first-line glaucoma drugs.
-This prediction is currently supported by **0 clinical trials** and **3 preclinical/mechanistic publications**.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Item | Inhoud |
 |------|---------|
-| Original Indication | Alzheimer's disease / Parkinson's disease dementia (no NL authorization on record) |
-| Predicted New Indication | Glaucoma |
-| TxGNN Prediction Score | 99.27% |
-| Evidence Level | L4 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Oorspronkelijke indicatie | Alzheimer-ziekte / dementie bij de ziekte van Parkinson (geen autorisatie in NL op record) |
+| Voorspelde nieuwe indicatie | Glaucoom |
+| TxGNN-voorspellingsscore | 99.27% |
+| Bewijsniveau | L4 |
+| MarktStatus NL | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Uitstellen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Rivastigmine is a carbamate-type inhibitor that simultaneously blocks AChE and BuChE. In its approved indication — Alzheimer's disease — it raises acetylcholine levels in the brain synaptic cleft to slow cognitive decline. Crucially, AChE is also expressed in the anterior segment of the eye, specifically in the ciliary body and the trabecular meshwork. Inhibiting AChE at these sites causes local acetylcholine to accumulate in the same way it does in the brain.
+Rivastigmine is een carbamaat-type remmer die tegelijkertijd AChE en BuChE blokkeert. Bij de goedgekeurde indicatie — Alzheimer-ziekte — verhoogt het het acetylcholinegehalte in de synaptische spleet van de hersenen om cognitieve achteruitgang te vertragen. Cruciaal is dat AChE ook tot uitdrukking komt in het voorste segment van het oog, specifiek in het ciliairkaam en het trabeculair weefsel. Het remmen van AChE op deze locaties veroorzaakt lokale acetylcholineophoping op dezelfde manier als in de hersenen.
 
-This surplus acetylcholine activates M3 muscarinic receptors in the ciliary muscle and trabecular meshwork, stimulating ciliary muscle contraction and widening of the trabecular meshwork channels. The net result is increased aqueous humor outflow and a measurable reduction in intraocular pressure (IOP). This is mechanistically the same drug class as Pilocarpine, an EMA/FDA-approved first-line therapy for glaucoma — making the TxGNN prediction highly plausible from a pharmacological standpoint.
+Dit acetylcholineoverschot activeert M3-muscarinereceptoren in het ciliairkaam en trabeculair weefsel, wat ciliairkaamcontractie en verwijding van de trabeculaire weefsselkanalen stimuleert. Het netto resultaat is verhoogde kamerwaterafvoer en een meetbare verlaging van de intraoculaire druk (IOP). Dit is mechanistisch dezelfde geneesmiddelenklasse als Pilocarpine, een door EMA/FDA goedgekeurd eerstelijnsgeneesmiddel voor glaucoom - wat de TxGNN-voorspelling vanuit farmacologisch oogpunt zeer aannemelijk maakt.
 
-The central translational hurdle is the route of administration. All currently approved Rivastigmine products worldwide are systemic formulations (transdermal patch and oral capsule). Ophthalmic use would require developing a dedicated topical eye drop, which sidesteps blood–brain barrier concerns but necessitates new local bioavailability and safety data. A 2000 rabbit study (PMID 10673128) already demonstrated that topically applied rivastigmine lowers IOP in normotensive animals, providing direct proof-of-concept for this approach.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De centrale translationele hindernis is de toedieningsroute. Alle momenteel goedgekeurde rivastigmineproducten wereldwijd zijn systemische formuleringen (transdermale pleister en orale capsule). Oftalmologisch gebruik zou het ontwikkelen van een speciaal topicaal oogdruppel vereisen, wat bloedhersenbarrièrekwesties omzeilt maar nieuwe lokale biobeschikbaarheidsen veiligheidsgegevens nodig maakt. Een konijnenstudie uit 2000 (PMID 10673128) toonde al aan dat topisch toegepaste rivastigmine de IOP verlaagt bij normotensieve dieren, wat direct bewijs van concept voor deze benadering levert.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
+
+---
+
+## Literatuurbewijs
+
+| PMID | Jaar | Soort | Tijdschrift | Belangrijkste bevindingen |
 |------|------|------|---------|-------------|
-| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Animal Study (Rabbit) | J Ocular Pharmacol Ther | Topical rivastigmine lowered IOP in normotensive conscious rabbits over an 8-hour period — direct proof-of-concept for ophthalmic application of a selective AChE inhibitor |
-| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Systems Genetics / Molecular Modeling | Frontiers in Molecular Biosciences | Multi-method analysis confirms M3 muscarinic receptor activation in the anterior eye segment regulates IOP via the trabecular meshwork; identifies mechanistic basis supporting AChE inhibitors as IOP-lowering candidates |
-| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Patent Literature Review | Expert Opinion on Therapeutic Patents | Comprehensive review of AChE inhibitor patents (2012–2015) confirms glaucoma as an established therapeutic application alongside Alzheimer's disease; mild AChE inhibition is distinguished from toxic strong inhibition |
+| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Dierstudie (konijn) | J Ocular Pharmacol Ther | Topische rivastigmine verlaagde de IOP bij normotensieve bewuste konijnen gedurende een periode van 8 uur — direct bewijs van concept voor oftalmologische toepassing van een selectieve AChE-remmer |
+| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Systeemgenetica / Moleculaire modellering | Frontiers in Molecular Biosciences | Analyse met meerdere methoden bevestigt dat M3-muscarinereceptoractivering in het voorste oogsegment IOP via het trabeculair weefsel reguleert; identificeert mechanistische basis die AChE-remmers als IOP-verlagende kandidaten ondersteunt |
+| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Patentliteratuuroverzicht | Expert Opinion on Therapeutic Patents | Uitgebreid overzicht van AChE-remmerpatenten (2012–2015) bevestigt glaucoom als een gevestigde therapeutische toepassing naast Alzheimer-ziekte; milde AChE-remming onderscheidt zich van giftige sterke remming |
 
 ---
 
-## Netherlands Market Information
+## Informatie over de Nederlandse markt
 
-No CBG-MEB marketing authorizations for Rivastigmine are recorded in the current dataset (total licenses: 0, market status: not registered).
+Er zijn geen CBG-MEB-vergunningen voor Rivastigmine opgenomen in de huidige dataset (totale licenties: 0, marktStatus: niet geregistreerd).
 
-> **Verification recommended:** Rivastigmine (Exelon®) holds EMA central authorization and is commercially available across EU member states including the Netherlands. The absence of NL-specific records likely reflects a data pipeline gap rather than a true lack of market access. The CBG-MEB register should be consulted directly to confirm the current authorization status before any regulatory assessment proceeds.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for complete safety information.
-
-> No contraindication, key warning, or drug interaction data was available in the current Evidence Pack. Before any clinical application, the Exelon® SmPC (available via the EMA product database) must be reviewed — with particular attention to cholinergic class effects such as nausea, vomiting, bradycardia, and bronchospasm, all of which carry heightened relevance in an ophthalmic context where systemic absorption via the nasolacrimal duct remains possible even with topical formulations.
+> **Verificatie aanbevolen:** Rivastigmine (Exelon®) heeft centrale EMA-autorisatie en is commercieel beschikbaar in alle EU-lidstaten, inclusief Nederland. De afwezigheid van NL-specifieke registraties weerspiegelt waarschijnlijk een gegevenspipeline-hiaat in plaats van een werkelijk gebrek aan markttoegang. Het CBG-MEB-register moet direct worden geraadpleegd om de huidige autorisatiestatus te bevestigen voordat enige regelgevingsbeoordeling wordt voortgezet.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsconsideraties
 
-**Decision: Hold**
+Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor volledige veiligheidsinformatie.
 
-**Rationale:**
-The mechanistic link between Rivastigmine and IOP reduction is scientifically sound and sits within the same drug class as an approved glaucoma therapy, but all current evidence remains at the preclinical/mechanistic level (L4) — one animal model study and two mechanistic/review publications — with no human clinical trial data whatsoever. In addition, the NL market authorization data gap prevents a complete regulatory assessment under the CBG-MEB framework.
+> Er waren geen contra-aanwijzingen, belangrijke waarschuwingen of interactiegegevens tussen geneesmiddelen beschikbaar in het huidige Bewijspakket. Voordat enige klinische toepassing wordt gebruikt, moet de Exelon®-SmPC (beschikbaar via de EMA-productdatabase) worden gecontroleerd - met bijzondere aandacht voor cholinerge klasseffecten zoals misselijkheid, braken, bradycardie en bronchospasme, die allemaal verhoogde relevantie hebben in een oftalmologische context waarbij systemische opname via het nasolacrimalkanaal zelfs met topische formuleringen mogelijk blijft.
 
-**To proceed, the following is needed:**
+---
 
-- **Clinical evidence:** At minimum one Phase 1/2 human study evaluating topical rivastigmine for IOP reduction — this is the single most critical evidence gap
-- **Formulation development:** A dedicated topical ophthalmic formulation (eye drop) must be developed and characterized for local bioavailability, stability, and tolerability, since existing approved products are systemic
-- **Safety dossier:** Full SmPC review (contraindications, warnings, drug interactions) including assessment of systemic cholinergic risk from ocular absorption
-- **NL regulatory status:** Verify current CBG-MEB authorization status directly; if Exelon® is centrally authorized via EMA, the existing SmPC may already satisfy part of the safety review requirement
-- **MOA documentation:** Formal mechanism of action data from DrugBank to complete the evidence package for regulatory submission
+## Conclusie en vervolgstappen
+
+**Besluit: Uitstellen**
+
+**Grondslag:**
+De mechanistische link tussen Rivastigmine en IOP-verlaging is wetenschappelijk gezond en valt binnen dezelfde geneesmiddelenklasse als een goedgekeurd gaucoomgeneesmiddel, maar al het huidige bewijs blijft op preklinisch/mechanistisch niveau (L4) — één diermodelonderzoek en twee mechanistische/overzichtspublicaties — zonder enige klinische onderzoeksgegevens bij mensen. Bovendien belemmert het gegevensgat voor NL-marktautorisatie een volledige regelgevingsbeoordeling onder het CBG-MEB-kader.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Klinisch bewijs:** Minimaal één fase-1/2-onderzoek bij mensen die topische rivastigmine voor IOP-verlaging evalueren — dit is het meest kritieke bewijsvacuüm
+- **Formulering-ontwikkeling:** Een speciaal topicaal oftalmologische formulering (oogdruppel) moet worden ontwikkeld en gekarakteriseerd voor lokale biobeschikbaarheid, stabiliteit en tolerabiliteit, aangezien bestaande goedgekeurde producten systemisch zijn
+- **Veiligheidsdossier:** Volledige SmPC-beoordeling (contra-aanwijzingen, waarschuwingen, medicijninteracties) inclusief beoordeling van systemische cholinerge risico's van oculaire opname
+- **NL regelgevingsstatus:** Controleer direct de huidige CBG-MEB-autorisatiestatus; als Exelon® centraal via EMA is geautoriseerd, kan de bestaande SmPC mogelijk al aan een deel van de veiligheidsbeoordeling voldoen
+- **MOA-documentatie:** Formele werkingsmechanisme-gegevens van DrugBank om het bewijspakket voor regelgevingsindiening aan te vullen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

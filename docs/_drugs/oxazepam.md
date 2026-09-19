@@ -29,99 +29,96 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **1**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context. Now generating the evaluation report based on the Evidence Pack.
+# Oxazepam: van angststoornissen naar slapeloosheid
+
+## Samenvatting in één zin
+
+Oxazepam is een benzodiazepine van middellange werkingsduur (BZD) die primair is vastgesteld als anxiolyticum en slaapmiddel binnen zijn medicamentklasse.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn voor **slapeloosheid**,
+met **0 geregistreerde klinische onderzoeken** en **11 publicaties** die deze richting momenteel ondersteunen.
+Opmerkelijk genoeg zijn 2 van deze publicaties gerandomiseerde gecontroleerde onderzoeken die Oxazepam rechtstreeks evalueren bij patiënten met slapeloosheid.
 
 ---
 
-# Oxazepam: From Anxiety Disorders to Insomnia
+## Snel overzicht
 
-## One-Sentence Summary
-
-Oxazepam is a medium-acting benzodiazepine (BZD) primarily established as an anxiolytic and sedative-hypnotic agent within its drug class.
-The TxGNN model predicts it may be effective for **Insomnia**,
-with **0 registered clinical trials** and **11 publications** currently supporting this direction.
-Notably, 2 of those publications are randomized controlled trials directly evaluating Oxazepam in sleep-disturbed patients.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; established pharmacologically as an anxiolytic/sedative (benzodiazepine class) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L2 |
-| NL Market Status | Not marketed in the Netherlands |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet geregistreerd in Nederland; farmacologisch vastgesteld als anxiolyticum/slaapmiddel (benzodiazepineklasse) |
+| Voorspelde nieuwe indicatie | Slapeloosheid |
+| TxGNN voorspellingsscore | 99.86% |
+| Bewijsniveau | L2 |
+| NL-marktpositie | Niet op de markt in Nederland |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Doorgaan met voorzorgsmaatregelen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Oxazepam is a benzodiazepine that acts by binding to the α subunit of the GABA-A receptor, positively modulating the inhibitory effects of GABA. This mechanism shortens sleep latency, increases total sleep time, and suppresses REM sleep — the same pharmacological effects underpinning all BZD-class hypnotics and directly relevant to insomnia treatment. As a medium-acting agent (t½ ≈ 8–12 hours) with **no active metabolites**, Oxazepam carries a theoretically lower risk of next-day residual sedation compared to long-acting BZDs such as flurazepam, which may offer a practical tolerability advantage in clinical use.
+Oxazepam is een benzodiazepine die werkzaam is door binding aan de α-subeenheid van de GABA-A-receptor, waardoor de remmende effecten van GABA positief worden gemoduleerd. Dit mechanisme verkort de inslaaptijd, verhoogt de totale slaaptijd en onderdrukt REM-slaap — dezelfde farmacologische effecten die ten grondslag liggen aan alle BZD-klasseslaapmiddelen en die rechtstreeks relevant zijn voor de behandeling van slapeloosheid. Als agent van middellange werkingsduur (t½ ≈ 8–12 uur) **zonder actieve metabolieten** heeft Oxazepam theoretisch een lager risico op nawerking van slaperigheid overdag in vergelijking met langwerkende BZD's zoals flurazepam, wat een praktisch voordeel voor verdraagzaamheid in klinisch gebruik kan bieden.
 
-The mechanistic overlap between anxiolysis and hypnosis in this drug class is well-established: GABA-A receptor-mediated CNS depression simultaneously reduces anxiety and promotes sleep onset. Since anxiety and insomnia are highly comorbid and share common neurobiological substrates, the TxGNN model's prediction of efficacy in insomnia is entirely consistent with Oxazepam's known mechanism of action. The transition from anxiolytic use to a sleep indication represents a **within-class pharmacological extension**, not a mechanistic leap.
+De farmacologische overlap tussen anxiolyse en hypnose in deze medicamentklasse is goed gevestigd: GABA-A-receptorgemedieerde CNS-depressie vermindert tegelijkertijd angst en bevordert het inslapen. Aangezien angststoornissen en slapeloosheid zeer comorbide zijn en gemeenschappelijke neurobiologische substraten delen, is de voorspelling van het TxGNN-model voor werkzaamheid bij slapeloosheid volledig consistent met het bekende werkingsmechanisme van Oxazepam. De overgang van anxiolytisch gebruik naar een slaapindicatie vertegenwoordigt een **farmacologische uitbreiding binnen dezelfde klasse**, geen mechanistische breuk.
 
-Clinical literature reinforces this plausibility. A 1984 polysomnographic RCT (PMID 6691478) directly compared Oxazepam and flurazepam in chronic insomnia patients, demonstrating improvement in nocturnal sleep measures with markedly less daytime sedation for Oxazepam. A 2018 comparative RCT in post-STEMI patients (PMID 29749262) further used Oxazepam as an active comparator for managing both anxiety and sleep quality, confirming its real-world application for sleep disturbance in medically ill populations.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP for Oxazepam in insomnia.
+Klinische literatuur ondersteunt deze aannemelijkheid. Een polysomnografisch gerandomiseerd onderzoek uit 1984 (PMID 6691478) vergeleek Oxazepam en flurazepam rechtstreeks bij patiënten met chronische slapeloosheid en toonde verbetering in nachtelijke slaapmetingen met aanzienlijk minder dagsedatie voor Oxazepam. Een vergelijkend gerandomiseerd onderzoek uit 2018 bij STEMI-patiënten (PMID 29749262) gebruikte Oxazepam als actieve vergelijking voor het beheersen van zowel angst als slapeloosheid, wat de praktische toepassing ervan voor slaapstornissen in medisch zieke populaties bevestigt.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | RCT | Am J Psychiatry | Polysomnographic RCT (n=14) in chronic insomnia: both Oxazepam and flurazepam improved nocturnal sleep; Oxazepam produced significantly less daytime sleepiness, supporting a more favourable daytime safety profile |
-| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | RCT | Ann Pharmacother | Comparative RCT in STEMI patients post-PCI: melatonin vs Oxazepam for anxiety and sleep quality; confirms Oxazepam's active role in managing sleep disorders in acutely ill cardiac patients |
-| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Review | Arch Gerontol Geriatr | Review of hypnotic safety and efficacy in elderly patients (>70 years) with comorbidities including dementia; evaluates BZDs including Oxazepam for insomnia management in high-risk populations |
-| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Observational | PeerJ | Retrospective observational study on long-term BZD/z-drug use in older adults; identifies patient-level factors (age, sex, depression, chronic disease) associated with prolonged BZD use including Oxazepam for insomnia |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Pharmacokinetic review of anxiolytic/hypnotic drugs; provides comparative PK profile of Oxazepam (no active metabolites, medium t½) relevant to its sleep application |
-| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Clinical Guideline | J Clin Exp Hepatol | Clinical guideline on alcohol withdrawal syndrome in liver disease; references BZDs including Oxazepam for managing insomnia as a withdrawal symptom, with hepatic safety considerations |
-| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Case Report | JAMA | Two-case report on withdrawal syndrome following substitution of Oxazepam (short-acting) for diazepam (long-acting); relevant to discontinuation risk management in insomnia treatment |
-| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Clinical Review | Psychiatr Praxis | Cross-sectional review of BPSD management in dementia patients in Germany/Austria/Switzerland; includes Oxazepam for sleep-related behavioural disturbances |
-| [39544757](https://pubmed.ncbi.nlm.nih.gov/39544757/) | 2024 | Case Report | Am J Transl Res | Case report of agomelatine-induced adverse effect; Oxazepam recorded as concomitant medication for insomnia, providing a contemporary real-world usage reference |
-| [23338224](https://pubmed.ncbi.nlm.nih.gov/23338224/) | 1997 | Drug Review | CNS Drugs | Review of paroxetine in panic disorder; Oxazepam cited as representative BZD comparator, contextualising its class pharmacology across anxiolytic and hypnotic indications |
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd op ClinicalTrials.gov of ICTRP voor Oxazepam bij slapeloosheid.
 
 ---
 
-## Netherlands Market Information
+## Bewijs uit literatuur
 
-Oxazepam currently holds **no marketing authorizations** registered with CBG-MEB in the Netherlands. Any clinical use would require off-label prescription, magistral preparation, or import via Article 3(2) exemption under Dutch medicines law (Geneesmiddelenwet). There is no approved SmPC on file with CBG-MEB; the EMA-level product information (where available for the BZD class) should be consulted as the closest reference document.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|-------------------------|
+| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | RCT | Am J Psychiatry | Polysomnografisch RCT (n=14) bij chronische slapeloosheid: zowel Oxazepam als flurazepam verbeterden de nachtelijke slaap; Oxazepam veroorzaakte aanzienlijk minder dagsedatie, wat een gunstiger daagveiligheidsprofiel ondersteunt |
+| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | RCT | Ann Pharmacother | Vergelijkend RCT bij STEMI-patiënten na PCI: melatonine versus Oxazepam voor angst en slaapkwaliteit; bevestigt de actieve rol van Oxazepam bij het beheersen van slaapstornissen bij acuut zieke cardiale patiënten |
+| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Review | Arch Gerontol Geriatr | Review van veiligheid en werkzaamheid van slaapmiddelen bij oudere patiënten (>70 jaar) met comorbiditeiten inclusief dementie; evalueert BZD's inclusief Oxazepam voor behandeling van slapeloosheid in risicovolle populaties |
+| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Observationeel | PeerJ | Retrospectieve observationele studie over langdurig BZD/z-geneesmiddelengebruik bij ouderen; identificeert patiëntgerelateerde factoren (leeftijd, geslacht, depressie, chronische aandoening) die geassocieerd zijn met langdurig BZD-gebruik inclusief Oxazepam voor slapeloosheid |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Farmacokinetische review van anxiolytische/slaapmiddelen; verschaft comparatief PK-profiel van Oxazepam (geen actieve metabolieten, middellange t½) relevant voor de slaaptoepassing |
+| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Klinische richtlijn | J Clin Exp Hepatol | Klinische richtlijn voor alcoholonttrekkingssyndroom bij leverziekte; verwijst naar BZD's inclusief Oxazepam voor het beheersen van slapeloosheid als onttrekkingssymptoom, met overwegingen voor hepatische veiligheid |
+| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Ziektegeschiedenis | JAMA | Ziektegeschiedenis met twee patiënten over onttrekkingssyndroom na vervanging van Oxazepam (kortwerkend) door diazepam (langwerkend); relevant voor risicobeheer van staken bij slapeloosheidsbehandeling |
+| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Klinische review | Psychiatr Praxis | Dwarsdoorsnede review van BPSD-beheer bij dementie patiënten in Duitsland/Oostenrijk/Zwitserland; omvat Oxazepam voor slaapgerelateerde gedragsverstoringen |
+| [39544757](https://pubmed.ncbi.nlm.nih.gov/39544757/) | 2024 | Ziektegeschiedenis | Am J Transl Res | Ziektegeschiedenis van agomelatine-geïnduceerd bijeffect; Oxazepam geregistreerd als gelijktijdig geneesmiddel voor slapeloosheid, wat een hedendaags real-world gebruiksreferentie verschaft |
+| [23338224](https://pubmed.ncbi.nlm.nih.gov/23338224/) | 1997 | Geneesmiddelenreview | CNS Drugs | Review van paroxetine bij paniekstoornis; Oxazepam aangehaald als representatieve BZD-vergelijking, contextualiserend de klassefarmacologie over anxiolytische en hypnotische indicaties |
 
 ---
 
-## Safety Considerations
+## Informatie over de Nederlandse markt
 
-Formal SmPC-level warning and contraindication data is not available in this evidence pack for the Dutch market. Please refer to the Summary of Product Characteristics (SmPC / Samenvatting van de Productkenmerken) from a reference country authorization for full safety information.
-
-Key class-level considerations known for benzodiazepines that clinicians should review prior to use:
-- **Dependence and withdrawal risk**: BZDs carry a recognized risk of physical dependence with long-term use; abrupt discontinuation may precipitate withdrawal seizures (see PMID 6139491).
-- **Elderly populations**: Particular caution is warranted in patients >70 years due to fall risk, cognitive effects, and accumulation in polypharmacy contexts (see PMID 17317444, 29844949).
-- **Hepatic impairment**: Unlike many BZDs, Oxazepam undergoes direct glucuronidation without hepatic oxidation, which may be relevant in patients with liver disease (see PMID 36340306).
+Oxazepam heeft momenteel **geen marketingautorisaties** geregistreerd bij CBG-MEB in Nederland. Elk klinisch gebruik zou off-label voorschrijven, magistrale bereiding of invoer via artikel 3(2)-vrijstelling onder Nederlandse geneesmiddelenwetgeving vereisen. Er is geen goedgekeurd SmPC aanwezig bij CBG-MEB; de EMA-productinformatie op klasseniveau (waar beschikbaar voor de BZD-klasse) dient te worden geraadpleegd als het dichtstbijzijnde referentiedocument.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Formele SmPC-niveau waarschuwings- en contraïndicatiegegevens zijn in dit bewijspakket niet beschikbaar voor de Nederlandse markt. Raadpleeg alstublieft de Samenvatting van de Productkenmerken (SmPC) van een referentielandautorisatie voor volledige veiligheidsinformatie.
 
-**Rationale:**
-The TxGNN prediction score of 99.86% is supported by a coherent and well-understood mechanism of action (GABA-A receptor modulation), two randomized controlled trials directly evaluating Oxazepam in sleep-disturbed patients, and a broader body of BZD class literature on insomnia. The predicted indication is pharmacologically contiguous with the drug's established anxiolytic use, and Oxazepam's PK profile (no active metabolites, medium half-life) offers a theoretically differentiated position within the BZD class.
+Overwegingen op klasseniveau bekend voor benzodiazepines die clinici voorafgaand aan gebruik dienen te beoordelen:
+- **Afhankelijkheids- en onttrekkingsrisico**: BZD's hebben een erkend risico op fysieke afhankelijkheid bij langdurig gebruik; abrupt staken kan onttrekkingsstuipen uitlokken (zie PMID 6139491).
+- **Oudere populaties**: Bijzondere voorzichtigheid is gerechtvaardigd bij patiënten >70 jaar vanwege valrisico, cognitieve effecten en accumulatie in polyfarmacie-contexten (zie PMID 17317444, 29844949).
+- **Hepatische aandoening**: In tegenstelling tot veel BZD's ondergaat Oxazepam directe glucuronidatie zonder hepatische oxidatie, wat relevant kan zijn bij patiënten met leverziekte (zie PMID 36340306).
 
-**To proceed, the following is needed:**
+---
 
-- **Regulatory pathway clarification**: Confirm whether CBG-MEB registration, EMA mutual recognition, or off-label use pathway applies; obtain reference SmPC (e.g., from UK, Germany, or France where Oxazepam holds authorizations).
-- **Full safety data**: Retrieve approved SmPC warnings, contraindications, and drug interaction data via official regulatory sources before prescribing or protocol development.
-- **Dependence and withdrawal risk management plan**: Any insomnia indication trial or off-label use protocol must include a structured BZD tapering and discontinuation strategy.
-- **Elderly-specific assessment**: Given the prominence of insomnia in older adults and the known BZD risks in this population, a geriatric risk-benefit evaluation (e.g., Beers Criteria, STOPP/START) is recommended.
-- **Comparison with approved hypnotics**: Position Oxazepam against currently authorized first-line insomnia treatments in the Netherlands (e.g., temazepam, z-drugs) to define the clinical niche and patient population where Oxazepam would offer incremental value.
+## Conclusie en vervolgstappen
+
+**Beslissing: Doorgaan met voorzorgsmaatregelen**
+
+**Motivering:**
+De TxGNN-voorspellingsscore van 99.86% wordt ondersteund door een samenhangend en goed begrepen werkingsmechanisme (GABA-A-receptormodulatie), twee gerandomiseerde gecontroleerde onderzoeken die Oxazepam rechtstreeks evalueren in patiënten met insomnia, en een breder corpus van BZD-literatuur over slapeloosheid. De voorspelde indicatie is farmacologisch aaneengesloten met het vastgestelde anxiolytische gebruik van het geneesmiddel, en het PK-profiel van Oxazepam (geen actieve metabolieten, middellange halfwaardetijd) biedt een theoretisch onderscheiden positie binnen de BZD-klasse.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Duidelijkheid over regelgevingspad**: Bevestig of CBG-MEB-registratie, EMA-wederzijdse erkenning of off-label gebruikspad van toepassing is; verkrijg SmPC (bijvoorbeeld van VK, Duitsland of Frankrijk waar Oxazepam autorisaties heeft).
+- **Volledige veiligheidgegevens**: Verkrijg goedgekeurde SmPC-waarschuwingen, contraïndicaties en geneesmiddelinteractiegegevens via officiële regelgevingsbronnen voorafgaand aan voorschrijven of protocolontwikkeling.
+- **Plan voor risicobeheer van afhankelijkheid en onttrekking**: Elk onderzoeks- of off-label gebruiksprotocol voor slapeloosheid moet een gestructureerd BZD-afbouw- en stopstrategie omvatten.
+- **Specifieke beoordeling voor ouderen**: Gegeven de prominentie van slapeloosheid bij ouderen en de bekende BZD-risico's in deze populatie, wordt een geriatrische risico-batenafweging aanbevolen (bijv. Beers-criteria, STOPP/START).
+- **Vergelijking met goedgekeurde slaapmiddelen**: Plaats Oxazepam naast momenteel geautoriseerde eerstelijnsmiddelen voor slapeloosheid in Nederland (bijv. temazepam, z-geneesmiddelen) om de klinische niche en doelpopulatie te bepalen waar Oxazepam incrementele waarde zou bieden.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

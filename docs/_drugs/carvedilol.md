@@ -29,98 +29,99 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Carvedilol: From Hypertension/Heart Failure to Malignant Hypertensive Renal Disease
+# Carvedilol: van hypertensie/hartfalen naar maligne hypertensieve nierziekte
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Carvedilol is a non-selective β1/β2 and α1 adrenoceptor blocker, clinically established for the treatment of hypertension and heart failure.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**,
-with **no clinical trials** and **no directly relevant publications** currently supporting this specific direction — placing this prediction at evidence level L5.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension and heart failure (established pharmacological use; no NL authorizations on record) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L5 |
-| NL Market Status | Not authorised in the Netherlands |
-| Number of Authorizations | 0 |
-| Recommended Decision | Research Question |
+Carvedilol is een niet-selectieve β1/β2- en α1-adrenoceptorblokkeerder, klinisch gevestigd voor de behandeling van hypertensie en hartfalen.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **maligne hypertensieve nierziekte**,
+met **geen klinische onderzoeken** en **geen direct relevante publicaties** die deze specifieke richting ondersteunen — waardoor deze voorspelling op bewijsniveau L5 staat.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, Carvedilol is a third-generation non-selective β1/β2 adrenoceptor blocker with additional α1-adrenoceptor blocking activity. This dual mechanism simultaneously reduces cardiac output (via β1 blockade) and systemic vascular resistance (via α1 blockade), providing a more comprehensive blood pressure reduction than selective β-blockers alone. Carvedilol also possesses antioxidant properties and has demonstrated renoprotective effects in chronic heart failure models.
-
-Malignant hypertensive renal disease is defined by severely elevated blood pressure (typically MAP >150 mmHg) accompanied by acute renal injury. The pathophysiology involves renal arteriolar damage, fibrinoid necrosis, and a vicious cycle of ischaemia-driven renin-angiotensin activation. In the chronic management phase — once the acute hypertensive crisis has been controlled with intravenous agents — an oral antihypertensive with vasodilatory and renoprotective properties such as Carvedilol is theoretically attractive, particularly if renal function (eGFR) has stabilised.
-
-However, it is important to note that in the acute setting, oral Carvedilol has an onset of action that is too slow for first-line use, and the standard of care relies on intravenous agents (e.g., Labetalol IV, Nicardipine IV). The TxGNN prediction likely reflects the mechanistic overlap between Carvedilol's haemodynamic properties and the blood pressure control needs of this condition, rather than a validated clinical application. Dose adjustment would be required in patients with impaired renal function (eGFR <30 ml/min/1.73 m²).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Carvedilol in malignant hypertensive renal disease.
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Hypertensie en hartfalen (gevestigde farmacologische toepassing; geen NL-registraties in registratiegegevens) |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
+| TxGNN-voorspellingsscore | 99.55% |
+| Bewijsniveau | L5 |
+| Marktpositie NL | Niet geregistreerd in Nederland |
+| Aantal registraties | 0 |
+| Aanbevolen besluit | Onderzoeksvraag |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related literature available for Carvedilol in malignant hypertensive renal disease.
+Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Evidence Pack. Op basis van bekende farmacologie is Carvedilol een β1/β2-adrenoceptorblokkeerder van de derde generatie, niet-selectief, met aanvullende α1-adrenoceptorblokkeringsactiviteit. Dit duaal mechanisme vermindert tegelijkertijd het hartminuutvolume (via β1-blokkering) en de systemische vaatweerstand (via α1-blokkering), wat een meer uitgebreide bloeddrukdaling oplevert dan alleen selectieve β-blokkers. Carvedilol bezit ook antioxidatieve eigenschappen en heeft nierprotectieve effecten aangetoond in modellen van chronisch hartfalen.
 
----
+Maligne hypertensieve nierziekte wordt gedefinieerd door sterk verhoogde bloeddruk (typisch MAP >150 mmHg) gepaard met acute nierinsufficiëntie. De pathofysiologie betreft beschadiging van renale arteriolen, fibrinoïde necrose en een vicieuze cirkel van ischemie-geïnduceerde renine-angiotensine-activering. In de chronische beheerfase — zodra de acute hypertensieve crisis met intraveneuze middelen onder controle is gebracht — is een oraal bloeddrukverlager met vaatverwijdende en nierprotectieve eigenschappen zoals Carvedilol theoretisch aantrekkelijk, vooral als de nierfunctie (eGFR) is gestabiliseerd.
 
-## Netherlands Market Information
-
-Carvedilol currently holds no marketing authorisation registered in the CBG-MEB dataset used for this analysis (market status: not authorised). There are no RVG numbers on record.
-
-> **Note for reviewers:** Carvedilol is a long-established generic medicine. If this absence from the NL registry reflects a data gap rather than a genuine lack of authorisation, the regulatory data should be verified directly against the CBG-MEB public register prior to any further evaluation.
+Het is echter belangrijk op te merken dat oraal Carvedilol in de acute fase een werkingbegin heeft dat te traag is voor eerstelijngebruik, en de standaardbehandeling vertrouwt op intraveneuze middelen (bijv. Labetalol IV, Nicardipine IV). De TxGNN-voorspelling weerspiegelt waarschijnlijk de mechanistische overlap tussen de hemodynamische eigenschappen van Carvedilol en de bloeddrukcontrolebehoefte van deze aandoening, in plaats van een gevalideerde klinische toepassing. Dosisaanpassing zou nodig zijn bij patiënten met verminderde nierfunctie (eGFR <30 ml/min/1.73 m²).
 
 ---
 
-## Other Top TxGNN Predictions (Summary)
+## Klinisch onderzoeksbewijs
 
-For completeness, the remaining four TxGNN-predicted indications are summarised below. All are rated L5 and all carry a **Hold** or **Research Question** recommendation:
-
-| Rank | Disease | TxGNN Score | Recommendation | Rationale Summary |
-|------|---------|-------------|---------------|-------------------|
-| 2 | Malignant Renovascular Hypertension | 99.55% | Hold | β-blockade may acutely reduce GFR in bilateral renal artery stenosis; safety concerns outweigh theoretical benefit |
-| 3 | Pulmonary Hypertension — Multifactorial (Group 5) | 99.54% | Research Question | Emerging data (COMPASS-2) suggests possible benefit on right ventricular remodelling when added to targeted PAH therapy; requires careful patient selection |
-| 4 | Pulmonary Hypertension — Lung Disease/Hypoxia (Group 3) | 99.54% | Hold | Risk of bronchospasm (β2 blockade), masking of compensatory tachycardia, and worsening right ventricular decompensation; 20 retrieved publications address general hypoxia biology only, with no Carvedilol-specific data |
-| 5 | Braddock Syndrome | 99.37% | Hold | SETD1B epigenetic pathway has no known intersection with adrenoceptor blockade; high TxGNN score likely reflects non-specific graph topology artefact |
+Op dit moment geen gerelateerde klinische onderzoeken geregistreerd voor Carvedilol bij maligne hypertensieve nierziekte.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. No key warnings, contraindications, or drug interaction data were retrievable from the current Evidence Pack.
-
-> **Data gap:** TFDA/CBG-MEB SmPC warning and contraindication data (DG001) and detailed MOA information (DG002) are flagged as outstanding items. These must be resolved before progressing to formal safety screening (Stage S1).
+Op dit moment geen gerelateerde literatuur beschikbaar voor Carvedilol bij maligne hypertensieve nierziekte.
 
 ---
 
-## Conclusion and Next Steps
+## Marktinformatie Nederland
 
-**Decision: Research Question**
+Carvedilol heeft momenteel geen verkoopvergunning in het CBG-MEB-gegevensbestand dat voor deze analyse wordt gebruikt (marktpositie: niet geregistreerd). Er zijn geen RVG-nummers in registratie.
 
-**Rationale:**
-The TxGNN model produces a high prediction score (99.55%) for Carvedilol in malignant hypertensive renal disease, which is mechanistically plausible given the drug's dual adrenoceptor blockade and theoretical renoprotective properties in the chronic post-crisis management phase. However, there is currently zero clinical trial or literature evidence specific to this drug-disease combination, placing this at the lowest evidence tier (L5). The ranking does not yet constitute a sufficient basis for clinical development or off-label use, but it merits a structured preclinical and literature review.
+> **Opmerking voor reviewers:** Carvedilol is een lang gevestigd generiek geneesmiddel. Als deze afwezigheid uit het NL-register een datalacu weerspiegelt in plaats van een echte afwezigheid van autorisatie, moeten de regelgevingsgegevens worden geverifieerd tegen het openbare CBG-MEB-register vóór verdere evaluatie.
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve DG001**: Retrieve the SmPC (Samenvatting van de Productkenmerken) via the CBG-MEB public register to obtain contraindications, key warnings, and dose-adjustment guidance for renal impairment
-- **Resolve DG002**: Obtain confirmed MOA data from DrugBank (DB01136) to complete the mechanistic linkage analysis
-- **Verify NL market status**: Cross-check CBG-MEB register to confirm whether Carvedilol holds existing RVG authorisations that were absent from the current dataset
-- **Targeted literature search**: Conduct a focused PubMed/EMBASE search using MeSH terms `Carvedilol AND (malignant hypertension OR hypertensive nephropathy OR hypertensive emergency)` to identify any case series or retrospective studies
-- **Renal function sub-analysis**: Evaluate available evidence on Carvedilol pharmacokinetics and safety in patients with eGFR <30 ml/min/1.73 m²
-- **Expert consultation**: Seek input from a nephrologist and cardiologist specialising in hypertensive emergencies before designing any prospective investigation
+## Andere top TxGNN-voorspellingen (Samenvatting)
 
-> *This report is intended for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application. All content should include appropriate YMYL disclaimers when published.*
+Voor volledigheid worden de overige vier TxGNN-voorspelde indicaties hieronder samengevat. Alle zijn beoordeeld als L5 en alle hebben een aanbeveling **Hold** of **Onderzoeksvraag**:
+
+| Rang | Ziekte | TxGNN-score | Aanbeveling | Samenvatting motivering |
+|------|--------|-------------|------------|------------------------|
+| 2 | Maligne renovasculaire hypertensie | 99.55% | Hold | β-blokkering kan acute GFR-verlaging veroorzaken bij bilaterale nierarteriële stenose; veiligheidsbedenken wegen zwaarder dan theoretisch voordeel |
+| 3 | Pulmonale hypertensie — Multifactorieel (Groep 5) | 99.54% | Onderzoeksvraag | Opkomende gegevens (COMPASS-2) suggereren mogelijk voordeel op rechter ventrikelvormverandering bij toevoeging aan gerichte PAH-therapie; vereist zorgvuldige patiëntselectie |
+| 4 | Pulmonale hypertensie — Longziekte/Hypoxie (Groep 3) | 99.54% | Hold | Risico op bronchospasme (β2-blokkering), maskering van compensatoire tachycardie en verslechtering van rechter ventrikeledecompensatie; 20 opgehaalde publicaties behandelen alleen algemene hypoxiebiologie, zonder Carvedilol-specifieke gegevens |
+| 5 | Braddock-syndroom | 99.37% | Hold | SETD1B-epigenetisch pad heeft geen bekende snijpunt met adrenoceptorblokking; hoge TxGNN-score weerspiegelt waarschijnlijk niet-specifieke graaftopologie-artefact |
+
+---
+
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen belangrijke waarschuwingen, contraïndicaties of geneesmiddelinteractiegegevens konden uit het huidige Evidence Pack worden opgehaald.
+
+> **Datalacu:** TFDA/CBG-MEB SmPC-waarschuwings- en contraïndicatiegegevens (DG001) en gedetailleerde werkingsmechanismegegevens (DG002) zijn aangemerkt als openstaande items. Deze moeten worden opgelost voordat wordt overgegaan tot formele veiligheidsbeoordeling (Fase S1).
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Onderzoeksvraag**
+
+**Motivering:**
+Het TxGNN-model levert een hoge voorspellingsscore (99.55%) op voor Carvedilol bij maligne hypertensieve nierziekte, wat mechanistisch plausibel is gezien de duaal-adrenoceptorblokkeringsactiviteit van het geneesmiddel en de theoretische nierprotectieve eigenschappen in de chronische fase na crisis. Er is echter momenteel nul klinisch onderzoeks- of literatuurbewijs specifiek voor deze geneesmiddel-ziektecombinatie, wat dit op het laagste bewijsniveau (L5) plaatst. De rangschikking vormt nog geen voldoende basis voor klinische ontwikkeling of off-labelgebruik, maar verdient een gestructureerde preklinische en literatuurreview.
+
+**Voor vervolging is het volgende nodig:**
+
+- **DG001 oplossen**: Haal de SmPC (Samenvatting van de Productkenmerken) via het openbare CBG-MEB-register op om contraïndicaties, belangrijke waarschuwingen en dosisaanpassingsrichtlijnen voor nierfunctiestoornissen te verkrijgen
+- **DG002 oplossen**: Verkrijg bevestigde werkingsmechanismegegevens uit DrugBank (DB01136) om de mechanistische koppelingsanalyse te voltooien
+- **NL-marktpositie verifiëren**: Controleer het CBG-MEB-register om te bevestigen of Carvedilol bestaande RVG-registraties bezit die uit de huidige gegevensset ontbraken
+- **Gerichte literatuurzoeking**: Voer een gerichte PubMed/EMBASE-zoeking uit met MeSH-termen `Carvedilol AND (malignant hypertension OR hypertensive nephropathy OR hypertensive emergency)` om casusserien of retrospectieve onderzoeken te identificeren
+- **Nierfunctie-subanalyse**: Beoordeel beschikbare gegevens over Carvedilol-farmacokinetiek en veiligheid bij patiënten met eGFR <30 ml/min/1.73 m²
+- **Deskundigenraadpleging**: Zoekhulp van een nefroloog en cardioloog gespecialiseerd in hypertensieve noodsituaties voordat u een prospectief onderzoek ontwerpt
+
+> *Dit rapport is bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies. Alle kandidaten voor geneesmiddelherverpurposing vereisen klinische validatie voordat therapeutische toepassing plaatsvindt. Alle inhoud moet passende YMYL-disclaimers bevatten bij publicatie.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

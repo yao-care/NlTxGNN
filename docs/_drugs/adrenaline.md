@@ -29,95 +29,96 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# Adrenaline: Drug Repurposing Evaluation — Insufficient Data
+# Adrenaline: Evaluatie van herbestemming van medicijnen — Onvoldoende gegevens
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Adrenaline (epinephrine) is a well-known sympathomimetic amine used broadly in emergency medicine for anaphylaxis, cardiac arrest, and severe asthma. No TxGNN-predicted new indications are currently available for this drug, and the evidence pack contains **no clinical trial data**, **no literature**, and **no regulatory license records** to support a repurposing evaluation at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Drug (INN) | Adrenaline (Epinephrine) |
-| DrugBank ID | Not available |
-| Original Indication | Not recorded in this evidence pack |
-| Predicted New Indication | None — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A (No prediction to evaluate) |
-| Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Adrenaline (epinefrine) is een goed gekend sympathomimetisch amine dat op grote schaal in de spoedgeneeskunde wordt gebruikt voor anafilaxie, hartstilstand en ernstig astma. Er zijn momenteel geen door TxGNN voorspelde nieuwe indicaties beschikbaar voor dit medicijn, en het evidentiepakket bevat **geen gegevens uit klinische proeven**, **geen literatuur** en **geen regelgeving licentiegegevens** ter ondersteuning van een herbestemmingsevaluatie op dit moment.
 
 ---
 
-## Why is This Report Incomplete?
+## Snel overzicht
 
-This evidence pack was generated with significant data gaps that prevent a meaningful repurposing evaluation:
-
-1. **No TxGNN predictions**: The `predicted_indications` array is empty. Without a predicted new indication, the core repurposing hypothesis cannot be formulated or assessed.
-
-2. **No DrugBank ID mapped**: Although a DrugBank query returned 1 result, the `drugbank_id` field remains null. This prevents automated retrieval of mechanism of action, pharmacological targets, and safety profile data.
-
-3. **No regulatory records**: The drug shows 0 marketing authorizations and a status of "not marketed" (Not marketed), meaning there are no local label data (SmPC equivalent) from which to extract indications, warnings, or contraindications.
-
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, adrenaline (epinephrine) is an endogenous catecholamine and non-selective adrenergic agonist (acting on α1, α2, β1, and β2 receptors). It is widely used in emergency medicine for anaphylaxis, cardiac arrest, and acute bronchospasm. However, without a specific TxGNN prediction, no mechanistic bridge to a new indication can be evaluated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this evidence pack.
+| Onderdeel | Inhoud |
+|---------|--------|
+| Medicijn (INN) | Adrenaline (Epinefrine) |
+| DrugBank ID | Niet beschikbaar |
+| Oorspronkelijke indicatie | Niet geregistreerd in dit evidentiepakket |
+| Voorspelde nieuwe indicatie | Geen — geen TxGNN-voorspellingen beschikbaar |
+| TxGNN voorspellingsscore | N/A |
+| Bewijsniveau | N/A (Geen voorspelling om te evalueren) |
+| Marktstatus | Niet in de handel (Niet in de handel) |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | **In afwachting** |
 
 ---
 
-## Literature Evidence
+## Waarom is dit rapport onvolledig?
 
-Currently no related literature available in this evidence pack.
+Dit evidentiepakket is gegenereerd met aanzienlijke gegevensgapsen die een zinvolle herbestemmingsevaluatie verhinderen:
 
----
+1. **Geen TxGNN-voorspellingen**: De `predicted_indications`-array is leeg. Zonder een voorspelde nieuwe indicatie kan de kernhypothese voor herbestemming niet worden geformuleerd of beoordeeld.
 
-## Market Information
+2. **Geen DrugBank ID toegewezen**: Hoewel een DrugBank-zoekopdracht 1 resultaat opleverde, blijft het veld `drugbank_id` null. Dit verhindert geautomatiseerde opzoeking van werkingsmechanisme, farmacologische doelen en veiligheidsprofielgegevens.
 
-No marketing authorizations are recorded for this drug in the current evidence pack. The market status is listed as "not marketed" (Not marketed) with 0 licenses.
+3. **Geen regelgeving registraties**: Het medicijn vertoont 0 marketingautorisaties en een status van "niet in de handel", wat betekent dat er geen gegevens van lokale productinformatie (SmPC-equivalent) beschikbaar zijn waaruit indicaties, waarschuwingen of contra-indicaties kunnen worden geëxtraheerd.
 
----
-
-## Safety Considerations
-
-> Please refer to the SmPC (Summary of Product Characteristics) or local equivalent prescribing information for safety information. All safety fields in this evidence pack are currently unpopulated.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit evidentiepakket. Op basis van algemene farmacologische kennis is adrenaline (epinefrine) een endogene catecholamine en niet-selectieve adrenergische agonist (werkend op α1, α2, β1 en β2 receptoren). Het wordt op grote schaal in de spoedgeneeskunde gebruikt voor anafilaxie, hartstilstand en acuut bronchospasme. Echter, zonder een specifieke TxGNN-voorspelling kan geen mechanistisch verband naar een nieuwe indicatie worden geëvalueerd.
 
 ---
 
-## Data Gaps Identified
+## Bewijs uit klinische proeven
 
-The following blocking or high-severity data gaps were flagged during evidence pack assembly:
-
-| ID | Category | Item | Severity | Impact | Remediation |
-|----|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | Prescribing label warnings/contraindications | **Blocking** | Cannot enter Stage 1 safety screening | Download and parse label PDF from regulatory authority website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Affects mechanistic relevance analysis | Query DrugBank API with correct identifier |
+Momenteel geen gerelateerde klinische proeven geregistreerd in dit evidentiepakket.
 
 ---
 
-## Conclusion and Next Steps
+## Literatuurbewijs
 
-**Decision: Hold**
+Momenteel geen gerelateerde literatuur beschikbaar in dit evidentiepakket.
+
+---
+
+## Marktinformatie
+
+Er zijn geen marketingautorisaties voor dit medicijn geregistreerd in het huidige evidentiepakket. De marktstatus wordt weergegeven als "niet in de handel" met 0 licenties.
+
+---
+
+## Veiligheidsoverwegingen
+
+> Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) of gelijkwaardige lokale voorschrijfsinformatie voor veiligheidsinformatie. Alle veiligheidsvelden in dit evidentiepakket zijn momenteel ongevuld.
+
+---
+
+## Vastgestelde gegevensgapsen
+
+De volgende blokkerende of hoogernst gegevensgapsen zijn opgemerkt tijdens de samenstelling van het evidentiepakket:
+
+| ID | Categorie | Onderdeel | Ernst | Impact | Maatregel |
+|----|----------|---------|--------|--------|--------|
+| DG001 | Medicijnniveau | Waarschuwingen voorschrijflabel/contra-indicaties | **Blokkerend** | Kan niet in Fase 1 veiligheidscontrole ingaan | Download en parse label-PDF van website regelgeving autoriteit |
+| DG002 | Medicijnniveau | Werkingsmechanisme (MOA) | **Hoog** | Beïnvloedt analyse van mechanistische relevantie | Query DrugBank API met correcte identifier |
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
 
 **Rationale:**
-There are no TxGNN-predicted indications for Adrenaline in this evidence pack, and critical data fields (DrugBank ID, MOA, safety profile, regulatory licenses) remain unpopulated. A repurposing evaluation cannot proceed without a target indication to assess.
+Er zijn geen door TxGNN voorspelde indicaties voor Adrenaline in dit evidentiepakket, en kritieke gegevensvelden (DrugBank ID, MOA, veiligheidsprofiel, regelgeving licenties) blijven ongevuld. Een herbestemmingsevaluatie kan niet voortgaan zonder een doelstelling indicatie om te beoordelen.
 
-**To proceed, the following is needed:**
-- Resolve the DrugBank ID mapping (DrugBank ID for epinephrine is likely **DB00668**) and re-run the evidence collection pipeline
-- Ensure TxGNN prediction pipeline includes Adrenaline/Epinephrine and generates candidate indications
-- Obtain prescribing label data (warnings, contraindications, indications) from the relevant regulatory authority
-- Re-generate the evidence pack once the above gaps are filled, then re-evaluate
+**Om voort te gaan is het volgende nodig:**
+- Verhelp de DrugBank ID-toewijzing (DrugBank ID voor epinefrine is waarschijnlijk **DB00668**) en voer de evidence collection pipeline opnieuw uit
+- Zorg ervoor dat de TxGNN prediction pipeline Adrenaline/Epinefrine omvat en kandidaatindicaties genereert
+- Verkrijg gegevens van het voorschrijflabel (waarschuwingen, contra-indicaties, indicaties) van de bevoegde regelgeving autoriteit
+- Genereer het evidentiepakket opnieuw zodra de bovenstaande gapsen zijn ingevuld, en beoordeel vervolgens opnieuw
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Disclaimer: Dit rapport is uitsluitend voor onderzoeksdoeleinden en vormt geen medisch advies. Alle kandidaten voor herbestemming van geneesmiddelen vereisen klinische validatie voordat zij kunnen worden toegepast.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,96 +29,93 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using `txgnn-pipeline` to confirm Netherlands (Nl) deployment context. Now generating the CBG-MEB evaluation report based on `predicted_indications[0]` (rank 1) per the report format specification.
+# Levocarnitine: van carnitinedeficiëntie naar autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom
+
+## Samenvatting in één zin
+
+Levocarnitine is een endogeen aminozuurderivaat dat wordt gebruikt voor de behandeling van primaire en secundaire carnitinedeficiëntie, ter ondersteuning van het transport van vetzuren naar de mitochondriale matrix om de cellulaire energieproductie in stand te houden.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom**,
+zonder dat momenteel **geen klinische onderzoeken** en **geen publicaties** deze richting ondersteunen.
 
 ---
 
-# Levocarnitine: From Carnitine Deficiency to Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome
+## Snelle Samenvatting
 
-## One-Sentence Summary
-
-Levocarnitine is an endogenous amino acid derivative used to treat primary and secondary carnitine deficiency, supporting fatty acid transport into the mitochondrial matrix to sustain cellular energy production.
-The TxGNN model predicts it may be effective for **Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome**,
-with **no clinical trials** and **no publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Carnitine deficiency (primary and secondary) |
-| Predicted New Indication | Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| NL Market Status | Not on market |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke Indicatie | Carnitinedeficiëntie (primair en secundair) |
+| Voorspelde Nieuwe Indicatie | Autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom |
+| TxGNN-voorspellingsscore | 99.94% |
+| Bewijsniveau | L5 |
+| NL-markeringsstatus | Niet op de markt |
+| Aantal Toestemmingen | 0 |
+| Aanbevolen Besluit | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available for Levocarnitine in this context. Based on known information, Levocarnitine is a biologically active form of carnitine that is indispensable for mitochondrial fatty acid β-oxidation (FAO): it acts as the obligatory carrier molecule that shuttles long-chain fatty acyl-CoA species across the inner mitochondrial membrane via the carnitine palmitoyltransferase 1 and 2 (CPT1/CPT2) system. Its established clinical uses include primary systemic carnitine deficiency and secondary deficiency states arising from renal dialysis or inborn errors of metabolism.
+Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar voor levocarnitine in deze context. Op basis van bekende informatie is levocarnitine een biologisch actieve vorm van carnitine die onmisbaar is voor mitochondriale vetzuur β-oxidatie (FAO): het fungeert als het verplichte transportmolecuul dat long-chain vetzuur-acyl-CoA-species via het carnitine palmitoyltransferase 1 en 2 (CPT1/CPT2)-systeem over het binnenste mitochondriale membraan vervoert. Het erkende klinische gebruik omvat primaire systemische carnitinedeficiëntie en secundaire deficiëntietoestanden voortvloeiend uit nierdialyse of aangeboren metabole stoornissen.
 
-Autosomal dominant familial hematuria–retinal arteriolar tortuosity–contractures syndrome is a rare multisystem genetic disorder characterised by recurrent haematuria, tortuosity of retinal arterioles, and joint contractures. Its molecular basis and affected pathways are not well characterised in the current literature, and no mechanistic overlap with carnitine metabolism or FAO has been reported.
+Autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom is een zeldzame genetische stoornis van meerdere orgaansystemen, gekenmerkt door terugkerende hematuria, tortuositeit van retinale arteriolen en gewrichtscontracturen. De moleculaire basis en betrokken biologische routes zijn niet goed gekarakteriseerd in de huidige literatuur, en geen mechanistische overlap met carnitinemetabolisme of FAO is gerapporteerd.
 
-The TxGNN model's high score (99.94%, rank 199 of all predictions) most likely reflects indirect comorbidity or shared pathway co-occurrence patterns captured within the knowledge graph, rather than any direct drug–disease biological relationship. The model's own repurposing rationale flags this as a probable false positive arising from graph sparsity around this ultra-rare disease node. Without any preclinical, translational, or clinical data to support the hypothesis, mechanistic plausibility cannot be established at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De hoge score van het TxGNN-model (99.94%, rang 199 van alle voorspellingen) weerspiegelt waarschijnlijk indirecte comorbiditeit of in de kennisgraaf vastgelegde patronen van gedeelde biologische route-covoorkomen, in plaats van een directe biologische medicijn–ziekte relatie. Het hergebruik rationale van het model zelf markeert dit als waarschijnlijke vals-positieve bevinding voortvloeiend uit spaarheid van de graaf rond dit ultra-zeldzame ziekteknooppunt. Zonder enige preklinische, translationele of klinische gegevens ter ondersteuning van de hypothese, kan mechanistische aannemelijkheid op dit moment niet worden vastgesteld.
 
 ---
 
-## Literature Evidence
+## Bewijs uit Klinische Onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Levocarnitine holds **no marketing authorisations** in the Netherlands. No RVG numbers have been granted by the CBG-MEB for any indication. Any future clinical use would require either a full marketing authorisation application (MAA) via the EMA centralised procedure or the national procedure, or a compassionate-use / hospital exemption pathway under Dutch medicines law (Geneesmiddelenwet).
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijs uit Literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse Markt
 
-**Decision: Hold**
+Levocarnitine beschikt **geen markettingtoelatingen** in Nederland. Er zijn geen RVG-nummers door het CBG-MEB voor enige indicatie verleend. Elk toekomstig klinisch gebruik zou ofwel een volledige handelsregistratieaanvraag (MAA) via de EMA centrale procedure of de nationale procedure, ofwel een compassionate-use / ziekenhuisuitzondering onder de Nederlandse geneesmiddelenwet (Geneesmiddelenwet) vereisen.
+
+---
+
+## Veiligheidsconsideraties
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en Vervolgstappen
+
+**Besluit: Afwachten**
 
 **Rationale:**
-The TxGNN model assigns a high score to this prediction, but no mechanistic link, preclinical data, or clinical evidence connects levocarnitine to the molecular pathology of autosomal dominant familial hematuria–retinal arteriolar tortuosity–contractures syndrome. This pattern is consistent with a knowledge-graph false positive driven by indirect disease associations rather than a pharmacologically actionable hypothesis.
+Het TxGNN-model geeft een hoge score aan deze voorspelling, maar geen mechanistische link, preklinische gegevens of klinisch bewijs verbindt levocarnitine met de moleculaire pathologie van autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom. Dit patroon is consistent met een vals-positieve bevinding in de kennisgraaf, gedreven door indirecte ziekteassociaties in plaats van een farmacologisch hanteerbare hypothese.
 
-**To proceed, the following is needed:**
-- Identification of the causative gene(s) and affected molecular pathway(s) for this syndrome, to assess whether mitochondrial FAO or carnitine transport plays any role
-- Expert consultation with a metabolic geneticist or rare-disease specialist
-- Screening of rare-disease registries (e.g., Orphanet, OMIM) for any reported carnitine-related phenotypic overlap
-
----
-
-> **⚠️ Note on higher-priority predictions within this Evidence Pack**
->
-> This report addresses the top TxGNN-ranked indication. Two other predictions in this evidence pack carry substantially stronger clinical evidence and an actionable **"Proceed with Guardrails"** recommendation, and should be prioritised for separate, full evaluation:
->
-> | Rank | Indication | Evidence Level | Trials | Decision |
-> |------|-----------|----------------|--------|----------|
-> | 4 | Rheumatoid Arthritis | L2 | 3 (incl. 1 completed Phase 2 RCT, 1 Phase 3) | Proceed with Guardrails |
-> | 9 | Congestive Heart Failure | L2 | 12 (incl. 1 completed Phase 2/3 RCT, n=268) | Proceed with Guardrails |
->
-> Both indications have direct clinical intervention studies examining levocarnitine, published mechanistic literature linking carnitine/FAO to disease pathology, and biologically plausible rationale. Dedicated evaluation reports for these two indications are recommended as the immediate next step.
+**Om door te gaan is het volgende nodig:**
+- Identificatie van het/de veroorzakende gen(en) en betrokken moleculaire routes voor dit syndroom, om te beoordelen of mitochondriale FAO of carnitine transport enige rol speelt
+- Deskundige raadpleging met een metabolische geneticus of gespecialiseerde arts voor zeldzame ziekten
+- Screening van registers voor zeldzame ziekten (bijv. Orphanet, OMIM) naar gerapporteerde fenotypische overlap met carnitine-gerelateerde aandoeningen
 
 ---
 
-*This report is intended for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before therapeutic application. All content should be reviewed against the current SmPC and CBG-MEB/EMA regulatory guidance.*
+> **⚠️ Opmerking over hogere prioriteitsvoorspellingen binnen dit Evidence Pack**
+>
+> Dit rapport behandelt de topgerangschikte indicatie van TxGNN. Twee andere voorspellingen in dit evidence pack hebben aanzienlijk sterker klinisch bewijs en een bruikbare **"Doorgaan met Guardrails"** aanbeveling, en zouden prioriteit moeten krijgen voor afzonderlijke, volledige evaluatie:
+>
+> | Rang | Indicatie | Bewijsniveau | Onderzoeken | Besluit |
+> |------|-----------|------------|------------|--------|
+> | 4 | Reumatoïde Artritis | L2 | 3 (incl. 1 voltooid Phase 2 RCT, 1 Phase 3) | Doorgaan met Guardrails |
+> | 9 | Congestieve Hartfalen | L2 | 12 (incl. 1 voltooid Phase 2/3 RCT, n=268) | Doorgaan met Guardrails |
+>
+> Beide indicaties beschikken over directe klinische interventieonderzoeken naar levocarnitine, gepubliceerde mechanistische literatuur die carnitine/FAO aan ziektepatologie koppelt, en biologisch aannemelijke rationale. Het wordt aanbevolen afzonderlijke evaluatierapporten voor deze twee indicaties op te stellen als onmiddellijke vervolgstap.
+
+---
+
+*Dit rapport is uitsluitend bedoeld voor onderzoeksreferentie en vormt geen medisch advies. Medicijnhergebruik-kandidaten vereisen klinische validatie vóór therapeutische toepassing. Alle inhoud dient te worden getoetst tegen de huidige SmPC en richtlijnen van CBG-MEB/EMA.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

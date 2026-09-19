@@ -29,84 +29,81 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context, then generating the report now based on the Evidence Pack.
+# Mannitol: Van osmotische diareticum naar nefrogeen syndroom van ongeschikte antidiurese
+
+## Samenvatting in één zin
+
+Mannitol is een goed gevestigd osmotisch diareticum dat klinisch wordt gebruikt voor het verminderen van intracraniale druk en het bevorderen van niersolute-uitscheiding, zonder huidige CBG-MEB handelsgoedkeuring in Nederland.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **nefrogeen syndroom van ongeschikte antidiurese (NSIAD)**,
+met **0 klinische trials** en **1 publicatie** die dit thans ondersteunen.
 
 ---
 
-# Mannitol: From Osmotic Diuretic to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Snel overzicht
 
-## One-Sentence Summary
-
-Mannitol is a well-established osmotic diuretic used clinically for reducing intracranial pressure and promoting renal solute excretion, with no current CBG-MEB marketing authorization in the Netherlands.
-The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
-with **0 clinical trials** and **1 publication** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No Netherlands (CBG-MEB) authorization on record; established clinical use: osmotic diuresis, intracranial pressure reduction |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Geen Nederlandse (CBG-MEB) registratie bekend; gevestigd klinisch gebruik: osmotische diurese, reductie van intracraniale druk |
+| Voorspelde nieuwe indicatie | Nefrogeen syndroom van ongeschikte antidiurese (NSIAD) |
+| TxGNN-voorspellingsscore | 99.97% |
+| Bewijsniveau | L4 |
+| Nederlandse marktstatus | Niet geregistreerd |
+| Aantal goedkeuringen | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Mannitol (DB00742) is a sugar alcohol that acts as an osmotic diuretic. When administered intravenously, it increases plasma osmolality and draws free water out of cells, promoting its renal excretion through an ADH-independent mechanism. This pharmacological property is the basis for its established use in reducing cellular edema and intracranial pressure in acute clinical settings.
+Mannitol (DB00742) is een suikeralcohol die als osmotisch diareticum werkt. Bij intraveneuze toediening verhoogt het de plasma-osmolaliteit en trekt het vrij water uit cellen, waardoor dit via een ADH-onafhankelijk mechanisme nieruitscheiding bevordert. Deze farmacologische eigenschap vormt de basis voor het gevestigde gebruik ervan bij het verminderen van cellulaire edema en intracraniale druk in acute klinische situaties.
 
-NSIAD is a rare X-linked disorder caused by gain-of-function mutations in the *AVPR2* gene, which encodes the vasopressin V2 receptor. Unlike nephrogenic diabetes insipidus — which results from loss-of-function of the same receptor — NSIAD involves constitutive, ligand-independent receptor activation. This leads to persistent antidiuresis and dilutional hyponatremia. Because Mannitol promotes free water excretion via an osmotic, non-ADH-dependent pathway, it could theoretically counteract this dilutional hyponatremia by transiently increasing free water output.
+NSIAD is een zeldzame X-gebonden stoornis veroorzaakt door gain-of-function mutaties in het *AVPR2*-gen, dat codeert voor de vasopressine V2-receptor. In tegenstelling tot nefrogeen diabetes insipidus — dat voortvloeit uit verlies van functie van dezelfde receptor — omvat NSIAD constitutieve, ligand-onafhankelijke receptoractivering. Dit leidt tot aanhoudende antidiurese en verdunningshyponatriëmie. Omdat mannitol vrij wateruitscheiding bevordert via een osmotisch, niet-ADH-afhankelijk mechanisme, zou het theoretisch deze verdunningshyponatriëmie kunnen tegengaan door tijdelijk de vrij wateruitscheiding te verhogen.
 
-However, the mechanistic link is compensatory rather than targeted. Mannitol does not suppress the constitutively active AVPR2 receptor, nor does it correct the underlying gain-of-function mutation. In clinical practice, NSIAD is managed primarily with fluid restriction and oral urea, which address the pathophysiology more directly. The TxGNN prediction most likely reflects osmotic pathway overlap within the disease-drug knowledge graph, rather than a specific or novel therapeutic hypothesis for NSIAD.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Mannitol in nephrogenic syndrome of inappropriate antidiuresis.
+Echter, de mechanistische link is compensatoir in plaats van gericht. Mannitol onderdrukt de constitutief actieve AVPR2-receptor niet en corrigeert ook niet de onderliggende gain-of-function mutatie. In de klinische praktijk wordt NSIAD voornamelijk beheerd met vochtbeperking en oraal ureum, die zich rechtstreeks op de pathofysiologie richten. De TxGNN-voorspelling weerspiegelt waarschijnlijk osmotische mechanisme-overlap binnen de ziekte-geneesmiddel-kennsgraf, eerder dan een specifieke of novel therapeutische hypothese voor NSIAD.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische trials
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European Journal of Internal Medicine | Describes 10 common pitfalls in evaluating hyponatremic patients, including NSIAD as a diagnostic consideration. Relevant to understanding NSIAD in the differential of hyponatremia, but does not directly investigate Mannitol as a therapeutic agent for NSIAD. |
+Momenteel zijn geen gerelateerde klinische trials geregistreerd voor mannitol bij nefrogeen syndroom van ongeschikte antidiurese.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Mannitol currently holds no CBG-MEB marketing authorization in the Netherlands. No registered products, dosage forms, or approved indications are on record. As a widely available generic compound, Mannitol may be used in hospital settings under individual clinical judgement, but formal regulatory authorization in the Netherlands is absent.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. As Mannitol is not currently authorized in the Netherlands, consult available product information from the EMA or from equivalent national authorities in countries where Mannitol is formally registered (e.g., the United Kingdom, Germany, or the United States FDA label).
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European Journal of Internal Medicine | Beschrijft 10 veel voorkomende fouten in de evaluatie van hyponatriëmische patiënten, waaronder NSIAD als diagnostische overweging. Relevant voor het begrijpen van NSIAD in de differentiaaldiagnose van hyponatriëmie, maar onderzoekt niet rechtstreeks mannitol als therapeutisch middel voor NSIAD. |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Mannitol heeft momenteel geen CBG-MEB handelsgoedkeuring in Nederland. Geen geregistreerde producten, doseringen of goedgekeurde indicaties zijn bekend. Als een veel beschikbare generieke stof kan mannitol in ziekenhuisomgevingen onder individueel klinisch oordeel worden gebruikt, maar formele regelgevingsgoedkeuring in Nederland is afwezig.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.97%), the evidence base for Mannitol in NSIAD is extremely limited — no clinical trials have been conducted, and the only available publication is a tangential review on hyponatremia evaluation. The proposed mechanistic link is indirect (transient osmotic compensation rather than targeted receptor therapy), and current NSIAD standard-of-care — fluid restriction and oral urea — is already well-established and better suited to the underlying pathophysiology.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsoverwegingen
 
-- Formal mechanism of action data for Mannitol (DrugBank API query not yet completed; flagged as a High-severity data gap)
-- Full safety profile including contraindications and drug-drug interactions (flagged as a Blocking data gap)
-- At minimum, a case report or preclinical study specifically examining Mannitol in NSIAD or closely related AVPR2 gain-of-function models
-- A clinical rationale document distinguishing the proposed use of Mannitol from established NSIAD treatments (fluid restriction, oral urea, tolvaptan)
-- Regulatory consultation with CBG-MEB on whether off-label or investigational use in the Netherlands is feasible given the absence of any current NL marketing authorization
+Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor veiligheidsinformatie. Aangezien mannitol momenteel niet in Nederland is goedgekeurd, raadpleeg beschikbare productinformatie van het EMA of van equivalente nationale instanties in landen waar mannitol formeel is geregistreerd (bijv. het Verenigd Koninkrijk, Duitsland of het Amerikaanse FDA-label).
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
+
+**Grondslag:**
+Ondanks een hoge TxGNN-voorspellingsscore (99.97%), is de bewijsbasis voor mannitol bij NSIAD uiterst beperkt — geen klinische trials zijn uitgevoerd, en de enige beschikbare publicatie is een zijdelingse review over hyponatriëmie-evaluatie. De voorgestelde mechanistische link is indirect (tijdelijke osmotische compensatie in plaats van gerichte receptortherapie), en de huidige NSIAD-standaard-zorgverlening — vochtbeperking en oraal ureum — is al goed gevestigd en beter geschikt voor de onderliggende pathofysiologie.
+
+**Om verder te gaan is het volgende nodig:**
+
+- Formele werkingsmechanisme-gegevens voor mannitol (DrugBank API-query nog niet voltooid; gemarkeerd als kritiek gegevenskloofprobleem)
+- Volledig veiligheidsprofiel inclusief contra-indicaties en geneesmiddel-geneesmiddel interacties (gemarkeerd als blokkerend gegevenskloofprobleem)
+- Minimaal een caserapport of preklinische studie die specifiek mannitol bij NSIAD of nauwverwante AVPR2 gain-of-function modellen onderzoekt
+- Een klinisch rationale-document dat het voorgestelde gebruik van mannitol onderscheidt van gevestigde NSIAD-behandelingen (vochtbeperking, oraal ureum, tolvaptan)
+- Regelgevingsconsultatie met CBG-MEB over de haalbaarheid van off-label of onderzoeksgeneesmiddel-gebruik, gezien de afwezigheid van een huidige Nederlandse handelsgoedkeuring
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

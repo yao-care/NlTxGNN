@@ -29,89 +29,86 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context. Now generating the Netherlands drug repurposing evaluation report.
+# Droperidol: van acute agitatie naar Tourette-syndroom
+
+## Samenvatting in één zin
+
+Droperidol is een butyrofenon-antipsychoticum dat historisch wordt gebruikt voor het beheersen van acute agitatie, psychomotorische sedatie en preoperatieve premedicatie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Tourette-syndroom**, met **0 klinische trials** en **1 publicatie** die deze specifieke richting momenteel ondersteunen.
+De enige beschikbare referentie behandelt haloperidol — een structureel gerelateerde butyrofenon — in plaats van droperidol zelf, waardoor rechtstreeks bewijs voor deze repurposingkandidaat zeer beperkt is.
 
 ---
 
-# Droperidol: From Acute Agitation to Tourette Syndrome
+## Snelle overzicht
 
-## One-Sentence Summary
-
-Droperidol is a butyrophenone antipsychotic historically used for managing acute agitation, psychomotor sedation, and perioperative premedication.
-The TxGNN model predicts it may be effective for **Tourette Syndrome**, with **0 clinical trials** and **1 publication** currently supporting this specific direction.
-The single available reference addresses haloperidol — a structurally related butyrophenone — rather than droperidol itself, making direct evidence for this repurposing candidate very limited.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; internationally used for acute agitation and perioperative sedation |
-| Predicted New Indication | Tourette Syndrome |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet geregistreerd in Nederland; internationaal gebruikt voor acute agitatie en preoperatieve sedatie |
+| Voorspelde nieuwe indicatie | Tourette-syndroom |
+| TxGNN-voorspellingsscore | 99.89% |
+| Bewijs niveau | L4 |
+| Status op NL-markt | Niet geregistreerd |
+| Aantal registraties | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, droperidol belongs to the butyrophenone class and acts as a potent dopamine D2 receptor antagonist — the same pharmacological class as haloperidol. Its clinical utility in acute agitation and psychosis has been established, and mechanistically this may be applicable to Tourette syndrome.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Evidence Pack. Op basis van bekende informatie behoort droperidol tot de butyrofenon-klasse en werkt het als een potente dopamine-D2-receptorantagonist — dezelfde farmacologische klasse als haloperidol. Het klinische nut ervan bij acute agitatie en psychose is vastgesteld, en mechanistisch kan dit toepasbaar zijn op het Tourette-syndroom.
 
-Tourette syndrome is a neurodevelopmental disorder driven by dysregulation of the dopaminergic system, particularly hyperactivation of striatal D2 receptors, which produces the characteristic motor and vocal tic phenotype. Haloperidol — also a butyrophenone D2 antagonist — is one of the cornerstone pharmacological treatments for tic suppression, providing the pharmacological bridge underlying the TxGNN model's prediction for droperidol.
+Het Tourette-syndroom is een neuronale ontwikkelingsstoornis gedreven door dysregulatie van het dopaminerge systeem, met name hyperactivatie van striaatle D2-receptoren, wat het karakteristieke fenotype van motore en vocale tics produceert. Haloperidol — ook een butyrofenon-D2-antagonist — is een van de hoeksteenbehandelingen voor tiksuppressie, wat de farmacologische brug vormt die aan de basis liegt van de TxGNN-modelvoorspelling voor droperidol.
 
-However, the extrapolation carries important caveats. Droperidol is almost exclusively available as an injectable formulation intended for acute, short-duration use, whereas Tourette syndrome requires long-term chronic oral therapy. The sole retrieved literature (PMID 791589) describes haloperidol in severe behaviour disorders — not droperidol in Tourette syndrome — making the evidence base indirect and mechanistic at best. The prediction score of 99.89% most likely reflects graph-level proximity in the TxGNN knowledge graph between butyrophenone compounds and dopamine-related movement disorders, rather than direct drug–disease evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for droperidol in Tourette syndrome.
+De extrapolatie draagt echter belangrijke voorbehouden met zich mee. Droperidol is bijna uitsluitend beschikbaar als een injectievorm bedoeld voor acuut, kortstondige gebruik, terwijl het Tourette-syndroom chronische orale langdurige therapie vereist. De enige gevonden literatuur (PMID 791589) beschrijft haloperidol bij ernstige gedragsstoornissen — niet droperidol bij het Tourette-syndroom — waardoor de bewijsbasis indirect en hooguit mechanistisch is. De voorspellingsscore van 99.89% weerspiegelt waarschijnlijk vooral de nabijheid in de TxGNN-kennisgraaf tussen butyrofenon-verbindingen en dopamine-gerelateerde bewegingsstoornissen, in plaats van rechtstreeks bewijs van geneesmiddel–ziekte.
 
 ---
 
-## Literature Evidence
+## Klinische trial-gegevens
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [791589](https://pubmed.ncbi.nlm.nih.gov/791589/) | 1976 | Clinical Study | *Current Psychiatric Therapies* | Haloperidol in severe behaviour disorders — indirect evidence only; not droperidol-specific and not focused on tic suppression |
+Momenteel zijn er geen gerelateerde klinische trials ingeschreven voor droperidol bij het Tourette-syndroom.
 
 ---
 
-## Netherlands Market Information
+## Literatuur-gegevens
 
-Droperidol currently holds **no CBG-MEB marketing authorizations** in the Netherlands. There are no registered RVG numbers, no approved SmPC documents, and no product entries in the national medicines register. The drug is not commercially available through standard Dutch pharmacy channels.
-
-Any future clinical application in the Netherlands would require either:
-- A new marketing authorization application to the CBG-MEB or via the EMA centralized procedure, or
-- Use under a named-patient / compassionate use or hospital exemption framework.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|------------------------|
+| [791589](https://pubmed.ncbi.nlm.nih.gov/791589/) | 1976 | Klinische studie | *Current Psychiatric Therapies* | Haloperidol bij ernstige gedragsstoornissen — enkel indirect bewijs; niet droperidol-specifiek en niet gericht op tiksuppressie |
 
 ---
 
-## Safety Considerations
+## Informatie over de markt in Nederland
 
-Please refer to the SmPC (Samenvatting van de Productkenmerken) for safety information. No warning, contraindication, or drug interaction data was available in this Evidence Pack.
+Droperidol heeft momenteel **geen CBG-MEB-marktvergunningen** in Nederland. Er zijn geen geregistreerde RVG-nummers, geen goedgekeurde SmPC-documenten, en geen productinvoeren in het nationale geneesmiddelenregister. Het geneesmiddel is niet commercieel beschikbaar via standaard Nederlandse apotheekkanalen.
+
+Enig toekomstig klinisch gebruik in Nederland zou het volgende vereisen:
+- Een nieuwe aanvraag voor marktvergunning bij de CBG-MEB of via de gecentraliseerde procedure van het EMA, of
+- Gebruik onder een patiëntenspecifieke / compassionate use of ziekenhuisuitzondering.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Hold**
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen waarschuwing, contra-indicatie of interactiegegevens waren beschikbaar in dit Evidence Pack.
 
-**Rationale:**
-Evidence for droperidol in Tourette syndrome is at L4 level — the single retrieved publication concerns a related but distinct compound (haloperidol), no droperidol-specific clinical trials exist, and the drug carries no Dutch marketing authorization, blocking any near-term clinical pathway in the Netherlands.
+---
 
-**To proceed, the following is needed:**
+## Conclusie en volgende stappen
 
-- Droperidol-specific clinical or preclinical studies targeting tic suppression in Tourette syndrome
-- Formal MOA documentation from DrugBank API or current SmPC sources
-- Safety review, with particular attention to QT-interval prolongation risk, prior to any trial design
-- Route-of-administration feasibility assessment: an oral or transdermal formulation would be required for a chronic-use Tourette indication
-- Regulatory pre-submission consultation with CBG-MEB to explore authorization pathway options
-- Comparative analysis against existing approved D2 antagonists for Tourette syndrome (haloperidol, pimozide, aripiprazole) to establish a differentiation rationale
+**Besluit: In afwachting**
+
+**Onderbouwing:**
+Het bewijs voor droperidol bij het Tourette-syndroom is van L4-niveau — de enige gevonden publicatie betreft een gerelateerde maar verschillende verbinding (haloperidol), er bestaan geen droperidol-specifieke klinische trials, en het geneesmiddel draagt geen Nederlandse marktvergunning, wat enig nabij toekomstig klinisch traject in Nederland blokkeert.
+
+**Om door te gaan is het volgende nodig:**
+
+- Droperidol-specifieke klinische of preklinische studies gericht op tiksuppressie bij het Tourette-syndroom
+- Formele werkingsmechanisme-documentatie van DrugBank API of huidige SmPC-bronnen
+- Veiligheidsbeoordeling, met bijzondere aandacht voor QT-interval verlengingsrisico, vóór enig trial design
+- Haalbaarheidsanalyse van de toedieningsroute: een orale of transdermale formulering zou vereist zijn voor een chronische gebruiksaanwijzing voor het Tourette-syndroom
+- Raadpleging vóór regelgeving met de CBG-MEB om vergunningspaden te verkennen
+- Vergelijkende analyse van bestaande goedgekeurde D2-antagonisten voor het Tourette-syndroom (haloperidol, pimozide, aripiprazol) om een onderscheidingsgrond vast te stellen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

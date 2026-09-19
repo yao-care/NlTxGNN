@@ -29,83 +29,84 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Acetaminophen: From Analgesic/Antipyretic to Migraine with Brainstem Aura
+# Acetaminophen (paracetamol): Van Analgeticum/Antipyreticum naar Migraine met Hersenstamaura
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Acetaminophen (paracetamol) is one of the most widely used analgesic and antipyretic agents worldwide, available over the counter for pain and fever management. The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** (MBA), a rare migraine subtype formerly known as basilar-type migraine, with **0 clinical trials** specific to this subtype but **20 publications** supporting the broader use of acetaminophen in migraine treatment. Notably, clinical guidelines already position acetaminophen as a first-line option for MBA — not because of direct efficacy trials, but because triptans are traditionally contraindicated in this subtype.
+Acetaminophen (paracetamol) is één van de meest gebruikte analgetica en antipyretica wereldwijd, beschikbaar zonder recept voor pijn- en koortsverlaging. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Migraine met Hersenstamaura** (MBA), een zeldzaam migrainesubtype, voorheen bekend als basilaire migraines, met **0 klinische onderzoeken** specifiek voor dit subtype maar **20 publicaties** die het bredere gebruik van acetaminophen bij migraine ondersteunen. Opmerkelijk is dat klinische richtlijnen acetaminophen al als eerstelijnsoption voor MBA positioneren — niet vanwege directe effectiviteitsstudies, maar omdat triptanen traditioneel worden ontraden in dit subtype.
 
-## Quick Overview
+## Snelgids
 
-| Item | Content |
-|------|------|
-| Original Indication | Pain and fever (analgesic/antipyretic) |
-| Predicted New Indication | Migraine with Brainstem Aura |
-| TxGNN Prediction Score | 99.15% |
-| Evidence Level | L3 — Systematic reviews and RCTs exist for general migraine; no direct trials for MBA subtype |
-| NL Market Status | Not found in evidence pack (Note: paracetamol is widely available OTC in the Netherlands) |
-| Number of Authorizations | 0 (in current dataset) |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Pijn en koorts (analgeticum/antipyreticum) |
+| Voorspelde nieuwe indicatie | Migraine met Hersenstamaura |
+| TxGNN voorspellingsscore | 99.15% |
+| Bewijsniveau | L3 — Systematische reviews en gerandomiseerde trials bestaan voor algemene migraine; geen directe trials voor MBA-subtype |
+| Marktstatus Nederland | Niet gevonden in bewijspakket (Opmerking: paracetamol is in Nederland veel voorkomend beschikbaar zonder recept) |
+| Aantal toestemmingen | 0 (in huidge dataset) |
+| Aanbevolen beslissing | Doorgaan met voorzorgsmaatregelen |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Acetaminophen exerts its analgesic effect primarily through central COX inhibition and modulation of the endocannabinoid system, reducing pain signal processing in the central nervous system. Unlike NSAIDs, its mechanism is predominantly central rather than peripheral, which is particularly relevant for headache disorders where central sensitization plays a key role.
+Acetaminophen oefent zijn analgetische werking primair uit door centrale COX-remming en modulatie van het endocannabinoïde systeem, waardoor de verwerking van pijnsignalen in het centrale zenuwstelsel wordt verminderd. In tegenstelling tot NSAIDs is het werkingsmechanisme primair centraal in plaats van perifeer, wat bijzonder relevant is voor koppijaandoeningen waarbij centrale sensitisatie een sleutelrol speelt.
 
-Migraine with brainstem aura (MBA) is a specific subtype of migraine characterized by aura symptoms originating from the brainstem — including dysarthria, vertigo, tinnitus, diplopia, and decreased consciousness — followed by a typical migraine headache. The underlying pathophysiology involves cortical spreading depolarization (CSD) extending to brainstem structures. While acetaminophen's efficacy in general migraine acute treatment is supported by Level 1 evidence (multiple RCTs), its application to MBA specifically is extrapolated rather than directly validated. The mechanistic rationale is that the headache pain phase of MBA shares the same trigeminovascular pathway as common migraine, which acetaminophen can modulate.
+Migraine met hersenstamaura (MBA) is een specifiek subtype van migraine dat wordt gekenmerkt door aurasymptomen afkomstig uit de hersenstam — waaronder dysartrie, vertigo, tinnitus, diplopie en verminderd bewustzijn — gevolgd door een typische migraine-aanval. De onderliggende pathofysiologie omvat corticale spreidingsdepolarisatie (CSD) die zich uitstrekt naar hersenstamstructuren. Hoewel de werkzaamheid van acetaminophen bij algemene acute migraine wordt ondersteund door niveau-1-bewijs (meerdere gerandomiseerde trials), is de toepassing daarvan op MBA specifiek geëxtrapoleerd in plaats van rechtstreeks gevalideerd. De mechanistische argumentatie is dat de koppierfase van MBA dezelfde trigeminovasculaire pathway deelt als gewone migraine, die acetaminophen kan moduleren.
 
-A critical practical consideration strengthens this prediction: triptans, the standard acute migraine therapy, are traditionally considered relatively contraindicated in MBA due to theoretical concerns about vasoconstriction in the vertebrobasilar territory. This makes acetaminophen one of the few recommended first-line acute treatments for MBA in clinical guidelines — positioned there by a process of safe elimination rather than positive efficacy evidence. This regulatory and clinical reality creates a genuine therapeutic niche where formal validation of acetaminophen's efficacy in MBA would be clinically valuable.
+Een kritische praktische overweging versterkt deze voorspelling: triptanen, de standaardbehandeling voor acute migraine, worden traditioneel als relatief ontraden beschouwd bij MBA vanwege theoretische zorgen over vaatvernauwing in het vertebrobasiliaire territorium. Dit maakt acetaminophen een van de weinige aanbevolen eerstelinbsbehandelingen voor acute MBA in klinische richtlijnen — daar geplaatst door een proces van veilige eliminatie in plaats van positief werkzaamheidsbewijs. Deze regelgevings- en klinische realiteit creëert een echte therapeutische niche waarin formele validatie van de werkzaamheid van acetaminophen bij MBA klinisch waardevol zou zijn.
 
-## Clinical Trial Evidence
+## Klinisch onderzoeksbewijs
 
-Currently no clinical trials specifically investigating acetaminophen for migraine with brainstem aura are registered on ClinicalTrials.gov or the WHO ICTRP platform. This represents a significant evidence gap, as RCTs for general migraine have not stratified results by MBA subtype.
+Momenteel zijn geen klinische onderzoeken die specifiek acetaminophen voor migraine met hersenstamaura onderzoeken, geregistreerd op ClinicalTrials.gov of het WHO ICTRP-platform. Dit vertegenwoordigt een significant bewijsvacuüm, aangezien gerandomiseerde trials voor algemene migraine de resultaten niet hebben gespecificeerd naar MBA-subtype.
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematic Review / Evidence-Based Guideline | Headache | AHS updated evidence assessment of acute migraine pharmacotherapies; establishes acetaminophen among evaluated treatments for acute migraine |
-| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | RCT (×3) | Archives of Neurology | Three double-blind, randomized, placebo-controlled trials assessing the combination of acetaminophen, aspirin, and caffeine for migraine headache pain relief |
-| [11112243](https://pubmed.ncbi.nlm.nih.gov/11112243/) | 2000 | RCT | Archives of Internal Medicine | Randomized, double-blind, placebo-controlled, population-based study demonstrating efficacy and safety of acetaminophen alone in acute migraine treatment |
-| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | RCT (retrospective analysis) | Clinical Therapeutics | Acetaminophen/aspirin/caffeine combination effective for menstruation-associated migraine across three randomized placebo-controlled studies |
-| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Comparative Trial | Headache | Isometheptene mucate/dichloralphenazone/acetaminophen compared to sumatriptan for mild-to-moderate migraine; evaluates acetaminophen-containing regimen |
-| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Review | Neurologic Clinics | Identifies acetaminophen as first-line symptomatic treatment for headache in pregnancy, where MBA management is particularly challenging |
-| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Narrative Review | Cureus | Reviews abortive and prophylactic migraine therapies in pregnancy; positions acetaminophen as a primary safe option when triptans are avoided |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Narrative Review | Handbook of Clinical Neurology | Examines status migrainosus (debilitating migraine >72h); relevant to understanding severe migraine complications including brainstem aura variants |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | Neurology International | Reviews migraine pharmacotherapy landscape; notes acetaminophen as standard treatment for mild-to-moderate migraine before escalation to triptans |
-| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Review | Cureus | Discusses migraine treatment approaches in pregnancy/breastfeeding with acetaminophen as preferred agent due to safety profile |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|------|---------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematische review / Op bewijs gebaseerde richtlijn | Headache | AHS bijgewerkte bewijsevaluatie van acute migraine-farmacotherapieën; stelt acetaminophen vast als een van de geëvalueerde behandelingen voor acute migraine |
+| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | Gerandomiseerde trial (×3) | Archives of Neurology | Drie dubbelblinde, gerandomiseerde, placebogecontroleerde onderzoeken naar de combinatie van acetaminophen, aspirine en cafeïne voor migraine-koppierpijnverlichting |
+| [11112243](https://pubmed.ncbi.nlm.nih.gov/11112243/) | 2000 | Gerandomiseerde trial | Archives of Internal Medicine | Gerandomiseerd, dubbelblind, placebogecontroleerd, op populatie gebaseerd onderzoek dat de werkzaamheid en veiligheid van acetaminophen alleen bij acute migraine-behandeling aantoont |
+| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | Gerandomiseerde trial (retrospectieve analyse) | Clinical Therapeutics | Acetaminophen/aspirine/cafeïne-combinatie effectief voor menstruatiegerelateerde migraine in drie gerandomiseerde placebogecontroleerde onderzoeken |
+| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Vergelijkend onderzoek | Headache | Isometheptene mucaat/dichloralfenazoon/acetaminophen vergeleken met sumatriptan voor lichte tot matige migraine; evalueert acetaminophen-bevattend schema |
+| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Review | Neurologic Clinics | Identificeert acetaminophen als eerstelijnssymptomatische behandeling voor koppin bij zwangerschap, waar MBA-beheer bijzonder uitdagend is |
+| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Narratieve review | Cureus | Beoordeelt acute en preventieve migrainemiddelen bij zwangerschap; positioneert acetaminophen als een primaire veilige optie wanneer triptanen worden vermeden |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Narratieve review | Handbook of Clinical Neurology | Onderzoekt status migrainosus (debiliterend migraine >72h); relevant voor het begrijpen van ernstige migrainecomplicaties, waaronder hersenstamaura-varianten |
+| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | Neurology International | Beoordeelt het migrainefarmacotherapieoverzicht; merkt acetaminophen op als standaardbehandeling voor lichte tot matige migraine vóór escalatie naar triptanen |
+| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Review | Cureus | Bespreekt migrainebehandelingsbenaderingen bij zwangerschap/borstvoeding met acetaminophen als voorkeurmiddel vanwege veiligheidsprofiel |
 
-## Netherlands Market Information
+## Informatie Nederlandse markt
 
-No CBG-MEB marketing authorizations for acetaminophen (paracetamol) were identified in the current evidence pack dataset. However, paracetamol is one of the most widely available over-the-counter medicines in the Netherlands, sold under numerous brand names (e.g., Panadol, generic paracetamol) in pharmacies, drugstores, and supermarkets. The absence of records in this dataset likely reflects a data matching limitation rather than true market unavailability. For complete authorization information, consult the [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Er werden geen CBG-MEB marketingtoestemmingen voor acetaminophen (paracetamol) in het huide bewijspakket geïdentificeerd. Paracetamol is echter een van de meest verkrijgbare geneesmiddelen zonder recept in Nederland, verkocht onder talrijke merknamen (bijvoorbeeld Panadol, generieke paracetamol) in apotheken, drogisterijen en supermarkten. De afwezigheid van records in deze dataset weerspiegelt waarschijnlijk een datalimiet in plaats van echte markt onbeschikbaarheid. Voor volledige toestemmingsinformatie raadpleegt u de [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
-## Safety Considerations
+## Veiligheidsoverwegingen
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for comprehensive safety information.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor uitgebreide veiligheidsinformatie.
 
-Key general safety points for acetaminophen based on well-established clinical knowledge:
-- **Hepatotoxicity**: Risk of severe liver injury at doses exceeding 4g/day or in patients with hepatic impairment, chronic alcohol use, or malnutrition
-- **Dosing vigilance**: Many combination products contain acetaminophen, creating risk of inadvertent overdose
-- **Renal considerations**: Caution with long-term use in patients with renal impairment
+Belangrijke algemene veiligheidsaspecten voor acetaminophen op basis van goed gevestigde klinische kennis:
+- **Hepatotoxiciteit**: Risico op ernstig leverletsel bij doses hoger dan 4g/dag of bij patiënten met leveraantasting, chronisch alcoholgebruik of ondervoeding
+- **Doseringswaakzaamheid**: Veel combinatieproducten bevatten acetaminophen, wat risico op onbedoeld overdoseren creëert
+- **Nierfunctie-overwegingen**: Voorzichtigheid bij langdurig gebruik bij patiënten met nierfunctiestoornissen
 
-> ⚠️ **Data Gap**: Specific SmPC warnings and contraindications from the regulatory authority were not available in this evidence pack. These must be obtained before proceeding to formal safety evaluation (Stage S1).
+> ⚠️ **Bewijsvacuüm**: Specifieke SmPC-waarschuwingen en contra-indicaties van de regelgevingsinstantie waren niet beschikbaar in dit bewijspakket. Deze moeten worden verkregen vóór voortgang naar formele veiligheidsevaluatie (Stadium S1).
 
-## Conclusion and Next Steps
+## Conclusie en volgende stappen
 
-**Decision: Proceed with Guardrails**
+**Beslissing: Doorgaan met voorzorgsmaatregelen**
 
-**Rationale:**
-Acetaminophen has strong RCT-level evidence (L1) for efficacy in general acute migraine treatment, and clinical guidelines already recommend it as a first-line option for migraine with brainstem aura due to triptan contraindications. However, the evidence is L3 for the MBA subtype specifically, as no trials have directly validated efficacy in this population. The TxGNN prediction score of 99.15% aligns with existing clinical practice patterns.
+**Motivering:**
+Acetaminophen heeft sterk op gerandomiseerde trials gebaseerd bewijs (L1) voor werkzaamheid bij algemene acute migrainebehandeling, en klinische richtlijnen bevelen het al aan als eerstelijnsoption voor migraine met hersenstamaura vanwege triptaancontra-indicaties. Het bewijs is echter L3 voor het MBA-subtype specifiek, aangezien geen onderzoeken direct de werkzaamheid in deze populatie hebben gevalideerd. De TxGNN-voorspellingsscore van 99.15% sluit aan bij bestaande klinische praktijkpatronen.
 
-**To proceed, the following is needed:**
-- **Mechanism of action data**: Obtain detailed MOA from DrugBank to strengthen the mechanistic rationale for MBA specifically (current data gap DG002)
-- **SmPC safety data**: Retrieve full warnings, contraindications, and drug interactions from CBG-MEB/EMA SmPC (current data gap DG001 — blocking for S1 safety assessment)
-- **MBA-specific clinical evidence**: Search for subgroup analyses within existing migraine RCTs that may have included MBA patients
-- **Expert consultation**: Engage neurologists with MBA expertise to assess whether the central analgesic mechanism adequately addresses brainstem aura-phase pathophysiology
-- **CBG-MEB registration confirmation**: Verify current Dutch marketing authorization status via the Geneesmiddeleninformatiebank
+**Wat nodig is om voort te gaan:**
+- **Werkingsmechanismegegevens**: Gedetailleerde MOA-informatie van DrugBank inwinnen om de mechanistische argumentatie voor MBA specifiek te versterken (huidg bewijsvacuüm DG002)
+- **SmPC-veiligheidsgegevens**: Volledige waarschuwingen, contra-indicaties en geneesmiddelinteracties van CBG-MEB/EMA SmPC ophalen (hudig bewijsvacuüm DG001 — blokkerend voor S1-veiligheidsevaluatie)
+- **MBA-specifiek klinisch bewijs**: Zoeken naar subgroepanalyses in bestaande migraine-RCTs die mogelijk MBA-patiënten hebben opgenomen
+- **Deskundige raadpleging**: Neurologen met MBA-expertise betrekken om te beoordelen of het centrale analgetische mechanisme de pathofysiologie van de hersenstamaura-fase adequaat behandelt
+- **CBG-MEB registratiebevestiging**: Actuele Nederlandse marktoestemmingsstatus controleren via de Geneesmiddeleninformatiebank
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Report generated on 2026-04-03 based on evidence pack v4 (data cutoff: 2026-04-03).*
+*Dit rapport is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies. Geneesmiddelen voor nieuwe indicaties vereisen klinische validatie vóór toepassing. Rapport gegenereerd op 2026-04-03 op basis van bewijspakket v4 (datumsnijpunt: 2026-04-03).*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

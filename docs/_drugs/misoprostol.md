@@ -29,90 +29,91 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-# Misoprostol: From Medical Abortion / Postpartum Hemorrhage to Amenorrhea
+# Misoprostol: Van medische abortus / postpartumbloeding tot amenorroe
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Misoprostol is a synthetic prostaglandin E1 (PGE1) analogue, established globally for medical abortion (in combination with mifepristone) and postpartum hemorrhage prevention, though it is not currently registered in the Netherlands.
-The TxGNN model predicts it may be effective for **Amenorrhea**, with **0 clinical trials** and **7 publications** providing contextual support for this direction.
-However, the retrieved literature predominantly uses "amenorrhea" as a patient enrolment criterion for early-pregnancy abortion studies — not as a therapeutic target — meaning the direct evidentiary link to treating amenorrhea as a pathological condition remains limited.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; established global use for medical abortion and postpartum hemorrhage prevention |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L4 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Misoprostol is een synthetisch prostaglandine E1 (PGE1) analoog, wereldwijd erkend voor medische abortus (in combinatie met mifepristone) en preventie van postpartumbloeding, hoewel het momenteel niet is geregistreerd in Nederland.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **amenorroe**, met **0 klinische onderzoeken** en **7 publicaties** die contextuele ondersteuning bieden voor deze richting.
+De opgehaalde literatuur behandelt "amenorroe" echter voornamelijk als een inclusiecriterium voor patiënten in studies naar vroege-zwangerschapsabortus — niet als therapeutisch doel — wat betekent dat de directe wetenschappelijke link naar het behandelen van amenorroe als aandoening beperkt blijft.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Misoprostol is a synthetic PGE1 analogue that activates EP1 and EP3 prostaglandin receptors on uterine smooth muscle, triggering myometrial contractions and inducing endometrial shedding. This mechanism underlies its clinically established applications in medical abortion and postpartum hemorrhage management. The TxGNN knowledge graph likely inferred this predicted indication through the well-documented co-occurrence of misoprostol with uterine bleeding induction in the biomedical literature.
-
-The connection between misoprostol and amenorrhea is mechanistically plausible. If amenorrhea results from failure of the endometrium to shed despite adequate proliferation — for example in anovulatory cycles or cases of endometrial accumulation without spontaneous bleeding — a uterotonic prostaglandin analogue could theoretically trigger withdrawal-like bleeding. This is mechanistically very similar to its established use in medical abortion, where it expels early pregnancy tissue through the same EP1/EP3-mediated pathway. In this sense, "menstrual induction" sits on a mechanistic continuum with "pregnancy termination."
-
-That said, an important distinction limits the strength of this prediction: the repurposing rationale itself acknowledges that **amenorrhea is not the primary therapeutic endpoint in any of the identified studies**. The 7 retrieved publications largely enrol women with "amenorrhea ≤35 days" as a way to define ultra-early pregnancy timing, not to study misoprostol as a treatment for amenorrhea as a clinical diagnosis. Dedicated prospective evidence targeting amenorrhea specifically — with appropriate diagnostic sub-grouping (e.g., hypothalamic, anovulatory, endometrial) — is absent.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials are registered for Misoprostol specifically targeting amenorrhea as a primary indication.
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Niet geregistreerd in Nederland; erkend wereldwijd gebruik voor medische abortus en preventie van postpartumbloeding |
+| Voorspelde nieuwe indicatie | Amenorroe |
+| TxGNN-voorspellingsscore | 99.64% |
+| Bewijsniveau | L4 |
+| Marktstatus NL | Niet in de handel |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | Low-dose mifepristone + self-administered misoprostol for ultra-early medical abortion in 744 women with amenorrhea ≤35 days; "amenorrhea" used as pregnancy-timing inclusion criterion, not as a condition being treated |
-| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT | Reproductive Sciences | Dose-ranging RCT (n=2,500) of mifepristone + misoprostol for ultra-early pregnancy termination; amenorrhea ≤35 days defines eligibility; primary endpoint is complete abortion rate |
-| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | RCT | J Obstet Gynaecol Res | Safety and efficacy of low-dose mifepristone + self-administered misoprostol for early pregnancy termination; confirms uterotonic mechanism but amenorrhea is an enrolment parameter |
-| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Cohort | Human Reproduction | Explores pre-menstrual administration of mifepristone + misoprostol to prevent unintended pregnancy; provides context for pre-ovulatory/post-ovulatory prostaglandin intervention on the uterus |
-| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Review | J Obstet Gynaecol Can | Systematic review of endometrial ablation for abnormal uterine bleeding; contextually relevant to uterine pathology and menstrual dysregulation, not specific to misoprostol |
-| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Clinical Series | BMJ | Early clinical evidence for misoprostol in medical management of missed abortion and anembryonic pregnancy; establishes foundational uterotonic use |
-| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Case Report | Cureus | Acute fatty liver of pregnancy presenting with amenorrhea and HELLP syndrome; misoprostol is not the focus — tangential relevance only |
+Op dit moment zijn gedetailleerde gegevens over werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van bekende farmacologische informatie is misoprostol een synthetisch PGE1-analoog dat EP1- en EP3-prostaglandinereceptoren op glad baarmoedersspierweefsel activeert, wat uteruscontracties veroorzaakt en endometriumafstoting induceert. Dit mechanisme ligt ten grondslag aan de klinisch erkende toepassingen in medische abortus en postpartumhemorrhagiebeheer. De TxGNN-kennisgraaf heeft waarschijnlijk deze voorspelde indicatie afgeleid door de goed gedocumenteerde co-aanwezigheid van misoprostol met uteriene bloedingsinductie in de biomedische literatuur.
+
+De verbinding tussen misoprostol en amenorroe is mechanistisch aannemelijk. Als amenorroe het gevolg is van het uitblijven van endometriumafstoting ondanks adequate proliferatie — bijvoorbeeld bij anovulatoire cycli of gevallen van endometriumaccumulatie zonder spontane bloeding — zou een uterotoon prostaglandineanaloog theoretisch bloeding kunnen uitlokken. Dit is mechanistisch zeer vergelijkbaar met het erkende gebruik in medische abortus, waar het vroeg-zwangerschapstissue expelleert via hetzelfde EP1/EP3-gemedieerde pad. In dit opzicht zit "menstruatie-inductie" op een mechanistisch continuüm met "zwangerbeëindiging."
+
+Dit gezegd hebbende, een belangrijk onderscheid beperkt de kracht van deze voorspelling: de herpositioneringsrationale erkent zelf dat **amenorroe geen primair therapeutisch eindpunt is in enig van de geïdentificeerde onderzoeken**. De 7 opgehaalde publicaties nemen voornamelijk vrouwen met "amenorroe ≤35 dagen" in als een manier om ultra-vroege zwangerschapsduur te definiëren, niet om misoprostol als behandeling voor amenorroe als klinische diagnose te onderzoeken. Specifieke prospectieve evidence die amenorroe targeted — met passende diagnostische subcategorisering (bijvoorbeeld hypothalamisch, anovulatoir, endometriaal/structureel) — ontbreekt.
 
 ---
 
-## Netherlands Market Information
+## Klinische trialbewijzen
 
-Misoprostol is currently **not registered** in the Netherlands. No marketing authorizations (RVG numbers) are on record with the CBG-MEB (College ter Beoordeling van Geneesmiddelen). As a result, no Dutch SmPC (Samenvatting van de Productkenmerken) is available through standard channels.
-
-Clinicians and researchers considering investigational use in the Netherlands should consult the CBG-MEB for applicable compassionate use or clinical trial frameworks. Reference SmPCs from EMA-registered products in comparable jurisdictions may be consulted for safety guidance in the interim.
+Er zijn momenteel geen gerelateerde klinische onderzoeken geregistreerd voor misoprostol die specifiek amenorroe als primaire indicatie targeted.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-Safety data (key warnings and contraindications) for Misoprostol were not available in this Evidence Pack, and no NL-specific SmPC exists given the drug's unregistered status in the Netherlands.
-
-Please refer to internationally available SmPCs and authoritative pharmacological references for safety information. Based on established clinical use of misoprostol in reproductive medicine, practitioners should be aware that uterotonic agents carry risks including excessive uterine contractions, uterine rupture (particularly in women with prior uterine surgery), and significant haemorrhage — considerations that would apply directly to any proposed use in amenorrhea management.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|------------------------|
+| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | Lage-dosismifepristone + zelftoediende misoprostol voor ultra-vroege medische abortus bij 744 vrouwen met amenorroe ≤35 dagen; "amenorroe" gebruikt als inclusiecriterium voor zwangerschapsduur, niet als aandoening die wordt behandeld |
+| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT | Reproductive Sciences | Dosis-bereik RCT (n=2.500) van mifepristone + misoprostol voor ultra-vroege zwangerbeëindiging; amenorroe ≤35 dagen bepaalt geschiktheid; primair eindpunt is volledig abortustarief |
+| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | RCT | J Obstet Gynaecol Res | Veiligheid en werkzaamheid van lage-dosismifepristone + zelftoediende misoprostol voor vroege zwangerbeëindiging; bevestigt uterotoon mechanisme maar amenorroe is een inschrijvingsparameter |
+| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Cohort | Human Reproduction | Onderzoekt pre-menstruële toediening van mifepristone + misoprostol om ongewenste zwangerschap te voorkomen; geeft context voor pre-ovulatoire/post-ovulatoire prostaglandine-interventie op de baarmoeder |
+| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Review | J Obstet Gynaecol Can | Systematische review van endometriumablatie voor abnormale baarmoederbloeding; inhoudelijk relevant voor uterinepathologie en menstruele dysregulatie, niet specifiek voor misoprostol |
+| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Klinische serie | BMJ | Vroeg klinisch bewijs voor misoprostol in medisch beheer van gemiste abortus en anembryonale zwangerschap; vestigt fundamenteel uterotoon gebruik |
+| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Caseraport | Cureus | Acute vettige lever bij zwangerschap met amenorroe en HELLP-syndroom; misoprostol is niet het accent — slechts tangentiële relevantie |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Hold**
+Misoprostol is momenteel **niet geregistreerd** in Nederland. Er zijn geen handelstoestemmingen (RVG-nummers) opgenomen in het register van de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Dientengevolge is geen Nederlands SmPC (Samenvatting van de Productkenmerken) beschikbaar via standaardkanalen.
 
-**Rationale:**
-Although the TxGNN prediction score is high (99.64%) and a mechanistic pathway via EP1/EP3 receptor-mediated endometrial shedding is biologically plausible, no clinical trial addresses amenorrhea as a primary indication for misoprostol, the retrieved literature treats amenorrhea as a pregnancy-timing entry criterion rather than a therapeutic target, and the drug carries no regulatory standing in the Netherlands — leaving both efficacy and safety undocumented for this specific use case.
+Artsen en onderzoekers die overwegen om het experimenteel in Nederland in te zetten, dienen de CBG-MEB te raadplegen voor toepasselijke compassionate-use- of klinische trialframeworks. Referentie-SmPC's van EMA-geregistreerde producten in vergelijkbare jurisdicties kunnen in de tussentijd voor veiligheidsbegeleiding worden geraadpleegd.
 
-**To proceed, the following is needed:**
+---
 
-- Prospective clinical studies or well-characterized case series evaluating misoprostol specifically for amenorrhea as a pathological condition, with diagnostic sub-grouping (anovulatory, hypothalamic, endometrial/structural)
-- Formal MOA documentation from DrugBank or an equivalent pharmacological authority, to substantiate the mechanistic claim at regulatory level
-- Comprehensive safety review including contraindications and key warnings (e.g., prior uterine surgery, hypersensitivity to prostaglandins, cardiovascular risk)
-- Regulatory pathway consultation with CBG-MEB for any investigational or compassionate use in the Netherlands
-- Comparative positioning against existing prostaglandin-based or hormonal therapies for amenorrhea, to clarify where misoprostol would offer a clinically meaningful advantage
+## Veiligheidsoverwegingen
+
+Veiligheidsgegevens (belangrijke waarschuwingen en contraïndicaties) voor misoprostol waren niet beschikbaar in dit Evidence Pack, en er is geen NL-specifieke SmPC gezien de ongeregistreerde status van het geneesmiddel in Nederland.
+
+Raadpleeg alstublieft internationaal beschikbare SmPC's en gezaghebbende farmacologische referenties voor veiligheidsinformatie. Op basis van vastgesteld klinisch gebruik van misoprostol in reproductieve geneeskunde dienen beoefenaars zich bewust te zijn dat uterotone middelen risico's met zich meebrengen, waaronder buitensporige baarmoederkrampen, baarmoederruptuur (vooral bij vrouwen met eerdere baarmoederoperatie) en significante bloeding — overwegingen die rechtstreeks van toepassing zouden zijn op enig voorgesteld gebruik in amenorroebeheer.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: In afwachting**
+
+**Motivering:**
+Hoewel de TxGNN-voorspellingsscore hoog is (99.64%) en een mechanistisch pad via EP1/EP3-receptorgermedieerde endometriumafstoting biologisch aannemelijk is, behandelt geen klinische trial amenorroe als primaire indicatie voor misoprostol, de opgehaalde literatuur beschouwt amenorroe als criterium voor zwangerschaps-timing voor inschrijving in plaats van als therapeutisch doel, en het geneesmiddel heeft geen regelgevingsstatus in Nederland — wat zowel werkzaamheid als veiligheid ongedocumenteerd laat voor dit specifieke gebruiksgeval.
+
+**Om verder te gaan, is het volgende nodig:**
+
+- Prospectieve klinische onderzoeken of goed gekarakteriseerde casusreeksen die misoprostol specifiek evalueren voor amenorroe als pathologische aandoening, met diagnostische subcategorisering (anovulatoir, hypothalamisch, endometriaal/structureel)
+- Formele MOA-documentatie van DrugBank of een gelijkwaardig farmacologisch gezag, ter ondersteuning van de mechanistische bewering op regelgevingsniveau
+- Uitgebreide veiligheidsbeoordeling inclusief contraïndicaties en belangrijke waarschuwingen (bijv. eerdere baarmoederoperatie, overgevoeligheid voor prostaglandines, cardiovasculair risico)
+- Regelgevingsraadpleging met CBG-MEB voor enig experimenteel of compassionate-use in Nederland
+- Vergelijkende positionering tegen bestaande prostaglandine-gebaseerde of hormonale therapieën voor amenorroe, om duidelijk te maken waar misoprostol een klinisch zinvol voordeel zou bieden
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

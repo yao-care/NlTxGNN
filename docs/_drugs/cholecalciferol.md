@@ -29,76 +29,77 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Cholecalciferol: From Vitamin D Supplementation to Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion
+# Cholecalciferol: Van vitamine D-suppletie tot familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Cholecalciferol (Vitamin D3) is a fat-soluble nutrient and pharmaceutical agent classically used to correct vitamin D deficiency and support calcium-phosphorus homeostasis and bone health, though it currently holds no marketing authorisation with the Dutch CBG-MEB.
-The TxGNN model predicts it may be effective for **Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion** (global rank #553 across all disease predictions),
-with **no clinical trials** and **no disease-specific publications** currently supporting this direction — evidence remains at model-prediction level only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Vitamin D deficiency; calcium and phosphorus metabolism support (no NL marketing authorisation on record) |
-| Predicted New Indication | Familial isolated hypoparathyroidism due to impaired PTH secretion |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Cholecalciferol (vitamine D3) is een vetoplosbare voedingsstof en geneesmiddel dat klassiek wordt gebruikt om vitamine D-deficiëntie te corrigeren en de calcium-fosfaathuishouding en beendeelgezondheid te ondersteunen, hoewel het momenteel geen registratie bij de Nederlandse CBG-MEB heeft.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie** (wereldwijde rang #553 onder alle ziektevoorspellingen),
+zonder **klinische onderzoeken** en **geen ziekte-specifieke publicaties** die deze richting momenteel ondersteunen — het bewijs blijft beperkt tot het niveau van modelvoorspelling.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Snelleoverzicht
 
-Formal mechanism of action data was not retrieved from DrugBank for this Evidence Pack. However, the pharmacology of Cholecalciferol is well established: it is an **inactive precursor of the vitamin D hormone system**. Following skin synthesis or oral intake, cholecalciferol undergoes first-pass 25-hydroxylation in the liver (producing 25-hydroxyvitamin D, the main circulating storage form) and then a critical second hydroxylation in the kidney via the enzyme 1α-hydroxylase (CYP27B1), yielding calcitriol [1,25(OH)₂D] — the biologically active hormone that promotes intestinal calcium and phosphate absorption and acts on bone and the parathyroid glands.
-
-Familial isolated hypoparathyroidism due to impaired PTH secretion is a rare hereditary condition in which the parathyroid glands are structurally present but fail to secrete adequate PTH. This results in chronic hypocalcaemia and hyperphosphataemia. The critical pharmacological problem for cholecalciferol in this setting is that **PTH is one of the primary stimulators of renal 1α-hydroxylase**: PTH deficiency therefore directly impairs the conversion of cholecalciferol to calcitriol. Supplementing the inactive precursor in a patient who cannot efficiently activate it is a mechanistically suboptimal strategy, and carries a genuine risk of therapeutic underperformance. Active vitamin D analogues — calcitriol or alfacalcidol — bypass this conversion bottleneck entirely and represent the current clinical standard of care for hypoparathyroidism.
-
-The TxGNN model assigns a high score (99.79%) to this pairing, most likely because the model captures the shared nodes connecting vitamin D metabolism, calcium signalling, and parathyroid biology in the knowledge graph, rather than detecting a specific pharmacological superiority of cholecalciferol over established active analogues. The mechanistic connection is real at a biological systems level but highly speculative as a therapeutic rationale for cholecalciferol specifically. No clinical trials and no disease-specific publications have been identified to support this repurposing direction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for this specific indication (familial isolated hypoparathyroidism due to impaired PTH secretion).
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Vitamine D-deficiëntie; ondersteuning van calcium- en fosfaatmetabolisme (geen Nederlandse registratie aanwezig) |
+| Voorspelde nieuwe indicatie | Familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie |
+| TxGNN-voorspellingsscore | 99.79% |
+| Bewijsniveau | L5 |
+| Nederlandse marktstand | Niet op de markt (Niet op de markt) |
+| Aantal registraties | 0 |
+| Aanbevolen beslissing | Uitstel |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related literature available specific to this indication.
+Formele gegevens over het werkingsmechanisme werden niet uit DrugBank opgehaald voor dit bewijspakket. De farmacologie van cholecalciferol is echter goed vastgesteld: het is een **inactieve voorloper van het vitamine D-hormoonsysteem**. Na huidzynthese of orale inname ondergaat cholecalciferol eerste-passage 25-hydroxylering in de lever (waarbij 25-hydroxyvitamine D ontstaat, de belangrijkste circulerende opslagvorm) en vervolgens een kritieke tweede hydroxylering in de nier via het enzym 1α-hydroxylase (CYP27B1), wat calcitriol [1,25(OH)₂D] oplevert — het biologisch actieve hormoon dat intestinale calcium- en fosfaatopname bevordert en werkt op bot en de bijschildklieren.
 
----
+Familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie is een zeldzame erfelijke aandoening waarin de bijschildklieren structureel aanwezig zijn maar niet voldoende PTH uitscheiden. Dit leidt tot chronische hypocalcaemie en hyperfosfataemie. Het kritieke farmacologische probleem voor cholecalciferol in deze setting is dat **PTH een van de primaire stimulatoren van renale 1α-hydroxylase is**: PTH-deficiëntie verstoort daarom direct de conversie van cholecalciferol naar calcitriol. Het suppleren van de inactieve voorloper bij een patiënt die deze niet efficiënt kan activeren, is een mechanistisch suboptimale strategie en brengt een echt risico op onvoldoende therapeutisch effect met zich mee. Actieve vitamine D-analoga — calcitriol of alfacalcidol — omzeilen dit conversie-knelpunt volledig en vertegenwoordigen de huidige klinische standaardbehandeling voor hypoparathyroïdie.
 
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. No drug-drug interaction data, key warnings, or contraindications were identified in the data sources queried for this Evidence Pack (DDI query status: not found; key warnings and contraindications: unavailable from the queried sources).
-
-> **Practical note for clinicians:** Although specific safety data was not retrieved, well-known class-level risks of vitamin D supplementation include **hypercalcaemia** and **hypercalciuria**, which are of particular concern when used in conditions where calcium homeostasis is already impaired, such as hypoparathyroidism. Close monitoring of serum calcium, urine calcium, and renal function is standard practice.
+Het TxGNN-model wijst een hoge score (99.79%) toe aan deze combinatie, waarschijnlijk omdat het model de gedeelde knooppunten vastlegt die vitamine D-metabolisme, calciumsignalering en bijschildklierbologie in het kennisgraaf verbinden, in plaats van een specifieke farmacologische superioriteit van cholecalciferol ten opzichte van bestaande actieve analoga op te sporen. De mechanistische verbinding is reëel op biologisch systeemniveau, maar zeer speculatief als therapeutische rationale voor cholecalciferol specifiek. Er zijn geen klinische onderzoeken en geen ziekte-specifieke publicaties geïdentificeerd die deze herbestemming ondersteunen.
 
 ---
 
-## Conclusion and Next Steps
+## Bewijs uit klinische onderzoeken
 
-**Decision: Hold**
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd voor deze specifieke indicatie (familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie).
+
+---
+
+## Literatuurbewijs
+
+Momenteel geen gerelateerde literatuur beschikbaar voor deze indicatie.
+
+---
+
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van productkenmerken) voor veiligheidsinformatie. Er werden geen gegevens over geneesmiddel-geneesmiddelinteracties, belangrijke waarschuwingen of contra-indicaties gevonden in de gegevensbronnen die voor dit bewijspakket werden geraadpleegd (DDI-querystatus: niet gevonden; belangrijke waarschuwingen en contra-indicaties: niet beschikbaar in de geraadpleegde bronnen).
+
+> **Praktische noot voor clinici:** Hoewel specifieke veiligheidsgegevens niet werden opgehaald, omvatten bekende risico's van vitamine D-suppletie **hypercalcaemie** en **hypercalciurie**, die van bijzonder belang zijn bij aandoeningen waarbij de calciumhuishouding al verstoord is, zoals hypoparathyroïdie. Regelmatige bewaking van serumcalcium, urineacalcium en nierfunctie is standaardpraktijk.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Uitstel**
 
 **Rationale:**
-This is a model-level prediction (L5) with zero supporting clinical trials or disease-specific publications. More critically, the mechanistic rationale is pharmacologically self-limiting: cholecalciferol, as an inactive precursor requiring PTH-dependent 1α-hydroxylation for activation, is not the appropriate drug form in a condition defined by PTH deficiency. Active vitamin D analogues (calcitriol, alfacalcidol) are the established and guideline-supported standard of care for hypoparathyroidism and would be the scientifically coherent repurposing candidates in this disease area — not cholecalciferol.
+Dit is een voorspelling op modelniveau (L5) zonder ondersteunende klinische onderzoeken of ziekte-specifieke publicaties. Nog kritiekser is dat de mechanistische rationale farmacologisch zelflimiterend is: cholecalciferol is, als inactieve voorloper die PTH-afhankelijke 1α-hydroxylering voor activering nodig heeft, niet de geschikte medicijnvorm voor een aandoening gekenmerkt door PTH-deficiëntie. Actieve vitamine D-analoga (calcitriol, alfacalcidol) zijn de gevestigde en richtlijngesteunde standaardbehandeling voor hypoparathyroïdie en zouden de wetenschappelijk ondersteunde herbestemming-kandidaten in dit ziektegebied zijn — niet cholecalciferol.
 
-**To proceed, the following would be needed:**
+**Om door te gaan, zou het volgende nodig zijn:**
 
-- Retrieval of TFDA/EMA SmPC data for formal safety assessment (warnings, contraindications, toxicology)
-- Full DrugBank MOA data retrieval to confirm the mechanistic basis
-- A preclinical or mechanistic study specifically demonstrating that cholecalciferol provides a clinically meaningful benefit **beyond or above** calcitriol/alfacalcidol in PTH-deficient patients (e.g., via extrarenal 1α-hydroxylation pathways)
-- At minimum, case reports or pilot data specifically in familial isolated hypoparathyroidism using cholecalciferol as the intervention
-- Clarification of cholecalciferol's regulatory classification in the Netherlands (food supplement vs. medicinal product), as this affects the applicable regulatory pathway under CBG-MEB/EMA framework
+- Opvraging van TFDA/EMA SmPC-gegevens voor formele veiligheidsevaluatie (waarschuwingen, contra-indicaties, toxicologie)
+- Volledige opvraging van DrugBank MOA-gegevens om de mechanistische basis te bevestigen
+- Een preklinische of mechanistische studie die specifiek aantoont dat cholecalciferol een klinisch betekenisvol voordeel **boven** calcitriol/alfacalcidol bij PTH-deficiënte patiënten biedt (bijvoorbeeld via extrarenale 1α-hydroxyleringswegen)
+- Op zijn minst, caseverslagen of pilotgegevens specifiek voor familiaire geïsoleerde hypoparathyroïdie waarbij cholecalciferol als interventie wordt gebruikt
+- Verduidelijking van de regelgevingsclassificatie van cholecalciferol in Nederland (voedingssupplement versus geneesmiddel), aangezien dit van invloed is op het toepasselijke regelgevingstraject onder CBG-MEB/EMA-kader
 
-> **Research note:** If the broader vitamin D–hypoparathyroidism repurposing question is of interest, pivoting the investigation to **active analogues already registered in the Netherlands** (calcitriol, alfacalcidol, paricalcitol) would be mechanistically more defensible and likely to yield higher-quality evidence.
+> **Onderzoeksnoot:** Indien de bredere vraag over vitamine D–hypoparathyroïdie-herbestemming van belang is, zou het onderzoek verplaatsen naar **actieve analoga die al in Nederland zijn geregistreerd** (calcitriol, alfacalcidol, paricalcitol) mechanistisch verdedigbaarder zijn en waarschijnlijk hoger kwaliteitsbewijs opleveren.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,104 +29,101 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the **Drug Repurposing Evaluation Report** system prompt (v5) to generate the NL-format report from the provided Evidence Pack.
+# Flunitrazepam: Van sedatief-slaapmiddel tot insomnie
+
+## Samenvatting in één zin
+
+Flunitrazepam (Rohypnol) is een zeer potent benzodiazepine dat historisch in verschillende Europese landen was goedgekeurd als sedatief-slaapmiddel in de jaren 1970–1990, maar momenteel niet op de markt is in Nederland en geen CBG-MEB-autorisatie heeft.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Insomnie**, met **1 klinische studie** en **11 publicaties** die deze richting momenteel ondersteunen — hoewel dit grotendeels de vastgestelde farmacologie bevestigt in plaats van een werkelijk nieuw herpositioneringsdoel aan te duiden.
+Een secundaire bevinding van onafhankelijk klinisch belang is de voorspelling voor **Alcoholonttrekkingsdelirium** (Rang 6, Bewijsniveau L3), wat wordt ondersteund door direct klinisch bewijs uit de praktijk op de IC.
 
 ---
 
-# Flunitrazepam: From Sedative-Hypnotic to Insomnia
+## Snel overzicht
 
-## One-Sentence Summary
-
-Flunitrazepam (Rohypnol) is a high-potency benzodiazepine historically approved in several European countries as a sedative-hypnotic during the 1970s–1990s, but currently not marketed in the Netherlands and carrying no CBG-MEB authorization.
-The TxGNN model predicts it may be effective for **Insomnia**, with **1 clinical trial** and **11 publications** currently supporting this direction — though this largely confirms established pharmacology rather than identifying a genuinely novel repurposing target.
-A secondary finding of independent clinical interest is the prediction for **Alcohol Withdrawal Delirium** (Rank 6, Evidence Level L3), which is supported by direct clinical evidence from ICU practice.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Sedative-hypnotic; historically approved in Europe for insomnia and procedural sedation (1970s–1990s) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Sedatief-slaapmiddel; historisch goedgekeurd in Europa voor insomnie en procedurele sedatie (jaren 1970–1990) |
+| Voorspelde nieuwe indicatie | Insomnie |
+| TxGNN-voorspellingsscore | 99,89% |
+| Bewijsniveau | L3 |
+| NL-marktstatus | Niet op de markt |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Aanhouden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, flunitrazepam belongs to the 1,4-benzodiazepine class and acts as a positive allosteric modulator of the GABA-A receptor at the benzodiazepine binding site. By increasing the frequency of chloride ion channel opening in response to GABA, it suppresses central nervous system over-excitation — the direct pharmacological basis for sedation, muscle relaxation, anxiolysis, and hypnosis. At approximately 5–10 times the potency of diazepam, its sleep-promoting effects are among the most pronounced within the benzodiazepine class.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van vastgestelde farmacologische kennis behoort flunitrazepam tot de klasse van 1,4-benzodiazepinen en werkt het als een positieve allosterische modulator van de GABA-A-receptor op de benzodiazepine-bindingsplaats. Door de frequentie van geopende chloride-ionkanalen in reactie op GABA te verhogen, onderdrukt het overexcitatie van het centrale zenuwstelsel — de directe farmacologische basis voor sedatie, spierverslapping, anxiolyse en slaapinductie. Met ongeveer 5–10 keer de potentie van diazepam behoren de slaapbevorderende effecten tot de meest uitgesproken binnen de benzodiazepineklasse.
 
-The TxGNN prediction for insomnia is therefore not a novel repurposing hypothesis but a validation of the drug's own historical approved indication. Multiple sleep laboratory and comparative clinical studies have confirmed flunitrazepam's efficacy in reducing sleep latency, increasing Stage 2 sleep duration, and improving subjective sleep quality (PMID 8519370, PMID 14722706). A large-scale randomised study comparing flunitrazepam, zopiclone, triazolam, and placebo across 1,507 insomniac patients further documented its clinical effectiveness. Importantly, rebound insomnia upon withdrawal — a known class effect — has also been specifically characterised for flunitrazepam (PMID 430730, PMID 684426), highlighting the risk-benefit complexity of its use.
+De TxGNN-voorspelling voor insomnie is daarom geen hypothese voor een nieuw herpositioneringsdoel, maar een validatie van de eigen historische goedgekeurde indicatie van het geneesmiddel. Meerdere slaaplaboratorium- en vergelijkende klinische onderzoeken hebben de werkzaamheid van flunitrazepam in het verminderen van slaaplatentie, het vergroten van de duur van Stadium 2-slaap en het verbeteren van subjectieve slaapkwaliteit bevestigd (PMID 8519370, PMID 14722706). Een grootschalig gerandomiseerd onderzoek waarin flunitrazepam, zopicloon, triazolam en placebo bij 1.507 patiënten met insomnie werden vergeleken, documenteerde verder de klinische werkzaamheid. Belangrijk is dat insomnie met terugval na stopzetting — een bekend klassiek effect — ook specifiek voor flunitrazepam is gekarakteriseerd (PMID 430730, PMID 684426), wat de complexiteit van het risico-batenverhouding van het gebruik onderstreept.
 
-The clinical development context has, however, fundamentally changed since the drug's European approval era. Due to its extreme abuse potential as a drug used in drug-facilitated sexual assault, high physical dependence liability, anterograde amnesic effects, and dangerous interaction with alcohol, flunitrazepam has been withdrawn or severely restricted across most jurisdictions. In the Netherlands, it holds no CBG-MEB authorisation and is not commercially available. Any development pathway for insomnia faces an insurmountable regulatory and public safety barrier, given the ready availability of multiple safer registered alternatives (temazepam, zolpidem, zopiclone).
+De klinische ontwikkelingsconde heeft zich echter sinds de goedkeuringsepocha van het geneesmiddel in Europa fundamenteel gewijzigd. Vanwege zijn extreme misbruikpotentieel als geneesmiddel dat wordt gebruikt bij seksueel geweld met medicijnen, hoge fysieke afhankelijkheidslabiliteit, anterograde amnesische effecten en gevaarlijke interactie met alcohol, is flunitrazepam in de meeste rechtsgebieden teruggetrokken of ernstig beperkt. In Nederland heeft het geen CBG-MEB-autorisatie en is het niet in de handel. Elk ontwikkelingstraject voor insomnie wordt geconfronteerd met een onoverkomelijke regelgevings- en openbare veiligheidsbarrière, gegeven de ruime beschikbaarheid van meerdere veiligere geregistreerde alternatieven (temazepam, zolpidem, zopicloon).
 
 ---
 
-## Clinical Trial Evidence
+## Klinisch onderzoeksbewijs
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Trialcode | Fase | Status | Inschrijving | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Unknown | 1,400 | Prospective cohort study at a Taiwanese academic medical centre assessing risk-benefit of hypnotic agents in elderly patients with sleep disorders. Examines medication use patterns, pharmacokinetic/pharmacogenetic characteristics, and clinical, economic, and humanistic outcomes. Flunitrazepam is not explicitly listed as a primary study drug; relevance is at benzodiazepine class level only. |
+| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N.v.t. | Onbekend | 1.400 | Prospectieve cohortstudie in een Taiwanese academisch medisch centrum om risico-batenverhouding van slaapinduceerders in oudere patiënten met slaapstoornissen te evalueren. Onderzoekt gebruikspatronen van medicijnen, farmacokinetica/farmacogenetische kenmerken en klinische, economische en humanistische uitkomsten. Flunitrazepam wordt niet expliciet als primair studiegeneesmiddel vermeld; relevantie is alleen op benzodiazepineklasseniveau. |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|------|------|---------|---------|
-| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Comparative Clinical Study | Sleep Medicine Reviews | Systematic review of hypnotic drugs' effects on body balance and standing steadiness; flunitrazepam implicated in fall risk and hip fractures when patients wake at night or in the morning |
-| [8519370](https://pubmed.ncbi.nlm.nih.gov/8519370/) | 1993 | Comparative Clinical Study | European Respiratory Journal | Compared single doses of zolpidem 10 mg, triazolam 0.25 mg, and flunitrazepam 1 mg in 12 hypercapnic severe COPD patients complaining of insomnia; assessed arterial blood gases and breathing control alongside hypnotic efficacy |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Clinical Review | Acta Psychiatrica Scandinavica (Supplement) | Reviewed pharmacodynamic changes in benzodiazepines during normal ageing; controlled studies with diazepam, temazepam, nitrazepam, and flunitrazepam consistently showed 2–3 fold increased response in healthy elderly subjects |
-| [430730](https://pubmed.ncbi.nlm.nih.gov/430730/) | 1979 | Clinical Observation | JAMA | Fifteen sleep laboratory studies evaluating five benzodiazepines including flunitrazepam; rebound insomnia (worsening of sleep vs. baseline) documented following withdrawal, attributed to short and intermediate half-lives |
-| [684426](https://pubmed.ncbi.nlm.nih.gov/684426/) | 1978 | Clinical Observation | Science | First description of rebound insomnia as a new clinical syndrome following withdrawal of three benzodiazepine hypnotics including flunitrazepam; benzodiazepine receptor hypothesis proposed involving lag in endogenous ligand replacement |
-| [14722706](https://pubmed.ncbi.nlm.nih.gov/14722706/) | 2004 | Animal Study | Psychopharmacology | Evaluated flunitrazepam and two other hypnotics in a sleep-disturbed rat model; new sleep disturbance model validated for estimating hypnotic drug characteristics |
-| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Drug Review | Drugs | Comprehensive review of triazolam pharmacological properties and therapeutic efficacy for insomnia; flunitrazepam discussed as a longer-acting comparator, with triazolam favoured due to shorter half-life and reduced next-day impairment |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Clinical Review | Acta Psychiatrica Scandinavica (Supplement) | Review of clinical indications for use of hypnotics and need for pharmacokinetic diversity; discusses positioning of flunitrazepam relative to other benzodiazepines based on elimination half-life and distribution profile |
+| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Vergelijkende klinische studie | Sleep Medicine Reviews | Systematische beoordeling van effecten van slaapmiddelen op lichaamsbalans en staande stabiliteit; flunitrazepam betrokken bij valrisico en heupfracturen wanneer patiënten 's nachts of 's ochtends wakker worden |
+| [8519370](https://pubmed.ncbi.nlm.nih.gov/8519370/) | 1993 | Vergelijkende klinische studie | European Respiratory Journal | Vergeleken enkeldoses zolpidem 10 mg, triazolam 0,25 mg en flunitrazepam 1 mg bij 12 hypercapnische ernstige COPD-patiënten met klachten over insomnie; gassaturatie in arterieel bloed en ademhalingbeheersing onderzocht naast slaapmiddelwerking |
+| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Klinisch overzicht | Acta Psychiatrica Scandinavica (Supplement) | Beoordeeld farmacodynamische veranderingen in benzodiazepinen tijdens normaal ouder worden; gecontroleerde onderzoeken met diazepam, temazepam, nitrazepam en flunitrazepam vertoonden consistent 2–3 maal verhoogde respons bij gezonde ouderen |
+| [430730](https://pubmed.ncbi.nlm.nih.gov/430730/) | 1979 | Klinische observatie | JAMA | Vijftien slaaplaboratorium-onderzoeken die vijf benzodiazepinen evalueerden, waaronder flunitrazepam; insomnie met terugval (verslechtering van slaap versus uitgangssituatie) gedocumenteerd na stopzetting, toegeschreven aan korte en intermediaire halfwaardetijden |
+| [684426](https://pubmed.ncbi.nlm.nih.gov/684426/) | 1978 | Klinische observatie | Science | Eerste beschrijving van insomnie met terugval als een nieuw klinisch syndroom na stopzetting van drie benzodiazepineslaapmiddelen, inclusief flunitrazepam; benzodiazepine-receptorhypothese voorgesteld met vertraging in endogene ligandvervanging |
+| [14722706](https://pubmed.ncbi.nlm.nih.gov/14722706/) | 2004 | Dieronderzoek | Psychopharmacology | Evalueerde flunitrazepam en twee andere slaapmiddelen in een slaapgestoord ratmodel; nieuw slaapstoorningsmodel gevalideerd voor schatting van karakteristieken van slaapmiddelen |
+| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Geneesmiddelenoverzicht | Drugs | Uitgebreid overzicht van farmacologische eigenschappen en therapeutische werkzaamheid van triazolam voor insomnie; flunitrazepam besproken als langwerkende comparator, waarbij triazolam de voorkeur krijgt vanwege kortere halfwaardetijd en verminderde ochtendachteruitgang |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Klinisch overzicht | Acta Psychiatrica Scandinavica (Supplement) | Overzicht van klinische indicaties voor gebruik van slaapmiddelen en behoefte aan farmacokinetica-verscheidenheid; bespreekt plaatsing van flunitrazepam ten opzichte van andere benzodiazepinen op basis van eliminatiehalfwaardetijd en verdelingsprofiel |
 
 ---
 
-## Netherlands Market Information
+## Informatie Nederlandse markt
 
-Flunitrazepam currently holds **no CBG-MEB marketing authorizations** in the Netherlands. There are no registered pharmaceutical products containing flunitrazepam available through Dutch dispensing channels, and no dosage forms are authorized for any route of administration.
+Flunitrazepam heeft momenteel **geen CBG-MEB-marktingsautorisaties** in Nederland. Er zijn geen geregistreerde farmaceutische producten met flunitrazepam beschikbaar via Nederlandse dispenseerkanalen, en er zijn geen doseervormen voor enige toedieningsweg geautoriseerd.
 
-Historically marketed as **Rohypnol** (Roche), flunitrazepam was available in a number of European countries as a short-term hypnotic during the 1970s and 1980s. It was subsequently withdrawn or severely restricted across EU member states following recognition of its abuse profile, its role in drug-facilitated sexual assault, and the availability of safer therapeutic alternatives. The drug does not appear in the Dutch RVG register and cannot be legally prescribed or dispensed through normal Dutch pharmacy channels.
+Historisch werd flunitrazepam verhandeld onder de merknaam **Rohypnol** (Roche) en was het beschikbaar in een aantal Europese landen als slaapmiddel voor kortetemijn gebruik in de jaren 1970 en 1980. Het werd vervolgens teruggetrokken of ernstig beperkt in alle lidstaten van de EU na erkenning van zijn misbruikprofiel, zijn rol bij seksueel geweld met medicijnen en de beschikbaarheid van veiligere therapeutische alternatieven. Het geneesmiddel staat niet in het Nederlands RVG-register en kan niet legaal worden voorgeschreven of gedispenseerd via normale Nederlandse apotheekkanalen.
 
 ---
 
-## Safety Considerations
+## Veiligheidsopmerkingen
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Zie de SmPC (Samenvatting van de productkenmerken) voor veiligheidsinformatie.
 
-> **Regulatory note for the Netherlands context**: While SmPC data is not available in this Evidence Pack, the following safety signals are well-documented in the retrieved literature and are critical to any assessment within the Dutch healthcare system:
+> **Regelgevingsnota voor de Nederlandse context**: Hoewel SmPC-gegevens niet beschikbaar zijn in dit Evidence Pack, zijn de volgende veiligheidssignalen goed gedocumenteerd in de opgehaalde literatuur en zijn kritisch voor elke beoordeling in het Nederlandse gezondheidssysteem:
 >
-> - **Controlled substance**: Flunitrazepam is subject to stringent narcotics control legislation in the Netherlands under the Opium Act (*Opiumwet*) and EU regulations
-> - **Abuse and drug-facilitated assault**: Internationally recognised as a drug used in sexual assault contexts; quick onset of sedation and anterograde amnesia are documented at therapeutic doses
-> - **Physical dependence and rebound**: High risk of dependence; rebound insomnia documented even after short-term single-nightly-dose administration (PMID 430730, PMID 684426)
-> - **CNS/respiratory depression**: Potentially fatal when combined with alcohol or other CNS depressants; animal and clinical data confirm potentiation of depressant effects (PMID 38676788)
-> - **Paradoxical reactions**: Agitation, disinhibition, aggressive behaviour, and loss of impulse control reported in a proportion of users (PMID 16087304)
-> - **Fall risk**: Documented impairment of body balance and standing steadiness associated with fracture risk, especially in elderly patients (PMID 20171127)
+> - **Controleerde substantie**: Flunitrazepam is onderworpen aan strenge narcoticaregeling in Nederland onder de Opiumwet en EU-regelgeving
+> - **Misbruik en seksueel geweld met medicijnen**: Internationaal erkend als geneesmiddel dat wordt gebruikt in seksuele aanrandingen; snelle sedatieinzet en anterograde amnesie zijn gedocumenteerd in therapeutische doses
+> - **Fysieke afhankelijkheid en terugvalverschijnselen**: Hoog risico op afhankelijkheid; insomnie met terugval gedocumenteerd zelfs na kortdurend dagelijks éénmalig doseren (PMID 430730, PMID 684426)
+> - **ZNS/ademhalingsdepressie**: Potentieel fataal in combinatie met alcohol of andere ZNS-depressiva; dier- en klinische gegevens bevestigen potentiëring van depressieve effecten (PMID 38676788)
+> - **Paradoxale reacties**: Agitatie, disinhibitie, agressief gedrag en verlies van impulscontrole gerapporteerd bij een deel van de gebruikers (PMID 16087304)
+> - **Valrisico**: Gedocumenteerde beperking van lichaamsbalans en staande stabiliteit geassocieerd met fractuurrisico, vooral bij oudere patiënten (PMID 20171127)
 
 ---
 
-## Conclusion and Next Steps
+## Conclusie en volgende stappen
 
-**Decision: Hold**
+**Besluit: Aanhouden**
 
-**Rationale:**
-Flunitrazepam is not marketed in the Netherlands, carries zero CBG-MEB authorizations, and presents an extreme regulatory and public safety burden — including controlled substance scheduling, documented abuse as a date rape drug, and dependence liability — that renders clinical development for insomnia non-viable within the Dutch healthcare framework, particularly given the ready availability of safer registered alternatives.
+**Motivering:**
+Flunitrazepam is niet op de markt in Nederland, heeft nul CBG-MEB-autorisaties en presenteert een extreme regelgevings- en openbare veiligheidsbelasting — inclusief controleerde-stoffenplanning, gedocumenteerd misbruik als drankje in seksuele misdrijven en afhankelijkheidslabiliteit — wat klinische ontwikkeling voor insomnie non-rendabel maakt binnen het Nederlandse gezondheidssysteem, vooral gezien de ruime beschikbaarheid van veiligere geregistreerde alternatieven.
 
-**To proceed with further assessment (for any indication), the following would be needed:**
+**Om verder te gaan met verdere beoordeling (voor enige indicatie), zou het volgende nodig zijn:**
 
-- Full SmPC or equivalent product documentation, including contraindications, warnings, and drug interaction profile (via TFDA SmPC download or EMA historical assessment reports)
-- Mechanism of action confirmation via DrugBank API query (Data Gap DG002)
-- Regulatory feasibility consultation with CBG-MEB regarding controlled substance scheduling constraints for any proposed new indication
-- A clinical justification demonstrating superiority or differentiated benefit over currently registered benzodiazepines (temazepam, oxazepam, lorazepam) and non-benzodiazepine hypnotics (zolpidem, zopiclone) already authorized in the Netherlands
-- **For the alcohol withdrawal delirium hypothesis specifically (Rank 6, L3 evidence)**: A structured systematic review of IV flunitrazepam vs. standard-of-care benzodiazepines in ICU settings, and a protocol assessment for prospective study feasibility under Dutch controlled substance regulations
+- Volledige SmPC of gelijkwaardige productdocumentatie, inclusief contraïndicaties, waarschuwingen en geneesmiddelinteractieprofiel (via TFDA SmPC-download of EMA-historische beoordelingsrapporten)
+- Bevestiging van werkingsmechanisme via DrugBank API-query (Data Gap DG002)
+- Regelgevingshaalbaarheidsconsultatie met CBG-MEB met betrekking tot beperkingen van controleerde-stoffenplanning voor enig voorgesteld nieuw doel
+- Een klinische rechtvaardiging die superioriteit of gedifferentieerd voordeel aantoont ten opzichte van momenteel geregistreerde benzodiazepinen (temazepam, oxazepam, lorazepam) en niet-benzodiazepineslaapmiddelen (zolpidem, zopicloon) die al in Nederland zijn geautoriseerd
+- **Voor de alcoholonttrekkingsdeliriumhypothese specifiek (Rang 6, L3-bewijs)**: Een gestructureerde systematische beoordeling van intraveneus flunitrazepam versus standaard zorgbenzodiazepinen in IC-omgevingen, en een protocolbeoordeling voor haalbaarheid van prospectief onderzoek onder Nederlandse regelgeving voor controleerde stoffen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

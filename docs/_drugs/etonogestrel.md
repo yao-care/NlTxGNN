@@ -29,88 +29,85 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **5**
 
 </div>
 
-Using **txgnn-pipeline** to guide report structure, then generating the NL-framework evaluation report per the v5 prompt specification.
+# Etonogestrel: van anticonceptie naar amenorroe
+
+## Samenvatting in één zin
+
+Etonogestrel is een derde-generatie progestageen dat via een subdermaal implantaat wordt toegediend en wereldwijd veel gebruikt als langwerkend reversibel anticonceptivum (merknamen Implanon/Nexplanon), hoewel het geen CBG-MEB-marktgoedkeuring in Nederland heeft.
+Het TxGNN-model voorspelt dat het mogelijk toepasbaar is bij **amenorroe**, met momenteel **1 klinische proef** en **1 relevante publicatie** die deze richting ondersteunen.
+Belangrijk is dat amenorroe in deze context een goed gedocumenteerde farmacologische gevolg van etonogestrelgebruik is in plaats van een primair therapeutisch doel, wat voorzichtige interpretatie vereist bij beoordeling van de waarde van deze voorspelling voor herbestemming.
 
 ---
 
-# Etonogestrel: From Contraception to Amenorrhea
+## Snel overzicht
 
-## One-Sentence Summary
-
-Etonogestrel is a third-generation progestin delivered via a subdermal implant, widely used internationally as a long-acting reversible contraceptive (brand name Implanon/Nexplanon), though it holds no CBG-MEB marketing authorisation in the Netherlands.
-The TxGNN model predicts it may be applicable to **Amenorrhea**, with **1 clinical trial** and **1 relevant publication** currently supporting this direction.
-Importantly, amenorrhea in this context is a well-documented pharmacological consequence of etonogestrel use rather than a primary therapeutic target, which requires careful interpretation when assessing this prediction's repurposing value.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Contraception — long-acting reversible contraceptive implant (based on clinical trial context; no CBG-MEB authorisation on record) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L3 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Anticonceptie — langwerkend reversibel anticonceptief implantaat (gebaseerd op klinische proefcontext; geen CBG-MEB-goedkeuring geregistreerd) |
+| Voorspelde nieuwe indicatie | Amenorroe |
+| TxGNN-voorspellingsscore | 99.84% |
+| Bewijsniveau | L3 |
+| Markt status NL | Niet op de markt |
+| Aantal goedkeuringen | 0 |
+| Aanbevolen besluit | Uitgesteld |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not available in the current evidence pack. Based on known information, Etonogestrel is the active metabolite of desogestrel and is the sole active component of the Implanon/Nexplanon subdermal implant system. It belongs to the third-generation progestin class and exerts its primary effects by suppressing the hypothalamic-pituitary-ovarian (HPO) axis — specifically by inhibiting the LH surge — resulting in consistent anovulation. Secondary effects include thickening of cervical mucus and atrophic changes to the endometrium.
+Gedetailleerde gegevens over het werkingsmechanisme zijn niet beschikbaar in het huidige bewijs pakket. Op basis van bekende informatie is etonogestrel de actieve metaboliet van desogestrel en is het de enige actieve component van het subdermale implanteersysteem van Implanon/Nexplanon. Het behoort tot de derde-generatie progestageenklasse en oefent zijn primaire effecten uit door de hypothalamisch-hypofysair-ovariale (HPO) as te onderdrukken — specifiek door de LH-piek te remmen — wat resulteert in consistente anovulatie. Secundaire effecten zijn onder meer verdikking van cervicaal slijm en atrofische veranderingen van het endometrium.
 
-The link between etonogestrel and amenorrhea is therefore pharmacologically direct: amenorrhea is one of the most frequently reported outcomes of implant use, occurring in approximately 20–30% of users within the first year and increasing over time. The TxGNN knowledge graph likely captures this strong mechanistic and epidemiological association, which explains the high prediction score.
+De link tussen etonogestrel en amenorroe is daarom farmacologisch direct: amenorroe is een van de meest frequent gerapporteerde uitkomsten van implantaatgebruik, voorkomend bij ongeveer 20–30% van de gebruikers in het eerste jaar en stijgend in de loop van de tijd. De TxGNN-kennisgraaf legt waarschijnlijk deze sterke mechanistische en epidemiologische associatie vast, wat de hoge voorspellingsscore verklaart.
 
-However, this prediction describes a **known side effect / pharmacological consequence** rather than a conventional therapeutic repurposing scenario. If the clinical intent is to leverage etonogestrel's amenorrhoea-inducing properties as a treatment — for instance in endometriosis-associated bleeding, heavy menstrual bleeding, or functional uterine bleeding — there is indirect mechanistic support. However, no RCTs with amenorrhea as a primary therapeutic endpoint are currently available, and the repurposing value requires prospective framing before it can be assessed meaningfully.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04626596](https://clinicaltrials.gov/study/NCT04626596) | Phase 3 | Completed | 498 | Extended-use study (years 4–5) of the ENG contraceptive implant in women aged ≤35. Primary endpoint is contraceptive efficacy; amenorrhea is recorded as a secondary safety/tolerability measure. Confirms the implant remains highly effective beyond the approved 3-year duration and provides high-quality data on amenorrhea incidence during extended use — though not as a therapeutic target. |
+Deze voorspelling beschrijft echter een **bekend bijeffect / farmacologische gevolg** in plaats van een conventioneel herbestemmingsscenario. Indien de klinische bedoeling is om de amenorroe-induceringseigenschappen van etonogestrel te benutten als behandeling — bijvoorbeeld bij endometriose-gerelateerde bloeding, zware menstruele bloeding of functionele baarmoederbloeding — is er indirecte mechanistische ondersteuning. Er zijn echter geen gerandomiseerde gecontroleerde onderzoeken met amenorroe als primair therapeutisch eindpunt beschikbaar, en de herbestemmingswaarde vereist prospectieve framing voordat deze zinvol kan worden beoordeeld.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10549446](https://pubmed.ncbi.nlm.nih.gov/10549446/) | 1999 | RCT | Contraception | Randomised multicentre comparison of single-rod Implanon (etonogestrel) vs. six-capsule Norplant over up to 4 years (n=200, China). No pregnancies in either arm. Systematically documents bleeding patterns — including amenorrhea rates — over successive 90-day reference periods, providing the earliest RCT-level evidence of etonogestrel's amenorrhoea profile. |
-| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | RCT | Trials | Study protocol for BIO101 in COVID-19 pneumonia prevention of respiratory deterioration. **Not related to etonogestrel or amenorrhea** — this appears to be a spurious search result and should not be considered supporting evidence for this repurposing candidate. |
-
----
-
-## Netherlands Market Information
-
-Etonogestrel currently holds **no marketing authorisations** from the CBG-MEB (College ter Beoordeling van Geneesmiddelen). The drug is not registered on the Dutch market in any dosage form. Note that in neighbouring EU member states, the etonogestrel subdermal implant (Implanon NXT) holds EMA-coordinated centralised or mutual recognition authorisations; a national or centralised EMA submission pathway would need to be evaluated if clinical development in the Netherlands is pursued.
+| Proefnummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
+|---------|------|--------|---------|---------|
+| [NCT04626596](https://clinicaltrials.gov/study/NCT04626596) | Fase 3 | Voltooid | 498 | Vervolgonderzoek (jaren 4–5) van het etonogestrel anticonceptieve implantaat bij vrouwen van ≤35 jaar. Primair eindpunt is anticonceptieve werkzaamheid; amenorroe wordt als een secundaire veiligheids-/verdraagbaarheidsmaat vastgesteld. Bevestigt dat het implantaat zeer werkzaam blijft voorbij de goedgekeurde 3-jaars duur en biedt gegevens van hoge kwaliteit over amenorroe-incidentie tijdens verlengd gebruik — hoewel niet als therapeutisch doel. |
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Samenvatting van de Productkenmerken) for complete safety information. No key warnings, contraindications, or drug interaction data were available in the current evidence pack — retrieval of the full SmPC is listed as a blocking data gap (DG001) that must be resolved before any safety assessment can proceed.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|------|---------|
+| [10549446](https://pubmed.ncbi.nlm.nih.gov/10549446/) | 1999 | RCT | Contraception | Gerandomiseerde multicentrische vergelijking van eenstaaf Implanon (etonogestrel) versus zeskapsule Norplant over maximaal 4 jaar (n=200, China). Geen zwangerschappen in beide groepen. Documenteert systematisch bloedingspatronen — inclusief amenorroe-frequenties — over opeenvolgende 90-daagse referentieperioden, wat het eerste gerandomiseerde gecontroleerde onderzoeksniveau-bewijs van het amenorroe-profiel van etonogestrel biedt. |
+| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | RCT | Trials | Onderzoeksprotocol voor BIO101 in COVID-19-longontsteking ter voorkoming van respiratoire verslechtering. **Niet gerelateerd aan etonogestrel of amenorroe** — dit lijkt een valse zoekresultaat te zijn en mag niet als ondersteunend bewijs voor deze herbestemmingskandidate worden beschouwd. |
 
 ---
 
-## Conclusion and Next Steps
+## Marktinformatie Nederland
 
-**Decision: Hold**
+Etonogestrel heeft momenteel **geen marktgoedkeuringen** van de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Het geneesmiddel is niet op de Nederlandse markt geregistreerd in enige doseringsvorm. Opgemerkt dient te worden dat in naburige EU-lidstaten het subdermale etonogestrel-implantaat (Implanon NXT) EMA-gecoördineerde gecentraliseerde of onderlinge erkenningsgoedkeuringen heeft; een nationale of gecentraliseerde EMA-indieningspath zou moeten worden geëvalueerd indien klinische ontwikkeling in Nederland wordt overwogen.
 
-**Rationale:**
-The TxGNN prediction captures a pharmacologically valid and well-established association — etonogestrel reliably induces amenorrhea — but this represents a documented side effect rather than a validated therapeutic indication, and there are no RCTs targeting amenorrhea as a primary endpoint. Additionally, the absence of any CBG-MEB marketing authorisation and the missing SmPC data mean that basic regulatory and safety prerequisites for a Stage 1 evaluation cannot yet be met.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsbeschouwingen
 
-- **Define the clinical question precisely**: Is the goal to treat pathological amenorrhea, or to leverage etonogestrel's amenorrhoea-inducing properties for a specific condition (e.g., endometriosis, heavy menstrual bleeding, adenomyosis)?
-- **Resolve DG001 (Blocking)**: Obtain the full SmPC for the etonogestrel implant (e.g., from EMA public assessment reports for Implanon NXT) to enable safety screening
-- **Resolve DG002 (High)**: Retrieve formal MOA data from DrugBank (DB00294) to support mechanistic link analysis
-- **Conduct a targeted literature search**: Focus on etonogestrel in amenorrhea-induction as a therapeutic strategy, including gynaecological indications where amenorrhea is a desired endpoint
-- **Evaluate the EMA centralised authorisation pathway**: Given the drug is authorised in other EU member states, assess whether a label extension or off-label use framework is applicable within the Netherlands
-- **Clean the evidence pipeline**: Remove irrelevant search hits (e.g., PMID 33430924) that inflate the apparent evidence base
+Raadpleeg het SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen gegevens over belangrijke waarschuwingen, contra-indicaties of geneesmiddelinteracties waren beschikbaar in het huidige bewijs pakket — het ophalen van het volledige SmPC wordt vermeld als een blokkerend gegevensgat (DG001) dat moet worden opgelost voordat enige veiligheidsbeoordeling kan plaatsvinden.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Uitgesteld**
+
+**Motivering:**
+De TxGNN-voorspelling legt een farmacologisch geldig en goed vastgesteld verband vast — etonogestrel veroorzaakt betrouwbaar amenorroe — maar dit vertegenwoordigt een gedocumenteerd bijeffect in plaats van een geverifieerde therapeutische indicatie, en er zijn geen gerandomiseerde gecontroleerde onderzoeken die amenorroe als primair eindpunt hebben. Bovendien betekent het ontbreken van enige CBG-MEB-marktgoedkeuring en de ontbrekende SmPC-gegevens dat basale regelgevings- en veiligheidsvereisten voor een Fase 1-evaluatie nog niet kunnen worden getroffen.
+
+**Voor verdere stappen is het volgende nodig:**
+
+- **Definieer de klinische vraag nauwkeurig**: Is het doel om pathologische amenorroe te behandelen, of om de amenorroe-induceringseigenschappen van etonogestrel te benutten voor een specifieke aandoening (bijv. endometriose, zware menstruele bloeding, adenomyose)?
+- **Los DG001 (Blokkerend) op**: Verkrijg het volledige SmPC voor het etonogestrel-implantaat (bijv. van EMA-beoordelingsverslagen voor Implanon NXT) om veiligheidscreening mogelijk te maken
+- **Los DG002 (Hoog) op**: Verkrijg formele MOA-gegevens van DrugBank (DB00294) ter ondersteuning van de analyse van mechanistische verbanden
+- **Voer een gericht literatuuronderzoek uit**: Richt je op etonogestrel bij amenorroe-inductie als therapeutische strategie, inclusief gynaecologische indicaties waar amenorroe een gewenst resultaat is
+- **Evalueer het EMA-gecentraliseerde goedkeuringstraject**: Gegeven dat het geneesmiddel in andere EU-lidstaten is goedgekeurd, bepaal of een labeluitbreiding of off-label gebruikskader van toepassing is in Nederland
+- **Reinig de bewijspipeline**: Verwijder irrelevante zoekresultaten (bijv. PMID 33430924) die de schijnbare bewijsbasis opblazen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

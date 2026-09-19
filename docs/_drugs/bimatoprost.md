@@ -29,93 +29,94 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bimatoprost: From Glaucoma to Malformation Syndrome with Odontal and/or Periodontal Component
+# Bimatoprost: van glaucoom tot malformatie-syndroom met dentale en/of parodontale component
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Bimatoprost is a synthetic prostamide F2α analogue originally approved for ocular hypertension / open-angle glaucoma (Lumigan) and eyelash hypotrichosis (Latisse) in multiple jurisdictions.
-The TxGNN model predicts it may be relevant for **malformation syndrome with odontal and/or periodontal component** — a rare congenital syndrome featuring structural dental and periodontal developmental abnormalities — with the highest TxGNN score among all predicted candidates (**99.997%**).
-However, **0 clinical trials** and **0 publications directly evaluating Bimatoprost in this indication** currently exist; the 20 retrieved publications describe general periodontal biology and are not specific to this drug.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Glaucoma / Ocular hypertension (Lumigan); Eyelash hypotrichosis (Latisse) — based on known approvals in other jurisdictions (no NL authorisation on file) |
-| Predicted New Indication | Malformation syndrome with odontal and/or periodontal component |
-| TxGNN Prediction Score | 99.997% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Bimatoprost is een synthetische prostamide F2α-analoog die oorspronkelijk is goedgekeurd voor occulaire hypertensie / open-angle glaucoom (Lumigan) en wimper-hypotrichosis (Latisse) in meerdere jurisdicties.
+Het TxGNN-model voorspelt dat het relevant kan zijn voor **malformatie-syndroom met dentale en/of parodontale component** — een zeldzaam aangeboren syndroom met structurele tandheelkundige en parodontale ontwikkelingsonregelmatigheden — met de hoogste TxGNN-score onder alle voorspelde kandidaten (**99.997%**).
+Er bestaan echter **0 klinische onderzoeken** en **0 publicaties die rechtstreeks bimatoprost in deze indicatie evalueren**; de 20 opgehaalde publicaties beschrijven algemene parodontale biologie en zijn niet specifiek aan dit geneesmiddel.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Bimatoprost activates FP (prostaglandin F) receptors and prostamide receptors. In ophthalmology, this lowers intraocular pressure by increasing aqueous humour outflow; in dermatology, the same receptor pathway extends the anagen (growth) phase of hair follicles — a serendipitous observation that led to its FDA approval for eyelash hypotrichosis (Latisse). The drug therefore has two mechanistically distinct but well-characterised approved uses.
-
-The theoretical bridge to odontal/periodontal pathology rests on the known role of **prostaglandin E2 (PGE2)** in periodontal bone resorption and gingival inflammation. Because bimatoprost is a prostaglandin structural analogue, the TxGNN knowledge graph may have connected it to this pathway through shared receptor or signalling nodes. In principle, a prostamide analogue could modulate prostaglandin-related cascades involved in periodontal tissue homeostasis and alveolar bone metabolism.
-
-In practice, however, the connection is highly indirect. The target entity — **malformation syndrome with odontal and/or periodontal component** — encompasses rare congenital syndromes (such as Papillon-Lefèvre syndrome or related ectodermal dysplasias) caused by germline mutations in structural or immune-regulatory genes. Prostamide/FP receptor agonism has no established role in correcting or modifying the underlying developmental defects. The TxGNN high score most plausibly reflects shared pathway proximity in the knowledge graph rather than a pharmacologically tractable indication. This prediction is assessed as mechanistically implausible for the specific orphan disease entity at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Bimatoprost in this indication.
+| Artikel | Inhoud |
+|---------|--------|
+| Originele indicatie | Glaucoom / Occulaire hypertensie (Lumigan); Wimper-hypotrichosis (Latisse) — gebaseerd op bekende goedkeuringen in andere jurisdicties (geen NL-autorisatie beschikbaar) |
+| Voorspelde nieuwe indicatie | Malformatie-syndroom met dentale en/of parodontale component |
+| TxGNN-voorspellingsscore | 99.997% |
+| Bewijniveau | L5 |
+| NL-markt status | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Wachten |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-The following publications were retrieved in the evidence search. They describe the biology and treatment of periodontal disease as the putative target pathway — **none directly evaluate Bimatoprost for this specific indication**. They are included here as background on the target disease mechanism only.
+Bimatoprost activeert FP (prostaglandine F)-receptoren en prostamide-receptoren. In de oftalmologie verlaagt dit de intraocculaire druk door toename van de cameravocht-afvoer; in de dermatologie verlengt dezelfde receptorroute de anagen (groei)fase van haarfollikels — een gelukkige waarneming die leidde tot de FDA-goedkeuring voor wimper-hypotrichosis (Latisse). Het geneesmiddel heeft daarom twee mechanistisch verschillende maar goed gekarakteriseerde goedgekeurde toepassingen.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35420698](https://pubmed.ncbi.nlm.nih.gov/35420698/) | 2022 | Systematic Review | Cochrane Database of Systematic Reviews | Periodontal treatment (SRP) produces modest but statistically significant improvement in glycaemic control in patients with diabetes and periodontitis |
-| [22057194](https://pubmed.ncbi.nlm.nih.gov/22057194/) | 2012 | Review | Diabetologia | Bidirectional relationship between diabetes and periodontitis established; diabetes increases periodontitis susceptibility approximately threefold |
-| [35688447](https://pubmed.ncbi.nlm.nih.gov/35688447/) | 2022 | Clinical Practice Guideline | Journal of Clinical Periodontology | EFP S3-level guideline for treatment of Stage IV periodontitis, addressing tooth loss sequelae and functional rehabilitation |
-| [36883660](https://pubmed.ncbi.nlm.nih.gov/36883660/) | 2023 | Review | Journal of Dental Research | Gingival fibroblasts act as innate immune sentinels in periodontium; key roles in periodontal inflammation and tissue remodelling |
-| [37452425](https://pubmed.ncbi.nlm.nih.gov/37452425/) | 2023 | Experimental | Advanced Science | M2 macrophage-derived exosomes engineered with melatonin shown to modulate immune microenvironment and reduce periodontal bone loss in animal models |
-| [38362600](https://pubmed.ncbi.nlm.nih.gov/38362600/) | 2024 | Observational | Journal of Dental Research | Stage III/IV periodontitis patients show oral–gut microbial dysbiosis; subgingival instrumentation partially restores microbiota (n=47) |
-| [38907216](https://pubmed.ncbi.nlm.nih.gov/38907216/) | 2024 | Review | Journal of Nanobiotechnology | Biomaterial-mediated macrophage immunotherapy as an emerging strategy for periodontal regeneration |
-| [37435999](https://pubmed.ncbi.nlm.nih.gov/37435999/) | 2023 | Review | Periodontology 2000 | Complications of regenerative periodontal surgery reviewed, including membrane exposure and infection risk |
-| [20599785](https://pubmed.ncbi.nlm.nih.gov/20599785/) | 2010 | Review | Biochemical Pharmacology | Complement system overactivation contributes to immunopathology in periodontitis; potential therapeutic target identified |
-| [9495612](https://pubmed.ncbi.nlm.nih.gov/9495612/) | 1998 | Observational | Journal of Clinical Periodontology | Foundational characterisation of microbial complexes in subgingival plaque (n=185); "red complex" pathogens associated with severe disease |
+De theoretische brug naar dentale/parodontale pathologie berust op de bekende rol van **prostaglandine E2 (PGE2)** in parodontale botresorptie en gingivale ontsteken. Omdat bimatoprost een prostaglandine-structurele analoog is, kan de TxGNN-kennisgraaf deze hebben verbonden met deze route via gedeelde receptor- of signaleringsknooppunten. In principe zou een prostamide-analoog prostaglandine-gerelateerde cascades kunnen moduleren die betrokken zijn bij parodontale weefselhomeostase en alveolaire botmetabolisme.
+
+In de praktijk is de verbinding echter zeer indirect. De doeleenheid — **malformatie-syndroom met dentale en/of parodontale component** — omvat zeldzame aangeboren syndromen (zoals Papillon-Lefèvre-syndroom of gerelateerde ectodermale dysplasieën) veroorzaakt door kiemlijnmutaties in structurele of immuunregulatorische genen. Prostamide/FP-receptoragonisme heeft geen vastgestelde rol in het corrigeren of wijzigen van de onderliggende ontwikkelingsfecten. De hoge TxGNN-score weerspiegelt waarschijnlijk het best gedeelde routeproximiteit in de kennisgraaf eerder dan een farmacologisch hanteerbare indicatie. Deze voorspelling wordt op dit moment beoordeeld als mechanistisch implausibel voor de specifieke zeldzame ziekte-eenheid.
 
 ---
 
-## Netherlands Market Information
+## Bewijs van klinische onderzoeken
 
-Bimatoprost currently holds **no marketing authorisations (RVG numbers)** registered with the CBG-MEB. It is not available through standard NL market channels.
-
-> **Note for prescribers:** In other EU jurisdictions bimatoprost is available as Lumigan (glaucoma, EMA centrally authorised) and as Latisse (eyelash hypotrichosis, national authorisations in several countries). For compassionate use, named-patient supply, or off-label prescribing in the Netherlands, a formal CBG-MEB or hospital pharmacy assessment would be required.
+Momenteel zijn er geen gerelateerde klinische onderzoeken voor bimatoprost in deze indicatie geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) of authorised bimatoprost products (e.g., Lumigan SmPC via EMA) for full safety information, including contraindications, special warnings, and drug interactions. No NL SmPC data were available in this evidence pack.
+De volgende publicaties werden opgehaald in de bewijszoeking. Zij beschrijven de biologie en behandeling van parodontale ziekte als de veronderstelde doelroute — **geen daarvan evalueert rechtstreeks bimatoprost voor deze specifieke indicatie**. Zij zijn hier opgenomen als achtergrondinformatie over het doelziektmechanisme alleen.
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [35420698](https://pubmed.ncbi.nlm.nih.gov/35420698/) | 2022 | Systematisch overzicht | Cochrane Database of Systematic Reviews | Parodontale behandeling (SRP) leidt tot bescheiden maar statistisch significante verbetering van glycemische controle bij patiënten met diabetes en parodontitis |
+| [22057194](https://pubmed.ncbi.nlm.nih.gov/22057194/) | 2012 | Overzicht | Diabetologia | Bidirectioneel verband tussen diabetes en parodontitis vastgesteld; diabetes verhoogt de gevoeligheid voor parodontitis ongeveer drie keer |
+| [35688447](https://pubmed.ncbi.nlm.nih.gov/35688447/) | 2022 | Klinische praktijkrichtlijn | Journal of Clinical Periodontology | EFP S3-niveau richtlijn voor behandeling van Stadium IV parodontitis, behandeling van gevolgen van tandverlies en functionele rehabilitatie |
+| [36883660](https://pubmed.ncbi.nlm.nih.gov/36883660/) | 2023 | Overzicht | Journal of Dental Research | Gingivale fibroblasten fungeren als natuurlijke immuunwachten in het parodontium; belangrijke rollen in parodontale ontsteken en weefselherschikking |
+| [37452425](https://pubmed.ncbi.nlm.nih.gov/37452425/) | 2023 | Experimenteel | Advanced Science | Van M2-macrofagen afkomstige exosomen, geconstrueerd met melatonine, bleken het immuun-microomgeving te moduleren en parodontaal botverlies in diermodellen te verminderen |
+| [38362600](https://pubmed.ncbi.nlm.nih.gov/38362600/) | 2024 | Observationeel | Journal of Dental Research | Patiënten met Stadium III/IV parodontitis vertonen oraal-darmmicrobiële dysbiose; subgingivale instrumentering herstelt microbiota gedeeltelijk (n=47) |
+| [38907216](https://pubmed.ncbi.nlm.nih.gov/38907216/) | 2024 | Overzicht | Journal of Nanobiotechnology | Biomaterialen-gemedieerde macrofaag-immunotherapie als opkomende strategie voor parodontale regeneratie |
+| [37435999](https://pubmed.ncbi.nlm.nih.gov/37435999/) | 2023 | Overzicht | Periodontology 2000 | Complicaties van regeneratieve parodontale chirurgie besproken, inclusief membraanblootstelling en infectierisico |
+| [20599785](https://pubmed.ncbi.nlm.nih.gov/20599785/) | 2010 | Overzicht | Biochemical Pharmacology | Overactivering van het complementsysteem draagt bij aan immunopathologie in parodontitis; mogelijk therapeutisch doel geïdentificeerd |
+| [9495612](https://pubmed.ncbi.nlm.nih.gov/9495612/) | 1998 | Observationeel | Journal of Clinical Periodontology | Fundamentele karakterisering van microbiële complexen in subgingivale tandplak (n=185); "rode complex"-pathogenen geassocieerd met ernstige ziekte |
 
 ---
 
-## Conclusion and Next Steps
+## Nederlandse marktinformatie
 
-**Decision: Hold**
+Bimatoprost beschikt momenteel over **geen handelsvergunningen (RVG-nummers)** geregistreerd bij de CBG-MEB. Het is niet beschikbaar via standaard NL-marktkanalen.
+
+> **Opmerking voor voorschrijvers:** In andere EU-jurisdicties is bimatoprost beschikbaar als Lumigan (glaucoom, centraal geautoriseerd door EMA) en als Latisse (wimper-hypotrichosis, nationale autorisaties in verschillende landen). Voor medelijdende toepassing, patiëntspecifieke levering of off-label prescriberen in Nederland zou een formele CBG-MEB- of ziekenhuisapotheekaanbeveling vereist zijn.
+
+---
+
+## Veiligheidsconsideraties
+
+Raadpleeg alstublieft de SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) van geautoriseerde bimatoprost-producten (bijv. Lumigan SmPC via EMA) voor volledige veiligheidsinformatie, inclusief contra-indicaties, speciale waarschuwingen en geneesmiddelinteracties. In deze bewijzenset waren geen NL SmPC-gegevens beschikbaar.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Wachten**
 
 **Rationale:**
-The TxGNN model assigns the highest prediction score in this candidate set to bimatoprost for malformation syndrome with odontal/periodontal component, but no clinical or direct preclinical evidence supports this link. The proposed mechanism through prostaglandin signalling is highly speculative and does not address the congenital developmental aetiology of the target syndrome. This is a model-only signal (L5) with no translational basis identified.
+Het TxGNN-model wijst de hoogste voorspellingsscore in deze kandidaatset toe aan bimatoprost voor malformatie-syndroom met dentale/parodontale component, maar geen klinische of directe preklinische evidence ondersteunt deze link. Het voorgestelde mechanisme via prostaglandinesignalering is zeer speculatief en behandelt niet de aangeboren ontwikkelingsetiologie van het doelsyndroom. Dit is een model-alleen signaal (L5) zonder geïdentificeerde translationale basis.
 
-**To proceed, the following is needed:**
+**Om door te gaan, is het volgende nodig:**
 
-- **Mechanistic validation:** Establish whether prostamide/FP receptor agonism has any measurable effect in in vitro models of periodontal ligament cells, dental follicle cells, or relevant gene-knockout models mimicking the target syndrome
-- **Target clarification:** Determine whether the TxGNN prediction refers to the developmental malformation syndrome entity specifically, or conflates it with acquired periodontitis (for which the retrieved literature applies)
-- **SmPC review:** Obtain and review the full EMA-authorised Lumigan SmPC for contraindications and warnings before any further evaluation
-- **Alternative candidates:** Consider prioritising the Bimatoprost × **Alopecia** indication (rank 8 in this evidence pack; L2 evidence, 11 completed Phase 2 RCTs, n=244–307), which presents a far stronger evidence base and a direct mechanistic rationale — this may represent the more actionable repurposing opportunity from this prediction set
-- **CBG-MEB registration status:** Clarify the regulatory pathway required to bring bimatoprost into the NL market for any indication, given zero current authorisations
+- **Mechanistische validatie:** Vaststellen of prostamide/FP-receptoragonisme enig meetbaar effect heeft in in vitro-modellen van parodontale ligamentcellen, tandfollikelcellen of relevante gen-knockout-modellen die het doelsyndroom nabootsen
+- **Doelverheldering:** Bepaal of de TxGNN-voorspelling zich specifiek op de ontwikkelings-malformatie-syndroomeenheid richt, of deze vermengt met verworven parodontitis (waarvoor de opgehaalde literatuur van toepassing is)
+- **SmPC-review:** Verkrijg en controleer de volledige door de EMA geautoriseerde Lumigan SmPC op contra-indicaties en waarschuwingen vóór verdere evaluatie
+- **Alternatieve kandidaten:** Overweeg prioriteit te geven aan de bimatoprost × **Alopecia** indicatie (rang 8 in deze bewijzenset; L2-evidence, 11 voltooide Fase 2 RCT's, n=244–307), die een veel sterkere bewijsbasis en een direct mechanistisch rationale biedt — dit kan de meer uitvoerbare herpositioneringskans uit deze voorspellingset vertegenwoordigen
+- **CBG-MEB registratiestatus:** Verduidelijk het regelgevingspad dat nodig is om bimatoprost voor enige indicatie op de NL-markt te brengen, gezien nul huidige autorisaties
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

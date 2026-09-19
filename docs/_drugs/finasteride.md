@@ -29,86 +29,83 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for the NL (Netherlands) deployment. Now generating the evaluation report based on the provided Evidence Pack.
+# Finasteride: Van androgenetische alopecia/BPH naar Ambras Type Hypertrichosis Universalis Congenita
+
+## Samenvatting in één zin
+
+Finasteride is een 5-alfa-reductase-remmer met gevestigde klinische toepassing bij benigne prostaataandoening (BPH) en mannelijk patroonhaaruitval (androgenetische alopecia), werkend door dihydrotestosteron (DHT)-spiegels te verlagen.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Ambras Type Hypertrichosis Universalis Congenita**, een zeldzame aangeboren aandoening met overmatige haargroei gekoppeld aan TRPS1-gen-herschikkingen,
+met **0 klinische trials** en **0 publicaties** die deze specifieke toepassing ondersteunen — bewijsniveau L5.
 
 ---
 
-# Finasteride: From Androgenetic Alopecia / BPH to Ambras Type Hypertrichosis Universalis Congenita
+## Beknopt overzicht
 
-## One-Sentence Summary
-
-Finasteride is a 5-alpha reductase inhibitor with established clinical use in benign prostatic hyperplasia (BPH) and male pattern hair loss (androgenetic alopecia), working by reducing dihydrotestosterone (DHT) levels.
-The TxGNN model predicts it may be effective for **Ambras Type Hypertrichosis Universalis Congenita**, a rare congenital hair overgrowth disorder linked to TRPS1 gene rearrangements,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction — evidence level L5.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Benign prostatic hyperplasia (BPH); male pattern hair loss (androgenetic alopecia) |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered (CBG-MEB data: 0 authorisations found) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Benigne prostaataandoening (BPH); mannelijk patroonhaaruitval (androgenetische alopecia) |
+| Voorspelde nieuwe indicatie | Ambras Type Hypertrichosis Universalis Congenita |
+| TxGNN-voorspellingsscore | 99.99% |
+| Bewijsniveau | L5 |
+| NL-marktsstatus | Niet geregistreerd (CBG-MEB-gegevens: 0 toestemmingen gevonden) |
+| Aantal toestemmingen | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on well-established pharmacological knowledge, Finasteride is a competitive inhibitor of 5-alpha reductase (isoforms type 1 and 2), the enzyme that converts testosterone into the more potent androgen dihydrotestosterone (DHT). By lowering tissue DHT concentrations, finasteride suppresses androgen-driven hair follicle miniaturisation in androgenetic alopecia and reduces prostate cell proliferation in BPH. Its efficacy in androgen-dependent conditions is pharmacologically well-characterised.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in dit Evidence Pack. Op basis van goed gevestigde farmacologische kennis is finasteride een competitieve remmer van 5-alfa-reductase (isovormen type 1 en 2), het enzym dat testosteron in het potentere androgeen dihydrotestosteron (DHT) omzet. Door DHT-concentraties in weefsels te verlagen, onderdrukt finasteride androgeen-gestuurde verkleining van haarvollicels bij androgenetische alopecia en vermindert het prostaatcelproliferatie bij BPH. De werkzaamheid bij androgeen-afhankelijke aandoeningen is farmacologisch goed gekarakteriseerd.
 
-Ambras Type Hypertrichosis Universalis Congenita, however, is a distinct biological entity. It is caused by chromosomal rearrangements at 8q22–24 that dysregulate the TRPS1 transcription factor, leading to generalised, dense hypertrichosis present from birth. This condition is **not androgen-dependent**: the pathomechanism involves transcription factor imbalance rather than excessive DHT signalling. Finasteride's primary mechanism — DHT suppression — therefore lacks a clear pharmacological rationale for reversing or modulating this congenital phenotype.
+Ambras Type Hypertrichosis Universalis Congenita is echter een onderscheidende biologische entiteit. Het wordt veroorzaakt door chromosoomherschikkingen op 8q22–24 die de transcriptiefactor TRPS1 dysreguleren, wat leidt tot gegeneraliseerde, dichte hypertrichose aanwezig vanaf de geboorte. Deze aandoening is **niet androgeen-afhankelijk**: het pathomechanisme betreft onevenwichtigheid van transcriptiefactoren in plaats van overmatige DHT-signalering. Het primaire werkingsmechanisme van finasteride — DHT-onderdrukking — mist daarom een duidelijke farmacologische onderbouwing voor het omkeren of moduleren van dit aangeboren fenotype.
 
-The TxGNN model's very high score (0.9999) almost certainly reflects the topological proximity of finasteride's established hair-follicle disease nodes to hypertrichosis disease nodes within the knowledge graph, rather than a genuine mechanistic link. This is a well-recognised limitation of graph-based repurposing models: rare congenital conditions that share broad phenotypic labels (e.g., "hair disease") with well-studied drug targets can generate high scores without meaningful biological overlap. In the absence of any preclinical or clinical evidence, this prediction should be considered a computational hypothesis only and is **not ready for clinical translation**.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De zeer hoge score van het TxGNN-model (0.9999) weerspiegelt vrijwel zeker de topologische nabijheid van de bekende haarziekteknopen van finasteride tot hypertrichose-ziekteknopen binnen de kennisgraaf, in plaats van een echte mechanistische link. Dit is een goed erkende beperking van op grafen gebaseerde herbestemmingsmodellen: zeldzame aangeboren aandoeningen die brede fenotypische labels (bijv. "haarziekte") delen met goed bestudeerde medicijnendoelen kunnen hoge scores genereren zonder betekenisvolle biologische overlap. Bij afwezigheid van enig preklinisch of klinisch bewijs moet deze voorspelling als zuiver computationele hypothese worden beschouwd en is **niet klaar voor klinische toepassing**.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische trials
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB marketing authorisation records were found for Finasteride in this dataset. This may indicate a data retrieval gap rather than true absence from the Dutch market — Finasteride products (e.g., Propecia 1 mg for androgenetic alopecia and Proscar 5 mg for BPH) are EMA-authorised and are expected to have national registration or mutual recognition procedure status in the Netherlands.
-
-**Action required:** Verify current NL authorisation status directly via the [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) or the [EMA product database](https://www.ema.europa.eu/en/medicines).
+Er zijn momenteel geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijs uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for complete safety information. No safety data — including warnings, contraindications, or drug interactions — was available in this Evidence Pack.
-
-> For EU-authorised products, the SmPC is accessible via the [EMA medicines portal](https://www.ema.europa.eu/en/medicines). For nationally authorised products, the SmPC can be obtained from the CBG-MEB.
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Marktinformatie Nederland
 
-**Decision: Hold**
+Er zijn geen CBG-MEB-marketingtoestemmingsregisters gevonden voor Finasteride in deze dataset. Dit kan een gegevensophaalleemte aangeven in plaats van werkelijke afwezigheid op de Nederlandse markt — Finasteride-producten (bijv. Propecia 1 mg voor androgenetische alopecia en Proscar 5 mg voor BPH) zijn EMA-goedgekeurd en hebben naar verwachting nationale registratie of wederzijdse erkenningsprocedure in Nederland.
 
-**Rationale:**
-Ambras Type Hypertrichosis Universalis Congenita is a TRPS1-mediated congenital disorder with no established connection to DHT signalling or androgen pathways. The TxGNN prediction (L5) is entirely unsupported by any clinical trial, preclinical study, or published literature, and the high model score most likely represents a knowledge graph topology artefact rather than a pharmacologically valid signal.
+**Actie vereist:** Controleer de huidige NL-toestemmingsstatus rechtstreeks via de [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) of de [EMA-medicijnendatabase](https://www.ema.europa.eu/en/medicines).
 
-**To proceed, the following is needed:**
+---
 
-- **Mechanistic validation:** Peer-reviewed evidence demonstrating that DHT or 5-alpha reductase activity plays a role in TRPS1-related hair follicle dysregulation
-- **Preclinical studies:** In vitro or in vivo data showing finasteride activity in relevant congenital hypertrichosis models
-- **CBG-MEB / EMA authorisation check:** Confirm current NL market status and retrieve the full SmPC for safety profiling
-- **MOA data gap closure:** Retrieve complete DrugBank entry (DB01216) to populate mechanism-of-action and safety fields for a proper S1-level safety evaluation
-- **Regulatory assessment:** If mechanistic evidence emerges, consult CBG-MEB guidance on off-label use or orphan designation pathways, given the ultra-rare nature of this condition
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen veiligheidsgegevens — inclusief waarschuwingen, contra-indicaties of geneesmiddelinteracties — waren beschikbaar in dit Evidence Pack.
+
+> Voor EMA-goedgekeurde producten is de SmPC toegankelijk via de [EMA-medicijnendatabase](https://www.ema.europa.eu/en/medicines). Voor nationaal goedgekeurde producten kan de SmPC worden verkregen van de CBG-MEB.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
+
+**Onderbouwing:**
+Ambras Type Hypertrichosis Universalis Congenita is een TRPS1-gemedieerde aangeboren aandoening zonder gevestigde verbinding met DHT-signalering of androgeen-pathway's. De TxGNN-voorspelling (L5) wordt volledig niet ondersteund door enige klinische trial, preklinische studie of gepubliceerde literatuur, en de hoge modelscore weerspiegelt hoogstwaarschijnlijk een kennisgraaf-topologie-artefact in plaats van een farmacologisch geldige aanwijzing.
+
+**Om verder te gaan is het volgende nodig:**
+
+- **Mechanistische validatie:** Vakblokgerefereerde bewijzen dat aantonen dat DHT of 5-alfa-reductase-activiteit een rol speelt in TRPS1-gerelateerde dysfunctie van haarvollicels
+- **Preklinische studies:** In vitro- of in vivo-gegevens die finasteride-activiteit aantonen in relevante modellen voor aangeboren hypertrichose
+- **CBG-MEB / EMA-toestemmingscontrole:** Bevestig huidige NL-marktsstatus en haal de volledige SmPC op voor veiligheidsprofiel
+- **MOA-gegevenslacune sluiten:** Haal volledige DrugBank-entry (DB01216) op om werkingsmechanisme- en veiligheidsvelden in te vullen voor een juiste S1-niveau veiligheidsevaluatie
+- **Regelgevingsbeoordeling:** Als mechanistische bewijzen opduiken, raadpleeg CBG-MEB-richtlijnen voor off-label gebruik of wees-aanwijzingspaden, gezien de ultra-zeldzame aard van deze aandoening
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

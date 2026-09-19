@@ -29,82 +29,79 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context — this is an NL (Netherlands) drug repurposing report. The skill confirms the NL deployment and standard workflow. Now generating the report from the Evidence Pack.
+# Olanzapine: van schizofrenie/bipolaire stoornis naar benigne paroxismale torticollis van zuigelingen
+
+## Samenvatting in één zin
+
+Olanzapine is een gevestigde tweede generatie (atypische) antipsychoticum, internationaal goedgekeurd voor schizofrenie en bipolaire stoornis.
+Het TxGNN-model voorspelt dat het relevant kan zijn voor **benigne paroxismale torticollis van zuigelingen (BPTI)**,
+met momenteel **0 klinische trials** en **0 publicaties** die deze richting ondersteunen.
+Belangrijk is dat een mechanistische review aangeeft dat dit waarschijnlijk een **omgekeerd signaal** is — de dopamine D2-antagonisme van olanzapine is een bekende *oorzaak* van geneesmiddel-geïnduceerde torticollis, niet een behandeling ervoor.
 
 ---
 
-# Olanzapine: From Schizophrenia / Bipolar Disorder to Benign Paroxysmal Torticollis of Infancy
+## Snelle samenvatting
 
-## One-Sentence Summary
-
-Olanzapine is a well-established second-generation (atypical) antipsychotic, approved internationally for schizophrenia and bipolar disorder.
-The TxGNN model predicts it may be relevant to **Benign Paroxysmal Torticollis of Infancy (BPTI)**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-Importantly, mechanistic review suggests this is likely a **reverse signal** — olanzapine's dopamine D2 antagonism is a known *cause* of drug-induced torticollis, not a treatment for it.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia; Bipolar Disorder *(NL authorisation data not retrieved — see note below)* |
-| Predicted New Indication | Benign Paroxysmal Torticollis of Infancy |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered *(data may be incomplete — see note below)* |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Schizofrenie; Bipolaire stoornis *(NL-autorisatiegegevens niet opgehaald — zie opmerking hieronder)* |
+| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van zuigelingen |
+| TxGNN-voorspellingsscore | 99.54% |
+| Evidentiëniveau | L5 |
+| NL-marktstatus | Niet geregistreerd *(gegevens kunnen incompleet zijn — zie opmerking hieronder)* |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Wacht |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data was not available in this Evidence Pack. Based on established pharmacological knowledge, Olanzapine is a multi-receptor antagonist with particularly strong affinity for dopamine D2 receptors and serotonin 5-HT2A receptors, as well as histamine H1, muscarinic, and alpha-adrenergic receptors. Its proven therapeutic role spans schizophrenia, acute bipolar mania, and — in combination with fluoxetine (as Symbyax) — bipolar depression.
+Gedetailleerde mechanisme-van-werkingsgegevens waren niet beschikbaar in dit Evidence Pack. Op basis van gevestigde farmacologische kennis is olanzapine een multi-receptorantagonist met bijzonder sterke affiniteit voor dopamine D2-receptoren en serotonine 5-HT2A-receptoren, evenals histamine H1-, muscarinische en alfa-adrenerge receptoren. De bewezen therapeutische toepassing omvat schizofrenie, acute bipolaire manie, en — in combinatie met fluoxetine (als Symbyax) — bipolaire depressie.
 
-Benign Paroxysmal Torticollis of Infancy (BPTI) is classified under the ICHD-3 as a childhood migraine variant. It presents as recurrent, self-limiting episodes of head tilt in infants and toddlers, with a proposed pathophysiology involving ion channel dysfunction and the trigeminovascular system — a mechanism that is distinct from the dopaminergic targets of olanzapine.
+Benigne paroxismale torticollis van zuigelingen (BPTI) wordt volgens de ICHD-3 geclassificeerd als een migraine-variant bij kinderen. Het presenteert zich als herhaalde, zelf-limiterende episodes van hoofdkanteling bij zuigelingen en peuters, met een veronderstelde pathofysiologie waarbij ionkanaal-dysfunctie en het trigeminovasculaire systeem betrokken zijn — een mechanisme dat verschilt van de dopaminerge aangrijpingspunten van olanzapine.
 
-**Critical mechanistic concern:** Rather than a genuine therapeutic signal, this TxGNN prediction is most likely a **reverse mechanistic artefact**. Acute drug-induced dystonia and torticollis are well-recognised adverse effects of D2 receptor antagonists, including olanzapine. The model's high score almost certainly reflects *knowledge graph proximity* — the "torticollis" symptom node is shared between BPTI and the adverse effect profile of olanzapine — rather than any positive treatment relationship. Applying olanzapine in BPTI would be mechanistically contraindicated and could actively worsen the condition.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+**Kritische mechanistische overweging:** In plaats van een echt therapeutisch signaal is deze TxGNN-voorspelling hoogstwaarschijnlijk een **omgekeerd mechanistisch artefact**. Acute geneesmiddel-geïnduceerde dystonie en torticollis zijn goed erkende bijwerkingen van D2-receptorantagonisten, waaronder olanzapine. De hoge score van het model weerspiegelt vrijwel zeker *nabijheid in de kennisgraaf* — het "torticollis"-symptoomknooppunt wordt gedeeld tussen BPTI en het bijwerkingenprofiel van olanzapine — in plaats van enige positieve behandelingsrelatie. Het toepassen van olanzapine bij BPTI zou mechanistisch gecontra-indiceerd zijn en zou de aandoening actief kunnen verergeren.
 
 ---
 
-## Literature Evidence
+## Bewijs van klinische trials
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB marketing authorisations for Olanzapine were retrieved in this dataset. This is likely a **data collection gap**: Olanzapine (brand name Zyprexa and multiple generic equivalents) is a centrally authorised medicinal product in the European Union and is expected to be available in the Netherlands under EMA authorisation. Prescribers should verify the current status directly via the [CBG-MEB product register](https://www.cbg-meb.nl/) or the [EMA European Public Assessment Report (EPAR)](https://www.ema.europa.eu/).
+Momenteel geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-Please refer to the SmPC (Summary of Product Characteristics) for complete safety information. In particular, given the mechanistic concern above, the sections on **extrapyramidal adverse effects**, **acute dystonia**, and **use in paediatric populations** are especially relevant to any assessment of this predicted indication.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Er werden geen CBG-MEB-marketingautorisaties voor olanzapine opgehaald in deze dataset. Dit is waarschijnlijk een **lacune in de gegevensverzameling**: olanzapine (merknaam Zyprexa en meerdere generieke equivalenten) is een centraal geautoriseerd geneesmiddel in de Europese Unie en wordt naar verwachting in Nederland beschikbaar gesteld onder EMA-autorisatie. Voorschrijvers moeten de huidige status rechtstreeks verifiëren via het [CBG-MEB-productregister](https://www.cbg-meb.nl/) of de [EMA European Public Assessment Report (EPAR)](https://www.ema.europa.eu/).
 
-**Rationale:**
-The TxGNN model assigns a high score based on knowledge graph proximity via a shared "torticollis" symptom node, but mechanistic analysis identifies this as a **reverse signal**: olanzapine-induced acute dystonia/torticollis is a known adverse drug reaction, making the drug more likely to *cause* the condition than treat it. There is no supporting clinical trial or literature evidence. This candidate should not advance further under the current framing.
+---
 
-**To proceed, the following is needed:**
-- Independent mechanistic review by a clinical pharmacologist to formally document the reverse signal and close this candidate
-- Retrieval of NL CBG-MEB / EMA authorisation data to correct the market status record for Olanzapine
-- Retrieval of the full SmPC (including extrapyramidal warnings and paediatric contraindications) to complete the safety profile
-- Completion of MOA data from DrugBank (flagged as DG002) to enable robust mechanistic analysis for all predicted indications
-- Consideration of the **Rank 2 (Agoraphobia, L3)** and **Rank 3 (Dysthymic Disorder, L3)** predicted indications, which carry more plausible mechanistic rationale and existing literature, and may be more productive repurposing candidates for further evaluation
+## Veiligheidsconsideraties
+
+Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor volledige veiligheidsinformatie. In het bijzonder, gezien de mechanistische overweging hierboven, zijn de secties over **extrapiramidale bijwerkingen**, **acute dystonie** en **gebruik in pediatrische populaties** vooral relevant voor elke beoordeling van deze voorspelde indicatie.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Wacht**
+
+**Argumentatie:**
+Het TxGNN-model kent een hoge score toe op basis van nabijheid in de kennisgraaf via een gedeeld "torticollis"-symptoomknooppunt, maar mechanistische analyse identificeert dit als een **omgekeerd signaal**: olanzapine-geïnduceerde acute dystonie/torticollis is een bekende ongewenste geneesmiddelreactie, waardoor het middel eerder de aandoening zal *veroorzaken* dan behandelen. Er is geen ondersteunend bewijs van klinische trials of literatuur. Deze kandidaat mag onder de huidige formulering niet verder gaan.
+
+**Voor vervolg is het volgende nodig:**
+- Onafhankelijke mechanistische review door een klinisch farmacoloog om het omgekeerde signaal formeel te documenteren en deze kandidaat af te sluiten
+- Ophaaling van NL CBG-MEB-/EMA-autorisatiegegevens om het marktstatusrecord voor olanzapine te corrigeren
+- Ophaaling van de volledige SmPC (inclusief waarschuwingen voor extrapiramidale effecten en pediatrische contra-indicaties) om het veiligheidsprofiel aan te vullen
+- Aanvulling van MOA-gegevens van DrugBank (gemarkeerd als DG002) voor robuuste mechanistische analyse van alle voorspelde indicaties
+- Overweging van de **Rank 2 (Agorafobie, L3)** en **Rank 3 (Dysthyme stoornis, L3)** voorspelde indicaties, die een plausibeler mechanistisch rationale en bestaande literatuur hebben, en meer veelbelovende herpositioneringskandidaten voor verdere evaluatie kunnen zijn
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

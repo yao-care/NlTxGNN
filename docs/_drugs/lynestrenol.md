@@ -29,107 +29,104 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-Using the `txgnn-pipeline` skill — this is a NL-country drug repurposing report. No additional overrides from the skill. Proceeding to generate the report per the system prompt (v5).
+# Lynestrenol: Van gynecologische aandoeningen naar migraine met of zonder aura
+
+## Samenvatting in één zin
+
+Lynestrenol (op de markt onder de naam Orgametril) is een synthetische progesterone die historisch is gebruikt voor gynecologische aandoeningen, waaronder endometriose, disfunctioneel uterijn bloedverlies en premenstruele stoornissen.
+Het TxGNN-model voorspelt dat het nuttig kan zijn bij **Migraine met of zonder aura (gevoeligheid)**, met **0 klinische proeven** en **20 publicaties** beschikbaar — hoewel de meeste literatuur zich richt op epilepsie-migraine genetische comorbiditeit mechanismen in plaats van de directe therapeutische rol van Lynestrenol, en het geneesmiddel momenteel geen handelstoelating heeft in Nederland.
 
 ---
 
-# Lynestrenol: From Gynecological Conditions to Migraine with or without Aura
+## Snelle beoordeling
 
-## One-Sentence Summary
-
-Lynestrenol (marketed as Orgametril) is a synthetic progestogen historically used for gynecological conditions including endometriosis, dysfunctional uterine bleeding, and premenstrual disorders.
-The TxGNN model predicts it may have utility in **Migraine with or without Aura (susceptibility)**, with **0 clinical trials** and **20 publications** available — though most literature addresses epilepsy-migraine genetic comorbidity mechanisms rather than Lynestrenol's direct therapeutic role, and the drug currently holds no marketing authorisation in the Netherlands.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Gynecological conditions (progestogen class; no NL marketing authorisation on record) |
-| Predicted New Indication | Migraine with or without Aura, susceptibility to |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Gynecologische aandoeningen (progesterone klasse; geen NL-handelstoelating geregistreerd) |
+| Voorspelde nieuwe indicatie | Migraine met of zonder aura, gevoeligheid voor |
+| TxGNN voorspellingsscore | 99.51% |
+| Bewijsniveau | L4 |
+| Nederlandse marktstatus | Niet geregistreerd |
+| Aantal toelastingen | 0 |
+| Aanbevolen besluit | In behandeling houden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacology, Lynestrenol is a synthetic progestogen structurally related to 19-nortestosterone. It is converted in vivo to norethisterone and subsequently to neuroactive metabolites — most notably allopregnanolone-like steroids — which act as positive allosteric modulators of GABA-A receptors. This raises the neuronal excitability threshold, a mechanism directly relevant to both migraine and epilepsy pathophysiology. In fact, this class of neuroactive steroids forms the basis for brexanolone, a clinically approved GABA-A modulator used in postpartum depression.
+Gedetailleerde informatie over werkingsmechanisme is niet beschikbaar in het huidige Evidence Pack. Op basis van vastgestelde farmacologie is Lynestrenol een synthetische progesterone die structureel gerelateerd is aan 19-nortestosteron. Het wordt in vivo omgezet naar norethisterone en vervolgens naar neuro-actieve metabolieten — met name GABA-A receptor-positieve allosterische modulatoren gelijkend op allopregnanolone — die de neuronale excitatiedrempel verhogen. Dit is rechtstreeks relevant voor zowel migraine als epilepsie pathofysiologie. In feite vormt deze klasse van neuro-actieve steroïden de basis voor brexanolone, een klinisch goedgekeurd GABA-A moduleerder dat wordt gebruikt bij postpartum depressie.
 
-Oestrogen withdrawal is a well-established migraine trigger, particularly in the menstrual window. By maintaining stable progestogenic tone, Lynestrenol may attenuate hormonal fluctuation and thereby reduce migraine frequency — especially in women with menstrually-associated migraine. A 1963 clinical observation by Lundberg (PMID 14091721) reported direct use of Lynestrenol (Orgametril) for migraine prophylaxis, providing the earliest direct clinical signal for this hypothesis. A 2026 comparative review (PMID 41723577) further contextualises progestogens within combined oral contraceptive use for migraine management, noting the nuanced benefit-risk balance by migraine subtype.
+Estrogeen-uitvallen is een goed vastgestelde migraine-trigger, vooral in het menstrueel raam. Door stabiele progesterogene toon te behouden, kan Lynestrenol hormonale fluctuaties verzwakken en daardoor migraine-frequentie verminderen — vooral bij vrouwen met menstrueel gerelateerde migraine. Een klinische waarneming uit 1963 van Lundberg (PMID 14091721) meldde direct gebruik van Lynestrenol (Orgametril) voor migraine profylaxe en bood het eerste directe klinische signaal voor deze hypothese. Een comparatief overzicht uit 2026 (PMID 41723577) plaatst progesteronen verder in het perspectief van gebruik met gecombineerde mondale anticonceptiva voor migraine management, stellende dat het genuanceerde voordeel-risico evenwicht per migraine-subtype verschilt.
 
-The TxGNN rank-1 prediction specifically targets the genetically-defined subtype "migraine with or without aura, susceptibility to," which shares genetic pathways with epilepsy (SCN1A, MTHFR variants, GABA-A receptor dysregulation). While the GABA-A modulatory mechanism of Lynestrenol's metabolites is plausible in this genetic context, the available literature for this specific subtype predominantly characterises epilepsy genetics rather than Lynestrenol's pharmacological activity. A direct mechanistic bridge to this genetic susceptibility variant remains to be demonstrated experimentally.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Lynestrenol in migraine with or without aura.
+De TxGNN rank-1 voorspelling richt zich specifiek op het genetisch gedefinieerde subtype "migraine met of zonder aura, gevoeligheid voor," die genetische paden deelt met epilepsie (SCN1A, MTHFR varianten, GABA-A receptor dysregulatie). Hoewel het GABA-A modulair mechanisme van Lynestrenol-metabolieten in deze genetische context farmacologisch aannemelijk is, karakteriseert de beschikbare literatuur voor dit specifieke subtype voornamelijk epilepsie-genetica in plaats van Lynestrenol's farmacologische activiteit. Een directe mechanische brug naar deze genetische gevoeligheidsvariante moet nog experimenteel worden aangetoond.
 
 ---
 
-## Literature Evidence
+## Klinisch proefbewijs
 
-The following publications are drawn from the rank-1 indication evidence set. Papers are ranked by relevance to the migraine-Lynestrenol mechanistic connection; note that several address epilepsy-migraine comorbidity at the genetic level rather than Lynestrenol directly.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [33856647](https://pubmed.ncbi.nlm.nih.gov/33856647/) | 2021 | Review | Molecular Neurobiology | Epilepsy and migraine share genetic susceptibility (SCN1A, MTHFR), neuroinflammatory pathways, and ion channel dysfunction; therapeutic strategies applicable to both conditions discussed |
-| [23294289](https://pubmed.ncbi.nlm.nih.gov/23294289/) | 2013 | Genetic Cohort Study | Epilepsia | Shared genetic susceptibility between migraine and epilepsy demonstrated in the Epilepsy Phenome/Genome Project (EPGP) cohort |
-| [17460155](https://pubmed.ncbi.nlm.nih.gov/17460155/) | 2007 | Genetic Linkage Study | Neurology | Large Belgian family with familial occipitotemporal lobe epilepsy co-segregating with migraine with visual aura; disease locus mapped to chromosome 9q |
-| [30267335](https://pubmed.ncbi.nlm.nih.gov/30267335/) | 2018 | Meta-analysis | Neurological Sciences | MTHFR C677T polymorphism significantly associated with epilepsy susceptibility; supports the migraine-epilepsy genetic overlap model |
-| [34575901](https://pubmed.ncbi.nlm.nih.gov/34575901/) | 2021 | Review | Int J Molecular Sciences | GABA-A receptor modulation identified as a key molecular target for antiepileptogenesis; directly relevant to the proposed mechanism of Lynestrenol's neuroactive metabolites |
-| [16201993](https://pubmed.ncbi.nlm.nih.gov/16201993/) | 2005 | Review | Epilepsia | Developmental changes in GABAergic and glutamatergic receptor composition drive heightened neural excitability; GABA-A subunit rearrangements described |
-| [34209535](https://pubmed.ncbi.nlm.nih.gov/34209535/) | 2021 | Review | Int J Molecular Sciences | Bidirectional relationship between neuroinflammation and epilepsy; shared inflammatory pathways with migraine aura pathophysiology |
-| [24076350](https://pubmed.ncbi.nlm.nih.gov/24076350/) | 2014 | Meta-analysis | Gene | SCN1A IVS5N+5G>A polymorphism associated with susceptibility to epilepsy with febrile seizures; SCN1A also implicated in migraine with aura |
-| [22938964](https://pubmed.ncbi.nlm.nih.gov/22938964/) | 2012 | Review | Handbook of Clinical Neurology | Overview of in vitro and in vivo animal models used to study epilepsy pathophysiology and drug mechanisms |
-| [28086980](https://pubmed.ncbi.nlm.nih.gov/28086980/) | 2017 | Review | Journal of Neuroinflammation | Post-traumatic epileptogenesis driven by neuroinflammation; inflammatory pathways overlap with cortical spreading depression in migraine aura |
-
-> **Directly relevant evidence from rank-2 (Migraine Disorder) — highest clinical specificity for Lynestrenol:**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Historical Case Series | Svenska Läkartidningen | **Earliest direct clinical report**: prophylactic use of Lynestrenol (Orgametril) for migraine treatment by Lundberg P.O. |
-| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Comparative Review | Medical Science Monitor | Review of progestogen-containing COC components across acne, hirsutism, migraine, and dysmenorrhoea; notes that menstrual migraine may benefit from extended-cycle regimens, while migraine with aura remains a COC contraindication |
+Momenteel geen gerelateerde klinische proeven geregistreerd voor Lynestrenol in migraine met of zonder aura.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Lynestrenol currently holds **no marketing authorisation** with the CBG-MEB (College ter Beoordeling van Geneesmiddelen). No RVG number is on record. The product is not available as a registered medicinal product in the Netherlands.
+De volgende publicaties zijn afkomstig uit de rank-1 indicatie bewijsset. Artikelen zijn gerangschikt naar relevantie voor de migraine-Lynestrenol mechanische verbinding; let op dat verschillende artikelen epilepsie-migraine comorbiditeit op genetisch niveau behandelen in plaats van Lynestrenol direct.
 
-> Historically, Lynestrenol was developed by Organon (a Dutch pharmaceutical company) and marketed as Orgametril in several European markets. Its regulatory status in neighbouring countries (Belgium, Germany, UK) may be relevant for a future cross-border authorisation or label-extension strategy.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-----------|-------------|
+| [33856647](https://pubmed.ncbi.nlm.nih.gov/33856647/) | 2021 | Overzicht | Molecular Neurobiology | Epilepsie en migraine delen genetische gevoeligheid (SCN1A, MTHFR), neuroinflammatie-routes en ionkanaal disfunctie; therapeutische strategieën toepasselijk op beide aandoeningen besproken |
+| [23294289](https://pubmed.ncbi.nlm.nih.gov/23294289/) | 2013 | Genetisch cohortonderzoek | Epilepsia | Gedeelde genetische gevoeligheid tussen migraine en epilepsie aangetoond in het Epilepsy Phenome/Genome Project (EPGP) cohort |
+| [17460155](https://pubmed.ncbi.nlm.nih.gov/17460155/) | 2007 | Genetische koppelingsstudie | Neurology | Grote Belgische familie met familiaire occipitale-temporale lobale epilepsie mee-segregerend met migraine met visuele aura; ziekte locus gemap op chromosoom 9q |
+| [30267335](https://pubmed.ncbi.nlm.nih.gov/30267335/) | 2018 | Meta-analyse | Neurological Sciences | MTHFR C677T polymorfisme significant geassocieerd met epilepsie gevoeligheid; ondersteunt het migraine-epilepsie genetische overlap model |
+| [34575901](https://pubmed.ncbi.nlm.nih.gov/34575901/) | 2021 | Overzicht | Int J Molecular Sciences | GABA-A receptor modulatie geïdentificeerd als belangrijke moleculaire doelstelling voor antiepileptogenese; rechtstreeks relevant voor het voorgestelde mechanisme van Lynestrenol's neuro-actieve metabolieten |
+| [16201993](https://pubmed.ncbi.nlm.nih.gov/16201993/) | 2005 | Overzicht | Epilepsia | Ontwikkelingsgerelateerde veranderingen in GABAerge en glutamaaterge receptor samenstelling drijven verhoogde neurale excitatibiliteit; GABA-A subeenheid herschikking beschreven |
+| [34209535](https://pubmed.ncbi.nlm.nih.gov/34209535/) | 2021 | Overzicht | Int J Molecular Sciences | Bidirectionele relatie tussen neuroinflammatie en epilepsie; gedeelde inflammatoire routes met migraine aura pathofysiologie |
+| [24076350](https://pubmed.ncbi.nlm.nih.gov/24076350/) | 2014 | Meta-analyse | Gene | SCN1A IVS5N+5G>A polymorfisme geassocieerd met gevoeligheid voor epilepsie met febiele insulten; SCN1A ook betrokken bij migraine met aura |
+| [22938964](https://pubmed.ncbi.nlm.nih.gov/22938964/) | 2012 | Overzicht | Handbook of Clinical Neurology | Overzicht van in vitro en in vivo diermodellen die worden gebruikt om epilepsie pathofysiologie en geneesmiddelmechanismen te bestuderen |
+| [28086980](https://pubmed.ncbi.nlm.nih.gov/28086980/) | 2017 | Overzicht | Journal of Neuroinflammation | Post-traumatische epileptogenese aangedreven door neuroinflammatie; inflammatoire routes overlappen met corticale verspreiding depressie in migraine aura |
+
+> **Direct relevant bewijs van rank-2 (Migraine Disorder) — hoogste klinische specificiteit voor Lynestrenol:**
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-----------|-------------|
+| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Historische casusreeks | Svenska Läkartidningen | **Vroegste direct klinisch rapport**: profylactisch gebruik van Lynestrenol (Orgametril) voor migraine behandeling door Lundberg P.O. |
+| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Comparatief overzicht | Medical Science Monitor | Overzicht van gestagen-bevattende COC-componenten bij acne, hirsutisme, migraine en dysmenorroe; opmerkt dat menstrueel gerelateerde migraine kan profiteren van verlengde-cyclus schema's, terwijl migraine met aura een COC contra-indicatie blijft |
 
 ---
 
-## Safety Considerations
+## Nederlandse marktinformatie
 
-Please refer to the SmPC (Samenvatting van de Productkenmerken) for complete safety information, as no structured warning or contraindication data was available in the current Evidence Pack.
+Lynestrenol heeft momenteel **geen handelstoelating** bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Er is geen RVG-nummer geregistreerd. Het product is niet beschikbaar als geregistreerd geneesmiddel in Nederland.
 
-**Class-level safety note relevant to the predicted indication:**
-Combined hormonal contraceptives (oestrogen + progestogen) are **contraindicated** in migraine with aura due to significantly increased thromboembolic and ischaemic stroke risk. As a progestogen-only agent, Lynestrenol theoretically carries lower thrombogenic risk, but this has not been formally evaluated for migraine with aura. For migraine with brainstem aura (rank-3 indication), the risk-benefit ratio is particularly unfavourable given the posterior circulation involvement. Any clinical investigation must prospectively characterise haemostatic effects and stroke risk.
+> Historisch werd Lynestrenol ontwikkeld door Organon (een Nederlands farmaceutisch bedrijf) en op de markt gebracht als Orgametril in verschillende Europese markten. De regelgeving in naburige landen (België, Duitsland, VK) kan relevant zijn voor een toekomstige grensoverschrijdende toelating of labeluitbreiding strategie.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Hold**
+Gelieve de SmPC (Samenvatting van de Productkenmerken) te raadplegen voor volledige veiligheidsinformatie, aangezien geen gestructureerde waarschuwings- of contra-indicatiegegevens beschikbaar waren in het huidige Evidence Pack.
+
+**Klassale veiligheidsmededeling relevant voor de voorspelde indicatie:**
+Gecombineerde hormonale anticonceptiva (estrogeen + gestagen) zijn **gecontra-indiceerd** bij migraine met aura vanwege significant verhoogd tromboembolisch en ischemisch beroerte risico. Als gestagenalleen preparaat draagt Lynestrenol theoretisch een lager thrombogeen risico, maar dit is niet formeel geëvalueerd voor migraine met aura. Voor migraine met hersenstammen aura (rank-3 indicatie) is de risico-baten verhouding bijzonder ongunstig gezien de posterieure circulatie betrokkenheid. Elk klinisch onderzoek moet prospectief hemostase effecten en beroerte risico karakteriseren.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: In behandeling houden**
 
 **Rationale:**
-Evidence is currently at L4, consisting of mechanism-level hypotheses and a single historical case series (1963) with no control group. Lynestrenol holds no NL marketing authorisation, making any near-term regulatory pathway for a new indication filing particularly complex. The most compelling pharmacological signal — GABA-A modulation via neuroactive progestogen metabolites — is mechanistically plausible but unvalidated in the migraine-with-aura genetic subtype targeted by the rank-1 TxGNN prediction.
+Bewijs is momenteel op L4, bestaande uit mechanisme-niveau hypotheses en een enkele historische casusreeks (1963) zonder controlegroep. Lynestrenol heeft geen NL-handelstoelating, waardoor elk nabij-termijn regelpad voor een nieuw indicatie dossier bijzonder complex wordt. Het meest overtuigende farmacologische signaal — GABA-A modulatie via neuro-actieve gestagen metabolieten — is mechanistisch aannemelijk maar ongeldig in het migraine-met-aura genetische subtype gericht door de rank-1 TxGNN voorspelling.
 
-**To proceed, the following is needed:**
+**Voor voortgang is het volgende nodig:**
 
-- **Mechanism confirmation**: Formal characterisation of Lynestrenol's neuroactive metabolite profile (allopregnanolone-type activity, GABA-A receptor binding data)
-- **Clinical evidence**: A prospective controlled trial evaluating Lynestrenol or its active metabolite norethisterone in menstrually-associated migraine; the 1963 Lundberg observation should be replicated with modern methodology
-- **Safety evaluation**: Dedicated assessment of coagulation parameters and stroke risk for the progestogen-only route in patients with migraine with aura
-- **SmPC review**: Obtain and review the SmPC from a jurisdiction where Lynestrenol is currently authorised (e.g., Belgium) to assess existing warnings and contraindications applicable to the Dutch healthcare context
-- **Regulatory pathway assessment**: Consultation with CBG-MEB on whether a new indication could be pursued under Article 29 (referral) or whether a fresh marketing authorisation application would be required, given the absence of any current NL registration
-- **Subtype stratification**: Distinguish between menstrual migraine without aura (potentially lower risk, plausible benefit) and migraine with aura (higher thrombotic risk, stricter safety standards required) before any clinical programme is designed
+- **Mechanisme bevestiging**: Formele karakterisering van Lynestrenol's neuro-actief metaboliet profiel (allopregnanolone-type activiteit, GABA-A receptor bindgegevens)
+- **Klinisch bewijs**: Een prospectief gecontroleerde proef die Lynestrenol of zijn actieve metaboliet norethisterone evalueert in menstrueel gerelateerde migraine; de waarneming van Lundberg uit 1963 zou met moderne methodologie gerepliceerd moeten worden
+- **Veiligheidsevaluatie**: Speciale beoordeling van coagulatieparameters en beroerte risico voor de gestagenalleen route bij patiënten met migraine met aura
+- **SmPC herziening**: Verkrijgen en beoordelen van de SmPC van een jurisdictie waar Lynestrenol momenteel is goedgekeurd (bijv. België) om bestaande waarschuwingen en contra-indicaties toepasselijk op de Nederlandse gezondheidszorg context te beoordelen
+- **Regelpad evaluatie**: Raadplegen met CBG-MEB over of een nieuwe indicatie zou kunnen worden nagestreefd onder artikel 29 (verwijzing) of of een vers handelstoelatingverzoek vereist zou zijn, gezien het ontbreken van enige huidige NL registratie
+- **Subtype stratificatie**: Onderscheid maken tussen menstrueel gerelateerde migraine zonder aura (mogelijk lager risico, aannemelijk voordeel) en migraine met aura (hoger trombotisch risico, strengere veiligheidsnormen vereist) voordat enig klinisch programma wordt ontworpen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,106 +29,107 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bicalutamide: From Prostate Cancer to Hypertrichosis
+# Bicalutamide: van prostaatkanker naar hypertrichose
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Bicalutamide is a well-established non-steroidal antiandrogen that competitively blocks the androgen receptor (AR), approved in numerous countries for the treatment of prostate cancer — though not currently registered in the Netherlands.
-The TxGNN model predicts it may be effective for **Hypertrichosis** — specifically, the management of minoxidil-induced excessive hair growth — with **1 publication** (an expert commentary letter) currently supporting this direction.
-The evidence base is limited to expert opinion, placing this candidate at the early research investigation stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (globally approved; not registered in the Netherlands) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Bicalutamide is een goed gevestigde niet-steroidale antiandrogeen die competitief de androgenreceptor (AR) blokkeert, goedgekeurd in verschillende landen voor de behandeling van prostaatkanker — hoewel momenteel niet geregistreerd in Nederland.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **hypertrichose** — specifiek voor de behandeling van minoxidil-geïnduceerde buitensporige haargroei — ondersteund door momenteel **1 publicatie** (een adviesbrief).
+De bewijsbasis beperkt zich tot expert opinion, wat deze kandidaat in een vroeg onderzoeksstadium plaatst.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Currently, detailed mechanism of action data is not formally captured in this Evidence Pack. Based on known pharmacological information and contextual signals within the evidence pack, Bicalutamide is a non-steroidal antiandrogen that competitively antagonizes the androgen receptor (AR). Androgens signaling through AR are a primary driver of hair follicle biology: in androgen-sensitive follicles, AR activation promotes follicle miniaturization in scalp hair while stimulating growth in body hair. By blocking AR, bicalutamide can attenuate follicular response to endogenous androgens.
-
-In the context of minoxidil-induced hypertrichosis — a recognized side effect of systemic or topical minoxidil use — the excessive hair growth may be partially mediated through androgen-responsive follicular pathways. AR antagonism could theoretically reduce this unwanted growth by dampening follicular sensitivity to endogenous androgens. This provides a mechanistically coherent, if narrow, rationale for the TxGNN prediction.
-
-It is important to note that this application is highly specific: the sole published commentary concerns managing a drug-induced side effect, not a primary disease indication. Furthermore, not all forms of hypertrichosis are androgen-driven — for example, the congenital Ambras type (also predicted by TxGNN at rank 3) is caused by chromosomal rearrangements affecting TRPS1/HR gene regulation, where AR antagonism has no pharmacological basis. The therapeutic scope of bicalutamide in hypertrichosis is therefore very narrow and requires prospective study.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Prostaatkanker (wereldwijd goedgekeurd; niet geregistreerd in Nederland) |
+| Voorspelde nieuwe indicatie | Hypertrichose |
+| TxGNN-voorspellingsscore | 99.69% |
+| Bewijsniveau | L4 |
+| NL-registratiestatus | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | In behandeling houden |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Letter / Comment | Journal of the American Academy of Dermatology | Expert commentary responding to a retrospective review of 35 patients, reporting that bicalutamide can improve minoxidil-induced hypertrichosis in female pattern hair loss; no new primary data presented |
+Momenteel zijn gedetailleerde gegevens over werkingsmechanisme niet formeel vastgelegd in dit Evidence Pack. Op basis van bekende farmacologische informatie en contextuele signalen in het evidence pack, is bicalutamide een niet-steroidale antiandrogeen die de androgenreceptor (AR) competitief antagoniseert. Androgeensignalering via AR is een primair drijfveer van haarfollikkelbiologie: bij androgeen-gevoelige follikels bevordert AR-activatie follikelminiatuurisatie in hoofdhaar, terwijl het lichaamshaargroei stimuleert. Door AR te blokkeren kan bicalutamide de follikelrespons op endogene androgenen verzwakken.
 
----
+In de context van minoxidil-geïnduceerde hypertrichose — een erkend bijeffect van systemisch of topisch minoxidilgebruik — kan de buitensporige haargroei gedeeltelijk gemedieerd worden via androgeen-gevoelige follikelwegen. AR-antagonisme zou theoretisch deze ongewenste groei kunnen verminderen door follikelgevoeligheid voor endogene androgenen af te zwakken. Dit biedt een mechanistisch coherente, zij het zeer beperkte, onderbouwing voor de TxGNN-voorspelling.
 
-## Netherlands Market Information
-
-Bicalutamide is currently **not registered** with the CBG-MEB (College ter Beoordeling van Geneesmiddelen). No RVG marketing authorization numbers are on record, and there are no active licenses in the Netherlands. Any clinical use would require access via a special import procedure or a named-patient / compassionate use basis, subject to CBG-MEB authorization.
-
-> Note: Bicalutamide (brand name Casodex) holds regulatory approval in many other countries for prostate cancer treatment. For prescribing information applicable to Dutch clinical practice, clinicians should consult the EMA SmPC or the authorized SmPC from another EU member state.
+Het is belangrijk op te merken dat deze toepassing zeer specifiek is: de enige gepubliceerde commentaar betreft het beheer van een geneesmiddel-geïnduceerd bijeffect, geen primaire ziekteaanduiding. Bovendien zijn niet alle vormen van hypertrichose androgeen-gestuurd — bijvoorbeeld het aangeboren Ambras-type (ook voorspeld door TxGNN op rang 3) wordt veroorzaakt door chromosomale herschikkingen die TRPS1/HR-genregulering beïnvloeden, waar AR-antagonisme geen farmacologische basis heeft. Het therapeutische bereik van bicalutamide in hypertrichose is daarom zeer beperkt en vereist prospectief onderzoek.
 
 ---
 
-## Cytotoxicity
+## Bewijsmateriaal uit klinische onderzoeken
 
-Bicalutamide is used in the treatment of prostate cancer and qualifies for this section as an antineoplastic agent.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Non-steroidal antiandrogen (hormone therapy); **not** a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — bicalutamide does not cause myelosuppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (LFTs) at baseline and periodically due to hepatotoxicity risk; PSA monitoring in prostate cancer settings; standard CBC |
-| Handling Protection | Standard pharmaceutical handling procedures apply; specialized cytotoxic handling measures are not required |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-No formal SmPC safety data is available from the CBG-MEB registry as bicalutamide is not registered in the Netherlands. Please refer to the EMA SmPC or international SmPC (e.g., Casodex) for complete safety information. Key areas of clinical relevance from the international prescribing information include:
-
-- **Known class effects**: Hepatotoxicity (including rare fatal cases), gynaecomastia and breast pain, hot flushes, decreased libido
-- **Drug–drug interactions**: Bicalutamide is a CYP3A4 substrate and inhibitor; a clinically significant interaction with warfarin has been documented (potentiation of anticoagulant effect requiring INR monitoring)
-- **Special populations**: Contraindicated in women of childbearing potential due to teratogenic risk; not indicated for use in children
-
-No DDI records, specific Dutch-market warnings, or CBG-MEB contraindication data were retrieved for this Evidence Pack.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Letter / Comment | Journal of the American Academy of Dermatology | Expert commentaar als reactie op een retrospectieve beoordeling van 35 patiënten, met de mededeling dat bicalutamide minoxidil-geïnduceerde hypertrichose kan verbeteren bij vrouwepatroonhaarverlies; geen nieuwe primaire gegevens gepresenteerd |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Hold**
+Bicalutamide is momenteel **niet geregistreerd** bij het CBG-MEB (College ter Beoordeling van Geneesmiddelen). Er zijn geen RVG-handelsautorisatienummers geregistreerd, en er zijn geen actieve licenties in Nederland. Enig klinisch gebruik zou toegang via een speciale importprocedure of naamspatiënt-/compassionateuse-basis vereisen, onderworpen aan CBG-MEB-autorisatie.
 
-**Rationale:**
-The only available supporting evidence is a single expert commentary letter discussing bicalutamide for a drug side-effect management scenario — a highly narrow application with L4 evidence only. This is insufficient to support a formal drug repurposing recommendation within the Dutch healthcare system at this time.
-
-**To proceed, the following is needed:**
-
-- Prospective clinical studies or well-designed retrospective case series specifically evaluating bicalutamide for hypertrichosis (particularly minoxidil-induced cases)
-- Formal MOA data retrieval from the DrugBank API (DrugBank ID: DB01128) to complete the mechanistic gap analysis (currently flagged as a High-severity data gap)
-- Full safety profile review from EMA SmPC or equivalent to assess risk–benefit appropriateness for Dutch patients
-- Clarification of the CBG-MEB regulatory pathway for off-label or compassionate use, should a pilot clinical investigation be proposed
-- Consideration of whether the narrow scope of this indication — management of a minoxidil side effect — justifies a standalone repurposing program, or whether resources should be directed toward bicalutamide candidates with substantially stronger evidence, notably **female breast carcinoma (AR-positive/TNBC)**, which carries L2 evidence including an active Phase 2 clinical trial (NCT03650894) and 20 supporting publications
+> Opmerking: Bicalutamide (merknaam Casodex) heeft regelgevingsgoedkeuring in veel andere landen voor prostaatkankersbehandeling. Voor prescriptieinformatie die van toepassing is op Nederlandse klinische praktijk, moeten clinici het EMA SmPC of het geautoriseerde SmPC van een ander EU-lidstaat raadplegen.
 
 ---
 
-> ⚠️ **Disclaimer**: This report is intended for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application. This analysis reflects data available as of 2026-04-03.
+## Cytotoxiciteit
+
+Bicalutamide wordt gebruikt bij de behandeling van prostaatkanker en komt in aanmerking voor deze sectie als antineoplastisch middel.
+
+| Item | Inhoud |
+|------|--------|
+| Cytotoxiciteitsclassificatie | Gerichte therapie — Niet-steroidale antiandrogeen (hormonentherapie); **geen** conventioneel cytotoxisch middel |
+| Risico op myelosuppressie | Laag — bicalutamide veroorzaakt geen myelosuppressie |
+| Emetogenesisclassificatie | Laag |
+| Monitoringposten | Leverfunctietests (LFT's) bij baseline en periodiek vanwege hepatotoxiciteitsrisico; PSA-monitoring in prostaatkankersettingen; standaard CBC |
+| Behandelingsbeveiliging | Standaardprocedures voor farmaceutische handeling zijn van toepassing; gespecialiseerde cytotoxische behandelingsmaatregelen zijn niet vereist |
+
+---
+
+## Veiligheidsoverwegingen
+
+Geen formele SmPC-veiligheidsgegevens zijn beschikbaar uit het CBG-MEB-register, aangezien bicalutamide niet in Nederland is geregistreerd. Raadpleeg het EMA SmPC of internationaal SmPC (bijv. Casodex) voor volledige veiligheidsinformatie. Belangrijke klinisch relevante gebieden uit de internationale voorschrijvingsinformatie zijn onder meer:
+
+- **Bekende klassieke effecten**: Hepatotoxiciteit (inclusief zeldzame fatale gevallen), gynecomastie en borstpijn, hete flitsen, verminderde libido
+- **Medicijninteracties**: Bicalutamide is een CYP3A4-substraat en -remmer; een klinisch significante interactie met warfarine is gedocumenteerd (versterking van anticoagulanseffect waarvoor INR-monitoring nodig is)
+- **Speciale populaties**: Contragewezen bij vrouwen van reproduktief potentieel vanwege teratogeen risico; niet aangegeven voor gebruik bij kinderen
+
+Geen DDI-records, specifieke waarschuwingen voor de Nederlandse markt of CBG-MEB-contraïndicatiegegevens werden opgehaald voor dit Evidence Pack.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In behandeling houden**
+
+**Onderbouwing:**
+Het enige beschikbare ondersteunende bewijs is een enkele adviesbrief waarin bicalutamide wordt besproken voor een geneesmiddel-bijeffectbeheersscenario — een zeer beperkte toepassing met alleen L4-bewijs. Dit is onvoldoende om een formele aanbeveling voor geneesmiddelhergebruik binnen het Nederlandse gezondheidssysteem op dit moment te ondersteunen.
+
+**Om door te gaan is het volgende nodig:**
+
+- Prospectieve klinische onderzoeken of goed ontworpen retrospectieve case series die bicalutamide specifiek voor hypertrichose evalueren (in het bijzonder minoxidil-geïnduceerde gevallen)
+- Formele MOA-gegevensopvraging uit de DrugBank API (DrugBank ID: DB01128) om de mechanistische gegevenskloof aan te vullen (momenteel gemarkeerd als High-severity data gap)
+- Volledige veiligheidsprofielrecensie uit EMA SmPC of equivalent om baten-risicogeschiktheid voor Nederlandse patiënten te beoordelen
+- Verduidelijking van het CBG-MEB-regelgevingspad voor off-label of compassionateuse, voor het geval een pilot klinisch onderzoek wordt voorgesteld
+- Afweging of het beperkte bereik van deze indicatie — beheer van een geneesmiddel-bijeffect — een standalone hergebruiksprogramma rechtvaardigt, of dat middelen moeten worden gericht op bicalutamide-kandidaten met aanzienlijk sterker bewijs, met name **vrouwelijke borstkanker (AR-positief/TNBC)**, dat L2-bewijs draagt inclusief een actieve Phase 2 klinische trial (NCT03650894) en 20 ondersteunende publicaties
+
+---
+
+> ⚠️ **Disclaimer**: Dit rapport is bedoeld als onderzoeksreferentie en vormt geen medisch advies. Alle geneesmiddel-hergebruikskandidaten vereisen klinische validatie vóór toepassing. Deze analyse weerspiegelt gegevens die beschikbaar zijn per 2026-04-03.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,118 +29,119 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Alfacalcidol: From Vitamin D-Related Disorders to Familial Isolated Hypoparathyroidism
+# Alfacalcidol: Van vitamine D-gerelateerde aandoeningen tot familaal geïsoleerd hypoparathyroidisme
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Alfacalcidol is a synthetic vitamin D analog (1α-hydroxycholecalciferol) widely used for calcium and bone metabolism disorders such as renal osteodystrophy and osteomalacia. The TxGNN model predicts it may be effective for **Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion**, with strong mechanistic rationale supporting this direction, though **no dedicated clinical trials or publications** specific to this rare indication have been identified. A secondary prediction for **Renal Tubular Acidosis** (rank 5) is supported by **8 publications** including case reports demonstrating alfacalcidol use in this setting.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | No authorized indications on record (not marketed in the Netherlands) |
-| Predicted New Indication | Familial isolated hypoparathyroidism due to impaired PTH secretion |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L4 — Established mechanistic rationale, no dedicated clinical trials |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Alfacalcidol is een synthetisch vitamine D-analogon (1α-hydroxycholecalciferol) dat veel wordt gebruikt voor stoornissen in calcium- en botmetabolisme, zoals renale osteoïdystrofie en osteomalacia. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Familaal geïsoleerd hypoparathyroidisme door verslechterde PTH-secretie**, met sterke mechanistische ondersteuning voor deze richting, hoewel **geen gerichte klinische trials of publicaties** specifiek voor deze zeldzame indicatie zijn gevonden. Een secundaire voorspelling voor **Renale tubulaire acidose** (rang 5) wordt ondersteund door **8 publicaties**, inclusief patiëntkasuïstieken die alfacalcidol-gebruik in deze context aantonen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Alfacalcidol (1α-hydroxycholecalciferol) is a prodrug that requires only hepatic 25-hydroxylation to be converted into calcitriol (1,25-dihydroxyvitamin D₃), the biologically active form of vitamin D. Unlike native vitamin D, it bypasses the renal 1α-hydroxylation step — a critical distinction because this enzyme is normally stimulated by parathyroid hormone (PTH).
-
-In familial isolated hypoparathyroidism due to impaired PTH secretion, the core defect is insufficient PTH production. This leads to reduced renal 1α-hydroxylase activity, diminished calcitriol synthesis, and consequently hypocalcaemia. Because alfacalcidol does not depend on PTH-driven renal activation, it directly compensates for this metabolic block. This is a well-established pharmacological principle: alfacalcidol is already recognized as standard-of-care for general hypoparathyroidism in many countries, and its application to this familial subtype follows the same mechanistic logic.
-
-The TxGNN prediction score of 99.61% is consistent with this strong mechanistic link. While the specific familial subtype is rare and lacks dedicated clinical trial data, the broader use of alfacalcidol in hypoparathyroidism is well-documented in clinical practice, making this a high-confidence repurposing candidate from a pharmacological standpoint.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for alfacalcidol specifically targeting familial isolated hypoparathyroidism due to impaired PTH secretion.
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Geen geautoriseerde indicaties op record (niet op de markt in Nederland) |
+| Voorspelde nieuwe indicatie | Familaal geïsoleerd hypoparathyroidisme door verslechterde PTH-secretie |
+| TxGNN-voorspellingsscore | 99.61% |
+| Bewijsniveau | L4 — Vastgestelde mechanistische grondslag, geen gerichte klinische trials |
+| NL-marketstatus | Niet op de markt |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Doorgaan met waarborgen |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-No publications were identified that specifically address alfacalcidol in the context of familial isolated hypoparathyroidism due to impaired PTH secretion. However, the established use of alfacalcidol in general hypoparathyroidism is well-documented in endocrinology textbooks and guidelines.
+Alfacalcidol (1α-hydroxycholecalciferol) is een prodrug die slechts hepatische 25-hydroxylering nodig heeft om te worden omgezet in calcitriol (1,25-dihydroxyvitamine D₃), de biologisch actieve vorm van vitamine D. Anders dan natuurlijk vitamine D omzeilt het de renale 1α-hydroxyleringsstap — een kritiek onderscheid omdat dit enzym normaal wordt gestimuleerd door parathormon (PTH).
 
----
+In familaal geïsoleerd hypoparathyroidisme door verslechterde PTH-secretie is het kerndefect onvoldoende PTH-productie. Dit leidt tot verminderde renale 1α-hydroxylaseactiviteit, verminderde calcitriolsynthese en dus hypocalcemie. Omdat alfacalcidol niet afhankelijk is van PTH-gestuurde renale activering, compenseert het direct voor dit metabolische blok. Dit is een goed gevestigd farmacologisch principe: alfacalcidol wordt al erkend als standaard-van-zorg voor algemeen hypoparathyroidisme in veel landen, en de toepassing ervan op dit familiale subtype volgt dezelfde mechanistische logica.
 
-## Netherlands Market Information
-
-Alfacalcidol currently holds no marketing authorization (RVG) in the Netherlands. No CBG-MEB licensed products were identified.
-
-> **Note:** Alfacalcidol is marketed in other European countries and may be accessible via cross-border pharmacy supply or the EMA named patient/compassionate use framework. A CBG-MEB application or Article 126a procedure may be required.
+De TxGNN-voorspellingsscore van 99.61% is consistent met deze sterke mechanistische link. Hoewel het specifieke familiale subtype zeldzaam is en geen gerichte klinische trialgegevens beschikbaar zijn, is het bredere gebruik van alfacalcidol bij hypoparathyroidisme goed gedocumenteerd in de klinische praktijk, waardoor dit een voorspelling met hoog vertrouwen voor geneesmiddelhervormingen is vanuit een farmacologisch oogpunt.
 
 ---
 
-## Safety Considerations
+## Bewijs uit klinische trials
 
-Please refer to the SmPC (Summary of Product Characteristics) from the country of origin for safety information. No safety data (warnings, contraindications, or drug-drug interactions) was available in the current evidence pack.
-
-> **Data Gap:** TFDA label warnings and contraindications have not yet been extracted. This is classified as a **blocking** gap for Stage 1 safety assessment. Remediation: download and parse the SmPC/PIL from the relevant regulatory authority.
+Momenteel zijn er geen gerelateerde klinische trials geregistreerd voor alfacalcidol speciaal gericht op familaal geïsoleerd hypoparathyroidisme door verslechterde PTH-secretie.
 
 ---
 
-## Additional Predicted Indications
+## Bewijsvoering uit literatuur
 
-The TxGNN model identified four additional indications. Two are noteworthy:
-
-### Renal Tubular Acidosis (Rank 5) — Proceed with Guardrails
-
-| Item | Content |
-|------|------|
-| TxGNN Score | 99.27% |
-| Evidence Level | L4 |
-| Mechanistic Link | **Strong** — RTA (especially Type 2/proximal and Fanconi syndrome) causes phosphate wasting, chronic metabolic acidosis suppressing renal 1α-hydroxylase, and secondary osteomalacia. Alfacalcidol bypasses impaired renal vitamin D activation. |
-
-#### Literature Evidence (Renal Tubular Acidosis)
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Case Report | Intern Med (Tokyo) | Rapid improvement of osteomalacia with alfacalcidol in Sjögren's + RTA-1 |
-| [22740247](https://pubmed.ncbi.nlm.nih.gov/22740247/) | 2013 | Case Report | Mod Rheumatol | Successful treatment of osteomalacia caused by RTA + Sjögren's; alfacalcidol used as part of regimen, bone density normalized by 24 months |
-| [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Clinical Study | Contrib Nephrol | 1α-OH-VD₃ in 6 patients with different types of Fanconi syndrome; 200–250× potency vs vitamin D₂; calcium malabsorption from failed 1α-hydroxylation confirmed |
-| [33398781](https://pubmed.ncbi.nlm.nih.gov/33398781/) | 2021 | Case Report | CEN Case Rep | Osteomalacia from atypical RTA with vitamin D deficiency; treated with active vitamin D |
-| [28509074](https://pubmed.ncbi.nlm.nih.gov/28509074/) | 2012 | Case Report + Review | CEN Case Rep | Osteomalacia secondary to distal RTA due to Sjögren's; alfacalcidol in management |
-| [36412607](https://pubmed.ncbi.nlm.nih.gov/36412607/) | 2023 | Case Report | Kidney Blood Press Res | Severe hypophosphatemia as initial presentation of renal Fanconi's syndrome and distal RTA |
-| [6709109](https://pubmed.ncbi.nlm.nih.gov/6709109/) | 1984 | Case Report | Neth J Med | 25-hydroxylation of 1α-OH vitamin D in primary biliary cirrhosis complicated by RTA |
-| [9134837](https://pubmed.ncbi.nlm.nih.gov/9134837/) | 1997 | Longitudinal Follow-up | Nihon Jinzo Gakkai Shi | Long-term bone mineral density follow-up in adult idiopathic Fanconi syndrome |
-
-### Indications with Weak Mechanistic Links (Hold)
-
-| Rank | Disease | TxGNN Score | Recommendation | Rationale |
-|------|---------|-------------|----------------|-----------|
-| 2 | Dahlberg-Borer-Newcomer syndrome | 99.60% | Hold | Ultra-rare genetic disorder with no known link to calcium/phosphate metabolism; high TxGNN score likely an artifact of rare disease node connectivity patterns |
-| 3 | Craniofacial conodysplasia | 99.55% | Hold | Genetic craniofacial bone malformation driven by developmental signaling pathways (SHH, BMP, FGF), not calcium/phosphate imbalance |
-| 4 | Acromesomelic dysplasia, Campailla Martinelli type | 99.53% | Hold | Genetic short-limb dwarfism involving growth plate chondrocyte mutations (GDF5/BMPR1B/NPR2); VDR-mediated calcium regulation cannot correct this |
+Er zijn geen publicaties gevonden die specifiek ingaan op alfacalcidol in de context van familaal geïsoleerd hypoparathyroidisme door verslechterde PTH-secretie. Het gevestigde gebruik van alfacalcidol bij algemeen hypoparathyroidisme is echter goed gedocumenteerd in endocrinologie-handboeken en -richtlijnen.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Proceed with Guardrails**
+Alfacalcidol beschikt momenteel niet over een verkoopvergunning (RVG) in Nederland. Er werden geen CBG-MEB gelicentieerde producten geïdentificeerd.
 
-**Rationale:**
-Alfacalcidol has a strong, well-established pharmacological mechanism for treating hypoparathyroidism — it bypasses PTH-dependent renal 1α-hydroxylation to restore active vitamin D levels and correct hypocalcaemia. While the specific familial isolated subtype lacks dedicated trials, the drug's mechanism directly addresses the core pathophysiology. The secondary prediction for renal tubular acidosis is further supported by multiple case reports demonstrating clinical benefit.
-
-**To proceed, the following is needed:**
-- **Regulatory pathway clarification**: Determine how to access alfacalcidol in the Netherlands (cross-border supply, Article 126a, or new CBG-MEB application)
-- **SmPC/safety data extraction**: Obtain the Summary of Product Characteristics from an EU-authorized source to complete the safety assessment (currently a blocking data gap)
-- **Mechanism of action documentation**: Retrieve full MOA data from DrugBank to formalize the pharmacological rationale
-- **Clinical evidence for familial subtype**: Conduct a targeted literature search for alfacalcidol or calcitriol use specifically in familial isolated hypoparathyroidism registries
-- **Expert consultation**: Engage a clinical endocrinologist to assess the applicability of standard hypoparathyroidism management protocols to this rare genetic subtype
+> **Opmerking:** Alfacalcidol wordt op andere Europese markten verkocht en kan toegankelijk zijn via grensoverschrijdende apothekerslevering of het EMA-kader voor benoemde patiënten/mededogende toepassing. Een CBG-MEB-aanvraag of artikel 126a-procedure kan nodig zijn.
 
 ---
 
-*This report is generated for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Report version: v4 | Data cutoff: 2026-04-03 | Candidate ID: TW-DB01436-multi*
+## Veiligheidsbeschouwingen
+
+Raadpleeg het SmPC (Samenvatting van productkenmerken) van het land van herkomst voor veiligheidsinformatie. Geen veiligheidsgegevens (waarschuwingen, contra-indicaties of geneesmiddelinteracties) waren beschikbaar in het huidige bewijspakket.
+
+> **Datahiaat:** TFDA-labelwaarschuwingen en contra-indicaties zijn nog niet geëxtraheerd. Dit is geclassificeerd als een **blokkerend** hiaat voor fase 1-veiligheidsevaluatie. Herstel: download en parse het SmPC/PIL van de desbetreffende regelgevingsinstantie.
+
+---
+
+## Aanvullende voorspelde indicaties
+
+Het TxGNN-model identificeerde vier aanvullende indicaties. Twee zijn opmerkingswaardig:
+
+### Renale tubulaire acidose (rang 5) — Doorgaan met waarborgen
+
+| Item | Inhoud |
+|------|--------|
+| TxGNN-score | 99.27% |
+| Bewijsniveau | L4 |
+| Mechanistische link | **Sterk** — RTA (vooral type 2/proximaal en Fanconi-syndroom) veroorzaakt fosfaatverlies, chronische metabolische acidose die renale 1α-hydroxylase onderdrukt, en secundaire osteomalacia. Alfacalcidol omzeilt verslechterde renale vitamine D-activering. |
+
+#### Bewijsvoering uit literatuur (renale tubulaire acidose)
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|--------------------------|
+| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Kasuïstiek | Intern Med (Tokyo) | Snelle verbetering van osteomalacia met alfacalcidol bij Sjögren + RTA-1 |
+| [22740247](https://pubmed.ncbi.nlm.nih.gov/22740247/) | 2013 | Kasuïstiek | Mod Rheumatol | Succesvolle behandeling van osteomalacia veroorzaakt door RTA + Sjögren; alfacalcidol gebruikt als onderdeel van regimen, beendichtheid genormaliseerd na 24 maanden |
+| [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Klinische studie | Contrib Nephrol | 1α-OH-VD₃ bij 6 patiënten met verschillende soorten Fanconi-syndroom; 200–250× potentie vs vitamine D₂; calciummalabsorptie van mislukte 1α-hydroxylering bevestigd |
+| [33398781](https://pubmed.ncbi.nlm.nih.gov/33398781/) | 2021 | Kasuïstiek | CEN Case Rep | Osteomalacia van atypische RTA met vitamine D-deficiëntie; behandeld met actief vitamine D |
+| [28509074](https://pubmed.ncbi.nlm.nih.gov/28509074/) | 2012 | Kasuïstiek + Overzicht | CEN Case Rep | Osteomalacia secundair aan distale RTA door Sjögren; alfacalcidol in management |
+| [36412607](https://pubmed.ncbi.nlm.nih.gov/36412607/) | 2023 | Kasuïstiek | Kidney Blood Press Res | Ernstige hypofosfatemie als initiële presentatie van renaal Fanconi-syndroom en distale RTA |
+| [6709109](https://pubmed.ncbi.nlm.nih.gov/6709109/) | 1984 | Kasuïstiek | Neth J Med | 25-hydroxylering van 1α-OH vitamine D bij primaire biliaire cirrose gecompliceerd door RTA |
+| [9134837](https://pubmed.ncbi.nlm.nih.gov/9134837/) | 1997 | Vervolgonderzoek op lange termijn | Nihon Jinzo Gakkai Shi | Vervolgonderzoek op lange termijn van beenmineraaldichtheid bij volwassen idiopathisch Fanconi-syndroom |
+
+### Indicaties met zwakke mechanistische verbanden (wachten)
+
+| Rang | Ziekte | TxGNN-score | Aanbeveling | Grondslag |
+|------|--------|-------------|-------------|-----------|
+| 2 | Dahlberg-Borer-Newcomer-syndroom | 99.60% | Wachten | Zeer zeldzame genetische stoornis zonder bekend verband met calcium-/fosfaatmetabolisme; hoge TxGNN-score is waarschijnlijk een artefact van patronen in zeldzame ziekteknoopconnectiviteit |
+| 3 | Craniofaciale conodysplasie | 99.55% | Wachten | Genetische craniofaciale botstoornissen gedreven door ontwikkelingssignalering (SHH, BMP, FGF), niet calcium-/fosfaat-onevenwichtigheid |
+| 4 | Acromesomele dysplasie, type Campailla Martinelli | 99.53% | Wachten | Genetische short-limb dwarfisme met groeiplaat-chondrocyt-mutaties (GDF5/BMPR1B/NPR2); VDR-gemedieerde calciumregulering kan dit niet corrigeren |
+
+---
+
+## Conclusie en volgende stappen
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Grondslag:**
+Alfacalcidol heeft een sterke, goed gevestigde farmacologische werkingmechanisme voor de behandeling van hypoparathyroidisme — het omzeilt PTH-afhankelijke renale 1α-hydroxylering om actieve vitamine D-niveaus te herstellen en hypocalcemie te corrigeren. Hoewel het specifieke familiale subtype geen gerichte trials beschikbaar zijn, spreekt het werkingmechanisme van het geneesmiddel rechtstreeks de kernpathofysiologie aan. De secundaire voorspelling voor renale tubulaire acidose wordt verder ondersteund door meerdere patiëntkasuïstieken die klinisch voordeel aantonen.
+
+**Om door te gaan is het volgende nodig:**
+- **Verheldering regelgevingspad**: Bepaal hoe je alfacalcidol in Nederland kunt verkrijgen (grensoverschrijdende levering, artikel 126a, of nieuwe CBG-MEB-aanvraag)
+- **SmPC/veiligheidsgegevensextractie**: Verkrijg de Samenvatting van productkenmerken van een EU-geautoriseerde bron om de veiligheidsevaluatie af te ronden (momenteel een blokkerend hiaat)
+- **Documentatie van werkingmechanisme**: Haal volledige MOA-gegevens uit DrugBank om de farmacologische grondslag te formaliseren
+- **Klinisch bewijsmateriaal voor familaal subtype**: Voer een gerichte literatuurzoeking uit naar alfacalcidol- of calcitriol-gebruik specifiek in familale geïsoleerde hypoparathyroidisme-registers
+- **Deskundigenconsultatie**: Raadpleeg een klinische endocrinoloog om de toepasbaarheid van standaard hypoparathyroidisme-beheerprotocollen op dit zeldzame genetische subtype in te schatten
+
+---
+
+*Dit rapport is gegenereerd voor onderzoeksdoeleinden en vormt geen medisch advies. Geneesmiddelhervormingskandidaten vereisen klinische validatie vóór toepassing. Rapportversie: v4 | Gegevensafsnijding: 2026-04-03 | Kandidaat-ID: TW-DB01436-multi*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

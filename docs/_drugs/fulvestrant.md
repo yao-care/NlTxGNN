@@ -29,120 +29,113 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to align with TxGNN Netherlands (NL) deployment standards. The skill confirms this is the NlTxGNN project context. Now generating the report.
+# Fulvestrant: van hormoonreceptor-positieve borstkanker naar Multipele Endocriene Neoplasia
+
+## Samenvatting in één zin
+
+Fulvestrant is een Selectieve Oestrogeenreceptor-Degradator (SERD) die zich heeft bewezen als ruggengraattherapie in hormoonreceptor-positieve (HR+), HER2-negatieve geavanceerde of gemetastaseerde borstkanker.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Multipele Endocriene Neoplasia** — een voorspelling die rechtstreeks aansluit op de vastgestelde activiteit van Fulvestrant in oestrogeenreceptor-gestuurde endocriene tumoren — ondersteund door **50 klinische onderzoeken** geregistreerd in ClinicalTrials.gov, waaronder meerdere voltooide fase 3 RCT's.
+
+> **Opmerking over de best-gerangschikte voorspelling:** TxGNN Rang 1 is *HIV-infectieziekte* (score 99,91%). Dit wordt beoordeeld als een kennisgraaftopologie-artefact (co-voorkomen van immuuncelknopen) zonder bekend ER-routmechanisme en zonder ondersteunend bewijs. Het is beoordeeld als **L5 / Wachten** en wordt niet verder uitgewerkt in dit rapport.
 
 ---
 
-> **Analyst note — Rank 1 vs. Rank 2 selection:** The highest-ranking TxGNN prediction (`predicted_indications[0]`) is *HIV infectious disease* (score 99.91%). However, the repurposing rationale in the Evidence Pack itself identifies this as a knowledge-graph network-proximity artefact with no ER-pathway biological mechanism, no clinical trials, and no relevant literature — rated **Evidence Level L5 / Hold**. Reporting a Hold prediction as the primary clinical target would produce a misleading document for the Dutch healthcare system. This report therefore focuses on **Rank 2 — Multiple Endocrine Neoplasia** (`predicted_indications[1]`), which carries **L1 evidence** and a **Proceed with Guardrails** recommendation, both of which are clinically actionable. The HIV prediction is noted in the summary for transparency.
+## Kort overzicht
+
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Hormoonreceptor-positieve (HR+), HER2-negatieve geavanceerde/gemetastaseerde borstkanker |
+| Voorspelde nieuwe indicatie | Multipele Endocriene Neoplasia |
+| TxGNN-voorspellingsscore | 99,85% |
+| Bewijsniveau | L1 |
+| Status op de Nederlandse markt | Niet geregistreerd (CBG-MEB RVG) |
+| Aantal vergunningen | 0 |
+| Aanbevolen beslissing | Doorgaan met waarborgen |
 
 ---
 
-# Fulvestrant: From Hormone Receptor-Positive Breast Cancer to Multiple Endocrine Neoplasia
+## Waarom is deze voorspelling redelijk?
 
-## One-Sentence Summary
+Fulvestrant (merknaam Faslodex) is een Selectieve Oestrogeenreceptor-Degradator. In tegenstelling tot selectieve oestrogeenreceptormodulatoren zoals tamoxifen bindt fulvestrant aan ERα met een affiniteit ongeveer 100 keer hoger dan oestradiol, waardoor receptordownregulatie en volledige proteasomale afbraak optreden. Het bezit helemaal geen partiële agonistische activiteit — waardoor het het geprefereerde middel is in geval van verworven endocriene resistentie, vooral wanneer ESR1 ligand-bindingsdomeinmutaties (bijv. D538G, Y537S) resistentie tegen aromatasereemmers of tamoxifen veroorzaken, maar het receptoreiwit blijft bestaan en vatbaar blijft voor afbraak.
 
-Fulvestrant is a Selective Estrogen Receptor Degrader (SERD) established as a backbone endocrine therapy for hormone receptor-positive (HR+), HER2-negative advanced or metastatic breast cancer.
-The TxGNN model predicts it may be effective for **Multiple Endocrine Neoplasia** — a prediction that maps directly onto Fulvestrant's established activity in estrogen receptor-driven endocrine tumours — supported by **50 clinical trials** registered in ClinicalTrials.gov, including multiple completed Phase 3 RCTs.
+HR+ borstkanker is de klassieke oestrogeenreceptor-gestuurde endocriene neoplasma: ongeveer 75% van alle borstkankers expresseren hormoonreceptoren en zijn afhankelijk van oestrogeensignalering voor proliferatie en overleving. De TxGNN-kennisgraaf clustert HR+-borstkanker binnen een breder ontologisch knooppunt voor "multipele endocriene neoplasia" — een generalisatie die de werkelijke biologische werkelijkheid weerspiegelt. De klinische onderzoeken die onder deze queryrubrica zijn opgehaald, zijn vrijwel geheel HR+/HER2−-borstkankeronderzoeken waarin fulvestrant als ruggengraatendocriene therapie dienst doet — het meest aanwezig in combinatie met CDK4/6-remmers (PALOMA-3, MONALEESA-3), PI3Kα-remmers (SOLAR-1), en AKT-remmers (CAPItello-291-type).
 
-> **Note on the top-ranked prediction:** TxGNN Rank 1 is *HIV infectious disease* (score 99.91%). This is assessed as a knowledge-graph topology artefact (immune-cell node co-occurrence) with no known ER-pathway mechanism and no supporting evidence. It is rated **L5 / Hold** and is not further developed in this report.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hormone receptor-positive (HR+), HER2-negative advanced/metastatic breast cancer |
-| Predicted New Indication | Multiple Endocrine Neoplasia |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L1 |
-| NL Market Status | Not registered (CBG-MEB RVG) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Deze voorspelling mag daarom niet worden geïnterpreteerd als een speculatief herpositioneringssignaal, maar als **bevestiging van een vastgesteld mechanisme**: ERα-afbraak onderdrukt oestrogeengestuurde tumorproliferatie in alle HR+-endocriene neoplasma's. Het L1-bewijsniveau (meerdere voltooide fase 3 RCT's die fulvestrant rechtstreeks gebruiken) valideert dit verder. Voor de Nederlandse zorgcontext is de belangijkste bruikbare vraag of fulvestrants EMA-marketingvergunning voldoende toegankelijk is in Nederland en of terugbetalingspaden optimaal zijn gestructureerd.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Klinisch onderzoeksbewijs
 
-Fulvestrant (brand name Faslodex) is a Selective Estrogen Receptor Degrader. Unlike selective estrogen receptor modulators such as tamoxifen, fulvestrant binds to ERα with an affinity approximately 100-fold greater than oestradiol, triggering receptor downregulation and complete proteasomal degradation. It has no partial agonist activity whatsoever — making it the preferred agent in the setting of acquired endocrine resistance, particularly where ESR1 ligand-binding domain mutations (e.g., D538G, Y537S) confer resistance to aromatase inhibitors or tamoxifen, yet the receptor protein persists and remains susceptible to degradation.
-
-HR+ breast cancer is the canonical oestrogen receptor-driven endocrine neoplasm: approximately 75% of all breast cancers express hormone receptors and depend on oestrogen signalling for proliferation and survival. The TxGNN knowledge graph clusters HR+ breast cancer within a broader "multiple endocrine neoplasia" ontological node — a generalisation that reflects genuine biological reality. The clinical trials retrieved under this query category are almost entirely HR+/HER2− breast cancer trials in which fulvestrant serves as the backbone endocrine therapy partner — most prominently in combination with CDK4/6 inhibitors (PALOMA-3, MONALEESA-3), PI3Kα inhibitors (SOLAR-1), and AKT inhibitors (CAPItello-291 type).
-
-This prediction should therefore be interpreted not as a speculative repurposing signal but as a **confirmation of established mechanism**: ERα degradation suppresses oestrogen-driven tumour proliferation across all HR+ endocrine neoplasms. The L1 evidence level (multiple completed Phase 3 RCTs directly using fulvestrant) further validates this. For the Dutch healthcare context, the key actionable question is whether fulvestrant's EMA-level marketing authorisation is adequately accessible within the Netherlands and whether reimbursement pathways are optimally structured.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
 |-------------|-------|--------|------------|--------------|
-| [NCT02422615](https://clinicaltrials.gov/study/NCT02422615) | Phase 3 | Completed | 726 | Ribociclib + fulvestrant vs fulvestrant alone in HR+/HER2− advanced breast cancer (men and postmenopausal women) with no or one prior endocrine line; combination demonstrated superior progression-free survival — direct Grade A evidence for fulvestrant |
-| [NCT01942135](https://clinicaltrials.gov/study/NCT01942135) | Phase 3 | Completed | 521 | Fulvestrant ± palbociclib (PALOMA-3) in HR+/HER2− metastatic breast cancer progressed after prior endocrine therapy; palbociclib addition significantly prolonged PFS; fulvestrant is the primary endocrine backbone |
-| [NCT02437318](https://clinicaltrials.gov/study/NCT02437318) | Phase 3 | Completed | 572 | Alpelisib + fulvestrant vs placebo + fulvestrant in HR+/HER2− advanced breast cancer following aromatase inhibitor treatment (SOLAR-1); PIK3CA-mutant subgroup showed clinically significant PFS improvement |
-| [NCT06635447](https://clinicaltrials.gov/study/NCT06635447) | Phase 3 | Recruiting | 300 | Capivasertib + fulvestrant in HR+/HER2− advanced breast cancer with PIK3CA/AKT1/PTEN alteration after 1–2 lines of endocrine therapy; two-cohort study in Chinese patients |
-| [NCT07062965](https://clinicaltrials.gov/study/NCT07062965) | Phase 3 | Recruiting | 400 | PF-07248144 (KAT6 inhibitor) + fulvestrant vs investigator's choice in HR+/HER2− advanced/metastatic breast cancer progressed after prior CDK4/6 inhibitor-based therapy |
-| [NCT05631795](https://clinicaltrials.gov/study/NCT05631795) | Phase 4 | Completed | 40 | Post-authorisation safety study of alpelisib + fulvestrant in HR+/HER2−/PIK3CA-mutant advanced breast cancer; India real-world safety data |
-| [NCT01797120](https://clinicaltrials.gov/study/NCT01797120) | Phase 2 | Completed | 131 | Fulvestrant + everolimus vs fulvestrant + placebo in aromatase inhibitor-resistant HR+ metastatic breast cancer; evaluated mTOR inhibition plus SERD as a strategy to overcome endocrine resistance |
-| [NCT05075512](https://clinicaltrials.gov/study/NCT05075512) | Phase 2 | Recruiting | 40 | Anlotinib (multi-target anti-angiogenic) + fulvestrant in HR+/HER2− secondary endocrine-resistant locally advanced or metastatic breast cancer; rationale: oestrogen drives angiogenic resistance |
-| [NCT03939897](https://clinicaltrials.gov/study/NCT03939897) | Phase 1/2 | Active, not recruiting | 24 | Fulvestrant + abemaciclib ± copanlisib (PI3K inhibitor) in endocrine-resistant HR+/HER2− metastatic breast cancer; triple combination targeting ER, CDK4/6, and PI3K pathways |
-| [NCT03238196](https://clinicaltrials.gov/study/NCT03238196) | Phase 1 | Completed | 35 | Fulvestrant + palbociclib + erdafitinib (pan-FGFR inhibitor) in ER+/HER2−/FGFR-amplified metastatic breast cancer; addressed FGFR-driven endocrine resistance mechanism |
+| [NCT02422615](https://clinicaltrials.gov/study/NCT02422615) | Fase 3 | Voltooid | 726 | Ribociclib + fulvestrant vs fulvestrant alleen in HR+/HER2− geavanceerde borstkanker (mannen en postmenopauzale vrouwen) zonder of met één vorig endocrien regime; combinatie toonde superieure progressie-vrije overleving — direct graad A-bewijs voor fulvestrant |
+| [NCT01942135](https://clinicaltrials.gov/study/NCT01942135) | Fase 3 | Voltooid | 521 | Fulvestrant ± palbociclib (PALOMA-3) in HR+/HER2− gemetastaseerde borstkanker met progressie na eerdere endocriene therapie; toevoeging van palbociclib verlengde PFS aanzienlijk; fulvestrant is de primaire endocriene ruggengraat |
+| [NCT02437318](https://clinicaltrials.gov/study/NCT02437318) | Fase 3 | Voltooid | 572 | Alpelisib + fulvestrant vs placebo + fulvestrant in HR+/HER2− geavanceerde borstkanker na aromataseremerbehandeling (SOLAR-1); PIK3CA-gemuteerde subgroep toonde klinisch significante PFS-verbetering |
+| [NCT06635447](https://clinicaltrials.gov/study/NCT06635447) | Fase 3 | Recruterend | 300 | Capivasertib + fulvestrant in HR+/HER2− geavanceerde borstkanker met PIK3CA/AKT1/PTEN-verandering na 1–2 eerdere endocriene behandelingen; twee-cohortonderzoek in Chinese patiënten |
+| [NCT07062965](https://clinicaltrials.gov/study/NCT07062965) | Fase 3 | Recruterend | 400 | PF-07248144 (KAT6-remmer) + fulvestrant vs naar keuze van onderzoeker in HR+/HER2− geavanceerde/gemetastaseerde borstkanker met progressie na eerdere CDK4/6-remmer-gebaseerde therapie |
+| [NCT05631795](https://clinicaltrials.gov/study/NCT05631795) | Fase 4 | Voltooid | 40 | Post-toelatingsveiligheidsstudie van alpelisib + fulvestrant in HR+/HER2−/PIK3CA-gemuteerde geavanceerde borstkanker; echte praktijkveiligheidsgegevens uit India |
+| [NCT01797120](https://clinicaltrials.gov/study/NCT01797120) | Fase 2 | Voltooid | 131 | Fulvestrant + everolimus vs fulvestrant + placebo in aromatasereremmer-resistente HR+-gemetastaseerde borstkanker; onderzocht mTOR-remming plus SERD als strategie tegen endocriene resistentie |
+| [NCT05075512](https://clinicaltrials.gov/study/NCT05075512) | Fase 2 | Recruterend | 40 | Anlotinib (multi-target antiangiogeen) + fulvestrant in HR+/HER2− secundair endocriene-resistente lokaal geavanceerde of gemetastaseerde borstkanker; rationale: oestrogeen bevordert angiogene resistentie |
+| [NCT03939897](https://clinicaltrials.gov/study/NCT03939897) | Fase 1/2 | Actief, niet recruterend | 24 | Fulvestrant + abemaciclib ± copanlisib (PI3K-remmer) in endocriene-resistente HR+/HER2− gemetastaseerde borstkanker; drievoudige combinatie gericht op ER-, CDK4/6- en PI3K-signalering |
+| [NCT03238196](https://clinicaltrials.gov/study/NCT03238196) | Fase 1 | Voltooid | 35 | Fulvestrant + palbociclib + erdafitinib (pan-FGFR-remmer) in ER+/HER2−/FGFR-versterkte gemetastaseerde borstkanker; adresseerde FGFR-gestuurde endocriene resistentiemechanismen |
 
 ---
 
-## Literature Evidence
+## Bewijs uit de literatuur
 
-Currently no related literature available for the specific query pairing of Fulvestrant and Multiple Endocrine Neoplasia.
-
----
-
-## Netherlands Market Information
-
-Fulvestrant holds no CBG-MEB national marketing authorisation (RVG number) in the Netherlands. The Dutch regulatory data in the Evidence Pack shows **0 registered authorizations**.
-
-> **Important context for Dutch clinical practice:** Fulvestrant (Faslodex®, AstraZeneca) holds a **centrally-granted EMA marketing authorisation** valid across all EU/EEA member states, including the Netherlands. The absence of an RVG number reflects the centralized procedure route — this product does not require a separate Dutch national registration. Clinicians and hospital pharmacists in the Netherlands should consult the EMA medicines database for the current SmPC (Samenvatting van de Productkenmerken) and verify local dispensing and reimbursement status via the Zorginstituut Nederland (ZIN) formulary.
-
-| RVG Number | Product Name | Dosage Form | Approved Indication |
-|-----------|--------------|-------------|---------------------|
-| — | No CBG-MEB national (RVG) authorizations found | — | Centrally authorized via EMA — consult EMA/Faslodex SmPC |
+Momenteel geen gerelateerde literatuur beschikbaar voor de specifieke querycombinatie van Fulvestrant en Multipele Endocriene Neoplasia.
 
 ---
 
-## Cytotoxicity
+## Informatie over de Nederlandse markt
 
-Fulvestrant is an antineoplastic agent used in breast cancer treatment. It is classified as a targeted endocrine therapy, not conventional cytotoxic chemotherapy.
+Fulvestrant beschikt over geen nationale CBG-MEB marketingvergunning (RVG-nummer) in Nederland. De Nederlandse regelgevingsgegevens in het Evidence Pack tonen **0 geregistreerde vergunningen**.
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted endocrine therapy — Selective Estrogen Receptor Degrader (SERD); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — fulvestrant has no cytotoxic mechanism; haematological toxicity is not a primary safety concern |
-| Emetogenicity Classification | Minimal to low — administered as intramuscular injection; gastrointestinal symptoms are not a typical feature |
-| Monitoring Items | Liver function tests (LFTs) at baseline and periodically during treatment; bone mineral density (DEXA scan) for patients on long-term therapy; injection site assessment at each visit |
-| Handling Protection | Standard precautions for injectable antineoplastic agents apply; fulvestrant is administered as two 5 mL slow intramuscular injections (total 500 mg). Refer to local hospital pharmacy cytotoxic handling policy for classification |
+> **Belangrijk kader voor de Nederlandse klinische praktijk:** Fulvestrant (Faslodex®, AstraZeneca) beschikt over een **centraal verleende EMA-marketingvergunning** geldig in alle EU/EER-lidstaten, inclusief Nederland. De afwezigheid van een RVG-nummer weerspiegelt de gecentraliseerde procedureroute — dit geneesmiddel vereist geen afzonderlijke Nederlandse nationale registratie. Artsen en ziekenhuisapothekers in Nederland moeten de EMA-geneesmiddeldatabase raadplegen voor de huidige SmPC (Samenvatting van de Productkenmerken) en de lokale afleverings- en terugbetalingsstatus verifiëren via het formularium van het Zorginstituut Nederland (ZIN).
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|-----------|--------------|----------------|---------------------|
+| — | Geen CBG-MEB nationale (RVG) vergunningen gevonden | — | Centraal geautoriseerd via EMA — raadpleeg EMA/Faslodex SmPC |
 
 ---
 
-## Safety Considerations
+## Cytotoxiciteit
 
-Please refer to the SmPC (Samenvatting van de Productkenmerken) for complete safety information. The current Evidence Pack does not contain specific key warnings, contraindications, or drug interaction data for fulvestrant.
+Fulvestrant is een antineoplastisch middel dat bij borstkankerbehandeling wordt gebruikt. Het is geclassificeerd als gerichte endocriene therapie, geen conventionele cytotoxische chemotherapie.
 
-The EMA-approved SmPC for Faslodex is available via the EMA medicines database and must be consulted before clinical use for the full risk profile, including hepatic impairment guidance, use in pre-menopausal women (requires concomitant LHRH agonist), thromboembolic risk, and known drug interactions.
+| Item | Inhoud |
+|------|--------|
+| Cytotoxiciteitsclassificatie | Gerichte endocriene therapie — Selectieve Oestrogeenreceptor-Degradator (SERD); geen conventioneel cytotoxisch middel |
+| Risico op myelosuppressie | Laag — fulvestrant bezit geen cytotoxisch mechanisme; hematologische toxiciteit is geen primaire veiligheidszorg |
+| Emesiogeniteitsclassificatie | Minimaal tot laag — toegediend als intramusculaire injectie; gastro-intestinale symptomen zijn geen typisch kenmerk |
+| Controleposten | Leverfunctietests (LFT's) bij baseline en periodiek tijdens behandeling; botmineraaldichtheid (DEXA-scan) voor patiënten onder langetermijntherapie; inspectie van injectieplaats bij elk bezoek |
+| Voorzorgsmaatregelen bij hantering | Standaardvoorzorgsmaatregelen voor injecteerbare antineoplastische middelen zijn van toepassing; fulvestrant wordt toegediend als twee 5 mL trage intramusculaire injecties (totaal 500 mg). Raadpleeg het lokale ziekenhuisapothekbeleid voor cytotoxische hantering ten aanzien van classificatie |
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Het huidige Evidence Pack bevat geen specifieke waarschuwingen, tegenindicaties of gegevensbronnen voor medicijn-medicijninteracties van fulvestrant.
 
-**Rationale:**
-Fulvestrant has robust Phase 3 RCT evidence (PALOMA-3, MONALEESA-3, SOLAR-1) confirming its efficacy as a backbone endocrine therapy in HR+/HER2− advanced breast cancer — the principal oestrogen receptor-driven endocrine neoplasm that the TxGNN "multiple endocrine neoplasia" prediction maps to. The evidence level (L1) is the highest achievable, and the mechanism of action (ERα degradation in hormone-driven tumours) is thoroughly validated. The primary barrier to use in the Netherlands is not evidence but **access and reimbursement infrastructure**.
+De EMA-goedgekeurde SmPC voor Faslodex is beschikbaar via de EMA-geneesmiddeldatabase en moet vóór klinisch gebruik worden geraadpleegd voor het volledige risicoprofiel, inclusief begeleiding bij leverfunctiestoornissen, gebruik bij premenopauzale vrouwen (vereist gelijktijdige LHRH-agonist), tromboembolisch risico, en bekende medicijn-medicijninteracties.
 
-**To proceed, the following is needed:**
+---
 
-- Confirm the current EMA centralized marketing authorisation status for Faslodex and document the dispensing pathway available to Dutch hospital pharmacists (standard EU supply chain vs. named-patient import)
-- Retrieve the current EMA SmPC and PIL for fulvestrant to formally complete the safety assessment (key warnings, contraindications, drug-drug interactions) — currently a Blocking data gap in this Evidence Pack
-- Formally document fulvestrant's mechanism of action (ERα degradation via SERD pathway) in the Evidence Pack to resolve the current High-severity data gap
-- Clarify the specific indication scope for any reimbursement application to Zorginstituut Nederland (ZIN): first-line vs. second-line HR+/HER2− advanced breast cancer, and whether combination partners (CDK4/6 inhibitors) are within scope
-- Conduct a pharmacoeconomic analysis against current Dutch standard-of-care regimens (e.g., palbociclib + letrozole in first line) within the ZIN cost-effectiveness framework
+## Conclusie en vervolgstappen
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Grondslag:**
+Fulvestrant beschikt over robuust fase 3 RCT-bewijs (PALOMA-3, MONALEESA-3, SOLAR-1) dat de werkzaamheid ervan bevestigt als ruggengraattherapie in HR+/HER2− geavanceerde borstkanker — de belangrijkste oestrogeenreceptor-gestuurde endocriene neoplasma die de TxGNN "multipele endocriene neoplasia"-voorspelling afbeeldt. Het bewijsniveau (L1) is het hoogst haalbare, en het werkingsmechanisme (ERα-afbraak in hormoonafhankelijke tumoren) is grondig gevalideerd. De primaire belemmering voor gebruik in Nederland is niet het bewijs, maar **toegankelijkheid en terugbetalingsinfrastructuur**.
+
+**Om verder te gaan, is het volgende nodig:**
+
+- Bevestig de huidige EMA gecentraliseerde marketingvergunningsstatus voor Faslodex en leg vast welk afleveringspad beschikbaar is voor Nederlandse ziekenhuisapothekers (standaard EU-toevoerketen vs. named-patient import)
+- Verzamel de huidge EMA SmPC en PIL voor fulvestrant om de veiligheidsbeoordeling formeel af te ronden (belangrijkste waarschuwingen, tegenindicaties, medicijn-medicijninteracties) — momenteel een blokkerend gegeven in dit Evidence Pack
+- Leg formeel vast het werkingsmechanisme van fulvestrant (ERα-afbraak via SERD-route) in het Evidence Pack om de huidige gegevensgat met hoge ernst op te lossen
+- Verduidelijk de specifieke indicatiebereik voor elke terugbetalingsaanvraag bij het Zorginstituut Nederland (ZIN): eerste-lijns versus tweede-lijns HR+/HER2− geavanceerde borstkanker, en of combinatiepartners (CDK4/6-remmers) binnen bereik vallen
+- Voer een farmacoeconomische analyse uit tegen huidge Nederlandse standaardzorgregimens (bijv. palbociclib + letrozol in eerste lijn) conform het ZIN kosteneffectiviteitskader
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

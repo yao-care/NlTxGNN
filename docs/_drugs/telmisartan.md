@@ -29,93 +29,90 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Proceeding to generate the report based on the Evidence Pack. No matching skill tools were returned, so I'll follow the system prompt instructions directly.
+# Telmisartan: Van hypertensie naar Prinzmetal-angina
+
+## Samenvatting in één zin
+
+Telmisartan is een angiotensine II type 1 receptorblokker (ARB) die veel gebruikt wordt in de behandeling van hypertensie en cardiovasculaire risicoreductie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Prinzmetal-angina** (variant-angina pectoris door coronaire vasospasme),
+zonder dat er momenteel **geen klinische proeven** en **geen publicaties** deze specifieke richting ondersteunen.
+De modelvoorspellingsscore is uitzonderlijk hoog (99.98%), maar alle ondersteunend bewijs blijft op het niveau van alleen modelvoorspelling (L5).
 
 ---
 
-# Telmisartan: From Hypertension to Prinzmetal Angina
+## Snel overzicht
 
-## One-Sentence Summary
-
-Telmisartan is an angiotensin II type 1 receptor blocker (ARB) widely used in the management of hypertension and cardiovascular risk reduction.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina** (variant angina due to coronary vasospasm),
-with **no clinical trials** and **no publications** currently supporting this specific direction.
-The model prediction score is extremely high (99.98%), but all supporting evidence remains at the model-prediction-only level (L5).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension (standard ARB class indication; no NL marketing authorisation on file) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed (CBG-MEB: 0 authorisations) |
-| Number of Authorisations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Hypertensie (standaard ARB-klasindicatie; geen autorisatie op het Nederlandse marktregister) |
+| Voorspelde nieuwe indicatie | Prinzmetal-angina |
+| TxGNN-voorspellingsscore | 99.98% |
+| Bewijsniveau | L5 |
+| Status Nederlandse markt | Niet op de markt (CBG-MEB: 0 autorisaties) |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, Telmisartan is an AT1 receptor blocker (ARB) that also acts as a partial agonist of peroxisome proliferator-activated receptor gamma (PPAR-γ) — a dual mechanism that distinguishes it from other ARBs and has led to its informal designation as a "metabosartan." By blocking AT1R, Telmisartan reduces angiotensin II–mediated vasoconstriction; its PPAR-γ agonism may additionally enhance coronary endothelial function and reduce vascular oxidative stress.
+Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Evidence Pack. Gebaseerd op vastgestelde farmacologie is Telmisartan een AT1-receptorblokker (ARB) die ook fungeert als een gedeeltelijke agonist van peroxisoomproliferator-geactiveerde receptor gamma (PPAR-γ) — een duaal mechanisme dat het onderscheidt van andere ARB's en heeft geleid tot de informele aanduiding "metabosartan". Door AT1R te blokkeren, vermindert Telmisartan de door angiotensine II veroorzaakte vaatvernauwing; de PPAR-γ agonisme kan bovendien coronaire endotheelfunctie verbeteren en vasculaire oxidatieve stress verminderen.
 
-Prinzmetal (variant) angina arises from transient reversible coronary artery spasm rather than fixed atherosclerotic obstruction. In this context, AT1R blockade could theoretically attenuate endothelin-1 release and reactive oxygen species that sensitise coronary smooth muscle to vasospasm, while PPAR-γ activation may upregulate endothelial nitric oxide synthase (eNOS) expression, improving coronary vasomotor tone. These mechanistic steps are biologically coherent but remain highly indirect: established first-line agents for Prinzmetal angina (calcium channel blockers, long-acting nitrates) act directly on vascular smooth muscle, whereas Telmisartan's pathway operates several steps upstream.
+Prinzmetal-angina (variant-angina pectoris) ontstaat door voorbijgaande reversibele coronaire arteriële vasospasme in plaats van vaste atherosclerotische obstructie. In deze context zou AT1R-blokkade theoretisch de afgifte van endotheline-1 en reactieve zuurstofsoorten (ROS) kunnen verminderen die coronaire gladde spier gevoelig maken voor vasospasme, terwijl PPAR-γ activering de expressie van endotheliale salpeterzuuroxide synthase (eNOS) kan verhogen en de coronaire vasomotorische tonus kan verbeteren. Deze mechanistische stappen zijn biologisch coherent, maar blijven zeer indirect: gevestigde eerstelijns middelen voor Prinzmetal-angina (calciumkanaalblokkers, langwerkende nitraten) werken direct op vasculaire gladde spier, terwijl het werkingspad van Telmisartan verschillende stappen hogerop werkt.
 
-At present, no in vitro, in vivo, or clinical studies specifically test Telmisartan in coronary vasospasm. The high TxGNN score most likely reflects shared cardiovascular graph nodes (e.g., vascular tone, AT1R signalling) in the knowledge graph rather than a curated mechanistic pathway. This indication is therefore best treated as a model-generated hypothesis pending experimental validation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Telmisartan in Prinzmetal angina.
+Op dit moment testen geen in vitro-, in vivo- of klinische studies specifiek Telmisartan bij coronaire vasospasme. De hoge TxGNN-score weerspiegelt waarschijnlijk gedeelde cardiovasculaire grafische knooppunten (bijvoorbeeld vasculaire spanning, AT1R-signalering) in de kennisgraaf in plaats van een samengesteld mechanistisch pad. Deze indicatie moet daarom het beste worden behandeld als een door model gegenereerde hypothese in afwachting van experimentele validatie.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische proeven
 
-Currently no related literature available for Telmisartan in Prinzmetal angina.
-
----
-
-## Netherlands Market Information
-
-Telmisartan currently holds **no marketing authorisations** registered with the CBG-MEB in this dataset. No RVG numbers, product names, or approved indications are on file.
-
-> **Note for practitioners:** Telmisartan is known internationally under brand names such as *Micardis* (Boehringer Ingelheim) and is widely authorised in other jurisdictions (EMA, FDA). The absence of entries in this dataset may reflect a data pipeline gap rather than a true regulatory absence. Please consult the CBG-MEB public register and the EMA Product database directly to confirm the current authorisation status in the Netherlands before drawing regulatory conclusions.
+Momenteel zijn geen gerelateerde klinische proeven voor Telmisartan in Prinzmetal-angina geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijs uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for comprehensive safety information.
+Momenteel is geen gerelateerde literatuur beschikbaar voor Telmisartan in Prinzmetal-angina.
 
-> As a general reference pending SmPC retrieval (Data Gap DG001), the following ARB class-effect cautions are widely documented:
-> - **Renal risk:** Acute kidney injury risk in patients with bilateral renal artery stenosis or solitary functioning kidney — AT1R blockade removes the efferent arteriolar tone that sustains GFR in these settings.
-> - **Hyperkalaemia:** Particularly when combined with ACE inhibitors, potassium-sparing diuretics, or in patients with renal impairment.
-> - **First-dose hypotension:** Especially in volume-depleted or sodium-depleted patients.
-> - **Pregnancy contraindication:** ARBs are contraindicated in the second and third trimester (fetotoxicity).
+---
+
+## Informatie over de Nederlandse markt
+
+Telmisartan heeft momenteel **geen marketingautorisaties** die bij de CBG-MEB zijn geregistreerd in deze dataset. Er zijn geen RVG-nummers, productnamen of goedgekeurde indicaties in het dossier.
+
+> **Opmerking voor beoefenaren:** Telmisartan is internationaal bekend onder merknamen zoals *Micardis* (Boehringer Ingelheim) en is wijd geautoriseerd in andere rechtsgebieden (EMA, FDA). De afwezigheid van vermeldingen in deze dataset kan wijzen op een gegevenspijplijn-hiaat in plaats van echte regelgevinsgafwezigheid. Raadpleeg alstublieft het openbare register van CBG-MEB en de EMA-productdatabase rechtstreeks om de huidige autorisatiestatus in Nederland te bevestigen alvorens regelgevingsconclusies te trekken.
+
+---
+
+## Veiligheidsobservaties
+
+Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor uitgebreide veiligheidsinformatie.
+
+> Als algemene referentie in afwachting van SmPC-ophaling (Data Gap DG001) zijn de volgende ARB-klasseneffect waarschuwingen veel gedocumenteerd:
+> - **Nierrisico:** Risico op acuut nierschade bij patiënten met bilaterale nierarteriële stenose of alleenstaande werkende nier — AT1R-blokkade verwijdert de afferente arteriaire spanning die de GFR in deze situaties onderhoudt.
+> - **Hyperkaliëmie:** Met name in combinatie met ACE-inhibitoren, kaliumsparende diuretica, of bij patiënten met nierfunctiestoornissen.
+> - **Eerste-dosisshypotensie:** Met name bij patiënten met volumedepletie of natriumdepletie.
+> - **Contraïndicatie in zwangerschap:** ARB's zijn contraïndiceerd in het tweede en derde trimester (fetotoxiciteit).
 >
-> These are general class considerations and must be verified against the current Telmisartan SmPC before any clinical or research use.
+> Dit zijn algemene klassenobservaties en moeten tegen de huidige Telmisartan-SmPC worden geverifieerd alvorens enig klinisch of onderzoeksgebruik.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusie en vervolgstappen
 
-**Decision: Hold**
+**Besluit: In afwachting**
 
 **Rationale:**
-The TxGNN model assigns an exceptionally high prediction score (99.98%), indicating strong knowledge-graph connectivity between Telmisartan and Prinzmetal angina. However, there is currently zero empirical evidence — no clinical trials, no animal models, and no observational data — specifically testing Telmisartan in coronary vasospasm. The mechanistic pathway is theoretically plausible but indirect, and effective first-line treatments for Prinzmetal angina are already approved and available. Proceeding without any experimental basis would carry unacceptable uncertainty.
+Het TxGNN-model wijst een uitzonderlijk hoge voorspellingsscore toe (99.98%), wat sterke kennisgraaf-connectiviteit tussen Telmisartan en Prinzmetal-angina aangeeft. Echter, er is momenteel nul empirisch bewijs — geen klinische proeven, geen diermodellen, en geen waarnemingsgegevens — die specifiek Telmisartan bij coronaire vasospasme testen. Het mechanistische pad is theoretisch plausibel maar indirect, en effectieve eerstelijns middelen voor Prinzmetal-angina zijn al goedgekeurd en beschikbaar. Voortgaan zonder enige experimentele basis zou onacceptabele onzekerheid met zich meebrengen.
 
-**To proceed, the following is needed:**
+**Om verder te gaan is het volgende nodig:**
 
-- **Preclinical validation:** In vitro coronary smooth muscle relaxation assays and/or animal coronary vasospasm models to establish direct mechanistic evidence for AT1R blockade in this specific disease context.
-- **Mechanism of action retrieval:** Resolve Data Gap DG002 (query DrugBank API for full MOA) to enable a more rigorous mechanistic analysis.
-- **Safety profile review:** Resolve Data Gap DG001 (retrieve and parse SmPC/PIL from the EMA/CBG-MEB register) to complete the S1 safety screening gate before any feasibility study design.
-- **Class-level evidence survey:** Conduct a systematic review of ARBs or renin-angiotensin system (RAS) agents in coronary vasospasm to determine whether any class-level signal exists that could support translational plausibility.
-- **Clinical differentiation assessment:** Evaluate whether Telmisartan could offer a meaningful clinical advantage over existing therapies (calcium channel blockers, nitrates) before committing resources to a prospective study.
+- **Preklinische validatie:** In vitro tests voor coronaire gladde spierrelaxatie en/of diermodellen voor coronaire vasospasme om direct mechanistisch bewijs voor AT1R-blokkade in deze specifieke ziektecontext vast te stellen.
+- **Ophaling van werkingsmechanisme:** Gegevensgat DG002 oplossen (DrugBank API opvragen voor volledige MOA) om een meer rigoureuze mechanistische analyse mogelijk te maken.
+- **Beoordeling van veiligheidsprofiel:** Gegevensgat DG001 oplossen (SmPC/PIL ophalen en analyseren van het EMA/CBG-MEB register) om de S1 veiligheidsscreeningpoort af te ronden alvorens ontwerp van haalbaarheidsonderzoek.
+- **Enquête naar bewijs op klasseniveau:** Een systematisch onderzoek naar ARB's of renine-angiotensinesysteemdeelnemers (RAS) bij coronaire vasospasme uitvoeren om te bepalen of enig signaalniveau op klasseniveau bestaat dat translationele plausibiliteit zou kunnen ondersteunen.
+- **Beoordeling van klinische differentiatie:** Beoordeel of Telmisartan een zinvol klinisch voordeel ten opzichte van bestaande therapieën (calciumkanaalblokkers, nitraten) zou kunnen bieden alvorens middelen aan een prospectief onderzoek toe te wijzen.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

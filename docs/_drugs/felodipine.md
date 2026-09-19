@@ -29,158 +29,155 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-Now let me generate the full evaluation report based on the Evidence Pack.
+# Felodipine: Van hypertensie naar pulmonale hypertensie (multifactorieel mechanisme)
+
+## Samenvatting in één zin
+
+Felodipine is een dihydropyridinetypische calciumkanaalblocker (DHP-CCB) die internationaal wordt gebruikt voor essentiële hypertensie en stabiele angina pectoris, hoewel het **momenteel niet is geregistreerd of op de markt is in Nederland**.
+Het TxGNN-model rangschikt **pulmonale hypertensie met onduidelijk multifactorieel mechanisme** als topvoorspelling voor een nieuwe indicatie met een score van 99,91%,
+echter **geen ondersteunende klinische onderzoeken of literatuur** bestaan voor deze specifieke richting — dit blijft een alleen-modelgebaseerd signaal (L5) met gedocumenteerde veiligheidsbedenking voor brede patiëntpopulaties.
 
 ---
 
-# Felodipine: From Hypertension to Pulmonary Hypertension (Multifactorial Mechanism)
+## Snel overzicht
 
-## One-Sentence Summary
-
-Felodipine is a dihydropyridine calcium channel blocker (DHP-CCB) used internationally for essential hypertension and stable angina, though it is **currently not registered or marketed in the Netherlands**.
-The TxGNN model ranks **pulmonary hypertension with unclear multifactorial mechanism** as its top predicted new indication with a score of 99.91%,
-however **no supporting clinical trials or literature** exist for this specific direction — this remains a model-only signal (L5) with documented safety concerns for broad patient populations.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not registered in the Netherlands; internationally known for hypertension and stable angina |
-| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet geregistreerd in Nederland; internationaal bekend voor hypertensie en stabiele angina pectoris |
+| Voorspelde nieuwe indicatie | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme |
+| TxGNN-voorspellingsscore | 99,91% |
+| Bewijsniveau | L5 |
+| NL-marktpositie | Niet op de markt |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | In afwachting |
 
 ---
 
-## All Predicted Indications — Summary
+## Alle voorspelde indicaties — Overzicht
 
-| Rank | Indication | TxGNN Score | Evidence Level | Decision |
-|------|-----------|-------------|----------------|---------|
-| 1 | Pulmonary hypertension (multifactorial mechanism) | 99.91% | L5 | Hold |
-| 2 | Pulmonary hypertension (lung disease / hypoxia) | 99.91% | L5 | Hold |
-| 3 | Malignant hypertensive renal disease | 99.90% | L5 | Hold |
-| 4 | Malignant renovascular hypertension | 99.90% | L5 | Hold |
-| 5 | Braddock syndrome | 99.88% | L5 | Hold |
-| 6 | Chronic pulmonary heart disease | 99.19% | L4 | Research Question |
-| **7** | **Prinzmetal angina** | **99.07%** | **L2** | **Proceed with Guardrails** |
+| Rang | Indicatie | TxGNN-score | Bewijsniveau | Beslissing |
+|------|-----------|-------------|--------------|-----------|
+| 1 | Pulmonale hypertensie (multifactorieel mechanisme) | 99,91% | L5 | In afwachting |
+| 2 | Pulmonale hypertensie (longziekte/hypoxie) | 99,91% | L5 | In afwachting |
+| 3 | Maligne hypertensieve nierschade | 99,90% | L5 | In afwachting |
+| 4 | Maligne renovasculaire hypertensie | 99,90% | L5 | In afwachting |
+| 5 | Braddock-syndroom | 99,88% | L5 | In afwachting |
+| 6 | Chronische pulmonale hartziekte | 99,19% | L4 | Onderzoeksvraag |
+| **7** | **Prinzmetal-angina** | **99,07%** | **L2** | **Doorgaan met waarborgen** |
 
-> **Key observation**: Although Prinzmetal angina ranks 7th by TxGNN score, it carries the strongest clinical evidence (L2) and is the most immediately actionable repurposing candidate. See the dedicated section below.
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available from DrugBank for this candidate. Based on known pharmacology, Felodipine belongs to the dihydropyridine (DHP) subclass of calcium channel blockers (CCBs). It acts primarily by blocking L-type voltage-gated calcium channels in vascular smooth muscle, producing vasodilation and reducing systemic vascular resistance. This mechanism is established for hypertension management and coronary spasm prevention.
-
-The connection between Felodipine and pulmonary hypertension has a historical basis: CCBs have been used in a select minority (<10%) of pulmonary arterial hypertension (PAH, WHO Group 1) patients who demonstrate a positive acute vasoreactivity test. In these responders, CCBs can significantly reduce pulmonary vascular resistance and improve functional class. This explains why the TxGNN model — which operates over a broad pharmacological knowledge graph — identifies a mechanistic link.
-
-However, the predicted indication specifically involves "multifactorial mechanism" pulmonary hypertension, where the underlying pathophysiology is heterogeneous and poorly characterised. In the large majority of PAH patients who are non-responders to vasoreactivity testing, CCBs can worsen prognosis by dropping systemic blood pressure without adequately relieving pulmonary vascular resistance, potentially increasing right heart strain and mortality. Current EMA-aligned clinical guidelines explicitly caution against CCB use in non-vasoreactive PAH. This signal should be treated as a mechanistic hypothesis only and requires substantial preclinical and clinical validation before any progression.
+> **Belangrijke observatie**: Hoewel Prinzmetal-angina op de 7e plaats staat volgens TxGNN-score, draagt het het sterkste klinische bewijs (L2) en is het de meest onmiddellijk uitvoerbare herbestemming. Zie de speciale sectie hieronder.
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related clinical trials registered.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar van DrugBank voor deze kandidaat. Op basis van bekende farmacologie behoort Felodipine tot de dihydropyridinetypische (DHP) subklasse van calciumkanaalblockaders (CCB's). Het werkt in eerste plaats door L-type voltage-gated calciumkanalen in vasculaire gladde spieren te blokkeren, wat vasodilatatie en verlaging van de systemische vasculaire weerstand veroorzaakt. Dit mechanisme is vastgesteld voor hypertensiebehandeling en preventie van coronaire spasme.
 
----
+De verbinding tussen Felodipine en pulmonale hypertensie heeft een historische basis: CCB's zijn gebruikt bij een selecte minderheid (<10%) van patiënten met pulmonale arteriële hypertensie (PAH, WHO-groep 1) die een positief acute vasoreactiviteitstestresultaat vertonen. Bij deze responders kunnen CCB's de pulmonale vasculaire weerstand aanzienlijk verminderen en de functionele klasse verbeteren. Dit verklaart waarom het TxGNN-model — dat over een brede farmacologische kennisgraaf werkt — een mechanistische link identificeert.
 
-## Literature Evidence
-
-Currently no related literature available.
+De voorspelde indicatie betreft echter specifiek "multifactorieel mechanisme" pulmonale hypertensie, waarbij de onderliggende pathofysiologie heterogeen en slecht gekarakteriseerd is. Bij het grote meerderheid van PAH-patiënten die niet reageren op vasoreactiviteitsmeting, kunnen CCB's de prognose verslechteren door systemische bloeddruk te verlagen zonder voldoende pulmonale vasculaire weerstand te verlichten, waardoor het risico op rechterharttrek en mortaliteit kan toenemen. Huidige EMA-gealigneerde klinische richtlijnen waarschuwen expliciet tegen CCB-gebruik bij niet-vasoreactieve PAH. Dit signaal moet worden behandeld als een pure mechanistische hypothese en vereist aanzienlijke preclinische en klinische validatie voordat verdere progressie plaatsvindt.
 
 ---
 
-## Netherlands Market Information
+## Klinisch onderzoeksbewijs
 
-Felodipine is **not registered or marketed in the Netherlands**. No CBG-MEB marketing authorisations (RVG numbers) have been issued for any Felodipine product. Any clinical use in the Netherlands would require either:
-
-- An off-label use framework under Dutch pharmaceutical law, or
-- A new marketing authorisation application to CBG-MEB (or centralised EMA procedure)
-
-For comparator context: related DHP-CCBs (e.g., Amlodipine, Nifedipine) are registered in the Netherlands and their SmPCs can serve as a safety benchmarking reference for regulatory discussions.
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics) for complete safety information.
-
-> As a class-level note: DHP calcium channel blockers carry known risks of peripheral vasodilation-related adverse effects (flushing, peripheral oedema, reflex tachycardia) and clinically significant interactions with CYP3A4 inhibitors (including grapefruit juice, azole antifungals, and certain HIV protease inhibitors). For any pulmonary hypertension application specifically, the risk of systemic hypotension and worsening of ventilation-perfusion mismatch requires careful patient selection and haemodynamic monitoring. Formal SmPC documentation must be obtained before any clinical application in the Netherlands.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Notable Finding: Prinzmetal Angina (Rank 7 — Strongest Evidence)
+## Marktinformatie Nederland
 
-Although TxGNN ranks this indication 7th, **Prinzmetal angina (vasospastic angina)** is the single most clinically evidenced repurposing opportunity for Felodipine in this evaluation. It carries an evidence level of **L2** and a **"Proceed with Guardrails"** recommendation.
+Felodipine is **niet geregistreerd of op de markt in Nederland**. Er zijn geen CBG-MEB-handelsvergunningen (RVG-nummers) afgegeven voor enig Felodipine-product. Elk klinisch gebruik in Nederland zou vereisen ofwel:
 
-**Why the mechanism fits**: Prinzmetal angina is caused by spontaneous spasm of coronary artery smooth muscle, producing transient ST-segment elevation. DHP-CCBs block L-type calcium channels directly in coronary smooth muscle, preventing vasospasm. Felodipine shares this mechanism with Nifedipine, which is already approved for this indication in multiple countries. Multiple controlled studies from 1989–1995 directly evaluated Felodipine in this setting.
+- Een off-label-gebruikskader onder Nederlandse farmaceutische wet, ofwel
+- Een nieuwe handelsvergunningsaanvraag bij CBG-MEB (of gecentraliseerde EMA-procedure)
 
-### Literature Evidence — Prinzmetal Angina
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [1746458](https://pubmed.ncbi.nlm.nih.gov/1746458/) | 1991 | RCT (active-controlled) | Am J Cardiology | Felodipine 10–20 mg once daily vs. Nifedipine 20 mg four times daily in 30 Prinzmetal patients; comparable anti-ischaemic efficacy confirmed by 24-hour Holter monitoring |
-| [8013514](https://pubmed.ncbi.nlm.nih.gov/8013514/) | 1994 | Controlled Trial (ergonovine challenge) | Eur Heart J | Extended-release Felodipine 20 mg once daily significantly suppressed ergonovine-induced myocardial ischaemia in 14 patients at both 4 h and 24 h post-dose |
-| [2909138](https://pubmed.ncbi.nlm.nih.gov/2909138/) | 1989 | Controlled Trial (hyperventilation challenge) | Am J Cardiology | Felodipine reduced hyperventilation-induced ischaemic ST changes in variant angina patients |
-| [7744087](https://pubmed.ncbi.nlm.nih.gov/7744087/) | 1995 | RCT (double-blind, 3-way crossover) | Eur Heart J | Felodipine ER 10 mg vs. Nifedipine SR 20 mg vs. placebo in 43 stable angina patients; Felodipine improved exercise duration by 66 seconds (p < 0.05) at end of dosing interval |
-| [7728649](https://pubmed.ncbi.nlm.nih.gov/7728649/) | 1995 | Review (Felodipine-focused) | Can J Cardiology | Comprehensive review of Felodipine across angina syndromes; confirms CCBs as first-line for Prinzmetal angina via anti-vasospastic mechanism |
-| [14689111](https://pubmed.ncbi.nlm.nih.gov/14689111/) | 2003 | Review | Herz | Differential CCB therapy across cardiovascular indications; supports DHP-CCBs for vasospastic angina |
-| [3345765](https://pubmed.ncbi.nlm.nih.gov/3345765/) | 1988 | Case Series | Eur Heart J | Exercise-induced intermittent ST elevation in Prinzmetal angina documented; illustrates clinical presentation spectrum |
-| [19052677](https://pubmed.ncbi.nlm.nih.gov/19052677/) | 2008 | Case Report | Can J Cardiology | Vasospasm-induced polymorphic ventricular tachycardia; highlights severity of untreated coronary spasm |
-| [15222138](https://pubmed.ncbi.nlm.nih.gov/15222138/) | 2004 | Case Report | Orvosi Hetilap | Nicergoline-induced Prinzmetal angina in a hypertensive patient; reinforces vasospasm aetiology recognition |
+Voor vergelijkingscontext: gerelateerde DHP-CCB's (bijv. Amlodipine, Nifedipine) zijn geregistreerd in Nederland en hun SmPC's kunnen als veiligheidsvergelijkingsleidraad voor regelgeving dienen.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-### Top Prediction (Rank 1 — Pulmonary Hypertension, Multifactorial)
+Raadpleeg de SmPC (Samenvatting van productkenmerken) voor volledige veiligheidsinformatie.
 
-**Decision: Hold**
-
-**Rationale:**
-The top TxGNN prediction lacks any supporting clinical trials or literature, and the underlying indication encompasses a heterogeneous patient population in whom CCBs have documented potential for harm. This signal does not meet the threshold for further development at this stage.
-
-**To re-evaluate this prediction in the future:**
-- Obtain a positive acute vasoreactivity test result profile for the specific patient subgroup of interest
-- Identify mechanistic research establishing CCB efficacy in the multifactorial PH subtype
-- Review WHO/ESC pulmonary hypertension guidelines for updated CCB positioning
+> Als klassenote: DHP-calciumkanaalblockaders hebben bekende risico's van perifere vasodilatatie gerelateerde bijwerkingen (roodheid, perifeer oedeem, reflextachycardie) en klinisch significant interacties met CYP3A4-remmers (inclusief grapefruitpap, azoolantifungiva en bepaalde HIV-proteaseremmers). Voor specifieke toepassing bij pulmonale hypertensie is het risico van systemische hypotensie en verslechtering van ventilatie-perfusie mismatch een voorzorgsmaatregel die zorgvuldige patiëntselectie en hemodynamische monitoring vereist. Formele SmPC-documentatie moet vóór enig klinisch gebruik in Nederland worden verkregen.
 
 ---
 
-### Prinzmetal Angina (Rank 7 — Most Actionable Candidate)
+## Opvallende bevinding: Prinzmetal-angina (Rang 7 — Sterkste bewijs)
 
-**Decision: Proceed with Guardrails**
+Hoewel TxGNN deze indicatie 7e rangschikt, is **Prinzmetal-angina (vasospastische angina)** de enige meest klinisch bewezen herbestemming-opportuniteit voor Felodipine in deze evaluatie. Het draagt een bewijsniveau van **L2** en een **"Doorgaan met waarborgen"** aanbeveling.
 
-**Rationale:**
-Multiple controlled trials (including double-blind RCTs and provocation challenge studies) conducted between 1989 and 1995 directly confirm Felodipine's efficacy in Prinzmetal angina. The mechanism is shared with Nifedipine, which is already approved for this indication. This constitutes the strongest repurposing signal in this evaluation.
+**Waarom het mechanisme aansluit**: Prinzmetal-angina wordt veroorzaakt door spontane spasme van coronaire arteriële gladde spieren, wat voorbijgaande ST-segmentiële verhoging produceert. DHP-CCB's blokkeren L-type calciumkanalen rechtstreeks in coronaire gladde spieren, wat coronaire spasme voorkomt. Felodipine deelt dit mechanisme met Nifedipine, die al voor deze indicatie in meerdere landen is goedgekeurd. Meerdere gecontroleerde onderzoeken uit 1989–1995 evalueerden Felodipine rechtstreeks in deze setting.
 
-**To proceed, the following is needed:**
-- Retrieve complete MOA documentation from DrugBank (currently absent) to complete mechanistic dossier
-- Obtain full SmPC from a comparable registered DHP-CCB (e.g., Nifedipine) for cross-reference safety benchmarking
-- Consult CBG-MEB on the appropriate regulatory pathway: off-label use guidance vs. new marketing authorisation application for Felodipine in the Netherlands
-- Conduct a systematic literature update (2000–present) to capture any post-1995 Felodipine data in vasospastic angina
-- Prepare a pharmacovigilance plan before any clinical introduction
+### Literatuurbewijs — Prinzmetal-angina
+
+| PMID | Jaar | Type | Tijdschrift | Sleutelbevindingan |
+|------|------|------|----------|---------|
+| [1746458](https://pubmed.ncbi.nlm.nih.gov/1746458/) | 1991 | RCT (actief-gecontroleerd) | Am J Cardiology | Felodipine 10–20 mg eenmaal daags vs. Nifedipine 20 mg viermaal daags bij 30 Prinzmetal-patiënten; vergelijkbare anti-ischemische werkzaamheid bevestigd door 24-uurs Holter-monitoring |
+| [8013514](https://pubmed.ncbi.nlm.nih.gov/8013514/) | 1994 | Gecontroleerd onderzoek (ergonovine-provocatie) | Eur Heart J | Extended-release Felodipine 20 mg eenmaal daags onderdrukte aanzienlijk ergonovine-geïnduceerde myocardiale ischemie bij 14 patiënten op zowel 4 uur als 24 uur na toediening |
+| [2909138](https://pubmed.ncbi.nlm.nih.gov/2909138/) | 1989 | Gecontroleerd onderzoek (hyperventilatie-provocatie) | Am J Cardiology | Felodipine reduceerde hyperventilatie-geïnduceerde ischemische ST-veranderingen bij patiënten met variant-angina |
+| [7744087](https://pubmed.ncbi.nlm.nih.gov/7744087/) | 1995 | RCT (dubbelblind, 3-weg crossover) | Eur Heart J | Felodipine ER 10 mg vs. Nifedipine SR 20 mg vs. placebo bij 43 patiënten met stabiele angina; Felodipine verbeterde inspanningsduur met 66 seconden (p < 0,05) aan het einde van het doseringinterval |
+| [7728649](https://pubmed.ncbi.nlm.nih.gov/7728649/) | 1995 | Review (Felodipine-gericht) | Can J Cardiology | Uitgebreid overzicht van Felodipine over anginale syndromen; bevestigt CCB's als first-line voor Prinzmetal-angina via anti-spasme-mechanisme |
+| [14689111](https://pubmed.ncbi.nlm.nih.gov/14689111/) | 2003 | Review | Herz | Differentiële CCB-therapie over cardiovasculaire indicaties; ondersteunt DHP-CCB's voor vasospastische angina |
+| [3345765](https://pubmed.ncbi.nlm.nih.gov/3345765/) | 1988 | Casusreeks | Eur Heart J | Inspanningsgeïnduceerde intermittente ST-elevatie bij Prinzmetal-angina gedocumenteerd; illustreert klinische presentatiespectra |
+| [19052677](https://pubmed.ncbi.nlm.nih.gov/19052677/) | 2008 | Casusrapport | Can J Cardiology | Spasme-geïnduceerde polymorfische ventriculaire tachycardie; markeert ernstigheid van onbehandelde coronaire spasme |
+| [15222138](https://pubmed.ncbi.nlm.nih.gov/15222138/) | 2004 | Casusrapport | Orvosi Hetilap | Nicergoline-geïnduceerde Prinzmetal-angina bij hypertensieve patiënt; versterkt herkenning van spasme-etiologie |
 
 ---
 
-### Summary of All Predictions
+## Conclusie en vervolgstappen
 
-| Rank | Indication | Decision | Priority |
-|------|-----------|---------|---------|
-| 1 | Pulmonary hypertension (multifactorial) | Hold | Low |
-| 2 | Pulmonary hypertension (lung disease/hypoxia) | Hold | Low |
-| 3 | Malignant hypertensive renal disease | Hold | Low |
-| 4 | Malignant renovascular hypertension | Hold | Low |
-| 5 | Braddock syndrome | Hold | Very Low |
-| 6 | Chronic pulmonary heart disease | Research Question | Medium (basic research) |
-| **7** | **Prinzmetal angina** | **Proceed with Guardrails** | **High** |
+### Topvoorspelling (Rang 1 — Pulmonale hypertensie, multifactorieel)
 
-> **Disclaimer**: This report is produced for research purposes only and does not constitute medical advice. All repurposing candidates require clinical validation before therapeutic application. Content is intended to support regulatory and research discussions within the Netherlands healthcare system under CBG-MEB oversight.
+**Beslissing: In afwachting**
+
+**Motivering:**
+De topvoorspelling van TxGNN ondersteunt geen klinische onderzoeken of literatuur, en de onderliggende indicatie omvat een heterogene patiëntpopulatie waarbij CCB's gedocumenteerd schadenpotentieel hebben. Dit signaal voldoet momenteel niet aan de drempel voor verdere ontwikkeling in dit stadium.
+
+**Om deze voorspelling in de toekomst opnieuw te evalueren:**
+- Verkrijg een positief acute vasoreactiviteitstest-resultaatprofiel voor de specifieke patiëntsubgroep van belang
+- Identificeer mechanistische onderzoeksgegevens die CCB-werkzaamheid in de multifactoriële PH-subtype vaststellen
+- Controleer WHO/ESC-richtlijnen voor pulmonale hypertensie op bijgewerkte CCB-positionering
+
+---
+
+### Prinzmetal-angina (Rang 7 — Meest handelbare kandidaat)
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Motivering:**
+Meerdere gecontroleerde onderzoeken (inclusief dubbelblinde RCT's en provocatie-uitdagingsstudies) uitgevoerd tussen 1989 en 1995 bevestigen rechtstreeks Felodipine's werkzaamheid in Prinzmetal-angina. Het mechanisme wordt gedeeld met Nifedipine, die al voor deze indicatie is goedgekeurd. Dit vormt het sterkste herbestemming-signaal in deze evaluatie.
+
+**Om voort te gaan, is het volgende nodig:**
+- Verkrijg volledige gegevens over werkingsmechanisme van DrugBank (momenteel afwezig) om volledige mechanistische dossier af te ronden
+- Verkrijg volledige SmPC van een vergelijkbaar geregistreerd DHP-CCB (bijv. Nifedipine) voor kruisverwijzings-veiligheidsvergelijking
+- Raadpleeg CBG-MEB over het passende regelgevingspad: off-label gebruiksgeleiding vs. nieuwe handelsvergunningsaanvraag voor Felodipine in Nederland
+- Voer een systematische literatuurupdate (2000–heden) uit om eventuele na-1995 Felodipine-gegevens in vasospastische angina vast te leggen
+- Bereid een farmacovigillantieplan voor vóór enig klinisch gebruik
+
+---
+
+### Samenvatting van alle voorspellingen
+
+| Rang | Indicatie | Beslissing | Prioriteit |
+|------|-----------|-----------|-----------|
+| 1 | Pulmonale hypertensie (multifactorieel) | In afwachting | Laag |
+| 2 | Pulmonale hypertensie (longziekte/hypoxie) | In afwachting | Laag |
+| 3 | Maligne hypertensieve nierschade | In afwachting | Laag |
+| 4 | Maligne renovasculaire hypertensie | In afwachting | Laag |
+| 5 | Braddock-syndroom | In afwachting | Zeer laag |
+| 6 | Chronische pulmonale hartziekte | Onderzoeksvraag | Gemiddeld (basisonderzoek) |
+| **7** | **Prinzmetal-angina** | **Doorgaan met waarborgen** | **Hoog** |
+
+> **Disclaimer**: Dit rapport is opgesteld voor onderzoeksdoeleinden en stelt geen medisch advies voor. Alle herbestemming-kandidaten vereisen klinische validatie vóór therapeutische toepassing. Inhoud is bedoeld ter ondersteuning van regelgevings- en onderzoeksdiscussies binnen het Nederlandse gezondheidssysteem onder CBG-MEB-toezicht.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

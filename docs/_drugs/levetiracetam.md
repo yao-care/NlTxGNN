@@ -29,97 +29,94 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-The txgnn-pipeline skill confirms this is the NlTxGNN Netherlands deployment. Now I'll generate the full evaluation report from the Evidence Pack.
+# Levetiracetam: van focale aandoeningen naar visuele epilepsie
+
+## Samenvatting in één zin
+
+Levetiracetam (Keppra®) is een gevestigde antiepilepticum van de tweede generatie (AED), veel gebruikt voor adjuvante en monotherapiebehandeling van focale aandoeningen bij volwassenen en kinderen met epilepsie.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn bij **visuele epilepsie**,
+met **9 klinische onderzoeken** en **20 publicaties** die deze richting momenteel ondersteunen.
 
 ---
 
-# Levetiracetam: From Partial-Onset Seizures to Visual Epilepsy
+## Kort overzicht
 
-## One-Sentence Summary
-
-Levetiracetam (Keppra®) is an established second-generation antiepileptic drug (AED), widely used for adjunctive and monotherapy treatment of partial-onset seizures in adults and children with epilepsy.
-The TxGNN model predicts it may be effective for **Visual Epilepsy**,
-with **9 clinical trials** and **20 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Partial-onset seizures / epilepsy (based on published literature context; no formal NL registration data available in current dataset) |
-| Predicted New Indication | Visual Epilepsy |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Focale aandoeningen / epilepsie (gebaseerd op gepubliceerde literatuurcontext; geen formele NL-registratiegegevens beschikbaar in huidige dataset) |
+| Voorspelde nieuwe indicatie | Visuele epilepsie |
+| TxGNN-voorspellingsscore | 99.98% |
+| Bewijsniveau | L3 |
+| NL-marktstatuts | Niet geregistreerd |
+| Aantal vergunningen | 0 |
+| Aanbevolen besluit | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Levetiracetam is an established second-generation antiepileptic drug (Keppra®), its efficacy in partial-onset seizures and various generalized epilepsy subtypes has been clinically proven across multiple Phase 3 RCTs and meta-analyses, and mechanistically may be applicable to visual epilepsy.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar. Op basis van bekende informatie is Levetiracetam een gevestigd antiepilepticum van de tweede generatie (Keppra®), waarvan de werkzaamheid bij focale aandoeningen en verschillende gegeneraliseerde epilepsiesubtypes klinisch is bewezen in meerdere fase 3 RCT's en meta-analyses, en mechanistisch toepasbaar kan zijn op visuele epilepsie.
 
-Visual epilepsy — encompassing photosensitive epilepsy, visually-induced reflex epilepsy, and related photoparoxysmal conditions — involves abnormal cortical hyperexcitability and synchronization of the visual cortex in response to flickering light sources or visual patterns. Levetiracetam is known from published literature to bind selectively to synaptic vesicle protein 2A (SV2A), modulating presynaptic neurotransmitter release and broadly suppressing neuronal over-synchronization. A 2005 review in *Epilepsia* (PMID 16302877) documents photosensitivity as a prominent feature within idiopathic generalized epilepsies (IGE), and a 2023 network meta-analysis (PMID 37378757) demonstrates Levetiracetam's quantified efficacy across multiple IGE subtypes — many of which carry photosensitive phenotypes. This provides indirect mechanistic plausibility for the TxGNN prediction.
+Visuele epilepsie — omvattend fotosensitieve epilepsie, visueel-geïnduceerde reflexpituitaire epilepsie en gerelateerde fotoparoxismale aandoeningen — wordt gekenmerkt door abnormale corticale hyperexcitabiliteit en synchronisatie van de visuele cortex in reactie op flikkerlichtbronnen of visuele patronen. Uit gepubliceerde literatuur is bekend dat Levetiracetam selectief bindt aan synaptische vesiculaire eiwit 2A (SV2A), waardoor presynaptische neurotransmitterafgifte wordt gemodeleerd en neuronale oversynchronisatie breed wordt onderdrukt. Een review uit 2005 in *Epilepsia* (PMID 16302877) documenteert fotosensitiviteit als een prominent kenmerk binnen idiopatische gegeneraliseerde epilepsieën (IGE), en een netwerkmetaanalyse uit 2023 (PMID 37378757) demonstreert gekwantificeerde werkzaamheid van Levetiracetam tegen meerdere IGE-subtypes — waarvan velen een fotosensitief fenotype hebben. Dit biedt indirecte mechanistische plausibiliteit voor de TxGNN-voorspelling.
 
-However, no dedicated clinical trial specifically targeting visual or photosensitive epilepsy as the primary endpoint has been identified for Levetiracetam in humans. The available evidence represents extrapolation from broader epilepsy populations rather than direct proof-of-concept in visual epilepsy. A dedicated research question and prospective data collection are needed before any formal repurposing claim can be advanced.
+Er zijn echter geen specifieke klinische onderzoeken geïdentificeerd die rechtstreeks gericht zijn op visuele of fotosensitieve epilepsie als primair eindpunt voor Levetiracetam bij mensen. Het beschikbare bewijs vertegenwoordigt extrapolatie van bredere epilepsiepopulaties in plaats van rechtstreeks bewijs van concept in visuele epilepsie. Een gericht onderzoeksvraagstuk en prospectieve gegevensverzameling zijn nodig voordat enige formele claim voor hergebruik kan worden geuit.
 
 ---
 
-## Clinical Trial Evidence
+## Klinische onderzoeken
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Statuts | Aantal deelnemers | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | Liceo Study: Prospective observational study assessing new AEDs (including levetiracetam) as first-line bitherapy in focal epilepsy under real-world daily clinical conditions; provides broad-spectrum real-world LEV efficacy data across epilepsy subtypes |
-| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Phase 2 | Completed | 87 | 19-week randomised double-blind safety study evaluating cognitive and neuropsychological effects of LEV (20–60 mg/kg/day) as adjunctive treatment in children aged 4–16 years with refractory partial-onset seizures; relevant safety reference |
-| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Phase 3 | Not Yet Recruiting | 1,649 | MAST trial: Randomised double-blind placebo-controlled study comparing shorter vs longer AED course, and phenytoin vs levetiracetam for seizure prevention post-traumatic brain injury; provides large-scale Phase 3 safety and prophylactic efficacy framework for LEV |
-| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | N/A | Completed | 31 | Open-label trial examining LEV efficacy and safety for prophylactic treatment of migraine with or without aura, including visual disturbance phenotypes; provides indirect data supporting LEV use in visually-triggered neurological conditions |
-| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Phase 3 | Not Yet Recruiting | 580 | Randomised double-blind placebo-controlled Phase 3 trial of prophylactic LEV for improving functional outcome in acute intracerebral haemorrhage; additional large-scale prophylactic safety/efficacy framework |
-| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Phase 2 | Completed | 62 | LEV modulation of hippocampal hyperactivity in psychotic disorders assessed via BOLD-fMRI visual scene processing task; demonstrates LEV's measurable effects on visually-engaged neural circuits, though primary target is psychosis rather than epilepsy |
-| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Phase 4 | Unknown | 40 | LEV efficacy in neonatal seizure control; general AED comparison study with phenobarbital; patient population not specific to visual epilepsy but contributes to overall LEV safety profile |
-| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Phase 1/2 | Enrolling by Invitation | 24 | AVASPA intracranial gene therapy for Canavan Disease; LEV used as background antiepileptic medication rather than primary investigational drug |
-| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Phase 2 | Terminated | 1 | Pharmacologic modulation of hippocampal activity in psychosis using LEV and visual scene processing task; terminated very early (N=1), no conclusions can be drawn |
+| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Fase 4 | Voltooid | 111 | Liceo-studie: Prospectief observationeel onderzoek dat nieuwe AED's (inclusief levetiracetam) evalueert als eerstelijnsbiterapie voor focale epilepsie onder werkelijke klinische omstandigheden; biedt brede werkzaamheidsgegevens van LEV op real-world basis voor verschillende epilepsiesubtypes |
+| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Fase 2 | Voltooid | 87 | 19 weken durend gerandomiseerd dubbelblind veiligheidsonderzoek evaluatie van cognitieve en neuropsychologische effecten van LEV (20–60 mg/kg/dag) als adjuvante behandeling bij kinderen van 4–16 jaar met refractaire focale aandoeningen; relevant als veiligheidsreferentie |
+| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Fase 3 | Nog niet gestart met werving | 1.649 | MAST-onderzoek: Gerandomiseerd dubbelblind placebogecontroleerd onderzoek vergelijking van kortere versus langere AED-behandeling, en fenytoïne versus levetiracetam voor aanvalspreventie na traumatisch hersenletsel; biedt raamwerk voor fase 3-veiligheids- en profylactische werkzaamheidsgegevens voor LEV |
+| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | N/A | Voltooid | 31 | Open-label onderzoek evaluatie van LEV-werkzaamheid en veiligheid voor profylactische behandeling van migraine met of zonder aura, inclusief fenotypes met visuele verstoring; biedt indirecte gegevens ter ondersteuning van LEV-gebruik bij visueel-uitgelokte neurologische aandoeningen |
+| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Fase 3 | Nog niet gestart met werving | 580 | Gerandomiseerd dubbelblind placebogecontroleerd fase 3-onderzoek van profylactisch LEV ter verbetering van functioneel uitkomst bij acute intracraniële bloeding; aanvullend groot raamwerk voor fase 3-veiligheids- en werkzaamheidsgegevens |
+| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Fase 2 | Voltooid | 62 | LEV-modulering van hippocampale hyperactiviteit in psychotische stoornissen beoordeeld via BOLD-fMRI visuele scèneherkenningstaak; toont LEV's meetbare effecten op visueel-betrokken neurale circuits aan, hoewel primair doel psychose in plaats van epilepsie is |
+| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Fase 4 | Onbekend | 40 | LEV-werkzaamheid in neonatale aanvalsbeheersing; algemeen AED-vergelijkingsonderzoek met fenobarbital; populatie niet specifiek gericht op visuele epilepsie maar draagt bij aan algemeen LEV-veiligheidsprofiel |
+| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Fase 1/2 | Inschrijving op uitnodiging | 24 | AVASPA intracraniële gentherapie voor de ziekte van Canavan; LEV gebruikt als achtergrondantiepileptica in plaats van primair onderzoeksgeneesmiddel |
+| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Fase 2 | Beëindigd | 1 | Farmacologische modulering van hippocampale activiteit bij psychose met LEV en visuele scèneherkenningstaak; zeer vroeg beëindigd (N=1), geen conclusies kunnen worden getrokken |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | First RCT directly comparing LEV vs phenobarbital for neonatal seizures; demonstrates LEV's efficacy and excellent safety profile in a vulnerable population, supporting broad AED applicability |
-| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | Seizure | Open-label RCT comparing phenytoin vs LEV for acute symptomatic seizures in children with acute encephalitis syndrome; establishes LEV's broad-spectrum efficacy against acute symptomatic seizures |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematic Review / Network MA | Journal of Neurology | Network meta-analysis comparing antiseizure medications (including LEV) as monotherapy and adjunctive therapy for idiopathic generalized epilepsies and related subtypes; quantified efficacy/safety comparison directly relevant to IGE-spectrum visual epilepsy |
-| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Systematic Review / MA | Epilepsy & Behavior | Meta-analysis comparing LEV vs other ASMs specifically for myoclonic seizures in IGE, with focus on juvenile myoclonic epilepsy (JME); relevant to generalized reflex seizure subtypes overlapping with visual epilepsy |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Systematic Review / MA | Neurocritical Care | Systematic review and meta-analysis evaluating LEV for seizure prophylaxis across neurocritical settings (ICH, TBI, neurosurgery, SAH); clarifies efficacy, optimal dosing, and adverse event profile |
-| [36209676](https://pubmed.ncbi.nlm.nih.gov/36209676/) | 2022 | Systematic Review / Network MA | Seizure | Network meta-analysis of interventions for benzodiazepine-resistant status epilepticus in children and adults; provides comparative ranking of LEV against alternative second-line agents |
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT | The Lancet Neurology | PEACH trial: Phase 3 randomised double-blind placebo-controlled trial of prophylactic LEV to reduce acute seizure risk in intracerebral haemorrhage; high-quality safety and efficacy data in an acute neurological setting |
-| [16302877](https://pubmed.ncbi.nlm.nih.gov/16302877/) | 2005 | Review | Epilepsia | Key review of photosensitivity in idiopathic generalized epilepsies; characterises the EEG and clinical phenotype of photosensitive epilepsy within IGE — directly underpins the mechanistic basis for the TxGNN prediction of LEV in visual epilepsy |
-| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Review | New England Journal of Medicine | Authoritative review of initial seizure management in adults; covers LEV's established role and practical considerations in first-line and adjunctive epilepsy treatment |
-| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Review | CNS Drugs | Comprehensive spotlight review of Levetiracetam in epilepsy; summarises global approved indications (partial-onset seizures, JME, primary generalised tonic-clonic seizures) and the evidence base behind each |
+| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | Eerste RCT direct vergelijking LEV versus fenobarbital voor neonatale aandoeningen; toont LEV's werkzaamheid en uitstekende veiligheidsprofiel in kwetsbare populatie aan, wat brede AED-toepasbaarheid ondersteunt |
+| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | Seizure | Open-label RCT vergelijking fenytoïne versus LEV voor acute symptomatische aandoeningen bij kinderen met acute encefalitis; stelt LEV's brede werkzaamheid vast tegen acute symptomatische aandoeningen |
+| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematische Review / Netwerkmetaanalyse | Journal of Neurology | Netwerkmetaanalyse vergelijking antiepileptica (inclusief LEV) als monotherapie en adjuvante therapie voor idiopatische gegeneraliseerde epilepsieën en gerelateerde subtypes; gekwantificeerde werkzaamheids- en veiligheidsvergleking rechtstreeks relevant voor IGE-spectrum visuele epilepsie |
+| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Systematische Review / MA | Epilepsy & Behavior | Metaanalyse vergelijking LEV versus andere ASM's specifiek voor myoclonische aandoeningen in IGE, met focus op juveniele myoclonische epilepsie (JME); relevant voor gegeneraliseerde reflexpituitaire aanvalssubtypes die overlappen met visuele epilepsie |
+| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Systematische Review / MA | Neurocritical Care | Systematische review en metaanalyse evaluatie van LEV voor aanvalspreventie in neurokritieke omgevingen (ICH, TBI, neurochirurgie, SAH); verduidelijkt werkzaamheid, optimale dosering en bijwerkingenprofiel |
+| [36209676](https://pubmed.ncbi.nlm.nih.gov/36209676/) | 2022 | Systematische Review / Netwerkmetaanalyse | Seizure | Netwerkmetaanalyse van interventies voor benzodiazepineresistente status epilepticus bij kinderen en volwassenen; biedt vergelijkende rangschikking van LEV tegen alternatieve middelen uit de tweede lijn |
+| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT | The Lancet Neurology | PEACH-onderzoek: Fase 3 gerandomiseerd dubbelblind placebogecontroleerd onderzoek van profylactisch LEV ter vermindering van acute aanvalsrisico bij intracraniële bloeding; kwaliteitsveiligheids- en werkzaamheidsgegevens in acute neurologische setting |
+| [16302877](https://pubmed.ncbi.nlm.nih.gov/16302877/) | 2005 | Review | Epilepsia | Kernreview van fotosensitiviteit in idiopatische gegeneraliseerde epilepsieën; karakteriseert het EEG- en klinische fenotype van fotosensitieve epilepsie in IGE — ondersteunt rechtstreeks de mechanistische basis voor de TxGNN-voorspelling van LEV in visuele epilepsie |
+| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Review | New England Journal of Medicine | Gezaghebbende review van initiële aanvalsbehandeling bij volwassenen; behandelt LEV's gevestigde rol en praktische overwegingen in eerstelijns- en adjuvante epilepsiebehandeling |
+| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Review | CNS Drugs | Uitgebreide spotlightreview van Levetiracetam in epilepsie; geeft samenvatting van wereldwijd goedgekeurde indicaties (focale aandoeningen, JME, primaire gegeneraliseerde tonico-clonische aandoeningen) en het bewijsmateriaal achter elk |
 
 ---
 
-## Safety Considerations
+## Veiligheidsoverwegingen
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusie en vervolgstappen
 
-**Decision: Hold**
+**Besluit: Wachten**
 
-**Rationale:**
-Levetiracetam has a robust, well-documented efficacy profile across multiple epilepsy types, and the TxGNN prediction score (99.98%) reflects strong knowledge-graph similarity between visual epilepsy and established indications. However, no dedicated clinical trial specifically targeting visual or photosensitive epilepsy as the primary endpoint has been identified, the drug's formal mechanism of action data and Dutch market authorization data are not available in the current dataset, and the supporting evidence is indirect at best (Evidence Level L3).
+**Argumentatie:**
+Levetiracetam heeft een robuust, goed gedocumenteerd werkzaamheidsprofiel voor meerdere epilepsietypen, en de TxGNN-voorspellingsscore (99.98%) weerspiegelt sterke kennisgrafiekgelijkenis tussen visuele epilepsie en gevestigde indicaties. Er zijn echter geen klinische onderzoeken geïdentificeerd die specifiek gericht zijn op visuele of fotosensitieve epilepsie als primair eindpunt, de formele werkingsmechanismegegevens en Nederlandse marktvergunningsgegevens zijn niet beschikbaar in de huidige dataset, en het ondersteunende bewijs is hooguit indirecte aard (Bewijsniveau L3).
 
-**To proceed, the following is needed:**
+**Ter voortgang is onder meer het volgende nodig:**
 
-- **MOA verification**: Retrieve formal mechanism of action data from DrugBank (DB01202) to confirm SV2A-mediated mechanistic plausibility specifically for visual cortex hyperexcitability circuits
-- **SmPC review**: Obtain and parse the full SmPC (via CBG-MEB or EMA) to document contraindications, key warnings, and drug interactions before any S1 safety gate can be cleared
-- **NL market authorization verification**: Confirm CBG-MEB and/or EMA central authorization status for Levetiracetam in the Netherlands (Keppra® is a known EMA-authorized product; the absence of registration data in the current dataset likely reflects a pipeline data gap rather than true non-authorization)
-- **Dedicated clinical evidence**: Design a prospective case series or observational study specifically enrolling patients with visual/photosensitive epilepsy treated with Levetiracetam, or identify any existing registry data targeting this subtype
-- **Neurologist consultation**: Engage a Dutch neurologist or epileptologist specialising in reflex epilepsy to assess clinical feasibility and patient-selection criteria before advancing to a formal repurposing research protocol
+- **Verificatie werkingsmechanisme**: Haalt formele werkingsmechanismegegevens op uit DrugBank (DB01202) om mechanistische plausibiliteit van SV2A-gemedieerde effecten specifiek op visuele cortexhyperexcitabiliteitscircuits te bevestigen
+- **SmPC-beoordeling**: Verkrijgt en analyseert de volledige SmPC (via CBG-MEB of EMA) om contra-indicaties, belangrijke waarschuwingen en geneesmiddelinteracties te documenteren voordat de veiligheidsstap S1 kan worden doorlopen
+- **Verificatie NL-marktvergunning**: Bevestigt CBG-MEB en/of EMA-centrale vergunningsstatus voor Levetiracetam in Nederland (Keppra® is een bekend EMA-goedgekeurd product; afwezigheid van registratiegegevens in de huidige dataset weerspiegelt waarschijnlijk een pijplijngegevensgat in plaats van werkelijk gebrek aan vergunning)
+- **Gericht klinisch bewijs**: Ontwerpt een prospectief caseserieonderzoek of observationeel onderzoek dat specifiek patiënten met visuele/fotosensitieve epilepsie behandeld met Levetiracetam inschrijft, of identificeert bestaande registergegevens gericht op dit subtype
+- **Neuroloogconsultatie**: Betrekt een Nederlandse neuroloog of epileptoloog gespecialiseerd in reflexpituitaire epilepsie om klinische haalbaarheid en patiëntselectiecriteria in te schatten voordat voort wordt gegaan met een formeel hergebruiksonderzoeksprotocol
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

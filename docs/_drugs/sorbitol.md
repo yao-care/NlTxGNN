@@ -29,81 +29,78 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-Using the `txgnn-pipeline` skill context (NlTxGNN, Netherlands deployment), I'll now generate the evaluation report from the Evidence Pack.
+# Sorbitol: van osmotisch middel tot trainingsinduceerde maligne hyperthermie
+
+## Samenvatting in één zin
+
+Sorbitol is een suiker-alcohol die veel wordt gebruikt als osmotisch laxativum, vochtbinder en farmaceutische hulpstof; er is geen formeel goedgekeurde indicatie geregistreerd in de Nederlandse regelgevingsdatabase.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **trainingsinduceerde maligne hyperthermie**,
+echter met momenteel **0 klinische onderzoeken** en **0 publicaties** die deze richting ondersteunen, bestaat de bewijsbasis volledig uit een computationele modelvoorspelling.
 
 ---
 
-# Sorbitol: From Osmotic Agent to Exercise-Induced Malignant Hyperthermia
+## Snel overzicht
 
-## One-Sentence Summary
-
-Sorbitol is a sugar alcohol widely used as an osmotic laxative, humectant, and pharmaceutical excipient; no formal approved indication is recorded in the Dutch regulatory database.
-The TxGNN model predicts it may be effective for **Exercise-Induced Malignant Hyperthermia**,
-however with **0 clinical trials** and **0 publications** currently supporting this direction, the evidence base consists entirely of a computational model prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No approved indication on record |
-| Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Geen goedgekeurde indicatie geregistreerd |
+| Voorspelde nieuwe indicatie | Trainingsinduceerde maligne hyperthermie |
+| TxGNN-voorspellingsscore | 99.40% |
+| Bewijsniveau | L5 |
+| Status op NL-markt | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available for Sorbitol in this evidence pack. Based on established pharmacology, Sorbitol is an osmotic sugar alcohol that exerts its primary therapeutic effect through osmotic pressure regulation in the gastrointestinal tract. Its metabolic pathway — Sorbitol → Fructose → glycolysis — is well characterised in intermediary metabolism but carries no known direct pharmacological relevance to skeletal muscle pathophysiology.
+Momenteel zijn gedetailleerde werkingsmechanisme-gegevens voor Sorbitol niet beschikbaar in dit bewijspakket. Op basis van vastgestelde farmacologie is Sorbitol een osmotisch suiker-alcohol dat zijn primaire therapeutische effect uitoefent door osmotische drukregulering in het gastro-intestinale tractus. Het metabole traject ervan — Sorbitol → Fructose → glycolyse — is goed gekarakteriseerd in intermediair metabolisme, maar heeft geen bekende directe farmacologische relevantie voor skeletspierpatofysiologie.
 
-Exercise-induced malignant hyperthermia is a rare, potentially life-threatening disorder caused predominantly by gain-of-function mutations in the *RYR1* gene, which encodes the ryanodine receptor governing calcium release from the sarcoplasmic reticulum of skeletal muscle. During an acute episode, uncontrolled intracellular calcium efflux leads to sustained muscular contraction, severe hyperthermia, and metabolic acidosis. The established first-line treatment is dantrolene, which directly suppresses RYR1-mediated calcium release — a completely different mechanism from osmotic modulation.
+Trainingsinduceerde maligne hyperthermie is een zeldzame, potentieel levensbedreigende aandoening veroorzaakt door gain-of-function mutaties in het *RYR1*-gen, dat codeert voor de ryanodine-receptor die de calciumafgifte uit het sarcoplasmatisch reticulum van skeletspier regelt. Tijdens een acuut episode leidt ongecontroleerde intracellulair calciumuitstroom tot aanhoudende spiercontractie, ernstige hyperthermie en metabolische acidose. De gevestigde eerstelijnbehandeling is dantroleen, dat direct RYR1-gemedieerde calciumafgifte onderdrukt — een volledig ander mechanisme dan osmotische modulatie.
 
-There is no recognised mechanistic bridge between Sorbitol's osmotic properties and RYR1-mediated calcium dysregulation. The high TxGNN score (0.994) most plausibly reflects indirect node proximity in the knowledge graph through shared skeletal muscle metabolism pathways, rather than a true drug–disease pharmacological connection. This prediction is assessed as a likely computational false positive with no current clinical translational basis, and should not be advanced without preclinical mechanistic evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Er is geen erkende mechanistische brug tussen Sorbitols osmotische eigenschappen en RYR1-gemedieerde calciumdysregulatie. De hoge TxGNN-score (0.994) weerspiegelt waarschijnlijk meest indirecte nabijheid van knooppunten in de kennisgraaf via gedeelde paden in het skeletspiermetabolisme, in plaats van een echte geneesmiddel-ziekte farmacologische verbinding. Deze voorspelling wordt beoordeeld als waarschijnlijk computationeel vals-positief zonder huidige klinische translationele basis, en mag niet worden voortgezet zonder preklinisch mechanistisch bewijs.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Sorbitol currently holds no marketing authorisation registered with the **CBG-MEB** (College ter Beoordeling van Geneesmiddelen) in the Netherlands. There are no RVG-numbered products on record. Should future evidence warrant regulatory consideration, a new marketing authorisation application or extension of indication procedure would be required from the outset.
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijzen uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. As no products are currently registered in the Netherlands, the relevant reference documents would be those from comparable jurisdictions (e.g., EMA-authorised products containing Sorbitol as an active substance).
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Sorbitol beschikt momenteel over geen marketingvergunning geregistreerd bij de **CBG-MEB** (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-genummerde producten geregistreerd. Mocht toekomstig bewijs regelgevingsoverweging rechtvaardigen, dan zou een nieuwe vergunningsaanvraag of procedure voor uitbreiding van indicatie van het begin af aan nodig zijn.
+
+---
+
+## Veiligheidsbeschouwingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Aangezien momenteel geen producten in Nederland zijn geregistreerd, zou de relevante referentiedocumentatie afkomstig moeten zijn uit vergelijkbare jurisdicties (bijv. EMA-geautoriseerde producten die Sorbitol als werkzame stof bevatten).
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Afwachting**
 
 **Rationale:**
-This repurposing candidate is classified as **L5** (model prediction only) — there are no registered clinical trials, no published literature, and no established mechanistic link between Sorbitol's osmotic pharmacology and the RYR1-driven calcium dysregulation underlying exercise-induced malignant hyperthermia. The prediction is assessed as a likely knowledge-graph false positive.
+Deze repositioneringskandidat wordt geclassificeerd als **L5** (alleen modelvoorspelling) — er zijn geen geregistreerde klinische onderzoeken, geen gepubliceerde literatuur, en geen vastgesteld mechanistisch verband tussen Sorbitols osmotische farmacologie en de RYR1-gedreven calciumdysregulatie die aan trainingsinduceerde maligne hyperthermie ten grondslag ligt. De voorspelling wordt beoordeeld als waarschijnlijk vals-positief afkomstig uit kennisgraafanalyse.
 
-**To proceed, the following is needed:**
-- Retrieve formal MOA documentation for Sorbitol via DrugBank API to rule out any overlooked secondary pharmacology
-- Establish a plausible mechanistic hypothesis connecting Sorbitol to RYR1-mediated calcium handling (e.g., osmotic effects on intracellular calcium dynamics, or fructose-pathway interactions with muscle energetics)
-- Generate at minimum Level L4 evidence: in vitro or animal model data demonstrating any meaningful effect on malignant hyperthermia pathways
-- If preclinical evidence emerges, initiate CBG-MEB pre-submission consultation — noting that no NL market presence currently exists and a full authorisation pathway would be required
-- Conduct a competitive landscape review against dantrolene and other RYR1-targeted agents to assess clinical differentiation potential
+**Voor voortgang is het volgende nodig:**
+- Formele werkingsmechanisme-documentatie voor Sorbitol ophalen via DrugBank API om eventueel over het hoofd geziene secundaire farmacologie uit te sluiten
+- Een aannemelijke mechanistische hypothese vaststellen die Sorbitol verbindt met RYR1-gemedieerde calciumhantering (bijv. osmotische effecten op intracellulair calciumdynamiek, of fructose-route-interacties met spierenergetiek)
+- Genereer minimaal bewijsniveau L4: in vitro- of diermodelgegevens die enig betekenisvol effect op trainingsinduceerde hyperthermie-paden aantonen
+- Indien preklinisch bewijs naar voren komt, initieer CBG-MEB presubmissieconsultatie — met opmerking dat momenteel geen productpresence op de Nederlandse markt bestaat en volledige vergunningsprocedure zou vereist zijn
+- Voer een concurrentielandschapanalyse uit tegen dantroleen en andere RYR1-doelgerichte middelen om het potentieel voor klinische differentiatie in te schatten
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

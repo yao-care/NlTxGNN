@@ -29,83 +29,80 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide this report generation. Now producing the evaluation report based on the Evidence Pack.
+# Ibuprofen: Van analgeeticum/anti-inflammatoir tot Acromesomale Dysplasie, Hunter-Thompson type
+
+## Samenvatting in één zin
+
+Ibuprofen is een goed ingeburgerd niet-steroïdaal anti-inflammatoir geneesmiddel (NSAID), veel gebruikt voor pijnverlichting, koortsverlaging en ontstekingsaandoeningen zoals artritis. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Acromesomale Dysplasie, Hunter-Thompson type** — een zeldzame autosomaal recessive skeletale dysplasie veroorzaakt door GDF5/CDMP1 verlies-van-functie mutaties — met **0 klinische onderzoeken** en **0 publicaties** die deze richting momenteel ondersteunen. Deze voorspelling steunt geheel op netwerktopologie en wordt vooralsnog niet ondersteund door enig klinisch of preklinisch bewijs.
 
 ---
 
-# Ibuprofen: From Analgesic/Anti-inflammatory to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Snel Overzicht
 
-## One-Sentence Summary
-
-Ibuprofen is a well-established non-steroidal anti-inflammatory drug (NSAID), widely used for pain relief, fever reduction, and inflammatory conditions such as arthritis. The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunter-Thompson Type** — a rare autosomal recessive skeletal dysplasia caused by GDF5/CDMP1 loss-of-function mutations — with **0 clinical trials** and **0 publications** currently supporting this direction. This prediction rests entirely on graph network topology and carries no supporting clinical or preclinical evidence at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available from CBG-MEB registry (no NL authorizations found in dataset) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered (no CBG-MEB RVG authorizations found) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele Indicatie | Niet beschikbaar in het CBG-MEB register (geen NL autorisaties gevonden in dataset) |
+| Voorspelde Nieuwe Indicatie | Acromesomale Dysplasie, Hunter-Thompson type |
+| TxGNN Voorspellingsscore | 99.74% |
+| Bewijsniveau | L5 |
+| Status op Nederlandse Markt | Niet geregistreerd (geen CBG-MEB RVG autorisaties gevonden) |
+| Aantal Autorisaties | 0 |
+| Aanbevolen Besluit | Uitstel |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data was not available in this evidence pack. Based on established pharmacological knowledge, Ibuprofen is a prototypical NSAID that inhibits both COX-1 and COX-2 cyclooxygenase enzymes, thereby suppressing prostaglandin synthesis. This results in analgesic, antipyretic, and anti-inflammatory effects. Its well-known clinical applications include musculoskeletal pain, dysmenorrhoea, fever, and inflammatory arthropathies.
+Gedetailleerde gegevens over het werkingsmechanisme waren niet beschikbaar in dit bewijsmateriaal. Op basis van gevestigde farmacologische kennis is Ibuprofen een typisch NSAID dat beide COX-1 en COX-2 cyclo-oxygenase enzymen remt, waardoor de synthese van prostaglandines wordt onderdrukt. Dit resulteert in analgetische, anti-pyretische en anti-inflammatoire effecten. De bekende klinische toepassingen zijn onder meer musculoskeletale pijn, dysmenorroe, koorts en inflammatoire artropathieën.
 
-Acromesomelic dysplasia, Hunter-Thompson type is an extremely rare congenital skeletal dysplasia caused by loss-of-function mutations in the GDF5 gene (also known as CDMP1). GDF5 is a bone morphogenetic protein (BMP) family member that plays a critical role in chondrocyte differentiation and long bone development. The theoretical mechanistic link is that PGE2 — a downstream COX-2 product — modulates BMP signalling in chondrocytes. In principle, COX-2 inhibition by Ibuprofen could alter PGE2-mediated BMP pathway activity in cartilage.
+Acromesomale dysplasie, Hunter-Thompson type is een uiterst zeldzame aangeboren skeletale dysplasie veroorzaakt door verlies-van-functie mutaties in het GDF5-gen (ook bekend als CDMP1). GDF5 is een lid van de bone morphogenetic protein (BMP) familie die een kritieke rol speelt in chondrocytendifferentiatie en langbeentwikkeling. De theoretische mechanische link is dat PGE2 — een downstream product van COX-2 — BMP-signalering in chondrocyten moduleert. In principe zou COX-2-remming door Ibuprofen PGE2-gemedieerde BMP-padactiviteit in kraakbeen kunnen veranderen.
 
-However, the mechanistic link is assessed as extremely weak and directionally uncertain. Suppressing COX-2/PGE2 could simultaneously reduce local inflammation and interfere with residual GDF5-dependent bone development signalling — opposing effects that make the net clinical outcome unpredictable. This is a congenital structural disorder caused by a genetic defect; it is not an acquired inflammatory condition. The high TxGNN score most likely reflects graph-topological proximity to other musculoskeletal diseases in which Ibuprofen has established activity, rather than a true mechanism-based repurposing opportunity. All 7 TxGNN-predicted indications for Ibuprofen in this dataset share this same pattern: rare skeletal or developmental dysplasias with L5 evidence and Hold recommendations.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Echter, de mechanische link wordt beoordeeld als uiterst zwak en richtingonzeker. Remming van COX-2/PGE2 zou tegelijkertijd lokale ontsteking kunnen verminderen en interfereren met residuele GDF5-afhankelijke beentwikkelingssignalering — tegengestelde effecten die het netto klinische resultaat onvoorspelbaar maken. Dit is een aangeboren structurale aandoening veroorzaakt door een genetische afwijking; het is geen verworven ontstekingsaandoening. De hoge TxGNN-score weerspiegelt waarschijnlijk eerder grafieknetwerktopologische nabijheid tot andere musculoskeletale aandoeningen waarin Ibuprofen een gevestigde werking heeft, in plaats van een echte op mechanisme gebaseerde hergebruikingskans. Alle 7 TxGNN-voorspelde indicaties voor Ibuprofen in deze dataset hebben hetzelfde patroon: zeldzame skeletale of ontwikkelingsdysplasieën met L5-bewijs en aanbevelingen voor uitstel.
 
 ---
 
-## Literature Evidence
+## Bewijs uit Klinische Onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB RVG authorizations were found for Ibuprofen in the current dataset.
-
-> **Important note**: This likely reflects a data collection gap in the regulatory pipeline rather than actual NL market absence. Ibuprofen is a widely authorised OTC and prescription medicine throughout the EU. Please verify current authorization and RVG status directly via the [CBG-MEB public register](https://www.cbg-meb.nl/) or the [EMA product database](https://www.ema.europa.eu/) before drawing any conclusions about NL market availability.
+Op dit moment zijn er geen gerelateerde klinische onderzoeken ingeschreven.
 
 ---
 
-## Safety Considerations
+## Bewijs uit Literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Op dit moment is er geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse Markt
 
-**Decision: Hold**
+Er zijn geen CBG-MEB RVG autorisaties voor Ibuprofen gevonden in de huidige dataset.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.74%), acromesomelic dysplasia, Hunter-Thompson type is a congenital skeletal dysplasia caused by a specific genetic defect in the GDF5/BMP pathway. The mechanistic connection to Ibuprofen's COX-2 inhibition mechanism is speculative, directionally ambiguous, and entirely unsupported by any clinical trial, observational data, or published literature (L5 — model prediction only). Proceeding without foundational evidence would not meet CBG-MEB or EMA repurposing standards.
+> **Belangrijke opmerking**: Dit weerspiegelt waarschijnlijk een lacune in gegevensverzameling in de regelgevingspijplijn in plaats van werkelijke afwezigheid op de NL markt. Ibuprofen is een veel geautoriseerd OTC- en receptgeneesmiddel in de gehele EU. Verifieer alstublieft de huidige autorisatie en RVG-status rechtstreeks via het [CBG-MEB openbare register](https://www.cbg-meb.nl/) of de [EMA productendatabase](https://www.ema.europa.eu/) voordat u conclusies trekt over beschikbaarheid op de NL markt.
 
-**To proceed, the following is needed:**
+---
 
-- **Regulatory data verification**: Retrieve actual CBG-MEB RVG authorization records and SmPC for Ibuprofen to establish the NL regulatory baseline
-- **MOA data from DrugBank**: Query DrugBank API (DB01050) to obtain the full mechanism of action and target interaction profile to formally assess the COX-2 / GDF5-BMP pathway hypothesis
-- **Safety data**: Obtain complete SmPC warnings, contraindications, and drug-drug interaction data before any further evaluation stage
-- **Preclinical evidence**: Commission or identify cell-based or animal studies examining COX-2 inhibition in GDF5-deficient skeletal models; without this, biological plausibility cannot be established
-- **Expert consultation**: Engage skeletal dysplasia specialists and a clinical pharmacologist to assess whether anti-inflammatory intervention could have any disease-modifying role in this congenital condition
-- **Reassessment of all 7 predictions**: All TxGNN-predicted indications for this drug are rare skeletal/developmental dysplasias at L5 with no supporting evidence — a systematic review of the full prediction set is recommended to identify whether any higher-priority repurposing signal exists across Ibuprofen's broader disease network
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en Vervolgstappen
+
+**Besluit: Uitstel**
+
+**Reden:**
+Ondanks een hoge TxGNN-voorspellingsscore (99.74%) is acromesomale dysplasie, Hunter-Thompson type een aangeboren skeletale dysplasie veroorzaakt door een specifieke genetische afwijking in het GDF5/BMP-pad. De mechanische verbinding met Ibuprofens COX-2-remmingsmechanisme is speculatief, richtingonzeker en geheel niet ondersteund door enig klinisch onderzoek, observatiegegevens of gepubliceerde literatuur (L5 — alleen modelvoorspelling). Het voortzetten zonder basiswetenschappelijk bewijs zou niet voldoen aan CBG-MEB- of EMA-normen voor hergebruiking.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Verificatie regelgevingsgegevens**: Verkrijg werkelijke CBG-MEB RVG autorisatierecords en SmPC voor Ibuprofen om de regelgevingsbasis voor NL vast te stellen
+- **MOA gegevens uit DrugBank**: Query DrugBank API (DB01050) om het volledige werkingsmechanisme en doelinteractieprofiel te verkrijgen om de COX-2 / GDF5-BMP-padhypothese formeel te beoordelen
+- **Veiligheidsgegevens**: Verkrijg volledige SmPC waarschuwingen, contra-indicaties en geneesmiddelinteractiegegevens voordat verdere evaluatiestadia worden ondernomen
+- **Preklinisch bewijs**: Identificeer of commissie celgebaseerde of diermodellenstudies die COX-2-remming in GDF5-deficiënte skeletmodellen onderzoeken; zonder dit kan biologische aannemelijkheid niet worden vastgesteld
+- **Deskundige raadpleging**: Betrek specialisten in skeletdysplasieën en een klinisch farmacoloog om te beoordelen of anti-inflammatoire interventie enige ziekteveranderende rol zou kunnen hebben in deze aangeboren aandoening
+- **Herziening van alle 7 voorspellingen**: Alle TxGNN-voorspelde indicaties voor dit geneesmiddel zijn zeldzame skelet-/ontwikkelingsdysplasieën op L5 zonder ondersteunend bewijs — een systematische beoordeling van de volledige voorspellingsverzameling wordt aanbevolen om vast te stellen of er een hoger-prioriteit hergebruikingssignaal bestaat in het bredere ziektennetwerk van Ibuprofen.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

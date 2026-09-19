@@ -29,75 +29,72 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm report generation context. The skill confirms this is the Netherlands (Nl) deployment. Now generating the report per the Drug Repurposing Evaluation Report Prompt v5.
+# Entacapone: van Parkinson-ziekte naar PLA2G6-geassocieerde neurodegeneratie
+
+## Samenvatting in één zin
+
+Entacapone is een catechol-O-methyltransferase (COMT) remmer die wordt gebruikt als aanvullende therapie bij levodopa/carbidopa voor de ziekte van Parkinson.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **PLA2G6-geassocieerde neurodegeneratie (PLAN)**, een zeldzame progressieve neurodegeneratieve aandoening veroorzaakt door mutaties in het *PLA2G6*-gen.
+Momenteel zijn **geen klinische onderzoeken** en **geen ondersteunende publicaties** voor deze specifieke indicatie geïdentificeerd.
 
 ---
 
-# Entacapone: From Parkinson's Disease to PLA2G6-Associated Neurodegeneration
+## Snelle overzicht
 
-## One-Sentence Summary
-
-Entacapone is a catechol-O-methyltransferase (COMT) inhibitor used as an adjunct therapy to levodopa/carbidopa for Parkinson's disease.
-The TxGNN model predicts it may be effective for **PLA2G6-Associated Neurodegeneration (PLAN)**, a rare progressive neurodegenerative disorder caused by *PLA2G6* gene mutations.
-Currently, **no clinical trials** and **no supporting publications** have been identified for this specific indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Item | Inhoud |
 |------|---------|
-| Original Indication | Parkinson's disease (adjunct to levodopa/carbidopa therapy) |
-| Predicted New Indication | PLA2G6-Associated Neurodegeneration |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered in the Netherlands (CBG-MEB) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Oorspronkelijke indicatie | Parkinson-ziekte (aanvullende therapie bij levodopa/carbidopa-therapie) |
+| Voorspelde nieuwe indicatie | PLA2G6-geassocieerde neurodegeneratie |
+| TxGNN-voorspellingsscore | 99.76% |
+| Bewijsniveau | L5 |
+| Marktposities NL | Niet geregistreerd in Nederland (CBG-MEB) |
+| Aantal vergunningen | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, Entacapone is a COMT (catechol-O-methyltransferase) inhibitor — its primary role is to prevent the peripheral breakdown of levodopa, thereby extending levodopa bioavailability and duration of dopaminergic effect in Parkinson's disease patients. Its efficacy as an adjunct in Parkinson's disease has been well established, and mechanistically it may be applicable to conditions with progressive dopaminergic neuronal loss.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Evidence Pack. Op basis van bekende informatie is entacapone een COMT (catechol-O-methyltransferase) remmer — zijn primaire rol is het voorkomen van de perifere afbraak van levodopa, waardoor de biobeschikbaarheid van levodopa en de duur van het dopaminerge effect bij patiënten met de ziekte van Parkinson worden verlengd. De werkzaamheid als aanvullende therapie bij Parkinson is goed vastgesteld, en mechanistisch gezien kan het van toepassing zijn op aandoeningen met progressief dopaminerg neuronaal verlies.
 
-PLA2G6-Associated Neurodegeneration (PLAN) is a spectrum disorder caused by biallelic mutations in the *PLA2G6* gene, which encodes a calcium-independent phospholipase A2 involved in mitochondrial membrane maintenance. PLAN encompasses phenotypes ranging from infantile neuroaxonal dystrophy (INAD) to adult-onset dystonia-parkinsonism. In the adult-onset form, progressive degeneration of dopaminergic neurons in the substantia nigra leads to parkinsonian features, and some patients demonstrate a partial initial response to levodopa therapy.
+PLA2G6-geassocieerde neurodegeneratie (PLAN) is een spectrumstoornis veroorzaakt door biallelige mutaties in het *PLA2G6*-gen, dat codeert voor een calciumonafhankelijke fosfolipase A2 die betrokken is bij het onderhoud van het mitochondriaal membraan. PLAN omvat fenotypes variërend van infantiele neuroaxonale dystrofie (INAD) tot dystonia-parkinsonisme met latere aanvang. Bij de vorm met latere aanvang leidt progressieve degeneratie van dopaminerge neuronen in de substantia nigra tot parkinsonistische kenmerken, en sommige patiënten vertonen een gedeeltelijke initiële respons op levodopa-therapie.
 
-This partial dopaminergic overlap is the most plausible mechanistic bridge: if PLAN patients can derive benefit from levodopa, then COMT inhibition — by prolonging levodopa's therapeutic window — could in principle extend that benefit. However, this reasoning is indirect and speculative at this stage. PLAN's primary pathology is lipid metabolism disruption and mitochondrial membrane instability, not a COMT-mediated process. The high TxGNN score most likely reflects shared network topology between PLAN and other neurodegenerative diseases in the knowledge graph, rather than a direct mechanistic relationship. Preclinical validation is required before this hypothesis can be taken further.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Deze gedeeltelijke dopaminerge overlap is de meest aannemelijke mechanistische brug: als PLAN-patiënten voordeel kunnen hebben van levodopa, dan zou COMT-remming — door het therapeutische venster van levodopa te verlengen — in principe dat voordeel kunnen uitbreiden. Deze redenering is echter indirect en speculatief op dit moment. De primaire pathologie van PLAN is vetmetabolisme-verstoring en mitochondriale membraaninstabiliteit, niet een COMT-gemedieerd proces. De hoge TxGNN-score weerspiegelt waarschijnlijk een gedeelde netwerktopologie tussen PLAN en andere neurodegeneratieve ziekten in de kennisgraaf, in plaats van een direct mechanistisch verband. Preclinische validatie is vereist voordat deze hypothese verder kan worden onderzocht.
 
 ---
 
-## Literature Evidence
+## Klinisch bewijs uit onderzoeken
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for complete safety information. No drug interaction data was identified in the current Evidence Pack query.
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Conclusion and Next Steps
+## Bewijs uit literatuur
 
-**Decision: Hold**
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.76%), the evidence for Entacapone in PLA2G6-Associated Neurodegeneration is at Level L5 — model prediction only, with no clinical trials, no observational data, and no supporting publications identified. The mechanistic link is indirect and speculative, relying on the partial dopaminergic overlap in adult-onset PLAN rather than a direct target relationship. Additionally, Entacapone is not currently found in the CBG-MEB registry for the Netherlands, which further limits near-term clinical applicability.
+---
 
-**To proceed, the following is needed:**
-- Preclinical studies (animal models or patient-derived iPSC models) examining COMT inhibition effects in PLA2G6-deficient contexts
-- Systematic literature review of dopaminergic treatment outcomes in adult-onset PLAN patients to quantify levodopa responsiveness
-- Clarification of CBG-MEB registration status for Entacapone in the Netherlands (Comtan/Stalevo are registered in several EU countries; the zero-license result may reflect a data pipeline gap)
-- Retrieval of full MOA data from DrugBank (DB00494) to enable formal mechanistic link scoring
-- Safety profile review via the current SmPC before any clinical consideration is advanced
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van Productkenmerken) voor volledige veiligheidsinformatie. Er zijn geen gegevens over geneesmiddelinteracties in de huidige Evidence Pack-zoekopdracht geïdentificeerd.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
+
+**Toelichting:**
+Ondanks een hoge TxGNN-voorspellingsscore (99.76%) is het bewijs voor entacapone bij PLA2G6-geassocieerde neurodegeneratie bewijsniveau L5 — alleen modelvoorspelling, zonder klinische onderzoeken, geen observationele gegevens en geen ondersteunende publicaties geïdentificeerd. Het mechanistische verband is indirect en speculatief, steunend op de gedeeltelijke dopaminerge overlap bij dystonia-parkinsonisme met latere aanvang in plaats van een direct doelrelatie. Bovendien is entacapone momenteel niet aangetroffen in het CBG-MEB-register voor Nederland, wat de korte-termijn klinische toepasbaarheid verder beperkt.
+
+**Om verder te gaan is het volgende nodig:**
+- Preclinische studies (diermodellen of uit patiënten afgeleide iPSC-modellen) die de effecten van COMT-remming in PLA2G6-deficiënte contexten onderzoeken
+- Systematische literatuurreview van dopaminerge behandelingsuitslagen bij PLAN-patiënten met latere aanvang om levodopa-responsiviteit te kwantificeren
+- Verduidelijking van de CBG-MEB-registratiestatus voor entacapone in Nederland (Comtan/Stalevo zijn geregistreerd in meerdere EU-landen; het gegeven dat geen vergunningen zijn gevonden, kan wijzen op een lacune in de gegevenspijplijn)
+- Ophaling van volledige MOA-gegevens uit DrugBank (DB00494) om het toekennen van formele mechanistische koppelingen mogelijk te maken
+- Beoordeling van het veiligheidsprofiel via de huidige SmPC voordat enige klinische toepassing in overweging wordt genomen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

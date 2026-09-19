@@ -29,107 +29,108 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Acarbose: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+# Acarbose: Van Type 2 Diabetes Mellitus naar Focaal Stijf Ledematensyndroom
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Acarbose is an α-glucosidase inhibitor widely used for the treatment of Type 2 Diabetes Mellitus by slowing carbohydrate digestion and reducing postprandial blood glucose spikes. The TxGNN model predicts it may be effective for **Focal Stiff Limb Syndrome**, but with **0 clinical trials** and **0 publications** supporting this specific direction, the prediction lacks any corroborating evidence. Among all 9 predicted indications, none had clinical trial support, and only **Pancreatic Agenesis** (rank 9) had marginally related literature (11 publications, mostly about diabetes management in general).
+Acarbose is een α-glucosidase-remmer die veel gebruikt wordt voor de behandeling van Type 2 Diabetes Mellitus door de vertaling van koolhydraten te vertragen en postprandiale bloedglucosepalen te verminderen. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Focaal Stijf Ledematensyndroom**, maar met **0 klinische proeven** en **0 publicaties** die deze specifieke richting ondersteunen, ontbreekt de voorspelling aan enig ondersteunend bewijs. Van alle 9 voorspelde indicaties hadden geen klinische proefondersteuning, en alleen **Pancreaspagnesie** (rang 9) had marginaal gerelateerde literatuur (11 publicaties, vooral over diabetes-management in het algemeen).
 
-## Quick Overview
+## Snel Overzicht
 
-| Item | Content |
-|------|------|
-| Original Indication | Type 2 Diabetes Mellitus (postprandial hyperglycaemia) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| NL Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Item | Inhoud |
+|------|--------|
+| Originele Indicatie | Type 2 Diabetes Mellitus (postprandiale hyperglycemie) |
+| Voorspelde Nieuwe Indicatie | Focaal Stijf Ledematensyndroom |
+| TxGNN Voorspellingsscore | 99.65% |
+| Bewijsniveau | L5 — Alleen modelvoorspelling, geen daadwerkelijke studies |
+| Status op de NL-markt | Niet in de handel (Niet in de handel) |
+| Aantal vergunningen | 0 |
+| Aanbevolen Besluit | **Hold** |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-**Short answer: it is not.** The expert mechanistic assessment concludes there is no reasonable mechanistic link between Acarbose and focal stiff limb syndrome.
+**Kort antwoord: dat is het niet.** De deskundige mechanistisch beoordeling concludeert dat er geen redelijke mechanistische link is tussen Acarbose en focaal stijf ledematensyndroom.
 
-Acarbose is an α-glucosidase inhibitor that acts locally in the small intestine. It competitively and reversibly inhibits pancreatic α-amylase and membrane-bound intestinal α-glucoside hydrolases, delaying the digestion of complex carbohydrates and disaccharides into absorbable monosaccharides. This reduces the rate of glucose absorption and lowers postprandial blood glucose and insulin peaks. Its pharmacological activity is confined to the gastrointestinal tract, with minimal systemic absorption (<2%).
+Acarbose is een α-glucosidase-remmer die lokaal in de dunne darm werkt. Het remt competitief en reversibel de pancreatische α-amylase en membraangebonden intestinale α-glucoside hydrolases, waardoor de vertering van complexe koolhydraten en disachariden in absorbeerbare monosacchariden wordt vertraagd. Dit verlaagt de snelheid van glucoseabsorptie en verlaagt postprandiale bloedglucose- en insulinepalen. De farmacologische activiteit beperkt zich tot het maagdarmkanaal, met minimale systemische absorptie (<2%).
 
-Focal stiff limb syndrome is a variant of Stiff Person Spectrum Disorder (SPSD), an autoimmune neurological condition mediated by anti-GAD65 (glutamic acid decarboxylase) antibodies. The pathophysiology involves disrupted GABAergic neurotransmission in the central nervous system, leading to continuous motor unit activity, rigidity, and painful spasms — typically confined to one limb. Standard treatment involves GABAergic agents (diazepam, baclofen) or immunomodulatory therapy (IVIg, rituximab, plasmapheresis).
+Focaal stijf ledematensyndroom is een variant van Stijf Persoon Spectrum Stoornis (SPSS), een auto-immuun neurologische aandoening gemedieerd door anti-GAD65 (glutaminezuurdecarboxylase) antistoffen. De pathofysiologie omvat verstoorde GABAerge neurotransmissie in het centraal zenuwstelsel, wat leidt tot voortdurende motorische eenheidsactiviteit, rigiditeit en pijnlijke spasmes — meestal beperkt tot één ledemaat. Standaardbehandeling omvat GABAerge middelen (diazepam, baclofeen) of immunomodulatoire therapie (IVIg, rituximab, plasmaferese).
 
-The only theoretical link is that GAD (glutamic acid decarboxylase) is expressed in both pancreatic β-cells and the central nervous system. However, inhibiting intestinal α-glucosidase does not affect GAD function, GABA synthesis, or autoimmune pathways. The TxGNN model likely assigned a high score based on structural proximity within the knowledge graph rather than genuine pharmacological reasoning. This interpretation is further supported by the observation that ranks 1 and 2 (focal stiff limb syndrome and classic stiff person syndrome) received identical scores (0.9965), suggesting ontological adjacency rather than independent pharmacological evaluation.
+De enige theoretische link is dat GAD (glutaminezuurdecarboxylase) tot uitdrukking komt in zowel pancratische β-cellen als het centraal zenuwstelsel. Echter, het remmen van intestinale α-glucosidase beïnvloedt niet de GAD-functie, GABA-synthese of auto-immuunpaden. Het TxGNN-model wijst waarschijnlijk een hoge score toe op basis van structurele nabijheid in de kennisgraaf in plaats van echte farmacologische redenering. Deze interpretatie wordt verder ondersteund door de waarneming dat rangs 1 en 2 (focaal stijf ledematensyndroom en klassiek stijf persoon syndroom) identieke scores kregen (0.9965), wat ontologische nabijheid in plaats van onafhankelijke farmacologische evaluatie suggereert.
 
-## Clinical Trial Evidence
+## Bewijs uit klinische proeven
 
-Currently no related clinical trials registered for Acarbose in focal stiff limb syndrome.
+Momenteel zijn er geen gerelateerde klinische proeven geregistreerd voor Acarbose bij focaal stijf ledematensyndroom.
 
-*Searches were conducted on ClinicalTrials.gov and the WHO ICTRP on 2026-03-10, yielding 0 results.*
+*Zoekopdrachten werden uitgevoerd op ClinicalTrials.gov en de WHO ICTRP op 2026-03-10, wat nul resultaten opleverde.*
 
-## Literature Evidence
+## Literatuurbewijs
 
-Currently no related literature available for Acarbose in focal stiff limb syndrome.
+Momenteel is er geen gerelateerde literatuur beschikbaar voor Acarbose bij focaal stijf ledematensyndroom.
 
-*A PubMed search was conducted on 2026-03-10, yielding 0 results.*
+*Een PubMed-zoekopdracht werd uitgevoerd op 2026-03-10, wat nul resultaten opleverde.*
 
-## Netherlands Market Information
+## Informatie over de Nederlandse markt
 
-Acarbose currently holds **no marketing authorizations** in this jurisdiction. Market status is recorded as "Not marketed."
+Acarbose heeft momenteel **geen handelsvergunningen** in deze rechtsgebied. De marktpositie is opgenomen als "Niet in de handel."
 
-*Note: Acarbose is marketed in many other countries (e.g., Glucobay/Precose by Bayer) for Type 2 Diabetes Mellitus. The absence of a local authorization represents a significant barrier to any repurposing effort in this market.*
+*Opmerking: Acarbose wordt in veel andere landen (bijv. Glucobay/Precose van Bayer) verhandeld voor Type 2 Diabetes Mellitus. De afwezigheid van een lokale vergunning vormt een significant obstakel voor elke herutilisatieinspanning in deze markt.*
 
-## Safety Considerations
+## Veiligheidsoverwegingen
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
 
-*Note: Safety data (key warnings, contraindications, and drug-drug interactions) could not be retrieved for this evaluation. The data gaps are classified as "Blocking" severity — safety assessment cannot proceed without SmPC/label warnings. As a well-established global medicine, Acarbose's known class effects include flatulence, diarrhoea, abdominal pain, and rare hepatotoxicity. It is contraindicated in inflammatory bowel disease, intestinal obstruction, and severe renal impairment (known from international labels).*
+*Opmerking: Veiligheidsinformatie (belangrijke waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddel interacties) kon niet worden opgehaald voor deze evaluatie. De gegevensleemten zijn geclassificeerd als "Blokkeren" ernst — veiligheidsbeoordeling kan niet worden uitgevoerd zonder SmPC/etiketinformatie. Als een gevestigde wereldwijde geneesmiddel zijn de bekende klasseeffecten van Acarbose flatulentie, diarree, buikpijn en zeldzame hepatotoxiciteit. Het is gecontra-indiceerd bij inflammatoire darmziekte, darmobstructie en ernstige nierfunctiestoornissen (bekend uit internationale etiketten).*
 
-## Additional Predicted Indications Overview
+## Overzicht van aanvullende voorspelde indicaties
 
-Since the primary prediction lacks all supporting evidence, the full set of 9 predicted indications is summarized below for completeness:
+Omdat de primaire voorspelling van alle ondersteunende bewijzen ontbreekt, wordt de volledige reeks van 9 voorspelde indicaties hieronder samengevat ter volledigheid:
 
-| Rank | Predicted Disease | TxGNN Score | Evidence Level | Mechanistic Link | Recommendation |
-|------|------------------|-------------|----------------|-----------------|----------------|
-| 1 | Focal stiff limb syndrome | 99.65% | L5 | None | Hold |
-| 2 | Classic stiff person syndrome | 99.65% | L5 | None | Hold |
-| 3 | Thiamine-responsive dysfunction syndrome | 99.62% | L5 | None | Hold |
-| 4 | Opsismodysplasia | 99.62% | L5 | None | Hold |
-| 5 | Drug-induced localized lipodystrophy | 99.24% | L5 | Very weak indirect | Hold |
-| 6 | Centrifugal lipodystrophy | 99.22% | L5 | None | Hold |
-| 7 | Pressure-induced localized lipoatrophy | 99.20% | L5 | None | Hold |
-| 8 | Idiopathic localized lipodystrophy | 99.17% | L5 | None | Hold |
-| 9 | Pancreatic agenesis | 99.16% | L4 | Weak indirect | Research Question |
+| Rang | Voorspelde Aandoening | TxGNN Score | Bewijsniveau | Mechanistische Link | Aanbeveling |
+|------|----------------------|-------------|-------------|-------------------|------------|
+| 1 | Focaal stijf ledematensyndroom | 99.65% | L5 | Geen | Hold |
+| 2 | Klassiek stijf persoon syndroom | 99.65% | L5 | Geen | Hold |
+| 3 | Thiamineresponsief dysfunctiesyndroom | 99.62% | L5 | Geen | Hold |
+| 4 | Opsismodysplasia | 99.62% | L5 | Geen | Hold |
+| 5 | Geneesmiddel-geïnduceerde gelokaliseerde lipodystrofie | 99.24% | L5 | Zeer zwak indirect | Hold |
+| 6 | Centrifugale lipodystrofie | 99.22% | L5 | Geen | Hold |
+| 7 | Door druk geïnduceerde gelokaliseerde lipoatrofie | 99.20% | L5 | Geen | Hold |
+| 8 | Idiopatische gelokaliseerde lipodystrofie | 99.17% | L5 | Geen | Hold |
+| 9 | Pancreaspagnesie | 99.16% | L4 | Zwak indirect | Onderzoeksvraag |
 
-**Pattern analysis:** The four lipodystrophy-related predictions (ranks 5–8) have highly similar scores (0.9917–0.9924), and the two stiff person spectrum disorders (ranks 1–2) share identical scores. This strongly suggests the TxGNN model is propagating predictions based on disease ontology clustering rather than independent pharmacological reasoning — a known bias pattern in knowledge-graph-based predictions.
+**Patroonanalyse:** De vier lipodystrofie-gerelateerde voorspellingen (rangs 5–8) hebben zeer vergelijkbare scores (0.9917–0.9924), en de twee stijf persoon spectrum stoornissen (rangs 1–2) delen identieke scores. Dit suggereert sterk dat het TxGNN-model voorspellingen verspreidt op basis van ontologische clustering van ziekten in plaats van onafhankelijke farmacologische redenering — een bekend biaspatroon in op kennisgraaf gebaseerde voorspellingen.
 
-### Pancreatic Agenesis — The Only Indication with Literature
+### Pancreaspagnesie — De Enige Indicatie met Literatuur
 
-Pancreatic agenesis (rank 9) is the only predicted indication with any literature. However, the 11 retrieved publications are largely about general diabetes management and do not specifically study Acarbose for pancreatic agenesis. Key publications:
+Pancreaspagnesie (rang 9) is de enige voorspelde indicatie met enige literatuur. De 11 opgehaalde publicaties gaan echter grotendeels over diabetes-management in het algemeen en bestuderen niet specifiek Acarbose voor pancreaspagnesie. Belangrijke publicaties:
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10094112](https://pubmed.ncbi.nlm.nih.gov/10094112/) | 1999 | Preclinical | Metabolism | Acarbose prevented/reversed metabolic abnormalities in OLETF diabetic rats, preserving β-cell function |
-| [21697254](https://pubmed.ncbi.nlm.nih.gov/21697254/) | 2011 | Review | J Clin Endocrinol Metab | Acarbose discussed as one of several agents for β-cell preservation in prediabetes |
-| [9506190](https://pubmed.ncbi.nlm.nih.gov/9506190/) | 1998 | Review | Adv Intern Med | General overview of Type 2 DM pathophysiology and treatment including α-glucosidase inhibitors |
-| [12877088](https://pubmed.ncbi.nlm.nih.gov/12877088/) | 2003 | Review | Nihon Rinsho | α-glucosidase inhibitors benefit postprandial hyperglycaemia in metabolic syndrome |
-| [30572448](https://pubmed.ncbi.nlm.nih.gov/30572448/) | 2018 | Case Report | Medicine | Insulin autoimmune syndrome cases — acarbose mentioned as potential trigger |
+| PMID | Jaar | Type | Tijdschrift | Kernbevindingen |
+|------|------|------|---------|-----------------|
+| [10094112](https://pubmed.ncbi.nlm.nih.gov/10094112/) | 1999 | Preklinisch | Metabolism | Acarbose voorkwam/keerde metabolische abnormaliteiten om in OLETF diabetische ratten, waardoor β-celfunctie werd behouden |
+| [21697254](https://pubmed.ncbi.nlm.nih.gov/21697254/) | 2011 | Review | J Clin Endocrinol Metab | Acarbose besproken als een van meerdere middelen voor β-celbehoud in prediabetes |
+| [9506190](https://pubmed.ncbi.nlm.nih.gov/9506190/) | 1998 | Review | Adv Intern Med | Algemeen overzicht van Type 2 DM pathofysiologie en behandeling inclusief α-glucosidase-remmers |
+| [12877088](https://pubmed.ncbi.nlm.nih.gov/12877088/) | 2003 | Review | Nihon Rinsho | α-glucosidase-remmers profiteren postprandiale hyperglycemie in metabolisch syndroom |
+| [30572448](https://pubmed.ncbi.nlm.nih.gov/30572448/) | 2018 | Casuïstiek | Medicine | Insuline auto-immuun syndroom gevallen — acarbose genoemd als mogelijke trigger |
 
-*The mechanistic link is weak and indirect: Acarbose could theoretically assist with blood glucose management in pancreatic agenesis patients, but it cannot treat the underlying congenital defect, and these patients require exogenous insulin as primary therapy.*
+*De mechanistische link is zwak en indirect: Acarbose zou theoretisch kunnen helpen bij bloedglucosebeheer in patiënten met pancreaspagnesie, maar het kan het onderliggende aangeboren defect niet behandelen, en deze patiënten vereisen exogeen insuline als primaire therapie.*
 
-## Conclusion and Next Steps
+## Conclusie en Vervolgstappen
 
-**Decision: Hold**
+**Besluit: Hold**
 
-**Rationale:**
-All 9 predicted indications for Acarbose lack clinical trial evidence. The top prediction (focal stiff limb syndrome) has no mechanistic plausibility — an intestinal α-glucosidase inhibitor has no known pathway to affect autoimmune GABAergic neurological disorders. The prediction pattern (identical scores for ontologically related diseases, clustering of lipodystrophy subtypes) indicates knowledge-graph structural bias rather than genuine pharmacological signal. Furthermore, Acarbose holds no marketing authorization in this jurisdiction, adding a regulatory barrier.
+**Motivering:**
+Alle 9 voorspelde indicaties voor Acarbose ontbreekt bewijs uit klinische proeven. De topvoorspelling (focaal stijf ledematensyndroom) heeft geen mechanistische plausibiliteit — een intestinale α-glucosidase-remmer heeft geen bekend pad om auto-immuun GABAerge neurologische stoornissen te beïnvloeden. Het voorspellingspatroon (identieke scores voor ontologisch gerelateerde ziekten, clustering van lipodystrofie subtypes) geeft aan structurele bias van kennisgraaf in plaats van echte farmacologische signaal. Bovendien heeft Acarbose geen handelsvergunning in deze rechtsgebied, wat een regelgeving obstakel toevoegt.
 
-**To proceed, the following would be needed:**
-- Identification of a biologically plausible mechanism linking α-glucosidase inhibition to any of the predicted conditions
-- At minimum one preclinical study or case report demonstrating a therapeutic effect
-- Retrieval of complete SmPC safety data (currently classified as a Blocking data gap)
-- Marketing authorization or access pathway in this jurisdiction
-- For pancreatic agenesis (the only indication with any literature): a clinical case series or pilot study specifically evaluating Acarbose as adjunctive therapy in congenital pancreatic insufficiency
+**Voor verdergaan zou het volgende nodig zijn:**
+- Identificatie van een biologisch aannemelijk mechanisme dat α-glucosidase-remming verbindt aan een van de voorspelde aandoeningen
+- Minstens één preklinische studie of casuïstiek die een therapeutisch effect aantoont
+- Ophaul van volledige veiligheidsinformatie van SmPC (momenteel geclassificeerd als Blokkerende gegevensleemte)
+- Handelsvergunning of toegangspad in deze rechtsgebied
+- Voor pancreaspagnesie (de enige indicatie met enige literatuur): een casuïstiekenserie of pilotstudie die speciaal Acarbose als aanvullende therapie in aangeboren pancreaspancreastekortkoming evalueert
 
 ---
 
-*This report was generated on 2026-04-03 based on evidence collected up to 2026-04-03. Results are for research purposes only and do not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+*Dit rapport is gegenereerd op 2026-04-03 op basis van bewijzen verzameld tot 2026-04-03. Resultaten zijn alleen voor onderzoeksdoeleinden en vormen geen medisch advies. Alle herutilisatiekandidaten vereisen klinische validatie voordat toepassing.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

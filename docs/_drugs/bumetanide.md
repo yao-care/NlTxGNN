@@ -29,95 +29,96 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Bumetanide: From Oedema to Acute Pulmonary Heart Disease
+# Bumetanide: van oedeem naar acuut longhart
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Bumetanide is a potent loop diuretic classically used for the treatment of oedema associated with congestive heart failure, hepatic disease, and renal insufficiency.
-The TxGNN model predicts it may be effective for **Acute Pulmonary Heart Disease (Acute Cor Pulmonale)**, with **3 registered clinical trials** and **5 publications** currently identified in support of this direction.
-However, the drug currently holds **no marketing authorisation** with CBG-MEB in the Netherlands, and formal safety data specific to this indication remains to be confirmed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Oedema associated with congestive heart failure, hepatic and renal disease (derived from pharmacological profile; no NL authorisation records available) |
-| Predicted New Indication | Acute Pulmonary Heart Disease (Acute Cor Pulmonale) |
-| TxGNN Prediction Score | 99.58% |
-| Evidence Level | L3 — Observational studies and pharmacological reviews |
-| NL Market Status | Not Registered (CBG-MEB: 0 authorisations) |
-| Number of Authorisations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Bumetanide is een potent lusdiureticum dat classiek wordt gebruikt voor de behandeling van oedeem geassocieerd met congestieve hartfalen, leverziekte en nierinsufficiëntie.
+Het TxGNN-model voorspelt dat het effectief kan zijn bij **Acuut Longhart (Acuut Cor Pulmonale)**, met **3 geregistreerde klinische onderzoeken** en **5 publicaties** die momenteel ter ondersteuning van deze richting zijn geïdentificeerd.
+Het geneesmiddel heeft echter momenteel **geen handelsvergunning** bij CBG-MEB in Nederland en formele veiligheidsgegevens specifiek voor deze indicatie moeten nog worden bevestigd.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snelle Overzicht
 
-Bumetanide is a high-ceiling loop diuretic that acts by inhibiting the **Na⁺-K⁺-2Cl⁻ cotransporter (NKCC2)** in the thick ascending limb of the loop of Henle. This rapidly reduces tubular reabsorption of sodium and chloride, producing a brisk, dose-dependent diuresis within 30–60 minutes of administration. The consequent reduction in circulating blood volume directly lowers cardiac preload and pulmonary capillary wedge pressure — the central pathophysiological drivers of acute pulmonary congestion.
-
-In acute pulmonary heart disease (acute cor pulmonale), elevated pulmonary vascular resistance causes acute right ventricular pressure overload, which can lead to pulmonary oedema and impaired gas exchange. Loop diuretics such as bumetanide are mechanistically well positioned to decompress the pulmonary circulation, reduce right heart filling pressures, and improve respiratory function in this context. This aligns with current acute heart failure management guidelines, which recommend loop diuretics as first-line decongestive therapy.
-
-A 1987 prospective haemodynamic study (PMID 3304383) directly demonstrated that intravenous bumetanide reduces pulmonary artery occluded pressure (PAOP) and systemic vascular resistance in patients with acute and chronic heart failure, providing early human evidence directly relevant to this predicted indication. While detailed MOA documentation was not available in the Evidence Pack, the mechanistic rationale for this repurposing prediction is well established in the broader pharmacological literature.
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Oedeem geassocieerd met congestief hartfalen, lever- en nierziekte (afgeleid van farmacologisch profiel; geen NL-autorisatiegegevens beschikbaar) |
+| Voorspelde nieuwe indicatie | Acuut Longhart (Acuut Cor Pulmonale) |
+| TxGNN Predictie Score | 99.58% |
+| Bewijsniveau | L3 — Observationele studies en farmacologische reviews |
+| NL Marktstatus | Niet Geregistreerd (CBG-MEB: 0 autorisaties) |
+| Aantal Autorisaties | 0 |
+| Aanbevolen Beslissing | Doorgaan met Waarborgen |
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Bumetanide is een high-ceiling lusdiureticum dat werkt door inhibitie van de **Na⁺-K⁺-2Cl⁻ cotransporter (NKCC2)** in het dikke opstijgende deel van de Henle-lis. Dit vermindert snel de tubulaire reabsorptie van natrium en chloride, wat resulteert in een snelle, dosisafhankelijke diurese binnen 30–60 minuten na toediening. De daaruit voortvloeiende verlaging van circulerend bloedvolume verlaagt direct de cardiële voorbelas en de pulmonale capillaire wigdruk — de centrale pathofysiologische drijfveren van acute longcongestie.
+
+Bij acuut longhart (acuut cor pulmonale) veroorzaakt verhoogde pulmonale vaatmotorstand acute rechterkameroverbelas, wat kan leiden tot longoedem en verslechterde gasuitwisseling. Lusdiuretica zoals bumetanide zijn mechanistisch goed gepositioneerd om de longcirculatie te decomprimeren, de vullingdrukken van het rechterharte te verlagen en de ademhalingsfunctie in deze context te verbeteren. Dit sluit aan bij huidige richtlijnen voor acuut hartfalen, die lusdiuretica als eerstelijnsvochtvrijmakingstherapie aanbevelen.
+
+Een prospectieve hemodynamische studie uit 1987 (PMID 3304383) toonde rechtstreeks aan dat intraveneus bumetanide pulmonale arterie occlusiedruk (PAOP) en systemische vaatmotorstand verlaagt bij patiënten met acuut en chronisch hartfalen, met vroeg humaan bewijs dat rechtstreeks relevant is voor deze voorspelde indicatie. Hoewel gedetailleerde MOA-documentatie niet beschikbaar was in het Evidence Pack, is de mechanistische rationale voor deze repurposing-voorspelling goed vastgesteld in de bredere farmacologische literatuur.
+
+---
+
+## Klinisch Onderzoeksbewijs
+
+| Onderzoeknummer | Fase | Status | Inschrijving | Belangrijkste Bevindingen |
 |---------|------|------|------|---------|
-| [NCT07375212](https://clinicaltrials.gov/study/NCT07375212) | Phase 4 | **Withdrawn** | 0 | Investigated whether a single 4 mg intranasal dose of bumetanide acutely reduces pulmonary artery pressure and blood volume in outpatient heart failure patients with implanted remote monitoring devices (CardioMEMS™ / Cordella™). Trial was withdrawn before enrolment; no efficacy data generated, but the hypothesis was endorsed by investigators. |
-| [NCT05580510](https://clinicaltrials.gov/study/NCT05580510) | Phase 2/3 | Unknown | 160 | Evaluates empagliflozin and sacubitril/valsartan in adults with congenital heart disease and heart failure with reduced ejection fraction. Bumetanide is not the study drug; provides disease-context background only. |
-| [NCT06885164](https://clinicaltrials.gov/study/NCT06885164) | N/A | Recruiting | 200 | Observational study of seismocardiographic remote monitoring in heart failure patients (2025–2027). Device evaluation; does not involve bumetanide. |
+| [NCT07375212](https://clinicaltrials.gov/study/NCT07375212) | Fase 4 | **Ingetrokken** | 0 | Onderzocht of een enkele 4 mg intranasale dosis bumetanide de pulmonale arteriële druk en bloedvolume acuut vermindert bij poliklinische patiënten met hartfalen en geïmplanteerde afstandsbewakingsapparaten (CardioMEMS™ / Cordella™). Het onderzoek werd ingetrokken vóór inschrijving; geen efficiëntiegegevens gegenereerd, maar de hypothese werd door onderzoekers ondersteund. |
+| [NCT05580510](https://clinicaltrials.gov/study/NCT05580510) | Fase 2/3 | Onbekend | 160 | Evalueert empagliflozine en sacubitril/valsartan bij volwassenen met aangeboren hartziekte en hartfalen met gereduceerde ejectiefractie. Bumetanide is niet het onderzoeksmiddel; verstrekt alleen achtergrond over ziektecontext. |
+| [NCT06885164](https://clinicaltrials.gov/study/NCT06885164) | N/A | Patiënten zoeken | 200 | Observationele studie van seismocardiografische afstandsbewaking bij hartfalenpatiënten (2025–2027). Apparatuurevaluatie; betreft geen bumetanide. |
 
-> **Note:** No clinical trial provides direct interventional efficacy data for bumetanide in acute pulmonary heart disease. NCT07375212 demonstrates investigator interest in this direction but was withdrawn before recruiting any participants.
+> **Opmerking:** Geen klinisch onderzoek verstrekt rechtstreekse interventionele efficiëntiegegevens voor bumetanide bij acuut longhart. NCT07375212 toont de belangstelling van onderzoekers in deze richting, maar werd ingetrokken vóór het werven van deelnemers.
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste Bevindingen |
 |------|------|------|---------|---------|
-| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Comprehensive Pharmacological Review | *Drugs* | Landmark review establishing bumetanide's role as a potent loop diuretic for oedema in congestive heart failure, hepatic and renal disease, and **acute pulmonary congestion**. Describes onset within 30 minutes, action persisting 3–6 hours, and supports oral, IV, and IM routes. |
-| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Prospective Haemodynamic Study | *British Journal of Clinical Pharmacology* | IV bumetanide (25 µg/kg) prospectively studied in 24 patients with coronary artery disease and acute or chronic heart failure. Demonstrated reductions in pulmonary artery occluded pressure (PAOP) and cardiac index changes consistent with preload reduction — directly relevant to acute cor pulmonale physiology. |
-| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Narrative Review | *American Journal of Therapeutics* | Reviews therapeutic options for acute decompensated heart failure, noting that loop diuretics remain the cornerstone of acute management. Contextualises bumetanide within the broader decongestive strategy for 1 million annual US hospitalisations. |
-| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Comparative Review | *Annals of Pharmacotherapy* | Systematic comparison of loop diuretics (bumetanide, furosemide, torsemide) on pharmacokinetics, safety, efficacy, and cost. Supports bumetanide's comparable or superior bioavailability profile versus furosemide in congested states. |
-| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Epidemiological Cohort | *American Journal of Emergency Medicine* | Large-scale US epidemiological analysis of heart failure presentations to emergency departments (2016–2023), providing contemporary burden-of-disease data and treatment patterns. Confirms continued relevance of diuretic-centred management in acute settings. |
+| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Uitgebreide Farmacologische Review | *Drugs* | Baanbrekende review die bumetanides rol als potent lusdiureticum voor oedeem bij congestief hartfalen, lever- en nierziekte vaststelt, en **acute longcongestie**. Beschrijft aanvang binnen 30 minuten, werking tot 3–6 uur, en ondersteunt orale, IV en IM toediening. |
+| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Prospectieve Hemodynamische Studie | *British Journal of Clinical Pharmacology* | IV bumetanide (25 µg/kg) prospectief onderzocht bij 24 patiënten met coronarialijden en acuut of chronisch hartfalen. Toonde verlaging van pulmonale arterie occlusiedruk (PAOP) en hartminutenveranderingen aan, consistent met voorlasreductie — rechtstreeks relevant voor acuut cor pulmonale fysiologie. |
+| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Narratieve Review | *American Journal of Therapeutics* | Evalueert therapeutische opties voor acuut gedecompenseerd hartfalen, stellende dat lusdiuretica de hoeksteen van acute behandeling blijven. Plaatst bumetanide in perspectief binnen de bredere vochtvrijmakingsstrategie voor 1 miljoen jaarlijkse Amerikaanse ziekenhuisopnamen. |
+| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Vergelijkende Review | *Annals of Pharmacotherapy* | Systematische vergelijking van lusdiuretica (bumetanide, furosemide, torsemide) op farmacokinetische gegevens, veiligheid, efficiëntie en kosten. Ondersteunt bumetanides vergelijkbare of superieure biobeschikbaarheid ten opzichte van furosemide in congestieve toestanden. |
+| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Epidemiologische Cohortstudie | *American Journal of Emergency Medicine* | Grootschalige Amerikaanse epidemiologische analyse van hartfalenpresentaties op eerste hulpafdelingen (2016–2023), met hedendaagse ziektelastgegevens en behandelingspatronen. Bevestigt voortdurend belang van diureticum-gecentreerde behandeling in acute instellingen. |
 
 ---
 
-## Netherlands Market Information
+## Informatie over de Nederlandse Markt
 
-Bumetanide currently holds **no marketing authorisation** registered with the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in this dataset. No RVG numbers, product names, dosage forms, or approved indications are on record.
+Bumetanide heeft momenteel **geen handelsvergunning** geregistreerd bij CBG-MEB (College ter Beoordeling van Geneesmiddelen) in deze dataset. Geen RVG-nummers, productnamen, doseringsvorm of goedgekeurde indicaties staan geregistreerd.
 
-> Clinicians and researchers seeking to use bumetanide in the Netherlands should consult the CBG-MEB register directly and assess whether an import authorisation or hospital exemption pathway is applicable. Reference SmPC documentation from authorised markets (e.g., UK, US) for product characteristics.
-
----
-
-## Safety Considerations
-
-No safety-specific data (key warnings, contraindications, or drug–drug interactions) was available in the Evidence Pack for this candidate.
-
-> Please refer to the **SmPC (Samenvatting van de Productkenmerken)** from an authorised market for comprehensive safety information, including electrolyte disturbances (hypokalaemia, hyponatraemia), ototoxicity risk (particularly at high doses or in combination with aminoglycosides), renal function monitoring requirements, and contraindications in anuria or hepatic coma.
+> Clinici en onderzoekers die bumetanide in Nederland willen gebruiken, moeten rechtstreeks het CBG-MEB-register raadplegen en beoordelen of een importvergunning of ziekenhuisuitzondering van toepassing is. Raadpleeg SmPC-documentatie van geautoriseerde markten (bijv. VK, VS) voor productkenmerken.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Geen veiligheidsspecifieke gegevens (belangrijke waarschuwingen, contraïndicaties of geneesmiddel-geneesmiddel interacties) waren beschikbaar in het Evidence Pack voor deze kandidaat.
+
+> Raadpleeg alstublieft de **SmPC (Samenvatting van de Productkenmerken)** van een geautoriseerde markt voor uitgebreide veiligheidsinformatie, inclusief elektrolytstoornissen (hypokaliëmie, hyponatriëmie), ototoxiciteitsrisico (met name bij hoge doses of in combinatie met aminoglycosiden), controleverplichtingen voor nierfunctie en contraïndicaties bij anurie of hepatische coma.
+
+---
+
+## Conclusie en Volgende Stappen
+
+**Beslissing: Doorgaan met Waarborgen**
 
 **Rationale:**
-The mechanistic basis for bumetanide in acute pulmonary heart disease is well-grounded and consistent with established loop diuretic pharmacology; Level 3 evidence (observational studies, pharmacological reviews, and a prospective haemodynamic study) supports biological plausibility. However, no completed interventional trial specifically in acute cor pulmonale exists, no NL marketing authorisation is in place, and formal safety documentation for this indication has not been reviewed.
+De mechanistische basis voor bumetanide bij acuut longhart is goed onderbouwd en consistent met vastgestelde lusdiureticum-farmacologie; Level 3-bewijs (observationele studies, farmacologische reviews en een prospectieve hemodynamische studie) ondersteunt biologische plausibiliteit. Er bestaan echter geen afgeronde interventionele proeven specifiek in acuut cor pulmonale, geen NL-handelsvergunning is van kracht, en formele veiligheidsdocumentatie voor deze indicatie is niet beoordeeld.
 
-**To proceed, the following is needed:**
+**Om door te gaan, is het volgende nodig:**
 
-- **Regulatory pathway clarification**: Confirm whether bumetanide can be obtained via CBG-MEB import authorisation, hospital pharmacy preparation, or an EMA centralised procedure before clinical use in the Netherlands.
-- **SmPC safety review**: Retrieve and analyse the full Summary of Product Characteristics from an authorised market (e.g., UK MHRA or US FDA label) to complete the safety assessment — particularly electrolyte monitoring protocols, contraindications, and drug interaction profile.
-- **MOA documentation**: Formally document bumetanide's mechanism of action from DrugBank (DB00887) to strengthen the mechanistic link analysis and support any regulatory submission.
-- **Comparative effectiveness data**: Identify head-to-head comparison data between bumetanide and furosemide in acute pulmonary decompensation, as furosemide is the standard-of-care loop diuretic in most NL clinical settings.
-- **Prospective pilot study**: Given that NCT07375212 was withdrawn before enrolment, a new prospective pilot study in acute cor pulmonale — potentially leveraging the intranasal route — should be considered to generate first-in-indication efficacy data.
-- **YMYL disclaimer**: Any clinical communication or web publication based on this report must include the standard disclaimer: *"For research reference only. Drug repurposing candidates require clinical validation before application. This does not constitute medical advice."*
+- **Regelgeving-pad verduidelijking**: Bevestig of bumetanide kan worden verkregen via CBG-MEB-importvergunning, ziekenhuisapotheekbereiding of een EMA centrale procedure voordat het in Nederland klinisch wordt gebruikt.
+- **SmPC veiligheidsreview**: Haal het volledige SAMENVATTING VAN PRODUCTKENMERKEN op van een geautoriseerde markt (bijv. UK MHRA of US FDA-label) en analyseer het om de veiligheidsevaluatie te voltooien — met name elektrolyten-controlleprotocollen, contraïndicaties en geneesmiddel-interactieprofiel.
+- **MOA-documentatie**: Documenteer formeel bumetanides werkingsmechanisme vanuit DrugBank (DB00887) om de mechanistische linkanalyse te versterken en eventuele regelgevingsindiening te ondersteunen.
+- **Vergelijkende effectiviteitsgegevens**: Identificeer head-to-head vergelijkingsgegevens tussen bumetanide en furosemide in acute longdecompensatie, aangezien furosemide het standaard-zorgmiddel is in de meeste Nederlandse klinische instellingen.
+- **Prospectieve pilotstudie**: Gezien NCT07375212 vóór inschrijving werd ingetrokken, moet een nieuwe prospectieve pilotstudie in acuut cor pulmonale — mogelijk gebruikmakend van de intranasale route — worden overwogen om eerste-in-indicatie efficiëntiegegevens op te wekken.
+- **YMYL disclaimer**: Elke klinische communicatie of webpublicatie gebaseerd op dit rapport moet de standaardverklaring bevatten: *"Alleen voor onderzoeksreferentie. Medicijnhervaardiging kandidaten vereisen klinische validatie vóór toepassing. Dit is geen medisch advies."*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

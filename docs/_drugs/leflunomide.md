@@ -29,84 +29,85 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Leflunomide: From Rheumatoid Arthritis to Brachydactyly-Syndactyly Syndrome
+# Leflunomide: Van Reumatoïde Artritis naar Brachydactylie-Syndactylie Syndroom
 
 ---
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Leflunomide is a disease-modifying antirheumatic drug (DMARD) established internationally for the treatment of rheumatoid arthritis and psoriatic arthritis.
-The TxGNN model predicts it may be effective for **Brachydactyly-Syndactyly Syndrome**, an ultra-rare congenital limb malformation disorder.
-However, **no clinical trials or published literature** support this direction, and the mechanistic rationale identified by the knowledge graph contains a critical directional flaw that renders this a likely false positive.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Rheumatoid arthritis / psoriatic arthritis (established internationally; no NL authorization recorded in this dataset) |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Leflunomide is een internationaal gevestigd ziekteveranderend antirevmatisch middel (DMARD) voor de behandeling van reumatoïde artritis en psoriasis arthritis.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Brachydactylie-Syndactylie Syndroom**, een ultrazeldzame aangeboren ledematen-malformatie.
+Echter, **geen klinische trials of gepubliceerde literatuur** ondersteunen deze richting, en de mechanistische rationale geïdentificeerd door de kennisgraaf bevat een kritieke richtingsomkeringsfout die dit waarschijnlijk tot een vals positief maakt.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Leflunomide is an inhibitor of **dihydroorotate dehydrogenase (DHODH)**, the rate-limiting enzyme in de novo pyrimidine biosynthesis. By depleting intracellular pyrimidine pools, it suppresses proliferation of activated T and B lymphocytes, producing its anti-inflammatory effect in rheumatoid arthritis.
-
-The knowledge graph (KG) likely traced the following path to generate this prediction: loss-of-function (LOF) mutations in the *DHODH* gene are known to cause **Miller syndrome**, a rare disorder characterised by acrofacial dysostosis including limb abnormalities. The KG may have established an indirect association between the DHODH gene node and brachydactyly/syndactyly phenotype nodes, giving rise to a high-confidence score.
-
-**However, this connection represents a mechanistic direction inversion false positive.** The congenital phenotype arises from *insufficient* DHODH activity (LOF), while Leflunomide further *inhibits* DHODH — meaning the drug acts in the same direction as the underlying pathological mechanism rather than opposing it. Applying a DHODH inhibitor to treat a disorder caused by DHODH deficiency is pharmacologically counterproductive. This prediction does not carry therapeutic plausibility and should be treated as a model artefact.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Reumatoïde artritis / psoriasis arthritis (internationaal gevestigd; geen NL-registratie vastgelegd in deze dataset) |
+| Voorspelde nieuwe indicatie | Brachydactylie-Syndactylie Syndroom |
+| TxGNN-voorspellingsscore | 99.93% |
+| Bewijsniveau | L5 |
+| Marktstatusnederlands | Niet in de handel |
+| Aantal toelatingen | 0 |
+| Aanbevolen beslissing | Uitstellen |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related literature available.
+Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in dit bewijspakket. Op basis van gevestigde farmacologie is leflunomide een remmer van **dihydroorotaatdehydrogenase (DHODH)**, het snelheid-limiterende enzym in de de novo pyrimidine-biosynthese. Door intracellulaire pyrimidine-voorraden uit te putten, onderdrukt het proliferatie van geactiveerde T- en B-lymfocyten, wat zijn anti-inflammatoire werking in reumatoïde artritis produceert.
 
----
+De kennisgraaf (KG) heeft waarschijnlijk het volgende pad gevolgd om deze voorspelling op te wekken: verlies-van-functie (LOF) mutaties in het *DHODH* gen staan bekend om **Miller syndroom** te veroorzaken, een zeldzame aandoening gekarakteriseerd door acrofaciale dysostose inclusief ledematen-afwijkingen. De KG kan een indirect verband tot stand hebben gebracht tussen de *DHODH*-gennode en brachydactylie/syndactylie-fenotype-nodes, wat een hoge-vertrouwen score opleverde.
 
-## Netherlands Market Information
-
-No CBG-MEB national authorization (RVG number) for Leflunomide is recorded in this dataset.
-
-> **Note:** Leflunomide (brand name Arava) is authorized in the European Union via centralized EMA procedure. EU-wide authorizations (EU/x/xx/xxx format) may not be captured in national RVG datasets. Clinicians and pharmacists should verify current authorization and market availability directly via the **CBG-MEB product database** or the **EMA medicines portal** before drawing conclusions about NL accessibility.
+**Dit verband vertegenwoordigt echter een vals positief door mechanistische richtingsomkering.** Het aangeboren fenotype ontstaat door *onvoldoende* DHODH-activiteit (LOF), terwijl leflunomide DHODH verder *remt* — wat betekent dat het medicijn in dezelfde richting werkt als het onderliggende pathologische mechanisme in plaats van het tegen te gaan. Het toepassen van een DHODH-remmer ter behandeling van een aandoening veroorzaakt door DHODH-deficiëntie is farmacologisch contraproductief. Deze voorspelling draagt geen therapeutische plausibiliteit en moet worden behandeld als een modelartefact.
 
 ---
 
-## Safety Considerations
+## Klinische trial-gegevens
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. Safety data — including key warnings, contraindications, and drug interactions — was not available in this evidence pack.
-
-> Given that Leflunomide holds a well-established EMA authorization for rheumatoid arthritis, a current SmPC is available via the EMA website and should be consulted for any clinical use.
+Momenteel geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Conclusion and Next Steps
+## Literatuurgegevens
 
-**Decision: Hold**
+Momenteel geen gerelateerde literatuur beschikbaar.
+
+---
+
+## Marktinformatie Nederland
+
+Geen CBG-MEB nationale toelating (RVG-nummer) voor leflunomide is opgenomen in deze dataset.
+
+> **Opmerking:** Leflunomide (merknaam Arava) is geautoriseerd in de Europese Unie via gecentraliseerde EMA-procedure. EU-brede toelatingen (EU/x/xx/xxx-format) kunnen niet worden vastgelegd in nationale RVG-datasets. Clinici en apothekers moeten de huidige toelating en beschikbaarheid op de markt rechtstreeks verifiëren via de **CBG-MEB-productdatabase** of de **EMA-geneesmiddellenportal** voordat zij conclusies trekken over NL-toegankelijkheid.
+
+---
+
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van Product Karakteristieken) voor veiligheidsinformatie. Veiligheidsgegevens — inclusief belangrijke waarschuwingen, contra-indicaties en geneesmiddel-interacties — waren niet beschikbaar in dit bewijspakket.
+
+> Aangezien leflunomide een gevestigde EMA-toelating voor reumatoïde artritis bezit, is een huidige SmPC beschikbaar via de EMA-website en moet deze worden geraadpleegd voor eventueel klinisch gebruik.
+
+---
+
+## Conclusie en volgende stappen
+
+**Beslissing: Uitstellen**
 
 **Rationale:**
-The TxGNN prediction for brachydactyly-syndactyly syndrome is a **mechanistic direction inversion false positive**: the disorder is caused by DHODH loss-of-function, while Leflunomide inhibits DHODH — the drug would exacerbate rather than correct the underlying pathophysiology. Combined with an evidence level of L5 (zero clinical trials, zero publications), there is no basis to advance this indication.
+De TxGNN-voorspelling voor brachydactylie-syndactylie syndroom is een **vals positief door mechanistische richtingsomkering**: de aandoening wordt veroorzaakt door DHODH verlies-van-functie, terwijl leflunomide DHODH remt — het medicijn zou de onderliggende pathofysiologie verergeren in plaats van te corrigeren. Gecombineerd met een bewijsniveau van L5 (nul klinische trials, nul publicaties), is er geen basis om deze indicatie vooruit te gaan.
 
-**To proceed constructively, the following is needed:**
+**Om constructief verder te gaan, is het volgende nodig:**
 
-- **Flag this prediction** as a false positive in the TxGNN pipeline; consider implementing a mechanistic directionality filter for enzyme LOF/inhibitor pairs
-- **Do not initiate** any clinical or translational study for this indication without independent mechanistic re-evaluation
-- **Verify NL market status** via CBG-MEB / EMA databases — Leflunomide likely holds an EU centralized authorization not captured in this national dataset
-- **Retrieve SmPC** safety data (warnings, contraindications, hepatotoxicity monitoring requirements) before any clinical consideration of the drug in the Netherlands
-- **If exploring Leflunomide for novel indications**, prioritize inflammatory or immune-mediated disease phenotypes where DHODH inhibition is mechanistically coherent (e.g., lupus nephritis, inflammatory bowel disease — indications with existing investigational literature)
+- **Deze voorspelling markeren** als vals positief in de TxGNN-pijplijn; overweeg de implementatie van een mechanistische directionaliteitsfilter voor enzym-LOF/remmer-paren
+- **Geen klinisch of translationaal onderzoek initiëren** voor deze indicatie zonder onafhankelijke mechanistische herevaluatie
+- **Marktstatusnederlands verifiëren** via CBG-MEB / EMA-databases — leflunomide bezit waarschijnlijk een EU-gecentraliseerde toelating die niet in deze nationale dataset wordt vastgelegd
+- **SmPC-veiligheidsgegevens ophalen** (waarschuwingen, contra-indicaties, hepatotoxiciteits-monitoringvereisten) voordat een klinische overweging van het medicijn in nederland plaatsvindt
+- **Bij verkenning van leflunomide voor nieuwe indicaties**, prioriteit geven aan inflammatoire of immuun-gemedieerde ziekte-fenotypes waarbij DHODH-inhibitie mechanistisch coherent is (bijv. lupus nefritis, inflammatoire darmziekte — indicaties met bestaande onderzoeksliteratuur)
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

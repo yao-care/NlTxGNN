@@ -29,135 +29,136 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Acenocoumarol: From Anticoagulation Therapy to Hereditary Thrombophilia
+# Acenocoumarol: Van anticoagulatietherapie naar erfelijke trombofilie
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Acenocoumarol is a vitamin K antagonist (VKA) anticoagulant, widely used in Europe for the prevention and treatment of thromboembolic disorders. The TxGNN model predicts it may be effective for three rare hereditary thrombophilias: **Heparin Cofactor 2 Deficiency**, **Factor V Excess with Spontaneous Thrombosis**, and **Antithrombin Deficiency Type 2**, though currently **no clinical trials** and **no publications** directly support these specific repurposing indications.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Anticoagulation therapy (thromboembolic disorders) — no local licenses on file |
-| Predicted New Indication (Rank 1) | Heparin Cofactor 2 Deficiency |
-| Predicted New Indication (Rank 2) | Factor V Excess with Spontaneous Thrombosis |
-| Predicted New Indication (Rank 3) | Antithrombin Deficiency Type 2 |
-| TxGNN Prediction Score (Rank 1) | 99.84% |
-| Evidence Level | L5 — Model prediction only, no direct clinical studies |
-| Market Status | Not marketed (Not marketed) in the queried jurisdiction |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Acenocoumarol is een vitamine K-antagonist (VKA) anticoagulans, wijd verspreid in Europa voor de preventie en behandeling van tromboembolische aandoeningen. Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn voor drie zeldzame erfelijke trombofiliën: **Heparine Cofactor 2-deficiëntie**, **Factor V Exces met spontane trombose** en **Antitrombitie Deficiëntie Type 2**, hoewel momenteel **geen klinische trials** en **geen publicaties** deze specifieke hergebruik-indicaties rechtstreeks ondersteunen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snelkeuze-overzicht
 
-Acenocoumarol is a coumarin-derivative vitamin K antagonist (VKA) that inhibits vitamin K epoxide reductase (VKORC1), thereby reducing the hepatic synthesis of vitamin K–dependent clotting factors (Factors II, VII, IX, and X) as well as the anticoagulant proteins C and S. It is pharmacologically closely related to warfarin and phenprocoumon and has been a standard oral anticoagulant in the Netherlands and other European countries for decades.
-
-All three predicted indications are rare hereditary thrombophilias — conditions in which a genetic defect in the natural anticoagulant pathway leads to a hypercoagulable state and increased risk of venous thromboembolism (VTE). **Heparin Cofactor II (HCII/SERPIND1) deficiency** reduces thrombin inhibition; **Factor V excess** leads to overactivation of the coagulation cascade; and **Antithrombin III (SERPINC1) type 2 deficiency** impairs the inhibition of thrombin and Factor Xa. In each case, the fundamental problem is an imbalance favouring clot formation, and a VKA like acenocoumarol can counteract this by reducing the supply of functional procoagulant factors from upstream.
-
-The mechanistic logic is strongest for antithrombin deficiency type 2, where international guidelines already recommend long-term oral anticoagulation (including VKAs) for patients with confirmed thrombotic events. For heparin cofactor II deficiency and factor V excess, the evidence base is far thinner — HCII deficiency's status as an independent thrombotic risk factor remains debated, and factor V excess (distinct from Factor V Leiden) is exceedingly rare. Nevertheless, the shared pathophysiology of defective natural anticoagulation ↔ VKA-mediated reduction of procoagulant factor synthesis provides a coherent mechanistic rationale for all three predictions.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for any of the three predicted indications in combination with acenocoumarol, based on searches of ClinicalTrials.gov and the WHO ICTRP (searched 2026-03-10).
-
----
-
-## Literature Evidence
-
-Currently no related literature available linking acenocoumarol specifically to heparin cofactor 2 deficiency, factor V excess with spontaneous thrombosis, or antithrombin deficiency type 2, based on PubMed searches (searched 2026-03-10).
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Anticoagulatietherapie (tromboembolische aandoeningen) — geen lokale licenties in het dossier |
+| Voorspelde nieuwe indicatie (Rang 1) | Heparine Cofactor 2-deficiëntie |
+| Voorspelde nieuwe indicatie (Rang 2) | Factor V Exces met spontane trombose |
+| Voorspelde nieuwe indicatie (Rang 3) | Antitrombitie Deficiëntie Type 2 |
+| TxGNN Voorspellingsscore (Rang 1) | 99.84% |
+| Bewijsniveau | L5 — Alleen modelvoouspelling, geen directe klinische studies |
+| Marktpositie | Niet gecommercialiseerd (Niet gecommercialiseerd) in de onderzochte rechtsgebied |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | **In afwachting** |
 
 ---
 
-## Market Information
+## Waarom is deze voorspelling redelijk?
 
-No marketing authorizations were found in the queried jurisdiction. Acenocoumarol has **0 registered licenses** on file.
+Acenocoumarol is een cumarine-afgeleide vitamine K-antagonist (VKA) die vitamine K epoxide reductase (VKORC1) remt, waardoor de hepatische synthese van vitamine K-afhankelijke stollungsfactoren (Factoren II, VII, IX en X) evenals de anticoagulantproteïnen C en S wordt verlaagd. Het is farmacologisch nauw verwant aan warfarine en fenprocoumon en is decennia lang een standaard oraal anticoagulans geweest in Nederland en andere Europese landen.
 
-> **Note:** Acenocoumarol is widely authorized and prescribed in the Netherlands (e.g., Sintrom®) and across continental Europe. The absence of licenses in this evidence pack reflects the queried data source (Taiwan/TFDA), where acenocoumarol is not marketed. For Dutch regulatory status, the CBG-MEB Geneesmiddeleninformatiebank should be consulted.
+Alle drie de voorspelde indicaties zijn zeldzame erfelijke trombofiliën — aandoeningen waarbij een genetisch defect in het natuurlijke anticoagulantiepad leidt tot een hypercoagulabele toestand en verhoogd risico op veneuze trombo-embolie (VTE). **Heparine Cofactor II (HCII/SERPIND1)-deficiëntie** vermindert de remmming van trombine; **Factor V-overmaat** leidt tot overactivering van de stollingscascade; en **Antitrombitie III (SERPINC1) type 2-deficiëntie** verslechtert de remming van trombine en Factor Xa. In elk geval is het fundamentele probleem een onevenwichtigheid die vorming van bloedstolsels bevordert, en een VKA zoals acenocoumarol kan dit tegenwerken door het aanbod van functionele procoagulante factoren van stroomopwaarts te verminderen.
 
----
-
-## Safety Considerations
-
-> Please refer to the SmPC (Summary of Product Characteristics) for comprehensive safety information. The evidence pack did not contain resolved safety data for acenocoumarol.
-
-**General VKA class safety profile (for context):**
-- **Narrow therapeutic index** — requires regular INR monitoring (target typically 2.0–3.5 depending on indication)
-- **Bleeding risk** — major and minor haemorrhage is the primary adverse effect
-- **Teratogenicity** — coumarins are contraindicated in pregnancy (coumarin embryopathy)
-- **Extensive drug–drug interactions** — CYP2C9 substrate; interactions with NSAIDs, antibiotics, antifungals, and many other drug classes
-- **Dietary interactions** — vitamin K intake affects anticoagulant effect
-- **Skin necrosis** — rare but serious, particularly in protein C/S deficiency (relevant for this patient population)
-
-> ⚠️ **Special consideration for hereditary thrombophilias:** In patients with protein C or protein S deficiency (which may coexist with the predicted indications), initiation of VKA therapy without heparin bridging can precipitate warfarin-induced skin necrosis. This risk must be evaluated before prescribing acenocoumarol in thrombophilia patients.
+De mechanistische logica is het sterkst voor antitrombitie-deficiëntie type 2, waarbij internationale richtlijnen al langetermijn orale anticoagulatie (inclusief VKA's) aanbevelen voor patiënten met bevestigde trombotische gebeurtenissen. Voor deficiëntie aan heparine cofactor II en factor V-overmaat is de bewijsbasis veel dunner — de status van HCII-deficiëntie als onafhankelijk trombotisch risicofactor blijft omstreden, en factor V-overmaat (onderscheiden van Factor V Leiden) is uiterst zeldzaam. Desondanks biedt de gedeelde pathofysiologie van defectieve natuurlijke anticoagulatie ↔ VKA-gemedieerde vermindering van procoagulante factorsynthese een coherente mechanistische grondslag voor alle drie voorspellingen.
 
 ---
 
-## Detailed Predicted Indications
+## Bewijs uit klinische trials
 
-### Rank 1: Heparin Cofactor 2 Deficiency
-
-| Item | Content |
-|------|------|
-| TxGNN Score | 99.84% (rank 473) |
-| Evidence Level | L5 |
-| Decision Stage | S0 |
-| Recommendation | Hold |
-
-**Mechanistic rationale:** Heparin Cofactor II (HCII/SERPIND1) is a serine protease inhibitor. When deficient, thrombin inhibition is insufficient, predisposing to thrombosis. Acenocoumarol reduces clotting factor synthesis upstream, thereby decreasing thrombin generation — a logical but indirect compensatory mechanism. Whether HCII deficiency constitutes an independent thrombotic risk factor remains debated, with some studies suggesting very low penetrance.
+Momenteel geen gerelateerde klinische trials geregistreerd voor een van de drie voorspelde indicaties in combinatie met acenocoumarol, op basis van zoekopdrachten in ClinicalTrials.gov en het WHO ICTRP (doorzocht op 2026-03-10).
 
 ---
 
-### Rank 2: Factor V Excess with Spontaneous Thrombosis
+## Bewijs uit literatuur
 
-| Item | Content |
-|------|------|
-| TxGNN Score | 99.78% (rank 583) |
-| Evidence Level | L5 |
-| Decision Stage | S0 |
-| Recommendation | Hold |
-
-**Mechanistic rationale:** Excess Factor V leads to overactivation of the coagulation cascade and spontaneous thrombosis. Acenocoumarol does not directly inhibit Factor V (which is not vitamin K–dependent), but can indirectly attenuate the coagulation cascade by reducing prothrombin (Factor II) synthesis. This condition is distinct from Factor V Leiden (a gain-of-function mutation conferring activated protein C resistance) and is exceedingly rare.
+Momenteel geen gerelateerde literatuur beschikbaar die acenocoumarol specifiek koppelt aan heparine cofactor 2-deficiëntie, factor V-overmaat met spontane trombose, of antitrombitie-deficiëntie type 2, op basis van PubMed-zoekopdrachten (doorzocht op 2026-03-10).
 
 ---
 
-### Rank 3: Antithrombin Deficiency Type 2
+## Marktinformatie
 
-| Item | Content |
-|------|------|
-| TxGNN Score | 99.77% (rank 607) |
-| Evidence Level | L5 |
-| Decision Stage | S1 |
-| Recommendation | Hold |
+Er werden geen verkoopauthorisaties gevonden in de onderzochte rechtsgebied. Acenocoumarol heeft **0 geregistreerde licenties** in het dossier.
 
-**Mechanistic rationale:** Antithrombin III (SERPINC1) type 2 deficiency is a qualitative defect (dysfunctional protein) leading to insufficient inhibition of thrombin and Factor Xa. This is a well-established high-risk thrombophilia. VKAs provide long-term anticoagulant protection by reducing clotting factor synthesis. **This indication has the strongest mechanistic link** of the three, as long-term oral anticoagulation (including VKAs) is already recommended in international guidelines for antithrombin-deficient patients with thrombotic events.
+> **Opmerking:** Acenocoumarol is ruim geautoriseerd en voorgeschreven in Nederland (bijv. Sintrom®) en in heel continentaal Europa. De afwezigheid van licenties in dit bewijspakket weerspiegelt de onderzochte gegevensbron (Taiwan/TFDA), waar acenocoumarol niet wordt vermarktet. Voor Nederlandse regelgeviningstatus dient de CBG-MEB Geneesmiddeleninformatiebank te worden geraadpleegd.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Hold**
+> Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor uitvoerige veiligheidsinformatie. Het bewijspakket bevatte geen opgeloste veiligheidsgegevens voor acenocoumarol.
 
-**Rationale:**
-While the mechanistic rationale connecting a VKA to hereditary thrombophilias is sound — particularly for antithrombin deficiency type 2, where VKA use is already part of established clinical practice — there are **no disease-specific clinical trials or publications** to support formal repurposing. All three predictions are at evidence level L5 (model prediction only). Additionally, the drug has no marketing authorization in the queried jurisdiction, and critical safety data (SmPC warnings, contraindications, DDI profile) were not available in this evidence pack.
+**Algemeen veiligheidsprofiel van VKA-klasse (ter context):**
+- **Smalle therapeutische index** — vereist regelmatige INR-controle (streefwaarde typisch 2,0–3,5 afhankelijk van indicatie)
+- **Bloedingsrisico** — groot en klein bloeding is het belangrijkste bijwerkingeffect
+- **Teratogeniteit** — coumarines zijn gecontraïndiceerd in de zwangerschap (coumarine-embryopathie)
+- **Uitgebreide drug-druginteracties** — CYP2C9-substraat; interacties met NSAID's, antibiotica, antimycotica en vele andere geneesmiddelenklassen
+- **Voedingsinteracties** — vitamine K-inname beïnvloedt het anticoagulantieëffect
+- **Huidnecrose** — zeldzaam maar ernstig, vooral bij proteïne C/S-deficiëntie (relevant voor deze patiëntenpopulatie)
 
-**To proceed, the following is needed:**
-- **Regulatory data:** Obtain Dutch CBG-MEB marketing authorization details for acenocoumarol (Sintrom® and generics) from the Geneesmiddeleninformatiebank
-- **Safety profile:** Extract SmPC warnings, contraindications, and drug interaction data from the Dutch-authorized SmPC
-- **Mechanism of action:** Confirm detailed MOA via DrugBank API (data gap DG002)
-- **Literature search expansion:** Broaden PubMed search to include VKA class (not just acenocoumarol) in combination with each thrombophilia, and include warfarin-based evidence that may be applicable
-- **Clinical guideline review:** Cross-reference with ISTH, ASH, and Dutch (NIV/NHG) guidelines on management of hereditary thrombophilias to determine whether VKA use is already standard of care (which would change this from "repurposing" to "established off-label/guideline-supported use")
-- **Prioritization note:** Antithrombin deficiency type 2 (rank 3) may warrant fast-tracking to S1 evaluation given existing guideline support for VKA use in this population
+> ⚠️ **Bijzondere aandacht voor erfelijke trombofiliën:** Bij patiënten met proteïne C- of proteïne S-deficiëntie (die kunnen samengaan met de voorspelde aandoeningen) kan start van VKA-therapie zonder heparine-overbrugging warfarine-geïnduceerde huidnecrose veroorzaken. Dit risico moet worden beoordeeld voordat acenocoumarol aan trombofiliepatiënten wordt voorgeschreven.
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Report generated 2026-04-03.*
+## Gedetailleerde voorspelde indicaties
+
+### Rang 1: Heparine Cofactor 2-deficiëntie
+
+| Item | Inhoud |
+|------|--------|
+| TxGNN Score | 99.84% (rang 473) |
+| Bewijsniveau | L5 |
+| Besluitvormingsfase | S0 |
+| Aanbeveling | In afwachting |
+
+**Mechanistische grondslag:** Heparine Cofactor II (HCII/SERPIND1) is een serine protease remmmer. Indien deficiënt, is trombineremming ontoereikend, wat predisponeert voor trombose. Acenocoumarol vermindert de synthese van stollungsfactoren stroomopwaarts, waardoor de trombinegeneratie afneemt — een logisch maar indirect compenserend mechanisme. Of HCII-deficiëntie een onafhankelijk trombotisch risicofactor vormt, blijft omstreden, met enkele studies die zeer lage penetrantie suggereren.
+
+---
+
+### Rang 2: Factor V Exces met spontane trombose
+
+| Item | Inhoud |
+|------|--------|
+| TxGNN Score | 99.78% (rang 583) |
+| Bewijsniveau | L5 |
+| Besluitvormingsfase | S0 |
+| Aanbeveling | In afwachting |
+
+**Mechanistische grondslag:** Overmaat Factor V leidt tot overactivering van de stollinfscascade en spontane trombose. Acenocoumarol remt Factor V niet rechtstreeks (wat niet vitamine K-afhankelijk is), maar kan de stollinfscascade indirect verzwakken door protrombine (Factor II)-synthese te verminderen. Deze aandoening verschilt van Factor V Leiden (een gain-of-function mutatie die geactiveerde proteïne C-resistentie oplevert) en is uiterst zeldzaam.
+
+---
+
+### Rang 3: Antitrombitie Deficiëntie Type 2
+
+| Item | Inhoud |
+|------|--------|
+| TxGNN Score | 99.77% (rang 607) |
+| Bewijsniveau | L5 |
+| Besluitvormingsfase | S1 |
+| Aanbeveling | In afwachting |
+
+**Mechanistische grondslag:** Antitrombitie III (SERPINC1) type 2-deficiëntie is een kwalitatief defect (disfunctioneel proteïne) dat leidt tot onvoldoende remming van trombine en Factor Xa. Dit is een goed vastgestelde hoog-risico trombofilie. VKA's bieden langetermijnbescherming tegen anticoagulatie door stollungsfactorsynthese te verminderen. **Deze indicatie heeft de sterkste mechanistische koppeling** van de drie, aangezien langetermijn orale anticoagulatie (inclusief VKA's) al wordt aanbevolen in internationale richtlijnen voor antitrombitie-deficiënte patiënten met trombotische gebeurtenissen.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: In afwachting**
+
+**Grondslag:**
+Hoewel de mechanistische grondslag voor een VKA bij erfelijke trombofiliën kloppend is — in het bijzonder voor antitrombitie-deficiëntie type 2, waar VKA-gebruik al onderdeel is van gevestigde klinische praktijk — zijn er **geen ziektespecifieke klinische trials of publicaties** die formeel hergebruik ondersteunen. Alle drie voorspellingen bevinden zich op bewijsniveau L5 (alleen modelvoouspelling). Daarnaast heeft het geneesmiddel geen verkoopautoriteit in de onderzochte rechtsgebied, en kritieke veiligheidsgegevens (SmPC-waarschuwingen, contraïndicaties, DDI-profiel) waren niet beschikbaar in dit bewijspakket.
+
+**Om door te gaan is het volgende nodig:**
+- **Regelgevingsgegevens:** Verkrijg details over verkoopautoriteit van de Nederlandse CBG-MEB voor acenocoumarol (Sintrom® en generieke geneesmiddelen) van de Geneesmiddeleninformatiebank
+- **Veiligheidsprofiel:** Extraheer SmPC-waarschuwingen, contraïndicaties en drug-interactiegegevens uit de Nederlands-geautoriseerde SmPC
+- **Werkingsmechanisme:** Bevestig gedetailleerd werkingsmechanisme via DrugBank API (gegevenskloof DG002)
+- **Uitbreiding literatuuronderzoek:** Verbreid PubMed-zoekopdracht tot VKA-klasse (niet alleen acenocoumarol) in combinatie met elke trombofilie, en voeg bewijzen gebaseerd op warfarine in die mogelijk van toepassing zijn
+- **Controleplaat voor klinische richtlijn:** Kruisverwijzing met ISTH-, ASH- en Nederlandse (NIV/NHG)-richtlijnen over beheer van erfelijke trombofiliën om vast te stellen of VKA-gebruik al standaard zorg is (wat dit zou veranderen van "hergebruik" naar "gevestigde off-label/richtlijnondersteunde gebruik")
+- **Prioriteringsopmerking:** Antitrombitie-deficiëntie type 2 (rang 3) kan snelspoor naar S1-evaluatie rechtvaardigen gezien de bestaande richtlijnondersteuning voor VKA-gebruik in deze populatie
+
+---
+
+*Dit rapport is uitsluitend voor onderzoeksdoeleinden en vormt geen medisch advies. Hergebruik van geneesmiddelen vereist klinische validatie vóór toepassing. Rapport gegenereerd op 2026-04-03.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

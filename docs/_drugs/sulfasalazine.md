@@ -29,79 +29,76 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
+# Sulfasalazine: Van inflammatoire artritis / IBD naar Brachydactieën-Syndactieën Syndroom
+
+## Samenvatting in één zin
+
+Sulfasalazine is een gevestigd ontstekingsremmend middel en ziekteveranderende antireumatische geneesmiddel (DMARD), wereldwijd gebruikt voor inflammatoire darmziekte, reumatoïde artritis en ankyloserende spondylitis; het is momenteel niet op de Nederlandse markt geregistreerd.
+Het TxGNN-model kent het een **99.94% voorspellingsscore** toe voor **Brachydactieën-Syndactieën Syndroom** als mogelijke nieuwe indicatie.
+Echter, **geen klinische onderzoeken en geen gepubliceerde literatuur** ondersteunen deze richting, en de mechanistische grondslag wordt als onwaarschijnlijk beschouwd — deze voorspelling is waarschijnlijk een artefact van de kennisgraaf.
 
 ---
 
-# Sulfasalazine: From Inflammatory Arthritis / IBD to Brachydactyly-Syndactyly Syndrome
+## Snel overzicht
 
-## One-Sentence Summary
-
-Sulfasalazine is a well-established anti-inflammatory agent and disease-modifying antirheumatic drug (DMARD), globally used for inflammatory bowel disease, rheumatoid arthritis, and ankylosing spondylitis; it is not currently registered in the Netherlands market.
-The TxGNN model assigns it a **99.94% prediction score** for **Brachydactyly-Syndactyly Syndrome** as a potential new indication.
-However, **no clinical trials and no published literature** support this direction, and the mechanistic rationale is considered implausible — this prediction is likely a knowledge-graph artefact.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; globally used for inflammatory bowel disease, rheumatoid arthritis, and ankylosing spondylitis |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Niet geregistreerd in Nederland; wereldwijd gebruikt voor inflammatoire darmziekte, reumatoïde artritis en ankyloserende spondylitis |
+| Voorspelde nieuwe indicatie | Brachydactieën-Syndactieën Syndroom |
+| TxGNN Voorspellingsscore | 99.94% |
+| Bewijsniveau | L5 |
+| NL-marktpositie | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Sulfasalazine is a combined anti-inflammatory and DMARD whose therapeutic effects involve NF-κB inhibition, blockade of prostaglandin and leukotriene synthesis, and suppression of pro-inflammatory cytokine production. Its clinical efficacy in inflammatory bowel disease, rheumatoid arthritis, and spondyloarthritis is well established globally.
+Op dit moment zijn gedetailleerde werkingsmechanismegegevens niet beschikbaar in dit Evidence Pack. Gebaseerd op bekende farmacologische informatie is Sulfasalazine een gecombineerd ontstekingsremmend middel en DMARD waarvan de therapeutische effecten NF-κB-remming, blokkade van prostaglandine- en leukotriënesynthese en onderdrukking van pro-inflammatoire cytokineproductie omvatten. De klinische werkzaamheid bij inflammatoire darmziekte, reumatoïde artritis en spondylartritis is wereldwijd goed gevestigd.
 
-Brachydactyly-syndactyly syndrome is a congenital skeletal developmental disorder caused by genetic mutations (most commonly involving ROR2 or related developmental genes). The structural abnormalities arise during embryogenesis and cannot be corrected by post-natal anti-inflammatory therapy. There is no biological pathway through which Sulfasalazine's anti-inflammatory mechanisms could plausibly influence the molecular defects underlying this syndrome.
+Brachydactieën-syndactieën syndroom is een aangeboren skeletstoornisse veroorzaakt door genetische mutaties (meestal betrokken ROR2 of gerelateerde ontwikkelingsgenen). De structurele abnormaliteiten ontstaan tijdens de embryonale ontwikkeling en kunnen niet worden gecorrigeerd door postnatale ontstekingsremmende therapie. Er is geen biologisch pad waarlangs de ontstekingsremmende mechanismen van Sulfasalazine plausibel de moleculaire defecten die aan dit syndroom ten grondslag liggen, zouden kunnen beïnvloeden.
 
-The high TxGNN score (99.94%) most likely results from topological proximity between orthopaedic disease nodes in the knowledge graph (KG), rather than from any true pharmacological relationship. This is a recognised limitation of graph-based prediction algorithms: high scores can reflect shared network neighbourhood rather than genuine drug-disease biology. **This prediction is considered a probable false positive and does not warrant further clinical investigation at this stage.**
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De hoge TxGNN-score (99.94%) is waarschijnlijk het gevolg van topologische nabijheid tussen orthopedische ziekteknopen in de kennisgraaf (KG), in plaats van een ware geneesmiddel-ziektebiologie. Dit is een erkende beperking van op grafen gebaseerde voorspellingsalgoritmen: hoge scores kunnen eerder topologische nabijheid in het netwerk weerspiegelen dan echte geneesmiddel-ziektebiologie. **Deze voorspelling wordt beschouwd als waarschijnlijk vals-positief en geeft geen aanleiding tot verdere klinische onderzoeken op dit moment.**
 
 ---
 
-## Literature Evidence
+## Bewijzen van klinische onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Sulfasalazine currently holds **no marketing authorizations** registered with the CBG-MEB (College ter Beoordeling van Geneesmiddelen). No SmPC (Samenvatting van de Productkenmerken) or PIL (Bijsluiter) data is available from the Dutch regulatory database for this product.
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijzen
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Sulfasalazine heeft momenteel **geen autorisaties** geregistreerd bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Geen gegevens van SmPC (Samenvatting van de Productkenmerken) of PIL (Bijsluiter) zijn beschikbaar uit de Nederlandse regelgevingsdatabase voor dit product.
 
-**Rationale:**
-Brachydactyly-syndactyly syndrome is a congenital, genetically-determined skeletal disorder with no plausible pharmacological entry point for an anti-inflammatory DMARD such as Sulfasalazine. The very high TxGNN prediction score (99.94%) is most likely driven by knowledge-graph topological similarity rather than any genuine drug-disease signal; no clinical trial, observational study, or mechanistic publication exists to support this hypothesis.
+---
 
-**To proceed, the following is needed:**
-- A credible biological hypothesis demonstrating how Sulfasalazine's known molecular pathways could influence the ROR2 (or equivalent) developmental signalling cascade underlying this syndrome — currently considered implausible
-- Should any such mechanistic hypothesis emerge in future basic-science research, a targeted literature review and expert genetics consultation would be the mandatory first steps before any clinical consideration
-- Separately, the NL regulatory data gap (0 CBG-MEB authorizations, missing SmPC) should be resolved to enable a proper safety baseline assessment of Sulfasalazine itself, independent of this repurposing question
+## Veiligheidsopmerkingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Afwachten**
+
+**Grondslag:**
+Brachydactieën-syndactieën syndroom is een aangeboren, genetisch bepaalde skeletstoornisse zonder enig plausibel farmacologisch aangrijpingspunt voor een ontstekingsremmend DMARD als Sulfasalazine. De zeer hoge TxGNN-voorspellingsscore (99.94%) wordt waarschijnlijk aangedreven door topologische gelijkenis in de kennisgraaf in plaats van enig echt geneesmiddel-ziektsignaal; geen klinische onderzoeken, observationele studies of mechanistische publicaties bestaan ter ondersteuning van deze hypothese.
+
+**Ter voortgang is het volgende vereist:**
+- Een geloofwaardige biologische hypothese die aantoont hoe de bekende moleculaire mechanismen van Sulfasalazine de ROR2 (of equivalente) ontwikkelingssignaleringscascade die aan dit syndroom ten grondslag ligt zouden kunnen beïnvloeden — momenteel als onwaarschijnlijk beschouwd
+- Zou een dergelijke mechanistische hypothese in toekomstig basisonderzoek naar voren komen, dan zouden een gericht literatuuronderzoek en deskundige genetische raadpleging de verplichte eerste stappen zijn voordat enige klinische overweging plaatsvindt
+- Afzonderlijk moet de regelgevingsdatakloof (0 CBG-MEB autorisaties, ontbrekende SmPC) worden opgelost om een correct veiligheidsbasisonderzoek van Sulfasalazine zelf mogelijk te maken, onafhankelijk van deze hergebruiksvraag
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

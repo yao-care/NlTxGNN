@@ -29,98 +29,99 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# Amitriptyline Hydrochloride: Insufficient Data for Drug Repurposing Evaluation
+# Amitriptilline Hydrochloride: Onvoldoende gegevens voor evaluatie van geneesmiddelhergebruik
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Amitriptyline hydrochloride is a well-established tricyclic antidepressant (TCA) widely used for the treatment of depression, neuropathic pain, and other conditions globally. However, the TxGNN model has **not generated any predicted new indications** for this drug in the current analysis cycle, and **no clinical trial or literature evidence** has been collected. This report documents the current data gaps and outlines what is needed before a repurposing evaluation can proceed.
+Amitriptilline hydrochloride is een goed gevestigde tricyclische antidepressivum (TCA) die wereldwijd wordt gebruikt voor de behandeling van depressie, neuropathische pijn en andere aandoeningen. Het TxGNN-model heeft echter **geen voorspelde nieuwe indicaties** voor dit geneesmiddel gegenereerd in de huidige analysecyclus, en **er is geen bewijs uit klinische onderzoeken of literatuur** verzameld. Dit rapport documenteert de huidige gegevenslacunes en schetst wat nodig is voordat een evaluatie van hergebruik kan plaatsvinden.
 
-## Quick Overview
+## Snel overzicht
 
-| Item | Content |
-|------|------|
-| Drug Name (INN) | Amitriptyline Hydrochloride |
-| Original Indication | Not available in current dataset |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies available) |
-| Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Item | Inhoud |
+|------|--------|
+| Geneesmiddelnaam (INN) | Amitriptilline Hydrochloride |
+| Oorspronkelijke indicatie | Niet beschikbaar in huidige dataset |
+| Voorspelde nieuwe indicatie | Geen — geen TxGNN-voorspellingen gegenereerd |
+| TxGNN-voorspellingsscore | N/A |
+| Bewijsniveau | L5 (Geen voorspellingen of ondersteunende studies beschikbaar) |
+| Marketingstatus | Niet in de handel (Niet in de handel) |
+| Aantal vergunningen | 0 |
+| Aanbevolen besluit | **In afwachting** |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-There are currently **no TxGNN predictions** available for Amitriptyline Hydrochloride, so a mechanistic plausibility assessment cannot be performed at this time.
+Er zijn momenteel **geen TxGNN-voorspellingen** beschikbaar voor Amitriptilline Hydrochloride, dus een beoordeling van mechanistische plausibiliteit kan op dit moment niet worden uitgevoerd.
 
-For context, Amitriptyline is a tricyclic antidepressant that primarily works by inhibiting the reuptake of serotonin and norepinephrine in the central nervous system. It also has anticholinergic, antihistaminic, and sodium channel-blocking properties. These diverse pharmacological actions have historically made it a candidate for off-label uses including neuropathic pain, migraine prophylaxis, fibromyalgia, and irritable bowel syndrome.
+Ter referentie: Amitriptilline is een tricyclisch antidepressivum dat vooral werkt door de heropname van serotonine en noradrenaline in het centraal zenuwstelsel te remmen. Het heeft ook anticholinerge, antihistaminische en natriumkanaalblokkerende eigenschappen. Deze gevarieerde farmacologische werkingen hebben het historisch tot een kandidaat voor off-label gebruik gemaakt, waaronder neuropathische pijn, migraine-profylaxe, fibromyalgie en prikkelbaredarmsyndroom.
 
-Currently, detailed mechanism of action data is not available in the evidence pack (listed as a data gap). The DrugBank ID has not been mapped, and no original indications are recorded in the regulatory data provided. A complete DrugBank lookup and regulatory data integration are required before any repurposing analysis can proceed.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het bewijspakket (vermeld als gegevenslacune). De DrugBank-ID is niet in kaart gebracht, en er zijn geen oorspronkelijke indicaties vastgelegd in de verstrekte regelgevingsgegevens. Een volledige DrugBank-opzoeking en integratie van regelgevingsgegevens zijn nodig voordat enige analyse van hergebruik kan plaatsvinden.
 
-## Clinical Trial Evidence
+## Bewijs uit klinische onderzoeken
 
-Currently no related clinical trials registered in the evidence pack.
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd in het bewijspakket.
 
-> **Note:** This does not mean no clinical trials exist globally for Amitriptyline — it means the evidence collection pipeline has not yet been executed for this drug. Amitriptyline has extensive clinical trial history across multiple indications.
+> **Opmerking:** Dit betekent niet dat er wereldwijd geen klinische onderzoeken voor Amitriptilline bestaan — het betekent dat de pijplijn voor bewijsverzameling nog niet voor dit geneesmiddel is uitgevoerd. Amitriptilline heeft een uitgebreide geschiedenis van klinische onderzoeken over meerdere indicaties.
 
-## Literature Evidence
+## Bewijs uit literatuur
 
-Currently no related literature available in the evidence pack.
+Momenteel is geen gerelateerde literatuur beschikbaar in het bewijspakket.
 
-> **Note:** Amitriptyline has thousands of publications in PubMed. The absence of literature here reflects that no TxGNN-predicted indication was generated, so the evidence collection pipeline was not triggered.
+> **Opmerking:** Amitriptilline heeft duizenden publicaties in PubMed. De afwezigheid van literatuur hier weerspiegelt het feit dat geen TxGNN-voorspelde indicatie is gegenereerd, dus de pijplijn voor bewijsverzameling is niet geactiveerd.
 
-## Market Information
+## Marketinginformatie
 
-No marketing authorizations were found in the current regulatory dataset. The drug is recorded as **not marketed** (Not marketed) with **0 licenses** on file.
+Er zijn geen marketingvergunningen gevonden in de huidige regelgevingsdataset. Het geneesmiddel is geregistreerd als **niet in de handel** (Niet in de handel) met **0 licenties** op bestand.
 
-> **Note:** Amitriptyline is widely marketed in many countries (including the Netherlands, where it is available as various generics). The absence of authorization records here may reflect a gap in the local regulatory data source rather than true unavailability.
+> **Opmerking:** Amitriptilline wordt in veel landen op de markt gebracht (inclusief Nederland, waar het beschikbaar is als verschillende generieke versies). De afwezigheid van vergunningsgegevens hier kan een lacune in de lokale regelgevingsgegevensbron weerspiegelen in plaats van werkelijke niet-beschikbaarheid.
 
-## Safety Considerations
+## Veiligheidsbeschouwingen
 
-> Please refer to the SmPC (Summary of Product Characteristics) for complete safety information. Key safety data (warnings, contraindications, and drug–drug interactions) could not be retrieved in the current data collection cycle.
+> Raadpleeg de SmPC (Samenvatting van productkenmerken) voor volledige veiligheidsinformatie. Belangrijke veiligheidsgegevens (waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties) konden niet in de huidige gegevensverzamelingscyclus worden opgehaald.
 >
-> **Known general safety considerations for Amitriptyline** (from established clinical knowledge):
-> - **Black box warning** (in many jurisdictions): Increased risk of suicidal thinking and behaviour in children, adolescents, and young adults
-> - **Cardiac risk**: QT prolongation, arrhythmias — ECG monitoring recommended
-> - **Anticholinergic effects**: Dry mouth, urinary retention, constipation, blurred vision
-> - **CNS depression**: Sedation, impaired psychomotor performance
-> - **Contraindicated** with MAO inhibitors (risk of serotonin syndrome) and in recent myocardial infarction
+> **Bekende algemene veiligheidsbeschouwingen voor Amitriptilline** (op basis van gevestigde farmacologische kennis):
+> - **Black box-waarschuwing** (in veel rechtsgebieden): Verhoogd risico op zelfmoordgedachten en gedrag bij kinderen, tieners en jonge volwassenen
+> - **Cardiaal risico**: QT-verlenging, aritmieën — ECG-monitoring aanbevolen
+> - **Anticholinerge effecten**: Droge mond, urineretentie, obstipatie, wazig zien
+> - **CNS-depressie**: Slaperigheid, verminderde psychomotorische prestaties
+> - **Gecontra-indiceerd** met MAO-remmers (risico op serotoninsyndrroom) en na recent myocardinfarct
 >
-> *These points are provided from general pharmacological knowledge and should be verified against the current SmPC.*
+> *Deze punten worden verstrekt op basis van algemene farmacologische kennis en moeten worden geverifieerd tegen de huidige SmPC.*
 
-## Data Gaps Identified
+## Geïdentificeerde gegevenslacunes
 
-The following critical data gaps were flagged during evidence pack assembly:
+De volgende kritische gegevenslacunes zijn gemarkeerd tijdens de samenstelling van het bewijspakket:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | Regulatory warnings/contraindications | **Blocking** | Cannot enter Stage 1 safety screening | Download and parse product label PDF from regulatory authority |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+| Lacune-ID | Categorie | Item | Ernst | Effect | Remedie |
+|-----------|-----------|------|-------|--------|---------|
+| DG001 | Geneesmiddelniveau | Regelgevingswaarschuwingen/contra-indicaties | **Blokkering** | Kan fase 1 veiligheidsbeoordeling niet starten | Product label-PDF van regelgevingsinstantie downloaden en ontleden |
+| DG002 | Geneesmiddelniveau | Werkingsmechanisme (MOA) | Hoog | Beïnvloedt analyse van mechanistische relevantie | DrugBank API opvragen |
 
-**Additional gaps observed:**
-- DrugBank ID not mapped (despite a successful DrugBank query logged on 2026-03-26)
-- No original indications recorded
-- No TxGNN predictions generated — root cause should be investigated (possible mapping failure)
-- Drug–drug interaction query returned no results, which is unexpected for a widely-used TCA
+**Aanvullende lacunes waargenomen:**
+- DrugBank-ID niet in kaart gebracht (ondanks succesvolle DrugBank-query geregistreerd op 2026-03-26)
+- Geen oorspronkelijke indicaties vastgelegd
+- Geen TxGNN-voorspellingen gegenereerd — worteloorzaak moet worden onderzocht (mogelijke mappingfout)
+- Geneesmiddel-geneesmiddelinteractiequerie gaf geen resultaten, wat onverwacht is voor een veel gebruikte TCA
 
-## Conclusion and Next Steps
+## Conclusie en vervolgstappen
 
-**Decision: Hold**
+**Besluit: In afwachting**
 
-**Rationale:**
-No TxGNN predictions have been generated for Amitriptyline Hydrochloride, and multiple blocking data gaps prevent any meaningful repurposing evaluation. The absence of a DrugBank ID mapping is likely the root cause preventing the prediction pipeline from running, as the knowledge graph requires a valid DrugBank identifier to generate candidates.
+**Motivering:**
+Er zijn geen TxGNN-voorspellingen gegenereerd voor Amitriptilline Hydrochloride, en meerdere blokkerende gegevenslacunes verhinderen enige zinvolle evaluatie van hergebruik. De afwezigheid van een DrugBank-ID-mapping is waarschijnlijk de worteloorzaak die voorkomt dat de voorspellingspijplijn wordt uitgevoerd, omdat de kennisfaaf een geldige DrugBank-identifier nodig heeft om kandidaten te genereren.
 
-**To proceed, the following is needed:**
+**Om door te gaan is het volgende nodig:**
 
-1. **Resolve DrugBank mapping** — Amitriptyline's DrugBank ID is [DB00321](https://go.drugbank.com/drugs/DB00321). This should be populated in the evidence pack to enable KG-based prediction
-2. **Re-run TxGNN prediction pipeline** once the DrugBank ID is correctly mapped
-3. **Retrieve SmPC/label data** — Download and parse the product label to fill safety data gaps (DG001)
-4. **Populate MOA data** from DrugBank (DG002) — Amitriptyline's targets include SLC6A4 (SERT), SLC6A2 (NET), and multiple receptor subtypes
-5. **Verify market status** — Amitriptyline is widely available internationally; confirm whether the "not marketed" status reflects the local dataset scope or an actual gap
-6. **Re-run evidence collection** (ClinicalTrials.gov, PubMed) once a predicted indication is available
+1. **Zet DrugBank-mapping op** — De DrugBank-ID van Amitriptilline is [DB00321](https://go.drugbank.com/drugs/DB00321). Dit moet in het bewijspakket worden ingevuld om voorspelling op basis van KG in te schakelen
+2. **Voer de TxGNN-voorspellingspijplijn opnieuw uit** zodra de DrugBank-ID correct is in kaart gebracht
+3. **Haal SmPC/label-gegevens op** — Download en ontleed het productlabel om gegevenslacunes voor veiligheid in te vullen (DG001)
+4. **Vul MOA-gegevens in** van DrugBank (DG002) — Doelstellingen van Amitriptilline zijn onder andere SLC6A4 (SERT), SLC6A2 (NET) en meerdere receptorsubtypes
+5. **Verifieer marketingstatus** — Amitriptilline is breed beschikbaar internationally; bevestig of de status "niet in de handel" de scope van de lokale dataset weerspiegelt of een werkelijke lacune
+6. **Voer bewijsverzameling opnieuw uit** (ClinicalTrials.gov, PubMed) zodra een voorspelde indicatie beschikbaar is
 
 ---
 
-*⚠️ Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-03.*
+*⚠️ Disclaimer: Dit rapport is voor onderzoeksdoeleinden en vormt geen medisch advies. Kandidaten voor geneesmiddelhergebruik vereisen klinische validatie voordat toepassing. Gegevensafsnijdatum: 2026-04-03.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,84 +29,81 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm Netherlands deployment context. Now generating the report following the Drug Repurposing Evaluation Report Prompt (v5).
+# Trimethoprim: Van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+
+## Samenvatting in één zin
+
+Trimethoprim is een dihydrofolaat reductase (DHFR)-remmer die klassiek wordt gebruikt om bacteriële infecties te behandelen, inclusief urineweginfecties en luchtweginfecties.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Punctate Epitheliale Keratoconjunctivitis (PEK)** met een voorspellingsscore van 99.57%.
+Er zijn echter **geen klinische onderzoeken en geen gepubliceerde literatuur** die deze specifieke toepassing ondersteunen — de voorspelling berust volledig op modelafleiding.
 
 ---
 
-# Trimethoprim: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+## Snel overzicht
 
-## One-Sentence Summary
-
-Trimethoprim is a dihydrofolate reductase (DHFR) inhibitor classically used to treat bacterial infections, including urinary tract and respiratory infections.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis (PEK)**, with a prediction score of 99.57%.
-However, **no clinical trials and no published literature** currently support this specific application — the prediction rests entirely on model inference.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available per NL records (generally: bacterial infections incl. UTI) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet beschikbaar volgens NL-records (algemeen: bacteriële infecties incl. urineweginfecties) |
+| Voorspelde nieuwe indicatie | Punctate Epitheliale Keratoconjunctivitis |
+| TxGNN-voorspellingsscore | 99.57% |
+| Bewijsniveau | L5 |
+| NL-marktpositie | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Trimethoprim is a selective inhibitor of bacterial dihydrofolate reductase (DHFR), blocking the folate synthesis pathway essential for bacterial DNA replication. It is active against gram-positive organisms (particularly *Staphylococcus aureus* and *Streptococcus pneumoniae*) and selected gram-negative species such as *Haemophilus influenzae* — all of which are common causative agents of ocular surface infections. When combined with Polymyxin B (as in the marketed ophthalmic product Polytrim, approved in the USA), the formulation covers the principal pathogens of bacterial conjunctivitis.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van bekende farmacologie is Trimethoprim een selectieve remmer van bacteriële dihydrofolaat reductase (DHFR), die het folaat-synthesepad blokkeert dat essentieel is voor bacteriële DNA-replicatie. Het is actief tegen gram-positieve micro-organismen (vooral *Staphylococcus aureus* en *Streptococcus pneumoniae*) en geselecteerde gram-negatieve soorten zoals *Haemophilus influenzae* — allemaal veel voorkomende oorzaakagenten van oogoppervlakinfecties. In combinatie met Polymyxine B (zoals in het op de markt gebrachte oogheelkundige product Polytrim, goedgekeurd in de VS), bestrijkt de formulering de belangrijkste ziekteverwekkers van bacteriële conjunctivitis.
 
-Punctate epithelial keratoconjunctivitis (PEK) is a distinct clinical entity, predominantly of viral (adenoviral) aetiology, presenting as diffuse punctate lesions on the corneal epithelium and conjunctiva. The high TxGNN score (99.57%, rank 933) most plausibly reflects **disease-graph proximity** between PEK and bacterial conjunctivitis rather than a direct pharmacological link: within the knowledge graph, both conditions share the ocular surface as a disease locus, and bacterial conjunctivitis has well-documented clinical evidence for trimethoprim-containing ophthalmic preparations.
+Punctate epitheliale keratoconjunctivitis (PEK) is een onderscheiden klinische entiteit, voornamelijk van virale (adenovirale) etiologie, zich presenterende als diffuse puntachtige laesies op het cornea-epithelium en de conjunctiva. De hoge TxGNN-score (99.57%, rang 933) weerspiegelt het meest waarschijnlijk **ziektegrafische nabijheid** tussen PEK en bacteriële conjunctivitis in plaats van een directe farmacologische link: binnen de kennisgraaf delen beide aandoeningen het oogoppervlak als ziekteslocus, en bacteriële conjunctivitis heeft goed gedocumenteerde klinische bewijzen voor trimethoprim-bevattende oogheelkundige preparaten.
 
-Critically, however, there is no established mechanism by which Trimethoprim would address the primary adenoviral driver of PEK, nor any preclinical data suggesting anti-inflammatory or antiviral activity relevant to this condition. The prediction should be treated as hypothesis-generating until mechanistic or empirical evidence emerges.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for punctate epithelial keratoconjunctivitis.
+Cruciaal is echter dat er geen vastgesteld mechanisme is waardoor Trimethoprim het primaire adenovirale drijfveer van PEK zou aanpakken, noch enige preclinische gegevens die anti-inflammatoire of antivirale activiteit relevant voor deze aandoening suggereren. De voorspelling moet worden behandeld als hypothesegenerend totdat mechanistisch of empirisch bewijs naar voren komt.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-Currently no related literature available for punctate epithelial keratoconjunctivitis.
-
----
-
-## Netherlands Market Information
-
-No marketing authorizations (RVG numbers) for Trimethoprim are recorded in this dataset for the Netherlands.
-
-> **Note for reviewers:** Trimethoprim and co-trimoxazole (trimethoprim/sulfamethoxazole) formulations are in clinical use across Europe, including ophthalmic preparations (e.g., Polytrim eye drops). The absence of records here likely reflects a data gap in the current Evidence Pack rather than an actual absence of Dutch registrations. CBG-MEB records should be consulted directly to confirm current authorization status before drawing regulatory conclusions.
+Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd voor punctate epitheliale keratoconjunctivitis.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for complete safety information, including warnings, contraindications, and drug interactions. No safety data is available in the current Evidence Pack.
+Momenteel is er geen gerelateerde literatuur beschikbaar voor punctate epitheliale keratoconjunctivitis.
 
 ---
 
-## Conclusion and Next Steps
+## Marktinformatie Nederland
 
-**Decision: Hold**
+Geen verhandelingsautorisaties (RVG-nummers) voor Trimethoprim zijn in deze dataset voor Nederland geregistreerd.
 
-**Rationale:**
-Despite a very high TxGNN prediction score, the evidence base for Trimethoprim in punctate epithelial keratoconjunctivitis is entirely absent (Evidence Level L5 — model prediction only). PEK's predominantly viral aetiology does not align with Trimethoprim's antibacterial mechanism of action, and the high score is best interpreted as an artifact of disease-graph proximity to bacterial conjunctivitis rather than a clinically actionable signal.
+> **Opmerking voor beoordelaars:** Trimethoprim- en co-trimoxazol (trimethoprim/sulfamethoxazool)-formulaties zijn in klinisch gebruik in heel Europa, inclusief oogheelkundige preparaten (bijv. Polytrim-oogdruppels). De afwezigheid van records hier weerspiegelt waarschijnlijk een gegevensgat in het huidige Evidence Pack in plaats van een werkelijke afwezigheid van Nederlandse registraties. CBG-MEB-records moeten rechtstreeks worden geraadpleegd om de huidige autorisatiestatus te bevestigen alvorens regelgevingsconclusies te trekken.
 
-**To proceed, the following is needed:**
+---
 
-- **Mechanistic validation**: Clarify whether Trimethoprim (or host DHFR inhibition) has any relevance to adenoviral PEK pathophysiology, or whether the prediction could instead support use in PEK with confirmed bacterial superinfection
-- **Preclinical data**: In vitro or animal model studies specifically addressing trimethoprim activity in PEK
-- **Disease stratification**: Assess whether a subgroup of PEK with documented bacterial secondary infection might represent a more tractable indication for trimethoprim-based ophthalmic therapy
-- **NL regulatory verification**: Confirm current CBG-MEB authorization status for Trimethoprim and related ophthalmic formulations via direct registry query
-- **SmPC review**: Obtain the full SmPC to complete the safety profile, particularly regarding ophthalmic use and known contraindications
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie, inclusief waarschuwingen, contra-indicaties en medicijninteracties. Geen veiligheidgegevens zijn beschikbaar in het huidige Evidence Pack.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: In afwachting**
+
+**Grondslag:**
+Ondanks een zeer hoge TxGNN-voorspellingsscore is het bewijsgrondslag voor Trimethoprim in punctate epitheliale keratoconjunctivitis volledig afwezig (Bewijsniveau L5 — alleen modelvoorspelling). De voornamelijk virale etiologie van PEK sluit niet aan bij het antibacterieel werkingsmechanisme van Trimethoprim, en de hoge score wordt het best geïnterpreteerd als een artefact van ziektegrafische nabijheid tot bacteriële conjunctivitis in plaats van een klinisch relevant signaal.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Mechanistische validatie**: Verduidelijken of Trimethoprim (of gastheer-DHFR-remming) enige relevantie heeft voor adenovirale PEK-pathofysiologie, of of de voorspelling in plaats daarvan zou kunnen ondersteunen voor gebruik in PEK met bevestigde bacteriële superinfectie
+- **Preclinische gegevens**: In vitro- of diermodellen specifiek gericht op trimethoprim-activiteit in PEK
+- **Ziektestratificatie**: Beoordeel of een subgroep van PEK met gedocumenteerde bacteriële secundaire infectie een meer hanteerbare indicatie voor trimethoprim-gebaseerde oogheelkundige therapie zou kunnen vertegenwoordigen
+- **NL-regelgeving verificatie**: Bevestig huidige CBG-MEB-autorisatiestatus voor Trimethoprim en gerelateerde oogheelkundige formulaties via directe registerquery
+- **SmPC-beoordeling**: Verkrijg de volledige SmPC om het veiligheidsprofiel aan te vullen, vooral met betrekking tot oogheelkundig gebruik en bekende contra-indicaties
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,118 +29,117 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
----
+# Hyaluronidase: van spreidiingsmiddel tot diabetische retinopathie
 
-# Hyaluronidase: From Spreading Adjuvant to Diabetic Retinopathy
+## Samenvatting in één zin
 
-## One-Sentence Summary
+Hyaluronidase is een enzym dat hyaluronzuur in de extracellulaire matrix afbreekt, klinisch gebruikt als spreidiingsmiddel voor lokale anesthetica en als opheffingsmiddel voor hyaluronzuur-bevattende dermale vullers.
+Het TxGNN-model identificeert **diabetische retinopathie** als kandidaat voor vernieuwde toepassing met het sterkste bewijs, ondersteund door **4 klinische onderzoeken** — waaronder 2 afgeronde fase 3 RCT's met gezamenlijk 1.260 patiënten — en **20 publicaties** die het gebruik voor opheldering van vitreale bloeding via farmacologische vitreolyse ondersteunen.
+Een oftalmische formulering (Vitrase, schaaps-hyaluronidase) heeft al pivotale onderzoeken in de Verenigde Staten voltooid, hoewel het middel **niet in Nederland is geregistreerd**.
 
-Hyaluronidase is an enzyme that degrades hyaluronic acid in the extracellular matrix, clinically used as a spreading adjuvant for local anaesthetics and as a reversal agent for hyaluronic acid-based dermal fillers.
-The TxGNN model identifies **diabetic retinopathy** as the highest-evidence repurposing candidate, backed by **4 clinical trials** — including 2 completed Phase 3 RCTs enrolling a combined 1,260 patients — and **20 publications** supporting its use for vitreous haemorrhage clearance via pharmacological vitreolysis.
-An ophthalmic formulation (Vitrase, ovine hyaluronidase) has already completed pivotal trials in the United States, though the drug remains **unregistered in the Netherlands**.
-
-> **Note on primary indication selection**: The highest TxGNN score belongs to esotropia (99.89%, rank #331 among all disease nodes), but expert review identifies this as a likely false positive — the sole supporting publication (PMID 16934027) describes hyaluronidase as an anaesthetic adjuvant implicated in post-operative strabismus as a complication, not as a treatment. Diabetic retinopathy (TxGNN score 99.71%, rank #708) is selected as the primary focus of this report on the basis of its **L1 evidence profile** and highest actionability.
+> **Opmerking bij de selectie van de primaire indicatie**: De hoogste TxGNN-score behoort toe aan esotropie (99.89%, rang #331 onder alle ziekte-knooppunten), maar deskundig onderzoek identificeert dit als vals positief — de enige ondersteunende publicatie (PMID 16934027) beschrijft hyaluronidase als anesthesia-bijstof die betrokken is bij post-operatieve strabismus als complicatie, niet als behandeling. Diabetische retinopathie (TxGNN-score 99.71%, rang #708) is geselecteerd als primaire focus van dit rapport op basis van het **L1-bewijsniveau** en de hoogste praktische toepasbaarheid.
 
 ---
 
-## Quick Overview
+## Snel overzicht
 
-| Item | Content |
+| Onderdeel | Inhoud |
 |------|---------|
-| Original Indication | Adjuvant to increase absorption and dispersion of injected drugs or subcutaneous fluids (spreading agent) |
-| Predicted New Indication | Diabetic Retinopathy — vitreous haemorrhage clearance via intravitreal pharmacological vitreolysis |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L1 |
-| NL Market Status | Not registered (geen RVG-registratie) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Oorspronkelijke indicatie | Bijstof ter verbetering van absorptie en verspreiding van geïnjecteerde geneesmiddelen of subcutane vloeistoffen (spreidiingsmiddel) |
+| Voorspelde nieuwe indicatie | Diabetische retinopathie — opheldering van vitreale bloeding via intravitraal farmacologische vitreolyse |
+| TxGNN-voorspellingsscore | 99.71% |
+| Bewijsniveau | L1 |
+| Status op Nederlandse markt | Niet geregistreerd (geen RVG-registratie) |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Doorgaan met voorzorgsmaatregelen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Hyaluronidase is an enzyme that cleaves the glycosidic bonds of hyaluronic acid (HA) — a high-molecular-weight glycosaminoglycan that forms the structural backbone of the vitreous gel. When injected intravitreally, hyaluronidase promotes **pharmacological vitreolysis**: enzymatic liquefaction of the vitreous, followed by complete posterior vitreous detachment (PVD) — separation of the vitreous cortex from the inner surface of the retina. This is the core mechanism underlying the Vitrase programme.
+Hyaluronidase is een enzym dat de glycosidische bindingen van hyaluronzuur (HA) afbreekt — een hogegewicht glycosaminoglycaan dat de structurele basis vormt van het glasachtig lichaam. Bij intravitraal injecteren bevordert hyaluronidase **farmacologische vitreolyse**: enzymatische vloeibaarmakking van het glasachtig lichaam, gevolgd door volledige posterieure vitreale aflossing (PVD) — scheiding van de vitreale cortex van het binnenoppervlak van het netvlies. Dit is het kernmechanisme van het Vitrase-programma.
 
-In diabetic retinopathy (DR), the vitreo-retinal interface is a central site of pathology. Proliferative DR drives formation of fragile neovascular membranes at the vitreo-retinal junction; rupture of these vessels produces vitreous haemorrhage (VH), causing sudden and often severe visual loss. A 2026 mechanistic study (PMID 41789111) confirmed that the HA pathway is directly dysregulated in the proliferative DR microenvironment — with altered expression of HA synthase-2, Hyal-1, Hyal-2, CD44, and RHAMM driving local inflammation and pathological angiogenesis. This provides molecular-level evidence that hyaluronidase is not merely an empirical choice, but targets a documented pathological substrate.
+Bij diabetische retinopathie (DR) is de vitreo-retinale interface een centraal plaats van pathologie. Proliferatieve DR leidt tot vorming van fragiele neovasculaire membranen op de vitreo-retinale grens; scheuring van deze bloedvaten veroorzaakt vitreale bloeding (VH), wat plotseling en vaak ernstig zichtverlies veroorzaakt. Een 2026 mechanistische studie (PMID 41789111) bevestigde dat het HA-pathway rechtstreeks dysgereguleerd is in de proliferatieve DR-microomgeving — met veranderde expressie van HA synthase-2, Hyal-1, Hyal-2, CD44 en RHAMM die lokale ontsteking en pathologische angiogenese aansturen. Dit biedt bewijs op moleculair niveau dat hyaluronidase niet alleen een empirische keuze is, maar een gedocumenteerd pathologisch substraat aanpakt.
 
-The current standard of care for VH is pars plana vitrectomy — an invasive surgical procedure associated with risks of endophthalmitis, cataract formation, and retinal detachment. Intravitreal ovine hyaluronidase (Vitrase; ISTA Pharmaceuticals) was developed as a pharmacological alternative, completing two large Phase 3 RCTs in the United States with a combined enrolment of 1,260 patients. It is important to define the indication precisely: the Phase 3 trials targeted **vitreous haemorrhage secondary to diabetic retinopathy**, not direct reversal of retinopathy progression itself. Any CBG-MEB dossier should reflect this distinction.
+De huidge standaardbehandeling voor VH is pars plana vitrectomie — een invasieve chirurgische procedure geassocieerd met risico's van endoftalmitis, cataractvorming en netvliesloslating. Intravitraal schaaps-hyaluronidase (Vitrase; ISTA Pharmaceuticals) werd ontwikkeld als farmacologisch alternatief, met voltooiing van twee grote fase 3 RCT's in de Verenigde Staten met gezamenlijke inclusie van 1.260 patiënten. Het is belangrijk om de indicatie nauwkeurig te definiëren: de fase 3-onderzoeken richtten zich op **vitreale bloeding secundair aan diabetische retinopathie**, niet op directe omkering van retinopathie-progressie zelf. Elk CBG-MEB-dossier moet deze onderscheiding weerspiegelen.
 
 ---
 
-## Clinical Trial Evidence
+## Bewijs uit klinische onderzoeken
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00198510](https://clinicaltrials.gov/study/NCT00198510) | Phase 3 | Completed | 750 | Pivotal RCT — intravitreal Vitrase (ovine hyaluronidase) for clearance of severe vitreous haemorrhage; registration-quality evidence for the DR–VH indication |
-| [NCT00198497](https://clinicaltrials.gov/study/NCT00198497) | Phase 3 | Completed | 510 | Confirmatory Phase 3 RCT — same indication; completed June 2003; together with NCT00198510 forms the L1 evidence core |
-| [NCT00198471](https://clinicaltrials.gov/study/NCT00198471) | Phase 2 | Completed | 10 | Open-label pilot — intravitreous Vitrase for inducing PVD in moderate-to-severe non-proliferative DR; small sample limits conclusions but establishes feasibility |
-| [NCT04311606](https://clinicaltrials.gov/study/NCT04311606) | Phase 2 | Completed | 11 | Sub-tenon aflibercept ± hyaluronidase in acute Thyroid Eye Disease (AcTED Study) — retrieved due to ophthalmology indexing overlap; **not counted as DR-specific evidence** |
+| [NCT00198510](https://clinicaltrials.gov/study/NCT00198510) | Fase 3 | Voltooid | 750 | Pivotataal RCT — intravitraal Vitrase (schaaps-hyaluronidase) voor opheldering van ernstige vitreale bloeding; registratiekwaliteit bewijs voor de DR–VH indicatie |
+| [NCT00198497](https://clinicaltrials.gov/study/NCT00198497) | Fase 3 | Voltooid | 510 | Bevestigende fase 3 RCT — dezelfde indicatie; voltooid juni 2003; vormt samen met NCT00198510 de L1-bewijskern |
+| [NCT00198471](https://clinicaltrials.gov/study/NCT00198471) | Fase 2 | Voltooid | 10 | Open-label pilot — intravitraal Vitrase voor inductie van posterieure vitreale aflossing bij matig tot ernstige niet-proliferatieve diabetische retinopathie; kleine steekproef beperkt conclusies maar stelt haalbaarheid vast |
+| [NCT04311606](https://clinicaltrials.gov/study/NCT04311606) | Fase 2 | Voltooid | 11 | Sub-tenonaflibeercept ± hyaluronidase bij acute Thyroid Eye Disease (AcTED Study) — opgehaald vanwege oogheelkunde-indexeringsoverlap; **niet meegeteld als DR-specifiek bewijs** |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [41789111](https://pubmed.ncbi.nlm.nih.gov/41789111/) | 2026 | Basic Science | Frontiers in Immunology | HA pathway enzymes (Hyal-1, Hyal-2) and receptors (CD44, RHAMM) are directly dysregulated in the vitreous of proliferative DR patients — molecular confirmation of HA as a therapeutic target |
-| [20939804](https://pubmed.ncbi.nlm.nih.gov/20939804/) | 2011 | Review | Curr Pharmaceutical Biotechnology | Pharmacological vitreolysis review: intravitreal ovine hyaluronidase shown effective for VH clearance; PVD induction summarised as emerging DR management strategy |
-| [23847321](https://pubmed.ncbi.nlm.nih.gov/23847321/) | 2013 | Basic Science | Invest Ophthalmol Vis Sci | Enzyme-induced complete PVD alleviates DR progression via HIF-1α pathway suppression — mechanistic basis for neuroprotective effect of vitreolysis |
-| [19199900](https://pubmed.ncbi.nlm.nih.gov/19199900/) | 2009 | Review | Current Diabetes Reviews | Enzymatic vitreolysis review: vitreo-retinal interface role in proliferative DR and macular oedema; hyaluronidase pharmacology detailed alongside other vitreolytic agents |
-| [19050667](https://pubmed.ncbi.nlm.nih.gov/19050667/) | 2009 | Animal Study | Retina | Plasmin + hyaluronidase combination induces PVD in diabetic rats — in vivo preclinical confirmation of vitreolytic efficacy |
-| [17245084](https://pubmed.ncbi.nlm.nih.gov/17245084/) | 2007 | Review | Developments in Ophthalmology | Pharmacological vitreolysis overview — incomplete PVD and attached vitreous cortex directly linked to DR and maculopathy progression; rationale for PVD induction articulated |
-| [19644368](https://pubmed.ncbi.nlm.nih.gov/19644368/) | 2009 | Review | Current Opinion in Ophthalmology | Changing paradigms in DR treatment: pharmacological vitreolysis positioned within evolving treatment landscape including anti-VEGF and surgical options |
-| [12757408](https://pubmed.ncbi.nlm.nih.gov/12757408/) | 2003 | Drug Profile | Drugs in R&D | Vitrase (ovine hyaluronidase) product profile — mechanism, clinical development history, and positioning for vitreous haemorrhage and diabetic retinopathy |
-| [30445048](https://pubmed.ncbi.nlm.nih.gov/30445048/) | 2019 | Animal Study | Experimental Eye Research | Diabetes and exogenous hyaluronidase jointly alter retinal endothelial glycocalyx thickness in Akita mice — translational mechanistic evidence for retinal HA dynamics |
-| [17713597](https://pubmed.ncbi.nlm.nih.gov/17713597/) | 2007 | Review | Experimental Diabetes Research | DR pharmacotherapy landscape: intravitreal agents including hyaluronidase discussed in context of completed and ongoing trials; clinical context established |
+| [41789111](https://pubmed.ncbi.nlm.nih.gov/41789111/) | 2026 | Basale wetenschap | Frontiers in Immunology | HA-pathway enzymen (Hyal-1, Hyal-2) en receptoren (CD44, RHAMM) zijn rechtstreeks dysgereguleerd in het glasachtig lichaam van patiënten met proliferatieve diabetische retinopathie — moleculaire bevestiging van HA als therapeutisch doel |
+| [20939804](https://pubmed.ncbi.nlm.nih.gov/20939804/) | 2011 | Overzicht | Curr Pharmaceutical Biotechnology | Farmacologische vitreolyse overzicht: intravitraal schaaps-hyaluronidase aangetoond effectief voor opheldering van vitreale bloeding; inductie van posterieure vitreale aflossing samengevat als opkomende DR-managementstrategie |
+| [23847321](https://pubmed.ncbi.nlm.nih.gov/23847321/) | 2013 | Basale wetenschap | Invest Ophthalmol Vis Sci | Enzym-geïnduceerde volledige posterieure vitreale aflossing verzacht DR-progressie via HIF-1α-pathway-onderdrukking — mechanistisch basis voor neuroprotectief effect van vitreolyse |
+| [19199900](https://pubmed.ncbi.nlm.nih.gov/19199900/) | 2009 | Overzicht | Current Diabetes Reviews | Enzymatische vitreolyse overzicht: rol van de vitreo-retinale interface bij proliferatieve diabetische retinopathie en macula-oedeem; hyaluronidase-farmacologie gedetailleerd naast andere vitreolyse-agentia |
+| [19050667](https://pubmed.ncbi.nlm.nih.gov/19050667/) | 2009 | Dierproef | Retina | Plasmine + hyaluronidase combinatie induceert posterieure vitreale aflossing in diabetische ratten — in vivo preclinische bevestiging van vitreolyse-efficaciteit |
+| [17245084](https://pubmed.ncbi.nlm.nih.gov/17245084/) | 2007 | Overzicht | Developments in Ophthalmology | Farmacologische vitreolyse overzicht — onvolledige posterieure vitreale aflossing en aangehechte vitreale cortex rechtstreeks gekoppeld aan diabetische retinopathie en maculopathie-progressie; rationale voor posterieure vitreale aflossing-inductie uiteengezet |
+| [19644368](https://pubmed.ncbi.nlm.nih.gov/19644368/) | 2009 | Overzicht | Current Opinion in Ophthalmology | Veranderende paradigma's in diabetische retinopathie-behandeling: farmacologische vitreolyse gepositioneerd binnen evoluerend behandellandschap inclusief anti-VEGF en chirurgische opties |
+| [12757408](https://pubmed.ncbi.nlm.nih.gov/12757408/) | 2003 | Geneesmiddelprofiel | Drugs in R&D | Vitrase (schaaps-hyaluronidase) productprofiel — mechanisme, klinische ontwikkelingsgeschiedenis, en positionering voor vitreale bloeding en diabetische retinopathie |
+| [30445048](https://pubmed.ncbi.nlm.nih.gov/30445048/) | 2019 | Dierproef | Experimental Eye Research | Diabetes en exogene hyaluronidase veranderen gezamenlijk de dikte van netvliesendotheelglycocalyx in Akita-muizen — translatiebewijzen voor netvlies-HA-dynamiek |
+| [17713597](https://pubmed.ncbi.nlm.nih.gov/17713597/) | 2007 | Overzicht | Experimental Diabetes Research | Landschap van diabetische retinopathie-farmacotherapie: intravitraal agentia inclusief hyaluronidase besproken in context van voltooid en lopende proeven; klinische context vastgesteld |
 
 ---
 
-## Netherlands Market Information
+## Marktinformatie Nederland
 
-Hyaluronidase currently holds **no marketing authorisations** with the CBG-MEB. There are no RVG numbers on record and no registered products in the Netherlands.
+Hyaluronidase heeft momenteel **geen vergunningen voor het in de handel brengen** bij de CBG-MEB. Er zijn geen RVG-nummers op record en geen geregistreerde producten in Nederland.
 
-Clinicians or sponsors seeking to use hyaluronidase in the Dutch healthcare system would need to explore one of the following regulatory pathways:
+Clinici of sponsors die hyaluronidase in het Nederlandse zorgstelsel willen gebruiken, zouden een van de volgende regelgevingsroutes moeten onderzoeken:
 
-- **Named-patient basis** (Article 3.17, Geneesmiddelenwet): for individual patients under specialist supervision, with documented medical need
-- **Compassionate use programme**: via formal application to CBG-MEB, supported by clinical evidence
-- **Full marketing authorisation**: via the centralised EMA procedure (recommended given the pan-European DR patient population) or the national CBG-MEB procedure
+- **Named-patient basis** (Artikel 3.17, Geneesmiddelenwet): voor individuele patiënten onder specialistisch toezicht, met gedocumenteerde medische noodzaak
+- **Compassionate use programma**: via formele aanvraag bij CBG-MEB, ondersteund door klinisch bewijs
+- **Volledige vergunning voor het in de handel brengen**: via de gecentraliseerde EMA-procedure (aanbevolen gezien de pan-Europese DR-patiëntenpopulatie) of de nationale CBG-MEB-procedure
 
-> Vitrase (ovine hyaluronidase) received FDA approval in the United States for ophthalmic use. Its European regulatory status should be independently verified with the EMA and CBG-MEB before any clinical use in the Netherlands.
-
----
-
-## Safety Considerations
-
-All safety fields in the Evidence Pack are marked as unavailable (no NL SmPC on record). The following information is supplemented from the clinical trial and literature evidence retrieved:
-
-**Allergic reactions**: Hyaluronidase allergy has been documented since 1984 and is frequently misdiagnosed (PMID 37145319, 2024 safety review in *Aesthetic Plastic Surgery*). Risk factors include prior exposure and bee/wasp venom sensitivity. Skin sensitivity testing prior to intravitreal or intradermal administration is advisable, particularly for ovine-derived preparations (Vitrase).
-
-**Immunogenicity of ovine formulation**: Ovine (sheep-derived) hyaluronidase may carry higher allergenic potential than recombinant human hyaluronidase (rHuPH20; Hylenex). Product selection should account for this when preparing a Dutch-market risk management plan.
-
-**Intravitreal injection risks**: Standard risks of intraocular administration apply — endophthalmitis, rhegmatogenous retinal detachment, acute intraocular pressure elevation, and traumatic lens injury. These must be addressed in any Dutch-specific risk minimisation programme.
-
-**Spreading effect on co-administered agents**: When used as an adjuvant, hyaluronidase enhances tissue absorption of co-administered drugs. Dose adjustments for local anaesthetics may be required. No formal drug interaction data was identified in the queried database.
-
-Please refer to the Vitrase US label and any available rHuPH20 SmPC for comprehensive safety information. An EU-compliant SmPC (Samenvatting van de Productkenmerken) and PIL (Bijsluiter) will be required prior to any CBG-MEB registration application.
+> Vitrase (schaaps-hyaluronidase) ontving FDA-goedkeuring in de Verenigde Staten voor oogheelkundig gebruik. De Europese regelgevingsstatus ervan moet onafhankelijk worden geverifieerd bij de EMA en CBG-MEB vóór enig klinisch gebruik in Nederland.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Alle veiligheidsvelden in het Evidence Pack zijn gemarkeerd als niet beschikbaar (geen Nederlandse SmPC op record). De volgende informatie is aangevuld vanuit het klinische onderzoeks- en literatuurbewijs dat is opgehaald:
+
+**Allergische reacties**: Hyaluronidase-allergie is sinds 1984 gedocumenteerd en wordt vaak foutief gediagnosticeerd (PMID 37145319, veiligheidsoverzicht uit 2024 in *Aesthetic Plastic Surgery*). Risicofactoren zijn onder meer eerdere blootstelling en gevoeligheid voor bij- of wesp-gif. Huidgevoeligheidstesting voorafgaand aan intravitraal of intradermaal gebruik is raadzaam, vooral voor preparaten van schapenoorsprong (Vitrase).
+
+**Immunogeniteit van schapenformulering**: Schaaps-hyaluronidase kan een hoger allergeen potentieel hebben dan recombinante humane hyaluronidase (rHuPH20; Hylenex). Productkeuze moet dit in acht nemen bij het opstellen van een risicobeheerplan voor de Nederlandse markt.
+
+**Risico's van intravitraal injecteren**: Standaardrisico's van intraoculaire toediening gelden — endoftalmitis, rhegmatogene netvliesloslating, acute intraoculaire drukverhoging en traumatisch lensletsel. Deze moeten worden aangepakt in elk Nederlands specifiek risicominimersingsprogramma.
+
+**Verspreiding effect op mede-toegediende middelen**: Bij gebruik als bijstof verbetert hyaluronidase de absorptie van mede-toegediende geneesmiddelen in weefsels. Dosisaanpassingen voor lokale anesthetica kunnen nodig zijn. Er zijn geen formele geneesmiddel-interactiegegevens in de ondervraagde database gevonden.
+
+Raadpleeg alstublieft het Vitrase US-etiket en alle beschikbare rHuPH20 SmPC voor uitgebreide veiligheidsinformatie. Een EU-conforme SmPC (Samenvatting van de Productkenmerken) en PIL (Bijsluiter) zijn vereist vóór enige CBG-MEB-registratieaanvraag.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Doorgaan met voorzorgsmaatregelen**
 
 **Rationale:**
-Two completed Phase 3 RCTs (combined n=1,260) provide robust L1 evidence for intravitreal hyaluronidase in clearing vitreous haemorrhage secondary to diabetic retinopathy, supported by a well-established pharmacological mechanism (HA degradation → vitreous liquefaction → PVD induction) and a 2026 molecular study directly implicating the HA pathway in DR pathogenesis. The drug is not currently registered in the Netherlands, and EU regulatory groundwork has not been laid — these are the primary barriers, not the clinical evidence.
+Twee afgeronde fase 3 RCT's (gezamenlijk n=1.260) leveren robuust L1-bewijs voor intravitraal hyaluronidase voor opheldering van vitreale bloeding secundair aan diabetische retinopathie, ondersteund door een goed vastgesteld farmacologisch mechanisme (HA-afbraak → vitreale liquefactie → posterieure vitreale aflossing-inductie) en een 2026-moleculair onderzoek dat direct het HA-pathway in diabetische retinopathie-pathogenese impliceren. Het middel is momenteel niet geregistreerd in Nederland, en EU-regelgevingsgrondwerk is nog niet gelegd — dit zijn de primaire barrières, niet het klinische bewijs.
 
-**To proceed, the following is needed:**
+**Om door te gaan, is het volgende nodig:**
 
-- **Regulatory pathway analysis**: Determine whether a centralised EMA procedure or national CBG-MEB procedure is appropriate; check EMA EPAR database for any existing or lapsed EU applications for Vitrase or rHuPH20
-- **Clinical study report review**: Obtain full CSRs for NCT00198510 and NCT00198497 to evaluate primary endpoint data (VH clearance rates, best-corrected visual acuity at 3 and 6 months) and complete safety profiles
-- **Indication scoping**: Define the NL label indication precisely as *"vitreous haemorrhage secondary to diabetic retinopathy"*, not broad DR — this aligns with Phase 3 evidence and mitigates off-label extension risk
-- **Formulation decision**: Evaluate ovine (Vitrase) versus recombinant human (rHuPH20) hyaluronidase based on immunogenicity, manufacturing availability, and regulatory preference in the EU context
-- **SmPC and PIL preparation**: Commission EU-compliant SmPC and Dutch-language Bijsluiter for CBG-MEB submission
-- **Pharmacovigilance plan**: Develop a Risk Management Plan (RMP) per EMA/GVP Module V, addressing allergic reactions, intravitreal injection risks, and immunogenicity monitoring
-- **Reimbursement assessment**: Engage Zorginstituut Nederland (ZIN) early on cost-effectiveness versus current standard of care (pars plana vitrectomy), given the minimally invasive nature of intravitreal injection as a potential advantage
+- **Regelgevingspad-analyse**: Bepaal of een gecentraliseerde EMA-procedure of nationale CBG-MEB-procedure geschikt is; controleer de EMA EPAR-database op bestaande of vervallen EU-toepassingen voor Vitrase of rHuPH20
+- **Klinische studierapporten beoordeling**: Verkrijg volledige CSR's voor NCT00198510 en NCT00198497 om primaire eindpuntgegevens (vitreale bloeding-ophelderingscijfers, best-gecorrigeerde gezichtsscherpte op 3 en 6 maanden) en volledige veiligheidsprofiel te evalueren
+- **Indicatie-afbakening**: Definieer de Nederlandse labelicatie precies als *"vitreale bloeding secundair aan diabetische retinopathie"*, niet brede diabetische retinopathie — dit sluit aan op fase 3-bewijs en beperkt off-label verlengingsrisico
+- **Formuleringsbesluit**: Evalueer schaaps- (Vitrase) versus recombinante humane (rHuPH20) hyaluronidase op basis van immunogeniteit, beschikbaarheid van productie, en regelgevingsvoorkeur in de EU-context
+- **SmPC en PIL voorbereiding**: Commissie EU-conforme SmPC en Nederlandse Bijsluiter voor CBG-MEB-indiening
+- **Farmacovigilantieplan**: Ontwikkel een Risicobeheersplan (RMP) volgens EMA/GVP Module V, aangaande allergische reacties, risico's van intravitraal injecteren, en immunogeniteitsbewaking
+- **Terugbetalingsevaluatie**: Betrek Zorginstituut Nederland (ZIN) vroegtijdig bij cost-effectivenessanalyse versus huidge standaardbehandeling (pars plana vitrectomie), gezien de minimaal invasieve aard van intravitraal injecteren als potentieel voordeel
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

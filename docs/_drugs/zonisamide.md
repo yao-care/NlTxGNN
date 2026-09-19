@@ -29,83 +29,80 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-The txgnn-pipeline skill confirms this is a report generation task for the NL deployment. The system prompt provides the complete format specification. Proceeding directly with the report.
+# Zonisamide: van partiële aanvallen naar Tourette-syndroom
+
+## Samenvatting in één zin
+
+Zonisamide is een antiepilepticummiddel van de derde generatie, internationaal goedgekeurd als aanvullende therapie voor partiële aanvallen bij volwassenen (verhandeld als Zonegran onder EMA-centralisatie).
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Tourette-syndroom**,
+met momenteel **0 klinische onderzoeken** en **0 publicaties** die deze richting ondersteunen.
 
 ---
 
-# Zonisamide: From Partial Seizures to Tourette Syndrome
+## Snel overzicht
 
-## One-Sentence Summary
-
-Zonisamide is a third-generation antiepileptic drug internationally approved as adjunctive therapy for partial seizures in adults (marketed as Zonegran under EMA central authorisation).
-The TxGNN model predicts it may be effective for **Tourette Syndrome**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; internationally approved for adjunctive treatment of partial seizures in adults |
-| Predicted New Indication | Tourette Syndrome |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet geregistreerd in Nederland; internationaal goedgekeurd voor aanvullende behandeling van partiële aanvallen bij volwassenen |
+| Voorspelde nieuwe indicatie | Tourette-syndroom |
+| TxGNN-voorspellingsscore | 99.85% |
+| Bewijsniveau | L5 |
+| NL-marktstatus | Niet geregistreerd |
+| Aantal marktvergunningen | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Zonisamide is a benzisoxazole sulfonamide antiepileptic drug. Its efficacy in partial and generalised seizures has been established across multiple international clinical programmes, and mechanistically it may be applicable to Tourette Syndrome through its dopaminergic and serotonergic modulatory properties — the same neurotransmitter systems targeted by first-line tic pharmacotherapy (e.g., aripiprazole, haloperidol).
+Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in dit bewijspakket. Op basis van bekende informatie is zonisamide een benzisoxazole-sulfonamide-antiepilepticummiddel. De werkzaamheid ervan bij partiële en gegeneraliseerde aanvallen is aangetoond in meerdere internationale klinische programma's, en mechanistisch kan het toepasselijk zijn voor Tourette-syndroom door zijn dopaminerge en serotonerge modulatoire eigenschappen — dezelfde neurotransmittersystemen die worden gericht door eerstelijns-ticremmende middelen (bijv. aripiprazol, haloperidol).
 
-Tourette Syndrome involves dysregulation of the basal ganglia–cortical dopaminergic circuit and insufficient GABAergic inhibition. Zonisamide's weak dopamine-modulating activity provides a theoretical foothold for the TxGNN prediction. However, it is important to note that this mechanistic link is indirect and speculative; no dedicated preclinical or clinical data exist to confirm tic-suppressing activity.
+Tourette-syndroom omvat dysregulatie van het dopaminerge basale ganglia-corticale circuit en onvoldoende GABAerge remming. De zwakke dopamine-modulatoire activiteit van zonisamide biedt een theoretische basis voor de TxGNN-voorspelling. Het is echter belangrijk op te merken dat deze mechanistische link indirect en speculatief is; er bestaan geen specifieke preklinische of klinische gegevens om ticremmende activiteit te bevestigen.
 
-A significant safety concern actively undermines this prediction: a 2022 pragmatic review (PMID 36005856, *Expert Review of Neurotherapeutics*) specifically identified antiseizure medications as potential triggers or aggravators of tic disorders — the very symptoms that define Tourette Syndrome. This bidirectional risk, combined with the complete absence of supporting evidence, means the harm–benefit balance cannot currently be assessed in favour of investigation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Een significant veiligheidsprobleem ondermijnt deze voorspelling actief: een pragmatisch review uit 2022 (PMID 36005856, *Expert Review of Neurotherapeutics*) identificeerde specifiek antiepilepticamiddelen als mogelijke triggerfactoren van tikstoornissen of als mogelijke verergering daarvan — precies de symptomen die Tourette-syndroom definiëren. Dit bidirectionele risico, gecombineerd met de volledige afwezigheid van ondersteunend bewijs, betekent dat de risico-batenverhouding momenteel niet in het voordeel van onderzoek kan worden beoordeeld.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Zonisamide currently holds **no marketing authorisations** with CBG-MEB and is not commercially available through the standard Dutch regulatory pathway.
-
-> Clinicians requiring access to zonisamide in the Netherlands should consult the CBG-MEB regarding compassionate use or hospital exemption procedures, or verify whether the EMA-centralised authorisation for Zonegran (partial seizures indication) confers current Dutch market access.
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijsmateriaal uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Zonisamide heeft momenteel **geen marktvergunningen** met CBG-MEB en is niet commercieel beschikbaar via de standaard Nederlandse regelgevingsverlening.
 
-**Rationale:**
-Evidence level L5 — no clinical trials and no publications support Zonisamide for Tourette Syndrome, and a published safety signal (PMID 36005856) indicates antiseizure medications may exacerbate tic disorders, directly conflicting with the therapeutic intent.
+> Clinici die toegang tot zonisamide in Nederland nodig hebben, moeten de CBG-MEB raadplegen over compassionate use of ziekenhuisvrijstellingsprocedures, of verifiëren of de EMA-gecentraliseerde vergunning voor Zonegran (indicatie partiële aanvallen) huidige Nederlandse markttogang verleent.
 
-**To proceed, the following is needed:**
-- Preclinical studies in validated tic-disorder animal models to establish basic proof-of-concept
-- Full MOA characterisation (via DrugBank API, flagged as Data Gap DG002) to confirm whether dopaminergic activity is sufficient and relevant for tic suppression
-- Formal pharmacovigilance assessment of the antiseizure-medication–tic-exacerbation risk (PMID 36005856) for Zonisamide specifically
-- CBG-MEB regulatory pathway consultation, since the drug is not registered in the Netherlands and any clinical programme would require a formal authorisation strategy
-- Download and parse the SmPC/PIL (flagged as Data Gap DG001) to resolve blocking safety gaps before any S1 safety pre-assessment can be initiated
+---
+
+## Veiligheidsbeschouwingen
+
+Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
+
+**Grondslag:**
+Bewijsniveau L5 — geen klinische onderzoeken en geen publicaties ondersteunen zonisamide voor Tourette-syndroom, en een gepubliceerd veiligheidssignaal (PMID 36005856) geeft aan dat antiepilepticamiddelen tikstoornissen kunnen verergeren, wat direct in strijd is met de therapeutische bedoeling.
+
+**Om door te gaan is het volgende nodig:**
+- Preklinische onderzoeken in gevalideerde diermodellen met tikstoornissen om basisproof-of-concept vast te stellen
+- Volledige MOA-karakterisering (via DrugBank API, gemarkeerd als Data Gap DG002) om te bevestigen of dopaminerge activiteit voldoende en relevant is voor ticremming
+- Formele farmacovigilantiebeoordeling van het antiepilepticamiddel-ticverslechteringsrisico (PMID 36005856) specifiek voor zonisamide
+- Raadpleging van het CBG-MEB regelgevingstraject, aangezien het geneesmiddel niet in Nederland is geregistreerd en elk klinisch programma een formele autorisatiestrategie zou vereisen
+- Download en analyse van de SmPC/PIL (gemarkeerd als Data Gap DG001) om blokkerende veiligheidslacunes op te lossen voordat enige S1 veiligheidspreevaluatie kan worden gestart
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

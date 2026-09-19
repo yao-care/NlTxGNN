@@ -29,109 +29,106 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. Now generating the report based on the Evidence Pack.
+# Tetrabenazine: van Chorea (Huntington-ziekte) naar Polycystische Nierziekte Type 3 met Polycystische Leverziekte
+
+## Samenvatting in één zin
+
+Tetrabenazine is een inhibitor van vesikulaire monoaminetransporter 2 (VMAT2), die internationaal (bijvoorbeeld FDA-goedgekeurd als Xenazine) wordt gebruikt voor chorea geassocieerd met Huntington-ziekte en andere hyperkinetische bewegingsstoornissen; het is momenteel niet geregistreerd in Nederland.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **polycystische nierziekte type 3 met of zonder polycystische leverziekte (PKD3/ADPKD-GANAB)**, met **0 klinische trials** en **20 achtergrondpublicaties** geïdentificeerd — hoewel geen van deze publicaties Tetrabenazine direct als behandeling voor deze aandoening onderzoekt.
+Over het geheel genomen betreft dit een voorspelling met lage betrouwbaarheid, gedreven door het model, zonder ondersteuning door biologische aannemelijkheid.
 
 ---
 
-# Tetrabenazine: From Chorea (Huntington's Disease) to Polycystic Kidney Disease 3 with Polycystic Liver Disease
+## Snelle Overzicht
 
-## One-Sentence Summary
-
-Tetrabenazine is a vesicular monoamine transporter 2 (VMAT2) inhibitor used internationally (e.g., FDA-approved Xenazine) for chorea associated with Huntington's disease and other hyperkinetic movement disorders; it is currently not registered in the Netherlands.
-The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease (PKD3/ADPKD-GANAB)**, with **0 clinical trials** and **20 background publications** identified — though none of these publications directly investigates Tetrabenazine as a treatment for this condition.
-Overall, this represents a low-confidence, model-driven prediction without biological plausibility support.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in the Netherlands regulatory database (drug not registered in NL; known internationally for Huntington's disease chorea) |
-| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet beschikbaar in de Nederlandse regelgevingsdatabase (medicijn niet geregistreerd in NL; internationaal bekend voor chorea bij Huntington-ziekte) |
+| Voorspelde nieuwe indicatie | Polycystische nierziekte type 3 met of zonder polycystische leverziekte |
+| TxGNN-voorspellingsscore | 99.90% |
+| Bewijsniveau | L5 |
+| Status op de NL-markt | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data was not available from the Dutch regulatory source for this review. Based on internationally available pharmacological information, Tetrabenazine inhibits VMAT2, the transporter responsible for packaging monoamine neurotransmitters (dopamine, serotonin, norepinephrine) into presynaptic vesicles. By depleting these stores, the drug reduces excessive dopaminergic transmission, which underlies the involuntary hyperkinetic movements seen in Huntington's disease and related conditions. Its efficacy in this neurological context is well established internationally, though no Dutch market authorizations exist.
+Gedetailleerde gegevens over het werkingsmechanisme waren niet beschikbaar uit de Nederlandse regelgevingsbron voor deze beoordeling. Op basis van internationaal beschikbare farmacologische informatie remt Tetrabenazine VMAT2, het transporterproteïne dat verantwoordelijk is voor het verpakken van monoamineneumotransmitters (dopamine, serotonine, noradrenaline) in presynaptische vesikels. Door deze voorraden uit te putten, vermindert het middel buitensporige dopaminerge transmissie, die ten grondslag ligt aan de onwillekeurige hyperkinetische bewegingen gezien bij Huntington-ziekte en verwante aandoeningen. De doeltreffendheid in deze neurologische context is internationaal goed vastgesteld, hoewel er geen Nederlandse marktautorisaties bestaan.
 
-Polycystic kidney disease type 3 (PKD3) is caused by mutations in the *GANAB* gene, which encodes a glucosidase involved in glycoprotein processing. This is a ciliopathy: defective glycoprotein maturation impairs primary cilia function, leading to dysregulated mTOR signalling and progressive cyst formation in the kidneys and liver. This disease mechanism is entirely distinct from monoamine neurotransmitter biology.
+Polycystische nierziekte type 3 (PKD3) wordt veroorzaakt door mutaties in het gen *GANAB*, dat codeert voor een glucosidase betrokken bij glucoproteïneverwerking. Dit is een ciliopathie: defecte glycoproteïnmaturatie verstoort de primaire ciliaire functie, wat leidt tot gedereguleerde mTOR-signalering en progressieve cystenvorming in de nieren en lever. Dit ziektemechanisme verschilt volledig van biologie van monoamineurotransmitters.
 
-There is currently no known biological intersection between VMAT2 inhibition or monoamine depletion and the mTOR/cystogenesis pathway central to PKD3 pathogenesis. The TxGNN model's high score (99.90%) most likely reflects network proximity effects in the knowledge graph — Tetrabenazine nodes sitting near rare nephropathy disease nodes — rather than any direct mechanistic rationale. Independent expert review of the mechanistic link confirms the absence of plausibility for this repurposing candidate at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Tetrabenazine in polycystic kidney disease 3 with or without polycystic liver disease.
+Er is momenteel geen bekend biologisch snijpunt tussen VMAT2-remming of monoamineverarming en het mTOR/cystogenese-pad dat centraal staat in de pathogenese van PKD3. De hoge score van het TxGNN-model (99.90%) weerspiegelt waarschijnlijk proximity-effecten in het kennisgraaf — Tetrabenazine-knopen dicht bij zeldzame nefropatieknooppunten — in plaats van enig direct mechanistisch rationale. Onafhankelijke deskundigenbeoordelingen van de mechanistische link bevestigen de afwezigheid van aannemelijkheid voor deze herbestemming op dit moment.
 
 ---
 
-## Literature Evidence
+## Klinisch trialbewijsmateriaal
 
-The 20 publications identified address the general diagnosis, genetics, pathophysiology, and management of polycystic kidney and liver disease. **None specifically investigates Tetrabenazine as a treatment for this condition.** These papers are presented as disease background only and do not constitute evidence for this repurposing direction.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Clinical Guideline | Am J Gastroenterology | ACG guideline on focal liver lesions; covers diagnosis and management of polycystic liver disease including cystic lesion surveillance |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Clinical Guideline | J Hepatology | EASL Clinical Practice Guidelines on cystic liver diseases; addresses polycystic liver disease, Caroli disease, and biliary hamartomas |
-| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | Lancet | Comprehensive ADPKD review; covers genetics, systemic manifestations (cysts, hypertension, intracranial aneurysms), and emerging therapies including tolvaptan |
-| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | JASN | Genetic complexity of ADPKD/ADPLD; describes 8 causative genes including *GANAB* (relevant to PKD3) and their phenotypic overlap |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Advances in Kidney Disease and Health | Detailed genetic spectrum of PKD/PLD; *PKD1* accounts for ~80% of patients; minor loci including *GANAB* discussed |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clinics in Liver Disease | ADPKD with polycystic liver disease; tolvaptan slows renal deterioration; management of symptomatic PLD |
-| [40081770](https://pubmed.ncbi.nlm.nih.gov/40081770/) | 2025 | Review | Biochemical Pharmacology | Extracellular matrix dynamics and MMP activity in ADPKD/ARPKD as novel therapeutic targets; fibrosis-cyst interaction |
-| [37208103](https://pubmed.ncbi.nlm.nih.gov/37208103/) | 2023 | Review | J Hepatology | Combined liver-kidney transplantation in polycystic disease; outcomes and immunological considerations |
-| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | Annual Review of Pathology | Mechanism of polycystic liver disease; primary, secondary, and tertiary interconnected pathways driving cholangiocyte cystogenesis |
-| [36047551](https://pubmed.ncbi.nlm.nih.gov/36047551/) | 2022 | Review | Revue Médicale Suisse | Adult polycystic liver disease overview; distinguishes ADPLD, ADPKD-associated PLD, and biliary hamartomas; hormonal influence on cyst growth |
+Momenteel zijn geen gerelateerde klinische trials geregistreerd voor Tetrabenazine bij polycystische nierziekte type 3 met of zonder polycystische leverziekte.
 
 ---
 
-## Netherlands Market Information
+## Literair bewijsmateriaal
 
-Tetrabenazine currently holds **no marketing authorizations** registered with the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in the Netherlands. There are no RVG numbers to list.
+De 20 publicaties die zijn geïdentificeerd behandelen de algemene diagnose, genetica, pathofysiologie en beheer van polycystische nieren- en leverziekte. **Geen ervan onderzoekt specifiek Tetrabenazine als behandeling voor deze aandoening.** Deze artikelen worden uitsluitend gepresenteerd als ziekte-achtergrond en vormen geen bewijs voor deze herbestemmingsrichting.
 
-If Tetrabenazine is clinically indicated for a Dutch patient, access may be possible through:
-- **Named-patient import** (artikel 3 lid 8 Geneesmiddelenwet) via a hospital pharmacist, referencing the EMA or FDA-approved label
-- **Hospital pharmacy compounding**, subject to applicable regulations
-
-Prescribers should consult the EMA product information or the FDA Xenazine prescribing information (SmPC equivalent) for the full approved indication, dosing, and safety profile.
-
----
-
-## Safety Considerations
-
-Detailed safety data specific to the Netherlands market was not available in this evaluation (no Dutch SmPC exists). Based on internationally available product information, the following safety concerns are well documented for Tetrabenazine and are particularly relevant when considering any off-label use:
-
-- **Depression and suicidality**: Tetrabenazine carries a black-box warning (FDA) for the risk of depression and suicidal ideation; contraindicated in patients with untreated depression
-- **Sedation and cognitive impairment**: Central nervous system depression is a common dose-limiting effect
-- **QTc prolongation**: Risk of cardiac arrhythmia; ECG monitoring recommended
-- **Neuroleptic malignant syndrome**: Rare but serious; requires immediate discontinuation
-- **Renal and hepatic impairment**: Pharmacokinetic data in patients with impaired kidney or liver function (directly relevant to the PKD3 patient population) is limited
-
-Please refer to the EMA or FDA SmPC for complete safety information before any clinical use.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|------------------------|
+| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Klinische richtlijn | Am J Gastroenterology | ACG-richtlijn over focale leverlaesies; behandelt diagnose en beheer van polycystische leverziekte inclusief surveillance van cystische laesies |
+| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Klinische richtlijn | J Hepatology | EASL Clinical Practice Guidelines voor cystische leerziekten; behandelt polycystische leverziekte, Caroli-ziekte en biliaire hamartoomen |
+| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Overzicht | Lancet | Uitgebreid ADPKD-overzicht; behandelt genetica, systemische manifestaties (cysten, hypertensie, intracraniële aneurysma's) en opkomende therapieën waaronder tolvaptan |
+| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Overzicht | JASN | Genetische complexiteit van ADPKD/ADPLD; beschrijft 8 veroorzakende genen waaronder *GANAB* (relevant voor PKD3) en hun fenotypische overlap |
+| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Overzicht | Advances in Kidney Disease and Health | Gedetailleerd genetisch spectrum van PKD/PLD; *PKD1* verantwoordelijk voor ~80% van patiënten; kleine loci inclusief *GANAB* besproken |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Overzicht | Clinics in Liver Disease | ADPKD met polycystische leverziekte; tolvaptan vertraagt nierverslechtering; beheer van symptomatische PLD |
+| [40081770](https://pubmed.ncbi.nlm.nih.gov/40081770/) | 2025 | Overzicht | Biochemical Pharmacology | Dynamica van extracellulaire matrix en MMP-activiteit in ADPKD/ARPKD als nieuwe therapeutische doelwitten; fibrose-cyste-interactie |
+| [37208103](https://pubmed.ncbi.nlm.nih.gov/37208103/) | 2023 | Overzicht | J Hepatology | Gecombineerde lever-niertransplantatie bij polycystische ziekte; uitkomsten en immunologische overwegingen |
+| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Overzicht | Annual Review of Pathology | Mechanisme van polycystische leverziekte; primaire, secundaire en tertiaire onderling verbonden paden die cholangiocyt-cystogenese aansturen |
+| [36047551](https://pubmed.ncbi.nlm.nih.gov/36047551/) | 2022 | Overzicht | Revue Médicale Suisse | Overzicht volwassen polycystische leverziekte; onderscheidt ADPLD, ADPKD-geassocieerde PLD en biliaire hamartoomen; hormonale invloed op cystengroei |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Hold**
+Tetrabenazine beschikt momenteel over **geen marketing autorisaties** geregistreerd bij het CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-nummers om op te noemen.
+
+Indien Tetrabenazine klinisch geïndiceerd is voor een Nederlandse patiënt, kan toegang mogelijk zijn via:
+- **Named-patient import** (artikel 3 lid 8 Geneesmiddelenwet) via een ziekenhuisapotheker, met verwijzing naar het EMA- of FDA-goedgekeurde label
+- **Bereiding in het ziekenhuisapotheek**, onder voorbehoud van geldende regelgeving
+
+Voorschrijvers moeten het EMA-productinformatiedocument of de FDA Xenazine-verpakking (SmPC-equivalent) raadplegen voor de volledige goedgekeurde indicatie, dosering en veiligheidsprofiel.
+
+---
+
+## Veiligheidsconsideraties
+
+Gedetailleerde veiligheidsgegevens specifiek voor de Nederlandse markt waren niet beschikbaar in deze evaluatie (geen Nederlands SmPC bestaat). Op basis van internationaal beschikbare productinformatie, zijn de volgende veiligheidskwesties goed gedocumenteerd voor Tetrabenazine en zijn bijzonder relevant bij overwegen van elk off-label gebruik:
+
+- **Depressie en suïcidaliteit**: Tetrabenazine draagt een black-box-waarschuwing (FDA) voor het risico op depressie en suïcidale ideatie; gecontra-indiceerd bij patiënten met onbehandelde depressie
+- **Sedatie en cognitieve stoornissen**: Aantasting van het centrale zenuwstelsel is een veel voorkomend dose-limiterend effect
+- **QTc-verlenging**: Risico op hartritme-stoornissen; ECG-monitoring aanbevolen
+- **Malignes neuroleptisch syndroom**: Zeldzaam maar ernstig; vereist onmiddellijke staking
+- **Nieren- en leverbeschadiging**: Farmacokinetische gegevens bij patiënten met verminderde nier- of leverfunctie (rechtstreeks relevant voor de PKD3-patiëntenpopulatie) zijn beperkt
+
+Raadpleeg het EMA- of FDA-SmPC voor volledige veiligheidsinformatie vóór enig klinisch gebruik.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: In afwachting**
 
 **Rationale:**
-Despite the TxGNN prediction score of 99.90%, there is no credible biological mechanism connecting VMAT2 inhibition with the mTOR/cystogenesis pathway that drives PKD3, and no clinical or preclinical studies support this repurposing direction. The high model score reflects knowledge graph network proximity, not pharmacological plausibility. Additionally, Tetrabenazine is not registered in the Netherlands, and the PKD3 patient population (with progressive renal impairment) presents meaningful pharmacokinetic safety concerns.
+Ondanks de TxGNN-voorspellingsscore van 99.90%, is er geen geloofwaardig biologisch mechanisme dat VMAT2-remming verbindt met het mTOR/cystogenese-pad dat PKD3 aanstuwt, en er zijn geen klinische of preklinische studies die deze herbestemmingsrichting ondersteunen. De hoge modelscore weerspiegelt proximity-effecten in het kennisgraaf, niet farmacologische aannemelijkheid. Bovendien is Tetrabenazine niet geregistreerd in Nederland, en de PKD3-patiëntenpopulatie (met progressieve nierverslechtering) presenteert betekenisvolle farmacokinetische veiligheidskwesties.
 
-**To proceed beyond Hold, the following would be needed:**
+**Om voorbij In afwachting te gaan, zou het volgende nodig zijn:**
 
-- **Mechanistic evidence**: Identification of a credible biological pathway linking VMAT2/monoamine neurotransmitter systems to PKD3 cyst formation or mTOR signalling (currently absent)
-- **Preclinical data**: In vitro or animal model studies (e.g., *Ganab*-mutant kidney organoids or mouse models) assessing any effect of Tetrabenazine or VMAT2 inhibition on cystogenesis
-- **Pharmacokinetic review**: Assessment of drug exposure in patients with reduced GFR (relevant to PKD3 disease progression); full DrugBank MOA data retrieval (Data Gap DG002)
-- **Safety gap remediation**: Retrieval of full SmPC warnings and contraindications (Data Gap DG001) to complete a formal safety screening (S1 gate)
-- **Regulatory pathway assessment**: Consultation with CBG-MEB on named-patient access or RVG application if preclinical evidence emerges
+- **Mechanistisch bewijs**: Identificatie van een geloofwaardig biologisch pad dat VMAT2/monoamineurotransmitter-systemen verbindt met PKD3-cystvorming of mTOR-signalering (momenteel afwezig)
+- **Preklinische gegevens**: In vitro- of diermodelstudies (bijv. *Ganab*-mutante nierorganöiden of muismodellen) die enig effect van Tetrabenazine of VMAT2-remming op cystogenese beoordelen
+- **Farmacokinetische review**: Beoordeling van medicijnblootstelling bij patiënten met verminderde GFR (relevant voor PKD3-ziekteprogressie); volledig ophalen van DrugBank MOA-gegevens (Data Gap DG002)
+- **Afsluiting veiligheidsgat**: Ophalen van volledige SmPC-waarschuwingen en contra-indicaties (Data Gap DG001) ter aanvulling van een formeel veiligheidsscreening (S1-gate)
+- **Beoordeling regelgevingspad**: Raadpleging met CBG-MEB over named-patient access of RVG-aanvraag indien preklinisch bewijs opduikt
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

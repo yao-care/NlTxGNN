@@ -29,93 +29,90 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. Now I'll generate the evaluation report based on the Evidence Pack. This case involves Iohexol (a radiological contrast agent) with TxGNN predictions for insomnia and anxiety — both flagged as L5/Hold with false-positive evidence matches. I'll apply the report format accordingly.
+# Iohexol: van radiologisch contrastmiddel tot slapeloosheid
+
+## Samenvatting in één zin
+
+Iohexol is een niet-ionisch iodiumhoudend contrastmiddel dat wordt gebruikt in radiologische beeldvormingsprocedures (CT, myelografie, angiografie) en uitsluitend werkt door fysieke röntgenabsorptie in plaats van farmacodynamische activiteit.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **slapeloosheid**, met **0 klinische onderzoeken** en **0 publicaties** die deze richting rechtstreeks ondersteunen.
+Er werd ook een secundaire voorspelling voor **angststoornis** (rang 2, score 99.25%) opgehaald, maar al het bijbehorende bewijs vertegenwoordigt bevestigde vals-positieve overeenkomsten waarbij Iohexol diende als een GFR-meetinstrument of geleidend contrastmiddel — niet als therapeutisch middel.
 
 ---
 
-# Iohexol: From Radiological Contrast Agent to Insomnia
+## Kort overzicht
 
-## One-Sentence Summary
-
-Iohexol is a non-ionic iodinated contrast medium used in radiological imaging procedures (CT, myelography, angiography), functioning purely through physical X-ray absorption rather than pharmacodynamic activity.
-The TxGNN model predicts it may be effective for **Insomnia**, with **0 clinical trials** and **0 publications** directly supporting this direction.
-A secondary prediction for **Anxiety** (rank 2, score 99.25%) was also retrieved, but all associated evidence represents confirmed false-positive matches where Iohexol served as a GFR measurement tool or guiding contrast agent — not as a therapeutic agent.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Radiological contrast agent (X-ray, CT, myelography, angiography) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Radiologisch contrastmiddel (röntgen, CT, myelografie, angiografie) |
+| Voorspelde nieuwe indicatie | Slapeloosheid |
+| TxGNN-voorspellingsscore | 99.87% |
+| Bewijsniveau | L5 |
+| Nederlandse marketstatus | Niet in de handel |
+| Aantal vergunningen | 0 |
+| Aanbevolen beslissing | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, Iohexol is a non-ionic, water-soluble iodinated contrast medium. Its sole pharmacological mechanism is **physical**: the high iodine content absorbs X-rays, enhancing radiological image contrast in target tissues. It has no established receptor-binding activity, no central nervous system pharmacodynamics, and no known interaction with any pathway implicated in sleep regulation.
+Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in het Evidence Pack. Op basis van bekende farmacologie is Iohexol een niet-ionisch, wateroplosbaar iodiumhoudend contrastmiddel. Het enige farmacologische werkingsmechanisme is **fysiek**: de hoge iodiuminhoud absorbeert röntgenstralen, waardoor het radiologische beeldcontrast in doelweefsels wordt vergroot. Het heeft geen vastgestelde receptorbindingsactiviteit, geen farmacodynamica van het centraal zenuwstelsel, en geen bekende interactie met enig biologisch pad dat betrokken is bij slaapregulatie.
 
-Insomnia involves dysregulation of GABA-A receptors, adenosine signalling, melatonin pathways, and the hypothalamic–pituitary–adrenal (HPA) axis. Iohexol has no known activity at any of these targets. The TxGNN analysis itself acknowledges this explicitly: the high prediction score most likely reflects **knowledge graph noise** — for example, spurious associations between iodinated compound nodes and protein nodes unrelated to sleep biology — rather than a genuine biological signal.
+Slapeloosheid omvat dysregulatie van GABA-A receptoren, adenosinesignalering, melatonine-paden en de hypothalaam-hypofyse-bijnier (HPA)-as. Iohexol heeft geen bekende activiteit op een van deze doelen. De TxGNN-analyse erkent dit zelf expliciet: de hoge voorspellingsscore weerspiegelt hoogstwaarschijnlijk **ruis in de kennisgraaf** — bijvoorbeeld valse associaties tussen iodiumhoudende knooppunten en eiwitknopen die niet gerelateerd zijn aan slaapbiologie — in plaats van een echt biologisch signaal.
 
-There is no mechanistic bridge between contrast agent use and insomnia pathophysiology. Unlike cases where a drug's known mechanism plausibly extends to a new indication (e.g., a kinase inhibitor repurposed across tumour types), Iohexol's mechanism is entirely physical and indication-agnostic. This prediction requires a biologically plausible hypothesis before any further evaluation is warranted.
+Er is geen mechanistische verbinding tussen contrastmiddel gebruik en slaapeloosheid pathofysiologie. In tegenstelling tot gevallen waarin een bekend werkingsmechanisme van een geneesmiddel zich plausibel uitbreidt tot een nieuwe indicatie (bijvoorbeeld een kinase-remmer die wordt herbestemd over tumortypen), is het werkingsmechanisme van Iohexol volledig fysiek en indicatie-onafhankelijk. Deze voorspelling vereist een biologisch plausibele hypothese voordat verdere evaluatie gerechtvaardigd is.
 
 ---
 
-## Clinical Trial Evidence
+## Bewijs uit klinische onderzoeken
 
-Currently no related clinical trials registered for Iohexol in insomnia.
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd voor Iohexol bij slapeloosheid.
 
-> **Note on secondary indication — Anxiety (Rank 2):** Six clinical trials were retrieved but all are confirmed false positives (relevance grade C). In each case, Iohexol appeared in the study context either as a **GFR measurement tool** (iohexol plasma clearance technique) or as an **imaging contrast agent** for procedural guidance — not as the investigational therapeutic. Anxiety appeared only as a comorbidity measure or adverse event category, not as a primary endpoint being treated. Representative examples:
+> **Opmerking over secundaire indicatie — Angststoornis (Rang 2):** Er werden zes klinische onderzoeken opgehaald, maar al deze zijn bevestigde vals-positieven (relevantie graad C). In elk geval verscheen Iohexol in de onderzoekscontext als een **GFR-meetinstrument** (iohexol plasma-clearance techniek) of als een **beeldvormingscontrastmiddel** voor procedurele begeleiding — niet als het onderzoeks therapeuticum. Angststoornis verscheen alleen als een comorbiditeitsmaat of categorie bijwerkingen, niet als primair eindpunt dat wordt behandeld. Representatieve voorbeelden:
 >
-> | Trial | Role of Iohexol | Why It Is a False Positive |
-> |-------|----------------|---------------------------|
-> | [NCT01053130](https://clinicaltrials.gov/study/NCT01053130) | GFR measurement tool | Bariatric surgery/CKD study; anxiety not a treatment target |
-> | [NCT01629537](https://clinicaltrials.gov/study/NCT01629537) | Guiding contrast for stellate ganglion block | Treatment is nerve block, not Iohexol; PTSD/anxiety as endpoint |
-> | [NCT03736005](https://clinicaltrials.gov/study/NCT03736005) | GFR measurement tool | Critical illness/muscle wasting study; anxiety not an endpoint |
+> | Onderzoek | Rol van Iohexol | Waarom het een vals-positief is |
+> |-----------|-----------------|-------------------------------|
+> | [NCT01053130](https://clinicaltrials.gov/study/NCT01053130) | GFR-meetinstrument | Bariatrische chirurgie/CKD-studie; angststoornis geen behandelingsdoel |
+> | [NCT01629537](https://clinicaltrials.gov/study/NCT01629537) | Geleidend contrastmiddel voor stellair ganglionblok | Behandeling is zenuwblok, niet Iohexol; PTSS/angststoornis als eindpunt |
+> | [NCT03736005](https://clinicaltrials.gov/study/NCT03736005) | GFR-meetinstrument | Kritieke ziekte/spieratrofie studie; angststoornis geen eindpunt |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijzen
 
-Currently no related literature available for Iohexol in insomnia.
+Momenteel geen gerelateerde literatuur beschikbaar voor Iohexol bij slapeloosheid.
 
-> **Note on secondary indication — Anxiety (Rank 2):** Six publications were retrieved but all represent false-positive associations. Anxiety or mental symptoms appear incidentally — as side effects of myelography (PMID [2352635](https://pubmed.ncbi.nlm.nih.gov/2352635/)), as procedural discomfort descriptors (PMID [8883531](https://pubmed.ncbi.nlm.nih.gov/8883531/)), or as patient-reported outcomes in imaging studies — not as a therapeutic target of Iohexol.
-
----
-
-## Netherlands Market Information
-
-Iohexol currently holds **no marketing authorization** registered with the CBG-MEB in the Netherlands. No RVG number, SmPC, or PIL is available through the Dutch regulatory database.
-
-> For reference: Iohexol-containing products (e.g., Omnipaque®) hold authorizations in other EU member states. A decentralized procedure (DCP) or mutual recognition procedure (MRP) pathway would need to be separately verified for any Netherlands-specific authorization.
+> **Opmerking over secundaire indicatie — Angststoornis (Rang 2):** Er werden zes publicaties opgehaald, maar al deze vertegenwoordigen vals-positieve associaties. Angststoornis of mentale symptomen verschijnen incidenteel — als bijwerkingen van myelografie (PMID [2352635](https://pubmed.ncbi.nlm.nih.gov/2352635/)), als descriptoren van procedureel ongemak (PMID [8883531](https://pubmed.ncbi.nlm.nih.gov/8883531/)), of als door patiënten gerapporteerde uitkomsten in beeldvormingsstudies — niet als therapeutisch doel van Iohexol.
 
 ---
 
-## Safety Considerations
+## Informatie over de Nederlandse markt
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. No warnings, contraindications, or drug interaction data were available in this Evidence Pack.
+Iohexol heeft momenteel **geen handelsvergunning** geregistreerd bij de CBG-MEB in Nederland. Geen RVG-nummer, SmPC of PIL is beschikbaar via de Nederlandse regelgevingsdatabase.
+
+> Voor referentie: Iohexol-bevattende producten (bijvoorbeeld Omnipaque®) hebben vergunningen in andere EU-lidstaten. Een decentrale procedure (DCP) of procedure voor wederzijdse erkenning (MRP) zou afzonderlijk moeten worden geverifieerd voor eventuele Nederlandse autorisatie.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsconsideraties
 
-**Decision: Hold**
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen waarschuwingen, contra-indicaties of geneesmiddelinteractiegegevens waren beschikbaar in dit Evidence Pack.
 
-**Rationale:**
-This is a pure model prediction (L5 evidence) with zero supporting clinical trials or literature for insomnia, and all retrieved evidence for the secondary indication (anxiety) consists of confirmed false-positive matches. Iohexol has no pharmacodynamic mechanism relevant to any neurological or psychiatric indication; the high TxGNN score is best explained by knowledge graph artifacts rather than a genuine repurposing signal.
+---
 
-**To proceed, the following is needed:**
+## Conclusie en volgende stappen
 
-- A biologically plausible hypothesis linking iohexol or iodinated contrast media to sleep or anxiety regulation — none currently exists in the published literature
-- A knowledge graph quality audit to investigate why Iohexol scores highly for CNS indications (potential node mis-association in the TxGNN graph)
-- Any preclinical (in vitro / in vivo) evidence of CNS-modulating effects before clinical consideration
-- Confirmation of Dutch market authorization status via CBG-MEB or EMA centralized procedure review if future development is considered
+**Beslissing: Afwachten**
+
+**Grondslag:**
+Dit is een zuivere modelvoorspelling (L5-bewijs) zonder ondersteunende klinische onderzoeken of literatuur voor slapeloosheid, en al het opgehaalde bewijs voor de secundaire indicatie (angststoornis) bestaat uit bevestigde vals-positieve overeenkomsten. Iohexol heeft geen farmacodynamisch werkingsmechanisme dat relevant is voor enige neurologische of psychiatrische indicatie; de hoge TxGNN-score wordt het best verklaard door kennisgraaf artefacten in plaats van een echt hertoepassingssignaal.
+
+**Om verder te gaan, is het volgende nodig:**
+
+- Een biologisch plausibele hypothese die iohexol of iodiumhoudende contrastmiddelen koppelt aan slaap- of angstregulatie — geen hiervan bestaat momenteel in de gepubliceerde literatuur
+- Een audit van de kwaliteit van kennisgrafen om te onderzoeken waarom Iohexol hoog scoort voor CNS-indicaties (mogelijke verkeerde knooppunt-associatie in de TxGNN-graaf)
+- Alle preklinische (in vitro / in vivo) bewijzen van CNS-modulerende effecten voordat klinische beschouwing plaatsvindt
+- Bevestiging van de Nederlandse marktautorisatiestatus via CBG-MEB of EMA centraal goedkeuringsprocedurereview als toekomstige ontwikkeling wordt overwogen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,114 +29,111 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **4**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for the NL deployment, and following the Drug Repurposing Evaluation Report Prompt (v5). Now generating the full evaluation for Epinephrine (DB00668).
+# Epinefrine: Van anafilaxie naar obstructieve longziekte
+
+## Samenvatting in één zin
+
+Epinefrine (adrenaline) is een goed gevestigde catecholamine die wereldwijd als eerstelijnsbehandeling voor anafilaxie en hartstilstand wordt gebruikt, hoewel het momenteel geen CBG-MEB-registratie in Nederland heeft.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **obstructieve longziekte** (inclusief astma-exacerbaties en virale bronchiolitis), met **8 rechtstreeks relevante klinische studies** en **20 publicaties** die deze richting momenteel ondersteunen.
+Deze voorspelling krijgt een **L1-bewijsniveau**, gebaseerd op meerdere voltooide fase 3 gerandomiseerde gecontroleerde onderzoeken die epinefrine rechtstreeks in obstructieve luchtwegaandoeningen bestuderen.
 
 ---
 
-# Epinephrine: From Anaphylaxis to Obstructive Lung Disease
+## Snel overzicht
 
-## One-Sentence Summary
-
-Epinephrine (adrenaline) is a well-established catecholamine used globally as first-line emergency treatment for anaphylaxis and cardiac resuscitation, though it currently holds no CBG-MEB marketing authorization in the Netherlands.
-The TxGNN model predicts it may be effective for **Obstructive Lung Disease** (including asthma exacerbations and viral bronchiolitis), with **8 directly relevant clinical trials** and **20 publications** currently supporting this direction.
-This prediction receives an **L1 evidence rating**, based on multiple completed Phase 3 randomized controlled trials directly studying epinephrine in obstructive airway conditions.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Anaphylaxis & cardiac resuscitation (no CBG-MEB Netherlands authorization) |
-| Predicted New Indication | Obstructive Lung Disease |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L1 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Geregistreerde indicatie | Anafilaxie & hartstilstand (geen CBG-MEB registratie in Nederland) |
+| Voorspelde nieuwe indicatie | Obstructieve longziekte |
+| TxGNN-voorspellingsscore | 99,71% |
+| Bewijsniveau | L1 |
+| NL-marketstatus | Niet in de handel |
+| Aantal registraties | 0 |
+| Aanbevolen besluit | Doorgaan met waarborgen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Epinephrine is a naturally occurring catecholamine that acts simultaneously on α- and β-adrenergic receptors. When administered by inhalation, β2-adrenergic receptor stimulation produces potent bronchial smooth muscle relaxation, directly reversing airflow obstruction. Concurrent α1-adrenergic receptor activation causes vasoconstriction of mucosal blood vessels, reducing airway oedema and microvascular leakage — both core pathological features of obstructive lung disease, whether in acute asthma exacerbations, viral bronchiolitis in infants, or croup.
+Epinefrine is een van nature voorkomende catecholamine die gelijktijdig op α- en β-adrenerge receptoren inwerkt. Bij inhalatie veroorzaakt β2-adrenerge receptorstimulering een krachtige ontspanning van de bronchiaalglad spier, wat directweg de luchtwegobstructie omkeert. Gelijktijdige α1-adrenerge receptoractivering veroorzaakt vasoconrictie van mucosale bloedvaten, wat het luchtwegöedeem en microvasculaire lekkage vermindert — beide kernkenmerken van de pathologie van obstructieve longziekte, of dit nu bij acute astma-exacerbaties, virale bronchiolitis bij zuigelingen of kroep het geval is.
 
-> **Note:** Detailed mechanism of action data from DrugBank is currently unavailable for this evaluation. The mechanistic description above is based on established pharmacological knowledge of epinephrine's well-characterized adrenergic receptor profile.
+> **Opmerking:** Gedetailleerde mechanisme-van-werkingsgegevens van DrugBank zijn momenteel niet beschikbaar voor deze evaluatie. De mechanistische beschrijving hierboven is gebaseerd op gevestigde farmacologische kennis van het goed gekarakteriseerde adrenerge receptorprofiel van epinefrine.
 
-The connection between epinephrine's primary emergency indication (anaphylaxis) and obstructive lung disease is pharmacologically direct: epinephrine reverses bronchospasm in anaphylaxis through exactly the same β2-mediated pathway as it would in asthma. Nebulized racemic epinephrine has been used clinically for decades in acute management of croup and viral bronchiolitis in children, and in the United States an epinephrine HFA metered-dose inhaler (Primatene Mist) is available over-the-counter for intermittent asthma — providing an international regulatory precedent. The TxGNN model's prediction therefore converges with decades of clinical practice and mechanistic evidence, even though formal Netherlands (CBG-MEB) or EMA-wide authorization for this indication does not yet exist.
+De verbinding tussen de primaire indicatie voor nood (anafilaxie) en obstructieve longziekte is farmacologisch direct: epinefrine keert bronchospasme bij anafilaxie door middel van exact dezelfde β2-gemedieerde weg om als bij astma. Vernevelde racemische epinefrine wordt al decennialang klinisch gebruikt voor acute behandeling van kroep en virale bronchiolitis bij kinderen, en in de Verenigde Staten is een epinefrine HFA-drukpatroon-inhaler (Primatene Mist) verkrijgbaar zonder recept voor intermitterende astma — wat een internationaal regelgeving voorgaande biedt. De voorspelling van het TxGNN-model convergeert daarom met decennia van klinische praktijk en mechanistisch bewijs, hoewel formele registratie in Nederland (CBG-MEB) of EMA voor deze indicatie nog niet bestaat.
 
 ---
 
-## Clinical Trial Evidence
+## Bewijs uit klinische studies
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Studienummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT01460511](https://clinicaltrials.gov/study/NCT01460511) | Phase 3 | Completed | 70 | Multi-center double-blind RCT: E004 epinephrine inhalation aerosol (HFA-MDI) vs. placebo in children aged 4–11 with asthma — directly evaluates efficacy and safety of epinephrine inhaler for obstructive airway disease |
-| [NCT03567473](https://clinicaltrials.gov/study/NCT03567473) | Phase 3 | Completed | 864 | Multicentre RCT: inhaled epinephrine + oral dexamethasone vs. double placebo in infants with bronchiolitis; primary endpoint: hospitalization rate over 7 days |
-| [NCT00116584](https://clinicaltrials.gov/study/NCT00116584) | Phase 3 | Completed | 72 | Heliox-driven vs. air-driven nebulized racemic epinephrine in moderate-to-severe pediatric bronchiolitis in the emergency department; assesses speed of airway improvement |
-| [NCT01300325](https://clinicaltrials.gov/study/NCT01300325) | Phase 4 | Completed | 136 | RCT: nebulized 3% hypertonic saline + epinephrine vs. normal saline + epinephrine in RSV bronchiolitis hospitalizations; direct evidence for epinephrine combination regimen |
-| [NCT01834820](https://clinicaltrials.gov/study/NCT01834820) | Phase 4 | Completed | 120 | Pilot RCT: epinephrine + dexamethasone + hypertonic saline for infant bronchiolitis; evaluates hospital admission rate reduction with combined treatment strategy |
-| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Phase 4 | Completed | 28 | Three-way crossover PK study: Primatene Mist (inhaled epinephrine 0.25 mg) vs. IM epinephrine 0.30 mg vs. ProAir (albuterol) — systemic exposure comparison supporting inhaled epinephrine as an asthma bronchodilator route |
-| [NCT05363670](https://clinicaltrials.gov/study/NCT05363670) | Phase 2 | Completed | 18 | Four-period crossover RCT: intranasal epinephrine (ARS-1) as a needleless alternative for management of refractory asthma symptoms — evaluates bronchodilatory efficacy in persistent asthma |
-| [NCT01025648](https://clinicaltrials.gov/study/NCT01025648) | Phase 1/2 | Terminated | 9 | Dose-ranging study: E004 epinephrine HFA-MDI vs. placebo and active control (epinephrine CFC-MDI) in mild-to-moderate persistent asthma — terminated early; informed dose selection for subsequent Phase 3 |
-| [NCT02586961](https://clinicaltrials.gov/study/NCT02586961) | Phase 2/3 | Terminated | 195 | Multicentre RCT: high-dose oral betamethasone + nebulized adrenaline vs. placebo in acute bronchiolitis presenting to pediatric emergency departments; terminated before completion |
-| [NCT01070225](https://clinicaltrials.gov/study/NCT01070225) | Phase 4 | Completed | 14 | Proof-of-concept study: reversal of acute β-blocker-induced bronchoconstriction using β-agonist rescue — contextualises adrenergic receptor modulation in airway obstruction management |
+| [NCT01460511](https://clinicaltrials.gov/study/NCT01460511) | Fase 3 | Voltooid | 70 | Multicenter dubbelblinde RCT: E004-epinefrineinhalatieaerosol (HFA-MDI) vs. placebo bij kinderen van 4–11 jaar met astma — evalueert rechtstreeks de werkzaamheid en veiligheid van epinefrine-inhaler voor obstructieve luchtwegziekte |
+| [NCT03567473](https://clinicaltrials.gov/study/NCT03567473) | Fase 3 | Voltooid | 864 | Multicentrale RCT: gëinhaleerde epinefrine + oraal dexamethason vs. dubbele placebo bij zuigelingen met bronchiolitis; primair eindpunt: hospitalisatiepercentage over 7 dagen |
+| [NCT00116584](https://clinicaltrials.gov/study/NCT00116584) | Fase 3 | Voltooid | 72 | Helioxgestuurde vs. luchtgestuurde vernevelaarsystemen met racemische epinefrine bij matig-ernstige pediatrische bronchiolitis in de spoedeisende hulp; beoordeelt snelheid van luchtwegverbetering |
+| [NCT01300325](https://clinicaltrials.gov/study/NCT01300325) | Fase 4 | Voltooid | 136 | RCT: vernevelaarsysteem met 3% hypertoon zout + epinefrine vs. normaal zout + epinefrine bij RSV-bronchiolitis-ziekenhuisopnames; rechtstreeks bewijs voor epinefrine-combinatieschema |
+| [NCT01834820](https://clinicaltrials.gov/study/NCT01834820) | Fase 4 | Voltooid | 120 | Pilot-RCT: epinefrine + dexamethason + hypertoon zout voor zuigelingenbronchiolitis; evalueert vermindering van ziekenhuisopnamepercentage met gecombineerde behandelingsstrategie |
+| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Fase 4 | Voltooid | 28 | Driewegse crossover-PK-studie: Primatene Mist (gëinhaleerde epinefrine 0,25 mg) vs. IM epinefrine 0,30 mg vs. ProAir (albuterol) — vergelijking van systeemische blootstelling ter ondersteuning van gëinhaleerde epinefrine als astmabronchodilatator |
+| [NCT05363670](https://clinicaltrials.gov/study/NCT05363670) | Fase 2 | Voltooid | 18 | Vierwegse crossover-RCT: intranasale epinefrine (ARS-1) als naaldeloos alternatief voor behandeling van refractaire astmasymptomen — evalueert bronchodilataire werkzaamheid bij aanhoudende astma |
+| [NCT01025648](https://clinicaltrials.gov/study/NCT01025648) | Fase 1/2 | Beëindigd | 9 | Dosis-bereiktestudie: E004-epinefrine HFA-MDI vs. placebo en actieve controle (epinefrine CFC-MDI) bij lichte-tot-matige aanhoudende astma — voortijdig beëindigd; informeerde dosisbepaling voor daaropvolgende fase 3 |
+| [NCT02586961](https://clinicaltrials.gov/study/NCT02586961) | Fase 2/3 | Beëindigd | 195 | Multicentrale RCT: hoge doses oraal betamethason + vernevelaarsysteem met adrenaline vs. placebo bij acute bronchiolitis op pediatrische spoedeisende-hulpsposten; voortijdig beëindigd vóór voltooiing |
+| [NCT01070225](https://clinicaltrials.gov/study/NCT01070225) | Fase 4 | Voltooid | 14 | Proof-of-concept-studie: omkering van acuut β-blokker-geïnduceerde bronchoconrictie met β-agonisten-reddingsmiddel — plaatst adrenerge receptormodulering in het beheer van luchtwegobstructie in perspectief |
 
 ---
 
-## Literature Evidence
+## Bewijsvoering uit de literatuur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Cochrane Systematic Review | Cochrane Database Syst Rev | Comprehensive meta-analysis of epinephrine vs. other bronchodilators for acute bronchiolitis; found epinephrine superior to placebo for short-term clinical outcomes and hospitalization reduction |
-| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Cochrane Systematic Review | Cochrane Database Syst Rev | Foundational Cochrane review establishing that bronchodilators — including epinephrine — produce modest but statistically significant short-term benefit in mild-to-moderate bronchiolitis |
-| [4606289](https://pubmed.ncbi.nlm.nih.gov/4606289/) | 1974 | Clinical Study | Clin Pharmacol Ther | Direct comparative study of bronchodilator effects of terbutaline vs. epinephrine in obstructive lung disease — cornerstone pharmacological evidence for epinephrine in this indication |
-| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Review | Expert Rev Respir Med | Systematic review of therapeutic strategies for pediatric bronchiolitis (2009–2018) with focused analysis of racemic epinephrine's evidence base, including its role alongside hypertonic saline and high-flow oxygen |
-| [19135584](https://pubmed.ncbi.nlm.nih.gov/19135584/) | 2009 | Review | Pediatr Clin North Am | Evidence-based review of croup and acute bronchiolitis: confirms good evidence for temporary symptomatic benefit from nebulized adrenaline in both virally induced obstructive conditions |
-| [21486501](https://pubmed.ncbi.nlm.nih.gov/21486501/) | 2011 | Review | BMJ Clin Evid | BMJ clinical evidence review on bronchiolitis management, addressing epinephrine's role in the most common cause of infant respiratory hospitalization |
-| [19450362](https://pubmed.ncbi.nlm.nih.gov/19450362/) | 2007 | Review | BMJ Clin Evid | Earlier BMJ evidence synthesis on bronchiolitis treatment; provides historical baseline for evaluating evolving evidence on epinephrine in infant obstructive lower respiratory disease |
-| [30856157](https://pubmed.ncbi.nlm.nih.gov/30856157/) | 2019 | Drug Bulletin | Med Lett Drugs Ther | Commentary on the regulatory return of Primatene Mist (OTC epinephrine HFA inhaler) to the US market, confirming regulatory precedent for epinephrine as a self-administered asthma bronchodilator |
-| [37088194](https://pubmed.ncbi.nlm.nih.gov/37088194/) | 2023 | Scoping Review | Ann Allergy Asthma Immunol | Scoping review of prehospital epinephrine for anaphylaxis in patients with comorbid asthma — highlights mechanistic overlap and safety of epinephrine across obstructive pulmonary and anaphylactic presentations |
-| [4551435](https://pubmed.ncbi.nlm.nih.gov/4551435/) | 1972 | Clinical Study | Ann Allergy | Early clinical evidence for nebulized bronchodilators — including epinephrine — in obstructive lung disease; establishes historical and mechanistic basis for inhaled epinephrine as a bronchodilator |
+| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Cochrane-systeemoverzicht | Cochrane Database Syst Rev | Uitgebreid meta-analyse van epinefrine vs. andere bronchodilatatoren voor acute bronchiolitis; vond epinefrine superieur aan placebo voor korte-termijn klinische resultaten en ziekenhuisopnamevermindering |
+| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Cochrane-systeemoverzicht | Cochrane Database Syst Rev | Grondleggende Cochrane-review die vast stelt dat bronchodilatatoren — inclusief epinefrine — een bescheiden maar statistisch significant korte-termijn voordeel in lichte tot matig ernstige bronchiolitis opleveren |
+| [4606289](https://pubmed.ncbi.nlm.nih.gov/4606289/) | 1974 | Klinische studie | Clin Pharmacol Ther | Rechtstreekse vergelijkingsstudie van bronchodilaterende effecten van terbutaline vs. epinefrine in obstructieve longziekte — hoeksteen farmacologisch bewijs voor epinefrine in deze indicatie |
+| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Overzicht | Expert Rev Respir Med | Systeemoverzicht van therapeutische strategieën voor pediatrische bronchiolitis (2009–2018) met gerichte analyse van racemische epinefrine's bewijsbasis, inclusief de rol ervan naast hypertoon zout en zuurstof met hoge stroom |
+| [19135584](https://pubmed.ncbi.nlm.nih.gov/19135584/) | 2009 | Overzicht | Pediatr Clin North Am | Op evidentie gebaseerd overzicht van kroep en acute bronchiolitis: bevestigt goed bewijs voor tijdelijk symptomatisch voordeel van vernevelaars met adrenaline in beide viraal veroorzaakte obstructieve aandoeningen |
+| [21486501](https://pubmed.ncbi.nlm.nih.gov/21486501/) | 2011 | Overzicht | BMJ Clin Evid | BMJ klinisch bewijsoverzicht over bronchiolitis-management, gericht op de rol van epinefrine in de meest voorkomende oorzaak van zuigelingsrespiratorische ziekenhuisopname |
+| [19450362](https://pubmed.ncbi.nlm.nih.gov/19450362/) | 2007 | Overzicht | BMJ Clin Evid | Eerder BMJ-bewijssynthese over bronchiolitis-behandeling; biedt historische basislijn voor evaluatie van evoluerend bewijs voor epinefrine in zuigelingen-obstructieve onderste luchtwegziekte |
+| [30856157](https://pubmed.ncbi.nlm.nih.gov/30856157/) | 2019 | Medicijnbulletin | Med Lett Drugs Ther | Opmerking over de regelgevingsretour van Primatene Mist (OTC-epinefrine HFA-inhaler) naar de Amerikaanse markt, wat regelgevingsvoorgaande voor epinefrine als zelf-toegediende astmabronchodilatator bevestigt |
+| [37088194](https://pubmed.ncbi.nlm.nih.gov/37088194/) | 2023 | Scopingbezinning | Ann Allergy Asthma Immunol | Scopingbezinning van prehospitale epinefrine voor anafilaxie bij patiënten met comorbide astma — benadrukt mechanistische overlapping en veiligheid van epinefrine in obstructieve pulmonale en anafilactische presentaties |
+| [4551435](https://pubmed.ncbi.nlm.nih.gov/4551435/) | 1972 | Klinische studie | Ann Allergy | Vroeg klinisch bewijs voor vernevelaarsystemen met bronchodilatatoren — inclusief epinefrine — bij obstructieve longziekte; stelt historische en mechanistische basis voor gëinhaleerde epinefrine als bronchodilatator vast |
 
 ---
 
-## Netherlands Market Information
+## Marktgegevens voor Nederland
 
-Epinephrine currently holds **no CBG-MEB marketing authorization** in the Netherlands and is not registered as a commercial pharmaceutical product in the Dutch RVG (Register Geneesmiddelen) database. No RVG numbers are therefore available to list.
+Epinefrine heeft momenteel **geen CBG-MEB-registratie** in Nederland en is niet geregistreerd als commercieel farmaceutisch product in de Nederlandse RVG-database (Register Geneesmiddelen). Er zijn daarom geen RVG-nummers om op te sommen.
 
-This does not mean epinephrine is absent from Dutch clinical practice: in hospital settings, epinephrine is routinely used for anaphylaxis management, cardiac resuscitation, and as a local anesthetic adjunct, typically supplied under hospital pharmacy authorization or as a ziekenhuisbereiding (hospital preparation). However, the absence of a formal commercial CBG-MEB registration means that any future application of epinephrine for obstructive lung disease in the Netherlands would require one of the following regulatory pathways:
+Dit betekent niet dat epinefrine afwezig is uit de Nederlandse klinische praktijk: in ziekenhuisomgevingen wordt epinefrine routinematig gebruikt voor anafilaxiebeheer, hartstilstand-resuscitatie en als lokale anestheticum-addendum, meestal geleverd onder ziekenhuisfarmacie-toestemming of als ziekenhuisbereiding. De afwezigheid van een formele commerciële CBG-MEB-registratie betekent echter dat elke toekomstige toepassing van epinefrine voor obstructieve longziekte in Nederland een van de volgende regelgevingspaden zou vereisen:
 
-- A new Marketing Authorization Application (MAA) submitted to CBG-MEB directly or centrally via EMA
-- Compassionate use or named-patient supply under Dutch Medicines Act (Geneesmiddelenwet)
-- Off-label prescribing under the prescriber's clinical responsibility, with documented medical justification per Dutch professional standards
-
----
-
-## Safety Considerations
-
-Please refer to the **SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken)** for complete safety information.
-
-Formal safety data — including specific Dutch/EMA-registered warnings, contraindications, and drug interaction profiles — were not available in the current evidence pack. Based on the internationally recognized pharmacology of epinephrine, prescribers should be aware of the potential for cardiovascular adverse effects (including tachycardia, hypertension, and cardiac arrhythmias), particularly in elderly patients and those with pre-existing cardiac or thyroid conditions. These considerations are especially relevant when evaluating inhaled epinephrine for chronic obstructive lung disease use in a broader outpatient population beyond the current emergency-use context.
+- Een nieuwe Registratieaanvraag (MAA) ingediend bij CBG-MEB rechtstreeks of centraal via EMA
+- Compassionategebruik of benoemde-patïëntleverantie onder de Nederlandse Geneesmiddelenwet
+- Off-label voorschrijving onder verantwoordelijkheid van de arts, met gedocumenteerde medische rechtvaardiging per Nederlandse professionele normen
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsbeschouwingen
 
-**Decision: Proceed with Guardrails**
+Raadpleeg de **SmPC (Samenvatting van de Productkenmerken)** voor volledige veiligheidsinformatie.
 
-**Rationale:**
-Multiple completed Phase 3 RCTs — directly studying epinephrine in bronchiolitis and asthma — support an L1 evidence rating, and the TxGNN prediction score of 99.71% reflects a strong mechanistic and knowledge-graph alignment. However, the total absence of a Netherlands CBG-MEB marketing authorization, the lack of formal safety data in this evidence pack, and the need to differentiate acute-use from chronic-indication protocols necessitate a structured, gated approach before clinical or regulatory implementation.
+Formele veiligheidsgegevens — inclusief specifieke Nederlandse/EMA-geregistreerde waarschuwingen, contra-indicaties en medicijninteractieprofielen — waren niet beschikbaar in de huidige bewijsverzameling. Gebaseerd op de internationaal erkende farmacologie van epinefrine, moeten voorschrijvers zich bewust zijn van het potentieel voor cardiovasculaire bijwerkingen (inclusief tachycardie, hypertensie en hartritmestoornissen), vooral bij oudere patiënten en die met reeds bestaande hart- of schildklierstoornissen. Deze overwegingen zijn vooral relevant bij evaluatie van gëinhaleerde epinefrine voor chronisch obstructieve longziektegebruik in een bredere ambulante populatie buiten de huidige noodgebruikcontext.
 
-**To proceed, the following is needed:**
+---
 
-- **Safety data gap closure**: Obtain and review the SmPC from an internationally authorized epinephrine inhalation product (e.g., E004/Armstrong, Primatene Mist) to fulfil the DG001/DG002 data gaps identified in this pack
-- **Mechanistic documentation**: Source DrugBank API data for formal MOA characterization to support regulatory submission narratives
-- **CBG-MEB pre-submission consultation**: Determine the appropriate regulatory pathway (national MAA vs. EMA centralized) and discuss indication scope with the Medicines Evaluation Board
-- **Risk Management Plan (RMP)**: Develop a pharmacovigilance plan covering cardiovascular adverse effects, particularly for paediatric and elderly populations
-- **Formulation-specific strategy**: Clarify which route of administration (nebulized, HFA-MDI, intranasal) is being developed, as each carries a distinct regulatory and clinical evidence profile
-- **Comparative effectiveness assessment**: Commission an HTA comparing epinephrine vs. standard-of-care bronchodilators (salbutamol, ipratropium) within the Dutch clinical context and Zorginstituut Nederland reimbursement framework
-- **Clinical guideline alignment**: Engage Dutch professional bodies (NVvR — Nederlandse Vereniging van Artsen voor Longziekten en Tuberculose; NVK — Paediatric Society) to assess compatibility with existing national treatment guidelines for asthma and bronchiolitis
+## Conclusie en vervolgstappen
+
+**Besluit: Doorgaan met waarborgen**
+
+**Motivering:**
+Meerdere voltooide fase 3 RCT's — die epinefrine rechtstreeks in bronchiolitis en astma bestuderen — ondersteunen een L1-bewijsniveau, en de TxGNN-voorspellingsscore van 99,71% weerspiegelt een sterke mechanistische en kennisgraaf-afstemming. De totale afwezigheid van een CBG-MEB-registratie in Nederland, de afwezigheid van formele veiligheidsgegevens in deze bewijsverzameling en de noodzaak om acute-gebruik- van chronische-indicatieprotocollen te onderscheiden vereisen echter een gestructureerde, gefaseerde benadering vóór klinische of regelgevingsimplementatie.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Veiligheidsdataverschilsluitin**: Verkrijg en beoordeel de SmPC van een internationaal geautoriseerd epinefrine-inhalatieproduct (bijv. E004/Armstrong, Primatene Mist) om de DG001/DG002-dataverschillen geïdentificeerd in deze verzameling in te vullen
+- **Mechanistische documentatie**: Verkrijg DrugBank API-gegevens voor formele MOA-karakterisering ter ondersteuning van regelgevingnuancen
+- **CBG-MEB pre-submissie-overleg**: Bepaal het passende regelgevingspad (nationale MAA vs. EMA gecentraliseerd) en bespreek indicatie-reikwijdte met de Commissie Geneesmiddelenevaluatie
+- **Risicomanagementplan (RMP)**: Ontwikkel een pharmacovigilantieplan dat cardiovasculaire bijwerkingen bestrijkt, vooral voor pediatrische en oudere populaties
+- **Formulering-specifieke strategie**: Verduidelijk welke toedieningsroute (vernevelaar, HFA-MDI, intranasal) wordt ontwikkeld, aangezien elk een afzonderlijk regelgevings- en klinisch bewijsprofiel draagt
+- **Effectiviteitsanalyse vergelijking**: Commissie een HTA voor epinefrine vs. standaard-zorg bronchodilatatoren (salbutamol, ipratropium) in de Nederlandse klinische context en het terugbetalingskader van Zorginstituut Nederland
+- **Afstemming klinische richtlijn**: Betrek Nederlandse professionele instanties (NVvR — Nederlandse Vereniging van Artsen voor Longziekten en Tuberculose; NVK — Kinderartsenvereniging) ter beoordeling van compatibiliteit met bestaande nationale behandelingsrichtlijnen voor astma en bronchiolitis
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

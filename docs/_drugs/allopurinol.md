@@ -29,94 +29,95 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Allopurinol: From Gout/Hyperuricemia to Hepatic Porphyria
+# Allopurinol: Van Jicht/Hyperuricemie naar Hepatale Porfyrie
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Allopurinol is a xanthine oxidase (XO) inhibitor, widely used for the treatment of gout and hyperuricemia.
-The TxGNN model predicts it may be effective for **Hepatic Porphyria**,
-but with only **0 clinical trials** and **2 publications** (hypothesis-level and animal study), this prediction currently rests on minimal evidence and warrants significant caution — particularly as allopurinol has been reported to potentially *exacerbate* porphyria.
+Allopurinol is een xanthine oxidase (XO)-inhibitor, veel gebruikt voor de behandeling van jicht en hyperuricemie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **hepatale porfyrie**,
+maar met slechts **0 klinische trials** en **2 publicaties** (hypothese-niveau en dieronderzoek), rust deze voorspelling momenteel op minimaal bewijs en vraagt om grote voorzichtigheid — vooral omdat allopurinol naar verluidt mogelijk **porfyrie kan verergeren**.
 
-## Quick Overview
+## Snel overzicht
 
-| Item | Content |
-|------|------|
-| Original Indication | Gout, hyperuricemia (well-established globally; no local licenses in current dataset) |
-| Predicted New Indication | Hepatic Porphyria |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 — Preclinical/mechanism studies only |
-| Market Status | Not marketed (Not marketed) in current regulatory dataset |
-| Number of Authorizations | 0 (in current dataset) |
-| Recommended Decision | **Hold** |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Jicht, hyperuricemie (goed gevestigd wereldwijd; geen lokale vergunningen in huidi dataset) |
+| Voorspelde nieuwe indicatie | Hepatale porfyrie |
+| TxGNN-voorspellingsscore | 99.95% |
+| Bewijsniveau | L4 — Alleen preklinische/mechanismestudies |
+| Marktstatus | Niet op de markt (Niet op de markt) in huidden regelgevingsdataset |
+| Aantal vergunningen | 0 (in huidden dataset) |
+| Aanbevolen besluit | **In afwachting** |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Allopurinol is a purine analogue whose active metabolite, oxipurinol, inhibits xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid. This mechanism has been clinically validated for decades in the management of gout and hyperuricemia. XO inhibition also reduces the generation of reactive oxygen species (ROS) as a by-product of purine metabolism.
+Allopurinol is een purinederivaat waarvan de actieve metaboliet, oxipurinol, xanthine oxidase (XO) remt, het enzym dat verantwoordelijk is voor de omzetting van hypoxanthine naar xanthine en xanthine naar urinezuur. Dit mechanisme is decennia lang klinisch gevalideerd voor de behandeling van jicht en hyperuricemie. XO-remming vermindert ook de opwekking van reactieve zuurstofsoorten (ROS) als bijproduct van purinemetabolisme.
 
-Hepatic porphyrias are a group of metabolic disorders caused by enzyme deficiencies in the heme biosynthesis pathway, leading to accumulation of toxic porphyrin precursors (such as ALA and PBG) in the liver. The rate-limiting enzyme, 5-aminolevulinate synthase (ALAS1), is under negative feedback control by a small regulatory heme pool. In theory, XO inhibition could indirectly alter substrate availability for ALAS1 or influence the redox environment of hepatocytes. However, this mechanistic link is entirely hypothetical and has no direct experimental validation.
+Hepatale porfyrieën zijn een groep stofwisselingsstoornissen veroorzaakt door enzymdeficiënties in de heem-biosyntheseroute, wat leidt tot opeenstapeling van toxische porfyrineprecursoren (zoals ALA en PBG) in de lever. Het snelheidsbepalende enzym, 5-aminolevulinaat synthase (ALAS1), staat onder negatieve terugkoppelingscontrole door een kleine regelende heem-pool. Theoretisch zou XO-remming indirecte substraatbeschikbaarheid voor ALAS1 kunnen veranderen of de redoxomgeving van hepatocyten kunnen beïnvloeden. Deze mechanistische link is echter volledig hypothetisch en heeft geen directe experimentele validatie.
 
-Critically, the repurposing rationale from the evidence pack itself flags a major safety concern: **allopurinol has been reported to potentially exacerbate porphyric attacks**. This runs counter to the therapeutic hypothesis and underscores the need for extreme caution. The TxGNN prediction score (99.95%) is high, but the model may be capturing structural proximity in the knowledge graph between purine metabolism and heme biosynthesis pathways rather than a genuine therapeutic relationship. Five of the top six predicted indications are liver-related conditions with nearly identical scores, suggesting a possible neighbourhood effect in the knowledge graph.
+Van cruciaal belang is dat de repurposingrationale uit het bewijsdossier zelf een groot veiligheidsprobleem signaleert: **allopurinol zou naar verluidt porfiyrische aanvallen kunnen verergeren**. Dit gaat in tegen de therapeutische hypothese en onderstreept de noodzaak van extreme voorzichtigheid. De TxGNN-voorspellingsscore (99.95%) is hoog, maar het model zou structurele nabijheid in de kennisgraaf tussen purinemetabolisme en heem-biosyntheseroutes kunnen vastleggen in plaats van een echte therapeutische relatie. Vijf van de top zes voorspelde indicaties zijn levergebonden aandoeningen met bijna identieke scores, wat duidt op een mogelijk buureffect in de kennisgraaf.
 
-## Clinical Trial Evidence
+## Bewijs uit klinische trials
 
-Currently no related clinical trials registered for allopurinol in hepatic porphyria.
+Momenteel zijn er geen gerelateerde klinische trials geregistreerd voor allopurinol bij hepatale porfyrie.
 
-## Literature Evidence
+## Bewijsmateriaal uit literatuur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothesis/Commentary | Medical Hypotheses | Proposes metabolic targeting of liver ALAS by inhibition of heme utilisation by tryptophan 2,3-dioxygenase (TDO) as a therapy for acute hepatic porphyrias. Discusses regulatory heme pool dynamics — does not directly study allopurinol but provides mechanistic context for heme pathway modulation. |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Animal Study | Biochemical Pharmacology | Examined carbamazepine's effects on heme metabolism in rat liver, specifically how it exacerbates hepatic porphyrias. Provides a screening model for drug-induced porphyria exacerbation — relevant as a framework for evaluating allopurinol's porphyria risk. |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|----------|---------|
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothese/Commentaar | Medical Hypotheses | Stelt metabolisch gericht optreden tegen lever-ALAS voor door remming van heem-gebruik door tryptofaan 2,3-dioxigenase (TDO) als therapie voor acute hepatale porfyrieën. Bespreekt regelingsdynamica van heem-pool — onderzoekt allopurinol niet rechtstreeks maar verschaft mechanistische context voor heem-routemodulering. |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Dieronderzoek | Biochemical Pharmacology | Onderzocht effecten van carbamazepine op heem-metabolisme in rattenlever, met name hoe het hepatale porfyrieën verergert. Verschaft een screeningsmodel voor medicijngeïnduceerde porfyrie-verergering — relevant als raamwerk voor evaluatie van allopurinols porfyrie-risico. |
 
-**Note:** Neither publication directly investigates allopurinol as a treatment for hepatic porphyria. The first is a hypothesis paper about heme pathway modulation; the second studies a different drug (carbamazepine) as a porphyria exacerbator.
+**Opmerking:** Geen van beide publicaties onderzoekt allopurinol rechtstreeks als behandeling voor hepatale porfyrie. De eerste is een hypothesepaper over heem-routemodulering; de tweede onderzoekt een ander geneesmiddel (carbamazepine) als porfyrie-verergering.
 
-## Netherlands Market Information
+## Informatie Nederlandse markt
 
-No CBG-MEB marketing authorizations were found in the current dataset for allopurinol. However, allopurinol is a well-established WHO Essential Medicine and is widely available throughout Europe, including the Netherlands, under multiple brand names (e.g., Zyloric). The absence of licenses in this dataset likely reflects a data coverage limitation rather than true market absence.
+Er zijn geen CBG-MEB-vergunningen voor markttoelating gevonden in de huidge dataset voor allopurinol. Allopurinol is echter een goed gevestigd WHO-essentieel geneesmiddel en is overal in Europa, inclusief Nederland, beschikbaar onder meerdere merknamen (bijv. Zyloric). De afwezigheid van vergunningen in deze dataset weerspiegelt waarschijnlijk een beperking van de gegevensdekking in plaats van echte marktafwezigheid.
 
-## Safety Considerations
+## Veiligheidsbeschouwingen
 
-Please refer to the SmPC (Summary of Product Characteristics) for comprehensive safety information.
+Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor uitgebreide veiligheidsinformatie.
 
-**Important safety signal for this specific repurposing candidate:**
-- The mechanistic rationale itself notes that allopurinol has been reported to potentially **induce or exacerbate porphyric attacks**, which would directly contraindicate its use for the predicted indication (hepatic porphyria). This must be thoroughly investigated before any further evaluation.
-- Allopurinol is known to cause severe hypersensitivity reactions (including Stevens-Johnson syndrome and DRESS syndrome), particularly in patients carrying the HLA-B*5801 allele.
+**Belangrijk veiligheidssignaal voor deze specifieke repurposingkandidaat:**
+- De mechanistische rationale merkt zelf op dat allopurinol naar verluidt mogelijk **porfiyrische aanvallen kan veroorzaken of verergeren**, wat het gebruik voor de voorspelde indicatie (hepatale porfyrie) rechtstreeks zou contraïndiceren. Dit moet grondig onderzocht worden voordat verdere evaluatie plaatsvindt.
+- Allopurinol staat bekend om ernstige overgevoeligheidsreacties (inclusief Stevens-Johnson-syndroom en DRESS-syndroom), met name bij patiënten met de HLA-B*5801-allel.
 
-## Additional Predicted Indications (Ranked 2–10)
+## Aanvullende voorspelde indicaties (Gerangschikt 2–10)
 
-The TxGNN model also predicted the following indications. All are rated **L5 (model prediction only)** with a **Hold** recommendation, as none have clinical trial or literature support:
+Het TxGNN-model voorspelde ook de volgende indicaties. Alle krijgen een **L5-beoordeling (alleen modelvoorspelling)** met een **In afwachting**-aanbeveling, omdat geen klinische trial- of literatuurondersteuning hebben:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
-|------|---------------------|-------------|----------------|----------------|
-| 2 | Hepatopulmonary syndrome | 99.94% | L5 | Hold |
-| 3 | Primitive portal vein thrombosis | 99.94% | L5 | Hold |
-| 4 | Idiopathic copper-associated cirrhosis | 99.94% | L5 | Hold |
-| 5 | Early-onset familial noncirrhotic portal hypertension | 99.94% | L5 | Hold |
-| 6 | Hepatoportal sclerosis | 99.94% | L5 | Hold |
-| 7 | Disorder of phenylalanine metabolism | 99.89% | L4 | Hold |
-| 8 | Immune-mediated necrotizing myopathy | 99.86% | L5 | Hold |
-| 9 | Antisynthetase syndrome | 99.85% | L5 | Hold |
-| 10 | Idiopathic eosinophilic myositis | 99.85% | L5 | Hold |
+| Rang | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
+|------|---------------------|-------------|----------------|-------------|
+| 2 | Hepatopulmonaal syndroom | 99.94% | L5 | In afwachting |
+| 3 | Primitieve portale venetrombose | 99.94% | L5 | In afwachting |
+| 4 | Idiopathische kopperassocieerde cirrose | 99.94% | L5 | In afwachting |
+| 5 | Familiaire non-cirrhotische portale hypertensie met vroeg begin | 99.94% | L5 | In afwachting |
+| 6 | Hepatoportale sclerose | 99.94% | L5 | In afwachting |
+| 7 | Stoornis van fenylalanine-metabolisme | 99.89% | L4 | In afwachting |
+| 8 | Immuungemedieerde necrotiserende myopathie | 99.86% | L5 | In afwachting |
+| 9 | Antisyntetase-syndroom | 99.85% | L5 | In afwachting |
+| 10 | Idiopathische eosinofiele myositis | 99.85% | L5 | In afwachting |
 
-**Pattern observation:** Ranks 2–6 share nearly identical TxGNN scores (99.94%) and are all hepatic/portal vein conditions. This clustering strongly suggests the predictions arise from a **knowledge graph neighbourhood effect** — the model recognises allopurinol's metabolic link to liver function and predicts broadly across liver-related disease nodes, rather than identifying specific therapeutic mechanisms.
+**Waarnemingspatroon:** Rangen 2–6 delen bijna identieke TxGNN-scores (99.94%) en zijn allemaal hepatale/portalevene-aandoeningen. Deze clustering suggeert sterk dat de voorspellingen voortkomen uit een **kennisgraafbuurteffect** — het model herkent allopurinols metabolische link met leverfunctie en voorspelt breed over levergerelateerde ziekte-knooppunten, in plaats van specifieke therapeutische mechanismen aan te duiden.
 
-## Conclusion and Next Steps
+## Conclusie en volgende stappen
 
-**Decision: Hold**
+**Besluit: In afwachting**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.95%), the evidence for allopurinol in hepatic porphyria is critically weak: zero clinical trials, only two tangentially related publications (neither directly studying allopurinol for porphyria), and a significant safety concern that allopurinol may actually *worsen* porphyric attacks. The clustering of five liver-related predictions at near-identical scores suggests a knowledge graph artefact rather than a genuine therapeutic signal.
+Ondanks een hoge TxGNN-voorspellingsscore (99.95%) is het bewijsmateriaal voor allopurinol bij hepatale porfyrie kritiek zwak: nul klinische trials, slechts twee marginaal gerelateerde publicaties (geen van beide studeert allopurinol rechtstreeks voor porfyrie), en een significant veiligheidsprobleem dat allopurinol porfiyrische aanvallen eigenlijk kan **verergeren**. De clustering van vijf levergebonden voorspellingen op bijna identieke scores suggereert een kennisgraaf-artefact in plaats van een echt therapeutisch signaal.
 
-**To proceed, the following would be needed:**
-- Preclinical investigation of allopurinol's direct effects on the heme biosynthesis pathway (ALAS1, PBG deaminase)
-- A definitive assessment of whether allopurinol induces or exacerbates porphyria in validated animal models
-- Detailed mechanism of action (MOA) characterisation relevant to porphyrin metabolism
-- Retrieval of SmPC safety data (key warnings, contraindications, drug interactions) from CBG-MEB or EMA sources
-- Pharmacogenomic assessment (HLA-B*5801 prevalence in target population)
+**Om door te gaan, zou het volgende nodig zijn:**
+- Preklinisch onderzoek naar allopurinols directe effecten op de heem-biosyntheseroute (ALAS1, PBG-deaminase)
+- Een definitieve beoordeling van of allopurinol porfyrie induceert of verergert in gevalideerde diermodellen
+- Karakterisering van het werkingsmechanisme (MOA) relevant voor porfyrinemetabolisme
+- Opsporing van SmPC-veiligheidsgegevens (belangrijke waarschuwingen, contraïndicaties, geneesmiddelinteracties) uit CBG-MEB- of EMA-bronnen
+- Farmacogenomische beoordeling (prevalentie van HLA-B*5801 in doelpopulatie)
 
 ---
 
-*This report was generated on 2026-04-03 based on evidence pack v4 (data cutoff: 2026-04-03). Results are for research purposes only and do not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+*Dit rapport is gegenereerd op 2026-04-03 op basis van bewijsdossier v4 (gegevenscutoff: 2026-04-03). Resultaten zijn uitsluitend voor onderzoeksdoeleinden en vormen geen medisch advies. Alle kandidaten voor geneesmiddelhercombinatie vereisen klinische validatie vóór toepassing.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,75 +29,76 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# ABCIXIMAB: Drug Repurposing Evaluation — No Candidate Indications Identified
+# ABCIXIMAB: Evaluatie voor Herbestemming van Geneesmiddelen — Geen Kandidaat-indicaties Geïdentificeerd
 
-## One-Sentence Summary
+## Samenvatting in Één Zin
 
-Abciximab (DrugBank: DB00054) is a glycoprotein IIb/IIIa receptor inhibitor historically used as an antiplatelet agent during percutaneous coronary interventions. The TxGNN model did **not generate any predicted new indications** for this drug, and the evidence pack contains **no clinical trials** or **publications** to support a repurposing direction at this time.
+Abciximab (DrugBank: DB00054) is een glycoproteïne IIb/IIIa-receptorinhibitor die historisch wordt gebruikt als antitrombocytair middel tijdens percutane coronaire interventies. Het TxGNN-model genereerde **geen voorspelde nieuwe indicaties** voor dit geneesmiddel, en het bewijspakket bevat **geen klinische onderzoeken** of **publicaties** ter ondersteuning van een herbestemmingsrichting op dit moment.
 
-## Quick Overview
+## Snel Overzicht
 
-| Item | Content |
+| Item | Waarde |
 |------|------|
 | Drug (INN) | Abciximab |
 | DrugBank ID | [DB00054](https://go.drugbank.com/drugs/DB00054) |
-| Original Indication | Not recorded in evidence pack (see note below) |
-| Predicted New Indication | **None** — no TxGNN predictions available |
+| Oorspronkelijke Indicatie | Niet opgenomen in bewijspakket (zie opmerking hieronder) |
+| Voorspelde Nieuwe Indicatie | **Geen** — geen TxGNN-voorspellingen beschikbaar |
 | TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No model predictions, no supporting studies) |
-| NL Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Bewijsniveau | **L5** (Geen modelvoorspellingen, geen ondersteunende studies) |
+| Marktstatus NL | Niet op de markt (Niet op de markt) |
+| Aantal Autorisaties | 0 |
+| Aanbevolen Besluit | **In Wacht** |
 
-> **Note on original indication:** The evidence pack does not contain approved indication text. From established pharmacological references, abciximab (brand name ReoPro) is a chimeric monoclonal antibody Fab fragment that inhibits glycoprotein IIb/IIIa on platelets, and has been used as adjunct antiplatelet therapy during percutaneous coronary intervention (PCI) and unstable angina management. However, the product has been discontinued in many markets globally.
+> **Opmerking over oorspronkelijke indicatie:** Het bewijspakket bevat geen geautoriseerde indicatietekst. Volgens gevestigde farmacologische verwijzingen is abciximab (merknaam ReoPro) een chimeer monoklonaal antilichaam Fab-fragment dat glycoproteïne IIb/IIIa op trombocyten remt, en is gebruikt als aanvullend antitrombocytair middel tijdens percutane coronaire interventie (PCI) en beheer van instabiele angina. Het product is echter in veel markten wereldwijd stopgezet.
 
-## Why is This Prediction Reasonable?
+## Waarom is deze Voorspelling Redelijk?
 
-No TxGNN predictions were generated for abciximab. This may be due to one or more of the following reasons:
+Geen TxGNN-voorspellingen werden gegenereerd voor abciximab. Dit kan het gevolg zijn van een of meer van de volgende redenen:
 
-1. **Limited knowledge graph connectivity:** Abciximab is a biologic (monoclonal antibody fragment) rather than a small molecule. The TxGNN knowledge graph may have insufficient relational data for biologics, resulting in no high-confidence repurposing candidates.
+1. **Beperkte connectiviteit van kennisgraaf:** Abciximab is een biologisch geneesmiddel (monoklonaal antilichaam-fragment) in plaats van een kleine molecule. De TxGNN-kennisgraaf kan onvoldoende relatiegegevens voor biologische geneesmiddelen bevatten, wat resulteert in geen herbestemmingskandidaten met hoge betrouwbaarheid.
 
-2. **Market withdrawal:** Abciximab (ReoPro) has been discontinued or withdrawn from many global markets, including the Netherlands. Its absence from active regulatory databases may reduce its connectivity within the prediction model's drug–disease network.
+2. **Markttrekking:** Abciximab (ReoPro) is in veel wereldwijde markten stopgezet of teruggeroepen, inclusief Nederland. Zijn afwezigheid uit actieve regelgevingsdatabases kan zijn connectiviteit binnen het geneesmiddel-ziekte-netwerk van het voorspellingsmodel verminderen.
 
-3. **Narrow mechanism of action:** As a highly specific GPIIb/IIIa inhibitor acting on platelet aggregation, the pharmacological mechanism may not readily extrapolate to non-cardiovascular disease domains within the model's scoring threshold.
+3. **Beperkt werkingsmechanisme:** Als een zeer specifieke GPIIb/IIIa-inhibitor die werkt op trombocytaire aggregatie, kan het farmacologische mechanisme niet gemakkelijk extrapoleren naar niet-cardiovasculaire ziektegebieden binnen de scoringsdrempel van het model.
 
-Currently, detailed mechanism of action data was not provided in the evidence pack. Based on established pharmacological knowledge, abciximab is a chimeric human-murine monoclonal antibody Fab fragment that binds to the glycoprotein IIb/IIIa receptor on activated platelets, preventing fibrinogen binding and thereby inhibiting platelet aggregation. This mechanism is well-characterized but highly specific to the coagulation/thrombosis pathway.
+Momenteel werden geen gedetailleerde gegevens over werkingsmechanisme in het bewijspakket verstrekt. Op basis van gevestigde farmacologische kennis is abciximab een chimeer humaan-murien monoklonaal antilichaam Fab-fragment dat bindt aan de glycoproteïne IIb/IIIa-receptor op geactiveerde trombocyten, waarbij fibrinogeen-binding wordt voorkomen en daarmee trombocytaire aggregatie wordt geremd. Dit mechanisme is goed gekarakteriseerd maar zeer specifiek voor de stollings-/tromboseroute.
 
-## Clinical Trial Evidence
+## Bewijs van Klinische Onderzoeken
 
-Currently no related clinical trials registered for repurposing candidates (no predicted indications available).
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd voor herbestemmingskandidaten (geen voorspelde indicaties beschikbaar).
 
-## Literature Evidence
+## Bewijzen uit Literatuur
 
-Currently no related literature available for repurposing candidates (no predicted indications available).
+Momenteel geen gerelateerde literatuur beschikbaar voor herbestemmingskandidaten (geen voorspelde indicaties beschikbaar).
 
-## Netherlands Market Information
+## Marktinformatie Nederland
 
-Abciximab has **no current marketing authorizations** registered in the evidence pack. The drug is listed as **not marketed** (Not marketed).
+Abciximab heeft **geen huidige marketingautorisaties** geregistreerd in het bewijspakket. Het geneesmiddel staat vermeld als **niet op de markt** (Niet op de markt).
 
-> **Regulatory context:** No CBG-MEB (College ter Beoordeling van Geneesmiddelen) registrations or EMA centrally authorized product records were identified for this drug. Historically, abciximab was marketed as ReoPro but has been discontinued in many jurisdictions. Any future repurposing consideration would require a new marketing authorization application.
+> **Regelgevingscontext:** Geen CBG-MEB (College ter Beoordeling van Geneesmiddelen)-registraties of EMA centraal geautoriseerde productrecords werden geïdentificeerd voor dit geneesmiddel. Historisch gezien werd abciximab vermarkt als ReoPro maar is stopgezet in veel rechtsgebieden. Elke toekomstige herbestemmingsconsideratie zou een nieuwe aanvraag om marketinggoedkeuring vereisen.
 
-## Safety Considerations
+## Veiligheidsconsideraties
 
-> Please refer to the SmPC (Summary of Product Characteristics) for safety information. The evidence pack does not contain warnings, contraindications, or drug interaction data for abciximab. For historical reference, the ReoPro SmPC documented key risks including bleeding, thrombocytopenia, and hypersensitivity reactions.
+> Zie het SmPC (Samenvatting van de Kenmerken van het Geneesmiddel) voor veiligheidsinformatie. Het bewijspakket bevat geen waarschuwingen, contra-indicaties of geneesmiddel-interactiegegevens voor abciximab. Voor historische referentie documenteerde het ReoPro SmPC belangrijke risico's, waaronder bloeding, trombocytopenie en overgevoeligheidsreacties.
 
-## Conclusion and Next Steps
+## Conclusie en Vervolgstappen
 
-**Decision: Hold**
+**Besluit: In Wacht**
 
-**Rationale:**
-The TxGNN model did not identify any repurposing candidates for abciximab. Combined with the drug's lack of current market authorization in the Netherlands and significant data gaps (no MOA data, no safety data, no regulatory filings in the evidence pack), there is insufficient basis to advance this drug into any repurposing evaluation pathway.
+**Reden:**
+Het TxGNN-model identificeerde geen herbestemmingskandidaten voor abciximab. Dit, gecombineerd met het gebrek aan huidige marketingautorisatie van het geneesmiddel in Nederland en aanzienlijke gegevensgaten (geen MOA-gegevens, geen veiligheidsconsideraties, geen regelgevingsdossiers in het bewijspakket), biedt onvoldoende grondslag om dit geneesmiddel in enig evaluatiepad voor herbestemming verder te brengen.
 
-**To proceed, the following would be needed:**
-- TxGNN model re-evaluation with updated knowledge graph data to determine if any predictions emerge
-- Retrieval of mechanism of action data from DrugBank API (identified as data gap DG002)
-- Clarification of global regulatory status and commercial availability
-- Assessment of whether a biologic-specific repurposing model would yield different results
-- If a candidate indication is eventually identified: retrieval of SmPC safety data (identified as blocking data gap DG001)
+**Ter voortgang zou het volgende nodig zijn:**
+- Hernieuwde evaluatie van het TxGNN-model met bijgewerkte kennisgraafgegevens om te bepalen of voorspellingen naar voren komen
+- Opvraging van werkingsmechanisme-gegevens uit de DrugBank API (geïdentificeerd als gegevensgat DG002)
+- Verduidelijking van wereldwijde regelgevingsstatus en commerciële beschikbaarheid
+- Evaluatie of een biologisch-specifiek herbestemmingsmodel verschillende resultaten zou opleveren
+- Indien een kandidaat-indicatie uiteindelijk wordt geïdentificeerd: opvraging van SmPC-veiligheidsconsideraties (geïdentificeerd als blokkerend gegevensgat DG001)
 
 ---
 
-*This report was generated on 2026-04-03 based on Evidence Pack v4. Results are for research purposes only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Dit rapport werd gegenereerd op 2026-04-03 op basis van Bewijspakket v4. Resultaten zijn alleen bestemd voor onderzoeksdoeleinden en vormen geen medisch advies. Alle kandidaten voor geneesmiddelherbestemming vereisen klinische validatie vóór toepassing.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

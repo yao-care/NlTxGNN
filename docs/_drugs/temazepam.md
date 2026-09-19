@@ -29,109 +29,106 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-Using `txgnn-pipeline` skill to guide report generation for the NlTxGNN project. Now generating the evaluation report from the provided Evidence Pack.
+# Temazepam: Van wereldwijd gevestigd slaapmiddel tot slaapaandoening, inleiding en onderhoud van slaap
+
+## Samenvatting in één zin
+
+Temazepam is een benzodiazepineslaapmiddel met tientallen jaren wereldwijd gebruik voor slapeloosheid, maar is momenteel niet in Nederland geregistreerd onder een CBG-MEB-goedkeuring.
+Het TxGNN-model voorspelt — en bevestigt sterk — de werkzaamheid ervan voor **slaapaandoening, inleiding en onderhoud van slaap**,
+met **geen geregistreerde klinische onderzoeken** maar **20 publikaties** (inclusief minstens één fase III RCT) ter ondersteuning van deze richting.
+Opmerkelijk is dat TxGNN hier *valideert* een bekende indicatie in plaats van een nieuwe te identificeren, waardoor dit eigenlijk een markttoetredingsevaluatie voor het Nederlandse gezondheidsstelsel is.
 
 ---
 
-# Temazepam: From Established Global Hypnotic to Sleep Disorder, Initiating and Maintaining Sleep
+## Snel overzicht
 
-## One-Sentence Summary
-
-Temazepam is a benzodiazepine hypnotic with decades of established global use for insomnia, but is not currently registered in the Netherlands under a CBG-MEB marketing authorisation.
-The TxGNN model predicts — and strongly confirms — its efficacy for **sleep disorder, initiating and maintaining sleep**,
-with **no registered clinical trials** but **20 publications** (including at least one Phase III RCT) supporting this direction.
-Notably, TxGNN is here *validating* a well-known indication rather than identifying a novel one, making this effectively a market-entry evaluation for the Dutch healthcare system.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in the Netherlands; globally established for insomnia / sleep initiation and maintenance |
-| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L1 (multiple completed RCTs including ≥1 Phase III) |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Niet geregistreerd in Nederland; wereldwijd gevestigd voor slapeloosheid / slaapaanvang en onderhoud |
+| Voorspelde nieuwe indicatie | Slaapaandoening, inleiding en onderhoud van slaap |
+| TxGNN-voorspellingsscore | 99.82% |
+| Bewijsniveau | L1 (meerdere afgeronde RCT's inclusief ≥1 fase III) |
+| NL-marktpositie | Niet op de markt |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | Doorgaan met voorzorgsmaatregelen |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data was not retrieved from DrugBank (a data gap flagged in this Evidence Pack). Based on well-established pharmacological knowledge, Temazepam is a short-to-intermediate half-life **benzodiazepine** belonging to the GABA-A receptor positive allosteric modulator class. By enhancing GABAergic inhibitory neurotransmission in the CNS — particularly in sleep-regulating circuits of the hypothalamus and limbic system — it reduces sleep latency and nocturnal awakenings. Its half-life of approximately 8–20 hours makes it particularly suited for sleep *maintenance* insomnia compared to ultra-short agents such as triazolam.
+Momenteel werden gedetailleerde gegevens over het werkingsmechanisme niet opgehaald uit DrugBank (een gegevensgat dat in dit Evidence Pack is opgemerkt). Op basis van goed gevestigde farmacologische kennis is temazepam een benzodiazepine met een korte tot intermediaire halfwaardetijd, behorend tot de klasse van positieve allosterische modulatoren van de GABA-A-receptor. Door de GABAerge remmende neurotransmissie in het centraal zenuwstelsel — in het bijzonder in slaapregulerende circuits van de hypothalamus en limbisch systeem — te versterken, vermindert het de slaaplatentie en nachtelijke ontwakeringen. De halfwaardetijd van ongeveer 8–20 uur maakt het vooral geschikt voor slapeloosheid bij slaaponderhoud in vergelijking met ultra-kortwerkende middelen zoals triazolam.
 
-The predicted indication, "sleep disorder, initiating and maintaining sleep," is the canonical indication for which Temazepam holds regulatory approval in the United States (FDA), the United Kingdom, Australia, and numerous other jurisdictions. The TxGNN model's high confidence score (99.82%, rank 501 of all drug–disease pairs) is therefore unsurprising: the knowledge graph correctly captures decades of clinical evidence linking this compound to insomnia pharmacotherapy.
+De voorspelde indicatie, "slaapaandoening, inleiding en onderhoud van slaap," is de canonieke indicatie waarvoor temazepam regelgeving heeft in de Verenigde Staten (FDA), het Verenigd Koninkrijk, Australië en talrijke andere landen. De hoge betrouwbaarheidsscore van het TxGNN-model (99.82%, rang 501 van alle medicijn-ziektepaarcombinaties) is daarom niet verrassend: de kennisgraaf legt correct tientallen jaren klinische bewijsvoering vast die deze stof koppelt aan insomniafarmacotherapie.
 
-The clinical relevance for the Netherlands is precisely the absence of a CBG-MEB authorisation. Whether this reflects a deliberate formulary policy, historical market withdrawal, or an unmet regulatory filing is outside the scope of this Evidence Pack and warrants investigation. Regardless, the evidence base is mature: from 1978 sleep-laboratory dose-finding studies through a 2024 multicenter Phase III RCT, Temazepam has been consistently evaluated for this indication.
-
----
-
-## Clinical Trial Evidence
-
-No clinical trials were retrieved from ClinicalTrials.gov or ICTRP for the Temazepam × sleep disorder query.
-
-> Currently no related clinical trials registered in ClinicalTrials.gov or ICTRP against this specific query. Note: historical trials predating online registration systems (pre-2000) would not appear in these registries; substantive RCT evidence is captured in the literature table below.
+De klinische relevantie voor Nederland is precies het ontbreken van een CBG-MEB-autorisatie. Of dit een bewust formulairumbeleid, historische marktterugtrekking of een niet ingediende regelgevingsaanvraag weerspiegelt, valt buiten het bereik van dit Evidence Pack en verdient onderzoek. In ieder geval is de bewijsbasis volwassen: van slaaplaboratoriumdosisonderzoeken in 1978 tot een multicenter fase III RCT in 2024 is temazepam consistent geëvalueerd voor deze indicatie.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-Prioritised by study design (RCT > systematic review/meta-analysis > review/guideline > clinical study). Showing top 10 of 20 retrieved publications.
+Er werden geen klinische onderzoeken opgehaald uit ClinicalTrials.gov of ICTRP voor de zoekopdracht temazepam × slaapaandoening.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [39304187](https://pubmed.ncbi.nlm.nih.gov/39304187/) | 2024 | Phase III RCT | *Journal of Palliative Medicine* | Three-arm double-blind multicenter RCT: Temazepam vs melatonin PR vs placebo for insomnia in advanced cancer (prevalence 30–78%); directly evaluates temazepam efficacy and safety as a pharmacologic hypnotic |
-| [39374004](https://pubmed.ncbi.nlm.nih.gov/39374004/) | 2024 | RCT | *JAMA Internal Medicine* | Masked taper + CBTI vs standard taper for benzodiazepine receptor agonist (BZRA) discontinuation; informs safe de-prescribing protocols for temazepam in older adults |
-| [2859305](https://pubmed.ncbi.nlm.nih.gov/2859305/) | 1985 | RCT | *Journal of Clinical Psychopharmacology* | Multicenter double-blind crossover study: Temazepam 30 mg vs midazolam 15 mg vs placebo for sleep maintenance insomnia; demonstrates hypnotic efficacy with acceptable next-day residual effects |
-| [6149491](https://pubmed.ncbi.nlm.nih.gov/6149491/) | 1984 | RCT | *Neuropsychobiology* | Comparative RCT of temazepam 40 mg vs flurazepam 30 mg: both produced significant improvements in sleep quality and duration; temazepam showed less next-morning performance impairment |
-| [342551](https://pubmed.ncbi.nlm.nih.gov/342551/) | 1978 | Clinical Study | *Journal of Clinical Pharmacology* | Sleep-laboratory evaluation of temazepam 30 mg under short-, intermediate-, and long-term administration; foundational dose-finding study establishing the 30 mg standard dose |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Systematic Review / NMA | *Sleep* | Network meta-analysis comparing hypnotics for insomnia in older adults; positions temazepam relative to newer agents (z-drugs, orexin antagonists) in terms of efficacy and safety profile |
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Clinical Practice Guideline | *Journal of Clinical Sleep Medicine* | AASM guideline on pharmacologic treatment of chronic insomnia in adults; evaluates temazepam as an individual agent with drug-specific evidence review |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | *Drugs & Aging* | Pharmacological management of insomnia in the elderly (57% prevalence); discusses benzodiazepines including temazepam with risk–benefit analysis for geriatric populations |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | *Clinical Therapeutics* | Safety and efficacy review of sleep medicines in older adults, including pharmacokinetic changes with ageing relevant to temazepam dosing |
-| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | *Journal of Clinical Psychiatry* | Historical pharmacology review of benzodiazepine hypnotics; charts temazepam's emergence as the preferred short half-life agent replacing flurazepam in the 1980s |
+> Op dit moment zijn geen gerelateerde klinische onderzoeken geregistreerd in ClinicalTrials.gov of ICTRP voor deze specifieke zoekopdracht. Opmerking: historische onderzoeken van vóór onlineregistratiesystemen (voor 2000) zouden niet in deze registries verschijnen; substantieel RCT-bewijs wordt vastgelegd in de literatuurtabel hieronder.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-Temazepam currently holds **no CBG-MEB marketing authorisation** in the Netherlands. There are no registered RVG numbers, no approved indications on file, and no active product licences in the dataset.
+Geprioriteerd naar onderzoeksontwerp (RCT > systematische review/meta-analyse > review/richtlijn > klinische studie). Topping 10 van 20 opgehaalde publikaties.
 
-| RVG Number | Product Name | Dosage Form | Approved Indication |
-|-----------|-------------|------------|-------------------|
-| — | — | — | No authorisations on record |
-
-> **Note for reviewers:** The absence of a Dutch registration does not reflect a lack of global evidence. Temazepam is authorised in the US (DEA Schedule IV), UK, Australia, and other jurisdictions under brand names such as Restoril, Normison, and Euhypnos. A CBG-MEB application or a request for inclusion in the Dutch national formulary (Farmacotherapeutisch Kompas) would require a formal marketing authorisation dossier.
-
----
-
-## Safety Considerations
-
-Formal safety data (SmPC warnings, contraindications, DDI data) was not retrieved for this Evidence Pack. The following applies:
-
-> No SmPC, PIL, or DDI data was available from the sources queried. Please refer to the EMA/MHRA product information for authorised temazepam products, or the DrugBank entry for DB00231, for a full safety profile.
-
-As a benzodiazepine class alert, prescribers and pharmacists in the Netherlands should be aware that temazepam carries class-level risks including **dependence and tolerance** (critical for chronic insomnia management), **CNS depression**, risk of falls and fractures in older adults, and potential for rebound insomnia on discontinuation — all of which are relevant to the predicted indication and should be addressed in any market authorisation or formulary review.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|------------|---------------------------|
+| [39304187](https://pubmed.ncbi.nlm.nih.gov/39304187/) | 2024 | Fase III RCT | *Journal of Palliative Medicine* | Driearmige dubbelblindde multicenterische RCT: Temazepam vs melatonine PR vs placebo voor slapeloosheid bij geavanceerde kanker (prevalentie 30–78%); evalueert direct de werkzaamheid en veiligheid van temazepam als farmacologisch slaapmiddel |
+| [39374004](https://pubmed.ncbi.nlm.nih.gov/39374004/) | 2024 | RCT | *JAMA Internal Medicine* | Gemaskeerde afbouw + CBTI vs standaardafbouw voor benzodiazepinereceptoragonist (BZRA) stopzetting; informeert veilige deprescriptieprotocollen voor temazepam bij ouderen |
+| [2859305](https://pubmed.ncbi.nlm.nih.gov/2859305/) | 1985 | RCT | *Journal of Clinical Psychopharmacology* | Multicenterische dubbelblindde crossover-studie: Temazepam 30 mg vs midazolam 15 mg vs placebo voor slapeloosheid bij slaaponderhoud; toont hypnagoge werkzaamheid aan met acceptabele nawerking |
+| [6149491](https://pubmed.ncbi.nlm.nih.gov/6149491/) | 1984 | RCT | *Neuropsychobiology* | Vergelijkende RCT van temazepam 40 mg vs flurazepam 30 mg: beide veroorzaakten significante verbeteringen in slaapkwaliteit en duur; temazepam vertoonde minder ochtendprestatievermindering |
+| [342551](https://pubmed.ncbi.nlm.nih.gov/342551/) | 1978 | Klinische studie | *Journal of Clinical Pharmacology* | Slaaplaboratoriumevaluatie van temazepam 30 mg bij korte-, intermediaire- en langetermijntoepassing; fundamentele dosisoptimalisatiestudie die de standaarddosis van 30 mg vaststelt |
+| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Systematische review / NMA | *Sleep* | Netwerkmetaanalyse vergelijkende slaaptrekkers voor slapeloosheid bij ouderen; positioneert temazepam relatief tot nieuwere middelen (z-drugs, orexinantagonisten) met betrekking tot werkzaamheid en veiligheidsprofiel |
+| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Klinische praktijkrichtlijn | *Journal of Clinical Sleep Medicine* | AASM-richtlijn over farmacologische behandeling van chronische slapeloosheid bij volwassenen; evalueert temazepam als apart middel met geneesmiddelspecifieke bewijsevaluatie |
+| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | *Drugs & Aging* | Farmacologische behandeling van slapeloosheid bij ouderen (prevalentie 57%); bespreekt benzodiazepines inclusief temazepam met risico-batenanalyse voor geriëmetrische populaties |
+| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | *Clinical Therapeutics* | Veiligheids- en werkzaamsheidsoverzicht van slaapgeneesmiddelen bij ouderen, inclusief farmacokinetische veranderingen bij veroudering relevant voor temazepamaftiteling |
+| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | *Journal of Clinical Psychiatry* | Historisch farmacologieoverzicht van benzodiazepineslaapmiddelen; toont temazepams opkomst als voorkeurmiddel met korte halfwaardetijd ter vervanging van flurazepam in de jaren 1980 |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie Nederlandse markt
 
-**Decision: Proceed with Guardrails**
+Temazepam heeft momenteel **geen CBG-MEB-handelsgoedkeuring** in Nederland. Er zijn geen geregistreerde RVG-nummers, geen goedgekeurde indicaties in dossier en geen actieve productvergunningen in de dataset.
 
-**Rationale:**
-The TxGNN prediction is confirmed by a robust and mature evidence base (Phase III RCT, multiple earlier RCTs, systematic reviews, and clinical guidelines), and the indication is Temazepam's globally established primary use — this is not a speculative repurposing scenario but rather a market-entry question for the Netherlands. However, the complete absence of a CBG-MEB authorisation, combined with well-known benzodiazepine class safety concerns (dependence, elderly fall risk), warrants a structured regulatory and clinical safety review before any formulary recommendation.
+| RVG-nummer | Productnaam | Darreichingsvorm | Goedgekeurde indicatie |
+|-----------|------------|------------------|----------------------|
+| — | — | — | Geen autorisaties geregistreerd |
 
-**To proceed, the following is needed:**
+> **Opmerking voor reviewers:** Het ontbreken van een Nederlandse registratie weerspiegelt geen gebrek aan wereldwijd bewijs. Temazepam is geautoriseerd in de VS (DEA Schema IV), VK, Australië en andere landen onder merknamen zoals Restoril, Normison en Euhypnos. Een CBG-MEB-aanvraag of een verzoek om opname in het Nederlands nationaal formularium (Farmacotherapeutisch Kompas) zou een formeel handelsgoedkeuringsdossier vereisen.
 
-- **Regulatory clarification**: Determine why Temazepam lacks a Dutch/EMA centralised authorisation — historical withdrawal, patent expiry, or never-filed; assess whether a CBG-MEB MRP/DCP application is feasible
-- **SmPC retrieval**: Obtain and parse the UK MHRA or Australian TGA SmPC for warnings, contraindications, and DDI data (remediation for DG001)
-- **DrugBank MOA data**: Retrieve formal mechanism-of-action, pharmacokinetics, and toxicity data via DrugBank API (remediation for DG002)
-- **Dutch clinical context**: Review Farmacotherapeutisch Kompas and NHG-standaard Slaapproblemen en slaapmiddelen to understand current NL prescribing landscape and whether alternative agents have displaced temazepam
-- **Elderly population safety plan**: Given that most literature highlights geriatric concerns, a risk management plan addressing Beers Criteria alignment and deprescribing protocols is required
-- **Controlled substance classification**: Confirm Opiumwet (Dutch Opium Act) scheduling for temazepam and its implications for dispensing and monitoring
+---
+
+## Veiligheidsoverwegingen
+
+Formele veiligheidsgegevens (SmPC-waarschuwingen, contra-indicaties, DDI-gegevens) werden niet opgehaald voor dit Evidence Pack. Het volgende is van toepassing:
+
+> Er waren geen SmPC-, PIL- of DDI-gegevens beschikbaar uit de bevraagde bronnen. Raadpleeg alstublieft de EMA/MHRA-productinformatie voor geautoriseerde temazepamproducten of de DrugBank-entry DB00231 voor een volledig veiligheidsprofiel.
+
+Als klaswaarschuwing voor benzodiazepines dienen voorschrijvers en apotheken in Nederland zich bewust te zijn dat temazepam klasrisico's meebrengt, waaronder **afhankelijkheid en tolerantie** (kritiek voor beheer van chronische slapeloosheid), **CZS-depressie**, risico op vallen en fracturen bij ouderen en potentieel voor rebound-slapeloosheid bij stopzetting — alles relevant voor de voorspelde indicatie en moet worden aangepakt in enige handelsgoedkeuring- of formulierebeoordeling.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Doorgaan met voorzorgsmaatregelen**
+
+**Motivering:**
+De TxGNN-voorspelling wordt bevestigd door een robuuste en volwassen bewijsbasis (fase III RCT, meerdere eerdere RCT's, systematische reviews en klinische richtlijnen), en de indicatie is het wereldwijd gevestigde primaire gebruik van temazepam — dit is geen speculatieve herbestemming maar eerder een markttoetredingsvraag voor Nederland. Het ontbreken van een CBG-MEB-autorisatie echter, gecombineerd met bekende benzodiazepineklassveiligheidsbedenking (afhankelijkheid, valrisico bij ouderen), rechtvaardigt een gestructureerde regelgevings- en klinische veiligheidsbeoordeling voordat enige formuliereaanbeveling wordt gedaan.
+
+**Om door te gaan, is het volgende nodig:**
+
+- **Regelgevendenklarering**: Bepaal waarom temazepam geen Nederlandse/EMA-gecentraliseerde autorisatie heeft — historische terugtrekking, octrooiverlopen of nooit ingediend; beoordeel of een CBG-MEB MRP/DCP-aanvraag haalbaar is
+- **SmPC-gegevensverzameling**: Verkrijg en analyseer de SmPC van UK MHRA of Australische TGA voor waarschuwingen, contra-indicaties en DDI-gegevens (verhelping van DG001)
+- **DrugBank MOA-gegevens**: Haal formele gegevens over werkingsmechanisme, farmacokinetiek en toxiciteit op via DrugBank API (verhelping van DG002)
+- **Nederlandse klinische context**: Beoordeel Farmacotherapeutisch Kompas en NHG-standaard Slaapproblemen en slaapmiddelen om het huiden NL-voorschrijflandschap te begrijpen en of alternatieve middelen temazepam hebben vervangen
+- **Veiligheidsplan oudere populatie**: Gezien de nadruk in de meeste literatuur op geriëmetrische bedenking, is een risicobeheerplan dat zich richt op Beers Criteria-afstemming en deprescriptieprotocollen vereist
+- **Classificatie gecontroleerde stof**: Bevestig de planning onder de Opiumwet (Nederlandse Opiumwet) voor temazepam en de implicaties daarvan voor verstrekking en bewaking
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

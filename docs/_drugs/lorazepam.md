@@ -29,83 +29,80 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm this is a Netherlands (NL) TxGNN report generation task. The skill confirms the workflow. Now generating the evaluation report based on the provided Evidence Pack.
+# Lorazepam: van angststoornis en sedatie naar trigeminus-zenuwneoplasma
+
+## Samenvatting in één zin
+
+Lorazepam is een benzodiazepine dat historisch wordt gebruikt voor angststoornissen, sedatie en korte-termijnbehandeling van slapeloosheid.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **trigeminus-zenuwneoplasma**,
+met **geen klinische trials** en **geen publicaties** die deze richting ondersteunen — deze voorspelling is zeer waarschijnlijk een vals-positief in de kennisgraaf en moet eerder worden beschouwd als waarschuwingssignaal dan als echte kandidaat voor geneesmiddel-herwenning.
 
 ---
 
-# Lorazepam: From Anxiety and Sedation to Trigeminal Nerve Neoplasm
+## Kort overzicht
 
-## One-Sentence Summary
-
-Lorazepam is a benzodiazepine historically used for anxiety, sedation, and short-term insomnia management.
-The TxGNN model predicts it may be effective for **Trigeminal Nerve Neoplasm**,
-with **no clinical trials** and **no publications** currently supporting this direction — this prediction is most likely a knowledge graph false positive and should be treated as a warning signal rather than a genuine repurposing candidate.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Anxiety and sedation (benzodiazepine class; no NL marketing authorisation on record) |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed |
-| Number of Authorisations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Angststoornis en sedatie (benzodiazepineklasse; geen Nederlandse markttoelating op record) |
+| Voorspelde nieuwe indicatie | Trigeminus-zenuwneoplasma |
+| TxGNN-voorspellingsscore | 99.87% |
+| Evidententieniveau | L5 |
+| Status op Nederlandse markt | Niet in de handel |
+| Aantal toelatingen | 0 |
+| Aanbevolen besluit | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the provided dataset. Based on known pharmacological information, Lorazepam is a benzodiazepine — a positive allosteric modulator at the GABA-A receptor — that enhances chloride ion influx to produce sedative, anxiolytic, muscle-relaxant, and anticonvulsant effects. Its clinical history includes short-term management of anxiety disorders, procedural sedation, and seizure control.
+Momenteel zijn geen gedetailleerde werkingsmechanisme-gegevens beschikbaar in de verstrekte dataset. Op basis van bekende farmacologische informatie is Lorazepam een benzodiazepine — een positieve allosterische modulator van de GABA-A-receptor — die chloride-ioninstroom versterkt om sedatieve, anxiolytische, spierontspannende en anticonvulsieve effecten op te wekken. De klinische geschiedenis omvat korte-termijnbehandeling van angststoornissen, procedurele sedatie en controle van aanvallen.
 
-There is **no established mechanistic link** between GABA-A receptor modulation and trigeminal nerve neoplasm biology. Lorazepam has no known antitumour, anti-angiogenic, or antiproliferative activity. Trigeminal nerve tumours are space-occupying lesions managed primarily through neurosurgery or radiotherapy; benzodiazepines play no recognised role in their pathophysiology or treatment.
+Er bestaat **geen vastgestelde mechanistische relatie** tussen GABA-A-receptormodulatie en de biologie van trigeminus-zenuwneoplasma. Lorazepam heeft geen bekende antitumor-, anti-angiogene of antiproliferatieve activiteit. Trigeminus-zenuwneoplasma zijn ruimte-innemende laesies die vooral worden beheerd door neurochirurgie of radiotherapie; benzodiazepinen spelen geen erkende rol in hun pathofysiologie of behandeling.
 
-The exceptionally high TxGNN score (0.9987, rank 403) is almost certainly attributable to **knowledge graph noise or feature overfitting**: the broad connectivity between drug nodes and neurological disease nodes in the underlying knowledge graph systematically inflates scores for rare neuro-oncological conditions, generating false positives. This is a recognised limitation of graph-based prediction models and should trigger a graph-quality audit rather than clinical follow-up.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De uitzonderlijk hoge TxGNN-score (0.9987, rangschikking 403) is vrijwel zeker toe te schrijven aan **kennisgraaf-ruis of overfitten van kenmerken**: de brede connectiviteit tussen geneesmiddelenknooppunten en neurologische ziekteknopen in de onderliggende kennisgraaf verhoogt systematisch scores voor zeldzame neuro-oncologische aandoeningen, waardoor valse positieven ontstaan. Dit is een erkende beperking van op graaf-gebaseerde voorspellingsmodellen en moet een kwaliteitsaudit van de graaf activeren in plaats van klinische vervolgstappen.
 
 ---
 
-## Literature Evidence
+## Bewijs van klinische trials
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Lorazepam currently holds **no CBG-MEB marketing authorisations** in the Netherlands and is not registered for any indication in the Dutch market. There are therefore no RVG numbers, SmPC documents, or approved indication texts available from the national register.
-
-> For reference: in other jurisdictions where Lorazepam is authorised, the SmPC and PIL should be consulted for safety information, approved indications, and prescribing conditions.
+Momenteel geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijs uit literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel geen relevante literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Lorazepam beschikt momenteel over **geen CBG-MEB-marketingtoelatingen** in Nederland en is niet geregistreerd voor enige indicatie op de Nederlandse markt. Er zijn daarom geen RVG-nummers, SmPC-documenten of goedgekeurde indicatieteksten beschikbaar van het nationaal register.
 
-**Rationale:**
-This is an L5 prediction — TxGNN model output only — with no supporting clinical trials, no published literature, no mechanistic basis, and no plausible pharmacological rationale connecting Lorazepam to trigeminal nerve neoplasm. The high numeric score almost certainly reflects systematic false-positive generation in the knowledge graph rather than a genuine drug-disease signal.
+> Ter referentie: in andere jurisdicties waar Lorazepam is goedgekeurd, moeten de SmPC (Samenvatting van de Productkenmerken) en PIL (Patiëntenbijsluiter) worden geraadpleegd voor veiligheidsinformatie, goedgekeurde indicaties en voorschrijfvoorwaarden.
 
-**To proceed, the following is needed:**
+---
 
-- **Graph quality audit**: Examine whether the TxGNN knowledge graph systematically over-connects benzodiazepine nodes to rare neurological disease nodes, and apply score recalibration or edge-weight correction
-- **Mechanistic hypothesis generation**: Identify, if any, a biological pathway through which GABA-A modulation could influence trigeminal nerve tumour growth or survival — currently none has been proposed
-- **Minimum evidence threshold**: At minimum one peer-reviewed case report or in vitro study documenting any benzodiazepine activity relevant to peripheral nerve neoplasm before any further investment in this candidate is warranted
-- **MOA data gap resolution**: Retrieve and integrate the full Lorazepam DrugBank entry (DrugBank ID: DB00186) to support future mechanistic plausibility assessments across all predicted indications
+## Veiligheidsaspecten
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Wachten**
+
+**Motivering:**
+Dit is een L5-voorspelling — alleen TxGNN-modeluitvoer — zonder ondersteunend bewijs van klinische trials, geen gepubliceerde literatuur, geen mechanistische basis en geen plausibele farmacologische grondslag die Lorazepam verbindt aan trigeminus-zenuwneoplasma. De hoge numerieke score weerspiegelt vrijwel zeker systematische vals-positieve generatie in de kennisgraaf in plaats van een werkelijk geneesmiddel-ziektesignaal.
+
+**Om door te gaan, is het volgende nodig:**
+
+- **Kwaliteitsaudit van de graaf**: Onderzoeken of de TxGNN-kennisgraaf systematisch benzodiazepineknooppunten over-verbindt met zeldzame neurologische ziekteknopen, en scorerecalibrering of kantgewichtcorrectie toepassen
+- **Generatie van mechanistische hypothese**: Identificeer een biologisch pad waardoor GABA-A-modulatie de tumor- of overlevingsgroei van trigeminus-zenuwneoplasma zou kunnen beïnvloeden — op dit moment is geen enkel voorgesteld
+- **Minimale drempel voor bewijs**: Minimaal één peer-reviewed caseraport of in vitro-studie die enige benzodiazepine-activiteit relevant voor perifere zenuwneoplasma documenteert, voordat verdere investeringen in deze kandidaat gerechtvaardigd zijn
+- **Aanpakken van MOA-gegevensgat**: Haal het volledige Lorazepam DrugBank-item op (DrugBank-ID: DB00186) om toekomstige beoordelingen van mechanistische plausibiliteit voor alle voorspelde indicaties te ondersteunen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

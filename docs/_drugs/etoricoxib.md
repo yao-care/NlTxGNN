@@ -29,92 +29,89 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. Now generating the Netherlands drug repurposing evaluation report for Etoricoxib.
+# Etoricoxib: van musculoskeletale ontsteking naar migraine
+
+## Samenvatting in één zin
+
+Etoricoxib is een selectieve COX-2-remmer die in veel landen wordt gebruikt voor musculoskeletale ontstekingsaandoeningen — waaronder osteoartritis, reumatoïde artritis en spondylitis ankylosans — hoewel het momenteel geen registratie van de CBG-MEB in Nederland heeft.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **migraine** met een score van 99.90%, maar er zijn momenteel **geen klinische studies** en **geen publicaties** die deze specifieke indicatie rechtstreeks ondersteunen.
+Nauw gerelateerde voorspelde indicaties — met name **koppeijn** (rang 9) en **trigeminale autonome cefalalgia** (rang 10) — tonen vroeg casuïstisch bewijs dat indirecte mechanistische ondersteuning biedt en beter haalbare doelstellingen voor onderzoek op korte termijn vormen.
 
 ---
 
-# Etoricoxib: From Musculoskeletal Inflammation to Migraine Disorder
+## Kort overzicht
 
-## One-Sentence Summary
-
-Etoricoxib is a selective COX-2 inhibitor used in many countries for musculoskeletal inflammatory conditions — including osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis — though it currently holds no marketing authorization from the CBG-MEB in the Netherlands.
-The TxGNN model predicts it may be effective for **migraine disorder** with a score of 99.90%, yet there are currently **no clinical trials** and **no publications** directly supporting this specific indication.
-Closely related predicted indications — particularly **headache disorder** (rank 9) and **trigeminal autonomic cephalalgia** (rank 10) — show early case-level evidence that provides indirect mechanistic support and represents a more tractable near-term research target.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Musculoskeletal inflammatory conditions (osteoarthritis, ankylosing spondylitis, acute gouty arthritis); no CBG-MEB authorization in the Netherlands |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originale indicatie | Musculoskeletale ontstekingsaandoeningen (osteoartritis, spondylitis ankylosans, acute jichtige artritis); geen CBG-MEB-registratie in Nederland |
+| Voorspelde nieuwe indicatie | Migraine |
+| TxGNN-voorspellingsscore | 99.90% |
+| Bewijsniveau | L5 |
+| Marktstatus NL | Niet op de markt |
+| Aantal registraties | 0 |
+| Aanbevolen beslissing | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Etoricoxib is a selective cyclooxygenase-2 (COX-2) inhibitor. Detailed mechanism of action data from DrugBank was not available in this evidence pack, however based on its pharmacological class, etoricoxib works by selectively blocking the COX-2 enzyme, reducing synthesis of prostaglandins — in particular prostaglandin E2 (PGE2) — in inflamed tissues. By sparing COX-1 activity (which protects the gastric mucosa), etoricoxib achieves anti-inflammatory and analgesic effects with a lower gastrointestinal risk profile than non-selective NSAIDs such as indomethacin or naproxen.
+Etoricoxib is een selectieve cyclooxygenase-2 (COX-2)-remmer. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank waren niet beschikbaar in dit bewijspakket, maar op basis van zijn farmacologische klasse werkt etoricoxib door selectief het COX-2-enzym te remmen, waardoor de synthese van prostaglandines — met name prostaglandine E2 (PGE2) — in ontstoken weefsels wordt verminderd. Door COX-1-activiteit te sparen (die de maagmucosa beschermt), bereikt etoricoxib anti-ontstekings- en pijnstillende effecten met een lager gastro-intestinaal risicoprofiel dan niet-selectieve NSAIDs zoals indometacine of naproxen.
 
-The mechanistic bridge from musculoskeletal inflammation to migraine is scientifically plausible. COX-2 is expressed in the central nervous system and participates in neurogenic inflammation within the trigeminovascular system. PGE2 produced via COX-2 can activate trigeminal nociceptors, promote central sensitization, and facilitate meningeal vasodilation — all recognized elements of the migraine cascade. This rationale is indirectly supported by the well-established efficacy of indomethacin (a non-selective COX inhibitor) in several primary headache subtypes, suggesting that COX pathway inhibition plays a genuine physiological role in headache pathophysiology.
+De mechanistische brug van musculoskeletale ontsteking naar migraine is wetenschappelijk plausibel. COX-2 wordt uitgedrukt in het centrale zenuwstelsel en is betrokken bij neurogene ontsteking in het trigeminovasculaire systeem. PGE2 geproduceerd via COX-2 kan trigeminale nociceptoren activeren, centrale sensitisatie bevorderen en meningeale vasodilatie vergemakkelijken — allemaal erkende elementen van de migrainecascade. Deze logica wordt indirect ondersteund door de goed gevestigde effectiviteit van indometacine (een niet-selectieve COX-remmer) in verschillende primaire koppeijntypen, wat suggereert dat COX-remming een echte fysiologische rol speelt in de pathofysiologie van koppeijn.
 
-The critical limitation is that the predicted indication is **migraine disorder** at a broad disease level. No direct clinical evidence currently exists demonstrating etoricoxib's efficacy specifically in migraine. The TxGNN model's high score reflects strong graph-level associative connectivity, not clinical validation. The more evidenced signals — case series and case reports of etoricoxib resolving primary stabbing headache, secondary cough headache, and indomethacin-responsive trigeminal autonomic cephalalgias — point to narrower, mechanistically coherent subtypes where a proof-of-concept investigation would be better targeted.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for etoricoxib in migraine disorder.
+De kritieke beperking is dat de voorspelde indicatie **migraine** op een algemeen ziekteniveau ligt. Er bestaat momenteel geen direct klinisch bewijs voor de effectiviteit van etoricoxib specifiek bij migraine. De hoge score van het TxGNN-model weerspiegelt sterke connectiviteit op graafniveau, niet klinische validatie. De sterker ondersteunde signalen — casuïstische series en casusrapporten van etoricoxib die primaire steekaanvallen van het hoofd, secundaire hoesthoofpijn en indometacine-responsieve trigeminale autonome cephalalgieën verlichten — wijzen op engere, mechanistisch samenhangende subtypes waar een bewijs-van-concept-onderzoek beter gericht zou zijn.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische studies
 
-Currently no related literature available for etoricoxib in migraine disorder.
-
----
-
-## Netherlands Market Information
-
-Etoricoxib currently holds **no marketing authorization** from the CBG-MEB (College ter Beoordeling van Geneesmiddelen — Medicines Evaluation Board). The drug is not marketed in the Netherlands as of the data cutoff (May 2026). Notably, etoricoxib has also never received approval from the US FDA, though it is authorized in more than 70 countries — including several EU member states via national procedures — and is listed in the EMA's assessment history.
-
-Any future application for use in the Netherlands would require either a centralized EMA marketing authorization procedure or a national CBG-MEB submission supported by a full SmPC (Samenvatting van de Productkenmerken). The absence of a current Dutch SmPC means that safety and dosing guidance must be sourced from international SmPCs (e.g., the EMA's Arcoxia assessment report) for any research or compassionate-use context.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor etoricoxib bij migraine.
 
 ---
 
-## Safety Considerations
+## Bewijsmateriaal uit de literatuur
 
-**Important safety signals from related evidence (headache indication context):**
-
-- **Reversible Cerebral Vasoconstriction Syndrome (RCVS)**: A case of RCVS possibly induced by etoricoxib has been reported ([PMID 25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/)). Given the neurological nature of the predicted indication (migraine), this cerebrovascular adverse event profile warrants particular attention in any future clinical investigation.
-
-- **Life-threatening hyperkalemia and acute kidney injury**: A case report ([PMID 21373319](https://pubmed.ncbi.nlm.nih.gov/21373319/)) describes severe hyperkalemia precipitated by etoricoxib in a patient concurrently taking telmisartan (an ARB) on a low-sodium diet. This highlights a clinically important drug–drug and drug–diet interaction relevant to any prescribing context.
-
-- **Cardiovascular risk**: As a COX-2 selective inhibitor, etoricoxib carries a class-level cardiovascular risk signal (increased risk of myocardial infarction and stroke), which must be weighed against potential benefit in any new indication — particularly for long-term use in a migraine prophylaxis context.
-
-For complete warnings, contraindications, and drug interaction data, please refer to the international SmPC (e.g., EMA Arcoxia SmPC) as no Dutch SmPC is currently available.
+Momenteel is er geen gerelateerd bewijsmateriaal beschikbaar voor etoricoxib bij migraine.
 
 ---
 
-## Conclusion and Next Steps
+## Marktinformatie Nederland
 
-**Decision: Hold**
+Etoricoxib heeft momenteel **geen registratie** van de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Het middel is niet op de markt in Nederland per de gegevensstop (mei 2026). Opmerkelijk is dat etoricoxib ook nooit goedkeuring van de FDA in de VS heeft ontvangen, hoewel het in meer dan 70 landen is geregistreerd — waaronder diverse EU-lidstaten via nationale procedures — en voorkomt in de beoordelingsgeschiedenis van het EMA.
 
-**Rationale:**
-The TxGNN prediction for migraine disorder is mechanistically plausible via the COX-2/PGE2/trigeminovascular pathway, but rests entirely on graph-level model inference with no supporting clinical trials or publications — constituting L5 evidence only. Furthermore, etoricoxib has no CBG-MEB marketing authorization in the Netherlands, creating a dual barrier (clinical evidence and regulatory) that must be addressed before any healthcare system consideration.
+Elke toekomstige aanvraag voor gebruik in Nederland zou een gecentraliseerde EMA-registratieprocedure of een nationale CBG-MEB-indiening vereisen, ondersteund door een volledig SmPC (Samenvatting van de Productkenmerken). Omdat er momenteel geen Nederlands SmPC beschikbaar is, moeten veiligheids- en doseringsrichtlijnen uit internationale SmPC's (bijvoorbeeld het EMA-beoordelingsrapport voor Arcoxia) worden gehaald voor onderzoeks- of compassionate-use-contexten.
 
-**To proceed, the following is needed:**
+---
 
-- **Narrow the target**: Consider reframing the research question around the better-evidenced related indications — **headache disorder** (L4; 5 case-level publications including PMID [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/) and [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/)) and **trigeminal autonomic cephalalgia** (L4; 1 case series, PMID [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/)) — where COX-2 inhibition has shown real patient-level responses in indomethacin-responsive subtypes
-- **Obtain full MOA documentation**: Query DrugBank API for etoricoxib (DB01628) and retrieve pharmacodynamics and pharmacokinetics data to complete the mechanistic assessment
-- **Safety profile review**: Conduct a structured review of cardiovascular, renal, and neurological adverse events (including RCVS risk) before any neurological indication development
-- **Pilot study design**: If proceeding, design a small proof-of-concept study in a well-defined indomethacin-responsive headache subtype (e.g., primary stabbing headache or hemicrania continua) before advancing to broader migraine populations
-- **Regulatory pathway**: Consult with CBG-MEB or EMA regarding the regulatory pathway for an investigational use in the Netherlands, particularly in the context of no current Dutch market authorization
+## Veiligheidsoverwegingen
+
+**Belangrijke veiligheidssignalen uit gerelateerde bewijzen (koppeijn-indicatiecontext):**
+
+- **Reversibel cerebraal vasospasmesyndroom (RCVS)**: Een geval van mogelijk door etoricoxib geïnduceerde RCVS is gerapporteerd ([PMID 25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/)). Gezien de neurologische aard van de voorspelde indicatie (migraine), verdient dit cerebrovasculair bijwerkingenprofiel bijzondere aandacht in elk toekomstig klinisch onderzoek.
+
+- **Levensbedreigende hyperkaliëmie en acuut nierfalen**: Een casusrapport ([PMID 21373319](https://pubmed.ncbi.nlm.nih.gov/21373319/)) beschrijft ernstige hyperkaliëmie veroorzaakt door etoricoxib bij een patiënt die gelijktijdig telmisartan (een angiotensine II-receptorantagonist) nam op een natriumarm dieet. Dit onderstreept een klinisch belangrijk geneesmiddel-geneesmiddel- en geneesmiddel-voedingsinteractie relevant voor elke voorschrijfcontext.
+
+- **Cardiovasculair risico**: Als selectieve COX-2-remmer draagt etoricoxib een signaalniveau cardiovasculair risico (verhoogd risico op myocardinfarct en beroerte), dat tegen voordeel in elke nieuwe indicatie moet worden afgewogen — met name voor langdurig gebruik in een migraine-profylaxiscontext.
+
+Voor volledige waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddel-interactiegegevens, zie alstublieft het internationale SmPC (bijvoorbeeld EMA Arcoxia SmPC) omdat momenteel geen Nederlands SmPC beschikbaar is.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Afwachten**
+
+**Grondslag:**
+De TxGNN-voorspelling voor migraine is mechanistisch plausibel via het COX-2/PGE2/trigeminovasculaire pad, maar berust volledig op inferentie op graafniveau zonder ondersteunende klinische studies of publicaties — wat uitsluitend L5-bewijs vormt. Bovendien heeft etoricoxib geen CBG-MEB-registratie in Nederland, wat een dubbele barrière (klinisch bewijs en regelgeving) vormt die moet worden aangepakt voordat deze indicatie door het gezondheidssysteem kan worden overwogen.
+
+**Om verder te gaan, is het volgende nodig:**
+
+- **Verkleinen van het doel**: Overweeg de onderzoeksvraag opnieuw in te kaderen rond de beter ondersteunde gerelateerde indicaties — **koppeijn** (L4; 5 publicaties op casuïstisch niveau inclusief PMID [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/) en [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/)) en **trigeminale autonome cefalalgia** (L4; 1 casuïstische serie, PMID [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/)) — waar COX-2-remming echte patiëntresponsen heeft aangetoond in indometacine-responsieve subtypes
+- **Volledige MOA-documentatie verkrijgen**: Vraag de DrugBank API voor etoricoxib (DB01628) op en haal farmacodynamica- en farmacokinetiekgegevens op om de mechanistische beoordeling af te ronden
+- **Veiligheidsprofiel bekijken**: Voer een gestructureerde beoordeling uit van cardiovasculaire, nier- en neurologische bijwerkingen (inclusief RCVS-risico) voordat met de neurologische indicatieontwikkeling wordt begonnen
+- **Pilootstudieontwerp**: Ontwerp een klein bewijs-van-concept-onderzoek in een goed gedefinieerd indometacine-responsief koppeijn-subtype (bijvoorbeeld primaire steekaanvallen of hemicraniacontinua) alvorens uit te breiden naar bredere migrainepopulaties
+- **Regelgevingspad**: Raadpleeg de CBG-MEB of EMA over het regelgevingspad voor onderzoeksgebruik in Nederland, met name gezien het ontbreken van een huidig Nederlandse marktvergunning
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

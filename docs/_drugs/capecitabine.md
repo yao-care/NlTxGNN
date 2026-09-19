@@ -29,112 +29,113 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Capecitabine: From Colorectal Cancer to Gastric Tubular Adenocarcinoma
+# Capecitabine: Van Colorectale Kanker naar Gastrische Tubulaire Adenocarcinoma
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Capecitabine is an oral fluoropyrimidine prodrug that serves as a tumour-selective precursor to 5-fluorouracil (5-FU), globally approved as standard-of-care treatment for colorectal cancer and breast cancer.
-The TxGNN model predicts it may be effective for **Gastric Tubular Adenocarcinoma** — the most prevalent histological subtype of gastric cancer (Lauren intestinal type) — with a prediction confidence of **99.94%**.
-This prediction is supported by **20 publications** including at least **8 completed Phase 3 RCTs** in which capecitabine, as the CAPOX regimen, served as either the experimental arm or the standard chemotherapy backbone, collectively constituting Level 1 (L1) evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Colorectal cancer; breast cancer (oral fluoropyrimidine prodrug of 5-FU, globally approved) |
-| Predicted New Indication | Gastric Tubular Adenocarcinoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L1 |
-| NL Market Status | No CBG-MEB national registration identified; likely centrally authorised via EMA (Xeloda, Roche) |
-| Number of Authorizations | 0 (CBG-MEB national) |
-| Recommended Decision | Proceed with Guardrails |
+Capecitabine is een oraal fluoropyrimidineprodrug dat dient als tumorselectieve voorloper van 5-fluorouracil (5-FU), wereldwijd goedgekeurd als standaardbehandeling voor colorectale kanker en borstkanker.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn bij **Gastrische Tubulaire Adenocarcinoma** — het meest voorkomende histologische subtype van maagkanker (Lauren-intestinaal type) — met een voorspellingszekerheid van **99.94%**.
+Deze voorspelling wordt ondersteund door **20 publicaties** waaronder ten minste **8 voltooide Fase 3 RCT's** waarin capecitabine, als CAPOX-regime, diende als experimentele arm of standaardchemotherapiebasis, gezamenlijk constituerend Level 1 (L1)-bewijs.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snelste Overzicht
 
-Capecitabine is an orally bioavailable prodrug that undergoes a three-step enzymatic cascade: intestinal absorption, hepatic conversion to 5′-deoxy-5-fluorouridine (5′-DFUR), and final tumour-localised conversion to 5-fluorouracil (5-FU) by thymidine phosphorylase (TP). Because TP is markedly overexpressed in many solid tumours relative to surrounding healthy tissue, this final step preferentially delivers cytotoxic 5-FU within the tumour microenvironment, sparing normal cells. Once activated, 5-FU inhibits thymidylate synthase (TS), blocking de novo pyrimidine synthesis and halting DNA replication in rapidly dividing cancer cells.
-
-Gastric tubular adenocarcinoma — classified under the Lauren intestinal type — is the most prevalent subtype of gastric cancer and is characterised by high TP expression, creating the precise biological substrate for Capecitabine's tumour-selective activation pathway. The mechanistic overlap between Capecitabine's established activity in colorectal cancer (another gastrointestinal epithelial malignancy with high TP expression) and gastric tubular adenocarcinoma is compelling: both share similar TP-dependent fluoropyrimidine metabolism, TS-mediated cytotoxicity, and fluoropyrimidine sensitivity profiles. Molecular studies have further demonstrated that the MALAT1-miRNA regulatory network modulates TYMS expression, influencing 5-FU-class drug efficacy in a tumour-subtype-specific manner, reinforcing the scientific basis for fluoropyrimidine use in TP-high gastric subtypes.
-
-The TxGNN model's prediction is therefore not only consistent with established pharmacology but is directly validated by robust clinical evidence. The landmark CLASSIC Phase 3 RCT (PMID 22226517) demonstrated that CAPOX (capecitabine + oxaliplatin) as adjuvant therapy after D2 gastrectomy significantly improved disease-free survival versus surgery alone (HR = 0.68) in Stage II–IIIB gastric cancer. Subsequently, CAPOX was adopted as the standard chemotherapy backbone in numerous Phase 3 combination trials — CheckMate 649, KEYNOTE-859, ORIENT-16, RATIONALE-305, and GLOW — cementing its central role in the gastric cancer treatment landscape.
-
----
-
-## Clinical Trial Evidence
-
-No clinical trials were identified through direct registry search using "gastric tubular adenocarcinoma" as the query term. However, the literature evidence below includes multiple completed Phase 3 RCTs in which capecitabine, as part of the CAPOX regimen, was evaluated in gastric and gastroesophageal junction adenocarcinoma populations that encompass the tubular adenocarcinoma subtype. Notably, the CLASSIC trial (Phase 3, n = 1,035) directly established CAPOX efficacy in the post-D2 gastrectomy gastric cancer setting.
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Colorectale kanker; borstkanker (oraal fluoropyrimidineprodrug van 5-FU, wereldwijd goedgekeurd) |
+| Voorspelde nieuwe indicatie | Gastrische Tubulaire Adenocarcinoma |
+| TxGNN-voorspellingsscore | 99.94% |
+| Bewijsniveau | L1 |
+| Marktstatus Nederland | Geen CBG-MEB nationale registratie geïdentificeerd; waarschijnlijk centraal geauthoriseerd via EMA (Xeloda, Roche) |
+| Aantal autorisaties | 0 (CBG-MEB nationaal) |
+| Aanbevolen besluit | Voortgang met voorzorgsmaatregelen |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22226517](https://pubmed.ncbi.nlm.nih.gov/22226517/) | 2012 | Phase 3 RCT | *Lancet* | **CLASSIC trial**: CAPOX adjuvant therapy after D2 gastrectomy significantly improved DFS vs surgery alone (HR = 0.68) in Stage II–IIIB gastric cancer — the core L1 anchor for capecitabine in gastric cancer |
-| [34252374](https://pubmed.ncbi.nlm.nih.gov/34252374/) | 2021 | Phase 3 RCT | *Lancet Oncology* | **RESOLVE** (initial report): perioperative SOX vs postoperative CAPOX in locally advanced gastric/GEJ cancer after D2 gastrectomy; CAPOX confirmed as standard adjuvant reference regimen |
-| [39952264](https://pubmed.ncbi.nlm.nih.gov/39952264/) | 2025 | Phase 3 RCT | *Lancet Oncology* | **RESOLVE** (final report): updated overall survival data confirming long-term efficacy of CAPOX as a standard adjuvant regimen in resectable gastric cancer |
-| [37524953](https://pubmed.ncbi.nlm.nih.gov/37524953/) | 2023 | Phase 3 RCT | *Nature Medicine* | **GLOW trial**: zolbetuximab + CAPOX vs placebo + CAPOX in CLDN18.2-positive, HER2-negative metastatic gastric/GEJ adenocarcinoma; CAPOX served as the active control backbone |
-| [34102137](https://pubmed.ncbi.nlm.nih.gov/34102137/) | 2021 | Phase 3 RCT | *Lancet* | **CheckMate 649**: nivolumab + chemotherapy (CAPOX backbone) vs chemotherapy alone; demonstrated OS benefit in HER2-negative advanced gastric/GEJ adenocarcinoma |
-| [38806195](https://pubmed.ncbi.nlm.nih.gov/38806195/) | 2024 | Phase 3 RCT | *BMJ* | **RATIONALE-305**: tislelizumab + chemotherapy (CAPOX backbone) vs placebo + chemotherapy as first-line treatment in advanced gastric/GEJ adenocarcinoma |
-| [37875143](https://pubmed.ncbi.nlm.nih.gov/37875143/) | 2023 | Phase 3 RCT | *Lancet Oncology* | **KEYNOTE-859**: pembrolizumab + capecitabine/FP + platinum vs placebo in HER2-negative advanced gastric/GEJ adenocarcinoma; capecitabine was one of the guideline-recommended backbone options |
-| [38051328](https://pubmed.ncbi.nlm.nih.gov/38051328/) | 2023 | Phase 3 RCT | *JAMA* | **ORIENT-16**: sintilimab + CAPOX vs placebo + CAPOX first-line in unresectable gastric/GEJ cancer; capecitabine as core chemotherapy backbone |
-| [20728210](https://pubmed.ncbi.nlm.nih.gov/20728210/) | 2010 | Phase 3 RCT | *Lancet* | **ToGA**: trastuzumab + capecitabine/5-FU + cisplatin in HER2-positive advanced gastric/GEJ cancer; established the fluoropyrimidine + targeted therapy combination paradigm |
-| [30982686](https://pubmed.ncbi.nlm.nih.gov/30982686/) | 2019 | Phase 3 RCT | *Lancet* | **FLOT4**: FLOT vs ECF/ECX (capecitabine-containing) perioperative therapy in locally advanced resectable gastric/GEJ adenocarcinoma; ECX arm contained capecitabine as the fluoropyrimidine component |
+Capecitabine is een oraal biobeschikbare prodrug die een drietraps enzymatische cascade ondergaat: intestinale absorptie, hepatische conversie naar 5′-deoxy-5-fluorouridine (5′-DFUR), en uiteindelijk tumorgelokaliseerde omzetting naar 5-fluorouracil (5-FU) door thymidine fosforilase (TP). Omdat TP aanzienlijk overgeëxprimeerd is in veel vaste tumoren in vergelijking met omringend gezond weefsel, geeft deze laatste stap selectief cytotoxische 5-FU af binnen het tumorweefsel microomgeving, wat normale cellen spaart. Eenmaal geactiveerd, remt 5-FU thymidylaat synthase (TS), blokkeert de novo pyrimidinebiosynthese en stopt DNA-replicatie in snel delende kankercellen.
+
+Gastrische tubulaire adenocarcinoma — geclassificeerd onder het Lauren-intestinaal type — is het meest voorkomende subtype van maagkanker en wordt gekarakteriseerd door hoge TP-expressie, wat het precieze biologische substraat vormt voor capecitabines tumorselectieve activeringsweg. De mechanistische overlap tussen capecitabines vastgestelde werkzaamheid in colorectale kanker (een ander maligniteit van het gastrointestinaal epithelium met hoge TP-expressie) en gastrische tubulaire adenocarcinoma is overtuigend: beiden vertonen soortgelijk TP-afhankelijk fluoropyrimidinemetabolisme, TS-gemedieerde cytotoxiciteit, en gevoeligheid voor fluoropyrimidines. Moleculaire studies hebben voorts aangetoond dat het MALAT1-miRNA-regulatienetwerk TYMS-expressie moduleert, wat de werkzaamheid van 5-FU-klassegeneesmiddelen beïnvloedt op een tumorsubtype-specifieke wijze, wat het wetenschappelijke bewijs voor fluoropyrimidingebruik in TP-hoge gastrische subtypen versterkt.
+
+De voorspelling van het TxGNN-model is daarom niet alleen consistent met vastgestelde farmacologie maar wordt rechtstreeks ondersteund door robuust klinisch bewijs. De baanbrekende CLASSIC Fase 3 RCT (PMID 22226517) toonde aan dat CAPOX (capecitabine + oxaliplatine) als adjuvante therapie na D2 gastrectomie ziektevrije overleving significant verbeterde in vergelijking met chirurgie alleen (HR = 0.68) bij Fase II–IIIB maagkanker. Vervolgens werd CAPOX aangenomen als de standaardchemotherapiebasis in talrijke Fase 3 combinatietrials — CheckMate 649, KEYNOTE-859, ORIENT-16, RATIONALE-305, en GLOW — wat de centrale rol ervan in het maagkankerbehandelingslandschap verstevigde.
 
 ---
 
-## Netherlands Market Information
+## Klinisch Onderzoeksbewijs
 
-No CBG-MEB (College ter Beoordeling van Geneesmiddelen) national marketing authorisations for Capecitabine were identified in the regulatory database (0 authorisations; market status: not nationally registered).
-
-> **Note for Dutch prescribers and pharmacists:** Capecitabine is marketed as **Xeloda** (Roche) under a centrally granted EMA authorisation that is directly valid throughout the European Economic Area, including the Netherlands, without requiring a separate CBG-MEB national approval. The absence of a CBG-MEB national registration does not indicate unavailability in the Netherlands. The applicable SmPC (Samenvatting van de Productkenmerken) is published on the EMA product database and constitutes the authoritative prescribing reference. Prescribers should verify current dispensing pathways and reimbursement status through the Dutch Medicines Reimbursement System (GVS).
+Geen klinische onderzoeken werden geïdentificeerd via directe registerzoeking met "gastric tubular adenocarcinoma" als zoekopdracht. Echter, het literatuurbewijs hieronder omvat talrijke voltooide Fase 3 RCT's waarin capecitabine, als onderdeel van het CAPOX-regime, werd geëvalueerd in gastric en gastro-esofageale junctie adenocarcinoma-populaties die het tubulaire adenocarcinoma subtype omvatten. Opmerkelijk is dat de CLASSIC-trial (Fase 3, n = 1,035) direct CAPOX-werkzaamheid vaststelde in de post-D2 gastrectomie maagkankerinstelling.
 
 ---
 
-## Cytotoxicity
+## Literatuurbewijs
 
-Capecitabine meets the criteria for antineoplastic classification: it is a fluoropyrimidine-class cytotoxic chemotherapy drug with proven efficacy in gastrointestinal and breast malignancies.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Fluoropyrimidine class (oral prodrug of 5-FU) |
-| Myelosuppression Risk | Low to moderate; less myelosuppressive than intravenous 5-FU infusion regimens; neutropenia and thrombocytopenia occur, risk increases significantly in combination regimens (e.g., CAPOX with oxaliplatin) |
-| Emetogenicity Classification | Low to moderate (oral fluoropyrimidines carry lower intrinsic emetogenic potential than cisplatin; emetogenicity increases when combined with oxaliplatin) |
-| Monitoring Items | CBC with differential before each cycle; liver function tests (ALT, AST, bilirubin); renal function — creatinine clearance must be assessed before initiation and monitored during treatment (dose reduction required for CrCl 30–50 mL/min; contraindicated if CrCl < 30 mL/min); palmar-plantar erythrodysesthesia (hand-foot syndrome) assessment at each clinical visit |
-| Handling Protection | Yes — classified as cytotoxic; institutional cytotoxic drug handling protocols apply (appropriate PPE, dedicated preparation area, closed-system drug transfer devices where applicable per Dutch pharmacy standards) |
-
----
-
-## Safety Considerations
-
-Detailed SmPC warnings and contraindications were not available in this Evidence Pack. Please refer to the EMA-approved SmPC (Samenvatting van de Productkenmerken) for Xeloda (Capecitabine) for complete safety information.
-
-Priority areas to review in the SmPC before use in the gastric cancer setting:
-
-- **Anticoagulant interaction**: Capecitabine significantly potentiates the effect of coumarin-type anticoagulants (warfarin, acenocoumarol), with reported cases of severe and fatal haemorrhage. INR monitoring is mandatory and dose adjustment of the anticoagulant is typically required.
-- **DPD deficiency**: Patients with complete dihydropyrimidine dehydrogenase (DPD) deficiency must not receive capecitabine; partial DPD deficiency carriers require dose reduction. DPD genotyping (DPYD) prior to initiation is recommended under current European pharmacovigilance guidance.
-- **Renal impairment**: Dose adjustment is required for CrCl 30–50 mL/min; capecitabine is contraindicated below CrCl 30 mL/min.
-- **Cardiac toxicity**: Cardiotoxicity (angina, myocardial infarction, arrhythmia) has been reported with fluoropyrimidines; caution in patients with pre-existing coronary artery disease.
+| PMID | Jaar | Type | Journal | Belangrijkste bevindingen |
+|------|------|------|---------|------------------------|
+| [22226517](https://pubmed.ncbi.nlm.nih.gov/22226517/) | 2012 | Fase 3 RCT | *Lancet* | **CLASSIC-trial**: adjuvante CAPOX-therapie na D2 gastrectomie verbeterde ziektevrije overleving significant in vergelijking met chirurgie alleen (HR = 0.68) in Fase II–IIIB maagkanker — het kernbewijs L1 voor capecitabine in maagkanker |
+| [34252374](https://pubmed.ncbi.nlm.nih.gov/34252374/) | 2021 | Fase 3 RCT | *Lancet Oncology* | **RESOLVE** (initieel rapport): perioperatief SOX versus postoperatief CAPOX in lokaal geavanceerde gastric/GEJ-kanker na D2 gastrectomie; CAPOX bevestigd als standaard adjuvante referentieschema |
+| [39952264](https://pubmed.ncbi.nlm.nih.gov/39952264/) | 2025 | Fase 3 RCT | *Lancet Oncology* | **RESOLVE** (eindrapport): bijgewerkte gegevens voor algehele overleving die langdurige werkzaamheid van CAPOX als standaard adjuvante schema in resectabel maagkanker bevestigen |
+| [37524953](https://pubmed.ncbi.nlm.nih.gov/37524953/) | 2023 | Fase 3 RCT | *Nature Medicine* | **GLOW-trial**: zolbetuximab + CAPOX versus placebo + CAPOX in CLDN18.2-positief, HER2-negatief gemetastaseerd gastric/GEJ adenocarcinoma; CAPOX diende als de actieve controleachtergrond |
+| [34102137](https://pubmed.ncbi.nlm.nih.gov/34102137/) | 2021 | Fase 3 RCT | *Lancet* | **CheckMate 649**: nivolumab + chemotherapie (CAPOX-achtergrond) versus chemotherapie alleen; demonstreerde OS-voordeel in HER2-negatief geavanceerde gastric/GEJ adenocarcinoma |
+| [38806195](https://pubmed.ncbi.nlm.nih.gov/38806195/) | 2024 | Fase 3 RCT | *BMJ* | **RATIONALE-305**: tislelizumab + chemotherapie (CAPOX-achtergrond) versus placebo + chemotherapie als eerste-lijnsbehandeling in geavanceerde gastric/GEJ adenocarcinoma |
+| [37875143](https://pubmed.ncbi.nlm.nih.gov/37875143/) | 2023 | Fase 3 RCT | *Lancet Oncology* | **KEYNOTE-859**: pembrolizumab + capecitabine/FP + platina versus placebo in HER2-negatief geavanceerde gastric/GEJ adenocarcinoma; capecitabine was één van de richtlijn-aanbevolen achtergrondopties |
+| [38051328](https://pubmed.ncbi.nlm.nih.gov/38051328/) | 2023 | Fase 3 RCT | *JAMA* | **ORIENT-16**: sintilimab + CAPOX versus placebo + CAPOX eerste-lijn in niet-resectabel gastric/GEJ-kanker; capecitabine als kernchemotherapiebasis |
+| [20728210](https://pubmed.ncbi.nlm.nih.gov/20728210/) | 2010 | Fase 3 RCT | *Lancet* | **ToGA**: trastuzumab + capecitabine/5-FU + cisplatine in HER2-positief geavanceerde gastric/GEJ-kanker; stelde het fluoropyrimidine + gericht therapie combinatieparadigma vast |
+| [30982686](https://pubmed.ncbi.nlm.nih.gov/30982686/) | 2019 | Fase 3 RCT | *Lancet* | **FLOT4**: FLOT versus ECF/ECX (capecitabine-bevattend) perioperatieve therapie in lokaal geavanceerde resectabel gastric/GEJ adenocarcinoma; ECX-arm bevatte capecitabine als de fluoropyrimidincomponent |
 
 ---
 
-## Conclusion and Next Steps
+## Marktstatus Nederland
 
-**Decision: Proceed with Guardrails**
+Geen CBG-MEB (College ter Beoordeling van Geneesmiddelen) nationale handelstoestemmingen voor Capecitabine werden geïdentificeerd in de regelgevingsdatabase (0 autorisaties; marktstatus: niet nationaal geregistreerd).
 
-**Rationale:**
-The TxGNN prediction aligns with — and is directly validated by — an extensive body of L1 clinical evidence. CAPOX (capecitabine + oxaliplatin) is already an internationally recognised standard-of-care chemotherapy backbone for gastric and gastroesophageal adenocarcinoma, including the tubular subtype, supported by the CLASSIC Phase 3 RCT and at least seven subsequent major Phase 3 trials. In this context, the repurposing opportunity for the Netherlands healthcare system relates primarily to access, reimbursement, and off-label subtype use, rather than establishing clinical efficacy from scratch.
+> **Opmerking voor Nederlandse voorschrijvers en apothekers:** Capecitabine wordt vermarkted als **Xeloda** (Roche) onder een centraal verleende EMA-handelstoestemming die rechtstreeks geldig is in de gehele Europese Economische Ruimte, inclusief Nederland, zonder dat een aparte CBG-MEB nationale goedkeuring vereist is. De afwezigheid van een CBG-MEB nationale registratie betekent niet dat capecitabine niet beschikbaar is in Nederland. De toepasselijke SmPC (Samenvatting van de Productkenmerken) is gepubliceerd op de EMA-productdatabase en vormt de gezaghebbende voorschrijfsreferentie. Voorschrijvers dienen de huidige dispenserings- en vergoedingspaden via het Nederlands Geneesmiddelen Vergoedingssysteem (GVS) te verifiëren.
 
-**To proceed, the following is needed:**
+---
 
-- **Regulatory clarification**: Confirm EMA central authorisation status for Xeloda in the Netherlands and identify applicable CBG-MEB dispensing and reimbursement pathways (GVS listing status for gastric cancer indication)
-- **SmPC safety review**: Retrieve complete Dutch SmPC; document contraindications (DPD deficiency, renal thresholds), key drug interactions (warfarin/acenocoumarol, leucovorin, phenytoin, antacids), and pregnancy/lactation restrictions for the institutional formulary
-- **DPYD genotyping protocol**: Establish pre-treatment DPYD screening pathway in line with current EMA pharmacovigilance requirements
-- **Subtype-specific caution**: For predicted indications with Hold status (GAPPS, microinvasive gastric cancer, EBV-associated gastric carcinoma, malignant gastric granular cell tumour), no clinical evidence supports capecitabine use — these should not proceed to clinical application without dedicated prospective investigation
-- **Institutional protocol**: Confirm CAPOX cycle scheduling, antiemetic prophylaxis, and hand-foot syndrome management guidelines in the context of Dutch oncology formulary standards
+## Cytotoxiciteit
+
+Capecitabine voldoet aan de criteria voor antineoplastische classificatie: het is een fluoropyrimidineklasse cytotoxisch chemotherapiemiddel met bewezen werkzaamheid in maligniteiten van het maagdarmkanaal en borstkanker.
+
+| Item | Inhoud |
+|------|--------|
+| Cytotoxiciteitclassificatie | Conventioneel cytotoxisch — Fluoropyrimidineklasse (oraal prodrug van 5-FU) |
+| Risico op myelosuppressie | Laag tot matig; minder myelosuppressief dan intraveneus 5-FU infusieschema's; neutropenie en trombocytopenie treden op, risico neemt significant toe in combinatieschema's (bijv. CAPOX met oxaliplatine) |
+| Emetogeniciteitclassificatie | Laag tot matig (orale fluoropyrimidines hebben lager intrinsiek emetogeen potentiaal dan cisplatine; emetogeniciteit stijgt wanneer gecombineerd met oxaliplatine) |
+| Bewakingsposten | Volledig bloedonderzoek met differentieel voor elke cyclus; leverproefwaarden (ALT, AST, bilirubine); nierfunctie — creatinineklaring moet vóór initiatie worden beoordeeld en tijdens behandeling worden gemonitord (dosisreductie vereist voor CrCl 30–50 mL/min; gecontra-indiceerd als CrCl < 30 mL/min); palmoplantaire erythrodysesthesie (hand-voet-syndroom) beoordeling bij elk klinisch bezoek |
+| Omgangsbescherming | Ja — geclassificeerd als cytotoxisch; institutionele protocollen voor de verwerking van cytotoxische geneesmiddelen zijn van toepassing (geschikte persoonlijke beschermingsmiddelen, aangewezen bereidingsgebied, gesloten-systeemgeneesmiddeltransfeerapparaten waar van toepassing volgens Nederlandse farmaciestandaarden) |
+
+---
+
+## Veiligheidsoverwegingen
+
+Gedetailleerde SmPC-waarschuwingen en contra-indicaties waren niet beschikbaar in dit Bewijspakket. Raadpleeg alstublieft de door EMA goedgekeurde SmPC (Samenvatting van de Productkenmerken) voor Xeloda (Capecitabine) voor volledige veiligheidsinformatie.
+
+Prioriteitsgebieden om in de SmPC te controleren vóór gebruik in de maagkankerinstelling:
+
+- **Anticoagulantinteractie**: Capecitabine versterkt significant het effect van cumarine-type anticoagulantia (warfarine, acenocoumarol), met gerapporteerde gevallen van ernstige en dodelijke bloeding. INR-monitoring is verplicht en dosisaanpassing van het anticoagulans is doorgaans vereist.
+- **DPD-tekort**: Patiënten met volledige dihydropyrimidindehydrogenase (DPD)-tekort mogen capecitabine niet ontvangen; dragers met gedeeltelijk DPD-tekort hebben dosisreductie nodig. DPYD-genotypering vóór initiatie wordt aanbevolen onder huidge Europese farmacovigilantiegidsen.
+- **Nierfunctiestoornissen**: Dosisaanpassing is vereist voor CrCl 30–50 mL/min; capecitabine is gecontra-indiceerd onder CrCl < 30 mL/min.
+- **Cardiale toxiciteit**: Cardiotoxiciteit (angina, myocardinfarct, aritmie) is gerapporteerd met fluoropyrimidines; voorzichtigheid bij patiënten met reeds bestaande coronaire arteriële ziekte.
+
+---
+
+## Conclusie en volgende stappen
+
+**Besluit: Voortgang met voorzorgsmaatregelen**
+
+**Grondslag:**
+De TxGNN-voorspelling sluit aan bij — en wordt rechtstreeks gevalideerd door — uitgebreid L1 klinisch bewijs. CAPOX (capecitabine + oxaliplatine) is reeds een internationaal erkend standaardchemotherapieschema voor gastric en gastro-esofageale adenocarcinoma, inclusief het tubulaire subtype, ondersteund door de baanbrekende CLASSIC Fase 3 RCT en minstens zeven verdere grote Fase 3 onderzoeken. In deze context betreft de geneesmiddelhertoepassing voor het Nederlandse gezondheidsstelsel primair kwesties van toegang, vergoeding en off-label subtypegebruik, in plaats van het opnieuw vaststellen van werkzaamheid.
+
+**Om door te gaan, is het volgende nodig:**
+
+- **Regelgevingsduidelijkheid**: Bevestig de status van centrale EMA-handelstoestemming voor Xeloda in Nederland en identificeer toepasselijke CBG-MEB dispenserings- en vergoedingspaden (GVS-aanbiedingsstatus voor maagkankeraanduiding)
+- **SmPC-veiligheidscontrole**: Verkrijg volledige Nederlandse SmPC; documenteer contra-indicaties (DPD-tekort, nierdrempels), belangrijkste geneesmiddelinteracties (warfarine/acenocoumarol, leucovorine, fenytoïne, antacida) en zwangerschap-/lactatiebeperkingen voor het institutionele formularium
+- **DPYD-genotyperingsprotocol**: Stel pre-behandelings-DPYD-screeningpad in overeenkomstig huidge EMA-farmacovigilantievereisten
+- **Subtypespecifieke voorzichtigheid**: Voor voorspelde aanduidingen met Hold-status (GAPPS, microïnvasieve maagkanker, EBV-geassocieerde maagkanker, maligne maaggranulaarceltumor), geen klinisch bewijs ondersteunt capecitabinegebruik — deze mogen niet voortgaan naar klinische toepassing zonder speciaal prospectief onderzoek
+- **Institutioneel protocol**: Bevestig CAPOX-cyclus-planning, anti-emetische profylaxis, en richtlijnen voor hand-voet-syndroombeheer in het licht van Nederlandse oncologieformulariumstandaarden
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

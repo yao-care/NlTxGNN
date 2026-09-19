@@ -29,82 +29,79 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-基於 Evidence Pack 資料，我將依照格式規範產生完整報告。
+# Efavirenz: van HIV-1-infectie naar Simian Immunodeficiency Virus-infectie
+
+## Samenvatting in één zin
+
+Efavirenz is een remmer van non-nucleoside reverse transcriptase (NNRTI), klinisch vastgesteld als eerstelijns antiretrovirale stof voor HIV-1-infectie bij mensen.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn voor **Simian Immunodeficiency Virus (SIV)-infectie** met een voorspellingsscore van **99.80%**,
+maar er zijn momenteel **0 klinische trials** en **0 publicaties** die deze richting specifiek ondersteunen — de voorspelling berust volledig op mechanistische en grafische gevolgtrekking.
 
 ---
 
-# Efavirenz: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+## Snelüberzicht
 
-## One-Sentence Summary
-
-Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI), clinically established as a first-line antiretroviral agent for HIV-1 infection in humans.
-The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection** with a prediction score of **99.80%**,
-however there are currently **0 clinical trials** and **0 publications** specifically supporting this direction — the prediction rests entirely on mechanistic and graph-based inference.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (globally established; no Netherlands marketing authorization on file) |
-| Predicted New Indication | Simian Immunodeficiency Virus Infection |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 — model prediction only, no actual studies |
-| NL Market Status | Not registered (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | HIV-1-infectie (wereldwijd vastgesteld; geen Nederlandse handelstoestemming op bestand) |
+| Voorspelde nieuwe indicatie | Simian Immunodeficiency Virus-infectie |
+| TxGNN-voorspellingsscore | 99.80% |
+| Bewijsniveau | L5 — alleen modelvoorspelling, geen feitelijke onderzoeken |
+| Status op Nederlandse markt | Niet geregistreerd (niet op de markt gebracht) |
+| Aantal autorisaties | 0 |
+| Aanbevolen besluit | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Efavirenz is a selective NNRTI that binds directly to and inhibits HIV-1 reverse transcriptase — an enzyme the virus requires to convert its RNA genome into DNA for integration into the host cell. This mechanism is entirely virus-specific: Efavirenz does not inhibit human DNA polymerases.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van vastgestelde farmacologische kennis is efavirenz een selectieve NNRTI die direct bindt aan en remming van HIV-1 reverse transcriptase bewerkstelligt — een enzym dat het virus nodig heeft om zijn RNA-genoom om te zetten in DNA voor integratie in de gascel. Dit werkingsmechanisme is geheel virusspecifiek: efavirenz remt geen humane DNA-polymerase.
 
-The biological link to SIV infection is structurally compelling. Simian Immunodeficiency Virus is a lentivirus that shares significant genomic and enzymatic homology with HIV-1; both viruses depend on reverse transcriptase for replication, and the active sites of their respective polymerases are structurally conserved. The TxGNN knowledge graph likely captures this phylogenetic and enzymatic relationship when generating a high-confidence prediction score.
+De biologische koppeling aan SIV-infectie is structureel overtuigend. Simian Immunodeficiency Virus is een lentivirus dat significante genomische en enzymatische homologie deelt met HIV-1; beide virussen zijn afhankelijk van reverse transcriptase voor replicatie, en de actieve plaatsen van hun respectieve polymerasen zijn structureel geconserveerd. De TxGNN-kennisgraaf vangt waarschijnlijk deze fylogenetische en enzymatische relatie in bij het genereren van een voorspellingsscore met hoog vertrouwen.
 
-That said, species-specific differences in reverse transcriptase conformation mean that NNRTIs optimised against HIV-1 RT do not automatically retain potency against SIV RT. Non-human primate SIV models are widely used in HIV vaccine and antiviral research, so any potential utility would be in preclinical/translational science rather than direct clinical application to patients.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Efavirenz in simian immunodeficiency virus infection.
+Dat gezegd hebbende, betekenen soortspecifieke verschillen in reverse transcriptase-conformatie dat NNRTI's die zijn geoptimaliseerd tegen HIV-1 RT niet automatisch hun werkzaamheid behouden tegen SIV RT. SIV-modellen in niet-menselijke primaten worden veel gebruikt in onderzoek naar HIV-vaccins en antivirale middelen, dus elk potentieel nut zou liggen in preklinisch/translationeel onderzoek in plaats van directe klinische toepassing bij patiënten.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-Currently no related literature available for Efavirenz in simian immunodeficiency virus infection.
-
----
-
-## Netherlands Market Information
-
-Efavirenz currently holds **no marketing authorisation** in the Netherlands. There are no CBG-MEB (College ter Beoordeling van Geneesmiddelen) registered products on file. Physicians seeking to use Efavirenz in the Netherlands would need to access it via a named-patient or compassionate-use pathway, or as part of an EMA-authorised combination product (e.g., Atripla, which contains efavirenz/emtricitabine/tenofovir disoproxil fumarate and holds EMA centralised authorisation, but is not within the scope of this repurposing review).
+Er zijn momenteel geen gerelateerde klinische trials geregistreerd voor efavirenz bij Simian Immunodeficiency Virus-infectie.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. No key warnings, contraindications, or drug interaction data were available in this Evidence Pack.
+Er is momenteel geen gerelateerde literatuur beschikbaar voor efavirenz bij Simian Immunodeficiency Virus-infectie.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Efavirenz heeft momenteel **geen handelstoestemming** in Nederland. Er zijn geen CBG-MEB (College ter Beoordeling van Geneesmiddelen) geregistreerde producten op bestand. Artsen die efavirenz in Nederland willen gebruiken, zouden dit moeten benaderen via een benoemd-patiëntprocedure of humanitair gebruiksprocedure, of als onderdeel van een door de EMA geautoriseerd combinatieproduct (bijvoorbeeld Atripla, dat efavirenz/emtricitabine/tenofovirdisoproxilfumarat bevat en EMA-gecentraliseerde toestemming heeft, maar buiten het bereik van deze herbeschouwing valt).
 
-**Rationale:**
-The TxGNN model assigns a near-maximum confidence score to this repurposing candidate based on the mechanistic overlap between HIV-1 and SIV reverse transcriptases; however, there is currently **no supporting clinical trial or published literature evidence** for Efavirenz in SIV infection, placing this firmly at evidence level L5. Furthermore, SIV infection is a non-human primate disease — any translational application would be in preclinical research settings, not direct patient care within the Dutch healthcare system. The absence of a Netherlands (or EMA) marketing authorisation for Efavirenz as a standalone product further complicates a regulatory pathway.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsbeschouwingen
 
-- **MOA data gap resolution**: Retrieve full Efavirenz SmPC / DrugBank entry to document NNRTI mechanism and known RT inhibition spectrum, including comparative activity against SIV RT
-- **Preclinical evidence search**: Conduct a systematic search of in vitro / primate model literature for Efavirenz activity against SIV strains (this Evidence Pack returned zero results, but targeted biochemical literature may exist)
-- **Regulatory clarification**: Determine whether the intended use context is (a) a veterinary/primate model research tool or (b) a human clinical application — the regulatory pathway differs substantially
-- **Safety documentation**: Obtain full SmPC warnings and contraindications to complete the S1 safety screening step (currently blocked by Data Gap DG001)
-- **Re-evaluate rank 2 indication**: The Evidence Pack's second-ranked prediction (feline acquired immunodeficiency syndrome, same score of 99.80%) has one supporting biochemical study (PMID [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/)) comparing NNRTI activity against FIV and HIV-1 reverse transcriptases — this may represent a more actionable evidence thread for further review
+Raadpleeg alstublieft de SmPC (Summary of Product Characteristics/Samenvatting van Productkenmerken) voor veiligheidsinformatie. Er waren geen belangrijke waarschuwingen, contra-indicaties of geneesmiddelinteractiegegevens beschikbaar in dit Evidence Pack.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: In afwachting**
+
+**Reden:**
+Het TxGNN-model wijst een bijna maximale betrouwbaarheidsscore toe aan deze herbeschouwingscandidate op basis van de mechanistische overlap tussen HIV-1 en SIV reverse transcriptasen; echter is er momenteel **geen ondersteunend klinisch onderzoek of gepubliceerde literatuurevidentie** voor efavirenz bij SIV-infectie, wat dit stellig op bewijsniveau L5 plaatst. Bovendien is SIV-infectie een ziekte bij niet-menselijke primaten — elke translationale toepassing zou plaatsvinden in preklinische onderzoeksinstellingen, niet directe patiëntenzorg binnen het Nederlandse gezondheidssysteem. Het ontbreken van een Nederlandse (of EMA) handelstoestemming voor efavirenz als zelfstandig product bemoeilijkt het regelgevingstraject verder.
+
+**Om verder te gaan is het volgende nodig:**
+
+- **MOA-gegevensgat oplossing**: Haal volledige Efavirenz SmPC / DrugBank-invoer op om NNRTI-werkingsmechanisme en bekend RT-remmingsspectrum, inclusief vergelijkende activiteit tegen SIV RT, te documenteren
+- **Preklinisch bewijsonderzoek**: Voer een systematisch onderzoek uit van literatuur over in vitro- en primatenmodelonderzoeken naar efavirenz-activiteit tegen SIV-stammen (dit Evidence Pack retourneerde nul resultaten, maar gerichte biochemische literatuur kan beschikbaar zijn)
+- **Regelgevingsopheldering**: Bepaal of de beoogde gebruikscontext is (a) een veterinair/primatenmodelonderzoeksinstrument of (b) een klinische toepassing bij mensen — het regelgevingstraject verschilt aanzienlijk
+- **Veiligheidsdocumentatie**: Verkrijg volledige SmPC-waarschuwingen en contra-indicaties om de S1-veiligheidsbeveiligingsstap te voltooien (momenteel geblokkeerd door Data Gap DG001)
+- **Evaluatie van rangorde-2 indicatie**: De op één na hoogste voorspelling in het Evidence Pack (feline verworven immunodeficiëntie, dezelfde score van 99.80%) heeft één ondersteunende biochemische studie (PMID [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/)) waarin NNRTI-activiteit tegen FIV en HIV-1 reverse transcriptasen wordt vergeleken — dit kan een meer concreet aanknopingspunt voor nader onderzoek vertegenwoordigen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -29,135 +29,136 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Atenolol: From Hypertension/Angina to Posteroinferior Myocardial Infarction
+# Atenolol: Van hypertensie/angina naar posteroinferior myocardinfarct
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Atenolol is a cardioselective β1-adrenergic blocker widely used for the treatment of hypertension, angina pectoris, and cardiac arrhythmias. The TxGNN model predicts it may be effective for **posteroinferior myocardial infarction**, with **0 clinical trials** and **1 publication** currently supporting this specific anatomical subtype, though β-blockers are well established in the broader myocardial infarction setting. Across all 9 predicted indications, the strongest evidence base exists for **chronic pulmonary heart disease** (1 clinical trial, 15 publications), though that indication carries significant mechanistic concerns.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension, angina pectoris, cardiac arrhythmias (well-established β-blocker) |
-| Predicted New Indication | Posteroinferior myocardial infarction |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 (Preclinical / mechanism-level studies) |
-| NL Market Status | Not found in evidence pack (Note: Atenolol is widely available in NL under multiple CBG-MEB authorizations — see section below) |
-| Number of Authorizations | 0 in current dataset (regulatory data gap) |
-| Recommended Decision | Proceed with Guardrails |
+Atenolol is een cardioselectieve β1-adrenerge blokker die veel wordt gebruikt voor de behandeling van hypertensie, angina pectoris en cardiale aritmieën. Het TxGNN-model voorspelt dat het mogelijk effectief is voor **posteroinferior myocardinfarct**, met **0 klinische trials** en **1 publicatie** die deze specifieke anatomische subtype ondersteunen, hoewel β-blokkers goed gevestigd zijn in de bredere infarctbehandeling. Over alle 9 voorspelde indicaties heeft de sterkste bewijsbasis betrekking op **chronische longhartziekten** (1 klinische trial, 15 publicaties), hoewel die indicatie aanzienlijke mechanistische bezwaren met zich meebrengt.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Sneloverblick
 
-Atenolol is a selective β1-adrenergic receptor antagonist. It works by competitively blocking β1-receptors predominantly located in the heart, thereby reducing heart rate, myocardial contractility, and myocardial oxygen demand. These properties are the basis of its longstanding use in hypertension, stable angina, and post-myocardial infarction (MI) secondary prevention. Atenolol does not possess intrinsic sympathomimetic activity (ISA), making it suitable for reducing sympathetic overdrive in acute coronary events.
-
-Posteroinferior myocardial infarction is an anatomical subtype of MI affecting the posterior and inferior walls of the left ventricle, typically caused by occlusion of the right coronary artery or the left circumflex artery. β-blockers, including atenolol, are already part of standard MI secondary prevention protocols per ESC and AHA/ACC guidelines. The TxGNN model's prediction essentially identifies that the existing pharmacological mechanism is fully applicable to this anatomical subtype — a logical extension given that β-blocker cardioprotection (reduction of infarct size, prevention of reinfarction, and reduction of sudden cardiac death) is not dependent on infarct location.
-
-However, it is important to note that posteroinferior MI often involves the right ventricle and the cardiac conduction system (particularly the AV node), which means that β-blocker use requires additional caution. Bradycardia, AV block, and right ventricular dysfunction are specific risks in this patient population, and clinical monitoring should be more intensive than in anterior MI.
-
----
-
-## Clinical Trial Evidence
-
-Currently no clinical trials specifically studying atenolol for posteroinferior myocardial infarction are registered.
-
-**Note:** While no trials target this specific anatomical subtype, atenolol has been extensively studied in the broader MI context. The landmark ISIS-1 trial (1986) demonstrated a 15% reduction in vascular mortality with early IV atenolol in acute MI. The following trial from a related predicted indication (chronic pulmonary heart disease) provides indirect context:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03278509](https://clinicaltrials.gov/study/NCT03278509) | Phase 4 | Active, not recruiting | 5,000 | REDUCE-SWEDEHEART: Evaluates whether long-term β-blocker therapy after MI with preserved LVEF reduces all-cause death or new MI. Results may inform the role of β-blockers across MI subtypes. |
+| Item | Inhoud |
+|------|--------|
+| Bestaande indicatie | Hypertensie, angina pectoris, cardiale aritmieën (goed gevestigde β-blokker) |
+| Voorspelde nieuwe indicatie | Posteroinferior myocardinfarct |
+| TxGNN-voorspellingsscore | 99,87% |
+| Evidentienivelau | L4 (Preclinische/mechanisme-onderzoeken) |
+| Marktstatus in Nederland | Niet gevonden in evidentiebundel (Opmerking: Atenolol is widely beschikbaar in Nederland onder meerdere CBG-MEB-toestemmingen — zie afdeling hieronder) |
+| Aantal toestemmingen | 0 in huidige dataset (regelgevingslacune) |
+| Aanbevolen besluit | Doorgaan met waarborgen |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-### Primary Indication: Posteroinferior Myocardial Infarction
+Atenolol is een selectieve β1-adrenerge receptorantagonist. Het werkt door β1-receptoren competitief te blokkeren die voornamelijk in het hart liggen, waardoor het hartritme, myocardiale contractiliteit en myocardiale zuurstofvraag afnemen. Deze eigenschappen vormen de basis van het langdurige gebruik tegen hypertensie, stabiele angina en secundaire preventie na myocardinfarct (MI). Atenolol heeft geen intrinsieke sympathomimetische activiteit (ISA), wat het geschikt maakt voor het verminderen van sympathische overbelasting bij acute coronaire ereignissen.
 
-| PMID | Year | Type | Journal | Key Findings |
+Posteroinferior myocardinfarct is een anatomische subtype van MI dat de achter- en onderwanden van de linker ventrikel aantast, meestal veroorzaakt door occlusie van de rechter coronairarterie of de linker circumflex arterie. β-blokkers, inclusief atenolol, maken al deel uit van standaardprotocollen voor secundaire preventie van MI volgens ESC- en AHA/ACC-richtlijnen. De TxGNN-voorspelling identificeert in wezen dat het bestaande farmacologische mechanisme volledig van toepassing is op deze anatomische subtype — een logische uitbreiding gegeven dat β-blokkercardioprotectie (vermindering van infarctgrootte, preventie van reinfarctie en vermindering van plotselinge cardiache dood) niet afhankelijk is van infarctlocatie.
+
+Het is echter belangrijk op te merken dat posteroinferior MI vaak de rechter ventrikel en het cardiale geleidingssysteem (vooral de AV-knoop) betreft, wat betekent dat β-blokkage extra voorzichtigheid vereist. Bradycardie, AV-blokade en rechterventriculaire disfunctie zijn specifieke risico's in deze patiëntenpopulatie, en klinische monitoring moet intensiever zijn dan bij anterieur MI.
+
+---
+
+## Bewijs uit klinische trials
+
+Er zijn momenteel geen klinische trials die specifiek atenolol voor posteroinferior myocardinfarct onderzoeken ingeschreven.
+
+**Opmerking:** Hoewel geen trials gericht zijn op deze specifieke anatomische subtype, is atenolol uitgebreid bestudeerd in de bredere MI-context. De baanbrekende ISIS-1-trial (1986) toonde een vermindering van 15% in vasculaire mortaliteit met vroeg IV atenolol bij acuut MI. De volgende trial uit een gerelateerde voorspelde indicatie (chronische longhartziekten) biedt indirecte context:
+
+| Trialnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
+|---------|------|--------|------|---------|
+| [NCT03278509](https://clinicaltrials.gov/study/NCT03278509) | Fase 4 | Actief, niet rekruterend | 5.000 | REDUCE-SWEDEHEART: Evalueert of langdurige β-blokker therapie na MI met behouden LVEF alle-oorzaken mortaliteit of nieuw MI vermindert. Resultaten kunnen de rol van β-blokkers in MI-subtypes informeren. |
+
+---
+
+## Literatuurbewijs
+
+### Primaire indicatie: Posteroinferior myocardinfarct
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | Crossover RCT | Rev Med Interne | Compared anti-ischaemic effects of atenolol (200 mg) vs diltiazem (240 mg) in 23 patients with residual ischaemia 4 weeks after posteroinferior or anterior MI. Used computerized exercise testing. |
+| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | Crossover RCT | Rev Med Interne | Vergeleek anti-ischemische effecten van atenolol (200 mg) vs diltiazem (240 mg) in 23 patiënten met resterende ischemie 4 weken na posteroinferior of anterieur MI. Gebruikte gecomputeriseerde inspanningstesting. |
 
-### Related Indication: Septal Myocardial Infarction (Rank 7)
+### Gerelateerde indicatie: Septaal myocardinfarct (Rang 7)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [7257500](https://pubmed.ncbi.nlm.nih.gov/7257500/) | 1981 | Diagnostic study | Z Kardiol | Studied changes in regional myocardial perfusion with 201-Tl stress imaging in 14 patients before and after IV atenolol (5 mg). Evaluated perfusion in 6 LV segments including septal region. |
+| [7257500](https://pubmed.ncbi.nlm.nih.gov/7257500/) | 1981 | Diagnostische studie | Z Kardiol | Bestudeerde veranderingen in regionale myocardiale perfusie met 201-Tl-stressafbeelding in 14 patiënten vóór en na IV atenolol (5 mg). Evalueerde perfusie in 6 LV-segmenten inclusief het septale gebied. |
 
-### Related Indication: Chronic Pulmonary Heart Disease (Rank 9, most literature)
+### Gerelateerde indicatie: Chronische longhartziekten (Rang 9, meeste literatuur)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [31524](https://pubmed.ncbi.nlm.nih.gov/31524/) | 1978 | Clinical study | Lille Med | Studied atenolol's effects in chronic pulmonary patients with airway obstruction. |
-| [6673339](https://pubmed.ncbi.nlm.nih.gov/6673339/) | 1983 | Clinical study | Vutreshni Bolesti | Compared β-blockers in COPD patients with concomitant ischaemic heart disease over 14 days. |
-| [14520850](https://pubmed.ncbi.nlm.nih.gov/14520850/) | 2003 | Comparative study | Ter Arkh | Compared efficacy and safety of atenolol, metoprolol, and bisoprolol in isolated systolic hypertension with concomitant diabetes and/or COPD. |
-| [15881093](https://pubmed.ncbi.nlm.nih.gov/15881093/) | 2005 | Clinical study | Ter Arkh | Investigated respiratory disorders in IHD patients with COPD taking long-term atenolol. |
-| [28982831](https://pubmed.ncbi.nlm.nih.gov/28982831/) | 2017 | Observational | BMJ Open | Population-based retrospective cohort study on asthma-COPD overlap syndrome and cardiovascular disease associations. |
+| [31524](https://pubmed.ncbi.nlm.nih.gov/31524/) | 1978 | Klinische studie | Lille Med | Bestudeerde effecten van atenolol bij chronische longpatiënten met luchtwegobstructie. |
+| [6673339](https://pubmed.ncbi.nlm.nih.gov/6673339/) | 1983 | Klinische studie | Vutreshni Bolesti | Vergeleek β-blokkers in COPD-patiënten met gelijktijdige ischemische hartziekten gedurende 14 dagen. |
+| [14520850](https://pubmed.ncbi.nlm.nih.gov/14520850/) | 2003 | Vergelijkende studie | Ter Arkh | Vergeleek werkzaamheid en veiligheid van atenolol, metoprolol en bisoprolol in geïsoleerde systolische hypertensie met gelijktijdige diabetes en/of COPD. |
+| [15881093](https://pubmed.ncbi.nlm.nih.gov/15881093/) | 2005 | Klinische studie | Ter Arkh | Onderzocht respiratoire aandoeningen in IHD-patiënten met COPD die langdurig atenolol gebruikten. |
+| [28982831](https://pubmed.ncbi.nlm.nih.gov/28982831/) | 2017 | Observationeel | BMJ Open | Retrospectieve cohortsstudie in de bevolking over astma-COPD-overlapsyndroom en cardiovasculaire ziekteassociaties. |
 
 ---
 
-## Netherlands Market Information
+## Marktinformatie Nederland
 
-The current evidence pack does not contain CBG-MEB regulatory data. However, atenolol is a well-established medicine widely available in the Netherlands under multiple marketing authorizations. It is registered in oral formulations (tablets 25 mg, 50 mg, 100 mg) and has been marketed in the EU for decades.
+De huidige evidentiebundel bevat geen CBG-MEB-regelgevingsgegevens. Echter, atenolol is een goed gevestigd geneesmiddel dat wijd beschikbaar is in Nederland onder meerdere verkooptoestemmingen. Het is geregistreerd in orale formuleringen (tabletten 25 mg, 50 mg, 100 mg) en wordt al decennia in de EU op de markt gebracht.
 
-> **Data Gap:** CBG-MEB license details were not included in this evidence pack. To complete this section, CBG-MEB authorization data should be retrieved from the Geneesmiddeleninformatiebank (GIB) at [https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl).
-
----
-
-## Safety Considerations
-
-> Please refer to the SmPC (Summary of Product Characteristics) for complete safety information.
-
-**Key Clinical Considerations for Posteroinferior MI:**
-
-- **AV Conduction:** Posteroinferior MI frequently involves the AV node (supplied by the posterior descending artery). Atenolol may worsen AV block in these patients. ECG monitoring is essential before and during treatment.
-- **Right Ventricular Involvement:** Inferior MI may extend to the right ventricle. β-blockers can reduce preload-dependent cardiac output in RV infarction, potentially causing haemodynamic deterioration.
-- **Bradycardia:** Patients with inferior MI are prone to vagal-mediated bradycardia. Atenolol's negative chronotropic effect may compound this risk.
-- **Bronchospasm:** Although β1-selective, atenolol's selectivity diminishes at higher doses. Patients with concomitant reactive airway disease should be monitored.
+> **Datalacune:** CBG-MEB-licentiedetails waren niet opgenomen in deze evidentiebundel. Om dit gedeelte compleet te maken, moeten CBG-MEB-autorisatiegegevens worden opgehaald uit de Geneesmiddeleninformatiebank (GIB) op [https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl).
 
 ---
 
-## All Predicted Indications Overview
+## Veiligheidsoverwegingen
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation | Key Concern |
+> Raadpleeg de SPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
+
+**Belangrijkste klinische overwegingen voor posteroinferior MI:**
+
+- **AV-geleiding:** Posteroinferior MI betreft vaak de AV-knoop (gevoed door de achter afdalende arterie). Atenolol kan AV-blokade verergeren bij deze patiënten. ECG-monitoring is essentieel vóór en tijdens behandeling.
+- **Rechterventriculaire betrokkenheid:** Inferieur MI kan zich uitbreiden naar de rechter ventrikel. β-blokkers kunnen de voorbellasting afhankelijke cardiale output in RV-infarctie verminderen, waardoor mogelijk hemodynamische verslechtering optreedt.
+- **Bradycardie:** Patiënten met inferieur MI zijn vatbaar voor vagaal-gemedieerde bradycardie. Het negatieve chronotrope effect van atenolol kan dit risico verergeren.
+- **Bronchospasme:** Hoewel β1-selectief, neemt de selectiviteit van atenolol af bij hogere doses. Patiënten met gelijktijdige reactieve luchtwegziekte moeten worden bewaakt.
+
+---
+
+## Overzicht van alle voorspelde indicaties
+
+| Rang | Voorspelde indicatie | TxGNN-score | Evidentienivelau | Aanbeveling | Belangrijkste bezorgdheid |
 |------|---------------------|-------------|---------------|----------------|-------------|
-| 1 | Posteroinferior myocardial infarction | 99.87% | L4 | Proceed with Guardrails | AV block risk; strong mechanistic rationale |
-| 2 | Posterolateral myocardial infarction | 99.87% | L5 | Proceed with Guardrails | No direct evidence; mechanism applies |
-| 3 | Malignant renovascular hypertension | 99.85% | L4 | Hold | β-blocker not first-line; doesn't address root cause (RAS) |
-| 4 | Malignant hypertensive renal disease | 99.85% | L5 | Hold | Insufficient potency for hypertensive emergency |
-| 5 | Pulmonary hypertension (lung disease/hypoxia) | 99.84% | L5 | Hold | ⛔ **Contraindicated** — may cause haemodynamic collapse |
-| 6 | Pulmonary hypertension (multifactorial) | 99.84% | L5 | Hold | ⛔ **Contraindicated** — β-blockers harmful in PH |
-| 7 | Septal myocardial infarction | 99.84% | L4 | Proceed with Guardrails | Conduction bundle damage risk; mechanism applies |
-| 8 | Braddock syndrome | 99.80% | L5 | Hold | No mechanistic link; rare genetic disorder |
-| 9 | Chronic pulmonary heart disease | 99.04% | L3 | Research Question | Controversial; evidence inconsistent |
+| 1 | Posteroinferior myocardinfarct | 99,87% | L4 | Doorgaan met waarborgen | AV-blokaderisico; sterke mechanistische grondslag |
+| 2 | Posterolateraal myocardinfarct | 99,87% | L5 | Doorgaan met waarborgen | Geen direct bewijs; mechanisme is van toepassing |
+| 3 | Maligne renovasculaire hypertensie | 99,85% | L4 | Wachten | β-blokker niet eerste keus; behandelt niet de oorzaak (RAS) |
+| 4 | Maligne hypertensieve nierziekte | 99,85% | L5 | Wachten | Onvoldoende potentie voor hypertensieve noodtoestand |
+| 5 | Pulmonale hypertensie (longziekte/hypoxie) | 99,84% | L5 | Wachten | ⛔ **Gecontraïndiceerd** — kan hemodynamische instorting veroorzaken |
+| 6 | Pulmonale hypertensie (multifactorieel) | 99,84% | L5 | Wachten | ⛔ **Gecontraïndiceerd** — β-blokkers schadelijk bij PH |
+| 7 | Septaal myocardinfarct | 99,84% | L4 | Doorgaan met waarborgen | Risico op geleiding bundel schade; mechanisme is van toepassing |
+| 8 | Braddock-syndroom | 99,80% | L5 | Wachten | Geen mechanistische koppeling; zeldzame genetische aandoening |
+| 9 | Chronische longhartziekten | 99,04% | L3 | Onderzoeksvraag | Controversieel; bewijs inconsistent |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusie en vervolgstappen
 
-**Decision: Proceed with Guardrails**
+**Besluit: Doorgaan met waarborgen**
 
-**Rationale:**
-The TxGNN prediction for posteroinferior myocardial infarction is mechanistically sound — atenolol's β1-selective blockade reduces myocardial oxygen demand and prevents reinfarction, and this mechanism is not dependent on infarct location. β-blockers are already standard-of-care for MI secondary prevention per ESC guidelines. However, the specific anatomical subtype (posteroinferior) carries additional risks (AV block, right ventricular involvement) that require heightened monitoring, and no dedicated clinical trials exist for this specific subtype.
+**Grondslag:**
+De TxGNN-voorspelling voor posteroinferior myocardinfarct is mechanistisch gezond — atenolols β1-selectieve blokkade vermindert de myocardiale zuurstofvraag en voorkomt reinfarctie, en dit mechanisme is niet afhankelijk van infarctlocatie. β-blokkers zijn al standaardbehandeling voor secundaire preventie van MI volgens ESC-richtlijnen. Echter, de specifieke anatomische subtype (posteroinferior) brengt aanvullende risico's met zich mee (AV-blokade, rechterventriculaire betrokkenheid) die verhoogde monitoring vereisen, en er zijn geen speciale klinische trials voor deze specifieke subtype.
 
-**Important safety flags across all predictions:**
-- Predictions #5 and #6 (pulmonary hypertension) should be **rejected** — β-blockers are generally contraindicated in pulmonary hypertension and may cause life-threatening haemodynamic deterioration.
-- Prediction #8 (Braddock syndrome) has **no mechanistic basis** and should be disregarded.
+**Belangrijke veiligheidsmarkeringen in alle voorspellingen:**
+- Voorspellingen #5 en #6 (pulmonale hypertensie) moeten **afgewezen** worden — β-blokkers zijn over het algemeen gecontraïndiceerd bij pulmonale hypertensie en kunnen leven-bedreigende hemodynamische verslechtering veroorzaken.
+- Voorspelling #8 (Braddock-syndroom) heeft **geen mechanistische basis** en moet worden genegeerd.
 
-**To proceed, the following is needed:**
-- Retrieve CBG-MEB authorization details and SmPC for atenolol products available in the Netherlands
-- Obtain detailed mechanism of action data from DrugBank (currently a data gap)
-- Conduct a focused literature review of β-blocker use stratified by MI anatomical subtype (inferior vs anterior vs lateral)
-- Monitor results of the REDUCE-SWEDEHEART trial (NCT03278509) for updated evidence on post-MI β-blocker benefit
-- Develop a safety monitoring protocol specifically addressing AV conduction and right ventricular function in posteroinferior MI patients
-- Consult SmPC warnings and contraindications (currently a data gap in this evidence pack)
+**Om verder te gaan is het volgende nodig:**
+- Ophalen van CBG-MEB-autorisatiedetails en SPC voor atenolol-producten beschikbaar in Nederland
+- Verkrijgen van gedetailleerde mechanisme-gegevens uit DrugBank (momenteel een datalacune)
+- Uitvoering van een gericht literatuuronderzoek naar β-blokkergebruik gestratificeerd naar MI-anatomische subtype (inferieur vs anterieur vs lateraal)
+- Monitoring van de resultaten van de REDUCE-SWEDEHEART-trial (NCT03278509) voor bijgewerkt bewijs over voordeel van β-blokkers na MI
+- Ontwikkeling van een veiligheidsmonitoringprotocol dat specifiek betrekking heeft op AV-geleiding en rechterventriculaire functie in posteroinferior MI-patiënten
+- Raadplegen van SPC-waarschuwingen en contraïndicaties (momenteel een datalacune in deze evidentiebundel)
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Refer to the SmPC (Samenvatting van de Productkenmerken) for authoritative prescribing information.*
+*Disclaimer: Dit rapport is voor onderzoeksdoeleinden en vormt geen medisch advies. Kandidaten voor hergebruik van geneesmiddelen vereisen klinische validatie vóór toepassing. Raadpleeg de SPC (Samenvatting van de Productkenmerken) voor gezaghebbende voorschrijfinformatie.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

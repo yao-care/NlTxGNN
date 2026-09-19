@@ -29,85 +29,82 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-Using **txgnn-pipeline** context to guide the NL report generation. Now I'll produce the full evaluation report based on the Evidence Pack.
+# Valsartan: Van Hypertensie naar Maligne Renovasculaire Hypertensie
+
+## Samenvatting in één zin
+
+Valsartan is een angiotensine II type 1 receptorblokker (ARB) gevestigd voor hypertensie- en hartfalenbehandeling, hoewel zijn Nederlandse marktgoedkeuringgegevens niet beschikbaar zijn in de huidige dataset.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Maligne Renovasculaire Hypertensie**, met **0 klinische onderzoeken** en **1 publicatie** die deze richting momenteel ondersteunen.
+De voorspelling is mechanistisch overtuigend — RAAS-overactivering is de kernfactor van deze aandoening — maar menselijk bewijs blijft afwezig.
 
 ---
 
-# Valsartan: From Hypertension to Malignant Renovascular Hypertension
+## Snel Overzicht
 
-## One-Sentence Summary
-
-Valsartan is an angiotensin II type 1 receptor blocker (ARB) established for hypertension and heart failure treatment, though its NL marketing authorization data is not available in the current dataset.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, with **0 clinical trials** and **1 publication** currently supporting this direction.
-The prediction is mechanistically compelling — RAAS overactivation is the core driver of this condition — but human evidence remains absent.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current NL regulatory dataset (Valsartan is a well-established ARB for hypertension and heart failure) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| NL Market Status | Not registered (CBG-MEB dataset returned 0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele Indicatie | Niet beschikbaar in huidge NL regelgeving dataset (Valsartan is een goed gevestigde ARB voor hypertensie en hartfalen) |
+| Voorspelde Nieuwe Indicatie | Maligne Renovasculaire Hypertensie |
+| TxGNN Voorspellingsscore | 99.97% |
+| Bewijsniveau | L4 |
+| NL Markt Status | Niet geregistreerd (CBG-MEB dataset retourneerde 0 goedkeuringen) |
+| Aantal Goedkeuringen | 0 |
+| Aanbevolen Besluit | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is Deze Voorspelling Redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on widely established pharmacological knowledge, Valsartan is an angiotensin II type 1 (AT1) receptor blocker. It selectively binds the AT1 receptor, blocking the downstream effects of angiotensin II — including vasoconstriction, aldosterone release, and renin-driven sodium retention. This inhibition of the renin-angiotensin-aldosterone system (RAAS) reduces vascular resistance and blood pressure, and attenuates end-organ damage caused by sustained RAAS hyperactivation.
+Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in het Bewijspakket. Op basis van wijdverbreide farmacologische kennis is Valsartan een angiotensine II type 1 (AT1) receptorblokker. Het bindt selectief aan de AT1-receptor en blokkeert daardoor de downstreameffecten van angiotensine II — inclusief vasoconstrictie, aldosteronsecretie, en renine-gedreven natriumretentie. Deze inhibitie van het renine-angiotensine-aldosteroonsysteem (RAAS) vermindert de vasculaire weerstand en bloeddruk, en verzwakt orgaanschade veroorzaakt door aanhoudende RAAS-hyperactivering.
 
-Malignant renovascular hypertension is defined by renal artery stenosis triggering a dangerous positive feedback loop: reduced renal perfusion stimulates excessive renin release → angiotensin II surge → profound renal vasoconstriction → worsening ischemia. RAAS overactivation is the central pathophysiological mechanism of this condition. AT1 receptor blockade by Valsartan directly interrupts this cascade, providing exceptionally strong biological plausibility for the TxGNN prediction — the drug's mechanism maps precisely onto the disease's molecular driver.
+Maligne renovasculaire hypertensie wordt gedefinieerd door renale arteriële stenose die een gevaarlijke positieve feedbacklus veroorzaakt: verminderde renale perfusie stimuleert overmatige renineafgifte → angiotensine II-piek → ernstige renale vasoconstrictie → verergering van ischemie. RAAS-hyperactivering is het centrale pathofysiologische mechanisme van deze aandoening. AT1-receptorblokking door Valsartan onderbreekt rechtstreeks deze cascade, wat uitzonderlijk sterke biologische aannemelijkheid voor de TxGNN-voorspelling oplevert — het werkingsmechanisme van het geneesmiddel wijst precies op het kernmechanisme van de ziekte.
 
-Critically, a 2001 preclinical study in *Circulation* (Hilgers et al., PMID 11560862) demonstrated that AT1 receptor blockade can prevent lethal malignant hypertension in an animal model even in the absence of a significant blood pressure-lowering effect, implicating a direct anti-inflammatory and renoprotective mechanism at the kidney vascular level. This suggests Valsartan's benefit in this context may extend beyond simple blood pressure control, further supporting the TxGNN model's high-confidence prediction. However, the absence of human trial data limits the evidence to preclinical level (L4).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Cruciaal is dat een preklinisch onderzoek uit 2001 in *Circulation* (Hilgers et al., PMID 11560862) aantoonde dat AT1-receptorblokking letale maligne hypertensie kan voorkomen in een diermodel, zelfs zonder een significant bloeddrukverlagend effect, wat duidt op een direct anti-inflammatoir en nierbeschermend mechanisme op het niveau van de niervasculatuur. Dit suggereert dat het voordeel van Valsartan in deze context zich verder uitstrekken kan dan eenvoudige bloeddrukcontrole, wat de voorspelling van het TxGNN-model met hoog vertrouwen verder ondersteunt. Echter, de afwezigheid van menselijke onderzoeksgegevens beperkt het bewijs tot het preklinische niveau (L4).
 
 ---
 
-## Literature Evidence
+## Klinisch Onderzoeksbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Animal Study (Preclinical) | Circulation | AT1 receptor blockade prevents lethal malignant hypertension in a rodent model; the protective effect is independent of blood pressure reduction and is linked to suppression of kidney inflammation and renal vascular injury |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Netherlands Market Information
+## Literatuurbewijs
 
-No marketing authorizations for Valsartan (as a standalone product) are recorded in the CBG-MEB dataset for the Netherlands in the current data extract. Note that Valsartan is available in the Netherlands as a component of the combination product Sacubitril/Valsartan (Entresto®), which holds EMA central authorization for heart failure with reduced ejection fraction. Standalone Valsartan generics were subject to recall actions in 2018–2019 due to NDMA contamination; current availability should be verified against the CBG-MEB register directly.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for complete safety information. No key warnings, contraindications, or drug interaction data were available in the current Evidence Pack.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste Bevindingen |
+|------|------|------|-------------|--------------------------|
+| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Dieronderzoek (Preklinisch) | Circulation | AT1-receptorblokking voorkomt letale maligne hypertensie in een rodent-model; het beschermende effect is onafhankelijk van bloeddrukdaling en is gekoppeld aan onderdrukking van nierinflamatie en niervascularaire schade |
 
 ---
 
-## Conclusion and Next Steps
+## Nederland Marktinformatie
 
-**Decision: Hold**
+Geen marktgoedkeuringen voor Valsartan (als zelfstandig product) zijn geregistreerd in de CBG-MEB dataset voor Nederland in de huidge gegevensextractie. Opmerking: Valsartan is in Nederland beschikbaar als onderdeel van het combinatieproduct Sacubitril/Valsartan (Entresto®), dat centrale EMA-goedkeuring heeft voor hartfalen met verminderde ejectiefractie. Zelfstandige Valsartan-generieke geneesmiddelen werden in 2018–2019 teruggeroepen vanwege NDMA-besmetting; huidge beschikbaarheid moet rechtstreeks tegen het CBG-MEB-register worden geverifieerd.
 
-**Rationale:**
-The mechanistic basis for Valsartan in malignant renovascular hypertension is strong — RAAS hyperactivation is the core disease driver and AT1 blockade directly targets it — but the sole available evidence is a single preclinical animal study (L4), with no registered human clinical trials and no clinical observational data. This does not meet the threshold for a repurposing recommendation in the Dutch healthcare context.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsoverwegingen
 
-- **Regulatory verification**: Confirm current NL/EMA market status of standalone Valsartan via the CBG-MEB register, including any reinstated generic authorizations post-NDMA recall
-- **MOA data**: Retrieve full DrugBank pharmacology entry (DB00177) to formalize the mechanism of action documentation
-- **Safety data**: Download and parse the SmPC from the EMA or CBG-MEB for key warnings, contraindications, and DDI profile
-- **Clinical evidence search**: Conduct a targeted systematic search for human case series, registry data, or observational studies on ARB use in malignant renovascular hypertension
-- **Nephrology expert consultation**: Engage a CBG-MEB-affiliated nephrologist or clinical pharmacologist to assess whether existing hypertension/renal protection indications already encompass this use under current Dutch prescribing guidelines
-- **Evidence upgrade pathway**: Design a feasibility assessment for a prospective registry or Phase 2 pilot study in the Netherlands if the above steps confirm unmet need and acceptable safety margins
+Raadpleeg alstublieft de SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen gegevens over sleutelwaarschuwingen, contra-indicaties of geneesmiddelinteracties waren beschikbaar in het huidge Bewijspakket.
+
+---
+
+## Conclusie en Volgende Stappen
+
+**Besluit: Wachten**
+
+**Grondslag:**
+De mechanistische basis voor Valsartan bij maligne renovasculaire hypertensie is sterk — RAAS-hyperactivering is het kernmechanisme van deze ziekte en AT1-blokking richt zich er rechtstreeks op — maar het enige beschikbare bewijs is slechts één preklinisch dieronderzoek (L4), zonder geregistreerde menselijke klinische onderzoeken en zonder klinische observatiegegevens. Dit bereikt niet de drempel voor een herbestemmingsaanbeveling in de Nederlandse gezondheidszorgcontext.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Regelgevingsverificatie**: Bevestig huidig NL/EMA-marktsstatus van zelfstandig Valsartan via het CBG-MEB-register, inclusief eventueel heropgestarte generieke goedkeuringen na de NDMA-terugroep
+- **MOA-gegevens**: Haal volledige DrugBank farmacologie-invoer op (DB00177) om de werkingsmechanisme-documentatie te formaliseren
+- **Veiligheidsgegevens**: Download en parse de SmPC van het EMA of CBG-MEB voor sleutelwaarschuwingen, contra-indicaties, en DDI-profiel
+- **Klinische bewijszoeking**: Voer doelgerichte systematische zoektocht uit naar menselijke casusseries, registergegevens, of observatiestudies over ARB-gebruik bij maligne renovasculaire hypertensie
+- **Nefrologische deskundige raadpleging**: Betrek een nefroloog of klinisch farmacoloog verbonden aan CBG-MEB om te beoordelen of bestaande hypertensie-/nierbeschermingsindicaties dit gebruik al omvatten onder huidge Nederlandse voorschrijfrichtlijnen
+- **Bewijsupgrade-traject**: Ontwerp een haalbaarheidsonderzoek voor een prospectief register of Phase 2 pilotstudie in Nederland als de bovenstaande stappen onvervulde behoefte en aanvaardbare veiligheidsmarges bevestigen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

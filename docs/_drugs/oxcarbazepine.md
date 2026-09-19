@@ -29,98 +29,99 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Oxcarbazepine: From Focal Epilepsy to Visual Epilepsy
+# Oxcarbazepine: Van focale epilepsie naar visuele epilepsie
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Oxcarbazepine (OXC) is a second-generation antiepileptic drug — a keto-analogue of carbamazepine — established internationally as a first-line treatment for focal (partial-onset) seizures in adults and children, though not currently registered in the Netherlands.
-The TxGNN model predicts it may be effective for **Visual Epilepsy** — a reflex focal epilepsy subtype triggered by visual stimuli — with a prediction score of **99.95%**.
-This prediction is supported by **1 clinical trial** and **19 publications**, principally derived from OXC's well-documented efficacy in focal epilepsy more broadly.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Focal epilepsy / partial-onset seizures (established global use; no NL authorisation on record) |
-| Predicted New Indication | Visual Epilepsy |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L3 |
-| NL Market Status | Not registered in the Netherlands (CBG-MEB) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Oxcarbazepine (OXC) is een tweede-generatie antiepileptic drug — een keto-analoog van carbamazepine — dat internationaal gevestigd is als eerstelijnsbehandeling voor focale (partieel ontstane aanvallen-) epilepsie bij volwassenen en kinderen, hoewel het momenteel niet in Nederland is geregistreerd.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Visuele Epilepsie** — een reflexe focale epilepsie-subtype veroorzaakt door visuele prikkels — met een voorspellingsscore van **99.95%**.
+Deze voorspelling wordt ondersteund door **1 klinische studie** en **19 publicaties**, voornamelijk afgeleid van OXC's goed gedocumenteerde werkzaamheid in focale epilepsie in het algemeen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on published pharmacological information, Oxcarbazepine acts primarily through its active metabolite, 10-monohydroxycarbazepine (MHD), which blocks voltage-gated sodium channels (Nav1.x). By stabilising neuronal membranes and limiting high-frequency repetitive firing, OXC suppresses the initiation and propagation of seizure activity. This mechanism is directly described in primary pharmacological studies included in the evidence base (PMID 8156978, McLean et al., 1994).
-
-Visual epilepsy — also called reflex visual epilepsy or occipital reflex focal epilepsy — is a subtype of focal epilepsy in which seizures are triggered by flickering lights, geometric patterns, or specific visual stimuli arising from abnormal electrical discharges in the occipital cortex. Because OXC's core approved indication is precisely focal/partial-onset seizures, the mechanistic overlap is strong: Nav1.x blockade directly suppresses the abnormal occipital discharge circuits that underlie visual epilepsy, with no fundamental distinction from the mechanism applicable to other focal epilepsy subtypes.
-
-Critically, visual epilepsy is not a distinct disease entity from a pharmacological perspective — it is a pathophysiologically contiguous subtype of the broader focal epilepsy category for which OXC is already first-line therapy. This explains the TxGNN model's high confidence (99.95%). The main caveat is that dedicated prospective trials targeting visual epilepsy specifically have not been conducted; available evidence is derived from broader focal epilepsy studies. Additionally, OXC is **contraindicated in idiopathic generalised epilepsy** (including photosensitive generalised epilepsy), requiring careful differential diagnosis before use.
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Focale epilepsie / partieel ontstane aanvallen (gevestigd wereldwijd gebruik; geen NL-autorisatie op record) |
+| Voorspelde nieuwe indicatie | Visuele Epilepsie |
+| TxGNN voorspellingsscore | 99.95% |
+| Bewijsniveau | L3 |
+| NL marktstatus | Niet geregistreerd in Nederland (CBG-MEB) |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Doorgaan met waarborgen |
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Bewijspakket. Op basis van gepubliceerde farmacologische informatie werkt Oxcarbazepine voornamelijk via zijn actieve metaboliet, 10-monohydroxycarbazepine (MHD), die voltage-gated natriumkanalen (Nav1.x) blokkeert. Door de neuronale membraan te stabiliseren en herhaalde ontladingen met hoge frequentie te beperken, onderdrukt OXC de initiatie en voortplanting van aanvalsactiviteit. Dit mechanisme wordt rechtstreeks beschreven in primaire farmacologische onderzoeken in de bewijsbasis (PMID 8156978, McLean et al., 1994).
+
+Visuele epilepsie — ook wel reflexe visuele epilepsie of occipitale reflexe focale epilepsie genoemd — is een subtype van focale epilepsie waarin aanvallen worden uitgelokt door flitsend licht, geometrische patronen of specifieke visuele prikkels voortvloeiend uit abnormale elektrische ontladingen in de occipitale cortex. Omdat OXC's kern goedgekeurde indicatie precies focale/partieel ontstane aanvallen is, is de mechanistische overlap sterk: Nav1.x-blokkering onderdrukt rechtstreeks de abnormale occipitale ontladingscircuits die aan de basis van visuele epilepsie liggen, zonder fundamenteel onderscheid van het mechanisme dat van toepassing is op andere focale epilepsie-subtypes.
+
+Van kritiek belang is dat visuele epilepsie vanuit farmacologisch perspectief geen onderscheiden ziektesoort is — het is een pathofysiologisch gerelateerde subtype van de bredere focale epilepsie-categorie waarvoor OXC al eerstelijnstherapie is. Dit verklaart het hoge vertrouwen van het TxGNN-model (99.95%). Het voornaamste voorbehoud is dat speciale prospectieve onderzoeken gericht op visuele epilepsie niet zijn uitgevoerd; beschikbare bewijsgronden zijn afgeleid uit bredere focale epilepsie-onderzoeken. Bovendien is OXC **gecontra-indiceerd in idiopathische gegeneraliseerde epilepsie** (inclusief fotogevoelige gegeneraliseerde epilepsie), wat zorgvuldige differentiaaldiagnose vóór gebruik vereist.
+
+---
+
+## Klinisch onderzoekbewijs
+
+| Trialnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
 |-------------|-------|--------|------------|--------------|
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | LICEO Study: Prospective observational study assessing real-world effectiveness of new AEDs — including OXC, lamotrigine, levetiracetam, pregabalin, and others — as first-line combination therapy in patients with focal epilepsy. Provides indirect evidence for OXC efficacy in focal epilepsy subtypes including visual epilepsy. |
+| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Fase 4 | Voltooid | 111 | LICEO-studie: Prospectieve observationele studie die de werkelijke effectiviteit van nieuwe AEDs beoordeelt — inclusief OXC, lamotrigine, levetiracetam, pregabalin en anderen — als eerstelijnscombinatiebehandeling bij patiënten met focale epilepsie. Biedt indirect bewijs voor OXC-werkzaamheid in focale epilepsie-subtypes inclusief visuele epilepsie. |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|------|------|---------|--------------|
-| [35429132](https://pubmed.ncbi.nlm.nih.gov/35429132/) | 2022 | RCT | CNS Neuroscience & Therapeutics | Multicentre open-label RCT (China) comparing OXC vs levetiracetam monotherapy in newly diagnosed focal epilepsy; OXC demonstrated comparable seizure-free rates and quality-of-life outcomes. |
-| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Review | JAMA | Comprehensive review of antiseizure medications for adults with epilepsy; covers OXC efficacy, adverse effect profile, and its role in focal seizure management. |
-| [39899099](https://pubmed.ncbi.nlm.nih.gov/39899099/) | 2025 | Review | Continuum | 2025 update on antiseizure medications; addresses OXC pharmacokinetics, current indications, and modes of use across focal epilepsy subtypes. |
-| [33334546](https://pubmed.ncbi.nlm.nih.gov/33334546/) | 2020 | Review | Seizure | Detailed review of the contemporary role of CBZ and OXC in epilepsy; discusses OXC's improved tolerability over CBZ and its place as first-line therapy for focal seizures. |
-| [37092337](https://pubmed.ncbi.nlm.nih.gov/37092337/) | 2023 | Review | Pharmacogenomics | OXC pharmacogenomics review; characterises metabolic enzyme and transporter variants affecting OXC efficacy and safety — important for personalised prescribing. |
-| [26844734](https://pubmed.ncbi.nlm.nih.gov/26844734/) | 2016 | Review | Continuum | Comprehensive AED review focusing on pharmacokinetics, monotherapy indications, and clinical use; OXC highlighted for focal epilepsy. |
-| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Drug Review | Expert Opinion on Pharmacotherapy | Expert overview of OXC demonstrating efficacy as adjunctive and monotherapy for partial-onset seizures; also notes early evidence in neuropathic pain and bipolar disorder. |
-| [10530693](https://pubmed.ncbi.nlm.nih.gov/10530693/) | 1999 | Drug Monograph | Epilepsia | Foundational OXC monograph; describes mechanism of action, efficacy for partial and secondarily generalised seizures, and improved safety profile vs carbamazepine. |
-| [1379159](https://pubmed.ncbi.nlm.nih.gov/1379159/) | 1992 | Review | Drugs | Early comprehensive pharmacological review establishing OXC's distinct kinetic profile via MHD active metabolite and efficacy in epilepsy and trigeminal neuralgia. |
-| [28237319](https://pubmed.ncbi.nlm.nih.gov/28237319/) | 2017 | Expert Consensus | Epilepsy & Behavior | Expert opinion on AED treatment for adults and adolescents in the US; OXC recommended among first-line options for focal seizures, filling practical clinical decision gaps. |
+| [35429132](https://pubmed.ncbi.nlm.nih.gov/35429132/) | 2022 | RCT | CNS Neuroscience & Therapeutics | Multicenter open-label RCT (China) vergelijking van OXC versus levetiracetam monotherapie bij nieuw gediagnostiseerde focale epilepsie; OXC toonde vergelijkbare percentage aanvalsvrij en resultaten voor de kwaliteit van leven. |
+| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Overzicht | JAMA | Uitgebreid overzicht van antiseizure-medicijnen voor volwassenen met epilepsie; behandelt OXC-werkzaamheid, neveneffectenprofiel en zijn rol in focale aanvalsbehandeling. |
+| [39899099](https://pubmed.ncbi.nlm.nih.gov/39899099/) | 2025 | Overzicht | Continuum | 2025-update over antiseizure-medicijnen; behandelt OXC-farmacokinetiek, huidige indicaties en toepassingsmodi over focale epilepsie-subtypes. |
+| [33334546](https://pubmed.ncbi.nlm.nih.gov/33334546/) | 2020 | Overzicht | Seizure | Gedetailleerd overzicht van de hedendaagse rol van CBZ en OXC in epilepsie; bespreekt OXC's verbeterde tolerabiliteit ten opzichte van CBZ en zijn plaats als eerstelijnstherapie voor focale aanvallen. |
+| [37092337](https://pubmed.ncbi.nlm.nih.gov/37092337/) | 2023 | Overzicht | Pharmacogenomics | OXC-farmacogenetica-overzicht; karakteriseert metabole enzym- en transportervarianten die OXC-werkzaamheid en veiligheid beïnvloeden — belangrijk voor gepersonaliseerde voorschrijving. |
+| [26844734](https://pubmed.ncbi.nlm.nih.gov/26844734/) | 2016 | Overzicht | Continuum | Uitgebreid AED-overzicht gericht op farmacokinetiek, monotherapie-indicaties en klinisch gebruik; OXC belicht voor focale epilepsie. |
+| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Geneesmiddelreview | Expert Opinion on Pharmacotherapy | Deskundigenoverzicht van OXC dat werkzaamheid als adjuvans en monotherapie voor partieel ontstane aanvallen demonstreert; noteert ook vroeg bewijs in neuropathische pijn en bipolaire stoornissen. |
+| [10530693](https://pubmed.ncbi.nlm.nih.gov/10530693/) | 1999 | Geneesmiddelmonografie | Epilepsia | Grondleggende OXC-monografie; beschrijft werkingsmechanisme, werkzaamheid voor partieel en secundair gegeneraliseerde aanvallen, en verbeterd veiligheidsprofiel versus carbamazepine. |
+| [1379159](https://pubmed.ncbi.nlm.nih.gov/1379159/) | 1992 | Overzicht | Drugs | Vroeg uitgebreid farmacologisch overzicht dat OXC's onderscheiden kinetiek via MHD-actieve metaboliet en werkzaamheid in epilepsie en trigeminale neuralgie vaststelt. |
+| [28237319](https://pubmed.ncbi.nlm.nih.gov/28237319/) | 2017 | Deskundigenconsensus | Epilepsy & Behavior | Deskundigenmening over AED-behandeling voor volwassenen en adolescenten in de VS; OXC aanbevolen onder eerstelijnsopties voor focale aanvallen, praktische klinische besluitvormingsgaten opvullend. |
 
 ---
 
-## Netherlands Market Information
+## Informatie over de Nederlandse markt
 
-Oxcarbazepine currently holds **no marketing authorisation** with the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in the Netherlands. There are no RVG numbers registered, and the drug does not appear in the Dutch medicines register.
+Oxcarbazepine heeft momenteel **geen toelating voor het in de handel brengen** bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-nummers geregistreerd, en het geneesmiddel staat niet in het Nederlands geneesmiddelenregister.
 
-> **Note for prescribers and hospital pharmacists:** Oxcarbazepine is approved in multiple other EU member states (marketed as Trileptal® and generic equivalents) with EMA-recognised data supporting its use in focal epilepsy. Use in the Netherlands would require either a named-patient import procedure, a hospital preparation authorisation, or an off-label use pathway. Prescribers should consult the applicable EMA SmPC and current CBG-MEB guidance prior to any clinical use.
-
----
-
-## Safety Considerations
-
-Formal safety data (key warnings, contraindications, drug interactions) was not retrieved for this Evidence Pack. However, the clinical evidence base highlights two critical safety signals that must be addressed before clinical use:
-
-- **Risk of aggravating generalised epilepsy**: OXC can precipitate or worsen myoclonic seizures and myoclonic status epilepticus in patients with Juvenile Myoclonic Epilepsy (JME) and other idiopathic generalised epilepsy syndromes (PMID 23774821). Rigorous diagnostic workup — including EEG confirmation of focal rather than generalised epilepsy origin — is mandatory before prescribing OXC for visual epilepsy.
-- **Hyponatremia**: OXC is associated with a clinically meaningful risk of symptomatic hyponatremia, particularly in older patients, females, those on higher doses, and those on prolonged treatment. Baseline sodium measurement and periodic monitoring are recommended (documented across multiple studies in the evidence base).
-
-Please refer to the SmPC (Summary of Product Characteristics — in Dutch: Samenvatting van de Productkenmerken) for complete safety information including full contraindications and drug interaction data.
+> **Opmerking voor voorschrijvers en ziekenhuisfarmacologen:** Oxcarbazepine is goedgekeurd in meerdere andere EU-lidstaten (verhandeld als Trileptal® en generieke equivalenten) met EMA-erkende gegevens die het gebruik ervan in focale epilepsie ondersteunen. Gebruik in Nederland zou ofwel een named-patient-import-procedure, een ziekenhuisbereidingstoelating, of een off-label-gebruikspad vereisen. Voorschrijvers dienen voor enig klinisch gebruik het toepasselijke EMA SmPC en huidige CBG-MEB-begeleiding te raadplegen.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Formele veiligheidsgegevens (belangrijkste waarschuwingen, contra-indicaties, geneesmiddelinteracties) werden niet opgehaald voor dit Bewijspakket. De klinische bewijsbasis benadrukt echter twee kritieke veiligheidssignalen die moeten worden aangepakt vóór klinisch gebruik:
 
-**Rationale:**
-Visual epilepsy is mechanistically indistinguishable from the broader focal epilepsy category for which OXC is already an established first-line treatment; the Nav1.x blockade mechanism directly addresses the occipital focal discharge pathophysiology. However, OXC is not registered in the Netherlands, dedicated RCTs for visual epilepsy are absent, and the critical risk of worsening generalised epilepsy requires strict patient selection — justifying a structured, cautious approach rather than immediate broad use.
+- **Risico op verergering van gegeneraliseerde epilepsie**: OXC kan myoclonische aanvallen en myoclonische status epilepticus uitlokken of verergeren bij patiënten met Juveniele Myoclonische Epilepsie (JME) en andere idiopathische gegeneraliseerde epilepsie-syndromen (PMID 23774821). Streng diagnostisch onderzoek — inclusief EEG-bevestiging van focale in plaats van gegeneraliseerde epilepsie-oorsprong — is verplicht vóór het voorschrijven van OXC voor visuele epilepsie.
+- **Hyponatriëmie**: OXC is geassocieerd met een klinisch betekenisvol risico op symptomatische hyponatriëmie, vooral bij oudere patiënten, vrouwen, patiënten op hogere doses en patiënten op langdurige behandeling. Initiële natriummetingen en periodieke monitoring worden aanbevolen (gedocumenteerd in meerdere onderzoeken in de bewijsbasis).
 
-**To proceed, the following is needed:**
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie inclusief volledige contra-indicaties en geneesmiddelinteractiegegevens.
 
-- EEG and specialist neurology review to confirm focal (occipital) origin and exclude idiopathic generalised epilepsy before initiating OXC in any patient with visual epilepsy
-- Formal application to CBG-MEB for marketing authorisation, or initiation of a named-patient import or hospital exemption procedure for individual cases
-- Retrieval and review of the complete SmPC (warnings, contraindications, full drug interaction profile) prior to any clinical use
-- Baseline serum sodium measurement and a structured monitoring plan for hyponatremia during treatment
-- Establishment of a prospective patient registry or observational cohort specifically documenting OXC use in visual epilepsy patients in the Netherlands, to generate dedicated local evidence and support a future formal authorisation application
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Grondslag:**
+Visuele epilepsie is mechanistisch niet te onderscheiden van de bredere focale epilepsie-categorie waarvoor OXC al eerstelijnsbehandeling is; de Nav1.x-blokkeringsmechanisme richt zich rechtstreeks op de occipitale focale ontladingspathofysiologie. Echter, OXC is niet geregistreerd in Nederland, speciale RCTs voor visuele epilepsie zijn afwezig, en het kritieke risico op verergering van gegeneraliseerde epilepsie vereist strikte patiëntselectie — wat een gestructureerde, voorzichtige benadering rechtvaardigt in plaats van onmiddellijk algemeen gebruik.
+
+**Om door te gaan, is het volgende nodig:**
+
+- EEG- en specialistisch neurologisch onderzoek om focale (occipitale) oorsprong te bevestigen en idiopathische gegeneraliseerde epilepsie uit te sluiten voordat OXC wordt gestart bij patiënten met visuele epilepsie
+- Formele aanvraag bij CBG-MEB voor toelating tot het in de handel brengen, of initïering van een named-patient-import- of ziekenhuisuitzonderingsprocedure voor individuele gevallen
+- Ophalen en beoordeling van de volledige SmPC (waarschuwingen, contra-indicaties, volledig geneesmiddelinteractieprofiel) voordat enig klinisch gebruik plaatsvindt
+- Initiële serum-natriummetingen en een gestructureerd bewakingsplan voor hyponatriëmie tijdens behandeling
+- Oprichting van een prospectief patiëntenregister of observationeel cohort dat specifiek OXC-gebruik in patiënten met visuele epilepsie in Nederland documenteert, om speciale lokale bewijsgronden op te wekken en een toekomstige formele autorisatieaanvraag te ondersteunen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

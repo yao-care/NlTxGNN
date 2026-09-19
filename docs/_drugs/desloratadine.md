@@ -29,92 +29,91 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
----
+# Desloratadine: van allergische rhinitis naar koudeurticaria
 
-# Desloratadine: From Allergic Rhinitis to Cold Urticaria
+## Samenvatting in één zin
 
-## One-Sentence Summary
-
-Desloratadine is a potent second-generation H1 antihistamine, widely used in clinical practice for allergic rhinitis and chronic spontaneous urticaria.
-The TxGNN model predicts it may be effective for **Cold Urticaria** — a distinct physical urticaria subtype triggered by cold stimuli — with **3 clinical trials** and **7 publications** currently supporting this direction.
-Evidence is rated **L1**, representing the strongest tier of support in this repurposing framework.
+Desloratadine is een potente tweede-generatie H1-antihistamine, wijd gebruikt in klinische praktijk voor allergische rhinitis en chronische spontane urticaria.
+Het TxGNN-model voorspelt dat het mogelijk effectief is voor **koudeurticaria** — een onderscheiden fysische urticaria-subtype getriggerd door koudestimuli — met **3 klinische proefnemingen** en **7 publicaties** die momenteel deze richting ondersteunen.
+Het bewijsniveau is beoordeeld op **L1**, wat het sterkste bewijstier in dit herpositioneringskader vertegenwoordigt.
 
 ---
 
-## Quick Overview
+## Snelle overzicht
 
-| Item | Content |
-|------|---------|
-| Original Indication | No CBG-MEB registration data available (established pharmacological use: allergic rhinitis, chronic spontaneous urticaria) |
-| Predicted New Indication | Cold Urticaria |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L1 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacology, Desloratadine is a selective and potent second-generation H1 receptor antagonist — and the primary active metabolite of loratadine. It competitively blocks peripheral histamine H1 receptors, reducing histamine-induced vasodilation, increased capillary permeability, pruritus, and tissue edema. Beyond simple H1 blockade, desloratadine also demonstrates mast cell stabilizing activity and anti-inflammatory properties, including inhibition of NF-κB signalling and suppression of Th2 cytokines such as IL-4 and IL-13. These additional properties distinguish it from first-generation antihistamines and contribute to its sustained clinical utility.
-
-Cold urticaria is a physical urticaria subtype in which cold stimuli — contact with cold objects, air, or water — trigger localised mast cell degranulation and histamine release, producing the characteristic wheal-and-flare response. Because histamine is the dominant mediator driving symptoms, H1 receptor blockade by desloratadine directly targets the core pathophysiological cascade. Dose escalation to 10–20 mg/day has been specifically studied to raise the critical temperature threshold at which cold-triggered reactions occur, extending desloratadine's utility beyond the standard 5 mg regimen used for allergic rhinitis.
-
-This prediction is particularly well-grounded because current EAACI/GA²LEN/EDF clinical guidelines already position second-generation H1 antihistamines — explicitly including desloratadine — as the first-line treatment for acquired cold urticaria. The TxGNN prediction therefore reflects a label-extension opportunity rather than a speculative repurposing leap, supported by a coherent and well-characterised mechanistic pathway.
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Geen CBG-MEB-registratiegegevens beschikbaar (vastgestelde farmacologische toepassing: allergische rhinitis, chronische spontane urticaria) |
+| Voorspelde nieuwe indicatie | Koudeurticaria |
+| TxGNN-voorspellingsscore | 99.94% |
+| Bewijsniveau | L1 |
+| NL-marktstatuut | Niet geregistreerd |
+| Aantal goedkeuringen | 0 |
+| Aanbevolen beslissing | Doorgaan met voorzorgsmaatregelen |
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Gedetailleerde gegevens over werkingsmechanisme zijn niet beschikbaar in het huidige Evidence Pack. Gebaseerd op vastgestelde farmacologie is desloratadine een selectieve en potente tweede-generatie H1-receptorantagonist — en de primaire actieve metaboliet van loratadine. Het blokkeert competitief perifere histamine H1-receptoren, waardoor histamine-geïnduceerde vasodilatatie, verhoogde capillairpermeabiliteit, pruritus en weefselbevochtiging worden verminderd. Naast eenvoudige H1-blokkering vertoont desloratadine ook mestcelstabiliserende activiteit en anti-inflammatoire eigenschappen, waaronder remming van NF-κB-signalering en suppressie van Th2-cytokinen zoals IL-4 en IL-13. Deze aanvullende eigenschappen onderscheiden het van eerstegeneratie antihistaminen en dragen bij aan het langdurig klinisch nut ervan.
+
+Koudeurticaria is een fysische urticaria-subtype waarin koudestimuli — contact met koude objecten, lucht of water — lokale mestceldegranulatie en histamineafgifte triggeren, wat de karakteristieke wheal-and-flare-respons produceert. Omdat histamine de dominante mediator is die symptomen voortdrijft, is H1-receptorblokering door desloratadine rechtstreeks gericht op de kernpathofysiologische cascade. Dosisescalatie naar 10–20 mg/dag is specifiek onderzocht om de kritische temperatuurdrempel te verhogen waarbij koude-getriggerde reacties optreden, waardoor het nut van desloratadine wordt uitgebreid buiten het standaard 5 mg-regime dat voor allergische rhinitis wordt gebruikt.
+
+Deze voorspelling is bijzonder goed onderbouwd omdat de huidige EAACI/GA²LEN/EDF-richtlijnen tweede-generatie H1-antihistaminen — expliciet inclusief desloratadine — al positioneren als eerstelijnbehandeling voor verworven koudeurticaria. De TxGNN-voorspelling weerspiegelt daarom een labeluitbreidingskans in plaats van een speculatieve herpositioneringsprong, ondersteund door een coherente en goed gekarakteriseerde mechanistische basis.
+
+---
+
+## Klinische proefnemingsbewijs
+
+| Proefnemingsnummer | Fase | Statuut | Inschrijving | Belangrijkste bevindingen |
 |-------------|-------|--------|------------|--------------|
-| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Phase IV | Completed | 33 | Randomised, double-blind, placebo-controlled crossover study comparing 5 mg vs 20 mg desloratadine in acquired cold urticaria (ACU); cold urticaria lesions assessed by thermography, volumetry, and digital time-lapse photography to evaluate whether updosing (20 mg) provides superior symptom suppression |
-| [NCT01940393](https://clinicaltrials.gov/study/NCT01940393) | Phase IV | Completed | 150 | Head-to-head pharmacokinetic and pharmacodynamic comparison of 5 antihistamines (including desloratadine) in patients with urticaria in tropical Latin America; largest enrollment in this evidence set, providing direct comparative efficacy data across antihistamine agents |
-| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Phase IV | Completed | 30 | Multi-centre, double-blind, dose-escalating study of 5 mg, 10 mg, and 20 mg desloratadine in ACU patients; primary objective was to identify the minimum effective dose required to inhibit cold urticaria symptoms and establish the dose-response relationship |
+| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Fase IV | Voltooid | 33 | Gerandomiseerde, dubbelblinde, placebogecontroleerde crossover-studie vergelijkende 5 mg vs 20 mg desloratadine in verworven koudeurticaria (ACU); koudeurticaria-lesies beoordeeld door thermografie, volumetrie en digitale time-lapse-fotografie om te evalueren of opdosering (20 mg) superieure symptoomsuppressie biedt |
+| [NCT01940393](https://clinicaltrials.gov/study/NCT01940393) | Fase IV | Voltooid | 150 | Hoofd-aan-hoofd farmacokinetische en farmacodynamische vergelijking van 5 antihistaminen (inclusief desloratadine) bij patiënten met urticaria in tropisch Latijns-Amerika; grootste inschrijving in deze evidenceset, wat directe vergelijkende effectiviteitsgegevens over antihistaminemiddelen oplevert |
+| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Fase IV | Voltooid | 30 | Multicenter, dubbelblinde, dosisescalatiesstudie van 5 mg, 10 mg en 20 mg desloratadine bij ACU-patiënten; primair doel was om de minimale effectieve dosis te identificeren die nodig is om koudeurticaria-symptomen te remmen en de dosis-responsrelatie vast te stellen |
 
 ---
 
-## Literature Evidence
+## Literatuurbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|------|------|---------|--------------|
-| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | RCT | J Allergy Clin Immunol | High-dose desloratadine significantly decreased wheal volume and improved cold provocation thresholds compared to standard dose; randomised, placebo-controlled crossover design directly supporting dose escalation for ACU |
-| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | Br J Dermatol | RCT assessing critical temperature threshold measurement with H1-antihistamine dose escalation in cold urticaria; key dose-ranging evidence supporting the recommendation that standard doses may be insufficient in ACU |
-| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | Clinical Study (Controlled) | J Dermatol Treat | Early controlled study: 5 mg desloratadine administered for 4 days inhibited ice cube-induced cold urticaria in 12 patients; established proof of concept for desloratadine in ACU |
-| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Review | Drugs | Comprehensive review of chronic urticaria aetiology and management, covering role of H1 antihistamines including desloratadine across urticaria subtypes including physical urticaria |
-| [19032340](https://pubmed.ncbi.nlm.nih.gov/19032340/) | 2008 | Review | Allergy | Review of second-generation H1-antihistamine class pharmacodynamics in rhinitis and chronic urticaria; contextualises desloratadine within broader antihistamine evidence base |
-| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Case Report | Qatar Med J | First reported case of cold-induced urticaria following black ant bite-induced anaphylaxis; illustrates atypical triggers and clinical phenotypic diversity within cold urticaria |
-| [29698807](https://pubmed.ncbi.nlm.nih.gov/29698807/) | 2018 | Case Report / Case Series | J Allergy Clin Immunol Pract | Describes food-dependent cold urticaria as a newly recognised variant of physical urticaria; relevant to expanding the clinical understanding of cold urticaria disease spectrum |
+| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | RCT | J Allergy Clin Immunol | Hoge-dosis desloratadine verminderde significant wheals-volume en verbeterde koude-provocatiegrenswaarden in vergelijking met standaarddosis; gerandomiseerde, placebogecontroleerde crossover-ontwerp ondersteunt direct dosisescalatie voor ACU |
+| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | Br J Dermatol | RCT die kritische temperatuurdrempelmeting beoordeelt met H1-antihistaminedosisescalatie in koudeurticaria; sleutelbewijs voor dosisranging ondersteunt de aanbeveling dat standaarddoses onvoldoende kunnen zijn in ACU |
+| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | Klinische studie (Gecontroleerd) | J Dermatol Treat | Vroegere gecontroleerde studie: 5 mg desloratadine toegediend gedurende 4 dagen remde ijsblok-geïnduceerde koudeurticaria in 12 patiënten; stelde proof-of-concept vast voor desloratadine in ACU |
+| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Overzicht | Drugs | Uitgebreide overzicht van chronische urticaria-etiologie en beheer, hetwelk de rol van H1-antihistaminen inclusief desloratadine over urticaria-subtypes inclusief fysische urticaria behandelt |
+| [19032340](https://pubmed.ncbi.nlm.nih.gov/19032340/) | 2008 | Overzicht | Allergy | Overzicht van tweede-generatie H1-antihistamine klassefarmacodynamica in rhinitis en chronische urticaria; contextualiseert desloratadine binnen breder antihistaminebewijs |
+| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Casusrapport | Qatar Med J | Eerst gerapporteerd geval van koude-geïnduceerde urticaria na zwarte mierenbeet-geïnduceerde anafylaxis; illustreert atypische triggers en klinische fenotypische diversiteit binnen koudeurticaria |
+| [29698807](https://pubmed.ncbi.nlm.nih.gov/29698807/) | 2018 | Casusrapport / Casusreeks | J Allergy Clin Immunol Pract | Beschrijft voedselafhankelijke koudeurticaria als een nieuw erkend variant van fysische urticaria; relevant voor uitbreiding van klinisch begrip van het koudeurticaria-ziektespectrum |
 
 ---
 
-## Netherlands Market Information
+## Informatie Nederlandse markt
 
-Desloratadine currently shows **no registered marketing authorizations in the Netherlands** within the CBG-MEB dataset available to this Evidence Pack. This outcome is unexpected for a well-established second-generation antihistamine and likely reflects an incomplete data integration in the current pipeline rather than genuine market absence. Verification against the live CBG-MEB register (https://www.cbg-meb.nl/) and the EMA centrally authorized product database is strongly recommended before drawing regulatory conclusions.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Desloratadine vertoont momenteel **geen geregistreerde markttoestemmingen in Nederland** binnen de CBG-MEB-dataset beschikbaar voor dit Evidence Pack. Dit resultaat is onverwacht voor een goed ingeburgerde tweede-generatie antihistamine en weerspiegelt waarschijnlijk een onvolledige gegevensintegratie in de huidige pijplijn eerder dan echte marktafwezigheid. Verificatie tegen het live CBG-MEB-register (https://www.cbg-meb.nl/) en de EMA centraal geautoriseerde productendatabase wordt sterk aanbevolen vóór het trekken van regelgevende conclusies.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsconsideraties
 
-**Decision: Proceed with Guardrails**
+Raadpleeg de SmPC (Summary of Product Characteristics) voor veiligheidsinformatie.
 
-**Rationale:**
-Three completed Phase IV RCTs directly studying desloratadine in cold urticaria — combined with seven supporting publications including two high-quality RCTs and alignment with EAACI/EDF clinical guidelines — constitute L1-level evidence. The mechanistic basis (H1 receptor blockade targeting histamine-driven mast cell responses in cold-triggered urticaria) is well-established, and this prediction represents a label-extension opportunity with exceptionally strong scientific coherence.
+---
 
-**To proceed, the following is needed:**
-- Verification of NL/EMA marketing authorization status for desloratadine via the live CBG-MEB register and EMA EPAR database
-- Full SmPC review for key warnings, contraindications, and drug-drug interactions (current data not available in Evidence Pack)
-- Clarification of approved dosing range for cold urticaria specifically: standard 5 mg/day versus high-dose 10–20 mg/day protocols used in clinical trials
-- Safety assessment of the high-dose desloratadine regimen (up to 20 mg/day) relative to the approved label dose
-- Review of GVS (Geneesmiddelenvergoedingssysteem) reimbursement status in the Netherlands for cold urticaria as an indication
-- Re-run of the CBG-MEB data pipeline to resolve the unexpected "Not registered" status before initiating any regulatory submission
+## Conclusie en volgende stappen
+
+**Beslissing: Doorgaan met voorzorgsmaatregelen**
+
+**Motivering:**
+Drie voltooide Fase IV RCT's die desloratadine rechtstreeks in koudeurticaria bestuderen — gecombineerd met zeven ondersteunende publicaties inclusief twee high-quality RCT's en afstemming op EAACI/GA²LEN/EDF klinische richtlijnen — vormen L1-niveau bewijs. De mechanistische basis (H1-receptorblokering gericht op histamine-aangedreven mestcelresponsen in koude-getriggerde urticaria) is goed vastgesteld, en deze voorspelling vertegenwoordigt een labeluitbreidingskans met uitzonderlijk sterke wetenschappelijke coherentie.
+
+**Om door te gaan is het volgende nodig:**
+- Verificatie van NL/EMA-markttoestemmingsstatus voor desloratadine via het live CBG-MEB-register en EMA EPAR-database
+- Volledige SmPC-beoordeling op belangrijke waarschuwingen, contra-indicaties en medicijninteracties (huidige gegevens niet beschikbaar in Evidence Pack)
+- Verduidelijking van goedgekeurde doseringsbereik voor koudeurticaria specifiek: standaard 5 mg/dag versus hoge-dosis 10–20 mg/dag-protocollen gebruikt in klinische proefnemingen
+- Veiligheidsbeoordeling van het hoge-dosis desloratadineregime (tot 20 mg/dag) ten opzichte van de goedgekeurde labeldosis
+- Beoordeling van GVS (Geneesmiddelenvergoedingssysteem) terugbetalingsstatus in Nederland voor koudeurticaria als indicatie
+- Herinvoering van de CBG-MEB-gegevenspijplijn om de onverwachte "Niet geregistreerd" status op te lossen vóór het initiëren van enige regelgevende indiening
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

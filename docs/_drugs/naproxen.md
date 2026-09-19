@@ -29,76 +29,73 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context — this is an NlTxGNN drug repurposing evaluation report. Now generating the report from the Evidence Pack.
+# Naproxen: Van pijn en ontsteking naar Brachydactyly-Syndactyly Syndrome
+
+## Samenvatting in één zin
+
+Naproxen is een veel gebruikt niet-steroïdaal ontstekingsremmend geneesmiddel (NSAID), waarvan is aangetoond dat het werkzaam is voor pijnstilling, koortsverlaging en een scala aan ontstekingsaandoeningen waaronder artritis en dysmenorroe.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **Brachydactyly-Syndactyly Syndrome**, een zeldzame erfelijk voorkomende lidmaatdeformiteit die de lengte en fusie van vingers beïnvloedt.
+Momenteel ondersteunen **geen klinische trials** en **geen gepubliceerde literatuur** deze indicatie specifiek, wat de voorspelling op het laagste bewijsniveau (L5) plaatst.
 
 ---
 
-# Naproxen: From Pain and Inflammation to Brachydactyly-Syndactyly Syndrome
+## Snel overzicht
 
-## One-Sentence Summary
-
-Naproxen is a widely used non-steroidal anti-inflammatory drug (NSAID), proven effective for pain relief, fever, and a range of inflammatory conditions including arthritis and dysmenorrhoea.
-The TxGNN model predicts it may show activity in **Brachydactyly-Syndactyly Syndrome**, a rare inherited limb malformation affecting digit length and fusion.
-Currently, **no clinical trials** and **no published literature** specifically support this indication, placing the prediction at the lowest evidence tier (L5).
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Onderdeel | Inhoud |
 |------|---------|
-| Original Indication | Pain, fever, and inflammatory conditions — arthritis, dysmenorrhoea, ankylosing spondylitis (NSAID class) |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.35% |
-| Evidence Level | L5 |
-| NL Market Status | Not Registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Originele indicatie | Pijn, koorts en ontstekingsaandoeningen — artritis, dysmenorroe, ankyloserende spondylitis (NSAID-klasse) |
+| Voorspelde nieuwe indicatie | Brachydactyly-Syndactyly Syndrome |
+| TxGNN-voorspellingsscore | 99.35% |
+| Bewijsniveau | L5 |
+| Marktstatus Nederland | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Aanhouden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Naproxen is a non-selective COX-1/COX-2 inhibitor from the propionic acid class of NSAIDs. It suppresses prostaglandin synthesis — particularly PGE2 — producing anti-inflammatory, analgesic, and antipyretic effects. COX-2 is expressed in osteoblasts, and prostaglandins, especially PGE2, are known participants in skeletal development, growth plate regulation, and bone remodelling. This shared biology forms the theoretical basis of the TxGNN model's prediction.
+Gedetailleerde informatie over het werkingsmechanisme is niet beschikbaar in dit bewijspakket. Op basis van bekende farmacologie is naproxen een niet-selectieve COX-1/COX-2-remmer uit de propionzuurklasse van NSAID's. Het onderdrukt prostaglandinesynthese — met name PGE2 — wat ontstekingsremmende, pijnstillende en koortsverlagende effecten produceert. COX-2 wordt uitgedrukt in osteoblasten, en prostaglandines, vooral PGE2, spelen een bekende rol bij skeletale ontwikkeling, regulering van groeiplaten en botremodellering. Deze gedeelde biologie vormt de theoretische basis van de voorspelling van het TxGNN-model.
 
-However, brachydactyly-syndactyly syndrome is a congenital structural malformation driven by germline mutations in developmental genes such as those within the HOXD cluster and FGF signalling pathway. These genetic alterations determine limb patterning during embryogenesis — a process occurring before birth that is not mediated by inflammatory pathways. Naproxen's COX inhibition mechanism has no established role in correcting pre-formed structural digit abnormalities arising from such developmental gene defects.
+Brachydactyly-syndactyly syndrome is echter een aangeboren structurele malformatie veroorzaakt door kiembaan-mutaties in ontwikkelingsgenen zoals die in het HOXD-cluster en het FGF-signaleringspad. Deze genetische veranderingen bepalen de patroonvorming van ledematen tijdens de embryogenese — een proces dat voor de geboorte plaatsvindt en niet door ontstekingspaden wordt gemedieerd. Het COX-remmingsmechanisme van naproxen heeft geen vastgestelde rol in het corrigeren van vooraf gevormde structurele vingerafwijkingen voortvloeiend uit dergelijke defecten in ontwikkelingsgenen.
 
-The mechanistic link is therefore highly indirect and speculative. The model prediction likely reflects a pattern-matching signal within shared skeletal biology pathways rather than a clinically actionable therapeutic mechanism. Without supporting preclinical or clinical evidence, this prediction cannot be considered pharmacologically justified at its current stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De mechanistische link is daarom zeer indirect en speculatief. De modelpredictie weerspiegelt waarschijnlijk een patroonherkenningssignaal in gedeelde skeletale biologiepaden in plaats van een klinisch toepasbaar therapeutisch werkingsmechanisme. Zonder ondersteunend preklinisch of klinisch bewijs kan deze voorspelling momenteel niet als farmacologisch gerechtvaardigd worden beschouwd.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische trials
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+Momenteel zijn geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Conclusion and Next Steps
+## Bewijs uit literatuur
 
-**Decision: Hold**
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
-**Rationale:**
-This prediction rests solely on a TxGNN model signal (L5 evidence) with no supporting clinical trials, published literature, or established mechanistic rationale. Brachydactyly-syndactyly syndrome is a rare congenital genetic disorder; NSAID-based pharmacotherapy has no known role in its pathophysiology or management.
+---
 
-**To proceed, the following is needed:**
+## Veiligheidsoverwegingen
 
-- **Preclinical evidence**: In vitro or animal model studies demonstrating a COX inhibitor effect on digit malformation pathways
-- **Mechanistic validation**: A confirmed biological link between prostaglandin signalling dysregulation and brachydactyly-syndactyly syndrome aetiology
-- **Safety review**: Full SmPC retrieval from CBG-MEB to assess contraindications, key warnings, and drug interactions before any further evaluation
-- **NL regulatory clarification**: Verification of Naproxen's CBG-MEB registration status — the current dataset shows 0 authorizations, which warrants confirmation against the official CBG-MEB register
-- **Clinical genetics consultation**: Assessment by a clinical geneticist on whether any prostaglandin-mediated mechanism could plausibly modulate the relevant genetic pathways (HOXD, FGF)
+Raadpleeg de SmPC (samenvatting van de productkenmerken) voor veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Aanhouden**
+
+**Motivering:**
+Deze voorspelling berust uitsluitend op een TxGNN-modelsignaal (L5-bewijs) zonder ondersteunende klinische trials, gepubliceerde literatuur of vastgestelde mechanistische grondslag. Brachydactyly-syndactyly syndrome is een zeldzame aangeboren genetische aandoening; NSAID-gebaseerde farmacotherapie heeft geen bekende rol in de pathofysiologie of behandeling ervan.
+
+**Voor verder gaan is het volgende nodig:**
+
+- **Preklinisch bewijs**: In vitro- of dierenmodelstudies die een COX-remmereffect op vingermalformatiewegen aantonen
+- **Mechanistische validatie**: Een bevestigde biologische link tussen dysregulatie van prostaglandinesignalering en etiologie van brachydactyly-syndactyly syndrome
+- **Veiligheidsbeoordeling**: Volledige SmPC-opvraging bij CBG-MEB om contra-indicaties, belangrijke waarschuwingen en geneesmiddelinteracties te beoordelen vóór verdere evaluatie
+- **Verduidelijking NL-regelgeving**: Verificatie van de CBG-MEB-registratiestatus van naproxen — de huidige dataset toont 0 autorisaties, hetgeen verificatie op het officiële CBG-MEB-register rechtvaardigt
+- **Raadpleging klinische genetica**: Beoordeling door een klinisch geneticus over de vraag of een prostaglandine-gemedieerd mechanisme geloofwaardig de relevante genetische paden (HOXD, FGF) zou kunnen moduleren
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

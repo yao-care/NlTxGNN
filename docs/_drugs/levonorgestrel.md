@@ -29,104 +29,101 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **6**
 
 </div>
 
-Using `txgnn-pipeline` for context — this is a Netherlands (NL) TxGNN report generation task. The skill confirms the NL deployment is one of the supported multi-country instances. Proceeding to generate the report from the Evidence Pack.
+# Levonorgestrel: Van Hormonale Anticonceptie naar Acne
+
+## Samenvatting van één zin
+
+Levonorgestrel is een synthetische progestageen die veel wordt gebruikt in hormonale anticonceptie — inclusief gecombineerde orale anticonceptiva (COC's), intra-uterine systemen (IUS) en noodanticonceptie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Acne**, met een voorspellingsscore van **99,88%**.
+Dit wordt ondersteund door **5 klinische onderzoeken** en **20 publicaties**, waarvan er minstens één gerandomiseerd placebo-gecontroleerd onderzoek levonorgestrel-houdende COC rechtstreeks voor acnebehandeling testte.
 
 ---
 
-# Levonorgestrel: From Hormonal Contraception to Acne
+## Korte Samenvatting
 
-## One-Sentence Summary
-
-Levonorgestrel is a synthetic progestin widely used in hormonal contraception — including combined oral contraceptives (COCs), intrauterine systems (IUS), and emergency contraception.
-The TxGNN model predicts it may be effective for **Acne**, with a prediction score of **99.88%**.
-This is supported by **5 clinical trials** and **20 publications**, of which at least one randomized placebo-controlled trial directly tested a levonorgestrel-containing COC for acne treatment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hormonal contraception (combined oral contraceptive, IUS, emergency contraception) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L2 |
-| NL Market Status | Not registered (no CBG-MEB authorizations found in dataset) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Hormonale anticonceptie (gecombineerd oraal anticonceptivum, IUS, noodanticonceptie) |
+| Voorspelde nieuwe indicatie | Acne |
+| TxGNN voorspellingsscore | 99,88% |
+| Bewijsniveau | L2 |
+| Marktstatusnederlands | Niet geregistreerd (geen CBG-MEB-goedkeuringen gevonden in dataset) |
+| Aantal goedkeuringen | 0 |
+| Aanbevolen beslissing | Voortgang met voorbehouden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, levonorgestrel is a synthetic progestin derived from the 19-nortestosterone (androstane) series. Crucially, it carries **intrinsic androgenic activity** — it binds to both progesterone and androgen receptors, which distinguishes it from newer, less androgenic progestins such as drospirenone or chlormadinone acetate (PMID 7825629).
+Gedetailleerde mechanisme-van-werkingsgegevens zijn niet beschikbaar in dit Evidence Pack. Op basis van gevestigde farmacologie is levonorgestrel een synthetische progestageen afgeleid van de 19-nortestosteron (androstaan)-serie. Cruciaal is dat het **intrinsieke androgene activiteit** bezit — het bindt aan zowel progesteron- als androgeen receptoren, wat het onderscheidt van nieuwere, minder androgene progestagenen zoals drospirenon of chlormadinonacetaat (PMID 7825629).
 
-Acne vulgaris is driven largely by excess androgen stimulation of the pilosebaceous unit, which increases sebum production and promotes comedone formation. Combined oral contraceptives containing levonorgestrel + ethinyl estradiol (EE) can produce a **net anti-androgenic effect** via two mechanisms: EE suppresses LH/FSH, reducing ovarian androgen synthesis, and substantially elevates sex hormone-binding globulin (SHBG), thereby lowering free bioavailable testosterone. A randomized placebo-controlled trial (PMID 12196750) directly demonstrated that a 20 µg EE / 100 µg LNG formulation improved androgenicity biomarkers and showed measurable benefit in moderate acne.
+Acne vulgaris wordt grotendeels aangedreven door overmatige androgeen stimulatie van de pilosébacea, wat sebumproductie verhoogt en comedovorming bevordert. Gecombineerde orale anticonceptiva met levonorgestrel + ethinylestradiol (EE) kunnen een **netto anti-androgeen effect** opleveren via twee mechanismen: EE onderdrukt LH/FSH, waardoor ovariale androgeen synthese afneemt, en verhoogt substantieel sexhormonbindend globuline (SHBG), waardoor vrij beschikbaar testosteron daalt. Een gerandomiseerd placebo-gecontroleerd onderzoek (PMID 12196750) toonde rechtstreeks aan dat een formule met 20 µg EE / 100 µg LNG androgeneiteitsmarkers verbeterde en meetbaar voordeel bij matige acne opleverde.
 
-However, the evidence carries an important caveat: the acne benefit of EE/LNG combinations is attributed **primarily to EE**, not to LNG itself. Comparative trials show that OCs with lower-androgenicity progestins (e.g., EE/chlormadinone acetate) outperform EE/LNG on acne endpoints (PMID 15025547). Levonorgestrel monotherapy — as in the IUS or progestin-only pill — lacks EE's SHBG-raising effect and could theoretically worsen acne in androgenically sensitive individuals. This mechanistic nuance is critical when interpreting the TxGNN prediction: it most plausibly applies to **LNG as part of a COC formulation**, not as a standalone agent.
+Het bewijs kent echter een belangrijk voorbehoud: het acne-voordeel van EE/LNG-combinaties wordt toegeschreven **primair aan EE**, niet aan LNG zelf. Vergelijkende onderzoeken tonen aan dat anticonceptiva met androgeen-minder potente progestagenen (bijv. EE/chlormadinonacetaat) EE/LNG overtreffen op acne-eindpunten (PMID 15025547). Levonorgestrel-monotherapie — zoals in de IUS of progestageen-alleen pil — mist EE's SHBG-verhogend effect en zou theoretisch acne kunnen verergeren bij androgeen-gevoelige personen. Dit mechanistische nuance is kritiek bij interpretatie van de TxGNN-voorspelling: deze geldt het waarschijnlijkst voor **LNG als onderdeel van een COC-formulering**, niet als zelfstandig middel.
 
 ---
 
-## Clinical Trial Evidence
+## Klinisch Bewijs van Onderzoeken
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Inschrijving | Belangrijkste Bevindingen |
 |-------------|-------|--------|------------|--------------|
-| [NCT01650168](https://clinicaltrials.gov/study/NCT01650168) | N/A | Completed | 101,498 | Large prospective cohort comparing NOMAC-E2 vs LNG-containing COCs across >100,000 real-world users; captures dermatological side effects including acne changes, providing a large indirect comparative safety base |
-| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Completed | 131 | Study of continuous COC use with doxycycline; doxycycline was included specifically for its acne-treatment properties, directly placing LNG-containing COC in an acne clinical context |
-| [NCT05570786](https://clinicaltrials.gov/study/NCT05570786) | Phase 2 | Completed | 100 | Phase 2 RCT of subdermal gestrinone (androgenic synthetic progestin) pellet for endometriosis pelvic pain; contextually relevant to androgenic progestin effects on the pilosebaceous unit |
-| [NCT05492487](https://clinicaltrials.gov/study/NCT05492487) | Phase 2 | Unknown | 60 | Pilot study of LNG IUS (Mirena) for atypical endometrial hyperplasia in Singapore; provides systemic LNG exposure data relevant to whole-body hormonal side-effect assessment |
-| [NCT00161226](https://clinicaltrials.gov/study/NCT00161226) | N/A | Terminated | 44 | LNG IUS for endometrial cancer prevention; protocol explicitly notes acne as a known systemic side effect of oral progestins, reinforcing LNG's androgenic profile |
+| [NCT01650168](https://clinicaltrials.gov/study/NCT01650168) | N/A | Voltooid | 101.498 | Grote prospectief cohortonderzoek waarin NOMAC-E2 versus LNG-houdende anticonceptiva worden vergeleken in meer dan 100.000 gebruikers in de praktijk; registreert dermatologische bijwerkingen inclusief acne-veranderingen, wat een grote indirecte vergelijkende veiligheidsbasis oplevert |
+| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Voltooid | 131 | Onderzoek van continu anticonceptiefgebruik met doxycycline; doxycycline werd specifiek voor zijn acne-behandelingseigenschappen opgenomen, waardoor LNG-houdend anticonceptivum rechtstreeks in een acne-klinische context werd geplaatst |
+| [NCT05570786](https://clinicaltrials.gov/study/NCT05570786) | Fase 2 | Voltooid | 100 | Fase 2 RCT van subdermal gestrinon (androgeen synthetische progestageen) pellet voor endometriose bekkenPane; contextueel relevant voor androgene progestageen-effecten op de pilosébacea |
+| [NCT05492487](https://clinicaltrials.gov/study/NCT05492487) | Fase 2 | Onbekend | 60 | Pilot-onderzoek van LNG-IUS (Mirena) voor atypische endometriale hyperplasie in Singapore; levert systemische LNG-blootstellingsgegevens relevant voor beoordeling van algemene hormonale bijwerkingen |
+| [NCT00161226](https://clinicaltrials.gov/study/NCT00161226) | N/A | Beëindigd | 44 | LNG-IUS voor preventie van endometriumkanker; protocol noemt acne expliciet als een bekende systemische bijwerking van orale progestagenen, wat LNG's androgeen profiel versterkt |
 
 ---
 
-## Literature Evidence
+## Literatuur Bewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Journal | Belangrijkste Bevindingen |
 |------|------|------|---------|--------------|
-| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | Clinical Trial (RCT) | J Am Acad Dermatol | Randomized, placebo-controlled trial: 20 µg EE + 100 µg LNG demonstrated improvement in biochemical androgenicity markers and measurable benefit in moderate acne — **most directly relevant study** |
-| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Clinical Study | Acta Derm Venereol | Head-to-head OC comparison (150 µg LNG vs. desogestrel) in 54 female acne patients; measured total/unbound testosterone and SHBG before and after 6 months' treatment |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | EE/chlormadinone acetate significantly more effective than EE/levonorgestrel for papulopustular acne; establishes that progestin androgenicity determines acne outcomes |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review/Clinical | Am J Clin Dermatol | Dermatological benefits of low-androgen OCs in hyperandrogenemia; acne, seborrhoea, hirsutism, and FPHL linked to PSU androgen excess; OC class context for LNG |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Medicine | Foundational review of progestin androgenicity: LNG (19-nortestosterone series) has higher androgen receptor binding affinity than pregnane-derived progestins |
-| [16796485](https://pubmed.ncbi.nlm.nih.gov/16796485/) | 2006 | Review | J Women's Health | Drospirenone vs LNG comparison: antiandrogenic progestins reduce acne, hirsutism, and water retention; positions LNG as comparator with higher androgenic risk |
-| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Cochrane Review | Cochrane Database Syst Rev | Comprehensive systematic review of LNG-IUS for endometrial hyperplasia; includes structured safety data reporting, androgenic side effects (acne, hirsutism) documented |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | LNG-releasing IUS pharmacology, local vs. systemic LNG exposure, and endometrial effects; baseline pharmacokinetic reference for dermatological risk stratification by route |
-| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Clinical Study | Hum Reprod | LNG-IUS treatment of endometriosis; characterises systemic progestogenic exposure, relevant to androgenic side effects across the body including skin |
-| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Review | Obstet Gynecol Clin N Am | LNG implant contraception review; acne reported among known androgenic side effects across implant formulations at varying release rates |
+| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | Klinisch Onderzoek (RCT) | J Am Acad Dermatol | Gerandomiseerd placebo-gecontroleerd onderzoek: 20 µg EE + 100 µg LNG toonde verbetering in biochemische androgeneitsmarkers en meetbaar voordeel bij matige acne — **meest rechtstreeks relevant onderzoek** |
+| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Klinisch Onderzoek | Acta Derm Venereol | Koppelings anticonceptiva-vergelijking (150 µg LNG vs. desogestrel) bij 54 vrouwelijke acnepatiënten; meting van totaal/ongebonden testosteron en SHBG voor en na 6 maanden behandeling |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | EE/chlormadinonacetaat aanzienlijk effectiever dan EE/levonorgestrel voor papulopustulaire acne; stelt vast dat progestageen-androgenie acne-resultaten bepaalt |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review/Klinisch | Am J Clin Dermatol | Dermatologische voordelen van laag-androgeen anticonceptiva in hyperandrogeneemie; acne, seborrhoea, behaardheidsvermeerdering en vrouwelikke patroonkaalheid gekoppeld aan PSU androgeen-overmaat; anticonceptivaklasse context voor LNG |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Medicine | Fundamentele review van progestageen-androgenie: LNG (19-nortestosteron-serie) heeft hogere androgeen receptor bindingsaffiniteit dan pregnaan-afgeleide progestagenen |
+| [16796485](https://pubmed.ncbi.nlm.nih.gov/16796485/) | 2006 | Review | J Women's Health | Drospirenon versus LNG vergelijking: anti-androgeen progestagenen verminderen acne, behaardheidsvermeerdering en waterbehoud; positioneert LNG als vergelijker met hoger androgeen risico |
+| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Cochrane Review | Cochrane Database Syst Rev | Uitgebreide systematische review van LNG-IUS voor endometriale hyperplasie; omvat gestructureerde veiligheidsgegevens-rapportage, androgeen bijwerkingen (acne, behaardheidsvermeerdering) gedocumenteerd |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | LNG-vrijstellende IUS farmacologie, lokale versus systemische LNG-blootstelling, en endometriale effecten; baseline farmacokinetische referentie voor dermatologische risicostratificatie naar route |
+| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Klinisch Onderzoek | Hum Reprod | LNG-IUS-behandeling van endometriose; karakteriseert systemische progestageen-blootstelling, relevant voor androgeen bijwerkingen in het hele lichaam inclusief huid |
+| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Review | Obstet Gynecol Clin N Am | LNG-implantaat anticonceptie review; acne gerapporteerd onder bekende androgeen bijwerkingen op verschillende implantaatformuleringen met verschillende vrijstellingsnelheden |
 
 ---
 
-## Netherlands Market Information
+## Informatie over de Markt in Nederland
 
-No CBG-MEB marketing authorizations were found for Levonorgestrel in this Evidence Pack dataset (total licenses: 0, market status: not registered).
+Er werden geen CBG-MEB-marketinggoedkeuringen voor Levonorgestrel gevonden in deze Evidence Pack-dataset (totale vergunningen: 0, marktstatusnederlands: niet geregistreerd).
 
-> **Important caveat**: This is likely a **data pipeline gap** rather than a true regulatory absence. Levonorgestrel is an established, long-approved medicine available throughout the European Union under multiple formulations — including the Mirena IUS (Bayer), Jaydess/Kyleena IUS, Norlevo emergency contraception, and various combined OC products. CBG-MEB or EMA centralized registration should be verified directly via the [CBG-MEB public register](https://www.cbg-meb.nl/) before drawing any regulatory conclusions from this report.
-
----
-
-## Safety Considerations
-
-No safety data were returned by the Evidence Pack for this drug (key warnings, contraindications, and drug-drug interactions were all unavailable).
-
-> Please refer to the **SmPC** (Summary of Product Characteristics / *Samenvatting van de Productkenmerken*) for the relevant levonorgestrel formulation for complete safety information, including cardiovascular risks, thromboembolic risk, contraindications in hormone-sensitive conditions, and androgenic side effects.
+> **Belangrijk voorbehoud**: Dit is waarschijnlijk een **datapipeline-leemte** in plaats van een echte regelgevingsafwezigheid. Levonorgestrel is een gevestigd, lang-goedgekeurd geneesmiddel beschikbaar in de gehele Europese Unie onder meerdere formuleringen — inclusief de Mirena-IUS (Bayer), Jaydess/Kyleena-IUS, Norlevo-noodanticonceptie, en verschillende gecombineerde anticonceptiva-producten. CBG-MEB of EMA-gecentraliseerde registratie moet rechtstreeks worden geverifieerd via het [CBG-MEB openbare register](https://www.cbg-meb.nl/) alvorens uit dit rapport regelgevingsgevolgtrekkingen te trekken.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Proceed with Guardrails**
+Geen veiligheidsgegevens werden geretourneerd door het Evidence Pack voor dit geneesmiddel (belangrijke waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddel-interacties waren allemaal niet beschikbaar).
 
-**Rationale:**
-A published randomized placebo-controlled trial (PMID 12196750) directly tested an EE/LNG formulation for moderate acne and demonstrated benefit, and the TxGNN prediction score of 99.88% is among the strongest observed. However, the evidence attributes the acne benefit largely to the EE component; LNG's intrinsic androgenic activity means that monotherapy applications are mechanistically unfounded and could be counterproductive. Any repurposing pathway must clearly define the intended formulation and population.
+> Raadpleeg de **SmPC** (Samenvatting van de Productkenmerken) voor de desbetreffende levonorgestrel-formulering voor volledige veiligheidsinformatie, inclusief cardiovasculaire risico's, trombo-embolische risico's, contra-indicaties in hormoon-gevoelige aandoeningen en androgeen bijwerkingen.
 
-**To proceed, the following is needed:**
+---
 
-- **Formulation clarity**: Define whether the repurposing claim is for an EE/LNG COC combination or LNG alone — these are mechanistically different claims
-- **SmPC review**: Obtain and review the full SmPC for all NL-authorized LNG formulations to complete the safety assessment (currently blocked by data gap)
-- **CBG-MEB register check**: Verify actual registration status and approved indications via the official Dutch register
-- **Comparative positioning**: Assess how EE/LNG performs against already EMA/CBG-approved anti-acne OCs (e.g., EE/cyproterone acetate — *Diane-35*, EE/drospirenone — *Yasmin*) that have stronger anti-androgenic profiles
-- **Dedicated monotherapy data**: If LNG monotherapy is the proposed route, a dedicated clinical trial is required — no current evidence supports this route for acne
-- **Dermatology specialist input**: Engage a Dutch dermatologist to evaluate positioning within existing acne treatment guidelines (*Nederlandse Vereniging voor Dermatologie en Venereologie*, NVDV)
+## Conclusie en Vervolgstappen
+
+**Beslissing: Voortgang met voorbehouden**
+
+**Grondslag:**
+Een gepubliceerd gerandomiseerd placebo-gecontroleerd onderzoek (PMID 12196750) testte rechtstreeks een EE/LNG-formulering voor matige acne en toonde voordeel aan, en de TxGNN-voorspellingsscore van 99,88% behoort tot de sterkste waargenomen. Het bewijs schrijft het acne-voordeel echter vooral toe aan de EE-component; LNG's intrinsieke androgeen activiteit betekent dat monotherapie-toepassingen mechanistisch ongefundeerd zijn en contraproductief zouden kunnen zijn. Elk herbestemmingspad moet duidelijk de beoogde formulering en populatie definiëren.
+
+**Om voort te gaan is het volgende nodig:**
+
+- **Formuleringsduidelijkheid**: Definieer of de herstemmingsclaim voor een EE/LNG-COC-combinatie of LNG alleen is — dit zijn mechanistisch verschillende stellingen
+- **SmPC-review**: Verkrijg en beoordeel de volledige SmPC voor alle NL-geautoriseerde LNG-formuleringen om de veiligheidsbeoordeling af te ronden (momenteel geblokkeerd door gegevensgat)
+- **CBG-MEB-register controle**: Controleer werkelijke registratiestatus en goedgekeurde indicaties via het officiële Nederlands register
+- **Vergelijkende positionering**: Beoordeel hoe EE/LNG presteert tegen al EMA/CBG-goedgekeurde anti-acne anticonceptiva (bijv. EE/cyproteronacetaat — *Diane-35*, EE/drospirenon — *Yasmin*) die sterkerere anti-androgeen profielen hebben
+- **Speciale monotherapie-gegevens**: Als LNG-monotherapie de voorgestelde route is, is een speciaal klinisch onderzoek vereist — huidigegevens ondersteunen deze route niet voor acne
+- **Inbreng van dermatologie-specialist**: Betrek een Nederlands dermatoloog voor evaluatie van positionering binnen bestaande acne-behandelingsrichtlijnen (*Nederlandse Vereniging voor Dermatologie en Venereologie*, NVDV)
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

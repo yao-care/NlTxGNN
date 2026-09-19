@@ -29,94 +29,95 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Aceclofenac: From Anti-Inflammatory Pain Relief to Inflammatory Spondylopathy
+# Aceclofenac: van antiontsteking pijnstilling naar inflammatoire spondylopathie
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Aceclofenac is an oral non-steroidal anti-inflammatory drug (NSAID) of the phenylacetic acid class, widely used internationally for osteoarthritis, rheumatoid arthritis, and pain management. The TxGNN model predicts it may be effective for **Inflammatory Spondylopathy**, with **3 clinical trials** and **17 publications** currently supporting this direction — notably including head-to-head RCTs demonstrating efficacy in ankylosing spondylitis, the prototypical inflammatory spondylopathy.
+Aceclofenac is een oraal niet-steroïd antiontstekinggeneesmiddel (NSAID) uit de fenylazijnzuurklasse, dat internationaal veel wordt gebruikt voor artrose, reumatoïde artritis en pijnbehandeling. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Inflammatoire Spondylopathie**, met momenteel **3 klinische studies** en **17 publicaties** die deze richting ondersteunen — met name inclusief gerandomiseerde gecontroleerde onderzoeken (RCT's) die effectiviteit bij ankyloserende spondylitis aantonen, de prototypische inflammatoire spondylopathie.
 
-## Quick Overview
+## Snel overzicht
 
-| Item | Content |
+| Artikel | Inhoud |
 |------|------|
-| Original Indication | Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, pain management (per international authorizations) |
-| Predicted New Indication | Inflammatory Spondylopathy |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 — ≥2 completed RCTs with head-to-head comparisons |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 (Netherlands) |
-| Recommended Decision | Proceed with Guardrails |
+| Oorspronkelijke indicatie | Artrose, reumatoïde artritis, ankyloserende spondylitis, pijnbehandeling (volgens internationale autorisaties) |
+| Voorspelde nieuwe indicatie | Inflammatoire Spondylopathie |
+| TxGNN voorspellingsscore | 99.63% |
+| Bewijsniveau | L1 — ≥2 voltooide RCT's met direct-vergelijkende studies |
+| Status op Nederlandse markt | Niet in de handel |
+| Aantal autorisaties | 0 (Nederland) |
+| Aanbevolen besluit | Voortgaan met waarborgen |
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Aceclofenac is a phenylacetic acid derivative that acts primarily through preferential inhibition of cyclooxygenase-2 (COX-2), reducing the synthesis of prostaglandin E2 (PGE2) and suppressing pro-inflammatory cytokines including IL-1β and TNF-α. This COX-2 selectivity profile offers a theoretical advantage over non-selective NSAIDs in terms of gastrointestinal tolerability, while maintaining potent anti-inflammatory and analgesic effects.
+Aceclofenac is een afgeleide van fenylazijnzuur dat voornamelijk werkt via preferentiële remming van cyclooxigenase-2 (COX-2), wat de synthese van prostaglandine E2 (PGE2) vermindert en pro-inflammatoire cytokines, inclusief IL-1β en TNF-α, onderdrukt. Dit COX-2 selectiviteitsprofiel biedt een theoretisch voordeel ten opzichte van niet-selectieve NSAID's op het gebied van gastro-intestinale verdraagbaarheid, terwijl het sterke anti-inflammatoire en analgetische effecten behoudt.
 
-Inflammatory spondylopathy — a group of chronic inflammatory conditions affecting the axial skeleton, including ankylosing spondylitis (AS) — is fundamentally driven by the same prostaglandin and cytokine pathways that aceclofenac targets. NSAIDs are established as first-line therapy for inflammatory spondylopathies according to ASAS/EULAR guidelines, and continuous NSAID use has been shown to potentially slow radiographic progression in AS. The mechanistic overlap between aceclofenac's pharmacology and the disease pathophysiology is therefore strong.
+Inflammatoire spondylopathie — een groep van chronische ontstekingsziekten die het axiale skelet aantasten, inclusief ankyloserende spondylitis (AS) — wordt fundamenteel aangedreven door dezelfde prostaglandine- en cytokine-paden die aceclofenac remt. NSAID's zijn vastgesteld als eerstelijntherapie voor inflammatoire spondylopathieën volgens ASAS/EULAR-richtlijnen, en continu NSAID-gebruik is aangetoond potentieel de radiografische progressie in AS te kunnen vertragen. De mechanistische overlap tussen de farmacologie van aceclofenac en de ziektepathosfysiologie is daarom sterk.
 
-Importantly, aceclofenac is already authorized for ankylosing spondylitis in multiple countries (Spain, Portugal, and others in the EU), and head-to-head RCTs from the 1990s demonstrated efficacy comparable to indomethacin and tenoxicam in AS patients. This makes the TxGNN prediction not merely theoretical but well-supported by existing clinical evidence, suggesting that the gap is primarily regulatory (lack of NL marketing authorization) rather than scientific.
+Belangrijk is dat aceclofenac al is geautoriseerd voor ankyloserende spondylitis in meerdere landen (Spanje, Portugal en anderen in de EU), en gerandomiseerde gecontroleerde onderzoeken met directe vergelijking uit de jaren 1990 toonden gelijke effectiviteit aan met indomethacine en tenoxicam bij AS-patiënten. Dit maakt de TxGNN-voorspelling niet louter theoretisch maar goed ondersteund door bestaand klinisch bewijs, wat suggereert dat het gat primair regelgevend is (gebrek aan Nederlandse verkoopsvergunning) in plaats van wetenschappelijk.
 
-## Clinical Trial Evidence
+## Bewijs uit klinische studies
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Studienummer | Fase | Status | Inschrijvingen | Belangrijke bevindingen |
 |---------|------|------|------|---------|
-| [NCT00647517](https://clinicaltrials.gov/study/NCT00647517) | Phase 4 | Completed | 60 | Taiwanese RCT evaluating tramadol/APAP as add-on to NSAID (including aceclofenac) in AS/RA patients. Directly relevant to aceclofenac use in inflammatory spondylopathy as baseline therapy. |
-| [NCT05164198](https://clinicaltrials.gov/study/NCT05164198) | Phase 4 | Unknown | 448 | Multicenter trial optimizing TNF inhibitor dose adjustment in AS patients with stable disease. Provides context on disease management and potential combination strategies with NSAIDs. |
-| [NCT02883569](https://clinicaltrials.gov/study/NCT02883569) | N/A | Completed | 1,102 | Large comparative effectiveness study of surgery vs. non-surgery for low back pain. Indirectly relevant — provides natural history data for spinal inflammatory conditions. |
+| [NCT00647517](https://clinicaltrials.gov/study/NCT00647517) | Fase 4 | Voltooid | 60 | Taiwanese RCT die tramadol/APAP als aanvulling op NSAID (inclusief aceclofenac) bij AS/RA-patiënten evalueerde. Rechtstreeks relevant voor aceclofenac-gebruik in inflammatoire spondylopathie als basistherapie. |
+| [NCT05164198](https://clinicaltrials.gov/study/NCT05164198) | Fase 4 | Onbekend | 448 | Multicenter studie voor optimalisatie van TNF-remmerdosisaanpassing bij AS-patiënten met stabiele ziekte. Biedt context voor ziektebehandeling en mogelijke combinatiestrategieën met NSAID's. |
+| [NCT02883569](https://clinicaltrials.gov/study/NCT02883569) | N/A | Voltooid | 1,102 | Grote vergelijkende effectivenesstudie van chirurgie versus non-chirurgie voor lage rugpijn. Indirect relevant — biedt natuurlijke verloopgegevens voor spinale ontstekingsziekten. |
 
-## Literature Evidence
+## Bewijs uit literatuur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijke bevindingen |
 |------|-----|------|------|---------|
-| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | RCT | J Rheumatol | 3-month multicenter double-blind RCT: aceclofenac 100 mg bid was as safe and effective as tenoxicam 20 mg in active AS patients. |
-| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | RCT | J Rheumatol | Multicenter controlled trial: aceclofenac demonstrated efficacy and tolerability comparable to indomethacin in active AS. |
-| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Systematic Review | J Pain Res | Comprehensive review confirming aceclofenac's analgesic and anti-inflammatory effects in musculoskeletal disorders including AS, OA, and RA. |
-| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Review | Expert Opin Pharmacother | Aceclofenac effective in >75 million patients worldwide; proved comparable to tenoxicam, naproxen, and indomethacin in AS. |
-| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Review | Drugs | Reappraisal confirming aceclofenac reduces joint inflammation, pain intensity, and morning stiffness in AS with favourable GI profile. |
-| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Pharmacological Review | Drugs | Established aceclofenac's efficacy equivalent to diclofenac/indomethacin in AS with lower GI damage potential. |
-| [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Guideline | Ann Rheum Dis | ASAS recommendations for NSAID intake reporting in axial spondyloarthritis — includes aceclofenac in NSAID equivalent scoring. |
-| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Review | Rev Med Liege | Critical review of aceclofenac's role in inflammatory pain; highlights anti-inflammatory profile including PGE2 inhibition and cartilage remodeling effects. |
-| [11548913](https://pubmed.ncbi.nlm.nih.gov/11548913/) | 2001 | Pharmacoeconomic | PharmacoEconomics | Economic analysis showing aceclofenac's cost-effectiveness vs. other NSAIDs in arthritic disorders including AS, factoring in lower adverse event rates. |
-| [22350497](https://pubmed.ncbi.nlm.nih.gov/22350497/) | 2012 | Review (Safety) | Clin Drug Investig | Reviews gastroprotection strategies for NSAIDs in rheumatic disorders including AS; relevant to long-term aceclofenac safety planning. |
+| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | RCT | J Rheumatol | 3-maands multicenter dubbelblind RCT: aceclofenac 100 mg bid was even veilig en effectief als tenoxicam 20 mg bij actieve AS-patiënten. |
+| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | RCT | J Rheumatol | Multicenter gecontroleerde studie: aceclofenac toonde effectiviteit en verdraagbaarheid aan die vergelijkbaar waren met indomethacine bij actieve AS. |
+| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Systematische review | J Pain Res | Uitgebreide review bevestigde aceclofenac's analgetische en anti-inflammatoire effecten bij musculoskeletale aandoeningen, waaronder AS, artrose en reumatoïde artritis. |
+| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Review | Expert Opin Pharmacother | Aceclofenac effectief bij >75 miljoen patiënten wereldwijd; bleek vergelijkbaar met tenoxicam, naproxen en indomethacine bij AS. |
+| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Review | Drugs | Hernieuwde beoordeling bevestigde dat aceclofenac gewrichtsontsteking, pijnintensiteit en ochtendslijfheid vermindert bij AS met gunstig gastro-intestinaal profiel. |
+| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Farmacologische review | Drugs | Vastgesteld dat aceclofenac vergelijkbare effectiviteit heeft als diclofenac/indomethacine bij AS met lager gastro-intestinaal schadepotentieel. |
+| [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Richtlijn | Ann Rheum Dis | ASAS aanbevelingen voor NSAID-inname rapportage bij axiale spondyloartritis — inclusief aceclofenac in NSAID equivalentiescoring. |
+| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Review | Rev Med Liege | Kritische review van aceclofenac's rol in inflammatoire pijn; benadrukt anti-inflammatoir profiel inclusief PGE2-remming en kneukelvormingseffecten. |
+| [11548913](https://pubmed.ncbi.nlm.nih.gov/11548913/) | 2001 | Farmacoeconomisch | PharmacoEconomics | Economische analyse toont aceclofenac's kosteneffectiviteit versus andere NSAID's in gewrichtsaandoeningen inclusief AS, rekening houdend met lagere bijwerkingspercentages. |
+| [22350497](https://pubmed.ncbi.nlm.nih.gov/22350497/) | 2012 | Review (Veiligheid) | Clin Drug Investig | Beoordeelt maagbeschermingsstrategieën voor NSAID's bij reumatische aandoeningen inclusief AS; relevant voor langetermijnveiligheidsplanning van aceclofenac. |
 
-## Netherlands Market Information
+## Informatie over de Nederlandse markt
 
-Aceclofenac currently holds **no marketing authorization (handelsvergunning)** from the CBG-MEB in the Netherlands. The drug is not registered and not marketed in the Dutch market.
+Aceclofenac beschikt momenteel over **geen handelsvergunning** van het CBG-MEB in Nederland. Het geneesmiddel is niet geregistreerd en niet in de handel op de Nederlandse markt.
 
-| Item | Status |
+| Artikel | Status |
 |------|------|
-| CBG-MEB Authorization | None |
-| Market Availability | Not available |
-| EMA Central Authorization | Not applicable (nationally authorized in other EU member states) |
+| CBG-MEB autorisatie | Geen |
+| Beschikbaarheid op de markt | Niet beschikbaar |
+| Centrale EMA-autorisatie | Niet van toepassing (nationaal geautoriseerd in andere EU-lidstaten) |
 
-> **Note:** Aceclofenac is authorized and marketed in several other EU member states (e.g., Spain, Portugal, Italy, Belgium) under various brand names (Biofenac, Airtal, Falcol). A mutual recognition or decentralized procedure could potentially facilitate Dutch authorization.
+> **Opmerking:** Aceclofenac is geautoriseerd en in de handel onder verschillende merknamen in meerdere andere EU-lidstaten (bijv. Spanje, Portugal, Italië, België) (Biofenac, Airtal, Falcol). Een procedure voor wederzijdse erkenning of gedecentraliseerde procedure zou mogelijk Nederlandse autorisatie kunnen faciliteren.
 
-## Safety Considerations
+## Veiligheidsoverwegingen
 
-Please refer to the SmPC (Summary of Product Characteristics) from an authorizing EU member state for comprehensive safety information. Key considerations based on the NSAID drug class:
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van een autoriserende EU-lidstaat voor uitgebreide veiligheidsinformatie. Belangrijke overwegingen op basis van de NSAID-geneesmiddelenklasse:
 
-- **Class-wide NSAID warnings** apply: cardiovascular thrombotic events, gastrointestinal bleeding/ulceration/perforation, renal toxicity, and hepatotoxicity
-- **Gastroprotection**: Literature indicates aceclofenac has a more favourable GI profile compared to other NSAIDs (e.g., diclofenac, indomethacin), but co-prescription of a proton pump inhibitor should be considered for at-risk patients
-- **Adverse drug reaction of note**: One case report (PMID [16922973](https://pubmed.ncbi.nlm.nih.gov/16922973/)) documented generalized pustular psoriasis precipitated by aceclofenac
+- **Klassebrede NSAID-waarschuwingen** zijn van toepassing: cardiovasculaire trombotische events, gastro-intestinale bloeding/ulceratie/perforatie, niertoxiciteit en hepatotoxiciteit
+- **Maagbescherming**: Literatuur geeft aan dat aceclofenac een gunstiger gastro-intestinaal profiel heeft in vergelijking met andere NSAID's (bijv. diclofenac, indomethacine), maar coprescriptie van een protonpompremmmer dient te worden overwogen voor patiënten met risico
+- **Bijzondere bijwerking**: Een caseReport (PMID [16922973](https://pubmed.ncbi.nlm.nih.gov/16922973/)) documenteerde gegeneraliseerde pustulaire psoriasis uitgelokt door aceclofenac
 
-> ⚠️ **Data Gap**: Specific SmPC warnings, contraindications, and drug-drug interaction data for aceclofenac were not available in this evidence pack. These must be obtained from the SmPC of an EU-authorized product before clinical use can be considered.
+> ⚠️ **Lacune in gegevens**: Specifieke SmPC-waarschuwingen, contra-indicaties en geneesmiddelinteractiegegevens voor aceclofenac waren niet beschikbaar in dit bewijspakket. Deze moeten van de SmPC van een EU-geautoriseerd product worden verkregen voordat klinisch gebruik in Nederland kan worden overwogen.
 
-## Conclusion and Next Steps
+## Conclusie en volgende stappen
 
-**Decision: Proceed with Guardrails**
+**Besluit: Voortgaan met waarborgen**
 
-**Rationale:**
-Aceclofenac has robust Level 1 evidence supporting its efficacy in inflammatory spondylopathy (specifically ankylosing spondylitis), including two completed head-to-head RCTs, a systematic review, and multiple pharmacological reviews. The drug is already authorized for this indication in other EU member states, making the repurposing pathway primarily a regulatory rather than a scientific challenge. However, the absence of CBG-MEB authorization and the identified safety data gaps require attention before any clinical application in the Netherlands.
+**Beredenering:**
+Aceclofenac beschikt over robuust bewijsniveau L1 dat de werkzaamheid ervan bij inflammatoire spondylopathie ondersteunt (specifiek ankyloserende spondylitis), inclusief twee voltooide gerandomiseerde gecontroleerde onderzoeken met directe vergelijking, een systematische review en meerdere farmacologische reviews. Het geneesmiddel is al geautoriseerd voor deze indicatie in andere EU-lidstaten, wat de herbestemming primair een regelgevend in plaats van een wetenschappelijk vraagstuk maakt. De afwezigheid van CBG-MEB autorisatie en de geïdentificeerde veiligheidslacunes vereisen echter aandacht voordat enig klinisch gebruik in Nederland kan worden overwogen.
 
-**To proceed, the following is needed:**
-- Obtain the SmPC from an EU-authorizing member state (e.g., Spain — AEMPS) for complete safety, contraindication, and interaction data
-- Evaluate feasibility of a mutual recognition procedure or Article 126a authorization for Dutch market access
-- Obtain detailed mechanism of action data from DrugBank to complete the pharmacological profile
-- Assess formulary positioning relative to currently available NSAIDs in the Netherlands (e.g., diclofenac, naproxen, etoricoxib) — determine whether aceclofenac offers a clinically meaningful advantage
-- Consider named-patient supply (artsenverklaring) pathway for individual patient access pending formal authorization
+**Om voort te gaan is het volgende nodig:**
+- Verkrijg de SmPC van een EU-autoriserende lidstaat (bijv. Spanje — AEMPS) voor volledige veiligheids-, contra-indicatie- en interactiegegevens
+- Evalueer de haalbaarheid van een procedure voor wederzijdse erkenning of artikel 126a-autorisatie voor Nederlandse markttoelating
+- Verkrijg gedetailleerde werkingsmechanismegegevens van DrugBank om het farmacologische profiel aan te vullen
+- Beoordeel formulieringspositie ten opzichte van momenteel beschikbare NSAID's in Nederland (bijv. diclofenac, naproxen, etoricoxib) — bepaal of aceclofenac een klinisch zinvol voordeel biedt
+- Overweeg levering voor individuele patiënten (artsenverklaring) als tussenweg voor individuele patiënttoegang in afwachting van formele autorisatie
 
 ---
 
-*This report was generated on 2026-04-03 based on TxGNN model predictions and publicly available evidence. Results are for research purposes only and do not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+*Dit rapport is gegenereerd op 2026-04-03 op basis van TxGNN-modelvoorspellingen en openbaar beschikbaar bewijs. Resultaten zijn bestemd voor onderzoeksdoeleinden en vormen geen medisch advies. Alle kandidaten voor geneesmiddelherbeschikking vereisen klinische validatie voordat toepassing.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

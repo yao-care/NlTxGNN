@@ -29,84 +29,81 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is the NL (Netherlands) deployment context. The system prompt's Report Prompt v5 provides complete formatting instructions. Generating the report now.
+# Clobazam: Van epilepsie naar infectie-gerelateerd epilepsiesyndroom
+
+## Samenvatting in één zin
+
+Clobazam is een 1,5-benzodiazepine met internationaal erkend gebruik als anti-epilepticum en anxiolyticum, inclusief FDA-goedgekeurde aanvullende behandeling voor Lennox-Gastaut-syndroom (2011).
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **infectie-gerelateerd epilepsiesyndroom (FIRES)**,
+waarbij **0 klinische onderzoeken** en **2 publicaties** deze specifieke richting momenteel ondersteunen.
 
 ---
 
-# Clobazam: From Epilepsy to Febrile Infection-Related Epilepsy Syndrome
+## Snelle tabellarische samenvatting
 
-## One-Sentence Summary
-
-Clobazam is a 1,5-benzodiazepine with established global use as an antiepileptic and anxiolytic agent, including FDA-approved adjunctive treatment for Lennox-Gastaut syndrome (2011).
-The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**,
-with **0 clinical trials** and **2 publications** currently supporting this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Epilepsy (adjunctive therapy incl. Lennox-Gastaut syndrome) and anxiety — not registered in the Netherlands |
-| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Epilepsie (aanvullende therapie inclusief Lennox-Gastaut-syndroom) en angststoornis — niet geregistreerd in Nederland |
+| Voorspelde nieuwe indicatie | Infectie-gerelateerd epilepsiesyndroom (FIRES) |
+| TxGNN-voorspellingsscore | 99.82% |
+| Bewijsniveau | L4 |
+| Status op de Nederlandse markt | Niet op de markt |
+| Aantal toestemmingen | 0 |
+| Aanbevolen besluit | Afwachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on information embedded in the evidence literature, Clobazam is a 1,5-benzodiazepine that enhances GABA-A receptor function with a known preference for the α2 subtype. This mechanism reduces cortical and subcortical hyperexcitability, forming the pharmacological basis for its broad use across epilepsy syndromes — from focal seizures to severe developmental epileptic encephalopathies such as Lennox-Gastaut syndrome and Dravet syndrome.
+Gedetailleerde gegevens over het werkingsmechanisme zijn niet beschikbaar in het huidige bewijspakket. Op basis van informatie in de relevante literatuur is clobazam een 1,5-benzodiazepine die de GABA-A-receptorfunctie versterkt, met een voorkeur voor het α2-subtype. Dit mechanisme vermindert corticale en subcorticale hyperexcitabiliteit, wat de farmacologische basis vormt voor het brede gebruik ervan bij verschillende epilepsiesyndromen — van focale aanvallen tot ernstige ontwikkelingsgerelateerde epileptische encefalopathieën zoals Lennox-Gastaut-syndroom en Dravet-syndroom.
 
-FIRES is a catastrophic form of new-onset refractory status epilepticus (NORSE) that primarily affects previously healthy children and adolescents. During the acute phase, intravenous benzodiazepines — in particular midazolam — are a cornerstone of seizure suppression. The TxGNN prediction rests on a plausible class-level inference: oral clobazam, as a 1,5-BZD, could theoretically serve as a transitional weaning agent when patients are being stepped down from IV anaesthetic management toward oral maintenance therapy. This pathway has biological coherence given shared GABA-A receptor targets.
+FIRES is een catastrofale vorm van nieuwveroorzaakte refractaire status epilepticus (NORSE) die vooral kinderen en adolescenten treft die eerder gezond waren. Tijdens de acute fase zijn intraveneuze benzodiazepines — in het bijzonder midazolam — een hoeksteen van aanvalsonderdrukking. De TxGNN-voorspelling berust op een plausibele afleiding op klasniveau: oraal clobazam zou theoretisch kunnen dienen als overgangsmiddel bij het afbouwen van patiënten van IV-anesthetische behandeling naar orale onderhoudstherapie. Dit traject heeft biologische coherentie gezien de gedeelde GABA-A-receptordoelen.
 
-However, the available literature does not study clobazam directly in FIRES. The two identified publications focus on enteral **lorazepam** (PMID 35770765) and **perampanel** (PMID 39958143) as weaning strategies — clobazam is not the primary subject in either. This prediction therefore represents a **BZD class-effect extrapolation**, not drug-specific evidence, which appropriately constrains the evidence level to L4.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+De beschikbare literatuur onderzoekt echter clobazam niet rechtstreeks in FIRES. De twee geïdentificeerde publicaties concentreren zich op enteraal **lorazepam** (PMID 35770765) en **perampanel** (PMID 39958143) als afbouwstrategieën — clobazam is in geen van beide het primaire onderwerp. Deze voorspelling vertegenwoordigt daarom een **afleiding op klasniveau voor benzodiazepines**, geen drugspecifiek bewijs, wat het bewijsniveau passend beperkt tot L4.
 
 ---
 
-## Literature Evidence
+## Bewijs uit klinische onderzoeken
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Case series | Epileptic Disorders | Enteral lorazepam used as effective weaning substitute for midazolam in FIRES patients; supports the BZD class weaning concept but does not study clobazam directly |
-| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case report | Cureus | Perampanel reduced barbiturate dependency in a 13-year-old with FIRES; highlights need for non-anaesthetic alternatives — clobazam not evaluated |
+Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Netherlands Market Information
+## Bewijsmateriaal uit de literatuur
 
-Clobazam currently holds **no CBG-MEB marketing authorization** in the Netherlands. There are 0 registered products containing clobazam in the Dutch medicines registry. Any clinical use in the Netherlands would require a patient-level special authorization (Article 3.17 Geneesmiddelenwet) or a named-patient importation route under applicable regulatory provisions. The absence of a Dutch SmPC means safety and dosing guidance must be sourced from the EMA product information or the FDA-approved SmPC (Onfi®).
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Summary of Product Characteristics) for full safety information. Given the absence of a Dutch CBG-MEB authorization, the EMA SmPC for clobazam (where available) or the FDA SmPC for Onfi® is the recommended reference document.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|------|------|-------------|---------------------------|
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Casusreeks | Epileptic Disorders | Enteraal lorazepam gebruikt als effectief afbouwmiddel ter vervanging van midazolam in FIRES-patiënten; ondersteunt het afbouwconcept van benzodiazepineklasse maar onderzoekt clobazam niet rechtstreeks |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Casusrapport | Cureus | Perampanel verminderde barbituratenafhankelijkheid bij een 13-jarige met FIRES; benadrukt de noodzaak van niet-anesthetische alternatieven — clobazam niet geëvalueerd |
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Clobazam heeft momenteel **geen CBG-MEB-handelsvergunning** in Nederland. Er zijn 0 geregistreerde producten met clobazam in het Nederlands medicijnregister. Elk klinisch gebruik in Nederland zou een vergunning op patientniveau (artikel 3.17 Geneesmiddelenwet) of een route voor individuele toepassing onder toepasselijke regelgevingsbepalingen vereisen. De afwezigheid van een Nederlands SmPC betekent dat veiligheids- en doseringsbegeleiding moet worden gehaald uit de EMA-productinformatie of de FDA-goedgekeurde SmPC (Onfi®).
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.82%), the supporting evidence for clobazam specifically in FIRES consists of only 2 publications — neither of which directly investigates clobazam — and 0 registered clinical trials. The mechanistic rationale is biologically plausible as a benzodiazepine class effect, but drug-specific clinical validation is absent.
+---
 
-**To proceed, the following is needed:**
-- Direct clinical data on clobazam in FIRES: a prospective case series or observational study specifically evaluating clobazam as a weaning or maintenance agent
-- Safety and pharmacokinetic profiling in the FIRES population (critically ill, predominantly pediatric, often on concurrent anaesthetics)
-- Regulatory pathway assessment: clobazam is not authorized in the Netherlands; a Named Patient / hospital exemption pathway via CBG-MEB must be established before any trial use
-- Mechanism of action documentation: DrugBank API query to resolve the current data gap (DG002) and support mechanistic plausibility analysis
-- Safety review to resolve DG001: Dutch or EMA SmPC warnings and contraindications must be obtained before entering formal safety evaluation (currently blocking S1 stage)
+## Veiligheidsoverwegingen
+
+Raadpleeg alstublieft de SmPC (Samenvatting van de productkenmerken) voor volledige veiligheidsinformatie. Gezien de afwezigheid van een Nederlandse CBG-MEB-vergunning, is de EMA-SmPC voor clobazam (indien beschikbaar) of de FDA-SmPC voor Onfi® het aanbevolen referentiedocument.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Afwachten**
+
+**Grondslag:**
+Ondanks een hoge TxGNN-voorspellingsscore (99.82%) bestaat de ondersteunende literatuur voor clobazam in FIRES uit slechts 2 publicaties — waarvan geen clobazam rechtstreeks onderzoekt — en 0 geregistreerde klinische onderzoeken. De mechanistische grondslag is biologisch plausibel als klaseffect van benzodiazepines, maar drugspecifieke klinische validatie ontbreekt.
+
+**Om verder te gaan is het volgende nodig:**
+- Rechtstreekse klinische gegevens over clobazam in FIRES: een prospectief casusreeks of observationeel onderzoek dat clobazam specifiek als afbouw- of onderhoudsmiddel evalueert
+- Veiligheids- en farmacokinetische profilering in de FIRES-populatie (ernstig ziek, overwegend pediaatrisch, vaak onder gelijktijdig anesthetica)
+- Beoordeling van het regelgevingstraject: clobazam is niet geregistreerd in Nederland; een route voor individuele toepassing via CBG-MEB moet voorafgaand aan elk proefgebruik worden vastgesteld
+- Documentatie van werkingsmechanisme: DrugBank API-zoekopdracht om de huidige gegevenslacune (DG002) op te lossen en analyse van mechanistische aannemelijkheid te ondersteunen
+- Veiligheidsbeoordeling om DG001 op te lossen: waarschuwingen en contra-indicaties uit de Nederlandse of EMA-SmPC moeten worden verkregen vóór formele veiligheidsevaluatie (momenteel S1-stadium blokkerend)
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

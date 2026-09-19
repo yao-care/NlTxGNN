@@ -29,85 +29,80 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context — the NlTxGNN project targets the Netherlands CBG-MEB framework. The skill confirms standard workflow applies. Proceeding to generate the report from the Evidence Pack.
+# Tropicamide: Van Oogheelkunde (Mydriasis) naar Cauda Equina Syndroom
+
+## Samenvatting in Één Zin
+
+Tropicamide is een goed gevestigde antimuscarinerge (anticholinerge) stof, vooral gebruikt in de oogheelkunde om pupilverwijding (mydriasis) en tijdelijke accommodatieverlammung (cycloplegia) tijdens oogonderzoeken op te wekken. Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Cauda Equina Syndroom**, hoewel momenteel **0 klinische onderzoeken** en **0 publicaties** deze richting ondersteunen.
 
 ---
 
-# Tropicamide: From Ophthalmology (Mydriasis) to Cauda Equina Syndrome
+## Snel Overzicht
 
-## One-Sentence Summary
-
-Tropicamide is a well-established antimuscarinic (anticholinergic) agent, primarily used in ophthalmology to induce pupil dilation (mydriasis) and temporary paralysis of accommodation (cycloplegia) during eye examinations.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No CBG-MEB authorization on record; classically used for ophthalmic mydriasis/cycloplegia |
-| Predicted New Indication | Cauda Equina Syndrome |
-| TxGNN Prediction Score | 99.53% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke Indicatie | Geen CBG-MEB-registratie bekend; klassiek gebruikt voor oogheelkundige mydriasis/cycloplegia |
+| Voorspelde Nieuwe Indicatie | Cauda Equina Syndroom |
+| TxGNN Voorspellingsscore | 99.53% |
+| Bewijsniveau | L5 (alleen modelvoorspelling, geen ondersteunende studies) |
+| NL-Marktpositie | Niet geregistreerd |
+| Aantal Autorisaties | 0 |
+| Aanbevolen Besluit | Aanhouden |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is Deze Voorspelling Redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacological knowledge, Tropicamide is a competitive antagonist at muscarinic acetylcholine receptors — particularly M3 and M4 subtypes. When applied topically to the eye, this antimuscarinic action relaxes the iris sphincter and ciliary muscle, producing mydriasis and cycloplegia. Beyond ophthalmology, antimuscarinic agents are pharmacologically active across the autonomic nervous system, influencing smooth muscle tone in the bladder, bowel, and other visceral organs.
+Op dit moment zijn gedetailleerde mechanisme-van-werking gegevens niet beschikbaar in het Evidence Pack. Op basis van gevestigde farmacologische kennis is tropicamide een competitieve antagonist van muscarinerge acetylcholine-receptoren — met name M3 en M4-subtypen. Bij topicale toediening in het oog ontspant deze antimuscarinerge werking de irissluitspier en ciliairspier, wat mydriasis en cycloplegia teweegbrengt. Buiten de oogheelkunde zijn antimuscarinerge middelen farmacologisch actief in het autonoom zenuwstelsel, waar zij de gladde spiertoon in de blaas, darm en andere viscerale organen beïnvloeden.
 
-Cauda equina syndrome (CES) is a serious neurological emergency caused by compression of the lumbosacral nerve root bundle. A hallmark feature of CES is disruption of the autonomic pathways governing micturition (urination), defecation, and sexual function — areas precisely where muscarinic receptor modulation is pharmacologically relevant. Anticholinergic drugs are already established in managing neurogenic bladder dysfunction, a frequent sequela of CES. TxGNN may therefore be detecting a mechanistic overlap between Tropicamide's receptor profile and the autonomic dysfunction component of CES, rather than a direct effect on nerve root compression itself.
+Cauda equina syndroom (CES) is een ernstige neurologische noodsituatie veroorzaakt door compressie van het lumbosacraal zenuwortelwantje. Een kenmerkend kenmerk van CES is verstoring van de autonome banen die mictie (urinelozing), defecatie en geslachtsfunctie reguleren — gebieden waar muscarinerge receptormodulatie juist farmacologisch relevant is. Anticholinerge geneesmiddelen zijn al gevestigd bij het beheer van neurogene blaasdisfunctie, een frequent gevolg van CES. TxGNN kan daarom een mechanistische overlap detecteren tussen het receptorprofiel van tropicamide en de autonome dysfunctiecomponent van CES, eerder dan een direct effect op zenuwortelcompressie zelf.
 
-That said, CES is primarily a structural/surgical condition: nerve root decompression remains the cornerstone of treatment. Tropicamide's utility would, at most, address symptomatic autonomic complications rather than the underlying pathology. The high TxGNN score likely reflects a graph-neighbourhood association through shared autonomic pathway nodes. Without clinical evidence, this prediction should be treated as a hypothesis-generating signal only.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Dat gezegd hebbende, CES is primair een structurele/chirurgische aandoening: zenuworteldecompressie blijft de hoeksteen van de behandeling. Het nut van tropicamide zou op zijn best de symptomatische autonome complicaties aanpakken in plaats van de onderliggende pathologie. De hoge TxGNN-score weerspiegelt waarschijnlijk een graph-neighbourhood-associatie door gedeelde autonome-pathway-knooppunten. Zonder klinische bewijzen moet deze voorspelling alleen als een hypothesis-generatief signaal worden behandeld.
 
 ---
 
-## Literature Evidence
+## Bewijsvoering uit Klinische Onderzoeken
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Tropicamide currently holds no marketing authorizations issued by the CBG-MEB (College ter Beoordeling van Geneesmiddelen) and is not commercially available on the Dutch market according to this Evidence Pack. No RVG numbers are on record.
-
-> **Note for reviewers:** Tropicamide ophthalmic solutions are widely authorized across EU member states under various brand names. A dedicated CBG-MEB registry search is recommended to verify whether any mutual recognition or decentralized procedure authorizations exist that may not yet be captured in this dataset.
+Op dit moment zijn geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Bewijsvoering uit Literatuur
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information. Key warnings, contraindications, and drug interaction data are not available in the current Evidence Pack and must be retrieved from the CBG-MEB/EMA product dossier or TFDA SmPC PDF before this candidate can advance to a formal safety screening stage.
+Op dit moment is geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Nederlands Marktinformatie
 
-**Decision: Hold**
+Tropicamide heeft momenteel geen verkoopvergunningen van de CBG-MEB (College ter Beoordeling van Geneesmiddelen) en is volgens dit Evidence Pack niet commercieel verkrijgbaar op de Nederlandse markt. Er zijn geen RVG-nummers geregistreerd.
 
-**Rationale:**
-The evidence base sits at Level L5 — the lowest tier, consisting solely of a TxGNN model prediction with no supporting clinical trials or published literature. Combined with zero Dutch market authorizations and unresolved data gaps in both mechanism of action and safety data, there is insufficient information to support any further recommendation at this stage.
+> **Opmerking voor beoordelaars:** Oogheelkundige tropicamideoplossingen zijn ruim verspreid geautoriseerd in EU-lidstaten onder verschillende merknamen. Een gerichte zoeken in het CBG-MEB-register wordt aanbevolen om te verifiëren of er wederzijdse erkennings- of gedecentraliseerde procedureautorisaties bestaan die mogelijk nog niet in deze dataset zijn vastgelegd.
 
-**To proceed, the following is needed:**
+---
 
-- **MOA verification:** Retrieve full DrugBank entry (DB00809) to confirm receptor targets, pharmacodynamics, and known off-target effects
-- **SmPC review:** Download and parse the relevant SmPC (EMA or national CBG-MEB) for key warnings, contraindications, and special population precautions
-- **DDI assessment:** Re-query drug interaction databases once SmPC data is available
-- **Indication disambiguation:** Clarify whether the TxGNN prediction targets CES itself, or its autonomic sequelae (e.g., neurogenic bladder); the latter has much stronger pharmacological plausibility
-- **Targeted literature search:** Broaden PubMed query beyond exact disease match — search for "tropicamide autonomic neuropathy", "anticholinergic neurogenic bladder cauda equina", and related terms
-- **NL market status verification:** Confirm via CBG-MEB public register whether any ophthalmic Tropicamide products hold an RVG number under mutual recognition procedures
+## Veiligheidsoverwegingen
+
+Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor veiligheidsinformatie. Belangrijke waarschuwingen, contraïndicaties en geneesmiddel-interactiegegevens zijn niet beschikbaar in het huidige Evidence Pack en moeten worden opgehaald uit het CBG-MEB/EMA-productdossier of TFDA SmPC PDF voordat deze kandidaat naar een formele veiligheidscreeningsfase kan gaan.
+
+---
+
+## Conclusie en Vervolgstappen
+
+**Besluit: Aanhouden**
+
+**Motivering:**
+De bewijsbasis bevindt zich op niveau L5 — de laagste schaal, bestaande uit alleen een TxGNN-modelvoorspelling zonder ondersteunende klinische onderzoeken of gepubliceerde literatuur. Gecombineerd met nul Nederlandse marktautorisaties en onopgeloste gegevenslacunes in zowel werkingsmechanisme als veiligheidsgegevens, is er onvoldoende informatie om enige verdere aanbeveling in dit stadium te ondersteunen.
+
+**Om voort te gaan, is het volgende nodig:**
+
+- **MOA-verificatie:** Haal volledige DrugBank-vermelding (DB00809) op om receptordoelen, farmacodynamica en bekende off-target effecten te bevestigen
+- **SmPC-beoordeling:** Download en bestudeer de relevante SmPC (EMA of nationale CBG-MEB) voor belangrijke waarschuwingen, contraïndicaties en voorzorgsmaatregelen voor speciale populaties
+- **DDI-beoordeling:** Doorzoek drug-interactiedatabases opnieuw zodra SmPC-gegevens beschikbaar zijn
+- **Indicatieverduidelijking:** Verduidelijk of de TxGNN-voorspelling gericht is op CES zelf, of op zijn autonome gevolgen (bijv. neurogene blaas); laatstgenoemde heeft veel sterker farmacologische aannemelijkheid
+- **Gericht literatuuronderzoek:** Verbreed PubMed-query voorbij exacte ziektematching — zoeken naar "tropicamide autonomic neuropathy", "anticholinergic neurogenic bladder cauda equina" en gerelateerde termen
+- **NL-marktstatusverificatie:** Bevestig via het openbare CBG-MEB-register of oogheelkundige tropicamideproducten een RVG-nummer hebben onder wederzijdse erkenningsprocedures
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

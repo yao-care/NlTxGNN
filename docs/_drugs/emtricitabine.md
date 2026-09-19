@@ -29,92 +29,89 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-The txgnn-pipeline skill is focused on pipeline operations; the detailed report format is governed by the system prompt (v5). Proceeding to generate the report from the Evidence Pack.
+# Emtricitabine: Van HIV-infectie naar Feline Acquired Immunodeficiency Syndrome
+
+## Samenvatting in één zin
+
+Emtricitabine (FTC) is een nucleoside reverse transcriptase-remmer (NRTI) die is gevestigd voor de behandeling van HIV-1- en HIV-2-infectie bij mensen.
+Het TxGNN-model voorspelt dat het ook effectief zou kunnen zijn tegen **Feline Acquired Immunodeficiency Syndrome** (veroorzaakt door Feline Immunodeficiency Virus, FIV),
+met **geen direct relevante klinische onderzoeken** die zijn geregistreerd en **1 felien dieronderzoek** (2023) dat momenteel beschikbaar is ter ondersteuning van deze richting.
 
 ---
 
-# Emtricitabine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
+## Kort overzicht
 
-## One-Sentence Summary
-
-Emtricitabine (FTC) is a nucleoside reverse transcriptase inhibitor (NRTI) established for the treatment of HIV-1 and HIV-2 infection in humans.
-The TxGNN model predicts it may also be effective against **Feline Acquired Immunodeficiency Syndrome** (caused by Feline Immunodeficiency Virus, FIV),
-with **no directly relevant clinical trials** registered and **1 feline animal study** (2023) currently available to support this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | HIV infection (established antiretroviral use; no CBG-MEB registration data captured in current database) |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 (single feline animal study; no FIV-specific clinical trials) |
-| NL Market Status | Not registered (per CBG-MEB database) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | HIV-infectie (gevestigd antiretroviraal gebruik; geen CBG-MEB-registratiegegevens vastgelegd in huidige database) |
+| Voorspelde nieuwe indicatie | Feline Acquired Immunodeficiency Syndrome |
+| TxGNN voorspellingsscore | 99.92% |
+| Evidentieel niveau | L4 (enkel felien dieronderzoek; geen FIV-specifieke klinische onderzoeken) |
+| NL-markt status | Niet geregistreerd (volgens CBG-MEB-database) |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Wachten |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the regulatory database for this Evidence Pack. Based on established pharmacological knowledge, Emtricitabine is a fluorinated cytidine analogue. After intracellular phosphorylation to its active triphosphate form (FTC-TP), it competitively inhibits the RNA-dependent DNA polymerase (reverse transcriptase) of retroviruses and terminates nascent viral DNA chain elongation. This mechanism is the basis for its potent activity against HIV-1 and HIV-2 in humans.
+Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in de regelgevingsdatabase voor dit Evidence Pack. Op basis van gevestigde farmacologische kennis is Emtricitabine een gefluoreerde cytidine-analoog. Na intracellulair fosforylering naar zijn actieve trifosfaatvorm (FTC-TP) remt het competitief de RNA-afhankelijke DNA-polymerase (reverse transcriptase) van retrovirus en beëindigt het de verlengde viraal DNA-keten. Dit werkingsmechanisme is de basis voor zijn potente activiteit tegen HIV-1 en HIV-2 bij mensen.
 
-Feline Immunodeficiency Virus (FIV) and HIV belong to the same family of lentiviruses (*Retroviridae*) and share a conserved, reverse transcriptase-dependent replication cycle. The mechanistic link is therefore structurally plausible: FTC-TP can compete with natural cytidine triphosphate for incorporation by FIV reverse transcriptase, causing chain termination through the same mechanism validated against HIV. Supporting this, the M184V resistance mutation — the hallmark of Emtricitabine resistance in HIV — has been shown to emerge under drug pressure in FIV-infected cats as well (PMID 37112803), confirming that the same molecular target is engaged in both species.
+Feline Immunodeficiency Virus (FIV) en HIV behoren tot dezelfde familie van lentivirussen (*Retroviridae*) en delen een geconserveerde, reverse transcriptase-afhankelijke replicatiecyclus. De mechanistische link is daarom structureel aannemelijk: FTC-TP kan competeren met natuurlijke cytidine-trifosfaat voor incorporatie door FIV-reverse transcriptase, wat ketenafsluiting veroorzaakt via hetzelfde mechanisme dat tegen HIV is gevalideerd. Dit wordt ondersteund door de M184V-resistantiemutatie — de karakteristieke mutatie van Emtricitabine-resistentie bij HIV — die ook onder medicijndruk bij FIV-geïnfecteerde katten is aangetoond (PMID 37112803), wat bevestigt dat hetzelfde moleculaire doelwit wordt bereikt in beide soorten.
 
-The key uncertainty is quantitative, not mechanistic. FIV reverse transcriptase differs from HIV-1 RT in amino acid sequence, which may reduce FTC-TP binding affinity and therefore require higher doses than those used in humans. The single available feline study used Emtricitabine at 40 mg/kg — substantially higher than the standard human dose of approximately 6 mg/kg — highlighting that species-specific pharmacokinetic and pharmacodynamic calibration will be essential before any clinical application.
+De belangrijkste onzekerheid is kwantitatief, niet mechanistisch. FIV-reverse transcriptase verschilt van HIV-1-RT in aminozuurvolgorde, wat FTC-TP-bindingsaffiniteit kan verminderen en daarom hogere doseringen kan vereisen dan die gebruikt bij mensen. Het enkel beschikbare felien onderzoek gebruikte Emtricitabine in een dosering van 40 mg/kg — aanzienlijk hoger dan de standaard menselijke dosis van ongeveer 6 mg/kg — wat benadrukt dat soort-specifieke farmacokinetische en farmacodynamische kalibratie essentieel zal zijn vóór enige klinische toepassing.
 
 ---
 
-## Clinical Trial Evidence
+## Klinisch onderzoeksgegevens
 
-> **Important note:** No clinical trials specifically studying Emtricitabine for feline acquired immunodeficiency syndrome (FIV) are registered on ClinicalTrials.gov. The four trials listed below were retrieved through an Emtricitabine keyword search; all concern human HIV treatment (relevance grade C) and have no direct applicability to the FIV indication. They are included here for transparency.
+> **Belangrijke opmerking:** Geen klinische onderzoeken die specifiek Emtricitabine voor feline acquired immunodeficiency syndrome (FIV) bestuderen, zijn geregistreerd op ClinicalTrials.gov. De vier onderzoeken die hieronder staan vermeld, zijn opgehaald via een Emtricitabine-zoekwoord; allemaal betreffen zij humane HIV-behandeling (relevantiegraad C) en hebben geen directe toepasbaarheid op de FIV-indicatie. Deze zijn opgenomen voor transparantie.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Onderzoeksnummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Ritonavir-boosted Darunavir + Lamivudine vs Darunavir + Emtricitabine/Tenofovir in ART-naïve HIV-1 patients — human HIV trial; Emtricitabine is the background NRTI only, not the investigational drug; no FIV relevance |
-| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Phase 2 | Completed | 208 | Dolutegravir dose selection with Abacavir/Lamivudine or Tenofovir/Emtricitabine as background NRTI in ART-naïve HIV-1 adults — human HIV trial; no FIV relevance |
-| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Phase 3 | Completed | 844 | Dolutegravir + Abacavir/Lamivudine vs Efavirenz/Emtricitabine/Tenofovir over 96 weeks in ART-naïve HIV-1 adults — large non-inferiority trial; Emtricitabine is a comparator component only; no FIV relevance |
-| [NCT01227824](https://clinicaltrials.gov/study/NCT01227824) | Phase 3 | Completed | 828 | Dolutegravir vs Raltegravir, both with dual NRTI backbone (ABC/3TC or TDF/FTC), over 96 weeks in ART-naïve HIV-1 adults — head-to-head integrase inhibitor trial; no FIV relevance |
+| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Fase 4 | Voltooid | 145 | Ritonavir-geboost Darunavir + Lamivudine vs Darunavir + Emtricitabine/Tenofovir bij ART-naïeve HIV-1-patiënten — humaan HIV-onderzoek; Emtricitabine is slechts de achtergrond-NRTI, niet het onderzoeksmiddel; geen FIV-relevantie |
+| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Fase 2 | Voltooid | 208 | Dolutegravir-dosering met Abacavir/Lamivudine of Tenofovir/Emtricitabine als achtergrond-NRTI bij ART-naïeve HIV-1-volwassenen — humaan HIV-onderzoek; geen FIV-relevantie |
+| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Fase 3 | Voltooid | 844 | Dolutegravir + Abacavir/Lamivudine vs Efavirenz/Emtricitabine/Tenofovir over 96 weken bij ART-naïeve HIV-1-volwassenen — groot non-inferioriteitonderzoek; Emtricitabine is slechts een vergelijkingscomponent; geen FIV-relevantie |
+| [NCT01227824](https://clinicaltrials.gov/study/NCT01227824) | Fase 3 | Voltooid | 828 | Dolutegravir vs Raltegravir, beiden met dubbel NRTI-ruggesteun (ABC/3TC of TDF/FTC), over 96 weken bij ART-naïeve HIV-1-volwassenen — head-to-head integrase-inhibitoronderzoek; geen FIV-relevantie |
 
 ---
 
-## Literature Evidence
+## Literatuurgegevens
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Animal Study (Feline) | *Viruses* | Evaluated pharmacokinetics and immunophenotypic outcomes of combination ART — Dolutegravir (2.5 mg/kg) + Tenofovir (20 mg/kg) + **Emtricitabine (40 mg/kg)** — in FIV-infected domestic cats. Provides the first direct proof-of-concept for Emtricitabine-containing cART in a feline lentiviral model; M184V resistance emergence was documented, confirming the same RT target engagement as in HIV |
+| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Dieronderzoek (Felien) | *Viruses* | Evalueerde farmacokinetiek en immunofenotypische uitkomsten van combinatie-ART — Dolutegravir (2,5 mg/kg) + Tenofovir (20 mg/kg) + **Emtricitabine (40 mg/kg)** — bij FIV-geïnfecteerde huiskatten. Verschaft het eerste directe bewijs van concept voor Emtricitabine-bevattende cART in een felien lentiviraal model; M184V-resistentieontwikkeling werd gedocumenteerd, wat dezelfde RT-doelwitstimulering als bij HIV bevestigt |
 
 ---
 
-## Netherlands Market Information
+## Informatie NL-markt
 
-No products containing Emtricitabine are registered with the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in the Netherlands according to the current database. This likely reflects a data capture gap rather than true absence from the Dutch market: Emtricitabine-containing products such as Emtriva (monotherapy), Truvada, Descovy, Biktarvy, and Symtuza hold EMA central marketing authorisations and are commercially available across EU member states including the Netherlands. Clinicians and pharmacists should verify the current authorisation status and applicable SmPC directly via the CBG-MEB product database at [https://www.cbg-meb.nl](https://www.cbg-meb.nl) or the EMA medicines portal.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC (Samenvatting van de Productkenmerken) for full safety information. No safety data — including key warnings, contraindications, or drug-drug interactions — was captured in the current Evidence Pack. Given that the predicted indication is a **veterinary application** (feline FIV), the human SmPC provides only a partial safety reference; species-specific toxicology data in cats would be required before any clinical use.
+Geen producten met Emtricitabine zijn geregistreerd bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland volgens de huidige database. Dit weerspiegelt waarschijnlijk een datavastleggingshiaat in plaats van werkelijke afwezigheid van de Nederlandse markt: Emtricitabine-bevattende producten zoals Emtriva (monotherapie), Truvada, Descovy, Biktarvy en Symtuza hebben centrale EMA-goedkeuringen voor marktintroductie en zijn commercieel beschikbaar in alle EU-lidstaten, inclusief Nederland. Clinici en apothekers moeten de huidige autorisatiestatus en toepasselijke SmPC rechtstreeks verifiëren via de CBG-MEB-productdatabase op [https://www.cbg-meb.nl](https://www.cbg-meb.nl) of het EMA-geneesmiddelen-informatieportaal.
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsoverwegingen
 
-**Decision: Hold**
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen veiligheidsgegevens — waaronder belangrijke waarschuwingen, contra-indicaties of medicijninteracties — zijn vastgelegd in het huidige Evidence Pack. Gezien het feit dat de voorspelde indicatie een **veterinaire toepassing** is (felien FIV), biedt de menselijke SmPC slechts een gedeelde veiligheidsreferentie; soort-specifieke toxicologiegegevens in katten zouden vereist zijn vóór enig klinisch gebruik.
 
-**Rationale:**
-The mechanistic plausibility of Emtricitabine against FIV is well-founded given the conserved lentiviral reverse transcriptase target, but the evidence base consists of a single 2023 feline pharmacokinetic study with no controlled efficacy endpoints, and all retrieved clinical trials concern human HIV with no applicability to feline AIDS. The TxGNN score of 99.92% reflects graph-topological proximity, not clinical validation.
+---
 
-**To proceed, the following is needed:**
+## Conclusie en vervolgstappen
 
-- A randomised, placebo-controlled efficacy study in FIV-infected cats evaluating Emtricitabine alone or as part of combination ART (cART)
-- Species-specific pharmacokinetic/pharmacodynamic (PK/PD) modelling to determine the optimal dose in cats (the 40 mg/kg used in the 2023 study is ~7× the human weight-adjusted dose and requires safety and tolerability confirmation)
-- Feline-specific safety and tolerability data, including haematological and renal monitoring (NRTI-class renal and mitochondrial toxicity signals are relevant)
-- Regulatory consultation on the authorisation pathway for veterinary use — likely via EMA's Committee for Medicinal Products for Veterinary Use (CVMP) or the Dutch medicines authority (Bureau Diergeneesmiddelen, BD)
-- Retrieval of the full SmPC for Emtricitabine human products to perform cross-species safety extrapolation
-- Clarification of CBG-MEB registration status, as Emtricitabine-based products are expected to be commercially available in the Netherlands via EMA central authorisation
+**Beslissing: Wachten**
+
+**Grondslag:**
+De mechanistische plausibiliteit van Emtricitabine tegen FIV is goed onderbouwd gezien het geconserveerde lentivirale reverse transcriptase-doelwit, maar de wetenschappelijk grondslag bestaat uit een enkel felien farmacokinetiek-onderzoek uit 2023 zonder gecontroleerde efficacy-eindpunten, en alle opgehaalde klinische onderzoeken betreffen menselijke HIV zonder toepasbaarheid op feline aids. De TxGNN-score van 99.92% weerspiegelt grafoptologische nabijheid, niet klinische validatie.
+
+**Om door te gaan is het volgende nodig:**
+
+- Een gerandomiseerd, placebo-gecontroleerd efficacyonderzoek in FIV-geïnfecteerde katten dat Emtricitabine alleen of als onderdeel van combinatie-ART (cART) evalueert
+- Soort-specifieke farmacokinetische/farmacodynamische (PK/PD) modellering om de optimale dosis in katten te bepalen (de 40 mg/kg die in het onderzoek uit 2023 werd gebruikt is ongeveer 7× de humane gewicht-aangepaste dosis en vereist bevestiging van veiligheid en verdraagbaarheid)
+- Felien-specifieke veiligheids- en verdraagbaarheidsgegevens, inclusief hematologische en niermonistering (NRTI-klassenieren- en mitochondriale toxiciteitssignalen zijn relevant)
+- Regelgevingsconsultatie over het autorisatietraject voor veterinair gebruik — waarschijnlijk via het Comité voor Geneesmiddelen voor Diergeneeskundig gebruik (CVMP) van de EMA of de Nederlandse geneesmiddelenbeheerder (Bureau Diergeneesmiddelen, BD)
+- Verkrijging van de volledige SmPC voor Emtricitabine-menselijke producten om cross-species veiligheidseventualiteit uit te voeren
+- Verduidelijking van de CBG-MEB-registratiestatus, aangezien Emtricitabine-bevattende producten naar verwachting commercieel beschikbaar zijn in Nederland via EMA centrale autorisatie
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

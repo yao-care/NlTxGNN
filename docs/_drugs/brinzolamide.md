@@ -29,86 +29,87 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Brinzolamide: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+# Brinzolamide: Van openhoekglaucoom tot primair erfelijk glaucoom
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Brinzolamide is a topical carbonic anhydrase II (CA-II) inhibitor primarily indicated for reducing elevated intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma** (including congenital and juvenile-onset open-angle glaucoma),
-with **no registered clinical trials** and **no indexed publications** specifically supporting this combination — placing current evidence at **Level L4**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Open-angle glaucoma / Ocular hypertension (known therapeutic class use; no NL license on file) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L4 (Mechanistic / model prediction only) |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Brinzolamide is een topicale koolzuuranhydrase-II-remmer (CA-II) die primair is gericht op het verlagen van verhoogde intraocculaire druk (IOD) bij openhoekglaucoom en oculaire hypertensie.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **primair erfelijk glaucoom** (inclusief aangeboren en juveniel openhoekglaucoom),
+zonder **geregistreerde klinische proeven** en **geen geïndexeerde publicaties** die deze combinatie ondersteunen — wat het huidige bewijs op **niveau L4** plaatst.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Kort overzicht
 
-Brinzolamide is a selective carbonic anhydrase II (CA-II) inhibitor that acts on ciliary body epithelial cells to suppress aqueous humor production, thereby lowering intraocular pressure (IOP). Detailed MOA data from DrugBank was not retrieved in this evidence pack, but the mechanism is well established in the literature: inhibition of CA-II reduces bicarbonate secretion into the posterior chamber, decreasing fluid inflow and IOP.
-
-Primary Hereditary Glaucoma (PHG) — encompassing Primary Congenital Glaucoma (PCG, CYP1B1 mutation) and Juvenile Open-Angle Glaucoma (JOAG, MYOC mutation) — shares the same core pathophysiology as other glaucoma subtypes: impaired aqueous humor outflow due to anterior chamber angle maldevelopment, leading to chronically elevated IOP and progressive optic nerve damage. Because elevated IOP is the central pathological driver across all glaucoma phenotypes, a CA-II inhibitor that reduces aqueous humor inflow targets this common final pathway directly, making the TxGNN prediction mechanistically coherent.
-
-However, an important clinical nuance limits the translational value here. In PCG specifically, surgical intervention (goniotomy or trabeculotomy) remains first-line treatment; pharmacological IOP reduction — including topical CA-II inhibitors — is generally used only as a bridge prior to surgery or as adjunctive therapy post-operatively. Additionally, the paediatric pharmacokinetic profile of brinzolamide differs from adults, and systemic CA-II inhibition (which can occur with ophthalmic formulations in neonates and infants) carries risks of metabolic acidosis, a safety consideration that requires specific paediatric evaluation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered specifically for Brinzolamide in primary hereditary glaucoma (search conducted 2026-03-10 via ClinicalTrials.gov and ICTRP).
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Openhoekglaucoom / Oculaire hypertensie (bekende therapeutische klassegebruik; geen NL-vergunning op dossier) |
+| Voorspelde nieuwe indicatie | Primair erfelijk glaucoom |
+| TxGNN-voorspellingsscore | 99,48% |
+| Bewijsniveau | L4 (Alleen mechanistisch / modelvoorspelling) |
+| Status NL-markt | Niet geregistreerd |
+| Aantal vergunningen | 0 |
+| Aanbevolen advies | In afwachting |
 
 ---
 
-## Literature Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related literature available specifically for Brinzolamide in primary hereditary glaucoma (PubMed search conducted 2026-03-10).
+Brinzolamide is een selectieve koolzuuranhydrase-II-remmer (CA-II) die inwerkt op epitheelcellen van het ciliataire lichaam om de productie van kamerwater te onderdrukken, waardoor de intraocculaire druk (IOD) daalt. Gedetailleerde MOA-gegevens van DrugBank werden in dit bewijspakket niet opgehaald, maar het mechanisme is goed vastgesteld in de literatuur: remming van CA-II vermindert bicarbonaat-secretie in de achterste kamer, waardoor vloeistoftoevoer en IOD dalen.
 
----
+Primair erfelijk glaucoom (PHG) — waaronder primair aangeboren glaucoom (PAG, CYP1B1-mutatie) en juveniel openhoekglaucoom (JOAG, MYOC-mutatie) — deelt dezelfde kernpathofysiologie met andere glaucooomtypes: beperkte kamerafvloed door malpositie van de voorste kameringang, wat leidt tot chronisch verhoogde IOD en progressieve optische zenuwaantasting. Omdat verhoogde IOD de centrale pathologische driver is voor alle glaucoomfenotypen, richt een CA-II-remmer die kametwatertoevoer vermindert zich rechtstreeks op deze gemeenschappelijke eindweg, wat de TxGNN-voorspelling mechanistisch coherent maakt.
 
-## Netherlands Market Information
-
-Brinzolamide currently holds **no marketing authorisation** through CBG-MEB or EMA in the Netherlands. No RVG numbers are on file for this active substance.
-
-> Note: Brinzolamide-containing products (e.g., Azopt® 10 mg/mL eye drops) are authorised in several EU member states via national or mutual recognition procedures. If an EU-wide SmPC exists, it would be accessible via the EMA product database for reference purposes.
+Een belangrijk klinisch nuance beperkt echter de translationele waarde hier. Bij PAG met name blijft chirurgisch ingrijpen (goniotomie of trabeculotomie) eerstelijnsbehhandeling; farmacologische drukdaling — inclusief topicale CA-II-remmers — wordt over het algemeen slechts gebruikt als overbruggingstherapie vóór chirurgie of als aanvullende therapie postoperatief. Bovendien verschilt het kinderfarmacokinetische profiel van brinzolamide van volwassenen, en systemische CA-II-remming (die kan optreden bij oogheelkundige formuleringen bij neonaten en zuigelingen) draagt risico's van metabole acidose met zich mee, een veiligheidskwestie die een specifieke kinderevaluatie vereist.
 
 ---
 
-## Safety Considerations
+## Bewijs uit klinische proeven
 
-Detailed warning and contraindication data for this candidate was not retrieved in this evidence pack. No drug-drug interaction records were returned from the DDI database query.
-
-> Please refer to the SmPC (Summary of Product Characteristics) for complete safety information, including warnings regarding sulfonamide hypersensitivity, corneal endothelial effects, and systemic CA-II inhibition in paediatric and renally impaired patients.
+Op dit moment zijn er geen klinische proeven geregistreerd die specifiek gericht zijn op brinzolamide bij primair erfelijk glaucoom (zoeking uitgevoerd op 2026-03-10 via ClinicalTrials.gov en ICTRP).
 
 ---
 
-## Conclusion and Next Steps
+## Literatuurbewijs
 
-**Decision: Hold**
-
-**Rationale:**
-The mechanistic basis for using brinzolamide in primary hereditary glaucoma is sound — IOP reduction is the common therapeutic target across all glaucoma subtypes — but no clinical trial or published clinical evidence specifically evaluating this indication was found. With an evidence level of L4 and no NL marketing authorisation, this candidate requires foundational evidence generation before a regulatory or formulary pathway can be considered.
-
-**To proceed, the following is needed:**
-
-- **Confirm EMA/CBG-MEB status**: Verify whether any centralised or mutual-recognition authorisation exists for brinzolamide in the EU; retrieve the current SmPC for safety and posology reference.
-- **Paediatric literature review**: Conduct a broader PubMed search covering brinzolamide use in congenital and juvenile glaucoma (not limited to the exact MeSH term "primary hereditary glaucoma") to capture relevant observational data.
-- **Safety data gap closure**: Retrieve full contraindication, warning, and paediatric safety data from DrugBank and available SmPCs; specifically assess systemic CA-II inhibition risk in infants and neonates.
-- **Clinical practice mapping**: Determine current NL/EU clinical guidelines (e.g., EGS Guidelines on Congenital Glaucoma) to understand whether pharmacological IOP lowering has any recognised role alongside surgery.
-- **Feasibility of investigator-initiated study**: If existing evidence supports a role for adjunctive brinzolamide in PHG, assess feasibility of a prospective observational study or small RCT in a paediatric ophthalmology centre.
+Op dit moment is er geen relevante literatuur beschikbaar die specifiek betrekking heeft op brinzolamide bij primair erfelijk glaucoom (PubMed-zoeking uitgevoerd op 2026-03-10).
 
 ---
 
-*This report is generated for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-03.*
+## Informatie over de Nederlandse markt
+
+Brinzolamide heeft momenteel **geen handelsvergunning** via CBG-MEB of EMA in Nederland. Geen RVG-nummers staan op dossier voor deze werkzame stof.
+
+> Opmerking: Producten met brinzolamide (bijv. Azopt® 10 mg/ml oogdruppels) zijn in verschillende EU-lidstaten toegelaten via nationale of wederzijdse erkenningsprocedures. Indien er een EU-brede SmPC bestaat, kan deze via de EMA-productendatabase voor referentiedoeleinden worden geraadpleegd.
+
+---
+
+## Veiligheidsbeschouwingen
+
+Gedetailleerde waarschuwings- en contra-indicatiegegevens voor deze kandidaat werden in dit bewijspakket niet opgehaald. Geen geneesmiddelinteractierecords werden uit de DDI-databasequery geretourneerd.
+
+> Raadpleeg alstublieft de SmPC (Samenvatting van Productkenmerken) voor volledige veiligheidsinformatie, inclusief waarschuwingen met betrekking tot overgevoeligheid voor sulfonamiden, corneatheliële effecten en systemische CA-II-remming bij pediatrische patiënten en patiënten met nierinsufficiëntie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Advies: In afwachting**
+
+**Redenerering:**
+De mechanistische basis voor het gebruik van brinzolamide bij primair erfelijk glaucoom is gegrond — IOD-verlaging is het gemeenschappelijke therapeutische doel voor alle glaucoomtypes — maar geen klinische proef of gepubliceerd klinisch bewijs dat deze indicatie specifiek evalueert, werd gevonden. Met een bewijsniveau van L4 en geen NL-handelsvergunning vereist deze kandidaat basisgegevensgenerering voordat een regelgevings- of formellaringsweg kan worden overwogen.
+
+**Om verder te gaan is het volgende nodig:**
+
+- **EMA/CBG-MEB-status bevestigen**: Controleer of er een gecentraliseerde of wederzijdse erkennisvergunning voor brinzolamide in de EU bestaat; haal de huidige SmPC op voor veiligheids- en doseringreferentie.
+- **Literatuuronderzoek naar pediatrische toepassingen**: Voer een breder PubMed-onderzoek uit naar brinzolamidegebruik bij aangeboren en juveniel glaucoom (niet beperkt tot de exacte MeSH-term "primair erfelijk glaucoom") om relevante waarnemingsgegevens vast te leggen.
+- **Veiligheidsgegeven-gat sluiten**: Haal volledige contra-indicatie-, waarschuwings- en pediatrische veiligheidsgegevens op van DrugBank en beschikbare SmPC's; beoordeel specifiek het risico van systemische CA-II-remming bij zuigelingen en pasgeborenen.
+- **Vaststelling van klinische praktijk**: Bepaal huidige NL/EU-klinische richtlijnen (bijv. EGS-richtlijnen voor aangeboren glaucoom) om vast te stellen of farmacologische drukdaling naast chirurgie een erkende rol heeft.
+- **Haalbaarheid van door onderzoeker geïnitieerde studie**: Indien bestaand bewijs een rol voor aanvullend brinzolamide in PHG ondersteunt, beoordeel de haalbaarheid van een prospectieve observationele studie of kleine gerandomiseerde gecontroleerde trial in een centrum voor kinderogheelkunde.
+
+---
+
+*Dit rapport is gegenereerd voor onderzoeksdoeleinden en vormt geen medisch advies. Alle farmaconkandidaten voor heelkunde moeten klinisch worden gevalideerd voordat zij kunnen worden toegepast. Gegevensdatum: 2026-04-03.*
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

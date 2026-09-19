@@ -29,89 +29,86 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-Using `txgnn-pipeline` skill — confirmed this is the NlTxGNN (Netherlands) pipeline. Proceeding to generate the report from the Evidence Pack.
+# Irbesartan: van hypertensie naar maligne hypertensieve nierziekte
+
+## Samenvatting in één zin
+
+Irbesartan is een angiotensine II-receptorblokker (ARB) die veel wordt gebruikt voor hypertensie en diabetische nefropathie en werkt door selectief de AT1-receptor te blokkeren om de bloeddruk en nierfunctie te beschermen.
+Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **maligne hypertensieve nierziekte**, met een voorspellingsscore van **99.31%**.
+Er werden echter geen klinische onderzoeken of publicaties gevonden die specifiek gericht zijn op deze indicatie in dit bewijsonderzoek — de voorspelling berust uitsluitend op mechanistische aannemelijkheid.
 
 ---
 
-# Irbesartan: From Hypertension to Malignant Hypertensive Renal Disease
+## Snelle blik
 
-## One-Sentence Summary
-
-Irbesartan is an angiotensin II receptor blocker (ARB) widely used for hypertension and diabetic nephropathy, acting by selectively blocking the AT1 receptor to reduce blood pressure and protect kidney function.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with a prediction score of **99.31%**.
-However, no clinical trials or publications specifically addressing this indication were identified in the current evidence search — the prediction rests on mechanistic plausibility alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension and diabetic nephropathy (inferred from drug class; no NL authorisation data available) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L5 |
-| NL Market Status | Not Marketed (per current dataset) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Item | Inhoud |
+|------|--------|
+| Oorspronkelijke indicatie | Hypertensie en diabetische nefropathie (afgeleid van medicijnklasse; geen NL-autorisatiegegevens beschikbaar) |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
+| TxGNN-voorspellingsscore | 99.31% |
+| Bewijsniveau | L5 |
+| Status op NL-markt | Niet op de markt (volgens de actuele gegevensverzameling) |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Detailed mechanism of action data is not currently available in the Evidence Pack. Based on established pharmacology, Irbesartan is an angiotensin II receptor blocker (ARB) that selectively antagonises the AT1 receptor, thereby blocking the downstream effects of angiotensin II — including systemic vasoconstriction, aldosterone-driven sodium retention, and efferent arteriolar constriction within the glomerulus. The net effect is a reduction in both systemic blood pressure and glomerular capillary pressure, which slows progressive hypertensive kidney injury.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in het Evidence Pack. Op basis van gevestigde farmacologie is irbesartan een angiotensine II-receptorblokker (ARB) die selectief de AT1-receptor antagoniseert, waardoor de downstreameffecten van angiotensine II worden geblokkeerd — inclusief systeemse vasoconrictie, aldosterongestuurde natriumretentie en efferente arteriële vernauwing binnen het glomerulus. Het netto-effect is een verlaging van zowel de systeemse bloeddruk als de glomerulaire capillairdruk, wat progressieve hypertensieve nierschade vertraagt.
 
-Malignant hypertensive renal disease shares precisely this pathological axis: severe, uncontrolled hypertension drives glomerular ischaemia, fibrinoid necrosis of arterioles, and rapid deterioration of renal function. ARBs have demonstrated renal-protective efficacy in adjacent conditions — the landmark IDNT trial showed irbesartan itself slows progression of diabetic nephropathy, and the RENAAL trial supported losartan in a comparable setting. Malignant hypertensive nephropathy represents an accelerated, high-pressure variant of this same mechanism, making the extension of ARB therapy conceptually coherent.
+Maligne hypertensieve nierziekte deelt precies deze pathologische as: ernstige, ongecontroleerde hypertensie veroorzaakt glomerulaire ischemie, fibrinoïde necrose van arteriolen en snelle verslechtering van de nierfunctie. ARB's hebben aangetoonde renaalbeschermende werking in aangrenzende aandoeningen — de IDNT-studie toonde aan dat irbesartan zelf de progressie van diabetische nefropathie vertraagt, en de RENAAL-studie ondersteunde losartan in een vergelijkbare setting. Maligne hypertensieve nefropathie vertegenwoordigt een versnelde, hogedrukvariant van dit dezelfde mechanisme, wat de uitbreiding van ARB-therapie conceptueel coherent maakt.
 
-That said, the current evidence search returned zero clinical trials and zero publications directly studying irbesartan in malignant hypertensive renal disease. The TxGNN prediction is mechanistically plausible and algorithmically high-confidence, but it currently has no direct empirical backing.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Dat gezegd hebbende, de bewijszoeking leverde nul klinische onderzoeken en nul publicaties op die irbesartan in maligne hypertensieve nierziekte rechtstreeks bestudeerden. De TxGNN-voorspelling is mechanistisch aannemelijk en algoritmisch zeker van een hoge graad, maar heeft momenteel geen directe empirische ondersteuning.
 
 ---
 
-## Literature Evidence
+## Klinische onderzoeksbewijs
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-No CBG-MEB marketing authorisations are recorded for Irbesartan in the current dataset.
-
-> **Note:** This likely reflects a data gap rather than the true market situation. Irbesartan (Aprovel® and multiple generics) is a well-established ARB in the Netherlands. Please verify current authorisation status directly via the [CBG-MEB Geneesmiddelenrepertorium](https://www.geneesmiddelenrepertorium.nl/) before drawing regulatory conclusions.
+Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for complete safety information. Given the target indication (malignant hypertensive renal disease), the following drug class–level cautions are clinically relevant and should be confirmed against the current SmPC before any use:
-
-- **Risk of acute kidney injury** in patients with bilateral renal artery stenosis or a solitary functioning kidney — AT1R blockade removes the compensatory efferent arteriolar tone, potentially causing acute GFR collapse (directly relevant to rank 2 indication as well).
-- **Hyperkalaemia** risk in patients with advanced renal impairment or concurrent use of potassium-sparing agents.
-- **First-dose hypotension** in volume-depleted patients, which is particularly relevant in the acute management of malignant hypertension.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+In de actuele gegevensverzameling zijn geen CBG-MEB-markttoestemmingen voor irbesartan geregistreerd.
 
-**Rationale:**
-The TxGNN model assigns a high mechanistic prediction score (99.31%), and the pathophysiological link between AT1R blockade and malignant hypertensive renal injury is conceptually well-grounded. However, the complete absence of supporting clinical trials or direct literature evidence places this at Evidence Level L5 — model prediction only — which is insufficient to advance to clinical application without further investigation.
+> **Opmerking:** Dit weerspiegelt waarschijnlijk een gegevensgat in plaats van de werkelijke marktsituatie. Irbesartan (Aprovel® en meerdere generieke preparaten) is een goed gevestigde ARB in Nederland. Controleer de actuele autorisatiestatus rechtstreeks via het [CBG-MEB Geneesmiddelenrepertorium](https://www.geneesmiddelenrepertorium.nl/) voordat u regelgevingsconclusies trekt.
 
-**To proceed, the following is needed:**
+---
 
-- **Literature gap-fill:** Targeted search for class-wide ARB evidence (irbesartan, losartan, valsartan) specifically in malignant or accelerated-phase hypertension with renal involvement, to assess whether L5 can be upgraded to L3 or L4.
-- **MOA data:** Resolve the DrugBank data gap (DG002) by querying the DrugBank API for irbesartan's full mechanism, targets, and pharmacodynamic profile.
-- **NL regulatory verification:** Confirm actual CBG-MEB authorisation status; the current dataset records 0 licences, which conflicts with Irbesartan's known European market presence.
-- **SmPC review:** Obtain and parse the irbesartan SmPC (DG001) to complete contraindication and warning profiling — currently a blocking data gap for safety assessment (DG001, Severity: Blocking).
-- **Nephrology expert consultation:** Assess clinical feasibility in the malignant hypertension setting, including whether emergent blood pressure management protocols would allow ARB use or would favour alternative agents (e.g., IV labetalol, nitroprusside) in the acute phase.
-- **Safety monitoring plan:** Define renal function and potassium monitoring protocol appropriate for patients with existing hypertensive renal injury.
+## Veiligheidsbeschouwingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Gezien de doelstellingsindicatie (maligne hypertensieve nierziekte), zijn de volgende voorzorgsmaatregelen op het niveau van de medicijnklasse klinisch relevant en dienen ze te worden bevestigd tegen de actuele SmPC voordat enig gebruik:
+
+- **Risico op acute nierschade** bij patiënten met bilaterale nierslagaderstenostis of een enkele functionerende nier — AT1-receptorblokking verwijdert de compensatoire efferente arteriële tonus, wat mogelijk leidt tot acuut GFR-instorten (eveneens rechtstreeks relevant voor de 2de indicatie).
+- **Hyperkaliëmie** risico bij patiënten met gevorderde nierinsufficiëntie of gelijktijdig gebruik van kaliumsparende middelen.
+- **Hypotensie na eerste dosis** bij volumetisch uitgeputte patiënten, wat bijzonder relevant is in de acute behandeling van maligne hypertensie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: In afwachting**
+
+**Motivering:**
+Het TxGNN-model wijst een hoge mechanistische voorspellingsscore toe (99.31%), en de pathofysiologische link tussen AT1-receptorblokking en maligne hypertensieve nierschade is conceptueel goed gefundeerd. De volledige afwezigheid van ondersteunend klinisch bewijs of directe literatuurbewijs plaatst dit echter op bewijsniveau L5 — alleen modelvoorspelling — wat onvoldoende is om naar klinische toepassing over te gaan zonder nader onderzoek.
+
+**Om door te gaan is het volgende nodig:**
+
+- **Vullen van literatuurgaten:** Gericht onderzoek naar bewijzen op klassebasis (irbesartan, losartan, valsartan) specifiek bij maligne of versnelde hypertensie met betrokkenheid van nieren, om te beoordelen of L5 kan worden opgewaardeerd naar L3 of L4.
+- **MOA-gegevens:** Los het DrugBank-gegevensgat op (DG002) door het DrugBank-API te bevragen voor het volledige mechanisme, doelen en farmacodynische profiel van irbesartan.
+- **NL regelgevingsverificatie:** Bevestig de werkelijke CBG-MEB-autorisatiestatus; de actuele gegevensverzameling registreert 0 licenties, wat in tegenspraak is met de bekende aanwezigheid van irbesartan op de Europese markt.
+- **SmPC-review:** Verkrijg en analyseer de irbesartan SmPC (DG001) om de contra-indicatie en waarschuwingsprofilering af te ronden — momenteel een blokkend gegevensgat voor veiligheidsbeoordeling (DG001, Prioriteit: Blokkend).
+- **Raadpleging van nefrologieexpert:** Beoordeel klinische haalbaarheid in de maligne hypertensiesetting, inclusief of noodlottige bloeddrukmanagementsprotocollen het gebruik van ARB's zouden toestaan of zouden kiezen voor alternatieve middelen (bijv. IV labetalol, nitroprusside) in de acute fase.
+- **Plan voor veiligheidsbewaking:** Bepaal een protocol voor nierfunctie- en kaliummonitoring dat geschikt is voor patiënten met bestaande hypertensieve nierschade.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

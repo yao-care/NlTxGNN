@@ -29,102 +29,103 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Piroxicam: From Adult Inflammatory Arthritis to Juvenile Idiopathic Arthritis
+# Piroxicam: van volwassenen ontstekingsartritis naar Juveniele Idiopathische Artritis
 
-## One-Sentence Summary
+## Samenvatting in één zin
 
-Piroxicam is a well-established NSAID (non-steroidal anti-inflammatory drug) of the oxicam class, globally used for rheumatoid arthritis, osteoarthritis, and related inflammatory conditions, though it currently holds no marketing authorization from the CBG-MEB in the Netherlands.
-The TxGNN model predicts it may be effective for **Juvenile Idiopathic Arthritis (JIA)**, with **0 registered clinical trials** but **13 publications** — including 2 controlled trials and 2 systematic reviews/network meta-analyses — providing substantive literature support for this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, and inflammatory conditions (globally established NSAID; no CBG-MEB authorization in the Netherlands) |
-| Predicted New Indication | Juvenile Idiopathic Arthritis (JIA) |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L2 |
-| NL Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-> **Note on prediction selection:** The TxGNN model's top-ranked predictions (ranks 1–8) pointed to rare congenital skeletal dysplasias (e.g., colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome) with TxGNN scores near 99.99%. These were assessed as **L5 / Hold** — no clinical trials, no literature, and no credible pharmacological mechanism. The high scores likely reflect topological similarity of skeletal disease nodes in the knowledge graph rather than genuine drug-disease relevance. JIA (rank 10, score 99.93%) was selected for this report as the highest-evidence, most clinically actionable prediction.
+Piroxicam is een goed gevestigde NSAID (non-steroïdale anti-inflammatoire drug) van de oxicamklasse, wereldwijd gebruikt voor reumatoïde artritis, osteoartritis en gerelateerde ontstekingsziekten, hoewel het momenteel geen handelsvergunning van de CBG-MEB in Nederland heeft.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **Juveniele Idiopathische Artritis (JIA)**, met **0 geregistreerde klinische trials** maar **13 publicaties** — inclusief 2 gecontroleerde trials en 2 systematische reviews/netwerk meta-analyses — die substantiële literatuurondersteuning voor deze richting bieden.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snel overzicht
 
-Piroxicam is a non-selective cyclooxygenase inhibitor (COX-1 and COX-2) of the oxicam chemical class. By blocking COX enzymes, it prevents the conversion of arachidonic acid to prostaglandins — particularly PGE₂ — thereby reducing inflammation, pain sensitization, and fever. Although this analysis cycle's DrugBank query did not return a formal MOA entry, Piroxicam's pharmacology is extensively described in the medical literature and is confirmed by the clinical evidence retrieved for JIA in this Evidence Pack.
+| Item | Inhoud |
+|------|--------|
+| Originele indicatie | Reumatoïde artritis, osteoartritis en ontstekingsziekten (wereldwijd gevestigde NSAID; geen CBG-MEB-autorisatie in Nederland) |
+| Voorspelde nieuwe indicatie | Juveniele Idiopathische Artritis (JIA) |
+| TxGNN-voorspellingsscore | 99.93% |
+| Bewijsniveau | L2 |
+| NL-marktpositie | Niet op de markt |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | Doorgaan met waarborgen |
 
-Juvenile Idiopathic Arthritis is a heterogeneous group of chronic autoimmune inflammatory arthritides affecting children under 16 years of age, and is the most common rheumatic disease in childhood. PGE₂ plays a central role in driving synovial inflammation, joint swelling, and pain sensitization in JIA. Because Piroxicam directly suppresses this prostaglandin pathway through COX inhibition, NSAIDs — including Piroxicam — are recommended as first-line symptomatic treatment in JIA per ACR and EULAR guidelines. The mechanistic rationale is direct and well-grounded.
-
-Piroxicam has been directly studied in paediatric inflammatory arthritis. A 1986 multicentre double-blind crossover RCT (PMID 3510686) compared Piroxicam to Naproxen in 47 children with seronegative juvenile chronic arthritis over 8 weeks, and a 1987 randomised clinical trial (PMID 2957205) enrolled 26 patients aged 3–25 years and reported significant reductions in painful and swollen joint counts. Two more recent systematic reviews and network meta-analyses (2021 and 2024) have comprehensively compared NSAIDs in JIA, situating Piroxicam within the broader treatment landscape. Paediatric pharmacokinetic data for Piroxicam in children with rheumatic disease are also available (PMID 1782984), supporting evidence-based dose guidance.
+> **Opmerking bij selectie van voorspelling:** De top-geclassificeerde voorspellingen van het TxGNN-model (rangschikking 1–8) wezen op zeldzame aangeboren skeletdysplasieën (bijv. colobomateuze microphthalmie-rhizomelige dysplasie-syndroom, brachydactyle-syndactyle-syndroom) met TxGNN-scores nabij 99.99%. Deze werden beoordeeld als **L5 / Wacht** — geen klinische trials, geen literatuur en geen glloofwaardige farmacologisch mechanisme. De hoge scores weerspiegelen waarschijnlijk topologische overeenkomst van skeletziekte-knooppunten in de kenniskunde in plaats van echte geneesmiddel-ziekterelevantie. JIA (rangschikking 10, score 99.93%) werd voor dit rapport geselecteerd als de hoogste-bewijs, meest klinisch uitvoerbare voorspelling.
 
 ---
 
-## Clinical Trial Evidence
+## Waarom is deze voorspelling redelijk?
 
-Currently no related clinical trials registered.
+Piroxicam is een niet-selectieve cyclooxygenase-remmer (COX-1 en COX-2) van de oxicamchemische klasse. Door COX-enzymen te blokkeren, voorkomt het de omzetting van arachidonzuur naar prostaglandines — met name PGE₂ — en vermindert daardoor ontstekingen, pijnvergevoeligheid en koorts. Hoewel deze analysecyclus de DrugBank-query geen formaal MOA-item opleverde, is Piroxicams farmacologie uitgebreid beschreven in de medische literatuur en wordt bevestigd door het klinische bewijs dat voor JIA in dit Bewijspakket is opgehaald.
+
+Juveniele Idiopathische Artritis is een heterogene groep van chronische auto-immuun ontstekingsartritiden die kinderen onder de 16 jaar aantasten, en is de meest voorkomende reumatische ziekte in de kindertijd. PGE₂ speelt een centrale rol bij het voortdrijven van synoviale ontstekingen, gewrichtszwelling en pijnvergevoeligheid bij JIA. Omdat Piroxicam dit prostaglandinepad direct onderdrukt door middel van COX-remming, worden NSAID's — inclusief Piroxicam — aanbevolen als eerstelijnsbehandeling voor symptoomverlichting bij JIA volgens ACR- en EULAR-richtlijnen. De mechanistische grondslag is direct en goed onderbouwd.
+
+Piroxicam is direct onderzocht in pediatrische ontstekingsartritis. Een gerandomiseerde dubbelblinde overgangsonderzoek uit 1986 (PMID 3510686) vergeleek Piroxicam met Naproxen bij 47 kinderen met seronegatieven juveniele chronische artritis over 8 weken, en een gerandomiseerde klinische trial uit 1987 (PMID 2957205) registreerde 26 patiënten van 3–25 jaar en rapporteerde significante reducties in pijnlijke en gezwollen gewrichtenaantal. Twee meer recente systematische reviews en netwerk meta-analyses (2021 en 2024) hebben NSAID's in JIA uitgebreid vergeleken, waardoor Piroxicam in het bredere behandelingslandschap wordt geplaatst. Pediatrische farmacokinetische gegevens voor Piroxicam bij kinderen met reumatische ziekte zijn ook beschikbaar (PMID 1782984), ondersteunend voor evidence-based doseringsgeleiding.
 
 ---
 
-## Literature Evidence
+## Klinische proefbewijs
 
-| PMID | Year | Type | Journal | Key Findings |
+Momenteel geen gerelateerde klinische trials geregistreerd.
+
+---
+
+## Literatuurbewijzen
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [3510686](https://pubmed.ncbi.nlm.nih.gov/3510686/) | 1986 | Multicentre RCT | British Journal of Rheumatology | Double-blind crossover RCT of piroxicam vs naproxen in 47 children (aged 5–16) with seronegative JCA; no significant difference between treatments over 8 weeks; discusses key challenges of NSAID trials in childhood arthritis |
-| [2957205](https://pubmed.ncbi.nlm.nih.gov/2957205/) | 1987 | Clinical Trial (RCT) | European Journal of Rheumatology and Inflammation | Piroxicam vs naproxen in 26 JRA patients aged 3–25 years; significant reductions in painful and swollen joint counts (p<0.05); supports safety and efficacy in paediatric patients |
-| [38680254](https://pubmed.ncbi.nlm.nih.gov/38680254/) | 2024 | Systematic Review / NMA | World Journal of Clinical Cases | Network meta-analysis comparing multiple NSAIDs for JIA; aims to identify the optimal NSAID in a condition lacking consensus treatment |
-| [33632948](https://pubmed.ncbi.nlm.nih.gov/33632948/) | 2021 | Systematic Review / NMA | Indian Pediatrics | Comparative efficacy and safety of 9 NSAIDs in JIA via network meta-analysis; provides class-level ranking of NSAID options in paediatric arthritis |
-| [9890680](https://pubmed.ncbi.nlm.nih.gov/9890680/) | 1998 | Safety Analysis | Clinical Rheumatology | Long-term toxicity of antirheumatic drugs in 117 children (155 NSAID exposures, mean 8.6-year follow-up); key safety reference for paediatric NSAID use |
-| [1782984](https://pubmed.ncbi.nlm.nih.gov/1782984/) | 1991 | PK Study | European Journal of Clinical Pharmacology | Steady-state pharmacokinetics of piroxicam in 10 children with RA (aged 7–16 years, 0.4 mg/kg/day); mean half-life 32.6 h; informs paediatric dosing |
-| [7797387](https://pubmed.ncbi.nlm.nih.gov/7797387/) | 1994 | Cohort Study | International Ophthalmology | Frequency (56%) and outcomes of chronic iridocyclitis in ANA-positive pauciarticular JCA; highlights need for ophthalmological monitoring during JIA management |
-| [2185374](https://pubmed.ncbi.nlm.nih.gov/2185374/) | 1990 | Review | Kinderarztliche Praxis | Review of drug therapy for juvenile chronic arthritis; explicitly introduces piroxicam as a new therapeutic agent in this population |
-| [21175420](https://pubmed.ncbi.nlm.nih.gov/21175420/) | 2010 | Review | Critical Reviews in Therapeutic Drug Carrier Systems | Reviews NSAID delivery systems for arthritis types including JIA; discusses piroxicam among agents under development for improved drug delivery |
-| [6753142](https://pubmed.ncbi.nlm.nih.gov/6753142/) | 1982 | Review | Schweizerische Medizinische Wochenschrift | Rational NSAID prescribing policy for inflammatory arthritis; safety-first approach positioning propionic acid derivatives and newer agents (including piroxicam) as initial therapy |
+| [3510686](https://pubmed.ncbi.nlm.nih.gov/3510686/) | 1986 | Multicentrische RCT | British Journal of Rheumatology | Dubbelblinde overgangsonderzoek van piroxicam versus naproxen bij 47 kinderen (aged 5–16) met seronegatieven JCA; geen significant verschil tussen behandelingen gedurende 8 weken; bespreekt sleuteluitdagingen van NSAID-proeven in kinderartritis |
+| [2957205](https://pubmed.ncbi.nlm.nih.gov/2957205/) | 1987 | Klinische trial (RCT) | European Journal of Rheumatology and Inflammation | Piroxicam versus naproxen bij 26 JRA-patiënten aged 3–25 jaar; significante reducties in pijnlijke en gezwollen gewrichtenaantal (p<0.05); ondersteunt veiligheid en werkzaamheid bij pediatrische patiënten |
+| [38680254](https://pubmed.ncbi.nlm.nih.gov/38680254/) | 2024 | Systematische review / NMA | World Journal of Clinical Cases | Netwerk meta-analyse vergelijken van meerdere NSAID's voor JIA; streeft ernaar de optimale NSAID in een aandoening zonder consensubehandeling te identificeren |
+| [33632948](https://pubmed.ncbi.nlm.nih.gov/33632948/) | 2021 | Systematische review / NMA | Indian Pediatrics | Vergelijkende werkzaamheid en veiligheid van 9 NSAID's in JIA via netwerk meta-analyse; biedt klassenrangschikking van NSAID-opties in pediatrische artritis |
+| [9890680](https://pubmed.ncbi.nlm.nih.gov/9890680/) | 1998 | Veiligheidsanalyse | Clinical Rheumatology | Langetermijntoxiciteit van antireumatische geneesmiddelen bij 117 kinderen (155 NSAID-expositures, gemiddeld 8.6-jarig vervolgonderzoek); sleutelreferentie voor pediatrisch NSAID-gebruik |
+| [1782984](https://pubmed.ncbi.nlm.nih.gov/1782984/) | 1991 | PK-studie | European Journal of Clinical Pharmacology | Steady-state-farmacokinetiek van piroxicam bij 10 kinderen met RA (aged 7–16 jaar, 0.4 mg/kg/dag); gemiddelde halfwaardetijd 32.6 h; geeft informatie over pediatrische dosering |
+| [7797387](https://pubmed.ncbi.nlm.nih.gov/7797387/) | 1994 | Cohortonderzoek | International Ophthalmology | Frequentie (56%) en resultaten van chronische iridocyclitis in ANA-positieven pauciarticulaire JCA; benadrukt noodzaak voor oogheelkundige monitoring tijdens JIA-management |
+| [2185374](https://pubmed.ncbi.nlm.nih.gov/2185374/) | 1990 | Review | Kinderarztliche Praxis | Review van geneesmiddeltherapie voor juveniele chronische artritis; introduceert piroxicam expliciet als een nieuw therapeutisch middel in deze populatie |
+| [21175420](https://pubmed.ncbi.nlm.nih.gov/21175420/) | 2010 | Review | Critical Reviews in Therapeutic Drug Carrier Systems | Herziet NSAID-afgifte systemen voor artritistypes inclusief JIA; bespreekt piroxicam onder middelen in ontwikkeling voor verbeterde geneesmiddelafgifte |
+| [6753142](https://pubmed.ncbi.nlm.nih.gov/6753142/) | 1982 | Review | Schweizerische Medizinische Wochenschrift | Rationeel NSAID-voorschrijfbeleid voor ontstekingsartritis; veiligheid-eerst benadering die propionzuurderivaten en nieuwere middelen (inclusief piroxicam) positioneert als initiële therapie |
 
 ---
 
-## Netherlands Market Information
+## Informatie over de Nederlandse markt
 
-Piroxicam currently holds **no marketing authorization** from the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in the Netherlands. There are no registered RVG numbers. Any use in the Netherlands would require one of the following pathways:
+Piroxicam heeft momenteel **geen handelsvergunning** van de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen geregistreerde RVG-nummers. Elk gebruik in Nederland zou een van de volgende routes vereisen:
 
-- **Off-label prescription** with documented clinical rationale and informed consent
-- **Named patient import** on a case-by-case basis
-- **New marketing authorization application** to the CBG-MEB or via the EMA centralized procedure
-
----
-
-## Safety Considerations
-
-Formal safety data (key warnings, contraindications, drug-drug interactions) were not available for Piroxicam in this analysis cycle. Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) of an authorized Piroxicam product — or the relevant EMA public assessment report — for complete safety guidance.
-
-Based on evidence retrieved in the literature for paediatric use in JIA, the following safety considerations are particularly relevant:
-
-- **Gastrointestinal risk**: Long-term NSAID use carries gastrointestinal adverse effects; co-administration of a proton pump inhibitor (PPI) is recommended
-- **Renal monitoring**: Renal function should be monitored during chronic use, especially in children
-- **Cardiovascular risk**: Prolonged NSAID therapy carries cardiovascular risk; treatment duration should be minimized where possible
-- **Ocular monitoring**: JIA patients — particularly ANA-positive, pauciarticular subtype — require regular ophthalmological screening for chronic iridocyclitis regardless of NSAID choice (PMID 7797387)
+- **Off-label-prescriptie** met gedocumenteerde klinische grondslag en geïnformeerde toestemming
+- **Naampatïent-import** per geval
+- **Nieuwe handelsvergunningsaanvraag** bij de CBG-MEB of via de EMA-centralisatieprocedure
 
 ---
 
-## Conclusion and Next Steps
+## Veiligheidsverwegingen
 
-**Decision: Proceed with Guardrails**
+Formele veiligheidsgegevens (belangrijkste waarschuwingen, contra-indicaties, geneesmiddel-geneesmiddelinteracties) waren in deze analysecyclus niet beschikbaar voor Piroxicam. Raadpleeg alstublieft de SmPC (Samenvatting van de productkenmerken) van een geautoriseerd Piroxicam-product — of het relevante EMA-openbare beoordelingsrapport — voor volledige veiligheidsgeleiding.
 
-**Rationale:**
-Piroxicam has direct controlled clinical trial evidence in Juvenile Idiopathic Arthritis from two paediatric trials (including a 1986 multicentre double-blind RCT), supported by paediatric pharmacokinetic data and two recent systematic reviews/NMAs comparing NSAIDs in JIA. The mechanistic basis — COX-1/COX-2 inhibition reducing PGE₂-driven synovial inflammation — is well-established and directly applicable to JIA pathophysiology. The primary barriers are the absence of a current CBG-MEB marketing authorization in the Netherlands and the age of the pivotal clinical evidence (1980s), which predates modern paediatric regulatory standards.
+Gebaseerd op bewijs dat in de literatuur voor pediatrisch gebruik bij JIA is opgehaald, zijn de volgende veiligheidsverwegingen met name relevant:
 
-**To proceed, the following is needed:**
+- **Gastro-intestinaal risico**: Langetermijngebruik van NSAID's draagt gastro-intestinale bijwerkingen; co-toediening van een protonpompremmer (PPI) wordt aanbevolen
+- **Niermonitoring**: Nierfunctie moet worden gemonitord tijdens chronisch gebruik, met name bij kinderen
+- **Cardiovasculair risico**: Verlengde NSAID-therapie draagt cardiovasculair risico; de behandelingsduur moet waar mogelijk tot een minimum beperkt worden
+- **Oogheelkundige monitoring**: JIA-patiënten — met name ANA-positieve, pauciarticulaire subtype — vereisen regelmatige oogheelkundige screening op chronische iridocyclitis ongeacht NSAID-keuze (PMID 7797387)
 
-- Retrieve the complete SmPC / EMA product documentation for Piroxicam to fill the current safety data gap (warnings, contraindications, known interactions — DG001)
-- Retrieve formal MOA documentation from DrugBank to complete mechanistic analysis (DG002)
-- Determine the regulatory pathway in the Netherlands: off-label use protocol versus marketing authorization application to CBG-MEB
-- Develop a paediatric safety monitoring plan covering CBC, renal function, gastrointestinal symptoms, and hepatic function, with mandatory gastric protection (PPI co-prescription)
-- Consult with a Dutch paediatric rheumatologist to confirm clinical appropriateness within local JIA treatment protocols and Dutch healthcare guidelines
-- Evaluate whether more COX-2 selective NSAIDs with better-established paediatric safety profiles (e.g., naproxen, meloxicam) should be preferred first-line options before pursuing Piroxicam for this indication
+---
+
+## Conclusie en volgende stappen
+
+**Beslissing: Doorgaan met waarborgen**
+
+**Grondslag:**
+Piroxicam heeft direct bewijs van gecontroleerde klinische trials bij Juveniele Idiopathische Artritis van twee pediatrische trials (inclusief een multicentrische dubbelblinde RCT uit 1986), ondersteund door pediatrische farmacokinetische gegevens en twee recente systematische reviews/NMA's vergelijken van NSAID's bij JIA. De mechanistische basis — COX-1/COX-2-remming vermindert PGE₂-aangedreven synoviale ontstekingen — is goed gevestigd en rechtstreeks toepasbaar op JIA-pathofysiologie. De primaire obstakels zijn de afwezigheid van een huidige CBG-MEB-handelsvergunning in Nederland en de ouderdom van het centrale klinische bewijs (jaren 1980), wat voorafgaat aan moderne pediatrische regelgevingsnormen.
+
+**Om door te gaan, is het volgende noodzakelijk:**
+
+- Het volledige SmPC / EMA-productdocumentatie voor Piroxicam ophalen om de huidige veiligheidsdataleemte in te vullen (waarschuwingen, contra-indicaties, bekende interacties — DG001)
+- Formele MOA-documentatie uit DrugBank ophalen om mechanistische analyse aan te vullen (DG002)
+- De regelgevingsroute in Nederland bepalen: off-label-gebruiksprotocol versus handelsvergunningsaanvraag bij CBG-MEB
+- Een pediatrisch veiligheidsbewakingsplan ontwikkelen dat CBC, nierfunctie, gastro-intestinale symptomen en hepatische functie omvat, met verplichte maagbescherming (PPI-coprescriptie)
+- Raadplegen met een Nederlandse pediatrisch reumatoloog om klinische geschiktheid binnen lokale JIA-behandelingsprotocollen en Nederlandse gezondheidszorgrichtlijnen te bevestigen
+- Evalueren of meer COX-2-selectieve NSAID's met beter gevestigde pediatrische veiligheidsprofilen (bijv. naproxen, meloxicam) voorkeursopties voor eerstelijnstherapie moeten zijn voordat Piroxicam voor deze indicatie wordt nagestreefd
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

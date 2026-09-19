@@ -29,81 +29,78 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for the NL deployment context. Now producing the evaluation report based on the Evidence Pack.
+# Glimepiride: van type 2 diabetes mellitus naar focaal stijf-ledematensyndroom
+
+## Samenvatting in één zin
+
+Glimepiride is een antidiabetica-middel van de derde generatie sulfonylurea, vastgesteld voor de behandeling van type 2 diabetes mellitus bij volwassenen.
+Het TxGNN-model voorspelt dat het effectief kan zijn voor **focaal stijf-ledematensyndroom** (voorspellingsscore: 99.75%), maar er bestaan momenteel **geen klinische onderzoeken** en **geen ondersteunende publicaties** voor deze indicatie.
+De voorspelling is uitsluitend modelgestuurd (Bewijsniveau L5), en onafhankelijke preklinische en klinische verificatie zijn vereist voordat verdere consideratie kan plaatsvinden.
 
 ---
 
-# Glimepiride: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Snel overzicht
 
-## One-Sentence Summary
-
-Glimepiride is a third-generation sulfonylurea antidiabetic agent, established for the treatment of type 2 diabetes mellitus in adults.
-The TxGNN model predicts it may be effective for **Focal Stiff Limb Syndrome** (prediction score: 99.75%), yet **no clinical trials** and **no supporting publications** for this indication currently exist.
-The prediction remains model-driven only (Evidence Level L5), and independent preclinical and clinical verification is required before any further consideration.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (no CBG-MEB marketing authorisation on record for the Netherlands) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 |
-| NL Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Onderdeel | Inhoud |
+|-----------|--------|
+| Oorspronkelijke indicatie | Type 2 diabetes mellitus (geen CBG-MEB-handelstoelating voor Nederland geregistreerd) |
+| Voorspelde nieuwe indicatie | Focaal stijf-ledematensyndroom |
+| TxGNN-voorspellingsscore | 99.75% |
+| Bewijsniveau | L5 |
+| Marktpositie NL | Niet geregistreerd |
+| Aantal autorisaties | 0 |
+| Aanbevolen beslissing | In afwachting |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Waarom is deze voorspelling redelijk?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacological knowledge, Glimepiride belongs to the third-generation sulfonylurea class. Its glucose-lowering efficacy is achieved by binding to the SUR1 subunit of ATP-sensitive potassium (K_ATP) channels on pancreatic β-cells, causing channel closure, membrane depolarisation, and subsequent insulin secretion. It also carries a weak partial agonist activity at PPAR-γ, which contributes modestly to insulin sensitisation.
+Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Evidence Pack. Op basis van gevestigde farmacologische kennis behoort glimepiride tot de derde generatie sulfonylurea. De glucoseverlagende werkzaamheid ervan wordt bereikt door binding aan de SUR1-subunit van ATP-gevoelige kaliumkanalen (K_ATP) op β-cellen van de pancreas, waardoor het kanaal sluit, membraandepolarisatie optreedt en daaropvolgende insulinesecretie. Het vertoont ook zwakke partieel-agonistische activiteit op PPAR-γ, wat bescheiden bijdraagt aan verbetering van de insulinegevoeligheid.
 
-Focal Stiff Limb Syndrome is a rare autoimmune neurological disorder in which anti-GAD65 antibodies selectively impair GABAergic inhibitory interneurons in the spinal cord, producing focal involuntary muscle rigidity. The mechanistic bridge to Glimepiride is indirect: SUR1 (ABCC8) — the sulfonylurea receptor — is expressed not only in pancreatic β-cells but also in central neurons, including GABAergic interneurons. In theory, modulating neuronal K_ATP channel activity could influence membrane excitability and downstream GABA-mediated inhibition, potentially counteracting the hyperexcitability seen in stiff limb syndrome.
+Focaal stijf-ledematensyndroom is een zeldzame auto-immuun neurologische aandoening waarbij anti-GAD65-antilichamen selectief GABAerge remmende interneuronen in het ruggenmerg beschadigen, wat leidt tot focale onwillekeurige spierstijfheid. De mechanistische verbinding met glimepiride is indirect: SUR1 (ABCC8) — de sulfonylurea-receptor — komt niet alleen tot expressie in β-cellen van de pancreas, maar ook in centrale neuronen, waaronder GABAerge interneuronen. In theorie zou modulering van neuronale K_ATP-kanaalactiviteit membraanprikkelbaarheid en de stroomafwaarts GABA-gemedieerde remming kunnen beïnvloeden, waardoor mogelijk de hyperprikkelbaarheid in het stijf-ledematensyndroom wordt tegengegaan.
 
-However, this connection is highly speculative. No in vitro or in vivo data support sulfonylurea use in GABAergic or autoimmune neurological conditions. The TxGNN high score most likely reflects a structural knowledge-graph artefact: GAD65 is expressed in both pancreatic islets (where it participates in GABA synthesis for paracrine signalling) and spinal inhibitory neurons, creating a shared graph node that inflates co-association scores. This is a recognised false-positive risk pattern in graph neural network drug repurposing, and should be interpreted with caution.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Deze verbinding is echter zeer speculatief. Er zijn geen in vitro- of in vivo-gegevens die het gebruik van sulfonylurea's bij GABAerge of auto-immuun neurologische aandoeningen ondersteunen. De hoge TxGNN-score weerspiegelt waarschijnlijk een structureel kennisgrafiek-artefact: GAD65 komt tot expressie in zowel pancreasislets (waar het deelneemt aan GABA-synthese voor paracriene signalering) als in ruggenmerg-remmende neuronen, wat een gedeeld grafiekpunt creëert dat co-associatiescores verhoogt. Dit is een erkend fout-positief risicopatroon in geneesmiddelherbestemming via grafiek neurale netwerken, en dient voorzichtig te worden geïnterpreteerd.
 
 ---
 
-## Literature Evidence
+## Klinisch onderzoeksbewijs
 
-Currently no related literature available.
-
----
-
-## Netherlands Market Information
-
-Glimepiride currently holds **no marketing authorisation** with the CBG-MEB (College ter Beoordeling van Geneesmiddelen) in the Netherlands. No RVG numbers are on record. Any clinical use in the Netherlands would require an off-label or named-patient basis, subject to applicable Dutch and EMA regulatory procedures.
+Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
 
 ---
 
-## Safety Considerations
+## Literatuurbewijs
 
-Please refer to the SmPC (Summary of Product Characteristics / Samenvatting van de Productkenmerken) for complete safety information, including key warnings, contraindications, and drug–drug interaction data.
+Momenteel is geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusion and Next Steps
+## Informatie over de Nederlandse markt
 
-**Decision: Hold**
+Glimepiride heeft momenteel **geen handelstoelating** bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-nummers geregistreerd. Elk klinisch gebruik in Nederland zou off-label of op named-patient-basis moeten plaatsvinden, onder voorbehoud van toepasselijke Nederlandse en EMA-regelgeving.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.75%), this score is most likely driven by knowledge-graph topology — specifically the dual expression of GAD65 in pancreatic and neuronal tissue — rather than genuine biological plausibility. With zero supporting clinical trials, zero relevant publications, and a purely speculative mechanistic link, there is insufficient basis to advance this candidate for the Netherlands healthcare context at this stage.
+---
 
-**To proceed, the following is needed:**
-- Preclinical in vitro and/or in vivo data demonstrating that sulfonylurea-class K_ATP channel modulation produces measurable effects on spinal GABAergic interneuron excitability
-- Expert review by a neuropharmacologist and a neurologist specialised in autoimmune movement disorders to assess genuine biological plausibility
-- Formal investigation of whether the TxGNN prediction reflects a GAD65 knowledge-graph structural artefact (false-positive triage)
-- Full SmPC retrieval and review for Glimepiride to establish the safety profile, including key warnings, contraindications, and major drug interactions relevant to any future trial design
-- Regulatory pathway consultation with CBG-MEB regarding the absence of NL marketing authorisation and any named-patient or compassionate-use options should preclinical evidence emerge
+## Veiligheidsverwachtingen
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie, inclusief belangrijke waarschuwingen, contra-indicaties en gegevens over geneesmiddel-geneesmiddelinteracties.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: In afwachting**
+
+**Motivering:**
+Ondanks een hoge TxGNN-voorspellingsscore (99.75%) wordt deze score waarschijnlijk aangestuurd door kennisgrafiek-topologie — specifiek de dubbele expressie van GAD65 in pancreas- en neuronaal weefsel — in plaats van echte biologische plausibiliteit. Zonder ondersteunende klinische onderzoeken, zonder relevante publicaties en met een puur speculatieve mechanistische verbinding, is er onvoldoende basis om deze kandidaat op dit moment in de Nederlandse gezondheidszorgcontext verder te brengen.
+
+**Om voort te gaan, is het volgende nodig:**
+- Preklinische in vitro- en/of in vivo-gegevens die aantonen dat K_ATP-kanaalmodulatie van de sulfonylureaklasse meetbare effecten op de prikkelbaarheid van ruggenmerg GABAerge interneuronen oplevert
+- Deskundigenonderzoek door een neurofarmacolog en een neuroloog gespecialiseerd in auto-immuun bewegingsstoornissen om echte biologische plausibiliteit te beoordelen
+- Formeel onderzoek naar of de TxGNN-voorspelling voortkomt uit een structureel GAD65 kennisgrafiek-artefact (identificatie van fout-positieven)
+- Volledige opvraging en beoordeling van de SmPC voor glimepiride om het veiligheidsprofiel vast te stellen, inclusief belangrijke waarschuwingen, contra-indicaties en belangrijke geneesmiddel-geneesmiddelinteracties relevant voor eventueel toekomstig onderzoeksontwerp
+- Overleg met regelgeving (CBG-MEB) over het ontbreken van NL-handelstoelating en mogelijke opties voor named-patient of compassioneel gebruik, mocht preklinisch bewijs naar voren komen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -14,7 +14,7 @@ permalink: /news/bicalutamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
-<strong>Bicalutamide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Bicalutamide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - MAX Meldpunt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5)
 
 2026-09-18 <span class="news-indication-tag">kanker</span>
 
 Bron: [MAX Meldpunt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5)
-
----
-
-### [Door simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer - Reformatorisch Dagblad](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUi1kbUlKMG5hdTZWT0FjcW5ncWtPSWJOQ3pMR2dPaklvaDVFeTBMUUxBZTE4ZGd6WkpoTUR4M3B6LVhIOXNPbE1ZQTloaV9Kem5aYTNFQXRteHpOekt3Zll5Umh1NnVMOG9nUWdzS1RsWDVnNEJBN19BY2tSb01FT0dkbmVGZlh1b3dTbHVfRjc?oc=5)
-
-2026-09-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">longkanker</span>
-
-Bron: [Reformatorisch Dagblad](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUi1kbUlKMG5hdTZWT0FjcW5ncWtPSWJOQ3pMR2dPaklvaDVFeTBMUUxBZTE4ZGd6WkpoTUR4M3B6LVhIOXNPbE1ZQTloaV9Kem5aYTNFQXRteHpOekt3Zll5Umh1NnVMOG9nUWdzS1RsWDVnNEJBN19BY2tSb01FT0dkbmVGZlh1b3dTbHVfRjc?oc=5)
 
 ---
 

@@ -1,0 +1,130 @@
+{
+  "generated": "2026-09-19T01:46:16.685948+00:00",
+  "count": 1,
+  "news": [
+    {
+      "id": "4937608b4fd6",
+      "title": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - MAX Meldpunt",
+      "published": "2026-09-18T12:53:31+00:00",
+      "sources": [
+        {
+          "name": "MAX Meldpunt",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

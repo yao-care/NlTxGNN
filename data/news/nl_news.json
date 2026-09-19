@@ -1,89 +1,113 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-14T21:24:45.019731+00:00",
-  "count": 7,
+  "fetched_at": "2026-09-18T20:20:52.510959+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "3ac8578b9d14",
-      "title": "Jolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken' - RTL.nl",
-      "published": "2026-09-14T19:12:02+00:00",
-      "summary": "Jolanda raakte via kitten besmet met koepokken: 'Zelfs de dokter moest het opzoeken'&nbsp;&nbsp;RTL.nl",
+      "id": "5b3d470f332b",
+      "title": "Steeds meer vogels met symptomen westnijlvirus in opvang Zundert - Omroep Brabant",
+      "published": "2026-09-17T14:30:00+00:00",
+      "summary": "Steeds meer vogels met symptomen westnijlvirus in opvang Zundert&nbsp;&nbsp;Omroep BrabantSanquin gaat weer op westnijlvirus testen na besmetting door gedoneerd bloed&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerVierde dode met westnijlvirus, virus opgelopen via bloeddonor uit provincie Utrecht&nbsp;&nbsp;RTV UtrechtPersoon die via bloedtransfusie besmet raakte met westni",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1NzaTIwcXU4Ymt0OTE0SUswMEFJaXAxS2Q1aVVsbTY5SGRxQmFrVmNUNWlSWUc1UURJa2dNSjgwRGdrd0FINHQwMTVwSklxenV2MVVQd1BHNTlaVWZUN1owWldudGowN2JQcE9nX2lDX3BUWUpmakp2WWs0dXl4SXFqMA?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE1nbnJKQTVLaFV5bUxSV3NhY1F0TmpfalQ0aWtlc09DRWVKZzVqa0RyRTlXbXBaand6YWk2UTJHSzZTcklJMHdybGVLS2Jwd2NTYnFkdEp1MVUwMzRMSUtwOUhoNlRLWHUyQlJYbzRsQ0VXMVlXemtmTUtVTkExN3h2WndWYzB6U2F3M29RYUFNakgwVmhtX1liaW1BYXpJR1pzekJBdjRxVkNZ?oc=5"
         }
       ]
     },
     {
-      "id": "4509ccde2e98",
-      "title": "Meerdere tijgermuggen gevonden in Mierlo: bewoners krijgen brief en tuincontrole - Eindhovens Dagblad",
-      "published": "2026-09-14T10:24:00+00:00",
-      "summary": "Meerdere tijgermuggen gevonden in Mierlo: bewoners krijgen brief en tuincontrole&nbsp;&nbsp;Eindhovens DagbladAziatische tijgermug opgedoken in Zierikzee: bestrijding start volgende week&nbsp;&nbsp;Omroep ZeelandAziatische tijgermug gevonden in Tilburgse wijk, NVWA plaatst muggenvallen&nbsp;&nbsp;Brabants DagbladAziatische tijgermug aangetroffen in Zierikzee: prikt overdag en kan ziektes veroorzaken&nbsp;&nbsp;pzc.nl",
+      "id": "4937608b4fd6",
+      "title": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - MAX Meldpunt",
+      "published": "2026-09-18T12:53:31+00:00",
+      "summary": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’&nbsp;&nbsp;MAX MeldpuntMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9pS3hqQzYzUF9WN3BtOXMzR1hfdnhkTVEyMkJpdFgwRDR2bkR0VGF0RHlzQm9HUEs1NHdCZTNkbTc1c3NLb25vR09PTEVmM3E5RGUzMVBHZXpOQWktZXJaRnBQVmNTb0d2QnJYemdrTUhxMmtlYm1vTHJpeUtVcXUwRzhGaUlIWEJoazlFV1lrQlRkVVp6WlFUQjNXakl2Y0hXb0xPZzZScFFjWnRrZUJCZ1lPZ1FJaUMxM1pMRQ?oc=5"
+          "name": "MAX Meldpunt",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5"
         }
       ]
     },
     {
-      "id": "ffac1a0e9cba",
-      "title": "Gevaarlijke muggenbeet en geen vaccin: zo bescherm je jezelf tegen het westnijlvirus - Redactie24",
-      "published": "2026-09-13T19:30:29+00:00",
-      "summary": "Gevaarlijke muggenbeet en geen vaccin: zo bescherm je jezelf tegen het westnijlvirus&nbsp;&nbsp;Redactie24Marlien moet paard laten inslapen door westnijlvirus: aantal besmettingen in week tijd meer dan vertienvoudigd&nbsp;&nbsp;AD.nlExpert Bart Knols slaat alarm over muggen met westnijlvirus in Nederland: ’Meteen bestrijden, niet wachten tot het te laat is’&nbsp;&nbsp;Noordhollands DagbladMinister adviseert slapen onder klamboe om westnijlvirus te voorkomen na dodelijke gevallen&nbsp;&nbsp;RTV U",
+      "id": "ffe97386c637",
+      "title": "Onze hersenen waren oorspronkelijk met z’n tweeën, ontdekken onderzoekers - Trouw",
+      "published": "2026-09-18T08:59:00+00:00",
+      "summary": "Onze hersenen waren oorspronkelijk met z’n tweeën, ontdekken onderzoekers&nbsp;&nbsp;TrouwJe brein blijkt helemaal niet één orgaan te zijn: het bestaat uit twee oeroude systemen&nbsp;&nbsp;Scientias.nlOns brein bestaat eigenlijk uit twee aparte organen&nbsp;&nbsp;KIJK Magazine",
       "sources": [
         {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHBoVXBoQl90R2FoX2dkR2JndTFmd0JVbUpIRUNHWDRFaDFfX2NtNzc0SjFEcFR6NGpWdWl0U1ZKMGNPVVV2TWdTNUtncWlTZVc2LXNHeFRZS1M3ZTV0NjRfTU1SWVYwV0w3R1NpSUhja3ZPTVBsRFFLeVlCQ2hDN1hicGNuMzAxeDZqWFN2VmNsYjBVdUtIY1JGeDhDWjhWTWlaa0lRaW11MDBsVVRpbGQ4YVJ2WDJ1b2FnOEJPQ01xYy1BUUJQdm8zUQ?oc=5"
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1BDQnVjbmI2MWFLZ2xubWFzZHc0aDhmNUZMWllaaEhsa2NXNnB6TC1adERrUGcwWUc2VVJtU0pYVmx0Zjl1cHBnZ0F6SC15SmVBRkd5VVlrYjRKbnhGTmZSMEJvWWxfcnFEQW9KTFEzV19oU1JVM0l6Ym4yYnhOelpMUzVSN3RwLUQxODlSYi1Bb2xrYzc2aEdRWkI0Z2gweFlEN2xpcFRObjUtaEhVdVpDUlg?oc=5"
         }
       ]
     },
     {
-      "id": "deb543ec3bb8",
-      "title": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’ - MAX Vandaag",
-      "published": "2026-09-10T04:15:12+00:00",
-      "summary": "Parkinson is niet alleen een bewegingsziekte en kent meer dan 30 symptomen: ‘Ook niet-motorische klachten kunnen duiden op de ziekte’&nbsp;&nbsp;MAX Vandaag",
+      "id": "8272db3cd211",
+      "title": "400.000 Nederlanders hebben ongemerkt diabetes type 2: deze 3 verhalen laten zien wie risico loopt - Metronieuws.nl",
+      "published": "2026-09-18T11:02:00+00:00",
+      "summary": "400.000 Nederlanders hebben ongemerkt diabetes type 2: deze 3 verhalen laten zien wie risico loopt&nbsp;&nbsp;Metronieuws.nl5 vaak over het hoofd geziene waarschuwingssignalen van diabetes.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "MAX Vandaag",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJXVE9HNFFmbzRsWnRlSDZyd3dMb2dwMkRPUTlBVFpDZTlaQ01paTRZZVFBN3ZFYm53cnJyX1ltTk53dm9KZ09JWnpuendtSHlxR1JHOHZ6NjRubm5DdERJb0VzM1pGNk5FU3lvQlBNN2pXSUlXQndleEJsTmdKSnRlZTlQMmg2bEJyNlZKQmRDY2czTEl0NHVibXZKQWZrQmRxOVpycC1RMktiMy0tQmlrNG1xRVJlbjFpNm5QX19fd3dnMjMxNlFMQ08xTWZQVlV3dHduMXVmR1dnOXdpSUVnWGVUS19wRG92NkZONlBFZk5oM2RfWnpFZFJtQ053d0xOUjktNnAzSEZPeE42eHk4LUwtbU5z?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2FRaUJ3ZUpSUl91amVxNk40Q0E1RTB6dVh4WENIbGlUUWd5YTRVdXN6VjRqX040d2Y4NV9sbGM1cm9tY1c1NWx5clZSNXE4NWw0Vm45Sjc4YU40TWZnSGViVU5kNERoWnVWZGxqTW56XzZncEZaRzZDQ2szOFd5bVR1cTVfLTBrRHNCOHpSczZUNHJ5bDJFdDhEdnVqSU9uaG5HV1Z4aktGdWhrdXNOQUI1cF9JdEhCLU01TmYzNnRmdkdnb3BFSTRUeFRublVmeUhLQTJtZ2JxLWRMUFEtZDI0YWVrU2szU0E?oc=5"
         }
       ]
     },
     {
-      "id": "4edc5013acd4",
-      "title": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico - De Morgen",
-      "published": "2026-09-11T18:21:00+00:00",
-      "summary": "Nachtelijk licht in slaapkamer gelinkt aan stijver en zwakker hart: studie bij 11.000 mensen wijst op onderschat risico&nbsp;&nbsp;De MorgenDit doet een lampje in je slaapkamer met je hart, jaren later&nbsp;&nbsp;Scientias.nlLichtvervuiling verandert de vorm en werking van het hart -&nbsp;&nbsp;mariabodeSlapen met het licht aan of uit? Nieuw onderzoek geeft het antwoord.&nbsp;&nbsp;Vietnam.vn",
+      "id": "2b3be4d2519c",
+      "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
+      "published": "2026-09-13T08:15:00+00:00",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlOnderzoek: koffiedrinkers hebben meer spieren én minder lichaamsvet&nbsp;&nbsp;Metronieuws.nlVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV FocusKoffie gaat gepaard met minder lichaamsvet en meer spiermassa&nbsp;&nbsp;Newsmonkey -",
       "sources": [
         {
-          "name": "De Morgen",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0JESjhncVNNYUpEM1gwLUpHWFVKWEw1SUl2dW9sS0tPZWxqOGF6MHpkdkJnNk9CemtvOTBGU25YUU12UFhONnRiWWxvbFo1enFrcHFUMTJvV2MzbWE0bmtOY2hsbXZuUll2VGZmM3U3QkhxQ29fc0JiRWFvU3dlV1otOUh2cC1xbUs1QVp2WjR4RzBDMzVVcElmQnJCTVZDRU5PT3YwWk1wVUUyNnlGOW1KRFlCV1N3czJwTEpvYnpCZ3FUQXBlNk5TRWJrMktXQkRHei1rY2xqQXlacHJTZTF1cV9oTk4zMDA0UTVxd090TGNEcWJVNzZzMjk?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
         }
       ]
     },
     {
-      "id": "d568f205589a",
-      "title": "Deze maagbacterie lijkt verantwoordelijk voor meer dan 1 op de 5 gevallen van darmkanker wereldwijd - Scientias.nl",
-      "published": "2026-09-13T17:19:36+00:00",
-      "summary": "Deze maagbacterie lijkt verantwoordelijk voor meer dan 1 op de 5 gevallen van darmkanker wereldwijd&nbsp;&nbsp;Scientias.nl",
+      "id": "7bedfb264df6",
+      "title": "Veel Twentenaren wachten weken langer op hun griepprik - Tubantia",
+      "published": "2026-09-18T07:28:40+00:00",
+      "summary": "Veel Twentenaren wachten weken langer op hun griepprik&nbsp;&nbsp;TubantiaMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHpQMmdIRUlndlFoVkdGdzNSZVNZcUR2c25oQ3ZaMy1SZUFYcWFfdjRNYVBNMlVvajMtZ3pwMlBzZWplbDBCSTBtUEw2X0pvcG1NRnhXekNPbml3NDNabl9RWE9jS2pIVUFvanAzcWoydFp0X0d1RTh2YXQzekxsSThRTlM5MWdubzhCbURLa2dEaFZvVG1tTG9FZ0lKc3Q1cnM5aG9ZWWowNHNEWVVpUkRTU1plZS1leWZzTDJB?oc=5"
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGpxQVFvYm5qR2hZSEsxVTAtb2ozNDBzblA3U1hJN3N3N1F1Nlpwb1F3VmNMdXBpbktlU3c1cWtRZy0xaHpUWlptYlJWeW44RnpvRndKVzJoYVpRaXIxUnp4YjVMQVB0Z0NrZmFHWC1QZTg5RnQ4MDJNZDJoYlphbWhqVzdSMno0YjA3WlFvdk1YMWQ0UmNtNDRDU0xQZw?oc=5"
         }
       ]
     },
     {
-      "id": "811a3b76d28e",
-      "title": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "Opinie | We moeten alternatieve therapieën durven gebruiken – als broccoli, niet als pil&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "id": "1f2b728ec911",
+      "title": "Waarom de vergoeding van obesitasmedicijnen volgens expert nu op de schop moet - AD.nl",
+      "published": "2026-09-12T09:34:00+00:00",
+      "summary": "Waarom de vergoeding van obesitasmedicijnen volgens expert nu op de schop moet&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTRQYUw1NlpZRUE0Njlxc3FwSWR6Wk5uVUxNVlROR0lEamtGS1N5ZjZFRDRQdVRTclh3bVJ6VmFVOWlXZEZsNVVfaTN3TEZqSWpxMW1TeWhKMFZSTkhjeDBFa3BJblFtTWF4OGtNMWxheWhWVkNFZW5qamZLV1JoelRadGx5SXdwY2swcFc5Z1MyMzNOc0o1UUVjakRSQzNGbXl0UzlycFM2WF9VdkVvUnU1amV5RGgza3A0UmpB?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3BIMlBGYlh6djJFM1NEX3BnX1FhWkV0LTdoRVZEdmtCQXBYV0pwMHUyMVhDRTI3T3d3QXdNY1pob2JEc2RTLUM4UHR2ZldIZTcyVy04Z1gwUWVhY0tqM3NRbGZIaWl0WDU2czFoeGdHaE9ObjF0Z084WWk3NV9rQmh2TWhEbUQybTlQNHZFaFBTSnJHZUdXclQwWk9DbVQ2dVRwM0V5Ymw0bld5a1RIZ0hwTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "748a453ff496",
+      "title": "Te veel licht in je slaapkamer kan schadelijk zijn voor je hart - gezondheidenwetenschap.be",
+      "published": "2026-09-15T10:28:45+00:00",
+      "summary": "Te veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;gezondheidenwetenschap.beMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "gezondheidenwetenschap.be",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHJYbUVuSFlFeVF5dEQ1NTlSRHFqUmVfekUzM0tWQndZazVpVHVNVkRzZ1Zwb2xUWnBjZU9XRkpPUmNwSnJfOWxZUkZSSkVxcjNYN3gwT0RVNDRiWGtDS0VPVVpKakczcEJSQTQ5ZjAyRXFQYWhMdFN4TUY4aGl5TUNpcjN1dVFTUk5WY3EwTzlEMmJNblBqUDhEN1FxRE9xdGxuWFE2UUZEejE1dUg5b3FCX2JWdXZSanJJN2hFSXdsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f5d2667c74d",
+      "title": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts - AD.nl",
+      "published": "2026-09-12T12:00:00+00:00",
+      "summary": "Nieuwe ‘kijkdoos’ kan soa’s razendsnel opsporen: uitslag nog tijdens bezoek aan huisarts&nbsp;&nbsp;AD.nlSnelle soatest geeft binnen 30 minuten duidelijkheid&nbsp;&nbsp;Het Parool",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3M4eGRwSGZaek5xbGFJMmh5a3MtTTBvdkVTblJHTndzcl95bHYyNjFsN0ZOQUdoamNad0tEYTlXbXVRazVQWlBLZ0NUSDUyUTJCalh1aUlzRENXTzJJbVRiMW9CMjhCMElGQmttOGtKV2cwTTlBbVZrQVJqRXFQbldWZVFNSHdBS09UY2o2RUFtRzlLRVlKVVhHM2ZDa1BQTTUtbmRKQllWd1dUaHBvTDRESU9tcTFkZU9IV0NOWWk?oc=5"
         }
       ]
     }

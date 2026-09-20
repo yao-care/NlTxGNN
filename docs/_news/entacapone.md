@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5)
+
+2026-09-19 <span class="news-indication-tag">alzheimer</span>
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5)
+
+---
 
 
 <div class="disclaimer">

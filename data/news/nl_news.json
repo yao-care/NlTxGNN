@@ -1,32 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-19T19:59:14.052603+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-20T03:14:13.767932+00:00",
+  "count": 7,
   "news": [
-    {
-      "id": "c7146cb669aa",
-      "title": "Welke middelen helpen je weerstand? Preventief zink slikken in ieder geval niet - ad.nl",
-      "published": "2026-09-19T08:15:00+00:00",
-      "summary": "Welke middelen helpen je weerstand? Preventief zink slikken in ieder geval niet&nbsp;&nbsp;ad.nl",
-      "sources": [
-        {
-          "name": "ad.nl",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzA0c09HVEViUVhvaTI2SGFaYTRlWnRUMHRyNndtOXlYVXJITjFsV0pVa2E4YnJyalAtQjlhdUZWRGNtVDlTcld6cjF0RlpCQ05tdnVwd0ZnaHJQUlNiSUVJd0tYUEVOZW43LVZrNDRtMEF1SWRoeHIwMDVxMzl0Sy1FVDRxU0tMdDFJZ3FzbnZKaVlZNHpaNHFVWWdNbFhKWC01TUlBanFDSVY3R3J3MlVVYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c8347fd1fd9",
-      "title": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek - bnr.nl",
-      "published": "2026-09-19T09:25:00+00:00",
-      "summary": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek&nbsp;&nbsp;bnr.nlOnze hersenen waren oorspronkelijk met z’n tweeën, ontdekken onderzoekers&nbsp;&nbsp;TrouwJe brein blijkt helemaal niet één orgaan te zijn: het bestaat uit twee oeroude systemen&nbsp;&nbsp;Scientias.nlBestaat het menselijk brein eigenlijk uit twee aparte organen?&nbsp;&nbsp;vietnam.vnOns brein bestaat eigenlijk uit twee aparte organen&nbsp;&nbsp;KIJK Magazine",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0F4aWp1cTc4Z1ZwUnUzcElnX3B3bHo4SFc0RkFYMDV6MUtvQUwxd2FiZnJ1cmg2MXZtWjNEVjB0Q3RyU3JvdU4yLUJPMDBBMVRaMzhmQTdBa3BtckVZRFlqTFdkeUxZSTJ3Umx4clNSVG1mQk1NZGFDSTRYQU0xZnBYVmRoRkwtcXZ1ejhfMndfTmRQbG1iWVhrY1hsMUozRF9HcFdkUnY1MXY0NkRUZTI1b29XTXdzT3o2NVhwTzNpX00?oc=5"
-        }
-      ]
-    },
     {
       "id": "4937608b4fd6",
       "title": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - MAX Meldpunt",
@@ -40,57 +16,69 @@
       ]
     },
     {
-      "id": "969311e62a39",
-      "title": "Door simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer - Reformatorisch Dagblad",
-      "published": "2026-09-16T15:24:52+00:00",
-      "summary": "Door simpele app leeft patiënt met longkanker gemiddeld vijf maanden langer&nbsp;&nbsp;Reformatorisch DagbladBijhouden van klachten in een app verlengt leven van longkankerpatiënt: 'Kostbare tijd'&nbsp;&nbsp;RTL.nlLongkankerpatiënten leven langer door simpele app: net zoveel winst als duur medicijn&nbsp;&nbsp;ad.nlDoor bijhouden van klachten leven Longkankerpatiënten langer&nbsp;&nbsp;ZorgKrant.nlLongkankerpatiënten leven gemiddeld vijf maanden langer bij gebruik van klachtenapp&nbsp;&nbsp;Natio",
+      "id": "1142e7d4cda5",
+      "title": "Welke middelen helpen je weerstand? Preventief zink slikken in ieder geval niet - AD.nl",
+      "published": "2026-09-19T08:15:00+00:00",
+      "summary": "Welke middelen helpen je weerstand? Preventief zink slikken in ieder geval niet&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "Reformatorisch Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUi1kbUlKMG5hdTZWT0FjcW5ncWtPSWJOQ3pMR2dPaklvaDVFeTBMUUxBZTE4ZGd6WkpoTUR4M3B6LVhIOXNPbE1ZQTloaV9Kem5aYTNFQXRteHpOekt3Zll5Umh1NnVMOG9nUWdzS1RsWDVnNEJBN19BY2tSb01FT0dkbmVGZlh1b3dTbHVfRjc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzA0c09HVEViUVhvaTI2SGFaYTRlWnRUMHRyNndtOXlYVXJITjFsV0pVa2E4YnJyalAtQjlhdUZWRGNtVDlTcld6cjF0RlpCQ05tdnVwd0ZnaHJQUlNiSUVJd0tYUEVOZW43LVZrNDRtMEF1SWRoeHIwMDVxMzl0Sy1FVDRxU0tMdDFJZ3FzbnZKaVlZNHpaNHFVWWdNbFhKWC01TUlBanFDSVY3R3J3MlVVYw?oc=5"
         }
       ]
     },
     {
-      "id": "8272db3cd211",
-      "title": "400.000 Nederlanders hebben ongemerkt diabetes type 2: deze 3 verhalen laten zien wie risico loopt - Metronieuws.nl",
-      "published": "2026-09-18T11:02:00+00:00",
-      "summary": "400.000 Nederlanders hebben ongemerkt diabetes type 2: deze 3 verhalen laten zien wie risico loopt&nbsp;&nbsp;Metronieuws.nl5 vaak over het hoofd geziene waarschuwingssignalen van diabetes.&nbsp;&nbsp;vietnam.vn",
+      "id": "0c8347fd1fd9",
+      "title": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek - bnr.nl",
+      "published": "2026-09-19T09:25:45+00:00",
+      "summary": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek&nbsp;&nbsp;bnr.nlOnze hersenen waren oorspronkelijk met z’n tweeën, ontdekken onderzoekers&nbsp;&nbsp;trouw.nlJe brein blijkt helemaal niet één orgaan te zijn: het bestaat uit twee oeroude systemen&nbsp;&nbsp;Scientias.nlBestaat het menselijk brein eigenlijk uit twee aparte organen?&nbsp;&nbsp;Vietnam.vnOns brein bestaat eigenlijk uit twee aparte organen&nbsp;&nbsp;KIJK Magazine",
       "sources": [
         {
-          "name": "Metronieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2FRaUJ3ZUpSUl91amVxNk40Q0E1RTB6dVh4WENIbGlUUWd5YTRVdXN6VjRqX040d2Y4NV9sbGM1cm9tY1c1NWx5clZSNXE4NWw0Vm45Sjc4YU40TWZnSGViVU5kNERoWnVWZGxqTW56XzZncEZaRzZDQ2szOFd5bVR1cTVfLTBrRHNCOHpSczZUNHJ5bDJFdDhEdnVqSU9uaG5HV1Z4aktGdWhrdXNOQUI1cF9JdEhCLU01TmYzNnRmdkdnb3BFSTRUeFRublVmeUhLQTJtZ2JxLWRMUFEtZDI0YWVrU2szU0E?oc=5"
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0F4aWp1cTc4Z1ZwUnUzcElnX3B3bHo4SFc0RkFYMDV6MUtvQUwxd2FiZnJ1cmg2MXZtWjNEVjB0Q3RyU3JvdU4yLUJPMDBBMVRaMzhmQTdBa3BtckVZRFlqTFdkeUxZSTJ3Umx4clNSVG1mQk1NZGFDSTRYQU0xZnBYVmRoRkwtcXZ1ejhfMndfTmRQbG1iWVhrY1hsMUozRF9HcFdkUnY1MXY0NkRUZTI1b29XTXdzT3o2NVhwTzNpX00?oc=5"
         }
       ]
     },
     {
-      "id": "97978d5bc56f",
-      "title": "Volle zuivel maakt niet dik én verhoogt je cholesterol niet: dit toont een recente studie aan - Gezondnu",
+      "id": "2b3be4d2519c",
+      "title": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt - AD.nl",
+      "published": "2026-09-13T08:15:00+00:00",
+      "summary": "Meer spieren én minder vet: koffie drinken doet meer met je lichaam dan je denkt&nbsp;&nbsp;AD.nlOnderzoek: mogelijke link tussen koffie, meer spieren en minder lichaamsvet&nbsp;&nbsp;Metronieuws.nlHoeveel kopjes koffie mag je drinken op een dag?&nbsp;&nbsp;Men's HealthVijf koppen koffie per dag? Onderzoekers zien opvallend verschil in buikvet en spiermassa&nbsp;&nbsp;RTV FocusKoffie gaat gepaard met minder lichaamsvet en meer spiermassa&nbsp;&nbsp;Newsmonkey -",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1M4elRmekNHOXhXQ01MYkxPT09jT0VwTW95aUhCNWpRMTFpdXVXckNfOEItRUtmS1lqM2VTY0N2WF84STRPYkFOeGlnVEF2dUF2OFpCOEdna09lbGZuQmNQR2pXUndNTWZNMmNXZ0dqODZfb2ZqWnBmekNoeU5kS1JmSHVDd2YtMERPYnJUYklrRnlwQ1l6RW5hUEY3NU1lQWdTT1UwNUotbkY3Ym9Fc1FRNHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8dd0eae44961",
+      "title": "Volle zuivel maakt niet dik én verhoogt je cholesterol niet: dit toont een recente studie aan - gezondnu.nl",
       "published": "2026-09-18T15:00:00+00:00",
-      "summary": "Volle zuivel maakt niet dik én verhoogt je cholesterol niet: dit toont een recente studie aan&nbsp;&nbsp;Gezondnu",
+      "summary": "Volle zuivel maakt niet dik én verhoogt je cholesterol niet: dit toont een recente studie aan&nbsp;&nbsp;gezondnu.nl",
       "sources": [
         {
-          "name": "Gezondnu",
+          "name": "gezondnu.nl",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeUFxcVRDamlXREpBeGdOQVk0eF9naFFHN3Ixa2t1cW5LRTdycTEwUURlWl9QdUZnSXMzT2c3c09pQjZVV2hYU0o1SmlYYUxtbHNPOXFhdmsza1NVMDFISTlVMkE0SHhTa09rNWstYjExN3N6bUZwM0VPZG1IZlE?oc=5"
         }
       ]
     },
     {
-      "id": "748a453ff496",
-      "title": "Te veel licht in je slaapkamer kan schadelijk zijn voor je hart - gezondheidenwetenschap.be",
-      "published": "2026-09-15T10:28:45+00:00",
-      "summary": "Te veel licht in je slaapkamer kan schadelijk zijn voor je hart&nbsp;&nbsp;gezondheidenwetenschap.beMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "9cab6dc25e64",
+      "title": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om - Libelle",
+      "published": "2026-09-19T05:03:26+00:00",
+      "summary": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "gezondheidenwetenschap.be",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHJYbUVuSFlFeVF5dEQ1NTlSRHFqUmVfekUzM0tWQndZazVpVHVNVkRzZ1Zwb2xUWnBjZU9XRkpPUmNwSnJfOWxZUkZSSkVxcjNYN3gwT0RVNDRiWGtDS0VPVVpKakczcEJSQTQ5ZjAyRXFQYWhMdFN4TUY4aGl5TUNpcjN1dVFTUk5WY3EwTzlEMmJNblBqUDhEN1FxRE9xdGxuWFE2UUZEejE1dUg5b3FCX2JWdXZSanJJN2hFSXdsZw?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5"
         }
       ]
     },
     {
       "id": "7507c6c303e2",
       "title": "Meer dan 100 motorrijders op pad voor ziekte van Huntington in Zwijndrecht - TV OOST",
-      "published": "2026-09-19T13:32:56+00:00",
+      "published": "2026-09-19T15:35:21+00:00",
       "summary": "Meer dan 100 motorrijders op pad voor ziekte van Huntington in Zwijndrecht&nbsp;&nbsp;TV OOST",
       "sources": [
         {

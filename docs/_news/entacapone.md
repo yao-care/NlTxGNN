@@ -35,7 +35,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 
 2026-09-19 <span class="news-indication-tag">alzheimer</span>
 
-Bron: [Libelle](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5)
+Bron: [libelle.nl](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5)
 
 ---
 

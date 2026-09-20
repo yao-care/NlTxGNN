@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-20T15:22:14.770211+00:00",
+  "fetched_at": "2026-09-20T20:16:15.194970+00:00",
   "count": 5,
   "news": [
     {
-      "id": "0c8347fd1fd9",
-      "title": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek - bnr.nl",
-      "published": "2026-09-19T09:25:00+00:00",
-      "summary": "‘Hersenen moeten we zien als twee organen’; ontdekking kan helpen bij ALS-onderzoek&nbsp;&nbsp;bnr.nlOnze hersenen waren oorspronkelijk met z’n tweeën, ontdekken onderzoekers&nbsp;&nbsp;TrouwJe brein blijkt helemaal niet één orgaan te zijn: het bestaat uit twee oeroude systemen&nbsp;&nbsp;Scientias.nlBestaat het menselijk brein eigenlijk uit twee aparte organen?&nbsp;&nbsp;Vietnam.vnOns brein bestaat eigenlijk uit twee aparte organen&nbsp;&nbsp;KIJK Magazine",
+      "id": "cee4c7d8b1d2",
+      "title": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte' - NPO Radio 1",
+      "published": "2026-09-19T17:11:03+00:00",
+      "summary": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1LIVE WHO: \"Bemoedigende signalen\" in Ituri, maar aantal besmettingen blijft op andere plaatsen fors stijgen&nbsp;&nbsp;VRTGezondheidsagentschap Afrikaanse Unie spreekt WHO tegen: “Ebola-epidemie niet onder controle”&nbsp;&nbsp;NieuwsbladStrijd tegen ebola in Congo boekt vooruitgang, maar uitbraak is 'nog lang niet voorbij', aldus de WHO&nbsp;&nbsp;MarketScreener Nederland",
       "sources": [
         {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0F4aWp1cTc4Z1ZwUnUzcElnX3B3bHo4SFc0RkFYMDV6MUtvQUwxd2FiZnJ1cmg2MXZtWjNEVjB0Q3RyU3JvdU4yLUJPMDBBMVRaMzhmQTdBa3BtckVZRFlqTFdkeUxZSTJ3Umx4clNSVG1mQk1NZGFDSTRYQU0xZnBYVmRoRkwtcXZ1ejhfMndfTmRQbG1iWVhrY1hsMUozRF9HcFdkUnY1MXY0NkRUZTI1b29XTXdzT3o2NVhwTzNpX00?oc=5"
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZHd3bVMwUlo1d2czeGF6cjZPcDBxVjU0Zmt3cnVCLThidDkybmdhSWZVWDBWM3YyOC1wVFpEcUEtZENXLUhUcmRRclBTVDVRSnlUVFgwLWx6YUxQYzNMdC1fWVBuaGVCUnFMWmxFRWRSbVM0UWxPVG1pSWhvQ3YxNWhFWlB5U1R0OWtSaW94YlladWM2VGFiaW1JVTJXejZLOTVWbDcwMWZWMm0xQWg4X2RnQ09ocXJXWnMtT1RlcUN6NU9Ca2cwdnZIaEFuaVNIS2Z1N0xUV0NFSUo5alFiUTNB?oc=5"
         }
       ]
     },
     {
-      "id": "6408087d8af3",
-      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "id": "04969c30734b",
+      "title": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend - AD.nl",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderGrote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend&nbsp;&nbsp;AD.nlPrik tegen het RS-virus weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandPrik tegen RS-virus weer van start&nbsp;&nbsp;Westlanders.nu",
+      "summary": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend&nbsp;&nbsp;AD.nlPrik tegen het RS-virus weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandPrik tegen RS-virus weer van start&nbsp;&nbsp;Westlanders.nu",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjVTNm5sU0ZXUFk4T2FhQmpJOXF1MDBoSklsWXBjVXNlWThCdkN6YjZPNUV1a3EzOHdjdERBMGhIekMtTC1hYWhadnV2Yk1nSXVnaTlrdnpoRjF1RkxzRGgxSnhjWW1jRzRNVUw5ZDNHbWZXVVlyT3FnRHp5VzhjZ1VWd2N1bkhGMVRDcUtsRnJRbnBGZkp6ZXVhNDNlcHZCdE5PVE5BOGs?oc=5"
         }
       ]
     },
@@ -52,13 +52,13 @@
       ]
     },
     {
-      "id": "210f13d03f52",
-      "title": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om - libelle.nl",
+      "id": "9cab6dc25e64",
+      "title": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om - Libelle",
       "published": "2026-09-19T05:03:26+00:00",
-      "summary": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om&nbsp;&nbsp;libelle.nl",
+      "summary": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "libelle.nl",
+          "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5"
         }
       ]

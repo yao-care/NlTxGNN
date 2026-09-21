@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T03:10:01.669218+00:00",
-  "count": 3,
+  "generated": "2026-09-21T11:54:27.671028+00:00",
+  "count": 2,
   "news": [
     {
       "id": "2aacae6b680f",
@@ -25,30 +25,6 @@
             {
               "slug": "calcipotriol",
               "name": "Calcipotriol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9cab6dc25e64",
-      "title": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om",
-      "published": "2026-09-19T05:03:26+00:00",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDc3NGoxSUtRcUR3YjZ3TFRyRWxZR2lxUXpkQVJvNUlvMGNNMGlDVm5tSGJpTHctY1V5MjhzV3pvUlJOOXVuSWNZWUZ0azB0WkZSZkNIZWg3ekFhZkdFdlFaZjM4Y0h4Y3J5amVIOU1Wb2pCVDl0dTdabTF5eUpfMVlvV2c3dXlJNFdWOXd0N3BXOUdsWUYtaG9n?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "alzheimer",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
             }
           ]
         }

@@ -1,29 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-20T20:16:15.194970+00:00",
-  "count": 5,
+  "fetched_at": "2026-09-21T03:10:01.563460+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "cee4c7d8b1d2",
-      "title": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte' - NPO Radio 1",
-      "published": "2026-09-19T17:11:03+00:00",
-      "summary": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1LIVE WHO: \"Bemoedigende signalen\" in Ituri, maar aantal besmettingen blijft op andere plaatsen fors stijgen&nbsp;&nbsp;VRTGezondheidsagentschap Afrikaanse Unie spreekt WHO tegen: “Ebola-epidemie niet onder controle”&nbsp;&nbsp;NieuwsbladStrijd tegen ebola in Congo boekt vooruitgang, maar uitbraak is 'nog lang niet voorbij', aldus de WHO&nbsp;&nbsp;MarketScreener Nederland",
+      "id": "2aacae6b680f",
+      "title": "‘Eerst was het de baarmoeder, toen de eierstokken en nu zijn het de hormonen. Vrouwen zijn altijd gereduceerd tot hun voortplantingsorganen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-09-20T13:00:00+00:00",
+      "summary": "‘Eerst was het de baarmoeder, toen de eierstokken en nu zijn het de hormonen. Vrouwen zijn altijd gereduceerd tot hun voortplantingsorganen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDe overgang is van alle tijden, maar elke tijd krijgt zijn eigen overgang&nbsp;&nbsp;De CorrespondentVrouwen worden onnodig bang gemaakt voor de overgang. ‘Angst kan klachten verergeren of zelfs creëren’&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZHd3bVMwUlo1d2czeGF6cjZPcDBxVjU0Zmt3cnVCLThidDkybmdhSWZVWDBWM3YyOC1wVFpEcUEtZENXLUhUcmRRclBTVDVRSnlUVFgwLWx6YUxQYzNMdC1fWVBuaGVCUnFMWmxFRWRSbVM0UWxPVG1pSWhvQ3YxNWhFWlB5U1R0OWtSaW94YlladWM2VGFiaW1JVTJXejZLOTVWbDcwMWZWMm0xQWg4X2RnQ09ocXJXWnMtT1RlcUN6NU9Ca2cwdnZIaEFuaVNIS2Z1N0xUV0NFSUo5alFiUTNB?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbzJ3dnFYUGI1X3lzbjB6NXRHM01mNUFqLU92Y05jTVNMcHRzeGFLZk91RXNqNEo5eUhta3h0bTYzamJwbDRZNG90Vm04YllEMUZWVDA4RUltZnVXd05ESnYzS0dIRzE3VmwzaDhLa1ZEaGdQNmFMYVhUdFE1YWl6aXVFd0x3elZSV2FidEJMQmlHRUhrc0pHRzIteE9vLXJYQmdsOXI0ZHktdGh3SU40OWVzbUJHbTJDV04xWjZVQThQc0hsSHRUYlYyVmpWT0pXQ2FlVmV6SUV2Z056SWRkdFFNMm9IMGVrSlRzSTEyUWlabWZaRWlsSVpTbGdZWHhvSWZBN003VEEzLTVwcUU4?oc=5"
         }
       ]
     },
     {
-      "id": "04969c30734b",
-      "title": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend - AD.nl",
-      "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend&nbsp;&nbsp;AD.nlPrik tegen het RS-virus weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandPrik tegen RS-virus weer van start&nbsp;&nbsp;Westlanders.nu",
+      "id": "63f8c341c799",
+      "title": "Steeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’ - AD.nl",
+      "published": "2026-09-19T14:00:00+00:00",
+      "summary": "Steeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSSanquin test donorbloed op westnijlvirus: ‘Belangrijk voor mensen met zwak immuunsysteem’&nbsp;&nbsp;TubantiaVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerGGD waarschuwt voor westnijlvirus: 'Voorkom dat je geprikt w",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjVTNm5sU0ZXUFk4T2FhQmpJOXF1MDBoSklsWXBjVXNlWThCdkN6YjZPNUV1a3EzOHdjdERBMGhIekMtTC1hYWhadnV2Yk1nSXVnaTlrdnpoRjF1RkxzRGgxSnhjWW1jRzRNVUw5ZDNHbWZXVVlyT3FnRHp5VzhjZ1VWd2N1bkhGMVRDcUtsRnJRbnBGZkp6ZXVhNDNlcHZCdE5PVE5BOGs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkV3NWJIUFpRZGhUeEx6eTlpakZNZjNJV3JPVE1fSGpMb0xRZF9yVE9yWEtwSXFtWDVwcFNrYWpySHNVcW1EcnJkR1I1d0xIcFNLS2hiRmVwZEZvaEpqQ0pab24yZ1AwZDB0SV9QN3NPVm1aWHhHY3czRDI5VTZhNVZDNTF2RDMxU1ZYTEZPYWVSVUsyNjdVYjcyRVJ0UmNudHJkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cee4c7d8b1d2",
+      "title": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte' - NPO Radio 1",
+      "published": "2026-09-19T17:11:03+00:00",
+      "summary": "Dodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1LIVE WHO: \"Bemoedigende signalen\" in Ituri, maar aantal besmettingen blijft op andere plaatsen fors stijgen&nbsp;&nbsp;vrt.beGezondheidsagentschap Afrikaanse Unie spreekt WHO tegen: “Ebola-epidemie niet onder controle”&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZHd3bVMwUlo1d2czeGF6cjZPcDBxVjU0Zmt3cnVCLThidDkybmdhSWZVWDBWM3YyOC1wVFpEcUEtZENXLUhUcmRRclBTVDVRSnlUVFgwLWx6YUxQYzNMdC1fWVBuaGVCUnFMWmxFRWRSbVM0UWxPVG1pSWhvQ3YxNWhFWlB5U1R0OWtSaW94YlladWM2VGFiaW1JVTJXejZLOTVWbDcwMWZWMm0xQWg4X2RnQ09ocXJXWnMtT1RlcUN6NU9Ca2cwdnZIaEFuaVNIS2Z1N0xUV0NFSUo5alFiUTNB?oc=5"
         }
       ]
     },
@@ -36,6 +48,18 @@
         {
           "name": "MAX Meldpunt",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "04969c30734b",
+      "title": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend - AD.nl",
+      "published": "2026-09-19T19:30:00+00:00",
+      "summary": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend&nbsp;&nbsp;AD.nlNieuwe prik tegen RS-virus voorkomt dat baby’s op ic belanden: dit seizoen veel minder gevallen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjVTNm5sU0ZXUFk4T2FhQmpJOXF1MDBoSklsWXBjVXNlWThCdkN6YjZPNUV1a3EzOHdjdERBMGhIekMtTC1hYWhadnV2Yk1nSXVnaTlrdnpoRjF1RkxzRGgxSnhjWW1jRzRNVUw5ZDNHbWZXVVlyT3FnRHp5VzhjZ1VWd2N1bkhGMVRDcUtsRnJRbnBGZkp6ZXVhNDNlcHZCdE5PVE5BOGs?oc=5"
         }
       ]
     },

@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-20T20:16:15.295784+00:00",
-  "count": 2,
+  "generated": "2026-09-21T03:10:01.669218+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "2aacae6b680f",
+      "title": "‘Eerst was het de baarmoeder, toen de eierstokken en nu zijn het de hormonen. Vrouwen zijn altijd gereduceerd tot hun voortplantingsorganen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-09-20T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbzJ3dnFYUGI1X3lzbjB6NXRHM01mNUFqLU92Y05jTVNMcHRzeGFLZk91RXNqNEo5eUhta3h0bTYzamJwbDRZNG90Vm04YllEMUZWVDA4RUltZnVXd05ESnYzS0dIRzE3VmwzaDhLa1ZEaGdQNmFMYVhUdFE1YWl6aXVFd0x3elZSV2FidEJMQmlHRUhrc0pHRzIteE9vLXJYQmdsOXI0ZHktdGh3SU40OWVzbUJHbTJDV04xWjZVQThQc0hsSHRUYlYyVmpWT0pXQ2FlVmV6SUV2Z056SWRkdFFNMm9IMGVrSlRzSTEyUWlabWZaRWlsSVpTbGdZWHhvSWZBN003VEEzLTVwcUU4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9cab6dc25e64",
       "title": "Anita (61) kreeg op haar 54e de diagnose alzheimer, zó gaan zij en haar omgeving ermee om",

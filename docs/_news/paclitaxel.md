@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
-
-### [‘Eerst was het de baarmoeder, toen de eierstokken en nu zijn het de hormonen. Vrouwen zijn altijd gereduceerd tot hun voortplantingsorganen’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek](https://news.google.com/rss/articles/CBMijwJBVV95cUxQbzJ3dnFYUGI1X3lzbjB6NXRHM01mNUFqLU92Y05jTVNMcHRzeGFLZk91RXNqNEo5eUhta3h0bTYzamJwbDRZNG90Vm04YllEMUZWVDA4RUltZnVXd05ESnYzS0dIRzE3VmwzaDhLa1ZEaGdQNmFMYVhUdFE1YWl6aXVFd0x3elZSV2FidEJMQmlHRUhrc0pHRzIteE9vLXJYQmdsOXI0ZHktdGh3SU40OWVzbUJHbTJDV04xWjZVQThQc0hsSHRUYlYyVmpWT0pXQ2FlVmV6SUV2Z056SWRkdFFNMm9IMGVrSlRzSTEyUWlabWZaRWlsSVpTbGdZWHhvSWZBN003VEEzLTVwcUU4?oc=5)
-
-2026-09-20 <span class="news-indication-tag">overgang</span>
-
-Bron: [NRC - Nieuws, achtergronden en onderzoeksjournalistiek](https://news.google.com/rss/articles/CBMijwJBVV95cUxQbzJ3dnFYUGI1X3lzbjB6NXRHM01mNUFqLU92Y05jTVNMcHRzeGFLZk91RXNqNEo5eUhta3h0bTYzamJwbDRZNG90Vm04YllEMUZWVDA4RUltZnVXd05ESnYzS0dIRzE3VmwzaDhLa1ZEaGdQNmFMYVhUdFE1YWl6aXVFd0x3elZSV2FidEJMQmlHRUhrc0pHRzIteE9vLXJYQmdsOXI0ZHktdGh3SU40OWVzbUJHbTJDV04xWjZVQThQc0hsSHRUYlYyVmpWT0pXQ2FlVmV6SUV2Z056SWRkdFFNMm9IMGVrSlRzSTEyUWlabWZaRWlsSVpTbGdZWHhvSWZBN003VEEzLTVwcUU4?oc=5)
-
----
+## Gerelateerd nieuws (1)
 
 ### [Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - MAX Meldpunt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5)
 

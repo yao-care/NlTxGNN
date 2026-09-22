@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-22T16:12:29.931901+00:00",
-  "count": 11,
+  "fetched_at": "2026-09-22T20:50:29.502505+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "02112ebe73b0",
-      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - AD.nl",
+      "id": "e72cb768ec95",
+      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - pzc.nl",
       "published": "2026-09-22T12:00:00+00:00",
-      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;AD.nlGordelroosnieuws groot in het AD en regionale kranten&nbsp;&nbsp;ANBO-PCOBKabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV Oost70-plussers vallen buiten gordelroosprik, seniorenbond noemt dat 'kortzichtig'&nbsp;&nbsp;RTV Oost",
+      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;pzc.nlGordelroosnieuws groot in het AD en regionale kranten&nbsp;&nbsp;ANBO-PCOBKabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV Oost70-plussers vallen buiten gordelroosprik, seniorenbond noemt dat 'kortzichtig'&nbsp;&nbsp;RTV Oost",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXV2Uy1sX1lYYWVvWUlCdk9lbVBxaFNscnFrYTNTUmRSV1JHTGswdmdPdXBBTlFMOUI4aGQwM2RtQjVUZlBhcC01Xy0tVWNiMHBGeFg3RHhoVExXa1B0bzRzcUFKcG5qOWNQMGJWQzdHNGNSQ0wzMFdSUFVCckxIbmt1bDVYOUFEMzN5ZUx5eTMtWHQyWUx0MmZOSVExYXhZRmZCbmJXbjJWSm1VMXctbzl6SXBYZmVRRVVBa1h6bTRMME0xelItbVlQZGc3aFk?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVpiX09HUFBjamlzLV9kMUg5NGFEUG1fNTFjRHlBTEs3V0Z3YWZkcU1WMEgtX1FyR1dTUzlVd2Q1ZTNCY1M1X29fYzRXeFFJNDQtd1F3UE9wRzNlWDQzNkxlbW1HZF9kUE1ONWxmcjM0ZzktbllsMGhJSlVHbUVWTVdHRGViUUM0TUhpR0QxcUNDbl8xdXFzN044SzNGZzlEZldxNE5jc2NYOFJtOTBJS2Y2TGJXVE8tZ3RPanZIUEJFY3A5Tk5sZlN4UktPZFZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92cbc6476c71",
+      "title": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend - omroepbrabant.nl",
+      "published": "2026-09-22T11:58:00+00:00",
+      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;omroepbrabant.nlOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;AD.nlOnderzoek naar uitbraak op BUas-introductiekamp afgerond&nbsp;&nbsp;GGD West-BrabantGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNu",
+      "sources": [
+        {
+          "name": "omroepbrabant.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3BRajZtSV9ycFhiNEVJaWtSS3BST1VLN3B2VDJEdHR3cmsyck1VaDFWS3p1SmhCYVVFN0ZvM19hRjVvUzhzZUpwYzRDOFZVa1pnRFktSHIxNl8wb05BNkVXSnliX3Fjbmh1Zl9UQk02bURpWWlfdUxheFdzaXNObzcyMThfYVdmQzk3WXFpSUp6YTZraDZibmpIRmJ0bmtIYVR1SlhQbXg2dVY3UjA3eW1uNk0?oc=5"
         }
       ]
     },
@@ -19,11 +31,23 @@
       "id": "e423342744ac",
       "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen' - RTV Noord",
       "published": "2026-09-21T17:30:00+00:00",
-      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;omroepwest.nlOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;sliedrecht24.nl",
+      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;sliedrecht24.nl",
       "sources": [
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlBUaXhEc3RuRzlyMDNrNkEzVEtMSXB5WDBKeUl6azZtaTBfcWFLVUhjQVNNd2RZUHYyMWN4b2UtWGRHNjRsUUMyaWVPeF9pSUFpWkllX0JIdEhOV2s2SDlUQTFVMUt6Um5fay04TXMzaGhXVWdmYXg0VVZHcHRvU0ZPcVZfME5PNjN1U2UwQjhwRFdFOHU2aXBrR2pFdWxWSkluRksxLVBzRW55Nkg0X2lHUlVmX3JP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fa3e9e12eb9",
+      "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
+      "published": "2026-09-21T19:06:00+00:00",
+      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaDe griepprik en coronaprik komen er weer aan&nbsp;&nbsp;Studio Rheden -Griepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netBericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst RouveenGriepprik van huisartsen in Sint Nyk twee maanden vertraagd&nbsp;&nbsp;DeSintNykster.nl",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdNeFZZNks3Uy1wWlYzUjFLTFZUaXZUX25vTGc4RGxoaW4yaHdySEFBRUVYSnBDUjdsU2x1bVROWUFCOFpaRmhSNVlpcHUwTnVoR00wb0w5ai1ZQnpmdGVWclphMFlfN2RQQTk2TVAtY0stSDkyeElzaVZ5NkhfS0VGS0QwUTFyNWtHTzJESU0tVDMzZDh2aEZPdGx4YjVTbnE5WEl6dGFFamtwSXcxREdn?oc=5"
         }
       ]
     },
@@ -52,38 +76,38 @@
       ]
     },
     {
-      "id": "6fa3e9e12eb9",
-      "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
-      "published": "2026-09-21T19:06:00+00:00",
-      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netDe griepprik en coronaprik komen er weer aan&nbsp;&nbsp;Studio Rheden -Bericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst RouveenGriepprik van huisartsen in Sint Nyk twee maanden vertraagd&nbsp;&nbsp;DeSintNykster.nl",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdNeFZZNks3Uy1wWlYzUjFLTFZUaXZUX25vTGc4RGxoaW4yaHdySEFBRUVYSnBDUjdsU2x1bVROWUFCOFpaRmhSNVlpcHUwTnVoR00wb0w5ai1ZQnpmdGVWclphMFlfN2RQQTk2TVAtY0stSDkyeElzaVZ5NkhfS0VGS0QwUTFyNWtHTzJESU0tVDMzZDh2aEZPdGx4YjVTbnE5WEl6dGFFamtwSXcxREdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "056e7f2be942",
-      "title": "Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door - Het Parool",
-      "published": "2026-09-21T14:55:40+00:00",
-      "summary": "Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolAmsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;De TelegraafVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Vaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnUwbXZ0ZzZpS21ORUhzdEMzOVdHMEZDOG96S00zZmRnSG84TmJOaTdScm5mRXN5Z0dvTWRTbmRET0dnRkI1enQ3LWlodDMzdTkxbWc2cmNZSElNQ01qOXpKYlJqMGNRS2JrX0Y3YkxlRFZlYV8wVE92X2hVOTRTOTJEQTA1b3gySXNwWjdOQW9PV0pzOEU2aUFkRDFLN2pERnNZWF9VR2ROWHdfQXFEa3VvOGo5QVpvMlJSSlFKakpWSEFsd0Q1WWs1eWQ3TVp2T3ByZTl1UXQxQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3febb02a26aa",
       "title": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep - de Volkskrant",
       "published": "2026-09-21T12:54:00+00:00",
-      "summary": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep&nbsp;&nbsp;de Volkskrant",
+      "summary": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep&nbsp;&nbsp;de VolkskrantGrieperig? Het is wellicht geen griep: ‘Een bont allegaartje virussen doet momenteel de ronde’&nbsp;&nbsp;De Morgen",
       "sources": [
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3lWMXlnMjVtWXFIcVFoNlBFb1pnaTUzUVBzU3VCRDBOekk0dnNFdUtxOEdLVllLOXRNMVUzU093dXlxZUp0ekVmcU53YVNobGVWODdLWVFYNjZLTjF3czAtTmZDUTNuX3gtOEdjcVZBRjRVMEhULTJRTXFpYVhPZHQzWnkyRXMxUkpRT0VQY1VFc1FhblZRaUFEQ0xzQTRmRGxRTlpGeE1iUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4f48bcadf2f",
+      "title": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val - De Telegraaf",
+      "published": "2026-09-21T17:50:37+00:00",
+      "summary": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;De TelegraafVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolVaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmdUVVlGa1lZQ3c0MVU3RVFRWVpUZ2xBNU5Lbjh5OUxJVWxRNktKZDRmN0tOLWxOX1ZfQl9BU0JDY3lwT2FVckFuV0VOaE0wQk9kVHNDTThGVEMwUkFNSnRxS004ZWRFaFlxWHM5Q2UyT0FIQ19NeC1TenFPSU5JRDQ2cGtBYy1JTlV3TXVqd3hrQTYwWjAtTnRMTFQ3NldSaG1FcklWclVlZGc5RFdZajdoaTJJUnhoSnozdXFHdlFrcF9EaWp2MlJkSTNINGI0WGNadEUxNTZibnljQXF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6408087d8af3",
+      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "published": "2026-09-19T19:30:00+00:00",
+      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
         }
       ]
     },
@@ -100,14 +124,14 @@
       ]
     },
     {
-      "id": "6408087d8af3",
-      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
-      "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;hartvannederland.nl",
+      "id": "1b7d3d1466f7",
+      "title": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan - Starnieuws",
+      "published": "2026-09-22T11:55:00+00:00",
+      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsSchade vogelgriep nog onbekend, LVV kan pluimveehouders niet volledig compenseren&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;waterkant.netH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LUDg0UjJzaHZIYVRROWxybW5wd0t1OUV3Z2ZYNUV4TkkwaUdXNzVDTnZkandnM3FVSXotU1JibW53anpvNG13VjJuSklfbU5ybkQ1SGd6UEU2YnpzOGp3alpZVzM3a0lRYmstTUVmQ29rR0xTUnc?oc=5"
         }
       ]
     },
@@ -124,13 +148,13 @@
       ]
     },
     {
-      "id": "0ad4353fee8a",
-      "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen - Wetenschap in Beeld",
+      "id": "e5b57d863469",
+      "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen - wibnet.nl",
       "published": "2026-09-21T18:30:34+00:00",
-      "summary": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen&nbsp;&nbsp;Wetenschap in Beeld",
+      "summary": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "Wetenschap in Beeld",
+          "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5"
         }
       ]

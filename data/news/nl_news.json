@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-22T03:09:23.278395+00:00",
+  "fetched_at": "2026-09-22T10:54:46.287659+00:00",
   "count": 9,
   "news": [
     {
@@ -16,38 +16,26 @@
       ]
     },
     {
-      "id": "7226cd97164b",
-      "title": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val - telegraaf.nl",
-      "published": "2026-09-22T00:50:37+00:00",
-      "summary": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;telegraaf.nlVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolVaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
+      "id": "e8f296bff3b2",
+      "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen' - rtvnoord.nl",
+      "published": "2026-09-21T17:30:00+00:00",
+      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;rtvnoord.nlMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;sliedrecht24.nl",
       "sources": [
         {
-          "name": "telegraaf.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmdUVVlGa1lZQ3c0MVU3RVFRWVpUZ2xBNU5Lbjh5OUxJVWxRNktKZDRmN0tOLWxOX1ZfQl9BU0JDY3lwT2FVckFuV0VOaE0wQk9kVHNDTThGVEMwUkFNSnRxS004ZWRFaFlxWHM5Q2UyT0FIQ19NeC1TenFPSU5JRDQ2cGtBYy1JTlV3TXVqd3hrQTYwWjAtTnRMTFQ3NldSaG1FcklWclVlZGc5RFdZajdoaTJJUnhoSnozdXFHdlFrcF9EaWp2MlJkSTNINGI0WGNadEUxNTZibnljQXF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e423342744ac",
-      "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen' - RTV Noord",
-      "published": "2026-09-21T17:31:51+00:00",
-      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;Sliedrecht24",
-      "sources": [
-        {
-          "name": "RTV Noord",
+          "name": "rtvnoord.nl",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlBUaXhEc3RuRzlyMDNrNkEzVEtMSXB5WDBKeUl6azZtaTBfcWFLVUhjQVNNd2RZUHYyMWN4b2UtWGRHNjRsUUMyaWVPeF9pSUFpWkllX0JIdEhOV2s2SDlUQTFVMUt6Um5fay04TXMzaGhXVWdmYXg0VVZHcHRvU0ZPcVZfME5PNjN1U2UwQjhwRFdFOHU2aXBrR2pFdWxWSkluRksxLVBzRW55Nkg0X2lHUlVmX3JP?oc=5"
         }
       ]
     },
     {
-      "id": "6fa3e9e12eb9",
-      "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
-      "published": "2026-09-21T19:06:00+00:00",
-      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten krijgen griepprik maanden later: 'Begrijpen dat dat vervelend is'&nbsp;&nbsp;Omroep BrabantGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netBericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst RouveenGriepprik van huisartsen in Sint Nyk twee maanden vertraagd&nbsp;&nbsp;DeSintNykster.nl",
+      "id": "056e7f2be942",
+      "title": "Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door - Het Parool",
+      "published": "2026-09-21T14:55:40+00:00",
+      "summary": "Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolAmsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;De TelegraafVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Vaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
       "sources": [
         {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdNeFZZNks3Uy1wWlYzUjFLTFZUaXZUX25vTGc4RGxoaW4yaHdySEFBRUVYSnBDUjdsU2x1bVROWUFCOFpaRmhSNVlpcHUwTnVoR00wb0w5ai1ZQnpmdGVWclphMFlfN2RQQTk2TVAtY0stSDkyeElzaVZ5NkhfS0VGS0QwUTFyNWtHTzJESU0tVDMzZDh2aEZPdGx4YjVTbnE5WEl6dGFFamtwSXcxREdn?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnUwbXZ0ZzZpS21ORUhzdEMzOVdHMEZDOG96S00zZmRnSG84TmJOaTdScm5mRXN5Z0dvTWRTbmRET0dnRkI1enQ3LWlodDMzdTkxbWc2cmNZSElNQ01qOXpKYlJqMGNRS2JrX0Y3YkxlRFZlYV8wVE92X2hVOTRTOTJEQTA1b3gySXNwWjdOQW9PV0pzOEU2aUFkRDFLN2pERnNZWF9VR2ROWHdfQXFEa3VvOGo5QVpvMlJSSlFKakpWSEFsd0Q1WWs1eWQ3TVp2T3ByZTl1UXQxQQ?oc=5"
         }
       ]
     },
@@ -55,11 +43,23 @@
       "id": "02fc4e5e667e",
       "title": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten - Testaankoop",
       "published": "2026-09-21T11:38:00+00:00",
-      "summary": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten&nbsp;&nbsp;TestaankoopNadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;limburger.nlBloedbanken gaan testen op het westnijlvirus ",
+      "summary": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten&nbsp;&nbsp;TestaankoopNadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;limburger.nlSanquin test bloeddonoren in Limburg op westn",
       "sources": [
         {
           "name": "Testaankoop",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelRSWWZoME9jM2xuTTltR3U1MkJjZF8zdVZfOXVJSjEySnNpLU5zWmlBZnpCRktYYUIyUkpHaGJMSER6SU9mYzRvS0dRdjFKS3d5RHJ4LWEwQXh0eEZPQjF1d3ZBVElXeWg5TVVpcmpBRVR4UXF0eVNpQ19zOFRmVEtCcWFkR0NDMzhnVkxlLU1ZeWsyUUQ1TS05MURQWDFhVGVreTRZRm02VXV6ZnhRdEtGVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fa3e9e12eb9",
+      "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
+      "published": "2026-09-21T19:06:00+00:00",
+      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten krijgen griepprik maanden later: 'Begrijpen dat dat vervelend is'&nbsp;&nbsp;Omroep BrabantGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netDe griepprik en coronaprik komen er weer aan&nbsp;&nbsp;Studio Rheden -Bericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst Rouveen",
+      "sources": [
+        {
+          "name": "Tubantia",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdNeFZZNks3Uy1wWlYzUjFLTFZUaXZUX25vTGc4RGxoaW4yaHdySEFBRUVYSnBDUjdsU2x1bVROWUFCOFpaRmhSNVlpcHUwTnVoR00wb0w5ai1ZQnpmdGVWclphMFlfN2RQQTk2TVAtY0stSDkyeElzaVZ5NkhfS0VGS0QwUTFyNWtHTzJESU0tVDMzZDh2aEZPdGx4YjVTbnE5WEl6dGFFamtwSXcxREdn?oc=5"
         }
       ]
     },
@@ -76,26 +76,14 @@
       ]
     },
     {
-      "id": "04969c30734b",
-      "title": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend - AD.nl",
+      "id": "6408087d8af3",
+      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Grote daling van zieke baby’s met RS-virus: nieuwe prik werkt uitstekend&nbsp;&nbsp;AD.nlMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;artsenkrant.pmg.beBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
+      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjVTNm5sU0ZXUFk4T2FhQmpJOXF1MDBoSklsWXBjVXNlWThCdkN6YjZPNUV1a3EzOHdjdERBMGhIekMtTC1hYWhadnV2Yk1nSXVnaTlrdnpoRjF1RkxzRGgxSnhjWW1jRzRNVUw5ZDNHbWZXVVlyT3FnRHp5VzhjZ1VWd2N1bkhGMVRDcUtsRnJRbnBGZkp6ZXVhNDNlcHZCdE5PVE5BOGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "845b10287b6e",
-      "title": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’ - maxmeldpunt.nl",
-      "published": "2026-09-18T12:53:31+00:00",
-      "summary": "Explosieve groei huidkanker onder ouderen: ‘Word meer bewust van de gevaren van de zonkracht’&nbsp;&nbsp;maxmeldpunt.nlMeldpunt Actueel over huidkanker en de onderschatte gevaren van de zon&nbsp;&nbsp;Perssite Omroep MAXGerrie Dijkhuijsen (79) over huidkanker door zonnen: ‘Bruin zijn, dat ben je maar even. Na 3, 4 weken is dat weg. Maar dit houd je je hele leven.’&nbsp;&nbsp;maxmeldpunt.nlDe onderschatte gevaren van de zon&nbsp;&nbsp;maxmeldpunt.nlVrijdag op tv: huidkanker en de onderschatte gev",
-      "sources": [
-        {
-          "name": "maxmeldpunt.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEEzWHBFRWl0SDU2YjhwVmNiN0o0WjktS2MwVG1iTDNFbzQtUzZhTTFKVWlLZVFPSEp2WS1ydTVXZlkwVnd5OG0yQVJ4dW9PNTRuMmoyZjU4Uy11OWZvcDFhX1lMNWN3MEdkcXllRE5LblNGOEFuZlNiX1B5dGdsM2dMbnBPdXNrOFV5eGJfSzRQYmhkT2xZZXd3Ry1qYmc4VXJYdHNkUUZvUkp2dXlhQVJRTWliWDduYkZMSVFBVDFRdXpuLW1EWQ?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
         }
       ]
     },
@@ -108,6 +96,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzA0c09HVEViUVhvaTI2SGFaYTRlWnRUMHRyNndtOXlYVXJITjFsV0pVa2E4YnJyalAtQjlhdUZWRGNtVDlTcld6cjF0RlpCQ05tdnVwd0ZnaHJQUlNiSUVJd0tYUEVOZW43LVZrNDRtMEF1SWRoeHIwMDVxMzl0Sy1FVDRxU0tMdDFJZ3FzbnZKaVlZNHpaNHFVWWdNbFhKWC01TUlBanFDSVY3R3J3MlVVYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ad4353fee8a",
+      "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen - Wetenschap in Beeld",
+      "published": "2026-09-21T18:30:34+00:00",
+      "summary": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen&nbsp;&nbsp;Wetenschap in Beeld",
+      "sources": [
+        {
+          "name": "Wetenschap in Beeld",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5"
         }
       ]
     }

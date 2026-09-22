@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-09-22T10:54:46.374619+00:00",
-  "total_count": 9,
+  "last_updated": "2026-09-22T16:12:30.008590+00:00",
+  "total_count": 11,
   "matched_count": 1,
   "news": [
+    {
+      "id": "02112ebe73b0",
+      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’",
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;AD.nlGordelroosnieuws groot in het AD en regionale kranten&nbsp;&nbsp;ANBO-PCOBKabinet komt met gordelroosprik, maar niet voor 70-plussers; seniorenbond kritisch&nbsp;&nbsp;RTV Oost70-plussers vallen buiten gordelroosprik, seniorenbond noemt dat 'kortzichtig'&nbsp;&nbsp;RTV Oost",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXV2Uy1sX1lYYWVvWUlCdk9lbVBxaFNscnFrYTNTUmRSV1JHTGswdmdPdXBBTlFMOUI4aGQwM2RtQjVUZlBhcC01Xy0tVWNiMHBGeFg3RHhoVExXa1B0bzRzcUFKcG5qOWNQMGJWQzdHNGNSQ0wzMFdSUFVCckxIbmt1bDVYOUFEMzN5ZUx5eTMtWHQyWUx0MmZOSVExYXhZRmZCbmJXbjJWSm1VMXctbzl6SXBYZmVRRVVBa1h6bTRMME0xelItbVlQZGc3aFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6fa3e9e12eb9",
       "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang",
       "published": "2026-09-21T19:06:00+00:00",
-      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten krijgen griepprik maanden later: 'Begrijpen dat dat vervelend is'&nbsp;&nbsp;Omroep BrabantGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netDe griepprik en coronaprik komen er weer aan&nbsp;&nbsp;Studio Rheden -Bericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst Rouveen",
+      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.netDe griepprik en coronaprik komen er weer aan&nbsp;&nbsp;Studio Rheden -Bericht Medisch Centrum Staphorst: Vertraging levering griepvaccinaties&nbsp;&nbsp;Weblog Staphorst RouveenGriepprik van huisartsen in Sint Nyk twee maanden vertraagd&nbsp;&nbsp;DeSintNykster.nl",
       "sources": [
         {
           "name": "Tubantia",
@@ -155,13 +168,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e8f296bff3b2",
-      "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'",
+      "id": "e423342744ac",
+      "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen' - RTV Noord",
       "published": "2026-09-21T17:30:00+00:00",
-      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;rtvnoord.nlMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;sliedrecht24.nl",
+      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;omroepwest.nlOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep FlevolandGGD regio Utrecht start najaarsronde coronaprik&nbsp;&nbsp;Nieuws.nl50 tot en met 69 jaar? Coronaprik kan ook voor jou bedoeld zijn&nbsp;&nbsp;sliedrecht24.nl",
       "sources": [
         {
-          "name": "rtvnoord.nl",
+          "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlBUaXhEc3RuRzlyMDNrNkEzVEtMSXB5WDBKeUl6azZtaTBfcWFLVUhjQVNNd2RZUHYyMWN4b2UtWGRHNjRsUUMyaWVPeF9pSUFpWkllX0JIdEhOV2s2SDlUQTFVMUt6Um5fay04TXMzaGhXVWdmYXg0VVZHcHRvU0ZPcVZfME5PNjN1U2UwQjhwRFdFOHU2aXBrR2pFdWxWSkluRksxLVBzRW55Nkg0X2lHUlVmX3JP?oc=5"
         }
       ],
@@ -176,6 +189,19 @@
         {
           "name": "Het Parool",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnUwbXZ0ZzZpS21ORUhzdEMzOVdHMEZDOG96S00zZmRnSG84TmJOaTdScm5mRXN5Z0dvTWRTbmRET0dnRkI1enQ3LWlodDMzdTkxbWc2cmNZSElNQ01qOXpKYlJqMGNRS2JrX0Y3YkxlRFZlYV8wVE92X2hVOTRTOTJEQTA1b3gySXNwWjdOQW9PV0pzOEU2aUFkRDFLN2pERnNZWF9VR2ROWHdfQXFEa3VvOGo5QVpvMlJSSlFKakpWSEFsd0Q1WWs1eWQ3TVp2T3ByZTl1UXQxQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0226e04feecb",
+      "title": "Onderzoek laat zien hoe de pest zich zo hard kon verspreiden: dit kunnen we ervan leren",
+      "published": "2026-09-21T14:00:43+00:00",
+      "summary": "Onderzoek laat zien hoe de pest zich zo hard kon verspreiden: dit kunnen we ervan leren&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2twTC02ZDMyRElQU2M1Zlcya1FnUzQ2RldMVTNFMEoxcWdQb2ZwRllWNnd4bTJuT25LZkw3LXJCSmlCOFE5a1lTbHg2RzlPM1N2LTBweXRKOEFwVmNOQmwzQks5MFVpcllDdVJmazhLTTlMVnJpbmdtQzlXeUljdWpaMnVNTnNpQzNPcGtVVFpXUkd0enptakk0NGItNU4wR0tmZ0pWVWdFZkU4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -197,7 +223,7 @@
       "id": "02fc4e5e667e",
       "title": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten",
       "published": "2026-09-21T11:38:00+00:00",
-      "summary": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten&nbsp;&nbsp;TestaankoopNadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;limburger.nlSanquin test bloeddonoren in Limburg op westn",
+      "summary": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten&nbsp;&nbsp;TestaankoopNadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerSanquin test bloeddonoren in Limburg op westn",
       "sources": [
         {
           "name": "Testaankoop",
@@ -210,7 +236,7 @@
       "id": "6408087d8af3",
       "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
+      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;hartvannederland.nl",
       "sources": [
         {
           "name": "De Gelderlander",

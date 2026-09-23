@@ -1,29 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-23T16:01:50.712856+00:00",
+  "fetched_at": "2026-09-23T21:01:56.809538+00:00",
   "count": 12,
   "news": [
     {
       "id": "c93237cb847f",
       "title": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-09-23T07:00:00+00:00",
-      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;RTV UtrechtDode eksters uit regio hadden West-Nijlvirus&nbsp;&nbsp;Het KompasWestnijlvirus circuleert in regio Essen na testen bij paarden&nbsp;&nbsp;HLNZonder mug geen westnijlvirus&nbsp;&nbsp;Artsenkrant",
+      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;rtvutrecht.nlDode eksters uit regio hadden West-Nijlvirus&nbsp;&nbsp;Het KompasWestnijlvirus circuleert in regio Essen na testen bij paarden&nbsp;&nbsp;hln.beZonder mug geen westnijlvirus&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSG80TVZJUWVPTF9aVy1JaG9KTWZZakRoemp3b1FhZDBvZTRldUlFZF83UnFEQ1ZaZ3l5SjVjOFd1by16ZUo3eGQ3Szlyc1ItUk1yMTBpbUhqRlozRWhHVFpIUmFQSUxEOUVPQ21OaU9nLTY4UGZXQUx2ajFNa0R3Z0J3YXlHMlIzQTNScTZ4NEpBLTI2TUdYRzBYUXhlZkJpTWJTbnI4bXIyc3BSOVBPXzI4NHo4RHpXVHJ5NGlNNENjZ1JDQURWa3hNa3JOZWc1dXFnV21ZMTFhLXFzdEZVdXhHYXI3YzVud3dHWEZDYWVqZDFfMENJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d32f793e42b",
-      "title": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen - Hoeksch Nieuws",
-      "published": "2026-09-22T15:50:04+00:00",
-      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtGGD gestart met najaarsronde coronaprik voor 70-plussers en andere risicogroepen in Limburg&nbsp;&nbsp;De LimburgerCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Hoeksch Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlJpdWdTdXI2LVBtYzhDQmNROTJ6NFpzZklLQ3hUbTJGOUJPN1MtbmlUR21FVndFdnVYVDE2ck9ybTJacE5BZEJkbl9CQnc0YmZJXzlsNWpESDBOdnN2WU44X0t2cExHcWtKTDI4VFplRzZDZzhGclRwTWY3MllzclZxTjdQTGk4WFM0ZzA2RENVdFhX?oc=5"
         }
       ]
     },
@@ -40,14 +28,26 @@
       ]
     },
     {
-      "id": "499ca9514bb3",
-      "title": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend - Omroep Brabant",
-      "published": "2026-09-22T11:58:00+00:00",
-      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;Omroep BrabantOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;AD.nlBuikpijn, diarree en braken: GGD rond onderzoek na uitbraak op introductiekamp BUas af&nbsp;&nbsp;bredavandaag.nlGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNuOnderzoek bevestigt norovirus bij 175 BUas‑studenten op introductiekamp&nbsp;&nbsp;Nationale Ond",
+      "id": "6d32f793e42b",
+      "title": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen - Hoeksch Nieuws",
+      "published": "2026-09-22T15:50:04+00:00",
+      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtGGD gestart met najaarsronde coronaprik voor 70-plussers en andere risicogroepen in Limburg&nbsp;&nbsp;De LimburgerCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep West",
       "sources": [
         {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3BRajZtSV9ycFhiNEVJaWtSS3BST1VLN3B2VDJEdHR3cmsyck1VaDFWS3p1SmhCYVVFN0ZvM19hRjVvUzhzZUpwYzRDOFZVa1pnRFktSHIxNl8wb05BNkVXSnliX3Fjbmh1Zl9UQk02bURpWWlfdUxheFdzaXNObzcyMThfYVdmQzk3WXFpSUp6YTZraDZibmpIRmJ0bmtIYVR1SlhQbXg2dVY3UjA3eW1uNk0?oc=5"
+          "name": "Hoeksch Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlJpdWdTdXI2LVBtYzhDQmNROTJ6NFpzZklLQ3hUbTJGOUJPN1MtbmlUR21FVndFdnVYVDE2ck9ybTJacE5BZEJkbl9CQnc0YmZJXzlsNWpESDBOdnN2WU44X0t2cExHcWtKTDI4VFplRzZDZzhGclRwTWY3MllzclZxTjdQTGk4WFM0ZzA2RENVdFhX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fea3a045111",
+      "title": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’ - De Telegraaf",
+      "published": "2026-09-23T13:30:00+00:00",
+      "summary": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUHFlNkFFUi1QY0FXOW1pWTQ0QWlkekRMMlNpbGJZUmZCNnZzSDE4RFN6MVIySW1ZWXpyS0hfV2plNm1NS0Z3S3JEcjZHckFqLXl1VjBkdDdpN0FSMFBlWVFhbmtKQnIyUF91Mk5QLVJlNWhfNWZSSUMxUlFNQjYxdzhCdS0yNlJ1XzVDaGM0SU1wOExlWU1ERkhaS25mdjJQaXpMdEhoZEN5M0ZvbE1ZUXAwQ2NwN1FTWm55RHhORUlpU2J1MHptY3lxbG42S1NCeG51cktadTFpc1k4dnlVclIxd1FwME5YMzhyNUNB?oc=5"
         }
       ]
     },
@@ -64,26 +64,14 @@
       ]
     },
     {
-      "id": "e72cb768ec95",
-      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - pzc.nl",
+      "id": "ac4555fb73d5",
+      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - De Gelderlander",
       "published": "2026-09-22T12:00:00+00:00",
-      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVpiX09HUFBjamlzLV9kMUg5NGFEUG1fNTFjRHlBTEs3V0Z3YWZkcU1WMEgtX1FyR1dTUzlVd2Q1ZTNCY1M1X29fYzRXeFFJNDQtd1F3UE9wRzNlWDQzNkxlbW1HZF9kUE1ONWxmcjM0ZzktbllsMGhJSlVHbUVWTVdHRGViUUM0TUhpR0QxcUNDbl8xdXFzN044SzNGZzlEZldxNE5jc2NYOFJtOTBJS2Y2TGJXVE8tZ3RPanZIUEJFY3A5Tk5sZlN4UktPZFZv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7226cd97164b",
-      "title": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val - telegraaf.nl",
-      "published": "2026-09-21T17:50:37+00:00",
-      "summary": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;telegraaf.nlVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolVaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
-      "sources": [
-        {
-          "name": "telegraaf.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmdUVVlGa1lZQ3c0MVU3RVFRWVpUZ2xBNU5Lbjh5OUxJVWxRNktKZDRmN0tOLWxOX1ZfQl9BU0JDY3lwT2FVckFuV0VOaE0wQk9kVHNDTThGVEMwUkFNSnRxS004ZWRFaFlxWHM5Q2UyT0FIQ19NeC1TenFPSU5JRDQ2cGtBYy1JTlV3TXVqd3hrQTYwWjAtTnRMTFQ3NldSaG1FcklWclVlZGc5RFdZajdoaTJJUnhoSnozdXFHdlFrcF9EaWp2MlJkSTNINGI0WGNadEUxNTZibnljQXF3?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlVYUl92RDJITXlaZG04TjMtdUs5ZTBxdVpPZElQRGRiLWxuUE5qaVIyY3FTSnNzdVdHSURWRFZ0QnhIMjFCN0F5RFRNWlZBek5KN0RkVTF4SGlvek0yN0I2N3pPUkNudE9PaVFBOURzSVdxX0JBaWE5STl1dzJXSGJyWmY3X3RSeVFNNXJwU3QxX1dGWm9UdHhZbHlMRUk5Y1pENUhia3BmMkFiVXgzcjcyajhXYXdZQ3d1bjZxOW0zSDhjdmxjNXFuR2p1VEZYVmlTMkttUQ?oc=5"
         }
       ]
     },
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "6408087d8af3",
-      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "id": "ee1a6cc20c1b",
+      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De Gelderlander",
+      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;hartvannederland.nlNieuwe prik tegen RS-virus voorkomt dat baby’s op ic belanden: dit seizoen veel minder gevallen&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWRhemNzOUZFVHFuTkh2YXpwR0hpSndzclNjQldoTFM4MzdrZk5SZjRKTDd0SUZVazlrbEdoWUVBS2Z2RUhyM2wwNzhjeTQwUXdSM05Ha3JSRUphdUFQNHlmN0dTYlVzZG1wSXFFcWJ2T2pra2xmcVVEMDdmMzNzdDBtb2Jfc1Npb1h0Y3EyQVY5VHZ1S3kyY3Z3dG1VQXNtTEY0eThDUXR3V0p4Wkl5Q3V2VmgxSzFXWFpwNkJfNXFpZGM0bjZFYVlDWWlaNUo3VElpMA?oc=5"
         }
       ]
     },
@@ -127,7 +115,7 @@
       "id": "1b7d3d1466f7",
       "title": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan - Starnieuws",
       "published": "2026-09-22T11:55:00+00:00",
-      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;waterkant.netVogelgriep in Suriname: buitenlandse tests moeten variant uitwijzen&nbsp;&nbsp;Suriname Herald",
+      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;WaterkantVogelgriep in Suriname: buitenlandse tests moeten variant uitwijzen&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
           "name": "Starnieuws",
@@ -136,14 +124,26 @@
       ]
     },
     {
-      "id": "219ce9aa65bd",
-      "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - knack.be",
+      "id": "bea7752a03c6",
+      "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;knack.beSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-LatemVaccineren tegen covid en griep? Kleine moeite!&nbsp;&nbsp;Bredene.be",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;hln.beLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-Latem",
       "sources": [
         {
-          "name": "knack.be",
+          "name": "Knack",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG9GbUk3cDA0TXlCZUtPLWptNGRGa2xHY1RmMTR6U1RZa0VLUHhKWHpCbVljZjRPdGZfVWFaS3MxY1BhbTd6SHJWZWZHY2JYVWI1eTBWQ2JxNlVCNU1lLXdMTEJFZFdBNElFb2o3bmNVTl9lejVSQlk3cVh3VWR1QTJOUnNXdnMxQkV5Yk9lZ1BjMjNPbjhMYkRIc25pSGNnWEFvckJCV3ljWHV1VS1VRzZJNWhPaEJwdlFZdmdNVnp4R2RKSmtOanc5aXhpSDUtYzlQdVJvdnBJQ29oTHVPaFNQdERsTVgtZ0lBTUdCTlNJQ1JOaUpRR3FncFhOa2F4U1ZPVXpVcGcwX3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b13da195b3bd",
+      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - Kek Mama",
+      "published": "2026-09-21T07:45:19+00:00",
+      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;Kek Mama",
+      "sources": [
+        {
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZHBXNDJLdGM4dmxvd0Fzd0QzaXhRaHVqNThNSEtZd2ZSNjdyVWo4ZkV5ZjQ2MHlraUJTWFZVYm9MNC1DQldDMi15bFp0ZjZvOF9XajR1TWlENDJMbnFkSW1vendOb1FfYVJv?oc=5"
         }
       ]
     }

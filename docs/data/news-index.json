@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-23T10:42:37.455927+00:00",
-  "count": 2,
+  "generated": "2026-09-23T16:01:50.828807+00:00",
+  "count": 1,
   "news": [
     {
       "id": "33251846e93e",
@@ -136,130 +136,6 @@
             {
               "slug": "bicalutamide",
               "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e5b57d863469",
-      "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen",
-      "published": "2026-09-21T18:30:34+00:00",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
             }
           ]
         }

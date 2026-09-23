@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-23T10:42:37.333259+00:00",
-  "count": 15,
+  "fetched_at": "2026-09-23T16:01:50.712856+00:00",
+  "count": 12,
   "news": [
     {
       "id": "c93237cb847f",
@@ -19,7 +19,7 @@
       "id": "6d32f793e42b",
       "title": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen - Hoeksch Nieuws",
       "published": "2026-09-22T15:50:04+00:00",
-      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;rtvnoord.nlMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep Flevoland",
+      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtGGD gestart met najaarsronde coronaprik voor 70-plussers en andere risicogroepen in Limburg&nbsp;&nbsp;De LimburgerCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "Hoeksch Nieuws",
@@ -43,7 +43,7 @@
       "id": "499ca9514bb3",
       "title": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend - Omroep Brabant",
       "published": "2026-09-22T11:58:00+00:00",
-      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;Omroep BrabantOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;AD.nlBuikpijn, diarree en braken: GGD rond onderzoek na uitbraak op introductiekamp BUas af&nbsp;&nbsp;BredaVandaagGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNuOnderzoek bevestigt norovirus bij 175 BUas‑studenten op introductiekamp&nbsp;&nbsp;Nationale Onderw",
+      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;Omroep BrabantOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;AD.nlBuikpijn, diarree en braken: GGD rond onderzoek na uitbraak op introductiekamp BUas af&nbsp;&nbsp;bredavandaag.nlGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNuOnderzoek bevestigt norovirus bij 175 BUas‑studenten op introductiekamp&nbsp;&nbsp;Nationale Ond",
       "sources": [
         {
           "name": "Omroep Brabant",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "6fa3e9e12eb9",
-      "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
-      "published": "2026-09-21T19:06:00+00:00",
-      "summary": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "e8025330988b",
+      "title": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen' - NOS",
+      "published": "2026-09-21T18:29:02+00:00",
+      "summary": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'&nbsp;&nbsp;NOSDodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1Kinderarts Rupa Narra is een heel positief persoon, maar bij deze ebola-uitbraak is hoop iets gevaarlijks&nbsp;&nbsp;TrouwArtsen waarschuwen dat er op sociale media ongeverifieerde informatie over ebola circuleert.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdNeFZZNks3Uy1wWlYzUjFLTFZUaXZUX25vTGc4RGxoaW4yaHdySEFBRUVYSnBDUjdsU2x1bVROWUFCOFpaRmhSNVlpcHUwTnVoR00wb0w5ai1ZQnpmdGVWclphMFlfN2RQQTk2TVAtY0stSDkyeElzaVZ5NkhfS0VGS0QwUTFyNWtHTzJESU0tVDMzZDh2aEZPdGx4YjVTbnE5WEl6dGFFamtwSXcxREdn?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpkRmdLaDY0VkhVSF95NXRCa3BLTjFfRHRSZG40TjUzTC1ObkpvLWJWbE5YQ2lEbExHTnhYeUwzRUxBZ19JbGw4NEdwLTRocVNwczJMcWRSeGRHR3J3NFM1d0ZScXJ2aXpXTlVFZGxyOE5UcEJRYWpzd0ZOM1ppeUJ1Y3FtV3lBTER1alZJcE83Yk1ZVjNLUnVjM2lwU3h4OVl6NFNLV2tralk?oc=5"
         }
       ]
     },
@@ -76,25 +76,13 @@
       ]
     },
     {
-      "id": "e8025330988b",
-      "title": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen' - NOS",
-      "published": "2026-09-21T18:29:02+00:00",
-      "summary": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'&nbsp;&nbsp;NOSKinderarts Rupa Narra is een heel positief persoon, maar bij deze ebola-uitbraak is hoop iets gevaarlijks&nbsp;&nbsp;TrouwDodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpkRmdLaDY0VkhVSF95NXRCa3BLTjFfRHRSZG40TjUzTC1ObkpvLWJWbE5YQ2lEbExHTnhYeUwzRUxBZ19JbGw4NEdwLTRocVNwczJMcWRSeGRHR3J3NFM1d0ZScXJ2aXpXTlVFZGxyOE5UcEJRYWpzd0ZOM1ppeUJ1Y3FtV3lBTER1alZJcE83Yk1ZVjNLUnVjM2lwU3h4OVl6NFNLV2tralk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4f48bcadf2f",
-      "title": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val - De Telegraaf",
+      "id": "7226cd97164b",
+      "title": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val - telegraaf.nl",
       "published": "2026-09-21T17:50:37+00:00",
-      "summary": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;De TelegraafVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolVaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
+      "summary": "Amsterdam slaat alarm om vaccinatiegraad: babyprikken tegen bof, mazelen en rodehond in vrije val&nbsp;&nbsp;telegraaf.nlVaccinatiegraad in Amsterdam stabiel, maar zorgen over baby's en jonge kinderen&nbsp;&nbsp;AT5Daling aantal vaccinaties tegen bof, mazelen en rodehond bij Amsterdamse kinderen tot 2 jaar zet door&nbsp;&nbsp;Het ParoolVaccinatiegraad bij Europese baby’s daalt sinds corona; dit is hoe Nederland het doet&nbsp;&nbsp;Scientias.nlVaccinatiegraad bij kinderen daalt in verschillende E",
       "sources": [
         {
-          "name": "De Telegraaf",
+          "name": "telegraaf.nl",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmdUVVlGa1lZQ3c0MVU3RVFRWVpUZ2xBNU5Lbjh5OUxJVWxRNktKZDRmN0tOLWxOX1ZfQl9BU0JDY3lwT2FVckFuV0VOaE0wQk9kVHNDTThGVEMwUkFNSnRxS004ZWRFaFlxWHM5Q2UyT0FIQ19NeC1TenFPSU5JRDQ2cGtBYy1JTlV3TXVqd3hrQTYwWjAtTnRMTFQ3NldSaG1FcklWclVlZGc5RFdZajdoaTJJUnhoSnozdXFHdlFrcF9EaWp2MlJkSTNINGI0WGNadEUxNTZibnljQXF3?oc=5"
         }
       ]
@@ -112,18 +100,6 @@
       ]
     },
     {
-      "id": "6408087d8af3",
-      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
-      "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
       "published": "2026-09-22T18:42:14+00:00",
@@ -136,14 +112,14 @@
       ]
     },
     {
-      "id": "0226e04feecb",
-      "title": "Onderzoek laat zien hoe de pest zich zo hard kon verspreiden: dit kunnen we ervan leren - Scientias.nl",
-      "published": "2026-09-21T14:00:43+00:00",
-      "summary": "Onderzoek laat zien hoe de pest zich zo hard kon verspreiden: dit kunnen we ervan leren&nbsp;&nbsp;Scientias.nl",
+      "id": "6408087d8af3",
+      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "published": "2026-09-19T19:30:00+00:00",
+      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2twTC02ZDMyRElQU2M1Zlcya1FnUzQ2RldMVTNFMEoxcWdQb2ZwRllWNnd4bTJuT25LZkw3LXJCSmlCOFE5a1lTbHg2RzlPM1N2LTBweXRKOEFwVmNOQmwzQks5MFVpcllDdVJmazhLTTlMVnJpbmdtQzlXeUljdWpaMnVNTnNpQzNPcGtVVFpXUkd0enptakk0NGItNU4wR0tmZ0pWVWdFZkU4?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
         }
       ]
     },
@@ -151,7 +127,7 @@
       "id": "1b7d3d1466f7",
       "title": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan - Starnieuws",
       "published": "2026-09-22T11:55:00+00:00",
-      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsSchade vogelgriep nog onbekend, LVV kan pluimveehouders niet volledig compenseren&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;WaterkantH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname Herald",
+      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;waterkant.netVogelgriep in Suriname: buitenlandse tests moeten variant uitwijzen&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
           "name": "Starnieuws",
@@ -160,22 +136,10 @@
       ]
     },
     {
-      "id": "e5b57d863469",
-      "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen - wibnet.nl",
-      "published": "2026-09-21T18:30:34+00:00",
-      "summary": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "219ce9aa65bd",
       "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - knack.be",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;knack.beSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-LatemVaccineren tegen covid en griep? Kleine moeite!&nbsp;&nbsp;bredene.be",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;knack.beSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-LatemVaccineren tegen covid en griep? Kleine moeite!&nbsp;&nbsp;Bredene.be",
       "sources": [
         {
           "name": "knack.be",

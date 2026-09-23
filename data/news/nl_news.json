@@ -1,8 +1,56 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-23T03:09:18.669828+00:00",
-  "count": 12,
+  "fetched_at": "2026-09-23T10:42:37.333259+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "c93237cb847f",
+      "title": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-09-23T07:00:00+00:00",
+      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;RTV UtrechtDode eksters uit regio hadden West-Nijlvirus&nbsp;&nbsp;Het KompasWestnijlvirus circuleert in regio Essen na testen bij paarden&nbsp;&nbsp;HLNZonder mug geen westnijlvirus&nbsp;&nbsp;Artsenkrant",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSG80TVZJUWVPTF9aVy1JaG9KTWZZakRoemp3b1FhZDBvZTRldUlFZF83UnFEQ1ZaZ3l5SjVjOFd1by16ZUo3eGQ3Szlyc1ItUk1yMTBpbUhqRlozRWhHVFpIUmFQSUxEOUVPQ21OaU9nLTY4UGZXQUx2ajFNa0R3Z0J3YXlHMlIzQTNScTZ4NEpBLTI2TUdYRzBYUXhlZkJpTWJTbnI4bXIyc3BSOVBPXzI4NHo4RHpXVHJ5NGlNNENjZ1JDQURWa3hNa3JOZWc1dXFnV21ZMTFhLXFzdEZVdXhHYXI3YzVud3dHWEZDYWVqZDFfMENJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d32f793e42b",
+      "title": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen - Hoeksch Nieuws",
+      "published": "2026-09-22T15:50:04+00:00",
+      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;rtvnoord.nlMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;Omroep Flevoland",
+      "sources": [
+        {
+          "name": "Hoeksch Nieuws",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlJpdWdTdXI2LVBtYzhDQmNROTJ6NFpzZklLQ3hUbTJGOUJPN1MtbmlUR21FVndFdnVYVDE2ck9ybTJacE5BZEJkbl9CQnc0YmZJXzlsNWpESDBOdnN2WU44X0t2cExHcWtKTDI4VFplRzZDZzhGclRwTWY3MllzclZxTjdQTGk4WFM0ZzA2RENVdFhX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22aadf2bb546",
+      "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
+      "published": "2026-09-18T21:01:00+00:00",
+      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerSanquin test bloeddonoren in Limburg op westnijlvirus&nbsp;&nbsp;L1 NieuwsSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorg",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlFFdzBKNnYxLWp1RlYzNVcxZEtqYmlEWjU1a1BiV0wtQkJNS1ZhWWF1VmRmM0pNSGh0WHRoRWQ4aXV0MmpPNVBWUXF1cW1WYUhpa0VvMEdFQlFQNDE3Qnozcm0wcDU5MF9iLVR4X1FUTTBnZ21NVGtNNmozOWR4d01ORjd3dmlfSGVaSzdPZDZRV3QwUC1mVzBnWFVkMVd5Nk83c0VvZEpubXhKWWFTM1BMYXRITjRoYU9YOFkzNTZ4N3A0S25Rc01mNzRkaHAtSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "499ca9514bb3",
+      "title": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend - Omroep Brabant",
+      "published": "2026-09-22T11:58:00+00:00",
+      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;Omroep BrabantOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;AD.nlBuikpijn, diarree en braken: GGD rond onderzoek na uitbraak op introductiekamp BUas af&nbsp;&nbsp;BredaVandaagGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNuOnderzoek bevestigt norovirus bij 175 BUas‑studenten op introductiekamp&nbsp;&nbsp;Nationale Onderw",
+      "sources": [
+        {
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3BRajZtSV9ycFhiNEVJaWtSS3BST1VLN3B2VDJEdHR3cmsyck1VaDFWS3p1SmhCYVVFN0ZvM19hRjVvUzhzZUpwYzRDOFZVa1pnRFktSHIxNl8wb05BNkVXSnliX3Fjbmh1Zl9UQk02bURpWWlfdUxheFdzaXNObzcyMThfYVdmQzk3WXFpSUp6YTZraDZibmpIRmJ0bmtIYVR1SlhQbXg2dVY3UjA3eW1uNk0?oc=5"
+        }
+      ]
+    },
     {
       "id": "6fa3e9e12eb9",
       "title": "Noodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang - Tubantia",
@@ -24,42 +72,6 @@
         {
           "name": "pzc.nl",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVpiX09HUFBjamlzLV9kMUg5NGFEUG1fNTFjRHlBTEs3V0Z3YWZkcU1WMEgtX1FyR1dTUzlVd2Q1ZTNCY1M1X29fYzRXeFFJNDQtd1F3UE9wRzNlWDQzNkxlbW1HZF9kUE1ONWxmcjM0ZzktbllsMGhJSlVHbUVWTVdHRGViUUM0TUhpR0QxcUNDbl8xdXFzN044SzNGZzlEZldxNE5jc2NYOFJtOTBJS2Y2TGJXVE8tZ3RPanZIUEJFY3A5Tk5sZlN4UktPZFZv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e423342744ac",
-      "title": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen' - RTV Noord",
-      "published": "2026-09-21T17:31:51+00:00",
-      "summary": "Coronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestOuderen en mensen met gezondheidsproblemen kunnen coronaprik halen bij GGD&nbsp;&nbsp;omroepflevoland.nlJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtCoronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch Nieuws",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlBUaXhEc3RuRzlyMDNrNkEzVEtMSXB5WDBKeUl6azZtaTBfcWFLVUhjQVNNd2RZUHYyMWN4b2UtWGRHNjRsUUMyaWVPeF9pSUFpWkllX0JIdEhOV2s2SDlUQTFVMUt6Um5fay04TXMzaGhXVWdmYXg0VVZHcHRvU0ZPcVZfME5PNjN1U2UwQjhwRFdFOHU2aXBrR2pFdWxWSkluRksxLVBzRW55Nkg0X2lHUlVmX3JP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02fc4e5e667e",
-      "title": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten - Testaankoop",
-      "published": "2026-09-21T11:38:00+00:00",
-      "summary": "Westnijlvirus: handige tips om jezelf te beschermen tegen muggenbeten&nbsp;&nbsp;TestaankoopNadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;ad.nlVierde dode na besmetting westnijlvirus, patiënt besmet door bloedtransfusie&nbsp;&nbsp;NOSVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerSanquin test bloeddonoren in Limburg op westn",
-      "sources": [
-        {
-          "name": "Testaankoop",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelRSWWZoME9jM2xuTTltR3U1MkJjZF8zdVZfOXVJSjEySnNpLU5zWmlBZnpCRktYYUIyUkpHaGJMSER6SU9mYzRvS0dRdjFKS3d5RHJ4LWEwQXh0eEZPQjF1d3ZBVElXeWg5TVVpcmpBRVR4UXF0eVNpQ19zOFRmVEtCcWFkR0NDMzhnVkxlLU1ZeWsyUUQ1TS05MURQWDFhVGVreTRZRm02VXV6ZnhRdEtGVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92cbc6476c71",
-      "title": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend - omroepbrabant.nl",
-      "published": "2026-09-22T11:58:00+00:00",
-      "summary": "Oorzaak norovirus op introductiekamp Bredase studenten blijft onbekend&nbsp;&nbsp;omroepbrabant.nlOnderzoek bevestigt: 175 studenten van Bredase hogeschool werden ziek door norovirus&nbsp;&nbsp;ad.nlOnderzoek naar uitbraak op BUas-introductiekamp afgerond&nbsp;&nbsp;GGD West-BrabantGGD sluit onderzoek af: BUas studenten werden inderdaad ziek door norovirus&nbsp;&nbsp;BredaNu",
-      "sources": [
-        {
-          "name": "omroepbrabant.nl",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3BRajZtSV9ycFhiNEVJaWtSS3BST1VLN3B2VDJEdHR3cmsyck1VaDFWS3p1SmhCYVVFN0ZvM19hRjVvUzhzZUpwYzRDOFZVa1pnRFktSHIxNl8wb05BNkVXSnliX3Fjbmh1Zl9UQk02bURpWWlfdUxheFdzaXNObzcyMThfYVdmQzk3WXFpSUp6YTZraDZibmpIRmJ0bmtIYVR1SlhQbXg2dVY3UjA3eW1uNk0?oc=5"
         }
       ]
     },
@@ -100,26 +112,26 @@
       ]
     },
     {
-      "id": "2a71dfb6f743",
-      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - gelderlander.nl",
+      "id": "6408087d8af3",
+      "title": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;gelderlander.nlMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;gelderlander.nlPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;ad.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
+      "summary": "Veel minder kinderen op de intensive care met RS-virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMinder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van Nederland",
       "sources": [
         {
-          "name": "gelderlander.nl",
+          "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QVWwySDVfZnhmYjE5VngzQ0Jlb3RJWkpNN2hsUlAxUDVTZld6ZC1oZDFxaXRPTEVOZXNzdHNZMHJjaU5iV0EyTDBYTVZNMG1ESDFOVExQRzYxNVZLTHNad1R0b01TckRfMXVsR3Q1RndXRjc0dmlTTEJGem1vd3M3RldaWDhRUUhiM2NERU11eHByN2dsNVY4T2xWd1h2N2tWcWRQZW01VkVEWnI1ZWwzaWx1eVM0ZWp4alMxdmJ0RExDeFItazFOVmp4enVINE1yMg?oc=5"
         }
       ]
     },
     {
-      "id": "1b7d3d1466f7",
-      "title": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan - Starnieuws",
-      "published": "2026-09-22T11:55:00+00:00",
-      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsSchade vogelgriep nog onbekend, LVV kan pluimveehouders niet volledig compenseren&nbsp;&nbsp;srherald.comVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;WaterkantH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;srherald.com",
+      "id": "33251846e93e",
+      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
+      "published": "2026-09-22T18:42:14+00:00",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LUDg0UjJzaHZIYVRROWxybW5wd0t1OUV3Z2ZYNUV4TkkwaUdXNzVDTnZkandnM3FVSXotU1JibW53anpvNG13VjJuSklfbU5ybkQ1SGd6UEU2YnpzOGp3alpZVzM3a0lRYmstTUVmQ29rR0xTUnc?oc=5"
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5"
         }
       ]
     },
@@ -136,6 +148,18 @@
       ]
     },
     {
+      "id": "1b7d3d1466f7",
+      "title": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan - Starnieuws",
+      "published": "2026-09-22T11:55:00+00:00",
+      "summary": "Vogelgriep bevestigd op pluimveebedrijf, LVV scherpt aanpak aan&nbsp;&nbsp;StarnieuwsSchade vogelgriep nog onbekend, LVV kan pluimveehouders niet volledig compenseren&nbsp;&nbsp;Suriname HeraldVogelgriep vastgesteld na massale sterfte onder kippen&nbsp;&nbsp;Times of SurinameVogelgriep slaat toe in Suriname: ruim 5.000 kippen dood, bedrijven binnen 3 kilometer onderzocht&nbsp;&nbsp;WaterkantH5-vogelgriep: nog geen besmettingen bij mensen vastgesteld in Suriname&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LUDg0UjJzaHZIYVRROWxybW5wd0t1OUV3Z2ZYNUV4TkkwaUdXNzVDTnZkandnM3FVSXotU1JibW53anpvNG13VjJuSklfbU5ybkQ1SGd6UEU2YnpzOGp3alpZVzM3a0lRYmstTUVmQ29rR0xTUnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e5b57d863469",
       "title": "Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen - wibnet.nl",
       "published": "2026-09-21T18:30:34+00:00",
@@ -144,6 +168,18 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "219ce9aa65bd",
+      "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - knack.be",
+      "published": "2026-09-22T14:39:46+00:00",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;knack.beSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-LatemVaccineren tegen covid en griep? Kleine moeite!&nbsp;&nbsp;bredene.be",
+      "sources": [
+        {
+          "name": "knack.be",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG9GbUk3cDA0TXlCZUtPLWptNGRGa2xHY1RmMTR6U1RZa0VLUHhKWHpCbVljZjRPdGZfVWFaS3MxY1BhbTd6SHJWZWZHY2JYVWI1eTBWQ2JxNlVCNU1lLXdMTEJFZFdBNElFb2o3bmNVTl9lejVSQlk3cVh3VWR1QTJOUnNXdnMxQkV5Yk9lZ1BjMjNPbjhMYkRIc25pSGNnWEFvckJCV3ljWHV1VS1VRzZJNWhPaEJwdlFZdmdNVnp4R2RKSmtOanc5aXhpSDUtYzlQdVJvdnBJQ29oTHVPaFNQdERsTVgtZ0lBTUdCTlNJQ1JOaUpRR3FncFhOa2F4U1ZPVXpVcGcwX3c?oc=5"
         }
       ]
     }

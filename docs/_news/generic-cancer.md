@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
+
+2026-09-22
+
+Bron: [Welingelichte Kringen](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
+
+---
 
 ### [Na talloze studies weet kankeronderzoeker met 38 jaar ervaring het zeker. Dit is het voedingsmiddel dat ze zelf vermijdt om haar risico op darmkanker te verlagen](https://news.google.com/rss/articles/CBMimAJBVV95cUxPdllJZjBFNWh2RDVGeXpkZ3VxWEdUc3o0ekNMQTZYMTR1Tng4X2hjOVdvRjEtY3AxV0hhNlZiZGI5VUVrMGVRb0ZTcHV4YS11OEluWk1NcUpQQ2ZvNWN6SDl1ekVmR19jZWVIMzllRVNoQ2tLZ2NRN1NvNS1QcXQ5QnFHQTBtaXlSX2VQRmExc1JQLTBWbWRZWFh3aUEyN2I1WFZXLW9FMFBxZHA0NGNCSGlUNmc1V3FIR0h1cW5SSENzUG9ZN2phMjExSERZNVFfY3NQWTQ5UVpYeF9lMExjNl9CMW9FUllhWHU1bVNiS0VKSUxsR1FOU2JUMWw2U0lsanQ0Z1RMdHBnUnNNeWt6S0VzU19XS3cy?oc=5)
 

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-23T21:01:56.809538+00:00",
+  "fetched_at": "2026-09-24T02:59:51.848665+00:00",
   "count": 12,
   "news": [
     {
       "id": "c93237cb847f",
       "title": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-09-23T07:00:00+00:00",
-      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;rtvutrecht.nlDode eksters uit regio hadden West-Nijlvirus&nbsp;&nbsp;Het KompasWestnijlvirus circuleert in regio Essen na testen bij paarden&nbsp;&nbsp;hln.beZonder mug geen westnijlvirus&nbsp;&nbsp;Artsenkrant",
+      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;RTV UtrechtDode eksters uit regio hadden West-Nijlvirus&nbsp;&nbsp;Het KompasWestnijlvirus circuleert in regio Essen na testen bij paarden&nbsp;&nbsp;HLNZonder mug geen westnijlvirus&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -31,7 +31,7 @@
       "id": "6d32f793e42b",
       "title": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen - Hoeksch Nieuws",
       "published": "2026-09-22T15:50:04+00:00",
-      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtGGD gestart met najaarsronde coronaprik voor 70-plussers en andere risicogroepen in Limburg&nbsp;&nbsp;De LimburgerCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV NoordMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep West",
+      "summary": "Coronaprik 2026: belangrijke wijziging voor 50- tot 69-jarigen&nbsp;&nbsp;Hoeksch NieuwsMinder mensen halen coronaprik, maar dat komt niet alleen door prikmoeheid&nbsp;&nbsp;Omroep WestGGD Fryslân geeft coronaprik in Hollum&nbsp;&nbsp;AD.nlJaarlijkse najaarsronde coronaprik&nbsp;&nbsp;De Nieuwe Ster MaastrichtCoronavaccinatieprogramma van start in Appingedam: 'Voorkomen is beter dan genezen'&nbsp;&nbsp;RTV Noord",
       "sources": [
         {
           "name": "Hoeksch Nieuws",
@@ -40,9 +40,21 @@
       ]
     },
     {
+      "id": "fbe072c1f8a2",
+      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - gelderlander.nl",
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;gelderlander.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "gelderlander.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlVYUl92RDJITXlaZG04TjMtdUs5ZTBxdVpPZElQRGRiLWxuUE5qaVIyY3FTSnNzdVdHSURWRFZ0QnhIMjFCN0F5RFRNWlZBek5KN0RkVTF4SGlvek0yN0I2N3pPUkNudE9PaVFBOURzSVdxX0JBaWE5STl1dzJXSGJyWmY3X3RSeVFNNXJwU3QxX1dGWm9UdHhZbHlMRUk5Y1pENUhia3BmMkFiVXgzcjcyajhXYXdZQ3d1bjZxOW0zSDhjdmxjNXFuR2p1VEZYVmlTMkttUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1fea3a045111",
       "title": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’ - De Telegraaf",
-      "published": "2026-09-23T13:30:00+00:00",
+      "published": "2026-09-23T20:30:00+00:00",
       "summary": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -60,18 +72,6 @@
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpkRmdLaDY0VkhVSF95NXRCa3BLTjFfRHRSZG40TjUzTC1ObkpvLWJWbE5YQ2lEbExHTnhYeUwzRUxBZ19JbGw4NEdwLTRocVNwczJMcWRSeGRHR3J3NFM1d0ZScXJ2aXpXTlVFZGxyOE5UcEJRYWpzd0ZOM1ppeUJ1Y3FtV3lBTER1alZJcE83Yk1ZVjNLUnVjM2lwU3h4OVl6NFNLV2tralk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac4555fb73d5",
-      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - De Gelderlander",
-      "published": "2026-09-22T12:00:00+00:00",
-      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlVYUl92RDJITXlaZG04TjMtdUs5ZTBxdVpPZElQRGRiLWxuUE5qaVIyY3FTSnNzdVdHSURWRFZ0QnhIMjFCN0F5RFRNWlZBek5KN0RkVTF4SGlvek0yN0I2N3pPUkNudE9PaVFBOURzSVdxX0JBaWE5STl1dzJXSGJyWmY3X3RSeVFNNXJwU3QxX1dGWm9UdHhZbHlMRUk5Y1pENUhia3BmMkFiVXgzcjcyajhXYXdZQ3d1bjZxOW0zSDhjdmxjNXFuR2p1VEZYVmlTMkttUQ?oc=5"
         }
       ]
     },
@@ -100,13 +100,13 @@
       ]
     },
     {
-      "id": "ee1a6cc20c1b",
-      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "id": "a435f3cd6395",
+      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - gelderlander.nl",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;hartvannederland.nlNieuwe prik tegen RS-virus voorkomt dat baby’s op ic belanden: dit seizoen veel minder gevallen&nbsp;&nbsp;AD.nl",
+      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;gelderlander.nlPediaters vragen aandacht voor catch-upimmunisatie tegen RSV&nbsp;&nbsp;ArtsenkrantBaby’s in Waterland kunnen prik tegen RS-virus krijgen&nbsp;&nbsp;AD.nl'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandNieuwe prik tegen RS-virus voorkomt dat baby’s op ic belanden: dit seizoen veel minder gevallen&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "De Gelderlander",
+          "name": "gelderlander.nl",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWRhemNzOUZFVHFuTkh2YXpwR0hpSndzclNjQldoTFM4MzdrZk5SZjRKTDd0SUZVazlrbEdoWUVBS2Z2RUhyM2wwNzhjeTQwUXdSM05Ha3JSRUphdUFQNHlmN0dTYlVzZG1wSXFFcWJ2T2pra2xmcVVEMDdmMzNzdDBtb2Jfc1Npb1h0Y3EyQVY5VHZ1S3kyY3Z3dG1VQXNtTEY0eThDUXR3V0p4Wkl5Q3V2VmgxSzFXWFpwNkJfNXFpZGM0bjZFYVlDWWlaNUo3VElpMA?oc=5"
         }
       ]
@@ -127,7 +127,7 @@
       "id": "bea7752a03c6",
       "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;hln.beLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-Latem",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en anderen&nbsp;&nbsp;Gemeente Sint-Martens-Latem",
       "sources": [
         {
           "name": "Knack",

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
 ### [Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5)
 
 2026-09-25 <span class="news-indication-tag">dementie</span>
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5)
+
+---
+
+### [Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXdmSHZhZVlrbGtrMHVLbW5UTGdLTFlmVFloNTE2cWtNLTY0OWt4SW9MTkhoMUxhVHhHek9LWl9hYU1URW5OWEtPUDFPMlhGbXAwTHZhY3JaZjl5c25Vd0VYOEJmdFV2VFM0YzBLQ2dqbmRQSHB6TThTVmMtSFpkbHVFZHBZWFR4RUJVVGhtOVhna1FSczJoWHRBT01JZDhudExXM3lzdUFpZDUwZWhlMjducVBlVm9CMVd0STdQRmhFeF9xNzhQdzBKbGxJT18ycGtmQU9nZGY?oc=5)
+
+2026-09-24 <span class="news-indication-tag">dementie</span>
+
+Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXdmSHZhZVlrbGtrMHVLbW5UTGdLTFlmVFloNTE2cWtNLTY0OWt4SW9MTkhoMUxhVHhHek9LWl9hYU1URW5OWEtPUDFPMlhGbXAwTHZhY3JaZjl5c25Vd0VYOEJmdFV2VFM0YzBLQ2dqbmRQSHB6TThTVmMtSFpkbHVFZHBZWFR4RUJVVGhtOVhna1FSczJoWHRBT01JZDhudExXM3lzdUFpZDUwZWhlMjducVBlVm9CMVd0STdQRmhFeF9xNzhQdzBKbGxJT18ycGtmQU9nZGY?oc=5)
 
 ---
 

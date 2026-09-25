@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T16:26:59.849029+00:00",
-  "count": 2,
+  "generated": "2026-09-25T21:03:29.346996+00:00",
+  "count": 3,
   "news": [
     {
       "id": "c4083e1fda0d",
@@ -10,6 +10,30 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5771687e8409",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
+      "published": "2026-09-24T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXdmSHZhZVlrbGtrMHVLbW5UTGdLTFlmVFloNTE2cWtNLTY0OWt4SW9MTkhoMUxhVHhHek9LWl9hYU1URW5OWEtPUDFPMlhGbXAwTHZhY3JaZjl5c25Vd0VYOEJmdFV2VFM0YzBLQ2dqbmRQSHB6TThTVmMtSFpkbHVFZHBZWFR4RUJVVGhtOVhna1FSczJoWHRBT01JZDhudExXM3lzdUFpZDUwZWhlMjducVBlVm9CMVd0STdQRmhFeF9xNzhQdzBKbGxJT18ycGtmQU9nZGY?oc=5"
         }
       ],
       "keywords": [

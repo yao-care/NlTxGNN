@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-25T16:26:59.783165+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-25T21:03:29.252065+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "22aadf2bb546",
-      "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
-      "published": "2026-09-18T21:01:00+00:00",
-      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "d578648c90a4",
+      "title": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch - Brabants Dagblad",
+      "published": "2026-09-25T18:00:55+00:00",
+      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;de StentorGeen paniek, wel opletten: dit moet je weten over het westnijlvirus&nbsp;&nbsp;AD.nlVijfde persoon met westnijlvirus overleden, RIVM meldt 16 nieuwe gevallen in een week&nbsp;&nbsp;AD.nlExpert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;de ",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlFFdzBKNnYxLWp1RlYzNVcxZEtqYmlEWjU1a1BiV0wtQkJNS1ZhWWF1VmRmM0pNSGh0WHRoRWQ4aXV0MmpPNVBWUXF1cW1WYUhpa0VvMEdFQlFQNDE3Qnozcm0wcDU5MF9iLVR4X1FUTTBnZ21NVGtNNmozOWR4d01ORjd3dmlfSGVaSzdPZDZRV3QwUC1mVzBnWFVkMVd5Nk83c0VvZEpubXhKWWFTM1BMYXRITjRoYU9YOFkzNTZ4N3A0S25Rc01mNzRkaHAtSkE?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazNiQzU3aDFZUXlNX2hIMXNYRC12dWJEVUNDeEhGYlVnbklWSmJMWE1OeHVSWDFETU15OU8xdGQxOUpGOHU2Q1Q2Q0FEam1LMjRTdjZRYjFmODJZQV9qZTFMSWhrbVJwamRZX0FYOFRCRnctYjh3WVVrUVI2aG05VTVYZXNWaFEyZXBhUXBfWGdOd2lGcThPaFFDSEtJbUdfZ2lUX1F5XzVyUjBIWVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5771687e8409",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
+      "published": "2026-09-24T19:00:00+00:00",
+      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;De GelderlanderWe kunnen wél wat doen om dementie te voorkomen: aanpassing leefgewoonten kan grote impact hebben&nbsp;&nbsp;AD.nl4 gewoontes waarmee je jouw kans op dementie verkleint&nbsp;&nbsp;quest.nlNieuw onderzoek: eenzaamheid vergroot de kans op dementie&nbsp;&nbsp;Het ParoolHersenonderzoeker: Alzheimer ontwikkelt zich ’s nachts – dit is de simpele routine die ik zelf volg om de d",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXdmSHZhZVlrbGtrMHVLbW5UTGdLTFlmVFloNTE2cWtNLTY0OWt4SW9MTkhoMUxhVHhHek9LWl9hYU1URW5OWEtPUDFPMlhGbXAwTHZhY3JaZjl5c25Vd0VYOEJmdFV2VFM0YzBLQ2dqbmRQSHB6TThTVmMtSFpkbHVFZHBZWFR4RUJVVGhtOVhna1FSczJoWHRBT01JZDhudExXM3lzdUFpZDUwZWhlMjducVBlVm9CMVd0STdQRmhFeF9xNzhQdzBKbGxJT18ycGtmQU9nZGY?oc=5"
         }
       ]
     },
@@ -40,22 +52,10 @@
       ]
     },
     {
-      "id": "72e468b1be2d",
-      "title": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad? - DVHN",
-      "published": "2026-09-24T06:30:00+00:00",
-      "summary": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad?&nbsp;&nbsp;DVHNHoesten, niezen en de griepprik halen: welkom in de r-maanden&nbsp;&nbsp;BnnvaraNoodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;tubantia.nlPatiënten onzeker door latere griepprik, maar medisch is het geen probleem&nbsp;&nbsp;De LimburgerMededeling griepvaccinaties&nbsp;&nbsp;helvoirt.net",
-      "sources": [
-        {
-          "name": "DVHN",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWnZOLUVpVU14anhtdng3eFU5STZKWEVvdU5EYks3S3RJcG5kc3FzR21fTnZ3SGlXdkNobFZyT2FTS2YyQzhOMHJrN01sbkpLOVVMNlZldnh1ay1XOGplR1ppZ3B2RzgyQVp4MTZfVjBoZGxjdUZmX1NMbDc0ZHdoYW43TkhLUmRHa21laHoxY0JOZ3BmWFd5MGdvZHZtckNVc29iX0ZHTzI4THlPMkVFdUlUOS05VzFlZU4wUWIwajZuUmJVbHNEcXF0Q2RvQkVISFJvc3JSNXhvZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
       "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;hln.be",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -76,6 +76,18 @@
       ]
     },
     {
+      "id": "22aadf2bb546",
+      "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
+      "published": "2026-09-18T21:01:00+00:00",
+      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlFFdzBKNnYxLWp1RlYzNVcxZEtqYmlEWjU1a1BiV0wtQkJNS1ZhWWF1VmRmM0pNSGh0WHRoRWQ4aXV0MmpPNVBWUXF1cW1WYUhpa0VvMEdFQlFQNDE3Qnozcm0wcDU5MF9iLVR4X1FUTTBnZ21NVGtNNmozOWR4d01ORjd3dmlfSGVaSzdPZDZRV3QwUC1mVzBnWFVkMVd5Nk83c0VvZEpubXhKWWFTM1BMYXRITjRoYU9YOFkzNTZ4N3A0S25Rc01mNzRkaHAtSkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b13da195b3bd",
       "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - Kek Mama",
       "published": "2026-09-21T07:45:19+00:00",
@@ -91,7 +103,7 @@
       "id": "bea7752a03c6",
       "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;hln.be",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackDr. Charlotte Trouvé van AZ Zeno: voor wie zijn griep- en covidvaccins dit najaar belangrijk?&nbsp;&nbsp;Lokaalnieuws.onlineSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "Knack",

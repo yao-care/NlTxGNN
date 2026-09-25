@@ -1,25 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-24T21:06:01.321034+00:00",
-  "count": 12,
+  "fetched_at": "2026-09-25T03:17:14.482419+00:00",
+  "count": 11,
   "news": [
-    {
-      "id": "43093ee240a7",
-      "title": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld - nrc.nl",
-      "published": "2026-09-23T07:00:00+00:00",
-      "summary": "Het paard met westnijlkoorts krijgt hangende lippen, spiertrekkingen en moet door de brandweer overeind worden getakeld&nbsp;&nbsp;nrc.nlPaardenhouders staan in de rij voor vaccin westnijlvirus, ziet dierenarts Yteke&nbsp;&nbsp;RTV UtrechtHeb jij je paarden geënt tegen het Westnijlvirus? *POLL*&nbsp;&nbsp;Hoefslag",
-      "sources": [
-        {
-          "name": "nrc.nl",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSG80TVZJUWVPTF9aVy1JaG9KTWZZakRoemp3b1FhZDBvZTRldUlFZF83UnFEQ1ZaZ3l5SjVjOFd1by16ZUo3eGQ3Szlyc1ItUk1yMTBpbUhqRlozRWhHVFpIUmFQSUxEOUVPQ21OaU9nLTY4UGZXQUx2ajFNa0R3Z0J3YXlHMlIzQTNScTZ4NEpBLTI2TUdYRzBYUXhlZkJpTWJTbnI4bXIyc3BSOVBPXzI4NHo4RHpXVHJ5NGlNNENjZ1JDQURWa3hNa3JOZWc1dXFnV21ZMTFhLXFzdEZVdXhHYXI3YzVud3dHWEZDYWVqZDFfMENJ?oc=5"
-        }
-      ]
-    },
     {
       "id": "22aadf2bb546",
       "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
       "published": "2026-09-18T21:01:00+00:00",
-      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;limburger.nlSanquin test bloeddonoren in Limburg op westnijlvirus&nbsp;&nbsp;l1nieuws.nlSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;BN DeStem",
+      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerSanquin test bloeddonoren in Limburg op westnijlvirus&nbsp;&nbsp;L1 NieuwsSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;BN DeStem",
       "sources": [
         {
           "name": "AD.nl",
@@ -31,7 +19,7 @@
       "id": "72e468b1be2d",
       "title": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad? - DVHN",
       "published": "2026-09-24T13:30:00+00:00",
-      "summary": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad?&nbsp;&nbsp;DVHNHoesten, niezen en de griepprik halen: welkom in de r-maanden&nbsp;&nbsp;BnnvaraNoodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten onzeker door latere griepprik, maar medisch is het geen probleem&nbsp;&nbsp;limburger.nlGriepprikken Akkrum-Nes later door vertraagde levering&nbsp;&nbsp;Akkrum.net",
+      "summary": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad?&nbsp;&nbsp;DVHNHoesten, niezen en de griepprik halen: welkom in de r-maanden&nbsp;&nbsp;BnnvaraNoodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten onzeker door latere griepprik, maar medisch is het geen probleem&nbsp;&nbsp;De LimburgerMededeling griepvaccinaties&nbsp;&nbsp;helvoirt.net",
       "sources": [
         {
           "name": "DVHN",
@@ -43,7 +31,7 @@
       "id": "e8025330988b",
       "title": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen' - NOS",
       "published": "2026-09-21T18:29:02+00:00",
-      "summary": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'&nbsp;&nbsp;NOSDodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1Kinderarts Rupa Narra is een heel positief persoon, maar bij deze ebola-uitbraak is hoop iets gevaarlijks&nbsp;&nbsp;TrouwArtsen waarschuwen dat er op sociale media ongeverifieerde informatie over ebola circuleert.&nbsp;&nbsp;vietnam.vn",
+      "summary": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'&nbsp;&nbsp;NOSDodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radio 1Kinderarts Rupa Narra is een heel positief persoon, maar bij deze ebola-uitbraak is hoop iets gevaarlijks&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "NOS",
@@ -52,13 +40,13 @@
       ]
     },
     {
-      "id": "4d1e198b4187",
-      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - ed.nl",
+      "id": "fa1d3baaf843",
+      "title": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’ - Eindhovens Dagblad",
       "published": "2026-09-22T12:00:00+00:00",
-      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;ed.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Eindelijk krijgen alle zestigers een gordelroosprik: ‘Ziekte ernstiger en pijnlijker dan je denkt’&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "ed.nl",
+          "name": "Eindhovens Dagblad",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeldTMjVOYnNUOEhjSl9qWVh0OGZzQTMtR3FCTldCbTFUMWJoRXVJSzJkOWZaaUVrUFhUTTFhVUlzWHNaaGlMaTVLaVg1OG1QRFhzYWl6QjZWLXE2S25KcVBqQ2xyRWNZcUhHV2pZT0ZRZDdoRXBVOU56cmp5bWxXN0tNNzI4QUFDOU1ZUVlUZE5HVThCTU5RTnRlai02UmN4U2JHM3J3NTJPaEhjUWRuU003TndNdWUydGZ3MVhwd0Z4bHBNM2xMbFVTcWYxeFU?oc=5"
         }
       ]
@@ -67,7 +55,7 @@
       "id": "3febb02a26aa",
       "title": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep - de Volkskrant",
       "published": "2026-09-21T12:54:00+00:00",
-      "summary": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep&nbsp;&nbsp;de VolkskrantGrieperig? Het is wellicht geen griep: ‘Een bont allegaartje virussen doet momenteel de ronde’&nbsp;&nbsp;De MorgenMarc Van Ranst: “Verkoudheidsvirussen vieren opnieuw hoogtij, en dat is heel normaal”&nbsp;&nbsp;rtv.beVirusseizoen is begonnen, en ook corona piekt dan: “We weten niet goed hoe dat komt”&nbsp;&nbsp;HBVL",
+      "summary": "Ligt u grieperig op bed? Het is waarschijnlijk niet de griep&nbsp;&nbsp;de VolkskrantVirusseizoen is begonnen, en ook corona piekt dan: “We weten niet goed hoe dat komt”&nbsp;&nbsp;NieuwsbladGrieperig? Het is wellicht geen griep: ‘Een bont allegaartje virussen doet momenteel de ronde’&nbsp;&nbsp;De MorgenMarc Van Ranst: “Verkoudheidsvirussen vieren opnieuw hoogtij, en dat is heel normaal”&nbsp;&nbsp;rtv.beStijgende coronacijfers kondigen start virusseizoen aan: “Gelukkig pieken ze niet allemaal ",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -91,7 +79,7 @@
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
       "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte Kringen#WanderBoobs: Borstkankeralarmsignalen nog onvoldoende gekend&nbsp;&nbsp;NovartisPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -124,25 +112,25 @@
       ]
     },
     {
-      "id": "36c99e72d830",
-      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - kekmama.nl",
+      "id": "b13da195b3bd",
+      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - Kek Mama",
       "published": "2026-09-21T07:45:19+00:00",
-      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;kekmama.nl",
+      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;Kek Mama",
       "sources": [
         {
-          "name": "kekmama.nl",
+          "name": "Kek Mama",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZHBXNDJLdGM4dmxvd0Fzd0QzaXhRaHVqNThNSEtZd2ZSNjdyVWo4ZkV5ZjQ2MHlraUJTWFZVYm9MNC1DQldDMi15bFp0ZjZvOF9XajR1TWlENDJMbnFkSW1vendOb1FfYVJv?oc=5"
         }
       ]
     },
     {
-      "id": "219ce9aa65bd",
-      "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - knack.be",
+      "id": "bea7752a03c6",
+      "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;knack.beHamont-Achel - Griep- en covidprik op één moment&nbsp;&nbsp;De InternetgazetSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLN",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackHamont-Achel - Griep- en covidprik op één moment&nbsp;&nbsp;De InternetgazetSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "knack.be",
+          "name": "Knack",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG9GbUk3cDA0TXlCZUtPLWptNGRGa2xHY1RmMTR6U1RZa0VLUHhKWHpCbVljZjRPdGZfVWFaS3MxY1BhbTd6SHJWZWZHY2JYVWI1eTBWQ2JxNlVCNU1lLXdMTEJFZFdBNElFb2o3bmNVTl9lejVSQlk3cVh3VWR1QTJOUnNXdnMxQkV5Yk9lZ1BjMjNPbjhMYkRIc25pSGNnWEFvckJCV3ljWHV1VS1VRzZJNWhPaEJwdlFZdmdNVnp4R2RKSmtOanc5aXhpSDUtYzlQdVJvdnBJQ29oTHVPaFNQdERsTVgtZ0lBTUdCTlNJQ1JOaUpRR3FncFhOa2F4U1ZPVXpVcGcwX3c?oc=5"
         }
       ]

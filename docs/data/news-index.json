@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-25T11:03:40.176342+00:00",
-  "count": 1,
+  "generated": "2026-09-25T16:26:59.849029+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "c4083e1fda0d",
+      "title": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’",
+      "published": "2026-09-25T08:47:36+00:00",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",

@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-25T11:03:40.070571+00:00",
+  "fetched_at": "2026-09-25T16:26:59.783165+00:00",
   "count": 8,
   "news": [
     {
       "id": "22aadf2bb546",
       "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
       "published": "2026-09-18T21:01:00+00:00",
-      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlVier Nederlanders en een heleboel vogels stierven er al aan, kruipt het westnijlvirus nu ook naar Limburg? ‘Geen uitbraak als corona’&nbsp;&nbsp;De LimburgerSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;BN DeStem",
+      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlFFdzBKNnYxLWp1RlYzNVcxZEtqYmlEWjU1a1BiV0wtQkJNS1ZhWWF1VmRmM0pNSGh0WHRoRWQ4aXV0MmpPNVBWUXF1cW1WYUhpa0VvMEdFQlFQNDE3Qnozcm0wcDU5MF9iLVR4X1FUTTBnZ21NVGtNNmozOWR4d01ORjd3dmlfSGVaSzdPZDZRV3QwUC1mVzBnWFVkMVd5Nk83c0VvZEpubXhKWWFTM1BMYXRITjRoYU9YOFkzNTZ4N3A0S25Rc01mNzRkaHAtSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4083e1fda0d",
+      "title": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’ - AD.nl",
+      "published": "2026-09-25T08:47:36+00:00",
+      "summary": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’&nbsp;&nbsp;AD.nlZorgen over mantelzorgers op Limburgse Alzheimer-dag&nbsp;&nbsp;L1 Nieuws‘Met de groeten van Wil’: aandacht voor meedoen en mantelzorg&nbsp;&nbsp;rtvnof.nlCampagneweek ‘Den Tied van Toen’ in Pelt legt focus op leven met dementie&nbsp;&nbsp;TV LimburgOpinie | Langer thuis leven met dementie vraagt (te) veel van mantelzorgers en naasten&nbsp;&nbsp;Zorgvisie",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5"
         }
       ]
     },
@@ -31,7 +43,7 @@
       "id": "72e468b1be2d",
       "title": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad? - DVHN",
       "published": "2026-09-24T06:30:00+00:00",
-      "summary": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad?&nbsp;&nbsp;DVHNHoesten, niezen en de griepprik halen: welkom in de r-maanden&nbsp;&nbsp;BnnvaraNoodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;TubantiaPatiënten onzeker door latere griepprik, maar medisch is het geen probleem&nbsp;&nbsp;De LimburgerMededeling griepvaccinaties&nbsp;&nbsp;helvoirt.net",
+      "summary": "Huisartsen in Groningen en Drenthe zetten griepprik dit najaar een maand later. Kan dat kwaad?&nbsp;&nbsp;DVHNHoesten, niezen en de griepprik halen: welkom in de r-maanden&nbsp;&nbsp;BnnvaraNoodoplossing voor tekort aan griepvaccin: kwetsbaren krijgen voorrang&nbsp;&nbsp;tubantia.nlPatiënten onzeker door latere griepprik, maar medisch is het geen probleem&nbsp;&nbsp;De LimburgerMededeling griepvaccinaties&nbsp;&nbsp;helvoirt.net",
       "sources": [
         {
           "name": "DVHN",
@@ -43,7 +55,7 @@
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
       "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;hln.be",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -55,7 +67,7 @@
       "id": "ee1a6cc20c1b",
       "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De Gelderlander'Aantal baby's met ernstig RS-virus daalt fors na nieuwe prik'&nbsp;&nbsp;Hart van NederlandNieuwe prik tegen RS-virus voorkomt dat baby’s op ic belanden: dit seizoen veel minder gevallen&nbsp;&nbsp;AD.nl",
+      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -64,25 +76,13 @@
       ]
     },
     {
-      "id": "750faf73b38a",
-      "title": "FOD Volksgezondheid waarschuwt: vermijd deze gevaarlijke fouten tijdens het poetsen - redactie24.be",
-      "published": "2026-09-23T19:30:00+00:00",
-      "summary": "FOD Volksgezondheid waarschuwt: vermijd deze gevaarlijke fouten tijdens het poetsen&nbsp;&nbsp;redactie24.beBelgen gebruiken desinfecterende producten onnodig | FOD Volksgezondheid&nbsp;&nbsp;FPS Public HealthFOD Volksgezondheid waarshuwt voor onnodig gebruik van desinfecterende producten&nbsp;&nbsp;TV Limburg",
-      "sources": [
-        {
-          "name": "redactie24.be",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3NNUEhZRURJcTF2TTR0OTYzRHh3S01mZndjN0REWUs0aEhSUkdabF9jbjJVYnBaQzlxOE54bXFPdUpzN1RSWkpWam1iU0xPZHowYnplZ0pCeFhkYmVMRTZpdmk3OUE2d3NNWElZMnhNalFTMm1FQkIwNU94QS0yUUhVRTBWcm9iVi1uMHl3NlpnLTkwdGFxY1EzTDRDbnVZV0pPSWJUMUFsLU1hQS14UU9pOERzV1FGU05HUHBmby1BTnBI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36c99e72d830",
-      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - kekmama.nl",
+      "id": "b13da195b3bd",
+      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - Kek Mama",
       "published": "2026-09-21T07:45:19+00:00",
-      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;kekmama.nl",
+      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;Kek Mama",
       "sources": [
         {
-          "name": "kekmama.nl",
+          "name": "Kek Mama",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZHBXNDJLdGM4dmxvd0Fzd0QzaXhRaHVqNThNSEtZd2ZSNjdyVWo4ZkV5ZjQ2MHlraUJTWFZVYm9MNC1DQldDMi15bFp0ZjZvOF9XajR1TWlENDJMbnFkSW1vendOb1FfYVJv?oc=5"
         }
       ]
@@ -91,7 +91,7 @@
       "id": "bea7752a03c6",
       "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackHamont-Achel - Griep- en covidprik op één moment&nbsp;&nbsp;De InternetgazetSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLN",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;hln.be",
       "sources": [
         {
           "name": "Knack",

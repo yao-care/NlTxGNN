@@ -35,7 +35,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 
 2026-09-25 <span class="news-indication-tag">overgang</span>
 
-Bron: [umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
+Bron: [nieuws.umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
 
 ---
 

@@ -36,7 +36,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “overgang” en toont d
 
 2026-09-25
 
-Bron: [umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
+Bron: [nieuws.umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
 
 ---
 

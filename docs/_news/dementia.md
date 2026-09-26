@@ -35,7 +35,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “dementie” en toont d
 
 2026-09-25
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5)
+Bron: [ad.nl](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFZbGVDMlV4MDNHS2ViY0p4WGc3eVNvYTdBMlhrXzgtNEM5bWFpMkFFMk9mMVc1QUtWUWV3LUVDMWdPY1V4QWV3OXhyY19CTzlLS2p1X2JsWDl1VWc2Mm5LSk9SaUJQRUdnTmVLMXRkNzZpYTFDMGxCWG1FaHpRZlBhcFByMGUyeDVzM3ZZcThrNmh6?oc=5)
 
 ---
 

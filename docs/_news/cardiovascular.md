@@ -33,11 +33,11 @@ Deze pagina bundelt het laatste gezondheidsnieuws over â€œhart- en vaatziektenâ€
 
 ## Gerelateerd nieuws (1)
 
-### [Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen - Suriname Herald](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
+### [Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
 
 2026-09-26
 
-Bron: [Suriname Herald](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
+Bron: [srherald.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
 
 ---
 

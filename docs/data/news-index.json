@@ -1,7 +1,67 @@
 {
-  "generated": "2026-09-26T10:45:26.542299+00:00",
-  "count": 2,
+  "generated": "2026-09-26T15:41:49.008594+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "f4a49ab34149",
+      "title": "Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen - Suriname Herald",
+      "published": "2026-09-26T04:47:29+00:00",
+      "sources": [
+        {
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "hart- en vaatziekten",
+          "related_drugs": [
+            {
+              "slug": "travoprost",
+              "name": "Travoprost"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6254639ad74",
+      "title": "De overgang: wat gebeurt er in je lichaam én om je heen?",
+      "published": "2026-09-25T09:48:10+00:00",
+      "sources": [
+        {
+          "name": "umcg.nl",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c4083e1fda0d",
       "title": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’",
@@ -27,12 +87,136 @@
       ]
     },
     {
-      "id": "c142249297c9",
-      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’",
+      "id": "0b539a19f94b",
+      "title": "Bij 4 op de 10 baarmoederhalskankers komt de diagnose pas laat: “Vaccin beschermt je niet voor 100%”",
+      "published": "2026-09-25T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55332f907332",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
       "published": "2026-09-24T19:00:00+00:00",
       "sources": [
         {
-          "name": "gelderlander.nl",
+          "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5"
         }
       ],

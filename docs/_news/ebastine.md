@@ -14,7 +14,7 @@ permalink: /news/ebastine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ebastine?">
-<strong>Ebastine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Ebastine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ebastine met het la
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen - Suriname Herald](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
+
+2026-09-26 <span class="news-indication-tag">hart- en vaatziekten</span>
+
+Bron: [Suriname Herald](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5)
+
+---
 
 
 <div class="disclaimer">

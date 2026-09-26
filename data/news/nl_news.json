@@ -1,29 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-26T10:45:26.448204+00:00",
-  "count": 9,
+  "fetched_at": "2026-09-26T15:41:48.905970+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "d578648c90a4",
-      "title": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch - Brabants Dagblad",
-      "published": "2026-09-25T18:00:55+00:00",
-      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten&nbsp;&nbsp;EenVandaagVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;de StentorHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nl",
+      "id": "e8025330988b",
+      "title": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen' - NOS",
+      "published": "2026-09-21T18:29:02+00:00",
+      "summary": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'&nbsp;&nbsp;NOS26/9 in Nieuwsuur: Ebola in Congo • De toekomst van de VN&nbsp;&nbsp;NOSFrontlinies in conflicten zijn meer voorspelbaar dan deze onzichtbare vijand in Congo&nbsp;&nbsp;DVHNOpsporing van ebolacontacten in Congo blijft ver achter nu uitbraak zich verspreidt, zegt hoofd Africa CDC&nbsp;&nbsp;MarketScreener NederlandDodelijke uitbraak van Ebola in Congo: 'Het is een onmenselijke ziekte'&nbsp;&nbsp;NPO Radi",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazNiQzU3aDFZUXlNX2hIMXNYRC12dWJEVUNDeEhGYlVnbklWSmJMWE1OeHVSWDFETU15OU8xdGQxOUpGOHU2Q1Q2Q0FEam1LMjRTdjZRYjFmODJZQV9qZTFMSWhrbVJwamRZX0FYOFRCRnctYjh3WVVrUVI2aG05VTVYZXNWaFEyZXBhUXBfWGdOd2lGcThPaFFDSEtJbUdfZ2lUX1F5XzVyUjBIWVE?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpkRmdLaDY0VkhVSF95NXRCa3BLTjFfRHRSZG40TjUzTC1ObkpvLWJWbE5YQ2lEbExHTnhYeUwzRUxBZ19JbGw4NEdwLTRocVNwczJMcWRSeGRHR3J3NFM1d0ZScXJ2aXpXTlVFZGxyOE5UcEJRYWpzd0ZOM1ppeUJ1Y3FtV3lBTER1alZJcE83Yk1ZVjNLUnVjM2lwU3h4OVl6NFNLV2tralk?oc=5"
         }
       ]
     },
     {
-      "id": "c142249297c9",
-      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - gelderlander.nl",
-      "published": "2026-09-24T19:00:00+00:00",
-      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;gelderlander.nlWe kunnen wél wat doen om dementie te voorkomen: aanpassing leefgewoonten kan grote impact hebben&nbsp;&nbsp;AD.nl4 gewoontes waarmee je jouw kans op dementie verkleint&nbsp;&nbsp;quest.nlNieuw onderzoek: eenzaamheid vergroot de kans op dementie&nbsp;&nbsp;Het ParoolHersenonderzoeker: Alzheimer ontwikkelt zich ’s nachts – dit is de simpele routine die ik zelf volg om de d",
+      "id": "da3e18cd6a2d",
+      "title": "Westnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten - EenVandaag",
+      "published": "2026-09-26T04:33:47+00:00",
+      "summary": "Westnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten&nbsp;&nbsp;EenVandaagHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlWestnijlvirus rukt op: vijf doden en 136 besmette paarden&nbsp;&nbsp;Horses.nlMeerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladVijfde persoon met westnijlvirus overleden, zestien nieuwe besmettingen&nbsp;&nbsp;NU",
       "sources": [
         {
-          "name": "gelderlander.nl",
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejVZaWx5eS1TZnczQVRVeTRIR0NwUWF5MzlNODg5ai1iMHE0QWMwVHFDUTlqZlo0NVg2Rm9CY2RQalZLd3gxQVJIanhfV0xGWnBESGtjQTk2NEZjbXVGdl9lZ0FwZGZJOVNqQmhoeVFlU0I4TGtXRnFURVdJX19GQ0pXSHJkZXAzWFpHZ1pVeGp0LTFPeVBlRkFfbkJGamVBejl6TzZSV0N0NlB4THBoVWRfdkJSVmtfWFFPVFNRV1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55332f907332",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
+      "published": "2026-09-24T19:00:00+00:00",
+      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6254639ad74",
+      "title": "De overgang: wat gebeurt er in je lichaam én om je heen? - umcg.nl",
+      "published": "2026-09-25T09:48:10+00:00",
+      "summary": "De overgang: wat gebeurt er in je lichaam én om je heen?&nbsp;&nbsp;umcg.nlLevende lijken en seksloze heksen: ‘Wisseljaren’ toont de denigrerende blik op postmenopauzale vrouwen&nbsp;&nbsp;Trouw‘Eerst was het de baarmoeder, toen de eierstokken en nu zijn het de hormonen. Vrouwen zijn altijd gereduceerd tot hun voortplantingsorganen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "sources": [
+        {
+          "name": "umcg.nl",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5"
         }
       ]
     },
@@ -31,7 +55,7 @@
       "id": "c4083e1fda0d",
       "title": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’ - AD.nl",
       "published": "2026-09-25T08:47:36+00:00",
-      "summary": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’&nbsp;&nbsp;AD.nlZorgen over mantelzorgers op Limburgse Alzheimer-dag&nbsp;&nbsp;L1 Nieuws‘Met de groeten van Wil’: aandacht voor meedoen en mantelzorg&nbsp;&nbsp;rtvnof.nlCampagneweek ‘Den Tied van Toen’ in Pelt legt focus op leven met dementie&nbsp;&nbsp;TV LimburgOpinie | Langer thuis leven met dementie vraagt (te) veel van mantelzorgers en naasten&nbsp;&nbsp;Zorgvisie",
+      "summary": "Opinie: ‘Zorg goed voor mensen rond dementiepatiënten’&nbsp;&nbsp;AD.nlZorgen over mantelzorgers op Limburgse Alzheimer-dag&nbsp;&nbsp;l1nieuws.nl‘Met de groeten van Wil’: aandacht voor meedoen en mantelzorg&nbsp;&nbsp;rtvnof.nlCampagneweek ‘Den Tied van Toen’ in Pelt legt focus op leven met dementie&nbsp;&nbsp;TV LimburgOpinie | Langer thuis leven met dementie vraagt (te) veel van mantelzorgers en naasten&nbsp;&nbsp;Zorgvisie",
       "sources": [
         {
           "name": "AD.nl",
@@ -40,14 +64,14 @@
       ]
     },
     {
-      "id": "af0030445c5d",
-      "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
-      "published": "2026-09-25T22:08:18+00:00",
-      "summary": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht'&nbsp;&nbsp;Kek Mama",
+      "id": "f4a49ab34149",
+      "title": "Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen - Suriname Herald",
+      "published": "2026-09-26T04:47:29+00:00",
+      "summary": "Dwarkasing: hart- en vaatziekten grootste doodsoorzaak onder vrouwen&nbsp;&nbsp;Suriname Herald",
       "sources": [
         {
-          "name": "Kek Mama",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYnpUTTBHaTdVbHlvVHNIbFJYYXFEMUhPQkJCN1pkNEFQZHZhV1dJcnZ6TWJ3aHpVMUtoRkY5YXB6UUppNlBCaXY5ajFzbmNoOGhPR25hSjJtWXNET1VhU0dRSk1zalNIa0hVXzFTRQ?oc=5"
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhCb2xLdTQwQUx5X2lnOUNubEtEWWNxaDdodl9FbkgwWXNRUk9YUkViU2cxRGxJeklWenJVc3dwZ0RsLWpuQkRDX29UX2thanpNWVRydXM4eFJZaXVwdWFVUE5xS0hWOFJOc0N6bXpWWW5tRVdQanJGWjlNc2ZjWEZOUWFkS0pZWElyMXhYUmVtRHVpQkJheUtHdnF2VXFMT0V6dkhSOG9Fa3FyZWYtOTRn?oc=5"
         }
       ]
     },
@@ -64,14 +88,38 @@
       ]
     },
     {
-      "id": "a435f3cd6395",
-      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - gelderlander.nl",
-      "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;gelderlander.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "af0030445c5d",
+      "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
+      "published": "2026-09-25T22:08:18+00:00",
+      "summary": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht'&nbsp;&nbsp;Kek Mama",
       "sources": [
         {
-          "name": "gelderlander.nl",
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYnpUTTBHaTdVbHlvVHNIbFJYYXFEMUhPQkJCN1pkNEFQZHZhV1dJcnZ6TWJ3aHpVMUtoRkY5YXB6UUppNlBCaXY5ajFzbmNoOGhPR25hSjJtWXNET1VhU0dRSk1zalNIa0hVXzFTRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee1a6cc20c1b",
+      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "published": "2026-09-19T19:30:00+00:00",
+      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWRhemNzOUZFVHFuTkh2YXpwR0hpSndzclNjQldoTFM4MzdrZk5SZjRKTDd0SUZVazlrbEdoWUVBS2Z2RUhyM2wwNzhjeTQwUXdSM05Ha3JSRUphdUFQNHlmN0dTYlVzZG1wSXFFcWJ2T2pra2xmcVVEMDdmMzNzdDBtb2Jfc1Npb1h0Y3EyQVY5VHZ1S3kyY3Z3dG1VQXNtTEY0eThDUXR3V0p4Wkl5Q3V2VmgxSzFXWFpwNkJfNXFpZGM0bjZFYVlDWWlaNUo3VElpMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b539a19f94b",
+      "title": "Bij 4 op de 10 baarmoederhalskankers komt de diagnose pas laat: “Vaccin beschermt je niet voor 100%” - HLN",
+      "published": "2026-09-25T07:00:00+00:00",
+      "summary": "Bij 4 op de 10 baarmoederhalskankers komt de diagnose pas laat: “Vaccin beschermt je niet voor 100%”&nbsp;&nbsp;HLNMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5"
         }
       ]
     },
@@ -88,22 +136,10 @@
       ]
     },
     {
-      "id": "337200ed187b",
-      "title": "Artrose is veel meer dan slijtage: ‘We zien patiënten van 20 met een artrosebeeld van iemand van 80’ - Knack",
-      "published": "2026-09-23T13:31:47+00:00",
-      "summary": "Artrose is veel meer dan slijtage: ‘We zien patiënten van 20 met een artrosebeeld van iemand van 80’&nbsp;&nbsp;Knack",
-      "sources": [
-        {
-          "name": "Knack",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS0RDeGE3cWtndjU0YkhJM3JLTkZGYWVpSHFoOFRaMnpkc0pWNlgzdDdoUTRFRnU3MGROTUlzXzhqeXRGb1VIRHhNUmVuWjJPUElmYi1tRVRBeXJ1Z1lpX2d3cUpaWkVPV3VjVmdCT3JZc2JFcmtoSmZJczlqcl9Id2lfRWxZbFRVQmNqejBzY0hycW5GNkNNdUxXVkNDWEtPZktBTHZXLTN4czJHNDEzbHlFUUZ6U0VhR3VwdzQxZExEYmhXNnd0TUtoeTdtYUhETGUyeWp2ZDZrQlJXenRpeWxSdDhTZWw4YXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bea7752a03c6",
       "title": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme - Knack",
       "published": "2026-09-22T14:39:46+00:00",
-      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackDr. Charlotte Trouvé van AZ Zeno: voor wie zijn griep- en covidvaccins dit najaar belangrijk?&nbsp;&nbsp;Lokaalnieuws.onlineSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLN",
+      "summary": "Is een griepvaccin voor fitte 65-plussers nuttig? En is een covidvaccin nog wel relevant? 5 tips van vaccinoloog Pierre Van Damme&nbsp;&nbsp;KnackDr. Charlotte Trouvé van AZ Zeno: voor wie zijn griep- en covidvaccins dit najaar belangrijk?&nbsp;&nbsp;Lokaalnieuws.onlineHamont-Achel - Griep- en covidprik op één moment&nbsp;&nbsp;De InternetgazetSchilde roept op om je te laten vaccineren tegen griep en covid&nbsp;&nbsp;HLNLaat u vaccineren tegen COVID-19 en griep deze herfst en bescherm uzelf en a",
       "sources": [
         {
           "name": "Knack",

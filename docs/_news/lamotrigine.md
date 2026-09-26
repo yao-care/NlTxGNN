@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lamotrigine?">
-<strong>Lamotrigine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Lamotrigine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lamotrigine met het
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Bij 4 op de 10 baarmoederhalskankers komt de diagnose pas laat: “Vaccin beschermt je niet voor 100%”](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5)
+
+2026-09-25 <span class="news-indication-tag">kanker</span>
+
+Bron: [HLN](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

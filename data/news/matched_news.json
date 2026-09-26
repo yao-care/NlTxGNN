@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-26T03:21:42.948693+00:00",
+  "last_updated": "2026-09-26T10:45:26.532181+00:00",
   "total_count": 9,
-  "matched_count": 3,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "8e93d39709a1",
+      "title": "Suriname bereidt introductie pneumokokkenvaccin voor",
+      "published": "2026-09-26T07:00:00+00:00",
+      "summary": "Suriname bereidt introductie pneumokokkenvaccin voor&nbsp;&nbsp;Waterkant",
+      "sources": [
+        {
+          "name": "Waterkant",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGZ0S0lmTi1fZy1ENkVhMkpFQTRzSjVqbkItalgxNWo5QXo1THVUX0lRcV9KSGZXbl9ESURBSFM3bGNYV1BxSXhXQzZOYkJESEdvOHNkRDMxU0xzMTJBS0hDdERZYjdiU2h5WkV6VmE4c2lJc2JFcDFySUlseXpmRUtKTTlicy01VGl0RWRvSEJhSHdRRWhMRHkybXd5QjJl?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "af0030445c5d",
       "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
@@ -20,7 +33,7 @@
       "id": "d578648c90a4",
       "title": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch - Brabants Dagblad",
       "published": "2026-09-25T18:00:55+00:00",
-      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladExpert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;De GelderlanderVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSMuggen straks in winterslaap, maar westnijlvirus verdwijnt daar niet mee&nbsp;&nbsp;RTL.nlHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt ",
+      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten&nbsp;&nbsp;EenVandaagVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;de StentorHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "Brabants Dagblad",
@@ -55,14 +68,14 @@
       ]
     },
     {
-      "id": "5771687e8409",
-      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
+      "id": "c142249297c9",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’",
       "published": "2026-09-24T19:00:00+00:00",
-      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;De GelderlanderWe kunnen wél wat doen om dementie te voorkomen: aanpassing leefgewoonten kan grote impact hebben&nbsp;&nbsp;AD.nl4 gewoontes waarmee je jouw kans op dementie verkleint&nbsp;&nbsp;quest.nlNieuw onderzoek: eenzaamheid vergroot de kans op dementie&nbsp;&nbsp;Het ParoolHersenonderzoeker: Alzheimer ontwikkelt zich ’s nachts – dit is de simpele routine die ik zelf volg om de d",
+      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;gelderlander.nlWe kunnen wél wat doen om dementie te voorkomen: aanpassing leefgewoonten kan grote impact hebben&nbsp;&nbsp;AD.nl4 gewoontes waarmee je jouw kans op dementie verkleint&nbsp;&nbsp;quest.nlNieuw onderzoek: eenzaamheid vergroot de kans op dementie&nbsp;&nbsp;Het ParoolHersenonderzoeker: Alzheimer ontwikkelt zich ’s nachts – dit is de simpele routine die ik zelf volg om de d",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXdmSHZhZVlrbGtrMHVLbW5UTGdLTFlmVFloNTE2cWtNLTY0OWt4SW9MTkhoMUxhVHhHek9LWl9hYU1URW5OWEtPUDFPMlhGbXAwTHZhY3JaZjl5c25Vd0VYOEJmdFV2VFM0YzBLQ2dqbmRQSHB6TThTVmMtSFpkbHVFZHBZWFR4RUJVVGhtOVhna1FSczJoWHRBT01JZDhudExXM3lzdUFpZDUwZWhlMjducVBlVm9CMVd0STdQRmhFeF9xNzhQdzBKbGxJT18ycGtmQU9nZGY?oc=5"
+          "name": "gelderlander.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -80,9 +93,22 @@
       ]
     },
     {
+      "id": "337200ed187b",
+      "title": "Artrose is veel meer dan slijtage: ‘We zien patiënten van 20 met een artrosebeeld van iemand van 80’",
+      "published": "2026-09-23T13:31:47+00:00",
+      "summary": "Artrose is veel meer dan slijtage: ‘We zien patiënten van 20 met een artrosebeeld van iemand van 80’&nbsp;&nbsp;Knack",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS0RDeGE3cWtndjU0YkhJM3JLTkZGYWVpSHFoOFRaMnpkc0pWNlgzdDdoUTRFRnU3MGROTUlzXzhqeXRGb1VIRHhNUmVuWjJPUElmYi1tRVRBeXJ1Z1lpX2d3cUpaWkVPV3VjVmdCT3JZc2JFcmtoSmZJczlqcl9Id2lfRWxZbFRVQmNqejBzY0hycW5GNkNNdUxXVkNDWEtPZktBTHZXLTN4czJHNDEzbHlFUUZ6U0VhR3VwdzQxZExEYmhXNnd0TUtoeTdtYUhETGUyeWp2ZDZrQlJXenRpeWxSdDhTZWw4YXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1fea3a045111",
       "title": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’ - De Telegraaf",
-      "published": "2026-09-23T20:30:00+00:00",
+      "published": "2026-09-23T13:30:00+00:00",
       "summary": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -91,146 +117,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "33251846e93e",
-      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
-      "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "Welingelichte Kringen",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "bea7752a03c6",
@@ -246,26 +132,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b13da195b3bd",
-      "title": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’ - Kek Mama",
-      "published": "2026-09-21T07:45:19+00:00",
-      "summary": "ADHD-symptomen verdwenen dankzij het RED-dieet: ‘Een wereld van verschil’&nbsp;&nbsp;Kek Mama",
-      "sources": [
-        {
-          "name": "Kek Mama",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZHBXNDJLdGM4dmxvd0Fzd0QzaXhRaHVqNThNSEtZd2ZSNjdyVWo4ZkV5ZjQ2MHlraUJTWFZVYm9MNC1DQldDMi15bFp0ZjZvOF9XajR1TWlENDJMbnFkSW1vendOb1FfYVJv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ee1a6cc20c1b",
-      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak - De Gelderlander",
+      "id": "a435f3cd6395",
+      "title": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak",
       "published": "2026-09-19T19:30:00+00:00",
-      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Minder kinderen op de intensive care met ernstig virus, kinderartsen zien duidelijke oorzaak&nbsp;&nbsp;gelderlander.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Gelderlander",
+          "name": "gelderlander.nl",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWRhemNzOUZFVHFuTkh2YXpwR0hpSndzclNjQldoTFM4MzdrZk5SZjRKTDd0SUZVazlrbEdoWUVBS2Z2RUhyM2wwNzhjeTQwUXdSM05Ha3JSRUphdUFQNHlmN0dTYlVzZG1wSXFFcWJ2T2pra2xmcVVEMDdmMzNzdDBtb2Jfc1Npb1h0Y3EyQVY5VHZ1S3kyY3Z3dG1VQXNtTEY0eThDUXR3V0p4Wkl5Q3V2VmgxSzFXWFpwNkJfNXFpZGM0bjZFYVlDWWlaNUo3VElpMA?oc=5"
         }
       ],

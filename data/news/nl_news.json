@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-25T21:03:29.252065+00:00",
+  "fetched_at": "2026-09-26T03:21:42.874312+00:00",
   "count": 9,
   "news": [
     {
       "id": "d578648c90a4",
       "title": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch - Brabants Dagblad",
       "published": "2026-09-25T18:00:55+00:00",
-      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladSteeds meer vogels met westnijlvirus: ‘Dit baart ons grote zorgen’&nbsp;&nbsp;de StentorGeen paniek, wel opletten: dit moet je weten over het westnijlvirus&nbsp;&nbsp;AD.nlVijfde persoon met westnijlvirus overleden, RIVM meldt 16 nieuwe gevallen in een week&nbsp;&nbsp;AD.nlExpert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;de ",
+      "summary": "Meerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladExpert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;De GelderlanderVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSMuggen straks in winterslaap, maar westnijlvirus verdwijnt daar niet mee&nbsp;&nbsp;RTL.nlHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt ",
       "sources": [
         {
           "name": "Brabants Dagblad",
@@ -40,9 +40,21 @@
       ]
     },
     {
+      "id": "af0030445c5d",
+      "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
+      "published": "2026-09-25T22:08:18+00:00",
+      "summary": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht'&nbsp;&nbsp;Kek Mama",
+      "sources": [
+        {
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYnpUTTBHaTdVbHlvVHNIbFJYYXFEMUhPQkJCN1pkNEFQZHZhV1dJcnZ6TWJ3aHpVMUtoRkY5YXB6UUppNlBCaXY5ajFzbmNoOGhPR25hSjJtWXNET1VhU0dRSk1zalNIa0hVXzFTRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1fea3a045111",
       "title": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’ - De Telegraaf",
-      "published": "2026-09-23T13:30:00+00:00",
+      "published": "2026-09-23T20:30:00+00:00",
       "summary": "Heleen (71) kwam na een hartoperatie niet goed uit de narcose: ’Negen weken ben ik buiten bewustzijn geweest’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -72,18 +84,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWRhemNzOUZFVHFuTkh2YXpwR0hpSndzclNjQldoTFM4MzdrZk5SZjRKTDd0SUZVazlrbEdoWUVBS2Z2RUhyM2wwNzhjeTQwUXdSM05Ha3JSRUphdUFQNHlmN0dTYlVzZG1wSXFFcWJ2T2pra2xmcVVEMDdmMzNzdDBtb2Jfc1Npb1h0Y3EyQVY5VHZ1S3kyY3Z3dG1VQXNtTEY0eThDUXR3V0p4Wkl5Q3V2VmgxSzFXWFpwNkJfNXFpZGM0bjZFYVlDWWlaNUo3VElpMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22aadf2bb546",
-      "title": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus - AD.nl",
-      "published": "2026-09-18T21:01:00+00:00",
-      "summary": "Nadat patiënt die besmet donorbloed kreeg overleed, checkt bloedbank nu extra op het westnijlvirus&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlFFdzBKNnYxLWp1RlYzNVcxZEtqYmlEWjU1a1BiV0wtQkJNS1ZhWWF1VmRmM0pNSGh0WHRoRWQ4aXV0MmpPNVBWUXF1cW1WYUhpa0VvMEdFQlFQNDE3Qnozcm0wcDU5MF9iLVR4X1FUTTBnZ21NVGtNNmozOWR4d01ORjd3dmlfSGVaSzdPZDZRV3QwUC1mVzBnWFVkMVd5Nk83c0VvZEpubXhKWWFTM1BMYXRITjRoYU9YOFkzNTZ4N3A0S25Rc01mNzRkaHAtSkE?oc=5"
         }
       ]
     },

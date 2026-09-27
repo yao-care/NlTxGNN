@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [De overgang: wat gebeurt er in je lichaam én om je heen?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
-
-2026-09-25 <span class="news-indication-tag">overgang</span>
-
-Bron: [umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

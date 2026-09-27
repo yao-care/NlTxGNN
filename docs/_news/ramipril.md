@@ -14,7 +14,7 @@ permalink: /news/ramipril/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ramipril?">
-<strong>Ramipril</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Ramipril</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ramipril met het la
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
+
+### [Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
+
+2026-09-27 <span class="news-indication-tag">kanker</span>
+
+Bron: [HLN](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
+
+---
 
 ### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 

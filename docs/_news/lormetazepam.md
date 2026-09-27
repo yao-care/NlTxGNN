@@ -14,7 +14,7 @@ permalink: /news/lormetazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lormetazepam?">
-<strong>Lormetazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Lormetazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <p><a href="{{ '/drugs/lormetazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee - Eindhovens Dagblad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5)
+
+2026-09-26 <span class="news-indication-tag">angst</span>
+
+Bron: [Eindhovens Dagblad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5)
+
+---
 
 
 <div class="disclaimer">

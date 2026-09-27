@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
+
+### [Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
+
+2026-09-27
+
+Bron: [HLN](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
+
+---
 
 ### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 

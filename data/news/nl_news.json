@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-27T16:20:11.119872+00:00",
-  "count": 8,
+  "fetched_at": "2026-09-27T20:48:56.885856+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "5ac5cf9b6d97",
-      "title": "RIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden - De Gelderlander",
-      "published": "2026-09-27T10:30:00+00:00",
-      "summary": "RIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden&nbsp;&nbsp;De GelderlanderHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSMeerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten",
+      "id": "260f7ec61a65",
+      "title": "Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee - Eindhovens Dagblad",
+      "published": "2026-09-26T15:30:38+00:00",
+      "summary": "Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenpiN1R2a1lPaTNuN1B6cjU1eWVTdjQyTWlPSW1XSlBwaUxBOWtBcTA5N1Z4NHRVcDJWdDVGUS1iTFd3eHdtUUh6b05HdS1ldkc5WGg3RmJwVllvMm42Zi1OUVZBV1ZidGFCR3d3TVA5dlZSbV9iM185NkJna0Q1UjBSY3pvWUhieDE2RG1EZGd1VVpLTGJOY0N5SFFZYng4NDFIV1hlcHhhR1hVMmQ0UTV3VVNoNFRMRjNwU0gtcXFnZ2drSTlMbVpSeW9UWUpscGhJNkk4MUlER3ZZRU1kLXlmUQ?oc=5"
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69b9d59779a7",
+      "title": "RIVM: jezelf beschermen tegen muggenbeten moet onderdeel van het leven worden - de Stentor",
+      "published": "2026-09-27T11:07:36+00:00",
+      "summary": "RIVM: jezelf beschermen tegen muggenbeten moet onderdeel van het leven worden&nbsp;&nbsp;de StentorRIVM: je beschermen tegen muggenbeten moet onderdeel van je gewone leven worden, virussen gaan niet meer weg&nbsp;&nbsp;De GelderlanderMeerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten oplett",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHA5RUtzeXdUcVJzdXVZWFNqNE5aQk5TOGNtOXpaamkzdnZIaEM0VUV0aU1IN2otSGUtQVNWMkRqQzdkZE02RDl2YjROMEZRcm84alpwN094cW9SM055VTlROWdhdi1pQUIyTEJLUFZ4MVc3eHk1NWxMT0wtTTJjUzRoMEYySGdXUXBKTGVhTlozQ1I4US1xT0JxYWlQOV8yNkxWX20xTjJuRE1jQjhscHN5QlVxMUtiN1JUNHlESQ?oc=5"
         }
       ]
     },
@@ -55,7 +67,7 @@
       "id": "33251846e93e",
       "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
       "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte Kringen#WanderBoobs: Borstkankeralarmsignalen nog onvoldoende gekend&nbsp;&nbsp;novartis.comPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -84,6 +96,18 @@
         {
           "name": "Redactie24",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVZ2MzFvem9EOUVzMXJrcndYUjRoSGRrM08xTjJIM3NkSENyRkVMcGtUSFVGd0F0cEJ5ZEJKbHZpekJwRHFaZy02cXpKUGJERDFTRzZKS05EVFRYa0lyYkJEazdIVlAydFNBQV9Ib05tYWdVY2ViZ3VyV29oVnM2MUtDWWNmQ3k5dDRkRVc0ZVNmTEhkZ3lHRDNNaEpQMjFMeE9ZbVc2cGdZQTRnM21qUjVoSDJUZXNBeEI1UWt4UnlXXzhOR0lvUGxVWGJHcXpCRjBF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aaa986a79524",
+      "title": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten” - HLN",
+      "published": "2026-09-27T11:14:00+00:00",
+      "summary": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5"
         }
       ]
     },

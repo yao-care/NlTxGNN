@@ -1,7 +1,131 @@
 {
-  "generated": "2026-09-27T16:20:11.227441+00:00",
-  "count": 3,
+  "generated": "2026-09-27T20:48:56.996383+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "aaa986a79524",
+      "title": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”",
+      "published": "2026-09-27T11:14:00+00:00",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5d8583aa5151",
       "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu",
@@ -136,6 +260,34 @@
             {
               "slug": "bicalutamide",
               "name": "Bicalutamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "260f7ec61a65",
+      "title": "Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee - Eindhovens Dagblad",
+      "published": "2026-09-26T15:30:38+00:00",
+      "sources": [
+        {
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "angst",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "lormetazepam",
+              "name": "Lormetazepam"
             }
           ]
         }

@@ -1,6 +1,103 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-27T11:20:14.233741+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-09-27T16:20:11.119872+00:00",
+  "count": 8,
+  "news": [
+    {
+      "id": "5ac5cf9b6d97",
+      "title": "RIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden - De Gelderlander",
+      "published": "2026-09-27T10:30:00+00:00",
+      "summary": "RIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden&nbsp;&nbsp;De GelderlanderHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlVijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen&nbsp;&nbsp;NOSMeerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;Brabants DagbladWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenpiN1R2a1lPaTNuN1B6cjU1eWVTdjQyTWlPSW1XSlBwaUxBOWtBcTA5N1Z4NHRVcDJWdDVGUS1iTFd3eHdtUUh6b05HdS1ldkc5WGg3RmJwVllvMm42Zi1OUVZBV1ZidGFCR3d3TVA5dlZSbV9iM185NkJna0Q1UjBSY3pvWUhieDE2RG1EZGd1VVpLTGJOY0N5SFFZYng4NDFIV1hlcHhhR1hVMmQ0UTV3VVNoNFRMRjNwU0gtcXFnZ2drSTlMbVpSeW9UWUpscGhJNkk4MUlER3ZZRU1kLXlmUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55332f907332",
+      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
+      "published": "2026-09-24T19:00:00+00:00",
+      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;De Gelderlander4 gewoontes waarmee je jouw kans op dementie verkleint&nbsp;&nbsp;quest.nlWe kunnen wél wat doen om dementie te voorkomen: aanpassing leefgewoonten kan grote impact hebben&nbsp;&nbsp;AD.nlNieuw onderzoek: eenzaamheid vergroot de kans op dementie&nbsp;&nbsp;Het ParoolSamen kunnen we dementie en eenzaamheid te lijf gaan&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29f7cb2c4362",
+      "title": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan - MAX Meldpunt",
+      "published": "2026-09-25T04:12:20+00:00",
+      "summary": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan&nbsp;&nbsp;MAX MeldpuntVrijdag in Meldpunt Actueel: verwaarloosde gebitten bij kwetsbare ouderen&nbsp;&nbsp;Perssite Omroep MAXTandarts-geriater Claar Wierink: ‘Problemen in de mond beïnvloeden wel echt je dagelijks leven’&nbsp;&nbsp;MAX Meldpunt",
+      "sources": [
+        {
+          "name": "MAX Meldpunt",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXZCZm5nSEFKLWVoa0FXWnE3VG1jdTQxLWZDSnAtXzlfMzhmdFRKdmlqTFU4b3NERUZLNVN1eE82NXpvTFY5SE9rRl9GZUNQaDh6WkQtSFZ2M0VTNy1oX05JbVJYMEkwRlJEQXdnUnVaNTZCd0tiUldGUzZtc01UMVgzOUk3SXh1R3NtcVVCOWZLeHFJal9vQS1zNG8xWlVwb0lvbkhjTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af0030445c5d",
+      "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
+      "published": "2026-09-25T22:08:18+00:00",
+      "summary": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht'&nbsp;&nbsp;Kek Mama",
+      "sources": [
+        {
+          "name": "Kek Mama",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYnpUTTBHaTdVbHlvVHNIbFJYYXFEMUhPQkJCN1pkNEFQZHZhV1dJcnZ6TWJ3aHpVMUtoRkY5YXB6UUppNlBCaXY5ajFzbmNoOGhPR25hSjJtWXNET1VhU0dRSk1zalNIa0hVXzFTRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33251846e93e",
+      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
+      "published": "2026-09-22T18:42:14+00:00",
+      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;Welingelichte KringenPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "Welingelichte Kringen",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d8583aa5151",
+      "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu",
+      "published": "2026-09-27T10:01:08+00:00",
+      "summary": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’&nbsp;&nbsp;Ouders van Nu",
+      "sources": [
+        {
+          "name": "Ouders van Nu",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c4c468d4ba3",
+      "title": "Wetenschappers waarschuwen voor ‘verborgen gevaar’ dat je risico op hartaanval en beroerte verhoogt - Redactie24",
+      "published": "2026-09-26T18:30:00+00:00",
+      "summary": "Wetenschappers waarschuwen voor ‘verborgen gevaar’ dat je risico op hartaanval en beroerte verhoogt&nbsp;&nbsp;Redactie24",
+      "sources": [
+        {
+          "name": "Redactie24",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVZ2MzFvem9EOUVzMXJrcndYUjRoSGRrM08xTjJIM3NkSENyRkVMcGtUSFVGd0F0cEJ5ZEJKbHZpekJwRHFaZy02cXpKUGJERDFTRzZKS05EVFRYa0lyYkJEazdIVlAydFNBQV9Ib05tYWdVY2ViZ3VyV29oVnM2MUtDWWNmQ3k5dDRkRVc0ZVNmTEhkZ3lHRDNNaEpQMjFMeE9ZbVc2cGdZQTRnM21qUjVoSDJUZXNBeEI1UWt4UnlXXzhOR0lvUGxVWGJHcXpCRjBF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e93d39709a1",
+      "title": "Suriname bereidt introductie pneumokokkenvaccin voor - Waterkant",
+      "published": "2026-09-26T07:00:00+00:00",
+      "summary": "Suriname bereidt introductie pneumokokkenvaccin voor&nbsp;&nbsp;Waterkant",
+      "sources": [
+        {
+          "name": "Waterkant",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGZ0S0lmTi1fZy1ENkVhMkpFQTRzSjVqbkItalgxNWo5QXo1THVUX0lRcV9KSGZXbl9ESURBSFM3bGNYV1BxSXhXQzZOYkJESEdvOHNkRDMxU0xzMTJBS0hDdERZYjdiU2h5WkV6VmE4c2lJc2JFcDFySUlseXpmRUtKTTlicy01VGl0RWRvSEJhSHdRRWhMRHkybXd5QjJl?oc=5"
+        }
+      ]
+    }
+  ]
 }

@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
-<strong>Calcipotriol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Calcipotriol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [De overgang: wat gebeurt er in je lichaam én om je heen?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
 
 2026-09-25 <span class="news-indication-tag">overgang</span>
 
-Bron: [nieuws.umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
-
----
-
-### [Bij 4 op de 10 baarmoederhalskankers komt de diagnose pas laat: “Vaccin beschermt je niet voor 100%”](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5)
-
-2026-09-25 <span class="news-indication-tag">kanker</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm1mRmQ4Nkpqb3BuaGpSOUNDS1MyYjRFdGtyVEpaVmQwUG5EZVhUU2dMbHc5UWYwYTYxQnY4LWdjdG9ObkZ6UkhYVDVZT3FjYjRUOS1mMmVtSGdRVXgyRU8zbWF3SlVqeXhORDdIam1sdHlGOEVsY1U0cGVIQzZlRlJHd3JDYXpadndtY2x1Zy01VGJRVnR4TkhDaDNITWVJaVlxWTlxRWVTSWktcXl6NTVQbjRKbU5ZRXpKSkIyZVI3YzY0NWZLV1FUZ2JzX2l4VFE?oc=5)
+Bron: [umcg.nl](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNxQWZmNFZmNEJGZGc2dlVkcFhzRlhUV3RwTlpqemNJVFFTOFFXSVFPT1dFRG9jNFBBZ1AtU3lmSFV5TFJXeTJtRU9xSXNDZ241Ym1aN2EtU0NZU2dtZ29JR2NDU3Yyd3FKd0syRV9fQlkwWUphd1BuZEtTcF9SZndFN2ZFV09vbFFKRndn?oc=5)
 
 ---
 

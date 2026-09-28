@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Hyaluronidase"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Hyaluronidase. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Hyaluronidase. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/hyaluronidase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hyaluronidase/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Hyaluronidase?">
-<strong>Hyaluronidase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Hyaluronidase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Hyaluronidase met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>esotropia (99.9%)</li>
+<li>amenorrhea (disease) (99.8%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.8%)</li>
+<li>renal tubular acidosis (99.8%)</li>
+<li>dermatitis (99.7%)</li>
+<li>diabetic retinopathy (99.7%)</li>
+<li>acrodermatitis chronica atrophicans (99.6%)</li>
+<li>diabetic cataract (99.5%)</li>
+<li>neonatal dermatomyositis (99.5%)</li>
+<li>non-syndromic esophageal malformation (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hyaluronidase/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Mesalazine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Mesalazine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Mesalazine. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
 permalink: /news/mesalazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Mesalazine?">
-<strong>Mesalazine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Mesalazine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Mesalazine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (7)</strong>:<ul>
+<li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
+<li>osteoarthritis (99.6%)</li>
+<li>rheumatoid arthritis (99.6%)</li>
+<li>seborrheic keratosis (99.5%)</li>
+<li>osteoarthritis susceptibility (99.3%)</li>
+<li>vulvar inverted follicular keratosis (99.3%)</li>
+<li>pseudoachondroplasia (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

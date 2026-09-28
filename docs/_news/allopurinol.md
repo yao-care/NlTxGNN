@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Allopurinol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Allopurinol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Allopurinol. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Allopurinol?">
-<strong>Allopurinol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Allopurinol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Allopurinol met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>hepatic porphyria (100.0%)</li>
+<li>hepatopulmonary syndrome (99.9%)</li>
+<li>primitive portal vein thrombosis (99.9%)</li>
+<li>idiopathic copper-associated cirrhosis (99.9%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
+<li>hepatoportal sclerosis (99.9%)</li>
+<li>disorder of phenylalanine metabolism (99.9%)</li>
+<li>immune-mediated necrotizing myopathy (99.9%)</li>
+<li>antisynthetase syndrome (99.8%)</li>
+<li>idiopathic eosinophilic myositis (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

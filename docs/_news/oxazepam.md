@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Oxazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Oxazepam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Oxazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/oxazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Oxazepam?">
-<strong>Oxazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Oxazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Oxazepam met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>insomnia (disease) (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

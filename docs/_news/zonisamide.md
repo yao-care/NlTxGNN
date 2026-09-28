@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Zonisamide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Zonisamide. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Zonisamide. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/zonisamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Zonisamide?">
-<strong>Zonisamide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Zonisamide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Zonisamide met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Tourette syndrome (99.8%)</li>
+<li>trichotillomania (99.8%)</li>
+<li>methemoglobinemia, alpha type (99.6%)</li>
+<li>methemoglobinemia (99.6%)</li>
+<li>Prinzmetal angina (99.5%)</li>
+<li>methemoglobin reductase deficiency (99.5%)</li>
+<li>manic bipolar affective disorder (99.3%)</li>
+<li>absence epilepsy (99.2%)</li>
+<li>fibromyalgia (99.2%)</li>
+<li>conjunctivitis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

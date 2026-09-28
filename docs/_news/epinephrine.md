@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Epinephrine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Epinephrine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Epinephrine. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/epinephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Epinephrine?">
-<strong>Epinephrine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Epinephrine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Epinephrine met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>obstructive lung disease (99.7%)</li>
+<li>food-dependent exercise-induced anaphylaxis (99.6%)</li>
+<li>Rienhoff syndrome (99.6%)</li>
+<li>respiratory malformation (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

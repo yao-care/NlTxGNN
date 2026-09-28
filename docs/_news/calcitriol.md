@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Calcitriol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Calcitriol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Calcitriol. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
 permalink: /news/calcitriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcitriol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcitriol?">
-<strong>Calcitriol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Calcitriol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcitriol met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (7)</strong>:<ul>
+<li>obsolete vitamin D deficiency (100.0%)</li>
+<li>renal tubular acidosis (99.9%)</li>
+<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
+<li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>
+<li>craniofacial conodysplasia (99.8%)</li>
+<li>Dahlberg-Borer-Newcomer syndrome (99.8%)</li>
+<li>hereditary hypophosphatemic rickets (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcitriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

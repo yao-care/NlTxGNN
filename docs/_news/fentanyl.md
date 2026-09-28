@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Fentanyl"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Fentanyl. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Fentanyl. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/fentanyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fentanyl?">
-<strong>Fentanyl</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Fentanyl</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fentanyl met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.5%)</li>
+<li>Tourette syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

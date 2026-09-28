@@ -1,183 +1,42 @@
 {
-  "last_updated": "2026-09-28T12:49:17.735498+00:00",
-  "total_count": 9,
-  "matched_count": 6,
+  "last_updated": "2026-09-28T22:54:14.468507+00:00",
+  "total_count": 4,
+  "matched_count": 1,
   "news": [
     {
-      "id": "cd41af49550c",
-      "title": "Bijna 1600 gevallen van het westnijlvirus in Europa, 44 besmettingen in Nederland - De Telegraaf",
-      "published": "2026-09-28T12:17:57+00:00",
-      "summary": "Bijna 1600 gevallen van het westnijlvirus in Europa, 44 besmettingen in Nederland&nbsp;&nbsp;De TelegraafHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlRIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden&nbsp;&nbsp;De GelderlanderBijna 1600 westnijlvirusbesmettingen in Europa dit jaar&nbsp;&nbsp;Het ParoolMeerdere patiënten met westnijlvirus in ziekenhuizen Tilburg en Den Bosch&nbsp;&nbsp;B",
+      "id": "39096cb69948",
+      "title": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden",
+      "published": "2026-09-28T10:14:24+00:00",
+      "summary": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;JeugdjournaalMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladEr schuilt een donkere realiteit achter onze zonnepanelen, gsm’s en elektrische auto’s&nbsp;&nbsp;De MorgenFrontlinies in conflicten zijn meer voorspelbaar dan deze onzichtbare vijand in Congo&nbsp;&nbsp;DVHNDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY19oNTZGN1JFYll5b2RGblF3TXZhSkdHRVdpdDhLbS12WjFIcXBVemlNSFFEOTh5bU5iREM2bF9feTB2SmlheUdfY0JVQTE5OWx4N210YkhWVGlHV1o4UExVQUhFVUF4ZjNNMmxIMzdKUXYwX19GcFE5MVR2YWN6a2dpUzBvUEZjU2d5bzZYSjZpWWlhclRrVExqN3VRc0xva2h0ckhSR1FqT2MyeXdQdl9hVjJGN1BVUTJHanRGbXJkeUNaVlZvWXl0cw?oc=5"
+          "name": "Jeugdjournaal",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0FHMUJsY2JEanF3bEhfdUY3SWE5LTFNQWdVU0tVUTA0SnB2T01rQTB6cFdYY1dMclpVR25nbVg0S0lnTjVrYmlpUV8zUzVKbDdCbHFleU41NFEtZnR1cE5scjlfMkJlakgwTTJlUGJrdVFyLVBpZVc2aVdkeFhUcndVcExmaG92Ymh6TFpfbXhZQ2ZoNlR5VTBfazh5ZGVXVTBycnQ5a2JaR3kxZzYxaFRkbw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9af33a12aa2c",
-      "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad",
+      "id": "86061bedd804",
+      "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’",
       "published": "2026-09-27T19:00:00+00:00",
-      "summary": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’&nbsp;&nbsp;Eindhovens DagbladHartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee&nbsp;&nbsp;AD.nlPubliekslezing over boezemfibrilleren boeit lezers Eindhovens Dagblad enorm&nbsp;&nbsp;Catharina ZiekenhuisBoezemfibrilleren geeft snel een beangstigend gevoel, maar een elektrische schok is lang niet altijd nodig&nbsp;&nbsp;Brabants Dagblad",
+      "summary": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGs1c25FWkgyc0hTWTRJb0N5NTZidjFpRzJyd3AzdXlGeVpYYVVIOV9lVk42d21WS1F1REMwVks3b0pzbWdxSEhCeXhjYXU3VjM0djU2LWh5anlZTnBVZ0IyWW5HYTFGNWxFVlRKMWVvRWdITm9hS09GbTJDa2dRM1NXLVg2ZHpRVlJzTFAtRDFvejhxQXZqbEh3VUxrNUpk?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "angst",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "lormetazepam",
-              "name": "Lormetazepam"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "aaa986a79524",
-      "title": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”",
-      "published": "2026-09-27T11:14:00+00:00",
-      "summary": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "103d4518f8f1",
-      "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’",
+      "id": "5d8583aa5151",
+      "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu",
       "published": "2026-09-27T10:01:08+00:00",
-      "summary": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’&nbsp;&nbsp;oudersvannu.nl",
+      "summary": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’&nbsp;&nbsp;Ouders van Nu",
       "sources": [
         {
-          "name": "oudersvannu.nl",
+          "name": "Ouders van Nu",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5"
         }
       ],
@@ -311,224 +170,17 @@
       ]
     },
     {
-      "id": "af0030445c5d",
-      "title": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht' - Kek Mama",
-      "published": "2026-09-25T22:08:18+00:00",
-      "summary": "Melanie: 'Na de uitslag over de aangeboren obesitas van onze dochter werden we opeens gebeld door diagnose gezocht'&nbsp;&nbsp;Kek Mama",
-      "sources": [
-        {
-          "name": "Kek Mama",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYnpUTTBHaTdVbHlvVHNIbFJYYXFEMUhPQkJCN1pkNEFQZHZhV1dJcnZ6TWJ3aHpVMUtoRkY5YXB6UUppNlBCaXY5ajFzbmNoOGhPR25hSjJtWXNET1VhU0dRSk1zalNIa0hVXzFTRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "29f7cb2c4362",
-      "title": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan - MAX Meldpunt",
+      "id": "787c8cb28ab1",
+      "title": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan",
       "published": "2026-09-25T04:12:20+00:00",
-      "summary": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan&nbsp;&nbsp;MAX MeldpuntVrijdag in Meldpunt Actueel: verwaarloosde gebitten bij kwetsbare ouderen&nbsp;&nbsp;Perssite Omroep MAXTandarts-geriater Claar Wierink: ‘Problemen in de mond beïnvloeden wel echt je dagelijks leven’&nbsp;&nbsp;MAX Meldpunt",
+      "summary": "Als de mond wordt vergeten: juist bij ouderen kan het snel misgaan&nbsp;&nbsp;maxmeldpunt.nlVrijdag in Meldpunt Actueel: verwaarloosde gebitten bij kwetsbare ouderen&nbsp;&nbsp;Perssite Omroep MAXTandarts-geriater Claar Wierink: ‘Problemen in de mond beïnvloeden wel echt je dagelijks leven’&nbsp;&nbsp;maxmeldpunt.nl",
       "sources": [
         {
-          "name": "MAX Meldpunt",
+          "name": "maxmeldpunt.nl",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXZCZm5nSEFKLWVoa0FXWnE3VG1jdTQxLWZDSnAtXzlfMzhmdFRKdmlqTFU4b3NERUZLNVN1eE82NXpvTFY5SE9rRl9GZUNQaDh6WkQtSFZ2M0VTNy1oX05JbVJYMEkwRlJEQXdnUnVaNTZCd0tiUldGUzZtc01UMVgzOUk3SXh1R3NtcVVCOWZLeHFJal9vQS1zNG8xWlVwb0lvbkhjTQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "55332f907332",
-      "title": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander",
-      "published": "2026-09-24T19:00:00+00:00",
-      "summary": "Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6f701b5b219",
-      "title": "Levende lijken en seksloze heksen: ‘Wisseljaren’ toont de denigrerende blik op postmenopauzale vrouwen",
-      "published": "2026-09-24T04:00:44+00:00",
-      "summary": "Levende lijken en seksloze heksen: ‘Wisseljaren’ toont de denigrerende blik op postmenopauzale vrouwen&nbsp;&nbsp;TrouwVerdragen, of het nou hitte is of eenzame opsluiting, is het woord dat vele eeuwen overgangsdenken samenvat&nbsp;&nbsp;de VolkskrantHoogleraar Rina Knoeff (53) ontleedt de ’machogeneeskunde’: hoe gynaecologie de overgang tot ’ziekte’ maakte&nbsp;&nbsp;Leeuwarder Courant",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGp6MlY4VmhZVUdOeFFuRG9KTGY3OF8wcktpWmFxcjlOdkxsYldhdTRzbzhyUHBVcnlxeEJxamlQaUpsMFA4MUpsd3JXeXkza3BNOTk2Q0Qtam51MlJac3dSTHNGeHhpRl9IbDl3RWMtRUdwYmNubFZRWVU3VTNLRkcteHRMYjd5NXNtRWw5QXFJOFZ0Mkg4UHpIM3ZhYlNyeEV0YUpHckhWSlZaT21mSVAtTlcyVi1mVzVBaXFCZTFGWl85UGVxc00yLWR4WVp2SWE0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "31f00fd17c3f",
-      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken",
-      "published": "2026-09-22T18:42:14+00:00",
-      "summary": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken&nbsp;&nbsp;welingelichtekringen.nlPink Ribbon lanceert meldpunt voor mythes over borstkanker: “De onwaarheden blijven steeds opnieuw opduiken”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "welingelichtekringen.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

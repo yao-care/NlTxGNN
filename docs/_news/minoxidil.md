@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Minoxidil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Minoxidil. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Minoxidil. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/minoxidil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/minoxidil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Minoxidil?">
-<strong>Minoxidil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Minoxidil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Minoxidil met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>hypotrichosis simplex of the scalp (100.0%)</li>
+<li>congenital hypotrichosis milia (100.0%)</li>
+<li>diffuse alopecia areata (100.0%)</li>
+<li>pseudopelade of Brocq (99.9%)</li>
+<li>pulmonary arterial hypertension (99.9%)</li>
+<li>pulmonary arteriovenous malformation (disease) (99.9%)</li>
+<li>pulmonary arterial hypertension associated with congenital heart disease (99.9%)</li>
+<li>primary hereditary glaucoma (99.8%)</li>
+<li>pulmonary arterial hypertension associated with schistosomiasis (99.8%)</li>
+<li>pulmonary arterial hypertension associated with HIV infection (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

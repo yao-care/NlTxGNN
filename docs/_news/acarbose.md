@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Acarbose"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Acarbose. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Acarbose. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/acarbose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acarbose/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Acarbose?">
-<strong>Acarbose</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Acarbose</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acarbose met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>focal stiff limb syndrome (99.7%)</li>
+<li>classic stiff person syndrome (99.7%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
+<li>opsismodysplasia (99.6%)</li>
+<li>drug-induced localized lipodystrophy (99.2%)</li>
+<li>centrifugal lipodystrophy (99.2%)</li>
+<li>pressure-induced localized lipoatrophy (99.2%)</li>
+<li>idiopathic localized lipodystrophy (99.2%)</li>
+<li>pancreatic agenesis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/acarbose/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

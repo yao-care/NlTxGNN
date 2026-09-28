@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Tropicamide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Tropicamide. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Tropicamide. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
 permalink: /news/tropicamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tropicamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Tropicamide?">
-<strong>Tropicamide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Tropicamide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Tropicamide met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (3)</strong>:<ul>
+<li>cauda equina syndrome (99.5%)</li>
+<li>obsolete neurogenic bladder (disease) (99.1%)</li>
+<li>irritable bowel syndrome (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tropicamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

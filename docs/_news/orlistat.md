@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Orlistat"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Orlistat. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Orlistat. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/orlistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Orlistat?">
-<strong>Orlistat</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Orlistat</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Orlistat met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>hypervitaminosis (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

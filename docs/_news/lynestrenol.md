@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Lynestrenol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Lynestrenol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Lynestrenol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
 permalink: /news/lynestrenol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lynestrenol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lynestrenol?">
-<strong>Lynestrenol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Lynestrenol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lynestrenol met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (5)</strong>:<ul>
+<li>migraine with or without aura, susceptibility to (99.5%)</li>
+<li>migraine disorder (99.5%)</li>
+<li>migraine with brainstem aura (99.3%)</li>
+<li>insomnia (disease) (99.1%)</li>
+<li>leprosy (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lynestrenol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

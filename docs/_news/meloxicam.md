@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Meloxicam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Meloxicam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Meloxicam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/meloxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meloxicam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Meloxicam?">
-<strong>Meloxicam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Meloxicam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Meloxicam met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
+<li>myosclerosis (99.9%)</li>
+<li>brachyolmia (99.9%)</li>
+<li>pseudoachondroplasia (99.8%)</li>
+<li>spondyloarthropathy, susceptibility to (99.5%)</li>
+<li>rheumatoid nodulosis (99.5%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.4%)</li>
+<li>WHIM syndrome (99.4%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/meloxicam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

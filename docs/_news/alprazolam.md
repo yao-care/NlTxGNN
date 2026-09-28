@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Alprazolam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Alprazolam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Alprazolam. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alprazolam?">
-<strong>Alprazolam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Alprazolam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alprazolam met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (3)</strong>:<ul>
+<li>insomnia (disease) (99.8%)</li>
+<li>benign paroxysmal torticollis of infancy (99.6%)</li>
+<li>agoraphobia (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

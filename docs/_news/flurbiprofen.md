@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Flurbiprofen"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Flurbiprofen. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Flurbiprofen. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/flurbiprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flurbiprofen/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Flurbiprofen?">
-<strong>Flurbiprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Flurbiprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flurbiprofen met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
+<li>brachydactyly-syndactyly syndrome (100.0%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
+<li>myosclerosis (100.0%)</li>
+<li>brachyolmia (100.0%)</li>
+<li>spondyloarthropathy, susceptibility to (100.0%)</li>
+<li>ankylosing spondylitis (100.0%)</li>
+<li>pseudoachondroplasia (100.0%)</li>
+<li>hypermobility of coccyx (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/flurbiprofen/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

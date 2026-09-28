@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Dutasteride"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Dutasteride. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Dutasteride. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/dutasteride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dutasteride/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Dutasteride?">
-<strong>Dutasteride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Dutasteride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Dutasteride met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>hypotrichosis simplex of the scalp (99.8%)</li>
+<li>congenital hypotrichosis milia (99.8%)</li>
+<li>diffuse alopecia areata (99.7%)</li>
+<li>migraine with brainstem aura (99.7%)</li>
+<li>familial isolated trichomegaly (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/dutasteride/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Alprostadil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Alprostadil. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Alprostadil. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/alprostadil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprostadil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alprostadil?">
-<strong>Alprostadil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Alprostadil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alprostadil met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>aortic malformation (100.0%)</li>
+<li>congenital tricuspid stenosis (99.9%)</li>
+<li>congenital valvular dysplasia (99.9%)</li>
+<li>straddling or overriding tricuspid valve (99.9%)</li>
+<li>tricuspid valve agenesis (99.9%)</li>
+<li>tricuspid valve prolapse (disease) (99.9%)</li>
+<li>anomaly of the tricuspid subvalvular apparatus (99.9%)</li>
+<li>double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy (99.9%)</li>
+<li>heart septal defect (99.4%)</li>
+<li>endemic goiter (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprostadil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

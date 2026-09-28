@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Zolmitriptan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Zolmitriptan. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Zolmitriptan. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
 permalink: /news/zolmitriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zolmitriptan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Zolmitriptan?">
-<strong>Zolmitriptan</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Zolmitriptan</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Zolmitriptan met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (3)</strong>:<ul>
+<li>migraine with brainstem aura (100.0%)</li>
+<li>atrophoderma vermiculata (99.9%)</li>
+<li>ulerythema ophryogenesis (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/zolmitriptan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

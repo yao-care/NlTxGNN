@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Budesonide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Budesonide. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Budesonide. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/budesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Budesonide?">
-<strong>Budesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Budesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Budesonide met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>atopic eczema (100.0%)</li>
+<li>bronchitis (99.8%)</li>
+<li>dermatitis, atopic (99.8%)</li>
+<li>polyp of vocal cord (99.7%)</li>
+<li>polyp of middle ear (99.7%)</li>
+<li>epulis (99.7%)</li>
+<li>fibroepithelial polyp (99.7%)</li>
+<li>uterine polyp (99.7%)</li>
+<li>polyp of frontal sinus (99.7%)</li>
+<li>polyp of external auditory canal (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

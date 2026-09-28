@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Leflunomide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Leflunomide. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Leflunomide. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/leflunomide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/leflunomide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Leflunomide?">
-<strong>Leflunomide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Leflunomide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Leflunomide met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>brachydactyly-syndactyly syndrome (99.9%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/leflunomide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

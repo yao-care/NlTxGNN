@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Entacapone"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Entacapone. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Entacapone. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/entacapone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,25 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>PLA2G6-associated neurodegeneration (99.8%)</li>
+<li>Rasmussen subacute encephalitis (99.7%)</li>
+<li>myelitis (99.6%)</li>
+<li>paralysis agitans, juvenile, of Hunt (99.6%)</li>
+<li>transaldolase deficiency (99.4%)</li>
+<li>lethal infantile mitochondrial myopathy (99.3%)</li>
+<li>Lewy body dementia (99.2%)</li>
+<li>fructose-1,6-bisphosphatase deficiency (99.2%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.1%)</li>
+<li>progressive supranuclear palsy-corticobasal syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Onderzoek benoemt risicofactoren voor het krijgen van dementie: ‘Vooral lage inkomens lopen risico’ - De Gelderlander](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">dementie</span>
-
-Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0JBZHlXZ2lCYWdiS3phVUVhaDhiQkZJcTBCbDZnVjRwdWI0MF9HbVRrZVRoU2gtb0Z5MFN0eEwxSVBHSHd1aEREaTg4R0kxRFlrVkxSWlo0TXplUHlLQ0tYVmstYUtUcjJFZENGS1lsb2Y3dHR2dGg1LXBYWmlfcDdZZHY5NkpXRXdoWnNMZHY3alJCN0JYYUZwOVhRQWp4LV9pSldmbGJkaHl6SEJuTmpva3NQd19xNFRvN1ZfVUNoaEFCdEZGdzVWd1F0M2hLZGlXLUc4UnBFX2NhNFE?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

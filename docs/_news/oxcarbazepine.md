@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Oxcarbazepine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Oxcarbazepine. Oorspronkelijke indicatie: Critically, visual epilepsy is not a distinct dise.... 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Oxcarbazepine. Oorspronkelijke indicatie: Critically, visual epilepsy is not a distinct dise.... 10 voorspelde indicaties."
 permalink: /news/oxcarbazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxcarbazepine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Oxcarbazepine?">
-<strong>Oxcarbazepine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Oxcarbazepine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,6 +26,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Oxcarbazepine met h
 <ul>
 <li><strong>Oorspronkelijke indicatie</strong>: Critically, visual epilepsy is not a distinct disease entity from a pharmacological perspective — it is a pathophysiologically contiguous subtype of the broader focal epilepsy category for which OXC...</li>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>visual epilepsy (100.0%)</li>
+<li>restless legs syndrome (99.9%)</li>
+<li>thinking seizures (99.9%)</li>
+<li>startle epilepsy (99.9%)</li>
+<li>audiogenic seizures (99.9%)</li>
+<li>micturation-induced seizures (99.9%)</li>
+<li>orgasm-induced seizures (99.9%)</li>
+<li>eating seizures (99.9%)</li>
+<li>status epilepticus (99.9%)</li>
+<li>reading seizures (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxcarbazepine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

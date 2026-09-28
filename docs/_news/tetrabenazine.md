@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Tetrabenazine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Tetrabenazine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Tetrabenazine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/tetrabenazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tetrabenazine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Tetrabenazine?">
-<strong>Tetrabenazine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Tetrabenazine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Tetrabenazine met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>polycystic kidney disease 3 with or without polycystic liver disease (99.9%)</li>
+<li>renal-hepatic-pancreatic dysplasia (99.9%)</li>
+<li>Joubert syndrome with renal defect (99.9%)</li>
+<li>karyomegalic interstitial nephritis (99.9%)</li>
+<li>thoracic malformation (99.8%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.8%)</li>
+<li>acute intermittent porphyria (99.8%)</li>
+<li>adult familial nephronophthisis-spastic quadriparesia syndrome (99.8%)</li>
+<li>atypical glycine encephalopathy (99.8%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetrabenazine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

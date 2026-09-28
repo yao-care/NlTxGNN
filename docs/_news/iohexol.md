@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Iohexol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Iohexol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Iohexol. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/iohexol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iohexol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Iohexol?">
-<strong>Iohexol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Iohexol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Iohexol met het laa
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>insomnia (disease) (99.9%)</li>
+<li>anxiety (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/iohexol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

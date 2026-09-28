@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Clozapine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Clozapine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Clozapine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/clozapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clozapine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Clozapine?">
-<strong>Clozapine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Clozapine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clozapine met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>manic bipolar affective disorder (100.0%)</li>
+<li>Tourette syndrome (99.9%)</li>
+<li>trichotillomania (99.9%)</li>
+<li>schizophreniform disorder (99.7%)</li>
+<li>bipolar disorder (99.6%)</li>
+<li>major affective disorder (99.5%)</li>
+<li>attention deficit-hyperactivity disorder (99.3%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.2%)</li>
+<li>psychotic disorder (99.1%)</li>
+<li>Malan overgrowth syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clozapine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

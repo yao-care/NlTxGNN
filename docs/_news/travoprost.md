@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Travoprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Travoprost. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Travoprost. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/travoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Travoprost?">
-<strong>Travoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Travoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Travoprost met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>visceral calciphylaxis (100.0%)</li>
+<li>venous thoracic outlet syndrome (100.0%)</li>
+<li>arterial thoracic outlet syndrome (100.0%)</li>
+<li>neurogenic thoracic outlet syndrome (100.0%)</li>
+<li>vascular disease (100.0%)</li>
+<li>angiodysplasia of stomach (100.0%)</li>
+<li>blue toe syndrome (100.0%)</li>
+<li>idiopathic spontaneous coronary artery dissection (100.0%)</li>
+<li>lymphangiectasis (100.0%)</li>
+<li>hemangioendothelioma (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

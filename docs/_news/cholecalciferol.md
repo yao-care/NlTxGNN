@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Cholecalciferol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cholecalciferol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cholecalciferol. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
 permalink: /news/cholecalciferol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cholecalciferol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Cholecalciferol?">
-<strong>Cholecalciferol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Cholecalciferol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cholecalciferol met
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (7)</strong>:<ul>
+<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
+<li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>
+<li>craniofacial conodysplasia (99.8%)</li>
+<li>Dahlberg-Borer-Newcomer syndrome (99.7%)</li>
+<li>hypophosphatemic rickets (99.2%)</li>
+<li>renal osteodystrophy (99.1%)</li>
+<li>renal tubular acidosis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cholecalciferol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

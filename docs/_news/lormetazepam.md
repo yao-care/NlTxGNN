@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Lormetazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Lormetazepam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Lormetazepam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/lormetazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lormetazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lormetazepam?">
-<strong>Lormetazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Lormetazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,25 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>insomnia (disease) (100.0%)</li>
+<li>alcohol withdrawal delirium (99.9%)</li>
+<li>antidepressant type abuse (99.8%)</li>
+<li>hallucinogen abuse (99.8%)</li>
+<li>barbiturate abuse (99.8%)</li>
+<li>anxiety (99.8%)</li>
+<li>cauda equina syndrome (99.7%)</li>
+<li>anxiety disorder (99.6%)</li>
+<li>sleep disorder, initiating and maintaining sleep (99.6%)</li>
+<li>benign paroxysmal torticollis of infancy (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lormetazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">angst</span>
-
-Bron: [Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

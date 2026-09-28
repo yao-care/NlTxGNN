@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Tadalafil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Tadalafil. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Tadalafil. Oorspronkelijke indicatie: . 8 voorspelde indicaties."
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Tadalafil?">
-<strong>Tadalafil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Tadalafil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 8 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Tadalafil met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (8)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>familial isolated trichomegaly (99.7%)</li>
+<li>kyphoscoliotic heart disease (99.4%)</li>
+<li>migraine with brainstem aura (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

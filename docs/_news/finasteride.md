@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Finasteride"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Finasteride. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Finasteride. Oorspronkelijke indicatie: . 6 voorspelde indicaties."
 permalink: /news/finasteride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/finasteride/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Finasteride?">
-<strong>Finasteride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Finasteride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Finasteride met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (6)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>familial isolated trichomegaly (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/finasteride/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

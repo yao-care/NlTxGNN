@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Pimecrolimus"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Pimecrolimus. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Pimecrolimus. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/pimecrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimecrolimus/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Pimecrolimus?">
-<strong>Pimecrolimus</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Pimecrolimus</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Pimecrolimus met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>seborrheic dermatitis (99.7%)</li>
+<li>dermatitis (99.4%)</li>
+<li>exanthem (disease) (99.3%)</li>
+<li>acrodermatitis chronica atrophicans (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimecrolimus/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

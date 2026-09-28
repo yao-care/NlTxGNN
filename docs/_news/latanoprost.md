@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Latanoprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Latanoprost. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Latanoprost. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Latanoprost?">
-<strong>Latanoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Latanoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Latanoprost met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>primary hereditary glaucoma (99.9%)</li>
+<li>visceral calciphylaxis (99.8%)</li>
+<li>hypotrichosis simplex of the scalp (99.8%)</li>
+<li>venous thoracic outlet syndrome (99.8%)</li>
+<li>arterial thoracic outlet syndrome (99.8%)</li>
+<li>neurogenic thoracic outlet syndrome (99.7%)</li>
+<li>congenital hypotrichosis milia (99.7%)</li>
+<li>angiodysplasia of stomach (99.7%)</li>
+<li>blue toe syndrome (99.7%)</li>
+<li>lymphangiectasis (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

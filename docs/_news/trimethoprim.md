@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Trimethoprim"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Trimethoprim. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Trimethoprim. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/trimethoprim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trimethoprim/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Trimethoprim?">
-<strong>Trimethoprim</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Trimethoprim</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Trimethoprim met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>punctate epithelial keratoconjunctivitis (99.6%)</li>
+<li>conjunctivitis (disease) (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/trimethoprim/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

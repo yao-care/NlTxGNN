@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Vecuronium"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Vecuronium. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Vecuronium. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/vecuronium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vecuronium/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Vecuronium?">
-<strong>Vecuronium</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Vecuronium</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Vecuronium met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>insomnia (disease) (99.3%)</li>
+<li>irritable bowel syndrome (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vecuronium/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Fulvestrant"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Fulvestrant. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Fulvestrant. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/fulvestrant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fulvestrant?">
-<strong>Fulvestrant</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Fulvestrant</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fulvestrant met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>HIV infectious disease (99.9%)</li>
+<li>multiple endocrine neoplasia (99.8%)</li>
+<li>simian immunodeficiency virus infection (99.8%)</li>
+<li>feline acquired immunodeficiency syndrome (99.8%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li>rheumatoid arthritis (99.6%)</li>
+<li>acne (disease) (99.4%)</li>
+<li>brachydactyly-syndactyly syndrome (99.3%)</li>
+<li>hemoglobinopathy (99.3%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

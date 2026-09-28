@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Levetiracetam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Levetiracetam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Levetiracetam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Levetiracetam?">
-<strong>Levetiracetam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Levetiracetam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Levetiracetam met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>visual epilepsy (100.0%)</li>
+<li>eating seizures (100.0%)</li>
+<li>audiogenic seizures (100.0%)</li>
+<li>orgasm-induced seizures (100.0%)</li>
+<li>thinking seizures (100.0%)</li>
+<li>startle epilepsy (100.0%)</li>
+<li>micturation-induced seizures (100.0%)</li>
+<li>reading seizures (99.9%)</li>
+<li>status epilepticus (99.9%)</li>
+<li>beta-ketothiolase deficiency (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

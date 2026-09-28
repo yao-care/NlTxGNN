@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Dienogest"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Dienogest. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Dienogest. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/dienogest/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dienogest/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Dienogest?">
-<strong>Dienogest</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Dienogest</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Dienogest met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>amenorrhea (disease) (99.7%)</li>
+<li>primary ovarian failure (99.7%)</li>
+<li>breast fibrocystic disease (99.6%)</li>
+<li>isolated growth hormone deficiency (99.5%)</li>
+<li>symptomatic form of fragile X syndrome in female carrier (99.5%)</li>
+<li>blepharophimosis-epicanthus inversus-ptosis (99.5%)</li>
+<li>hypogonadotropic hypogonadism with or without anosmia (99.5%)</li>
+<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (99.4%)</li>
+<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (99.4%)</li>
+<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/dienogest/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

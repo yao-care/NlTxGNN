@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Misoprostol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Misoprostol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Misoprostol. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/misoprostol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/misoprostol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Misoprostol?">
-<strong>Misoprostol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Misoprostol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Misoprostol met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>amenorrhea (disease) (99.6%)</li>
+<li>atypical coarctation of aorta (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/misoprostol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

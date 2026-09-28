@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Clobazam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Clobazam. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Clobazam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/clobazam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clobazam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Clobazam?">
-<strong>Clobazam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Clobazam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clobazam met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>febrile infection-related epilepsy syndrome (99.8%)</li>
+<li>perioral myoclonia with absences (99.8%)</li>
+<li>atypical childhood epilepsy with centrotemporal spikes (99.8%)</li>
+<li>photosensitive occipital lobe epilepsy (99.8%)</li>
+<li>cryptogenic late-onset epileptic spasms (99.8%)</li>
+<li>childhood onset epileptic encephalopathy (99.6%)</li>
+<li>benign occipital epilepsy (99.6%)</li>
+<li>early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation (99.4%)</li>
+<li>restless legs syndrome (99.3%)</li>
+<li>polymicrogyria with optic nerve hypoplasia (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobazam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

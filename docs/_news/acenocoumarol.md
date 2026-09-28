@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Acenocoumarol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Acenocoumarol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Acenocoumarol. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
 permalink: /news/acenocoumarol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acenocoumarol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Acenocoumarol?">
-<strong>Acenocoumarol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Acenocoumarol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acenocoumarol met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (3)</strong>:<ul>
+<li>heparin cofactor 2 deficiency (99.8%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.8%)</li>
+<li>antithrombin deficiency type 2 (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/acenocoumarol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

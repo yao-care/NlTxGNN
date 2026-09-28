@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ebastine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ebastine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ebastine. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
 permalink: /news/ebastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ebastine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ebastine?">
-<strong>Ebastine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Ebastine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ebastine met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>coronary artery disease (99.2%)</li>
+<li>myocardial ischemia (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

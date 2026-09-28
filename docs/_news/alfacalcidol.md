@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Alfacalcidol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Alfacalcidol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Alfacalcidol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
 permalink: /news/alfacalcidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alfacalcidol?">
-<strong>Alfacalcidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Alfacalcidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alfacalcidol met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (5)</strong>:<ul>
+<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.6%)</li>
+<li>Dahlberg-Borer-Newcomer syndrome (99.6%)</li>
+<li>craniofacial conodysplasia (99.5%)</li>
+<li>acromesomelic dysplasia, Campailla Martinelli type (99.5%)</li>
+<li>renal tubular acidosis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

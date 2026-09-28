@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Propranolol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Propranolol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Propranolol. Oorspronkelijke indicatie: . 6 voorspelde indicaties."
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Propranolol?">
-<strong>Propranolol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Propranolol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Propranolol met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (6)</strong>:<ul>
+<li>distal myopathy, Tateyama type (99.4%)</li>
+<li>congenital myopathy with excess of thin filaments (99.3%)</li>
+<li>hypertrophic cardiomyopathy due to intensive athletic training (99.2%)</li>
+<li>chondroma (99.1%)</li>
+<li>cirrhotic cardiomyopathy (99.1%)</li>
+<li>cardiomyopathy (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

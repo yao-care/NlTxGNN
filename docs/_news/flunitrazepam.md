@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Flunitrazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: The clinical development context has, however, fun.... 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: The clinical development context has, however, fun.... 10 voorspelde indicaties."
 permalink: /news/flunitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Flunitrazepam?">
-<strong>Flunitrazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Flunitrazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,19 +26,25 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 <ul>
 <li><strong>Oorspronkelijke indicatie</strong>: The clinical development context has, however, fundamentally changed since the drug's European approval era. Due to its extreme abuse potential as a drug used in drug-facilitated sexual assault, high...</li>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>insomnia (disease) (99.9%)</li>
+<li>migraine disorder (99.7%)</li>
+<li>migraine with brainstem aura (99.6%)</li>
+<li>anxiety (99.6%)</li>
+<li>anxiety disorder (99.6%)</li>
+<li>alcohol withdrawal delirium (99.5%)</li>
+<li>migraine with or without aura, susceptibility to (99.5%)</li>
+<li>agoraphobia (99.4%)</li>
+<li>benign paroxysmal torticollis of infancy (99.4%)</li>
+<li>atrophoderma vermiculata (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">angst</span>
-
-Bron: [Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

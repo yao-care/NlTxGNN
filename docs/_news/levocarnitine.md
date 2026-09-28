@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Levocarnitine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Levocarnitine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Levocarnitine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/levocarnitine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levocarnitine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Levocarnitine?">
-<strong>Levocarnitine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Levocarnitine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Levocarnitine met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.9%)</li>
+<li>brain small vessel disease 1 with or without ocular anomalies (99.9%)</li>
+<li>diabetic nephropathy (99.9%)</li>
+<li>rheumatoid arthritis (99.9%)</li>
+<li>sclerosing cholangitis (99.8%)</li>
+<li>gout (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.7%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>congestive heart failure (99.5%)</li>
+<li>hypoalphalipoproteinemia (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/levocarnitine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

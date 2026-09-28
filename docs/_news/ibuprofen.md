@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ibuprofen"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ibuprofen. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ibuprofen. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ibuprofen?">
-<strong>Ibuprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Ibuprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ibuprofen met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (7)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
+<li>myosclerosis (99.7%)</li>
+<li>brachyolmia (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.7%)</li>
+<li>pseudoachondroplasia (99.7%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Iloprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Iloprost. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Iloprost. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/iloprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iloprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Iloprost?">
-<strong>Iloprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Iloprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Iloprost met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>hypotrichosis simplex of the scalp (99.5%)</li>
+<li>congenital hypotrichosis milia (99.3%)</li>
+<li>pulmonary arterial hypertension associated with congenital heart disease (99.3%)</li>
+<li>pulmonary arteriovenous malformation (disease) (99.3%)</li>
+<li>pulmonary arterial hypertension associated with schistosomiasis (99.2%)</li>
+<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.2%)</li>
+<li>pulmonary arterial hypertension associated with HIV infection (99.2%)</li>
+<li>pulmonary arterial hypertension associated with connective tissue disease (99.2%)</li>
+<li>diffuse alopecia areata (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/iloprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

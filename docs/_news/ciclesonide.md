@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ciclesonide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ciclesonide. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ciclesonide. Oorspronkelijke indicatie: . 6 voorspelde indicaties."
 permalink: /news/ciclesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciclesonide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ciclesonide?">
-<strong>Ciclesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Ciclesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ciclesonide met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (6)</strong>:<ul>
+<li>atopic eczema (100.0%)</li>
+<li>2-hydroxyethyl methacrylate sensitization (99.8%)</li>
+<li>dermatitis, atopic (99.7%)</li>
+<li>bronchitis (99.7%)</li>
+<li>contact dermatitis (99.2%)</li>
+<li>asthma-related traits, susceptibility to (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciclesonide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

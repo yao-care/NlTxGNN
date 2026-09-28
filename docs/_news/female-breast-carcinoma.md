@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over borstkanker (female breast carcinoma)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over borstkanker (female breast carcinoma). 2 berichten, 2 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over borstkanker (female breast carcinoma). 1 berichten, 2 gerelateerde geneesmiddelen."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over borstkanker (female breast carcinoma)?">
-<strong>borstkanker (female breast carcinoma)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 2 gerelateerde geneesmiddelen.
+<strong>borstkanker (female breast carcinoma)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 2 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “borstkanker” en toon
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
-### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
+### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 
 2026-09-27
 
-Bron: [oudersvannu.nl](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
-
----
-
-### [Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
-
-2026-09-22
-
-Bron: [welingelichtekringen.nl](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
+Bron: [Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 
 ---
 

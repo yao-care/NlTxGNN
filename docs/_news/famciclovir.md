@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Famciclovir"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Famciclovir. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Famciclovir. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/famciclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famciclovir/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Famciclovir?">
-<strong>Famciclovir</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Famciclovir</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,33 +25,28 @@ Deze pagina combineert de door AI voorspelde indicaties voor Famciclovir met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>post-infectious neuralgia (99.8%)</li>
+<li>sequela of COVID-19 (99.7%)</li>
+<li>hepatitis C induced liver cirrhosis (99.7%)</li>
+<li>malignant pleural mesothelioma (99.5%)</li>
+<li>AIDS-related disorder (99.3%)</li>
+<li>malignant epithelioid mesothelioma (99.1%)</li>
+<li>chickenpox (99.1%)</li>
+<li>sarcomatoid mesothelioma (99.1%)</li>
+<li>malignant visceral pleura tumor (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/famciclovir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (1)
 
-### [Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">kanker</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYVdvd3U4dU13TU9LT3hOUFhGNTNoQXVfRmU1bUlQOW5qZXhtaERwLXRJb3BlMGwyMlhMVF9RUGNjR3d6WHYxUjRUZ202NjlPZ3pUcTBPSzA0SjVJelVoNkpRUmllS3hCQ2t3eXlmaUs3Uy1qSXZISlMtTjhXYXB0WFY2STVfTWphZjhVSzJpVWZHcWkyWVVYTE4wdUh1UlF3SW55bjhiQlFyNVVpRE5BdWRtcTM4YzVJUlVXelJTRUNXV09CcEdPc19tbmszWHdDTW95U1RrbldhcmtXakVJdGFVdm1SVUYwdWx0RTJqWWdKUnh2QXpral9yR1Vxdw?oc=5)
-
----
-
-### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
+### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 
 2026-09-27 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
-Bron: [oudersvannu.nl](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
-
----
-
-### [Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
-
-2026-09-22 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [welingelichtekringen.nl](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5)
+Bron: [Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 
 ---
 

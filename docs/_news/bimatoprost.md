@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Bimatoprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Bimatoprost. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Bimatoprost. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/bimatoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bimatoprost?">
-<strong>Bimatoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Bimatoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bimatoprost met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypotrichosis simplex of the scalp (100.0%)</li>
+<li>congenital hypotrichosis milia (100.0%)</li>
+<li>diffuse alopecia areata (100.0%)</li>
+<li>alopecia (100.0%)</li>
+<li>genetic alopecia (100.0%)</li>
+<li>pulmonary arteriovenous malformation (disease) (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

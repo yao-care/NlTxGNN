@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Estriol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Estriol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Estriol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/estriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estriol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Estriol?">
-<strong>Estriol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Estriol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Estriol met het laa
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>amenorrhea (disease) (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/estriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

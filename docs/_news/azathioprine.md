@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Azathioprine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Azathioprine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Azathioprine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/azathioprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Azathioprine?">
-<strong>Azathioprine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Azathioprine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Azathioprine met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
+<li>brachydactyly-syndactyly syndrome (100.0%)</li>
+<li>osteoarthritis susceptibility (99.7%)</li>
+<li>WHIM syndrome (99.7%)</li>
+<li>inflammatory bowel disease (99.5%)</li>
+<li>granulomatous disease, chronic, autosomal recessive, 5 (99.4%)</li>
+<li>osteoarthritis (99.4%)</li>
+<li>granulomatous disease with defect in neutrophil chemotaxis (99.4%)</li>
+<li>ulcerative colitis (disease) (99.3%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

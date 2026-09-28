@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Naproxen"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Naproxen. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Naproxen. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/naproxen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naproxen/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Naproxen?">
-<strong>Naproxen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Naproxen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Naproxen met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>brachydactyly-syndactyly syndrome (99.3%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.2%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/naproxen/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

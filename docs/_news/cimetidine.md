@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Cimetidine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cimetidine. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cimetidine. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/cimetidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cimetidine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Cimetidine?">
-<strong>Cimetidine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Cimetidine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cimetidine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>Smouldering systemic mastocytosis (99.8%)</li>
+<li>active peptic ulcer disease (99.8%)</li>
+<li>peptic ulcer perforation (99.8%)</li>
+<li>gastrojejunal ulcer (99.8%)</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia (99.8%)</li>
+<li>duodenogastric reflux (99.5%)</li>
+<li>duodenal obstruction (99.4%)</li>
+<li>acne (disease) (99.3%)</li>
+<li>abnormality of glucagon secretion (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cimetidine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

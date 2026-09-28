@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Droperidol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Droperidol. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Droperidol. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/droperidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/droperidol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Droperidol?">
-<strong>Droperidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Droperidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Tourette syndrome (99.9%)</li>
+<li>trichotillomania (99.9%)</li>
+<li>manic bipolar affective disorder (99.8%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.7%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
+<li>attention deficit-hyperactivity disorder (99.5%)</li>
+<li>headache disorder (99.5%)</li>
+<li>common cold (99.5%)</li>
+<li>hypertrichosis (disease) (99.5%)</li>
+<li>specific developmental disorder (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/droperidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

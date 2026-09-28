@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Alteplase"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Alteplase. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Alteplase. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/alteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alteplase?">
-<strong>Alteplase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Alteplase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alteplase met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>posterolateral myocardial infarction (99.8%)</li>
+<li>posteroinferior myocardial infarction (99.8%)</li>
+<li>septal myocardial infarction (99.8%)</li>
+<li>heparin cofactor 2 deficiency (99.7%)</li>
+<li>congenital coronary artery anomaly (99.6%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.6%)</li>
+<li>antithrombin deficiency type 2 (99.6%)</li>
+<li>thrombophilia (99.4%)</li>
+<li>coronary stenosis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

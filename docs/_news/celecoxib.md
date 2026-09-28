@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Celecoxib"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Celecoxib. Oorspronkelijke indicatie: . 0 voorspelde indicaties."
+description: "Gezondheidsnieuws over Celecoxib. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Celecoxib?">
-<strong>Celecoxib</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 0 voorspelde indicaties.
+<strong>Celecoxib</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Celecoxib met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
+<li>rheumatoid vasculitis (99.8%)</li>
+<li>myosclerosis (99.8%)</li>
+<li>hypermobility of coccyx (99.8%)</li>
+<li>brachyolmia (99.8%)</li>
+<li>rheumatoid nodulosis (99.8%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
+<li>inflammatory spondylopathy (99.8%)</li>
+<li>WHIM syndrome (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

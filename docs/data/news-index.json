@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-28T03:27:43.720897+00:00",
-  "count": 5,
+  "generated": "2026-09-28T12:49:17.755861+00:00",
+  "count": 6,
   "news": [
     {
       "id": "9af33a12aa2c",
       "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad",
-      "published": "2026-09-27T19:00:03+00:00",
+      "published": "2026-09-27T19:00:00+00:00",
       "sources": [
         {
           "name": "Eindhovens Dagblad",
@@ -155,12 +155,12 @@
       ]
     },
     {
-      "id": "5d8583aa5151",
-      "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu",
+      "id": "103d4518f8f1",
+      "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’",
       "published": "2026-09-27T10:01:08+00:00",
       "sources": [
         {
-          "name": "Ouders van Nu",
+          "name": "oudersvannu.nl",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5"
         }
       ],
@@ -318,12 +318,40 @@
       ]
     },
     {
-      "id": "33251846e93e",
-      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken - Welingelichte Kringen",
+      "id": "e6f701b5b219",
+      "title": "Levende lijken en seksloze heksen: ‘Wisseljaren’ toont de denigrerende blik op postmenopauzale vrouwen",
+      "published": "2026-09-24T04:00:44+00:00",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGp6MlY4VmhZVUdOeFFuRG9KTGY3OF8wcktpWmFxcjlOdkxsYldhdTRzbzhyUHBVcnlxeEJxamlQaUpsMFA4MUpsd3JXeXkza3BNOTk2Q0Qtam51MlJac3dSTHNGeHhpRl9IbDl3RWMtRUdwYmNubFZRWVU3VTNLRkcteHRMYjd5NXNtRWw5QXFJOFZ0Mkg4UHpIM3ZhYlNyeEV0YUpHckhWSlZaT21mSVAtTlcyVi1mVzVBaXFCZTFGWl85UGVxc00yLWR4WVp2SWE0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31f00fd17c3f",
+      "title": "Waardoor krijg je borstkanker? Dit zijn de cijfers over de belangrijkste oorzaken",
       "published": "2026-09-22T18:42:14+00:00",
       "sources": [
         {
-          "name": "Welingelichte Kringen",
+          "name": "welingelichtekringen.nl",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkladGswRnhWVkdKZDBFZGVZVHUwWk9RcXFQSk9ISFM1a0JoYUtJLU5TdnIycVR5NlN1Y1k2M1pxWmdFRXFYY0JpSHB2UnFhT1FIN3FOWmJJLWpRU19XUEplQ3lBVHZTa0NwU3NUY04wRlctbk5zRmxpSWE2MVZ3S2RjeWF2eXpsUjhqeHFkQzhSWHZPNmJ3MFY0SWFKVmh6bmNvdjhtZXlqU01yc0FoRk9LTFRWTFJtcFlTbjNQd0NPZG9oeVE?oc=5"
         }
       ],

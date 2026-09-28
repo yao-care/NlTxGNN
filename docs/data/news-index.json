@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-27T20:48:56.996383+00:00",
+  "generated": "2026-09-28T03:27:43.720897+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "9af33a12aa2c",
+      "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad",
+      "published": "2026-09-27T19:00:03+00:00",
+      "sources": [
+        {
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "angst",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "lormetazepam",
+              "name": "Lormetazepam"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "aaa986a79524",
       "title": "Jetske (30) overleed vorig jaar aan kanker, familie en vrienden eren haar op Levensloop: “Ze was bang dat zoon Victor haar zou vergeten”",
@@ -260,34 +288,6 @@
             {
               "slug": "bicalutamide",
               "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "260f7ec61a65",
-      "title": "Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee - Eindhovens Dagblad",
-      "published": "2026-09-26T15:30:38+00:00",
-      "sources": [
-        {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "angst",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "lormetazepam",
-              "name": "Lormetazepam"
             }
           ]
         }

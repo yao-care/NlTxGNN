@@ -32,11 +32,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 
 ## Gerelateerd nieuws (1)
 
-### [Hartslag 160 per minuut? Dat is al doodeng, maar die angst in je hoofd tikt nog harder mee - Eindhovens Dagblad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5)
+### [Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
 
-2026-09-26 <span class="news-indication-tag">angst</span>
+2026-09-27 <span class="news-indication-tag">angst</span>
 
-Bron: [Eindhovens Dagblad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPME9LaVBrTzNuUGFvbTBxNURnSTluQTJfMkUyUE1HNm5JYXFYQWpLaFpPTEpiTlRySVZNczhyNnhqYjJHZ1NyMmNkb190eTBVQjhETWhXdktPZDBMdk04RjR3aUR4NGczOU1zNVg1eFNiU2RxcENEaU1JZC05MDFqNk05d0JvWExDQXFzRUpRbEl6bXU1UVg2NGRhX3ZoMXNLMDUzNzZQcTROd21aeWtSRUliMW84UE1sa1k4VERXR3I2eDBL?oc=5)
+Bron: [Eindhovens Dagblad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1UwQWZYVjc1dGZmT09vcXpNbTdQdmdGQmJIWmRJbkItRkxETG9hNUtnZDBicS1Xd1Z4TzRsUGgzMDV3WUNTLUl3SkM4Y3JzeWE2LWtNckRjVkZoVVBnYnU0NzdwWkt6QWxLcWtVdHlwY3QtdnFmczRKNXZTZXFoMjdtV2VzaTBHX3h1bG9HY05MZWp3QWZmLUdUemxuaTZw?oc=5)
 
 ---
 

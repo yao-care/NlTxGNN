@@ -321,8 +321,9 @@ class DrugBundleAggregator:
         if name not in self._collectors:
             try:
                 if name == "thaifda":
-                    from .thaifda import ThaiFDACollector
-                    self._collectors[name] = ThaiFDACollector()
+                    # 本國藥證（Phase 5 標準收集器，讀 Phase 1 的 loader / fields.yaml / drug_mapping）
+                    from .nlfda import LocalFDACollector
+                    self._collectors[name] = LocalFDACollector()
                 elif name == "tctr":
                     from .thaifda import TCTRCollector
                     self._collectors[name] = TCTRCollector()

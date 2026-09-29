@@ -14,7 +14,7 @@ permalink: /news/bumetanide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bumetanide?">
-<strong>Bumetanide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Bumetanide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bumetanide met het 
 <p><a href="{{ '/drugs/bumetanide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen - RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+
+2026-09-29 <span class="news-indication-tag">hartziekte</span>
+
+Bron: [RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+
+---
 
 
 <div class="disclaimer">

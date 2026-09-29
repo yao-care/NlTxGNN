@@ -1,7 +1,95 @@
 {
-  "generated": "2026-09-29T04:03:25.065584+00:00",
-  "count": 1,
+  "generated": "2026-09-29T12:03:48.722129+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "5e869a9435fd",
+      "title": "UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen - RTV Noord",
+      "published": "2026-09-29T05:53:17+00:00",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "hartziekte",
+          "related_drugs": [
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "minoxidil",
+              "name": "Minoxidil"
+            },
+            {
+              "slug": "propranolol",
+              "name": "Propranolol"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol"
+            },
+            {
+              "slug": "bumetanide",
+              "name": "Bumetanide"
+            },
+            {
+              "slug": "etoricoxib",
+              "name": "Etoricoxib"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "iloprost",
+              "name": "Iloprost"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5d8583aa5151",
       "title": "Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu",

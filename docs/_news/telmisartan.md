@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Telmisartan?">
-<strong>Telmisartan</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Telmisartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Telmisartan met het
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen - RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+
+2026-09-29 <span class="news-indication-tag">hartziekte</span>
+
+Bron: [RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+
+---
 
 ### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 

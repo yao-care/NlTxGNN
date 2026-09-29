@@ -1,29 +1,65 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-29T04:03:24.957989+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-29T12:03:48.609700+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "1d35da790141",
-      "title": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden - jeugdjournaal.nl",
+      "id": "39096cb69948",
+      "title": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden - Jeugdjournaal",
       "published": "2026-09-28T10:14:24+00:00",
-      "summary": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;jeugdjournaal.nlMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladEr schuilt een donkere realiteit achter onze zonnepanelen, gsm’s en elektrische auto’s&nbsp;&nbsp;De MorgenFrontlinies in conflicten zijn meer voorspelbaar dan deze onzichtbare vijand in Congo&nbsp;&nbsp;DVHNDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nl",
+      "summary": "In dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;JeugdjournaalMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladEr schuilt een donkere realiteit achter onze zonnepanelen, gsm’s en elektrische auto’s&nbsp;&nbsp;De MorgenDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nlAantal ebolagevallen in Congo overschrijdt 8.000, aldus regering&nbsp;&nbsp;MarketScreener Nederland",
       "sources": [
         {
-          "name": "jeugdjournaal.nl",
+          "name": "Jeugdjournaal",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0FHMUJsY2JEanF3bEhfdUY3SWE5LTFNQWdVU0tVUTA0SnB2T01rQTB6cFdYY1dMclpVR25nbVg0S0lnTjVrYmlpUV8zUzVKbDdCbHFleU41NFEtZnR1cE5scjlfMkJlakgwTTJlUGJrdVFyLVBpZVc2aVdkeFhUcndVcExmaG92Ymh6TFpfbXhZQ2ZoNlR5VTBfazh5ZGVXVTBycnQ5a2JaR3kxZzYxaFRkbw?oc=5"
         }
       ]
     },
     {
-      "id": "86061bedd804",
-      "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - AD.nl",
-      "published": "2026-09-27T19:00:00+00:00",
-      "summary": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "ee8c94f9eb98",
+      "title": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan - ad.nl",
+      "published": "2026-09-29T07:01:35+00:00",
+      "summary": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan&nbsp;&nbsp;ad.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
+          "name": "ad.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1acHdpdlNDSFB1Q3pYbS1VWkRzSzVRTWJKMU9MdjBUVllIRnhxdjNxTlZ5UFlEZU1RU3hacHdEU2IxcXE1TDlUSVZBdnNvNTB5dVMwWXJpUVd6Q25MVUxEOGVpMHpMenlwdHhoTnhINHFMWW9sbi1iUFBaU0ZoYXdJQkxDNXVZb3I1N1hXWmZBU2hEdWJvOWh4SklnWUVCZWlqQXdoOC1GbURaVmt4RDhIbXlDRkpjM2F4eWpUQm9uYzhhazhZbFYxakVfXzdpLW5TTmNYaUZoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e869a9435fd",
+      "title": "UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen - RTV Noord",
+      "published": "2026-09-29T05:53:17+00:00",
+      "summary": "UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen&nbsp;&nbsp;RTV NoordUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;HartstichtingSekseverschillen meenemen in hart- en vaatzorg&nbsp;&nbsp;UMC UtrechtVan meer aandacht naar betere zorg voor het vrouwenhart&nbsp;&nbsp;vvd.nl",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "839129aeedde",
+      "title": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’ - ad.nl",
+      "published": "2026-09-27T19:00:00+00:00",
+      "summary": "Hartritmestoornis? ‘Je bent zelf onderdeel van het behandelplan’&nbsp;&nbsp;ad.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "ad.nl",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGs1c25FWkgyc0hTWTRJb0N5NTZidjFpRzJyd3AzdXlGeVpYYVVIOV9lVk42d21WS1F1REMwVks3b0pzbWdxSEhCeXhjYXU3VjM0djU2LWh5anlZTnBVZ0IyWW5HYTFGNWxFVlRKMWVvRWdITm9hS09GbTJDa2dRM1NXLVg2ZHpRVlJzTFAtRDFvejhxQXZqbEh3VUxrNUpk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dfe3a8b3e3a",
+      "title": "Post-covidpatiënt Antoinette voelt zich soms \"dementerend\", maar is wel gelukkig - Omrop Fryslân",
+      "published": "2026-09-28T18:01:59+00:00",
+      "summary": "Post-covidpatiënt Antoinette voelt zich soms \"dementerend\", maar is wel gelukkig&nbsp;&nbsp;Omrop Fryslân",
+      "sources": [
+        {
+          "name": "Omrop Fryslân",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjRHU0RtdGpnaHhHQ04wM0pqXzRYQWtnUWRwNDNYZ2FsOUV5MkNFc2FlRWhuSzY2eTFSS0I1NUFCenI5MGRwejN0NzlPZjlEZTdaaVJVMDBBQ2FldWlDdUl4NThaRGtnMWREQTRVREJXeEpxUXdSRGJHQWppbm5zb1JvbTVKekV5N1laeDFsMnV3ZGJJXzJZazcweFozbzZzbTR3R3dWeEI4YkJMekNjeEhfZ3BfSFFmZVZvNVVsUW91Zw?oc=5"
         }
       ]
     },

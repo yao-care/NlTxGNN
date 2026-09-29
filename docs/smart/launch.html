@@ -66,7 +66,7 @@
   <div class="launch-container">
     <div class="spinner" id="spinner"></div>
     <h1>NlTxGNN SMART App</h1>
-    <p id="status">正在連線至 EHR 系統...</p>
+    <p id="status">Connecting to the EHR...</p>
     <div class="error" id="error"></div>
   </div>
 
@@ -83,7 +83,7 @@
 
       function showError(message) {
         spinnerEl.style.display = 'none';
-        statusEl.textContent = '啟動失敗';
+        statusEl.textContent = 'Launch failed';
         errorEl.textContent = message;
         errorEl.classList.add('visible');
       }
@@ -114,7 +114,7 @@
         pkce: true
       }).catch(function(error) {
         console.error('SMART authorization error:', error);
-        showError('無法啟動 SMART 授權流程。請確認您是從 EHR 系統啟動此應用程式。\n\n錯誤訊息: ' + (error.message || error));
+        showError('Could not start the SMART authorisation flow. Make sure you launched this app from an EHR.\n\nError: ' + (error.message || error));
       });
 
     })();

@@ -35,11 +35,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ebastine met het la
 
 ## Gerelateerd nieuws (1)
 
-### [UMCG kleurt rood voor betere herkenning van hartziekten bij vrouwen - RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+### [Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">hartziekte</span>
 
-Bron: [RTV Noord](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdWbkl0akFDYkJKMzNia2c1b3ZzcGgza0FQNHRobElZYU1XSjJFb1N5RjJVYnhCNGZLVzl5U0ZRVkVqa0ItMXpjck8zdVBLelZDTEl3UEpJUTlWQnVFTzB5RFVKWm9HYlRFV0VQdGR6NUI3X0xGSVp6YmZJODd2ZlkxTVJOeks4UjZJRkY1TVVST0l1ellJV2lJNGFPZVNCbWhvNlZXOA?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
 
 ---
 

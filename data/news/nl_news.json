@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-09-30T17:33:00.700323+00:00",
+  "fetched_at": "2026-09-30T21:49:51.282414+00:00",
   "count": 8,
   "news": [
     {
       "id": "9a4f7c51c42a",
       "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter' - NOS",
       "published": "2026-09-29T18:30:01+00:00",
-      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;NOSIn dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;jeugdjournaal.nlMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladKrijgt Congo zijn ebolacrisis eindelijk onder controle? “We zien beterschap”&nbsp;&nbsp;De StandaardDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nl",
+      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;NOSIn dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;JeugdjournaalMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladKrijgt Congo zijn ebolacrisis eindelijk onder controle? “We zien beterschap”&nbsp;&nbsp;De StandaardDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nl",
       "sources": [
         {
           "name": "NOS",
@@ -31,7 +31,7 @@
       "id": "7e170cce941a",
       "title": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’ - AD.nl",
       "published": "2026-09-29T17:15:00+00:00",
-      "summary": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’&nbsp;&nbsp;AD.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;rtvnoord.nlDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;hartstichting.nl'Ik wil dat we allemaal rood dragen, omdat we h",
+      "summary": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’&nbsp;&nbsp;AD.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;Hartstichting'Ik wil dat we allemaal rood dragen, omdat we het vr",
       "sources": [
         {
           "name": "AD.nl",
@@ -40,26 +40,26 @@
       ]
     },
     {
-      "id": "a1f112deef1c",
-      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - pzc.nl",
+      "id": "a78323f7ae2c",
+      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - Eindhovens Dagblad",
       "published": "2026-09-30T08:25:14+00:00",
-      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "pzc.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGwwNXdoVWk4cUgyUk1CUmdBV2dCQTU0WENRRW9EZWlxR0hwYTViQ1FvcjVCSE5RTC1zcVNEMXB0OTNJUk5tQmZrWng4Y0Z6Z2g2ZG5Ra3k4cm02SElyYUFXeVg5TTY3c1RNVGJaREZ4RTViemJaUUlWVUZ0dy1MeUtCMk5udXBnNE1BUlFKMkRYZ1dBdlpGdUUway1INWVGVk9nUDBzTmxiMEx3TjAtTjQyTzA4STNPYzFOdk9TZFNxS25ZeGs1dFNoRTVCbDQ?oc=5"
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQU9kRWs0LUtzd1ZpS0hNTzZ3TTIyRVc4V0lfM1JKMmtZZjdtcjJUY3hyOFQ1dDE5Mk4yUS1oaWhxR2NtNE9mXzNZTi1BY016eHh3VEpYT3hJLUZBSWZEZG03cWgyQkNwZm04b1VxS0ZWeTlQY1k1LWQtMm1xVTl3YVlVUU1RSjU5MHo1NThWaTV1blp5UVNBOUdhMXh6WDBtc2NJV3doNW13c3VZOWl0WlBmV3JIZXJ3MjdxeExnZHEydGN4eHp2ag?oc=5"
         }
       ]
     },
     {
-      "id": "23a930f57ae4",
-      "title": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen - Starnieuws",
-      "published": "2026-09-30T09:53:00+00:00",
-      "summary": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen&nbsp;&nbsp;Starnieuws",
+      "id": "df80a6cd101d",
+      "title": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan - AD.nl",
+      "published": "2026-09-29T07:01:35+00:00",
+      "summary": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWclZ5b2cxeHNyMHBqNlM1RGtPSFJBelZxaDQxc0J6NFVLbFZENkI5RWFreHc2WTIwQldOZ2tITUhGdXZXMm1lX0xqdmRuYmdpdC1wdnM5TnVjdlk2VmVBY3llcm0wMERLeWRQY2F2ckZ6OUxQWGc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1acHdpdlNDSFB1Q3pYbS1VWkRzSzVRTWJKMU9MdjBUVllIRnhxdjNxTlZ5UFlEZU1RU3hacHdEU2IxcXE1TDlUSVZBdnNvNTB5dVMwWXJpUVd6Q25MVUxEOGVpMHpMenlwdHhoTnhINHFMWW9sbi1iUFBaU0ZoYXdJQkxDNXVZb3I1N1hXWmZBU2hEdWJvOWh4SklnWUVCZWlqQXdoOC1GbURaVmt4RDhIbXlDRkpjM2F4eWpUQm9uYzhhazhZbFYxakVfXzdpLW5TTmNYaUZoQQ?oc=5"
         }
       ]
     },
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "e73e1d9733b7",
-      "title": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn - BN DeStem",
-      "published": "2026-09-28T18:01:33+00:00",
-      "summary": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn&nbsp;&nbsp;BN DeStem",
+      "id": "23a930f57ae4",
+      "title": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen - Starnieuws",
+      "published": "2026-09-30T09:53:00+00:00",
+      "summary": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen&nbsp;&nbsp;Starnieuws",
       "sources": [
         {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek90WnlLV1JnM3ZwZDFsZnR0b281ellETmRRams2ZmVPUHhmZGFJa29zM19TczVmOTBtVGtNMVg4WkVuSjNlNTRjVW5CcFkyZ05TX1NsbFIzbk9yMlBtUEhldC1wRFViN3hUVlp3dUVVVkdtRUhERDFONEp4RmUzZ1RWSlpwV29NU0s1OWNLWUpyM01TdXhOX3EwWThPY2RvOG9SWjVNdnppbHZFUE41WF96RE9XSHZWRzNJWDVGT2lnRS1fNXRuWmxtZG9USE9EZEhfWkJYYzhqb0VWLTE0?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWclZ5b2cxeHNyMHBqNlM1RGtPSFJBelZxaDQxc0J6NFVLbFZENkI5RWFreHc2WTIwQldOZ2tITUhGdXZXMm1lX0xqdmRuYmdpdC1wdnM5TnVjdlk2VmVBY3llcm0wMERLeWRQY2F2ckZ6OUxQWGc?oc=5"
         }
       ]
     },

@@ -1,128 +1,65 @@
 {
-  "last_updated": "2026-09-30T11:51:59.710751+00:00",
+  "last_updated": "2026-09-30T17:33:00.798140+00:00",
   "total_count": 8,
-  "matched_count": 3,
+  "matched_count": 2,
   "news": [
     {
-      "id": "2116831a96c4",
-      "title": "Snipverkouden? Het kan griep zijn, maar meeste mensen hebben last van rhinovirus of corona - Het Parool",
-      "published": "2026-09-30T06:01:37+00:00",
-      "summary": "Snipverkouden? Het kan griep zijn, maar meeste mensen hebben last van rhinovirus of corona&nbsp;&nbsp;Het ParoolMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "23a930f57ae4",
+      "title": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen",
+      "published": "2026-09-30T09:53:00+00:00",
+      "summary": "PAHO: bijna 40 procent van ziektelast in Amerika’s mogelijk te voorkomen&nbsp;&nbsp;Starnieuws",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWclZ5b2cxeHNyMHBqNlM1RGtPSFJBelZxaDQxc0J6NFVLbFZENkI5RWFreHc2WTIwQldOZ2tITUhGdXZXMm1lX0xqdmRuYmdpdC1wdnM5TnVjdlk2VmVBY3llcm0wMERLeWRQY2F2ckZ6OUxQWGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a1f112deef1c",
+      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het",
+      "published": "2026-09-30T08:25:14+00:00",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGwwNXdoVWk4cUgyUk1CUmdBV2dCQTU0WENRRW9EZWlxR0hwYTViQ1FvcjVCSE5RTC1zcVNEMXB0OTNJUk5tQmZrWng4Y0Z6Z2g2ZG5Ra3k4cm02SElyYUFXeVg5TTY3c1RNVGJaREZ4RTViemJaUUlWVUZ0dy1MeUtCMk5udXBnNE1BUlFKMkRYZ1dBdlpGdUUway1INWVGVk9nUDBzTmxiMEx3TjAtTjQyTzA4STNPYzFOdk9TZFNxS25ZeGs1dFNoRTVCbDQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ebc28c1f0c36",
+      "title": "Is dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet - Het Parool",
+      "published": "2026-09-30T05:24:00+00:00",
+      "summary": "Is dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet&nbsp;&nbsp;Het ParoolWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep WestOok patiënten met westnijlvirus in Noordwest Ziekenhuis. Na beet van besmette mug worden 50-plussers met lagere weerstand vaak ziek&nbsp;&nbsp;Noordhollands DagbladGrote vraag naar vaccins tegen Westnijlvirus bij paarden&nbsp;&nbsp;Omroep FlevolandBijna 1600 mensen in Europa be",
       "sources": [
         {
           "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXdRSWJzdUJaOENUYkVJU2lwSEJKODgzVFNQTXc4cU1jNHJUSi1ncXVfUlJ4UFNWaG10MnVhbmNIWDA0d1VZRFlLNGR3bVdQZUpuTXRWeV9fNFJkdXM2cWg0cmJkM21BZ2N6LTR2bWVjMWU1QXIyT2VhdmRaclgxTGhROVZHV0V2bWsyUTRQSnktV2NleURSSzhxTDhGWWU2V2ZNQ1NodFR4OU5WX0dXR2NJRmx6ZFVDT09randwbVh4MkRtb2Q0NTh3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVXROclpqcmJzRUZxNWoyU0ZyV2NsWE4wT21PZEQxWGlVZWpLa3JMTkVKbFM3bDRZVU8wcjQ0M01ETHNRQXlaVkJ0T2VkcHdJVzVNNlBxNzdzbjdHRVpKTmMzTTVZUnNGd2xTMEN6cTZFVmxwNzlTcmMxTzVwOWp2bjNRR0lYc2FtUjB2VTRHNXR2STVrdjdFYkRRT0FsSE9kMkhmcjVQbnlZcW9nZ09NdEF6V3pPV3dIQkthbFdOTTRobXV3RGNjZmcwT3kzUVA4TXY2SHlLb2hvR3NWSkRreFhpNUJ5YjFWSWJ2UVhB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ecc6bf31c208",
-      "title": "Waarschuwing voor muggenbeten, westnijlvirus ligt op de loer - Omroep West",
-      "published": "2026-09-30T05:25:42+00:00",
-      "summary": "Waarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep WestIs dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet&nbsp;&nbsp;Het ParoolGrote vraag naar vaccins tegen Westnijlvirus bij paarden&nbsp;&nbsp;Omroep FlevolandBijna 1600 gevallen van het westnijlvirus in Europa, 44 besmettingen in Nederland&nbsp;&nbsp;De TelegraafWestnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten&nbsp;&nbs",
+      "id": "a927e3c9fc2f",
+      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - De Telegraaf",
+      "published": "2026-09-29T21:30:00+00:00",
+      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXpzWm56SkFrRXJuRTVjZnNXR19XWVQxd0lVUXpWb2VfVGM2Q1gzWHludldjaHM0ODVFb0EtOFQwN2pCWXAxTXZlbmlMZnljbnY5SWtpWXFVY0dKc1ZmdjdBTXVjcWdPWkdfUHR4OXU0Z2wtR1VsWGpYN3VjaWRYazc4ek1MNTZJMzh3cDdRMElNOXE0eEhGRnBsb2twTlU?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "87aafd932f73",
-      "title": "Hoge bloeddruk? Inwoners van Overijssel zien het risico onvoldoende",
-      "published": "2026-09-29T20:00:00+00:00",
-      "summary": "Hoge bloeddruk? Inwoners van Overijssel zien het risico onvoldoende&nbsp;&nbsp;TubantiaZuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan&nbsp;&nbsp;ad.nlDagelijks sterven 52 vrouwen aan hartziekte; Overijsselaars herkennen risico's slecht&nbsp;&nbsp;RTV OostVeel Nederlanders denken te laat aan hun hartgezondheid&nbsp;&nbsp;plusonline.nlFriezen laten zich minst vaak controleren op risico’s hartinfarct&nbsp;&nbsp;Friesch Dagblad",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFotcWhFRHRYTjdWOTlLZ1dsanlyYTdqMHVrTjlkRUs5SmpQRVc4RzkwNnNxem9vSGRBMDBPMUZNY3dNcEMwOUcwWnJVLUFVM3I2NGlXVXNjZHFzNGxSLXNCUjQyQ0xyT3A1SFNYZGRzNGNoWjYwMFBMSjJpUE1maGtjd2Y0YkdYa01nWVNyN3RJZDlmblVsN092QnB6b24zaVFXbkVBa216ZTJhSEE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "hartziekte",
-          "related_drugs": [
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "minoxidil",
-              "name": "Minoxidil"
-            },
-            {
-              "slug": "propranolol",
-              "name": "Propranolol"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "propofol",
-              "name": "Propofol"
-            },
-            {
-              "slug": "bumetanide",
-              "name": "Bumetanide"
-            },
-            {
-              "slug": "etoricoxib",
-              "name": "Etoricoxib"
-            },
-            {
-              "slug": "zonisamide",
-              "name": "Zonisamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "iloprost",
-              "name": "Iloprost"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9a4f7c51c42a",
       "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'",
       "published": "2026-09-29T18:30:01+00:00",
-      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;NOSIn dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;JeugdjournaalMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nlFrontlinies in conflicten zijn meer voorspelbaar dan deze onzichtbare vijand in Congo&nbsp;&nbsp;DVHN",
+      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;NOSIn dit speciale ziekenhuis proberen artsen het ebola-virus te bestrijden&nbsp;&nbsp;jeugdjournaal.nlMeer dan 8000 ebolabesmettingen vastgesteld in Congo&nbsp;&nbsp;Haarlems DagbladKrijgt Congo zijn ebolacrisis eindelijk onder controle? “We zien beterschap”&nbsp;&nbsp;De StandaardDe Democratische Republiek Congo en de “vloek van rijkdom”&nbsp;&nbsp;rodekruis.nl",
       "sources": [
         {
           "name": "NOS",
@@ -132,13 +69,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bfb23a96ee00",
+      "id": "7e170cce941a",
       "title": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’",
       "published": "2026-09-29T17:15:00+00:00",
-      "summary": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’&nbsp;&nbsp;ad.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;ad.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;Hartstichting'Ik wil dat we allemaal rood dragen, omdat we het vr",
+      "summary": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’&nbsp;&nbsp;AD.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;rtvnoord.nlDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;hartstichting.nl'Ik wil dat we allemaal rood dragen, omdat we h",
       "sources": [
         {
-          "name": "ad.nl",
+          "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5"
         }
       ],
@@ -236,26 +173,13 @@
       ]
     },
     {
-      "id": "a927e3c9fc2f",
-      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - De Telegraaf",
-      "published": "2026-09-29T14:30:00+00:00",
-      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b88a996991e2",
-      "title": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn",
+      "id": "e73e1d9733b7",
+      "title": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn - BN DeStem",
       "published": "2026-09-28T18:01:33+00:00",
-      "summary": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn&nbsp;&nbsp;bndestem.nl",
+      "summary": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn&nbsp;&nbsp;BN DeStem",
       "sources": [
         {
-          "name": "bndestem.nl",
+          "name": "BN DeStem",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek90WnlLV1JnM3ZwZDFsZnR0b281ellETmRRams2ZmVPUHhmZGFJa29zM19TczVmOTBtVGtNMVg4WkVuSjNlNTRjVW5CcFkyZ05TX1NsbFIzbk9yMlBtUEhldC1wRFViN3hUVlp3dUVVVkdtRUhERDFONEp4RmUzZ1RWSlpwV29NU0s1OWNLWUpyM01TdXhOX3EwWThPY2RvOG9SWjVNdnppbHZFUE41WF96RE9XSHZWRzNJWDVGT2lnRS1fNXRuWmxtZG9USE9EZEhfWkJYYzhqb0VWLTE0?oc=5"
         }
       ],

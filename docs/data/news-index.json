@@ -1,102 +1,14 @@
 {
-  "generated": "2026-09-30T11:51:59.730825+00:00",
-  "count": 3,
+  "generated": "2026-09-30T17:33:00.823318+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "87aafd932f73",
-      "title": "Hoge bloeddruk? Inwoners van Overijssel zien het risico onvoldoende",
-      "published": "2026-09-29T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFotcWhFRHRYTjdWOTlLZ1dsanlyYTdqMHVrTjlkRUs5SmpQRVc4RzkwNnNxem9vSGRBMDBPMUZNY3dNcEMwOUcwWnJVLUFVM3I2NGlXVXNjZHFzNGxSLXNCUjQyQ0xyT3A1SFNYZGRzNGNoWjYwMFBMSjJpUE1maGtjd2Y0YkdYa01nWVNyN3RJZDlmblVsN092QnB6b24zaVFXbkVBa216ZTJhSEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "hartziekte",
-          "related_drugs": [
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "minoxidil",
-              "name": "Minoxidil"
-            },
-            {
-              "slug": "propranolol",
-              "name": "Propranolol"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "propofol",
-              "name": "Propofol"
-            },
-            {
-              "slug": "bumetanide",
-              "name": "Bumetanide"
-            },
-            {
-              "slug": "etoricoxib",
-              "name": "Etoricoxib"
-            },
-            {
-              "slug": "zonisamide",
-              "name": "Zonisamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "iloprost",
-              "name": "Iloprost"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bfb23a96ee00",
+      "id": "7e170cce941a",
       "title": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’",
       "published": "2026-09-29T17:15:00+00:00",
       "sources": [
         {
-          "name": "ad.nl",
+          "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5"
         }
       ],

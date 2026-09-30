@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over hartziekte (heart_disease)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over hartziekte (heart_disease). 1 berichten, 17 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over hartziekte (heart_disease). 2 berichten, 17 gerelateerde geneesmiddelen."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over hartziekte (heart_disease)?">
-<strong>hartziekte (heart_disease)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 17 gerelateerde geneesmiddelen.
+<strong>hartziekte (heart_disease)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 17 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -45,13 +45,21 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “hartziekte” en toont
 </ul>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
 ### [Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
 
 2026-09-29
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
+
+---
+
+### [Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1acHdpdlNDSFB1Q3pYbS1VWkRzSzVRTWJKMU9MdjBUVllIRnhxdjNxTlZ5UFlEZU1RU3hacHdEU2IxcXE1TDlUSVZBdnNvNTB5dVMwWXJpUVd6Q25MVUxEOGVpMHpMenlwdHhoTnhINHFMWW9sbi1iUFBaU0ZoYXdJQkxDNXVZb3I1N1hXWmZBU2hEdWJvOWh4SklnWUVCZWlqQXdoOC1GbURaVmt4RDhIbXlDRkpjM2F4eWpUQm9uYzhhazhZbFYxakVfXzdpLW5TTmNYaUZoQQ?oc=5)
+
+2026-09-29
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1acHdpdlNDSFB1Q3pYbS1VWkRzSzVRTWJKMU9MdjBUVllIRnhxdjNxTlZ5UFlEZU1RU3hacHdEU2IxcXE1TDlUSVZBdnNvNTB5dVMwWXJpUVd6Q25MVUxEOGVpMHpMenlwdHhoTnhINHFMWW9sbi1iUFBaU0ZoYXdJQkxDNXVZb3I1N1hXWmZBU2hEdWJvOWh4SklnWUVCZWlqQXdoOC1GbURaVmt4RDhIbXlDRkpjM2F4eWpUQm9uYzhhazhZbFYxakVfXzdpLW5TTmNYaUZoQQ?oc=5)
 
 ---
 

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-29T21:48:25.703759+00:00",
+  "last_updated": "2026-09-30T03:50:22.006792+00:00",
   "total_count": 9,
-  "matched_count": 2,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "a927e3c9fc2f",
+      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - De Telegraaf",
+      "published": "2026-09-29T21:30:00+00:00",
+      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9a4f7c51c42a",
       "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'",
@@ -106,30 +119,93 @@
       ]
     },
     {
-      "id": "a927e3c9fc2f",
-      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - De Telegraaf",
-      "published": "2026-09-29T14:30:00+00:00",
-      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "df80a6cd101d",
       "title": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan",
       "published": "2026-09-29T07:01:35+00:00",
-      "summary": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Zuid-Hollanders denken pas aan een hartinfarct als ze klachten krijgen en dan kan al schade zijn ontstaan&nbsp;&nbsp;AD.nlDagelijks sterven 52 vrouwen aan hartziekte; Overijsselaars herkennen risico's slecht&nbsp;&nbsp;RTV OostVeel Nederlanders denken te laat aan hun hartgezondheid&nbsp;&nbsp;plusonline.nlFriezen laten zich minst vaak controleren op risico’s hartinfarct&nbsp;&nbsp;frieschdagblad.nlWe bekommeren ons te weinig om ons hart&nbsp;&nbsp;MAX Magazine",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1acHdpdlNDSFB1Q3pYbS1VWkRzSzVRTWJKMU9MdjBUVllIRnhxdjNxTlZ5UFlEZU1RU3hacHdEU2IxcXE1TDlUSVZBdnNvNTB5dVMwWXJpUVd6Q25MVUxEOGVpMHpMenlwdHhoTnhINHFMWW9sbi1iUFBaU0ZoYXdJQkxDNXVZb3I1N1hXWmZBU2hEdWJvOWh4SklnWUVCZWlqQXdoOC1GbURaVmt4RDhIbXlDRkpjM2F4eWpUQm9uYzhhazhZbFYxakVfXzdpLW5TTmNYaUZoQQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "hartziekte",
+          "related_drugs": [
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "minoxidil",
+              "name": "Minoxidil"
+            },
+            {
+              "slug": "propranolol",
+              "name": "Propranolol"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol"
+            },
+            {
+              "slug": "bumetanide",
+              "name": "Bumetanide"
+            },
+            {
+              "slug": "etoricoxib",
+              "name": "Etoricoxib"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "iloprost",
+              "name": "Iloprost"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1dfe3a8b3e3a",
@@ -145,14 +221,14 @@
       "matched_keywords": []
     },
     {
-      "id": "50c24be1de2f",
-      "title": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose in het Radboudumc, maar een behandeling blijkt er niet te zijn - De Gelderlander",
-      "published": "2026-09-28T15:49:07+00:00",
-      "summary": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose in het Radboudumc, maar een behandeling blijkt er niet te zijn&nbsp;&nbsp;De Gelderlander",
+      "id": "e73e1d9733b7",
+      "title": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn - BN DeStem",
+      "published": "2026-09-28T18:01:33+00:00",
+      "summary": "Karin (34) krijgt na lange zoektocht eindelijk een diagnose, maar een behandeling blijkt er niet te zijn&nbsp;&nbsp;BN DeStem",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVJ5dkc0VElnQ3Y5eVIyVjVtVW5jdkt6RDRzU2JaTzJNQzNYbWFCaG15OElrUXRFZ1ZuRjBYbm90cF8tZ1hRa2p0UVZYOE5nU1RBMmxWbEFSRUE1b215OTVCT3hJWGVIRkVRRUFUbGdEWVBjT0NVSlh2b09yOVdjYy1NeDhIZTFHWk5fc2RSRE9wdXZoUGVOcVhsbE52M2hZUWh0Wjc3WnBwcFlQM1VMUTY4N3owMFR3TnBaWkR0QXRZNkRUUEROeTB1bkRsMEM3N3VXZ0gwdmNHdkhKdUplVUhnVjBjbERWN3FEVnQweTdMNWg0TlNV?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek90WnlLV1JnM3ZwZDFsZnR0b281ellETmRRams2ZmVPUHhmZGFJa29zM19TczVmOTBtVGtNMVg4WkVuSjNlNTRjVW5CcFkyZ05TX1NsbFIzbk9yMlBtUEhldC1wRFViN3hUVlp3dUVVVkdtRUhERDFONEp4RmUzZ1RWSlpwV29NU0s1OWNLWUpyM01TdXhOX3EwWThPY2RvOG9SWjVNdnppbHZFUE41WF96RE9XSHZWRzNJWDVGT2lnRS1fNXRuWmxtZG9USE9EZEhfWkJYYzhqb0VWLTE0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -314,7 +390,7 @@
       "id": "05b732d1a8a1",
       "title": "Expert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren - De Gelderlander",
       "published": "2026-09-25T11:59:06+00:00",
-      "summary": "Expert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;De GelderlanderBijna 1600 gevallen van het westnijlvirus in Europa, 44 besmettingen in Nederland&nbsp;&nbsp;De TelegraafHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlRIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel van het dagelijks leven worden&nbsp;&nbsp;De GelderlanderGrote vraag naar vaccins t",
+      "summary": "Expert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren&nbsp;&nbsp;De GelderlanderHoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit&nbsp;&nbsp;AD.nlBijna 1600 gevallen van het westnijlvirus in Europa, 44 besmettingen in Nederland&nbsp;&nbsp;De TelegraafGrote vraag naar vaccins tegen Westnijlvirus bij paarden&nbsp;&nbsp;Omroep FlevolandRIVM waarschuwt: je beschermen tegen muggenbeten moet gewoon onderdeel",
       "sources": [
         {
           "name": "De Gelderlander",

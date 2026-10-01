@@ -14,7 +14,7 @@ permalink: /news/atenolol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Atenolol?">
-<strong>Atenolol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Atenolol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’](https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5)
 
 2026-09-29 <span class="news-indication-tag">hartziekte</span> <span class="news-indication-tag">overgang</span>
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5)
-
----
-
-### [Carolien bleef maar doorgaan, tot ze borstkanker kreeg: ‘Ik had mezelf totaal uit het oog verloren’ - Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
-
-2026-09-27 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [Ouders van Nu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHpkeWZ2NzFJclJLeWdBd0dQZFU3RUFuTjFkZW1aV0ZPLUtmMGVSSEswRmFrcnE4b0lGRWxycFYxQlNMSTFmTGhUYVFYV0dTY1pLVFJjVm8xLWs3V0R4eXZCaXNxRGhZc1JnbzZQQTFBa2ZCYWRqMWEwOGNlaEk3NUJMY2ZOQ05MLWViRjdYek43MmFpbXR0ZXROS3R5dFk?oc=5)
 
 ---
 

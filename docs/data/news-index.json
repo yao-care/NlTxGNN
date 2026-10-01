@@ -1,15 +1,263 @@
 {
-  "generated": "2026-10-01T03:58:18.802570+00:00",
-  "count": 1,
+  "generated": "2026-10-01T12:22:11.363107+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "7e170cce941a",
-      "title": "Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’",
+      "id": "787a60d771a1",
+      "title": "Herma (55) hoort dat haar clitoris wordt weggesneden vanwege vulvakanker, dan komen artsen met een oplossing",
+      "published": "2026-10-01T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYy1RSW11NGN5V1MtQ1VqcXVyTXRlOEpqXzB0WldoaEJkNUlhSUpDWUsxelBqTnNtdmZsSWgteEFfdmdseHd6SGFCVHVEYXQ5TWM1RG92OVNqSjgzWTZJWUhRdWFNRzFadGswbm91aG1hSVBEY0NJLWZTOVdUNnFTQ1h6R19ZdVlLWEFCTGZsaHMwV3FiTlY1OXNUUnhKcVJ3aUZmMklMQVBmRjVlUWxwbG1NRnRUS2tkNUprTnRzRWhXSVNyNEdWSEpyQ25mdXUzM0hnalUwNjI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5365fae1ba9",
+      "title": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West",
+      "published": "2026-10-01T08:31:07+00:00",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47e228dfa618",
+      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog",
       "published": "2026-09-29T17:15:00+00:00",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
         }
       ],
       "keywords": [
@@ -85,21 +333,6 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
             }
           ]
         }

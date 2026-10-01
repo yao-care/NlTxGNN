@@ -43,11 +43,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Minoxidil met het l
 
 ## Gerelateerd nieuws (1)
 
-### [Vrouwen hebben andere hartklachten dan mannen: ‘Ze wijten dit vaak aan hun werk of de overgang’](https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5)
+### [Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
 
-2026-09-29 <span class="news-indication-tag">hartziekte</span> <span class="news-indication-tag">overgang</span>
+2026-09-29 <span class="news-indication-tag">hartziekte</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3FsUWZBdWN6UnF1eDZxUG91TTdGamxoN2pYUXNhZDJQcDNfblQxOU44LVlfQzNVWEx1MzZxczZDTUpQNFZfY05nN0hOdjd4RHFaUEtMZEFNVWp5cTNYWVVKYTVRY1N0WURIQ19rcENuSnQzdXNqQXNOeUd1SEtobXJJY05MT0RTQ0JJdHJ3Ni1lMTl2MTZpNlZFYk04UEZSM3g3bHlWRGY5V2dUOWpWWHNYU3lkY1h3QjN6RUhFODUwZVV2ZEE?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
 
 ---
 

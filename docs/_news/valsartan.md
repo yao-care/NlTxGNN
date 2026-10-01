@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Valsartan?">
-<strong>Valsartan</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 7 voorspelde indicaties.
+<strong>Valsartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
-
-### [Herma (55) hoort dat haar clitoris wordt weggesneden vanwege vulvakanker, dan komen artsen met een oplossing](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYy1RSW11NGN5V1MtQ1VqcXVyTXRlOEpqXzB0WldoaEJkNUlhSUpDWUsxelBqTnNtdmZsSWgteEFfdmdseHd6SGFCVHVEYXQ5TWM1RG92OVNqSjgzWTZJWUhRdWFNRzFadGswbm91aG1hSVBEY0NJLWZTOVdUNnFTQ1h6R19ZdVlLWEFCTGZsaHMwV3FiTlY1OXNUUnhKcVJ3aUZmMklMQVBmRjVlUWxwbG1NRnRUS2tkNUprTnRzRWhXSVNyNEdWSEpyQ25mdXUzM0hnalUwNjI?oc=5)
-
-2026-10-01 <span class="news-indication-tag">kanker</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYy1RSW11NGN5V1MtQ1VqcXVyTXRlOEpqXzB0WldoaEJkNUlhSUpDWUsxelBqTnNtdmZsSWgteEFfdmdseHd6SGFCVHVEYXQ5TWM1RG92OVNqSjgzWTZJWUhRdWFNRzFadGswbm91aG1hSVBEY0NJLWZTOVdUNnFTQ1h6R19ZdVlLWEFCTGZsaHMwV3FiTlY1OXNUUnhKcVJ3aUZmMklMQVBmRjVlUWxwbG1NRnRUS2tkNUprTnRzRWhXSVNyNEdWSEpyQ25mdXUzM0hnalUwNjI?oc=5)
-
----
+## Gerelateerd nieuws (2)
 
 ### [Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5)
 
@@ -56,11 +48,11 @@ Bron: [Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDl
 
 ---
 
-### [Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
+### [UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’ - RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">hartziekte</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
+Bron: [RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
 
 ---
 

@@ -35,11 +35,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ebastine met het la
 
 ## Gerelateerd nieuws (1)
 
-### [Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
+### [UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’ - RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">hartziekte</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5)
+Bron: [RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
 
 ---
 

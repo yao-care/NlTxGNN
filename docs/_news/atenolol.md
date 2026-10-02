@@ -14,7 +14,7 @@ permalink: /news/atenolol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Atenolol?">
-<strong>Atenolol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Atenolol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5)
 
 2026-10-01 <span class="news-indication-tag">kanker</span>
 
 Bron: [Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5)
-
----
-
-### [UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’ - RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">hartziekte</span>
-
-Bron: [RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/minoxidil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Minoxidil?">
-<strong>Minoxidil</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Minoxidil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Minoxidil met het l
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’ - RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">hartziekte</span>
-
-Bron: [RTV Noord](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

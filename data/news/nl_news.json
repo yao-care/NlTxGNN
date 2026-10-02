@@ -1,36 +1,48 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-01T22:18:15.086522+00:00",
-  "count": 10,
+  "fetched_at": "2026-10-02T03:54:44.700106+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "7cf556b3f0bd",
-      "title": "Experts hadden het niet verwacht, toch verspreidt het westnijlvirus zich dit jaar snel - AD.nl",
-      "published": "2026-10-01T18:30:00+00:00",
-      "summary": "Experts hadden het niet verwacht, toch verspreidt het westnijlvirus zich dit jaar snel&nbsp;&nbsp;AD.nlVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUTwaalf nieuwe personen besmet met westnijlvirus, vier van hen overleden&nbsp;&nbsp;telegraaf.nlWaarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft&nbsp;&nbsp;AD.",
+      "id": "7b5a3349fd3c",
+      "title": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden - De Telegraaf",
+      "published": "2026-10-02T02:55:20+00:00",
+      "summary": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De TelegraafHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUMet ebolavirus besmette patiënt onderweg naar Nederland, wordt vandaag opgevangen in Leids ziekenhuis&nbsp;&nbsp;AD.nlInternist Judith van Paassen: ’We zijn hierop ingericht’. Hulpverlener met ebola uit Congo voor behandeling naar ",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVRDcmRPOVhYVTB1MmRlaGROalJrTkRISWdPSU44QkRsSXQ1eDgwajR4NnBfc3BWOTF6MTBOREhYanR0ZWJPYzgtRndHOTM4eGlwRjdfblZ6UVdyNURWRkY1YVlxVkR1VTZEcUw3R0VZQ1M2MmhVdEZac2pWbUFfLTF1aUV1ZE53Zmg4VngyZ2hRaFZPek85Y2o2R3pwZ0NDdHhMMWxwVjA1ZG5uZzZWbnJ3dVY2cEt4RVlZeGtB?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanhwZHN0cTRRbjhidlZOcVQ1UTdfczNLaUNEUjRfcVltMi1saTE5aTQ1Nk1rMHRNcG1kQUUzdGwzN3pDdEQ1MFRreVozem1GS3VCbDRyRUs5WnozZmhBQ0p6TlNDcjlibjkyb1VrOUMwOVFVa0Vhc1J1NmVUbE9qMS1BVVN2ZUd0cUFUWkpES1pDV2ZBVGhrSHVXX2Q5cUVWN1BfaDZBTlNoSTF1VXdKQmZEekllck9fYnJlQWw3WWpYdW9ySEhBb2VYOXp5NXFPN212RTR0Mko?oc=5"
         }
       ]
     },
     {
-      "id": "4d04c9eb5087",
-      "title": "Hulpverlener met ebola aangekomen in ziekenhuis - Omroep West",
-      "published": "2026-10-01T19:14:38+00:00",
-      "summary": "Hulpverlener met ebola aangekomen in ziekenhuis&nbsp;&nbsp;Omroep WestZiekenhuis Leiden vangt hulpverlener uit Congo op met ebolabesmetting&nbsp;&nbsp;NOSMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUEbolapatiënt donderdagavond met ambulancevliegtuig aangekomen op Schiphol&nbsp;&nbsp;Haarlems DagbladLUMC vangt patiënt op met ebolabesmetting&nbsp;&nbsp;Leids Universitair Medisch Centrum | LUMC",
+      "id": "691e7b6c543b",
+      "title": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft - AD.nl",
+      "published": "2026-10-01T18:30:27+00:00",
+      "summary": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft&nbsp;&nbsp;AD.nlVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUTwaalf nieuwe personen besmet met westnijlvirus, vier van hen overleden&nbsp;&nbsp;De TelegraafWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep West",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjkxZ21JVkdNN1IzSmRTaklqT0FHVzhJWG5MaVNTZmprdmI5MjBFN2hkTkRleWJxY2R6ZTk1eDNON1ppeFdHQzlIRU5qU0xscy1HWHkwaGFia09GSi1obGRvY2hDSm1mUXV3Wl95ZC1EX05sRnpuQ3BtQU9kRlB2TXZlRllZUV9OMWxVUk9oZw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaldXNnh4bHliOERhS09xNTBWWHFvNmF2cU03UzhBNXdvT3lVT1NZblBGZTRuM282Qlh4N2tZemlCcGszREEzYlp1MHBkWmwxM0syNG5QUENpZ2dFV1F1VUhFRVVtc0d6RmNUUTRDX1B3cUE3MDZsRDJ0cDVyaFVySjBXTUt1MUFVTDBqRFpVUHRPY3oyTzNtRTl4UFh3LWhfV0dvZ0FCYTZ3cUtzYnNIRWFTR2lpR1J3ZkNTN3FSclJ5eUNadnZCSlgxWm5kRmlGMWpFSS16X2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "325c81166da2",
+      "title": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’ - De Telegraaf",
+      "published": "2026-10-02T02:25:00+00:00",
+      "summary": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEZxZHZkUnJ3c3NlUkVXU1hXeHNIcWw1WXhfVmVqb2FCbjZLbGc3eThmc0w0N2NrNlc4cG1QN2dlMHM0cHRsaDdDSFFmUFBsWHZjOG1VeWF2SjgxOEtLeC1WVkt6ajEtQkF3bGZtZ01wR1FaYTZ6ZlhEVWFtQU9abGMzRlNrTTdiM0lkN0FZMENQVWNDSGl3UzBheHVmcHFPclFhYXdrQ1ZvYkt6VEg2YTNqNVVMVTRHYUVoM1NSSnlRSmJyTGJrWmJ1ZW9Wd3VNUUtIRkFQcTVXMDZPWE9Lbw?oc=5"
         }
       ]
     },
     {
       "id": "13c3bc65656e",
       "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
-      "published": "2026-10-01T16:52:10+00:00",
+      "published": "2026-10-01T16:47:24+00:00",
       "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Meer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "ced5c124417d",
-      "title": "UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’ - RTV Noord",
-      "published": "2026-09-29T05:42:00+00:00",
-      "summary": "UMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordHartklachten bij vrouwen worden vaak later herkend: gratis informatieavond in Oud-Beijerland&nbsp;&nbsp;AD.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;De GelderlanderVrouwenhart krijgt eigen plek binnen Bravis&nbsp;&nbsp;Roosendaal.nieuws.nlDress Red Day 2026: gebouwen door heel Nederland kleuren",
+      "id": "47e228dfa618",
+      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog - AD.nl",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3REa2hfeXlvajVFYTBLbVJrOTZ5V2Rmb0JJendyU0R1UWhwbS1EcXl6dFRZclB2eEJ0MEozajZhV1J1QW5TRERBc3Z2ZDZ0cElHWjkya3JnRzNGSS1tOWd3QU9LX2FPaTdwNEFwcjludmNLNXpiMjE0TzZSVkRhczQ1Z3JzN1ZkNFE1cHltNnE5bTVaN0J2ZmE1QnItWFRValJYamhVT2hyeVNfQ3JiekRPejBVOUFDNWZHYW1DekdQNGNkRHdFXw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
         }
       ]
     },
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "a78323f7ae2c",
-      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - Eindhovens Dagblad",
+      "id": "a1f112deef1c",
+      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - pzc.nl",
       "published": "2026-09-30T08:25:14+00:00",
-      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;Eindhovens DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;pzc.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Eindhovens Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQU9kRWs0LUtzd1ZpS0hNTzZ3TTIyRVc4V0lfM1JKMmtZZjdtcjJUY3hyOFQ1dDE5Mk4yUS1oaWhxR2NtNE9mXzNZTi1BY016eHh3VEpYT3hJLUZBSWZEZG03cWgyQkNwZm04b1VxS0ZWeTlQY1k1LWQtMm1xVTl3YVlVUU1RSjU5MHo1NThWaTV1blp5UVNBOUdhMXh6WDBtc2NJV3doNW13c3VZOWl0WlBmV3JIZXJ3MjdxeExnZHEydGN4eHp2ag?oc=5"
+          "name": "pzc.nl",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGwwNXdoVWk4cUgyUk1CUmdBV2dCQTU0WENRRW9EZWlxR0hwYTViQ1FvcjVCSE5RTC1zcVNEMXB0OTNJUk5tQmZrWng4Y0Z6Z2g2ZG5Ra3k4cm02SElyYUFXeVg5TTY3c1RNVGJaREZ4RTViemJaUUlWVUZ0dy1MeUtCMk5udXBnNE1BUlFKMkRYZ1dBdlpGdUUway1INWVGVk9nUDBzTmxiMEx3TjAtTjQyTzA4STNPYzFOdk9TZFNxS25ZeGs1dFNoRTVCbDQ?oc=5"
         }
       ]
     },
@@ -88,6 +100,18 @@
       ]
     },
     {
+      "id": "a927e3c9fc2f",
+      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - De Telegraaf",
+      "published": "2026-09-29T14:30:00+00:00",
+      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c5365fae1ba9",
       "title": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West",
       "published": "2026-10-01T08:31:07+00:00",
@@ -96,18 +120,6 @@
         {
           "name": "Omroep West",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4fa2da96ba5",
-      "title": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’ - telegraaf.nl",
-      "published": "2026-09-29T14:30:00+00:00",
-      "summary": "Sonja (67) onderging een openhartoperatie waarbij vier bypasses werden geplaatst: ’Ramen zemen lukt nog steeds niet’&nbsp;&nbsp;telegraaf.nl",
-      "sources": [
-        {
-          "name": "telegraaf.nl",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSUxOY1hwb040UHZ3bWtWSnhpeWI4STNHZHV2QVVrWUJtWVlteGVjNGtGTDA0WXJyYmpBU0RUR3NJalh5RmgzSExPb05oVm1pdExxbXp0czE2SnFvd1VwbmdiRHYxMUlDS0s3NlppVGpCV2tKVzJGaTE0NW5kT0N1dlZoODlkUG9SbGlqZXZFTGw1QjhOcHFOeUtJWm00c0V5SU5lakJ3TFZkYXBOWm5aelg4T1VwTWlldDZJU1E2ajJuVXZyYlhORmFFaVJ0ZWFGQmFGUFNoSVRPQ3Zyc3g4S1J0aUJnNnJGZUxsNWNRcEtGdy10R29oTHU2NEo3d2ZKX0Z5Xzhn?oc=5"
         }
       ]
     },

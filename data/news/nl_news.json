@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-02T17:23:25.933711+00:00",
+  "fetched_at": "2026-10-02T21:46:39.303696+00:00",
   "count": 13,
   "news": [
     {
-      "id": "4778cdcc25f0",
-      "title": "Hulpverlener AzG met ebola gearriveerd in Nederland voor behandeling - RTL.nl",
-      "published": "2026-10-02T01:44:00+00:00",
-      "summary": "Hulpverlener AzG met ebola gearriveerd in Nederland voor behandeling&nbsp;&nbsp;RTL.nlHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De Telegraaf",
+      "id": "c56b24b0daf5",
+      "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter' - nos.nl",
+      "published": "2026-09-29T18:30:01+00:00",
+      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;nos.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXlaRDFMVlFEOHEybGdMQUJKYjNnOVl2NVJXUzlqVWVQZFFjMGtHdUIzc1k5WXh2ZGs5cnhBUG9hMjkyWlVLREhKaVBOUUV0RW9pT2VDZmFWbXR3aGlITVU4cUd3eVVKN1UzWE1XRXZ4OGt3T2ZZM0RiUnl1dy03RUFnUmdHVm1SaVptblVoNmFfTDdYN2ZlcHNPcTV6d0du?oc=5"
+          "name": "nos.nl",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHpVRHRXOF9vTUtENmp2UFhjUllyay1udWQxMk04YmF3bXhmMFBYaFB3cV9McDVMdEZkVjdtTUd2dHVBTjBWTGhqQU9qdGV5dGRyOFU1dTNBYW8wS1pJdktXeDc3b2p5SzRXaUdJM2psaDNUMG0wNXE5WVg1ZE9wdU9qWHlQY0hyNXJ3X1hzVVNaUkJoalpKS08xci1ETTBSN005SWlCMWtNeWE1N1Bodg?oc=5"
         }
       ]
     },
     {
-      "id": "9a4f7c51c42a",
-      "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter' - NOS",
-      "published": "2026-09-29T18:30:01+00:00",
-      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;NOSMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "7b5a3349fd3c",
+      "title": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden - De Telegraaf",
+      "published": "2026-10-02T00:23:45+00:00",
+      "summary": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De TelegraafHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;nos.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantEbola-patiënt precies op tijd voor Leidens Ontzet: ‘Het grootste superspread event’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHpVRHRXOF9vTUtENmp2UFhjUllyay1udWQxMk04YmF3bXhmMFBYaFB3cV9McDVMdEZkVjdtTUd2dHVBTjBWTGhqQU9qdGV5dGRyOFU1dTNBYW8wS1pJdktXeDc3b2p5SzRXaUdJM2psaDNUMG0wNXE5WVg1ZE9wdU9qWHlQY0hyNXJ3X1hzVVNaUkJoalpKS08xci1ETTBSN005SWlCMWtNeWE1N1Bodg?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanhwZHN0cTRRbjhidlZOcVQ1UTdfczNLaUNEUjRfcVltMi1saTE5aTQ1Nk1rMHRNcG1kQUUzdGwzN3pDdEQ1MFRreVozem1GS3VCbDRyRUs5WnozZmhBQ0p6TlNDcjlibjkyb1VrOUMwOVFVa0Vhc1J1NmVUbE9qMS1BVVN2ZUd0cUFUWkpES1pDV2ZBVGhrSHVXX2Q5cUVWN1BfaDZBTlNoSTF1VXdKQmZEekllck9fYnJlQWw3WWpYdW9ySEhBb2VYOXp5NXFPN212RTR0Mko?oc=5"
         }
       ]
     },
@@ -31,23 +31,11 @@
       "id": "691e7b6c543b",
       "title": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft - AD.nl",
       "published": "2026-10-01T18:30:27+00:00",
-      "summary": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft&nbsp;&nbsp;AD.nlVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSTwaalf nieuwe personen besmet met westnijlvirus, vier van hen overleden&nbsp;&nbsp;De TelegraafIs dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet&nbsp;&nbsp;Het ParoolWaarschuwing voor muggenbeten, westnijlvirus ligt op de l",
+      "summary": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft&nbsp;&nbsp;AD.nlVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;nos.nlIs dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet&nbsp;&nbsp;parool.nlWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep WestExperts hadden het niet verwacht, toch verspreidt het westnijlvirus",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaldXNnh4bHliOERhS09xNTBWWHFvNmF2cU03UzhBNXdvT3lVT1NZblBGZTRuM282Qlh4N2tZemlCcGszREEzYlp1MHBkWmwxM0syNG5QUENpZ2dFV1F1VUhFRVVtc0d6RmNUUTRDX1B3cUE3MDZsRDJ0cDVyaFVySjBXTUt1MUFVTDBqRFpVUHRPY3oyTzNtRTl4UFh3LWhfV0dvZ0FCYTZ3cUtzYnNIRWFTR2lpR1J3ZkNTN3FSclJ5eUNadnZCSlgxWm5kRmlGMWpFSS16X2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bf7f4fc2430",
-      "title": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord",
-      "published": "2026-10-01T12:03:00+00:00",
-      "summary": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig'&nbsp;&nbsp;RTV NoordLezing in Boekel over overgang en hormonale klachten&nbsp;&nbsp;Brabants DagbladNieuw onderzoek naar de overgang en MS zet vrouwengezondheid verder op de kaart&nbsp;&nbsp;Universiteit LeidenLezing in Boekel gaat over overgang en hormonale klachten&nbsp;&nbsp;Brabants Dagblad",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bf7f4fc2430",
+      "title": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord",
+      "published": "2026-10-01T09:58:43+00:00",
+      "summary": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig'&nbsp;&nbsp;RTV NoordLezing in Boekel over overgang en hormonale klachten&nbsp;&nbsp;Brabants DagbladNieuw onderzoek naar de overgang en MS zet vrouwengezondheid verder op de kaart&nbsp;&nbsp;universiteitleiden.nlLezing in Boekel gaat over overgang en hormonale klachten&nbsp;&nbsp;Brabants Dagblad",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "id": "13c3bc65656e",
       "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
       "published": "2026-10-01T16:47:24+00:00",
-      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Vrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;TVvisieElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntGrenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Vrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;tvvisie.beElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntGrenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
       "sources": [
         {
           "name": "NPO Radio 1",
@@ -126,7 +126,7 @@
     {
       "id": "c5365fae1ba9",
       "title": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West",
-      "published": "2026-10-01T16:01:00+00:00",
+      "published": "2026-10-01T08:31:07+00:00",
       "summary": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt'&nbsp;&nbsp;Omroep West",
       "sources": [
         {

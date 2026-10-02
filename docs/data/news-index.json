@@ -1,11 +1,39 @@
 {
-  "generated": "2026-10-02T17:23:26.054251+00:00",
+  "generated": "2026-10-02T21:46:39.419836+00:00",
   "count": 2,
   "news": [
     {
+      "id": "5bf7f4fc2430",
+      "title": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord",
+      "published": "2026-10-01T09:58:43+00:00",
+      "sources": [
+        {
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c5365fae1ba9",
       "title": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West",
-      "published": "2026-10-01T16:01:00+00:00",
+      "published": "2026-10-01T08:31:07+00:00",
       "sources": [
         {
           "name": "Omroep West",
@@ -121,34 +149,6 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5bf7f4fc2430",
-      "title": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord",
-      "published": "2026-10-01T12:03:00+00:00",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
             }
           ]
         }

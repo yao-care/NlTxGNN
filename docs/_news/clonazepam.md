@@ -14,7 +14,7 @@ permalink: /news/clonazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Clonazepam?">
-<strong>Clonazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Clonazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clonazepam met het 
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Nieuwe test moet 4 gynaecologische kankers tegelijk opsporen: “We willen zien óf er kanker is en welk type”](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWFNR2RjMlBReUQ1cmNEdFBJSG5zdnBUQURGSTJmY0NZamxmTGNybEZkMUYwdGFSTmZjWDFSd1VwN0NkcGJpZVhtck1idXpkV19vRkdJWDdTZXpmZDJIZWVCMG5aLWd3QWhMb1J5RUtfNlU3YmRlVHE0dVEzWlFWVjRJVTdreHlMbGpFVDRRTVZzR1lRSENiNFZhRk1TWGVmamNXUjc2T2lpdnRCT0lGREZzc1U5eG03dDJaNTNudmJseFVoRFU5T3lTRGpBMWMyWUhqNmNydmo3Zmty?oc=5)
-
-2026-10-02 <span class="news-indication-tag">kanker</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWFNR2RjMlBReUQ1cmNEdFBJSG5zdnBUQURGSTJmY0NZamxmTGNybEZkMUYwdGFSTmZjWDFSd1VwN0NkcGJpZVhtck1idXpkV19vRkdJWDdTZXpmZDJIZWVCMG5aLWd3QWhMb1J5RUtfNlU3YmRlVHE0dVEzWlFWVjRJVTdreHlMbGpFVDRRTVZzR1lRSENiNFZhRk1TWGVmamNXUjc2T2lpdnRCT0lGREZzc1U5eG03dDJaNTNudmJseFVoRFU5T3lTRGpBMWMyWUhqNmNydmo3Zmty?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

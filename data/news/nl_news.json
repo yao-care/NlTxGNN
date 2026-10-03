@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-03T03:39:45.728227+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-03T11:03:57.705038+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "7b5a3349fd3c",
-      "title": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden - De Telegraaf",
-      "published": "2026-10-02T00:23:45+00:00",
-      "summary": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De TelegraafHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;volkskrant.nlEbola-patiënt precies op tijd voor Leidens Ontzet: ‘Het grootste superspread event’&nbsp;&nbsp;AD.nl",
+      "id": "117e678a2101",
+      "title": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop - Brabants Dagblad",
+      "published": "2026-10-03T09:30:20+00:00",
+      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUExperts hadden het niet verwacht, toch verspreidt het westnijlvirus zich dit jaar snel&nbsp;&nbsp;AD.nlWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep Wes",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanhwZHN0cTRRbjhidlZOcVQ1UTdfczNLaUNEUjRfcVltMi1saTE5aTQ1Nk1rMHRNcG1kQUUzdGwzN3pDdEQ1MFRreVozem1GS3VCbDRyRUs5WnozZmhBQ0p6TlNDcjlibjkyb1VrOUMwOVFVa0Vhc1J1NmVUbE9qMS1BVVN2ZUd0cUFUWkpES1pDV2ZBVGhrSHVXX2Q5cUVWN1BfaDZBTlNoSTF1VXdKQmZEekllck9fYnJlQWw3WWpYdW9ySEhBb2VYOXp5NXFPN212RTR0Mko?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnVZR2FoY3hvU09SY0lkeWFPQm9lZUw1SUxNa2VNRzMyZmM2bHpBWkJ5Z2d3M2VtUnhYbWtEaThaWDRCRkxfSS1adXVxRkdFWm5QYnBiR3c2R0l3dTFRZkl2YUJiUUM2MG1kNko3M0VrQjhxTl9HbU5sY2tXVjNGaXZwclRCa3AzanltWkRYTjdRLTNxdThNSzNJVDEzZHBibEpCMlNSQTh6WU1wVnJrd01VZ05qai1qczFnTlg4NFRfNVhXR2pvR3lxWGF2T1RhdTJZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6560de0ae06",
+      "title": "Ebolapatiënt in isolatie in Leiden: dit is wat we weten - de Volkskrant",
+      "published": "2026-10-02T11:11:00+00:00",
+      "summary": "Ebolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;telegraaf.nlEbola-patiënt precies op tijd voor Leidens Ontzet: ‘Het grootste superspread event’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNk1kdFNUaDc5dU05RzNydDBqY1ZzQTRqNXBfdHluT05hRng1VWFySURudW0tamJnNEJucDBOOUhRaFZfMl9JYWQ4anNuNmJHRURkc3ZtYmNTRjZncDZuLWU3SkdPaTFJMVdMaUV1TUF3Y1BIczNwTXl6S1NyWFdfYmY5dy1FRmU4Rk9nek9sZGZhYXpTZUdTLVRlX3lWZzBsZXM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13c3bc65656e",
+      "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
+      "published": "2026-10-01T16:52:10+00:00",
+      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Grenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;TVvisieElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntVrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2lzZk82dTBKeTYxdHVJMVVEUEpuMEtQRkc4X3JpaXZ3VFhUSlotVXNoWVFQYVFTSUJ1U3JYZ2NlTnJiUGVUME94QnV5S2hma1FHUnFKZmRZd1FaUWJLSnJSX1l5TEExV2NaU0RoZkVzbktZVWxQeXNudktIZk1EVUVQRUpaQ09yLXRXVVRnTndXa2h0LThSZGdQc3piQ1NzOWE1N0psQm8ydGVQSnNkbVctS1VwdTN4bncxblNvTDNlakRBNlBhY0xtTjRSR2lQSXVwb2xkYjlHM054TlE?oc=5"
         }
       ]
     },
@@ -40,30 +64,6 @@
       ]
     },
     {
-      "id": "13c3bc65656e",
-      "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
-      "published": "2026-10-01T16:47:24+00:00",
-      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Vrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;TVvisieElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntGrenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
-      "sources": [
-        {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2lzZk82dTBKeTYxdHVJMVVEUEpuMEtQRkc4X3JpaXZ3VFhUSlotVXNoWVFQYVFTSUJ1U3JYZ2NlTnJiUGVUME94QnV5S2hma1FHUnFKZmRZd1FaUWJLSnJSX1l5TEExV2NaU0RoZkVzbktZVWxQeXNudktIZk1EVUVQRUpaQ09yLXRXVVRnTndXa2h0LThSZGdQc3piQ1NzOWE1N0psQm8ydGVQSnNkbVctS1VwdTN4bncxblNvTDNlakRBNlBhY0xtTjRSR2lQSXVwb2xkYjlHM054TlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "325c81166da2",
-      "title": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’ - De Telegraaf",
-      "published": "2026-10-01T17:27:42+00:00",
-      "summary": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEZxZHZkUnJ3c3NlUkVXU1hXeHNIcWw1WXhfVmVqb2FCbjZLbGc3eThmc0w0N2NrNlc4cG1QN2dlMHM0cHRsaDdDSFFmUFBsWHZjOG1VeWF2SjgxOEtLeC1WVkt6ajEtQkF3bGZtZ01wR1FaYTZ6ZlhEVWFtQU9abGMzRlNrTTdiM0lkN0FZMENQVWNDSGl3UzBheHVmcHFPclFhYXdrQ1ZvYkt6VEg2YTNqNVVMVTRHYUVoM1NSSnlRSmJyTGJrWmJ1ZW9Wd3VNUUtIRkFQcTVXMDZPWE9Lbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "29e729902052",
       "title": "Vertraging in levering vaccins: griepprik dit najaar mogelijk later beschikbaar in de regio - AD.nl",
       "published": "2026-10-01T18:00:00+00:00",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "5e1e84c72713",
-      "title": "Snipverkouden? Het kan griep zijn, maar meeste mensen hebben last van rhinovirus of – jawel – corona - de Stentor",
-      "published": "2026-09-29T19:00:00+00:00",
-      "summary": "Snipverkouden? Het kan griep zijn, maar meeste mensen hebben last van rhinovirus of – jawel – corona&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "e2b6ff74d7da",
+      "title": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’ - telegraaf.nl",
+      "published": "2026-10-01T17:27:42+00:00",
+      "summary": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’&nbsp;&nbsp;telegraaf.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3hMc3FYMF9ZTEQzcE5BODJHT0ZNeWxOUzRJTF9tTFU4QmZwUUE3Q20tckQ3ZTJXbmpkZDd1aFEyUms3SjJhNlB0VWItd2VIN1dSMTJFLUZ5bFBNMzhscm9Ua1AtUTNqek0zbWtESDNDbHVBcV9reXVpZlhjVjU5aVFZeHAtNWo4OElqd0U3UWwzZ3N4bXZwQUR6MDhwVmxVYVFjRlhYVWY2TTJ1YVZmQ1hFSWlpQWo4bzlJVlluYkxvNHdoaVVaQVdXS2YyNVh4eTdkZlZXaw?oc=5"
+          "name": "telegraaf.nl",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEZxZHZkUnJ3c3NlUkVXU1hXeHNIcWw1WXhfVmVqb2FCbjZLbGc3eThmc0w0N2NrNlc4cG1QN2dlMHM0cHRsaDdDSFFmUFBsWHZjOG1VeWF2SjgxOEtLeC1WVkt6ajEtQkF3bGZtZ01wR1FaYTZ6ZlhEVWFtQU9abGMzRlNrTTdiM0lkN0FZMENQVWNDSGl3UzBheHVmcHFPclFhYXdrQ1ZvYkt6VEg2YTNqNVVMVTRHYUVoM1NSSnlRSmJyTGJrWmJ1ZW9Wd3VNUUtIRkFQcTVXMDZPWE9Lbw?oc=5"
         }
       ]
     },
@@ -91,23 +91,11 @@
       "id": "0691b211eb47",
       "title": "Koffie doet meer dan je wakker houden: nieuwe studies zien effecten op darmen, brein en slaap - Metronieuws.nl",
       "published": "2026-09-29T10:50:00+00:00",
-      "summary": "Koffie doet meer dan je wakker houden: nieuwe studies zien effecten op darmen, brein en slaap&nbsp;&nbsp;Metronieuws.nl",
+      "summary": "Koffie doet meer dan je wakker houden: nieuwe studies zien effecten op darmen, brein en slaap&nbsp;&nbsp;Metronieuws.nlStoppen met koffie? Niet doen: het is gezonder dan je denkt&nbsp;&nbsp;andc.tvKoffie is meer dan een shot cafeïne: ook gunstig effect op darmen en hersenen&nbsp;&nbsp;Inter Press Service",
       "sources": [
         {
           "name": "Metronieuws.nl",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGE0TXdPT1c3dnFLcnIxeEFFSU02LURpVFBSTmFfbGl0U1hJQTMyVFBDQ2dqYWI1RDEtQUtPX3F6QjRWU1NWdFFWVS1iOXhabWRQRE5LZ2g1VjRWQ1B1a282VTJidHM0cHN0cGhTRnhKUlkycjJOM2dUYXRGNmxDOHV0M3c3bllZTmVvWnlnMEcxZ2FuN1hNZGExSGppSXpFZjhVWmRTYjc2YzhzVWhjN3VhNWZrQ2NC?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "105dd7db6f78",
-      "title": "PALU waarschuwt voor schade pluimveesector en eist duidelijkheid over vogelgriep - Starnieuws",
-      "published": "2026-10-01T11:32:00+00:00",
-      "summary": "PALU waarschuwt voor schade pluimveesector en eist duidelijkheid over vogelgriep&nbsp;&nbsp;StarnieuwsNCCR ingezet op meerdere locaties na vaststelling vogelgriep&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcExfM2pKdWZIQW5nOG9oQzhmdmRTR1VwZ1U2NGpNcjZlSk1RUlBCdl9pTEc3ek1qc29BMktZUklDTVlpa1dJY1lwTFR4X2MtOERRRDFYNUE4MERJUVNENFRIWnd2VEY3Y2ZIM1pOWmZnMDNPWWc?oc=5"
         }
       ]
     }

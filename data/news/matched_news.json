@@ -1,43 +1,42 @@
 {
-  "last_updated": "2026-10-02T21:46:39.393039+00:00",
-  "total_count": 13,
-  "matched_count": 2,
+  "last_updated": "2026-10-03T03:39:45.820654+00:00",
+  "total_count": 9,
+  "matched_count": 1,
   "news": [
+    {
+      "id": "df6ee0daaa2a",
+      "title": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht",
+      "published": "2026-10-02T19:01:42+00:00",
+      "summary": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "verkoudheid",
+          "related_drugs": [
+            {
+              "slug": "droperidol",
+              "name": "Droperidol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7b5a3349fd3c",
       "title": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden - De Telegraaf",
       "published": "2026-10-02T00:23:45+00:00",
-      "summary": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De TelegraafHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;nos.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantEbola-patiënt precies op tijd voor Leidens Ontzet: ‘Het grootste superspread event’&nbsp;&nbsp;AD.nl",
+      "summary": "Hulpverlener met ebola met ambulancevliegtuig aangekomen op Schiphol: behandeling in Leiden&nbsp;&nbsp;De TelegraafHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;volkskrant.nlEbola-patiënt precies op tijd voor Leidens Ontzet: ‘Het grootste superspread event’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanhwZHN0cTRRbjhidlZOcVQ1UTdfczNLaUNEUjRfcVltMi1saTE5aTQ1Nk1rMHRNcG1kQUUzdGwzN3pDdEQ1MFRreVozem1GS3VCbDRyRUs5WnozZmhBQ0p6TlNDcjlibjkyb1VrOUMwOVFVa0Vhc1J1NmVUbE9qMS1BVVN2ZUd0cUFUWkpES1pDV2ZBVGhrSHVXX2Q5cUVWN1BfaDZBTlNoSTF1VXdKQmZEekllck9fYnJlQWw3WWpYdW9ySEhBb2VYOXp5NXFPN212RTR0Mko?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "325c81166da2",
-      "title": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’ - De Telegraaf",
-      "published": "2026-10-01T19:25:00+00:00",
-      "summary": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEZxZHZkUnJ3c3NlUkVXU1hXeHNIcWw1WXhfVmVqb2FCbjZLbGc3eThmc0w0N2NrNlc4cG1QN2dlMHM0cHRsaDdDSFFmUFBsWHZjOG1VeWF2SjgxOEtLeC1WVkt6ajEtQkF3bGZtZ01wR1FaYTZ6ZlhEVWFtQU9abGMzRlNrTTdiM0lkN0FZMENQVWNDSGl3UzBheHVmcHFPclFhYXdrQ1ZvYkt6VEg2YTNqNVVMVTRHYUVoM1NSSnlRSmJyTGJrWmJ1ZW9Wd3VNUUtIRkFQcTVXMDZPWE9Lbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "691e7b6c543b",
-      "title": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft",
-      "published": "2026-10-01T18:30:27+00:00",
-      "summary": "Waarom het westnijlvirus een blijvertje is, maar die plotselinge piek aan patiënten nog een raadsel blijft&nbsp;&nbsp;AD.nlVier nieuwe doden door westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;nos.nlIs dit niet spelen met vuur, vroeg de presentator aan de bioloog die net enthousiast een polder onder water had gezet&nbsp;&nbsp;parool.nlWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep WestExperts hadden het niet verwacht, toch verspreidt het westnijlvirus",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaldXNnh4bHliOERhS09xNTBWWHFvNmF2cU03UzhBNXdvT3lVT1NZblBGZTRuM282Qlh4N2tZemlCcGszREEzYlp1MHBkWmwxM0syNG5QUENpZ2dFV1F1VUhFRVVtc0d6RmNUUTRDX1B3cUE3MDZsRDJ0cDVyaFVySjBXTUt1MUFVTDBqRFpVUHRPY3oyTzNtRTl4UFh3LWhfV0dvZ0FCYTZ3cUtzYnNIRWFTR2lpR1J3ZkNTN3FSclJ5eUNadnZCSlgxWm5kRmlGMWpFSS16X2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,10 +55,23 @@
       "matched_keywords": []
     },
     {
+      "id": "325c81166da2",
+      "title": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’ - De Telegraaf",
+      "published": "2026-10-01T17:27:42+00:00",
+      "summary": "Zorgsector eist dat ptss wordt erkend als beroepsziekte: ’Ik word soms ’s nachts schreeuwend wakker’&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEZxZHZkUnJ3c3NlUkVXU1hXeHNIcWw1WXhfVmVqb2FCbjZLbGc3eThmc0w0N2NrNlc4cG1QN2dlMHM0cHRsaDdDSFFmUFBsWHZjOG1VeWF2SjgxOEtLeC1WVkt6ajEtQkF3bGZtZ01wR1FaYTZ6ZlhEVWFtQU9abGMzRlNrTTdiM0lkN0FZMENQVWNDSGl3UzBheHVmcHFPclFhYXdrQ1ZvYkt6VEg2YTNqNVVMVTRHYUVoM1NSSnlRSmJyTGJrWmJ1ZW9Wd3VNUUtIRkFQcTVXMDZPWE9Lbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "13c3bc65656e",
       "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
       "published": "2026-10-01T16:47:24+00:00",
-      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Vrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;tvvisie.beElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntGrenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
+      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Vrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;TVvisieElles de Bruin: ‘Doorbehandelen tot het allerlaatste gaatje?’&nbsp;&nbsp;MAX MeldpuntGrenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX Meldpunt",
       "sources": [
         {
           "name": "NPO Radio 1",
@@ -82,173 +94,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5bf7f4fc2430",
-      "title": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord",
-      "published": "2026-10-01T09:58:43+00:00",
-      "summary": "De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig'&nbsp;&nbsp;RTV NoordLezing in Boekel over overgang en hormonale klachten&nbsp;&nbsp;Brabants DagbladNieuw onderzoek naar de overgang en MS zet vrouwengezondheid verder op de kaart&nbsp;&nbsp;universiteitleiden.nlLezing in Boekel gaat over overgang en hormonale klachten&nbsp;&nbsp;Brabants Dagblad",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c5365fae1ba9",
-      "title": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West",
-      "published": "2026-10-01T08:31:07+00:00",
-      "summary": "Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt'&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "62d70987ab02",
-      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het",
-      "published": "2026-09-30T08:25:14+00:00",
-      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5e1e84c72713",
       "title": "Snipverkouden? Het kan griep zijn, maar meeste mensen hebben last van rhinovirus of – jawel – corona - de Stentor",
       "published": "2026-09-29T19:00:00+00:00",
@@ -257,19 +102,6 @@
         {
           "name": "de Stentor",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3hMc3FYMF9ZTEQzcE5BODJHT0ZNeWxOUzRJTF9tTFU4QmZwUUE3Q20tckQ3ZTJXbmpkZDd1aFEyUms3SjJhNlB0VWItd2VIN1dSMTJFLUZ5bFBNMzhscm9Ua1AtUTNqek0zbWtESDNDbHVBcV9reXVpZlhjVjU5aVFZeHAtNWo4OElqd0U3UWwzZ3N4bXZwQUR6MDhwVmxVYVFjRlhYVWY2TTJ1YVZmQ1hFSWlpQWo4bzlJVlluYkxvNHdoaVVaQVdXS2YyNVh4eTdkZlZXaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c56b24b0daf5",
-      "title": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'",
-      "published": "2026-09-29T18:30:01+00:00",
-      "summary": "Race tegen de klok voor ebolamedicijn in Congo: 'Kinderen blijven nu alleen achter'&nbsp;&nbsp;nos.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "nos.nl",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHpVRHRXOF9vTUtENmp2UFhjUllyay1udWQxMk04YmF3bXhmMFBYaFB3cV9McDVMdEZkVjdtTUd2dHVBTjBWTGhqQU9qdGV5dGRyOFU1dTNBYW8wS1pJdktXeDc3b2p5SzRXaUdJM2psaDNUMG0wNXE5WVg1ZE9wdU9qWHlQY0hyNXJ3X1hzVVNaUkJoalpKS08xci1ETTBSN005SWlCMWtNeWE1N1Bodg?oc=5"
         }
       ],
       "matched_keywords": []

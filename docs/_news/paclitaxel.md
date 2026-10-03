@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,23 +41,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (0)
 
-### [De overgang: 'Van iets wat elke vrouw doormaakt, weten we schrikbarend weinig' - RTV Noord](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">overgang</span>
-
-Bron: [RTV Noord](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnNlYXpSNXc5RXpHcGNFX2Rsc25kWl9lOEhQVkFSemhOZjBRenY1VEx5TTVzNGZiYnJtdkxlbWE5bDBXanZXdzBRY3ByQkUwcGFtTUh6WVExSjB0RXhZa1hmZ2xqeWVlOHNMcFhMalpGZXQxYkdZSC1aQ3llaXZJU3FiTnNlT2xsaEt2RFI1akQydFdQNHl6eElTaWdFVVRLMHNoMTlHM0wzLXVsdW5FZQ?oc=5)
-
----
-
-### [Ziekenhuis heeft nieuwe behandeling tegen huidkanker: 'Jarenlang aan gewerkt' - Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5)
-
-2026-10-01 <span class="news-indication-tag">kanker</span>
-
-Bron: [Omroep West](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lSSDlPSVVhRWJnX1NmU2xOSnJQS1lHOFBWMFVsX2t4T1ltSWM4blF1cnBrM1lYalgwMzFPejNGNkhEMWl2T2NqS2xpbjdRbW0yTWI5R2JTWFE4SkZwczFhTHVRaXMtREw4T0dxSnFhMzVfOVZfa1NEcG1kZTlBb2t1Y0QxZG1YeTNjY1NnUGNtN3o0MHFwTzM2WmlPN0pnYnUzZ0RtWS1KUjMxOGxpZ09DYw?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

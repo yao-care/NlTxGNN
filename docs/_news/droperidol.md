@@ -14,7 +14,7 @@ permalink: /news/droperidol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Droperidol?">
-<strong>Droperidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Droperidol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
 <li>attention deficit-hyperactivity disorder (99.5%)</li>
 <li>headache disorder (99.5%)</li>
-<li>common cold (99.5%)</li>
+<li class="indication-matched">common cold (99.5%)<span class="indication-tag">📰 verkoudheid</span></li>
 <li>hypertrichosis (disease) (99.5%)</li>
 <li>specific developmental disorder (99.4%)</li>
 </ul></li>
@@ -41,9 +41,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 <p><a href="{{ '/drugs/droperidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">verkoudheid</span>
+
+Bron: [RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

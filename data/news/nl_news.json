@@ -1,16 +1,16 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-04T16:23:14.621156+00:00",
-  "count": 7,
+  "fetched_at": "2026-10-04T20:50:00.290048+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "71e83c16ac72",
-      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
+      "id": "2c03d4385ee3",
+      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - ad.nl",
       "published": "2026-10-04T11:28:00+00:00",
-      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantStrikte veiligheidsmaatregelen rond aankomst ebolapatiënt in LUMC&nbsp;&nbsp;Sleutelstad",
+      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;ad.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantStrikte veiligheidsmaatregelen rond aankomst ebolapatiënt in LUMC&nbsp;&nbsp;Sleutelstad",
       "sources": [
         {
-          "name": "AD.nl",
+          "name": "ad.nl",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbl85QkhpYUticFpMUjNDV1pSNWZuYXA3eVJNVTNXeDMwRFM5cE94UE0wc0Z3MFJEX1EtOUI4MnBJdGVDMUVwcXhYMEdWeDBtQWpPQ0dwZVZqLWI0cmJ3M1ZiOTZNVlptZjltSU9TZjJtNy1PUnQydmphQzZ3V043ZkVhSlJyNEp0Q3lTUXZsMFdIdFhENTRqMHBlZWNpbUhMdTY1bGM1NzNWZ0N5Y01oRnQzUnZIT3VWZkltQl91SWNXWDZuM3ZTeDJJRWxfUWJQTEJCZ2FCeFFkZDB4bENDbEhtS0phVGFWMWpj?oc=5"
         }
       ]
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "47e228dfa618",
-      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog - AD.nl",
-      "published": "2026-09-29T17:15:00+00:00",
-      "summary": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlBravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantVrouwenhart krijgt eigen plek binnen Bravis&nbsp;&nbsp;Bergen-op-zoom.nieuws.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordInformatiebijeenkomst Zorggroep Hoeksche Waard in de Rembrandt: Het Vro",
+      "id": "6758591d7c4a",
+      "title": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten - Omroep Brabant",
+      "published": "2026-10-04T14:40:00+00:00",
+      "summary": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantVrouwenhart krijgt eigen plek binnen Bravis&nbsp;&nbsp;Bergen-op-zoom.nieuws.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;ad.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;rtvnoord.nlInformatiebijeenkomst Zorggroep Hoeksche Waard in de Rembrandt: Het V",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5"
         }
       ]
     },
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "df6ee0daaa2a",
-      "title": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht",
-      "published": "2026-10-02T19:00:00+00:00",
-      "summary": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtSnipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De GelderlanderStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het k",
+      "id": "5b553da66322",
+      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - ad.nl",
+      "published": "2026-09-30T08:25:14+00:00",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;ad.nlSnipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;gelderlander.nl1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5"
+          "name": "ad.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
         }
       ]
     },
@@ -84,6 +84,18 @@
         {
           "name": "Wibnet",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmxlN3lTZDEyQ3k5Q19xWVRrWEVLMzlZWm5fckZibWpfZ1ZtZnJyLXlQU2pDeXNBWnRFam5VeDBlX21xZHU3Z01pYUJ0WnotS0F6TFNUNlNZN1FNSmZsUHdoYW5oTVhOZnZHOXEwNFRnTFVlbWc3OTh2REhlaHFBTHFNaGQ5ZWNYWXhyRFJ5VUtBU09IVlNfNWNQenFqUk41RzY1eXNjRjRJVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50e923387ab8",
+      "title": "Nu ook terugbetaald in ons land: hoe straf is het nieuwste medicijn tegen mucoviscidose? “Een gamechanger” - HLN",
+      "published": "2026-10-03T08:01:50+00:00",
+      "summary": "Nu ook terugbetaald in ons land: hoe straf is het nieuwste medicijn tegen mucoviscidose? “Een gamechanger”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcWlqdmJhQlZ1RUttdVNEQTRBRUVWV0xidllleVo0QklTNWR4U0lHdFlkTGY2MW40bENyY1NNN2sxUUxWSW1ZUTdPVDhSbWdxcE53cFViQy1qbjZYdTNqZHZ1OWk5WGQ0WGRYRk03SlVsbl9vRG1pVVRQTjZndk5faU1zX0o1WU9sNUk0ZFVZWnY5eEZJQmw5MGZudERjT2ZFQmxYazFyUklfX0lCQ0d6N2NtOGxMcWdfQ190OTA0aVhRYlpWcFoyTmcwbnNHV3FEMWdyNV9RVUpidw?oc=5"
         }
       ]
     }

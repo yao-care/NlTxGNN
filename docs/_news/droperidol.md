@@ -43,11 +43,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 
 ## Gerelateerd nieuws (1)
 
-### [1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+### [1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">verkoudheid</span>
 
-Bron: [rtvutrecht.nl](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+Bron: [RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
 
 ---
 

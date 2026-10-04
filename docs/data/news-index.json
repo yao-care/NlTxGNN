@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-04T04:09:40.080010+00:00",
-  "count": 1,
+  "generated": "2026-10-04T11:44:22.034528+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "df6ee0daaa2a",
-      "title": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht",
+      "id": "bfcf726b3d74",
+      "title": "1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?",
       "published": "2026-10-02T19:00:00+00:00",
       "sources": [
         {
-          "name": "RTV Utrecht",
+          "name": "rtvutrecht.nl",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5"
         }
       ],
@@ -21,6 +21,94 @@
             {
               "slug": "droperidol",
               "name": "Droperidol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47e228dfa618",
+      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog",
+      "published": "2026-09-29T17:15:00+00:00",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "hartziekte",
+          "related_drugs": [
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "minoxidil",
+              "name": "Minoxidil"
+            },
+            {
+              "slug": "propranolol",
+              "name": "Propranolol"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol"
+            },
+            {
+              "slug": "bumetanide",
+              "name": "Bumetanide"
+            },
+            {
+              "slug": "etoricoxib",
+              "name": "Etoricoxib"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "iloprost",
+              "name": "Iloprost"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
             }
           ]
         }

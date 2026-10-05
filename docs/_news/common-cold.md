@@ -31,11 +31,11 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “verkoudheid” en toon
 
 ## Gerelateerd nieuws (1)
 
-### [Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
+### [1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
 
-2026-09-30
+2026-10-02
 
-Bron: [ad.nl](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
+Bron: [RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
 
 ---
 

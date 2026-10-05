@@ -49,7 +49,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “hartziekte” en toont
 
 ### [Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten - Omroep Brabant](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5)
 
-2026-10-04
+2026-10-05
 
 Bron: [Omroep Brabant](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5)
 

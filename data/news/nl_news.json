@@ -1,41 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-05T03:54:09.461360+00:00",
+  "fetched_at": "2026-10-05T13:30:38.975385+00:00",
   "count": 5,
   "news": [
     {
-      "id": "71e83c16ac72",
-      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
-      "published": "2026-10-04T11:28:00+00:00",
-      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantStrikte veiligheidsmaatregelen rond aankomst ebolapatiënt in LUMC&nbsp;&nbsp;Sleutelstad",
+      "id": "d10075c40956",
+      "title": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen - nrc.nl",
+      "published": "2026-10-05T12:56:15+00:00",
+      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;nrc.nlHoe slecht is schermgebruik nou écht?&nbsp;&nbsp;broadcastmagazine.nlHet scrollen door telefoons is schadelijker voor kinderen dan geboren worden in armoede.&nbsp;&nbsp;Vietnam.vnGroot internationaal onderzoek: verband tussen schermgebruik en mentale klachten bij kinderen&nbsp;&nbsp;RTL.nlKinderen die veel achter een scherm zitten halen lagere cijfers&nbsp;&nbsp;Kidsweek",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbl85QkhpYUticFpMUjNDV1pSNWZuYXA3eVJNVTNXeDMwRFM5cE94UE0wc0Z3MFJEX1EtOUI4MnBJdGVDMUVwcXhYMEdWeDBtQWpPQ0dwZVZqLWI0cmJ3M1ZiOTZNVlptZjltSU9TZjJtNy1PUnQydmphQzZ3V043ZkVhSlJyNEp0Q3lTUXZsMFdIdFhENTRqMHBlZWNpbUhMdTY1bGM1NzNWZ0N5Y01oRnQzUnZIT3VWZkltQl91SWNXWDZuM3ZTeDJJRWxfUWJQTEJCZ2FCeFFkZDB4bENDbEhtS0phVGFWMWpj?oc=5"
+          "name": "nrc.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzNPSDVzNW1VY0NKRlVDRmZZX1dJbnYzOTNtZ0RTWFpUTlIyRkxhN1pPTkNXMEpxTDh5UTZSUzU0Nno5d2hta0o4MW1ZTGxTa3p0bFowY25aSXc1bVlfSmh1Q1hobGw0eGd0ZVNfR2cySnFrZWZGZ0VTd1lvLUhMcnp4bXM0Q3dIaUNKZy1GN2NTdUZwdFRGSnNUZzd2TE03YVJvdW5WN2FSUE5wdmZlZ3J4ZURGcDFwM2F6REI3SVpGckhuM1Y4VUUwTzdmYTlpUnNYb0dZdDRGM1ox?oc=5"
         }
       ]
     },
     {
-      "id": "117e678a2101",
-      "title": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop - Brabants Dagblad",
-      "published": "2026-10-03T09:30:00+00:00",
-      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUTwaalf nieuwe personen besmet met westnijlvirus, vier van hen overleden&nbsp;&nbsp;telegraaf.nlWaarschuwing voor muggenbeten, westnijlvirus ligt op de loer&nbsp;&nbsp;Omroep WestWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel zek",
+      "id": "f94cb235689e",
+      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - de Stentor",
+      "published": "2026-10-04T11:28:00+00:00",
+      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnVZR2FoY3hvU09SY0lkeWFPQm9lZUw1SUxNa2VNRzMyZmM2bHpBWkJ5Z2d3M2VtUnhYbWtEaThaWDRCRkxfSS1adXVxRkdFWm5QYnBiR3c2R0l3dTFRZkl2YUJiUUM2MG1kNko3M0VrQjhxTl9HbU5sY2tXVjNGaXZwclRCa3AzanltWkRYTjdRLTNxdThNSzNJVDEzZHBibEpCMlNSQTh6WU1wVnJrd01VZ05qai1qczFnTlg4NFRfNVhXR2pvR3lxWGF2T1RhdTJZ?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNXJuR2NyLXJQVGFPc2N3UUpoMzNHdm9nT19sLUhJb2k5angtTk9mNTR5SkFiYnN5dzAwelRqcGR2QXJpa0htLXh4TkRoSkFOQVZFb2hycHNRaEk3MkROeDFmbHpIZVdRb1pxN3ZDSFc1UjFIaVVjT205UEZOUzR2WjZqZ0Y3V3dVa1ByLXJJOXZ4MHl1RS1xR1c2U3hrSjJWSHBZSkZHYjNmdWVETUtFVWM5U2x4dVNvU3pibDdnQVYyWllGWWpTS3VEWkZXS3BBeC1Na2hnem1PSzlNSVc1a2pRT3BXb0ptaHZud1FTb0haUUtV?oc=5"
         }
       ]
     },
     {
       "id": "6758591d7c4a",
       "title": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten - Omroep Brabant",
-      "published": "2026-10-04T14:40:00+00:00",
-      "summary": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantVrouwenhart krijgt eigen plek binnen Bravis&nbsp;&nbsp;bergen-op-zoom.nieuws.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordInformatiebijeenkomst Zorggroep Hoeksche Waard in de Rembrandt: Het Vro",
+      "published": "2026-10-05T07:32:39+00:00",
+      "summary": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantVrouwenhart krijgt eigen plek binnen Bravis&nbsp;&nbsp;Bergen-op-zoom.nieuws.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlUMCG vraagt aandacht voor hartziekten bij vrouwen: ‘We dachten dat alle mensen hetzelfde waren’&nbsp;&nbsp;RTV NoordInformatiebijeenkomst Zorggroep Hoeksche Waard in de Rembrandt: Het Vro",
       "sources": [
         {
           "name": "Omroep Brabant",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13c3bc65656e",
+      "title": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld - NPO Radio 1",
+      "published": "2026-10-01T16:52:10+00:00",
+      "summary": "Verpleegkundigen zien te vaak dat patiënten worden doorbehandeld&nbsp;&nbsp;NPO Radio 1Grenzen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntVrijdag in 'Meldpunt Actueel': waar ligt de grens van het doorbehandelen van ouderen?&nbsp;&nbsp;TVvisieVrijdag op tv: grenzen stellen aan doorbehandelen van ouderen&nbsp;&nbsp;MAX MeldpuntMargo Eggermont over doorbehandelen: ‘Je ziet dat er van alles gebeurt, wat hij dus nooit had gewild’&nbsp;&nbsp;MAX Meldpunt",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2lzZk82dTBKeTYxdHVJMVVEUEpuMEtQRkc4X3JpaXZ3VFhUSlotVXNoWVFQYVFTSUJ1U3JYZ2NlTnJiUGVUME94QnV5S2hma1FHUnFKZmRZd1FaUWJLSnJSX1l5TEExV2NaU0RoZkVzbktZVWxQeXNudktIZk1EVUVQRUpaQ09yLXRXVVRnTndXa2h0LThSZGdQc3piQ1NzOWE1N0psQm8ydGVQSnNkbVctS1VwdTN4bncxblNvTDNlakRBNlBhY0xtTjRSR2lQSXVwb2xkYjlHM054TlE?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "RTV Utrecht",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e46ed2a87979",
-      "title": "Enorm onderzoek: Onderzoekers brengen cannabisgebruik in verband met opvallend gedrag - Wibnet",
-      "published": "2026-10-02T10:24:47+00:00",
-      "summary": "Enorm onderzoek: Onderzoekers brengen cannabisgebruik in verband met opvallend gedrag&nbsp;&nbsp;Wibnet",
-      "sources": [
-        {
-          "name": "Wibnet",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmxlN3lTZDEyQ3k5Q19xWVRrWEVLMzlZWm5fckZibWpfZ1ZtZnJyLXlQU2pDeXNBWnRFam5VeDBlX21xZHU3Z01pYUJ0WnotS0F6TFNUNlNZN1FNSmZsUHdoYW5oTVhOZnZHOXEwNFRnTFVlbWc3OTh2REhlaHFBTHFNaGQ5ZWNYWXhyRFJ5VUtBU09IVlNfNWNQenFqUk41RzY1eXNjRjRJVVE?oc=5"
         }
       ]
     }

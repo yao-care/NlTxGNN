@@ -31,11 +31,11 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “verkoudheid” en toon
 
 ## Gerelateerd nieuws (1)
 
-### [1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts? - RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+### [Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona - De Gelderlander](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5)
 
-2026-10-02
+2026-09-30
 
-Bron: [RTV Utrecht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclUwZWtrTi1yWlJwVkl0R2FaOTZjVG0tUjl1Qy1GSG5aX1RnQTdldFpjMGRkeU5xMVFmbG5UYnMtQVNvTVRlM3U5dkR5UkhING1jQk5NQU11QnRWQnFxWXRhUHVSeEd5WmpPOEl2Sm5pNmYzdWJGSnNXUVE5all0cTdtd2Rsb0w4T1gxMXRrcTN2bDBiTDhJV0c5VkZka1dHNTV2QVFqdENlVnRLeGdaNUp2Q1RvOGF3ZHJYX0VfZWFIQQ?oc=5)
+Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5)
 
 ---
 

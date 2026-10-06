@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Flunitrazepam?">
-<strong>Flunitrazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Flunitrazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 <li>migraine disorder (99.7%)</li>
 <li>migraine with brainstem aura (99.6%)</li>
 <li>anxiety (99.6%)</li>
-<li>anxiety disorder (99.6%)</li>
+<li class="indication-matched">anxiety disorder (99.6%)<span class="indication-tag">📰 angst</span></li>
 <li>alcohol withdrawal delirium (99.5%)</li>
 <li>migraine with or without aura, susceptibility to (99.5%)</li>
 <li>agoraphobia (99.4%)</li>
@@ -42,9 +42,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">angst</span>
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+---
 
 
 <div class="disclaimer">

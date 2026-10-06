@@ -14,7 +14,7 @@ permalink: /news/lormetazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lormetazepam?">
-<strong>Lormetazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Lormetazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <li>barbiturate abuse (99.8%)</li>
 <li>anxiety (99.8%)</li>
 <li>cauda equina syndrome (99.7%)</li>
-<li>anxiety disorder (99.6%)</li>
+<li class="indication-matched">anxiety disorder (99.6%)<span class="indication-tag">📰 angst</span></li>
 <li>sleep disorder, initiating and maintaining sleep (99.6%)</li>
 <li>benign paroxysmal torticollis of infancy (99.4%)</li>
 </ul></li>
@@ -41,9 +41,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <p><a href="{{ '/drugs/lormetazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">angst</span>
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+---
 
 
 <div class="disclaimer">

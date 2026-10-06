@@ -1,13 +1,37 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-06T04:42:21.640943+00:00",
-  "count": 5,
+  "fetched_at": "2026-10-06T12:41:46.737695+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "d475be152701",
+      "title": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90 - NOS",
+      "published": "2026-10-06T08:29:56+00:00",
+      "summary": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSStaat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen&nbsp;&nbsp;de VolkskrantMazelenuitbraak in staat New York: gouverneur roept noodtoestand uit&nbsp;&nbsp;De TelegraafNoodtoestand in staat New York vanwege uitbraak mazelen: dalende vaccinatiegraad oorzaak&nbsp;&nbsp;HLNMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NL",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9TM2ZrSDl6UE85cjkyUC12c1A2QjdaV1Q2MG1zcmYwQVA0b0dHVmVqcy1sR2h1MWl0MGhvT254RE9iWF9QT0tMOXJmNWFaS1dqcEZsQ05BR2FvdnNVSVlneUtlME5nU1B5X05vUXZGenlPM0FjLTAwNFpGRVFtc3NYWkZETXlvcHZIVDJGSHJ1VjlkX3VVQ1BOMkxiTE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d62670e88857",
+      "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
+      "published": "2026-10-06T04:09:09+00:00",
+      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladGriepprik in veel huisartsenpraktijken later dit jaar, vanwege uitbreiding met ander virus&nbsp;&nbsp;Leeuwarder CourantVertraging in levering vaccins: griepprik dit najaar mogelijk later beschikbaar in de regio&nbsp;&nbsp;AD.nlGriepprik zonder uitnodiging? Zo regel je de vac",
+      "sources": [
+        {
+          "name": "Omrop Fryslân",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTERVYWs4cXNzNlA2WUhHRFhGRmxHdHJTd0RRd0l2dkpYdDU1T2ZzTVZfdWdHS2VYc2Vja0NuaHRWbjlfQ2lUTUk1aHA4UGpwZTczcFRxTm9BcHhWaEZBRmhGcTFJcFRqQ2ZpWTJTNmk2RnBmbWhqc3V4QzliVjdQbGZTNHY1RlQ3elBlVERDanVnOGwtV2VySklobzJOWXcxWTM2elhJNzBvWWVSZGg2V29iM3ZwX3JqM2dr?oc=5"
+        }
+      ]
+    },
     {
       "id": "a0001d48e2b1",
       "title": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-05T01:29:55+00:00",
-      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWaarom jongeren vandaag zo veel druk ervaren: “Soms heb ik buikpijn van de stress”&nbsp;&nbsp;NieuwsbladExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetHoe slecht is schermgebruik nou écht?&nbsp;&nbsp;broadcastmagazine.nl‘Pak big tech a",
+      "published": "2026-10-05T21:09:08+00:00",
+      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetDeze professor pleit net tegen een socialemediaverbod: ‘Weinig bewijs dat ze het mentale welzijn van jongeren aantasten’&nbsp;&nbsp;De MorgenDinsdag in 'Focus': Hoe slecht is schermgebruik",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -16,22 +40,10 @@
       ]
     },
     {
-      "id": "71e83c16ac72",
-      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
-      "published": "2026-10-04T11:28:00+00:00",
-      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEén foutje kan fatale gevolgen hebben: hoe Leiden die ene superbesmettelijke ebolapatiënt isoleert&nbsp;&nbsp;AD.nlMedewerker van Artsen zonder Grenzen met ebola wordt behandeld in Leiden&nbsp;&nbsp;NUEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOS",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbl85QkhpYUticFpMUjNDV1pSNWZuYXA3eVJNVTNXeDMwRFM5cE94UE0wc0Z3MFJEX1EtOUI4MnBJdGVDMUVwcXhYMEdWeDBtQWpPQ0dwZVZqLWI0cmJ3M1ZiOTZNVlptZjltSU9TZjJtNy1PUnQydmphQzZ3V043ZkVhSlJyNEp0Q3lTUXZsMFdIdFhENTRqMHBlZWNpbUhMdTY1bGM1NzNWZ0N5Y01oRnQzUnZIT3VWZkltQl91SWNXWDZuM3ZTeDJJRWxfUWJQTEJCZ2FCeFFkZDB4bENDbEhtS0phVGFWMWpj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "117e678a2101",
       "title": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop - Brabants Dagblad",
       "published": "2026-10-03T09:30:00+00:00",
-      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;AD.nlNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUVier nieuwe doden met westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel zeker",
+      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;TubantiaNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUVier nieuwe doden met westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel ze",
       "sources": [
         {
           "name": "Brabants Dagblad",
@@ -40,14 +52,26 @@
       ]
     },
     {
-      "id": "124ac7b229c0",
-      "title": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten - omroepbrabant.nl",
-      "published": "2026-10-05T07:32:39+00:00",
-      "summary": "Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;omroepbrabant.nlOnder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlMan kan ook een ‘vrouwenhart’ hebben: Paul (65) weet daar alles van&nbsp;&nbsp;Catharina ZiekenhuisSekseverschillen meenemen in hart- en vaatzorg&nbsp;&nbsp;umcutrecht.nlDress Red Day 2026: gebouwen door heel Nederland kleuren rood&nbsp;&nbsp;hartstichting.nl",
+      "id": "71e83c16ac72",
+      "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
+      "published": "2026-10-04T11:28:00+00:00",
+      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "omroepbrabant.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbl85QkhpYUticFpMUjNDV1pSNWZuYXA3eVJNVTNXeDMwRFM5cE94UE0wc0Z3MFJEX1EtOUI4MnBJdGVDMUVwcXhYMEdWeDBtQWpPQ0dwZVZqLWI0cmJ3M1ZiOTZNVlptZjltSU9TZjJtNy1PUnQydmphQzZ3V043ZkVhSlJyNEp0Q3lTUXZsMFdIdFhENTRqMHBlZWNpbUhMdTY1bGM1NzNWZ0N5Y01oRnQzUnZIT3VWZkltQl91SWNXWDZuM3ZTeDJJRWxfUWJQTEJCZ2FCeFFkZDB4bENDbEhtS0phVGFWMWpj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47e228dfa618",
+      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog - AD.nl",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlBravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantMan kan ook een ‘vrouwenhart’ hebben: Paul (65) weet daar alles van&nbsp;&nbsp;Catharina ZiekenhuisHartklachten bij vrouwen worden vaak later herkend: gratis informatieavond in Oud-Beijerland&nbsp;&nbsp;BN DeStem",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
         }
       ]
     },
@@ -55,11 +79,23 @@
       "id": "bd16e7f9b808",
       "title": "Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona - De Gelderlander",
       "published": "2026-09-30T07:25:47+00:00",
-      "summary": "Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De Gelderlander1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;rtvutrecht.nlStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het",
+      "summary": "Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De Gelderlander1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;rivm.nlNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het kan griep zijn, maar meeste mensen hebben last",
       "sources": [
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4c0653dfc31",
+      "title": "Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’ - Libelle",
+      "published": "2026-10-06T00:32:29+00:00",
+      "summary": "Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5"
         }
       ]
     }

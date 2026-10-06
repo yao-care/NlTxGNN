@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-06T12:41:46.737695+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-06T22:16:15.240347+00:00",
+  "count": 9,
   "news": [
     {
       "id": "d475be152701",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "d62670e88857",
-      "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
-      "published": "2026-10-06T04:09:09+00:00",
-      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladGriepprik in veel huisartsenpraktijken later dit jaar, vanwege uitbreiding met ander virus&nbsp;&nbsp;Leeuwarder CourantVertraging in levering vaccins: griepprik dit najaar mogelijk later beschikbaar in de regio&nbsp;&nbsp;AD.nlGriepprik zonder uitnodiging? Zo regel je de vac",
+      "id": "a560870c43e4",
+      "title": "‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders - Bnnvara",
+      "published": "2026-10-06T14:46:03+00:00",
+      "summary": "‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders&nbsp;&nbsp;BnnvaraSteeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe&nbsp;&nbsp;RTL.nlForse toename kanker bij jongeren, ‘leefstijl tikkende tijdbom’&nbsp;&nbsp;bnr.nlWCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op&nbsp;&nbsp;Metronieuws.nlUit onderzoek blijkt: steeds meer mensen onder de 50 krijgen kanker&nbsp;&nbsp;Linda",
       "sources": [
         {
-          "name": "Omrop Fryslân",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTERVYWs4cXNzNlA2WUhHRFhGRmxHdHJTd0RRd0l2dkpYdDU1T2ZzTVZfdWdHS2VYc2Vja0NuaHRWbjlfQ2lUTUk1aHA4UGpwZTczcFRxTm9BcHhWaEZBRmhGcTFJcFRqQ2ZpWTJTNmk2RnBmbWhqc3V4QzliVjdQbGZTNHY1RlQ3elBlVERDanVnOGwtV2VySklobzJOWXcxWTM2elhJNzBvWWVSZGg2V29iM3ZwX3JqM2dr?oc=5"
+          "name": "Bnnvara",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "id": "a0001d48e2b1",
       "title": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-10-05T21:09:08+00:00",
-      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetDeze professor pleit net tegen een socialemediaverbod: ‘Weinig bewijs dat ze het mentale welzijn van jongeren aantasten’&nbsp;&nbsp;De MorgenDinsdag in 'Focus': Hoe slecht is schermgebruik",
+      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetWaarom jongeren vandaag zo veel druk ervaren: “Soms heb ik buikpijn van de stress”&nbsp;&nbsp;NieuwsbladDinsdag in 'Focus': Hoe slecht is schermgebruik nu écht?&nbsp;&nbsp;TVvisieHet scrol",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -40,10 +40,22 @@
       ]
     },
     {
+      "id": "d62670e88857",
+      "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
+      "published": "2026-10-06T04:09:09+00:00",
+      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladVertraagde levering: griepprik in veel huisartsenpraktijken later dit jaar&nbsp;&nbsp;Leeuwarder CourantVertraging in levering vaccins: griepprik dit najaar mogelijk later beschikbaar in de regio&nbsp;&nbsp;AD.nlVertraging in levering griepvaccins: sommige griepprikken later ",
+      "sources": [
+        {
+          "name": "Omrop Fryslân",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTERVYWs4cXNzNlA2WUhHRFhGRmxHdHJTd0RRd0l2dkpYdDU1T2ZzTVZfdWdHS2VYc2Vja0NuaHRWbjlfQ2lUTUk1aHA4UGpwZTczcFRxTm9BcHhWaEZBRmhGcTFJcFRqQ2ZpWTJTNmk2RnBmbWhqc3V4QzliVjdQbGZTNHY1RlQ3elBlVERDanVnOGwtV2VySklobzJOWXcxWTM2elhJNzBvWWVSZGg2V29iM3ZwX3JqM2dr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "117e678a2101",
       "title": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop - Brabants Dagblad",
       "published": "2026-10-03T09:30:00+00:00",
-      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;TubantiaNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUVier nieuwe doden met westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel ze",
+      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;AD.nlNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUVier nieuwe doden met westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel zeker",
       "sources": [
         {
           "name": "Brabants Dagblad",
@@ -55,7 +67,7 @@
       "id": "71e83c16ac72",
       "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
       "published": "2026-10-04T11:28:00+00:00",
-      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantStrikte veiligheidsmaatregelen rond aankomst ebolapatiënt in LUMC&nbsp;&nbsp;Sleutelstad",
       "sources": [
         {
           "name": "AD.nl",
@@ -64,38 +76,38 @@
       ]
     },
     {
-      "id": "47e228dfa618",
-      "title": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog - AD.nl",
-      "published": "2026-09-29T17:15:00+00:00",
-      "summary": "Onder meer je BMI en bloeddruk bijhouden kan een hartinfarct helpen voorkomen: ‘Ken je getallen’ adviseert cardioloog&nbsp;&nbsp;AD.nlBravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten&nbsp;&nbsp;Omroep BrabantMan kan ook een ‘vrouwenhart’ hebben: Paul (65) weet daar alles van&nbsp;&nbsp;Catharina ZiekenhuisHartklachten bij vrouwen worden vaak later herkend: gratis informatieavond in Oud-Beijerland&nbsp;&nbsp;BN DeStem",
+      "id": "62d70987ab02",
+      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - AD.nl",
+      "published": "2026-09-30T08:25:14+00:00",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;AD.nlSnipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De Gelderlander1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWZvbUxhcHVoXzczdVNQQ1ZyaUFiX2EwLUFndVJmWTI2VExPVzZ0dEhxaUNSU21yNl9WZ2NsWm44a3RaTHQ0WHBKeVo2TU5Nck5JMGNBV1BlWG51c0s5OWM0cUFBYVpQUTRvNjBOT01sa3Z0aVVvVDF3SjBHdXJnZEo2ZzVfOTctM0h3cWNOTWstNHc0dk1Ed3BkenZ4Tmg5M1lCREVYaUVRNXZiWHpORVl6ajBLMXlGc1p6bk00MmZxcUdKTktSVlFHdUNMT2dpejY0X0Q5LTZSYWowNDFLYkRHUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
         }
       ]
     },
     {
-      "id": "bd16e7f9b808",
-      "title": "Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona - De Gelderlander",
-      "published": "2026-09-30T07:25:47+00:00",
-      "summary": "Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De Gelderlander1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;rivm.nlNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het kan griep zijn, maar meeste mensen hebben last",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4c0653dfc31",
-      "title": "Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’ - Libelle",
+      "id": "dd43d905ed2f",
+      "title": "Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’ - Libelle",
       "published": "2026-10-06T00:32:29+00:00",
-      "summary": "Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’&nbsp;&nbsp;Libelle",
+      "summary": "Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’&nbsp;&nbsp;Libelle",
       "sources": [
         {
           "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7a96a5ffa28",
+      "title": "Symptomen corona in de herfst van 2026 - Gezondheid.be",
+      "published": "2026-09-30T22:01:17+00:00",
+      "summary": "Symptomen corona in de herfst van 2026&nbsp;&nbsp;Gezondheid.be",
+      "sources": [
+        {
+          "name": "Gezondheid.be",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHdOY2ZCRmFmSlBtQkxiWVlsUmtZZXFKSzNXS2ZXZ3AxOVVnVG5lOERNY21ON0FqUFJER0ZZdEI2RVNNSlpJSzNZVF9LUFZjemFzRXNyX3hjX0c3aGN6SzdyQjlIVzk5ZWNTaWNnNTltNDZTanhqVzF2N3o5NnBTQi1RSmVGelV1ODN4YWxCTQ?oc=5"
         }
       ]
     }

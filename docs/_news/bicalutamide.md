@@ -14,7 +14,7 @@ permalink: /news/bicalutamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
-<strong>Bicalutamide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Bicalutamide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,18 +34,26 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <li>leprosy (99.4%)</li>
 <li>multiple endocrine neoplasia (99.2%)</li>
 <li>pulmonary hypertension (99.2%)</li>
-<li>female breast carcinoma (99.1%)</li>
+<li class="indication-matched">female breast carcinoma (99.1%)<span class="indication-tag">📰 borstkanker</span></li>
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
-### [Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+### [‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
 
-2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">angst</span>
+2026-10-06 <span class="news-indication-tag">kanker</span>
+
+Bron: [Bnnvara](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
+
+---
+
+### [Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
 

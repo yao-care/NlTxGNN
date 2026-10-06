@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,9 +54,17 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
-### [Evelien (62) reist de wereld rond met ongeneeslijke kanker: ‘Ik kies voor geluk, niet voor angst’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+### [‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
+
+2026-10-06
+
+Bron: [Bnnvara](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
+
+---
+
+### [Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
 
 2026-10-06
 

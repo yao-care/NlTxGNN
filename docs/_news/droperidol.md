@@ -43,11 +43,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 
 ## Gerelateerd nieuws (1)
 
-### [Snipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona - De Gelderlander](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5)
+### [Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
 
 2026-09-30 <span class="news-indication-tag">verkoudheid</span>
 
-Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWpjUFRJOG9JNmJXTU1CblBwTi1FMnItbTU4bFM0dWNRaFBpRjYxaEhEQXc1enJsYUNJajY5T1hIejU5WDlKZHVJQUZWNUx3YnVxaFdEanpoaHNCOTRvblZfQnRYOTktZnJhckV5UERPZjNDNXpqRjFiYy14OFg2Wm5yQk5GSkhJUmtkSGhWQV9SX0lmRmp0UzNhekdrZjdfY0pmQjlpUzlDOHdPc3JRX0lKZVNHV0FzNTM3dEp4M19aci1oaFRJNHNCbG9WaVdyMS14WnZELXItVzNrSmdCaUk0MEVQcHQ3?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
 
 ---
 

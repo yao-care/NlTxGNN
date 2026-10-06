@@ -14,7 +14,7 @@ permalink: /news/atenolol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Atenolol?">
-<strong>Atenolol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Atenolol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Bravis opent polikliniek speciaal voor vrouwen met onbegrepen hartklachten - Omroep Brabant](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5)
-
-2026-10-05 <span class="news-indication-tag">hartziekte</span>
-
-Bron: [Omroep Brabant](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV93XzBIcmNNdDRvX1dJdEpzWjRwRGFVb0h5QzNPRnAzb3RjREZjQkhBMkROQ2JfbHRvRkVGY0pYS0ZseXJ1ZUs1eDZwREpQNmE4M3F0TWhNa09GU2tNMzR5dkJuZU50ZWIyRURRcEppYV9YalJXcTByelRhRnNjMExzQ1N0N1FvT29BM2N1cXY2Q3piTjhGLVN4MEZlUVNkWUJXeGNnaVNvWjZXYlQtMEMzVDByRXY5aXc?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

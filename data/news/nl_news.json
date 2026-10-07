@@ -1,29 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-06T22:16:15.240347+00:00",
+  "fetched_at": "2026-10-07T04:08:15.138455+00:00",
   "count": 9,
   "news": [
     {
-      "id": "d475be152701",
-      "title": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90 - NOS",
-      "published": "2026-10-06T08:29:56+00:00",
-      "summary": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSStaat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen&nbsp;&nbsp;de VolkskrantMazelenuitbraak in staat New York: gouverneur roept noodtoestand uit&nbsp;&nbsp;De TelegraafNoodtoestand in staat New York vanwege uitbraak mazelen: dalende vaccinatiegraad oorzaak&nbsp;&nbsp;HLNMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NL",
+      "id": "1aa460f8aecf",
+      "title": "Huidkanker is straks de meest voorkomende kankersoort - AD.nl",
+      "published": "2026-10-06T16:00:00+00:00",
+      "summary": "Huidkanker is straks de meest voorkomende kankersoort&nbsp;&nbsp;AD.nlZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUAantal diagnoses huidkanker stijgt komende twintig jaar met bijna zestig procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekGigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’&nbsp;&nbsp;De TelegraafIn ",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9TM2ZrSDl6UE85cjkyUC12c1A2QjdaV1Q2MG1zcmYwQVA0b0dHVmVqcy1sR2h1MWl0MGhvT254RE9iWF9QT0tMOXJmNWFaS1dqcEZsQ05BR2FvdnNVSVlneUtlME5nU1B5X05vUXZGenlPM0FjLTAwNFpGRVFtc3NYWkZETXlvcHZIVDJGSHJ1VjlkX3VVQ1BOMkxiTE0?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5"
         }
       ]
     },
     {
-      "id": "a560870c43e4",
-      "title": "‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders - Bnnvara",
-      "published": "2026-10-06T14:46:03+00:00",
-      "summary": "‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders&nbsp;&nbsp;BnnvaraSteeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe&nbsp;&nbsp;RTL.nlForse toename kanker bij jongeren, ‘leefstijl tikkende tijdbom’&nbsp;&nbsp;bnr.nlWCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op&nbsp;&nbsp;Metronieuws.nlUit onderzoek blijkt: steeds meer mensen onder de 50 krijgen kanker&nbsp;&nbsp;Linda",
+      "id": "d475be152701",
+      "title": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90 - NOS",
+      "published": "2026-10-06T08:29:56+00:00",
+      "summary": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSStaat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen&nbsp;&nbsp;de VolkskrantMazelenuitbraak in staat New York: gouverneur roept noodtoestand uit&nbsp;&nbsp;De TelegraafMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NLNoodtoestand in staat New York vanwege uitbraak mazelen: dalende vaccinatiegraad oorzaak&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "Bnnvara",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9TM2ZrSDl6UE85cjkyUC12c1A2QjdaV1Q2MG1zcmYwQVA0b0dHVmVqcy1sR2h1MWl0MGhvT254RE9iWF9QT0tMOXJmNWFaS1dqcEZsQ05BR2FvdnNVSVlneUtlME5nU1B5X05vUXZGenlPM0FjLTAwNFpGRVFtc3NYWkZETXlvcHZIVDJGSHJ1VjlkX3VVQ1BOMkxiTE0?oc=5"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "id": "d62670e88857",
       "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
       "published": "2026-10-06T04:09:09+00:00",
-      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladVertraagde levering: griepprik in veel huisartsenpraktijken later dit jaar&nbsp;&nbsp;Leeuwarder CourantVertraging in levering vaccins: griepprik dit najaar mogelijk later beschikbaar in de regio&nbsp;&nbsp;AD.nlVertraging in levering griepvaccins: sommige griepprikken later ",
+      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladVertraagde levering: griepprik in veel huisartsenpraktijken later dit jaar&nbsp;&nbsp;Leeuwarder CourantVertraging in levering griepvaccins: sommige griepprikken later gepland&nbsp;&nbsp;De HerautGriepprik zonder uitnodiging? Zo regel je de vaccinatie&nbsp;&nbsp;Libelle",
       "sources": [
         {
           "name": "Omrop Fryslân",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "117e678a2101",
-      "title": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop - Brabants Dagblad",
-      "published": "2026-10-03T09:30:00+00:00",
-      "summary": "Gestoken door een ‘stomme mug’ kreeg John (61) het westnijlvirus, nu staat zijn leven compleet op zijn kop&nbsp;&nbsp;Brabants DagbladAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;AD.nlNog vier patiënten met westnijlvirus overleden: 'Piek van uitbraak lijkt geweest'&nbsp;&nbsp;NUVier nieuwe doden met westnijlvirus, maar uitbraak lijkt af te vlakken&nbsp;&nbsp;NOSWestnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel zeker",
+      "id": "05d4d725bee0",
+      "title": "WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op - Metronieuws.nl",
+      "published": "2026-10-06T13:48:00+00:00",
+      "summary": "WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op&nbsp;&nbsp;Metronieuws.nlSigned: Cancer Before 50: Why Is It Rising? nu kijken of gemist?&nbsp;&nbsp;TVgids.nlSteeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe&nbsp;&nbsp;RTL.nlForse toename kanker bij jongeren, ‘leefstijl tikkende tijdbom’&nbsp;&nbsp;bnr.nl‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders&nbsp;&nbsp;Bnnvara",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnVZR2FoY3hvU09SY0lkeWFPQm9lZUw1SUxNa2VNRzMyZmM2bHpBWkJ5Z2d3M2VtUnhYbWtEaThaWDRCRkxfSS1adXVxRkdFWm5QYnBiR3c2R0l3dTFRZkl2YUJiUUM2MG1kNko3M0VrQjhxTl9HbU5sY2tXVjNGaXZwclRCa3AzanltWkRYTjdRLTNxdThNSzNJVDEzZHBibEpCMlNSQTh6WU1wVnJrd01VZ05qai1qczFnTlg4NFRfNVhXR2pvR3lxWGF2T1RhdTJZ?oc=5"
+          "name": "Metronieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1NwYXFkRU92MDlFYzlGaEVsdWZoUW5MUkE2WEpOaElxc2pMSi1aQWNzS1p3SnRrajVzcXlubF9pNHlPRS1tcHExT3JXMGVPSk5NYjlReUtOQkpDLUpHWkpyUkVHNjJWQlNFSi1jaU54NklNNGY2Z3Zid2ZMV1B2dGw4TmdSYUVzcWFRNzJLSnhodWZCZWpUZ0ljY0NRYXVmbzdpNzk4ZGJOa3FubXVmbThCbjQ2Wm1YVnBXWA?oc=5"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "id": "62d70987ab02",
       "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - AD.nl",
       "published": "2026-09-30T08:25:14+00:00",
-      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;AD.nlSnipverkouden? Het kan al griep zijn, maar de meeste mensen hebben last van het rhinovirus of – jawel – corona&nbsp;&nbsp;De Gelderlander1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
+      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;AD.nl1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het kan griep zijn, maar meeste m",
       "sources": [
         {
           "name": "AD.nl",

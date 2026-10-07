@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
 
-### [‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
+### [Huidkanker is straks de meest voorkomende kankersoort](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5)
 
 2026-10-06
 
-Bron: [Bnnvara](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pQbHdpQ21Wc2lMemhFWVRTeXAzZF9FR0tBMTUzY2pqUko4bFNCc3ZGcGNkZ3JGd29JcFRpYklLTUZobWJOMlpxLWM3c1B1QWl3a2xpR0VESUdvRnMwN3FCazh6akRZcmc1S0JETm5LN0RkUENVY3MwSDRQQk9KMjlIOXZBOWt0dEV3eWlvX2ZhSHQ1TjhHenlJYW5GSzZyelY3QVhtdjlRRmszSHRPc0JFSWo?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5)
+
+---
+
+### [WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1NwYXFkRU92MDlFYzlGaEVsdWZoUW5MUkE2WEpOaElxc2pMSi1aQWNzS1p3SnRrajVzcXlubF9pNHlPRS1tcHExT3JXMGVPSk5NYjlReUtOQkpDLUpHWkpyUkVHNjJWQlNFSi1jaU54NklNNGY2Z3Zid2ZMV1B2dGw4TmdSYUVzcWFRNzJLSnhodWZCZWpUZ0ljY0NRYXVmbzdpNzk4ZGJOa3FubXVmbThCbjQ2Wm1YVnBXWA?oc=5)
+
+2026-10-06
+
+Bron: [Metronieuws.nl](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1NwYXFkRU92MDlFYzlGaEVsdWZoUW5MUkE2WEpOaElxc2pMSi1aQWNzS1p3SnRrajVzcXlubF9pNHlPRS1tcHExT3JXMGVPSk5NYjlReUtOQkpDLUpHWkpyUkVHNjJWQlNFSi1jaU54NklNNGY2Z3Zid2ZMV1B2dGw4TmdSYUVzcWFRNzJLSnhodWZCZWpUZ0ljY0NRYXVmbzdpNzk4ZGJOa3FubXVmbThCbjQ2Wm1YVnBXWA?oc=5)
 
 ---
 

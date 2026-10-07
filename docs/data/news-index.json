@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-07T04:08:15.224583+00:00",
-  "count": 4,
+  "generated": "2026-10-07T12:35:19.345984+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "1aa460f8aecf",
-      "title": "Huidkanker is straks de meest voorkomende kankersoort",
-      "published": "2026-10-06T16:00:00+00:00",
+      "id": "10b294e342b4",
+      "title": "Gigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’ - De Telegraaf",
+      "published": "2026-10-07T11:34:21+00:00",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDd2QTIxMThFUlEtNVFsUUcxNGFXUVVDZHJfbDBISzYtcHFoRFpuZklQTndhNWpjaXgtbDVmanVyNGwwNGVWX0Q4UzUzVnY3TjBkUVp3VkdTbERPSzZNdmtDel9GN0MwZnhWR0xJYVp1Um9Hd2xJY2MtbktzRHJDNUwwVmpTRm5qbXN3WTdGQy1hNHVXU3JackRnVGVoZDFEN2pFcURDYU45VEtQeWxyUk9vZVhBd0Z6UW9fbTBOX3hmNjNKYk1MQzNPRDU3YVV3NmNCUEY1LTJNcThHTm8zTmE4VTRxYmM?oc=5"
         }
       ],
       "keywords": [
@@ -384,30 +384,6 @@
             {
               "slug": "bicalutamide",
               "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "62d70987ab02",
-      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het",
-      "published": "2026-09-30T08:25:14+00:00",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "verkoudheid",
-          "related_drugs": [
-            {
-              "slug": "droperidol",
-              "name": "Droperidol"
             }
           ]
         }

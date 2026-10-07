@@ -43,11 +43,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Mannitol met het la
 
 ## Gerelateerd nieuws (3)
 
-### [Huidkanker is straks de meest voorkomende kankersoort](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5)
+### [Gigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’ - De Telegraaf](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDd2QTIxMThFUlEtNVFsUUcxNGFXUVVDZHJfbDBISzYtcHFoRFpuZklQTndhNWpjaXgtbDVmanVyNGwwNGVWX0Q4UzUzVnY3TjBkUVp3VkdTbERPSzZNdmtDel9GN0MwZnhWR0xJYVp1Um9Hd2xJY2MtbktzRHJDNUwwVmpTRm5qbXN3WTdGQy1hNHVXU3JackRnVGVoZDFEN2pFcURDYU45VEtQeWxyUk9vZVhBd0Z6UW9fbTBOX3hmNjNKYk1MQzNPRDU3YVV3NmNCUEY1LTJNcThHTm8zTmE4VTRxYmM?oc=5)
 
-2026-10-06 <span class="news-indication-tag">kanker</span>
+2026-10-07 <span class="news-indication-tag">kanker</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5)
+Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDd2QTIxMThFUlEtNVFsUUcxNGFXUVVDZHJfbDBISzYtcHFoRFpuZklQTndhNWpjaXgtbDVmanVyNGwwNGVWX0Q4UzUzVnY3TjBkUVp3VkdTbERPSzZNdmtDel9GN0MwZnhWR0xJYVp1Um9Hd2xJY2MtbktzRHJDNUwwVmpTRm5qbXN3WTdGQy1hNHVXU3JackRnVGVoZDFEN2pFcURDYU45VEtQeWxyUk9vZVhBd0Z6UW9fbTBOX3hmNjNKYk1MQzNPRDU3YVV3NmNCUEY1LTJNcThHTm8zTmE4VTRxYmM?oc=5)
 
 ---
 

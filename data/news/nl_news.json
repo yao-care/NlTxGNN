@@ -1,53 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-07T04:08:15.138455+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-07T12:35:19.230487+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "1aa460f8aecf",
-      "title": "Huidkanker is straks de meest voorkomende kankersoort - AD.nl",
-      "published": "2026-10-06T16:00:00+00:00",
-      "summary": "Huidkanker is straks de meest voorkomende kankersoort&nbsp;&nbsp;AD.nlZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUAantal diagnoses huidkanker stijgt komende twintig jaar met bijna zestig procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekGigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’&nbsp;&nbsp;De TelegraafIn ",
+      "id": "10b294e342b4",
+      "title": "Gigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’ - De Telegraaf",
+      "published": "2026-10-07T11:34:21+00:00",
+      "summary": "Gigantische stijging kankerdiagnoses tot aan 2045: ’Zonder maatregelen kan onze capaciteit dat niet aan’&nbsp;&nbsp;De TelegraafFlink meer kankerdiagnoses verwacht, 'maar gezonde leefstijl kan helpen'&nbsp;&nbsp;NOSHuidkanker is straks de meest voorkomende kankersoort&nbsp;&nbsp;AD.nlBorstkanker treft ook mannen: Piet uit Baarlo kreeg het twee keer&nbsp;&nbsp;L1 NieuwsZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NU",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGNqYjdERUotNVN3OC1oZTBXdkNHMmtXRXVLaFJRbVdiNHRmbVlaeEd1UUdlakE2R2tyMFBLSzNOaFlySkhBcXFuQW1rT3Q2YlVkRkpfaEJxT1pDcURYa3B6Vy02VG1PT2ZjNVRRODQtQjNfbVNOaUFlWGUwc1piejhsRDlyemJnMjZOR0NEaHAwZw?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDd2QTIxMThFUlEtNVFsUUcxNGFXUVVDZHJfbDBISzYtcHFoRFpuZklQTndhNWpjaXgtbDVmanVyNGwwNGVWX0Q4UzUzVnY3TjBkUVp3VkdTbERPSzZNdmtDel9GN0MwZnhWR0xJYVp1Um9Hd2xJY2MtbktzRHJDNUwwVmpTRm5qbXN3WTdGQy1hNHVXU3JackRnVGVoZDFEN2pFcURDYU45VEtQeWxyUk9vZVhBd0Z6UW9fbTBOX3hmNjNKYk1MQzNPRDU3YVV3NmNCUEY1LTJNcThHTm8zTmE4VTRxYmM?oc=5"
         }
       ]
     },
     {
-      "id": "d475be152701",
-      "title": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90 - NOS",
-      "published": "2026-10-06T08:29:56+00:00",
-      "summary": "Mazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSStaat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen&nbsp;&nbsp;de VolkskrantMazelenuitbraak in staat New York: gouverneur roept noodtoestand uit&nbsp;&nbsp;De TelegraafMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NLNoodtoestand in staat New York vanwege uitbraak mazelen: dalende vaccinatiegraad oorzaak&nbsp;&nbsp;HLN",
+      "id": "5be239a88d84",
+      "title": "Na nog geen minuut wil je roepen: doe die telefoon weg en speel met je kind! - Het Parool",
+      "published": "2026-10-07T05:34:00+00:00",
+      "summary": "Na nog geen minuut wil je roepen: doe die telefoon weg en speel met je kind!&nbsp;&nbsp;Het ParoolExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetWetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek‘Pak big tech aan in plaats van de jongeren’: deze prof zet vraagtekens bij een socialemed",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9TM2ZrSDl6UE85cjkyUC12c1A2QjdaV1Q2MG1zcmYwQVA0b0dHVmVqcy1sR2h1MWl0MGhvT254RE9iWF9QT0tMOXJmNWFaS1dqcEZsQ05BR2FvdnNVSVlneUtlME5nU1B5X05vUXZGenlPM0FjLTAwNFpGRVFtc3NYWkZETXlvcHZIVDJGSHJ1VjlkX3VVQ1BOMkxiTE0?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGtfWlVBam1jS0RnclJKci1JUjhKVkt3MmZJUVBFNU5YeUtuV0JoaGpoSzRuLV9pcHNpczlnbTRqRUkwUXljZVU2WjBHNlRSWXVJdWFMSl8xSHFSTXU4NUNYbDMya3dDeXFxZ05WUEdhNXNPQ251UmxGcHRXalN2U04tU3lHalVzTWszRXg4MzZzN0ZPSF9ENllQU3RlWmlMbFRTTGUwbDJYT2FvSEItaHJDMFlPZw?oc=5"
         }
       ]
     },
     {
-      "id": "a0001d48e2b1",
-      "title": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-05T21:09:08+00:00",
-      "summary": "Wetenschappers roepen op tot actie tegen sociale media om de gezondheid van jongeren te beschermen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekExperts komen met oproep: Enorm onderzoek legt verband tussen veelvoorkomend gedrag bij kinderen en slechte geestelijke gezondheid&nbsp;&nbsp;WibnetWaarom jongeren vandaag zo veel druk ervaren: “Soms heb ik buikpijn van de stress”&nbsp;&nbsp;NieuwsbladDinsdag in 'Focus': Hoe slecht is schermgebruik nu écht?&nbsp;&nbsp;TVvisieHet scrol",
+      "id": "3f89caef1ff1",
+      "title": "Staat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen - de Volkskrant",
+      "published": "2026-10-06T01:26:02+00:00",
+      "summary": "Staat New York roept noodtoestand uit vanwege snelle stijging aantal mazelengevallen&nbsp;&nbsp;de VolkskrantMazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSMazelenuitbraak in staat New York: gouverneur roept noodtoestand uit&nbsp;&nbsp;De TelegraafNoodtoestand in staat New York vanwege uitbraak mazelen: dalende vaccinatiegraad oorzaak&nbsp;&nbsp;HLNMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NL",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzNPSDVzNW1VY0NKRlVDRmZZX1dJbnYzOTNtZ0RTWFpUTlIyRkxhN1pPTkNXMEpxTDh5UTZSUzU0Nno5d2hta0o4MW1ZTGxTa3p0bFowY25aSXc1bVlfSmh1Q1hobGw0eGd0ZVNfR2cySnFrZWZGZ0VTd1lvLUhMcnp4bXM0Q3dIaUNKZy1GN2NTdUZwdFRGSnNUZzd2TE03YVJvdW5WN2FSUE5wdmZlZ3J4ZURGcDFwM2F6REI3SVpGckhuM1Y4VUUwTzdmYTlpUnNYb0dZdDRGM1ox?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d62670e88857",
-      "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
-      "published": "2026-10-06T04:09:09+00:00",
-      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladVertraagde levering: griepprik in veel huisartsenpraktijken later dit jaar&nbsp;&nbsp;Leeuwarder CourantVertraging in levering griepvaccins: sommige griepprikken later gepland&nbsp;&nbsp;De HerautGriepprik zonder uitnodiging? Zo regel je de vaccinatie&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Omrop Fryslân",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTERVYWs4cXNzNlA2WUhHRFhGRmxHdHJTd0RRd0l2dkpYdDU1T2ZzTVZfdWdHS2VYc2Vja0NuaHRWbjlfQ2lUTUk1aHA4UGpwZTczcFRxTm9BcHhWaEZBRmhGcTFJcFRqQ2ZpWTJTNmk2RnBmbWhqc3V4QzliVjdQbGZTNHY1RlQ3elBlVERDanVnOGwtV2VySklobzJOWXcxWTM2elhJNzBvWWVSZGg2V29iM3ZwX3JqM2dr?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnBGaFFxaHlkaV94eTBFRnBzRng5SG5VY1NXdW5UYTJvNE9CWksyOXYzd0U4eklHbUJwRU8yMllLTE9RNkpDMHlIb1JsNTR3NHNJalE0U01TUG5SOE5pU1FJbXhRZU1ZUVRxZTZfNW5TSmpDZzhLcXU2a0xieV9vazJYeERCN2YxTUtqWnJkejZMU2RzLXppTVhrWlhoTGhrN0lVcFlfdXNMSm1DaGRPcUREdjJCT0xXTzYzbENNbjdsS3JPV09ZV1VEaw?oc=5"
         }
       ]
     },
@@ -55,7 +43,7 @@
       "id": "05d4d725bee0",
       "title": "WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op - Metronieuws.nl",
       "published": "2026-10-06T13:48:00+00:00",
-      "summary": "WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op&nbsp;&nbsp;Metronieuws.nlSigned: Cancer Before 50: Why Is It Rising? nu kijken of gemist?&nbsp;&nbsp;TVgids.nlSteeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe&nbsp;&nbsp;RTL.nlForse toename kanker bij jongeren, ‘leefstijl tikkende tijdbom’&nbsp;&nbsp;bnr.nl‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders&nbsp;&nbsp;Bnnvara",
+      "summary": "WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op&nbsp;&nbsp;Metronieuws.nlSteeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe&nbsp;&nbsp;RTL.nl‘Tikkende tijdbom’: vier soorten kanker komen vaker voor bij jonge Nederlanders&nbsp;&nbsp;BnnvaraForse toename kanker bij jongeren, ‘leefstijl tikkende tijdbom’&nbsp;&nbsp;bnr.nlSigned: Cancer Before 50: Why Is It Rising? nu kijken of gemist?&nbsp;&nbsp;TVgids.nl",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -67,7 +55,7 @@
       "id": "71e83c16ac72",
       "title": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’ - AD.nl",
       "published": "2026-10-04T11:28:00+00:00",
-      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantStrikte veiligheidsmaatregelen rond aankomst ebolapatiënt in LUMC&nbsp;&nbsp;Sleutelstad",
+      "summary": "Verpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nlEbolapatiënt in LUMC: hoe groot is het risico voor anderen?&nbsp;&nbsp;Omroep WestHulpverlener met ebola aangekomen in Leids ziekenhuis&nbsp;&nbsp;NOSEbolapatiënt in isolatie in Leiden: dit is wat we weten&nbsp;&nbsp;de VolkskrantEbolapatiënt donderdagavond met ambulancevliegtuig aangekomen op Schiphol&nbsp;&nbsp;Haarlems Dagblad",
       "sources": [
         {
           "name": "AD.nl",
@@ -76,14 +64,14 @@
       ]
     },
     {
-      "id": "62d70987ab02",
-      "title": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het - AD.nl",
-      "published": "2026-09-30T08:25:14+00:00",
-      "summary": "Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het&nbsp;&nbsp;AD.nl1 op de 17 mensen heeft nu hoest- en verkoudheidsklachten: wanneer bel je de huisarts?&nbsp;&nbsp;RTV UtrechtStart seizoen luchtweginfecties: RIVM houdt verspreiding nog scherper in de gaten&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMNiet de griep, maar het rhinovirus en coronavirus gaan rond&nbsp;&nbsp;Nationale ZorggidsSnipverkouden? Het kan griep zijn, maar meeste m",
+      "id": "d62670e88857",
+      "title": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\" - Omrop Fryslân",
+      "published": "2026-10-06T04:07:00+00:00",
+      "summary": "Griepprik komt bij veel huisartsen later: \"Ik heb dit nog nooit meegemaakt\"&nbsp;&nbsp;Omrop FryslânDit is waarom een flink aantal Nederlanders langer op de griepprik moet wachten dan normaal&nbsp;&nbsp;Noordhollands DagbladVertraagde levering: griepprik in veel huisartsenpraktijken later dit jaar&nbsp;&nbsp;Leeuwarder CourantVertraging in levering griepvaccins: sommige griepprikken later gepland&nbsp;&nbsp;De HerautGriepprik zonder uitnodiging? Zo regel je de vaccinatie&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5"
+          "name": "Omrop Fryslân",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTERVYWs4cXNzNlA2WUhHRFhGRmxHdHJTd0RRd0l2dkpYdDU1T2ZzTVZfdWdHS2VYc2Vja0NuaHRWbjlfQ2lUTUk1aHA4UGpwZTczcFRxTm9BcHhWaEZBRmhGcTFJcFRqQ2ZpWTJTNmk2RnBmbWhqc3V4QzliVjdQbGZTNHY1RlQ3elBlVERDanVnOGwtV2VySklobzJOWXcxWTM2elhJNzBvWWVSZGg2V29iM3ZwX3JqM2dr?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/droperidol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Droperidol?">
-<strong>Droperidol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Droperidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
 <li>attention deficit-hyperactivity disorder (99.5%)</li>
 <li>headache disorder (99.5%)</li>
-<li class="indication-matched">common cold (99.5%)<span class="indication-tag">📰 verkoudheid</span></li>
+<li>common cold (99.5%)</li>
 <li>hypertrichosis (disease) (99.5%)</li>
 <li>specific developmental disorder (99.4%)</li>
 </ul></li>
@@ -41,15 +41,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Droperidol met het 
 <p><a href="{{ '/drugs/droperidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Griepseizoen moet nog beginnen, toch voelen veel mensen zich nu al flink beroerd: zo zit het](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">verkoudheid</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjlsSV95YzVjVzJ2RzRIclduUktwSDU5bzRLTE1xZGVsbzRvVGViOXo3UjY4eHpoQVY3alFmaVI3UlF4QUhmT0Z3YW1IV0ItUGhPaEVnX0hQYi1nX2lmc2hlZ0ZKMkltN0MxdUZnT2RwcDNEeTN2WXREQ3pLUGNwUWJHTllpUnhSYjRtR2VleGNFLTZaWU9nSWVjNjdid3R5QzFkTTU0WlBBdEhVc0FKRWpCY0lLY3JSdzl0MkRyZ0RWbVlpUDluVw?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

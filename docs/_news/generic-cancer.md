@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 4 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (4)
 
 ### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
 
@@ -64,11 +64,11 @@ Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95c
 
 ---
 
-### [WCRF ziet kanker toenemen bij Nederlanders onder de 50: vooral deze 4 soorten vallen op](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1NwYXFkRU92MDlFYzlGaEVsdWZoUW5MUkE2WEpOaElxc2pMSi1aQWNzS1p3SnRrajVzcXlubF9pNHlPRS1tcHExT3JXMGVPSk5NYjlReUtOQkpDLUpHWkpyUkVHNjJWQlNFSi1jaU54NklNNGY2Z3Zid2ZMV1B2dGw4TmdSYUVzcWFRNzJLSnhodWZCZWpUZ0ljY0NRYXVmbzdpNzk4ZGJOa3FubXVmbThCbjQ2Wm1YVnBXWA?oc=5)
+### [Steeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnNiMU9rX0ltTFBSZ1o4aFlnaUdKYk1sSWs1LTJ4SWdiQklFc29BeEVyZzFyaFlmemJHZElkU1pwY3o3dkNUMzhtWjY4NXBBMWJDZFFQUFFZNWVQUFRiamthMEpQdzhiR2dHQXAxUXRRUS1HTW8yMl9qSlJiUkFMOXZmaWo4RXpSczJhbVBEX3pDWEVjSV9HTEppdUpDQ1lCeWhHS3hoNXh0XzdGT0E?oc=5)
 
 2026-10-06
 
-Bron: [Metronieuws.nl](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1NwYXFkRU92MDlFYzlGaEVsdWZoUW5MUkE2WEpOaElxc2pMSi1aQWNzS1p3SnRrajVzcXlubF9pNHlPRS1tcHExT3JXMGVPSk5NYjlReUtOQkpDLUpHWkpyUkVHNjJWQlNFSi1jaU54NklNNGY2Z3Zid2ZMV1B2dGw4TmdSYUVzcWFRNzJLSnhodWZCZWpUZ0ljY0NRYXVmbzdpNzk4ZGJOa3FubXVmbThCbjQ2Wm1YVnBXWA?oc=5)
+Bron: [RTL.nl](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnNiMU9rX0ltTFBSZ1o4aFlnaUdKYk1sSWs1LTJ4SWdiQklFc29BeEVyZzFyaFlmemJHZElkU1pwY3o3dkNUMzhtWjY4NXBBMWJDZFFQUFFZNWVQUFRiamthMEpQdzhiR2dHQXAxUXRRUS1HTW8yMl9qSlJiUkFMOXZmaWo4RXpSczJhbVBEX3pDWEVjSV9HTEppdUpDQ1lCeWhHS3hoNXh0XzdGT0E?oc=5)
 
 ---
 
@@ -77,6 +77,14 @@ Bron: [Metronieuws.nl](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1Nw
 2026-10-06
 
 Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
+
+---
+
+### [Dit doen experts zélf om hun risico op kanker te verkleinen: “Dit neem ik ‘s ochtends altijd mee”](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
+
+2026-10-05
+
+Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
 
 ---
 

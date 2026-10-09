@@ -1,139 +1,15 @@
 {
-  "generated": "2026-10-09T12:31:10.026835+00:00",
-  "count": 5,
+  "generated": "2026-10-09T22:11:45.159045+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "b0478d46db1b",
-      "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
-      "published": "2026-10-07T16:26:43+00:00",
+      "id": "67ad823b8493",
+      "title": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf",
+      "published": "2026-10-09T14:57:00+00:00",
       "sources": [
         {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4fc96f8e2976",
-      "title": "Borstkanker treft ook mannen: Piet uit Baarlo kreeg het twee keer - L1 Nieuws",
-      "published": "2026-10-07T06:01:41+00:00",
-      "sources": [
-        {
-          "name": "L1 Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5"
         }
       ],
       "keywords": [
@@ -266,13 +142,13 @@
       ]
     },
     {
-      "id": "5a09ab4ba6eb",
-      "title": "Steeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe",
-      "published": "2026-10-06T12:03:48+00:00",
+      "id": "06ae7b6b971a",
+      "title": "Huidkanker wordt in 2045 de meest voorkomende kanker: ‘Zonverbranding is de grootste risicofactor’ - Het Parool",
+      "published": "2026-10-07T05:48:56+00:00",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnNiMU9rX0ltTFBSZ1o4aFlnaUdKYk1sSWs1LTJ4SWdiQklFc29BeEVyZzFyaFlmemJHZElkU1pwY3o3dkNUMzhtWjY4NXBBMWJDZFFQUFFZNWVQUFRiamthMEpQdzhiR2dHQXAxUXRRUS1HTW8yMl9qSlJiUkFMOXZmaWo4RXpSczJhbVBEX3pDWEVjSV9HTEppdUpDQ1lCeWhHS3hoNXh0XzdGT0E?oc=5"
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0RuUnhIRlRYT1JhM2UxazVsT0V4YUE4UzJLYkdZVm1HUTFENV82dXN4Ri1CR3N4eVVOaXd4V3pRb0IyUUFCQkE5TTVJeGZ0MmdSR05XSVBIdlVzTVA0Wk1JdmdJRFZjeTJVOHNwQnd3Sm05SE9OdHVvVU04Q2FOMnZQMEhqOWtKOUFEbnRPdnMwaVEwNUticVpfM1RRN1hpdzJkWFdwWm16OHQxZVk1X0lQc2xzYThpX3BsY0Izcm42emVjb2x2bUh1am9IdUpJ?oc=5"
         }
       ],
       "keywords": [

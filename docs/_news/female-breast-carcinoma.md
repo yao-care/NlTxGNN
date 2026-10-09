@@ -32,11 +32,11 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “borstkanker” en toon
 
 ## Gerelateerd nieuws (2)
 
-### [Borstkanker treft ook mannen: Piet uit Baarlo kreeg het twee keer - L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
+### [’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
 
-2026-10-07
+2026-10-09
 
-Bron: [L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
+Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Irbesartan?">
-<strong>Irbesartan</strong> heeft momenteel <strong>5 nieuwsberichten</strong> en 4 voorspelde indicaties.
+<strong>Irbesartan</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Irbesartan met het 
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (5)
+## Gerelateerd nieuws (4)
 
-### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
+### [’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
+
+---
+
+### [Huidkanker wordt in 2045 de meest voorkomende kanker: ‘Zonverbranding is de grootste risicofactor’ - Het Parool](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0RuUnhIRlRYT1JhM2UxazVsT0V4YUE4UzJLYkdZVm1HUTFENV82dXN4Ri1CR3N4eVVOaXd4V3pRb0IyUUFCQkE5TTVJeGZ0MmdSR05XSVBIdlVzTVA0Wk1JdmdJRFZjeTJVOHNwQnd3Sm05SE9OdHVvVU04Q2FOMnZQMEhqOWtKOUFEbnRPdnMwaVEwNUticVpfM1RRN1hpdzJkWFdwWm16OHQxZVk1X0lQc2xzYThpX3BsY0Izcm42emVjb2x2bUh1am9IdUpJ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">kanker</span>
 
-Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
-
----
-
-### [Borstkanker treft ook mannen: Piet uit Baarlo kreeg het twee keer - L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
-
-2026-10-07 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
-
----
-
-### [Steeds meer kanker bij Nederlanders onder 50: deze vier soorten nemen toe](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnNiMU9rX0ltTFBSZ1o4aFlnaUdKYk1sSWs1LTJ4SWdiQklFc29BeEVyZzFyaFlmemJHZElkU1pwY3o3dkNUMzhtWjY4NXBBMWJDZFFQUFFZNWVQUFRiamthMEpQdzhiR2dHQXAxUXRRUS1HTW8yMl9qSlJiUkFMOXZmaWo4RXpSczJhbVBEX3pDWEVjSV9HTEppdUpDQ1lCeWhHS3hoNXh0XzdGT0E?oc=5)
-
-2026-10-06 <span class="news-indication-tag">kanker</span>
-
-Bron: [RTL.nl](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnNiMU9rX0ltTFBSZ1o4aFlnaUdKYk1sSWs1LTJ4SWdiQklFc29BeEVyZzFyaFlmemJHZElkU1pwY3o3dkNUMzhtWjY4NXBBMWJDZFFQUFFZNWVQUFRiamthMEpQdzhiR2dHQXAxUXRRUS1HTW8yMl9qSlJiUkFMOXZmaWo4RXpSczJhbVBEX3pDWEVjSV9HTEppdUpDQ1lCeWhHS3hoNXh0XzdGT0E?oc=5)
+Bron: [Het Parool](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0RuUnhIRlRYT1JhM2UxazVsT0V4YUE4UzJLYkdZVm1HUTFENV82dXN4Ri1CR3N4eVVOaXd4V3pRb0IyUUFCQkE5TTVJeGZ0MmdSR05XSVBIdlVzTVA0Wk1JdmdJRFZjeTJVOHNwQnd3Sm05SE9OdHVvVU04Q2FOMnZQMEhqOWtKOUFEbnRPdnMwaVEwNUticVpfM1RRN1hpdzJkWFdwWm16OHQxZVk1X0lQc2xzYThpX3BsY0Izcm42emVjb2x2bUh1am9IdUpJ?oc=5)
 
 ---
 

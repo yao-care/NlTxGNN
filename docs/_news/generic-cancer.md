@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 4 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 5 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>5 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (4)
+## Gerelateerd nieuws (5)
 
 ### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
 
-2026-10-08
+2026-10-07
 
 Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
+
+---
+
+### [Borstkanker treft ook mannen: Piet uit Baarlo kreeg het twee keer - L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
+
+2026-10-07
+
+Bron: [L1 Nieuws](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5FZEY5SWxSNWhNb0VJOWN2LWxRNUM1bk4wVTMxRzZ2THNSX3N6Zk9IUDk1ZHNaWHJsb0FPb0hkaW1ndV9WX1pGQ1FWV1MwRU9MS2d1YWFac0Vobkk1UHpYcFVXZnduUFYzcjB1V0JMeXRVek1YTGt2VUdQRjBCSGtFTmxBUmZGSnVYUDRKaG0wa1I4WVRwR3gtUW5MN1g3Rjdkc2Vn?oc=5)
 
 ---
 

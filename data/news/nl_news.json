@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-10T16:54:11.405012+00:00",
+  "fetched_at": "2026-10-10T21:06:11.283123+00:00",
   "count": 8,
   "news": [
     {
-      "id": "7e6250aac39b",
-      "title": "Met ebola besmette hulpverlener ontslagen uit ziekenhuis na negatieve test - RTL.nl",
-      "published": "2026-10-10T09:48:27+00:00",
-      "summary": "Met ebola besmette hulpverlener ontslagen uit ziekenhuis na negatieve test&nbsp;&nbsp;RTL.nlEbolapatiënt die uit Afrika naar Nederland werd gebracht opgeknapt&nbsp;&nbsp;De TelegraafEbolapatiënt genezen en ontslagen uit ziekenhuis in Leiden&nbsp;&nbsp;Hart van NederlandHulpverlener met ebola is ontslagen uit ziekenhuis&nbsp;&nbsp;Omroep West",
+      "id": "ac103b6fad55",
+      "title": "Hulpverlener met ebola is ontslagen uit ziekenhuis - Omroep West",
+      "published": "2026-10-10T11:06:57+00:00",
+      "summary": "Hulpverlener met ebola is ontslagen uit ziekenhuis&nbsp;&nbsp;Omroep WestEbolapatiënt is opgeknapt en verlaat LUMC Leiden&nbsp;&nbsp;Leidsch DagbladMet ebola besmette hulpverlener ontslagen uit ziekenhuis na negatieve test&nbsp;&nbsp;RTL.nlEbolapatiënt genezen en ontslagen uit ziekenhuis in Leiden&nbsp;&nbsp;Hart van NederlandVerpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVI2aXFoZEhkc2NJdGdpZDlFUGV4UXdQQWdNejhRRjNLaDdWczA4MDIyS2szZmxQNUpNY1cyUWpjNXkzNTVLdEdMZmF1VWVWSGhHOGFDWkFYMml3MEFlU3V0NnM0dWdLY2FrRUhkQjJWSzF4ZkF5enJPY0F4dEVUTENpMlllckJEWGhOZVlKbEM3cnBkc1lHZG1KMmpUWkE3V3BkQXdVRV9VazVLYkNuSnZoS3NsSk0?oc=5"
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFEtN1pyUW5sa1RfV21qYTVHWnpUYTYtM2JPZ3V0UEVzdUNSUDZlLUVrbjdDU1lnOHZNS0VVVmU3Y0pGamdVVUxwSGtmbE9hcURkbjRXeC0zTjJXOE1ScVZDbWw4LWx5MExaQzNDTTE3MHJ4eGd1N29aNTBIR25xbGFIUHd0QWlxRHB1cnA3aWN2aWM?oc=5"
         }
       ]
     },
@@ -19,11 +19,23 @@
       "id": "1b6441be8f77",
       "title": "Opnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij - NOS",
       "published": "2026-10-08T11:11:25+00:00",
-      "summary": "Opnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij&nbsp;&nbsp;NOSDoden en besmettingen door westnijlvirus, maar nog geen vaccin&nbsp;&nbsp;NU16 besmettingen in België, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen&nbsp;&nbsp;HLNOpnieuw iemand met westnijlvirus overleden in Nederland&nbsp;&nbsp;Hart van NederlandWeer een persoon overleden met het westnijlvirus&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Opnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij&nbsp;&nbsp;NOSDoden en besmettingen door westnijlvirus, maar nog geen vaccin&nbsp;&nbsp;NUAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;Tubantia16 besmettingen in België, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen&nbsp;&nbsp;HLNWeer een persoon overleden met het westnijlvirus&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGhzVWlrdG5vYlpFQ183akE5Y2JMVjllUTdiTGh2YWZEeFpLRzFMZU11VzhMd0llVWxSSE9rX3dtbTdoMXg5V1FpMEMwRng1TDExWjRfTnJaZ1p4SzJ0RDREcE95Rm9uTm5rb0JUUmJ3N1BSVUVDZUxpaVpMdVp5N1kyLUVmbHdTUFBrR1VvU2QtRzFtUXl3M0pjeDZ2SU1xTUFUdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0478d46db1b",
+      "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
+      "published": "2026-10-07T16:26:43+00:00",
+      "summary": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUAantal diagnoses huidkanker stijgt komende twintig jaar met bijna 60 procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren ",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06ae7b6b971a",
-      "title": "Huidkanker wordt in 2045 de meest voorkomende kanker: ‘Zonverbranding is de grootste risicofactor’ - Het Parool",
-      "published": "2026-10-07T05:48:56+00:00",
-      "summary": "Huidkanker wordt in 2045 de meest voorkomende kanker: ‘Zonverbranding is de grootste risicofactor’&nbsp;&nbsp;Het ParoolHuidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUAantal diagnoses huidkanker stijgt komende twintig jaar met bijna 60 procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Nieuws, achtergr",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0RuUnhIRlRYT1JhM2UxazVsT0V4YUE4UzJLYkdZVm1HUTFENV82dXN4Ri1CR3N4eVVOaXd4V3pRb0IyUUFCQkE5TTVJeGZ0MmdSR05XSVBIdlVzTVA0Wk1JdmdJRFZjeTJVOHNwQnd3Sm05SE9OdHVvVU04Q2FOMnZQMEhqOWtKOUFEbnRPdnMwaVEwNUticVpfM1RRN1hpdzJkWFdwWm16OHQxZVk1X0lQc2xzYThpX3BsY0Izcm42emVjb2x2bUh1am9IdUpJ?oc=5"
         }
       ]
     },

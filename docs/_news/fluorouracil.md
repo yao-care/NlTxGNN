@@ -14,7 +14,7 @@ permalink: /news/fluorouracil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fluorouracil?">
-<strong>Fluorouracil</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Fluorouracil</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met he
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (4)
+## Gerelateerd nieuws (3)
 
 ### [’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
 
@@ -64,14 +64,6 @@ Bron: [Het Parool](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0Ru
 2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
-
----
-
-### [Dit doen experts zélf om hun risico op kanker te verkleinen: “Dit neem ik ‘s ochtends altijd mee”](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
-
-2026-10-05 <span class="news-indication-tag">kanker</span>
-
-Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
 
 ---
 

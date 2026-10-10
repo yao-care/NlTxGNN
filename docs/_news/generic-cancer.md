@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 4 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (4)
+## Gerelateerd nieuws (3)
 
 ### [’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
 
@@ -77,14 +77,6 @@ Bron: [Het Parool](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pUY0Ru
 2026-10-06
 
 Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
-
----
-
-### [Dit doen experts zélf om hun risico op kanker te verkleinen: “Dit neem ik ‘s ochtends altijd mee”](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
-
-2026-10-05
-
-Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2JLVWZHYTlMemRZLW03dFJBWFY0VTNIUzU4VllmWlREUkNEaUhwTmN1VFlWcm5Pa2UyVVNiSHd6V0dxQkwzekN4R0s0UkNTLVhiVlY0T1JibjVLNGhlR29fUmdnN1NtUWlSMElzekFmd0swc19oWnV4cnpUZEh4LVlnTHZLZ0NPWGE3dVRKcFVNVndGeFRXbFd3Y0U3Y1Rsb3Fkc3dQcE9yM0psaWhpcWZNNEw4NlZacUo5ZUtsLVZrQXlfQjBJVV8tR2ZrdlVZSkItT0RsNzFpZHZZelE?oc=5)
 
 ---
 

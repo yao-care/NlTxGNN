@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-11T12:02:44.791057+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-11T21:25:49.511042+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "ce179bc9740f",
+      "title": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen - de Volkskrant",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV01rczRPOFpObkFaMy1BbUlQQmVZMkdXOFFjVFd6RzNpWkhfZlpkWXFhVUlDQ3VKd2RCVWJmSzVzU0RiSDJtMlBqVXFUVHV1NVhwdTkybGROQXFFSEF3UzJSc1FOUl9jTFpUN3Y0ZHNWUzFGWWVKcWlBb3M3eUtTV2dsXzI2ZGh2Ui11bmFjZXZtTEZPY2FUZ2c4VUNtVmN0QXdFRkdJbGgyWnJTcFY0a1lPcnh3T3VKaGZZdE5YVHRGY3AtcnpNU2wtVFUzZnNVUkh0aEFmblc2M1AxN0lzSC03b0tSY0VvR3BYckVB?oc=5"
+        }
+      ]
+    },
     {
       "id": "b0478d46db1b",
       "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
       "published": "2026-10-07T16:26:43+00:00",
-      "summary": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladExperts waarschuwen voor zorgwekkende trend, zeker nu aantal gevallen huidkanker stijgt&nbsp;&nbsp;AD.nlZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUAantal diagnoses huidkanker stijgt komende twintig jaar met bijna 60 procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzo",
+      "summary": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladExperts waarschuwen voor zorgwekkende trend, zeker nu aantal gevallen huidkanker stijgt&nbsp;&nbsp;AD.nlZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolFlink meer kankerdiagnoses verwacht, 'maar gezonde l",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
@@ -30,12 +42,36 @@
     {
       "id": "3bdd283bcac9",
       "title": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf",
-      "published": "2026-10-10T13:00:00+00:00",
+      "published": "2026-10-10T06:00:00+00:00",
       "summary": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9a456dbf249",
+      "title": "Staat New York roept noodtoestand uit vanwege snelle stijging mazelengevallen - AD.nl",
+      "published": "2026-10-05T22:23:00+00:00",
+      "summary": "Staat New York roept noodtoestand uit vanwege snelle stijging mazelengevallen&nbsp;&nbsp;AD.nlIn de VS gaat het mazelenvirus weer rond. ‘Nu vrees ik dat ook pokken kunnen terugkeren. Of polio’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMazelenuitbraak in New York en Pennsylvania grootste sinds jaren 90&nbsp;&nbsp;NOSMazelen in VS: New York roept noodtoestand uit om uitbraak&nbsp;&nbsp;TPO.NLDe staat New York (VS) heeft de noodtoestand uitgeroepen vanwege een mazelenuitbraak",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVI3U0dfTEJkSkpCMEF6MGNMN0dqSjMxS3o5NXZ1WXBxM0QxTFdHNFdFT0pkcWtGbzAxN3Y1ZzFEZ2lEdUY1cEotSFBIeVduUTE1STRSRmdsSUtFeGUwTmZzTzgzV2pwOXdnbjZ1THg5N3lBank0cmV2TlNyM2xBeFNZWFVEQjN3a1lOS2xuLVZqdUpXSW10anBrOFIzOWUwMm5BejBLU3h5RF9WNTRodHluaUk4d2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67ad823b8493",
+      "title": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf",
+      "published": "2026-10-09T14:57:00+00:00",
+      "summary": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’&nbsp;&nbsp;De TelegraafEen geplette borst doet even pijn, maar bevolkingsonderzoek naar borstkanker kan levens redden: ‘Online staan veel dingen die niet kloppen’&nbsp;&nbsp;De LimburgerRIVM-keuzewand over borstkanker staat vanaf vandaag in Landgraaf&nbsp;&nbsp;Parkstad ActueelKeuzewand moet vrouwen helpen bij keuze voor bevolkingsonderzoek borstkanker&nbsp;&nbsp;RTV Parkstad",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5"
         }
       ]
     },
@@ -52,18 +88,6 @@
       ]
     },
     {
-      "id": "67ad823b8493",
-      "title": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf",
-      "published": "2026-10-09T21:57:00+00:00",
-      "summary": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’&nbsp;&nbsp;De TelegraafEen geplette borst doet even pijn, maar bevolkingsonderzoek naar borstkanker kan levens redden: ‘Online staan veel dingen die niet kloppen’&nbsp;&nbsp;De LimburgerRIVM-keuzewand over borstkanker staat vanaf vandaag in Landgraaf&nbsp;&nbsp;Parkstad ActueelKeuzewand moet vrouwen helpen bij keuze voor bevolkingsonderzoek borstkanker&nbsp;&nbsp;RTV Parkstad",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f71c3dfb38f8",
       "title": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?) - de Volkskrant",
       "published": "2026-10-08T16:00:16+00:00",
@@ -76,26 +100,14 @@
       ]
     },
     {
-      "id": "dd43d905ed2f",
-      "title": "Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’ - Libelle",
-      "published": "2026-10-06T00:32:29+00:00",
-      "summary": "Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’&nbsp;&nbsp;Libelle",
+      "id": "3768e1a7f36d",
+      "title": "Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel” - HLN",
+      "published": "2026-10-10T08:00:29+00:00",
+      "summary": "Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel”&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bbf3faf1959",
-      "title": "Maatregelen die je moet nemen om de griep te vermijden - Redactie24",
-      "published": "2026-10-10T09:30:00+00:00",
-      "summary": "Maatregelen die je moet nemen om de griep te vermijden&nbsp;&nbsp;Redactie24",
-      "sources": [
-        {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa05jbGM0MUREMmhJTWl6cE1Pd2N2dU1MMm5lSEoxWUJnYmRfSHZZZXl0RFlSQmhWZWZzR0NjaWZZQk9SZ3oxZkZ5S1YyLWZrQmVHdHN0dWxCbnVERllWU3BzaWtmNU0weWpnV1NQbUhUd1ZjU2JtT1ZYaWd2YkQ3NThSbmdZTGVpaFgxNThaWVQzV2NtMGZ5Q2R3?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5"
         }
       ]
     }

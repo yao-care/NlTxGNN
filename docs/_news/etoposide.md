@@ -43,6 +43,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoposide met het l
 
 ## Gerelateerd nieuws (4)
 
+### [Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
+
+2026-10-10 <span class="news-indication-tag">kanker</span>
+
+Bron: [HLN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
+
+---
+
 ### [Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5)
 
 2026-10-10 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
@@ -64,14 +72,6 @@ Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOT
 2026-10-07 <span class="news-indication-tag">kanker</span>
 
 Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
-
----
-
-### [Stewardess Evelien (62) kreeg drie keer borstkanker: ‘Stoppen met werken was nooit een optie’](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
-
-2026-10-06 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [Libelle](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnRqOUJ2cVVacGFSUnIyTF9tS2djc2FaQ0JZREh6M09TeEMxcEtBRTkzU3cwclhyQ1VBTmhISGxNa19IVXFfQlpqVjZxaG5Qc0ZIZlp5NGI4dEtSRFJiYkhrdDlYSnJzS2VxNXhpQVQtV0pIQi11cnZtWjBFRW1YYzNUY09zOExDMTZlTFVBQXh4RHpvanJn?oc=5)
 
 ---
 

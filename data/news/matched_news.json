@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T03:48:09.123188+00:00",
+  "last_updated": "2026-10-11T12:02:44.856600+00:00",
   "total_count": 8,
   "matched_count": 4,
   "news": [
@@ -142,19 +142,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ac103b6fad55",
-      "title": "Hulpverlener met ebola is ontslagen uit ziekenhuis - Omroep West",
-      "published": "2026-10-10T11:06:57+00:00",
-      "summary": "Hulpverlener met ebola is ontslagen uit ziekenhuis&nbsp;&nbsp;Omroep WestEbolapatiënt die uit Afrika naar Nederland werd gebracht opgeknapt&nbsp;&nbsp;De TelegraafEbola-patiënt heeft LUMC verlaten&nbsp;&nbsp;SleutelstadMet ebola besmette hulpverlener ontslagen uit ziekenhuis na negatieve test&nbsp;&nbsp;RTL.nlVerpleegkundige Angela werkt in hitte bij ebola-patiënt in Leiden: ‘Mag in deze kleding niet langer dan een uur werken’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFEtN1pyUW5sa1RfV21qYTVHWnpUYTYtM2JPZ3V0UEVzdUNSUDZlLUVrbjdDU1lnOHZNS0VVVmU3Y0pGamdVVUxwSGtmbE9hcURkbjRXeC0zTjJXOE1ScVZDbWw4LWx5MExaQzNDTTE3MHJ4eGd1N29aNTBIR25xbGFIUHd0QWlxRHB1cnA3aWN2aWM?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1bbf3faf1959",
@@ -326,11 +313,24 @@
       "id": "56381ce437f2",
       "title": "16 besmettingen in België, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen",
       "published": "2026-10-09T15:02:00+00:00",
-      "summary": "16 besmettingen in België, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen&nbsp;&nbsp;HLNDoden en besmettingen door westnijlvirus, maar nog geen vaccin&nbsp;&nbsp;NUOpnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij&nbsp;&nbsp;NOSAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;TubantiaWeer een persoon overleden met het westnijlvirus&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "16 besmettingen in België, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen&nbsp;&nbsp;HLNDoden en besmettingen door westnijlvirus, maar nog geen vaccin&nbsp;&nbsp;NUOpnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij&nbsp;&nbsp;NOSAantal besmettingen met westnijlvirus valt mee in Overijssel en Gelderland&nbsp;&nbsp;TubantiaWestnijlvirus in Nederland: zo voorkomt u een besmetting&nbsp;&nbsp;Centraal+",
       "sources": [
         {
           "name": "HLN",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXdHc3BCX3JGb3BsUVd2NlEwNm8xVGZqLWNlX3BCaXd3WDZDUVZQR01Xckh4dWdyakVacmZ0Tm83SUhHQlVrT1djSm1NQWNkNGhNOUF3ZTRfSVpPZ3NoRTFHa3N2LTYzUFNzZWt3VVhFZXFGWlR4R1JsLTF3VjZBYlRpZHZ4TDJxc2s5eWttOHU3enBGcDQyX0lUYkxUN2dMQ1puUFJ0Y0s4TC1DVEg4a0lKNW83QUlSeXJzTEp3RkRSUUZFVVRGWGYzN3hiLUdUeUFEQXhCT0hILTVrSmk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f71c3dfb38f8",
+      "title": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?) - de Volkskrant",
+      "published": "2026-10-08T16:00:16+00:00",
+      "summary": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?)&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnhuZXNKdEJsSURXMHRRbl9ySm5NbEVUUU1wM3gyWHZfaUxQR1QwRUNISDlYeEJnRmtrQWIxVk4weG9zMFVEXy1VU1NVRXBnYzhIQURaUFk2MlNNNHVqcURDT3V3d05ONkhxZ2hnU242eDFMS1QySmJfN0hid0lmQXNYS3dCUkJfa3Vqbl9va2g3blBtYndmek95eEFTdDVubnFIeUNmbXB6Ykt4VmZ4ak5OOENveEY2dmNVXzFoSDJOQ0daUlNHRXBwY0ZkR0dOd19QWlBnS1U?oc=5"
         }
       ],
       "matched_keywords": []

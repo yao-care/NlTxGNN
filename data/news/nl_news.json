@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-11T21:25:49.511042+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-12T04:10:13.079543+00:00",
+  "count": 8,
   "news": [
-    {
-      "id": "ce179bc9740f",
-      "title": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen - de Volkskrant",
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV01rczRPOFpObkFaMy1BbUlQQmVZMkdXOFFjVFd6RzNpWkhfZlpkWXFhVUlDQ3VKd2RCVWJmSzVzU0RiSDJtMlBqVXFUVHV1NVhwdTkybGROQXFFSEF3UzJSc1FOUl9jTFpUN3Y0ZHNWUzFGWWVKcWlBb3M3eUtTV2dsXzI2ZGh2Ui11bmFjZXZtTEZPY2FUZ2c4VUNtVmN0QXdFRkdJbGgyWnJTcFY0a1lPcnh3T3VKaGZZdE5YVHRGY3AtcnpNU2wtVFUzZnNVUkh0aEFmblc2M1AxN0lzSC03b0tSY0VvR3BYckVB?oc=5"
-        }
-      ]
-    },
     {
       "id": "b0478d46db1b",
       "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
@@ -36,6 +24,18 @@
         {
           "name": "HLN",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXdHc3BCX3JGb3BsUVd2NlEwNm8xVGZqLWNlX3BCaXd3WDZDUVZQR01Xckh4dWdyakVacmZ0Tm83SUhHQlVrT1djSm1NQWNkNGhNOUF3ZTRfSVpPZ3NoRTFHa3N2LTYzUFNzZWt3VVhFZXFGWlR4R1JsLTF3VjZBYlRpZHZ4TDJxc2s5eWttOHU3enBGcDQyX0lUYkxUN2dMQ1puUFJ0Y0s4TC1DVEg4a0lKNW83QUlSeXJzTEp3RkRSUUZFVVRGWGYzN3hiLUdUeUFEQXhCT0hILTVrSmk4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce179bc9740f",
+      "title": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen - de Volkskrant",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen&nbsp;&nbsp;de Volkskrant",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV01rczRPOFpObkFaMy1BbUlQQmVZMkdXOFFjVFd6RzNpWkhfZlpkWXFhVUlDQ3VKd2RCVWJmSzVzU0RiSDJtMlBqVXFUVHV1NVhwdTkybGROQXFFSEF3UzJSc1FOUl9jTFpUN3Y0ZHNWUzFGWWVKcWlBb3M3eUtTV2dsXzI2ZGh2Ui11bmFjZXZtTEZPY2FUZ2c4VUNtVmN0QXdFRkdJbGgyWnJTcFY0a1lPcnh3T3VKaGZZdE5YVHRGY3AtcnpNU2wtVFUzZnNVUkh0aEFmblc2M1AxN0lzSC03b0tSY0VvR3BYckVB?oc=5"
         }
       ]
     },
@@ -66,24 +66,12 @@
     {
       "id": "67ad823b8493",
       "title": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf",
-      "published": "2026-10-09T14:57:00+00:00",
+      "published": "2026-10-09T21:57:00+00:00",
       "summary": "’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’&nbsp;&nbsp;De TelegraafEen geplette borst doet even pijn, maar bevolkingsonderzoek naar borstkanker kan levens redden: ‘Online staan veel dingen die niet kloppen’&nbsp;&nbsp;De LimburgerRIVM-keuzewand over borstkanker staat vanaf vandaag in Landgraaf&nbsp;&nbsp;Parkstad ActueelKeuzewand moet vrouwen helpen bij keuze voor bevolkingsonderzoek borstkanker&nbsp;&nbsp;RTV Parkstad",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9168d4b268a5",
-      "title": "Column | Het moving target-gevoel - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-09T15:30:00+00:00",
-      "summary": "Column | Het moving target-gevoel&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96YlBFRjhZOE0zaXN3bHltb0NUbGZrTTh0eDBydHlMREJPLWdydll2dkJpVUJLa2g0WXFoZUpoaURoUVdyY1lLbXhyZ2NYV0diN21vaXQzNjBGZkdNbEhmN2RvMkRQTkJNRFFTWjVsRG1hV0Nab0FmaEFB?oc=5"
         }
       ]
     },

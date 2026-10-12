@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Valsartan?">
-<strong>Valsartan</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 7 voorspelde indicaties.
+<strong>Valsartan</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (4)
+## Gerelateerd nieuws (3)
 
-### [Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
+### [Is de zorg klaar voor meer kankerpatiënten? "Hoe ver gaan we nog?" - Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5)
 
-2026-10-10 <span class="news-indication-tag">kanker</span>
+2026-10-12 <span class="news-indication-tag">kanker</span>
 
-Bron: [HLN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
+Bron: [Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5)
 
 ---
 
@@ -56,19 +56,11 @@ Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QU
 
 ---
 
-### [’Ook ik vind de ’tietenpletter’ vervelend, maar ik negeer de uitnodiging voor het bevolkingsonderzoek nooit’ - De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
+### [Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
 
-2026-10-09 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+2026-10-10 <span class="news-indication-tag">kanker</span>
 
-Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUluOTl3V0FxUVZtYUNoeU9fb1RwZGNvOHNaVXJYSXFCVFUwb2RJeHpCM3VHLWc2MF9NUThZdzJMb1BYRDRLdVI4MXBZdlVXNzFLNzR0am92ZjZhd2pIZ25TQVplRzBjREw2VERidUMxdlI3SkpYU1Fnd2RBM09Ccm9JalFXcFQ3amhfcllSRG5saXVPZE5Nd1lNaVRGSVJxRzhWZjBHUHdfU2NsQ0tWU19jZmhlZEdWc3VqSmV2RkJHVU0yQXAwWnZlUlR4VFdCM3pscDlkUjI1X2VoX1dtcUxmdw?oc=5)
-
----
-
-### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
-
-2026-10-07 <span class="news-indication-tag">kanker</span>
-
-Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
+Bron: [HLN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
 
 ---
 

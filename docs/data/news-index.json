@@ -1,11 +1,35 @@
 {
-  "generated": "2026-10-13T00:05:45.974837+00:00",
-  "count": 2,
+  "generated": "2026-10-13T13:29:25.135860+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "977c3cdc723f",
+      "title": "Zowel te weinig als te veel slaap kan leiden tot dementie – nu hebben onderzoekers eindelijk het magische aantal uren gevonden dat je ’s nachts moet slapen om deze ernstige aandoening te voorkomen",
+      "published": "2026-10-12T18:30:06+00:00",
+      "sources": [
+        {
+          "name": "Wibnet",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOT1U4VEstOVptdHB5ZTVHcE82b0EzNmg0bW5PTlZTODFtdjU2MF9SZkVyblBoVTVweVFnbVoxcmRTLU0tZElscGsxUHZSVTlESzkwTllua2xkWWUtZk14Qmhad0dxeldqQkQ4TGhUb2tEUXRrQzB1cF80ZzJTVXpfcGMxSHV1dXlyRVNoU2pPRWhNVUVqajBKOGE4M1F3TkVaRTRuOHFZa2U1T3ctamJkRnhGZ0dhODh5WHZObmFtcEJ5Y0tzOFZRUE83MWNnRmRONjFXNXQ2amk1U1NwXzNWbEV0MnpaSWlJdk1UOURXYzdIb3lRZFgtMHF3dlRLMkpqZGN1MTg5SFAyaVZ0aFEyaFJGNjBLYkwyWVFuOWFUTS1WWWRfbHdERWgzcVNLUlJuNmdr?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "15a3eb417726",
       "title": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\" - Omrop Fryslân",
-      "published": "2026-10-12T09:39:09+00:00",
+      "published": "2026-10-12T09:38:00+00:00",
       "sources": [
         {
           "name": "Omrop Fryslân",
@@ -127,9 +151,41 @@
       ]
     },
     {
+      "id": "6265d9da8623",
+      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
+      "published": "2026-10-12T04:09:08+00:00",
+      "sources": [
+        {
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "hart- en vaatziekten",
+          "related_drugs": [
+            {
+              "slug": "travoprost",
+              "name": "Travoprost"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3bdd283bcac9",
       "title": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf",
-      "published": "2026-10-10T06:00:00+00:00",
+      "published": "2026-10-10T13:00:00+00:00",
       "sources": [
         {
           "name": "De Telegraaf",

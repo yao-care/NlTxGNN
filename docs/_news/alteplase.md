@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alteplase?">
-<strong>Alteplase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Alteplase</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alteplase met het l
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL](https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5)
+
+2026-10-12 <span class="news-indication-tag">hart- en vaatziekten</span>
+
+Bron: [Quest NL](https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5)
+
+---
 
 
 <div class="disclaimer">

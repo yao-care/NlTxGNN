@@ -1,17 +1,77 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-13T00:05:45.858133+00:00",
-  "count": 5,
+  "fetched_at": "2026-10-13T13:29:25.008598+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "377e783290b8",
+      "title": "Leidsche Rijn voegt zich bij wijken met zeer lage vaccinatiegraad: 'We maken ons zorgen' - RTV Utrecht",
+      "published": "2026-10-13T06:32:15+00:00",
+      "summary": "Leidsche Rijn voegt zich bij wijken met zeer lage vaccinatiegraad: 'We maken ons zorgen'&nbsp;&nbsp;RTV UtrechtVaccinatiegraad onder Utrechtse kinderen blijft dalen: vooral in Overvecht grote zorgen&nbsp;&nbsp;De Utrechtse Internet Courant",
+      "sources": [
+        {
+          "name": "RTV Utrecht",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazBvZTdqNUFiandMVWl6QnJCcmdiZ1FOYmhwbzQ1ck1jR1F3X2RXbVdYWlV2aEFhUl94OXlWX1pZaVJoSW9QZmR1ZExrNHpVQnI4MTNiRHVsX05DdFY4TDhLeWJTbWstWTZicWlaaFAyZndyMmZCY2NmRmJxUzZBRkZCcGpjaHQ1dnlDNlZUUUYtWWtWZjlka2NodlliNnBYNU1FeU5KSlpfNTlBbE0zQUhrczdEalRmck1ibDlhVVRyRGZE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c53d119204dc",
+      "title": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen' - RTL.nl",
+      "published": "2026-10-13T07:16:19+00:00",
+      "summary": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen'&nbsp;&nbsp;RTL.nlPraten over je mentale problemen? Teri (28) raadt het andere jongeren aan: 'Je hebt een soort spiegel nodig'&nbsp;&nbsp;EenVandaagEén op de drie jongeren kampt met mentale problemen: 'Voor sommigen is het leven gewoon te zwaar'&nbsp;&nbsp;Omroep WestRabobank steunt MIND Us voor een betere mentale gezondheid van jongeren&nbsp;&nbsp;RabobankJongeren praten makkelijker over mentale gezondheid, maar 1",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZkUtaVdoamwwNVh4dWdEN3g0SERERWlRSlFtc1oxdGVIRGMtTDVTUGNrM01IeDlkcEJCMEt4WDdWU2dzRDNkQU91Z3IxeTlObUpKTXNCa0hwalMtOGF2MG9WQ0JCWHA1TENiSklCMW9Fci04Q0xTTi1YcWdTWU5URGNGZjRYYUQyYzVYc1BpNkZqdVJabmdmcGs5N1BzX0N1NFRHSHQwUDVNbWxrSTZKWjZBeDFzd25K?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6265d9da8623",
+      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
+      "published": "2026-10-12T04:09:08+00:00",
+      "summary": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’&nbsp;&nbsp;Quest NLMoeilijke jeugd gehad? MRI-studie toont hoe vroege stress het volwassen brein vormt&nbsp;&nbsp;Gezondnu",
+      "sources": [
+        {
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c092661d7c8",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - De Gelderlander",
+      "published": "2026-10-12T19:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ29ZSnFKOXhJV0xnMjBVbnZsZDhqSHYxbTBQSGlCYWRSVWlQdFNHSUpqNzctdkhsUC1EdHBqUXZveldSRXdEM2p3Z1pPSkF3TTdLU3ZUcFZ0U1RicWl0d2NQdzMzdU9VUGFTalJhV0otLVpyTzg0V0x6VktjOWwwLTZsWVFYWnEyUVo3c2RFMzQ4VzU0VFRxbTdIb0xNeUxwTnZuMzBHaGVJSVpsejdsUlJCaHJIXzFVdkcyUFBqMlJrV2s2Q1FvMDMxbHd0b2tLTDJOLQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "15a3eb417726",
       "title": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\" - Omrop Fryslân",
-      "published": "2026-10-12T09:39:09+00:00",
+      "published": "2026-10-12T09:38:00+00:00",
       "summary": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\"&nbsp;&nbsp;Omrop FryslânHuidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolExperts waarschuwen voor zorgwekkende trend, zeker nu aantal geva",
       "sources": [
         {
           "name": "Omrop Fryslân",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bdd283bcac9",
+      "title": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf",
+      "published": "2026-10-10T13:00:00+00:00",
+      "summary": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5"
         }
       ]
     },
@@ -28,30 +88,6 @@
       ]
     },
     {
-      "id": "3bdd283bcac9",
-      "title": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf",
-      "published": "2026-10-10T06:00:00+00:00",
-      "summary": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce179bc9740f",
-      "title": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen - de Volkskrant",
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Deze patiënten liggen vaak in het donker en ontbreken toch in onderzoek: de laboratoriumbus moet dat veranderen&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV01rczRPOFpObkFaMy1BbUlQQmVZMkdXOFFjVFd6RzNpWkhfZlpkWXFhVUlDQ3VKd2RCVWJmSzVzU0RiSDJtMlBqVXFUVHV1NVhwdTkybGROQXFFSEF3UzJSc1FOUl9jTFpUN3Y0ZHNWUzFGWWVKcWlBb3M3eUtTV2dsXzI2ZGh2Ui11bmFjZXZtTEZPY2FUZ2c4VUNtVmN0QXdFRkdJbGgyWnJTcFY0a1lPcnh3T3VKaGZZdE5YVHRGY3AtcnpNU2wtVFUzZnNVUkh0aEFmblc2M1AxN0lzSC03b0tSY0VvR3BYckVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f71c3dfb38f8",
       "title": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?) - de Volkskrant",
       "published": "2026-10-08T16:00:16+00:00",
@@ -60,6 +96,18 @@
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnhuZXNKdEJsSURXMHRRbl9ySm5NbEVUUU1wM3gyWHZfaUxQR1QwRUNISDlYeEJnRmtrQWIxVk4weG9zMFVEXy1VU1NVRXBnYzhIQURaUFk2MlNNNHVqcURDT3V3d05ONkhxZ2hnU242eDFMS1QySmJfN0hid0lmQXNYS3dCUkJfa3Vqbl9va2g3blBtYndmek95eEFTdDVubnFIeUNmbXB6Ykt4VmZ4ak5OOENveEY2dmNVXzFoSDJOQ0daUlNHRXBwY0ZkR0dOd19QWlBnS1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "977c3cdc723f",
+      "title": "Zowel te weinig als te veel slaap kan leiden tot dementie – nu hebben onderzoekers eindelijk het magische aantal uren gevonden dat je ’s nachts moet slapen om deze ernstige aandoening te voorkomen - Wibnet",
+      "published": "2026-10-12T18:30:06+00:00",
+      "summary": "Zowel te weinig als te veel slaap kan leiden tot dementie – nu hebben onderzoekers eindelijk het magische aantal uren gevonden dat je ’s nachts moet slapen om deze ernstige aandoening te voorkomen&nbsp;&nbsp;Wibnet",
+      "sources": [
+        {
+          "name": "Wibnet",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOT1U4VEstOVptdHB5ZTVHcE82b0EzNmg0bW5PTlZTODFtdjU2MF9SZkVyblBoVTVweVFnbVoxcmRTLU0tZElscGsxUHZSVTlESzkwTllua2xkWWUtZk14Qmhad0dxeldqQkQ4TGhUb2tEUXRrQzB1cF80ZzJTVXpfcGMxSHV1dXlyRVNoU2pPRWhNVUVqajBKOGE4M1F3TkVaRTRuOHFZa2U1T3ctamJkRnhGZ0dhODh5WHZObmFtcEJ5Y0tzOFZRUE83MWNnRmRONjFXNXQ2amk1U1NwXzNWbEV0MnpaSWlJdk1UOURXYzdIb3lRZFgtMHF3dlRLMkpqZGN1MTg5SFAyaVZ0aFEyaFJGNjBLYkwyWVFuOWFUTS1WWWRfbHdERWgzcVNLUlJuNmdr?oc=5"
         }
       ]
     }

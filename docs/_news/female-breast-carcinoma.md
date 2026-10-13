@@ -32,11 +32,11 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “borstkanker” en toon
 
 ## Gerelateerd nieuws (1)
 
-### [Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5)
+### [Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5)
 
-2026-10-10
+2026-10-13
 
-Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5)
 
 ---
 

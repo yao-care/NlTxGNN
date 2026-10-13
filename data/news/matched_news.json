@@ -1,13 +1,166 @@
 {
-  "last_updated": "2026-10-13T13:29:25.115537+00:00",
-  "total_count": 9,
-  "matched_count": 4,
+  "last_updated": "2026-10-13T22:15:12.880400+00:00",
+  "total_count": 10,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "61b14a012929",
+      "title": "Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’",
+      "published": "2026-10-13T19:30:00+00:00",
+      "summary": "Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’&nbsp;&nbsp;AD.nl\"Je kunt mensen weer iets teruggeven\": Heidy helpt mensen met medische tatoeages&nbsp;&nbsp;1Zwolle",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60bf30da99ec",
+      "title": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-10-13T14:01:05+00:00",
+      "summary": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekIn de VS gaat het mazelenvirus weer rond. ‘Nu vrees ik dat ook pokken kunnen terugkeren. Of polio’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMazelen zijn erger dan je denkt&nbsp;&nbsp;EOS WetenschapCDC stuurt extra ondersteuning naar Pennsylvania om mazelenuitbraak te onderzoeken&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTl9zb1UyaUhSQ3QzVFNvZjhiaEhjb0F6QXAxazRKYmlvRzc0NURYUjRfbUtLRDRJYWl3bUZuMU1IOThPTzI3Z1MwamFCOUYzSEh5bVhYT3R4OWFwUGtDd24xQWl1R3JoN29uZ01CeWJkYmltSmlmSFNtbFozNGN5YllHNGVEczVQTW0yVVdnMFZwZ3ppcVp0TmQ3SHl1MVRibFQ3S0FmcHNRWlhoVlppem0zVzlQdngtcHNLaXlNVnlCMFpxU1A3N0VCbWpQRmVQLXdiOWcwMlJqTllOdWd4b2tMN1BfU0dtZnZoM1pydWRXOXJnN0Nn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c53d119204dc",
       "title": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen'",
       "published": "2026-10-13T07:16:19+00:00",
-      "summary": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen'&nbsp;&nbsp;RTL.nlPraten over je mentale problemen? Teri (28) raadt het andere jongeren aan: 'Je hebt een soort spiegel nodig'&nbsp;&nbsp;EenVandaagEén op de drie jongeren kampt met mentale problemen: 'Voor sommigen is het leven gewoon te zwaar'&nbsp;&nbsp;Omroep WestRabobank steunt MIND Us voor een betere mentale gezondheid van jongeren&nbsp;&nbsp;RabobankJongeren praten makkelijker over mentale gezondheid, maar 1",
+      "summary": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen'&nbsp;&nbsp;RTL.nlPraten over je mentale problemen? Teri (28) raadt het andere jongeren aan: 'Je hebt een soort spiegel nodig'&nbsp;&nbsp;EenVandaagEén op de drie jongeren kampt met mentale problemen: 'Voor sommigen is het leven gewoon te zwaar'&nbsp;&nbsp;Omroep WestJongeren praten makkelijker over mentale gezondheid, maar 1 op de 6 raakte er wel vrienden door kwijt&nbsp;&nbsp;EenVandaag",
       "sources": [
         {
           "name": "RTL.nl",
@@ -32,7 +185,7 @@
     {
       "id": "8c092661d7c8",
       "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - De Gelderlander",
-      "published": "2026-10-12T19:00:00+00:00",
+      "published": "2026-10-13T04:00:20+00:00",
       "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -68,10 +221,62 @@
       ]
     },
     {
+      "id": "1f5a65df2253",
+      "title": "Dorien (38) kreeg op haar 26ste reumatoïde artritis: “Ik wist niet dat ook jonge mensen de ziekte konden krijgen”",
+      "published": "2026-10-12T13:00:58+00:00",
+      "summary": "Dorien (38) kreeg op haar 26ste reumatoïde artritis: “Ik wist niet dat ook jonge mensen de ziekte konden krijgen”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdwcDZ1R1VHQ3FDeXdWbDN1aE1PRmpHSUE2dG1BQ0l3VFZRTFRVZ3BTcEhSQWs3YXRFSk1KdV8zOHR4WUppeDlBV3E1endBNHR0YWdSVzBZem5tRVQ4RXJyekZKb2p2a1JBWnExeFdJWEt4MGUzR09VSEk3M3c5b1cwWUowQzhsTWNZaEJDLUxWVVIzeTFHUXRsdG56X3lsWFdlcF9RR1haeVNqNGFObEJPU1ZnMUhPYmJkU2ZZMVVzenJwSmJ1R2ZBelVtMFJycTUtSFBmeS1fMWJkbkpOWGlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "reumatoïde artritis",
+          "related_drugs": [
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine"
+            },
+            {
+              "slug": "fulvestrant",
+              "name": "Fulvestrant"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "reuma",
+          "keyword": "reuma",
+          "related_drugs": [
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine"
+            },
+            {
+              "slug": "fulvestrant",
+              "name": "Fulvestrant"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1490b5b8ef20",
       "title": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen - Welingelichte Kringen",
       "published": "2026-10-12T11:45:00+00:00",
-      "summary": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen&nbsp;&nbsp;Welingelichte KringenEen hoge bloeddruk kun je verlagen met een eenvoudige trainingsroutine&nbsp;&nbsp;Wibnet",
+      "summary": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen&nbsp;&nbsp;Welingelichte KringenOnderzoek wijst uit dat eenvoudige oefeningen kunnen helpen de bloeddruk onder controle te houden.&nbsp;&nbsp;Vietnam.vnEen hoge bloeddruk kun je verlagen met een eenvoudige trainingsroutine&nbsp;&nbsp;Wibnet",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -83,8 +288,8 @@
     {
       "id": "15a3eb417726",
       "title": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\" - Omrop Fryslân",
-      "published": "2026-10-12T09:38:00+00:00",
-      "summary": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\"&nbsp;&nbsp;Omrop FryslânHuidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladZonder ingrijpen zijn er over 20 jaar een kwart meer kankerdiagnoses en -doden&nbsp;&nbsp;NUIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolExperts waarschuwen voor zorgwekkende trend, zeker nu aantal geva",
+      "published": "2026-10-12T09:39:09+00:00",
+      "summary": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\"&nbsp;&nbsp;Omrop FryslânHuidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolAantal diagnoses huidkanker stijgt komende twintig jaar met bijna 60 procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Ni",
       "sources": [
         {
           "name": "Omrop Fryslân",
@@ -237,159 +442,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "3bdd283bcac9",
-      "title": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’ - De Telegraaf",
-      "published": "2026-10-10T13:00:00+00:00",
-      "summary": "Kayleigh (27) heeft uitgezaaide borstkanker: ’Na de echo sloeg de sfeer om’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f71c3dfb38f8",
-      "title": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?) - de Volkskrant",
-      "published": "2026-10-08T16:00:16+00:00",
-      "summary": "Hoe kun je wakker schrikken uit een droom? (En kun je een hartaanval krijgen van een nachtmerrie?)&nbsp;&nbsp;de Volkskrant",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnhuZXNKdEJsSURXMHRRbl9ySm5NbEVUUU1wM3gyWHZfaUxQR1QwRUNISDlYeEJnRmtrQWIxVk4weG9zMFVEXy1VU1NVRXBnYzhIQURaUFk2MlNNNHVqcURDT3V3d05ONkhxZ2hnU242eDFMS1QySmJfN0hid0lmQXNYS3dCUkJfa3Vqbl9va2g3blBtYndmek95eEFTdDVubnFIeUNmbXB6Ykt4VmZ4ak5OOENveEY2dmNVXzFoSDJOQ0daUlNHRXBwY0ZkR0dOd19QWlBnS1U?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

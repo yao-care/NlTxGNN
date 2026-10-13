@@ -14,7 +14,7 @@ permalink: /news/lactulose/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lactulose?">
-<strong>Lactulose</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 8 voorspelde indicaties.
+<strong>Lactulose</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 8 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lactulose met het l
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (2)
 
 ### [Is de zorg klaar voor meer kankerpatiënten? "Hoe ver gaan we nog?" - Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5)
 
@@ -54,14 +54,6 @@ Bron: [Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJ
 2026-10-10 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxORVk5QUFlREFIQUl0N3l1UXpTeXhERGZOQ25YZWxaQlVlU1VWZHZqNTZIVlZSV3dvb2Z2Q3BNZ1ppNmc1YVdZNHFYVzI4WldrRjFzaGdwZkJFQzFxX0xIOWE3WUNMV1Nsa1FBT25FcWw0dm9Ia1l2WUg0aUlaTzlPNXJsbnREbl9fSDZ0UUdzaHJTcVFQU0dlN0FEM0RaekM2QjJGS0JNS0sxVzRmWEgxWHZZanNTUTg?oc=5)
-
----
-
-### [Studie ziet 2,45 keer zoveel risico op maagkanker bij wie dagelijks frisdrank drinkt: “Drie à vier cola’s per dag is te veel”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
-
-2026-10-10 <span class="news-indication-tag">kanker</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFqcGZmcHpzYnZUcEMzNUVmZDFVY0lxZ2V3SGZGanRBTEJ0WHA2WTlpakZGWklVd2JWbEpqQlF4VmljYkJWU1RFcmFaOFVhZEtLbnl4Z2NDeGhidTUtUmg5eDJ3Z3RFV0FmN2lQcVlDMHB2OEdiYWxGRHEzOTVXdUJGeHBleExORWlEdVR5NW5tNnlyakJzbVVPQjdnRlp6eDNFazBFUTV3RUREU25rcUVZWTBFZ3BsNDdSMmY2QTVpc3JyY3pUNzMtQUtHV1A5S1k2RXRGLWtWdEZScUxJUDVPTS1LNFBfaXJRWmFwQjFPODg?oc=5)
 
 ---
 

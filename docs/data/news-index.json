@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-13T22:15:12.902598+00:00",
-  "count": 5,
+  "generated": "2026-10-14T03:24:16.851249+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "61b14a012929",
-      "title": "Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’",
-      "published": "2026-10-13T19:30:00+00:00",
+      "id": "d95db8d9b69d",
+      "title": "Victoria (36) tatoeëert over littekens van borstkanker heen: ‘Het ziet er beter uit dan voorheen’",
+      "published": "2026-10-13T19:30:43+00:00",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5"
         }
       ],
       "keywords": [
@@ -166,64 +166,45 @@
       ]
     },
     {
-      "id": "1f5a65df2253",
-      "title": "Dorien (38) kreeg op haar 26ste reumatoïde artritis: “Ik wist niet dat ook jonge mensen de ziekte konden krijgen”",
-      "published": "2026-10-12T13:00:58+00:00",
+      "id": "6265d9da8623",
+      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
+      "published": "2026-10-12T04:09:08+00:00",
       "sources": [
         {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdwcDZ1R1VHQ3FDeXdWbDN1aE1PRmpHSUE2dG1BQ0l3VFZRTFRVZ3BTcEhSQWs3YXRFSk1KdV8zOHR4WUppeDlBV3E1endBNHR0YWdSVzBZem5tRVQ4RXJyekZKb2p2a1JBWnExeFdJWEt4MGUzR09VSEk3M3c5b1cwWUowQzhsTWNZaEJDLUxWVVIzeTFHUXRsdG56X3lsWFdlcF9RR1haeVNqNGFObEJPU1ZnMUhPYmJkU2ZZMVVzenJwSmJ1R2ZBelVtMFJycTUtSFBmeS1fMWJkbkpOWGlR?oc=5"
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "reumatoïde artritis",
+          "name": "cardiovascular",
+          "keyword": "hart- en vaatziekten",
           "related_drugs": [
             {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
+              "slug": "travoprost",
+              "name": "Travoprost"
             },
             {
-              "slug": "fulvestrant",
-              "name": "Fulvestrant"
+              "slug": "ebastine",
+              "name": "Ebastine"
             },
             {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "reuma",
-          "keyword": "reuma",
-          "related_drugs": [
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "fulvestrant",
-              "name": "Fulvestrant"
-            },
-            {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
+              "slug": "alteplase",
+              "name": "Alteplase"
             }
           ]
         }
       ]
     },
     {
-      "id": "15a3eb417726",
-      "title": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\" - Omrop Fryslân",
-      "published": "2026-10-12T09:39:09+00:00",
+      "id": "b0478d46db1b",
+      "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
+      "published": "2026-10-07T16:26:43+00:00",
       "sources": [
         {
-          "name": "Omrop Fryslân",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5"
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5"
         }
       ],
       "keywords": [
@@ -335,38 +316,6 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6265d9da8623",
-      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
-      "published": "2026-10-12T04:09:08+00:00",
-      "sources": [
-        {
-          "name": "Quest NL",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "hart- en vaatziekten",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
             }
           ]
         }

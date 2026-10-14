@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-13T22:15:12.880400+00:00",
+  "last_updated": "2026-10-14T03:24:16.829920+00:00",
   "total_count": 10,
-  "matched_count": 5,
+  "matched_count": 4,
   "news": [
     {
-      "id": "61b14a012929",
-      "title": "Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’",
-      "published": "2026-10-13T19:30:00+00:00",
-      "summary": "Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’&nbsp;&nbsp;AD.nl\"Je kunt mensen weer iets teruggeven\": Heidy helpt mensen met medische tatoeages&nbsp;&nbsp;1Zwolle",
+      "id": "d95db8d9b69d",
+      "title": "Victoria (36) tatoeëert over littekens van borstkanker heen: ‘Het ziet er beter uit dan voorheen’",
+      "published": "2026-10-13T19:30:43+00:00",
+      "summary": "Victoria (36) tatoeëert over littekens van borstkanker heen: ‘Het ziet er beter uit dan voorheen’&nbsp;&nbsp;AD.nlVictoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’&nbsp;&nbsp;AD.nl\"Je kunt mensen weer iets teruggeven\": Heidy helpt mensen met medische tatoeages&nbsp;&nbsp;1Zwolle",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -185,7 +185,7 @@
     {
       "id": "8c092661d7c8",
       "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - De Gelderlander",
-      "published": "2026-10-13T04:00:20+00:00",
+      "published": "2026-10-12T19:00:00+00:00",
       "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -221,62 +221,10 @@
       ]
     },
     {
-      "id": "1f5a65df2253",
-      "title": "Dorien (38) kreeg op haar 26ste reumatoïde artritis: “Ik wist niet dat ook jonge mensen de ziekte konden krijgen”",
-      "published": "2026-10-12T13:00:58+00:00",
-      "summary": "Dorien (38) kreeg op haar 26ste reumatoïde artritis: “Ik wist niet dat ook jonge mensen de ziekte konden krijgen”&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdwcDZ1R1VHQ3FDeXdWbDN1aE1PRmpHSUE2dG1BQ0l3VFZRTFRVZ3BTcEhSQWs3YXRFSk1KdV8zOHR4WUppeDlBV3E1endBNHR0YWdSVzBZem5tRVQ4RXJyekZKb2p2a1JBWnExeFdJWEt4MGUzR09VSEk3M3c5b1cwWUowQzhsTWNZaEJDLUxWVVIzeTFHUXRsdG56X3lsWFdlcF9RR1haeVNqNGFObEJPU1ZnMUhPYmJkU2ZZMVVzenJwSmJ1R2ZBelVtMFJycTUtSFBmeS1fMWJkbkpOWGlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "reumatoïde artritis",
-          "related_drugs": [
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "fulvestrant",
-              "name": "Fulvestrant"
-            },
-            {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "reuma",
-          "keyword": "reuma",
-          "related_drugs": [
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "fulvestrant",
-              "name": "Fulvestrant"
-            },
-            {
-              "slug": "levocarnitine",
-              "name": "Levocarnitine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1490b5b8ef20",
       "title": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen - Welingelichte Kringen",
       "published": "2026-10-12T11:45:00+00:00",
-      "summary": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen&nbsp;&nbsp;Welingelichte KringenOnderzoek wijst uit dat eenvoudige oefeningen kunnen helpen de bloeddruk onder controle te houden.&nbsp;&nbsp;Vietnam.vnEen hoge bloeddruk kun je verlagen met een eenvoudige trainingsroutine&nbsp;&nbsp;Wibnet",
+      "summary": "Deense hartprofessor komt met simpel advies om hoge bloeddruk te verlagen&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
           "name": "Welingelichte Kringen",
@@ -286,14 +234,60 @@
       "matched_keywords": []
     },
     {
-      "id": "15a3eb417726",
-      "title": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\" - Omrop Fryslân",
-      "published": "2026-10-12T09:39:09+00:00",
-      "summary": "Is de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\"&nbsp;&nbsp;Omrop FryslânHuidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolAantal diagnoses huidkanker stijgt komende twintig jaar met bijna 60 procent, schat Integraal Kankercentrum: niet alleen door vergrijzing&nbsp;&nbsp;NRC - Ni",
+      "id": "6265d9da8623",
+      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
+      "published": "2026-10-12T04:09:08+00:00",
+      "summary": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’&nbsp;&nbsp;Quest NLMoeilijke jeugd gehad? MRI-studie toont hoe vroege stress het volwassen brein vormt&nbsp;&nbsp;Gezondnu",
       "sources": [
         {
-          "name": "Omrop Fryslân",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5"
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "hart- en vaatziekten",
+          "related_drugs": [
+            {
+              "slug": "travoprost",
+              "name": "Travoprost"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bfd3b813684",
+      "title": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest - De Gelderlander",
+      "published": "2026-10-11T19:00:00+00:00",
+      "summary": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest&nbsp;&nbsp;De GelderlanderSpoedeisende behandeling voor veel ernstig zieke patiënten met pijn op de borst: wees alert op symptomen die gemakkelijk verkeerd kunnen worden geïnterpreteerd.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b0478d46db1b",
+      "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
+      "published": "2026-10-07T16:26:43+00:00",
+      "summary": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank&nbsp;&nbsp;Noordhollands DagbladIs de zorg klaar voor meer kankerpatiënten? \"Hoe ver gaan we nog?\"&nbsp;&nbsp;Omrop FryslânIn 2045 zal huidkanker meest voorkomende vorm van kanker zijn: ‘Weren, kleren en smeren is het allerbelangrijkst’&nbsp;&nbsp;Het ParoolExperts waarschuwen voor zorgwekkende trend, zeker nu aantal gevallen huidkanker stijgt&nbsp;&nbsp;Eindhovens DagbladDeze veranderingen aan je moedervlek kun",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5"
         }
       ],
       "matched_keywords": [
@@ -405,39 +399,6 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6265d9da8623",
-      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
-      "published": "2026-10-12T04:09:08+00:00",
-      "summary": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’&nbsp;&nbsp;Quest NLMoeilijke jeugd gehad? MRI-studie toont hoe vroege stress het volwassen brein vormt&nbsp;&nbsp;Gezondnu",
-      "sources": [
-        {
-          "name": "Quest NL",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "hart- en vaatziekten",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
             }
           ]
         }

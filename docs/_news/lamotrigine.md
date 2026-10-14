@@ -42,19 +42,19 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lamotrigine met het
 
 ## Gerelateerd nieuws (2)
 
-### [Victoria maakt van borstkankerlittekens iets moois: ‘Er wordt veel gehuild, maar ze gaan stralend weg’](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5)
+### [Victoria (36) tatoeëert over littekens van borstkanker heen: ‘Het ziet er beter uit dan voorheen’](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5)
 
 2026-10-13 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDdMdlp0N0ZCWklYR3ZfWm1mdG1TMFQydWJkRUF4dTJkM1FseG5UbmpXemNINXNBNEx3ZlFYc1FtLUdIcTUzelI2eVA3VHBvZHdwR1JxUU9EeVpzcy1YQ0UyVFhmSzFlNFRHS3lsQkZPVEJlc3NWaUFvQVdKWWY2cE1PRkdIYk43clNwODJycDVGUm5tclJCRXhFZXU0RDNSdTFtNThXc3RoQzZyOTQzUFVuYUZJTXJZcjA3ZFZhSkRrNVBQcndiTFg1cFphTzFnM3U4?oc=5)
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5)
 
 ---
 
-### [Is de zorg klaar voor meer kankerpatiënten? "Hoe ver gaan we nog?" - Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5)
+### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
 
-2026-10-12 <span class="news-indication-tag">kanker</span>
+2026-10-07 <span class="news-indication-tag">kanker</span>
 
-Bron: [Omrop Fryslân](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGpJSlBsS2tRYmpiSWhFVTZiYXMzZDJSakxJUGxhT2ZaSF9DVDhIZ3ZUdlFVc3FWUmpxQkRfRkhMVkZrb2szcHZCMUtTS3IwYTNzdEdFVlBRcnhxbmVzZDRUMXRwd0dNM2xURlBYbUhkRTk1UVpNY01LUzJBcFdJZkRyTlI0bkJxSldZc0RMbEFOaFhHOEU3dGNYNS1vOFlxZG9rbDdCdEhSZk14S0E?oc=5)
+Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
 
 ---
 

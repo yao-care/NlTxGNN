@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Zowel te weinig als te veel slaap kan leiden tot dementie – nu hebben onderzoekers eindelijk het magische aantal uren gevonden dat je ’s nachts moet slapen om deze ernstige aandoening te voorkomen](https://news.google.com/rss/articles/CBMiswJBVV95cUxOT1U4VEstOVptdHB5ZTVHcE82b0EzNmg0bW5PTlZTODFtdjU2MF9SZkVyblBoVTVweVFnbVoxcmRTLU0tZElscGsxUHZSVTlESzkwTllua2xkWWUtZk14Qmhad0dxeldqQkQ4TGhUb2tEUXRrQzB1cF80ZzJTVXpfcGMxSHV1dXlyRVNoU2pPRWhNVUVqajBKOGE4M1F3TkVaRTRuOHFZa2U1T3ctamJkRnhGZ0dhODh5WHZObmFtcEJ5Y0tzOFZRUE83MWNnRmRONjFXNXQ2amk1U1NwXzNWbEV0MnpaSWlJdk1UOURXYzdIb3lRZFgtMHF3dlRLMkpqZGN1MTg5SFAyaVZ0aFEyaFJGNjBLYkwyWVFuOWFUTS1WWWRfbHdERWgzcVNLUlJuNmdr?oc=5)
-
-2026-10-12 <span class="news-indication-tag">dementie</span>
-
-Bron: [Wibnet](https://news.google.com/rss/articles/CBMiswJBVV95cUxOT1U4VEstOVptdHB5ZTVHcE82b0EzNmg0bW5PTlZTODFtdjU2MF9SZkVyblBoVTVweVFnbVoxcmRTLU0tZElscGsxUHZSVTlESzkwTllua2xkWWUtZk14Qmhad0dxeldqQkQ4TGhUb2tEUXRrQzB1cF80ZzJTVXpfcGMxSHV1dXlyRVNoU2pPRWhNVUVqajBKOGE4M1F3TkVaRTRuOHFZa2U1T3ctamJkRnhGZ0dhODh5WHZObmFtcEJ5Y0tzOFZRUE83MWNnRmRONjFXNXQ2amk1U1NwXzNWbEV0MnpaSWlJdk1UOURXYzdIb3lRZFgtMHF3dlRLMkpqZGN1MTg5SFAyaVZ0aFEyaFJGNjBLYkwyWVFuOWFUTS1WWWRfbHdERWgzcVNLUlJuNmdr?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

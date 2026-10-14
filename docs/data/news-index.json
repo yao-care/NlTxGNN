@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T11:06:28.551847+00:00",
-  "count": 4,
+  "generated": "2026-10-14T16:27:28.672838+00:00",
+  "count": 3,
   "news": [
     {
       "id": "d95db8d9b69d",
@@ -142,69 +142,13 @@
       ]
     },
     {
-      "id": "977c3cdc723f",
-      "title": "Zowel te weinig als te veel slaap kan leiden tot dementie – nu hebben onderzoekers eindelijk het magische aantal uren gevonden dat je ’s nachts moet slapen om deze ernstige aandoening te voorkomen",
-      "published": "2026-10-12T18:30:06+00:00",
+      "id": "c598569a1d9a",
+      "title": "“1 op de 8 kankers is te wijten aan virus of bacterie”: wetenschappers ontdekken opvallend verband met 5 infecties",
+      "published": "2026-10-13T05:34:00+00:00",
       "sources": [
         {
-          "name": "Wibnet",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOT1U4VEstOVptdHB5ZTVHcE82b0EzNmg0bW5PTlZTODFtdjU2MF9SZkVyblBoVTVweVFnbVoxcmRTLU0tZElscGsxUHZSVTlESzkwTllua2xkWWUtZk14Qmhad0dxeldqQkQ4TGhUb2tEUXRrQzB1cF80ZzJTVXpfcGMxSHV1dXlyRVNoU2pPRWhNVUVqajBKOGE4M1F3TkVaRTRuOHFZa2U1T3ctamJkRnhGZ0dhODh5WHZObmFtcEJ5Y0tzOFZRUE83MWNnRmRONjFXNXQ2amk1U1NwXzNWbEV0MnpaSWlJdk1UOURXYzdIb3lRZFgtMHF3dlRLMkpqZGN1MTg5SFAyaVZ0aFEyaFJGNjBLYkwyWVFuOWFUTS1WWWRfbHdERWgzcVNLUlJuNmdr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6265d9da8623",
-      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
-      "published": "2026-10-12T04:09:08+00:00",
-      "sources": [
-        {
-          "name": "Quest NL",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "hart- en vaatziekten",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b0478d46db1b",
-      "title": "Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad",
-      "published": "2026-10-07T16:26:43+00:00",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd1N2ZmptR3JfS3JoeUlVQmxwWFAzeTBabHJpdXE5dGdDN0RsTDBzaWEwWkUtcTdYeVhwTVBhaFROeWtPQW1WVEFjQUlxT1hpb2o0MngxVVVGZE41VWVjYlAtLXc2aXFhQzk2NE1uME9qVVAxUUZMVWRDbzV0eFlMdVEyUF9JbGRzblM2TE9nUEp5UUVsYTFzekExeHlLNURoOWlfMURXZmpFUU45NUgtVEZHYURib1NMWTlnOUc5SlRhWkJud3VrdU1seFU4anBSU01YUVI5b3JER1ZxQ3ViZDktUW9iZE10bGhwSFY1bnQ?oc=5"
         }
       ],
       "keywords": [
@@ -316,6 +260,38 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6265d9da8623",
+      "title": "Cardioloog Leonard Hofstra: ‘Je trauma’s vergroten het risico op hart- en vaatziekten’ - Quest NL",
+      "published": "2026-10-12T04:09:08+00:00",
+      "sources": [
+        {
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclZ5eFRUeXVnWGMydURoaVdCZ20xTWJXOGJtM0xwTnNxaEVkNzNOclRjUGNtWWlWbFJfR0dLMHU0alllTGxxMWRnOEFSaGRJVUwtSEZhb1o3dEl2ZzJBYkdIcGk2WnE1aUFFNVcyWVA2NlBRN0dKXzI0aHRseTBsMEZ1OUdweXNIbjh0RU84SUJ4bC1vLUhBOGR2eEN4Zzc1d2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "hart- en vaatziekten",
+          "related_drugs": [
+            {
+              "slug": "travoprost",
+              "name": "Travoprost"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
             }
           ]
         }

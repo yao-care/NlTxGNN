@@ -51,11 +51,11 @@ Bron: [AD.nl](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR
 
 ---
 
-### [Huidkanker wordt de grootste bedreiging: Sabine (57) baalt achteraf van de zonnebank - Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
+### [“1 op de 8 kankers is te wijten aan virus of bacterie”: wetenschappers ontdekken opvallend verband met 5 infecties](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd1N2ZmptR3JfS3JoeUlVQmxwWFAzeTBabHJpdXE5dGdDN0RsTDBzaWEwWkUtcTdYeVhwTVBhaFROeWtPQW1WVEFjQUlxT1hpb2o0MngxVVVGZE41VWVjYlAtLXc2aXFhQzk2NE1uME9qVVAxUUZMVWRDbzV0eFlMdVEyUF9JbGRzblM2TE9nUEp5UUVsYTFzekExeHlLNURoOWlfMURXZmpFUU45NUgtVEZHYURib1NMWTlnOUc5SlRhWkJud3VrdU1seFU4anBSU01YUVI5b3JER1ZxQ3ViZDktUW9iZE10bGhwSFY1bnQ?oc=5)
 
-2026-10-07 <span class="news-indication-tag">kanker</span>
+2026-10-13 <span class="news-indication-tag">kanker</span>
 
-Bron: [Noordhollands Dagblad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR293V0tCV3c4SGtjM3hhQTZCbVlrUG94QVFUdXAzVWxJV083ZGV4TDBLNEZDQnZUclUzN3pLVlpMUGx6NGY3eW9YZHF2ZDdKTk9nTkNnRUNkNVRRc3ZnTjVxakkyU0YzMEZ3NlI4MEJSamdwdmVKTmFTSEJwSl9SbkhFdG1HRUVkQ1kwQ3NoWHN4ZGp2QlM3REZFNXdpZWZxUUZ6OE9LeW0xUmp5SWFQV0ZyR3FHZUlPUW9TT2NiU2dLdEgzTzNNTlduTFNuLWJ1ZEdlVDJsZjJyejNjeUQ4?oc=5)
+Bron: [HLN](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd1N2ZmptR3JfS3JoeUlVQmxwWFAzeTBabHJpdXE5dGdDN0RsTDBzaWEwWkUtcTdYeVhwTVBhaFROeWtPQW1WVEFjQUlxT1hpb2o0MngxVVVGZE41VWVjYlAtLXc2aXFhQzk2NE1uME9qVVAxUUZMVWRDbzV0eFlMdVEyUF9JbGRzblM2TE9nUEp5UUVsYTFzekExeHlLNURoOWlfMURXZmpFUU45NUgtVEZHYURib1NMWTlnOUc5SlRhWkJud3VrdU1seFU4anBSU01YUVI5b3JER1ZxQ3ViZDktUW9iZE10bGhwSFY1bnQ?oc=5)
 
 ---
 

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "biotin-metabolic-disease",
+          "display": "biotin metabolic disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "biotin metabolic disease",
       "concept": {
         "text": "biotin metabolic disease"
       }

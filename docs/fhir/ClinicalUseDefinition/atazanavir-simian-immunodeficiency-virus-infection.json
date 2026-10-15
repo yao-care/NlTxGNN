@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "simian-immunodeficiency-virus-infection",
+          "display": "simian immunodeficiency virus infection"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "simian immunodeficiency virus infection",
       "concept": {
         "text": "simian immunodeficiency virus infection"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malt-lymphoma",
+          "display": "MALT lymphoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "MALT lymphoma",
       "concept": {
         "text": "MALT lymphoma"
       }

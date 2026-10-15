@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pediatric-systemic-lupus-erythematosus",
+          "display": "pediatric systemic lupus erythematosus"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pediatric systemic lupus erythematosus",
       "concept": {
         "text": "pediatric systemic lupus erythematosus"
       }

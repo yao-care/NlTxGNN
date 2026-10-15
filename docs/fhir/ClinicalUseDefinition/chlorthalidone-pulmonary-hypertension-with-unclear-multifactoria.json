@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pulmonary-hypertension-with-unclear-multifactorial-mechanism",
+          "display": "pulmonary hypertension with unclear multifactorial mechanism"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pulmonary hypertension with unclear multifactorial mechanism",
       "concept": {
         "text": "pulmonary hypertension with unclear multifactorial mechanism"
       }

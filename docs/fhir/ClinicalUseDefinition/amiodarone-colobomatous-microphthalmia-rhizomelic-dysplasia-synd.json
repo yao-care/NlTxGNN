@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "colobomatous-microphthalmia-rhizomelic-dysplasia-syndrome",
+          "display": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
       "concept": {
         "text": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
       }

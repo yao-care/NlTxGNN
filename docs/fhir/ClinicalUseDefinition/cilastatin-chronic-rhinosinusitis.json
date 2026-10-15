@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "chronic-rhinosinusitis",
+          "display": "chronic rhinosinusitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "chronic rhinosinusitis",
       "concept": {
         "text": "chronic rhinosinusitis"
       }

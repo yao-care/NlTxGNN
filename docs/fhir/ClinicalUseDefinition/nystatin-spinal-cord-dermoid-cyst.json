@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "spinal-cord-dermoid-cyst",
+          "display": "spinal cord dermoid cyst"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "spinal cord dermoid cyst",
       "concept": {
         "text": "spinal cord dermoid cyst"
       }

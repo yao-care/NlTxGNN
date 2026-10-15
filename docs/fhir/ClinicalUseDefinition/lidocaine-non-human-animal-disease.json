@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "non-human-animal-disease",
+          "display": "non-human animal disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "non-human animal disease",
       "concept": {
         "text": "non-human animal disease"
       }

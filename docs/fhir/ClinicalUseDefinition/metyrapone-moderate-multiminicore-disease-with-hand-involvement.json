@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "moderate-multiminicore-disease-with-hand-involvement",
+          "display": "moderate multiminicore disease with hand involvement"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "moderate multiminicore disease with hand involvement",
       "concept": {
         "text": "moderate multiminicore disease with hand involvement"
       }

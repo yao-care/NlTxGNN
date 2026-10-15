@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "familial-hyperlipidemia",
+          "display": "familial hyperlipidemia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "familial hyperlipidemia",
       "concept": {
         "text": "familial hyperlipidemia"
       }

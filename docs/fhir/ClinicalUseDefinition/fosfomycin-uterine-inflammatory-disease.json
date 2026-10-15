@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "uterine-inflammatory-disease",
+          "display": "uterine inflammatory disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "uterine inflammatory disease",
       "concept": {
         "text": "uterine inflammatory disease"
       }

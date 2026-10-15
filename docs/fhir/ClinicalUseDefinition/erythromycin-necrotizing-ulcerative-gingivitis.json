@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "necrotizing-ulcerative-gingivitis",
+          "display": "necrotizing ulcerative gingivitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "necrotizing ulcerative gingivitis",
       "concept": {
         "text": "necrotizing ulcerative gingivitis"
       }

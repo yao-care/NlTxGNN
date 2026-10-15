@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "frontal-lobe-epilepsy",
+          "display": "frontal lobe epilepsy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "frontal lobe epilepsy",
       "concept": {
         "text": "frontal lobe epilepsy"
       }

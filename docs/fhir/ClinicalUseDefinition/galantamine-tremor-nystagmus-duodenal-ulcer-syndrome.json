@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "tremor-nystagmus-duodenal-ulcer-syndrome",
+          "display": "tremor-nystagmus-duodenal ulcer syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "tremor-nystagmus-duodenal ulcer syndrome",
       "concept": {
         "text": "tremor-nystagmus-duodenal ulcer syndrome"
       }

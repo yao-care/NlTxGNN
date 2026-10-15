@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "rheumatoid-factor-positive-polyarticular-juvenile-idiopathic-arthritis",
+          "display": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
       "concept": {
         "text": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
       }

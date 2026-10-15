@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "gaze-palsy-familial-horizontal-with-progressive-scoliosis",
+          "display": "gaze palsy, familial horizontal, with progressive scoliosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "gaze palsy, familial horizontal, with progressive scoliosis",
       "concept": {
         "text": "gaze palsy, familial horizontal, with progressive scoliosis"
       }

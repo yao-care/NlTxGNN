@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malignant-exocrine-pancreas-neoplasm",
+          "display": "malignant exocrine pancreas neoplasm"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malignant exocrine pancreas neoplasm",
       "concept": {
         "text": "malignant exocrine pancreas neoplasm"
       }

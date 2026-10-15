@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypoalphalipoproteinemia",
+          "display": "hypoalphalipoproteinemia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypoalphalipoproteinemia",
       "concept": {
         "text": "hypoalphalipoproteinemia"
       }

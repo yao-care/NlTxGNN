@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "homozygous-familial-hypercholesterolemia",
+          "display": "homozygous familial hypercholesterolemia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "homozygous familial hypercholesterolemia",
       "concept": {
         "text": "homozygous familial hypercholesterolemia"
       }

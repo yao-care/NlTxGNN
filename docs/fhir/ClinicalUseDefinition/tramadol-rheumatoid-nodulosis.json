@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "rheumatoid-nodulosis",
+          "display": "rheumatoid nodulosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "rheumatoid nodulosis",
       "concept": {
         "text": "rheumatoid nodulosis"
       }

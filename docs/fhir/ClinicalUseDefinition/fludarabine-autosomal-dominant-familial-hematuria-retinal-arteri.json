@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "autosomal-dominant-familial-hematuria-retinal-arteriolar-tortuosity-contractures-syndrome",
+          "display": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
       "concept": {
         "text": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"
       }

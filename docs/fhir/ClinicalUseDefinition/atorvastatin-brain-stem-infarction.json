@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "brain-stem-infarction",
+          "display": "brain stem infarction"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "brain stem infarction",
       "concept": {
         "text": "brain stem infarction"
       }

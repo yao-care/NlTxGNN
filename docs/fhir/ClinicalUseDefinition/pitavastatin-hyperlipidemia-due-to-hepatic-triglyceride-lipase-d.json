@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hyperlipidemia-due-to-hepatic-triglyceride-lipase-deficiency",
+          "display": "hyperlipidemia due to hepatic triglyceride lipase deficiency"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hyperlipidemia due to hepatic triglyceride lipase deficiency",
       "concept": {
         "text": "hyperlipidemia due to hepatic triglyceride lipase deficiency"
       }

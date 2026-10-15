@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "thrombotic-disease",
+          "display": "thrombotic disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "thrombotic disease",
       "concept": {
         "text": "thrombotic disease"
       }

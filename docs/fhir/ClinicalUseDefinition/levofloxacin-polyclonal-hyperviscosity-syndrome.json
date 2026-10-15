@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "polyclonal-hyperviscosity-syndrome",
+          "display": "polyclonal hyperviscosity syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "polyclonal hyperviscosity syndrome",
       "concept": {
         "text": "polyclonal hyperviscosity syndrome"
       }

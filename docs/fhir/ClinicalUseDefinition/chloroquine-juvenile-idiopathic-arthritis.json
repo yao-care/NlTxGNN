@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "juvenile-idiopathic-arthritis",
+          "display": "juvenile idiopathic arthritis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "juvenile idiopathic arthritis",
       "concept": {
         "text": "juvenile idiopathic arthritis"
       }

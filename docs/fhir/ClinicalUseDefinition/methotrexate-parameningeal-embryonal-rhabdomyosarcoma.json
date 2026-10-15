@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "parameningeal-embryonal-rhabdomyosarcoma",
+          "display": "parameningeal embryonal rhabdomyosarcoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "parameningeal embryonal rhabdomyosarcoma",
       "concept": {
         "text": "parameningeal embryonal rhabdomyosarcoma"
       }

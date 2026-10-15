@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "small-intestinal-mucosa-associated-lymphoid-tissue-lymphoma",
+          "display": "small intestinal mucosa-associated lymphoid tissue lymphoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "small intestinal mucosa-associated lymphoid tissue lymphoma",
       "concept": {
         "text": "small intestinal mucosa-associated lymphoid tissue lymphoma"
       }

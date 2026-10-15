@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "diabetes-mellitus-type-2-associated-cataract",
+          "display": "diabetes mellitus type 2 associated cataract"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "diabetes mellitus type 2 associated cataract",
       "concept": {
         "text": "diabetes mellitus type 2 associated cataract"
       }

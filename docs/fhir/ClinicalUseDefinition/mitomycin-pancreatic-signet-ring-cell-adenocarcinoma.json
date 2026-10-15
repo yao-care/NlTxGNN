@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pancreatic-signet-ring-cell-adenocarcinoma",
+          "display": "pancreatic signet ring cell adenocarcinoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pancreatic signet ring cell adenocarcinoma",
       "concept": {
         "text": "pancreatic signet ring cell adenocarcinoma"
       }

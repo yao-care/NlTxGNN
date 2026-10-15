@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "prolapse-of-lacrimal-gland",
+          "display": "prolapse of lacrimal gland"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "prolapse of lacrimal gland",
       "concept": {
         "text": "prolapse of lacrimal gland"
       }

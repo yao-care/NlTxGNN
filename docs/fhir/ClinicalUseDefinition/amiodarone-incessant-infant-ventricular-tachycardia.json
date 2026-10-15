@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "incessant-infant-ventricular-tachycardia",
+          "display": "incessant infant ventricular tachycardia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "incessant infant ventricular tachycardia",
       "concept": {
         "text": "incessant infant ventricular tachycardia"
       }

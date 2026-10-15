@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "drug-induced-localized-lipodystrophy",
+          "display": "drug-induced localized lipodystrophy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "drug-induced localized lipodystrophy",
       "concept": {
         "text": "drug-induced localized lipodystrophy"
       }

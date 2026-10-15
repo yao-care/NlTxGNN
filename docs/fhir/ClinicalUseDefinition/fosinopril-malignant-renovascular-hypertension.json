@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malignant-renovascular-hypertension",
+          "display": "malignant renovascular hypertension"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malignant renovascular hypertension",
       "concept": {
         "text": "malignant renovascular hypertension"
       }

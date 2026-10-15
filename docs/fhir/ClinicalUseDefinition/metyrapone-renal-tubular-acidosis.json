@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "renal-tubular-acidosis",
+          "display": "renal tubular acidosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "renal tubular acidosis",
       "concept": {
         "text": "renal tubular acidosis"
       }

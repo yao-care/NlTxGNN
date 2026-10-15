@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "sporadic-idiopathic-steroid-resistant-nephrotic-syndrome",
+          "display": "sporadic idiopathic steroid-resistant nephrotic syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "sporadic idiopathic steroid-resistant nephrotic syndrome",
       "concept": {
         "text": "sporadic idiopathic steroid-resistant nephrotic syndrome"
       }

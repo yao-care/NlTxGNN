@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "transient-tic-disorder",
+          "display": "transient tic disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "transient tic disorder",
       "concept": {
         "text": "transient tic disorder"
       }

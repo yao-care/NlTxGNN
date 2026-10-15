@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "osteoclastic-giant-cell-tumor-of-pancreas",
+          "display": "osteoclastic giant cell tumor of pancreas"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "osteoclastic giant cell tumor of pancreas",
       "concept": {
         "text": "osteoclastic giant cell tumor of pancreas"
       }

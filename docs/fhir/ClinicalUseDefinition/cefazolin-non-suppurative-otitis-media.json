@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "non-suppurative-otitis-media",
+          "display": "non-suppurative otitis media"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "non-suppurative otitis media",
       "concept": {
         "text": "non-suppurative otitis media"
       }

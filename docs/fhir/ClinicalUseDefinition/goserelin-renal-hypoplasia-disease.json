@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "renal-hypoplasia-disease",
+          "display": "renal hypoplasia (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "renal hypoplasia (disease)",
       "concept": {
         "text": "renal hypoplasia (disease)"
       }

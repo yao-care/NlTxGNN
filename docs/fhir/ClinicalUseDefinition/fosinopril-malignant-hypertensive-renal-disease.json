@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malignant-hypertensive-renal-disease",
+          "display": "malignant hypertensive renal disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malignant hypertensive renal disease",
       "concept": {
         "text": "malignant hypertensive renal disease"
       }

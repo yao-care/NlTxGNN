@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "brachydactyly-syndactyly-syndrome",
+          "display": "brachydactyly-syndactyly syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "brachydactyly-syndactyly syndrome",
       "concept": {
         "text": "brachydactyly-syndactyly syndrome"
       }

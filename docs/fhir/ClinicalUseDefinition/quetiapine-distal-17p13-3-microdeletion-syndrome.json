@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "distal-17p13-3-microdeletion-syndrome",
+          "display": "distal 17p13.3 microdeletion syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "distal 17p13.3 microdeletion syndrome",
       "concept": {
         "text": "distal 17p13.3 microdeletion syndrome"
       }

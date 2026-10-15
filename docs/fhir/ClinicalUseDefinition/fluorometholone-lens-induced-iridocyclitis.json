@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "lens-induced-iridocyclitis",
+          "display": "lens-induced iridocyclitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "lens-induced iridocyclitis",
       "concept": {
         "text": "lens-induced iridocyclitis"
       }

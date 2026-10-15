@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "staphylococcus-aureus-infection",
+          "display": "staphylococcus aureus infection"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "staphylococcus aureus infection",
       "concept": {
         "text": "staphylococcus aureus infection"
       }

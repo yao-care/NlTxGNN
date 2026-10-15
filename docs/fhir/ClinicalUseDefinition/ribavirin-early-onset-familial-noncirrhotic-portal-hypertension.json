@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "early-onset-familial-noncirrhotic-portal-hypertension",
+          "display": "early-onset familial noncirrhotic portal hypertension"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "early-onset familial noncirrhotic portal hypertension",
       "concept": {
         "text": "early-onset familial noncirrhotic portal hypertension"
       }

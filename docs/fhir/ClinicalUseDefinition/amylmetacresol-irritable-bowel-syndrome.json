@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "irritable-bowel-syndrome",
+          "display": "irritable bowel syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "irritable bowel syndrome",
       "concept": {
         "text": "irritable bowel syndrome"
       }

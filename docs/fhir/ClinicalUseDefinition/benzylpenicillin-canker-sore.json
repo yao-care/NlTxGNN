@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "canker-sore",
+          "display": "canker sore"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "canker sore",
       "concept": {
         "text": "canker sore"
       }

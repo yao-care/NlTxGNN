@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "disease-of-receptor-activity",
+          "display": "disease of receptor activity"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "disease of receptor activity",
       "concept": {
         "text": "disease of receptor activity"
       }

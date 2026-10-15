@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "idiopathic-copper-associated-cirrhosis",
+          "display": "idiopathic copper-associated cirrhosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "idiopathic copper-associated cirrhosis",
       "concept": {
         "text": "idiopathic copper-associated cirrhosis"
       }

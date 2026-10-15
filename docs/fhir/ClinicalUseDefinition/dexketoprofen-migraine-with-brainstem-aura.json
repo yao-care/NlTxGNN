@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "migraine-with-brainstem-aura",
+          "display": "migraine with brainstem aura"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "migraine with brainstem aura",
       "concept": {
         "text": "migraine with brainstem aura"
       }

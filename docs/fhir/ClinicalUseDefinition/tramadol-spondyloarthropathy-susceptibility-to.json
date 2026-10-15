@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "spondyloarthropathy-susceptibility-to",
+          "display": "spondyloarthropathy, susceptibility to"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "spondyloarthropathy, susceptibility to",
       "concept": {
         "text": "spondyloarthropathy, susceptibility to"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "tourette-syndrome",
+          "display": "Tourette syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Tourette syndrome",
       "concept": {
         "text": "Tourette syndrome"
       }

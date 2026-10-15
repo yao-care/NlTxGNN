@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "infective-urethral-stricture",
+          "display": "infective urethral stricture"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "infective urethral stricture",
       "concept": {
         "text": "infective urethral stricture"
       }

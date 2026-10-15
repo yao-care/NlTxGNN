@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "sleep-disorder-initiating-and-maintaining-sleep",
+          "display": "sleep disorder, initiating and maintaining sleep"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "sleep disorder, initiating and maintaining sleep",
       "concept": {
         "text": "sleep disorder, initiating and maintaining sleep"
       }

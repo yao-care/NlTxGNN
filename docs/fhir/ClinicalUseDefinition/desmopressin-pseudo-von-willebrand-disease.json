@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pseudo-von-willebrand-disease",
+          "display": "pseudo-von Willebrand disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pseudo-von Willebrand disease",
       "concept": {
         "text": "pseudo-von Willebrand disease"
       }

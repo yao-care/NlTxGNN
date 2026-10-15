@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "otitis-externa",
+          "display": "otitis externa"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "otitis externa",
       "concept": {
         "text": "otitis externa"
       }

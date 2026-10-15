@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "periodic-paralysis-with-transient-compartment-like-syndrome",
+          "display": "periodic paralysis with transient compartment-like syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "periodic paralysis with transient compartment-like syndrome",
       "concept": {
         "text": "periodic paralysis with transient compartment-like syndrome"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "benign-neoplasm-of-ciliary-body",
+          "display": "benign neoplasm of ciliary body"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "benign neoplasm of ciliary body",
       "concept": {
         "text": "benign neoplasm of ciliary body"
       }

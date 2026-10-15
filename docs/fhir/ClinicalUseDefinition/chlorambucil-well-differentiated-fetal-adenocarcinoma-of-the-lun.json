@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "well-differentiated-fetal-adenocarcinoma-of-the-lung",
+          "display": "well-differentiated fetal adenocarcinoma of the lung"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "well-differentiated fetal adenocarcinoma of the lung",
       "concept": {
         "text": "well-differentiated fetal adenocarcinoma of the lung"
       }

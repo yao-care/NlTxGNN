@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "chronic-follicular-conjunctivitis",
+          "display": "chronic follicular conjunctivitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "chronic follicular conjunctivitis",
       "concept": {
         "text": "chronic follicular conjunctivitis"
       }

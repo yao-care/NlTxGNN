@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "headache-disorder",
+          "display": "headache disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "headache disorder",
       "concept": {
         "text": "headache disorder"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "myasthenia-limb-girdle-autoimmune",
+          "display": "myasthenia, limb-girdle, autoimmune"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "myasthenia, limb-girdle, autoimmune",
       "concept": {
         "text": "myasthenia, limb-girdle, autoimmune"
       }

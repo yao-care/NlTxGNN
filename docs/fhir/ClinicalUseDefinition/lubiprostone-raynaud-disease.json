@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "raynaud-disease",
+          "display": "Raynaud disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Raynaud disease",
       "concept": {
         "text": "Raynaud disease"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pulmonary-hypertension-primary-autosomal-recessive",
+          "display": "pulmonary hypertension, primary, autosomal recessive"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pulmonary hypertension, primary, autosomal recessive",
       "concept": {
         "text": "pulmonary hypertension, primary, autosomal recessive"
       }

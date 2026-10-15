@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypercholesterolemia-autosomal-dominant",
+          "display": "hypercholesterolemia, autosomal dominant"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypercholesterolemia, autosomal dominant",
       "concept": {
         "text": "hypercholesterolemia, autosomal dominant"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pancreatic-carcinoma-with-mixed-differentiation",
+          "display": "pancreatic carcinoma with mixed differentiation"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pancreatic carcinoma with mixed differentiation",
       "concept": {
         "text": "pancreatic carcinoma with mixed differentiation"
       }

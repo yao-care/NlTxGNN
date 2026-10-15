@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cauda-equina-syndrome",
+          "display": "cauda equina syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "cauda equina syndrome",
       "concept": {
         "text": "cauda equina syndrome"
       }

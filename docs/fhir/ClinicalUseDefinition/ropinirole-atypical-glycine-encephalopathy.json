@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "atypical-glycine-encephalopathy",
+          "display": "atypical glycine encephalopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "atypical glycine encephalopathy",
       "concept": {
         "text": "atypical glycine encephalopathy"
       }

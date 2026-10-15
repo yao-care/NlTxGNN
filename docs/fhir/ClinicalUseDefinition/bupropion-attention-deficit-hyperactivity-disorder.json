@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "attention-deficit-hyperactivity-disorder",
+          "display": "attention deficit-hyperactivity disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "attention deficit-hyperactivity disorder",
       "concept": {
         "text": "attention deficit-hyperactivity disorder"
       }

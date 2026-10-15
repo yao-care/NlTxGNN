@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "bilateral-renal-agenesis",
+          "display": "bilateral renal agenesis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "bilateral renal agenesis",
       "concept": {
         "text": "bilateral renal agenesis"
       }

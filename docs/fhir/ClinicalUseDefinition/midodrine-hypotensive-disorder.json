@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypotensive-disorder",
+          "display": "hypotensive disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypotensive disorder",
       "concept": {
         "text": "hypotensive disorder"
       }

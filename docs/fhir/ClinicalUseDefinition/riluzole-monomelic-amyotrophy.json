@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "monomelic-amyotrophy",
+          "display": "monomelic amyotrophy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "monomelic amyotrophy",
       "concept": {
         "text": "monomelic amyotrophy"
       }

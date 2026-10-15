@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "quinquaud-s-folliculitis-decalvans",
+          "display": "Quinquaud's folliculitis decalvans"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Quinquaud's folliculitis decalvans",
       "concept": {
         "text": "Quinquaud's folliculitis decalvans"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "igg4-related-aortitis",
+          "display": "IgG4-related aortitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "IgG4-related aortitis",
       "concept": {
         "text": "IgG4-related aortitis"
       }

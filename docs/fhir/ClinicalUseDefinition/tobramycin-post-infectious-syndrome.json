@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "post-infectious-syndrome",
+          "display": "post-infectious syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "post-infectious syndrome",
       "concept": {
         "text": "post-infectious syndrome"
       }

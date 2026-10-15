@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "orgasm-induced-seizures",
+          "display": "orgasm-induced seizures"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "orgasm-induced seizures",
       "concept": {
         "text": "orgasm-induced seizures"
       }

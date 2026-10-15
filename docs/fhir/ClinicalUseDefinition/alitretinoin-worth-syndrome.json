@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "worth-syndrome",
+          "display": "Worth syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Worth syndrome",
       "concept": {
         "text": "Worth syndrome"
       }

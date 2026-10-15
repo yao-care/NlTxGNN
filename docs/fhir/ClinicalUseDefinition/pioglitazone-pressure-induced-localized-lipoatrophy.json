@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pressure-induced-localized-lipoatrophy",
+          "display": "pressure-induced localized lipoatrophy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pressure-induced localized lipoatrophy",
       "concept": {
         "text": "pressure-induced localized lipoatrophy"
       }

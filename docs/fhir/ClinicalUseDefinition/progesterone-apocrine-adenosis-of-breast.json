@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "apocrine-adenosis-of-breast",
+          "display": "apocrine adenosis of breast"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "apocrine adenosis of breast",
       "concept": {
         "text": "apocrine adenosis of breast"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "antidepressant-type-abuse",
+          "display": "antidepressant type abuse"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "antidepressant type abuse",
       "concept": {
         "text": "antidepressant type abuse"
       }

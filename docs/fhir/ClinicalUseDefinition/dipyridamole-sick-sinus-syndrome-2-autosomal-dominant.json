@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "sick-sinus-syndrome-2-autosomal-dominant",
+          "display": "sick sinus syndrome 2, autosomal dominant"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "sick sinus syndrome 2, autosomal dominant",
       "concept": {
         "text": "sick sinus syndrome 2, autosomal dominant"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "disease-of-orbital-part-of-eye-adnexa",
+          "display": "disease of orbital part of eye adnexa"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "disease of orbital part of eye adnexa",
       "concept": {
         "text": "disease of orbital part of eye adnexa"
       }

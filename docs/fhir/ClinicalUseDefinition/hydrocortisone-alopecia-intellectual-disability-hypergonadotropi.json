@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "alopecia-intellectual-disability-hypergonadotropic-hypogonadism-syndrome",
+          "display": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
       "concept": {
         "text": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
       }

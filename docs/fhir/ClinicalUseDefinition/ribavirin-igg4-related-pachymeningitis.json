@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "igg4-related-pachymeningitis",
+          "display": "IgG4-related pachymeningitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "IgG4-related pachymeningitis",
       "concept": {
         "text": "IgG4-related pachymeningitis"
       }

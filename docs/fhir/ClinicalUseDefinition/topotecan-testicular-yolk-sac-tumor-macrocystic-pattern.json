@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "testicular-yolk-sac-tumor-macrocystic-pattern",
+          "display": "testicular yolk sac tumor, macrocystic pattern"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "testicular yolk sac tumor, macrocystic pattern",
       "concept": {
         "text": "testicular yolk sac tumor, macrocystic pattern"
       }

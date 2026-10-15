@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "relapsing-remitting-multiple-sclerosis",
+          "display": "relapsing-remitting multiple sclerosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "relapsing-remitting multiple sclerosis",
       "concept": {
         "text": "relapsing-remitting multiple sclerosis"
       }

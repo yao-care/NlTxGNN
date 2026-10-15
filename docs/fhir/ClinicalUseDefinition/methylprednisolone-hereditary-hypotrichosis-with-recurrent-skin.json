@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hereditary-hypotrichosis-with-recurrent-skin-vesicles",
+          "display": "hereditary hypotrichosis with recurrent skin vesicles"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hereditary hypotrichosis with recurrent skin vesicles",
       "concept": {
         "text": "hereditary hypotrichosis with recurrent skin vesicles"
       }

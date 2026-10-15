@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "female-breast-carcinoma",
+          "display": "female breast carcinoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "female breast carcinoma",
       "concept": {
         "text": "female breast carcinoma"
       }

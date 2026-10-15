@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "vertebral-anomalies-and-variable-endocrine-and-t-cell-dysfunction",
+          "display": "vertebral anomalies and variable endocrine and T-cell dysfunction"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "vertebral anomalies and variable endocrine and T-cell dysfunction",
       "concept": {
         "text": "vertebral anomalies and variable endocrine and T-cell dysfunction"
       }

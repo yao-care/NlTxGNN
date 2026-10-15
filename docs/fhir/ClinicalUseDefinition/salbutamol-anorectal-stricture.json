@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "anorectal-stricture",
+          "display": "anorectal stricture"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "anorectal stricture",
       "concept": {
         "text": "anorectal stricture"
       }

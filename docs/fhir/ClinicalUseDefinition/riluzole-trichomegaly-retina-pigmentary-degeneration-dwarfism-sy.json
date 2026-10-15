@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "trichomegaly-retina-pigmentary-degeneration-dwarfism-syndrome",
+          "display": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
       "concept": {
         "text": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome"
       }

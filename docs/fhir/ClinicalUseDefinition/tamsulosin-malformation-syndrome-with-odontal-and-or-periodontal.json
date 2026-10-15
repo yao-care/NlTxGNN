@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malformation-syndrome-with-odontal-and-or-periodontal-component",
+          "display": "malformation syndrome with odontal and/or periodontal component"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malformation syndrome with odontal and/or periodontal component",
       "concept": {
         "text": "malformation syndrome with odontal and/or periodontal component"
       }

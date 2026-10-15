@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "exercise-induced-malignant-hyperthermia",
+          "display": "exercise-induced malignant hyperthermia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "exercise-induced malignant hyperthermia",
       "concept": {
         "text": "exercise-induced malignant hyperthermia"
       }

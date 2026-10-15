@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "rasmussen-subacute-encephalitis",
+          "display": "Rasmussen subacute encephalitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Rasmussen subacute encephalitis",
       "concept": {
         "text": "Rasmussen subacute encephalitis"
       }

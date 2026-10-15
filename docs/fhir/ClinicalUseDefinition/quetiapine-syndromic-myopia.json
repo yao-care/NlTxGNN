@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "syndromic-myopia",
+          "display": "syndromic myopia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "syndromic myopia",
       "concept": {
         "text": "syndromic myopia"
       }

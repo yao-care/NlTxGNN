@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "atypical-coarctation-of-aorta",
+          "display": "atypical coarctation of aorta"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "atypical coarctation of aorta",
       "concept": {
         "text": "atypical coarctation of aorta"
       }

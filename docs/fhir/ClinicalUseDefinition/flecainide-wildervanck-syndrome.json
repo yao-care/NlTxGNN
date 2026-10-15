@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "wildervanck-syndrome",
+          "display": "Wildervanck syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Wildervanck syndrome",
       "concept": {
         "text": "Wildervanck syndrome"
       }

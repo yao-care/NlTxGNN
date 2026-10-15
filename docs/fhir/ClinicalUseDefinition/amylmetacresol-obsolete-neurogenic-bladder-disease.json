@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obsolete-neurogenic-bladder-disease",
+          "display": "obsolete neurogenic bladder (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obsolete neurogenic bladder (disease)",
       "concept": {
         "text": "obsolete neurogenic bladder (disease)"
       }

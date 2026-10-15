@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypotrichosis-simplex-of-the-scalp",
+          "display": "hypotrichosis simplex of the scalp"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypotrichosis simplex of the scalp",
       "concept": {
         "text": "hypotrichosis simplex of the scalp"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "kyphoscoliotic-heart-disease",
+          "display": "kyphoscoliotic heart disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "kyphoscoliotic heart disease",
       "concept": {
         "text": "kyphoscoliotic heart disease"
       }

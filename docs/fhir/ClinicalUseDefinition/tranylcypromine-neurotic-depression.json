@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "neurotic-depression",
+          "display": "neurotic depression"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "neurotic depression",
       "concept": {
         "text": "neurotic depression"
       }

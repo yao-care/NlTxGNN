@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cavernous-sinus-thrombosis",
+          "display": "cavernous sinus thrombosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "cavernous sinus thrombosis",
       "concept": {
         "text": "cavernous sinus thrombosis"
       }

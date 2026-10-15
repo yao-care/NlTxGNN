@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "schizotypal-personality-disorder",
+          "display": "schizotypal personality disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "schizotypal personality disorder",
       "concept": {
         "text": "schizotypal personality disorder"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "myofascial-pain-syndrome",
+          "display": "myofascial pain syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "myofascial pain syndrome",
       "concept": {
         "text": "myofascial pain syndrome"
       }

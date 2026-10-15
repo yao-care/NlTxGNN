@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "macrocephaly-dysmorphic-facies-and-psychomotor-retardation",
+          "display": "macrocephaly, dysmorphic facies, and psychomotor retardation"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "macrocephaly, dysmorphic facies, and psychomotor retardation",
       "concept": {
         "text": "macrocephaly, dysmorphic facies, and psychomotor retardation"
       }

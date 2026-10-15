@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obstructive-lung-disease",
+          "display": "obstructive lung disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obstructive lung disease",
       "concept": {
         "text": "obstructive lung disease"
       }

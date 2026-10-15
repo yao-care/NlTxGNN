@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "atypical-hemolytic-uremic-syndrome-with-b-factor-anomaly",
+          "display": "atypical hemolytic-uremic syndrome with B factor anomaly"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "atypical hemolytic-uremic syndrome with B factor anomaly",
       "concept": {
         "text": "atypical hemolytic-uremic syndrome with B factor anomaly"
       }

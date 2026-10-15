@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "king-denborough-syndrome",
+          "display": "King-Denborough syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "King-Denborough syndrome",
       "concept": {
         "text": "King-Denborough syndrome"
       }

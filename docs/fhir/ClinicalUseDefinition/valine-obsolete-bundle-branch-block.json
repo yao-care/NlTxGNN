@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obsolete-bundle-branch-block",
+          "display": "obsolete bundle branch block"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obsolete bundle branch block",
       "concept": {
         "text": "obsolete bundle branch block"
       }

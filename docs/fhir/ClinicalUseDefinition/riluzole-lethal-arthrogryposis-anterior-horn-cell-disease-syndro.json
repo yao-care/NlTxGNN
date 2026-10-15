@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "lethal-arthrogryposis-anterior-horn-cell-disease-syndrome",
+          "display": "lethal arthrogryposis-anterior horn cell disease syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "lethal arthrogryposis-anterior horn cell disease syndrome",
       "concept": {
         "text": "lethal arthrogryposis-anterior horn cell disease syndrome"
       }

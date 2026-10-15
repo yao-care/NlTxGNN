@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "alopecia-antibody-deficiency",
+          "display": "alopecia antibody deficiency"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "alopecia antibody deficiency",
       "concept": {
         "text": "alopecia antibody deficiency"
       }

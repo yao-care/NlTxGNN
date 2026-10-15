@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "lymph-node-cancer",
+          "display": "lymph node cancer"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "lymph node cancer",
       "concept": {
         "text": "lymph node cancer"
       }

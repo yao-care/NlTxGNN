@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "endometriosis-in-cutaneous-scar",
+          "display": "endometriosis in cutaneous scar"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "endometriosis in cutaneous scar",
       "concept": {
         "text": "endometriosis in cutaneous scar"
       }

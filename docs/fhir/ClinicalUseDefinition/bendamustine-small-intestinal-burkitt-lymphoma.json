@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "small-intestinal-burkitt-lymphoma",
+          "display": "small intestinal Burkitt lymphoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "small intestinal Burkitt lymphoma",
       "concept": {
         "text": "small intestinal Burkitt lymphoma"
       }

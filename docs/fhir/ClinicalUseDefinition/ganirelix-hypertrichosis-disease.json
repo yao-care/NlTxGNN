@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypertrichosis-disease",
+          "display": "hypertrichosis (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypertrichosis (disease)",
       "concept": {
         "text": "hypertrichosis (disease)"
       }

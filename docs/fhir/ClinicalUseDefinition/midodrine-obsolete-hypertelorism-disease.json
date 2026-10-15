@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obsolete-hypertelorism-disease",
+          "display": "obsolete hypertelorism (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obsolete hypertelorism (disease)",
       "concept": {
         "text": "obsolete hypertelorism (disease)"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "flood-factor-deficiency",
+          "display": "flood factor deficiency"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "flood factor deficiency",
       "concept": {
         "text": "flood factor deficiency"
       }

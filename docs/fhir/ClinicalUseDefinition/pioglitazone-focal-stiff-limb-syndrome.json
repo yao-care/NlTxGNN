@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "focal-stiff-limb-syndrome",
+          "display": "focal stiff limb syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "focal stiff limb syndrome",
       "concept": {
         "text": "focal stiff limb syndrome"
       }

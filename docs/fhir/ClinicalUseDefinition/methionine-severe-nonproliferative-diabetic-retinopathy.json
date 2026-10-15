@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "severe-nonproliferative-diabetic-retinopathy",
+          "display": "severe nonproliferative diabetic retinopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "severe nonproliferative diabetic retinopathy",
       "concept": {
         "text": "severe nonproliferative diabetic retinopathy"
       }

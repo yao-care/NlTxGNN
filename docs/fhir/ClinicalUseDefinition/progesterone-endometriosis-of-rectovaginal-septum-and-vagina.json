@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "endometriosis-of-rectovaginal-septum-and-vagina",
+          "display": "endometriosis of rectovaginal septum and vagina"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "endometriosis of rectovaginal septum and vagina",
       "concept": {
         "text": "endometriosis of rectovaginal septum and vagina"
       }

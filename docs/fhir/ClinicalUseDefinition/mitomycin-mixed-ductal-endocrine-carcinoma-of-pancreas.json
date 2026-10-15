@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "mixed-ductal-endocrine-carcinoma-of-pancreas",
+          "display": "mixed ductal-endocrine carcinoma of pancreas"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "mixed ductal-endocrine carcinoma of pancreas",
       "concept": {
         "text": "mixed ductal-endocrine carcinoma of pancreas"
       }

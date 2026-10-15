@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hypercholesterolemia-due-to-cholesterol-7alpha-hydroxylase-deficiency",
+          "display": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
       "concept": {
         "text": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
       }

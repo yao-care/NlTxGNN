@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "disease-of-orbital-region",
+          "display": "disease of orbital region"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "disease of orbital region",
       "concept": {
         "text": "disease of orbital region"
       }

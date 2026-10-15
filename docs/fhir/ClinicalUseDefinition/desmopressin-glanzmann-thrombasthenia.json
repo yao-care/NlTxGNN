@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "glanzmann-thrombasthenia",
+          "display": "Glanzmann thrombasthenia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Glanzmann thrombasthenia",
       "concept": {
         "text": "Glanzmann thrombasthenia"
       }

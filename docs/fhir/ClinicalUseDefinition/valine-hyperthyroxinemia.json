@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hyperthyroxinemia",
+          "display": "hyperthyroxinemia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hyperthyroxinemia",
       "concept": {
         "text": "hyperthyroxinemia"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "papular-urticaria",
+          "display": "papular urticaria"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "papular urticaria",
       "concept": {
         "text": "papular urticaria"
       }

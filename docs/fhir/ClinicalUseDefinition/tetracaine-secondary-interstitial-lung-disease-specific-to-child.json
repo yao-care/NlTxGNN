@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "secondary-interstitial-lung-disease-specific-to-childhood-associated-with-a-connective-tissue-disease",
+          "display": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
       "concept": {
         "text": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "whim-syndrome",
+          "display": "WHIM syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "WHIM syndrome",
       "concept": {
         "text": "WHIM syndrome"
       }

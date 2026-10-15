@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "vulvovaginal-candidiasis",
+          "display": "vulvovaginal candidiasis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "vulvovaginal candidiasis",
       "concept": {
         "text": "vulvovaginal candidiasis"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "hormone-resistant-breast-carcinoma",
+          "display": "hormone-resistant breast carcinoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "hormone-resistant breast carcinoma",
       "concept": {
         "text": "hormone-resistant breast carcinoma"
       }

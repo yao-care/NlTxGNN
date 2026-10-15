@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "congenital-multicore-myopathy-with-external-ophthalmoplegia",
+          "display": "congenital multicore myopathy with external ophthalmoplegia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "congenital multicore myopathy with external ophthalmoplegia",
       "concept": {
         "text": "congenital multicore myopathy with external ophthalmoplegia"
       }

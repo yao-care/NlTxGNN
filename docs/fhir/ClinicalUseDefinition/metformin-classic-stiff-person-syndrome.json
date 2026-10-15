@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "classic-stiff-person-syndrome",
+          "display": "classic stiff person syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "classic stiff person syndrome",
       "concept": {
         "text": "classic stiff person syndrome"
       }

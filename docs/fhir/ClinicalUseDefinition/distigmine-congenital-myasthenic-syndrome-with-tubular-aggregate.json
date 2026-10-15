@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "congenital-myasthenic-syndrome-with-tubular-aggregates",
+          "display": "congenital myasthenic syndrome with tubular aggregates"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "congenital myasthenic syndrome with tubular aggregates",
       "concept": {
         "text": "congenital myasthenic syndrome with tubular aggregates"
       }

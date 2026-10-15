@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "prostate-cancer-brain-cancer-susceptibility",
+          "display": "prostate cancer/brain cancer susceptibility"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "prostate cancer/brain cancer susceptibility",
       "concept": {
         "text": "prostate cancer/brain cancer susceptibility"
       }

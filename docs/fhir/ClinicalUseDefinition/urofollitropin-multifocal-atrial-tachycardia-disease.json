@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "multifocal-atrial-tachycardia-disease",
+          "display": "multifocal atrial tachycardia (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "multifocal atrial tachycardia (disease)",
       "concept": {
         "text": "multifocal atrial tachycardia (disease)"
       }

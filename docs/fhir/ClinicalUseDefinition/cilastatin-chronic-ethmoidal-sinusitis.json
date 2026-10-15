@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "chronic-ethmoidal-sinusitis",
+          "display": "chronic ethmoidal sinusitis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "chronic ethmoidal sinusitis",
       "concept": {
         "text": "chronic ethmoidal sinusitis"
       }

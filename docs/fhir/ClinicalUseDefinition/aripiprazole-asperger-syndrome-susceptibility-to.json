@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "asperger-syndrome-susceptibility-to",
+          "display": "asperger syndrome, susceptibility to"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "asperger syndrome, susceptibility to",
       "concept": {
         "text": "asperger syndrome, susceptibility to"
       }

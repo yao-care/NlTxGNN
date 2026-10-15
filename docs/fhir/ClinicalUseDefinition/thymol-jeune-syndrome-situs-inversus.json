@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "jeune-syndrome-situs-inversus",
+          "display": "Jeune syndrome situs inversus"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Jeune syndrome situs inversus",
       "concept": {
         "text": "Jeune syndrome situs inversus"
       }

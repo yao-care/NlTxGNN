@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "congenital-human-immunodeficiency-virus",
+          "display": "congenital human immunodeficiency virus"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "congenital human immunodeficiency virus",
       "concept": {
         "text": "congenital human immunodeficiency virus"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "smouldering-systemic-mastocytosis",
+          "display": "Smouldering systemic mastocytosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Smouldering systemic mastocytosis",
       "concept": {
         "text": "Smouldering systemic mastocytosis"
       }

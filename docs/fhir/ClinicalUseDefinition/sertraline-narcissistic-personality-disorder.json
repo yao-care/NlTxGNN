@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "narcissistic-personality-disorder",
+          "display": "narcissistic personality disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "narcissistic personality disorder",
       "concept": {
         "text": "narcissistic personality disorder"
       }

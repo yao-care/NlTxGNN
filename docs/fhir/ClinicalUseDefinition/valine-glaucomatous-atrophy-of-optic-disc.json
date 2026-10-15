@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "glaucomatous-atrophy-of-optic-disc",
+          "display": "glaucomatous atrophy of optic disc"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "glaucomatous atrophy of optic disc",
       "concept": {
         "text": "glaucomatous atrophy of optic disc"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "breast-fibrocystic-disease",
+          "display": "breast fibrocystic disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "breast fibrocystic disease",
       "concept": {
         "text": "breast fibrocystic disease"
       }

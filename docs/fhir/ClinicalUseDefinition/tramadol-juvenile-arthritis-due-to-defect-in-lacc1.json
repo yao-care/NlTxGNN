@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "juvenile-arthritis-due-to-defect-in-lacc1",
+          "display": "juvenile arthritis due to defect in LACC1"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "juvenile arthritis due to defect in LACC1",
       "concept": {
         "text": "juvenile arthritis due to defect in LACC1"
       }

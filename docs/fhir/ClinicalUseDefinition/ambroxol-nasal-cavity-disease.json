@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "nasal-cavity-disease",
+          "display": "nasal cavity disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "nasal cavity disease",
       "concept": {
         "text": "nasal cavity disease"
       }

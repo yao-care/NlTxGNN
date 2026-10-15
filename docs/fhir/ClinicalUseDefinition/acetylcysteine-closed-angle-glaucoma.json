@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "closed-angle-glaucoma",
+          "display": "closed-angle glaucoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "closed-angle glaucoma",
       "concept": {
         "text": "closed-angle glaucoma"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "extrahepatic-bile-duct-rhabdomyosarcoma",
+          "display": "extrahepatic bile duct rhabdomyosarcoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "extrahepatic bile duct rhabdomyosarcoma",
       "concept": {
         "text": "extrahepatic bile duct rhabdomyosarcoma"
       }

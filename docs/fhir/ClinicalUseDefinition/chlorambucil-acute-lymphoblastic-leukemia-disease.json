@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "acute-lymphoblastic-leukemia-disease",
+          "display": "acute lymphoblastic leukemia (disease)"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "acute lymphoblastic leukemia (disease)",
       "concept": {
         "text": "acute lymphoblastic leukemia (disease)"
       }

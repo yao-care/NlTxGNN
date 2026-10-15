@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "partial-deletion-of-the-long-arm-of-chromosome-22",
+          "display": "partial deletion of the long arm of chromosome 22"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "partial deletion of the long arm of chromosome 22",
       "concept": {
         "text": "partial deletion of the long arm of chromosome 22"
       }

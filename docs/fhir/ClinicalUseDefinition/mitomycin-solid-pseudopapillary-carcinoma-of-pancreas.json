@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "solid-pseudopapillary-carcinoma-of-pancreas",
+          "display": "solid pseudopapillary carcinoma of pancreas"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "solid pseudopapillary carcinoma of pancreas",
       "concept": {
         "text": "solid pseudopapillary carcinoma of pancreas"
       }

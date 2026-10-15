@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "acromesomelic-dysplasia-hunter-thompson-type",
+          "display": "acromesomelic dysplasia, Hunter-Thompson type"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "acromesomelic dysplasia, Hunter-Thompson type",
       "concept": {
         "text": "acromesomelic dysplasia, Hunter-Thompson type"
       }

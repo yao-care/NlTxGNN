@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "nuclear-senile-cataract",
+          "display": "nuclear senile cataract"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "nuclear senile cataract",
       "concept": {
         "text": "nuclear senile cataract"
       }

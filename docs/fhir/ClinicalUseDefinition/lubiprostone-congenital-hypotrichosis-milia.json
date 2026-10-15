@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "congenital-hypotrichosis-milia",
+          "display": "congenital hypotrichosis milia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "congenital hypotrichosis milia",
       "concept": {
         "text": "congenital hypotrichosis milia"
       }

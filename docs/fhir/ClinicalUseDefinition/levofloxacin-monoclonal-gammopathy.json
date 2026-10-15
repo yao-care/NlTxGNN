@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "monoclonal-gammopathy",
+          "display": "monoclonal gammopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "monoclonal gammopathy",
       "concept": {
         "text": "monoclonal gammopathy"
       }

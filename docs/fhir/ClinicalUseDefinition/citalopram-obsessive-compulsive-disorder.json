@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obsessive-compulsive-disorder",
+          "display": "obsessive-compulsive disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obsessive-compulsive disorder",
       "concept": {
         "text": "obsessive-compulsive disorder"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cestode-infectious-disease",
+          "display": "Cestode infectious disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Cestode infectious disease",
       "concept": {
         "text": "Cestode infectious disease"
       }

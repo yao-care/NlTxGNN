@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "ohdo-syndrome-and-variants",
+          "display": "Ohdo syndrome and variants"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Ohdo syndrome and variants",
       "concept": {
         "text": "Ohdo syndrome and variants"
       }

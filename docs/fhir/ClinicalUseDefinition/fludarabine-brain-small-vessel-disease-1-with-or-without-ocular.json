@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "brain-small-vessel-disease-1-with-or-without-ocular-anomalies",
+          "display": "brain small vessel disease 1 with or without ocular anomalies"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "brain small vessel disease 1 with or without ocular anomalies",
       "concept": {
         "text": "brain small vessel disease 1 with or without ocular anomalies"
       }

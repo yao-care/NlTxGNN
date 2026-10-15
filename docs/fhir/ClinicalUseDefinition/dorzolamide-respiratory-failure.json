@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "respiratory-failure",
+          "display": "respiratory failure"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "respiratory failure",
       "concept": {
         "text": "respiratory failure"
       }

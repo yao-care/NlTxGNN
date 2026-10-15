@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "bubonic-plague",
+          "display": "bubonic plague"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "bubonic plague",
       "concept": {
         "text": "bubonic plague"
       }

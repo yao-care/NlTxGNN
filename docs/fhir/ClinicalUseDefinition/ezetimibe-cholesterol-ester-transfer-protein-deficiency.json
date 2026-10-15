@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cholesterol-ester-transfer-protein-deficiency",
+          "display": "cholesterol-ester transfer protein deficiency"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "cholesterol-ester transfer protein deficiency",
       "concept": {
         "text": "cholesterol-ester transfer protein deficiency"
       }

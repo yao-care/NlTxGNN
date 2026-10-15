@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "autoimmune-disease-of-peripheral-nervous-system",
+          "display": "autoimmune disease of peripheral nervous system"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "autoimmune disease of peripheral nervous system",
       "concept": {
         "text": "autoimmune disease of peripheral nervous system"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cerebrovascular-disorder",
+          "display": "cerebrovascular disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "cerebrovascular disorder",
       "concept": {
         "text": "cerebrovascular disorder"
       }

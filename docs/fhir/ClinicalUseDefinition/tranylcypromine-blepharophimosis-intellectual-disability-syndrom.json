@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "blepharophimosis-intellectual-disability-syndrome-ohdo-type",
+          "display": "blepharophimosis - intellectual disability syndrome, Ohdo type"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "blepharophimosis - intellectual disability syndrome, Ohdo type",
       "concept": {
         "text": "blepharophimosis - intellectual disability syndrome, Ohdo type"
       }

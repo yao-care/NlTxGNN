@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "lung-mixed-small-cell-and-squamous-cell-carcinoma",
+          "display": "lung mixed small cell and squamous cell carcinoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "lung mixed small cell and squamous cell carcinoma",
       "concept": {
         "text": "lung mixed small cell and squamous cell carcinoma"
       }

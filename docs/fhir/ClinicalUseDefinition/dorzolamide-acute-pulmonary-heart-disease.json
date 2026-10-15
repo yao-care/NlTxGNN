@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "acute-pulmonary-heart-disease",
+          "display": "acute pulmonary heart disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "acute pulmonary heart disease",
       "concept": {
         "text": "acute pulmonary heart disease"
       }

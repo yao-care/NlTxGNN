@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "amyotrohpic-lateral-sclerosis-type-22",
+          "display": "amyotrohpic lateral sclerosis type 22"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "amyotrohpic lateral sclerosis type 22",
       "concept": {
         "text": "amyotrohpic lateral sclerosis type 22"
       }

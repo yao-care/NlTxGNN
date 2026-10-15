@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "variably-protease-sensitive-prionopathy",
+          "display": "variably protease-sensitive prionopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "variably protease-sensitive prionopathy",
       "concept": {
         "text": "variably protease-sensitive prionopathy"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "congenital-hematological-disorder",
+          "display": "congenital hematological disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "congenital hematological disorder",
       "concept": {
         "text": "congenital hematological disorder"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "myasthenia-congenital-refractory-to-acetylcholinesterase-inhibitors",
+          "display": "myasthenia, congenital, refractory to acetylcholinesterase inhibitors"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "myasthenia, congenital, refractory to acetylcholinesterase inhibitors",
       "concept": {
         "text": "myasthenia, congenital, refractory to acetylcholinesterase inhibitors"
       }

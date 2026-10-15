@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "extrapyramidal-and-movement-disease",
+          "display": "extrapyramidal and movement disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "extrapyramidal and movement disease",
       "concept": {
         "text": "extrapyramidal and movement disease"
       }

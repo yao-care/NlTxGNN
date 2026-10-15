@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pregerminal-center-chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma",
+          "display": "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
       "concept": {
         "text": "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma"
       }

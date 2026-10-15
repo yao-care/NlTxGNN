@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "dysthymic-disorder",
+          "display": "dysthymic disorder"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "dysthymic disorder",
       "concept": {
         "text": "dysthymic disorder"
       }

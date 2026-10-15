@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "benign-paroxysmal-torticollis-of-infancy",
+          "display": "benign paroxysmal torticollis of infancy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "benign paroxysmal torticollis of infancy",
       "concept": {
         "text": "benign paroxysmal torticollis of infancy"
       }

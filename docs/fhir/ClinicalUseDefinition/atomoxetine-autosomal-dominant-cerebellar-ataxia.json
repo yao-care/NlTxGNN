@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "autosomal-dominant-cerebellar-ataxia",
+          "display": "autosomal dominant cerebellar ataxia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "autosomal dominant cerebellar ataxia",
       "concept": {
         "text": "autosomal dominant cerebellar ataxia"
       }

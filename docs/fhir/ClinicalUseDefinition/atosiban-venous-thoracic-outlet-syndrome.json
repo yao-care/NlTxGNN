@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "venous-thoracic-outlet-syndrome",
+          "display": "venous thoracic outlet syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "venous thoracic outlet syndrome",
       "concept": {
         "text": "venous thoracic outlet syndrome"
       }

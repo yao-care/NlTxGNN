@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "retinal-dystrophy-with-or-without-extraocular-anomalies",
+          "display": "retinal dystrophy with or without extraocular anomalies"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "retinal dystrophy with or without extraocular anomalies",
       "concept": {
         "text": "retinal dystrophy with or without extraocular anomalies"
       }

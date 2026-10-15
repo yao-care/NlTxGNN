@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "acne-keloid",
+          "display": "acne keloid"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "acne keloid",
       "concept": {
         "text": "acne keloid"
       }

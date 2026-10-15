@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "myopia-26-x-linked-female-limited",
+          "display": "myopia 26, X-linked, female-limited"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "myopia 26, X-linked, female-limited",
       "concept": {
         "text": "myopia 26, X-linked, female-limited"
       }

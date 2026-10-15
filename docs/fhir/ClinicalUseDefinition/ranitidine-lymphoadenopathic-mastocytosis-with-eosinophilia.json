@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "lymphoadenopathic-mastocytosis-with-eosinophilia",
+          "display": "lymphoadenopathic mastocytosis with eosinophilia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "lymphoadenopathic mastocytosis with eosinophilia",
       "concept": {
         "text": "lymphoadenopathic mastocytosis with eosinophilia"
       }

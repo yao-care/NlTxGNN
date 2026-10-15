@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malignant-visceral-pleura-tumor",
+          "display": "malignant visceral pleura tumor"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malignant visceral pleura tumor",
       "concept": {
         "text": "malignant visceral pleura tumor"
       }

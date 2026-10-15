@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "ambras-type-hypertrichosis-universalis-congenita",
+          "display": "Ambras type hypertrichosis universalis congenita"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Ambras type hypertrichosis universalis congenita",
       "concept": {
         "text": "Ambras type hypertrichosis universalis congenita"
       }

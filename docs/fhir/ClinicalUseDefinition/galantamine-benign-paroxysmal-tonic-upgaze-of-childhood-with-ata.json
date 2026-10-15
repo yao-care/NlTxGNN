@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "benign-paroxysmal-tonic-upgaze-of-childhood-with-ataxia",
+          "display": "benign paroxysmal tonic upgaze of childhood with ataxia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "benign paroxysmal tonic upgaze of childhood with ataxia",
       "concept": {
         "text": "benign paroxysmal tonic upgaze of childhood with ataxia"
       }

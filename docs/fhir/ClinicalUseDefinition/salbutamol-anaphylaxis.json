@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "anaphylaxis",
+          "display": "anaphylaxis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "anaphylaxis",
       "concept": {
         "text": "anaphylaxis"
       }

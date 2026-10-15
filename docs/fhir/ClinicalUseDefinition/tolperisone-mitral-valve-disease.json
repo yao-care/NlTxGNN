@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "mitral-valve-disease",
+          "display": "mitral valve disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "mitral valve disease",
       "concept": {
         "text": "mitral valve disease"
       }

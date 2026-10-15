@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "benign-shuddering-attacks",
+          "display": "benign shuddering attacks"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "benign shuddering attacks",
       "concept": {
         "text": "benign shuddering attacks"
       }

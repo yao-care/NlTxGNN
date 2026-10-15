@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pancreatic-intraductal-papillary-mucinous-carcinoma",
+          "display": "pancreatic intraductal papillary-mucinous carcinoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "pancreatic intraductal papillary-mucinous carcinoma",
       "concept": {
         "text": "pancreatic intraductal papillary-mucinous carcinoma"
       }

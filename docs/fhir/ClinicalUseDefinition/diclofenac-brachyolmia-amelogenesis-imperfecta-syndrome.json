@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "brachyolmia-amelogenesis-imperfecta-syndrome",
+          "display": "brachyolmia-amelogenesis imperfecta syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "brachyolmia-amelogenesis imperfecta syndrome",
       "concept": {
         "text": "brachyolmia-amelogenesis imperfecta syndrome"
       }

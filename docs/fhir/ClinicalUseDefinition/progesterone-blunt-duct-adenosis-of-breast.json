@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "blunt-duct-adenosis-of-breast",
+          "display": "blunt duct adenosis of breast"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "blunt duct adenosis of breast",
       "concept": {
         "text": "blunt duct adenosis of breast"
       }

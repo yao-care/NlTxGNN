@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "infection-related-hemolytic-uremic-syndrome",
+          "display": "infection-related hemolytic uremic syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "infection-related hemolytic uremic syndrome",
       "concept": {
         "text": "infection-related hemolytic uremic syndrome"
       }

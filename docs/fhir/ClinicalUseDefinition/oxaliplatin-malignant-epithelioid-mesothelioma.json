@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "malignant-epithelioid-mesothelioma",
+          "display": "malignant epithelioid mesothelioma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "malignant epithelioid mesothelioma",
       "concept": {
         "text": "malignant epithelioid mesothelioma"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "isolated-genetic-hair-shaft-abnormality",
+          "display": "isolated genetic hair shaft abnormality"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "isolated genetic hair shaft abnormality",
       "concept": {
         "text": "isolated genetic hair shaft abnormality"
       }

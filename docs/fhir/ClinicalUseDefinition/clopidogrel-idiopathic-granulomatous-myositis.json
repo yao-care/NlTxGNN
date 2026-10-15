@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "idiopathic-granulomatous-myositis",
+          "display": "idiopathic granulomatous myositis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "idiopathic granulomatous myositis",
       "concept": {
         "text": "idiopathic granulomatous myositis"
       }

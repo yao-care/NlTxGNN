@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "breast-mucosa-associated-lymphoid-tissue-lymphoma",
+          "display": "breast mucosa-associated lymphoid tissue lymphoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "breast mucosa-associated lymphoid tissue lymphoma",
       "concept": {
         "text": "breast mucosa-associated lymphoid tissue lymphoma"
       }

@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "reticulum-cell-sarcoma",
+          "display": "reticulum cell sarcoma"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "reticulum cell sarcoma",
       "concept": {
         "text": "reticulum cell sarcoma"
       }

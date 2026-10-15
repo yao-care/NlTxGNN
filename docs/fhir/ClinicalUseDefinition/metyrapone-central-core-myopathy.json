@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "central-core-myopathy",
+          "display": "central core myopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "central core myopathy",
       "concept": {
         "text": "central core myopathy"
       }

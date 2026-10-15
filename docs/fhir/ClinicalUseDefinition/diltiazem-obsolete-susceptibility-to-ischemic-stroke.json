@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "obsolete-susceptibility-to-ischemic-stroke",
+          "display": "obsolete susceptibility to ischemic stroke"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "obsolete susceptibility to ischemic stroke",
       "concept": {
         "text": "obsolete susceptibility to ischemic stroke"
       }

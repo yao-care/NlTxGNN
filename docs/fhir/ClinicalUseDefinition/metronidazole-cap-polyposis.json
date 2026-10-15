@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "cap-polyposis",
+          "display": "cap polyposis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "cap polyposis",
       "concept": {
         "text": "cap polyposis"
       }

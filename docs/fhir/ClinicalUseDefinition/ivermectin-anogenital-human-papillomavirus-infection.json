@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "anogenital-human-papillomavirus-infection",
+          "display": "anogenital human papillomavirus infection"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "anogenital human papillomavirus infection",
       "concept": {
         "text": "anogenital human papillomavirus infection"
       }

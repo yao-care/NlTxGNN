@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "primitive-portal-vein-thrombosis",
+          "display": "primitive portal vein thrombosis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "primitive portal vein thrombosis",
       "concept": {
         "text": "primitive portal vein thrombosis"
       }

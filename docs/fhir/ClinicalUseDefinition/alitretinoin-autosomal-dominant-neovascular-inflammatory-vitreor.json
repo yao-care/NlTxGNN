@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "autosomal-dominant-neovascular-inflammatory-vitreoretinopathy",
+          "display": "autosomal dominant neovascular inflammatory vitreoretinopathy"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "autosomal dominant neovascular inflammatory vitreoretinopathy",
       "concept": {
         "text": "autosomal dominant neovascular inflammatory vitreoretinopathy"
       }

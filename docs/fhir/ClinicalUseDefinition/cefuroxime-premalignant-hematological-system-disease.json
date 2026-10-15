@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "premalignant-hematological-system-disease",
+          "display": "premalignant hematological system disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "premalignant hematological system disease",
       "concept": {
         "text": "premalignant hematological system disease"
       }

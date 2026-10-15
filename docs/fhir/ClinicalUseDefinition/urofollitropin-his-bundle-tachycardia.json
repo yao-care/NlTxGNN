@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "his-bundle-tachycardia",
+          "display": "His bundle tachycardia"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "His bundle tachycardia",
       "concept": {
         "text": "His bundle tachycardia"
       }

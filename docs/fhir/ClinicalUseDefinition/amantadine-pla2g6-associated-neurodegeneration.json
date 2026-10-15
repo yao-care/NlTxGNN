@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "pla2g6-associated-neurodegeneration",
+          "display": "PLA2G6-associated neurodegeneration"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "PLA2G6-associated neurodegeneration",
       "concept": {
         "text": "PLA2G6-associated neurodegeneration"
       }

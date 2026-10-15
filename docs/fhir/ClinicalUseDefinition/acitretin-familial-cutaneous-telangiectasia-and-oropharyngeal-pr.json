@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "familial-cutaneous-telangiectasia-and-oropharyngeal-predisposition-cancer-syndrome",
+          "display": "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome",
       "concept": {
         "text": "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"
       }

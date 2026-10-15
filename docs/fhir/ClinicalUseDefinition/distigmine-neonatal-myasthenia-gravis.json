@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "neonatal-myasthenia-gravis",
+          "display": "neonatal myasthenia gravis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "neonatal myasthenia gravis",
       "concept": {
         "text": "neonatal myasthenia gravis"
       }

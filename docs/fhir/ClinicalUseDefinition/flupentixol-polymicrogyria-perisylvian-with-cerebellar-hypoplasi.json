@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "polymicrogyria-perisylvian-with-cerebellar-hypoplasia-and-arthrogryposis",
+          "display": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
       "concept": {
         "text": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
       }

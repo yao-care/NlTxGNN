@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "peptic-ulcer-perforation",
+          "display": "peptic ulcer perforation"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "peptic ulcer perforation",
       "concept": {
         "text": "peptic ulcer perforation"
       }

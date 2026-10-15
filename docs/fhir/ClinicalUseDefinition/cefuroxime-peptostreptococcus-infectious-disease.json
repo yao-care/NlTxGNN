@@ -18,11 +18,11 @@
       "coding": [
         {
           "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acral-peeling-skin-syndrome",
-          "display": "acral peeling skin syndrome"
+          "code": "peptostreptococcus-infectious-disease",
+          "display": "Peptostreptococcus infectious disease"
         }
       ],
-      "text": "acral peeling skin syndrome",
+      "text": "Peptostreptococcus infectious disease",
       "concept": {
         "text": "Peptostreptococcus infectious disease"
       }

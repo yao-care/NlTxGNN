@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-14T21:15:11.017980+00:00",
-  "count": 6,
+  "fetched_at": "2026-10-15T03:02:45.367354+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het Parool6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
-        }
-      ]
-    },
     {
       "id": "60bf30da99ec",
       "title": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -28,14 +16,14 @@
       ]
     },
     {
-      "id": "377e783290b8",
-      "title": "Leidsche Rijn voegt zich bij wijken met zeer lage vaccinatiegraad: 'We maken ons zorgen' - RTV Utrecht",
-      "published": "2026-10-13T06:32:15+00:00",
-      "summary": "Leidsche Rijn voegt zich bij wijken met zeer lage vaccinatiegraad: 'We maken ons zorgen'&nbsp;&nbsp;RTV UtrechtVaccinatiegraad onder Utrechtse kinderen blijft dalen: vooral in Overvecht grote zorgen&nbsp;&nbsp;De Utrechtse Internet Courant",
+      "id": "ccccb9ec3563",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
+      "published": "2026-10-12T19:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het Parool6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ",
       "sources": [
         {
-          "name": "RTV Utrecht",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazBvZTdqNUFiandMVWl6QnJCcmdiZ1FOYmhwbzQ1ck1jR1F3X2RXbVdYWlV2aEFhUl94OXlWX1pZaVJoSW9QZmR1ZExrNHpVQnI4MTNiRHVsX05DdFY4TDhLeWJTbWstWTZicWlaaFAyZndyMmZCY2NmRmJxUzZBRkZCcGpjaHQ1dnlDNlZUUUYtWWtWZjlka2NodlliNnBYNU1FeU5KSlpfNTlBbE0zQUhrczdEalRmck1ibDlhVVRyRGZE?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
         }
       ]
     },

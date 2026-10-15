@@ -1,8 +1,44 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-15T03:02:45.367354+00:00",
-  "count": 5,
+  "fetched_at": "2026-10-15T10:48:11.821706+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "eef1ee439a08",
+      "title": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen - de Stentor",
+      "published": "2026-10-14T19:30:43+00:00",
+      "summary": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen&nbsp;&nbsp;de StentorWestnijlvirus bleef bij duizenden Nederlanders onopgemerkt&nbsp;&nbsp;NUTwee doden in België door westnijlvirus, ook nieuwe besmettingen in Nederland&nbsp;&nbsp;AD.nlTwee personen in Vlaanderen overleden na besmetting met westnijlvirus&nbsp;&nbsp;VRTRIVM registreert vijf nieuwe gevallen van westnijlvirus&nbsp;&nbsp;Haarlems Dagblad",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0VsczFNM211RXFWd3lQcDB0NXZ1clozcFFvaDZjOWh0OFQyTmdyRHlMSEROLVFTZUllcDRkaXYySDNhOXBRWGpOWHo2X1hRUEZyWEJTbDBnaEItcmdyRjIwZlJnZ1ZVelc5cDZkMVVkWXZuX05OWU00R2c2MGhjdzM2bUtuRDB6QmI3RkVGYUwxLVBEQUhHQXBTYVU0alFKMW9Ya25IUmdGS3Z2bGNfaGpLRVZWR3hTOUxFeVlEZURKaHRMRm5qWGN0UUZMWW5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a98a9738875b",
+      "title": "Deze pil op deze pil: een opstapeling van medicijnen - NPO Radio 1",
+      "published": "2026-10-14T15:03:41+00:00",
+      "summary": "Deze pil op deze pil: een opstapeling van medicijnen&nbsp;&nbsp;NPO Radio 1Meer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdEs1VGxsamZYUlozekxqOFJacVNLdERHaHJEcjdpZ1Rld01LRDZTRHZOdmxORE82bzhUS2pxdVlWVnpXdmVlLXVTSFItci1TVGoyQ2FJTEZPbWRqZ0VoRXpSeG9URmtyYmNFQms4TE1ob0E0UmNwZGc0bDlhTGkxZkd4a1dSZlIyTVRzN04wRFBtZmxfZEtZOFNGQmQxWDdWT2I0VlU2M0ZfSEE5cGk2NVc1MVNBMlZsb1RwME5FVHo5WVZlcDZrSV9OVVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccccb9ec3563",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
+      "published": "2026-10-12T19:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het ParoolGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
+        }
+      ]
+    },
     {
       "id": "60bf30da99ec",
       "title": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -12,18 +48,6 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTl9zb1UyaUhSQ3QzVFNvZjhiaEhjb0F6QXAxazRKYmlvRzc0NURYUjRfbUtLRDRJYWl3bUZuMU1IOThPTzI3Z1MwamFCOUYzSEh5bVhYT3R4OWFwUGtDd24xQWl1R3JoN29uZ01CeWJkYmltSmlmSFNtbFozNGN5YllHNGVEczVQTW0yVVdnMFZwZ3ppcVp0TmQ3SHl1MVRibFQ3S0FmcHNRWlhoVlppem0zVzlQdngtcHNLaXlNVnlCMFpxU1A3N0VCbWpQRmVQLXdiOWcwMlJqTllOdWd4b2tMN1BfU0dtZnZoM1pydWRXOXJnN0Nn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het Parool6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
         }
       ]
     },
@@ -40,14 +64,14 @@
       ]
     },
     {
-      "id": "c53d119204dc",
-      "title": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen' - RTL.nl",
-      "published": "2026-10-13T07:16:19+00:00",
-      "summary": "Mentale druk onder jongeren neemt toe: 'Je hoeft er niet alleen mee rond te lopen'&nbsp;&nbsp;RTL.nlPraten over je mentale problemen? Teri (28) raadt het andere jongeren aan: 'Je hebt een soort spiegel nodig'&nbsp;&nbsp;EenVandaagEén op de drie jongeren kampt met mentale problemen: 'Voor sommigen is het leven gewoon te zwaar'&nbsp;&nbsp;Omroep WestJongeren praten makkelijker over mentale gezondheid, maar 1 op de 6 raakte er wel vrienden door kwijt&nbsp;&nbsp;EenVandaag",
+      "id": "a520c70092d2",
+      "title": "Doden en besmettingen door westnijlvirus, maar nog geen vaccin - NU",
+      "published": "2026-10-08T18:13:33+00:00",
+      "summary": "Doden en besmettingen door westnijlvirus, maar nog geen vaccin&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZkUtaVdoamwwNVh4dWdEN3g0SERERWlRSlFtc1oxdGVIRGMtTDVTUGNrM01IeDlkcEJCMEt4WDdWU2dzRDNkQU91Z3IxeTlObUpKTXNCa0hwalMtOGF2MG9WQ0JCWHA1TENiSklCMW9Fci04Q0xTTi1YcWdTWU5URGNGZjRYYUQyYzVYc1BpNkZqdVJabmdmcGs5N1BzX0N1NFRHSHQwUDVNbWxrSTZKWjZBeDFzd25K?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR253Y0lrQTZtNVN6S0d6X2ZwbUNwYUhFa21TbUttWFBXdUluMV9nbVpGdEpmcXltU2FlVlU5ejlBUGJraFJlSUZZRzB2bDc3SDRhOGJ0SEFZcmNjQVVUektSbUh4R0FDcW1wakMwMXdWc3dIcjZtS3V6YkRsZHJ2OExSTWxRRDFHajd6WlFlRlJzWkkzSXVDc04weGp0YlU?oc=5"
         }
       ]
     },
@@ -60,6 +84,18 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ff6e84f2c27",
+      "title": "Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’ - Knack",
+      "published": "2026-10-15T03:00:00+00:00",
+      "summary": "Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’&nbsp;&nbsp;Knack",
+      "sources": [
+        {
+          "name": "Knack",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5"
         }
       ]
     }

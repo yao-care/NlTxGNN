@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Irbesartan?">
-<strong>Irbesartan</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 4 voorspelde indicaties.
+<strong>Irbesartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Irbesartan met het 
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
-
-### [Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker: Europees comité geeft groen licht - De Telegraaf](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjlNUWlRWks3b1NPblFENmtHMEVEMXRsSEpoSm40M2JLTElGZ0F4eFc4dkxFVlRIUklpbzJYWThqeWptTUs2T3ZUNENVMF93dmQ3aVBKRk5mcjg0dk9ZaVBNZkt6SkpOZm5wbkNMT29STWticG1ZT2REbHFwYkpKU0k5Rk5DVGJKN3F1VXAwcHB2U0lOakhBWkxiS2luRkJVQXhWR1FCTzBDNUNTc3BBUUNHRld0QUphZzRxaGx5S3plazV1RkxsbjFOeGZSZlVsSHBYeWRlWHYzVzg0SXc?oc=5)
-
-2026-10-15 <span class="news-indication-tag">kanker</span>
-
-Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjlNUWlRWks3b1NPblFENmtHMEVEMXRsSEpoSm40M2JLTElGZ0F4eFc4dkxFVlRIUklpbzJYWThqeWptTUs2T3ZUNENVMF93dmQ3aVBKRk5mcjg0dk9ZaVBNZkt6SkpOZm5wbkNMT29STWticG1ZT2REbHFwYkpKU0k5Rk5DVGJKN3F1VXAwcHB2U0lOakhBWkxiS2luRkJVQXhWR1FCTzBDNUNTc3BBUUNHRld0QUphZzRxaGx5S3plazV1RkxsbjFOeGZSZlVsSHBYeWRlWHYzVzg0SXc?oc=5)
-
----
+## Gerelateerd nieuws (2)
 
 ### [Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
 

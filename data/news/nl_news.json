@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-15T16:14:36.417522+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-15T20:53:30.610948+00:00",
+  "count": 7,
   "news": [
-    {
-      "id": "8bb9d56f1531",
-      "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker: Europees comité geeft groen licht - De Telegraaf",
-      "published": "2026-10-15T15:36:42+00:00",
-      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker: Europees comité geeft groen licht&nbsp;&nbsp;De TelegraafMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjlNUWlRWks3b1NPblFENmtHMEVEMXRsSEpoSm40M2JLTElGZ0F4eFc4dkxFVlRIUklpbzJYWThqeWptTUs2T3ZUNENVMF93dmQ3aVBKRk5mcjg0dk9ZaVBNZkt6SkpOZm5wbkNMT29STWticG1ZT2REbHFwYkpKU0k5Rk5DVGJKN3F1VXAwcHB2U0lOakhBWkxiS2luRkJVQXhWR1FCTzBDNUNTc3BBUUNHRld0QUphZzRxaGx5S3plazV1RkxsbjFOeGZSZlVsSHBYeWRlWHYzVzg0SXc?oc=5"
-        }
-      ]
-    },
     {
       "id": "a98a9738875b",
       "title": "Deze pil op deze pil: een opstapeling van medicijnen - NPO Radio 1",
@@ -28,26 +16,14 @@
       ]
     },
     {
-      "id": "60bf30da99ec",
-      "title": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-13T14:01:05+00:00",
-      "summary": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekIn de VS gaat het mazelenvirus weer rond. ‘Nu vrees ik dat ook pokken kunnen terugkeren. Of polio’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMazelen zijn erger dan je denkt&nbsp;&nbsp;EOS WetenschapCDC stuurt extra ondersteuning naar Pennsylvania om mazelenuitbraak te onderzoeken&nbsp;&nbsp",
+      "id": "ad51d3ac7b47",
+      "title": "Griepseizoen komt eraan, maar de prik is vertraagd: dit is waarom - EenVandaag",
+      "published": "2026-10-12T17:34:23+00:00",
+      "summary": "Griepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het ParoolGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTl9zb1UyaUhSQ3QzVFNvZjhiaEhjb0F6QXAxazRKYmlvRzc0NURYUjRfbUtLRDRJYWl3bUZuMU1IOThPTzI3Z1MwamFCOUYzSEh5bVhYT3R4OWFwUGtDd24xQWl1R3JoN29uZ01CeWJkYmltSmlmSFNtbFozNGN5YllHNGVEczVQTW0yVVdnMFZwZ3ppcVp0TmQ3SHl1MVRibFQ3S0FmcHNRWlhoVlppem0zVzlQdngtcHNLaXlNVnlCMFpxU1A3N0VCbWpQRmVQLXdiOWcwMlJqTllOdWd4b2tMN1BfU0dtZnZoM1pydWRXOXJnN0Nn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagChronisch zieken slaan griepprik massaal af, terwijl juist zij kwetsbaar zijn: ‘Mensen onderschatten griep’&nbsp;&nbsp;Het ParoolGriepprik gaat weer van start&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTYtVk5VSTZBX0h5SXBDWENseTkteTB1N2hNRkVidzNyWDNHNFNEVkhDQ1hGRVNsbjFUbHBWMFFETTZHREhPMU1XYy1Qa1ZBYlYzOTBIeTlPUjdxbTFGaFFBM1UzOW9iYXhwZ2puR2lGS21DQktmRkpHNXRacFZLMkFTRXpQa3g4WURmdGZ2Z2hFbjQtdE03eE1lMk9ydmJsWkw2WU5sUFpfczBWU0ZfMQ?oc=5"
         }
       ]
     },
@@ -66,7 +42,7 @@
     {
       "id": "5bfd3b813684",
       "title": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest - De Gelderlander",
-      "published": "2026-10-12T08:12:18+00:00",
+      "published": "2026-10-12T04:00:00+00:00",
       "summary": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest&nbsp;&nbsp;De GelderlanderSpoedeisende behandeling voor veel ernstig zieke patiënten met pijn op de borst: wees alert op symptomen die gemakkelijk verkeerd kunnen worden geïnterpreteerd.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
@@ -84,6 +60,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV05RNmh2dzNVV2NXSlh0VWp1UEx5NW5qbWZqRFJwV2dkdVhDMm5FVXpQY2h1OWJfbkhWbHhVV29JdG4wRWdKTW5PU2NpREpLWm0yYXo1OUVJZGg2TmYtWWx6YUU2YUQ5bkZqVFJtWGpXWXF5MURIU1pDMk1GVnZYaDQwcEVyZi1MeVlzcThCZXZkdFRaVkQyWFVoZjJsVW4xOFlJbjcyeVdoVk0yRkRiYlVKRzJiTXFLZDlpNlFBRTdJdGFSak5Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47fb0e06b90b",
+      "title": "Ze doet al 17 jaar onderzoek naar huidveroudering: Hieraan zou ze nooit haar geld uitgeven - Wibnet",
+      "published": "2026-10-14T18:30:33+00:00",
+      "summary": "Ze doet al 17 jaar onderzoek naar huidveroudering: Hieraan zou ze nooit haar geld uitgeven&nbsp;&nbsp;Wibnet",
+      "sources": [
+        {
+          "name": "Wibnet",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUxyZzdoU2J3c2ZhRVFHT0VhNjNRWVA2V0p0UFBQd21QM3RwSU1VR2N2Qy00NmRSTTZiUGtMQmxZWXA0NFpabDlOYWVfN2l4QkNvXzZmeHBqQmZWdk95S2phS0w0NjljcXRxcXNORW9zUnJYcVNFcnhmcHR4ekpjUjlNdTFGcjBGZjJtcXM0QzBJektwblpod3l0ZVozTkE4Y3U2b0xQdWxIUDlYSVVodWFHLTFIaWc2QWc?oc=5"
         }
       ]
     },

@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: Alleen modelvoorspelling (L5)
-nav_order: 77
+nav_order: 181
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,80 +29,92 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Ibuprofen: Van analgeeticum/anti-inflammatoir tot Acromesomale Dysplasie, Hunter-Thompson type
+# Ibuprofen: Van reumatoïde artritis naar acromesomelische dysplasie, type Hunter-Thompson
 
 ## Samenvatting in één zin
 
-Ibuprofen is een goed ingeburgerd niet-steroïdaal anti-inflammatoir geneesmiddel (NSAID), veel gebruikt voor pijnverlichting, koortsverlaging en ontstekingsaandoeningen zoals artritis. Het TxGNN-model voorspelt dat het effectief kan zijn voor **Acromesomale Dysplasie, Hunter-Thompson type** — een zeldzame autosomaal recessive skeletale dysplasie veroorzaakt door GDF5/CDMP1 verlies-van-functie mutaties — met **0 klinische onderzoeken** en **0 publicaties** die deze richting momenteel ondersteunen. Deze voorspelling steunt geheel op netwerktopologie en wordt vooralsnog niet ondersteund door enig klinisch of preklinisch bewijs.
+Ibuprofen is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt gebruikt bij reumatoïde artritis, artrose en andere gewrichtsaandoeningen, hoofdpijn en een open ductus arteriosus. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acromesomelische dysplasie, type Hunter-Thompson**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op een modelscore.
 
----
-
-## Snel Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele Indicatie | Niet beschikbaar in het CBG-MEB register (geen NL autorisaties gevonden in dataset) |
-| Voorspelde Nieuwe Indicatie | Acromesomale Dysplasie, Hunter-Thompson type |
-| TxGNN Voorspellingsscore | 99.74% |
+|------|------|
+| Oorspronkelijke indicatie | Reumatoïde artritis, artrose, juveniele idiopathische artritis, hoofdpijn en open ductus arteriosus (op basis van de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
+| Voorspelde nieuwe indicatie | Acromesomelische dysplasie, type Hunter-Thompson |
+| TxGNN-voorspellingsscore | 99,74% |
 | Bewijsniveau | L5 |
-| Status op Nederlandse Markt | Niet geregistreerd (geen CBG-MEB RVG autorisaties gevonden) |
-| Aantal Autorisaties | 0 |
-| Aanbevolen Besluit | Uitstel |
+| Marktstatus in Nederland | Alleen doorgehaalde registratie (vervallen) |
+| Aantal vergunningen | 1 (geen geldige) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling (on)aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Gegevens over het werkingsmechanisme van ibuprofen zijn voor dit rapport niet beschikbaar. Algemeen bekend is dat ibuprofen een niet-selectieve COX-remmer is met ontstekingsremmende en pijnstillende werking.
 
-Gedetailleerde gegevens over het werkingsmechanisme waren niet beschikbaar in dit bewijsmateriaal. Op basis van gevestigde farmacologische kennis is Ibuprofen een typisch NSAID dat beide COX-1 en COX-2 cyclo-oxygenase enzymen remt, waardoor de synthese van prostaglandines wordt onderdrukt. Dit resulteert in analgetische, anti-pyretische en anti-inflammatoire effecten. De bekende klinische toepassingen zijn onder meer musculoskeletale pijn, dysmenorroe, koorts en inflammatoire artropathieën.
+Acromesomelische dysplasie, type Hunter-Thompson is een zeldzame skeletdysplasie. De oorzaak is functieverlies van CDMP1/GDF5, wat de aanleg van kraakbeen en bot verstoort. Ibuprofen werkt niet op GDF5/BMP-signalering. Er is dus **geen onderbouwd mechanistisch verband**.
 
-Acromesomale dysplasie, Hunter-Thompson type is een uiterst zeldzame aangeboren skeletale dysplasie veroorzaakt door verlies-van-functie mutaties in het GDF5-gen (ook bekend als CDMP1). GDF5 is een lid van de bone morphogenetic protein (BMP) familie die een kritieke rol speelt in chondrocytendifferentiatie en langbeentwikkeling. De theoretische mechanische link is dat PGE2 — een downstream product van COX-2 — BMP-signalering in chondrocyten moduleert. In principe zou COX-2-remming door Ibuprofen PGE2-gemedieerde BMP-padactiviteit in kraakbeen kunnen veranderen.
+De hoge modelscore (0,997) komt waarschijnlijk voort uit nabijheid in de kennisgraaf tot gewrichts- en skeletaandoeningen zoals artropathie en artrose, en niet uit een biologische rationale. Hooguit zou ibuprofen symptomatisch pijn kunnen verlichten, maar dat is niet aangetoond.
 
-Echter, de mechanische link wordt beoordeeld als uiterst zwak en richtingonzeker. Remming van COX-2/PGE2 zou tegelijkertijd lokale ontsteking kunnen verminderen en interfereren met residuele GDF5-afhankelijke beentwikkelingssignalering — tegengestelde effecten die het netto klinische resultaat onvoorspelbaar maken. Dit is een aangeboren structurale aandoening veroorzaakt door een genetische afwijking; het is geen verworven ontstekingsaandoening. De hoge TxGNN-score weerspiegelt waarschijnlijk eerder grafieknetwerktopologische nabijheid tot andere musculoskeletale aandoeningen waarin Ibuprofen een gevestigde werking heeft, in plaats van een echte op mechanisme gebaseerde hergebruikingskans. Alle 7 TxGNN-voorspelde indicaties voor Ibuprofen in deze dataset hebben hetzelfde patroon: zeldzame skeletale of ontwikkelingsdysplasieën met L5-bewijs en aanbevelingen voor uitstel.
+## Klinisch trialbewijs
 
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Bewijs uit Klinische Onderzoeken
+## Literatuurbewijs
 
-Op dit moment zijn er geen gerelateerde klinische onderzoeken ingeschreven.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
----
+## Informatie over de Nederlandse markt
 
-## Bewijs uit Literatuur
-
-Op dit moment is er geen gerelateerde literatuur beschikbaar.
-
----
-
-## Informatie over de Nederlandse Markt
-
-Er zijn geen CBG-MEB RVG autorisaties voor Ibuprofen gevonden in de huidige dataset.
-
-> **Belangrijke opmerking**: Dit weerspiegelt waarschijnlijk een lacune in gegevensverzameling in de regelgevingspijplijn in plaats van werkelijke afwezigheid op de NL markt. Ibuprofen is een veel geautoriseerd OTC- en receptgeneesmiddel in de gehele EU. Verifieer alstublieft de huidige autorisatie en RVG-status rechtstreeks via het [CBG-MEB openbare register](https://www.cbg-meb.nl/) of de [EMA productendatabase](https://www.ema.europa.eu/) voordat u conclusies trekt over beschikbaarheid op de NL markt.
-
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119085 | Etos Ibuprofen Liquid Caps 200 mg, zachte capsules (vervallen) | Zachte capsule | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg alstublieft de SmPC (Samenvatting van productkenmerken) voor veiligheidsinformatie.
+Voor de veiligheid is geen tekst uit de bijsluiter of SmPC verwerkt in de data die voor dit rapport is samengesteld. Raadpleeg daarom de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
 
----
+- **Contra-indicaties en aandoeningen met voorzichtigheid (uit de kennisgraaf, geen labeltekst)**: de kennisgraaf koppelt ibuprofen aan onder meer de volgende aandoeningen:
+  - hypertensie en hypotensie;
+  - lever-, nier- en galblaasaandoeningen;
+  - maagzweer en inflammatoire darmziekte;
+  - bloedstollingsstoornissen en trombocytopenie;
+  - beroerte, hersenaandoeningen en myocardinfarct;
+  - COPD, epilepsie en systemische lupus erythematodes;
+  - diabetes mellitus, diabetische ketoacidose en kaliumtekort;
+  - hypothyreoïdie, benigne prostaathyperplasie en middelenmisbruik.
+- **Geneesmiddelinteracties**: 100 interacties gevonden; hieronder de belangrijkste uit de weergegeven selectie.
+  - **Ernstig (Major)**: acetylsalicylzuur.
+  - **Matig (Moderate)**: corticosteroïden (dexamethason, hydrocortison, betamethason, budesonide), sulfonylureumderivaten (glimepiride, glipizide, glibenclamide, chloorpropamide, acetohexamide), exenatide, levofloxacine, kanamycine, aprepitant, balsalazide, fenfluramine en dexfenfluramine.
+  - **Licht (Minor)**: H2-blokkers (famotidine, ranitidine, cimetidine).
+- **Zwangerschap**: bij de voorspelde aangeboren afwijkingen speelt mee dat NSAID-gebruik in de zwangerschap veiligheidsrisico's voor de foetus kent.
 
-## Conclusie en Vervolgstappen
+## Overige voorspelde indicaties (ter volledigheid)
 
-**Besluit: Uitstel**
+Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. Er zijn voor geen enkele klinische studies of literatuur gevonden.
 
-**Reden:**
-Ondanks een hoge TxGNN-voorspellingsscore (99.74%) is acromesomale dysplasie, Hunter-Thompson type een aangeboren skeletale dysplasie veroorzaakt door een specifieke genetische afwijking in het GDF5/BMP-pad. De mechanische verbinding met Ibuprofens COX-2-remmingsmechanisme is speculatief, richtingonzeker en geheel niet ondersteund door enig klinisch onderzoek, observatiegegevens of gepubliceerde literatuur (L5 — alleen modelvoorspelling). Het voortzetten zonder basiswetenschappelijk bewijs zou niet voldoen aan CBG-MEB- of EMA-normen voor hergebruiking.
+| Rang | Aandoening | Score | Beoordeling mechanistisch verband |
+|---|---|---|---|
+| 2 | Brachyolmie-amelogenesis imperfecta-syndroom | 99,71% | Geen onderbouwd verband |
+| 3 | Myosclerose | 99,68% | Zwak, speculatief (hooguit symptomatische pijnverlichting) |
+| 4 | Brachyolmie | 99,67% | Geen onderbouwd verband |
+| 5 | Brachydactylie-syndactylie-syndroom | 99,66% | Geen onderbouwd verband; foetale veiligheidszorgen |
+| 6 | Pseudoachondroplasie | 99,66% | Indirect en alleen symptomatisch (gewrichtspijn) |
+| 7 | Colobomateuze microftalmie-rizomele dysplasie-syndroom | 99,60% | Geen onderbouwd verband |
 
-**Om door te gaan is het volgende nodig:**
+## Conclusie en vervolgstappen
 
-- **Verificatie regelgevingsgegevens**: Verkrijg werkelijke CBG-MEB RVG autorisatierecords en SmPC voor Ibuprofen om de regelgevingsbasis voor NL vast te stellen
-- **MOA gegevens uit DrugBank**: Query DrugBank API (DB01050) om het volledige werkingsmechanisme en doelinteractieprofiel te verkrijgen om de COX-2 / GDF5-BMP-padhypothese formeel te beoordelen
-- **Veiligheidsgegevens**: Verkrijg volledige SmPC waarschuwingen, contra-indicaties en geneesmiddelinteractiegegevens voordat verdere evaluatiestadia worden ondernomen
-- **Preklinisch bewijs**: Identificeer of commissie celgebaseerde of diermodellenstudies die COX-2-remming in GDF5-deficiënte skeletmodellen onderzoeken; zonder dit kan biologische aannemelijkheid niet worden vastgesteld
-- **Deskundige raadpleging**: Betrek specialisten in skeletdysplasieën en een klinisch farmacoloog om te beoordelen of anti-inflammatoire interventie enige ziekteveranderende rol zou kunnen hebben in deze aangeboren aandoening
-- **Herziening van alle 7 voorspellingen**: Alle TxGNN-voorspelde indicaties voor dit geneesmiddel zijn zeldzame skelet-/ontwikkelingsdysplasieën op L5 zonder ondersteunend bewijs — een systematische beoordeling van de volledige voorspellingsverzameling wordt aanbevolen om vast te stellen of er een hoger-prioriteit hergebruikingssignaal bestaat in het bredere ziektennetwerk van Ibuprofen.
+**Beslissing: Hold**
 
+**Onderbouwing:**
+- De voorspelling berust alleen op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur en zonder aannemelijk mechanistisch verband met de onderliggende genetische oorzaak.
+- De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken. Daardoor kan de veiligheidsscreening niet worden afgerond.
+
+**Om verder te gaan is nodig:**
+- Bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen en verwerken.
+- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank.
+- Preklinisch of mechanistisch bewijs verzamelen dat COX-remming relevant is voor de ziekte.
+- Beoordelen of symptomatisch gebruik (pijnbestrijding) klinisch zinvol en veilig is, met aandacht voor kinderen en zwangerschap.
+- De actuele marktstatus en beschikbare toedieningsvormen in Nederland verifiëren.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

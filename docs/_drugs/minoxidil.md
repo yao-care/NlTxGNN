@@ -2,15 +2,15 @@
 layout: default
 title: Minoxidil
 parent: Matig bewijs (L3-L4)
-nav_order: 94
-evidence_level: L3
+nav_order: 235
+evidence_level: L4
 indication_count: 10
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,88 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Minoxidil: Van androgenetische alopecia naar hypotrichosis simplex van de hoofdhuid
+# Minoxidil: Van hypertensie en haaruitval naar hypotrichosis simplex van de hoofdhuid
 
-## Samenvatting in één zin
+## Samenvatting in één oogopslag
 
-Minoxidil is een kaliumkanaalopener die is vastgesteld als een topicale behandeling voor androgenetische alopecia (patroonhaaruitval) bij zowel mannen als vrouwen, met een lang bestaande geschiedenis van systemisch gebruik voor ernstige hypertensie.
-Het TxGNN-model voorspelt dat het ook effectief kan zijn voor **Hypotrichosis simplex van de hoofdhuid** (HSS), een zeldzame erfelijke haargroeisstoornis,
-met **geen geregistreerde klinische onderzoeken** en **3 publicaties op casusniveau** die momenteel beschikbaar zijn ter ondersteuning van deze richting.
+Minoxidil is een vaatverwijdend middel dat oorspronkelijk werd gebruikt voor de behandeling van hypertensie en haaruitval (alopecia).
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hypotrichosis simplex van de hoofdhuid** (erfelijke haardunning).
+Hiervoor zijn **geen geregistreerde klinische trials** en **3 publicaties** (uitsluitend kleine casusbeschrijvingen, waarin minoxidil steeds met andere behandelingen is gecombineerd) beschikbaar.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
-|-----------|--------|
-| Oorspronkelijke indicatie | Androgenetische alopecia (patroonhaaruitval) — geen registratie van de Nederlandse (CBG-MEB) vergunning voor het in de handel brengen |
+| Item | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Hypertensie en haaruitval (alopecia); de goedkeuringstekst van de Nederlandse registratie is niet beschikbaar |
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
-| TxGNN-voorspellingsscore | 99.9999% |
-| Bewijsniveau | L3 |
-| Status Nederlandse markt | Niet geregistreerd |
-| Aantal vergunningen | 0 |
-| Aanbevolen besluit | Afwachten |
+| TxGNN-voorspellingsscore | 99,99% |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme waren niet beschikbaar in dit bewijspakket. Op basis van gevestigde farmacologische kennis fungeert minoxidil als een kalium (K⁺) ATP-kanaalopener. Topicaal toegepast bevordert het perifolliculaire vaatverwijding — waardoor de bloeddoorstroming en zuurstoftoevoer naar haarfollikels toenemen — en verlengt het de anagenfase (actieve groei) van de haarcyclus. Het kan ook de omzetting van zachte dons haren naar dikker eindstandig haar vergemakkelijken. Deze eigenschappen liggen ten grondslag aan de goed vastgestelde werkzaamheid ervan bij androgenetische alopecia en verklaren waarom het frequent voorkomt als aanvullende behandeling bij meerdere vormen van haaruitval.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van de beschikbare literatuur geldt het volgende: minoxidil is een kaliumkanaalopener (via de metaboliet minoxidilsulfaat). Het verlengt de anagene (groei)fase van het haar, vergroot de haarfollikels en verbetert waarschijnlijk de doorbloeding van de hoofdhuid. De werkzaamheid bij haaruitval is bekend en hypotrichosis simplex is eveneens een aandoening met verminderde haardichtheid, dus mechanistisch kan het middel hier van toepassing zijn.
 
-Hypotrichosis simplex van de hoofdhuid is een zeldzame autosomaal dominante monogenetische aandoening die wordt veroorzaakt door functieverliesvarianten in het *CDSN*-gen, dat codeert voor het desmosoomeiwit corneodesmosin. In tegenstelling tot litteken-alopecia's — waar follikels permanent worden vervangen door fibreus weefsel — betreft HSS onderontwikkelde follikels die een mate van restfunctie behouden. Dit onderscheid is mechanistisch belangrijk: minoxidils op vaatverwijding gebaseerde benadering kan in principe deze overblijvende follikels stimuleren om meer en langer haar te produceren, wat de primaire biologische reden is waarom het TxGNN-model een bijna perfecte voorspellingsscore toekent.
+Hypotrichosis simplex van de hoofdhuid is een zeldzame, erfelijke aandoening (o.a. door varianten in het CDSN-gen). Een bevredigende standaardbehandeling bestaat niet. De drie gevonden publicaties zijn kleine casusbeschrijvingen waarin minoxidil (oraal of topisch) is gecombineerd met groeifactoren, plaatjesrijk plasma (PRP) of plantenextracten. Het effect van minoxidil alleen is daardoor niet te isoleren.
 
-De mechanistische overlapping tussen HSS en androgenetische alopecia is reëel maar gedeeltelijk. Beide aandoeningen betreffen verstoorde haargroei van actieve follikels; HSS ontstaat echter uit een vaste genetische structurele afwijking in plaats van androgeen-gemedieerde follikelminiatuïsering. Alle drie momenteel beschikbare publicaties documenteren positieve klinische reacties op minoxidil op casusniveau, consistent met biologische aannemelijkheid. De bewijsbasis is echter veel te beperkt om routinegebruik in de kliniek te ondersteunen, en het ultra-zeldzame karakter van HSS maakt het reclutement voor grootschalige onderzoeken uitzonderlijk uitdagend.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd voor minoxidil bij hypotrichosis simplex van de hoofdhuid.
+Voor de volledigheid: de voorspellingen met andere ziekten (o.a. alopecia areata, pseudopelade van Brocq, pulmonale arteriële hypertensie) hebben zwakker of indirect bewijs en worden hier niet verder uitgewerkt.
 
 ---
 
-## Bewijs uit literatuur
+## Bewijs uit klinische trials
+
+Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|--------------------------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Casusserie | Dermatologic Therapy | Oraal minoxidil gecombineerd met groeifactoren leidde tot verbetering bij erfelijke HSS; ondersteunt de haalbaarheid van minoxidil-gebaseerde behandeling in deze zeldzame genetische aandoening |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Casusserie | Frontiers in Genetics | Een 8-jarige jongen met genetisch bevestigde HSS (CDSN-mutatie) werd behandeld met botanische extracten plus minoxidil; klinische respons gedocumenteerd in een gediagnosticeerde familiale casus |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Casusrapport | Journal of Dermatological Treatment | Een 14-jarige met erfelijke hypotrichosis simplex behandeld met injectie van bloedplaatjes-rijke plasma gecombineerd met topicaal minoxidil 2%; verbetering in haarlengte en -dichtheid gerapporteerd |
+|------|-----|------|------|---------|
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Casusbeschrijving/-serie | Dermatologic Therapy | Behandeling van erfelijke hypotrichosis simplex van de hoofdhuid met orale minoxidil plus groeifactoren |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Casusbeschrijving | Frontiers in Genetics | Familiaire casus (8-jarige jongen, CDSN-mutatie) behandeld met een combinatie van plantenextracten en minoxidil |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Casusbeschrijving | Journal of Dermatological Treatment | 14-jarige patiënt behandeld met PRP-injecties plus topische minoxidil 2%; succesvolle behandeling gemeld |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Geen producten met minoxidil hebben een vergunning voor het in de handel brengen afgegeven door de CBG-MEB op het moment van deze beoordeling. Geen RVG-nummers zijn geregistreerd.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119952//08426 (doorgehaald) | Lonnoten 10 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
 
-> **Opmerking:** Topicale minoxidilpreparaten (bijv. Regaine/Rogaine) zijn ruim geauthoriseerd in andere EU-lidstaten voor androgenetische alopecia. Dit resultaat rechtvaardigt directe verificatie aan de hand van het huidige CBG-MEB- en EMA-productenregister, omdat een lacune in gegevensverzameling niet kan worden uitgesloten.
+Er is geen geldige registratie bij het CBG-MEB. De enige bekende vergunning is doorgehaald.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie, inclusief belangrijkste waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties.
+Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. De bijsluitertekst van het CBG-MEB kon voor dit rapport niet worden verwerkt.
+
+- **Contra-indicaties (afgeleid uit de kennisgrafiek, geen officiële labeltekst)**: de kennisgrafiek koppelt minoxidil aan onder meer hart- en vaatziekten (hartinfarct, beroerte/cerebrovasculaire aandoeningen, hartziekte), feochromocytoom en paragangliomen, pericardiale aandoeningen (pericarditis, pericardvocht, harttamponade), nierziekte, orthostatische hypotensie en aanverwante aandoeningen (o.a. multipele systeematrofie, POTS) en dermatose van de hoofdhuid. Deze koppelingen moeten aan de officiële productinformatie worden getoetst.
+- **Geneesmiddelinteracties**: er zijn 100 interacties gevonden. Genoemd zijn onder meer matige interacties met corticosteroïden (hydrocortison, prednisolon, prednison, dexamethason, betamethason, budesonide, triamcinolon), bupropion, morfine, opium, SGLT2-remmers (canagliflozine, dapagliflozine, empagliflozine, ertugliflozine), dronabinol, nabilon en sapropterine. Voor calcitriol, clotrimazol en metformine is het interactieniveau onbekend.
 
 ---
 
-## Conclusie en volgende stappen
+## Conclusie en vervolgstappen
 
-**Besluit: Afwachten**
+**Beslissing: Hold**
 
-**Grondslag:**
-Het TxGNN-model wijst een bijna perfecte voorspellingsscore toe en het mechanistische fundament voor minoxidil bij HSS is biologisch aannemelijk — restfunctionele follikels in deze genetische aandoening kunnen reageren op perifolliculaire vaatverwijding. Al het huidige ondersteunende bewijs beperkt zich echter tot drie publicaties op casusniveau (twee cassusserien, één casusrapport), geen prospectieve onderzoeken bestaan voor deze indicatie, formele veiligheidsgegevens in dit bewijspakket zijn onvolledig, en minoxidil draagt geen bevestigde vergunning voor het in de handel brengen van de CBG-MEB in Nederland. Deze combinatie van bewijs en regelgevingsgaten rechtvaardigt een afwachting totdat basisgegevens kunnen worden verzameld.
+**Onderbouwing:**
+- Het bewijs bestaat uit drie kleine casusbeschrijvingen met combinatietherapie, zonder geregistreerde trials. De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.
 
-**Om door te gaan is het volgende nodig:**
-
-- Verificatie van de huidige status van vergunningen voor het in de handel brengen in NL/EU via het CBG-MEB-register en de EMA-productendatabase (EPAR)
-- Opvragen van SmPC-veiligheidsgegevens: belangrijkste waarschuwingen, contra-indicaties en geneesmiddel-geneesmiddelinteracties
-- Documentatie van het werkingsmechanisme via de DrugBank-API (DB00350)
-- Minstens één prospectief pilotstudie of goed gedocumenteerde opeenvolgende casusserie (n ≥ 10) bij genetisch bevestigde HSS-patiënten
-- EMA Orphan Designation-beoordeling, gezien de ultra-zeldzame classificatie van HSS
-- Voorconsultatie met de CBG-MEB over off-label voorschrijfpaden als een ongeregistreerd product in Nederland moet worden gebruikt
-
+**Voor verdere stappen is nodig:**
+- De SmPC/bijsluiter van het CBG-MEB verwerken (waarschuwingen en contra-indicaties), omdat dit een blokkerend ontbrekend gegeven is.
+- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
+- Gecontroleerd onderzoek of een grotere serie waarin minoxidil als enige middel wordt beoordeeld.
+- Een beoordeling van de veiligheid van orale minoxidil in lage dosering, vooral bij kinderen en bij personen met hart- en vaatziekten.
+- Duidelijkheid over de beschikbare toedieningsroutes (topisch versus oraal) in Nederland, nu er geen geldige registratie is.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

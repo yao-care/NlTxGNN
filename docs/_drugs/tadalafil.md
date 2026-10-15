@@ -2,7 +2,7 @@
 layout: default
 title: Tadalafil
 parent: Alleen modelvoorspelling (L5)
-nav_order: 115
+nav_order: 307
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,94 +29,107 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Tadalafil: Van erectiestoornis naar Ambras-type hypertrichosis universalis congenita
+# Tadalafil: Van erectiestoornissen en pulmonale hypertensie naar Ambras-type hypertrichosis universalis congenita
 
-## Samenvatting in één zin
+## Samenvatting in één oogopslag
 
-Tadalafil is een selectieve PDE5 (fosfodieësterase type 5)-remmer, goedgekeurd in de Europese Unie voor erectiestoornis, benigne prostaathyperplasie en pulmonale arteriële hypertensie.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Ambras-type hypertrichosis universalis congenita**, een zeldzame genetische haarziekte; deze voorspelling wordt echter momenteel ondersteund door **0 klinische onderzoeken** en **0 publicaties** — wat aangeeft dat de modelscore eerder het topologische karakter van de kennisgraaf dan bevestigde biologische plausibiliteit weerspiegelt.
+Tadalafil is een PDE5-remmer die oorspronkelijk wordt gebruikt voor goedaardige prostaatvergroting, pulmonale hypertensie, erectiestoornissen, psychologische dyspareunie en voortijdige zaadlozing. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **Ambras-type hypertrichosis universalis congenita**. Er zijn **geen klinische studies** en **geen publicaties** die deze richting ondersteunen; de voorspelling berust uitsluitend op het model (evidentieniveau **L5**).
 
 ---
 
-## Kort overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Niet beschikbaar in CBG-MEB-database (geen geregistreerde producten gevonden — zie opmerking hieronder) |
+|------|------|
+| Oorspronkelijke indicatie | Goedaardige prostaathyperplasie, pulmonale hypertensie, erectiestoornissen, psychologische dyspareunie, voortijdige zaadlozing |
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99.98% |
-| Bewijsniveau | L5 |
-| Marktsstatus NL | Niet geregistreerd (gegevenshiaat vermoedelijk — zie opmerking hieronder) |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Aanhouden |
-
-> ⚠️ **Opmerking gegevenshiaat**: Tadalafil (Cialis®, Adcirca®) bezit EMA-centrale marktingtoelatingen die geldig zijn in alle EU-lidstaten, inclusief Nederland. De CBG-MEB-records met 0 licenties weerspiegelen waarschijnlijk een onvolledig gegevensextract in plaats van daadwerkelijke niet-registratie. **Directe verificatie via het CBG-MEB publieke register is vereist voordat regelgevingsconclusies worden getrokken.**
+| TxGNN-voorspellingsscore | 99,98% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Bewijspakket. Op basis van openbaar beschikbare informatie is tadalafil een selectieve remmer van fosfodieësterase type 5 (PDE5). Door PDE5 te blokkeren, voorkomt het de afbraak van cyclisch guanosine monofosfaat (cGMP), wat leidt tot ontspanning van gladde spieren en vasodilatatie. De gevestigde therapeutische gebieden — erectiestoornis, pulmonale arteriële hypertensie (PAH) en benigne prostaathyperplasie — delen allemaal dit PDE5-gemedieerde vasculaire mechanisme.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Tadalafil is bekend als PDE5-remmer die via de cGMP/NO-route vaatverwijding bevordert. Dat verklaart de werking bij erectiestoornissen en pulmonale hypertensie.
 
-Ambras-type hypertrichosis universalis congenita is een uitzonderlijk zeldzame genetische aandoening veroorzaakt door mutaties in het TRPS1-gen (trichorrhinofalangeale syndroom-locus op chromosoom 8q24), wat resulteert in diffuse buitensporige haargroei over het hele lichaam. Het pathologische mechanisme omvat dysregulatie van haarfollikelactivering — een proces zonder vastgestelde verbinding met de PDE5/cGMP-signaleringsbaan. Hoewel cGMP-signalering in basisonderzoek naar haarfolliculaire biologie is onderzocht, is geen therapeutische link naar tadalafil in enig gepubliceerd onderzoek voorgesteld of aangetoond.
+Voor een verband met Ambras-syndroom, een aangeboren vorm van overmatige beharing met een genetische oorzaak, is geen mechanistische onderbouwing gevonden. Haargroei-effecten van andere vaatactieve stoffen (zoals minoxidil, dat via kaliumkanalen werkt) zijn geen bewijs voor tadalafil. De hoge score is waarschijnlijk een grafiekgebaseerd model-artefact.
 
-De hoge TxGNN-voorspellingsscore (99.98%) weerspiegelt waarschijnlijk **topologische clustering** binnen de kennisgraaf — knooppunten van "haaruitvalsgerelateerde ziekte" die grafische buren delen met ziekten die al met tadalafil zijn verbonden — in plaats van ware biologische plausibiliteit. Deze interpretatie is consistent met de volledige afwezigheid van ondersteunende klinische of preklinische bewijzen. Opmerkelijk is dat onder alle 8 door TxGNN voorspelde indicaties in dit Bewijspakket, **kifoskoliotische hartziekte** (rang 7, score 99.43%) de meest mechanistisch coherente rationale heeft: kifoskoliose → restrictieve longziekte → chronische hypoxie → secundaire PAH (WHO-groep 3) — een indirecte extrapolatie van tadalafils goedgekeurde PAH-indicatie (Adcirca®, groep 1), die afzonderlijk onderzoek verdient.
+### Overige voorspellingen in dezelfde analyse
 
----
+Alle onderstaande voorspellingen hebben het besluit **Hold**:
 
-## Bewijzen uit klinische onderzoeken
-
-Momenteel zijn geen gerelateerde klinische onderzoeken voor tadalafil bij Ambras-type hypertrichosis universalis congenita geregistreerd.
-
----
-
-## Bewijzen uit literatuur
-
-Momenteel is geen gerelateerde literatuur beschikbaar voor tadalafil bij Ambras-type hypertrichosis universalis congenita.
-
----
-
-## Marktinformatie Nederland
-
-Geen CBG-MEB-marktingtoelatingen voor tadalafil werden opgehaald uit de huidige dataset. Dit is inconsistent met de bekende EU-regelgevingsstatus en wordt toegeschreven aan een gegevensopnamelacune.
-
-| RVG-nummer | Productnaam | Farmaceutische vorm | Goedgekeurde indicatie |
-|-----------|-------------|-------------|-------------------|
-| — | — | — | Geen records opgehaald. Verifieer rechtstreeks op cbg-meb.nl |
-
-Voor gezaghebbende registratiegegevens, raadpleeg:
-- CBG-MEB publieke register: [https://www.cbg-meb.nl/](https://www.cbg-meb.nl/)
-- EMA-productpagina voor Cialis® / Adcirca®: [https://www.ema.europa.eu/](https://www.ema.europa.eu/)
+| Rang | Voorspelde indicatie | Score | Evidentieniveau | Opmerking |
+|---|---|---|---|---|
+| 2 | Hypertrichose | 99,98% | L5 | Hypertrichose is meestal een bijwerking, geen behandeldoel; mogelijk artefact |
+| 3 | Malformatiesyndroom met tand- en/of parodontale component | 99,97% | L5 | Geen mechanistisch verband |
+| 4 | Syndroom met Dandy-Walker-malformatie | 99,97% | L5 | Aangeboren structureel defect; geen verband |
+| 5 | Geïsoleerde genetische haarschachtafwijking | 99,96% | L5 | Structurele genafwijkingen, niet door PDE5-remming te beïnvloeden |
+| 6 | Familiaire geïsoleerde trichomegalie | 99,65% | L5 | Geen mechanisme of therapeutische behoefte |
+| 7 | Kyfoscoliotische hartziekte | 99,43% | L5 | Zwak, speculatief verband via pulmonale hypertensie; bij hypoxiegedreven vormen kunnen vaatverwijders de V/Q-mismatch verergeren |
+| 8 | Migraine met hersenstamaura | 99,08% | L4 | Alleen een casusbeschrijving waarin tadalafil een aura veroorzaakte (veiligheidssignaal) |
 
 ---
 
-## Veiligheidsbeschouwingen
+## Klinische studies
 
-Raadpleeg de SmPC (Samenvatting van productkenmerken) voor veiligheidsinformatie.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
-> Geen veiligheidsgegevens (waarschuwingen, contraïndicaties, medicijninteracties) zijn in dit Bewijspakket opgenomen. De SmPC voor tadalafil is beschikbaar via de EMA-website en de CBG-MEB-productdatabase.
+---
+
+## Literatuurbewijs
+
+Voor de hoogst gerangschikte voorspelling (Ambras-type hypertrichosis) is momenteel geen gerelateerde literatuur beschikbaar. Voor de achtste voorspelling (migraine met hersenstamaura) is één publicatie gevonden:
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) | 2006 | Casusbeschrijving | Cephalalgia | Tadalafil werd in verband gebracht met typische migraine-aura zonder hoofdpijn; dit wijst op een mogelijke uitlokkende, niet therapeutische werking |
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+
+---
+
+## Veiligheidsoverwegingen
+
+**Contra-indicaties uit de kennisgrafiek (niet afkomstig uit de productinformatie):**
+Deze zijn afgeleid uit de TxGNN-kennisgrafiek en moeten worden getoetst aan de SmPC. Het gaat onder meer om:
+- **Hart- en vaatziekten:** aortastenose en andere aortaklepaandoeningen, hypotensie, acuut coronair syndroom, myocardinfarct, coronaire trombose, hypertrofische cardiomyopathie (ook familiair)
+- **Cerebrovasculair:** beroerte, herseninfarct en andere cerebrovasculaire aandoeningen
+- **Bloed:** bloedstollingsstoornissen, sikkelcelanemie, hemoglobinopathie, erfelijke persistentie van foetaal hemoglobine, plasmacelmyeloom, leukemie
+- **Urogenitaal:** priapisme, ziekte van Peyronie, penisfibromatose, balanitis xerotica obliterans
+- **Overig:** leverfalen, epilepsie, gehoorverlies (waaronder X-gebonden gemengde doofheid), functioneel visusverlies
+
+**Geneesmiddelinteracties** (100 interacties gevonden; hieronder een selectie):
+- **Matig:** aprepitant, dexamethason, lorcaserine, canagliflozine, cimetidine, claritromycine, dapagliflozine, empagliflozine, sapropterine, miconazol, clotrimazol, ertugliflozine, troglitazon
+- **Licht:** papaverine
+- **Onbekend niveau:** pantoprazol, glimepiride, doxycycline, morfine, metformine, omeprazol
+
+Raadpleeg voor waarschuwingen en formele contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Aanhouden**
+**Besluit: Hold**
 
-**Rationale:**
-Ondanks de hoge TxGNN-voorspellingsscore (99.98%) is er een volledige afwezigheid van klinische of preklinische bewijzen die tadalafil aan Ambras-type hypertrichosis universalis congenita verbinden, en geen biologisch plausibel mechanistisch pad is geïdentificeerd. De voorspelling wordt beoordeeld als een kennisgraaf-artefact, niet als een mogelijkheid voor medicijnhergebruik.
+**Onderbouwing:**
+- De voorspelling voor Ambras-type hypertrichosis universalis congenita is uitsluitend modelgebaseerd (L5), zonder klinische studies, literatuur of aannemelijk mechanisme. Het enige literatuursignaal bij de overige voorspellingen (migraine-aura) wijst op een mogelijke bijwerking en niet op een therapeutisch effect.
+- De enige Nederlandse vergunning (RVG 118514) is doorgehaald.
 
-**Om door te gaan is het volgende nodig:**
-
-- **Regelgevingsgegevens**: Verifieer CBG-MEB-autorisaties voor tadalafil rechtstreeks op cbg-meb.nl; verkrijg de huidige Nederlandse SmPC voor Cialis® en Adcirca®
-- **Veiligheidsevaluatie**: Verkrijg volledige contraïndicaties, belangrijke waarschuwingen en DDI-profiel uit de SmPC voordat verdere klinische evaluatie wordt uitgevoerd
-- **Herprioriseer voorspellingen**: Heroriënteer het onderzoek naar **kifoskoliotische hartziekte** (rang 7), die een mechanistisch ondersteund PAH-pad heeft en de meest uitvoerbare hergebruikshypothese in dit pakket vertegenwoordigt
-- **Mechanistisch onderzoek**: Bij vervolgonderzoek van de hypertrichosis-indicatie zou een gericht preklinisch onderzoek naar cGMP/PDE5-rollen in TRPS1-gerelateerde haarfollikelpatologie als eerste stap vereist zijn
-- **Originele MOA-documentatie**: Haal tadalafil MOA-gegevens op uit DrugBank (DB00820) om de mechanistische analyse voor alle voorspelde indicaties te voltooien
-
----
-
-*Dit rapport is alleen voor onderzoeksdoeleinden gegenereerd en vormt geen medisch advies. Alle medicijnhergebruikskandidaten vereisen klinische validatie voordat therapeutische toepassing plaatsvindt. — NlTxGNN Bewijspakket v4 | Gegevens tot: 2026-05-05*
-
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme (o.a. via DrugBank)
+- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, zodat de veiligheidsscreening kan plaatsvinden
+- Preklinisch of mechanistisch bewijs voor een rol van de cGMP/NO-route bij de genetische oorzaak van Ambras-syndroom
+- Controle of de voorspelling mogelijk een artefact is van een bijwerking (hypertrichose) die als indicatie is geïnterpreteerd
+- Voor de toedieningsroute en vergelijking met de oorspronkelijke indicaties is nog geen informatie beschikbaar
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

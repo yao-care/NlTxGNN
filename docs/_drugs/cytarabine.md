@@ -2,15 +2,15 @@
 layout: default
 title: Cytarabine
 parent: Matig bewijs (L3-L4)
-nav_order: 48
-evidence_level: L3
+nav_order: 102
+evidence_level: L4
 indication_count: 9
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,112 +29,87 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 </div>
 
-# Cytorabine: van Acute Myeloïde Leukaemie naar Kleincellig Longcarcinoom
+# Cytarabine: Van acute leukemie naar kleincellig longcarcinoom
 
 ## Samenvatting in één zin
 
-Cytorabine (cytosine arabinoside, Ara-C) is een goed gevestigd pyrimidine-antimetaboliet met langdurig klinisch gebruik in hematologische maligniteiten, met name acute myeloïde leukaemie (AML).
-Het TxGNN-model voorspelt dat het mogelijk effectief is voor **Kleincellig Longcarcinoom (SCLC)**,
-met momenteel **3 klinische onderzoeken** en **20 publicaties** geïdentificeerd — hoewel het merendeel van dit bewijs indirect is of afkomstig van historische onderzoeken voorafgaand aan moderne SCLC-behandelingsprotocollen.
-
----
+Cytarabine is een pyrimidine-nucleosideanaloog die oorspronkelijk wordt gebruikt voor de behandeling van acute lymfatische en acute myeloïde leukemie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **kleincellig longcarcinoom**, maar er zijn **geen geregistreerde klinische studies** en geen literatuur die cytarabine specifiek bij deze aandoening onderbouwt. De voorspelling berust vooralsnog uitsluitend op het model (bewijsniveau L4, aanbeveling: Hold).
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Acute myeloïde leukaemie (goed gevestigde klinisch gebruik; geen CBG-MEB-registratiegegevens voor NL gevonden) |
-| Voorspelde nieuwe indicatie | Kleincellig Longcarcinoom |
+|------|------|
+| Oorspronkelijke indicatie | Acute lymfatische leukemie en acute myeloïde leukemie (op basis van de kennisgraaf; geen indicatietekst uit de vergunning beschikbaar) |
+| Voorspelde nieuwe indicatie | Kleincellig longcarcinoom |
 | TxGNN-voorspellingsscore | 99,78% |
-| Bewijsniveau | L3 |
-| Status op NL-markt | Niet geregistreerd |
-| Aantal registraties | 0 |
-| Aanbevolen beslissing | In afwachting |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaalde registratie (geen geldige vergunning) |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling plausibel?
 
-## Waarom is deze voorspelling redelijk?
+Voor cytarabine zijn in de voor dit rapport verzamelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is cytarabine een pyrimidine-nucleosideanaloog die het DNA-synthese remt in cellen in de S-fase. Dit is een aannemelijke grondslag voor een snel prolifererende tumor zoals kleincellig longcarcinoom.
 
-Gedetailleerde werkingsmechanisme-gegevens zijn niet beschikbaar in het huidige Evidence Pack. Op basis van gevestigde farmacolgie is cytorabine een pyrimidine-antimetaboliet dat intracellulair wordt gefosforyleerd tot zijn actieve trifosforatvorm (ara-CTP), die DNA-polymerase alfa remt en zich inbouwt in nieuw gesynthetiseerde DNA-strengen, waardoor DNA-synthese wordt geblokkeerd. Dit mechanisme is celcyclus-specifiek — actief uitsluitend in de S-fase — wat het zeer effectief maakt tegen snel delende tumorcellen.
+De werkzaamheid van cytarabine bij leukemie is goed vastgesteld. Het verband met kleincellig longcarcinoom is echter indirect: beide zijn snel delende maligniteiten, maar solide tumoren zijn vaak minder gevoelig voor cytarabine. De gevonden literatuur gaat vooral over niet-kleincellig longcarcinoom (NSCLC) of over andere nucleosideanalogen (gemcitabine, decitabine), niet over cytarabine bij kleincellig longcarcinoom. De zeer hoge modelscore wordt dus niet ondersteund door specifieke klinische gegevens.
 
-Kleincellig longcarcinoom (SCLC) wordt gekenmerkt door een extreem hoge proliferatieve index (Ki-67 gewoonlijk >80%) en agressieve neuro-endocriene biologie, wat in principe gevoeligheid voor S-fase-specifieke agentia zoals cytorabine oplevert. Historisch gezien werd deze rationale toegepast: in de jaren 1970–1980 werd cytorabine opgenomen in multiagens SCLC-regimes — inclusief cyclophosphamide/Adriamycine/cytosine arabinoside-combinaties en VP-16/Ara-C salvage-protocollen — met bescheiden klinische responsen. Laboratoriumgegevens tonen verder aan dat multidrug-resistente SCLC-cellijnen paradoxaal collaterale gevoeligheid voor cytorabine vertonen, wat een mogelijk niche in refractaire ziekte oplevert.
+## Bewijs uit klinische studies
 
-Het moderne SCLC-behandelingslandschap is echter beslissend verschoven naar etoposide-platina (EP)-regimes, en meer recentelijk naar EP gecombineerd met atezolizumab als eerstelijnschemotherapie. Cytorabine ontbreekt in huidige ESMO- en NCCN-SCLC-richtlijnen. De TxGNN-voorspelling weerspiegelt een biologisch samenhangend historisch signaal, maar de klinische relevantie in de hedendaagse praktijk is beperkt en de bewijsbasis is overwegend retrospectief of preklinisch.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
----
+## Bewijs uit de literatuur
 
-## Klinisch onderzoeksbewijs
-
-| Onderzoeksnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT03101579](https://clinicaltrials.gov/study/NCT03101579) | Fase 1 | Voltooid | 13 | Intratheale pemetrexed voor terugkerende leptomeningeale metastasen van NSCLC; cytorabine aangehaald als bestaande standaard van intratheale chemotherapie — indirect bewijs van Ara-C rol in longkankerstelsel aandoeningen |
-| [NCT03507244](https://clinicaltrials.gov/study/NCT03507244) | Fase 1/2 | Voltooid | 34 | Intratheale pemetrexed gecombineerd met betrokken-veld radiotherapie voor leptomeningeale metastasen van solide tumoren; ondersteunt conceptueel het intratheale Ara-C raamwerk bij longkankerstelsel meningeale betrokkenheid |
-| [NCT00863512](https://clinicaltrials.gov/study/NCT00863512) | Fase 3 | Beëindigd | 34 | Adjuvante chemotherapie (vinorelbin, cisplatina, docetaxel, gemcitabine, pemetrexed) bij vroeg-stadium NSCLC; voortijdig beëindigd vanwege lage inschrijving en bevat geen cytorabine — minimale relevantie |
-
-> ⚠️ **Belangrijk voorbehoud:** Alle drie geïdentificeerde onderzoeken zijn indirect — geen ervan beoordeelt direct cytorabine bij SCLC. Onderzoeken betreffen primair NSCLC of alternatieve middelen. Geen hedendaags Fase 2 of Fase 3 onderzoeksbewijs voor cytorabine bij SCLC bestaat binnen het huidige zoekbereik.
-
----
-
-## Literatuurbewijs
+Er is geen literatuur gevonden die cytarabine direct onderzoekt bij kleincellig longcarcinoom met voldoende onderbouwing. De onderstaande publicaties zijn het meest relevant, maar betreffen deels een andere longtumor of oudere gegevens.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|---------|---------|
-| [2841844](https://pubmed.ncbi.nlm.nih.gov/2841844/) | 1988 | Klinische studie (Fase II-type) | Am J Clin Oncol | VP-16 + continu-infusie Ara-C (45 mg/m²/dag × 72 u) in 17 refractaire SCLC-patiënten; direct bewijs van cytorabine in SCLC salvage-omgeving — meest klinisch relevant onderzoek in deze dataset |
-| [6095640](https://pubmed.ncbi.nlm.nih.gov/6095640/) | 1984 | Klinische serie | Am J Clin Oncol | Ara-C 100 mg/m²/dag via continue infusie bij SCLC: geen respons in 10 sterk voorbehandelde patiënten; Ara-C toegevoegd aan CAV bij 25 uitgebreide SCLC-patiënten met ernstige toxiciteit |
-| [232239](https://pubmed.ncbi.nlm.nih.gov/232239/) | 1979 | Retrospectieve casesurvey | Med Pediatr Oncol | Cyclophosphamide + Adriamycine + cytosine arabinoside + radiotherapie bij 20 onbehandelde SCLC-patiënten; vroegst gedocumenteerde gebruik van cytorabine in SCLC-combinatieregimes |
-| [9363869](https://pubmed.ncbi.nlm.nih.gov/9363869/) | 1997 | Gerandomiseerde studie | J Clin Oncol | CALGB gerandomiseerde studie van chemotherapie met radiotherapie ± warfarine in beperkt-stadium SCLC; biedt context voor historische cytorabine-era combinatieprotocollen bij SCLC |
-| [6264785](https://pubmed.ncbi.nlm.nih.gov/6264785/) | 1981 | Caseserie | Am J Med | Meningeale carcinomatose bij SCLC (60 patiënten); benadrukt CNS-complicaties bij SCLC als specifieke klinische niche waar intratheale cytorabine een behandelingsoptie blijft |
-| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Casusrapport | Gan to Kagaku Ryoho | SCLC (stadium IV) met meningeale carcinomatose succesvol beheerd met multidisciplinaire benadering inclusief intratheale chemotherapie; praktijk-precedent voor IT-Ara-C bij SCLC CNS-ziekte |
-| [11331076](https://pubmed.ncbi.nlm.nih.gov/11331076/) | 2001 | Basisonderzoek | Biochem Pharmacol | Daunorubicine- en VM-26-resistente SCLC-cellijnen vertonen collaterale gevoeligheid voor gemcitabine en cytorabine; mechanistisch argument voor Ara-C bij MDR SCLC |
-| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | Basisonderzoek | Cancer Chemother Pharmacol | Vergelijkende medicijngevoeligheidspatronen over SCLC-cellijnen; beoordeelt kruisresistentieprofielen relevant voor cytorabine-positionering |
-| [2992752](https://pubmed.ncbi.nlm.nih.gov/2992752/) | 1985 | In vitro | Cancer | Vijf menselijke SCLC-cellijnen gekweekt als 3D-sferoïdmodellen; medicijnefficacypanel inclusief meerdere chemotherapeutische agentia — biedt preklinische screeningcontext |
-| [348088](https://pubmed.ncbi.nlm.nih.gov/348088/) | 1978 | Review | Antibiotics Chemother | Uitgebreid overzicht van Ara-C en analoga; bespreekt snelle inactivering door cytidine deaminase en strategieën (bijv. enzymremmers, structurele derivaten) om klinische activiteit te verbeteren |
+|------|-----|------|------|---------|
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Klinisch onderzoek | Cancer Treatment Reports | Hooggedoseerd cytarabine bij kleincellig longcarcinoom (geen samenvatting beschikbaar) |
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Fase II | Cancer | Hooggedoseerd cytarabine plus cisplatine bij NSCLC: responspercentage 14%, ernstige beenmergsuppressie (graad IV bij 32%), vier sterfgevallen tijdens de studie |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Fase II | Tumori | Cytarabine, cisplatine en vindesine bij gevorderd NSCLC; respons bij 5 van de 28 patiënten (18%) |
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Gerandomiseerde fase II | Medical and Pediatric Oncology | Cisplatine-cytarabine versus cisplatine-vinblastine bij 151 patiënten met gevorderd NSCLC |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilotstudie | European Journal of Cancer & Clinical Oncology | Cisplatine plus cytarabine bij gevorderd NSCLC |
+| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | In vitro | Cancer Chemotherapy and Pharmacology | Gevoeligheidspatronen van SCLC-cellijnen voor cytostatica (doxorubicine) |
+| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Fase II | ESMO Open | Intrathecaal pemetrexed bij leptomeningeale metastasen van NSCLC (ander middel) |
 
----
+## Informatie over de Nederlandse markt
 
-## Informatie Nederlandse markt
-
-Geen actieve CBG-MEB-registraties werden gevonden voor cytorabine onder deze INN in Nederland. Dit kan erop wijzen dat beschikbare formuleringen centraal zijn geregistreerd op EU-niveau via het EMA, of dat de gegevensextractie niet alle registraties heeft vastgelegd.
-
-Clinici in Nederland die geautoriseerde productinformatie nodig hebben, raadplegen:
-- [CBG-MEB productendatabase](https://www.cbg-meb.nl/) voor nationaal geregistreerde producten
-- [EMA-medicijnendatabase](https://www.ema.europa.eu/en/medicines) voor centraal geregistreerde producten
-- Het relevante SmPC (Samenvatting van de Productkenmerken) voor goedgekeurde indicaties en veiligheidsinformatie
-
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 112666 | Cytarabine Accord 100 mg/ml, oplossing voor injectie of infusie | Oplossing voor injectie of infusie | Niet vermeld in de beschikbare gegevens (vergunning doorgehaald) |
 
 ## Cytotoxiciteit
 
 | Item | Inhoud |
-|------|--------|
-| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch — Pyrimidine-antimetaboliet (nucleosideanaloguklasse) |
-| Risico myelosuppressie | Hoog — dosisafhankelijk; Graad IV myelosuppressie gerapporteerd in 32% van patiënten bij hoge-dosisregimes (3 g/m² IV, PMID 2156598); Graad III in nog eens 14% |
-| Emetogeniciteitsclassificatie | Laag tot matig bij standaarddoses; hoge-dosisregimes (≥1 g/m²) geassocieerd met significante nausea, braken en bijkomende toxiciteiten inclusief conjunctivitis en cerebellaire syndroom |
-| Monitoringitems | Volledig bloedcount (CBC) met differentiële telling, leverfunctietesten (LFT's), nierfunctie (creatinine, eGFR), neurologische beoordeling — met name bij hoge-dosering of intratheale toediening |
-| Behandelingsbeveiliging | Moet worden behandeld in overeenstemming met regelgeving voor cytostatische geneesmiddelhantering; geschikte persoonlijke beschermingsmiddelen (handschoenen, jas, oogbescherming) vereist; bereiding in een laminaire flow-kap aanbevolen |
+|------|------|
+| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch middel (antimetaboliet, pyrimidine-nucleosideanaloog) |
+| Risico op beenmergsuppressie | Hoog (in de fase II-studie met cisplatine bij NSCLC graad IV myelosuppressie bij 32% van de patiënten) |
+| Emetogeniciteit | Misselijkheid en braken waren in de literatuur de voornaamste niet-hematologische toxiciteit; raadpleeg de SmPC voor de classificatie |
+| Te monitoren parameters | Volledig bloedbeeld, lever- en nierfunctie |
+| Bescherming bij hantering | Hanteren volgens de richtlijnen voor cytotoxische geneesmiddelen |
 
----
+## Veiligheidsoverwegingen
 
-## Veiligheidsbeschouwingen
+Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de volledige veiligheidsinformatie.
 
-Raadpleeg het SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen Nederlandse of EU-specifieke waarschuwingen, contra-indicaties of geneesmiddelinteractiegegevens waren beschikbaar in het huidige Evidence Pack.
+- **Aandoeningen die in de kennisgraaf als contra-indicatie zijn gekoppeld** (geen productteksten): nier- en leveraandoeningen, pancreatitis, galblaasaandoeningen, trombocytopenie, leukopenie, neutropenie, agranulocytose, anemie, perifere neuropathie, longoedeem, schimmelinfecties, diarree en necrotiserende enterocolitis.
+- **Geneesmiddelinteracties**: in totaal 100 interacties gevonden. Matig: naltrexon. Gering: levofloxacine. Voor veel andere middelen (o.a. metformine, prednison, simvastatine, omeprazol, pantoprazol, morfine, vancomycine) is het niveau onbekend.
 
----
+## Conclusie en vervolgstappen
 
-## Conclusie en volgende stappen
+**Beslissing: Hold**
 
-**Beslissing: In afwachting**
-
-**Argumentatie:**
-Hoewel het TxGNN-model een hoge voorspellingsscore toewijst (99,78%) en er historisch klinisch precedent bestaat uit de jaren 1979–1988 voor cytorabinegebruik bij SCLC, is de moderne SCLC-behandeling aanzienlijk geëvolueerd — huidige eerstelijnsstandaarden (EP ± atezolizumab) bevatten geen cytorabine, en alle geïdentificeerde hedendaagse klinische onderzoeken zijn indirect. De bewijsbasis is overwegend retrospectieve caseseries en in vitro-gegevens, wat een aanwijzing "Onderzoeksvraag" rechtvaardigt in plaats van een werkbaar repurposing-signaal.
+**Onderbouwing:**
+- De voorspelling voor kleincellig longcarcinoom berust op het model; er zijn geen klinische studies en geen directe literatuur. Het gevonden bewijs betreft vooral NSCLC met beperkte respons en aanzienlijke hematologische toxiciteit.
+- Er is in Nederland geen geldige handelsvergunning meer voor het enige geregistreerde product.
 
 **Om verder te gaan is het volgende nodig:**
-- Volledige werkingsmechanismegegevens van DrugBank ophalen (momenteel een Gegevensgat) om de S-fase-specificiteitargumentatie formeel te documenteren
-- Relevante SmPC van CBG-MEB of EMA verkrijgen voor huidig NL-goedgekeurd veiligheids- en contra-indicatieprofiel
-- Huidige ESMO/NCCN-SCLC-richtlijnen controleren om specifieke niches te identificeren waar cytorabine-bevattende regimes nog van toepassing kunnen zijn (bijv. intratheale therapie voor leptomeningeale metastase, salvage na EP-falen bij MDR-ziekte)
-- Haalbaarheid van een prospectief Fase 2-onderzoek in gereactiveerde/refractaire SCLC beoordelen, mogelijk cytorabine combineren met moderne backbone-regimes of de collaterale gevoeligheidsfenotype in MDR-tumoren exploiteren
-- Evalueren of een systematisch overzicht of meta-analyse van historische SCLC + cytorabine-gegevens (1979–1997) een robuustere kwantitatieve schatting van activiteit zou kunnen opleveren
+- Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank).
+- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
+- Systematische literatuurselectie voor cytarabine specifiek bij kleincellig longcarcinoom, inclusief controle van de oude studie uit 1987.
+- Preklinische of vroege klinische gegevens die de werkzaamheid bij kleincellig longcarcinoom ondersteunen.
+- Opheldering van de status van de Nederlandse vergunning en de beschikbaarheid van het product.
 
+**Opmerking over andere voorspellingen:** neuroblastoom (rang 9, score 99,19%) heeft het hoogste bewijsniveau van de voorspelde indicaties (L3, "onderzoeksvraag"). Er zijn drie vroege klinische studies gevonden, maar geen ervan test cytarabine duidelijk als onderzoeksmiddel. Daarnaast tonen preklinische gegevens dat cyclopentenyl-cytosine neuroblastoomcellen gevoeliger maakt voor cytarabine. Dit is een hypothese die directe bevestiging vereist.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

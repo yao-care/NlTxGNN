@@ -2,7 +2,7 @@
 layout: default
 title: Fentanyl
 parent: Alleen modelvoorspelling (L5)
-nav_order: 68
+nav_order: 150
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,79 +29,73 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Fentanyl: van behandeling van ernstige pijn naar Nefrogeen syndroom van inadequate antidiurese
+# Fentanyl: Van pijnbestrijding naar nefrogeen syndroom van inadequate antidiurese
 
 ## Samenvatting in één zin
 
-Fentanyl is een potente μ-opiöïdereceptoragonist die veel gebruikt wordt in de klinische praktijk voor de behandeling van matig-ernstige acute en chronische pijn.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Nefrogeen syndroom van inadequate antidiurese (NSIAD)**, met momenteel **0 klinische onderzoeken** en **0 publicaties** die deze richting ondersteunen.
-Kritisch gezegd suggereren pharmacologische analyses dat deze voorspelling waarschijnlijk een vals positief is: het opiöïde-ADH-pad vastgelegd in de kennisgraaf staat in tegengestelde richting ten opzichte van het therapeutische doel in NSIAD.
+Voor fentanyl is in de voor dit rapport verzamelde gegevens geen geregistreerde oorspronkelijke indicatie terug te vinden; het is bekend als een sterk opioïde pijnstiller (mu-opioïdreceptoragonist). Het TxGNN-model voorspelt effectiviteit bij **nefrogeen syndroom van inadequate antidiurese (NSIAD)**, maar daarvoor zijn **0 klinische studies** en **0 publicaties** gevonden. De voorspelling berust dus uitsluitend op een grafiekmodel en is inhoudelijk niet onderbouwd.
 
----
-
-## Snelle Overzicht
+## Kort overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Behandeling van ernstige pijn (opiöïdanalgeticum; geen NL-autorisatie op record) |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens (de vergunningstekst is leeg) |
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese (NSIAD) |
-| TxGNN-voorspellingsscore | 99.46% |
+| TxGNN-voorspellingsscore | 99,46% |
 | Bewijsniveau | L5 |
-| Marktstatus Nederland | Niet geregistreerd |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Aanhouden |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling (on)aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Er zijn voor dit rapport geen gegevens over het werkingsmechanisme beschikbaar. Fentanyl is algemeen bekend als een volledige mu-opioïdreceptoragonist.
 
-Fentanyl is een krachtige μ-opiöïdereceptor (MOR) agonist met snelle werking en hoge lipofiliciteit. Opiöïdmiddelen zijn goed gevestigd in de literatuur als stimulatoren van de afscheiding van hypothalamisch antidiuretisch hormoon (ADH/vasopressine), wat een directe pharmacologische verbinding creëert met de as van de waterhuishouding van het lichaam. Dit mechanistische pad — **opiöïdereceptor → ADH-afscheiding → renale waterbinding** — is de topologische verbinding vastgelegd door de TxGNN-kennisgraaf, wat de hoge betrouwbaarheidsscore (0.9946) verklaart.
+NSIAD wordt veroorzaakt door activerende mutaties in de vasopressine-V2-receptor (AVPR2). Daardoor houdt het lichaam water vast, onafhankelijk van het hormoon vasopressine. Opioïden kunnen de afgifte van vasopressine centraal beïnvloeden, en hyponatriëmie of SIADH-achtige toestanden zijn bij opioïdgebruik beschreven. Dat zou de waterretentie echter eerder verergeren dan behandelen. Omdat NSIAD wordt veroorzaakt op receptorniveau, stroomafwaarts van de vasopressineafgifte, is een centraal opioïde effect niet therapeutisch te verwachten.
 
-NSIAD is een zeldzame ziekte veroorzaakt door gain-of-function mutaties in het *AVPR2* gen (V2-vasopressinereceptor), resulterend in constitutieve receptoractivering, ongereguleerde renale waterreabsorptie, en aanhoudende hyponatriëmie — allemaal optredend **onafhankelijk van circulerend ADH-niveaus**. De therapeutische strategie in NSIAD is het verminderen van waterbinding en het corrigeren van hyponatriëmie, niet het verder activeren van de ADH-as.
+**Conclusie:** er is geen onderbouwd mechanistisch verband. De hoge score is een louter grafiekgebaseerde voorspelling.
 
-Dit creëert een fundamentaal pharmacologisch mismatch: toediening van fentanyl aan een NSIAD-patiënt zou waarschijnlijk **ADH-gemedieerde effecten versterken en hyponatriëmie verergeren**, wat het tegenovergestelde is van het therapeutische doel. Dit is een erkende beperking van op kennisgraaf gebaseerde modellen voor herontdekking van geneesmiddelen — biologische connectiviteit tussen knooppunten impliceert geen therapeutisch voordeel, en directionaliteit is belangrijk. De hoge TxGNN-score hier weerspiegelt vrijwel zeker een vals positief geval vanwege de topologische nabijheid tussen opiöïdsysteem- en waterhuishoudingsziekteknopen in de kennisgraaf.
+### Tweede voorspelling: syndroom van Gilles de la Tourette
 
----
+Het model voorspelt ook het syndroom van Gilles de la Tourette (score 99,05%, bewijsniveau L5, beslissing Hold). Het verband is zwak en speculatief: het endogene opioïdesysteem moduleert dopaminerge signalering in het striatum, en er is beperkte interesse in opioïdmodulatoren bij tics. Fentanyl is echter een krachtige volledige agonist met hoog misbruikpotentieel, risico op ademhalingsdepressie en tolerantie- en afhankelijkheidsproblemen. Dat maakt het een slechte kandidaat voor een chronische, vaak pediatrische aandoening. Ook hiervoor zijn geen studies of publicaties gevonden.
 
-## Klinisch onderzoeksbewijs
+## Klinisch studiebewijs
 
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
-
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Literatuurbewijs
 
-Momenteel geen gerelateerde literatuur beschikbaar.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
----
+## Informatie over de Nederlandse markt
 
-## Marktinformatie Nederland
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118447//16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | Niet vermeld | Niet vermeld |
 
-Geen marktautorisaties voor fentanylbevattende producten zijn opgenomen in de CBG-MEB-gegevensset die in dit bewijspakket is opgenomen. Opgemerkt dient te worden dat fentanylproducten kunnen bestaan onder gecentraliseerde EMA-autorisatie (bijv. transdermale pleisters, buccale films voor doorbraakpijn bij kanker) of nationale RVG-registraties die niet in de actuele gegevensextractie zijn opgenomen. Beroepsbeoefenaren dienen rechtstreeks het openbare CBG-MEB-register te raadplegen voor de actuele autorisatiestatus.
-
----
+Deze vergunning is doorgehaald; er is geen geldige vergunning in Nederland.
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie over fentanyl. Gezien de indeling van fentanyl als een Schedule II krachtige opiöïd met een smalle therapeutische index, moet bijzondere aandacht worden besteed aan het risico op respiratoire depressie, afhankelijkheid- en misbruikpotentieel, en interacties met CNS-depressiva en CYP3A4-inhibitoren.
+- **Aandoeningen met mogelijke contra-indicatie (afgeleid uit de kennisgrafiek, niet uit de bijsluitertekst):** onder andere hypertensie en hypotensie, orthostatische hypotensie, het lange-QT-syndroom en torsades de pointes, leverfalen en leverziekte, nierziekte, COPD en astma, pancreatitis, galblaasziekte, inflammatoire darmziekte, angststoornissen, goedaardige prostaathyperplasie, kaliumdeficiëntie en middelenmisbruik/-afhankelijkheid.
+- **Geneesmiddelinteracties:** in de interactiedatabase zijn 100 interacties gevonden. Voorbeelden van **ernstige (Major)** interacties zijn alvimopan, aprepitant, bupropion, claritromycine, clotrimazol, dexamethason, dexfenfluramine, dolasetron, fenfluramine, granisetron en lorcaserine. **Matige (Moderate)** interacties zijn onder meer atropine, cimetidine, clidinium, dicyclomine, dronabinol, eluxadoline, glycerolfenylbutyraat, glycopyrronium en hyoscyamine.
 
----
+Raadpleeg voor waarschuwingen en contra-indicaties volgens de bijsluitertekst de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
 
-## Conclusie en Vervolgstappen
+## Conclusie en vervolgstappen
 
-**Besluit: Aanhouden**
+**Beslissing: Hold**
 
-**Grondslag:**
-Dit is een L5-voorspelling zonder ondersteunend klinisch onderzoek of gepubliceerde literatuur, en mechanistische analyse identificeert waarschijnlijk een vals positief geval: stimulatie van ADH-afscheiding door fentanyl zou hyponatriëmie in NSIAD waarschijnlijk kunnen verergeren in plaats van deze te behandelen, wat betekent dat het biologische pad dat door TxGNN is geïdentificeerd in tegengestelde richting werkt.
+**Onderbouwing:**
+- Beide voorspellingen (NSIAD en syndroom van Gilles de la Tourette) berusten uitsluitend op een modelscore (L5), zonder klinische studies of literatuur.
+- Voor NSIAD is het mechanistische verband niet ondersteund en mogelijk zelfs tegenstrijdig. Voor Tourette zijn het misbruikpotentieel en het veiligheidsprofiel van fentanyl zeer ongunstig.
+- De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).
 
-**Om verder te gaan, is het volgende nodig:**
-- Systematische literatuurreview om vast te stellen of opiöïdverbindingen ooit therapeutisch (in plaats van causaal) in NSIAD of SIADH zijn onderzocht
-- Nefrologie-expertconsultatie om te beoordelen of er enig klinisch scenario bestaat waarin MOR-agonisme NSIAD-patiënten zou kunnen baten
-- Mechanistische modellering van het netto-effect van fentanyl op V2R-onafhankelijke waterbinding in de context van gain-of-function AVPR2-mutaties
-- Herevaluatie van de TxGNN-graafkanten die het opiöïdesysteem aan NSIAD koppelen om vast te stellen of directionaliteitsmetagegevens van kanten kunnen worden opgenomen om vals-positieve voorspellingen van dit type te verminderen
-
-> **Opmerking:** De tweede TxGNN-voorspelling — **Tourette-syndroom** (score 99.05%) — draagt eveneens een L5-bewijsniveau en een aanhoudingsaanbeveling mee. Terwijl er een indirecte mechanistische verbinding bestaat via opiöïdmodulatie van striatale dopaminergische circuits (CSTC-lus), maken fentanyls hoge afhankelijkheidsrisico en extreem smalle therapeutische breedte het totaal ongeschikt voor langdurige behandeling van een chronische neuroontwikkelingsstoornis. Die voorspelling lijkt ook een topologisch vals positief geval te zijn en wordt niet aanbevolen voor verdere ontwikkeling.
-
+**Om verder te gaan is nodig:**
+- Bijsluiter- en SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties) om de veiligheidsscreening mogelijk te maken
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Preklinisch of mechanistisch bewijs dat een therapeutisch effect bij de voorgestelde indicaties aannemelijk maakt
+- Beoordeling van de route- en toedieningsvormcompatibiliteit (nu niet bepaald)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

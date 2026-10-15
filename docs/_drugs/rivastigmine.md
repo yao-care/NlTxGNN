@@ -2,7 +2,7 @@
 layout: default
 title: Rivastigmine
 parent: Matig bewijs (L3-L4)
-nav_order: 111
+nav_order: 295
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,87 +29,89 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Rivastigmine: van Alzheimer-ziekte naar Glaucoom
+# Rivastigmine: Van de ziekte van Alzheimer naar glaucoom
 
 ## Samenvatting in één zin
 
-Rivastigmine is een dubbele remmer van acetylcholinesterase (AChE) en butyrylcholinesterase (BuChE), wereldwijd aangegeven voor Alzheimer-ziekte en dementie bij de ziekte van Parkinson.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Glaucoom** door intraoculaire druk (IOP) te verminderen via dezelfde cholinerge werkingsroute die door eerstelijnsgaucoomgeneesmiddelen wordt gebruikt.
-Deze voorspelling wordt momenteel ondersteund door **0 klinische onderzoeken** en **3 preklinische/mechanistische publicaties**.
+Rivastigmine is een cholinesteraseremmer die oorspronkelijk wordt gebruikt bij de ziekte van Alzheimer en verwante hersenaandoeningen.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **glaucoom**, maar er zijn **geen geregistreerde klinische studies** en slechts **3 publicaties** (een dierstudie, een computationele analyse en een overzichtsartikel) die deze richting ondersteunen.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|---------|
-| Oorspronkelijke indicatie | Alzheimer-ziekte / dementie bij de ziekte van Parkinson (geen autorisatie in NL op record) |
+|------|------|
+| Oorspronkelijke indicatie | Ziekte van Alzheimer (en verwante aandoeningen, o.a. de ziekte van Pick, cerebellaire degeneratie) |
 | Voorspelde nieuwe indicatie | Glaucoom |
-| TxGNN-voorspellingsscore | 99.27% |
+| TxGNN-voorspellingsscore | 99,27% |
 | Bewijsniveau | L4 |
-| MarktStatus NL | Niet geregistreerd |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Uitstellen |
+| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
+| Aantal vergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Rivastigmine is een carbamaat-type remmer die tegelijkertijd AChE en BuChE blokkeert. Bij de goedgekeurde indicatie — Alzheimer-ziekte — verhoogt het het acetylcholinegehalte in de synaptische spleet van de hersenen om cognitieve achteruitgang te vertragen. Cruciaal is dat AChE ook tot uitdrukking komt in het voorste segment van het oog, specifiek in het ciliairkaam en het trabeculair weefsel. Het remmen van AChE op deze locaties veroorzaakt lokale acetylcholineophoping op dezelfde manier als in de hersenen.
+Rivastigmine remt zowel acetylcholinesterase als butyrylcholinesterase. Daardoor wordt acetylcholine minder snel afgebroken en neemt de cholinerge signalering toe. Gegevens over het werkingsmechanisme in de data die voor dit rapport zijn samengesteld ontbreken; het mechanisme hier is afgeleid uit de geneesmiddelklasse.
 
-Dit acetylcholineoverschot activeert M3-muscarinereceptoren in het ciliairkaam en trabeculair weefsel, wat ciliairkaamcontractie en verwijding van de trabeculaire weefsselkanalen stimuleert. Het netto resultaat is verhoogde kamerwaterafvoer en een meetbare verlaging van de intraoculaire druk (IOP). Dit is mechanistisch dezelfde geneesmiddelenklasse als Pilocarpine, een door EMA/FDA goedgekeurd eerstelijnsgeneesmiddel voor glaucoom - wat de TxGNN-voorspelling vanuit farmacologisch oogpunt zeer aannemelijk maakt.
+Bij glaucoom kan versterkte cholinerge signalering in de ciliaire spier en het trabeculair netwerk de afvoer van kamerwater vergroten en zo de oogdruk verlagen. Dit is dezelfde basis als bij klassieke parasympathicomimetica zoals pilocarpine en fysostigmine. Een preklinische studie (PMID 10673128, 2000) toonde aan dat topisch rivastigmine de oogdruk verlaagde bij konijnen. Een analyse uit 2024 (PMID 39130374) geeft aanvullende computationele en mechanistische ondersteuning.
 
-De centrale translationele hindernis is de toedieningsroute. Alle momenteel goedgekeurde rivastigmineproducten wereldwijd zijn systemische formuleringen (transdermale pleister en orale capsule). Oftalmologisch gebruik zou het ontwikkelen van een speciaal topicaal oogdruppel vereisen, wat bloedhersenbarrièrekwesties omzeilt maar nieuwe lokale biobeschikbaarheidsen veiligheidsgegevens nodig maakt. Een konijnenstudie uit 2000 (PMID 10673128) toonde al aan dat topisch toegepaste rivastigmine de IOP verlaagt bij normotensieve dieren, wat direct bewijs van concept voor deze benadering levert.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
+Let op: de hoge TxGNN-score is slechts een modelvoorspelling en geen klinisch bewijs. Er zijn geen humane glaucoomgegevens beschikbaar. Cholinesterseremmers hebben bovendien bekende oculaire en systemische cholinerge bijwerkingen (o.a. miosis, bradycardie, maag-darmklachten).
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit klinische studies
 
-| PMID | Jaar | Soort | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|---------|-------------|
-| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Dierstudie (konijn) | J Ocular Pharmacol Ther | Topische rivastigmine verlaagde de IOP bij normotensieve bewuste konijnen gedurende een periode van 8 uur — direct bewijs van concept voor oftalmologische toepassing van een selectieve AChE-remmer |
-| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Systeemgenetica / Moleculaire modellering | Frontiers in Molecular Biosciences | Analyse met meerdere methoden bevestigt dat M3-muscarinereceptoractivering in het voorste oogsegment IOP via het trabeculair weefsel reguleert; identificeert mechanistische basis die AChE-remmers als IOP-verlagende kandidaten ondersteunt |
-| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Patentliteratuuroverzicht | Expert Opinion on Therapeutic Patents | Uitgebreid overzicht van AChE-remmerpatenten (2012–2015) bevestigt glaucoom als een gevestigde therapeutische toepassing naast Alzheimer-ziekte; milde AChE-remming onderscheidt zich van giftige sterke remming |
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Preklinische dierstudie (konijn, topisch) | J Ocul Pharmacol Ther | Topisch rivastigmine, een selectieve acetylcholinesteraseremmer, verlaagde de oogdruk bij normotensieve konijnen. |
+| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Computationele/systeemgenetische analyse | Front Mol Biosci | Onderzoek naar cholinerge middelen voor oogdrukverlaging; wijst op beperkingen van bestaande M3-agonisten door systemische cholinerge bijwerkingen. |
+| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Review (octrooiliteratuur) | Expert Opin Ther Pat | Overzicht van acetylcholinesteraseremmers en reactivatoren; milde remming heeft therapeutische relevantie bij o.a. Alzheimer, myasthenia gravis en glaucoom. |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Er zijn geen CBG-MEB-vergunningen voor Rivastigmine opgenomen in de huidige dataset (totale licenties: 0, marktStatus: niet geregistreerd).
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 115384 | Rivastigmine Sandoz 13,3 mg/24 uur, pleisters voor transdermaal gebruik (ingetrokken) | Transdermale pleister | Niet beschikbaar in de data |
 
-> **Verificatie aanbevolen:** Rivastigmine (Exelon®) heeft centrale EMA-autorisatie en is commercieel beschikbaar in alle EU-lidstaten, inclusief Nederland. De afwezigheid van NL-specifieke registraties weerspiegelt waarschijnlijk een gegevenspipeline-hiaat in plaats van een werkelijk gebrek aan markttoegang. Het CBG-MEB-register moet direct worden geraadpleegd om de huidige autorisatiestatus te bevestigen voordat enige regelgevingsbeoordeling wordt voortgezet.
+De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.
 
 ---
 
-## Veiligheidsconsideraties
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor volledige veiligheidsinformatie.
+- **Contra-indicaties uit de kennisgraaf (geen productteksten):** de TxGNN-kennisgraaf koppelt rivastigmine aan onder meer epilepsie, astma, chronische obstructieve longziekte (COPD), actieve maagzweer, urinewegobstructie, hartgeleidingsstoornissen (waaronder sick-sinussyndroom en atrioventriculair blok), plotselinge hartstilstand, ziekte van Parkinson en andere parkinsonistische aandoeningen, basaalganglialaandoeningen, focale handdystonie, blefarospasme, diarree en anorexia nervosa. Deze koppelingen zijn niet afkomstig van de officiële bijsluiter en moeten worden geverifieerd.
+- **Geneesmiddelinteracties:** 100 interacties gevonden, waarvan hier de belangrijkste:
+  - **Ernstig (Major):** bupropion.
+  - **Matig (Moderate):** onder meer anticholinergica (atropine, hyoscyamine, glycopyrronium, dicyclomine, trospium, clidinium, mepenzolaat), H2-blokkers (famotidine, ranitidine, cimetidine), loperamide, metronidazol, claritromycine, levofloxacine, dolasetron en palonosetron, en enkele darmspoelmiddelen (picosulfaat, macrogol, natriumsulfaat).
 
-> Er waren geen contra-aanwijzingen, belangrijke waarschuwingen of interactiegegevens tussen geneesmiddelen beschikbaar in het huidige Bewijspakket. Voordat enige klinische toepassing wordt gebruikt, moet de Exelon®-SmPC (beschikbaar via de EMA-productdatabase) worden gecontroleerd - met bijzondere aandacht voor cholinerge klasseffecten zoals misselijkheid, braken, bradycardie en bronchospasme, die allemaal verhoogde relevantie hebben in een oftalmologische context waarbij systemische opname via het nasolacrimalkanaal zelfs met topische formuleringen mogelijk blijft.
+Voor volledige veiligheidsinformatie, waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Uitstellen**
+**Beslissing: Hold**
 
-**Grondslag:**
-De mechanistische link tussen Rivastigmine en IOP-verlaging is wetenschappelijk gezond en valt binnen dezelfde geneesmiddelenklasse als een goedgekeurd gaucoomgeneesmiddel, maar al het huidige bewijs blijft op preklinisch/mechanistisch niveau (L4) — één diermodelonderzoek en twee mechanistische/overzichtspublicaties — zonder enige klinische onderzoeksgegevens bij mensen. Bovendien belemmert het gegevensgat voor NL-marktautorisatie een volledige regelgevingsbeoordeling onder het CBG-MEB-kader.
+**Onderbouwing:**
+Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies. Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu niet verantwoord is.
 
-**Om door te gaan is het volgende nodig:**
-
-- **Klinisch bewijs:** Minimaal één fase-1/2-onderzoek bij mensen die topische rivastigmine voor IOP-verlaging evalueren — dit is het meest kritieke bewijsvacuüm
-- **Formulering-ontwikkeling:** Een speciaal topicaal oftalmologische formulering (oogdruppel) moet worden ontwikkeld en gekarakteriseerd voor lokale biobeschikbaarheid, stabiliteit en tolerabiliteit, aangezien bestaande goedgekeurde producten systemisch zijn
-- **Veiligheidsdossier:** Volledige SmPC-beoordeling (contra-aanwijzingen, waarschuwingen, medicijninteracties) inclusief beoordeling van systemische cholinerge risico's van oculaire opname
-- **NL regelgevingsstatus:** Controleer direct de huidige CBG-MEB-autorisatiestatus; als Exelon® centraal via EMA is geautoriseerd, kan de bestaande SmPC mogelijk al aan een deel van de veiligheidsbeoordeling voldoen
-- **MOA-documentatie:** Formele werkingsmechanisme-gegevens van DrugBank om het bewijspakket voor regelgevingsindiening aan te vullen
-
+**Om verder te gaan is het volgende nodig:**
+- Productinformatie (SmPC/bijsluiter) van het CBG-MEB ophalen en analyseren op waarschuwingen en contra-indicaties (blokkerende gegevenslacune)
+- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
+- Humane gegevens verzamelen, zoals een klein fase 1/2-onderzoek naar oogdrukverlaging bij glaucoom
+- Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is
+- Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

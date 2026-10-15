@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cholecalciferol
-parent: Alleen modelvoorspelling (L5)
-nav_order: 41
-evidence_level: L5
+parent: Sterk bewijs (L1-L2)
+nav_order: 83
+evidence_level: L2
 indication_count: 7
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,110 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Cholecalciferol: Van vitamine D-suppletie tot familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie
+# Cholecalciferol: Van osteoporose en vitamine D-deficiëntie naar renale osteodystrofie
 
 ## Samenvatting in één zin
 
-Cholecalciferol (vitamine D3) is een vetoplosbare voedingsstof en geneesmiddel dat klassiek wordt gebruikt om vitamine D-deficiëntie te corrigeren en de calcium-fosfaathuishouding en beendeelgezondheid te ondersteunen, hoewel het momenteel geen registratie bij de Nederlandse CBG-MEB heeft.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie** (wereldwijde rang #553 onder alle ziektevoorspellingen),
-zonder **klinische onderzoeken** en **geen ziekte-specifieke publicaties** die deze richting momenteel ondersteunen — het bewijs blijft beperkt tot het niveau van modelvoorspelling.
+Cholecalciferol (vitamine D3) wordt van oudsher gebruikt bij botziekten en stoornissen van het calcium- en fosfaatmetabolisme, zoals osteoporose, rachitis, osteomalacie en vitamine D-deficiëntie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **renale osteodystrofie** (score 99,1%), met **2 klinische studies** en **20 publicaties** die deze richting ondersteunen. Voor de andere voorspelde indicaties met een hogere score is de onderbouwing zwakker of ontbreekt die.
+
+> Opmerking: de voorspelling met de hoogste TxGNN-score (familiale geïsoleerde hypoparathyreoïdie) heeft geen enkele klinische studie of publicatie. Dit rapport richt zich daarom op de voorspelling met de meeste evidence (renale osteodystrofie) en geeft de overige voorspellingen kort weer.
 
 ---
 
-## Snelleoverzicht
+## Snel overzicht
 
-| Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Vitamine D-deficiëntie; ondersteuning van calcium- en fosfaatmetabolisme (geen Nederlandse registratie aanwezig) |
-| Voorspelde nieuwe indicatie | Familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie |
-| TxGNN-voorspellingsscore | 99.79% |
-| Bewijsniveau | L5 |
-| Nederlandse marktstand | Niet op de markt (Niet op de markt) |
-| Aantal registraties | 0 |
-| Aanbevolen beslissing | Uitstel |
+| Onderdeel | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Osteoporose, vitamine D-deficiëntie, rachitis, osteomalacie, hypoparathyreoïdie (volgens de kennisgraaf; er is geen goedgekeurde indicatietekst beschikbaar voor de Nederlandse registratie) |
+| Voorspelde nieuwe indicatie | Renale osteodystrofie |
+| TxGNN-voorspellingsscore | 99,1% |
+| Evidenceniveau | L2 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
+| Aantal registraties | 1 (doorgehaald) |
+| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
+
+Ter vergelijking, de overige voorspellingen:
+
+| Voorspelde indicatie | TxGNN-score | Evidenceniveau | Aanbeveling |
+|------|------|------|------|
+| Familiale geïsoleerde hypoparathyreoïdie door verstoorde PTH-secretie | 99,8% | L5 | Hold |
+| Acromesomele dysplasie, type Campailla-Martinelli | 99,8% | L5 | Hold |
+| Craniofaciale conodysplasie | 99,7% | L5 | Hold |
+| Dahlberg-Borer-Newcomer-syndroom | 99,7% | L5 | Hold |
+| Hypofosfatemische rachitis | 99,2% | L4 | Onderzoeksvraag |
+| Renale tubulaire acidose | 99,1% | L4 | Onderzoeksvraag |
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Formele gegevens over het werkingsmechanisme werden niet uit DrugBank opgehaald voor dit bewijspakket. De farmacologie van cholecalciferol is echter goed vastgesteld: het is een **inactieve voorloper van het vitamine D-hormoonsysteem**. Na huidzynthese of orale inname ondergaat cholecalciferol eerste-passage 25-hydroxylering in de lever (waarbij 25-hydroxyvitamine D ontstaat, de belangrijkste circulerende opslagvorm) en vervolgens een kritieke tweede hydroxylering in de nier via het enzym 1α-hydroxylase (CYP27B1), wat calcitriol [1,25(OH)₂D] oplevert — het biologisch actieve hormoon dat intestinale calcium- en fosfaatopname bevordert en werkt op bot en de bijschildklieren.
+Voor het werkingsmechanisme van cholecalciferol zijn in de samengestelde data geen gedetailleerde gegevens beschikbaar. Op basis van bekende informatie is cholecalciferol een prohormoon: het wordt in de lever omgezet in 25-hydroxyvitamine D en vervolgens in de nieren in het actieve 1,25-dihydroxyvitamine D (calcitriol). Dit reguleert de opname van calcium en fosfaat en de botmineralisatie.
 
-Familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie is een zeldzame erfelijke aandoening waarin de bijschildklieren structureel aanwezig zijn maar niet voldoende PTH uitscheiden. Dit leidt tot chronische hypocalcaemie en hyperfosfataemie. Het kritieke farmacologische probleem voor cholecalciferol in deze setting is dat **PTH een van de primaire stimulatoren van renale 1α-hydroxylase is**: PTH-deficiëntie verstoort daarom direct de conversie van cholecalciferol naar calcitriol. Het suppleren van de inactieve voorloper bij een patiënt die deze niet efficiënt kan activeren, is een mechanistisch suboptimale strategie en brengt een echt risico op onvoldoende therapeutisch effect met zich mee. Actieve vitamine D-analoga — calcitriol of alfacalcidol — omzeilen dit conversie-knelpunt volledig en vertegenwoordigen de huidige klinische standaardbehandeling voor hypoparathyroïdie.
+Bij chronische nierziekte (CKD) is dit systeem verstoord. De nier kan vitamine D minder goed activeren, vitamine D-tekort komt vaak voor en secundaire hyperparathyreoïdie ontstaat; samen veroorzaken deze factoren renale osteodystrofie. Cholecalciferol vult het substraat 25-OH-vitamine D aan, wat via omzetting buiten de nier de PTH-spiegel kan verlagen. Dit sluit aan bij de bestaande botindicaties en het mechanisme waarvoor het middel in de kennisgraaf al bekend is.
 
-Het TxGNN-model wijst een hoge score (99.79%) toe aan deze combinatie, waarschijnlijk omdat het model de gedeelde knooppunten vastlegt die vitamine D-metabolisme, calciumsignalering en bijschildklierbologie in het kennisgraaf verbinden, in plaats van een specifieke farmacologische superioriteit van cholecalciferol ten opzichte van bestaande actieve analoga op te sporen. De mechanistische verbinding is reëel op biologisch systeemniveau, maar zeer speculatief als therapeutische rationale voor cholecalciferol specifiek. Er zijn geen klinische onderzoeken en geen ziekte-specifieke publicaties geïdentificeerd die deze herbestemming ondersteunen.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd voor deze specifieke indicatie (familiaire geïsoleerde hypoparathyroïdie door verminderde PTH-secretie).
+Een belangrijke kanttekening: de studies richten zich op verwante surrogaateindpunten (vitamine D-status, PTH, botverlies) en niet op harde uitkomsten bij renale osteodystrofie zelf. Bij gevorderde CKD is vaak ook actieve vitamine D of een calcimimeticum nodig.
 
 ---
 
-## Literatuurbewijs
+## Evidentie uit klinische studies
 
-Momenteel geen gerelateerde literatuur beschikbaar voor deze indicatie.
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+|---------|------|------|------|---------|
+| [NCT00752401](https://clinicaltrials.gov/study/NCT00752401) | Fase 3 | Onbekend | 200 | Placebogecontroleerde RCT (VITA-D): effect van cholecalciferolsuppletie op uitkomsten na niertransplantatie (GFR, creatinine, afstotingen, infecties, CRP) bij patiënten met vitamine D-tekort |
+| [NCT00285467](https://clinicaltrials.gov/study/NCT00285467) | N.v.t. | Afgerond | 55 | Vergelijking van cholecalciferol met doxercalciferol bij secundaire hyperparathyreoïdie bij CKD-stadium 3-4; geen resultaten beschikbaar |
+
+---
+
+## Evidentie uit de literatuur
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|-----|------|------|------|---------|
+| [34747516](https://pubmed.ncbi.nlm.nih.gov/34747516/) | 2022 | RCT (secundaire analyse) | J Bone Miner Res | Cholecalciferolsuppletie vermindert botverlies bij nieuwe niertransplantatiepatiënten (193 patiënten gerandomiseerd) |
+| [35200136](https://pubmed.ncbi.nlm.nih.gov/35200136/) | 2022 | Prospectieve gecontroleerde studie | Clin Nephrol | Effect van vitamine D-sterolen op bothistologie bij predialysepatiënten |
+| [38397979](https://pubmed.ncbi.nlm.nih.gov/38397979/) | 2024 | Klinische studie | Biomedicines | Werkzaamheid en veiligheid van hooggedoseerd cholecalciferol bij hemodialysepatiënten |
+| [39597015](https://pubmed.ncbi.nlm.nih.gov/39597015/) | 2024 | Observationeel | Medicina | Hemodialysepatiënten kunnen baat hebben bij cholecalciferol gericht op hoge 25(OH)D-spiegels |
+| [30274806](https://pubmed.ncbi.nlm.nih.gov/30274806/) | 2019 | Review | Nefrologia | Rol van natieve vitamine D bij predialyse-CKD blijft onduidelijk |
+| [33922902](https://pubmed.ncbi.nlm.nih.gov/33922902/) | 2021 | Review | Nutrients | Effecten van vitamine D op bot en hart- en vaatstelsel bij CKD en transplantatie |
+| [30297082](https://pubmed.ncbi.nlm.nih.gov/30297082/) | 2018 | Workshopverslag | Am J Kidney Dis | Beheer van vitamine D bij CKD-stadium 3-4 blijft controversieel |
+| [34626363](https://pubmed.ncbi.nlm.nih.gov/34626363/) | 2022 | Review | J Nephrol | Calcifediol met verlengde afgifte bij secundaire hyperparathyreoïdie met hypovitaminose D |
+| [20671739](https://pubmed.ncbi.nlm.nih.gov/20671739/) | 2010 | Review | Kidney Int Suppl | Nierbotziekte en vitamine D hangen samen met mortaliteit bij CKD |
+| [21947120](https://pubmed.ncbi.nlm.nih.gov/21947120/) | 2011 | Review | Nat Rev Nephrol | Mineraal- en botstoornissen bij kinderen met CKD |
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119747//109398 | D-Cura 100.000 IE, drank | Niet beschikbaar | Niet beschikbaar (registratie doorgehaald) |
+
+Er is geen geldige registratie in Nederland voor dit middel in de samengestelde data. Raadpleeg het CBG-MEB voor de actuele status en de SmPC (Samenvatting van de Productkenmerken) van andere cholecalciferolproducten.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van productkenmerken) voor veiligheidsinformatie. Er werden geen gegevens over geneesmiddel-geneesmiddelinteracties, belangrijke waarschuwingen of contra-indicaties gevonden in de gegevensbronnen die voor dit bewijspakket werden geraadpleegd (DDI-querystatus: niet gevonden; belangrijke waarschuwingen en contra-indicaties: niet beschikbaar in de geraadpleegde bronnen).
+- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit PrimeKG, geen bijsluitertekst): onder meer hypercalciëmie, nefrocalcinose, hyperparathyreoïdie, sarcoïdose, nierziekte, leverziekte, primaire hyperoxalurie, de ziekte van Wilson, hyperlipidemie, diabetes mellitus, atriumfibrilleren, hypertensie en prostaat- of borstkanker.
+- **Geneesmiddelinteracties**: 56 interacties gevonden. Ernstige (Major) interacties betreffen andere vitamine D-preparaten: calcifediol, calcitriol, dihydrotachysterol en doxercalciferol (risico op hypercalciëmie). Matige interacties zijn onder meer thiazidediuretica (bendroflumethiazide, chloorthiazide, chloortalidon), barbituraten (amobarbital, butabarbital, butalbital), carbamazepine, galzuurbindende middelen (colestyramine, colesevelam, colestipol) en digoxine/digitoxine.
+- **Specifieke waarschuwing uit de literatuur**: bij renale tubulaire acidose is een overdosering van vitamine D3 beschreven na een voorbarige diagnose van rachitis. Ook is bij een kind met X-gebonden hypofosfatemische rachitis een vroegtijdige schedelnaadsynostose gemeld bij vitamine D-intoxicatie.
 
-> **Praktische noot voor clinici:** Hoewel specifieke veiligheidsgegevens niet werden opgehaald, omvatten bekende risico's van vitamine D-suppletie **hypercalcaemie** en **hypercalciurie**, die van bijzonder belang zijn bij aandoeningen waarbij de calciumhuishouding al verstoord is, zoals hypoparathyroïdie. Regelmatige bewaking van serumcalcium, urineacalcium en nierfunctie is standaardpraktijk.
+Gegevens uit de officiële bijsluiter (waarschuwingen en contra-indicaties) ontbreken. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Uitstel**
+**Besluit: Proceed with Guardrails (doorgaan met waarborgen)** voor renale osteodystrofie.
 
-**Rationale:**
-Dit is een voorspelling op modelniveau (L5) zonder ondersteunende klinische onderzoeken of ziekte-specifieke publicaties. Nog kritiekser is dat de mechanistische rationale farmacologisch zelflimiterend is: cholecalciferol is, als inactieve voorloper die PTH-afhankelijke 1α-hydroxylering voor activering nodig heeft, niet de geschikte medicijnvorm voor een aandoening gekenmerkt door PTH-deficiëntie. Actieve vitamine D-analoga (calcitriol, alfacalcidol) zijn de gevestigde en richtlijngesteunde standaardbehandeling voor hypoparathyroïdie en zouden de wetenschappelijk ondersteunde herbestemming-kandidaten in dit ziektegebied zijn — niet cholecalciferol.
+**Onderbouwing:**
+- Er is één fase 3-RCT (status onbekend, geen resultaten) en één afgeronde kleine vergelijkende studie, aangevuld met literatuur over CKD-gerelateerde botziekte. Het evidenceniveau is daarom L2 en niet L1.
+- De overige voorspellingen met hogere scores (hypoparathyreoïdie-subtype en de zeldzame skeletdysplasieën) berusten alleen op modelvoorspelling (L5) en krijgen de aanbeveling Hold. Hypofosfatemische rachitis en renale tubulaire acidose zijn onderzoeksvragen (L4).
 
-**Om door te gaan, zou het volgende nodig zijn:**
-
-- Opvraging van TFDA/EMA SmPC-gegevens voor formele veiligheidsevaluatie (waarschuwingen, contra-indicaties, toxicologie)
-- Volledige opvraging van DrugBank MOA-gegevens om de mechanistische basis te bevestigen
-- Een preklinische of mechanistische studie die specifiek aantoont dat cholecalciferol een klinisch betekenisvol voordeel **boven** calcitriol/alfacalcidol bij PTH-deficiënte patiënten biedt (bijvoorbeeld via extrarenale 1α-hydroxyleringswegen)
-- Op zijn minst, caseverslagen of pilotgegevens specifiek voor familiaire geïsoleerde hypoparathyroïdie waarbij cholecalciferol als interventie wordt gebruikt
-- Verduidelijking van de regelgevingsclassificatie van cholecalciferol in Nederland (voedingssupplement versus geneesmiddel), aangezien dit van invloed is op het toepasselijke regelgevingstraject onder CBG-MEB/EMA-kader
-
-> **Onderzoeksnoot:** Indien de bredere vraag over vitamine D–hypoparathyroïdie-herbestemming van belang is, zou het onderzoek verplaatsen naar **actieve analoga die al in Nederland zijn geregistreerd** (calcitriol, alfacalcidol, paricalcitol) mechanistisch verdedigbaarder zijn en waarschijnlijk hoger kwaliteitsbewijs opleveren.
-
+**Voor vervolgstappen is nodig:**
+- Resultaten en actuele status van NCT00752401, en bij voorkeur studies met harde botuitkomsten bij renale osteodystrofie.
+- De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB (nu ontbrekend) en gegevens over het werkingsmechanisme.
+- Een monitoringplan met controle van calcium, fosfaat en PTH, aandacht voor hypercalciëmie, en dosisaanpassing op basis van CKD-stadium en gelijktijdig gebruik van actieve vitamine D of calcimimetica.
+- Een besluit over de marktpositie: de enige bekende registratie (D-Cura 100.000 IE) is doorgehaald, dus beschikbaarheid via andere geregistreerde cholecalciferolproducten moet worden onderzocht.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

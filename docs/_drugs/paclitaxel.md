@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Paclitaxel
-parent: Sterk bewijs (L1-L2)
-nav_order: 103
-evidence_level: L1
+parent: Alleen modelvoorspelling (L5)
+nav_order: 263
+evidence_level: L5
 indication_count: 10
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,120 +29,124 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Paclitaxel: van internationaal erkende taxaanstof naar vrouwelijk borstcarcinoom
+# Paclitaxel: Van ovariumkanker naar borstkanker bij vrouwen (female breast carcinoma)
 
-## Samenvatting in één zin
+## Samenvatting in één oogopslag
 
-Paclitaxel is een goed gevestigde taxaanstof met uitgebreide wereldwijde klinische toepassing in de oncologie, maar heeft momenteel geen formele markttoelating bij het CBG-MEB in Nederland.
-Het TxGNN-model voorspelt met zeer hoog vertrouwen dat het effectief is voor **vrouwelijk borstcarcinoom**,
-met **meerdere voltooide fase III-onderzoeken** en **meer dan 20 publicaties** die deze richting momenteel ondersteunen.
+Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengestelde gegevens staat het vooral als middel bij ovariumkanker. Het TxGNN-model voorspelt effectiviteit bij **borstkanker bij vrouwen**. Dit wordt ondersteund door **44 geregistreerde klinische studies** (waaronder 7 afgeronde fase 3-studies) en **20 publicaties**. Let op: paclitaxel wordt bij borstkanker al breed gebruikt. Het gaat hier dus om een indicatie dicht bij het bestaande gebruik en niet om echte herpositionering.
 
 ---
 
-## Snelkoverzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Geen huidige CBG-MEB-toelating geregistreerd in Nederland |
-| Voorspelde nieuwe indicatie | Vrouwelijk borstcarcinoom |
-| TxGNN-voorspellingsscore | 99.995% |
-| Bewijsniveau | L1 |
-| NL-marktpositie | Niet geregistreerd |
-| Aantal toelatingen | 0 |
-| Aanbevolen beslissing | Doorgaan met waarborgen |
+|------|------|
+| Oorspronkelijke indicatie | Ovariumkanker (de vergunningsgegevens bevatten geen indicatietekst; deze indicatie komt uit de kennisgraaf van het model) |
+| Voorspelde nieuwe indicatie | Borstkanker bij vrouwen (female breast carcinoma) |
+| TxGNN-voorspellingsscore | 99,995% |
+| Bewijsniveau | L1 (zie toelichting hieronder) |
+| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen besluit | Doorgaan met randvoorwaarden (Proceed with Guardrails) |
+
+**Toelichting bewijsniveau:** de gegevens bevatten 7 afgeronde gerandomiseerde fase 3-studies waarin paclitaxel onderdeel is van het regime. Volgens de beoordelingsregels (≥2 afgeronde fase 3-RCT's) is dat L1. De eerder berekende classificatie was L2, met de opmerking dat er geen fase 3-studie zou zijn. Dat komt niet overeen met de studielijst. In veel van deze studies is paclitaxel het basisregime en niet de onderzochte variabele, dus L1 moet voorzichtig worden gelezen.
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over werkingsmechanisme werden niet opgehaald uit DrugBank in dit Evidence Pack. Op basis van goed gevestigde farmacologische kennis is Paclitaxel een cytostatisch werkende stof uit de taxaanklasse die zijn antineoplastische effect uitoefent door binding aan en stabilisering van gepolymeriseerde microtubuli, waardoor hun depolymerisering wordt voorkomen. Dit arresteert de celcyclus in de G2/M-fase en activeert uiteindelijk apoptose in snel delende cellen. Dit mechanisme is uitgebreid gedocumenteerd in vakbladen (PMID 31783552) en vormt de biologische basis voor de brede toepassing in solide tumoroncologie wereldwijd.
+Gedetailleerde werkingsmechanismegegevens (DrugBank) ontbreken in de samengestelde gegevens. Uit de bekende farmacologie volgt wel dat paclitaxel microtubuli stabiliseert en de afbraak van de mitotische spoel blokkeert. Dat leidt tot G2/M-arrest en apoptose in snel delende tumorcellen. Dit werkingsmechanisme hangt niet af van hormoonreceptoren.
 
-Vrouwelijke borstkankercellen worden gekenmerkt door hoge proliferatieve activiteit, wat ze bijzonder kwetsbaar maakt voor G2/M-arrest geïnduceerd door paclitaxel. Het geneesmiddel heeft klinische werkzaamheid aangetoond in alle belangrijke borstkankertypes: HER2-positieve ziekte (in combinatie met trastuzumab en pertuzumab), triple-negatieve borstkanker (TNBC, ook in combinatie met atezolizumab of pembrolizumab via het IMpassion130-programma), en hoogrisico hormoonreceptor-positieve ziekte waar cytostatische chemotherapie is geïndiceerd. Belangrijke fase III-onderzoeken — met name NCT00005970 (n = 3.436) — hebben vastgesteld dat de AC → wekelijkse paclitaxel-sequentie een hoeksteen is van adjuvante borstkankertherapie.
-
-Vanuit Nederlands perspectief is Paclitaxel, hoewel niet momenteel geregistreerd bij het CBG-MEB, voorzien van EMA-status van centraal gemachtigd geneesmiddel (CAP) voor borstkanker en wordt het routinematig gebruikt in Nederlandse oncologiecentra onder die EMA-toelatingen. De TxGNN-voorspellingsscore van 99.995% bevestigt in wezen de bestaande wereldwijde klinische bewijsgrondslag, wat suggereert dat het ontbreken van een Nederlands-specifiek CBG-MEB-item een regelgevingsdatabasegat weerspiegelt in plaats van enige klinische of veiligheidszorg over de toepasbaarheid van het geneesmiddel.
+Ovariumkanker en borstkanker zijn beide solide tumoren die gevoelig zijn voor taxanen. Het celdodende effect van paclitaxel is dus op beide van toepassing. Paclitaxel en nab-paclitaxel zijn bij borstkanker al gevestigde behandelingen, onder meer bij gemetastaseerde ziekte en in neoadjuvante en adjuvante regimes. De voorspelling van het model komt daarmee overeen met de klinische praktijk.
 
 ---
 
-## Klinisch onderzoeksbewijs
+## Klinische studies
 
-| Onderzoeksnummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
+Er zijn 44 studies gevonden. Hieronder staan de 10 meest relevante: gerandomiseerde fase 3-studies en studies met de hoogste relevantiebeoordeling.
+
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00005970](https://clinicaltrials.gov/study/NCT00005970) | Fase III | Voltooid | 3.436 | Belangrijk adjuvant onderzoek: AC gevolgd door wekelijkse paclitaxel ± trastuzumab bij HER2-overexpressie of hoogrisico knoop-negatieve borstkanker. Stelde wekelijkse paclitaxel vast als standaard-van-zorg adjuvante ruggengraat en is het pivotale referentieonderzoek voor deze indicatie. |
-| [NCT00002953](https://clinicaltrials.gov/study/NCT00002953) | Fase III | Voltooid | 704 | Gerandomiseerde vergelijking van epirubicine + cyclophosphamide versus epirubicine + paclitaxel bij vrouwen met gemetastaseerde borstkanker. Evalueerde rechtstreeks paclitaxel-gebaseerde combinatie versus anthracycline-dublet in de gemetastaseerde setting. |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Fase III | Voltooid | 326 | Onderhoudtherapie versus observatie na respons op gemcitabine + paclitaxel (GP) als eerstelijnschemotherapie in gemetastaseerde of recidiverende borstkanker. Evalueerde rechtstreeks de rol van paclitaxel in langetermijnziekteverloop. |
-| [NCT03949634](https://clinicaltrials.gov/study/NCT03949634) | Fase III | Onbekend | 272 | Postmarketingonderzoek met gerandomiseerde vergelijking van PEGyleerd liposomaal doxorubicine versus een paclitaxel-bevattend controleregime voor cardiaalveiligheid en werkzaamheid in vroeg-stadium vrouwelijk borstcarcinoom. |
-| [NCT01426880](https://clinicaltrials.gov/study/NCT01426880) | Fase II/III | Voltooid | 595 | Onderzoek naar toevoeging van carboplatin aan standaard neoadjuvante anthracycline-taxaantherapie in triple-negatieve en HER2-positieve vroeg-stadium borstkanker. Aangetoond verhoogde pathologische complete response (pCR)-percentages met carboplatin-toevoeging aan paclitaxel-ruggengraat. |
-| [NCT03289819](https://clinicaltrials.gov/study/NCT03289819) | Fase II | Voltooid | 53 | Single-arm onderzoek van nab-paclitaxel + pembrolizumab gevolgd door epirubicine + cyclophosphamide als neoadjuvante behandeling in TNBC. Verkende immunotherapie–taxaan-synergie met pCR als primair eindpunt. |
-| [NCT01276041](https://clinicaltrials.gov/study/NCT01276041) | Fase II | Voltooid | 70 | Wekelijkse paclitaxel in combinatie met trastuzumab + pertuzumab voor gemetastaseerde HER2-positieve borstkanker. Evalueerde dubbele HER2-blokkade ondersteund door wekelijkse paclitaxel als de chemotherapie-ruggengraat. |
-| [NCT04293393](https://clinicaltrials.gov/study/NCT04293393) | Fase II | Actief, niet meer wervend | 200 | Gerandomiseerde vergelijking van standaard neoadjuvante chemotherapie (paclitaxel-gebaseerd) versus letrozol + abemaciclib in HR+/HER2− hoog-/intermediair-risico borstkanker. Paclitaxel-gebaseerde arm dient als klinische benchmark. |
-| [NCT05569811](https://clinicaltrials.gov/study/NCT05569811) | Fase II | Actief, niet meer wervend | 120 | VALENTINE-onderzoek: driearmig neoadjuvant onderzoek met vergelijking van multi-agent chemotherapie (paclitaxel bevattend) versus HER3-DXd ± letrozol in HR+/HER2− borstkanker met hoog genomisch risico. |
-| [NCT05189535](https://clinicaltrials.gov/study/NCT05189535) | Fase II/III | Voltooid | 66 | Evalueerde pentoxifylline 400 mg twee keer daags voor preventie van paclitaxel-geïnduceerde perifere neuropathie bij borstkankerpatiënten. Informeert rechtstreeks veiligheidsbeheerprotocollen voor Nederlandse klinische praktijk. |
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Fase 3 | Afgerond | Niet vermeld | Paclitaxel met of zonder gemcitabine bij inoperabele, lokaal teruggekeerde of gemetastaseerde borstkanker |
+| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | Fase 3 | Afgerond | 652 | Taxaanchemotherapie met lapatinib versus trastuzumab als eerstelijnsbehandeling bij HER2-positieve gemetastaseerde borstkanker |
+| [NCT01822314](https://clinicaltrials.gov/study/NCT01822314) | Fase 3 | Afgerond | 632 | Neoadjuvant nab-paclitaxel versus oplosmiddelgebonden paclitaxel (gevolgd door AC/EC/FEC) bij HER2-negatieve borstkanker met hoog risico; primair eindpunt pathologisch complete respons |
+| [NCT00075270](https://clinicaltrials.gov/study/NCT00075270) | Fase 3 | Afgerond | 580 | Paclitaxel met lapatinib versus paclitaxel met placebo als eerstelijnsbehandeling bij gevorderde of gemetastaseerde borstkanker |
+| [NCT00431080](https://clinicaltrials.gov/study/NCT00431080) | Fase 3 | Afgerond | 478 | Dose-dense FE75C gevolgd door docetaxel versus paclitaxel als adjuvante chemotherapie bij borstkanker met positieve lymfeklieren |
+| [NCT00553358](https://clinicaltrials.gov/study/NCT00553358) | Fase 3 | Afgerond | 455 | Neo-ALTTO: neoadjuvant lapatinib, trastuzumab of de combinatie, elk met paclitaxel, bij HER2-positieve borstkanker |
+| [NCT00513292](https://clinicaltrials.gov/study/NCT00513292) | Fase 3 | Afgerond | 280 | Neoadjuvant FEC gevolgd door paclitaxel plus trastuzumab versus de omgekeerde volgorde bij operabele HER2-positieve borstkanker |
+| [NCT00272987](https://clinicaltrials.gov/study/NCT00272987) | Fase 3 | Beëindigd | 63 | Paclitaxel plus trastuzumab met lapatinib of placebo bij ErbB2-overexpresserende gemetastaseerde borstkanker; vroegtijdig beëindigd |
+| [NCT00003539](https://clinicaltrials.gov/study/NCT00003539) | Fase 2 | Afgerond | 50 | Wekelijks paclitaxel (1 uur) plus anti-HER2-antilichaam bij gemetastaseerde borstkanker; toetst direct de werkzaamheid van paclitaxel |
+| [NCT00006120](https://clinicaltrials.gov/study/NCT00006120) | Fase 2 | Onbekend | Niet vermeld | Gerandomiseerde vergelijking van twee schema's van docetaxel of paclitaxel bij gemetastaseerde borstkanker |
 
 ---
 
-## Literatuurbewijs
+## Literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|------|---------|
-| [31783552](https://pubmed.ncbi.nlm.nih.gov/31783552/) | 2019 | Overzicht | Biomolecules | Uitgebreid overzicht van paclitaxels mechanistische en klinische effecten in borstkanker, met betrekking tot microtubuli-stabilisering, apoptose-inductie, resistentiemechanismen en werkzaamheid in HER2+, TNBC en HR+ subtypes. Basisereferentie voor deze vernieuwde toepassingsrationale. |
-| [39317691](https://pubmed.ncbi.nlm.nih.gov/39317691/) | 2024 | Overzicht | Chemical Biology & Drug Design | Evalueerde paclitaxel-combinatietherapieën met behulp van patiënt-afgeleide borstcarcinoomgegevens; identificeerde synergistische medicijnparen om resistentie te overwinnen, ondersteunend voortdurend klinische relevantie van paclitaxel in combinatiestrategieën. |
-| [11147586](https://pubmed.ncbi.nlm.nih.gov/11147586/) | 2000 | RCT | Cancer | Fase II multicenteronderzoek van doxorubicine + paclitaxel in gevorderd borstcarcinoom; evalueerde de impact van eerdere adjuvante anthracyclinetherapie op combinatiewerkzaamheid in de gemetastaseerde setting. |
-| [32461977](https://pubmed.ncbi.nlm.nih.gov/32461977/) | 2020 | Cohortstudie | BioMed Research International | Praktijkonderzoek in de echte wereld dat epirubicine/cyclophosphamide gevolgd door wekelijkse paclitaxel + trastuzumab als neoadjuvante chemotherapie in HER2-positief borstcarcinoom evalueerde; bevestigde haalbaarheid en werkzaamheid in klinische praktijk. |
-| [39009452](https://pubmed.ncbi.nlm.nih.gov/39009452/) | 2024 | Translatiewetenschap | Journal for Immunotherapy of Cancer | Aangetoond dat paclitaxel tumor-geassocieerde macrofagen (TAM's) moduleert om PD-1-blokkade-werkzaamheid in TNBC te verbeteren, waardoor een immunomodulerend mechanisme buiten directe cytotoxiciteit wordt onthuld. Ondersteunt rationale voor paclitaxel + checkpoint-inhibitor-combinaties. |
-| [24823476](https://pubmed.ncbi.nlm.nih.gov/24823476/) | 2014 | Translatiewetenschap | Nature Communications | Exoomsequencing identificeerde TEKT4-variaties in de kiembaan verrijkt in post-paclitaxel-tumoren in ~10% van een borstkankercohort; biedt een genomische biomarkerkandidaat voor voorspelling van paclitaxel-respons. |
-| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Overzicht | Drug and Therapeutics Bulletin | Vroeg overzicht met paclitaxel en docetaxel-bewijs in borstkanker en eierstokkanker; registreert de uitbreiding van paclitaxellicenties naar eerstelijnsbehandeling van borstkanker, stellend historische regelgevingsprioriteit vast. |
-| [11745249](https://pubmed.ncbi.nlm.nih.gov/11745249/) | 2001 | Klinisch | Cancer | Onderzoek naar paclitaxels rol in multimodale behandeling voor inflammatoir borstcarcinoom (IBC), aangetoond significante klinische activiteit in dit agressieve subtype en ondersteunende toepassing buiten standaard vroeg-stadium ziekte. |
-| [9164198](https://pubmed.ncbi.nlm.nih.gov/9164198/) | 1997 | Fase II | Journal of Clinical Oncology | ECOG-onderzoek dat twee-wekelijkse paclitaxel + cisplatine in gevorderd borstcarcinoom evalueerde; een van de vroege onderzoeken die paclitaxels monotherapie en combinatiewerkzaamheid in de gemetastaseerde setting vaststellend. |
-| [20665703](https://pubmed.ncbi.nlm.nih.gov/20665703/) | 2011 | In vitro | Journal of Cellular Physiology | Aangetoond dat ZD6474 (vandetanib, EGFR/VEGFR-inhibitor) paclitaxels antiproliferatief en apoptotisch effect in borstkankercellen versterkt; verschaft mechanistische rationale voor EGFR-gericht + paclitaxel-combinatiestrategieën. |
+|------|-----|------|------|---------|
+| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Review | Lancet | Taxanen (paclitaxel, docetaxel) zijn bewezen onderdelen van de behandeling van gevorderde borst-, long- en ovariumkanker; in de VS goedgekeurd voor adjuvante behandeling bij borstkanker met positieve klieren |
+| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug and Therapeutics Bulletin | Overzicht van paclitaxel en docetaxel bij borst- en ovariumkanker; vergunning uitgebreid naar gemetastaseerde borstkanker |
+| [29532546](https://pubmed.ncbi.nlm.nih.gov/29532546/) | 2018 | Klinische studie (fase II) | The Breast Journal | Adjuvante metronomische AC gevolgd door wekelijks nab-paclitaxel bij vroege borstkanker met hoog risico; beoordeling van ziektevrije overleving, dosis en toxiciteit |
+| [11147586](https://pubmed.ncbi.nlm.nih.gov/11147586/) | 2000 | Klinische studie (fase II) | Cancer | Doxorubicine plus paclitaxel bij gevorderde borstkanker; belang van eerdere adjuvante anthracyclinebehandeling |
+| [11745249](https://pubmed.ncbi.nlm.nih.gov/11745249/) | 2001 | Niet geclassificeerd | Cancer | Rol van paclitaxel in multimodale behandeling van inflammatoire borstkanker |
+| [23267983](https://pubmed.ncbi.nlm.nih.gov/23267983/) | 2012 | Case report | Gan to Kagaku Ryoho | Complete respons van gevorderde borstkanker met lymfekliermetastasen op nab-paclitaxel als eerstelijnsbehandeling na recidief |
+| [24823476](https://pubmed.ncbi.nlm.nih.gov/24823476/) | 2014 | Translationeel onderzoek | Nature Communications | TEKT4-varianten zijn verrijkt in tumoren na behandeling en hangen samen met resistentie tegen paclitaxel |
+| [39317691](https://pubmed.ncbi.nlm.nih.gov/39317691/) | 2024 | Computationeel/preklinisch | Chemical Biology & Drug Design | Paclitaxelcombinaties tegen borstkanker en identificatie van biomarkers in vivo |
 
 ---
 
-## Nederlandse marktinformatie
+## Informatie over de Nederlandse markt
 
-Paclitaxel heeft momenteel **geen markttoelating** geregistreerd bij het CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-nummers op bestand in dit Evidence Pack.
+| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
+|---------|------|------|-----------|
+| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vermeld in de gegevens; vergunning doorgehaald |
 
-> **Opmerking voor klinische teams:** Paclitaxel is in Nederland beschikbaar onder EMA-status van centraal gemachtigd geneesmiddel (CAP) (bijvoorbeeld originele en generieke formuleringen voor borstkanker, eierstokkanker, NSKLC en AIDS-gerelateerde sarcoom van Kaposi). De SmPC (Samenvatting van de Productkenmerken) van toepassing op Nederlandse praktijk is toegankelijk via de EMA-productdatabase. Klinische teams moeten de huidige goedgekeurde indicaties, formuleringsspecifieke begeleiding (conventionele paclitaxel versus nab-paclitaxel) en toepasselijke terugbetalingswegen onder de Zorgverzekeringswet (ZVW) verifiëren voordat zij prescriberen.
+Er is geen geldige vergunning voor paclitaxel in de samengestelde CBG-MEB-gegevens. Of er andere paclitaxelproducten op de Nederlandse markt zijn (bijvoorbeeld via EMA-procedures), moet apart worden nagegaan.
 
 ---
 
 ## Cytotoxiciteit
 
 | Item | Inhoud |
-|------|--------|
-| Cytotoxiciteitsclassificatie | Conventioneel cytostatisch — Taxaanklasse (microtubuli-stabiliserende stof) |
-| Myelosuppressierisico | Matig tot hoog — dosisbeperkende neutropenie is de primaire hematologische toxiciteit; risico op febriele neutropenie is klinisch significant, vooral bij dicht-dosisschema's |
-| Emetogeniteitsclassificatie | Laag tot matig — paclitaxel wordt geclassificeerd als laag emetogeen potentieel volgens MASCC/ESMO-richtlijnen voor anti-emetische middelen; premedicatieaandacht is vooral gericht op overgevoeligheid-profylaxe |
-| Monitoringaspecten | Volledige bloedceltellingen met differentieel (vóór elke cyclus en op nadir), leukocytairfunctiestests (ALT, AST, bilirubine), nierfunctie, perifere neurologische evaluatie (CTCAE-gradatie voor neuropathie), cardiaalziektefunctie monitoren bij gebruik met anthracyclinen of trastuzumab |
-| Handhabingsbescherming | Ja — standaard cytostatische geneesmiddel-handhabingsprotocollen vereist: passende persoonlijke beschermingsmiddelen (handschoenen, schort, oogbescherming), gesloten-systeem geneesmiddeltransfeersystemen (CSTD), aangewezen voorbereiding in een gecertificeerde laminaire stroomkast |
+|------|------|
+| Cytotoxiciteitsclassificatie | Conventioneel cytostaticum (taxaan, microtubulistabilisator) |
+| Risico op beenmergsuppressie | Hoog (neutropenie is een belangrijke dosisbeperkende bijwerking) |
+| Emetogeniciteitsclassificatie | Laag |
+| Controlepunten | Volledig bloedbeeld (neutrofielen, trombocyten, hemoglobine), lever- en nierfunctie, perifere neuropathie, overgevoeligheidsreacties |
+| Bescherming bij bereiding en toediening | Ja, volgens richtlijnen voor het hanteren van cytostatica |
+
+Raadpleeg voor de definitieve gegevens de waarschuwingen en voorzorgen in de SmPC.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Formele Nederlandse SmPC-veiligheidsgegevens (specifieke waarschuwingen, contraïndicaties, geneesmiddelinteracties) werden niet opgehaald in dit Evidence Pack. Raadpleeg alstublieft de huidige SmPC (toegankelijk via de EMA of de CBG-MEB Geneesmiddeleninformatiebank) voor uitgebreide voorschrijvingsinformatie voordat u het geneesmiddel klinisch toepast.
+**Aandoeningen uit de kennisgraaf met een tegenindicatie-relatie** (afkomstig uit de kennisgraaf van het model, niet uit de bijsluiter): onder meer leverziekte, nierziekte, trombocytopenie, neutropenie, agranulocytose, anemie, perifere neuropathie, hyperbilirubinemie, myocardinfarct, astma, diabetes mellitus, psoriasis en angststoornissen. Deze lijst is een signaal en vervangt de officiële contra-indicaties niet.
 
-Belangrijkste veiligheidsbeschouwingen gedocumenteerd in de gepubliceerde literatuur:
-- **Perifere neuropathie**: Cumulatieve dosisbeperkende toxiciteit in een aanzienlijk deel van de patiënten; aanvang en ernst moeten elke cyclus worden gemonitord met behulp van gestandaardiseerde hulpmiddelen (CTCAE of FACT-Taxaan-vragenlijst). Dosisreductie of stopzetting kan noodzakelijk zijn.
-- **Overgevoeligheidsreacties**: Standaardformulering (op basis van Cremophor EL) vereist premedicatie met corticosteroïden (bijvoorbeeld dexamethason) en antihistaminica (H1 + H2-blokkers) voorafgaand aan elke infusie. Nab-paclitaxel vereist geen routinematige premedicatie.
-- **Myelosuppressie**: Controleer ANC vóór elke cyclus; dosisversterkingen of G-CSF-ondersteuning moeten volgens institutionele protocollen volgen op significante neutropenie.
+**Geneesmiddelinteracties:** er zijn 100 interacties gevonden, hieronder staan de eerste 20.
+- **Matig:** aprepitant, cimetidine, claritromycine, clotrimazol, dexamethason, eliglustat, metronidazol, miconazol, rolapitant, rosuvastatine, simvastatine, tinidazol, troglitazon
+- **Gering:** ascorbinezuur, levofloxacine
+- **Onbekend niveau:** glimepiride, doxycycline, morfine, metformine, omeprazol
+
+De officiële waarschuwingen en contra-indicaties uit de bijsluiter ontbreken in de samengestelde gegevens. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met waarborgen**
+**Besluit: Doorgaan met randvoorwaarden (Proceed with Guardrails)**
 
-**Rationale:**
-De wereldwijde bewijsgrondslag voor paclitaxel in vrouwelijk borstcarcinoom is onder de sterkste in oncologie, verankerd in meerdere voltooide fase III gerandomiseerde onderzoeken (waaronder NCT00005970, n = 3.436) die het als standaard-van-zorg adjuvante, neoadjuvante en palliatieve stof in alle belangrijke borstkankertypes vaststellend. De TxGNN-voorspellingsscore van 99.995% is consistent met deze klinische realiteit. De belangrijkste barrière in de Nederlandse context is niet klinisch bewijs maar het ontbreken van een CBG-MEB-specifieke inschrijving; EMA CAP-status zou al legitiem klinisch gebruik in Nederlandse gezondheidszorg moeten inschakelen.
+**Onderbouwing:**
+- Er zijn veel klinische studies, waaronder 7 afgeronde fase 3-studies waarin paclitaxel deel uitmaakt van het regime, en het mechanisme is niet afhankelijk van hormoonreceptoren.
+- Paclitaxel is bij borstkanker al een gevestigde behandeling, maar veel studies onderzoeken een combinatiepartner en niet paclitaxel zelf.
+- De veiligheidsinformatie uit de officiële bijsluiter ontbreekt, en er is geen geldige Nederlandse vergunning.
 
-**Om door te gaan, is het volgende nodig:**
-- Bevestig toepasselijke EMA CAP-autorisatiedetails (productnaam, goedgekeurde indicaties, formuleringen) en zorg ervoor dat afstemming met het beoogde gebruiksgeval (adjuvant, neoadjuvant of gemetastaseerde setting)
-- Verkrijg en controleer de huidige SmPC voor volledige contraïndicaties, waarschuwingen, interactieprofiel en begeleiding voor zwangerschap/lactatie
-- Bepaal het specifieke borstkankersubtype (HER2+, TNBC, HR+/HER2−) om het passende evidence-gebaseerde combinatieregime per ESMO-richtlijnen voor klinische praktijk te selecteren
-- Stel een gestructureerd toxiciteitsbewakingsplan op dat perifere neuropathie, hematologische toxiciteit en overgevoeligheidsmanagement omvat per Nederlandse institutionele protocollen
-- Verduidelijken ZVW-terugbetalingsgeschiktheid en formulierpad voor de beoogde indicatie en formuleringen
-- Indien een CBG-MEB-specifieke inschrijving klinisch of administratief vereist is, identificeer of een Type II-variatie of nationaal procedure de passende route is in overleg met het regelgevingsaffaireseteam
-
+**Om verder te gaan is nodig:**
+- Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC en bijsluiter van het CBG-MEB, als basis voor de veiligheidsscreening.
+- Gegevens over het werkingsmechanisme uit DrugBank.
+- Controle of er in Nederland een geldig paclitaxelproduct is (nationaal of via EMA) met de indicatie borstkanker.
+- Beoordeling van de fase 3-studies op de vraag of paclitaxel zelf of een combinatiepartner de onderzochte variabele was.
+- Een bewakingsplan voor beenmergsuppressie, neuropathie en overgevoeligheid, plus een controle op relevante geneesmiddelinteracties (onder meer CYP-remmers).
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

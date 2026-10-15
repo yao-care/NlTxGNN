@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Calcitriol
-parent: Sterk bewijs (L1-L2)
-nav_order: 37
-evidence_level: L2
+parent: Alleen modelvoorspelling (L5)
+nav_order: 68
+evidence_level: L5
 indication_count: 7
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,109 +29,83 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **7**
 
 </div>
 
-# Calcitriol: Van Hypoparathyroïdisme en Renale Osteodystrofie naar Erfelijk Hypofosforisch Rachitis
+# Calcitriol: Van stoornissen in calcium- en fosfaatstofwisseling naar vitamine D-deficiëntie
 
-## Samenvatting in één zin
+## Samenvatting in één oogopslag
 
-Calcitriol (1,25-dihydroxyvitamine D3) is de biologisch actieve vorm van vitamine D, wereldwijd erkend voor de behandeling van calciumfosfaatmetabolismestoornissen, waaronder hypoparathyroïdisme en renale osteodystrofie, hoewel het momenteel geen markttoelating in Nederland heeft.
-Het TxGNN-model identificeert 7 voorspelde repositioneringskaandidaten in dit bewijspakket; hiervan heeft **Erfelijk Hypofosforisch Rachitis** het sterkste bruikbare bewijs, ondersteund door **7 klinische studies** en **20 publicaties**.
-Deze indicatie is geclassificeerd op bewijsniveau L2 met de aanbeveling **Doorgaan met Voorzorgsmaatregelen**.
+Calcitriol is de actieve vorm van vitamine D en wordt gebruikt bij stoornissen in de calcium- en fosfaatstofwisseling, zoals hypoparathyreoïdie en renale osteodystrofie. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **vitamine D-deficiëntie** (in de ontologie als "obsolete" gemarkeerd). Voor deze specifieke voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden, dus het is een zuivere modelvoorspelling.
 
 ---
 
-## Snelkijkgids
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele Indicatie | Momenteel niet geregistreerd in Nederland; wereldwijd erkend voor hypoparathyroïdisme, renale osteodystrofie en vitamine D-afhankelijk rachitis |
-| Voorspelde Nieuwe Indicatie | Erfelijk Hypofosforisch Rachitis |
-| TxGNN Voorspellingsscore | 99.28% |
-| Bewijsniveau | L2 |
-| MarktStatus NL | Niet geregistreerd |
-| Aantal Toelatingingen | 0 |
-| Aanbevolen Beslissing | Doorgaan met Voorzorgsmaatregelen |
+|------|------|
+| Oorspronkelijke indicatie | Niet vermeld in de Nederlandse vergunningsgegevens. Volgens de kennisgraaf: hypoparathyreoïdie, renale osteodystrofie, hypofosfatemie en fosformetabolismestoornissen (onder andere) |
+| Voorspelde nieuwe indicatie | Vitamine D-deficiëntie (term in de ontologie als "obsolete" gemarkeerd) |
+| TxGNN-voorspellingsscore | 99,96% |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Calcitriol is 1,25-dihydroxyvitamine D3, het hormoonaal actieve eindmetaboliet van vitamine D dat in de proximale niebuisjes wordt geproduceerd door het enzym CYP27B1 (1α-hydroxylase). Het werkt via de vitamine D-receptor (VDR), een kernreceptor die wijdverbreid tot expressie komt in de dunne darm, nieren, bot en bijschildklieren. De kernfarmacologische effecten zijn stimulatie van de absorptie van calcium en fosfaat in de dunne darm, onderdrukking van hormoon van de bijschildklier (PTH)-afscheiding en directe bevordering van botmineralisatie. Hoewel formele DrugBank-gegevens over werkingsmechanisme niet beschikbaar waren in dit bewijspakket, is de farmacologie van calcitriol uitgebreid gekarakteriseerd in de wetenschappelijke literatuur die hieronder wordt aangehaald.
+Voor calcitriol zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van bekende informatie is calcitriol de biologisch actieve vorm van vitamine D (1,25-dihydroxyvitamine D3). De werkzaamheid bij calcium- en fosfaatstoornissen is aangetoond, en mechanistisch zou het ook van toepassing kunnen zijn bij vitamine D-deficiëntie.
 
-Bij erfelijk hypofosforisch rachitis — meestal veroorzaakt door X-gekoppelde hypofosforemia (XLH, veroorzaakt door verlies-van-functie mutaties in *PHEX*) — leidt overproductie van FGF23 uit het bot tot gelijktijdige onderdrukking van de renale fosfaatherabsorptie en remming van de CYP27B1-activiteit. Het resultaat is een paradoxale toestand: hypofosforemia gecombineerd met inappropriaat lage of normale calcitriolwaarden, ondanks de verwachte compensatoire opregulering. Deze dubbele deficiëntie veroorzaakt defecte mineralisatie van de groeischijfkraakbeen en osteomalacie. Exogene calcitriolsuppletie omzeilt rechtstreeks de FGF23-gemedieerde 1α-hydroxylase-onderdrukking, herstelt de intestinale fosfaat- en calciumopname, vermindert compensatoir secundair hyperparathyroïdisme en verbetert daarmee de skeletale mineralisatie.
-
-Calcitriol in combinatie met neutraal fosfaatsupplement diende gedurende decennia als standaardbehandeling voor erfelijk hypofosforisch rachitis, totdat de EMA-registratie in 2018 van burosumab — een anti-FGF23-monoklonaal antilichaam dat op de upstream-pathofysiologie is gericht. De TxGNN-voorspelling op rang 7 is daarom mechanistisch goed onderbouwd en consistent met gevestigde klinische praktijk. Binnen de Nederlandse gezondheidszorgcontext vertegenwoordigt dit een repositioneringsmogelijkheid, met name voor patiënten bij wie burosumab ontoegankelijk is, gecontraïndiceerd is, of voor wie conventionele therapie de voorkeurstrategie blijft.
+De link met vitamine D-deficiëntie is biologisch plausibel, omdat calcitriol de eindstap van de vitamine D-activering vertegenwoordigt. Het is echter belangrijk dat de hoge score waarschijnlijk de bekende vitamine D-farmacologie weerspiegelt en geen nieuw bewijs voor herpositionering. Bovendien is de ziekteterm in de ontologie als verouderd gemarkeerd. Bij een gewone vitamine D-deficiëntie met intacte nierfunctie wordt in de praktijk doorgaans gekozen voor de voorloperstoffen (zoals colecalciferol), niet voor calcitriol. Calcitriol is vooral relevant wanneer de omzetting in de nier is verstoord. Dat laatste is een algemene klinische kanttekening en volgt niet uit de bij dit rapport gebruikte gegevens.
 
 ---
 
-## Klinische Trialbewijzen
+## Klinisch trialbewijs
 
-| Proefnummer | Fase | Status | Deelnemers | Belangrijkste Bevindingen |
-|-------------|------|--------|------------|--------------------------|
-| [NCT03748966](https://clinicaltrials.gov/study/NCT03748966) | Early Phase 1 | Active, Not Recruiting | 20 | Calcitriol-monotherapie (zonder fosfaatsupplement) bij kinderen en volwassenen met XLH gedurende 1 jaar met dosisescalatie; test hypothese dat calcitriol alleen de serumfosfaatwaarden en skeletale mineralisatie verbetert zonder toename van nefrokalcinose |
-| [NCT03820518](https://clinicaltrials.gov/study/NCT03820518) | Phase 4 | Unknown | 100 | Vergelijkend onderzoek tussen hoge dosis en lage dosis calcitriol in combinatie met neutraal fosfaat bij kinderen met XLH; beoogt evidence-gebaseerde gewichtsgecorrigeerde doseringsrichtlijnen vast te stellen |
-| [NCT04846647](https://clinicaltrials.gov/study/NCT04846647) | N/A (Observationeel) | Voltooid | 260 | Prospectief observationeel onderzoek naar FGF23-overschrijding bij 260 hypofosforemiapatiënten; levert mechanistisch bewijs dat FGF23 calcitriolsynthese onderdrukt, wat rechtstreeks de rationale voor calcitriolsuppletie ondersteunt |
-| [NCT06046820](https://clinicaltrials.gov/study/NCT06046820) | Phase 3 | Active, Not Recruiting | 27 | Phase 3 RCT van INZ-701 (ENPP1 enzymvervanging) bij kinderen met ENPP1-deficiëntie; biedt context van het behandelingslandschap voor FGF23-gerelateerde fosfaatstoornissen; calcitriol kan functioneren als adjuvans of vergelijkingsarm |
-| [NCT06921720](https://clinicaltrials.gov/study/NCT06921720) | N/A | Not Yet Recruiting | 65 | Mechanistisch onderzoek met ³¹P-MRS spectroscopie voor meting van ATP-concentraties in fosfaatdiabetes (XLH); onderzoekt energiemetabolisme-pathofysiologie in hypofosforemia relevant voor calcitriol's therapeutische target |
-| [NCT01526304](https://clinicaltrials.gov/study/NCT01526304) | N/A (Observationeel) | Unknown | 150 | Cross-sectioneel onderzoek naar FGF23, Klotho en sclerostin bij niersteenformeerders; onderzoekt indirect de fosfaat-vitamine D-regelas centraal tot calcitriol's werkingsmechanisme |
-| [NCT00844740](https://clinicaltrials.gov/study/NCT00844740) | N/A | Ingetrokken | 0 | Gepland onderzoek naar cinacalcet in combinatie met standaard calcitriol + fosfaat bij familiaal hypofosforisch rachitis; ingetrokken vóór inschrijving — opgenomen voor volledigheid; zonder bewijswaarde |
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze voorspelde indicatie.
 
 ---
 
-## Literatuurbewijzen
+## Literatuurbewijs
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste Bevindingen |
-|------|------|------|------------|--------------------------|
-| [40295317](https://pubmed.ncbi.nlm.nih.gov/40295317/) | 2025 | Klinische Richtlijnbeoordeling | Calcified Tissue International | Uitgebreide beoordeling van XLH-diagnose en -therapie: FGF23-overschrijding vermindert calcitriolsynthese; calcitriol + fosfaat blijft standaardbehandeling in veel klinische instellingen; monitoringaanbevelingen opgenomen |
-| [39181153](https://pubmed.ncbi.nlm.nih.gov/39181153/) | 2024 | Overzicht | Lancet | Gezaghebbend overzicht van X-linked hypofosforemia: PHEX-mutatie → FGF23-overschrijding → verminderde calcitriolsynthese → verminderde intestinale fosfaatopname → defecte botmineralisatie |
-| [36446330](https://pubmed.ncbi.nlm.nih.gov/36446330/) | 2022 | Overzicht | Hormone Research in Paediatrics | Historisch en mechanistisch overzicht van rachitis en vitamine D-therapie; plaatst calcitriol in de behandelingshiërarchie voor erfelijke hypofosforische rachitis-subtypen en schetst metabolisch beheer |
-| [38988138](https://pubmed.ncbi.nlm.nih.gov/38988138/) | 2024 | Cohort/Overzicht | J Bone and Mineral Research | Klinische casuïstiek met narratief overzicht van hypofosforisch rachitis en korte lengtegroei; illustreert het biochemische profiel (laag fosfaat, verhoogde ALP, laag/normaal calcitriol) typisch voor XLH waarvoor actieve vitamine D-interventie nodig is |
-| [17117305](https://pubmed.ncbi.nlm.nih.gov/17117305/) | 2006 | Overzicht | Arq Bras Endocrinol Metab | Pathofysiologie-overzicht van erfelijke hypofosforische aandoeningen, waaronder XLH, ADHR en ARHR; bevestigt inappropriaat normaal of laag calcitriol als gemeenschappelijk kenmerk voor alle subtypen, waarvoor suppletie nodig is |
-| [6252463](https://pubmed.ncbi.nlm.nih.gov/6252463/) | 1980 | Klinische Studie | New England Journal of Medicine | Oriëntatiepunt vergelijkend onderzoek bij 11 kinderen: fosfaat alleen versus fosfaat + ergocalciferol versus fosfaat + calcitriol; calcitriolcombinatie was superieur voor verbetering van intestinale fosfaatopname en vermindering van totale fosfaatbehoefte |
-| [3839245](https://pubmed.ncbi.nlm.nih.gov/3839245/) | 1985 | Klinische Studie | Journal of Clinical Investigation | Hoge dosis calcitriol geneest osteomalacie bij XLH-patiënten ongevoelig voor conventionele vitamine D; toont aan dat het actieve metaboliet — niet precursorvormen — vereist is voor correctie van het mineralisatiedefect in XLH |
-| [35226335](https://pubmed.ncbi.nlm.nih.gov/35226335/) | 2022 | Longitudinaal Cohort | J Endocrinological Investigation | Groeitrajectorie van geboorte tot volwassenheid bij erfelijk hypofosforisch rachitis; contextualiseert lange-termijnbehandelingsdoelen voor calcitrioltherapie, inclusief disproporcie in ledematengroei |
-| [29292875](https://pubmed.ncbi.nlm.nih.gov/29292875/) | 2017 | Multicentraal Cohort | Pediatric Endocrinology Reviews | Lengtegegevens van 127 XLH-patiënten uit 49 centra voor en na aanvang van calcitriol + fosfaattherapie; ondersteunt vroeg behandelingsstart om volwassen lengteresultaten te optimaliseren |
-| [2492895](https://pubmed.ncbi.nlm.nih.gov/2492895/) | 1989 | Longitudinaal Cohort | Calcified Tissue International | Botmineraaldichtheid gemeten bij baseline en vervolgens elke 6 maanden bij 17 kinderen met familiale hypofosforemia op calcitriol + fosfaattherapie; kwantificeert de skeletale mineralisatiereactie op behandeling |
+Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde indicatie.
 
 ---
 
-## Informatie over de Nederlandse Markt
+## Informatie over de Nederlandse markt
 
-Calcitriol is **momenteel niet geregistreerd** bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen actieve RVG-toelatingingen in het register opgenomen. Voorschrijvers die calcitriol voor Nederlandse patiënten willen gebruiken, dienen rekening te houden met de volgende regelgeeftrajecten:
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 112460//08285 (doorgehaald) | Rocaltrol 0,25 microgram, capsules | Capsule (volgens productnaam) | Niet vermeld |
 
-- **Grensoverschrijdende EU-levering**: Calcitriolproducten (bijv. Rocaltrol®) hebben nationale toelatingingen in andere EU-lidstaten, waaronder Duitsland en Frankrijk; levering onder artikel 3.17 van de Geneesmiddelenwet kan van toepassing zijn
-- **Magistrale bereiding**: Beschikbaar via erkende Nederlandse apotheekbereiders onder toezicht van CBG-MEB; geschikt voor individueel afgestelde dosering bij pediatrische patiënten
-- **EMA gecentraliseerde procedure**: Er bestaat momenteel geen centraal goedgekeurd calcitriolproduct via EMA
-
-De SmPC (Samenvatting van de Productkenmerken) van een relevant EU-referentieland dient te worden geraadpleegd voor officiële voorschrijfinformatie totdat een Nederlandse registratie beschikbaar is.
+De enige bekende vergunning is doorgehaald. Er is dus momenteel geen geldig calcitriolproduct in de samengestelde vergunningsgegevens van het CBG-MEB. Raadpleeg voor actuele informatie de SmPC en de bijsluiter.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Formele farmacovigilantiegegevens (regelgevingswaarschuwingen, contra-indicaties en drug-drug-interacties) waren niet beschikbaar in dit bewijspakket. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+- **Contra-indicaties volgens de kennisgraaf** (niet afkomstig van de officiële productinformatie): nierziekte, sarcoïdose, hypercalciëmie, nefrocalcinose, nefrolithiasis, hyperfosfatemie, hypervitaminose, acute urinezuurnefropathie, pyureter en arteriosclerosis obliterans.
+- **Geneesmiddelinteracties** (100 interacties gevonden, hieronder de belangrijkste):
+  - *Ernstig (Major)*: colecalciferol, calcifediol, burosumab.
+  - *Matig (Moderate)*: thiazidediuretica (hydrochloorthiazide, chloortalidon, bendroflumethiazide e.a.), anti-epileptica en barbituraten (fosfenytoïne, carbamazepine, amobarbital, butalbital, butabarbital), galzuurbinders (colestyramine, colesevelam, colestipol), digoxine en digitoxine, aluminiumhydroxide en topisch calcipotriol.
 
-Op basis van gevestigde farmacologie zijn de volgende punten bijzonder relevant bij het gebruik van calcitriol voor erfelijk hypofosforisch rachitis:
-
-- **Hypercalcemia en hypercalciurie**: De meest klinisch significante bijwerkingen; calcitriol heeft een smal therapeutisch venster. Regelmatige monitoring van serumcalcium en 24-uurs urinekalcium is vereist, vooral tijdens dosistitratie en bij groeiende kinderen.
-- **Nefrokalcinose**: Een goed gedocumenteerde lange-termijncomplicatie van calcitriol + fosfaattherapie in XLH. Regelmatige echo-controle van de nieren wordt aanbevolen gedurende de gehele behandeling.
-- **Secundair en tertiair hyperparathyroïdisme**: Over-behandeling of langdurige therapie kan paradoxaal PTH-dysregulering veroorzaken. Regelmatige PTH-monitoring is essentieel.
+Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC.
 
 ---
 
-## Conclusie en Vervolgstappen
+## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met Voorzorgsmaatregelen**
+**Beslissing: Hold**
 
-**Rationale:**
-De rol van calcitriol bij erfelijk hypofosforisch rachitis is mechanistisch goed gefundeerd en ondersteund door decennia van klinische gegevens, waaronder een oriëntatiepunt-NEJM-studie, meerdere cohort-onderzoeken en een lopende Phase 4 dosisvergelijking. De TxGNN-voorspelling is consistent met gevestigde klinische praktijk, en het bewijsniveau L2 rechtvaardigt voortgang. Echter, calcitriol is niet geregistreerd in Nederland, en de nieuwere gerichte therapie burosumab (anti-FGF23) is thans EMA-goedgekeurd voor XLH — waarvoor voorzichtige klinische en gezondheidseconomische positionering nodig is voordat implementatie in de Nederlandse gezondheidszorgcontext plaatsvindt.
+**Onderbouwing:**
+- De voorspelling voor vitamine D-deficiëntie berust uitsluitend op het model (L5), zonder studies of literatuur. De ziekteterm is bovendien verouderd, en er is geen geldige Nederlandse vergunning.
 
-**Voor voortgang is het volgende nodig:**
-- Verkrijg de SmPC van een EU-referentieland (Duitsland of Frankrijk aanbevolen) om goedgekeurde dosering, veiligheidsmonitering en contra-indicaties te bevestigen
-- Verduidelijk het regelgeeftraject met CBG-MEB: artikel 3.17 invoer, magistrale bereiding, of initiatief voor formele NL/EU registratieprocedure
-- Beoordeel eindresultaten van NCT03820518 (Phase 4 hoog versus laag dosis) na publicatie voor geïnformeerde gewichtsgecorrigeerde doseringsbeslissingen bij pediatrische patiënten
-- Voer een vergelijkende gezondheidseconomische evaluatie uit (calcitriol + fosfaat versus burosumab) voor de Nederlandse patiëntenpopulatie met erfelijk hypofosforisch rachitis, inclusief kosteneffectiviteit en billijkheid van toegang
-- Stel een prospectief veiligheidsmonitoringprotocol vast dat serumcalcium, urinekalcium, PTH, nierfunctie en nierecho omvat vóór klinische toepassing
+**Om verder te gaan is nodig:**
+- Een actuele ziekteterm en een klinische definitie van de beoogde patiëntengroep.
+- Mechanistische gegevens over calcitriol en de officiële veiligheidsinformatie (SmPC/bijsluiter van het CBG-MEB).
+- Duidelijkheid over de vergunningsstatus, aangezien de enige vergunning is doorgehaald.
 
+**Opmerking over andere voorspellingen in de dataset:**
+Binnen dezelfde analyse is **erfelijke hypofosfatemische rachitis** (score 99,28%) de best onderbouwde voorspelling. Hiervoor zijn 2 klinische studies (een Fase 1-studie met 16 deelnemers en een Fase 4-studie met 100 deelnemers, status onbekend) en uitgebreide reviewliteratuur gevonden. Het bewijsniveau is L3, met als indicatieve aanbeveling *Proceed with Guardrails*. Dit past bij de bestaande indicatie hypofosfatemie. Monitoring van calcium, fosfaat, PTH en nierechografie is nodig vanwege het risico op hypercalciurie en nefrocalcinose, en burosumab is een gerichte alternatieve therapie. Deze indicatie verdient een afzonderlijk rapport.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

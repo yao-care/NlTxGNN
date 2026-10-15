@@ -2,7 +2,7 @@
 layout: default
 title: Sulfasalazine
 parent: Alleen modelvoorspelling (L5)
-nav_order: 113
+nav_order: 305
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,108 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Sulfasalazine: Van inflammatoire artritis / IBD naar Brachydactieën-Syndactieën Syndroom
+# Sulfasalazine: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
 
-## Samenvatting in één zin
+## Samenvatting in het kort
 
-Sulfasalazine is een gevestigd ontstekingsremmend middel en ziekteveranderende antireumatische geneesmiddel (DMARD), wereldwijd gebruikt voor inflammatoire darmziekte, reumatoïde artritis en ankyloserende spondylitis; het is momenteel niet op de Nederlandse markt geregistreerd.
-Het TxGNN-model kent het een **99.94% voorspellingsscore** toe voor **Brachydactieën-Syndactieën Syndroom** als mogelijke nieuwe indicatie.
-Echter, **geen klinische onderzoeken en geen gepubliceerde literatuur** ondersteunen deze richting, en de mechanistische grondslag wordt als onwaarschijnlijk beschouwd — deze voorspelling is waarschijnlijk een artefact van de kennisgraaf.
+Sulfasalazine wordt van oudsher gebruikt bij reumatoïde artritis en chronische darmontstekingen (colitis ulcerosa, inflammatoire darmziekte). Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij het **brachydactylie-syndactylie-syndroom**, een zeldzame aangeboren ontwikkelingsafwijking. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden, dus de voorspelling berust alleen op het model.
 
 ---
 
 ## Snel overzicht
 
-| Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Niet geregistreerd in Nederland; wereldwijd gebruikt voor inflammatoire darmziekte, reumatoïde artritis en ankyloserende spondylitis |
-| Voorspelde nieuwe indicatie | Brachydactieën-Syndactieën Syndroom |
-| TxGNN Voorspellingsscore | 99.94% |
+| Onderdeel | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Reumatoïde artritis, colitis ulcerosa, inflammatoire darmziekte, juveniele idiopathische artritis, spondyloartropathie |
+| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom |
+| TxGNN-voorspellingsscore | 99,94% (rang 186) |
 | Bewijsniveau | L5 |
-| NL-marktpositie | Niet geregistreerd |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | Afwachten |
+| Marktstatus in Nederland | Alleen ingetrokken registraties |
+| Aantal handelsvergunningen | 1 (ingetrokken) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Op dit moment zijn gedetailleerde werkingsmechanismegegevens niet beschikbaar in dit Evidence Pack. Gebaseerd op bekende farmacologische informatie is Sulfasalazine een gecombineerd ontstekingsremmend middel en DMARD waarvan de therapeutische effecten NF-κB-remming, blokkade van prostaglandine- en leukotriënesynthese en onderdrukking van pro-inflammatoire cytokineproductie omvatten. De klinische werkzaamheid bij inflammatoire darmziekte, reumatoïde artritis en spondylartritis is wereldwijd goed gevestigd.
+Voor deze voorspelling is **geen aannemelijke werkingsmechanismeverklaring** te geven. De gegevens die voor dit rapport zijn samengesteld bevatten geen gedetailleerde informatie over het werkingsmechanisme van sulfasalazine. Uit de bekende farmacologie is wel bekend dat sulfasalazine ontstekingsroutes (waaronder NF-κB) remt en het cystine/glutamaat-transportsysteem (systeem xc⁻) blokkeert. Dat verklaart de werking bij ontstekingsziekten zoals reumatoïde artritis en colitis ulcerosa.
 
-Brachydactieën-syndactieën syndroom is een aangeboren skeletstoornisse veroorzaakt door genetische mutaties (meestal betrokken ROR2 of gerelateerde ontwikkelingsgenen). De structurele abnormaliteiten ontstaan tijdens de embryonale ontwikkeling en kunnen niet worden gecorrigeerd door postnatale ontstekingsremmende therapie. Er is geen biologisch pad waarlangs de ontstekingsremmende mechanismen van Sulfasalazine plausibel de moleculaire defecten die aan dit syndroom ten grondslag liggen, zouden kunnen beïnvloeden.
-
-De hoge TxGNN-score (99.94%) is waarschijnlijk het gevolg van topologische nabijheid tussen orthopedische ziekteknopen in de kennisgraaf (KG), in plaats van een ware geneesmiddel-ziektebiologie. Dit is een erkende beperking van op grafen gebaseerde voorspellingsalgoritmen: hoge scores kunnen eerder topologische nabijheid in het netwerk weerspiegelen dan echte geneesmiddel-ziektebiologie. **Deze voorspelling wordt beschouwd als waarschijnlijk vals-positief en geeft geen aanleiding tot verdere klinische onderzoeken op dit moment.**
+Het brachydactylie-syndactylie-syndroom is echter een zeldzame aangeboren ontwikkelingsafwijking van de handen en voeten, geen ontstekingsziekte. Er is geen duidelijk verband tussen de werking van sulfasalazine en het ontstaan van deze aandoening. De hoge modelscore is waarschijnlijk een gevolg van afstanden in de kennisgraaf en niet van een biologisch gefundeerd verband. De voorspelling moet daarom met grote terughoudendheid worden bekeken.
 
 ---
 
-## Bewijzen van klinische onderzoeken
+## Klinische studies
 
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Literatuurbewijzen
+## Literatuurbewijs
 
 Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Informatie over de Nederlandse markt
+## Andere voorspelde indicaties met enig bewijs
 
-Sulfasalazine heeft momenteel **geen autorisaties** geregistreerd bij de CBG-MEB (College ter Beoordeling van Geneesmiddelen). Geen gegevens van SmPC (Samenvatting van de Productkenmerken) of PIL (Bijsluiter) zijn beschikbaar uit de Nederlandse regelgevingsdatabase voor dit product.
+Van de tien voorspelde indicaties is alleen **artrose (osteoartritis)** (score 99,64%, rang 813) onderbouwd met literatuur. Het bewijs is voornamelijk preklinisch (bewijsniveau L4) en er zijn geen klinische studies bij artrose:
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevinding |
+|------|-----|------|------|---------|
+| [19690126](https://pubmed.ncbi.nlm.nih.gov/19690126/) | 2009 | Preklinisch (kraakbeenexplantaten) | Rheumatology | Sulfasalazine remt de afgifte van proteoglycaan en collageen uit door cytokinen gestimuleerd kraakbeen en verlaagt metalloproteïnasen |
+| [26466556](https://pubmed.ncbi.nlm.nih.gov/26466556/) | 2016 | Preklinisch (diermodel) | J Orthop Res | Sulfasalazine vermindert kraakbeenafbraak na ACL-transsectie en meniscectomie via remming van de cystine/glutamaat-antiporter |
+| [29548914](https://pubmed.ncbi.nlm.nih.gov/29548914/) | 2018 | Preklinisch (rat) | Int J Biol Macromol | Sulfasalazine-bevattend hyaluronzuur verminderde ontsteking en kraakbeenafbraak in een artrosemodel |
+
+Daarnaast is **spondyloartropathie** voorspeld. Dit is al een oorspronkelijke indicatie van sulfasalazine en dus geen echte herpositionering. De bijbehorende literatuur bestaat vooral uit overzichtsartikelen. Een farmacogenetische studie naar NAT2-polymorfismen (PMID [25413361](https://pubmed.ncbi.nlm.nih.gov/25413361/)) kan relevant zijn voor het metabolisme van sulfasalazine, maar levert geen werkzaamheidsbewijs.
+
+De overige zeven voorspellingen (o.a. WHIM-syndroom, myosclerose, acromesomele dysplasie) hebben geen studies of publicaties en zijn alleen computationeel.
 
 ---
 
-## Veiligheidsopmerkingen
+## Informatie over de Nederlandse markt
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie | Status |
+|---------|------|------|-----------|------|
+| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | Niet vermeld | Niet vermeld | Ingetrokken |
+
+Er is in Nederland geen geldige registratie meer. Raadpleeg voor actuele informatie het CBG-MEB.
+
+---
+
+## Veiligheidsoverwegingen
+
+Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de officiële productinformatie (SmPC) beschikbaar. Raadpleeg de SmPC voor de volledige veiligheidsinformatie.
+
+**Contra-indicaties volgens de kennisgraaf** (afgeleid uit relaties in de TxGNN-kennisgraaf, niet uit de bijsluitertekst):
+- Porfyrie (waaronder erfelijke porfyrie en stoornissen van het porfyrinemetabolisme)
+- Nier-, lever- en galblaasziekten
+- Astma (waaronder intrinsiek en allergisch astma)
+- Neutropenie, agranulocytose, idiopathische aplastische anemie en aplastische anemie
+- Trage acetylering (langzame NAT2-acetyleerders)
+- G6PD-deficiëntie
+- Glycogeenstapelingsziekte, cystinurie en galactosemie
+- Obstructie van de urinewegen en pyoureter
+
+**Geneesmiddelinteracties:** Er zijn 100 interacties gevonden, waarvan hieronder de belangrijkste uit de ingelezen lijst:
+- **Ernstig (Major):** prilocaïne (topisch), humaan immunoglobuline G (intraveneus), methenamine
+- **Matig (Moderate):** onder meer ketorolac, ibuprofen, celecoxib, azathioprine, aciclovir, amfotericine B, amikacine, ethinylestradiol, estradiol, alpelisib, apalutamide, asparaginase en bacitracine
+- **Licht (Minor):** foliumzuur
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Afwachten**
+**Besluit: Hold**
 
-**Grondslag:**
-Brachydactieën-syndactieën syndroom is een aangeboren, genetisch bepaalde skeletstoornisse zonder enig plausibel farmacologisch aangrijpingspunt voor een ontstekingsremmend DMARD als Sulfasalazine. De zeer hoge TxGNN-voorspellingsscore (99.94%) wordt waarschijnlijk aangedreven door topologische gelijkenis in de kennisgraaf in plaats van enig echt geneesmiddel-ziektsignaal; geen klinische onderzoeken, observationele studies of mechanistische publicaties bestaan ter ondersteuning van deze hypothese.
+**Onderbouwing:**
+- De voorspelling voor het brachydactylie-syndactylie-syndroom is alleen computationeel (L5). Er zijn geen studies of literatuur en er is geen plausibel mechanistisch verband. Bovendien is er geen geldige handelsvergunning in Nederland.
+- Artrose is de enige voorspelde indicatie met een plausibel mechanisme, maar het bewijs is alleen preklinisch (L4). Die kan als onderzoeksvraag worden overwogen.
 
-**Ter voortgang is het volgende vereist:**
-- Een geloofwaardige biologische hypothese die aantoont hoe de bekende moleculaire mechanismen van Sulfasalazine de ROR2 (of equivalente) ontwikkelingssignaleringscascade die aan dit syndroom ten grondslag ligt zouden kunnen beïnvloeden — momenteel als onwaarschijnlijk beschouwd
-- Zou een dergelijke mechanistische hypothese in toekomstig basisonderzoek naar voren komen, dan zouden een gericht literatuuronderzoek en deskundige genetische raadpleging de verplichte eerste stappen zijn voordat enige klinische overweging plaatsvindt
-- Afzonderlijk moet de regelgevingsdatakloof (0 CBG-MEB autorisaties, ontbrekende SmPC) worden opgelost om een correct veiligheidsbasisonderzoek van Sulfasalazine zelf mogelijk te maken, onafhankelijk van deze hergebruiksvraag
-
+**Om verder te gaan is het volgende nodig:**
+- Gegevens over het werkingsmechanisme van sulfasalazine, bijvoorbeeld uit DrugBank
+- De SmPC en bijsluiter van het CBG-MEB, om waarschuwingen en contra-indicaties te beoordelen
+- Voor artrose: klinisch onderzoek of een systematische review, en een beoordeling van de toedieningsroute (zoals de intra-articulaire hyaluronzuurformulering uit de preklinische studie)
+- Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

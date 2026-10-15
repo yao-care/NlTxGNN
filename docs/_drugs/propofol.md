@@ -2,15 +2,15 @@
 layout: default
 title: Propofol
 parent: Sterk bewijs (L1-L2)
-nav_order: 107
-evidence_level: L1
+nav_order: 282
+evidence_level: L2
 indication_count: 5
 ---
 
 # Propofol
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,100 +29,106 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **5**
 
 </div>
 
-# Propofol: Van Algemene Anesthesie naar Migraineaandoening
+# Propofol: Van anesthesie naar migraine
 
-## Samenvatting in Één Zin
+## Samenvatting in één zin
 
-Propofol is een snel werkend intraveneus anestheticum en sedativum, dat veel wordt gebruikt in de klinische praktijk voor inductie en onderhoud van anesthesie.
-Het TxGNN-model voorspelt dat het mogelijk effectief is voor **migraineaandoening**,
-met **5 klinische onderzoeken** en **20 publicaties** die deze richting momenteel ondersteunen.
+Propofol is een intraveneus anestheticum dat wordt gebruikt voor sedatie en algehele anesthesie; de oorspronkelijke geregistreerde indicatie is in de data voor dit rapport niet vastgelegd. Het TxGNN-model voorspelt dat propofol mogelijk werkzaam is bij **migraine** (acute, therapieresistente aanvallen). Hiervoor zijn **3 klinische studies** en **20 publicaties** gevonden, waaronder meerdere gerandomiseerde studies.
 
 ---
 
-## Snel Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke Indicatie | Algemene anesthesie en procedurele sedatie |
-| Voorspelde Nieuwe Indicatie | Migraineaandoening |
-| TxGNN Voorspellingsscore | 99,69% |
-| Bewijsniveau | L1 |
-| Marktstatus Nederland | Niet geregistreerd (geen CBG-MEB autorisaties gevonden in huidige gegevensset) |
-| Aantal Autorisaties | 0 |
-| Aanbevolen Besluit | Doorgaan met Voorzorgsmaatregelen |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de data (de enige vergunning bevat geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
+| TxGNN-voorspellingsscore | 99,69% |
+| Bewijsniveau | L2 |
+| Marktstatus NL | Alleen ingetrokken vergunning (Cancelled only) |
+| Aantal vergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is Deze Voorspelling Redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in dit bewijspakket. Gebaseerd op gepubliceerde literatuur is Propofol (2,6-diisopropylphenol) een intraveneus anestheticum dat primair inhibitoire neurotransmissie versterkt door potentiëring van GABA-A receptoren in het centraal zenuwstelsel.
+Propofol is een positieve allosterische modulator van de GABA-A-receptor. Daarnaast onderdrukt het volgens preklinisch onderzoek (propofol hemisuccinaat) de "cortical spreading depression", het fenomeen dat ten grondslag ligt aan de migraineaura en mogelijk pijn kan uitlokken. Versterkte GABA-erge remming en verminderde prikkelbaarheid van de cortex en het trigeminovasculaire systeem kunnen de snelle verlichting van acute, refractaire migraine verklaren.
 
-De pathofy
+Gedetailleerde mechanistische gegevens uit DrugBank zijn niet beschikbaar in de data voor dit rapport; bovenstaande onderbouwing komt uit de literatuur. Het gebruik is beperkt tot gemonitorde omgevingen, zoals de spoedeisende hulp, vanwege het risico op sedatie en ademhalingsdepressie. Richtlijnen en commentaren in de literatuur blijven voorzichtig.
 
-siologie van migraine omvat twee sleutelmecanismen die Propofol bekend staat te moduleren: (1) **centrale sensitisatie** van de trigeminale pijnbaan, en (2) **corticale spreidingsdepressie (CSD)** — de elektrofysiologische gebeurtenis die migraine-aura onderligt en een belangrijke trigger voor migrainepijn vormt. Preklinische gegevens (PMID 22390898) tonen aan dat Propofol hemisuccinaat CSD-propagatie onderdrukt. Bij **sub-anesthesische doseringen** — aanzienlijk lager dan die nodig voor volledige sedatie — kan Propofol een acute migraineaanval onderbreken zonder bewusteloosheid te veroorzaken, wat suggereert een farmacologisch specifieke werking in plaats van een niet-specifiek sedatief effect.
-
-Deze mechanistische rationale wordt versterkt door meer dan twee decennia klinische waarnemingen in eerstehulpafdelingen. Meerdere gerandomiseerde onderzoeken en een praktijkrichtlijn van de American Headache Society uit 2025 nemen Propofol nu op in parenterale opties voor migraïnepatiënten die standaard eerstelijnbehandeling niet weerstaan (dopaminagonisten, NSAID's). Het consistente signaal over pediatrische en volwassen populaties heen, gecombineerd met een systematische review en netwerkmetaanalyse, verheft dit van een mechanistische hypothese tot een klinisch plausibele kandidaat voor herbepaling.
+Andere voorspelde indicaties zijn minder overtuigend:
+- **Migraine met hersenstamaura** (score 99,58%, L3): mechanistisch plausibel via cortical spreading depression, maar geen studies specifiek voor dit zeldzame subtype; het bewijs is geëxtrapoleerd uit algemene migraine.
+- **Prinzmetal-angina** (99,23%, L4): alleen casuïstiek over coronaire spasmen *tijdens* anesthesie. Dit zijn bijwerkingen, geen therapeutisch effect.
+- **Nefrogeen syndroom van inadequate antidiurese** (99,20%, L5): alleen modelscore, geen studies en geen plausibel mechanisme.
+- **Syndroom van Gilles de la Tourette** (99,03%, L4): propofol wordt alleen als sedativum gebruikt bij diepe hersenstimulatie; geen bewijs voor therapeutisch effect op tics.
 
 ---
 
-## Bewijs uit Klinische Onderzoeken
+## Klinisch trialbewijs
 
-| Onderzoeksnummer | Fase | Status | Inschrijving | Belangrijkste Bevindingen |
-|------------------|------|--------|--------------|--------------------------|
-| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Fase 2/3 | Voltooid | 74 | Prospectieve RCT waarin lage dosis Propofol voor abortieve therapie van acute pediatrische migraine op de spoedeisende hulp werd getest; het meest kwalitatief hoogstaande directe onderzoeksbewijs voor deze indicatie tot nu toe |
-| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | NA | Voltooid | 40 | Evalueerde werkzaamheid en veilige doseringslimieten van lage dosis Propofol infusie als abortief middel in de pediatrische migraïnepopulatie; vormt een aanvulling op NCT01604785 |
-| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | NA | Beëindigd | 12 | Was ontworpen om lage dosis Propofol voor ernstige therapie-resistente migraine bij patiënten op de spoedeisende hulp te bestuderen; voortijdig beëindigd met onvoldoende inschrijving (n=12), resultaten niet conclusief |
-| [NCT03789370](https://clinicaltrials.gov/study/NCT03789370) | NA | Onbekend | 130 | Vergeleek onderhoudsmiddelen voor anesthesie (Propofol versus sevofluran) op incidentie van postoperatieve hoofdpijn; alleen indirect bewijs, geen therapeutisch migraineonderzoek |
+| Trialnummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+|---------|------|------|------|---------|
+| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Fase 2/3 | Afgerond | 74 | Laaggedoseerd propofol als abortieve therapie bij pediatrische migraine op de spoedeisende hulp; sterkste trialbewijs |
+| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | Niet van toepassing | Afgerond | 40 | Laaggedoseerde propofolinfusie bij pediatrische migraine; kleine studie zonder fase-indeling |
+| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | Niet van toepassing | Voortijdig beëindigd | 12 | Ernstige refractaire migraine op de spoedeisende hulp; te klein voor interpreteerbare resultaten |
 
 ---
 
 ## Literatuurbewijs
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste Bevindingen |
-|------|------|------|------------|--------------------------|
-| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Archives of Academic Emergency Medicine | Dubbelblinde RCT die Propofol + granisetron vergeleken met Propofol + metoclopramide voor symptomatische behandeling van acute migraine op de spoedeisende hulp |
-| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | The Journal of Emergency Medicine | Prospectieve RCT van sub-anesthesische Propofol voor pediatrische spoedeisende hulp migraine; beoordeelde werkzaamheid en bijwerkingenprofiel met gunstige resultaten |
-| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Archives of Academic Emergency Medicine | RCT evalueerde sumatriptan + Propofol combinatie versus sumatriptan alleen voor acute migraine; beoordeelde of Propofol additioneel voordeel biedt |
-| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT (Pilot) | Emergency Medicine Australasia | Pilot RCT vergeleek IV Propofol op procedurele sedatiedosis versus standaardtherapie voor initiële migrainebehandeling op de spoedeisende hulp |
-| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Systematische Review | Academic Emergency Medicine | Systematische review evalueerde veiligheid en werkzaamheid van Propofol voor behandeling van acute migraine op de spoedeisende hulp; vat alle beschikbare bewijzen tot 2020 samen |
-| [39364614](https://pubmed.ncbi.nlm.nih.gov/39364614/) | 2024 | Systematische Review + Netwerkanalyse | Headache | Netwerkmetaanalyse vergelijkt parenterale middelen voor vermindering van migraineherval na ernstige acute presentaties; omvat Propofol |
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Praktijkrichtlijn | Headache | Update 2025 American Headache Society over parenterale farmacotherapieën voor migraine op de spoedeisende hulp; biedt actuele evidence-based positionering van Propofol |
-| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Narratieve Review | Expert Review of Neurotherapeutics | Uitgebreide geneesmiddelprofielering van Propofol voor super-resistente migraine bij sub-anesthesische doseringen; behandelt farmacologie en klinisch bewijs |
-| [32638172](https://pubmed.ncbi.nlm.nih.gov/32638172/) | 2020 | Narratieve Review | Current Pain and Headache Reports | Review van IV migrainebehandelingen in kinderen en adolescenten op de pediatrische spoedeisende hulp, inclusief samenvatting van Propofol bewijzen |
-| [22309235](https://pubmed.ncbi.nlm.nih.gov/22309235/) | 2012 | Narratieve Review | Headache | Onderdeel van een 3-delige reeks over reddingstherapie voor acute migraine; behandelt Propofol onder neuroleptische, antihistaminische en andere middelen in spoedeisende hulp instellingen |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [33070469](https://pubmed.ncbi.nlm.nih.gov/33070469/) | 2021 | RCT | Emerg Med Australas | Dubbelblinde, placebogecontroleerde RCT bij volwassenen op de SEH: propofol versus placebo voor vroege opheffing van acute migraine |
+| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | J Emerg Med | Prospectieve RCT: laaggedoseerd propofol bij pediatrische migraine |
+| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT (pilot) | Emerg Med Australas | Pilot-RCT: procedurele sedatiedosis propofol versus standaardtherapie |
+| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Arch Acad Emerg Med | Propofol + granisetron versus propofol + metoclopramide bij acute migraine |
+| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Arch Acad Emerg Med | Sumatriptan + propofol versus sumatriptan alleen bij acute migraine |
+| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Systematische review | Acad Emerg Med | Beoordeling van veiligheid en werkzaamheid van propofol bij acute migraine op de SEH; bewijs beperkt |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Richtlijn | Headache | Update 2025 van de AHS-richtlijn voor parenterale acute migrainebehandeling op de SEH |
+| [39364614](https://pubmed.ncbi.nlm.nih.gov/39364614/) | 2024 | Systematische review/netwerkanalyse | Headache | Effectiviteit van parenterale middelen ter vermindering van terugval na ernstige migraine |
+| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | Systematische review | Cephalalgia | Canadese aanbevelingen voor migrainebehandeling op de SEH |
+| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Review/case series | Expert Rev Neurother | Profiel van propofol bij superrefractaire migraine |
 
 ---
 
-## Informatie over de Nederlandse Markt
+## Informatie over de Nederlandse markt
 
-Geen CBG-MEB marktautorisaties voor Propofol werden geïdentificeerd in de huidge gegevensset (totale licenties: 0, marktstatus: niet geregistreerd). Dit weerspiegelt waarschijnlijk een gegevensverzamelingslacune in plaats van echte onbeschikbaarheid — Propofol bevattende producten (bijv. Diprivan®, Fresenius Kabi Propofol) worden routinematig gebruikt in Nederlandse ziekenhuisanesthesiepraktijk en zouden naar verwachting geldige RVG-nummers moeten hebben. Een directe verificatie tegen het [CBG-MEB productregister](https://www.cbg-meb.nl/) is vereist voordat een regelgevingsconclusie wordt getrokken.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (vergunning ingetrokken) | Emulsie voor injectie of infusie | Niet beschikbaar in de data |
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor veiligheidsinformatie.
+- **Mogelijke contra-indicaties volgens de kennisgraaf** (TxGNN/PrimeKG, geen bijsluitertekst): epilepsie, hypotensie, ademhalingsfalen, intracraniële arteriosclerose, erfelijke vetstofwisselingsstoornis en familiaire hyperlipidemie.
+- **Klinische risico's uit de literatuur**: sedatie en ademhalingsdepressie, waardoor toepassing alleen in gemonitorde omgevingen verantwoord is. Er zijn casuïstische meldingen van coronaire spasmen tijdens anesthesie.
+- **Geneesmiddelinteracties**: 100 interacties gevonden. Het overgrote deel is matig ernstig, waaronder met:
+  - opioïden (morfine, opium);
+  - QT-verlengende middelen of middelen met effect op de maag-darmmotiliteit (cisapride, clarithromycine, levofloxacine, ondansetron, granisetron, dolasetron);
+  - famotidine, loperamide, laxantia (bisacodyl, lactulose, magnesiumcitraat, magnesiumhydroxide, lactitol, glycerine, ricinusolie, mineraal olie).
 
-> **Belangrijke opmerking voor evaluatie van off-label gebruik:** Geen veiligheidsgegevens — inclusief waarschuwingen, contra-indicaties of geneesmiddel-geneesmiddel interacties — waren beschikbaar in dit bewijspakket. Gezien het feit dat Propofol een potent intraveneus anestheticum is met smalle therapeutische marges (risico op respiratoire depressie, apneu en hemodynamische compromis zelfs bij sub-anesthesische doseringen), is een volledige beoordeling van de huidige Nederlandse SmPC **essentieel** voorafgaand aan elke overweging van off-label gebruik, vooral buiten een gemonitorde anesthesieomgeving.
+  Metronidazol is een minder ernstige (minor) interactie.
+
+Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL), aangezien deze gegevens niet in de data voor dit rapport beschikbaar waren.
 
 ---
 
-## Conclusie en Vervolgstappen
+## Conclusie en vervolgstappen
 
-**Besluit: Doorgaan met Voorzorgsmaatregelen**
+**Beslissing: Hold**
 
-**Rationale:**
-Meerdere gerandomiseerde gecontroleerde onderzoeken, een systematische review uit 2020, en een praktijkrichtlijn van de American Headache Society uit 2025 ondersteunen gezamenlijk het gebruik van sub-anesthesische Propofol voor acute, therapie-resistente migraine op de spoedeisende hulp — wat verdergaan naar een gestructureerde haalbaarheids- en regelgevingsevaluatie rechtvaardigt.
+**Onderbouwing:**
+- Er is redelijk bewijs voor propofol bij acute migraine op de SEH (één afgeronde fase 2/3-studie, meerdere RCT's, systematische reviews; bewijsniveau L2), maar dit is geen bevestigd fase 3-bewijs en richtlijnen blijven voorzichtig.
+- De enige Nederlandse vergunning is ingetrokken en de veiligheidsgegevens uit de bijsluiter ontbreken, wat een blokkerende datalacune is voor de veiligheidsscreening.
 
-**De volgende punten zijn nodig om door te gaan:**
-
-- **Bevestig CBG-MEB registratiestatus**: Cross-check Propofol producten tegen het officiële CBG-MEB register en verkrijg de toepasselijke Nederlandse SmPC('s)
-- **Veiligheidsevaluatie**: Voer een volledige beoordeling van contra-indicaties en geneesmiddel-geneesmiddel interacties uit vanuit de SmPC; verduidelijk minimummonitoringvereisten (bijv. pulsoxymetrie, IV toegang, reanimatierapparatuur) voor sub-anesthesische gebruik buiten de operatiekamer
-- **Definieer doelpopulatie**: Geef de klinische context aan (volwassenen versus kinderen; tweede-lijns spoedeisende hulp behandeling voor therapie-resistente migraine) om het off-label gebruik adequaat in te perken
-- **Richtlijnuitlijning**: Review de AHS richtlijn uit 2025 (PMID 41321235) en eventuele toepasselijke Nederlandse neurologische of spoedeisende hulp richtlijnen om vast te stellen of Propofol al wordt erkend of uitgesloten voor deze indicatie in Nederland
-- **Regelgevingspad**: Bepaal of een off-label gebruiksprotocol, aanpassingen van het ziekenhuisformularium, of een formele indicatieuitbreiding het passende regelgevingspad zou zijn onder het CBG-MEB/EMA kader
-- **Farmacovigilantieplan**: Stel een post-gebruikmonitoringprotocol in voor respiratoire en hemodynamische bijwerkingen in de Nederlandse klinische omgeving
-
+**Om verder te gaan is nodig:**
+- Downloaden en analyseren van de SmPC/bijsluiter (CBG-MEB) voor waarschuwingen en contra-indicaties.
+- Aanvullende mechanistische gegevens uit DrugBank.
+- Bevestigend onderzoek (fase 3-RCT's) bij volwassenen en kinderen met migraine, met aandacht voor sedatie- en luchtwegrisico's.
+- Een plan voor beperking tot gemonitorde klinische settings en beoordeling van de regelgevende route (off-label gebruik van een actuele vergunning, aangezien de bestaande vergunning is ingetrokken).
+- Beoordeling van het gebruik bij patiënten met de door de kennisgraaf genoemde mogelijke contra-indicaties (o.a. hypotensie, ademhalingsfalen).
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

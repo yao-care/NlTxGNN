@@ -2,7 +2,7 @@
 layout: default
 title: Carvedilol
 parent: Alleen modelvoorspelling (L5)
-nav_order: 39
+nav_order: 73
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,99 +29,95 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Carvedilol: van hypertensie/hartfalen naar maligne hypertensieve nierziekte
+# Carvedilol: Van hypertensie naar maligne hypertensieve nierziekte
 
 ## Samenvatting in één zin
 
-Carvedilol is een niet-selectieve β1/β2- en α1-adrenoceptorblokkeerder, klinisch gevestigd voor de behandeling van hypertensie en hartfalen.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **maligne hypertensieve nierziekte**,
-met **geen klinische onderzoeken** en **geen direct relevante publicaties** die deze specifieke richting ondersteunen — waardoor deze voorspelling op bewijsniveau L5 staat.
-
----
+Carvedilol is een niet-selectieve bètablokker met alfa-1-blokkade, oorspronkelijk gebruikt voor de behandeling van hypertensie.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **maligne hypertensieve nierziekte**.
+Voor deze richting zijn **geen geregistreerde klinische studies** en **geen directe literatuur** beschikbaar; de voorspelling berust uitsluitend op het model (evidentieniveau L5).
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Hypertensie en hartfalen (gevestigde farmacologische toepassing; geen NL-registraties in registratiegegevens) |
+|------|------|
+| Oorspronkelijke indicatie | Hypertensie (volgens de kennisgraaf; de tekst van de vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99.55% |
-| Bewijsniveau | L5 |
-| Marktpositie NL | Niet geregistreerd in Nederland |
-| Aantal registraties | 0 |
-| Aanbevolen besluit | Onderzoeksvraag |
+| TxGNN-voorspellingsscore | 99,55% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis is carvedilol een antihypertensivum met bètablokkade (onder meer verminderde reninevrijzetting) en alfa-1-blokkade (vaatverwijding). Het bloeddrukverlagende effect is dus mechanistisch plausibel bij hypertensieve nierziekte.
 
-Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in het Evidence Pack. Op basis van bekende farmacologie is Carvedilol een β1/β2-adrenoceptorblokkeerder van de derde generatie, niet-selectief, met aanvullende α1-adrenoceptorblokkeringsactiviteit. Dit duaal mechanisme vermindert tegelijkertijd het hartminuutvolume (via β1-blokkering) en de systemische vaatweerstand (via α1-blokkering), wat een meer uitgebreide bloeddrukdaling oplevert dan alleen selectieve β-blokkers. Carvedilol bezit ook antioxidatieve eigenschappen en heeft nierprotectieve effecten aangetoond in modellen van chronisch hartfalen.
+De hoge score weerspiegelt waarschijnlijk vooral de nabijheid tot de bestaande indicatie hypertensie. Het is daarmee eerder een uitbreiding van de bestaande indicatie dan echte herpositionering. Bovendien vereist een maligne hypertensieve presentatie doorgaans snelle, titreerbare intraveneuze middelen; orale carvedilol is hiervoor geen standaardkeuze.
 
-Maligne hypertensieve nierziekte wordt gedefinieerd door sterk verhoogde bloeddruk (typisch MAP >150 mmHg) gepaard met acute nierinsufficiëntie. De pathofysiologie betreft beschadiging van renale arteriolen, fibrinoïde necrose en een vicieuze cirkel van ischemie-geïnduceerde renine-angiotensine-activering. In de chronische beheerfase — zodra de acute hypertensieve crisis met intraveneuze middelen onder controle is gebracht — is een oraal bloeddrukverlager met vaatverwijdende en nierprotectieve eigenschappen zoals Carvedilol theoretisch aantrekkelijk, vooral als de nierfunctie (eGFR) is gestabiliseerd.
+Andere voorspellingen uit dezelfde analyse zijn eveneens uitsluitend modelmatig:
 
-Het is echter belangrijk op te merken dat oraal Carvedilol in de acute fase een werkingbegin heeft dat te traag is voor eerstelijngebruik, en de standaardbehandeling vertrouwt op intraveneuze middelen (bijv. Labetalol IV, Nicardipine IV). De TxGNN-voorspelling weerspiegelt waarschijnlijk de mechanistische overlap tussen de hemodynamische eigenschappen van Carvedilol en de bloeddrukcontrolebehoefte van deze aandoening, in plaats van een gevalideerde klinische toepassing. Dosisaanpassing zou nodig zijn bij patiënten met verminderde nierfunctie (eGFR <30 ml/min/1.73 m²).
+- **Maligne renovasculaire hypertensie** (score 99,55%, L5): bètablokkade vermindert reninevrijzetting, maar er is geen klinisch bewijs en weinig nieuwe waarde.
+- **Pulmonale hypertensie, onduidelijk multifactorieel** (score 99,54%, L5): bètablokkers worden bij pulmonale hypertensie traditioneel met voorzichtigheid gebruikt vanwege mogelijk nadelige effecten op de rechterventrikelfunctie.
+- **Pulmonale hypertensie door longziekte en/of hypoxie** (score 99,54%, L4): alleen indirect preklinisch bewijs, zie hieronder. Dit is de enige voorspelling met enige literatuurondersteuning.
+- **Braddock-syndroom** (score 99,37%, L5): zeer zeldzame aandoening zonder herkenbare mechanistische onderbouwing; waarschijnlijk een artefact van het model.
 
----
+## Klinisch trialbewijs
 
-## Klinisch onderzoeksbewijs
-
-Op dit moment geen gerelateerde klinische onderzoeken geregistreerd voor Carvedilol bij maligne hypertensieve nierziekte.
-
----
+Momenteel geen gerelateerde klinische studies geregistreerd voor maligne hypertensieve nierziekte.
 
 ## Literatuurbewijs
 
-Op dit moment geen gerelateerde literatuur beschikbaar voor Carvedilol bij maligne hypertensieve nierziekte.
+Voor maligne hypertensieve nierziekte is momenteel geen gerelateerde literatuur beschikbaar.
 
----
+Ter informatie: voor de voorspelling *pulmonale hypertensie door longziekte en/of hypoxie* zijn enkele indirecte publicaties gevonden. Het gaat vooral om dierstudies en mechanistisch onderzoek, niet om directe werkzaamheid bij patiënten:
 
-## Marktinformatie Nederland
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [26291659](https://pubmed.ncbi.nlm.nih.gov/26291659/) | 2015 | Dierstudie | Eur J Pharmacol | Carvedilol keerde door chronische intermitterende hypoxie veroorzaakte hypertensie om bij ratten |
+| [24798657](https://pubmed.ncbi.nlm.nih.gov/24798657/) | 2014 | Crossover-studie (n=11) | J Clin Hypertens | Nachtelijke carvedilol vs. nifedipine op slaapbloeddruk bij hypertensieve patiënten met slaapapneu |
+| [20508210](https://pubmed.ncbi.nlm.nih.gov/20508210/) | 2010 | Dierstudie | Am J Respir Crit Care Med | Adrenerge blokkade keerde rechterhartremodellering om bij ratten met pulmonale hypertensie |
+| [16639551](https://pubmed.ncbi.nlm.nih.gov/16639551/) | 2006 | Dierstudie | Pflugers Arch | Carvedilol remde rechterventrikelhypertrofie door chronische hypobare hypoxie |
+| [19789971](https://pubmed.ncbi.nlm.nih.gov/19789971/) | 2009 | Review | Cardiovasc Drugs Ther | Effecten van bètablokkers op de longfunctie bij hartfalen; relevant voor veiligheid bij longziekte |
+| [25187802](https://pubmed.ncbi.nlm.nih.gov/25187802/) | 2014 | In-vitrostudie | Exp Ther Med | Carvedilol remt apoptose van cardiomyocyten via de TLR4/NF-κB-route |
+| [10862260](https://pubmed.ncbi.nlm.nih.gov/10862260/) | 2000 | Review | Presse Med | Bètablokkerintoxicatie kan ernstig zijn; carvedilol behoort tot de toxischere middelen |
 
-Carvedilol heeft momenteel geen verkoopvergunning in het CBG-MEB-gegevensbestand dat voor deze analyse wordt gebruikt (marktpositie: niet geregistreerd). Er zijn geen RVG-nummers in registratie.
+## Informatie over de Nederlandse markt
 
-> **Opmerking voor reviewers:** Carvedilol is een lang gevestigd generiek geneesmiddel. Als deze afwezigheid uit het NL-register een datalacu weerspiegelt in plaats van een echte afwezigheid van autorisatie, moeten de regelgevingsgegevens worden geverifieerd tegen het openbare CBG-MEB-register vóór verdere evaluatie.
-
----
-
-## Andere top TxGNN-voorspellingen (Samenvatting)
-
-Voor volledigheid worden de overige vier TxGNN-voorspelde indicaties hieronder samengevat. Alle zijn beoordeeld als L5 en alle hebben een aanbeveling **Hold** of **Onderzoeksvraag**:
-
-| Rang | Ziekte | TxGNN-score | Aanbeveling | Samenvatting motivering |
-|------|--------|-------------|------------|------------------------|
-| 2 | Maligne renovasculaire hypertensie | 99.55% | Hold | β-blokkering kan acute GFR-verlaging veroorzaken bij bilaterale nierarteriële stenose; veiligheidsbedenken wegen zwaarder dan theoretisch voordeel |
-| 3 | Pulmonale hypertensie — Multifactorieel (Groep 5) | 99.54% | Onderzoeksvraag | Opkomende gegevens (COMPASS-2) suggereren mogelijk voordeel op rechter ventrikelvormverandering bij toevoeging aan gerichte PAH-therapie; vereist zorgvuldige patiëntselectie |
-| 4 | Pulmonale hypertensie — Longziekte/Hypoxie (Groep 3) | 99.54% | Hold | Risico op bronchospasme (β2-blokkering), maskering van compensatoire tachycardie en verslechtering van rechter ventrikeledecompensatie; 20 opgehaalde publicaties behandelen alleen algemene hypoxiebiologie, zonder Carvedilol-specifieke gegevens |
-| 5 | Braddock-syndroom | 99.37% | Hold | SETD1B-epigenetisch pad heeft geen bekende snijpunt met adrenoceptorblokking; hoge TxGNN-score weerspiegelt waarschijnlijk niet-specifieke graaftopologie-artefact |
-
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 107596 | Carvedilol Aurobindo 25 mg, filmomhulde tabletten (status: doorgehaald) | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen belangrijke waarschuwingen, contraïndicaties of geneesmiddelinteractiegegevens konden uit het huidige Evidence Pack worden opgehaald.
+Voor de volgende ziekten of aandoeningen zijn in de kennisgraaf (geen productteksten) contra-indicaties gekoppeld aan carvedilol:
 
-> **Datalacu:** TFDA/CBG-MEB SmPC-waarschuwings- en contraïndicatiegegevens (DG001) en gedetailleerde werkingsmechanismegegevens (DG002) zijn aangemerkt als openstaande items. Deze moeten worden opgelost voordat wordt overgegaan tot formele veiligheidsbeoordeling (Fase S1).
+- **Lever en luchtwegen**: leverfalen, bronchitis, astma (inclusief intrinsiek en allergisch), longemfyseem, bronchiale aandoeningen
+- **Hart en bloedvaten**: lage bloeddruk, perifere vaatziekte, claudicatio intermittens, perifeer arterieel vaatlijden, atrioventriculair blok, Prinzmetal-angina, sikasinussyndroom (inclusief familiaire vorm)
+- **Metabool**: diabetes mellitus, diabetische ketoacidose
+- **Overig**: anafylaxie, intra-operatief floppy-iris-syndroom
 
----
+**Geneesmiddelinteracties** (100 interacties gevonden; hieronder een selectie):
+
+- **Ernstig (Major)**: epinefrine
+- **Matig (Moderate)**: hydrocortison, dexamethason, betamethason, triamcinolon, budesonide, hyoscyamine, atropine, bupropion, morfine, lorcaserin, canagliflozine, acetohexamide, calciumzouten (fosfaat, acetaat, carbonaat, citraat)
+- **Licht (Minor)**: acetylsalicylzuur, aluminiumhydroxide, attapulgiet
+
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor volledige veiligheidsinformatie. De waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter zijn niet in de beschikbare data opgenomen.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Onderzoeksvraag**
+**Beslissing: Hold**
 
-**Motivering:**
-Het TxGNN-model levert een hoge voorspellingsscore (99.55%) op voor Carvedilol bij maligne hypertensieve nierziekte, wat mechanistisch plausibel is gezien de duaal-adrenoceptorblokkeringsactiviteit van het geneesmiddel en de theoretische nierprotectieve eigenschappen in de chronische fase na crisis. Er is echter momenteel nul klinisch onderzoeks- of literatuurbewijs specifiek voor deze geneesmiddel-ziektecombinatie, wat dit op het laagste bewijsniveau (L5) plaatst. De rangschikking vormt nog geen voldoende basis voor klinische ontwikkeling of off-labelgebruik, maar verdient een gestructureerde preklinische en literatuurreview.
+**Onderbouwing:**
+De voorspelling berust uitsluitend op een computermodel (L5), zonder klinische studies of directe literatuur. Het is grotendeels een uitbreiding van de bestaande hypertensie-indicatie, orale carvedilol is geen standaardkeuze bij maligne hypertensie, en de enige Nederlandse vergunning is doorgehaald.
 
-**Voor vervolging is het volgende nodig:**
-
-- **DG001 oplossen**: Haal de SmPC (Samenvatting van de Productkenmerken) via het openbare CBG-MEB-register op om contraïndicaties, belangrijke waarschuwingen en dosisaanpassingsrichtlijnen voor nierfunctiestoornissen te verkrijgen
-- **DG002 oplossen**: Verkrijg bevestigde werkingsmechanismegegevens uit DrugBank (DB01136) om de mechanistische koppelingsanalyse te voltooien
-- **NL-marktpositie verifiëren**: Controleer het CBG-MEB-register om te bevestigen of Carvedilol bestaande RVG-registraties bezit die uit de huidige gegevensset ontbraken
-- **Gerichte literatuurzoeking**: Voer een gerichte PubMed/EMBASE-zoeking uit met MeSH-termen `Carvedilol AND (malignant hypertension OR hypertensive nephropathy OR hypertensive emergency)` om casusserien of retrospectieve onderzoeken te identificeren
-- **Nierfunctie-subanalyse**: Beoordeel beschikbare gegevens over Carvedilol-farmacokinetiek en veiligheid bij patiënten met eGFR <30 ml/min/1.73 m²
-- **Deskundigenraadpleging**: Zoekhulp van een nefroloog en cardioloog gespecialiseerd in hypertensieve noodsituaties voordat u een prospectief onderzoek ontwerpt
-
-> *Dit rapport is bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies. Alle kandidaten voor geneesmiddelherverpurposing vereisen klinische validatie voordat therapeutische toepassing plaatsvindt. Alle inhoud moet passende YMYL-disclaimers bevatten bij publicatie.*
-
+**Om verder te gaan is het volgende nodig:**
+- Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (SmPC) ophalen en beoordelen; dit blokkeert de veiligheidsscreening
+- Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank)
+- Systematische literatuursearch naar bètablokkers en alfa-/bètablokkade bij maligne hypertensieve nierziekte en renovasculaire hypertensie
+- Beoordelen of er een geldig geregistreerd carvedilolproduct op de Nederlandse markt beschikbaar is
+- Bij pulmonale hypertensie met longziekte: eerst de respiratoire veiligheid van niet-selectieve bètablokkade beoordelen (astma, bronchitis en emfyseem staan in de kennisgraaf als contra-indicatie)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

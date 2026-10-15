@@ -2,7 +2,7 @@
 layout: default
 title: Vecuronium
 parent: Alleen modelvoorspelling (L5)
-nav_order: 124
+nav_order: 340
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,91 +29,84 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Vecuronium: van neuromusculaire blokkade naar insomnie
+# Vecuronium: Van neuromusculaire blokkade naar slapeloosheid (insomnia)
 
 ## Samenvatting in één zin
 
-Vecuronium is een niet-depolariserend neuromusculair blokkeringsmiddel dat in operatie- en intensive-caresettings wordt gebruikt om intubatie te vergemakkelijken en skeletspierrelaxatie tijdens algemene anesthesie te handhaven.
-Het TxGNN-model voorspelt dat het werkzaam kan zijn voor **Insomnie**, met **0 klinische onderzoeken** en **0 publicaties** die deze richting rechtstreeks ondersteunen — het enige geïdentificeerde onderzoek is een algemeen farmacokinetisch onderzoek bij kinderen dat geheel niet gerelateerd is aan slaapstoornissen.
-Deze voorspelling is mechanistisch onwaarschijnlijk en wordt momenteel niet aanbevolen voor verdere ontwikkeling.
+Vecuronium is een niet-depolariserend spierverslappend middel dat bij anesthesie en intensive care wordt gebruikt; een geregistreerde indicatietekst is in de samengestelde gegevens echter niet beschikbaar. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **slapeloosheid (insomnia)**, maar hiervoor is **geen enkele relevante klinische studie** en **geen enkele publicatie** beschikbaar. De voorspelling berust uitsluitend op een modelberekening en heeft geen farmacologische onderbouwing.
 
 ---
 
-## Snelle Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|---------|
-| Originele Indicatie | Geen CBG-MEB-goedkeuring in het dossier; bekend klinisch gebruik is neuromusculaire blokkade in anesthesie/intensive care |
-| Voorspelde Nieuwe Indicatie | Insomnie |
-| TxGNN Voorspellingsscore | 99.34% |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbreekt) |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
+| TxGNN-voorspellingsscore | 99,34% |
 | Bewijsniveau | L5 |
-| Nederlandse Marktstatus | Niet op de markt gebracht in Nederland |
-| Aantal Goedkeuringen | 0 |
-| Aanbevolen Besluit | Afwachten |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn niet beschikbaar in het huidige Evidence Pack. Op basis van gevestigde farmacologie is Vecuronium een niet-depolariserend neuromusculair blokkeringsmiddel dat competitief nicotinerge acetylcholinereceptoren (nAChR) antagoniseert op de perifere skeletale neuromusculaire junctie, wat resulteert in omkeerbare verlamming van vrijwillige spieren. Het wordt uitsluitend intraveneus toegediend in gecontroleerde ziekenhuisomgevingen (operatiekamers, intensive care), heeft verwaarloosbare vetoplossingsvermogen en passeerdt niet de bloed-hersenbarrière.
+Gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis is vecuronium een niet-depolariserende neuromusculaire blokker. Het remt competitief de nicotinerge acetylcholinereceptoren ter hoogte van de neuromusculaire overgang en veroorzaakt zo verlamming van skeletspieren.
 
-Insomnie is een aandoening van het centraal zenuwstelsel die wordt veroorzaakt door dysregulatie van slaap-waakcircuits met betrokkenheid van GABAerge, adenosinerg, histaminerg en orexine/hypocretine-paden. Geen van deze paden betrekken perifere nAChR-activiteit. Vecuronium heeft geen directe werking op enig CNS-doelwit dat bekend is bij het reguleren van slaaparchitectuur.
+Het middel heeft geen bekende centraal sedatieve of hypnotische werking en passeert de bloed-hersenbarrière niet in betekenisvolle mate. Een aannemelijke mechanistische route naar de behandeling van slapeloosheid ontbreekt dan ook. De hoge score (0,993) lijkt een artefact van de netwerkgebaseerde voorspelling zonder farmacologische ondersteuning. Verlamming zonder sedatie zou bovendien schadelijk en beangstigend zijn voor de patiënt, en niet therapeutisch.
 
-De hoge TxGNN-score (99.34%) is waarschijnlijk een artefact van indirecte kennisgraafpad-inferentie — specifiek de ketting *"neuromusculaire blokkade → sedatieondersteuning → slaapverbetering"* — die geen klinisch of farmacologisch vertaalbaarlijk werkingsmechanisme vormt. Geen preklinisch of klinisch bewijs ondersteunt het hergebruiken van Vecuronium voor insomnie, en deze voorspelling moet worden behandeld als een vals-positief gegenereerd door graaftopologie in plaats van biologische aannemelijkheid.
-
----
-
-## Bewijs uit Klinische Onderzoeken
-
-Één onderzoek werd opgehaald, maar de relevantie ervan voor insomnie is **Graad C (niet relevant)**. Vecuronium verschijnt in deze studie uitsluitend als een standaard anestheticummiddel; de studie onderzoekt geen slaapstoornissen.
-
-| Onderzoeksnummer | Fase | Status | Aantal Deelnemers | Belangrijkste Bevindingen |
-|-------------|-------|--------|------------|--------------|
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Afgerond | 3,520 | Breed farmacokinetisch observationeel onderzoek bij kinderen met meerdere onderverkende geneesmiddelen die per standaard zorgverlening worden toegediend. Vecuronium was opgenomen als een routinematig anesthesie-/intensive-caremiddel. Primaire eindpunten zijn PK-parameters. **Geen verband met insomniebehandeling.** |
+**Tweede voorspelling (ter informatie):** het prikkelbare-darmsyndroom (IBS, score 99,11%). Vecuronium werkt op skeletspieren en heeft nauwelijks effect op gladde spieren van het maag-darmkanaal. IBS wordt gekenmerkt door viscerale overgevoeligheid, veranderde motiliteit en ontregeling van de darm-hersen-as, waarop neuromusculaire blokkade niet aangrijpt. Het gebruik vereist bovendien mechanische beademing, wat onpraktisch is voor een chronische functionele darmaandoening. Ook hiervoor zijn geen klinische studies of literatuur beschikbaar.
 
 ---
 
-## Literatuurbewijzen
+## Bewijs uit klinische studies
 
-Momenteel geen gerelateerde literatuur beschikbaar.
-
----
-
-## Nederlandse Marktgegevens
-
-Vecuronium heeft geen CBG-MEB-handelsgoedkeuring in Nederland. Er zijn geen geregistreerde producten, RVG-nummers of goedgekeurde indicaties in het dossier.
-
-| RVG-nummer | Productnaam | Galenische vorm | Goedgekeurde Indicatie |
-|-----------|--------------|-------------|---------------------|
-| — | Geen geautoriseerde producten | — | — |
-
-> **Opmerking:** In andere EU/EEA-markten is Vecuronium bromide (bijv. *Norcuron*) geautoriseerd als kortwerkend neuromusculair blokkeringsmiddel voor chirurgisch gebruik. Indien marktintroductie in Nederland voor enige indicatie wordt overwogen, zou van het begin af aan een volledige CBG-MEB of gecentraliseerde EMA-autorisatietraject vereist zijn.
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+|---------|------|------|------|---------|
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Afgerond | 3520 | Farmacokinetiekstudie bij kinderen naar onvoldoende onderzochte geneesmiddelen die volgens standaardzorg worden toegediend. Vecuronium kan hier één van de vele middelen zijn, maar de studie onderzoekt insomnia niet en levert geen werkzaamheidsbewijs (relevantie: C, niet relevant). |
 
 ---
 
-## Veiligheidsbeschouwingen
+## Bewijs uit de literatuur
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen belangrijke waarschuwingen, contra-indicaties of gegevens over medicijninteracties zijn beschikbaar in het huidige Evidence Pack.
-
-> **Belangrijke context voor evaluatoren:** Vecuronium is een geneesmiddel van Schema 4 / met hoog-alert status in de meeste rechtsgebieden. Het vereist beheerde toediening met mogelijkheid van beademingsondersteuning bij de hand vanwege het risico van laming van ademhalingsspieren. Deze context maakt enig voorgesteld poliklinisch of zelf gegeven gebruik (zoals gebruikelijk zou zijn voor insomniebehandeling) farmacologisch en praktisch onverenigbaar.
+Momenteel is er geen relevante literatuur beschikbaar.
 
 ---
 
-## Conclusie en Vervolgstappen
+## Marktinformatie Nederland
 
-**Besluit: Afwachten**
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118278 | Vecuronium SUN 10 mg poeder voor oplossing voor injectie en intraveneuze infusie (status: doorgehaald) | Niet vermeld | Niet vermeld |
+
+---
+
+## Veiligheidsoverwegingen
+
+**Geneesmiddelinteracties:** In totaal zijn 85 interacties gevonden. Hieronder staan de belangrijkste uit de beschikbare lijst.
+
+- **Ernstig (Major):** paromomycine, kanamycine, neomycine
+- **Matig (Moderate), selectie:** doxycycline, tetracycline, minocycline, vancomycine, amfotericine B, magnesiumsulfaat, magnesiumchloride, metoclopramide, mannitol, corticosteroïden (hydrocortison, dexamethason, betamethason, triamcinolon, prednison)
+- **Licht (Minor):** ranitidine
+
+Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor volledige veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Hold**
 
 **Onderbouwing:**
-Het werkingsmechanisme van Vecuronium — perifere nAChR-antagonisme dat skeletspierverlamming veroorzaakt — heeft geen gevestigd of aannemelijk verband met de centrale routes die slaap-waakregulatie beheersen. Het enige geïdentificeerde klinische onderzoek is geheel niet gerelateerd aan insomnie (Graad C), en er is geen ondersteunende literatuur. Het geneesmiddel is ook niet op de markt gebracht in Nederland (0 CBG-MEB-goedkeuringen), en alle veiligheidsgegevens blijven niet beschikbaar. Deze combinatie van mechanistische onwaarschijnlijkheid, nul gericht bewijs, niet-gemarketeerde status en lacunes in veiligheidsgegevens maakt verdere inspanningen op dit moment niet gerechtvaardigd.
+- Er is alleen een modelvoorspelling (L5), zonder relevante klinische studies of literatuur. Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.
 
-**Om door te gaan, zou het volgende vereist zijn:**
-
-- Identificatie van een biologisch aannemelijk werkingsmechanisme dat perifere nAChR-antagonisme (of een secundaire farmacologische eigenschap van Vecuronium) koppelt aan CNS-slaap-waakregulatie — dit bestaat momenteel niet in de literatuur
-- Minimaal één door vakgenoten beoordeelde publicatie of geregistreerd prospectief klinisch onderzoek dat specifiek Vecuronium (of een nauw verwant neuromusculair blokkeringsmiddel) voor insomnie onderzoekt
-- Volledige aanvulling van gegevenslacunes: SmPC/veiligheidsgegevens moeten worden opgehaald (uit EMA-productinformatie of gelijkwaardig) voordat enige verdere veiligheidsscreening (Fase S1) kan worden gestart
-- Beoordeling van regelgeving haalbaarheid: gezien de niet-gemarketeerde status in Nederland, zou een de novo CBG-MEB-autorisatietraject moeten worden bepaald
-- Hernieuwde evaluatie van de tweede TxGNN-voorspelling (Prikkelbare Darmsyndroom, score 99.11%) — die ook een "Afwachten / geen aannemelijk werkingsmechanisme" beoordeling draagt — voordat hulpbronnen aan deze kandidaat worden toegewezen
-
+**Om verder te gaan is het volgende nodig:**
+- Een aanvullende analyse van de waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (de veiligheidsscreening kan hier nu niet op worden gebaseerd)
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Een plausibele farmacologische hypothese; zonder die hypothese wordt verder onderzoek niet aanbevolen
+- Een beoordeling van de route- en toedieningscompatibiliteit en de huidige vergunningsstatus
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

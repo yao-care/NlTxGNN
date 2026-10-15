@@ -2,7 +2,7 @@
 layout: default
 title: Fluorouracil
 parent: Alleen modelvoorspelling (L5)
-nav_order: 71
+nav_order: 160
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,100 +29,111 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fluorouracil (5-FU): Van colorectaal carcinoom naar botryoïde-type embryonaal rhabdomyosarcoom van de vagina
+# Fluorouracil: Van basaalcelcarcinoom en gastro-intestinale tumoren naar rhabdomyosarcoom
 
 ## Samenvatting in één zin
 
-Fluorouracil (5-FU) is een fluoropyrimidine antimetaboliet dat veel wordt gebruikt als basiswerkstof in combinatiechemietherapieregimes (FOLFOX, FOLFIRI, FOLFIRINOX) voor gastro-intestinale kankers, inclusief colorectaal- en maagkanker.
-Het TxGNN-model voorspelt dat het effectief kan zijn bij **botryoïde-type embryonaal rhabdomyosarcoom van de vagina**, een zeer zeldzaam pediatrisch wekedelensarcoom.
-Op dit moment zijn er **0 klinische trials** en **0 publicaties** die deze richting specifiek ondersteunen, wat deze voorspelling op het laagste bewijsniveau plaatst — **L5 (alleen modelvoorspelling)**.
+Fluorouracil is een antimetaboliet die oorspronkelijk wordt gebruikt voor huidaandoeningen (zoals oppervlakkig basaalcelcarcinoom en actinische keratose) en voor tumoren van het maagdarmkanaal (colon, maag, pancreas). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **rhabdomyosarcoom** (hoogst scorende voorspelling: botryoïd embryonaal rhabdomyosarcoom van de vagina). Hiervoor zijn **0 klinische studies** en **geen directe literatuur** gevonden. Voor de bredere indicatie rhabdomyosarcoom zijn **4 publicaties** gevonden, waarvan geen enkele de bijdrage van fluorouracil afzonderlijk aantoont.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Geen CBG-MEB-markttoelating op record voor Nederland |
-| Voorspelde nieuwe indicatie | Botryoïde-type embryonaal rhabdomyosarcoom van de vagina |
+|------|------|
+| Oorspronkelijke indicatie | Oppervlakkig multifocaal basaalcelcarcinoom, actinische keratose en gastro-intestinale tumoren (o.a. colon, maag, pancreas); in de gegevens van de Nederlandse vergunning is geen indicatietekst opgenomen |
+| Voorspelde nieuwe indicatie | Botryoïd embryonaal rhabdomyosarcoom van de vagina |
 | TxGNN-voorspellingsscore | 99,75% |
-| Bewijsniveau | L5 |
-| Status op de Nederlandse markt | Niet geregistreerd |
-| Aantal toelatingen | 0 |
-| Aanbevolen besluit | Inhouden |
+| Bewijsniveau | L5 (alleen modelvoorspelling) |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen besluit | Hold |
+
+Andere voorspellingen met dezelfde conclusie (Hold) zijn onder meer rhabdomyosarcoom algemeen (score 99,74%, L4), parameningeaal embryonaal rhabdomyosarcoom, extrahepatisch galwegrhabdomyosarcoom, prostaat-rhabdomyosarcoom, lever­sarcoom (L4) en drie vormen van sikkelcelziekte (L5).
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel zijn gedetailleerde werkingsmechanismegegevens niet beschikbaar in dit Evidence Pack. Op basis van goed gevestigde farmacologie is Fluorouracil (5-FU) een fluoropyrimidine antimetaboliet dat thymidylaat synthase (TS) remt, waardoor DNA-synthese wordt geblokkeerd en snel delende cellen selectief worden gedood. Dit mechanisme ligt ten grondslag aan de werkzaamheid ervan als basiswerkstof van belangrijke oncologieregimes — inclusief FOLFOX, FOLFIRI en FOLFIRINOX — die wereldwijd worden gebruikt voor colorectaal-, maag-, alvleesklier- en galwegkanker.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene kennis remt fluorouracil het enzym thymidylaatsynthase en wordt het ingebouwd in RNA en DNA. Hierdoor wordt de aanmaak van DNA in snel delende cellen verstoord. Dit is biologisch aannemelijk voor een snel prolifererend sarcoom.
 
-Het voorspelde doelwit — botryoïde-type embryonaal rhabdomyosarcoom van de vagina — is een zeer zeldzaam pediatrisch wekedelensarcoom. De standaard van zorg voor rhabdomyosarcoom (RMS) is het VAC-regime (vincristine, actinomycine D, cyclofosfamide), zoals vastgesteld door internationale samenwerkingsgroepen, waaronder ARST0531 en EpSSG RMS 2005. Fluorouracil komt niet voor in huidige RMS-behandelingsrichtlijnen, en dit specifieke botryoïde vaginale subtype heeft zijn eigen afzonderlijke klinische gedrag verschillend van de bredere RMS-familie.
+De oorspronkelijke indicaties (huidtumoren en tumoren van het maagdarmkanaal) zijn carcinomen, terwijl rhabdomyosarcoom een weke-delentumor is. De overeenkomst blijft daarom beperkt tot het algemene antiproliferatieve effect. Fluorouracil is bovendien geen standaardmiddel bij rhabdomyosarcoom; de gebruikelijke schema's bevatten vincristine, actinomycine D en cyclofosfamide.
 
-De TxGNN-score van 99,75% weerspiegelt waarschijnlijk dat de kennisgraaf generaliseert van het bredere RMS-parentnode naar dit zeer zeldzame subtype, in plaats van enig direct biologisch signaal. Hoewel het cytotoxische mechanisme van 5-FU theoretisch van toepassing is op elke snel prolifererende maligniteit, is er geen klinisch, translationaal of preclinisch bewijs specifiek voor dit vaginale RMS-subtype ter ondersteuning van deze voorspelling. Het moet als een modelgegenereerde hypothese worden behandeld.
-
----
-
-## Klinische trialgegevens
-
-Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
+Voor de sikkelcelvoorspellingen is de hypothese dat cytotoxische stress op erytroïde voorlopercellen foetaal hemoglobine kan induceren, zoals bij hydroxyurea. Dit is speculatief. Gezien de myelosuppressieve toxiciteit van fluorouracil is het middel in een chronische niet-maligne aandoening ongunstig.
 
 ---
 
-## Literatuurgegevens
+## Bewijs uit klinische studies
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Marktinformatie voor Nederland
+## Bewijs uit de literatuur
 
-Fluorouracil (DB00544) heeft geen CBG-MEB-markttoelating op record in dit Evidence Pack (0 RVG-nummers). Dit vertegenwoordigt waarschijnlijk een leemte in de huidige gegevensset, aangezien 5-FU een goed gevestigde antineoplastische stof is die in meerdere Europese markten beschikbaar is. Clinici en beoordelaars moeten de huidige registratiestatus rechtstreeks verifiëren via het [CBG-MEB openbare register](https://www.cbg-meb.nl/) of de [EMA-productendatabase](https://www.ema.europa.eu/en/medicines).
+Er is geen literatuur voor de hoogst scorende voorspelling. Voor de bredere indicatie *rhabdomyosarcoom* zijn de volgende publicaties gevonden:
 
-| RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
-|------------|-------------|---------------|----------------------|
-| — | Geen toelatingsgegevens beschikbaar in dit Evidence Pack | — | — |
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [42483493](https://pubmed.ncbi.nlm.nih.gov/42483493/) | 2026 | Casuïstiek | Case Reports in Oncological Medicine | Volwassene (19 jaar) met lingueel rhabdomyosarcoom; doxorubicine met ifosfamide en daarna cisplatine met 5-fluorouracil leidden tot ziekteprogressie; derde lijn met vincristine, actinomycine D en cyclofosfamide |
+| [3884137](https://pubmed.ncbi.nlm.nih.gov/3884137/) | 1985 | Review | Cancer | Overzicht van adjuvante chemotherapie bij sarcomen bij kinderen |
+| [3951398](https://pubmed.ncbi.nlm.nih.gov/3951398/) | 1986 | Cohort | Medical and Pediatric Oncology | Behandeling van ongedifferentieerd nasofarynxcarcinoom bij kinderen; weinig relevant voor rhabdomyosarcoom |
+| [6277228](https://pubmed.ncbi.nlm.nih.gov/6277228/) | 1981 | Review | Annals of the Academy of Medicine, Singapore | Overzicht van de te genezen kankers met chemotherapie, waaronder rhabdomyosarcoom bij kinderen |
+
+Het enige recente bericht (2026) laat zien dat een schema met fluorouracil niet werkte. De oudere artikelen betreffen multimodale schema's, waarin de bijdrage van fluorouracil niet te isoleren is.
+
+Voor *extrahepatisch galwegrhabdomyosarcoom* en *leversarcoom* is alleen indirecte literatuur gevonden (galwegcarcinoom, colorectale levermetastasen, preklinische studies). Die zegt niets over werkzaamheid bij het sarcoom zelf.
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118637//06292 | Efudix 50 mg/g, crème | Crème | Niet vermeld (vergunning ingetrokken) |
+
+Er is in Nederland momenteel geen geldige vergunning voor een enkelvoudig of gecombineerd product in de gegevens van het CBG-MEB. Voor systemische toepassing is raadpleging van de actuele registratie bij het CBG-MEB en de EMA nodig.
 
 ---
 
 ## Cytotoxiciteit
 
-Fluorouracil is een conventionele cytotoxische stof (fluoropyrimidine antimetaboliet). Het volgende is van toepassing op systemische toediening.
-
 | Item | Inhoud |
-|------|--------|
-| Cytotoxiciteitclassificatie | Conventioneel cytotoxisch — Fluoropyrimidine-klasse (antimetaboliet) |
-| Myelosuppressierisico | Matig tot hoog — dosisbeperkende leukopenie, trombocytopenie en anemie zijn goed gedocumenteerd |
-| Emetogeniciteitclassificatie | Laag tot matig |
-| Controleposten | Volledige bloedtellingen (CBC), leverfunctietesten, nierfunctie; screening op DPD (dihydropyrimidine dehydrogenase) enzymegebrek wordt sterk aanbevolen voorafgaand aan de aanvang van de behandeling |
-| Veiligheidsmaatregelen | Ja — cytotoxische omgangsveiligheidsmaatregelen vereist volgens NIOSH-richtlijnen en ISOPP-normen voor voorbereiding, toediening en afvalverwijdering |
+|------|------|
+| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch (fluoropyrimidine, antimetaboliet) |
+| Risico op myelosuppressie | Midden tot hoog (op basis van de contra-indicaties neutropenie, leukopenie, trombocytopenie en agranulocytose) |
+| Emetogeniteitsclassificatie | Laag tot matig (algemeen voor deze klasse; zie SmPC) |
+| Te monitoren items | Volledig bloedbeeld, lever- en nierfunctie; DPD-status vóór behandeling |
+| Bescherming bij hantering | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
+
+Raadpleeg voor details de waarschuwingen en voorzorgen in de SmPC.
 
 ---
 
-## Veiligheidsgezichtspunten
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Er waren geen Nederlandse SmPC of TFDA-bijsluitergegevens beschikbaar in dit Evidence Pack voor formele veiligheidsextractie.
+Voor waarschuwingen en contra-indicaties uit de bijsluitertekst zijn geen gegevens beschikbaar. Uit de kennisgrafiek (geen productteksten) komen de volgende aandoeningen als contra-indicatie naar voren:
 
-> **Opmerking voor klinische beoordelaars:** Gezien het feit dat alle belangrijke waarschuwings- en contra-indicatievelden ontbreken in deze gegevenset, is een volledige SmPC-beoordeling verplicht voordat enig klinisch of regelgevingsbesluit wordt genomen. Bijzondere aandacht moet worden besteed aan DPD-gebrek, cardiotoxiciteit (vooral bij continue infusie) en neurotoxiciteit.
+- **Contra-indicaties (kennisgrafiek):** nierziekte, leverziekte, galblaasaandoening, trombocytopenie, neutropenie, agranulocytose, leukopenie, diarree, actieve maagzweer, faryngitis, stomatitis en **dihydropyrimidinedehydrogenase (DPD)-deficiëntie**.
+- **Geneesmiddelinteracties:** 100 interacties gevonden. De matige interacties zijn **metronidazol** en **tinidazol**. Minder belangrijk zijn **cimetidine** en **levofloxacine**. Voor veel andere middelen (o.a. calcitriol, doxycycline, omeprazol, morfine, metformine) is de ernst onbekend.
+
+Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Inhouden**
+**Besluit: Hold**
 
-**Grondslag:**
-Er is momenteel geen klinisch, translationaal of preclinisch bewijs dat Fluorouracil specifiek verbindt met botryoïde-type embryonaal rhabdomyosarcoom van de vagina. De TxGNN-voorspellingsscore (99,75%) is hoog in absolute termen, maar wordt vrijwel zeker aangestuurd door kennisgraafknoopgeneralisatie van de bredere RMS-parentklasse — niet door ziektespesifiek biologisch bewijs. Dit subtype is ook een ultrazelden pediatrisch tumor met een gevestigde standaard van zorg (VAC-chemotherapie) die niet 5-FU omvat.
+**Onderbouwing:**
+- De voorspellingen berusten op een modelscore, zonder geregistreerde klinische studies en zonder directe literatuur. Bij rhabdomyosarcoom is fluorouracil geen standaardmiddel en bij sikkelcelziekte is de toxiciteit ongunstig. De Nederlandse vergunning is bovendien ingetrokken.
 
-**Om door te gaan, is het volgende nodig:**
-
-- **Mechanistisch bewijs:** TS-expressie- en 5-FU-gevoeligheidsgegevens in RMS-cellijnen (vooral botryoïde-subtype), bij voorkeur via in vitro-cytotoxiciteitstesten
-- **Preclinische gegevens:** In vivo RMS-modellen met Fluorouracil om proof-of-concept antitumorwerking vast te stellen
-- **Beoordeling door klinische experts:** Raadpleging met pediatrische oncologiespecialisten (bijv. via SIOPE/EpSSG-netwerk) om wetenschappelijke plausibiliteit te beoordelen voordat verdere investeringen plaatsvinden
-- **Registratiestatus Nederland:** Bevestig CBG-MEB-registratiestatus en beschikbare SmPC voor Fluorouracil in Nederland — de huidige leemte in de gegevens moet worden opgelost
-- **Veiligheidspakket:** Verkrijg volledige SmPC- en contra-indicatiegegevens, met bijzondere aandacht voor gebruik in pediatrische en ultrazelden ziektenepopulaties
-- **Kennisgraafaudit:** Evalueer of de hoge TxGNN-scores voor alle vijf RMS-subtypen in dit Evidence Pack echt biologisch signaal weerspiegelen of een systematische fout-positieve afkomstig van RMS-knoopgeneralisatie
-
+**Om verder te gaan is nodig:**
+- Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (geblokkeerde gegevenslacune)
+- Gegevens over het werkingsmechanisme (bijv. via DrugBank)
+- Preklinisch of retrospectief bewijs specifiek voor rhabdomyosarcoom
+- Vergelijking met de standaardschema's (vincristine, actinomycine D, cyclofosfamide)
+- Een DPD-screeningsplan en een veiligheidsmonitoringsplan voor myelosuppressie
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

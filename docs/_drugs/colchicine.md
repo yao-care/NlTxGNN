@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Colchicine
-parent: Matig bewijs (L3-L4)
-nav_order: 47
-evidence_level: L4
+parent: Alleen modelvoorspelling (L5)
+nav_order: 96
+evidence_level: L5
 indication_count: 3
 ---
 
 # Colchicine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,105 +29,103 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Colchicine: Van jicht naar Plasmodium falciparum malaria
+# Colchicine: Van jicht en familiaire mediterrane koorts naar Plasmodium falciparum-malaria
 
 ## Samenvatting in één zin
 
-Colchicine is een plantaardig alkaloid met een lange geschiedenis van gebruik bij jicht en auto-inflammatoire aandoeningen — hoewel er momenteel geen registratie voor toelating op de Nederlandse markt is.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn tegen **Plasmodium falciparum-malaria**,
-met **0 klinische onderzoeken** en **6 mechanistische publicaties** die deze richting ondersteunen — allemaal op basis van vergelijkbare verbindingen in plaats van Colchicine zelf.
-
-> **Opmerking:** De op één na hoogst gerangschikte TxGNN-voorspelling — **Familiale mediterrane koorts (FMK)** — heeft aanzienlijk sterker bewijs (L1, 1 klinisch onderzoek, 20 publicaties) en een aanbeveling van *Doorgaan met waarborgen*. Clinici en formulariumbijdragers kunnen er goed aan doen die indicatie prioritair voor verdere evaluatie uit te kiezen.
+Colchicine wordt van oudsher gebruikt bij jicht en familiaire mediterrane koorts (FMF). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **Plasmodium falciparum-malaria**, maar er zijn **geen klinische studies** en slechts **2 publicaties** met alleen indirecte, preklinische ondersteuning. Het bewijs berust dus vrijwel uitsluitend op een computationele voorspelling.
 
 ---
 
-## Snelle overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Niet gespecificeerd in NL regelgevingsgegevens (gevestigde historisch gebruik: jicht, familiale mediterrane koorts) |
+|------|------|
+| Oorspronkelijke indicatie | Jicht; familiaire mediterrane koorts (FMF) |
 | Voorspelde nieuwe indicatie | Plasmodium falciparum-malaria |
 | TxGNN-voorspellingsscore | 99,60% |
-| Bewijsniveau | L4 |
-| NL-markeringsstatus | Niet geregistreerd |
-| Aantal toelatingingen | 0 |
-| Aanbevolen besluit | Stil leggen |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen vervallen/ingetrokken registratie (geen geldige vergunning) |
+| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| Aanbevolen besluit | Hold |
+
+*Toelichting: de oorspronkelijke indicaties komen uit de kennisgraaf van het model. In de Nederlandse vergunningsgegevens is geen indicatietekst beschikbaar.*
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Colchicine bindt aan β-tubulinedimeren en remt polymerisatie van microtubuli. Dit verstoort de vorming van de mitotische spil (blokkeert celdelingen) en bemoeilijkt neutrofiele chemotaxis en degranulatie. Deze eigenschappen ondersteunen de werkzaamheid ervan bij jichtaanvallen en auto-inflammatoire aandoeningen zoals FMK en pericarditis.
+Colchicine is een stof die microtubuli verstoort: het bindt aan tubuline en remt de polymerisatie. Plasmodium falciparum heeft microtubuli nodig voor celdeling, intracellulaire ontwikkeling en invasie van gastheercellen. Een tubuline-gericht mechanisme is daarom biologisch denkbaar.
 
-*Plasmodium falciparum* bezit zijn eigen β-tubuline (pfβ-tubuline), een essentieel structureel onderdeel gedurende de intra-erythrocytaire levenscyclus van de parasiet. Verschillende tubulinebindende verbindingen — waaronder tubulozolen en curcumine — hebben activiteit tegen *P. falciparum* in vitro aangetoond, wat de biologische grondslag voor TxGNN's voorspelling vormt. Colchicine, als een prototypisch tubulinebindend middel, wordt algoritmisch gegroepeerd met deze mechanistische klasse.
+De opgehaalde literatuur ondersteunt dit slechts indirect. Eén artikel onderzoekt curcumine (niet colchicine) en de verstoring van parasitaire microtubuli. Het andere artikel beschrijft dat expressie van het pfmdr1-gen in zoogdiercellen de gevoeligheid voor chloroquine verandert; colchicine is daarin vermoedelijk gebruikt als P-glycoproteïne-substraat. Geen van beide laat antimalariawerking van colchicine bij patiënten zien.
 
-De mechanistische parallel kent echter belangrijke beperkingen. Parasitaire β-tubuline verschilt van mammalische tubuline op functioneel belangrijke residuen, wat vragen oproept over selectiviteit en therapeutisch venster. Kritiek is dat **geen van de geïdentificeerde literatuurstudies Colchicine rechtstreeks bestudeert** — alle zes publicaties betreffen structureel verschillende verbindingen. De extreem nauwe therapeutische breedte van Colchicine (therapeutische en toxische doses overlappen significant) bemoeilijkt verder elke infectieziekte-toepassing. De huidige voorspelling is daarom het best te karakteriseren als een **mechanistische analogie-hypothese** in plaats van bewijs-gebaseerde herbestemming.
+Daar komt bij dat colchicine een smalle therapeutische breedte heeft. De doses die nodig zouden zijn om parasitair tubuline te beïnvloeden, geven waarschijnlijk toxiciteit bij de gastheer. Gegevens over het precieze werkingsmechanisme van colchicine zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande mechanistische redenering is algemene kennis en geen onderdeel van de aangeleverde gegevens.
 
 ---
 
-## Bewijs uit klinische onderzoeken
+## Klinisch trialbewijs
 
-Er zijn momenteel geen gerelateerde klinische onderzoeken geregistreerd.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
 ## Literatuurbewijs
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|--------------------------|
-| [2670249](https://pubmed.ncbi.nlm.nih.gov/2670249/) | 1989 | In vitro screening | Cell Biology International Reports | Negen tubulinebindende verbindingen getest tegen *P. falciparum* in vitro; parasitaire tubuline verschilt van mammalisch eiwit op moleculair niveau; tubulozol-T toonde beloften |
-| [2221861](https://pubmed.ncbi.nlm.nih.gov/2221861/) | 1990 | In vitro mechanistisch | Antimicrobial Agents and Chemotherapy | Tubulozolen remmen eiwitbiosynthese in *P. falciparum*; Colcemid (een tubulinebindend middel gerelateerd aan Colchicine) toonde een soortgelijk remmend profiel |
-| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | In vitro mechanistisch | PLoS ONE | Curcumine bindt tubuline en verstoort *P. falciparum*-microtubuli-structuur; ondersteunt het concept dat tubuline-gerichte middelen de malariaparasiet kunnen beïnvloeden |
-| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | In vitro mechanistisch | Molecular and Cellular Biology | *pfmdr1*-gecodeerd eiwit Pgh1 tot expressie gebracht in CHO-cellen verhoogt chloroquine-gevoeligheid; mechanistische context voor *P. falciparum*-geneesmiddelresistentie |
-| [6362934](https://pubmed.ncbi.nlm.nih.gov/6362934/) | 1984 | Klinische observatie | Clinical and Experimental Immunology | 82% van acute malariapatïënten vertoonde antistoffen tegen intermediaire filamenten; suggereert cytoskeletale betrokkenheid in gastheer-parasiet-interactie |
-
-> **Voorzichtigheid bij relevantie:** Geen publicatie onderzoekt Colchicine rechtstreeks tegen *P. falciparum*. Alle studies betreffen verbindingen met overlappende maar verschillende mechanismen.
+|------|-----|------|------|---------|
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Preklinisch (in vitro) | PLoS One | Curcumine verstoort microtubuli van P. falciparum; betreft curcumine, niet colchicine |
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Preklinisch (celgebaseerd) | Molecular and Cellular Biology | Expressie van pfmdr1 in zoogdiercellen gaat gepaard met grotere gevoeligheid voor chloroquine |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Colchicine heeft geen vergunning voor toelating (RVG-nummer) van het CBG-MEB (College ter Beoordeling van Geneesmiddelen). Er zijn geen geregistreerde geneesmiddelen die kunnen worden vermeld.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning ingetrokken) |
 
-> Voor voorschrijvers in Nederland: Colchicine kan beschikbaar zijn via ziekenhuisapotheekmengoeien of invoegprocedures onder artikel 3(1) van Richtlijn 2001/83/EG. Clinici moeten het relevante SmPC van een EMA-goedgekeurde bron raadplegen (bijvoorbeeld voor het EMA-goedgekeurde product *Colchicine Rottapharm*, indien van toepassing) of contact opnemen met CBG-MEB voor de huidige regelgevingsstatus.
+---
+
+## Cytotoxiciteit
+
+Colchicine is geen antineoplastisch middel in zijn geregistreerde indicaties (jicht, FMF). Dit onderdeel is daarom niet van toepassing op de hoofdvoorspelling.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Veiligheidsgegevens (belangrijke waarschuwingen, contra-indicaties en geneesmiddelinteractieverslag) zijn niet beschikbaar in het huidige Evidence Pack.
+- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit relaties tussen geneesmiddel en ziekte in het model, niet uit de officiële productinformatie): onder meer leverfalen, nierfunctiestoornissen, bloedziekten (trombocytopenie, leukopenie, agranulocytose, neutropenie, aplastische anemie), maagzweer, spier- en myopathieaandoeningen (waaronder rabdomyolyse), diarree-aandoeningen en acute urinezuurnefropathie.
+- **Geneesmiddelinteracties**: in totaal 100 interacties gevonden; hieronder een selectie.
+  - *Ernstig (Major)*: aprepitant, claritromycine, eliglustat, rolapitant, rosuvastatine, simvastatine, cobicistat, deferipron.
+  - *Matig (Moderate)*: metronidazol, cimetidine, eluxadoline, miconazol, tinidazol, deferasirox, strontiumchloride Sr-89, fostamatinib, ticagrelor, chloroquine, benznidazol, disulfiram.
+  - Het is relevant dat chloroquine, een standaard antimalariamiddel, een matige interactie heeft met colchicine.
 
-> Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
+Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. De productinformatie van het CBG-MEB was voor dit rapport niet beschikbaar.
 
-**Bekende klinische veiligheidssignalen van belang** (op basis van gevestigde farmacologische kennis, ter verificatie tegen de SmPC):
+---
 
-- **Nauwe therapeutische breedte**: Het verschil tussen therapeutische en toxische doses is klein; overdosering kan fataal zijn.
-- **Nieren- en leverbeschadiging**: Colchicine wordt renaal uitgescheiden en hepatisch gemetaboliseerd (CYP3A4, P-glycoproteïne); dosisreductie is vereist bij orgaanbeschadiging.
-- **Geneesmiddelinteracties**: Sterke CYP3A4-remmers (bijvoorbeeld clarithromycine, cyclosporine) kunnen Colchicine-plasmawaarden en toxiciteitrisico aanzienlijk verhogen.
-- **Hematologische toxiciteit**: Beenmergsuppressie, leukopenie en agranulocytose gerapporteerd bij langdurig gebruik.
+## Overige voorspelde indicaties (ter volledigheid)
+
+| Voorspelde indicatie | TxGNN-score | Bewijsniveau | Opmerking |
+|------|------|------|------|
+| Familiaire mediterrane koorts, autosomaal dominant | 99,38% | L4 | Colchicine is al de gevestigde eerstelijnsbehandeling bij FMF. Dit is een subtype- of naamgevingsvariant en geen echte nieuwe toepassing. Het bewijs bestaat uit reviews (2014–2024) en niet uit primaire RCT-gegevens; er zijn geen trials voor dit subtype. Voor colchicine-resistente of -intolerante patiënten worden IL-1-remmers zoals canakinumab gebruikt. |
+| Dermatofibrosarcoma protuberans | 99,37% | L5 | Geen trials of literatuur. Theoretisch zou de antimitotische werking proliferende tumorcellen kunnen beïnvloeden, maar er is geen bewijs voor werking op de COL1A1-PDGFB-driver en de systemische toxiciteit pleit tegen gebruik. |
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Stil leggen**
+**Besluit: Hold**
 
-**Grondslag:**
-Het TxGNN-model identificeert een mechanistisch aannemelijke tubuline-verstoringsweg van toepassing op *P. falciparum*, maar al het ondersteunende bewijs is afkomstig van structureel verschillende verbindingen — niet Colchicine zelf. Met nul klinische onderzoeken, geen directe in vitro *P. falciparum*-gegevens, een nauwe therapeutische breedte en geen Nederlands regelgevingsvoetafdruk is er onvoldoende bewijs om deze indicatie verder uit te werken.
+**Onderbouwing:**
+- De hoge TxGNN-score (99,60%) is een puur computationele voorspelling. Er zijn geen klinische studies en het preklinische bewijs is indirect (curcumine, chloroquine-gevoeligheid). De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Bovendien is er in Nederland geen geldige vergunning voor colchicine.
 
-**Om verder te gaan is het volgende nodig:**
-
-- **Directe preklinische validatie**: In vitro gevoeligheidstesten van Colchicine tegen *P. falciparum*-stammen (bijvoorbeeld 3D7, Dd2), inclusief IC₅₀-bepaling
-- **Selectiviteitsbeoordeling**: Vergelijkende bindingsaffiniteit van Colchicine voor pfβ-tubuline versus menselijke β-tubuline om selectieve toxiciteit te beoordelen
-- **Farmacokinetische modellering**: Bepaal of therapeutische concentraties in erythrocyten kunnen worden bereikt zonder systemische toxiciteit
-- **Volledige MOA-gegevens**: Verkrijg volledige mechanisme-van-actie-gegevens via DrugBank API (momenteel vermeld als gegevensgat — DG002)
-- **Veiligheidsprofiel van SmPC**: Download en parseer de toepasselijke SmPC om de veiligheidstier in te vullen (DG001)
-- **Overweging van FMK-indicatie**: De rang-2-voorspelling (familiale mediterrane koorts, autosomaal dominant) heeft L1-bewijs en een aanbeveling van *Doorgaan met waarborgen* — dit vertegenwoordigt een meer uitvoerbare kortetermijnprioriteit voor de Nederlandse klinische context
-
----
-*Rapport gegenereerd: 2026-05-01 | Gegevensstop: 2026-05-01 | Evidence Pack v4 | Kandidaat-ID: TW-DB01394-multi*
-*Dit rapport is bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies. Alle kandidaten voor geneesmiddelherherstemming vereisen klinische validatie vóór enige therapeutische toepassing.*
-
+**Om verder te gaan is nodig:**
+- Preklinische gegevens over de directe werking van colchicine op P. falciparum (in vitro en in vivo, inclusief concentraties ten opzichte van de toxische gastheerdosis).
+- Gegevens over het werkingsmechanisme uit DrugBank.
+- De officiële waarschuwingen en contra-indicaties uit de CBG-MEB-productinformatie (SmPC), nodig voor een veiligheidsscreening.
+- Een beoordeling van de veiligheid bij combinatie met standaard antimalariamiddelen, zoals chloroquine.
+- Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

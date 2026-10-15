@@ -2,7 +2,7 @@
 layout: default
 title: Brinzolamide
 parent: Alleen modelvoorspelling (L5)
-nav_order: 32
+nav_order: 61
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,87 +29,67 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Brinzolamide: Van openhoekglaucoom tot primair erfelijk glaucoom
+# Brinzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
 
 ## Samenvatting in één zin
 
-Brinzolamide is een topicale koolzuuranhydrase-II-remmer (CA-II) die primair is gericht op het verlagen van verhoogde intraocculaire druk (IOD) bij openhoekglaucoom en oculaire hypertensie.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **primair erfelijk glaucoom** (inclusief aangeboren en juveniel openhoekglaucoom),
-zonder **geregistreerde klinische proeven** en **geen geïndexeerde publicaties** die deze combinatie ondersteunen — wat het huidige bewijs op **niveau L4** plaatst.
+Brinzolamide is een oogdruppel die oorspronkelijk wordt gebruikt voor de behandeling van open-hoekglaucoom en oculaire hypertensie.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **primair erfelijk glaucoom**.
+Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden in de data die voor dit rapport is samengesteld. Het gaat dus uitsluitend om een modelvoorspelling.
 
----
-
-## Kort overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Openhoekglaucoom / Oculaire hypertensie (bekende therapeutische klassegebruik; geen NL-vergunning op dossier) |
+|------|------|
+| Oorspronkelijke indicatie | Open-hoekglaucoom en oculaire hypertensie |
 | Voorspelde nieuwe indicatie | Primair erfelijk glaucoom |
 | TxGNN-voorspellingsscore | 99,48% |
-| Bewijsniveau | L4 (Alleen mechanistisch / modelvoorspelling) |
-| Status NL-markt | Niet geregistreerd |
-| Aantal vergunningen | 0 |
-| Aanbevolen advies | In afwachting |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
+| Aantal vergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van de bekende farmacologie is brinzolamide een lokaal werkzame remmer van koolzuuranhydrase II. Het verlaagt de oogdruk door de productie van kamerwater in het corpus ciliare te verminderen.
 
-Brinzolamide is een selectieve koolzuuranhydrase-II-remmer (CA-II) die inwerkt op epitheelcellen van het ciliataire lichaam om de productie van kamerwater te onderdrukken, waardoor de intraocculaire druk (IOD) daalt. Gedetailleerde MOA-gegevens van DrugBank werden in dit bewijspakket niet opgehaald, maar het mechanisme is goed vastgesteld in de literatuur: remming van CA-II vermindert bicarbonaat-secretie in de achterste kamer, waardoor vloeistoftoevoer en IOD dalen.
+Bij open-hoekglaucoom en oculaire hypertensie is een verhoogde oogdruk de belangrijkste aanpasbare risicofactor. Bij erfelijke vormen van glaucoom (bijvoorbeeld primair congenitaal of juveniel glaucoom) speelt een verhoogde oogdruk door een afwijkende ontwikkeling van de afvoerwegen eveneens een centrale rol. Een drukverlagend middel kan dus mechanistisch gezien een plaats hebben. De hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid van deze aandoening tot de bestaande glaucoomindicaties in de kennisgraaf.
 
-Primair erfelijk glaucoom (PHG) — waaronder primair aangeboren glaucoom (PAG, CYP1B1-mutatie) en juveniel openhoekglaucoom (JOAG, MYOC-mutatie) — deelt dezelfde kernpathofysiologie met andere glaucooomtypes: beperkte kamerafvloed door malpositie van de voorste kameringang, wat leidt tot chronisch verhoogde IOD en progressieve optische zenuwaantasting. Omdat verhoogde IOD de centrale pathologische driver is voor alle glaucoomfenotypen, richt een CA-II-remmer die kametwatertoevoer vermindert zich rechtstreeks op deze gemeenschappelijke eindweg, wat de TxGNN-voorspelling mechanistisch coherent maakt.
+Er zijn echter belangrijke kanttekeningen. Dit is een computationele voorspelling zonder klinische onderbouwing. Bij primair congenitaal glaucoom is chirurgie doorgaans de eerste keus. Pediatrische veiligheid (risico op systemische acidose, effecten op het hoornvliesendotheel) is in de beschikbare data niet beoordeeld.
 
-Een belangrijk klinisch nuance beperkt echter de translationele waarde hier. Bij PAG met name blijft chirurgisch ingrijpen (goniotomie of trabeculotomie) eerstelijnsbehhandeling; farmacologische drukdaling — inclusief topicale CA-II-remmers — wordt over het algemeen slechts gebruikt als overbruggingstherapie vóór chirurgie of als aanvullende therapie postoperatief. Bovendien verschilt het kinderfarmacokinetische profiel van brinzolamide van volwassenen, en systemische CA-II-remming (die kan optreden bij oogheelkundige formuleringen bij neonaten en zuigelingen) draagt risico's van metabole acidose met zich mee, een veiligheidskwestie die een specifieke kinderevaluatie vereist.
+## Bewijs uit klinische studies
 
----
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
-## Bewijs uit klinische proeven
+## Bewijs uit de literatuur
 
-Op dit moment zijn er geen klinische proeven geregistreerd die specifiek gericht zijn op brinzolamide bij primair erfelijk glaucoom (zoeking uitgevoerd op 2026-03-10 via ClinicalTrials.gov en ICTRP).
-
----
-
-## Literatuurbewijs
-
-Op dit moment is er geen relevante literatuur beschikbaar die specifiek betrekking heeft op brinzolamide bij primair erfelijk glaucoom (PubMed-zoeking uitgevoerd op 2026-03-10).
-
----
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Brinzolamide heeft momenteel **geen handelsvergunning** via CBG-MEB of EMA in Nederland. Geen RVG-nummers staan op dossier voor deze werkzame stof.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 114558 | Brinzolamide Mylan 10 mg/ml, oogdruppels, suspensie (status: ingetrokken) | Oogdruppels, suspensie | Niet vermeld in de beschikbare data |
 
-> Opmerking: Producten met brinzolamide (bijv. Azopt® 10 mg/ml oogdruppels) zijn in verschillende EU-lidstaten toegelaten via nationale of wederzijdse erkenningsprocedures. Indien er een EU-brede SmPC bestaat, kan deze via de EMA-productendatabase voor referentiedoeleinden worden geraadpleegd.
+## Veiligheidsoverwegingen
 
----
+- **Geneesmiddelinteracties**: Er zijn 32 mogelijke interacties gevonden in de DDInter-database, maar bij geen enkele is het ernstniveau bekend. De in de data vermelde interactiepartners zijn onder andere pantoprazol, omeprazol, lansoprazol, triamcinolon, prednison, prednisolon, dexamethason, simvastatine, rosuvastatine, kaliumchloride, ranitidine, famotidine, pioglitazon, lactulose, metoclopramide, warfarine, clopidogrel, cetirizine, fexofenadine en salbutamol. De klinische relevantie moet worden beoordeeld aan de hand van de SmPC.
 
-## Veiligheidsbeschouwingen
-
-Gedetailleerde waarschuwings- en contra-indicatiegegevens voor deze kandidaat werden in dit bewijspakket niet opgehaald. Geen geneesmiddelinteractierecords werden uit de DDI-databasequery geretourneerd.
-
-> Raadpleeg alstublieft de SmPC (Samenvatting van Productkenmerken) voor volledige veiligheidsinformatie, inclusief waarschuwingen met betrekking tot overgevoeligheid voor sulfonamiden, corneatheliële effecten en systemische CA-II-remming bij pediatrische patiënten en patiënten met nierinsufficiëntie.
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Advies: In afwachting**
+**Beslissing: Hold**
 
-**Redenerering:**
-De mechanistische basis voor het gebruik van brinzolamide bij primair erfelijk glaucoom is gegrond — IOD-verlaging is het gemeenschappelijke therapeutische doel voor alle glaucoomtypes — maar geen klinische proef of gepubliceerd klinisch bewijs dat deze indicatie specifiek evalueert, werd gevonden. Met een bewijsniveau van L4 en geen NL-handelsvergunning vereist deze kandidaat basisgegevensgenerering voordat een regelgevings- of formellaringsweg kan worden overwogen.
+**Onderbouwing:**
+De voorspelling berust uitsluitend op een model (bewijsniveau L5), zonder klinische studies of literatuur. Daarnaast is er in Nederland geen geldige handelsvergunning meer voor het enige geregistreerde product, en ontbreken de gegevens over waarschuwingen en contra-indicaties.
 
 **Om verder te gaan is het volgende nodig:**
-
-- **EMA/CBG-MEB-status bevestigen**: Controleer of er een gecentraliseerde of wederzijdse erkennisvergunning voor brinzolamide in de EU bestaat; haal de huidige SmPC op voor veiligheids- en doseringreferentie.
-- **Literatuuronderzoek naar pediatrische toepassingen**: Voer een breder PubMed-onderzoek uit naar brinzolamidegebruik bij aangeboren en juveniel glaucoom (niet beperkt tot de exacte MeSH-term "primair erfelijk glaucoom") om relevante waarnemingsgegevens vast te leggen.
-- **Veiligheidsgegeven-gat sluiten**: Haal volledige contra-indicatie-, waarschuwings- en pediatrische veiligheidsgegevens op van DrugBank en beschikbare SmPC's; beoordeel specifiek het risico van systemische CA-II-remming bij zuigelingen en pasgeborenen.
-- **Vaststelling van klinische praktijk**: Bepaal huidige NL/EU-klinische richtlijnen (bijv. EGS-richtlijnen voor aangeboren glaucoom) om vast te stellen of farmacologische drukdaling naast chirurgie een erkende rol heeft.
-- **Haalbaarheid van door onderzoeker geïnitieerde studie**: Indien bestaand bewijs een rol voor aanvullend brinzolamide in PHG ondersteunt, beoordeel de haalbaarheid van een prospectieve observationele studie of kleine gerandomiseerde gecontroleerde trial in een centrum voor kinderogheelkunde.
-
----
-
-*Dit rapport is gegenereerd voor onderzoeksdoeleinden en vormt geen medisch advies. Alle farmaconkandidaten voor heelkunde moeten klinisch worden gevalideerd voordat zij kunnen worden toegepast. Gegevensdatum: 2026-04-03.*
-
+- De SmPC en bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties), omdat de veiligheidsscreening anders niet kan worden voortgezet
+- Gegevens over het werkingsmechanisme aanvullen uit DrugBank
+- Systematisch zoeken naar klinische studies en literatuur over brinzolamide bij primair erfelijk glaucoom
+- Beoordelen van de pediatrische veiligheid en de plaats van het middel naast chirurgie bij primair congenitaal glaucoom
+- Nagaan of een beschikbare toedieningsvorm in Nederland aanwezig is, gezien de ingetrokken vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

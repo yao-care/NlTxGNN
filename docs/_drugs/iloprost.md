@@ -2,7 +2,7 @@
 layout: default
 title: Iloprost
 parent: Alleen modelvoorspelling (L5)
-nav_order: 78
+nav_order: 182
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,77 +29,67 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Iloprost: Van Pulmonale Arteriële Hypertensie naar Hypotrichosis Simplex van de Schedel
+# Iloprost: Van pulmonale arteriële hypertensie naar hypotrichosis simplex van de hoofdhuid
 
-## Samenvatting in één zin
+## Samenvatting in het kort
 
-Iloprost is een synthetische prostacycline-analoog die internationaal is vastgesteld voor de behandeling van pulmonale arteriële hypertensie en perifeer arterieel vaatlijden, hoewel het momenteel geen geregistreerde verhandeling heeft met de CBG-MEB in Nederland.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Hypotrichosis Simplex van de Schedel**,
-met **0 klinische onderzoeken** en **0 publicaties** die deze richting momenteel ondersteunen.
+Iloprost is een prostacycline-analoog en wordt van oorsprong gebruikt bij **pulmonale arteriële hypertensie (PAH)**. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hypotrichosis simplex van de hoofdhuid** (een erfelijke vorm van haarverlies). Voor deze richting zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden; de voorspelling is dus puur computationeel.
 
----
-
-## Snel Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Pulmonale arteriële hypertensie / perifeer arterieel vaatlijden (geen CBG-MEB autorisatie geregistreerd) |
-| Voorspelde nieuwe indicatie | Hypotrichosis Simplex van de Schedel |
-| TxGNN voorspellingsscore | 99.45% |
+|------|------|
+| Oorspronkelijke indicatie | Pulmonale arteriële hypertensie (afkomstig uit de TxGNN-kennisgraaf; de vergunningsgegevens vermelden geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
+| TxGNN-voorspellingsscore | 99,45% |
 | Bewijsniveau | L5 |
-| Marktstatus NL | Niet op de markt |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Wachten |
+| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) registratie |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Gegevens over het werkingsmechanisme van iloprost waren niet beschikbaar in de voor dit rapport verzamelde gegevens. Iloprost is bekend als prostacycline-analoog met vaatverwijdende, plaatjesremmende en celgroeiremmende effecten. Daarmee is het werkzaam bij PAH.
 
-Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van vastgestelde farmacologie is Iloprost een synthetische analoog van prostacycline (PGI₂) dat werkt als een IP (prostacycline) receptoragonist. Het activeert adenylaat cyclase, verhoogt het intracellulair cAMP, wat leidt tot relaxatie van gladde bloedvatwandspieren in de long en periferie, remt plaatjesagregatie, en onderdrukt proliferatie van gladde spiercellen in bloedvaten. Deze eigenschappen vormen de basis van het internationaal erkend gebruik ervan bij pulmonale arteriële hypertensie (PAH) en perifeer vaatlijden.
+De link met haargroei is hooguit speculatief. Prostaglandine-routes spelen mogelijk een rol in de haarfollikelcyclus, en prostacycline-analogen werken op die routes. **Geen enkel verstrekt gegeven ondersteunt dit.** Pulmonale hypertensie en een erfelijke haarziekte hebben bovendien weinig pathofysiologisch gemeen. De hoge score (0,995) is daarom een model-signaal en geen bewijs van werkzaamheid.
 
-Hypotrichosis simplex van de schedel is een erfelijk haarzakstoornis veroorzaakt door mutaties in *APCDD1*, *LPAR6*, of *LIPH* genen, wat resulteert in progressieve follikulaire miniaturisatie. De pathofysiologie ervan is fundamenteel genetisch en structureel van aard, aangedreven door verstoring van Wnt/β-catenine, FGF, en BMP ontwikkelingssignaleringspaden — waarvan geen enkele een gevestigde wisselwerking met het prostacycline receptorpad heeft.
+## Bewijs uit klinische studies
 
-Er is geen farmacologisch plausibele mechanistische koppeling beschreven tussen de prostacycline IP-receptoras en haarzakbiologie. De hoge TxGNN-score (0.9945) is hoogstwaarschijnlijk een **topologische artefact** binnen de kennisgraaf — waarbij haarzakziekteknopen indirect connectiviteit kunnen delen met knopen voor huidvascularisatie — in plaats van een echte farmacologische associatie. De volledige afwezigheid van ondersteunend klinisch onderzoeks- en literatuurbewijs bevestigt dat deze voorspelling geen basis moet vormen voor onderzoeksinitiatie.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
----
+## Bewijs uit de literatuur
 
-## Klinisch onderzoeksbewijs
+Momenteel geen gerelateerde literatuur beschikbaar.
 
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
+## Informatie over de Nederlandse markt
 
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie (afgeleid uit de productnaam) | Niet vermeld in de verzamelde gegevens |
 
-## Literatuurbewijs
+Deze vergunning (CBG-MEB) is **doorgehaald**. Er is momenteel geen geldige vergunning voor een iloprost-product in de verzamelde gegevens. Voor elk gebruik zou dus eerst de beschikbaarheid van een geregistreerd product moeten worden nagegaan.
 
-Momenteel is geen gerelateerde literatuur beschikbaar.
+## Veiligheidsoverwegingen
 
----
+- **Contra-indicaties volgens de kennisgraaf** (geen bijsluitertekst, dus indicatief): leverfalen, chronische obstructieve longziekte (COPD), ernstige vroege COPD, hypotensie, longoedeem en bronchiale aandoeningen.
+- **Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden. Voorbeelden van interacties met niveau "matig": epinefrine, acetylsalicylzuur, SGLT2-remmers (canagliflozine, dapagliflozine, empagliflozine, ertugliflozine), inhalatie-insuline, mannitol, efedrine, fenfluramine, dexfenfluramine, glycerine, papaverine en sibutramine. Voor enkele middelen is het niveau onbekend (onder meer calcitriol, pantoprazol, morfine, metformine en omeprazol).
 
-## Informatie Nederlandse markt
-
-Er zijn geen verhandelingsautorisaties voor Iloprost geregistreerd met de CBG-MEB in Nederland. Iloprost-bevattende geneesmiddelen met gecentraliseerde EMA-autorisatie (bijv. Ventavis® voor inhalatie bij PAH; Ilomedin® voor intraveneuze toediening bij perifeer arterieel vaatlijden) moeten rechtstreeks worden geraadpleegd in het EMA-productregister, aangezien gecentraliseerd geautoriseerde producten onder EMA's jurisdictie vallen in plaats van CBG-MEB's nationale procedure. De huidige gegevensset rapporteert marktstatus NL als **niet op de markt**.
-
----
-
-## Veiligheidsbeschouwingen
-
-Raadpleeg alstublieft de SmPC (Samenvatting van Productkenmerken) voor veiligheidsinformatie.
-
----
+Raadpleeg voor waarschuwingen en overige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Wachten**
+**Beslissing: Hold**
 
-**Motivering:**
-Ondanks een numeriek hoge TxGNN-voorspellingsscore (99.45%), draagt de modelvoorspelling voor deze indicatie geen mechanistische plausibiliteit en wordt niet ondersteund door enig klinisch onderzoeks- of gepubliceerd literatuurbewijs; het signaal is consistent met een kennisgraaftopologische pseudo-associatie in plaats van een echte farmacologische koppeling tussen het prostacycline-pad en erfelijk schedelhaarverlies.
+**Onderbouwing:**
+- De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.
 
-**Om verder te gaan is het volgende nodig:**
-- Preklinisch bewijs (in vitro of in vivo) dat betrokkenheid van het prostacycline-pad in haarzakcycli of onderhoud aantoont
-- Kennisgraafpadanalyse om vast te stellen welke knooppunten TxGNN's topologische koppeling tussen Iloprost en deze indicatie veroorzaken
-- Volledige SmPC-review (Ventavis en Ilomedin) om het volledige veiligheids- en contra-indicatieprofiel vast te stellen voordat enige klinische afweging plaatsvindt
-- Regelgevingsverduidelijking bij CBG-MEB over de huidige beschikbaarheid van Iloprost in Nederland onder EMA gecentraliseerde autorisatie
+**Om verder te gaan is nodig:**
+- Een biologische onderbouwing van de rol van de prostacycline-route bij haarfollikels, bijvoorbeeld uit preklinisch onderzoek.
+- Gegevens over het werkingsmechanisme uit DrugBank.
+- Tekst uit de SmPC/bijsluiter van het CBG-MEB over waarschuwingen en contra-indicaties.
+- Een beoordeling van de toedieningsroute, omdat het huidige product een infuusconcentraat is en een haarziekte vermoedelijk een andere (bijvoorbeeld lokale) toediening vraagt.
 
+**Opmerking over andere voorspellingen voor iloprost:** binnen dezelfde gegevens hebben twee voorspellingen duidelijk meer onderbouwing, namelijk PAH geassocieerd met aurgentie aangeboren hartziekte, inclusief het syndroom van Eisenmenger (bewijsniveau L3), en PAH geassocieerd met bindweefselziekte (L3). Beide zijn uitbreidingen binnen dezelfde ziekteklasse als de goedgekeurde indicatie. Het bewijs bestaat uit observationele studies en reviews, zonder geregistreerde studies. Deze twee zijn beoordeeld als "Proceed with Guardrails", met als randvoorwaarden bevestiging van de diagnose via rechtsharkatheterisatie, hemodynamische bewaking en zorgvuldige keuze van de pediatrische dosering. Zij verdienen een eigen beoordeling.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitrazepam
-parent: Alleen modelvoorspelling (L5)
-nav_order: 98
-evidence_level: L5
+parent: Matig bewijs (L3-L4)
+nav_order: 244
+evidence_level: L3
 indication_count: 3
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,98 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Nitrazepam: Van Sedatief-Hypnoticum naar Slaapaandoening (Initiëren en Handhaven van Slaap)
+# Nitrazepam: Van insomnie naar slaapstoornis (inslaap- en doorslaapstoornis)
 
 ## Samenvatting in één zin
 
-Nitrazepam is een benzodiazepinemiddel dat internationaal bekend staat als sedatief-hypnoticum; het heeft momenteel geen registratie in Nederland.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **slaapaandoening, initiëren en handhaven van slaap**, met een voorspellingsscore van **99,89%**.
-Deze richting wordt ondersteund door **0 geregistreerde klinische trials** en **20 publicaties**, en sluit opmerkelijk aan bij het gevestigde farmacologische gebruik van het geneesmiddel in landen waar het is geregistreerd — wat dit vraagstuk minstens zoveel een kwestie van regelgeving maakt als van wetenschap.
+Nitrazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt voor de behandeling van insomnie en vroege myoclonische encefalopathie.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **slaapstoornissen met problemen bij het inslapen en doorslapen**, maar dit is in feite de oorspronkelijke indicatie (insomnie). De voorspelling is dus eerder een bevestiging dan een echte herpositionering. Er zijn **geen geregistreerde klinische studies** en **20 publicaties** (vrijwel allemaal reviews of vergelijkende studies) die deze richting ondersteunen.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Geen NL (CBG-MEB) registratie; internationaal bekend als sedatief-hypnoticum |
-| Voorspelde nieuwe indicatie | Slaapaandoening, initiëren en handhaven van slaap |
+|------|------|
+| Oorspronkelijke indicatie | Insomnie; vroege myoclonische encefalopathie |
+| Voorspelde nieuwe indicatie | Slaapstoornis (inslapen en doorslapen) |
 | TxGNN-voorspellingsscore | 99,89% |
-| Evidentieniveau | L3 (klinische vergelijkingsstudies en reviews; geen geregistreerde fase 2/3-trials) |
-| Status op NL-markt | Niet geregistreerd |
-| Aantal registraties | 0 |
-| Aanbevolen besluit | Uitstellen |
+| Bewijsniveau | L3 |
+| Marktstatus in Nederland | Alleen doorgehaalde registraties |
+| Aantal vergunningen | 1 (geschrapt) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel zijn gedetailleerde gegevens over werkingsmechanisme niet beschikbaar in dit evidentiedossier. Op basis van bekende informatie behoort nitrazepam tot de benzodiazepineklasse. Benzodiazepines werken als positieve allosterische modulatoren van de GABA-A-receptor, waardoor het remmende effect van gamma-aminoboterzuur in het centrale zenuwstelsel wordt versterkt. Dit leidt tot sedatieve, hypnotische, anxiolytische en anticonvulsieve effecten — mechanismen die direct relevant zijn voor het initiëren en handhaven van slaap.
+Nitrazepam is een benzodiazepine dat werkt als positieve allosterische modulator van de GABA-A-receptor. Hierdoor wordt de remmende neurotransmissie versterkt en ontstaat een sederend-hypnotisch effect. Dit sluit direct aan bij de pathofysiologie van moeite met inslapen en doorslapen.
 
-De voorspelde indicatie is niet echt een klassieke nieuwe toepassing. Het hypnotische gebruik van nitrazepam is sinds tientallen jaren gevestigd in landen als het Verenigd Koninkrijk, Japan en Canada, waar het onder merknamen als Mogadon wordt verhandeld. De hoge voorspellingsscore van het TxGNN-model (99,89%) weerspiegelt deze sterke mechanistische en klinische afstemming. Meerdere vergelijkende studies in de literatuur bevestigen de effectiviteit van nitrazepam als slaapmiddel, met resultaten die vergelijkbaar zijn met triazolam, flunitrazepam, brotizolam en zolpidem in directe klinische vergelijking.
+Let op: de voorspelde indicatie komt in feite overeen met de bestaande indicatie insomnie. Er is dus geen sprake van een echte herpositionering. Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; het mechanisme is afgeleid uit de bekende geneesmiddelklasse.
 
-De kernvraag voor de Nederlandse context is daarom niet of nitrazepam werkt tegen insomnia, maar of het profijt-risicoprofiel — met name risico's op afhankelijkheid (gedocumenteerd sinds 1975), resterende dagsedatie en cognitieve stoornis bij oudere populaties — rechtvaardigt dat markttoegang wordt nagestreefd in een omgeving waarin CBG-MEB/EMA verscheidene alternatieve middelen heeft goedgekeurd en waar Nederlandse klinische richtlijnen (NHG-standaard) steeds vaker voorkeur geven aan niet-farmacologische first-line benadering zoals cognitieve gedragstherapie voor insomnia (CBT-I).
-
----
-
-## Bewijs uit klinische trials
-
-Momenteel zijn geen gerelateerde klinische trials geregistreerd voor nitrazepam in de indicatie slaapaandoening (initiëren en handhaven van slaap).
+De andere twee voorspellingen met een hoge score zijn zwak onderbouwd:
+- **Acute encefalopathie met bifasische aanvallen en late verminderde diffusie** (score 99,59%): geen studies of literatuur. Versterking van GABA zou aanvallen kunnen onderdrukken, maar benzodiazepinen zijn niet bewezen ziektemodificerend. Sedatie kan de neurologische beoordeling maskeren en bij kinderen bestaat risico op ademhalingsdepressie. Bewijsniveau L5, beslissing Hold.
+- **Wernicke-Korsakoff-syndroom** (score 99,31%): geen studies of literatuur. De behandeling is thiaminesuppletie; benzodiazepinen worden alleen symptomatisch gebruikt bij alcoholontwenning. Nitrazepam kan verwardheid en cognitieve achteruitgang verergeren. Bewijsniveau L5, beslissing Hold.
 
 ---
 
-## Bewijs uit literatuur
+## Bewijs uit klinische studies
+
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+Hieronder staat een selectie van de meest relevante publicaties. Merk op dat het merendeel reviews zijn; er is geen recente RCT beschikbaar.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|-------------------------|
-| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Klinische trial (dubbelblind) | British Medical Journal | 27 overdosispatiënten en een dubbelblind afdelingsoderzoek: nitrazepam was even doeltreffend als butobarbiton als slaapmiddel zonder ongunstige effecten, zelfs bij hoge doses. Geconcludeerd dat het veilig en effectief is. |
-| [6135296](https://pubmed.ncbi.nlm.nih.gov/6135296/) | 1983 | RCT (dubbelblind crossover) | Acta Psychiatrica Scandinavica | 26 geriatrische opgenomen patiënten: triazolam 0,25 mg versus nitrazepam 5 mg. Slaapkwantiteit, -kwaliteit en psychomotorische prestaties waren vergelijkbaar voor beide middelen. |
-| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Review | Clinical Pharmacokinetics | Uitgebreide farmacokinetische review van nitrazepam, met aandacht voor halfwaardetijd, distributie en doseringsimplicaties — fundamenteel voor klinische gebruiksplanning. |
-| [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Review | Drugs | Review van brotizolam-farmacologie met directe klinische vergelijking met nitrazepam 2,5–5 mg: werkzaamheid tegen insomnia was equivalent in gecontroleerde trials. |
-| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Review | Drugs | Zolpidem-update: hypnotische werkzaamheid vergelijkbaar met nitrazepam, flurazepam, flunitrazepam en temazepam bij oudere patiënten met insomnia; plaatst nitrazepam in het benzodiazepine-vergelijkingslandschap. |
-| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Bespreekt epidemiologisch bewijs dat hypnotica, waaronder nitrazepam, zijn gekoppeld aan psychomotorische stoornissen de volgende dag, verhoogd ongelukkenrisico en implicaties voor klinisch management. |
-| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Review | BMJ Clinical Evidence | Tot 40% van volwassenen ondervindt insomnia; prevalentie neemt toe met leeftijd. Bespreekt risicofactoren, diagnose en op bewijs gebaseerde behandelopties relevant voor de positionering van elk slaapmiddel. |
-| [14960254](https://pubmed.ncbi.nlm.nih.gov/14960254/) | 2004 | HTA / RCT | Health Technology Assessment | CBT-I geëvalueerd in langetermijn-gebruikers van hypnotica (waaronder nitrazepam-gebruikers) in UK huisartspraktijk; toont aan dat psychologische behandeling afhankelijkheid van middelen als nitrazepam kan verminderen. |
-| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Casuïstiek | British Journal of Psychiatry | Vroege documentatie van nitrazepam (Mogadon) afhankelijkheid — een belangrijk veiligheidssignaal direct relevant voor risicobeoordeling van langetermijnbehandeling van insomnia. |
-| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Observationeel | PLoS One | Analyse van benzodiazepinevoorschrijfpatronen in primaire zorg: langetermijngebruik geassocieerd met afhankelijkheid, tolerantie en cognitieve achteruitgang, vooral bij oudere volwassenen. Benadrukt de noodzaak van zorgvuldige voorschrijf- en deprescribingsstrategieën. |
+|------|-----|------|------|---------|
+| [1743245](https://pubmed.ncbi.nlm.nih.gov/1743245/) | 1991 | Dubbelblinde cross-overstudie | Eur J Clin Pharmacol | Nitrazepam 5 mg en oxazepam 25 mg waren beide effectief bij het opwekken van slaap en het verbeteren van de slaapkwaliteit bij 28 patiënten met insomnie, ten opzichte van placebo |
+| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Klinisch rapport | Br Med J | Bij 27 patiënten met acute overdosering (tot 80 tabletten) alleen sufheid; in een dubbelblinde studie even effectief als butobarbital als slaapmiddel |
+| [15252823](https://pubmed.ncbi.nlm.nih.gov/15252823/) | 2004 | Systematische review en meta-analyse | Hum Psychopharmacol | Vergelijking van de effectiviteit van Z-middelen met benzodiazepinen (waaronder nitrazepam) bij kortdurende behandeling van insomnie |
+| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Review | Drugs | Hypnotische werkzaamheid van zolpidem is vergelijkbaar met die van benzodiazepinen, waaronder nitrazepam |
+| [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Review | Drugs | Brotizolam verbeterde de slaap vergelijkbaar met nitrazepam 2,5 en 5 mg |
+| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Restwerking ("hangover") van hypnotica, zoals sufheid overdag en psychomotore stoornissen, en het risico op ongevallen |
+| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Review | Sleep Med Rev | Hypnotica verstoren balans en standvastigheid, met valpartijen en heupfracturen als gevolg |
+| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Farmacokinetisch overzicht | Clin Pharmacokinet | Klinische farmacokinetiek van nitrazepam |
+| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Klinisch rapport | Br J Psychiatry | Afhankelijkheid van nitrazepam (Mogadon) |
+| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Observationeel onderzoek | PLoS One | Gebruikspatronen en ongepast voorschrijven van benzodiazepinen in de eerstelijnszorg; langdurig gebruik hangt samen met afhankelijkheid, tolerantie en cognitieve achteruitgang, vooral bij ouderen |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Nitrazepam heeft momenteel **geen registratie van CBG-MEB** in Nederland en staat niet ingeschreven in het NL-geneesmiddelregister. Geen goedgekeurde indicaties, vormen voor toediening of RVG-nummers zijn geregistreerd.
+| RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 56702 | Nitrazepam CF 5 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geschrapt) |
 
-Artsen die nitrazepam in Nederland willen gebruiken, zouden een van de volgende wegen moeten volgen:
-
-- **Magistrale bereiding** (bereiding ter plaatse) — onderworpen aan Nederlandse farmacieregelgeving onder de Geneesmiddelenwet
-- **Individuele patiëntimport** — vereist melding aan CBG-MEB en rechtvaardiging onder artikel 40(3) van de Nederlandse Geneesmiddelenwet
-- **Volledig registratieaanvraagprocedure** — via de EMA-gecentraliseerde procedure of CBG-MEB-nationale procedure
-
-Momenteel in Nederland geregistreerde alternatieven voor insomnia zijn temazepam, lormetazepam en zolpidem, die allen als relevante klinische comparatoren zouden dienen in een regelgevingsaanvraag.
+Er zijn momenteel geen geldige vergunningen bij het CBG-MEB. De enige bekende registratie is geschrapt.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor volledige veiligheidsinformatie, aangezien geen geneesmiddelspecifieke waarschuwingen of contra-indicatiegegevens beschikbaar waren in dit evidentiedossier.
+- **Geneesmiddelinteracties**: In de voor dit rapport samengestelde data zijn 55 mogelijke interacties gevonden. Het ernstniveau is bij alle vermelde interacties onbekend. Voorbeelden zijn morfine, metformine, lansoprazol, omeprazol, pantoprazol, famotidine, hydrocortison, dexamethason, budesonide, loperamide, metronidazol, acetylsalicylzuur, bupropion, metoclopramide, kanamycine, vancomycine, sucralfaat, lactulose, nizatidine en calcitriol.
+- **Algemene aandachtspunten uit de literatuur**: restwerking overdag, verhoogd valrisico, afhankelijkheid en tolerantie bij langdurig gebruik, vooral bij ouderen.
 
-Op basis van de benzodiazepinegeneesmiddelklasse en opgehaalde literatuurbewijs zijn de volgende overwegingen op klasseniveau klinisch relevant:
-
-- **Afhankelijkheid en ontvenninging**: Gedocumenteerde nitrazepamafhankelijkheid bestaat (PMID 1125532); consistent met het algemene benzodiazepinerisico
-- **Resterende dagsedatie**: Psychomotorische stoornis de volgende dag en verhoogd ongelukkenrisico gemeld (PMID 15089115); vooral relevant voor oudere populaties en bij rijverkeer
-- **Oudere populaties**: Verhoogde gevoeligheid voor sedatieve effecten en cognitieve stoornis; dosisverlaging doorgaans vereist
-- **Langetermijngebruik**: Geassocieerd met tolerantie, afhankelijkheid en cognitieve achteruitgang in settings van eerstelijnszorg (PMID 39231170)
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter, aangezien die gegevens niet beschikbaar waren.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Uitstellen**
+**Beslissing: Hold**
 
-**Motivering:**
-Hoewel de literatuur duidelijk de werkzaamheid van nitrazepam als slaapmiddel voor insomnia ondersteunt, heeft het geneesmiddel geen NL-registratie, zijn er geen geregistreerde klinische trials voor deze indicatie en zijn er bekende risico's op afhankelijkheid en resterende dagsedatie waarvoor actief risicobeheer noodzakelijk is. Bovendien stemt de voorspelde indicatie af met het gevestigde farmacologische gebruik van het geneesmiddel — geen nieuwe toepassing — waardoor de regelgevings- en klinische positioneringsstrategie de primaire barrière vormt in plaats van gebrek aan effectiviteitsbewijs.
+**Onderbouwing:**
+- De voorspelde indicatie met de hoogste score is in wezen de bestaande indicatie insomnie en levert dus geen echte herpositionering op. De overige voorspellingen missen elk klinisch bewijs. Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsgegevens uit de officiële productinformatie, wat een blokkerend gegeven is voor verdere beoordeling.
 
-**Voor verdere stappen is het volgende nodig:**
-
-- Volledige mechanisme-van-werkingdocumentatie via DrugBank-API of EMA-beoordelingsrapporten bevestigen (momenteel een gegevensgat)
-- SmPC verkrijgen uit een land waar nitrazepam is geregistreerd (bijvoorbeeld VK, Japan) om formele waarschuwingen en contra-indicaties te extraheren
-- Regelgeving haalbaarheidanalyse uitvoeren: beoordeel het import-voor-afzonderlijke-patiënt- of volledige-registratietraject met CBG-MEB
-- Nederlandse klinische richtlijnen raadplegen (NHG-standaard Slaapproblemen en Slaapmiddelen) om te bepalen of nitrazepam ten opzichte van geregistreerde alternatieven kan worden gepositioneerd
-- Risicobeheerskader ontwikkelen met aandacht voor afhankelijkheidsmonitoring, passende patiëntselectie (oudere eerst-lijnstoepassing uitsluiten), maximale behandelingsduur en deprescribingsprotocollen
-- Formele profijt-risicoafweging uitvoeren ten opzichte van momenteel in NL geregistreerde hypnotica (temazepam, lormetazepam, zolpidem) om de regelgevingsaanvraaglogica te rechtvaardigen
-
+**Om verder te gaan is nodig:**
+- Opvragen en analyseren van de SmPC en bijsluiter via het CBG-MEB (waarschuwingen en contra-indicaties)
+- Aanvullende gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
+- Vaststellen van het ernstniveau van de gesignaleerde geneesmiddelinteracties
+- Beoordeling van de relevantie van de huidige Nederlandse behandelrichtlijnen, waarin benzodiazepinen bij insomnie slechts kortdurend worden aanbevolen
+- Voor de voorspellingen van acute encefalopathie en Wernicke-Korsakoff: eerst preklinisch of klinisch bewijs verzamelen voordat verdere stappen worden overwogen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

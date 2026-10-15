@@ -2,7 +2,7 @@
 layout: default
 title: Calcipotriol
 parent: Matig bewijs (L3-L4)
-nav_order: 36
+nav_order: 67
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,89 +29,108 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Calcipotriol: van psoriasis naar seborrheïsche keratose
+# Calcipotriol: Van een niet-vastgelegde oorspronkelijke indicatie naar seborroïsche keratose
 
 ## Samenvatting in één zin
 
-Calcipotriol is een synthetisch vitamine D3-analogon dat wereldwijd is gevestigd voor de topicale behandeling van plaque-psoriasis via vitamine D-receptoragonistactiviteit, hoewel het momenteel geen CBG-MEB-registratie in Nederland heeft.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **seborrheïsche keratose**,
-met **0 klinische onderzoeken** en **6 publicaties** die dit moment ondersteunen.
+Calcipotriol is een vitamine D3-analoog die lokaal op de huid wordt toegepast. In de voor dit rapport samengestelde gegevens is de oorspronkelijke geregistreerde indicatie in Nederland niet vastgelegd. Literatuur en andere bronnen noemen het vooral als middel bij psoriasis.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **seborroïsche keratose**.
+Daarvoor zijn **geen geregistreerde klinische studies** en **4 publicaties** beschikbaar, waarvan 2 direct over seborroïsche keratose of "senile wratten" gaan.
 
 ---
 
-## Snelle Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Plaque-psoriasis (wereldwijd vastgestelde toepassing; geen NL-registratie op record) |
-| Voorspelde nieuwe indicatie | Seborrheïsche keratose |
-| TxGNN-voorspellingsscore | 99.96% |
+|------|------|
+| Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare vergunningsgegevens (de indicatietekst van de enige vergunning is leeg) |
+| Voorspelde nieuwe indicatie | Seborroïsche keratose |
+| TxGNN-voorspellingsscore | 99,96% |
 | Bewijsniveau | L3 |
-| NL-markeringsstatus | Niet geregistreerd |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Voortgaan met waarborgen |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Op dit moment zijn gedetailleerde gegevens over werkingsmechanisme niet beschikbaar in dit Evidence Pack. Op basis van bekende farmacologische informatie is calcipotriol een synthetisch vitamine D3-analogon dat als potente agonist werkt op de vitamine D-receptor (VDR). Bij plaque-psoriasis onderdrukt VDR-activering abnormale keratinocitenproliferatie en moduleert de immuunrespons — door IL-2 en IFN-γ-productie te verminderen en de T-cel-gemedieerde ontstekingsreactie af te zwakken. Deze goed gekarakteriseerde werking bij hyperproliferatieve keratinociytenziekten vormt de biologische basis voor het onderzoeken van toepassing in seborrheïsche keratose.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar uit de vergunningsbron. Op basis van de beschikbare informatie is calcipotriol een vitamine D3-analoog die zich bindt aan de vitamine D-receptor in keratinocyten. Het remt de celdeling, bevordert de uitrijping (differentiatie) en kan apoptose (geprogrammeerde celdood) induceren.
 
-Seborrheïsche keratose (SK) is de meest voorkomende benigne epidermale tumor, veroorzaakt door somatische mutaties in FGFR3 en PIK3CA die ongecontroleerde keratinocitenproliferatie veroorzaken. VDR-activering is mechanistisch relevant voor dit proces: het downreguleert PCNA (een sleutelproliferatiemarker), upreguleert differentiatiemarkers voor terminale differentiatie (involucrine, loricrine) en verschuift de Bcl-2/Bax-verhouding in het voordeel van apoptose. VDR-agonisme kan ook de MAPK-signaalroute tegenreguleren, die overgeactiveerd is door de FGFR3/PIK3CA-mutaties die SK karakteriseren — een mechanistische link die nauw aansluit bij de laesieregressor waargenomen in gepubliceerde casusreeksen.
-
-Hoewel psoriasis en seborrheïsche keratose verschillen in etiologie (immuun-gemedieerde ontstekingsreactie versus mutatie-gemedieerde benigne proliferatie), convergeren beide op pathologische keratinocitenproliferatie gereguleerd door VDR-afhankelijke paden. De convergentie op een gedeeld effectormechanisme, tezamen met gepubliceerde observationeel bewijs van volledige laesieregressie na topicale calcipotriolbehandeling, maakt dit een wetenschappelijk aannemelijke kandidaat voor repurposing die verder prospectief onderzoek rechtvaardigt.
+Seborroïsche keratose is een goedaardige, langzaam groeiende epitheliale tumor die vooral bij ouderen voorkomt. Omdat calcipotriol de overmatige groei van keratinocyten kan remmen, is het aannemelijk dat het goedaardige, hyperkeratotische huidafwijkingen kan laten verdwijnen. De zeer hoge TxGNN-score past bij het signaal in de literatuur. Dit blijft een hypothese: ontwerp en omvang van de beschikbare studies zijn beperkt.
 
 ---
 
-## Klinisch onderzoeksbewijs
+## Bewijs uit klinische studies
 
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|--------------------------|
-| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Prospectieve casusreeks | Australasian Journal of Dermatology | 12 patiënten met gezichts-SK behandeld met 0,005% calcipotriolzalf gedurende 3–8 maanden; volledige regressie bereikt in alle gevallen met remissie van 6–10 jaar |
-| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Klinische observatie + mechanistische studie | Journal of Dermatology | Topicale vitamine D3-analoga (inclusief calcipotriol) toegediend aan 116 SK-gevallen; 30,2% bereikt volledige of bijna-volledige regressie; apoptose-inductie voorgesteld als mechanisme |
-| [15090020](https://pubmed.ncbi.nlm.nih.gov/15090020/) | 2004 | Vergelijkende niet-gerandomiseerde studie | International Journal of Dermatology | Directe vergelijking van cryochirurgie versus topicale calcipotriene, tazarotene en imiquimod voor SK; evalueert relatieve werkzaamheid van niet-chirurgische topicale opties |
-| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Casusreeks / klinisch overzicht | Clinical Calcium | Topicale VDR-analoga (tacalcitol, calcipotriol, maxacalcitol) toegediend eenmaal of tweemaal daags op seniele wratten (SK); vat klinische reactie samen op verschillende formuleringen |
-| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Casusrapport | Journal of Dermatology | Keratosis lichenoides chronica met prominente seborrheïsche keratose-achtige kenmerken toonde uitgesproken respons op calcipotriolzalf; ondersteunt bredere anti-keratinisatieactiviteit |
-| [21534378](https://pubmed.ncbi.nlm.nih.gov/21534378/) | 2011 | Klinische vignette | JAAPA | Onderwijsvignette met seborrheïsche keratose op de schenen; contextuele referentie voor klinische presentatie |
+|------|-----|------|------|---------|
+| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Klinische studie (patiëntenreeks) | Australasian Journal of Dermatology | 12 patiënten met een solitaire vlakke seborroïsche keratose in het gelaat kregen 3–8 maanden 0,005% calcipotriolzalf; de laesies verdwenen volledig, met 6–10 jaar remissie bij follow-up. |
+| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Klinische studie | Journal of Dermatology | Lokale vitamine D3-zalven (o.a. calcipotriol) bij 116 gevallen van seniele wratten (seborroïsche keratose) gedurende 3–12 maanden; bij 35 patiënten (30,2%) werd een respons gezien, mogelijk via apoptose. |
+| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Overzicht/klinisch verslag | Clinical Calcium | Overzicht van de behandeling van seniele wratten met lokaal toegepaste actieve vormen van vitamine D3. |
+| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Case report | Journal of Dermatology | Duidelijke respons op calcipotriolzalf bij een patiënte met keratosis lichenoides chronica, een verwante verhoorningsstoornis. |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Calcipotriol is momenteel **niet geregistreerd** bij het CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-nummers beschikbaar en geen SmPC is uitgegeven door de Nederlandse Medicines Evaluation Board voor dit geneesmiddel.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | Niet vermeld (oplossing voor cutaan gebruik) | Niet vermeld |
 
-> **Regelgevingsopmerking**: Calcipotriol is geautoriseerd in andere EU-lidstaten en beschikbaar via EMA-gecentraliseerde of nationale procedures onder merknamen zoals Daivonex® en Dovonex® voor plaque-psoriasis. Elke aanvraag in Nederland zou een nationale registratieaanvraag bij het CBG-MEB, een procedure voor wederzijdse erkenning/gedecentraliseerde procedure of evaluatie van off-label-gebruikswegen onder artikel 68 van de Geneesmiddelenwet vereisen.
+Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning voor calcipotriol in de gebruikte gegevens.
 
 ---
 
-## Veiligheidsopmerkingen
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Omdat momenteel geen CBG-MEB SmPC voor dit geneesmiddel in Nederland beschikbaar is, moet de referentie SmPC voor Daivonex®/Dovonex® van het EMA of de referentielid-staat worden geraadpleegd voor waarschuwingen, contra-indicaties en geneesmiddelinteracties.
+Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zijn in de voor dit rapport samengestelde gegevens geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB voor de officiële veiligheidsinformatie.
+
+**Contra-indicaties volgens de kennisgraaf (TxGNN/PrimeKG):** dit zijn relaties uit een kennisgraaf en geen tekst uit de bijsluiter. Ze omvatten onder meer:
+- Calciumstofwisselingsstoornissen: hypercalciëmie, nefrocalcinose, calcinose, calciphylaxie, fosformetabolismestoornissen, hypervitaminose
+- Bijnierinsufficiëntie (ziekte van Addison)
+- Huid- en vaataandoeningen: huidatrofie, teleangiëctasieën, perifeer vaatlijden
+- Verhoorningsstoornissen en andere huidaandoeningen: ichthyosis, ziekte van Darier, guttate psoriasis
+
+**Geneesmiddelinteracties:** er zijn 84 mogelijke interacties gevonden, maar het ernstniveau is voor alle getoonde interacties onbekend. Voorbeelden zijn acetylsalicylzuur, prednison, hydrocortison, triamcinolon, metformine, omeprazol en simvastatine. Dit moet klinisch worden beoordeeld.
+
+---
+
+## Overige voorspelde indicaties (ter oriëntatie)
+
+| Voorspelde indicatie | TxGNN-score | Bewijsniveau | Opmerking |
+|------|------|------|------|
+| Vulvaire omgekeerde folliculaire keratose | 99,94% | L5 | Geen klinisch bewijs; zeldzaam, meestal excisie |
+| Vulvovaginitis | 99,74% | L5 | Geen duidelijke mechanistische basis; risico op irritatie |
+| Vulvitis | 99,58% | L4 | Alleen indirect bewijs via vulvaire psoriasis |
+| Vulvaire neoplasie | 99,51% | L4 | Alleen een casus over goedaardige laesie; niet extrapoleren naar maligne ziekte |
+| Ulceratie van de vulva | 99,50% | L5 | Alleen computationeel; zorgen over irritatie en absorptie |
+| Vulvaire plaveiselcelneoplasie | 99,43% | L5 | Geen bewijs; vervangt geen standaard oncologische zorg |
+| Postmenopauzale atrofische vaginitis | 99,37% | L5 | Speculatief; verdraagbaarheid op atrofisch slijmvlies |
+| Ziekte van Paget van het bot | 99,20% | L5 | Systemisch hypercalciëmierisico; bisfosfonaten zijn standaard |
+| Fibrocystische borstaandoening | 99,02% | L5 | Alleen theoretisch |
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Voortgaan met waarborgen**
+**Beslissing: Hold**
 
-**Grondslag:**
-Meerdere observationele studies en casusreeksen (6 publicaties, Bewijsniveau L3) tonen aan dat topicale calcipotriol volledige regressie van seborrheïsche keratoselaesies kan induceren met een biologisch aannemelijk VDR-gemedieerd mechanisme; echter, geen geregistreerde klinische onderzoeken bestaan, en het geneesmiddel heeft momenteel geen CBG-MEB-registratie in Nederland.
+**Onderbouwing:**
+- Het bewijs voor seborroïsche keratose (L3) bestaat uit een kleine patiëntenreeks, een observationele studie, een overzicht en een casus; er zijn geen gerandomiseerde studies of geregistreerde trials. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie. Voor de overige voorspelde indicaties is het bewijs nog zwakker.
 
-**Om voort te gaan, is het volgende nodig:**
-
-- Haal de volledige SmPC voor Daivonex®/Dovonex® op bij het EMA of een referentielid-staat om de veiligheids-, contra-indicatie- en geneesmiddelinteractiebeoordeling af te ronden
-- Verkrijg formele werkingsmechanisme-documentatie van DrugBank of primaire farmacolegieliteratuur om de mechanistische rechtvaardiging te versterken
-- Beoordeel CBG-MEB-regelgevingspaden: nieuw registratieaanvraag, procedure voor wederzijdse erkenning, of artikel 68 off-label-gebruikskader
-- Ontwerp een prospectief gerandomiseerd gecontroleerd onderzoek (RCT) om de bewijsbasis te upgraden van L3 naar L2/L1, met volledige regressie als primair eindpunt en gestandaardiseerde calcipotriol 0,005% zalf als onderzoeksarm
-- Beoordeel lokale tolerabiliteit op gezichtshuid (de meest voorkomende SK-behandelingssite) en mucosale gebieden, gegeven de bekende irritatiepotentie van topicale calcipotriol op gevoelige huidgebieden
-- Bevestig optimale behandelingsduur en langetermijnremissiegegevens voorbij de 6–10 jaar vervolgdata waargenomen in de 2023 casusreeks
-
+**Om verder te gaan is nodig:**
+- Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC/bijsluiter van het CBG-MEB, zodat de veiligheidsscreening kan plaatsvinden
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Gerandomiseerde, gecontroleerde studies bij seborroïsche keratose, met vergelijking met standaardbehandelingen (bijv. cryotherapie)
+- Beoordeling van de status van de vergunning en een geschikte registratieroute in Nederland
+- Klinische beoordeling van het risico op hypercalciëmie en van de geneesmiddelinteracties
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

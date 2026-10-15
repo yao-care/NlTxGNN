@@ -2,15 +2,15 @@
 layout: default
 title: Dienogest
 parent: Matig bewijs (L3-L4)
-nav_order: 53
-evidence_level: L3
+nav_order: 113
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dienogest
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,110 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dienogest: Van Endometriose naar Amenorroe
+# Dienogest: Van endometriose naar amenorroe
 
 ## Samenvatting in één zin
 
-Dienogest is een vierde-generatie selectieve progestine die veel gebruikt wordt voor de behandeling van endometriose en werkt door onderdrukking van de hypothalamus-hypofyse-eierstok (HPO) as om estrogeen-gedreven ectopische endometriale groei te verminderen.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Amenorroe**, met **4 klinische onderzoeken** en **6 publicaties** die momenteel zijn opgehaald — echter, mechanistische analyse onthult dat dit bijna zeker een **contra-directionele voorspelling** is: Dienogest *veroorzaakt* amenorroe als een opzettelijk therapeutisch effect in endometriose-management, in plaats van primaire amenorroe als aandoening te behandelen.
+Dienogest is een selectief progestageen. Volgens de gegevens die voor dit rapport zijn verzameld is het oorspronkelijke geregistreerde gebruik in Nederland niet vastgelegd. In de literatuur wordt het vooral gebruikt bij endometriose. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **amenorroe**. Daarvoor zijn **geen klinische studies** en **7 publicaties** gevonden. Die publicaties gaan voornamelijk over endometriose, bijwerkingen en losse casuïstiek, en ondersteunen deze voorspelling niet direct.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Endometriose (bekende standaard klinische toepassing; geen CBG-MEB markttoelating in Nederland op record) |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de Nederlandse registratiegegevens (in de literatuur: endometriose) |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99.71% |
-| Bewijsniveau | L3 |
-| NL-marktpositie | Niet op de markt in Nederland |
-| Aantal toelatingsdossiers | 0 |
-| Aanbevolen besluit | In onderzoek houden |
+| TxGNN-voorspellingsscore | 99,71% |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
+
+---
 
 ## Waarom is deze voorspelling redelijk?
 
-Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in het verstrekte bewijspakket. Op basis van gevestigde farmacologische kennis is Dienogest een vierde-generatie synthetische progestine met zeer selectieve progesteronreceptor-agonist activiteit en minimale androgene, estrogenische of glucocorticoïde effecten. Het behandelt endometriose door onderdrukking van de HPO-as: inhibitie van ovulatie en follikelrijping, verlaging van endogene oestradiolconcentraties, en inductie van endometriale decidualisatie en atrofie — waarbij amenorroe een direct en beoogd therapeutisch resultaat is.
+Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Dienogest is bekend als selectief progestageen met een sterk effect op het baarmoederslijmvlies en een antigonadotroop effect. Het onderdrukt de ovulatie gedeeltelijk en veroorzaakt atrofie van het endometrium.
 
-Dit is precies waar de mechanistische paradox ligt. Amenorroe is geen aandoening die Dienogest is ontworpen om *te behandelen* — het is een aandoening die Dienogest *veroorzaakt*, opzettelijk, als hoeksteen van zijn werkzaamheid tegen ectopisch endometraal weefsel. Het voorschrijven van Dienogest om primaire of secundaire amenorroe te behandelen bij een patiënt die al geen menstruatie heeft, zou farmacologisch tegenstrijdig zijn en zou de onderliggende hormonale onderdrukking kunnen verergeren.
+Amenorroe is bij dienogest een veelvoorkomend, verwacht effect van de behandeling bij endometriose. Het is dus eerder een bijwerking of een beoogd neveneffect dan een aandoening die het middel behandelt. Gebruik bij amenorroe, bijvoorbeeld voor onttrekkingsbloeding of endometriumbescherming in hypo-oestrogene situaties, is mechanistisch denkbaar maar niet direct onderbouwd.
 
-Het TxGNN-model heeft waarschijnlijk de statistische co-voorkomen van Dienogest, endometriose en amenorroe in de kennisgraaf vastgesteld zonder onderscheid te maken tussen de oorzakelijke richting van de relatie. Dit is een erkende beperking van op grafen gebaseerde herpositioneringsmodellen: ze kunnen sterk geassocieerde nodenparen identificeren zonder af te leiden of het geneesmiddel de ziekte veroorzaakt, behandelt of gewoon correleert met de ziekte. **Deze voorspelling moet worden geclassificeerd als een contra-directioneel modelartefact, geen echte herpositioneringskans, en kan waardevol zijn om aan te vlaggen als signaal voor pipelinekwaliteit.**
+De hoge TxGNN-score weerspiegelt waarschijnlijk de samenhang tussen dienogest en menstruatieveranderingen, en niet een therapeutisch voordeel. De voorspelling moet daarom met terughoudendheid worden gelezen.
 
-## Klinisch onderzoeksbewijs
+---
 
-> **Belangrijk context**: Alle opgehaalde klinische onderzoeken betreffen de gevestigde endometriose-indicatie van Dienogest, niet het behandelen van amenorroe. Amenorroe in deze onderzoeken verschijnt als uitkomstmaat of ongewenst effect — niet als het therapeutische doel. Geen onderzoeken naar het behandelen van amenorroe met Dienogest werden geïdentificeerd.
+## Bewijs uit klinische studies
 
-| Onderzoeksnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT07164183](https://clinicaltrials.gov/study/NCT07164183) | Fase 3 | Werving aan de gang | 290 | Niet-inferioriteits RCT vergelijking van Indinol Forto® 200 mg versus Visanne® (Dienogest 2 mg) voor endometriose; amenorroe-percentage waarschijnlijk secundaire uitkomstmaat |
-| [NCT02425462](https://clinicaltrials.gov/study/NCT02425462) | N/A | Voltooid | 895 | Grote prospectieve observationele cohort die Visanne® werkzaamheid en langetermijnveiligheid beoordeelt voor kwaliteit van leven bij Aziatische vrouwen met endometriose in routinematige klinische settings |
-| [NCT04495855](https://clinicaltrials.gov/study/NCT04495855) | N/A | Voltooid | 968 | Real-world observationele studie van Dienogest bij endometriose; evalueert symptoomcontrole, recidief na behandeling stoppen, en verdraagzaamheidsprofiel |
-| [NCT07204093](https://clinicaltrials.gov/study/NCT07204093) | N/A | Actief, geen werving aan de gang | 138 | Vergelijking van Dienogest versus drospirenon gecombineerd met transdermaal oestradiol bij endometriose; evalueert patiënttevredenheid en verdraagzaamheid |
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
-## Literatuurbewijzen
+---
+
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|------|---------|
-| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Systematische review | BMC Pharmacology & Toxicology | Bayesiaanse analyse van Dienogest bijwerkingen in meerdere onderzoeken; identificeert onregelmatige bloedingen en amenorroe als frequente uitkomsten — wat amenorroe als effect *van* het geneesmiddel bevestigt, niet als behandelde aandoening |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Narratieve review | Reviews in Endocrine & Metabolic Disorders | Overzicht van hormonale endometriose-behandelingen; beschrijft oestrogeenafhankelijkheid en progesteronresistentie als sleutelgebeurtenissen in pathogenese; behandelt Dienogest's HPO-as onderdrukking mechanisme |
-| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Farmacologische studie | European Journal of Contraception & Reproductive Health Care | Kwantitatieve farmacologische analyse van Dienogest 2 mg inhibitieratio; amenorroe-inductie expliciet beschreven als mechanisme van therapeutische actie bij endometriose |
-| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Prospectieve cohort | Reproductive Sciences | Retrospectieve cohort van 514 vrouwen met ovariale endometrioom in 7 ziekenhuizen; evalueert langetermijnwerkzaamheid en veiligheid van Dienogest voorbij 12 maanden inclusief recidiefpercentages |
-| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Case report | Medicine | Ovariale granulosaceltumor bij patiënt met PCOS; minimale directe relevantie voor Dienogest of amenorroe als behandelingsdoel |
-| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Review/Beeldvorming | Journal of Pediatric and Adolescent Gynecology | Geavanceerde 3D-visualisatietechnieken voor obstructieve Müllerische anomalieën; minimale directe relevantie voor Dienogest-herpositionering |
+|------|-----|------|------|---------|
+| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Systematische review/meta-analyse | BMC Pharmacol Toxicol | Overzicht en Bayesiaanse analyse van bijwerkingen van dienogest bij endometriose en adenomyose |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Rev Endocr Metab Disord | Endocriene achtergrond van hormonale behandelingen bij endometriose |
+| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Cohortstudie (retrospectief) | Reprod Sci | Langdurig gebruik van dienogest bij 514 vrouwen met ovariële endometriomen: werkzaamheid, veiligheid en recidief |
+| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Cohort/observationeel | Eur J Contracept Reprod Health Care | Aanvullend bewijs voor 2 mg dienogest bij endometriose; doel van behandelingen is onder meer amenorroe en een hypo-oestrogene omgeving |
+| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Review | J Pediatr Adolesc Gynecol | Geavanceerde visualisatie bij Müller-anomalieën; geen direct verband met dienogest als behandeling van amenorroe |
+| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Casusbeschrijving | Medicine | Granulosaceltumor bij een patiënt met PCOS; geen therapeutisch bewijs voor dienogest |
+| [42438810](https://pubmed.ncbi.nlm.nih.gov/42438810/) | 2026 | Casusbeschrijving | JCEM Case Reports | Primaire hyperparathyreoïdie die zichtbaar werd na behandeling met dienogest; gaat over calciumhomeostase |
 
-## Informatie Nederlandse markt
+---
 
-Dienogest heeft momenteel **geen markttoelating** van het CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Geen RVG-nummers zijn op record.
+## Informatie over de Nederlandse markt
 
-> Dienogest wordt op de markt gebracht als Visanne® 2 mg in meerdere EU-lidstaten (goedgekeurd via nationale procedures en EMA scientific opinion), evenals in Japan, Zuid-Korea en Australië. Elk gebruik in Nederland zou ofwel een nieuwe CBG-MEB markttoelatingsprocedure vereisen, een EMA gecentraliseerde procedure indiening, of een compassionate use (benoemde patiënt) route onder Nederlandse geneesmiddelenwetgeving.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 104058 | Visanne 2 mg, tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
 
-## Veiligheidsopmerkingen
+---
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Er waren geen waarschuwingen, contra-indicaties of geneesmiddelen interactiegegevens beschikbaar in het huidige bewijspakket.
+## Veiligheidsoverwegingen
 
-> Voor oriëntatie: op basis van EMA openbare beoordelingsrapporten voor Visanne® in andere EU-lidstaten, omvat het bekende veiligheidsprofiel van Dienogest onregelmatige uterusbloeding, hoofdpijn, depressieve stemming, verminderde libido, acne, gewichtstoename, en potentiële impact op botmineraaldichtheid bij langdurig gebruik. Gebruik tijdens zwangerschap en bij patiënten met niet-gediagnosticeerde abnormale vaginale bloeding is tegen-geïndiceerd volgens het originele SmPC.
+- **Contra-indicaties volgens de kennisgraaf (niet afkomstig van de bijsluiter)**: de TxGNN-kennisgraaf (PrimeKG) koppelt dienogest aan onder meer de volgende aandoeningen: hypertensie, epilepsie, angststoornis, porfyrie, nier- en leveraandoeningen, galblaasaandoeningen, hypothyreoïdie, systemische lupus erythematodes, astma, diabetes mellitus (incl. ketoacidose), hypertriglyceridemie, hypercalciëmie, nefrocalcinose, borstkanker bij vrouwen en tromboflebitis. Deze lijst is niet gecontroleerd aan de hand van de officiële productinformatie en moet als signaal worden gezien.
+- **Geneesmiddelinteracties**: er zijn 37 interacties gevonden. Het gaat onder meer om:
+  - Ernstig (Major): sugammadex, griseofulvine, bexaroteen, brigatinib, dabrafenib, encorafenib.
+  - Matig (Moderate): linaclotide, metreleptine, prucalopride, miltefosine, adalimumab, alefacept, anakinra, asparaginase, canakinumab, certolizumab pegol, cladribine, emapalumab, enasidenib.
+  - Gering (Minor): ethanol.
 
-## Conclusie en volgende stappen
+  Dit is een selectie uit de eerste 20 weergegeven interacties.
 
-**Besluit: In onderzoek houden**
+Voor waarschuwingen en officiële contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) via het CBG-MEB.
 
-**Motivering:**
-De TxGNN-voorspelling voor amenorroe wordt beoordeeld als een **contra-directioneel modelartefact** — Dienogest induceert farmacologisch amenorroe als onderdeel van zijn endometriose-mechanisme, en er is geen klinisch bewijs voor gebruik als behandeling voor primaire of secundaire amenorroe. Voortgang met deze indicatie als herpositioneringskans zou farmacologisch ongerechtvaardigd zijn op basis van huidig bewijs.
+---
 
-**Om voort te gaan, is het volgende nodig:**
+## Conclusie en vervolgstappen
 
-- **Verplicht**: Beoordeling door klinische farmacoloog om de contra-directionele classificatie formeel te bevestigen en deze kandidaat in de pijplijn te sluiten
-- **Pipelinekwaliteitsactie**: Markeer dit voorspellingspaar (Dienogest ↔ Amenorroe) als een bekend modelartefact voor de NlTxGNN contra-directionele voorspellingsaudit
-- **Voor volledigheid**: Extraheer het volledige MOA-profiel uit DrugBank (DB09123) en EMA SmPC om voor toekomstige vergelijkbare progestinekanidaten te documenteren
-- **Indien enig amenorroe-subtype verdere beoordeling rechtvaardigt** (bijv. progesterone-uitdagingstest bij evaluatie van amenorroe-etiologie), moet een aparte, nauw omschreven klinische vraag met een gynaecoloog worden geformuleerd voordat herbeoordeling wordt overwogen
+**Beslissing: Hold**
 
+**Onderbouwing:**
+- Er zijn geen klinische studies en de literatuur ondersteunt de voorspelling niet direct. Amenorroe is bij dienogest vooral een verwacht effect van de behandeling en geen behandeldoel. Daarnaast is er in Nederland geen geldige registratie (alleen een doorgehaalde vergunning).
+
+**Om verder te gaan is nodig:**
+- Productinformatie (SmPC/bijsluiter) van het CBG-MEB voor waarschuwingen en contra-indicaties; dit ontbreekt nu en blokkeert de veiligheidsbeoordeling.
+- Gegevens over het werkingsmechanisme, bijvoorbeeld uit DrugBank.
+- Klinische onderbouwing voor een concrete therapeutische toepassing bij amenorroe (bijvoorbeeld endometriumbescherming in een hypo-oestrogene situatie), inclusief een duidelijke definitie van de beoogde patiëntengroep.
+- Opheldering over de registratiestatus en de beschikbare toedieningsvormen in Nederland.
+
+---
+
+## Overige voorspelde indicaties (ter informatie)
+
+De overige negen voorspellingen hebben een lager bewijsniveau. Voor negen daarvan zijn geen klinische studies gevonden.
+
+| Rang | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
+|------|------|------|------|------|
+| 2 | Primaire ovariële insufficiëntie | 99,69% | L5 | Alleen modelvoorspelling; dienogest vervangt geen oestrogeen |
+| 3 | Fibrocystische borstaandoening | 99,60% | L4 | Eén publicatie (2009) over effecten op de borst; geen therapeutisch onderzoek |
+| 4 | Geïsoleerde groeihormoondeficiëntie | 99,53% | L5 | Geen aannemelijk mechanisme |
+| 5 | Symptomatische fragiele X-draagster | 99,46% | L5 | Indirect verband via ovariële insufficiëntie |
+| 6 | Blepharophimosis-epicanthus inversus-ptosis | 99,46% | L5 | Genetisch syndroom; geen bewijs |
+| 7 | Hypogonadotroop hypogonadisme | 99,46% | L5 | Mechanistisch onaannemelijk (dienogest onderdrukt gonadotrofines) |
+| 8 | Partiële trisomie/tetrasomie 5p | 99,43% | L5 | Waarschijnlijk netwerkartefact |
+| 9 | BPES door 3q23-herrangschikking | 99,43% | L5 | Netwerkinferentie; geen bewijs |
+| 10 | Partiële trisomie/tetrasomie 18p | 99,42% | L5 | Waarschijnlijk netwerkartefact |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

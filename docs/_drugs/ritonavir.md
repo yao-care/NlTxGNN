@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ritonavir
-parent: Matig bewijs (L3-L4)
-nav_order: 110
-evidence_level: L4
+parent: Alleen modelvoorspelling (L5)
+nav_order: 294
+evidence_level: L5
 indication_count: 3
 ---
 
 # Ritonavir
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,90 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Ritonavir: Van HIV-infectie naar Feline Acquired Immunodeficiency Syndrome
+# Ritonavir: Van hiv/aids naar felien verworven immunodeficiëntiesyndroom
 
 ## Samenvatting in één zin
 
-Ritonavir is een protease remmer die is ontwikkeld voor HIV-1-behandeling, en wordt ook veel gebruikt als farmacokinetische booster in combinatieantiretrovirale regimes.
-Het TxGNN-model voorspelt dat het mogelijk effectief is voor **Feline Acquired Immunodeficiency Syndrome (FIV)**, met **0 direct relevante klinische onderzoeken** en **0 publicaties** die deze specifieke richting ondersteunen.
-Het ene opgehaalde klinische onderzoek werd foutief geclassificeerd door de datapipeline en vormt geen ondersteuning voor bewijs.
+Ritonavir is een proteaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van hiv-infectie/aids en hepatitis C-infectie (volgens de kennisgraaf waarop het model is gebaseerd). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **felien verworven immunodeficiëntiesyndroom (kattenaids)**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het gaat om een puur computationele voorspelling.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | HIV-infectie (NL-regelgeversverslag niet beschikbaar; gebaseerd op vastgestelde geneesmiddelklasse-context uit herbestemming-rationale) |
-| Voorspelde nieuwe indicatie | Feline Acquired Immunodeficiency Syndrome (FIV) |
-| TxGNN-voorspellingsscore | 99.92% |
-| Bewijsniveau | L4 |
-| NL-marktpositie | Niet geregistreerd in Nederland |
-| Aantal machtigingen | 0 |
-| Aanbevolen besluit | Wachten |
+|------|------|
+| Oorspronkelijke indicatie | Hiv-infectie/aids en chronische hepatitis C-infectie (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
+| Voorspelde nieuwe indicatie | Felien verworven immunodeficiëntiesyndroom (kattenaids) |
+| TxGNN-voorspellingsscore | 99,92% |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in dit Evidence Pack. Gebaseerd op de mechanistische context gedocumenteerd in de herbestemming-rationale, is Ritonavir een HIV-1 protease remmer die virale polyproteïnebewerking blokkeert en daardoor virale replicatie stopt. Het is ook een krachtige CYP3A4-remmer, die veelvuldig samen wordt gegeven als farmacokinetische booster om de plasmaconcentratie van partner-antiretroviralen te versterken.
+Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Bekend is dat ritonavir een hiv-proteaseremmer is (die ook CYP3A4 remt), waarvan de werkzaamheid bij hiv/aids is aangetoond.
 
-FIV (Feline Immunodeficiency Virus) en HIV-1 zijn beide leden van de lentivirussen-subfamilie, en hun proteasen delen gedeeltelijke structurele homologie. Deze biologische relatie vormt de mechanistische basis voor de voorspelling van het TxGNN-model: als Ritonavir de HIV-1-protease kan remmen, kan het theoretisch activiteit tegen de structureel gerelateerde FIV-protease uitoefenen. In vitro-gevoeligheidsgegevens hebben aangetoond dat HIV-proteaseremmers de FIV-protease in enige mate kunnen remmen.
+Het feline immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv. De protease ervan is structureel vergelijkbaar, dus een proteaseremmer als ritonavir is bij analogie denkbaar. De FIV-protease verschilt echter van de hiv-1-protease in substraatspecificiteit en gevoeligheid voor remmers, zodat werkzaamheid niet vanzelfsprekend is.
 
-De vertaling naar de kliniek is echter aanzienlijk beperkt om twee redenen. Ten eerste heeft FIV-protease andere substraatspecificiteit dan HIV-1-protease, en remmers die voor HIV-1 zijn geoptimaliseerd, zullen naar verwachting geen gelijkwaardige in vivo-effectiviteit tegen FIV bereiken. Ten tweede, en veel fundamenteler, **FIV is een veterinaire indicatie** — de regelgeversweg voor diergeneesmiddelen in Nederland valt onder NVWA/Vet-MEB, die geheel gescheiden is van de autoriteit voor geneesmiddelen voor mensen (CBG-MEB). Deze voorspelling valt daarom buiten de werkingssfeer van het Nederlandse gezondheidssysteem voor mensen en kan niet voortgang maken door het standaard evaluatietraject voor geneesmiddelherbestemming voor mensen.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-| Proefnummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Fase 4 | Voltooid | 145 | ⚠️ **Foutief geclassificeerd — niet relevant voor FIV.** Dit onderzoek vergelijkt Ritonavir-geboostte Darunavir + Lamivudine versus standaard duaal/triple regimes in ARV-naïeve **menselijke** HIV-1-geïnfecteerde volwassenen. Ritonavir dient hier als farmacokinetische booster, niet als directe antivirale stof tegen felien lentivirus. De pipeline haalde dit onderzoek op door onjuist het sleutelwoord "geboostte (Ritonavir-geboostte)" op de feline AIDS-query af te stemmen. Dit onderzoek draagt nul bewijskracht bij voor de FIV-indicatie. |
+De hoge score (0,999) wordt waarschijnlijk vooral veroorzaakt door de sterke koppeling tussen ritonavir en hiv/aids in de kennisgraaf. Het is dus een modelvoorspelling zonder directe onderbouwing.
 
 ---
 
-## Bewijs uit literatuur
+## Bewijs uit klinische studies
 
-Op dit moment is er geen gerelateerde literatuur die direct het gebruik van Ritonavir bij Feline Acquired Immunodeficiency Syndrome ondersteunt.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indicatie kattenaids.
+
+*Ter context:* voor de verwante indicatie **simian immunodeficiëntievirus (SIV)-infectie** (rang 2 in de voorspellingen) is wel preklinische literatuur gevonden, bijvoorbeeld een in-vitrostudie waarin SIV door ritonavir werd geremd (PMID [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/), 2003). Dit betreft echter een andere diersoort en een ander virus en vormt dus geen direct bewijs voor kattenaids.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Ritonavir is momenteel niet geregistreerd in Nederland volgens dit Evidence Pack. Er zijn geen CBG-MEB-marktingmachtigingen geregistreerd.
-
-> **Opmerking voor beoordelaar:** Ritonavir (Norvir®) heeft een gecentraliseerde EMA-marktingmachtiging en is commercieel beschikbaar in alle EU-lidstaten. Er is een verschil tussen deze dataset en de verwachte marktrealiteit. Beoordelaars moeten de huidige machtigingsstatus rechtstreeks bevestigen via het [CBG-MEB publiek register](https://www.cbg-meb.nl) of de [EMA-productdatabase](https://www.ema.europa.eu) voordat zij tot regelgevingsconclusies overgaan.
-
----
-
-## Veiligheidsconsideraties
-
-Raadpleeg alstublieft het SmPC (Samenvatting van de producteigenschappen) voor veiligheidsinformatie.
-
-> Ritonavir is een krachtige CYP3A4- en CYP2D6-remmer met een van de breedste geneesmiddel-geneesmiddel-interactieprofielen onder alle goedgekeurde geneesmiddelen. Formele DDI-gegevens en contraïndicaties zijn niet vastgelegd in dit Evidence Pack. Klinische beoordelaars moeten het volledige EMA SmPC en een gevalideerde geneesmiddel-interactiedatabase (bijv. Liverpool HIV Interactions, Lexicomp) raadplegen alvorens tot een voorschrijf- of protocolbesluit over te gaan, vooral bij patiënten die statines, anticoagulantia, antimycotica, immunosuppressiva of QT-verlengde geneesmiddelen gebruiken.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
 
 ---
 
-## Conclusie en volgende stappen
+## Veiligheidsoverwegingen
 
-**Besluit: Wachten**
+**Contra-indicaties volgens de kennisgraaf** (afgeleid uit relaties tussen geneesmiddel en ziekte, niet uit de bijsluitertekst): onder andere het lange-QT-syndroom (ook familiair), torsades de pointes, plotselinge hartstilstand, geleidingsstoornissen van het hart, atrioventriculair blok, cardiomyopathie, coronairlijden en myocardischemie; pancreatitis; leverziekte en levercirrose; galblaasaandoeningen; hyperglykemie, diabetes mellitus en diabetische ketoacidose; hypertriglyceridemie en familiaire gecombineerde hyperlipidemie; hyperbilirubinemie en het syndroom van Gilbert; jicht en hyperurikemie; kaliumdeficiëntie; chronische hepatitis B; hemofilie.
 
-**Rationale:**
-De top TxGNN-voorspelde indicatie voor Ritonavir is een **veterinaire aandoening** (FIV / Feline AIDS), die geheel buiten de werkingssfeer van de Nederlandse gezondheidszorg en het geneesmiddelenevaluatiekader beheerd door CBG-MEB valt. Het enige opgehaalde klinische onderzoek was een pipelinefout en verleent geen geldig bewijs; er bestaat geen ondersteunende literatuur voor deze specifieke indicatie.
+**Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden. Voorbeelden uit de beschikbare lijst:
+- **Ernstig (Major):** loperamide, triamcinolon, budesonide
+- **Matig (Moderate):** onder andere acarbose, hydrocortison, metformine, dexamethason, bupropion, aprepitant, clarithromycine, metronidazol, canagliflozine
 
-**Om voort te gaan, is het volgende nodig:**
+Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. De bijsluiterteksten van het CBG-MEB zijn niet in de gegevens opgenomen.
 
-- **Pipelinecorrectie:** Implementeer een veterinaire-indicatiefilter in de TxGNN-voorspellingspipeline om ziekten die alleen bij dieren voorkomen (FIV, enz.) uit rapporten over geneesmiddelherbestemming voor CBG-MEB-beoordeling uit te sluiten.
-- **Prioriteer volgende gerangschikte indicaties:** Overweeg herstart van beoordeling tegen **Rang 2 — Simian Immunodeficiency Virus infectie (L3, Research Question)**, die 12 vakkundig beoordeelde publicaties heeft die mechanistische en in vivo-aannemelijkheid in niet-menselijke primaten-modellen ondersteunen.
-- **MOA-gegevensopvraging:** Verkrijg Ritonavirs volledige werkingsmechanisme van DrugBank (DB00503) ter ondersteuning van eventuele toekomstige mechanistische-koppelinganalyse.
-- **SmPC-veiligheidsinformatie:** Download en parse het EMA SmPC voor Ritonavir om waarschuwingen, contraïndicaties en DDI-secties in te vullen alvorens tot een S1-veiligheidsscreening over te gaan.
-- **Verificatie van marktpositie:** Verzoek om verzoening van de "niet geregistreerd" datasetpositie tegen bekende EMA gecentraliseerde machtiging om de huidige CBG-MEB-beschikbaarheid te bevestigen.
+---
 
+## Conclusie en vervolgstappen
+
+**Beslissing: Hold**
+
+**Onderbouwing:**
+- De voorspelling berust uitsluitend op een model (bewijsniveau L5), zonder klinische studies of literatuur. De score lijkt vooral voort te komen uit de bekende hiv-indicatie van ritonavir.
+- Kattenaids is een diergeneeskundige indicatie, buiten de humane geneesmiddelregistratie van het CBG-MEB. Bovendien is er in Nederland geen geldige vergunning voor ritonavir (alleen een doorgehaalde registratie).
+
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme (onder andere uit DrugBank)
+- Laboratoriumstudies naar de remming van FIV-protease door ritonavir
+- Veiligheidsinformatie uit de SmPC/bijsluiter (waarschuwingen en contra-indicaties)
+- Beoordeling van een veterinair registratiekader en van de veiligheid bij katten
+- Een plan voor het beheersen van de omvangrijke interacties met andere geneesmiddelen
+
+---
+
+*Aanvullende opmerking over de andere voorspellingen:* de voorspelling voor **SIV-infectie** (bewijsniveau L4, "onderzoeksvraag") is vooral relevant als translationeel diermodel voor hiv, een reeds bestaande indicatie. De voorspelling voor de **neurologische ontwikkelingsstoornis met ataxie, afwezige spraak en verminderde corticale witte stof** (L5, Hold) heeft geen aanwijsbare mechanistische relatie met ritonavir en lijkt een artefact van de kennisgraaf.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

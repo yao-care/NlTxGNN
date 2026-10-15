@@ -2,7 +2,7 @@
 layout: default
 title: Finasteride
 parent: Alleen modelvoorspelling (L5)
-nav_order: 69
+nav_order: 152
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,83 +29,98 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Finasteride: Van androgenetische alopecia/BPH naar Ambras Type Hypertrichosis Universalis Congenita
+# Finasteride: Van goedaardige prostaathyperplasie naar hypertrichose (Ambras-type hypertrichosis universalis congenita als hoogst scorende voorspelling)
 
 ## Samenvatting in één zin
 
-Finasteride is een 5-alfa-reductase-remmer met gevestigde klinische toepassing bij benigne prostaataandoening (BPH) en mannelijk patroonhaaruitval (androgenetische alopecia), werkend door dihydrotestosteron (DHT)-spiegels te verlagen.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Ambras Type Hypertrichosis Universalis Congenita**, een zeldzame aangeboren aandoening met overmatige haargroei gekoppeld aan TRPS1-gen-herschikkingen,
-met **0 klinische trials** en **0 publicaties** die deze specifieke toepassing ondersteunen — bewijsniveau L5.
+Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van goedaardige prostaathyperplasie (BPH). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **Ambras-type hypertrichosis universalis congenita** (score 99,99%), maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaar. Voor de tweede voorspelling, **hypertrichose**, zijn **4 publicaties** gevonden (3 narratieve reviews en 1 methodologisch artikel), die slechts indirecte context bieden.
 
 ---
 
-## Beknopt overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Benigne prostaataandoening (BPH); mannelijk patroonhaaruitval (androgenetische alopecia) |
-| Voorspelde nieuwe indicatie | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN-voorspellingsscore | 99.99% |
-| Bewijsniveau | L5 |
-| NL-marktsstatus | Niet geregistreerd (CBG-MEB-gegevens: 0 toestemmingen gevonden) |
-| Aantal toestemmingen | 0 |
-| Aanbevolen besluit | In afwachting |
+|------|------|
+| Oorspronkelijke indicatie | Goedaardige prostaathyperplasie (BPH). Bron: kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar |
+| Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
+| TxGNN-voorspellingsscore | 99,99% |
+| Bewijsniveau | L5 (alleen modelvoorspelling) |
+| Marktstatus in Nederland | Alleen doorgehaalde registraties |
+| Aantal vergunningen | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in dit Evidence Pack. Op basis van goed gevestigde farmacologische kennis is finasteride een competitieve remmer van 5-alfa-reductase (isovormen type 1 en 2), het enzym dat testosteron in het potentere androgeen dihydrotestosteron (DHT) omzet. Door DHT-concentraties in weefsels te verlagen, onderdrukt finasteride androgeen-gestuurde verkleining van haarvollicels bij androgenetische alopecia en vermindert het prostaatcelproliferatie bij BPH. De werkzaamheid bij androgeen-afhankelijke aandoeningen is farmacologisch goed gekarakteriseerd.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Op basis van algemene kennis remt finasteride het enzym 5-alfa-reductase type II, waardoor de omzetting van testosteron naar dihydrotestosteron (DHT) afneemt. Dit verklaart de werking bij BPH en bij androgeen-afhankelijke haaraandoeningen zoals androgenetische alopecia.
 
-Ambras Type Hypertrichosis Universalis Congenita is echter een onderscheidende biologische entiteit. Het wordt veroorzaakt door chromosoomherschikkingen op 8q22–24 die de transcriptiefactor TRPS1 dysreguleren, wat leidt tot gegeneraliseerde, dichte hypertrichose aanwezig vanaf de geboorte. Deze aandoening is **niet androgeen-afhankelijk**: het pathomechanisme betreft onevenwichtigheid van transcriptiefactoren in plaats van overmatige DHT-signalering. Het primaire werkingsmechanisme van finasteride — DHT-onderdrukking — mist daarom een duidelijke farmacologische onderbouwing voor het omkeren of moduleren van dit aangeboren fenotype.
+Het ambras-syndroom is echter een aangeboren aandoening die wordt veroorzaakt door genomische herschikkingen die de regulatie van het *TRPS1*-gen beïnvloeden. De aandoening is niet primair androgeen-gedreven, dus onderdrukking van DHT zal waarschijnlijk niet de onderliggende oorzaak aanpakken. De hoge TxGNN-score is uitsluitend een computationele voorspelling.
 
-De zeer hoge score van het TxGNN-model (0.9999) weerspiegelt vrijwel zeker de topologische nabijheid van de bekende haarziekteknopen van finasteride tot hypertrichose-ziekteknopen binnen de kennisgraaf, in plaats van een echte mechanistische link. Dit is een goed erkende beperking van op grafen gebaseerde herbestemmingsmodellen: zeldzame aangeboren aandoeningen die brede fenotypische labels (bijv. "haarziekte") delen met goed bestudeerde medicijnendoelen kunnen hoge scores genereren zonder betekenisvolle biologische overlap. Bij afwezigheid van enig preklinisch of klinisch bewijs moet deze voorspelling als zuiver computationele hypothese worden beschouwd en is **niet klaar voor klinische toepassing**.
+Ook voor de overige voorspelde indicaties is het mechanistische verband zwak:
 
----
-
-## Bewijs uit klinische trials
-
-Er zijn momenteel geen gerelateerde klinische trials geregistreerd.
-
----
-
-## Bewijs uit literatuur
-
-Momenteel is geen gerelateerde literatuur beschikbaar.
+- **Hypertrichose** (score 99,99%): per definitie niet-androgeenafhankelijke overbeharing, dus een zwakke mechanistische aansluiting.
+- **Misvormingssyndroom met odontale/parodontale component** (99,99%): geen duidelijke farmacologische basis; waarschijnlijk een artefact van netwerkassociaties in de kennisgraaf.
+- **Syndroom met Dandy-Walker-malformatie** (99,99%): geen plausibel mechanisme; bovendien bestaan er zwangerschapsgerelateerde veiligheidszorgen (risico voor de ontwikkeling van mannelijke genitaliën bij de foetus).
+- **Geïsoleerde genetische haarschachtafwijking** (99,99%): speculatief, omdat structurele schachtdefecten doorgaans niet androgeengemedieerd zijn.
+- **Familiaire geïsoleerde trichomegalie** (99,15%): zwakke rationale, laagste score van de set.
 
 ---
 
-## Marktinformatie Nederland
+## Bewijs uit klinische studies
 
-Er zijn geen CBG-MEB-marketingtoestemmingsregisters gevonden voor Finasteride in deze dataset. Dit kan een gegevensophaalleemte aangeven in plaats van werkelijke afwezigheid op de Nederlandse markt — Finasteride-producten (bijv. Propecia 1 mg voor androgenetische alopecia en Proscar 5 mg voor BPH) zijn EMA-goedgekeurd en hebben naar verwachting nationale registratie of wederzijdse erkenningsprocedure in Nederland.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-**Actie vereist:** Controleer de huidige NL-toestemmingsstatus rechtstreeks via de [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) of de [EMA-medicijnendatabase](https://www.ema.europa.eu/en/medicines).
+---
+
+## Bewijs uit de literatuur
+
+De onderstaande publicaties zijn gevonden voor de voorspelling **hypertrichose**. Voor de hoogst scorende voorspelling (Ambras-type) is geen literatuur beschikbaar.
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [12223963](https://pubmed.ncbi.nlm.nih.gov/12223963/) | 2002 | Review | Annales de dermatologie et de venereologie | Overzicht van onderzoek en behandeling van hirsutisme en hypertrichose bij volwassenen; hypertrichose is vaak iatrogeen (minoxidil, ciclosporine, diazoxide, glucocorticoïden), metabool, nutritioneel of paraneoplastisch |
+| [10330884](https://pubmed.ncbi.nlm.nih.gov/10330884/) | 1999 | Review | Therapeutische Umschau | Overzicht van nieuwe behandelopties voor androgenetische alopecia en hirsutisme; geen directe gegevens over hypertrichose |
+| [12942187](https://pubmed.ncbi.nlm.nih.gov/12942187/) | 2003 | Review | Der Hautarzt | Overzicht van therapieën voor haaraandoeningen: finasteride bij mannelijke haaruitval en laserontharing bij hypertrichose en hirsutisme |
+| [12444520](https://pubmed.ncbi.nlm.nih.gov/12444520/) | 2002 | Methodologisch artikel | Der Hautarzt | Beschrijving van TrichoScan, een digitaal instrument voor haaranalyse; geen gegevens over werkzaamheid van finasteride |
+
+Alle vier de publicaties zijn Duitstalige of Franstalige narratieve overzichten uit 1999-2003 en leveren geen direct bewijs voor werkzaamheid van finasteride bij hypertrichose.
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+
+Deze enige vergunning is doorgehaald; er zijn momenteel geen geldige vergunningen in de data die voor dit report zijn samengesteld.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Geen veiligheidsgegevens — inclusief waarschuwingen, contra-indicaties of geneesmiddelinteracties — waren beschikbaar in dit Evidence Pack.
+- **Contra-indicaties volgens de kennisgraaf** (geen bijsluitertekst): leverziekte en galblaasziekte.
+- **Geneesmiddelinteracties**: 100 interacties gevonden in de DDInter-database, allemaal met onbekend ernstniveau. Voorbeelden: calcitriol, doxycycline, clotrimazol, dolasetron, dicyclomine, chloorhexidine, famotidine, acetylsalicylzuur, amoxicilline, bupropion, pantoprazol, glimepiride, mesalazine, acarbose, morfine, metformine, omeprazol, sucralfaat, palonosetron en rosiglitazon.
+- **Zwangerschap**: bij het Dandy-Walker-syndroom is gewezen op het risico voor de ontwikkeling van mannelijke genitaliën bij de foetus bij blootstelling aan finasteride.
 
-> Voor EMA-goedgekeurde producten is de SmPC toegankelijk via de [EMA-medicijnendatabase](https://www.ema.europa.eu/en/medicines). Voor nationaal goedgekeurde producten kan de SmPC worden verkregen van de CBG-MEB.
+Voor volledige waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB. Deze zijn niet beschikbaar in de samengestelde data.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: In afwachting**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-Ambras Type Hypertrichosis Universalis Congenita is een TRPS1-gemedieerde aangeboren aandoening zonder gevestigde verbinding met DHT-signalering of androgeen-pathway's. De TxGNN-voorspelling (L5) wordt volledig niet ondersteund door enige klinische trial, preklinische studie of gepubliceerde literatuur, en de hoge modelscore weerspiegelt hoogstwaarschijnlijk een kennisgraaf-topologie-artefact in plaats van een farmacologisch geldige aanwijzing.
+- Er is alleen een modelvoorspelling (L5) zonder klinische studies en zonder directe literatuur, en het mechanistische verband is voor alle voorspelde aandoeningen zwak of speculatief. De enige Nederlandse vergunning is bovendien doorgehaald.
 
-**Om verder te gaan is het volgende nodig:**
-
-- **Mechanistische validatie:** Vakblokgerefereerde bewijzen dat aantonen dat DHT of 5-alfa-reductase-activiteit een rol speelt in TRPS1-gerelateerde dysfunctie van haarvollicels
-- **Preklinische studies:** In vitro- of in vivo-gegevens die finasteride-activiteit aantonen in relevante modellen voor aangeboren hypertrichose
-- **CBG-MEB / EMA-toestemmingscontrole:** Bevestig huidige NL-marktsstatus en haal de volledige SmPC op voor veiligheidsprofiel
-- **MOA-gegevenslacune sluiten:** Haal volledige DrugBank-entry (DB01216) op om werkingsmechanisme- en veiligheidsvelden in te vullen voor een juiste S1-niveau veiligheidsevaluatie
-- **Regelgevingsbeoordeling:** Als mechanistische bewijzen opduiken, raadpleeg CBG-MEB-richtlijnen voor off-label gebruik of wees-aanwijzingspaden, gezien de ultra-zeldzame aard van deze aandoening
-
+**Voor vervolg is het volgende nodig:**
+- SmPC- en bijsluitergegevens van het CBG-MEB voor waarschuwingen en contra-indicaties (blokkerend voor de veiligheidsscreening)
+- Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank
+- Preklinisch of mechanistisch onderzoek naar een DHT-onafhankelijke rol bij de voorspelde aandoeningen
+- Een beoordeling van zwangerschaps- en voortplantingsrisico's, vooral voor aandoeningen die kinderen of vrouwen treffen
+- Vaststelling van de beschikbare toedieningsroutes en de huidige marktbeschikbaarheid in Nederland
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

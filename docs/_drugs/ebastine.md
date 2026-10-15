@@ -2,7 +2,7 @@
 layout: default
 title: Ebastine
 parent: Alleen modelvoorspelling (L5)
-nav_order: 56
+nav_order: 126
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,81 +29,84 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Ebastine: van allergische rinitis naar coronaire hartziekte
+# Ebastine: Van allergische rinitis naar coronaire hartziekte
 
 ## Samenvatting in één zin
 
-Ebastine is een H1-receptorantagonist van de tweede generatie die klassiek wordt gebruikt voor allergische rinitis en chronische urticaria.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **coronaire hartziekte**, met **0 klinische onderzoeken** en **1 computationele publicatie** die momenteel beschikbaar zijn ter ondersteuning van deze richting.
-Het bewijs bevindt zich volledig op het verkennende modelleringsstadium, en de mechanistische richting van effect is niet experimenteel bevestigd.
+Ebastine is een tweede-generatie H1-antihistaminicum, oorspronkelijk gebruikt bij allergische rinitis, vasomotore rinitis en idiopathische urticaria. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **coronaire hartziekte** (en daaraan verwant **myocardischemie**). Er zijn echter **geen klinische studies** en **geen publicaties** die deze richting ondersteunen; de voorspelling is uitsluitend computationeel.
 
 ---
 
 ## Snel overzicht
 
-| Item | Content |
-|------|---------|
-| Originele indicatie | Allergische rinitis / Urticaria (H1-receptorantagonist van de tweede generatie) |
+| Item | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Allergische rinitis, vasomotore rinitis, idiopathische urticaria (afkomstig uit de kennisgraaf; de vergunning in Nederland vermeldt geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Coronaire hartziekte |
-| TxGNN-voorspellingsscore | 99.18% |
-| Bewijsniveau | L5 |
-| Marktstatus Nederland | Niet op de markt |
-| Aantal toelassingen | 0 |
-| Aanbevolen besluit | Afwachten |
+| TxGNN-voorspellingsscore | 99,18% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 (geen geldige) |
+| Aanbevolen beslissing | Hold |
+
+Een tweede voorspelling, **myocardischemie** (score 99,10%), heeft eveneens evidentieniveau L5 en beslissing Hold. Deze is nauw verwant aan coronaire hartziekte en waarschijnlijk niet onafhankelijk van de eerste voorspelling.
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde informatie over het werkingsmechanisme van Ebastine is niet beschikbaar in dit bewijspakket. Gebaseerd op vastgestelde farmacologische kennis is Ebastine een selectieve, langwerkende H1-receptorantagonist met aangetoonde anti-allergische en anti-inflammatoire eigenschappen. Net als bij andere H1-receptorantagonisten van de tweede generatie passeert het niet gemakkelijk de bloed-hersenbarrière, wat een gunstig veiligheidsprofiel voor het centraal zenuwstelsel oplevert. Naast H1-blokkade is Ebastine een bekend substraat van CYP2J2 — een cytochroom P450-isoform die sterk tot expressie komt in hartspiercellen — en deze enzymrelatie lijkt het primaire mechanistische aanknopingspunt voor TxGNN's cardiovasculaire voorspelling.
+Er zijn voor dit rapport geen gegevens over het werkingsmechanisme beschikbaar. Bekend is dat ebastine een tweede-generatie H1-antihistaminicum is. Het effect bij allergische aandoeningen is vastgesteld, maar er is geen onderbouwing voor een effect bij hart- en vaatziekten.
 
-CYP2J2 katalyseert de epoxidatie van arachidonzuur in epoxyeicosatrienoïnezuren (EET's), welke endogene lipidmediatoren zijn met aangetoonde cardioprotectieve eigenschappen: zij verminderen myocardiale inflammatie, bevorderen vaatverwijding, en kunnen ischemie-reperfusieschade verzwakken via ischemische preconditioning-mechanismen. TxGNN heeft waarschijnlijk een mogelijke cardiovasculaire verbinding afgeleid door Ebastine als CYP2J2-ligand te herkennen en dit enzym aan EET-gemedieerde cardiale bescherming te koppelen. Zowel coronaire hartziekte als myocardiaal ischemie (de op één na hoogste voorspelde indicatie) staan bekend onder invloed van EET-biologie.
+Een mogelijk, puur speculatief verband loopt via histaminesignalering en mestcelactiviteit. Histamine kan coronaire vasospasmen veroorzaken en mestcellen komen voor in atherosclerotische plaques. H1-receptorblokkade zou in theorie door histamine gemedieerde coronaire vasoconstrictie en mestcelgedreven ontsteking kunnen verminderen. Dit is hypothese-niveau redenering en wordt niet door de beschikbare gegevens ondersteund.
 
-Echter, deze mechanistische onderbouwing draagt aanzienlijke voorbehouden met zich mee. Ebastine als CYP2J2-*substraat* zou EET-productie competitief kunnen remmen in plaats van deze te verhogen — wat zou betekenen dat het netto harteffect neutraal of zelfs schadelijk zou kunnen zijn. Er zijn geen in vitro-, diermodel- of klinische gegevens die Ebastine aan enig cardiovasculair uitkomst koppelen. De enige ondersteunende publicatie is een in silico docking-studie uit 2008 die Ebastine niet therapeutisch evalueert. Tot de richting en omvang van Ebastine's interactie met de CYP2J2–EET-as experimenteel zijn vastgesteld, moet deze voorspelling als louter hypothesegenererend worden behandeld.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-Op dit moment zijn er geen gerelateerde klinische onderzoeken geregistreerd.
+De twee voorspelde indicaties (coronaire hartziekte en myocardischemie) weerspiegelen vermoedelijk hetzelfde grafsignaal. De score is een rekenkundige voorspelling en geen bewijs van werkzaamheid. Of de nieuwe indicatie lijkt op de oorspronkelijke indicaties, is nog niet beoordeeld.
 
 ---
 
-## Bewijs uit de literatuur
+## Klinisch trialbewijs
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|-------------|
-| [18004755](https://pubmed.ncbi.nlm.nih.gov/18004755/) | 2008 | In silico / Computationele modellering | *Proteins* | Homologiemodellering en flexibele moleculaire docking van humaan CYP2J2. De studie stelt vast dat door CYP2J2 gegenereerde EET's worden geassocieerd met coronaire hartziekte, hypertensie en carcinogenese. Ebastine wordt geïdentificeerd als een ligand dat bindt aan de actieve plaats van CYP2J2, maar geen therapeutische conclusies worden getrokken. |
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Marktinformatie Nederland
+## Literatuurbewijs
 
-Ebastine is **momenteel niet goedgekeurd voor commercialisering in Nederland**. Er zijn geen CBG-MEB (College ter Beoordeling van Geneesmiddelen) geregistreerde producten geïdentificeerd. Er is geen SmPC of PIL beschikbaar via het Nederlandse nationale register. Mochten klinische ontwikkelingen vorderen, dan is een toelatingsprocedure voor geneesmiddelen via CBG-MEB of de EMA-centraal procedure vereist voordat Ebastine in Nederland kan worden voorgeschreven.
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Informatie over de Nederlandse markt
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Aangezien Ebastine momenteel niet in Nederland is geregistreerd, zouden artsen de goedgekeurde productinformatie uit rechtsgebieden waar Ebastine is goedgekeurd (bijv. EU-lidstaten met bestaande toelassingen) als voorlopige referentie moeten raadplegen tot een Nederlandse SmPC beschikbaar is.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | Filmomhulde tablet (volgens productnaam) | Niet vermeld in de beschikbare gegevens |
+
+De enige vergunning is doorgehaald. Er is dus geen geldig product op de Nederlandse markt volgens de gegevens van het CBG-MEB die voor dit rapport zijn verzameld.
+
+---
+
+## Veiligheidsoverwegingen
+
+Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. Er zijn voor dit rapport geen waarschuwingen, contra-indicaties of geneesmiddelinteracties beschikbaar.
+
+Bij een eventuele beoordeling in een cardiovasculaire populatie moet in elk geval aandacht worden besteed aan QT-gerelateerde effecten van antihistaminica en aan het metabolisme van ebastine via CYP3A4/2J2.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Afwachten**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-Ondanks een hoge TxGNN-voorspellingsscore van 99.18% bestaat het ondersteunend bewijs uit slechts één in silico modelleringsstudie uit 2008 zonder experimentele of klinische gegevens. De voorgestelde CYP2J2–EET-mechanistische route is biologisch aannemelijk maar volledig ongevalideerd voor Ebastine, en de richting van effect (cardioprotectief vs. remmend) blijft onbepaald. Ebastine is ook niet geregistreerd in Nederland, wat een extra regelgevingsbarrière vormt voordat enige klinische toepassing mogelijk is.
+- De voorspellingen voor coronaire hartziekte en myocardischemie berusten alleen op een modelscore (evidentieniveau L5), zonder klinische studies of literatuur.
+- Er is geen geldige handelsvergunning in Nederland, en de gegevens over veiligheid en werkingsmechanisme ontbreken.
 
-**Om verder te gaan is het volgende nodig:**
-
-- **Verduidelijking van het mechanisme**: In vitro-onderzoeken ter meting van het effect van Ebastine op CYP2J2-enzymatische activiteit en EET-metabolietproductie (competitieve remming vs. inductie)
-- **Preklinische validatie**: Diermodelgegevens ter evaluatie van cardiovasculaire uitkomsten (bijv. infarctgrootte, endotheelfunctie) in aanwezigheid van Ebastine
-- **Veiligheidsprofiel review**: Opvraag en analyse van de volledige SmPC uit goedgekeurde markten — inclusief belangrijke waarschuwingen, contraïndicaties, QTc-verlenging gegevens, en geneesmiddel-geneesmiddelinteractieprofiel — voordat enige menselijke studie wordt ontworpen
-- **Evaluatie van regelgevingspad**: Overleg met CBG-MEB aangaande opties voor klinische ontwikkeling of compassioneel gebruik in Nederland
-- **Ontwerp van fase 1/2 klinisch onderzoek**: Minimaal een proof-of-concept-onderzoek gericht op mechanistische eindpunten (bijv. EET-niveaus in plasma, markeringen van coronaire endotheelfunctie) voordat therapeutische werkzaamheid kan worden geëvalueerd
-
+**Om verder te gaan is nodig:**
+- Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties), die nodig is voor de veiligheidsscreening.
+- Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank) om het mechanistische verband te kunnen beoordelen.
+- Een systematische zoektocht naar preklinische, observationele en klinische gegevens over antihistaminica bij coronaire hartziekte en myocardischemie.
+- Beoordeling van cardiale veiligheid (QT-verlenging, CYP-interacties) in een cardiovasculaire populatie.
+- Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

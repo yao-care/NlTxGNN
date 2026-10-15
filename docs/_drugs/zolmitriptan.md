@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Sterk bewijs (L1-L2)
-nav_order: 125
-evidence_level: L2
+parent: Matig bewijs (L3-L4)
+nav_order: 346
+evidence_level: L4
 indication_count: 3
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,102 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **3**
 
 </div>
 
-# Zolmitriptaan: Van Migraine naar Migraine met Brainstam Aura
+# Zolmitriptan: Van migraine naar migraine met hersenstamaura
 
 ## Samenvatting in één zin
 
-Zolmitriptaan (merknaam: Zomig) is een selectieve serotonine-5HT1B/1D receptoragonist (triptan) die in meerdere rechtsgebieden is geregistreerd voor de acute behandeling van migraine-aanvallen met of zonder aura.
-Het TxGNN-model voorspelt dat het ook werkzaam kan zijn voor **Migraine met Brainstam Aura** (voorheen basilaris-type migraine), met **geen geregistreerde klinische onderzoeken** maar **19 publicaties** die deze richting momenteel ondersteunen.
-Een cruciale herziene richtlijn van de AHS uit 2015 heeft de historische theoretische contraïndicatie voor triptan-gebruik in dit subtype aanzienlijk verzwakt, wat de plausibiliteit van deze voorspelling versterkt.
+Zolmitriptan is een 5-HT1B/1D-agonist (triptan) die oorspronkelijk wordt gebruikt voor de acute behandeling van migraine. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **migraine met hersenstamaura**. Er zijn **0 geregistreerde klinische studies** en **20 publicaties** over migraine en triptanen in het algemeen, maar geen daarvan richt zich specifiek op hersenstamaura.
 
 ---
 
-## Kort overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Acute migraine (geen NL-registratie bekend; vastgesteld in andere rechtsgebieden) |
-| Voorspelde nieuwe indicatie | Migraine met Brainstam Aura |
-| TxGNN voorspellingsscore | 99.99% |
-| Bewijsniveau | L2 |
-| NL-markt status | Niet geregistreerd in Nederland |
-| Aantal registraties | 0 |
-| Aanbevolen besluit | Doorgaan met waarborgen |
+|------|------|
+| Oorspronkelijke indicatie | Migraine (migraine met of zonder aura) |
+| Voorspelde nieuwe indicatie | Migraine met hersenstamaura |
+| TxGNN-voorspellingsscore | 99,99% |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
+| Aantal handelsvergunningen | 1 (doorgehaald) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Zolmitriptaan is een lipofiel, selectieve 5HT1B/1D receptoragonist met een **duaal werkingsmechanisme** dat het onderscheidt van eerdere triptanen. Perifeer blokkeert het de afgifte van CGRP en substance P op trigeminus-vasculaire terminals, waardoor de pijnsignaal-transmissie van intracraniële bloedvaten wordt geblokkeerd. Centraal — en kritiek voor deze voorspelling — stelt de lipofiliteit het in staat de bloed-hersenbarrière (BBB) over te steken en neuronen in de brainstam trigeminus nuclei rechtstreeks te moduleren. Dit centrale werkingsmechanisme is een kenmerk dat niet door alle triptanen wordt gedeeld en is rechtstreeks relevant voor de pathofysiologie van migraine met brainstam aura.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Op basis van de gepubliceerde literatuur is zolmitriptan een selectieve serotonine 5-HT1B/1D-receptoragonist met zowel centrale als perifere werking. Het is werkzaam gebleken bij de acute behandeling van migraine met en zonder aura. Preklinisch remt het de trigeminovasculaire activatie, zowel centraal als perifeer.
 
-Migraine met brainstam aura (MBA) wordt gekarakteriseerd door corticale spreidingsdepressie (CSD) die zich naar achteren uitbreidt naar brainstamregio's, wat symptomen veroorzaakt zoals diplopie, vertigo, dysartrie, tinnitus en verminderd bewustzijn. Omdat het centrale werkingsmechanisme van zolmitriptaan gericht is op brainstam trigeminale hyperexcitabiliteit — de pathofysiologische kern van MBA — is de mechanistische koppeling die aan de TxGNN-voorspelling ten grondslag ligt, bijzonder coherent. Het geneesmiddel wordt niet simpelweg voorgesteld voor een onrelated aandoening; het is al actief in dezelfde neurale circuits die betrokken zijn bij dit specifieke migraine-subtype.
+Migraine met hersenstamaura is een subtype van migraine met aura. De onderliggende pathofysiologie (trigeminovasculaire activatie, vrijkomen van CGRP en corticale spreidingsdepressie) wordt gedeeld met de oorspronkelijke indicatie. Daarom is een mechanistisch verband plausibel.
 
-Historisch waren triptanen vermeld als gecontraïndiceerd in basilaris-type migraine (pre-2004 richtlijnen), op basis van een theoretische zorg dat basilaris-artery-vasoconstrictie brainstam-ischemie zou kunnen verergeren. De systematische beoordeling van het bewijs door de American Headache Society uit 2015 (PMID 25600718) heeft deze positie echter formeel herzien, stellende dat verzamelde praktijkgegevens geen zinvol ischemisch risicosignaal hebben geïdentificeerd, en dat de vorige contraïndicatie geen robuust klinisch bewijs ontbeerde. Deze richtlijnevolutie — gecombineerd met het unieke centraal actieve farmacologische profiel van zolmitriptaan — biedt een sterke mechanistische en regelgevingsbasis voor deze repurposing-voorspelling.
-
----
-
-## Bewijs uit klinische onderzoeken
-
-Momenteel zijn er geen klinische onderzoeken met betrekking tot zolmitriptaan bij migraine met brainstam aura geregistreerd op ClinicalTrials.gov of de WHO ICTRP.
+Er zijn echter belangrijke kanttekeningen. De beschikbare literatuur gaat over migraine en triptanen in het algemeen, niet over hersenstamaura. Bovendien zijn triptanen historisch met voorzichtigheid benaderd bij hersenstam- (basilaire) aura vanwege theoretische zorgen over vasoconstrictie. Het veiligheidsprofiel moet daarom specifiek voor deze indicatie worden beoordeeld. Het mechanistische verband is afgeleid uit algemene farmacologische kennis en niet uit de aangeleverde mechanismegegevens.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit klinische studies
+
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Geen enkele publicatie onderzoekt specifiek migraine met hersenstamaura.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|--------------------------|
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Klinische praktijkrichtlijn | *Headache* | AHS systematische beoordeling van het bewijs voor acute migraine-farmacotherapieën; formeel herziene vorige theoretische contraïndicatie van triptanen in brainstam aura migraine, stellende dat praktijkgegevens geen ischemisch signaal aantonen |
-| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Klinische studie | *Headache* | Rapporteert praktijkgebruik van triptanen — inclusief zolmitriptaan — in basilaris migraine en migraine met verlengde aura; de meest rechtstreeks indicatie-specifieke publicatie in dit pakket |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analyse | *The Journal of Headache and Pain* | Vergelijkende meta-analyse van frovatriptaan versus rizatriptaan, zolmitriptaan en almotriptaan in migraine met aura; ondersteunt werkzaamheid van triptaneklasse over aura-subtypes |
-| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | RCT subgroepanalyse | *Neurological Sciences* | Dubbelblind, gerandomiseerd, multicenter crossover-onderzoek; zolmitriptaan 2.5 mg versus frovatriptaan 2.5 mg in migraine met aura (IHS-criteria); direct head-to-head RCT-subgroepgegevens voor zolmitriptaan in aura |
-| [27329280](https://pubmed.ncbi.nlm.nih.gov/27329280/) | 2016 | RCT | *Headache* | TEENZ Study (NCT01211145): gerandomiseerd, dubbelblind, multicenter onderzoek van zolmitriptaan neusspray bij adolescente migraine (leeftijd 12–17); toont werkzaamheid en draagbaarheid aan over patiëntenpopulaties |
-| [12864759](https://pubmed.ncbi.nlm.nih.gov/12864759/) | 2003 | Interventioneel klinisch onderzoek | *Headache* | Transcraniale Doppler-onderzoek naar intracraniële bloedstroomsnelheid tijdens migraine-aanvallen voor en na oraal zolmitriptaan of sumatriptaan; biedt haemodynamische context relevant voor brainstam-vasculaire overwegingen |
-| [18624801](https://pubmed.ncbi.nlm.nih.gov/18624801/) | 2008 | Klinische studie | *Cephalalgia* | Gerandomiseerd onderzoek bij migraine patiënten met en zonder aura waarbij vroege allodynia werd onderzocht; zolmitriptaan toonde significante pijnreductie, met implicaties voor centrale sensitisatie in aura-gerelateerde aanvallen |
-| [12083998](https://pubmed.ncbi.nlm.nih.gov/12083998/) | 2002 | Narratief overzicht | *Expert Opinion on Pharmacotherapy* | Uitgebreid overzicht van zolmitriptaan farmacologie en klinische toepassingen; behandelt werkzaamheid in migraine met en zonder aura, aanzet van werking binnen 45 minuten, en aanhoudend 2-uurs effect |
-| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Overzicht | *Frontiers in Neurology* | Samenvatting van behandelopties voor vestibulair migraine — een brainstam-overlap syndroom — met opkomend bewijs en richtlijngaten voor triptan-gebruik over het brainstam aura spectrum |
-| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Preklinische farmacologie | *Cephalalgia* | Fundamenteel preklinisch onderzoek aantonend zolmitriptaans lipofiliteit, BBB-doordringbaarheid, en vermogen om trigeminovasculaire activatie zowel centraal (brainstam) als perifeer te remmen — de mechanistische basis van deze voorspelling |
+|------|-----|------|------|---------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | Bijgewerkte beoordeling van het bewijs voor farmacologische behandelingen van acute migraine (American Headache Society) |
+| [10473025](https://pubmed.ncbi.nlm.nih.gov/10473025/) | 1999 | Review | Drugs | Zolmitriptan 2,5 en 5 mg heeft snel effect (hoofdpijnverlichting na 45 minuten) en is significant werkzamer dan placebo bij matige tot ernstige migraine |
+| [12083998](https://pubmed.ncbi.nlm.nih.gov/12083998/) | 2002 | Review | Expert Opin Pharmacother | Gerandomiseerde, placebogecontroleerde onderzoeken tonen goede werkzaamheid; ook misselijkheid, fotofobie en fonofobie verbeteren |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Review (meta-analyse) | J Headache Pain | Vergelijking van frovatriptan met rizatriptan, zolmitriptan en almotriptan bij migraine met aura; triptanen zijn mogelijk niet werkzaam tijdens de aurafase |
+| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Subgroepanalyse van RCT | Neurol Sci | Frovatriptan versus zolmitriptan bij migraine met aura (subgroep van 18 personen) |
+| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Preklinisch | Cephalalgia | Zolmitriptan remt trigeminovasculaire activatie zowel centraal als perifeer |
+| [12864759](https://pubmed.ncbi.nlm.nih.gov/12864759/) | 2003 | Klinische studie | Headache | Transcraniële Doppler bij migraineaanvallen vóór en na behandeling met zolmitriptan of sumatriptan |
+| [17177580](https://pubmed.ncbi.nlm.nih.gov/17177580/) | 2007 | Postmarketingonderzoek | Clin Drug Investig | Werkzaamheid en tevredenheid met zolmitriptan 5 mg neusspray in de dagelijkse praktijk |
+| [22298171](https://pubmed.ncbi.nlm.nih.gov/22298171/) | 2012 | Casusbeschrijving | Cardiol J | Zolmitriptan-geïnduceerd acuut myocardinfarct bij een 45-jarige vrouw |
+| [23695053](https://pubmed.ncbi.nlm.nih.gov/23695053/) | 2013 | Review van RCT's | Neurol Sci | Werkzaamheid van frovatriptan en andere triptanen bij hypertensieve en normotensieve migrainepatiënten |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Zolmitriptaan heeft momenteel **geen marktregistraties** die door de CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland zijn uitgegeven. Er zijn geen RVG-vermeldingen (Registratienummer) op record.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 109139 | Zolmitriptan Glenmark 5 mg orodispergeerbare tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
 
-> Voor prescriptie-informatie, raadpleeg de SmPC (Samenvatting van de Productkenmerken) van rechtsgebieden waar zolmitriptaan is geregistreerd — bijvoorbeeld de UK MHRA (Zomig) of EMA-aanverwante productinformatie — als regelgevingsbasis voor veiligheidsevaluatie in afwachting van eventuele NL-registratie.
-
----
-
-## Veiligheidsconsideraties
-
-Volledige veiligheidsgegevens (belangrijkste waarschuwingen, contraïndicaties, geneesmiddel-geneesmiddel interacties) zijn niet beschikbaar in dit Evidence Pack.
-
-> Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
-
-**Indicatie-specifieke voorzichtigheid:** Hoewel de AHS 2015 richtlijn (PMID 25600718) de historische algehele contraïndicatie voor triptanen in brainstam aura formeel heeft herzien, blijft klinische voorzichtigheid gewenst. Patiënten met verhoogd trombo-embolisme-risico — inclusief degenen met CADASIL, familiale hemiplégische migraine (FHM), of patent foramen ovale (PFO) — moeten worden uitgesloten van triptan-gebruik in deze context in afwachting van verder gericht onderzoek.
+Er is geen geldige handelsvergunning in Nederland. De enige bekende vergunning is doorgehaald.
 
 ---
 
-## Conclusie en volgende stappen
+## Veiligheidsoverwegingen
 
-**Besluit: Doorgaan met waarborgen**
+Voor de volgende punten zijn gegevens beschikbaar.
 
-**Rechtvaardiging:**
-Het gevestigde 5HT1B/1D duaal centraal-perifeer werkingsmechanisme van zolmitriptaan is direct en specifiek relevant voor de pathofysiologie van migraine met brainstam aura, en een hoogwaardige AHS klinische praktijkrichtlijn (2015) heeft formeel de vorige theoretische contraïndicatie ingetrokken. Meerdere ondersteunende publicaties — inclusief een meta-analyse, RCT subgroepgegevens, en een gericht klinisch onderzoek naar triptanen in basilaris migraine — bieden L2-niveau bewijs. Er bestaat echter geen gericht prospectief onderzoek voor deze precieze indicatie, en het geneesmiddel is niet geregistreerd in Nederland, wat regelgevingsmaatregelen vereist voor klinisch gebruik.
+- **Contra-indicaties (afgeleid uit de kennisgraaf, niet uit productteksten)**: de kennisgraaf koppelt zolmitriptan aan onder meer de volgende aandoeningen:
+  - Hart- en vaatziekten: hypertensie, coronaire hartziekte, myocardinfarct, prinzmetal-angina, myocardischemie, perifere vaatziekte en de ziekte van Raynaud.
+  - Cerebrovasculaire aandoeningen: beroerte, TIA, hersenischemie, cerebraal infarct, vertebrobasilaire insufficiëntie en intracraniële arteriosclerose.
+  - Migrainevormen: familiaire of sporadische hemiplegische migraine.
+  - Overige aandoeningen: ischemische darmziekte, het Wolff-Parkinson-White-syndroom, nierziekte, leverziekte, galblaasziekte en hemoglobinopathie.
+- **Casusbeschrijving**: er is een geval van acuut myocardinfarct beschreven na gebruik van zolmitriptan, wat het vasoconstrictieve risico onderstreept.
+- **Geneesmiddelinteracties**: in totaal zijn er 82 interacties gevonden. Voorbeelden van **ernstige (major)** interacties zijn lorcaserine, dolasetron, palonosetron, ondansetron, granisetron, dexfenfluramine, fenfluramine en sibutramine (mogelijk gerelateerd aan serotonerge effecten). **Matige** interacties zijn onder meer morfine, cimetidine en obeticholzuur.
 
-**Om door te gaan, is het volgende nodig:**
-- Verkrijg de volledige SmPC (Samenvatting van de Productkenmerken) van een autoriserende rechtsgebied (UK MHRA of gelijkwaardig) om het NL-veiligheidsdossier en geneesmiddel-geneesmiddel interactie-beoordeling af te ronden — in het bijzonder met betrekking tot MAO-B remmers en andere serotonerge middelen
-- Voer een gestructureerd patiëntenselectieprotocol in dat expliciet CADASIL, FHM en hoog thromboembolisme-risicoprofielen uitsluit
-- Initieer een prospectief observatieregister voor MBA-patiënten behandeld met zolmitriptaan om NL-specifieke praktijkgegevens over veiligheid en werkzaamheid te genereren
-- Raadpleeg CBG-MEB over de regelgevingsroute voor een niet-geregistreerd geneesmiddel (bijvoorbeeld toepassing voor naamgebruik of ziekenhuis-uitzondering onder artikel 3(lid 1) van Richtlijn 2001/83/EC)
-- Financier een gericht Phase 2 proof-of-concept RCT in migraine met brainstam aura om bewijsniveau naar L1 te tillen en een formele etiketuitbreiding aanvraag te ondersteunen
+Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samenvatting van de Productkenmerken). Voor de gegevens van het CBG-MEB zijn waarschuwingen en contra-indicaties uit de productinformatie niet beschikbaar in de samengestelde data.
 
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Hold**
+
+**Onderbouwing:**
+- Het bewijs is beperkt tot modelvoorspelling en algemene migraineliteratuur (niveau L4). Er zijn geen klinische studies voor hersenstamaura, en triptanen zijn bij deze subtypen historisch met voorzichtigheid benaderd vanwege vasoconstrictieve risico's. Bovendien is er in Nederland geen geldige handelsvergunning.
+- De twee andere voorspellingen (atrophoderma vermiculata en ulerythema ophryogenesis) hebben ook hoge modelscores, maar geen enkel bewijs en geen plausibel mechanisme. Dit zijn waarschijnlijk artefacten van de kennisgraaf en worden op Hold gehouden.
+
+**Om verder te gaan is het volgende nodig:**
+- Gegevens over het werkingsmechanisme uit DrugBank aanvullen.
+- De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen (blokkerende gegevenslacune voor de veiligheidsscreening).
+- Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico.
+- Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxazepam
-parent: Sterk bewijs (L1-L2)
-nav_order: 101
-evidence_level: L2
+parent: Matig bewijs (L3-L4)
+nav_order: 258
+evidence_level: L3
 indication_count: 1
 ---
 
 # Oxazepam
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,102 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **1**
 
 </div>
 
-# Oxazepam: van angststoornissen naar slapeloosheid
+# Oxazepam: Van angst en alcoholontwenningsdelirium naar slapeloosheid
 
 ## Samenvatting in één zin
 
-Oxazepam is een benzodiazepine van middellange werkingsduur (BZD) die primair is vastgesteld als anxiolyticum en slaapmiddel binnen zijn medicamentklasse.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam kan zijn voor **slapeloosheid**,
-met **0 geregistreerde klinische onderzoeken** en **11 publicaties** die deze richting momenteel ondersteunen.
-Opmerkelijk genoeg zijn 2 van deze publicaties gerandomiseerde gecontroleerde onderzoeken die Oxazepam rechtstreeks evalueren bij patiënten met slapeloosheid.
+Oxazepam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bij angst en alcoholontwenningsdelirium. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **slapeloosheid (insomnia)**. Hiervoor zijn **geen geregistreerde klinische studies** en **10 publicaties** gevonden, waarvan er slechts enkele direct relevant zijn.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Niet geregistreerd in Nederland; farmacologisch vastgesteld als anxiolyticum/slaapmiddel (benzodiazepineklasse) |
-| Voorspelde nieuwe indicatie | Slapeloosheid |
-| TxGNN voorspellingsscore | 99.86% |
-| Bewijsniveau | L2 |
-| NL-marktpositie | Niet op de markt in Nederland |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | Doorgaan met voorzorgsmaatregelen |
+|------|------|
+| Oorspronkelijke indicatie | Angst; alcoholontwenningsdelirium (volgens de kennisgraaf; de vergunningstekst bevat geen indicatie) |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
+| TxGNN-voorspellingsscore | 99,86% |
+| Bewijsniveau | L3 |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 (geen geldige) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Oxazepam is een benzodiazepine die werkzaam is door binding aan de α-subeenheid van de GABA-A-receptor, waardoor de remmende effecten van GABA positief worden gemoduleerd. Dit mechanisme verkort de inslaaptijd, verhoogt de totale slaaptijd en onderdrukt REM-slaap — dezelfde farmacologische effecten die ten grondslag liggen aan alle BZD-klasseslaapmiddelen en die rechtstreeks relevant zijn voor de behandeling van slapeloosheid. Als agent van middellange werkingsduur (t½ ≈ 8–12 uur) **zonder actieve metabolieten** heeft Oxazepam theoretisch een lager risico op nawerking van slaperigheid overdag in vergelijking met langwerkende BZD's zoals flurazepam, wat een praktisch voordeel voor verdraagzaamheid in klinisch gebruik kan bieden.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende klasse-eigenschappen is oxazepam een kortwerkend benzodiazepine dat als positieve allosterische modulator van de GABA-A-receptor de remmende neurotransmissie versterkt. Deze afleiding komt uit de klasse van benzodiazepinen en niet uit het aangeleverde geneesmiddelrecord.
 
-De farmacologische overlap tussen anxiolyse en hypnose in deze medicamentklasse is goed gevestigd: GABA-A-receptorgemedieerde CNS-depressie vermindert tegelijkertijd angst en bevordert het inslapen. Aangezien angststoornissen en slapeloosheid zeer comorbide zijn en gemeenschappelijke neurobiologische substraten delen, is de voorspelling van het TxGNN-model voor werkzaamheid bij slapeloosheid volledig consistent met het bekende werkingsmechanisme van Oxazepam. De overgang van anxiolytisch gebruik naar een slaapindicatie vertegenwoordigt een **farmacologische uitbreiding binnen dezelfde klasse**, geen mechanistische breuk.
-
-Klinische literatuur ondersteunt deze aannemelijkheid. Een polysomnografisch gerandomiseerd onderzoek uit 1984 (PMID 6691478) vergeleek Oxazepam en flurazepam rechtstreeks bij patiënten met chronische slapeloosheid en toonde verbetering in nachtelijke slaapmetingen met aanzienlijk minder dagsedatie voor Oxazepam. Een vergelijkend gerandomiseerd onderzoek uit 2018 bij STEMI-patiënten (PMID 29749262) gebruikte Oxazepam als actieve vergelijking voor het beheersen van zowel angst als slapeloosheid, wat de praktische toepassing ervan voor slaapstornissen in medisch zieke populaties bevestigt.
+Dit sederend-hypnotische effect is biologisch plausibel bij slapeloosheid. Angst en slaapproblemen overlappen bovendien vaak: slapeloosheid is een veelvoorkomend begeleidend symptoom van angststoornissen en van alcoholontwenning. Oxazepam wordt geglucuronideerd en vormt geen actieve metabolieten die zich ophopen. Dat is relevant voor de veiligheid bij ouderen en bij leverfunctiestoornissen.
 
 ---
 
-## Bewijs uit klinische onderzoeken
+## Bewijs uit klinische studies
 
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd op ClinicalTrials.gov of ICTRP voor Oxazepam bij slapeloosheid.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Bewijs uit literatuur
+## Bewijs uit de literatuur
+
+De tabel toont de meest relevante publicaties (10 gevonden; ongerelateerde artikelen over agomelatine en paroxetine zijn weggelaten).
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|-------------|-------------------------|
-| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | RCT | Am J Psychiatry | Polysomnografisch RCT (n=14) bij chronische slapeloosheid: zowel Oxazepam als flurazepam verbeterden de nachtelijke slaap; Oxazepam veroorzaakte aanzienlijk minder dagsedatie, wat een gunstiger daagveiligheidsprofiel ondersteunt |
-| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | RCT | Ann Pharmacother | Vergelijkend RCT bij STEMI-patiënten na PCI: melatonine versus Oxazepam voor angst en slaapkwaliteit; bevestigt de actieve rol van Oxazepam bij het beheersen van slaapstornissen bij acuut zieke cardiale patiënten |
-| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Review | Arch Gerontol Geriatr | Review van veiligheid en werkzaamheid van slaapmiddelen bij oudere patiënten (>70 jaar) met comorbiditeiten inclusief dementie; evalueert BZD's inclusief Oxazepam voor behandeling van slapeloosheid in risicovolle populaties |
-| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Observationeel | PeerJ | Retrospectieve observationele studie over langdurig BZD/z-geneesmiddelengebruik bij ouderen; identificeert patiëntgerelateerde factoren (leeftijd, geslacht, depressie, chronische aandoening) die geassocieerd zijn met langdurig BZD-gebruik inclusief Oxazepam voor slapeloosheid |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Farmacokinetische review van anxiolytische/slaapmiddelen; verschaft comparatief PK-profiel van Oxazepam (geen actieve metabolieten, middellange t½) relevant voor de slaaptoepassing |
-| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Klinische richtlijn | J Clin Exp Hepatol | Klinische richtlijn voor alcoholonttrekkingssyndroom bij leverziekte; verwijst naar BZD's inclusief Oxazepam voor het beheersen van slapeloosheid als onttrekkingssymptoom, met overwegingen voor hepatische veiligheid |
-| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Ziektegeschiedenis | JAMA | Ziektegeschiedenis met twee patiënten over onttrekkingssyndroom na vervanging van Oxazepam (kortwerkend) door diazepam (langwerkend); relevant voor risicobeheer van staken bij slapeloosheidsbehandeling |
-| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Klinische review | Psychiatr Praxis | Dwarsdoorsnede review van BPSD-beheer bij dementie patiënten in Duitsland/Oostenrijk/Zwitserland; omvat Oxazepam voor slaapgerelateerde gedragsverstoringen |
-| [39544757](https://pubmed.ncbi.nlm.nih.gov/39544757/) | 2024 | Ziektegeschiedenis | Am J Transl Res | Ziektegeschiedenis van agomelatine-geïnduceerd bijeffect; Oxazepam geregistreerd als gelijktijdig geneesmiddel voor slapeloosheid, wat een hedendaags real-world gebruiksreferentie verschaft |
-| [23338224](https://pubmed.ncbi.nlm.nih.gov/23338224/) | 1997 | Geneesmiddelenreview | CNS Drugs | Review van paroxetine bij paniekstoornis; Oxazepam aangehaald als representatieve BZD-vergelijking, contextualiserend de klassefarmacologie over anxiolytische en hypnotische indicaties |
+|------|-----|------|------|---------|
+| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | Klinische studie (vergelijkend) | The American Journal of Psychiatry | Oxazepam en flurazepam verbeterden enkele polysomnografische slaapmaten bij 14 patiënten met chronische slapeloosheid. Flurazepam gaf duidelijke sufheid overdag, oxazepam niet; er werd wel enige rebound waargenomen. |
+| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | Klinische studie (gerandomiseerd volgens de titel) | The Annals of Pharmacotherapy | Melatonine vergeleken met oxazepam voor angst en slaapkwaliteit na een STEMI en primaire PCI. |
+| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Overzicht/studie bij ouderen | Archives of Gerontology and Geriatrics | Effectiviteit en veiligheid van hypnotica bij slapeloosheid bij 60 personen boven de 70 jaar. |
+| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Cohortanalyse | PeerJ | Mogelijk ongepast langdurig gebruik van benzodiazepinen en z-drugs bij ouderen. |
+| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Klinische studie | JAMA | Onttrekkingssyndroom na overstap van een langwerkend naar een kortwerkend benzodiazepine, waaronder oxazepam in plaats van diazepam. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Overzicht | Expert Opinion on Drug Metabolism & Toxicology | Farmacokinetiek van anxiolytica. |
+| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Overzicht | Journal of Clinical and Experimental Hepatology | Behandeling van alcoholontwenning bij alcoholische leverziekte. |
+| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Overzicht | Psychiatrische Praxis | Behandeling van gedragsproblemen bij dementie (BPSD). |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Oxazepam heeft momenteel **geen marketingautorisaties** geregistreerd bij CBG-MEB in Nederland. Elk klinisch gebruik zou off-label voorschrijven, magistrale bereiding of invoer via artikel 3(2)-vrijstelling onder Nederlandse geneesmiddelenwetgeving vereisen. Er is geen goedgekeurd SmPC aanwezig bij CBG-MEB; de EMA-productinformatie op klasseniveau (waar beschikbaar voor de BZD-klasse) dient te worden geraadpleegd als het dichtstbijzijnde referentiedocument.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 55969 | Oxazepam CF 50 mg, tabletten | Niet vermeld (tablet volgens productnaam) | Niet vermeld; status: doorgehaald |
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Formele SmPC-niveau waarschuwings- en contraïndicatiegegevens zijn in dit bewijspakket niet beschikbaar voor de Nederlandse markt. Raadpleeg alstublieft de Samenvatting van de Productkenmerken (SmPC) van een referentielandautorisatie voor volledige veiligheidsinformatie.
+Voor waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn geen gegevens beschikbaar. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
-Overwegingen op klasseniveau bekend voor benzodiazepines die clinici voorafgaand aan gebruik dienen te beoordelen:
-- **Afhankelijkheids- en onttrekkingsrisico**: BZD's hebben een erkend risico op fysieke afhankelijkheid bij langdurig gebruik; abrupt staken kan onttrekkingsstuipen uitlokken (zie PMID 6139491).
-- **Oudere populaties**: Bijzondere voorzichtigheid is gerechtvaardigd bij patiënten >70 jaar vanwege valrisico, cognitieve effecten en accumulatie in polyfarmacie-contexten (zie PMID 17317444, 29844949).
-- **Hepatische aandoening**: In tegenstelling tot veel BZD's ondergaat Oxazepam directe glucuronidatie zonder hepatische oxidatie, wat relevant kan zijn bij patiënten met leverziekte (zie PMID 36340306).
+**Contra-indicaties volgens de kennisgraaf (geen bijsluitertekst):** de kennisgraaf koppelt oxazepam aan onder meer de volgende aandoeningen. Deze zijn niet geverifieerd aan de hand van de SmPC.
+- Ademhalingsproblemen: ademhalingsfalen, longziekte, slaapapneusyndroom en obstructief slaapapneusyndroom
+- Lever- en nierziekte, galblaasziekte
+- Porfyrie
+- Psychiatrische aandoeningen: psychotische stoornis, schizoaffectieve stoornis, persoonlijkheidsstoornis, middelenmisbruik of -afhankelijkheid
+- Hypotensie
+
+**Geneesmiddelinteracties:** de interactiedatabase meldt 100 interacties. De belangrijkste:
+- **Ernstig (Major):** morfine (inclusief liposomaal), met risico op additieve sedatie en ademhalingsdepressie
+- **Matig (Moderate):** bupropion, dronabinol, nabilon, metoclopramide, opium, sibutramine en teduglutide
+- **Licht (Minor):** antacida zoals magnesiumoxide, magnesiumcarbonaat, magnesiumhydroxide, calciumcarbonaat, aluminiumhydroxide en magaldraat
+
+**Aanvullende literatuursignalen:** onttrekkingsverschijnselen en rebound na wisseling of stoppen van benzodiazepinen (PMID 6139491, 6691478) en zorgen over langdurig gebruik bij ouderen (PMID 29844949).
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met voorzorgsmaatregelen**
+**Beslissing: Hold**
 
-**Motivering:**
-De TxGNN-voorspellingsscore van 99.86% wordt ondersteund door een samenhangend en goed begrepen werkingsmechanisme (GABA-A-receptormodulatie), twee gerandomiseerde gecontroleerde onderzoeken die Oxazepam rechtstreeks evalueren in patiënten met insomnia, en een breder corpus van BZD-literatuur over slapeloosheid. De voorspelde indicatie is farmacologisch aaneengesloten met het vastgestelde anxiolytische gebruik van het geneesmiddel, en het PK-profiel van Oxazepam (geen actieve metabolieten, middellange halfwaardetijd) biedt een theoretisch onderscheiden positie binnen de BZD-klasse.
+**Onderbouwing:**
+- Het bewijs is beperkt tot een kleine, oude vergelijkende studie (14 patiënten) en enkele indirecte publicaties. Er zijn geen geregistreerde klinische studies en geen fase 3-onderzoek (L3).
+- De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken. Dat blokkeert de veiligheidsscreening.
+- Slapeloosheid is bovendien al een bekend toepassingsgebied van benzodiazepinen, waarbij afhankelijkheid en onttrekking belangrijke bezwaren zijn.
 
-**Om door te gaan is het volgende nodig:**
-
-- **Duidelijkheid over regelgevingspad**: Bevestig of CBG-MEB-registratie, EMA-wederzijdse erkenning of off-label gebruikspad van toepassing is; verkrijg SmPC (bijvoorbeeld van VK, Duitsland of Frankrijk waar Oxazepam autorisaties heeft).
-- **Volledige veiligheidgegevens**: Verkrijg goedgekeurde SmPC-waarschuwingen, contraïndicaties en geneesmiddelinteractiegegevens via officiële regelgevingsbronnen voorafgaand aan voorschrijven of protocolontwikkeling.
-- **Plan voor risicobeheer van afhankelijkheid en onttrekking**: Elk onderzoeks- of off-label gebruiksprotocol voor slapeloosheid moet een gestructureerd BZD-afbouw- en stopstrategie omvatten.
-- **Specifieke beoordeling voor ouderen**: Gegeven de prominentie van slapeloosheid bij ouderen en de bekende BZD-risico's in deze populatie, wordt een geriatrische risico-batenafweging aanbevolen (bijv. Beers-criteria, STOPP/START).
-- **Vergelijking met goedgekeurde slaapmiddelen**: Plaats Oxazepam naast momenteel geautoriseerde eerstelijnsmiddelen voor slapeloosheid in Nederland (bijv. temazepam, z-geneesmiddelen) om de klinische niche en doelpopulatie te bepalen waar Oxazepam incrementele waarde zou bieden.
-
+**Om verder te gaan is nodig:**
+- De bijsluiter/SmPC van het CBG-MEB (waarschuwingen, contra-indicaties, indicatie) en bevestiging van de huidige beschikbaarheid in Nederland
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Beoordeling van de publicaties op relevantie, met name de studie uit 2018 (PMID 29749262), waarvan de opzet niet volledig bevestigd is
+- Een risico-batenanalyse met aandacht voor afhankelijkheid, onttrekking en gebruik bij ouderen
+- Beoordeling van de ernstige interactie met opioïden en de contra-indicaties uit de kennisgraaf aan de hand van de SmPC
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

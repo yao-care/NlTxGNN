@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan
 parent: Alleen modelvoorspelling (L5)
-nav_order: 80
+nav_order: 185
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,86 +29,135 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Irbesartan: van hypertensie naar maligne hypertensieve nierziekte
+# Irbesartan: Van hypertensie en diabetische nefropathie naar maligne hypertensieve nierziekte
 
 ## Samenvatting in één zin
 
-Irbesartan is een angiotensine II-receptorblokker (ARB) die veel wordt gebruikt voor hypertensie en diabetische nefropathie en werkt door selectief de AT1-receptor te blokkeren om de bloeddruk en nierfunctie te beschermen.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **maligne hypertensieve nierziekte**, met een voorspellingsscore van **99.31%**.
-Er werden echter geen klinische onderzoeken of publicaties gevonden die specifiek gericht zijn op deze indicatie in dit bewijsonderzoek — de voorspelling berust uitsluitend op mechanistische aannemelijkheid.
+Irbesartan is een angiotensine II-type 1-receptorblokker (ARB), oorspronkelijk gebruikt bij hypertensie en diabetische nefropathie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **maligne hypertensieve nierziekte**, maar er zijn **geen klinische studies** en **geen literatuur** voor deze indicatie in de voor dit rapport verzamelde data. Het bewijs is daarmee uitsluitend gebaseerd op een modelvoorspelling.
 
 ---
 
-## Snelle blik
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Hypertensie en diabetische nefropathie (afgeleid van medicijnklasse; geen NL-autorisatiegegevens beschikbaar) |
+|------|------|
+| Oorspronkelijke indicatie | Hypertensie en diabetische nefropathie (afkomstig uit de TxGNN-kennisgraaf; de Nederlandse vergunningstekst bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99.31% |
+| TxGNN-voorspellingsscore | 99,31% |
 | Bewijsniveau | L5 |
-| Status op NL-markt | Niet op de markt (volgens de actuele gegevensverzameling) |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | In afwachting |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
+
+Voor dezelfde voorspelling zijn nog drie andere indicaties beoordeeld; zie het onderdeel "Overige voorspelde indicaties".
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in het Evidence Pack. Op basis van gevestigde farmacologie is irbesartan een angiotensine II-receptorblokker (ARB) die selectief de AT1-receptor antagoniseert, waardoor de downstreameffecten van angiotensine II worden geblokkeerd — inclusief systeemse vasoconrictie, aldosterongestuurde natriumretentie en efferente arteriële vernauwing binnen het glomerulus. Het netto-effect is een verlaging van zowel de systeemse bloeddruk als de glomerulaire capillairdruk, wat progressieve hypertensieve nierschade vertraagt.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Op basis van de bekende informatie is irbesartan een angiotensine II-type 1-receptorblokker. Het is werkzaam bij hypertensie en diabetische nefropathie en blokkeert het renine-angiotensinesysteem (RAS).
 
-Maligne hypertensieve nierziekte deelt precies deze pathologische as: ernstige, ongecontroleerde hypertensie veroorzaakt glomerulaire ischemie, fibrinoïde necrose van arteriolen en snelle verslechtering van de nierfunctie. ARB's hebben aangetoonde renaalbeschermende werking in aangrenzende aandoeningen — de IDNT-studie toonde aan dat irbesartan zelf de progressie van diabetische nefropathie vertraagt, en de RENAAL-studie ondersteunde losartan in een vergelijkbare setting. Maligne hypertensieve nefropathie vertegenwoordigt een versnelde, hogedrukvariant van dit dezelfde mechanisme, wat de uitbreiding van ARB-therapie conceptueel coherent maakt.
+Bij maligne hypertensie met nierbetrokkenheid speelt RAS-activatie een rol bij vaatschade. Blokkade van dit systeem is daarom biologisch plausibel. Deze indicatie overlapt grotendeels met de bestaande indicaties hypertensie en nefropathie. Het is dus eerder een uitbreiding van het bestaande gebruik dan een echte herpositionering.
 
-Dat gezegd hebbende, de bewijszoeking leverde nul klinische onderzoeken en nul publicaties op die irbesartan in maligne hypertensieve nierziekte rechtstreeks bestudeerden. De TxGNN-voorspelling is mechanistisch aannemelijk en algoritmisch zeker van een hoge graad, maar heeft momenteel geen directe empirische ondersteuning.
+Let op: de score van 0,993 is een computationele voorspelling. Het gebruik van ARB's bij maligne hypertensie met mogelijke nierarteriestenose brengt veiligheidsrisico's met zich mee die met deze dataset niet te beoordelen zijn.
 
 ---
 
-## Klinische onderzoeksbewijs
+## Overige voorspelde indicaties
 
-Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd.
+| Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
+|------|------|------|------|------|
+| 2 | Maligne renovasculaire hypertensie | 99,31% | L5 | Hold |
+| 3 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,25% | L5 | Hold |
+| 4 | Pulmonale hypertensie door longziekte en/of hypoxie | 99,25% | L4 | Onderzoeksvraag |
+
+- **Maligne renovasculaire hypertensie:** Renovasculaire hypertensie is RAS-afhankelijk, dus een AT1-blokker is mechanistisch plausibel. ARB's kunnen echter acuut nierletsel uitlokken bij bilaterale nierarteriestenose of stenose bij een solitaire nier. Er zijn geen studies of literatuur.
+- **Pulmonale hypertensie, multifactorieel:** Het RAS draagt bij aan remodellering en vasoconstrictie van de longvaten, maar dit is niet gevalideerd. De heterogene ziektegroep maakt de mechanistische link moeilijk te specificeren. Systemische hypotensie is een mogelijk risico.
+- **Pulmonale hypertensie door longziekte/hypoxie:** Dit is de enige indicatie met literatuur. Zie de onderstaande secties.
+
+---
+
+## Klinisch studiebewijs
+
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd, voor geen van de vier voorspelde indicaties.
 
 ---
 
 ## Literatuurbewijs
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+Onderstaande literatuur betreft de indicatie *pulmonale hypertensie door longziekte en/of hypoxie* (rang 4). Voor de overige indicaties is momenteel geen gerelateerde literatuur beschikbaar. Alle publicaties zijn preklinisch, indirect of review; er zijn geen RCT's.
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [35288835](https://pubmed.ncbi.nlm.nih.gov/35288835/) | 2022 | Review | Inflammopharmacology | Pleiotrope effecten van AT1-receptorantagonisten bij hypoxie door cardiale ischemie |
+| [30356256](https://pubmed.ncbi.nlm.nih.gov/30356256/) | 2018 | In vitro/preklinisch | PLoS One | Irbesartan beschermt cardiomyocyten onder hypoxische stress |
+| [34626328](https://pubmed.ncbi.nlm.nih.gov/34626328/) | 2022 | Dierstudie | Sleep & Breathing | Irbesartan vermindert door slaapapneu veroorzaakte hartapoptose en verhoogt Sirtuin 1 |
+| [17142340](https://pubmed.ncbi.nlm.nih.gov/17142340/) | 2007 | Dierstudie | Am J Physiol Heart Circ Physiol | Irbesartan remt coronaire angiogenese door chronische intermitterende hypoxie bij neonatale ratten |
+| [34147903](https://pubmed.ncbi.nlm.nih.gov/34147903/) | 2021 | Dierstudie | Biomed Pharmacother | Irbesartan verbetert chronische hoogteziekte in een rattenmodel via het cholesterolmetabolisme |
+| [34286497](https://pubmed.ncbi.nlm.nih.gov/34286497/) | 2021 | Niet gespecificeerd (waarschijnlijk dierstudie) | Eur Rev Med Pharmacol Sci | Irbesartan verbetert oxidatieve stress bij ratten met hoogtepulmonale hypertensie via de darmflora |
+| [15526904](https://pubmed.ncbi.nlm.nih.gov/15526904/) | 2004 | Dierstudie (indirect) | Renal Failure | Irbesartan vermindert ciclosporine-nefrotoxiciteit |
+| [30525078](https://pubmed.ncbi.nlm.nih.gov/30525078/) | 2018 | Preklinisch (indirect) | Regenerative Therapy | Voorbehandeling met een ARB hief de gunstige effecten van stamcelsheets na een hartinfarct op |
+
+Drie opgehaalde artikelen (PMID 38621945, 39155928, 25907932) gaan over andere middelen en zijn niet relevant voor irbesartan; ze zijn niet opgenomen.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-In de actuele gegevensverzameling zijn geen CBG-MEB-markttoestemmingen voor irbesartan geregistreerd.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 113084 | Irbesof 300 mg filmomhulde tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
 
-> **Opmerking:** Dit weerspiegelt waarschijnlijk een gegevensgat in plaats van de werkelijke marktsituatie. Irbesartan (Aprovel® en meerdere generieke preparaten) is een goed gevestigde ARB in Nederland. Controleer de actuele autorisatiestatus rechtstreeks via het [CBG-MEB Geneesmiddelenrepertorium](https://www.geneesmiddelenrepertorium.nl/) voordat u regelgevingsconclusies trekt.
+Er is geen geldige handelsvergunning meer voor irbesartan in de voor dit rapport verzamelde CBG-MEB-gegevens.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie. Gezien de doelstellingsindicatie (maligne hypertensieve nierziekte), zijn de volgende voorzorgsmaatregelen op het niveau van de medicijnklasse klinisch relevant en dienen ze te worden bevestigd tegen de actuele SmPC voordat enig gebruik:
+**Contra-indicaties volgens de kennisgraaf (geen productteksten):** de TxGNN-kennisgraaf koppelt irbesartan aan de volgende aandoeningen. Dit is geen officiële SmPC-tekst.
 
-- **Risico op acute nierschade** bij patiënten met bilaterale nierslagaderstenostis of een enkele functionerende nier — AT1-receptorblokking verwijdert de compensatoire efferente arteriële tonus, wat mogelijk leidt tot acuut GFR-instorten (eveneens rechtstreeks relevant voor de 2de indicatie).
-- **Hyperkaliëmie** risico bij patiënten met gevorderde nierinsufficiëntie of gelijktijdig gebruik van kaliumsparende middelen.
-- **Hypotensie na eerste dosis** bij volumetisch uitgeputte patiënten, wat bijzonder relevant is in de acute behandeling van maligne hypertensie.
+- Angio-oedeem (waaronder verworven, erfelijk, niet-histaminerg en RAS-blokker-geïnduceerd)
+- Pancreatitis
+- Systemische lupus erythematodes (ook pediatrisch)
+- Myopathie, spierziekten, rabdomyolyse en familiale periodieke paralyse
+- Kaliumtekort
+- Diabetes mellitus en diabetische ketoacidose
+- Hyperurikemie en jicht
+- Hypotensie
+- Hyperparathyreoïdie en osteïtis fibrosa
+- Hypercalciëmie en nefrocalcinose
+- Fosformetabolismestoornissen
+- Hepatische encefalopathie/coma
+- Neonatale icterus
+- Anurie
+- Nierarterieobstructie
+- Noduleuze fasciitis
+
+**Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden. Een selectie van de eerste 20 is beoordeeld:
+
+- **Ernstig (Major):** kaliumcitraat en kaliumbicarbonaat (risico op hyperkaliëmie).
+- **Matig (Moderate):** onder andere acetylsalicylzuur, corticosteroïden (hydrocortison, dexamethason, betamethason, budesonide, triamcinolon), SGLT2-remmers (canagliflozine, dapagliflozine, empagliflozine), insulines (aspart, degludec), morfine, bupropion, aprepitant, dronabinol en enkele laxeermiddelen/darmvoorbereidingen.
+
+Waarschuwingen uit de bijsluiter zijn niet beschikbaar. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: In afwachting**
+**Beslissing: Hold**
 
-**Motivering:**
-Het TxGNN-model wijst een hoge mechanistische voorspellingsscore toe (99.31%), en de pathofysiologische link tussen AT1-receptorblokking en maligne hypertensieve nierschade is conceptueel goed gefundeerd. De volledige afwezigheid van ondersteunend klinisch bewijs of directe literatuurbewijs plaatst dit echter op bewijsniveau L5 — alleen modelvoorspelling — wat onvoldoende is om naar klinische toepassing over te gaan zonder nader onderzoek.
+**Onderbouwing:**
+- De voorspellingen zijn uitsluitend gebaseerd op het model (L5). Alleen voor pulmonale hypertensie door hypoxie is preklinisch bewijs gevonden (L4, onderzoeksvraag), zonder klinische studies.
+- De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreening).
+- De eerste twee indicaties overlappen met de bestaande indicaties en brengen specifieke risico's mee (nierfunctieverlies bij nierarteriestenose).
 
-**Om door te gaan is het volgende nodig:**
-
-- **Vullen van literatuurgaten:** Gericht onderzoek naar bewijzen op klassebasis (irbesartan, losartan, valsartan) specifiek bij maligne of versnelde hypertensie met betrokkenheid van nieren, om te beoordelen of L5 kan worden opgewaardeerd naar L3 of L4.
-- **MOA-gegevens:** Los het DrugBank-gegevensgat op (DG002) door het DrugBank-API te bevragen voor het volledige mechanisme, doelen en farmacodynische profiel van irbesartan.
-- **NL regelgevingsverificatie:** Bevestig de werkelijke CBG-MEB-autorisatiestatus; de actuele gegevensverzameling registreert 0 licenties, wat in tegenspraak is met de bekende aanwezigheid van irbesartan op de Europese markt.
-- **SmPC-review:** Verkrijg en analyseer de irbesartan SmPC (DG001) om de contra-indicatie en waarschuwingsprofilering af te ronden — momenteel een blokkend gegevensgat voor veiligheidsbeoordeling (DG001, Prioriteit: Blokkend).
-- **Raadpleging van nefrologieexpert:** Beoordeel klinische haalbaarheid in de maligne hypertensiesetting, inclusief of noodlottige bloeddrukmanagementsprotocollen het gebruik van ARB's zouden toestaan of zouden kiezen voor alternatieve middelen (bijv. IV labetalol, nitroprusside) in de acute fase.
-- **Plan voor veiligheidsbewaking:** Bepaal een protocol voor nierfunctie- en kaliummonitoring dat geschikt is voor patiënten met bestaande hypertensieve nierschade.
-
+**Om verder te gaan is het volgende nodig:**
+- Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (download en analyse van de PDF)
+- Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
+- Klinische studies of systematische reviews per voorspelde indicatie
+- Voor pulmonale hypertensie: een gericht preklinisch model of pilotstudie bij patiënten, met aandacht voor systemische hypotensie
+- Voor maligne (renovasculaire) hypertensie: een veiligheidsbeoordeling met nierfunctie- en kaliummonitoring en uitsluiting van bilaterale nierarteriestenose
+- Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -2,7 +2,7 @@
 layout: default
 title: Ciclesonide
 parent: Alleen modelvoorspelling (L5)
-nav_order: 42
+nav_order: 84
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,82 +29,115 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Ciclesonide: van Astma naar Atopisch Eczeem
+# Ciclesonide: Van astma naar atopisch eczeem
 
 ## Samenvatting in één zin
 
-Ciclesonide is een ingeademde/intranasale corticosteroïde (ICS) bedoeld voor de behandeling van astma en allergische rhinitis; in het CBG-MEB-register werden geen Nederlandse handelsvergunningen gevonden.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **atopisch eczeem** met een voorspellingsscore van **99.96%**, maar dit wordt momenteel ondersteund door **0 klinische trials** en **0 publicaties** — een puur modelvoorspelling.
-De mechanistische grondslag is twijfelachtig: de ingeademde/intranasale toedieningsweg van ciclesonide is fundamenteel onverenigbaar met de topicale vereisten voor de behandeling van een huidaandoening, wat suggereert dat dit een vals-positief kan zijn aangestuurd door de generalisatie van de glucocorticoïde-geneesmiddelklasse door het model.
+Ciclesonide is een inhalatiecorticosteroïd dat oorspronkelijk wordt gebruikt bij astma en allergische rinitis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **atopisch eczeem**. Hiervoor zijn **geen klinische studies** en **geen specifieke publicaties** beschikbaar, dus de voorspelling berust alleen op een computermodel.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Astma en allergische rhinitis (ingeademde/intranasale corticosteroïde; geen goedgekeurde indicatietekst beschikbaar uit NL-register) |
+|------|------|
+| Oorspronkelijke indicatie | Astma, allergische astma, allergische rinitis, vasomotore rinitis (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning ontbreekt) |
 | Voorspelde nieuwe indicatie | Atopisch eczeem |
-| TxGNN-voorspellingsscore | 99.96% |
+| TxGNN-voorspellingsscore | 99,96% |
 | Bewijsniveau | L5 |
-| NL-marketstatus | Niet geregistreerd (niet op de markt) |
-| Aantal handelsvergunningen | 0 |
-| Aanbevolen beslissing | Voorbehoud |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in dit Evidence Pack. Op basis van bekende farmacologische informatie is ciclesonide een prodrug ingeademde/intranasale corticosteroïde die lokaal in de luchtwegen wordt omgezet in haar actieve metaboliet des-ciclesonide. Het werkt door binding aan de glucocorticoïde-receptor en onderdrukking van luchtwegontsteking — vermindering van eosinofielenactiviteit, mestceldegranulatie en pro-inflammatoire cytokines waaronder IL-4, IL-5 en IL-13.
+Ciclesonide is een prodrug van een inhalatiecorticosteroïd. Esterasen in het lichaam zetten het om in des-ciclesonide, een agonist van de glucocorticoïdreceptor. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar; bovenstaande beschrijving is gebaseerd op de klasse van het middel.
 
-De voorspelling van het TxGNN-model stamt waarschijnlijk uit een gedeeld biologisch pad: atopisch eczeem (atopische dermatitis, ICD-10: L20) is een ontstekingsziekte van de huid waarin corticosteroïden de hoeksteen van de behandeling vormen. Op klasseniveau is de logica oppervlakkig coherent — glucocorticoïden onderdrukken ontsteking en atopisch eczeem is een ontstekingssituatie aangestuurd door Th2-cytokine-dysregulatie, precies hetzelfde pad dat ciclesonide in de luchtwegen aanvalt.
+Corticosteroïden zijn een gevestigde ontstekingsremmende behandeling bij atopisch eczeem. Er is dus een rationale op klasseniveau. Er zijn echter geen studies of publicaties specifiek voor ciclesonide bij deze aandoening. De hoge score is uitsluitend een computationele voorspelling.
 
-Dit is echter vrijwel zeker een modelartefact in plaats van een echt signaal voor herpositionering. Ciclesonide is specifiek ontworpen voor minimale systemische biologische beschikbaarheid en heeft geen topicale huidformulering. De toedieningsweg (ingeademd of intranasaal) kan de huid niet bereiken waar de ziekte zich voordoet. Bovendien vervullen goed gevestigde topicale corticosteroïden (betamethason, triamcinolone, mometason) al deze therapeutische rol met robuuste bewijzen. De combinatie van nul klinisch bewijs, onverenigbaarheid van toedieningswegen en geen onvervulde medische behoefte maakt deze voorspelling duidelijk een **voorbehoud**.
+Daarnaast beperken de inhalatievorm en de lage systemische blootstelling van ciclesonide de directe vertaling naar huidziekte. Een geschikte toedieningsroute en formulering zijn nog niet beoordeeld.
+
+De lijst met voorspellingen bevat ook "dermatitis, atopic". Dit is in wezen dezelfde aandoening (dubbele ontologietermen) en moet als één indicatie worden behandeld.
+
+### Overige voorspelde indicaties (ter context)
+
+| Rang | Aandoening | Score | Bewijsniveau | Opmerking |
+|------|------|------|------|------|
+| 2 | Sensibilisatie voor 2-hydroxyethylmethacrylaat (HEMA) | 99,76% | L5 | Geen bewijs; behandeling bestaat vooral uit vermijden van het allergeen |
+| 3 | Dermatitis, atopisch | 99,73% | L5 | Duplicaat van atopisch eczeem |
+| 4 | Bronchitis | 99,70% | L4 | Alleen indirecte context via een COPD-richtlijn |
+| 5 | Contactdermatitis | 99,25% | L4 | Het enige artikel is een veiligheidssignaal, geen werkzaamheidsbewijs |
+| 6 | Astma-gerelateerde eigenschappen (gevoeligheid) | 99,13% | L5 | Genetische term, geen op zichzelf staande behandelbare indicatie |
 
 ---
 
-## Bewijs uit klinische trials
+## Bewijs uit klinische studies
 
-Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Bewijs uit literatuur
+## Bewijs uit de literatuur
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+Voor atopisch eczeem is momenteel geen gerelateerde literatuur beschikbaar. Voor andere voorspelde indicaties is de volgende literatuur gevonden (indirect, geen directe ondersteuning van werkzaamheid):
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Richtlijn/review | Basic & Clinical Pharmacology & Toxicology | Finse richtlijn voor diagnose en farmacotherapie van stabiele COPD; biedt alleen indirecte context over inhalatiecorticosteroïden bij chronische obstructieve luchtwegziekte (relevant voor bronchitis) |
+| [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/) | 2012 | Casusbeschrijving | Contact Dermatitis | Systemische allergische dermatitis door ingeademd budesonide, met kruisreactiviteit in plakproeven met ciclesonide; een veiligheidssignaal (relevant voor contactdermatitis) |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Geen handelsvergunningen voor ciclesonide werden gevonden in het Nederlands CBG-MEB-register voor deze gegevensnijding (2026-05-01).
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | Niet vermeld | Niet vermeld (status: doorgehaald) |
 
-> **Opmerking voor reviewers:** Ciclesonide (merknaam Alvesco®) bezit een gecentraliseerde EMA-handelsvergunning die geldig is in de EU/EER. De huidige beschikbaarheid en SmPC-status in Nederland moeten rechtstreeks worden geverifieerd via de [CBG-MEB-productdatabase](https://www.cbg-meb.nl/) of de [EMA-productpagina](https://www.ema.europa.eu/en/medicines/human/EPAR/alvesco). Het ontbreken van een RVG-nummer in deze dataset kan een gegevensverzamelingsgat weerspiegelen in plaats van een ware afwezigheid van handelsvergunning.
+Het enige Nederlandse product is doorgehaald; er is momenteel geen geldige vergunning voor ciclesonide in de verzamelde gegevens.
 
 ---
 
-## Veiligheidsoverkwegingen
+## Veiligheidsoverwegingen
 
-Er waren geen veiligheidsgegevens (belangrijke waarschuwingen, contra-indicaties of geneesmiddelinteracties) beschikbaar in dit Evidence Pack.
+**Contra-indicaties uit de kennisgraaf** (afgeleid uit relaties in de TxGNN-kennisgraaf, niet uit de productinformatie):
+- Herpes-simplex-keratitis
+- Bijnierinsufficiëntie en ziekte van Addison
+- Osteoporose en postmenopauzale osteoporose
+- Schimmelinfecties en dermatofytose
+- Oculaire hypertensie en glaucoom
+- Parasitaire infecties
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie, inclusief effecten van corticosteroïde-klasse zoals HPA-as-onderdrukking, groeivertraging bij kinderen en risico op systemische absorptie bij hoge doses.
+**Geneesmiddelinteracties:** in totaal 63 interacties gevonden. Voorbeelden uit de verzamelde gegevens:
+- **Ernstig (Major):** cladribine
+- **Matig (Moderate):** claritromycine, miconazol, cobicistat, atazanavir, fosamprenavir, amprenavir, boceprevir, ceritinib, fostamatinib, conivaptan, abametapir (cutaan), inhalatie-insuline
+- **Licht (Minor):** formoterol, salbutamol, arformoterol
+- Daarnaast interacties met onbekend niveau, onder meer met omeprazol, lansoprazol, famotidine en prednisolon
+
+Veel van de matige interacties betreffen CYP3A4-remmers; dit is een algemene aanname en niet uit de data bevestigd.
+
+**Aanvullend signaal:** een casusbeschrijving laat kruisreactiviteit voor contactallergie zien tussen budesonide en ciclesonide. Dit weegt tegen gebruik bij huidaandoeningen zonder verdere beoordeling.
+
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL), aangezien de productinformatie van het CBG-MEB niet in de verzamelde data is opgenomen.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Voorbehoud**
+**Beslissing: Hold**
 
-**Grondslag:**
-Ondanks een hoge TxGNN-voorspellingsscore (99.96%) is er geen klinisch of preklinisch bewijs dat ciclesonide ondersteunt voor atopisch eczeem, en — meer kritiek nog — is de ingeademde/intranasale toedieningsweg van ciclesonide mechanisch onverenigbaar met de behandeling van een huidaandoening. Deze voorspelling wordt het best geïnterpreteerd als een vals-positief model voortvloeiend uit de brede associatie tussen de glucocorticoïde-geneesmiddelklasse en ontstekingsziekten.
+**Onderbouwing:**
+- De voorspelling voor atopisch eczeem berust uitsluitend op een model (bewijsniveau L5) zonder klinische studies of specifieke literatuur. De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald.
 
-**Om verder te gaan, zou het volgende nodig zijn:**
-
-- **Beoordeling van routehaalbaarheid**: Zou een topicale dermatologische formulering van ciclesonide kunnen worden ontwikkeld, en zou deze voordelen bieden ten opzichte van gevestigde topicale corticosteroïden?
-- **Oplossing van MOA-gat**: Verkrijg volledige DrugBank-gegevens (momenteel DG002 — Hoge ernst) om het receptorbindingsprofiel formeel te documenteren en de redenering op klasseniveau te bevestigen.
-- **Verificatie van NL/EMA-registratie**: Bevestig de huidige beschikbaarheid op de Nederlandse markt van Alvesco® via directe CBG-MEB-query, omdat de bevinding van nul handelsvergunningen een gegevensgat kan weerspiegelen.
-- **Differentiatieanalyse**: Indien de formuleringhaalbaarheid is bevestigd, is een vergelijkende effectiviteits-/veiligheidsbeoordeling tegen bestaande topicale corticosteroïden vereist voordat verdere investeringen worden gedaan.
-
+**Om verder te gaan is nodig:**
+- Productinformatie van het CBG-MEB (SmPC) voor waarschuwingen en contra-indicaties; dit ontbrak in de verzamelde data en blokkeert de veiligheidsscreening
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Beoordeling van de routecompatibiliteit (een topicale of systemische formulering is nodig voor huidindicaties)
+- Preklinisch of klinisch bewijs voor ciclesonide bij atopisch eczeem
+- Beoordeling van het risico op contactallergie en kruisreactiviteit tussen corticosteroïden
+- Opheldering van de marktstatus in Nederland, aangezien er geen geldige vergunning is
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

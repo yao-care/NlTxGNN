@@ -2,7 +2,7 @@
 layout: default
 title: Tropicamide
 parent: Alleen modelvoorspelling (L5)
-nav_order: 122
+nav_order: 333
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,80 +29,91 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Tropicamide: Van Oogheelkunde (Mydriasis) naar Cauda Equina Syndroom
+# Tropicamide: Van cycloplegie naar caudaequinasyndroom
 
-## Samenvatting in Één Zin
+## Samenvatting in één zin
 
-Tropicamide is een goed gevestigde antimuscarinerge (anticholinerge) stof, vooral gebruikt in de oogheelkunde om pupilverwijding (mydriasis) en tijdelijke accommodatieverlammung (cycloplegia) tijdens oogonderzoeken op te wekken. Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Cauda Equina Syndroom**, hoewel momenteel **0 klinische onderzoeken** en **0 publicaties** deze richting ondersteunen.
+Tropicamide is een kortwerkend oogmiddel dat oorspronkelijk wordt gebruikt voor cycloplegie (het tijdelijk verlammen van de accommodatiespier van het oog) en pupilverwijding bij oogonderzoek.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **caudaequinasyndroom**,
+maar er zijn **0 klinische studies** en **0 publicaties** die deze richting ondersteunen. De voorspelling berust uitsluitend op een modelscore.
 
 ---
 
-## Snel Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke Indicatie | Geen CBG-MEB-registratie bekend; klassiek gebruikt voor oogheelkundige mydriasis/cycloplegia |
-| Voorspelde Nieuwe Indicatie | Cauda Equina Syndroom |
-| TxGNN Voorspellingsscore | 99.53% |
-| Bewijsniveau | L5 (alleen modelvoorspelling, geen ondersteunende studies) |
-| NL-Marktpositie | Niet geregistreerd |
-| Aantal Autorisaties | 0 |
-| Aanbevolen Besluit | Aanhouden |
+|------|------|
+| Oorspronkelijke indicatie | Cycloplegie (volgens de indicatiekoppelingen in de TxGNN-kennisgraaf; de geregistreerde indicatietekst is niet beschikbaar) |
+| Voorspelde nieuwe indicatie | Caudaequinasyndroom |
+| TxGNN-voorspellingsscore | 99,53% |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen ingetrokken registratie |
+| Aantal handelsvergunningen | 1 |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is Deze Voorspelling Redelijk?
+## Waarom is deze voorspelling redelijk?
 
-Op dit moment zijn gedetailleerde mechanisme-van-werking gegevens niet beschikbaar in het Evidence Pack. Op basis van gevestigde farmacologische kennis is tropicamide een competitieve antagonist van muscarinerge acetylcholine-receptoren — met name M3 en M4-subtypen. Bij topicale toediening in het oog ontspant deze antimuscarinerge werking de irissluitspier en ciliairspier, wat mydriasis en cycloplegia teweegbrengt. Buiten de oogheelkunde zijn antimuscarinerge middelen farmacologisch actief in het autonoom zenuwstelsel, waar zij de gladde spiertoon in de blaas, darm en andere viscerale organen beïnvloeden.
+Voor het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens geen uitgewerkte mechanismegegevens beschikbaar. Wel is bekend dat tropicamide een muscarine-antagonist is. Farmacologische gegevens tonen binding aan de muscarinereceptoren M2, M3, M4 en M5. De M3-receptor in het oog zorgt voor pupilverwijding en cycloplegie.
 
-Cauda equina syndroom (CES) is een ernstige neurologische noodsituatie veroorzaakt door compressie van het lumbosacraal zenuwortelwantje. Een kenmerkend kenmerk van CES is verstoring van de autonome banen die mictie (urinelozing), defecatie en geslachtsfunctie reguleren — gebieden waar muscarinerge receptormodulatie juist farmacologisch relevant is. Anticholinerge geneesmiddelen zijn al gevestigd bij het beheer van neurogene blaasdisfunctie, een frequent gevolg van CES. TxGNN kan daarom een mechanistische overlap detecteren tussen het receptorprofiel van tropicamide en de autonome dysfunctiecomponent van CES, eerder dan een direct effect op zenuwortelcompressie zelf.
+De relatie met het caudaequinasyndroom is indirect. Anticholinerge middelen kunnen in theorie blaasfunctiestoornissen (overactiviteit van de blaasspier) verminderen, die na dit syndroom kunnen optreden. Dit is een afleiding uit de modelvoorspelling en algemene antimuscarine-farmacologie, niet uit studiegegevens.
 
-Dat gezegd hebbende, CES is primair een structurele/chirurgische aandoening: zenuworteldecompressie blijft de hoeksteen van de behandeling. Het nut van tropicamide zou op zijn best de symptomatische autonome complicaties aanpakken in plaats van de onderliggende pathologie. De hoge TxGNN-score weerspiegelt waarschijnlijk een graph-neighbourhood-associatie door gedeelde autonome-pathway-knooppunten. Zonder klinische bewijzen moet deze voorspelling alleen als een hypothesis-generatief signaal worden behandeld.
+Er zijn belangrijke kanttekeningen:
+- Het caudaequinasyndroom is een chirurgisch spoedgeval (zenuwwortelcompressie). De hoofdbehandeling is decompressie. Een anticholinergicum kan hooguit secundaire urinewegklachten behandelen, niet de onderliggende aandoening.
+- Tropicamide is een oogmiddel met minimale systemische blootstelling. Het is twijfelachtig of therapeutische systemische concentraties haalbaar zijn.
 
----
-
-## Bewijsvoering uit Klinische Onderzoeken
-
-Op dit moment zijn geen gerelateerde klinische onderzoeken geregistreerd.
-
----
-
-## Bewijsvoering uit Literatuur
-
-Op dit moment is geen gerelateerde literatuur beschikbaar.
+Ter volledigheid voorspelde het model ook twee andere indicaties, eveneens zonder enig bewijs (L5, Hold):
+- **Neurogene blaas** (score 99,13%; de aandoening is in de ontologie als "obsoleet" gemarkeerd, wat wijst op een koppelingsprobleem dat eerst moet worden opgelost). Antimuscarinica zoals oxybutynine en tolterodine zijn hier al beschikbaar.
+- **Prikkelbare darmsyndroom** (score 99,12%). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.
 
 ---
 
-## Nederlands Marktinformatie
+## Klinisch trialbewijs
 
-Tropicamide heeft momenteel geen verkoopvergunningen van de CBG-MEB (College ter Beoordeling van Geneesmiddelen) en is volgens dit Evidence Pack niet commercieel verkrijgbaar op de Nederlandse markt. Er zijn geen RVG-nummers geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
-> **Opmerking voor beoordelaars:** Oogheelkundige tropicamideoplossingen zijn ruim verspreid geautoriseerd in EU-lidstaten onder verschillende merknamen. Een gerichte zoeken in het CBG-MEB-register wordt aanbevolen om te verifiëren of er wederzijdse erkennings- of gedecentraliseerde procedureautorisaties bestaan die mogelijk nog niet in deze dataset zijn vastgelegd.
+---
+
+## Literatuurbewijs
+
+Er is momenteel geen gerelateerde literatuur beschikbaar.
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | Oogdruppels (volgens productnaam) | Niet beschikbaar |
+
+Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van Productkenmerken) voor veiligheidsinformatie. Belangrijke waarschuwingen, contraïndicaties en geneesmiddel-interactiegegevens zijn niet beschikbaar in het huidige Evidence Pack en moeten worden opgehaald uit het CBG-MEB/EMA-productdossier of TFDA SmPC PDF voordat deze kandidaat naar een formele veiligheidscreeningsfase kan gaan.
+- **Contra-indicaties volgens de kennisgraaf (geen productteksten):** hypertensie, openhoekglaucoom, hoekafsluitingsglaucoom (gesloten kamerhoek), oculaire hypertensie, diabetes mellitus, diabetische ketoacidose, plotselinge hartstilstand, geleidingsstoornissen van het hart, hyperthyreoïdie (inclusief ziekte van Graves en thyreotoxicose), myocardischemie en coronaire hartziekte. Deze koppelingen zijn afkomstig uit een kennisgraaf en moeten aan de officiële SmPC worden getoetst.
+- **Geneesmiddelinteracties:** 10 interacties zijn gevonden in DDInter, zonder ernstniveau: atropine, kaliumchloride, vancomycine, simvastatine, prednisolon, famotidine, warfarine, lidocaïne, fluconazol en brimonidine. Daarnaast zijn er bindingen aan de muscarinereceptoren M2, M3, M4 en M5.
+- **Verwachte systemische anticholinerge effecten bij hogere dosering:** droge mond, obstipatie, tachycardie en urineretentie.
+
+Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
-## Conclusie en Vervolgstappen
+## Conclusie en vervolgstappen
 
-**Besluit: Aanhouden**
+**Beslissing: Hold**
 
-**Motivering:**
-De bewijsbasis bevindt zich op niveau L5 — de laagste schaal, bestaande uit alleen een TxGNN-modelvoorspelling zonder ondersteunende klinische onderzoeken of gepubliceerde literatuur. Gecombineerd met nul Nederlandse marktautorisaties en onopgeloste gegevenslacunes in zowel werkingsmechanisme als veiligheidsgegevens, is er onvoldoende informatie om enige verdere aanbeveling in dit stadium te ondersteunen.
+**Onderbouwing:**
+- De voorspelling berust alleen op een modelscore (L5) zonder klinische studies of literatuur. De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.
 
-**Om voort te gaan, is het volgende nodig:**
-
-- **MOA-verificatie:** Haal volledige DrugBank-vermelding (DB00809) op om receptordoelen, farmacodynamica en bekende off-target effecten te bevestigen
-- **SmPC-beoordeling:** Download en bestudeer de relevante SmPC (EMA of nationale CBG-MEB) voor belangrijke waarschuwingen, contraïndicaties en voorzorgsmaatregelen voor speciale populaties
-- **DDI-beoordeling:** Doorzoek drug-interactiedatabases opnieuw zodra SmPC-gegevens beschikbaar zijn
-- **Indicatieverduidelijking:** Verduidelijk of de TxGNN-voorspelling gericht is op CES zelf, of op zijn autonome gevolgen (bijv. neurogene blaas); laatstgenoemde heeft veel sterker farmacologische aannemelijkheid
-- **Gericht literatuuronderzoek:** Verbreed PubMed-query voorbij exacte ziektematching — zoeken naar "tropicamide autonomic neuropathy", "anticholinergic neurogenic bladder cauda equina" en gerelateerde termen
-- **NL-marktstatusverificatie:** Bevestig via het openbare CBG-MEB-register of oogheelkundige tropicamideproducten een RVG-nummer hebben onder wederzijdse erkenningsprocedures
-
+**Om verder te gaan is nodig:**
+- De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB (ontbrekend, blokkerend voor de veiligheidsscreening)
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Preklinisch of farmacokinetisch bewijs dat voldoende systemische blootstelling haalbaar is
+- Oplossing van het ontologieprobleem rond "obsolete neurogenic bladder"
+- Een vergelijking met bestaande standaardbehandelingen en een beoordeling van de route van toediening (nu niet beoordeeld)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

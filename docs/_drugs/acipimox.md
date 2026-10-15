@@ -2,7 +2,7 @@
 layout: default
 title: Acipimox
 parent: Alleen modelvoorspelling (L5)
-nav_order: 17
+nav_order: 18
 evidence_level: L5
 indication_count: 0
 ---

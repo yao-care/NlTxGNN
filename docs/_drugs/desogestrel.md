@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desogestrel
-parent: Sterk bewijs (L1-L2)
-nav_order: 50
-evidence_level: L2
+parent: Alleen modelvoorspelling (L5)
+nav_order: 107
+evidence_level: L5
 indication_count: 10
 ---
 
 # Desogestrel
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,113 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Desogestrel: Van hormonale anticonceptie naar amenorroe
+# Desogestrel: Van anticonceptie naar amenorroe
 
 ## Samenvatting in één zin
 
-Desogestrel is een progestageen van de derde generatie, veel gebruikt als component van gecombineerde orale anticonceptiva (COC) en als progestageen-alleen pil (POP) voor hormonale anticonceptie.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **amenorroe**,
-met **2 klinische proeven** en **16 publicaties** die momenteel deze richting ondersteunen.
+Voor desogestrel is in de voor dit rapport verzamelde gegevens geen geregistreerde oorspronkelijke indicatie vastgelegd. Het is een progestageen dat in de praktijk wordt gebruikt voor hormonale anticonceptie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **amenorroe**, met **1 klinische studie** (waarvan niet is vastgesteld dat desogestrel daarin het onderzochte middel was) en **11 publicaties** die dit richting slechts indirect ondersteunen.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Geen NL-registratie bekend; bekend klinisch gebruik als hormonaal anticonceptivum |
+|------|------|
+| Oorspronkelijke indicatie | Niet vastgelegd in de vergunningsgegevens (de vergunningstekst is leeg). Uit de literatuur blijkt gebruik als orale anticonceptie |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99.96% |
-| Bewijsniveau | L2 |
-| Status op de Nederlandse markt | Niet op de markt gebracht |
-| Aantal autorisaties | 0 |
-| Aanbevolen besluit | Doorgaan met voorzorgsmaatregelen |
+| TxGNN-voorspellingsscore | 99,96% |
+| Bewijsniveau | L2 volgens de scoring in de gegevens. Zie de kanttekening hieronder: het directe bewijs voor desogestrel is zwakker |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen beslissing | Hold (voorlopig niet verder; eerst aanvullend onderzoek) |
+
+**Kanttekening bewijsniveau:** de enige Phase 3-studie is beoordeeld met relevantiegraad C en toont niet aan dat desogestrel het onderzochte middel was. Het directe bewijs komt daarmee niet verder dan L3-L4 (observationeel onderzoek en mechanistische literatuur).
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Momenteel is gedetailleerde data over het werkingsmechanisme niet beschikbaar van de DrugBank-entry. Op basis van bekende farmacologische informatie is Desogestrel een progestageen van de derde generatie dat de hypothalamo-hypofysair-ovariële as (HHOA) onderdrukt, het endometrium stabiliseert en de LH/FSH-pulsfrequentie moduleert. Dit werkingsmechanisme is direct relevant voor de regulatie van de menstruele cyclus en het management van amenorroe — inclusief functionele hypothalamische amenorroe (FHA) en anovulatoire toestanden geassocieerd met hyperandrogenie.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van bekende informatie is desogestrel een progestageen dat de afgifte van gonadotrofines onderdrukt. In combinatie met ethinylestradiol levert het exogene oestrogenen en progestagenen.
 
-Klinische onderzoeken hebben aangetoond dat COC-formuleringen met Desogestrel de menstruele cyclus herstellen en reguleren bij adolescentmeisjes met oligomenorroe en ovariële hyperandrogenie (PMID 2956138, 2976224). Farmacodynamische onderzoeken (PMID 3161265) evalueerden specifiek de lage androgenie van Desogestrel in de context van aandoeningen zoals PCOS, die vaak gepaard gaat met amenorroe. De verlaging van LH, FSH, androstenedion en testosteron gezien met Desogestrel-gebaseerde COC-gebruik is mechanistisch consistent met cyclusherstel.
+Bij hypothalame oligo-amenorroe (bijvoorbeeld door energietekort bij sporters) kan dit onttrekkingsbloedingen herstellen en de botgezondheid ondersteunen. Een cohortstudie bij jonge vrouwen met hypothalame oligoamenorroe die orale anticonceptiva kregen, past bij deze redenering. Het verband is biologisch aannemelijk.
 
-De voltooide Fase 3-proef NCT00946192 onderzoekt rechtstreeks de vetgemedieerde modulatie van reproductieve en endocriene functie bij jonge atleten met FHA — een populatie waarbij progestageen-interventie centraal staat in het proefontwerp. Samen bieden het HHOA-regelende mechanisme, de klinische gegevens in anovulatoire populaties en deze Fase 3-bewijsbasis een coherente en plausibele rationale voor de TxGNN-voorspelling.
-
----
-
-## Klinische proefgegevens
-
-| Proefnummer | Fase | Status | Inschrijving | Voornaamste bevindingen |
-|-------------|------|--------|--------------|------------------------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fase 3 | Voltooid | 121 | Onderzoekt vetgemedieerde modulatie van reproductieve en endocriene functie bij jonge atleten die gestopt zijn met menstrueren; evalueert of transdermaal of oraal oestrogeen de botdichtheid herstelt bij oestrogeendeficiënte atleten met amenorroe — progestageen-interventieontwerp is sterk afgestemd op het HHOA-modulerend mechanisme van Desogestrel |
-| [NCT01588873](https://clinicaltrials.gov/study/NCT01588873) | Fase 4 | Onbekend | 42 | Vergelijkt effecten van 59-weken orale COC versus hormonale vaginale ring op androgeen-afscheiding, insuline/glucose-metabolisme, lipidenprofiel, SHBG en hs-CRP bij vrouwen met PCOS — behandelt indirect menstruele cyclus-regelingsendpoints; onbekende proefstatus beperkt bewijsbetrouwbaarheid |
+Amenorroe is echter een symptoom. Hormonale behandeling kan de onderliggende oorzaak maskeren, zoals een energietekort bij sporters. Bovendien is niet onderzocht welke rol desogestrel zelf speelt in vergelijking met de combinatie met oestrogeen.
 
 ---
 
-## Literatuurgegevens
+## Bewijs uit klinische studies
 
-| PMID | Jaar | Type | Tijdschrift | Voornaamste bevindingen |
-|------|------|------|-------------|------------------------|
-| [35261299](https://pubmed.ncbi.nlm.nih.gov/35261299/) | 2022 | Prospectieve cohortstudie | Gynecological Endocrinology | Desogestrel 75 µg POP toont slechte cyclus­controle inclusief amenorroe bij cardiovasculair risico vrouwen; vergelijkt bloedingsprofielen versus drospirenoon-alleen pil over negen cycli |
-| [21249657](https://pubmed.ncbi.nlm.nih.gov/21249657/) | 2011 | Cochrane systematische review (Update) | Cochrane Database | Bijgewerkte SR die bloedingspatroonveranderingen onderzoekt — inclusief amenorroe-risico — met 20 µg versus >20 µg oestrogeen COC's; behandelt rechtstreeks cyclus­controle in desogestrel-bevattende formuleringen |
-| [18843653](https://pubmed.ncbi.nlm.nih.gov/18843653/) | 2008 | Cochrane systematische review | Cochrane Database | Systematische review die de impact van progressieve verlaging van oestrogeendosis in COC's op anticonceptieve effectiviteit, veiligheid en bloedingspatronen inclusief amenorroe beoordeelt |
-| [8218004](https://pubmed.ncbi.nlm.nih.gov/8218004/) | 1993 | Vergelijkende RCT | Br J Obstet Gynaecol | Directe vergelijking van desogestrel 150 µg met 20 µg versus 30 µg ethinylöestradiol voor cyclus­controle, betrouwbaarheid en bijwerkingen; direct relevant voor menstruele regulatie met Desogestrel |
-| [3161265](https://pubmed.ncbi.nlm.nih.gov/3161265/) | 1985 | Farmacodynamische studie | Acta Obstet Gynecol Scand Suppl | Evalueert androgenie van gestagenen met specifieke focus op Desogestrel; merkt op PCOS-achtige presentatie met amenorroe en karakteriseert Desogestrels endocriene modulatie via radioimmunoassay |
-| [11725730](https://pubmed.ncbi.nlm.nih.gov/11725730/) | 2001 | Klinische studie | J Reprod Med | Evalueert of afnemende oestrogeendoses in OC's botverlies beïnvloeden bij hypothalamische amenorroe — behandelt rechtstreeks OC-gebruik in amenorroeïsche populatie |
-| [8447356](https://pubmed.ncbi.nlm.nih.gov/8447356/) | 1993 | Klinische observatie | Am J Obstet Gynecol | Beoordeelt verdraaagzaamheid van desogestrel/ethinylöestradiol COC; benadrukt niet-anticonceptieve voordelen inclusief vermindering van dysmenorroe en verbetering van menstruele cyclus­regelmatigheid |
-| [23221134](https://pubmed.ncbi.nlm.nih.gov/23221134/) | 2012 | Klinische studie | Georgian Med News | Onderzoekt pathogenetisch management van menstruele stoornissen van centrale oorsprong inclusief oligomenorroe en amenorroe bij 159 onvruchtbare vrouwen; vergelijkt elektroen­cefalo­grafie-geleide versus standaard hormonale therapie |
-| [1436906](https://pubmed.ncbi.nlm.nih.gov/1436906/) | 1992 | Narratieve review | Obstet Gynecol Surv | Overzicht van desogestrel als progestageen van de derde generatie afgeleid van levonorgestrel; beoordeelt effectiviteit, farmacokinetiek en cyclus­controle-eigenschappen bij lagere doseringen |
-| [8324604](https://pubmed.ncbi.nlm.nih.gov/8324604/) | 1993 | Narratieve review | Br Med Bull | Beoordeelt COC-veiligheid en effectiviteit met lessen uit grote cohortstudies en case-control studies; bespreekt niet-anticonceptieve voordelen inclusief menstruele cyclus­regulatie |
+| Studienummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
+|---------|------|------|------|---------|
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fase 3 | Afgerond | 121 | Onderzoek naar veranderingen in lichaamssamenstelling en hormonen bij jonge sportvrouwen met en zonder menstruatie, en naar het effect van transdermaal of oraal oestrogeen op botdichtheid. Niet aangetoond dat desogestrel het onderzochte middel was; alleen contextueel relevant |
 
 ---
 
-## Nederlandse marktinformatie
+## Bewijs uit de literatuur
 
-Desogestrel heeft momenteel **geen handelsautorisaties van CBG-MEB** in Nederland. Er zijn geen geregistreerde producten of goedgekeurde indicaties in dit dataset opgenomen.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [11725730](https://pubmed.ncbi.nlm.nih.gov/11725730/) | 2001 | Cohortstudie | J Reprod Med | Botmineraaldichtheid bij jonge vrouwen met hypothalame oligoamenorroe die orale anticonceptiva met afnemende doses ethinylestradiol gebruikten |
+| [35261299](https://pubmed.ncbi.nlm.nih.gov/35261299/) | 2022 | Cohortstudie | Gynecol Endocrinol | Bloedingspatroon van een drospirenon-pil versus desogestrel 75 µg; desogestrel geeft een slechte cyclusregulatie, inclusief amenorroe |
+| [3161265](https://pubmed.ncbi.nlm.nih.gov/3161265/) | 1985 | Farmacodynamische studie | Acta Obstet Gynecol Scand Suppl | Androgene werking van progestagenen, met nadruk op desogestrel, alleen en met ethinylestradiol |
+| [8218004](https://pubmed.ncbi.nlm.nih.gov/8218004/) | 1993 | Vergelijkende klinische studie | Br J Obstet Gynaecol | Vergelijking van twee pillen met 150 µg desogestrel en 20 of 30 µg ethinylestradiol wat betreft betrouwbaarheid, cyclusregulatie en bijwerkingen |
+| [8447356](https://pubmed.ncbi.nlm.nih.gov/8447356/) | 1993 | Tolerantiestudie | Am J Obstet Gynecol | Verdraagbaarheid van desogestrel/ethinylestradiol; niet-anticonceptieve gezondheidsvoordelen van orale anticonceptiva |
+| [1436906](https://pubmed.ncbi.nlm.nih.gov/1436906/) | 1992 | Review | Obstet Gynecol Surv | Overzicht van pillen met gestodeen, norgestimaat en desogestrel |
+| [8324604](https://pubmed.ncbi.nlm.nih.gov/8324604/) | 1993 | Review | Br Med Bull | Aanvaardbaarheid en effectief gebruik van gecombineerde orale anticonceptiva |
 
-> **Regelgevingsopmerking**: Desogestrel-bevattende producten (bijv. Cerazette® 75 µg progestageen-alleen pil, Mercilon®/Marvelon® gecombineerde OC) zijn wijd geautoriseerd in lidstaten van de Europese Unie, via EMA centraal procedure of nationale registratie. De huidige registratiestatus voor Nederland dient rechtstreeks bij CBG-MEB te worden geverifieerd voordat enige klinische toepassing plaatsvindt.
+De overige gevonden publicaties zijn algemene overzichten van hormonale anticonceptie of niet specifiek voor amenorroe en zijn hier niet opgenomen.
 
 ---
 
-## Veiligheidsconsideraties
+## Marktinformatie Nederland
 
-Raadpleeg de SmPC (Samenvatting van de productkenmerken) voor veiligheidsinformatie.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten (status: ingetrokken) | Niet vermeld | Niet vermeld |
+
+Er is bij het CBG-MEB één vergunning bekend, en die is ingetrokken. Er is dus geen geldige vergunning voor desogestrel als enkelvoudig product in de gegevens.
+
+---
+
+## Veiligheidsoverwegingen
+
+**Contra-indicaties uit de kennisgraaf (geen productteksten):** de TxGNN-kennisgraaf (PrimeKG) koppelt desogestrel aan de volgende aandoeningen als mogelijke contra-indicatie. Dit zijn modelgegevens en geen bijsluitertekst:
+- Cardiovasculair/metabool: hypertensie, diabetes mellitus, diabetische ketoacidose, hyperglykemie, hypertriglyceridemie, tromboflebitis
+- Lever en galblaas: leverziekte, galblaasziekte
+- Porfyrie: erfelijke porfyrie, porfyrinestofwisselingsziekten
+- Neurologisch en psychisch: epilepsie, angststoornis, neurotische stoornis, dysthyme stoornis
+- Endocrien en mineralen: hypothyreoïdie (inclusief myxoedeem en congenitale vorm), hypercalciëmie, nefrocalcinose, fosfaatstofwisselingsziekten
+- Overig: systemische lupus erythematodes, astma (inclusief allergisch en intrinsiek), borstcarcinoom bij vrouwen, uterus-leiomyoom
+
+**Geneesmiddelinteracties:** er zijn 43 interacties gevonden, allemaal van matig niveau (bron: DDInter). Voorbeelden:
+- Bloedglucoseverlagende middelen: metformine, insulines (aspart, degludec, detemir, glulisine, lispro, humaan), liraglutide, lixisenatide, albiglutide, alogliptine, linagliptine, dapagliflozine, ertugliflozine, nateglinide, rosiglitazon
+- Overig: aprepitant, glycerolfenylbutyraat, metreleptine
+
+**Aandachtspunt:** bij combinatiepillen met een derde-generatie progestageen is er een verhoogd risico op veneuze trombo-embolie. Zie hiervoor ook de literatuur (PMID 10652979).
+
+Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC en bijsluiter van het CBG-MEB; die gegevens ontbreken in de data voor dit rapport.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Doorgaan met voorzorgsmaatregelen**
+**Beslissing: Hold**
 
-**Rationale:**
-De TxGNN-voorspelling voor Desogestrel bij amenorroe heeft sterke mechanistische plausibiliteit — de HHOA-onderdrukkende en anti-androgeen progestageen-activiteit van het geneesmiddel richt zich rechtstreeks op de endocriene dysregulatie die ten grondslag ligt aan de meeste amenorroe-subtypen. Het L2-bewijsniveau is verankerd door één voltooide Fase 3-proef (NCT00946192, n=121), ondersteund door een Cochrane systematische review, een vergelijkende RCT en farmacodynamische onderzoeken. Het merendeel van het klinische bewijs is echter afkomstig van Desogestrel gebruikt binnen een COC (gecombineerd met ethinylöestradiol) in plaats van als stand-alone POP, en Desogestrel is momenteel niet geregistreerd in Nederland.
+**Onderbouwing:**
+- Het mechanisme is aannemelijk, maar de enige Phase 3-studie toont niet aan dat desogestrel is onderzocht. Het overige bewijs bestaat uit kleine, oudere of indirecte studies.
+- In Nederland is geen geldige vergunning voor desogestrel als enkelvoudig product, en de veiligheidsgegevens uit de officiële productinformatie ontbreken.
 
-**Om door te gaan is het volgende nodig:**
-- Huidige CBG-MEB / EMA-registratiestatus voor Desogestrelproducten in Nederland verifiëren (Cerazette®, Mercilon®, Marvelon®) en relevante SmPC's verkrijgen
-- DrugBank MOA-gegevens ophalen (herstel volgens DG002) ter aanvulling van mechanistische analyse en ter ondersteuning van regelgevingsindiening
-- TFDA/EMA SmPC verkrijgen om contra-indicaties en belangrijke waarschuwingen uit te extraheren (herstel volgens DG001)
-- Verduidelijken of het herbestemmingsdoel Desogestrel als monotherapie (POP 75 µg) of in combinatie (COC) is, gezien het huidige bewijs vooral op COC gebaseerd is
-- Een prospectieve studie of register ontwerpen die specifiek amenorroe-eindpunten met Desogestrel-monotherapie onderzoekt, aangezien momenteel geen dergelijke gerichte proef bestaat
-- De regelgevingsroute voor label-uitbreiding ter inclusie van amenorroe als nieuwe indicatie beoordelen, in coördinatie met CBG-MEB
+**Om verder te gaan is nodig:**
+- De bijsluiter/SmPC van het CBG-MEB downloaden en analyseren op waarschuwingen en contra-indicaties
+- Gegevens over het werkingsmechanisme ophalen uit DrugBank
+- Nagaan of NCT00946192 daadwerkelijk desogestrel bevat, en zo nodig gericht klinisch onderzoek opzetten
+- Onderscheid maken tussen desogestrel alleen en desogestrel met ethinylestradiol
+- Een differentiaaldiagnose en oorzaakgerichte aanpak vastleggen (bijvoorbeeld energietekort bij sporters)
+- Een veiligheidsplan opstellen voor trombo-embolierisico en voor interacties met bloedglucoseverlagende middelen
 
+---
+
+*Opmerking over andere voorspellingen:* de overige voorspelde indicaties hebben minder bewijs. Bij acne is er een afgeronde Fase 4-studie (NCT01466673, n=201, norgestimaat-pil als hoofdonderzochte middel, desogestrel als vergelijker) en enkele vergelijkende studies; die indicatie komt in de gegevens uit op "Proceed with Guardrails", maar is in dit rapport niet uitgewerkt. De overige voorspellingen (o.a. borstaandoeningen, primaire ovariële insufficiëntie) hebben alleen modelondersteuning of vrijwel geen bewijs en staan op Hold.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

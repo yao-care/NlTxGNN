@@ -2,7 +2,7 @@
 layout: default
 title: Sorbitol
 parent: Alleen modelvoorspelling (L5)
-nav_order: 112
+nav_order: 302
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,78 +29,84 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Sorbitol: van osmotisch middel tot trainingsinduceerde maligne hyperthermie
+# Sorbitol: Van onbekende oorspronkelijke indicatie naar inspanningsgebonden maligne hyperthermie
 
 ## Samenvatting in één zin
 
-Sorbitol is een suiker-alcohol die veel wordt gebruikt als osmotisch laxativum, vochtbinder en farmaceutische hulpstof; er is geen formeel goedgekeurde indicatie geregistreerd in de Nederlandse regelgevingsdatabase.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **trainingsinduceerde maligne hyperthermie**,
-echter met momenteel **0 klinische onderzoeken** en **0 publicaties** die deze richting ondersteunen, bestaat de bewijsbasis volledig uit een computationele modelvoorspelling.
+Sorbitol is een suikeralcohol die als osmotisch middel wordt gebruikt. Voor dit middel is in de voor dit rapport verzamelde gegevens geen oorspronkelijke indicatie vastgelegd. Het TxGNN-model voorspelt dat sorbitol mogelijk werkzaam is bij **inspanningsgebonden maligne hyperthermie**, maar er zijn **geen klinische studies** en **geen publicaties** die deze richting ondersteunen.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Geen goedgekeurde indicatie geregistreerd |
-| Voorspelde nieuwe indicatie | Trainingsinduceerde maligne hyperthermie |
-| TxGNN-voorspellingsscore | 99.40% |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de enige registratie bevat geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Inspanningsgebonden maligne hyperthermie |
+| TxGNN-voorspellingsscore | 99,40% |
 | Bewijsniveau | L5 |
-| Status op NL-markt | Niet geregistreerd |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | Afwachting |
+| Marktstatus in Nederland | Alleen doorgehaalde registratie |
+| Aantal registraties | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling plausibel?
 
-Momenteel zijn gedetailleerde werkingsmechanisme-gegevens voor Sorbitol niet beschikbaar in dit bewijspakket. Op basis van vastgestelde farmacologie is Sorbitol een osmotisch suiker-alcohol dat zijn primaire therapeutische effect uitoefent door osmotische drukregulering in het gastro-intestinale tractus. Het metabole traject ervan — Sorbitol → Fructose → glycolyse — is goed gekarakteriseerd in intermediair metabolisme, maar heeft geen bekende directe farmacologische relevantie voor skeletspierpatofysiologie.
+Voor de werkingsmechanismen van sorbitol zijn in de voor dit rapport verzamelde gegevens geen details beschikbaar. Sorbitol is bekend als suikeralcohol dat wordt gebruikt als osmotisch middel en hulpstof, bijvoorbeeld in klysma's.
 
-Trainingsinduceerde maligne hyperthermie is een zeldzame, potentieel levensbedreigende aandoening veroorzaakt door gain-of-function mutaties in het *RYR1*-gen, dat codeert voor de ryanodine-receptor die de calciumafgifte uit het sarcoplasmatisch reticulum van skeletspier regelt. Tijdens een acuut episode leidt ongecontroleerde intracellulair calciumuitstroom tot aanhoudende spiercontractie, ernstige hyperthermie en metabolische acidose. De gevestigde eerstelijnbehandeling is dantroleen, dat direct RYR1-gemedieerde calciumafgifte onderdrukt — een volledig ander mechanisme dan osmotische modulatie.
-
-Er is geen erkende mechanistische brug tussen Sorbitols osmotische eigenschappen en RYR1-gemedieerde calciumdysregulatie. De hoge TxGNN-score (0.994) weerspiegelt waarschijnlijk meest indirecte nabijheid van knooppunten in de kennisgraaf via gedeelde paden in het skeletspiermetabolisme, in plaats van een echte geneesmiddel-ziekte farmacologische verbinding. Deze voorspelling wordt beoordeeld als waarschijnlijk computationeel vals-positief zonder huidige klinische translationele basis, en mag niet worden voortgezet zonder preklinisch mechanistisch bewijs.
+Een onderbouwd mechanistisch verband met de voorspelde indicatie ontbreekt. Maligne hyperthermie en inspanningsgebonden hitteziekte worden vooral gekenmerkt door ontregelde calciumafgifte in de skeletspier (via RYR1) en hypermetabolisme. Sorbitol heeft hierop geen bekende werking. Een eventueel verband, bijvoorbeeld via osmotische effecten of vochtverschuivingen, is speculatief en wordt door de beschikbare gegevens niet ondersteund. De hoge TxGNN-score (0,994) is uitsluitend een voorspelling op basis van een kennisgraaf en geen bewijs van werkzaamheid.
 
 ---
 
-## Bewijs uit klinische onderzoeken
+## Klinisch trialbewijs
 
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Bewijzen uit literatuur
+## Literatuurbewijs
 
-Momenteel is geen gerelateerde literatuur beschikbaar.
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Sorbitol beschikt momenteel over geen marketingvergunning geregistreerd bij de **CBG-MEB** (College ter Beoordeling van Geneesmiddelen) in Nederland. Er zijn geen RVG-genummerde producten geregistreerd. Mocht toekomstig bewijs regelgevingsoverweging rechtvaardigen, dan zou een nieuwe vergunningsaanvraag of procedure voor uitbreiding van indicatie van het begin af aan nodig zijn.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 107703//05069 | Microlax, klysma | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+
+Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald. Er is dus geen geldige registratie in Nederland.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Raadpleeg alstublieft de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Aangezien momenteel geen producten in Nederland zijn geregistreerd, zou de relevante referentiedocumentatie afkomstig moeten zijn uit vergelijkbare jurisdicties (bijv. EMA-geautoriseerde producten die Sorbitol als werkzame stof bevatten).
+- **Contra-indicaties volgens de kennisgraaf**: de TxGNN-kennisgraaf (PrimeKG) bevat een contra-indicatie bij **actieve maagzweer**. Dit komt uit relaties in de kennisgraaf en niet uit de tekst van de bijsluiter.
+- **Geneesmiddelinteracties** (2 gevonden, bron: DDInter):
+
+| Interagerend middel | Niveau |
+|------|------|
+| Tolevamer | Ernstig (Major) |
+| Lamivudine | Matig (Moderate) |
+
+Voor overige veiligheidsinformatie, waaronder waarschuwingen en contra-indicaties, raadpleegt u de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Afwachting**
+**Beslissing: Hold**
 
-**Rationale:**
-Deze repositioneringskandidat wordt geclassificeerd als **L5** (alleen modelvoorspelling) — er zijn geen geregistreerde klinische onderzoeken, geen gepubliceerde literatuur, en geen vastgesteld mechanistisch verband tussen Sorbitols osmotische farmacologie en de RYR1-gedreven calciumdysregulatie die aan trainingsinduceerde maligne hyperthermie ten grondslag ligt. De voorspelling wordt beoordeeld als waarschijnlijk vals-positief afkomstig uit kennisgraafanalyse.
+**Onderbouwing:**
+- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5). Er zijn geen klinische studies of publicaties, het mechanisme is onbekend en een biologisch verband met maligne hyperthermie is niet aannemelijk. Bovendien is de enige Nederlandse registratie doorgehaald.
 
-**Voor voortgang is het volgende nodig:**
-- Formele werkingsmechanisme-documentatie voor Sorbitol ophalen via DrugBank API om eventueel over het hoofd geziene secundaire farmacologie uit te sluiten
-- Een aannemelijke mechanistische hypothese vaststellen die Sorbitol verbindt met RYR1-gemedieerde calciumhantering (bijv. osmotische effecten op intracellulair calciumdynamiek, of fructose-route-interacties met spierenergetiek)
-- Genereer minimaal bewijsniveau L4: in vitro- of diermodelgegevens die enig betekenisvol effect op trainingsinduceerde hyperthermie-paden aantonen
-- Indien preklinisch bewijs naar voren komt, initieer CBG-MEB presubmissieconsultatie — met opmerking dat momenteel geen productpresence op de Nederlandse markt bestaat en volledige vergunningsprocedure zou vereist zijn
-- Voer een concurrentielandschapanalyse uit tegen dantroleen en andere RYR1-doelgerichte middelen om het potentieel voor klinische differentiatie in te schatten
-
+**Om verder te gaan is het volgende nodig:**
+- Het ophalen en analyseren van de bijsluitertekst en SmPC via het CBG-MEB (waarschuwingen en contra-indicaties); dit blokkeert nu de veiligheidsscreening.
+- Gegevens over het werkingsmechanisme uit DrugBank.
+- Een literatuur- en trialonderzoek naar een mogelijke rol van sorbitol bij maligne hyperthermie of inspanningsgebonden hitteziekte.
+- Duidelijkheid over de oorspronkelijke indicatie en over beschikbare toedieningsroutes en toedieningsvormen, inclusief de vraag of die passen bij de voorspelde indicatie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

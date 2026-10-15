@@ -2,7 +2,7 @@
 layout: default
 title: Cabergoline
 parent: Alleen modelvoorspelling (L5)
-nav_order: 35
+nav_order: 66
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,118 +29,122 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Cabergoline: Van Hyperprolactinemia naar Hypofysekanker
+# Cabergoline: Van hyperprolactinemie naar hypofysecarcinoom (hypofysetumoren)
 
 ## Samenvatting in één zin
 
-Cabergoline is een dopamine D2/D3 receptoragonist, internationaal gevestigd als eerstekeuzebehandeling voor hyperprolactinemia en prolactinoom. Het TxGNN-model voorspelt dat het mogelijk effectief is over het breder spectrum van **Hypofysekanker** — inclusief niet-functievernemende en hormoonproducerende adenomen — met **19 klinische studies** en **20 publicaties** die deze richting momenteel ondersteunen. Opmerkelijk is dat de hoogst geclassificeerde TxGNN-voorspelling het specifieke subtype **hypofyseadenocarcinoom** (score 99.06%) is, hoewel het bewijs voor die maligne vorm nog beperkt is tot casuïstieke rapportages (L4); het klinisch toepasbare bewijs is geconcentreerd in de bredere hypofysekankercategorie (score 99.04%, L1).
+Cabergoline is een dopamine-D2-receptoragonist die oorspronkelijk wordt gebruikt voor hyperprolactinemie en prolactineproducerende hypofysetumoren.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **hypofysekanker (pituitary cancer)**, met **14 klinische studies** (waaronder 4 fase 3-studies) en **21 publicaties** in de data die voor dit rapport zijn samengesteld.
+Het bewijs betreft vooral hypofyse-adenomen (niet-functionerend en corticotroof) en niet het zeldzame metastaserende hypofysecarcinoom zelf.
 
 ---
 
-## Korte samenvatting
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Hyperprolactinemia / Prolactinoom (internationaal vastgesteld gebruik; geen CBG-MEB registratie bekend) |
-| Voorspelde nieuwe indicatie | Hypofysekanker (incl. niet-functievernemend adenoom, corticotroph adenoom, prolactinoom) |
-| TxGNN-voorspellingsscore | 99.04% (hypofysekanker, rang 3); 99.06% (hypofyseadenocarcinoom, rang 1) |
-| Bewijniveau | L1 (hypofysekanker); L4 (hypofyseadenocarcinoom) |
-| Marktpositie Nederland | Niet op de markt (geen RVG-registratie) |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | Voortgang met voorzorgsmaatregelen |
+|------|------|
+| Oorspronkelijke indicatie | Hyperprolactinemie en prolactineproducerende hypofysetumor (bron: kennisgraaf; de vergunningstekst bevat geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Hypofysekanker (pituitary cancer) |
+| TxGNN-voorspellingsscore | 99,04% |
+| Bewijsniveau | L1 (formeel op basis van ≥2 afgeronde fase 3-studies; resultaten niet beschikbaar, zie hieronder) |
+| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
+| Aantal vergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Proceed with Guardrails (Doorgaan met randvoorwaarden) |
+
+Opmerking: de hoogst gerangschikte voorspelling (rang 1) is hypofyse-adenocarcinoom, met alleen casuïstiek (L4, Hold). Dit rapport behandelt de voorspelling met het meeste bewijs: hypofysekanker/hypofysetumoren.
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Cabergoline bindt selectief aan dopamine D2 en D3 receptoren. Hypofysaire lactotrophe cellen (prolactine-producerend) hebben onder de hoogste D2 receptordichtheden in het lichaam, wat verklaart waarom Cabergoline prolactineproductie zo effectief onderdrukt en prolactinoomkrimp induceert. Cruciaal is dat D2 receptoren niet beperkt zijn tot lactotrophen: corticotrophe cellen (ACTH-producerend), somatotrophe cellen (GH-producerend bij acromegalie) en een subset van niet-functievernemende hypofyseadenomen (NFPA's) geven D2R ook op verschillende niveaus tot expressie. Na receptoractivering vermindert de Gi-eiwit-gemedieerde remming van de cAMP/PKA-pathway hormoonsecretie, verzwakt tumorcelprolijn en bevordert apoptose — richt zich rechtstreeks op het neoplastische proces.
+Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de data. Cabergoline is echter bekend als D2-dopaminereceptoragonist. D2-receptoren komen tot expressie op lactotrofe tumoren en ook op een deel van de corticotrofe en niet-functionerende hypofyseadenomen. Activatie remt hormoonsecretie en kan tumorgroei afremmen.
 
-Deze mechanistische rationale is gevalideerd in meerdere klinische omgevingen. Voltooide fase 3-studies hebben Cabergoline-werkzaamheid vastgesteld bij corticotrophe adenomen die Cushing-syndroom veroorzaken (NCT00889525) en bij residuele NFPA's na transsphenoidale chirurgie (NCT03271918). Een systematische review en meta-analyse uit 2022 (PMID 35902444) bevestigde Cabergoline's tumorbeperkende effecten bij NFPA's. Een review uit 2020 (PMID 31597135) onderzocht specifiek nieuwe anti-tumoraal mechanismen buiten prolactinoom, inclusief autofagie-inductie en celyluuscyclus-arrest. Meest recent heeft translationeel onderzoek (PMID 38989697, *Neuro-Oncology* 2024) aangetoond dat co-targeting van de HTR2B/Gαq/STAT3-pathway NFPA's gevoeliger maakt voor Cabergoline, wat wijst op precisiegeneeskunde-strategieën.
+De oorspronkelijke indicatie (prolactinoom) is zelf een hypofysetumor. De voorspelde indicatie ligt daarmee in dezelfde ziekteklasse. Preklinisch onderzoek (HTR2B-route bij niet-functionerende adenomen, 2024) en een overzichtsartikel over antitumoreffecten van cabergoline (2020) ondersteunen dit mechanistisch.
 
-De uitbreiding naar de hoogst voorspelde TxGNN — **hypofyseadenocarcinoom** — vereist meer voorzichtigheid. Hypofyseadenocarcinoom is een extreem zeldzame maligne variant gedefinieerd door cerebrospinale of systemische metastasen, met een incidentie van ongeveer 0.1–0.2% van alle hypofysetumoren. Hoewel D2R-expressie in sommige gevallen is gedocumenteerd en geïsoleerde klinische rapportages ACTH-producerend carcinoommanagement met Cabergoline beschrijven (PMID 20497940), bestaan er geen gecontroleerde trialgegevens voor dit specifieke entiteit. De hoge TxGNN-score weerspiegelt waarschijnlijk grafologie-proximiteit tot het goed-bewezen hypofyseadenomaaknooppunt in plaats van direct klinisch bewijs voor het carcinomasubtype.
+Belangrijke kanttekening: "pituitary cancer" in de kennisgraaf is breed gekoppeld aan hypofysetumoren. Ware hypofysecarcinomen zijn zeer zeldzaam. Het bewijs ondersteunt vooral adenoomsubtypen (niet-functionerend, corticotroof). Extrapolatie naar gemetastaseerd carcinoom is niet aangetoond.
 
 ---
 
 ## Bewijs uit klinische studies
 
-*Gebaseerd op de 19 studies voor hypofysekanker; top 10 meest relevant weergegeven hieronder.*
+De 10 meest relevante studies:
 
 | Studienummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
-|-------------|-------|--------|-----------|-------------|
-| [NCT00889525](https://clinicaltrials.gov/study/NCT00889525) | Fase 3 | Voltooid | N/A | Werkzaamheid van Cabergoline bij Cushing-syndroom (corticotroph adenoom); evalueert rechtstreeks D2-agonisme in een hormoonproducerend hypofysetumor — bewijs van de hoogste graad rechtstreeks |
-| [NCT03271918](https://clinicaltrials.gov/study/NCT03271918) | Fase 3 | Voltooid | 140 | RCT-evaluatie van Cabergoline in residueel niet-functievernemend hypofyseadenoum na transsphenoidale chirurgie; grote steekproef, rechtstreeks relevant voor postoperatieve management |
-| [NCT07034859](https://clinicaltrials.gov/study/NCT07034859) | Fase 4 | Inschrijving op uitnodiging | 30 | 1:1 gerandomiseerde studie van Cabergoline als primaire (niet-chirurgische) therapie voor NFPA; 48-weken vervolgmonitoring tot 2028 — prospectief bewijs accumuleert |
-| [NCT00376064](https://clinicaltrials.gov/study/NCT00376064) | Fase 4 | Voltooid | 20 | Proof-of-concept studie: octreotide + Cabergoline combinatietherapie in acromegalie gedeeltelijk resistent tegen somatostatine-analogon monotherapie |
-| [NCT03714763](https://clinicaltrials.gov/study/NCT03714763) | N/A | Onbekend | 50 | PET-MR imaging van in vivo D2R-expressie in NFPA ter voorspelling van Cabergoline-behandelingsrespons; ondersteunt een precisieselectiestrategie |
-| [NCT01915303](https://clinicaltrials.gov/study/NCT01915303) | Fase 2 | Beëindigd | 68 | Pasireotide alleen vs. gecombineerd met Cabergoline bij Cushing-syndroom; voortijdig beëindigd — biedt gedeeltelijke werkzaamheids- en veiligheidsgegevens voor combinatiebenadering |
-| [NCT02288962](https://clinicaltrials.gov/study/NCT02288962) | Fase 3 | Actief, geen inschrijving meer | 60 | RCT van dopamine-agonistbehandeling voor NFPA's; voortdurende vervolgmonitoring tot december 2028 |
-| [NCT04107480](https://clinicaltrials.gov/study/NCT04107480) | Fase 4 | Recruteert | 880 | PRolaCT: drie multicenter-RCT's die chirurgie versus dopamine-agoniststrategieën voor prolactinoom vergelijken op meerdere uitkomstdimensies |
-| [NCT03400865](https://clinicaltrials.gov/study/NCT03400865) | N/A | Onbekend | 30 | Cabergoline gecombineerd met hydroxychloroquine/chloroquine voor cabergoline-resistente prolactinomen; mechanistische basis vastgesteld in PMID 28973192 |
-| [NCT01620138](https://clinicaltrials.gov/study/NCT01620138) | Fase 2/3 | Voltooid | 21 | Somatostatine en dopamine receptorexpressie in NFPA's en resistente prolactinomen; correleert receptorquantificatie met in vitro/in vivo responsiviteit |
+|---------|------|------|------|---------|
+| [NCT00889525](https://clinicaltrials.gov/study/NCT00889525) | Fase 3 | Afgerond | Niet vermeld | Cabergoline bij corticotroof hypofyseadenoom (ziekte van Cushing); resultaten niet verstrekt |
+| [NCT03271918](https://clinicaltrials.gov/study/NCT03271918) | Fase 3 | Afgerond | 140 | Gerandomiseerd: cabergoline bij restant niet-functionerend adenoom na transsfenoïdale operatie |
+| [NCT02288962](https://clinicaltrials.gov/study/NCT02288962) | Fase 3 | Actief, niet-wervend | 60 | Gerandomiseerde studie met dopamine-agonist bij niet-functionerende hypofyseadenomen |
+| [NCT01620138](https://clinicaltrials.gov/study/NCT01620138) | Fase 2/3 | Afgerond | 21 | Receptorexpressie in niet-functionerende adenomen en resistente prolactinomen; klein |
+| [NCT07034859](https://clinicaltrials.gov/study/NCT07034859) | Fase 4 | Inschrijving op uitnodiging | 30 | Cabergoline als primaire therapie bij niet-functionerend adenoom, 48 weken |
+| [NCT01915303](https://clinicaltrials.gov/study/NCT01915303) | Fase 2 | Beëindigd | 68 | Pasireotide alleen of met cabergoline bij ziekte van Cushing |
+| [NCT00376064](https://clinicaltrials.gov/study/NCT00376064) | Fase 4 | Afgerond | 20 | Octreotide plus cabergoline bij acromegalie; enkelarmig, klein |
+| [NCT07463235](https://clinicaltrials.gov/study/NCT07463235) | Fase 3 | Werft | 70 | Hoge dosis cabergoline bij microprolactinoom (geregistreerde indicatie; relevant voor dosering/veiligheid) |
+| [NCT00460616](https://clinicaltrials.gov/study/NCT00460616) | Niet van toepassing | Afgerond | 50 | Observationeel: hartafwijkingen en klepinsufficiëntie bij chronisch gebruik bij prolactinoom |
+| [NCT07045935](https://clinicaltrials.gov/study/NCT07045935) | Fase 4 | Werft | 60 | Metabole uitkomsten bij dopamine-agonisten bij prolactinoom |
+
+Resultaten van de afgeronde fase 3-studies zijn in de data niet opgenomen en moeten worden nagegaan.
 
 ---
 
 ## Bewijs uit de literatuur
 
-*Top 10 meest relevante publicaties van de 20 geïdentificeerde voor hypofysekanker.*
-
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|------|------|---------|-------------|
-| [35902444](https://pubmed.ncbi.nlm.nih.gov/35902444/) | 2022 | Systematische review / Meta-analyse | *Pituitary* | Meta-analyse bevestigend Cabergoline's tumorbeperkende en volumereducerende effecten bij niet-functievernemende hypofyseadenomen |
-| [37097352](https://pubmed.ncbi.nlm.nih.gov/37097352/) | 2023 | Review | *JAMA* | Uitgebreide review van hypofyseadenomadiagnose en -beheer; Cabergoline gepositioneerd als standaardzorg voor prolactinoom en gedocumenteerd voor breder hypofyseneo-plasmata |
-| [38989697](https://pubmed.ncbi.nlm.nih.gov/38989697/) | 2024 | Translationeel onderzoek | *Neuro-Oncology* | HTR2B targeting onderdrukt NFPA-groei en maakt tumoren gevoeliger voor Cabergoline via Gαq/PLC/PKCγ/STAT3-pathway; ondersteunt combinatie of biomarker-gestuurd approach |
-| [31597135](https://pubmed.ncbi.nlm.nih.gov/31597135/) | 2020 | Review | *Neuroendocrinology* | Reviews van nieuwe anti-tumoraal mechanismen van Cabergoline (autofagie, celyluuscyclus-arrest, apoptose) en hun potentiële bredere toepassingen buiten prolactinoom |
-| [37171003](https://pubmed.ncbi.nlm.nih.gov/37171003/) | 2023 | Klinische richtlijnen | *Endocr Metab Immune Disord Drug Targets* | Italiaanse nationale richtlijnen voor prolactinoommanagement; Cabergoline aanbevolen als eerstekeuze dopamine-agonist met gedetailleerde dosering- en monitoingbegeleiding |
-| [36974474](https://pubmed.ncbi.nlm.nih.gov/36974474/) | 2023 | Review | *J Clin Endocrinol Metab* | Praktische benadering van prolactinoom; Cabergoline superieur aan bromocriptine voor normalisatie van prolactine en tumorkrimp over micro- en macroprolactinomen |
-| [36013562](https://pubmed.ncbi.nlm.nih.gov/36013562/) | 2022 | Review | *Medicina* | Historische en moderne prolactinoombehandelingreview, inclusief multimodale therapie voor agressieve prolactinomen en bewijs voor chirurgie versus dopamine-agonistsequencing |
-| [28973192](https://pubmed.ncbi.nlm.nih.gov/28973192/) | 2017 | Preclinisch / Translationeel | *J Clin Endocrinol Metab* | Cabergoline + chloroquine combinatie induceert autofagie-gemedieerde hypofysetumorsuppressie; mechanistische rationale voor NCT03400865 |
-| [25732645](https://pubmed.ncbi.nlm.nih.gov/25732645/) | 2015 | Review | *Endocrinol Metab Clin North Am* | Review van Cabergoline gebruik voor hypofysetumoren en cardiale kleppathologie-veiligheid; meeste studies tonen geen klinisch significante kleppathologie bij hypofysedoseringen |
-| [40170221](https://pubmed.ncbi.nlm.nih.gov/40170221/) | 2025 | Onderzoeksartikel | *Eur J Endocrinol* | Circulatoire miR-20a-5p geïdentificeerd als biomarker ter voorspelling van Cabergoline-responsiviteit bij patiënten met hyperprolactinemia en hypofyseadenomen |
+|------|-----|------|------|---------|
+| [37097352](https://pubmed.ncbi.nlm.nih.gov/37097352/) | 2023 | Review | JAMA | Diagnose en behandeling van hypofyseadenomen |
+| [40876473](https://pubmed.ncbi.nlm.nih.gov/40876473/) | 2025 | Review | Lancet Diabetes Endocrinol | Prolactinomen: pathogenese, diagnose en behandeling |
+| [36974474](https://pubmed.ncbi.nlm.nih.gov/36974474/) | 2023 | Review | J Clin Endocrinol Metab | Benadering van de patiënt met prolactinoom |
+| [31597135](https://pubmed.ncbi.nlm.nih.gov/31597135/) | 2020 | Review | Neuroendocrinology | Nieuwe antitumormechanismen van cabergoline en bredere toepassingen |
+| [38989697](https://pubmed.ncbi.nlm.nih.gov/38989697/) | 2024 | Preklinisch | Neuro-oncology | Remming van HTR2B remt groei van niet-functionerend adenoom en verhoogt gevoeligheid voor cabergoline |
+| [28025719](https://pubmed.ncbi.nlm.nih.gov/28025719/) | 2017 | Review | Pituitary | Cabergoline bij acromegalie |
+| [25732645](https://pubmed.ncbi.nlm.nih.gov/25732645/) | 2015 | Review | Endocrinol Metab Clin North Am | Cabergoline en hartklepafwijkingen: in de meeste studies geen significant verhoogd risico |
+| [36013562](https://pubmed.ncbi.nlm.nih.gov/36013562/) | 2022 | Review | Medicina (Kaunas) | Behandeling van prolactinoom, inclusief agressieve vormen |
+| [28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/) | 2017 | Review | JAMA | Diagnose en behandeling van hypofyseadenomen |
+| [20308704](https://pubmed.ncbi.nlm.nih.gov/20308704/) | 2010 | Overzicht | Neth J Med | Update prolactinomen; dopamine-agonisten eerste keus, aandacht voor klepvalvulopathie |
+
+Er zijn geen gerandomiseerde publicaties met resultaten voor hypofysecarcinoom zelf.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Cabergoline is momenteel **niet geregistreerd** bij CBG-MEB (College ter Beoordeling van Geneesmiddelen) en heeft geen RVG-nummer in Nederland.
-
-| RVG-nummer | Productnaam | Doseerform | Goedgekeurde indicatie |
-|-----------|-------------|-------------|-------------------|
-| — | Geen registratie bekend | — | — |
-
-Cabergoline is geautoriseerd in andere EU-lidstaten onder de handelsnaam **Dostinex®** (0,5 mg tabletten, Pfizer/Viatris), onder toezicht van het EMA. Nederlandse voorschrijvers die Cabergoline willen gebruiken, moeten momenteel een van de volgende routes via CBG-MEB volgen:
-- **Naampatïënt-importatie** (Artikel 5(1) Richtlijn 2001/83/EG) voor individuele patiënten met een gedocumenteerde klinische behoefte
-- **Compassionate use-programma** als formele marketingautorisatie nagestreefd wordt
-- **Off-label gebruik** met gedocumenteerde geïnformeerde toestemming als verkregen via importatie
-
-De van toepassing zijnde SmPC ter veiligheidsreferentie is de **Dostinex® EU SmPC** (beschikbaar via de EMA-productdatabase).
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 105105 | Cabergoline Sandoz tablet 0,5 mg, tabletten (vergunning ingetrokken) | Niet vermeld | Niet vermeld |
 
 ---
 
-## Veiligheidsconsideraties
+## Veiligheidsoverwegingen
 
-Formele Nederlandse markt veiligheidsgegevens (SmPC waarschuwingen, contra-indicaties) zijn niet beschikbaar aangezien geen CBG-MEB autorisatie bestaat. Raadpleeg de **Dostinex® EU SmPC** als primaire veiligheidsreferentie. Op basis van bewijs geïdentificeerd in dit pakket, rechtvaardigen de volgende signalen aandacht wanneer overwogen wordt voor gebruik in hypofysekanker:
+**Contra-indicaties volgens de kennisgraaf** (geen productteksten): leveraandoening, galblaasaandoening, hartklepaandoening, longfibrose (ook post-inflammatoir), IgG4-gerelateerde retroperitoneale fibrose, ernstige pre-eclampsie en pre-eclampsie.
 
-- **Cardiale kleppathologie**: Bij de hoge cumulatieve doses gebruikt bij de ziekte van Parkinson dragen ergot-afgeleide dopamineagonisten een erkend risico op restrictieve klependoferase. Bij de lagere doses gebruikt voor hypofysecondities rapporteren meeste studies (inclusief PMID 25732645 en de observatiestudie NCT00460616) geen significante toename in klinisch relevante kleppathologie. Baseline en periodieke echocardiografische monitoring wordt echter aanbevolen voor langdurige therapie.
-- **Impulscontroletoornissen (ICT's)**: De novo ICT's (pathologisch gokken, hyperseksualiteit, compulsief uitgeven/eten) zijn een toenemend erkend bijwerk van dopamineagonisten, met prevalentie tot ~60% in sommige reeksen (PMID 41619686). Systematische screening met gevalideerde tools (bijv. QUIP-RS) voor en tijdens behandeling is raadzaam.
-- **Acuut-hoeksluitingsglaucoom**: Een casuïstieke rapportage (PMID 21347189) documenteert bilateraal acuut hoeksluitingsglaucoom na orale Cabergoline; het voorgestelde mechanisme betreft pupilverwijding en congestie van het ciliaire lichaam. Patiënten met een geschiedenis van nauwe hoekglaucoom moeten voor initiatie worden geëvalueerd.
+**Geneesmiddelinteracties:** 60 interacties gevonden. De belangrijkste:
+- **Ernstig (Major):** lorcaserine, claritromycine
+- **Matig (Moderate):** metoclopramide
+- Daarnaast vele interacties met onbekend niveau (o.a. protonpompremmers, metformine, glimepiride, corticosteroïden, simvastatine).
+
+**Aanvullend signaal:** een casusbeschrijving en een literatuuroverzicht melden cabergoline-geassocieerd bilateraal geslotenkamerhoekglaucoom. Hartklepafwijkingen bij hoge of langdurige dosering blijven een aandachtspunt, evenals stoornissen in impulscontrole.
+
+Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Voortgang met voorzorgsmaatregelen**
+**Beslissing: Proceed with Guardrails (Doorgaan met randvoorwaarden)**
 
-**Rationale:**
-Meerdere voltooide fase 3-RCT's — rechtstreeks Cabergoline evalueren in corticotrophe adenomen (Cushing-syndroom) en in niet-functievernemende hypofyseadenomen — gecombineerd met een systematische meta-analyse uit 2022, stellen L1-graad bewijs vast voor Cabergoline's werkzaamheid over het spectrum van hypofyseneoplasma's. Het D2 receptoragonist mechanisme is goed-gekarakteriseerd en biologisch aannemelijk voor deze indicatieklasse. De afwezigheid van een Nederlandse marketingautorisatie (RVG) is de primaire regelgevingsbarrière, niet de klinische bewijsbasis.
+**Onderbouwing:**
+- Meerdere afgeronde fase 3-studies onderzoeken cabergoline bij hypofyseadenomen (niet-functionerend, corticotroof), maar de resultaten zijn niet beoordeeld en bewijs voor ware hypofysecarcinomen ontbreekt. Het L1-niveau is dus voorlopig en geldt voor adenoomsubtypen.
+- Er is momenteel geen geldige Nederlandse vergunning (alleen een ingetrokken RVG), en de vergunningsinformatie over veiligheid ontbreekt.
 
-**Om voort te gaan is het volgende nodig:**
+**Om verder te gaan is nodig:**
+- Resultaten van de afgeronde fase 3-studies (NCT00889525, NCT03271918) opvragen en beoordelen.
+- Indicatie afbakenen tot adenoomsubtypen; geen claims voor gemetastaseerd hypofysecarcinoom.
+- SmPC/bijsluiter van het CBG-MEB ophalen voor waarschuwingen en contra-indicaties (blokkerend gegeven voor veiligheidsscreening).
+- Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank).
+- Monitoringsplan voor hartkleppen (echocardiografie), impulscontrole en oogdrukklachten.
+- Vaststellen of er een beschikbaar Nederlands product is (huidige vergunning ingetrokken).
 
-- **Regelgevingspad**: Bepaal het meest passende toegangspad via CBG-MEB — naampatïënt-import voor individuele gevallen, of uitvoeringsstudie voor een formele marketingautorisatieaanvraag (MAA) op basis van de EMA-goedgekeurde SmPC
-- **Subtypestratificatie**: Definieer duidelijk het doel hypofysetumor subtype(s), aangezien bewijnsterkte aanzienlijk verschilt: prolactinoom (sterkst, decennia van gegevens) > corticotroph adenoom/Cushing-syndroom (fase 3 voltooid) > NFPA (fase 3 voltooid, meta-analyse) > hypofyseadenocarcinoom (casuïstieke rapportages alleen, L4)
-- **D2R biomarkerselektie**: Overweeg D2 receptorexpressie testen (PET-MR imaging of immunohistochemie op chirurgische preparaten) ter pre-selectie van patiënten waarschijnlijk te reageren, ondersteund door NCT03714763 en PMID 40170221
-- **Veiligheidsmonitoring protocol**: Stel baseline echocardiografie en impulscontroleverstoornis (ICV) screening vast voor behandelingsinitatie; documenteer monitoringschema voor langdurige vervolgmonitoring
-- **Hypofyseadenocarcinoomppad**: Voor de hoogst voorspelde TxGNN-entiteit (hypofyseadenocarcinoom, L4) zijn een gewijd literatuuroverzicht en casuïstiekregistrieranalyse nodig voor enige klinische evaluatie — het huidige bewijs ondersteunt routinegebruik in dit ultra-zeldzame maligne subtype niet
-
+**Overige voorspelde indicaties (kort):** hypofyse-adenocarcinoom (Hold, L4, alleen casuïstiek), progeria-kleine gestalte-gepigmenteerde naevi-syndroom (Hold, L5), spastische quadriplegische hersenverlamming (Hold, L5) en glaucoom (Hold, L4; veiligheidssignaal in tegengestelde richting, dus niet ondersteund).
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

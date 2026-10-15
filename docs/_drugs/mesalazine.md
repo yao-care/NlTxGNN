@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mesalazine
-parent: Alleen modelvoorspelling (L5)
-nav_order: 93
-evidence_level: L5
+parent: Matig bewijs (L3-L4)
+nav_order: 222
+evidence_level: L4
 indication_count: 7
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,63 +29,92 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Mesalazine: van inflammatoire darmziekten naar congenitale hypotrichosis met juveniele maculaire dystrofie
+# Mesalazine: Van colitis ulcerosa naar reumatoïde artritis
 
 ## Samenvatting in één zin
 
-Mesalazine (5-aminosalicylzuur, 5-ASA) is een goed gevestigd ontstekingsremmend geneesmiddel dat decennialang wordt gebruikt voor de behandeling van inflammatoire darmziekten, met name ulcereuze colitis. De best gerangschikte voorspelling van het TxGNN-model is **congenitale hypotrichosis met juveniele maculaire dystrofie** met een score van 99,65%, maar deze richting wordt momenteel ondersteund door **geen klinische onderzoeken** en **geen gepubliceerde literatuur**. De hoge modelscore is waarschijnlijk een artefact van de topologie van de kennisgraaf in plaats van een echt farmacologisch signaal, en een Hold-besluit is gerechtvaardigd voor deze specifieke indicatie.
+Mesalazine is een ontstekingsremmend middel dat oorspronkelijk wordt gebruikt voor colitis ulcerosa, inflammatoire darmziekten en ulceratieve proctosigmoïditis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **reumatoïde artritis** (de voorspelling met het meeste, zij het indirecte, onderbouwende materiaal van de zeven voorspellingen). Er zijn **geen geregistreerde klinische studies** en **10 publicaties**, waarvan geen enkele een klinische studie met mesalazine bij deze aandoening beschrijft.
+
+> Opmerking: de voorspelling met de hoogste TxGNN-score is *congenitale hypotrichose met juveniele maculadystrofie* (99,65%). Voor die aandoening is geen enkel bewijs of mechanistisch verband gevonden. Daarom wordt hieronder reumatoïde artritis uitgewerkt, de voorspelling met de meeste literatuur. De overige voorspellingen staan in de tabel onder "Overzicht van alle voorspellingen".
 
 ---
 
-## Snelle samenvatting
+## Snel overzicht
 
-| Item | Inhoud |
-|------|--------|
-| Originele indicatie | Inflammatoire darmziekten (ulcereuze colitis) |
-| Voorspelde nieuwe indicatie | Congenitale hypotrichosis met juveniele maculaire dystrofie |
-| TxGNN-voorspellingsscore | 99,65% |
-| Bewijsniveau | L5 |
-| Nederlandse marktpositie | Geen CBG-MEB-autorisaties gevonden in huige gegevens |
-| Aantal autorisaties | 0 |
+| Onderdeel | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Colitis ulcerosa, inflammatoire darmziekte, ulceratieve proctosigmoïditis (volgens de kennisgraaf; er is geen indicatietekst uit de Nederlandse vergunning beschikbaar) |
+| Voorspelde nieuwe indicatie | Reumatoïde artritis |
+| TxGNN-voorspellingsscore | 99,57% |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaalde (geroyeerde) vergunning |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
 | Aanbevolen besluit | Hold |
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in deze evidence pack. Op basis van bekende farmacologie is Mesalazine (5-ASA) het actieve ontstekingsremmende bestanddeel van sulfasalazine. Het werkt vooral door inhibitie van de NF-κB-signaalroute, onderdrukking van prostaglandine- en leukotrienesynthese, en vangen van reactieve zuurstofsoorten — vooral op mucosale oppervlakken in het maagdarmkanaal. De werkzaamheid ervan bij inflammatoire darmziekten is in talrijke klinische onderzoeken over verschillende decennia gevalideerd.
+Gegevens over het werkingsmechanisme van mesalazine ontbreken in de voor dit rapport samengestelde data. Op basis van algemene kennis remt mesalazine (5-aminosalicylzuur) COX- en LOX-routes, NF-κB-signalering en reactieve zuurstofradicalen. Dit zijn ontstekingsprocessen die ook bij gewrichtsontsteking een rol spelen.
 
-Congenitale hypotrichosis met juveniele maculaire dystrofie (CHIJMD) is een zeldzaam autosomaal recessief aandoening veroorzaakt door mutaties in het *LIPA*-gen (lysosomale lipase A). De ziekte manifesteert zich als progressief haarverlies en vroeg optredende maculaire degeneratie. Kritiek punt is dat de onderliggende pathologie **structureel en genetisch** van aard is — aangedreven door lysosomale enzymdeficiëntie en lipideaccumulatie — en **niet primair door ontstekking wordt gemedieerd**. Er is geen ingestelde biologische route die Mesalazine's ontstekingsremmende werkingsmechanisme verbindt met de *LIPA*-genroute of met de structurele integriteit van het netvlies/haarzakjes.
-
-De hoge voorspellingsscore van het TxGNN-model (99,65%) voor deze indicatie weerspiegelt waarschijnlijk gedeelde verbindingen op graafniveau in de kennisgraaf — zoals "huid" of "oogheelkunde" ziekteknopen — in plaats van een echt farmacologisch grondslag. Deze voorspelling moet worden behandeld als een computersignaal dat biologische validatie vereist voordat verdere investeringen worden gedaan. Er is geen mechanistische rechtvaardiging voor het verder gaan op dit moment.
+Mesalazine is het 5-ASA-onderdeel van sulfasalazine. Sulfasalazine is een gevestigd DMARD bij reumatoïde artritis. De antireumatische werking wordt echter vooral toegeschreven aan het sulfapyridine-deel, niet aan mesalazine. Werkzaamheid van mesalazine als enkelvoudig middel bij reumatoïde artritis wordt daarom **niet** ondersteund. Het verband is indirect en onbewezen.
 
 ---
 
-## Bewijs uit klinische onderzoeken
+## Klinisch trialbewijs
 
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
-
----
-
-## Bewijs uit literatuur
-
-Momenteel geen gerelateerde literatuur beschikbaar.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Informatie Nederlandse markt
+## Literatuurbewijs
 
-Geen CBG-MEB-marketingautorisaties zijn geregistreerd in de huige evidence pack voor Mesalazine in Nederland. De evidence pack bevat kandidaat-ID `TW-DB00244-multi`, wat aangeeft dat het regelgevingsgegevensveld werd gevuld met Taiwan (TFDA) gegevens in plaats van Nederlandse CBG-MEB-registergegevens.
+Er zijn geen RCT's. De gevonden publicaties zijn vooral reviews, bijwerkingenrapporten en casuïstiek (selectie van de meest relevante):
 
-> ⚠️ **Belangrijk:** Mesalazine is een veelgebruikt geneesmiddel waarvan wordt verwacht dat het CBG-MEB-autorisaties in Nederland draagt (bijvoorbeeld onder merknamen als Pentasa, Asacol, of Salofalk). Een rechtstreekse opvraag bij het CBG-MEB-register is vereist om de werkelijke Nederlandse marktpositie te bevestigen voordat regelgevingsconclussies worden getrokken.
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|-----|------|------|------|---------|
+| [7588084](https://pubmed.ncbi.nlm.nih.gov/7588084/) | 1995 | Review | Drugs | Sulfasalazine is een gevestigd DMARD bij reumatoïde artritis; of de werking van het moedermolecuul of van sulfapyridine komt, is onzeker (indirect bewijs) |
+| [7781502](https://pubmed.ncbi.nlm.nih.gov/7781502/) | 1995 | Review (geneesmiddelmonografie) | Dtsch Med Wochenschr | Monografie over mesalazine |
+| [7904547](https://pubmed.ncbi.nlm.nih.gov/7904547/) | 1993 | Review | Clin Pharmacokinet | Farmacokinetiek van langzaam werkende antireumatica, waaronder sulfasalazine |
+| [12235076](https://pubmed.ncbi.nlm.nih.gov/12235076/) | 2002 | Farmacovigilantie-analyse | Gut | Ernstige bijwerkingen van sulfasalazine en mesalazine opnieuw beoordeeld op basis van meldingen |
+| [42565551](https://pubmed.ncbi.nlm.nih.gov/42565551/) | 2026 | Cohortstudie | Rheumatology (Oxford) | Geneesmiddelgebruik en zwangerschapsuitkomsten bij vrouwen met immuungemedieerde ontstekingsziekten |
+| [36855206](https://pubmed.ncbi.nlm.nih.gov/36855206/) | 2023 | Casuïstiek | J Med Case Rep | Tofacitinib bij IBD-gerelateerde artritis (niet mesalazine) |
+| [41443863](https://pubmed.ncbi.nlm.nih.gov/41443863/) | 2026 | Casuïstiek | Internal Medicine | Door 5-ASA geïnduceerde colitis bij een RA-patiënt |
+| [31830393](https://pubmed.ncbi.nlm.nih.gov/31830393/) | 2019 | Casuïstiek | G Ital Nefrol | Acuut nierfalen door DRESS-syndroom na sulfasalazine en mesalazine bij een RA-patiënt |
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 120321//102870 | Salofalk 1g, zetpillen | Niet beschikbaar | Niet beschikbaar |
+
+Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning in de verstrekte data.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Geen belangrijke waarschuwingen, contra-indicaties, of geneesmiddelinteractiegegevens waren beschikbaar in de huige evidence pack.
+- **Contra-indicaties volgens de kennisgraaf** (afkomstig uit de TxGNN-kennisgraaf, niet uit de bijsluitertekst): nierziekte, pyoureter, leverziekte, galblaasziekte, neutropenie, agranulocytose, anemie, macrocytaire anemie, pylorusstenose, lipoïde nefrose en interstitiële nefritis.
+- **Geneesmiddelinteracties**: 100 interacties gevonden, waarvan de eerste 20 zijn ingezien. Belangrijkste (ernst *Major*): **cidofovir** en **humaan botulinetoxine A/B-immunoglobuline**. Veel interacties met matige ernst betreffen nefrotoxische of NSAID-achtige middelen (o.a. ketorolac, ibuprofen, celecoxib, amfotericine B, amikacine, cisplatine, aciclovir) en azathioprine.
+- Casuïstiek in de literatuur meldt overgevoeligheidsreacties (DRESS-syndroom, door 5-ASA geïnduceerde colitis).
 
-> ⚠️ Ophalen van de Nederlandse SmPC wordt geclassificeerd als een **Blokkerende** gegevenslacune (DG001) — veiligheidsevaluatie kan niet plaatsvinden totdat dit document wordt verkregen van het CBG-MEB of via de productinformatieportal van het EMA.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor volledige waarschuwingen en contra-indicaties, aangezien deze niet in de data zijn opgenomen.
+
+---
+
+## Overzicht van alle voorspellingen
+
+| Rang | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Mechanistisch verband |
+|---|---|---|---|---|
+| 1 | Congenitale hypotrichose met juveniele maculadystrofie | 99,65% | L5 | Geen aantoonbaar verband (CDH3-mutatie) |
+| 2 | Artrose | 99,63% | L5 | Aannemelijk maar onbewezen; enige paper is een transcriptoomanalyse |
+| 3 | Reumatoïde artritis | 99,57% | L4 | Indirect (via sulfasalazine) |
+| 4 | Seborroïsche keratose | 99,50% | L5 | Geen onderbouwing |
+| 5 | Gevoeligheid voor artrose | 99,35% | L5 | Genetisch fenotype; geen bewijs |
+| 6 | Vulvaire omgekeerde folliculaire keratose | 99,33% | L5 | Geen aantoonbaar verband |
+| 7 | Pseudoachondroplasie | 99,19% | L5 | Geen duidelijk verband (COMP-mutatie) |
 
 ---
 
@@ -93,16 +122,15 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 
 **Besluit: Hold**
 
-**Rationale:**
-De best gerangschikte TxGNN-voorspelling voor Mesalazine — congenitale hypotrichosis met juveniele maculaire dystrofie — heeft geen ondersteunende klinische onderzoeken, geen gepubliceerde literatuur, en geen aannemelijk mechanistisch verband. De *LIPA*-gen-aangedreven structurele ziektepatologie is fundamenteel onverenigbaar met Mesalazine's ontstekingsremmende werkingsmechanisme, waardoor dit een L5-computersignaal is dat niet voldoet aan de drempel voor verdere evaluatie op dit moment.
+**Onderbouwing:**
+- Alle zeven voorspellingen blijven in fase S0. Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.
 
-**Om verder te gaan, is het volgende nodig:**
-
-- **CBG-MEB-registeropvraag**: Bevestig de werkelijke Nederlandse marketingautorisatiestatus voor alle Mesalazine-formuleringen (lost de regelgevingsgegevenslacune op)
-- **SmPC-ophaling**: Verkrijg de nu geldende Nederlandse SmPC om belangrijke waarschuwingen, contra-indicaties, en geneesmiddelinteractie-evaluatie te voltooien (lost DG001 — Blokkerende lacune op)
-- **Mechanistische voorscreening**: Als enig nieuw bewijs opduikt dat Mesalazine aan lysosomale lipasebiologie of retinale/folliculaire structurele routes bindt, heroverweeg de bruikbaarheid van de voorspelling
-- **Overweeg alternatieve indicaties**: De evidence pack bevat twee andere voorspellingen met sterker biologisch bewijs — **osteoartritis** (rang 2, L4, 1 × 2024 Nature Communications preklinisch onderzoek via OSCAR-PPARγ-as) en **reumatoïde artritis** (rang 3, L3, historisch Sulfasalazine DMARD-bewijs) — die geschiktere kandidaten kunnen zijn voor specifieke evaluatierapporten voor geneesmiddelherbestemming
-
+**Om verder te gaan is nodig:**
+- Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter/SmPC (blokkerend datagat)
+- Mechanistische gegevens over mesalazine (bijv. via DrugBank)
+- Preklinisch of klinisch bewijs voor mesalazine als enkelvoudig middel bij reumatoïde artritis of artrose
+- Verduidelijking van de actuele marktstatus en beschikbare toedieningsvormen in Nederland
+- Beoordeling van het nierfunctie- en bloedbeeldrisico, gezien de contra-indicaties volgens de kennisgraaf
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -2,7 +2,7 @@
 layout: default
 title: Dutasteride
 parent: Alleen modelvoorspelling (L5)
-nav_order: 55
+nav_order: 125
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,74 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dutasteride: Van benigne prostaatalhyperplasie naar Ambras-type universeel aangeboren hypertrichose
+# Dutasteride: Van benigne prostaathyperplasie naar Ambras-type hypertrichosis universalis congenita
 
 ## Samenvatting in één zin
 
-Dutasteride is een duaal 5α-reductaseremmer (5-ARI) die internationaal is goedgekeurd voor de behandeling van benigne prostaatalhyperplasie (BPH), hoewel het momenteel geen handelsvergunning in Nederland heeft.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Ambras-type universeel aangeboren hypertrichose** — een zeldzame erfelijke aandoening die gegeneraliseerde overmatige haargroei veroorzaakt — met **0 klinische onderzoeken** en **0 publicaties** die deze specifieke richting momenteel ondersteunen.
-De volledige bewijsbasis rust uitsluitend op de computationele modelvoorspelling; er bestaat geen empirisch bewijs.
-
----
+Dutasteride werd oorspronkelijk ontwikkeld voor de behandeling van benigne prostaathyperplasie (BPH). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **Ambras-type hypertrichosis universalis congenita**, maar voor deze voorspelde indicatie zijn **geen geregistreerde klinische studies** en **geen directe publicaties** gevonden. De ondersteuning is daarmee uitsluitend gebaseerd op modelvoorspelling.
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Niet geregistreerd in Nederland; internationaal goedgekeurd voor benigne prostaatalhyperplasie (BPH) |
-| Voorspelde nieuwe indicatie | Ambras-type universeel aangeboren hypertrichose |
-| TxGNN-voorspellingsscore | 99.998% |
-| Bewijsniveau | L5 |
-| NL-marktsstatus | Niet geregistreerd (niet in de handel) |
-| Aantal goedkeuringen | 0 |
-| Aanbevolen besluit | Wachten |
+|------|------|
+| Oorspronkelijke indicatie | Benigne prostaathyperplasie |
+| Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
+| TxGNN-voorspellingsscore | 99,998% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen ingetrokken (doorgehaald) |
+| Aantal vergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Voor de data die voor dit rapport zijn samengesteld, is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is dutasteride een remmer van het enzym 5-alfareductase, dat testosteron omzet in dihydrotestosteron (DHT). Dit is hier niet vanuit de data bevestigd en moet worden geverifieerd aan de hand van de SmPC of DrugBank.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in dit Evidence Pack. Gebaseerd op vastgestelde farmacologie is Dutasteride een potent duaal remmer van 5α-reductase-isoënzymen type 1 en type 2 — de enzymen die verantwoordelijk zijn voor de omzetting van testosteron in dihydrotestosteron (DHT). Door DHT-niveaus in zowel systeemcirculatie als doelweefsels te verlagen, onderdrukt Dutasteride androgeen-afhankelijke processen, met name prostaatweefselproliferatie (BPH) en miniatuarisering van haarfollikels op de hoofdhuid zoals gezien bij androgenetische alopecia. Deze androgeen-pathway-werking vormt het theoretische uitgangspunt voor opname in aan haar gerelateerde voorspellingen.
+De voorspelde indicaties betreffen overwegend aandoeningen van haargroei en haarschacht (hypertrichosis, hypotrichosis, afwijkingen van de haarschacht, alopecia). Een link met androgeengevoelige haarfollikels is biologisch denkbaar, aangezien DHT een rol speelt bij de regulatie van haarfollikels. Voor de voorspelde zeldzame, genetisch bepaalde aandoening Ambras-type hypertrichosis is deze mechanistische relatie echter niet onderbouwd, en er zijn geen gegevens die haar ondersteunen. De mechanistische analyse blijft daarom in afwachting.
 
-Ambras-type universeel aangeboren hypertrichose is een uitzonderlijk zeldzaam aangeboren syndroom dat wordt gekenmerkt door dicht, fijn haar dat het gehele lichaamsoppervlak bedekt, behalve de palmen en zolen. Kritiek is dat de aandoening wordt veroorzaakt door structurele herrangschikkingen of mutaties die het **TRPS1**-gen op chromosoom 8q23-q24 beïnvloeden, dat een transcriptiefactor codeert die betrokken is bij haarfollikelvorming. Het pathologische mechanisme is geheel gen-ontwikkelings van aard en heeft **geen vastgestelde afhankelijkheid van androgeen-signalering of DHT-niveaus**.
+Opvallend is dat de voorspelling (haargroeiafwijking door overmatige haargroei) conceptueel afwijkt van het gangbare gebruik van 5-alfareductaseremmers bij haarverlies. Dit onderstreept dat nader onderzoek nodig is voordat conclusies worden getrokken.
 
-De mechanistische verbinding tussen Dutasterides DHT-verlagende werking en een androgeen-onafhankelijke genetische haarziekté is daarom uiterst zwak. De hoge TxGNN-score weerspiegelt waarschijnlijk gedeelde ontologische nabijheid in de kennisgraaf (zowel Dutasteride als deze aandoening zijn gekoppeld aan haargebonden knooppunten) in plaats van enige echte farmacologische relatie. Deze voorspelling moet worden behandeld als een artefact van de kennisgraaf, niet als een klinisch bruikbaar signaal.
+## Klinisch trialbewijs
 
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Gegevens van klinische onderzoeken
+## Literatuurbewijs
 
-Momenteel zijn er geen gerelateerde klinische onderzoeken geregistreerd.
+Voor de hoogst gerangschikte voorspelde indicatie is momenteel geen gerelateerde literatuur beschikbaar. Voor een lager gerangschikte voorspelling (diffuse alopecia areata, rang 8) is wel één publicatie gevonden:
 
----
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [41714473](https://pubmed.ncbi.nlm.nih.gov/41714473/) | 2026 | Review (narratief) | American Journal of Clinical Dermatology | Overzicht van pathofysiologie, klinische evaluatie en behandelingen van androgene alopecia bij vrouwen; de aandoening treft bijna 50% van de vrouwen en is vaak onderdiagnosticeerd en onderbehandeld. |
 
-## Literatuurgegevens
+Deze publicatie betreft niet de primair voorspelde indicatie en is slechts indirect relevant.
 
-Momenteel zijn geen gerelateerde literatuurgegevens beschikbaar.
+## Informatie over de Nederlandse markt
 
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | Niet beschikbaar | Niet beschikbaar |
+
+Deze vergunning is **ingetrokken**; er is momenteel geen geldige vergunning in de samengestelde data.
 
 ## Veiligheidsoverwegingen
 
-Zie de SmPC (Samenvatting van Product Characteristics) voor volledige veiligheidsinformatie. Geen gegevens over geneesmiddelinteracties, belangrijke waarschuwingen of contraïndicatiegegevens waren beschikbaar in dit Evidence Pack voor geautomatiseerde review.
+- **Contra-indicaties uit de kennisgraaf** (afkomstig uit de TxGNN-kennisgraaf, niet uit de productinformatie): multipele systeematrofie, posturaal orthostatisch tachycardiesyndroom, orthostatische hypotensie, leverziekte, galblaasaandoening, priapisme en intraoperatief floppy-irissyndroom.
+- **Geneesmiddeleninteracties**: in totaal zijn 100 interacties gevonden. Matig niveau: aprepitant, cimetidine, claritromycine, clotrimazol en miconazol. Daarnaast zijn er interacties met onbekend niveau, onder meer met pantoprazol, omeprazol, lansoprazol, metformine, simvastatine, morfine, prednison en hydrocortison.
 
-> **Opmerking voor CBG-MEB-beoordelaars:** Aangezien Dutasteride geen RVG-goedkeuring in Nederland heeft, zou de relevante SmPC-verwijzing een centraal geautoriseerd EMA-productdocument zijn of de SmPC van een goedgekeurd equivalent in een EU-lidstaat.
-
----
+Voor de officiële waarschuwingen en contra-indicaties dient de SmPC van het CBG-MEB te worden geraadpleegd. De productinformatie van het CBG-MEB kon niet worden verwerkt, wat een blokkerend hiaat is voor de veiligheidsscreening.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Wachten**
+**Beslissing: Hold**
 
-**Beargumentering:**
-Dutasterides werkingsmechanisme — DHT-verlaging door duaal 5α-reductaseremming — heeft geen vastgestelde farmacologische relevantie voor Ambras-type universeel aangeboren hypertrichose, die wordt aangedreven door een TRPS1-ontwikkelingsgenmutatie volledig buiten de androgeen-signalingsroute. De hoge TxGNN-score weerspiegelt een artefact van kennisgraafnabijheid, niet een klinische kans. Bovendien is Dutasteride momenteel niet geautoriseerd in Nederland (geen CBG-MEB RVG-nummer), dus elk klinisch gebruik zou volledige regelgeving en goedkeuring vereisen voordat toepassing.
+**Onderbouwing:**
+De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder klinische studies of directe literatuur. Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie.
 
-Een breder waarneming: in alle **10 meestvoorspelde indicaties** voor Dutasteride in dit pakket wordt elke voorspelling beoordeeld als **L5** met een **Wachten**-aanbeveling. Het terugkerende patroon van zeldzame genetische haar- en ontwikkelingsstoornissen zonder androgeen-pathway-verbinding suggereert dat het model overfitting vertoont naar haarbiolgie-knooppunten in de kennisgraaf zonder mechanistische validatie.
-
-**Om verder te gaan, zou het volgende nodig zijn:**
-- Prekliniisch bewijs (in vitro of diermodel) dat aantoont dat 5α-reductaseremming betekenisvol de TRPS1-pathway-activiteit of follikelvorming bij congenitale hypertrichose beïnvloedt
-- Een mechanistische review die verduidelijkt of enige subclassificatie van Ambras-syndroom een androgeen-gevoelige component bevat
-- Verkrijging van de volledige SmPC van Dutasteride van EMA of een lidstaat-autoriteit om S1-veiligheidsscreening te voltooien
-- MOA-documentatie van DrugBank (gegevensleemte DG002) om geautomatiseerde mechanistische koppelingsscore mogelijk te maken
-- Beoordeling of een meer klinisch relevante off-label indicatie (bijv. androgenetische alopecia bij vrouwen, waar DHT-pathway-bewijs wel bestaat) als prioriteit boven de huidige rangnummer-1-voorspelling moet worden beschouwd
-
+**Om verder te gaan is het volgende nodig:**
+- Productinformatie (SmPC/bijsluiter) van het CBG-MEB verwerken voor waarschuwingen en contra-indicaties (blokkerend hiaat)
+- Gegevens over het werkingsmechanisme ophalen uit DrugBank en de mechanistische link met de voorspelde indicatie beoordelen
+- Gerichte literatuur- en trialzoekopdrachten voor hypertrichosis en verwante haarafwijkingen uitvoeren
+- Beoordelen of de voorspelling (overmatige haargroei) biologisch consistent is met het bekende effect van het middel op haarfollikels
+- Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: Sterk bewijs (L1-L2)
-nav_order: 83
-evidence_level: L2
+parent: Alleen modelvoorspelling (L5)
+nav_order: 199
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,95 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Latanoprost: van glaucoom naar primaire erfelijke glaucoom
+# Latanoprost: Van open-hoekglaucoom naar primair erfelijk glaucoom
 
 ## Samenvatting in één zin
 
-Latanoprost is een prostaglandine-F2α (PGF2α) analogon dat internationaal erkend is als eerstelijnsbehandeling voor open-hoekglaucoom en oculaire hypertensie door verlaging van de intra-oculaire druk (IOP) via de FP-receptorroute.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **primaire erfelijke glaucoom**, met **1 afgeronde klinische studie** en **geen gepubliceerde literatuur** die deze richting momenteel ondersteunt.
-Dit vertegenwoordigt een indicatie-uitbreiding in een pediatrische/genetische glaucoomsubtype in plaats van een klassieke geneesmiddelhertoepassing, gezien het sterk overlappende onderliggende mechanisme.
+Latanoprost is een oogdruppel die oorspronkelijk wordt gebruikt voor de behandeling van open-hoekglaucoom en oculaire hypertensie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **primair erfelijk glaucoom**. Voor deze richting zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens; de ondersteuning berust uitsluitend op de modelvoorspelling.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|---------|
-| Originele indicatie | Glaucoom / oculaire hypertensie (niet geregistreerd in Nederland; gebaseerd op internationaal medicijnprofiel) |
-| Voorspelde nieuwe indicatie | Primaire erfelijke glaucoom |
-| TxGNN-voorspellingsscore | 99.88% |
-| Evidenceniveau | L2 |
-| NL-markeringsstatus | Niet op de markt |
-| Aantal machtigingen | 0 |
-| Aanbevolen besluit | Doorgaan met waarborgen |
+|------|------|
+| Oorspronkelijke indicatie | Open-hoekglaucoom en oculaire hypertensie (afkomstig uit de kennisgraaf; de vergunningstekst in de gegevens bevat geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Primair erfelijk glaucoom |
+| TxGNN-voorspellingsscore | 99,88% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
+| Aantal vergunningen | 1 (geen geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Latanoprost werkt als een selectieve agonist van de prostaglandine-F2α (FP) receptor in het ciliaire lichaam. Door deze receptor te activeren, verhoogt het de uvea-scleraalafvoer van kamerwater, waardoor de IOP afneemt. Dit mechanisme is goed ingesteld en vormt de farmacologische basis voor het gebruik als eerstelijnsagens bij open-hoekglaucoom en oculaire hypertensie volgens de meeste internationale richtlijnen.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Latanoprost is echter bekend als een prostaglandine-F2-alfa-analoog dat de oogdruk verlaagt door de uveosclerale uitstroom van kamerwater te vergroten. Dit mechanisme is in principe ook relevant voor andere vormen van glaucoom met verhoogde oogdruk.
 
-Primaire erfelijke glaucoom — omvattend primair congenitaal glaucoom (PCG) en juveniel open-hoekglaucoom (JOAG) — omvat structureel aangetaste afvoer van kamerwater, meestal door ontwikkelingsstoornissen van het trabeculaire netwerk. De kernpathofysiologie (verhoogde IOP door afvoerverhindering) is mechanistisch identiek aan vormen met volwassenaanvang waarvoor latanoprost al wordt gebruikt. Dit maakt de farmacologische grondslag voor IOP-verlagende therapie bij erfelijke glaucoom zeer aannemelijk.
-
-Deze voorspelling wordt daarom beter gekarakteriseerd als een **indicatie-uitbreiding** (in een genetisch/pediatrisch subtype) in plaats van een conventioneel hertoepassingsscenario. Een belangrijk voorbehoud is dat specifieke mutaties geassocieerd met primaire erfelijke glaucoom — vooral in de genen *MYOC* en *CYP1B1* — de biologie van het trabeculaire netwerk kunnen wijzigen en mogelijk de omvang van de prostagelandineanalogreactie beïnvloeden. Genotype-gestratificeerde werkzaamheidsgegevens zijn nog steeds beperkt.
+Primair erfelijk glaucoom ligt dicht bij de al bestaande indicaties. Het gaat dus eerder om een uitbreiding binnen dezelfde ziektefamilie dan om echte herpositionering. Een belangrijke kanttekening is dat erfelijk glaucoom vaak samenhangt met aangeboren afwijkingen van het kamerhoekdrainagesysteem. Of verbeterde uveosclerale uitstroom daar voldoende effect heeft, is niet aangetoond in de beschikbare gegevens.
 
 ---
 
-## Klinische onderzoeksgegevens
+## Klinisch trialbewijs
 
-| Onderzoeksnummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
-|-------------|-------|--------|------------|--------------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fase 2 | Afgerond | 37 | Beoordeelde het IOP-verlagend effect en veiligheid van een prostagelandineanaloagon (latanoprostklasse) versus dorzolamide (een carboanhydrasereming) bij pediatrische glaucoomatiënten die refractair waren voor chirurgische procedures. Het protocol werd later gewijzigd om gericht 68 ogen van 34–68 patiënten te bereiken. Het onderzoek liep van juli 2009 tot november 2016. |
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
 ## Literatuurbewijs
 
-Momenteel geen gerelateerde literatuur beschikbaar.
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Latanoprost heeft **geen handelsvergunning** van CBG-MEB en is niet commercieel beschikbaar in Nederland. Er is geen Nederlands SmPC of bijsluiter geregistreerd.
-
-> **Opmerking voor beroepsbeoefenaren:** Latanoprost is in andere EU-lidstaten beschikbaar onder merknamen zoals **Xalatan®** (Pfizer), die een gecentraliseerde EMA-vergunning heeft. Voor gebruik in Nederland zou toegang vereist zijn via een van de volgende routes:
-> - Off-label voorschrijven met gedocumenteerde geïnformeerde toestemming
-> - Named-patient / compassionate use-programma via CBG-MEB
-> - Invoer onder artikel 3(1) van Richtlijn 2001/83/EG
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 115407 | Latanostad 50 microgram/ml oogdruppels, oplossing (status: doorgehaald) | Niet vermeld | Niet vermeld |
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Geen veiligheidsgegevens (belangrijke waarschuwingen, contraïndicaties of geneesmiddelinteracties) zijn vastgelegd in dit Evidence Pack voor latanoprost.
+- **Contra-indicaties volgens de kennisgraaf** (niet gebaseerd op de bijsluitertekst): uveïtis, irisaandoeningen, aandoeningen van het corpus ciliare, panuveïtis, macula-oedeem van het netvlies, cystoïd macula-oedeem, iritis en conjunctivitis (waaronder acute besmettelijke conjunctivitis).
+- **Geneesmiddelinteracties**: in de interactiedatabase zijn 100 mogelijke interacties gevonden, onder meer met calcitriol, glimepiride, doxycycline, clotrimazol, lansoprazol, cimetidine, atropine, pantoprazol, mesalazine en acarbose. Het ernstniveau van de getoonde interacties is niet gespecificeerd ("onbekend"), dus klinische relevantie kan op basis van deze gegevens niet worden beoordeeld.
 
-Raadpleeg de **SmPC (Samenvatting van Productkenmerken)** voor veiligheidsinformatie. Bij afwezigheid van een Nederlands SmPC, raadpleeg het EMA-goedgekeurd Xalatan®-SmPC of de productinformatie uit het herkomstland. Bijzondere aandacht is gewenst voor pediatrisch gebruik, inclusief veranderingen in iriskleurstelling, lokale oculaire tolerabiliteit en systemische absorptie bij kleine kinderen.
+Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Doorgaan met waarborgen**
+**Beslissing: Hold**
 
-**Grondslag:**
-De mechanistische grondslag is sterk — primaire erfelijke glaucoom deelt dezelfde IOP-gestuurde pathofysiologie als glaucoom met volwassenaanvang, en ten minste één afgerond fase 2-onderzoek biedt direct klinisch bewijs voor prostagelandineanaloagon in dit pediatrische/genetische subtype. Het geneesmiddel is echter niet geregistreerd in Nederland, en pediatrisch-specifieke veiligheids- en genotype-gestratificeerde werkzaamheidsgegevens blijven onvolledig.
+**Onderbouwing:**
+- De voorspelling is plausibel maar uitsluitend gebaseerd op het model (L5), zonder studies of publicaties. Bovendien is er in Nederland geen geldige vergunning voor het enige geregistreerde product.
 
-**Om door te gaan, is het volgende nodig:**
+**Om verder te gaan is nodig:**
+- Bijsluiter- en SmPC-gegevens van het CBG-MEB (waarschuwingen, contra-indicaties), omdat de veiligheidsscreening anders niet kan worden afgerond
+- Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
+- Een literatuur- en trialzoekactie specifiek voor latanoprost bij primair (congenitaal) erfelijk glaucoom
+- Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland, aangezien de enige vermelde vergunning is doorgehaald
 
-- Haal en herzie de volledige resultaten van **NCT01527682** (Fase 2, afgerond 2016) — werkzaamheidseindpunten, IOP-verlagingomvang en bijwerkingenprofiel bij pediatrische patiënten
-- Voer een bredere literatuurzoeking uit naar latanoprost en topische prostagelandineanaloagon specifiek bij primair congenitaal glaucoom en JOAG (zoektermen buiten het huidige zoekbereik)
-- Verkrijg SmPC van EMA of herkomstbron (Xalatan®) om de veiligheidsevaluatie af te ronden — belangrijke waarschuwingen, contraïndicaties en geneesmiddelinteracties
-- Verduidelijk of *MYOC*- of *CYP1B1*-genotype de reactie op prostagelandineanaloagtherapie beïnvloedt
-- Bepaal het toepasselijke regelgevingspad voor gebruik in Nederland (CBG-MEB off-label gebruik, named-patient invoer of magistrale bereiding)
-- Ontwikkel een pediatrisch-specifiek veiligheidstoezichtplan dat betrekking heeft op: IOP-bewaking, iris- en periocculaire pigmentatieveranderingen, systemische bèta-adrenerge-achtige effecten en langetermijnstructurele resultaten
+---
 
+## Overige voorspelde indicaties (ter oriëntatie)
+
+Alle onderstaande voorspellingen zijn L5 (alleen modelvoorspelling, zonder trials of literatuur).
+
+| Rang | Voorspelde indicatie | Score | Aanbeveling | Toelichting |
+|---|---|---|---|---|
+| 2 | Viscerale calciphylaxie | 99,83% | Hold | Geen duidelijk mechanistisch verband; minimale systemische blootstelling bij oogdruppels |
+| 3 | Hypotrichosis simplex van de hoofdhuid | 99,81% | Onderzoeksvraag | Prostaglandineanalogen verlengen de anagene haarfase (vgl. wimperverlenging); effect bij erfelijke haarloosheid onbewezen |
+| 4 | Veneus thoracic-outlet-syndroom | 99,78% | Hold | Mechanische compressie; geen verband met werking |
+| 5 | Arterieel thoracic-outlet-syndroom | 99,78% | Hold | Identieke score als veneuze vorm, wijst op grafartefact |
+| 6 | Neurogeen thoracic-outlet-syndroom | 99,72% | Hold | Compressie van de plexus brachialis; geen verband |
+| 7 | Congenitale hypotrichosis milia | 99,71% | Onderzoeksvraag | Plausibel via haarfollikelcyclus, maar genetische oorzaak kan respons beperken |
+| 8 | Angiodysplasie van de maag | 99,70% | Hold | Geen duidelijk verband; oogdruppel bereikt de maag niet |
+| 9 | Blauwe-teensyndroom | 99,69% | Hold | Indirect verband; verwaarloosbare systemische blootstelling |
+| 10 | Lymfangiëctasie | 99,67% | Hold | Speculatief verband via prostaglandinesignalering |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -2,7 +2,7 @@
 layout: default
 title: Travoprost
 parent: Alleen modelvoorspelling (L5)
-nav_order: 120
+nav_order: 329
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,69 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Travoprost: van Open-angle glaucoom naar Viscerale calcifylaxis
+# Travoprost: Van open-hoekglaucoom naar viscerale calciphylaxie
 
 ## Samenvatting in één zin
 
-Travoprost is een agonist van prostaglandine-FP-receptoren die klinisch wordt gebruikt voor het verlagen van intraoculaire druk bij open-angle glaucoom en oculaire hypertensie.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Viscerale calcifylaxis**,
-waarbij momenteel **0 klinische trials** en **0 publicaties** deze richting ondersteunen.
+Travoprost is een prostaglandine-F2-alfa-analoog dat oorspronkelijk wordt gebruikt voor de behandeling van open-hoekglaucoom en oculaire hypertensie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **viscerale calciphylaxie**, maar voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op het model (evidentieniveau L5).
 
----
+## Snel overzicht
 
-## Korte samenvatting
+| Onderdeel | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Open-hoekglaucoom en oculaire hypertensie (volgens de kennisgraaf; de Nederlandse registratietekst is niet beschikbaar) |
+| Voorspelde nieuwe indicatie | Viscerale calciphylaxie |
+| TxGNN-voorspellingsscore | 99,99% |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
+| Aantal registraties | 1 (doorgehaald) |
+| Aanbevolen beslissing | Hold |
 
-| Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Open-angle glaucoom / Oculaire hypertensie (afgeleid van klinische trial-gegevens; geen CBG-MEB-handelstoestemming op bestand) |
-| Voorspelde nieuwe indicatie | Viscerale calcifylaxis |
-| TxGNN-voorspellingsscore | 99.9998% |
-| Bewijsniveau | L5 |
-| NL-marktpositie | Niet op de markt in Nederland |
-| Aantal handelstoestemmingen | 0 |
-| Aanbevolen besluit | Wachten |
+## Waarom is deze voorspelling (on)aannemelijk?
 
----
+Travoprost is een agonist van de FP-receptor en een analoog van prostaglandine F2-alfa. Bij glaucoom verlaagt het de oogdruk door de uveosclerale afvloeiing te vergroten. Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande beschrijving berust op algemeen bekende farmacologie.
 
-## Waarom is deze voorspelling redelijk?
+Viscerale calciphylaxie (calcificerende uremische arteriolopathie) is een ernstige vaatverkalking van kleine bloedvaten, vooral bij nierfalen. Een duidelijk mechanistisch verband met FP-receptoragonisme wordt door de beschikbare gegevens niet ondersteund. Bovendien wordt travoprost lokaal in het oog toegediend, met minimale systemische blootstelling. De hoge modelscore weerspiegelt waarschijnlijk vooral nabijheid in de kennisgraaf tot vaatgerelateerde termen en geen aangetoonde werkzaamheid.
 
-Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in het Evidence Pack. Op basis van bekende farmacologische informatie is travoprost een selectieve agonist van prostaglandine-FP-receptoren. De werkzaamheid ervan in het verlagen van intraoculaire druk bij open-angle glaucoom en oculaire hypertensie is goed aangetoond in meerdere klinische fase 3–4-onderzoeken. Het primaire mechanisme omvat verbeterde uveoschleraaluitvloeiing van humor aquosus via FP-receptorstimulatie, met een secundair vasodilatatorisch effect dat verantwoordelijk is voor de karakteristieke conjunctivale hyperemie die klinisch wordt waargenomen.
+Ook de andere voorspelde indicaties (o.a. thoracic-outlet-syndromen, angiodysplasie van de maag, blauwe-teensyndroom, spontane coronaire dissectie, lymfangiectasie, hemangio-endothelioom) hebben geen klinische of literatuurondersteuning en een zwakke mechanistische onderbouwing. Alle zijn L5 (hemangio-endothelioom: L4, enkel een casusbeschrijving van een bijwerking), met de aanbeveling Hold.
 
-Viscerale calcifylaxis (calcifische uremische arteriolo-pathie) is een afzonderlijke pathologische entiteit die wordt gekenmerkt door mediale calcificatie en thrombotische occlusie van kleine cutane en viscerale vaten. Het komt het meest voor bij patiënten met eindstadium nierziekte en omvat dysgereguleerde calcium-fosfaat-homeostase, transdifferentiatie van vasculaire gladde spiercellen naar osteoblast-achtige cellen, en thrombotische microangiopathie. Geen van deze mechanismen zijn bekende aangrijpingspunten van het prostaglandine-FP-receptorpad.
+## Klinisch trialbewijs
 
-De uitzonderlijk hoge TxGNN-score (>99,99%) weerspiegelt waarschijnlijk een artefact in de topologie van de kennisgraaf: Travoprost deelt brede 'vasculaire' en 'prostaglandine'-knooppunten van de graaf met calcifylaxis via tussenliggende graafverbindingen, in plaats van een direct mechanistisch of klinisch verband. De eigen onderbouwing van hergebruik in het Evidence Pack geeft aan dat deze voorspelling "kan voortvloeien uit voortplantingsbias bij gegeneraliseerde vasculaire knooppunten". Geen gepubliceerde literatuur of geregistreerde klinische trial ondersteunt momenteel deze richting van hergebruik.
+Voor viscerale calciphylaxie zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
----
+Ter informatie: voor de bredere voorspelling "vaatziekte" (rang 5) zijn 10 studies gevonden, maar die betreffen vrijwel allemaal travoprost bij glaucoom (de oorspronkelijke indicatie). De enige studie met een vasculaire component is [NCT00308945](https://clinicaltrials.gov/study/NCT00308945) (fase 4, afgerond, n=20), die het effect van travoprost versus latanoprost op de diameter van netvliesvaten en de choroïdale bloedstroom mat. Dit is een fysiologische meting in het oog en geen bewijs van werkzaamheid bij een vaatziekte.
 
-## Klinische trials
+## Literatuurbewijs
 
-Momenteel zijn geen gerelateerde klinische trials geregistreerd.
+Voor viscerale calciphylaxie is momenteel geen gerelateerde literatuur beschikbaar.
 
----
-
-## Literatuurbewijzen
-
-Momenteel is geen gerelateerde literatuur beschikbaar.
-
----
+Voor "vaatziekte" en "hemangio-endothelioom" zijn publicaties gevonden, maar die gaan over glaucoombehandeling en oculaire bijwerkingen, niet over werkzaamheid bij een nieuwe indicatie. Een voorbeeld is de casusbeschrijving [PMID 19107053](https://pubmed.ncbi.nlm.nih.gov/19107053/) (2008, Journal français d'ophtalmologie): uveale effusie door lokaal travoprost bij een patiënt met het Sturge-Weber-Krabbe-syndroom. Dit is een bijwerking en geen therapeutisch voordeel, maar het geeft wel een veiligheidssignaal bij patiënten met vaatafwijkingen in het oog.
 
 ## Informatie over de Nederlandse markt
 
-Travoprost beschikt momenteel over **geen handelstoestemming** van het CBG-MEB (College ter Beoordeling van Geneesmiddelen) in Nederland. Er is geen RVG-nummer toegewezen. Het geneesmiddel is daarom niet commercieel verkrijgbaar via standaard Nederlandse distributielijnen.
-
-Voor regelgevingsverwijzing hebben travoprost-bevattende oftalmische oplossingen (bijv. Travatan®, Travatan Z®) handelstoestemmingen verkregen in andere EU-lidstaten via nationale procedures. De overeenkomstige SmPC (Samenvatting van de Productkenmerken) van die toestemmingen — met name de secties met waarschuwingen, contra-indicaties en speciale populaties — dient als primaire veiligheidsbron te worden geraadpleegd.
-
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing (doorgehaald) | Oogdruppels, oplossing | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Er zijn momenteel geen belangrijke waarschuwingen, contra-indicaties of interactiegegevens van geneesmiddelen beschikbaar in dit Evidence Pack.
+- **Contra-indicaties volgens de kennisgraaf** (afgeleid van relaties in de kennisgraaf, niet van de bijsluitertekst): uveïtis, irisaandoeningen, aandoeningen van het corpus ciliare, panuveïtis, iritis, cystoïd maculaoedeem en maculair netvliesoedeem.
+- **Geneesmiddelinteracties**: in totaal 49 mogelijke interacties gevonden; het ernstniveau is bij alle getoonde interacties onbekend. Genoemd zijn onder meer calcitriol, pantoprazol, sucralfaat, morfine, metformine, omeprazol, rosiglitazon, lansoprazol, lactulose, triamcinolon, prednison, simvastatine, kaliumchloride, prednisolon, ranitidine, ondansetron, metronidazol, famotidine, acetylsalicylzuur en glibenclamide.
 
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
-## Conclusie en volgende stappen
+## Conclusie en vervolgstappen
 
-**Besluit: Wachten**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-Er zijn geen klinische trial-gegevens, geen ondersteunende literatuur en geen gevestigde mechanistische onderbouwing die het FP-receptorpad van travoprost aan viscerale calcifylaxis koppelt. De hoge TxGNN-score kan het meest aannemelijk worden toegeschreven aan voortplantingsbias in de kennisgraaf via gedeelde vasculaire ontologieknooppunten in plaats van een werkelijk biologisch signaal.
+- De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.
 
-**Om door te gaan, zou het volgende nodig zijn:**
-
-- **Genereren van mechanistische hypothese**: Identificeer elk aannemelijk biologisch pad dat prostaglandine-FP-receptoractivering verbindt met vasculaire calcificatie of thrombotische microangiopathie (bijv. via TGF-β, Wnt/β-catenine, of inflammatie-gemedieerde calcificatiepaden).
-- **Preclinisch bewijs**: In vitro- of diermodelgegevens die een effect van FP-receptoragonisme op vasculaire calcificatie of progressie van calcifylaxis-lesies aantonen vóór enige klinische overweging.
-- **Opheldering van veiligheidsprofiel**: Verkrijg de volledige SmPC van een handelstoestemming van een EU-lidstaat om systeemblootstellingsrisico, contra-indicaties en relevante waarschuwingen te beoordelen — vooral gezien het feit dat patiënten met calcifylaxis doorgaans ernstige nierfunctiestoornissen hebben, wat de medicijnuitscheiding en verdraagzaamheid aanzienlijk kan beïnvloeden.
-- **Status van CBG-MEB-handelstoestemming**: Bevestig of een EU-gecentraliseerde of procedure voor onderlinge erkenning is ingediend; zo niet, zou een de novo-toestemmingsprocedure nodig zijn vóór enig Nederlands klinisch gebruik.
-- **Herbeoordeling van TxGNN-rangschikking**: Onderzoek of de voorspellingsscore aanhoudt na correctie voor bias in de graad van vasculaire knooppunten; een robuuste score na correctie zou escalatie naar L4 preclinisch onderzoek rechtvaardigen.
-
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een onderbouwd biologisch verband met calciphylaxie.
+- Preklinisch of klinisch bewijs bij de voorspelde indicatie.
+- De SmPC/bijsluiter van het CBG-MEB voor een volledige veiligheidsbeoordeling.
+- Beoordeling van de toedieningsroute, aangezien een systemische formulering nodig zou zijn.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

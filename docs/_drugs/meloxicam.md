@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Meloxicam
-parent: Alleen modelvoorspelling (L5)
-nav_order: 92
-evidence_level: L5
+parent: Matig bewijs (L3-L4)
+nav_order: 220
+evidence_level: L4
 indication_count: 10
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,61 +29,85 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Meloxicam: Van osteoartritis naar Acromesomale dysplasie, Hunter-Thompson-type
+# Meloxicam: Van reumatoïde artritis naar reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis
 
-## Samenvatting in één zin
+## Samenvatting in één alinea
 
-Meloxicam is een selectieve COX-2-remmer (NSAID) die veel wordt gebruikt voor pijn- en ontstekingsbestrijding bij musculoskeletale aandoeningen zoals osteoartritis en reumatoïde artritis.
-Het TxGNN-model voorspelt dat het mogelijk relevant is voor **Acromesomale dysplasie, Hunter-Thompson-type**,
-echter wordt deze voorspelling momenteel ondersteund door **0 klinische trials en 0 publicaties**, wat het op het laagste bewijsniveau (L5) plaatst met een **Hold**-aanbeveling.
+Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt gebruikt bij reumatoïde artritis, artrose en andere gewrichtsaandoeningen. Het TxGNN-model voorspelt meerdere nieuwe indicaties; de best onderbouwde is **reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis**, met **0 klinische studies** en **1 publicatie** (indirect bewijs over andere NSAID's). De overige negen voorspellingen hebben geen enkel bewijs.
+
+> **Opmerking over de keuze van de indicatie:** de voorspelling met de hoogste TxGNN-score (rang 1) is *acromesomele dysplasie, type Hunter-Thompson* (99,92%), maar daarvoor ontbreekt elk bewijs en elke mechanistische onderbouwing. Voor dit rapport is daarom de enige voorspelling met enig literatuurbewijs (rang 8) als hoofdindicatie gekozen. Deze ligt bovendien binnen de bestaande indicatiefamilie van meloxicam.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Geen gegevens over autorisatie in Nederland (CBG-MEB) beschikbaar |
-| Voorspelde nieuwe indicatie | Acromesomale dysplasie, Hunter-Thompson-type |
-| TxGNN-voorspellingsscore | 99.92% |
-| Bewijsniveau | L5 |
-| NL-markeringsstatus | Niet geregistreerd (0 autorisaties gevonden) |
-| Aantal autorisaties | 0 |
-| Aanbevolen beslissing | Hold |
+|------|------|
+| Oorspronkelijke indicatie | Reumatoïde artritis, artrose, juveniele idiopathische artritis, spondyloartropathie (afgeleid uit de kennisgraaf; geen geregistreerde indicatietekst beschikbaar) |
+| Voorspelde nieuwe indicatie | Reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis |
+| TxGNN-voorspellingsscore | 99,44% |
+| Bewijsniveau | L4 |
+| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
+| Aantal vergunningen | 1 (0 geldig) |
+| Aanbevolen beslissing | Hold (onderzoeksvraag) |
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Momenteel zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar in deze Evidence Pack. Op basis van goed gevestigd farmacologisch kennis is meloxicam een preferentiële COX-2-remmer van de oxicamklasse. Het onderdrukt prostaglandinesynthese — met name PGE₂ — door selectief cyclooxygenase-2 (COX-2) te remmen, waardoor ontstekingen, pijn en koorts worden verminderd. Zijn klinische rol is goed vastgesteld bij ontstekelijke musculoskeletale aandoeningen, waaronder osteoartritis, reumatoïde artritis en ankyloserende spondylitis. In Nederland worden NSAID's van deze klasse gereguleerd onder toezicht van CBG-MEB en voorgeschreven volgens de SmPC.
+Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar in de samengestelde gegevens. Meloxicam is echter een NSAID met voorkeur voor COX-2-remming. Door de prostaglandinesynthese te verminderen, remt het ontsteking en pijn. Dit mechanisme is relevant voor gewrichtsontsteking in het algemeen.
 
-Acromesomale dysplasie, Hunter-Thompson-type (ACMSD) is een zeldzame autosomaal recessieve skeletdysplasie veroorzaakt door verliesfunctiemutaties in het *GDF5*-gen (dat Cartilage-Derived Morphogenetic Protein-1, CDMP1 codeert). De aandoening wordt gekenmerkt door ernstige verkorting van de middel- en distale ledematen, als gevolg van verstoord bot-morfogenetisch proteïnesignalering tijdens skeletale ontwikkeling. Cruciaal is dat **dit een structurele genetische aandoening is zonder een vastgesteld ontstekings- of COX-pad-gedreven pathomechanisme**. Er is geen biologische grondslag voor COX-2-remming om het ziektebeloop te wijzigen.
+Juveniele idiopathische artritis (JIA) staat al vermeld onder de oorspronkelijke indicaties van meloxicam in de kennisgraaf. De voorspelde subtype (reumatoïde-factor-positieve polyarticulaire JIA) is dus een uitbreiding binnen een bestaande indicatiefamilie, geen echte nieuwe herpositionering. Het mechanistische overlap is sterk, maar de enige beschikbare literatuur betreft celecoxib en niet-selectieve NSAID's, niet meloxicam zelf.
 
-De hoge voorspellingsscore (99.92%) van het TxGNN-model weerspiegelt waarschijnlijk **netwerknauwheid** tussen Meloxicam en skeletziekteknooppunten binnen de kennisgraaf — een erkende beperking van graafgebaseerde voorspellingsmodellen — in plaats van een echt therapeutische relatie. Deze voorspelling moet worden beschouwd als een computationeel artefact in plaats van een klinisch bruikbaar signaal. Voor context: meer mechanistisch plausibele repositioningskandidaten in deze Evidence Pack zijn onder meer **spondyloartropatie (rang 6)**, waar NSAID's een eerste-lijnsbehandeling zijn, en **RF-positieve polyarticulaire juveniele idiopathische artritis (rang 8)**, waarbij indirecte NSAID-veiligheidsliteratuur bestaat (PMID: 25057265).
-
----
-
-## Bewijs uit klinische trials
-
-Momenteel zijn geen gerelateerde klinische trials geregistreerd.
+**Kanttekening bij de overige voorspellingen:** de andere negen voorspellingen betreffen grotendeels zeldzame genetische skeletdysplasieën of syndromen (bijv. brachyolmie, pseudoachondroplasie, WHIM-syndroom). Hiervoor is geen duidelijke farmacologische link; de hoge scores weerspiegelen waarschijnlijk nabijheid in het netwerk van de kennisgraaf. Twee voorspellingen (spondyloartropathie-gevoeligheid en reumatoïde nodulosis) liggen dicht bij de bestaande indicaties, maar zijn geen behandelbare nieuwe klinische fenotypen of worden niet door NSAID's behandeld.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit klinische studies
 
-Momenteel is geen gerelateerde literatuur beschikbaar.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Cohortstudie | Pediatric Rheumatology Online Journal | Langetermijnveiligheid en ontwikkelingsgegevens van JIA-patiënten behandeld met celecoxib of niet-selectieve NSAID's in de dagelijkse praktijk (fase 4-register). Betreft niet specifiek meloxicam. |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Er werden geen CBG-MEB-marketingautorisaties in de huidige dataset opgehaald (0 records). Meloxicam is een veel vermarkt NSAID in Europa, en dit resultaat is waarschijnlijk een **gegevensverzamelingsleemte** in plaats van een werkelijke weerspiegeling van de beschikbaarheid op de Nederlandse markt. Onafhankelijke verificatie via het openbare CBG-MEB-register wordt sterk aanbevolen voordat regelgevingsconclusions worden getrokken.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 107068 | Meloxicam Aurobindo 15 mg, tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
 
 ---
 
-## Veiligheidsbeschouwingen
+## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van het Productkenmerk) voor volledige veiligheidsinformatie, inclusief waarschuwingen, contra-indicaties en geneesmiddelinteracties. Opmerking: als NSAID draagt meloxicam klassenniveauoverwegingen met zich mee (bijvoorbeeld gastro-intestinale, cardiovasculaire en renale risico's) die relevant zijn ongeacht de indicatie die wordt geëvalueerd.
+Voor de bijsluiterteksten (waarschuwingen en contra-indicaties) zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor veiligheidsinformatie.
+
+**Contra-indicaties volgens de kennisgraaf** (afgeleid uit TxGNN/PrimeKG, niet uit de officiële productinformatie):
+- Cardiovasculair: hypertensie, congestief hartfalen, hartinfarct, coronaire trombose, beroerte/cerebrovasculaire aandoeningen, hart- en vaatziekten
+- Nier: nierziekte, verminderde nierfunctie
+- Maag-darm: gastritis, actief maagzweerlijden
+- Bloed: stollingsstoornissen, anemie (waaronder macrocytaire anemie), hemoglobinopathie
+- Metabool: diabetes mellitus, diabetische ketoacidose, hyperlipidemie (waaronder familiaire)
+- Overig: pyoureter, middelenmisbruik/-afhankelijkheid
+
+**Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden; de meeste vermelde zijn van matig niveau. Voorbeelden:
+- Corticosteroïden (hydrocortison, dexamethason, betamethason, triamcinolon, budesonide)
+- Acetylsalicylzuur
+- Mesalazine en balsalazide
+- Antidiabetica (metformine, glimepiride, chloorpropamide)
+- Vancomycine en kanamycine
+- Kaliumcitraat en kaliumbicarbonaat
+- Laxeermiddelen en darmvoorbereiding (natriumsulfaat, picosulfaat, polyethyleenglycol)
+- Aprepitant
+
+Linaclotide is als enige in de lijst van een licht (minor) niveau.
 
 ---
 
@@ -91,19 +115,17 @@ Raadpleeg de SmPC (Samenvatting van het Productkenmerk) voor volledige veilighei
 
 **Beslissing: Hold**
 
-**Rationale:**
-De best geclassificeerde TxGNN-voorspelling — acromesomale dysplasie, Hunter-Thompson-type — is een genetische structurele aandoening zonder bekende ontstekings- of COX-2-padweg betrokkenheid. Met nul klinische trials, nul ondersteunende publicaties (L5-bewijs) en een mechanistisch mismatch, is er geen basis om verder te gaan voor deze specifieke indicatie.
+**Onderbouwing:**
+- Het bewijs is beperkt tot één indirecte cohortstudie over andere NSAID's (L4). De overige negen voorspellingen hebben geen bewijs (L5) en vaak geen plausibel mechanisme.
+- De hoofdindicatie ligt binnen een bestaande indicatiefamilie, dus er is weinig sprake van echte herpositionering.
+- De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsgegevens ontbreken (blokkerende datalacune).
 
-**Om verder te gaan, is het volgende nodig:**
-
-- **Verificatie van de NL-markeringsstatus** via het openbare CBG-MEB-register (https://www.cbg-meb.nl/) — huidige gegevens weerspiegelen waarschijnlijk een verzamelingsleemte
-- **Verkrijg de Meloxicam SmPC** om volledige waarschuwingen, contra-indicaties en geneesmiddelinteractiegegevens op te halen (momenteel allemaal vermeld als gegevensleemten)
-- **MOA-gegevens ophalen** van DrugBank (DB00814) om formeel het COX-2-selectiviteitsprofiel voor mechanistische analyse vast te leggen
-- **Herbepaal de prioritering van repositioningsevaluatie** naar kandidaten met hogere waarde in dezelfde Evidence Pack:
-  - **Rang 6 — Spondyloartropatie**: NSAID's zijn een eerste-lijnstherapie; mechanistisch geldig; vereist bevestigend onderzoek in bredere literatuurdatabases
-  - **Rang 8 — RF-positieve polyarticulaire juveniele idiopathische artritis**: Indirecte NSAID-veiligheidsbewijs bestaat ([PMID: 25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/)); Meloxicam is goedgekeurd voor JIA in sommige markten (bijv. USA); NL-goedkeuringsstatus moet worden geverifieerd
-- **Voer gerichte literatuarzoekopdrachten** uit voor Meloxicam in SpA- en JIA-populaties om vast te stellen of voldoende bewijs bestaat voor een L3- of hoger bewijsdesignatie
-
+**Om verder te gaan is nodig:**
+- De SmPC/bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen, contra-indicaties, goedgekeurde indicaties)
+- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
+- Meloxicam-specifiek bewijs voor (polyarticulaire) JIA zoeken, inclusief pediatrische dosering en veiligheid
+- Vaststellen of er een geldige vergunning of beschikbaar alternatief product in Nederland is
+- Een veiligheidsplan opstellen voor risicogroepen (hart- en vaatziekten, nierfunctie, maag-darmklachten)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

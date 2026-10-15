@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lactulose
-parent: Alleen modelvoorspelling (L5)
-nav_order: 81
-evidence_level: L5
+parent: Matig bewijs (L3-L4)
+nav_order: 193
+evidence_level: L3
 indication_count: 8
 ---
 
 # Lactulose
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,112 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Lactulose: Van Hepatische Encefalopatie naar Acute Uraat Nefropathie
+# Lactulose: Van hepatische encefalopathie naar obstructieve icterus
 
-## Samenvatting in één zin
+## Samenvatting in één alinea
 
-Lactulose is een niet-absorbeerbare synthetische disaccharide met een tientallen jaren durende klinische staat van dienst in de behandeling van hepatische encefalopatie en obstipatie, werkend via osmotische effecten in het maagdarmkanaal en modulatie van de microbiota.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **Acute Uraat Nefropathie**,
-echter **geen klinische onderzoeken** en **geen publicaties** ondersteunen momenteel deze specifieke indicatie — wat het bewijs plaatst op niveau **L5 (alleen modelvoorspelling)**.
+Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk wordt gebruikt bij hepatische encefalopathie, hepatisch coma en obstipatie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **obstructieve icterus** (rang 3 van de voorspellingen). De eerste twee voorspellingen (acute urinezuurnefropathie en nefrolithiase) hebben geen enkel ondersteunend bewijs; daarom is gekozen voor de eerste voorspelling met daadwerkelijk bewijs. Voor obstructieve icterus zijn **geen geregistreerde klinische studies** en **20 publicaties** beschikbaar, waarvan het meeste oud, klein of preklinisch is.
 
----
-
-## Snelle Samenvatting
-
-| Item | Inhoud |
-|------|--------|
-| Oorspronkelijke Indicatie | Hepatische encefalopatie / Obstipatie (gevestigde klinische toepassing; geen NL registratiegegevens gevonden in deze bewijsvoering) |
-| Voorspelde Nieuwe Indicatie | Acute Uraat Nefropathie |
-| TxGNN Voorspellingsscore | 99.89% |
-| Bewijsniveau | L5 |
-| NL Marktbeschikbaarheid | Niet Geregistreerd |
-| Aantal Toelatingingen | 0 |
-| Aanbevolen Besluit | Wachten |
+> **Let op:** de rangvolgorde in de gegevens plaatst "acute urinezuurnefropathie" op nummer 1 (score 99,89%). Zonder enig bewijs (niveau L5) is die niet als hoofdindicatie gekozen. Deze keuze is bewust gemaakt en wordt hier transparant vermeld. Aan het eind van het rapport staat een overzicht van alle voorspellingen.
 
 ---
 
-## Waarom is Deze Voorspelling Redelijk?
+## Snel overzicht
 
-Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in de bewijsvoering. Op basis van gevestigde klinische kennis is Lactulose een niet-absorbeerbare disaccharide waarvan de primaire werkingen zijn: **(1)** een osmotisch laxatief effect dat de darmdoorgang versnelt, **(2)** verzuring van de coloniale inhoud die gramnegatieve bacteriën die ammonia produceren onderdrukten, en **(3)** vermindering van de systemische endotoxinebelasting door beperking van bacteriële translokatie. Zijn werkzaamheid bij hepatische encefalopatie is bewezen en wordt bevestigd door meerdere onafhankelijke publicaties in deze bewijsvoering (bijv. PMID 9145459, PMID 28875419).
-
-Acute uraat nefropathie is een afzonderlijke aandoening veroorzaakt door de plotselinge kristallisatie van uraat in de niertubuli — meestal geactiveerd door tumorcellysis syndroom of ernstige hyperuricemie — wat leidt tot tubulaire obstructie en acuut nierfalen. Dit mechanisme heeft geen rechtstreekse farmacologische overlap met de bekende werkingen van Lactulose.
-
-De theoretische brug die door TxGNN wordt voorgesteld — **modificatie van de darmflora → veranderde purinemetabolisme → verminderde uraat productie** — is een uiterst indirect traject dat momenteel geen ondersteunend preklinisch of klinisch bewijs heeft. De hoge score van het model van 99.89% weerspiegelt waarschijnlijk het meest plausibel een overbegeneralisatie van de kennisgraaf tussen nierschade-knooppunten eerder dan een echt therapeutisch signaal. Deze voorspelling is consistent met een modelartefact en moet op dit moment niet prioritair worden gesteld voor klinische ontwikkeling.
-
----
-
-## Klinisch Onderzoeksmateriaal
-
-Momenteel geen gerelateerde klinische onderzoeken geregistreerd.
+| Onderdeel | Inhoud |
+|------|------|
+| Oorspronkelijke indicatie | Hepatische encefalopathie, hepatisch coma, obstipatie (uit de TxGNN-kennisgraaf; de vergunningsteksten bevatten geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Obstructieve icterus |
+| TxGNN-voorspellingsscore | 99,53% |
+| Bewijsniveau | L3 |
+| Status op de Nederlandse markt | Alleen doorgehaald (vervallen/ingetrokken) |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen beslissing | Hold (zie conclusie) |
 
 ---
 
-## Literatuurbewijzen
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel geen gerelateerde literatuur beschikbaar.
+Gegevens over het werkingsmechanisme van lactulose zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is lactulose een niet-opneembaar disacharide dat in de dikke darm wordt gefermenteerd, het colonmilieu verzuurt en de ammoniakopname verlaagt. Dit werkt bij hepatische encefalopathie en obstipatie.
 
----
+Bij obstructieve icterus ontbreken galzouten in de darm. Daardoor nemen endotoxineabsorptie, bacteriële translocatie en een verstoorde darmbarrière toe, wat bijdraagt aan postoperatieve nierinsufficiëntie. De hypothese is dat orale lactulose endotoxine in de darm vermindert, de flora verandert en de barrièrefunctie helpt herstellen. In vitro remt lactulose de door endotoxine geïnduceerde TNF-productie door monocyten (PMID 2311978).
 
-## Marktinformatie Nederland
-
-Geen CBG-MEB (College ter Beoordeling van Geneesmiddelen) markttoelatingingen voor Lactulose werden in deze bewijsvoering geïdentificeerd.
-
-> **Belangrijk opmerking:** Lactulose is een lang gevestigd generiek geneesmiddel met wijdverbreid gebruik in heel Europa. De afwezigheid van RVG-dossiers in deze dataset is waarschijnlijk een gegevensverzamelingsgat en weerspiegelt **niet** noodzakelijk de werkelijke marktsituatie in Nederland. Voordat u regelgevingsconclusies trekt, wordt sterk aanbevolen direct verificatie via het **CBG-MEB online register** (geneesmiddeleninformatiebank.nl) en de **EMA productdatabase**. Het relevante regelgevingsdocument dat moet worden geraadpleegd, is de **SmPC (Samenvatting van de Productkenmerken)** voor het toegelaten product.
+Het bewijs is echter wisselend. Een review uit 1997 concludeert dat een nierbeschermend effect van lactulose tot nu toe niet overtuigend is aangetoond in klinische studies. Een rattenstudie (PMID 2614579) vond bovendien geen preventie van galinfarcering of transaminasestijging door lactulose. De voorspelling is daarom biologisch plausibel, maar klinisch niet bevestigd.
 
 ---
 
-## Veiligheidsbeschouwingen
+## Bewijs uit klinische studies
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
-
----
-
-## Conclusie en Volgende Stappen
-
-**Besluit: Wachten**
-
-**Grondslag:**
-De TxGNN-voorspelling voor acute uraat nefropathie ligt op bewijsniveau L5 — met nul ondersteunende publicaties, nul klinische onderzoeken, en geen mechanistisch aannemelijk traject dat Lactulose's darmaangeslagen farmacologie verbindt met uraat-kristal nefropathie. Het vooruitgang van deze indicatie zou vereisen dat een geheel nieuw bewijs van grond af wordt opgebouwd zonder sterke wetenschappelijke grondslag om de investering te rechtvaardigen.
-
-**Om door te gaan, is het volgende nodig:**
-- Preklinische onderzoeken (dier- of in vitro) die enig effect van Lactulose op uraat metabolisme, xanthine oxidase activiteit, of renale tubulaire bescherming onder hyperuricemische omstandigheden aantonen
-- Mechanistische gegevens die expliciet de modificatie van de darmflora koppelen aan purineafbraak en uraat productie
-- MOA-gegevens ophaling van DrugBank (DB00581) om een volledig farmacologisch profiel vast te stellen en biologische plausibiliteit te beoordelen
-- Verificatie van de werkelijke NL markttoelatingsstatus via het CBG-MEB register
-- Beoordeling van de toegelaten SmPC voor contra-indicaties, waarschuwingen, en geneesmiddelinteracties voordat enig studieontwerp wordt overwogen
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-> **Contextopmerking over andere TxGNN-voorspellingen:** Hoewel dit rapport zich richt op de hoogst geclassificeerde TxGNN-voorspelling, is het belangrijk aan te geven dat andere voorspelde indicaties voor Lactulose aanzienlijk sterker bewijs hebben en beter zijn gepositioneerd voor nabije evaluatie in de Nederlandse gezondheidszorgcontext:
->
-> | Rang | Indicatie | Bewijsniveau | Aanbeveling | Onderzoeken | Publicaties |
-> |------|-----------|--------------|------------|-------------|-------------|
-> | 3 | Obstructieve Icterus | L3 | Doorgaan met Waarborgen | 1 | 20 |
-> | 4 | Galwegziekte | L3 | Onderzoeksvraag | 0 | 20 |
-> | 5 | Galbewegziekte | L3 | Onderzoeksvraag | 0 | 20 |
->
-> De indicatie **obstructieve icterus** (rang 3) is bijzonder opvallend: een direct klinisch onderzoek (NCT01090193) en een gerandomiseerde gecontroleerde multicentrische studie uit 1991 (PMID 2032107) bestaan, en de mechanistische basis — Lactulose vermindert perioperatieve endotoxemie en postoperatief nierfalen bij gele niergebrekkige chirurgische patiënten — is goed beschreven. Een afzonderlijk, gericht rapport voor die indicatie wordt aanbevolen als de volgende stap.
+## Bewijs uit de literatuur
 
+Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor klinische studies boven reviews en dierstudies.
+
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [2032107](https://pubmed.ncbi.nlm.nih.gov/2032107/) | 1991 | Prospectieve gerandomiseerde studie (multicentrisch, 102 patiënten) | Br J Surg | Preoperatieve lactulose (n=35) vs. natriumdeoxycholaat (n=32) vs. controle ter preventie van postoperatief nierfalen; uitkomst niet in de beschikbare samenvatting |
+| [3768644](https://pubmed.ncbi.nlm.nih.gov/3768644/) | 1986 | Experimentele en klinische studie | Br J Surg | 24 patiënten; endotoxemie significant lager in de lactulosegroep (n=12) dan bij controles (n=12) |
+| [12957136](https://pubmed.ncbi.nlm.nih.gov/12957136/) | 2003 | Experimentele studie (konijn) | J Surg Res | Rol van lactulose bij het voorkomen van bacteriële translocatie en sepsis na galwegligatie |
+| [8944448](https://pubmed.ncbi.nlm.nih.gov/8944448/) | 1996 | Klinische en experimentele studie | Br J Surg | Darmbarrièrestoornis bij obstructieve icterus, omkeerbaar door interne galdrainage |
+| [23297639](https://pubmed.ncbi.nlm.nih.gov/23297639/) | 2012 | Klinische studie | Zh Mikrobiol Epidemiol Immunobiol | Darmmicro-ecologie na galwegdecompressie en lactulose bij mechanische icterus |
+| [15782993](https://pubmed.ncbi.nlm.nih.gov/15782993/) | 2005 | Review | Hepatogastroenterology | Pleit voor adequate preoperatieve hydratie en lactulose ter preventie van postoperatieve nierdisfunctie |
+| [9145459](https://pubmed.ncbi.nlm.nih.gov/9145459/) | 1997 | Review | Scand J Gastroenterol Suppl | Nierbeschermend effect van lactulose niet overtuigend aangetoond in klinische studies |
+| [12598962](https://pubmed.ncbi.nlm.nih.gov/12598962/) | 2002 | Dierstudie (rat) | Pediatr Surg Int | Effecten van melatonine en lactulose op lever en nieren bij obstructieve icterus (30 ratten) |
+| [10576346](https://pubmed.ncbi.nlm.nih.gov/10576346/) | 1999 | Dierstudie (rat) | Hepatogastroenterology | Effect van deoxycholaat, lactulose en glutamine op bacteriële translocatie |
+| [2614579](https://pubmed.ncbi.nlm.nih.gov/2614579/) | 1989 | Experimentele studie (rat) | J Pathol | Lactulose voorkwam galinfarcering en transaminasestijging niet |
+
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop (status: doorgehaald) | Niet vermeld | Niet vermeld |
+
+Er is geen geldige vergunning meer in Nederland voor lactulose volgens de voor dit rapport verzamelde gegevens van het CBG-MEB.
+
+---
+
+## Veiligheidsoverwegingen
+
+- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit het TxGNN-model, niet uit de bijsluitertekst): diabetes mellitus, diabetische ketoacidose, appendicitis, galactosemie, glycogeenststapelingsziekte, G6PD-deficiëntie, cystinurie en glucose-galactose-malabsorptie.
+- **Geneesmiddelinteracties:** 100 interacties gevonden (DDInter), onder meer met abiraterone, tramadol, acetazolamide, hydrocortison, salbutamol, alfuzosine, hydrochloorthiazide, amiloride, amiodaron, amisulpride, anagrelide, propofol, apalutamide, apomorfine, triamcinolon, arseentrioxide, lumefantrine, asenapine en atomoxetine. Vrijwel alle getoonde interacties zijn van niveau "matig"; natriumcitraat is "licht". Dit is een deel van de lijst.
+- Voor waarschuwingen en contra-indicaties uit de officiële productinformatie: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
+
+---
+
+## Conclusie en vervolgstappen
+
+**Beslissing: Hold**
+
+**Onderbouwing:**
+- Het bewijs voor obstructieve icterus is plausibel maar overwegend oud, klein of preklinisch, zonder geregistreerde studies, en eerdere reviews vonden geen overtuigend klinisch voordeel. Daarnaast is er geen geldige Nederlandse vergunning, en de veiligheidsinformatie uit de SmPC ontbreekt in de gegevens.
+- Het dataverzamelingssysteem classificeerde de indicatie als "Research Question" (fase S1); dat past bij een Hold voor praktische toepassing, met ruimte voor verder onderzoek.
+
+**Om verder te gaan is nodig:**
+- Een moderne, gerandomiseerde studie naar lactulose bij obstructieve icterus (uitkomst: postoperatief nierfalen, infecties).
+- De volledige tekst van PMID 2032107 en 3768644 om de uitkomsten en studieopzet te bevestigen.
+- Gegevens over het werkingsmechanisme (DrugBank) en de waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB.
+- Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning).
+- Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.
+
+---
+
+## Overzicht van alle voorspellingen
+
+| Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
+|---|---|---|---|---|
+| 1 | Acute urinezuurnefropathie | 99,89% | L5 | Hold (geen bewijs, geen plausibel mechanisme) |
+| 2 | Nefrolithiase | 99,78% | L5 | Hold (geen bewijs) |
+| 3 | Obstructieve icterus | 99,53% | L3 | Onderzoeksvraag |
+| 4 | Galwegziekte | 99,47% | L3 | Onderzoeksvraag (grotendeels overlappend met rang 3) |
+| 5 | Galwegaandoening (biliary tract disease) | 99,38% | L4 | Hold (indirect bewijs) |
+| 6 | Hyperfosfatemie | 99,37% | L4 | Hold (alleen een review over obstipatie bij nierziekte) |
+| 7 | Inspanningsgeïnduceerde maligne hyperthermie | 99,14% | L5 | Hold (geen bewijs) |
+| 8 | Galwegneoplasma | 99,12% | L4 | Hold (alleen indirect, ondersteunend bewijs) |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

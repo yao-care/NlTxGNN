@@ -2,7 +2,7 @@
 layout: default
 title: Lorazepam
 parent: Alleen modelvoorspelling (L5)
-nav_order: 88
+nav_order: 213
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,96 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Lorazepam: van angststoornis en sedatie naar trigeminus-zenuwneoplasma
+# Lorazepam: Van epilepsie en angststoornissen naar trigeminuszenuwneoplasma
 
 ## Samenvatting in één zin
 
-Lorazepam is een benzodiazepine dat historisch wordt gebruikt voor angststoornissen, sedatie en korte-termijnbehandeling van slapeloosheid.
-Het TxGNN-model voorspelt dat het mogelijk effectief kan zijn voor **trigeminus-zenuwneoplasma**,
-met **geen klinische trials** en **geen publicaties** die deze richting ondersteunen — deze voorspelling is zeer waarschijnlijk een vals-positief in de kennisgraaf en moet eerder worden beschouwd als waarschuwingssignaal dan als echte kandidaat voor geneesmiddel-herwenning.
+Lorazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt bij epilepsievormen (waaronder status epilepticus en het Lennox-Gastaut-syndroom) en bij angststoornissen. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **trigeminuszenuwneoplasma**, maar daarvoor zijn **geen klinische studies** en **geen publicaties** gevonden. Het gaat dus om een zuivere modelvoorspelling.
 
 ---
 
-## Kort overzicht
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Originele indicatie | Angststoornis en sedatie (benzodiazepineklasse; geen Nederlandse markttoelating op record) |
-| Voorspelde nieuwe indicatie | Trigeminus-zenuwneoplasma |
-| TxGNN-voorspellingsscore | 99.87% |
-| Evidententieniveau | L5 |
-| Status op Nederlandse markt | Niet in de handel |
-| Aantal toelatingen | 0 |
-| Aanbevolen besluit | Wachten |
+|------|------|
+| Oorspronkelijke indicatie | Epilepsie (o.a. status epilepticus, Lennox-Gastaut-syndroom, absence-epilepsie) en angststoornissen (afgeleid uit de kennisgraaf; de vergunningstekst in Nederland bevat geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
+| TxGNN-voorspellingsscore | 99,87% |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
+| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Momenteel zijn geen gedetailleerde werkingsmechanisme-gegevens beschikbaar in de verstrekte dataset. Op basis van bekende farmacologische informatie is Lorazepam een benzodiazepine — een positieve allosterische modulator van de GABA-A-receptor — die chloride-ioninstroom versterkt om sedatieve, anxiolytische, spierontspannende en anticonvulsieve effecten op te wekken. De klinische geschiedenis omvat korte-termijnbehandeling van angststoornissen, procedurele sedatie en controle van aanvallen.
+Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene farmacologische kennis is lorazepam een benzodiazepine dat de GABA-A-receptor positief moduleert, met kalmerende, angstremmende en anticonvulsieve effecten.
 
-Er bestaat **geen vastgestelde mechanistische relatie** tussen GABA-A-receptormodulatie en de biologie van trigeminus-zenuwneoplasma. Lorazepam heeft geen bekende antitumor-, anti-angiogene of antiproliferatieve activiteit. Trigeminus-zenuwneoplasma zijn ruimte-innemende laesies die vooral worden beheerd door neurochirurgie of radiotherapie; benzodiazepinen spelen geen erkende rol in hun pathofysiologie of behandeling.
-
-De uitzonderlijk hoge TxGNN-score (0.9987, rangschikking 403) is vrijwel zeker toe te schrijven aan **kennisgraaf-ruis of overfitten van kenmerken**: de brede connectiviteit tussen geneesmiddelenknooppunten en neurologische ziekteknopen in de onderliggende kennisgraaf verhoogt systematisch scores voor zeldzame neuro-oncologische aandoeningen, waardoor valse positieven ontstaan. Dit is een erkende beperking van op graaf-gebaseerde voorspellingsmodellen en moet een kwaliteitsaudit van de graaf activeren in plaats van klinische vervolgstappen.
+Een plausibel mechanistisch verband tussen deze werking en tumorbeheersing is er niet. Hooguit is een symptomatische rol denkbaar, bijvoorbeeld angstvermindering of aanvalscontrole bij hersenbetrokkenheid. Dat is geen ziektemodificerende indicatie. De hoge score weerspiegelt vooral patronen in de kennisgraaf en niet een onderbouwd farmacologisch verband. De voorspelling moet daarom met grote terughoudendheid worden benaderd.
 
 ---
 
-## Bewijs van klinische trials
+## Klinisch trialbewijs
 
-Momenteel geen gerelateerde klinische trials geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Bewijs uit literatuur
+## Literatuurbewijs
 
-Momenteel geen relevante literatuur beschikbaar.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-Lorazepam beschikt momenteel over **geen CBG-MEB-marketingtoelatingen** in Nederland en is niet geregistreerd voor enige indicatie op de Nederlandse markt. Er zijn daarom geen RVG-nummers, SmPC-documenten of goedgekeurde indicatieteksten beschikbaar van het nationaal register.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | Tablet (volgens productnaam) | Niet vermeld; vergunning doorgehaald |
 
-> Ter referentie: in andere jurisdicties waar Lorazepam is goedgekeurd, moeten de SmPC (Samenvatting van de Productkenmerken) en PIL (Patiëntenbijsluiter) worden geraadpleegd voor veiligheidsinformatie, goedgekeurde indicaties en voorschrijfvoorwaarden.
-
----
-
-## Veiligheidsaspecten
-
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.
 
 ---
 
-## Conclusie en volgende stappen
+## Veiligheidsoverwegingen
 
-**Besluit: Wachten**
+Uit de kennisgraaf (geen bijsluitertekst) komen de volgende aandoeningen naar voren waarbij lorazepam als contra-indicatie of met voorzichtigheid wordt aangemerkt:
 
-**Motivering:**
-Dit is een L5-voorspelling — alleen TxGNN-modeluitvoer — zonder ondersteunend bewijs van klinische trials, geen gepubliceerde literatuur, geen mechanistische basis en geen plausibele farmacologische grondslag die Lorazepam verbindt aan trigeminus-zenuwneoplasma. De hoge numerieke score weerspiegelt vrijwel zeker systematische vals-positieve generatie in de kennisgraaf in plaats van een werkelijk geneesmiddel-ziektesignaal.
+- **Lever- en galaandoeningen**: leverfalen, leverziekte, hepatische encefalopathie en hepatisch coma, galblaasaandoening
+- **Nieraandoeningen**: nierziekte, pyoureter
+- **Ademhalingsproblemen**: ademhalingsfalen, obstructief slaapapneusyndroom, slaapapneu, congenitaal centraal hypoventilatiesyndroom
+- **Oogaandoeningen**: openhoekglaucoom, geslotenhoekglaucoom
+- **Porfyrieën**: erfelijke porfyrie, porfyriemetabolismestoornissen
+- **Middelenmisbruik**: stoornissen door middelengebruik, misbruik of afhankelijkheid
+- **Psychiatrische aandoeningen**: neurotische stoornis, dysthyme stoornis
 
-**Om door te gaan, is het volgende nodig:**
+**Geneesmiddelinteracties**: in totaal zijn 100 interacties gevonden. De belangrijkste:
 
-- **Kwaliteitsaudit van de graaf**: Onderzoeken of de TxGNN-kennisgraaf systematisch benzodiazepineknooppunten over-verbindt met zeldzame neurologische ziekteknopen, en scorerecalibrering of kantgewichtcorrectie toepassen
-- **Generatie van mechanistische hypothese**: Identificeer een biologisch pad waardoor GABA-A-modulatie de tumor- of overlevingsgroei van trigeminus-zenuwneoplasma zou kunnen beïnvloeden — op dit moment is geen enkel voorgesteld
-- **Minimale drempel voor bewijs**: Minimaal één peer-reviewed caseraport of in vitro-studie die enige benzodiazepine-activiteit relevant voor perifere zenuwneoplasma documenteert, voordat verdere investeringen in deze kandidaat gerechtvaardigd zijn
-- **Aanpakken van MOA-gegevensgat**: Haal het volledige Lorazepam DrugBank-item op (DrugBank-ID: DB00186) om toekomstige beoordelingen van mechanistische plausibiliteit voor alle voorspelde indicaties te ondersteunen
+- **Ernstig (Major)**: morfine, morfine (liposomaal). Gelijktijdig gebruik kan de sedatie en ademhalingsdepressie versterken.
+- **Matig (Moderate)**: bupropion, dronabinol, nabilon, teduglutide, metoclopramide, opium, sibutramine.
+- **Licht (Minor)**: onder meer magnesiumoxide, aluminiumhydroxide, calciumcarbonaat, magaldraat, magnesiumcarbonaat en magnesiumhydroxide.
 
+Gegevens uit de bijsluitertekst (waarschuwingen en contra-indicaties) ontbreken in de samengestelde data. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor volledige veiligheidsinformatie.
+
+---
+
+## Conclusie en vervolgstappen
+
+**Besluit: Hold**
+
+**Onderbouwing:**
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing. Bovendien is er in Nederland momenteel geen geldige vergunning voor lorazepam.
+
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme en een onderbouwing van een biologisch verband met trigeminuszenuwneoplasma
+- Preklinisch of klinisch bewijs voor effect op tumoren, of een duidelijke gedefinieerde symptomatische toepassing
+- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB voor de veiligheidsbeoordeling
+- Duidelijkheid over de beschikbaarheid van een geldig product in Nederland
+
+---
+
+*Opmerking: andere voorspelde indicaties met hoge scores (waaronder slapeloosheid, bewijsniveau L3, aanbeveling "Research Question") en diverse zeldzame reflexepilepsievormen vallen buiten de reikwijdte van dit rapport, dat de hoogst gerangschikte voorspelling behandelt.*
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

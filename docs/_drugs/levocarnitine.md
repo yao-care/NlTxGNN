@@ -2,7 +2,7 @@
 layout: default
 title: Levocarnitine
 parent: Alleen modelvoorspelling (L5)
-nav_order: 86
+nav_order: 204
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,93 +29,82 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Levocarnitine: van carnitinedeficiëntie naar autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom
+# Levocarnitine: Van de geregistreerde indicatie naar autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom
 
-## Samenvatting in één zin
+## Samenvatting in één oogopslag
 
-Levocarnitine is een endogeen aminozuurderivaat dat wordt gebruikt voor de behandeling van primaire en secundaire carnitinedeficiëntie, ter ondersteuning van het transport van vetzuren naar de mitochondriale matrix om de cellulaire energieproductie in stand te houden.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom**,
-zonder dat momenteel **geen klinische onderzoeken** en **geen publicaties** deze richting ondersteunen.
+Levocarnitine is een vorm van carnitine, een stof die het lichaam gebruikt voor energiestofwisseling. De oorspronkelijke goedgekeurde indicatie is in de samengestelde gegevens niet vastgelegd. Het TxGNN-model voorspelt dat het middel werkzaam kan zijn bij het **autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom**, een extreem zeldzame COL4A1-gerelateerde aandoening. Voor deze voorspelling zijn **0 klinische studies** en **0 publicaties** gevonden. Het is dus een zuiver modelmatige voorspelling.
 
 ---
 
-## Snelle Samenvatting
+## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke Indicatie | Carnitinedeficiëntie (primair en secundair) |
-| Voorspelde Nieuwe Indicatie | Autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom |
-| TxGNN-voorspellingsscore | 99.94% |
+|------|------|
+| Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens |
+| Voorspelde nieuwe indicatie | Autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom |
+| TxGNN-voorspellingsscore | 99,94% |
 | Bewijsniveau | L5 |
-| NL-markeringsstatus | Niet op de markt |
-| Aantal Toestemmingen | 0 |
-| Aanbevolen Besluit | Afwachten |
+| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
+| Aantal handelsvergunningen | 1 (ingetrokken) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Op dit moment zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar voor levocarnitine in deze context. Op basis van bekende informatie is levocarnitine een biologisch actieve vorm van carnitine die onmisbaar is voor mitochondriale vetzuur β-oxidatie (FAO): het fungeert als het verplichte transportmolecuul dat long-chain vetzuur-acyl-CoA-species via het carnitine palmitoyltransferase 1 en 2 (CPT1/CPT2)-systeem over het binnenste mitochondriale membraan vervoert. Het erkende klinische gebruik omvat primaire systemische carnitinedeficiëntie en secundaire deficiëntietoestanden voortvloeiend uit nierdialyse of aangeboren metabole stoornissen.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Levocarnitine speelt een bekende rol bij het transport van langeketenvetzuren naar de mitochondriën. Voor het voorspelde syndroom is echter geen biologisch verband met de carnitinestofwisseling vastgesteld.
 
-Autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom is een zeldzame genetische stoornis van meerdere orgaansystemen, gekenmerkt door terugkerende hematuria, tortuositeit van retinale arteriolen en gewrichtscontracturen. De moleculaire basis en betrokken biologische routes zijn niet goed gekarakteriseerd in de huidige literatuur, en geen mechanistische overlap met carnitinemetabolisme of FAO is gerapporteerd.
-
-De hoge score van het TxGNN-model (99.94%, rang 199 van alle voorspellingen) weerspiegelt waarschijnlijk indirecte comorbiditeit of in de kennisgraaf vastgelegde patronen van gedeelde biologische route-covoorkomen, in plaats van een directe biologische medicijn–ziekte relatie. Het hergebruik rationale van het model zelf markeert dit als waarschijnlijke vals-positieve bevinding voortvloeiend uit spaarheid van de graaf rond dit ultra-zeldzame ziekteknooppunt. Zonder enige preklinische, translationele of klinische gegevens ter ondersteuning van de hypothese, kan mechanistische aannemelijkheid op dit moment niet worden vastgesteld.
+De voorspelde aandoening is een zeer zeldzame COL4A1-gerelateerde ziekte. Die betreft de structuur van bloedvatwanden (type IV-collageen) en niet de energiestofwisseling. De hoge score weerspiegelt waarschijnlijk dat de ziekte en het middel dicht bij elkaar liggen in de kennisgraaf waarop het model is gebouwd, en niet een werkelijk mechanisme. Een verband met de oorspronkelijke indicatie kon niet worden beoordeeld, omdat die niet beschikbaar is.
 
 ---
 
-## Bewijs uit Klinische Onderzoeken
+## Bewijs uit klinische studies
 
-Momenteel zijn geen gerelateerde klinische onderzoeken geregistreerd.
-
----
-
-## Bewijs uit Literatuur
-
-Momenteel is geen gerelateerde literatuur beschikbaar.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Informatie over de Nederlandse Markt
+## Bewijs uit de literatuur
 
-Levocarnitine beschikt **geen markettingtoelatingen** in Nederland. Er zijn geen RVG-nummers door het CBG-MEB voor enige indicatie verleend. Elk toekomstig klinisch gebruik zou ofwel een volledige handelsregistratieaanvraag (MAA) via de EMA centrale procedure of de nationale procedure, ofwel een compassionate-use / ziekenhuisuitzondering onder de Nederlandse geneesmiddelenwet (Geneesmiddelenwet) vereisen.
-
----
-
-## Veiligheidsconsideraties
-
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ---
 
-## Conclusie en Vervolgstappen
+## Informatie over de Nederlandse markt
 
-**Besluit: Afwachten**
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning ingetrokken) |
 
-**Rationale:**
-Het TxGNN-model geeft een hoge score aan deze voorspelling, maar geen mechanistische link, preklinische gegevens of klinisch bewijs verbindt levocarnitine met de moleculaire pathologie van autosomaal dominant familiair hematuria–retinale arteriële tortuositeit–contracturen syndroom. Dit patroon is consistent met een vals-positieve bevinding in de kennisgraaf, gedreven door indirecte ziekteassociaties in plaats van een farmacologisch hanteerbare hypothese.
-
-**Om door te gaan is het volgende nodig:**
-- Identificatie van het/de veroorzakende gen(en) en betrokken moleculaire routes voor dit syndroom, om te beoordelen of mitochondriale FAO of carnitine transport enige rol speelt
-- Deskundige raadpleging met een metabolische geneticus of gespecialiseerde arts voor zeldzame ziekten
-- Screening van registers voor zeldzame ziekten (bijv. Orphanet, OMIM) naar gerapporteerde fenotypische overlap met carnitine-gerelateerde aandoeningen
+Dit is de enige vergunning voor deze stof en de status is ingetrokken. Er is dus momenteel geen geldig product met levocarnitine als enige werkzame stof in de samengestelde gegevens.
 
 ---
 
-> **⚠️ Opmerking over hogere prioriteitsvoorspellingen binnen dit Evidence Pack**
->
-> Dit rapport behandelt de topgerangschikte indicatie van TxGNN. Twee andere voorspellingen in dit evidence pack hebben aanzienlijk sterker klinisch bewijs en een bruikbare **"Doorgaan met Guardrails"** aanbeveling, en zouden prioriteit moeten krijgen voor afzonderlijke, volledige evaluatie:
->
-> | Rang | Indicatie | Bewijsniveau | Onderzoeken | Besluit |
-> |------|-----------|------------|------------|--------|
-> | 4 | Reumatoïde Artritis | L2 | 3 (incl. 1 voltooid Phase 2 RCT, 1 Phase 3) | Doorgaan met Guardrails |
-> | 9 | Congestieve Hartfalen | L2 | 12 (incl. 1 voltooid Phase 2/3 RCT, n=268) | Doorgaan met Guardrails |
->
-> Beide indicaties beschikken over directe klinische interventieonderzoeken naar levocarnitine, gepubliceerde mechanistische literatuur die carnitine/FAO aan ziektepatologie koppelt, en biologisch aannemelijke rationale. Het wordt aanbevolen afzonderlijke evaluatierapporten voor deze twee indicaties op te stellen als onmiddellijke vervolgstap.
+## Veiligheidsoverwegingen
+
+Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicaties) ontbreken de gegevens. Raadpleeg daarom de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
+
+- **Mogelijke contra-indicaties volgens de kennisgraaf**: de kennisgraaf (PrimeKG) koppelt levocarnitine aan de volgende aandoeningen. Dit zijn relaties uit de graaf en geen tekst uit de bijsluiter: epilepsie, nierziekte, pyoureter, leverziekte, galblaasziekte, hypotensieve aandoeningen, stollingsstoornissen, cholestase, benigne recidiverende intrahepatische cholestase en familiaire intrahepatische cholestase.
+- **Geneesmiddelinteracties**: er zijn 68 mogelijke interacties gevonden. Twee hebben het niveau *matig*: **dicoumarol** en **warfarine**. Bij gelijktijdig gebruik met deze coumarine-anticoagulantia is controle van de stolling te overwegen. Andere gevonden interacties, zoals met valproïnezuur, topiramaat, digoxine, metoprolol, amlodipine, diltiazem, ramipril, citalopram, mirtazapine, lorazepam, fluconazol, pantoprazol, omeprazol, sucralfaat, paracetamol, calcitriol, foliumzuur en nicotine, hebben een onbekend niveau van klinische relevantie.
 
 ---
 
-*Dit rapport is uitsluitend bedoeld voor onderzoeksreferentie en vormt geen medisch advies. Medicijnhergebruik-kandidaten vereisen klinische validatie vóór therapeutische toepassing. Alle inhoud dient te worden getoetst tegen de huidige SmPC en richtlijnen van CBG-MEB/EMA.*
+## Conclusie en vervolgstappen
 
+**Beslissing: Hold**
+
+**Onderbouwing:**
+- De voorspelling berust alleen op het model (L5). Er zijn geen studies of publicaties, en er is geen plausibel mechanisme voor een verband tussen carnitine en een COL4A1-gerelateerde vaatziekte.
+- De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt. De veiligheidsscreening kan daarom niet worden voortgezet.
+
+**Om verder te gaan is nodig:**
+- De bijsluiter/SmPC van het CBG-MEB ophalen en verwerken, zodat waarschuwingen en contra-indicaties beschikbaar komen.
+- Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld uit DrugBank).
+- Vaststellen wat de oorspronkelijke goedgekeurde indicatie is en of een product met levocarnitine nog verkrijgbaar is.
+- Preklinisch of mechanistisch bewijs zoeken voor een verband met COL4A1-biologie. Zonder zulk bewijs is verdere ontwikkeling voor deze indicatie niet zinvol.
+
+**Aanvullende opmerking over andere voorspellingen:** onder de andere voorspelde indicaties voor levocarnitine heeft **congestief hartfalen** (score 99,47%) het sterkste bewijs. Daarvoor is een afgeronde fase 2/3-studie (NCT01580553, 268 deelnemers, L-carnitine-injectie versus placebo) en er zijn meerdere klinische studies naar de hartfunctie. De resultaten van die studies zijn in de gegevens niet vermeld en veel publicaties betreffen specifieke groepen, zoals hemodialysepatiënten. Een afzonderlijke beoordeling van deze indicatie, met de beslissing "Proceed with Guardrails", lijkt veel zinvoller dan voortzetting van de huidige hoofdvoorspelling.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

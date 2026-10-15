@@ -2,7 +2,7 @@
 layout: default
 title: Leflunomide
 parent: Alleen modelvoorspelling (L5)
-nav_order: 84
+nav_order: 200
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,85 +29,86 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Leflunomide: Van Reumatoïde Artritis naar Brachydactylie-Syndactylie Syndroom
-
----
+# Leflunomide: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
 
 ## Samenvatting in één zin
 
-Leflunomide is een internationaal gevestigd ziekteveranderend antirevmatisch middel (DMARD) voor de behandeling van reumatoïde artritis en psoriasis arthritis.
-Het TxGNN-model voorspelt dat het effectief kan zijn voor **Brachydactylie-Syndactylie Syndroom**, een ultrazeldzame aangeboren ledematen-malformatie.
-Echter, **geen klinische trials of gepubliceerde literatuur** ondersteunen deze richting, en de mechanistische rationale geïdentificeerd door de kennisgraaf bevat een kritieke richtingsomkeringsfout die dit waarschijnlijk tot een vals positief maakt.
+Leflunomide is een middel dat oorspronkelijk wordt gebruikt bij **reumatoïde artritis** en **artritis psoriatica**. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij het **brachydactylie-syndactylie-syndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op een modelscore.
 
 ---
 
 ## Snel overzicht
 
 | Item | Inhoud |
-|------|--------|
-| Oorspronkelijke indicatie | Reumatoïde artritis / psoriasis arthritis (internationaal gevestigd; geen NL-registratie vastgelegd in deze dataset) |
-| Voorspelde nieuwe indicatie | Brachydactylie-Syndactylie Syndroom |
-| TxGNN-voorspellingsscore | 99.93% |
+|------|------|
+| Oorspronkelijke indicatie | Reumatoïde artritis en artritis psoriatica (afkomstig uit de TxGNN-kennisgraaf; de goedgekeurde indicatietekst van de vergunning is niet beschikbaar) |
+| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom |
+| TxGNN-voorspellingsscore | 99,93% |
 | Bewijsniveau | L5 |
-| Marktstatusnederlands | Niet in de handel |
-| Aantal toelatingen | 0 |
-| Aanbevolen beslissing | Uitstellen |
+| Marktstatus in Nederland | Alleen geschrapt (vergunning ingetrokken) |
+| Aantal vergunningen | 1 |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Momenteel zijn gedetailleerde werkingsmechanisme-gegevens niet beschikbaar in dit bewijspakket. Op basis van gevestigde farmacologie is leflunomide een remmer van **dihydroorotaatdehydrogenase (DHODH)**, het snelheid-limiterende enzym in de de novo pyrimidine-biosynthese. Door intracellulaire pyrimidine-voorraden uit te putten, onderdrukt het proliferatie van geactiveerde T- en B-lymfocyten, wat zijn anti-inflammatoire werking in reumatoïde artritis produceert.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis remt de actieve metaboliet van leflunomide (teriflunomide) het enzym dihydro-orotaatdehydrogenase (DHODH). Hierdoor wordt de de-novo-pyrimidinesynthese geblokkeerd en wordt de proliferatie van geactiveerde lymfocyten beperkt. Dat verklaart de werkzaamheid bij auto-immuunaandoeningen zoals reumatoïde artritis.
 
-De kennisgraaf (KG) heeft waarschijnlijk het volgende pad gevolgd om deze voorspelling op te wekken: verlies-van-functie (LOF) mutaties in het *DHODH* gen staan bekend om **Miller syndroom** te veroorzaken, een zeldzame aandoening gekarakteriseerd door acrofaciale dysostose inclusief ledematen-afwijkingen. De KG kan een indirect verband tot stand hebben gebracht tussen de *DHODH*-gennode en brachydactylie/syndactylie-fenotype-nodes, wat een hoge-vertrouwen score opleverde.
+Het brachydactylie-syndactylie-syndroom is een aangeboren ledemaatmisvorming, meestal veroorzaakt door gendefecten in de ontwikkeling. Een mechanistisch verband met immuunmodulatie door DHODH-remming is niet aangetoond. Bovendien is DHODH-remming een erkend teratogeen risico: leflunomide is gecontra-indiceerd tijdens de zwangerschap. De hoge modelscore weerspiegelt waarschijnlijk structuurkenmerken van de kennisgraaf (bijvoorbeeld gedeelde genen of routes in de ledemaatontwikkeling) en niet een werkelijk therapeutisch effect. De voorspelling moet daarom uitsluitend als hypothesegenererend signaal worden beschouwd.
 
-**Dit verband vertegenwoordigt echter een vals positief door mechanistische richtingsomkering.** Het aangeboren fenotype ontstaat door *onvoldoende* DHODH-activiteit (LOF), terwijl leflunomide DHODH verder *remt* — wat betekent dat het medicijn in dezelfde richting werkt als het onderliggende pathologische mechanisme in plaats van het tegen te gaan. Het toepassen van een DHODH-remmer ter behandeling van een aandoening veroorzaakt door DHODH-deficiëntie is farmacologisch contraproductief. Deze voorspelling draagt geen therapeutische plausibiliteit en moet worden behandeld als een modelartefact.
-
----
-
-## Klinische trial-gegevens
-
-Momenteel geen gerelateerde klinische trials geregistreerd.
+Opmerking: de tweede voorspelling (colobomateuze microftalmie-rhizomele dysplasie-syndroom, score 99,93%) kent dezelfde beperkingen: geen bewijs, geen aannemelijk mechanisme en een teratogeen profiel dat tegen een voordeel pleit.
 
 ---
 
-## Literatuurgegevens
+## Bewijs uit klinische studies
 
-Momenteel geen gerelateerde literatuur beschikbaar.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Marktinformatie Nederland
+## Bewijs uit de literatuur
 
-Geen CBG-MEB nationale toelating (RVG-nummer) voor leflunomide is opgenomen in deze dataset.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
-> **Opmerking:** Leflunomide (merknaam Arava) is geautoriseerd in de Europese Unie via gecentraliseerde EMA-procedure. EU-brede toelatingen (EU/x/xx/xxx-format) kunnen niet worden vastgelegd in nationale RVG-datasets. Clinici en apothekers moeten de huidige toelating en beschikbaarheid op de markt rechtstreeks verifiëren via de **CBG-MEB-productdatabase** of de **EMA-geneesmiddellenportal** voordat zij conclusies trekken over NL-toegankelijkheid.
+---
+
+## Informatie over de Nederlandse markt
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten (status: ingetrokken) | Niet beschikbaar | Niet beschikbaar |
+
+Er is geen geldige vergunning meer in Nederland (CBG-MEB). Voor het eerder goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg alstublieft de SmPC (Samenvatting van Product Karakteristieken) voor veiligheidsinformatie. Veiligheidsgegevens — inclusief belangrijke waarschuwingen, contra-indicaties en geneesmiddel-interacties — waren niet beschikbaar in dit bewijspakket.
+- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit TxGNN/PrimeKG, niet uit de bijsluitertekst): onder meer leverfalen, leverziekte, nierziekte, galblaasziekte, trombocytopenie, neutropenie, agranulocytose, pancytopenie, anemie, chronische hepatitis B- en C-infectie, perifere neuropathie, interstitiële longziekte, pneumocystose, aspergillose en diverse vormen van aangeboren neutropenie.
+- **Geneesmiddelinteracties**: 100 interacties gevonden; hieronder de belangrijkste uit de geleverde lijst.
+  - *Ernstig (Major)*: acarbose, hydrocortison, pioglitazon, bupropion, triamcinolon, acetylsalicylzuur, dexamethason, betamethason, budesonide, chenodeoxycholzuur, claritromycine, minocycline, oxandrolon, oxymetholon, naltrexon.
+  - *Matig (Moderate)*: metronidazol, chloorpropamide, acetohexamide.
+  - *Licht (Minor)*: zinksulfaat, zinkacetaat.
+- **Teratogeniteit**: leflunomide is gecontra-indiceerd tijdens de zwangerschap (algemeen bekend risico).
 
-> Aangezien leflunomide een gevestigde EMA-toelating voor reumatoïde artritis bezit, is een huidige SmPC beschikbaar via de EMA-website en moet deze worden geraadpleegd voor eventueel klinisch gebruik.
+Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC; de bijsluiterinformatie van het CBG-MEB was niet beschikbaar voor dit rapport.
 
 ---
 
-## Conclusie en volgende stappen
+## Conclusie en vervolgstappen
 
-**Beslissing: Uitstellen**
+**Beslissing: Hold**
 
-**Rationale:**
-De TxGNN-voorspelling voor brachydactylie-syndactylie syndroom is een **vals positief door mechanistische richtingsomkering**: de aandoening wordt veroorzaakt door DHODH verlies-van-functie, terwijl leflunomide DHODH remt — het medicijn zou de onderliggende pathofysiologie verergeren in plaats van te corrigeren. Gecombineerd met een bewijsniveau van L5 (nul klinische trials, nul publicaties), is er geen basis om deze indicatie vooruit te gaan.
+**Onderbouwing:**
+- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5) zonder klinische studies of literatuur. Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis. Daarnaast is de enige Nederlandse vergunning ingetrokken.
 
-**Om constructief verder te gaan, is het volgende nodig:**
-
-- **Deze voorspelling markeren** als vals positief in de TxGNN-pijplijn; overweeg de implementatie van een mechanistische directionaliteitsfilter voor enzym-LOF/remmer-paren
-- **Geen klinisch of translationaal onderzoek initiëren** voor deze indicatie zonder onafhankelijke mechanistische herevaluatie
-- **Marktstatusnederlands verifiëren** via CBG-MEB / EMA-databases — leflunomide bezit waarschijnlijk een EU-gecentraliseerde toelating die niet in deze nationale dataset wordt vastgelegd
-- **SmPC-veiligheidsgegevens ophalen** (waarschuwingen, contra-indicaties, hepatotoxiciteits-monitoringvereisten) voordat een klinische overweging van het medicijn in nederland plaatsvindt
-- **Bij verkenning van leflunomide voor nieuwe indicaties**, prioriteit geven aan inflammatoire of immuun-gemedieerde ziekte-fenotypes waarbij DHODH-inhibitie mechanistisch coherent is (bijv. lupus nefritis, inflammatoire darmziekte — indicaties met bestaande onderzoeksliteratuur)
-
+**Om verder te gaan is het volgende nodig:**
+- Bijsluitertekst/SmPC van het CBG-MEB met waarschuwingen en contra-indicaties (blokkerende datalacune voor veiligheidsscreening)
+- Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
+- Preklinisch of mechanistisch bewijs voor een verband met het voorgestelde syndroom
+- Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep
+- Verduidelijking van de status van de ingetrokken Nederlandse vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

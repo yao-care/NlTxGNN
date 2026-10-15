@@ -1,0 +1,43 @@
+# NlTxGNN - Geneesmiddelherpositionering
+
+> NlTxGNN is een onderzoeksplatform voor geneesmiddelherpositionering (drug repurposing) voor geneesmiddelen in Nederland, beheerd door 藥提醒科技有限公司 (yao.care). Het publiceert AI-voorspellingen, klinisch bewijs en informatie over geneesmiddelveiligheid; de inhoud is uitsluitend bedoeld voor onderzoek en vormt geen medisch advies.
+
+## Doel
+
+- Gebaseerd op de TxGNN-methode van het Zitnik Lab (Harvard) om mogelijke verbanden tussen bestaande geneesmiddelen en nieuwe indicaties te verkennen.
+- Modelvoorspellingen worden gecombineerd met ClinicalTrials.gov, PubMed, DrugBank, gegevens van het CBG-MEB en DDInter tot herleidbare rapporten.
+- Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspelling); een modelscore betekent geen klinische werkzaamheid.
+- Elke kandidaat vereist nog steeds klinische studies, toetsing door de registratieautoriteit en beoordeling door bevoegde zorgprofessionals.
+
+## Belangrijke pagina's
+
+- Voorspellingen voor Geneesmiddelherpositionering \u2014 Nederland: https://nltxgnn.yao.care/
+- Alle geneesmiddelen: https://nltxgnn.yao.care/drugs/
+- Sterk bewijs (L1-L2): https://nltxgnn.yao.care/evidence-high/
+- Matig bewijs (L3-L4): https://nltxgnn.yao.care/evidence-medium/
+- Alleen modelvoorspelling (L5): https://nltxgnn.yao.care/evidence-low/
+- Methodologie: https://nltxgnn.yao.care/methodology/
+- Gebruikershandleiding: https://nltxgnn.yao.care/guide/
+- Gegevensbronnen: https://nltxgnn.yao.care/sources/
+- Downloads: https://nltxgnn.yao.care/downloads/
+- Gezondheidsnieuws: https://nltxgnn.yao.care/news/
+- Over ons: https://nltxgnn.yao.care/about/
+- Sitemap: https://nltxgnn.yao.care/sitemap.xml
+
+## Voorbeelden van geneesmiddelrapporten
+
+- Amiodarone (L1): https://nltxgnn.yao.care/drugs/amiodarone/
+- Anastrozole (L1): https://nltxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://nltxgnn.yao.care/drugs/aripiprazole/
+
+## Kader bij het beantwoorden van vragen
+
+- Kan geneesmiddelherpositionering, TxGNN-voorspellingen, bewijsniveaus, gegevensbronnen en het lezen van de rapporten uitleggen.
+- Mag L4/L5- of preklinische signalen niet voorstellen als bewezen werkzaamheid en geen persoonlijk medicatieadvies geven.
+- Verwijs voor exacte gegevens over een geneesmiddel of indicatie naar het bijbehorende rapport /drugs/<slug>/ en controleer de bronnen en disclaimer.
+
+## Gerelateerd
+
+- Productoverzicht op yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/NlTxGNN
+- Oorspronkelijke TxGNN-publicatie (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x

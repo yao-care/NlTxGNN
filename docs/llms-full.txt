@@ -1,0 +1,42 @@
+# NlTxGNN — AI-leesbare samenvatting
+
+## Positionering van het platform
+
+NlTxGNN is een onderzoeksplatform voor geneesmiddelherpositionering (drug repurposing) voor geneesmiddelen in Nederland, beheerd door 藥提醒科技有限公司 (yao.care). Het publiceert AI-voorspellingen, klinisch bewijs en informatie over geneesmiddelveiligheid; de inhoud is uitsluitend bedoeld voor onderzoek en vormt geen medisch advies.
+
+## Methode en bewijs
+
+Gebaseerd op de TxGNN-methode van het Zitnik Lab (Harvard) om mogelijke verbanden tussen bestaande geneesmiddelen en nieuwe indicaties te verkennen. Modelvoorspellingen worden gecombineerd met ClinicalTrials.gov, PubMed, DrugBank, gegevens van het CBG-MEB en DDInter tot herleidbare rapporten.
+
+Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspelling); een modelscore betekent geen klinische werkzaamheid. Elke kandidaat vereist nog steeds klinische studies, toetsing door de registratieautoriteit en beoordeling door bevoegde zorgprofessionals.
+
+## Belangrijkste inhoud
+
+- `/` Voorspellingen voor Geneesmiddelherpositionering \u2014 Nederland — AI-powered drug repurposing predictions for 145 Netherlands (CBG-MEB) approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation.
+- `/drugs/` Alle geneesmiddelen — Alle validatierapporten van geneesmiddelen en de statistieken per bewijsniveau in NlTxGNN.
+- `/evidence-high/` Sterk bewijs (L1-L2) — L1-L2-kandidaten voor geneesmiddelherpositionering in NlTxGNN, ondersteund door klinische studies of systematische reviews.
+- `/evidence-medium/` Matig bewijs (L3-L4) — L3-L4-kandidaten voor geneesmiddelherpositionering in NlTxGNN, onderbouwd met observationeel of preklinisch bewijs.
+- `/evidence-low/` Alleen modelvoorspelling (L5) — L5-kandidaten in NlTxGNN: alleen een modelvoorspelling, nog zonder klinisch bewijs of literatuur.
+- `/methodology/` Methodologie — Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met de TxGNN-kennisgraaf, verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen.
+- `/guide/` Gebruikershandleiding — Gebruikershandleiding van NlTxGNN: hoe u geneesmiddelen opzoekt, bewijsniveaus leest en aanbevelingen interpreteert.
+- `/sources/` Gegevensbronnen — De gegevensbronnen achter NlTxGNN: registratiegegevens van CBG-MEB, TxGNN, ClinicalTrials.gov, PubMed en DrugBank.
+- `/downloads/` Downloads — Open data van NlTxGNN om te downloaden: FHIR-resources, voorspellingsresultaten en de zoekindex.
+- `/news/` Gezondheidsnieuws — Gezondheidsnieuws dat NlTxGNN volgt voor de geneesmiddelen en indicaties op deze site.
+- `/about/` Over ons — NlTxGNN is een platform voor het voorspellen van geneesmiddelherpositionering, ontwikkeld door 藥提醒科技有限公司 (yao.care), gebouwd op het Harvard TxGNN-model en gericht op door CBG-MEB goedgekeurde geneesmiddelen in Nederland.
+
+## Voorbeelden van geneesmiddelrapporten
+
+- Amiodarone (L1): https://nltxgnn.yao.care/drugs/amiodarone/
+- Anastrozole (L1): https://nltxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://nltxgnn.yao.care/drugs/aripiprazole/
+
+## Citeren en beperkingen
+
+Citeer de oorspronkelijke TxGNN-publicatie (https://doi.org/10.1038/s41591-023-02233-x). Inhoud en voorspellingen van de site zijn alleen bedoeld voor onderzoek en onderwijs en vormen geen medisch advies; elk werkelijk gebruik moet worden bevestigd door bevoegde professionals, klinische studies en toetsing door de registratieautoriteit.
+
+## Officiële links
+
+- https://nltxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/NlTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x

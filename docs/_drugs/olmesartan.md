@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Olmesartan: voorspelde nieuwe indicatie Prinzmetal-angina (vasospastische angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de beschikbare vergunningsgegevens"
 ---
 
 # Olmesartan

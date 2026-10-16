@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Droperidol: voorspelde nieuwe indicatie 99,89% (bewijsniveau L5). Oorspronkelijke indicatie: Gilles de la Tourette-syndroom (Tourette syndrome)"
 ---
 
 # Droperidol

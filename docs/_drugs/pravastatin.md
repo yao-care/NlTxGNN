@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pravastatin: voorspelde nieuwe indicatie Homozygote familiaire hypercholesterolemie (bewijsniveau L5). Oorspronkelijke indicatie: Hypertriglyceridemie, beroerte/cerebrovasculaire aandoeningen…"
 ---
 
 # Pravastatin

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Landiolol: voorspelde nieuwe indicatie Lingual-faciale-buccale dyskinesie (bewijsniveau L5). Oorspronkelijke indicatie: Supraventriculaire tachycardie (boezemfibrilleren/-fladderen)…"
 ---
 
 # Landiolol

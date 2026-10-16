@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 228
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L3). Oorspronkelijke indicatie: Auto-immuunziekten (o.a. ziekte van Crohn, bijnierinsufficiëntie…"
 ---
 
 # Methylprednisolone

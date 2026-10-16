@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 88
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (OCD) (bewijsniveau L2). Oorspronkelijke indicatie: Depressieve stoornis en angststoornis"
 ---
 
 # Citalopram

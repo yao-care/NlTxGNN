@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 287
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramipril: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en beroerte/cerebrovasculaire aandoeningen"
 ---
 
 # Ramipril

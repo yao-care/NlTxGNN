@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paclitaxel: voorspelde nieuwe indicatie Borstkanker bij vrouwen (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Ovariumkanker (de vergunningsgegevens bevatten geen indicatiete…"
 ---
 
 # Paclitaxel

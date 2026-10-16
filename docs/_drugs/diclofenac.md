@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diclofenac: voorspelde nieuwe indicatie Juveniele idiopathische artritis (rang 9 van de top 10 (bewijsniveau L5). Oorspronkelijke indicatie: Actinische keratose, reumatoïde artritis, artrose…"
 ---
 
 # Diclofenac

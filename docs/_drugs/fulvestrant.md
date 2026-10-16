@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 167
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fulvestrant: voorspelde nieuwe indicatie HIV-infectie (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 ---
 
 # Fulvestrant

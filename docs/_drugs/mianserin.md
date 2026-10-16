@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 ---
 
 # Mianserin

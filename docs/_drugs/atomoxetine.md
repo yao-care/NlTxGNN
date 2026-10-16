@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 46
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (bewijsniveau L3). Oorspronkelijke indicatie: Aandachtstekortstoornis met hyperactiviteit (ADHD)"
 ---
 
 # Atomoxetine

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie"
 ---
 
 # Ribavirin

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 74
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Cefazolin: voorspelde nieuwe indicatie Infectieuze otitis media (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële pneumonie (en o.a. cholangitis, endocarditis…"
 ---
 
 # Cefazolin

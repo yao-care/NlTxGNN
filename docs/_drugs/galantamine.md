@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Alzheimer"
 ---
 
 # Galantamine

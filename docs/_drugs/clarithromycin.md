@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties"
 ---
 
 # Clarithromycin

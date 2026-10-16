@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 129
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…"
 ---
 
 # Emtricitabine

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Tenofovir: voorspelde nieuwe indicatie Felien verworven immunodeficiëntiesyndroom (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis B-virusinfectie, hiv-infectie, aids"
 ---
 
 # Tenofovir

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Haloperidol: voorspelde nieuwe indicatie Congenitale glycosylatiestoornis met defecte fucosylering (bewijsniveau L5). Oorspronkelijke indicatie: Psychotische stoornissen, schizofrenie…"
 ---
 
 # Haloperidol

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 159
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluorometholone: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Uveïtis, iridocyclitis, conjunctivitis (atopisch, vernaal, papilla…"
 ---
 
 # Fluorometholone

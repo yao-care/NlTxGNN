@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ofloxacin: voorspelde nieuwe indicatie Septische pest (hoogst scorende voorspelling met enige onderbouwing (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties, o.a. tyfus, salmonellose…"
 ---
 
 # Ofloxacin

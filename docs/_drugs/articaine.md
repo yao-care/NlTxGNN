@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Articaine: voorspelde nieuwe indicatie Jicht (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (lokale anesthesie…"
 ---
 
 # Articaine

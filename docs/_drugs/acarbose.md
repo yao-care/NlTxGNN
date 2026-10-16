@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Acarbose: voorspelde nieuwe indicatie Focaal stijve-ledemaatsyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Diabetes mellitus type 2"
 ---
 
 # Acarbose

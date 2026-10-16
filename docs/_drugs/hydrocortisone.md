@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 179
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L5). Oorspronkelijke indicatie: Bijnierschorsinsufficiëntie / ziekte van Addison, auto-immuunziekten…"
 ---
 
 # Hydrocortisone

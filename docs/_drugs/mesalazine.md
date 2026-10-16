@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 222
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Mesalazine: voorspelde nieuwe indicatie Reumatoïde artritis (bewijsniveau L4). Oorspronkelijke indicatie: Colitis ulcerosa, inflammatoire darmziekte…"
 ---
 
 # Mesalazine

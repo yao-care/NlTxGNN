@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Vecuronium: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbr…"
 ---
 
 # Vecuronium

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 78
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Chlorambucil: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (bewijsniveau L3). Oorspronkelijke indicatie: Hodgkin-lymfoom, folliculair lymfoom, acute lymfatische leukemie…"
 ---
 
 # Chlorambucil

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale arteriële hypertensie (afkomstig uit de TxGNN-kennisgraaf"
 ---
 
 # Iloprost

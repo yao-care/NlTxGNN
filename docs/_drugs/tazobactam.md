@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 310
 evidence_level: L1
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Tazobactam: voorspelde nieuwe indicatie Pneumonie (bewijsniveau L1). Oorspronkelijke indicatie: Bacteriële pneumonie, peritonitis, appendicitis…"
 ---
 
 # Tazobactam

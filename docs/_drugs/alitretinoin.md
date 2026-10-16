@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alitretinoin: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Ernstig chronisch handeczeem (bron: DrugBank-gegevens"
 ---
 
 # Alitretinoin

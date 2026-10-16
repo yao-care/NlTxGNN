@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 266
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
 ---
 
 # Perindopril

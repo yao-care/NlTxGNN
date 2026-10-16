@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Alfacalcidol: voorspelde nieuwe indicatie Familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secret… (bewijsniveau L5). Oorspronkelijke indicatie: Hyperparathyreoïdie, osteïtis fibrosa, h…"
 ---
 
 # Alfacalcidol

@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 301
 evidence_level: L1
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Simvastatin: voorspelde nieuwe indicatie Familiaire hypercholesterolemie (bewijsniveau L1). Oorspronkelijke indicatie: Hypertriglyceridemie, beroerte, cerebrovasculaire aandoeningen…"
 ---
 
 # Simvastatin

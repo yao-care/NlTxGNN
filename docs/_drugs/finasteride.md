@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Finasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Goedaardige prostaathyperplasie (BPH). Bron: kennisgraaf"
 ---
 
 # Finasteride

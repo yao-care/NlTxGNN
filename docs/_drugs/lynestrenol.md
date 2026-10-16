@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 217
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lynestrenol: voorspelde nieuwe indicatie Migraine met of zonder aura, gevoeligheid (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (indicatietekst van de vergunning is…"
 ---
 
 # Lynestrenol

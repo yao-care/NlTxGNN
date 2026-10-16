@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 120
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Donepezil: voorspelde nieuwe indicatie Chronische tic-stoornis (bewijsniveau L3). Oorspronkelijke indicatie: Ziekte van Alzheimer"
 ---
 
 # Donepezil

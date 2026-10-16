@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 188
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (bewijsniveau L4). Oorspronkelijke indicatie: Systemische schimmelinfecties (o.a. candidiasis, aspergillose…"
 ---
 
 # Itraconazole

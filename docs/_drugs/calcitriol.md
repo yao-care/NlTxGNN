@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Calcitriol: voorspelde nieuwe indicatie Vitamine D-deficiëntie (term in de ontologie als \"obsolete\" gemarkeer… (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de Nederlandse vergunnings…"
 ---
 
 # Calcitriol

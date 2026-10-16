@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (bewijsniveau L5). Oorspronkelijke indicatie: Diabetes mellitus type 2"
 ---
 
 # Pioglitazone

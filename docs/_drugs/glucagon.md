@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 173
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
 ---
 
 # Glucagon

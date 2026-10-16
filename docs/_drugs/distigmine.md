@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 117
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Distigmine: voorspelde nieuwe indicatie Myasthenia gravis met thymushyperplasie (bewijsniveau L5). Oorspronkelijke indicatie: Myasthenia gravis (inclusief myasthenia gravis met aanvang op volwass…"
 ---
 
 # Distigmine

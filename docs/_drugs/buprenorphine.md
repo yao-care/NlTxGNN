@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 64
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (bewijsniveau L4). Oorspronkelijke indicatie: Opioïdafhankelijkheid, stoffengerelateerde afhankelijkheid…"
 ---
 
 # Buprenorphine

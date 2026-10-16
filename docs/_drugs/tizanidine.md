@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport verzamelde gegevens (de vergu…"
 ---
 
 # Tizanidine

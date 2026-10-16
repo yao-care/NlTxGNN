@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 19
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Acitretin: voorspelde nieuwe indicatie Acne (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
 ---
 
 # Acitretin

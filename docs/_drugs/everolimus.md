@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 145
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (met name gededifferentieerd liposarcoom) (bewijsniveau L3). Oorspronkelijke indicatie: Niercelcarcinoom (o.a. clear cell en niet-papillair). De ke…"
 ---
 
 # Everolimus

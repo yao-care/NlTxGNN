@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Travoprost: voorspelde nieuwe indicatie Viscerale calciphylaxie (bewijsniveau L5). Oorspronkelijke indicatie: Open-hoekglaucoom en oculaire hypertensie"
 ---
 
 # Travoprost

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 288
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ranitidine: voorspelde nieuwe indicatie Actieve maagzweerziekte (active peptic ulcer disease) (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer (o.a. ook reflux, oesofagitis, dyspepsie…"
 ---
 
 # Ranitidine

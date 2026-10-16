@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 344
 evidence_level: L3
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Faryngitis en verkoudheid"
 ---
 
 # Xylometazoline

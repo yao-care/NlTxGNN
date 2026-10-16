@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 220
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Meloxicam: voorspelde nieuwe indicatie Reumatoïde-factor-positieve polyarticulaire juveniele idiopathische a… (bewijsniveau L4). Oorspronkelijke indicatie: Reumatoïde artritis, artrose, juveniele idi…"
 ---
 
 # Meloxicam

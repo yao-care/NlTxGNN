@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 118
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dobutamine: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport samengestelde gegevens"
 ---
 
 # Dobutamine

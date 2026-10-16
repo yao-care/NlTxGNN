@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Hyaluronidase: voorspelde nieuwe indicatie Diabetische retinopathie (hoogst scorende voorspelling: esotropie) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare registrat…"
 ---
 
 # Hyaluronidase

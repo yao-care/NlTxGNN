@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 139
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ethambutol: voorspelde nieuwe indicatie Epiglottitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose"
 ---
 
 # Ethambutol

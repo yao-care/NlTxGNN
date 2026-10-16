@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methotrexate: voorspelde nieuwe indicatie Pulmonair blastoom (bewijsniveau L5). Oorspronkelijke indicatie: Acute lymfatische leukemie (overige oorspronkelijke indicaties: reuma…"
 ---
 
 # Methotrexate

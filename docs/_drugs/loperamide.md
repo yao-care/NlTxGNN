@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loperamide: voorspelde nieuwe indicatie Acute besmettelijke conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Diarree en dysenterie (afkomstig uit de TxGNN-kennisgraaf"
 ---
 
 # Loperamide

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Glatiramer: voorspelde nieuwe indicatie Hemoglobinopathie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (volgens algemene kennis: m…"
 ---
 
 # Glatiramer

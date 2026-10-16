@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 113
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dienogest: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de Nederlandse registratiegegevens (in de literat…"
 ---
 
 # Dienogest

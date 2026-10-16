@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amlodipine: voorspelde nieuwe indicatie Herseninfarct van de hersenstam (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (volgens de kennisgraaf ook beroerte…"
 ---
 
 # Amlodipine

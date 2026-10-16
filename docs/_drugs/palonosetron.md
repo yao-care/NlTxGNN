@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 264
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Palonosetron: voorspelde nieuwe indicatie Migraineaandoening (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
 ---
 
 # Palonosetron

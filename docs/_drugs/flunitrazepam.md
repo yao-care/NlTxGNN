@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 158
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flunitrazepam: voorspelde nieuwe indicatie Insomnia (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 ---
 
 # Flunitrazepam

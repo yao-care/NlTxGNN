@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 284
 evidence_level: L3
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Pyridostigmine: voorspelde nieuwe indicatie Myasthenia gravis met thymushyperplasie (bewijsniveau L3). Oorspronkelijke indicatie: Myasthenia gravis (inclusief myasthenia gravis met aanvang op volwass…"
 ---
 
 # Pyridostigmine

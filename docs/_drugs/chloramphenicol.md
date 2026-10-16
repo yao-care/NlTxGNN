@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 79
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Chloramphenicol: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Tyfus, salmonellose, paratyfus, meningokokkeninfectie…"
 ---
 
 # Chloramphenicol

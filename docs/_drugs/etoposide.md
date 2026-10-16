@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 143
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide: voorspelde nieuwe indicatie Ewing-sarcoom (rang 4 van de 10 voorspellingen (bewijsniveau L1). Oorspronkelijke indicatie: Kleincellig longcarcinoom en kiemceltumoren van de testis (o.a. sem…"
 ---
 
 # Etoposide

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oxcarbazepine: voorspelde nieuwe indicatie Visuele epilepsie (bewijsniveau L4). Oorspronkelijke indicatie: Partiële epilepsie (partiële motorische epilepsie)"
 ---
 
 # Oxcarbazepine

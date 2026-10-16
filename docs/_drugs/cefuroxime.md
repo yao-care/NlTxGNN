@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 75
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cefuroxime: voorspelde nieuwe indicatie Urineweginfectie (bewijsniveau L3). Oorspronkelijke indicatie: Infectieuze otitis media, bacteriële pneumonie, bacteriële meningitis…"
 ---
 
 # Cefuroxime

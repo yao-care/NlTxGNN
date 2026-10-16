@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Acenocoumarol: voorspelde nieuwe indicatie Heparine-cofactor-II-deficiëntie (bewijsniveau L5). Oorspronkelijke indicatie: Longembolie en trombofilie (afkomstig uit de TxGNN-kennisgraaf"
 ---
 
 # Acenocoumarol

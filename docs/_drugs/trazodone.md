@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 330
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (bewijsniveau L3). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 ---
 
 # Trazodone

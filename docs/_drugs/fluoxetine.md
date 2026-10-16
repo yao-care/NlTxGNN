@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 161
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluoxetine: voorspelde nieuwe indicatie Schizotypische persoonlijkheidsstoornis (bewijsniveau L3). Oorspronkelijke indicatie: Depressieve stoornis (major depressive disorder)…"
 ---
 
 # Fluoxetine

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 180
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Hydromorphone: voorspelde nieuwe indicatie Faryngitis (bewijsniveau L4). Oorspronkelijke indicatie: Verkoudheid en nasofaryngitis (volgens de kennisgraaf"
 ---
 
 # Hydromorphone

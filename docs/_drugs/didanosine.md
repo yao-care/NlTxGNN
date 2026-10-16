@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 112
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Didanosine: voorspelde nieuwe indicatie Felien verworven immuundeficiëntiesyndroom (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie / aids"
 ---
 
 # Didanosine

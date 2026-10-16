@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 32
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis"
 ---
 
 # Ambroxol

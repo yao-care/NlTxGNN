@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 255
 evidence_level: L3
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Omeprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L3). Oorspronkelijke indicatie: Maagzweer, maagzweerziekte, gastro-oesofageale refluxziekte…"
 ---
 
 # Omeprazole

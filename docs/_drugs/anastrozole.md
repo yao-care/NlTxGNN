@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 39
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Anastrozole: voorspelde nieuwe indicatie Vrouwelijk borstcarcinoom (bewijsniveau L1). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens (de indicatietekst van RVG…"
 ---
 
 # Anastrozole

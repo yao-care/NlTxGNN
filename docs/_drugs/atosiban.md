@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atosiban: voorspelde nieuwe indicatie Primaire erfelijke glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Vroeggeboorte uitstellen (tocolyse) bij volwassen zwangere vrouwen va…"
 ---
 
 # Atosiban

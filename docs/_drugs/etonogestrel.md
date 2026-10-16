@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Etonogestrel: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunningstekst bevat geen indic…"
 ---
 
 # Etonogestrel

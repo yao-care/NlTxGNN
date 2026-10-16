@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 122
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (bewijsniveau L2). Oorspronkelijke indicatie: Acute lymfatische leukemie, Hodgkin-lymfoom, non-Hodgkin-lymfoom…"
 ---
 
 # Doxorubicin

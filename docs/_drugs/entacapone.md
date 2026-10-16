@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 131
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entacapone: voorspelde nieuwe indicatie PLA2G6-geassocieerde neurodegeneratie (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Parkinson en verwante parkinsonsyndromen"
 ---
 
 # Entacapone

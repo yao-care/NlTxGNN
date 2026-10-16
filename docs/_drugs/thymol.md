@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thymol: voorspelde nieuwe indicatie Interventriculair septumaneurysma (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens"
 ---
 
 # Thymol

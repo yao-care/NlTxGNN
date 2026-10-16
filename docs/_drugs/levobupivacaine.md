@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens (de indicatietekst is leeg)"
 ---
 
 # Levobupivacaine

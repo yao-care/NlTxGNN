@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 67
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Calcipotriol: voorspelde nieuwe indicatie Seborroïsche keratose (bewijsniveau L3). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare vergunningsgegevens (de indicatiete…"
 ---
 
 # Calcipotriol

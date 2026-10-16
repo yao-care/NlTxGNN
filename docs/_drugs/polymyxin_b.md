@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 274
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens (de vergunningen bevatten…"
 ---
 
 # Polymyxin B

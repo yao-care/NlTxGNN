@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 57
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bimatoprost: voorspelde nieuwe indicatie Alopecia (haarverlies) (bewijsniveau L2). Oorspronkelijke indicatie: Open-hoekglaucoom, oculaire hypertensie…"
 ---
 
 # Bimatoprost

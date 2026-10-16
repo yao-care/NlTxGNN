@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 198
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Lansoprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer, peptische ulcusziekte, gastro-oesofageale refluxziekte…"
 ---
 
 # Lansoprazole

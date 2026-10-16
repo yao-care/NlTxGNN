@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 342
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vinblastine: voorspelde nieuwe indicatie Rabdomyosarcoom (bewijsniveau L3). Oorspronkelijke indicatie: Mycosis fungoides, primair cutaan T-cellymfoom, Hodgkin-lymfoom…"
 ---
 
 # Vinblastine

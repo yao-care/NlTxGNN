@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Memantine: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de vergunningsgegevens (algemeen bekend: matige tot e…"
 ---
 
 # Memantine

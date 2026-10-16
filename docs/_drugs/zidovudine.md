@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 345
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Zidovudine: voorspelde nieuwe indicatie Felien verworven immuundeficiëntiesyndroom (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (op basis van de kennisgraaf van TxG…"
 ---
 
 # Zidovudine

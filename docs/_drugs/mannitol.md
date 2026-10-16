@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mannitol: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (bewijsniveau L5). Oorspronkelijke indicatie: Congestief hartfalen, hersenoedeem, oculaire hypertensie…"
 ---
 
 # Mannitol

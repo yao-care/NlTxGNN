@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 306
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Sulpiride: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (bewijsniveau L4). Oorspronkelijke indicatie: Schizofrenie"
 ---
 
 # Sulpiride

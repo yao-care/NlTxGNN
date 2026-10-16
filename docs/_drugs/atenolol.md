@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 45
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Atenolol: voorspelde nieuwe indicatie Posteroinferieur myocardinfarct (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en myocardinfarct (op basis van de kennisgraaf"
 ---
 
 # Atenolol

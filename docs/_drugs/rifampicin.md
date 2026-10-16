@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 290
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose (afkomstig uit de TxGNN-kennisgraaf"
 ---
 
 # Rifampicin

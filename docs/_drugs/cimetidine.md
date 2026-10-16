@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Cimetidine: voorspelde nieuwe indicatie Smouldering systemische mastocytose (bewijsniveau L5). Oorspronkelijke indicatie: Maagzweer, gastro-oesofageale refluxziekte, twaalfvingerigedarmzweer…"
 ---
 
 # Cimetidine

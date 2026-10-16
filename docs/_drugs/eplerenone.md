@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 134
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Eplerenone: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoeningen)"
 ---
 
 # Eplerenone

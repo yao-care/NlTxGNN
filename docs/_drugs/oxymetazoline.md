@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis, verkoudheid (afkomstig uit de kennisgraaf"
 ---
 
 # Oxymetazoline

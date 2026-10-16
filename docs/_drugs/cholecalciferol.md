@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 83
 evidence_level: L2
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cholecalciferol: voorspelde nieuwe indicatie Renale osteodystrofie (bewijsniveau L2). Oorspronkelijke indicatie: Osteoporose, vitamine D-deficiëntie, rachitis, osteomalacie…"
 ---
 
 # Cholecalciferol

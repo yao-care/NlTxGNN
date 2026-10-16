@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 270
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pimozide: voorspelde nieuwe indicatie Trichotillomanie (bewijsniveau L3). Oorspronkelijke indicatie: Syndroom van Gilles de la Tourette"
 ---
 
 # Pimozide

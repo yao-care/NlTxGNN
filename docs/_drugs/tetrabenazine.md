@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tetrabenazine: voorspelde nieuwe indicatie Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Huntington (en aanverwante syndrom…"
 ---
 
 # Tetrabenazine

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 326
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L3). Oorspronkelijke indicatie: Ovariumcarcinoom (eierstokkanker) en verwante eierstoktumoren (bron:…"
 ---
 
 # Topotecan

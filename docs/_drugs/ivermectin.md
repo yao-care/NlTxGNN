@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Strongyloïdiasis en onchocerciasis"
 ---
 
 # Ivermectin

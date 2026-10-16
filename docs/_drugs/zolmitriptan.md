@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Zolmitriptan: voorspelde nieuwe indicatie Migraine met hersenstamaura (bewijsniveau L4). Oorspronkelijke indicatie: Migraine (migraine met of zonder aura)"
 ---
 
 # Zolmitriptan

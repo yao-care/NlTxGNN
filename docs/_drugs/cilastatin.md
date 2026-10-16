@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 85
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (bewijsniveau L3). Oorspronkelijke indicatie: Bacteriële pneumonie, peritonitis, endocarditis, bacteriële artritis…"
 ---
 
 # Cilastatin

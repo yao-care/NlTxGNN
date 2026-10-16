@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 244
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Nitrazepam: voorspelde nieuwe indicatie Slaapstoornis (inslapen en doorslapen) (bewijsniveau L3). Oorspronkelijke indicatie: Insomnie"
 ---
 
 # Nitrazepam

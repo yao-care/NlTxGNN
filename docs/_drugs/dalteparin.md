@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Dalteparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonaire embolie, gedissemineerde intravasale sto…"
 ---
 
 # Dalteparin

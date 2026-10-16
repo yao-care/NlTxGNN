@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Candesartan Cilexetil: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (hypertensive disorder / hypertension)"
 ---
 
 # Candesartan Cilexetil

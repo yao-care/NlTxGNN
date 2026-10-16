@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 106
 evidence_level: L3
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Desmopressin: voorspelde nieuwe indicatie Primaire afgifestoornis van bloedplaatjes (bewijsniveau L3). Oorspronkelijke indicatie: Erfelijke von Willebrand-ziekte, hemofilie…"
 ---
 
 # Desmopressin

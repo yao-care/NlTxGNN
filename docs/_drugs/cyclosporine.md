@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 101
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cyclosporine: voorspelde nieuwe indicatie Chronische granulomateuze ziekte, autosomaal recessief (bewijsniveau L4). Oorspronkelijke indicatie: Reumatoïde artritis, droge ogen (keratoconjunctivitis si…"
 ---
 
 # Cyclosporine

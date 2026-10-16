@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Desloratadine: voorspelde nieuwe indicatie Koude-urticaria (cold urticaria) (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis…"
 ---
 
 # Desloratadine

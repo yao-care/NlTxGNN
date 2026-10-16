@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Auto-immuunziekte, ziekte van Crohn, acute lymfatische leukemie…"
 ---
 
 # Prednisolone

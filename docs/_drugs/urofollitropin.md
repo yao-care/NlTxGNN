@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Urofollitropin: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de gegevens voor de Nederlandse vergunning. Op basis…"
 ---
 
 # Urofollitropin

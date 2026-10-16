@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 87
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ciprofibrate: voorspelde nieuwe indicatie Hyperlipoproteïnemie (bewijsniveau L3). Oorspronkelijke indicatie: Hypertriglyceridemie en familiaire gecombineerde hyperlipidemie"
 ---
 
 # Ciprofibrate

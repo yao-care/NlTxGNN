@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 183
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Indomethacin: voorspelde nieuwe indicatie Juveniele idiopathische artritis (rang 8 van de voorspellingen (bewijsniveau L3). Oorspronkelijke indicatie: Bursitis, synovitis, tenosynovitis, reumatoïde a…"
 ---
 
 # Indomethacin

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 127
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Efavirenz: voorspelde nieuwe indicatie Simian immunodeficiency-virusinfectie (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (de goedgekeurde indicatietekst van de Nederland…"
 ---
 
 # Efavirenz

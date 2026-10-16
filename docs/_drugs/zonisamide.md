@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de registratiegegevens (bekend gebruik: epilepsie)"
 ---
 
 # Zonisamide

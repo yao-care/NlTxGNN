@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie en diabetische nefropathie (afkomstig uit de TxGNN-kennis…"
 ---
 
 # Irbesartan

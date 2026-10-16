@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis B-virusinfectie, hiv-infectie, aids"
 ---
 
 # Lamivudine

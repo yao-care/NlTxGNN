@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 133
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonair lymfoom (bewijsniveau L4). Oorspronkelijke indicatie: Borstkanker (borstcarcinoom / borstneoplasma)"
 ---
 
 # Epirubicin

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Atazanavir: voorspelde nieuwe indicatie Feline verworven immunodeficiëntiesyndroom (bewijsniveau L5). Oorspronkelijke indicatie: HIV-infectie en aids"
 ---
 
 # Atazanavir

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amylmetacresol: voorspelde nieuwe indicatie Cauda-equinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Geen indicatietekst beschikbaar in de gegevens van het CBG-MEB (de be…"
 ---
 
 # Amylmetacresol

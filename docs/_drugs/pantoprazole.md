@@ -5,6 +5,8 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 265
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pantoprazole: voorspelde nieuwe indicatie Actieve peptische ulcusziekte (bewijsniveau L1). Oorspronkelijke indicatie: Peptische ulcusziekte, gastro-oesofageale refluxziekte, oesofagitis…"
 ---
 
 # Pantoprazole

@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 212
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Lopinavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (bewijsniveau L4). Oorspronkelijke indicatie: HIV-infectie, aids (volgens de kennisgraaf"
 ---
 
 # Lopinavir

@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Topiramate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie met gegeneraliseerde tonisch-clonische aanvallen…"
 ---
 
 # Topiramate

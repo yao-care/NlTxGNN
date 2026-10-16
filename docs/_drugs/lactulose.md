@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 193
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Lactulose: voorspelde nieuwe indicatie Obstructieve icterus (bewijsniveau L3). Oorspronkelijke indicatie: Hepatische encefalopathie, hepatisch coma…"
 ---
 
 # Lactulose

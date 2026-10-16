@@ -5,6 +5,8 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Celecoxib: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, spondylitis ankylopoetica…"
 ---
 
 # Celecoxib

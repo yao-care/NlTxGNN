@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 254
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Olodaterol: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Chronische obstructieve longziekte (COPD)"
 ---
 
 # Olodaterol

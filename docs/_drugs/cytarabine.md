@@ -5,6 +5,8 @@ parent: Matig bewijs (L3-L4)
 nav_order: 102
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (bewijsniveau L4). Oorspronkelijke indicatie: Acute lymfatische leukemie en acute myeloïde leukemie (op basis van d…"
 ---
 
 # Cytarabine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ritonavir: voorspelde nieuwe indicatie Felien verworven immunodeficiëntiesyndroom (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Hiv-infectie/aids en chronische hepatitis C-infectie"
+monitor_inn: "Ritonavir"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Ritonavir

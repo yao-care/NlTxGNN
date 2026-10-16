@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (bewijsniveau L4). Oorspronkelijke indicatie: Systemische schimmelinfecties (o.a. candidiasis, aspergillose…"
+monitor_inn: "itraconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Faryngitis en verkoudheid"
+monitor_inn: "xylometazoline"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Xylometazoline

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Lactulose: voorspelde nieuwe indicatie Obstructieve icterus (bewijsniveau L3). Oorspronkelijke indicatie: Hepatische encefalopathie, hepatisch coma…"
+monitor_inn: "Lactulose"
+predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 ---
 
 # Lactulose

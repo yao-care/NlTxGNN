@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norethisterone: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L4). Oorspronkelijke indicatie: Endometriose, primaire ovariële insufficiëntie…"
+monitor_inn: "norethisterone"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norethisterone

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Arginine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
+monitor_inn: "arginine"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Arginine

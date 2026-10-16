@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Erythromycin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Acne, middenoorontsteking, streptokokken- en stafylokokkeninfecties…"
+monitor_inn: "erythromycin"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin

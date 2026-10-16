@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Anastrozole: voorspelde nieuwe indicatie Vrouwelijk borstcarcinoom (bewijsniveau L1). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens (de indicatietekst van RVG…"
+monitor_inn: "anastrozole"
+predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 ---
 
 # Anastrozole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Povidone: voorspelde nieuwe indicatie Congenitale ichthyosiforme erytrodermie (bewijsniveau L5). Oorspronkelijke indicatie: Droog-oogsyndroom, xeroftalmie"
+monitor_inn: "povidone"
+predicted_indications: ["congenital ichthyosiform erythroderma"]
 ---
 
 # Povidone

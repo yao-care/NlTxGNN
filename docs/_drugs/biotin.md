@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Biotin: voorspelde nieuwe indicatie Dyspepsie (bewijsniveau L5). Oorspronkelijke indicatie: Voedingsgerelateerd biotinetekort"
+monitor_inn: "biotin"
+predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
 ---
 
 # Biotin

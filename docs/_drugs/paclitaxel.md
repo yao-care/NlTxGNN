@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Paclitaxel: voorspelde nieuwe indicatie Borstkanker bij vrouwen (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Ovariumkanker (de vergunningsgegevens bevatten geen indicatiete…"
+monitor_inn: "Paclitaxel"
+predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Paclitaxel

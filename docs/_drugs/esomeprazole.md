@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Esomeprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer- en twaalfvingerigedarmzweerziekte (peptic ulcer disease)…"
+monitor_inn: "esomeprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Esomeprazole

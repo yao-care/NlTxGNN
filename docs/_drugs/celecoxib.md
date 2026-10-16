@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Celecoxib: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, spondylitis ankylopoetica…"
+monitor_inn: "Celecoxib"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "inflammatory spondylopathy", "WHIM syndrome"]
 ---
 
 # Celecoxib

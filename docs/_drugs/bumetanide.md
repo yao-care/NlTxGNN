@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (bewijsniveau L4). Oorspronkelijke indicatie: Congestief hartfalen"
+monitor_inn: "Bumetanide"
+predicted_indications: ["acute pulmonary heart disease"]
 ---
 
 # Bumetanide

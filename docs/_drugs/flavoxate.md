@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Flavoxate: voorspelde nieuwe indicatie ADHD, inattentief type (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (geen goedgekeurde indicatietekst in…"
+monitor_inn: "flavoxate"
+predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
 ---
 
 # Flavoxate

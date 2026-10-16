@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Cyclopentolate: voorspelde nieuwe indicatie Caudaequinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Cycloplegie"
+monitor_inn: "cyclopentolate"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 ---
 
 # Cyclopentolate

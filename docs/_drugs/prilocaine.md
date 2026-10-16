@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prilocaine: voorspelde nieuwe indicatie Neuralgie (postherpetische neuralgie) (bewijsniveau L5). Oorspronkelijke indicatie: Voortijdige ejaculatie"
+monitor_inn: "prilocaine"
+predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 ---
 
 # Prilocaine

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Chloroquine: voorspelde nieuwe indicatie RF-positieve polyarticulaire juveniele idiopathische artritis (bewijsniveau L4). Oorspronkelijke indicatie: Reumatoïde artritis, systemische lupus erythematod…"
+monitor_inn: "chloroquine"
+predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
 ---
 
 # Chloroquine

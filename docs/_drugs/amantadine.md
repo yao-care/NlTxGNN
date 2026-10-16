@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encefalitis) (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Parkinson en verwante parkinsonistische aandoen…"
+monitor_inn: "amantadine"
+predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
 ---
 
 # Amantadine

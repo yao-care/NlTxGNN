@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
+monitor_inn: "nitroglycerin"
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "Prinzmetal angina", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
 ---
 
 # Nitroglycerin

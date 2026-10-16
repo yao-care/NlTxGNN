@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Palonosetron: voorspelde nieuwe indicatie Migraineaandoening (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
+monitor_inn: "palonosetron"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Palonosetron

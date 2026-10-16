@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hyaluronidase: voorspelde nieuwe indicatie Diabetische retinopathie (hoogst scorende voorspelling: esotropie) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare registrat…"
+monitor_inn: "Hyaluronidase"
+predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 ---
 
 # Hyaluronidase

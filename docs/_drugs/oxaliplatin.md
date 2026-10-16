@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (bewijsniveau L2). Oorspronkelijke indicatie: Gemetastaseerd colorectaal carcinoom (uit de kennisgraaf"
+monitor_inn: "oxaliplatin"
+predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Oxaliplatin

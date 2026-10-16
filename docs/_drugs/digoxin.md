@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (bewijsniveau L5). Oorspronkelijke indicatie: Atriumfibrilleren"
+monitor_inn: "digoxin"
+predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia"]
 ---
 
 # Digoxin

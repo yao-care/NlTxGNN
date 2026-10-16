@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens (de vergunningen bevatten…"
+monitor_inn: "polymyxin b"
+predicted_indications: ["bronchitis", "laryngotracheitis", "conjunctivitis"]
 ---
 
 # Polymyxin B

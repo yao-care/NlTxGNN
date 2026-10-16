@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Naratriptan: voorspelde nieuwe indicatie Migraine met hersenstamaura (bewijsniveau L3). Oorspronkelijke indicatie: Migraine (met of zonder aura)"
+monitor_inn: "naratriptan"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Naratriptan

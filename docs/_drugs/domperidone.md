@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Domperidone: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (NSIAD) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de Nederlandse vergunningsgegevens. Vo…"
+monitor_inn: "domperidone"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Domperidone

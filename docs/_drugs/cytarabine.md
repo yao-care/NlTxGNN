@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (bewijsniveau L4). Oorspronkelijke indicatie: Acute lymfatische leukemie en acute myeloïde leukemie (op basis van d…"
+monitor_inn: "Cytarabine"
+predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 ---
 
 # Cytarabine

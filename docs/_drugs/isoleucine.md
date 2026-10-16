@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoleucine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de gegevens van het CBG-MEB"
+monitor_inn: "isoleucine"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Isoleucine

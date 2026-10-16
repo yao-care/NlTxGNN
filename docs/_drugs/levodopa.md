@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Levodopa: voorspelde nieuwe indicatie Rasmussen-encefalitis (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Parkinson en verwante parkinsonsyndromen"
+monitor_inn: "levodopa"
+predicted_indications: ["Rasmussen subacute encephalitis"]
 ---
 
 # Levodopa

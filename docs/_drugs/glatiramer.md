@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glatiramer: voorspelde nieuwe indicatie Hemoglobinopathie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (volgens algemene kennis: m…"
+monitor_inn: "glatiramer"
+predicted_indications: ["hemoglobinopathy"]
 ---
 
 # Glatiramer

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Cyanocobalamin: voorspelde nieuwe indicatie Biotinemetabole aandoening (bewijsniveau L5). Oorspronkelijke indicatie: Vitamine B12-deficiëntie…"
+monitor_inn: "cyanocobalamin"
+predicted_indications: ["biotin metabolic disease"]
 ---
 
 # Cyanocobalamin

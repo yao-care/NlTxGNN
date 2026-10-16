@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose"
+monitor_inn: "isoniazid"
+predicted_indications: ["conjunctivitis"]
 ---
 
 # Isoniazid

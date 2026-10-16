@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norgestimate: voorspelde nieuwe indicatie Verhoogd zinkgehalte in plasma (bewijsniveau L5). Oorspronkelijke indicatie: Acne, postmenopauzale osteoporose, osteoporose, atrofische vaginitis"
+monitor_inn: "norgestimate"
+predicted_indications: ["zinc, elevated plasma"]
 ---
 
 # Norgestimate

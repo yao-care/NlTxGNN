@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Pilocarpine: voorspelde nieuwe indicatie Primair erfelijk glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Open-hoekglaucoom en oculaire hypertensie (afkomstig uit de TxGNN-ken…"
+monitor_inn: "pilocarpine"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Pilocarpine

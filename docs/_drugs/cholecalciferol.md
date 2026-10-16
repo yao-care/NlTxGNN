@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cholecalciferol: voorspelde nieuwe indicatie Renale osteodystrofie (bewijsniveau L2). Oorspronkelijke indicatie: Osteoporose, vitamine D-deficiëntie, rachitis, osteomalacie…"
+monitor_inn: "Cholecalciferol"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

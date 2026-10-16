@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (BPH) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde data (de vergunning bevat geen indi…"
+monitor_inn: "benzydamine"
+predicted_indications: ["benign prostatic hyperplasia (disease)"]
 ---
 
 # Benzydamine

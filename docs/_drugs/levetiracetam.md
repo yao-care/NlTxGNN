@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: voorspelde nieuwe indicatie Visuele epilepsie (bewijsniveau L4). Oorspronkelijke indicatie: Partiële epilepsie"
+monitor_inn: "Levetiracetam"
+predicted_indications: ["visual epilepsy", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

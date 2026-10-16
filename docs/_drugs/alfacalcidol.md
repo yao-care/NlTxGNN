@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Alfacalcidol: voorspelde nieuwe indicatie Familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secret… (bewijsniveau L5). Oorspronkelijke indicatie: Hyperparathyreoïdie, osteïtis fibrosa, h…"
+monitor_inn: "Alfacalcidol"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clobazam: voorspelde nieuwe indicatie Febriele infectiegerelateerde epilepsiesyndroom (FIRES) (bewijsniveau L4). Oorspronkelijke indicatie: Lennox-Gastaut-syndroom (volgens de kennisgraaf"
+monitor_inn: "Clobazam"
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 ---
 
 # Clobazam

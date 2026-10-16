@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie, partiële epilepsie, Lennox-Gastaut-syndroom"
+monitor_inn: "felbamate"
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Felbamate

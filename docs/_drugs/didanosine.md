@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Didanosine: voorspelde nieuwe indicatie Felien verworven immuundeficiëntiesyndroom (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie / aids"
+monitor_inn: "Didanosine"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Didanosine

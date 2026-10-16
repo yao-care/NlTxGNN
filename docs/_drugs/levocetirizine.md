@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis, idiopathische urticaria"
+monitor_inn: "levocetirizine"
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Levocetirizine

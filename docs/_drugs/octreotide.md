@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (bewijsniveau L5). Oorspronkelijke indicatie: Acromegalie, hyperpituïtarisme, carcinoïdsyndroom"
+monitor_inn: "octreotide"
+predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 ---
 
 # Octreotide

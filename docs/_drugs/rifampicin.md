@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose (afkomstig uit de TxGNN-kennisgraaf"
+monitor_inn: "rifampicin"
+predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 ---
 
 # Rifampicin

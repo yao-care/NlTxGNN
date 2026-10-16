@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Sorbitol: voorspelde nieuwe indicatie Inspanningsgebonden maligne hyperthermie (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
+monitor_inn: "Sorbitol"
+predicted_indications: ["exercise-induced malignant hyperthermia"]
 ---
 
 # Sorbitol

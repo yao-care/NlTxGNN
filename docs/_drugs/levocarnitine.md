@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levocarnitine: voorspelde nieuwe indicatie Autosomaal dominant familiair hematurie-retinale arteriolaire tortuos… (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde ge…"
+monitor_inn: "Levocarnitine"
+predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
 ---
 
 # Levocarnitine

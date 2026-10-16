@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Omeprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L3). Oorspronkelijke indicatie: Maagzweer, maagzweerziekte, gastro-oesofageale refluxziekte…"
+monitor_inn: "omeprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Omeprazole

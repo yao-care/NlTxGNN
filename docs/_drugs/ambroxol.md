@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis"
+monitor_inn: "ambroxol"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Ambroxol

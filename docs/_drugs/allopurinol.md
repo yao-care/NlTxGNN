@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (bewijsniveau L5). Oorspronkelijke indicatie: Jicht (ook hyperurikemie en acute urinezuurnefropathie)"
+monitor_inn: "Allopurinol"
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
 ---
 
 # Allopurinol

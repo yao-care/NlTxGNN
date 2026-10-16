@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Acetaminophen: voorspelde nieuwe indicatie Migraine met hersenstamaura (bewijsniveau L4). Oorspronkelijke indicatie: Allergische rinitis, vasomotorische rinitis, migraine, verkoudheid…"
+monitor_inn: "Acetaminophen"
+predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Acetaminophen

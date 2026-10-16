@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale arteriële hypertensie (afkomstig uit de TxGNN-kennisgraaf"
+monitor_inn: "Iloprost"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with connective tissue disease", "diffuse alopecia areata"]
 ---
 
 # Iloprost

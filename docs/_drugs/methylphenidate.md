@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Aandachtstekortstoornis met hyperactiviteit (ADHD)…"
+monitor_inn: "methylphenidate"
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 ---
 
 # Methylphenidate

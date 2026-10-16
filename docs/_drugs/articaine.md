@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Articaine: voorspelde nieuwe indicatie Jicht (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (lokale anesthesie…"
+monitor_inn: "articaine"
+predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
 ---
 
 # Articaine

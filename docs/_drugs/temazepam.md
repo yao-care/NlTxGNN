@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Temazepam: voorspelde nieuwe indicatie Slaapstoornis, inslapen en doorslapen (bewijsniveau L5). Oorspronkelijke indicatie: Slapeloosheid (insomnie)"
+monitor_inn: "Temazepam"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Temazepam

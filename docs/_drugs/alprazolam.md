@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis…"
+monitor_inn: "Alprazolam"
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Alprazolam

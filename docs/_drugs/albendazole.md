@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Albendazole: voorspelde nieuwe indicatie Alveolaire echinokokkose (bewijsniveau L2). Oorspronkelijke indicatie: Cystische echinokokkose…"
+monitor_inn: "albendazole"
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
 ---
 
 # Albendazole

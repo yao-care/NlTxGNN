@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis…"
+monitor_inn: "Ebastine"
+predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 ---
 
 # Ebastine

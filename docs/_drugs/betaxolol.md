@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Betaxolol: voorspelde nieuwe indicatie Primair erfelijk glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie…"
+monitor_inn: "betaxolol"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Betaxolol

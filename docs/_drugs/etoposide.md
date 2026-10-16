@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etoposide: voorspelde nieuwe indicatie Ewing-sarcoom (rang 4 van de 10 voorspellingen (bewijsniveau L1). Oorspronkelijke indicatie: Kleincellig longcarcinoom en kiemceltumoren van de testis (o.a. sem…"
+monitor_inn: "Etoposide"
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 ---
 
 # Etoposide

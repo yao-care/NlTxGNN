@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lidocaine: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Dermatitis, neuralgie, hemorroïden, scabiës en andere"
+monitor_inn: "lidocaine"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 ---
 
 # Lidocaine

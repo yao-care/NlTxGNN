@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: voorspelde nieuwe indicatie Actieve peptische ulcusziekte (bewijsniveau L1). Oorspronkelijke indicatie: Peptische ulcusziekte, gastro-oesofageale refluxziekte, oesofagitis…"
+monitor_inn: "pantoprazole"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Pantoprazole

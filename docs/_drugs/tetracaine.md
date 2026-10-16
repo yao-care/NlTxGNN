@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Dermatitis (afkomstig uit de kennisgraaf"
+monitor_inn: "tetracaine"
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 ---
 
 # Tetracaine

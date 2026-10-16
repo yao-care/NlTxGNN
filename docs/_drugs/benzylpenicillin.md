@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). Oorspronkelijke indicatie: Streptokokkeninfecties, meningokokkeninfecties, antrax, endocarditis…"
+monitor_inn: "benzylpenicillin"
+predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
 ---
 
 # Benzylpenicillin

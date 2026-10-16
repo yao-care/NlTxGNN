@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Epinephrine: voorspelde nieuwe indicatie Obstructieve longziekte (bewijsniveau L1). Oorspronkelijke indicatie: Anafylaxie en astma (volgens de kennisgraaf"
+monitor_inn: "Epinephrine"
+predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (bewijsniveau L5). Oorspronkelijke indicatie: Anaerobe bacteriële infecties, giardiasis, bacteriële vaginose…"
+monitor_inn: "metronidazole"
+predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 ---
 
 # Metronidazole

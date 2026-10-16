@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mebendazole: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Enterobiasis, ascariasis…"
+monitor_inn: "mebendazole"
+predicted_indications: ["acne (disease)"]
 ---
 
 # Mebendazole

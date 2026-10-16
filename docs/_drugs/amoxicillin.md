@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Amoxicillin: voorspelde nieuwe indicatie Hyperamylasemie (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties (o.a. urineweginfectie, middenoorontsteking…"
+monitor_inn: "amoxicillin"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
 
 # Amoxicillin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Ammonia: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Psoriasis, parapsoriasis, acne, seborroïsch eczeem…"
+monitor_inn: "ammonia"
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
 ---
 
 # Ammonia

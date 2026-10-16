@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cyclophosphamide: voorspelde nieuwe indicatie Myeloïde leukemie (bewijsniveau L2). Oorspronkelijke indicatie: Niet beschikbaar in de Nederlandse vergunningsgegevens. Volgens de ke…"
+monitor_inn: "cyclophosphamide"
+predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 ---
 
 # Cyclophosphamide

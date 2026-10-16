@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Calcitriol: voorspelde nieuwe indicatie Vitamine D-deficiëntie (term in de ontologie als \"obsolete\" gemarkeer… (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de Nederlandse vergunnings…"
+monitor_inn: "Calcitriol"
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
 ---
 
 # Calcitriol

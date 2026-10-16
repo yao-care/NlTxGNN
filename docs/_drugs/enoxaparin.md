@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Enoxaparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale embolie, gedissemineerde intravasale stol…"
+monitor_inn: "enoxaparin"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 ---
 
 # Enoxaparin

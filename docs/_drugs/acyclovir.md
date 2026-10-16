@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acyclovir: voorspelde nieuwe indicatie Gewone wratten (common wart) (bewijsniveau L2). Oorspronkelijke indicatie: Herpes simplex-infecties, herpes zoster, waterpokken, herpes labialis…"
+monitor_inn: "acyclovir"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
 ---
 
 # Acyclovir

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chlordiazepoxide: voorspelde nieuwe indicatie Insomnia (bewijsniveau L4). Oorspronkelijke indicatie: Angst (aanvullend volgens de kennisgraaf: alcoholontwenning…"
+monitor_inn: "chlordiazepoxide"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
 ---
 
 # Chlordiazepoxide

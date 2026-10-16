@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L3). Oorspronkelijke indicatie: Angst"
+monitor_inn: "Oxazepam"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Oxazepam

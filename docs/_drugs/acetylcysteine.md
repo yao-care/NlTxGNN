@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acetylcysteine: voorspelde nieuwe indicatie Trombotische aandoening (thrombotic disease) (bewijsniveau L5). Oorspronkelijke indicatie: Bronchitis, paracetamolvergiftiging, cystic fibrosis…"
+monitor_inn: "acetylcysteine"
+predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 ---
 
 # Acetylcysteine

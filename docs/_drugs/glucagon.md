@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
+monitor_inn: "glucagon"
+predicted_indications: ["irritable bowel syndrome"]
 ---
 
 # Glucagon

@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Letrozole: voorspelde nieuwe indicatie Vrouwelijk mammacarcinoom (female breast carcinoma) (bewijsniveau L1). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunningstekst is leeg)"
+monitor_inn: "letrozole"
+predicted_indications: ["female breast carcinoma", "nipple carcinoma", "estrogen-receptor negative breast cancer", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Letrozole

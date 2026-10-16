@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens (de enige vergunning bevat…"
+monitor_inn: "Misoprostol"
+predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 ---
 
 # Misoprostol

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (met name gededifferentieerd liposarcoom) (bewijsniveau L3). Oorspronkelijke indicatie: Niercelcarcinoom (o.a. clear cell en niet-papillair). De ke…"
+monitor_inn: "Everolimus"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma"]
 ---
 
 # Everolimus

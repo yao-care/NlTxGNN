@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clonazepam: voorspelde nieuwe indicatie Restless legs-syndroom (bewijsniveau L3). Oorspronkelijke indicatie: Epilepsie (o.a. absence-epilepsie, Lennox-Gastaut-syndroom…"
+monitor_inn: "Clonazepam"
+predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

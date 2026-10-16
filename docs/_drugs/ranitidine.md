@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ranitidine: voorspelde nieuwe indicatie Actieve maagzweerziekte (active peptic ulcer disease) (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer (o.a. ook reflux, oesofagitis, dyspepsie…"
+monitor_inn: "ranitidine"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenogastric reflux", "duodenal obstruction", "gastroduodenitis", "peptic ulcer disease", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Ranitidine

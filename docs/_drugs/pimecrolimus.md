@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Pimecrolimus: voorspelde nieuwe indicatie Seborroïsche dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Constitutioneel eczeem (atopische dermatitis)"
+monitor_inn: "Pimecrolimus"
+predicted_indications: ["seborrheic dermatitis", "dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 ---
 
 # Pimecrolimus

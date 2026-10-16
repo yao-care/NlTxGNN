@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Chloramphenicol: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Tyfus, salmonellose, paratyfus, meningokokkeninfectie…"
+monitor_inn: "chloramphenicol"
+predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Chloramphenicol

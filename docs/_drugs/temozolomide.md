@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Temozolomide: voorspelde nieuwe indicatie Volwassen astrocytair gezwel (bewijsniveau L1). Oorspronkelijke indicatie: Anaplastisch astrocytoom, astrocytoom (excl. glioblastoom)…"
+monitor_inn: "Temozolomide"
+predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
 ---
 
 # Temozolomide

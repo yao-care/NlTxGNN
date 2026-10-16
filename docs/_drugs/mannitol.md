@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mannitol: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (bewijsniveau L5). Oorspronkelijke indicatie: Congestief hartfalen, hersenoedeem, oculaire hypertensie…"
+monitor_inn: "Mannitol"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
 ---
 
 # Mannitol

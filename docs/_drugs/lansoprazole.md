@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Lansoprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer, peptische ulcusziekte, gastro-oesofageale refluxziekte…"
+monitor_inn: "lansoprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Lansoprazole

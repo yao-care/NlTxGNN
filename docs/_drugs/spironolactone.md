@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Spironolactone: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie, congestief hartfalen…"
+monitor_inn: "spironolactone"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 ---
 
 # Spironolactone

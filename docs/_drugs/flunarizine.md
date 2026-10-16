@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Flunarizine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
+monitor_inn: "flunarizine"
+predicted_indications: ["migraine disorder"]
 ---
 
 # Flunarizine

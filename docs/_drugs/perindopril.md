@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
+monitor_inn: "perindopril"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 ---
 
 # Perindopril

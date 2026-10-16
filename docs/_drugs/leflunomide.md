@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis en artritis psoriatica (afkomstig uit de TxGNN-ke…"
+monitor_inn: "Leflunomide"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Leflunomide

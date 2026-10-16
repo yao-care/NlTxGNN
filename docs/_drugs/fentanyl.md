@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Fentanyl: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (NSIAD) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de vergunnings…"
+monitor_inn: "Fentanyl"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Fentanyl

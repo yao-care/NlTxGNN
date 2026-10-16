@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lynestrenol: voorspelde nieuwe indicatie Migraine met of zonder aura, gevoeligheid (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (indicatietekst van de vergunning is…"
+monitor_inn: "Lynestrenol"
+predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
 ---
 
 # Lynestrenol

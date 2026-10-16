@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Duloxetine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie (verder o.a. majeure depressieve stoornis…"
+monitor_inn: "duloxetine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Duloxetine

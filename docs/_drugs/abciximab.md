@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abciximab
 parent: Alleen modelvoorspelling (L5)

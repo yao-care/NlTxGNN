@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amitriptyline Hydrochloride
 parent: Alleen modelvoorspelling (L5)

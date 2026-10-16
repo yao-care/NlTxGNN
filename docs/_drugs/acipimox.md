@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acipimox
 parent: Alleen modelvoorspelling (L5)

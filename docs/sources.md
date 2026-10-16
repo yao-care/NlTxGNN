@@ -36,7 +36,7 @@ Elke conclusie is te herleiden tot een openbare gegevensbron — niets is een bl
 
 Elke bron heeft zijn eigen licentie — controleer deze voordat u citeert:
 
-- **TxGNN**: academisch gebruik; citeer Huang et al. (2023)
+- **TxGNN**: academisch gebruik; citeer Huang et al. (2024)
 - **ClinicalTrials.gov / PubMed**: openbare gegevens van de Amerikaanse NIH
 - **DrugBank**: niet-commercieel gebruik, onder de eigen licentievoorwaarden
 - **CBG-MEB**: onder de opendatavoorwaarden van de Nederlandse registratieautoriteit
@@ -55,7 +55,7 @@ Elke bron heeft zijn eigen licentie — controleer deze voordat u citeert:
 
 ## Wetenschappelijke citatie
 
-> Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
+> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
 > [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---

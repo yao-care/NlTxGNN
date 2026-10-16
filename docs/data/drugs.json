@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "total_count": 338,
+  "total_count": 334,
   "source": "NlTxGNN",
   "drugs": [
     {
@@ -12,16 +12,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/abacavir/"
-    },
-    {
-      "slug": "abciximab",
-      "name": "Abciximab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abciximab/"
     },
     {
       "slug": "acarbose",
@@ -74,16 +64,6 @@
       "url": "/drugs/acetylcysteine/"
     },
     {
-      "slug": "acipimox",
-      "name": "Acipimox",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acipimox/"
-    },
-    {
       "slug": "acitretin",
       "name": "Acitretin",
       "evidence_level": "L3",
@@ -112,16 +92,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/adenosine/"
-    },
-    {
-      "slug": "adrenaline",
-      "name": "Adrenaline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/adrenaline/"
     },
     {
       "slug": "albendazole",
@@ -232,16 +202,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amiodarone/"
-    },
-    {
-      "slug": "amitriptyline-hydrochloride",
-      "name": "Amitriptyline Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amitriptyline-hydrochloride/"
     },
     {
       "slug": "amlodipine",

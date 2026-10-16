@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 338,
+  "drug_count": 334,
   "indication_count": 985,
   "drugs": [
     {
@@ -26,14 +26,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Abciximab",
-      "slug": "abciximab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acarbose",
@@ -241,14 +233,6 @@
       ]
     },
     {
-      "name": "Acipimox",
-      "slug": "acipimox",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acitretin",
       "slug": "acitretin",
       "brands": [],
@@ -354,14 +338,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Adrenaline",
-      "slug": "adrenaline",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Albendazole",
@@ -851,14 +827,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Amitriptyline Hydrochloride",
-      "slug": "amitriptyline-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Amlodipine",

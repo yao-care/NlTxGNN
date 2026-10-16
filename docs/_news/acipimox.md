@@ -25,7 +25,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acipimox met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/acipimox/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
 ## Gerelateerd nieuws (0)

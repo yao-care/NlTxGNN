@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-16T16:00:42.678153+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-16T20:27:29.709063+00:00",
+  "count": 8,
   "news": [
     {
       "id": "a08b65dea468",
@@ -30,7 +30,7 @@
     {
       "id": "a98a9738875b",
       "title": "Deze pil op deze pil: een opstapeling van medicijnen - NPO Radio 1",
-      "published": "2026-10-14T15:03:41+00:00",
+      "published": "2026-10-14T17:14:23+00:00",
       "summary": "Deze pil op deze pil: een opstapeling van medicijnen&nbsp;&nbsp;NPO Radio 1Pil na pil tegen bijwerkingen? Het belang van je medicatiegeschiedenis wordt onderschat&nbsp;&nbsp;EOS Wetenschap",
       "sources": [
         {
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "ad51d3ac7b47",
-      "title": "Griepseizoen komt eraan, maar de prik is vertraagd: dit is waarom - EenVandaag",
-      "published": "2026-10-12T17:34:23+00:00",
-      "summary": "Griepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;Libelle6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ‘m over&nbsp;&nbsp;MargrietGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
+      "id": "ccccb9ec3563",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
+      "published": "2026-10-12T19:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;Libelle6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ‘m over&nbsp;&nbsp;MargrietGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTYtVk5VSTZBX0h5SXBDWENseTkteTB1N2hNRkVidzNyWDNHNFNEVkhDQ1hGRVNsbjFUbHBWMFFETTZHREhPMU1XYy1Qa1ZBYlYzOTBIeTlPUjdxbTFGaFFBM1UzOW9iYXhwZ2puR2lGS21DQktmRkpHNXRacFZLMkFTRXpQa3g4WURmdGZ2Z2hFbjQtdE03eE1lMk9ydmJsWkw2WU5sUFpfczBWU0ZfMQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
         }
       ]
     },
@@ -72,18 +72,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cd5642795ff",
-      "title": "Veghels gezin zet zich in voor andere gezinnen na ziekte van zoontje Kai - kliknieuwsveghel.nl",
-      "published": "2026-10-15T08:10:00+00:00",
-      "summary": "Veghels gezin zet zich in voor andere gezinnen na ziekte van zoontje Kai&nbsp;&nbsp;kliknieuwsveghel.nl",
-      "sources": [
-        {
-          "name": "kliknieuwsveghel.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUxQV3NGTEFzUDhoaXBKRUZnRW5GLWxKQXpUOVpRUTlTT0J6Njh0LWlWRkxnRGx2Y29za3RYb0c2eTYtcmxITzRhUVVxRHFSdHhfR3RBR1AxYVVZSlpva0NEbWdReHgtbGxTcEhXWF9zc2R0TUtrLXU0SXludmhlNmFYaFZwRUlhN01JTmQxdlVOZTlhRFJFa2RMbk5ZODc0UXpXT1o1U3RaekF4ZmpjNFh1dVZrNjk2YUE?oc=5"
         }
       ]
     },

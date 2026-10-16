@@ -40,4 +40,4 @@
 
 - Productoverzicht op yao.care: https://www.yao.care/medical/txgnn/
 - GitHub: https://github.com/yao-care/NlTxGNN
-- Oorspronkelijke TxGNN-publicatie (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x
+- Oorspronkelijke TxGNN-publicatie (Nature Medicine): https://doi.org/10.1038/s41591-024-03233-x

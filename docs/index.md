@@ -2,13 +2,13 @@
 layout: default
 title: "Voorspellingen voor Geneesmiddelherpositionering \u2014 Nederland"
 nav_order: 1
-description: "AI-powered drug repurposing predictions for 145 Netherlands (CBG-MEB) approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
+description: "AI-gestuurde voorspellingen voor herbestemming van geneesmiddelen voor 334 door het CBG-MEB goedgekeurde geneesmiddelen. Het TxGNN-model vindt mogelijke nieuwe therapeutische toepassingen met evidence-based validatie."
 permalink: /
 ---
 
-# Drug Repurposing: From AI to Evidence
+# Herbestemming van geneesmiddelen: van AI naar bewijs
 
-**NlTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **145** CBG-MEB approved drugs, identifying potential new therapeutic uses.
+**NlTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **334** CBG-MEB approved drugs, identifying potential new therapeutic uses.
 
 [Browse Drug Reports](/drugs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Learn Methodology](/methodology/){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -77,7 +77,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">Netherlands Drug Coverage</strong><br>
-    <span style="color: #666;">Focused on 145 CBG-MEB approved medicines with repurposing predictions ready for research.</span>
+    <span style="color: #666;">Focused on 334 CBG-MEB approved medicines with repurposing predictions ready for research.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">FHIR Integration</strong><br>
@@ -94,7 +94,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 | **High Evidence** | L1-L2, priority for clinical evaluation | [View drugs](/evidence-high/) |
 | **Medium Evidence** | L3-L4, requires additional validation | [View drugs](/evidence-medium/) |
 | **AI Predictions** | L5, research direction reference | [View drugs](/evidence-low/) |
-| **Full Drug List** | All 145 drugs (searchable) | [Drug List](/drugs/) |
+| **Full Drug List** | All 334 drugs (searchable) | [Drug List](/drugs/) |
 | **Health News** | Automated health news monitoring | [View News](/news/) |
 | **FHIR API** | Integration endpoints | [FHIR Metadata](/fhir/metadata) |
 
@@ -111,7 +111,7 @@ NlTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 
 | Item | Count |
 |------|-------|
-| Drug Reports | 145 |
+| Drug Reports | 334 |
 | Regulatory Agency | Medicines Evaluation Board (CBG-MEB) |
 
 [Learn More](/about/) | [Methodology](/methodology/) | [Data Sources](/sources/)

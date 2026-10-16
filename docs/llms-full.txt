@@ -32,11 +32,11 @@ Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspe
 
 ## Citeren en beperkingen
 
-Citeer de oorspronkelijke TxGNN-publicatie (https://doi.org/10.1038/s41591-023-02233-x). Inhoud en voorspellingen van de site zijn alleen bedoeld voor onderzoek en onderwijs en vormen geen medisch advies; elk werkelijk gebruik moet worden bevestigd door bevoegde professionals, klinische studies en toetsing door de registratieautoriteit.
+Citeer de oorspronkelijke TxGNN-publicatie (https://doi.org/10.1038/s41591-024-03233-x). Inhoud en voorspellingen van de site zijn alleen bedoeld voor onderzoek en onderwijs en vormen geen medisch advies; elk werkelijk gebruik moet worden bevestigd door bevoegde professionals, klinische studies en toetsing door de registratieautoriteit.
 
 ## Officiële links
 
 - https://nltxgnn.yao.care/
 - https://www.yao.care/medical/txgnn/
 - https://github.com/yao-care/NlTxGNN
-- https://doi.org/10.1038/s41591-023-02233-x
+- https://doi.org/10.1038/s41591-024-03233-x

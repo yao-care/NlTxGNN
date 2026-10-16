@@ -70,7 +70,7 @@ veiligheidsgegevens bij mensen beschikbaar, waardoor het faalrisico lager is.
 ## Wat is TxGNN?
 
 <p class="key-answer" data-question="Wat is TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> is een deep-learningmodel dat is
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> is een deep-learningmodel dat is
 ontwikkeld door het Zitnik Lab van Harvard Medical School en gepubliceerd in <em>Nature Medicine</em>.
 Het voorspelt nieuwe verbanden tussen geneesmiddelen en ziekten en is het eerste foundation model voor
 geneesmiddelherpositionering dat specifiek voor clinici is ontworpen.
@@ -105,7 +105,7 @@ tegen zeldzame ziekten wordt voorspeld."
 ## Wetenschappelijke basis
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 

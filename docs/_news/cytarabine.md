@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cytarabine met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
 <li>small cell lung carcinoma (99.8%)</li>
 <li>primary pulmonary lymphoma (99.8%)</li>

@@ -24,18 +24,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoposide met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.9%)</li>
-<li>primary pulmonary lymphoma (99.9%)</li>
-<li>pulmonary blastoma (99.9%)</li>
-<li>Ewing sarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
+<li>Goed gedifferentieerd foetaal adenocarcinoom van de long | 99,94% | L4 | Hold (99.0%)</li>
+<li>Primair pulmonaal lymfoom | 99,94% | L4 | Hold (99.0%)</li>
+<li>Pulmonaal blastoom | 99,94% | L4 | Hold (99.0%)</li>
+<li>**Ewing-sarcoom** | 99,85% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>Botryoïde embryonaal rabdomyosarcoom van de vagina | 99,80% | L4 | Hold (99.0%)</li>
+<li>Rabdomyosarcoom | 99,79% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg | 99,76% | L5 | Hold (99.0%)</li>
+<li>Parameningeaal embryonaal rabdomyosarcoom | 99,76% | L4 | Hold (99.0%)</li>
+<li>Rabdomyosarcoom van de extrahepatische galweg | 99,75% | L5 | Hold (99.0%)</li>
+<li>Embryonaal rabdomyosarcoom van de prostaat | 99,74% | L4 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoposide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

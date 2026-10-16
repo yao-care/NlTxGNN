@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cholecalciferol met
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L2</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
 <li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
 <li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>

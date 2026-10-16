@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Glimepiride"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Glimepiride. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Glimepiride. Oorspronkelijke indicatie: . 8 voorspelde indicaties."
 permalink: /news/glimepiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Glimepiride?">
-<strong>Glimepiride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Glimepiride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 8 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Glimepiride met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>focal stiff limb syndrome (99.8%)</li>
-<li>classic stiff person syndrome (99.8%)</li>
-<li>opsismodysplasia (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.7%)</li>
-<li>drug-induced localized lipodystrophy (99.6%)</li>
-<li>centrifugal lipodystrophy (99.6%)</li>
-<li>pressure-induced localized lipoatrophy (99.6%)</li>
-<li>idiopathic localized lipodystrophy (99.6%)</li>
-<li>pancreatic agenesis (99.5%)</li>
+<li><strong>Voorspelde indicaties (8)</strong>:<ul>
+<li>Classic stiff person syndrome | 99,75% | L5 | Geen plausibel mechanisme; waarschijnlijk comorbiditeit met diabetes (99.0%)</li>
+<li>Opsismodysplasia | 99,74% | L5 | Speculatieve link via INPPL1/SHIP2 en insulinesignalering; niet door data ondersteund (99.0%)</li>
+<li>Thiamine-responsive dysfunction syndrome | 99,73% | L5 | Diabetes is kenmerk van het syndroom; zou hooguit een symptoom behandelen (99.0%)</li>
+<li>Drug-induced localized lipodystrophy | 99,62% | L5 | Hooguit effect op metabole gevolgen, niet op het vetverlies (99.0%)</li>
+<li>Centrifugal lipodystrophy | 99,60% | L5 | Geen aangetoond mechanisme (99.0%)</li>
+<li>Pressure-induced localized lipoatrophy | 99,59% | L5 | Geen plausibel mechanisme (99.0%)</li>
+<li>Idiopathic localized lipodystrophy | 99,56% | L5 | Voorspelling lijkt voort te komen uit ontologische nabijheid (99.0%)</li>
+<li>Pancreatic agenesis | 99,55% | L5 | Mechanistisch onaannemelijk: bètacellen ontbreken, insulinevervanging is nodig (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

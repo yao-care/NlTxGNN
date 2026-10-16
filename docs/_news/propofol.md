@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Propofol met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L2</li>
 <li><strong>Voorspelde indicaties (5)</strong>:<ul>
 <li>migraine disorder (99.7%)</li>
 <li>migraine with brainstem aura (99.6%)</li>

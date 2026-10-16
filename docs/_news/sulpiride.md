@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sulpiride met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
 <li>retinal dystrophy with or without extraocular anomalies (100.0%)</li>
 <li>hydranencephaly (disease) (99.9%)</li>

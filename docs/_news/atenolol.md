@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
 <li>posteroinferior myocardial infarction (99.9%)</li>
 <li>posterolateral myocardial infarction (99.9%)</li>

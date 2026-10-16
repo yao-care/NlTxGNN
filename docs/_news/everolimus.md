@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Everolimus met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>liposarcoma (99.9%)</li>
 <li>ovarian myxoid liposarcoma (99.8%)</li>

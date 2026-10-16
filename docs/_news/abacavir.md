@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Abacavir met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (3)</strong>:<ul>
 <li>simian immunodeficiency virus infection (99.8%)</li>
 <li>feline acquired immunodeficiency syndrome (99.8%)</li>

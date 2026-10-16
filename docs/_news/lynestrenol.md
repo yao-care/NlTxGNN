@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lynestrenol met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (5)</strong>:<ul>
 <li>migraine with or without aura, susceptibility to (99.5%)</li>
 <li>migraine disorder (99.5%)</li>

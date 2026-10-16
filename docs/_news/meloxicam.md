@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Meloxicam met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>

@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clobazam met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>febrile infection-related epilepsy syndrome (99.8%)</li>
 <li>perioral myoclonia with absences (99.8%)</li>

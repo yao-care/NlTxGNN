@@ -24,7 +24,6 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acipimox met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/acipimox/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>

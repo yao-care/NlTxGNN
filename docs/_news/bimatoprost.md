@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Bimatoprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Bimatoprost. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Bimatoprost. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/bimatoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bimatoprost?">
-<strong>Bimatoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Bimatoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bimatoprost met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>alopecia (100.0%)</li>
-<li>genetic alopecia (100.0%)</li>
-<li>pulmonary arteriovenous malformation (disease) (100.0%)</li>
+<li><strong>Bewijsniveau</strong>: L2</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>Misvormingssyndroom met tand- en/of parodontale component | L5 | Geen aannemelijk verband; alleen modelvoorspelling (99.0%)</li>
+<li>Syndroom met Dandy-Walker-malformatie | L5 | Geen aannemelijk verband; waarschijnlijk artefact van de grafstructuur (99.0%)</li>
+<li>Geïsoleerde genetische haarschachtafwijking | L5 | Zwak, speculatief verband (99.0%)</li>
+<li>Ambras-type hypertrichosis universalis congenita | L5 | Richting waarschijnlijk onjuist: het middel veroorzaakt juist haargroei (99.0%)</li>
+<li>Hypotrichosis simplex van de hoofdhuid | L5 | Biologisch plausibel, maar geen directe studies (99.0%)</li>
+<li>Congenitale hypotrichose met milia | L5 | Alleen voorspelling (99.0%)</li>
+<li>Diffuse alopecia areata | L4 | Immuungemedieerd; slechts indirect bewijs (99.0%)</li>
+<li>Genetische alopecia | L3 | Alleen literatuur van lage kwaliteit (99.0%)</li>
+<li>Pulmonale arterioveneuze malformatie | L5 | Geen aannemelijk verband (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

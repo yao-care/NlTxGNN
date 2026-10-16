@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Minoxidil met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>hypotrichosis simplex of the scalp (100.0%)</li>
 <li>congenital hypotrichosis milia (100.0%)</li>

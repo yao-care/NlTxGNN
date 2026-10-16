@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temozolomide met he
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (2)</strong>:<ul>
 <li>adult astrocytic tumour (99.4%)</li>
 <li>cauda equina neoplasm (99.3%)</li>

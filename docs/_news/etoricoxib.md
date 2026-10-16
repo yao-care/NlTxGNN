@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Etoricoxib"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Etoricoxib. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Etoricoxib. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/etoricoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etoricoxib/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Etoricoxib?">
-<strong>Etoricoxib</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Etoricoxib</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoricoxib met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>migraine with or without aura, susceptibility to (99.8%)</li>
-<li>atrophoderma vermiculata (99.6%)</li>
-<li>ulerythema ophryogenesis (99.6%)</li>
-<li>pulmonary hypertension (99.5%)</li>
-<li>benign prostatic hyperplasia (disease) (99.5%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>headache disorder (99.3%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>Migraine met hersenstamaura | 99,86% | L5 | Alleen voorspelling, geen studies (99.0%)</li>
+<li>Migraine met/zonder aura, gevoeligheid | 99,84% | L4 | Preklinisch (rat); genetisch susceptibiliteitsconcept, geen behandelbare aandoening (99.0%)</li>
+<li>Atrophoderma vermiculatum | 99,64% | L5 | Geen aantoonbare mechanistische link (99.0%)</li>
+<li>Ulerythema ophryogenes | 99,58% | L5 | Geen aantoonbare mechanistische link (99.0%)</li>
+<li>Pulmonale hypertensie | 99,54% | L5 | Veiligheidszorg (vochtretentie, cardiovasculair risico) (99.0%)</li>
+<li>Benigne prostaathyperplasie | 99,48% | L5 | Speculatieve rationale (99.0%)</li>
+<li>Kyfoscoliotische hartziekte | 99,36% | L5 | Geen mechanistische link; veiligheidszorg (99.0%)</li>
+<li>Hoofdpijnaandoening | 99,31% | L4 | Casuïstiek bij indometacine-responsieve hoofdpijn (99.0%)</li>
+<li>Trigeminale autonome cefalalgie | 99,15% | L4 | Eén observationele publicatie (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoricoxib/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

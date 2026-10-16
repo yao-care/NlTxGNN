@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
 <li>malignant renovascular hypertension (100.0%)</li>
 <li>malignant hypertensive renal disease (100.0%)</li>

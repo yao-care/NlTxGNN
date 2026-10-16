@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ramipril met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>

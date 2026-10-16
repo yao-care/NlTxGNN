@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Alfacalcidol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Alfacalcidol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Alfacalcidol. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/alfacalcidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alfacalcidol?">
-<strong>Alfacalcidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Alfacalcidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alfacalcidol met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.6%)</li>
-<li>Dahlberg-Borer-Newcomer syndrome (99.6%)</li>
-<li>craniofacial conodysplasia (99.5%)</li>
-<li>acromesomelic dysplasia, Campailla Martinelli type (99.5%)</li>
-<li>renal tubular acidosis (99.3%)</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>Dahlberg-Borer-Newcomer-syndroom | 99,60% | L5 | Hold | Waarschijnlijk synoniem of mapping voor Fanconi-Bickel-syndroom. De gevonden literatuur is grotendeels niet relevant; alleen een casusreeks over empagliflozine (PMID 38802119) is ziektespecifiek en gaat niet over alfacalcidol. De ziektekoppeling moet worden geverifieerd. (99.0%)</li>
+<li>Craniofaciale conodysplasie | 99,55% | L5 | Hold | Geen aannemelijk mechanisme; score vermoedelijk gebaseerd op netwerknabijheid. Geen bewijs. (99.0%)</li>
+<li>Acromesomele dysplasie, type Campailla-Martinelli | 99,53% | L5 | Hold | Genetische skeletdysplasie zonder duidelijk mechanisme. Geen bewijs. (99.0%)</li>
+<li>Renale tubulaire acidose | 99,27% | L4 | Onderzoeksvraag | Alleen casuïstiek over osteomalacie bij renale tubulaire acidose (o.a. bij Sjögren); alfacalcidol werd samen met alkalitherapie gegeven, dus het aandeel van alfacalcidol is niet te isoleren. Betreft de botcomplicatie, niet het tubulaire defect. (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

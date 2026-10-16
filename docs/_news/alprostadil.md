@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alprostadil met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>aortic malformation (100.0%)</li>
 <li>congenital tricuspid stenosis (99.9%)</li>

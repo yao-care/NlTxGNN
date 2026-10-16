@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Levetiracetam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Levetiracetam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Levetiracetam. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Levetiracetam?">
-<strong>Levetiracetam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Levetiracetam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Levetiracetam met h
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>reading seizures (99.9%)</li>
-<li>status epilepticus (99.9%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>Eetaanvallen | L4 | Hold | Alleen indirect bewijs, o.a. dierstudie (99.0%)</li>
+<li>Audiogene aanvallen | L4 | Onderzoeksvraag | Veterinaire RCT bij katten en dierstudies; geen humane studies (99.0%)</li>
+<li>Orgasme-geïnduceerde aanvallen | L5 | Hold | Geen literatuur of studies (99.0%)</li>
+<li>Denkaanvallen | L4 | Hold | Alleen indirect bewijs (99.0%)</li>
+<li>Schrikepilepsie | L3 | Onderzoeksvraag | Kleine klinische studies en casuïstiek (add-on en hyperekplexie) (99.0%)</li>
+<li>Mictie-geïnduceerde aanvallen | L4 | Hold | Alleen indirect bewijs (99.0%)</li>
+<li>Leesaanvallen | L4 | Onderzoeksvraag | Casuïstiek met goede respons op levetiracetam (99.0%)</li>
+<li>**Status epilepticus** | **L1** | **Proceed with Guardrails** | Meerdere fase 3-RCT's (o.a. NCT01960075, n=478; NCT01150331, n=203) (99.0%)</li>
+<li>Bèta-ketothiolasedeficiëntie | L5 | Hold | Geen bewijs; mechanisme past niet (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

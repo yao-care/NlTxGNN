@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Modafinil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Modafinil. Oorspronkelijke indicatie: There is a fundamental **mechanistic paradox** in .... 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Modafinil. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/modafinil/
 ---
 
@@ -24,8 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Modafinil met het l
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Oorspronkelijke indicatie</strong>: There is a fundamental **mechanistic paradox** in this prediction. Primary insomnia — characterised by difficulty initiating or maintaining sleep — requires a sedating or sleep-promoting...</li>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
 <li>insomnia (disease) (99.8%)</li>
 </ul></li>

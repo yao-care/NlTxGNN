@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Aceclofenac"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Aceclofenac. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Aceclofenac. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
 permalink: /news/aceclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aceclofenac/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Aceclofenac?">
-<strong>Aceclofenac</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Aceclofenac</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Aceclofenac met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>myosclerosis (99.9%)</li>
-<li>brachyolmia (99.9%)</li>
-<li>pseudoachondroplasia (99.8%)</li>
-<li>hypermobility of coccyx (99.7%)</li>
-<li>rheumatoid vasculitis (99.6%)</li>
-<li>inflammatory spondylopathy (99.6%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.6%)</li>
-<li>Kummell disease (99.6%)</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>Brachyolmie-amelogenesis imperfecta-syndroom | 99,89% | Genetische aandoening; geen mechanistisch verband, waarschijnlijk netwerkartefact (99.0%)</li>
+<li>Acromesomele dysplasie, type Hunter-Thompson | 99,89% | Genetische skeletdysplasie; COX-remming raakt de onderliggende route niet (99.0%)</li>
+<li>Myosclerose | 99,88% | Geen directe werking; hooguit symptomatisch (99.0%)</li>
+<li>Brachyolmie | 99,87% | Erfelijke skeletdysplasie; geen mechanistisch verband (99.0%)</li>
+<li>Pseudoachondroplasie | 99,85% | COMP-mutaties; hooguit symptomatische pijnverlichting (99.0%)</li>
+<li>Hypermobiliteit van het stuitbeen | 99,69% | Indirect plausibel voor pijn (coccydynie), zonder specifiek bewijs (99.0%)</li>
+<li>Reumatoïde vasculitis | 99,64% | Vereist immunosuppressie; NSAID's zijn niet effectief (99.0%)</li>
+<li>Polyarticulaire juveniele reumatoïde artritis | 99,63% | Plausibel, maar geen pediatrische gegevens (99.0%)</li>
+<li>Ziekte van Kümmell | 99,62% | Meestal chirurgisch/botgericht; NSAID's alleen symptomatisch (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aceclofenac/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

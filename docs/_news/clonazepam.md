@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clonazepam met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (3)</strong>:<ul>
 <li>restless legs syndrome (99.7%)</li>
 <li>insomnia (disease) (99.3%)</li>

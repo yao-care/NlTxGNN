@@ -24,15 +24,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Mesalazine met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li>osteoarthritis (99.6%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
-<li>seborrheic keratosis (99.5%)</li>
-<li>osteoarthritis susceptibility (99.3%)</li>
-<li>vulvar inverted follicular keratosis (99.3%)</li>
-<li>pseudoachondroplasia (99.2%)</li>
+<li>Congenitale hypotrichose met juveniele maculadystrofie | 99,65% | L5 | Geen aantoonbaar verband (CDH3-mutatie) (99.0%)</li>
+<li>Artrose | 99,63% | L5 | Aannemelijk maar onbewezen; enige paper is een transcriptoomanalyse (99.0%)</li>
+<li>Reumatoïde artritis | 99,57% | L4 | Indirect (via sulfasalazine) (99.0%)</li>
+<li>Seborroïsche keratose | 99,50% | L5 | Geen onderbouwing (99.0%)</li>
+<li>Gevoeligheid voor artrose | 99,35% | L5 | Genetisch fenotype; geen bewijs (99.0%)</li>
+<li>Vulvaire omgekeerde folliculaire keratose | 99,33% | L5 | Geen aantoonbaar verband (99.0%)</li>
+<li>Pseudoachondroplasie | 99,19% | L5 | Geen duidelijk verband (COMP-mutatie) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

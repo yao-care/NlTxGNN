@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Sorbitol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Sorbitol. Oorspronkelijke indicatie: he TxGNN model predicts it may be effective for **.... 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Sorbitol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/sorbitol/
 ---
 
@@ -24,7 +24,6 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sorbitol met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Oorspronkelijke indicatie</strong>: he TxGNN model predicts it may be effective for **Exercise-Induced Malignant Hyperthermia**,</li>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
 <li>exercise-induced malignant hyperthermia (99.4%)</li>

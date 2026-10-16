@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Flunitrazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: The clinical development context has, however, fun.... 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/flunitrazepam/
 ---
 
@@ -24,8 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Oorspronkelijke indicatie</strong>: The clinical development context has, however, fundamentally changed since the drug's European approval era. Due to its extreme abuse potential as a drug used in drug-facilitated sexual assault, high...</li>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>insomnia (disease) (99.9%)</li>
 <li>migraine disorder (99.7%)</li>

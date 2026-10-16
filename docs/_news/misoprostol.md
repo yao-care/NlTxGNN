@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Misoprostol met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (2)</strong>:<ul>
 <li>amenorrhea (disease) (99.6%)</li>
 <li>atypical coarctation of aorta (99.3%)</li>

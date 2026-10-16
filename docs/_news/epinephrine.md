@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Epinephrine met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (4)</strong>:<ul>
 <li>obstructive lung disease (99.7%)</li>
 <li>food-dependent exercise-induced anaphylaxis (99.6%)</li>

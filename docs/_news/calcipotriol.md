@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>seborrheic keratosis (100.0%)</li>
 <li>vulvar inverted follicular keratosis (99.9%)</li>

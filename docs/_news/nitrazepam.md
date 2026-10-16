@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Nitrazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Nitrazepam. Oorspronkelijke indicatie: Clinicians wishing to use nitrazepam in the Nether.... 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Nitrazepam. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
 permalink: /news/nitrazepam/
 ---
 
@@ -24,8 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Nitrazepam met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Oorspronkelijke indicatie</strong>: Clinicians wishing to use nitrazepam in the Netherlands would need to pursue one of the following pathways:</li>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (3)</strong>:<ul>
 <li>sleep disorder, initiating and maintaining sleep (99.9%)</li>
 <li>acute encephalopathy with biphasic seizures and late reduced diffusion (99.6%)</li>

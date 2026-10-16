@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Levonorgestrel met 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (6)</strong>:<ul>
 <li>acne (disease) (99.9%)</li>
 <li>Worth syndrome (99.6%)</li>

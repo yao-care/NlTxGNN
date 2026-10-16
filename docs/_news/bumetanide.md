@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bumetanide met het 
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
 <li>acute pulmonary heart disease (99.6%)</li>
 </ul></li>

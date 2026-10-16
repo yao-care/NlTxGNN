@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>insomnia (disease) (100.0%)</li>
 <li>alcohol withdrawal delirium (99.9%)</li>

@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>hypertrichosis (disease) (99.7%)</li>
 <li>malformation syndrome with odontal and/or periodontal component (99.6%)</li>

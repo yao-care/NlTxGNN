@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Famciclovir met het
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
 <li>post-infectious neuralgia (99.8%)</li>
 <li>sequela of COVID-19 (99.7%)</li>

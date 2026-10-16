@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Oxazepam met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
 <li>insomnia (disease) (99.9%)</li>
 </ul></li>

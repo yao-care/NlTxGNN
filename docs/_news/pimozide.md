@@ -24,7 +24,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Pimozide met het la
 <div class="drug-info-card">
 <strong>Geneesmiddelinformatie</strong>
 <ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
+<li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
 <li>trichotillomania (100.0%)</li>
 <li>manic bipolar affective disorder (100.0%)</li>

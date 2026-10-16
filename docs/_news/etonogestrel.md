@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Etonogestrel"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Etonogestrel. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Etonogestrel. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/etonogestrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etonogestrel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Etonogestrel?">
-<strong>Etonogestrel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Etonogestrel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etonogestrel met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>amenorrhea (disease) (99.8%)</li>
-<li>breast fibrocystic disease (99.6%)</li>
-<li>apocrine adenosis of breast (99.3%)</li>
-<li>blunt duct adenosis of breast (99.3%)</li>
-<li>benign mammary dysplasia (99.2%)</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>Fibrocystische borstaandoening | 99,61% | Plausibele maar onbewezen rationale; bewijs voor progestagenen is gemengd en borstgevoeligheid is gemeld bij hormonale anticonceptiva (99.0%)</li>
+<li>Apocriene adenose van de borst | 99,29% | Histopathologische bevinding, zwakke klinische rationale (99.0%)</li>
+<li>Blunt duct-adenose van de borst | 99,29% | Histologische laesie zonder gevestigde medicamenteuze behandeling (99.0%)</li>
+<li>Goedaardige mammaire dysplasie | 99,21% | Overlapt met fibrocystische borstaandoening; onbewezen rationale (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etonogestrel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

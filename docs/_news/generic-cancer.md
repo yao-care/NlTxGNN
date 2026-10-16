@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
 
 2026-10-15
 
 Bron: [Knack](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
-
----
-
-### [Victoria (36) tatoeëert over littekens van borstkanker heen: ‘Het ziet er beter uit dan voorheen’](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5)
-
-2026-10-13
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXZkc2ZOcFVLR2tHbzFKOTFTYnVoQkJwaXFUVWlFWm5NaHA2NUpUdWFpdThaUjNmUEs4WjNuYjh2ZlQtWjdyWVhtSU01WE5SU2RwZ3lYVUZUdkVIaENhMDlRZ3FCZnlTZi1YUWs2eTFIdjJXMFB3U2szejRtdUFOSGRfSXcxcnN3cVhRYVF1dkRXOW1HYVRUbDZMcTZoSUhTcEJ0anR1SEV2Nk94N1h6MkJ2VzQ3S1R4ZTI1NEZpMDlsbmJycTd4YU5Rcw?oc=5)
 
 ---
 

@@ -105,7 +105,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 NlTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab in *Nature Medicine* to predict potential new therapeutic uses for CBG-MEB approved medications.
 
 > "TxGNN is the first foundation model designed for clinician-centered drug repurposing, integrating knowledge graphs with deep learning to predict drug efficacy for rare diseases."
-> <cite>— Huang et al., Nature Medicine (2023)</cite>
+> <cite>— Huang et al., Nature Medicine (2024)</cite>
 
 ### Statistics
 

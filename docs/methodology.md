@@ -48,20 +48,15 @@ dat bewijs wordt gegradeerd van L1 tot L5, en ten slotte wordt een beslissingsaa
 
 ---
 
-## Voorspelling met twee engines
+## Hoe de voorspellingen tot stand komen
 
-Twee methoden draaien parallel; een betrouwbaarheidslabel legt vast of zij het met elkaar eens zijn:
+Het deep-learningmodel (DL) van TxGNN geeft elk geneesmiddel–ziektepaar een score. Daarna worden indicaties en contra-indicaties verwijderd die voor het geneesmiddel al in de TxGNN-kennisgraaf (KG) zijn vastgelegd. Geneesmiddelpagina's tonen dus alleen nieuwe voorspelde indicaties met een score van minstens 0,99 (maximaal 10 per geneesmiddel).
 
-| Methode | Snelheid | Precisie | Omschrijving |
-|--------|-------|-----------|-------------|
-| Kennisgraaf (KG) | Snel | Lager | Inferentie op basis van DrugBank-relaties en graafstructuur |
-| Deep learning (DL) | Langzaam | Hoger | Het TxGNN graph-neural-network-model |
-
-| Betrouwbaarheid | Bron | Betekenis |
-|------------|--------|---------|
-| very_high | KG + DL | Beide methoden zijn het eens |
-| high | Alleen DL | Ondersteuning door deep learning met een hoge score |
-| medium | Alleen KG | Ondersteuning door de kennisgraaf |
+| Stap | Rol |
+|------|-----|
+| Deep learning (DL) | Het graafgebaseerde neurale netwerk van TxGNN geeft elk geneesmiddel–ziektepaar een score |
+| Controle op bekend gebruik (KG) | Verwijdert indicaties en contra-indicaties die al in de kennisgraaf staan; deze tellen niet als nieuwe voorspellingen |
+| Verzamelen van bewijs | Doorzoekt ClinicalTrials.gov en PubMed voor elke resterende voorspelling en kent een bewijsniveau toe (L1–L5) |
 
 ---
 

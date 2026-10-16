@@ -24,7 +24,7 @@ plugins:
 
 # 搜尋功能
 search_enabled: true
-footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). This report is for research purposes only and does not constitute medical advice."
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). Uitsluitend voor onderzoeksdoeleinden. Geen medisch advies."
 
 search:
   heading_level: 3

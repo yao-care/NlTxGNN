@@ -5,15 +5,17 @@ nav_order: 20
 permalink: /drugs/
 description: "Alle validatierapporten van geneesmiddelen en de statistieken per bewijsniveau in NlTxGNN."
 ---
-{% assign l1_count = site.drugs | where: "evidence_level", "L1" | size %}
-{% assign l2_count = site.drugs | where: "evidence_level", "L2" | size %}
-{% assign l3_count = site.drugs | where: "evidence_level", "L3" | size %}
-{% assign l4_count = site.drugs | where: "evidence_level", "L4" | size %}
-{% assign l5_count = site.drugs | where: "evidence_level", "L5" | size %}
+{%- comment -%}2026-10-16：列表不含舊 ID 轉址頁與 noindex 頁{%- endcomment -%}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign l1_count = listed_drugs | where: "evidence_level", "L1" | size %}
+{% assign l2_count = listed_drugs | where: "evidence_level", "L2" | size %}
+{% assign l3_count = listed_drugs | where: "evidence_level", "L3" | size %}
+{% assign l4_count = listed_drugs | where: "evidence_level", "L4" | size %}
+{% assign l5_count = listed_drugs | where: "evidence_level", "L5" | size %}
 
 # Alle geneesmiddelen
 
-{{ site.drugs.size }} validatierapporten van geneesmiddelen
+{{ listed_drugs.size }} validatierapporten van geneesmiddelen
 
 ---
 
@@ -31,7 +33,7 @@ description: "Alle validatierapporten van geneesmiddelen en de statistieken per 
 
 ## Volledige geneesmiddellijst
 
-{% assign all_drugs = site.drugs | sort: 'title' %}
+{% assign all_drugs = listed_drugs | sort: 'title' %}
 
 | Geneesmiddel | Bewijsniveau | Indicaties |
 |---------|---------|---------|

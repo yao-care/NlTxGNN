@@ -80,7 +80,7 @@ geneesmiddelherpositionering dat specifiek voor clinici is ontworpen.
 "TxGNN integreert een kennisgraaf van 17.080 biomedische entiteiten en gebruikt graph neural networks
 om complexe relaties tussen knooppunten te leren, waarmee de mogelijke werkzaamheid van geneesmiddelen
 tegen zeldzame ziekten wordt voorspeld."
-<cite>&mdash; Huang et al., Nature Medicine (2023)</cite>
+<cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ---

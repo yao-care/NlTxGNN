@@ -192,9 +192,9 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebSite",
       "@id": "https://nltxgnn.yao.care/#website",
-      "name": "NlTxGNN Drug Repurposing Evidence Reports",
+      "name": "Bewijsrapporten over herbestemming van geneesmiddelen van NlTxGNN",
       "url": "https://nltxgnn.yao.care/",
-      "description": "AI-predicted new indications for medicines approved in the Netherlands, with clinical evidence reports",
+      "description": "Door AI voorspelde nieuwe indicaties voor geneesmiddelen die in Nederland zijn goedgekeurd, met klinische bewijsrapporten",
       "isPartOf": {
         "@id": "https://nltxgnn.yao.care/#software"
       },
@@ -205,8 +205,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebPage",
       "@id": "https://nltxgnn.yao.care/#article",
-      "headline": "Drug Repurposing: From Data to Evidence",
-      "description": "AI-predicted new indications for medicines approved in the Netherlands, with clinical trial and literature evidence reports",
+      "headline": "Herbestemming van geneesmiddelen: van data naar bewijs",
+      "description": "Door AI voorspelde nieuwe indicaties voor geneesmiddelen die in Nederland zijn goedgekeurd, met bewijsrapporten uit klinische studies en literatuur",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -243,8 +243,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "About NlTxGNN",
-      "description": "About the NlTxGNN drug repurposing evidence reports: project overview, data sources and how to cite",
+      "name": "Over NlTxGNN",
+      "description": "Over de bewijsrapporten van NlTxGNN over herbestemming van geneesmiddelen: projectoverzicht, databronnen en citeren",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -258,26 +258,26 @@ window.TXGNN_ANALYTICS = {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is drug repurposing?",
+          "name": "Wat is herbestemming van geneesmiddelen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Drug repurposing is the discovery of new therapeutic uses for existing medicines. Developing a new drug takes 10-15 years and USD 1-2 billion, whereas repurposing takes 3-5 years and USD 100-300 million, and human safety data already exist."
+            "text": "Herbestemming van geneesmiddelen is het ontdekken van nieuwe therapeutische toepassingen voor bestaande geneesmiddelen. Een nieuw geneesmiddel ontwikkelen kost 10-15 jaar en 1-2 miljard USD, herbestemming kost 3-5 jaar en 100-300 miljoen USD, en veiligheidsgegevens bij mensen zijn al beschikbaar."
           }
         },
         {
           "@type": "Question",
-          "name": "What is TxGNN?",
+          "name": "Wat is TxGNN?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TxGNN is a deep learning model developed by a Harvard Medical School team. It integrates a knowledge graph of 17,080 nodes and uses a graph neural network to predict new drug-disease associations."
+            "text": "TxGNN is een deep-learningmodel ontwikkeld door een team van Harvard Medical School. Het gebruikt een graafgebaseerd neuraal netwerk, getraind op een biomedische kennisgraaf met 17.080 ziekten, om nieuwe verbanden tussen geneesmiddelen en ziekten te voorspellen."
           }
         },
         {
           "@type": "Question",
-          "name": "What data sources are used?",
+          "name": "Welke databronnen worden gebruikt?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "This platform integrates public data sources including TxGNN (AI predictions), ClinicalTrials.gov (clinical trials), PubMed (literature), DrugBank (drug information), CBG-MEB (marketing authorisations in the Netherlands) and DDInter (drug interactions)."
+            "text": "Dit platform combineert openbare databronnen zoals TxGNN (AI-voorspellingen), ClinicalTrials.gov (klinische studies), PubMed (literatuur), DrugBank (geneesmiddelinformatie), CBG-MEB (handelsvergunningen in Nederland) en DDInter (interacties)."
           }
         }
       ]
@@ -313,32 +313,32 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "NlTxGNN Prediction and Validation Methods",
-      "description": "The full workflow from AI prediction to evidence validation",
+      "name": "Voorspellings- en validatiemethoden van NlTxGNN",
+      "description": "Het volledige proces van AI-voorspelling tot validatie van het bewijs",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "name": "TxGNN prediction",
-          "text": "Drug-disease relationships are predicted with a knowledge graph and a graph neural network, using a minimum prediction score of 99%."
+          "name": "TxGNN-voorspelling",
+          "text": "Het graafgebaseerde neurale netwerk van TxGNN geeft geneesmiddel–ziekteparen een score. Indicaties en contra-indicaties die voor het geneesmiddel al in de kennisgraaf staan, worden uitgesloten, en alleen voorspellingen met een score van minstens 0,99 worden getoond."
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "name": "Evidence collection",
-          "text": "For each predicted pair, evidence is collected automatically from ClinicalTrials.gov, PubMed, DrugBank, CBG-MEB and other sources."
+          "name": "Verzamelen van bewijs",
+          "text": "Voor elk voorspeld paar wordt automatisch bewijs verzameld uit ClinicalTrials.gov, PubMed, DrugBank, CBG-MEB en andere bronnen."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "name": "Evidence grading",
-          "text": "Based on the collected evidence, each prediction is graded L1-L5: L1 is the highest (multiple Phase 3 RCTs) and L5 is model prediction only."
+          "name": "Indeling van bewijs",
+          "text": "Op basis van het verzamelde bewijs krijgt elke voorspelling een niveau L1-L5: L1 is het hoogst (meerdere fase 3-RCT's) en L5 is alleen een modelvoorspelling."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "name": "Decision recommendation",
-          "text": "Based on the evidence level and other factors, a Go, Proceed, Consider, Explore or Hold recommendation is given."
+          "name": "Beslisadvies",
+          "text": "Op basis van het bewijsniveau en andere factoren wordt een advies gegeven: Go, Proceed, Consider, Explore of Hold."
         }
       ]
     },
@@ -373,15 +373,15 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Drug Reports - NlTxGNN",
-      "description": "All NlTxGNN drug evidence reports",
+      "name": "Geneesmiddelrapporten - NlTxGNN",
+      "description": "Alle bewijsrapporten over geneesmiddelen van NlTxGNN",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "NlTxGNN Drug Evidence Reports",
-      "description": "Drug repurposing evidence reports for medicines approved in the Netherlands",
+      "name": "Bewijsrapporten over geneesmiddelen van NlTxGNN",
+      "description": "Bewijsrapporten over herbestemming van geneesmiddelen die in Nederland zijn goedgekeurd",
       "numberOfItems": {{ site.drugs.size }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
@@ -398,7 +398,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Drug Reports",
+          "name": "Geneesmiddelrapporten",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -416,7 +416,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Health News Monitoring - NlTxGNN",
+      "name": "Gezondheidsnieuws volgen - NlTxGNN",
       "description": {{ page.description | default: 'Automated monitoring of the latest health news on the drugs and indications covered' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
@@ -424,7 +424,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "Thing",
-        "name": "Health News"
+        "name": "Gezondheidsnieuws"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -444,7 +444,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Gezondheidsnieuws",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -496,7 +496,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Gezondheidsnieuws",
           "item": "https://nltxgnn.yao.care/news/"
         },
         {

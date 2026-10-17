@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Adenosine: voorspelde nieuwe indicatie Bundeltakblok (verouderde ontologieterm) (bewijsniveau L5). Oorspronkelijke indicatie: Ventriculaire tachycardie"
 monitor_inn: "Adenosine"
-predicted_indications: ["obsolete bundle branch block", "catecholaminergic polymorphic ventricular tachycardia"]
+predicted_indications: ["obsolete bundle branch block"]
 ---
 
 # Adenosine

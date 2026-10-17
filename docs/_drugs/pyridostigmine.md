@@ -6,9 +6,9 @@ nav_order: 284
 evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-15
-monitor_inn: "pyridostigmine"
-predicted_indications: ["myasthenia gravis with thymus hyperplasia", "neonatal myasthenia gravis", "autoimmune disease of peripheral nervous system", "myasthenia, limb-girdle, autoimmune", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: voorspelde nieuwe indicatie Myasthenia gravis met thymushyperplasie (bewijsniveau L3). Oorspronkelijke indicatie: Myasthenia gravis (inclusief myasthenia gravis met aanvang op volwass"
+monitor_inn: "pyridostigmine"
+predicted_indications: ["hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 ---
 
 # Pyridostigmine

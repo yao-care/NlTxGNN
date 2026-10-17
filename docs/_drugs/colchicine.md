@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Colchicine: voorspelde nieuwe indicatie Plasmodium falciparum-malaria (bewijsniveau L5). Oorspronkelijke indicatie: Jicht"
 monitor_inn: "Colchicine"
-predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine

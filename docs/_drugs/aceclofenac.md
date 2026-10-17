@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aceclofenac: voorspelde nieuwe indicatie Inflammatoire spondylopathie (bewijsniveau L4). Oorspronkelijke indicatie: Reumatoïde artritis, spondylitis ankylopoetica…"
 monitor_inn: "Aceclofenac"
-predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "rheumatoid vasculitis", "inflammatory spondylopathy", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
 ---
 
 # Aceclofenac

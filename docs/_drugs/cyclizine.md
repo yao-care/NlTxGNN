@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cyclizine: voorspelde nieuwe indicatie Allergische urticaria (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rhinitis, vasomotore rhinitis, faryngitis, verkoudheid…"
 monitor_inn: "cyclizine"
-predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "rhinitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["allergic urticaria", "nasal cavity disease", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "recalcitrant atopic dermatitis"]
 ---
 
 # Cyclizine

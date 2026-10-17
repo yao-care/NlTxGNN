@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). Oorspronkelijke indicatie: Allergische rhinitis, vasomotore rhinitis, intrinsieke astma…"
 monitor_inn: "montelukast"
-predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to"]
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "asthma-related traits, susceptibility to"]
 ---
 
 # Montelukast

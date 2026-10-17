@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amlodipine: voorspelde nieuwe indicatie Herseninfarct van de hersenstam (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (volgens de kennisgraaf ook beroerte…"
 monitor_inn: "Amlodipine"
-predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
+predicted_indications: ["brain stem infarction", "malignant hypertensive renal disease", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
 ---
 
 # Amlodipine

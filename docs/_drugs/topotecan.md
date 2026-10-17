@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L3). Oorspronkelijke indicatie: Ovariumcarcinoom (eierstokkanker) en verwante eierstoktumoren (bron:…"
 monitor_inn: "topotecan"
-predicted_indications: ["female breast carcinoma", "adult germ cell tumor", "testicular yolk sac tumor, solid pattern", "testicular yolk sac tumor, papillary pattern", "testicular yolk sac tumor, hepatoid pattern", "enteric pattern testicular yolk sac tumor", "testicular yolk sac tumor, macrocystic pattern", "reticular pattern testicular yolk sac tumor", "polyvesicular vitelline pattern testicular yolk sac tumor", "testicular yolk sac tumor, endodermal sinus pattern"]
+predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 ---
 
 # Topotecan

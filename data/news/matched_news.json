@@ -1,8 +1,189 @@
 {
-  "last_updated": "2026-10-17T14:53:38.822171+00:00",
-  "total_count": 10,
-  "matched_count": 3,
+  "last_updated": "2026-10-17T20:02:49.650406+00:00",
+  "total_count": 11,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "b749e69d7816",
+      "title": "Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf",
+      "published": "2026-10-17T15:30:00+00:00",
+      "summary": "Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a14deced3b81",
+      "title": "Onderzoek naar bijwerkingen van coronavaccins? Dat is in de wetenschap niet zo makkelijk",
+      "published": "2026-10-17T15:27:00+00:00",
+      "summary": "Onderzoek naar bijwerkingen van coronavaccins? Dat is in de wetenschap niet zo makkelijk&nbsp;&nbsp;Trouw",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbElPNmtkVnJ6LWI3d3NYTnhOenFLaUZ0alNNZjFRLTV1dTJVQTl2b1NIZElFcmkxVzJDWTl4RWdqUE50M0RVV0VlYXBrVkVvSW42QVRUZV9LcmpZZVFZZDY0TXF1WHNsNkVGbXFPM083NHFpMzdMQTVnSFVHbWs2OF92MW5jcl9BSHI4cEJ0VXFpbnM1NjZvTThtZE8xQ2ZnWTFPanpjY3ZBY3RsU2tBRDA0bjB5YWZXLXdjYUpKRUpCVkNsai1xSA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a8683014ec88",
       "title": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom? - Omroep West",
@@ -12,19 +193,6 @@
         {
           "name": "Omroep West",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1VXVWs5MEtybVg4VDJWZ2pCTGI3SU9YQy0wNzFsQ1pIWm5MQjlSdE9Dako5bWQwUVBaMUVfdUV3c2RRS1lKZEFsZ0tLeE1zREx3bkhfcFJ5OGw2US1sQ0VibUFMSGtkLXctSjdLdVZtY1pFcVNaTHZLUko2SkhQcUpGUk1uS25RclFzUkZ4ajBORXhMQk9GUUU1VzdVN3pjUFlnN0czN2o?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "afd232356b82",
-      "title": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"",
-      "published": "2026-10-16T21:57:19+00:00",
-      "summary": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"&nbsp;&nbsp;Pointer",
-      "sources": [
-        {
-          "name": "Pointer",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW5ZRzVxVHU5ci1JTi1mMmdicF80c1B0OEZaeGFLR01NWVdYMlA3Ql9FWHh6ZnpFOHlaeFpMbzAtaTZRWnhES3dMSEZodUs2ZXJVMjZuZ0VReko1YUtFbnVoazdsd3BBUFlGd1NjQWdqWTFOTENLMnVmaS0tcXB1V1o3ZXJRZF92Xy1rTEFyYmtKZktWdWVneFNSSkZCaEJwQWNmYnFJWm8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -366,19 +534,6 @@
       ]
     },
     {
-      "id": "18929bce52c4",
-      "title": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort",
-      "published": "2026-10-15T21:45:00+00:00",
-      "summary": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort&nbsp;&nbsp;StarnieuwsEric Commiesie: Tuberculosebestrijding in Suriname nog niet onder controle&nbsp;&nbsp;Sun News SurinameTuberculose in Suriname nog niet onder controle: hoge sterfte en tekort aan personeel&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SVTVEVDVtSGFyTmJ1c09KemZ0LW1peUhmQ3hPVkpaeUhQX2RRTGZGLWFabjNRLUp3RXR3SmxUb1R2dkMtVU40SmVwX2c3SUpTSGZVWnVocTFfcVRkZGNVUnVZTEUzbktwS1pvVUpCVG1Db0IzbVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0ff6e84f2c27",
       "title": "Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’",
       "published": "2026-10-15T03:00:00+00:00",
@@ -530,6 +685,19 @@
       ]
     },
     {
+      "id": "eef1ee439a08",
+      "title": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen - de Stentor",
+      "published": "2026-10-14T19:30:43+00:00",
+      "summary": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen&nbsp;&nbsp;de StentorTwee doden in België door westnijlvirus, ook nieuwe besmettingen in Nederland&nbsp;&nbsp;AD.nlWestnijlvirus bleef bij duizenden Nederlanders onopgemerkt&nbsp;&nbsp;NUWestnijlvirus lijkt voet aan de grond te hebben in Nederland: ‘Dit virus is een blijvertje’&nbsp;&nbsp;TrouwTwee nieuwe besmettingen met westnijlvirus in Brabant&nbsp;&nbsp;Omroep Brabant",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0VsczFNM211RXFWd3lQcDB0NXZ1clozcFFvaDZjOWh0OFQyTmdyRHlMSEROLVFTZUllcDRkaXYySDNhOXBRWGpOWHo2X1hRUEZyWEJTbDBnaEItcmdyRjIwZlJnZ1ZVelc5cDZkMVVkWXZuX05OWU00R2c2MGhjdzM2bUtuRDB6QmI3RkVGYUwxLVBEQUhHQXBTYVU0alFKMW9Ya25IUmdGS3Z2bGNfaGpLRVZWR3hTOUxFeVlEZURKaHRMRm5qWGN0UUZMWW5n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a98a9738875b",
       "title": "Deze pil op deze pil: een opstapeling van medicijnen - NPO Radio 1",
       "published": "2026-10-14T17:14:23+00:00",
@@ -546,7 +714,7 @@
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld",
       "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwVroeger werden zieke vrouwen naar een rusthuis gestuurd. En nu?&nbsp;&nbsp;de Stentor",
       "sources": [
         {
           "name": "AD.nl",

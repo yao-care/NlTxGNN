@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 4 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (4)
+
+### [Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5)
+
+2026-10-17
+
+Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5)
+
+---
 
 ### [Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
 

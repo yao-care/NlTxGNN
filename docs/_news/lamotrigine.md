@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lamotrigine?">
-<strong>Lamotrigine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Lamotrigine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lamotrigine met het
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
+
+2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [Flevopost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
+
+---
 
 ### [Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
 

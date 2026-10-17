@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-16T20:27:29.709063+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-17T02:51:56.932127+00:00",
+  "count": 9,
   "news": [
     {
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
       "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVroeger werden zieke vrouwen naar een rusthuis gestuurd. En nu?&nbsp;&nbsp;de Stentor",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "AD.nl",
@@ -43,7 +43,7 @@
       "id": "ccccb9ec3563",
       "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
       "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;Libelle6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ‘m over&nbsp;&nbsp;MargrietGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleOnly half of eligible Dutch residents get flu shots as 4,700 die a year&nbsp;&nbsp;NL TimesGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "AD.nl",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "18929bce52c4",
-      "title": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort - Starnieuws",
-      "published": "2026-10-15T21:45:00+00:00",
-      "summary": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort&nbsp;&nbsp;StarnieuwsEric Commiesie: Tuberculosebestrijding in Suriname nog niet onder controle&nbsp;&nbsp;Sun News SurinameTuberculose in Suriname nog niet onder controle: hoge sterfte en tekort aan personeel&nbsp;&nbsp;Suriname Herald",
+      "id": "816081289cba",
+      "title": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker - Flevopost",
+      "published": "2026-10-16T19:21:00+00:00",
+      "summary": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker&nbsp;&nbsp;Flevopost",
       "sources": [
         {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SVTVEVDVtSGFyTmJ1c09KemZ0LW1peUhmQ3hPVkpaeUhQX2RRTGZGLWFabjNRLUp3RXR3SmxUb1R2dkMtVU40SmVwX2c3SUpTSGZVWnVocTFfcVRkZGNVUnVZTEUzbktwS1pvVUpCVG1Db0IzbVE?oc=5"
+          "name": "Flevopost",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
         }
       ]
     },
@@ -84,6 +84,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV05RNmh2dzNVV2NXSlh0VWp1UEx5NW5qbWZqRFJwV2dkdVhDMm5FVXpQY2h1OWJfbkhWbHhVV29JdG4wRWdKTW5PU2NpREpLWm0yYXo1OUVJZGg2TmYtWWx6YUU2YUQ5bkZqVFJtWGpXWXF5MURIU1pDMk1GVnZYaDQwcEVyZi1MeVlzcThCZXZkdFRaVkQyWFVoZjJsVW4xOFlJbjcyeVdoVk0yRkRiYlVKRzJiTXFLZDlpNlFBRTdJdGFSak5Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18929bce52c4",
+      "title": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort - Starnieuws",
+      "published": "2026-10-15T21:45:00+00:00",
+      "summary": "Commiesie promoveert op onderzoek: tuberculosebestrijding in Suriname schiet tekort&nbsp;&nbsp;StarnieuwsEric Commiesie: Tuberculosebestrijding in Suriname nog niet onder controle&nbsp;&nbsp;Sun News SurinameTuberculose in Suriname nog niet onder controle: hoge sterfte en tekort aan personeel&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SVTVEVDVtSGFyTmJ1c09KemZ0LW1peUhmQ3hPVkpaeUhQX2RRTGZGLWFabjNRLUp3RXR3SmxUb1R2dkMtVU40SmVwX2c3SUpTSGZVWnVocTFfcVRkZGNVUnVZTEUzbktwS1pvVUpCVG1Db0IzbVE?oc=5"
         }
       ]
     },

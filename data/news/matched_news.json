@@ -1,8 +1,176 @@
 {
-  "last_updated": "2026-10-16T20:27:29.802096+00:00",
-  "total_count": 8,
-  "matched_count": 1,
+  "last_updated": "2026-10-17T02:51:57.045945+00:00",
+  "total_count": 9,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "816081289cba",
+      "title": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker",
+      "published": "2026-10-16T19:21:00+00:00",
+      "summary": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker&nbsp;&nbsp;Flevopost",
+      "sources": [
+        {
+          "name": "Flevopost",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e6392f89f78e",
       "title": "Russische pest lijkt steeds meer op ‘gewoon’ sterfgeval - de Volkskrant",
@@ -48,107 +216,133 @@
           "related_drugs": [
             {
               "slug": "cytarabine",
-              "name": "Cytarabine"
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
             },
             {
               "slug": "amlodipine",
-              "name": "Amlodipine"
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
             },
             {
               "slug": "famciclovir",
-              "name": "Famciclovir"
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
             },
             {
               "slug": "irbesartan",
-              "name": "Irbesartan"
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
             },
             {
               "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
             },
             {
               "slug": "clonazepam",
-              "name": "Clonazepam"
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
             },
             {
               "slug": "temozolomide",
-              "name": "Temozolomide"
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
             },
             {
               "slug": "sorbitol",
-              "name": "Sorbitol"
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
             },
             {
               "slug": "etoposide",
-              "name": "Etoposide"
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
             },
             {
               "slug": "felodipine",
-              "name": "Felodipine"
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
             },
             {
               "slug": "everolimus",
-              "name": "Everolimus"
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
             },
             {
               "slug": "colchicine",
-              "name": "Colchicine"
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
             },
             {
               "slug": "fluorouracil",
-              "name": "Fluorouracil"
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
             },
             {
               "slug": "lorazepam",
-              "name": "Lorazepam"
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
             },
             {
               "slug": "calcipotriol",
-              "name": "Calcipotriol"
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
             },
             {
               "slug": "lactulose",
-              "name": "Lactulose"
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
             },
             {
               "slug": "telmisartan",
-              "name": "Telmisartan"
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
             },
             {
               "slug": "ramipril",
-              "name": "Ramipril"
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
             },
             {
               "slug": "capecitabine",
-              "name": "Capecitabine"
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
             },
             {
               "slug": "mannitol",
-              "name": "Mannitol"
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
             },
             {
               "slug": "lamotrigine",
-              "name": "Lamotrigine"
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
             },
             {
               "slug": "cabergoline",
-              "name": "Cabergoline"
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
             },
             {
               "slug": "atenolol",
-              "name": "Atenolol"
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
             },
             {
               "slug": "bicalutamide",
-              "name": "Bicalutamide"
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
             },
             {
               "slug": "carvedilol",
-              "name": "Carvedilol"
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
             },
             {
               "slug": "valsartan",
-              "name": "Valsartan"
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
             }
           ]
         }
@@ -171,7 +365,7 @@
       "id": "ccccb9ec3563",
       "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg",
       "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;Libelle6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ‘m over&nbsp;&nbsp;MargrietGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleOnly half of eligible Dutch residents get flu shots as 4,700 die a year&nbsp;&nbsp;NL TimesGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
       "sources": [
         {
           "name": "AD.nl",
@@ -184,7 +378,7 @@
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld",
       "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVroeger werden zieke vrouwen naar een rusthuis gestuurd. En nu?&nbsp;&nbsp;de Stentor",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "AD.nl",

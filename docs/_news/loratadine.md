@@ -25,7 +25,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Loratadine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
+
 </div>
 
 ## Gerelateerd nieuws (0)

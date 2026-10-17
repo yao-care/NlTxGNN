@@ -92,8 +92,7 @@ Productoverzicht: <https://www.yao.care/medical/txgnn/>.
 
 Het TxGNN-model zelf is ontwikkeld door het Zitnik Lab van Harvard Medical School en gepubliceerd
 in *Nature Medicine*. Dit platform is het productiesysteem dat 藥提醒科技有限公司 op dat model heeft
-gebouwd; het omvat de integratie van nationale geneesmiddelregistratiegegevens, dubbele voorspelling
-met kennisgraaf en deep learning, bewijsgradering op basis van PubMed / ClinicalTrials, en integratie
+gebouwd; het omvat de integratie van nationale geneesmiddelregistratiegegevens, voorspelling met deep learning waarbij toepassingen die al in de kennisgraaf staan zijn uitgesloten, bewijsgradering op basis van PubMed / ClinicalTrials, en integratie
 met elektronische patiëntendossiers via SMART on FHIR.
 
 ---

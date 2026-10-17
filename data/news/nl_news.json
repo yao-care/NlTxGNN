@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-17T02:51:56.932127+00:00",
+  "fetched_at": "2026-10-17T10:05:53.747624+00:00",
   "count": 9,
   "news": [
     {
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
       "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "AD.nl",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "e6392f89f78e",
-      "title": "Russische pest lijkt steeds meer op ‘gewoon’ sterfgeval - de Volkskrant",
-      "published": "2026-10-16T03:00:24+00:00",
-      "summary": "Russische pest lijkt steeds meer op ‘gewoon’ sterfgeval&nbsp;&nbsp;de VolkskrantWHO: geen aanwijzingen voor ‘pestuitbraak’ in Siberië&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRusland heeft met uitermate veel voorzichtigheid op een mogelijk pestgeval gereageerd&nbsp;&nbsp;bnr.nlOf laborante Darja werkte aan biologische wapens weten we niet. Maar dat zulke dingen gebeurden in haar Instituut voor Pestbestrijding, weten we wél&nbsp;&nbsp;HLNOnrust in Rusland na mogelijk labor",
+      "id": "ccccb9ec3563",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
+      "published": "2026-10-12T19:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjAtaDUzS0pHYlJyd3kwbmlfeU1QcU1Md2p3Z2ktenRaR3BhWEFiQWxmMUx1S0tqODRMQ2tJY3Rhcnh2bHFRWGJEWjA4b1dHZDAzTjU2Q2NOMHNzbV9uNzVyZ2czLUl5UDNlc0JqVFpTQkhUR2xLcTAzSjZRWTRWbGRZSTcyOUU3LWxuWVV1SzJERVQxZUtqODgxN3liUkg2aXc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleOnly half of eligible Dutch residents get flu shots as 4,700 die a year&nbsp;&nbsp;NL TimesGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "816081289cba",
       "title": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker - Flevopost",
       "published": "2026-10-16T19:21:00+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "Flevopost",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5122e0267e33",
+      "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’ - AD.nl",
+      "published": "2026-10-16T14:07:00+00:00",
+      "summary": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
         }
       ]
     },

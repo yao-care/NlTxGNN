@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-17T02:51:57.045945+00:00",
+  "last_updated": "2026-10-17T10:05:53.852947+00:00",
   "total_count": 9,
-  "matched_count": 2,
+  "matched_count": 3,
   "news": [
     {
       "id": "816081289cba",
@@ -172,17 +172,172 @@
       ]
     },
     {
-      "id": "e6392f89f78e",
-      "title": "Russische pest lijkt steeds meer op ‘gewoon’ sterfgeval - de Volkskrant",
-      "published": "2026-10-16T03:00:24+00:00",
-      "summary": "Russische pest lijkt steeds meer op ‘gewoon’ sterfgeval&nbsp;&nbsp;de VolkskrantWHO: geen aanwijzingen voor ‘pestuitbraak’ in Siberië&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekRusland heeft met uitermate veel voorzichtigheid op een mogelijk pestgeval gereageerd&nbsp;&nbsp;bnr.nlOf laborante Darja werkte aan biologische wapens weten we niet. Maar dat zulke dingen gebeurden in haar Instituut voor Pestbestrijding, weten we wél&nbsp;&nbsp;HLNOnrust in Rusland na mogelijk labor",
+      "id": "5122e0267e33",
+      "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’",
+      "published": "2026-10-16T14:07:00+00:00",
+      "summary": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjAtaDUzS0pHYlJyd3kwbmlfeU1QcU1Md2p3Z2ktenRaR3BhWEFiQWxmMUx1S0tqODRMQ2tJY3Rhcnh2bHFRWGJEWjA4b1dHZDAzTjU2Q2NOMHNzbV9uNzVyZ2czLUl5UDNlc0JqVFpTQkhUR2xLcTAzSjZRWTRWbGRZSTcyOUU3LWxuWVV1SzJERVQxZUtqODgxN3liUkg2aXc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "18929bce52c4",
@@ -365,7 +520,7 @@
       "id": "ccccb9ec3563",
       "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg",
       "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleOnly half of eligible Dutch residents get flu shots as 4,700 die a year&nbsp;&nbsp;NL TimesGriepprikcampagne later gestart door vertraagde vaccins&nbsp;&nbsp;Nationale Zorggids",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -378,7 +533,7 @@
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld",
       "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "AD.nl",

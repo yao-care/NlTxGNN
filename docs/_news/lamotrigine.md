@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lamotrigine?">
-<strong>Lamotrigine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Lamotrigine</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lamotrigine met het
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
 
 ### [Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
 
 2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Flevopost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
+
+---
+
+### [Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
+
+2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Atenolol: voorspelde nieuwe indicatie Posteroinferieur myocardinfarct (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en myocardinfarct (op basis van de kennisgraaf"
 monitor_inn: "Atenolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Atenolol
@@ -27,7 +27,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

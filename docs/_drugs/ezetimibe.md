@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Ezetimibe: voorspelde nieuwe indicatie Hyperlipoproteïnemie (bewijsniveau L1). Oorspronkelijke indicatie: Hyperlipidemie (inclusief familiaire hyperlipidemie…"
 monitor_inn: "ezetimibe"
-predicted_indications: ["hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 ---
 
 # Ezetimibe
@@ -27,7 +27,7 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **4**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

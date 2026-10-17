@@ -27,7 +27,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

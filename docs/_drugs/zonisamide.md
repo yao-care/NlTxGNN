@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de registratiegegevens (bekend gebruik: epilepsie)"
 monitor_inn: "Zonisamide"
-predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "absence epilepsy", "fibromyalgia", "conjunctivitis"]
+predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 ---
 
 # Zonisamide
@@ -27,7 +27,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

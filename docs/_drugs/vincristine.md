@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Vincristine: voorspelde nieuwe indicatie Ganglioneuroblastoom (bewijsniveau L3). Oorspronkelijke indicatie: Acute lymfatische leukemie, Hodgkin- en non-Hodgkinlymfoom…"
 monitor_inn: "vincristine"
-predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Vincristine
@@ -27,7 +27,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

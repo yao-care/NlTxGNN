@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clotrimazole: voorspelde nieuwe indicatie Vulvovaginitis (bewijsniveau L1). Oorspronkelijke indicatie: Tinea pedis, tinea corporis, cutane candidiasis, orale candidiasis…"
 monitor_inn: "clotrimazole"
-predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["acne (disease)"]
 ---
 
 # Clotrimazole
@@ -27,7 +27,7 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

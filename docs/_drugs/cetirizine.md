@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Cetirizine: voorspelde nieuwe indicatie Allergische urticaria (bewijsniveau L2). Oorspronkelijke indicatie: Allergische rhinitis, vasomotorische rhinitis…"
 monitor_inn: "cetirizine"
-predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["acute laryngopharyngitis", "recalcitrant atopic dermatitis"]
 ---
 
 # Cetirizine
@@ -27,7 +27,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

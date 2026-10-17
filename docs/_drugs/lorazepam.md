@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie (o.a. status epilepticus, Lennox-Gastaut-syndroom…"
 monitor_inn: "Lorazepam"
-predicted_indications: ["trigeminal nerve neoplasm", "reading seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "eating seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+predicted_indications: ["trigeminal nerve neoplasm"]
 ---
 
 # Lorazepam
@@ -27,7 +27,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

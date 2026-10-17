@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Fexofenadine: voorspelde nieuwe indicatie Rosacea-conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis…"
-monitor_inn: "fexofenadine"
-predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Fexofenadine
@@ -27,7 +25,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

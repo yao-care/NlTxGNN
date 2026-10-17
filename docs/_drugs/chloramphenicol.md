@@ -27,7 +27,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

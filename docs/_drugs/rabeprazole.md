@@ -25,7 +25,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

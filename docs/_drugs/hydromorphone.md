@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Hydromorphone: voorspelde nieuwe indicatie Faryngitis (bewijsniveau L4). Oorspronkelijke indicatie: Verkoudheid en nasofaryngitis (volgens de kennisgraaf"
 monitor_inn: "hydromorphone"
-predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Hydromorphone
@@ -27,7 +27,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Farmaceutisch beoordelingsrapport
 

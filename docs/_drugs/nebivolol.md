@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
 monitor_inn: "nebivolol"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Nebivolol

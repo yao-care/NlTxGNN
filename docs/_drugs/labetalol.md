@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Labetalol: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en hypertensieve aandoeningen"
 monitor_inn: "labetalol"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Labetalol

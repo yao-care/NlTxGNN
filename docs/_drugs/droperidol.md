@@ -6,9 +6,9 @@ nav_order: 123
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Droperidol: voorspelde nieuwe indicatie 99,89% (bewijsniveau L5). Oorspronkelijke indicatie: Gilles de la Tourette-syndroom (Tourette syndrome)"
 monitor_inn: "Droperidol"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
+description: "Droperidol: voorspelde nieuwe indicatie Gilles de la Tourette-syndroom (Tourette syndrome) (bewijsniveau L5)."
 ---
 
 # Droperidol

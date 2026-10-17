@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-17T10:05:53.747624+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-17T14:53:38.708908+00:00",
+  "count": 10,
   "news": [
     {
       "id": "a08b65dea468",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-12T19:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
+      "id": "a8683014ec88",
+      "title": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom? - Omroep West",
+      "published": "2026-10-17T08:01:46+00:00",
+      "summary": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1VXVWs5MEtybVg4VDJWZ2pCTGI3SU9YQy0wNzFsQ1pIWm5MQjlSdE9Dako5bWQwUVBaMUVfdUV3c2RRS1lKZEFsZ0tLeE1zREx3bkhfcFJ5OGw2US1sQ0VibUFMSGtkLXctSjdLdVZtY1pFcVNaTHZLUko2SkhQcUpGUk1uS25RclFzUkZ4ajBORXhMQk9GUUU1VzdVN3pjUFlnN0czN2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afd232356b82",
+      "title": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\" - Pointer",
+      "published": "2026-10-16T21:57:19+00:00",
+      "summary": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"&nbsp;&nbsp;Pointer",
+      "sources": [
+        {
+          "name": "Pointer",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW5ZRzVxVHU5ci1JTi1mMmdicF80c1B0OEZaeGFLR01NWVdYMlA3Ql9FWHh6ZnpFOHlaeFpMbzAtaTZRWnhES3dMSEZodUs2ZXJVMjZuZ0VReko1YUtFbnVoazdsd3BBUFlGd1NjQWdqWTFOTENLMnVmaS0tcXB1V1o3ZXJRZF92Xy1rTEFyYmtKZktWdWVneFNSSkZCaEJwQWNmYnFJWm8?oc=5"
         }
       ]
     },
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "816081289cba",
-      "title": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker - Flevopost",
-      "published": "2026-10-16T19:21:00+00:00",
-      "summary": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker&nbsp;&nbsp;Flevopost",
-      "sources": [
-        {
-          "name": "Flevopost",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5122e0267e33",
       "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’ - AD.nl",
       "published": "2026-10-16T14:07:00+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "816081289cba",
+      "title": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker - Flevopost",
+      "published": "2026-10-16T19:21:00+00:00",
+      "summary": "Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker&nbsp;&nbsp;Flevopost",
+      "sources": [
+        {
+          "name": "Flevopost",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
         }
       ]
     },

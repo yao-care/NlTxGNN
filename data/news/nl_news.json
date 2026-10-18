@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-18T15:19:39.602294+00:00",
-  "count": 14,
+  "fetched_at": "2026-10-18T20:02:23.887886+00:00",
+  "count": 13,
   "news": [
     {
       "id": "def569ccf5d9",
@@ -19,11 +19,23 @@
       "id": "eef1ee439a08",
       "title": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen - de Stentor",
       "published": "2026-10-14T19:30:43+00:00",
-      "summary": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen&nbsp;&nbsp;de StentorWestnijlvirus bleef bij duizenden Nederlanders onopgemerkt&nbsp;&nbsp;NUWestnijlvirus lijkt voet aan de grond te hebben in Nederland: ‘Dit virus is een blijvertje’&nbsp;&nbsp;TrouwTwee doden in België door westnijlvirus, ook nieuwe besmettingen in Nederland&nbsp;&nbsp;AD.nlTwee nieuwe besmettingen met westnijlvirus in Brabant&nbsp;&nbsp;Omroep Brabant",
+      "summary": "Westnijlvirus treft ook steeds meer paarden: dierenarts waarschuwt voor ernstige gevolgen&nbsp;&nbsp;de StentorWestnijlvirus bleef bij duizenden Nederlanders onopgemerkt&nbsp;&nbsp;NUTwee doden in België door westnijlvirus, ook nieuwe besmettingen in Nederland&nbsp;&nbsp;AD.nlWestnijlvirus lijkt voet aan de grond te hebben in Nederland: ‘Dit virus is een blijvertje’&nbsp;&nbsp;TrouwTwee nieuwe besmettingen met westnijlvirus in Brabant&nbsp;&nbsp;Omroep Brabant",
       "sources": [
         {
           "name": "de Stentor",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0VsczFNM211RXFWd3lQcDB0NXZ1clozcFFvaDZjOWh0OFQyTmdyRHlMSEROLVFTZUllcDRkaXYySDNhOXBRWGpOWHo2X1hRUEZyWEJTbDBnaEItcmdyRjIwZlJnZ1ZVelc5cDZkMVVkWXZuX05OWU00R2c2MGhjdzM2bUtuRDB6QmI3RkVGYUwxLVBEQUhHQXBTYVU0alFKMW9Ya25IUmdGS3Z2bGNfaGpLRVZWR3hTOUxFeVlEZURKaHRMRm5qWGN0UUZMWW5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a08b65dea468",
+      "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
+      "published": "2026-10-12T16:30:00+00:00",
+      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlGenderbias in de zorg? Vrouwen met auto-immuunziekte vaker verkeerd gediagnosticeerd&nbsp;&nbsp;Scientias.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwVroeger werden zieke vrouwen naar een rusthuis gestuurd. En nu?&nbsp;&nbsp;de StentorPoll-uitslag | Gezondheidsklachten van vrouwen nog altijd gemarginaliseerd&nbsp;&nbsp;Zorgvisie",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXNwcTN0UGlCUUJabW15VExuLXBmaDd6NWFBcjhtNm85ZHYwc1M4bG5wN19VMWJ3OUN0R2V6ZFFMNU9WaFZYaXBxQUFrMTdwTGg2ek1idjlGdnJXWjdZaGpjTkpKcGNMSm5sUmZqZFJLcGxRSG1rVWxjQmtOcG9tbkktTG82aEhXbDFyTFNuSzZDNWpzYlktZFEwbHBEZWtka2VpdEtQVXBZdjFTZ1hISUhkVzRwY1NNZHg0U0ZreVNtN0g3azAyWHIyQWNXc1BzRTFlbkJtNDg3eE03?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "EenVandaag",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbm9Rd3k5ZVFmTkFobjVQbTFXeXk2QWVFd0ZDUEk1OEFQU2JZbURXMDRRTTlFTHZwX0d6SlBvdkpsYUU5UGJ4elI5WGdVQ0xhQjFVaEJ0Q2poMWFuZk9LbGZaUGlLd3lhMzlPQXZLbVBhUTlBTUlWc1k0dXpYWWlNdkNzWlNoeVV2RmIyc0VzTVJfUmVJZ1pCelpuY00zRFVLbDlIenFYM1FKXzR2TVZDc1RhcUxlOTk0OTZUTWlkYVdjQ3lpNHpWc1hNdk9Fay1yVFRF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a08b65dea468",
-      "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
-      "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlGenderbias in de zorg? Vrouwen met auto-immuunziekte vaker verkeerd gediagnosticeerd&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwMirjam Kaijer over een rapport dat schreeuwt om verandering&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXNwcTN0UGlCUUJabW15VExuLXBmaDd6NWFBcjhtNm85ZHYwc1M4bG5wN19VMWJ3OUN0R2V6ZFFMNU9WaFZYaXBxQUFrMTdwTGg2ek1idjlGdnJXWjdZaGpjTkpKcGNMSm5sUmZqZFJLcGxRSG1rVWxjQmtOcG9tbkktTG82aEhXbDFyTFNuSzZDNWpzYlktZFEwbHBEZWtka2VpdEtQVXBZdjFTZ1hISUhkVzRwY1NNZHg0U0ZreVNtN0g3azAyWHIyQWNXc1BzRTFlbkJtNDg3eE03?oc=5"
         }
       ]
     },
@@ -120,18 +120,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cfbb59d267f",
-      "title": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’ - AD.nl",
-      "published": "2026-10-11T16:30:00+00:00",
-      "summary": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV05RNmh2dzNVV2NXSlh0VWp1UEx5NW5qbWZqRFJwV2dkdVhDMm5FVXpQY2h1OWJfbkhWbHhVV29JdG4wRWdKTW5PU2NpREpLWm0yYXo1OUVJZGg2TmYtWWx6YUU2YUQ5bkZqVFJtWGpXWXF5MURIU1pDMk1GVnZYaDQwcEVyZi1MeVlzcThCZXZkdFRaVkQyWFVoZjJsVW4xOFlJbjcyeVdoVk0yRkRiYlVKRzJiTXFLZDlpNlFBRTdJdGFSak5Z?oc=5"
         }
       ]
     },

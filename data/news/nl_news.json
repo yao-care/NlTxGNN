@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-17T20:02:49.531046+00:00",
-  "count": 11,
+  "fetched_at": "2026-10-18T02:53:31.888921+00:00",
+  "count": 10,
   "news": [
     {
       "id": "eef1ee439a08",
@@ -18,7 +18,7 @@
     {
       "id": "b749e69d7816",
       "title": "Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf",
-      "published": "2026-10-17T15:30:00+00:00",
+      "published": "2026-10-17T22:30:00+00:00",
       "summary": "Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "a08b65dea468",
-      "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
-      "published": "2026-10-12T16:30:00+00:00",
-      "summary": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld&nbsp;&nbsp;AD.nlLichamelijke klachten vaker psychisch verklaard bij vrouwen met auto-immuunziekten&nbsp;&nbsp;Scientias.nlErvaringsverhalen: jarenlang niet serieus genomen | Vrouwen en gezondheid&nbsp;&nbsp;AD.nlVrouwen met klachten voelen zich vaak niet serieus genomen in de zorg&nbsp;&nbsp;TrouwVroeger werden zieke vrouwen naar een rusthuis gestuurd. En nu?&nbsp;&nbsp;de Stentor",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXNwcTN0UGlCUUJabW15VExuLXBmaDd6NWFBcjhtNm85ZHYwc1M4bG5wN19VMWJ3OUN0R2V6ZFFMNU9WaFZYaXBxQUFrMTdwTGg2ek1idjlGdnJXWjdZaGpjTkpKcGNMSm5sUmZqZFJLcGxRSG1rVWxjQmtOcG9tbkktTG82aEhXbDFyTFNuSzZDNWpzYlktZFEwbHBEZWtka2VpdEtQVXBZdjFTZ1hISUhkVzRwY1NNZHg0U0ZreVNtN0g3azAyWHIyQWNXc1BzRTFlbkJtNDg3eE03?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8683014ec88",
       "title": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom? - Omroep West",
       "published": "2026-10-17T08:01:46+00:00",
-      "summary": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
+      "summary": "Alles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep WestGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Griepseizoen komt eraan, maar de prik is vertraagd: dit is waarom&nbsp;&nbsp;EenVandaagGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlGriepprik dit jaar later voor Scherpenzeelse patiënten&nbsp;&nbsp;scherpenzeelsekrant.nl",
       "sources": [
         {
           "name": "Omroep West",
@@ -88,18 +76,6 @@
       ]
     },
     {
-      "id": "5122e0267e33",
-      "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’ - AD.nl",
-      "published": "2026-10-16T14:07:00+00:00",
-      "summary": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5bfd3b813684",
       "title": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest - De Gelderlander",
       "published": "2026-10-12T08:12:18+00:00",
@@ -108,6 +84,18 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5122e0267e33",
+      "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’ - AD.nl",
+      "published": "2026-10-16T14:07:00+00:00",
+      "summary": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
         }
       ]
     },

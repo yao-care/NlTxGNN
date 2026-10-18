@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-18T10:19:47.427558+00:00",
-  "count": 12,
+  "fetched_at": "2026-10-18T15:19:39.602294+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "8557560cfb49",
-      "title": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord - EenVandaag",
-      "published": "2026-10-18T06:03:21+00:00",
-      "summary": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Waarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleGriepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep We",
+      "id": "def569ccf5d9",
+      "title": "Verslaving, hoge schermtijd? Ja, maar telefoon heeft ook andere kant voor jongeren: ‘Wereld ligt aan je voeten’ - AD.nl",
+      "published": "2026-10-18T11:00:00+00:00",
+      "summary": "Verslaving, hoge schermtijd? Ja, maar telefoon heeft ook andere kant voor jongeren: ‘Wereld ligt aan je voeten’&nbsp;&nbsp;AD.nlDe negatieve gevolgen van overmatig telefoongebruik op de geestelijke en lichamelijke gezondheid.&nbsp;&nbsp;Vietnam.vnSchermtijd beperken? Dat is moeilijker dan het lijkt&nbsp;&nbsp;EOS Wetenschap",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbm9Rd3k5ZVFmTkFobjVQbTFXeXk2QWVFd0ZDUEk1OEFQU2JZbURXMDRRTTlFTHZwX0d6SlBvdkpsYUU5UGJ4elI5WGdVQ0xhQjFVaEJ0Q2poMWFuZk9LbGZaUGlLd3lhMzlPQXZLbVBhUTlBTUlWc1k0dXpYWWlNdkNzWlNoeVV2RmIyc0VzTVJfUmVJZ1pCelpuY00zRFVLbDlIenFYM1FKXzR2TVZDc1RhcUxlOTk0OTZUTWlkYVdjQ3lpNHpWc1hNdk9Fay1yVFRF?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVEpXdDQ3SmV5QndEMXdEMGsxdXNwS3RCcmh5RjZGRFZRMURncnk4M2JzTzRXc3FFak1Ed2Jxa3JocGFOMngtZmpyOXJ6MWJJNFJoU1ZjUWJrdVh3T0RWc2M0dU9tT0dxMjBXS1VkSzlvWGZkODJYcDVtWjN5N0NiUnBCbkhRMTVXNDlPMldkc3k2WWhuTU80amJjUmd2UGFlRzhoQk9HQm9qaVRBSVdvM0JWNEltbzZldVdNRGFDOUVhNTBReHAzcHNvRFlJLU9VNWExMw?oc=5"
         }
       ]
     },
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "8557560cfb49",
+      "title": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord - EenVandaag",
+      "published": "2026-10-18T06:03:21+00:00",
+      "summary": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlWaarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep We",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbm9Rd3k5ZVFmTkFobjVQbTFXeXk2QWVFd0ZDUEk1OEFQU2JZbURXMDRRTTlFTHZwX0d6SlBvdkpsYUU5UGJ4elI5WGdVQ0xhQjFVaEJ0Q2poMWFuZk9LbGZaUGlLd3lhMzlPQXZLbVBhUTlBTUlWc1k0dXpYWWlNdkNzWlNoeVV2RmIyc0VzTVJfUmVJZ1pCelpuY00zRFVLbDlIenFYM1FKXzR2TVZDc1RhcUxlOTk0OTZUTWlkYVdjQ3lpNHpWc1hNdk9Fay1yVFRF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a08b65dea468",
       "title": "Jarenlang dachten artsen dat het tussen hun oren zat, nu blijkt hoe veel vrouwen verkeerd worden behandeld - AD.nl",
       "published": "2026-10-12T16:30:00+00:00",
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "bb733037fbf1",
+      "title": "Medicijn dat ernstige zieke Hailey (11) kan helpen wordt niet vergoed in Nederland: ‘Geen tijd te verliezen’ - AD.nl",
+      "published": "2026-10-18T10:00:40+00:00",
+      "summary": "Medicijn dat ernstige zieke Hailey (11) kan helpen wordt niet vergoed in Nederland: ‘Geen tijd te verliezen’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcjQ0ZDRiM3RSSUFLYkZUSGllMDFJYjhpemhzdG5LSE02RFEwOFNBQkVObVN6TDdSbG9QVnY1X3NfN29tbm9oU1J2aTIxQmRCbkJQVnhtYnRzd1dDakFuLWhpUER2NmpESGZZNFdYdEZrM1A2UFBncmNkUXFNaFA5QklFV2NXaHJ6R0pTalNJZjFPV2VXSkVreXJJcHV6T0g4TTRUNEtldXVsYmJWcHRJMzV0b2t3Rmg4dm1uSHJjWkdlNnZiUFpoR2hGS2RlcXBXNHJ5eHo5NA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b749e69d7816",
       "title": "Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf",
       "published": "2026-10-17T15:30:00+00:00",
@@ -48,18 +72,6 @@
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a98a9738875b",
-      "title": "Deze pil op deze pil: een opstapeling van medicijnen - NPO Radio 1",
-      "published": "2026-10-14T17:14:23+00:00",
-      "summary": "Deze pil op deze pil: een opstapeling van medicijnen&nbsp;&nbsp;NPO Radio 1Pil na pil tegen bijwerkingen? Het belang van je medicatiegeschiedenis wordt onderschat&nbsp;&nbsp;EOS Wetenschap",
-      "sources": [
-        {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdEs1VGxsamZYUlozekxqOFJacVNLdERHaHJEcjdpZ1Rld01LRDZTRHZOdmxORE82bzhUS2pxdVlWVnpXdmVlLXVTSFItci1TVGoyQ2FJTEZPbWRqZ0VoRXpSeG9URmtyYmNFQms4TE1ob0E0UmNwZGc0bDlhTGkxZkd4a1dSZlIyTVRzN04wRFBtZmxfZEtZOFNGQmQxWDdWT2I0VlU2M0ZfSEE5cGk2NVc1MVNBMlZsb1RwME5FVHo5WVZlcDZrSV9OVVc?oc=5"
         }
       ]
     },
@@ -88,6 +100,18 @@
       ]
     },
     {
+      "id": "ba3d039de619",
+      "title": "Niet al je vet is slecht: deze soort gaat samen met een gezonder hart en hoofd - Scientias.nl",
+      "published": "2026-10-17T15:00:47+00:00",
+      "summary": "Niet al je vet is slecht: deze soort gaat samen met een gezonder hart en hoofd&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVVGUmh2OWJzWUQyOXRTSVNYVk96Vm1ObU94dUp5Y1N5OHBrVWZwc0g3eG1Db2l6TTQ5QzdVWENYZXRiazhUbnBLbVJ3RjNmU1g5LW9tZFBxV3NGR3QyRFd0bl96aWNmZEo1NG1KbW5GNkVReWpRX29LRjNnUXlxLTAyaTF0R1pXM1p2bHJaRU9uc2lUX2pEdHlzVE5Oc1FN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5bfd3b813684",
       "title": "Mensen met pijn op de borst kunnen vaak thuisblijven dankzij Radboudumctest - De Gelderlander",
       "published": "2026-10-12T08:12:18+00:00",
@@ -96,6 +120,18 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0dDdEpOWnZHR0QwQTdJSXdyS0NJNGFlZlB3QnRNNFhwVTdnQVhwU2hKd3U2cWUwSVQ3RjFGbGk3eGhXbUhFVWdVc2FVR01mMl9FcmJjeVM2a0lsa0pBOWdfZDJta1NuVmw4RWltajIwZ3VfREFWa05GeG1TSEhSb1UwTm5KR3BVVlpQamRQTjR3RjlQTGs3RXhnazc4VnpnRWcxbkVDd2w4TTRseVh1VGxic3FUVGtDUlRvVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cfbb59d267f",
+      "title": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’ - AD.nl",
+      "published": "2026-10-11T16:30:00+00:00",
+      "summary": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV05RNmh2dzNVV2NXSlh0VWp1UEx5NW5qbWZqRFJwV2dkdVhDMm5FVXpQY2h1OWJfbkhWbHhVV29JdG4wRWdKTW5PU2NpREpLWm0yYXo1OUVJZGg2TmYtWWx6YUU2YUQ5bkZqVFJtWGpXWXF5MURIU1pDMk1GVnZYaDQwcEVyZi1MeVlzcThCZXZkdFRaVkQyWFVoZjJsVW4xOFlJbjcyeVdoVk0yRkRiYlVKRzJiTXFLZDlpNlFBRTdJdGFSak5Z?oc=5"
         }
       ]
     },
@@ -120,18 +156,6 @@
         {
           "name": "Flevopost",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cfbb59d267f",
-      "title": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’ - AD.nl",
-      "published": "2026-10-11T16:30:00+00:00",
-      "summary": "Diabetoloog Hilbrands over het verraderlijke aan diabetes type 2: ‘Daar voel je eerst niets van’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV05RNmh2dzNVV2NXSlh0VWp1UEx5NW5qbWZqRFJwV2dkdVhDMm5FVXpQY2h1OWJfbkhWbHhVV29JdG4wRWdKTW5PU2NpREpLWm0yYXo1OUVJZGg2TmYtWWx6YUU2YUQ5bkZqVFJtWGpXWXF5MURIU1pDMk1GVnZYaDQwcEVyZi1MeVlzcThCZXZkdFRaVkQyWFVoZjJsVW4xOFlJbjcyeVdoVk0yRkRiYlVKRzJiTXFLZDlpNlFBRTdJdGFSak5Z?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
-<strong>Calcipotriol</strong> heeft momenteel <strong>4 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Calcipotriol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (4)
+## Gerelateerd nieuws (2)
 
 ### [Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5)
 
@@ -51,27 +51,11 @@ Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubG
 
 ---
 
-### [Lelystadse bakactie voor zeldzame borstkanker gaat niet door: initiatiefnemer zelf getroffen door kanker](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
-
-2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [Flevopost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZk53Q1EtMWxQWG1kU190WG5lOTdJTHBKMU5Fc3dfZmtIY3JOX21qNmJYUDBYZmpRRmxUbWJIRE9NMTZFVWVsUjEyTlp1ZmFteVlPckU4ZHpZeERuSHJVVmZ3RHQzSndhUkdPT2xyblozRWRiX3RqUWVESE9rcnVlLW5NaFV4ODBTejZ6eENyaGd6bjBEMVlpUVAyU1pIU2ZUVEdoMUFsb2FiLXVtQ2ZROHpuWUZobE9kQ3V3cUNPbVhfcjczQ3VWRmdYeTFMaUxVMm1IZEYxSnJ2SjVSc0hXWVhPZEVCZlk?oc=5)
-
----
-
 ### [Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
 
 2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
-
----
-
-### [Oncoloog Philippe Westerlinck over waarom we kanker krijgen: ‘Het is een loterij, maar 37 procent is te voorkomen’](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
-
-2026-10-15 <span class="news-indication-tag">kanker</span>
-
-Bron: [Knack](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWNEbDdKeUFvRGdXYjlhWnFWTnYzdXQ2TFA0Uzk1cHZUdkU0YkVGS2NSVXBYMXBFZ0tnN0V1Q193c1NrUWRYcWZUOGtSdWFfeVppQlZlSm4yZXI0eGF6OTh3OHRMT1J6VVZZcHkyc3Rxblh3QWg1aldKdDBybFdsN2lnUmI4NjNSdWpORlhQb21fWXlISDlPek1yMS1rTDlmTndvV05fVW5sNENiNUJGUEV6UVBXZzB4WGxKNXhpQzlSR1RZeHJDT25HYmFNQW9hVUhONG1CMTI5b2gxaGQ5MnEzLWpoUncwRW5r?oc=5)
 
 ---
 

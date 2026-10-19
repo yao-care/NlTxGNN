@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -54,15 +54,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
-
-### [Suzanne (40) kreeg op haar 35e borstkanker: ’Ik besefte dat ik alle controle kwijt zou raken’ - De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5)
-
-2026-10-17
-
-Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV25ubGp1ak9HS2FNUXVieHRsdHVtaGxycjZvMkctZml1NU13dm5xZzUyMUtKT3FSZWFQR1d4UjZDQ0ZreWJ6RWZiMDJ0MDUwR3ZjME1Nd0Noa2xIaGVyanBEZWxIRkM0VGNublVQLWJUTjRqeU0wa0c0VWhJcElxM1JSNFcyMHJneFZsWk1aQTRtRktJX1BiV011ZFVxOHZ6Qm0xVEhGRmZicDEwQTRoUk54M2lGbkk2QjBhSm5ZSURlMWszY1lIR1V4b2lHelJCQjdpaTdWYnQ?oc=5)
-
----
+## Gerelateerd nieuws (1)
 
 ### [Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
 

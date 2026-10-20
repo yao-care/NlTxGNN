@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-19T21:57:41.958630+00:00",
+  "fetched_at": "2026-10-20T03:15:39.021136+00:00",
   "count": 7,
   "news": [
     {
-      "id": "1c03b5921898",
-      "title": "IJzertekort bij vrouwen vaak onderschat: 'Manier van testen en richtlijnen huisarts moeten anders' - L1 Nieuws",
-      "published": "2026-10-18T15:38:26+00:00",
-      "summary": "IJzertekort bij vrouwen vaak onderschat: 'Manier van testen en richtlijnen huisarts moeten anders'&nbsp;&nbsp;L1 NieuwsMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "8548ed2f36e2",
+      "title": "Meer vrouwen zoeken oplossing voor ijzertekort, maar artsen worstelen met juiste aanpak - EenVandaag",
+      "published": "2026-10-18T06:05:41+00:00",
+      "summary": "Meer vrouwen zoeken oplossing voor ijzertekort, maar artsen worstelen met juiste aanpak&nbsp;&nbsp;EenVandaagMoe, duizelig en ouder dan 50? Slik dan niet zomaar ijzerpillen van de drogist&nbsp;&nbsp;Welingelichte KringenIJzertekort bij vrouwen vaak onderschat: 'Manier van testen en richtlijnen huisarts moeten anders'&nbsp;&nbsp;Headliner.nl",
       "sources": [
         {
-          "name": "L1 Nieuws",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXdJTVhrUG51N29FU0M4TXptd2FnSGRyY3ZQdUdhVExUanBaTGN0WmVRUzc5M01PUXMtR2MycEIyRWVZeHlNSmxYUW5Md245V3pMbFlVNGJLdEVISGNXREJBQjhUVHFndUp0NXp0VzNFVmRKVFA2SVlaVzcyR2FQYlNyZzJuUHJrdko5TGl0eGJoU1RGRjJXQ2NRd18xSF9TLVRwX3VTYnBfM0g3ZEhJbkdaSWZNTlFBMzcxV2gwR2lvTjMtcFV3ZGVWVHVacjg?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbERwSWJmeUs0bldDcDRUWHZqWFY2TnotREMxemZMeEZoUjRwNFVIdjMySlJZWVJxLUk5ZTI3dzRmeUd0WHgtN0tvb0MwWlgxMUVfZDlrM3dfTjVrN1hlamthcTlDWmZqWl9zbkJ2TjhhWXp5X2hINWViU0ZPTkFSbVJuX19QbzdjT21HUFlVM0hUam8wUkZDTnNpRWVqN0ZRQU9RRnFxdjBmNnF1REpoQVlGWnlMY2p2c3BhaXdXSWN5b2t5UmcxQTcyWFpMVUk?oc=5"
         }
       ]
     },
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "8557560cfb49",
-      "title": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord - EenVandaag",
-      "published": "2026-10-18T06:03:21+00:00",
-      "summary": "Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;De Gelderlander6 miljoen Nederlanders krijgen oproep voor griepprik, maar bijna de helft slaat ‘m over&nbsp;&nbsp;MargrietAlles wat je moet weten over de griepprik: wie krijgt hem en waar",
+      "id": "ccccb9ec3563",
+      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
+      "published": "2026-10-13T04:00:00+00:00",
+      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlBeschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Waarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep We",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbm9Rd3k5ZVFmTkFobjVQbTFXeXk2QWVFd0ZDUEk1OEFQU2JZbURXMDRRTTlFTHZwX0d6SlBvdkpsYUU5UGJ4elI5WGdVQ0xhQjFVaEJ0Q2poMWFuZk9LbGZaUGlLd3lhMzlPQXZLbVBhUTlBTUlWc1k0dXpYWWlNdkNzWlNoeVV2RmIyc0VzTVJfUmVJZ1pCelpuY00zRFVLbDlIenFYM1FKXzR2TVZDc1RhcUxlOTk0OTZUTWlkYVdjQ3lpNHpWc1hNdk9Fay1yVFRF?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
         }
       ]
     },

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-20T10:53:08.345069+00:00",
-  "count": 6,
+  "fetched_at": "2026-10-20T16:17:57.913012+00:00",
+  "count": 7,
   "news": [
     {
       "id": "d32ad4f7558c",
       "title": "Griepprik halen of niet? Waarom het wel degelijk zin heeft - Radar (AVROTROS)",
       "published": "2026-10-20T05:00:00+00:00",
-      "summary": "Griepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagLange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte Kringen",
+      "summary": "Griepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladLange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep West",
       "sources": [
         {
           "name": "Radar (AVROTROS)",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "22b34cb1d50e",
-      "title": "Bij osteoporose krijgt maar de helft van de patiënten een scan van de wervelkolom - AD.nl",
-      "published": "2026-10-19T18:00:00+00:00",
-      "summary": "Bij osteoporose krijgt maar de helft van de patiënten een scan van de wervelkolom&nbsp;&nbsp;AD.nlBij sommige patiënten met botontkalking kan een hoestbui al tot een gebroken wervel leiden&nbsp;&nbsp;Het Parool",
+      "id": "97d826a304b7",
+      "title": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’ - AD.nl",
+      "published": "2026-10-20T11:15:00+00:00",
+      "summary": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWdETjdmMnp1M1FuOFh2SVV6UzBNREVoU2FLaFBCOGFlSFh6MVlzSGFYcUkyVnBfTUVoZE5mWWRPOV9pWnJDUFl6OG9iU0lsclg2N25NemV5ajBHWEJpeVNjNGdnM2V4eUIyaF9KSFp3bHJ4eGwwMGlXSWIwTWk4MkJWQXc3Y0YzNTJmUElienhIVEpmUExvYW45SlRTZ19UVmN1YTN2ckp1dVA1a1cwS01KQ2xkWElYbTlscw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51a25eba6b33",
+      "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland - AD.nl",
+      "published": "2026-10-15T16:08:06+00:00",
+      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nl“Meer dan de helft van de patiënten heeft bij de diagnose al uitzaaiingen”, maar nieuw middel tegen pancreaskanker biedt hoop&nbsp;&nbsp;HLNNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Nieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlLimburgse huisartsen pleiten voor herziening van de richtlijnen voor ijzertekort bij vrouwen&nbsp;&nbsp;H",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5"
         }
       ]
     },

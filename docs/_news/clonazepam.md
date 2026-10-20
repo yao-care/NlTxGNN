@@ -14,7 +14,7 @@ permalink: /news/clonazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Clonazepam?">
-<strong>Clonazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Clonazepam</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 3 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clonazepam met het 
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5)
+
+2026-10-15 <span class="news-indication-tag">kanker</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5)
+
+---
 
 
 <div class="disclaimer">

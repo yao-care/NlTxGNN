@@ -14,7 +14,7 @@ permalink: /news/bicalutamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
-<strong>Bicalutamide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Bicalutamide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5)
+
+2026-10-20 <span class="news-indication-tag">kanker</span>
+
+Bron: [RTL.nl](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5)
+
+---
 
 ### [Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5)
 

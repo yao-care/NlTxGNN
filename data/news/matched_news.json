@@ -1,8 +1,172 @@
 {
-  "last_updated": "2026-10-20T16:17:58.016296+00:00",
-  "total_count": 7,
-  "matched_count": 1,
+  "last_updated": "2026-10-20T21:12:10.012517+00:00",
+  "total_count": 8,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "29ae5baf6880",
+      "title": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto",
+      "published": "2026-10-20T16:18:54+00:00",
+      "summary": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0cfc90a0d80",
+      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
+      "published": "2026-10-20T15:58:06+00:00",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "97d826a304b7",
       "title": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’",
@@ -12,19 +176,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d32ad4f7558c",
-      "title": "Griepprik halen of niet? Waarom het wel degelijk zin heeft - Radar (AVROTROS)",
-      "published": "2026-10-20T05:00:00+00:00",
-      "summary": "Griepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladLange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Radar (AVROTROS)",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGtJbDVEM3YyNFVOb28zS1A3azZVRHM4T0dyWGx2R1hMQk9IYm1vNFFaZnhsb21Sdmo4clB3bjJqNExnU1c4amFrc1JXSW1WN2tielEwdDhFYzN1Znc4NWxqdjZnZExEbVBubnFrMF9kMFpRS3FrQkppS3diRGY2ZGlJUE5Ed3NORGRIT0lfd2tZc0kwTkNIbWtoQXZWQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -59,7 +210,7 @@
       "id": "2c1c31134030",
       "title": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op",
       "published": "2026-10-19T07:55:51+00:00",
-      "summary": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren stemming niet aantoonbaar&nbsp;&nbsp;Agf.nl",
+      "summary": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnElke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen&nbsp;&nbsp;GezondnuKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren s",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -85,7 +236,7 @@
       "id": "51a25eba6b33",
       "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland",
       "published": "2026-10-15T16:08:06+00:00",
-      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nl“Meer dan de helft van de patiënten heeft bij de diagnose al uitzaaiingen”, maar nieuw middel tegen pancreaskanker biedt hoop&nbsp;&nbsp;HLNNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Nieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlLimburgse huisartsen pleiten voor herziening van de richtlijnen voor ijzertekort bij vrouwen&nbsp;&nbsp;H",
+      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1“Meer dan de helft van de patiënten heeft bij de diagnose al uitzaaiingen”, maar nieuw middel tegen pancreaskanker biedt hoop&nbsp;&nbsp;HLNNieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlLimburgse huisartsen pleiten voor herziening van de richtlijnen voor ijzertekort bij vrouwen&nbsp;&nbsp;H",
       "sources": [
         {
           "name": "AD.nl",

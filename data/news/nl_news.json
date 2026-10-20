@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-20T03:15:39.021136+00:00",
-  "count": 7,
+  "fetched_at": "2026-10-20T10:53:08.345069+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "8548ed2f36e2",
-      "title": "Meer vrouwen zoeken oplossing voor ijzertekort, maar artsen worstelen met juiste aanpak - EenVandaag",
-      "published": "2026-10-18T06:05:41+00:00",
-      "summary": "Meer vrouwen zoeken oplossing voor ijzertekort, maar artsen worstelen met juiste aanpak&nbsp;&nbsp;EenVandaagMoe, duizelig en ouder dan 50? Slik dan niet zomaar ijzerpillen van de drogist&nbsp;&nbsp;Welingelichte KringenIJzertekort bij vrouwen vaak onderschat: 'Manier van testen en richtlijnen huisarts moeten anders'&nbsp;&nbsp;Headliner.nl",
+      "id": "d32ad4f7558c",
+      "title": "Griepprik halen of niet? Waarom het wel degelijk zin heeft - Radar (AVROTROS)",
+      "published": "2026-10-20T05:00:00+00:00",
+      "summary": "Griepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Beschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagLange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbERwSWJmeUs0bldDcDRUWHZqWFY2TnotREMxemZMeEZoUjRwNFVIdjMySlJZWVJxLUk5ZTI3dzRmeUd0WHgtN0tvb0MwWlgxMUVfZDlrM3dfTjVrN1hlamthcTlDWmZqWl9zbkJ2TjhhWXp5X2hINWViU0ZPTkFSbVJuX19QbzdjT21HUFlVM0hUam8wUkZDTnNpRWVqN0ZRQU9RRnFxdjBmNnF1REpoQVlGWnlMY2p2c3BhaXdXSWN5b2t5UmcxQTcyWFpMVUk?oc=5"
+          "name": "Radar (AVROTROS)",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGtJbDVEM3YyNFVOb28zS1A3azZVRHM4T0dyWGx2R1hMQk9IYm1vNFFaZnhsb21Sdmo4clB3bjJqNExnU1c4amFrc1JXSW1WN2tielEwdDhFYzN1Znc4NWxqdjZnZExEbVBubnFrMF9kMFpRS3FrQkppS3diRGY2ZGlJUE5Ed3NORGRIT0lfd2tZc0kwTkNIbWtoQXZWQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22b34cb1d50e",
+      "title": "Bij osteoporose krijgt maar de helft van de patiënten een scan van de wervelkolom - AD.nl",
+      "published": "2026-10-19T18:00:00+00:00",
+      "summary": "Bij osteoporose krijgt maar de helft van de patiënten een scan van de wervelkolom&nbsp;&nbsp;AD.nlBij sommige patiënten met botontkalking kan een hoestbui al tot een gebroken wervel leiden&nbsp;&nbsp;Het Parool",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWdETjdmMnp1M1FuOFh2SVV6UzBNREVoU2FLaFBCOGFlSFh6MVlzSGFYcUkyVnBfTUVoZE5mWWRPOV9pWnJDUFl6OG9iU0lsclg2N25NemV5ajBHWEJpeVNjNGdnM2V4eUIyaF9KSFp3bHJ4eGwwMGlXSWIwTWk4MkJWQXc3Y0YzNTJmUElienhIVEpmUExvYW45SlRTZ19UVmN1YTN2ckp1dVA1a1cwS01KQ2xkWElYbTlscw?oc=5"
         }
       ]
     },
@@ -28,34 +40,10 @@
       ]
     },
     {
-      "id": "eec1526c75eb",
-      "title": "Verrassing: microplastics worden chemisch actief en mogelijk gevaarlijk als ze afbreken in water - Duurzaamnieuws",
-      "published": "2026-10-16T13:24:47+00:00",
-      "summary": "Verrassing: microplastics worden chemisch actief en mogelijk gevaarlijk als ze afbreken in water&nbsp;&nbsp;DuurzaamnieuwsOnderzoek: microplastics vormen schadelijke stoffen in water die bloedcellen doen scheuren&nbsp;&nbsp;bnr.nlSchokkende ontdekking: meer microplastics in ons brein dan in andere organen!&nbsp;&nbsp;Futura, le média qui explore le mondeMicroplastics blijken schadelijker te kunnen zijn dan tot nu toe gedacht&nbsp;&nbsp;TW.nlMicroplastics blijken chemisch actief&nbsp;&nbsp;EOS We",
-      "sources": [
-        {
-          "name": "Duurzaamnieuws",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVJxdmJxZ3gyRkFvU0FWaDNWZzBCOTdOOHdZalZhNEVtYkNBZWtJamNmUExWZ3Jfa2Q2b0FTZUpqY3JmVlhSNWNMckJYYS10Ql9oMHYzdDF0OWg1a0FpajYyeTl6RHg1bjlqMldCc1hjUDNjTWNhc0xUVndfcThFRnI5c3VHVG9IMXByaTZldnBPMlRBeGwydHhtTE5xNzFTa05aVUpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccccb9ec3563",
-      "title": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg - AD.nl",
-      "published": "2026-10-13T04:00:00+00:00",
-      "summary": "Griepprik kan ziekenhuisopnames met 40 procent terugdringen, maar bijna de helft blijft nu weg&nbsp;&nbsp;AD.nlBeschermt de griepprik goed en is natuurlijke weerstand niet beter? Jullie vragen beantwoord&nbsp;&nbsp;EenVandaagGriepprik komt later dan normaal: dokter Ted legt uit wat dat betekent&nbsp;&nbsp;NPO Radio 5Waarom krijg ik een uitnodiging voor de griepprik? Huisarts geeft antwoord&nbsp;&nbsp;LibelleAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep We",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBhTk04dnVzaGtZNFVJZVF3S3UyN0YxUUhPVDJsYU81U2RBSEc1YXF2ZHpCVGJRMlM2S1dVZVZPejdZZk9LR0FQYXllcTRPb3dDYkItc2ZnLVRMRmlDZGY4T3VwWnJnQ2xibWxsS3pMMy05SDFwaFBFclNUb2VXakw4bWJ3NUNZdndkQWlJNVVYY19rNDhYa08tR1JZUnRrYzRIRWtQU3dwQ0NtQXBLcjExVTFNdGJDTC1MbFBmMWd2MllwWlZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c1c31134030",
       "title": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op - Metronieuws.nl",
       "published": "2026-10-19T07:55:51+00:00",
-      "summary": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren stemming niet aantoonbaar&nbsp;&nbsp;Agf.nl",
       "sources": [
         {
           "name": "Metronieuws.nl",
@@ -64,14 +52,14 @@
       ]
     },
     {
-      "id": "5122e0267e33",
-      "title": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’ - AD.nl",
-      "published": "2026-10-16T14:07:00+00:00",
-      "summary": "Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’&nbsp;&nbsp;AD.nl",
+      "id": "697a455f43ee",
+      "title": "Psychopaten verraden zich door hun taalgebruik, blijkt uit nieuw onderzoek – dit zijn de verborgen tekenen die je volgens een onderzoeker moet kennen - Wibnet",
+      "published": "2026-10-19T18:30:44+00:00",
+      "summary": "Psychopaten verraden zich door hun taalgebruik, blijkt uit nieuw onderzoek – dit zijn de verborgen tekenen die je volgens een onderzoeker moet kennen&nbsp;&nbsp;Wibnet",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5"
+          "name": "Wibnet",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTVBqTnJlSE1EWGhCRTZFNEN1cFYyTlZYZEw2bDFJbmdtMm5tWGJJQWxYZGIwbnFKak1rc2dvdk1BWkFfSU9BVW1VWUFxTTRFSjRXQlBoUnJrU0FTRWZIR3dmQVdsUTZSSmNlaFZubTVBSHJTeXUyQmtYbVBMdFUxZ0oycG5uYXU3U29YbzhodHJ5ZGpYdmNkNmk3cGN3X29SOTMxN1ktaVNxV0JZMW83M0dwbDZ3dTVVeTJzN0VQOURZRlR1YmZBSnZlZ3kxTWhod25VWWRKcmoxSmhYSUJWZUZIbFVzSldybFpaZ0JmRDVuZlVQUFUxSmFQbWJ1QQ?oc=5"
         }
       ]
     },

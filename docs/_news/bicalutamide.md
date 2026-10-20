@@ -14,7 +14,7 @@ permalink: /news/bicalutamide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
-<strong>Bicalutamide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Bicalutamide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,22 +34,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <li>leprosy (99.4%)</li>
 <li>multiple endocrine neoplasia (99.2%)</li>
 <li>pulmonary hypertension (99.2%)</li>
-<li class="indication-matched">female breast carcinoma (99.1%)<span class="indication-tag">📰 borstkanker</span></li>
+<li>female breast carcinoma (99.1%)</li>
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
-
-2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Temozolomide?">
-<strong>Temozolomide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 2 voorspelde indicaties.
+<strong>Temozolomide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temozolomide met he
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Liedewij kreeg op haar 29ste borstkanker: ‘Je bent niet veilig omdat je jong bent’](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
-
-2026-10-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUNPNkZUNDMtUGdnaEZzUW1hcEpIbzJfbk1oTDluWW15MmV4cXh3NWthd25MV2JVUzVJcmdVcE9UNXRzRmpaanNXb3o1SFNad1BrTGY4Ymh0ODNZQVpGbFg1aXJUbXJxV2ViWlZuNzgxQXpXdlZNOFFTQzMwMTRFczF1N2NOdXlPYVhJT0JXU1M4RHFLWlFqaWplMWNBYmlqel9zc0hXbmM5eXpFdWQyZWpiajZEVzA?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

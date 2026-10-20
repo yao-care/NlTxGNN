@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Felodipine: voorspelde nieuwe indicatie Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie"
 monitor_inn: "Felodipine"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Felodipine

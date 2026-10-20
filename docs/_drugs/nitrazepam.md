@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Nitrazepam: voorspelde nieuwe indicatie Slaapstoornis (inslapen en doorslapen) (bewijsniveau L3). Oorspronkelijke indicatie: Insomnie"
 monitor_inn: "Nitrazepam"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep", "Wernicke-Korsakoff syndrome"]
+predicted_indications: ["Wernicke-Korsakoff syndrome"]
 ---
 
 # Nitrazepam

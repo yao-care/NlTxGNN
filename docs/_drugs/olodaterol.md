@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Olodaterol: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Chronische obstructieve longziekte (COPD)"
+monitor_inn: "olodaterol"
+predicted_indications: ["bronchitis"]
 ---
 
 # Olodaterol

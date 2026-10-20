@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chlorthalidone: voorspelde nieuwe indicatie Primair erfelijk glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie en congestief hartfalen (afgeleid uit de kennisgraaf"
 monitor_inn: "chlorthalidone"
-predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
+predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
 ---
 
 # Chlorthalidone

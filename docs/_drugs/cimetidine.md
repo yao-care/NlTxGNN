@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cimetidine: voorspelde nieuwe indicatie Smouldering systemische mastocytose (bewijsniveau L5). Oorspronkelijke indicatie: Maagzweer, gastro-oesofageale refluxziekte, twaalfvingerigedarmzweer…"
 monitor_inn: "Cimetidine"
-predicted_indications: ["duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
+predicted_indications: ["peptic ulcer perforation", "lymphoadenopathic mastocytosis with eosinophilia", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 ---
 
 # Cimetidine

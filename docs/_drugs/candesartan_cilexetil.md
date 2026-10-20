@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Candesartan Cilexetil: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (hypertensive disorder / hypertension)"
 monitor_inn: "candesartan cilexetil"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 ---
 
 # Candesartan Cilexetil

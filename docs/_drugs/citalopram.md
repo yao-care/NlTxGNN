@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (OCD) (bewijsniveau L2). Oorspronkelijke indicatie: Depressieve stoornis en angststoornis"
 monitor_inn: "citalopram"
-predicted_indications: ["paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
 ---
 
 # Citalopram

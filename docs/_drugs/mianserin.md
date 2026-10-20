@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 monitor_inn: "mianserin"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic disorder"]
 ---
 
 # Mianserin

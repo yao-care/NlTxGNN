@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ketoconazole: voorspelde nieuwe indicatie Acne (bewijsniveau L4). Oorspronkelijke indicatie: Schimmelinfecties van de huid (o.a. tinea pedis, tinea corporis…"
+monitor_inn: "ketoconazole"
+predicted_indications: ["acne (disease)"]
 ---
 
 # Ketoconazole

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Verapamil: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie, atriumfibrilleren, acuut coronair syndroom…"
 monitor_inn: "verapamil"
-predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "periodic paralysis with transient compartment-like syndrome"]
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 ---
 
 # Verapamil

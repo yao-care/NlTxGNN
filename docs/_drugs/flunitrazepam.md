@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flunitrazepam: voorspelde nieuwe indicatie Insomnia (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 monitor_inn: "Flunitrazepam"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
 ---
 
 # Flunitrazepam

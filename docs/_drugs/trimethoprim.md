@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trimethoprim: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Urineweginfecties (aanvullend o.a. otitis media, pneumocystose…"
+monitor_inn: "Trimethoprim"
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Trimethoprim

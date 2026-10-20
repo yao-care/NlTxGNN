@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis B-virusinfectie, hiv-infectie, aids"
 monitor_inn: "lamivudine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 ---
 
 # Lamivudine

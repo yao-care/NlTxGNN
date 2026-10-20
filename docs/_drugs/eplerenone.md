@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Eplerenone: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoeningen)"
 monitor_inn: "eplerenone"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
 ---
 
 # Eplerenone

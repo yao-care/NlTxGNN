@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonair lymfoom (bewijsniveau L4). Oorspronkelijke indicatie: Borstkanker (borstcarcinoom / borstneoplasma)"
 monitor_inn: "epirubicin"
-predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "upper aerodigestive tract neoplasm"]
+predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 ---
 
 # Epirubicin

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Carvedilol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (volgens de kennisgraaf"
 monitor_inn: "Carvedilol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 ---
 
 # Carvedilol

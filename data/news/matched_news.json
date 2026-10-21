@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-21T03:10:43.205030+00:00",
-  "total_count": 7,
-  "matched_count": 2,
+  "last_updated": "2026-10-21T11:05:49.627455+00:00",
+  "total_count": 9,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "d347e171a60c",
+      "title": "Nu ook ebola in Nigeria: eerste besmetting vastgesteld bij vrouw in hoofdstad",
+      "published": "2026-10-20T19:17:58+00:00",
+      "summary": "Nu ook ebola in Nigeria: eerste besmetting vastgesteld bij vrouw in hoofdstad&nbsp;&nbsp;RTL.nlEbola-uitbraak breidt zich uit over Afrika: eerste besmetting vastgesteld in Nigeria&nbsp;&nbsp;de VolkskrantNa Congo, Oeganda en Kenia meldt ook Nigeria besmetting met ebolavirus&nbsp;&nbsp;NUEerste ebolabesmetting in Nigeria sinds nieuwe uitbraak in Afrika&nbsp;&nbsp;NOSLIVE Ebola duikt voor het eerst in West-Afrika op: Nigeria meldt besmette patiënt in hoofdstad Abuja&nbsp;&nbsp;VRT",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qbzEyLWprMXAwaEw5clFzMVg5WTVMVHdLYkx2b1p3MEFMODBIMWVmT0k4Ty1kVXB2RGRsb0V6eXdJMHdQVDlhd1pNOE9BdkxVWm5LcVpJTTZzZ1BkR192d2pqckxuTDl5bzJEWkhoLTVPcWNvckJPMDZRWldtY0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "29ae5baf6880",
       "title": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto",
@@ -158,7 +171,7 @@
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenAlles wat je moet weten over de griepprik: wie krijgt hem en waarom?&nbsp;&nbsp;Omroep West",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
@@ -179,6 +192,157 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "b64a32a47b84",
+      "title": "Wereldwijd bijna één op de acht gevallen van kanker gerelateerd aan infecties",
+      "published": "2026-10-20T08:18:00+00:00",
+      "summary": "Wereldwijd bijna één op de acht gevallen van kanker gerelateerd aan infecties&nbsp;&nbsp;medischcontact",
+      "sources": [
+        {
+          "name": "medischcontact",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEpMUng4NzJzcGZqSHFjZWhWa0ZiSXJRM0lyMGZvalRwT0NyTXlwVERGYU1PWksybUJITG56dHo3UV9XbmRWTkRWS2tIUmVvaFN2REp4UklfRnR4VmJGZWdWSEdtS1FHQV9KeE03eGctUi1mQ3JVWEc4N1ktUjh6N3RWX1Q2QmRvWXlsV0prUVh3ZUhPeTlBVTdYM1owS3lXcXRjMHFnbDE4b3czUE5NNDlKRW85MVlSN3hka1RqOUU0MlJpaGxoMzBJakdjbnBoY1hVcnhPZGVuRnFH?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "697a455f43ee",
@@ -207,13 +371,13 @@
       "matched_keywords": []
     },
     {
-      "id": "afd232356b82",
-      "title": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"",
+      "id": "fd037c9925f1",
+      "title": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\" - Pointer | KRO",
       "published": "2026-10-16T21:57:19+00:00",
-      "summary": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"&nbsp;&nbsp;Pointer",
+      "summary": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"&nbsp;&nbsp;Pointer | KRO-NCRV",
       "sources": [
         {
-          "name": "Pointer",
+          "name": "Pointer | KRO-NCRV",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW5ZRzVxVHU5ci1JTi1mMmdicF80c1B0OEZaeGFLR01NWVdYMlA3Ql9FWHh6ZnpFOHlaeFpMbzAtaTZRWnhES3dMSEZodUs2ZXJVMjZuZ0VReko1YUtFbnVoazdsd3BBUFlGd1NjQWdqWTFOTENLMnVmaS0tcXB1V1o3ZXJRZF92Xy1rTEFyYmtKZktWdWVneFNSSkZCaEJwQWNmYnFJWm8?oc=5"
         }
       ],
@@ -223,7 +387,7 @@
       "id": "51a25eba6b33",
       "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland",
       "published": "2026-10-15T16:08:06+00:00",
-      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Nieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlMensen met prediabetes krijgen bijna drie keer zo vaak een depressie&nbsp;&nbsp;HuisartsVandaagPositief Europees advies voor gericht medicijn tegen alvleesklierkanker&nbsp;&nbsp;assistentensite.nl",
+      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Medicijn voor uitgezaaide alvleesklierkanker mogelijk op Nederlandse markt&nbsp;&nbsp;NUNieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlMogelijk eerste medicijn voor uitgezaaide alvleesklierkanker: Europees comité geeft groen licht&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "AD.nl",

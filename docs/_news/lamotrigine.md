@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Lamotrigine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Lamotrigine. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Lamotrigine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/lamotrigine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lamotrigine?">
-<strong>Lamotrigine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Lamotrigine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lamotrigine met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L2</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>trigeminal neuralgia (99.9%)</li>
-<li>audiogenic seizures (99.4%)</li>
-<li>startle epilepsy (99.4%)</li>
-<li>micturation-induced seizures (99.4%)</li>
-<li>orgasm-induced seizures (99.4%)</li>
-<li>thinking seizures (99.4%)</li>
-<li>eating seizures (99.4%)</li>
-<li>reading seizures (99.3%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Trigeminusneuralgie (hoogst gerangschikte voorspelling met klinische onderbouwing; de nominaal hoogste score betrof "trigeminal nerve neoplasm", maar die is niet onderbouwd) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

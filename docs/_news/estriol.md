@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Estriol met het laa
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>amenorrhea (disease) (99.2%)</li>
+<li>Amenorroe (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

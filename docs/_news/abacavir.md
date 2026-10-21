@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Abacavir"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Abacavir. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Abacavir. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/abacavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Abacavir?">
-<strong>Abacavir</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Abacavir</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Abacavir met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Simian immunodeficiëntievirus-infectie (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

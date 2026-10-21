@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Desogestrel"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Desogestrel. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Desogestrel. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/desogestrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desogestrel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Desogestrel?">
-<strong>Desogestrel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Desogestrel</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Desogestrel met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>blunt duct adenosis of breast (99.9%)</li>
-<li>apocrine adenosis of breast (99.9%)</li>
-<li>acne (disease) (99.9%)</li>
-<li>fat necrosis of breast (99.9%)</li>
-<li>breast abscess (99.9%)</li>
-<li>lactation disease (99.9%)</li>
-<li>breast adenosis (99.8%)</li>
-<li>primary ovarian failure (99.7%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (99.5%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Amenorroe (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desogestrel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temazepam met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>sleep disorder, initiating and maintaining sleep (99.8%)</li>
+<li>Slaapstoornis, inslapen en doorslapen (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

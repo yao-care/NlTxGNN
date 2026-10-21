@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Diazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Diazepam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Diazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/diazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Diazepam?">
-<strong>Diazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Diazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Diazepam met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>insomnia (disease) (100.0%)</li>
-<li>cauda equina syndrome (100.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (100.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
-<li>antidepressant type abuse (100.0%)</li>
-<li>hallucinogen abuse (100.0%)</li>
-<li>barbiturate abuse (100.0%)</li>
-<li>specific developmental disorder (100.0%)</li>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>obsolete neurogenic bladder (disease) (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Insomnia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

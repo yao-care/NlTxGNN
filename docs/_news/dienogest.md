@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Dienogest"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Dienogest. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Dienogest. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/dienogest/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dienogest/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Dienogest?">
-<strong>Dienogest</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Dienogest</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Dienogest met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>Primaire ovariële insufficiëntie | 99,69% | L5 | Alleen modelvoorspelling; dienogest vervangt geen oestrogeen (99.0%)</li>
-<li>Fibrocystische borstaandoening | 99,60% | L4 | Eén publicatie (2009) over effecten op de borst; geen therapeutisch onderzoek (99.0%)</li>
-<li>Geïsoleerde groeihormoondeficiëntie | 99,53% | L5 | Geen aannemelijk mechanisme (99.0%)</li>
-<li>Symptomatische fragiele X-draagster | 99,46% | L5 | Indirect verband via ovariële insufficiëntie (99.0%)</li>
-<li>Blepharophimosis-epicanthus inversus-ptosis | 99,46% | L5 | Genetisch syndroom; geen bewijs (99.0%)</li>
-<li>Hypogonadotroop hypogonadisme | 99,46% | L5 | Mechanistisch onaannemelijk (dienogest onderdrukt gonadotrofines) (99.0%)</li>
-<li>Partiële trisomie/tetrasomie 5p | 99,43% | L5 | Waarschijnlijk netwerkartefact (99.0%)</li>
-<li>BPES door 3q23-herrangschikking | 99,43% | L5 | Netwerkinferentie; geen bewijs (99.0%)</li>
-<li>Partiële trisomie/tetrasomie 18p | 99,42% | L5 | Waarschijnlijk netwerkartefact (99.0%)</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Amenorroe (99.7%)</li>
+<li>Primaire ovariële insufficiëntie (99.7%)</li>
+<li>Fibrocystische borstaandoening (99.6%)</li>
+<li>Geïsoleerde groeihormoondeficiëntie (99.5%)</li>
+<li>Symptomatische fragiele X-draagster (99.5%)</li>
+<li>Blepharophimosis-epicanthus inversus-ptosis (99.5%)</li>
+<li>Hypogonadotroop hypogonadisme (99.5%)</li>
+<li>Partiële trisomie/tetrasomie 5p (99.4%)</li>
+<li>BPES door 3q23-herrangschikking (99.4%)</li>
+<li>Partiële trisomie/tetrasomie 18p (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dienogest/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

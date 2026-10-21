@@ -26,12 +26,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Desloratadine met h
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (6)</strong>:<ul>
-<li>cold urticaria (99.9%)</li>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>recalcitrant atopic dermatitis (99.8%)</li>
-<li>IgE responsiveness, atopic (99.6%)</li>
-<li>rosacea conjunctivitis (99.4%)</li>
+<li>Koude-urticaria (cold urticaria) (99.9%)</li>
+<li>Aandoening van de neusholte (99.9%)</li>
+<li>Acute laryngofaryngitis (99.8%)</li>
+<li>Therapieresistente atopische dermatitis (99.8%)</li>
+<li>Atopische IgE-responsiviteit (99.6%)</li>
+<li>Rosacea-conjunctivitis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desloratadine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

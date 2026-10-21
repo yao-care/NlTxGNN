@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Tadalafil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Tadalafil. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
+description: "Gezondheidsnieuws over Tadalafil. Oorspronkelijke indicatie: . 8 voorspelde indicaties."
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Tadalafil?">
-<strong>Tadalafil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
+<strong>Tadalafil</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 8 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Tadalafil met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>Hypertrichose | 99,98% | L5 | Hypertrichose is meestal een bijwerking, geen behandeldoel; mogelijk artefact (99.0%)</li>
-<li>Malformatiesyndroom met tand- en/of parodontale component | 99,97% | L5 | Geen mechanistisch verband (99.0%)</li>
-<li>Syndroom met Dandy-Walker-malformatie | 99,97% | L5 | Aangeboren structureel defect; geen verband (99.0%)</li>
-<li>Geïsoleerde genetische haarschachtafwijking | 99,96% | L5 | Structurele genafwijkingen, niet door PDE5-remming te beïnvloeden (99.0%)</li>
-<li>Familiaire geïsoleerde trichomegalie | 99,65% | L5 | Geen mechanisme of therapeutische behoefte (99.0%)</li>
-<li>Kyfoscoliotische hartziekte | 99,43% | L5 | Zwak, speculatief verband via pulmonale hypertensie; bij hypoxiegedreven vormen kunnen vaatverwijders de V/Q-mismatch verergeren (99.0%)</li>
-<li>Migraine met hersenstamaura | 99,08% | L4 | Alleen een casusbeschrijving waarin tadalafil een aura veroorzaakte (veiligheidssignaal) (99.0%)</li>
+<li><strong>Voorspelde indicaties (8)</strong>:<ul>
+<li>Ambras-type hypertrichosis universalis congenita (100.0%)</li>
+<li>Hypertrichose (100.0%)</li>
+<li>Malformatiesyndroom met tand- en/of parodontale component (100.0%)</li>
+<li>Syndroom met Dandy-Walker-malformatie (100.0%)</li>
+<li>Geïsoleerde genetische haarschachtafwijking (100.0%)</li>
+<li>Familiaire geïsoleerde trichomegalie (99.7%)</li>
+<li>Kyfoscoliotische hartziekte (99.4%)</li>
+<li>Migraine met hersenstamaura (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

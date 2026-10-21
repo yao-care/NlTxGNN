@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Paclitaxel"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Paclitaxel. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Paclitaxel. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/paclitaxel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>female breast carcinoma (100.0%)</li>
-<li>estrogen-receptor negative breast cancer (99.9%)</li>
-<li>hormone-resistant breast carcinoma (99.9%)</li>
-<li>Ehrlich tumor carcinoma (99.9%)</li>
-<li>estrogen-receptor positive breast cancer (99.9%)</li>
-<li>bilateral breast carcinoma (99.9%)</li>
-<li>breast carcinoma by gene expression profile (99.9%)</li>
-<li>nipple carcinoma (99.9%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Borstkanker bij vrouwen (female breast carcinoma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

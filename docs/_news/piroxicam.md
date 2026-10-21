@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Piroxicam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Piroxicam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Piroxicam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/piroxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piroxicam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Piroxicam?">
-<strong>Piroxicam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Piroxicam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Piroxicam met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>WHIM syndrome (100.0%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Colobomateuze microftalmie-rhizomelische dysplasie (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piroxicam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

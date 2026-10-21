@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Orlistat met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>hypervitaminosis (99.4%)</li>
+<li>Hypervitaminose (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

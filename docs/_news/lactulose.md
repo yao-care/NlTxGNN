@@ -26,14 +26,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lactulose met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (8)</strong>:<ul>
-<li>Acute urinezuurnefropathie | 99,89% | L5 | Hold (geen bewijs, geen plausibel mechanisme) (99.0%)</li>
-<li>Nefrolithiase | 99,78% | L5 | Hold (geen bewijs) (99.0%)</li>
-<li>Obstructieve icterus | 99,53% | L3 | Onderzoeksvraag (99.0%)</li>
-<li>Galwegziekte | 99,47% | L3 | Onderzoeksvraag (grotendeels overlappend met rang 3) (99.0%)</li>
-<li>Galwegaandoening (biliary tract disease) | 99,38% | L4 | Hold (indirect bewijs) (99.0%)</li>
-<li>Hyperfosfatemie | 99,37% | L4 | Hold (alleen een review over obstipatie bij nierziekte) (99.0%)</li>
-<li>Inspanningsgeïnduceerde maligne hyperthermie | 99,14% | L5 | Hold (geen bewijs) (99.0%)</li>
-<li>Galwegneoplasma | 99,12% | L4 | Hold (alleen indirect, ondersteunend bewijs) (99.0%)</li>
+<li>Obstructieve icterus (99.5%)</li>
+<li>Acute urinezuurnefropathie (99.9%)</li>
+<li>Nefrolithiase (99.8%)</li>
+<li>Galwegziekte (99.5%)</li>
+<li>Galwegaandoening (biliary tract disease) (99.4%)</li>
+<li>Hyperfosfatemie (99.4%)</li>
+<li>Inspanningsgeïnduceerde maligne hyperthermie (99.1%)</li>
+<li>Galwegneoplasma (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

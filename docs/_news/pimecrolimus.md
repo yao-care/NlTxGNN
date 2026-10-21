@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Pimecrolimus"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Pimecrolimus. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Pimecrolimus. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/pimecrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimecrolimus/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Pimecrolimus?">
-<strong>Pimecrolimus</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Pimecrolimus</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Pimecrolimus met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L2</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>Dermatitis (grotendeels overlappend met de bestaande indicatie) | 99,37% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) | 99,32% | L2 | Onderzoeksvraag (99.0%)</li>
-<li>Acrodermatitis chronica atrophicans | 99,01% | L5 | Hold (99.0%)</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>Seborroïsche dermatitis (99.7%)</li>
+<li>Dermatitis (grotendeels overlappend met de bestaande indicatie) (99.4%)</li>
+<li>Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) (99.3%)</li>
+<li>Acrodermatitis chronica atrophicans (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimecrolimus/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

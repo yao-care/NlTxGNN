@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ritonavir"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ritonavir. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ritonavir. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/ritonavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ritonavir?">
-<strong>Ritonavir</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Ritonavir</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ritonavir met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Felien verworven immunodeficiëntiesyndroom (kattenaids) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

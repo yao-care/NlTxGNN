@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Lormetazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Lormetazepam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Lormetazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/lormetazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lormetazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lormetazepam?">
-<strong>Lormetazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Lormetazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lormetazepam met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>insomnia (disease) (100.0%)</li>
-<li>alcohol withdrawal delirium (99.9%)</li>
-<li>antidepressant type abuse (99.8%)</li>
-<li>hallucinogen abuse (99.8%)</li>
-<li>barbiturate abuse (99.8%)</li>
-<li>anxiety (99.8%)</li>
-<li>cauda equina syndrome (99.7%)</li>
-<li>anxiety disorder (99.6%)</li>
-<li>sleep disorder, initiating and maintaining sleep (99.6%)</li>
-<li>benign paroxysmal torticollis of infancy (99.4%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Insomnia (slapeloosheid) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lormetazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

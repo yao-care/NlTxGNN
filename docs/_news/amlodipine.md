@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Amlodipine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Amlodipine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Amlodipine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/amlodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Amlodipine?">
-<strong>Amlodipine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Amlodipine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Amlodipine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>brain stem infarction (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>cerebral artery occlusion (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>MRI defined brain infarct (99.9%)</li>
-<li>ABri amyloidosis (99.8%)</li>
-<li>intracerebral hemorrhage (99.8%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Herseninfarct van de hersenstam (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

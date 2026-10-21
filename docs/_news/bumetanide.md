@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bumetanide met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>acute pulmonary heart disease (99.6%)</li>
+<li>Acute pulmonale hartziekte (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bumetanide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

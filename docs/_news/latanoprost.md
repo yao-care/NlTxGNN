@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Latanoprost"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Latanoprost. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Latanoprost. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Latanoprost?">
-<strong>Latanoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Latanoprost</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Latanoprost met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>Viscerale calciphylaxie | 99,83% | Hold | Geen duidelijk mechanistisch verband; minimale systemische blootstelling bij oogdruppels (99.0%)</li>
-<li>Hypotrichosis simplex van de hoofdhuid | 99,81% | Onderzoeksvraag | Prostaglandineanalogen verlengen de anagene haarfase (vgl. wimperverlenging); effect bij erfelijke haarloosheid onbewezen (99.0%)</li>
-<li>Veneus thoracic-outlet-syndroom | 99,78% | Hold | Mechanische compressie; geen verband met werking (99.0%)</li>
-<li>Arterieel thoracic-outlet-syndroom | 99,78% | Hold | Identieke score als veneuze vorm, wijst op grafartefact (99.0%)</li>
-<li>Neurogeen thoracic-outlet-syndroom | 99,72% | Hold | Compressie van de plexus brachialis; geen verband (99.0%)</li>
-<li>Congenitale hypotrichosis milia | 99,71% | Onderzoeksvraag | Plausibel via haarfollikelcyclus, maar genetische oorzaak kan respons beperken (99.0%)</li>
-<li>Angiodysplasie van de maag | 99,70% | Hold | Geen duidelijk verband; oogdruppel bereikt de maag niet (99.0%)</li>
-<li>Blauwe-teensyndroom | 99,69% | Hold | Indirect verband; verwaarloosbare systemische blootstelling (99.0%)</li>
-<li>Lymfangiëctasie | 99,67% | Hold | Speculatief verband via prostaglandinesignalering (99.0%)</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Primair erfelijk glaucoom (99.9%)</li>
+<li>Viscerale calciphylaxie (99.8%)</li>
+<li>Hypotrichosis simplex van de hoofdhuid (99.8%)</li>
+<li>Veneus thoracic-outlet-syndroom (99.8%)</li>
+<li>Arterieel thoracic-outlet-syndroom (99.8%)</li>
+<li>Neurogeen thoracic-outlet-syndroom (99.7%)</li>
+<li>Congenitale hypotrichosis milia (99.7%)</li>
+<li>Angiodysplasie van de maag (99.7%)</li>
+<li>Blauwe-teensyndroom (99.7%)</li>
+<li>Lymfangiëctasie (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

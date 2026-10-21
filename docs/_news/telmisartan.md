@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Telmisartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Telmisartan. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Telmisartan. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/telmisartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Telmisartan?">
-<strong>Telmisartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Telmisartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Telmisartan met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>Prinzmetal angina (100.0%)</li>
-<li>brain stem infarction (100.0%)</li>
-<li>ABri amyloidosis (100.0%)</li>
-<li>cerebral artery occlusion (100.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>intracerebral hemorrhage (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Prinzmetal-angina (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

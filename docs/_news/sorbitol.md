@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sorbitol met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>exercise-induced malignant hyperthermia (99.4%)</li>
+<li>Inspanningsgebonden maligne hyperthermie (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorbitol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

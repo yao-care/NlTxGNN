@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acetaminophen met h
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>migraine with brainstem aura (99.2%)</li>
+<li>Migraine met hersenstamaura (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

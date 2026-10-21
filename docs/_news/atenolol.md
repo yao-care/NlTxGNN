@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Atenolol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Atenolol. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Atenolol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/atenolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atenolol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Atenolol?">
-<strong>Atenolol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Atenolol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>posteroinferior myocardial infarction (99.9%)</li>
-<li>posterolateral myocardial infarction (99.9%)</li>
-<li>malignant renovascular hypertension (99.8%)</li>
-<li>malignant hypertensive renal disease (99.8%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
-<li>septal myocardial infarction (99.8%)</li>
-<li>Braddock syndrome (99.8%)</li>
-<li>chronic pulmonary heart disease (99.0%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Posteroinferieur myocardinfarct (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

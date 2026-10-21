@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Capecitabine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Capecitabine. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Capecitabine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/capecitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capecitabine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Capecitabine?">
-<strong>Capecitabine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Capecitabine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Capecitabine met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>gastric adenocarcinoma and proximal polyposis of the stomach (99.9%)</li>
-<li>gastric tubular adenocarcinoma (99.9%)</li>
-<li>microinvasive gastric cancer (99.9%)</li>
-<li>signet ring cell gastric adenocarcinoma (99.9%)</li>
-<li>gastric cardia adenocarcinoma (99.9%)</li>
-<li>gastric pylorus carcinoma (99.9%)</li>
-<li>carcinoma of stomach, salivary gland type (99.9%)</li>
-<li>gastric body carcinoma (99.9%)</li>
-<li>Epstein-Barr virus-associated gastric carcinoma (99.9%)</li>
-<li>malignant gastric granular cell tumor (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Gastrisch adenocarcinoom en proximale poliepose van de maag (GAPPS) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

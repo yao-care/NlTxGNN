@@ -26,16 +26,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Hyaluronidase met h
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>esotropia (99.9%)</li>
-<li>amenorrhea (disease) (99.8%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.8%)</li>
-<li>renal tubular acidosis (99.8%)</li>
-<li>dermatitis (99.7%)</li>
-<li>diabetic retinopathy (99.7%)</li>
-<li>acrodermatitis chronica atrophicans (99.6%)</li>
-<li>diabetic cataract (99.5%)</li>
-<li>neonatal dermatomyositis (99.5%)</li>
-<li>non-syndromic esophageal malformation (99.5%)</li>
+<li>Diabetische retinopathie (hoogst scorende voorspelling: esotropie) (99.7%)</li>
+<li>Esotropie (99.9%)</li>
+<li>Amenorroe (99.8%)</li>
+<li>Ernstige niet-proliferatieve diabetische retinopathie (99.8%)</li>
+<li>Renale tubulaire acidose (99.8%)</li>
+<li>Dermatitis (99.7%)</li>
+<li>Acrodermatitis chronica atrophicans (99.6%)</li>
+<li>Diabetische cataract (99.5%)</li>
+<li>Neonatale dermatomyositis (99.5%)</li>
+<li>Niet-syndromale oesofagusmalformatie (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hyaluronidase/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

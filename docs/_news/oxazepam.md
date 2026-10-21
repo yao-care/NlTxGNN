@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Oxazepam met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
+<li>Slapeloosheid (insomnia) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

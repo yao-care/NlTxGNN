@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Etoposide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Etoposide. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Etoposide. Oorspronkelijke indicatie: . 11 voorspelde indicaties."
 permalink: /news/etoposide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etoposide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Etoposide?">
-<strong>Etoposide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Etoposide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 11 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,18 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoposide met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>Goed gedifferentieerd foetaal adenocarcinoom van de long | 99,94% | L4 | Hold (99.0%)</li>
-<li>Primair pulmonaal lymfoom | 99,94% | L4 | Hold (99.0%)</li>
-<li>Pulmonaal blastoom | 99,94% | L4 | Hold (99.0%)</li>
-<li>**Ewing-sarcoom** | 99,85% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Botryoïde embryonaal rabdomyosarcoom van de vagina | 99,80% | L4 | Hold (99.0%)</li>
-<li>Rabdomyosarcoom | 99,79% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg | 99,76% | L5 | Hold (99.0%)</li>
-<li>Parameningeaal embryonaal rabdomyosarcoom | 99,76% | L4 | Hold (99.0%)</li>
-<li>Rabdomyosarcoom van de extrahepatische galweg | 99,75% | L5 | Hold (99.0%)</li>
-<li>Embryonaal rabdomyosarcoom van de prostaat | 99,74% | L4 | Hold (99.0%)</li>
+<li><strong>Voorspelde indicaties (11)</strong>:<ul>
+<li>Ewing-sarcoom (rang 4 van de 10 voorspellingen; zie de tabel hieronder) (99.8%)</li>
+<li>Goed gedifferentieerd foetaal adenocarcinoom van de long (99.9%)</li>
+<li>Primair pulmonaal lymfoom (99.9%)</li>
+<li>Pulmonaal blastoom (99.9%)</li>
+<li>Ewing-sarcoom (99.8%)</li>
+<li>Botryoïde embryonaal rabdomyosarcoom van de vagina (99.8%)</li>
+<li>Rabdomyosarcoom (99.8%)</li>
+<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg (99.8%)</li>
+<li>Parameningeaal embryonaal rabdomyosarcoom (99.8%)</li>
+<li>Rabdomyosarcoom van de extrahepatische galweg (99.8%)</li>
+<li>Embryonaal rabdomyosarcoom van de prostaat (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoposide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

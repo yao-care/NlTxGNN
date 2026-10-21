@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Didanosine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Didanosine. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Didanosine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/didanosine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/didanosine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Didanosine?">
-<strong>Didanosine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Didanosine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Didanosine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (99.3%)</li>
-<li>simian immunodeficiency virus infection (99.3%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.3%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Felien verworven immuundeficiëntiesyndroom (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/didanosine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

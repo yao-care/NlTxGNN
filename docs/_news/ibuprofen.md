@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ibuprofen"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ibuprofen. Oorspronkelijke indicatie: . 6 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ibuprofen. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ibuprofen?">
-<strong>Ibuprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 6 voorspelde indicaties.
+<strong>Ibuprofen</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 7 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ibuprofen met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (6)</strong>:<ul>
-<li>Brachyolmie-amelogenesis imperfecta-syndroom | 99,71% | Geen onderbouwd verband (99.0%)</li>
-<li>Myosclerose | 99,68% | Zwak, speculatief (hooguit symptomatische pijnverlichting) (99.0%)</li>
-<li>Brachyolmie | 99,67% | Geen onderbouwd verband (99.0%)</li>
-<li>Brachydactylie-syndactylie-syndroom | 99,66% | Geen onderbouwd verband; foetale veiligheidszorgen (99.0%)</li>
-<li>Pseudoachondroplasie | 99,66% | Indirect en alleen symptomatisch (gewrichtspijn) (99.0%)</li>
-<li>Colobomateuze microftalmie-rizomele dysplasie-syndroom | 99,60% | Geen onderbouwd verband (99.0%)</li>
+<li><strong>Voorspelde indicaties (7)</strong>:<ul>
+<li>Acromesomelische dysplasie, type Hunter-Thompson (99.7%)</li>
+<li>Brachyolmie-amelogenesis imperfecta-syndroom (99.7%)</li>
+<li>Myosclerose (99.7%)</li>
+<li>Brachyolmie (99.7%)</li>
+<li>Brachydactylie-syndactylie-syndroom (99.7%)</li>
+<li>Pseudoachondroplasie (99.7%)</li>
+<li>Colobomateuze microftalmie-rizomele dysplasie-syndroom (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Carvedilol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Carvedilol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Carvedilol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/carvedilol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carvedilol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Carvedilol?">
-<strong>Carvedilol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Carvedilol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Carvedilol met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.5%)</li>
-<li>malignant renovascular hypertension (99.5%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.5%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.5%)</li>
-<li>Braddock syndrome (99.4%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Maligne hypertensieve nierziekte (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

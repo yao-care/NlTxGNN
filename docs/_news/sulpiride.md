@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Sulpiride"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Sulpiride. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Sulpiride. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/sulpiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulpiride/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Sulpiride?">
-<strong>Sulpiride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Sulpiride</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sulpiride met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>retinal dystrophy with or without extraocular anomalies (100.0%)</li>
-<li>hydranencephaly (disease) (99.9%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Retinale dystrofie met of zonder extraoculaire afwijkingen (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulpiride/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

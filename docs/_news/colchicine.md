@@ -26,9 +26,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Colchicine met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>Plasmodium falciparum malaria (99.6%)</li>
-<li>familial Mediterranean fever, autosomal dominant (99.4%)</li>
-<li>dermatofibrosarcoma protuberans (99.4%)</li>
+<li>Plasmodium falciparum-malaria (99.6%)</li>
+<li>Familiaire mediterrane koorts, autosomaal dominant (99.4%)</li>
+<li>Dermatofibrosarcoma protuberans (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/colchicine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

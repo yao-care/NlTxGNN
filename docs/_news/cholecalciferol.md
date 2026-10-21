@@ -26,13 +26,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cholecalciferol met
 <ul>
 <li><strong>Bewijsniveau</strong>: L2</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
-<li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>
-<li>craniofacial conodysplasia (99.8%)</li>
-<li>Dahlberg-Borer-Newcomer syndrome (99.7%)</li>
-<li>hypophosphatemic rickets (99.2%)</li>
-<li>renal osteodystrophy (99.1%)</li>
-<li>renal tubular acidosis (99.1%)</li>
+<li>Renale osteodystrofie (99.1%)</li>
+<li>Familiale geïsoleerde hypoparathyreoïdie door verstoorde PTH-secretie (99.8%)</li>
+<li>Acromesomele dysplasie, type Campailla-Martinelli (99.8%)</li>
+<li>Craniofaciale conodysplasie (99.7%)</li>
+<li>Dahlberg-Borer-Newcomer-syndroom (99.7%)</li>
+<li>Hypofosfatemische rachitis (99.2%)</li>
+<li>Renale tubulaire acidose (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cholecalciferol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

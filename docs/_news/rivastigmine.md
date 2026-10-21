@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Rivastigmine met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>glaucoma (99.3%)</li>
+<li>Glaucoom (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

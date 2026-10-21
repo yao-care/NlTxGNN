@@ -26,15 +26,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cimetidine met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>Smouldering systemic mastocytosis (99.8%)</li>
-<li>active peptic ulcer disease (99.8%)</li>
-<li>peptic ulcer perforation (99.8%)</li>
-<li>gastrojejunal ulcer (99.8%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.8%)</li>
-<li>duodenogastric reflux (99.5%)</li>
-<li>duodenal obstruction (99.4%)</li>
-<li>acne (disease) (99.3%)</li>
-<li>abnormality of glucagon secretion (99.1%)</li>
+<li>Smouldering systemische mastocytose (99.8%)</li>
+<li>Actieve peptische ulcusziekte (99.8%)</li>
+<li>Peptische ulcusperforatie (99.8%)</li>
+<li>Gastrojejunaal ulcus (99.8%)</li>
+<li>Lymfadenopathische mastocytose met eosinofilie (99.8%)</li>
+<li>Duodenogastrische reflux (99.5%)</li>
+<li>Duodenale obstructie (99.4%)</li>
+<li>Acne (99.3%)</li>
+<li>Afwijkende glucagonsecretie (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cimetidine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

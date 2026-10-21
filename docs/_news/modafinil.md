@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Modafinil met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>insomnia (disease) (99.8%)</li>
+<li>Insomnie (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/modafinil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

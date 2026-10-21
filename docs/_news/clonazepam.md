@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Clonazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Clonazepam. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Clonazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/clonazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clonazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Clonazepam?">
-<strong>Clonazepam</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Clonazepam</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clonazepam met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>restless legs syndrome (99.7%)</li>
-<li>insomnia (disease) (99.3%)</li>
-<li>trigeminal nerve neoplasm (99.3%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Restless legs-syndroom (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

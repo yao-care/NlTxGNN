@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Mannitol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Mannitol. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Mannitol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/mannitol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Mannitol?">
-<strong>Mannitol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Mannitol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Mannitol met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
-<li>acute pulmonary heart disease (99.9%)</li>
-<li>exercise-induced malignant hyperthermia (99.9%)</li>
-<li>malignant hyperthermia, susceptibility to (99.8%)</li>
-<li>familial periodic paralysis (99.8%)</li>
-<li>hypokalemic periodic paralysis (99.7%)</li>
-<li>congenital multicore myopathy with external ophthalmoplegia (99.7%)</li>
-<li>moderate multiminicore disease with hand involvement (99.7%)</li>
-<li>nephrogenic diabetes insipidus (99.7%)</li>
-<li>central core myopathy (99.7%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Nefrogeen syndroom van inadequate antidiurese (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

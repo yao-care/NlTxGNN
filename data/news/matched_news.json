@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T21:12:10.012517+00:00",
-  "total_count": 8,
+  "last_updated": "2026-10-21T03:10:43.205030+00:00",
+  "total_count": 7,
   "matched_count": 2,
   "news": [
     {
@@ -194,19 +194,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1f3dd5574a30",
-      "title": "Dit vaccin is aanbevolen vanaf 60 jaar, maar kost je maar liefst 340 euro",
-      "published": "2026-10-19T10:30:00+00:00",
-      "summary": "Dit vaccin is aanbevolen vanaf 60 jaar, maar kost je maar liefst 340 euro&nbsp;&nbsp;Redactie24",
-      "sources": [
-        {
-          "name": "Redactie24",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzJBdGhucEVRWEdtZnVzUFUyOXA4S19hMVBkY2dIM2FLNFMzNHhuY1c1OEptRjA0NlZlWEs4b0VVcjd4VzBNRmFYZ0daQjRzWDUzVzhpdzBNNEJmdnYwR2REcmIxdFBjZ2VFMzFBYTE5NGNyMzVuRGpGTWRzLUpmaGgzVTc3TzJ4VU10U3o3T3RMTVMzYlhMWlhzeUxtYy1iUHpXT3NEM1BReHJyRjVYZndn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2c1c31134030",
       "title": "Onderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op",
       "published": "2026-10-19T07:55:51+00:00",
@@ -236,7 +223,7 @@
       "id": "51a25eba6b33",
       "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland",
       "published": "2026-10-15T16:08:06+00:00",
-      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1“Meer dan de helft van de patiënten heeft bij de diagnose al uitzaaiingen”, maar nieuw middel tegen pancreaskanker biedt hoop&nbsp;&nbsp;HLNNieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlLimburgse huisartsen pleiten voor herziening van de richtlijnen voor ijzertekort bij vrouwen&nbsp;&nbsp;H",
+      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Nieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlMensen met prediabetes krijgen bijna drie keer zo vaak een depressie&nbsp;&nbsp;HuisartsVandaagPositief Europees advies voor gericht medicijn tegen alvleesklierkanker&nbsp;&nbsp;assistentensite.nl",
       "sources": [
         {
           "name": "AD.nl",

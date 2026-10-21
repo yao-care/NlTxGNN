@@ -26,12 +26,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Propranolol met het
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (6)</strong>:<ul>
-<li>distal myopathy, Tateyama type (99.4%)</li>
-<li>congenital myopathy with excess of thin filaments (99.3%)</li>
-<li>hypertrophic cardiomyopathy due to intensive athletic training (99.2%)</li>
-<li>chondroma (99.1%)</li>
-<li>cirrhotic cardiomyopathy (99.1%)</li>
-<li>cardiomyopathy (99.1%)</li>
+<li>Distale myopathie, type Tateyama (99.4%)</li>
+<li>Aangeboren myopathie met overmaat aan dunne filamenten (99.3%)</li>
+<li>Hypertrofische cardiomyopathie door intensieve sporttraining (99.2%)</li>
+<li>Chondroom (99.1%)</li>
+<li>Cirrotische cardiomyopathie (99.1%)</li>
+<li>Cardiomyopathie (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

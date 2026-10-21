@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Everolimus"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Everolimus. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Everolimus. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/everolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/everolimus/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Everolimus?">
-<strong>Everolimus</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Everolimus</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Everolimus met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>liposarcoma (99.9%)</li>
-<li>ovarian myxoid liposarcoma (99.8%)</li>
-<li>dermatofibrosarcoma protuberans (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
-<li>renal cell carcinoma associated with neuroblastoma (99.7%)</li>
-<li>unclassified renal cell carcinoma (99.7%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Liposarcoom (met name gededifferentieerd liposarcoom) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

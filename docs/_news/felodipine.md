@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Felodipine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Felodipine. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
+description: "Gezondheidsnieuws over Felodipine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/felodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Felodipine?">
-<strong>Felodipine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 7 voorspelde indicaties.
+<strong>Felodipine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Felodipine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>chronic pulmonary heart disease (99.2%)</li>
-<li>Prinzmetal angina (99.1%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

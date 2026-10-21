@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Adenosine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Adenosine. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
+description: "Gezondheidsnieuws over Adenosine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/adenosine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/adenosine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Adenosine?">
-<strong>Adenosine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 2 voorspelde indicaties.
+<strong>Adenosine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Adenosine met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (2)</strong>:<ul>
-<li>obsolete bundle branch block (99.9%)</li>
-<li>catecholaminergic polymorphic ventricular tachycardia (99.4%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Bundeltakblok (verouderde ontologieterm) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adenosine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

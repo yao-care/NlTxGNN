@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Propofol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Propofol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Propofol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/propofol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propofol/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Propofol?">
-<strong>Propofol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Propofol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Propofol met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L2</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>Prinzmetal angina (99.2%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.2%)</li>
-<li>Tourette syndrome (99.0%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Migraine (migraine disorder) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propofol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

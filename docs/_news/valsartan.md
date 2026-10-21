@@ -26,13 +26,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>malignant renovascular hypertension (100.0%)</li>
-<li>malignant hypertensive renal disease (100.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (100.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (100.0%)</li>
-<li>Braddock syndrome (100.0%)</li>
-<li>chronic pulmonary heart disease (99.6%)</li>
-<li>Prinzmetal angina (99.5%)</li>
+<li>Maligne renovasculaire hypertensie (100.0%)</li>
+<li>Maligne hypertensieve nierziekte (100.0%)</li>
+<li>Pulmonale hypertensie, onduidelijk multifactorieel (100.0%)</li>
+<li>Pulmonale hypertensie door longziekte/hypoxie (100.0%)</li>
+<li>Braddock-syndroom (100.0%)</li>
+<li>Chronisch pulmonaal hartlijden (99.6%)</li>
+<li>Prinzmetal-angina (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

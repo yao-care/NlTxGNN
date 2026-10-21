@@ -26,15 +26,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Acarbose met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>focal stiff limb syndrome (99.7%)</li>
-<li>classic stiff person syndrome (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
-<li>opsismodysplasia (99.6%)</li>
-<li>drug-induced localized lipodystrophy (99.2%)</li>
-<li>centrifugal lipodystrophy (99.2%)</li>
-<li>pressure-induced localized lipoatrophy (99.2%)</li>
-<li>idiopathic localized lipodystrophy (99.2%)</li>
-<li>pancreatic agenesis (99.2%)</li>
+<li>Focaal stijve-ledemaatsyndroom (99.7%)</li>
+<li>Klassiek stijve-persoonsyndroom (99.7%)</li>
+<li>Thiamine-responsief disfunctiesyndroom (99.6%)</li>
+<li>Opsismodysplasie (99.6%)</li>
+<li>Geneesmiddelgeïnduceerde gelokaliseerde lipodystrofie (99.2%)</li>
+<li>Centrifugale lipodystrofie (99.2%)</li>
+<li>Drukgeïnduceerde gelokaliseerde lipoatrofie (99.2%)</li>
+<li>Idiopathische gelokaliseerde lipodystrofie (99.2%)</li>
+<li>Pancreasagenesie (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acarbose/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

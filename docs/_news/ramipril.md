@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ramipril"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ramipril. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ramipril. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/ramipril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ramipril/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ramipril?">
-<strong>Ramipril</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Ramipril</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ramipril met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>brain stem infarction (99.9%)</li>
-<li>Prinzmetal angina (99.8%)</li>
-<li>intracerebral hemorrhage (99.8%)</li>
-<li>ABri amyloidosis (99.8%)</li>
-<li>cerebral artery occlusion (99.7%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Pulmonale hypertensie door longziekte en/of hypoxie (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Flunitrazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Flunitrazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/flunitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Flunitrazepam?">
-<strong>Flunitrazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Flunitrazepam</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Flunitrazepam met h
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>anxiety (99.6%)</li>
-<li>anxiety disorder (99.6%)</li>
-<li>alcohol withdrawal delirium (99.5%)</li>
-<li>migraine with or without aura, susceptibility to (99.5%)</li>
-<li>agoraphobia (99.4%)</li>
-<li>benign paroxysmal torticollis of infancy (99.4%)</li>
-<li>atrophoderma vermiculata (99.2%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Insomnia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

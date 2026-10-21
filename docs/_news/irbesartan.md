@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Irbesartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Irbesartan. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Irbesartan. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
 permalink: /news/irbesartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Irbesartan?">
-<strong>Irbesartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Irbesartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 4 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Irbesartan met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>Maligne renovasculaire hypertensie | 99,31% | L5 | Hold (99.0%)</li>
-<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,25% | L5 | Hold (99.0%)</li>
-<li>Pulmonale hypertensie door longziekte en/of hypoxie | 99,25% | L4 | Onderzoeksvraag (99.0%)</li>
+<li><strong>Voorspelde indicaties (4)</strong>:<ul>
+<li>Maligne hypertensieve nierziekte (99.3%)</li>
+<li>Maligne renovasculaire hypertensie (99.3%)</li>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (99.2%)</li>
+<li>Pulmonale hypertensie door longziekte en/of hypoxie (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

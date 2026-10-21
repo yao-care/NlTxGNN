@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Olanzapine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Olanzapine. Oorspronkelijke indicatie: . 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Olanzapine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/olanzapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Olanzapine?">
-<strong>Olanzapine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Olanzapine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Olanzapine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>agoraphobia (99.5%)</li>
-<li>dysthymic disorder (99.3%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Benigne paroxismale torticollis van de kindertijd (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -26,10 +26,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Epinephrine met het
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (4)</strong>:<ul>
-<li>obstructive lung disease (99.7%)</li>
-<li>food-dependent exercise-induced anaphylaxis (99.6%)</li>
-<li>Rienhoff syndrome (99.6%)</li>
-<li>respiratory malformation (99.6%)</li>
+<li>Obstructieve longziekte (99.7%)</li>
+<li>Voedselafhankelijke inspanningsgeïnduceerde anafylaxie (99.6%)</li>
+<li>Rienhoff-syndroom (99.6%)</li>
+<li>Respiratoire malformatie (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

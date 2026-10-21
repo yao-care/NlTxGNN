@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Temozolomide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Temozolomide. Oorspronkelijke indicatie: . 2 voorspelde indicaties."
+description: "Gezondheidsnieuws over Temozolomide. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/temozolomide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Temozolomide?">
-<strong>Temozolomide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 2 voorspelde indicaties.
+<strong>Temozolomide</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temozolomide met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
-<li><strong>Voorspelde indicaties (2)</strong>:<ul>
-<li>adult astrocytic tumour (99.4%)</li>
-<li>cauda equina neoplasm (99.3%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Volwassen astrocytair gezwel (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

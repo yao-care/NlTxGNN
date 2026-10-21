@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Pimozide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Pimozide. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Pimozide. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/pimozide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimozide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Pimozide?">
-<strong>Pimozide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Pimozide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Pimozide met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>trichotillomania (100.0%)</li>
-<li>manic bipolar affective disorder (100.0%)</li>
-<li>insomnia (disease) (100.0%)</li>
-<li>major affective disorder (100.0%)</li>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>faciodigitogenital syndrome (99.9%)</li>
-<li>Malan overgrowth syndrome (99.8%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.7%)</li>
-<li>agoraphobia (99.7%)</li>
-<li>benign paroxysmal torticollis of infancy (99.7%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Trichotillomanie (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimozide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

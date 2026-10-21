@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Famciclovir"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Famciclovir. Oorspronkelijke indicatie: . 9 voorspelde indicaties."
+description: "Gezondheidsnieuws over Famciclovir. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/famciclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famciclovir/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Famciclovir?">
-<strong>Famciclovir</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Famciclovir</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Famciclovir met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (9)</strong>:<ul>
-<li>post-infectious neuralgia (99.8%)</li>
-<li>sequela of COVID-19 (99.7%)</li>
-<li>hepatitis C induced liver cirrhosis (99.7%)</li>
-<li>malignant pleural mesothelioma (99.5%)</li>
-<li>AIDS-related disorder (99.3%)</li>
-<li>malignant epithelioid mesothelioma (99.1%)</li>
-<li>chickenpox (99.1%)</li>
-<li>sarcomatoid mesothelioma (99.1%)</li>
-<li>malignant visceral pleura tumor (99.0%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Postinfectieuze neuralgie (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/famciclovir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

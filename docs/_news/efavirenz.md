@@ -26,9 +26,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Efavirenz met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li>Simian immunodeficiency-virusinfectie (99.8%)</li>
+<li>Feline verworven immunodeficiëntiesyndroom (99.8%)</li>
+<li>Neurodevelopmental disorder met atactische gang, afwezige spraak en verminderde corticale witte stof (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

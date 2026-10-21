@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Ciclesonide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ciclesonide. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ciclesonide. Oorspronkelijke indicatie: . 6 voorspelde indicaties."
 permalink: /news/ciclesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciclesonide/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Ciclesonide?">
-<strong>Ciclesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Ciclesonide</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ciclesonide met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>Sensibilisatie voor 2-hydroxyethylmethacrylaat (HEMA) | 99,76% | L5 | Geen bewijs; behandeling bestaat vooral uit vermijden van het allergeen (99.0%)</li>
-<li>Dermatitis, atopisch | 99,73% | L5 | Duplicaat van atopisch eczeem (99.0%)</li>
-<li>Bronchitis | 99,70% | L4 | Alleen indirecte context via een COPD-richtlijn (99.0%)</li>
-<li>Contactdermatitis | 99,25% | L4 | Het enige artikel is een veiligheidssignaal, geen werkzaamheidsbewijs (99.0%)</li>
-<li>Astma-gerelateerde eigenschappen (gevoeligheid) | 99,13% | L5 | Genetische term, geen op zichzelf staande behandelbare indicatie (99.0%)</li>
+<li><strong>Voorspelde indicaties (6)</strong>:<ul>
+<li>Atopisch eczeem (100.0%)</li>
+<li>Sensibilisatie voor 2-hydroxyethylmethacrylaat (HEMA) (99.8%)</li>
+<li>Dermatitis, atopisch (99.7%)</li>
+<li>Bronchitis (99.7%)</li>
+<li>Contactdermatitis (99.2%)</li>
+<li>Astma-gerelateerde eigenschappen (gevoeligheid) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciclesonide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

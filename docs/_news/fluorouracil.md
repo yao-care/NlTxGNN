@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Fluorouracil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Fluorouracil. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Fluorouracil. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/fluorouracil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluorouracil/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fluorouracil?">
-<strong>Fluorouracil</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Fluorouracil</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.7%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.7%)</li>
-<li>liver sarcoma (99.7%)</li>
-<li>sickle cell-hemoglobin d disease syndrome (99.6%)</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (99.6%)</li>
-<li>sickle cell-beta-thalassemia disease syndrome (99.6%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

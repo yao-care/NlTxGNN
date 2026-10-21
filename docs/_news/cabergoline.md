@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Cabergoline"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cabergoline. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cabergoline. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
 permalink: /news/cabergoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cabergoline/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Cabergoline?">
-<strong>Cabergoline</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Cabergoline</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cabergoline met het
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>pituitary adenocarcinoma (disease) (99.1%)</li>
-<li>progeria-short stature-pigmented nevi syndrome (99.1%)</li>
-<li>pituitary cancer (99.0%)</li>
-<li>cerebral palsy, spastic quadriplegic (99.0%)</li>
-<li>glaucoma (99.0%)</li>
+<li><strong>Voorspelde indicaties (1)</strong>:<ul>
+<li>Hypofysekanker (pituitary cancer) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

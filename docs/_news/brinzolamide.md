@@ -26,7 +26,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Brinzolamide met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>primary hereditary glaucoma (99.5%)</li>
+<li>Primair erfelijk glaucoom (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brinzolamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

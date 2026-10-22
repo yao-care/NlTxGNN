@@ -1,29 +1,65 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-22T11:05:52.461915+00:00",
-  "count": 11,
+  "fetched_at": "2026-10-22T16:34:23.023866+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "d24ba1f91165",
-      "title": "Voor het eerst mens besmet met shamondavirus, geen gevaar voor gezonde mensen - RTL.nl",
-      "published": "2026-10-22T09:47:39+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, geen gevaar voor gezonde mensen&nbsp;&nbsp;RTL.nlVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NURisico Shamonda-virus is volgens RIVM laag&nbsp;&nbsp;Haarlems DagbladShamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf",
+      "id": "7379118830ce",
+      "title": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon - De Telegraaf",
+      "published": "2026-10-22T11:19:20+00:00",
+      "summary": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUEerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden&nbsp;&nbsp;NOSMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedri",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMl9hazg0cjA0Y1prcmQ2R3ZtTFk1WWVGRllfVktLc1Izcy1ZX2hseVk2b0pKd0VwWTJGV3dwV1E1aGVvc3RNNkhIRWZJWDkzSzI3SVIzTWwzSmg0M0NrTnZyT3Z0UnU2MUU5NGFHX296VlB4aWdwQVVTOEYtRExkNkU5TW42YU8tLXBaeUlYMUgzRzlhOTV1cG9lSG5udw?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEdtWVI3dlNUVzVydVQzbjhpU09rVVJZRjhWWnVzOE1kMW1Da3FKODU2MHNPVGFkVnJnOF85MkJ4a3dmYVpGaXpYWW1zcXdyWHdzODh1LVAzNDNZNFFUYXNJY2pNM2RuUlVzeTBEMHZaR2dPbHdtTk93OXQzejFLMlZkUGgtRVRkVkx3elNnVVRVVWQwQUtiN2kyLTc5YnFXVXpqVDlyMDlHcTFkS2gwVzhFb1VUR2hJbzFkRWNCeFRiSGY0cHk5WGktWkVPdlRoT1pPUw?oc=5"
         }
       ]
     },
     {
-      "id": "51a25eba6b33",
-      "title": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland - AD.nl",
-      "published": "2026-10-15T16:08:06+00:00",
-      "summary": "Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland&nbsp;&nbsp;AD.nlNieuw medicijn tegen alvleesklierkanker dichterbij: 'Dit is een doorbraak'&nbsp;&nbsp;NPO Radio 1Medicijn voor uitgezaaide alvleesklierkanker mogelijk op Nederlandse markt&nbsp;&nbsp;NUNieuw medicijn biedt hoop bij alvleesklierkanker&nbsp;&nbsp;bnr.nlMogelijk eerste medicijn voor uitgezaaide alvleesklierkanker: Europees comité geeft groen licht&nbsp;&nbsp;De Telegraaf",
+      "id": "b1cecebab538",
+      "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker - NU",
+      "published": "2026-10-22T11:52:25+00:00",
+      "summary": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker&nbsp;&nbsp;NU",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34ac5ac43f27",
+      "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
+      "published": "2026-10-22T11:15:00+00:00",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nlDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie.&nbsp;&nbsp;Vietnam.vn“Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie”: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;HLNGebrek aan daglicht kan h",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c52dc21de15",
+      "title": "Olympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen' - Sportnieuws.nl",
+      "published": "2026-10-21T21:00:59+00:00",
+      "summary": "Olympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;&nbsp;Sportnieuws.nlWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;AD.nlNieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafWestnijlvirus vastgesteld bij acht nieuwe patiënten, totaal dit jaar op",
+      "sources": [
+        {
+          "name": "Sportnieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWlUwcVJ0Vnd6REhrYWVITy0wR2RkVWM0Q29Ka3BQbjlkcG52NlJpOXk0bGV2T3lMV1hhM0pNankzVXBhOFlWMXAtSmVuY2t6SzdiQ0tfTWg3TWt4Y0o3eHhwNW5iZU13c09ESDFwdktBZEV3QmphOVk5ZTNzSE1sSUVWV3NzY1UwSFIzNnNaOW1tamV3eFZNS3lrWEd6Z0RTbjBlcjYwSTFWSzNMbkpKVWJPd25xUzFLVmJHM3R4TmRCT0JFdC1KaDV2X1VMemdWY0Y1WXMtRnNsdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0cfc90a0d80",
+      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
+      "published": "2026-10-20T15:58:06+00:00",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
         }
       ]
     },
@@ -40,42 +76,6 @@
       ]
     },
     {
-      "id": "d32ad4f7558c",
-      "title": "Griepprik halen of niet? Waarom het wel degelijk zin heeft - Radar (AVROTROS)",
-      "published": "2026-10-20T05:00:00+00:00",
-      "summary": "Griepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte Kringen",
-      "sources": [
-        {
-          "name": "Radar (AVROTROS)",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGtJbDVEM3YyNFVOb28zS1A3azZVRHM4T0dyWGx2R1hMQk9IYm1vNFFaZnhsb21Sdmo4clB3bjJqNExnU1c4amFrc1JXSW1WN2tielEwdDhFYzN1Znc4NWxqdjZnZExEbVBubnFrMF9kMFpRS3FrQkppS3diRGY2ZGlJUE5Ed3NORGRIT0lfd2tZc0kwTkNIbWtoQXZWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd037c9925f1",
-      "title": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\" - Pointer | KRO-NCRV",
-      "published": "2026-10-16T21:57:19+00:00",
-      "summary": "Wetenschappers die bijwerkingen coronavaccins bestuderen stuiten op weerstand: \"Ineens wilden ze het niet meer publiceren\"&nbsp;&nbsp;Pointer | KRO-NCRV",
-      "sources": [
-        {
-          "name": "Pointer | KRO-NCRV",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW5ZRzVxVHU5ci1JTi1mMmdicF80c1B0OEZaeGFLR01NWVdYMlA3Ql9FWHh6ZnpFOHlaeFpMbzAtaTZRWnhES3dMSEZodUs2ZXJVMjZuZ0VReko1YUtFbnVoazdsd3BBUFlGd1NjQWdqWTFOTENLMnVmaS0tcXB1V1o3ZXJRZF92Xy1rTEFyYmtKZktWdWVneFNSSkZCaEJwQWNmYnFJWm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18e8b42160d5",
-      "title": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven? - Gezondheid.be",
-      "published": "2026-10-21T22:02:52+00:00",
-      "summary": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven?&nbsp;&nbsp;Gezondheid.be",
-      "sources": [
-        {
-          "name": "Gezondheid.be",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUNMNUo3TkFwM29sdlJpblVyeVNSaW5qVlI3dDEzbU51NTB5ZUh2QmN6RjczZ2ZESlZDWWl4ZnVHdGhSUGRwRTJRV3VHUHExdTNLc0hzdThWRGxKa2pTVlU3TThlUlpHdlQwdWlyc2FFWHhnbFM3RDFpZzlMUEZjaW82Z0RsU3lLX09rR3dCdUNHaDBQM0c2RURBcVRoeTBtVnA2VTlRZU1pM2Q5eW1FUDJKcGpYd0toazlqWHpJRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97d826a304b7",
       "title": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’ - AD.nl",
       "published": "2026-10-20T11:15:00+00:00",
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "e0cfc90a0d80",
-      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
-      "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "18e8b42160d5",
+      "title": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven? - Gezondheid.be",
+      "published": "2026-10-21T22:02:52+00:00",
+      "summary": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven?&nbsp;&nbsp;Gezondheid.be",
       "sources": [
         {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
+          "name": "Gezondheid.be",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUNMNUo3TkFwM29sdlJpblVyeVNSaW5qVlI3dDEzbU51NTB5ZUh2QmN6RjczZ2ZESlZDWWl4ZnVHdGhSUGRwRTJRV3VHUHExdTNLc0hzdThWRGxKa2pTVlU3TThlUlpHdlQwdWlyc2FFWHhnbFM3RDFpZzlMUEZjaW82Z0RsU3lLX09rR3dCdUNHaDBQM0c2RURBcVRoeTBtVnA2VTlRZU1pM2Q5eW1FUDJKcGpYd0toazlqWHpJRQ?oc=5"
         }
       ]
     },
@@ -132,6 +132,18 @@
         {
           "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "743237930e51",
+      "title": "Medicatie werkte jarenlang niet, tot Lut (74) de verborgen oorzaak voor haar osteoporose vond: “Artsen moeten beter luisteren” - HLN",
+      "published": "2026-10-20T17:39:00+00:00",
+      "summary": "Medicatie werkte jarenlang niet, tot Lut (74) de verborgen oorzaak voor haar osteoporose vond: “Artsen moeten beter luisteren”&nbsp;&nbsp;HLN",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeDl3cmJfQmdtWnMydXc4dHRMVlhVejZDRHNLZnpVeklVNXRrVjZrNGxpYUM1eTFPSGRQRGNNcXZYNk80WjlMWFJUOGxxMWdnNC1CTlB6ZXY2eTJqaEQyWm10QmxtME8wZUptWjZuMEZlTVNmQlRuNHdJV2ZTUi10bElwNlByMHBzUUdXNnF4bHBpdGd4ck9iX3dHeEJOejVVREhQSE51d2JlSjFJTjJTcG9OSG5yVmZ3ZGxJY2tfbGJJelN5VW9LY0czWjdvVDZLOXJnamJLQzJ5MHZ0Q2kwb2ZOT1lEdkpaT2pQY2k4Z3Nndw?oc=5"
         }
       ]
     }

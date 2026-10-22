@@ -37,6 +37,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Irbesartan met het 
 
 ## Gerelateerd nieuws (3)
 
+### [Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">kanker</span>
+
+Bron: [NU](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5)
+
+---
+
 ### [Geen klachten, toch testen: alles wat je moet weten over kankerscreening](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5)
 
 2026-10-22 <span class="news-indication-tag">kanker</span>
@@ -50,14 +58,6 @@ Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhT
 2026-10-20 <span class="news-indication-tag">kanker</span>
 
 Bron: [medischcontact](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEpMUng4NzJzcGZqSHFjZWhWa0ZiSXJRM0lyMGZvalRwT0NyTXlwVERGYU1PWksybUJITG56dHo3UV9XbmRWTkRWS2tIUmVvaFN2REp4UklfRnR4VmJGZWdWSEdtS1FHQV9KeE03eGctUi1mQ3JVWEc4N1ktUjh6N3RWX1Q2QmRvWXlsV0prUVh3ZUhPeTlBVTdYM1owS3lXcXRjMHFnbDE4b3czUE5NNDlKRW85MVlSN3hka1RqOUU0MlJpaGxoMzBJakdjbnBoY1hVcnhPZGVuRnFH?oc=5)
-
----
-
-### [Mogelijk eerste medicijn voor uitgezaaide alvleesklierkanker naar Nederland](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5)
-
-2026-10-15 <span class="news-indication-tag">kanker</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVrUXBjVTR1NUVSdlVmZFRVX3Y0WnExSXZrZ3l3blRZUm5hcEhJUHpiZV8wRlNpX1l3TmozbS1iMWxtRzJvWktOVzNHNGVoZzVLdE5wNTNvTmhjMl9iNjdBbUduM2VNUGJqYlVmU0FrcURXMy0zcXd0NS0xXy1OOHItRWU3Z0RyRlJiLW9HckQtcGkxWGVWRUpnSTY2ZmNjZnkzbFZpcUl1MUNGaHRN?oc=5)
 
 ---
 

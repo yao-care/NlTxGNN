@@ -17,7 +17,7 @@ Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspe
 - `/evidence-high/` Sterk bewijs (L1-L2) — L1-L2-kandidaten voor geneesmiddelherpositionering in NlTxGNN, ondersteund door klinische studies of systematische reviews.
 - `/evidence-medium/` Matig bewijs (L3-L4) — L3-L4-kandidaten voor geneesmiddelherpositionering in NlTxGNN, onderbouwd met observationeel of preklinisch bewijs.
 - `/evidence-low/` Alleen modelvoorspelling (L5) — L5-kandidaten in NlTxGNN: alleen een modelvoorspelling, nog zonder klinisch bewijs of literatuur.
-- `/methodology/` Methodologie — Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met de TxGNN-kennisgraaf, verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen.
+- `/methodology/` Methodologie — Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met het TxGNN-model (deep learning), verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen.
 - `/guide/` Gebruikershandleiding — Gebruikershandleiding van NlTxGNN: hoe u geneesmiddelen opzoekt, bewijsniveaus leest en aanbevelingen interpreteert.
 - `/sources/` Gegevensbronnen — De gegevensbronnen achter NlTxGNN: registratiegegevens van CBG-MEB, TxGNN, ClinicalTrials.gov, PubMed en DrugBank.
 - `/downloads/` Downloads — Open data van NlTxGNN om te downloaden: FHIR-resources, voorspellingsresultaten en de zoekindex.

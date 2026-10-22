@@ -3,7 +3,7 @@ layout: default
 title: Methodologie
 nav_order: 91
 permalink: /methodology/
-description: "Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met de TxGNN-kennisgraaf, verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen."
+description: "Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met het TxGNN-model (deep learning), verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen."
 ---
 
 # Methodologie
@@ -17,13 +17,13 @@ Van AI-voorspelling tot bewijsgradering — elke kandidaat heeft een traceerbare
 ## Het volledige proces
 
 <p class="key-answer" data-question="Hoe komt NlTxGNN tot zijn voorspellingen?">
-Het platform gebruikt een proces in vier fasen: het TxGNN-kennisgraafmodel voorspelt mogelijke verbanden
+Het platform gebruikt een proces in vier fasen: het TxGNN-model (deep learning) voorspelt mogelijke verbanden
 tussen geneesmiddelen en ziekten, vervolgens wordt voor elk voorspeld paar automatisch bewijs verzameld,
 dat bewijs wordt gegradeerd van L1 tot L5, en ten slotte wordt een beslissingsaanbeveling afgegeven.
 </p>
 
 <ol class="actionable-steps">
-<li><strong>TxGNN-voorspelling</strong>: relaties tussen geneesmiddelen en ziekten worden voorspeld met een kennisgraaf in combinatie met graph neural networks.</li>
+<li><strong>TxGNN-voorspelling</strong>: relaties tussen geneesmiddelen en ziekten worden voorspeld door het TxGNN-model (deep learning: een graph neural network getraind op een biomedische kennisgraaf).</li>
 <li><strong>Verzameling van bewijs</strong>: voor elk voorspeld paar wordt bewijs verzameld uit ClinicalTrials.gov, PubMed, DrugBank en CBG-MEB.</li>
 <li><strong>Bewijsgradering</strong>: gegradeerd van L1 tot L5, waarbij L1 het sterkst is (meerdere fase 3-RCT's) en L5 alleen een modelvoorspelling betreft.</li>
 <li><strong>Beslissingsaanbeveling</strong>: Go, Proceed, Consider, Explore of Hold, op basis van het bewijsniveau.</li>

@@ -34,11 +34,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temozolomide met he
 
 ## Gerelateerd nieuws (3)
 
-### [Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5)
+### [Geen klachten, toch testen: alles wat je moet weten over kankerscreening](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5)
 
-2026-10-20 <span class="news-indication-tag">kanker</span>
+2026-10-22 <span class="news-indication-tag">kanker</span>
 
-Bron: [RTL.nl](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5)
+Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5)
 
 ---
 

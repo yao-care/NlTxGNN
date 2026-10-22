@@ -1,43 +1,30 @@
 {
-  "last_updated": "2026-10-22T03:09:02.778956+00:00",
-  "total_count": 9,
+  "last_updated": "2026-10-22T11:05:52.575410+00:00",
+  "total_count": 11,
   "matched_count": 3,
   "news": [
     {
-      "id": "4e4f4cd64ae2",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
-      "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "de1caa16a2b6",
-      "title": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen",
-      "published": "2026-10-20T19:00:00+00:00",
-      "summary": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen&nbsp;&nbsp;GezondnuZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlOnderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren s",
-      "sources": [
-        {
-          "name": "Gezondnu",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QeWlyRGg4X0dtV2luTkx5aWs5QXhkWGtURUc4eXJSYUVOZlVHUzdVZFhmYVBnS1lMRkNBbF9CUVpJOXplSVBUXy1QaC1KQzRmTEt2cmJqV0tRR2dKMHBxYmVVaVVxQlRpdXRYVjN4NEJBTWM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "29ae5baf6880",
-      "title": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto",
-      "published": "2026-10-20T16:18:54+00:00",
-      "summary": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "d24ba1f91165",
+      "title": "Voor het eerst mens besmet met shamondavirus, geen gevaar voor gezonde mensen",
+      "published": "2026-10-22T09:47:39+00:00",
+      "summary": "Voor het eerst mens besmet met shamondavirus, geen gevaar voor gezonde mensen&nbsp;&nbsp;RTL.nlVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NURisico Shamonda-virus is volgens RIVM laag&nbsp;&nbsp;Haarlems DagbladShamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf",
       "sources": [
         {
           "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BYNmZ2Zk5iZVIxalZmMVNQaS1Jd0FBQnpXODBHQ1NWaUZpRU8wclZuZERfMVIxTFZ0OEp6ak1QUEhyVWJ6RTJ0amF3RkZScHlnZlMta1RGRUhod2thNGpLMVk4bzRFWGt5RlBIT3BycWszWl9EdUdtcnVadE53Uy1PY2pQS3hUSVNSMnJWTnBEdjFtUkp4eE1ROTV0TzVoOHJiSHJQWUxwM3dv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMl9hazg0cjA0Y1prcmQ2R3ZtTFk1WWVGRllfVktLc1Izcy1ZX2hseVk2b0pKd0VwWTJGV3dwV1E1aGVvc3RNNkhIRWZJWDkzSzI3SVIzTWwzSmg0M0NrTnZyT3Z0UnU2MUU5NGFHX296VlB4aWdwQVVTOEYtRExkNkU5TW42YU8tLXBaeUlYMUgzRzlhOTV1cG9lSG5udw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "17a6539328b7",
+      "title": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening",
+      "published": "2026-10-22T09:00:00+00:00",
+      "summary": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5"
         }
       ],
       "matched_keywords": [
@@ -179,6 +166,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "18e8b42160d5",
+      "title": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven?",
+      "published": "2026-10-21T22:02:52+00:00",
+      "summary": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven?&nbsp;&nbsp;Gezondheid.be",
+      "sources": [
+        {
+          "name": "Gezondheid.be",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUNMNUo3TkFwM29sdlJpblVyeVNSaW5qVlI3dDEzbU51NTB5ZUh2QmN6RjczZ2ZESlZDWWl4ZnVHdGhSUGRwRTJRV3VHUHExdTNLc0hzdThWRGxKa2pTVlU3TThlUlpHdlQwdWlyc2FFWHhnbFM3RDFpZzlMUEZjaW82Z0RsU3lLX09rR3dCdUNHaDBQM0c2RURBcVRoeTBtVnA2VTlRZU1pM2Q5eW1FUDJKcGpYd0toazlqWHpJRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4e4f4cd64ae2",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
+      "published": "2026-10-21T11:15:00+00:00",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "de1caa16a2b6",
+      "title": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen",
+      "published": "2026-10-20T19:00:00+00:00",
+      "summary": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen&nbsp;&nbsp;GezondnuZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlOnderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren s",
+      "sources": [
+        {
+          "name": "Gezondnu",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QeWlyRGg4X0dtV2luTkx5aWs5QXhkWGtURUc4eXJSYUVOZlVHUzdVZFhmYVBnS1lMRkNBbF9CUVpJOXplSVBUXy1QaC1KQzRmTEt2cmJqV0tRR2dKMHBxYmVVaVVxQlRpdXRYVjN4NEJBTWM?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e0cfc90a0d80",

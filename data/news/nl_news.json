@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-22T16:34:23.023866+00:00",
-  "count": 12,
+  "fetched_at": "2026-10-22T21:09:15.598089+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "7379118830ce",
-      "title": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon - De Telegraaf",
-      "published": "2026-10-22T11:19:20+00:00",
-      "summary": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUEerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden&nbsp;&nbsp;NOSMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedri",
+      "id": "0ef45c28bcf3",
+      "title": "Fransman die overleed met shamondavirus was al zwaar ziek - NOS",
+      "published": "2026-10-22T19:14:50+00:00",
+      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUEerste menselijke besmetting van het Shamonda-virus: patiënt in Frankrijk overleden&nbsp;&nbsp;VRTShamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEdtWVI3dlNUVzVydVQzbjhpU09rVVJZRjhWWnVzOE1kMW1Da3FKODU2MHNPVGFkVnJnOF85MkJ4a3dmYVpGaXpYWW1zcXdyWHdzODh1LVAzNDNZNFFUYXNJY2pNM2RuUlVzeTBEMHZaR2dPbHdtTk93OXQzejFLMlZkUGgtRVRkVkx3elNnVVRVVWQwQUtiN2kyLTc5YnFXVXpqVDlyMDlHcTFkS2gwVzhFb1VUR2hJbzFkRWNCeFRiSGY0cHk5WGktWkVPdlRoT1pPUw?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
         }
       ]
     },
@@ -36,18 +36,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c52dc21de15",
-      "title": "Olympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen' - Sportnieuws.nl",
-      "published": "2026-10-21T21:00:59+00:00",
-      "summary": "Olympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;&nbsp;Sportnieuws.nlWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;AD.nlNieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafWestnijlvirus vastgesteld bij acht nieuwe patiënten, totaal dit jaar op",
-      "sources": [
-        {
-          "name": "Sportnieuws.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWlUwcVJ0Vnd6REhrYWVITy0wR2RkVWM0Q29Ka3BQbjlkcG52NlJpOXk0bGV2T3lMV1hhM0pNankzVXBhOFlWMXAtSmVuY2t6SzdiQ0tfTWg3TWt4Y0o3eHhwNW5iZU13c09ESDFwdktBZEV3QmphOVk5ZTNzSE1sSUVWV3NzY1UwSFIzNnNaOW1tamV3eFZNS3lrWEd6Z0RTbjBlcjYwSTFWSzNMbkpKVWJPd25xUzFLVmJHM3R4TmRCT0JFdC1KaDV2X1VMemdWY0Y1WXMtRnNsdw?oc=5"
         }
       ]
     },

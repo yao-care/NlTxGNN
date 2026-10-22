@@ -464,7 +464,7 @@ class DrugBundleAggregator:
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
                 else:
-                    self._record_status("clinicaltrials", query_params, True, 0)
+                    self._record_status("clinicaltrials", query_params, result.success, 0, None if result.success else (result.error_message or "collector returned success=False"))
             except Exception as e:
                 indication.clinical_trials = [{"error": str(e)}]
                 self._record_status("clinicaltrials", query_params, False, 0, str(e))
@@ -483,7 +483,7 @@ class DrugBundleAggregator:
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
                 else:
-                    self._record_status("ictrp", query_params, True, 0)
+                    self._record_status("ictrp", query_params, result.success, 0, None if result.success else (result.error_message or "collector returned success=False"))
             except Exception as e:
                 indication.ictrp_trials = [{"error": str(e)}]
                 self._record_status("ictrp", query_params, False, 0, str(e))
@@ -502,7 +502,7 @@ class DrugBundleAggregator:
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
                 else:
-                    self._record_status("tctr", query_params, True, 0)
+                    self._record_status("tctr", query_params, result.success, 0, None if result.success else (result.error_message or "collector returned success=False"))
             except Exception as e:
                 indication.tctr_trials = [{"error": str(e)}]
                 self._record_status("tctr", query_params, False, 0, str(e))
@@ -522,7 +522,7 @@ class DrugBundleAggregator:
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
                 else:
-                    self._record_status("pubmed", query_params, True, 0)
+                    self._record_status("pubmed", query_params, result.success, 0, None if result.success else (result.error_message or "collector returned success=False"))
             except Exception as e:
                 indication.pubmed_articles = [{"error": str(e)}]
                 self._record_status("pubmed", query_params, False, 0, str(e))

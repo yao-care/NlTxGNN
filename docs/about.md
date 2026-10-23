@@ -118,6 +118,16 @@ tegen zeldzame ziekten wordt voorspeld."
 
 ---
 
+## Meer lezen
+
+- Hoe bewijsniveaus worden bepaald: <a href="{{ '/methodology/' | relative_url }}">Methodologie</a>
+- Hoe u een rapport zoekt en leest: <a href="{{ '/guide/' | relative_url }}">Gebruikershandleiding</a>
+- Overzicht van alle gebruikte databronnen: <a href="{{ '/sources/' | relative_url }}">Gegevensbronnen</a>
+- Rapporten met het sterkste klinische bewijs: <a href="{{ '/evidence-high/' | relative_url }}">Bewijsniveau: sterk</a>
+- Volledige lijst van geneesmiddelrapporten: <a href="{{ '/drugs/' | relative_url }}">Alle geneesmiddelen</a>
+
+---
+
 ## Contact
 
 - **GitHub Issues**: <https://github.com/yao-care/NlTxGNN/issues>

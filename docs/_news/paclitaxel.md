@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (2)
 
 ### [Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">kanker</span>
 
 Bron: [NU](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5)
-
----
-
-### [Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5)
-
-2026-10-22 <span class="news-indication-tag">overgang</span>
-
-Bron: [Linda](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5)
 
 ---
 

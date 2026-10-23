@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T16:23:46.183694+00:00",
-  "count": 4,
+  "generated": "2026-10-23T20:56:12.439656+00:00",
+  "count": 3,
   "news": [
     {
       "id": "595bd9b497b7",
@@ -172,36 +172,6 @@
               "slug": "valsartan",
               "name": "Valsartan",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7765f28cc895",
-      "title": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’",
-      "published": "2026-10-22T07:57:13+00:00",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
             }
           ]
         }

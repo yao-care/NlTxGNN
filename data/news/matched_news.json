@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T16:23:46.174575+00:00",
-  "total_count": 11,
-  "matched_count": 4,
+  "last_updated": "2026-10-23T20:56:12.423736+00:00",
+  "total_count": 9,
+  "matched_count": 3,
   "news": [
     {
       "id": "595bd9b497b7",
@@ -33,24 +33,11 @@
       "id": "0ef45c28bcf3",
       "title": "Fransman die overleed met shamondavirus was al zwaar ziek",
       "published": "2026-10-22T19:14:50+00:00",
-      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlWat is het Shamonda-virus waaraan nu voor het eerst een mens is overleden?&nbsp;&nbsp;Nieuwsblad",
+      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedri",
       "sources": [
         {
           "name": "NOS",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c2f3e038b6cc",
-      "title": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven - Omroep Brabant",
-      "published": "2026-10-22T12:15:00+00:00",
-      "summary": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantOpnieuw acht besmettingen met westnijlvirus, totaal nu 72&nbsp;&nbsp;Hart van NederlandBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;BN DeStemOlympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;",
-      "sources": [
-        {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJXZW5nUlZFTDlZUEdpOWJRdlQ4VTkxRi0xUHNRcDRBSGxyV21EX1g0NWw1MTh4elE1N29CSmxhVG1qTW1CMmhvZUQ5QTF4NUtqdnRsbmpvdUtaYlZ2cVVJU0k3Z0ZlYTI0Ym1fNDZycWJGdkthTG95cHRETmdpNzBUVV9KZ3ZpS3lJX0syMm5UXzlvczJoU005NmZjTXRoTUNMQm5JTmxJZmdfUDV3cGltaw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -220,37 +207,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7765f28cc895",
-      "title": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’",
-      "published": "2026-10-22T07:57:13+00:00",
-      "summary": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4e09489d967c",
       "title": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding?",
       "published": "2026-10-22T07:00:00+00:00",
@@ -415,14 +371,14 @@
       ]
     },
     {
-      "id": "bba2d7455025",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’",
+      "id": "4e4f4cd64ae2",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
         }
       ],
       "matched_keywords": []

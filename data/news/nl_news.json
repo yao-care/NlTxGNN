@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-23T16:23:46.095572+00:00",
-  "count": 11,
+  "fetched_at": "2026-10-23T20:56:12.311591+00:00",
+  "count": 9,
   "news": [
     {
       "id": "0ef45c28bcf3",
       "title": "Fransman die overleed met shamondavirus was al zwaar ziek - NOS",
       "published": "2026-10-22T19:14:50+00:00",
-      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlWat is het Shamonda-virus waaraan nu voor het eerst een mens is overleden?&nbsp;&nbsp;Nieuwsblad",
+      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedri",
       "sources": [
         {
           "name": "NOS",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "c2f3e038b6cc",
-      "title": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven - Omroep Brabant",
-      "published": "2026-10-22T12:15:00+00:00",
-      "summary": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantOpnieuw acht besmettingen met westnijlvirus, totaal nu 72&nbsp;&nbsp;Hart van NederlandBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;BN DeStemOlympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;",
-      "sources": [
-        {
-          "name": "Omroep Brabant",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJXZW5nUlZFTDlZUEdpOWJRdlQ4VTkxRi0xUHNRcDRBSGxyV21EX1g0NWw1MTh4elE1N29CSmxhVG1qTW1CMmhvZUQ5QTF4NUtqdnRsbmpvdUtaYlZ2cVVJU0k3Z0ZlYTI0Ym1fNDZycWJGdkthTG95cHRETmdpNzBUVV9KZ3ZpS3lJX0syMm5UXzlvczJoU005NmZjTXRoTUNMQm5JTmxJZmdfUDV3cGltaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b1cecebab538",
       "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker - NU",
       "published": "2026-10-22T11:52:25+00:00",
@@ -76,14 +64,14 @@
       ]
     },
     {
-      "id": "bba2d7455025",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - AD.nl",
+      "id": "4e4f4cd64ae2",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
         }
       ]
     },
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "7765f28cc895",
-      "title": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’ - Linda",
-      "published": "2026-10-22T07:57:13+00:00",
-      "summary": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’&nbsp;&nbsp;Linda",
+      "id": "4e09489d967c",
+      "title": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding? - HLN",
+      "published": "2026-10-22T07:00:00+00:00",
+      "summary": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding?&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXNtVDhxTzhaMVpjQkh4NTdSUGlmbzBrajl3NXNWY2dwM1lrZ2pxcUlWdTRJQ0dfUjF0ekJBY2o5NTV6OHZkOXgxLW9GdEdicmpwRnZ1VnNBS2tUUFVyT2l3Vk91Z0xYWHdsNkN5ZFMyb18zUG90M1FpN2pFdS03VjUtRDFXMVVJcVVBZVVaSThvWVVXdFBxM2dHem40cUVISnhXLXRWM0Z6RVlhNXM4RnkxcUZCX1hKM2V2VzI5R2NLNExWTURxMnhn?oc=5"
         }
       ]
     },
@@ -120,18 +108,6 @@
         {
           "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e09489d967c",
-      "title": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding? - HLN",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding?&nbsp;&nbsp;HLN",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXNtVDhxTzhaMVpjQkh4NTdSUGlmbzBrajl3NXNWY2dwM1lrZ2pxcUlWdTRJQ0dfUjF0ekJBY2o5NTV6OHZkOXgxLW9GdEdicmpwRnZ1VnNBS2tUUFVyT2l3Vk91Z0xYWHdsNkN5ZFMyb18zUG90M1FpN2pFdS03VjUtRDFXMVVJcVVBZVVaSThvWVVXdFBxM2dHem40cUVISnhXLXRWM0Z6RVlhNXM4RnkxcUZCX1hKM2V2VzI5R2NLNExWTURxMnhn?oc=5"
         }
       ]
     }

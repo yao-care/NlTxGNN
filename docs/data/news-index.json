@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-23T10:57:35.716556+00:00",
+  "generated": "2026-10-23T16:23:46.183694+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "595bd9b497b7",
+      "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
+      "published": "2026-10-23T04:00:57+00:00",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b1cecebab538",
       "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker",
@@ -147,31 +172,6 @@
               "slug": "valsartan",
               "name": "Valsartan",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "34ac5ac43f27",
-      "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’",
-      "published": "2026-10-22T11:15:00+00:00",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
             }
           ]
         }

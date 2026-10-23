@@ -34,11 +34,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 
 ## Gerelateerd nieuws (1)
 
-### [Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’](https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5)
+### [Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">dementie</span>
+2026-10-23 <span class="news-indication-tag">dementie</span>
 
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5)
+Bron: [de Volkskrant](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5)
 
 ---
 

@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-23T10:57:35.627226+00:00",
+  "fetched_at": "2026-10-23T16:23:46.095572+00:00",
   "count": 11,
   "news": [
     {
-      "id": "7379118830ce",
-      "title": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon - De Telegraaf",
-      "published": "2026-10-22T18:19:20+00:00",
-      "summary": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De ",
+      "id": "0ef45c28bcf3",
+      "title": "Fransman die overleed met shamondavirus was al zwaar ziek - NOS",
+      "published": "2026-10-22T19:14:50+00:00",
+      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlWat is het Shamonda-virus waaraan nu voor het eerst een mens is overleden?&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEdtWVI3dlNUVzVydVQzbjhpU09rVVJZRjhWWnVzOE1kMW1Da3FKODU2MHNPVGFkVnJnOF85MkJ4a3dmYVpGaXpYWW1zcXdyWHdzODh1LVAzNDNZNFFUYXNJY2pNM2RuUlVzeTBEMHZaR2dPbHdtTk93OXQzejFLMlZkUGgtRVRkVkx3elNnVVRVVWQwQUtiN2kyLTc5YnFXVXpqVDlyMDlHcTFkS2gwVzhFb1VUR2hJbzFkRWNCeFRiSGY0cHk5WGktWkVPdlRoT1pPUw?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
       "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nlDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie.&nbsp;&nbsp;Vietnam.vn‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;Knack“Wie overgewicht heeft, denkt zelden aan zijn li",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;KnackZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De StandaardDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementi",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,10 +28,22 @@
       ]
     },
     {
+      "id": "595bd9b497b7",
+      "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
+      "published": "2026-10-23T04:00:57+00:00",
+      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantHoe maken we de zorg klaar voor geneesmiddelen tegen dementie?&nbsp;&nbsp;ZonMw",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c2f3e038b6cc",
       "title": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven - Omroep Brabant",
       "published": "2026-10-22T12:15:00+00:00",
-      "summary": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;AD.nlBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafOlympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;&nbsp;Sportnieuws.nlWestnijlvirus vastgesteld bij acht nieuwe patiënten, totaal dit jaar op",
+      "summary": "Nieuwe besmetting brengt aantal Brabanders met westnijlvirus op zeven&nbsp;&nbsp;Omroep BrabantOpnieuw acht besmettingen met westnijlvirus, totaal nu 72&nbsp;&nbsp;Hart van NederlandBesmet paard zet Anky van Grunsven aan het denken: ’Ik dacht altijd dat het westnijlvirus ver weg was’&nbsp;&nbsp;De TelegraafWestnijlvirus blijft om zich heen grijpen: weer acht nieuwe besmettingen, meldt RIVM&nbsp;&nbsp;BN DeStemOlympisch icoon Anky Grunsven beleeft enorme schrik: 'Dat zijn nare boodschappen'&nbsp;",
       "sources": [
         {
           "name": "Omroep Brabant",
@@ -55,7 +67,7 @@
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio RhedenGriepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eer",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "4e4f4cd64ae2",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
+      "id": "bba2d7455025",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - AD.nl",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
         }
       ]
     },
@@ -84,18 +96,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18e8b42160d5",
-      "title": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven? - Gezondheid.be",
-      "published": "2026-10-21T22:02:52+00:00",
-      "summary": "Gezond ouder worden: hoe kun je langer actief, soepel en zelfstandig blijven?&nbsp;&nbsp;Gezondheid.be",
-      "sources": [
-        {
-          "name": "Gezondheid.be",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUNMNUo3TkFwM29sdlJpblVyeVNSaW5qVlI3dDEzbU51NTB5ZUh2QmN6RjczZ2ZESlZDWWl4ZnVHdGhSUGRwRTJRV3VHUHExdTNLc0hzdThWRGxKa2pTVlU3TThlUlpHdlQwdWlyc2FFWHhnbFM3RDFpZzlMUEZjaW82Z0RsU3lLX09rR3dCdUNHaDBQM0c2RURBcVRoeTBtVnA2VTlRZU1pM2Q5eW1FUDJKcGpYd0toazlqWHpJRQ?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "743237930e51",
-      "title": "Medicatie werkte jarenlang niet, tot Lut (74) de verborgen oorzaak voor haar osteoporose vond: “Artsen moeten beter luisteren” - HLN",
-      "published": "2026-10-20T17:39:00+00:00",
-      "summary": "Medicatie werkte jarenlang niet, tot Lut (74) de verborgen oorzaak voor haar osteoporose vond: “Artsen moeten beter luisteren”&nbsp;&nbsp;HLN",
+      "id": "4e09489d967c",
+      "title": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding? - HLN",
+      "published": "2026-10-22T07:00:00+00:00",
+      "summary": "Op sociale media gaat ‘menstruatiegriep’ de ronde: wat is het precies? En is het echt een ding?&nbsp;&nbsp;HLN",
       "sources": [
         {
           "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeDl3cmJfQmdtWnMydXc4dHRMVlhVejZDRHNLZnpVeklVNXRrVjZrNGxpYUM1eTFPSGRQRGNNcXZYNk80WjlMWFJUOGxxMWdnNC1CTlB6ZXY2eTJqaEQyWm10QmxtME8wZUptWjZuMEZlTVNmQlRuNHdJV2ZTUi10bElwNlByMHBzUUdXNnF4bHBpdGd4ck9iX3dHeEJOejVVREhQSE51d2JlSjFJTjJTcG9OSG5yVmZ3ZGxJY2tfbGJJelN5VW9LY0czWjdvVDZLOXJnamJLQzJ5MHZ0Q2kwb2ZOT1lEdkpaT2pQY2k4Z3Nndw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXNtVDhxTzhaMVpjQkh4NTdSUGlmbzBrajl3NXNWY2dwM1lrZ2pxcUlWdTRJQ0dfUjF0ekJBY2o5NTV6OHZkOXgxLW9GdEdicmpwRnZ1VnNBS2tUUFVyT2l3Vk91Z0xYWHdsNkN5ZFMyb18zUG90M1FpN2pFdS03VjUtRDFXMVVJcVVBZVVaSThvWVVXdFBxM2dHem40cUVISnhXLXRWM0Z6RVlhNXM4RnkxcUZCX1hKM2V2VzI5R2NLNExWTURxMnhn?oc=5"
         }
       ]
     }

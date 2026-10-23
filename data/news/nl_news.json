@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-23T03:14:42.887471+00:00",
-  "count": 12,
+  "fetched_at": "2026-10-23T10:57:35.627226+00:00",
+  "count": 11,
   "news": [
     {
       "id": "7379118830ce",
       "title": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon - De Telegraaf",
       "published": "2026-10-22T18:19:20+00:00",
-      "summary": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlEerste menselijke besmetting met Shamonda-virus in Frankrijk&nbsp;&nbsp;Boerderij",
+      "summary": "Shamondavirus eist eerste menselijke slachtoffer in Frankrijk, patiënt overlijdt in Lyon&nbsp;&nbsp;De TelegraafVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De ",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -19,7 +19,7 @@
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
       "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nlDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie.&nbsp;&nbsp;Vietnam.vn‘Al buiten geweest vandaag?’ Hoe gebruik je licht voor een optimale gezondheid?&nbsp;&nbsp;Knack“Wie overgewicht heeft, denkt zelden aan zijn lic",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nlDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie.&nbsp;&nbsp;Vietnam.vn‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;Knack“Wie overgewicht heeft, denkt zelden aan zijn li",
       "sources": [
         {
           "name": "AD.nl",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "de1caa16a2b6",
-      "title": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen - Gezondnu",
-      "published": "2026-10-20T19:00:00+00:00",
-      "summary": "Elke dag blauwe bessen eten: dit ontdekten onderzoekers over je humeur en darmen&nbsp;&nbsp;GezondnuZijn blauwe bessen een superfood voor je humeur? Kleine studie tempert de verwachtingen&nbsp;&nbsp;Scientias.nlOnderzoekers zien opvallende veranderingen na 3 maanden blauwe bessen eten: dit viel vooral op&nbsp;&nbsp;Metronieuws.nlKunnen bosbessen ouderen helpen de symptomen van depressie te verminderen?&nbsp;&nbsp;Vietnam.vnKleine studie: blauwe bessen beïnvloeden darmbacteriën, maar verbeteren s",
-      "sources": [
-        {
-          "name": "Gezondnu",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QeWlyRGg4X0dtV2luTkx5aWs5QXhkWGtURUc4eXJSYUVOZlVHUzdVZFhmYVBnS1lMRkNBbF9CUVpJOXplSVBUXy1QaC1KQzRmTEt2cmJqV0tRR2dKMHBxYmVVaVVxQlRpdXRYVjN4NEJBTWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7765f28cc895",
       "title": "Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’ - Linda",
       "published": "2026-10-22T07:57:13+00:00",
@@ -127,7 +115,7 @@
       "id": "17a6539328b7",
       "title": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening - Nieuwsblad",
       "published": "2026-10-22T02:00:00+00:00",
-      "summary": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening&nbsp;&nbsp;Nieuwsblad",
+      "summary": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening&nbsp;&nbsp;NieuwsbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "Nieuwsblad",

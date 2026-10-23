@@ -51,19 +51,19 @@ Bron: [NU](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZi
 
 ---
 
+### [Amber (29) raakt vervroegd in de overgang door behandeling leukemie: ‘We hopen een kind te krijgen via eiceldonatie’](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5)
+
+2026-10-22 <span class="news-indication-tag">overgang</span>
+
+Bron: [Linda](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnQtM1ZVRFhNVzFiaC05RXlxYmFFM3Y5RjViRk5XVThXT1ZZU2dRQWFFZlFRcTRlXzRXNmJub1FSbGhEcElfXzBnbVFjVk5GcVlHSm5HOVVqWjBtdW9paVNudW9KSmRpRkpjZjI5dUx4aDBibE1wbTBuX3NzNEM5QUlQdEYxa3dCcC1DTmtvQWhIZ0RpUTh2eG1LMUJlbXM?oc=5)
+
+---
+
 ### [Geen klachten, toch testen: alles wat je moet weten over kankerscreening](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5)
 
 2026-10-22 <span class="news-indication-tag">kanker</span>
 
 Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5)
-
----
-
-### [Wereldwijd bijna één op de acht gevallen van kanker gerelateerd aan infecties](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEpMUng4NzJzcGZqSHFjZWhWa0ZiSXJRM0lyMGZvalRwT0NyTXlwVERGYU1PWksybUJITG56dHo3UV9XbmRWTkRWS2tIUmVvaFN2REp4UklfRnR4VmJGZWdWSEdtS1FHQV9KeE03eGctUi1mQ3JVWEc4N1ktUjh6N3RWX1Q2QmRvWXlsV0prUVh3ZUhPeTlBVTdYM1owS3lXcXRjMHFnbDE4b3czUE5NNDlKRW85MVlSN3hka1RqOUU0MlJpaGxoMzBJakdjbnBoY1hVcnhPZGVuRnFH?oc=5)
-
-2026-10-20 <span class="news-indication-tag">kanker</span>
-
-Bron: [medischcontact](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEpMUng4NzJzcGZqSHFjZWhWa0ZiSXJRM0lyMGZvalRwT0NyTXlwVERGYU1PWksybUJITG56dHo3UV9XbmRWTkRWS2tIUmVvaFN2REp4UklfRnR4VmJGZWdWSEdtS1FHQV9KeE03eGctUi1mQ3JVWEc4N1ktUjh6N3RWX1Q2QmRvWXlsV0prUVh3ZUhPeTlBVTdYM1owS3lXcXRjMHFnbDE4b3czUE5NNDlKRW85MVlSN3hka1RqOUU0MlJpaGxoMzBJakdjbnBoY1hVcnhPZGVuRnFH?oc=5)
 
 ---
 

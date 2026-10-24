@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-24T03:08:31.793116+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-24T10:13:40.878694+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "18c056ed4d8a",
-      "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’ - AD.nl",
-      "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedri",
+      "id": "0ef45c28bcf3",
+      "title": "Fransman die overleed met shamondavirus was al zwaar ziek - NOS",
+      "published": "2026-10-22T19:14:50+00:00",
+      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUEerste menselijke besmetting met Shamonda virus vastgesteld in Frankrijk&nbsp;&nbsp;Melkveebedrijf.nlVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlGrootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "737e357195de",
+      "title": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia - AD.nl",
+      "published": "2026-10-23T17:30:00+00:00",
+      "summary": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3Vxa1R1NU5mQ3J6cldyc2dfZThhejF4SndENkhaMG85eXJVX2RhdlVadXc0VG5qel9MX2NfVU54MmJ4RDJ5RTZyMFFfWUJHMU94VElnbzlmZVlaQ0NHblFPSnFobDhkVnVKdGVNVk9TWG0wa0JNSm5wR3Nxc2pLMklvM2RlcGIweXcwalNwMHRXMmQyN0pub0RaSTctZ3NkaUN6emtB?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
       "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nl‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;KnackZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De StandaardDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementi",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementi",
       "sources": [
         {
           "name": "AD.nl",
@@ -31,7 +43,7 @@
       "id": "595bd9b497b7",
       "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
       "published": "2026-10-23T04:00:57+00:00",
-      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantHoe maken we de zorg klaar voor geneesmiddelen tegen dementie?&nbsp;&nbsp;ZonMw",
+      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -55,7 +67,7 @@
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio RhedenGriepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eer",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "4e4f4cd64ae2",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
+      "id": "bba2d7455025",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - AD.nl",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
         }
       ]
     },

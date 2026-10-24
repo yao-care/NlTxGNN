@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-24T15:19:58.426322+00:00",
-  "count": 6,
+  "fetched_at": "2026-10-24T20:09:03.935740+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "5e30a3bcfab3",
+      "title": "Grootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO - Nieuwsblad",
+      "published": "2026-10-23T23:20:43+00:00",
+      "summary": "Grootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO&nbsp;&nbsp;NieuwsbladFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSEerste menselijke besmetting met Shamonda virus vastgesteld in Frankrijk&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0VUckNwdmNJOFg3cWJlWThuSTRaRWZaV3NPNjdoS1Z5WDFrY00ySUpNRGZQZkc1WENxRER5TktseDFBcnVuVHN2UUVTbV9iVVZaWUhsVjBGSVZEeUtCN2JGaWhYUzBjSjVkRzJ5c2xGRkxvLXloNEs0QW9iTjFqdjFibWNSRzc3RmRpb1VDbFRyVlZVbkZiRmZ2OElSZE42VEVPakd6ajZTZUJEbF80LUZ1Q04?oc=5"
+        }
+      ]
+    },
     {
       "id": "737e357195de",
       "title": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia - AD.nl",
@@ -12,18 +24,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3Vxa1R1NU5mQ3J6cldyc2dfZThhejF4SndENkhaMG85eXJVX2RhdlVadXc0VG5qel9MX2NfVU54MmJ4RDJ5RTZyMFFfWUJHMU94VElnbzlmZVlaQ0NHblFPSnFobDhkVnVKdGVNVk9TWG0wa0JNSm5wR3Nxc2pLMklvM2RlcGIweXcwalNwMHRXMmQyN0pub0RaSTctZ3NkaUN6emtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "595bd9b497b7",
-      "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
-      "published": "2026-10-23T04:00:57+00:00",
-      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantHoe maken we de zorg klaar voor geneesmiddelen tegen dementie?&nbsp;&nbsp;ZonMw",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5"
         }
       ]
     },
@@ -72,6 +72,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "921ae0f77294",
+      "title": "Geen vogelgriep vastgesteld bij onderzochte personen; H5N1 nog niet bevestigd - Starnieuws",
+      "published": "2026-10-23T14:08:00+00:00",
+      "summary": "Geen vogelgriep vastgesteld bij onderzochte personen; H5N1 nog niet bevestigd&nbsp;&nbsp;StarnieuwsGeen vogelgriep bij geteste personen in Suriname, risico voor bevolking blijft laag&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9maXJ2dm1NUlFUb0M1N2didTNqSndkUTBhM3Z1UF9Tem9OM2t0Ni11ZEpaek9FWm1aQ2hvZmM5Ym9BNUJlSDhrWnBJdV9FbUt4ekhiOVB2UWp0d19JUjZrOGRuaXdrdlJqNkNybVdJbVprdnlJN3c?oc=5"
         }
       ]
     }

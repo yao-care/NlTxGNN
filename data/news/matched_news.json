@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-24T10:13:41.041109+00:00",
-  "total_count": 9,
-  "matched_count": 3,
+  "last_updated": "2026-10-24T15:19:58.538052+00:00",
+  "total_count": 6,
+  "matched_count": 1,
   "news": [
     {
       "id": "737e357195de",
@@ -20,7 +20,7 @@
       "id": "595bd9b497b7",
       "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
       "published": "2026-10-23T04:00:57+00:00",
-      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantHoe maken we de zorg klaar voor geneesmiddelen tegen dementie?&nbsp;&nbsp;ZonMw",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -43,170 +43,6 @@
       ]
     },
     {
-      "id": "0ef45c28bcf3",
-      "title": "Fransman die overleed met shamondavirus was al zwaar ziek",
-      "published": "2026-10-22T19:14:50+00:00",
-      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUEerste menselijke besmetting met Shamonda virus vastgesteld in Frankrijk&nbsp;&nbsp;Melkveebedrijf.nlVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlGrootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO&nbsp;&nbsp;Nieuwsblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b1cecebab538",
-      "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker",
-      "published": "2026-10-22T11:52:25+00:00",
-      "summary": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’",
       "published": "2026-10-22T11:15:00+00:00",
@@ -220,165 +56,14 @@
       "matched_keywords": []
     },
     {
-      "id": "17a6539328b7",
-      "title": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening",
-      "published": "2026-10-22T02:00:00+00:00",
-      "summary": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening&nbsp;&nbsp;NieuwsbladMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bba2d7455025",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’",
+      "id": "4e4f4cd64ae2",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
         }
       ],
       "matched_keywords": []

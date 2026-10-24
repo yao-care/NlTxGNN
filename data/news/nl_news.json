@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-24T10:13:40.878694+00:00",
-  "count": 9,
+  "fetched_at": "2026-10-24T15:19:58.426322+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "0ef45c28bcf3",
-      "title": "Fransman die overleed met shamondavirus was al zwaar ziek - NOS",
-      "published": "2026-10-22T19:14:50+00:00",
-      "summary": "Fransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met Shamonda-virus besmet en overleden, gevaar voor bevolking lijkt klein&nbsp;&nbsp;NUEerste menselijke besmetting met Shamonda virus vastgesteld in Frankrijk&nbsp;&nbsp;Melkveebedrijf.nlVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlGrootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO&nbsp;&nbsp;Nieuwsblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkZrd1BHYW03N01UU3FPLVN5NzIybTZGQkk1RVRyeVk4RnJlaEVET3FjM0UzYlZNWDVTaFY4TElMZmtMTk9tN3J2TzFpbUJhOUtZTnFRUFgwVXdCZy1ldWVQSzA5cF9rWW54aGlBMEdUcnlvOGVuc1k2VDhFUUNOdC0zcFFuV1I4R3RXLTdfNEdmZw?oc=5"
-        }
-      ]
-    },
     {
       "id": "737e357195de",
       "title": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia - AD.nl",
@@ -24,6 +12,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3Vxa1R1NU5mQ3J6cldyc2dfZThhejF4SndENkhaMG85eXJVX2RhdlVadXc0VG5qel9MX2NfVU54MmJ4RDJ5RTZyMFFfWUJHMU94VElnbzlmZVlaQ0NHblFPSnFobDhkVnVKdGVNVk9TWG0wa0JNSm5wR3Nxc2pLMklvM2RlcGIweXcwalNwMHRXMmQyN0pub0RaSTctZ3NkaUN6emtB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "595bd9b497b7",
+      "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
+      "published": "2026-10-23T04:00:57+00:00",
+      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantHoe maken we de zorg klaar voor geneesmiddelen tegen dementie?&nbsp;&nbsp;ZonMw",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5"
         }
       ]
     },
@@ -40,30 +40,6 @@
       ]
     },
     {
-      "id": "595bd9b497b7",
-      "title": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk - de Volkskrant",
-      "published": "2026-10-23T04:00:57+00:00",
-      "summary": "Opinie: Bezuiniging van 9 miljoen euro op onderzoek naar dementie is onbegrijpelijk&nbsp;&nbsp;de VolkskrantMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUpGM3VFYndzeU1hYkJJMzdSNzVlbHE4ZnFCc0ZzQTdkV0tmMFVKcXpndnktYUJtWFVTVzBNOFk0aE5JQ0dwZkEtTk9HVk9tdlA3S25ZZG00U3dSQ2tMS0JXSzJNdnNrSTJRUmVjRWRFZlhGVUFFNzZicjNOY21MUGFhTUdJQmpUQUQtblNVS1Npa2FHRWd5NjVFeDZNRWxzSkJ5Y3U3amtPZVFZZGM4QnBkb1VVR19pVGk4ZHdsa0p3VVlBSFRmSmxHWUcwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1cecebab538",
-      "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker - NU",
-      "published": "2026-10-22T11:52:25+00:00",
-      "summary": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVgxNG9GSk1WeTZieXVfQU4zNnRwREg4UWtJa0ozSU45RjVMQ0hHSTk0eEJQQXEtMTR2RVIyTjg5TDU5UWZHT0RYWUV0bTdTZUdINlc5aWRUSWlnQk15YkVVdENOYk9FLWg2SkhyZ3lMR2lJejJQcEpHdVFwTkE1UEd5TzZPbWpIanRVQ2RvWGlXUmEyNFc5dFFHOXIyamRvcFliQ2xadkFhU3MtNkxJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
@@ -76,14 +52,14 @@
       ]
     },
     {
-      "id": "bba2d7455025",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - AD.nl",
+      "id": "4e4f4cd64ae2",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
       "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
         }
       ]
     },
@@ -96,18 +72,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17a6539328b7",
-      "title": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening - Nieuwsblad",
-      "published": "2026-10-22T02:00:00+00:00",
-      "summary": "Geen klachten, toch testen: alles wat je moet weten over kankerscreening&nbsp;&nbsp;NieuwsbladMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1XYUhTejVrZ2FMMzBtUm56MEZxVjVLVlFHM0xqS0FOTkdhYlktYkJzalVuN3N2U2VPT2tGUHFpVm1HUDRQS3M3SUpHZEhqSllObEpucWtuSHA0REg0OUVSMXhvVEZpbFhtOVF4cDZHaDNKcy1iZ0lMWFNjQ0xWQUNXYkdSU2s0ZUc4aWRsYkw1RFVoVEY4ckM4UWRQS01TTFg5eDY4M0d4ZUZBUEdRcWdyVU1OWkw3S1Y4ZTln?oc=5"
         }
       ]
     }

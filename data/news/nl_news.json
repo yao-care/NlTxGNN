@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-25T03:03:28.421056+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-25T10:38:48.134456+00:00",
+  "count": 7,
   "news": [
     {
       "id": "ad5cb2b8508b",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "2d1877e7454c",
-      "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad - Starnieuws",
-      "published": "2026-10-24T15:19:00+00:00",
-      "summary": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad&nbsp;&nbsp;Starnieuws",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEIyMWo2VF9OallkaGRFaGVKWGx2RlRpZlhuRWhCRmxvemt4MFBDNFBROWhzTXpfMEZsbjcwQnZmQjloeHlyUGk4OEZLaWNha1J6ZjZrMFYzcnJtUEg2eUgtTXlYTzN2TmduSHJTSVRMSGxvM1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d1877e7454c",
+      "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad - Starnieuws",
+      "published": "2026-10-24T15:19:00+00:00",
+      "summary": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad&nbsp;&nbsp;Starnieuws",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEIyMWo2VF9OallkaGRFaGVKWGx2RlRpZlhuRWhCRmxvemt4MFBDNFBROWhzTXpfMEZsbjcwQnZmQjloeHlyUGk4OEZLaWNha1J6ZjZrMFYzcnJtUEg2eUgtTXlYTzN2TmduSHJTSVRMSGxvM1E?oc=5"
         }
       ]
     },
@@ -84,18 +84,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "921ae0f77294",
-      "title": "Geen vogelgriep vastgesteld bij onderzochte personen; H5N1 nog niet bevestigd - Starnieuws",
-      "published": "2026-10-23T14:08:00+00:00",
-      "summary": "Geen vogelgriep vastgesteld bij onderzochte personen; H5N1 nog niet bevestigd&nbsp;&nbsp;StarnieuwsGeen vogelgriep bij geteste personen in Suriname, risico voor bevolking blijft laag&nbsp;&nbsp;Suriname Herald",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9maXJ2dm1NUlFUb0M1N2didTNqSndkUTBhM3Z1UF9Tem9OM2t0Ni11ZEpaek9FWm1aQ2hvZmM5Ym9BNUJlSDhrWnBJdV9FbUt4ekhiOVB2UWp0d19JUjZrOGRuaXdrdlJqNkNybVdJbVprdnlJN3c?oc=5"
         }
       ]
     }

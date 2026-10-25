@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Felodipine?">
-<strong>Felodipine</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Felodipine</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,31 @@ Deze pagina combineert de door AI voorspelde indicaties voor Felodipine met het 
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (3)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">kanker</span>
+
+Bron: [Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
+
+---
+
+### [Populaire drank kan je risico op hartziekten verlagen, blijkt uit een onderzoek onder een half miljoen mensen](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkNjdzBlc3g3SEc0X2lXZGUyT29LTzJlcFJXcEplaVM0UHh2aUtUM2F2QVRIUjdOVHQ2SUE0bDhZN2Z0azFYR2UxMGxpdU5LeW5aWVdCaHZrYjAxeFBsamdjcUx2M2FkQzZzLXY5enV4cXFfVWxpZ1hBWk5hNllCVXBYbnEzZmo3TmJvZC1yWl9hckQyU09vUndBS092ai1GbFBEMlo5RXZJSG0xNktMSTRQbzgzTGF5RWh5SXI0SkJkYVRRUlpfUEpremE4cUpjekFZ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">hartziekte</span>
+
+Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkNjdzBlc3g3SEc0X2lXZGUyT29LTzJlcFJXcEplaVM0UHh2aUtUM2F2QVRIUjdOVHQ2SUE0bDhZN2Z0azFYR2UxMGxpdU5LeW5aWVdCaHZrYjAxeFBsamdjcUx2M2FkQzZzLXY5enV4cXFfVWxpZ1hBWk5hNllCVXBYbnEzZmo3TmJvZC1yWl9hckQyU09vUndBS092ai1GbFBEMlo5RXZJSG0xNktMSTRQbzgzTGF5RWh5SXI0SkJkYVRRUlpfUEpremE4cUpjekFZ?oc=5)
+
+---
+
+### [Groot onderzoek onthult onverwacht voordeel: Coronavaccin bestrijdt kanker](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

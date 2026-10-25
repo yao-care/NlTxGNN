@@ -1,8 +1,429 @@
 {
-  "last_updated": "2026-10-25T10:38:48.254358+00:00",
-  "total_count": 7,
-  "matched_count": 0,
+  "last_updated": "2026-10-25T15:29:29.288791+00:00",
+  "total_count": 10,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "dc5ab6ce0e34",
+      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
+      "published": "2026-10-25T11:04:29+00:00",
+      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f55b311338a2",
+      "title": "Tbc-patiënt uit detentie opgenomen in sanatorium, grootschalig onderzoek Santo Boma op komst - Suriname Herald",
+      "published": "2026-10-25T04:52:31+00:00",
+      "summary": "Tbc-patiënt uit detentie opgenomen in sanatorium, grootschalig onderzoek Santo Boma op komst&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaW5Mc1hBVnp0STE4YWd1MmVqUEpkWTBZS3ExM0pucEFEcElkb1lRUUd5MkI2SzVKQnd2UUtjcnpKLVFuaENtR1lsb0daX1g5NmF2RVdIa2NSUWpPY3NFcVpPSTlxOHF1dlVibV8ybk5XZlNWNnlUanFOQWZoeGg5Q0JrUVMzbnhnZUQ2LWI2a0JhaFE1NHFPWFJ1bW5mLVliVHNjVncyLXRqS2tsVnE2bDdnZERxV2lNVGRlR0NVRldocXV1NFRQdE5Yd1FWS2tMbTVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d0d24007b36",
+      "title": "Populaire drank kan je risico op hartziekten verlagen, blijkt uit een onderzoek onder een half miljoen mensen",
+      "published": "2026-10-24T18:30:37+00:00",
+      "summary": "Populaire drank kan je risico op hartziekten verlagen, blijkt uit een onderzoek onder een half miljoen mensen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkNjdzBlc3g3SEc0X2lXZGUyT29LTzJlcFJXcEplaVM0UHh2aUtUM2F2QVRIUjdOVHQ2SUE0bDhZN2Z0azFYR2UxMGxpdU5LeW5aWVdCaHZrYjAxeFBsamdjcUx2M2FkQzZzLXY5enV4cXFfVWxpZ1hBWk5hNllCVXBYbnEzZmo3TmJvZC1yWl9hckQyU09vUndBS092ai1GbFBEMlo5RXZJSG0xNktMSTRQbzgzTGF5RWh5SXI0SkJkYVRRUlpfUEpremE4cUpjekFZ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "hartziekte",
+          "related_drugs": [
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "minoxidil",
+              "name": "Minoxidil",
+              "url": "/drugs/minoxidil/"
+            },
+            {
+              "slug": "propranolol",
+              "name": "Propranolol",
+              "url": "/drugs/propranolol/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine",
+              "url": "/drugs/ebastine/"
+            },
+            {
+              "slug": "alteplase",
+              "name": "Alteplase",
+              "url": "/drugs/alteplase/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol",
+              "url": "/drugs/propofol/"
+            },
+            {
+              "slug": "bumetanide",
+              "name": "Bumetanide",
+              "url": "/drugs/bumetanide/"
+            },
+            {
+              "slug": "etoricoxib",
+              "name": "Etoricoxib",
+              "url": "/drugs/etoricoxib/"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide",
+              "url": "/drugs/zonisamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "iloprost",
+              "name": "Iloprost",
+              "url": "/drugs/iloprost/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "levocarnitine",
+              "name": "Levocarnitine",
+              "url": "/drugs/levocarnitine/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ced15cb53576",
+      "title": "Groot onderzoek onthult onverwacht voordeel: Coronavaccin bestrijdt kanker",
+      "published": "2026-10-24T17:30:30+00:00",
+      "summary": "Groot onderzoek onthult onverwacht voordeel: Coronavaccin bestrijdt kanker&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2d1877e7454c",
       "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad",
@@ -17,14 +438,14 @@
       "matched_keywords": []
     },
     {
-      "id": "737e357195de",
-      "title": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia",
-      "published": "2026-10-24T10:46:18+00:00",
-      "summary": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "18c056ed4d8a",
+      "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
+      "published": "2026-10-22T12:03:00+00:00",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlVoor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3Vxa1R1NU5mQ3J6cldyc2dfZThhejF4SndENkhaMG85eXJVX2RhdlVadXc0VG5qel9MX2NfVU54MmJ4RDJ5RTZyMFFfWUJHMU94VElnbzlmZVlaQ0NHblFPSnFobDhkVnVKdGVNVk9TWG0wa0JNSm5wR3Nxc2pLMklvM2RlcGIweXcwalNwMHRXMmQyN0pub0RaSTctZ3NkaUN6emtB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -38,19 +459,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ad5cb2b8508b",
-      "title": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein",
-      "published": "2026-10-22T08:58:47+00:00",
-      "summary": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nl",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGtzUTFSbkRoSGF6UTRmTzh0X19hM0RnaXVJNFpwTUh2VWtuckhBVS0yVXp4LWxfLTNyRVhLZld6VUtyT3owaTJlbE5YNE0wS0tGZWJyYzNqWTRyQkpOVTRubUNLLW1kVGdZdU5hTDN1enhPRmZYa1B4Sk1YenBNT2lkaUpjSDJOb1JhVjQ1R1FIaEZWWnZsODVWc2hMNjBRUk40ZGVzRVh1MlRxX3RhSzB5VUZtdDB2alE?oc=5"
         }
       ],
       "matched_keywords": []

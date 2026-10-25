@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-24T20:09:04.038730+00:00",
-  "total_count": 7,
+  "last_updated": "2026-10-25T03:03:28.540398+00:00",
+  "total_count": 8,
   "matched_count": 0,
   "news": [
     {
-      "id": "5e30a3bcfab3",
-      "title": "Grootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO",
-      "published": "2026-10-23T23:20:43+00:00",
-      "summary": "Grootschalige uitbraak shamondavirus onwaarschijnlijk, zegt WHO&nbsp;&nbsp;NieuwsbladFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSEerste menselijke besmetting met Shamonda virus vastgesteld in Frankrijk&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nl",
+      "id": "2d1877e7454c",
+      "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad",
+      "published": "2026-10-24T15:19:00+00:00",
+      "summary": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad&nbsp;&nbsp;Starnieuws",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0VUckNwdmNJOFg3cWJlWThuSTRaRWZaV3NPNjdoS1Z5WDFrY00ySUpNRGZQZkc1WENxRER5TktseDFBcnVuVHN2UUVTbV9iVVZaWUhsVjBGSVZEeUtCN2JGaWhYUzBjSjVkRzJ5c2xGRkxvLXloNEs0QW9iTjFqdjFibWNSRzc3RmRpb1VDbFRyVlZVbkZiRmZ2OElSZE42VEVPakd6ajZTZUJEbF80LUZ1Q04?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEIyMWo2VF9OallkaGRFaGVKWGx2RlRpZlhuRWhCRmxvemt4MFBDNFBROWhzTXpfMEZsbjcwQnZmQjloeHlyUGk4OEZLaWNha1J6ZjZrMFYzcnJtUEg2eUgtTXlYTzN2TmduSHJTSVRMSGxvM1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -19,7 +19,7 @@
     {
       "id": "737e357195de",
       "title": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia",
-      "published": "2026-10-23T17:30:00+00:00",
+      "published": "2026-10-24T10:46:18+00:00",
       "summary": "Proef ebolavaccin van start in Congo, tweede dode gemeld in Kenia&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
@@ -56,14 +56,27 @@
       "matched_keywords": []
     },
     {
-      "id": "4e4f4cd64ae2",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - de Stentor",
-      "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;de Stentor",
+      "id": "ad5cb2b8508b",
+      "title": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein",
+      "published": "2026-10-22T08:58:47+00:00",
+      "summary": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW44OVJGVUpkak1LSUgyQ3lFNmY1Zkt4dTEzd0dWLVlHVVpwQjRoOFZ4bV9KakpDQ1lKREZHWk9NTFhTVHZvbTZfRkVIQ0xRa1ZEWlFsVTdsVEF6Yms1U0RDMTFVRnFKeFJqejQtV0xjTmlkbFJ1UEt0WElLUTdwVC1tVVluS0FQSzBDQnNrZWw0QVB0TUVNQW9DVy1tSTZRMndrWmpuNTZYT2V3WDZseVJSU3BTOVh4Ums3Y3RYaGpKRWFLSWxhclpjU0k?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGtzUTFSbkRoSGF6UTRmTzh0X19hM0RnaXVJNFpwTUh2VWtuckhBVS0yVXp4LWxfLTNyRVhLZld6VUtyT3owaTJlbE5YNE0wS0tGZWJyYzNqWTRyQkpOVTRubUNLLW1kVGdZdU5hTDN1enhPRmZYa1B4Sk1YenBNT2lkaUpjSDJOb1JhVjQ1R1FIaEZWWnZsODVWc2hMNjBRUk40ZGVzRVh1MlRxX3RhSzB5VUZtdDB2alE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bba2d7455025",
+      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’",
+      "published": "2026-10-21T11:15:00+00:00",
+      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
         }
       ],
       "matched_keywords": []

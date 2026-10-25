@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-25T15:29:29.288791+00:00",
-  "total_count": 10,
-  "matched_count": 3,
+  "last_updated": "2026-10-25T20:20:21.344245+00:00",
+  "total_count": 12,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "46cf235a9d8e",
+      "title": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-10-25T13:59:15+00:00",
+      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladPatiëntenorganisaties trekken samen op voor vrouwengezondheid: ‘Onderzoeksbudget blijft achter’&nbsp;&nbsp;TrouwEndometriose: als de pijn je leven bepaalt, maar een diagnose uitblij",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVUxDLXFCQzlPelVxdVVZWnhMd3RVWkMwbmJMMktvcWQyQXI5THRnZUNRY2VtbHNubFJJaDk1d20wY2RYZE5XcFV1cDRMOVItZUJzaDdFN3Q2aWZtbWpmYWFhdmJEcjdxOVRoemRCSzMwSnB5dEFLdUhFYTZFYXFRd1p0TDFYcWZmZmo4Ymo4OUJKVFg5NVZ5UE5hbm52dzJJZ3ppT0h6R3FTSG5XNF9XSWlCOGdIYy0wOUFSYmtET2ZsVThBVXVVdTBmWlVJVzlGa3BXQ1hsUmNiVnRycGxHV1RDOFZUd3cyQ0J1Wk92WjNlSEFyTmoxT2RxX191aTJWN0VZc0Ytb3U3QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "dc5ab6ce0e34",
       "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
@@ -438,17 +451,35 @@
       "matched_keywords": []
     },
     {
-      "id": "18c056ed4d8a",
-      "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
-      "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlVoor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nl",
+      "id": "dd2e2c7fabf9",
+      "title": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek",
+      "published": "2026-10-24T07:00:34+00:00",
+      "summary": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE1fNlkxZmg0U3NpSG5oX1N3cDctSzRhLUliTkR2ekJYS1RwZVBQM1VCMGxqNEx2M2N2V2Z4OFFFMGpfVThuMG1ienNJamhrMUUzNUk5azh4T0dwQVRYY1dmN3A1OGtLY1RlNjBybzVkVFVlZUdtcldhdTF1OGNaU1U5bGwwNXptMEFMOHN6Vzgxc3lxSmhTNXNxNjlHRHZ4VkZzcVBlbE9jalNSMVc3Sl9pRlZ0b2tFTnNZYVhB?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "34ac5ac43f27",
@@ -459,6 +490,19 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ad5cb2b8508b",
+      "title": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein",
+      "published": "2026-10-22T08:58:47+00:00",
+      "summary": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGtzUTFSbkRoSGF6UTRmTzh0X19hM0RnaXVJNFpwTUh2VWtuckhBVS0yVXp4LWxfLTNyRVhLZld6VUtyT3owaTJlbE5YNE0wS0tGZWJyYzNqWTRyQkpOVTRubUNLLW1kVGdZdU5hTDN1enhPRmZYa1B4Sk1YenBNT2lkaUpjSDJOb1JhVjQ1R1FIaEZWWnZsODVWc2hMNjBRUk40ZGVzRVh1MlRxX3RhSzB5VUZtdDB2alE?oc=5"
         }
       ],
       "matched_keywords": []

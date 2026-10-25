@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
 
 ### [Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
 
@@ -47,6 +47,14 @@ Bron: [Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEF
 2026-10-24 <span class="news-indication-tag">kanker</span>
 
 Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5)
+
+---
+
+### [Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE1fNlkxZmg0U3NpSG5oX1N3cDctSzRhLUliTkR2ekJYS1RwZVBQM1VCMGxqNEx2M2N2V2Z4OFFFMGpfVThuMG1ienNJamhrMUUzNUk5azh4T0dwQVRYY1dmN3A1OGtLY1RlNjBybzVkVFVlZUdtcldhdTF1OGNaU1U5bGwwNXptMEFMOHN6Vzgxc3lxSmhTNXNxNjlHRHZ4VkZzcVBlbE9jalNSMVc3Sl9pRlZ0b2tFTnNZYVhB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">overgang</span>
+
+Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE1fNlkxZmg0U3NpSG5oX1N3cDctSzRhLUliTkR2ekJYS1RwZVBQM1VCMGxqNEx2M2N2V2Z4OFFFMGpfVThuMG1ienNJamhrMUUzNUk5azh4T0dwQVRYY1dmN3A1OGtLY1RlNjBybzVkVFVlZUdtcldhdTF1OGNaU1U5bGwwNXptMEFMOHN6Vzgxc3lxSmhTNXNxNjlHRHZ4VkZzcVBlbE9jalNSMVc3Sl9pRlZ0b2tFTnNZYVhB?oc=5)
 
 ---
 

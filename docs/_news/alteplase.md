@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Alteplase?">
-<strong>Alteplase</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Alteplase</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Alteplase met het l
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (0)
 
-### [Populaire drank kan je risico op hartziekten verlagen, blijkt uit een onderzoek onder een half miljoen mensen](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkNjdzBlc3g3SEc0X2lXZGUyT29LTzJlcFJXcEplaVM0UHh2aUtUM2F2QVRIUjdOVHQ2SUE0bDhZN2Z0azFYR2UxMGxpdU5LeW5aWVdCaHZrYjAxeFBsamdjcUx2M2FkQzZzLXY5enV4cXFfVWxpZ1hBWk5hNllCVXBYbnEzZmo3TmJvZC1yWl9hckQyU09vUndBS092ai1GbFBEMlo5RXZJSG0xNktMSTRQbzgzTGF5RWh5SXI0SkJkYVRRUlpfUEpremE4cUpjekFZ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">hartziekte</span>
-
-Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkNjdzBlc3g3SEc0X2lXZGUyT29LTzJlcFJXcEplaVM0UHh2aUtUM2F2QVRIUjdOVHQ2SUE0bDhZN2Z0azFYR2UxMGxpdU5LeW5aWVdCaHZrYjAxeFBsamdjcUx2M2FkQzZzLXY5enV4cXFfVWxpZ1hBWk5hNllCVXBYbnEzZmo3TmJvZC1yWl9hckQyU09vUndBS092ai1GbFBEMlo5RXZJSG0xNktMSTRQbzgzTGF5RWh5SXI0SkJkYVRRUlpfUEpremE4cUpjekFZ?oc=5)
-
----
+*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
 
 
 <div class="disclaimer">

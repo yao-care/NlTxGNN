@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Amlodipine?">
-<strong>Amlodipine</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Amlodipine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Amlodipine met het 
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (2)
 
 ### [Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5)
 
@@ -47,14 +47,6 @@ Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0h
 2026-10-25 <span class="news-indication-tag">kanker</span>
 
 Bron: [Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
-
----
-
-### [Groot onderzoek onthult onverwacht voordeel: Coronavaccin bestrijdt kanker](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">kanker</span>
-
-Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNW1uX2xyb1I4U01UY0Q3MW5DMGtMLUQxazhsZTJtUG81bW52QlJxMkdfbFplV2pUNklKRS1ESlA3a2hoeU1vb3ZuY2swNnkxN3cwNlZfU3JaQWd6R2M0M3g0QVZmcXFjV0MxNDdFeFBSMHBQa1dFSnh5d3NWbFpURmhDaXRIaHhDU3kxaXl5MGRHcWpVbUMzb2hZZ3o2MnJCRXA1LQ?oc=5)
 
 ---
 

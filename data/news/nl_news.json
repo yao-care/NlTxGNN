@@ -1,8 +1,32 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-26T03:03:13.563765+00:00",
-  "count": 12,
+  "fetched_at": "2026-10-26T12:11:42.279906+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "d9cbc69fa267",
+      "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
+      "published": "2026-10-26T09:19:33+00:00",
+      "summary": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc5ab6ce0e34",
+      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
+      "published": "2026-10-25T10:30:00+00:00",
+      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+        }
+      ]
+    },
     {
       "id": "cacba21675e2",
       "title": "Protestwake in Den Haag voor patiënten met post-acute infectieziekte: ‘Ze leeft haar leven uit, maar dat is geen leven’ - de Volkskrant",
@@ -16,14 +40,14 @@
       ]
     },
     {
-      "id": "dc5ab6ce0e34",
-      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
-      "published": "2026-10-25T11:04:29+00:00",
-      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
+      "id": "2a3ac1c1c23b",
+      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
+      "published": "2026-10-25T21:08:00+00:00",
+      "summary": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
         }
       ]
     },
@@ -31,7 +55,7 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’ - AD.nl",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlVoor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De Telegraaf",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "AD.nl",
@@ -43,7 +67,7 @@
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
       "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementi",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je licht voor een optimale gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie",
       "sources": [
         {
           "name": "AD.nl",
@@ -55,7 +79,7 @@
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenGratis griepprik medewerkers Gr",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
@@ -88,18 +112,6 @@
       ]
     },
     {
-      "id": "2d1877e7454c",
-      "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad - Starnieuws",
-      "published": "2026-10-24T15:19:00+00:00",
-      "summary": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad&nbsp;&nbsp;Starnieuws",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEIyMWo2VF9OallkaGRFaGVKWGx2RlRpZlhuRWhCRmxvemt4MFBDNFBROWhzTXpfMEZsbjcwQnZmQjloeHlyUGk4OEZLaWNha1J6ZjZrMFYzcnJtUEg2eUgtTXlYTzN2TmduSHJTSVRMSGxvM1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ced15cb53576",
       "title": "Groot onderzoek onthult onverwacht voordeel: Coronavaccin bestrijdt kanker - wibnet.nl",
       "published": "2026-10-24T17:30:30+00:00",
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "dd2e2c7fabf9",
-      "title": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek - wibnet.nl",
-      "published": "2026-10-24T07:00:34+00:00",
-      "summary": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE1fNlkxZmg0U3NpSG5oX1N3cDctSzRhLUliTkR2ekJYS1RwZVBQM1VCMGxqNEx2M2N2V2Z4OFFFMGpfVThuMG1ienNJamhrMUUzNUk5azh4T0dwQVRYY1dmN3A1OGtLY1RlNjBybzVkVFVlZUdtcldhdTF1OGNaU1U5bGwwNXptMEFMOHN6Vzgxc3lxSmhTNXNxNjlHRHZ4VkZzcVBlbE9jalNSMVc3Sl9pRlZ0b2tFTnNZYVhB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f55b311338a2",
       "title": "Tbc-patiënt uit detentie opgenomen in sanatorium, grootschalig onderzoek Santo Boma op komst - Suriname Herald",
       "published": "2026-10-25T04:52:31+00:00",
@@ -144,6 +144,18 @@
         {
           "name": "Suriname Herald",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaW5Mc1hBVnp0STE4YWd1MmVqUEpkWTBZS3ExM0pucEFEcElkb1lRUUd5MkI2SzVKQnd2UUtjcnpKLVFuaENtR1lsb0daX1g5NmF2RVdIa2NSUWpPY3NFcVpPSTlxOHF1dlVibV8ybk5XZlNWNnlUanFOQWZoeGg5Q0JrUVMzbnhnZUQ2LWI2a0JhaFE1NHFPWFJ1bW5mLVliVHNjVncyLXRqS2tsVnE2bDdnZERxV2lNVGRlR0NVRldocXV1NFRQdE5Yd1FWS2tMbTVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd2e2c7fabf9",
+      "title": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek - wibnet.nl",
+      "published": "2026-10-24T07:00:34+00:00",
+      "summary": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE1fNlkxZmg0U3NpSG5oX1N3cDctSzRhLUliTkR2ekJYS1RwZVBQM1VCMGxqNEx2M2N2V2Z4OFFFMGpfVThuMG1ienNJamhrMUUzNUk5azh4T0dwQVRYY1dmN3A1OGtLY1RlNjBybzVkVFVlZUdtcldhdTF1OGNaU1U5bGwwNXptMEFMOHN6Vzgxc3lxSmhTNXNxNjlHRHZ4VkZzcVBlbE9jalNSMVc3Sl9pRlZ0b2tFTnNZYVhB?oc=5"
         }
       ]
     }

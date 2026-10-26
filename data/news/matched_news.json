@@ -1,8 +1,189 @@
 {
-  "last_updated": "2026-10-26T03:03:13.687078+00:00",
-  "total_count": 12,
-  "matched_count": 4,
+  "last_updated": "2026-10-26T12:11:42.396936+00:00",
+  "total_count": 13,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "d9cbc69fa267",
+      "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
+      "published": "2026-10-26T09:19:33+00:00",
+      "summary": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2a3ac1c1c23b",
+      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
+      "published": "2026-10-25T21:08:00+00:00",
+      "summary": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cacba21675e2",
       "title": "Protestwake in Den Haag voor patiënten met post-acute infectieziekte: ‘Ze leeft haar leven uit, maar dat is geen leven’ - de Volkskrant",
@@ -19,7 +200,7 @@
     {
       "id": "dc5ab6ce0e34",
       "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
-      "published": "2026-10-25T11:04:29+00:00",
+      "published": "2026-10-25T10:30:00+00:00",
       "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
       "sources": [
         {
@@ -438,19 +619,6 @@
       ]
     },
     {
-      "id": "2d1877e7454c",
-      "title": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad",
-      "published": "2026-10-24T15:19:00+00:00",
-      "summary": "PAHO waarschuwt voor risico op terugkeer polio door achterblijvende vaccinatiegraad&nbsp;&nbsp;Starnieuws",
-      "sources": [
-        {
-          "name": "Starnieuws",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEIyMWo2VF9OallkaGRFaGVKWGx2RlRpZlhuRWhCRmxvemt4MFBDNFBROWhzTXpfMEZsbjcwQnZmQjloeHlyUGk4OEZLaWNha1J6ZjZrMFYzcnJtUEg2eUgtTXlYTzN2TmduSHJTSVRMSGxvM1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "dd2e2c7fabf9",
       "title": "Je eierstokken gaan na de overgang een verrassende nieuwe rol spelen, zo blijkt uit onderzoek",
       "published": "2026-10-24T07:00:34+00:00",
@@ -485,7 +653,7 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlVoor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De Telegraaf",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSOpmerkelijk verschil verspreiding Shamonda-likevirus in Vlaanderen en Nederland&nbsp;&nbsp;Melkveebedrijf.nlMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "AD.nl",
@@ -498,14 +666,27 @@
       "id": "34ac5ac43f27",
       "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’",
       "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je daglicht voor een betere gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementi",
+      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je licht voor een optimale gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bba2d7455025",
@@ -524,7 +705,7 @@
       "id": "e0cfc90a0d80",
       "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
       "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Lange rijen voor griepprik bij huisarts in Velp&nbsp;&nbsp;Studio Rheden -Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de e",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenGratis griepprik medewerkers Gr",
       "sources": [
         {
           "name": "Noordhollands Dagblad",

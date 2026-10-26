@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (0)
+## Gerelateerd nieuws (1)
 
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
+### [Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’](https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5)
+
+2026-10-22 <span class="news-indication-tag">dementie</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5)
+
+---
 
 
 <div class="disclaimer">

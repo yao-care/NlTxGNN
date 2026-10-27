@@ -1,15 +1,45 @@
 {
-  "generated": "2026-10-27T11:32:58.719072+00:00",
-  "count": 1,
+  "generated": "2026-10-27T17:24:14.578044+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "dc5ab6ce0e34",
-      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
-      "published": "2026-10-25T10:30:00+00:00",
+      "id": "2a3ac1c1c23b",
+      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
+      "published": "2026-10-25T21:08:00+00:00",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0247c5e59057",
+      "title": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’",
+      "published": "2026-10-24T05:03:39+00:00",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5"
         }
       ],
       "keywords": [

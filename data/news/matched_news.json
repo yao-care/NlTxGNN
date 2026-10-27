@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-27T11:32:58.708504+00:00",
-  "total_count": 8,
-  "matched_count": 1,
+  "last_updated": "2026-10-27T17:24:14.566956+00:00",
+  "total_count": 7,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "7dc21cd71302",
+      "title": "Lange rijen voor de griepprik",
+      "published": "2026-10-27T08:46:00+00:00",
+      "summary": "Lange rijen voor de griepprik&nbsp;&nbsp;MaasduinencentraalRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Maasduinencentraal",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG5EZDlLakFGZzM4TzIzMEZ0Q1dQcFBxdW9fOU9LbzlRaXd1NUp5RlFxYlc5T1l4VmNEcnBuVm5YRUhXT0VEYTFDNVVwR1FRQmFRNXZLbmRkRmNBWmN4cUNPRDVOOHBWQ3d3X3dmWkwtNDJPTmRESGFraW14dGpWaG5qZ0d5WndXaE9zVg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d9cbc69fa267",
       "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
@@ -17,17 +30,35 @@
       "matched_keywords": []
     },
     {
-      "id": "198dfceccc71",
-      "title": "Nieuwe polikliniek Bravis moet tweede hartinfarct helpen voorkomen - ZeelandNet, startpagina van Zeeland",
-      "published": "2026-10-26T07:25:45+00:00",
-      "summary": "Nieuwe polikliniek Bravis moet tweede hartinfarct helpen voorkomen&nbsp;&nbsp;ZeelandNet, startpagina van ZeelandBravis versterkt nazorg na hartinfarct met nieuwe ACS-polikliniek&nbsp;&nbsp;Bergen-op-zoom.nieuws.nl",
+      "id": "2a3ac1c1c23b",
+      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
+      "published": "2026-10-25T21:08:00+00:00",
+      "summary": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "ZeelandNet, startpagina van Zeeland",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHoyT01RcFJ5MTlBeWpZcUxqNGhoZlk1Z21PN2hfT2ItZ1ZuaFczRFQ3SGNGWmFhbG9PWDdTdm5tb2k3Zmx1OGp4NkVabUVqTllfN1Ffa3g5cmU5dHJTZk82ZlNXZmNxSGlsd0VrSTY1UlVSc1BnQzM1NDVoa2NYWUoydm4wSC1sY2txcVJCUGFEamptTDk4SXptVG5FdDVF?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "46cf235a9d8e",
@@ -43,14 +74,14 @@
       "matched_keywords": []
     },
     {
-      "id": "dc5ab6ce0e34",
-      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
-      "published": "2026-10-25T10:30:00+00:00",
-      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
+      "id": "0247c5e59057",
+      "title": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’",
+      "published": "2026-10-24T05:03:39+00:00",
+      "summary": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -197,7 +228,7 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafShamondavirus: knudde met de knutten&nbsp;&nbsp;Artsenkrant",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beEerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUPatiënt in Lyon overleden na besmetting met shamonda-like-virus&nbsp;&nbsp;Nieuwe Oogst",
       "sources": [
         {
           "name": "AD.nl",
@@ -215,32 +246,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e0cfc90a0d80",
-      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
-      "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGratis griepprik medewerkers Groenvoorziening&nbsp;&nbsp;www.cnv.nl",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "97d826a304b7",
-      "title": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’",
-      "published": "2026-10-20T11:15:00+00:00",
-      "summary": "De nervus vagus is een hype op sociale media, zo zorg je volgens artsen voor een goede ‘vagusbalans’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
         }
       ],
       "matched_keywords": []

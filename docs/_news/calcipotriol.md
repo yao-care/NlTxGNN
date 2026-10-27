@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
-<strong>Calcipotriol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Calcipotriol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
-### [Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
+### [Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5)
 
-2026-10-25 <span class="news-indication-tag">kanker</span>
+2026-10-25 <span class="news-indication-tag">overgang</span>
 
-Bron: [Omroep West](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5)
+Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5)
+
+---
+
+### [Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
+
+2026-10-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
 
 ---
 

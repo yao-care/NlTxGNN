@@ -5,6 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over kanker (generic_cancer)

@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Everolimus"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Everolimus. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Everolimus. 1 voorspelde indicaties."
 permalink: /news/everolimus/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Everolimus
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Everolimus met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Liposarcoom (met name gededifferentieerd liposarcoom) (99.9%)</li>
+<li>Liposarcoom (met name gededifferentieerd liposarcoom)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

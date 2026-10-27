@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Telmisartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Telmisartan. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Telmisartan. 1 voorspelde indicaties."
 permalink: /news/telmisartan/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Telmisartan
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Telmisartan met het
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Prinzmetal-angina (100.0%)</li>
+<li>Prinzmetal-angina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

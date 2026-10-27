@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Valsartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Valsartan. Oorspronkelijke indicatie: . 7 voorspelde indicaties."
+description: "Gezondheidsnieuws over Valsartan. 7 voorspelde indicaties."
 permalink: /news/valsartan/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Valsartan
@@ -26,13 +27,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>Maligne renovasculaire hypertensie (100.0%)</li>
-<li>Maligne hypertensieve nierziekte (100.0%)</li>
-<li>Pulmonale hypertensie, onduidelijk multifactorieel (100.0%)</li>
-<li>Pulmonale hypertensie door longziekte/hypoxie (100.0%)</li>
-<li>Braddock-syndroom (100.0%)</li>
-<li>Chronisch pulmonaal hartlijden (99.6%)</li>
-<li>Prinzmetal-angina (99.5%)</li>
+<li>Maligne renovasculaire hypertensie</li>
+<li>Maligne hypertensieve nierziekte</li>
+<li>Pulmonale hypertensie, onduidelijk multifactorieel</li>
+<li>Pulmonale hypertensie door longziekte/hypoxie</li>
+<li>Braddock-syndroom</li>
+<li>Chronisch pulmonaal hartlijden</li>
+<li>Prinzmetal-angina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

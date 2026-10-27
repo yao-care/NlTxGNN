@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Ramipril"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Ramipril. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Ramipril. 1 voorspelde indicaties."
 permalink: /news/ramipril/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Ramipril
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Ramipril met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Pulmonale hypertensie door longziekte en/of hypoxie (99.9%)</li>
+<li>Pulmonale hypertensie door longziekte en/of hypoxie</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

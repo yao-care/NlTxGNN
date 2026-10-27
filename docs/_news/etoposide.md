@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Etoposide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Etoposide. Oorspronkelijke indicatie: . 11 voorspelde indicaties."
+description: "Gezondheidsnieuws over Etoposide. 11 voorspelde indicaties."
 permalink: /news/etoposide/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Etoposide
@@ -26,17 +27,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoposide met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (11)</strong>:<ul>
-<li>Ewing-sarcoom (rang 4 van de 10 voorspellingen; zie de tabel hieronder) (99.8%)</li>
-<li>Goed gedifferentieerd foetaal adenocarcinoom van de long (99.9%)</li>
-<li>Primair pulmonaal lymfoom (99.9%)</li>
-<li>Pulmonaal blastoom (99.9%)</li>
-<li>Ewing-sarcoom (99.8%)</li>
-<li>Botryoïde embryonaal rabdomyosarcoom van de vagina (99.8%)</li>
-<li>Rabdomyosarcoom (99.8%)</li>
-<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg (99.8%)</li>
-<li>Parameningeaal embryonaal rabdomyosarcoom (99.8%)</li>
-<li>Rabdomyosarcoom van de extrahepatische galweg (99.8%)</li>
-<li>Embryonaal rabdomyosarcoom van de prostaat (99.7%)</li>
+<li>Ewing-sarcoom (rang 4 van de 10 voorspellingen; zie de tabel hieronder)</li>
+<li>Goed gedifferentieerd foetaal adenocarcinoom van de long</li>
+<li>Primair pulmonaal lymfoom</li>
+<li>Pulmonaal blastoom</li>
+<li>Ewing-sarcoom</li>
+<li>Botryoïde embryonaal rabdomyosarcoom van de vagina</li>
+<li>Rabdomyosarcoom</li>
+<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg</li>
+<li>Parameningeaal embryonaal rabdomyosarcoom</li>
+<li>Rabdomyosarcoom van de extrahepatische galweg</li>
+<li>Embryonaal rabdomyosarcoom van de prostaat</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoposide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

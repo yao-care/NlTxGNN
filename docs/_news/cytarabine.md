@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Cytarabine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cytarabine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cytarabine. 1 voorspelde indicaties."
 permalink: /news/cytarabine/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Cytarabine
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cytarabine met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Kleincellig longcarcinoom (99.8%)</li>
+<li>Kleincellig longcarcinoom</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

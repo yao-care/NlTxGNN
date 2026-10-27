@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Famciclovir"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Famciclovir. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Famciclovir. 1 voorspelde indicaties."
 permalink: /news/famciclovir/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Famciclovir
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Famciclovir met het
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Postinfectieuze neuralgie (99.8%)</li>
+<li>Postinfectieuze neuralgie</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/famciclovir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

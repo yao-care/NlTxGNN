@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Fluorouracil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Fluorouracil. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Fluorouracil. 1 voorspelde indicaties."
 permalink: /news/fluorouracil/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Fluorouracil
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (99.8%)</li>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

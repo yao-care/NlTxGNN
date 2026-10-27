@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Paclitaxel"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Paclitaxel. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Paclitaxel. 1 voorspelde indicaties."
 permalink: /news/paclitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Paclitaxel
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Borstkanker bij vrouwen (female breast carcinoma) (100.0%)</li>
+<li>Borstkanker bij vrouwen (female breast carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

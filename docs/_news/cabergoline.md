@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Cabergoline"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cabergoline. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cabergoline. 1 voorspelde indicaties."
 permalink: /news/cabergoline/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Cabergoline
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cabergoline met het
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Hypofysekanker (pituitary cancer) (99.0%)</li>
+<li>Hypofysekanker (pituitary cancer)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -5,6 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over overgang (menopause). 1 berichten, 2 gerelateerde geneesmiddelen."
 permalink: /news/menopause/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over overgang (menopause)

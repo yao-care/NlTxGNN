@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Irbesartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Irbesartan. Oorspronkelijke indicatie: . 4 voorspelde indicaties."
+description: "Gezondheidsnieuws over Irbesartan. 4 voorspelde indicaties."
 permalink: /news/irbesartan/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Irbesartan
@@ -26,10 +27,10 @@ Deze pagina combineert de door AI voorspelde indicaties voor Irbesartan met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (4)</strong>:<ul>
-<li>Maligne hypertensieve nierziekte (99.3%)</li>
-<li>Maligne renovasculaire hypertensie (99.3%)</li>
-<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (99.2%)</li>
-<li>Pulmonale hypertensie door longziekte en/of hypoxie (99.2%)</li>
+<li>Maligne hypertensieve nierziekte</li>
+<li>Maligne renovasculaire hypertensie</li>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme</li>
+<li>Pulmonale hypertensie door longziekte en/of hypoxie</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Clonazepam"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Clonazepam. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Clonazepam. 1 voorspelde indicaties."
 permalink: /news/clonazepam/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Clonazepam
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Clonazepam met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Restless legs-syndroom (99.7%)</li>
+<li>Restless legs-syndroom</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

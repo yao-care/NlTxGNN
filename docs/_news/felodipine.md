@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Felodipine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Felodipine. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Felodipine. 1 voorspelde indicaties."
 permalink: /news/felodipine/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Felodipine
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Felodipine met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (99.9%)</li>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

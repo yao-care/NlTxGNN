@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Calcipotriol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Calcipotriol. Oorspronkelijke indicatie: . 10 voorspelde indicaties."
+description: "Gezondheidsnieuws over Calcipotriol. 10 voorspelde indicaties."
 permalink: /news/calcipotriol/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Calcipotriol
@@ -26,16 +27,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>Seborroïsche keratose (100.0%)</li>
-<li>Vulvaire omgekeerde folliculaire keratose (99.9%)</li>
-<li>Vulvovaginitis (99.7%)</li>
-<li>Vulvitis (99.6%)</li>
-<li>Vulvaire neoplasie (99.5%)</li>
-<li>Ulceratie van de vulva (99.5%)</li>
-<li>Vulvaire plaveiselcelneoplasie (99.4%)</li>
-<li>Postmenopauzale atrofische vaginitis (99.4%)</li>
-<li>Ziekte van Paget van het bot (99.2%)</li>
-<li>Fibrocystische borstaandoening (99.0%)</li>
+<li>Seborroïsche keratose</li>
+<li>Vulvaire omgekeerde folliculaire keratose</li>
+<li>Vulvovaginitis</li>
+<li>Vulvitis</li>
+<li>Vulvaire neoplasie</li>
+<li>Ulceratie van de vulva</li>
+<li>Vulvaire plaveiselcelneoplasie</li>
+<li>Postmenopauzale atrofische vaginitis</li>
+<li>Ziekte van Paget van het bot</li>
+<li>Fibrocystische borstaandoening</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

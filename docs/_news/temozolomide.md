@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Temozolomide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Temozolomide. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Temozolomide. 1 voorspelde indicaties."
 permalink: /news/temozolomide/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Temozolomide
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Temozolomide met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Volwassen astrocytair gezwel (99.4%)</li>
+<li>Volwassen astrocytair gezwel</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

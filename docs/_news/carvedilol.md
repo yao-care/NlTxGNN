@@ -3,8 +3,9 @@ layout: default
 title: "Nieuws over Carvedilol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Carvedilol. Oorspronkelijke indicatie: . 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Carvedilol. 1 voorspelde indicaties."
 permalink: /news/carvedilol/
+last_modified_at: 2026-10-27
 ---
 
 # Nieuws over Carvedilol
@@ -26,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Carvedilol met het 
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Maligne hypertensieve nierziekte (99.5%)</li>
+<li>Maligne hypertensieve nierziekte</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

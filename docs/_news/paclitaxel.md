@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
-
-### [Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5)
-
-2026-10-25 <span class="news-indication-tag">overgang</span>
-
-Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5)
-
----
+## Gerelateerd nieuws (1)
 
 ### [Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
 

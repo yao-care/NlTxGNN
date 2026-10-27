@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-27T17:24:14.566956+00:00",
-  "total_count": 7,
-  "matched_count": 2,
+  "last_updated": "2026-10-27T21:46:49.998037+00:00",
+  "total_count": 5,
+  "matched_count": 1,
   "news": [
     {
-      "id": "7dc21cd71302",
-      "title": "Lange rijen voor de griepprik",
-      "published": "2026-10-27T08:46:00+00:00",
-      "summary": "Lange rijen voor de griepprik&nbsp;&nbsp;MaasduinencentraalRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands Dagblad",
+      "id": "c4cdd23e72a7",
+      "title": "Maandenlang moe? Huisartsbezoek ‘niet dringend, maar laat het ook niet aanslepen’",
+      "published": "2026-10-27T15:15:36+00:00",
+      "summary": "Maandenlang moe? Huisartsbezoek ‘niet dringend, maar laat het ook niet aanslepen’&nbsp;&nbsp;AD.nl",
       "sources": [
         {
-          "name": "Maasduinencentraal",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG5EZDlLakFGZzM4TzIzMEZ0Q1dQcFBxdW9fOU9LbzlRaXd1NUp5RlFxYlc5T1l4VmNEcnBuVm5YRUhXT0VEYTFDNVVwR1FRQmFRNXZLbmRkRmNBWmN4cUNPRDVOOHBWQ3d3X3dmWkwtNDJPTmRESGFraW14dGpWaG5qZ0d5WndXaE9zVg?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlVVZ1RfOWZySzd0clA3eFpPR2l2T3BTSHJlRkEwT0dWUUJHRDNjajJFdkpiLVd5RkNoa1FyLTVQSEJ1TU5rdEpwa1lPQnpOR2FqRGh2OUNid19LY0N4T01lOUdqVkdPSm9QdTRxN0JLS1JSVlZ5bnlJTWxEM0JTalI1OEVZLXpuZmVveWhCX3hMMUhMbjlVT2EyM3R5TkwzSmVjQ0ZWRkl0OFlRSldENWdB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,50 +25,6 @@
         {
           "name": "de Stentor",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2a3ac1c1c23b",
-      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
-      "published": "2026-10-25T21:08:00+00:00",
-      "summary": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "46cf235a9d8e",
-      "title": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-25T13:59:15+00:00",
-      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;Reformatorisch DagbladWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladVrouwenorganisaties bundelen krachten samen voor ",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVUxDLXFCQzlPelVxdVVZWnhMd3RVWkMwbmJMMktvcWQyQXI5THRnZUNRY2VtbHNubFJJaDk1d20wY2RYZE5XcFV1cDRMOVItZUJzaDdFN3Q2aWZtbWpmYWFhdmJEcjdxOVRoemRCSzMwSnB5dEFLdUhFYTZFYXFRd1p0TDFYcWZmZmo4Ymo4OUJKVFg5NVZ5UE5hbm52dzJJZ3ppT0h6R3FTSG5XNF9XSWlCOGdIYy0wOUFSYmtET2ZsVThBVXVVdTBmWlVJVzlGa3BXQ1hsUmNiVnRycGxHV1RDOFZUd3cyQ0J1Wk92WjNlSEFyTmoxT2RxX191aTJWN0VZc0Ytb3U3QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -228,7 +184,7 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beEerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUPatiënt in Lyon overleden na besmetting met shamonda-like-virus&nbsp;&nbsp;Nieuwe Oogst",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSNog geen vaccin tegen Shamonda-likevirus: hoe beschermen we onze runderen alsnog?&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
           "name": "AD.nl",

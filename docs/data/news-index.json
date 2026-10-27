@@ -1,37 +1,7 @@
 {
-  "generated": "2026-10-27T17:24:14.578044+00:00",
-  "count": 2,
+  "generated": "2026-10-27T21:46:50.012474+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "2a3ac1c1c23b",
-      "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
-      "published": "2026-10-25T21:08:00+00:00",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "0247c5e59057",
       "title": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’",

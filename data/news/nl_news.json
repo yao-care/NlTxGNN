@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-27T03:34:40.057640+00:00",
-  "count": 10,
+  "fetched_at": "2026-10-27T05:57:41.381107+00:00",
+  "count": 9,
   "news": [
     {
       "id": "46cf235a9d8e",
@@ -24,18 +24,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc5ab6ce0e34",
-      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
-      "published": "2026-10-25T10:30:00+00:00",
-      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
-      "sources": [
-        {
-          "name": "Omroep West",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
         }
       ]
     },
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "dc5ab6ce0e34",
+      "title": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor' - Omroep West",
+      "published": "2026-10-25T10:30:00+00:00",
+      "summary": "Suzanne (35) had twee kleine kinderen en kreeg kanker: 'Absoluut geen tijd voor'&nbsp;&nbsp;Omroep West",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEh5bEFPbjFrVzBRZ0NWSndqN2tLVGNrdWNSY0tYZi0tUm1WWUhiRDZqN0MxZjE4SWJINmxNTmR6LWNkRHRqLUJ4MkpkZlJONGJleXBFZjc3UlptUXlKNzlpdi1qQXphQlA5TWdNNmlhdjI3anBVRVllR3Q3ZS1xN2VsN3pYRkZfR3FETzZDQmdXcnNlVVZ0QzYtT1N3X3lwdmlLWUpNSERZXzlQb3ZaUzVkaDA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a3ac1c1c23b",
       "title": "Vrouwen later in de overgang door minder ingrijpende operatie bij risico op eierstokkanker - De Gelderlander",
       "published": "2026-10-25T21:08:00+00:00",
@@ -72,30 +72,6 @@
         {
           "name": "De Gelderlander",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hCWS1rbzhDYUQ4MVJORW9hSExTZHdiTHdPVFZCUEg4NDZwMXZtb0lzclpReUtubEdFUEFJX2FMSWFrbVF0bld6aWlQRU5pdlc3aW9CdUVuSUF3dk4ydV85Nlo5U0l2ZjF5REZQT01ramYzYjd0a29uQS1PclJGNVJtMG5NUjIxMjAwWTlER0l6c2NQaVROdkIzUTdLYWVIM3pmX214SjZmWDdZOEhHSmFwZFpGeTdoOGItd0YwVHBfNTQwdEdELXF6aEFZZV9E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34ac5ac43f27",
-      "title": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’ - AD.nl",
-      "published": "2026-10-22T11:15:00+00:00",
-      "summary": "Last van hersenmist of slecht slapen? Genoeg daglicht helpt je al verder: ‘Even belangrijk als voeding’&nbsp;&nbsp;AD.nlZo vangt u genoeg licht tijdens de donkere dagen&nbsp;&nbsp;De Standaard‘Wie overgewicht heeft, denkt zelden aan zijn lichtconsumptie’: wat daglicht doet met je slaap en gewicht&nbsp;&nbsp;AD.nl‘Al buiten geweest vandaag?’ Hoe gebruik je licht voor een optimale gezondheid?&nbsp;&nbsp;KnackDe invloed van natuurlijk licht op de gezondheid van de hersenen en het risico op dementie",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3FkbUttYUgtUmdYcGVkQlZzaVFjMnduZzRic2phb1JsTmxEYkphVHVJb21pNHlSamNqQkR1MGxvNmlCUmNFQlB1RFhtaHVPNnFPUjN5ZXRDUDZoR0k3WEtPS2RQaklva2dXck8zY1AydGpMUjNKdi1QN3NoUDN0MVRwT0FNeHpTU0IwSmlVYV9JVE82dWx3Y2RDYlg5UEE4LTVRNFBYRXk3Tmx6OTNYTTdHU0hrWWo5ZHQ2WHRWSE9fSEJ4aE45aVppYi1zRE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0cfc90a0d80",
-      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
-      "published": "2026-10-20T15:58:06+00:00",
-      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik halen of niet? Waarom het wel degelijk zin heeft&nbsp;&nbsp;Radar (AVROTROS)Griepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenGratis griepprik medewerkers Gr",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
         }
       ]
     },
@@ -120,6 +96,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNoOTlqRFpMOFhCdWhhODVCbzdlRGg0d2ZlNkZvd1NoVEhQQ0hWTEZqNEVmOGo5Vm82akJPOEc1TjhiT2pHWXA4dWU2UmdYSnRZT1JhTy1FeldfODNyMFAtR21ZZ2swSGdUZGU2V1pMaU9YYm9Lb0FPcF9UOTFvdzVZUjNMUC1fbE1kZUxMU2tJeDk2blZlRXc0TUtLZjk5cHpzajZWWS1QanRYM21FVTQ0XzM5TGN4eW5QdWs5RHIxX3M0NFZZN0M1WW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0cfc90a0d80",
+      "title": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’ - Noordhollands Dagblad",
+      "published": "2026-10-20T15:58:06+00:00",
+      "summary": "Rij van honderden mensen bij De Blije Mare voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladRij van honderden mensen bij De Blije Mare in Alkmaar voor een griepprik. ’Je kunt zien dat het gratis is’&nbsp;&nbsp;Noordhollands DagbladGriepprik: na griep 6 keer zoveel kans op een hartinfarct, vooral in de eerste week&nbsp;&nbsp;Welingelichte KringenGratis griepprik medewerkers Groenvoorziening&nbsp;&nbsp;www.cnv.nl",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTFRWVpfUTd5U1FRQ3JyaTlWRUdUMkd2TjBWV0Z1SmFKMjZ0STFBVzdWbXdoOWVaVFRacnBTaDZpbVhJWGNNTllEZ2lzNnNxYWVvOEpqOUZQSllYakVHTm1rMmtaN1F6Y2lYd19wWG40UzZteHhacjRJUXlISkZ2ckNqQkZvVHNlTFVNLTBjOGp1M0NVcWxERDVJQTNkRnRkNzBVZ3oxT3hYcmpBT3Frci0tRWpYLUJqRFlTcGk0NVctUUpEQ0k1cG9PcTJhYVdySmU5U1NaZkR1engtODRVWmYwQ0Z2d3BYMWdXMlJMcw?oc=5"
         }
       ]
     }

@@ -382,7 +382,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "Bewijsrapporten over geneesmiddelen van NlTxGNN",
       "description": "Bewijsrapporten over herbestemming van geneesmiddelen die in Nederland zijn goedgekeurd",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {

@@ -19,7 +19,7 @@ Voorspellingen voor herpositionering van geneesmiddelen voor door CBG-MEB (Nethe
 
 | Item | Aantal |
 |------|------|
-| **Geneesmiddelrapporten** | 145 |
+| **Geneesmiddelrapporten** | 334 |
 | **Totale voorspellingen** | 2,473,755 |
 | **Unieke geneesmiddelen** | 145 |
 | **Unieke indicaties** | 17,081 |

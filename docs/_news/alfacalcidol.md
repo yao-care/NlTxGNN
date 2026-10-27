@@ -1,82 +1,16 @@
 ---
-layout: default
-title: "Nieuws over Alfacalcidol"
-parent: Gezondheidsnieuws
-nav_exclude: true
-description: "Gezondheidsnieuws over Alfacalcidol. Oorspronkelijke indicatie: . 5 voorspelde indicaties."
+layout: id_redirect
 permalink: /news/alfacalcidol/
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Nieuws over Alfacalcidol
-
-[← Terug naar nieuwsoverzicht]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="Welk nieuws is er over Alfacalcidol?">
-<strong>Alfacalcidol</strong> heeft momenteel <strong>0 nieuwsberichten</strong> en 5 voorspelde indicaties.
-</p>
-
-<div class="key-takeaway">
-Deze pagina combineert de door AI voorspelde indicaties voor Alfacalcidol met het laatste gezondheidsnieuws. Oranje gemarkeerde indicaties zijn recent in het nieuws geweest.
-</div>
-
-<div class="drug-info-card">
-<strong>Geneesmiddelinformatie</strong>
-<ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (5)</strong>:<ul>
-<li>Familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secretie (99.6%)</li>
-<li>Dahlberg-Borer-Newcomer-syndroom (99.6%)</li>
-<li>Craniofaciale conodysplasie (99.5%)</li>
-<li>Acromesomele dysplasie, type Campailla-Martinelli (99.5%)</li>
-<li>Renale tubulaire acidose (99.3%)</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
-</div>
-
-## Gerelateerd nieuws (0)
-
-*Er is nog geen gerelateerd nieuws. Zodra een bericht dit geneesmiddel noemt, wordt het automatisch verzameld en hier getoond.*
-
-
-<div class="disclaimer">
-<strong>Disclaimer</strong>: Het nieuws op deze pagina wordt automatisch verzameld en dient uitsluitend als onderzoeksreferentie; het vormt geen medisch advies.
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/alfacalcidol/">
+<meta http-equiv="refresh" content="0; url=/drugs/alfacalcidol/">
+<script>location="/drugs/alfacalcidol/"</script>
+<a href="/drugs/alfacalcidol/">/drugs/alfacalcidol/</a>
+</html>

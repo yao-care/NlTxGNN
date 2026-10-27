@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Eplerenon: Van hypertensie naar pulmonale hypertensie door longziekte en/of hypoxie
+## Eplerenon: Van hypertensie naar pulmonale hypertensie door longziekte en/of hypoxie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

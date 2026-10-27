@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Enoxaparine: van pulmonale embolie naar trombofilie door proteïne C-deficiëntie (autosomaal recessief)
+## Enoxaparine: van pulmonale embolie naar trombofilie door proteïne C-deficiëntie (autosomaal recessief)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Pregabaline: Van angststoornis naar tendinitis
+## Pregabaline: Van angststoornis naar tendinitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

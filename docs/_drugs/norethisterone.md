@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Norethisteron: Van endometriose en ovariële insufficiëntie naar amenorroe
+## Norethisteron: Van endometriose en ovariële insufficiëntie naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

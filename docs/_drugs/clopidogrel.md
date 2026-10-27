@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **8**
 
 </div>
 
-# Clopidogrel: Van acuut coronair syndroom naar migraine
+## Clopidogrel: Van acuut coronair syndroom naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

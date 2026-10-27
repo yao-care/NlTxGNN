@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **7**
 
 </div>
 
-# Cholecalciferol: Van osteoporose en vitamine D-deficiëntie naar renale osteodystrofie
+## Cholecalciferol: Van osteoporose en vitamine D-deficiëntie naar renale osteodystrofie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

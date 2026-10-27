@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dorzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
+## Dorzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-# Donepezil: Van de ziekte van Alzheimer naar chronische tic-stoornis
+## Donepezil: Van de ziekte van Alzheimer naar chronische tic-stoornis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

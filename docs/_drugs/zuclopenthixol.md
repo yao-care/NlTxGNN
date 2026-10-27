@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Zuclopenthixol: Van schizofrenie naar retinale dystrofie
+## Zuclopenthixol: Van schizofrenie naar retinale dystrofie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

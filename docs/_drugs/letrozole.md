@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Letrozol: Van borstkanker (oorspronkelijke indicatie niet vastgelegd) naar vrouwelijk mammacarcinoom
+## Letrozol: Van borstkanker (oorspronkelijke indicatie niet vastgelegd) naar vrouwelijk mammacarcinoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

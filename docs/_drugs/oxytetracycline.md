@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Oxytetracycline: Van urineweginfectie naar chronische rinosinusitis
+## Oxytetracycline: Van urineweginfectie naar chronische rinosinusitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tobramycine: Van bacteriële oogontstekingen naar blootstellingskeratitis
+## Tobramycine: Van bacteriële oogontstekingen naar blootstellingskeratitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

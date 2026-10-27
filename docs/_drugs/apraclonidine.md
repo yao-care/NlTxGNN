@@ -31,7 +31,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Apraclonidine: Van open-hoekglaucoom naar primair erfelijk glaucoom
+## Apraclonidine: Van open-hoekglaucoom naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Sorbitol: Van onbekende oorspronkelijke indicatie naar inspanningsgebonden maligne hyperthermie
+## Sorbitol: Van onbekende oorspronkelijke indicatie naar inspanningsgebonden maligne hyperthermie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

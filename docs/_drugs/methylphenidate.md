@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Methylfenidaat: Van ADHD naar faciodigitogenitaal syndroom
+## Methylfenidaat: Van ADHD naar faciodigitogenitaal syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

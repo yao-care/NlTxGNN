@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Esketamine: Van angststoornis naar agorafobie
+## Esketamine: Van angststoornis naar agorafobie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

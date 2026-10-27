@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Fluconazol: Van candidiasis naar punctate epitheliale keratoconjunctivitis
+## Fluconazol: Van candidiasis naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

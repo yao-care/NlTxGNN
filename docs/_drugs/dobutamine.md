@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dobutamine: Van de oorspronkelijke indicatie naar alopecia (haaruitval)
+## Dobutamine: Van de oorspronkelijke indicatie naar alopecia (haaruitval)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

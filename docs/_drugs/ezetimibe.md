@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **4**
 
 </div>
 
-# Ezetimibe: Van hyperlipidemie naar hyperlipoproteïnemie
+## Ezetimibe: Van hyperlipidemie naar hyperlipoproteïnemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

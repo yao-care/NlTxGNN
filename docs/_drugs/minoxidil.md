@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Minoxidil: Van hypertensie en haaruitval naar hypotrichosis simplex van de hoofdhuid
+## Minoxidil: Van hypertensie en haaruitval naar hypotrichosis simplex van de hoofdhuid
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

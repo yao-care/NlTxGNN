@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Fentanyl: Van pijnbestrijding naar nefrogeen syndroom van inadequate antidiurese
+## Fentanyl: Van pijnbestrijding naar nefrogeen syndroom van inadequate antidiurese
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

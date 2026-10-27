@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Isoleucine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+## Isoleucine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

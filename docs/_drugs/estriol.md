@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Estriol: Van oorspronkelijke indicatie (niet vastgelegd) naar amenorroe
+## Estriol: Van oorspronkelijke indicatie (niet vastgelegd) naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

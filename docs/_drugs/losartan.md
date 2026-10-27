@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **8**
 
 </div>
 
-# Losartan: Van hypertensie naar maligne renovasculaire hypertensie
+## Losartan: Van hypertensie naar maligne renovasculaire hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

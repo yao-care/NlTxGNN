@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Domperidon: Van een maagdarmindicatie naar nefrogeen syndroom van inadequate antidiurese (NSIAD)
+## Domperidon: Van een maagdarmindicatie naar nefrogeen syndroom van inadequate antidiurese (NSIAD)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

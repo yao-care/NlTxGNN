@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Alfuzosine: Van benigne prostaathyperplasie naar het syndroom van Ambras (hypertrichosis universalis congenita)
+## Alfuzosine: Van benigne prostaathyperplasie naar het syndroom van Ambras (hypertrichosis universalis congenita)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

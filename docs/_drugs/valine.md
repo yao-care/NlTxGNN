@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Valine: Van een voedingscomponent naar sclerosing cholangitis
+## Valine: Van een voedingscomponent naar sclerosing cholangitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

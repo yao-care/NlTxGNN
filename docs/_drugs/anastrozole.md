@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-# Anastrozol: Van borstkanker (geregistreerde indicatie) naar borstcarcinoom bij vrouwen (voorspelde indicatie)
+## Anastrozol: Van borstkanker (geregistreerde indicatie) naar borstcarcinoom bij vrouwen (voorspelde indicatie)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

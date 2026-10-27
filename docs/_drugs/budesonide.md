@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Budesonide: Van Ziekte van Crohn en Astma naar Atopisch Eczeem
+## Budesonide: Van Ziekte van Crohn en Astma naar Atopisch Eczeem
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

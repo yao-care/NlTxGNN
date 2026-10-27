@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Allopurinol: Van jicht naar hepatische porfyrie
+## Allopurinol: Van jicht naar hepatische porfyrie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -32,7 +32,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# ABCIXIMAB: Evaluatie voor Herbestemming van Geneesmiddelen — Geen Kandidaat-indicaties Geïdentificeerd
+## ABCIXIMAB: Evaluatie voor Herbestemming van Geneesmiddelen — Geen Kandidaat-indicaties Geïdentificeerd
+{: .text-alpha }
 
 ## Samenvatting in Één Zin
 

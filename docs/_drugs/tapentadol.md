@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Tapentadol: Van pijnstilling naar migraine
+## Tapentadol: Van pijnstilling naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

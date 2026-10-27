@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Duloxetine: Van unipolaire depressie naar benigne paroxismale torticollis van de kindertijd
+## Duloxetine: Van unipolaire depressie naar benigne paroxismale torticollis van de kindertijd
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

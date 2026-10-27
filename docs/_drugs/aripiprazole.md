@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Aripiprazol: Van bipolaire stoornis en schizofrenie naar ernstige affectieve stoornis (majeure depressie)
+## Aripiprazol: Van bipolaire stoornis en schizofrenie naar ernstige affectieve stoornis (majeure depressie)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

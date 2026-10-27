@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Articaïne: Van lokale anesthesie naar jicht
+## Articaïne: Van lokale anesthesie naar jicht
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

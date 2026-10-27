@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Midodrine: Van orthostatische hypotensie naar hypotensieve aandoening
+## Midodrine: Van orthostatische hypotensie naar hypotensieve aandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

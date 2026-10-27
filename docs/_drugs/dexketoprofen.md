@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dexketoprofen: van NSAID-pijnstiller naar tendinitis
+## Dexketoprofen: van NSAID-pijnstiller naar tendinitis
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

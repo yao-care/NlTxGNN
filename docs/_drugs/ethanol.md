@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Ethanol: Van oorspronkelijke indicatie (niet vastgelegd) naar migraine
+## Ethanol: Van oorspronkelijke indicatie (niet vastgelegd) naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

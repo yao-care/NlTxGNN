@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-# Misoprostol: Van een niet vastgestelde oorspronkelijke indicatie naar amenorroe
+## Misoprostol: Van een niet vastgestelde oorspronkelijke indicatie naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Cilastatine: Van bacteriële pneumonie naar Staphylococcus aureus-infectie
+## Cilastatine: Van bacteriële pneumonie naar Staphylococcus aureus-infectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

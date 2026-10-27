@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-# Chlorambucil: Van Hodgkin-lymfoom en CLL naar primair pulmonaal lymfoom
+## Chlorambucil: Van Hodgkin-lymfoom en CLL naar primair pulmonaal lymfoom
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

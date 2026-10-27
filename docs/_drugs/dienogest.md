@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dienogest: Van endometriose naar amenorroe
+## Dienogest: Van endometriose naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Ciclosporine: Van reumatoïde artritis en droge ogen naar chronische granulomateuze ziekte
+## Ciclosporine: Van reumatoïde artritis en droge ogen naar chronische granulomateuze ziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

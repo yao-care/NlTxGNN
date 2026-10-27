@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bendamustine: Van folliculair lymfoom naar mantelcellymfoom
+## Bendamustine: Van folliculair lymfoom naar mantelcellymfoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

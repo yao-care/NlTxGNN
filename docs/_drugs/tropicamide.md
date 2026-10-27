@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Tropicamide: Van cycloplegie naar caudaequinasyndroom
+## Tropicamide: Van cycloplegie naar caudaequinasyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

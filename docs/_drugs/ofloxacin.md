@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ofloxacine: Van bacteriële infecties naar septische pest
+## Ofloxacine: Van bacteriële infecties naar septische pest
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

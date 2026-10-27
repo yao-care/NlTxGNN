@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Tadalafil: Van erectiestoornissen en pulmonale hypertensie naar Ambras-type hypertrichosis universalis congenita
+## Tadalafil: Van erectiestoornissen en pulmonale hypertensie naar Ambras-type hypertrichosis universalis congenita
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

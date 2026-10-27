@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Alitretinoïne: Van chronisch handeczeem naar amenorroe
+## Alitretinoïne: Van chronisch handeczeem naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

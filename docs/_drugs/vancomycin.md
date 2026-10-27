@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Vancomycine: Van Clostridium difficile-colitis naar diffuse sclerodermie
+## Vancomycine: Van Clostridium difficile-colitis naar diffuse sclerodermie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

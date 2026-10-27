@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Prednisolon: Van auto-immuunziekten naar alopecia areata
+## Prednisolon: Van auto-immuunziekten naar alopecia areata
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

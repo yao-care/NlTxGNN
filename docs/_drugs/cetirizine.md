@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **6**
 
 </div>
 
-# Cetirizine: Van allergische rhinitis naar allergische urticaria
+## Cetirizine: Van allergische rhinitis naar allergische urticaria
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

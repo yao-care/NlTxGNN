@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bupropion: Van depressie en nicotineafhankelijkheid naar aandachtstekort-hyperactiviteitsstoornis (ADHD)
+## Bupropion: Van depressie en nicotineafhankelijkheid naar aandachtstekort-hyperactiviteitsstoornis (ADHD)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Ritonavir: Van hiv/aids naar felien verworven immunodeficiëntiesyndroom
+## Ritonavir: Van hiv/aids naar felien verworven immunodeficiëntiesyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

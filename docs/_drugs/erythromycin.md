@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Erythromycine: Van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+## Erythromycine: Van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

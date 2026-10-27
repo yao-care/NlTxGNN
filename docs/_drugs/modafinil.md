@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-# Modafinil: Van narcolepsie naar insomnie
+## Modafinil: Van narcolepsie naar insomnie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

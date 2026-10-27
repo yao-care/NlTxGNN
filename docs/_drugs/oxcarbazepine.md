@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Oxcarbazepine: Van partiële epilepsie naar visuele epilepsie
+## Oxcarbazepine: Van partiële epilepsie naar visuele epilepsie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

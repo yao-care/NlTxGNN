@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-# Buprenorfine: Van opioïdafhankelijkheid naar acute intermitterende porfyrie
+## Buprenorfine: Van opioïdafhankelijkheid naar acute intermitterende porfyrie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

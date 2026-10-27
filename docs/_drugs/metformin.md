@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Metformine: Van type 2 diabetes mellitus naar focal stiff limb syndrome
+## Metformine: Van type 2 diabetes mellitus naar focal stiff limb syndrome
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

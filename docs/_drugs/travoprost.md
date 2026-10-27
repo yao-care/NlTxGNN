@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Travoprost: Van open-hoekglaucoom naar viscerale calciphylaxie
+## Travoprost: Van open-hoekglaucoom naar viscerale calciphylaxie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

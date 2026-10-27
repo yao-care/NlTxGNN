@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Miconazol: Van schimmelinfecties van de huid naar acne
+## Miconazol: Van schimmelinfecties van de huid naar acne
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

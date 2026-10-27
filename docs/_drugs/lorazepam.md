@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Lorazepam: Van epilepsie en angststoornissen naar trigeminuszenuwneoplasma
+## Lorazepam: Van epilepsie en angststoornissen naar trigeminuszenuwneoplasma
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

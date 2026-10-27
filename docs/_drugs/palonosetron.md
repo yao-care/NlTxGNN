@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Palonosetron: Van een 5-HT3-antagonist naar migraineaandoening
+## Palonosetron: Van een 5-HT3-antagonist naar migraineaandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

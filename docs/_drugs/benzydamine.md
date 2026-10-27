@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Benzydamine: Van een lokaal werkend NSAID naar benigne prostaathyperplasie
+## Benzydamine: Van een lokaal werkend NSAID naar benigne prostaathyperplasie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

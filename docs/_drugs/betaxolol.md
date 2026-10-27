@@ -31,7 +31,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Betaxolol: Van open-hoekglaucoom naar primair erfelijk glaucoom
+## Betaxolol: Van open-hoekglaucoom naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Nortriptyline: Van angststoornis naar aandachtstekortstoornis met hyperactiviteit (ADHD)
+## Nortriptyline: Van angststoornis naar aandachtstekortstoornis met hyperactiviteit (ADHD)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

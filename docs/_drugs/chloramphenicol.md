@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 </div>
 
-# Chlooramfenicol: Van tyfus en andere bacteriële infecties naar conjunctivitis
+## Chlooramfenicol: Van tyfus en andere bacteriële infecties naar conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

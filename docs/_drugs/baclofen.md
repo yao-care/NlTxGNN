@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Baclofen: van spasticiteit naar aandachtstekortstoornis met hyperactiviteit (ADHD)
+## Baclofen: van spasticiteit naar aandachtstekortstoornis met hyperactiviteit (ADHD)
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

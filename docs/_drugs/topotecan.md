@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Topotecan: Van ovariumcarcinoom naar mammacarcinoom (borstkanker bij vrouwen)
+## Topotecan: Van ovariumcarcinoom naar mammacarcinoom (borstkanker bij vrouwen)
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

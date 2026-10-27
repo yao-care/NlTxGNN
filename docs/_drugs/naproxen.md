@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Naproxen: Van reumatoïde artritis en pijnklachten naar brachydactylie-syndactylie-syndroom
+## Naproxen: Van reumatoïde artritis en pijnklachten naar brachydactylie-syndactylie-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

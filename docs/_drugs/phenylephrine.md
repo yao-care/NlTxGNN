@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Fenylefrine: Van allergische rinitis naar aandoeningen van de neusholte
+## Fenylefrine: Van allergische rinitis naar aandoeningen van de neusholte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **2**
 
 </div>
 
-# Xylometazoline: Van verkoudheid en faryngitis naar neusholteaandoening
+## Xylometazoline: Van verkoudheid en faryngitis naar neusholteaandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

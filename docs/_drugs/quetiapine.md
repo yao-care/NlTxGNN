@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Quetiapine: van bipolaire stoornis en schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Quetiapine: van bipolaire stoornis en schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

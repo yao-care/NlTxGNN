@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Polymyxine B: Van oorspronkelijke indicatie (niet vastgelegd) naar bronchitis
+## Polymyxine B: Van oorspronkelijke indicatie (niet vastgelegd) naar bronchitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

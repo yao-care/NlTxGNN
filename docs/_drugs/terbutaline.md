@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **3**
 
 </div>
 
-# Terbutaline: Van astma naar obstructieve longziekte
+## Terbutaline: Van astma naar obstructieve longziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

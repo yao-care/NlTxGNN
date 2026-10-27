@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-# Glucagon: Van diagnostische/hypoglykemische toepassing naar prikkelbare darmsyndroom
+## Glucagon: Van diagnostische/hypoglykemische toepassing naar prikkelbare darmsyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

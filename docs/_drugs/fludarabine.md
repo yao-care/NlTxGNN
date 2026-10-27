@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fludarabine: Van een niet-vastgestelde oorspronkelijke indicatie naar plasmacelmyeloom
+## Fludarabine: Van een niet-vastgestelde oorspronkelijke indicatie naar plasmacelmyeloom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

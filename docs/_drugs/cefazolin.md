@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **8**
 
 </div>
 
-# Cefazolin: Van bacteriële pneumonie naar infectieuze otitis media
+## Cefazolin: Van bacteriële pneumonie naar infectieuze otitis media
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

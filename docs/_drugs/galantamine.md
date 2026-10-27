@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Galantamine: Van de ziekte van Alzheimer naar extrapiramidale bewegingsstoornissen
+## Galantamine: Van de ziekte van Alzheimer naar extrapiramidale bewegingsstoornissen
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

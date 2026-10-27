@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-# Rifaximine: Van hepatische encefalopathie naar orale candidiasis
+## Rifaximine: Van hepatische encefalopathie naar orale candidiasis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

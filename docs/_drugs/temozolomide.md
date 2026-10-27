@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **2**
 
 </div>
 
-# Temozolomide: Van astrocytoom/glioblastoom naar volwassen astrocytair gezwel
+## Temozolomide: Van astrocytoom/glioblastoom naar volwassen astrocytair gezwel
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

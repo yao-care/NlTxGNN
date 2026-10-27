@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fluoxetine: Van depressieve stoornis naar schizotypische persoonlijkheidsstoornis
+## Fluoxetine: Van depressieve stoornis naar schizotypische persoonlijkheidsstoornis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

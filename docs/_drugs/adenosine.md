@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Adenosine: Van ventriculaire tachycardie naar bundeltakblok (verouderde ziektenaam)
+## Adenosine: Van ventriculaire tachycardie naar bundeltakblok (verouderde ziektenaam)
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

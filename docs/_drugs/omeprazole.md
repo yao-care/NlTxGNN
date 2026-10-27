@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **2**
 
 </div>
 
-# Omeprazol: Van maagzweer en refluxziekte naar duodenogastrische reflux
+## Omeprazol: Van maagzweer en refluxziekte naar duodenogastrische reflux
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tetrabenazine: Van de ziekte van Huntington naar polycysteuze nierziekte type 3 (met of zonder polycysteuze leverziekte)
+## Tetrabenazine: Van de ziekte van Huntington naar polycysteuze nierziekte type 3 (met of zonder polycysteuze leverziekte)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

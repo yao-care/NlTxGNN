@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 </div>
 
-# Eletriptan: Van migraine naar migraine met hersenstamaura
+## Eletriptan: Van migraine naar migraine met hersenstamaura
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

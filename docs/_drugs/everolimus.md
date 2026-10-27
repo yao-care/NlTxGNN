@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Everolimus: van niercelcarcinoom naar liposarcoom
+## Everolimus: van niercelcarcinoom naar liposarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

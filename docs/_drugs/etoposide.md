@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Etoposide: Van kleincellig longcarcinoom en testistumoren naar Ewing-sarcoom
+## Etoposide: Van kleincellig longcarcinoom en testistumoren naar Ewing-sarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

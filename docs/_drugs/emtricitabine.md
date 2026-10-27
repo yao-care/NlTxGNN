@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Emtricitabine: Van hiv/aids naar feline acquired immunodeficiency syndrome (kattenaids)
+## Emtricitabine: Van hiv/aids naar feline acquired immunodeficiency syndrome (kattenaids)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

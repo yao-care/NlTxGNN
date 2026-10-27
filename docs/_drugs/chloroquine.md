@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 </div>
 
-# Chloroquine: Van reumatoïde artritis naar RF-positieve polyarticulaire juveniele idiopathische artritis
+## Chloroquine: Van reumatoïde artritis naar RF-positieve polyarticulaire juveniele idiopathische artritis
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

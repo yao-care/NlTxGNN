@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Primidon: Van epilepsie naar trigeminuszenuwneoplasma
+## Primidon: Van epilepsie naar trigeminuszenuwneoplasma
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

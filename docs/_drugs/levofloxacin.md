@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Levofloxacine: van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+## Levofloxacine: van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

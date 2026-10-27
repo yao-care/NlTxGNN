@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Tiapride: Van oorspronkelijke indicatie (niet vastgelegd) naar migraine
+## Tiapride: Van oorspronkelijke indicatie (niet vastgelegd) naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

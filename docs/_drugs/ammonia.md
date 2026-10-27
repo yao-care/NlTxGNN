@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Ammoniak: Van psoriasis en andere huidaandoeningen naar acrodermatitis chronica atrophicans
+## Ammoniak: Van psoriasis en andere huidaandoeningen naar acrodermatitis chronica atrophicans
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

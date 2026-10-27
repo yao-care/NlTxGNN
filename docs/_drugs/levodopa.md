@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Levodopa: Van de ziekte van Parkinson naar Rasmussen-encefalitis
+## Levodopa: Van de ziekte van Parkinson naar Rasmussen-encefalitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

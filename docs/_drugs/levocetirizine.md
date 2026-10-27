@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Levocetirizine: Van allergische rinitis naar reumatoïde artritis
+## Levocetirizine: Van allergische rinitis naar reumatoïde artritis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

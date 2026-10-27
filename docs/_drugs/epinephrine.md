@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **4**
 
 </div>
 
-# Epinefrine: Van astma en anafylaxie naar obstructieve longziekte
+## Epinefrine: Van astma en anafylaxie naar obstructieve longziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

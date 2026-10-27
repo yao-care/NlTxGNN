@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Vecuronium: Van neuromusculaire blokkade naar slapeloosheid (insomnia)
+## Vecuronium: Van neuromusculaire blokkade naar slapeloosheid (insomnia)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

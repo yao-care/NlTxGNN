@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Hydrocortison: Van bijnierschorsinsufficiëntie en auto-immuunziekten naar alopecia areata
+## Hydrocortison: Van bijnierschorsinsufficiëntie en auto-immuunziekten naar alopecia areata
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

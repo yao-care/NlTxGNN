@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Candesartan cilexetil: Van hypertensie naar maligne renovasculaire hypertensie
+## Candesartan cilexetil: Van hypertensie naar maligne renovasculaire hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

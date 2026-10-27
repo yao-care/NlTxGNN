@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Carboplatine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+## Carboplatine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

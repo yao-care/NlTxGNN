@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Flurbiprofen: Van reumatoïde artritis naar acromesomele dysplasie, type Hunter-Thompson
+## Flurbiprofen: Van reumatoïde artritis naar acromesomele dysplasie, type Hunter-Thompson
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

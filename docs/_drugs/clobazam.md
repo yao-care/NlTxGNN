@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Clobazam: Van Lennox-Gastaut-syndroom naar febriele infectiegerelateerde epilepsiesyndroom (FIRES)
+## Clobazam: Van Lennox-Gastaut-syndroom naar febriele infectiegerelateerde epilepsiesyndroom (FIRES)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

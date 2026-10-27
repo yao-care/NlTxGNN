@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Colchicine: Van jicht en familiaire mediterrane koorts naar Plasmodium falciparum-malaria
+## Colchicine: Van jicht en familiaire mediterrane koorts naar Plasmodium falciparum-malaria
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

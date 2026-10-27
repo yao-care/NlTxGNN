@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Alprazolam: Van angststoornis naar slapeloosheid (insomnia)
+## Alprazolam: Van angststoornis naar slapeloosheid (insomnia)
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

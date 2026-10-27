@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-# Atorvastatine: Van hyperlipidemie en cardiovasculaire aandoeningen naar familiaire hypercholesterolemie
+## Atorvastatine: Van hyperlipidemie en cardiovasculaire aandoeningen naar familiaire hypercholesterolemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Mesalazine: Van colitis ulcerosa naar reumatoïde artritis
+## Mesalazine: Van colitis ulcerosa naar reumatoïde artritis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

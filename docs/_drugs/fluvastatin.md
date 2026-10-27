@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fluvastatine: van hyperlipidemie en atherosclerose naar hyperlipoproteïnemie
+## Fluvastatine: van hyperlipidemie en atherosclerose naar hyperlipoproteïnemie
+{: .text-alpha }
 
 ## Samenvatting
 

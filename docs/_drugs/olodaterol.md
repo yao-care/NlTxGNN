@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-# Olodaterol: van COPD naar bronchitis
+## Olodaterol: van COPD naar bronchitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

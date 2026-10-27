@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Oxymetazoline: Van faryngitis en verkoudheid naar aandoeningen van de neusholte
+## Oxymetazoline: Van faryngitis en verkoudheid naar aandoeningen van de neusholte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

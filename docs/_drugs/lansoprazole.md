@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-# Lansoprazol: Van maagzweer naar duodenogastrische reflux
+## Lansoprazol: Van maagzweer naar duodenogastrische reflux
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

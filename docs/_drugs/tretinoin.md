@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tretinoïne: Van acne en acute promyelocytaire leukemie naar reumatoïde nodulose
+## Tretinoïne: Van acne en acute promyelocytaire leukemie naar reumatoïde nodulose
+{: .text-alpha }
 
 ## Samenvatting
 

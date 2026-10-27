@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Acarbose: Van diabetes mellitus type 2 naar focale stijve-ledemaatsyndroom
+## Acarbose: Van diabetes mellitus type 2 naar focale stijve-ledemaatsyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

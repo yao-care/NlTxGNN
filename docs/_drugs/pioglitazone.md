@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Pioglitazon: Van diabetes mellitus type 2 naar opsismodysplasie
+## Pioglitazon: Van diabetes mellitus type 2 naar opsismodysplasie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

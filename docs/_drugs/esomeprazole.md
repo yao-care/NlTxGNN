@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Esomeprazol: Van maagzuurgerelateerde aandoeningen naar duodenogastrische reflux
+## Esomeprazol: Van maagzuurgerelateerde aandoeningen naar duodenogastrische reflux
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

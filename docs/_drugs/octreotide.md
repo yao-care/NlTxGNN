@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Octreotide: Van acromegalie naar vulvaire inverted follicular keratosis
+## Octreotide: Van acromegalie naar vulvaire inverted follicular keratosis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

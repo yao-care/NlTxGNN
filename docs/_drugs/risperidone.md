@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-# Risperidon: Van schizofrenie en bipolaire stoornis naar ernstige affectieve stoornis (major affective disorder)
+## Risperidon: Van schizofrenie en bipolaire stoornis naar ernstige affectieve stoornis (major affective disorder)
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

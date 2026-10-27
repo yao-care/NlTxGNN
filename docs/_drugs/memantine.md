@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Memantine: van de oorspronkelijke indicatie naar pulmonale hypertensie
+## Memantine: van de oorspronkelijke indicatie naar pulmonale hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

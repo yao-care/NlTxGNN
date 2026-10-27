@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Trimethoprim: Van urineweginfecties naar punctate epitheliale keratoconjunctivitis
+## Trimethoprim: Van urineweginfecties naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

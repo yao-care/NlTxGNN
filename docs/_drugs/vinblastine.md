@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Vinblastine: Van Hodgkin-lymfoom naar rabdomyosarcoom
+## Vinblastine: Van Hodgkin-lymfoom naar rabdomyosarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

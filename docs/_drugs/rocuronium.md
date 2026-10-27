@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Rocuronium: Van neuromusculaire blokkade naar migraine
+## Rocuronium: Van neuromusculaire blokkade naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

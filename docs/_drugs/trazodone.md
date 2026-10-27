@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Trazodon: Van depressie naar obsessief-compulsieve stoornis
+## Trazodon: Van depressie naar obsessief-compulsieve stoornis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

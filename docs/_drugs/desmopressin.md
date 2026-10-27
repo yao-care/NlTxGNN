@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **7**
 
 </div>
 
-# Desmopressine: Van von Willebrand-ziekte en nachtelijke enuresis naar primaire afgifestoornis van bloedplaatjes
+## Desmopressine: Van von Willebrand-ziekte en nachtelijke enuresis naar primaire afgifestoornis van bloedplaatjes
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Hyaluronidase: Van een niet-vastgelegde oorspronkelijke indicatie naar diabetische retinopathie
+## Hyaluronidase: Van een niet-vastgelegde oorspronkelijke indicatie naar diabetische retinopathie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Clonidine: van hypertensie naar faciodigitogenitaal syndroom
+## Clonidine: van hypertensie naar faciodigitogenitaal syndroom
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

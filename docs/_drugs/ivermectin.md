@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Ivermectine: Van strongyloïdiasis en onchocerciasis naar vulvovaginale candidiasis
+## Ivermectine: Van strongyloïdiasis en onchocerciasis naar vulvovaginale candidiasis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

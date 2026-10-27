@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Bumetanide: Van congestief hartfalen naar acute pulmonale hartziekte
+## Bumetanide: Van congestief hartfalen naar acute pulmonale hartziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

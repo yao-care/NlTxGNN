@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-# Clonazepam: Van epilepsie en angststoornissen naar restless legs-syndroom
+## Clonazepam: Van epilepsie en angststoornissen naar restless legs-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

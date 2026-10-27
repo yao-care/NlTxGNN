@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **3**
 
 </div>
 
-# Clotrimazol: Van dermatomycosen en candidiasis naar vulvovaginitis
+## Clotrimazol: Van dermatomycosen en candidiasis naar vulvovaginitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

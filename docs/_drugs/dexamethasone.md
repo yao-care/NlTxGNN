@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dexamethason: Van Crohn, bijnierinsufficiëntie en leukemie naar alopecia areata
+## Dexamethason: Van Crohn, bijnierinsufficiëntie en leukemie naar alopecia areata
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

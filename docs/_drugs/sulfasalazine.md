@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Sulfasalazine: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+## Sulfasalazine: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

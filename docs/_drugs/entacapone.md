@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Entacapone: Van de ziekte van Parkinson naar PLA2G6-geassocieerde neurodegeneratie
+## Entacapone: Van de ziekte van Parkinson naar PLA2G6-geassocieerde neurodegeneratie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

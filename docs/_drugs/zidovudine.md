@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-# Zidovudine: Van hiv/aids naar felien verworven immuundeficiëntiesyndroom (kattenaids)
+## Zidovudine: Van hiv/aids naar felien verworven immuundeficiëntiesyndroom (kattenaids)
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

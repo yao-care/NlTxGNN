@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-# Midazolam: Van angst naar slapeloosheid (insomnia)
+## Midazolam: Van angst naar slapeloosheid (insomnia)
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

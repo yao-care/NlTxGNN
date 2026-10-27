@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Loperamide: Van diarree naar acute besmettelijke conjunctivitis
+## Loperamide: Van diarree naar acute besmettelijke conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

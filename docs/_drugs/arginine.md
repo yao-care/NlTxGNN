@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Arginine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+## Arginine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

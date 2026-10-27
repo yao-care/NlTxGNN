@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Chloortalidon: Van hypertensie en hartfalen naar primair erfelijk glaucoom
+## Chloortalidon: Van hypertensie en hartfalen naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Flupentixol: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Flupentixol: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

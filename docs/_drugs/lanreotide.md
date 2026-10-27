@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Lanreotide: Van acromegalie naar hypertrichose
+## Lanreotide: Van acromegalie naar hypertrichose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

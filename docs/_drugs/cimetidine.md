@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Cimetidine: Van maagzweer naar smouldering systemische mastocytose
+## Cimetidine: Van maagzweer naar smouldering systemische mastocytose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

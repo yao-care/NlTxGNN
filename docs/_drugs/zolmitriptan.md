@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Zolmitriptan: Van migraine naar migraine met hersenstamaura
+## Zolmitriptan: Van migraine naar migraine met hersenstamaura
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

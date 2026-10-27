@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Verapamil: Van hypertensie en hartritmestoornissen naar pulmonale hypertensie door longziekte en/of hypoxie
+## Verapamil: Van hypertensie en hartritmestoornissen naar pulmonale hypertensie door longziekte en/of hypoxie
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Dalteparine: Van pulmonaire embolie en purpura fulminans naar trombofilie door proteïne C-deficiëntie
+## Dalteparine: Van pulmonaire embolie en purpura fulminans naar trombofilie door proteïne C-deficiëntie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

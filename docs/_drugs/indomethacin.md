@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Indomethacine: Van reumatische aandoeningen naar juveniele idiopathische artritis
+## Indomethacine: Van reumatische aandoeningen naar juveniele idiopathische artritis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

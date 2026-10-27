@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Norgestimaat: Van acne en osteoporose naar verhoogd zinkgehalte in plasma
+## Norgestimaat: Van acne en osteoporose naar verhoogd zinkgehalte in plasma
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Haloperidol: Van schizofrenie en andere psychotische stoornissen naar congenitale glycosylatiestoornis met defecte fucosylering
+## Haloperidol: Van schizofrenie en andere psychotische stoornissen naar congenitale glycosylatiestoornis met defecte fucosylering
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Cabergoline: Van hyperprolactinemie naar hypofysecarcinoom (hypofysetumoren)
+## Cabergoline: Van hyperprolactinemie naar hypofysecarcinoom (hypofysetumoren)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Riluzol: Van amyotrofische laterale sclerose naar polymicrogyrie (bilaterale parasagittale pariëto-occipitale vorm)
+## Riluzol: Van amyotrofische laterale sclerose naar polymicrogyrie (bilaterale parasagittale pariëto-occipitale vorm)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

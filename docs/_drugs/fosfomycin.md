@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fosfomycine: van urineweginfectie naar gonokokkenurethritis
+## Fosfomycine: van urineweginfectie naar gonokokkenurethritis
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

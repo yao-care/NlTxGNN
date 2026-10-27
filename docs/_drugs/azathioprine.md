@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Azathioprine: Van reumatoïde artritis naar colobomateuze microftalmie-rizomele dysplasiesyndroom
+## Azathioprine: Van reumatoïde artritis naar colobomateuze microftalmie-rizomele dysplasiesyndroom
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Aciclovir: Van herpesinfecties naar gewone wratten (verruca vulgaris)
+## Aciclovir: Van herpesinfecties naar gewone wratten (verruca vulgaris)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

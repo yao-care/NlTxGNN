@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Amylmetacresol: Van keelinfectie naar cauda-equinasyndroom
+## Amylmetacresol: Van keelinfectie naar cauda-equinasyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

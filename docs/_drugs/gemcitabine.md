@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Gemcitabine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+## Gemcitabine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

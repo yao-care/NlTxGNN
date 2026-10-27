@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tamsulosine: Van benigne prostaathyperplasie naar Ambras-type hypertrichosis universalis congenita
+## Tamsulosine: Van benigne prostaathyperplasie naar Ambras-type hypertrichosis universalis congenita
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

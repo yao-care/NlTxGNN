@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Threonine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+## Threonine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

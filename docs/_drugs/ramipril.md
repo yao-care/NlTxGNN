@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ramipril: Van hypertensie naar pulmonale hypertensie door longziekte en/of hypoxie
+## Ramipril: Van hypertensie naar pulmonale hypertensie door longziekte en/of hypoxie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

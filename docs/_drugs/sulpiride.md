@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-# Sulpiride: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Sulpiride: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

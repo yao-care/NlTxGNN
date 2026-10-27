@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Ethambutol: Van pulmonale tuberculose naar epiglottitis
+## Ethambutol: Van pulmonale tuberculose naar epiglottitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

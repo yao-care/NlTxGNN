@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Paclitaxel: Van ovariumkanker naar borstkanker bij vrouwen (female breast carcinoma)
+## Paclitaxel: Van ovariumkanker naar borstkanker bij vrouwen (female breast carcinoma)
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

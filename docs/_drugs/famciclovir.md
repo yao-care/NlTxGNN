@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-# Famciclovir: Van herpes zoster naar postinfectieuze neuralgie
+## Famciclovir: Van herpes zoster naar postinfectieuze neuralgie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Cyclizine: Van bewegingsziekte en allergische klachten naar allergische urticaria
+## Cyclizine: Van bewegingsziekte en allergische klachten naar allergische urticaria
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

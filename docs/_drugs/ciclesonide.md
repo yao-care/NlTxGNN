@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Ciclesonide: Van astma naar atopisch eczeem
+## Ciclesonide: Van astma naar atopisch eczeem
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

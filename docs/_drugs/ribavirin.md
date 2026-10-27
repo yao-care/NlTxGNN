@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ribavirine: Van chronische hepatitis C naar chronische hepatitis B-virusinfectie
+## Ribavirine: Van chronische hepatitis C naar chronische hepatitis B-virusinfectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Methadon: Van opioïdverslaving naar Tourette-syndroom
+## Methadon: Van opioïdverslaving naar Tourette-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

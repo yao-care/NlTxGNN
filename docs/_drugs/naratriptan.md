@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-# Naratriptan: Van migraine naar migraine met hersenstamaura
+## Naratriptan: Van migraine naar migraine met hersenstamaura
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

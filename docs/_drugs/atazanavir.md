@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Atazanavir: Van HIV/aids naar feline verworven immunodeficiëntiesyndroom
+## Atazanavir: Van HIV/aids naar feline verworven immunodeficiëntiesyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

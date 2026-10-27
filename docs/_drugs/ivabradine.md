@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Ivabradine: Van hartfalen/angina naar hypertrichose (voorspelling)
+## Ivabradine: Van hartfalen/angina naar hypertrichose (voorspelling)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Perindopril: Van hypertensie naar maligne hypertensieve nierziekte
+## Perindopril: Van hypertensie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

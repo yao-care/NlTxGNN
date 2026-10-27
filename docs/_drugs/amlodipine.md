@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Amlodipine: Van hypertensie naar herseninfarct van de hersenstam
+## Amlodipine: Van hypertensie naar herseninfarct van de hersenstam
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Carvedilol: Van hypertensie naar maligne hypertensieve nierziekte
+## Carvedilol: Van hypertensie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

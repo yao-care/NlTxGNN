@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Zonisamide: Van epilepsie naar Tourette-syndroom
+## Zonisamide: Van epilepsie naar Tourette-syndroom
+{: .text-alpha }
 
 ## Samenvatting
 

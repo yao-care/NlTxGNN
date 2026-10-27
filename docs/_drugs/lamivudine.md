@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Lamivudine: Van hiv/hepatitis B naar simian immunodeficiëntievirus-infectie
+## Lamivudine: Van hiv/hepatitis B naar simian immunodeficiëntievirus-infectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

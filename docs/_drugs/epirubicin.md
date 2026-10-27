@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Epirubicine: van borstkanker naar primair pulmonair lymfoom
+## Epirubicine: van borstkanker naar primair pulmonair lymfoom
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

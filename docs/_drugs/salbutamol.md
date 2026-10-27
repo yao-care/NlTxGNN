@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Salbutamol: Van astma naar papillaire conjunctivitis
+## Salbutamol: Van astma naar papillaire conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting
 

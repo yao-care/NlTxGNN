@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-# Levonorgestrel: Van osteoporose naar acne
+## Levonorgestrel: Van osteoporose naar acne
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

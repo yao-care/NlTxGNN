@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Diclofenac: Van artrose en actinische keratose naar juveniele idiopathische artritis
+## Diclofenac: Van artrose en actinische keratose naar juveniele idiopathische artritis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

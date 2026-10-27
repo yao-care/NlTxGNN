@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Desloratadine: Van allergische rinitis en urticaria naar koude-urticaria
+## Desloratadine: Van allergische rinitis en urticaria naar koude-urticaria
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

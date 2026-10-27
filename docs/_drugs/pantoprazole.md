@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-# Pantoprazol: Van maagzweer naar actieve maagzweer (peptic ulcer disease)
+## Pantoprazol: Van maagzweer naar actieve maagzweer (peptic ulcer disease)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

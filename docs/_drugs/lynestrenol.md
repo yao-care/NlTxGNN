@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **5**
 
 </div>
 
-# Lynestrenol: Van een hormonaal geneesmiddel naar migraine (migraine met of zonder aura, gevoeligheid)
+## Lynestrenol: Van een hormonaal geneesmiddel naar migraine (migraine met of zonder aura, gevoeligheid)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

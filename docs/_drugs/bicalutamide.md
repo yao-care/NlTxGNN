@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bicalutamide: Van prostaatkanker naar hypertrichose
+## Bicalutamide: Van prostaatkanker naar hypertrichose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

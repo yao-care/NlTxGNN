@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Methotrexaat: van acute lymfatische leukemie naar pulmonair blastoom
+## Methotrexaat: van acute lymfatische leukemie naar pulmonair blastoom
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

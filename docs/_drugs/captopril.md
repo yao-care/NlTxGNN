@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 </div>
 
-# Captopril: Van hypertensie naar maligne renovasculaire hypertensie
+## Captopril: Van hypertensie naar maligne renovasculaire hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

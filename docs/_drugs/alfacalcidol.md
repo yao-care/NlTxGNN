@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Alfacalcidol: Van hyperparathyreoïdie naar familiaire geïsoleerde hypoparathyreoïdie
+## Alfacalcidol: Van hyperparathyreoïdie naar familiaire geïsoleerde hypoparathyreoïdie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

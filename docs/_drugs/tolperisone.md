@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tolperisone: Van een spierrelaxans naar Laubry-Pezzi-syndroom
+## Tolperisone: Van een spierrelaxans naar Laubry-Pezzi-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

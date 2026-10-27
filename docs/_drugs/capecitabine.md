@@ -31,7 +31,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Capecitabine: Van maagkanker naar gastrisch adenocarcinoom met proximale poliepose van de maag (GAPPS)
+## Capecitabine: Van maagkanker naar gastrisch adenocarcinoom met proximale poliepose van de maag (GAPPS)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

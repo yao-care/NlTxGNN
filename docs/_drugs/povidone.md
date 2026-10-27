@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Povidon: Van droog-oogsyndroom naar congenitale ichthyosiforme erytrodermie
+## Povidon: Van droog-oogsyndroom naar congenitale ichthyosiforme erytrodermie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

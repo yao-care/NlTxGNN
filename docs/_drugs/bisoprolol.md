@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Bisoprolol: Van hypertensie naar maligne hypertensieve nierziekte
+## Bisoprolol: Van hypertensie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

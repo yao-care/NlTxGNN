@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Ebastine: Van allergische rinitis naar coronaire hartziekte
+## Ebastine: Van allergische rinitis naar coronaire hartziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

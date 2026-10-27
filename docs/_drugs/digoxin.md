@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Digoxine: Van atriumfibrilleren naar Prinzmetal-angina
+## Digoxine: Van atriumfibrilleren naar Prinzmetal-angina
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

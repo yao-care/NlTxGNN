@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-# Cytarabine: Van acute leukemie naar kleincellig longcarcinoom
+## Cytarabine: Van acute leukemie naar kleincellig longcarcinoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Landiolol: Van supraventriculaire tachycardie naar lingual-faciale-buccale dyskinesie
+## Landiolol: Van supraventriculaire tachycardie naar lingual-faciale-buccale dyskinesie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

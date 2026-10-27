@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tramadol: Van artrose naar acromesomele dysplasie, type Hunter-Thompson
+## Tramadol: Van artrose naar acromesomele dysplasie, type Hunter-Thompson
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

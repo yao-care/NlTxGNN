@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ciprofibraat: Van hypertriglyceridemie naar hyperlipoproteïnemie
+## Ciprofibraat: Van hypertriglyceridemie naar hyperlipoproteïnemie
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

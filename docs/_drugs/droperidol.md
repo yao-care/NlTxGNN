@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Droperidol: van niet-vermelde oorspronkelijke indicatie naar Gilles de la Tourette-syndroom
+## Droperidol: van niet-vermelde oorspronkelijke indicatie naar Gilles de la Tourette-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

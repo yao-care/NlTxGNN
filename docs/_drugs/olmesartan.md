@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Olmesartan: Van hypertensie naar prinzmetal-angina
+## Olmesartan: Van hypertensie naar prinzmetal-angina
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

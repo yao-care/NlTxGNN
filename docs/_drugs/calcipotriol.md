@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Calcipotriol: Van een niet-vastgelegde oorspronkelijke indicatie naar seborroïsche keratose
+## Calcipotriol: Van een niet-vastgelegde oorspronkelijke indicatie naar seborroïsche keratose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

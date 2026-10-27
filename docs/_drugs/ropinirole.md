@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ropinirol: Van restlesslegssyndroom en de ziekte van Parkinson naar ADHD
+## Ropinirol: Van restlesslegssyndroom en de ziekte van Parkinson naar ADHD
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

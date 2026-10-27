@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Doxorubicine: Van lymfoom en leukemie naar Ewing-sarcoom
+## Doxorubicine: Van lymfoom en leukemie naar Ewing-sarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

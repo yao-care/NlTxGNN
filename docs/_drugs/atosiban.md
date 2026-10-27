@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Atosiban: Van een tocolyticum naar primaire erfelijke glaucoom
+## Atosiban: Van een tocolyticum naar primaire erfelijke glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

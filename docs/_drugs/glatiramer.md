@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Glatiramer: Van multiple sclerose naar hemoglobinopathie
+## Glatiramer: Van multiple sclerose naar hemoglobinopathie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

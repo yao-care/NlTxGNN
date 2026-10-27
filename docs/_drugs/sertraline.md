@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Sertraline: Van angststoornissen naar agorafobie
+## Sertraline: Van angststoornissen naar agorafobie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

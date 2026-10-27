@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Ketoconazol: Van schimmelinfecties van de huid naar acne
+## Ketoconazol: Van schimmelinfecties van de huid naar acne
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

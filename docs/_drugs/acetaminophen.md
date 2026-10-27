@@ -31,7 +31,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Paracetamol (acetaminophen): Van allergische rinitis, migraine en hoofdpijn naar migraine met hersenstamaura
+## Paracetamol (acetaminophen): Van allergische rinitis, migraine en hoofdpijn naar migraine met hersenstamaura
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

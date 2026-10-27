@@ -32,7 +32,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# Adrenaline: Evaluatie van herbestemming van medicijnen — Onvoldoende gegevens
+## Adrenaline: Evaluatie van herbestemming van medicijnen — Onvoldoende gegevens
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

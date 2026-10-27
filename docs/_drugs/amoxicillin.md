@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Amoxicilline: Van bacteriële infecties naar hyperamylasemie
+## Amoxicilline: Van bacteriële infecties naar hyperamylasemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

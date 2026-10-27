@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tyrosine: Van een voedingscomponent naar cauda equina-syndroom
+## Tyrosine: Van een voedingscomponent naar cauda equina-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **9**
 
 </div>
 
-# Lamotrigine: Van epilepsie naar trigeminusneuralgie
+## Lamotrigine: Van epilepsie naar trigeminusneuralgie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

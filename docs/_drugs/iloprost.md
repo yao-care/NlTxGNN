@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Iloprost: Van pulmonale arteriële hypertensie naar hypotrichosis simplex van de hoofdhuid
+## Iloprost: Van pulmonale arteriële hypertensie naar hypotrichosis simplex van de hoofdhuid
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

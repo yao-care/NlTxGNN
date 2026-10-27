@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Olanzapine: Van schizofrenie en bipolaire stoornis naar benigne paroxismale torticollis van de kindertijd
+## Olanzapine: Van schizofrenie en bipolaire stoornis naar benigne paroxismale torticollis van de kindertijd
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

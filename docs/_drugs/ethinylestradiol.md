@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Ethinylestradiol: Van acne en osteoporose naar verhoogd zinkgehalte in plasma
+## Ethinylestradiol: Van acne en osteoporose naar verhoogd zinkgehalte in plasma
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

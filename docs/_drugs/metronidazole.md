@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Metronidazol: Van anaerobe infecties naar pneumocystose
+## Metronidazol: Van anaerobe infecties naar pneumocystose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

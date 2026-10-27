@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Tetracaïne: Van dermatitis naar acrodermatitis chronica atrophicans
+## Tetracaïne: Van dermatitis naar acrodermatitis chronica atrophicans
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ganirelix: Van ovulatieondersteuning bij IVF naar hypertrichose
+## Ganirelix: Van ovulatieondersteuning bij IVF naar hypertrichose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

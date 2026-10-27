@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **4**
 
 </div>
 
-# Acitretine: Van een retinoïde voor huidaandoeningen naar acne
+## Acitretine: Van een retinoïde voor huidaandoeningen naar acne
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

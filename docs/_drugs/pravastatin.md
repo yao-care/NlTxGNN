@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Pravastatine: Van hyperlipidemie en atherosclerose naar homozygote familiaire hypercholesterolemie
+## Pravastatine: Van hyperlipidemie en atherosclerose naar homozygote familiaire hypercholesterolemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

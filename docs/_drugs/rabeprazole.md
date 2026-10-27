@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Rabeprazol: Van maagzweer en reflux naar smouldering systemische mastocytose
+## Rabeprazol: Van maagzweer en reflux naar smouldering systemische mastocytose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

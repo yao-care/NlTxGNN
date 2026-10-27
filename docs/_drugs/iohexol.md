@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Iohexol: Van contrastmiddel voor beeldvorming naar insomnia (voorspelde nieuwe indicatie)
+## Iohexol: Van contrastmiddel voor beeldvorming naar insomnia (voorspelde nieuwe indicatie)
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-# Valsartan: Van hypertensie naar maligne renovasculaire hypertensie
+## Valsartan: Van hypertensie naar maligne renovasculaire hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Propranolol: Van hypertensie en cardiomyopathie naar distale myopathie (type Tateyama)
+## Propranolol: Van hypertensie en cardiomyopathie naar distale myopathie (type Tateyama)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

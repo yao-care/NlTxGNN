@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fluorometholone: Van uveïtis naar punctate epitheliale keratoconjunctivitis
+## Fluorometholone: Van uveïtis naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

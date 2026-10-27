@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Urofollitropine: Van ovariële stimulatie naar migraine
+## Urofollitropine: Van ovariële stimulatie naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

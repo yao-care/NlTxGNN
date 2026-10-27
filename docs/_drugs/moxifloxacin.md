@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Moxifloxacine: van bacteriële infecties naar polyclonaal hyperviscositeitssyndroom
+## Moxifloxacine: van bacteriële infecties naar polyclonaal hyperviscositeitssyndroom
+{: .text-alpha }
 
 ## Samenvatting in het kort
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Etonogestrel: Van anticonceptie naar amenorroe
+## Etonogestrel: Van anticonceptie naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

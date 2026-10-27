@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Lubiprostone: Van een niet vastgelegde oorspronkelijke indicatie naar alopecia
+## Lubiprostone: Van een niet vastgelegde oorspronkelijke indicatie naar alopecia
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Rifampicine: Van pulmonale tuberculose naar conjunctivitis
+## Rifampicine: Van pulmonale tuberculose naar conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

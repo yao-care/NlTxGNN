@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Thymol: Van een niet-vastgelegde oorspronkelijke indicatie naar interventriculair septumaneurysma
+## Thymol: Van een niet-vastgelegde oorspronkelijke indicatie naar interventriculair septumaneurysma
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

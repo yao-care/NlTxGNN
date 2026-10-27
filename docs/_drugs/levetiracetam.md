@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Levetiracetam: Van partiële epilepsie naar visuele epilepsie
+## Levetiracetam: Van partiële epilepsie naar visuele epilepsie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

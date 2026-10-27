@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-# Cyclofosfamide: van lymfoom en andere kankersoorten naar myeloïde leukemie
+## Cyclofosfamide: van lymfoom en andere kankersoorten naar myeloïde leukemie
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

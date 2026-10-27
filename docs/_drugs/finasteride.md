@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Finasteride: Van goedaardige prostaathyperplasie naar hypertrichose (Ambras-type hypertrichosis universalis congenita als hoogst scorende voorspelling)
+## Finasteride: Van goedaardige prostaathyperplasie naar hypertrichose (Ambras-type hypertrichosis universalis congenita als hoogst scorende voorspelling)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

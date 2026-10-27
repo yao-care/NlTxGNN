@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Mianserine: Van depressie naar benigne paroxismale torticollis van de kinderleeftijd
+## Mianserine: Van depressie naar benigne paroxismale torticollis van de kinderleeftijd
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

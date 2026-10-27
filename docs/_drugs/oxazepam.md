@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-# Oxazepam: Van angst en alcoholontwenningsdelirium naar slapeloosheid
+## Oxazepam: Van angst en alcoholontwenningsdelirium naar slapeloosheid
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

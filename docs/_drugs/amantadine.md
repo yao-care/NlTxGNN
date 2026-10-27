@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Amantadine: Van de ziekte van Parkinson naar Rasmussen-encefalitis
+## Amantadine: Van de ziekte van Parkinson naar Rasmussen-encefalitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

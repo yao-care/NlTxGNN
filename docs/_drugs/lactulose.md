@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-# Lactulose: Van hepatische encefalopathie naar obstructieve icterus
+## Lactulose: Van hepatische encefalopathie naar obstructieve icterus
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

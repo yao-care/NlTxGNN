@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-# Ambroxol: Van faryngitis naar neusholteaandoening
+## Ambroxol: Van faryngitis naar neusholteaandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

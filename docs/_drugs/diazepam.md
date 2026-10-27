@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Diazepam: Van epilepsie en angststoornissen naar insomnia
+## Diazepam: Van epilepsie en angststoornissen naar insomnia
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

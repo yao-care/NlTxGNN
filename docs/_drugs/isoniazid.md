@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Isoniazide: Van pulmonale tuberculose naar conjunctivitis
+## Isoniazide: Van pulmonale tuberculose naar conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

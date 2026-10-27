@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Itraconazol: Van systemische schimmelinfecties naar pneumocystose
+## Itraconazol: Van systemische schimmelinfecties naar pneumocystose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

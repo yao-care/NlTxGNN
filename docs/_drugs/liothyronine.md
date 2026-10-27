@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Liothyronine: Van hypothyreoïdie naar renale hypodysplasie/aplasie
+## Liothyronine: Van hypothyreoïdie naar renale hypodysplasie/aplasie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

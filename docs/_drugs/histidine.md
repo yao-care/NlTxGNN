@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Histidine: Van geen geregistreerde indicatie naar gastroparese
+## Histidine: Van geen geregistreerde indicatie naar gastroparese
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

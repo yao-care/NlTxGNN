@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Clozapine: Van behandelresistente psychose naar manische bipolaire stoornis
+## Clozapine: Van behandelresistente psychose naar manische bipolaire stoornis
+{: .text-alpha }
 
 > Clozapine is een atypisch antipsychoticum. In de data voor dit rapport is geen geregistreerde oorspronkelijke indicatie vastgelegd; in de klinische praktijk wordt het gebruikt bij behandelresistente schizofrenie.
 > Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **manische bipolaire stoornis**, met **1 klinische studie** en **20 publicaties** voor deze specifieke indicatie. Voor de bredere bipolaire stoornis zijn **12 klinische studies** en **20 publicaties** beschikbaar.

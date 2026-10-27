@@ -31,7 +31,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **2**
 
 </div>
 
-# Tazobactam: Van bacteriële pneumonie naar pneumonie (en urineweginfectie)
+## Tazobactam: Van bacteriële pneumonie naar pneumonie (en urineweginfectie)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

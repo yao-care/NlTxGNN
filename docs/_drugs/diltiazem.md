@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Diltiazem: Van hypertensie en andere cardiovasculaire aandoeningen naar verouderde term "gevoeligheid voor ischemische beroerte"
+## Diltiazem: Van hypertensie en andere cardiovasculaire aandoeningen naar verouderde term "gevoeligheid voor ischemische beroerte"
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

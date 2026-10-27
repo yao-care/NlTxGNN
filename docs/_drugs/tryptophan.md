@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-# Tryptofaan: Van een niet-vermelde oorspronkelijke indicatie naar rustelozebenensyndroom
+## Tryptofaan: Van een niet-vermelde oorspronkelijke indicatie naar rustelozebenensyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

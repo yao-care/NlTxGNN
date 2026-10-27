@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Mitomycine: Van alvleesklieradenocarcinoom naar solide pseudopapillair carcinoom van de alvleesklier
+## Mitomycine: Van alvleesklieradenocarcinoom naar solide pseudopapillair carcinoom van de alvleesklier
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

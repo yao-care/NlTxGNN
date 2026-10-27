@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Leflunomide: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+## Leflunomide: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

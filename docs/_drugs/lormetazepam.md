@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Lormetazepam: Van slapeloosheid naar slapeloosheid (insomnia)
+## Lormetazepam: Van slapeloosheid naar slapeloosheid (insomnia)
+{: .text-alpha }
 
 > **Let op:** Voor dit middel is de voorspelde nieuwe indicatie met de hoogste score (insomnia) in feite de reeds bekende, gevestigde toepassing van lormetazepam. Het gaat dus niet om een echte herpositionering. Hieronder is de voorspelling met de hoogste score uitgewerkt; de overige voorspellingen zijn kort samengevat in de conclusie.
 

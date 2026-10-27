@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Metyrapon: Van oorspronkelijke indicatie (onbekend) naar exercise-induced malignant hyperthermia
+## Metyrapon: Van oorspronkelijke indicatie (onbekend) naar exercise-induced malignant hyperthermia
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

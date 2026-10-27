@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **3**
 
 </div>
 
-# Albendazol: Van cystische echinokokkose naar alveolaire echinokokkose
+## Albendazol: Van cystische echinokokkose naar alveolaire echinokokkose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

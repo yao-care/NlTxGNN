@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Nebivolol: Van hypertensie naar maligne hypertensieve nierziekte
+## Nebivolol: Van hypertensie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Etoricoxib: Van een NSAID voor pijn en ontsteking naar migraine
+## Etoricoxib: Van een NSAID voor pijn en ontsteking naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

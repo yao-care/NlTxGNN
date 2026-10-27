@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Spironolacton: Van hypertensie en hartfalen naar hypotrichosis simplex van de hoofdhuid
+## Spironolacton: Van hypertensie en hartfalen naar hypotrichosis simplex van de hoofdhuid
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

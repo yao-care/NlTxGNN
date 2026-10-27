@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Piroxicam: Van reumatoïde artritis naar juveniele idiopathische artritis
+## Piroxicam: Van reumatoïde artritis naar juveniele idiopathische artritis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

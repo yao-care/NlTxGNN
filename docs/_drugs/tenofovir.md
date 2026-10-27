@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Tenofovir: Van hiv en chronische hepatitis B naar felien verworven immunodeficiëntiesyndroom
+## Tenofovir: Van hiv en chronische hepatitis B naar felien verworven immunodeficiëntiesyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

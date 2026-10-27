@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Fosinopril: Van hypertensie naar maligne hypertensieve nierziekte
+## Fosinopril: Van hypertensie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

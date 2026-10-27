@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-# Flavoxaat: Van urologische indicaties naar prikkelbaredarmsyndroom (IBS)
+## Flavoxaat: Van urologische indicaties naar prikkelbaredarmsyndroom (IBS)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

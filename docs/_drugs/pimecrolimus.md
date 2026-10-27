@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **4**
 
 </div>
 
-# Pimecrolimus: Van constitutioneel eczeem naar seborroïsche dermatitis
+## Pimecrolimus: Van constitutioneel eczeem naar seborroïsche dermatitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

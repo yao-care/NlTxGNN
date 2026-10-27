@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Telmisartan: van hypertensie naar Prinzmetal-angina
+## Telmisartan: van hypertensie naar Prinzmetal-angina
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

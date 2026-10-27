@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Pimozide: Van Gilles-de-la-Tourette-syndroom naar trichotillomanie
+## Pimozide: Van Gilles-de-la-Tourette-syndroom naar trichotillomanie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

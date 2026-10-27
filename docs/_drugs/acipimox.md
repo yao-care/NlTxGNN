@@ -32,7 +32,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# Acipimox: Beoordeling Herpositionering Geneesmiddel — Geen Voorspelde Indicaties Beschikbaar
+## Acipimox: Beoordeling Herpositionering Geneesmiddel — Geen Voorspelde Indicaties Beschikbaar
+{: .text-alpha }
 
 ## Samenvatting in Één Zin
 

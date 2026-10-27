@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Flecaïnide: Van atriumfibrilleren naar beroerte (stroke disorder)
+## Flecaïnide: Van atriumfibrilleren naar beroerte (stroke disorder)
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

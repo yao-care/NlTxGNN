@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Levobupivacaïne: Van lokale anesthesie naar gastroduodenitis
+## Levobupivacaïne: Van lokale anesthesie naar gastroduodenitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

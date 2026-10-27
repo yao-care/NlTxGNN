@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Nystatine: Van candidiasis naar vulvovaginitis
+## Nystatine: Van candidiasis naar vulvovaginitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Bimatoprost: Van glaucoom naar alopecia
+## Bimatoprost: Van glaucoom naar alopecia
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

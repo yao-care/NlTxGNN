@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Meloxicam: Van reumatoïde artritis naar reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis
+## Meloxicam: Van reumatoïde artritis naar reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

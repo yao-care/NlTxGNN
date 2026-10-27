@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Orlistat: Van obesitas naar hypervitaminose
+## Orlistat: Van obesitas naar hypervitaminose
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

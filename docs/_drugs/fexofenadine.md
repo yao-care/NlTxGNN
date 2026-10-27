@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Fexofenadine: Van allergische rinitis naar rosacea-conjunctivitis
+## Fexofenadine: Van allergische rinitis naar rosacea-conjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

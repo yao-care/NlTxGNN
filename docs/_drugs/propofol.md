@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-# Propofol: Van anesthesie naar migraine
+## Propofol: Van anesthesie naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

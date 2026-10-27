@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Selenium: Van een niet-vermelde oorspronkelijke indicatie naar sclerosing cholangitis
+## Selenium: Van een niet-vermelde oorspronkelijke indicatie naar sclerosing cholangitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

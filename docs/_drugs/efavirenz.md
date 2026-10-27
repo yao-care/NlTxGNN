@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Efavirenz: Van hiv/aids naar simian immunodeficiency-virusinfectie
+## Efavirenz: Van hiv/aids naar simian immunodeficiency-virusinfectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

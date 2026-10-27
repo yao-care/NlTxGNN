@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Distigmine: Van myasthenia gravis naar myasthenia gravis met thymushyperplasie
+## Distigmine: Van myasthenia gravis naar myasthenia gravis met thymushyperplasie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

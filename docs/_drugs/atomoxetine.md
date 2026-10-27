@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Atomoxetine: Van ADHD naar specifieke ontwikkelingsstoornis
+## Atomoxetine: Van ADHD naar specifieke ontwikkelingsstoornis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Tranylcypromine: Van unipolaire depressie naar benigne paroxismale torticollis van de kindertijd
+## Tranylcypromine: Van unipolaire depressie naar benigne paroxismale torticollis van de kindertijd
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Calcitriol: Van stoornissen in calcium- en fosfaatstofwisseling naar vitamine D-deficiëntie
+## Calcitriol: Van stoornissen in calcium- en fosfaatstofwisseling naar vitamine D-deficiëntie
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

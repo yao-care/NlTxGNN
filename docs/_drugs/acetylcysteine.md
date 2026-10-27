@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Acetylcysteïne: Van bronchitis naar trombotische aandoening
+## Acetylcysteïne: Van bronchitis naar trombotische aandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

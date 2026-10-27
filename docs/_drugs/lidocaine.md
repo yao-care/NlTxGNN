@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Lidocaïne: Van dermatitis en neuralgie naar punctate epitheliale keratoconjunctivitis
+## Lidocaïne: Van dermatitis en neuralgie naar punctate epitheliale keratoconjunctivitis
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

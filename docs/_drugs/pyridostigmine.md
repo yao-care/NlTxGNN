@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **7**
 
 </div>
 
-# Pyridostigmine: Van myasthenia gravis naar myasthenia gravis met thymushyperplasie
+## Pyridostigmine: Van myasthenia gravis naar myasthenia gravis met thymushyperplasie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

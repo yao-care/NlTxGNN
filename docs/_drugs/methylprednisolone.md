@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Methylprednisolon: Van auto-immuunziekten naar alopecia areata
+## Methylprednisolon: Van auto-immuunziekten naar alopecia areata
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

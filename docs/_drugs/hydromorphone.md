@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-# Hydromorfon: Van verkoude­nheid/nasofaryngitis naar faryngitis
+## Hydromorfon: Van verkoude­nheid/nasofaryngitis naar faryngitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

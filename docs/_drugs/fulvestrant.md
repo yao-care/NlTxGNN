@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fulvestrant: Van een niet-gespecificeerde oorspronkelijke indicatie naar HIV-infectie
+## Fulvestrant: Van een niet-gespecificeerde oorspronkelijke indicatie naar HIV-infectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

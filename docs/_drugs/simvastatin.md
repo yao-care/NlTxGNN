@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **8**
 
 </div>
 
-# Simvastatine: Van hyperlipidemie en cardiovasculaire aandoeningen naar familiaire hypercholesterolemie
+## Simvastatine: Van hyperlipidemie en cardiovasculaire aandoeningen naar familiaire hypercholesterolemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

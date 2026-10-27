@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Aceclofenac: Van reumatoïde artritis naar inflammatoire spondylopathie
+## Aceclofenac: Van reumatoïde artritis naar inflammatoire spondylopathie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

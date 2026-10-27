@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **4**
 
 </div>
 
-# Oxaliplatine: Van gemetastaseerd colorectaal carcinoom naar maligne pleuraal mesothelioom
+## Oxaliplatine: Van gemetastaseerd colorectaal carcinoom naar maligne pleuraal mesothelioom
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

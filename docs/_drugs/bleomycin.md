@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-# Bleomycine: Van Hodgkin-lymfoom naar reticulumcelsarcoom
+## Bleomycine: Van Hodgkin-lymfoom naar reticulumcelsarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

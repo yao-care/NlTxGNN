@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-# Nitrazepam: Van insomnie naar slaapstoornis (inslaap- en doorslaapstoornis)
+## Nitrazepam: Van insomnie naar slaapstoornis (inslaap- en doorslaapstoornis)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

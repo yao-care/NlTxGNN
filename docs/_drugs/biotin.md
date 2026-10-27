@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-# Biotine: Van voedingsgerelateerd biotinetekort naar dyspepsie
+## Biotine: Van voedingsgerelateerd biotinetekort naar dyspepsie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

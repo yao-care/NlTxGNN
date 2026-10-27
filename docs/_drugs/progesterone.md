@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Progesteron: Van endometriose naar amenorroe
+## Progesteron: Van endometriose naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

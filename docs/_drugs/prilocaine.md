@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Prilocaïne: Van voortijdige ejaculatie naar neuralgie
+## Prilocaïne: Van voortijdige ejaculatie naar neuralgie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

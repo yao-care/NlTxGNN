@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **5**
 
 </div>
 
-# Nitroglycerine: Van de oorspronkelijke indicatie naar pulmonale hypertensie
+## Nitroglycerine: Van de oorspronkelijke indicatie naar pulmonale hypertensie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-# Amiodaron: Van ventriculaire fibrillatie naar ventriculaire tachycardie
+## Amiodaron: Van ventriculaire fibrillatie naar ventriculaire tachycardie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Levocarnitine: Van de geregistreerde indicatie naar autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom
+## Levocarnitine: Van de geregistreerde indicatie naar autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

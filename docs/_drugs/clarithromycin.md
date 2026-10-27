@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-# Claritromycine: Van bacteriële luchtweginfecties naar polyklonaal hyperviscositeitssyndroom
+## Claritromycine: Van bacteriële luchtweginfecties naar polyklonaal hyperviscositeitssyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

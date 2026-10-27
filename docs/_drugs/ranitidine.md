@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Ranitidine: van maagzweer naar actieve maagzweerziekte (peptic ulcer disease)
+## Ranitidine: van maagzweer naar actieve maagzweerziekte (peptic ulcer disease)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-# Irbesartan: Van hypertensie en diabetische nefropathie naar maligne hypertensieve nierziekte
+## Irbesartan: Van hypertensie en diabetische nefropathie naar maligne hypertensieve nierziekte
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

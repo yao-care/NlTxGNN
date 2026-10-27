@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-# Citalopram: Van depressie naar obsessieve-compulsieve stoornis (OCD)
+## Citalopram: Van depressie naar obsessieve-compulsieve stoornis (OCD)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

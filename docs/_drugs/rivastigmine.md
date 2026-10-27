@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-# Rivastigmine: Van de ziekte van Alzheimer naar glaucoom
+## Rivastigmine: Van de ziekte van Alzheimer naar glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

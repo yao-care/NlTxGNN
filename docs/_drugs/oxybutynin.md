@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Oxybutynine: Van overactieve blaas naar rustelozebenensyndroom
+## Oxybutynine: Van overactieve blaas naar rustelozebenensyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

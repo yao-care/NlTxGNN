@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Latanoprost: Van open-hoekglaucoom naar primair erfelijk glaucoom
+## Latanoprost: Van open-hoekglaucoom naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

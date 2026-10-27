@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Topiramaat: Van epilepsie naar trigeminuszenuwneoplasma
+## Topiramaat: Van epilepsie naar trigeminuszenuwneoplasma
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Felodipine: Van hypertensie naar pulmonale hypertensie met onduidelijk multifactorieel mechanisme
+## Felodipine: Van hypertensie naar pulmonale hypertensie met onduidelijk multifactorieel mechanisme
+{: .text-alpha }
 
 ## Samenvatting in één alinea
 

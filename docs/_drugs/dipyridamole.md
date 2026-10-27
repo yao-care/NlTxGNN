@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Dipyridamol: Van voorkamerfibrillatie naar Prinzmetal-angina
+## Dipyridamol: Van voorkamerfibrillatie naar Prinzmetal-angina
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

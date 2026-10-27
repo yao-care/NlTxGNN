@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Glimepiride: Van type 2-diabetes mellitus naar focal stiff limb syndrome
+## Glimepiride: Van type 2-diabetes mellitus naar focal stiff limb syndrome
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

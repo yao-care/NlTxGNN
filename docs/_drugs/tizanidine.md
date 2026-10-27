@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-# Tizanidine: Van spasticiteit naar migraine
+## Tizanidine: Van spasticiteit naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

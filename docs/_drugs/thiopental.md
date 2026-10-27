@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Thiopental: Van epilepsie naar trichotillomanie
+## Thiopental: Van epilepsie naar trichotillomanie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

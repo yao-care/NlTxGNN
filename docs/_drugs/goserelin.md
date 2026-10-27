@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Goserelin: Van endometriose naar amenorroe
+## Goserelin: Van endometriose naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

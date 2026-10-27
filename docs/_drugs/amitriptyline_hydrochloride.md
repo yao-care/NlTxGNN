@@ -32,7 +32,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **0**
 
 </div>
 
-# Amitriptilline Hydrochloride: Onvoldoende gegevens voor evaluatie van geneesmiddelhergebruik
+## Amitriptilline Hydrochloride: Onvoldoende gegevens voor evaluatie van geneesmiddelhergebruik
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

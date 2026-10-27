@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-# Montelukast: Van allergische rhinitis naar bronchitis
+## Montelukast: Van allergische rhinitis naar bronchitis
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

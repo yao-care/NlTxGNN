@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Lopinavir: Van hiv/aids naar simian immunodeficiency virus-infectie
+## Lopinavir: Van hiv/aids naar simian immunodeficiency virus-infectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

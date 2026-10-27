@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Fluorouracil: Van basaalcelcarcinoom en gastro-intestinale tumoren naar rhabdomyosarcoom
+## Fluorouracil: Van basaalcelcarcinoom en gastro-intestinale tumoren naar rhabdomyosarcoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

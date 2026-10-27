@@ -31,7 +31,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Temazepam: Van slapeloosheid naar slaapstoornis (inslapen en doorslapen)
+## Temazepam: Van slapeloosheid naar slaapstoornis (inslapen en doorslapen)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

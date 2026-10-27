@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Cyclopentolate: Van cycloplegie naar caudaequinasyndroom
+## Cyclopentolate: Van cycloplegie naar caudaequinasyndroom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

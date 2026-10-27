@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Chloordiazepoxide: Van angst en alcoholontwenning naar insomnia
+## Chloordiazepoxide: Van angst en alcoholontwenning naar insomnia
+{: .text-alpha }
 
 ## Samenvatting in één oogopslag
 

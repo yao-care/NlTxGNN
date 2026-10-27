@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-# Vincristine: Van acute lymfatische leukemie en lymfoom naar ganglioneuroblastoom
+## Vincristine: Van acute lymfatische leukemie en lymfoom naar ganglioneuroblastoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

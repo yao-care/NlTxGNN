@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-# Pitavastatine: Van familiaire gecombineerde hyperlipidemie naar homozygote familiaire hypercholesterolemie
+## Pitavastatine: Van familiaire gecombineerde hyperlipidemie naar homozygote familiaire hypercholesterolemie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

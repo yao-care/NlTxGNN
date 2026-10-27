@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Cyanocobalamine: Van vitamine B12-tekort naar biotinemetabole aandoening
+## Cyanocobalamine: Van vitamine B12-tekort naar biotinemetabole aandoening
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

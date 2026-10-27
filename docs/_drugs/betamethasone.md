@@ -33,7 +33,8 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-# Betamethason: Van auto-immuun- en ontstekingsziekten naar alopecia areata
+## Betamethason: Van auto-immuun- en ontstekingsziekten naar alopecia areata
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Methionine: Van een voedingscomponent in parenterale voeding naar diabetische cataract
+## Methionine: Van een voedingscomponent in parenterale voeding naar diabetische cataract
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

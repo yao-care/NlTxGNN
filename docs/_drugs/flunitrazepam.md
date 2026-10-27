@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Flunitrazepam: Van een slaapmiddel (oorspronkelijke indicatie niet vastgelegd) naar insomnia
+## Flunitrazepam: Van een slaapmiddel (oorspronkelijke indicatie niet vastgelegd) naar insomnia
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

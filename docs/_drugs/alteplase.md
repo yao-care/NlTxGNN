@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-# Alteplase: Van myocardinfarct en trombo-embolische aandoeningen naar posterolateraal myocardinfarct
+## Alteplase: Van myocardinfarct en trombo-embolische aandoeningen naar posterolateraal myocardinfarct
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

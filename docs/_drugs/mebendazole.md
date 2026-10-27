@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Mebendazol: Van enterobiasis, ascariasis en trichuriasis naar acne
+## Mebendazol: Van enterobiasis, ascariasis en trichuriasis naar acne
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

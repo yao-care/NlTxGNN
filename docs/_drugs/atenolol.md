@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-# Atenolol: Van hypertensie en myocardinfarct naar posteroinferieur myocardinfarct
+## Atenolol: Van hypertensie en myocardinfarct naar posteroinferieur myocardinfarct
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

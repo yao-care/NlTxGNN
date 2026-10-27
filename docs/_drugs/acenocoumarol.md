@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-# Acenocoumarol: Van trombofilie en longembolie naar heparine-cofactor-II-deficiëntie
+## Acenocoumarol: Van trombofilie en longembolie naar heparine-cofactor-II-deficiëntie
+{: .text-alpha }
 
 ## Samenvatting
 

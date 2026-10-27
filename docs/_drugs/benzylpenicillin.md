@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Benzylpenicilline: Van infectieziekten naar pericoronitis
+## Benzylpenicilline: Van infectieziekten naar pericoronitis
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -31,7 +31,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-# Brinzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
+## Brinzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

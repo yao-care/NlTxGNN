@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Sotalol: Van atriumfibrilleren naar beroerte (stroke disorder)
+## Sotalol: Van atriumfibrilleren naar beroerte (stroke disorder)
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-# Desogestrel: Van anticonceptie naar amenorroe
+## Desogestrel: Van anticonceptie naar amenorroe
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

@@ -33,7 +33,8 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-# Cefuroxim: Van bacteriële infecties naar urineweginfectie
+## Cefuroxim: Van bacteriële infecties naar urineweginfectie
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

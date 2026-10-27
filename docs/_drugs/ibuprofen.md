@@ -33,7 +33,8 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-# Ibuprofen: Van reumatoïde artritis naar acromesomelische dysplasie, type Hunter-Thompson
+## Ibuprofen: Van reumatoïde artritis naar acromesomelische dysplasie, type Hunter-Thompson
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

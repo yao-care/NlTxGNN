@@ -33,7 +33,8 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-# Dapoxetine: Van voortijdige zaadlozing naar migraine
+## Dapoxetine: Van voortijdige zaadlozing naar migraine
+{: .text-alpha }
 
 ## Samenvatting in één zin
 

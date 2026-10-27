@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-26T22:14:50.554857+00:00",
+  "fetched_at": "2026-10-27T03:34:40.057640+00:00",
   "count": 10,
   "news": [
     {
       "id": "46cf235a9d8e",
       "title": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-10-25T13:59:15+00:00",
-      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladVrouwenorganisaties bundelen krachten samen voor aandacht vrouwengezondheid: 'Vooral op sociale media veel misinformatie'&nbsp;&nbsp;NPO Radio 1Endometriose: als de pijn je leven be",
+      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;RD.nlWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladVrouwenorganisaties bundelen krachten samen voor aandacht vrouweng",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -19,23 +19,11 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’ - AD.nl",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUShamondavirus: knudde met de knutten&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9cbc69fa267",
-      "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
-      "published": "2026-10-26T09:19:33+00:00",
-      "summary": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél&nbsp;&nbsp;de Stentor",
-      "sources": [
-        {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "ZeelandNet, startpagina van Zeeland",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHoyT01RcFJ5MTlBeWpZcUxqNGhoZlk1Z21PN2hfT2ItZ1ZuaFczRFQ3SGNGWmFhbG9PWDdTdm5tb2k3Zmx1OGp4NkVabUVqTllfN1Ffa3g5cmU5dHJTZk82ZlNXZmNxSGlsd0VrSTY1UlVSc1BnQzM1NDVoa2NYWUoydm4wSC1sY2txcVJCUGFEamptTDk4SXptVG5FdDVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9cbc69fa267",
+      "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
+      "published": "2026-10-26T09:19:33+00:00",
+      "summary": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél&nbsp;&nbsp;de Stentor",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
         }
       ]
     },

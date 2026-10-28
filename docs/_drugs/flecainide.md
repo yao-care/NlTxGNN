@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Flecainide: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

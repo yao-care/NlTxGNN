@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 248
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis"
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]

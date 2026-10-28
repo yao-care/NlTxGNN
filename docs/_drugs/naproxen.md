@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

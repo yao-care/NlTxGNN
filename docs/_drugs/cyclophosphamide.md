@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "cyclophosphamide"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cyclophosphamide: voorspelde nieuwe indicatie Myeloïde leukemie (myeloid leukemia) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

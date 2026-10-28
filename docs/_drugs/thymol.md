@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Thymol: voorspelde nieuwe indicatie Interventriculair septumaneurysma (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens"
 monitor_inn: "thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]

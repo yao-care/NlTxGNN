@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

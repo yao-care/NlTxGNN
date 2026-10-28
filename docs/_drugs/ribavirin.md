@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 289
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie"
 monitor_inn: "ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mediastinitis"]

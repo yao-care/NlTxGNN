@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

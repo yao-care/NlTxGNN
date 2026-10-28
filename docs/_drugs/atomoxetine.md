@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 46
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: voorspelde nieuwe indicatie Specific developmental disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

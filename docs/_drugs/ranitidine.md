@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 288
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

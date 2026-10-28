@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 description: "Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

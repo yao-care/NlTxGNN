@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
 description: "Riluzole: voorspelde nieuwe indicatie Bilateral parasagittal parieto-occipital polymicrogyria (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

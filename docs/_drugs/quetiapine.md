@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 285
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
 description: "Quetiapine: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicat…"

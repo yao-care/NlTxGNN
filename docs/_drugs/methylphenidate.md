@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

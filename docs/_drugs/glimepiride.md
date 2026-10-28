@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Glimepiride: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Type 2-diabetes mellitus"
 monitor_inn: "Glimepiride"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]

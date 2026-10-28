@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "olodaterol"
 predicted_indications: ["bronchitis"]
 description: "Olodaterol: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

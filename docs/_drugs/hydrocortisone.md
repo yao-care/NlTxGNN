@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 179
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

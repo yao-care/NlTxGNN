@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

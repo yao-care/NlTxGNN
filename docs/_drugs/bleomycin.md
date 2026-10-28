@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

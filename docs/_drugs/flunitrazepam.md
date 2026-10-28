@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
 description: "Flunitrazepam: voorspelde nieuwe indicatie Migraine disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

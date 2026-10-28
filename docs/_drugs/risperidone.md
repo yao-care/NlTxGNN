@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone: voorspelde nieuwe indicatie Gaze palsy, familial horizontal, with progressive scoliosis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

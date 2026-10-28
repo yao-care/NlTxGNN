@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acenocoumarol: voorspelde nieuwe indicatie Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

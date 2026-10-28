@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Flurbiprofen: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, artrose…"
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]

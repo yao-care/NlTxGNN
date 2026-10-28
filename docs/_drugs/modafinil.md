@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 238
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
 description: "Modafinil: voorspelde nieuwe indicatie Insomnie (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

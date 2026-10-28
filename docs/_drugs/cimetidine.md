@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cimetidine: voorspelde nieuwe indicatie Maagzweerperforatie (peptic ulcer perforation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

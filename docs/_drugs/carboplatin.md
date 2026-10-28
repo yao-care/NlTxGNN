@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

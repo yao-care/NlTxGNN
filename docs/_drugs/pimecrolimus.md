@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 269
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bisoprolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Domperidone: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld …"
 ---
 

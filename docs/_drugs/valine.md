@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 337
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
 description: "Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

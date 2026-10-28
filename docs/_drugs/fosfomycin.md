@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fosfomycin: voorspelde nieuwe indicatie Ontstekingsziekte van de baarmoeder (uterine inflammatory disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

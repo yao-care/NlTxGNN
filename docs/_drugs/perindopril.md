@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

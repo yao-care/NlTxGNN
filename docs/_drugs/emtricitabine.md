@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…"
 monitor_inn: "Emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]

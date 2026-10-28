@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ethinylestradiol: voorspelde nieuwe indicatie Verhoogd zinkgehalte in plasma (bewijsniveau L5). Oorspronkelijke indicatie: Acne, osteoporose na de menopauze, osteoporose…"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]

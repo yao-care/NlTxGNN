@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Flavoxate: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit, overwegend onoplettend type (attention deficit hyperactivity disorder… (bewijsniveau L5). Oorspronkelijke indicatie…"
 ---
 

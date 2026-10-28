@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

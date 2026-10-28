@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

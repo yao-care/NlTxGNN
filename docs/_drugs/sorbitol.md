@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
 description: "Sorbitol: voorspelde nieuwe indicatie Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Esketamine: voorspelde nieuwe indicatie agorafobie (agoraphobia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

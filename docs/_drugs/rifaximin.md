@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 description: "Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

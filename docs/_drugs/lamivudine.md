@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 194
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "aripiprazole"
 predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aripiprazole: voorspelde nieuwe indicatie Ernstige affectieve stoornis (major affective disorder) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

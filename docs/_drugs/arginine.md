@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 41
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Arginine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
 monitor_inn: "arginine"
 predicted_indications: ["gastroparesis (disease)"]

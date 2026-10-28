@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dorzolamide: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

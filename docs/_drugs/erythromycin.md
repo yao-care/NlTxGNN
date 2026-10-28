@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Erythromycin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
 ---
 

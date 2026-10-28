@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

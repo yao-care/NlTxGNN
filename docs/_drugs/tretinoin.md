@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

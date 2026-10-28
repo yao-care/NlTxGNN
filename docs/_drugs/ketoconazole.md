@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
 description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

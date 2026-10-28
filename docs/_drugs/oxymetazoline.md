@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

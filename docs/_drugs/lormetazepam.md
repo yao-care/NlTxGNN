@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 214
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Lormetazepam: voorspelde nieuwe indicatie Insomnia (slapeloosheid) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de vergunningsgegevens (indicatietekst ontbreekt)"
 monitor_inn: "Lormetazepam"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "sleep disorder, initiating and maintaining sleep", "benign paroxysmal torticollis of infancy"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clopidogrel: voorspelde nieuwe indicatie Migraine met hersenstamaura (migraine with brainstem aura) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

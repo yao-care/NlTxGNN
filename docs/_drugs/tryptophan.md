@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 334
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

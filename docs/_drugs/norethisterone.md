@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norethisterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

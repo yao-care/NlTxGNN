@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pregabalin: voorspelde nieuwe indicatie Tendinitis (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, fibromyalgie, myofasciaal pijnsyndroom…"
 monitor_inn: "pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]

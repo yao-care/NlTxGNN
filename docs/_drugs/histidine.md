@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Histidine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar (de enige vergunning bevat geen indicatietekst)"
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]

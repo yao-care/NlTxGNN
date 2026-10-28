@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Fluconazole: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale g…"
 ---
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 description: "Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

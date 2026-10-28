@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: voorspelde nieuwe indicatie Schizoid personality disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

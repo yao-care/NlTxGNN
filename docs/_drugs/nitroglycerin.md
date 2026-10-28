@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 245
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
 monitor_inn: "nitroglycerin"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]

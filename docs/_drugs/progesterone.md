@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 281
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

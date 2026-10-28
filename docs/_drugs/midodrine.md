@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 234
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: voorspelde nieuwe indicatie Variably protease-sensitive prionopathy (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

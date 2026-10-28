@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 208
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

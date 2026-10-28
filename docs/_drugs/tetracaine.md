@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

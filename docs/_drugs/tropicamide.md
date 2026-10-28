@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tropicamide: voorspelde nieuwe indicatie Caudaequinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Cycloplegie"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]

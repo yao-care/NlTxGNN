@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Famciclovir: voorspelde nieuwe indicatie Postinfectieuze neuralgie (bewijsniveau L4). Oorspronkelijke indicatie: Herpes zoster (gordelroos)"
 monitor_inn: "Famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]

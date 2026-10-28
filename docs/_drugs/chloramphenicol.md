@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "chloramphenicol"
 predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Chloramphenicol: voorspelde nieuwe indicatie conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

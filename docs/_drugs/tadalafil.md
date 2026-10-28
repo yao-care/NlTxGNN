@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tadalafil: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Goedaardige prostaathyperplasie, pulmonale hypertensie…"
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in d…"

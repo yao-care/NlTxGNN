@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 195
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Lamotrigine: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (hoogst gerangschikte voorspelling met klinische… (bewijsniveau L2). Oorspronkelijke indicatie: Epilepsie (o.a. partiële epilepsie, Lennox…"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]

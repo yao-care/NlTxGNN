@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (Ewing sarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 

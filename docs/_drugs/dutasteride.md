@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dutasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]

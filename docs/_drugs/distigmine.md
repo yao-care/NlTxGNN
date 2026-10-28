@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "distigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly", "fetal akinesia deformation sequence", "congenital myasthenic syndrome with tubular aggregates", "myasthenia, congenital, refractory to acetylcholinesterase inhibitors"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Distigmine: voorspelde nieuwe indicatie Auto-immuunziekte van het perifere zenuwstelsel (autoimmune disease of peripheral nervous system) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in…"
 ---
 

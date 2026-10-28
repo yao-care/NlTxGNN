@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ezetimibe: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokal…"
 ---
 

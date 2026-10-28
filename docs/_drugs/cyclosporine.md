@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cyclosporine: voorspelde nieuwe indicatie Chronische granulomateuze ziekte, autosomaal recessief (granulomatous disease, chronic, autosomal recessive) (bewijsniveau L5). Oorspronkelijke indicatie: Ni…"
 ---
 

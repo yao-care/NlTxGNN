@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 228
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L4). Oorspronkelijke indicatie: Erectiestoornissen en aangeboren hartafwijkingen met ductusafhankelij…"
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve agenesis", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]

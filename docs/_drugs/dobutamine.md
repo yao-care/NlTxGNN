@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 118
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dobutamine: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport samengestelde gegevens"
 monitor_inn: "dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]

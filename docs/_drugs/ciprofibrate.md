@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ciprofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "fibroma of prostate"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ciprofibrate: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lo…"
 ---
 

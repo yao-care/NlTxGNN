@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 344
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
 description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"

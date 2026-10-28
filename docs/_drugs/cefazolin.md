@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Cefazolin: voorspelde nieuwe indicatie Infectieuze otitis media (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële pneumonie (en o.a. cholangitis, endocarditis…"
 monitor_inn: "cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]

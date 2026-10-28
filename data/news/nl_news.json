@@ -1,17 +1,53 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-28T03:51:08.839828+00:00",
-  "count": 7,
+  "fetched_at": "2026-10-28T12:02:40.840782+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "46cf235a9d8e",
-      "title": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-25T13:59:15+00:00",
-      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;Reformatorisch DagbladWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladPatiëntorganisaties trekken samen op voor vrouwen",
+      "id": "a5d706d32963",
+      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
+      "published": "2026-10-28T08:16:18+00:00",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De TelegraafStelling | De griepprik moet verplicht worden voor iedereen in de zorg&nbsp;&nbsp;TubantiaV&amp;VN: vier op de tien zorgmedewerkers willen griepprik halen&nbsp;&nbsp;Nieuws.nlJean-Marie Pfaff (72) en Carmen (70) krijgen griepvaccin in AZ Jan Palfijn: “Het beste wapen dat er bestaat tegen de griep”&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVUxDLXFCQzlPelVxdVVZWnhMd3RVWkMwbmJMMktvcWQyQXI5THRnZUNRY2VtbHNubFJJaDk1d20wY2RYZE5XcFV1cDRMOVItZUJzaDdFN3Q2aWZtbWpmYWFhdmJEcjdxOVRoemRCSzMwSnB5dEFLdUhFYTZFYXFRd1p0TDFYcWZmZmo4Ymo4OUJKVFg5NVZ5UE5hbm52dzJJZ3ppT0h6R3FTSG5XNF9XSWlCOGdIYy0wOUFSYmtET2ZsVThBVXVVdTBmWlVJVzlGa3BXQ1hsUmNiVnRycGxHV1RDOFZUd3cyQ0J1Wk92WjNlSEFyTmoxT2RxX191aTJWN0VZc0Ytb3U3QQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81af2e0ca36b",
+      "title": "Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland",
+      "published": "2026-10-28T07:26:43+00:00",
+      "summary": "Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang&nbsp;&nbsp;Omroep Gelderland",
+      "sources": [
+        {
+          "name": "Omroep Gelderland",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bac9e1db34d5",
+      "title": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk - Noordhollands Dagblad",
+      "published": "2026-10-28T05:00:00+00:00",
+      "summary": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVDBvT2Y3dUFaZHpPaVloeERrMXlCd000TzFjZldFekNnbko2SE00cmRraEJiX0RaOGtfVkx4OXpJRjYxSDY5SEhMNkRhZ3pLWW4wSEx4dlVqdVZtTk9lNzdtTDdmOWR0S0o2LU9wWGtSS1Z5ZVdWQTd2Y2tBVE84WkJocTRheFYzOGRuaUl4VWg2M25QSGF3N0s5R2Q4Uld5RTdycWRMM3Z2RWZLMUp2ZzdXa1VCR3FXdHluUVAtNFd6VkE2ZWVNYl90LW4tek9Zbl9fVVJ0dnluR05Dd3V2bTJYaWx6NFFSUGNER0x1cDVTenBNaU5HYnV3MXZNMFliSzBoZF9WUFVXVWhwckxVSTlEMFJ4TVY0TGJQdE5UcWNuNk42S3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b81be578e0bf",
+      "title": "„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie - Reformatorisch Dagblad",
+      "published": "2026-10-26T23:10:04+00:00",
+      "summary": "„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;Reformatorisch Dagblad‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladVrouwenorganisaties bundelen krachten samen voor ",
+      "sources": [
+        {
+          "name": "Reformatorisch Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVdWWmVENEQyay02U2NLSFBpSHFSN1ZrTHJRY3lzODNiX1lIa3ZyS21PS0RKWWV1VDQyb0ZMb2dXRm01aWJqZTVVSmRmTWNWYjR0Z3hIRmkwWk1BRWxvR1gwRzdKR3l4MmxpekhGNnItc25KNkpuNU1HMzdPN1ZyYWYtSzJORzg5QzlxWVdad1hKdGxacm5xVGVDY1Mwa3BNdGhlMHlueHZ4TWhsd2o4TmNQYzNUV29LRkp4M2k1cw?oc=5"
         }
       ]
     },
@@ -19,7 +55,7 @@
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’ - AD.nl",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUNog geen vaccin tegen Shamonda-likevirus: hoe beschermen we onze runderen alsnog?&nbsp;&nbsp;Melkveebedrijf.nl",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst iemand besmet met shamondavirus, geen gevaar voor gezonde mensen&nbsp;&nbsp;RTL.nlNog geen vaccin tegen Shamonda-likevirus: hoe beschermen we onze runderen alsnog?&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,14 +64,14 @@
       ]
     },
     {
-      "id": "a5d706d32963",
-      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
-      "published": "2026-10-27T18:00:00+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlJean-Marie Pfaff (72) en Carmen (70) krijgen griepvaccin in AZ Jan Palfijn: “Het beste wapen dat er bestaat tegen de griep”&nbsp;&nbsp;pzc.nlZorgpersoneel West-Vlaamse ziekenhuizen laten zich steeds minder vaccineren: “Vaccinatie doe je niet alleen voor jezelf”&nbsp;&nbsp;KW.beJean-Marie en Car­men Pfaff zet­ten schou­ders onder griep­cam­pag­ne AZ Jan Palfijn&nbsp;&nbsp;AVS",
+      "id": "030c9cd24240",
+      "title": "Deze simpele ’superfoods’ helpen je om fit te blijven tijdens de donkere maanden - De Telegraaf",
+      "published": "2026-10-28T10:30:00+00:00",
+      "summary": "Deze simpele ’superfoods’ helpen je om fit te blijven tijdens de donkere maanden&nbsp;&nbsp;De Telegraaf“Ik raad aan om je vitamine D-gehalte te laten checken”: zo houdt microbiologe Deborah De Geyter haar weerstand op peil deze winter&nbsp;&nbsp;HLNTips tegen griep, verkoudheid en haaruitval: experts helpen je gezond de herfst door&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSmlpM0ZsSXBiT2RkMFZ4c1RpTy1VVmpuMkRCNmhfU0d0X1VXdGpEY1hVcGRwOGFpNE44anFxYmt0Q2VzZDgwMlNyYWYxb3laY000OThtRmViTmFfNUk4Y21XdVk3MHpXWFAxUnVqaDBSVDZZRV9uRVd2Zy1mb0xjQ2s5OXhELUJiT25haEtZS1BqTGNsSlRaS2E3emlJMmcyemxzdkUyVEFnYzZ3dW5qUVo1VWFNcnNNbW9WaDVXaG9TUEIzc1NORHdIZUJGaWNCSndFZUh1WnY3c2s?oc=5"
         }
       ]
     },
@@ -52,26 +88,14 @@
       ]
     },
     {
-      "id": "c8c09f88fef6",
-      "title": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél - Brabants Dagblad",
+      "id": "65ad41dd5df5",
+      "title": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél - Eindhovens Dagblad",
       "published": "2026-10-26T07:08:34+00:00",
-      "summary": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél&nbsp;&nbsp;Brabants Dagblad",
+      "summary": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél&nbsp;&nbsp;Eindhovens Dagblad",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdHlyMzRBQlhXQ3BpUktKUnpWSTUtTWxwdTdvLXVlZkRZMnBNTENtX2tURVJjS0NUcHdidmxhVVFpeHRXWkVhWHNmdmpfTzI3TzB0bktKM1VDSWNpNFlFX0NKRkxwbC1Sa3hfLVBpMG1oc290QlQ2dkxoSHVGclpBa2JSd1Z0aGtxRU1EcndvM1dEQUM3ZWRpeTZjNXc3dUlCN3dOOWtadlJzWHJkd2kxT0Rab1VQU0UwVGZhODFwczVFZ3FOVmZwYWduVkE3SU9nRVlvbFlVYzJnTG9rdFZIWkNybDdYQ2x1Nnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bba2d7455025",
-      "title": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’ - AD.nl",
-      "published": "2026-10-21T11:15:00+00:00",
-      "summary": "Deze kinderziekten kunnen ook volwassenen ernstig ziek maken: ‘Virus blijft slapend aanwezig’&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVZxNkNKbXpRYUhaUjFncVZ5Um5IOWc1dzA5SFM0eF9YQU5FNUk5Tm00M1ZiQWJ5cG9MT3EzUXlfU2d4N19EZ1Zrd0hlbDhYNnBuNV9BVGFiY0FNYVpYQ2o5UlBlWk5qODNZR3RrQmRzZ3JRNkJ4eE5MZDlEd3VRTHBBbENyVFh1ZE1GNk53Q0ZPdkJ1clpxTFF5WFFXdDc3dXh3RWhWX212V3hkSzZMNXpoRE4zNmVWYjd5c1dYRmg2STg?oc=5"
+          "name": "Eindhovens Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR1lxM3FpbEw5Z0FaMnVIOWNuYlVsTzViLXJNWVBkREFjMDk2cUw3c0tPcGcwVnFPUTdCcHdESU0zNmI2bE1EZWFROFI4anV0Y1Nsc251VE9lMmJYci1NRERlYnJGWW9YY2ZpNEJYN2l3NXF5UEpTWE5haVJndGtuSW5TX1FKQmNISkpTaHJLZHNsdmxEbVdKaF9wQjhWNTkyOTJXQVlGMzdnVFB4WEZLTzJkdExSV3p2UVhGWC1ueFppSjMtZ0g2TGxlQ1BZQjdQbE1seXMxMGYtZFhzazVBWm9tMmxfaF9XU2c?oc=5"
         }
       ]
     },

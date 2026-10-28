@@ -1,7 +1,62 @@
 {
-  "generated": "2026-10-28T03:51:08.936934+00:00",
-  "count": 1,
+  "generated": "2026-10-28T12:02:40.983633+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "030c9cd24240",
+      "title": "Deze simpele ’superfoods’ helpen je om fit te blijven tijdens de donkere maanden - De Telegraaf",
+      "published": "2026-10-28T10:30:00+00:00",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSmlpM0ZsSXBiT2RkMFZ4c1RpTy1VVmpuMkRCNmhfU0d0X1VXdGpEY1hVcGRwOGFpNE44anFxYmt0Q2VzZDgwMlNyYWYxb3laY000OThtRmViTmFfNUk4Y21XdVk3MHpXWFAxUnVqaDBSVDZZRV9uRVd2Zy1mb0xjQ2s5OXhELUJiT25haEtZS1BqTGNsSlRaS2E3emlJMmcyemxzdkUyVEFnYzZ3dW5qUVo1VWFNcnNNbW9WaDVXaG9TUEIzc1NORHdIZUJGaWNCSndFZUh1WnY3c2s?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "verkoudheid",
+          "related_drugs": [
+            {
+              "slug": "droperidol",
+              "name": "Droperidol",
+              "url": "/drugs/droperidol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81af2e0ca36b",
+      "title": "Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland",
+      "published": "2026-10-28T07:26:43+00:00",
+      "sources": [
+        {
+          "name": "Omroep Gelderland",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0247c5e59057",
       "title": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’",

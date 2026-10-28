@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Paclitaxel. 1 voorspelde indicaties."
 permalink: /news/paclitaxel/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Paclitaxel
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">overgang</span>
+
+Bron: [Omroep Gelderland](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5)
+
+---
 
 ### [Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
 

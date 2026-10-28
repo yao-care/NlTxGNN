@@ -17,7 +17,7 @@ Automatisch gevolgde nieuwsberichten over de geneesmiddelen en voorspelde indica
 
 ## Alle berichten
 
-{% assign items = site.news | sort: 'title' %}
+{% assign items = site.news | where_exp: "n", "n.layout != 'id_redirect'" | sort: 'title' %}
 {% if items.size == 0 %}
 Nog geen passende berichten.
 {% else %}

@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-27T21:46:49.896671+00:00",
-  "count": 5,
+  "fetched_at": "2026-10-28T03:51:08.839828+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "46cf235a9d8e",
+      "title": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-10-25T13:59:15+00:00",
+      "summary": "‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;Reformatorisch DagbladWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladPatiëntorganisaties trekken samen op voor vrouwen",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVUxDLXFCQzlPelVxdVVZWnhMd3RVWkMwbmJMMktvcWQyQXI5THRnZUNRY2VtbHNubFJJaDk1d20wY2RYZE5XcFV1cDRMOVItZUJzaDdFN3Q2aWZtbWpmYWFhdmJEcjdxOVRoemRCSzMwSnB5dEFLdUhFYTZFYXFRd1p0TDFYcWZmZmo4Ymo4OUJKVFg5NVZ5UE5hbm52dzJJZ3ppT0h6R3FTSG5XNF9XSWlCOGdIYy0wOUFSYmtET2ZsVThBVXVVdTBmWlVJVzlGa3BXQ1hsUmNiVnRycGxHV1RDOFZUd3cyQ0J1Wk92WjNlSEFyTmoxT2RxX191aTJWN0VZc0Ytb3U3QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "18c056ed4d8a",
       "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’ - AD.nl",
       "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSNog geen vaccin tegen Shamonda-likevirus: hoe beschermen we onze runderen alsnog?&nbsp;&nbsp;Melkveebedrijf.nl",
+      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beFransman die overleed met shamondavirus was al zwaar ziek&nbsp;&nbsp;NOSVoor het eerst mens met shamondavirus besmet, gevaar voor bevolking is klein&nbsp;&nbsp;NUNog geen vaccin tegen Shamonda-likevirus: hoe beschermen we onze runderen alsnog?&nbsp;&nbsp;Melkveebedrijf.nl",
       "sources": [
         {
           "name": "AD.nl",
@@ -16,26 +28,38 @@
       ]
     },
     {
-      "id": "c4cdd23e72a7",
-      "title": "Maandenlang moe? Huisartsbezoek ‘niet dringend, maar laat het ook niet aanslepen’ - AD.nl",
-      "published": "2026-10-27T15:15:36+00:00",
-      "summary": "Maandenlang moe? Huisartsbezoek ‘niet dringend, maar laat het ook niet aanslepen’&nbsp;&nbsp;AD.nl",
+      "id": "a5d706d32963",
+      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
+      "published": "2026-10-27T18:00:00+00:00",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlJean-Marie Pfaff (72) en Carmen (70) krijgen griepvaccin in AZ Jan Palfijn: “Het beste wapen dat er bestaat tegen de griep”&nbsp;&nbsp;pzc.nlZorgpersoneel West-Vlaamse ziekenhuizen laten zich steeds minder vaccineren: “Vaccinatie doe je niet alleen voor jezelf”&nbsp;&nbsp;KW.beJean-Marie en Car­men Pfaff zet­ten schou­ders onder griep­cam­pag­ne AZ Jan Palfijn&nbsp;&nbsp;AVS",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlVVZ1RfOWZySzd0clA3eFpPR2l2T3BTSHJlRkEwT0dWUUJHRDNjajJFdkpiLVd5RkNoa1FyLTVQSEJ1TU5rdEpwa1lPQnpOR2FqRGh2OUNid19LY0N4T01lOUdqVkdPSm9QdTRxN0JLS1JSVlZ5bnlJTWxEM0JTalI1OEVZLXpuZmVveWhCX3hMMUhMbjlVT2EyM3R5TkwzSmVjQ0ZWRkl0OFlRSldENWdB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
         }
       ]
     },
     {
-      "id": "d9cbc69fa267",
-      "title": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél - de Stentor",
-      "published": "2026-10-26T09:19:33+00:00",
-      "summary": "Arts onderzoekt populaire supplementen en ontdekt dat de meeste weinig uithalen: deze drie zaken werken wél&nbsp;&nbsp;de Stentor",
+      "id": "e9fb32eda717",
+      "title": "Onderzoekers vinden aanwijzingen voor een nieuw subtype van depressie: de biologische klok speelt een belangrijke rol - Scientias.nl",
+      "published": "2026-10-27T12:00:23+00:00",
+      "summary": "Onderzoekers vinden aanwijzingen voor een nieuw subtype van depressie: de biologische klok speelt een belangrijke rol&nbsp;&nbsp;Scientias.nlDepressie door ontregelde biologische klok reageert slecht op antidepressiva&nbsp;&nbsp;New Scientist",
       "sources": [
         {
-          "name": "de Stentor",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGZXdFJJQ2FsVGNlWGtCRk9SWnctZEdBOGNkY1d2bUhfLWZnYk1HTWlEdlc4UWNZYmMtVzlSNTNlYWxleWg2TVdlcDJ6YmZET0NqR09GWk1fV3NCaTJNbEJ6V2M0Z0NDRHB1d3RVQkcySnRYR0ZCVlBWT1c2RE9sQU04U0gtNjRueXZvYWVvYnA0QlBrZWRYc3lieHJFOXpHZFA5TWdtVXdlUXRxM0lrMVV3bHp1S3RWLVp3a3pmdEp1bXQ5eTBtRGQzakE4eEUzeWk0cnhHYlZzWXhMcGV5Tld3?oc=5"
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmxBWkJZeEVTRGxkX1l3RmtDbVp4cXRUS2Y4RUllUjRyTzlvQjJnZFEwanBOWEl4SlFhVDREUjY2cFltSmVEelJOQm03cTdZZk51MXI1YTJzc1lEb2NwbWNQWjRSa0V1UGR1ejEyNnBwSnBOYXRPZG9mUjljNkpmVDFNczJsX0x2cDY4RG9OZVNmUHpsRmM5UmJFakpBU3d3TE0teS1JTnlYMGM2OExJUC1teGpEQ2F2ZXRTbU5obWpPQjl0N2x5SlhubHRpS2hueWhNdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8c09f88fef6",
+      "title": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél - Brabants Dagblad",
+      "published": "2026-10-26T07:08:34+00:00",
+      "summary": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél&nbsp;&nbsp;Brabants Dagblad",
+      "sources": [
+        {
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdHlyMzRBQlhXQ3BpUktKUnpWSTUtTWxwdTdvLXVlZkRZMnBNTENtX2tURVJjS0NUcHdidmxhVVFpeHRXWkVhWHNmdmpfTzI3TzB0bktKM1VDSWNpNFlFX0NKRkxwbC1Sa3hfLVBpMG1oc290QlQ2dkxoSHVGclpBa2JSd1Z0aGtxRU1EcndvM1dEQUM3ZWRpeTZjNXc3dUlCN3dOOWtadlJzWHJkd2kxT0Rab1VQU0UwVGZhODFwczVFZ3FOVmZwYWduVkE3SU9nRVlvbFlVYzJnTG9rdFZIWkNybDdYQ2x1Nnc?oc=5"
         }
       ]
     },

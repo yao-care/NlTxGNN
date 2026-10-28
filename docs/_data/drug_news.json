@@ -124,18 +124,6 @@
       "count": 1
     }
   ],
-  "/drugs/droperidol/": [
-    {
-      "url": "/news/droperidol/",
-      "title": "Nieuws over Droperidol",
-      "count": 1
-    },
-    {
-      "url": "/news/common-cold/",
-      "title": "Nieuws over verkoudheid (common cold)",
-      "count": 1
-    }
-  ],
   "/drugs/etoposide/": [
     {
       "url": "/news/etoposide/",

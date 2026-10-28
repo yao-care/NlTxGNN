@@ -27,16 +27,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>Seborroïsche keratose</li>
-<li>Vulvaire omgekeerde folliculaire keratose</li>
-<li>Vulvovaginitis</li>
-<li>Vulvitis</li>
-<li>Vulvaire neoplasie</li>
-<li>Ulceratie van de vulva</li>
-<li>Vulvaire plaveiselcelneoplasie</li>
-<li>Postmenopauzale atrofische vaginitis</li>
-<li>Ziekte van Paget van het bot</li>
-<li>Fibrocystische borstaandoening</li>
+<li>Seborroïsche keratose (seborrheic keratosis)</li>
+<li>Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis)</li>
+<li>vulvovaginitis</li>
+<li>vulvitis</li>
+<li>vulvar neoplasm</li>
+<li>ulceration of vulva</li>
+<li>vulvar squamous neoplasm</li>
+<li>postmenopausal atrophic vaginitis</li>
+<li>bone Paget disease</li>
+<li>breast fibrocystic disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

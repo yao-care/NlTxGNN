@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Cytarabine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Cytarabine. 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Cytarabine. 9 voorspelde indicaties."
 permalink: /news/cytarabine/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Cytarabine
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Cytarabine?">
-<strong>Cytarabine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Cytarabine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Cytarabine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Kleincellig longcarcinoom</li>
+<li><strong>Voorspelde indicaties (9)</strong>:<ul>
+<li>kleincellig longcarcinoom (small cell lung carcinoma)</li>
+<li>Primair pulmonair lymfoom (primary pulmonary lymphoma)</li>
+<li>goed gedifferentieerd foetaal adenocarcinoom van de long (well-differentiated fetal adenocarcinoma of the lung)</li>
+<li>pulmonary blastoma</li>
+<li>upper aerodigestive tract neoplasm</li>
+<li>ganglioneuroblastoma (disease)</li>
+<li>vertebral anomalies and variable endocrine and T-cell dysfunction</li>
+<li>retroperitoneal neoplasm</li>
+<li>neuroblastoom (neuroblastoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

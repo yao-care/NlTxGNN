@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Lorazepam. 1 voorspelde indicaties."
 permalink: /news/lorazepam/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Lorazepam
@@ -27,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lorazepam met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Trigeminuszenuwneoplasma</li>
+<li>Trigeminuszenuwneoplasma (trigeminal nerve neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

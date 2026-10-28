@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Colchicine"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Colchicine. 3 voorspelde indicaties."
+description: "Gezondheidsnieuws over Colchicine. 2 voorspelde indicaties."
 permalink: /news/colchicine/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Colchicine
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Colchicine?">
-<strong>Colchicine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 3 voorspelde indicaties.
+<strong>Colchicine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Colchicine met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (3)</strong>:<ul>
-<li>Plasmodium falciparum-malaria</li>
-<li>Familiaire mediterrane koorts, autosomaal dominant</li>
-<li>Dermatofibrosarcoma protuberans</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>Plasmodium falciparum-malaria (Plasmodium falciparum malaria)</li>
+<li>dermatofibrosarcoma protuberans</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/colchicine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

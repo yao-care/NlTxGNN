@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Valsartan"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Valsartan. 7 voorspelde indicaties."
+description: "Gezondheidsnieuws over Valsartan. 6 voorspelde indicaties."
 permalink: /news/valsartan/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Valsartan
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Valsartan?">
-<strong>Valsartan</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 7 voorspelde indicaties.
+<strong>Valsartan</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,14 +26,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (7)</strong>:<ul>
-<li>Maligne renovasculaire hypertensie</li>
-<li>Maligne hypertensieve nierziekte</li>
-<li>Pulmonale hypertensie, onduidelijk multifactorieel</li>
-<li>Pulmonale hypertensie door longziekte/hypoxie</li>
-<li>Braddock-syndroom</li>
-<li>Chronisch pulmonaal hartlijden</li>
-<li>Prinzmetal-angina</li>
+<li><strong>Voorspelde indicaties (6)</strong>:<ul>
+<li>Maligne hypertensieve nierziekte (malignant hypertensive renal disease)</li>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (pulmonary hypertension with unclear multifactorial mechanism)</li>
+<li>pulmonale hypertensie door longziekte en/of hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
+<li>Braddock syndrome</li>
+<li>chronic pulmonary heart disease</li>
+<li>Prinzmetal-angina (Prinzmetal angina)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

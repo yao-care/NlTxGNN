@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Etoposide"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Etoposide. 11 voorspelde indicaties."
+description: "Gezondheidsnieuws over Etoposide. 10 voorspelde indicaties."
 permalink: /news/etoposide/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Etoposide
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Etoposide?">
-<strong>Etoposide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 11 voorspelde indicaties.
+<strong>Etoposide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,18 +26,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Etoposide met het l
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L1</li>
-<li><strong>Voorspelde indicaties (11)</strong>:<ul>
-<li>Ewing-sarcoom (rang 4 van de 10 voorspellingen; zie de tabel hieronder)</li>
-<li>Goed gedifferentieerd foetaal adenocarcinoom van de long</li>
-<li>Primair pulmonaal lymfoom</li>
-<li>Pulmonaal blastoom</li>
-<li>Ewing-sarcoom</li>
-<li>Botryoïde embryonaal rabdomyosarcoom van de vagina</li>
-<li>Rabdomyosarcoom</li>
-<li>Embryonaal rabdomyosarcoom van de extrahepatische galweg</li>
-<li>Parameningeaal embryonaal rabdomyosarcoom</li>
-<li>Rabdomyosarcoom van de extrahepatische galweg</li>
-<li>Embryonaal rabdomyosarcoom van de prostaat</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>goed gedifferentieerd foetaal adenocarcinoom van de long (well-differentiated fetal adenocarcinoma of the lung)</li>
+<li>Primair pulmonair lymfoom (primary pulmonary lymphoma)</li>
+<li>pulmonary blastoma</li>
+<li>Ewing-sarcoom (Ewing sarcoma)</li>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
+<li>Rabdomyosarcoom (rhabdomyosarcoma (disease))</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>extrahepatic bile duct rhabdomyosarcoma</li>
+<li>prostate embryonal rhabdomyosarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoposide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

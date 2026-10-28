@@ -1,32 +1,7 @@
 {
-  "generated": "2026-10-28T12:02:40.983633+00:00",
-  "count": 3,
+  "generated": "2026-10-28T22:07:58.422059+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "030c9cd24240",
-      "title": "Deze simpele ’superfoods’ helpen je om fit te blijven tijdens de donkere maanden - De Telegraaf",
-      "published": "2026-10-28T10:30:00+00:00",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSmlpM0ZsSXBiT2RkMFZ4c1RpTy1VVmpuMkRCNmhfU0d0X1VXdGpEY1hVcGRwOGFpNE44anFxYmt0Q2VzZDgwMlNyYWYxb3laY000OThtRmViTmFfNUk4Y21XdVk3MHpXWFAxUnVqaDBSVDZZRV9uRVd2Zy1mb0xjQ2s5OXhELUJiT25haEtZS1BqTGNsSlRaS2E3emlJMmcyemxzdkUyVEFnYzZ3dW5qUVo1VWFNcnNNbW9WaDVXaG9TUEIzc1NORHdIZUJGaWNCSndFZUh1WnY3c2s?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "verkoudheid",
-          "related_drugs": [
-            {
-              "slug": "droperidol",
-              "name": "Droperidol",
-              "url": "/drugs/droperidol/"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "81af2e0ca36b",
       "title": "Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland",

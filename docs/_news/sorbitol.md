@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Sorbitol. 1 voorspelde indicaties."
 permalink: /news/sorbitol/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Sorbitol
@@ -27,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sorbitol met het la
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Inspanningsgebonden maligne hyperthermie</li>
+<li>Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorbitol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

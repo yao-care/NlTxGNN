@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Lactulose. 8 voorspelde indicaties."
 permalink: /news/lactulose/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Lactulose
@@ -27,14 +27,14 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lactulose met het l
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
 <li><strong>Voorspelde indicaties (8)</strong>:<ul>
-<li>Obstructieve icterus</li>
-<li>Acute urinezuurnefropathie</li>
-<li>Nefrolithiase</li>
-<li>Galwegziekte</li>
+<li>acute urate nephropathy</li>
+<li>nephrolithiasis</li>
+<li>obstructive jaundice</li>
+<li>bile duct disease</li>
 <li>Galwegaandoening (biliary tract disease)</li>
-<li>Hyperfosfatemie</li>
-<li>Inspanningsgeïnduceerde maligne hyperthermie</li>
-<li>Galwegneoplasma</li>
+<li>hyperphosphatemia (disease)</li>
+<li>Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia)</li>
+<li>bile duct neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

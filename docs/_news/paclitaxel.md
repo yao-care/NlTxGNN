@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over Paclitaxel"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Paclitaxel. 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Paclitaxel. 2 voorspelde indicaties."
 permalink: /news/paclitaxel/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,9 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Borstkanker bij vrouwen (female breast carcinoma)</li>
+<li><strong>Voorspelde indicaties (2)</strong>:<ul>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

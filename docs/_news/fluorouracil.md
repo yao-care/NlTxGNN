@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Fluorouracil"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Fluorouracil. 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Fluorouracil. 10 voorspelde indicaties."
 permalink: /news/fluorouracil/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Fluorouracil
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fluorouracil?">
-<strong>Fluorouracil</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Fluorouracil</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,17 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met he
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
+<li>Rabdomyosarcoom (rhabdomyosarcoma (disease))</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
+<li>prostate embryonal rhabdomyosarcoma</li>
+<li>extrahepatic bile duct rhabdomyosarcoma</li>
+<li>liver sarcoma</li>
+<li>sickle cell-hemoglobin d disease syndrome</li>
+<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</li>
+<li>sickle cell-beta-thalassemia disease syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

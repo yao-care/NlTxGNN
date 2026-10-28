@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Atenolol"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Atenolol. 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Atenolol. 5 voorspelde indicaties."
 permalink: /news/atenolol/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Atenolol
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Atenolol?">
-<strong>Atenolol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Atenolol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 5 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,12 @@ Deze pagina combineert de door AI voorspelde indicaties voor Atenolol met het la
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
-<li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Posteroinferieur myocardinfarct</li>
+<li><strong>Voorspelde indicaties (5)</strong>:<ul>
+<li>Maligne hypertensieve nierziekte (malignant hypertensive renal disease)</li>
+<li>pulmonale hypertensie door longziekte en/of hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
+<li>Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (pulmonary hypertension with unclear multifactorial mechanism)</li>
+<li>Braddock syndrome</li>
+<li>chronic pulmonary heart disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

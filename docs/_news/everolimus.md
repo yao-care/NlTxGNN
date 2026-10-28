@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over Everolimus"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over Everolimus. 1 voorspelde indicaties."
+description: "Gezondheidsnieuws over Everolimus. 8 voorspelde indicaties."
 permalink: /news/everolimus/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Everolimus
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Everolimus?">
-<strong>Everolimus</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Everolimus</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 8 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Everolimus met het 
 <strong>Geneesmiddelinformatie</strong>
 <ul>
 <li><strong>Bewijsniveau</strong>: L3</li>
-<li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Liposarcoom (met name gededifferentieerd liposarcoom)</li>
+<li><strong>Voorspelde indicaties (8)</strong>:<ul>
+<li>Liposarcoom (liposarcoma)</li>
+<li>ovarian myxoid liposarcoma</li>
+<li>dermatofibrosarcoma protuberans</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
+<li>Rabdomyosarcoom (rhabdomyosarcoma (disease))</li>
+<li>prostate embryonal rhabdomyosarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

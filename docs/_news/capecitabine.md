@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Capecitabine. 1 voorspelde indicaties."
 permalink: /news/capecitabine/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Capecitabine
@@ -27,7 +27,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Capecitabine met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L5</li>
 <li><strong>Voorspelde indicaties (1)</strong>:<ul>
-<li>Gastrisch adenocarcinoom en proximale poliepose van de maag (GAPPS)</li>
+<li>Gastrisch adenocarcinoom en proximale poliepose van de maag (gastric adenocarcinoma and proximal polyposis of the stomach)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Bicalutamide. 10 voorspelde indicaties."
 permalink: /news/bicalutamide/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Nieuws over Bicalutamide
@@ -27,16 +27,16 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <ul>
 <li><strong>Bewijsniveau</strong>: L4</li>
 <li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>hypertrichosis (disease)</li>
-<li>malformation syndrome with odontal and/or periodontal component</li>
-<li>Ambras type hypertrichosis universalis congenita</li>
+<li>Hypertrichose (hypertrichosis (disease))</li>
+<li>Malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal component)</li>
+<li>Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)</li>
 <li>syndrome with a Dandy-Walker malformation as major feature</li>
 <li>isolated genetic hair shaft abnormality</li>
 <li>leprosy</li>
 <li>multiple endocrine neoplasia</li>
-<li>pulmonary hypertension</li>
-<li>female breast carcinoma</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis</li>
+<li>Pulmonale hypertensie (pulmonary hypertension)</li>
+<li>Mammacarcinoom (female breast carcinoma)</li>
+<li>Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>

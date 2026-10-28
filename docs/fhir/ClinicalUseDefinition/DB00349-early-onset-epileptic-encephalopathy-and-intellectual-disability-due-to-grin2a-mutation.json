@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB00349",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB00349"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "early-onset-epileptic-encephalopathy-and-intellectual-disability-due-to-grin2a-mutation",
-          "display": "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation"
-        }
-      ],
-      "text": "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation"
+      "concept": {
+        "text": "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.994
     }
   ]
 }

@@ -4,17 +4,17 @@ title: Riluzole
 parent: Alleen modelvoorspelling (L5)
 nav_order: 292
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Riluzole: voorspelde nieuwe indicatie Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bewijsniveau L5). Oorspronkelijke indicatie: Amyotrofische laterale sclerose (ALS)"
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
+description: "Riluzole: voorspelde nieuwe indicatie Bilateral parasagittal parieto-occipital polymicrogyria (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Riluzol: Van amyotrofische laterale sclerose naar polymicrogyrie (bilaterale parasagittale pariëto-occipitale vorm)
+## Riluzole: Bilateral parasagittal parieto-occipital polymicrogyria
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,12 +44,12 @@ Riluzol is een geneesmiddel dat oorspronkelijk wordt gebruikt voor de behandelin
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Amyotrofische laterale sclerose (ALS) |
-| Voorspelde nieuwe indicatie | Bilaterale parasagittale pariëto-occipitale polymicrogyrie |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Bilateral parasagittal parieto-occipital polymicrogyria |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geannuleerd) |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?
@@ -82,7 +82,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109825 | Glentek 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 109825 | Glentek 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ## Veiligheidsoverwegingen
 

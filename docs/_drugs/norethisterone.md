@@ -6,9 +6,9 @@ nav_order: 246
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norethisterone: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L4). Oorspronkelijke indicatie: Endometriose, primaire ovariële insufficiëntie…"
 monitor_inn: "norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norethisterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Norethisterone
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-## Norethisteron: Van endometriose en ovariële insufficiëntie naar amenorroe
+## Norethisterone: Amenorroe (amenorrhea (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -47,12 +47,12 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **amenorroe**, maar e
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Endometriose, primaire ovariële insufficiëntie, postmenopauzale osteoporose, postmenopauzale atrofische vaginitis, acne (volgens de kennisgraaf; geen goedgekeurde indicatietekst in de Nederlandse registraties beschikbaar) |
-| Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,60% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
+| TxGNN-voorspellingsscore | 0.9960 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunningen ingetrokken) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -96,10 +96,9 @@ Selectie van de meest relevante publicaties (voorrang: RCT > review > overig). S
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114612//22819 | Activelle, filmomhulde tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
-| RVG 119949//14942 | Kliogest, filmomhulde tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 114612//22819 | Activelle, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
+| RVG 119949//14942 | Kliogest, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-Beide vergunningen zijn doorgehaald; er is geen geldige registratie bij het CBG-MEB.
 
 ---
 

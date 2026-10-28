@@ -6,9 +6,9 @@ nav_order: 260
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Overactieve blaas, neurogene blaas…"
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
+description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxybutynin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Oxybutynine: Van overactieve blaas naar rustelozebenensyndroom
+## Oxybutynin: Rustelozebenensyndroom (restless legs syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Oxybutynine is een antimuscarinisch middel dat oorspronkelijk wordt gebruikt bij
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Overactieve blaas, neurogene blaas, caudaequinasyndroom (afkomstig uit de TxGNN-kennisgraaf; de vergunningstekst bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Rustelozebenensyndroom |
-| TxGNN-voorspellingsscore | 99,74% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Rustelozebenensyndroom (restless legs syndrome) |
+| TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,11 +60,11 @@ Oxybutynine is een antimuscarinisch middel dat oorspronkelijk wordt gebruikt bij
 
 Gegevens over het werkingsmechanisme van oxybutynine zijn in de voor dit rapport samengestelde data niet beschikbaar. Oxybutynine staat bekend als antimuscarinisch middel met anticholinerge werking; de werkzaamheid bij overactieve blaas is vastgesteld.
 
-Een mechanistisch verband met rustelozebenensyndroom is op basis van de beschikbare gegevens **niet aangetoond**. Dit syndroom wordt vooral in verband gebracht met dopaminerge disfunctie en ijzertekort in de hersenen, niet met antimusc­arinische werking. Anticholinergica kunnen bij sommige patiënten de klachten zelfs verergeren. De hoge score is dus een statistische voorspelling uit het kennisgraafmodel en geen bevestiging van werkzaamheid.
+Een mechanistisch verband met rustelozebenensyndroom is op basis van de beschikbare gegevens **niet aangetoond**. Dit syndroom wordt vooral in verband gebracht met dopaminerge disfunctie en ijzertekort in de hersenen, niet met antimusc­arinische werking. Anticholinergica kunnen bij sommige patiënten de klachten zelfs verergeren. De hoge score (0,9974) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen; het is geen biologisch bewijs en geen bevestiging van werkzaamheid.
 
 Twee andere voorspelde indicaties verdienen vermelding als context:
-- **Gastroduodenitis** (score 99,62%): geen klinische studies of literatuur. Antimuscarinica verminderen van oudsher de maagzuursecretie en darmmotiliteit, wat een losse farmacologische rationale biedt, maar anticholinergica zijn hiervoor geen huidige standaardbehandeling.
-- **Maagzweerziekte** (score 99,31%): bewijsniveau L4, met drie oude, indirecte publicaties (zie hieronder). Moderne zuurremming (PPI's, eradicatie van *H. pylori*) heeft anticholinerge therapie bij deze indicatie grotendeels verdrongen.
+- **Gastroduodenitis** (score 0,9962): geen klinische studies of literatuur. Antimuscarinica verminderen van oudsher de maagzuursecretie en darmmotiliteit, wat een losse farmacologische rationale biedt, maar anticholinergica zijn hiervoor geen huidige standaardbehandeling.
+- **Maagzweerziekte** (score 0,9931): bewijsniveau L4, met drie oude, indirecte publicaties (zie hieronder). Moderne zuurremming (PPI's, eradicatie van *H. pylori*) heeft anticholinerge therapie bij deze indicatie grotendeels verdrongen.
 
 ---
 
@@ -92,9 +92,9 @@ Ter context: voor de derde voorspelde indicatie (maagzweerziekte) zijn wel drie 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige vergunning voor oxybutynine in de data van het CBG-MEB. De enige geregistreerde vergunning is doorgehaald.
+Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB. Het middel is in Nederland op de markt.
 
 ---
 
@@ -117,7 +117,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor rustelozebenensyndroom berust uitsluitend op een grafmodel (bewijsniveau L5), zonder studies of literatuur. Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Bovendien is er in Nederland geen geldige vergunning meer.
+- De voorspelling voor rustelozebenensyndroom komt uitsluitend van het TxGNN-model (deep learning; bewijsniveau L5), zonder studies of literatuur. Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Het middel is in Nederland wel op de markt, met 1 geldige vergunning.
 
 **Om verder te gaan is nodig:**
 - Productinformatie (SmPC) van het CBG-MEB voor waarschuwingen en contra-indicaties, nodig voor een veiligheidsscreening

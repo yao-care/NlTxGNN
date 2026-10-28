@@ -46,10 +46,10 @@ Voor glucagon is in de voor dit rapport samengestelde gegevens geen geregistreer
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (het vergunningsrecord bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Prikkelbare darmsyndroom (irritable bowel syndrome) |
-| TxGNN-voorspellingsscore | 99,24% |
+| TxGNN-voorspellingsscore | 0,9924 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (Cancelled only) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -88,9 +88,9 @@ Let op: vrijwel alle publicaties gaan over GLP-1 of GLP-1-receptoragonisten, nie
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120327//02011 | GlucaGen Hypokit 1 mg poeder en oplosmiddel voor oplossing voor injectie | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 120327//02011 | GlucaGen Hypokit 1 mg poeder en oplosmiddel voor oplossing voor injectie | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Deze enige registratie in het CBG-MEB-register is doorgehaald; er is momenteel geen geldige vergunning in de verstrekte gegevens.
+Deze enige registratie in het CBG-MEB-register is geldig; er is 1 geldige vergunning van de 1 in de verstrekte gegevens, en het middel wordt op de markt gebracht.
 
 ## Veiligheidsoverwegingen
 

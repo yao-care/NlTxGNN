@@ -4,17 +4,17 @@ title: Iloprost
 parent: Alleen modelvoorspelling (L5)
 nav_order: 182
 evidence_level: L5
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale arteriële hypertensie (afkomstig uit de TxGNN-kennisgraaf"
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
+description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Iloprost: Van pulmonale arteriële hypertensie naar hypotrichosis simplex van de hoofdhuid
+## Iloprost: Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -44,19 +44,19 @@ Iloprost is een prostacycline-analoog en wordt van oorsprong gebruikt bij **pulm
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Pulmonale arteriële hypertensie (afkomstig uit de TxGNN-kennisgraaf; de vergunningsgegevens vermelden geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
-| TxGNN-voorspellingsscore | 99,45% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) |
+| TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) registratie |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
 Gegevens over het werkingsmechanisme van iloprost waren niet beschikbaar in de voor dit rapport verzamelde gegevens. Iloprost is bekend als prostacycline-analoog met vaatverwijdende, plaatjesremmende en celgroeiremmende effecten. Daarmee is het werkzaam bij PAH.
 
-De link met haargroei is hooguit speculatief. Prostaglandine-routes spelen mogelijk een rol in de haarfollikelcyclus, en prostacycline-analogen werken op die routes. **Geen enkel verstrekt gegeven ondersteunt dit.** Pulmonale hypertensie en een erfelijke haarziekte hebben bovendien weinig pathofysiologisch gemeen. De hoge score (0,995) is daarom een model-signaal en geen bewijs van werkzaamheid.
+De link met haargroei is hooguit speculatief. Prostaglandine-routes spelen mogelijk een rol in de haarfollikelcyclus, en prostacycline-analogen werken op die routes. **Geen enkel verstrekt gegeven ondersteunt dit.** Pulmonale hypertensie en een erfelijke haarziekte hebben bovendien weinig pathofysiologisch gemeen. De hoge score (0,9945) is daarom een model-signaal en geen bewijs van werkzaamheid.
 
 ## Bewijs uit klinische studies
 
@@ -72,7 +72,7 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie (afgeleid uit de productnaam) | Niet vermeld in de verzamelde gegevens |
 
-Deze vergunning (CBG-MEB) is **doorgehaald**. Er is momenteel geen geldige vergunning voor een iloprost-product in de verzamelde gegevens. Voor elk gebruik zou dus eerst de beschikbaarheid van een geregistreerd product moeten worden nagegaan.
+Deze vergunning (CBG-MEB) is **geldig**. Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en het product is op de markt.
 
 ## Veiligheidsoverwegingen
 

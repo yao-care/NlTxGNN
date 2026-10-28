@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "specific-developmental-disorder",
-          "display": "specific developmental disorder"
-        }
-      ],
-      "text": "specific developmental disorder",
       "concept": {
         "text": "specific developmental disorder"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9993
     }
   ]
 }

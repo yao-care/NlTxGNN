@@ -6,9 +6,9 @@ nav_order: 271
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (bewijsniveau L5). Oorspronkelijke indicatie: Diabetes mellitus type 2"
 monitor_inn: "pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+description: "Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (opsismodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pioglitazone
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Pioglitazon: Van diabetes mellitus type 2 naar opsismodysplasie
+## Pioglitazone: Opsismodysplasie (opsismodysplasia)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,19 +44,19 @@ Pioglitazon is een insulinesensitizer die oorspronkelijk wordt gebruikt voor de 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Diabetes mellitus type 2 (afkomstig uit de kennisgraaf; de registratietekst in de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Opsismodysplasie |
-| TxGNN-voorspellingsscore | 99,59% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Opsismodysplasie (opsismodysplasia) |
+| TxGNN-voorspellingsscore | 0.9959 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
 Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van algemene kennis is pioglitazon een agonist van PPAR-gamma (thiazolidinedion) die de insulinegevoeligheid verhoogt. De werkzaamheid bij diabetes type 2 is aangetoond.
 
-Opsismodysplasie wordt veroorzaakt door mutaties in het INPPL1-gen (SHIP2), een negatieve regulator van de PI3K/insuline-signaleringsroute. Een theoretisch verband met de insulinesignalering waarop pioglitazon via PPAR-gamma ingrijpt is denkbaar, maar speculatief en niet ondersteund door de beschikbare data. De hoge modelscore weerspiegelt waarschijnlijk vooral netwerkverbanden in de kennisgraaf en geen aangetoonde werkzaamheid.
+Opsismodysplasie wordt veroorzaakt door mutaties in het INPPL1-gen (SHIP2), een negatieve regulator van de PI3K/insuline-signaleringsroute. Een theoretisch verband met de insulinesignalering waarop pioglitazon via PPAR-gamma ingrijpt is denkbaar, maar speculatief en niet ondersteund door de beschikbare data. De hoge score (0,9959) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs.
 
 Andere voorspelde indicaties in de data hebben eveneens uitsluitend een L5-niveau (stijve-lidmaatsyndromen, lipodystrofieën, thiaminegevoelig disfunctiesyndroom en pancreasagenesie). Bij pancreasagenesie zijn zeven publicaties gevonden, maar deze gaan allemaal over diabetes type 2 en niet over de voorspelde ziekte. Insulinesensitizers vereisen restfunctie van bètacellen, waardoor werkzaamheid daar mechanistisch onwaarschijnlijk is.
 
@@ -72,9 +72,8 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor opsismodysplasie.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten (status: geldig) | Niet vermeld | Niet vermeld |
 
-Volgens de data is er geen geldige registratie bij het CBG-MEB voor pioglitazon als monopreparaat of combinatiepreparaat; de enige vergunning is doorgehaald.
 
 ## Veiligheidsoverwegingen
 
@@ -90,7 +89,7 @@ Voor aanvullende waarschuwingen en contra-indicaties volgens de productinformati
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend gebaseerd op een model (L5) zonder klinische studies of directe literatuur. Daarnaast is er in Nederland geen geldige registratie van pioglitazon en zijn er relevante veiligheidssignalen (o.a. hartfalen, lever- en nierziekte).
+- De voorspelling is uitsluitend gebaseerd op een model (L5) zonder klinische studies of directe literatuur.
 
 **Om verder te gaan is het volgende nodig:**
 - Informatie uit de CBG-MEB-productinformatie over waarschuwingen en contra-indicaties (blokkerende leemte voor de veiligheidsscreening)

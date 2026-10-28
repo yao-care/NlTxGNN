@@ -6,9 +6,9 @@ nav_order: 191
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ketoconazole: voorspelde nieuwe indicatie Acne (bewijsniveau L4). Oorspronkelijke indicatie: Schimmelinfecties van de huid (o.a. tinea pedis, tinea corporis…"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
+description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ketoconazole
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-## Ketoconazol: Van schimmelinfecties van de huid naar acne
+## Ketoconazole: Acne (acne (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Ketoconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt bi
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Schimmelinfecties van de huid (o.a. tinea pedis, tinea corporis, pityriasis versicolor), seborroïsch eczeem, candidiasis. De goedgekeurde indicatietekst van de Nederlandse registratie is niet beschikbaar; de indicaties zijn afkomstig uit de kennisgraaf van TxGNN. |
-| Voorspelde nieuwe indicatie | Acne |
-| TxGNN-voorspellingsscore | 99,80% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acne (acne (disease)) |
+| TxGNN-voorspellingsscore | 0.9980 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,9 +95,8 @@ Er zijn geen gerandomiseerde gecontroleerde studies (RCT's) naar ketoconazol bij
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | Crème (volgens productnaam) | Niet beschikbaar; registratie doorgehaald |
+| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | Crème (volgens productnaam) | Niet beschikbaar; registratie geldig |
 
-Er is geen geldige registratie van ketoconazol bij het CBG-MEB.
 
 ---
 
@@ -125,7 +124,7 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn ni
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit een voorspelling van het model, één kleine lopende studie zonder resultaten en indirecte laboratoriumgegevens (L4). Bovendien is er geen geldige Nederlandse registratie en ontbreekt de veiligheidsinformatie uit de bijsluiter, waardoor de veiligheidsscreening niet kan worden afgerond.
+- Het bewijs bestaat uit een voorspelling van het model, één kleine lopende studie zonder resultaten en indirecte laboratoriumgegevens (L4).
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB (SmPC), zodat de veiligheidsscreening kan worden afgerond.

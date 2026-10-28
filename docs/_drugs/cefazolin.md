@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Cefazolin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 74
-evidence_level: L4
+evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Cefazolin: voorspelde nieuwe indicatie Infectieuze otitis media (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële pneumonie (en o.a. cholangitis, endocarditis…"
@@ -14,7 +14,7 @@ predicted_indications: ["infectious otitis media", "bronchitis", "middle ear dis
 # Cefazolin
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ maar hiervoor zijn **geen geregistreerde klinische studies** en slechts **2 publ
 |------|------|
 | Oorspronkelijke indicatie | Bacteriële pneumonie (en o.a. cholangitis, endocarditis, bacteriële artritis) |
 | Voorspelde nieuwe indicatie | Infectieuze otitis media |
-| TxGNN-voorspellingsscore | 99,44% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| TxGNN-voorspellingsscore | 0,9944 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -87,7 +87,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57366 | Cefazoline CF, poeder voor oplossing voor injectie 500 mg en 1 g | Poeder voor oplossing voor injectie (volgens productnaam) | Niet beschikbaar; vergunning is doorgehaald |
+| RVG 57366 | Cefazoline CF, poeder voor oplossing voor injectie 500 mg en 1 g | Poeder voor oplossing voor injectie (volgens productnaam) | Niet beschikbaar; vergunning is geldig |
 
 ---
 
@@ -107,7 +107,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De hoge modelscore (99,44%) wordt niet ondersteund door klinisch bewijs: er zijn geen geregistreerde studies en de literatuur bevat geen directe gegevens over cefazolin bij otitis media. Bovendien is de enige Nederlandse vergunning ingetrokken, en zijn er voor otitis media gangbare, goed onderbouwde alternatieven (zoals amoxicilline-gebaseerde behandelingen).
+- De hoge modelscore (0,9944) wordt niet ondersteund door klinisch bewijs: er zijn geen geregistreerde studies en de literatuur bevat geen directe gegevens over cefazolin bij otitis media. Bovendien is het middel in Nederland op de markt (1 geldige vergunning van 1), en zijn er voor otitis media gangbare, goed onderbouwde alternatieven (zoals amoxicilline-gebaseerde behandelingen).
 - Voor aanverwante voorspellingen met meer literatuur (o.a. suppurative otitis media, met een vergelijkende studie uit 1982 waarin cefazolin als comparator diende) geldt dat het bewijs oud en beperkt is.
 
 **Om verder te gaan is het volgende nodig:**

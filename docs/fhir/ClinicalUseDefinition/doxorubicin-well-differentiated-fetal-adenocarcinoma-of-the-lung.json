@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "well-differentiated-fetal-adenocarcinoma-of-the-lung",
-          "display": "well-differentiated fetal adenocarcinoma of the lung"
-        }
-      ],
-      "text": "well-differentiated fetal adenocarcinoma of the lung",
       "concept": {
         "text": "well-differentiated fetal adenocarcinoma of the lung"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9986
     }
   ]
 }

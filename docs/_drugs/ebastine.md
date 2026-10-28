@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis…"
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
+last_modified_at: 2026-10-27
+description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ebastine
@@ -33,85 +33,69 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Ebastine: Van allergische rinitis naar coronaire hartziekte
+## Ebastine: H1-antihistaminicum → coronaire hartziekte (coronary artery disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Ebastine is een tweede-generatie H1-antihistaminicum, oorspronkelijk gebruikt bij allergische rinitis, vasomotore rinitis en idiopathische urticaria. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **coronaire hartziekte** (en daaraan verwant **myocardischemie**). Er zijn echter **geen klinische studies** en **geen publicaties** die deze richting ondersteunen; de voorspelling is uitsluitend computationeel.
-
----
+Ebastine is een tweedegeneratie H1-antihistaminicum. Het TxGNN-model voorspelt een mogelijk effect bij **coronaire hartziekte (coronary artery disease)**, maar hiervoor zijn in de voor dit rapport verzamelde gegevens **geen klinische studies en geen publicaties** gevonden. De voorspelling berust uitsluitend op een computermodel.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Allergische rinitis, vasomotore rinitis, idiopathische urticaria (afkomstig uit de kennisgraaf; de vergunning in Nederland vermeldt geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Coronaire hartziekte |
-| TxGNN-voorspellingsscore | 99,18% |
-| Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geen geldige) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Coronaire hartziekte (coronary artery disease) |
+| TxGNN-voorspellingsscore | 0,9918 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
-Een tweede voorspelling, **myocardischemie** (score 99,10%), heeft eveneens evidentieniveau L5 en beslissing Hold. Deze is nauw verwant aan coronaire hartziekte en waarschijnlijk niet onafhankelijk van de eerste voorspelling.
+## Waarom is deze voorspelling plausibel?
 
----
+Gedetailleerde gegevens over het werkingsmechanisme van ebastine ontbreken in de voor dit rapport verzamelde gegevens. Ebastine is een tweedegeneratie H1-antihistaminicum.
 
-## Waarom is deze voorspelling aannemelijk?
+Een speculatieve link is dat histamine en mestcelactiviteit een rol spelen bij atherosclerose en bij de tonus van de kransslagvaten: histamine kan coronaire vasospasme veroorzaken en mestcellen komen voor in atherosclerotische plaques. Blokkade van de H1-receptor zou in theorie hierop kunnen ingrijpen. Dit is redenering op hypotheseniveau en wordt niet ondersteund door studies of publicaties in de beschikbare gegevens.
 
-Er zijn voor dit rapport geen gegevens over het werkingsmechanisme beschikbaar. Bekend is dat ebastine een tweede-generatie H1-antihistaminicum is. Het effect bij allergische aandoeningen is vastgesteld, maar er is geen onderbouwing voor een effect bij hart- en vaatziekten.
+De score van 0,9918 is een rekenkundige modeluitkomst en geen klinisch bewijs. Er is geen studie gevonden die ebastine direct bij coronaire hartziekte onderzoekt; daarom is het bewijsniveau L5.
 
-Een mogelijk, puur speculatief verband loopt via histaminesignalering en mestcelactiviteit. Histamine kan coronaire vasospasmen veroorzaken en mestcellen komen voor in atherosclerotische plaques. H1-receptorblokkade zou in theorie door histamine gemedieerde coronaire vasoconstrictie en mestcelgedreven ontsteking kunnen verminderen. Dit is hypothese-niveau redenering en wordt niet door de beschikbare gegevens ondersteund.
-
-De twee voorspelde indicaties (coronaire hartziekte en myocardischemie) weerspiegelen vermoedelijk hetzelfde grafsignaal. De score is een rekenkundige voorspelling en geen bewijs van werkzaamheid. Of de nieuwe indicatie lijkt op de oorspronkelijke indicaties, is nog niet beoordeeld.
-
----
-
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
----
-
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
-
----
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | Filmomhulde tablet (volgens productnaam) | Niet vermeld in de beschikbare gegevens |
+| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-De enige vergunning is doorgehaald. Er is dus geen geldig product op de Nederlandse markt volgens de gegevens van het CBG-MEB die voor dit rapport zijn verzameld.
-
----
+Bij de Nederlandse registratiegegevens (CBG-MEB) is de marktstatus "In de handel". De lijst hierboven is volledig volgens de beschikbare gegevens.
 
 ## Veiligheidsoverwegingen
 
-Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. Er zijn voor dit rapport geen waarschuwingen, contra-indicaties of geneesmiddelinteracties beschikbaar.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie. In de voor dit rapport verzamelde gegevens zijn geen waarschuwingen, contra-indicaties of geneesmiddeleninteracties vastgelegd.
 
-Bij een eventuele beoordeling in een cardiovasculaire populatie moet in elk geval aandacht worden besteed aan QT-gerelateerde effecten van antihistaminica en aan het metabolisme van ebastine via CYP3A4/2J2.
-
----
+Bij een eventuele toepassing in een cardiovasculaire populatie moeten de bekende QT-gerelateerde effecten van antihistaminica en het metabolisme van ebastine (CYP3A4/2J2) zorgvuldig worden beoordeeld.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspellingen voor coronaire hartziekte en myocardischemie berusten alleen op een modelscore (evidentieniveau L5), zonder klinische studies of literatuur.
-- Er is geen geldige handelsvergunning in Nederland, en de gegevens over veiligheid en werkingsmechanisme ontbreken.
+- De voorspelling is uitsluitend gebaseerd op een computermodel. Er is geen klinische studie of publicatie die ebastine bij coronaire hartziekte onderzoekt (bewijsniveau L5).
+- Cardiale veiligheid (QT-verlenging) vormt een extra aandachtspunt voor deze populatie.
 
 **Om verder te gaan is nodig:**
-- Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties), die nodig is voor de veiligheidsscreening.
-- Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank) om het mechanistische verband te kunnen beoordelen.
-- Een systematische zoektocht naar preklinische, observationele en klinische gegevens over antihistaminica bij coronaire hartziekte en myocardischemie.
-- Beoordeling van cardiale veiligheid (QT-verlenging, CYP-interacties) in een cardiovasculaire populatie.
-- Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald.
+- Een systematische literatuursearch en een zoektocht naar registraties van studies naar histamine/H1-blokkade bij coronaire hartziekte
+- Gegevens over het werkingsmechanisme van ebastine
+- Verwerking van de SmPC-waarschuwingen en contra-indicaties in een veiligheidsbeoordeling
+- Een beoordeling van het cardiale veiligheidsprofiel (QT-interval, interacties met CYP3A4-remmers) in patiënten met coronaire hartziekte
+- Preklinisch of verkennend onderzoek om de mechanistische hypothese te toetsen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

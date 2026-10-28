@@ -48,10 +48,10 @@ Spironolacton is een mineralocorticoïdreceptorantagonist die oorspronkelijk wor
 |------|------|
 | Oorspronkelijke indicatie | Hypertensie, congestief hartfalen, hyperaldosteronisme (primair aldosteronisme), Bartter-syndroom, Waterhouse-Friderichsen-syndroom (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst in de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
-| TxGNN-voorspellingsscore | 99,26% |
+| TxGNN-voorspellingsscore | 0,9926 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Spironolacton is een mineralocorticoïdreceptorantagonist die oorspronkelijk wor
 
 Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene farmacologische kennis is spironolacton een mineralocorticoïdreceptorantagonist met een duidelijke anti-androgene werking (blokkade van de androgeenreceptor en verminderde androgeensynthese). Dit mechanisme wordt klinisch off-label gebruikt bij vrouwelijke haaruitval (androgenetische alopecia).
 
-Hypotrichosis simplex van de hoofdhuid is echter een zeldzame erfelijke haarziekte (gekoppeld aan genen zoals CDSN, APCDD1 en RPL21) en wordt niet primair door androgenen aangedreven. De mechanistische link met de oorspronkelijke cardiovasculaire en renale indicaties is daardoor indirect en speculatief. De zeer hoge score (0,993) is waarschijnlijk het gevolg van nabijheid in het kennisnetwerk tot andere haaruitvalaandoeningen en wordt niet door studies of literatuur onderbouwd.
+Hypotrichosis simplex van de hoofdhuid is echter een zeldzame erfelijke haarziekte (gekoppeld aan genen zoals CDSN, APCDD1 en RPL21) en wordt niet primair door androgenen aangedreven. De mechanistische link met de oorspronkelijke cardiovasculaire en renale indicaties is daardoor indirect en speculatief. De zeer hoge score (0,9926) is waarschijnlijk het gevolg van nabijheid in het kennisnetwerk tot andere haaruitvalaandoeningen en wordt niet door studies of literatuur onderbouwd.
 
-Een tweede voorspelling, **congenitale hypotrichosis met milia** (score 99,04%), heeft geen duidelijke mechanistische onderbouwing: een anti-androgeen of mineralocorticoïdantagonistisch mechanisme corrigeert naar verwachting geen aangeboren ontwikkelingsdefect van de haarfollikel. Ook hiervoor is geen bewijs beschikbaar (bewijsniveau L5, aanbeveling Hold).
+Een tweede voorspelling, **congenitale hypotrichosis met milia** (score 0,9904), heeft geen duidelijke mechanistische onderbouwing: een anti-androgeen of mineralocorticoïdantagonistisch mechanisme corrigeert naar verwachting geen aangeboren ontwikkelingsdefect van de haarfollikel. Ook hiervoor is geen bewijs beschikbaar (bewijsniveau L5, aanbeveling Hold).
 
 ---
 
@@ -82,7 +82,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 55973 | Spironolacton 50 mg Teva, tabletten | Tablet | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 55973 | Spironolacton 50 mg Teva, tabletten | Tablet | Niet beschikbaar (vergunning geldig) |
 
 ---
 

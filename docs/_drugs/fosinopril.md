@@ -4,17 +4,17 @@ title: Fosinopril
 parent: Alleen modelvoorspelling (L5)
 nav_order: 166
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "fosinopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Fosinopril
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Fosinopril: Van hypertensie naar maligne hypertensieve nierziekte
+## Fosinopril: Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Fosinopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandeli
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (hypertensieve aandoening) |
-| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99,87% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige handelsvergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,9 +62,9 @@ Gegevens over het werkingsmechanisme van fosinopril ontbreken in de voor dit rap
 
 Maligne hypertensieve nierziekte (hypertensieve nefrosclerose met versnelde hypertensie) ligt dicht bij de al erkende indicatie hypertensie. Het gaat daarom eerder om een uitbreiding van de bestaande indicatie dan om echte herpositionering. Ook de overige voorspellingen met een hoge score zijn RAAS-gerelateerd:
 
-- **Maligne renovasculaire hypertensie** (99,87%): biologisch plausibel, maar ACE-remmers vragen hier voorzichtigheid vanwege het risico op acute achteruitgang van de nierfunctie bij bilaterale nierarteriestenose of stenose bij een solitaire nier.
-- **Pulmonale hypertensie** (99,87%), zowel de variant met onduidelijk multifactorieel mechanisme als die door longziekte of hypoxie: een theoretische RAAS-rol bij vaatremodellering, maar ACE-remmers hebben geen aangetoonde werkzaamheid en systemische vaatverwijding kan hypotensie geven.
-- **Braddock-syndroom** (99,81%): zeer zeldzaam, geen duidelijk mechanistisch verband. De hoge score is waarschijnlijk een artefact van de kennisgraaf en moet als weinig betrouwbaar worden beschouwd.
+- **Maligne renovasculaire hypertensie** (0.9987): biologisch plausibel, maar ACE-remmers vragen hier voorzichtigheid vanwege het risico op acute achteruitgang van de nierfunctie bij bilaterale nierarteriestenose of stenose bij een solitaire nier.
+- **Pulmonale hypertensie** (0.9987), zowel de variant met onduidelijk multifactorieel mechanisme als die door longziekte of hypoxie: een theoretische RAAS-rol bij vaatremodellering, maar ACE-remmers hebben geen aangetoonde werkzaamheid en systemische vaatverwijding kan hypotensie geven.
+- **Braddock-syndroom** (0,9981): zeer zeldzaam, geen duidelijk mechanistisch verband.
 
 ---
 
@@ -91,10 +91,10 @@ Voor de vierde voorspelling (pulmonale hypertensie door longziekte en/of hypoxie
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie | Status |
 |---------|------|------|-----------|------|
-| RVG 105777 | Fosinoprilnatrium Aurobindo 20 mg, tabletten | Tablet | Niet vermeld in de beschikbare gegevens | Doorgehaald |
-| RVG 105685 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | Tablet | Niet vermeld in de beschikbare gegevens | Doorgehaald |
+| RVG 105777 | Fosinoprilnatrium Aurobindo 20 mg, tabletten | Tablet | Niet vermeld in de beschikbare gegevens | Geldig |
+| RVG 105685 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | Tablet | Niet vermeld in de beschikbare gegevens | Geldig |
 
-Beide vergunningen (CBG-MEB) zijn doorgehaald, waardoor er momenteel geen geldig product op de Nederlandse markt is. Dit beperkt de praktische haalbaarheid van ontwikkeling.
+Dit beperkt de praktische haalbaarheid van ontwikkeling.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Verapamil
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 341
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Verapamil: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie, atriumfibrilleren, acuut coronair syndroom…"
 monitor_inn: "verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil: voorspelde nieuwe indicatie Obsolete bundle branch block (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-## Verapamil: Van hypertensie en hartritmestoornissen naar pulmonale hypertensie door longziekte en/of hypoxie
+## Verapamil: Obsolete bundle branch block
 {: .text-alpha }
 
 ## Samenvatting in één alinea
 
 Verapamil is een calciumkanaalblokker die oorspronkelijk wordt gebruikt bij hypertensie, atriumfibrilleren, acuut coronair syndroom, Prinzmetal-angina en ventriculaire tachycardie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **pulmonale hypertensie door longziekte en/of hypoxie**. Hiervoor zijn **geen klinische studies** gevonden, en de **20 gevonden publicaties** bestaan vooral uit indirecte preklinische onderzoeken en reviews. Het bewijs is daarmee beperkt (niveau L4).
 
-Opmerking: de hoogst gerangschikte voorspelling van het model is "obsolete bundle branch block" (score 99,6%). Deze term is verouderd, en verapamil kan juist geleidingsstoornissen verergeren. Daarom is hieronder de voorspelling met het meeste onderliggende bewijs uitgewerkt (rang 4), en zijn de overige voorspellingen kort samengevat.
+Deze term is verouderd, en verapamil kan juist geleidingsstoornissen verergeren. Daarom is hieronder de voorspelling met het meeste onderliggende bewijs uitgewerkt (rang 4), en zijn de overige voorspellingen kort samengevat.
 
 ---
 
@@ -48,25 +48,25 @@ Opmerking: de hoogst gerangschikte voorspelling van het model is "obsolete bundl
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie, atriumfibrilleren, acuut coronair syndroom, Prinzmetal-angina, ventriculaire tachycardie (afkomstig uit de kennisgraaf; de vergunningsteksten bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Pulmonale hypertensie door longziekte en/of hypoxie |
-| TxGNN-voorspellingsscore | 99,26% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Obsolete bundle branch block |
+| TxGNN-voorspellingsscore | 0.9962 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ### Overzicht van alle voorspelde indicaties
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Advies |
 |---|------|------|------|------|
-| 1 | Obsolete bundle branch block (verouderde term) | 99,62% | L5 | Hold |
-| 2 | Maligne hypertensieve nierziekte | 99,27% | L5 | Hold |
-| 3 | Maligne renovasculaire hypertensie | 99,27% | L5 | Hold |
-| 4 | Pulmonale hypertensie door longziekte en/of hypoxie | 99,26% | L4 | Onderzoeksvraag |
-| 5 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,26% | L5 | Hold |
-| 6 | Braddock-syndroom | 99,15% | L5 | Hold |
-| 7 | Periodieke paralyse met voorbijgaand compartimentachtig syndroom | 99,08% | L5 | Hold |
+| 1 | Obsolete bundle branch block (verouderde term) | 0,9962 | L5 | Hold |
+| 2 | Maligne hypertensieve nierziekte | 0,9927 | L5 | Hold |
+| 3 | Maligne renovasculaire hypertensie | 0,9927 | L5 | Hold |
+| 4 | Pulmonale hypertensie door longziekte en/of hypoxie | 0,9926 | L5 | Onderzoeksvraag |
+| 5 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 0,9926 | L5 | Hold |
+| 6 | Braddock-syndroom | 0,9915 | L5 | Hold |
+| 7 | Periodieke paralyse met voorbijgaand compartimentachtig syndroom | 0,9908 | L5 | Hold |
 
 ---
 
@@ -111,9 +111,9 @@ Voor de voorspelling "maligne renovasculaire hypertensie" (rang 3) zijn twee pub
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten (geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is in Nederland momenteel geen geldige registratie in de voor dit rapport samengestelde gegevens. Raadpleeg het CBG-MEB voor de actuele status.
+Raadpleeg het CBG-MEB voor de actuele status.
 
 ---
 
@@ -138,7 +138,6 @@ Specifiek voor de voorspelde indicatie zijn de AV-blok- en hartfalencontra-indic
 
 **Onderbouwing:**
 - De voorspelling berust vooral op modelscores en indirecte preklinische bevindingen. Er zijn geen klinische studies, en klinische richtlijnen raden calciumkanaalblokkers af bij pulmonale hypertensie door longziekte. De overige voorspellingen missen bewijs of een plausibel mechanisme (bij "bundle branch block" is zelfs schade te verwachten).
-- Verapamil heeft in Nederland geen geldige registratie meer, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend hiaat voor veiligheidsscreening).
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de officiële SmPC en bijsluiter (via het CBG-MEB)

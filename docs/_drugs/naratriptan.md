@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Naratriptan
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 242
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Naratriptan: voorspelde nieuwe indicatie Migraine met hersenstamaura (bewijsniveau L3). Oorspronkelijke indicatie: Migraine (met of zonder aura)"
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Naratriptan
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-## Naratriptan: Van migraine naar migraine met hersenstamaura
+## Naratriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruikt voor de acute behandeling van migraine. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **migraine met hersenstamaura**. Hiervoor zijn **geen geregistreerde klinische studies** en **20 publicaties** beschikbaar, waarvan de meeste over migraine in het algemeen gaan en niet specifiek over hersenstamaura.
+Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruikt voor de acute behandeling van migraine. Hiervoor zijn **geen geregistreerde klinische studies** en **20 publicaties** beschikbaar, waarvan de meeste over migraine in het algemeen gaan en niet specifiek over hersenstamaura.
 
 ---
 
@@ -46,12 +46,12 @@ Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Migraine (met of zonder aura) |
-| Voorspelde nieuwe indicatie | Migraine met hersenstamaura |
-| TxGNN-voorspellingsscore | 99,98% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal handelsvergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Atrophoderma vermiculata |
+| TxGNN-voorspellingsscore | 0.9974 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,7 +64,7 @@ Migraine met hersenstamaura is een subtype van migraine met aura. Beide delen de
 
 Er is echter een belangrijk voorbehoud. De aangeleverde literatuur gaat vooral over migraine in het algemeen of migraine met aura, niet specifiek over hersenstamaura. Bovendien hebben triptanen van oudsher waarschuwingen of contra-indicaties voor hersenstam- (basilaire) aura vanwege theoretische zorgen over vaatvernauwing. Deze veiligheidsvraag moet worden opgelost vóór enige aanbeveling.
 
-De andere voorspelde indicaties (atrophoderma vermiculata, score 99,74%; ulerythema ophryogenesis, score 99,47%) hebben geen herkenbare mechanistische onderbouwing en geen studies of literatuur. Het zijn uitsluitend modelvoorspellingen (bewijsniveau L5, status Hold).
+De andere voorspelde indicaties (atrophoderma vermiculata, score 0,9974; ulerythema ophryogenesis, score 0,9947) hebben geen herkenbare mechanistische onderbouwing en geen studies of literatuur. Het zijn uitsluitend modelvoorspellingen (bewijsniveau L5, status Hold).
 
 ---
 
@@ -99,9 +99,8 @@ Geen van deze publicaties richt zich specifiek op migraine met hersenstamaura.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
-De enige bekende registratie bij het CBG-MEB is doorgehaald; er is dus momenteel geen geldig naratriptanproduct met een enkelvoudige of gecombineerde registratie in de data.
 
 ---
 

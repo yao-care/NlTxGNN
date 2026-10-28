@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "pla2g6-associated-neurodegeneration",
-          "display": "PLA2G6-associated neurodegeneration"
-        }
-      ],
-      "text": "PLA2G6-associated neurodegeneration",
       "concept": {
         "text": "PLA2G6-associated neurodegeneration"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9923
     }
   ]
 }

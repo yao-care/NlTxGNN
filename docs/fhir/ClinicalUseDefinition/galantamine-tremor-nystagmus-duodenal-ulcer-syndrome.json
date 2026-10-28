@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "tremor-nystagmus-duodenal-ulcer-syndrome",
-          "display": "tremor-nystagmus-duodenal ulcer syndrome"
-        }
-      ],
-      "text": "tremor-nystagmus-duodenal ulcer syndrome",
       "concept": {
         "text": "tremor-nystagmus-duodenal ulcer syndrome"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9988
     }
   ]
 }

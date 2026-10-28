@@ -4,17 +4,17 @@ title: Amlodipine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 35
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amlodipine: voorspelde nieuwe indicatie Herseninfarct van de hersenstam (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (volgens de kennisgraaf ook beroerte…"
+indication_count: 9
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
+last_modified_at: 2026-10-27
+description: "Amlodipine: voorspelde nieuwe indicatie Hersenstaminfarct (brain stem infarction) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Amlodipine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,99 +33,63 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Amlodipine: Van hypertensie naar herseninfarct van de hersenstam
+## Amlodipine: calciumkanaalblokker (dihydropyridine) → hersenstaminfarct (brain stem infarction)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Amlodipine is een calciumkanaalblokker die oorspronkelijk wordt gebruikt bij hoge bloeddruk (hypertensie) en verwante aandoeningen zoals angina van Prinzmetal en cerebrovasculaire aandoeningen.
-Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **herseninfarct van de hersenstam** (brain stem infarction).
-Voor deze specifieke indicatie zijn **geen klinische studies** en **geen publicaties** gevonden, dus de voorspelling is vooralsnog uitsluitend modelmatig.
-
----
+Amlodipine is een calciumkanaalblokker die wordt gebruikt bij hoge bloeddruk en verwante hart- en vaataandoeningen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hersenstaminfarct (brain stem infarction)**. Voor deze specifieke aandoening zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden; de voorspelling berust dus uitsluitend op het model.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (volgens de kennisgraaf ook beroerte, cerebrovasculaire aandoeningen, herseninfarct en angina van Prinzmetal) |
-| Voorspelde nieuwe indicatie | Herseninfarct van de hersenstam |
-| TxGNN-voorspellingsscore | 99,94% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Hersenstaminfarct (brain stem infarction) |
+| TxGNN-voorspellingsscore | 0,9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
-| Aanbevolen besluit | Hold |
-
----
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Amlodipine behoort tot de calciumkanaalblokkers (L-type). Deze klasse ontspant gladde spiercellen in de vaatwand en verlaagt zo de bloeddruk. De werkzaamheid bij hypertensie is aangetoond, en mechanistisch zou dit ook relevant kunnen zijn bij cerebrovasculaire aandoeningen.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Amlodipine is een calciumkanaalblokker die de bloedvaten verwijdt en de bloeddruk verlaagt. Bloeddrukcontrole is een belangrijke factor bij het voorkomen van beroertes, zodat een rol bij herseninfarcten mechanistisch denkbaar is.
 
-De voorspelde indicatie ligt dicht bij de bestaande indicaties van amlodipine. Beroerte, cerebrovasculaire aandoeningen en herseninfarct staan al als indicaties in de kennisgraaf waarop het model is gebaseerd. De hoge score weerspiegelt daarom waarschijnlijk vooral de nabijheid tot deze bestaande indicaties en niet nieuw, specifiek bewijs voor een infarct van de hersenstam. Er zijn geen aanwijzingen gevonden dat amlodipine bij deze specifieke vorm van herseninfarct een eigen therapeutische rol heeft.
+De hoge modelscore weerspiegelt waarschijnlijk vooral de nabijheid van de voorspelde aandoening tot andere cerebrovasculaire aandoeningen waarvoor het middel al wordt gebruikt. Er is geen studie of publicatie die specifiek hersenstaminfarct onderzoekt. Dit is dus geen onafhankelijk bewijs voor een nieuw gebruik.
 
----
+## Klinisch trialbewijs
 
-## Klinisch studiebewijs
-
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze indicatie.
-
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze aandoening.
 
 ## Literatuurbewijs
 
-Momenteel is er geen gerelateerde literatuur beschikbaar voor deze indicatie.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar voor deze aandoening.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 101560 | Amlodipine (als besilaat) 10 mg PCH, tabletten | Doorgehaald |
-
-Er zijn momenteel geen geldige vergunningen voor amlodipine in de gegevens die voor dit rapport zijn samengesteld. Voor actuele informatie over beschikbare producten zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) de aangewezen bronnen.
-
----
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 101560 | Amlodipine (als besilaat) 10 mg PCH, tabletten | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-Voor de vergunning in Nederland zijn in de samengestelde gegevens geen waarschuwingen of contra-indicaties uit de bijsluiter of SmPC beschikbaar. Raadpleeg daarom de SmPC voor veiligheidsinformatie.
+De voor dit rapport samengestelde gegevens bevatten geen tekst uit de bijsluiter of SmPC over waarschuwingen en contra-indicaties. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor volledige veiligheidsinformatie.
 
-**Contra-indicatiesignalen uit de kennisgraaf** (dit zijn modelmatige signalen en geen officiële bijsluitertekst). Genoemd worden onder meer:
-- Lever- en nieraandoeningen (waaronder leverfalen)
-- Pancreatitis en galblaasaandoeningen
-- Hypothyreoïdie (waaronder myxoedeem)
-- Angio-oedeem (waaronder erfelijk en verworven vormen)
-- Systemische lupus erythematodes
-- Myopathieën en spieraandoeningen, familiaire periodieke paralyse en kaliumtekort
-- Diabetes mellitus en diabetische ketoacidose
-- Neutropenie en agranulocytose
-- Hypotensieve aandoeningen
-- Hyperparathyreoïdie
-
-**Geneesmiddelinteracties:** er zijn in totaal 100 interacties gevonden, waarvan de eerste 20 hieronder zijn samengevat. Deze zijn allemaal als "matig" geclassificeerd:
-- Corticosteroïden: hydrocortison, betamethason, budesonide, dexamethason
-- Calciumzouten: calciumacetaat, -carbonaat, -chloride, -citraat, -gluconaat, -lactaat, -fosfaat en andere
-- Overige: aprepitant, acetylsalicylzuur, bupropion, canagliflozine, dapagliflozine, claritromycine, clotrimazol
-
----
+**Geneesmiddelinteracties:** er zijn 100 interacties geregistreerd, waarvan de eerste 20 zijn beoordeeld als matig (moderate). Voorbeelden zijn hydrocortison, aprepitant, acetylsalicylzuur, betamethason, budesonide, bupropion, clarithromycine, dapagliflozine, canagliflozine, dexamethason en diverse calciumzouten.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor herseninfarct van de hersenstam is alleen een modelvoorspelling beschikbaar (L5), zonder klinische studies of literatuur. De hoge score weerspiegelt waarschijnlijk vooral de nabijheid tot bestaande indicaties.
-- Er zijn geen geldige vergunningen in Nederland, en veiligheidsinformatie uit de SmPC ontbreekt in de samengestelde gegevens.
+- De voorspelling voor hersenstaminfarct berust alleen op het model (bewijsniveau L5). Er zijn geen studies of publicaties die deze aandoening direct onderzoeken.
 
-**Om verder te gaan is het volgende nodig:**
-- Gericht literatuuronderzoek en studieregistratie specifiek voor herseninfarct van de hersenstam
-- Aanvullende gegevens over het werkingsmechanisme
-- Beoordeling van de SmPC en bijsluiter (waarschuwingen en contra-indicaties) via het CBG-MEB
-- Beoordeling van de regulatoire route, gezien de huidige marktstatus (alleen doorgehaalde vergunning)
-
-**Opmerking over andere voorspellingen:** voor een andere voorspelde indicatie, **intracerebrale bloeding (secundaire preventie)**, is aanzienlijk meer bewijs gevonden. De afgeronde fase 3-studie TRIDENT (NCT02699645, 1671 deelnemers) testte een lage-dosis driedubbele antihypertensieve pil met amlodipine. Dit bewijs betreft de combinatie en niet amlodipine alleen. Die indicatie verdient een afzonderlijke beoordeling.
+**Om verder te gaan is nodig:**
+- Gericht onderzoek naar amlodipine bij hersenstaminfarct (preklinisch of klinisch)
+- Gegevens over het werkingsmechanisme
+- Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties)
+- Beoordeling van de relevantie ten opzichte van reeds bestaande cerebrovasculaire toepassingen en bloeddrukbeleid
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

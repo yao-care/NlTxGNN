@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "mucin-rich-endometrial-endometrioid-adenocarcinoma",
-          "display": "mucin-rich endometrial endometrioid adenocarcinoma"
-        }
-      ],
-      "text": "mucin-rich endometrial endometrioid adenocarcinoma",
       "concept": {
         "text": "mucin-rich endometrial endometrioid adenocarcinoma"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9973
     }
   ]
 }

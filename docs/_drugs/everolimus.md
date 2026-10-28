@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Everolimus
-parent: Matig bewijs (L3-L4)
+parent: Sterk bewijs (L1-L2)
 nav_order: 145
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (met name gededifferentieerd liposarcoom) (bewijsniveau L3). Oorspronkelijke indicatie: Niercelcarcinoom (o.a. clear cell en niet-papillair). De ke…"
+evidence_level: L2
+indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-27
+description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Everolimus
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,114 +33,100 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Everolimus: van niercelcarcinoom naar liposarcoom
+## Everolimus: mTOR-remmer → liposarcoom (liposarcoma)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Everolimus is een mTOR-remmer. In de kennisgraaf van het TxGNN-model staat het als middel voor onder meer niercelcarcinoom, borstkanker en tubereuze sclerose. Het model voorspelt dat everolimus ook werkzaam kan zijn bij **liposarcoom**, met **1 klinische studie** en **4 publicaties** in de voor dit rapport samengestelde gegevens. Dat is beperkt bewijs: het gaat vooral om een enkelarmige fase 2-studie met een combinatieregime en om preklinisch werk.
+Everolimus is een mTOR-remmer (remt het eiwitcomplex mTORC1, dat celgroei en celdeling aanstuurt). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **liposarcoom (liposarcoma)**. Daarvoor zijn in de voor dit rapport verzamelde gegevens **1 klinische studie** en **4 publicaties** gevonden, waarvan alleen de studie en één publicatie direct over liposarcoom gaan en het effect daarin aan een combinatie met ribociclib is toe te schrijven.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niercelcarcinoom (o.a. clear cell en niet-papillair). De kennisgraaf noemt daarnaast borstkanker, nierangiomyolipoom en tubereuze sclerose. De goedgekeurde indicatietekst van de Nederlandse vergunning is niet beschikbaar. |
-| Voorspelde nieuwe indicatie | Liposarcoom (met name gededifferentieerd liposarcoom) |
-| TxGNN-voorspellingsscore | 99,88% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (geen geldige) |
-| Aanbevolen besluit | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Liposarcoom (liposarcoma) |
+| TxGNN-voorspellingsscore | 0,9988 |
+| Bewijsniveau | L2 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn voor dit rapport geen gedetailleerde gegevens over het werkingsmechanisme uit de geneesmiddelendatabase beschikbaar. Op basis van de beschikbare onderbouwing remt everolimus mTORC1, een centrale schakel in celgroei en -deling. Die route is actief in veel tumoren, waaronder niercelcarcinoom, waar everolimus is gevestigd na behandeling met VEGF-gerichte middelen.
+Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens. Uit algemene farmacologische kennis is bekend dat everolimus mTORC1 remt, dat stroomafwaarts van de PI3K/AKT-signaalroute werkt en betrokken is bij celgroei en overleving van tumorcellen.
 
-Gededifferentieerd liposarcoom wordt meestal aangedreven door amplificatie van MDM2 en CDK4. Daarnaast is de PI3K/AKT/mTOR-route vaak geactiveerd. Een mTOR-remmer past mechanistisch bij die tweede route. Combinatie met de CDK4/6-remmer ribociclib richt zich op twee complementaire groeiroutes. In meerdere tumormodellen is voor die combinatie synergistische groeiremming beschreven.
-
-De onderbouwing berust op preklinische en vroege klinische gegevens. Gerandomiseerd bewijs ontbreekt. De voorspelling is dus plausibel, maar niet bevestigd.
+Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MDM2. Het combineren van everolimus met de CDK4/6-remmer ribociclib richt zich op twee complementaire routes: de celcyclus en de mTOR-gestuurde groei. Dit is biologisch plausibel, maar het gaat om een combinatiebehandeling en niet om een monotherapie-indicatie voor everolimus.
 
 ---
 
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Fase 2 | Actief, niet meer werven (verwachte afronding 12/2026) | 48 | Ribociclib plus everolimus bij gevorderd gededifferentieerd liposarcoom (arm A) en leiomyosarcoom (arm B) na minstens één eerdere systemische behandeling. Doel is de antitumoractiviteit van deze combinatie te bepalen. Het is een enkelarmige studie zonder gerandomiseerde controle, dus de bijdrage van everolimus alleen valt niet te isoleren. |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Fase 2 | Actief, niet meer werven | 48 | Ribociclib plus everolimus bij gevorderd gededifferentieerd liposarcoom (DDL) en leiomyosarcoom (LMS) na minstens één eerdere systemische behandeling; tweecentrumstudie zonder randomisatie, gericht op antitumoractiviteit van de combinatie |
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Fase 2-studie (enkelarmig) | Clinical Cancer Research | Rapportage van de fase 2-studie met ribociclib plus everolimus bij gededifferentieerd liposarcoom en leiomyosarcoom. Beschrijft de biologische onderbouwing: CDK4/6-remming bij liposarcoom, mTOR-remming bij leiomyosarcoom en synergie in tumormodellen. |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Frontiers in Oncology | Overzicht van sarcoommodellen (patiënt-afgeleide xenograften in muizen) waarin combinaties met de CDK-remmer palbociclib worden getest. Indirect bewijs voor everolimus. |
-| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | Preklinisch | Oncogene | De XPO1-remmer selinexor (KPT-330) tast de levensvatbaarheid van gededifferentieerde liposarcoomcellen aan. Indirect bewijs voor everolimus. |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preklinisch | Anticancer Research | Preklinische antitumoractiviteit van eribuline in combinatie met middelen met andere werkingsmechanismen. Indirect bewijs voor everolimus. |
+| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Fase 2-studierapport | Clinical Cancer Research | Rapport van de fase 2-studie met ribociclib plus everolimus bij gevorderd DDL en LMS; combinatie toonde synergistische groeiremming in tumormodellen |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Frontiers in Oncology | Overzicht van PDOX-muismodellen voor sarcomen en combinaties met palbociclib; niet specifiek voor everolimus |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preklinisch | Anticancer Research | Eribulinecombinaties in tumormodellen; niet specifiek voor everolimus |
+| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | Preklinisch | Oncogene | Remmer van XPO1 (KPT-330) bij gededifferentieerd liposarcoom; niet specifiek voor everolimus |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 109317//30043 | Certican 0,75 mg, tabletten | Doorgehaald (ingetrokken) |
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 109317//30043 | Certican 0,75 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-Er is geen geldige vergunning voor everolimus als enkelvoudig middel in de gegevens van het CBG-MEB. De geregistreerde toedieningsvorm en de goedgekeurde indicatietekst van deze vergunning zijn niet beschikbaar.
+Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof.
 
 ---
 
 ## Cytotoxiciteit
 
-Everolimus wordt gebruikt bij kanker en is een gerichte therapie (mTOR-remmer), geen klassiek cytostaticum.
+Everolimus is een antineoplastisch middel (gerichte therapie, mTOR-remmer), geen klassiek cytotoxisch middel.
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Cytotoxiciteitsclassificatie | Gerichte therapie (mTOR-remmer) |
-| Myelosuppressierisico | Raadpleeg de SmPC. De kennisgraaf vermeldt wel cytopenieën (neutropenie, leukopenie, trombocytopenie, anemie) als aandachtspunt. |
-| Emetogeniciteitsclassificatie | Raadpleeg de SmPC |
-| Controle-items | Volledig bloedbeeld, lever- en nierfunctie, glucose en lipiden (afgeleid uit de aandachtspunten in de kennisgraaf) |
-| Beschermende maatregelen bij hanteren | Raadpleeg de SmPC en de geldende richtlijnen voor het hanteren van cytostatica |
+| Classificatie | Gerichte therapie (mTOR-remmer) |
+| Risico op beenmergsuppressie | Zie de SmPC (waarschuwingen en voorzorgen) |
+| Emetogeniciteit | Zie de SmPC |
+| Te monitoren parameters | Bloedbeeld (CBC), lever- en nierfunctie, glucose en lipiden |
+| Veilig hanteren | Zie de SmPC en de geldende richtlijnen voor het hanteren van antineoplastische middelen |
 
 ---
 
 ## Veiligheidsoverwegingen
 
-De waarschuwingen en contra-indicaties uit de officiële bijsluiter zijn niet beschikbaar. Raadpleeg de SmPC voor de officiële veiligheidsinformatie.
+- **Geneesmiddelinteracties**: in de verzamelde gegevens zijn 100 interacties gevonden. Voorbeelden van ernstige (Major) interacties: amfotericine B (ook de lipidecomplexvorm), aprepitant, dexamethason en claritromycine. Voorbeelden van matige (Moderate) interacties: metformine, acarbose, canagliflozine, cimetidine en glimepiride.
 
-**Aandachtspunten uit de kennisgraaf (geen bijsluitertekst):** de TxGNN-kennisgraaf koppelt everolimus aan de volgende aandoeningen als mogelijke contra-indicatie of reden voor voorzichtigheid:
-- **Lever en nieren:** leverfalen, leverziekte, nierziekte, galblaasziekte
-- **Bloed:** trombocytopenie, neutropenie, agranulocytose, leukopenie, anemie, trombotische microangiopathie (hemolytisch-uremisch syndroom, trombocytopenische purpura)
-- **Stofwisseling:** hyperglykemie, diabetes mellitus, diabetische ketoacidose, hypertriglyceridemie, hyperlipidemie
-- **Hart en longen:** congestief hartfalen, interstitiële longziekte, pericardiale effusie
-- **Overig:** stomatitis, kanker en lymfoom (waaronder primair lymfoom van het centrale zenuwstelsel)
-
-**Geneesmiddelinteracties:** er zijn 100 interacties gevonden. Hieronder staan de belangrijkste uit de getoonde selectie.
-- **Ernstig (Major):** amfotericine B (ook lipidencomplex), aprepitant, dexamethason, claritromycine
-- **Matig (Moderate):** veel bloedsuikerverlagende middelen, zoals metformine, acarbose, alogliptine, canagliflozine, dapagliflozine, empagliflozine, linagliptine, glimepiride, chloorpropamide, albiglutide en dulaglutide. Daarnaast onder meer cimetidine, eliglustat en eluxadoline.
-- **Licht (Minor):** zinksulfaat
+Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
 
 **Onderbouwing:**
-- Het bewijs voor liposarcoom bestaat uit één enkelarmige fase 2-studie met een combinatieregime (ribociclib plus everolimus), die nog niet is afgerond, plus preklinische en indirecte literatuur. De bijdrage van everolimus is daarmee niet vast te stellen.
-- Er is geen geldige Nederlandse vergunning voor everolimus als enkelvoudig middel, en de officiële veiligheidsinformatie ontbreekt.
+- Een fase 2-studie (n=48) onderzoekt de combinatie ribociclib plus everolimus direct bij gededifferentieerd liposarcoom. De studie is niet gerandomiseerd en het effect is aan de combinatie toe te schrijven, niet aan everolimus alleen. Het bewijsniveau is daarom L2.
 
-**Voor een volgende stap is nodig:**
-- Definitieve resultaten van de fase 2-studie NCT03114527 (verwachte afronding eind 2026), met een beoordeling van de werkzaamheid en bijwerkingen van de combinatie
-- Waarschuwingen en contra-indicaties uit de officiële bijsluiter (SmPC/PIL) van het CBG-MEB, zodat de veiligheid kan worden getoetst
-- Gedetailleerde gegevens over het werkingsmechanisme uit de geneesmiddelendatabase, voor een betere mechanistische onderbouwing
-- Bij voorkeur gerandomiseerd bewijs voor liposarcoom, en een beoordeling van de relevantie van de geneesmiddelinteracties voor deze patiëntengroep
-- Duidelijkheid over de vergunningsstatus van everolimus in Nederland
+**Om verder te gaan is nodig:**
+- Afronding en volledige analyse van de lopende fase 2-studie, bij voorkeur met gerandomiseerd vervolgonderzoek
+- Gegevens over het werkingsmechanisme en over de bijdrage van everolimus afzonderlijk
+- Beoordeling van de SmPC-waarschuwingen en contra-indicaties in de Nederlandse context
+- Een plan voor interactie- en veiligheidsmonitoring, met name bij gelijktijdig gebruik van sterke CYP3A4-remmers
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

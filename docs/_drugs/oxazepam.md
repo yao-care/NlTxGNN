@@ -6,9 +6,9 @@ nav_order: 258
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L3). Oorspronkelijke indicatie: Angst"
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
+description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxazepam
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-## Oxazepam: Van angst en alcoholontwenningsdelirium naar slapeloosheid
+## Oxazepam: Slapeloosheid (insomnia (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Oxazepam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bij
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Angst; alcoholontwenningsdelirium (volgens de kennisgraaf; de vergunningstekst bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
-| TxGNN-voorspellingsscore | 99,86% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
+| TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geen geldige) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -91,7 +91,7 @@ De tabel toont de meest relevante publicaties (10 gevonden; ongerelateerde artik
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 55969 | Oxazepam CF 50 mg, tabletten | Niet vermeld (tablet volgens productnaam) | Niet vermeld; status: doorgehaald |
+| RVG 55969 | Oxazepam CF 50 mg, tabletten | Niet vermeld (tablet volgens productnaam) | Niet vermeld; status: geldig |
 
 ---
 

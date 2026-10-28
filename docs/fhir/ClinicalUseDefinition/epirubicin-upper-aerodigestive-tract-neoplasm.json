@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "upper-aerodigestive-tract-neoplasm",
-          "display": "upper aerodigestive tract neoplasm"
-        }
-      ],
-      "text": "upper aerodigestive tract neoplasm",
       "concept": {
         "text": "upper aerodigestive tract neoplasm"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9906
     }
   ]
 }

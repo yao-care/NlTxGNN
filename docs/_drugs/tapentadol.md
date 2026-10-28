@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 309
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tapentadol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde data"
 monitor_inn: "tapentadol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Tapentadol is een sterk werkende pijnstiller (mu-opioïdereceptoragonist en nora
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde data |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,67% |
+| TxGNN-voorspellingsscore | 0,9967 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal registraties | 1 (geen geldige) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -58,7 +58,7 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Er zijn belangrijke kanttekeningen. Opioïden worden bij migraine in het algemeen niet aanbevolen, vanwege het risico op medicatieovergebruikshoofdpijn, chronificatie van de hoofdpijn en afhankelijkheid. De hoge modelscore weerspiegelt waarschijnlijk een associatie op netwerkniveau, niet een bewezen klinisch voordeel.
 
-De andere voorspelde indicaties zijn "migraine met hersenstamaura" (score 99,57%) en "migraine met of zonder aura, gevoeligheid voor" (score 99,08%). De eerste is een subtype van migraine; de voorspelling is waarschijnlijk niet subtypespecifiek. De tweede is een genetisch associatielabel en geen behandelbare klinische indicatie. Voor geen van beide is bewijs voor werkzaamheid beschikbaar.
+Een andere voorspelde indicatie is "migraine met hersenstamaura" (score 0,9957). Dit is een subtype van migraine; de voorspelling is waarschijnlijk niet subtypespecifiek. Voor deze indicatie is geen bewijs voor werkzaamheid beschikbaar.
 
 ## Bewijs uit klinische studies
 
@@ -77,7 +77,7 @@ Voor de hoofdvoorspelling (migraine) is geen literatuur beschikbaar. Voor de ver
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte (status: geldig) | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 

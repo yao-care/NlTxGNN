@@ -4,17 +4,17 @@ title: Levonorgestrel
 parent: Matig bewijs (L3-L4)
 nav_order: 208
 evidence_level: L4
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (bewijsniveau L4). Oorspronkelijke indicatie: Postmenopauzale osteoporose / osteoporose"
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-## Levonorgestrel: Van osteoporose naar acne
+## Levonorgestrel: Acne (acne (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Levonorgestrel is een progestageen dat vooral wordt gebruikt voor anticonceptie, onder meer in hormoonspiralen. In de kennisgraaf waarop het model is gebaseerd is het gekoppeld aan postmenopauzale osteoporose en osteoporose. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acne**, maar er zijn **0 klinische studies** en **20 publicaties** gevonden. Die publicaties zijn vooral algemene overzichtsartikelen, met één gerandomiseerde studie naar een combinatiepil met ethinylestradiol. Het bewijs voor levonorgestrel als losstaand middel is dus zwak.
+Levonorgestrel is een progestageen dat vooral wordt gebruikt voor anticonceptie, onder meer in hormoonspiralen. Het TxGNN-model (deep learning) voorspelt dat het mogelijk werkzaam is bij **acne** (score 0.9988). Deze score komt van het TxGNN-model en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Er zijn **0 klinische studies** en **20 publicaties** gevonden. Die publicaties zijn vooral algemene overzichtsartikelen, met één gerandomiseerde studie naar een combinatiepil met ethinylestradiol. Het bewijs voor levonorgestrel als losstaand middel is dus zwak.
 
 ---
 
@@ -46,12 +46,12 @@ Levonorgestrel is een progestageen dat vooral wordt gebruikt voor anticonceptie,
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Postmenopauzale osteoporose / osteoporose (volgens de kennisgraaf; in de Nederlandse registratie is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Acne |
-| TxGNN-voorspellingsscore | 99,88% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acne (acne (disease)) |
+| TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Levonorgestrel is een progestageen dat vooral wordt gebruikt voor anticonceptie,
 
 Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Levonorgestrel is een progestageen uit de 19-nortestosteronreeks en heeft enige restandrogene activiteit. Dat wordt voor acne over het algemeen als ongunstig beschouwd, niet als gunstig.
 
-De relatie met de oorspronkelijke indicatie is zwak. De botgerelateerde koppelingen in de kennisgraaf verklaren waarschijnlijk een deel van de hoge score, maar niet een direct verband met acne. Het gunstige effect van gecombineerde orale anticonceptiva op acne wordt vooral toegeschreven aan de oestrogeencomponent en aan progestagenen met antiandrogene werking, zoals chloormadinonacetaat. Het verband met levonorgestrel alleen is daarom indirect en mogelijk tegenstrijdig.
+De relatie met de oorspronkelijke indicatie is zwak. De hoge score komt van het TxGNN-model (deep learning) en weerspiegelt mogelijk overeenkomsten die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs voor een direct verband met acne. Het gunstige effect van gecombineerde orale anticonceptiva op acne wordt vooral toegeschreven aan de oestrogeencomponent en aan progestagenen met antiandrogene werking, zoals chloormadinonacetaat. Het verband met levonorgestrel alleen is daarom indirect en mogelijk tegenstrijdig.
 
-De zeer hoge score (0,999) is een computationele voorspelling en geen klinisch bewijs.
+De zeer hoge score (0,9988) is een computationele voorspelling en geen klinisch bewijs.
 
 ---
 
@@ -97,9 +97,9 @@ De overige gevonden publicaties gaan over anticonceptie in het algemeen, lipiden
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119957//16681 | Mirena, IUD 20 microgram/24 uur | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 119957//16681 | Mirena, IUD 20 microgram/24 uur | Niet vermeld | Niet vermeld (registratie geldig) |
 
-De enige bekende registratie bij het CBG-MEB is doorgehaald. Er is momenteel geen geldig product met deze werkzame stof in de data.
+De enige bekende registratie bij het CBG-MEB is doorgehaald.
 
 ---
 

@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "autoimmune-disease-of-peripheral-nervous-system",
-          "display": "autoimmune disease of peripheral nervous system"
-        }
-      ],
-      "text": "autoimmune disease of peripheral nervous system",
       "concept": {
         "text": "autoimmune disease of peripheral nervous system"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 1.0
     }
   ]
 }

@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). Oorspronkelijke indicatie: Streptokokkeninfecties, meningokokkeninfecties, antrax, endocarditis…"
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
+last_modified_at: 2026-10-27
+description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Benzylpenicillin
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Benzylpenicilline: Van infectieziekten naar pericoronitis
+## Benzylpenicilline: bètalactam-antibioticum (penicilline) → pericoronitis (pericoronitis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Benzylpenicilline is een antibioticum dat oorspronkelijk wordt gebruikt bij onder meer streptokokkeninfecties, meningokokkeninfecties, antrax, endocarditis en middenoorontsteking. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **pericoronitis**, maar er zijn **geen klinische studies** en **geen publicaties** die deze voorspelling ondersteunen. De voorspelling berust dus alleen op het model.
+Benzylpenicilline is een antibioticum uit de penicillinegroep dat actief is tegen onder meer streptokokken. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **pericoronitis (pericoronitis)**, maar voor deze richting zijn in de voor dit rapport samengestelde gegevens **geen klinische studies** en **geen publicaties** gevonden.
 
 ---
 
@@ -46,35 +46,33 @@ Benzylpenicilline is een antibioticum dat oorspronkelijk wordt gebruikt bij onde
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Streptokokkeninfecties, meningokokkeninfecties, antrax, endocarditis, middenoorontsteking en andere bacteriële infecties (afgeleid uit de kennisgraaf; er is geen indicatietekst uit de vergunning beschikbaar) |
-| Voorspelde nieuwe indicatie | Pericoronitis |
-| TxGNN-voorspellingsscore | 99,36% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pericoronitis (pericoronitis) |
+| TxGNN-voorspellingsscore | 0,9936 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken vergunningen |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor het werkingsmechanisme zijn voor dit rapport geen gegevens beschikbaar. Wel is bekend dat benzylpenicilline een penicillineklasse-antibioticum is. De werkzaamheid bij infecties door streptokokken en andere gevoelige bacteriën is goed gedocumenteerd.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de algemeen bekende eigenschappen van penicillines remt benzylpenicilline de celwandsynthese van gevoelige bacteriën en is het werkzaam tegen streptokokken en veel orale anaerobe bacteriën.
 
-Pericoronitis is een gemengde bacteriële infectie (streptokokken en anaerobe bacteriën) van het weefsel rond een gedeeltelijk doorgebroken tand, meestal een verstandskies. De antibacteriële activiteit van benzylpenicilline tegen streptokokken en veel orale anaeroben geeft een plausibele koppeling. Penicillines worden bovendien al bij odontogene infecties gebruikt.
+Pericoronitis is een gemengde bacteriële infectie (streptokokken en anaerobe bacteriën) van het zachte weefsel rond een gedeeltelijk doorgebroken tand of kies. Daardoor is er een plausibele mechanistische link met de antibacteriële werking van benzylpenicilline, en penicillines worden al gebruikt bij odontogene infecties.
 
-Er zijn wel kanttekeningen. De score is uitsluitend een modelvoorspelling. Orale penicillines, zoals fenoxymethylpenicilline of amoxicilline, zijn voor deze toepassing praktischer dan het parenterale benzylpenicilline.
-
-De overige zes voorspellingen zijn mechanistisch veel zwakker of niet onderbouwd. Het gaat om gingivarecessie, afteuze stomatitis (aften), ulceratieve stomatitis, stomatitis door gebitsprothese, chemotherapie-geïnduceerde orale mucositis en leukoplakie van de gingiva. Deze aandoeningen zijn vooral mechanisch, immuungemedieerd, schimmelgerelateerd of premaligne, en niet primair bacterieel.
+Er zijn wel belangrijke kanttekeningen. De score is uitsluitend een modelvoorspelling. Daarnaast zijn orale penicillines (zoals fenoxymethylpenicilline of amoxicilline) praktischer dan parenteraal benzylpenicilline voor deze toepassing.
 
 ---
 
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
@@ -84,21 +82,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117950//53418 | Natrium-penicilline G 1.000.000 IE, poeder voor oplossing voor injectie | Poeder voor oplossing voor injectie | Niet beschikbaar |
+| RVG 117950//53418 | Natrium-penicilline G 1.000.000 IE, poeder voor oplossing voor injectie | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-Deze vergunning is ingetrokken. Er is momenteel geen geldige vergunning voor benzylpenicilline bij het CBG-MEB in de gegevens opgenomen.
+Het CBG-MEB (College ter Beoordeling van Geneesmiddelen) is de bevoegde instantie voor de Nederlandse registratie.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit het TxGNN-netwerk, niet uit de bijsluitertekst): nierziekte, pyoureter, *Clostridioides difficile*-colitis, perinatale necrotiserende enterocolitis, infectieuze mononucleose en chronisch Epstein-Barr-virussyndroom.
-- **Geneesmiddelinteracties**: in totaal 22 interacties gevonden. De belangrijkste zijn:
-  - Matig: doxycycline, minocycline, tetracycline, oxytetracycline, demeclocycline, chlooramfenicol, warfarine, dicoumarol, ethinylestradiol, mycofenolzuur, picosulfaat, jodide I-123 en jodide I-131.
-  - Licht: claritromycine en erytromycine.
-  - Onbekend niveau: salbutamol, aciclovir, gentamicine en levothyroxine.
+- **Geneesmiddelinteracties**: in de samengestelde gegevens zijn 22 interacties geregistreerd. De belangrijkste:
+  - Matig: doxycycline, minocycline, tetracycline, oxytetracycline, demeclocycline, chlooramfenicol, warfarine, dicoumarol, ethinylestradiol, mycofenolzuur, picosulfaat, jodide I-123 en I-131.
+  - Licht: claritromycine, erytromycine.
+  - Ernst onbekend: salbutamol, aciclovir, gentamicine, levothyroxine.
 
-Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor volledige veiligheidsinformatie.
+Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
@@ -107,15 +104,13 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor pericoronitis is mechanistisch plausibel, maar berust uitsluitend op een model (L5) zonder klinische studies of literatuur.
-- Er is geen geldige vergunning in Nederland, en oraal toegediende penicillines zijn praktischer voor deze indicatie.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5); er zijn geen klinische studies of publicaties die pericoronitis direct onderzoeken. Orale penicillines zijn bovendien praktischer voor deze toepassing.
 
-**Om verder te gaan is het volgende nodig:**
-- De waarschuwingen en contra-indicaties uit de officiële productinformatie van het CBG-MEB, omdat de veiligheidsscreening anders niet kan doorgaan
+**Om verder te gaan is nodig:**
+- Klinische of literatuurgegevens die benzylpenicilline specifiek bij pericoronitis onderzoeken
 - Gegevens over het werkingsmechanisme
-- Literatuuronderzoek en trialregistratie voor pericoronitis, inclusief vergelijking met bestaande orale penicillines
-- Beoordeling van de toedieningsroute (parenteraal versus oraal)
-- Een besluit over de status van de vergunning, aangezien de enige bekende vergunning is ingetrokken
+- Waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB)
+- Vergelijking met bestaande orale penicillines en een beoordeling van de toedieningsroute
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -4,17 +4,17 @@ title: Trazodone
 parent: Matig bewijs (L3-L4)
 nav_order: 330
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (bewijsniveau L3). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 monitor_inn: "trazodone"
-predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
+description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Trazodone
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Trazodon: Van depressie naar obsessief-compulsieve stoornis
+## Trazodone: Obsessief-compulsieve stoornis (obsessive-compulsive disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,12 +44,12 @@ Trazodon is een antidepressivum dat oorspronkelijk wordt gebruikt bij depressiev
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Unipolaire depressie, endogene depressie, ernstige depressieve stoornis, angststoornis (volgens de kennisgraaf; in de Nederlandse registratie is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Obsessief-compulsieve stoornis |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Obsessief-compulsieve stoornis (obsessive-compulsive disorder) |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -81,9 +81,9 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (registratie doorgehaald) |
+| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (registratie geldig) |
 
-Er is geen geldige registratie bij het CBG-MEB gevonden. De enige bekende vergunning is doorgehaald.
+De enige bekende vergunning is doorgehaald.
 
 ## Veiligheidsoverwegingen
 
@@ -98,28 +98,25 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 **Onderbouwing:**
 - Het bewijs bestaat uit één kleine RCT uit 1992 en voornamelijk open-label of casuïstische rapporten met wisselende resultaten. Er zijn geen geregistreerde klinische studies, en trazodon wordt hooguit als aanvulling op de standaardbehandeling gezien.
-- Er is geen geldige Nederlandse registratie en de veiligheidsgegevens op basis van de bijsluiter ontbreken, wat nader veiligheidsonderzoek blokkeert.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen, contra-indicaties).
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank).
 - Beoordeling van de numerieke uitkomsten van de RCT uit 1992 (PMID 1629380) en een systematische review van trazodon als aanvulling bij OCD.
 - Overweging van een gecontroleerde klinische studie, bij voorkeur als add-on bij een SSRI of clomipramine.
-- Nadere beoordeling van de regulatoire status, aangezien er geen geldige registratie is.
 
 ## Overige voorspelde indicaties (ter informatie)
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
 |------|------|------|------|
-| Agorafobie | 99,81% | L3 | Onderzoeksvraag (kleine studies uit de jaren 80; trazodon mogelijk minder effectief dan imipramine en alprazolam) |
-| Fobische stoornis | 99,45% | L3 | Onderzoeksvraag (zelfde bewijs als agorafobie, indirect) |
-| Dysthymie | 99,48% | L4 | Onderzoeksvraag (grotendeels indirect bewijs; één voorlopige studie uit 1992) |
-| Histrionische persoonlijkheidsstoornis | 99,92% | L4 | Hold (alleen een historisch artikel uit 1975) |
-| Paranoïde persoonlijkheidsstoornis | 99,92% | L5 | Hold (alleen een casusbeschrijving over een interactie) |
-| Schizoïde persoonlijkheidsstoornis | 99,92% | L5 | Hold (alleen voorspelling) |
-| Schizotypische persoonlijkheidsstoornis | 99,92% | L5 | Hold (alleen voorspelling) |
-| Benigne paroxismale torticollis van de kindertijd | 99,83% | L5 | Hold (alleen voorspelling; veiligheid bij zuigelingen niet vastgesteld) |
-| Ohdo-syndroom en varianten | 99,28% | L5 | Hold (alleen voorspelling) |
+| Agorafobie | 0,9981 | L3 | Onderzoeksvraag (kleine studies uit de jaren 80; trazodon mogelijk minder effectief dan imipramine en alprazolam) |
+| Fobische stoornis | 0,9945 | L5 | Onderzoeksvraag (zelfde bewijs als agorafobie, indirect) |
+| Histrionische persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen een historisch artikel uit 1975) |
+| Paranoïde persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen een casusbeschrijving over een interactie) |
+| Schizoïde persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen voorspelling) |
+| Schizotypische persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen voorspelling) |
+| Benigne paroxismale torticollis van de kindertijd | 0,9983 | L5 | Hold (alleen voorspelling; veiligheid bij zuigelingen niet vastgesteld) |
+| Ohdo-syndroom en varianten | 0,9928 | L5 | Hold (alleen voorspelling) |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

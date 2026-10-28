@@ -5,10 +5,10 @@ parent: Matig bewijs (L3-L4)
 nav_order: 79
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Chloramphenicol: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Tyfus, salmonellose, paratyfus, meningokokkeninfectie…"
 monitor_inn: "chloramphenicol"
 predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-27
+description: "Chloramphenicol: voorspelde nieuwe indicatie conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Chloramphenicol
@@ -33,119 +33,81 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 </div>
 
-## Chlooramfenicol: Van tyfus en andere bacteriële infecties naar conjunctivitis
+## Chloramphenicol: antibioticum dat de bacteriële eiwitsynthese remt → conjunctivitis (conjunctivitis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Chlooramfenicol is een breedspectrumantibioticum dat oorspronkelijk wordt gebruikt bij onder meer tyfus, salmonellose, meningitis en rickettsia-infecties. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **conjunctivitis**. Er zijn **geen geregistreerde klinische studies**, maar wel **19 publicaties**, vooral reviews en vergelijkende studies, die deze richting ondersteunen. Het gaat in feite om een reeds bekend gebruik (oogzalf of oogdruppels) en niet om een echt nieuwe toepassing.
-
----
+Chloramphenicol is een breedspectrum bacteriostatisch antibioticum. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **conjunctivitis (conjunctivitis)**. Hiervoor zijn in de samengestelde gegevens **geen geregistreerde klinische studies**, maar wel **19 publicaties** beschikbaar, voornamelijk overzichtsartikelen en enkele vergelijkende studies.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Tyfus, salmonellose, paratyfus, meningokokkeninfectie, streptokokkenmeningitis, otitis externa, rickettsiose, Q-koorts e.a. (de vergunningstekst voor het Nederlandse product bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Conjunctivitis |
-| TxGNN-voorspellingsscore | 99,66% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | conjunctivitis (conjunctivitis) |
+| TxGNN-voorspellingsscore | 0,9966 |
 | Bewijsniveau | L3 |
-| Status op de Nederlandse markt | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
-
----
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Chlooramfenicol is een bacteriostatisch breedspectrumantibioticum dat de 50S-ribosoomsubeenheid van bacteriën remt en zo de eiwitsynthese blokkeert. Gedetailleerde mechanismegegevens uit de bronnen zijn voor dit rapport niet beschikbaar; bovenstaande beschrijving komt uit de algemene farmacologische kennis in de onderbouwing van de voorspelling.
+Gedetailleerde gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Chloramphenicol is bekend als breedspectrum bacteriostatisch antibioticum dat de bacteriële 50S-ribosomale subunit remt en daarmee de eiwitsynthese van bacteriën blokkeert.
 
-Chlooramfenicol werkt al tegen veel bacteriële infecties, waaronder oor-, huid- en systemische infecties. Bacteriële conjunctivitis wordt door dezelfde soorten bacteriën veroorzaakt, dus de antibacteriële werking is direct van toepassing. In meerdere landen, waaronder het Verenigd Koninkrijk, wordt oculair chlooramfenicol al breed gebruikt bij conjunctivitis, terwijl het in de VS zelden voor deze indicatie wordt voorgeschreven.
-
-Een belangrijke kanttekening is de discussie over een mogelijk verband tussen lokaal toegepast chlooramfenicol en aplastische anemie. Dit blijft een waarborgpunt.
-
----
+Bacteriële conjunctivitis is een oppervlakkige ooginfectie door gevoelige bacteriën. De link met het mechanisme is dus rechtstreeks: het gaat om directe antibacteriële werking, niet om een nieuw werkingsmechanisme. Lokaal oogtoegediend chloramphenicol wordt in meerdere landen al gebruikt voor deze aandoening, onder meer in het Verenigd Koninkrijk. Dit is daarom eerder een reeds bekend gebruik dan echte herpositionering.
 
 ## Bewijs uit klinische studies
 
-Voor conjunctivitis zijn momenteel geen gerelateerde klinische studies geregistreerd.
-
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze voorspelde indicatie.
 
 ## Bewijs uit de literatuur
 
-Hieronder staan de meest relevante publicaties (met voorrang voor vergelijkende studies en reviews).
-
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Vergelijkende studie | Current Therapeutic Research | Moxifloxacine versus chlooramfenicol bij bacteriële oogontstekingen; chlooramfenicol wordt vooral topisch gebruikt vanwege de bekende toxiciteit |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Gerandomiseerd, enkelblind | Acta Ophthalmologica | Fusidinezuur 1% versus chlooramfenicol 0,5% bij acute purulente conjunctivitis: klinisch succes 84% versus 81%; meer lichte bijwerkingen met chlooramfenicol (14% versus 5%) |
-| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Open, gerandomiseerd | Acta Ophthalmologica | In Tanzania was fusidinezuur beter dan chlooramfenicol (93% versus 48% succes), mede door een hogere resistentie tegen chlooramfenicol |
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Review (Cochrane) | Cochrane Database of Systematic Reviews | Interventies ter preventie van ophthalmia neonatorum |
-| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Vergelijkend overzicht van 16 oogantibiotica |
-| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clinical Pharmacokinetics | Behandeling van oogontstekingen met topische antibiotica |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Review | Drug Safety | Is er een verband tussen oculair chlooramfenicol en aplastische anemie? Controversieel onderwerp |
-| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review | Eye (London) | Topisch chlooramfenicol: gebruik of misbruik? |
-| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Review | Clinical & Experimental Ophthalmology | Vrij verkrijgbaar chlooramfenicol voor het oog |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Klinische observatie | Journal of Hygiene | Bij neonatale chlamydia-conjunctivitis vertraagde chlooramfenicol de symptomen, maar bleven de oogswabs bij 85% positief |
-
----
+| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Vergelijkende studie | Current Therapeutic Research | Vergelijking van moxifloxacine en chloramphenicol bij bacteriële ooginfecties |
+| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Review (Cochrane) | Cochrane Database of Systematic Reviews | Interventies ter preventie van ophthalmia neonatorum (neonatale conjunctivitis) |
+| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Vergelijkend overzicht van 16 oogheelkundige antibacteriële preparaten |
+| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Review | Drug Safety | Discussie over een mogelijk verband tussen oculair chloramphenicol en aplastische anemie |
+| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review | Eye (London) | Gebruik of misbruik van lokaal chloramphenicol |
+| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Review | Clinical & Experimental Ophthalmology | Vrij verkrijgbaar chloramphenicol voor de ogen |
+| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Gerandomiseerde open vergelijking | Acta Ophthalmologica | Fusidinezuur was superieur aan chloramphenicol (93% vs 48% klinisch succes) en framycetine bij acute conjunctivitis in Tanzania |
+| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Gerandomiseerde single-blind vergelijking | Acta Ophthalmologica | Klinisch succes 84% met fusidinezuur versus 81% met chloramphenicol; meer milde bijwerkingen met chloramphenicol |
+| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Klinisch/laboratoriumonderzoek | The Journal of Hygiene | Chloramphenicol vertraagde en verminderde symptomen bij chlamydia-conjunctivitis bij zuigelingen, maar de oogswabs bleven in 85% positief |
+| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clinical Pharmacokinetics | Behandeling van ooginfecties met lokale antibacteriële middelen |
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | Oogzalf | Niet beschikbaar (vergunning doorgehaald) |
-
-Er is één vergunning, en die is doorgehaald. Er is dus momenteel geen geldig CBG-MEB-geregistreerd enkelvoudig product in Nederland.
-
----
-
-## Cytotoxiciteit
-
-Chlooramfenicol is geen antineoplastisch middel, dus deze sectie is niet van toepassing.
-
----
+De gegevens over de Nederlandse vergunningen worden door het programma toegevoegd.
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties (uit de kennisgraaf, niet uit de bijsluitertekst)**: nier- en leverziekte, galblaasziekte, trombocytopenie, perifere neuropathie, anemie (waaronder macrocytaire en aplastische anemie), agranulocytose, neutropenie (inclusief aangeboren vormen), acute intermitterende porfyrie, optische neuritis en paroxismale nachtelijke hemoglobinurie.
-- **Hematologisch risico**: de literatuur beschrijft een zeldzame, idiosyncratische aplastische anemie. Voor topisch gebruik is het verband omstreden.
-- **Geneesmiddelinteracties**: in totaal zijn 741 interacties gevonden. Voorbeelden van ernstige (Major) interacties zijn cisapride en naloxegol. Matige interacties zijn onder meer aprepitant, metronidazol, budesonide, ijzer, sulfonylureumderivaten (glimepiride, glipizide, glibenclamide, chloorpropamide), repaglinide, rosuvastatine en simvastatine.
+Voor chloramphenicol zijn de volgende aandoeningen in de samengestelde gegevens als mogelijke contra-indicaties of risicosituaties gemarkeerd (niet afkomstig uit de bijsluitertekst):
 
-Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
+- **Bloed en beenmerg**: trombocytopenie, anemie, aplastische anemie, agranulocytose, neutropenie (inclusief aangeboren vormen), paroxismale nachtelijke hemoglobinurie
+- **Lever, nieren en galblaas**: leverziekte, nierziekte, galblaasziekte
+- **Zenuwstelsel**: perifere neuropathie, perifere zenuwstelselziekte, optische neuritis
+- **Overig**: acute intermitterende porfyrie
 
----
+In de literatuur wordt een mogelijk (omstreden) verband besproken tussen lokaal oculair gebruik en zeldzame, idiosyncratische aplastische anemie.
+
+**Geneesmiddelinteracties**: in totaal zijn 741 interacties gevonden. Voorbeelden van ernstige (Major) interacties zijn cisapride en naloxegol. Matige interacties betreffen onder meer metronidazol, budesonide, glimepiride, glipizide, glibenclamide, repaglinide, rosuvastatine en simvastatine.
+
+Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails (doorgaan met waarborgen)**
+**Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
 
 **Onderbouwing:**
-- De antibacteriële werking tegen bacteriële conjunctivitis wordt ondersteund door vergelijkende studies en reviews (L3), maar er zijn geen geregistreerde klinische studies. Het gaat feitelijk om een bekend gebruik. De hematologische veiligheidszorgen en de intrekking van de enige Nederlandse vergunning vragen om waarborgen.
+- Het werkingsmechanisme past rechtstreeks bij bacteriële oogontstekingen en er is literatuur, waaronder gerandomiseerde vergelijkingen met andere oogantibiotica. Het bewijs bestaat echter vooral uit overzichtsartikelen en oudere studies, zonder geregistreerde klinische studies, en de hematologische veiligheidskwesties vragen om waarborgen.
 
-**Om verder te gaan is nodig:**
-- De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB (blokkerend gegevenstekort voor de veiligheidsscreening).
-- Gedetailleerde mechanismegegevens uit DrugBank.
-- Een beoordeling van de huidige Nederlandse behandelrichtlijnen en alternatieven voor bacteriële conjunctivitis, en een afweging van de reden van intrekking van de vergunning.
-- Een plan voor veiligheidsmonitoring, met name voor patiënten met bloedaandoeningen of lever- en nierziekte.
-
----
-
-## Overige voorspelde indicaties (kort)
-
-De overige voorspellingen hebben een zwakker bewijsniveau en krijgen het advies **Hold**:
-
-| Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
-|------|------|------|------|
-| Diffuse sclerodermie | 99,65% | L4 | Alleen in-vitrostudies naar collageenregulatie; geen aanwijzing dat chlooramfenicol zelf werkzaam is (mogelijk een artefact van reportergenonderzoek) |
-| Postinfectieuze vasculitis | 99,58% | L5 | Alleen voorspelling; immuungemedieerde aandoening en hematologische toxiciteit pleiten tegen gebruik |
-| Post-bacteriële aandoening | 99,57% | L5 | Eén observationele studie naar antibioticagevoeligheid, geen werkzaamheidsstudie |
-| Postinfectieus syndroom | 99,56% | L5 | Vage categorie, geen studies of literatuur |
-| Infectieuze urethrastrictuur | 99,52% | L5 | Eén niet-relevante casus uit 1964; strictuur vraagt om procedurele behandeling |
-| Chagas-cardiomyopathie | 99,51% | L5 | Standaardbehandeling is benznidazol of nifurtimox; ongunstig toxiciteitsprofiel |
-| Infectiegerelateerd hemolytisch-uremisch syndroom | 99,50% | L5 | Antibiotica worden bij STEC-HUS in het algemeen vermeden; beenmergsuppressie is een extra risico |
-| Punctata epitheliale keratoconjunctivitis | 99,17% | L4 | Literatuur betreft microsporidiale casusreeksen; microsporidia zijn niet gevoelig voor chlooramfenicol |
+**Om verder te gaan is het volgende nodig:**
+- Controle van de actuele SmPC-waarschuwingen en contra-indicaties via het CBG-MEB
+- Gegevens over het werkingsmechanisme uit DrugBank
+- Actuele gegevens over resistentie van oogpathogenen en vergelijking met huidige alternatieven
+- Een bewakingsplan voor hematologische bijwerkingen en aandacht voor risicogroepen (bijvoorbeeld pasgeborenen)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

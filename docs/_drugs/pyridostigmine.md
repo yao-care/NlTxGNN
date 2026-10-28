@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pyridostigmine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 284
-evidence_level: L3
-indication_count: 7
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Pyridostigmine: voorspelde nieuwe indicatie Myasthenia gravis met thymushyperplasie (bewijsniveau L3). Oorspronkelijke indicatie: Myasthenia gravis (inclusief myasthenia gravis met aanvang op volwass"
 monitor_inn: "pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
+description: "Pyridostigmine: voorspelde nieuwe indicatie Autoimmune disease of peripheral nervous system (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pyridostigmine
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **7**
 
 </div>
 
-## Pyridostigmine: Van myasthenia gravis naar myasthenia gravis met thymushyperplasie
+## Pyridostigmine: Autoimmune disease of peripheral nervous system
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Er zijn **geen geregistreerde klinische studies** en **3 publicaties** (casuïst
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Myasthenia gravis (inclusief myasthenia gravis met aanvang op volwassen leeftijd en aandoeningen van de neuromusculaire overgang) |
-| Voorspelde nieuwe indicatie | Myasthenia gravis met thymushyperplasie |
-| TxGNN-voorspellingsscore | 99,76% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Autoimmune disease of peripheral nervous system |
+| TxGNN-voorspellingsscore | 0.9975 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 *Opmerking: de data bevat geen geregistreerde goedkeuringstekst; de oorspronkelijke indicaties zijn afkomstig uit de kennisgraaf van TxGNN (PrimeKG) en niet uit de productinformatie van het CBG-MEB.*
@@ -90,7 +90,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116602//03821 | Mestinon 60 mg, dragee | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 116602//03821 | Mestinon 60 mg, dragee | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 
@@ -126,14 +126,12 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
 |------|------|------|------|------|
-| 2 | Neonatale myasthenia gravis | 99,76% | L3 | Proceed with Guardrails |
-| 3 | Auto-immuunziekte van het perifere zenuwstelsel | 99,75% | L5 | Hold |
-| 4 | Myasthenie, limb-girdle, auto-immuun | 99,74% | L4 | Research Question |
-| 5 | Ziekte van receptoractiviteit | 99,73% | L4 | Hold |
-| 6 | Hypersplenisme | 99,30% | L5 | Hold |
-| 7 | Atypisch hemolytisch-uremisch syndroom met factor B-afwijking | 99,22% | L5 | Hold |
+| 3 | Auto-immuunziekte van het perifere zenuwstelsel | 0,9975 | L5 | Hold |
+| 5 | Ziekte van receptoractiviteit | 0,9973 | L4 | Hold |
+| 6 | Hypersplenisme | 0,9930 | L5 | Hold |
+| 7 | Atypisch hemolytisch-uremisch syndroom met factor B-afwijking | 0,9922 | L5 | Hold |
 
-Kanttekeningen: de neonatale vorm (rang 2) heeft de meeste literatuur (20 publicaties, waaronder een nationaal cohort), maar dit zijn vooral reviews en observationele gegevens zonder geregistreerde studies. Dosering, veiligheid en monitoring bij pasgeborenen vereisen specialistisch toezicht. De rangen 3, 5, 6 en 7 berusten vooral op ontologische verwantschap of kennisgraafartefacten en hebben geen duidelijke mechanistische onderbouwing.
+Kanttekeningen: de neonatale vorm (rang 2) heeft de meeste literatuur (20 publicaties, waaronder een nationaal cohort), maar dit zijn vooral reviews en observationele gegevens zonder geregistreerde studies. Dosering, veiligheid en monitoring bij pasgeborenen vereisen specialistisch toezicht.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

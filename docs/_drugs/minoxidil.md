@@ -6,9 +6,9 @@ nav_order: 235
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en haaruitval (alopecia)"
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
+description: "Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Minoxidil
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Minoxidil: Van hypertensie en haaruitval naar hypotrichosis simplex van de hoofdhuid
+## Minoxidil: Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -48,12 +48,12 @@ Hiervoor zijn **geen geregistreerde klinische trials** en **3 publicaties** (uit
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie en haaruitval (alopecia); de goedkeuringstekst van de Nederlandse registratie is niet beschikbaar |
-| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -90,7 +90,7 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 |---------|------|------|-----------|
 | RVG 119952//08426 (doorgehaald) | Lonnoten 10 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
 
-Er is geen geldige registratie bij het CBG-MEB. De enige bekende vergunning is doorgehaald.
+De enige bekende vergunning is doorgehaald.
 
 ---
 
@@ -115,7 +115,6 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
 - Gecontroleerd onderzoek of een grotere serie waarin minoxidil als enige middel wordt beoordeeld.
 - Een beoordeling van de veiligheid van orale minoxidil in lage dosering, vooral bij kinderen en bij personen met hart- en vaatziekten.
-- Duidelijkheid over de beschikbare toedieningsroutes (topisch versus oraal) in Nederland, nu er geen geldige registratie is.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

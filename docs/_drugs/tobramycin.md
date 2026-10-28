@@ -6,9 +6,9 @@ nav_order: 323
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële oogontstekingen (zoals conjunctivitis en uveïtis)…"
 monitor_inn: "tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
+description: "Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tobramycin
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tobramycine: Van bacteriële oogontstekingen naar blootstellingskeratitis
+## Tobramycin: Blootstellingskeratitis (exposure keratitis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tobramycine is een aminoglycoside-antibioticum dat oorspronkelijk wordt gebruikt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële oogontstekingen (zoals conjunctivitis en uveïtis), infecties met *Staphylococcus aureus* en bacteriële meningitis (volgens de kennisgraaf; er is geen goedkeuringstekst van het CBG-MEB beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Blootstellingskeratitis (exposure keratitis) |
-| TxGNN-voorspellingsscore | 99,93% |
+| TxGNN-voorspellingsscore | 0.9993 |
 | Evidenceniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 5 (alle ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -93,13 +93,13 @@ Geen van deze publicaties toont werkzaamheid van tobramycine bij blootstellingsk
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | Injectievloeistof | Niet beschikbaar (ingetrokken) |
-| RVG 109689//10225 | Tobrex oogzalf 3 mg/g | Oogzalf | Niet beschikbaar (ingetrokken) |
-| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (ingetrokken) |
-| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (ingetrokken) |
-| RVG 110613 | Tomidexofta 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | Oogdruppels, oplossing | Niet beschikbaar (ingetrokken) |
+| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | Injectievloeistof | Niet beschikbaar (geldig) |
+| RVG 109689//10225 | Tobrex oogzalf 3 mg/g | Oogzalf | Niet beschikbaar (geldig) |
+| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (geldig) |
+| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (geldig) |
+| RVG 110613 | Tomidexofta 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | Oogdruppels, oplossing | Niet beschikbaar (geldig) |
 
-Alle vijf vergunningen zijn ingetrokken; er is momenteel geen geldige registratie bij het CBG-MEB.
+Alle vijf vergunningen zijn geldig; het middel wordt momenteel in Nederland verhandeld.
 
 ---
 
@@ -118,7 +118,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling heeft de hoogste TxGNN-score, maar er zijn geen klinische studies en de literatuur is indirect (casussen en in-vitrodata). Blootstellingskeratitis is bovendien niet-infectieus en aminoglycosiden kunnen het hoornvliesepitheel schaden. Alle Nederlandse vergunningen zijn bovendien ingetrokken.
+- De voorspelling heeft de hoogste TxGNN-score, maar er zijn geen klinische studies en de literatuur is indirect (casussen en in-vitrodata). Blootstellingskeratitis is bovendien niet-infectieus en aminoglycosiden kunnen het hoornvliesepitheel schaden.
 
 **Om verder te gaan is nodig:**
 - Productinformatie van het CBG-MEB (waarschuwingen, contra-indicaties, goedgekeurde indicaties) ophalen en analyseren
@@ -130,7 +130,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Overige voorspelde indicaties (ter oriëntatie)
 
-Het model voorspelt ook andere aandoeningen. Daarvan is **otitis externa** (score 99,81%, evidenceniveau L4) het meest onderbouwd. De literatuur omvat microbiologische en gevoeligheidsstudies en historische casusbeschrijvingen van tobramycine bij maligne otitis externa, maar er zijn geen klinische studies. Topisch gebruik is biologisch plausibel, al moet rekening worden gehouden met ototoxiciteit bij een trommelvliesperforatie. Dit is het meest geschikt als onderzoeksvraag. De overige voorspellingen (onder meer niet-specifieke categorieën zoals "non-human animal disease", post-infectieuze aandoeningen, de cardiomyopathie van Chagas, infectiegerelateerd hemolytisch-uremisch syndroom en epidemische keratoconjunctivitis) hebben geen of alleen indirect bewijs en krijgen **Hold**.
+Het model voorspelt ook andere aandoeningen. Daarvan is **otitis externa** (score 0,9981, evidenceniveau L4) het meest onderbouwd. De literatuur omvat microbiologische en gevoeligheidsstudies en historische casusbeschrijvingen van tobramycine bij maligne otitis externa, maar er zijn geen klinische studies. Topisch gebruik is biologisch plausibel, al moet rekening worden gehouden met ototoxiciteit bij een trommelvliesperforatie. Dit is het meest geschikt als onderzoeksvraag. De overige voorspellingen (onder meer niet-specifieke categorieën zoals "non-human animal disease", post-infectieuze aandoeningen, de cardiomyopathie van Chagas, infectiegerelateerd hemolytisch-uremisch syndroom en epidemische keratoconjunctivitis) hebben geen of alleen indirect bewijs en krijgen **Hold**.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

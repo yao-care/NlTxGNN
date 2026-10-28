@@ -6,9 +6,9 @@ nav_order: 339
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (bewijsniveau L5). Oorspronkelijke indicatie: Clostridium difficile-colitis"
 monitor_inn: "vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
+description: "Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Vancomycin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Vancomycine: Van Clostridium difficile-colitis naar diffuse sclerodermie
+## Vancomycin: Diffuse sclerodermie (diffuse scleroderma)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Vancomycine is een glycopeptide-antibioticum dat oorspronkelijk wordt gebruikt v
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | *Clostridium difficile*-colitis (de goedgekeurde indicatietekst van de Nederlandse registratie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Diffuse sclerodermie |
-| TxGNN-voorspellingsscore | 99,92% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Diffuse sclerodermie (diffuse scleroderma) |
+| TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Vancomycine is een glycopeptide-antibioticum dat oorspronkelijk wordt gebruikt v
 
 Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Vancomycine is een glycopeptide-antibioticum dat bekend staat om zijn werking tegen grampositieve bacteriën, via remming van de celwandsynthese.
 
-Diffuse sclerodermie is een auto-immuun, fibrotische aandoening. Er is geen aannemelijk antibacterieel mechanisme dat vancomycine met deze ziekte verbindt. De enige gevonden publicatie betreft een casus van erytrodermie met sepsis en eosinofilie en gaat niet over de behandeling van sclerodermie. De zeer hoge TxGNN-score is waarschijnlijk een artefact van de kennisgraaf en niet biologisch onderbouwd.
+Diffuse sclerodermie is een auto-immuun, fibrotische aandoening. Er is geen aannemelijk antibacterieel mechanisme dat vancomycine met deze ziekte verbindt. De enige gevonden publicatie betreft een casus van erytrodermie met sepsis en eosinofilie en gaat niet over de behandeling van sclerodermie. De zeer hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, geen biologisch bewijs.
 
-**Andere voorspellingen:** Van de tien voorspelde indicaties is alleen **streptokokkenpneumonie** (score 99,60%, bewijsniveau L4) biologisch plausibel. *Streptococcus pneumoniae* is grampositief en gevoelig voor vancomycine, dat wordt gebruikt bij penicilline-resistente pneumokokkeninfecties. Dit ligt dicht bij de bestaande indicatie stafylokokkenpneumonie en is eerder een uitbreiding van het bekende spectrum dan echte herpositionering. Het bewijs is indirect (reviews en resistentiesurveillance, geen RCT). Voor de overige voorspellingen (paratyfus, salmonellose, tyfus: gramnegatieve bacteriën, intrinsiek resistent; verder congenitale analbuminemie, polyklonaal hyperviscositeitssyndroom, hyperamylasemie, bloedgroepincompatibiliteit en premaligne hematologische aandoeningen) ontbreekt een plausibel mechanisme en is er geen relevant klinisch bewijs.
+**Andere voorspellingen:** Van de tien voorspelde indicaties is alleen **streptokokkenpneumonie** (score 0,9960, bewijsniveau L4) biologisch plausibel. *Streptococcus pneumoniae* is grampositief en gevoelig voor vancomycine, dat wordt gebruikt bij penicilline-resistente pneumokokkeninfecties. Dit ligt dicht bij de bestaande indicatie stafylokokkenpneumonie en is eerder een uitbreiding van het bekende spectrum dan echte herpositionering. Het bewijs is indirect (reviews en resistentiesurveillance, geen RCT). Voor de overige voorspellingen (paratyfus, salmonellose, tyfus: gramnegatieve bacteriën, intrinsiek resistent; verder congenitale analbuminemie, polyklonaal hyperviscositeitssyndroom, hyperamylasemie, bloedgroepincompatibiliteit en premaligne hematologische aandoeningen) ontbreekt een plausibel mechanisme en is er geen relevant klinisch bewijs.
 
 ---
 
@@ -84,9 +84,9 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116655 | Vancocaps 250 mg harde capsules (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 116655 | Vancocaps 250 mg harde capsules (geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is geen geldige registratie bij het CBG-MEB. De enige registratie is doorgehaald.
+De enige registratie is doorgehaald.
 
 ---
 
@@ -105,7 +105,6 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 **Onderbouwing:**
 - Voor diffuse sclerodermie ontbreken klinische studies, een plausibel mechanisme en relevante literatuur (bewijsniveau L5); de hoge score is waarschijnlijk een modelartefact.
-- Daarnaast heeft vancomycine in Nederland geen geldige registratie meer (alleen een doorgehaalde registratie).
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie van het CBG-MEB (SmPC) met waarschuwingen en contra-indicaties, nodig voor de veiligheidsbeoordeling.

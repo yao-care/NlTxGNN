@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties"
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
+last_modified_at: 2026-10-27
+description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Clarithromycin
@@ -33,112 +33,74 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Claritromycine: Van bacteriële luchtweginfecties naar polyklonaal hyperviscositeitssyndroom
+## Claritromycine: macrolide-antibioticum → polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Claritromycine is een macrolide-antibioticum dat oorspronkelijk wordt gebruikt bij bacteriële infecties, zoals middenoorontsteking, longontsteking en sinusitis.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **polyklonaal hyperviscositeitssyndroom**,
-maar voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het is uitsluitend een modelvoorspelling.
-
----
+Claritromycine is een macrolide-antibioticum dat bij meerdere bacteriële infecties wordt gebruikt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome)**, maar er zijn **geen klinische studies** en **geen publicaties** die deze voorspelling ondersteunen. Het bewijsniveau is daarmee uitsluitend modelmatig (L5).
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële infecties (o.a. middenoorontsteking, longontsteking, sinusitis maxillaris; afgeleid uit de kennisgraaf, want de geregistreerde indicatietekst ontbreekt) |
-| Voorspelde nieuwe indicatie | Polyklonaal hyperviscositeitssyndroom |
-| TxGNN-voorspellingsscore | 99,35% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) |
+| TxGNN-voorspellingsscore | 0,9935 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (ingetrokken) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold (aanhouden) |
-
----
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van claritromycine zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Op basis van bekende informatie is claritromycine een macrolide-antibioticum, is de werkzaamheid bij bacteriële infecties van de luchtwegen bekend, en heeft het mogelijk immunomodulerende en ontstekingsremmende eigenschappen.
+Gegevens over het werkingsmechanisme van claritromycine zijn in de voor dit rapport verzamelde data niet beschikbaar. Claritromycine staat bekend als macrolide met naast de antibacteriële werking ook immunomodulerende en ontstekingsremmende eigenschappen, zoals effecten op de cytokineproductie en de activiteit van B-cellen en plasmacellen. Theoretisch zou dit een rol kunnen spelen bij toestanden met verhoogde immunoglobulinespiegels, zoals polyklonale hyperviscositeit.
 
-Theoretisch zouden effecten op de cytokineproductie en op de activiteit van B-cellen en plasmacellen kunnen samenhangen met toestanden met verhoogde globulinen. Er is in de verzamelde data echter geen mechanistische of klinische onderbouwing voor deze link. De hoge score weerspiegelt waarschijnlijk vooral netwerkgelijkenis in het model en geen aangetoond effect. De overeenkomst met de oorspronkelijke indicaties is nog niet beoordeeld.
+Deze redenering is echter hypothetisch. Er is geen mechanistische of klinische onderbouwing in de beschikbare gegevens. De hoge score (0,9935) is een modelvoorspelling en geen bewijs van werkzaamheid.
 
----
+## Bewijs uit klinische studies
 
-## Overzicht van andere voorspelde indicaties
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-| Rang | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
-|---|---|---|---|---|
-| 1 | Polyklonaal hyperviscositeitssyndroom | 99,35% | L5 | Geen studies |
-| 2 | Hyperamylasemie | 99,35% | L5 | Eén casuïstiek (2004), geen steun voor werkzaamheid |
-| 3 | Congenitale analbuminemie | 99,21% | L5 | Geen plausibel mechanisme |
-| 4 | Punctata epitheliale keratoconjunctivitis | 99,11% | L4 | Indirect bewijs, biologisch het meest plausibel |
-| 5 | Bloedgroepincompatibiliteit | 99,07% | L5 | Geen mechanisme of studies |
+## Bewijs uit de literatuur
 
-Van deze vijf voorspellingen is punctata epitheliale keratoconjunctivitis het best onderbouwd: macroliden worden gebruikt bij meibomklierdisfunctie en blefaritis vanwege hun ontstekingsremmende en antibacteriële werking. Het bijbehorende artikel (PMID 38472959, 2024) moet in zijn geheel worden beoordeeld voordat conclusies mogelijk zijn.
-
----
-
-## Klinisch trialbewijs
-
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor polyklonaal hyperviscositeitssyndroom.
-
----
-
-## Literatuurbewijs
-
-Momenteel is er geen gerelateerde literatuur beschikbaar voor polyklonaal hyperviscositeitssyndroom.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Beide vergunningen zijn doorgehaald (CBG-MEB). Er zijn geen actieve registraties. Doseringsvorm en geregistreerde indicatietekst zijn niet beschikbaar in de verzamelde data.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | Doorgehaald |
-| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Doorgehaald |
-
----
+Volgens de lokale registratiegegevens (CBG-MEB) is de marktstatus: in de handel.
 
 ## Veiligheidsoverwegingen
 
-Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zijn in de verzamelde data geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
+Voor claritromycine zijn in de verzamelde gegevens geen productteksten (waarschuwingen of contra-indicaties) beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor de veiligheidsinformatie.
 
-**Contra-indicaties volgens de kennisgraaf (geen productteksten):** de kennisgraaf koppelt claritromycine aan onder meer de volgende aandoeningen. Dit zijn modelgegevens en geen officiële labeltekst:
-- **Hartritme:** lange-QT-syndroom, torsades de pointes, ventriculaire tachycardie (waaronder catecholaminerge polymorfe en infantiele vormen)
-- **Lever en galwegen:** leverfalen, leverziekte, galblaasziekte, cholestase (waaronder benigne recidiverende en familiaire intrahepatische cholestase)
-- **Stofwisseling:** porfyrie (waaronder erfelijke vormen) en porfyrinestofwisselingsziekte
-- **Nieren:** nierziekte, pyoureter
-- **Spier en zenuw:** myasthenia gravis (ook bij volwassenen) en aandoeningen van de neuromusculaire overgang
-- **Darm:** *Clostridium difficile*-colitis, perinatale necrotiserende enterocolitis
-- **Bot:** osteoporose (ook postmenopauzaal), botbreuk
-- **Infecties:** infectieuze mononucleosis, chronisch Epstein-Barr-virussyndroom
-
-**Geneesmiddelinteracties:** in totaal zijn 1.143 interacties gevonden. Voorbeelden van interacties met niveau **Majeur**:
+**Geneesmiddelinteracties:** er zijn 1143 interacties geregistreerd. Voorbeelden van interacties van klinisch belang (ernst "majeur"):
 - Abemaciclib
 - Fentanyl
 - Acalabrutinib
 
-Voorbeelden van **matige** interacties zijn paclitaxel, tramadol, nifedipine, adenosine, abirateron en ethinylestradiol. Een volledige beoordeling van interacties is nodig vóór elk gebruik.
+Daarnaast zijn er interacties van gemiddelde ernst, onder andere met paclitaxel, tramadol, nifedipine, ethinylestradiol en hydrocortison. Een volledige interactiecontrole is nodig vóór elk gebruik.
 
----
+**Aandoeningen met een geregistreerd risico bij gebruik van claritromycine** (afkomstig uit een databron, niet uit productteksten): onder meer lange-QT-syndroom, torsades de pointes, ventriculaire tachycardie, leverfalen, cholestase, nierziekte, porfyrie, myasthenia gravis en Clostridium difficile-colitis.
 
 ## Conclusie en vervolgstappen
 
 **Besluit: Hold (aanhouden)**
 
 **Onderbouwing:**
-- Voor de hoogst gerangschikte voorspelling (polyklonaal hyperviscositeitssyndroom) zijn geen klinische studies of literatuur beschikbaar. Het bewijsniveau is L5 (alleen modelvoorspelling). Bovendien zijn beide Nederlandse vergunningen doorgehaald en ontbreken veiligheidsgegevens uit de productinformatie.
+- De voorspelling berust uitsluitend op het TxGNN-model (score 0,9935). Er zijn geen klinische studies of publicaties over polyklonaal hyperviscositeitssyndroom, dus het bewijsniveau is L5.
 
-**Om verder te gaan is het volgende nodig:**
-- De productinformatie (SmPC) van CBG-MEB ophalen en analyseren op waarschuwingen en contra-indicaties (blokkerend voor de veiligheidsscreening)
-- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank
-- Een systematisch literatuuronderzoek naar claritromycine en hyperglobulinemische toestanden
-- Als onderzoeksvraag: het volledige artikel PMID 38472959 beoordelen en macroliden bij punctata keratoepitheliopathie nader onderzoeken
-- Een beoordeling van de QT-verlenging en de interactierisico's (o.a. CYP3A4-substraten) voor elke beoogde patiëntengroep
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme van claritromycine en een onderbouwd mechanistisch verband met de voorspelde aandoening
+- Een systematische literatuursearch naar macroliden bij hyperviscositeit en hyperglobulinemie
+- Preklinisch of observationeel onderzoek dat de hypothese ondersteunt
+- Veiligheidsinformatie uit de SmPC, met aandacht voor QT-verlenging en interacties
+- Beoordeling van de relevantie voor de Nederlandse praktijk in overleg met het CBG-MEB
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -4,17 +4,17 @@ title: Dipyridamole
 parent: Alleen modelvoorspelling (L5)
 nav_order: 116
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dipyridamole: voorspelde nieuwe indicatie Prinzmetal-angina (bewijsniveau L5). Oorspronkelijke indicatie: Voorkamerfibrillatie"
+indication_count: 8
 monitor_inn: "dipyridamole"
-predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-10-27
+description: "Dipyridamole: voorspelde nieuwe indicatie Trombotische ziekte (thrombotic disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,80 +33,59 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Dipyridamol: Van voorkamerfibrillatie naar Prinzmetal-angina
+## Dipyridamol: fosfodiësteraseremmer en remmer van adenosineheropname → trombotische ziekte (thrombotic disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Dipyridamol is een bloedplaatjesaggregatieremmer en vaatverwijder die in de kennisgrafiek van het model is gekoppeld aan voorkamerfibrillatie als oorspronkelijke indicatie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **Prinzmetal-angina**, maar hiervoor zijn **geen geregistreerde klinische studies** en slechts **10 publicaties** van beperkte kwaliteit beschikbaar. Opmerkelijk is dat een andere voorspelling, **beroerte (stroke disorder)**, wél sterk wordt ondersteund (o.a. 8 klinische studies en 19 publicaties). Deze wordt hieronder als belangrijkste alternatief toegelicht.
+Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fosfodiësterase (PDE) remt. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **trombotische ziekte (thrombotic disease)**. Voor deze brede aandoening zijn **geen geregistreerde klinische studies** gevonden; de **20 gevonden publicaties** zijn vooral algemene overzichten over antiplaatjestherapie, dus het bewijs is indirect.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Voorkamerfibrillatie (afkomstig uit de kennisgrafiek; in de Nederlandse registraties is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Prinzmetal-angina |
-| TxGNN-voorspellingsscore | 99,99% |
-| Bewijsniveau | L4 (voor Prinzmetal-angina); ter vergelijking L1 voor beroerte en TIA |
-| NL-marktstatus | Alleen doorgehaald (ingetrokken registraties) |
-| Aantal vergunningen | 2 (beide ingetrokken) |
-| Aanbevolen beslissing | Hold (Prinzmetal-angina); Proceed with Guardrails voor beroerte en TIA |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trombotische ziekte (thrombotic disease) |
+| TxGNN-voorspellingsscore | 0,9994 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde data. Op basis van algemeen bekende informatie remt dipyridamol de heropname van adenosine en de activiteit van fosfodiësterase. Hierdoor stijgen de cAMP- en cGMP-niveaus, wat leidt tot verwijding van de kransslagvaten en remming van de bloedplaatjesaggregatie.
+Dipyridamol remt de heropname van adenosine (via ENT1) en remt PDE3/PDE5. Daardoor stijgen de extracellulaire adenosinespiegels en de intracellulaire cAMP- en cGMP-concentraties in bloedplaatjes en vaatwandcellen. Dit remt de plaatjesaggregatie en maakt een antitrombotisch effect biologisch aannemelijk. Een overzichtsartikel (Kim & Liao, 2008) beschrijft dat dipyridamol plaatjesgemedieerde trombotische ziekte omkeerbaar remt en mogelijk de vaatbeschermende effecten van stikstofmonoxide versterkt.
 
-Voor **Prinzmetal-angina** is het therapeutische verband zwak en mogelijk ongunstig. In de literatuur komt dipyridamol vooral voor als stressmiddel bij diagnostische tests. Zo kan het beëindigen van een dipyridamol-stresstest met aminofylline vaatspasmen uitlokken bij variant angina. De vaatverwijdende werking kan bij gevoelige patiënten zelfs spasmen of coronaire "steal" veroorzaken. De hoge modelscore heeft hier dus geen duidelijke klinische onderbouwing.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet volledig beschikbaar; bovenstaande mechanistische uitleg is gebaseerd op de literatuur.
 
-Voor **beroerte en TIA** is het mechanisme wél goed passend. De remming van de bloedplaatjesaggregatie, aangevuld met mogelijke antioxidatieve, ontstekingsremmende en neuroprotectieve effecten, ondersteunt het gebruik, meestal in combinatie met acetylsalicylzuur, bij secundaire preventie na een ischemische beroerte of TIA.
+Belangrijk is dat "trombotische ziekte" een zeer brede term is. Geen van de gevonden publicaties onderzoekt deze aandoening als zodanig in een gerichte studie: het gaat om algemene overzichten over antiplaatjemiddelen, enkele casuïstiek over trombotische trombocytopenische purpura en niet-gerelateerde artikelen (bijvoorbeeld bevacizumab bij mesothelioom). Het bewijs is daarom indirect, en volgens de beoordelingsregels hoort dit bij niveau L5.
 
 ---
 
 ## Bewijs uit klinische studies
 
-Voor Prinzmetal-angina is momenteel geen gerelateerde klinische studie geregistreerd.
-
-Ter vergelijking volgen hieronder de belangrijkste studies voor het sterkst onderbouwde alternatief, **beroerte**:
-
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Fase 4 | Afgerond | 4500 | ESPRIT: acetylsalicylzuur plus dipyridamol of milde antistolling versus alleen acetylsalicylzuur na TIA of lichte beroerte (directe evidentie) |
-| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Fase 4 | Afgerond | 551 | EARLY: Aggrenox binnen 24 uur na een beroerte versus start na 7 dagen acetylsalicylzuur |
-| [NCT00238667](https://clinicaltrials.gov/study/NCT00238667) | Fase 3 | Afgerond | 250 | Haalbaarheidsstudie naar antistolling versus bloedplaatjesremmers bij cervicale arteriedissectie (indirect) |
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fase 3 | Afgerond | 664 | Sluiting van PFO of antistolling versus bloedplaatjesremmers ter voorkoming van een nieuwe beroerte (indirect) |
-| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N.v.t. | Afgerond | 664 | GORE REDUCE: PFO-sluiting plus bloedplaatjesremmers versus alleen bloedplaatjesremmers (indirect) |
-| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N.v.t. | Afgerond | 240 | Oxidatieve stress en oxysterolen na carotisrevascularisatie; mechanistisch onderzoek |
-| [NCT06053021](https://clinicaltrials.gov/study/NCT06053021) | N.v.t. | Onbekend | 1200 | Bloedplaatjesremmers bij acute ischemische beroerte met trombocytopenie (indirect) |
-| [NCT06983795](https://clinicaltrials.gov/study/NCT06983795) | N.v.t. | Nog niet gestart met werven | 1000 | Register van PFO en ischemische beroerte in de Azië-Pacific (indirect) |
+Voor trombotische ziekte zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
 ## Bewijs uit de literatuur
 
-Voor Prinzmetal-angina (10 publicaties, geen RCT's):
+Selectie van de meest relevante publicaties (geen gerichte RCT's voor deze aandoening):
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Review | Japanese Circulation Journal | Reactie van angina in rust (waaronder Prinzmetal) op verschillende middelen, waaronder dipyridamol 50 mg |
-| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Kleine klinische studie | American Journal of Cardiology | Aminofylline-beëindiging van dipyridamol-stress kan coronaire vasospasme uitlokken bij variant angina |
-| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Cohort | British Heart Journal | Reproduceerbaarheid van inspanningstests bij ST-elevatie en wisselende reacties op de dipyridamoltest |
-| [16630456](https://pubmed.ncbi.nlm.nih.gov/16630456/) | 2006 | Cohort | Zhonghua Xin Xue Guan Bing Za Zhi | Klinische kenmerken van typische en atypische coronaire spasme |
-| [14060538](https://pubmed.ncbi.nlm.nih.gov/14060538/) | 1963 | Casuïstiek | Naika | Een geval van variant angina pectoris |
-
-Voor beroerte (sterkste bewijs, meta-analyses en systematische reviews):
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/) | 2002 | Meta-analyse | BMJ | Bloedplaatjesremming voorkomt overlijden, hartinfarct en beroerte bij hoogrisicopatiënten |
-| [17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/) | 2007 | Cochrane-review | Cochrane Database Syst Rev | Toevoeging van dipyridamol aan acetylsalicylzuur gaf in één studie 22% risicoreductie; in de totale evidentie weinig verschil met acetylsalicylzuur alleen |
-| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analyse (individuele patiëntdata) | Stroke | Dipyridamol voor het voorkomen van een nieuwe ischemische beroerte; eerdere RCT's gaven tegenstrijdige resultaten |
-| [23871093](https://pubmed.ncbi.nlm.nih.gov/23871093/) | 2013 | Meta-analyse van RCT's | J Neurol Sci | Effectiviteit en veiligheid van acetylsalicylzuur plus dipyridamol versus acetylsalicylzuur na TIA of beroerte |
-| [34211246](https://pubmed.ncbi.nlm.nih.gov/34211246/) | 2021 | Review | Australian Prescriber | Acetylsalicylzuur, clopidogrel of acetylsalicylzuur plus dipyridamol zijn eerstelijnsopties bij secundaire preventie zonder voorkamerfibrillatie |
-| [20955428](https://pubmed.ncbi.nlm.nih.gov/20955428/) | 2010 | Review | Ann N Y Acad Sci | Mogelijke neuroprotectieve en ontstekingsremmende voordelen van dipyridamol bij acute beroerte |
+| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Review | Arterioscler Thromb Vasc Biol | Dipyridamol remt PDE en adenosineheropname en remt zo plaatjesgemedieerde trombotische ziekte |
+| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Review | Med J Aust | Antiplaatjemiddelen beschermen tegen hartinfarct, beroerte en andere vasculaire events |
+| [15494585](https://pubmed.ncbi.nlm.nih.gov/15494585/) | 2004 | Review | JAMA | Orale antiplaatjetherapie voorkomt herhaalde vasculaire events bij bestaande vaatziekte |
+| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Review | Clin Cardiol | Aspirine met dipyridamol bij coronaire trombose en kransslagaderziekte: beperkingen |
+| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Review | Postgrad Med | Aspirine, dipyridamol en sulfinpyrazon hebben een antitrombotisch effect bij mensen |
+| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | Review | Semin Hematol | Antiplaatjetherapie bij trombotische trombocytopenische purpura: verbetering in veel gevallen |
+| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Casuïstiek | Arch Intern Med | Twee patiënten met trombotische trombocytopenische purpura; remissie onder dipyridamol bij één patiënt |
+| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | Review | Curr Top Med Chem | Dipyridamol heeft ook antioxidatieve activiteit |
 
 ---
 
@@ -114,41 +93,33 @@ Voor beroerte (sterkste bewijs, meta-analyses en systematische reviews):
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet beschikbaar (registratie doorgehaald) |
-| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet beschikbaar (registratie doorgehaald) |
+| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
+| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald. Beschikbaarheid en formulering moeten daarom eerst worden bevestigd.
+Beide registraties zijn geldig. Het tweede product is een combinatiepreparaat (dipyridamol met acetylsalicylzuur) en zegt niets over de registratie van dipyridamol als enkelvoudig middel.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties (afgeleid uit de kennisgrafiek, niet uit de bijsluitertekst)**: o.a. nier- en leverziekte, trombocytopenie, maagzweer (ook actief), hypotensie, jicht, acuut coronair syndroom, hartinfarct, hemofilie, bloedarmoede, Reye-syndroom, neuspoliepen en gastritis. Deze lijst is niet geverifieerd aan de SmPC en kan deels de acetylsalicylzuurcomponent van de combinatie weerspiegelen.
-- **Geneesmiddelinteracties**: 451 interacties geregistreerd. Matig ernstig zijn onder meer dexfenfluramine, sibutramine en fenfluramine. Overige genoemde interacties (o.a. acetylsalicylzuur, cimetidine, omeprazol, pantoprazol, metformine, morfine, simvastatine) hebben een onbekend ernstniveau.
-- **Bij gebruik bij beroerte/TIA**: let op hoofdpijn en bloedingsrisico.
+- **Geneesmiddelinteracties**: in de gegevens zijn 451 interacties vastgelegd. Matig ernstig zijn onder meer dexfenfluramine, sibutramine en fenfluramine. Andere vermelde middelen (ernst onbekend) zijn onder meer acetylsalicylzuur, cimetidine, omeprazol, pantoprazol, metformine en morfine.
 
-Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC.
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter, zoals goedgekeurd door het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing voor Prinzmetal-angina: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs is beperkt tot oude, kleine studies en casuïstiek, zonder geregistreerde klinische studies. De vaatverwijdende werking kan juist vasospasme of coronaire steal uitlokken, waardoor het therapeutische verband zwak en mogelijk ongunstig is.
-
-**Aanbeveling voor het alternatief (beroerte en TIA): Proceed with Guardrails**
-- Er is bewijsniveau L1 (o.a. ESPRIT, meta-analyses en Cochrane-reviews). Gebruik uitsluitend als combinatie met acetylsalicylzuur volgens richtlijnen voor secundaire preventie.
+- Het werkingsmechanisme maakt een antitrombotisch effect aannemelijk, maar voor de brede term "trombotische ziekte" is geen enkele studie gevonden die deze aandoening direct onderzoekt. Het bewijsniveau is daarom L5 en het bewijs blijft indirect.
 
 **Om verder te gaan is nodig:**
-- Verificatie van beschikbaarheid en formulering, gezien de ingetrokken registraties bij het CBG-MEB
-- Volledige SmPC-gegevens over waarschuwingen en contra-indicaties (momenteel ontbrekend, wat een blokkerende leemte is voor de veiligheidsscreening)
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Een plan voor het beheersen van hoofdpijn, bloedingsrisico en de interactielast
-- Voor Prinzmetal-angina: gecontroleerde klinische studies en een veiligheidsbeoordeling van het risico op vasospasme voordat verdere stappen worden overwogen
-
-Overige voorspellingen (o.a. sicksinussyndroom, sarcoglycanopathie, Wildervanck-syndroom) hebben uitsluitend modelbewijs (L5) en vragen om een Hold. Voor trombotische ziekte (L3) en sinustrombose is nader onderzoek nodig.
+- Een afbakening van de aandoening tot een concrete klinische entiteit (bijvoorbeeld een specifieke arteriële of veneuze trombose) met gerichte studies.
+- Directe klinische of systematisch gezochte literatuurgegevens voor die afgebakende indicatie.
+- Volledige gegevens over waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
+- Een beoordeling van het interactierisico, gezien het grote aantal vastgelegde geneesmiddelinteracties.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

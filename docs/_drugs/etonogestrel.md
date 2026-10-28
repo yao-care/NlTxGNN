@@ -48,10 +48,10 @@ Etonogestrel is een progestageen dat wordt gebruikt in hormonale anticonceptie (
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de vergunningstekst bevat geen indicatie) |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,84% |
+| TxGNN-voorspellingsscore | 0,9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -66,10 +66,10 @@ Andere voorspelde indicaties (allemaal met bewijsniveau L5, zonder studies of li
 
 | Rang | Voorspelde indicatie | TxGNN-score | Opmerking |
 |------|------|------|------|
-| 2 | Fibrocystische borstaandoening | 99,61% | Plausibele maar onbewezen rationale; bewijs voor progestagenen is gemengd en borstgevoeligheid is gemeld bij hormonale anticonceptiva |
-| 3 | Apocriene adenose van de borst | 99,29% | Histopathologische bevinding, zwakke klinische rationale |
-| 4 | Blunt duct-adenose van de borst | 99,29% | Histologische laesie zonder gevestigde medicamenteuze behandeling |
-| 5 | Goedaardige mammaire dysplasie | 99,21% | Overlapt met fibrocystische borstaandoening; onbewezen rationale |
+| 2 | Fibrocystische borstaandoening | 0,9961 | Plausibele maar onbewezen rationale; bewijs voor progestagenen is gemengd en borstgevoeligheid is gemeld bij hormonale anticonceptiva |
+| 3 | Apocriene adenose van de borst | 0,9929 | Histopathologische bevinding, zwakke klinische rationale |
+| 4 | Blunt duct-adenose van de borst | 0,9929 | Histologische laesie zonder gevestigde medicamenteuze behandeling |
+| 5 | Goedaardige mammaire dysplasie | 0,9921 | Overlapt met fibrocystische borstaandoening; onbewezen rationale |
 
 ---
 
@@ -91,7 +91,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | Niet vermeld | Niet vermeld (status: doorgehaald) |
+| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | Niet vermeld | Niet vermeld (status: geldig) |
 
 ---
 

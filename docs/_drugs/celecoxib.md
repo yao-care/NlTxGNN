@@ -4,17 +4,17 @@ title: Celecoxib
 parent: Alleen modelvoorspelling (L5)
 nav_order: 76
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Celecoxib: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, spondylitis ankylopoetica…"
+indication_count: 7
 monitor_inn: "Celecoxib"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Celecoxib: voorspelde nieuwe indicatie acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lok…"
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +33,70 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Celecoxib: Van reumatoïde artritis naar acromesomele dysplasie, type Hunter-Thompson
+## Celecoxib: selectieve COX-2-remmer (NSAID) → acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
-## Samenvatting in het kort
+## Samenvatting in één zin
 
-Celecoxib is een COX-2-remmer (een ontstekingsremmer uit de groep NSAID's). Het wordt gebruikt bij reumatische aandoeningen zoals reumatoïde artritis, artrose en spondylitis ankylopoetica.
-Het TxGNN-model voorspelt dat celecoxib mogelijk werkzaam is bij **acromesomele dysplasie, type Hunter-Thompson**, een zeldzame erfelijke skeletaandoening.
-Deze voorspelling wordt gedragen door **0 klinische studies** en **0 publicaties**. Het is een zuivere modelvoorspelling.
+Celecoxib is een ontstekingsremmend en pijnstillend geneesmiddel uit de groep van de selectieve COX-2-remmers. Het TxGNN-model voorspelt dat het zou kunnen werken bij **acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling berust uitsluitend op het model.
 
----
-
-## Snel overzicht
+## Overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Reumatoïde artritis, spondylitis ankylopoetica, artrose en juveniele idiopathische artritis (afkomstig uit de kennisgraaf, omdat in de Nederlandse registratiegegevens geen indicatietekst is opgenomen) |
-| Voorspelde nieuwe indicatie | Acromesomele dysplasie, type Hunter-Thompson |
-| TxGNN-voorspellingsscore | 99,88% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-voorspellingsscore | 0,9988 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) registraties |
-| Aantal registraties | 1 (doorgehaald) |
-| Aanbevolen besluit | Hold |
-
----
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Voor de gegevens die voor dit rapport zijn samengesteld is geen gedetailleerde beschrijving van het werkingsmechanisme beschikbaar. Op basis van bekende informatie is celecoxib een selectieve COX-2-remmer. Het remt de aanmaak van prostaglandines, die pijn en ontsteking veroorzaken. De werkzaamheid bij reumatische ontstekingsziekten is goed vastgesteld.
+Gegevens over het werkingsmechanisme van celecoxib zijn in de voor dit rapport verzamelde data niet beschikbaar. Algemeen bekend is dat celecoxib COX-2 remt en daarmee de prostaglandinesynthese vermindert, wat pijn en ontsteking verlaagt.
 
-Acromesomele dysplasie, type Hunter-Thompson, is daarentegen een zeldzame erfelijke skeletdysplasie. De oorzaak is een functieverlies van het *GDF5*-gen (CDMP1). Er is geen bekende door COX-2 of prostaglandines gestuurde ziekteweg die celecoxib zou kunnen beïnvloeden. Een aantoonbare mechanistische relatie ontbreekt dus.
+Acromesomele dysplasie type Hunter-Thompson is een zeldzame erfelijke skeletdysplasie, veroorzaakt door verlies van functie van het CDMP1/GDF5-gen. Er is geen bekende door COX-2 of prostaglandinen gedreven ziektemechanisme dat celecoxib zou kunnen beïnvloeden. De hoge modelscore wordt waarschijnlijk veroorzaakt door gedeelde musculoskeletale kenmerken in de annotaties en is geen biologische onderbouwing.
 
-De hoge TxGNN-score komt waarschijnlijk voort uit overeenkomsten in de beschreven kenmerken van het bewegingsapparaat (musculoskeletale fenotypen). Dat is geen biologische onderbouwing. De voorspelling moet daarom als zwak worden beschouwd.
+## Klinisch trialbewijs
 
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Bewijs uit klinische studies
+## Literatuurbewijs
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
-
----
-
-## Bewijs uit de literatuur
-
-Er is momenteel geen gerelateerde literatuur beschikbaar.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116718 | Celecoxib Aurobindo 200 mg, harde capsules (doorgehaald) | Harde capsule | Niet vermeld in de registratiegegevens |
-
-Er is in Nederland geen geldige registratie voor celecoxib meer in de gegevens aanwezig. Controleer de actuele beschikbaarheid via CBG-MEB of EMA (centraal geregistreerde producten).
-
----
+| RVG 116718 | Celecoxib Aurobindo 200 mg, harde capsules | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-**Contra-indicaties uit de kennisgraaf (PrimeKG).** Deze zijn afgeleid uit relaties tussen geneesmiddel en ziekte, niet uit de officiële productinformatie. Ze betreffen onder meer:
-- Cardiovasculaire aandoeningen: hypertensie, hartfalen, hartinfarct, coronaire trombose, beroerte, cerebraal infarct en andere hart- en vaatziekten
-- Nier-, lever- en galblaasaandoeningen
-- Maagzweer (peptische ulcus), ook actief
-- Astma (intrinsiek en allergisch)
-- Bloedarmoede en hemoglobinopathie
-- Middelenmisbruik of -afhankelijkheid
+Voor dit geneesmiddel zijn in de verzamelde data geen waarschuwingen of contra-indicaties uit de productinformatie beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor de volledige veiligheidsinformatie.
 
-**Geneesmiddelinteracties.** In totaal zijn 100 interacties gevonden. De belangrijkste zijn:
-- **Ernstig (Major):** eliglustat
-- **Matig (Moderate):** onder meer hydrocortison, metformine, sulfonylureumderivaten (glimepiride, glipizide, glibenclamide, chloorpropamide, acetohexamide), nateglinide, exenatide, mesalazine, balsalazide, olsalazine, cimetidine, levofloxacine, metronidazol, kanamycine, naltrexon en fenfluramine
-
-Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) op de website van het CBG-MEB.
-
----
+**Geneesmiddelinteracties:** er zijn 100 interacties gevonden. Een voorbeeld van een ernstige (Major) interactie is die met eliglustat. Daarnaast zijn er interacties van matig niveau (Moderate), onder meer met:
+- hydrocortison
+- metformine
+- sulfonylureumderivaten (acetohexamide, chloorpropamide, glimepiride, glipizide, glibenclamide)
+- nateglinide en exenatide
+- mesalazine, balsalazide en olsalazine
+- cimetidine
+- levofloxacine, metronidazol en kanamycine
+- naltrexon
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een computermodel. Er zijn geen klinische studies of publicaties, en er is geen aannemelijk mechanisme dat celecoxib een rol geeft bij deze erfelijke skeletaandoening.
-- Daarnaast is celecoxib in de gegevens alleen nog als doorgehaalde registratie in Nederland aanwezig.
+- De voorspelling is uitsluitend gebaseerd op het model (bewijsniveau L5). Er zijn geen studies of publicaties en er is geen aannemelijk biologisch verband tussen COX-2-remming en deze genetische skeletaandoening.
 
 **Om verder te gaan is nodig:**
-- Preklinisch of mechanistisch onderzoek dat een rol van COX-2 of prostaglandines bij GDF5-gerelateerde skeletdysplasie aantoont
-- Gedetailleerde gegevens over het werkingsmechanisme
-- Actuele veiligheidsinformatie uit de SmPC van het CBG-MEB
-- Verificatie van de actuele marktbeschikbaarheid in Nederland
-
-**Opmerking:** binnen de voorspellingen voor celecoxib heeft *inflammatoire spondylopathie* (spondylitis ankylopoetica/axiale spondyloartritis) een veel sterker bewijsniveau (L1, met meerdere afgeronde fase 3-studies). Dat betreft echter grotendeels een bevestiging van een reeds bestaand gebruik en geen echte herpositionering. Het kan in een afzonderlijk rapport worden uitgewerkt.
+- Aanvullende gegevens over het werkingsmechanisme en een onderbouwde biologische hypothese voor een effect op de GDF5-gerelateerde skeletontwikkeling.
+- Preklinisch onderzoek (bijvoorbeeld in celmodellen of diermodellen) dat een effect van celecoxib bij deze aandoening aantoont.
+- De veiligheidsinformatie uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties), die nu ontbreekt in de verzamelde data.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

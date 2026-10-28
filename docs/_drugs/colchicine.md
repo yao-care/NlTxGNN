@@ -4,7 +4,7 @@ title: Colchicine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 96
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Colchicine: voorspelde nieuwe indicatie Plasmodium falciparum-malaria (bewijsniveau L5). Oorspronkelijke indicatie: Jicht"
 monitor_inn: "Colchicine"
@@ -14,7 +14,7 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 # Colchicine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,13 +48,13 @@ Colchicine wordt van oudsher gebruikt bij jicht en familiaire mediterrane koorts
 |------|------|
 | Oorspronkelijke indicatie | Jicht; familiaire mediterrane koorts (FMF) |
 | Voorspelde nieuwe indicatie | Plasmodium falciparum-malaria |
-| TxGNN-voorspellingsscore | 99,60% |
+| TxGNN-voorspellingsscore | 0,9960 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen vervallen/ingetrokken registratie (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
-*Toelichting: de oorspronkelijke indicaties komen uit de kennisgraaf van het model. In de Nederlandse vergunningsgegevens is geen indicatietekst beschikbaar.*
+In de Nederlandse vergunningsgegevens is geen indicatietekst beschikbaar.*
 
 ---
 
@@ -87,7 +87,7 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
 ---
 
@@ -113,8 +113,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Opmerking |
 |------|------|------|------|
-| Familiaire mediterrane koorts, autosomaal dominant | 99,38% | L4 | Colchicine is al de gevestigde eerstelijnsbehandeling bij FMF. Dit is een subtype- of naamgevingsvariant en geen echte nieuwe toepassing. Het bewijs bestaat uit reviews (2014–2024) en niet uit primaire RCT-gegevens; er zijn geen trials voor dit subtype. Voor colchicine-resistente of -intolerante patiënten worden IL-1-remmers zoals canakinumab gebruikt. |
-| Dermatofibrosarcoma protuberans | 99,37% | L5 | Geen trials of literatuur. Theoretisch zou de antimitotische werking proliferende tumorcellen kunnen beïnvloeden, maar er is geen bewijs voor werking op de COL1A1-PDGFB-driver en de systemische toxiciteit pleit tegen gebruik. |
+| Dermatofibrosarcoma protuberans | 0,9937 | L5 | Geen trials of literatuur. Theoretisch zou de antimitotische werking proliferende tumorcellen kunnen beïnvloeden, maar er is geen bewijs voor werking op de COL1A1-PDGFB-driver en de systemische toxiciteit pleit tegen gebruik. |
 
 ---
 
@@ -123,7 +122,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De hoge TxGNN-score (99,60%) is een puur computationele voorspelling. Er zijn geen klinische studies en het preklinische bewijs is indirect (curcumine, chloroquine-gevoeligheid). De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Bovendien is er in Nederland geen geldige vergunning voor colchicine.
+- De hoge TxGNN-score (0,9960) is een puur computationele voorspelling. Er zijn geen klinische studies en het preklinische bewijs is indirect (curcumine, chloroquine-gevoeligheid). De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1.
 
 **Om verder te gaan is nodig:**
 - Preklinische gegevens over de directe werking van colchicine op P. falciparum (in vitro en in vivo, inclusief concentraties ten opzichte van de toxische gastheerdosis).

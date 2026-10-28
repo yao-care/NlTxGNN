@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levofloxacin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 207
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Levofloxacin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële infecties (o.a. streptokokken- en stafylokokkeninfecties…"
 monitor_inn: "levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+description: "Levofloxacin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Levofloxacine: van bacteriële infecties naar punctate epitheliale keratoconjunctivitis
+## Levofloxacin: Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -44,12 +44,12 @@ Levofloxacine is een fluorochinolon-antibioticum dat oorspronkelijk wordt gebrui
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële infecties (o.a. streptokokken- en stafylokokkeninfecties, bacteriële pneumonie, sinusitis maxillaris, conjunctivitis, pyelonefritis, miltvuur) |
-| Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis |
-| TxGNN-voorspellingsscore | 99,92% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
+| TxGNN-voorspellingsscore | 0.9992 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,9 +72,8 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115744 | Levofloxacine Beximco 500 mg, filmomhulde tabletten | Filmomhulde tabletten (afgeleid van de productnaam) | Niet beschikbaar; registratie is doorgehaald |
+| RVG 115744 | Levofloxacine Beximco 500 mg, filmomhulde tabletten | Filmomhulde tabletten (afgeleid van de productnaam) | Niet beschikbaar; registratie is geldig |
 
-Er is geen geldige registratie van levofloxacine als enkelvoudig of gecombineerd product in de gegevens gevonden voor dit rapport.
 
 ## Veiligheidsoverwegingen
 
@@ -97,7 +96,7 @@ De waarschuwingen en contra-indicaties uit de bijsluitertekst van het CBG-MEB zi
 
 **Onderbouwing:**
 - Voor deze indicatie is er geen klinisch bewijs en de enige publicatie betreft een niet-bacteriële verwekker die niet gevoelig is voor fluorochinolonen. De score is dus vooral een computationele voorspelling.
-- In Nederland bestaat geen geldige registratie voor levofloxacine. De veiligheidsinformatie uit de SmPC is bovendien nog niet verwerkt.
+- De veiligheidsinformatie uit de SmPC is bovendien nog niet verwerkt.
 
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen en beoordelen.

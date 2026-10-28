@@ -48,10 +48,10 @@ Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronke
 |------|------|
 | Oorspronkelijke indicatie | Astma (daarnaast bronchitis en longemfyseem; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Obstructieve longziekte |
-| TxGNN-voorspellingsscore | 99,96% |
+| TxGNN-voorspellingsscore | 0,9996 |
 | Evidentieniveau | L1 |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan onder voorwaarden) |
 
 ---
@@ -63,8 +63,8 @@ Terbutaline is een selectieve bèta-2-adrenerge agonist. Activering van bèta-2-
 De voorspelde indicatie "obstructieve longziekte" overlapt grotendeels met de bestaande indicaties (astma, bronchitis, longemfyseem). Het gaat dus om een uitbreiding binnen dezelfde ziektefamilie. De literatuur bevat bovendien gerandomiseerde, placebogecontroleerde studies naar terbutaline bij COPD, waarin effecten op longfunctie, inspanningsvermogen en diafragmafunctie zijn onderzocht.
 
 **Overige voorspellingen met zwakke onderbouwing:**
-- **Respiratoire malformatie** (score 99,52%, evidentieniveau L4, besluit: Hold): terbutaline kan functionele luchtwegobstructie verlichten, maar corrigeert de malformatie niet. De gevonden literatuur gaat vooral over differentiële diagnostiek en niet-gerelateerde onderwerpen. De hoge score weerspiegelt waarschijnlijk netwerknabijheid in de kennisgraaf en geen therapeutisch bewijs.
-- **Rienhoff-syndroom** (score 99,38%, evidentieniveau L5, besluit: Hold): er zijn geen studies of publicaties, en er is geen plausibele mechanistische link. De voorspelling is waarschijnlijk een artefact van graafconnectiviteit.
+- **Respiratoire malformatie** (score 0,9952, evidentieniveau L4, besluit: Hold): terbutaline kan functionele luchtwegobstructie verlichten, maar corrigeert de malformatie niet. De gevonden literatuur gaat vooral over differentiële diagnostiek en niet-gerelateerde onderwerpen. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten; het is geen biologisch bewijs.
+- **Rienhoff-syndroom** (score 0,9938, evidentieniveau L5, besluit: Hold): er zijn geen studies of publicaties, en er is geen plausibele mechanistische link. De voorspelling is waarschijnlijk een artefact van graafconnectiviteit.
 
 ---
 
@@ -112,7 +112,7 @@ Een aanvullende studie ([NCT04973345](https://clinicaltrials.gov/study/NCT049733
 |---------|------|------|-----------|
 | RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | Inhalatiepoeder | Niet beschikbaar |
 
-Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning voor terbutaline in de data van CBG-MEB.
+Voor terbutaline is in de data van CBG-MEB momenteel 1 geldige vergunning (van de 1 vergunning) geregistreerd; het middel is in Nederland op de markt.
 
 ---
 
@@ -142,7 +142,7 @@ Bij combinatie met antidiabetica is extra aandacht voor de bloedglucose nodig. D
 **Om verder te gaan is nodig:**
 - Productinformatie (SmPC) van CBG-MEB met waarschuwingen en contra-indicaties, en de goedgekeurde indicatietekst
 - Gegevens over het werkingsmechanisme uit DrugBank
-- Beoordeling van de marktpositie en registratiestatus in Nederland (geen geldige vergunning)
+- Beoordeling van de marktpositie en registratiestatus in Nederland (1 geldige vergunning van 1)
 - Een veiligheidsmonitoringplan voor patiënten met hart- en vaatziekten, diabetes en hyperthyreoïdie
 - Voor de voorspellingen respiratoire malformatie en Rienhoff-syndroom: eerst een mechanistische hypothese en preklinische validatie; voorlopig Hold
 ## Disclaimer

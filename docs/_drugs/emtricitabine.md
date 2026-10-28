@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Emtricitabine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 129
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…"
@@ -14,7 +14,7 @@ predicted_indications: ["feline acquired immunodeficiency syndrome", "simian imm
 # Emtricitabine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Emtricitabine is een remmer van het omgekeerde transcriptase (NRTI), oorspronkel
 |------|------|
 | Oorspronkelijke indicatie | Hiv-infectie en aids (de gegevens over de Nederlandse vergunning bevatten geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome (kattenaids) |
-| TxGNN-voorspellingsscore | 99,92% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| TxGNN-voorspellingsscore | 0,9992 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,7 +64,7 @@ Het felien immunodeficiëntievirus (FIV) is een lentivirus dat bij katten een pr
 
 Het is een diergeneeskundige indicatie; de relevantie voor humane hergebruikstrajecten is beperkt.
 
-> Ter volledigheid: het model voorspelde ook "simian immunodeficiency virus infection" (rang 2, score 99,92%, bewijsniveau L4) en een zeldzame neurodevelopmentele aandoening (rang 3, score 99,92%, bewijsniveau L5, zonder enig mechanistisch of klinisch bewijs). Dit rapport richt zich op de hoogst gerangschikte voorspelling.
+> Ter volledigheid: het model voorspelde ook "simian immunodeficiency virus infection" (rang 2, score 0,9992, bewijsniveau L4) en een zeldzame neurodevelopmentele aandoening (rang 3, score 0,9992, bewijsniveau L5, zonder enig mechanistisch of klinisch bewijs). Dit rapport richt zich op de hoogst gerangschikte voorspelling.
 
 ---
 
@@ -88,7 +88,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 117316 (ingetrokken) | Ictastan 200mg/245mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
 
-Er is geen geldige vergunning in Nederland (CBG-MEB). Raadpleeg de SmPC en bijsluiter van vergelijkbare, nog geregistreerde producten voor actuele productinformatie.
+Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB). Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.
 
 ---
 
@@ -114,7 +114,7 @@ Voor waarschuwingen en formele contra-indicaties: raadpleeg de SmPC.
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling betreft een diergeneeskundige indicatie, wordt ondersteund door slechts één preklinische studie zonder duidelijke uitkomsten, en er zijn geen klinische studies. De hoge TxGNN-score weerspiegelt waarschijnlijk vooral de gelijkenis met hiv. In Nederland is bovendien geen geldige vergunning voor emtricitabine als enkelvoudig middel.
+- De voorspelling betreft een diergeneeskundige indicatie, wordt ondersteund door slechts één preklinische studie zonder duidelijke uitkomsten, en er zijn geen klinische studies. De hoge TxGNN-score (0,9992) komt van het TxGNN-model (deep learning) en kan gelijkenissen weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
 
 **Om verder te gaan is het volgende nodig:**
 - Volledige tekst van PMID 37112803 om te beoordelen of en hoe emtricitabine bijdroeg aan de uitkomsten

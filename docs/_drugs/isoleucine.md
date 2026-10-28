@@ -6,9 +6,9 @@ nav_order: 186
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isoleucine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de gegevens van het CBG-MEB"
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
+description: "Isoleucine: voorspelde nieuwe indicatie Gastroparese (gastroparesis (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Isoleucine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Isoleucine: Van een niet-vastgelegde oorspronkelijke indicatie naar gastroparese
+## Isoleucine: Gastroparese (gastroparesis (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,19 +46,19 @@ Isoleucine is een vertakteketenaminozuur dat in Nederland alleen voorkomt als be
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vastgelegd in de gegevens van het CBG-MEB |
-| Voorspelde nieuwe indicatie | Gastroparese |
-| TxGNN-voorspellingsscore | 99,32% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Gastroparese (gastroparesis (disease)) |
+| TxGNN-voorspellingsscore | 0.9932 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Voor deze kandidaat is momenteel geen gedetailleerd werkingsmechanisme beschikbaar en ook geen vastgelegde oorspronkelijke indicatie. Daardoor kan geen mechanistisch verband worden getoetst. De enige ondersteuning is de hoge score van het kennisgrafiekmodel (0,993).
+Voor deze kandidaat is momenteel geen gedetailleerd werkingsmechanisme beschikbaar en ook geen vastgelegde oorspronkelijke indicatie. Daardoor kan geen mechanistisch verband worden getoetst. De enige ondersteuning is de hoge score van het kennisgrafiekmodel (0,9932).
 
 Isoleucine is een vertakteketenaminozuur dat betrokken is bij eiwitsynthese en energiemetabolisme. Een mogelijk, maar niet geverifieerd verband is voedings- of metabole ondersteuning bij gastroparese, waar ondervoeding en vertraagde maaglediging vaak voorkomen. De gegevens bevatten geen aanwijzing dat isoleucine de maagmotiliteit of de symptomen verbetert. De voorspelling moet daarom als hypothese worden beschouwd.
 
@@ -80,10 +80,10 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 105074 | NuTRIflex Omega plus, emulsie voor infusie | Emulsie voor infusie | Niet vastgelegd (registratie doorgehaald) |
-| RVG 101688 | SmofKabiven, emulsie voor infusie | Emulsie voor infusie | Niet vastgelegd (registratie doorgehaald) |
+| RVG 105074 | NuTRIflex Omega plus, emulsie voor infusie | Emulsie voor infusie | Niet vastgelegd (registratie geldig) |
+| RVG 101688 | SmofKabiven, emulsie voor infusie | Emulsie voor infusie | Niet vastgelegd (registratie geldig) |
 
-Beide registraties zijn doorgehaald; er is momenteel geen geldige vergunning voor een product met isoleucine in de samengestelde gegevens.
+Het middel is op de markt: beide vergunningen (2 van 2) zijn geldig.
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor overige veiligheidsinformatie de SmPC (Samenvatting van de Produc
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een modelscore (L5). Er zijn geen klinische studies of literatuur, geen bekend werkingsmechanisme en geen geldige Nederlandse vergunning.
+- De voorspelling berust uitsluitend op een modelscore (L5).
 - De veiligheidsinformatie uit de bijsluiter ontbreekt, waardoor de veiligheidsscreening niet kan worden uitgevoerd.
 
 **Om verder te gaan is nodig:**

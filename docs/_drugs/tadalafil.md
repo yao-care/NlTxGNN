@@ -48,10 +48,10 @@ Tadalafil is een PDE5-remmer die oorspronkelijk wordt gebruikt voor goedaardige 
 |------|------|
 | Oorspronkelijke indicatie | Goedaardige prostaathyperplasie, pulmonale hypertensie, erectiestoornissen, psychologische dyspareunie, voortijdige zaadlozing |
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99,98% |
+| TxGNN-voorspellingsscore | 0,9998 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -68,13 +68,13 @@ Alle onderstaande voorspellingen hebben het besluit **Hold**:
 
 | Rang | Voorspelde indicatie | Score | Evidentieniveau | Opmerking |
 |---|---|---|---|---|
-| 2 | Hypertrichose | 99,98% | L5 | Hypertrichose is meestal een bijwerking, geen behandeldoel; mogelijk artefact |
-| 3 | Malformatiesyndroom met tand- en/of parodontale component | 99,97% | L5 | Geen mechanistisch verband |
-| 4 | Syndroom met Dandy-Walker-malformatie | 99,97% | L5 | Aangeboren structureel defect; geen verband |
-| 5 | Geïsoleerde genetische haarschachtafwijking | 99,96% | L5 | Structurele genafwijkingen, niet door PDE5-remming te beïnvloeden |
-| 6 | Familiaire geïsoleerde trichomegalie | 99,65% | L5 | Geen mechanisme of therapeutische behoefte |
-| 7 | Kyfoscoliotische hartziekte | 99,43% | L5 | Zwak, speculatief verband via pulmonale hypertensie; bij hypoxiegedreven vormen kunnen vaatverwijders de V/Q-mismatch verergeren |
-| 8 | Migraine met hersenstamaura | 99,08% | L4 | Alleen een casusbeschrijving waarin tadalafil een aura veroorzaakte (veiligheidssignaal) |
+| 2 | Hypertrichose | 0,9998 | L5 | Hypertrichose is meestal een bijwerking, geen behandeldoel; mogelijk artefact |
+| 3 | Malformatiesyndroom met tand- en/of parodontale component | 0,9997 | L5 | Geen mechanistisch verband |
+| 4 | Syndroom met Dandy-Walker-malformatie | 0,9997 | L5 | Aangeboren structureel defect; geen verband |
+| 5 | Geïsoleerde genetische haarschachtafwijking | 0,9996 | L5 | Structurele genafwijkingen, niet door PDE5-remming te beïnvloeden |
+| 6 | Familiaire geïsoleerde trichomegalie | 0,9965 | L5 | Geen mechanisme of therapeutische behoefte |
+| 7 | Kyfoscoliotische hartziekte | 0,9943 | L5 | Zwak, speculatief verband via pulmonale hypertensie; bij hypoxiegedreven vormen kunnen vaatverwijders de V/Q-mismatch verergeren |
+| 8 | Migraine met hersenstamaura | 0,9908 | L4 | Alleen een casusbeschrijving waarin tadalafil een aura veroorzaakte (veiligheidssignaal) |
 
 ---
 
@@ -98,7 +98,7 @@ Voor de hoogst gerangschikte voorspelling (Ambras-type hypertrichosis) is moment
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
 ---
 

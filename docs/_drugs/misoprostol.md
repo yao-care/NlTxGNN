@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Misoprostol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 236
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens (de enige vergunning bevat…"
 monitor_inn: "Misoprostol"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
+description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Misoprostol
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-## Misoprostol: Van een niet vastgestelde oorspronkelijke indicatie naar amenorroe
+## Misoprostol: Amenorroe (amenorrhea (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Misoprostol is een prostaglandine-E1-analoog. In de voor dit rapport verzamelde 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de verzamelde gegevens (de enige vergunning bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,64% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
+| TxGNN-voorspellingsscore | 0.9964 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,9 +62,9 @@ Misoprostol is een prostaglandine-E1-analoog die samentrekking van de baarmoeder
 
 Het verband met amenorroe is indirect. De gevonden literatuur gaat over beëindiging van zwangerschap (mifepriston plus misoprostol), een casus over acute leververvetting in de zwangerschap en abnormale baarmoederbloeding, en niet over de behandeling van amenorroe. Zwangerschap is een veelvoorkomende oorzaak van amenorroe, dus de associatie weerspiegelt waarschijnlijk gezamenlijk voorkomen in de literatuur en geen therapeutisch effect. Van misoprostol wordt niet verwacht dat het de menstruatie herstelt bij primaire of secundaire amenorroe met een hormonale of structurele oorzaak.
 
-De hoge modelscore (0,996) is dus een voorspelling zonder klinische onderbouwing.
+De hoge modelscore (0,9964) is dus een voorspelling zonder klinische onderbouwing.
 
-Een tweede voorspelling, atypische coarctatio aortae (score 99,30%, bewijsniveau L5), heeft geen enkele studie of publicatie en geen mechanistische rationale. Het is een structurele aangeboren vaatafwijking die chirurgisch of via katheterinterventie wordt behandeld. De voorspelling berust waarschijnlijk op een artefact in de kennisgraaf, mogelijk een verwarring met alprostadil, een ander PGE1-middel dat bij pasgeborenen de open ductus houdt. Dit rapport richt zich verder op de hoogst gerangschikte voorspelling.
+Een tweede voorspelling, atypische coarctatio aortae (score 0,9930, bewijsniveau L5), heeft geen enkele studie of publicatie en geen mechanistische rationale. Het is een structurele aangeboren vaatafwijking die chirurgisch of via katheterinterventie wordt behandeld. De score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs; mogelijk gaat het om een verwarring met alprostadil, een ander PGE1-middel dat bij pasgeborenen de open ductus houdt. Dit rapport richt zich verder op de hoogst gerangschikte voorspelling.
 
 ---
 
@@ -94,9 +94,9 @@ De onderstaande publicaties zijn gevonden, maar geen ervan onderzoekt misoprosto
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-De enige Nederlandse vergunning (CBG-MEB) is doorgehaald. Er is momenteel geen geldig geregistreerd misoprostolproduct in de verzamelde gegevens.
+De enige Nederlandse vergunning (CBG-MEB) is doorgehaald.
 
 ---
 

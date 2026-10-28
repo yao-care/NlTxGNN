@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tetrabenazine: Van de ziekte van Huntington naar polycysteuze nierziekte type 3 (met of zonder polycysteuze leverziekte)
+## Tetrabenazine: Van de ziekte van Huntington naar Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,10 +48,10 @@ Tetrabenazine is een geneesmiddel dat oorspronkelijk wordt gebruikt bij de ziekt
 |------|------|
 | Oorspronkelijke indicatie | Ziekte van Huntington (en aanverwante syndromen, waaronder McLeod-neuroacanthocytosesyndroom). Er is geen geregistreerde indicatietekst beschikbaar in de Nederlandse vergunningsgegevens. |
 | Voorspelde nieuwe indicatie | Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte |
-| TxGNN-voorspellingsscore | 99,90% |
+| TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Tetrabenazine is een geneesmiddel dat oorspronkelijk wordt gebruikt bij de ziekt
 
 Tetrabenazine is een reversibele remmer van VMAT2 (vesiculaire monoamine-transporter 2). Het stofje put monoaminen (zoals dopamine) in de presynaptische zenuwuiteinden van het centrale zenuwstelsel uit. Daardoor vermindert het hyperkinetische bewegingen, zoals de chorea bij de ziekte van Huntington. Voor de gegevens die voor dit rapport zijn samengesteld, is geen formeel vastgelegde werkingsmechanisme-informatie beschikbaar; bovenstaande beschrijving is gebaseerd op algemeen bekende farmacologie.
 
-Polycysteuze nierziekte 3 wordt veroorzaakt door mutaties in het gen *GANAB*, wat leidt tot een defect in de verwerking van glycoproteïnen. Er is geen aannemelijk mechanistisch verband tussen VMAT2-remming en deze nier- en leveraandoening. De hoge TxGNN-score is een voorspelling op basis van een kennisgraaf en weerspiegelt waarschijnlijk nabijheid in het netwerk in plaats van onderliggende biologie. Ook de overige negen voorspelde indicaties in de gegevens (onder meer renale-hepatische-pancreatische dysplasie, Joubert-syndroom met nierdefect, karyomegale interstitiële nefritis en acute intermitterende porfyrie) hebben uitsluitend modelbewijs en geen aannemelijk mechanistisch verband.
+Polycysteuze nierziekte 3 wordt veroorzaakt door mutaties in het gen *GANAB*, wat leidt tot een defect in de verwerking van glycoproteïnen. Er is geen aannemelijk mechanistisch verband tussen VMAT2-remming en deze nier- en leveraandoening. De hoge TxGNN-score is een voorspelling van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk nabijheid in het netwerk in plaats van onderliggende biologie. Ook de overige negen voorspelde indicaties in de gegevens (onder meer renale-hepatische-pancreatische dysplasie, Joubert-syndroom met nierdefect, karyomegale interstitiële nefritis en acute intermitterende porfyrie) hebben uitsluitend modelbewijs en geen aannemelijk mechanistisch verband.
 
 ---
 
@@ -80,9 +80,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 117369 | Tetrabenazine SUN 25 mg tabletten (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 117369 | Tetrabenazine SUN 25 mg tabletten (status: geldig) | Niet vermeld | Niet vermeld |
 
-De enige bekende vergunning bij het CBG-MEB is doorgehaald; er is dus momenteel geen geldige vergunning voor tetrabenazine in de gegevens.
+Er is 1 geldige vergunning van 1 bij het CBG-MEB; tetrabenazine is momenteel op de Nederlandse markt.
 
 ---
 

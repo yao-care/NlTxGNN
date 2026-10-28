@@ -6,9 +6,9 @@ nav_order: 314
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tenofovir: voorspelde nieuwe indicatie Felien verworven immunodeficiëntiesyndroom (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis B-virusinfectie, hiv-infectie, aids"
 monitor_inn: "tenofovir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tenofovir
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Tenofovir: Van hiv en chronische hepatitis B naar felien verworven immunodeficiëntiesyndroom
+## Tenofovir: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,20 +46,20 @@ Tenofovir is een nucleotide-reverse-transcriptaseremmer die oorspronkelijk wordt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Chronische hepatitis B-virusinfectie, hiv-infectie, aids (volgens de kennisgraaf; de geregistreerde indicatietekst voor de Nederlandse vergunning ontbreekt) |
-| Voorspelde nieuwe indicatie | Felien verworven immunodeficiëntiesyndroom (kattenaids) |
-| TxGNN-voorspellingsscore | 99,96% |
-| Bewijsniveau | L3 (alleen preklinisch diermodelbewijs; geen klinische studies) |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome |
+| TxGNN-voorspellingsscore | 0.9996 |
+| Bewijsniveau | L5 (alleen preklinisch diermodelbewijs; geen klinische studies) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 **Overige voorspellingen in de data:**
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau |
 |------|------|------|------|
-| 2 | Simian immunodeficiëntievirus (SIV)-infectie | 99,96% | L3 |
-| 3 | Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 99,96% | L5 |
+| 2 | Simian immunodeficiëntievirus (SIV)-infectie | 0,9996 | L5 |
+| 3 | Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 0,9996 | L5 |
 
 De drie scores liggen vrijwel gelijk, waardoor de score hier weinig onderscheidend vermogen heeft.
 
@@ -115,9 +115,8 @@ Voor de derde voorspelling is geen literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Deze enige vergunning is doorgehaald; er is dus momenteel geen geldige vergunning in de data van het CBG-MEB.
 
 ---
 

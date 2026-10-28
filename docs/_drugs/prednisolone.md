@@ -4,17 +4,17 @@ title: Prednisolone
 parent: Sterk bewijs (L1-L2)
 nav_order: 277
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Auto-immuunziekte, ziekte van Crohn, acute lymfatische leukemie…"
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Prednisolon: Van auto-immuunziekten naar alopecia areata
+## Prednisolone: Alopecia areata
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Prednisolon is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij auto-im
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Auto-immuunziekte, ziekte van Crohn, acute lymfatische leukemie, bijnierinsufficiëntie (o.a. ziekte van Addison) en andere (bron: kennisgraaf; er is geen goedgekeurde indicatietekst uit de Nederlandse registratie beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Alopecia areata |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (geschrapt) |
-| Aantal vergunningen | 1 (geschrapt) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -95,9 +95,9 @@ Selectie van de meest relevante publicaties voor alopecia areata (RCT en systema
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Er is geen geldige vergunning meer. Dit betekent dat voor toepassing in Nederland een nieuwe registratie of een alternatief product nodig zou zijn (CBG-MEB/EMA).
+Het middel wordt op de markt gebracht; 1 van de 1 vergunningen is geldig.
 
 ---
 
@@ -134,15 +134,14 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Beslissing | Opmerking |
 |---|---|---|---|---|---|
-| 2 | Alopecia mucinosa | 99,99% | L4 | Hold | Alleen casusbeschrijvingen; geen steun voor prednisolon specifiek |
-| 3 | Telogeen effluvium | 99,98% | L5 | Hold | Meestal zelflimiterend, geen duidelijke reden voor immunosuppressie |
-| 4 | Folliculitis decalvans | 99,98% | L4 | Hold | Eén casus met driedubbele therapie |
-| 5 | Erfelijke hypotrichose met recidiverende huidblaasjes | 99,98% | L5 | Hold | Geen aanwijsbaar mechanisme |
-| 6 | Alopecia met antilichaamdeficiëntie | 99,98% | L5 | Hold | Immunosuppressie kan averechts werken |
-| 7 | Alopecia-verstandelijke beperking-hypergonadotroop hypogonadisme-syndroom | 99,98% | L5 | Hold | Zeldzaam genetisch syndroom |
-| 8 | Atrichia met papuleuze laesies | 99,94% | L5 | Hold | Genetische oorzaak, geen plausibel mechanisme |
-| 9 | Prolaps van de traanklier | 99,94% | L5 | Hold | Structureel probleem, chirurgisch behandeld |
-| 10 | Idiopathisch steroïdgevoelig nefrotisch syndroom | 99,86% | L1 | Proceed with Guardrails | Reeds standaardbehandeling (eerstelijnstherapie), geen nieuwe herpositionering |
+| 2 | Alopecia mucinosa | 0,9999 | L5 | Hold | Alleen casusbeschrijvingen; geen steun voor prednisolon specifiek |
+| 3 | Telogeen effluvium | 0,9998 | L5 | Hold | Meestal zelflimiterend, geen duidelijke reden voor immunosuppressie |
+| 4 | Folliculitis decalvans | 0,9998 | L5 | Hold | Eén casus met driedubbele therapie |
+| 5 | Erfelijke hypotrichose met recidiverende huidblaasjes | 0,9998 | L5 | Hold | Geen aanwijsbaar mechanisme |
+| 6 | Alopecia met antilichaamdeficiëntie | 0,9998 | L5 | Hold | Immunosuppressie kan averechts werken |
+| 7 | Alopecia-verstandelijke beperking-hypergonadotroop hypogonadisme-syndroom | 0,9998 | L5 | Hold | Zeldzaam genetisch syndroom |
+| 8 | Atrichia met papuleuze laesies | 0,9994 | L5 | Hold | Genetische oorzaak, geen plausibel mechanisme |
+| 9 | Prolaps van de traanklier | 0,9994 | L5 | Hold | Structureel probleem, chirurgisch behandeld |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

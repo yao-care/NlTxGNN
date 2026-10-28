@@ -4,17 +4,17 @@ title: Tranylcypromine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 328
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Tranylcypromine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 monitor_inn: "tranylcypromine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+description: "Tranylcypromine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in…"
 ---
 
 # Tranylcypromine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tranylcypromine: Van unipolaire depressie naar benigne paroxismale torticollis van de kindertijd
+## Tranylcypromine: Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -44,12 +44,12 @@ Tranylcypromine is een monoamineoxidaseremmer (MAO-remmer) die oorspronkelijk wo
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Unipolaire depressie, endogene depressie, ernstige depressieve stoornis, angststoornis (afkomstig uit de kennisgraaf van TxGNN; de goedgekeurde indicatietekst van de Nederlandse registratie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd |
-| TxGNN-voorspellingsscore | 99,67% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) |
+| TxGNN-voorspellingsscore | 0.9967 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -72,9 +72,9 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | Doorgehaald |
+| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | Geldig |
 
-De enige in de data opgenomen registratie is doorgehaald. Er is dus geen geldige handelsvergunning voor tranylcypromine in de verzamelde gegevens.
+De enige in de data opgenomen registratie is doorgehaald.
 
 ## Veiligheidsoverwegingen
 

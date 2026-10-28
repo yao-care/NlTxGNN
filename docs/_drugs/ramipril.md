@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ramipril
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 287
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ramipril: voorspelde nieuwe indicatie Pulmonale hypertensie door longziekte en/of hypoxie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en beroerte/cerebrovasculaire aandoeningen"
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+description: "Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Ramipril: Van hypertensie naar pulmonale hypertensie door longziekte en/of hypoxie
+## Ramipril: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Hiervoor zijn **geen klinische studies** en slechts **1 relevante preklinische p
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie en beroerte/cerebrovasculaire aandoeningen (volgens de kennisgraaf van TxGNN; in de data van het CBG-MEB is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Pulmonale hypertensie door longziekte en/of hypoxie |
-| TxGNN-voorspellingsscore | 99,93% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN-voorspellingsscore | 0.9993 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 *Opmerking: de voorspelling met rang 1 (pulmonale hypertensie met onduidelijk multifactorieel mechanisme) heeft dezelfde score maar geen enkel bewijs (L5). Deze rapportage richt zich op rang 2, omdat daarvoor het meeste ondersteunende bewijs is gevonden.*
@@ -92,7 +92,6 @@ Alleen de publicatie met directe relevantie is opgenomen; de overige gevonden pu
 |---------|------|------|-----------|
 | RVG 117718 | Ramipril Aurobindo 2,5 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
 
-Deze vergunning is doorgehaald; er is geen geldige vergunning voor ramipril in de gecompileerde gegevens van het CBG-MEB.
 
 ---
 
@@ -120,7 +119,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Ondanks de zeer hoge TxGNN-score (99,93%) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.
+Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de productinformatie van het CBG-MEB (SmPC), inclusief goedgekeurde indicaties

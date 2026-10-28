@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ribavirin
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 289
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie"
 monitor_inn: "ribavirin"
-predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mediastinitis"]
+predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mediastinitis"]
 ---
 
 # Ribavirin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Ribavirine is een antiviraal middel dat oorspronkelijk wordt gebruikt bij chroni
 |------|------|
 | Oorspronkelijke indicatie | Chronische hepatitis C-virusinfectie (de registratietekst in de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Chronische hepatitis B-virusinfectie |
-| TxGNN-voorspellingsscore | 99,86% |
+| TxGNN-voorspellingsscore | 0,9986 |
 | Bewijsniveau | L1 (formeel; zie toelichting hieronder) |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 *Toelichting bewijsniveau:* L1 vereist ≥2 afgeronde fase 3-RCT's. In de data is slechts één fase 3-studie direct gericht op hepatitis B met ribavirine (NCT00114361) afgerond. Het formele L1-niveau is daarom met voorzichtigheid te interpreteren; het directe bewijs voor ribavirine bij hepatitis B is beperkt.
@@ -110,9 +110,9 @@ De gevonden publicaties zijn vrijwel allemaal overzichtsartikelen of casuïstiek
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning geldig) |
 
-Er is geen geldige vergunning voor ribavirine bij het CBG-MEB. Gebruik in Nederland is daarmee op dit moment niet via een lopende registratie gedekt.
+Er is een geldige vergunning voor ribavirine bij het CBG-MEB (1 van 1 vergunningen is geldig). Het middel is in Nederland op de markt.
 
 ---
 
@@ -128,19 +128,19 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Overige voorspelde indicaties
 
-Naast hepatitis B voorspelt het model nog negen andere aandoeningen met scores tussen 99,3% en 99,6%. Voor geen daarvan is bruikbaar bewijs gevonden dat ribavirine werkzaam is.
+Naast hepatitis B voorspelt het model nog acht andere aandoeningen met scores tussen 0,9931 en 0,9957. Voor geen daarvan is bruikbaar bewijs gevonden dat ribavirine werkzaam is.
 
 | Aandoening | Score | Bewijsniveau | Beoordeling |
 |---------|------|------|------|
-| Hepatoportale sclerose | 99,57% | L5 | Geen studies of literatuur; geen plausibel mechanisme. Hold. |
-| Vroeg beginnende familiaire niet-cirrotische portale hypertensie | 99,57% | L5 | Alleen modelvoorspelling. Hold. |
-| Idiopathische kopergerelateerde cirrose | 99,57% | L5 | Alleen modelvoorspelling; geen mechanistisch verband. Hold. |
-| Hepatopulmonaal syndroom | 99,57% | L5 | Eén casus betreft een bijwerking van interferon, geen voordeel van ribavirine. Hold. |
-| Primitieve vena portae-trombose | 99,57% | L5 | Geen bewijs; ribavirine heeft geen antitrombotisch mechanisme. Hold. |
-| Hepatische porfyrie | 99,50% | L4 | Literatuur wijst eerder op uitlokking van porfyria cutanea tarda tijdens ribavirinebehandeling; mogelijk veiligheidssignaal. Hold. |
-| IgG4-gerelateerde pachymeningitis | 99,44% | L5 | Alleen speculatief immuunmodulerend verband. Hold. |
-| IgG4-gerelateerde aortitis | 99,31% | L5 | Alleen speculatief verband. Hold. |
-| IgG4-gerelateerde mediastinitis | 99,31% | L5 | Alleen speculatief verband. Hold. |
+| Hepatoportale sclerose | 0,9957 | L5 | Geen studies of literatuur; geen plausibel mechanisme. Hold. |
+| Vroeg beginnende familiaire niet-cirrotische portale hypertensie | 0,9957 | L5 | Alleen modelvoorspelling. Hold. |
+| Idiopathische kopergerelateerde cirrose | 0,9957 | L5 | Alleen modelvoorspelling; geen mechanistisch verband. Hold. |
+| Hepatopulmonaal syndroom | 0,9957 | L5 | Eén casus betreft een bijwerking van interferon, geen voordeel van ribavirine. Hold. |
+| Primitieve vena portae-trombose | 0,9957 | L5 | Geen bewijs; ribavirine heeft geen antitrombotisch mechanisme. Hold. |
+| Hepatische porfyrie | 0,9950 | L4 | Literatuur wijst eerder op uitlokking van porfyria cutanea tarda tijdens ribavirinebehandeling; mogelijk veiligheidssignaal. Hold. |
+| IgG4-gerelateerde pachymeningitis | 0,9944 | L5 | Alleen speculatief immuunmodulerend verband. Hold. |
+| IgG4-gerelateerde aortitis | 0,9931 | L5 | Alleen speculatief verband. Hold. |
+| IgG4-gerelateerde mediastinitis | 0,9931 | L5 | Alleen speculatief verband. Hold. |
 
 ---
 
@@ -150,7 +150,7 @@ Naast hepatitis B voorspelt het model nog negen andere aandoeningen met scores t
 
 **Onderbouwing:**
 - Het directe bewijs voor ribavirine bij chronische hepatitis B is beperkt. Slechts één afgeronde fase 3-studie (NCT00114361) is direct relevant, en daarin is de eigen bijdrage van ribavirine binnen de combinatie met peginterferon nog onduidelijk. De overige studies zijn grotendeels gericht op hepatitis C.
-- De directe antivirale werking tegen hepatitis B is zwak, er zijn al effectieve goedgekeurde alternatieven, en ribavirine heeft bekende risico's (hemolytische anemie, teratogeniciteit). Daarnaast is er in Nederland geen geldige vergunning meer.
+- De directe antivirale werking tegen hepatitis B is zwak, er zijn al effectieve goedgekeurde alternatieven, en ribavirine heeft bekende risico's (hemolytische anemie, teratogeniciteit).
 
 **Voor een eventuele vervolgstap is nodig:**
 - Analyse van de resultaten van NCT00114361 en NCT03759782 om de specifieke bijdrage van ribavirine bij hepatitis B vast te stellen.

@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "fetal-akinesia-deformation-sequence",
-          "display": "fetal akinesia deformation sequence"
-        }
-      ],
-      "text": "fetal akinesia deformation sequence",
       "concept": {
         "text": "fetal akinesia deformation sequence"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9994
     }
   ]
 }

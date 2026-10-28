@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atenolol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 45
-evidence_level: L4
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Atenolol: voorspelde nieuwe indicatie Posteroinferieur myocardinfarct (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en myocardinfarct (op basis van de kennisgraaf"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Atenolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-27
+description: "Atenolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,89 +33,65 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-## Atenolol: Van hypertensie en myocardinfarct naar posteroinferieur myocardinfarct
+## Atenolol: bèta-1-selectieve bètablokker → Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Atenolol is een selectieve bètablokker (bèta-1), oorspronkelijk gebruikt voor hypertensie en myocardinfarct.
-Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **posteroinferieur myocardinfarct**, maar er zijn **0 geregistreerde klinische studies** en **1 publicatie** (een kleine gekruiste studie uit 1985) die deze richting ondersteunen. Deze voorspelling is bovendien geen echte herbestemming: het gaat om een anatomisch subtype van een indicatie waarvoor atenolol al is goedgekeurd.
-
----
+Atenolol is een bèta-1-selectieve bètablokker die de bloeddruk en de reninevrijgifte verlaagt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **maligne hypertensieve nierziekte (malignant hypertensive renal disease)**. Voor deze specifieke aandoening zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden, dus de voorspelling berust alleen op het model.
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie en myocardinfarct (op basis van de kennisgraaf; de tekst van de Nederlandse vergunning bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Posteroinferieur myocardinfarct |
-| TxGNN-voorspellingsscore | 99,87% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
-| Aantal vergunningen | 1 (geen geldig) |
-| Aanbevolen besluit | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0,9985 |
+| Evidenceniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling redelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+Gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport verzamelde gegevens. Op basis van de bekende farmacologie blokkeert atenolol selectief bèta-1-adrenoceptoren, waardoor de bloeddruk daalt en de reninevrijgifte afneemt. Dat maakt een rol bij een door hoge bloeddruk veroorzaakte nieraandoening theoretisch aannemelijk.
 
-Er zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van algemeen bekende informatie is atenolol een bèta-1-selectieve blokker. Door verlaging van hartfrequentie en contractiliteit vermindert het de zuurstofbehoefte van het myocard. Dat is een aannemelijk mechanisme bij myocardinfarct.
+De hoge score weerspiegelt waarschijnlijk vooral de nabijheid tot de bestaande bloeddrukgerelateerde toepassingen in het model. Er is geen aanwijzing voor een zelfstandig herpositioneringssignaal. Maligne hypertensie wordt bovendien meestal behandeld met getitreerde, parenteraal toegediende middelen, zodat een orale selectieve bètablokker daarvoor geen vanzelfsprekende keuze is.
 
-Het posteroinferieure infarct is een anatomisch subtype van het myocardinfarct, waarvoor atenolol al een bekende indicatie heeft. De hoge score weerspiegelt waarschijnlijk vooral de nabijheid in de ziekte-ontologie en niet een nieuw farmacologisch inzicht. Dit geldt ook voor de andere voorspelde infarctsubtypen (posterolateraal en septaal).
-
-Andere voorspelde indicaties in de gegevens, zoals maligne renovasculaire hypertensie, pulmonale hypertensie en chronische pulmonale hartziekte, hebben zwakker of tegenstrijdig bewijs. Bij pulmonale hypertensie worden bètablokkers doorgaans niet aanbevolen vanwege het risico op verminderde hartminuutvolume en bronchospasme.
-
----
-
-## Bewijs uit klinische studies
+## Klinische studies
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
----
+## Literatuur
 
-## Bewijs uit de literatuur
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | Gekruiste, enkelblinde gerandomiseerde studie | La Revue de médecine interne | Vergelijking van de anti-ischemische werking van atenolol (200 mg) en diltiazem (240 mg) bij 23 patiënten, 4 weken na een posteroinferieur of voorwandinfarct, met behulp van een computergestuurde inspanningstest |
-
----
+Er is momenteel geen gerelateerde literatuur beschikbaar voor deze aandoening.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 105226 | Atenolol Actavis 100 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
-
-Er is geen geldige vergunning voor atenolol meer in de gegevens van het CBG-MEB opgenomen.
-
----
+| RVG 105226 | Atenolol Actavis 100 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet vastgelegd in de lokale gegevens |
 
 ## Veiligheidsoverwegingen
 
-De volgende gegevens zijn afkomstig uit de kennisgraaf en niet uit de officiële productinformatie.
+**Geneesmiddelinteracties** (uit de DDInter-gegevens; in totaal 100 interacties gevonden, hieronder een selectie):
+- **Matig:** epinefrine, hydrocortison, hyoscyamine, bupropion, triamcinolon, morfine, acetohexamide, atropine, betamethason, budesonide en diverse calciumzouten (acetaat, carbonaat, citraat, gluconaat, lactaat, fosfaat)
+- **Gering:** acetylsalicylzuur, aluminiumhydroxide, attapulgiet
 
-- **Mogelijke contra-indicaties (kennisgraaf):** onder meer astma (inclusief allergisch en intrinsiek astma), atrioventriculair blok, ziekte van Raynaud, anafylaxie, diabetes mellitus (type 1 en 2) en diabetische ketoacidose, leverfalen, pancreatitis, systemische lupus erythematodes, psoriasis, jicht, anurie, hypercalciëmie, nefrocalcinose en stoornissen in het fosforgehalte, kaliumtekort, en angst-, neurotische en dysthyme stoornissen.
-- **Geneesmiddelinteracties:** 100 interacties gevonden. Voorbeelden van matige interacties zijn epinefrine, hydrocortison, hyoscyamine, bupropion, triamcinolon, morfine, acetohexamide, atropine, betamethason, budesonide en diverse calciumzouten. Acetylsalicylzuur, aluminiumhydroxide en attapulgiet zijn als licht (minor) ingedeeld.
-- **Aanvullende aandachtspunten:** atenolol wordt via de nieren uitgescheiden; bij nierfunctiestoornissen is dosisaanpassing nodig. Bij gelijktijdige longziekte (COPD, astma) is er een risico op bronchospasme.
-
-Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
-
----
+Voor waarschuwingen en contra-indicaties uit de productinformatie zijn in de verzamelde gegevens geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor volledige veiligheidsinformatie.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Het voorspelde posteroinferieure myocardinfarct is een subtype van een bestaande indicatie en geen echte herbestemming. Er is slechts één kleine, oude studie, geen geregistreerde klinische studies, en de enige Nederlandse vergunning is doorgehaald. De veiligheidsbeoordeling kan bovendien niet worden afgerond omdat officiële waarschuwingen en contra-indicaties ontbreken.
+- Voor maligne hypertensieve nierziekte is geen enkele klinische studie of publicatie gevonden; de voorspelling is uitsluitend modelmatig (L5) en biedt geen duidelijk onderscheidend herpositioneringssignaal ten opzichte van de bestaande bloeddrukverlagende toepassing.
 
-**Om verder te gaan is het volgende nodig:**
-- De SmPC en bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties).
-- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
-- Vaststellen of een actuele, geldige atenolol-vergunning in Nederland bestaat (via andere RVG-nummers).
-- Beoordelen of de voorspelling klinisch relevant is, gezien de overlap met de bestaande indicatie myocardinfarct.
-- Voor de overige voorspelde indicaties (pulmonale hypertensie, chronische pulmonale hartziekte, maligne renovasculaire hypertensie) eerst klinisch bewijs verzamelen voordat verdere stappen worden overwogen.
+**Om verder te gaan is nodig:**
+- Studies of gerichte literatuur naar atenolol bij (maligne) hypertensieve nierziekte
+- Een vergelijking met de huidige standaardbehandeling van maligne hypertensie
+- Verwerking van de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
+- Gegevens over het werkingsmechanisme uit DrugBank
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

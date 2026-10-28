@@ -6,9 +6,9 @@ nav_order: 212
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Lopinavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (bewijsniveau L4). Oorspronkelijke indicatie: HIV-infectie, aids (volgens de kennisgraaf"
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Lopinavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeven"
 ---
 
 # Lopinavir
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Lopinavir: Van hiv/aids naar simian immunodeficiency virus-infectie
+## Lopinavir: Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Lopinavir is een hiv-proteaseremmer die oorspronkelijk wordt gebruikt voor de be
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | HIV-infectie, aids (volgens de kennisgraaf; de geautoriseerde indicatietekst is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Simian immunodeficiency virus-infectie |
-| TxGNN-voorspellingsscore | 99,90% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) |
+| TxGNN-voorspellingsscore | 0.9990 |
 | Evidentieniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige handelsvergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

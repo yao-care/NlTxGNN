@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "partial-deletion-of-the-long-arm-of-chromosome-22",
-          "display": "partial deletion of the long arm of chromosome 22"
-        }
-      ],
-      "text": "partial deletion of the long arm of chromosome 22",
       "concept": {
         "text": "partial deletion of the long arm of chromosome 22"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9914
     }
   ]
 }

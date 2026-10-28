@@ -50,10 +50,10 @@ Lormetazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. De TxGNN-
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de vergunningsgegevens (indicatietekst ontbreekt); bekend gebruik: slapeloosheid |
 | Voorspelde nieuwe indicatie | Insomnia (slapeloosheid) |
-| TxGNN-voorspellingsscore | 99,98% |
+| TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -89,7 +89,7 @@ Slapeloosheid is de gevestigde toepassing van lormetazepam. De voorspelling beve
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: doorgehaald) |
+| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: geldig) |
 
 ---
 
@@ -113,7 +113,7 @@ Uit de literatuur komen wel de volgende aandachtspunten naar voren: afhankelijkh
 
 | Voorspelde indicatie | Bewijsniveau | Beslissing |
 |------|------|------|
-| Angst (anxiety) en angststoornis | L3 | Onderzoeksvraag; alleen indirect bewijs (farmacovigilantiestudie bij ouderen, oudere reviews) |
+| Angst (anxiety) en angststoornis | L5 | Onderzoeksvraag; alleen indirect bewijs (farmacovigilantiestudie bij ouderen, oudere reviews) |
 | Slaapstoornis (inslapen en doorslapen) | L3 | Proceed with Guardrails; in wezen dezelfde indicatie als slapeloosheid |
 | Alcoholontwenningsdelirium | L5 | Hold; mechanistisch plausibel, maar geen studies met lormetazepam |
 | Barbituraatmisbruik | L5 | Hold; alleen theoretische link, risico op misbruik en afhankelijkheid |

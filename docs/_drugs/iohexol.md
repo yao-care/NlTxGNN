@@ -46,19 +46,19 @@ Iohexol is een jodiumhoudend, niet-ionisch röntgencontrastmiddel dat wordt gebr
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van de Nederlandse vergunning (diagnostisch röntgencontrastmiddel) |
 | Voorspelde nieuwe indicatie | Insomnia |
-| TxGNN-voorspellingsscore | 99,87% |
+| TxGNN-voorspellingsscore | 0,9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
 Er is geen plausibele farmacologische verklaring gevonden. Iohexol is een in water oplosbaar, niet-ionisch jodiumhoudend contrastmiddel dat farmacologisch inert is en onveranderd via de nieren wordt uitgescheiden. Het heeft geen bekende werking op slaapregulerende systemen (GABA-erg, orexinerg, melatonerg of histaminerg).
 
-De zeer hoge score (0,9987) lijkt een artefact van de kennisgraaf, bijvoorbeeld door gedeelde interactieburen van geneesmiddelen, en wordt niet ondersteund door een farmacologische rationale. Gegevens over het oorspronkelijke werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens.
+De zeer hoge score (0,9987) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Gegevens over het oorspronkelijke werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens.
 
-Hetzelfde geldt voor de tweede voorspelling, angst (score 99,25%): iohexol heeft geen anxiolytische farmacologie. Angst komt in de gevonden literatuur alleen voor als procedurele context of als bijwerking van het onderzoek, niet als behandeldoel.
+Hetzelfde geldt voor de tweede voorspelling, angst (score 0,9925): iohexol heeft geen anxiolytische farmacologie. Angst komt in de gevonden literatuur alleen voor als procedurele context of als bijwerking van het onderzoek, niet als behandeldoel.
 
 ## Klinisch trialbewijs
 
@@ -79,7 +79,7 @@ Voor insomnia is momenteel geen gerelateerde literatuur beschikbaar. Voor de twe
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie (status: geldig) | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
@@ -106,7 +106,7 @@ Mannitol is geclassificeerd als "Moderate". Dit is een selectie uit de beschikba
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is geen plausibel werkingsmechanisme, geen klinische studie en geen relevante literatuur voor insomnia of angst. De hoge TxGNN-scores zijn waarschijnlijk een artefact van de kennisgraaf.
+- Er is geen plausibel werkingsmechanisme, geen klinische studie en geen relevante literatuur voor insomnia of angst. De hoge TxGNN-scores (0,9987 en 0,9925) komen van het TxGNN-model (deep learning) en kunnen overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
 - Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter.
 
 **Om verder te kunnen gaan is het volgende nodig:**

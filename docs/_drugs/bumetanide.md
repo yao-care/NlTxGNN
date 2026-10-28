@@ -48,10 +48,10 @@ Bumetanide is een lisdiureticum dat oorspronkelijk wordt gebruikt bij **congesti
 |------|------|
 | Oorspronkelijke indicatie | Congestief hartfalen |
 | Voorspelde nieuwe indicatie | Acute pulmonale hartziekte |
-| TxGNN-voorspellingsscore | 99,58% |
+| TxGNN-voorspellingsscore | 0,9958 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (geschrapt/ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -88,7 +88,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (registratie ingetrokken) |
+| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (registratie geldig) |
 
 ---
 

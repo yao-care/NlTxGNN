@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bimatoprost
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 57
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bimatoprost: voorspelde nieuwe indicatie Alopecia (haarverlies) (bewijsniveau L2). Oorspronkelijke indicatie: Open-hoekglaucoom, oculaire hypertensie…"
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
+last_modified_at: 2026-10-27
+description: "Bimatoprost: voorspelde nieuwe indicatie Malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal compon… (bewijsniveau L5). Oorspronkelijke in…"
 ---
 
 # Bimatoprost
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,125 +33,65 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Bimatoprost: Van glaucoom naar alopecia
+## Bimatoprost: prostaglandine-analoog (prostamide) → malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal component)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Bimatoprost is een prostamide-analoog (verwant aan prostaglandine F2α) dat oorspronkelijk wordt gebruikt voor open-hoekglaucoom en oculaire hypertensie, en voor de groei van wimpers bij hypotrichose. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alopecia (haarverlies)**. Hiervoor zijn **11 klinische studies** en **20 publicaties** gevonden, waaronder meerdere fase 2-studies bij androgenetische alopecia.
-
-> **Let op:** de voorspelling met de hoogste rangorde in het model (rang 1) is een afwijkende, zeldzame ontwikkelingsaandoening zonder enig bewijs. Dit rapport behandelt de voorspelling met het sterkste bewijs (alopecia, rang 8), omdat die het meest relevant is voor besluitvorming. Zie ook de laatste sectie voor een overzicht van alle voorspellingen.
-
----
+Bimatoprost is een prostamide-analoog (verwant aan prostaglandine F2-alfa) dat oogheelkundig wordt gebruikt. Het TxGNN-model voorspelt een mogelijke werking bij **malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal component)**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling berust uitsluitend op het model.
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Open-hoekglaucoom, oculaire hypertensie, hypotrichose van de wimpers (bron: kennisgraaf; de vergunningstekst in Nederland is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Alopecia (haarverlies) |
-| TxGNN-voorspellingsscore | 99,99% |
-| Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (geen geldige) |
-| Aanbevolen besluit | Hold (afwachten) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal component) |
+| TxGNN-voorspellingsscore | 0,9999 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling (on)aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Bimatoprost is een prostaglandine F2-alfa-analoog (prostamide) met werking via de FP-receptor.
 
-Bimatoprost is een synthetisch prostamide-analoog dat werkt via de FP-receptor/prostamide-route. Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Op basis van de literatuur verlengt bimatoprost de anagene (groei)fase van de haarfollikel en vergroot het de follikelgrootte en het aantal haren.
+Er is geen herkenbaar mechanistisch verband tussen deze werking en een ontwikkelingsmalformatiesyndroom met een tand- of parodontale component. De hoge modelscore is een voorspelling op basis van patroonherkenning, zonder ondersteunende studies of literatuur. De voorspelling moet daarom met grote terughoudendheid worden beoordeeld.
 
-Het verband met de oorspronkelijke indicatie is een bijwerking die klinisch bruikbaar bleek: patiënten die met prostaglandine-analogen voor glaucoom werden behandeld, kregen langere, donkerdere en dikkere wimpers. Dit leidde tot de goedgekeurde toepassing voor wimperhypotrichose (in de VS). De gedachte is dat dezelfde werking ook de haargroei op de hoofdhuid kan stimuleren.
+## Klinisch trialbewijs
 
-Er zijn wel kanttekeningen. De fase 2-resultaten hebben niet geleid tot registratie voor haarverlies op de hoofdhuid, en de werkzaamheid ten opzichte van bestaande behandelingen (zoals minoxidil) is niet bevestigd. Bij immuungemedieerde vormen zoals alopecia areata pakt het middel de onderliggende oorzaak niet aan.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
----
+## Literatuurbewijs
 
-## Bewijs uit klinische studies
-
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Fase 2 | Afgerond | 307 | Drie doses bimatoprost vs. vehikel en minoxidil 5% bij mannen met androgenetische alopecia |
-| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Fase 2 | Afgerond | 306 | Drie doses bimatoprost vs. vehikel en minoxidil 2% bij vrouwen met patroonmatig haarverlies |
-| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Fase 2 | Afgerond | 244 | Veiligheid en werkzaamheid bij mannen met androgenetische alopecia (tweede studie) |
-| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Fase 2 | Afgerond | 33 | Effect op androgeengevoelige haarfollikels van de hoofdhuid (mechanistisch) |
-| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Fase 1/2 | Afgerond | 30 | Bimatoprost 0,03% met fractionele CO2-laser bij alopecia areata (combinatie vertekent het effect van het middel) |
-| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Fase 1 | Afgerond | 42 | Veiligheid en farmacokinetiek van een nieuwe formulering bij alopecia |
-| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Fase 1 | Afgerond | 11 | Lokale farmacokinetiek en verdraagbaarheid op de hoofdhuid bij mannen met androgenetische alopecia |
-| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Fase 1 | Beëindigd | 53 | Dosis-escalatie: veiligheid, verdraagbaarheid en farmacokinetiek bij mannen met androgenetische alopecia |
-| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | Niet van toepassing | Afgerond | 14 | Latanoprost en bimatoprost voor wimpergroei bij alopecia areata (klein) |
-| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Fase 4 | Afgerond | 71 | Wimperhypotrichose bij kinderen (overlapt met de oorspronkelijke indicatie) |
-| [NCT00999557](https://clinicaltrials.gov/study/NCT00999557) | Niet van toepassing | Ingetrokken | 0 | Wenkbrauw- en wimpergroei na chemotherapie; geen inclusie, dus geen bewijs |
-
----
-
-## Bewijs uit de literatuur
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Prospectieve open-label studie | Dermatologic Therapy | Topisch bimatoprost bij verlies van wimpers bij alopecia totalis/universalis |
-| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Niet-gerandomiseerde open-label studie | Indian Dermatology Online Journal | Bimatoprost vs. clobetasolpropionaat bij alopecia areata van de hoofdhuid |
-| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Klinische studie | Archives of Dermatological Research | Combinatie van CO2-laser en bimatoprost bij alopecia areata |
-| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Review | Expert Opinion on Investigational Drugs | Bimatoprost bij alopecia van wimpers, wenkbrauwen en hoofdhuid |
-| [38794131](https://pubmed.ncbi.nlm.nih.gov/38794131/) | 2024 | Review | Pharmaceuticals (Basel) | Van oogzorg naar haargroei: toepassingen van bimatoprost |
-| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Review | Indian Dermatology Online Journal | Bimatoprost in de dermatologie (alopecia, vitiligo) |
-| [25601618](https://pubmed.ncbi.nlm.nih.gov/25601618/) | 2015 | Review | J Am Acad Dermatol | Alternatieve klinische toepassingen van prostaglandine F2α-analogen |
-| [23104985](https://pubmed.ncbi.nlm.nih.gov/23104985/) | 2013 | Review | FASEB Journal | Bimatoprost als nieuwe aanpak voor alopecia van de hoofdhuid |
-| [27377163](https://pubmed.ncbi.nlm.nih.gov/27377163/) | 2016 | Casusbeschrijving | Pediatric Dermatology | Succesvolle behandeling van alopecia areata bij een kind |
-| [33631058](https://pubmed.ncbi.nlm.nih.gov/33631058/) | 2021 | Systematische review en netwerk-meta-analyse | Dermatologic Therapy | Behandelingen voor alopecia areata |
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114803 | Bimatoprost ratiopharm 0,1 mg/ml, oogdruppels, oplossing | Oogdruppels, oplossing | Niet beschikbaar (vergunning doorgehaald) |
-
-De enige bekende vergunning bij het CBG-MEB is doorgehaald. Er is dus geen geldig product op de Nederlandse markt in de samengestelde data.
-
----
+| RVG 114803 | Bimatoprost ratiopharm 0,1 mg/ml, oogdruppels, oplossing | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties/waarschuwingen uit de kennisgraaf** (geen bijsluitertekst): lever- en galblaasaandoeningen, uveïtis, aandoeningen van iris en corpus ciliare (inclusief iritis en panuveïtis), en maculair/cystoïd maculair oedeem.
-- **Geneesmiddelinteracties:** 66 mogelijke interacties gevonden, waaronder met calcitriol, fentermine, pantoprazol, morfine, metformine, omeprazol, prednison, prednisolon en simvastatine. Het ernstniveau is bij alle vermelde interacties niet geclassificeerd (onbekend).
+De volgende punten zijn beschikbaar in de data die voor dit rapport is samengesteld:
 
-Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. De tekst van de bijsluiter van het CBG-MEB is niet verwerkt in de data van dit rapport.
+- **Geneesmiddelinteracties**: er zijn 66 interacties geregistreerd. Voor de weergegeven voorbeelden (o.a. calcitriol, fentermine, pantoprazol, morfine, metformine, omeprazol) is het ernstniveau niet bepaald ("onbekend"). Deze lijst is niet bruikbaar voor een klinische beoordeling zonder verdere verificatie.
+- **Aandoeningen waarbij voorzichtigheid is geboden** (op basis van databankrelaties, niet van bijsluitertekst): leverziekte, galblaasziekte, uveïtis, irisaandoeningen, aandoeningen van het corpus ciliare, panuveïtis, maculair oedeem/cystoïd maculaoedeem en iritis.
 
----
-
-## Overzicht van de overige voorspellingen
-
-| Rang | Aandoening | Bewijsniveau | Opmerking |
-|----|------|------|------|
-| 1 | Misvormingssyndroom met tand- en/of parodontale component | L5 | Geen aannemelijk verband; alleen modelvoorspelling |
-| 2 | Syndroom met Dandy-Walker-malformatie | L5 | Geen aannemelijk verband; waarschijnlijk artefact van de grafstructuur |
-| 3 | Geïsoleerde genetische haarschachtafwijking | L5 | Zwak, speculatief verband |
-| 4 | Ambras-type hypertrichosis universalis congenita | L5 | Richting waarschijnlijk onjuist: het middel veroorzaakt juist haargroei |
-| 5 | Hypotrichosis simplex van de hoofdhuid | L5 | Biologisch plausibel, maar geen directe studies |
-| 6 | Congenitale hypotrichose met milia | L5 | Alleen voorspelling |
-| 7 | Diffuse alopecia areata | L4 | Immuungemedieerd; slechts indirect bewijs |
-| 9 | Genetische alopecia | L3 | Alleen literatuur van lage kwaliteit |
-| 10 | Pulmonale arterioveneuze malformatie | L5 | Geen aannemelijk verband |
-
----
+Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het product via het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold (afwachten)**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor alopecia bestaan meerdere fase 2-studies (in totaal meer dan 850 deelnemers met androgenetische alopecia), maar de resultaten zijn niet gevolgd door registratie voor haarverlies op de hoofdhuid. De overige bewijsvoering bestaat uit reviews, kleine studies en een casusbeschrijving.
-- De enige Nederlandse vergunning is doorgehaald, en een blokkerend gegevenstekort in de veiligheidsinformatie van het CBG-MEB (bijsluiter) verhindert de verdere veiligheidsbeoordeling.
+- Er is geen enkel onderzoek of publicatie dat deze aandoening rechtstreeks onderzoekt, en er is geen plausibel werkingsmechanisme. Het bewijsniveau is L5 (alleen modelvoorspelling).
 
 **Om verder te gaan is nodig:**
-- De bijsluitertekst/SmPC van het CBG-MEB verwerken (waarschuwingen en contra-indicaties).
-- Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
-- De resultaten van de fase 2-studies (NCT01325337, NCT01325350, NCT01904721) analyseren en vergelijken met minoxidil.
-- Beoordelen of een toedieningsvorm voor de hoofdhuid beschikbaar of haalbaar is in Nederland.
-- Een veiligheidsplan opstellen voor de huid- en oogspecifieke risico's (zoals pigmentatie en oogirritatie).
+- Gegevens over het werkingsmechanisme van bimatoprost en een onderbouwd biologisch verband met deze aandoening
+- Preklinisch of klinisch onderzoek dat deze aandoening rechtstreeks betreft
+- Beoordeling van de SmPC-veiligheidsinformatie van het product bij het CBG-MEB
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluvastatin
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 164
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluvastatin: voorspelde nieuwe indicatie Hyperlipoproteïnemie (bewijsniveau L1). Oorspronkelijke indicatie: Arteriosclerose, atherosclerose…"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "fluvastatin"
-predicted_indications: ["hyperlipoproteinemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
+predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
+last_modified_at: 2026-10-23
+description: "Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Fluvastatin
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,85 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-## Fluvastatine: van hyperlipidemie en atherosclerose naar hyperlipoproteïnemie
+## Fluvastatin: Hiv-infectie (HIV infectious disease)
 {: .text-alpha }
 
-## Samenvatting
+## Samenvatting in één zin
 
-Fluvastatine is een statine (HMG-CoA-reductaseremmer) dat oorspronkelijk wordt gebruikt voor de behandeling van hyperlipidemie en atherosclerose. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **hyperlipoproteïnemie**, met **1 geregistreerde klinische studie** (die echter een ander middel onderzoekt) en **20 publicaties** in de data die voor dit rapport zijn samengesteld. De voorspelde indicatie ligt dicht bij de oorspronkelijke indicaties, dus het gaat eerder om een (bijna) geregistreerd gebruik dan om echte herpositionering.
-
----
+Fluvastatine is een statine.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hiv-infectie**.
+De ondersteuning bestaat uit **0 geregistreerde klinische studies** en **13 publicaties**. Geen daarvan toont aan dat fluvastatine de hiv-infectie zelf behandelt; de meeste gaan over het behandelen van hiv-gerelateerde dyslipidemie.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Arteriosclerose, atherosclerose, familiaire gecombineerde hyperlipidemie (de geregistreerde indicatietekst in de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Hyperlipoproteïnemie |
-| TxGNN-voorspellingsscore | 99,99% |
-| Evidenceniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (geschrapt) |
-| Aantal vergunningen | 1 (geschrapt) |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
-
----
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Voorspelde nieuwe indicatie | Hiv-infectie (HIV infectious disease) |
+| TxGNN-voorspellingsscore | 0.9988 |
+| Bewijsniveau | L5 |
+| Status in Nederland | In de handel |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Fluvastatine remt het enzym HMG-CoA-reductase. Daardoor daalt de cholesterolsynthese in de lever en nemen de LDL-receptoren toe, waardoor het LDL-cholesterol in het bloed daalt. Dit is het bekende lipidenverlagende werkingsmechanisme van het middel. Gegevens over het werkingsmechanisme uit DrugBank ontbreken in de samengestelde data; bovenstaande beschrijving berust op de algemeen bekende farmacologie van statines.
+Gegevens over het werkingsmechanisme zijn op dit moment niet beschikbaar in de voor dit rapport samengestelde data. Fluvastatine is een statine (HMG-CoA-reductaseremmer). Het wordt gebruikt bij hypercholesterolemie en preventie van hart- en vaatziekten, en mechanistisch zou het via effecten op lipiden en ontsteking relevant kunnen zijn voor hiv.
 
-Hyperlipoproteïnemie en de oorspronkelijke indicaties (hyperlipidemie, atherosclerose) hangen nauw samen: allemaal betreffen ze verhoogde lipoproteïnen in het bloed. Daarom is het mechanisme direct toepasbaar. Let op: dit is grotendeels een indicatie binnen of vlak bij de bestaande indicaties, geen echte herpositionering.
+De literatuur beschrijft vooral het gebruik van fluvastatine bij **hiv-geassocieerde dyslipidemie**, dus bij een complicatie van hiv of antiretrovirale therapie, niet bij de behandeling van het virus zelf. Fluvastatine wordt vooral door CYP2C9 gemetaboliseerd en is geen sterk CYP3A4-substraat. Daardoor is het risico op geneesmiddelinteracties met proteaseremmers lager dan bij andere statines.
 
-De enige vermelde klinische studie (NCT03510715) onderzoekt alirocumab, niet fluvastatine. Het directe bewijs komt dus uit de literatuur, waaronder gerandomiseerde studies naar fluvastatine en de combinatie met fibraten.
+Er zijn secundaire hypothesen: minder immuunactivatie en ontsteking, een beschermend effect op podocyten bij hiv-geassocieerde nefropathie (alleen in een muismodel) en een mogelijke aanvullende rol bij hiv/HCV-co-infectie naast gepegyleerd interferon en ribavirine. Een pilotstudie roept bovendien de vraag op of fluvastatine HCV-replicatie in vivo juist zou kunnen bevorderen. De hoge TxGNN-score is consistent met deze signalen, maar is op zichzelf geen klinisch bewijs.
 
----
+Het bewijsniveau is L5: geen enkele geciteerde studie toont aan dat fluvastatine de hiv-infectie zelf behandelt.
 
 ## Bewijs uit klinische studies
 
-| Studienummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fase 3 | Afgerond | 18 | Open-label studie met alirocumab (PCSK9-remmer) bij kinderen en adolescenten met homozygote familiaire hypercholesterolemie. Onderzoekt fluvastatine niet en geeft dus geen direct bewijs. |
-
----
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | RCT | Clinical Therapeutics | Vergelijking van fluvastatine met verlengde afgifte (80 mg) en met directe afgifte bij primaire hypercholesterolemie |
-| [15598476](https://pubmed.ncbi.nlm.nih.gov/15598476/) | 2004 | RCT | Clinical Therapeutics | Fluvastatine + fenofibraat versus fluvastatine alleen bij gecombineerde hyperlipidemie, type 2-diabetes en coronaire hartziekte (12 maanden, dubbelblind) |
-| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | RCT | Acta Paediatrica | Werkzaamheid en veiligheid van fluvastatine bij kinderen en adolescenten met heterozygote familiaire hypercholesterolemie |
-| [10856536](https://pubmed.ncbi.nlm.nih.gov/10856536/) | 2000 | Klinische studie | Atherosclerosis | FACT-studie: fluvastatine met bezafibraat bij gemengde hyperlipidemie (333 patiënten, dubbelblind gerandomiseerd) |
-| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | Klinische studie | Eur J Clin Pharmacol | Hooggedoseerd fluvastatine bij 52 patiënten met familiaire hypercholesterolemie |
-| [7604789](https://pubmed.ncbi.nlm.nih.gov/7604789/) | 1995 | Klinische studie | Am J Cardiol | Effect van fluvastatine op lipidenprofiel en apolipoproteïnen bij 31 Chinese patiënten met hypercholesterolemie |
-| [10067240](https://pubmed.ncbi.nlm.nih.gov/10067240/) | 1998 | Cohort | Terapevticheskii Arkhiv | Variabiliteit van het lipidenverlagende effect van simvastatine en fluvastatine bij primaire hyperlipoproteïnemie |
-| [8462180](https://pubmed.ncbi.nlm.nih.gov/8462180/) | 1993 | Review | Circulation | Overzicht van 25 jaar medicamenteuze behandeling van dyslipoproteïnemie, met nadruk op fluvastatine |
-| [11347136](https://pubmed.ncbi.nlm.nih.gov/11347136/) | 2001 | Review | Nihon Rinsho | Overzichtsartikel over fluvastatine |
-| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clinical Therapeutics | Overzicht over rosuvastatine bij hyperlipidemie (betreft een ander statine) |
-
----
+| [12351967](https://pubmed.ncbi.nlm.nih.gov/12351967/) | 2002 | Klinische studie | AIDS | Werkzaamheid en veiligheid van fluvastatine bij hyperlipidemische hiv-patiënten die proteaseremmers gebruiken |
+| [15293079](https://pubmed.ncbi.nlm.nih.gov/15293079/) | 2004 | Klinische studie | Infection | Fluvastatine versus pravastatine bij hiv-patiënten op antiretrovirale therapie; werkzaamheid en interactie met indinavir |
+| [16868453](https://pubmed.ncbi.nlm.nih.gov/16868453/) | 2006 | Gerandomiseerde studie (indirect) | AIDS | Ezetimib verlaagde LDL-cholesterol met 20%, vergelijkbaar met fluvastatine 80 mg (24%) bij hiv-patiënten |
+| [20118492](https://pubmed.ncbi.nlm.nih.gov/20118492/) | 2010 | Open-label gerandomiseerde studie | J Antimicrob Chemother | Fluvastatine als aanvulling op gepegyleerd interferon en ribavirine bij hiv/HCV-genotype 1-co-infectie |
+| [19215577](https://pubmed.ncbi.nlm.nih.gov/19215577/) | 2009 | Pilotstudie | J Viral Hepat | Vraagstelling of fluvastatine HCV-replicatie in vivo bevordert bij hiv/HCV-co-infectie |
+| [33238713](https://pubmed.ncbi.nlm.nih.gov/33238713/) | 2021 | Cohortstudie | AIDS Res Hum Retroviruses | Statinegebruik en biomarkers van ontsteking en immuunactivatie bij hiv-patiënten op effectieve antiretrovirale therapie |
+| [19838098](https://pubmed.ncbi.nlm.nih.gov/19838098/) | 2010 | RCT (indirect) | AIDS | Rosuvastatine versus pravastatine bij dyslipidemische hiv-patiënten op proteaseremmers; fluvastatine niet onderzocht |
+| [23703578](https://pubmed.ncbi.nlm.nih.gov/23703578/) | 2013 | Review | Clin Pharmacokinet | Geneesmiddelinteracties tussen statines en antivirale proteaseremmers |
+| [12660532](https://pubmed.ncbi.nlm.nih.gov/12660532/) | 2003 | Review | AIDS | Rol van statines en fibraten bij hyperlipidemie bij hiv-patiënten op HAART |
+| [19188342](https://pubmed.ncbi.nlm.nih.gov/19188342/) | 2009 | Preklinisch (muis) | Nephrol Dial Transplant | Fluvastatine voorkomt podocytschade in een muismodel van hiv-geassocieerde nefropathie |
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | Tablet met verlengde afgifte | Niet beschikbaar (vergunning doorgehaald) |
-
-Er is één vergunning, en die is doorgehaald. Er is momenteel dus geen geldig fluvastatineproduct met een CBG-MEB-registratie in de samengestelde data.
-
----
+| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | Tablet met verlengde afgifte | Niet beschikbaar in de data |
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf (geen bijsluitertekst):** leverziekte, galblaasziekte, myopathie, spierziekten, skeletspierziekten, familiaire periodieke paralyse, hypotensieve aandoeningen, middelenmisbruik/-afhankelijkheid, rabdomyolyse, nodulaire fasciitis en letsel.
-- **Geneesmiddeleninteracties:** in totaal 187 interacties gevonden. Voorbeelden van matige interacties: aprepitant, metronidazol, oxandrolon, naltrexon, nateglinide, nitisinon, rosuvastatine, simvastatine, tinidazol, glyburide en pectine. Het risico van gelijktijdig gebruik met andere statines (rosuvastatine, simvastatine) vraagt bijzondere aandacht.
 
-Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken), aangezien de teksten van de CBG-MEB-bijsluiter niet beschikbaar waren.
+- **Contra-indicaties volgens de kennisgraaf**: leverziekte, galblaasziekte, myopathie, spierziekte, skeletspierziekte, familiaire periodieke paralyse, hypotensieve aandoening, middelenmisbruik/-afhankelijkheid, rabdomyolyse, nodulaire fasciitis en letsel.
+- **Geneesmiddelinteracties**: er zijn 187 interacties gevonden. Matige interacties zijn onder meer aprepitant, metronidazol, oxandrolon, naltrexon, nateglinide, nitisinon, rosuvastatine, simvastatine, tinidazol, glibenclamide en pectine. Voor andere stoffen is het niveau onbekend, zoals calcitriol, doxycycline, cimetidine, epinefrine, mannitol, dicyclomine, famotidine, acetylsalicylzuur en pantoprazol.
+- Bij combinatie met hiv-proteaseremmers is het interactierisico bij fluvastatine lager dan bij andere statines, maar dit moet per regime worden beoordeeld.
 
----
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de officiële waarschuwingen en contra-indicaties.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails (doorgaan met waarborgen)**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Er zijn meerdere gerandomiseerde studies naar fluvastatine bij hyperlipidemie en familiaire hypercholesterolemie, maar de voorspelde indicatie overlapt grotendeels met de bestaande indicaties. De enige geregistreerde studie betreft een ander middel, en de enige Nederlandse vergunning is doorgehaald.
+Er is geen enkele geregistreerde klinische studie en geen studie die aantoont dat fluvastatine de hiv-infectie zelf behandelt. De literatuur betreft vooral het beheersen van dyslipidemie bij hiv en indirecte of preklinische signalen. Daarom geldt bewijsniveau L5.
 
 **Om verder te gaan is nodig:**
-- De SmPC/bijsluiter van CBG-MEB downloaden en analyseren (waarschuwingen en contra-indicaties ontbreken nu; dit is een blokkerend gegeven voor de veiligheidsscreening)
-- Gegevens over het werkingsmechanisme uit DrugBank aanvullen
-- Vaststellen of er een geldig fluvastatineproduct in Nederland beschikbaar is of dat een nieuwe registratie nodig is
-- De 187 geneesmiddeleninteracties beoordelen, vooral met andere lipidenverlagers en CYP2C9-gerelateerde middelen
-- Een veiligheidsmonitoringplan opstellen voor risicogroepen (lever- en spieraandoeningen)
-
----
-
-## Overige voorspelde indicaties (ter oriëntatie)
-
-| Voorspelde indicatie | Score | Evidenceniveau | Beslissing |
-|---|---|---|---|
-| Homozygote familiaire hypercholesterolemie | 99,97% | L4 | Onderzoeksvraag; werking waarschijnlijk beperkt door defecte LDL-receptoren |
-| Familiaire hypercholesterolemie | 99,89% | L1 | Proceed with Guardrails; fase 3-studie [NCT00171236](https://clinicaltrials.gov/study/NCT00171236) bij kinderen met heterozygote FH (n=84, afgerond) |
-| Hiv-infectie | 99,88% | L3 | Onderzoeksvraag; het bewijs betreft vooral behandeling van dyslipidemie bij hiv-patiënten, niet van hiv zelf |
-| Overige (o.a. cholesterol-7α-hydroxylasedeficiëntie, CETP-deficiëntie, neurodevelopmental disorder, SIV, feline aids, fibroom van de prostaat) | 99,75–99,89% | L5 | Hold; uitsluitend modelvoorspelling zonder studies of literatuur |
+- Gegevens over het werkingsmechanisme van fluvastatine
+- Het ophalen van de bijsluiter-/SmPC-tekst van het CBG-MEB (waarschuwingen, contra-indicaties, goedgekeurde indicatie van Lescol XL)
+- Gecontroleerde studies die het effect op hiv zelf (virale last, immuunactivatie, ontsteking) onderzoeken
+- Een duidelijke afbakening of het doel de behandeling van hiv-infectie is of de behandeling van hiv-geassocieerde dyslipidemie
+- Aanvullend onderzoek naar het mogelijke effect op HCV-replicatie bij hiv/HCV-co-infectie
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

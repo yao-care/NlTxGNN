@@ -4,17 +4,17 @@ title: Betamethasone
 parent: Sterk bewijs (L1-L2)
 nav_order: 54
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Betamethasone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Auto-immuunziekte, huiduitslag, ziekte van Crohn…"
+indication_count: 8
 monitor_inn: "betamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+last_modified_at: 2026-10-27
+description: "Betamethasone: voorspelde nieuwe indicatie alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,101 +33,87 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Betamethason: Van auto-immuun- en ontstekingsziekten naar alopecia areata
+## Betamethason: glucocorticoïd met ontstekingsremmende en immuunonderdrukkende werking → alopecia areata (alopecia areata)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Betamethason is een krachtig corticosteroïd dat oorspronkelijk wordt gebruikt bij onder meer auto-immuunziekten, huidaandoeningen, de ziekte van Crohn en bijnierinsufficiëntie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia areata** (plekkerige haaruitval), met **6 klinische studies** en **20 publicaties** die in de data voor dit rapport zijn gevonden. Betamethason is in de meeste studies echter vooral de vergelijkingsbehandeling, niet de nieuw geteste interventie.
-
----
+Betamethason is een krachtig corticosteroïd met ontstekingsremmende en immuunonderdrukkende werking.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alopecia areata (alopecia areata)**,
+met **6 klinische studies** (waarvan 1 afgeronde fase 2-studie met betamethason als onderdeel van een vergelijkende arm) en **20 publicaties** in de data die voor dit rapport is samengesteld.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Auto-immuunziekte, huiduitslag, ziekte van Crohn, bijnierinsufficiëntie, acute lymfatische leukemie (indicaties uit de kennisgraaf; de tekst van het Nederlandse product is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Alopecia areata |
-| TxGNN-voorspellingsscore | 99,97% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | alopecia areata (alopecia areata) |
+| TxGNN-voorspellingsscore | 0,9997 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (doorgehaald) |
-| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Doorgaan met randvoorwaarden |
 
----
+## Waarom is deze voorspelling redelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+Alopecia areata is een T-celgemedieerde auto-immuunziekte waarbij het immuunprivilege van de haarfollikel verloren gaat. Dit leidt tot niet-littekenvormend haarverlies op de hoofdhuid of elders op het lichaam.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data voor dit rapport. Betamethason is een krachtig glucocorticoïd met ontstekingsremmende en immuunonderdrukkende werking, onder meer via onderdrukking van cytokineproductie en T-celactiviteit.
-
-Alopecia areata is een T-cel-gemedieerde auto-immuunziekte waarbij de immuunbescherming van de haarfollikel verloren gaat. Dit past bij de bestaande auto-immuunindicaties van betamethason. In de praktijk worden lokale (crème, oplossing), intralesionale en orale mini-pulsschema's gebruikt.
-
-Overige voorspellingen met lagere rangorde (o.a. alopecia mucinosa, telogeen effluvium, folliculitis decalvans, idiopathisch steroïdgevoelig nefrotisch syndroom) hebben hooguit beperkt bewijs (enkele oude casusbeschrijvingen of geen enkel bewijs) en worden hier niet verder uitgewerkt. Voor de overige alopecia-gerelateerde voorspellingen (zoals erfelijke vormen) ontbreekt een aannemelijk werkingsmechanisme.
-
----
+Betamethason is een krachtig glucocorticoïd dat cytokineproductie en T-celactiviteit onderdrukt. Dat past bij het auto-immuunkarakter van de ziekte. In de praktijk worden lokale (topicale), intralesionale en orale mini-pulsschema's gebruikt. Gedetailleerde gegevens over het werkingsmechanisme zijn in de data niet beschikbaar; de bovenstaande redenering berust op de bekende farmacologie van de stofklasse.
 
 ## Bewijs uit klinische studies
 
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fase 2 | Afgerond | 60 | Wekelijkse azathioprinepuls vs. orale betamethason-minipuls bij matige tot ernstige alopecia areata; resultaten niet beschikbaar |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | N.v.t. | Onbekend | 59 | Topisch cetirizine 1% vs. topisch betamethasonvaleraat 0,1% bij gelokaliseerde alopecia areata; betamethason is vergelijker |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fase 4 | Afgerond | 50 | Topisch latanoprost vs. topisch corticosteroïd (betamethason) bij gelokaliseerde alopecia areata |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Fase 1 | Onbekend | 60 | Topisch pentoxifylline/metformine vs. betamethasonvaleraat 0,1% bij plekkerige alopecia areata |
-| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | N.v.t. | Nog niet gestart met werven | 60 | Combinatie van metformine 30%, simvastatine 2% en betamethasonvaleraat 0,1%; bijdrage van betamethason niet te isoleren |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fase 4 | Werft | 250 | Centraal centrifugaal cicatriciële alopecia (een littekenvormende alopecia, dus slechts indirect relevant) |
+| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fase 2 | Afgerond | 60 | Wekelijkse azathioprinepulsen versus orale betamethason-minipulsen bij matige tot ernstige alopecia areata; resultaten niet beschikbaar |
+| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fase 4 | Afgerond | 50 | Gerandomiseerde vergelijking van topisch latanoprost met een topisch corticosteroïd (betamethason) bij gelokaliseerde alopecia areata |
+| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | n.v.t. | Onbekend | 59 | Topisch cetirizine 1% versus topisch betamethasonvaleraat 0,1% bij gelokaliseerde alopecia areata |
+| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Fase 1 | Onbekend | 60 | Topisch pentoxifylline/metformine versus betamethasonvaleraat 0,1% bij plekvormige alopecia areata |
+| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | n.v.t. | Nog niet gestart met werving | 60 | Topische combinatie van metformine, simvastatine en betamethasonvaleraat; bijdrage van betamethason niet los te zien |
+| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fase 4 | Werving loopt | 250 | Centrale centrifugale cicatriciële alopecia (een andere, littekenvormende alopecia); slechts indirect relevant |
 
----
+In de meeste studies is betamethason de vergelijker (comparator) en niet de onderzochte nieuwe interventie.
 
 ## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-analyse | Cochrane Database Syst Rev | Netwerkmeta-analyse van behandelingen voor alopecia areata (immunosuppressiva, haargroeistimulantia, contactimmunotherapie) |
-| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | Microneedle-toediening van samengesteld betamethason bij alopecia areata, als pijnarmer alternatief voor intralesionale injectie |
-| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iran J Pharm Res | Orale betamethasonpuls, methotrexaat en combinatie bij ernstige alopecia areata (placebogecontroleerd, dubbelblind, 36 patiënten) |
-| [38623137](https://pubmed.ncbi.nlm.nih.gov/38623137/) | 2024 | RCT | Cureus | Topisch betamethasondipropionaat vs. topisch minoxidil |
-| [36114868](https://pubmed.ncbi.nlm.nih.gov/36114868/) | 2023 | RCT | Arch Dermatol Res | Fractionele CO2-laser alleen of gecombineerd met betamethasonvaleraatcrème (30 patiënten) |
-| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT | Dermatol Ther | Latanoprost vs. minoxidil, betamethason en combinaties (zes groepen van 18) |
-| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT (binnen-patiënt) | J Dermatol Treat | Intralesionaal betamethason vs. triamcinolonacetonide bij gelokaliseerde alopecia areata |
-| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Cohort | Cureus | Werkzaamheid en veiligheid van orale betamethason-minipulsen bij matige tot ernstige alopecia areata |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatol Pract Concept | Werkzaamheid, terugvalpercentages en bijwerkingen van corticosteroïdpulstherapie bij alopecia areata |
-| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | Vergelijkende studie | Ann Dermatol | Orale ciclosporine vs. betamethason-minipulstherapie |
-
----
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-analyse | Cochrane Database Syst Rev | Netwerkmeta-analyse van behandelingen voor alopecia areata |
+| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | Microneedle-toediening van samengesteld betamethason als minder pijnlijk alternatief voor intralesionale injectie |
+| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iran J Pharm Res | Orale betamethasonpulsen, methotrexaat en combinatie bij ernstige alopecia areata (placebogecontroleerd, dubbelblind) |
+| [38623137](https://pubmed.ncbi.nlm.nih.gov/38623137/) | 2024 | RCT | Cureus | Topisch betamethasondipropionaat versus topisch minoxidil |
+| [36114868](https://pubmed.ncbi.nlm.nih.gov/36114868/) | 2023 | RCT | Arch Dermatol Res | Fractionele CO2-laser alleen of met betamethasonvaleraatcrème |
+| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT | Dermatol Ther | Latanoprost versus minoxidil, betamethason en combinaties |
+| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT | J Dermatolog Treat | Intralesionaal betamethason versus triamcinolonacetonide (within-patient RCT) |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatol Pract Concept | Werkzaamheid, terugvalpercentages en bijwerkingen van corticosteroïdpulstherapie |
+| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Cohortstudie | Cureus | Orale betamethason-minipulsen bij matige tot ernstige alopecia areata |
+| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | Vergelijkende studie | Ann Dermatol | Orale ciclosporine versus betamethason-minipulstherapie |
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108000//101496 | Xamiol 50 microgram/0,5 mg/g, gel | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 108000//101496 | Xamiol 50 microgram/ 0,5 mg/ g, gel | Gel | – |
 
-De enige in de data voor dit rapport gevonden vergunning (CBG-MEB) is doorgehaald. Er is dus momenteel geen geldige registratie van een product met alleen betamethason in deze dataset. Controleer de actuele status in het register van het CBG-MEB.
-
----
+Dit is een combinatieproduct (met calcipotriol) en zegt dus niets over de registratie van betamethason als enkelvoudig middel. Raadpleeg voor de actuele status de CBG-MEB.
 
 ## Veiligheidsoverwegingen
 
-- **Geneesmiddelinteracties**: In totaal zijn 1.883 interacties gevonden. Voorbeelden: adalimumab (**ernstig**); zidovudine, isotretinoïne, acarbose, ibuprofen, ketorolac, nifedipine, ethinylestradiol en fluvoxamine (**matig**); formoterol en salbutamol (**licht**).
-- **Aandoeningen waarbij voorzichtigheid is geboden** (uit de kennisgraaf, niet uit bijsluitertekst): onder meer hypertensie, hartfalen, epilepsie, hyperglykemie, mazelen, herpes-simplexkeratitis en verschillende hypofyse-insufficiënties.
-
-Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
-
----
+- **Geneesmiddelinteracties**: in de data zijn 1883 interacties vastgelegd. Een van de belangrijkste is die met **adalimumab (ernstig niveau)**. Daarnaast worden onder meer matige interacties genoemd met isotretinoïne, ketorolac, ibuprofen, nifedipine, acetazolamide, acarbose, zidovudine en fluvoxamine; salbutamol en formoterol zijn van laag niveau.
+- Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het betreffende product.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
+**Besluit: Doorgaan met randvoorwaarden**
 
 **Onderbouwing:**
-- Voor alopecia areata zijn meerdere gerandomiseerde studies en een fase 2-studie beschikbaar, en de werking past bij het auto-immuunmechanisme. Het bewijs is echter vooral vergelijkend, met kleine studies en zonder fase 3-bevestiging, en de voorspellingen voor de overige aandoeningen (rang 2–10) rechtvaardigen nu alleen "Hold" of nader onderzoek.
+- Er zijn meerdere gerandomiseerde studies en een afgeronde fase 2-studie bij alopecia areata waarin betamethason (lokaal, intralesionaal of oraal in minipulsen) is onderzocht. Het gaat vaak om vergelijkende opzetten met kleine groepen, en resultaten van de fase 2-studie zijn niet beschikbaar.
 
-**Om verder te gaan is nodig:**
-- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB (blokkerende datalacune voor de veiligheidsscreening)
-- Gegevens over het werkingsmechanisme (bijv. via DrugBank)
-- Resultaten van NCT06786689 en een beoordeling van grotere, gecontroleerde studies
-- Een actueel overzicht van geldige Nederlandse registraties en toedieningsvormen (lokaal, intralesionaal, oraal)
-- Een veiligheidsplan voor systemisch gebruik (mini-puls), met monitoring van bloeddruk en glucose
+**Hiervoor is nodig:**
+- Resultaten en analyse van de afgeronde studies, met name NCT06786689.
+- Beoordeling van de SmPC en de bijsluiter (PIL) voor waarschuwingen en contra-indicaties, aangezien deze gegevens ontbreken.
+- Gegevens over het werkingsmechanisme en een beoordeling van de toedieningsroute (topisch, intralesionaal, oraal) bij de beoogde patiëntengroep.
+- Een veiligheidsmonitoringsplan, vooral bij langdurig of systemisch gebruik en bij gelijktijdig gebruik van immuunonderdrukkende middelen zoals adalimumab.
+- Afstemming met de CBG-MEB over de regelgevende route voor deze nieuwe indicatie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

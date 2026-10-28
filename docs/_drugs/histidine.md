@@ -48,10 +48,10 @@ Histidine is een essentieel aminozuur en een voorloper van histamine. Voor deze 
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar (de enige vergunning bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Gastroparese |
-| TxGNN-voorspellingsscore | 99,55% |
+| TxGNN-voorspellingsscore | 0,9955 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (geen geldige) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---
@@ -82,7 +82,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 105718 | OLIMEL N9, emulsie voor infusie (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 105718 | OLIMEL N9, emulsie voor infusie (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
 Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is. De vergunning is doorgehaald.
 
@@ -102,7 +102,7 @@ Voor aanvullende veiligheidsinformatie, waaronder waarschuwingen en interacties,
 
 ## Tweede voorspelling ter vergelijking: scleroserende cholangitis
 
-De tweede voorspelling (TxGNN-score 99,27%) verdient een korte toelichting, omdat het bewijs hier inhoudelijk tegen het gebruik van histidine wijst. Er zijn 8 publicaties, voornamelijk preklinisch (bewijsniveau L4). Histidine is de grondstof voor histamine. Muisstudies laten zien dat het **remmen** van histaminesignalering galwegschade en fibrose vermindert (PMID 27351144, 32054995, 29601088, 35799467). Aanvulling met histidine zou daarom neutraal of zelfs schadelijk kunnen zijn. Er zijn geen klinische studies. Dit is geen basis voor herpositionering; hooguit een onderzoeksvraag.
+De tweede voorspelling (TxGNN-score 0,9927) verdient een korte toelichting, omdat het bewijs hier inhoudelijk tegen het gebruik van histidine wijst. Er zijn 8 publicaties, voornamelijk preklinisch (bewijsniveau L4). Histidine is de grondstof voor histamine. Muisstudies laten zien dat het **remmen** van histaminesignalering galwegschade en fibrose vermindert (PMID 27351144, 32054995, 29601088, 35799467). Aanvulling met histidine zou daarom neutraal of zelfs schadelijk kunnen zijn. Er zijn geen klinische studies. Dit is geen basis voor herpositionering; hooguit een onderzoeksvraag.
 
 ---
 
@@ -118,7 +118,7 @@ De tweede voorspelling (TxGNN-score 99,27%) verdient een korte toelichting, omda
 - Productinformatie van CBG-MEB (SmPC, waarschuwingen en contra-indicaties); dit ontbreekt en blokkeert de veiligheidsbeoordeling
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - Preklinisch of mechanistisch onderzoek naar een effect van histidine op maagmotiliteit
-- Beoordeling van de nier-, hart- en stofwisselingsrisico's uit de kennisgraaf voordat enige klinische toepassing wordt overwogen
+- Beoordeling van de nier-, hart- en stofwisselingsrisico's voordat enige klinische toepassing wordt overwogen
 - Vaststelling van toedieningsroute en doseringsvorm voor de beoogde indicatie
 ## Disclaimer
 

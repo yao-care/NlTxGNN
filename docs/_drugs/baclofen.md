@@ -48,10 +48,10 @@ Baclofen is een GABA-B-receptoragonist die wordt gebruikt bij spasticiteit. In d
 |------|------|
 | Oorspronkelijke indicatie | Spasticiteit (algemeen bekend gebruik; de tekst van de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | ADHD (attention deficit-hyperactivity disorder) |
-| TxGNN-voorspellingsscore | 99,32% |
+| TxGNN-voorspellingsscore | 0,9932 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geannuleerde) vergunning |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -94,9 +94,9 @@ Er zijn 9 publicaties gevonden. Geen daarvan onderzoekt baclofen bij ADHD.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie/infusie (status: doorgehaald) | – | – |
+| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie/infusie (status: geldig) | – | – |
 
-Er is geen geldige vergunning meer. Voor de actuele situatie en de goedgekeurde indicaties zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) leidend.
+Er is 1 geldige vergunning (van 1 vergunning in totaal); het middel is in Nederland op de markt. Voor de actuele situatie en de goedgekeurde indicaties zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) leidend.
 
 ---
 
@@ -116,7 +116,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC en de bijs
 
 Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs. Deze staat apart van het bovenstaande, dat zich op ADHD richt.
 
-- TxGNN-score: 99,19%. Bewijsniveau: L2. Aanbeveling in de gegevens: onderzoeksvraag.
+- TxGNN-score: 0,9919. Bewijsniveau: L2. Aanbeveling in de gegevens: onderzoeksvraag.
 - Onderbouwing: baclofen dempt via GABA-B de dopamine-afgifte in het mesolimbische beloningssysteem. Dierstudies (PMID [24553576](https://pubmed.ncbi.nlm.nih.gov/24553576/), [18682277](https://pubmed.ncbi.nlm.nih.gov/18682277/)) tonen verminderde nicotinebeloning en minder onthoudingsverschijnselen.
 - Menselijke gegevens zijn beperkt en klein van opzet:
 
@@ -140,7 +140,7 @@ Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs
 - Waarschuwingen en contra-indicaties uit de SmPC van CBG-MEB.
 - Gegevens over het werkingsmechanisme van baclofen uit DrugBank.
 - Preklinisch of klinisch onderzoek dat baclofen rechtstreeks bij ADHD onderzoekt.
-- Beoordeling van het risico bij psychiatrische comorbiditeit en epilepsie, gezien de signalen uit de kennisgraaf.
+- Beoordeling van het risico bij psychiatrische comorbiditeit en epilepsie, gezien de score van het TxGNN-model (deep learning); deze score kan gelijkenissen tussen verwante aandoeningen weerspiegelen die het model heeft geleerd, en is geen biologisch bewijs.
 - Voor nicotineafhankelijkheid: een adequaat opgezette fase 2/3-studie naar werkzaamheid bij rookstop.
 ## Disclaimer
 

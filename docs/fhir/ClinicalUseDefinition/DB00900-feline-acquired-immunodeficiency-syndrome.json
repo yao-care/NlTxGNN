@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB00900",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB00900"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "feline-acquired-immunodeficiency-syndrome",
-          "display": "feline acquired immunodeficiency syndrome"
-        }
-      ],
-      "text": "feline acquired immunodeficiency syndrome"
+      "concept": {
+        "text": "feline acquired immunodeficiency syndrome"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9933
     }
   ]
 }

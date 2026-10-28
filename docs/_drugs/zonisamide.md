@@ -4,17 +4,17 @@ title: Zonisamide
 parent: Alleen modelvoorspelling (L5)
 nav_order: 347
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de registratiegegevens (bekend gebruik: epilepsie)"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
+description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Zonisamide: Van epilepsie naar Tourette-syndroom
+## Zonisamide: Tourette-syndroom (Tourette syndrome)
 {: .text-alpha }
 
 ## Samenvatting
@@ -44,12 +44,12 @@ Zonisamide is een geneesmiddel uit de groep van de anti-epileptica. De oorspronk
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vermeld in de registratiegegevens (bekend gebruik: epilepsie) |
-| Voorspelde nieuwe indicatie | Tourette-syndroom |
-| TxGNN-voorspellingsscore | 99,85% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Tourette-syndroom (Tourette syndrome) |
+| TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) registratie |
-| Aantal registraties | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,7 +72,7 @@ Momenteel geen gerelateerde literatuur beschikbaar over zonisamide bij Tourette-
 |---------|------|------|-----------|
 | RVG 117887 | Zonisamide Aristo 100 mg harde capsules | Harde capsule | Niet vermeld |
 
-Deze registratie is doorgehaald. Op dit moment is er dus geen geldige handelsvergunning voor zonisamide in de gegevens van het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
+Deze registratie is doorgehaald. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
 
 ## Veiligheidsoverwegingen
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: Sterk bewijs (L1-L2)
+parent: Matig bewijs (L3-L4)
 nav_order: 100
-evidence_level: L2
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Cyclophosphamide: voorspelde nieuwe indicatie Myeloïde leukemie (bewijsniveau L2). Oorspronkelijke indicatie: Niet beschikbaar in de Nederlandse vergunningsgegevens. Volgens de ke…"
+evidence_level: L3
+indication_count: 4
 monitor_inn: "cyclophosphamide"
-predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+last_modified_at: 2026-10-27
+description: "Cyclophosphamide: voorspelde nieuwe indicatie Myeloïde leukemie (myeloid leukemia) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,128 +33,96 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-## Cyclofosfamide: van lymfoom en andere kankersoorten naar myeloïde leukemie
+## Cyclofosfamide: alkylerend cytostaticum → myeloïde leukemie (myeloid leukemia)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in het kort
 
-Cyclofosfamide is een alkylerend cytostaticum dat al lang wordt gebruikt bij onder meer lymfoom, multipel myeloom, borstkanker en neuroblastoom. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **myeloïde leukemie**. Voor deze richting zijn in de gegevens **34 klinische studies** en **20 publicaties** gevonden. Het gaat vooral om combinatie- en transplantatieschema's, niet om cyclofosfamide als enige middel.
+Cyclofosfamide is een alkylerend cytostaticum dat al decennia wordt gebruikt bij kwaadaardige aandoeningen. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **myeloïde leukemie (myeloid leukemia)**. In de voor dit rapport verzamelde gegevens staan **32 klinische studies** en **20 publicaties** voor deze voorspelling. Het gaat vooral om transplantatie- en conditioneringsschema's, waarin cyclofosfamide één component is, en niet om monotherapie.
 
----
-
-## Snel overzicht
+## Overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de Nederlandse vergunningsgegevens. Volgens de kennisgraaf: o.a. mycosis fungoides, cutaan T-cellymfoom, plasmacelmyeloom, neuroblastoom, lymfoom, borstcarcinoom, retinoblastoom |
-| Voorspelde nieuwe indicatie | Myeloïde leukemie |
-| TxGNN-voorspellingsscore | 99,47% |
-| Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde vergunningen (geen geldige vergunning in de gegevens) |
-| Aantal vergunningen | 1 (doorgehaald) |
-| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Myeloïde leukemie (myeloid leukemia) |
+| TxGNN-voorspellingsscore | 0,9947 |
+| Bewijsniveau | L3 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Doorgaan met waarborgen |
 
----
+## Waarom is deze voorspelling aannemelijk?
 
-## Waarom is deze voorspelling redelijk?
+Er zijn geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de verzamelde data. Op basis van de bekende farmacologie is cyclofosfamide een alkylerende prodrug. Het wordt omgezet in fosforamidemosterd, dat DNA verknoopt en prolifererende leukemiecellen doodt.
 
-Cyclofosfamide is een alkylerend prodrug. Het wordt in het lichaam omgezet in fosforamidemosterd, dat het DNA kruislings verbindt en daardoor delende (leukemie)cellen doodt. Gedetailleerde mechanistische gegevens uit de bronbestanden ontbreken. De beschrijving hier is gebaseerd op algemeen bekende farmacologie.
+Cyclofosfamide werkt ook immuunonderdrukkend. Het wordt gebruikt in conditioneringsschema's vóór stamceltransplantatie. Het wordt ook gegeven als post-transplantatiecyclofosfamide (PTCy), dat alloreactieve T-cellen uitschakelt en zo graft-versus-hostziekte vermindert bij haplo-identieke en andere transplantaties voor myeloïde maligniteiten.
 
-Cyclofosfamide werkt ook immunosuppressief. Daarom wordt het gebruikt in conditioneringsschema's vóór stamceltransplantatie en als *post-transplant cyclophosphamide* (PTCy). PTCy verwijdert alloreactieve T-cellen en verlaagt zo het risico op graft-versus-hostziekte (GVHD) bij haplo-identieke en andere transplantaties voor myeloïde aandoeningen.
-
-De oorspronkelijke indicaties zijn voornamelijk hematologische en solide kwaadaardige aandoeningen, waarin cytotoxiciteit voor snel delende cellen centraal staat. Dat sluit aan bij leukemie. Bij myeloïde leukemie wordt cyclofosfamide vooral toegepast als onderdeel van combinatie- of transplantatieschema's en niet als zelfstandige therapie.
-
----
+Het gebruik bij myeloïde leukemie is dus vooral als onderdeel van combinatie- of transplantatieschema's. Het directe bewijs voor cyclofosfamide als zelfstandige behandeling is beperkt.
 
 ## Bewijs uit klinische studies
 
-De tabel toont 10 van de 34 gevonden studies. De selectie is gebaseerd op relevantie voor cyclofosfamide en op studiegrootte.
-
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT04473911](https://clinicaltrials.gov/study/NCT04473911) | Fase 1 | Afgerond | 25 | Haplo-identieke PBSC-transplantatie met verlaagde intensiteit en PTCy, met RGI-2001 voor GVHD-preventie. Directe test van cyclofosfamide, maar vroege fase |
-| [NCT00315705](https://clinicaltrials.gov/study/NCT00315705) | Fase 1/2 | Afgerond | 50 | Clofarabine + etoposide + cyclofosfamide bij kinderen met refractaire/gerecidiveerde acute leukemie. Beperkte werkzaamheid als brug naar transplantatie |
-| [NCT00003187](https://clinicaltrials.gov/study/NCT00003187) | Fase 2/3 | Afgerond | 19 | Gerandomiseerde vergelijking van conventionele beenmergtransplantatie met T-celgedepleteerde transplantatie (donor niet verwant). Klein, effect van cyclofosfamide niet apart te beoordelen |
-| [NCT01350245](https://clinicaltrials.gov/study/NCT01350245) | Fase 2 | Afgerond | 28 | Tweestapsbenadering voor allogene transplantatie met gedeeltelijk passende donor bij hematologische maligniteiten. Gemengde populatie |
-| [NCT02441803](https://clinicaltrials.gov/study/NCT02441803) | Fase 2 | Afgerond | 11 | Allogene transplantatie als eerste salvagebehandeling bij AML met primair inductiefalen. Zeer kleine groep |
-| [NCT00390793](https://clinicaltrials.gov/study/NCT00390793) | Fase 2 | Afgerond | 107 | Hyper-CVAD met dasatinib bij Ph+ acute lymfatische leukemie. Overwegend lymfatisch, dus indirecte relevantie voor myeloïde leukemie |
-| [NCT05515029](https://clinicaltrials.gov/study/NCT05515029) | Fase 3 | Actief, niet rekruterend | 56 | PTCy met abatacept, vedolizumab en calcineurineremmer voor GVHD-preventie bij kinderen en jongvolwassenen met hematologische maligniteiten |
-| [NCT04904588](https://clinicaltrials.gov/study/NCT04904588) | Fase 2 | Actief, niet rekruterend | 300 | Multicenterstudie met HLA-mismatched niet-verwante donortransplantatie en PTCy, tacrolimus en MMF bij hematologische maligniteiten |
-| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Fase 2 | Afgerond | 213 | Navelstrengbloedtransplantatie met myeloablatief schema van cyclofosfamide, fludarabine en totale lichaamsbestraling |
-| [NCT02057770](https://clinicaltrials.gov/study/NCT02057770) | Fase 1 | Beëindigd | 25 | Myeloablatieve allogene of haplo-identieke transplantatie met hoge dosis PTCy bij gerecidiveerde/refractaire AML |
-
----
+| [NCT04473911](https://clinicaltrials.gov/study/NCT04473911) | Fase 1 | Afgerond | 25 | Haplo-identieke stamceltransplantatie met verminderde intensiteit en PTCy, o.a. bij AML; gericht op preventie van GVHD |
+| [NCT00315705](https://clinicaltrials.gov/study/NCT00315705) | Fase 1/2 | Afgerond | 50 | Clofarabine, etoposide en cyclofosfamide bij kinderen met refractaire of gerecidiveerde acute leukemie; beperkte werkzaamheid als brug naar transplantatie |
+| [NCT00003187](https://clinicaltrials.gov/study/NCT00003187) | Fase 2/3 | Afgerond | 19 | Gerandomiseerde vergelijking van conventionele en T-celgedepleteerde beenmergtransplantatie met niet-verwante donor; effect van cyclofosfamide niet afzonderlijk te beoordelen |
+| [NCT01350245](https://clinicaltrials.gov/study/NCT01350245) | Fase 2 | Afgerond | 28 | Tweestapsbenadering van allogene transplantatie met gedeeltelijk gematchte verwante donor bij hematologische maligniteiten |
+| [NCT02441803](https://clinicaltrials.gov/study/NCT02441803) | Fase 2 | Afgerond | 11 | Allogene transplantatie als eerste salvagebehandeling bij primair refractaire AML; zeer kleine groep |
+| [NCT00939653](https://clinicaltrials.gov/study/NCT00939653) | Fase 2 | Beëindigd | 6 | Clofarabine met etoposide en cyclofosfamide bij gerecidiveerde of refractaire AML |
+| [NCT02057770](https://clinicaltrials.gov/study/NCT02057770) | Fase 1 | Beëindigd | 25 | Myeloablatieve allogene of haplo-identieke transplantatie met hoge dosis PTCy bij gerecidiveerde of refractaire AML |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Fase 2 | Afgerond | 213 | Navelstrengbloedtransplantatie met conditionering met cyclofosfamide, fludarabine en totale lichaamsbestraling |
+| [NCT04904588](https://clinicaltrials.gov/study/NCT04904588) | Fase 2 | Actief, niet rekruterend | 300 | Transplantatie met HLA-mismatched niet-verwante donor en PTCy bij hematologische maligniteiten |
+| [NCT02724163](https://clinicaltrials.gov/study/NCT02724163) | Fase 3 | Actief, niet rekruterend | 700 | Internationale gerandomiseerde studie bij kinderen met AML; inductiechemotherapie met gemtuzumab ozogamicine |
 
 ## Bewijs uit de literatuur
 
-De tabel toont 10 van de 20 gevonden publicaties. Er zijn geen gerandomiseerde studies (RCT) bij; de publicaties zijn systematische reviews, reviews en cohortstudies.
-
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | Systematische review/netwerkmeta-analyse | Bone Marrow Transplant | Vergelijking van myeloablatieve conditioneringsschema's bij AML in complete remissie, waaronder Bu/Cy |
-| [14662323](https://pubmed.ncbi.nlm.nih.gov/14662323/) | 2003 | Review | Exp Hematol | Busulfan-cyclofosfamide versus TBI-cyclofosfamide bij AML. Resultaten zijn niet eenduidig |
-| [33325761](https://pubmed.ncbi.nlm.nih.gov/33325761/) | 2021 | Cohort | Leuk Lymphoma | Hoge dosis cyclofosfamide (60 mg/kg) voor cytoreductie bij 27 patiënten met AML of blastaire CML met hyperleukocytose of leukostase |
-| [35752739](https://pubmed.ncbi.nlm.nih.gov/35752739/) | 2022 | Cohort | Bone Marrow Transplant | Vergelijking van conditionering met verlaagde intensiteit en niet-myeloablatieve conditionering bij haplo-transplantatie met PTCy bij AML in complete remissie (EBMT) |
-| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Cohort | Transpl Immunol | Cladribine met busulfan en cyclofosfamide als intensieve conditionering bij gerecidiveerde/refractaire AML |
-| [33150834](https://pubmed.ncbi.nlm.nih.gov/33150834/) | 2021 | Cohort | Pediatr Hematol Oncol | Clofarabine, etoposide en cyclofosfamide: beperkte werkzaamheid als brug naar transplantatie bij kinderen met refractaire acute leukemie |
-| [38758817](https://pubmed.ncbi.nlm.nih.gov/38758817/) | 2024 | Cohort | Cancer | PTCy versus ATG versus combinatie voor GVHD-preventie bij haplo-transplantatie voor AML (EBMT) |
-| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | Cohort | Am J Hematol | Cy/Flu niet-myeloablatieve transplantatie versus myeloablatieve transplantatie bij 165 AML-patiënten; in univariate analyse geen verschil in overleving |
-| [36842566](https://pubmed.ncbi.nlm.nih.gov/36842566/) | 2023 | Cohort | Transpl Immunol | PTCy en vroeg gemengd donorchimerisme bij myeloïde maligniteiten; balans tussen GVHD-preventie en graft-versus-tumoreffect |
-| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | Cohort | Haematologica | 217 AML-patiënten in complete remissie na myeloablatieve transplantatie met PTCy: 2-jaars totale overleving 77%, gebeurtenisvrije overleving 72% |
+| [33325761](https://pubmed.ncbi.nlm.nih.gov/33325761/) | 2021 | Cohortstudie | Leukemia & Lymphoma | Hoge dosis cyclofosfamide (60 mg/kg) voor cytoreductie bij 27 patiënten met AML of blastcrisis van CML met hyperleukocytose of leukostase |
+| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | Systematische review en netwerkmeta-analyse | Bone Marrow Transplantation | Vergelijking van myeloablatieve conditioneringsschema's (waaronder Bu/Cy) bij volwassenen met AML in complete remissie |
+| [35752739](https://pubmed.ncbi.nlm.nih.gov/35752739/) | 2022 | Cohortstudie | Bone Marrow Transplantation | Conditionering met verminderde intensiteit versus niet-myeloablatieve conditionering bij haplo-identieke transplantatie met PTCy bij AML |
+| [38758817](https://pubmed.ncbi.nlm.nih.gov/38758817/) | 2024 | Registerstudie | Cancer | PTCy versus ATG versus combinatie voor GVHD-preventie bij haplo-identieke transplantatie bij volwassen AML |
+| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Cohortstudie | Transplant Immunology | Cladribine met busulfan en cyclofosfamide als intensieve conditionering bij gerecidiveerde of refractaire AML |
+| [33150834](https://pubmed.ncbi.nlm.nih.gov/33150834/) | 2021 | Prospectieve cohortstudie | Pediatric Hematology and Oncology | Clofarabine, etoposide en cyclofosfamide: beperkte werkzaamheid als brug naar transplantatie bij kinderen met refractaire acute leukemie |
+| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | Cohortstudie | American Journal of Hematology | Niet-myeloablatieve transplantatie met cyclofosfamide en fludarabine versus myeloablatieve transplantatie bij 165 AML-patiënten; overleving niet significant verschillend in univariate analyse |
+| [36842566](https://pubmed.ncbi.nlm.nih.gov/36842566/) | 2023 | Cohortstudie | Transplant Immunology | PTCy en vroeg gemengd donorchimerisme bij myeloïde maligniteiten |
+| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | Cohortstudie | Haematologica | 217 AML-patiënten met myeloablatieve conditionering en PTCy; 2-jaars totale overleving 77% |
+| [41046309](https://pubmed.ncbi.nlm.nih.gov/41046309/) | 2026 | Registerstudie | Bone Marrow Transplantation | Navelstrengbloedtransplantatie met één eenheid versus haplo-identieke transplantatie met PTCy in eerste complete remissie van AML |
 
----
+## Marktinformatie Nederland
 
-## Informatie over de Nederlandse markt
-
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113724 (doorgehaald) | Cyclofosfamide Cadiasun 2 g, poeder voor oplossing voor injectie | Poeder voor oplossing voor injectie | Niet vermeld in de beschikbare gegevens |
-
-Het enige vergunningsrecord voor cyclofosfamide in de samengestelde gegevens is doorgehaald. Er is dus geen geldige vergunning in deze gegevens. Controleer de actuele status bij het CBG-MEB en de beschikbaarheid van andere cyclofosfamideproducten voordat verdere stappen worden gezet.
-
----
+De marktstatus in Nederland is **in de handel** (bron: CBG-MEB). De vergunningsgegevens worden afzonderlijk door het systeem toegevoegd.
 
 ## Cytotoxiciteit
 
-De onderstaande informatie is gebaseerd op algemene farmacologische kennis. Geraadpleegde bronbestanden bevatten geen toxiciteitsgegevens.
-
 | Item | Inhoud |
 |------|------|
-| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch (alkylerend middel, stikstofmosterd) |
-| Risico op myelosuppressie | Hoog (dosisafhankelijk) |
-| Emetogeniciteit | Matig, bij hoge intraveneuze doses hoog |
-| Monitoringitems | Volledig bloedbeeld, lever- en nierfunctie, urine (hematurie, hemorragische cystitis) |
-| Beschermende maatregelen bij hantering | Ja, volgens de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
+| Cytotoxiciteitsclassificatie | Klassiek cytotoxisch middel (alkylerend, oxazafosforine) |
+| Risico op beenmergsuppressie | Hoog |
+| Emetogeniciteitsclassificatie | Matig tot hoog, afhankelijk van de dosis |
+| Te monitoren parameters | Volledig bloedbeeld, lever- en nierfunctie, urineonderzoek (hemorragische cystitis) |
+| Bescherming bij hantering | Ja, volgens de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
 
 Raadpleeg voor details de waarschuwingen en voorzorgen in de SmPC.
 
----
+## Veiligheidsoverwegingen
 
-## Veiligheidsaspecten
+- **Geneesmiddelinteracties**: in totaal zijn **646** interacties geregistreerd. Voorbeelden van matige interacties zijn amfotericine B (ook de lipide-, liposomale en cholesterylsulfaatvormen), bupropion, aprepitant, metronidazol, nitisinon en diverse bloedglucoseverlagende middelen (glimepiride, glipizide, glibenclamide, repaglinide, nateglinide, tolbutamide en andere). Minder ernstige interacties zijn onder meer levofloxacine en ondansetron.
 
-**Geneesmiddelinteracties**: In de gegevens zijn 646 interacties vastgelegd. De belangrijkste zijn:
-
-- **Matig**: amfotericine B (alle formuleringen), bupropion, aprepitant, metronidazol, nitisinon, troglitazon en bloedglucoseverlagende middelen: sulfonylureumderivaten (chloorpropamide, acetohexamide, glimepiride, glipizide, glibenclamide, tolazamide, tolbutamide), nateglinide en repaglinide.
-- **Licht**: levofloxacine en ondansetron.
-
-Waarschuwingen en contra-indicaties uit de productinformatie zijn niet beschikbaar in de voor dit rapport samengestelde gegevens. Raadpleeg daarvoor de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
+**Besluit: Doorgaan met waarborgen**
 
 **Onderbouwing:**
-- Er zijn meerdere fase 2- en enkele fase 3-studies waarin cyclofosfamide deel uitmaakt van conditionerings- en PTCy-schema's bij myeloïde maligniteiten. Het bewijs is echter indirect: geen studie isoleert het effect van cyclofosfamide, de meeste studies zijn klein en de literatuur bestaat uit cohortstudies zonder RCT's.
-- Het bewijsniveau is L2. Er is geen geldige Nederlandse vergunning in de gegevens en belangrijke veiligheidsinformatie ontbreekt.
+- Cyclofosfamide wordt veel gebruikt binnen transplantatie- en combinatieschema's bij myeloïde leukemie. Het bewijs bestaat vooral uit fase 1/2-studies en cohortstudies, waarin de bijdrage van cyclofosfamide zelf moeilijk te isoleren is. Daarom is het bewijsniveau L3.
 
 **Om verder te gaan is nodig:**
-- De SmPC-waarschuwingen en -contra-indicaties van het CBG-MEB ophalen en beoordelen (veiligheidsscreening kan nu niet worden afgerond).
-- Gegevens over het werkingsmechanisme aanvullen vanuit DrugBank.
-- De actuele vergunningsstatus en beschikbare toedieningsvormen van cyclofosfamide in Nederland verifiëren.
-- Bewijs verzamelen waarin het effect van cyclofosfamide in myeloïde leukemie zelf wordt vergeleken, bij voorkeur uit gerandomiseerde studies.
-- Een monitoringplan opstellen voor myelosuppressie, hemorragische cystitis, vruchtbaarheid en de geregistreerde geneesmiddelinteracties.
+- Gerandomiseerd bewijs dat de bijdrage van cyclofosfamide binnen deze schema's afzonderlijk vaststelt.
+- Gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB).
+- Een veiligheidsmonitoringsplan: beenmergsuppressie, cardiale toxiciteit bij combinatie met antracyclinen, hemorragische cystitis, secundaire maligniteit, vruchtbaarheidsbehoud en beoordeling van relevante geneesmiddelinteracties.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

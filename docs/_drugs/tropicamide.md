@@ -50,10 +50,10 @@ maar er zijn **0 klinische studies** en **0 publicaties** die deze richting onde
 |------|------|
 | Oorspronkelijke indicatie | Cycloplegie (volgens de indicatiekoppelingen in de TxGNN-kennisgraaf; de geregistreerde indicatietekst is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Caudaequinasyndroom |
-| TxGNN-voorspellingsscore | 99,53% |
+| TxGNN-voorspellingsscore | 0,9953 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registratie |
-| Aantal handelsvergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -69,8 +69,8 @@ Er zijn belangrijke kanttekeningen:
 - Tropicamide is een oogmiddel met minimale systemische blootstelling. Het is twijfelachtig of therapeutische systemische concentraties haalbaar zijn.
 
 Ter volledigheid voorspelde het model ook twee andere indicaties, eveneens zonder enig bewijs (L5, Hold):
-- **Neurogene blaas** (score 99,13%; de aandoening is in de ontologie als "obsoleet" gemarkeerd, wat wijst op een koppelingsprobleem dat eerst moet worden opgelost). Antimuscarinica zoals oxybutynine en tolterodine zijn hier al beschikbaar.
-- **Prikkelbare darmsyndroom** (score 99,12%). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.
+- **Neurogene blaas** (score 0,9913; de aandoening is in de ontologie als "obsoleet" gemarkeerd, wat wijst op een koppelingsprobleem dat eerst moet worden opgelost). Antimuscarinica zoals oxybutynine en tolterodine zijn hier al beschikbaar.
+- **Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.
 
 ---
 

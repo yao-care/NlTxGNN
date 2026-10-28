@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mesalazine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 222
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Mesalazine: voorspelde nieuwe indicatie Reumatoïde artritis (bewijsniveau L4). Oorspronkelijke indicatie: Colitis ulcerosa, inflammatoire darmziekte…"
 monitor_inn: "Mesalazine"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-## Mesalazine: Van colitis ulcerosa naar reumatoïde artritis
+## Mesalazine: Congenital hypotrichosis with juvenile macular dystrophy
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
 Mesalazine is een ontstekingsremmend middel dat oorspronkelijk wordt gebruikt voor colitis ulcerosa, inflammatoire darmziekten en ulceratieve proctosigmoïditis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **reumatoïde artritis** (de voorspelling met het meeste, zij het indirecte, onderbouwende materiaal van de zeven voorspellingen). Er zijn **geen geregistreerde klinische studies** en **10 publicaties**, waarvan geen enkele een klinische studie met mesalazine bij deze aandoening beschrijft.
 
-> Opmerking: de voorspelling met de hoogste TxGNN-score is *congenitale hypotrichose met juveniele maculadystrofie* (99,65%). Voor die aandoening is geen enkel bewijs of mechanistisch verband gevonden. Daarom wordt hieronder reumatoïde artritis uitgewerkt, de voorspelling met de meeste literatuur. De overige voorspellingen staan in de tabel onder "Overzicht van alle voorspellingen".
+> Opmerking: de voorspelling met de hoogste TxGNN-score is *congenitale hypotrichose met juveniele maculadystrofie* (0,9965). Voor die aandoening is geen enkel bewijs of mechanistisch verband gevonden. Daarom wordt hieronder reumatoïde artritis uitgewerkt, de voorspelling met de meeste literatuur. De overige voorspellingen staan in de tabel onder "Overzicht van alle voorspellingen".
 
 ---
 
@@ -48,12 +48,12 @@ Mesalazine is een ontstekingsremmend middel dat oorspronkelijk wordt gebruikt vo
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Colitis ulcerosa, inflammatoire darmziekte, ulceratieve proctosigmoïditis (volgens de kennisgraaf; er is geen indicatietekst uit de Nederlandse vergunning beschikbaar) |
-| Voorspelde nieuwe indicatie | Reumatoïde artritis |
-| TxGNN-voorspellingsscore | 99,57% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geroyeerde) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Congenital hypotrichosis with juvenile macular dystrophy |
+| TxGNN-voorspellingsscore | 0.9965 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,7 +95,6 @@ Er zijn geen RCT's. De gevonden publicaties zijn vooral reviews, bijwerkingenrap
 |---------|------|------|-----------|
 | RVG 120321//102870 | Salofalk 1g, zetpillen | Niet beschikbaar | Niet beschikbaar |
 
-Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning in de verstrekte data.
 
 ---
 
@@ -113,13 +112,12 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 
 | Rang | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Mechanistisch verband |
 |---|---|---|---|---|
-| 1 | Congenitale hypotrichose met juveniele maculadystrofie | 99,65% | L5 | Geen aantoonbaar verband (CDH3-mutatie) |
-| 2 | Artrose | 99,63% | L5 | Aannemelijk maar onbewezen; enige paper is een transcriptoomanalyse |
-| 3 | Reumatoïde artritis | 99,57% | L4 | Indirect (via sulfasalazine) |
-| 4 | Seborroïsche keratose | 99,50% | L5 | Geen onderbouwing |
-| 5 | Gevoeligheid voor artrose | 99,35% | L5 | Genetisch fenotype; geen bewijs |
-| 6 | Vulvaire omgekeerde folliculaire keratose | 99,33% | L5 | Geen aantoonbaar verband |
-| 7 | Pseudoachondroplasie | 99,19% | L5 | Geen duidelijk verband (COMP-mutatie) |
+| 1 | Congenitale hypotrichose met juveniele maculadystrofie | 0,9965 | L5 | Geen aantoonbaar verband (CDH3-mutatie) |
+| 2 | Artrose | 0,9963 | L5 | Aannemelijk maar onbewezen; enige paper is een transcriptoomanalyse |
+| 3 | Reumatoïde artritis | 0,9957 | L4 | Indirect (via sulfasalazine) |
+| 4 | Seborroïsche keratose | 0,9950 | L5 | Geen onderbouwing |
+| 6 | Vulvaire omgekeerde folliculaire keratose | 0,9933 | L5 | Geen aantoonbaar verband |
+| 7 | Pseudoachondroplasie | 0,9919 | L5 | Geen duidelijk verband (COMP-mutatie) |
 
 ---
 

@@ -48,10 +48,10 @@ Landiolol is een ultrakortwerkende, zeer selectieve bètablokker die intraveneus
 |------|------|
 | Oorspronkelijke indicatie | Supraventriculaire tachycardie (boezemfibrilleren/-fladderen), volgens farmacologische gegevens; de Nederlandse vergunningstekst bevat geen indicatietekst |
 | Voorspelde nieuwe indicatie | Lingual-faciale-buccale dyskinesie |
-| TxGNN-voorspellingsscore | 99,11% |
+| TxGNN-voorspellingsscore | 0,9911 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschorste/ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,17 +62,17 @@ Voor het oorspronkelijke werkingsmechanisme zijn in de voor dit rapport samenges
 
 Een mogelijke, maar zwak onderbouwde link is dat bètablokkade de perifere en centrale adrenerge activiteit zou kunnen dempen. Dat wordt gezien bij propranolol bij sommige hyperkinetische bewegingsstoornissen. Landiolol is echter β1-selectief en dringt beperkt door tot het centrale zenuwstelsel, waardoor deze link zwak is.
 
-De hoge score (0,991) weerspiegelt vermoedelijk vooral nabijheid in de kennisgraaf en niet een aangetoond mechanisme. Er is geen klinisch of literatuurbewijs aangeleverd.
+De hoge score (0,9911) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet een biologisch bewijs. Er is geen klinisch of literatuurbewijs aangeleverd.
 
 **Overige voorspelde indicaties (allemaal L5, besluit Hold):**
 
 | Voorspelde indicatie | Score | Beoordeling |
 |------|------|------|
-| Chronische tic-stoornis | 99,08% | Gevestigde therapieën werken via dopamine (D2-antagonisten) of alfa-2-adrenerge routes; β1-blokkade biedt geen duidelijke route. |
-| Psychogene bewegingsstoornissen | 99,05% | Behandeling is vooral niet-medicamenteus; een IV-middel met zeer korte werking heeft geen aanwijsbare rol bij chronisch gebruik. |
-| Extrapiramidale en bewegingsziekten | 99,04% | Brede categorie; baat van bètablokkers (bijv. bij houdingstremor, acathisie) wordt toegeschreven aan β2- en centrale effecten. |
-| Benigne rilaanvallen (benign shuddering attacks) | 99,04% | Zelflimiterende aandoening bij jonge kinderen; risico-batenverhouding van een IV-bètablokker bij zuigelingen is ongunstig. |
-| Primaire orthostatische tremor | 99,00% | Standaard behandeling is clonazepam, gabapentine of primidon; bètablokkers hebben beperkt effect. |
+| Chronische tic-stoornis | 0,9908 | Gevestigde therapieën werken via dopamine (D2-antagonisten) of alfa-2-adrenerge routes; β1-blokkade biedt geen duidelijke route. |
+| Psychogene bewegingsstoornissen | 0,9905 | Behandeling is vooral niet-medicamenteus; een IV-middel met zeer korte werking heeft geen aanwijsbare rol bij chronisch gebruik. |
+| Extrapiramidale en bewegingsziekten | 0,9904 | Brede categorie; baat van bètablokkers (bijv. bij houdingstremor, acathisie) wordt toegeschreven aan β2- en centrale effecten. |
+| Benigne rilaanvallen (benign shuddering attacks) | 0,9904 | Zelflimiterende aandoening bij jonge kinderen; risico-batenverhouding van een IV-bètablokker bij zuigelingen is ongunstig. |
+| Primaire orthostatische tremor | 0,9900 | Standaard behandeling is clonazepam, gabapentine of primidon; bètablokkers hebben beperkt effect. |
 
 ---
 
@@ -92,9 +92,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116684 | Rapibloc 20 mg/2 ml concentraat voor oplossing voor injectie (status: doorgehaald) | Concentraat voor oplossing voor injectie | Niet vermeld in de beschikbare gegevens |
+| RVG 116684 | Rapibloc 20 mg/2 ml concentraat voor oplossing voor injectie (status: geldig) | Concentraat voor oplossing voor injectie | Niet vermeld in de beschikbare gegevens |
 
-De enige Nederlandse registratie bij het CBG-MEB is doorgehaald; er is momenteel geen geldige vergunning.
+De enige Nederlandse registratie bij het CBG-MEB is geldig (1 geldige vergunning van 1); het middel is in Nederland op de markt.
 
 ---
 
@@ -111,7 +111,7 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspellingen zijn uitsluitend gebaseerd op een computermodel (L5), zonder klinische studies of publicaties, en het mechanisme (β1-selectieve, nauwelijks centraal werkzame bètablokker) sluit slecht aan bij de voorspelde bewegingsstoornissen. Bovendien is er in Nederland geen geldige vergunning en is het middel alleen intraveneus beschikbaar, wat chronisch gebruik onwaarschijnlijk maakt.
+- De voorspellingen zijn uitsluitend gebaseerd op een computermodel (L5), zonder klinische studies of publicaties, en het mechanisme (β1-selectieve, nauwelijks centraal werkzame bètablokker) sluit slecht aan bij de voorspelde bewegingsstoornissen. Bovendien is het middel alleen intraveneus beschikbaar, wat chronisch gebruik onwaarschijnlijk maakt.
 
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsgegevens uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties ontbreken; dit blokkeert de veiligheidsscreening)

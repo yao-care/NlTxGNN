@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Esomeprazole
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 137
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Esomeprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer- en twaalfvingerigedarmzweerziekte (peptic ulcer disease)…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
+last_modified_at: 2026-10-27
+description: "Esomeprazole: voorspelde nieuwe indicatie Duodenale obstructie (duodenal obstruction) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de lokale gegevens"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,66 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Esomeprazol: Van maagzuurgerelateerde aandoeningen naar duodenogastrische reflux
+## Esomeprazol: protonpompremmer → duodenale obstructie (duodenal obstruction)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Esomeprazol is een protonpompremmer die oorspronkelijk wordt gebruikt bij maagzuurgerelateerde aandoeningen zoals maagzweer- en twaalfvingerigedarmzweerziekte en reflux (GERD). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **duodenogastrische reflux** (terugvloei van galhoudende darminhoud naar de maag). Voor deze specifieke voorspelling zijn **geen klinische studies** en slechts **1 algemeen overzichtsartikel** beschikbaar. De onderbouwing is dus zwak.
+Esomeprazol is een zuurremmer (protonpompremmer) die in Nederland is geregistreerd. Het TxGNN-model voorspelt een mogelijke werking bij **duodenale obstructie (duodenal obstruction)**, met een score van 0,9945. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden; het betreft dus een zuiver computationele voorspelling.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Maagzweer- en twaalfvingerigedarmzweerziekte (peptic ulcer disease), gastro-oesofageale refluxziekte, oesofagitis, Zollinger-Ellison-syndroom (op basis van het kennisnetwerk van TxGNN; de geregistreerde indicatieteksten van de Nederlandse vergunningen zijn niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Duodenogastrische reflux |
-| TxGNN-voorspellingsscore | 99,53% |
-| Bewijsniveau | L4 |
-| Status Nederlandse markt | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 2 (beide doorgehaald) |
-| Aanbevolen besluit | Hold |
+| Oorspronkelijke indicatie | Niet vastgelegd in de lokale gegevens (de vergunningsrecords bevatten geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Duodenale obstructie (duodenal obstruction) |
+| TxGNN-voorspellingsscore | 0,9945 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
+| Aanbevolen beslissing | Hold |
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene farmacologische kennis remt esomeprazol, als protonpompremmer, de H+/K+-ATPase in de pariëtale cellen van de maag. Dat onderdrukt de zuurproductie sterk en langdurig. Dit verklaart de werkzaamheid bij zweren en refluxziekte.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Esomeprazol remmen de maagzuurproductie; dit is een bekend werkingsprincipe van protonpompremmers.
 
-Duodenogastrische reflux wordt vooral veroorzaakt door terugvloei van duodenale inhoud (waaronder gal) naar de maag. Zuuronderdrukking kan de bijbehorende slijmvliesirritatie en klachten mogelijk verlichten. Het pakt echter niet de onderliggende oorzaak aan, zoals een motiliteitsstoornis of een disfunctie van de pylorus. Het verband is dus indirect. De hoge TxGNN-score weerspiegelt waarschijnlijk vooral de nabijheid van deze aandoening tot zuurgerelateerde ziekten in het kennisnetwerk, en niet een aangetoond direct effect.
+Duodenale obstructie is vooral een mechanische of structurele aandoening. Zuurremming heeft geen duidelijke ziektemodificerende rol, behalve bij het beperken van secundaire complicaties van maagzuur, zoals ulcusziekte. Een plausibel direct mechanisme is daarom niet zichtbaar. De hoge score weerspiegelt een patroon in het model en geen bevestigd klinisch effect. Ook de overeenkomst met de oorspronkelijke indicaties is nog niet beoordeeld.
 
-## Klinisch bewijs uit studies
+## Bewijs uit klinische studies
 
-Momenteel geen gerelateerde klinische studies geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | European Journal of Clinical Pharmacology | Algemeen overzicht van het klinisch gebruik en de farmacokinetiek van protonpompremmers: eerste keus bij maagzweer, H. pylori-infectie, GERD, NSAID-gerelateerde maag-darmletsels en Zollinger-Ellison-syndroom. Geen specifieke gegevens over duodenogastrische reflux. |
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Status |
-|---------|------|------|------|
-| RVG 118254 | Esomeprazol SUN Pharma 40 mg | Poeder voor oplossing voor injectie en infusie | Doorgehaald |
-| RVG 107240 | Esobax 40 mg | Maagsapresistente tabletten | Doorgehaald |
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 118254 | Esomeprazol SUN Pharma 40 mg, poeder voor oplossing voor injectie en infusie | Niet vermeld | Niet vermeld in de lokale gegevens |
+| RVG 107240 | Esobax 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet vermeld in de lokale gegevens |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald. Beschikbaarheid en registratiestatus van esomeprazol-producten in Nederland moeten daarom apart worden gecontroleerd, bijvoorbeeld bij producten die via de EMA of onder andere RVG-nummers zijn toegelaten.
+De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd, daarom wordt hierover geen uitspraak gedaan. Raadpleeg het CBG-MEB voor de actuele situatie.
 
 ## Veiligheidsoverwegingen
 
-- **Aandoeningen met een mogelijke contra-indicatie (afgeleid uit het kennisnetwerk, niet uit de officiële productinformatie):** leverfalen, osteoporose, postmenopauzale osteoporose, botbreuk en chronische atrofische gastritis.
-- **Geneesmiddelinteracties:** in totaal 231 interacties geregistreerd. Voorbeelden van **ernstige (Major)** interacties zijn acalabrutinib en atazanavir. Voorbeelden van **matige (Moderate)** interacties zijn hydrochloorthiazide, atorvastatine, fenofibraat, amfotericine B, amikacine, amfetamine, bendamustine, bosutinib en bumetanide. Daarnaast zijn er enkele lichte interacties, zoals acetylsalicylzuur en cyanocobalamine. Ook clopidogrel (via CYP2C19) vraagt aandacht bij screening.
-- **Langetermijnrisico's van protonpompremmers:** hypomagnesiëmie, botbreuken en *Clostridioides difficile*-infectie.
+- **Geneesmiddelinteracties**: in totaal zijn 231 interacties vastgelegd. Voorbeelden van interacties met niveau *Majeur*: acalabrutinib en atazanavir. Voorbeelden met niveau *Matig*: hydrochloorthiazide, atorvastatine, fenofibraat, bosutinib, bendamustine, bumetanide en amfetamine. Voorbeelden met niveau *Gering*: acetylsalicylzuur, cyanocobalamine, axitinib en bortezomib.
 
-Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken).
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust vrijwel uitsluitend op een modelscore. Er zijn geen specifieke klinische studies en slechts één algemeen overzichtsartikel. Het mechanistische verband is indirect, omdat zuuronderdrukking de onderliggende oorzaak van galreflux niet wegneemt.
-- Daarnaast zijn de Nederlandse registraties doorgehaald.
+- De voorspelling berust uitsluitend op een computationeel model (bewijsniveau L5), zonder klinische studies of literatuur. Bovendien is er biologisch geen duidelijk mechanisme voor een direct effect op een mechanische obstructie.
 
-**Om verder te gaan is het volgende nodig:**
-- Gericht literatuuronderzoek of klinische studies naar PPI-gebruik bij duodenogastrische reflux.
-- Gegevens over het werkingsmechanisme en een analyse van het verband met de oorspronkelijke indicaties.
-- Controle van de registratiestatus en beschikbaarheid in Nederland (CBG-MEB/EMA) en beoordeling van de SmPC-waarschuwingen en contra-indicaties.
-- Een screening van geneesmiddelinteracties voor de beoogde patiëntenpopulatie.
-
-**Opmerking:** voor een andere voorspelde indicatie, **twaalfvingerigedarmzweer (duodenal ulcer)** (TxGNN-score 99,40%), is veel sterker bewijs beschikbaar: meerdere afgeronde fase 3-studies en gerandomiseerde studies (bewijsniveau L1, aanbeveling "Proceed with Guardrails"). Dit is echter vrijwel een bestaande indicatie en geen echte herpositionering. Voor deze indicatie is een afzonderlijk rapport zinvol.
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme van esomeprazol
+- De geregistreerde indicatietekst en veiligheidsinformatie (waarschuwingen, contra-indicaties) uit de SmPC van het CBG-MEB
+- Een systematische literatuursearch of preklinisch onderzoek naar een rol bij duodenale obstructie
+- Een beoordeling van de overeenkomst met de oorspronkelijke indicaties en van de toedieningsroutes
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

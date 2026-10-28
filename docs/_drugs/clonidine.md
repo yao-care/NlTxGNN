@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie, open-hoekglaucoom, ADHD (afkomstig uit de kennisgraaf…"
 monitor_inn: "clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-27
+description: "Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Clonidine
@@ -33,79 +33,65 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Clonidine: van hypertensie naar faciodigitogenitaal syndroom
+## Clonidine: centraal werkend alfa-2-adrenerg agonist → faciodigitogenitaal syndroom (faciodigitogenital syndrome)
 {: .text-alpha }
 
-## Samenvatting in het kort
+## Samenvatting in één zin
 
-Clonidine is een centraal werkende alfa-2-adrenerge agonist. Het wordt van oudsher gebruikt bij hoge bloeddruk, open-hoekglaucoom en ADHD. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **faciodigitogenitaal syndroom**, een zeldzame erfelijke ontwikkelingsstoornis. Er zijn **geen klinische studies** en **geen publicaties** die deze voorspelling ondersteunen, dus het is een voorspelling op basis van het model alleen.
+Clonidine is een centraal werkende alfa-2-adrenerge agonist die de noradrenerge activiteit remt.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **faciodigitogenitaal syndroom (faciodigitogenital syndrome)**, maar voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op het model.
 
-## Quick Overview
+## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie, open-hoekglaucoom, ADHD (afkomstig uit de kennisgraaf, niet uit de Nederlandse productinformatie) |
-| Voorspelde nieuwe indicatie | Faciodigitogenitaal syndroom |
-| TxGNN-voorspellingsscore | 99,999% |
-| Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Faciodigitogenitaal syndroom (faciodigitogenital syndrome) |
+| TxGNN-voorspellingsscore | 0,9999 |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van clonidine ontbreken in de voor dit rapport verzamelde data. Uit de farmacologie is bekend dat clonidine alfa-2-adrenerge receptoren stimuleert. Daardoor daalt de noradrenerge activiteit en de sympathische tonus. Dat verklaart het effect bij hypertensie en ook bij hyperactiviteit en impulsiviteit.
+Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Clonidine is bekend als alfa-2-adrenerge agonist, die de noradrenerge tonus verlaagt.
 
-Faciodigitogenitaal syndroom is een zeldzame genetische aandoening van skelet en urogenitaal stelsel. Er is geen aannemelijk mechanisme waarmee alfa-2-agonisme de onderliggende pathologie zou beïnvloeden. De zeer hoge score (~0,99999) komt uit patronen in de kennisgraaf en is geen aanwijzing voor klinische werkzaamheid. De relatie tussen de oorspronkelijke en de voorspelde indicatie is niet nader onderzocht.
+Faciodigitogenitaal syndroom is een zeldzame, erfelijke ontwikkelingsstoornis met skelet- en urogenitale afwijkingen. Er is geen aannemelijk mechanisme waarbij alfa-2-adrenerge agonisme de onderliggende pathologie zou beïnvloeden. De zeer hoge modelscore weerspiegelt dus alleen een voorspelling op basis van het model en is geen aanwijzing voor werkzaamheid.
 
 ## Klinisch trialbewijs
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Literatuurbewijs
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | Oplossing voor injectie (volgens productnaam) | Niet vermeld; registratie ingetrokken |
+| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | Niet vermeld | Niet vermeld |
 
-Er is geen geldige handelsvergunning meer bij het CBG-MEB. Het product is dus op dit moment niet via deze registratie beschikbaar.
+De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt. Raadpleeg het CBG-MEB voor de actuele status.
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties uit de kennisgraaf** (geen bijsluitertekst, dus indicatief):
-  - Hart en bloedvaten: hypotensie, myocardinfarct, coronaire trombose, myocardischemie, plotse hartstilstand, geleidingsstoornissen van het hart.
-  - Stofwisseling en nier: diabetes mellitus type 1 en 2, diabetische ketoacidose, jicht, hypercalciëmie, nefrocalcinose, kaliumtekort, fosfaatstofwisselingsstoornissen, anurie.
-  - Overig: leverfalen, pancreatitis, systemische lupus erythematosus, ademhalingsfalen, bloedstollingsstoornissen, hemoglobinopathie, dermatitis, angststoornis, neurotische stoornis, dysthyme stoornis.
-- **Geneesmiddelinteracties**: er zijn 274 interacties gevonden. De weergegeven voorbeelden zijn allemaal van matig niveau.
-  - Corticosteroïden: hydrocortison, dexamethason, betamethason, triamcinolon, budesonide.
-  - Antidiabetica: insulines, glimepiride, glipizide, glibenclamide, chloorpropamide, acetohexamide, canagliflozine, dapagliflozine, empagliflozine, ertugliflozine.
-  - Overig: bupropion, morfine, dronabinol.
+Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL). De voor dit rapport verzamelde gegevens bevatten geen vastgelegde waarschuwingen of contra-indicaties uit de productinformatie.
 
-Voor volledige veiligheidsinformatie moet de SmPC worden geraadpleegd. Voor dit rapport was de officiële productinformatie van het CBG-MEB niet beschikbaar.
+- **Geneesmiddelinteracties**: er zijn 274 interacties gevonden. Voorbeelden van interacties van gemiddeld niveau zijn hydrocortison, bupropion, triamcinolon, morfine, dexamethason, betamethason, budesonide en diverse bloedglucoseverlagende middelen (o.a. canagliflozine, dapagliflozine, empagliflozine, glimepiride, glipizide, glibenclamide en insulines).
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor faciodigitogenitaal syndroom berust alleen op het model (L5).
-- Er zijn geen studies of publicaties en er is geen plausibel mechanisme.
-- De enige Nederlandse registratie is ingetrokken.
+- Er zijn geen klinische studies of publicaties voor deze voorspelling en er is geen aannemelijk mechanistisch verband. Het evidentieniveau is L5 (alleen modelvoorspelling).
 
-**Om verder te kunnen, is nodig:**
-- Productinformatie (SmPC en bijsluiter) van het CBG-MEB, voor waarschuwingen en contra-indicaties.
-- Gegevens over het werkingsmechanisme uit DrugBank.
-- Een biologische motivatie voor een effect bij deze aandoening, bijvoorbeeld preklinisch onderzoek.
-
-**Andere voorspellingen in de data met meer onderbouwing:**
-- **Tourette-syndroom** (score 99,98%, L3, advies Proceed with Guardrails): twee fase 4-studies (NCT00152750 en NCT00370838), een Europese richtlijn uit 2022 en een netwerk-meta-analyse uit 2023. Clonidine is hier al een erkende behandeloptie. Let op bloeddruk, hartfrequentie en sedatie, en stop niet abrupt vanwege rebound-hypertensie.
-- **Obesitas-gerelateerde hypertensie en ontsteking**, **migraineprofylaxe** en **acute manie** (alle L3, Research Question): het bewijs is beperkt, indirect of verouderd. Bij manie is de enige geregistreerde studie voortijdig beëindigd met 5 deelnemers.
-
-Deze alternatieve indicaties verdienen een eigen beoordeling, los van dit rapport.
+**Om verder te gaan is nodig:**
+- Een plausibele mechanistische hypothese, bijvoorbeeld door preklinisch onderzoek
+- Gegevens over het werkingsmechanisme en de productinformatie (SmPC) van het CBG-MEB
+- Beoordeling van de veiligheid en toedieningsroute voor de beoogde populatie
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

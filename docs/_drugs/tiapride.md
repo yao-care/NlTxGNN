@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tiapride
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 321
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens"
 monitor_inn: "tiapride"
 predicted_indications: ["migraine disorder"]
+description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tiapride
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Tiapride: Van oorspronkelijke indicatie (niet vastgelegd) naar migraine
+## Tiapride: Migraine (migraine disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tiapride is een selectieve dopamine D2/D3-receptorantagonist uit de klasse van d
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare gegevens |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,18% |
+| TxGNN-voorspellingsscore | 0.9918 |
 | Bewijsniveau | L2 (zie toelichting in de conclusie) |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (cancelled only) |
-| Aantal registraties | 1 (doorgehaald; 0 geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -89,9 +89,9 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116818//07613 | Tiapridal 100 mg, tabletten | Tabletten (op basis van de productnaam) | Niet vermeld; registratie doorgehaald |
+| RVG 116818//07613 | Tiapridal 100 mg, tabletten | Tabletten (op basis van de productnaam) | Niet vermeld; registratie geldig |
 
-Deze registratie is doorgehaald. Er is momenteel geen geldige registratie voor tiapride bij het CBG-MEB in de gegevens opgenomen.
+Deze registratie is doorgehaald.
 
 ---
 

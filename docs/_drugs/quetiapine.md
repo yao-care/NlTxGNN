@@ -6,9 +6,9 @@ nav_order: 285
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Quetiapine: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (bewijsniveau L5). Oorspronkelijke indicatie: Bipolaire stoornis, schizofrenie"
 monitor_inn: "quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
+description: "Quetiapine: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicat…"
 ---
 
 # Quetiapine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Quetiapine: van bipolaire stoornis en schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Quetiapine: Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -44,12 +44,12 @@ Quetiapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij **bipola
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bipolaire stoornis, schizofrenie (de geregistreerde indicatietekst van de Nederlandse vergunningen is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen |
-| TxGNN-voorspellingsscore | 99,57% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-voorspellingsscore | 0.9957 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (vervallen) registraties |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom zou deze voorspelling redelijk kunnen zijn?
@@ -58,7 +58,7 @@ Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme besch
 
 Retinale dystrofie is een groep erfelijke aandoeningen waarbij het netvlies degenereert. Dat verschilt fundamenteel van de psychiatrische indicaties waarvoor quetiapine wordt gebruikt. Er is geen aanwijsbaar biologisch pad dat quetiapine met deze aandoening verbindt.
 
-De hoge score komt voort uit patronen in een kennisgraaf en is geen bewijs van werkzaamheid. De voorspelling moet daarom als een zwak hypothetisch signaal worden gezien.
+De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten. Het is geen biologisch bewijs van werkzaamheid. De voorspelling moet daarom als een zwak hypothetisch signaal worden gezien.
 
 ## Klinische studies
 
@@ -72,10 +72,10 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 119884//34625 | Seroquel XR 50 mg, tabletten met verlengde afgifte | Doorgehaald |
-| RVG 103463 | Quetiapine Farmaprojects 100 mg filmomhulde tabletten | Doorgehaald |
+| RVG 119884//34625 | Seroquel XR 50 mg, tabletten met verlengde afgifte | Geldig |
+| RVG 103463 | Quetiapine Farmaprojects 100 mg filmomhulde tabletten | Geldig |
 
-Beide vergunningen zijn doorgehaald, dus er is geen geldige enkelvoudige of combinatieregistratie meer in de gegevens van het CBG-MEB. Voor de goedgekeurde indicaties van andere quetiapineproducten verwijzen we naar de actuele SmPC.
+Voor de goedgekeurde indicaties van andere quetiapineproducten verwijzen we naar de actuele SmPC.
 
 ## Veiligheidsoverwegingen
 
@@ -92,7 +92,7 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC en de bi
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een grafgebaseerd model (evidenceniveau L5). Er zijn geen studies, geen literatuur en geen aannemelijke mechanistische samenhang. Daarnaast heeft quetiapine in Nederland momenteel geen geldige registratie.
+- De voorspelling berust uitsluitend op een grafgebaseerd model (evidenceniveau L5). Er zijn geen studies, geen literatuur en geen aannemelijke mechanistische samenhang.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme van quetiapine en een onderbouwde biologische link met retinale dystrofie.
@@ -100,7 +100,7 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC en de bi
 - Veiligheidsinformatie uit de SmPC van het CBG-MEB voor een veiligheidsscreening.
 - Een actueel overzicht van de beschikbare registraties en toedieningsvormen.
 
-**Aanvullende opmerking:** van de tien hoogst scorende voorspellingen is alleen **trichotillomanie** (score 99,38%) ondersteund door literatuur. Dat zijn zes publicaties, waarschijnlijk casuïstiek en overzichtsartikelen, waarvan de opzet en uitkomsten niet zijn geverifieerd. Er zijn geen geregistreerde klinische studies. Dit kan een interessantere onderzoeksvraag zijn dan retinale dystrofie, maar voor elke aanbeveling is eerst een gecontroleerde studie nodig.
+**Aanvullende opmerking:** van de tien hoogst scorende voorspellingen is alleen **trichotillomanie** (score 0,9938) ondersteund door literatuur. Dat zijn zes publicaties, waarschijnlijk casuïstiek en overzichtsartikelen, waarvan de opzet en uitkomsten niet zijn geverifieerd. Er zijn geen geregistreerde klinische studies. Dit kan een interessantere onderzoeksvraag zijn dan retinale dystrofie, maar voor elke aanbeveling is eerst een gecontroleerde studie nodig.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

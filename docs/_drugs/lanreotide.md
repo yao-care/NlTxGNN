@@ -6,9 +6,9 @@ nav_order: 197
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lanreotide: voorspelde nieuwe indicatie Hypertrichose (bewijsniveau L5). Oorspronkelijke indicatie: Acromegalie, hyperpituïtarisme, hypofysaire gigantisme"
 monitor_inn: "lanreotide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
+description: "Lanreotide: voorspelde nieuwe indicatie Hypertrichose (hypertrichosis (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lanreotide
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Lanreotide: Van acromegalie naar hypertrichose
+## Lanreotide: Hypertrichose (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Lanreotide is een somatostatine-analoog dat oorspronkelijk wordt gebruikt bij de
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Acromegalie, hyperpituïtarisme, hypofysaire gigantisme (volgens de indicatierelaties in de kennisgraaf; geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Hypertrichose |
-| TxGNN-voorspellingsscore | 99,97% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Hypertrichose (hypertrichosis (disease)) |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige handelsvergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -66,10 +66,10 @@ Ook de overige voorspellingen zijn mechanistisch niet onderbouwd:
 
 | Rang | Voorspelde aandoening | Score | Beoordeling |
 |------|------|------|------|
-| 2 | Malformatiesyndroom met tand- en/of parodontale component | 99,96% | Geen aantoonbaar farmacologisch verband; waarschijnlijk netwerknabijheid in de kennisgraaf |
-| 3 | Syndroom met Dandy-Walker-malformatie als hoofdkenmerk | 99,96% | Een structurele aangeboren afwijking reageert naar verwachting niet op een somatostatine-analoog |
-| 4 | Geïsoleerde erfelijke haarschachtafwijking | 99,96% | Monogene structurele defecten; speculatief IGF-1-verband, geen correctie verwacht |
-| 5 | Ambras-type hypertrichosis universalis congenita | 99,96% | Genetische oorzaak (o.a. 8q-herschikkingen, TRPS1); geen verband met somatostatinesignalering |
+| 2 | Malformatiesyndroom met tand- en/of parodontale component | 0,9996 | Geen aantoonbaar farmacologisch verband; de score komt van het TxGNN-model (deep learning) en kan door het model geleerde overeenkomsten tussen verwante ziekten weerspiegelen, geen biologisch bewijs |
+| 3 | Syndroom met Dandy-Walker-malformatie als hoofdkenmerk | 0,9996 | Een structurele aangeboren afwijking reageert naar verwachting niet op een somatostatine-analoog |
+| 4 | Geïsoleerde erfelijke haarschachtafwijking | 0,9996 | Monogene structurele defecten; speculatief IGF-1-verband, geen correctie verwacht |
+| 5 | Ambras-type hypertrichosis universalis congenita | 0,9996 | Genetische oorzaak (o.a. 8q-herschikkingen, TRPS1); geen verband met somatostatinesignalering |
 
 Alle vijf voorspellingen hebben bewijsniveau L5 en zijn uitsluitend hypothesegenererend.
 
@@ -93,7 +93,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 120433//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | Oplossing voor injectie (voorgevulde spuit) | Niet beschikbaar |
 
-Deze vergunning is ingetrokken. Er is momenteel dus geen geldige handelsvergunning voor lanreotide in de samengestelde CBG-MEB-gegevens.
+Deze vergunning is ingetrokken.
 
 ---
 

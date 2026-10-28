@@ -4,17 +4,17 @@ title: Gemcitabine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 170
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Gemcitabine: voorspelde nieuwe indicatie Vrouwelijk mammacarcinoom (bewijsniveau L5). Oorspronkelijke indicatie: Eierstokkanker (en verwante ovariumtumoren). In de Nederlandse regist…"
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+description: "Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Gemcitabine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+## Gemcitabine: Rectum mucinous adenocarcinoma
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Gemcitabine is een cytostaticum (nucleosideanaloog) dat oorspronkelijk wordt gekoppeld aan de behandeling van eierstokkanker. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **vrouwelijk mammacarcinoom**. Hiervoor zijn **3 Fase 3-studies**, diverse Fase 2-studies en **20 publicaties** gevonden in de data die voor dit rapport zijn samengesteld.
+Gemcitabine is een cytostaticum (nucleosideanaloog) dat oorspronkelijk wordt gekoppeld aan de behandeling van eierstokkanker. Hiervoor zijn **3 Fase 3-studies**, diverse Fase 2-studies en **20 publicaties** gevonden in de data die voor dit rapport zijn samengesteld.
 
 ---
 
@@ -46,12 +46,12 @@ Gemcitabine is een cytostaticum (nucleosideanaloog) dat oorspronkelijk wordt gek
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Eierstokkanker (en verwante ovariumtumoren). In de Nederlandse registratiegegevens is geen indicatietekst beschikbaar. |
-| Voorspelde nieuwe indicatie | Vrouwelijk mammacarcinoom |
-| TxGNN-voorspellingsscore | 99,98% |
-| Bewijsniveau | L1 (zie toelichting hieronder) |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige registratie) |
-| Aantal handelsvergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Rectum mucinous adenocarcinoma |
+| TxGNN-voorspellingsscore | 0.9977 |
+| Bewijsniveau | L5 (zie toelichting hieronder) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 *Toelichting bewijsniveau:* Fase 3-studies zijn aanwezig (NCT00006459, NCT00093795 en NCT00408408 zijn afgerond). De data bevatten echter geen gepubliceerde resultaten of eindpunten per studie. Het niveau L1 is daarom gebaseerd op het aantal en de fase van de studies en moet worden bevestigd door de primaire publicaties te beoordelen.
@@ -108,9 +108,9 @@ Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen geran
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Er is geen geldige vergunning voor een gemcitabinebevattend middel in de gebruikte gegevens. Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.
+Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.
 
 ---
 
@@ -141,7 +141,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC en de bijsl
 **Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
 
 **Onderbouwing:**
-- Er zijn meerdere Fase 3-studies en uitgebreide Fase 2- en reviewliteratuur voor gemcitabine (meestal in combinatie met taxanen of platina) bij borstkanker. Het gebruik van gemcitabine bij borstkanker is daarmee klinisch plausibel. De resultaten van de Fase 3-studies ontbreken echter in de data. Daarnaast is er in Nederland geen geldige registratie in de gebruikte gegevens en ontbreken de veiligheidsgegevens uit de SmPC.
+- Er zijn meerdere Fase 3-studies en uitgebreide Fase 2- en reviewliteratuur voor gemcitabine (meestal in combinatie met taxanen of platina) bij borstkanker. Het gebruik van gemcitabine bij borstkanker is daarmee klinisch plausibel. De resultaten van de Fase 3-studies ontbreken echter in de data.
 
 **Om verder te gaan is het volgende nodig:**
 - De primaire resultaten van de Fase 3-studies (NCT00006459, NCT00093795, NCT00408408) opvragen en beoordelen op overleving en toxiciteit
@@ -159,15 +159,15 @@ Het model voorspelt nog negen andere indicaties met een hoge score. Het bewijs d
 
 | Voorspelde indicatie | Score | Bewijsniveau | Besluit |
 |------|------|------|------|
-| Mucineus adenocarcinoom van het rectum | 99,77% | L5 | Hold |
-| Mucineus adenocarcinoom van het colon | 99,76% | L4 | Hold |
-| Gemengd adenocarcinoom van het endometrium | 99,76% | L3 | Onderzoeksvraag |
-| Villoglandulair endometrioïd adenocarcinoom van het endometrium | 99,76% | L5 | Hold |
-| Mucineus adenocarcinoom van het endometrium | 99,75% | L3 | Onderzoeksvraag |
-| Mucineus adenocarcinoom van de cervix | 99,75% | L4 | Hold |
-| Mucineus adenocarcinoom van de galblaas | 99,75% | L4 | Hold |
-| Adenocarcinoom van de rete ovarii | 99,73% | L5 | Hold |
-| Mucinerijk endometrioïd adenocarcinoom van het endometrium | 99,73% | L5 | Hold |
+| Mucineus adenocarcinoom van het rectum | 0,9977 | L5 | Hold |
+| Mucineus adenocarcinoom van het colon | 0,9976 | L5 | Hold |
+| Gemengd adenocarcinoom van het endometrium | 0,9976 | L5 | Onderzoeksvraag |
+| Villoglandulair endometrioïd adenocarcinoom van het endometrium | 0,9976 | L5 | Hold |
+| Mucineus adenocarcinoom van het endometrium | 0,9975 | L5 | Onderzoeksvraag |
+| Mucineus adenocarcinoom van de cervix | 0,9975 | L5 | Hold |
+| Mucineus adenocarcinoom van de galblaas | 0,9975 | L5 | Hold |
+| Adenocarcinoom van de rete ovarii | 0,9973 | L5 | Hold |
+| Mucinerijk endometrioïd adenocarcinoom van het endometrium | 0,9973 | L5 | Hold |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

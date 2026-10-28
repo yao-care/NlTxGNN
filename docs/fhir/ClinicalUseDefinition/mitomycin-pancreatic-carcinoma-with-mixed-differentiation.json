@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "pancreatic-carcinoma-with-mixed-differentiation",
-          "display": "pancreatic carcinoma with mixed differentiation"
-        }
-      ],
-      "text": "pancreatic carcinoma with mixed differentiation",
       "concept": {
         "text": "pancreatic carcinoma with mixed differentiation"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9985
     }
   ]
 }

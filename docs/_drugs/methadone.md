@@ -46,10 +46,10 @@ Methadon is een synthetische opioïde. Voor dit rapport is geen geregistreerde o
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens over de Nederlandse vergunning |
 | Voorspelde nieuwe indicatie | Tourette-syndroom |
-| TxGNN-voorspellingsscore | 99,76% |
+| TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -75,7 +75,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118673 | Methadon HCl Apotex 50 mg, tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 118673 | Methadon HCl Apotex 50 mg, tabletten (geldig) | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
@@ -99,12 +99,12 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
 |------|------|------|------|
-| Nefrogeen syndroom van inadequate antidiurese | 99,73% | L5 | Geen bewijs; zwakke mechanistische onderbouwing (de oorzaak ligt in een V2-receptormutatie) |
-| Trichotillomanie | 99,67% | L5 | Geen bewijs; opioïdantagonisten, niet agonisten, zijn onderzocht |
-| Hoofdpijnaandoening | 99,35% | L5 | Literatuur wijst eerder tegen deze indicatie (o.a. medicatie-overgebruikshoofdpijn) |
-| Manische bipolaire stoornis | 99,32% | L3 | Zwakke ondersteuning; één kleine studie uit 1982 en een review uit 2026 |
-| Trigeminale autonome cefalalgie | 99,05% | L4 | Mogelijk schadelijk: methadon kan clusterhoofdpijn uitlokken of verergeren |
-| Verkoudheid | 99,02% | L5 | Waarschijnlijk vals-positief; gevonden publicaties gaan over koudepijntests |
+| Nefrogeen syndroom van inadequate antidiurese | 0,9973 | L5 | Geen bewijs; zwakke mechanistische onderbouwing (de oorzaak ligt in een V2-receptormutatie) |
+| Trichotillomanie | 0,9967 | L5 | Geen bewijs; opioïdantagonisten, niet agonisten, zijn onderzocht |
+| Hoofdpijnaandoening | 0,9935 | L5 | Literatuur wijst eerder tegen deze indicatie (o.a. medicatie-overgebruikshoofdpijn) |
+| Manische bipolaire stoornis | 0,9932 | L3 | Zwakke ondersteuning; één kleine studie uit 1982 en een review uit 2026 |
+| Trigeminale autonome cefalalgie | 0,9905 | L4 | Mogelijk schadelijk: methadon kan clusterhoofdpijn uitlokken of verergeren |
+| Verkoudheid | 0,9902 | L5 | Waarschijnlijk vals-positief; gevonden publicaties gaan over koudepijntests |
 
 ## Conclusie en vervolgstappen
 

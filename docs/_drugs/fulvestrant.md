@@ -46,10 +46,10 @@ Fulvestrant is een selectieve estrogeenreceptor-antagonist en -afbreker; de oors
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de vergunning bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | HIV-infectie |
-| TxGNN-voorspellingsscore | 99,91% |
+| TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -75,7 +75,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor HIV-inf
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit (status: geldig) | Niet vermeld | Niet vermeld |
 
 ## Cytotoxiciteit
 
@@ -106,7 +106,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke indicatie
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Verdere preklinische validatie van ERα-modulatie bij HIV-latentie en, bij positieve resultaten, een veiligheidsbeoordeling voor een eerste klinische studie
-- Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er geen geldige vergunning voor dit product is
+- Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

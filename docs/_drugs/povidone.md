@@ -48,10 +48,10 @@ Povidon is een hydrofiel polymeer dat wordt gebruikt in oogdruppels, oorspronkel
 |------|------|
 | Oorspronkelijke indicatie | Droog-oogsyndroom, xeroftalmie (volgens de kennisgraaf; de geregistreerde indicatietekst is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Congenitale ichthyosiforme erytrodermie |
-| TxGNN-voorspellingsscore | 99,11% |
+| TxGNN-voorspellingsscore | 0,9911 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Povidon is een hydrofiel polymeer dat wordt gebruikt in oogdruppels, oorspronkel
 
 Er zijn momenteel geen gegevens beschikbaar over het werkingsmechanisme van povidon. Op basis van bekende informatie is povidon een hydrofiel polymeer dat wordt gebruikt als bevochtigingsmiddel, smeermiddel en filmvormer (bijvoorbeeld in kunsttranen). De werkzaamheid bij droge ogen berust op deze eigenschappen.
 
-Congenitale ichthyosiforme erytrodermie is een erfelijke verhoorningsstoornis met een verstoorde huidbarrière. Theoretisch zou een vochtinbrengend en filmvormend effect bij de huid een symptomatische verzachting kunnen bieden. Dit is echter speculatief en wordt door geen enkel klinisch of preklinisch gegeven ondersteund. Een dergelijk effect zou bovendien hooguit symptomatisch zijn en pakt de onderliggende genetische oorzaak niet aan. De hoge modelscore (0,991) is een louter statistische voorspelling en geen bewijs van werkzaamheid.
+Congenitale ichthyosiforme erytrodermie is een erfelijke verhoorningsstoornis met een verstoorde huidbarrière. Theoretisch zou een vochtinbrengend en filmvormend effect bij de huid een symptomatische verzachting kunnen bieden. Dit is echter speculatief en wordt door geen enkel klinisch of preklinisch gegeven ondersteund. Een dergelijk effect zou bovendien hooguit symptomatisch zijn en pakt de onderliggende genetische oorzaak niet aan. De hoge modelscore (0,9911) is een louter statistische voorspelling van het TxGNN-model (deep learning) en geen bewijs van werkzaamheid.
 
 ---
 
@@ -82,7 +82,7 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119116//19305 | Oculotect unidose 50 mg/ml, oogdruppels | Oogdruppels (volgens productnaam) | Niet beschikbaar |
 
-Deze registratie is doorgehaald. Er is momenteel geen geldige vergunning voor povidon bij het CBG-MEB in de data die voor dit rapport is samengesteld.
+Povidon is in de handel. Er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB in de data die voor dit rapport is samengesteld.
 
 ---
 

@@ -50,10 +50,10 @@ Het sterkste klinische signaal betreft echter **acne inversa (hidradenitis suppu
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens (de geregistreerde indicatietekst is leeg) |
 | Voorspelde nieuwe indicatie | Acne |
-| TxGNN-voorspellingsscore | 99,94% |
+| TxGNN-voorspellingsscore | 0,9994 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -97,7 +97,7 @@ Acitretine is bovendien sterk teratogeen en heeft een lange uitwasperiode (bij a
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119746//13103 | Neotigason 10 mg, capsules | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 119746//13103 | Neotigason 10 mg, capsules | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 

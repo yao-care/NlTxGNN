@@ -4,17 +4,17 @@ title: Rocuronium
 parent: Alleen modelvoorspelling (L5)
 nav_order: 296
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Rocuronium: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (rocuronium wordt van…"
 monitor_inn: "rocuronium"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
 ---
 
 # Rocuronium
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Rocuronium is een niet-depolariserend spierverslappend middel dat in de anesthes
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van het CBG-MEB (rocuronium wordt van oudsher gebruikt als spierverslapper bij anesthesie) |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,90% |
+| TxGNN-voorspellingsscore | 0,9990 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen vervallen/doorgehaalde registratie |
-| Aantal registraties | 1 (vervallen) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Rocuronium is een niet-depolariserend spierverslappend middel dat in de anesthes
 
 Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Rocuronium is bekend als niet-depolariserende neuromusculaire blokker: het werkt als competitieve antagonist van de nicotine-acetylcholinereceptor ter hoogte van de neuromusculaire eindplaat. Dit leidt tot tijdelijke verslapping van skeletspieren.
 
-Er is geen bekende mechanistische relatie met de pathofysiologie van migraine (CGRP, activatie van het trigeminovasculaire systeem, corticale spreidingsdepressie). Perifere spierverslapping is geen erkende therapeutische strategie bij migraine. De zeer hoge TxGNN-score (0,999) is een voorspelling van een kennisgraaf en wordt niet gestaafd door klinisch of mechanistisch bewijs. Waarschijnlijk weerspiegelt de score de nabijheid van knopen in de graaf, niet een farmacologische grondslag.
+Er is geen bekende mechanistische relatie met de pathofysiologie van migraine (CGRP, activatie van het trigeminovasculaire systeem, corticale spreidingsdepressie). Perifere spierverslapping is geen erkende therapeutische strategie bij migraine. De zeer hoge TxGNN-score (0,9990) komt van het TxGNN-model (deep learning) en wordt niet gestaafd door klinisch of mechanistisch bewijs. De score kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet een biologische of farmacologische grondslag.
 
 Ook voor de andere voorspelde indicaties (o.a. migraine met hersenstamaura, cauda-equinasyndroom, prikkelbare darmsyndroom, ischiasneuropathie, hoofdpijnaandoening) is in de data geen plausibele mechanistische link gevonden.
 
@@ -91,7 +91,7 @@ Voor de verwante voorspelde indicatie *hoofdpijnaandoening* zijn twee publicatie
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (vervallen) | Niet vermeld | Niet vermeld |
+| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (geldig) | Niet vermeld | Niet vermeld |
 
 ---
 
@@ -113,7 +113,7 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een kennisgraafmodel (bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Bovendien is de enige Nederlandse registratie vervallen.
+- De voorspelling berust uitsluitend op het TxGNN-model (deep learning; bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).
 
 **Om verder te gaan is het volgende nodig:**
 - Aanvullende gegevens over het werkingsmechanisme en een aantoonbare farmacologische link met migrainepathofysiologie

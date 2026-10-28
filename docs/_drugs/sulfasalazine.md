@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 305
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, colitis ulcerosa, inflammatoire darmziekte…"
 monitor_inn: "Sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+description: "Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Sulfasalazine: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+## Sulfasalazine: Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -46,12 +46,12 @@ Sulfasalazine wordt van oudsher gebruikt bij reumatoïde artritis en chronische 
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Reumatoïde artritis, colitis ulcerosa, inflammatoire darmziekte, juveniele idiopathische artritis, spondyloartropathie |
-| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom |
-| TxGNN-voorspellingsscore | 99,94% (rang 186) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) |
+| TxGNN-voorspellingsscore | 0.9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Sulfasalazine wordt van oudsher gebruikt bij reumatoïde artritis en chronische 
 
 Voor deze voorspelling is **geen aannemelijke werkingsmechanismeverklaring** te geven. De gegevens die voor dit rapport zijn samengesteld bevatten geen gedetailleerde informatie over het werkingsmechanisme van sulfasalazine. Uit de bekende farmacologie is wel bekend dat sulfasalazine ontstekingsroutes (waaronder NF-κB) remt en het cystine/glutamaat-transportsysteem (systeem xc⁻) blokkeert. Dat verklaart de werking bij ontstekingsziekten zoals reumatoïde artritis en colitis ulcerosa.
 
-Het brachydactylie-syndactylie-syndroom is echter een zeldzame aangeboren ontwikkelingsafwijking van de handen en voeten, geen ontstekingsziekte. Er is geen duidelijk verband tussen de werking van sulfasalazine en het ontstaan van deze aandoening. De hoge modelscore is waarschijnlijk een gevolg van afstanden in de kennisgraaf en niet van een biologisch gefundeerd verband. De voorspelling moet daarom met grote terughoudendheid worden bekeken.
+Het brachydactylie-syndactylie-syndroom is echter een zeldzame aangeboren ontwikkelingsafwijking van de handen en voeten, geen ontstekingsziekte. Er is geen duidelijk verband tussen de werking van sulfasalazine en het ontstaan van deze aandoening. De hoge modelscore komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs. De voorspelling moet daarom met grote terughoudendheid worden bekeken.
 
 ---
 
@@ -78,7 +78,7 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Andere voorspelde indicaties met enig bewijs
 
-Van de tien voorspelde indicaties is alleen **artrose (osteoartritis)** (score 99,64%, rang 813) onderbouwd met literatuur. Het bewijs is voornamelijk preklinisch (bewijsniveau L4) en er zijn geen klinische studies bij artrose:
+Van de tien voorspelde indicaties is alleen **artrose (osteoartritis)** (score 0,9964, rang 813) onderbouwd met literatuur. Het bewijs is voornamelijk preklinisch (bewijsniveau L4) en er zijn geen klinische studies bij artrose:
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevinding |
 |------|-----|------|------|---------|
@@ -96,9 +96,9 @@ De overige zeven voorspellingen (o.a. WHIM-syndroom, myosclerose, acromesomele d
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie | Status |
 |---------|------|------|-----------|------|
-| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | Niet vermeld | Niet vermeld | Ingetrokken |
+| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | Niet vermeld | Niet vermeld | Geldig |
 
-Er is in Nederland geen geldige registratie meer. Raadpleeg voor actuele informatie het CBG-MEB.
+Raadpleeg voor actuele informatie het CBG-MEB.
 
 ---
 
@@ -128,7 +128,7 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de officiële
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor het brachydactylie-syndactylie-syndroom is alleen computationeel (L5). Er zijn geen studies of literatuur en er is geen plausibel mechanistisch verband. Bovendien is er geen geldige handelsvergunning in Nederland.
+- De voorspelling voor het brachydactylie-syndactylie-syndroom is alleen computationeel (L5). Er zijn geen studies of literatuur en er is geen plausibel mechanistisch verband.
 - Artrose is de enige voorspelde indicatie met een plausibel mechanisme, maar het bewijs is alleen preklinisch (L4). Die kan als onderzoeksvraag worden overwogen.
 
 **Om verder te gaan is het volgende nodig:**

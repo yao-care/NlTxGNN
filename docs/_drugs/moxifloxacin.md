@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Alleen modelvoorspelling (L5)
 nav_order: 240
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxifloxacin: voorspelde nieuwe indicatie Polyclonaal hyperviscositeitssyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties (o.a. pneumonie, peritonitis, conjunctivitis…"
 monitor_inn: "moxifloxacin"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
+description: "Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Moxifloxacine: van bacteriële infecties naar polyclonaal hyperviscositeitssyndroom
+## Moxifloxacin: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -48,12 +48,12 @@ Voor deze voorspelling zijn **0 klinische studies** en **0 publicaties** gevonde
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële infecties (o.a. pneumonie, peritonitis, conjunctivitis, pest) |
-| Voorspelde nieuwe indicatie | Polyclonaal hyperviscositeitssyndroom |
-| TxGNN-voorspellingsscore | 99,98% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Polyclonal hyperviscosity syndrome |
+| TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) registratie |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,7 +62,7 @@ Voor deze voorspelling zijn **0 klinische studies** en **0 publicaties** gevonde
 
 Er is op dit moment geen gedetailleerde informatie over het werkingsmechanisme beschikbaar in de voor dit rapport samengestelde gegevens. Moxifloxacine is bekend als antibacterieel fluorochinolon dat het bacteriële DNA-gyrase en topoisomerase IV remt. Dit mechanisme verklaart de werkzaamheid bij bacteriële infecties.
 
-Polyclonaal hyperviscositeitssyndroom is een hematologische aandoening die door eiwitten wordt veroorzaakt: de bloedviscositeit stijgt door een verhoogde hoeveelheid immunoglobulinen of andere plasma-eiwitten. Er is **geen plausibele mechanistische relatie** met de remming van bacteriële topoisomerasen. De hoge TxGNN-score weerspiegelt waarschijnlijk alleen patronen in de kennisgraaf, niet een daadwerkelijk therapeutisch effect.
+Polyclonaal hyperviscositeitssyndroom is een hematologische aandoening die door eiwitten wordt veroorzaakt: de bloedviscositeit stijgt door een verhoogde hoeveelheid immunoglobulinen of andere plasma-eiwitten. Er is **geen plausibele mechanistische relatie** met de remming van bacteriële topoisomerasen.
 
 De voorspelling moet daarom als zeer speculatief worden beschouwd.
 
@@ -84,9 +84,9 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie (status: doorgehaald) | Oplossing voor infusie (afgeleid uit de productnaam) | Niet beschikbaar in de gecompileerde gegevens |
+| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie (status: geldig) | Oplossing voor infusie (afgeleid uit de productnaam) | Niet beschikbaar in de gecompileerde gegevens |
 
-Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald. Er is dus geen geldige registratie van moxifloxacine in de samengestelde gegevens.
+Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.
 
 ---
 
@@ -102,7 +102,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
   - Maag-darmstelsel: Clostridium difficile-colitis, perinatale necrotiserende enterocolitis.
   - Overig: kaliumdeficiëntie.
 - **Geneesmiddelinteracties**: in totaal zijn 391 interacties geregistreerd. Voorbeelden van interacties van het niveau *Majeur*: hydrocortison, dexamethason, betamethason, triamcinolon, bupropion en chloorpropamide. Voorbeelden van niveau *Matig*: metformine, pioglitazon, alogliptine, canagliflozine, acarbose, famotidine, loperamide, acetylsalicylzuur en calciumzouten.
-- **Relevantie voor de voorspelde indicatie**: de kennisgraaf vermeldt perifere neuropathie als contra-indicatie. Dit weegt negatief mee bij aandoeningen met een hematologische oorzaak van neuropathie.
+- Dit weegt negatief mee bij aandoeningen met een hematologische oorzaak van neuropathie.
 
 ---
 
@@ -119,7 +119,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 - De SmPC en bijsluiter van het CBG-MEB voor een volledige veiligheidsbeoordeling.
 - Preklinisch of klinisch bewijs voor de voorspelde indicatie. Zonder dergelijk bewijs is verder onderzoek niet te rechtvaardigen.
 
-**Aanvullende opmerking over andere voorspellingen:** van de andere voorspelde indicaties heeft alleen **builenpest (bubonic plague)** een inhoudelijk plausibele basis, namelijk preklinisch bewijs uit dier- en in-vitro-modellen (niveau L4). Pest en longpest staan echter al bij de oorspronkelijke indicaties. Het gaat dus eerder om een uitbreiding van een bestaande indicatie dan om echte herpositionering. Overige voorspellingen, zoals monoklonale gammopathie en aangeboren hematologische aandoeningen, betreffen hooguit ondersteunende behandeling van infecties en niet de onderliggende ziekte.
+Pest en longpest staan echter al bij de oorspronkelijke indicaties. Het gaat dus eerder om een uitbreiding van een bestaande indicatie dan om echte herpositionering. Overige voorspellingen, zoals monoklonale gammopathie en aangeboren hematologische aandoeningen, betreffen hooguit ondersteunende behandeling van infecties en niet de onderliggende ziekte.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

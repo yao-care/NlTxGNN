@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nortriptyline
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 248
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "attention d
 # Nortriptyline
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Nortriptyline is een tricyclisch antidepressivum, op basis van de samengestelde 
 |------|------|
 | Oorspronkelijke indicatie | Angststoornis, neurotische stoornis, dysthyme stoornis (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Aandachtstekortstoornis met hyperactiviteit (ADHD) |
-| TxGNN-voorspellingsscore | 99,42% |
+| TxGNN-voorspellingsscore | 0,9942 |
 | Bewijsniveau | L2 (voorzichtige inschatting: een gecontroleerde studie lijkt te bestaan, maar fase, omvang en resultaten zijn niet beoordeeld) |
-| Marktstatus NL | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (aanvullend onderzoek nodig; zie conclusie) |
 
 ---
@@ -62,7 +62,7 @@ Er zijn voor dit rapport geen gegevens over het werkingsmechanisme beschikbaar. 
 
 Versterking van de noradrenerge signalering in de prefrontale schors is een gedeeld mechanisme van niet-stimulerende ADHD-middelen, zoals atomoxetine. Dat vormt een plausibele schakel tussen het oorspronkelijke gebruik (angst- en stemmingsstoornissen) en ADHD. Deze koppeling berust op algemene kennis van de geneesmiddelklasse en niet op de aangeleverde gegevens. De hoge TxGNN-score is slechts een computationele voorspelling.
 
-Het subtype *ADHD, overwegend onoplettend type* (score 99,33%) heeft geen eigen studies of publicaties. De score weerspiegelt waarschijnlijk vooral de nauwe relatie met de bovenliggende ADHD-term. Dit subtype is daarom niet als aparte kans beoordeeld en moet samen met ADHD worden bekeken.
+Het subtype *ADHD, overwegend onoplettend type* (score 0,9933) heeft geen eigen studies of publicaties. De score weerspiegelt waarschijnlijk vooral de nauwe relatie met de bovenliggende ADHD-term. Dit subtype is daarom niet als aparte kans beoordeeld en moet samen met ADHD worden bekeken.
 
 ---
 
@@ -98,7 +98,7 @@ Alleen titels en korte samenvattingen zijn beoordeeld; omvang en resultaten van 
 |---------|------|------|-----------|
 | RVG 115499//03286 | Nortrilen 25 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
 
-De enige vergunning (CBG-MEB) is doorgehaald; er is momenteel geen geldige vergunning voor nortriptyline in de samengestelde gegevens.
+De enige vergunning (CBG-MEB) is geldig; nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens.
 
 ---
 

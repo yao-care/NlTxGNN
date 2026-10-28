@@ -4,17 +4,17 @@ title: Tramadol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 327
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tramadol: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Artrose, artrose-gevoeligheid en artropathie"
 monitor_inn: "tramadol"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 ---
 
 # Tramadol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **acromesomele dy
 |------|------|
 | Oorspronkelijke indicatie | Artrose, artrose-gevoeligheid en artropathie (afkomstig uit de TxGNN-kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
 | Voorspelde nieuwe indicatie | Acromesomele dysplasie, type Hunter-Thompson |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (ingetrokken) |
-| Aantal handelsvergunningen | 3 (alle doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal handelsvergunningen | 3 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -59,7 +59,7 @@ Voor tramadol zijn in de samengestelde gegevens geen gegevens over het werkingsm
 
 Acromesomele dysplasie, type Hunter-Thompson, is een zeldzame skeletaandoening door functieverlies-varianten in het gen *CDMP1/GDF5*. Tramadol heeft geen bekend effect op de onderliggende route van botgroei. Er is dus **geen mechanistisch verband** gevonden.
 
-De hoge score lijkt te komen doordat de aandoening in de kennisgraaf dicht bij het cluster van skelet- en gewrichtsaandoeningen ligt (waaronder artrose en artropathie), niet doordat er een biologische onderbouwing is. De voorspelling moet daarom als een rekenkundig artefact worden beschouwd.
+De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen (waaronder artrose en artropathie), niet een biologische onderbouwing. De voorspelling moet daarom als een rekenkundig artefact worden beschouwd.
 
 Ook de overige negen voorspellingen in de gegevens (o.a. brachyolmie, pseudoachondroplasie, myosclerose, juveniele idiopathische artritis) hebben bewijsniveau L5. Hooguit kan tramadol daarbij symptomatische pijnverlichting geven, zonder effect op het ziekteproces.
 
@@ -73,13 +73,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 ## Informatie over de Nederlandse markt
 
-Alle drie de vergunningen zijn doorgehaald; er is geen geldige vergunning voor tramadol als enkelvoudig of gecombineerd product. Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.
+Alle drie de vergunningen zijn geldig en het middel is op de markt. Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 110742 | Tramadol HCl Aurobindo 50 mg, capsules, hard | Doorgehaald |
-| RVG 118638//28113 | Zaldiar 37,5/325 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 119051 | Tramadol/paracetamol 37,5/325 mg Focus, filmomhulde tabletten | Doorgehaald |
+| RVG 110742 | Tramadol HCl Aurobindo 50 mg, capsules, hard | Geldig |
+| RVG 118638//28113 | Zaldiar 37,5/325 mg, filmomhulde tabletten | Geldig |
+| RVG 119051 | Tramadol/paracetamol 37,5/325 mg Focus, filmomhulde tabletten | Geldig |
 
 ## Veiligheidsoverwegingen
 
@@ -94,14 +94,14 @@ Voor de bijsluiterteksten van het CBG-MEB (waarschuwingen en contra-indicaties) 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is geen klinisch of literatuurbewijs, geen mechanistisch verband en geen geldige Nederlandse vergunning. De hoge modelscore weerspiegelt vooral nabijheid in de kennisgraaf.
+- Er is geen klinisch of literatuurbewijs en geen mechanistisch verband. De hoge modelscore komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs.
 - De enige gekoppelde publicatie bij een andere voorspelling (juveniele artritis) gaat over ketoprofen, niet over tramadol.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een biologische onderbouwing voor de voorspelde indicatie
 - De SmPC-veiligheidsinformatie van het CBG-MEB (waarschuwingen en contra-indicaties), zodat een veiligheidsscreening mogelijk is
 - Preklinisch of klinisch bewijs dat verder gaat dan symptomatische pijnstilling
-- Beoordeling van de herregistratiestatus, aangezien alle vergunningen zijn doorgehaald
+- Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen geldig zijn
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

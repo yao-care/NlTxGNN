@@ -6,9 +6,9 @@ nav_order: 178
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Hyaluronidase: voorspelde nieuwe indicatie Diabetische retinopathie (hoogst scorende voorspelling: esotropie) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare registrat…"
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
+description: "Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Hyaluronidase
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Hyaluronidase: Van een niet-vastgelegde oorspronkelijke indicatie naar diabetische retinopathie
+## Hyaluronidase: Esotropia
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Hyaluronidase is een enzym dat hyaluronzuur afbreekt en in de praktijk vooral wo
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare registratiegegevens |
-| Voorspelde nieuwe indicatie | Diabetische retinopathie (hoogst scorende voorspelling: esotropie) |
-| TxGNN-voorspellingsscore | 99,71% (diabetische retinopathie); esotropie, rang 1: 99,89% |
-| Bewijsniveau | L1 (diabetische retinopathie) |
-| Marktstatus in Nederland | Alleen doorgehaald (vervallen registratie) |
-| Aantal registraties | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Esotropia |
+| TxGNN-voorspellingsscore | 0.9989 |
+| Bewijsniveau | L5 (diabetische retinopathie) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (zie toelichting) |
 
 **Opmerking over de keuze van de indicatie:** De hoogst scorende voorspelling (esotropie) berust uitsluitend op een bijwerking na lokale verdoving (strabismus als complicatie) en heeft geen therapeutische onderbouwing. Dit rapport richt zich daarom op diabetische retinopathie (rang 6), de enige voorspelling met substantieel klinisch bewijs. De overige voorspellingen zijn kort samengevat in de laatste sectie.
@@ -99,9 +99,8 @@ Er is een belangrijke kanttekening: de fase 3-studies betroffen vooral de opruim
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114351//15180 | Hyason 150 I.E., poeder voor injectievloeistof | Niet vastgelegd | Niet vastgelegd (registratie doorgehaald) |
+| RVG 114351//15180 | Hyason 150 I.E., poeder voor injectievloeistof | Niet vastgelegd | Niet vastgelegd (registratie geldig) |
 
-Er is geen geldige handelsvergunning van het CBG-MEB voor hyaluronidase in Nederland aanwezig; de enige registratie is doorgehaald.
 
 ---
 
@@ -135,15 +134,15 @@ De registratietekst (SmPC) bevat in de samengestelde data geen vastgelegde waars
 
 | Indicatie | Score | Bewijsniveau | Beoordeling |
 |---|---|---|---|
-| Esotropie | 99,89% | L4 | Alleen een case-serie waarin strabismus een complicatie is van lokale verdoving; geen therapeutische onderbouwing |
-| Amenorroe | 99,83% | L5 | Alleen een basaal fysiologisch onderzoek uit 1975; geen therapeutische gegevens |
-| Ernstige niet-proliferatieve diabetische retinopathie | 99,79% | L3 | Eén kleine open-label fase 2-studie (n=10); onvoldoende voor werkzaamheid |
-| Renale tubulaire acidose | 99,76% | L5 | Geen studies of literatuur |
-| Dermatitis | 99,73% | L4 | Voornamelijk indirecte literatuur (overgevoeligheid, filler-reacties, plantenextracten die het enzym remmen); geen bewijs van werkzaamheid |
-| Acrodermatitis chronica atrophicans | 99,58% | L5 | Geen studies of literatuur |
-| Diabetische cataract | 99,55% | L4 | Alleen indirecte literatuur over hyaluronidase als adjuvans bij verdoving |
-| Neonatale dermatomyositis | 99,51% | L5 | Geen studies of literatuur |
-| Niet-syndromale oesofagusmalformatie | 99,51% | L5 | Geen studies of literatuur; biologisch niet plausibel |
+| Esotropie | 0,9989 | L5 | Alleen een case-serie waarin strabismus een complicatie is van lokale verdoving; geen therapeutische onderbouwing |
+| Amenorroe | 0,9983 | L5 | Alleen een basaal fysiologisch onderzoek uit 1975; geen therapeutische gegevens |
+| Ernstige niet-proliferatieve diabetische retinopathie | 0,9979 | L5 | Eén kleine open-label fase 2-studie (n=10); onvoldoende voor werkzaamheid |
+| Renale tubulaire acidose | 0,9976 | L5 | Geen studies of literatuur |
+| Dermatitis | 0,9973 | L4 | Voornamelijk indirecte literatuur (overgevoeligheid, filler-reacties, plantenextracten die het enzym remmen); geen bewijs van werkzaamheid |
+| Acrodermatitis chronica atrophicans | 0,9958 | L5 | Geen studies of literatuur |
+| Diabetische cataract | 0,9955 | L4 | Alleen indirecte literatuur over hyaluronidase als adjuvans bij verdoving |
+| Neonatale dermatomyositis | 0,9951 | L5 | Geen studies of literatuur |
+| Niet-syndromale oesofagusmalformatie | 0,9951 | L5 | Geen studies of literatuur; biologisch niet plausibel |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

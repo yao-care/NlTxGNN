@@ -4,17 +4,17 @@ title: Pimecrolimus
 parent: Sterk bewijs (L1-L2)
 nav_order: 269
 evidence_level: L2
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pimecrolimus: voorspelde nieuwe indicatie Seborroïsche dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Constitutioneel eczeem (atopische dermatitis)"
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **4** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **4**
 
 </div>
 
-## Pimecrolimus: Van constitutioneel eczeem naar seborroïsche dermatitis
+## Pimecrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Pimecrolimus is een topische calcineurineremmer die oorspronkelijk wordt gebruikt voor constitutioneel eczeem (atopische dermatitis). Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **seborroïsche dermatitis**, ondersteund door **1 klinische studie (fase 2, afgerond)** en **19 publicaties**, waaronder twee systematische reviews van RCT's.
+Pimecrolimus is een topische calcineurineremmer die oorspronkelijk wordt gebruikt voor constitutioneel eczeem (atopische dermatitis).
 
 ---
 
@@ -46,12 +46,12 @@ Pimecrolimus is een topische calcineurineremmer die oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Constitutioneel eczeem (atopische dermatitis); de goedgekeurde indicatietekst van de Nederlandse vergunning ontbreekt in de verzamelde gegevens |
-| Voorspelde nieuwe indicatie | Seborroïsche dermatitis |
-| TxGNN-voorspellingsscore | 99,73% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Seborrheic dermatitis |
+| TxGNN-voorspellingsscore | 0.9973 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -99,7 +99,7 @@ Resultaten van deze studie zijn niet in de gegevens opgenomen, dus de werkzaamhe
 |---------|------|------|-----------|
 | RVG 118923//28742 | Elidel 10 mg/g crème | Crème (naam van het product) | Niet beschikbaar in de gegevens |
 
-Deze vergunning is doorgehaald. Er is dus momenteel geen geldig pimecrolimusproduct met een vergunning van het CBG-MEB in de aangeleverde gegevens.
+Deze vergunning is doorgehaald.
 
 ---
 
@@ -133,9 +133,8 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 
 | Rang | Aandoening | Score | Bewijsniveau | Besluit |
 |---|---|---|---|---|
-| 2 | Dermatitis (grotendeels overlappend met de bestaande indicatie) | 99,37% | L1 | Proceed with Guardrails |
-| 3 | Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) | 99,32% | L2 | Onderzoeksvraag |
-| 4 | Acrodermatitis chronica atrophicans | 99,01% | L5 | Hold |
+| 3 | Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) | 0,9932 | L5 | Onderzoeksvraag |
+| 4 | Acrodermatitis chronica atrophicans | 0,9901 | L5 | Hold |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

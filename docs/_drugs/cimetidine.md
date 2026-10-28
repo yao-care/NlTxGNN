@@ -4,17 +4,17 @@ title: Cimetidine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 86
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Cimetidine: voorspelde nieuwe indicatie Smouldering systemische mastocytose (bewijsniveau L5). Oorspronkelijke indicatie: Maagzweer, gastro-oesofageale refluxziekte, twaalfvingerigedarmzweer…"
+indication_count: 4
 monitor_inn: "Cimetidine"
-predicted_indications: ["peptic ulcer perforation", "lymphoadenopathic mastocytosis with eosinophilia", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
+predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
+last_modified_at: 2026-10-27
+description: "Cimetidine: voorspelde nieuwe indicatie Maagzweerperforatie (peptic ulcer perforation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Cimetidine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,101 +33,74 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Cimetidine: Van maagzweer naar smouldering systemische mastocytose
+## Cimetidine: histamine-H2-receptorantagonist → Maagzweerperforatie (peptic ulcer perforation)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Cimetidine is een H2-receptorantagonist die oorspronkelijk wordt gebruikt bij maag- en twaalfvingerigedarmzweren en reflux. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **smouldering systemische mastocytose**, maar er zijn **geen geregistreerde klinische studies** en **geen specifieke literatuur** voor deze indicatie; de voorspelling berust uitsluitend op het model.
-
----
+Cimetidine is een histamine-H2-receptorantagonist die de maagzuurproductie remt. Het TxGNN-model voorspelt een mogelijke werking bij **maagzweerperforatie (peptic ulcer perforation)**. De onderbouwing is zwak: er zijn **geen geregistreerde klinische studies** en **21 publicaties**, vooral oudere beschrijvingen en overzichten, waarvan een deel juist perforaties tijdens cimetidinebehandeling beschrijft.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Maagzweer, gastro-oesofageale refluxziekte, twaalfvingerigedarmzweer, Zollinger-Ellison-syndroom en systemische mastocytose (volgens indicatierelaties in de kennisgraaf; de tekst van de Nederlandse vergunning bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Smouldering systemische mastocytose |
-| TxGNN-voorspellingsscore | 99,80% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maagzweerperforatie (peptic ulcer perforation) |
+| TxGNN-voorspellingsscore | 0,9977 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
-| Aanbevolen besluit | Hold |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling (on)aannemelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+Er zijn voor dit rapport geen betrouwbare gegevens over het werkingsmechanisme beschikbaar. Cimetidine remt de zuurproductie in de maag, wat relevant is bij zweerziekte. Een perforatie is echter een acute, vaak chirurgische complicatie, en niet een aandoening die met zuurremming alleen wordt behandeld.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van bekende informatie blokkeert cimetidine als H2-receptorantagonist de histamine-H2-receptoren op de pariëtale cellen van de maag en remt zo de zuursecretie.
-
-Bij systemische mastocytose geven mestcellen veel histamine af, wat tot overmatige maagzuurproductie kan leiden. Cimetidine is in de kennisgraaf al gekoppeld aan systemische mastocytose als symptoombestrijding. Dat maakt het biologisch plausibel dat het ook bij de smouldering vorm de histamineafhankelijke klachten kan verminderen.
-
-Belangrijk: cimetidine is niet ziektemodificerend en pakt de onderliggende clonale mestcelziekte niet aan. De hoge score weerspiegelt waarschijnlijk de bestaande koppeling met systemische mastocytose en niet nieuw klinisch bewijs.
-
----
+De gevonden literatuur wijst niet op een therapeutisch voordeel. Meerdere publicaties beschrijven perforaties die optraden tijdens of na het stoppen van cimetidine (PMID 3967139, 6743974, 922364). Dat kan duiden op een veiligheidssignaal of onvoldoende werkzaamheid, niet op een behandeleffect. Enkele ecologische analyses laten zien dat het aantal electieve ingrepen daalde na de introductie van cimetidine, terwijl het aantal perforaties nauwelijks daalde (bijv. 10% in PMID 7082957). De hoge modelscore weerspiegelt waarschijnlijk de inhoudelijke nabijheid tot zweerziekte, niet klinische ondersteuning.
 
 ## Bewijs uit klinische studies
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor smouldering systemische mastocytose.
-
----
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
-Momenteel is er geen gerelateerde literatuur beschikbaar voor deze indicatie.
+Geen van de publicaties betreft een gecontroleerde studie naar cimetidine als behandeling van maagzweerperforatie.
 
----
-
-## Overige voorspelde indicaties (ter context)
-
-| Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
-|------|------|------|------|
-| Actieve peptische ulcusziekte | 99,79% | L4 | Reeds een oorspronkelijke indicatie; één placebogecontroleerde studie (PMID 7034155, 1981), overig vooral overzichtsartikelen over andere middelen |
-| Peptische ulcusperforatie | 99,77% | L4 | Literatuur beschrijft vooral perforaties tijdens cimetidinegebruik; mogelijk een veiligheidssignaal, geen therapeutisch voordeel |
-| Gastrojejunaal ulcus | 99,77% | L4 | Alleen indirect bewijs; mechanistisch plausibel (zuurafhankelijk) |
-| Lymfadenopathische mastocytose met eosinofilie | 99,76% | L5 | Geen studies of literatuur |
-| Duodenogastrische reflux | 99,49% | L4 | Alleen fysiologische studies; geen aangetoond klinisch voordeel |
-| Duodenale obstructie | 99,44% | L4 | Alleen casuïstiek bij ulcusgerelateerde obstructie (PMID 361048) |
-| Acne | 99,33% | L4 | Anti-androgene werking plausibel; alleen overzichtsartikelen; onderzoeksvraag |
-| Afwijkende glucagonsecretie | 99,14% | L5 | Enige artikel is een diagnostische beeldvormingsstudie, niet relevant |
-
----
+| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
+|------|-----|------|------|---------|
+| [7082957](https://pubmed.ncbi.nlm.nih.gov/7082957/) | 1982 | Commentaar/casus | Br J Surg | Na de komst van cimetidine daalden electieve ingrepen met 45%, perforaties slechts met 10% |
+| [6743974](https://pubmed.ncbi.nlm.nih.gov/6743974/) | 1984 | Casusreeks | Br J Surg | Negen perforaties van een duodenumzweer tijdens cimetidinebehandeling; alle patiënten kregen uiteindelijk vagotomie |
+| [3967139](https://pubmed.ncbi.nlm.nih.gov/3967139/) | 1985 | Casus | Br J Surg | Perforatie tijdens cimetidinegebruik |
+| [922364](https://pubmed.ncbi.nlm.nih.gov/922364/) | 1977 | Niet geclassificeerd | Br Med J | Perforatie van een maagzweer na het staken van cimetidine |
+| [8364140](https://pubmed.ncbi.nlm.nih.gov/8364140/) | 1993 | Overzicht van gecontroleerde studies | Aliment Pharmacol Ther | Continue behandeling met H2-antagonisten vermindert het terugkeren van zweren |
+| [6113521](https://pubmed.ncbi.nlm.nih.gov/6113521/) | 1981 | Overzicht/commentaar | Lancet | Algemeen overzicht over cimetidine en maagzweren |
+| [6649737](https://pubmed.ncbi.nlm.nih.gov/6649737/) | 1983 | Retrospectieve analyse | Z Gastroenterol | Na cimetidine daalde het aantal geopereerde patiënten met 35% |
+| [6150640](https://pubmed.ncbi.nlm.nih.gov/6150640/) | 1984 | Overzicht | Am J Med | Het aantal perforaties is niet significant veranderd ondanks minder ziekenhuisopnames |
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 56339 | Cimetidine CF 400 mg, tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
-
-Het enige Nederlandse CBG-MEB-product is niet meer actief op de markt.
-
----
+| RVG 56339 | Cimetidine CF 400 mg, tabletten | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-Voor cimetidine zijn geen gegevens uit de bijsluiter of SmPC beschikbaar in de samengestelde data. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+- **Geneesmiddelinteracties:** in de verzamelde gegevens zijn 100 interacties geregistreerd. Voorbeelden van matige interacties zijn paclitaxel, fentanyl, acalabrutinib, lidocaïne, acebutolol, nifedipine, codeïne, tramadol en alfentanil. Voorbeelden van geringe interacties zijn dolutegravir, zidovudine, paracetamol, ibuprofen en ketorolac.
 
-**Contra-indicaties volgens de kennisgraaf** (geen bijsluitertekst): leverziekte, galblaasziekte, verminderde nierfunctie, maagkanker en maagneoplasmata (waaronder diffuus maagadenocarcinoom, linitis plastica en maagcarcinoom).
-
-**Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden. Voorbeelden uit de eerste 20:
-- **Matig:** paclitaxel, fentanyl, acalabrutinib, lidocaïne, acebutolol, dihydrocodeïne, codeïne, tramadol, nifedipine, alfentanil
-- **Gering:** dolutegravir, zidovudine, paracetamol, ketorolac, ibuprofen, ethinylestradiol, albendazol, ethanol, alendroninezuur, cholecalciferol
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het product, zoals goedgekeurd door het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor smouldering systemische mastocytose is geen klinisch of literatuurbewijs beschikbaar (L5). De hoge score weerspiegelt waarschijnlijk de bestaande mastocytose-indicatie. Cimetidine geeft alleen symptoomverlichting. In Nederland is de enige vergunning bovendien doorgehaald.
+- Er zijn geen klinische studies en geen publicatie die cimetidine direct als behandeling van maagzweerperforatie onderzoekt. Het bewijsniveau is daarom L5. Meerdere publicaties wijzen eerder op perforaties tijdens behandeling dan op een therapeutisch voordeel.
 
 **Om verder te gaan is nodig:**
-- Bijsluitertekst (SmPC) van het CBG-MEB voor waarschuwingen en contra-indicaties
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Gericht literatuuronderzoek en klinische gegevens voor smouldering systemische mastocytose
-- Beoordeling of er na het doorhalen van de vergunning nog een beschikbaar product en toedieningsroute is
-- Een veiligheidsbeoordeling van de interacties, vooral met oncologische middelen en opioïden
+- Gegevens over het werkingsmechanisme en een beoordeling of zuurremming bij een acute perforatie klinisch zinvol is
+- Gecontroleerd onderzoek dat cimetidine direct bij deze aandoening evalueert
+- Uitwerking van de SmPC-gegevens over waarschuwingen en contra-indicaties
+- Een analyse van het veiligheidssignaal van perforaties tijdens cimetidinegebruik
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

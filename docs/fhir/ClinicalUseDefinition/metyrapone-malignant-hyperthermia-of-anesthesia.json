@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "malignant-hyperthermia-of-anesthesia",
-          "display": "malignant hyperthermia of anesthesia"
-        }
-      ],
-      "text": "malignant hyperthermia of anesthesia",
       "concept": {
         "text": "malignant hyperthermia of anesthesia"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9923
     }
   ]
 }

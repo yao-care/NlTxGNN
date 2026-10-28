@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Desmopressin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 106
-evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Desmopressin: voorspelde nieuwe indicatie Primaire afgifestoornis van bloedplaatjes (bewijsniveau L3). Oorspronkelijke indicatie: Erfelijke von Willebrand-ziekte, hemofilie…"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
+last_modified_at: 2026-10-27
+description: "Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,40 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **7**
 
 </div>
 
-## Desmopressine: Van von Willebrand-ziekte en nachtelijke enuresis naar primaire afgifestoornis van bloedplaatjes
+## Desmopressine: synthetisch vasopressine-analoog (V2-receptoragonist) → congenitale protrombinedeficiëntie (congenital prothrombin deficiency)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Desmopressine wordt van oudsher gebruikt bij erfelijke von Willebrand-ziekte, hemofilie en nachtelijke enuresis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij een **primaire afgifestoornis van bloedplaatjes** (primary release disorder of platelets). Hiervoor zijn **geen geregistreerde klinische studies** en **9 publicaties** beschikbaar, grotendeels reviews en kleine, niet-gerandomiseerde studies.
-
-Let op: de voorspelling met de hoogste TxGNN-score (aangeboren protrombinedeficiëntie) heeft nauwelijks mechanistische onderbouwing. Daarom is in dit rapport de indicatie met de beste onderbouwing in de gegevens gekozen. De overige voorspellingen worden kort besproken onder "Overige voorspelde indicaties".
+Desmopressine is een synthetisch analoog van het hormoon vasopressine dat wordt gebruikt bij bloedingsstoornissen en andere aandoeningen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **congenitale protrombinedeficiëntie (congenital prothrombin deficiency)**. Voor deze voorspelling zijn **geen klinische studies** en slechts **1 publicatie** (een algemeen overzichtsartikel) beschikbaar; het bewijs is dus zeer beperkt.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Erfelijke von Willebrand-ziekte, hemofilie, nachtelijke enuresis (volgens de kennisgraaf; de vergunningstekst is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Primaire afgifestoornis van bloedplaatjes |
-| TxGNN-voorspellingsscore | 99,26% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
-| Aanbevolen beslissing | Doorgaan met randvoorwaarden (Proceed with Guardrails) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) |
+| TxGNN-voorspellingsscore | 0,9970 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling aannemelijk (of juist niet)?
 
-Gegevens over het werkingsmechanisme van desmopressine zijn in de data voor dit rapport niet beschikbaar. Uit de literatuur is wel bekend dat desmopressine via de V2-receptor von Willebrand-factor (VWF) en factor VIII uit de endotheelcellen vrijmaakt. Daardoor neemt de adhesie van bloedplaatjes toe en wordt de bloedingstijd korter.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Uit de bekende farmacologie blijkt dat desmopressine via de V2-receptor de afgifte van von Willebrand-factor (VWF) en factor VIII uit endotheelcellen stimuleert.
 
-Bij afgifestoornissen van bloedplaatjes (zoals "storage pool"-defecten) is de primaire hemostase verstoord, wat milde tot matige bloedingen geeft. De verhoogde VWF-spiegel kan dit gedeeltelijk compenseren. Dat past bij de oorspronkelijke indicatie von Willebrand-ziekte, waarbij ook de plaatjesadhesie centraal staat.
-
-De literatuur beschrijft ook dat het effect niet volledig door VWF/FVIII te verklaren is, omdat VWF/FVIII-concentraten in deze situaties geen effect hebben. Mogelijk spelen aan microdeeltjes gebonden VWF een rol. De respons verschilt per patiënt.
+Protrombine (factor II) wordt niet via deze route vrijgemaakt. Er is daarom geen duidelijke mechanistische onderbouwing voor werkzaamheid bij protrombinedeficiëntie. De hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid van deze aandoening tot andere bloedingsstoornissen in het model, en niet een aangetoonde farmacologische relatie. De voorspelling moet dan ook met grote terughoudendheid worden beoordeeld.
 
 ---
 
 ## Klinisch trialbewijs
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
@@ -78,15 +74,9 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [36656570](https://pubmed.ncbi.nlm.nih.gov/36656570/) | 2023 | Review | Eur J Haematol | Desmopressine maakt VWF en FVIII vrij, verbetert plaatjesadhesie en kan werkzaam zijn bij milde hemofilie A, bepaalde VWD-subtypen, uremie en leverziekte; complicaties zijn hyponatriëmie en zelden arteriële trombose |
-| [21509710](https://pubmed.ncbi.nlm.nih.gov/21509710/) | 2011 | Cohortstudie | Klin Padiatr | Effect van desmopressine op primaire hemostase bij kinderen met aspirine-achtig defect (erfelijke trombocytopathie) |
-| [23051555](https://pubmed.ncbi.nlm.nih.gov/23051555/) | 2013 | Mechanistische studie | Haemophilia | Na desmopressine is meer VWF aan microdeeltjes gebonden; dit kan effecten bij plaatjesstoornissen helpen verklaren |
-| [22057877](https://pubmed.ncbi.nlm.nih.gov/22057877/) | 2011 | Casusbeschrijving | Hamostaseologie | Therapieresistente menorragie als eerste uiting van Hermansky-Pudlak-syndroom (afgifedefect van δ-granula) |
-| [22726100](https://pubmed.ncbi.nlm.nih.gov/22726100/) | 2012 | Review | Haemophilia | Overzicht van erfelijke plaatjesstoornissen |
-| [18278172](https://pubmed.ncbi.nlm.nih.gov/18278172/) | 2008 | Review | Thromb Haemost | Aangeboren stoornissen met plaatjesdisfunctie |
-| [16580053](https://pubmed.ncbi.nlm.nih.gov/16580053/) | 2006 | Review | Thromb Res | Profylaxe bij VWD; desmopressine als hoeksteen van de behandeling |
-| [30986390](https://pubmed.ncbi.nlm.nih.gov/30986390/) | 2019 | Richtlijn | Gastroenterology | AGA-update over stolling bij cirrose |
-| [34818873](https://pubmed.ncbi.nlm.nih.gov/34818873/) | 2022 | Mechanistische studie | Haematologica | First-in-human-studie met aptameer BT200, dat VWF en FVIII verhoogt (indirect relevant) |
+| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Review | Drugs | Overzicht van rationele behandelopties bij aangeboren bloedingsstoornissen (hemofilie A, ziekte van von Willebrand); geen specifieke gegevens over desmopressine bij protrombinedeficiëntie |
+
+Er is geen publicatie die de voorspelde aandoening zelf rechtstreeks onderzoekt.
 
 ---
 
@@ -94,51 +84,43 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117350//30855 | Minrin Melt 60 microgram, lyofilisaat voor oraal gebruik | Niet vermeld | Niet vermeld (status: doorgehaald) |
+| RVG 117350//30855 | Minrin Melt 60 microgram, lyofilisaat voor oraal gebruik | Niet vermeld | Niet vermeld |
 
-Er is geen geldige handelsvergunning meer in de data van het CBG-MEB. Voor actuele informatie over beschikbare desmopressinepreparaten wordt verwezen naar de SmPC en de bijsluiter.
+De lijst met vergunningen is mogelijk niet volledig weergegeven; raadpleeg voor actuele registratiegegevens CBG-MEB.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (afkomstig uit de TxGNN-kennisgraaf, niet uit de bijsluitertekst): hypertensie, coronaire hartziekte, verminderde nierfunctie, cystic fibrosis, allergische en vasomotore rinitis, faryngitis, verkoudheid, luchtweginfecties, dipsogene diabetes insipidus, polydipsie, waterintoxicatie en von Willebrand-ziekte (bepaalde subtypen).
-- **Hyponatriëmie en trombotische voorvallen**: de literatuur noemt hyponatriëmie als belangrijkste complicatie en zelden arteriële trombose. Bij gebruik is controle van het natriumgehalte en een testdosis om de respons te beoordelen aan te bevelen.
-- **Geneesmiddelinteracties**: in totaal zijn 244 interacties gevonden. Belangrijkste:
-  - *Ernstig (Major)*: hydrocortison, triamcinolon, dexamethason, beclometasondipropionaat, betamethason, budesonide, prednisolon, prednison
-  - *Matig (Moderate)*: epinefrine, loperamide, morfine (ook liposomaal), opium, chloorpropamide
-  - *Gering (Minor)*: acetylsalicylzuur
+Voor warnings en contra-indicaties uit de productinformatie zijn in de samengestelde gegevens geen waarden beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
 
-Voor de volledige veiligheidsinformatie wordt verwezen naar de SmPC, omdat waarschuwingen en contra-indicaties uit de bijsluiter niet beschikbaar waren.
+**Geneesmiddelinteracties:** Er zijn in totaal 244 interacties gevonden. Voorbeelden van **ernstige (major)** interacties zijn:
+- Hydrocortison
+- Triamcinolon
+- Dexamethason
+- Beclometasondipropionaat
+- Betamethason
+- Budesonide
+- Prednisolon
+- Prednison
 
----
-
-## Overige voorspelde indicaties
-
-| Voorspelde indicatie | Score | Niveau | Beoordeling |
-|------|------|------|------|
-| Aangeboren protrombinedeficiëntie | 99,70% | L5 | Hold: geen mechanistische onderbouwing; de score weerspiegelt waarschijnlijk netwerknabijheid in de graaf |
-| Erfelijke trombofilie | 99,44% | L5 | Hold: prothrombotische toestand; een therapeutisch verband is onaannemelijk en er is een mogelijk trombotisch risico |
-| Glanzmann-trombasthenie | 99,30% | L4 | Onderzoeksvraag: alleen reviews en casuïstiek; desmopressine corrigeert het aggregatiedefect niet en hooguit een aanvullende rol bij milde bloedingen |
-| Pseudo-von Willebrand-ziekte (plaatjestype) | 99,16% | L4 | Hold: desmopressine kan trombocytopenie verergeren en is relatief gecontra-indiceerd |
-| Scott-syndroom | 99,16% | L4 | Hold: indirect en speculatief; geen desmopressinespecifieke gegevens |
-| "Flood factor deficiency" | 99,15% | L4 | Hold: waarschijnlijk een fout in de naamgeving of koppeling; entiteit eerst verifiëren |
+Voorbeelden van **matige** interacties: epinefrine, loperamide, morfine, opium en chloorpropamide. Acetylsalicylzuur heeft een **geringe** interactie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met randvoorwaarden (Proceed with Guardrails)**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Primaire afgifestoornis van bloedplaatjes is de best onderbouwde voorspelling, met een plausibel mechanisme (VWF/FVIII-vrijmaking, kortere bloedingstijd) en kleine klinische studies. Het bewijs is echter beperkt, niet-gerandomiseerd en wisselend in respons (L3).
+- Er zijn geen klinische studies en geen publicaties die desmopressine bij congenitale protrombinedeficiëntie rechtstreeks onderzoeken, dus het bewijsniveau is L5 (alleen modelvoorspelling).
+- Het bekende werkingsmechanisme (afgifte van VWF en factor VIII) biedt geen aanknopingspunt voor een effect op protrombine.
 
 **Om verder te gaan is nodig:**
-- Gegevens over het werkingsmechanisme en de officiële veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties ontbreken in de huidige data)
-- Controle van de actuele Nederlandse vergunningsstatus, aangezien de enige vergunning in de data is doorgehaald
-- Gerandomiseerde of gecontroleerde studies naar effectiviteit bij afgifestoornissen van plaatjes
-- Een protocol met testdosis, natriummonitoring en uitsluiting van patiënten met de genoemde contra-indicaties
-- Verificatie van de entiteit "flood factor deficiency" en heroverweging van de hoogst scorende voorspellingen met lage plausibiliteit
+- Een gedegen mechanistische onderbouwing van een mogelijk effect op de protrombinespiegel
+- Preklinische of klinische gegevens die deze aandoening rechtstreeks onderzoeken
+- Aanvullende veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties, waaronder risico op hyponatriëmie)
+- Verificatie van de actuele vergunningsstatus bij CBG-MEB
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -4,17 +4,17 @@ title: Oxymetazoline
 parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis, verkoudheid (afkomstig uit de kennisgraaf"
 monitor_inn: "oxymetazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
+predicted_indications: ["nasal cavity disease", "headache disorder"]
+description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxymetazoline
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Oxymetazoline: Van faryngitis en verkoudheid naar aandoeningen van de neusholte
+## Oxymetazoline: Aandoening van de neusholte (nasal cavity disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,12 +44,12 @@ Oxymetazoline is een lokaal werkend sympathicomimeticum dat oorspronkelijk wordt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Faryngitis, verkoudheid (afkomstig uit de kennisgraaf; in de Nederlandse vergunning is geen indicatietekst vermeld) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Aandoening van de neusholte (nasal cavity disease) |
-| TxGNN-voorspellingsscore | 99,96% |
+| TxGNN-voorspellingsscore | 0.9996 |
 | Evidentieniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -78,7 +78,7 @@ Slechts twee publicaties (1998 en 1996) zijn direct relevant; de overige noemen 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | Neusspray, oplossing | Niet vermeld in de beschikbare gegevens (vergunning doorgehaald) |
+| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | Neusspray, oplossing | Niet vermeld in de beschikbare gegevens (vergunning geldig) |
 
 ## Veiligheidsoverwegingen
 
@@ -105,8 +105,7 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 | Rang | Voorspelde indicatie | Score | Evidentieniveau | Aanbeveling |
 |------|------|------|------|------|
-| 2 | Acute laryngofaryngitis | 99,95% | L5 | Hold: geen studies of literatuur; alleen modelvoorspelling |
-| 3 | Hoofdpijnaandoening | 99,04% | L3 | Onderzoeksvraag: één observationele studie (2020, [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) naar intranasaal tetracaïne 3% plus oxymetazoline 0,05% bij status migrainosus. De bijdrage van oxymetazoline alleen is onduidelijk. |
+| 3 | Hoofdpijnaandoening | 0,9904 | L3 | Onderzoeksvraag: één observationele studie (2020, [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) naar intranasaal tetracaïne 3% plus oxymetazoline 0,05% bij status migrainosus. De bijdrage van oxymetazoline alleen is onduidelijk. |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

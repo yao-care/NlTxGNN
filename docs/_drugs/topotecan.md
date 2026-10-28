@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Topotecan
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 326
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L3). Oorspronkelijke indicatie: Ovariumcarcinoom (eierstokkanker) en verwante eierstoktumoren (bron:…"
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Topotecan: Van ovariumcarcinoom naar mammacarcinoom (borstkanker bij vrouwen)
+## Topotecan: Mammacarcinoom (female breast carcinoma)
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -46,12 +46,12 @@ Topotecan is een celdodend middel (cytostaticum) dat oorspronkelijk wordt gebrui
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Ovariumcarcinoom (eierstokkanker) en verwante eierstoktumoren (bron: kennisgraaf, niet uit de productinformatie) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Mammacarcinoom (female breast carcinoma) |
-| TxGNN-voorspellingsscore | 99,92% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| TxGNN-voorspellingsscore | 0.9992 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -99,7 +99,7 @@ De klinische onderbouwing is zwak. Er is geen fase 3-onderzoek of gerandomiseerd
 |---------|------|------|-----------|
 | RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml | Concentraat voor oplossing voor infusie | – |
 
-Deze vergunning is doorgehaald. Op dit moment is er dus geen geldig topotecanproduct in de samengestelde Nederlandse gegevens. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.
+Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.
 
 ---
 
@@ -135,7 +135,6 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie (CBG-
 
 **Onderbouwing:**
 - Er is geen fase 3-onderzoek of gerandomiseerd bewijs voor topotecan bij borstkanker. De enige gepubliceerde fase 2-studie liet geen verhoogde werkzaamheid zien.
-- Er is geen geldige Nederlandse vergunning, en de officiële veiligheidsinformatie ontbreekt.
 
 **Om verder te gaan is het volgende nodig:**
 - De SmPC en bijsluiter van het CBG-MEB of EMA ophalen en beoordelen op waarschuwingen en contra-indicaties.

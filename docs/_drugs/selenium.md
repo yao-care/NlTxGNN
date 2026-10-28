@@ -46,10 +46,10 @@ Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de verzamelde gegevens |
 | Voorspelde nieuwe indicatie | Sclerosing cholangitis |
-| TxGNN-voorspellingsscore | 99,04% |
+| TxGNN-voorspellingsscore | 0,9904 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geen geldige) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -78,7 +78,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie (status: doorgehaald) | Concentraat voor oplossing voor infusie | Niet beschikbaar |
+| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie (status: geldig) | Concentraat voor oplossing voor infusie | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 
@@ -93,7 +93,7 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De hoge TxGNN-score (99,04%) is een puur computationele voorspelling. Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.
+- De hoge TxGNN-score (0,9904) is een puur computationele voorspelling. Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.
 
 **Om verder te gaan is het volgende nodig:**
 - De officiële productinformatie (SmPC/bijsluiter) van het CBG-MEB voor waarschuwingen en contra-indicaties, als voorwaarde voor een veiligheidsscreening

@@ -4,9 +4,9 @@ title: Lamotrigine
 parent: Sterk bewijs (L1-L2)
 nav_order: 195
 evidence_level: L2
-indication_count: 9
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Lamotrigine: voorspelde nieuwe indicatie Trigeminusneuralgie (hoogst gerangschikte voorspelling met klinische… (bewijsniveau L2). Oorspronkelijke indicatie: Epilepsie (o.a. partiële epilepsie, Lennox…"
+description: "Lamotrigine: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (hoogst gerangschikte voorspelling met klinische… (bewijsniveau L2). Oorspronkelijke indicatie: Epilepsie (o.a. partiële epilepsie, Lennox…"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 # Lamotrigine
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **9**
 
 </div>
 
-## Lamotrigine: Van epilepsie naar trigeminusneuralgie
+## Lamotrigine: Van epilepsie naar Trigeminuszenuwneoplasma
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,10 +48,10 @@ Lamotrigine is een anti-epilepticum dat oorspronkelijk wordt gebruikt bij epilep
 |------|------|
 | Oorspronkelijke indicatie | Epilepsie (o.a. partiële epilepsie, Lennox-Gastaut-syndroom); de vergunningstekst in Nederland is niet beschikbaar |
 | Voorspelde nieuwe indicatie | Trigeminusneuralgie (hoogst gerangschikte voorspelling met klinische onderbouwing; de nominaal hoogste score betrof "trigeminal nerve neoplasm", maar die is niet onderbouwd) |
-| TxGNN-voorspellingsscore | 99,89% (trigeminusneuralgie) |
+| TxGNN-voorspellingsscore | 0,9997 (Trigeminuszenuwneoplasma) |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -62,7 +62,7 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Trigeminusneuralgie ontstaat vaak door compressie van de zenuwwortel, met focale demyelinisatie en abnormale, hoogfrequente ontladingen van de zenuwvezels. Natriumkanaalblokkade past bij dit mechanisme. De Europese richtlijn (EAN 2019) positioneert lamotrigine als aanvullende of alternatieve optie wanneer eerstelijnsmiddelen niet worden verdragen.
 
-Let op: de voorspelling "trigeminal nerve neoplasm" (een tumor van de nervus trigeminus) heeft de hoogste score, maar de gevonden literatuur gaat over trigeminusneuralgie (een pijnsyndroom) en niet over een behandeling van een tumor met lamotrigine. Deze voorspelling weerspiegelt waarschijnlijk de nabijheid in de kennisgraaf en geen antitumorwerking. Hooguit zou lamotrigine de tumorgerelateerde neuropathische pijn kunnen verlichten, wat symptomatisch is en de ziekte niet beïnvloedt.
+Let op: de voorspelling "trigeminal nerve neoplasm" (een tumor van de nervus trigeminus) heeft de hoogste score, maar de gevonden literatuur gaat over trigeminusneuralgie (een pijnsyndroom) en niet over een behandeling van een tumor met lamotrigine. De score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs. Hooguit zou lamotrigine de tumorgerelateerde neuropathische pijn kunnen verlichten, wat symptomatisch is en de ziekte niet beïnvloedt.
 
 ---
 
@@ -104,7 +104,7 @@ Selectie voor trigeminusneuralgie en de dichtstbijzijnde epilepsie-indicaties:
 |---------|------|------|-----------|
 | RVG 119853//20926 | Lamictal Dispers 50 mg, kauwtabletten/dispergeerbare tabletten | Niet gespecificeerd | Niet gespecificeerd |
 
-Deze enige registratie bij het CBG-MEB is doorgehaald. Er is momenteel dus geen geldige vergunning in de data die voor dit rapport zijn samengesteld. Actuele marktstatus en andere lamotriginepreparaten moeten via het CBG-MEB worden gecontroleerd.
+Deze enige registratie bij het CBG-MEB is geldig (1 geldige vergunning van 1). Het middel is dus in Nederland op de markt. Actuele marktstatus en andere lamotriginepreparaten moeten via het CBG-MEB worden gecontroleerd.
 
 ---
 

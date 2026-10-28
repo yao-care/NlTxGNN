@@ -48,10 +48,10 @@ Ganirelix is een GnRH-antagonist die wordt gebruikt om voortijdige LH-pieken te 
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de verzamelde gegevens (vergunningstekst ontbreekt) |
 | Voorspelde nieuwe indicatie | Hypertrichose |
-| TxGNN-voorspellingsscore | 99,98% |
+| TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen geschrapt (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geschrapt) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---
@@ -87,7 +87,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | Niet vermeld | Niet vermeld |
 
-Deze vergunning heeft de status geschrapt. Er is geen geldige vergunning voor een enkelvoudig of combinatieproduct.
+Deze vergunning heeft de status geldig. Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning.
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 335
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar"
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
+description: "Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tyrosine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tyrosine: Van een voedingscomponent naar cauda equina-syndroom
+## Tyrosine: Cauda equina-syndroom (cauda equina syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tyrosine is een aminozuur dat in de Nederlandse registratie alleen voorkomt als 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar (de registratie bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Cauda equina-syndroom |
-| TxGNN-voorspellingsscore | 99,77% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Cauda equina-syndroom (cauda equina syndrome) |
+| TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -68,15 +68,15 @@ De gegevens bevatten nog negen andere voorspellingen. Geen daarvan heeft sterk b
 
 | Voorspelde indicatie | Score | Bewijsniveau | Beoordeling |
 |------|------|------|------|
-| Voormalige neurogene blaas (verouderde ziektenaam) | 99,55% | L5 | Geen bewijs; ziekte-item is verouderd in de ontologie |
-| Geslotenkamerhoek-glaucoom | 99,54% | L5 | Alleen indirecte associaties (o.a. observationele studie naar aminozuurprofielen), geen therapeutisch bewijs |
-| Hyperthyreoïdie | 99,51% | L5 | Biochemisch verband bestaat, maar extra substraat is bij hormoonoverschot waarschijnlijk neutraal of nadelig |
-| Posturaal orthostatisch tachycardiesyndroom (POTS) | 99,46% | L4 | Alleen één casuïstiek met een stof met tegengestelde werking (metyrosine) |
-| Hyperthyroxinemie | 99,46% | L5 | Geen rationele behandeling; literatuur niet relevant voor tyrosine |
-| Resistentie tegen schildklierhormoon (THRB-mutatie) | 99,40% | L5 | Receptordefect; een hormoonvoorloper corrigeert dit niet |
-| Traumatisch glaucoom | 99,35% | L5 | Geen direct verband |
-| Aqueous misdirection | 99,35% | L5 | Geen studies, geen literatuur |
-| Neovasculair glaucoom | 99,32% | L5 | Literatuur gaat over andere behandelingen (o.a. anti-VEGF), niet over tyrosine |
+| Voormalige neurogene blaas (verouderde ziektenaam) | 0,9955 | L5 | Geen bewijs; ziekte-item is verouderd in de ontologie |
+| Geslotenkamerhoek-glaucoom | 0,9954 | L5 | Alleen indirecte associaties (o.a. observationele studie naar aminozuurprofielen), geen therapeutisch bewijs |
+| Hyperthyreoïdie | 0,9951 | L5 | Biochemisch verband bestaat, maar extra substraat is bij hormoonoverschot waarschijnlijk neutraal of nadelig |
+| Posturaal orthostatisch tachycardiesyndroom (POTS) | 0,9946 | L5 | Alleen één casuïstiek met een stof met tegengestelde werking (metyrosine) |
+| Hyperthyroxinemie | 0,9946 | L5 | Geen rationele behandeling; literatuur niet relevant voor tyrosine |
+| Resistentie tegen schildklierhormoon (THRB-mutatie) | 0,9940 | L5 | Receptordefect; een hormoonvoorloper corrigeert dit niet |
+| Traumatisch glaucoom | 0,9935 | L5 | Geen direct verband |
+| Aqueous misdirection | 0,9935 | L5 | Geen studies, geen literatuur |
+| Neovasculair glaucoom | 0,9932 | L5 | Literatuur gaat over andere behandelingen (o.a. anti-VEGF), niet over tyrosine |
 
 ---
 
@@ -118,7 +118,6 @@ Let op: enkele zoekresultaten betreffen *tyrosinekinaseremmers*, niet het aminoz
 |---------|------|------|-----------|
 | RVG 105717 | OLIMEL N7, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar |
 
-Deze registratie is doorgehaald; er is geen geldige registratie bij het CBG-MEB.
 
 ---
 
@@ -133,7 +132,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De TxGNN-score is zeer hoog (99,77%), maar er zijn geen klinische studies of publicaties en geen aannemelijk mechanisme voor cauda equina-syndroom (bewijsniveau L5). Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs. Bovendien is de enige Nederlandse registratie doorgehaald.
+- De TxGNN-score is zeer hoog (0,9977), maar er zijn geen klinische studies of publicaties en geen aannemelijk mechanisme voor cauda equina-syndroom (bewijsniveau L5). Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs. Bovendien is de enige Nederlandse registratie doorgehaald.
 
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsgegevens uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties), een blokkerende gegevenslacune voor veiligheidsscreening

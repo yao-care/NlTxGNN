@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nitrazepam
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 244
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Nitrazepam: voorspelde nieuwe indicatie Slaapstoornis (inslapen en doorslapen) (bewijsniveau L3). Oorspronkelijke indicatie: Insomnie"
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
+description: "Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **3**
 
 </div>
 
-## Nitrazepam: Van insomnie naar slaapstoornis (inslaap- en doorslaapstoornis)
+## Nitrazepam: Wernicke-Korsakoff syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -47,12 +47,12 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **slaapstoornissen met p
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Insomnie; vroege myoclonische encefalopathie |
-| Voorspelde nieuwe indicatie | Slaapstoornis (inslapen en doorslapen) |
-| TxGNN-voorspellingsscore | 99,89% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (geschrapt) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Wernicke-Korsakoff syndrome |
+| TxGNN-voorspellingsscore | 0.9931 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,8 +64,8 @@ Nitrazepam is een benzodiazepine dat werkt als positieve allosterische modulator
 Let op: de voorspelde indicatie komt in feite overeen met de bestaande indicatie insomnie. Er is dus geen sprake van een echte herpositionering. Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; het mechanisme is afgeleid uit de bekende geneesmiddelklasse.
 
 De andere twee voorspellingen met een hoge score zijn zwak onderbouwd:
-- **Acute encefalopathie met bifasische aanvallen en late verminderde diffusie** (score 99,59%): geen studies of literatuur. Versterking van GABA zou aanvallen kunnen onderdrukken, maar benzodiazepinen zijn niet bewezen ziektemodificerend. Sedatie kan de neurologische beoordeling maskeren en bij kinderen bestaat risico op ademhalingsdepressie. Bewijsniveau L5, beslissing Hold.
-- **Wernicke-Korsakoff-syndroom** (score 99,31%): geen studies of literatuur. De behandeling is thiaminesuppletie; benzodiazepinen worden alleen symptomatisch gebruikt bij alcoholontwenning. Nitrazepam kan verwardheid en cognitieve achteruitgang verergeren. Bewijsniveau L5, beslissing Hold.
+- Versterking van GABA zou aanvallen kunnen onderdrukken, maar benzodiazepinen zijn niet bewezen ziektemodificerend. Sedatie kan de neurologische beoordeling maskeren en bij kinderen bestaat risico op ademhalingsdepressie. Bewijsniveau L5, beslissing Hold.
+- **Wernicke-Korsakoff-syndroom** (score 0,9931): geen studies of literatuur. De behandeling is thiaminesuppletie; benzodiazepinen worden alleen symptomatisch gebruikt bij alcoholontwenning. Nitrazepam kan verwardheid en cognitieve achteruitgang verergeren. Bewijsniveau L5, beslissing Hold.
 
 ---
 
@@ -100,7 +100,7 @@ Hieronder staat een selectie van de meest relevante publicaties. Merk op dat het
 |---------|------|------|-----------|
 | RVG 56702 | Nitrazepam CF 5 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geschrapt) |
 
-Er zijn momenteel geen geldige vergunningen bij het CBG-MEB. De enige bekende registratie is geschrapt.
+De enige bekende registratie is geschrapt.
 
 ---
 

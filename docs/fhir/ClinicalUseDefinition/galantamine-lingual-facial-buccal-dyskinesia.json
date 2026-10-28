@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "lingual-facial-buccal-dyskinesia",
-          "display": "lingual-facial-buccal dyskinesia"
-        }
-      ],
-      "text": "lingual-facial-buccal dyskinesia",
       "concept": {
         "text": "lingual-facial-buccal dyskinesia"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9988
     }
   ]
 }

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Isoniazid
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 187
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis"]
 # Isoniazid
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Isoniazide is een antibioticum dat oorspronkelijk wordt gebruikt voor de behande
 |------|------|
 | Oorspronkelijke indicatie | Pulmonale tuberculose |
 | Voorspelde nieuwe indicatie | Conjunctivitis |
-| TxGNN-voorspellingsscore | 99,36% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| TxGNN-voorspellingsscore | 0,9936 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -94,7 +94,7 @@ Daarnaast zijn vijf publicaties gevonden (PMID 14195962, 10084173, 7505555, 1222
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten (ingetrokken) | Filmomhulde tabletten | Niet beschikbaar |
+| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten (geldig) | Filmomhulde tabletten | Niet beschikbaar |
 
 ---
 

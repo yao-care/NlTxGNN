@@ -6,9 +6,9 @@ nav_order: 203
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens (de indicatietekst is leeg)"
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
+description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Levobupivacaine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Levobupivacaïne: Van lokale anesthesie naar gastroduodenitis
+## Levobupivacaine: Gastroduodenitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Levobupivacaïne is een langwerkend lokaal anestheticum van het amide-type, dat 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de vergunningsgegevens (de indicatietekst is leeg) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Gastroduodenitis |
-| TxGNN-voorspellingsscore | 99,09% |
+| TxGNN-voorspellingsscore | 0.9909 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (geen geldige, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,7 +62,7 @@ Levobupivacaïne blokkeert spanningsafhankelijke natriumkanalen en remt zo de ge
 
 Een denkbare, maar niet onderbouwde link is verminderde viscerale pijnprikkeling of een lokaal ontstekingsremmend effect in het maagdarmslijmvlies. Er is echter geen bekende toedieningsroute of therapeutische onderbouwing voor gastroduodenitis. Die aandoening wordt meestal veroorzaakt door *H. pylori*-infectie, NSAID's of zuurgerelateerde slijmvliesschade.
 
-De hoge TxGNN-score (0,991) is een computationele voorspelling en geen bewijs. Er is ook geen vergelijking met de oorspronkelijke indicatie mogelijk, en de routecompatibiliteit is niet beoordeeld.
+De hoge TxGNN-score (0,9909) is een computationele voorspelling en geen bewijs. Er is ook geen vergelijking met de oorspronkelijke indicatie mogelijk, en de routecompatibiliteit is niet beoordeeld.
 
 ---
 
@@ -82,9 +82,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie (doorgehaald) | Oplossing voor injectie/infusie | Niet vermeld |
+| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie (geldig) | Oplossing voor injectie/infusie | Niet vermeld |
 
-Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning. Er is dus momenteel geen geldig product op de Nederlandse markt.
+Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.
 
 ---
 

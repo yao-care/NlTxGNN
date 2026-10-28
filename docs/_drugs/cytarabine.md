@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cytarabine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 102
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (bewijsniveau L4). Oorspronkelijke indicatie: Acute lymfatische leukemie en acute myeloïde leukemie (op basis van d…"
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
+last_modified_at: 2026-10-27
+description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (small cell lung carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,88 +33,84 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-## Cytarabine: Van acute leukemie naar kleincellig longcarcinoom
+## Cytarabine: pyrimidine-nucleosideanaloog (antimetaboliet) → kleincellig longcarcinoom (small cell lung carcinoma)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Cytarabine is een pyrimidine-nucleosideanaloog die oorspronkelijk wordt gebruikt voor de behandeling van acute lymfatische en acute myeloïde leukemie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **kleincellig longcarcinoom**, maar er zijn **geen geregistreerde klinische studies** en geen literatuur die cytarabine specifiek bij deze aandoening onderbouwt. De voorspelling berust vooralsnog uitsluitend op het model (bewijsniveau L4, aanbeveling: Hold).
+Cytarabine is een cytostatisch middel uit de klasse van de pyrimidine-nucleosideanalogen dat de DNA-synthese remt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **kleincellig longcarcinoom (small cell lung carcinoma)**. Voor deze specifieke ziekte zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen onderzoeken** gevonden die cytarabine direct bij kleincellig longcarcinoom onderzoeken, op één oudere publicatie over hoge-dosis cytarabine bij kleincellig longkanker na (zonder beschikbare samenvatting).
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Acute lymfatische leukemie en acute myeloïde leukemie (op basis van de kennisgraaf; geen indicatietekst uit de vergunning beschikbaar) |
-| Voorspelde nieuwe indicatie | Kleincellig longcarcinoom |
-| TxGNN-voorspellingsscore | 99,78% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
-| Aanbevolen beslissing | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Kleincellig longcarcinoom (small cell lung carcinoma) |
+| TxGNN-voorspellingsscore | 0,9978 |
+| Bewijsniveau | L5 |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold (afwachten) |
 
-## Waarom is deze voorspelling plausibel?
+## Waarom is deze voorspelling aannemelijk?
 
-Voor cytarabine zijn in de voor dit rapport verzamelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is cytarabine een pyrimidine-nucleosideanaloog die het DNA-synthese remt in cellen in de S-fase. Dit is een aannemelijke grondslag voor een snel prolifererende tumor zoals kleincellig longcarcinoom.
+Gedetailleerde gegevens over het werkingsmechanisme zijn in de verzamelde gegevens niet beschikbaar. Cytarabine is echter een pyrimidine-nucleosideanaloog die de DNA-synthese remt in cellen in de S-fase. Dat is een plausibele reden om het te overwegen bij een snel delende tumor zoals kleincellig longcarcinoom.
 
-De werkzaamheid van cytarabine bij leukemie is goed vastgesteld. Het verband met kleincellig longcarcinoom is echter indirect: beide zijn snel delende maligniteiten, maar solide tumoren zijn vaak minder gevoelig voor cytarabine. De gevonden literatuur gaat vooral over niet-kleincellig longcarcinoom (NSCLC) of over andere nucleosideanalogen (gemcitabine, decitabine), niet over cytarabine bij kleincellig longcarcinoom. De zeer hoge modelscore wordt dus niet ondersteund door specifieke klinische gegevens.
+Er is een belangrijke kanttekening. De gevonden literatuur betreft vooral niet-kleincellig longkanker (NSCLC) of andere nucleosideanalogen (gemcitabine, decitabine), niet kleincellig longcarcinoom met cytarabine. De zeer hoge TxGNN-score wordt dus niet ondersteund door klinische gegevens specifiek voor deze ziekte. Omdat geen enkele aangehaalde studie met zekerheid de voorspelde ziekte zelf onderzoekt waar een samenvatting van beschikbaar is, wordt het bewijsniveau op L5 gesteld.
 
-## Bewijs uit klinische studies
+## Klinisch trialbewijs
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Er zijn op dit moment geen gerelateerde klinische studies geregistreerd.
 
-## Bewijs uit de literatuur
+## Literatuurbewijs
 
-Er is geen literatuur gevonden die cytarabine direct onderzoekt bij kleincellig longcarcinoom met voldoende onderbouwing. De onderstaande publicaties zijn het meest relevant, maar betreffen deels een andere longtumor of oudere gegevens.
+Hieronder staan de meest relevante publicaties. De meeste betreffen NSCLC of andere ziekten en zijn dus indirect bewijs.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Klinisch onderzoek | Cancer Treatment Reports | Hooggedoseerd cytarabine bij kleincellig longcarcinoom (geen samenvatting beschikbaar) |
-| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Fase II | Cancer | Hooggedoseerd cytarabine plus cisplatine bij NSCLC: responspercentage 14%, ernstige beenmergsuppressie (graad IV bij 32%), vier sterfgevallen tijdens de studie |
-| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Fase II | Tumori | Cytarabine, cisplatine en vindesine bij gevorderd NSCLC; respons bij 5 van de 28 patiënten (18%) |
-| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Gerandomiseerde fase II | Medical and Pediatric Oncology | Cisplatine-cytarabine versus cisplatine-vinblastine bij 151 patiënten met gevorderd NSCLC |
-| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilotstudie | European Journal of Cancer & Clinical Oncology | Cisplatine plus cytarabine bij gevorderd NSCLC |
-| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | In vitro | Cancer Chemotherapy and Pharmacology | Gevoeligheidspatronen van SCLC-cellijnen voor cytostatica (doxorubicine) |
-| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Fase II | ESMO Open | Intrathecaal pemetrexed bij leptomeningeale metastasen van NSCLC (ander middel) |
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Klinische studie | Cancer Treatment Reports | Hoge-dosis cytarabine bij kleincellig longkanker; geen samenvatting beschikbaar |
+| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | In-vitro | Cancer Chemotherapy and Pharmacology | Gevoeligheid van cellijnen van kleincellig longkanker voor doxorubicine, etoposide, vincristine en carmustine; cytarabine niet de focus |
+| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Casusbeschrijving | Gan to Kagaku Ryoho | Meningeale carcinomatose bij kleincellig longcarcinoom, behandeld met een multidisciplinaire aanpak |
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Fase II | Cancer | Hoge-dosis cytarabine plus cisplatine bij NSCLC: responspercentage 14%, graad IV myelosuppressie bij 32% |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Fase II | Tumori | Cytarabine, cisplatine en vindesine bij gevorderd NSCLC |
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Gerandomiseerde fase II | Medical and Pediatric Oncology | Cisplatine-cytarabine versus cisplatine-vinblastine bij NSCLC (151 patiënten) |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilotstudie | European Journal of Cancer & Clinical Oncology | Cisplatine met cytarabine bij gevorderd NSCLC |
+| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | Overzicht | Gan to Kagaku Ryoho | Gemcitabine en DMDC, verwant aan cytarabine; veel solide tumoren zijn ongevoelig voor cytarabine |
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112666 | Cytarabine Accord 100 mg/ml, oplossing voor injectie of infusie | Oplossing voor injectie of infusie | Niet vermeld in de beschikbare gegevens (vergunning doorgehaald) |
+| RVG 112666 | Cytarabine Accord 100 mg/ml, oplossing voor injectie of infusie | Niet vermeld | Niet vermeld |
 
 ## Cytotoxiciteit
 
 | Item | Inhoud |
 |------|------|
-| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch middel (antimetaboliet, pyrimidine-nucleosideanaloog) |
-| Risico op beenmergsuppressie | Hoog (in de fase II-studie met cisplatine bij NSCLC graad IV myelosuppressie bij 32% van de patiënten) |
-| Emetogeniciteit | Misselijkheid en braken waren in de literatuur de voornaamste niet-hematologische toxiciteit; raadpleeg de SmPC voor de classificatie |
-| Te monitoren parameters | Volledig bloedbeeld, lever- en nierfunctie |
-| Bescherming bij hantering | Hanteren volgens de richtlijnen voor cytotoxische geneesmiddelen |
+| Cytotoxiciteitsclassificatie | Conventioneel cytostaticum (antimetaboliet, pyrimidine-nucleosideanaloog) |
+| Myelosuppressierisico | Hoog; in een fase II-studie met hoge-dosis cytarabine plus cisplatine trad graad IV myelosuppressie op bij 32% van de patiënten |
+| Emetogeniteitsclassificatie | Raadpleeg de SmPC |
+| Monitoring | Volledig bloedbeeld, lever- en nierfunctie |
+| Bescherming bij bereiding en toediening | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
 
 ## Veiligheidsoverwegingen
 
-Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de volledige veiligheidsinformatie.
+**Geneesmiddelinteracties**: In de verzamelde gegevens zijn 100 mogelijke interacties geregistreerd. Als enige met een bekend niveau zijn genoemd: naltrexon (matig) en levofloxacine (gering). Voor de overige in de gegevens genoemde middelen, zoals mannitol, pantoprazol, metformine en prednison, is het niveau onbekend.
 
-- **Aandoeningen die in de kennisgraaf als contra-indicatie zijn gekoppeld** (geen productteksten): nier- en leveraandoeningen, pancreatitis, galblaasaandoeningen, trombocytopenie, leukopenie, neutropenie, agranulocytose, anemie, perifere neuropathie, longoedeem, schimmelinfecties, diarree en necrotiserende enterocolitis.
-- **Geneesmiddelinteracties**: in totaal 100 interacties gevonden. Matig: naltrexon. Gering: levofloxacine. Voor veel andere middelen (o.a. metformine, prednison, simvastatine, omeprazol, pantoprazol, morfine, vancomycine) is het niveau onbekend.
+Voor volledige informatie over waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor kleincellig longcarcinoom berust op het model; er zijn geen klinische studies en geen directe literatuur. Het gevonden bewijs betreft vooral NSCLC met beperkte respons en aanzienlijke hematologische toxiciteit.
-- Er is in Nederland geen geldige handelsvergunning meer voor het enige geregistreerde product.
+- Er zijn geen klinische studies en geen samenvatting van een studie die cytarabine direct bij kleincellig longcarcinoom onderzoekt. De hoge score berust op de modelvoorspelling, en het bewijs uit NSCLC-studies (responspercentage 14% met aanzienlijke toxiciteit) is indirect en bescheiden.
 
-**Om verder te gaan is het volgende nodig:**
-- Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank).
-- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
-- Systematische literatuurselectie voor cytarabine specifiek bij kleincellig longcarcinoom, inclusief controle van de oude studie uit 1987.
-- Preklinische of vroege klinische gegevens die de werkzaamheid bij kleincellig longcarcinoom ondersteunen.
-- Opheldering van de status van de Nederlandse vergunning en de beschikbaarheid van het product.
-
-**Opmerking over andere voorspellingen:** neuroblastoom (rang 9, score 99,19%) heeft het hoogste bewijsniveau van de voorspelde indicaties (L3, "onderzoeksvraag"). Er zijn drie vroege klinische studies gevonden, maar geen ervan test cytarabine duidelijk als onderzoeksmiddel. Daarnaast tonen preklinische gegevens dat cyclopentenyl-cytosine neuroblastoomcellen gevoeliger maakt voor cytarabine. Dit is een hypothese die directe bevestiging vereist.
+**Om verder te gaan is nodig:**
+- Een beoordeling van de volledige tekst van de oudere studie over hoge-dosis cytarabine bij kleincellig longkanker (PMID 3030547)
+- Preklinische of klinische gegevens die cytarabine direct bij kleincellig longcarcinoom onderzoeken
+- Gegevens over het werkingsmechanisme
+- Veiligheidsinformatie uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

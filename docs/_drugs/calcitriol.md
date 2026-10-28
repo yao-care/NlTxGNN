@@ -4,17 +4,17 @@ title: Calcitriol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 68
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Calcitriol: voorspelde nieuwe indicatie Vitamine D-deficiëntie (term in de ontologie als \"obsolete\" gemarkeer… (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de Nederlandse vergunnings…"
+indication_count: 5
 monitor_inn: "Calcitriol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
+last_modified_at: 2026-10-27
+description: "Calcitriol: voorspelde nieuwe indicatie Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,65 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Calcitriol: Van stoornissen in calcium- en fosfaatstofwisseling naar vitamine D-deficiëntie
+## Calcitriol: vitamine D-analoog (actieve vorm van vitamine D) → Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Calcitriol is de actieve vorm van vitamine D en wordt gebruikt bij stoornissen in de calcium- en fosfaatstofwisseling, zoals hypoparathyreoïdie en renale osteodystrofie. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **vitamine D-deficiëntie** (in de ontologie als "obsolete" gemarkeerd). Voor deze specifieke voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden, dus het is een zuivere modelvoorspelling.
-
----
+Calcitriol is de actieve vorm van vitamine D en wordt gebruikt bij stoornissen van het calcium- en fosfaatmetabolisme. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency)**. Voor deze voorspelde indicatie zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vermeld in de Nederlandse vergunningsgegevens. Volgens de kennisgraaf: hypoparathyreoïdie, renale osteodystrofie, hypofosfatemie en fosformetabolismestoornissen (onder andere) |
-| Voorspelde nieuwe indicatie | Vitamine D-deficiëntie (term in de ontologie als "obsolete" gemarkeerd) |
-| TxGNN-voorspellingsscore | 99,96% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) |
+| TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
-
----
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor calcitriol zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van bekende informatie is calcitriol de biologisch actieve vorm van vitamine D (1,25-dihydroxyvitamine D3). De werkzaamheid bij calcium- en fosfaatstoornissen is aangetoond, en mechanistisch zou het ook van toepassing kunnen zijn bij vitamine D-deficiëntie.
+Gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport verzamelde gegevens. Calcitriol is echter de biologisch actieve vorm van vitamine D, waardoor een mechanistische samenhang met vitamine D-deficiëntie biologisch plausibel is.
 
-De link met vitamine D-deficiëntie is biologisch plausibel, omdat calcitriol de eindstap van de vitamine D-activering vertegenwoordigt. Het is echter belangrijk dat de hoge score waarschijnlijk de bekende vitamine D-farmacologie weerspiegelt en geen nieuw bewijs voor herpositionering. Bovendien is de ziekteterm in de ontologie als verouderd gemarkeerd. Bij een gewone vitamine D-deficiëntie met intacte nierfunctie wordt in de praktijk doorgaans gekozen voor de voorloperstoffen (zoals colecalciferol), niet voor calcitriol. Calcitriol is vooral relevant wanneer de omzetting in de nier is verstoord. Dat laatste is een algemene klinische kanttekening en volgt niet uit de bij dit rapport gebruikte gegevens.
+Een belangrijke kanttekening: de term "vitamine D-deficiëntie" is in de gebruikte ontologie als verouderd (obsolete) gemarkeerd. Er zijn bovendien geen studies of publicaties. De hoge score weerspiegelt waarschijnlijk vooral de bekende farmacologie van vitamine D en niet nieuw herpositioneringsbewijs. Er is geen studie die deze ziekte direct onderzoekt, daarom is het bewijsniveau L5.
 
----
-
-## Klinisch trialbewijs
+## Klinisch studiebewijs
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze voorspelde indicatie.
-
----
 
 ## Literatuurbewijs
 
 Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde indicatie.
 
----
-
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112460//08285 (doorgehaald) | Rocaltrol 0,25 microgram, capsules | Capsule (volgens productnaam) | Niet vermeld |
-
-De enige bekende vergunning is doorgehaald. Er is dus momenteel geen geldig calcitriolproduct in de samengestelde vergunningsgegevens van het CBG-MEB. Raadpleeg voor actuele informatie de SmPC en de bijsluiter.
-
----
+| RVG 112460//08285 | Rocaltrol 0,25 microgram, capsules | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (niet afkomstig van de officiële productinformatie): nierziekte, sarcoïdose, hypercalciëmie, nefrocalcinose, nefrolithiasis, hyperfosfatemie, hypervitaminose, acute urinezuurnefropathie, pyureter en arteriosclerosis obliterans.
-- **Geneesmiddelinteracties** (100 interacties gevonden, hieronder de belangrijkste):
-  - *Ernstig (Major)*: colecalciferol, calcifediol, burosumab.
-  - *Matig (Moderate)*: thiazidediuretica (hydrochloorthiazide, chloortalidon, bendroflumethiazide e.a.), anti-epileptica en barbituraten (fosfenytoïne, carbamazepine, amobarbital, butalbital, butabarbital), galzuurbinders (colestyramine, colesevelam, colestipol), digoxine en digitoxine, aluminiumhydroxide en topisch calcipotriol.
+- **Geneesmiddelinteracties** (uit de interactiedatabase; 100 interacties gevonden, hieronder een selectie):
+  - Ernstig (Major): cholecalciferol, burosumab, calcifediol
+  - Matig (Moderate): fosfenytoïne, hydrochloorthiazide, amobarbital, butalbital, calcipotriol (topisch), aluminiumhydroxide, carbamazepine, colestyramine, digoxine en digitoxine
 
-Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC.
-
----
+Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties): raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor vitamine D-deficiëntie berust uitsluitend op het model (L5), zonder studies of literatuur. De ziekteterm is bovendien verouderd, en er is geen geldige Nederlandse vergunning.
+- De voorspelling berust uitsluitend op het model; er zijn geen studies of publicaties voor deze ziekte, en de ziekteterm is in de ontologie verouderd.
 
 **Om verder te gaan is nodig:**
-- Een actuele ziekteterm en een klinische definitie van de beoogde patiëntengroep.
-- Mechanistische gegevens over calcitriol en de officiële veiligheidsinformatie (SmPC/bijsluiter van het CBG-MEB).
-- Duidelijkheid over de vergunningsstatus, aangezien de enige vergunning is doorgehaald.
-
-**Opmerking over andere voorspellingen in de dataset:**
-Binnen dezelfde analyse is **erfelijke hypofosfatemische rachitis** (score 99,28%) de best onderbouwde voorspelling. Hiervoor zijn 2 klinische studies (een Fase 1-studie met 16 deelnemers en een Fase 4-studie met 100 deelnemers, status onbekend) en uitgebreide reviewliteratuur gevonden. Het bewijsniveau is L3, met als indicatieve aanbeveling *Proceed with Guardrails*. Dit past bij de bestaande indicatie hypofosfatemie. Monitoring van calcium, fosfaat, PTH en nierechografie is nodig vanwege het risico op hypercalciurie en nefrocalcinose, en burosumab is een gerichte alternatieve therapie. Deze indicatie verdient een afzonderlijk rapport.
+- Een actuele, niet-verouderde definitie van de doelindicatie en een klinische afbakening ten opzichte van het bestaande gebruik van vitamine D-preparaten
+- Gegevens over het werkingsmechanisme
+- Beoordeling van de SmPC-waarschuwingen en contra-indicaties via het CBG-MEB
+- Gerichte studies of systematisch literatuuronderzoek naar calcitriol bij deze indicatie
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

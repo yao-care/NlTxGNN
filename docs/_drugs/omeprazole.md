@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 255
-evidence_level: L3
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Omeprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L3). Oorspronkelijke indicatie: Maagzweer, maagzweerziekte, gastro-oesofageale refluxziekte…"
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Omeprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **2**
 
 </div>
 
-## Omeprazol: Van maagzweer en refluxziekte naar duodenogastrische reflux
+## Omeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Hiervoor is **1 klinische studie** (zonder directe werkzaamheidsgegevens) en **1
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Maagzweer, maagzweerziekte, gastro-oesofageale refluxziekte, oesofagitis, duodenumzweer, Zollinger-Ellison-syndroom (de ingevulde vergunningsteksten zijn leeg; indicaties komen uit de kennisgraaf van TxGNN) |
-| Voorspelde nieuwe indicatie | Duodenogastrische reflux |
-| TxGNN-voorspellingsscore | 99,64% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Duodenal obstruction |
+| TxGNN-voorspellingsscore | 0.9964 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; nader onderzoek nodig vóór verdere stappen) |
 
 ---
@@ -64,7 +64,7 @@ Voor het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens g
 
 Duodenogastrische reflux is pathofysiologisch verwant aan de oorspronkelijke indicaties: de klachten overlappen. Toch is het verband niet eenduidig. Zuuronderdrukking verlaagt de blootstelling aan gal niet consequent. Kleine klinische studies bij Barrett-oesofagus en een prospectieve kinderstudie onderzochten het effect van omeprazol op gal-reflux, maar leveren geen sterk bewijs.
 
-Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie met duodenogastrische reflux bevorderde bij ratten groeistimulatie van het slijmvlies en maagcarcinogenese. De zeer hoge score (0,996) is een computationele voorspelling en weerspiegelt vooral de nabijheid van de bestaande indicaties voor reflux en zweren.
+Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie met duodenogastrische reflux bevorderde bij ratten groeistimulatie van het slijmvlies en maagcarcinogenese. De zeer hoge score (0,9964) is een computationele voorspelling en weerspiegelt vooral de nabijheid van de bestaande indicaties voor reflux en zweren.
 
 ---
 
@@ -97,10 +97,9 @@ Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie m
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114901 | Omeprazol Hetero 40 mg, harde maagsapresistente capsules (doorgehaald) | Capsule (volgens productnaam) | Niet beschikbaar |
-| RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (doorgehaald) | Tablet (volgens productnaam) | Niet beschikbaar |
+| RVG 114901 | Omeprazol Hetero 40 mg, harde maagsapresistente capsules (geldig) | Capsule (volgens productnaam) | Niet beschikbaar |
+| RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (geldig) | Tablet (volgens productnaam) | Niet beschikbaar |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; er is geen geldige registratie van een eenmalig product.
 
 ---
 
@@ -136,7 +135,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 ## Aanvullende kandidaat-indicatie: duodenumobstructie (kort)
 
-Voor **duodenumobstructie** (TxGNN-score 99,64%) is het bewijsniveau **L5** en de beslissing **Hold**. Er is geen duidelijk mechanistisch verband: obstructie is een mechanisch of structureel probleem dat endoscopisch of chirurgisch wordt behandeld, en zuuronderdrukking behandelt de obstructie zelf niet. Er zijn geen publicaties. De gekoppelde studie [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) (fase 3, beëindigd, 5000 deelnemers; clopidogrel met omeprazol versus clopidogrel ter voorkoming van bovenste maag-darmbloedingen) onderzoekt deze indicatie niet en is waarschijnlijk een koppelingsartefact.
+Voor **duodenumobstructie** (TxGNN-score 0,9964) is het bewijsniveau **L5** en de beslissing **Hold**. Er is geen duidelijk mechanistisch verband: obstructie is een mechanisch of structureel probleem dat endoscopisch of chirurgisch wordt behandeld, en zuuronderdrukking behandelt de obstructie zelf niet. Er zijn geen publicaties. De gekoppelde studie [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) (fase 3, beëindigd, 5000 deelnemers; clopidogrel met omeprazol versus clopidogrel ter voorkoming van bovenste maag-darmbloedingen) onderzoekt deze indicatie niet en is waarschijnlijk een koppelingsartefact.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

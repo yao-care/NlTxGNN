@@ -6,9 +6,9 @@ nav_order: 204
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Levocarnitine: voorspelde nieuwe indicatie Autosomaal dominant familiair hematurie-retinale arteriolaire tortuos… (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde ge…"
 monitor_inn: "Levocarnitine"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
+description: "Levocarnitine: voorspelde nieuwe indicatie Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
 ---
 
 # Levocarnitine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Levocarnitine: Van de geregistreerde indicatie naar autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom
+## Levocarnitine: Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -46,12 +46,12 @@ Levocarnitine is een vorm van carnitine, een stof die het lichaam gebruikt voor 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens |
-| Voorspelde nieuwe indicatie | Autosomaal dominant familiair hematurie-retinale arteriolaire tortuositeit-contracturen-syndroom |
-| TxGNN-voorspellingsscore | 99,94% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
+| TxGNN-voorspellingsscore | 0.9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Levocarnitine is een vorm van carnitine, een stof die het lichaam gebruikt voor 
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Levocarnitine speelt een bekende rol bij het transport van langeketenvetzuren naar de mitochondriën. Voor het voorspelde syndroom is echter geen biologisch verband met de carnitinestofwisseling vastgesteld.
 
-De voorspelde aandoening is een zeer zeldzame COL4A1-gerelateerde ziekte. Die betreft de structuur van bloedvatwanden (type IV-collageen) en niet de energiestofwisseling. De hoge score weerspiegelt waarschijnlijk dat de ziekte en het middel dicht bij elkaar liggen in de kennisgraaf waarop het model is gebouwd, en niet een werkelijk mechanisme. Een verband met de oorspronkelijke indicatie kon niet worden beoordeeld, omdat die niet beschikbaar is.
+De voorspelde aandoening is een zeer zeldzame COL4A1-gerelateerde ziekte. Die betreft de structuur van bloedvatwanden (type IV-collageen) en niet de energiestofwisseling. Een verband met de oorspronkelijke indicatie kon niet worden beoordeeld, omdat die niet beschikbaar is.
 
 ---
 
@@ -80,9 +80,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning geldig) |
 
-Dit is de enige vergunning voor deze stof en de status is ingetrokken. Er is dus momenteel geen geldig product met levocarnitine als enige werkzame stof in de samengestelde gegevens.
+Dit is de enige vergunning voor deze stof en de status is ingetrokken.
 
 ---
 
@@ -109,7 +109,7 @@ Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicatie
 - Vaststellen wat de oorspronkelijke goedgekeurde indicatie is en of een product met levocarnitine nog verkrijgbaar is.
 - Preklinisch of mechanistisch bewijs zoeken voor een verband met COL4A1-biologie. Zonder zulk bewijs is verdere ontwikkeling voor deze indicatie niet zinvol.
 
-**Aanvullende opmerking over andere voorspellingen:** onder de andere voorspelde indicaties voor levocarnitine heeft **congestief hartfalen** (score 99,47%) het sterkste bewijs. Daarvoor is een afgeronde fase 2/3-studie (NCT01580553, 268 deelnemers, L-carnitine-injectie versus placebo) en er zijn meerdere klinische studies naar de hartfunctie. De resultaten van die studies zijn in de gegevens niet vermeld en veel publicaties betreffen specifieke groepen, zoals hemodialysepatiënten. Een afzonderlijke beoordeling van deze indicatie, met de beslissing "Proceed with Guardrails", lijkt veel zinvoller dan voortzetting van de huidige hoofdvoorspelling.
+**Aanvullende opmerking over andere voorspellingen:** onder de andere voorspelde indicaties voor levocarnitine heeft **congestief hartfalen** (score 0,9947) het sterkste bewijs. Daarvoor is een afgeronde fase 2/3-studie (NCT01580553, 268 deelnemers, L-carnitine-injectie versus placebo) en er zijn meerdere klinische studies naar de hartfunctie. De resultaten van die studies zijn in de gegevens niet vermeld en veel publicaties betreffen specifieke groepen, zoals hemodialysepatiënten. Een afzonderlijke beoordeling van deze indicatie, met de beslissing "Proceed with Guardrails", lijkt veel zinvoller dan voortzetting van de huidige hoofdvoorspelling.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

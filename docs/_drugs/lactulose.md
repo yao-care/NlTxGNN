@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lactulose
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 193
-evidence_level: L3
+evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Lactulose: voorspelde nieuwe indicatie Obstructieve icterus (bewijsniveau L3). Oorspronkelijke indicatie: Hepatische encefalopathie, hepatisch coma…"
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
+description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lactulose
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-## Lactulose: Van hepatische encefalopathie naar obstructieve icterus
+## Lactulose: Acute urate nephropathy
 {: .text-alpha }
 
 ## Samenvatting in één alinea
 
 Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk wordt gebruikt bij hepatische encefalopathie, hepatisch coma en obstipatie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **obstructieve icterus** (rang 3 van de voorspellingen). De eerste twee voorspellingen (acute urinezuurnefropathie en nefrolithiase) hebben geen enkel ondersteunend bewijs; daarom is gekozen voor de eerste voorspelling met daadwerkelijk bewijs. Voor obstructieve icterus zijn **geen geregistreerde klinische studies** en **20 publicaties** beschikbaar, waarvan het meeste oud, klein of preklinisch is.
 
-> **Let op:** de rangvolgorde in de gegevens plaatst "acute urinezuurnefropathie" op nummer 1 (score 99,89%). Zonder enig bewijs (niveau L5) is die niet als hoofdindicatie gekozen. Deze keuze is bewust gemaakt en wordt hier transparant vermeld. Aan het eind van het rapport staat een overzicht van alle voorspellingen.
+> **Let op:** de rangvolgorde in de gegevens plaatst "acute urinezuurnefropathie" op nummer 1 (score 0,9989). Zonder enig bewijs (niveau L5) is die niet als hoofdindicatie gekozen. Deze keuze is bewust gemaakt en wordt hier transparant vermeld. Aan het eind van het rapport staat een overzicht van alle voorspellingen.
 
 ---
 
@@ -48,12 +48,12 @@ Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk word
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hepatische encefalopathie, hepatisch coma, obstipatie (uit de TxGNN-kennisgraaf; de vergunningsteksten bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Obstructieve icterus |
-| TxGNN-voorspellingsscore | 99,53% |
-| Bewijsniveau | L3 |
-| Status op de Nederlandse markt | Alleen doorgehaald (vervallen/ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acute urate nephropathy |
+| TxGNN-voorspellingsscore | 0.9989 |
+| Bewijsniveau | L5 |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (zie conclusie) |
 
 ---
@@ -97,9 +97,8 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige vergunning meer in Nederland voor lactulose volgens de voor dit rapport verzamelde gegevens van het CBG-MEB.
 
 ---
 
@@ -116,7 +115,7 @@ Er is geen geldige vergunning meer in Nederland voor lactulose volgens de voor d
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor obstructieve icterus is plausibel maar overwegend oud, klein of preklinisch, zonder geregistreerde studies, en eerdere reviews vonden geen overtuigend klinisch voordeel. Daarnaast is er geen geldige Nederlandse vergunning, en de veiligheidsinformatie uit de SmPC ontbreekt in de gegevens.
+- Het bewijs voor obstructieve icterus is plausibel maar overwegend oud, klein of preklinisch, zonder geregistreerde studies, en eerdere reviews vonden geen overtuigend klinisch voordeel.
 - Het dataverzamelingssysteem classificeerde de indicatie als "Research Question" (fase S1); dat past bij een Hold voor praktische toepassing, met ruimte voor verder onderzoek.
 
 **Om verder te gaan is nodig:**
@@ -132,14 +131,14 @@ Er is geen geldige vergunning meer in Nederland voor lactulose volgens de voor d
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
 |---|---|---|---|---|
-| 1 | Acute urinezuurnefropathie | 99,89% | L5 | Hold (geen bewijs, geen plausibel mechanisme) |
-| 2 | Nefrolithiase | 99,78% | L5 | Hold (geen bewijs) |
-| 3 | Obstructieve icterus | 99,53% | L3 | Onderzoeksvraag |
-| 4 | Galwegziekte | 99,47% | L3 | Onderzoeksvraag (grotendeels overlappend met rang 3) |
-| 5 | Galwegaandoening (biliary tract disease) | 99,38% | L4 | Hold (indirect bewijs) |
-| 6 | Hyperfosfatemie | 99,37% | L4 | Hold (alleen een review over obstipatie bij nierziekte) |
-| 7 | Inspanningsgeïnduceerde maligne hyperthermie | 99,14% | L5 | Hold (geen bewijs) |
-| 8 | Galwegneoplasma | 99,12% | L4 | Hold (alleen indirect, ondersteunend bewijs) |
+| 1 | Acute urinezuurnefropathie | 0,9989 | L5 | Hold (geen bewijs, geen plausibel mechanisme) |
+| 2 | Nefrolithiase | 0,9978 | L5 | Hold (geen bewijs) |
+| 3 | Obstructieve icterus | 0,9953 | L3 | Onderzoeksvraag |
+| 4 | Galwegziekte | 0,9947 | L3 | Onderzoeksvraag (grotendeels overlappend met rang 3) |
+| 5 | Galwegaandoening (biliary tract disease) | 0,9938 | L5 | Hold (indirect bewijs) |
+| 6 | Hyperfosfatemie | 0,9937 | L5 | Hold (alleen een review over obstipatie bij nierziekte) |
+| 7 | Inspanningsgeïnduceerde maligne hyperthermie | 0,9914 | L5 | Hold (geen bewijs) |
+| 8 | Galwegneoplasma | 0,9912 | L5 | Hold (alleen indirect, ondersteunend bewijs) |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

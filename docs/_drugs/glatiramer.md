@@ -48,17 +48,17 @@ Glatiramer is een immunomodulerend middel dat bekend is van de behandeling van m
 |------|------|
 | Oorspronkelijke indicatie | Niet vastgelegd in de vergunningsgegevens (volgens algemene kennis: multiple sclerose) |
 | Voorspelde nieuwe indicatie | Hemoglobinopathie |
-| TxGNN-voorspellingsscore | 99,03% |
+| TxGNN-voorspellingsscore | 0,9903 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-De TxGNN-score is zeer hoog (0,990), maar gegevens over het werkingsmechanisme van glatiramer ontbreken in de data die voor dit rapport zijn samengesteld. Ook zijn er geen oorspronkelijke indicaties vastgelegd, waardoor geen onderbouwde mechanistische redenering kan worden opgesteld.
+De TxGNN-score is zeer hoog (0,9903), maar gegevens over het werkingsmechanisme van glatiramer ontbreken in de data die voor dit rapport zijn samengesteld. Ook zijn er geen oorspronkelijke indicaties vastgelegd, waardoor geen onderbouwde mechanistische redenering kan worden opgesteld.
 
 Algemeen bekend is dat glatiramer een immunomodulator is: een willekeurig polymeer van aminozuren dat de T-celrespons verschuift richting een Th2-fenotype en regulerende cellen induceert. Het wordt gebruikt bij multiple sclerose. Hemoglobinopathieën, zoals sikkelcelziekte en thalassemie, zijn primair stoornissen in de structuur of synthese van hemoglobine, met secundaire ontstekings- en immuuncomponenten.
 
@@ -84,7 +84,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde spuit (vergunning ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde spuit (vergunning geldig) | Niet vermeld | Niet vermeld |
 
 ---
 
@@ -108,7 +108,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, zodat de veiligheidsscreening kan worden uitgevoerd (momenteel een blokkerende lacune).
 - Vastlegging van de oorspronkelijke indicatie(s) en de toedieningsvorm uit de vergunningsgegevens.
 - Preklinisch of klinisch bewijs voor glatiramer bij hemoglobinopathie, en een beoordeling van de toedieningsroute.
-- Een heroverweging van de marktstatus, aangezien er geen geldige vergunning meer is.
+- Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

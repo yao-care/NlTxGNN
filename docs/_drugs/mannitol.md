@@ -4,17 +4,17 @@ title: Mannitol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 218
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Mannitol: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (bewijsniveau L5). Oorspronkelijke indicatie: Congestief hartfalen, hersenoedeem, oculaire hypertensie…"
 monitor_inn: "Mannitol"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Mannitol is een osmotisch diureticum dat oorspronkelijk wordt gebruikt bij onder
 |------|------|
 | Oorspronkelijke indicatie | Congestief hartfalen, hersenoedeem, oculaire hypertensie, pseudotumor cerebri, intracraniële hypertensie, cystische fibrose (afkomstig uit de kennisgraaf; niet uit de geregistreerde productteksten) |
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese |
-| TxGNN-voorspellingsscore | 99,97% |
+| TxGNN-voorspellingsscore | 0,9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal handelsvergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal handelsvergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,7 +82,7 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106414 | Mannitol 15 %, oplossing voor infusie 150 g/l (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 106414 | Mannitol 15 %, oplossing voor infusie 150 g/l (geldig) | Niet vermeld | Niet vermeld |
 
 Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd. Beide vergunningen zijn doorgehaald en de gegevens bevatten geen informatie over goedgekeurde indicaties.
 

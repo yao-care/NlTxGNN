@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "ambras-type-hypertrichosis-universalis-congenita",
-          "display": "Ambras type hypertrichosis universalis congenita"
-        }
-      ],
-      "text": "Ambras type hypertrichosis universalis congenita",
       "concept": {
         "text": "Ambras type hypertrichosis universalis congenita"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9972
     }
   ]
 }

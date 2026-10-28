@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ambroxol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 32
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis"
 monitor_inn: "ambroxol"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Ambroxol
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Ambroxol is een slijmoplossend middel (mucolyticum/secretolyticum) dat oorspronk
 |------|------|
 | Oorspronkelijke indicatie | Faryngitis (afkomstig uit de TxGNN-kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
-| TxGNN-voorspellingsscore | 99,91% |
-| Bewijsniveau | L4 |
-| Status op de Nederlandse markt | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| TxGNN-voorspellingsscore | 0,9991 |
+| Bewijsniveau | L5 |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 112356 | Mucoangin Spray 2,5 mg, spray voor oromucosaal gebruik (doorgehaald) | Spray voor oromucosaal gebruik | Niet beschikbaar |
+| RVG 112356 | Mucoangin Spray 2,5 mg, spray voor oromucosaal gebruik (geldig) | Spray voor oromucosaal gebruik | Niet beschikbaar |
 
 ---
 
@@ -108,7 +108,6 @@ Het bewijs bestaat alleen uit een modelvoorspelling en één indirect overzichts
 - Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank)
 - Gerichte literatuur en klinische studies zoeken voor neusholteaandoeningen
 - Nagaan of er een geldige registratie of een geschikte toedieningsvorm beschikbaar is in Nederland
-- Eventueel de nauwer verwante voorspelling **acute laryngofaryngitis** (score 99,88%) evalueren, die dichter bij de oorspronkelijke indicatie ligt maar eveneens geen directe studies heeft
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

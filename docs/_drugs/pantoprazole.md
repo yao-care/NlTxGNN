@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 265
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Pantoprazole: voorspelde nieuwe indicatie Actieve peptische ulcusziekte (bewijsniveau L1). Oorspronkelijke indicatie: Peptische ulcusziekte, gastro-oesofageale refluxziekte, oesofagitis…"
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-## Pantoprazol: Van maagzweer naar actieve maagzweer (peptic ulcer disease)
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Pantoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt bij zuurge
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Peptische ulcusziekte, gastro-oesofageale refluxziekte, oesofagitis, Zollinger-Ellison-syndroom (volgens de kennisgraaf; geen goedgekeurde indicatietekst in de Nederlandse vergunningen beschikbaar) |
-| Voorspelde nieuwe indicatie | Actieve peptische ulcusziekte |
-| TxGNN-voorspellingsscore | 99,69% |
-| Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning in de gegevens) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Duodenal obstruction |
+| TxGNN-voorspellingsscore | 0.9921 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -60,7 +60,7 @@ Pantoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt bij zuurge
 
 Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar als apart veld. Uit de literatuur is wel bekend dat pantoprazol de maagzuurpomp (H+/K+-ATPase) in de pariëtale cellen van de maag onomkeerbaar remt. Daardoor daalt de zuurproductie en kan een zweer genezen.
 
-De voorspelde indicatie, actieve peptische ulcusziekte, valt direct binnen de reeds bekende indicatie peptische ulcusziekte. Het gaat dus niet om een nieuwe toepassing maar om een bevestiging van bestaand gebruik. De hoge score weerspiegelt de nabijheid van deze ziekten in de kennisgraaf.
+De voorspelde indicatie, actieve peptische ulcusziekte, valt direct binnen de reeds bekende indicatie peptische ulcusziekte. Het gaat dus niet om een nieuwe toepassing maar om een bevestiging van bestaand gebruik.
 
 Andere voorspelde indicaties zijn zwakker onderbouwd. Voor gastrojejunaal ulcus, perforatie van een maagzweer en duodenogastrische reflux is het bewijs indirect (bewijsniveau L3, onderzoeksvraag). Voor duodenale obstructie is er geen duidelijk mechanistisch verband en lijkt de hoge score een artefact van de grafstructuur (bewijsniveau L5, Hold). Dit rapport richt zich op de belangrijkste voorspelling.
 
@@ -97,8 +97,8 @@ Voor de bredere context bij twaalfvingerige-darmzweer zijn bovendien meerdere RC
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (vergunning doorgehaald) |
-| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Tablet (combinatieverpakking) | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (vergunning geldig) |
+| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Tablet (combinatieverpakking) | Niet beschikbaar (vergunning geldig) |
 
 Beide registraties zijn doorgehaald. Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven. Raadpleeg het CBG-MEB voor de actuele vergunningsstatus.
 

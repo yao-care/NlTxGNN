@@ -4,17 +4,17 @@ title: Alfacalcidol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 24
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Alfacalcidol: voorspelde nieuwe indicatie Familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secret… (bewijsniveau L5). Oorspronkelijke indicatie: Hyperparathyreoïdie, osteïtis fibrosa, h…"
+indication_count: 3
 monitor_inn: "Alfacalcidol"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Alfacalcidol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,65 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Alfacalcidol: Van hyperparathyreoïdie naar familiaire geïsoleerde hypoparathyreoïdie
+## Alfacalcidol: vitamine D-analoog (actieve vitamine D) → craniofaciale conodysplasie (craniofacial conodysplasia)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Alfacalcidol is een actieve vitamine D-analoog, oorspronkelijk gebruikt bij hyperparathyreoïdie, osteïtis fibrosa, hypoparathyreoïdie en renale osteodystrofie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secretie**. Hiervoor zijn **geen klinische studies** en **geen specifieke publicaties** beschikbaar, dus de voorspelling berust alleen op het model. De hoge score weerspiegelt bovendien grotendeels een bestaande indicatie (hypoparathyreoïdie) en nauwelijks een nieuw herbestemmingssignaal.
-
----
+Alfacalcidol is een actief vitamine D-analoog (1-alfa-hydroxycholecalciferol) dat de calcium- en fosfaathuishouding en de botmineralisatie ondersteunt.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **craniofaciale conodysplasie (craniofacial conodysplasia)**,
+maar er zijn **geen klinische studies** en **geen publicaties** over deze aandoening in de voor dit rapport verzamelde gegevens.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hyperparathyreoïdie, osteïtis fibrosa, hypoparathyreoïdie, renale osteodystrofie (volgens de kennisgraaf; de Nederlandse vergunning vermeldt geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Familiaire geïsoleerde hypoparathyreoïdie door verminderde PTH-secretie |
-| TxGNN-voorspellingsscore | 99,61% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | craniofaciale conodysplasie (craniofacial conodysplasia) |
+| TxGNN-voorspellingsscore | 0,9955 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
-
----
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van bekende informatie is alfacalcidol een 1-alfa-gehydroxyleerde vitamine D-analoog. Het omzeilt het nierenzym 1-alfa-hydroxylase en verhoogt het serumcalcium onafhankelijk van PTH.
+Alfacalcidol is een actief vitamine D-analoog dat de renale 1-alfa-hydroxylatiestap omzeilt. Het bevordert de opname van calcium en fosfaat in de darm en de mineralisatie van bot. Gegevens over het gedetailleerde werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.
 
-Bij hypoparathyreoïdie ontbreekt PTH of is de secretie verminderd, waardoor de nierenzymactivatie van vitamine D tekortschiet en hypocalciëmie ontstaat. Een reeds geactiveerde vitamine D-analoog is daarom biologisch plausibel. Omdat hypoparathyreoïdie al tot de oorspronkelijke indicaties behoort, is de hoge score vooral een weerspiegeling van een bestaand gebruik en geen werkelijk nieuw signaal. Voor de specifieke familiaire geïsoleerde vorm zijn geen studies of publicaties aangeleverd.
+Vanwege deze rol in het botmetabolisme is een theoretisch verband met een skeletdysplasie denkbaar. Craniofaciale conodysplasie is echter een extreem zeldzame skeletaandoening en er is geen aanwijzing dat vitamine D-signalering een rol speelt bij het ontstaan ervan. De hoge score is een op modelberekening gebaseerde voorspelling en is geen bewijs. Het mechanistische verband blijft daarom speculatief.
 
----
-
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
----
+## Bewijs uit de literatuur
 
-## Literatuurbewijs
-
-Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indicatie.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie (status: doorgehaald) | Oplossing voor injectie | Niet vermeld |
+| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | Oplossing voor injectie | Niet vastgelegd in de lokale gegevens |
 
-Het enige bekende product is niet meer vergund; er is dus momenteel geen geldige handelsvergunning bij het CBG-MEB.
-
----
+Er is één geldige vergunning voor een monopreparaat (CBG-MEB); de marktstatus is «In de handel».
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Er zijn geen interacties met andere geneesmiddelen gevonden in de samengestelde data.
-
----
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Voor interacties zijn in de verzamelde gegevens geen resultaten gevonden.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling betreft grotendeels een reeds bestaande indicatie en er is geen specifiek bewijs voor de familiaire geïsoleerde vorm (bewijsniveau L5). Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de bijsluiter, wat een blokkerend gegevenstekort is.
+- De voorspelling berust uitsluitend op het TxGNN-model, zonder klinische studies of publicaties over craniofaciale conodysplasie, en het mechanistische verband is speculatief (bewijsniveau L5).
 
-**Om verder te gaan is nodig:**
-- Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (blokkerend)
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Gerichte literatuur- en trialsearch voor familiaire geïsoleerde hypoparathyreoïdie
-- Beoordeling of er een beschikbaar product in Nederland is (vergunning, toedieningsweg)
-
----
-
-## Bijlage: overige voorspelde indicaties
-
-Naast de belangrijkste voorspelling zijn in de data nog vier indicaties gevonden:
-
-| Rang | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Beslissing | Opmerking |
-|------|------|------|------|------|------|
-| 2 | Dahlberg-Borer-Newcomer-syndroom | 99,60% | L5 | Hold | Waarschijnlijk synoniem of mapping voor Fanconi-Bickel-syndroom. De gevonden literatuur is grotendeels niet relevant; alleen een casusreeks over empagliflozine (PMID 38802119) is ziektespecifiek en gaat niet over alfacalcidol. De ziektekoppeling moet worden geverifieerd. |
-| 3 | Craniofaciale conodysplasie | 99,55% | L5 | Hold | Geen aannemelijk mechanisme; score vermoedelijk gebaseerd op netwerknabijheid. Geen bewijs. |
-| 4 | Acromesomele dysplasie, type Campailla-Martinelli | 99,53% | L5 | Hold | Genetische skeletdysplasie zonder duidelijk mechanisme. Geen bewijs. |
-| 5 | Renale tubulaire acidose | 99,27% | L4 | Onderzoeksvraag | Alleen casuïstiek over osteomalacie bij renale tubulaire acidose (o.a. bij Sjögren); alfacalcidol werd samen met alkalitherapie gegeven, dus het aandeel van alfacalcidol is niet te isoleren. Betreft de botcomplicatie, niet het tubulaire defect. |
-
-Van de overige indicaties is renale tubulaire acidose de meest onderbouwde, maar ook daar blijft het bewijs beperkt tot casusbeschrijvingen.
+**Om verder te gaan is het volgende nodig:**
+- Preklinisch of mechanistisch onderzoek naar de rol van vitamine D-signalering bij craniofaciale conodysplasie
+- Gegevens over het werkingsmechanisme van alfacalcidol
+- Beoordeling van de SmPC- en bijsluiterinformatie van het CBG-MEB voor waarschuwingen en contra-indicaties
+- Casuïstiek of literatuuroverzicht over deze zeer zeldzame aandoening om de klinische relevantie te beoordelen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

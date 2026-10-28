@@ -48,10 +48,10 @@ Biotine (vitamine B7) wordt van oudsher gebruikt bij een voedingsgerelateerd bio
 |------|------|
 | Oorspronkelijke indicatie | Voedingsgerelateerd biotinetekort |
 | Voorspelde nieuwe indicatie | Dyspepsie |
-| TxGNN-voorspellingsscore | 99,43% |
+| TxGNN-voorspellingsscore | 0,9943 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Biotine (vitamine B7) wordt van oudsher gebruikt bij een voedingsgerelateerd bio
 
 Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Bekend is dat biotine een co-factor is voor carboxylasen die betrokken zijn bij het vetzuur-, glucose- en aminozuurmetabolisme. Het werd oorspronkelijk gebruikt bij biotinetekort.
 
-Een tekort aan biotine kan maag-darmklachten geven, zoals misselijkheid en verminderde eetlust. Dat biedt slechts een zwakke, indirecte onderbouwing voor dyspepsie, en alleen wanneer er sprake is van een tekort. Een direct mechanistisch verband is niet vastgesteld. De hoge modelscore (0,994) is een computationele voorspelling en wordt niet ondersteund door klinische gegevens.
+Een tekort aan biotine kan maag-darmklachten geven, zoals misselijkheid en verminderde eetlust. Dat biedt slechts een zwakke, indirecte onderbouwing voor dyspepsie, en alleen wanneer er sprake is van een tekort. Een direct mechanistisch verband is niet vastgesteld. De hoge modelscore (0,9943) is een computationele voorspelling en wordt niet ondersteund door klinische gegevens.
 
 Voor de tweede voorspelde indicatie, **gastroparese**, zijn evenmin studies of literatuur gevonden. Een mogelijke rol van biotine in het glucosemetabolisme bij diabetische gastroparese is speculatief.
 
@@ -114,7 +114,7 @@ Deze signalen zijn niet geverifieerd aan de hand van de officiële productinform
 **Besluit: Hold**
 
 **Onderbouwing:**
-Er zijn geen klinische studies en geen direct relevante literatuur voor biotine bij dyspepsie (bewijsniveau L5). De voorspelling steunt alleen op het TxGNN-model. Bovendien is er in Nederland geen geldige vergunning voor het enige geregistreerde product (doorgehaald), en ontbreken de veiligheidsgegevens uit de officiële productinformatie.
+Er zijn geen klinische studies en geen direct relevante literatuur voor biotine bij dyspepsie (bewijsniveau L5). De voorspelling steunt alleen op het TxGNN-model (deep learning). Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit de officiële productinformatie.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC en bijsluiter (CBG-MEB) ophalen en beoordelen; dit is een blokkerende ontbrekende gegevensbron

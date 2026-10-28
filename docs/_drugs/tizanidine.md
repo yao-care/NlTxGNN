@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tizanidine
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 322
-evidence_level: L5
-indication_count: 6
+evidence_level: L1
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport verzamelde gegevens (de vergu…"
 monitor_inn: "tizanidine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-## Tizanidine: Van spasticiteit naar migraine
+## Tizanidine: Migraine (migraine disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tizanidine is een centraal werkende alfa-2-adrenerge agonist, bekend als spierve
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de voor dit rapport verzamelde gegevens (de vergunning bevat geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,79% |
+| TxGNN-voorspellingsscore | 0.9979 |
 | Evidenceniveau | L1 (grens: de fase 3-studie heeft de status "onbekend"; zie toelichting hieronder) |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (cancelled only) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -98,9 +98,9 @@ Daarnaast zijn er een preklinische formuleringsstudie naar een co-kristal van ti
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | Niet vermeld | Niet vermeld (registratie geldig) |
 
-De enige bekende registratie bij het CBG-MEB is doorgehaald. Er is dus momenteel geen geldig tizanidineproduct met vergunning in de gegevens, wat relevant is voor elke toekomstige toepassing in Nederland.
+De enige bekende registratie bij het CBG-MEB is doorgehaald.
 
 ---
 
@@ -134,11 +134,10 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 | Voorspelde indicatie | TxGNN-score | Evidenceniveau | Aanbeveling |
 |------|------|------|------|
-| Migraine met hersenstamaura | 99,71% | L4 | Hold. Geen studies; alleen indirecte literatuur. |
-| Migraine met of zonder aura, gevoeligheid voor | 99,54% | L2 | Onderzoeksvraag; overlapt met de algemene migraine-indicatie en is geen zelfstandige indicatie. |
-| Atrophoderma vermiculata | 99,31% | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
-| Syndroom van Gilles de la Tourette | 99,17% | L5 | Hold. Klasse-rationale voor alfa-2-agonisten, maar geen tizanidinespecifiek bewijs. |
-| Ulerythema ophryogenes | 99,13% | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
+| Migraine met hersenstamaura | 0,9971 | L5 | Hold. Geen studies; alleen indirecte literatuur. |
+| Atrophoderma vermiculata | 0,9931 | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
+| Syndroom van Gilles de la Tourette | 0,9917 | L5 | Hold. Klasse-rationale voor alfa-2-agonisten, maar geen tizanidinespecifiek bewijs. |
+| Ulerythema ophryogenes | 0,9913 | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

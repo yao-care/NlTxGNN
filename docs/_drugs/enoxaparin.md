@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 130
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Enoxaparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale embolie, gedissemineerde intravasale stol…"
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
+last_modified_at: 2026-10-27
+description: "Enoxaparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency… (bewijsniveau L5). Oorspronkelijke indicatie: Niet ve…"
 ---
 
 # Enoxaparin
@@ -33,96 +33,67 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Enoxaparine: van pulmonale embolie naar trombofilie door proteïne C-deficiëntie (autosomaal recessief)
+## Enoxaparine: laagmoleculairgewichtheparine (anticoagulans) → Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency, autosomal recessive)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Enoxaparine is een laagmoleculairgewicht-heparine, in de kennisgraaf van TxGNN gekoppeld aan pulmonale embolie, gedissemineerde intravasale stolling (DIC) en purpura fulminans.
-Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **trombofilie door proteïne C-deficiëntie (autosomaal recessief)**.
-Er zijn momenteel **geen geregistreerde klinische studies** en **geen publicaties** in de voor dit rapport samengestelde gegevens die deze voorspelling ondersteunen.
-
----
+Enoxaparine is een laagmoleculairgewichtheparine dat de bloedstolling remt. De TxGNN-voorspelling is dat het mogelijk werkzaam is bij **trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency, autosomal recessive)**. Hiervoor zijn in de voor dit rapport samengestelde gegevens **geen klinische studies** en **geen publicaties** gevonden, dus de voorspelling berust alleen op het model.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Pulmonale embolie, gedissemineerde intravasale stolling, purpura fulminans, verworven purpura fulminans (afkomstig uit de TxGNN-kennisgraaf; de Nederlandse registratietekst bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Trombofilie door proteïne C-deficiëntie, autosomaal recessief |
-| TxGNN-voorspellingsscore | 99,58% |
-| Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal registraties | 1 (doorgehaald) |
-| Aanbevolen beslissing | Hold |
-
----
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency, autosomal recessive) |
+| TxGNN-voorspellingsscore | 0,9958 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor enoxaparine zijn in de voor dit rapport samengestelde gegevens geen mechanismegegevens beschikbaar. De onderstaande uitleg berust daarom op algemene farmacologische kennis en niet op de aangeleverde data.
+Enoxaparine versterkt de werking van antitrombine III en remt vooral factor Xa, in mindere mate trombine. Gegevens over het werkingsmechanisme zijn niet opgenomen in de voor dit rapport samengestelde gegevens; de onderstaande koppeling is daarom afgeleid uit algemene farmacologische kennis.
 
-Enoxaparine versterkt de werking van antitrombine III en remt vooral factor Xa, in mindere mate trombine. Bij autosomaal recessieve proteïne C-deficiëntie (homozygoot of samengesteld heterozygoot) ontbreekt de natuurlijke proteïne C-antistollingsroute. Hierdoor wordt trombine ongeremd gevormd, met trombotische complicaties zoals neonatale purpura fulminans tot gevolg.
+Bij autosomaal recessieve proteïne C-deficiëntie (homozygoot of compound heterozygoot) ontbreekt de antistollingsroute van proteïne C. Hierdoor ontstaat ongeremde trombinevorming en kunnen trombotische complicaties optreden, zoals purpura fulminans bij pasgeborenen. Enoxaparine werkt stroomafwaarts van dit defect en vervangt proteïne C niet, maar zou de trombotische belasting wel plausibel kunnen verminderen.
 
-Enoxaparine werkt stroomafwaarts van het defect en vervangt proteïne C niet. Het kan wel aannemelijk de trombotische belasting verminderen. Dit past bij de oorspronkelijke indicaties (purpura fulminans, verworven purpura fulminans en DIC), die een gemeenschappelijke pathofysiologie van ontregelde stolling hebben. De hoge TxGNN-score weerspiegelt waarschijnlijk deze nabijheid in het netwerk.
+De hoge score weerspiegelt waarschijnlijk de nabijheid van deze aandoening tot andere stollingsstoornissen met een vergelijkbare pathofysiologie (ontregelde stolling). In de klinische praktijk wordt antistolling soms als aanvullende of overbruggende behandeling gebruikt bij ernstige congenitale proteïne C-deficiëntie, naast proteïne C-concentraat of vers bevroren plasma. Dit is echter niet met de verstrekte gegevens onderbouwd en kan dus geen hoger bewijsniveau rechtvaardigen.
 
-In de praktijk wordt antistolling bij ernstige aangeboren proteïne C-deficiëntie al als aanvullende of overbruggende behandeling gebruikt, naast proteïne C-concentraat of vers bevroren plasma. Dit is niet gedocumenteerd in de aangeleverde gegevens en kan hier dus geen hoger evidenceniveau onderbouwen.
+## Klinisch trialbewijs
 
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Netherlands Market Information (Nederlandse marktinformatie)
+## Literatuurbewijs
+
+Momenteel is er geen gerelateerde literatuur beschikbaar.
+
+## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120766//13068 | Clexane 10.000 IE (100 mg)/1,0 ml, oplossing voor injectie | Oplossing voor injectie | Niet vermeld (registratie doorgehaald) |
+| RVG 120766//13068 | Clexane 10.000 IE (100mg)/1,0ml, oplossing voor injectie | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-Er is één registratie bij het CBG-MEB, en die is doorgehaald. Er zijn dus geen geldige registraties in de aangeleverde gegevens. Controleer de actuele status van andere enoxaparine-producten, bijvoorbeeld via EMA of het CBG-MEB.
-
----
+Er is één registratie (parallelimport/handelsvergunning) in de lokale gegevens opgenomen. De lijst is volledig.
 
 ## Veiligheidsoverwegingen
 
-**Contra-indicaties uit de kennisgraaf** (afkomstig uit de TxGNN-kennisgraaf PrimeKG, niet uit de bijsluiter of SmPC):
+- **Geneesmiddelinteracties**: in totaal zijn 216 interacties gevonden. Voorbeelden van ernstige (Major) interacties zijn acetylsalicylzuur, deferasirox, ibritumomab tiuxetan, tositumomab, abciximab, acalabrutinib, ketorolac, trastuzumab emtansine, ibuprofen en alteplase. Matige (Moderate) interacties zijn onder meer dexfenfluramine, fenfluramine, sibutramine, jodide I-131, sugammadex, jodide I-123, aliskiren en diclofenac (topisch). Dit is een selectie uit de eerste 20 vermeldingen.
 
-- **Bloedingen en stollingsstoornissen:** hemofilie, bloedstollingsziekte, trombocytopenie, heparine-geïnduceerde trombocytopenie, trombasthenie van Glanzmann, kwalitatieve trombocytendefecten, antitrombine III-deficiëntie, hematologische aandoeningen
-- **Intracraniële bloedingen:** intracraniële bloeding, intracerebrale bloeding
-- **Maag-darmstelsel en lever:** actieve maagzweer, colitis ulcerosa, inflammatoire darmziekte, leverfalen, galwegaandoeningen, obstructieve icterus
-- **Oog:** retinopathie, retinitis, diabetische retinopathie, hypertensieve retinopathie, diabetische cataract
-- **Hart en vaten:** infectieuze endocarditis, endocarditis, subacute bacteriële endocarditis, arteriosclerosis obliterans
-- **Overig:** osteoporose, postmenopauzale osteoporose, placenta-abruptie
-
-**Geneesmiddelinteracties:** in totaal zijn 216 interacties gevonden. Voorbeelden van ernstige (Major) interacties uit de eerste 20 weergegeven:
-
-- Acetylsalicylzuur
-- Ibuprofen
-- Ketorolac
-- Alteplase
-- Abciximab
-- Acalabrutinib
-- Deferasirox
-- Trastuzumab-emtansine
-- Ibritumomab-tiuxetan
-- Tositumomab (inclusief I-131)
-
-Matige interacties zijn onder meer fenfluramine, dexfenfluramine, sibutramine, aliskiren en sugammadex.
-
-Gegevens over waarschuwingen en contra-indicaties uit de officiële productinformatie van het CBG-MEB ontbreken. Raadpleeg de SmPC en de bijsluiter voor de geldende veiligheidsinformatie.
-
----
+Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties) wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold (aanhouden)**
 
 **Onderbouwing:**
-De voorspelling is uitsluitend gebaseerd op het model (L5), zonder klinische studies of literatuur in de aangeleverde gegevens. Daarnaast is de Nederlandse registratie doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie. Dit laatste is een blokkerend hiaat voor de veiligheidsscreening.
+- De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5): er zijn geen klinische studies of publicaties over deze aandoening, en gegevens over het werkingsmechanisme en de labelveiligheid ontbreken.
 
-**Om verder te gaan is het volgende nodig:**
-- De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen en verwerken (blokkerend)
-- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
-- Een gerichte zoektocht in klinische studies en literatuur naar enoxaparine of LMWH bij ernstige aangeboren proteïne C-deficiëntie
-- De actuele marktstatus van enoxaparine-producten in Nederland vaststellen
-- Toedieningsroute en doseringsvorm beoordelen voor de nieuwe indicatie (nog niet beoordeeld)
+**Om verder te gaan is nodig:**
+- Literatuuronderzoek naar antistolling met laagmoleculairgewichtheparine bij ernstige congenitale proteïne C-deficiëntie (casuïstiek, series, richtlijnen)
+- Aanvullende gegevens over het werkingsmechanisme
+- Beoordeling van de SmPC-waarschuwingen en contra-indicaties van het CBG-MEB, vooral in verband met bloedingsrisico en pasgeborenen
+- Eventueel een klinisch onderzoeksvoorstel bij deskundigen op het gebied van hemostase en kindergeneeskunde
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

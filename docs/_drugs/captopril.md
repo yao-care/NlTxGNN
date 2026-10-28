@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Captopril
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 71
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Captopril: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoeningen) en diabetische nefropathie (…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+last_modified_at: 2026-10-27
+description: "Captopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Captopril
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **4** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 </div>
 
-## Captopril: Van hypertensie naar maligne renovasculaire hypertensie
+## Captopril: ACE-remmer → Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Captopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandeling van hypertensie en diabetische nefropathie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **maligne renovasculaire hypertensie**. Er zijn **geen geregistreerde klinische studies** en **20 publicaties** (vooral reviews, casuïstiek en diagnostische toepassingen) die deze richting indirect ondersteunen.
+Captopril is een ACE-remmer die het renine-angiotensinesysteem (RAS) remt. Het TxGNN-model voorspelt dat captopril mogelijk werkzaam is bij **maligne hypertensieve nierziekte (malignant hypertensive renal disease)**. Voor deze richting zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens; de voorspelling is dus uitsluitend computationeel.
 
 ---
 
@@ -46,92 +46,68 @@ Captopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandelin
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (hypertensieve aandoeningen) en diabetische nefropathie (afkomstig uit de kennisgraaf; de tekst van de indicatie in de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Maligne renovasculaire hypertensie |
-| TxGNN-voorspellingsscore | 99,28% |
-| Bewijsniveau | L4 |
-| Status op de Nederlandse markt | Alleen doorgehaalde (geschrapte) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
-| Aanbevolen beslissing | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0,9928 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Aanhouden (Hold) |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn in de voor dit rapport verzamelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is captopril een ACE-remmer die de vorming van angiotensine II vermindert. De werkzaamheid bij hypertensie is vastgesteld en mechanistisch kan dit van toepassing zijn op maligne renovasculaire hypertensie.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Captopril behoort tot de ACE-remmers, die de vorming van angiotensine II remmen en daardoor de bloeddruk en de druk in de nierglomeruli verlagen.
 
-Renovasculaire hypertensie wordt aangedreven door activatie van het renine-angiotensinesysteem (RAS). Bij de maligne vorm zijn renine en angiotensine II sterk verhoogd. Het mechanisme is dus biologisch coherent. Captopril wordt bovendien diagnostisch gebruikt (captopril-renografie) bij renovasculaire aandoeningen. Een rapport uit 1984 beschrijft het gebruik van captopril bij stabiele en maligne hypertensie, maar dit is een niet-gerandomiseerd, niet-Engelstalig rapport uit de beginperiode van ACE-remmers.
+Bij maligne hypertensieve nierziekte (maligne nefrosclerose) wordt een sterk geactiveerd RAS als bijdragende factor beschouwd. Een ACE-remmer past daarom mechanistisch bij deze aandoening. Ook de nierbeschermende werking van captopril bij andere nierziekten maakt de voorspelling plausibel.
 
-Deze indicatie ligt dicht bij het reeds goedgekeurde gebruik bij hypertensie en is daarom eerder een uitbreiding van een bestaande indicatie dan echte herpositionering. Voorzichtigheid is geboden: ACE-remmers kunnen acuut nierfalen uitlokken bij bilaterale nierarteriestenose of stenose in een solitaire nier, zodat nauwgezette nierbewaking nodig is.
-
-**Overige voorspelde indicaties (alleen modelvoorspelling of zwakke ondersteuning):**
-- Maligne hypertensieve nierziekte (score 99,28%, L5): geen studies en geen literatuur.
-- Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (score 99,15%, L5): geen studies en geen literatuur. ACE-remmers zijn geen standaardtherapie bij pulmonale arteriële hypertensie en er is risico op systemische hypotensie.
-- Pulmonale hypertensie door longziekte en/of hypoxie (score 99,15%, L5): alleen preklinische en indirecte mechanistische gegevens, het meeste is niet relevant voor captopril bij pulmonale hypertensie.
+Dit is echter een redenering op basis van mechanisme en modelscore. Er is geen directe studie die captopril bij deze aandoening onderzoekt. De hoge score (0,9928) toont aan dat het model een sterk patroon ziet, maar is geen klinisch bewijs.
 
 ---
 
-## Klinisch studiebewijs
+## Klinisch trialbewijs
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
 ## Literatuurbewijs
 
-Selectie voor maligne renovasculaire hypertensie (geen RCT's beschikbaar):
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [6145432](https://pubmed.ncbi.nlm.nih.gov/6145432/) | 1984 | Klinisch rapport (niet-RCT) | Biulleten' Vsesoiuznogo kardiologicheskogo nauchnogo tsentra AMN SSSR | Gebruik van captopril bij arteriële hypertensie met stabiel en maligne verloop (geen samenvatting beschikbaar) |
-| [8070421](https://pubmed.ncbi.nlm.nih.gov/8070421/) | 1994 | Review | Endocrinol Metab Clin North Am | Renine-producerende tumoren: bij ACE-remmerbehandeling daalt de bloeddruk |
-| [232024](https://pubmed.ncbi.nlm.nih.gov/232024/) | 1979 | Klinisch onderzoek | Clin Sci (Lond) | Reactieve stijging van plasmarenine na angiotensineblokkade (o.a. captopril) identificeert renovasculaire hypertensie bij 43 van de 44 patiënten |
-| [3894732](https://pubmed.ncbi.nlm.nih.gov/3894732/) | 1985 | Review | Jpn J Med | Pathofysiologie en uitkomst van hypertensie; waarde van tests bij diagnose van renovasculaire hypertensie |
-| [7955304](https://pubmed.ncbi.nlm.nih.gov/7955304/) | 1994 | Review | Cleve Clin J Med | Niet-invasieve screening op renovasculaire aandoeningen |
-| [1572120](https://pubmed.ncbi.nlm.nih.gov/1572120/) | 1992 | Casuïstiek | Clin Nucl Med | Afwijkende captopril-renografie bij maligne hypertensie zonder renovasculaire hypertensie (fout-positief) |
-| [11334320](https://pubmed.ncbi.nlm.nih.gov/11334320/) | 2001 | Casuïstiek en review | Clin Nephrol | Renovasculaire hypertensie bij neurofibromatose; renineactiviteit na captopril |
-| [10955932](https://pubmed.ncbi.nlm.nih.gov/10955932/) | 2000 | Case-serie | Pediatr Nephrol | Nierarteriestenose en hypertensie bij kinderen met neurofibromatose; captopriltest gebruikt |
-| [3326101](https://pubmed.ncbi.nlm.nih.gov/3326101/) | 1987 | Klinisch rapport | J UOEH | Werkzaamheid van captopril bij refractaire hypertensie in de kindertijd |
-| [10477101](https://pubmed.ncbi.nlm.nih.gov/10477101/) | 1999 | Casuïstiek | Eur J Radiol | Negatieve captopril-renografie bij renine-gemedieerde hypertensie (page-nier, reninoom) |
-
-De meeste publicaties betreffen diagnostisch gebruik van captopril (renografie, reninetests) of casuïstiek; directe therapeutische evidentie voor maligne renovasculaire hypertensie ontbreekt.
+Momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106267 | Captopril/Hydrochloorthiazide Teva 50/25 mg, tabletten (doorgehaald) | Tablet | Niet beschikbaar |
+Volgens de lokale gegevens van het CBG-MEB is de marktstatus van captopril: **in de handel**. De vergunningstabel wordt door het programma toegevoegd. De enige in de lokale gegevens vermelde vergunning betreft een combinatieproduct (captopril/hydrochloorthiazide) en zegt daarom niets over de vergunning van captopril als enkelvoudig middel. Raadpleeg voor de geregistreerde indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
 
 ---
 
 ## Veiligheidsoverwegingen
 
-De gegevens uit de bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties) zijn niet beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+- **Geneesmiddelinteracties**: in de interactiegegevens staan 289 interacties. De meeste zijn van matig niveau, enkele van licht niveau. Voorbeelden:
+  - Matig: hydrocortison, dexamethason, betamethason, triamcinolon, budesonide, acetylsalicylzuur, morfine, bupropion, dronabinol
+  - Matig, antidiabetica: metformine, alogliptine, canagliflozine, dapagliflozine, empagliflozine, ertugliflozine, exenatide, chloorpropamide, acetohexamide
+  - Licht: aluminiumhydroxide, calciumcarbonaat
 
-Aanvullend, uit de kennisgraaf (geen bijsluitertekst):
-- **Mogelijke contra-indicaties/aandoeningen met voorzichtigheid**: nierziekte, leverziekte, pancreatitis, galblaasziekte, angio-oedeem (waaronder erfelijk en door RAAS-remmers veroorzaakt), systemische lupus erythematodes, bindweefselziekte, kaliumtekort, diabetes mellitus en diabetische ketoacidose, neutropenie en agranulocytose, aortastenose/aortaklepaandoeningen, hypotensie, hyperparathyreoïdie, hepatische encefalopathie en botziekte.
-- **Geneesmiddelinteracties**: 289 interacties gevonden. Voorbeelden van matige interacties: corticosteroïden (hydrocortison, dexamethason, betamethason, triamcinolon, budesonide), antidiabetica (metformine, alogliptine, canagliflozine, dapagliflozine, empagliflozine, exenatide), acetylsalicylzuur, morfine, bupropion en dronabinol. Minder belangrijk: aluminiumhydroxide en calciumcarbonaat.
-- **Zwangerschap**: de literatuur beschrijft foetale effecten van ACE-remmers.
-- **Nierfunctie**: risico op acuut nierfalen bij bilaterale nierarteriestenose of stenose in een solitaire nier.
+Voor waarschuwingen en contra-indicaties zijn geen bijsluitergegevens beschikbaar in de samengestelde gegevens. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Aanhouden (Hold)**
 
 **Onderbouwing:**
-- De voorspelling is mechanistisch plausibel, maar er zijn geen klinische studies en de literatuur is overwegend diagnostisch of casuïstisch (bewijsniveau L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de bijsluitergegevens over veiligheid, waardoor de veiligheidsscreening niet kan worden afgerond.
+- De voorspelling is uitsluitend gebaseerd op een modelscore (0,9928) en een plausibele RAS-gerelateerde redenering. Er zijn geen klinische studies of publicaties die deze aandoening direct onderzoeken (bewijsniveau L5).
 
-**Om verder te gaan is het volgende nodig:**
-- De bijsluiter/SmPC van het CBG-MEB downloaden en analyseren (waarschuwingen en contra-indicaties; blokkerende gegevenslacune).
-- Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank).
-- Beoordelen of een geldige vergunning of actueel product met captopril in Nederland beschikbaar is.
-- Systematische literatuurselectie op therapeutische studies bij maligne renovasculaire hypertensie, en bij voorkeur gecontroleerde klinische studies.
-- Een nierbewakingsplan opstellen voor patiënten met nierarteriestenose.
-- De overige voorspelde indicaties (maligne hypertensieve nierziekte en beide vormen van pulmonale hypertensie) blijven op Hold totdat er klinische of gepubliceerde evidentie is.
+**Om verder te gaan is nodig:**
+- Een systematische literatuursearch naar ACE-remmers bij maligne hypertensieve nierziekte, inclusief case-series en observationele data
+- Gegevens over het werkingsmechanisme van captopril
+- Analyse van de SmPC (waarschuwingen en contra-indicaties), met name bij nierfunctiestoornissen, hyperkaliëmie en nierarteriestenose
+- Een veiligheidsplan voor de combinatie met diuretica en andere bloeddrukverlagers, gezien het risico op hypotensie en verslechtering van de nierfunctie
+- Zo mogelijk een gecontroleerde klinische studie of expertadvies voordat een besluit over verdere stappen wordt genomen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

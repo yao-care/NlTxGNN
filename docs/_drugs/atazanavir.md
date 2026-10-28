@@ -4,17 +4,17 @@ title: Atazanavir
 parent: Alleen modelvoorspelling (L5)
 nav_order: 44
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Atazanavir: voorspelde nieuwe indicatie Feline verworven immunodeficiëntiesyndroom (bewijsniveau L5). Oorspronkelijke indicatie: HIV-infectie en aids"
+indication_count: 4
 monitor_inn: "atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-10-27
+description: "Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Atazanavir
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,77 +33,77 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-## Atazanavir: Van HIV/aids naar feline verworven immunodeficiëntiesyndroom
+## Atazanavir: hiv-proteaseremmer → Feline acquired immunodeficiency syndrome (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Atazanavir is een HIV-1-proteaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van HIV-infectie en aids. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **feline verworven immunodeficiëntiesyndroom** (een diergeneeskundige aandoening), maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaar. De voorspelling berust uitsluitend op modelmatige gelijkenis met de oorspronkelijke HIV-indicatie.
+Atazanavir is een hiv-proteaseremmer. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **feline acquired immunodeficiency syndrome (feline acquired immunodeficiency syndrome)**, een diergeneeskundige aandoening. Voor deze voorspelling zijn in de voor dit rapport samengestelde gegevens **geen klinische studies** en **geen publicaties** gevonden.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | HIV-infectie en aids (volgens de kennisgraaf van TxGNN; de registratietekst in Nederland is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Feline verworven immunodeficiëntiesyndroom |
-| TxGNN-voorspellingsscore | 99,98% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome (feline acquired immunodeficiency syndrome) |
+| TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (doorgehaald) |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
-| Aanbevolen beslissing | Hold |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold |
+
+---
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Atazanavir is echter een bekende HIV-1-proteaseremmer, en zijn werkzaamheid bij HIV is aangetoond. Het feline immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan HIV-1 en ook een protease codeert. Er bestaat dus een rationale op klasseniveau.
+Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Atazanavir behoort tot de hiv-1-proteaseremmers. Het kattenimmunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv-1 en eveneens een protease codeert. Daardoor bestaat op klasseniveau een theoretische mechanistische grondslag.
 
-Er zijn echter belangrijke kanttekeningen. Het FIV-protease verschilt van het HIV-1-protease in substraatspecificiteit en gevoeligheid voor remmers, en er zijn geen gegevens die activiteit van atazanavir tegen FIV ondersteunen. De hoge score weerspiegelt waarschijnlijk vooral de gelijkenis met de oorspronkelijke HIV-indicatie in de kennisgraaf, niet onafhankelijk bewijs. Het gaat bovendien om een diergeneeskundige indicatie zonder directe klinische relevantie voor mensen.
+Het FIV-protease verschilt echter van het hiv-1-protease in substraatspecificiteit en gevoeligheid voor remmers. Er zijn geen gegevens die activiteit van atazanavir tegen FIV-protease ondersteunen. De hoge score weerspiegelt waarschijnlijk vooral de gelijkenis met de hiv-indicatie in het model en vormt geen onafhankelijk bewijs. Het gaat bovendien om een diergeneeskundige indicatie zonder directe klinische relevantie voor de mens.
 
-## Klinische studies
+---
+
+## Bewijs uit klinische studies
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Literatuurbewijs
+---
 
-Momenteel is er geen gerelateerde literatuur beschikbaar voor de hoogst gerangschikte voorspelling (feline verworven immunodeficiëntiesyndroom).
+## Bewijs uit de literatuur
 
-Ter context: voor de overige voorspelde indicaties is wel literatuur gevonden.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
-| Voorspelde indicatie | Score | Bewijsniveau | Beschikbaar bewijs |
-|------|------|------|------|
-| Simian immunodeficiëntievirusinfectie | 99,98% | L4 | 1 preklinische dierstudie bij makaken met combinatietherapie (PMID [20497048](https://pubmed.ncbi.nlm.nih.gov/20497048/), 2010); draagt niet specifiek bij aan atazanavir |
-| Congenitaal HIV | 99,71% | L3 | 7 publicaties, vooral cohort- en veiligheidsstudies bij zwangerschap, o.a. [24992294](https://pubmed.ncbi.nlm.nih.gov/24992294/) (atazanavirblootstelling is effectief tijdens zwangerschap) |
-| Aan aids gerelateerd complex | 99,71% | L3 | 3 observationele of preklinische publicaties (indirect bewijs) |
-| Neurodevelopmentele stoornis met ataxie, afwezige spraak en verminderde corticale witte stof | 99,98% | L5 | Geen; waarschijnlijk een artefact van de kennisgraaf |
-| Verouderde familiaire gecombineerde hyperlipidemie | 99,82% | L5 | Geen; proteaseremmers veroorzaken eerder dyslipidemie dan dat ze die behandelen |
+---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115699 | Atazanavir Teva 150 mg, capsules, hard (status: ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 115699 | Atazanavir Teva 150 mg, capsules, hard | Niet vermeld | Niet vermeld |
 
-Er is geen geldige vergunning meer voor atazanavir in Nederland volgens de voor dit rapport verzamelde CBG-MEB-gegevens.
+---
 
 ## Veiligheidsoverwegingen
 
-**Contra-indicaties volgens de kennisgraaf (niet afkomstig uit de bijsluiter):** leverfalen, leverziekte, galblaasaandoening, hyperglykemie, diabetes mellitus, diabetische ketoacidose, chronische hepatitis C- en B-virusinfectie, hemofilie, hyperbilirubinemie (waaronder erfelijke vorm en syndroom van Gilbert), nefrolithiase, acute urinezuurnefropathie, atrioventriculair blok en lactaatacidose.
+- **Geneesmiddelinteracties**: in de samengestelde gegevens zijn 337 interacties vastgelegd. Voorbeelden van interacties van het niveau "Ernstig" (Major): famotidine, ranitidine, rabeprazol, omeprazol, loperamide, triamcinolon en budesonide. Voorbeelden van het niveau "Matig" zijn metformine, pioglitazon, hydrocortison en calciumcarbonaat.
 
-**Geneesmiddelinteracties:** in totaal zijn 337 interacties gevonden. Voorbeelden van **ernstige (Major)** interacties zijn famotidine, ranitidine, rabeprazol, omeprazol, loperamide, triamcinolon en budesonide. Voorbeelden van **matige** interacties zijn acarbose, metformine, pioglitazon, hydrocortison, aprepitant en calciumcarbonaat.
+Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
 
-Voor waarschuwingen en contra-indicaties volgens de productinformatie: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- De topvoorspelling is een diergeneeskundige indicatie zonder studies of literatuur (L5) en zonder bewezen activiteit van atazanavir tegen FIV. De overige voorspellingen zijn ofwel artefacten, ofwel overlappen ze grotendeels met de bestaande HIV-indicatie. Daarnaast is er in Nederland geen geldige vergunning meer.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties die de ziekte direct onderzoeken, en het FIV-protease verschilt aantoonbaar van het hiv-1-protease. Het betreft bovendien een diergeneeskundige indicatie.
 
 **Om verder te gaan is nodig:**
-- Gegevens over het werkingsmechanisme (bijv. via DrugBank)
-- De bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties), omdat dit een blokkerende datalacune is voor de veiligheidsscreening
-- Preklinische gegevens over de activiteit van atazanavir tegen FIV-protease, indien een diergeneeskundige route wordt overwogen
-- Voor congenitaal HIV: onderzoek naar werkzaamheid en veiligheid bij geïnfecteerde pasgeborenen (de huidige literatuur betreft vooral zwangerschapsblootstelling) en een heroverweging van de marktstatus in Nederland
+- Preklinische gegevens (in vitro) over de activiteit van atazanavir tegen FIV-protease
+- Gegevens over het werkingsmechanisme van atazanavir
+- Beoordeling van de diergeneeskundige regelgeving en van de veiligheid bij katten, aangezien het geen menselijke indicatie betreft
+- Beoordeling van de SmPC-waarschuwingen en contra-indicaties
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

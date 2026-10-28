@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Alprostadil
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 29
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L4). Oorspronkelijke indicatie: Erectiestoornissen en aangeboren hartafwijkingen met ductusafhankelij…"
@@ -14,7 +14,7 @@ predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", 
 # Alprostadil
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Alprostadil (prostaglandine E1) wordt van oudsher gebruikt bij erectiestoornisse
 |------|------|
 | Oorspronkelijke indicatie | Erectiestoornissen en aangeboren hartafwijkingen met ductusafhankelijke circulatie (zoals coarctatie van de aorta en tricuspidalisatresie); de tekst van de Nederlandse vergunning bevat geen indicatie |
 | Voorspelde nieuwe indicatie | Aortamisvorming (aortic malformation) |
-| TxGNN-voorspellingsscore | 99,98% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| TxGNN-voorspellingsscore | 0,9998 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,7 +89,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115134 | Vitaros 300 microgram, crème (status: doorgehaald) | Crème (volgens productnaam) | Niet beschikbaar in de samengestelde data |
+| RVG 115134 | Vitaros 300 microgram, crème (status: geldig) | Crème (volgens productnaam) | Niet beschikbaar in de samengestelde data |
 
 ---
 

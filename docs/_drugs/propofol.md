@@ -5,10 +5,10 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 282
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet beschikbaar in de data (de enige vergunning bevat geen indicatie…"
+last_modified_at: 2026-10-28
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
+description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Propofol
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-## Propofol: Van anesthesie naar migraine
+## Propofol: Migraine (migraine disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Propofol is een intraveneus anestheticum dat wordt gebruikt voor sedatie en alge
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de data (de enige vergunning bevat geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,69% |
+| TxGNN-voorspellingsscore | 0.9969 |
 | Bewijsniveau | L2 |
-| Marktstatus NL | Alleen ingetrokken vergunning (Cancelled only) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -63,10 +63,10 @@ Propofol is een positieve allosterische modulator van de GABA-A-receptor. Daarna
 Gedetailleerde mechanistische gegevens uit DrugBank zijn niet beschikbaar in de data voor dit rapport; bovenstaande onderbouwing komt uit de literatuur. Het gebruik is beperkt tot gemonitorde omgevingen, zoals de spoedeisende hulp, vanwege het risico op sedatie en ademhalingsdepressie. Richtlijnen en commentaren in de literatuur blijven voorzichtig.
 
 Andere voorspelde indicaties zijn minder overtuigend:
-- **Migraine met hersenstamaura** (score 99,58%, L3): mechanistisch plausibel via cortical spreading depression, maar geen studies specifiek voor dit zeldzame subtype; het bewijs is geëxtrapoleerd uit algemene migraine.
-- **Prinzmetal-angina** (99,23%, L4): alleen casuïstiek over coronaire spasmen *tijdens* anesthesie. Dit zijn bijwerkingen, geen therapeutisch effect.
-- **Nefrogeen syndroom van inadequate antidiurese** (99,20%, L5): alleen modelscore, geen studies en geen plausibel mechanisme.
-- **Syndroom van Gilles de la Tourette** (99,03%, L4): propofol wordt alleen als sedativum gebruikt bij diepe hersenstimulatie; geen bewijs voor therapeutisch effect op tics.
+- **Migraine met hersenstamaura** (score 0,9958, L3): mechanistisch plausibel via cortical spreading depression, maar geen studies specifiek voor dit zeldzame subtype; het bewijs is geëxtrapoleerd uit algemene migraine.
+- **Prinzmetal-angina** (0.9923, L4): alleen casuïstiek over coronaire spasmen *tijdens* anesthesie. Dit zijn bijwerkingen, geen therapeutisch effect.
+- **Nefrogeen syndroom van inadequate antidiurese** (0,9920, L5): alleen modelscore, geen studies en geen plausibel mechanisme.
+- **Syndroom van Gilles de la Tourette** (0.9903, L4): propofol wordt alleen als sedativum gebruikt bij diepe hersenstimulatie; geen bewijs voor therapeutisch effect op tics.
 
 ---
 
@@ -101,7 +101,7 @@ Andere voorspelde indicaties zijn minder overtuigend:
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (vergunning ingetrokken) | Emulsie voor injectie of infusie | Niet beschikbaar in de data |
+| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (vergunning geldig) | Emulsie voor injectie of infusie | Niet beschikbaar in de data |
 
 ---
 

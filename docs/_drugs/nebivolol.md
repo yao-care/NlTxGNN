@@ -4,17 +4,17 @@ title: Nebivolol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 243
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Nebivolol: Van hypertensie naar maligne hypertensieve nierziekte
+## Nebivolol: Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,28 +44,28 @@ Nebivolol is een bètablokker die oorspronkelijk wordt gebruikt voor de behandel
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (hypertensieve aandoening) |
-| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99,42% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
 Voor het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens geen details beschikbaar. Op basis van algemene kennis is nebivolol een sterk bèta-1-selectieve blokker met aanvullende vaatverwijding via stikstofmonoxide (NO), door activering van endotheliaal NO-synthase (eNOS). Dit is plausibel relevant voor ernstige hypertensie en hypertensieve nierschade.
 
-De hoge score weerspiegelt waarschijnlijk vooral de nabijheid van de voorspelde aandoening tot de reeds geregistreerde indicatie hypertensie in de kennisgraaf. Het is dus een modelmatige associatie, geen biologisch bewijs. Bovendien is maligne hypertensie een acuut noodgeval dat gewoonlijk met intraveneuze middelen wordt behandeld, waardoor een oraal middel als nebivolol slecht past.
+Het is dus een modelmatige associatie, geen biologisch bewijs. Bovendien is maligne hypertensie een acuut noodgeval dat gewoonlijk met intraveneuze middelen wordt behandeld, waardoor een oraal middel als nebivolol slecht past.
 
 Daarnaast voorspelt het model nog vier andere indicaties, alle met dezelfde beperking:
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
 |---|---|---|---|---|
-| 2 | Maligne renovasculaire hypertensie | 99,42% | L5 | Hold |
-| 3 | Pulmonale hypertensie door longziekte en/of hypoxie | 99,39% | L4 | Onderzoeksvraag |
-| 4 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,39% | L5 | Hold |
-| 5 | Braddock-syndroom | 99,14% | L5 | Hold |
+| 2 | Maligne renovasculaire hypertensie | 0,9942 | L5 | Hold |
+| 3 | Pulmonale hypertensie door longziekte en/of hypoxie | 0,9939 | L5 | Onderzoeksvraag |
+| 4 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 0,9939 | L5 | Hold |
+| 5 | Braddock-syndroom | 0,9914 | L5 | Hold |
 
 Voor pulmonale hypertensie zijn er bovendien zorgen: bètablokkade kan het hartminuutvolume en het inspanningsvermogen verminderen en de rechterventrikelfunctie negatief beïnvloeden. Eerst moet daarom de veiligheidsvraag worden beantwoord.
 
@@ -83,9 +83,9 @@ Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 111041 | Nebivolol Stada 5 mg tabletten (status: ingetrokken) | Tablet | Niet beschikbaar in de gegevens |
+| RVG 111041 | Nebivolol Stada 5 mg tabletten (status: geldig) | Tablet | Niet beschikbaar in de gegevens |
 
-Er is geen geldige registratie in Nederland (CBG-MEB). Alleen deze ene, inmiddels ingetrokken vergunning is bekend.
+Alleen deze ene, inmiddels ingetrokken vergunning is bekend.
 
 ## Veiligheidsoverwegingen
 
@@ -100,7 +100,6 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 **Onderbouwing:**
 - De voorspelling berust uitsluitend op een model (L5) zonder klinische studies of directe literatuur, en maligne hypertensie vereist doorgaans intraveneuze behandeling.
-- Er is geen geldige Nederlandse registratie, en de veiligheidsinformatie uit de productinformatie ontbreekt.
 
 **Om verder te gaan is nodig:**
 - Productinformatie (SmPC) van CBG-MEB met waarschuwingen en contra-indicaties, om de veiligheid te kunnen beoordelen

@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "incessant-infant-ventricular-tachycardia",
-          "display": "incessant infant ventricular tachycardia"
-        }
-      ],
-      "text": "incessant infant ventricular tachycardia",
       "concept": {
         "text": "incessant infant ventricular tachycardia"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9965
     }
   ]
 }

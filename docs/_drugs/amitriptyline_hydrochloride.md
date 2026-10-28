@@ -8,6 +8,7 @@ nav_order: 34
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amitriptyline Hydrochloride
@@ -48,8 +49,8 @@ Amitriptilline hydrochloride is een goed gevestigde tricyclische antidepressivum
 | Voorspelde nieuwe indicatie | Geen — geen TxGNN-voorspellingen gegenereerd |
 | TxGNN-voorspellingsscore | N/A |
 | Bewijsniveau | L5 (Geen voorspellingen of ondersteunende studies beschikbaar) |
-| Marketingstatus | Niet in de handel (Niet in de handel) |
-| Aantal vergunningen | 0 |
+| Marketingstatus | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | **In afwachting** |
 
 ## Waarom is deze voorspelling redelijk?

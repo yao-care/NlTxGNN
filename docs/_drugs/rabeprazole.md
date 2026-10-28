@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Rabeprazole
-parent: Alleen modelvoorspelling (L5)
+parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 286
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Rabeprazole: voorspelde nieuwe indicatie Smouldering systemische mastocytose (bewijsniveau L5). Oorspronkelijke indicatie: Zuurgerelateerde aandoeningen van maag en slokdarm (o.a. maagzweer…"
-monitor_inn: "rabeprazole"
-predicted_indications: ["lymphoadenopathic mastocytosis with eosinophilia"]
+last_modified_at: 2026-10-23
+description: "Rabeprazole: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Rabeprazole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
+Bewijsniveau: **N/A** | Voorspelde indicaties: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +32,45 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Rabeprazol: Van maagzweer en reflux naar smouldering systemische mastocytose
+<!-- known-uses-page -->
+<!-- description: Rabeprazole: bekende toepassingen en handelsstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie -->
+## Rabeprazole
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting
+Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle kandidaten die naar een bron te herleiden zijn, betreffen al bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie voor dit geneesmiddel.
 
-Rabeprazol is een protonpompremmer die oorspronkelijk wordt gebruikt voor zuurgerelateerde maag- en slokdarmaandoeningen, zoals maagzweren, gastro-oesofageale refluxziekte en het Zollinger-Ellison-syndroom.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **smouldering systemische mastocytose**.
-Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling berust uitsluitend op het model.
-
----
-
-## Snel overzicht
-
+## Kort overzicht
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Zuurgerelateerde aandoeningen van maag en slokdarm (o.a. maagzweer, refluxziekte, Zollinger-Ellison-syndroom). Er is geen geregistreerde indicatietekst beschikbaar. |
-| Voorspelde nieuwe indicatie | Smouldering systemische mastocytose |
-| TxGNN-voorspellingsscore | 99,44% |
-| Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
-| Aanbevolen beslissing | Hold |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Bekende toepassingen onder de modelkandidaten | 2 |
+| Handelsstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 
----
+## Bekende toepassingen onder de kandidaten van het model
 
-## Waarom is deze voorspelling aannemelijk?
+### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+| Indicatie | Bron |
+|------|------|
+| Geen | – |
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van de bekende informatie is rabeprazol een protonpompremmer die de maagzuursecretie onderdrukt. Bij mastocytose maken mestcellen veel histamine vrij, wat tot overmatige maagzuurproductie kan leiden. Daarom worden protonpompremmers al gebruikt als symptomatische behandeling van de maag-darmklachten bij deze ziekte.
+### Gerelateerd aan een goedgekeurde indicatie (dezelfde ziektecategorie)
+| Indicatie | Goedgekeurde categorie |
+|------|------|
+| Geen | – |
 
-Dit ondersteunt uitsluitend symptoombestrijding. Er is geen aanwijzing dat rabeprazol het ziekteverloop, de mestcellast of de KIT-gedreven ziekteprocessen van smouldering systemische mastocytose beïnvloedt. Bovendien staan systemische mastocytose en mastocytose al in de lijst van oorspronkelijke indicaties van het model. De voorspelling weerspiegelt dus vooral de nabijheid in de kennisgraaf tot bestaand, aan de indicatie grenzend gebruik en is geen nieuw herpositioneringssignaal.
-
-De tweede voorspelling, **lymfadenopathische mastocytose met eosinofilie** (score 99,35%), volgt dezelfde logica. Rabeprazol kan hier hooguit de zuurgerelateerde klachten verlichten. De lymfadenopathie, de eosinofilie en de onderliggende klonale mestcelziekte worden er niet door behandeld; daarvoor zijn normaal gesproken cytoreductieve of KIT-gerichte middelen nodig.
-
----
-
-## Klinisch trialbewijs
-
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
-
----
-
-## Literatuurbewijs
-
-Momenteel is er geen gerelateerde literatuur beschikbaar.
-
----
+### Relaties vastgelegd in de bronnen (geen goedkeuring gevonden)
+| Indicatie |
+|------|
+| Smoldering systemische mastocytose (Smouldering systemic mastocytosis) |
+| Lymfadenopathische mastocytose met eosinofilie (lymphoadenopathic mastocytosis with eosinophilia) |
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120457//23211 | Pariet 20 mg, maagsapresistente tabletten (status: doorgehaald) | Niet vermeld | Niet vermeld |
-
-Er is geen geldige vergunning voor een enkelvoudig of gecombineerd product in Nederland.
-
----
+| Registratie | Product | Toedieningsvorm | Status |
+|------|------|------|------|
+| RVG 120457//23211 | Pariet 20 mg, maagsapresistente tabletten |  | Geldig |
 
 ## Veiligheidsoverwegingen
 
@@ -99,19 +81,6 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie van h
 
 ---
 
-## Conclusie en vervolgstappen
-
-**Beslissing: Hold**
-
-**Onderbouwing:**
-De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur. Rabeprazol biedt hooguit symptoombestrijding van zuurgerelateerde klachten bij mastocytose en heeft geen aangetoond effect op de ziekte zelf. Daarnaast heeft het middel in Nederland geen geldige handelsvergunning meer.
-
-**Om verder te gaan is het volgende nodig:**
-- De waarschuwingen en contra-indicaties uit de CBG-MEB-productinformatie (de SmPC), zodat de veiligheidsscreening kan worden uitgevoerd. Dit ontbreekt nu en blokkeert de volgende stap.
-- Gegevens over het werkingsmechanisme uit DrugBank.
-- Een systematische literatuursearch naar het gebruik van protonpompremmers bij mastocytose, om vast te stellen of er meer is dan symptoombestrijding.
-- Duidelijkheid over de vergunningsstatus en beschikbare toedieningsvormen in Nederland, aangezien de enige bekende registratie is doorgehaald.
-- Een beoordeling van de relevantie van de interacties en van de contra-indicaties uit de kennisgraaf (botgezondheid, lever- en galblaasaandoeningen) voor de doelpopulatie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

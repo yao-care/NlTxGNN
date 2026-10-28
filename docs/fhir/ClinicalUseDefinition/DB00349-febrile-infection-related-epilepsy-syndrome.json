@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB00349",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB00349"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "febrile-infection-related-epilepsy-syndrome",
-          "display": "febrile infection-related epilepsy syndrome"
-        }
-      ],
-      "text": "febrile infection-related epilepsy syndrome"
+      "concept": {
+        "text": "febrile infection-related epilepsy syndrome"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9982
     }
   ]
 }

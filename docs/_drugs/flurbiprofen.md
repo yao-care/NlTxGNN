@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Alleen modelvoorspelling (L5)
 nav_order: 163
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Flurbiprofen: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, artrose…"
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -51,10 +51,10 @@ Van de tien hoogst scorende voorspellingen is er maar één met aanzienlijk bewi
 |------|------|
 | Oorspronkelijke indicatie | Reumatoïde artritis, artrose, artropathie (de vergunningsteksten bevatten geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Acromesomele dysplasie, type Hunter-Thompson |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaalde (vervallen) vergunningen |
-| Aantal vergunningen | 1 (0 geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -63,7 +63,7 @@ Van de tien hoogst scorende voorspellingen is er maar één met aanzienlijk bewi
 
 Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Flurbiprofen is een niet-selectieve remmer van COX-1 en COX-2. Dat geeft minder prostaglandinevorming en dus minder ontsteking en pijn. Dit is de basis van de werkzaamheid bij reumatoïde artritis en artrose.
 
-Acromesomele dysplasie, type Hunter-Thompson, is een zeldzame genetische skeletaandoening die samenhangt met de CDMP1/GDF5-route. Er is geen aannemelijk mechanistisch verband met COX-remming. De hoge score weerspiegelt waarschijnlijk dat de ziekte in de kennisgraaf dicht bij gewrichts- en skeletaandoeningen ligt. Het is vermoedelijk een artefact van het model en geen aanwijzing voor werkzaamheid.
+Acromesomele dysplasie, type Hunter-Thompson, is een zeldzame genetische skeletaandoening die samenhangt met de CDMP1/GDF5-route. Er is geen aannemelijk mechanistisch verband met COX-remming. De hoge score (0.9999) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, geen biologisch bewijs. Het is vermoedelijk een artefact van het model en geen aanwijzing voor werkzaamheid.
 
 Ook de andere voorspellingen in de top 10 met alleen modelondersteuning (bijvoorbeeld brachydactylie-syndactylie-syndroom, brachyolmie, pseudoachondroplasie, myosclerose en hypermobiliteit van het stuitbeen) hebben geen klinisch bewijs. Het enige plausibele geval is **spondylitis ankylopoetica**. NSAID's zijn daarbij een eerstelijns symptomatische behandeling, en dit is eerder een bestaand, aan de registratie verwant gebruik dan nieuwe herpositionering.
 
@@ -104,7 +104,7 @@ Opmerking: de studies zijn oud en klein. Fase, opzet en steekproefgrootte zijn n
 |---------|------|------|-----------|
 | RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | Zuigtablet (afgeleid uit de productnaam) | Niet beschikbaar |
 
-Deze vergunning is **doorgehaald**. Er is dus geen geldige vergunning van het CBG-MEB voor een flurbiprofenproduct in de gegevens. Het enige product is een zuigtablet met 8,75 mg voor lokaal gebruik, wat niet vergelijkbaar is met de systemische doses (150–200 mg/dag) uit de studies bij reumatische aandoeningen.
+Er is **1 geldige vergunning** van de 1 vergunning van het CBG-MEB voor een flurbiprofenproduct; het middel is in Nederland in de handel. Het enige product is een zuigtablet met 8,75 mg voor lokaal gebruik, wat niet vergelijkbaar is met de systemische doses (150–200 mg/dag) uit de studies bij reumatische aandoeningen.
 
 ---
 

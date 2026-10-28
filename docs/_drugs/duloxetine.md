@@ -50,10 +50,10 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden: de vo
 |------|------|
 | Oorspronkelijke indicatie | Unipolaire depressie (verder o.a. majeure depressieve stoornis, angststoornis, fibromyalgie, myofasciaal pijnsyndroom, vrouwelijke stressincontinentie) |
 | Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd |
-| TxGNN-voorspellingsscore | 99,85% |
+| TxGNN-voorspellingsscore | 0,9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,7 +64,7 @@ Voor deze stof zijn momenteel geen gedetailleerde gegevens over het werkingsmech
 
 Benigne paroxismale torticollis van de kindertijd wordt gerelateerd aan migrainevarianten. Serotonerge en noradrenerge modulatie speelt een rol bij migraine- en pijnroutes. Dit is echter speculatief en door geen enkele studie onderbouwd.
 
-De hoge score (0,998) weerspiegelt waarschijnlijk vooral associaties in de kennisgraaf van het model, niet een aangetoond mechanisme. Bovendien gaat het om een patiëntenpopulatie van zuigelingen en jonge kinderen, wat bij duloxetine aanzienlijke veiligheidsvragen oproept.
+De hoge score (0,9985) komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk vooral overeenkomsten die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs of een aangetoond mechanisme. Bovendien gaat het om een patiëntenpopulatie van zuigelingen en jonge kinderen, wat bij duloxetine aanzienlijke veiligheidsvragen oproept.
 
 ---
 
@@ -84,9 +84,9 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118228 | Duloxetine Sandoz 60 mg, harde maagsapresistente capsules (status: doorgehaald) | Harde maagsapresistente capsule | – |
+| RVG 118228 | Duloxetine Sandoz 60 mg, harde maagsapresistente capsules (status: geldig) | Harde maagsapresistente capsule | – |
 
-Er is geen geldige vergunning meer bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van eventuele andere duloxetinepreparaten, bijvoorbeeld via EMA-procedures.
+Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.
 
 ---
 
@@ -105,7 +105,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is voor deze voorspelde indicatie geen enkel klinisch of literatuurbewijs (L5), de mogelijke mechanistische link is speculatief en de doelgroep (zuigelingen) brengt grote veiligheidsrisico's met zich mee. Bovendien is er in Nederland geen geldige vergunning meer.
+- Er is voor deze voorspelde indicatie geen enkel klinisch of literatuurbewijs (L5), de mogelijke mechanistische link is speculatief en de doelgroep (zuigelingen) brengt grote veiligheidsrisico's met zich mee.
 
 **Voor een eventueel vervolg is nodig:**
 - Gegevens over het werkingsmechanisme van duloxetine, om een mechanistische link te kunnen beoordelen.

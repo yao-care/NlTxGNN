@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "igg4-related-pachymeningitis",
-          "display": "IgG4-related pachymeningitis"
-        }
-      ],
-      "text": "IgG4-related pachymeningitis",
       "concept": {
         "text": "IgG4-related pachymeningitis"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9944
     }
   ]
 }

@@ -4,7 +4,7 @@ title: Topiramate
 parent: Alleen modelvoorspelling (L5)
 nav_order: 325
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Topiramate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie met gegeneraliseerde tonisch-clonische aanvallen…"
 monitor_inn: "topiramate"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 # Topiramate
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Topiramaat is een antiepilepticum dat oorspronkelijk wordt gebruikt bij gegenera
 |------|------|
 | Oorspronkelijke indicatie | Epilepsie met gegeneraliseerde tonisch-clonische aanvallen, partiële epilepsie, Lennox-Gastaut-syndroom (de toelatingsteksten in de NL-registratie zijn leeg) |
 | Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
-| TxGNN-voorspellingsscore | 99,70% |
+| TxGNN-voorspellingsscore | 0.9970 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geannuleerd) |
-| Aantal vergunningen | 1 (geannuleerd) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 Bij de overige voorspellingen in de top 9 is de bewijslast per indicatie verschillend (zie "Overige voorspelde indicaties").
@@ -84,14 +84,6 @@ Voor trigeminuszenuwneoplasma is momenteel geen gerelateerde literatuur beschikb
 
 | Indicatie | TxGNN-score | Bewijsniveau | Advies | Toelichting |
 |------|------|------|------|------|
-| Visuele epilepsie | 99,28% | L4 | Hold | Alleen algemene epilepsiereviews en richtlijnen; geen studie specifiek naar topiramaat bij visueel uitgelokte aanvallen |
-| Denkepilepsie (thinking seizures) | 99,21% | L2 | Onderzoeksvraag | Cochrane-reviews van aanvullende topiramaattherapie bij therapieresistente partiële epilepsie (bijv. [PMID 24570033](https://pubmed.ncbi.nlm.nih.gov/24570033/), [PMID 31642054](https://pubmed.ncbi.nlm.nih.gov/31642054/)); ondersteunt epilepsie in het algemeen, niet specifiek cognitief uitgelokte aanvallen |
-| Schrikepilepsie | 99,21% | L5 | Hold | Geen literatuur of studies |
-| Eetaanvallen | 99,21% | L4 | Hold | Literatuur betreft vooral eetstoornissen en gewichtseffecten, niet aanvallen uitgelokt door eten |
-| Mictie-geïnduceerde aanvallen | 99,21% | L4 | Hold | Alleen algemene epilepsiereviews |
-| Audiogene aanvallen | 99,21% | L4 | Onderzoeksvraag | Preklinische steun: topiramaat in [GAERS en Wistar AS-model (PMID 12581224)](https://pubmed.ncbi.nlm.nih.gov/12581224/) en bij [DBA/2-muizen (PMID 10666508)](https://pubmed.ncbi.nlm.nih.gov/10666508/); alleen dierstudies |
-| Orgasme-geïnduceerde aanvallen | 99,21% | L5 | Hold | Geen literatuur of studies |
-| Leesepilepsie | 99,09% | L4 | Hold | Voornamelijk niet-relevante literatuur; preklinische activiteit in genetische epilepsiemodellen |
 
 ---
 
@@ -101,7 +93,7 @@ Voor trigeminuszenuwneoplasma is momenteel geen gerelateerde literatuur beschikb
 |---------|------|------|-----------|
 | RVG 119971//24167 | Topamax 100 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (status: geannuleerd) |
 
-Er is geen geldige vergunning meer in Nederland (CBG-MEB). Er is alleen een geannuleerde vergunning.
+Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB). Het middel wordt in Nederland op de markt gebracht.
 
 ---
 
@@ -119,8 +111,7 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 **Beslissing: Hold** (voor de hoofdvoorspelling trigeminuszenuwneoplasma)
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een grafmodel (L5) zonder klinisch of literatuurbewijs en zonder aannemelijke mechanistische link. Daarnaast is er in Nederland geen geldige vergunning meer voor Topamax.
-- Binnen de overige voorspellingen verdienen denkepilepsie en audiogene aanvallen als onderzoeksvraag de meeste aandacht, maar deze overlappen met de reeds bestaande epilepsie-indicatie.
+- De score komt van het TxGNN-model (deep learning) en kan door het model geleerde overeenkomsten tussen verwante ziekten weerspiegelen, niet biologisch bewijs. Er is geen klinisch of literatuurbewijs en geen aannemelijke mechanistische link. Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (nu niet beschikbaar) en onderzoek naar een eventuele relatie met tumorbiologie

@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "solid-pseudopapillary-carcinoma-of-pancreas",
-          "display": "solid pseudopapillary carcinoma of pancreas"
-        }
-      ],
-      "text": "solid pseudopapillary carcinoma of pancreas",
       "concept": {
         "text": "solid pseudopapillary carcinoma of pancreas"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9986
     }
   ]
 }

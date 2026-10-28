@@ -48,10 +48,10 @@ Memantine is een NMDA-receptorantagonist die algemeen wordt gebruikt bij dementi
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de vergunningsgegevens (algemeen bekend: matige tot ernstige ziekte van Alzheimer) |
 | Voorspelde nieuwe indicatie | Pulmonale hypertensie |
-| TxGNN-voorspellingsscore | 99,54% |
+| TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken vergunning |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -85,7 +85,7 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114719 | Memantine 10 mg/ml Focus, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 114719 | Memantine 10 mg/ml Focus, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning geldig) |
 
 ---
 
@@ -115,7 +115,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - De officiële productinformatie (waarschuwingen en contra-indicaties) via het CBG-MEB.
 - Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data.
 
-**Opmerking over andere voorspellingen:** voor dezelfde stof is in de data ook **migraine** voorspeld (TxGNN-score 99,52%, bewijsniveau L1). Hiervoor is een afgeronde fase 3-studie (NCT04698525, n=33, memantine versus natriumvalproaat) en een meta-analyse van gerandomiseerde studies beschikbaar. De steekproef is klein en de beoordelaars noemen het bewijs "veelbelovend maar beperkt". Daarom wordt deze indicatie als onderzoeksvraag beschouwd. Zij heeft op dit moment een sterkere bewijsbasis dan pulmonale hypertensie.
+**Opmerking over andere voorspellingen:** voor dezelfde stof is in de data ook **migraine** voorspeld (TxGNN-score 0,9952, bewijsniveau L1). Hiervoor is een afgeronde fase 3-studie (NCT04698525, n=33, memantine versus natriumvalproaat) en een meta-analyse van gerandomiseerde studies beschikbaar. De steekproef is klein en de beoordelaars noemen het bewijs "veelbelovend maar beperkt". Daarom wordt deze indicatie als onderzoeksvraag beschouwd. Zij heeft op dit moment een sterkere bewijsbasis dan pulmonale hypertensie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

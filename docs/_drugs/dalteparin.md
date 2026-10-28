@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Dalteparine: Van pulmonaire embolie en purpura fulminans naar trombofilie door proteïne C-deficiëntie
+## Dalteparine: Trombofilie door proteïne C-deficiëntie, autosomaal recessief
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,10 +48,10 @@ Dalteparine is een laagmoleculairgewicht-heparine, oorspronkelijk gebruikt bij p
 |------|------|
 | Oorspronkelijke indicatie | Pulmonaire embolie, gedissemineerde intravasale stolling, purpura fulminans (volgens de TxGNN-kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar uit de NL-vergunning) |
 | Voorspelde nieuwe indicatie | Trombofilie door proteïne C-deficiëntie, autosomaal recessief |
-| TxGNN-voorspellingsscore | 99,88% |
+| TxGNN-voorspellingsscore | 0,9988 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning geschrapt) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -68,10 +68,10 @@ Toch is voorzichtigheid geboden. De standaardzorg bij ernstige aangeboren prote�
 
 | Rang | Voorspelde indicatie | Score | Beoordeling |
 |------|------|------|------|
-| 2 | Primaire afgiftestoornis van bloedplaatjes | 99,67% | Geen duidelijk mechanisme; anticoagulans kan bloedingsrisico verergeren |
-| 3 | Pseudo-von Willebrand-ziekte | 99,52% | Geen therapeutisch mechanisme; waarschijnlijk een artefact van de graaf; bloedingsrisico |
-| 4 | Atypisch hemolytisch-uremisch syndroom met thrombomoduline-afwijking | 99,34% | Losse conceptuele link; standaardzorg is complementremming |
-| 5 | Pijnlijke neuropathie | 99,19% | Geen mechanistische link; één niet-relevante studie |
+| 2 | Primaire afgiftestoornis van bloedplaatjes | 0,9967 | Geen duidelijk mechanisme; anticoagulans kan bloedingsrisico verergeren |
+| 3 | Pseudo-von Willebrand-ziekte | 0,9952 | Geen therapeutisch mechanisme; de score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model tussen verwante ziekten heeft geleerd, geen biologisch bewijs; bloedingsrisico |
+| 4 | Atypisch hemolytisch-uremisch syndroom met thrombomoduline-afwijking | 0,9934 | Losse conceptuele link; standaardzorg is complementremming |
+| 5 | Pijnlijke neuropathie | 0,9919 | Geen mechanistische link; één niet-relevante studie |
 
 ---
 
@@ -97,9 +97,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-De enige bekende vergunning bij het CBG-MEB is doorgehaald. Er is momenteel geen geldige vergunning voor een monopreparaat of combinatiepreparaat in de gegevens.
+De enige bekende vergunning bij het CBG-MEB is geldig. Het middel is op de markt: 1 van de 1 vergunningen is geldig.
 
 ---
 

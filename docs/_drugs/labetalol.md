@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Labetalol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 192
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Labetalol: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie en hypertensieve aandoeningen"
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+description: "Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Labetalol
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **4** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 </div>
 
-## Labetalol: Van hypertensie naar maligne renovasculaire hypertensie
+## Labetalol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ maar er zijn **geen geregistreerde klinische studies** en slechts **1 publicatie
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie en hypertensieve aandoeningen (op basis van de kennisgraaf; in de NL-registratiegegevens is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Maligne renovasculaire hypertensie |
-| TxGNN-voorspellingsscore | 99,08% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Malignant hypertensive renal disease |
+| TxGNN-voorspellingsscore | 0.9908 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,10 +64,10 @@ Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op 
 
 Bij renovasculaire hypertensie speelt activering van het renine-angiotensinesysteem een hoofdrol. Bètablokkade verlaagt de reninevrijgave, wat enige biologische plausibiliteit geeft. De voorspelling is echter grotendeels een uitbreiding van de bestaande hypertensie-indicatie en geen echte herpositionering. Directe klinische gegevens voor dit specifieke subtype ontbreken.
 
-**Overige voorspelde indicaties** (alle met dezelfde score van circa 99,08%):
+**Overige voorspelde indicaties** (alle met dezelfde score van circa 0,9908):
 - **Maligne hypertensieve nierziekte**: alleen modelvoorspelling (L5), zonder studies of literatuur. De indicatie ligt dicht bij de bestaande hypertensie-indicatie, dus de nieuwheid is beperkt.
 - **Pulmonale hypertensie door longziekte en/of hypoxie** (L4): de mechanistische link is zwak en mogelijk ongunstig. Niet-selectieve bètablokkade kan bronchospasme verergeren en het hartminuutvolume of de inspanningscapaciteit verminderen. De gevonden literatuur betreft systemische of obstetrische hypertensie, niet pulmonale hypertensie.
-- **Pulmonale hypertensie met onduidelijk multifactorieel mechanisme** (L5): alleen voorspelling. Waarschijnlijk weerspiegelt de hoge score de overlap in het begrip "hypertensie" in de kennisgraaf. Het baten-risicoprofiel is zonder ondersteunend bewijs ongunstig.
+- **Pulmonale hypertensie met onduidelijk multifactorieel mechanisme** (L5): alleen voorspelling. Het baten-risicoprofiel is zonder ondersteunend bewijs ongunstig.
 
 ---
 
@@ -89,7 +89,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor infusie 5 mg/ml | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor infusie 5 mg/ml | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 

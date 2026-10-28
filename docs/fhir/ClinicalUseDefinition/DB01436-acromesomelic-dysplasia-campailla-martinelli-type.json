@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB01436",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB01436"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acromesomelic-dysplasia-campailla-martinelli-type",
-          "display": "acromesomelic dysplasia, Campailla Martinelli type"
-        }
-      ],
-      "text": "acromesomelic dysplasia, Campailla Martinelli type"
+      "concept": {
+        "text": "acromesomelic dysplasia, Campailla Martinelli type"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9953
     }
   ]
 }

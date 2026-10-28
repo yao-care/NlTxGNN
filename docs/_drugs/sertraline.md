@@ -6,9 +6,9 @@ nav_order: 300
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sertraline: voorspelde nieuwe indicatie Agorafobie (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis, PTSS…"
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: voorspelde nieuwe indicatie Schizoid personality disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Sertraline
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-## Sertraline: Van angststoornissen naar agorafobie
+## Sertraline: Schizoid personality disorder
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Sertraline is een selectieve serotonine-heropnameremmer (SSRI) die oorspronkelij
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Angststoornis, neurotische stoornis, dysthyme stoornis, PTSS, sociale fobie, fobische stoornis, OCD (de goedgekeurde indicatietekst van de Nederlandse registratie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Agorafobie |
-| TxGNN-voorspellingsscore | 99,54% |
-| Bewijsniveau | L1 (met voorbehoud, zie hieronder) |
-| Status op de Nederlandse markt | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Schizoid personality disorder |
+| TxGNN-voorspellingsscore | 0.9993 |
+| Bewijsniveau | L5 (met voorbehoud, zie hieronder) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 Opmerking: de bewijsklasse L1 is gebaseerd op het geheel van het bewijs voor paniekstoornis met of zonder agorafobie. In de gegevens is niet vastgesteld of de opgehaalde fase 3-studies agorafobie-specifieke uitkomsten hebben gemeten. Dit moet worden geverifieerd.
@@ -131,13 +131,13 @@ Voor sertraline bij paniekstoornis, vaak met agorafobie, bestaat omvangrijk bewi
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
 |---------|------|------|------|
-| Schizotypische persoonlijkheidsstoornis | 99,93% | L4 | Onderzoeksvraag (1 kleine studie, n=8, zonder resultaten) |
-| Schizoïde persoonlijkheidsstoornis | 99,93% | L5 | Hold |
-| Theatrale persoonlijkheidsstoornis | 99,93% | L5 | Hold |
-| Paranoïde persoonlijkheidsstoornis | 99,93% | L5 | Hold |
-| Benigne paroxismale torticollis van de kindertijd | 99,55% | L5 | Hold |
-| Afhankelijke persoonlijkheidsstoornis | 99,21% | L4 | Onderzoeksvraag |
-| Narcistische persoonlijkheidsstoornis | 99,14% | L4 | Hold |
+| Schizotypische persoonlijkheidsstoornis | 0,9993 | L5 | Onderzoeksvraag (1 kleine studie, n=8, zonder resultaten) |
+| Schizoïde persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
+| Theatrale persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
+| Paranoïde persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
+| Benigne paroxismale torticollis van de kindertijd | 0,9955 | L5 | Hold |
+| Afhankelijke persoonlijkheidsstoornis | 0,9921 | L4 | Onderzoeksvraag |
+| Narcistische persoonlijkheidsstoornis | 0,9914 | L5 | Hold |
 
 Voor deze indicaties is geen direct bewijs, of slechts zeer beperkt indirect bewijs, beschikbaar.
 ## Disclaimer

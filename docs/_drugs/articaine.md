@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Articaine: voorspelde nieuwe indicatie Jicht (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (lokale anesthesie…"
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
+last_modified_at: 2026-10-27
+description: "Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Articaine
@@ -33,38 +33,36 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-## Articaïne: Van lokale anesthesie naar jicht
+## Articaïne: lokaal anestheticum (amide-type, natriumkanaalblokker) → jicht (gout)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Articaïne is een lokaal anestheticum van het amidetype dat vooral in de tandheelkunde wordt gebruikt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **jicht**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden. Het is een zuiver modelmatige voorspelling.
+Articaïne is een lokaal anestheticum van het amide-type dat spanningsgevoelige natriumkanalen blokkeert. Het TxGNN-model voorspelt een mogelijke werking bij **jicht (gout)**, maar hiervoor zijn in de voor dit rapport samengestelde data **geen klinische studies en geen publicaties** gevonden. De voorspelling berust dus uitsluitend op een modelberekening.
 
 ---
 
-## Snelle samenvatting
+## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van het CBG-MEB (lokale anesthesie, o.a. in de tandheelkunde, is algemeen bekend gebruik) |
-| Voorspelde nieuwe indicatie | Jicht |
-| TxGNN-voorspellingsscore | 99,58% |
-| Bewijsniveau | L5 |
-| Status op de Nederlandse markt | Alleen geschrapt (vervallen registraties) |
-| Aantal registraties | 2 (beide geschrapt, geen geldige) |
-| Aanbevolen besluit | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Jicht (gout) |
+| TxGNN-voorspellingsscore | 0,9958 |
+| Evidentieniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Bekend is dat articaïne een lokaal anestheticum van het amidetype is dat spanningsgevoelige natriumkanalen blokkeert.
+Er zijn in de data voor dit rapport geen gegevens over het werkingsmechanisme van articaïne opgenomen. Op basis van algemene farmacologische kennis blokkeert articaïne als lokaal anestheticum van het amide-type spanningsgevoelige natriumkanalen in zenuwvezels.
 
-Jicht wordt veroorzaakt door afzetting van uraatkristallen en door ontsteking via het NLRP3-inflammasoom. Blokkade van natriumkanalen werkt hier niet op in. Er is dus **geen aangetoond mechanistisch verband**. De hoge score (0,996) is uitsluitend gebaseerd op grafen in het model en wordt door geen enkele studie ondersteund.
+Jicht wordt veroorzaakt door afzetting van urinezuurkristallen en door ontsteking via het NLRP3-inflammasoom. Blokkade van natriumkanalen werkt op geen van beide mechanismen. Er is dus **geen aangetoonde mechanistische relatie**. Hooguit zou een lokaal anestheticum symptomatische pijnverlichting kunnen geven bij ingrepen zoals een gewrichtspunctie, maar dat is geen ziektemodificerende behandeling.
 
-Hooguit zou een lokaal anestheticum symptomatische pijnverlichting kunnen bieden bij ingrepen zoals gewrichtspunctie. Dat is geen ziektemodificerende behandeling.
-
-Er zijn voor deze indicatie geen vergelijkbare ondersteunende gegevens. De overige voorspellingen in de data (exostose, allergische astma, intrinsieke astma) hebben eveneens bewijsniveau L4–L5 en zijn gezien de beschikbare gegevens niet overtuigender.
+De hoge score (0,9958) is een grafgebaseerde modeluitkomst en geen bewijs van werkzaamheid.
 
 ---
 
@@ -76,7 +74,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Literatuurbewijs
 
-Momenteel is er geen gerelateerde literatuur beschikbaar voor jicht.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ---
 
@@ -84,39 +82,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor jicht.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 102892 | LONCARTI 40/0,01 mg/ml oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (geschrapt) |
-| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (geschrapt) |
+| RVG 102892 | LONCARTI 40/0,01 mg/ml, oplossing voor injectie | Niet vermeld | Niet vermeld |
+| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | Niet vermeld | Niet vermeld |
 
-Beide registraties zijn geschrapt. Er is momenteel geen geldige handelsvergunning voor articaïne in de gegevens van het CBG-MEB.
+Beide vergunningen zijn enkelvoudige (single-ingredient) producten. Raadpleeg de actuele SmPC en bijsluiter via het CBG-MEB voor de exacte vergunningsstatus en indicatietekst.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf (PrimeKG, geen bijsluitertekst)**: hypertensie, nierziekte, leverziekte, galblaasziekte, diabetes mellitus en diabetische ketoacidose, coronaire hartziekte, hartinfarct, hartgeleidingsstoornissen, plotselinge hartstilstand, cardiovasculaire ziekte, gedilateerde cardiomyopathie, hemoglobinopathie, geslotenkamerhoekglaucoom, myasthenia gravis en andere neuromusculaire aandoeningen, butyrylcholinesterasedeficiëntie, hyperthyreoïdie (ziekte van Graves, thyreotoxicose) en de ziekte van Parkinson. Dit zijn signalen uit een model en geen officiële contra-indicaties.
-- **Geneesmiddelinteracties**: er zijn 13 interacties gevonden.
-  - **Ernstig (Major)**: nitriet (salpeterigzuur/"nitrous acid").
-  - **Matig (Moderate)**: liposomale morfine, benzocaïne (topisch), lidocaïne (oogheelkundig en topisch), oxybuprocaïne (oogheelkundig), cinchocaïne (topisch) en tetracaïne (oogheelkundig en topisch). Dit zijn grotendeels andere lokale anesthetica.
-  - **Licht (Minor)**: hyaluronidase.
-- **Overgevoeligheid**: de gevonden publicaties gaan over allergie voor lokale anesthetica (overgevoeligheid voor de geneesmiddelklasse) en niet over behandeling van astma. Zij wijzen eerder op een veiligheidsaspect bij atopische patiënten. Formuleringen met epinefrine bevatten daarnaast vaak sulfietconserveermiddelen, wat een aandachtspunt is bij astmapatiënten.
+- **Geneesmiddelinteracties**: in totaal zijn 13 interacties gevonden. De belangrijkste:
+  - **Ernstig (Major)**: nitriet (nitrous acid)
+  - **Matig (Moderate)**: liposomaal morfine, benzocaïne (topisch), lidocaïne (oogheelkundig en topisch), oxybuprocaïne (oogheelkundig), cinchocaïne (topisch), tetracaïne (oogheelkundig en topisch)
+  - **Licht (Minor)**: hyaluronidase
 
-Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken), aangezien de waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB niet beschikbaar waren.
+Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-Er is geen klinisch of literatuurbewijs en geen aannemelijk mechanistisch verband tussen natriumkanaalblokkade en jicht. De voorspelling berust alleen op een model (L5). Bovendien zijn alle Nederlandse registraties geschrapt en ontbreken de veiligheidsgegevens uit de bijsluiter, wat een blokkerend hiaat is.
+- De voorspelling voor jicht berust alleen op een modelscore, zonder klinische studies of publicaties en zonder plausibel mechanisme. Het evidentieniveau is L5.
 
 **Om verder te gaan is nodig:**
-- De bijsluitertekst (SmPC/PIL) van het CBG-MEB downloaden en analyseren op waarschuwingen en contra-indicaties.
-- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
-- Preklinisch of klinisch bewijs voor een effect op jicht, of een duidelijke onderbouwing waarom een rol uitsluitend als procedurele pijnstilling (bijv. gewrichtspunctie) zou gelden.
-- Vaststellen of er een route- en doseringsverenigbaarheid is met de beoogde indicatie.
-- Opheldering over de status van de geschrapte handelsvergunningen als verdere ontwikkeling wordt overwogen.
+- Aantoonbaar werkingsmechanisme dat natriumkanaalblokkade met jicht verbindt (preklinisch onderzoek)
+- Directe klinische of literatuurgegevens over articaïne bij jicht
+- Volledige SmPC-gegevens (waarschuwingen, contra-indicaties) van de Nederlandse producten
+- Beoordeling van de beoogde toedieningsroute voor de nieuwe indicatie
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

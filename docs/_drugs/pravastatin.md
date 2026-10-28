@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pravastatin
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 276
-evidence_level: L5
-indication_count: 9
+evidence_level: L4
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pravastatin: voorspelde nieuwe indicatie Homozygote familiaire hypercholesterolemie (bewijsniveau L5). Oorspronkelijke indicatie: Hypertriglyceridemie, beroerte/cerebrovasculaire aandoeningen…"
 monitor_inn: "pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: voorspelde nieuwe indicatie HIV infectious disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Pravastatine: Van hyperlipidemie en atherosclerose naar homozygote familiaire hypercholesterolemie
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Pravastatine is een statine (HMG-CoA-reductaseremmer) dat oorspronkelijk wordt g
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertriglyceridemie, beroerte/cerebrovasculaire aandoeningen, atherosclerose, familiaire gecombineerde hyperlipidemie en hyperlipoproteïnemie (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Homozygote familiaire hypercholesterolemie |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | HIV infectious disease |
+| TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L4 (zie toelichting hieronder) |
-| Marktstatus in Nederland | Alleen ingetrokken (cancelled) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 *Toelichting bewijsniveau: de data die voor dit rapport zijn samengesteld, kennen aan deze voorspelling niveau L4 toe. Er is geen pravastatinestudie bij deze indicatie, dus het bewijs blijft beperkt tot mechanistische en indirecte gegevens.*
@@ -64,7 +64,6 @@ Op dit moment zijn er geen gedetailleerde gegevens over het werkingsmechanisme b
 
 Biologisch is dit relevant voor hypercholesterolemie. Bij **homozygote** familiaire hypercholesterolemie is de functie van de LDL-receptor echter ernstig verminderd of afwezig. Het werkingsmechanisme van statines berust juist grotendeels op die receptor, dus de effectiviteit is naar verwachting beperkt. Eén van de gevonden publicaties (Prescrire, 2004) vermeldt eveneens dat statines weinig effectief zijn bij de homozygote vorm.
 
-De voorspelling is daarom vooral een uitkomst van de modelmatige nabijheid tussen aandoeningen in de kennisgraaf, en niet van directe klinische bevestiging.
 
 ---
 
@@ -97,9 +96,8 @@ De overige gevonden publicaties betreffen andere statines of zijn preklinisch of
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110016 | Pravastatinenatrium Aurobindo 40 mg, tabletten (ingetrokken) | Niet vermeld | Niet beschikbaar |
+| RVG 110016 | Pravastatinenatrium Aurobindo 40 mg, tabletten (geldig) | Niet vermeld | Niet beschikbaar |
 
-Deze vergunning (CBG-MEB) is ingetrokken; er is geen geldige vergunning voor pravastatine in de data opgenomen.
 
 ---
 
@@ -130,7 +128,6 @@ De officiële waarschuwingen en contra-indicaties uit de productinformatie zijn 
 
 **Onderbouwing:**
 - Voor deze indicatie is geen enkele studie met pravastatine gevonden. De enige studie onderzoekt alirocumab, en bij homozygote FH is de werking van statines mechanistisch beperkt door de verstoorde LDL-receptorfunctie.
-- Er is bovendien geen geldige Nederlandse vergunning en de officiële veiligheidsgegevens ontbreken (blokkerend).
 
 **Om verder te gaan is nodig:**
 - Officiële waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.

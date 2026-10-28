@@ -4,7 +4,7 @@ title: Ciclesonide
 parent: Alleen modelvoorspelling (L5)
 nav_order: 84
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ciclesonide: voorspelde nieuwe indicatie Atopisch eczeem (bewijsniveau L5). Oorspronkelijke indicatie: Astma, allergische astma, allergische rinitis, vasomotore rinitis"
 monitor_inn: "Ciclesonide"
@@ -14,7 +14,7 @@ predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitizat
 # Ciclesonide
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Ciclesonide is een inhalatiecorticosteroïd dat oorspronkelijk wordt gebruikt bi
 |------|------|
 | Oorspronkelijke indicatie | Astma, allergische astma, allergische rinitis, vasomotore rinitis (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning ontbreekt) |
 | Voorspelde nieuwe indicatie | Atopisch eczeem |
-| TxGNN-voorspellingsscore | 99,96% |
+| TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -70,11 +70,10 @@ De lijst met voorspellingen bevat ook "dermatitis, atopic". Dit is in wezen deze
 
 | Rang | Aandoening | Score | Bewijsniveau | Opmerking |
 |------|------|------|------|------|
-| 2 | Sensibilisatie voor 2-hydroxyethylmethacrylaat (HEMA) | 99,76% | L5 | Geen bewijs; behandeling bestaat vooral uit vermijden van het allergeen |
-| 3 | Dermatitis, atopisch | 99,73% | L5 | Duplicaat van atopisch eczeem |
-| 4 | Bronchitis | 99,70% | L4 | Alleen indirecte context via een COPD-richtlijn |
-| 5 | Contactdermatitis | 99,25% | L4 | Het enige artikel is een veiligheidssignaal, geen werkzaamheidsbewijs |
-| 6 | Astma-gerelateerde eigenschappen (gevoeligheid) | 99,13% | L5 | Genetische term, geen op zichzelf staande behandelbare indicatie |
+| 2 | Sensibilisatie voor 2-hydroxyethylmethacrylaat (HEMA) | 0,9976 | L5 | Geen bewijs; behandeling bestaat vooral uit vermijden van het allergeen |
+| 3 | Dermatitis, atopisch | 0,9973 | L5 | Duplicaat van atopisch eczeem |
+| 4 | Bronchitis | 0,9970 | L5 | Alleen indirecte context via een COPD-richtlijn |
+| 5 | Contactdermatitis | 0,9925 | L5 | Het enige artikel is een veiligheidssignaal, geen werkzaamheidsbewijs |
 
 ---
 
@@ -99,9 +98,9 @@ Voor atopisch eczeem is momenteel geen gerelateerde literatuur beschikbaar. Voor
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | Niet vermeld | Niet vermeld (status: doorgehaald) |
+| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | Niet vermeld | Niet vermeld (status: geldig) |
 
-Het enige Nederlandse product is doorgehaald; er is momenteel geen geldige vergunning voor ciclesonide in de verzamelde gegevens.
+Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 geldige vergunningen) en wordt momenteel op de markt gebracht.
 
 ---
 
@@ -142,7 +141,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Beoordeling van de routecompatibiliteit (een topicale of systemische formulering is nodig voor huidindicaties)
 - Preklinisch of klinisch bewijs voor ciclesonide bij atopisch eczeem
 - Beoordeling van het risico op contactallergie en kruisreactiviteit tussen corticosteroïden
-- Opheldering van de marktstatus in Nederland, aangezien er geen geldige vergunning is
+- Opheldering van de marktstatus in Nederland (het product is op de markt met 1 geldige vergunning van 1)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

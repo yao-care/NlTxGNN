@@ -4,17 +4,17 @@ title: Polymyxin B
 parent: Matig bewijs (L3-L4)
 nav_order: 274
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens (de vergunningen bevatten…"
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
+description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Polymyxin B
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Polymyxine B: Van oorspronkelijke indicatie (niet vastgelegd) naar bronchitis
+## Polymyxin B: Bronchitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Het bewijs voor deze voorspelling is daarmee zwak.
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare gegevens (de vergunningen bevatten geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Bronchitis |
-| TxGNN-voorspellingsscore | 99,87% |
+| TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -64,7 +64,6 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Er zijn echter duidelijke tegenargumenten. Geïnhaleerd of endobronchiaal polymyxine B kan bronchoconstrictie uitlokken en werd zelfs gebruikt als niet-specifiek provocatiemiddel bij astma en chronische bronchitis. In diermodellen veroorzaakt het ophoping van eosinofielen in de luchtwegen. De hoge TxGNN-score is een computationele voorspelling en wordt niet ondersteund door een geregistreerde klinische studie.
 
-Opmerkelijk is dat voor **conjunctivitis** (rang 3) wel een bestaande, klinisch gebruikte toepassing bestaat (zie hieronder). Dat is geen nieuwe herpositionering, maar een bekende indicatie van de combinatie met trimethoprim.
 
 ---
 
@@ -97,10 +96,9 @@ Het meeste bewijs betreft dus dierstudies of het gebruik van polymyxine B als pr
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Niet vermeld | Niet vermeld (doorgehaald) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Niet vermeld | Niet vermeld (doorgehaald) |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Niet vermeld | Niet vermeld (geldig) |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Niet vermeld | Niet vermeld (geldig) |
 
-Beide vergunningen zijn doorgehaald; er is momenteel geen geldig CBG-MEB-product met polymyxine B als enkelvoudige stof.
 
 ---
 
@@ -131,7 +129,6 @@ Raadpleeg voor verdere veiligheidsinformatie de SmPC (Samenvatting van de Produc
 **Onderbouwing:**
 - Voor bronchitis is er alleen een hoge modelscore, geen geregistreerde studies en meerdere veiligheidssignalen bij inhalatie. Klinische ontwikkeling voor deze indicatie is daarom niet te rechtvaardigen.
 - Voor laryngotracheïtis (rang 2) is er helemaal geen bewijs, en deze aandoening is meestal viraal. Besluit: Hold.
-- Voor conjunctivitis (rang 3) is er wel bewijs (L2): gerandomiseerde vergelijkingen van polymyxine B/trimethoprim met moxifloxacine bij kinderen (PMID [19043943](https://pubmed.ncbi.nlm.nih.gov/19043943/), [19043945](https://pubmed.ncbi.nlm.nih.gov/19043945/), [23092529](https://pubmed.ncbi.nlm.nih.gov/23092529/)). Dit is echter een bestaand gebruik van de combinatie, geen nieuwe herpositionering, en kan het best als onderzoeksvraag worden beschouwd.
 
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter/SmPC (momenteel ontbrekend; blokkerend voor de veiligheidsscreening)

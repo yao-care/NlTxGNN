@@ -50,10 +50,10 @@ Daarvoor zijn **geen geregistreerde klinische studies** en **4 publicaties** bes
 |------|------|
 | Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare vergunningsgegevens (de indicatietekst van de enige vergunning is leeg) |
 | Voorspelde nieuwe indicatie | Seborroïsche keratose |
-| TxGNN-voorspellingsscore | 99,96% |
+| TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,7 +89,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | Niet vermeld (oplossing voor cutaan gebruik) | Niet vermeld |
 
-Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning voor calcipotriol in de gebruikte gegevens.
+Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; het middel is op de markt.
 
 ---
 
@@ -111,15 +111,15 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Opmerking |
 |------|------|------|------|
-| Vulvaire omgekeerde folliculaire keratose | 99,94% | L5 | Geen klinisch bewijs; zeldzaam, meestal excisie |
-| Vulvovaginitis | 99,74% | L5 | Geen duidelijke mechanistische basis; risico op irritatie |
-| Vulvitis | 99,58% | L4 | Alleen indirect bewijs via vulvaire psoriasis |
-| Vulvaire neoplasie | 99,51% | L4 | Alleen een casus over goedaardige laesie; niet extrapoleren naar maligne ziekte |
-| Ulceratie van de vulva | 99,50% | L5 | Alleen computationeel; zorgen over irritatie en absorptie |
-| Vulvaire plaveiselcelneoplasie | 99,43% | L5 | Geen bewijs; vervangt geen standaard oncologische zorg |
-| Postmenopauzale atrofische vaginitis | 99,37% | L5 | Speculatief; verdraagbaarheid op atrofisch slijmvlies |
-| Ziekte van Paget van het bot | 99,20% | L5 | Systemisch hypercalciëmierisico; bisfosfonaten zijn standaard |
-| Fibrocystische borstaandoening | 99,02% | L5 | Alleen theoretisch |
+| Vulvaire omgekeerde folliculaire keratose | 0,9994 | L5 | Geen klinisch bewijs; zeldzaam, meestal excisie |
+| Vulvovaginitis | 0,9974 | L5 | Geen duidelijke mechanistische basis; risico op irritatie |
+| Vulvitis | 0,9958 | L5 | Alleen indirect bewijs via vulvaire psoriasis |
+| Vulvaire neoplasie | 0,9951 | L5 | Alleen een casus over goedaardige laesie; niet extrapoleren naar maligne ziekte |
+| Ulceratie van de vulva | 0,9950 | L5 | Alleen computationeel; zorgen over irritatie en absorptie |
+| Vulvaire plaveiselcelneoplasie | 0,9943 | L5 | Geen bewijs; vervangt geen standaard oncologische zorg |
+| Postmenopauzale atrofische vaginitis | 0,9937 | L5 | Speculatief; verdraagbaarheid op atrofisch slijmvlies |
+| Ziekte van Paget van het bot | 0,9920 | L5 | Systemisch hypercalciëmierisico; bisfosfonaten zijn standaard |
+| Fibrocystische borstaandoening | 0,9902 | L5 | Alleen theoretisch |
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 223
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Type 2 diabetes mellitus"
 monitor_inn: "metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
+description: "Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Metformin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Metformine: Van type 2 diabetes mellitus naar focal stiff limb syndrome
+## Metformin: Focal stiff limb syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Metformine is een bloedsuikerverlagend middel dat oorspronkelijk wordt gebruikt 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Type 2 diabetes mellitus (afkomstig uit de TxGNN-kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunningen is niet beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Focal stiff limb syndrome |
-| TxGNN-voorspellingsscore | 99,45% |
+| TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschorste/ingetrokken) registraties |
-| Aantal vergunningen | 3 (alle doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -66,10 +66,10 @@ Er is **geen klinisch onderbouwd mechanistisch verband** gevonden. Focal stiff l
 
 | Rang | Voorspelde indicatie | Score | Korte beoordeling |
 |------|------|------|------|
-| 2 | Classic stiff person syndrome | 99,45% | Identieke score als rang 1, wijst op een gedeeld grafsignaal. Metformine heeft geen bekend effect op het anti-GAD-auto-immuunmechanisme. |
-| 3 | Opsismodysplasia | 99,40% | Theoretisch verband via insuline/PI3K/AKT-signalering (SHIP2), maar speculatief en zonder preklinische of klinische data. |
-| 4 | Thiamine-responsive dysfunction syndrome | 99,40% | Diabetes maakt deel uit van het fenotype; de behandeling is thiaminesuppletie. Geen therapeutische rationale voor metformine. |
-| 5 | Drug-induced localized lipodystrophy | 99,06% | Meest aannemelijke indirecte link (insulineresistentie), maar geen bewijs dat metformine lokaal vetverlies herstelt. |
+| 2 | Classic stiff person syndrome | 0,9945 | Identieke score als rang 1, wijst op een gedeeld grafsignaal. Metformine heeft geen bekend effect op het anti-GAD-auto-immuunmechanisme. |
+| 3 | Opsismodysplasia | 0,9940 | Theoretisch verband via insuline/PI3K/AKT-signalering (SHIP2), maar speculatief en zonder preklinische of klinische data. |
+| 4 | Thiamine-responsive dysfunction syndrome | 0,9940 | Diabetes maakt deel uit van het fenotype; de behandeling is thiaminesuppletie. Geen therapeutische rationale voor metformine. |
+| 5 | Drug-induced localized lipodystrophy | 0,9906 | Meest aannemelijke indirecte link (insulineresistentie), maar geen bewijs dat metformine lokaal vetverlies herstelt. |
 
 ---
 
@@ -93,7 +93,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 | RVG 103395 | Metformine HCl/Glibenclamide Sandoz 500/5 mg, filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
 | RVG 119302//27246 | Glucovance 500 mg/5 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
 
-Alle drie de vergunningen zijn doorgehaald; er is geen geldige registratie bij het CBG-MEB in de verzamelde data.
+Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig.
 
 ---
 
@@ -114,7 +114,7 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5), zonder klinische studies of publicaties en zonder aannemelijk mechanistisch verband. Daarnaast heeft metformine in de verzamelde data geen geldige registratie in Nederland.
+De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5), zonder klinische studies of publicaties en zonder aannemelijk mechanistisch verband.
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie van het CBG-MEB (SmPC/bijsluiter) met waarschuwingen en contra-indicaties; dit is een blokkerende ontbrekende gegevensbron voor de veiligheidsscreening

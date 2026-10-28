@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Methionine: voorspelde nieuwe indicatie Diabetische cataract (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport samengestelde gegevens (in de…"
 monitor_inn: "methionine"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
+last_modified_at: 2026-10-23
+description: "Methionine: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar (de vergunningsgegevens bevatten geen indicatietekst)"
 ---
 
 # Methionine
@@ -33,38 +33,36 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Methionine: Van een voedingscomponent in parenterale voeding naar diabetische cataract
+## Methionine: Van geen geregistreerde oorspronkelijke indicatie naar acne (disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Methionine is een essentieel aminozuur dat in Nederland alleen nog voorkomt als bestanddeel van twee inmiddels doorgehaalde parenterale voedingsproducten. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **diabetische cataract** (en bij een reeks andere oogaandoeningen en acne). Er zijn **geen klinische studies** en slechts **indirecte literatuur** (6 publicaties voor diabetische cataract, voornamelijk basaal onderzoek en reviews), dus het bewijsniveau is laag.
+Methionine is een essentieel aminozuur dat in Nederland alleen voorkomt als bestanddeel van infuusemulsies voor parenterale voeding. In de data die voor dit rapport is samengesteld is geen goedgekeurde indicatietekst opgenomen. Het TxGNN-model voorspelt dat methionine werkzaam kan zijn bij **acne**, maar er zijn **0 klinische studies** en slechts **2 publicaties** met een indirect verband, zodat de voorspelling vooralsnog niet door directe studies wordt onderbouwd.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de voor dit rapport samengestelde gegevens (in de vergunningen is geen indicatietekst opgenomen) |
-| Voorspelde nieuwe indicatie | Diabetische cataract (beste ondersteunde van 10 voorspellingen; de nummer-1-voorspelling van het model is acne) |
-| TxGNN-voorspellingsscore | 99,999% (diabetische cataract: 99,9990%) |
-| Bewijsniveau | L4 voor diabetische cataract (alleen mechanistisch/preklinisch); L5 voor de overige voorspellingen |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
-| Aanbevolen besluit | Hold (onderzoeksvraag; geen directe toepassing) |
+| Oorspronkelijke indicatie | Niet beschikbaar (de vergunningsgegevens bevatten geen indicatietekst) |
+| Voorspelde nieuwe indicatie | Acne |
+| TxGNN-voorspellingsscore | 1,0000 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
+| Aanbevolen beslissing | Hold (aanhouden) |
 
-*Opmerking: de TxGNN-score is een modelscore en geen maat voor klinische werkzaamheid. Alle voorspellingen scoren vrijwel identiek (>99,99%), waardoor de score weinig onderscheidend vermogen heeft.*
+Het bewijsniveau is L5: de twee gevonden publicaties onderzoeken methionine niet bij acne zelf. Eén is een casusbeschrijving van een neonaat met een MTHFR-mutatie, de andere een observationele studie naar homocysteïne bij isotretinoïnegebruik.
 
 ---
 
-## Waarom is deze voorspelling plausibel?
+## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is methionine een essentieel zwavelhoudend aminozuur dat deel uitmaakt van parenterale voedingsmengsels en een voorloper is van homocysteïne en cysteïne.
+Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Methionine is een zwavelhoudend essentieel aminozuur en een voorloper van homocysteïne.
 
-De literatuur legt een indirect verband met diabetische cataract. Methionine-residuen in lenseiwitten zijn een bekend doelwit van oxidatieve schade. Het enzym methionine-sulfoxide-reductase B1 (MsrB1) beschermt humane lensepitheelcellen tegen door hoge glucose of peroxynitriet veroorzaakte apoptose en reguleert de redoxbalans. Dit toont aan dat het herstel van geoxideerd methionine belangrijk is in diabetische lenscellen.
-
-Er is echter **geen bewijs dat suppletie met methionine helpt**. Methionine wordt in het lichaam omgezet naar homocysteïne, en verhoogd homocysteïne wordt in reviews juist geassocieerd met oogziekten (waaronder cataract en retinopathie). Suppletie zou dus ook nadelig kunnen uitpakken. Voor de overige voorspelde indicaties (waaronder acne, ernstige niet-proliferatieve diabetische retinopathie en andere cataractvormen) ontbreekt een onderbouwd mechanistisch verband of is dit speculatief.
+Er is geen direct mechanistisch verband tussen methionine en acne aangetoond. De enige relevante publicatie (PMID 11277950) rapporteert verhoogde homocysteïnespiegels in plasma bij patiënten die isotretinoïne gebruiken voor cystische acne. Dat is hooguit een indirecte metabole associatie en zegt niets over een behandeleffect van methionine. De hoge TxGNN-score is een computationele voorspelling en geen klinisch bewijs.
 
 ---
 
@@ -76,22 +74,10 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
-Hieronder staat de literatuur bij de voorspelling met het meeste bewijs (diabetische cataract). Geen van deze publicaties is een klinische studie naar methionine als behandeling.
-
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [26343924](https://pubmed.ncbi.nlm.nih.gov/26343924/) | 2015 | Review | Clinica Chimica Acta | Verhoogd homocysteïne is een mogelijke risicofactor voor oogziekten, waaronder retinopathie en cataract; homocysteïne wordt omgezet in methionine of cysteïne |
-| [23270945](https://pubmed.ncbi.nlm.nih.gov/23270945/) | 2013 | Basaal onderzoek (in vitro) | Life Sciences | Het uitschakelen van MsrB1 beïnvloedt door hoge glucose geïnduceerde apoptose van humane lensepitheelcellen |
-| [22713178](https://pubmed.ncbi.nlm.nih.gov/22713178/) | 2012 | Basaal onderzoek (in vitro) | Experimental Eye Research | MsrB1 reguleert de redoxbalans en remt peroxynitriet-geïnduceerde apoptose in lensepitheelcellen |
-| [39656472](https://pubmed.ncbi.nlm.nih.gov/39656472/) | 2024 | Basaal onderzoek (dier, metabolomics) | Investigative Ophthalmology & Visual Science | Rol van lipocaline-2 in veranderingen van lens en retina bij diabetische muizen |
-| [8680624](https://pubmed.ncbi.nlm.nih.gov/8680624/) | 1996 | Epidemiologisch (case-controle) | Annals of Epidemiology | Verband tussen voedings- en nutriëntinname en cataractextractie; slechts losjes gerelateerd |
-
-*Een zesde gevonden publicatie (PMID 40172029, over groeivertraging in de baarmoeder bij ratten) is niet relevant voor cataract en is weggelaten.*
-
-**Overige voorspellingen met literatuur (alleen indirect):**
-- **Acne:** een case report over een MTHFR-mutatie bij een pasgeborene ([39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/), 2024) en een cohortstudie over verhoogd homocysteïne bij isotretinoïnegebruik ([11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/), 2001). Dit wijst op een metabole associatie met een bijwerking, niet op therapeutisch voordeel.
-- **Nucleaire seniele cataract:** vijf studies naar oxidatie van lenseiwitten (waaronder methionine) en diermodellen, bijvoorbeeld [861252](https://pubmed.ncbi.nlm.nih.gov/861252/) (1977). Geen daarvan test methionine als interventie.
-- **Cataract (corticaal) en rijpe cataract:** alleen algemene of basale studies over oxidatieve stress in de lens.
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohortstudie | International Journal of Dermatology | Verhoogde plasmahomocysteïne bij patiënten die isotretinoïne gebruiken voor cystische acne |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Casusbeschrijving | BMJ Case Reports | Neonaat met nieuwe MTHFR-mutatie, encefalopathie, haaruitval en neonatale acne; betreft een andere aandoening |
 
 ---
 
@@ -99,45 +85,45 @@ Hieronder staat de literatuur bij de voorspelling met het meeste bewijs (diabeti
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | Emulsie voor infusie | Niet vermeld (vergunning doorgehaald) |
-| RVG 105713 | OLIMEL N9E, emulsie voor infusie | Emulsie voor infusie | Niet vermeld (vergunning doorgehaald) |
+| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
+| RVG 105713 | OLIMEL N9E, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
 
-Beide vergunningen (CBG-MEB) zijn doorgehaald; er is momenteel geen geldig geregistreerd product met methionine als enige of gecombineerde werkzame stof in de gebruikte gegevens.
+Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt. De toedieningsvorm is afgeleid uit de productnaam. De lijst is volledig (2 van 2 vergunningen).
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie; de bijsluiter (PIL) van de oorspronkelijke producten is niet in de gegevens opgenomen.
+De volgende punten komen uit de kennisgrafiek (PrimeKG) en zijn dus geen bijsluitertekst.
 
-**Contra-indicaties volgens de kennisgraaf (niet gebaseerd op bijsluitertekst):** het TxGNN-kennisnetwerk (PrimeKG) koppelt methionine aan onder meer de volgende aandoeningen als mogelijke contra-indicatie. Dit is een modelmatig signaal en geen officiële labelinformatie:
-- Nier- en urinewegaandoeningen: nierziekte, chronische nierziekte, terminaal nierfalen, nefrolithiasis, nefrocalcinose, acute urinezuurnefropathie, pyoureter
-- Hart- en vaatziekten: hypertensie, hartziekte, hart- en vaatziekte, ventriculaire fibrillatie, digitalisintoxicatie
-- Stofwisselingsziekten: diabetes mellitus, diabetische ketoacidose, hyperlipidemie (waaronder familiaire), fenylketonurie en andere stoornissen van het fenylalaninemetabolisme, stoornissen van het fosformetabolisme
-- Calciumgerelateerd: hypercalciëmie, humorale hypercalciëmie bij maligniteit, sarcoïdose
+- **Contra-indicaties volgens de kennisgrafiek**: onder meer nierziekten (waaronder chronisch nierfalen en terminaal nierfalen), hart- en vaatziekten, hypertensie, diabetes mellitus en diabetische ketoacidose, hypercalciëmie, nefrolithiase, hyperlipidemie, fenylketonurie en andere stoornissen van het fenylalaninemetabolisme, sarcoïdose, digitalisintoxicatie en ventrikelfibrilleren.
+- **Geneesmiddelinteracties** (9 meldingen, bron DDInter): activeermiddel koolstof (matig), en efedrine, pseudo-efedrine, mexiletine en flecaïnide (alle licht).
 
-Opvallend is dat diabetes mellitus op deze lijst staat, terwijl de best ondersteunde voorspelde indicatie (diabetische cataract) juist bij diabetespatiënten voorkomt. Dit vraagt bijzondere aandacht.
-
-**Geneesmiddelinteracties (9 meldingen uit DDInter, 4 unieke stoffen):**
-- Matig: actieve kool
-- Licht: efedrine, pseudo-efedrine, mexiletine, flecaïnide
+Voor volledige veiligheidsinformatie: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van de betreffende producten via het CBG-MEB.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold (aanhouden)**
 
 **Onderbouwing:**
-- Alle voorspellingen berusten op een modelscore zonder klinische studies. Voor diabetische cataract is alleen indirect mechanistisch en preklinisch bewijs beschikbaar, dat bovendien niet aantoont dat methionine-suppletie werkt. Verhoogd homocysteïne en de kennisgraaf-contra-indicaties (onder meer diabetes en nierziekte) pleiten juist voor voorzichtigheid.
-- Er is geen geldige vergunning in Nederland en er zijn geen gegevens over oorspronkelijke indicaties of bijsluiterwaarschuwingen, waardoor de veiligheidsscreening niet kan worden afgerond.
+- De voorspelling voor acne berust alleen op het model; er zijn geen klinische studies en geen studie die methionine bij acne onderzoekt. Het bewijsniveau is daarom L5.
 
 **Om verder te gaan is nodig:**
-- Bijsluiter-/SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties) om de veiligheidsscreening te kunnen uitvoeren
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Preklinisch onderzoek naar het effect van methionine-suppletie (niet alleen van MsrB1) op diabetische lensschade, inclusief de invloed op homocysteïnespiegels
-- Beoordeling van de toedieningsroute (oraal, parenteraal of oogheelkundig); de routecompatibiliteit is nog niet vastgesteld
-- Pas bij positieve preklinische resultaten: een veiligheids- en haalbaarheidsanalyse voor een eerste klinische studie bij diabetespatiënten
+- Gegevens over het werkingsmechanisme van methionine (DrugBank)
+- De indicatietekst en veiligheidsinformatie uit de SmPC's van de Nederlandse producten (CBG-MEB)
+- Preklinische of klinische studies die methionine rechtstreeks bij acne onderzoeken
+- Beoordeling van de kennisgrafiek-contra-indicaties (met name nier- en hart- en vaatziekten) voordat veiligheidsscreening kan plaatsvinden
+
+---
+
+## Overige voorspelde indicaties (ter informatie)
+
+Het model voorspelt ook andere indicaties, vooral oogaandoeningen. Geen daarvan wordt door klinische studies ondersteund.
+
+| Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
+|------|------|------|------|
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

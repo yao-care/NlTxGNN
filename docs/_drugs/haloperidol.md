@@ -6,9 +6,9 @@ nav_order: 176
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Haloperidol: voorspelde nieuwe indicatie Congenitale glycosylatiestoornis met defecte fucosylering (bewijsniveau L5). Oorspronkelijke indicatie: Psychotische stoornissen, schizofrenie…"
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+description: "Haloperidol: voorspelde nieuwe indicatie Congenital disorder of glycosylation with defective fucosylation (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Haloperidol
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Haloperidol: Van schizofrenie en andere psychotische stoornissen naar congenitale glycosylatiestoornis met defecte fucosylering
+## Haloperidol: Congenital disorder of glycosylation with defective fucosylation
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -44,19 +44,19 @@ Haloperidol is een antipsychoticum dat oorspronkelijk wordt gebruikt bij psychot
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Psychotische stoornissen, schizofrenie, schizofreniforme en schizoaffectieve stoornis, syndroom van Gilles de la Tourette (afkomstig uit de kennisgraaf; de vergunningsgegevens bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Congenitale glycosylatiestoornis met defecte fucosylering |
-| TxGNN-voorspellingsscore | 99,91% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Congenital disorder of glycosylation with defective fucosylation |
+| TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
 Haloperidol is een dopamine-D2-antagonist. Dit effect verklaart de werking bij psychose. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens.
 
-Er is **geen herkenbaar mechanistisch verband** gevonden tussen dopamine-D2-blokkade en fucosylatieroutes. Een congenitale glycosylatiestoornis is een erfelijke metabole aandoening, en haloperidol heeft geen bekende werking op dit proces. De hoge score komt waarschijnlijk voort uit patronen in de kennisgraaf en niet uit biologisch of klinisch bewijs.
+Er is **geen herkenbaar mechanistisch verband** gevonden tussen dopamine-D2-blokkade en fucosylatieroutes. Een congenitale glycosylatiestoornis is een erfelijke metabole aandoening, en haloperidol heeft geen bekende werking op dit proces.
 
 *Opmerking:* de gegevens bevatten ook andere voorspelde indicaties. Eén daarvan, **manische bipolaire stoornis**, heeft veel sterker bewijs (onder meer een afgeronde fase 3-studie met haloperidol als vergelijkend middel en netwerk-meta-analyses). Dit betreft echter geen nieuwe herpositionering, maar een reeds gevestigd gebruik. Deze indicatie verdient een afzonderlijke beoordeling.
 
@@ -72,9 +72,9 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Status |
 |---------|------|------|------|
-| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml | Oplossing voor injectie | Doorgehaald |
+| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml | Oplossing voor injectie | Geldig |
 
-Er is geen geldige registratie van haloperidol in de verzamelde CBG-MEB-gegevens. Controleer de actuele beschikbaarheid en eventuele andere handelsvormen (bijvoorbeeld via het Geneesmiddeleninformatiebank van het CBG-MEB of EMA).
+Controleer de actuele beschikbaarheid en eventuele andere handelsvormen (bijvoorbeeld via het Geneesmiddeleninformatiebank van het CBG-MEB of EMA).
 
 ## Veiligheidsoverwegingen
 

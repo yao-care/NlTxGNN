@@ -4,17 +4,17 @@ title: Irbesartan
 parent: Alleen modelvoorspelling (L5)
 nav_order: 185
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie en diabetische nefropathie (afkomstig uit de TxGNN-kennis…"
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+description: "Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-## Irbesartan: Van hypertensie en diabetische nefropathie naar maligne hypertensieve nierziekte
+## Irbesartan: Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Irbesartan is een angiotensine II-type 1-receptorblokker (ARB), oorspronkelijk g
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie en diabetische nefropathie (afkomstig uit de TxGNN-kennisgraaf; de Nederlandse vergunningstekst bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99,31% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0.9931 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 Voor dezelfde voorspelling zijn nog drie andere indicaties beoordeeld; zie het onderdeel "Overige voorspelde indicaties".
@@ -64,7 +64,7 @@ Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data
 
 Bij maligne hypertensie met nierbetrokkenheid speelt RAS-activatie een rol bij vaatschade. Blokkade van dit systeem is daarom biologisch plausibel. Deze indicatie overlapt grotendeels met de bestaande indicaties hypertensie en nefropathie. Het is dus eerder een uitbreiding van het bestaande gebruik dan een echte herpositionering.
 
-Let op: de score van 0,993 is een computationele voorspelling. Het gebruik van ARB's bij maligne hypertensie met mogelijke nierarteriestenose brengt veiligheidsrisico's met zich mee die met deze dataset niet te beoordelen zijn.
+Het gebruik van ARB's bij maligne hypertensie met mogelijke nierarteriestenose brengt veiligheidsrisico's met zich mee die met deze dataset niet te beoordelen zijn.
 
 ---
 
@@ -72,9 +72,9 @@ Let op: de score van 0,993 is een computationele voorspelling. Het gebruik van A
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling |
 |------|------|------|------|------|
-| 2 | Maligne renovasculaire hypertensie | 99,31% | L5 | Hold |
-| 3 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,25% | L5 | Hold |
-| 4 | Pulmonale hypertensie door longziekte en/of hypoxie | 99,25% | L4 | Onderzoeksvraag |
+| 2 | Maligne renovasculaire hypertensie | 0,9931 | L5 | Hold |
+| 3 | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 0,9925 | L5 | Hold |
+| 4 | Pulmonale hypertensie door longziekte en/of hypoxie | 0,9925 | L5 | Onderzoeksvraag |
 
 - **Maligne renovasculaire hypertensie:** Renovasculaire hypertensie is RAS-afhankelijk, dus een AT1-blokker is mechanistisch plausibel. ARB's kunnen echter acuut nierletsel uitlokken bij bilaterale nierarteriestenose of stenose bij een solitaire nier. Er zijn geen studies of literatuur.
 - **Pulmonale hypertensie, multifactorieel:** Het RAS draagt bij aan remodellering en vasoconstrictie van de longvaten, maar dit is niet gevalideerd. De heterogene ziektegroep maakt de mechanistische link moeilijk te specificeren. Systemische hypotensie is een mogelijk risico.
@@ -111,9 +111,8 @@ Drie opgehaalde artikelen (PMID 38621945, 39155928, 25907932) gaan over andere m
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113084 | Irbesof 300 mg filmomhulde tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 113084 | Irbesof 300 mg filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is geen geldige handelsvergunning meer voor irbesartan in de voor dit rapport verzamelde CBG-MEB-gegevens.
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 216
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde data (de vergunning bevat geen i…"
 monitor_inn: "lubiprostone"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
+description: "Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lubiprostone
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Lubiprostone: Van een niet vastgelegde oorspronkelijke indicatie naar alopecia
+## Lubiprostone: Alopecia
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -45,12 +45,12 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia**, maar er zi
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde data (de vergunning bevat geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Alopecia |
-| TxGNN-voorspellingsscore | 99,93% |
+| TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -63,15 +63,15 @@ Ook de overige negen voorspelde indicaties hebben alleen modelondersteuning (bew
 
 | Rang | Voorspelde indicatie | TxGNN-score | Opmerking over het mechanisme |
 |---|---|---|---|
-| 2 | Congenitale hypotrichosis met milia | 99,93% | Geen mechanistische link; waarschijnlijk netwerkgelijkenis met andere haarziekten |
-| 3 | Hypotrichosis simplex van de hoofdhuid | 99,93% | Erfelijke haaruitval; geen link met chloridekanaalactivatie |
-| 4 | Diffuse alopecia areata | 99,93% | Auto-immuunziekte; geen vastgestelde immuunmodulerende werking van lubiprostone |
-| 5 | Pulmonale hypertensie | 99,86% | Louter hypothetisch, via prostanoïde-signalering en ClC-2 in vaatweefsel |
-| 6 | Kyfoscoliotische hartziekte | 99,81% | Waarschijnlijk afgeleid van de associatie met pulmonale hypertensie |
-| 7 | Ziekte van Raynaud | 99,64% | Theoretische vasodilatatie via het PGE1-skelet; lage systemische opname zwakt dit af |
-| 8 | Pulmonale hypertensie, primair, autosomaal recessief | 99,54% | Waarschijnlijk netwerknabijheid tot pulmonale hypertensie |
-| 9 | Feochromocytoom | 99,50% | Geen aannemelijke mechanistische link |
-| 10 | Perifeer vaatlijden | 99,40% | Theoretische vasodilatatie, maar lage systemische biologische beschikbaarheid |
+| 2 | Congenitale hypotrichosis met milia | 0,9993 | Geen mechanistische link; waarschijnlijk netwerkgelijkenis met andere haarziekten |
+| 3 | Hypotrichosis simplex van de hoofdhuid | 0,9993 | Erfelijke haaruitval; geen link met chloridekanaalactivatie |
+| 4 | Diffuse alopecia areata | 0,9993 | Auto-immuunziekte; geen vastgestelde immuunmodulerende werking van lubiprostone |
+| 5 | Pulmonale hypertensie | 0,9986 | Louter hypothetisch, via prostanoïde-signalering en ClC-2 in vaatweefsel |
+| 6 | Kyfoscoliotische hartziekte | 0,9981 | Waarschijnlijk afgeleid van de associatie met pulmonale hypertensie |
+| 7 | Ziekte van Raynaud | 0,9964 | Theoretische vasodilatatie via het PGE1-skelet; lage systemische opname zwakt dit af |
+| 8 | Pulmonale hypertensie, primair, autosomaal recessief | 0,9954 | Waarschijnlijk netwerknabijheid tot pulmonale hypertensie |
+| 9 | Feochromocytoom | 0,9950 | Geen aannemelijke mechanistische link |
+| 10 | Perifeer vaatlijden | 0,9940 | Theoretische vasodilatatie, maar lage systemische biologische beschikbaarheid |
 
 ## Bewijs uit klinische studies
 
@@ -85,9 +85,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115891 | Amitiza 24 microgram capsule, zacht | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 115891 | Amitiza 24 microgram capsule, zacht | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald. Er is dus momenteel geen geldig geregistreerd product.
+De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald.
 
 ## Veiligheidsoverwegingen
 

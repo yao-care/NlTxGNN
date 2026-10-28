@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ethambutol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 139
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ethambutol: voorspelde nieuwe indicatie Epiglottitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose"
@@ -14,7 +14,7 @@ predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection",
 # Ethambutol
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Ethambutol is een antimycobacterieel middel dat oorspronkelijk wordt gebruikt vo
 |------|------|
 | Oorspronkelijke indicatie | Pulmonale tuberculose |
 | Voorspelde nieuwe indicatie | Epiglottitis |
-| TxGNN-voorspellingsscore | 99,90% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| TxGNN-voorspellingsscore | 0,9990 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,9 +82,9 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-Het enige geregistreerde product is niet meer op de markt. Er is momenteel dus geen geldige vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit rapport zijn samengesteld.
+Het enige geregistreerde product is op de markt. Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit rapport zijn samengesteld.
 
 ---
 

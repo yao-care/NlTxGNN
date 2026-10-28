@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "pressure-induced-localized-lipoatrophy",
-          "display": "pressure-induced localized lipoatrophy"
-        }
-      ],
-      "text": "pressure-induced localized lipoatrophy",
       "concept": {
         "text": "pressure-induced localized lipoatrophy"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9924
     }
   ]
 }

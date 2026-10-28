@@ -4,17 +4,17 @@ title: Methotrexate
 parent: Alleen modelvoorspelling (L5)
 nav_order: 226
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methotrexate: voorspelde nieuwe indicatie Pulmonair blastoom (bewijsniveau L5). Oorspronkelijke indicatie: Acute lymfatische leukemie (overige oorspronkelijke indicaties: reuma…"
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: voorspelde nieuwe indicatie Pulmonary blastoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Methotrexaat: van acute lymfatische leukemie naar pulmonair blastoom
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -46,12 +46,12 @@ Methotrexaat is een antifolaat (celdelingremmer) dat oorspronkelijk wordt gebrui
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Acute lymfatische leukemie (overige oorspronkelijke indicaties: reumatoïde artritis, mycosis fungoides, psoriasis, non-Hodgkinlymfoom). Deze zijn afkomstig uit de kennisgraaf, want in de gegevens over de Nederlandse registratie ontbreekt indicatietekst. |
-| Voorspelde nieuwe indicatie | Pulmonair blastoom |
-| TxGNN-voorspellingsscore | 99,45% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pulmonary blastoma |
+| TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Methotrexaat is een antifolaat (celdelingremmer) dat oorspronkelijk wordt gebrui
 
 Er zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van bekende informatie is methotrexaat een antimetaboliet uit de klasse van de antifolaten. De werkzaamheid bij hematologische maligniteiten, zoals leukemie en lymfoom, is aangetoond. Mechanistisch zou het kunnen werken bij snelgroeiende tumoren, omdat het de synthese van DNA-bouwstenen remt.
 
-Pulmonair blastoom is een zeldzame, bifasische en agressieve longtumor. Een mogelijke link met de antifolaatwerking op snel delende tumorcellen is denkbaar. Die link is echter speculatief en wordt niet door gegevens ondersteund. De hoge score weerspiegelt vooral patronen in de kennisgraaf, niet bewezen klinische werkzaamheid.
+Pulmonair blastoom is een zeldzame, bifasische en agressieve longtumor. Een mogelijke link met de antifolaatwerking op snel delende tumorcellen is denkbaar. Die link is echter speculatief en wordt niet door gegevens ondersteund.
 
 ---
 
@@ -82,7 +82,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 117707 (doorgehaald) | Methotrexaat Sigillata 30 mg = 0,75 ml, oplossing voor injectie in een voorgevulde spuit 40 mg/ml | Oplossing voor injectie (voorgevulde spuit) | Niet beschikbaar in de samengestelde gegevens |
 
-Er is geen geldige registratie bij het CBG-MEB meer in de gegevens aangetroffen. Raadpleeg het CBG-MEB voor de actuele status van andere methotrexaatproducten.
+Raadpleeg het CBG-MEB voor de actuele status van andere methotrexaatproducten.
 
 ---
 

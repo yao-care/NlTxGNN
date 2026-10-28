@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "alk-positive-large-b-cell-lymphoma",
-          "display": "ALK-positive large B-cell lymphoma"
-        }
-      ],
-      "text": "ALK-positive large B-cell lymphoma",
       "concept": {
         "text": "ALK-positive large B-cell lymphoma"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9961
     }
   ]
 }

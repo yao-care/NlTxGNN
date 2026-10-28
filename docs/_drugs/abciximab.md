@@ -8,6 +8,7 @@ nav_order: 12
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Abciximab
@@ -49,7 +50,8 @@ Abciximab (DrugBank: DB00054) is een glycoproteïne IIb/IIIa-receptorinhibitor d
 | Voorspelde Nieuwe Indicatie | **Geen** — geen TxGNN-voorspellingen beschikbaar |
 | TxGNN Prediction Score | N/A |
 | Bewijsniveau | **L5** (Geen modelvoorspellingen, geen ondersteunende studies) |
-| Marktstatus NL | Niet op de markt (Niet op de markt) |
+| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aantal Autorisaties | 0 |
 | Aanbevolen Besluit | **In Wacht** |
 

@@ -6,9 +6,9 @@ nav_order: 219
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Mebendazole: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Enterobiasis, ascariasis…"
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
+description: "Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Mebendazole
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Mebendazol: Van enterobiasis, ascariasis en trichuriasis naar acne
+## Mebendazole: Acne (acne (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Mebendazol is een ontwormingsmiddel dat oorspronkelijk wordt gebruikt tegen worm
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Enterobiasis, ascariasis, trichuriasis (afkomstig uit de TxGNN-kennisgraaf; de indicatietekst van de Nederlandse vergunning is leeg) |
-| Voorspelde nieuwe indicatie | Acne |
-| TxGNN-voorspellingsscore | 99,2% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acne (acne (disease)) |
+| TxGNN-voorspellingsscore | 0.9920 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Mebendazol is een ontwormingsmiddel dat oorspronkelijk wordt gebruikt tegen worm
 
 Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme in de samengestelde data beschikbaar. Op basis van algemene kennis remt mebendazol de polymerisatie van tubuline in wormen. Uit preklinisch onderzoek komen daarnaast aanwijzingen voor antiproliferatieve en anti-angiogene effecten in kankermodellen.
 
-Een geloofwaardig mechanistisch verband met acne is niet aangetoond. Acne wordt bepaald door talgproductie, verhoorning van haarfollikels, *Cutibacterium acnes* en ontsteking, en mebendazol is aan geen van deze processen gekoppeld. De hoge score van 0,992 is een door het model afgeleide voorspelling en kan het gevolg zijn van netwerkartefacten in de kennisgraaf in plaats van een biologische onderbouwing. De overeenkomst met de oorspronkelijke indicatie (wormbesmetting) is niet beoordeeld.
+Een geloofwaardig mechanistisch verband met acne is niet aangetoond. Acne wordt bepaald door talgproductie, verhoorning van haarfollikels, *Cutibacterium acnes* en ontsteking, en mebendazol is aan geen van deze processen gekoppeld. De hoge score van 0,9920 komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, en is geen biologisch bewijs. De overeenkomst met de oorspronkelijke indicatie (wormbesmetting) is niet beoordeeld.
 
 ---
 
@@ -82,7 +82,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten (doorgehaald) | Tablet | Niet beschikbaar |
+| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten (geldig) | Tablet | Niet beschikbaar |
 
 ---
 

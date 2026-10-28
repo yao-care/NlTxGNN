@@ -4,17 +4,17 @@ title: Letrozole
 parent: Sterk bewijs (L1-L2)
 nav_order: 201
 evidence_level: L1
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Letrozole: voorspelde nieuwe indicatie Vrouwelijk mammacarcinoom (female breast carcinoma) (bewijsniveau L1). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunningstekst is leeg)"
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Letrozole: voorspelde nieuwe indicatie Nipple carcinoma (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-## Letrozol: Van borstkanker (oorspronkelijke indicatie niet vastgelegd) naar vrouwelijk mammacarcinoom
+## Letrozole: Nipple carcinoma
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Letrozol is een niet-steroïde aromataseremmer die de omzetting van androgenen in oestrogenen blokkeert. In de voor dit rapport samengestelde gegevens is de oorspronkelijke geregistreerde indicatie in Nederland niet vastgelegd. Het TxGNN-model voorspelt effectiviteit bij **vrouwelijk mammacarcinoom**, met **40 klinische studies** en **20 publicaties** die deze richting ondersteunen. Dit is feitelijk een gevestigd, richtlijngesteund gebruik en geen echt nieuwe herpositionering.
+Letrozol is een niet-steroïde aromataseremmer die de omzetting van androgenen in oestrogenen blokkeert. In de voor dit rapport samengestelde gegevens is de oorspronkelijke geregistreerde indicatie in Nederland niet vastgelegd. Dit is feitelijk een gevestigd, richtlijngesteund gebruik en geen echt nieuwe herpositionering.
 
 ---
 
@@ -46,12 +46,12 @@ Letrozol is een niet-steroïde aromataseremmer die de omzetting van androgenen i
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de vergunningstekst is leeg) |
-| Voorspelde nieuwe indicatie | Vrouwelijk mammacarcinoom (female breast carcinoma) |
-| TxGNN-voorspellingsscore | 99,98% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Nipple carcinoma |
+| TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -62,7 +62,7 @@ Letrozol is een nonsteroïdale aromataseremmer. Het blokkeert het enzym aromatas
 
 Fase 3-bewijs (MONALEESA-2, PALOMA-2, COMPLEEMENT-1) ondersteunt letrozol als endocriene basis van de behandeling, alleen of in combinatie met CDK4/6-remmers. Het is dus geen nieuw gebruik, maar een gevestigde, richtlijngesteunde toepassing. Dat de marktstatus "alleen doorgehaald" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact. De enige vergunning in de gegevens (RVG 114435) is doorgehaald, maar dit zegt niets over de beschikbaarheid van andere letrozolproducten in Nederland.
 
-Opmerking: de score van 99,98% is een modelvoorspelling. De sterkte van het bewijs komt uit de studies, niet uit de score.
+De sterkte van het bewijs komt uit de studies, niet uit de score.
 
 ---
 
@@ -106,7 +106,7 @@ Hieronder een selectie van de meest relevante studies (de voor dit rapport samen
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 

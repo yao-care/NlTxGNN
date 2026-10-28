@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "cholesterol-ester-transfer-protein-deficiency",
-          "display": "cholesterol-ester transfer protein deficiency"
-        }
-      ],
-      "text": "cholesterol-ester transfer protein deficiency",
       "concept": {
         "text": "cholesterol-ester transfer protein deficiency"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9991
     }
   ]
 }

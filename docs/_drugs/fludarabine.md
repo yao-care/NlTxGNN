@@ -46,10 +46,10 @@ Fludarabine is een purinenucleoside-analoog (cytostaticum). In de gegevens voor 
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar (de enige vergunning bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Plasmacelmyeloom |
-| TxGNN-voorspellingsscore | 99,82% |
+| TxGNN-voorspellingsscore | 0,9982 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -98,7 +98,7 @@ Er is geen gerandomiseerde studie gevonden die fludarabine zelf bij myeloom onde
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of infusie | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of infusie | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ## Cytotoxiciteit
 

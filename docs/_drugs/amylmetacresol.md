@@ -48,10 +48,10 @@ Amylmetacresol is een lokaal werkend antisepticum dat wordt gebruikt in zuigtabl
 |------|------|
 | Oorspronkelijke indicatie | Geen indicatietekst beschikbaar in de gegevens van het CBG-MEB (de bekende toepassing is keelzuigtabletten, een antisepticum voor de keel) |
 | Voorspelde nieuwe indicatie | Cauda-equinasyndroom |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal registraties | 8 (allemaal doorgehaald, 0 geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal registraties | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -86,15 +86,15 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Alle acht registraties zijn doorgehaald. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
+Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | Doorgehaald |
-| RVG 118243//04174 | 2,4-Dichloorbenzylalcohol 1,2 mg en Amylmetacresol 0,6 mg Eureco-Pharma, zuigtabletten | Doorgehaald |
-| RVG 118471 | Bogasil sinaasappel zuigtabletten | Doorgehaald |
-| RVG 118469 | Bogasan honing & citroen zuigtabletten | Doorgehaald |
-| RVG 118472 | Bogasil honing & citroen zuigtabletten | Doorgehaald |
+| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | Geldig |
+| RVG 118243//04174 | 2,4-Dichloorbenzylalcohol 1,2 mg en Amylmetacresol 0,6 mg Eureco-Pharma, zuigtabletten | Geldig |
+| RVG 118471 | Bogasil sinaasappel zuigtabletten | Geldig |
+| RVG 118469 | Bogasan honing & citroen zuigtabletten | Geldig |
+| RVG 118472 | Bogasil honing & citroen zuigtabletten | Geldig |
 
 Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).
 
@@ -113,7 +113,7 @@ Voor de oogindicaties geldt een extra aandachtspunt: oogblootstelling aan een an
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is alleen een modelvoorspelling (L5) zonder studies, literatuur of aannemelijk werkingsmechanisme. Bovendien zijn alle Nederlandse registraties doorgehaald en ontbreken veiligheidsgegevens uit de bijsluitertekst.
+- Er is alleen een modelvoorspelling (L5) zonder studies, literatuur of aannemelijk werkingsmechanisme. Bovendien ontbreken veiligheidsgegevens uit de bijsluitertekst.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (blokkerende gegevenslacune)

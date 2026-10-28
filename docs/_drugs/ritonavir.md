@@ -6,9 +6,9 @@ nav_order: 294
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ritonavir: voorspelde nieuwe indicatie Felien verworven immunodeficiëntiesyndroom (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Hiv-infectie/aids en chronische hepatitis C-infectie"
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Ritonavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ritonavir
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Ritonavir: Van hiv/aids naar felien verworven immunodeficiëntiesyndroom
+## Ritonavir: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Ritonavir is een proteaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van hiv-infectie/aids en hepatitis C-infectie (volgens de kennisgraaf waarop het model is gebaseerd). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **felien verworven immunodeficiëntiesyndroom (kattenaids)**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het gaat om een puur computationele voorspelling.
+Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **felien verworven immunodeficiëntiesyndroom (kattenaids)**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het gaat om een puur computationele voorspelling.
 
 ---
 
@@ -46,12 +46,12 @@ Ritonavir is een proteaseremmer die oorspronkelijk wordt gebruikt voor de behand
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hiv-infectie/aids en chronische hepatitis C-infectie (afkomstig uit de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Felien verworven immunodeficiëntiesyndroom (kattenaids) |
-| TxGNN-voorspellingsscore | 99,92% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome |
+| TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,7 +62,7 @@ Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor 
 
 Het feline immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv. De protease ervan is structureel vergelijkbaar, dus een proteaseremmer als ritonavir is bij analogie denkbaar. De FIV-protease verschilt echter van de hiv-1-protease in substraatspecificiteit en gevoeligheid voor remmers, zodat werkzaamheid niet vanzelfsprekend is.
 
-De hoge score (0,999) wordt waarschijnlijk vooral veroorzaakt door de sterke koppeling tussen ritonavir en hiv/aids in de kennisgraaf. Het is dus een modelvoorspelling zonder directe onderbouwing.
+Het is dus een modelvoorspelling zonder directe onderbouwing.
 
 ---
 
@@ -84,7 +84,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten (geldig) | Niet beschikbaar | Niet beschikbaar |
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 **Onderbouwing:**
 - De voorspelling berust uitsluitend op een model (bewijsniveau L5), zonder klinische studies of literatuur. De score lijkt vooral voort te komen uit de bekende hiv-indicatie van ritonavir.
-- Kattenaids is een diergeneeskundige indicatie, buiten de humane geneesmiddelregistratie van het CBG-MEB. Bovendien is er in Nederland geen geldige vergunning voor ritonavir (alleen een doorgehaalde registratie).
+- Kattenaids is een diergeneeskundige indicatie, buiten de humane geneesmiddelregistratie van het CBG-MEB.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (onder andere uit DrugBank)
@@ -117,7 +117,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 ---
 
-*Aanvullende opmerking over de andere voorspellingen:* de voorspelling voor **SIV-infectie** (bewijsniveau L4, "onderzoeksvraag") is vooral relevant als translationeel diermodel voor hiv, een reeds bestaande indicatie. De voorspelling voor de **neurologische ontwikkelingsstoornis met ataxie, afwezige spraak en verminderde corticale witte stof** (L5, Hold) heeft geen aanwijsbare mechanistische relatie met ritonavir en lijkt een artefact van de kennisgraaf.
+*Aanvullende opmerking over de andere voorspellingen:* de voorspelling voor **SIV-infectie** (bewijsniveau L4, "onderzoeksvraag") is vooral relevant als translationeel diermodel voor hiv, een reeds bestaande indicatie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

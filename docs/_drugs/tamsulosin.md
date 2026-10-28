@@ -48,17 +48,17 @@ maar er zijn **0 klinische studies** en **0 publicaties** die deze richting onde
 |------|------|
 | Oorspronkelijke indicatie | Benigne prostaathyperplasie (BPH) |
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99,996% |
+| TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (alle vergunningen geschrapt) |
-| Aantal vergunningen | 5 (alle ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
 Gegevens over het werkingsmechanisme van tamsulosine zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Tamsulosine is bekend als selectieve alfa-1A/1D-adrenoceptorantagonist. Het ontspant de gladde spieren in de prostaat en blaashals en verbetert zo de urinestroom bij BPH.
 
-Er is geen aannemelijk mechanistisch verband met de voorspelde indicatie. Ambras-type hypertrichosis is een aangeboren aandoening die wordt veroorzaakt door genomische herschikkingen op 8q22 (regulatiegebied van TRPS1). Alfa-1-blokkade speelt geen bekende rol bij haargroei of bij het corrigeren van dit genetische defect. De hoge score weerspiegelt waarschijnlijk alleen de nabijheid in het kennisnetwerk (graph proximity) tot verwante haarfenotypen, en niet een werkelijke farmacologische relatie.
+Er is geen aannemelijk mechanistisch verband met de voorspelde indicatie. Ambras-type hypertrichosis is een aangeboren aandoening die wordt veroorzaakt door genomische herschikkingen op 8q22 (regulatiegebied van TRPS1). Alfa-1-blokkade speelt geen bekende rol bij haargroei of bij het corrigeren van dit genetische defect. De hoge score komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk overeenkomsten die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs.
 
 Ook de overige negen voorspellingen (o.a. hypertrichosis, alopecia, alopecia areata, hypotrichosis, migraine met hersenstamaura) kennen geen klinisch of literatuurbewijs en geen plausibel mechanisme. Ze zijn allemaal ingedeeld op L5 met beslissing Hold.
 
@@ -74,7 +74,7 @@ Ter volledigheid: voor de negende voorspelling (alopecia) zijn twee publicaties 
 
 ## Informatie over de Nederlandse markt
 
-Alle vijf vergunningen zijn ingetrokken. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.
+Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.
 
 | RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op grafiekgebaseerde modellering (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Bovendien zijn alle Nederlandse vergunningen voor tamsulosine ingetrokken.
+De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (MOA) uit DrugBank en een onderbouwde mechanistische hypothese voor haargroei of de TRPS1-regio

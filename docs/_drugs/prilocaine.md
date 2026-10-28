@@ -6,9 +6,9 @@ nav_order: 279
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Prilocaine: voorspelde nieuwe indicatie Neuralgie (postherpetische neuralgie) (bewijsniveau L5). Oorspronkelijke indicatie: Voortijdige ejaculatie"
 monitor_inn: "prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
+description: "Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Prilocaine
@@ -33,14 +33,14 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Prilocaïne: Van voortijdige ejaculatie naar neuralgie
+## Prilocaine: Papillary conjunctivitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Volgens de kennisgraaf waarop het model is gebaseerd werd het oorspronkelijk gekoppeld aan **voortijdige ejaculatie** en **psychologische dyspareunie**. Het TxGNN-model voorspelt meerdere nieuwe indicaties; de best onderbouwde is **neuralgie** (met name postherpetische neuralgie), met **2 geregistreerde klinische studies** en **14 publicaties**, vooral over de lidocaïne/prilocaïne-combinatiecrème (EMLA). Het bewijs is beperkt en bestaat uit kleine of oudere studies.
+Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Het TxGNN-model voorspelt meerdere nieuwe indicaties; de best onderbouwde is **neuralgie** (met name postherpetische neuralgie), met **2 geregistreerde klinische studies** en **14 publicaties**, vooral over de lidocaïne/prilocaïne-combinatiecrème (EMLA). Het bewijs is beperkt en bestaat uit kleine of oudere studies.
 
-*Opmerking: de eerstgerangschikte voorspelling van het model is papillaire conjunctivitis (score 99,78%, zonder enig bewijs). Dit rapport richt zich op neuralgie, de voorspelde indicatie met het sterkste bewijs. Andere voorspellingen worden kort samengevat in de conclusie.*
+*Opmerking: de eerstgerangschikte voorspelling van het model is papillaire conjunctivitis (score 0,9978, zonder enig bewijs). Dit rapport richt zich op neuralgie, de voorspelde indicatie met het sterkste bewijs. Andere voorspellingen worden kort samengevat in de conclusie.*
 
 ---
 
@@ -48,12 +48,12 @@ Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Volgens de kennis
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Voortijdige ejaculatie; psychologische dyspareunie (volgens de kennisgraaf; er is geen geregistreerde indicatietekst uit de Nederlandse vergunningen beschikbaar) |
-| Voorspelde nieuwe indicatie | Neuralgie (postherpetische neuralgie) |
-| TxGNN-voorspellingsscore | 99,34% |
-| Bewijsniveau | L2 (beperkt: één kleine, open-label fase 2-studie; geen bevestigende RCT's) |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunningen ingetrokken) |
-| Aantal vergunningen | 3 (alle doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Papillary conjunctivitis |
+| TxGNN-voorspellingsscore | 0.9978 |
+| Bewijsniveau | L5 (beperkt: één kleine, open-label fase 2-studie; geen bevestigende RCT's) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Proceed with Guardrails (onderzoeksvraag) |
 
 ---
@@ -98,11 +98,10 @@ Belangrijke kanttekening: vrijwel al het bewijs betreft de combinatie met lidoca
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | Niet beschikbaar | Niet beschikbaar (doorgehaald) |
-| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | Niet beschikbaar | Niet beschikbaar (doorgehaald) |
-| RVG 115964//11015 | Emla, hydrofiele creme 5% | Niet beschikbaar | Niet beschikbaar (doorgehaald) |
+| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | Niet beschikbaar | Niet beschikbaar (geldig) |
+| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | Niet beschikbaar | Niet beschikbaar (geldig) |
+| RVG 115964//11015 | Emla, hydrofiele creme 5% | Niet beschikbaar | Niet beschikbaar (geldig) |
 
-Alle drie de vergunningen bij het CBG-MEB zijn doorgehaald; er is momenteel geen geldig geregistreerd product met prilocaïne als enkelvoudig middel in de gegevens van dit rapport.
 
 ---
 
@@ -135,7 +134,6 @@ Aanvullende signalen uit de compilatie van dit rapport:
 - Gegevens over het werkingsmechanisme (bijv. uit DrugBank).
 - Gerandomiseerde, gecontroleerde studies bij postherpetische neuralgie, bij voorkeur met een opzet die de bijdrage van prilocaïne scheidt van lidocaïne.
 - Beoordeling van de toedieningsroute (niet vastgesteld) en van een veiligheidsplan voor methemoglobinemie en interacties.
-- Aangezien alle Nederlandse vergunningen zijn doorgehaald: een regulatoire analyse van de haalbaarheid van (her)registratie bij het CBG-MEB of de EMA.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

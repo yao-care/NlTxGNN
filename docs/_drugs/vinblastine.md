@@ -50,10 +50,10 @@ Daarvoor zijn **geen geregistreerde klinische studies** en **7 publicaties** bes
 |------|------|
 | Oorspronkelijke indicatie | Mycosis fungoides, primair cutaan T-cellymfoom, Hodgkin-lymfoom, non-Hodgkin-lymfoom, mantelcellymfoom, Langerhans-celhistiocytose (volgens de kennisgraaf; de tekst van de geregistreerde indicatie is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Rabdomyosarcoom |
-| TxGNN-voorspellingsscore | 99,86% |
+| TxGNN-voorspellingsscore | 0,9986 |
 | Evidentieniveau | L3 |
-| Marktstatus in Nederland | Alleen ingetrokken |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -92,7 +92,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 101349 | Vinblastinesulfaat 1 mg/ml PCH, oplossing voor injectie (ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 101349 | Vinblastinesulfaat 1 mg/ml PCH, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
 
 ---
 

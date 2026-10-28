@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Carboplatin
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 72
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Carboplatin: voorspelde nieuwe indicatie Vrouwelijk mammacarcinoom (bewijsniveau L2). Oorspronkelijke indicatie: Eierstokkanker (o.a. ovarieel adenocarcinoom…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
+last_modified_at: 2026-10-27
+description: "Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Carboplatin
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,116 +33,97 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Carboplatine: Van eierstokkanker naar borstkanker (vrouwelijk mammacarcinoom)
+## Carboplatine: platinahoudend cytostaticum → Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma)
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting in één alinea
 
-Carboplatine is een platinahoudend cytostaticum dat oorspronkelijk wordt gebruikt voor de behandeling van eierstokkanker. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **vrouwelijk mammacarcinoom**. Hiervoor zijn in de samengestelde data **40 klinische studies** en **20 publicaties** beschikbaar, waaronder meerdere gerandomiseerde studies bij triple-negatieve en HER2-positieve borstkanker.
+Carboplatine is een platinahoudend cytostaticum dat in Nederland in de handel is. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma)**. Voor deze voorspelling zijn in de voor dit rapport samengestelde gegevens **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust dus alleen op het model.
 
-## Snel overzicht
+---
+
+## Kort overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Eierstokkanker (o.a. ovarieel adenocarcinoom, kiemceltumoren van de eierstok) |
-| Voorspelde nieuwe indicatie | Vrouwelijk mammacarcinoom |
-| TxGNN-voorspellingsscore | 99,86% |
-| Evidentieniveau | L2 |
-| Marktstatus in Nederland | Alleen ingetrokken registratie |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) |
+| TxGNN-voorspellingsscore | 0,9928 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold (afwachten) |
 
-*Opmerking:* de oorspronkelijke indicatie is afgeleid uit de kennisgraaf van TxGNN, omdat de Nederlandse vergunning geen indicatietekst bevat.
+---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data. Op basis van de bekende informatie is carboplatine een platinaverbinding die DNA-adducten en crosslinks vormt. Dit leidt tot stilstand van de DNA-replicatie en apoptose (celdood). Dit DNA-schademechanisme ligt ook ten grondslag aan het gebruik bij eierstokkanker.
+Voor carboplatine zijn in de samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van de bekende informatie is carboplatine een platinaverbinding. Platinaverbindingen beschadigen het DNA van delende tumorcellen, en dat mechanisme zou in theorie ook bij andere adenocarcinomen kunnen werken.
 
-Tumoren met een defect in homologe recombinatie, zoals BRCA1/2-gerelateerde en triple-negatieve borstkanker, zijn bijzonder gevoelig voor platina-geïnduceerde DNA-schade. Dit vormt een logische mechanistische brug tussen eierstok- en borstkanker, die bovendien genetisch verwant zijn (erfelijk borst- en eierstokkankersyndroom staat zelfs bij de oorspronkelijke indicaties).
+Er zijn wel kanttekeningen. Colorectale adenocarcinomen zijn over het algemeen minder gevoelig voor platinaverbindingen. De enige onderbouwing voor deze voorspelling is de hoge modelscore van 0,9928. Er is geen studie die carboplatine bij deze ziekte onderzoekt, dus de voorspelling moet als hypothese worden gezien.
 
-De gevonden literatuur bevat neoadjuvante studies (GeparSixto, CALGB 40603, BrighTNess) bij triple-negatieve en HER2-positieve borstkanker. De precieze bevindingen moeten nog worden bevestigd aan de hand van de volledige publicaties.
+---
 
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
-De data bevatten 40 studies; hieronder staan de 10 meest relevante. Meerdere ervan testen carboplatine als onderdeel van een combinatie, waardoor de bijdrage van carboplatine zelf niet te isoleren is.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Fase 2 | Afgerond | 148 | Gerandomiseerd: carboplatine versus docetaxel bij gemetastaseerde erfelijke borstkanker; directe vergelijking |
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Fase 3 | Afgerond | 3222 | Adjuvant: AC-T versus AC-TH versus TCH (docetaxel, carboplatine, trastuzumab) bij HER2-positieve borstkanker |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Fase 3 | Afgerond | 263 | Docetaxel + trastuzumab met of zonder carboplatine bij gevorderde HER2-positieve borstkanker |
-| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | Fase 3 | Afgerond | 961 | GeparOcto: twee dosis-intensieve neoadjuvante strategieën, waaronder een met carboplatine, bij hoogrisico vroege borstkanker |
-| [NCT00025688](https://clinicaltrials.gov/study/NCT00025688) | Fase 3 | Onbekend | niet gerapporteerd | Wekelijks paclitaxel met of zonder carboplatine bij oudere patiënten (≥65 jaar) met gemetastaseerde borstkanker |
-| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Fase 2 | Afgerond | 92 | Paclitaxel, carboplatine en trastuzumab als eerstelijnsbehandeling bij HER2-overexpressie |
-| [NCT01208480](https://clinicaltrials.gov/study/NCT01208480) | Fase 2 | Afgerond | 45 | Neoadjuvant bevacizumab, docetaxel en carboplatine bij triple-negatieve borstkanker |
-| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | Fase 2 | Actief, niet werven | 68 | Dubbelblind: carboplatine + nab-paclitaxel met of zonder vorinostat, preoperatief bij HER2-negatieve borstkanker |
-| [NCT06291064](https://clinicaltrials.gov/study/NCT06291064) | Fase 2 | Wervend | 85 | Respons en biomarkers bij triple-negatieve borstkanker (epirubicine/cyclofosfamide gevolgd door docetaxel + carboplatine) |
-| [NCT00669747](https://clinicaltrials.gov/study/NCT00669747) | Fase 2 | Onbekend | 45 | Intraductaal carboplatine bij ductaal carcinoom in situ (DCIS); veiligheid |
+---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT (fase 2) | The Lancet Oncology | GeparSixto: toevoeging van carboplatine aan neoadjuvante therapie bij triple-negatieve en HER2-positieve borstkanker |
-| [29501363](https://pubmed.ncbi.nlm.nih.gov/29501363/) | 2018 | RCT (fase 3) | The Lancet Oncology | BrighTNess: veliparib plus carboplatine of carboplatine alleen toegevoegd aan neoadjuvante chemotherapie bij triple-negatieve borstkanker |
-| [41436191](https://pubmed.ncbi.nlm.nih.gov/41436191/) | 2025 | RCT (fase 3) | BMJ | CITRINE: adjuvante carboplatine-geïntensiveerde chemotherapie versus standaard bij hoogrisico vroege triple-negatieve borstkanker |
-| [41115255](https://pubmed.ncbi.nlm.nih.gov/41115255/) | 2026 | RCT (fase 3) | Journal of Clinical Oncology | Toevoeging van carboplatine aan sequentiële taxaan-anthracycline neoadjuvante chemotherapie bij triple-negatieve borstkanker |
-| [35044810](https://pubmed.ncbi.nlm.nih.gov/35044810/) | 2022 | RCT (fase 2) | Journal of Clinical Oncology | CALGB 40603: langetermijnresultaten van neoadjuvante therapie met of zonder carboplatine en bevacizumab |
-| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT (fase 2) | Clinical Cancer Research | NeoSTOP: anthracycline-vrije versus anthracycline-bevattende neoadjuvante carboplatineschema's bij triple-negatieve borstkanker |
-| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT (fase 2b) | Nature Communications | ARX788 + pyrotinib versus standaard TCbHP (docetaxel, carboplatine, trastuzumab, pertuzumab) bij HER2-positieve borstkanker |
-| [38492276](https://pubmed.ncbi.nlm.nih.gov/38492276/) | 2024 | Review | The Breast | Platinachemotherapie bij vroege triple-negatieve borstkanker: verbetert pathologische complete respons; effect op overleving minder duidelijk |
-| [30242579](https://pubmed.ncbi.nlm.nih.gov/30242579/) | 2019 | Netwerk-meta-analyse | Breast Cancer Research and Treatment | Vergelijking van adjuvante trastuzumab-bevattende chemotherapieën bij vroege HER2-positieve borstkanker |
-| [16720915](https://pubmed.ncbi.nlm.nih.gov/16720915/) | 2006 | Review | Medical Oncology | Paclitaxel-carboplatine bij gevorderde borstkanker: aanwijzingen voor synergie, werkzaamheid en veiligheid |
+Momenteel is er geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie (ingetrokken) | Concentraat voor oplossing voor infusie | Niet vermeld in de beschikbare data |
+| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vastgelegd in de lokale gegevens |
 
-Er is geen geldige handelsvergunning meer in Nederland op basis van de samengestelde data; de enige registratie is ingetrokken. Raadpleeg het CBG-MEB voor de actuele situatie.
+---
 
 ## Cytotoxiciteit
 
 | Item | Inhoud |
 |------|------|
-| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch (platinaverbinding, DNA-crosslinkend) |
-| Risico op beenmergsuppressie | Hoog (trombocytopenie, neutropenie, leukopenie en anemie komen voor in de kennisgraaf als aandachtspunten) |
-| Emetogeniciteit | Matig tot hoog, afhankelijk van de dosis |
-| Te monitoren parameters | Volledig bloedbeeld, lever- en nierfunctie, gehoor en perifere zenuwfunctie |
-| Bescherming bij hantering | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen. Raadpleeg ook de SmPC |
+| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch middel (platinaverbinding) |
+| Risico op beenmergsuppressie | Hoog (dosisbeperkende toxiciteit, vooral trombocytopenie en neutropenie) |
+| Emetogeniciteitsclassificatie | Matig tot hoog, afhankelijk van de dosis |
+| Te monitoren parameters | Volledig bloedbeeld, nier- en leverfunctie; zie ook de SmPC |
+| Bescherming bij hantering | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
+
+Raadpleeg voor details de waarschuwingen en voorzorgen in de SmPC.
+
+---
 
 ## Veiligheidsoverwegingen
 
-- **Aandoeningen waarbij voorzichtigheid geboden is (uit de kennisgraaf, niet uit de bijsluiter):** nierziekte, leverziekte, galblaasziekte, trombocytopenie, neutropenie, agranulocytose, leukopenie, anemie, bloedstollingsstoornissen, perifere neuropathie en ziekten van het perifere zenuwstelsel, gehoorstoornissen en visusverlies.
-- **Geneesmiddelinteracties:** er zijn 651 interacties geregistreerd. Voorbeelden van matige interacties zijn protonpompremmers (omeprazol, esomeprazol, pantoprazol, lansoprazol, rabeprazol, dexlansoprazol), metronidazol, tinidazol, aminoglycosiden (kanamycine, neomycine, streptomycine), vancomycine, rosuvastatine en simvastatine. Levofloxacine heeft een geringe interactie.
+Voor waarschuwingen en contra-indicaties zijn in de samengestelde gegevens geen productteksten beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor volledige veiligheidsinformatie.
 
-Gegevens uit de officiële bijsluiter (waarschuwingen en contra-indicaties) ontbreken. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+**Geneesmiddeleninteracties:** er zijn 651 interacties gevonden. Voorbeelden van interacties met niveau "matig":
+- protonpompremmers (omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol, dexlansoprazol)
+- aminoglycosiden (kanamycine, neomycine, streptomycine) en vancomycine
+- metronidazol en tinidazol
+- statines (rosuvastatine, simvastatine)
 
-## Overige voorspelde indicaties (kort)
+Levofloxacine heeft een interactie van het niveau "gering".
 
-| Voorspelde indicatie | Score | Evidentieniveau | Beslissing |
-|---|---|---|---|
-| Endometriaal gemengd adenocarcinoom | 99,20% | L1 (twee fase 3-studies lopend; resultaten niet beschikbaar) | Proceed with Guardrails |
-| Volwassen kiemceltumor | 99,24% | L2 (fase 2-studies, systematische review) | Proceed with Guardrails |
-| Endometriaal mucineus adenocarcinoom | 99,20% | L3 | Onderzoeksvraag |
-| Cervicaal mucineus adenocarcinoom | 99,24% | L4 | Onderzoeksvraag |
-| Rectaal mucineus adenocarcinoom, colon mucineus adenocarcinoom, galblaas mucineus adenocarcinoom, villoglandulair endometrioïd adenocarcinoom, extrahepatisch galgang mucineus adenocarcinoom | 99,18–99,28% | L5 (alleen modelvoorspelling of casuïstiek) | Hold |
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails**
+**Besluit: Hold (afwachten)**
 
 **Onderbouwing:**
-- Voor borstkanker, met name triple-negatieve en HER2-positieve ziekte, zijn meerdere gerandomiseerde fase 2- en fase 3-studies beschikbaar die carboplatine toevoegen aan standaardtherapie. Het mechanisme sluit aan bij het gebruik bij eierstokkanker. Evidentieniveau L2 is gebaseerd op fase 2-RCT's.
-- Het voordeel op overleving en de toegevoegde toxiciteit moeten zorgvuldig worden gewogen. Er is geen geldige Nederlandse handelsvergunning, en de gegevens over werkingsmechanisme en bijsluiter ontbreken.
+- De voorspelling steunt alleen op de modelscore (0,9928). Er is geen enkele studie of publicatie bij deze ziekte, dus het bewijsniveau is L5. Colorectale adenocarcinomen zijn bovendien over het algemeen minder platinagevoelig.
 
-**Om verder te gaan is het volgende nodig:**
-- De SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties; blokkerende datalacune voor veiligheidsscreening)
-- Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank
-- Verificatie van de volledige resultaten van de belangrijkste RCT's (GeparSixto, BrighTNess, CALGB 40603, CITRINE) en beoordeling van het effect op totale overleving
-- Een beoordeling van de huidige Nederlandse richtlijnen en beschikbaarheid van een carboplatineproduct, gezien de ingetrokken registratie
-- Een plan voor veiligheidsbewaking (bloedbeeld, nier- en leverfunctie, gehoor, neuropathie) en een beoordeling van geneesmiddelinteracties
+**Voor een volgende stap is nodig:**
+- Preklinisch of retrospectief onderzoek naar de gevoeligheid van mucineus rectumcarcinoom voor carboplatine.
+- Gegevens over het werkingsmechanisme en een vergelijking met bestaande standaardbehandelingen.
+- Veiligheidsgegevens uit de SmPC (waarschuwingen en contra-indicaties) om de veiligheid te beoordelen.
+- Bij gebleken potentie: een klinische studie in een gerichte patiëntenpopulatie met een plan voor bloedbeeldbewaking.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Indomethacin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 183
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Indomethacin: voorspelde nieuwe indicatie Juveniele idiopathische artritis (rang 8 van de voorspellingen (bewijsniveau L3). Oorspronkelijke indicatie: Bursitis, synovitis, tenosynovitis, reumatoïde a…"
 monitor_inn: "indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+description: "Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Indomethacin
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Indomethacine: Van reumatische aandoeningen naar juveniele idiopathische artritis
+## Indomethacin: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,15 +46,15 @@ Indomethacine is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bursitis, synovitis, tenosynovitis, reumatoïde artritis, spondylitis ankylopoetica, tendinitis, jicht, artrose, "frozen shoulder", open ductus arteriosus (volgens de kennisgraaf; er is geen indicatietekst uit de Nederlandse vergunning beschikbaar) |
-| Voorspelde nieuwe indicatie | Juveniele idiopathische artritis (rang 8 van de voorspellingen; zie hieronder voor toelichting) |
-| TxGNN-voorspellingsscore | 99,84% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geen geldige) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Brachydactyly-syndactyly syndrome |
+| TxGNN-voorspellingsscore | 0.9997 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (zie conclusie) |
 
-**Toelichting op de selectie:** de zeven voorspellingen met de hoogste score (o.a. brachydactylie-syndactylie-syndroom, WHIM-syndroom en diverse zeldzame skeletdysplasieën) hebben geen enkel bewijs en geen plausibele mechanistische relatie met COX-remming (bewijsniveau L5). JIA is de eerste voorspelling met inhoudelijk onderbouwde literatuur en is daarom in dit rapport uitgewerkt. De scores van alle voorspellingen liggen tussen 99,8% en 99,97%, dus de score alleen onderscheidt ze nauwelijks.
+**Toelichting op de selectie:** de zeven voorspellingen met de hoogste score (o.a. brachydactylie-syndactylie-syndroom, WHIM-syndroom en diverse zeldzame skeletdysplasieën) hebben geen enkel bewijs en geen plausibele mechanistische relatie met COX-remming (bewijsniveau L5). JIA is de eerste voorspelling met inhoudelijk onderbouwde literatuur en is daarom in dit rapport uitgewerkt.
 
 ---
 
@@ -103,9 +103,9 @@ Voor reumatoïde nodulose is slechts één algemeen overzichtsartikel gevonden (
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57631 | Indometacine Apotex 50 mg, capsules (status: ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 57631 | Indometacine Apotex 50 mg, capsules (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is één vergunning, en die is ingetrokken. Er zijn geen geldige vergunningen voor monopreparaten of combinatieproducten.
+Er is één vergunning, en die is ingetrokken.
 
 ---
 

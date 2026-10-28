@@ -46,10 +46,10 @@ Dutasteride werd oorspronkelijk ontwikkeld voor de behandeling van benigne prost
 |------|------|
 | Oorspronkelijke indicatie | Benigne prostaathyperplasie |
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99,998% |
+| TxGNN-voorspellingsscore | 1,0000 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (doorgehaald) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -80,7 +80,7 @@ Deze publicatie betreft niet de primair voorspelde indicatie en is slechts indir
 |---------|------|------|-----------|
 | RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | Niet beschikbaar | Niet beschikbaar |
 
-Deze vergunning is **ingetrokken**; er is momenteel geen geldige vergunning in de samengestelde data.
+Deze vergunning is **geldig**; er is momenteel 1 geldige vergunning (van 1) in de samengestelde data en het middel is in de handel.
 
 ## Veiligheidsoverwegingen
 

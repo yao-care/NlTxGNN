@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB00502",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB00502"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "myopia-26-x-linked-female-limited",
-          "display": "myopia 26, X-linked, female-limited"
-        }
-      ],
-      "text": "myopia 26, X-linked, female-limited"
+      "concept": {
+        "text": "myopia 26, X-linked, female-limited"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9989
     }
   ]
 }

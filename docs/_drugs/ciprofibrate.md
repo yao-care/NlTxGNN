@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ciprofibrate
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 87
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ciprofibrate: voorspelde nieuwe indicatie Hyperlipoproteïnemie (bewijsniveau L3). Oorspronkelijke indicatie: Hypertriglyceridemie en familiaire gecombineerde hyperlipidemie"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "ciprofibrate"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "familial hypercholesterolemia", "homozygous familial hypercholesterolemia", "fibroma of prostate", "prostate cancer/brain cancer susceptibility"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "fibroma of prostate"]
+last_modified_at: 2026-10-27
+description: "Ciprofibrate: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lo…"
 ---
 
 # Ciprofibrate
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Ciprofibraat: Van hypertriglyceridemie naar hyperlipoproteïnemie
+## Ciprofibraat: PPAR-alfa-agonist (fibraat) → Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Ciprofibraat is een fibraat dat oorspronkelijk wordt gebruikt voor de behandeling van hypertriglyceridemie en familiaire gecombineerde hyperlipidemie.
-Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **hyperlipoproteïnemie**,
-waarbij **geen geregistreerde klinische studies** en **20 publicaties** deze richting ondersteunen. De voorspelde indicatie ligt dicht bij de oorspronkelijke indicaties, dus het gaat nauwelijks om echte herpositionering. De handelsvergunning in Nederland is bovendien doorgehaald.
+Ciprofibraat is een fibraat dat de PPAR-alfa-receptor activeert en wordt gebruikt bij vetstofwisselingsstoornissen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency)**. Hiervoor zijn **geen klinische studies** en slechts **1 preklinische publicatie** beschikbaar, die alleen een indirect verband laat zien.
 
 ---
 
@@ -48,33 +46,31 @@ waarbij **geen geregistreerde klinische studies** en **20 publicaties** deze ric
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertriglyceridemie en familiaire gecombineerde hyperlipidemie (volgens de kennisgraaf; de tekst van de geregistreerde indicatie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Hyperlipoproteïnemie |
-| TxGNN-voorspellingsscore | 99,97% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
-| Aanbevolen beslissing | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) |
+| TxGNN-voorspellingsscore | 0,9991 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling plausibel?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van bekende informatie is ciprofibraat een PPAR-alfa-agonist uit de klasse van de fibraten. Het verlaagt triglyceriden en verhoogt HDL-cholesterol.
+Ciprofibraat is een fibraat en een agonist van de peroxisoomproliferator-geactiveerde receptor alfa (PPAR-alfa; gen *PPARA*). Via deze receptor verlaagt het triglyceriden en beïnvloedt het de HDL-stofwisseling. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.
 
-Hyperlipoproteïnemie overlapt direct met de oorspronkelijke indicaties (hypertriglyceridemie en familiaire gecombineerde hyperlipidemie). De voorspelde indicatie is daarom in wezen een uitbreiding van het bestaande gebruik en geen echte herpositionering. De literatuur beschrijft effecten op lipiden en lipoproteïnen, ook in vergelijking met bezafibraat en fenofibraat.
+Bij CETP-deficiëntie is de HDL-cholesterolwaarde sterk verhoogd en is de lipoproteïneombouw gewijzigd. Een link via de vetstofwisseling is daarom denkbaar. Het klinische nut is echter onduidelijk: verdere verhoging van HDL is bij CETP-deficiëntie geen voor de hand liggend behandeldoel.
+
+De hoge score is een computationele voorspelling en geen klinisch bewijs.
+
+**Bewijsniveau:** De enige gevonden publicatie bestudeert niet de voorspelde ziekte zelf. Daarom geldt niveau L5 (alleen modelvoorspelling), ondanks de preklinische literatuur.
 
 ---
 
 ## Bewijs uit klinische studies
 
-Momenteel zijn er geen klinische studies geregistreerd voor hyperlipoproteïnemie.
-
-Bij de bredere indicatie *hyperlipidemie* (rang 6) is wel één studie geregistreerd, maar die onderzoekt niet ciprofibraat zelf:
-
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT01480687](https://clinicaltrials.gov/study/NCT01480687) | Fase 4 | Onbekend | 52 | Visolie versus ciprofibraat bij hypertensieve patiënten met hypertriglyceridemie; de studie evalueert met name visolie en levert dus geen direct bewijs |
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
@@ -82,49 +78,38 @@ Bij de bredere indicatie *hyperlipidemie* (rang 6) is wel één studie geregistr
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [8831920](https://pubmed.ncbi.nlm.nih.gov/8831920/) | 1996 | Klinische studie | Atherosclerosis | Ciprofibraat is werkzaam bij type IIa, IIb en IV; verlaagt totaal cholesterol, triglyceriden, apoB en LDL |
-| [9015467](https://pubmed.ncbi.nlm.nih.gov/9015467/) | 1996 | Vergelijkende studie | Postgraduate Medical Journal | Ciprofibraat 100 mg versus bezafibraat met vertraagde afgifte bij 174 patiënten met type II-hyperlipidemie |
-| [12915663](https://pubmed.ncbi.nlm.nih.gov/12915663/) | 2003 | Klinische studie | J Clin Endocrinol Metab | Bij type IIb: sterke daling van VLDL-subklassen en stimulatie van HDL-gemedieerde cholesterolefflux (n=10) |
-| [3994783](https://pubmed.ncbi.nlm.nih.gov/3994783/) | 1985 | Dubbelblinde vergelijking | Atherosclerosis | Ciprofibraat 100 mg versus fenofibraat 300 mg: beide verlagen TC, LDL, VLDL en apoB en verhogen HDL |
-| [6753860](https://pubmed.ncbi.nlm.nih.gov/6753860/) | 1982 | Dubbelblinde RCT | Atherosclerosis | Placebogecontroleerd bij type II-hypercholesterolemie (n=20); lipidenwaarden daalden, goed verdragen |
-| [2289217](https://pubmed.ncbi.nlm.nih.gov/2289217/) | 1990 | Multicenterstudie | Clinical Therapeutics | Italiaanse studie bij 127 patiënten: significante daling van lipiden en stijging van HDL en apoA-I |
-| [6951582](https://pubmed.ncbi.nlm.nih.gov/6951582/) | 1982 | Dosis-responsstudie | Atherosclerosis | 50, 100 en 200 mg bij 50 patiënten; sterkste effect bij 200 mg |
-| [17414592](https://pubmed.ncbi.nlm.nih.gov/17414592/) | 2007 | Klinische studie | Am J Ther | Bij type IV: daling van non-HDL-cholesterol en triglyceriden, stijging van HDL |
-| [3318453](https://pubmed.ncbi.nlm.nih.gov/3318453/) | 1987 | Review | Am J Med | Overzicht van fibraten (bezafibraat, ciprofibraat, fenofibraat) op lipiden en lipoproteïnen |
-| [15547649](https://pubmed.ncbi.nlm.nih.gov/15547649/) | 2004 | Klinische studie | Angiology | Oplosbare adhesiemoleculen bij diabetische en niet-diabetische patiënten met gecombineerde hyperlipoproteïnemie en het effect van ciprofibraat |
+| [14570884](https://pubmed.ncbi.nlm.nih.gov/14570884/) | 2003 | Preklinisch (diermodel) | The Journal of Biological Chemistry | Bij apoE-deficiënte muizen verergert ciprofibraat de hypercholesterolemie; overexpressie van SR-BI via een adenovirale vector keert dit om. Geen studie bij CETP-deficiëntie; alleen een indirect verband met de HDL-stofwisseling. |
 
 ---
 
-## Marktinformatie Nederland
+## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 111600 | Ciprofibraat Amdipharm 100 mg tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 111600 | Ciprofibraat Amdipharm 100 mg tabletten | Tablet | Niet vermeld in de lokale gegevens |
 
-Er is geen geldige vergunning meer bij het CBG-MEB. De enige vergunning is doorgehaald.
+Het product is in de handel in Nederland (CBG-MEB). De lijst is volledig.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
-
-De samengestelde data bevatten voor interacties alleen een farmacologische koppeling met het doelwit PPAR-alfa (PPARA); er zijn geen geneesmiddelinteracties met een gradatie vermeld.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor informatie over waarschuwingen en contra-indicaties. Voor dit rapport zijn geen gegevens over interacties met andere geneesmiddelen gevonden; alleen de farmacologische doelwitrelatie met PPAR-alfa is vastgelegd.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Hyperlipoproteïnemie ligt zeer dicht bij de oorspronkelijke indicaties, dus de voorspelling is plausibel maar biedt weinig nieuwe herpositioneringswaarde. Het bewijs bestaat uit oudere, kleine studies met vooral surrogaateindpunten, er zijn geen geregistreerde studies met ciprofibraat, en de Nederlandse handelsvergunning is doorgehaald.
+- De voorspelling berust alleen op een model. Er zijn geen klinische studies en de enige publicatie is preklinisch en indirect. Een duidelijke klinische behoefte bij CETP-deficiëntie ontbreekt.
 
-**Om verder te gaan is nodig:**
-- Het ontbrekende veiligheidsdossier (waarschuwingen en contra-indicaties) uit de SmPC/bijsluiter van het CBG-MEB, dat een blokkerende leemte vormt voor de veiligheidsscreening
-- Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
-- Een beoordeling of heroverweging van het product zinvol is, gezien de beschikbare alternatieven (statines, andere fibraten) en de ingetrokken vergunning
-- Actuele klinische gegevens, bij voorkeur gerandomiseerd, met klinische eindpunten in plaats van alleen lipidenwaarden
+**Om verder te gaan is het volgende nodig:**
+- Een gerichte literatuurstudie naar fibraten bij CETP-deficiëntie
+- Gegevens over het werkingsmechanisme en een onderbouwing van het beoogde therapeutische doel
+- Veiligheidsinformatie uit de SmPC van het in Nederland geregistreerde product
+- Preklinisch of klinisch bewijs dat direct betrekking heeft op deze ziekte
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

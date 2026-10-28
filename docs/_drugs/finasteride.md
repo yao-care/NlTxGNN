@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Finasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Goedaardige prostaathyperplasie (BPH). Bron: kennisgraaf"
+last_modified_at: 2026-10-28
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
+description: "Finasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld…"
 ---
 
 # Finasteride
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-## Finasteride: Van goedaardige prostaathyperplasie naar hypertrichose (Ambras-type hypertrichosis universalis congenita als hoogst scorende voorspelling)
+## Finasteride: Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van goedaardige prostaathyperplasie (BPH). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **Ambras-type hypertrichosis universalis congenita** (score 99,99%), maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaar. Voor de tweede voorspelling, **hypertrichose**, zijn **4 publicaties** gevonden (3 narratieve reviews en 1 methodologisch artikel), die slechts indirecte context bieden.
+Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van goedaardige prostaathyperplasie (BPH). Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **Ambras-type hypertrichosis universalis congenita** (score 0,9999), maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaar. Voor de tweede voorspelling, **hypertrichose**, zijn **4 publicaties** gevonden (3 narratieve reviews en 1 methodologisch artikel), die slechts indirecte context bieden.
 
 ---
 
@@ -46,12 +46,12 @@ Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Goedaardige prostaathyperplasie (BPH). Bron: kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar |
-| Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,11 +64,11 @@ Het ambras-syndroom is echter een aangeboren aandoening die wordt veroorzaakt do
 
 Ook voor de overige voorspelde indicaties is het mechanistische verband zwak:
 
-- **Hypertrichose** (score 99,99%): per definitie niet-androgeenafhankelijke overbeharing, dus een zwakke mechanistische aansluiting.
-- **Misvormingssyndroom met odontale/parodontale component** (99,99%): geen duidelijke farmacologische basis; waarschijnlijk een artefact van netwerkassociaties in de kennisgraaf.
-- **Syndroom met Dandy-Walker-malformatie** (99,99%): geen plausibel mechanisme; bovendien bestaan er zwangerschapsgerelateerde veiligheidszorgen (risico voor de ontwikkeling van mannelijke genitaliën bij de foetus).
-- **Geïsoleerde genetische haarschachtafwijking** (99,99%): speculatief, omdat structurele schachtdefecten doorgaans niet androgeengemedieerd zijn.
-- **Familiaire geïsoleerde trichomegalie** (99,15%): zwakke rationale, laagste score van de set.
+- **Hypertrichose** (score 0,9999): per definitie niet-androgeenafhankelijke overbeharing, dus een zwakke mechanistische aansluiting.
+- **Misvormingssyndroom met odontale/parodontale component** (0,9999): geen duidelijke farmacologische basis; de score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs.
+- **Syndroom met Dandy-Walker-malformatie** (0.9999): geen plausibel mechanisme; bovendien bestaan er zwangerschapsgerelateerde veiligheidszorgen (risico voor de ontwikkeling van mannelijke genitaliën bij de foetus).
+- **Geïsoleerde genetische haarschachtafwijking** (0.9999): speculatief, omdat structurele schachtdefecten doorgaans niet androgeengemedieerd zijn.
+- **Familiaire geïsoleerde trichomegalie** (0,9915): zwakke rationale, laagste score van de set.
 
 ---
 
@@ -97,9 +97,9 @@ Alle vier de publicaties zijn Duitstalige of Franstalige narratieve overzichten 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-Deze enige vergunning is doorgehaald; er zijn momenteel geen geldige vergunningen in de data die voor dit report zijn samengesteld.
+Deze enige vergunning is geldig; er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld.
 
 ---
 

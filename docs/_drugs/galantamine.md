@@ -6,9 +6,9 @@ nav_order: 168
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Alzheimer"
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
+description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Galantamine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Galantamine: Van de ziekte van Alzheimer naar extrapiramidale bewegingsstoornissen
+## Galantamine: Psychogene bewegingsstoornissen (rang 1); extrapiramidale en bewegingsstoornissen (psychogenic movement disorders)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Galantamine is een cholinesteraseremmer die oorspronkelijk wordt gebruikt bij de
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Ziekte van Alzheimer (volgens de kennisgraaf; er is geen goedgekeurde indicatietekst beschikbaar in de Nederlandse registratiegegevens) |
-| Voorspelde nieuwe indicatie | Psychogene bewegingsstoornissen (rang 1); extrapiramidale en bewegingsstoornissen (rang 5, met literatuur) |
-| TxGNN-voorspellingsscore | 99,90% (rang 1); 99,88% (rang 5) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Psychogene bewegingsstoornissen (rang 1); extrapiramidale en bewegingsstoornissen (psychogenic movement disorders) |
+| TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 (rang 1); L4 (rang 5 en rang 7) |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (Wachten) |
 
 ## Waarom is deze voorspelling redelijk?
@@ -89,9 +89,8 @@ Veel van de overige opgehaalde publicaties betreffen algemene dementie- of choli
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (registratie ingetrokken) |
+| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (registratie geldig) |
 
-Er is momenteel geen geldige registratie bij het CBG-MEB voor galantamine in de verzamelde data.
 
 ## Veiligheidsoverwegingen
 

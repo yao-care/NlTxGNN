@@ -4,17 +4,17 @@ title: Valsartan
 parent: Matig bewijs (L3-L4)
 nav_order: 338
 evidence_level: L4
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Valsartan: voorspelde nieuwe indicatie Maligne renovasculaire hypertensie (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+description: "Valsartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **7**
 
 </div>
 
-## Valsartan: Van hypertensie naar maligne renovasculaire hypertensie
+## Valsartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,12 +44,12 @@ Valsartan is een angiotensine-II-receptorblokker (AT1-receptor) die oorspronkeli
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (volgens de kennisgraaf; in de data voor dit rapport is geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Maligne renovasculaire hypertensie |
-| TxGNN-voorspellingsscore | 99,97% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Malignant hypertensive renal disease |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -62,12 +62,12 @@ De enige gevonden publicatie (PMID 11560862, 2001) laat in een diermodel zien da
 
 | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
 |---|---|---|---|
-| Maligne hypertensieve nierziekte | 99,97% | L4 | Enige publicatie betreft avosentan (endothelineantagonist), niet valsartan |
-| Pulmonale hypertensie, onduidelijk multifactorieel | 99,97% | L5 | Alleen modelvoorspelling |
-| Pulmonale hypertensie door longziekte/hypoxie | 99,97% | L4 | Voornamelijk preklinische en indirecte literatuur |
-| Braddock-syndroom | 99,96% | L5 | Alleen modelvoorspelling |
-| Chronisch pulmonaal hartlijden | 99,58% | L4 | Indirect bewijs; preklinisch ARNI-onderzoek (sacubitril/valsartan) |
-| Prinzmetal-angina | 99,45% | L5 | Gevonden publicatie niet relevant |
+| Maligne hypertensieve nierziekte | 0,9997 | L4 | Enige publicatie betreft avosentan (endothelineantagonist), niet valsartan |
+| Pulmonale hypertensie, onduidelijk multifactorieel | 0,9997 | L5 | Alleen modelvoorspelling |
+| Pulmonale hypertensie door longziekte/hypoxie | 0,9997 | L4 | Voornamelijk preklinische en indirecte literatuur |
+| Braddock-syndroom | 0,9996 | L5 | Alleen modelvoorspelling |
+| Chronisch pulmonaal hartlijden | 0,9958 | L4 | Indirect bewijs; preklinisch ARNI-onderzoek (sacubitril/valsartan) |
+| Prinzmetal-angina | 0,9945 | L5 | Gevonden publicatie niet relevant |
 
 ## Bewijs uit klinische studies
 
@@ -83,7 +83,7 @@ Voor maligne renovasculaire hypertensie is momenteel geen gerelateerde klinische
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114052 | Valsartan Jubilant 320 mg filmomhulde tabletten (vergunning ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 114052 | Valsartan Jubilant 320 mg filmomhulde tabletten (vergunning geldig) | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
@@ -99,7 +99,7 @@ Er zijn geen gegevens uit de bijsluiter of SmPC beschikbaar in de data voor dit 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit een hoge modelscore en één preklinische studie, zonder klinische studies. De voorspelde indicatie ligt bovendien dicht bij de bestaande antihypertensieve indicatie. Er is momenteel ook geen geldige Nederlandse vergunning voor valsartan in de data voor dit rapport (de enige vergunning is ingetrokken).
+- Het bewijs bestaat uit een hoge modelscore en één preklinische studie, zonder klinische studies. De voorspelde indicatie ligt bovendien dicht bij de bestaande antihypertensieve indicatie.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de officiële productinformatie (SmPC/bijsluiter van het CBG-MEB), omdat dit nu ontbreekt en de veiligheidsscreening blokkeert.

@@ -49,10 +49,10 @@ Het TxGNN-model voorspelt dat ethanol mogelijk werkzaam is bij **migraine**, maa
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de vergunningsgegevens |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,29% |
+| TxGNN-voorspellingsscore | 0,9929 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -65,9 +65,9 @@ Gedetailleerde gegevens over het werkingsmechanisme van ethanol ontbreken in de 
 - Andere mechanistische publicaties beschrijven het openen van ATP-gevoelige kaliumkanalen die meningeale nociceptoren activeren (PMID 40785517) en 'spreading depression'-modellen (PMID 31231207).
 - Genetische associatiestudies (o.a. ADH2, GABA-receptoren) gaan over gevoeligheid voor migraine, niet over een behandeleffect.
 
-De hoge TxGNN-score weerspiegelt waarschijnlijk de associatie tussen ethanol en migraine in de kennisgraaf (ethanol als trigger) en niet een therapeutisch potentieel. Gezien de rol als trigger, de toxiciteit en het uitgebreide interactieprofiel (1085 geneesmiddelinteracties) is ethanol geen aannemelijke kandidaat voor herpositionering bij migraine.
+De hoge TxGNN-score (0,9929) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs. Gezien de rol als trigger, de toxiciteit en het uitgebreide interactieprofiel (1085 geneesmiddelinteracties) is ethanol geen aannemelijke kandidaat voor herpositionering bij migraine.
 
-De tweede voorspelling, **migraine met hersenstamaura** (score 99,14%), heeft geen specifiek ondersteunend bewijs. De gevonden literatuur betreft algemene migrainegenetica en andere stoffen (carisbamaat, menthol, palmitoylethanolamide). Palmitoylethanolamide is een andere verbinding en telt niet als bewijs voor ethanol.
+De tweede voorspelling, **migraine met hersenstamaura** (score 0,9914), heeft geen specifiek ondersteunend bewijs. De gevonden literatuur betreft algemene migrainegenetica en andere stoffen (carisbamaat, menthol, palmitoylethanolamide). Palmitoylethanolamide is een andere verbinding en telt niet als bewijs voor ethanol.
 
 ---
 
@@ -98,7 +98,7 @@ De overige gevonden publicaties gaan over andere stoffen of algemene migrainegen
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood, oplossing voor cutaan gebruik 5 mg/ml / 70% v/v (status: ingetrokken) | Oplossing voor cutaan gebruik | Niet beschikbaar |
+| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood, oplossing voor cutaan gebruik 5 mg/ml / 70% v/v (status: geldig) | Oplossing voor cutaan gebruik | Niet beschikbaar |
 
 ---
 

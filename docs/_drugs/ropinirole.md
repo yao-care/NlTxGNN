@@ -6,9 +6,9 @@ nav_order: 297
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ropinirole: voorspelde nieuwe indicatie Aandachtsdeficiëntie-/hyperactiviteitsstoornis (ADHD) (bewijsniveau L3). Oorspronkelijke indicatie: Restlesslegssyndroom en de ziekte van Parkinson"
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+description: "Ropinirole: voorspelde nieuwe indicatie Attention deficit-hyperactivity disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ropinirole
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Ropinirol: Van restlesslegssyndroom en de ziekte van Parkinson naar ADHD
+## Ropinirole: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Ropinirol is een dopamine-agonist (D2/D3) die oorspronkelijk wordt gebruikt bij 
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Restlesslegssyndroom en de ziekte van Parkinson (afkomstig uit de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Aandachtsdeficiëntie-/hyperactiviteitsstoornis (ADHD) |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Attention deficit-hyperactivity disorder |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Evidentieniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; verdere verificatie nodig) |
 
 ---
@@ -91,7 +91,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119000 | Ropinirol Retard Mylan 8 mg, tabletten met verlengde afgifte | Niet beschikbaar | Niet beschikbaar (registratie doorgehaald) |
+| RVG 119000 | Ropinirol Retard Mylan 8 mg, tabletten met verlengde afgifte | Niet beschikbaar | Niet beschikbaar (registratie geldig) |
 
 ---
 
@@ -110,14 +110,13 @@ De gegevens uit de bijsluiter van het CBG-MEB zijn niet beschikbaar. Raadpleeg d
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor ADHD is beperkt tot een casusbeschrijving, reviews en een recente RCT waarvan de resultaten nog niet zijn geverifieerd. Er zijn geen geregistreerde klinische studies. Er is momenteel geen geldige Nederlandse registratie en de veiligheidsgegevens uit de bijsluiter ontbreken, waardoor de eerste veiligheidsscreening nog niet kan worden afgerond.
+- Het bewijs voor ADHD is beperkt tot een casusbeschrijving, reviews en een recente RCT waarvan de resultaten nog niet zijn geverifieerd. Er zijn geen geregistreerde klinische studies.
 
 **Om verder te gaan is nodig:**
 - Volledige beoordeling van de 2026-RCT (resultaten, bijwerkingen, effectgrootte).
 - Gegevens over het werkingsmechanisme van ropinirol.
 - Veiligheidsgegevens uit de SmPC/bijsluiter via het CBG-MEB.
 - Beoordeling van de veiligheid bij kinderen (impulsbeheersing, slaperigheid, augmentatie).
-- Bepalen van een regulatoire route, omdat er momenteel geen geldige registratie in Nederland is.
 
 **Overige voorspelde indicaties (kort):** schizofrenie (L4, Hold): indirect en voornamelijk preklinisch bewijs, met een theoretisch risico op verergering van psychotische symptomen. De overige voorspellingen (o.a. faciodigitogenitaal syndroom, perisylvische polymicrogyrie, retinadystrofie, X-gebonden myopie, congenitale glycosylatiestoornis, atypische glycine-encefalopathie en Charcot-Marie-Tooth type 1G) berusten alleen op de modelscore (L5, Hold) zonder aanwijsbaar mechanisme of onderzoek.
 ## Disclaimer

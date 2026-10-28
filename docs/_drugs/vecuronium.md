@@ -48,10 +48,10 @@ Vecuronium is een niet-depolariserend spierverslappend middel dat bij anesthesie
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbreekt) |
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
-| TxGNN-voorspellingsscore | 99,34% |
+| TxGNN-voorspellingsscore | 0,9934 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Vecuronium is een niet-depolariserend spierverslappend middel dat bij anesthesie
 
 Gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis is vecuronium een niet-depolariserende neuromusculaire blokker. Het remt competitief de nicotinerge acetylcholinereceptoren ter hoogte van de neuromusculaire overgang en veroorzaakt zo verlamming van skeletspieren.
 
-Het middel heeft geen bekende centraal sedatieve of hypnotische werking en passeert de bloed-hersenbarrière niet in betekenisvolle mate. Een aannemelijke mechanistische route naar de behandeling van slapeloosheid ontbreekt dan ook. De hoge score (0,993) lijkt een artefact van de netwerkgebaseerde voorspelling zonder farmacologische ondersteuning. Verlamming zonder sedatie zou bovendien schadelijk en beangstigend zijn voor de patiënt, en niet therapeutisch.
+Het middel heeft geen bekende centraal sedatieve of hypnotische werking en passeert de bloed-hersenbarrière niet in betekenisvolle mate. Een aannemelijke mechanistische route naar de behandeling van slapeloosheid ontbreekt dan ook. De hoge score (0,9934) lijkt een artefact van de netwerkgebaseerde voorspelling zonder farmacologische ondersteuning. Verlamming zonder sedatie zou bovendien schadelijk en beangstigend zijn voor de patiënt, en niet therapeutisch.
 
-**Tweede voorspelling (ter informatie):** het prikkelbare-darmsyndroom (IBS, score 99,11%). Vecuronium werkt op skeletspieren en heeft nauwelijks effect op gladde spieren van het maag-darmkanaal. IBS wordt gekenmerkt door viscerale overgevoeligheid, veranderde motiliteit en ontregeling van de darm-hersen-as, waarop neuromusculaire blokkade niet aangrijpt. Het gebruik vereist bovendien mechanische beademing, wat onpraktisch is voor een chronische functionele darmaandoening. Ook hiervoor zijn geen klinische studies of literatuur beschikbaar.
+**Tweede voorspelling (ter informatie):** het prikkelbare-darmsyndroom (IBS, score 0,9911). Vecuronium werkt op skeletspieren en heeft nauwelijks effect op gladde spieren van het maag-darmkanaal. IBS wordt gekenmerkt door viscerale overgevoeligheid, veranderde motiliteit en ontregeling van de darm-hersen-as, waarop neuromusculaire blokkade niet aangrijpt. Het gebruik vereist bovendien mechanische beademing, wat onpraktisch is voor een chronische functionele darmaandoening. Ook hiervoor zijn geen klinische studies of literatuur beschikbaar.
 
 ---
 
@@ -84,7 +84,7 @@ Momenteel is er geen relevante literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118278 | Vecuronium SUN 10 mg poeder voor oplossing voor injectie en intraveneuze infusie (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 118278 | Vecuronium SUN 10 mg poeder voor oplossing voor injectie en intraveneuze infusie (status: geldig) | Niet vermeld | Niet vermeld |
 
 ---
 

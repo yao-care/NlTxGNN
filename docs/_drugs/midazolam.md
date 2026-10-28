@@ -6,9 +6,9 @@ nav_order: 233
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L3). Oorspronkelijke indicatie: Angst"
 monitor_inn: "midazolam"
 predicted_indications: ["insomnia (disease)"]
+description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Midazolam
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-## Midazolam: Van angst naar slapeloosheid (insomnia)
+## Midazolam: Slapeloosheid (insomnia (disease))
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -46,12 +46,12 @@ Midazolam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bi
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Angst (volgens de kennisgraaf van TxGNN; de Nederlandse registraties bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
-| TxGNN-voorspellingsscore | 99,74% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
+| TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal registraties | 2 (beide ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal registraties | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,10 +95,9 @@ De overige gevonden publicaties (preklinische zolpidemstudie, casuïstiek en een
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie (ingetrokken) | Niet vermeld | Niet vermeld |
-| RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
+| RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-Beide registraties bij het CBG-MEB zijn ingetrokken; er is geen geldige registratie als monopreparaat.
 
 ---
 
@@ -117,7 +116,7 @@ Raadpleeg voor volledige waarschuwingen de SmPC en bijsluiter (CBG-MEB), aangezi
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit oude, kleine studies uit de jaren 1980–1990 en indirecte gegevens; de hoge modelscore is geen klinisch bewijs. Daarnaast zijn alle Nederlandse registraties ingetrokken en ontbreken de officiële veiligheidsgegevens, waardoor de veiligheidsscreening niet kan worden afgerond.
+- Het bewijs bestaat uit oude, kleine studies uit de jaren 1980–1990 en indirecte gegevens; de hoge modelscore is geen klinisch bewijs. Daarnaast ontbreken de officiële veiligheidsgegevens, waardoor de veiligheidsscreening niet kan worden afgerond.
 
 **Om verder te gaan is nodig:**
 - Bijsluiter-/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB

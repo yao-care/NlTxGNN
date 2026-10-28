@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dapoxetine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 104
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Dapoxetine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Voortijdige zaadlozing (premature ejaculatie)"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine wit
 # Dapoxetine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **migraine**, maar er
 |------|------|
 | Oorspronkelijke indicatie | Voortijdige zaadlozing (premature ejaculatie); psychologische dyspareunie |
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,34% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| TxGNN-voorspellingsscore | 0,9934 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -63,7 +63,7 @@ Dapoxetine is een kortwerkende SSRI die de heropname van serotonine via de serot
 
 Serotonerge signalering speelt een rol in de pathofysiologie van migraine, en sommige SSRI's en andere serotonerge middelen zijn onderzocht voor migrainepreventie. Deze koppeling is echter afgeleid op klasseniveau: er zijn geen dapoxetine-specifieke migrainegegevens. Bovendien is het farmacokinetische profiel van dapoxetine (snelle aanvang, korte halfwaardetijd, ontworpen voor gebruik op afroep) slecht geschikt voor chronische profylaxe.
 
-Naast migraine voorspelt het model ook dysthymie (persistente depressieve stoornis, score 99,14%) en migraine met hersenstamaura (score 99,11%). Voor beide zijn geen studies of literatuur gevonden (bewijsniveau L5).
+Naast migraine voorspelt het model ook dysthymie (persistente depressieve stoornis, score 0,9914) en migraine met hersenstamaura (score 0,9911). Voor beide zijn geen studies of literatuur gevonden (bewijsniveau L5).
 
 ---
 
@@ -88,7 +88,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 108200 | Priligy 60 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar in de gegevens |
 
-Deze vergunning is doorgehaald; er is momenteel geen geldige vergunning bij het CBG-MEB.
+Deze vergunning is geldig; het middel is in Nederland op de markt (1 geldige vergunning van 1) bij het CBG-MEB.
 
 ---
 

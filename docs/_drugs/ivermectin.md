@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Strongyloïdiasis en onchocerciasis"
+last_modified_at: 2026-10-28
 monitor_inn: "ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
+description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ivermectin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Ivermectine: Van strongyloïdiasis en onchocerciasis naar vulvovaginale candidiasis
+## Ivermectin: Vulvovaginale candidiasis (vulvovaginal candidiasis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Ivermectine is een antiparasitair middel dat oorspronkelijk wordt gebruikt tegen
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Strongyloïdiasis en onchocerciasis (afkomstig uit de kennisgraaf van het model; er is geen geregistreerde indicatietekst uit de Nederlandse vergunning beschikbaar) |
-| Voorspelde nieuwe indicatie | Vulvovaginale candidiasis |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Vulvovaginale candidiasis (vulvovaginal candidiasis) |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geroyeerde) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Ivermectine is een antiparasitair middel dat oorspronkelijk wordt gebruikt tegen
 
 Ivermectine activeert glutamaat-gestuurde chloridekanalen bij ongewervelde dieren, waardoor parasieten verlamd raken en afsterven. Voor de gegevens die voor dit rapport zijn samengesteld, ontbreekt een uitgebreide beschrijving van het werkingsmechanisme.
 
-Er is geen bekend antischimmelmechanisme tegen *Candida*. De hoge score weerspiegelt waarschijnlijk vooral nabijheid in de kennisgraaf tot andere (vulvo)vaginale en candida-aandoeningen, en geen aangetoonde farmacologische samenhang. Een mechanistische brug tussen de oorspronkelijke en de nieuwe indicatie kan daarom op basis van de beschikbare gegevens niet worden onderbouwd.
+Er is geen bekend antischimmelmechanisme tegen *Candida*. De hoge score komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk vooral overeenkomsten die het model heeft geleerd tussen verwante (vulvo)vaginale en candida-aandoeningen, en geen biologisch bewijs. Een mechanistische brug tussen de oorspronkelijke en de nieuwe indicatie kan daarom op basis van de beschikbare gegevens niet worden onderbouwd.
 
-Het model voorspelt ook andere indicaties, waaronder oesofageale candidiasis (99,73%), anogenitale HPV-infectie (99,48%), vulvovaginitis (99,36%), neonatale candidiasis (99,25%), congenitale candidiasis (99,25%), postmenopauzale atrofische vaginitis (99,18%) en invasieve candidiasis (99,16%). Ook voor deze indicaties is geen klinisch bewijs aangeleverd. *Candida glabrata* is een organisme en geen klinische indicatie.
+Het model voorspelt ook andere indicaties, waaronder oesofageale candidiasis (0.9973), anogenitale HPV-infectie (0.9948), vulvovaginitis (0.9936), neonatale candidiasis (0.9925), congenitale candidiasis (0.9925), postmenopauzale atrofische vaginitis (0.9918) en invasieve candidiasis (0.9916). Ook voor deze indicaties is geen klinisch bewijs aangeleverd. *Candida glabrata* is een organisme en geen klinische indicatie.
 
 ---
 
@@ -89,9 +89,9 @@ Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115310 | Soolantra 10 mg/g crème | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 115310 | Soolantra 10 mg/g crème | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-De enige bij het CBG-MEB bekende vergunning is doorgehaald. Er is momenteel dus geen geldig geregistreerd ivermectineproduct in de gegevens van dit rapport.
+De enige bij het CBG-MEB bekende vergunning is doorgehaald.
 
 ---
 

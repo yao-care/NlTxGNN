@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 281
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Progesterone: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Endometriose, endometriumcarcinoom, postmenopauzale osteoporose…"
 monitor_inn: "progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Progesteron: Van endometriose naar amenorroe
+## Progesterone: Amenorroe (amenorrhea (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat volgens de gegevens uit de kennisgraaf is gebruikt bij endometriose, endometriumcarcinoom, postmenopauzale osteoporose en postmenopauzale atrofische vaginitis. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **amenorroe**, met **4 klinische studies** en **18 publicaties** in de data die voor dit rapport zijn samengesteld. De studies onderzoeken echter vooral oestrogeen; progesteron is daarin meestal een ondersteunend bestanddeel.
+Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij endometriose, endometriumcarcinoom, postmenopauzale osteoporose en postmenopauzale atrofische vaginitis. Het TxGNN-model (deep learning) voorspelt dat het werkzaam kan zijn bij **amenorroe**, met **4 klinische studies** en **18 publicaties** in de data die voor dit rapport zijn samengesteld. De studies onderzoeken echter vooral oestrogeen; progesteron is daarin meestal een ondersteunend bestanddeel.
 
 ---
 
@@ -46,12 +46,12 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat volgens de gegeven
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Endometriose, endometriumcarcinoom, postmenopauzale osteoporose, postmenopauzale atrofische vaginitis (afkomstig uit de kennisgraaf; de vergunningsteksten bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L1 (volgens de scoring in de data; zie toelichting hieronder) |
-| Status op de Nederlandse markt | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 **Toelichting bij het bewijsniveau:** de data kennen L1 toe, maar slechts één van de vier studies is een afgeronde fase 3-studie (NCT00946192). Bovendien test die studie waarschijnlijk oestrogeen en niet progesteron. Strikt volgens de beoordelingsregels (≥2 afgeronde fase 3-RCT's) zou L1 niet gehaald worden. Het bewijs is daarom zwakker dan het label suggereert.
@@ -100,9 +100,9 @@ Er zijn geen gerandomiseerde studies in de literatuurset. Het bewijs bestaat voo
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: doorgehaald |
+| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: geldig |
 
-De enige registratie is doorgehaald. Op dit moment is er dus geen geldige vergunning voor een enkelvoudig of gecombineerd progesteronproduct in de data. Raadpleeg het CBG-MEB voor de actuele situatie.
+De enige registratie is geldig. Op dit moment is er dus een geldige vergunning voor een enkelvoudig of gecombineerd progesteronproduct in de data. Raadpleeg het CBG-MEB voor de actuele situatie.
 
 ---
 

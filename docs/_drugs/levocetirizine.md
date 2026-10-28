@@ -6,9 +6,9 @@ nav_order: 205
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis, idiopathische urticaria"
 monitor_inn: "levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+description: "Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (rheumatoid arthritis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Levocetirizine
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Levocetirizine: Van allergische rinitis naar reumatoïde artritis
+## Levocetirizine: Reumatoïde artritis (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Levocetirizine is een histamine-H1-antagonist (antihistaminicum) die oorspronkel
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Allergische rinitis, vasomotore rinitis, idiopathische urticaria (afkomstig uit de TxGNN-kennisgraaf; in de Nederlandse registratiegegevens is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Reumatoïde artritis |
-| TxGNN-voorspellingsscore | 99,73% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Reumatoïde artritis (rheumatoid arthritis) |
+| TxGNN-voorspellingsscore | 0.9973 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -64,7 +64,7 @@ Een mogelijke link met reumatoïde artritis is dat histamine betrokken is bij sy
 
 Reumatoïde artritis heeft bovendien goed gevestigde, effectieve ziektemodificerende behandelingen. Een repurposing-casus zou daarom een duidelijke onderbouwing vereisen, bijvoorbeeld een aanvullende of symptomatische rol.
 
-Voor de twee andere voorspelde aandoeningen (colobomateus microftalmie-rhizomele dysplasiesyndroom en brachydactylie-syndactyliesyndroom) is geen geloofwaardig mechanistisch verband zichtbaar. Het zijn zeldzame aangeboren ontwikkelingsstoornissen. De hoge scores (respectievelijk 99,59% en 99,52%) weerspiegelen waarschijnlijk connectiviteit in de kennisgraaf, geen echt therapeutisch signaal.
+Voor de twee andere voorspelde aandoeningen (colobomateus microftalmie-rhizomele dysplasiesyndroom en brachydactylie-syndactyliesyndroom) is geen geloofwaardig mechanistisch verband zichtbaar. Het zijn zeldzame aangeboren ontwikkelingsstoornissen. De hoge scores (respectievelijk 0,9959 en 0,9952) komen van het TxGNN-model (deep learning) en kunnen overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs en geen echt therapeutisch signaal.
 
 ---
 
@@ -86,7 +86,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 120202 (33414) | Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank | Drank (oplossing voor oraal gebruik) | Niet beschikbaar |
 
-Deze registratie is doorgehaald. Er is dus momenteel geen geldige registratie van levocetirizine in de data van het CBG-MEB die voor dit rapport is samengesteld.
+Deze registratie is doorgehaald.
 
 ---
 
@@ -107,7 +107,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is geen klinisch of literatuurbewijs, het bewijsniveau is L5 (alleen modelvoorspelling), en voor de voorspelde indicatie bestaan al effectieve standaardbehandelingen. Daarnaast is er in Nederland geen geldige registratie.
+- Er is geen klinisch of literatuurbewijs, het bewijsniveau is L5 (alleen modelvoorspelling), en voor de voorspelde indicatie bestaan al effectieve standaardbehandelingen.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (aanvullen uit DrugBank)

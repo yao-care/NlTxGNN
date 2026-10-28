@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Fluorouracil: Van basaalcelcarcinoom en gastro-intestinale tumoren naar rhabdomyosarcoom
+## Fluorouracil: Van basaalcelcarcinoom en gastro-intestinale tumoren naar Botryoïd embryonaal rhabdomyosarcoom van de vagina
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,13 +48,13 @@ Fluorouracil is een antimetaboliet die oorspronkelijk wordt gebruikt voor huidaa
 |------|------|
 | Oorspronkelijke indicatie | Oppervlakkig multifocaal basaalcelcarcinoom, actinische keratose en gastro-intestinale tumoren (o.a. colon, maag, pancreas); in de gegevens van de Nederlandse vergunning is geen indicatietekst opgenomen |
 | Voorspelde nieuwe indicatie | Botryoïd embryonaal rhabdomyosarcoom van de vagina |
-| TxGNN-voorspellingsscore | 99,75% |
+| TxGNN-voorspellingsscore | 0,9975 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
-Andere voorspellingen met dezelfde conclusie (Hold) zijn onder meer rhabdomyosarcoom algemeen (score 99,74%, L4), parameningeaal embryonaal rhabdomyosarcoom, extrahepatisch galwegrhabdomyosarcoom, prostaat-rhabdomyosarcoom, lever­sarcoom (L4) en drie vormen van sikkelcelziekte (L5).
+Andere voorspellingen met dezelfde conclusie (Hold) zijn onder meer rhabdomyosarcoom algemeen (score 0,9974, L4), parameningeaal embryonaal rhabdomyosarcoom, extrahepatisch galwegrhabdomyosarcoom, prostaat-rhabdomyosarcoom, lever­sarcoom (L4) en drie vormen van sikkelcelziekte (L5).
 
 ---
 
@@ -95,9 +95,9 @@ Voor *extrahepatisch galwegrhabdomyosarcoom* en *leversarcoom* is alleen indirec
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118637//06292 | Efudix 50 mg/g, crème | Crème | Niet vermeld (vergunning ingetrokken) |
+| RVG 118637//06292 | Efudix 50 mg/g, crème | Crème | Niet vermeld (vergunning geldig) |
 
-Er is in Nederland momenteel geen geldige vergunning voor een enkelvoudig of gecombineerd product in de gegevens van het CBG-MEB. Voor systemische toepassing is raadpleging van de actuele registratie bij het CBG-MEB en de EMA nodig.
+Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd product; het middel is op de markt. Voor systemische toepassing is raadpleging van de actuele registratie bij het CBG-MEB en de EMA nodig.
 
 ---
 

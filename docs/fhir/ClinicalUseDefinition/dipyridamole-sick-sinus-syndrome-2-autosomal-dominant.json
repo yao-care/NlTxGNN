@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "sick-sinus-syndrome-2-autosomal-dominant",
-          "display": "sick sinus syndrome 2, autosomal dominant"
-        }
-      ],
-      "text": "sick sinus syndrome 2, autosomal dominant",
       "concept": {
         "text": "sick sinus syndrome 2, autosomal dominant"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9989
     }
   ]
 }

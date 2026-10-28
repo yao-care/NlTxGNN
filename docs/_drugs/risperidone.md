@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Risperidone
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 293
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Risperidone: voorspelde nieuwe indicatie Ernstige affectieve stoornis (major affective disorder)… (bewijsniveau L1). Oorspronkelijke indicatie: Schizofrenie, bipolaire stoornis (manische episoden)…"
 monitor_inn: "risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: voorspelde nieuwe indicatie Gaze palsy, familial horizontal, with progressive scoliosis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-## Risperidon: Van schizofrenie en bipolaire stoornis naar ernstige affectieve stoornis (major affective disorder)
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -48,12 +48,12 @@ Risperidon is een atypisch antipsychoticum dat oorspronkelijk wordt gebruikt bij
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Schizofrenie, bipolaire stoornis (manische episoden), autismespectrumstoornis (prikkelbaarheid) |
-| Voorspelde nieuwe indicatie | Ernstige affectieve stoornis (major affective disorder), in de praktijk therapieresistente depressie |
-| TxGNN-voorspellingsscore | 99,11% |
-| Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaald (vervallen) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN-voorspellingsscore | 0.9976 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan onder voorwaarden) |
 
 ---
@@ -104,7 +104,7 @@ De oorspronkelijke indicaties en de voorspelde indicatie hebben veel gemeen. Bip
 |---------|------|------|-----------|
 | RVG 118237//19127 | Risperdal 1 mg/ml, drank | Drank (orale oplossing) | Niet vermeld in de verzamelde gegevens |
 
-Deze vergunning is doorgehaald. In de voor dit rapport verzamelde gegevens is geen geldige vergunning voor een eenvoudig product met risperidon gevonden. De actuele registratiestatus in het CBG-MEB-register moet daarom worden gecontroleerd voordat een gebruiksroute wordt overwogen.
+Deze vergunning is doorgehaald. De actuele registratiestatus in het CBG-MEB-register moet daarom worden gecontroleerd voordat een gebruiksroute wordt overwogen.
 
 ---
 
@@ -126,14 +126,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Beslissing |
 |---|---|---|---|---|
-| 1 | Familiaire horizontale blikparese met progressieve scoliose | 99,76% | L5 | Hold |
-| 2 | Asperger-syndroom (gevoeligheid) | 99,74% | L5 | Hold |
-| 3 | Amelocerebrohypohidrotisch syndroom | 99,69% | L5 | Hold |
-| 4 | Phelan-McDermid-syndroom | 99,59% | L4 | Onderzoeksvraag |
-| 5 | Trichotillomanie | 99,51% | L4 | Onderzoeksvraag |
-| 6 | Ernstige affectieve stoornis | 99,11% | L1 | Proceed with Guardrails |
+| 1 | Familiaire horizontale blikparese met progressieve scoliose | 0,9976 | L5 | Hold |
+| 3 | Amelocerebrohypohidrotisch syndroom | 0,9969 | L5 | Hold |
+| 4 | Phelan-McDermid-syndroom | 0,9959 | L4 | Onderzoeksvraag |
+| 5 | Trichotillomanie | 0,9951 | L4 | Onderzoeksvraag |
+| 6 | Ernstige affectieve stoornis | 0,9911 | L1 | Proceed with Guardrails |
 
-De drie hoogst gerangschikte voorspellingen zijn waarschijnlijk artefacten van de kennisgraaf: er zijn geen studies, en een plausibele farmacologische link ontbreekt. Het Asperger-syndroom valt bovendien onder de bestaande autisme-indicatie. Bij Phelan-McDermid (alleen een review en een zebravismodel) en trichotillomanie (alleen casuïstiek) is er geen gecontroleerd onderzoek bij mensen.
+Het Asperger-syndroom valt bovendien onder de bestaande autisme-indicatie. Bij Phelan-McDermid (alleen een review en een zebravismodel) en trichotillomanie (alleen casuïstiek) is er geen gecontroleerd onderzoek bij mensen.
 
 ---
 

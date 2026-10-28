@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Alleen modelvoorspelling (L5)
+parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 61
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Brinzolamide: voorspelde nieuwe indicatie Primair erfelijk glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Open-hoekglaucoom en oculaire hypertensie"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
+Bewijsniveau: **N/A** | Voorspelde indicaties: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,48 +32,45 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Brinzolamide: Van open-hoekglaucoom naar primair erfelijk glaucoom
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie -->
+## Brinzolamide: Bekende toepassingen en marktstatus in Nederland
 {: .text-alpha }
 
-## Samenvatting in één zin
-
-Brinzolamide is een oogdruppel die oorspronkelijk wordt gebruikt voor de behandeling van open-hoekglaucoom en oculaire hypertensie.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **primair erfelijk glaucoom**.
-Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden in de data die voor dit rapport is samengesteld. Het gaat dus uitsluitend om een modelvoorspelling.
+## Samenvatting
+Het TxGNN-model (score ≥ 0,99) leverde voor Brinzolamide kandidaten op, maar alle kandidaten die naar een bron te herleiden zijn, betreffen al bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie. Hieronder staat welke bekende toepassing onder de kandidaten van het model valt.
 
 ## Snel overzicht
-
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Open-hoekglaucoom en oculaire hypertensie |
-| Voorspelde nieuwe indicatie | Primair erfelijk glaucoom |
-| TxGNN-voorspellingsscore | 99,48% |
-| Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
-| Aanbevolen beslissing | Hold |
+| Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
+| Bekende toepassingen onder de modelkandidaten | 1 |
+| Bewijsniveau | Niet van toepassing |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 
-## Waarom is deze voorspelling aannemelijk?
+## Bekende toepassingen onder de kandidaten van het model
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van de bekende farmacologie is brinzolamide een lokaal werkzame remmer van koolzuuranhydrase II. Het verlaagt de oogdruk door de productie van kamerwater in het corpus ciliare te verminderen.
+### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+| Indicatie | Bron |
+|------|------|
+| primair erfelijk glaucoom (primary hereditary glaucoma) | vergunning in een ander land; goedgekeurde indicatie: glaucoma |
 
-Bij open-hoekglaucoom en oculaire hypertensie is een verhoogde oogdruk de belangrijkste aanpasbare risicofactor. Bij erfelijke vormen van glaucoom (bijvoorbeeld primair congenitaal of juveniel glaucoom) speelt een verhoogde oogdruk door een afwijkende ontwikkeling van de afvoerwegen eveneens een centrale rol. Een drukverlagend middel kan dus mechanistisch gezien een plaats hebben. De hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid van deze aandoening tot de bestaande glaucoomindicaties in de kennisgraaf.
+### Gerelateerd aan een goedgekeurde indicatie (zelfde ziektecategorie)
+| Indicatie | Goedgekeurde categorie |
+|------|------|
+| Geen | Geen |
 
-Er zijn echter belangrijke kanttekeningen. Dit is een computationele voorspelling zonder klinische onderbouwing. Bij primair congenitaal glaucoom is chirurgie doorgaans de eerste keus. Pediatrische veiligheid (risico op systemische acidose, effecten op het hoornvliesendotheel) is in de beschikbare data niet beoordeeld.
-
-## Bewijs uit klinische studies
-
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
-
-## Bewijs uit de literatuur
-
-Er is momenteel geen gerelateerde literatuur beschikbaar.
+### Relaties tussen ziekten en geneesmiddelen (geen goedkeuring gevonden)
+| Indicatie |
+|------|
+| Geen |
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114558 | Brinzolamide Mylan 10 mg/ml, oogdruppels, suspensie (status: ingetrokken) | Oogdruppels, suspensie | Niet vermeld in de beschikbare data |
+| Registratie | Product | Toedieningsvorm | Status |
+|------|------|------|------|
+| RVG 114558 | Brinzolamide Mylan 10 mg/ml, oogdruppels, suspensie |  | Geldig |
 
 ## Veiligheidsoverwegingen
 
@@ -80,19 +78,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
-## Conclusie en vervolgstappen
-
-**Beslissing: Hold**
-
-**Onderbouwing:**
-De voorspelling berust uitsluitend op een model (bewijsniveau L5), zonder klinische studies of literatuur. Daarnaast is er in Nederland geen geldige handelsvergunning meer voor het enige geregistreerde product, en ontbreken de gegevens over waarschuwingen en contra-indicaties.
-
-**Om verder te gaan is het volgende nodig:**
-- De SmPC en bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties), omdat de veiligheidsscreening anders niet kan worden voortgezet
-- Gegevens over het werkingsmechanisme aanvullen uit DrugBank
-- Systematisch zoeken naar klinische studies en literatuur over brinzolamide bij primair erfelijk glaucoom
-- Beoordelen van de pediatrische veiligheid en de plaats van het middel naast chirurgie bij primair congenitaal glaucoom
-- Nagaan of een beschikbare toedieningsvorm in Nederland aanwezig is, gezien de ingetrokken vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

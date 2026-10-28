@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rivastigmine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 295
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Rivastigmine: voorspelde nieuwe indicatie Glaucoom (bewijsniveau L4). Oorspronkelijke indicatie: Ziekte van Alzheimer (en verwante aandoeningen…"
@@ -14,7 +14,7 @@ predicted_indications: ["glaucoma"]
 # Rivastigmine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **glaucoom**, maar er zi
 |------|------|
 | Oorspronkelijke indicatie | Ziekte van Alzheimer (en verwante aandoeningen, o.a. de ziekte van Pick, cerebellaire degeneratie) |
 | Voorspelde nieuwe indicatie | Glaucoom |
-| TxGNN-voorspellingsscore | 99,27% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| TxGNN-voorspellingsscore | 0,9927 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -87,7 +87,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115384 | Rivastigmine Sandoz 13,3 mg/24 uur, pleisters voor transdermaal gebruik (ingetrokken) | Transdermale pleister | Niet beschikbaar in de data |
+| RVG 115384 | Rivastigmine Sandoz 13,3 mg/24 uur, pleisters voor transdermaal gebruik (geldig) | Transdermale pleister | Niet beschikbaar in de data |
 
 De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.
 

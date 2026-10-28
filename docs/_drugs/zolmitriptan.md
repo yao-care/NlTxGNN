@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 346
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Zolmitriptan: voorspelde nieuwe indicatie Migraine met hersenstamaura (bewijsniveau L4). Oorspronkelijke indicatie: Migraine (migraine met of zonder aura)"
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Zolmitriptan: Van migraine naar migraine met hersenstamaura
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Zolmitriptan is een 5-HT1B/1D-agonist (triptan) die oorspronkelijk wordt gebruikt voor de acute behandeling van migraine. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **migraine met hersenstamaura**. Er zijn **0 geregistreerde klinische studies** en **20 publicaties** over migraine en triptanen in het algemeen, maar geen daarvan richt zich specifiek op hersenstamaura.
+Zolmitriptan is een 5-HT1B/1D-agonist (triptan) die oorspronkelijk wordt gebruikt voor de acute behandeling van migraine. Er zijn **0 geregistreerde klinische studies** en **20 publicaties** over migraine en triptanen in het algemeen, maar geen daarvan richt zich specifiek op hersenstamaura.
 
 ---
 
@@ -46,12 +46,12 @@ Zolmitriptan is een 5-HT1B/1D-agonist (triptan) die oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Migraine (migraine met of zonder aura) |
-| Voorspelde nieuwe indicatie | Migraine met hersenstamaura |
-| TxGNN-voorspellingsscore | 99,99% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal handelsvergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Atrophoderma vermiculata |
+| TxGNN-voorspellingsscore | 0.9990 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,9 +95,9 @@ De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Gee
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109139 | Zolmitriptan Glenmark 5 mg orodispergeerbare tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 109139 | Zolmitriptan Glenmark 5 mg orodispergeerbare tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige handelsvergunning in Nederland. De enige bekende vergunning is doorgehaald.
+De enige bekende vergunning is doorgehaald.
 
 ---
 
@@ -122,8 +122,8 @@ Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samen
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs is beperkt tot modelvoorspelling en algemene migraineliteratuur (niveau L4). Er zijn geen klinische studies voor hersenstamaura, en triptanen zijn bij deze subtypen historisch met voorzichtigheid benaderd vanwege vasoconstrictieve risico's. Bovendien is er in Nederland geen geldige handelsvergunning.
-- De twee andere voorspellingen (atrophoderma vermiculata en ulerythema ophryogenesis) hebben ook hoge modelscores, maar geen enkel bewijs en geen plausibel mechanisme. Dit zijn waarschijnlijk artefacten van de kennisgraaf en worden op Hold gehouden.
+- Het bewijs is beperkt tot modelvoorspelling en algemene migraineliteratuur (niveau L4). Er zijn geen klinische studies voor hersenstamaura, en triptanen zijn bij deze subtypen historisch met voorzichtigheid benaderd vanwege vasoconstrictieve risico's.
+- De twee andere voorspellingen (atrophoderma vermiculata en ulerythema ophryogenesis) hebben ook hoge modelscores, maar geen enkel bewijs en geen plausibel mechanisme.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme uit DrugBank aanvullen.

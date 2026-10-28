@@ -48,10 +48,10 @@ Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij can
 |------|------|
 | Oorspronkelijke indicatie | Candidiasis (huid, mondholte, vulvovaginaal) |
 | Voorspelde nieuwe indicatie | Vulvovaginitis |
-| TxGNN-voorspellingsscore | 99,92% |
+| TxGNN-voorspellingsscore | 0,9992 |
 | Evidenceniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij can
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Uit de literatuur is wel bekend dat nystatine een polyeen-antimycoticum is. Het bindt aan ergosterol in het celmembraan van Candida, vormt poriën en veroorzaakt lekkage van celinhoud.
 
-Dit mechanisme past bij vulvovaginale candidiasis, een van de bestaande indicaties van het middel. Vulvovaginitis is daarmee grotendeels de oorspronkelijke indicatie en geen echt nieuw herpositioneringsdoel. Hetzelfde geldt voor vulvitis (rang 8, score 99,83%), dat vaak door Candida wordt veroorzaakt en samen met vaginitis wordt behandeld.
+Dit mechanisme past bij vulvovaginale candidiasis, een van de bestaande indicaties van het middel. Vulvovaginitis is daarmee grotendeels de oorspronkelijke indicatie en geen echt nieuw herpositioneringsdoel. Hetzelfde geldt voor vulvitis (rang 8, score 0,9983), dat vaak door Candida wordt veroorzaakt en samen met vaginitis wordt behandeld.
 
 De overige voorspellingen in de top 10 (o.a. aandoeningen van de orbitale regio, cystisch teratoom, spinale dermoïdcyste, biotinemetabolisme-ziekte, commissurale lipfistel, osteoradionecrose van de onderkaak en postmenopauzale atrofische vaginitis) hebben geen aannemelijk mechanistisch verband met nystatine. Ze zijn vermoedelijk artefacten van de graafvoorspelling en worden niet verder uitgewerkt.
 
@@ -97,7 +97,7 @@ Er is in de aangeleverde gegevens geen gerandomiseerde gecontroleerde studie (RC
 |---------|------|------|-----------|
 | RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | Niet vermeld | Niet vermeld |
 
-Deze vergunning is **ingetrokken**; er is geen geldige vergunning voor nystatine in de gegevens van het CBG-MEB.
+Er is 1 geldige vergunning van de 1 vergunning(en) voor nystatine in de gegevens van het CBG-MEB; het middel is op de markt.
 
 ---
 

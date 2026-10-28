@@ -6,9 +6,9 @@ nav_order: 257
 evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (bewijsniveau L2). Oorspronkelijke indicatie: Gemetastaseerd colorectaal carcinoom (uit de kennisgraaf"
 monitor_inn: "oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxaliplatin
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **4**
 
 </div>
 
-## Oxaliplatine: Van gemetastaseerd colorectaal carcinoom naar maligne pleuraal mesothelioom
+## Oxaliplatin: Maligne pleuraal mesothelioom (malignant pleural mesothelioma)
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -46,12 +46,12 @@ Oxaliplatine is een platinahoudend cytostaticum dat oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Gemetastaseerd colorectaal carcinoom (uit de kennisgraaf; de vergunningstekst in Nederland bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Maligne pleuraal mesothelioom |
-| TxGNN-voorspellingsscore | 99,68% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne pleuraal mesothelioom (malignant pleural mesothelioma) |
+| TxGNN-voorspellingsscore | 0.9968 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -97,9 +97,9 @@ Er is ook tegenbewijs: een kleine fase 2-studie met raltitrexed plus oxaliplatin
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (vergunning doorgehaald) | Poeder voor oplossing voor infusie | Niet vermeld in de beschikbare gegevens |
+| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (vergunning geldig) | Poeder voor oplossing voor infusie | Niet vermeld in de beschikbare gegevens |
 
-Er is in de data geen geldige Nederlandse vergunning voor oxaliplatine gevonden; de enige vergunning is doorgehaald. Voor actuele informatie over beschikbare producten (bijvoorbeeld via de gecentraliseerde EMA-procedure) raadpleegt u het CBG-MEB.
+Voor actuele informatie over beschikbare producten (bijvoorbeeld via de gecentraliseerde EMA-procedure) raadpleegt u het CBG-MEB.
 
 ---
 
@@ -132,7 +132,7 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleegt u de SmPC (Sam
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit kleine, niet-gerandomiseerde fase 2-studies (L2) met wisselende uitkomsten, waaronder één studie zonder respons in de tweede lijn. Er is geen fase 3-bewijs. Daarbovenop is er in Nederland momenteel geen geldige vergunning, en ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.
+- Het bewijs bestaat uit kleine, niet-gerandomiseerde fase 2-studies (L2) met wisselende uitkomsten, waaronder één studie zonder respons in de tweede lijn. Er is geen fase 3-bewijs. Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsgegevens (waarschuwingen en contra-indicaties) uit de SmPC en bijsluiter van het CBG-MEB

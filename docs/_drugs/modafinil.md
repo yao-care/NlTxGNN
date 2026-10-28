@@ -6,9 +6,9 @@ nav_order: 238
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Modafinil: voorspelde nieuwe indicatie Insomnie (bewijsniveau L3). Oorspronkelijke indicatie: Narcolepsie"
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
+description: "Modafinil: voorspelde nieuwe indicatie Insomnie (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Modafinil
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-## Modafinil: Van narcolepsie naar insomnie
+## Modafinil: Insomnie (insomnia (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Modafinil is een waakbevorderend middel dat oorspronkelijk wordt gebruikt voor d
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Narcolepsie (volgens de kennisgraaf; er is geen goedgekeurde indicatietekst beschikbaar in de Nederlandse registratie) |
-| Voorspelde nieuwe indicatie | Insomnie |
-| TxGNN-voorspellingsscore | 99,85% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Insomnie (insomnia (disease)) |
+| TxGNN-voorspellingsscore | 0.9985 |
 | Evidentieniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal registraties | 1 (geannuleerd) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Modafinil is een waakbevorderend middel dat oorspronkelijk wordt gebruikt voor d
 
 Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de voor dit rapport samengestelde data. Modafinil wordt algemeen beschouwd als een waakbevorderend middel dat vermoedelijk werkt via remming van de dopaminetransporter en modulatie van waakgerelateerde hersennetwerken. Dit is geen geverifieerde gegevensbron en moet nog bevestigd worden.
 
-Insomnie vraagt juist om slaapbevordering of vermindering van hyperarousal. Een waakbevorderend middel is mechanistisch dus tegengesteld aan de voorspelde indicatie. De hoge TxGNN-score (0,998) wordt waarschijnlijk veroorzaakt door de nabijheid in het netwerk van slaap-waakstoornissen (zoals narcolepsie), en niet door een echte therapeutische relatie.
+Insomnie vraagt juist om slaapbevordering of vermindering van hyperarousal. Een waakbevorderend middel is mechanistisch dus tegengesteld aan de voorspelde indicatie. De hoge TxGNN-score (0,9985) wordt waarschijnlijk veroorzaakt door de nabijheid in het netwerk van slaap-waakstoornissen (zoals narcolepsie), en niet door een echte therapeutische relatie.
 
 Een plausibeler gebruik is de behandeling van resterende slaperigheid overdag en slaap-waakverstoringen bij bijkomende aandoeningen, zoals bij ouderen, de ziekte van Parkinson of andere neurologische aandoeningen. Een eventueel effect op insomnie zou indirect zijn en brengt het risico mee dat de nachtelijke slaap verslechtert.
 
@@ -98,9 +98,8 @@ De meeste publicaties betreffen indirecte onderwerpen (narcolepsie, ziekte van P
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115163 | Modafinil Chanelle 200 mg tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 115163 | Modafinil Chanelle 200 mg tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is in Nederland geen geldige registratie meer voor modafinil in de gegevens van het CBG-MEB die voor dit rapport zijn samengesteld.
 
 ---
 
@@ -125,7 +124,7 @@ Voor dit middel zijn geen waarschuwingen of contra-indicaties uit de productinfo
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust vooral op netwerknabijheid in het model. Een waakbevorderend middel past mechanistisch niet bij insomnie en kan de nachtelijke slaap verslechteren. De directe klinische evidentie is zeer beperkt (één afgeronde fase 4-studie met 40 deelnemers zonder beschikbare resultaten, en één voortijdig beëindigde studie met 2 deelnemers). Daarnaast is er in Nederland momenteel geen geldige registratie.
+- De voorspelling berust vooral op netwerknabijheid in het model. Een waakbevorderend middel past mechanistisch niet bij insomnie en kan de nachtelijke slaap verslechteren. De directe klinische evidentie is zeer beperkt (één afgeronde fase 4-studie met 40 deelnemers zonder beschikbare resultaten, en één voortijdig beëindigde studie met 2 deelnemers).
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)

@@ -48,10 +48,10 @@ Bendamustine is een alkylerend cytostaticum dat oorspronkelijk wordt gebruikt bi
 |------|------|
 | Oorspronkelijke indicatie | Folliculair lymfoom; neoplasma van rijpe B-cellen; acute lymfatische leukemie; Richter-syndroom (de Nederlandse vergunningstekst is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Mantelcellymfoom |
-| TxGNN-voorspellingsscore | 99,63% |
+| TxGNN-voorspellingsscore | 0,9963 |
 | Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Doorgaan met waarborgen (Proceed with Guardrails) |
 
 ---
@@ -104,7 +104,7 @@ De tabel toont een selectie van de meest relevante studies bij mantelcellymfoom 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing voor infusie | Poeder voor concentraat voor oplossing voor infusie | Niet beschikbaar (registratie doorgehaald) |
+| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing voor infusie | Poeder voor concentraat voor oplossing voor infusie | Niet beschikbaar (registratie geldig) |
 
 Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.
 

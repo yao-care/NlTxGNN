@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lamivudine
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 194
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis B-virusinfectie, hiv-infectie, aids"
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 </div>
 
-## Lamivudine: Van hiv/hepatitis B naar simian immunodeficiëntievirus-infectie
+## Lamivudine: Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Lamivudine is een nucleoside-reversetranscriptaseremmer (NRTI) die oorspronkelij
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Chronische hepatitis B-virusinfectie, hiv-infectie, aids (volgens de kennisgraaf; in de beschikbare registratiegegevens is geen indicatietekst opgenomen) |
-| Voorspelde nieuwe indicatie | Simian immunodeficiëntievirus-infectie |
-| TxGNN-voorspellingsscore | 99,93% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) |
+| TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L4 (alleen preklinisch/mechanistisch) |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal registraties | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -91,7 +91,7 @@ De hieronder genoemde publicaties zijn vrijwel allemaal preklinisch; er zijn gee
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
 
 ---
 
@@ -123,10 +123,10 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 | Voorspelde indicatie | Score | Bewijsniveau | Besluit | Toelichting |
 |------|------|------|------|------|
-| Feline verworven immuundeficiëntiesyndroom | 99,93% | L4 | Hold | Alleen veterinaire studies; beperkte relevantie voor mensen |
-| Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 99,93% | L5 | Hold | Alleen modelvoorspelling; geen aannemelijk mechanisme |
-| Verouderde term voor familiaire gecombineerde hyperlipidemie | 99,63% | L5 | Hold | Verouderde ziektenaam, geen bewijs |
-| Chronische hepatitis C-virusinfectie | 99,11% | L4 | Hold | HCV gebruikt geen reversetranscriptase; literatuur betreft algemene hepatitisreviews; directwerkende antivirale middelen zijn standaardzorg |
+| Feline verworven immuundeficiëntiesyndroom | 0,9993 | L4 | Hold | Alleen veterinaire studies; beperkte relevantie voor mensen |
+| Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 0,9993 | L5 | Hold | Alleen modelvoorspelling; geen aannemelijk mechanisme |
+| Verouderde term voor familiaire gecombineerde hyperlipidemie | 0,9963 | L5 | Hold | Verouderde ziektenaam, geen bewijs |
+| Chronische hepatitis C-virusinfectie | 0,9911 | L4 | Hold | HCV gebruikt geen reversetranscriptase; literatuur betreft algemene hepatitisreviews; directwerkende antivirale middelen zijn standaardzorg |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

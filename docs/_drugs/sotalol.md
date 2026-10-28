@@ -4,17 +4,17 @@ title: Sotalol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 303
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Sotalol: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Atriumfibrilleren"
+indication_count: 6
+last_modified_at: 2026-10-28
 monitor_inn: "sotalol"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
+description: "Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Sotalol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Sotalol: Van atriumfibrilleren naar beroerte (stroke disorder)
+## Sotalol: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Sotalol is een bètablokker met klasse III-antiaritmische werking, oorspronkelij
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Atriumfibrilleren (de goedkeuringstekst van de Nederlandse registratie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Beroerte (stroke disorder) |
-| TxGNN-voorspellingsscore | 99,44% |
-| Bewijsniveau | L4 (indirect) |
-| Marktstatus NL | Alleen doorgehaalde registraties |
-| Aantal registraties | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN-voorspellingsscore | 0.9976 |
+| Bewijsniveau | L5 (indirect) |
+| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; nog niet verder in huidige vorm) |
 
 ---
@@ -63,11 +63,10 @@ Gegevens over het werkingsmechanisme van sotalol zijn in de voor dit rapport sam
 De relatie met beroerte is **indirect**. Atriumfibrilleren is een belangrijke oorzaak van cardio-embolische beroerte. Ritmecontrole met sotalol zou de belasting door atriumfibrilleren kunnen verminderen en daarmee mogelijk het beroerterisico. De fase 3-studie (NCT00007605) onderzocht echter het behoud van sinusritme bij atriumfibrilleren, dus de oorspronkelijke indicatie, en toont geen preventie van beroerte aan. Bewijs dat ritmecontrolemedicatie beroerte vermindert is beperkt; antistolling blijft de standaard voor beroerte-preventie. Daarom is het niveau verlaagd naar L4.
 
 Overige voorspellingen zijn zwak onderbouwd (alle zonder klinisch bewijs of literatuur):
-- **Sick sinus syndrome 2, autosomaal dominant** (score 99,76%): sotalol kan sinusknoopdisfunctie en bradyaritmie juist verergeren; een veiligheidsrisico is aannemelijker dan een voordeel. Hold.
-- **Wildervanck-syndroom** (99,65%) en **macrocefalie met dysmorfe gelaatstrekken en psychomotore retardatie** (99,42%): geen plausibel mechanisme. Hold.
-- **Sarcoglycanopathie** (99,64%): aritmieën komen voor, maar er is geen aanwijzing dat sotalol de ziekte beïnvloedt. Hold.
-- **Manische bipolaire stoornis** (99,43%): de twee gevonden artikelen gaan over interacties en bijwerkingen (QT-verlenging met antipsychotica), niet over werkzaamheid. Hold.
-- **Verouderde term "susceptibility to ischemic stroke"** (99,23%): geen klinisch bruikbare indicatie; samenvoegen met de beroerte-vermelding.
+- **Sick sinus syndrome 2, autosomaal dominant** (score 0,9976): sotalol kan sinusknoopdisfunctie en bradyaritmie juist verergeren; een veiligheidsrisico is aannemelijker dan een voordeel. Hold.
+- **Wildervanck-syndroom** (0.9965) en **macrocefalie met dysmorfe gelaatstrekken en psychomotore retardatie** (0.9942): geen plausibel mechanisme. Hold.
+- **Sarcoglycanopathie** (0.9964): aritmieën komen voor, maar er is geen aanwijzing dat sotalol de ziekte beïnvloedt. Hold.
+- **Manische bipolaire stoornis** (0.9943): de twee gevonden artikelen gaan over interacties en bijwerkingen (QT-verlenging met antipsychotica), niet over werkzaamheid. Hold.
 
 ---
 
@@ -104,7 +103,7 @@ Geen van deze publicaties toont direct aan dat sotalol beroerte voorkomt.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
 
 ---
 

@@ -4,17 +4,17 @@ title: Palonosetron
 parent: Matig bewijs (L3-L4)
 nav_order: 264
 evidence_level: L4
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Palonosetron: voorspelde nieuwe indicatie Migraineaandoening (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
 monitor_inn: "palonosetron"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Palonosetron is een tweede-generatie 5-HT3-receptorantagonist, gebruikt als midd
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens |
 | Voorspelde nieuwe indicatie | Migraineaandoening (migraine disorder) |
-| TxGNN-voorspellingsscore | 99,74% |
+| TxGNN-voorspellingsscore | 0,9974 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geannuleerd) |
-| Aantal vergunningen | 1 (0 geldig, 1 geannuleerd) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -64,7 +64,7 @@ Er bestaat een theoretische link: serotoninesignalering wordt in verband gebrach
 
 De enige beschikbare publicatie beschrijft echter **palonosetron-geïnduceerde migraineachtige hoofdpijn**. Dat is een bijwerkingssignaal in tegengestelde richting van therapeutisch voordeel. De hoge TxGNN-score is een computationele voorspelling die niet door klinisch bewijs wordt ondersteund en door de enige gepubliceerde melding wordt tegengesproken.
 
-Overige voorspellingen met lagere rang zijn: migraine met hersenstamaura, gevoeligheid voor migraine met of zonder aura, atrophoderma vermiculata en ulerythema ophryogenesis. Voor de eerste twee geldt dat het mechanistisch argument slechts is afgeleid van de algemene migrainehypothese. Voor de laatste twee is geen aannemelijke mechanistische link gevonden; ze lijken artefacten van de kennisgraaf.
+Overige voorspellingen met lagere rang zijn: migraine met hersenstamaura, atrophoderma vermiculata en ulerythema ophryogenesis. Voor de eerste geldt dat het mechanistisch argument slechts is afgeleid van de algemene migrainehypothese. Voor de laatste twee is geen aannemelijke mechanistische link gevonden; de scores komen van het TxGNN-model (deep learning) en kunnen overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, geen biologisch bewijs.
 
 ---
 
@@ -90,7 +90,7 @@ Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" i
 |---------|------|------|-----------|
 | RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorgevulde spuit | Niet vermeld | Niet vermeld |
 
-Deze vergunning is geannuleerd; er is momenteel geen geldige vergunning bij het CBG-MEB in de samengestelde gegevens.
+Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens.
 
 ---
 
@@ -109,14 +109,14 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats van een therapeutisch effect, zonder klinische studies. De hoge TxGNN-score (99,74%) is een zuivere modelvoorspelling. Daarnaast is de enige Nederlandse vergunning geannuleerd.
+Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats van een therapeutisch effect, zonder klinische studies. De hoge TxGNN-score (0,9974) is een zuivere modelvoorspelling. Daarnaast is de enige Nederlandse vergunning geannuleerd.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een analyse van de mechanistische link
 - De SmPC/bijsluiter van het CBG-MEB voor waarschuwingen, contra-indicaties en de oorspronkelijke indicatie
 - Klinisch of preklinisch bewijs dat 5-HT3-antagonisme migraine daadwerkelijk vermindert, en een verklaring voor het tegengestelde bijwerkingssignaal
 - Een beoordeling van het QT-risico en van de interacties met majeure comedicatie
-- Opheldering over de marktstatus, aangezien er in Nederland geen geldige vergunning is
+- Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

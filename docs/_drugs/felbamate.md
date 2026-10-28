@@ -6,9 +6,9 @@ nav_order: 148
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie, partiële epilepsie, Lennox-Gastaut-syndroom"
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Felbamate
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Felbamaat: Van epilepsie naar trigeminuszenuwneoplasma
+## Felbamate: Trigeminuszenuwneoplasma (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -45,12 +45,12 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **trigeminuszenuwneop
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Epilepsie, partiële epilepsie, Lennox-Gastaut-syndroom (bron: kennisgrafiek; de geregistreerde indicatietekst is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
-| TxGNN-voorspellingsscore | 99,62% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) |
+| TxGNN-voorspellingsscore | 0.9962 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?
@@ -59,7 +59,7 @@ Gedetailleerde gegevens over het werkingsmechanisme van felbamaat zijn momenteel
 
 Voor **trigeminuszenuwneoplasma** is er geen vastgesteld antineoplastisch mechanisme. De hoge score weerspiegelt waarschijnlijk netwerknabijheid in de kennisgrafiek met trigeminus-gerelateerde aandoeningen (zoals trigeminusneuralgie) en niet een echt antitumoreffect. Hooguit zou een symptomatisch effect op neuropathische pijn denkbaar zijn, niet op de tumor zelf.
 
-De tweede voorspelling, **trigeminusneuralgie** (score 99,18%), is biologisch plausibeler. Andere anti-epileptica (carbamazepine, oxcarbazepine) zijn eerstelijnsbehandeling via modulatie van natriumkanalen, en de NMDA-antagonistische en GABA-erge effecten van felbamaat zouden in principe neuronale overprikkelbaarheid kunnen verminderen. Ook hiervoor ontbreekt echter ondersteunend bewijs, en de ernstige veiligheidsrisico's van felbamaat maken het een onwaarschijnlijke kandidaat zolang veiligere, gevestigde alternatieven bestaan.
+De tweede voorspelling, **trigeminusneuralgie** (score 0,9918), is biologisch plausibeler. Andere anti-epileptica (carbamazepine, oxcarbazepine) zijn eerstelijnsbehandeling via modulatie van natriumkanalen, en de NMDA-antagonistische en GABA-erge effecten van felbamaat zouden in principe neuronale overprikkelbaarheid kunnen verminderen. Ook hiervoor ontbreekt echter ondersteunend bewijs, en de ernstige veiligheidsrisico's van felbamaat maken het een onwaarschijnlijke kandidaat zolang veiligere, gevestigde alternatieven bestaan.
 
 ## Klinische studie-evidentie
 
@@ -75,7 +75,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119849//16889 (doorgehaald) | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |
 
-Er is geen geldige vergunning bij het CBG-MEB. De enige registratie is doorgehaald.
+Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning). Het middel is op de markt.
 
 ## Veiligheidsoverwegingen
 
@@ -90,7 +90,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op een modelscore (evidentieniveau L5) zonder klinische studies of publicaties. Daarnaast zijn de veiligheidsrisico's van felbamaat aanzienlijk, is er geen geldige Nederlandse vergunning en bestaan er veiligere gevestigde alternatieven, zeker voor trigeminusneuralgie.
+De voorspelling berust uitsluitend op een modelscore (evidentieniveau L5) zonder klinische studies of publicaties.
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (waarschuwingen en contra-indicaties) van het CBG-MEB ophalen en analyseren; dit is een blokkerend ontbrekend gegeven voor de veiligheidsscreening.

@@ -48,10 +48,10 @@ Granisetron is een selectieve 5-HT3-receptorantagonist. Het wordt klassiek gebru
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde data (de vergunningstekst is leeg) |
 | Voorspelde nieuwe indicatie | Manische bipolaire stoornis |
-| TxGNN-voorspellingsscore | 99,62% |
+| TxGNN-voorspellingsscore | 0,9962 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -68,15 +68,15 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold.
 
 | Rang | Voorspelde indicatie | Score | Mechanistische plausibiliteit |
 |---|---|---|---|
-| 2 | Syndroom van Gilles de la Tourette | 99,52% | Plausibel (dopaminerge/serotonerge circuits; vergelijkbaar onderzoek met ondansetron) |
-| 3 | Acute besmettelijke conjunctivitis | 99,49% | Geen duidelijke onderbouwing |
-| 4 | Angio-oedeem | 99,36% | Zwak, speculatief |
-| 5 | Allergische urticaria | 99,32% | Speculatief (mestcellen/jeuk) |
-| 6 | Nefrogeen syndroom van inadequate antidiurese | 99,32% | Niet onderbouwd (AVPR2-mutaties) |
-| 7 | Trichotillomanie | 99,23% | Plausibel (OCD-spectrum, serotonerge betrokkenheid) |
-| 8 | Bronchitis | 99,18% | Geen duidelijke onderbouwing |
-| 9 | Koude-urticaria | 99,10% | Speculatief |
-| 10 | Conjunctivitis | 99,09% | Zwak voor allergische vorm, geen voor infectieuze vormen |
+| 2 | Syndroom van Gilles de la Tourette | 0,9952 | Plausibel (dopaminerge/serotonerge circuits; vergelijkbaar onderzoek met ondansetron) |
+| 3 | Acute besmettelijke conjunctivitis | 0,9949 | Geen duidelijke onderbouwing |
+| 4 | Angio-oedeem | 0,9936 | Zwak, speculatief |
+| 5 | Allergische urticaria | 0,9932 | Speculatief (mestcellen/jeuk) |
+| 6 | Nefrogeen syndroom van inadequate antidiurese | 0,9932 | Niet onderbouwd (AVPR2-mutaties) |
+| 7 | Trichotillomanie | 0,9923 | Plausibel (OCD-spectrum, serotonerge betrokkenheid) |
+| 8 | Bronchitis | 0,9918 | Geen duidelijke onderbouwing |
+| 9 | Koude-urticaria | 0,9910 | Speculatief |
+| 10 | Conjunctivitis | 0,9909 | Zwak voor allergische vorm, geen voor infectieuze vormen |
 
 ---
 
@@ -96,9 +96,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige vergunning voor granisetron bij het CBG-MEB in de data aangetroffen.
+Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; het middel is in Nederland op de markt.
 
 ---
 
@@ -136,7 +136,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor manische bipolaire stoornis is uitsluitend gebaseerd op een model (L5), zonder klinische studies of literatuur. Bovendien is er in Nederland geen geldige vergunning, en ontbreken zowel de oorspronkelijke indicatietekst als de officiële veiligheidsinformatie.
+- De voorspelling voor manische bipolaire stoornis is uitsluitend gebaseerd op een model (L5), zonder klinische studies of literatuur. Het middel is in Nederland wel op de markt (1 geldige vergunning van 1), maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.
 
 **Om verder te gaan is het volgende nodig:**
 - De bijsluiter/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB ophalen; dit is een blokkerende leemte voor de veiligheidsscreening

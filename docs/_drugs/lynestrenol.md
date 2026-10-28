@@ -3,18 +3,18 @@ layout: default
 title: Lynestrenol
 parent: Matig bewijs (L3-L4)
 nav_order: 217
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Lynestrenol: voorspelde nieuwe indicatie Migraine met of zonder aura, gevoeligheid (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (indicatietekst van de vergunning is…"
+evidence_level: L4
+indication_count: 4
 monitor_inn: "Lynestrenol"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
+last_modified_at: 2026-10-23
+description: "Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens"
 ---
 
 # Lynestrenol
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,74 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **5**
 
 </div>
 
-## Lynestrenol: Van een hormonaal geneesmiddel naar migraine (migraine met of zonder aura, gevoeligheid)
+## Lynestrenol: van een geregistreerd progestageen naar migraine
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Lynestrenol is een progestageen (een prodrug die in het lichaam wordt omgezet in norethisteron). Het wordt in Nederland niet meer verhandeld en de oorspronkelijke geregistreerde indicatie staat niet vermeld in de beschikbare gegevens. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **migraine met of zonder aura (gevoeligheid)**. Hiervoor zijn **geen geregistreerde klinische studies** en **3 publicaties** beschikbaar, waarvan alleen een rapport uit 1963 specifiek over lynestrenol gaat.
-
----
+Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland in de handel is als Orgametril 5 mg tabletten. De TxGNN-voorspelling is dat het mogelijk werkzaam is bij **migraine** (*migraine disorder*). Daarvoor zijn **geen geregistreerde klinische studies** en **2 publicaties** gevonden: een recent overzichtsartikel en een Zweeds rapport uit 1963.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (indicatietekst van de vergunning is leeg) |
-| Voorspelde nieuwe indicatie | Migraine met of zonder aura, gevoeligheid |
-| TxGNN-voorspellingsscore | 99,51% |
-| Bewijsniveau | L3 |
-| Marktstatus NL | Alleen doorgehaald (vergunning geschrapt) |
-| Aantal vergunningen | 1 |
-| Aanbevolen beslissing | Hold |
-
----
+| Oorspronkelijke indicatie | Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens |
+| Voorspelde nieuwe indicatie | Migraine (*migraine disorder*) |
+| TxGNN-voorspellingsscore | 0,9949 |
+| Bewijsniveau | L4 (zwak; zie toelichting hieronder) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Op dit moment zijn gedetailleerde gegevens over het werkingsmechanisme niet beschikbaar. Bekend is dat lynestrenol een progestageen is dat in het lichaam wordt omgezet in norethisteron. Het remt de eisprong en stabiliseert de cyclische schommelingen van hormonen.
+Gegevens over het werkingsmechanisme van lynestrenol in DrugBank ontbreken. De onderstaande redenering berust daarom op de algemene farmacologie van progestagenen.
 
-Menstruatiegerelateerde migraine wordt verondersteld te worden uitgelokt door een daling van oestrogeen. Een middel dat hormoonschommelingen dempt, zou daarom in theorie hormoongevoelige migraine kunnen verminderen. De TxGNN-score is zeer hoog, maar dit is een computationele voorspelling en geen klinisch bewijs.
+Migraine rond de menstruatie wordt in verband gebracht met de daling van oestradiol laat in de luteale fase. Lynestrenol wordt in het lichaam omgezet in norethisteron. Het remt de ovulatie en kan hormoonschommelingen stabiliseren. Daardoor zou het aanvallen kunnen verminderen die door hormonen worden uitgelokt.
 
-Voorzichtigheid is geboden: gecombineerde, oestrogeenbevattende anticonceptiva verhogen het risico op een herseninfarct bij migraine met aura. Elke hypothese moet zich daarom richten op gebruik van uitsluitend een progestageen.
+De hoge TxGNN-score (0,9949) past bij deze hypothese, maar is uitsluitend een computationele voorspelling. Een Zweeds rapport uit 1963 beschrijft de profylactische behandeling van migraine met lynestrenol. Dat is een aanwijzing, maar geen sterk bewijs.
 
-De overige voorspelde indicaties (migraine disorder, migraine met hersenstamaura, slapeloosheid en lepra) zijn zwakker onderbouwd. Voor migraine met hersenstamaura, slapeloosheid en lepra is het bewijsniveau L4 of L5 en de aanbeveling Hold. De hoge scores weerspiegelen waarschijnlijk vooral overeenkomsten in de kennisgraaf en geen specifieke biologie.
-
----
-
-## Bewijs uit klinische studies
+## Klinisch trialbewijs
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
----
-
-## Bewijs uit de literatuur
+## Literatuurbewijs
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Review | Medical Science Monitor | Overzicht van componenten van gecombineerde orale anticonceptiva bij acne, hirsutisme, migraine en dysmenorroe. Bij menstruatiegerelateerde hoofdpijn is verbetering mogelijk, vooral met het 28/0-schema. Gebruik bij migraine met aura is gecontra-indiceerd. Niet specifiek voor lynestrenol. |
-| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Case-serie / ongecontroleerd rapport | Svenska Läkartidningen | Rapport over profylactische behandeling van migraine met lynestrenol (Orgametril). Methodologisch zwak naar huidige maatstaven; geen samenvatting beschikbaar. |
-| [12276956](https://pubmed.ncbi.nlm.nih.gov/12275956/) | 1974 | Review / narratief artikel | Contraception, Fertilité, Sexualité | Artikel over lage doseringen bij orale anticonceptie. Slechts indirect relevant. |
+| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Caseserie / ongecontroleerd klinisch rapport | Svenska lakartidningen | Beschrijft de profylactische behandeling van migraine met lynestrenol (Orgametril). Er is geen samenvatting beschikbaar, dus de resultaten zijn niet te beoordelen. |
+| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Review | Medical Science Monitor | Vergelijkt de componenten van gecombineerde orale anticonceptiva bij acne, hirsutisme, migraine en dysmenorroe. Bij migraine met aura zijn ze gecontra-indiceerd. Bij hoofdpijn gekoppeld aan de menstruatiecyclus is verbetering mogelijk, vooral met het 28/0-schema. Het artikel gaat niet specifiek over lynestrenol. |
 
----
+**Toelichting bewijsniveau:** alleen het rapport uit 1963 onderzocht lynestrenol bij migraine zelf, en dat is een ongecontroleerde caseserie zonder beschikbare samenvatting. Daarom is L4 een bovengrens en is het bewijs in de praktijk zwak.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118686//00278 | Orgametril 5 mg, tabletten | Tabletten (volgens productnaam) | Niet vermeld; vergunning doorgehaald |
-
----
+| RVG 118686//00278 | Orgametril 5 mg, tabletten | Tabletten | Niet vermeld in de verzamelde gegevens |
 
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor veiligheidsinformatie. Voor dit middel zijn in de samengestelde gegevens geen waarschuwingen, contra-indicaties of geneesmiddelinteracties gevonden.
+Voor dit product zijn in de verzamelde gegevens geen waarschuwingen, contra-indicaties of interacties beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB voor veiligheidsinformatie.
 
-Wel relevant uit de literatuur: oestrogeenbevattende anticonceptiva zijn gecontra-indiceerd bij migraine met aura vanwege een verhoogd risico op een herseninfarct.
-
----
+Uit de literatuur komt één aandachtspunt: gecombineerde oestrogeenhoudende anticonceptiva zijn bij migraine met aura gecontra-indiceerd. Lynestrenol is een zuiver progestageen. Voor deze groep ontbreken echter specifieke gegevens.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Het enige lynestrenol-specifieke bewijs is een ongecontroleerd rapport uit 1963 en er zijn geen geregistreerde klinische studies. Het middel is bovendien niet meer op de Nederlandse markt, wat praktische ontwikkeling beperkt. De voorspelling is te beschouwen als een onderzoeksvraag voor hormoongevoelige migraine.
+- Het bewijs bestaat uit een hoge modelscore, een recent algemeen overzichtsartikel en een caseserie uit 1963. Er zijn geen gecontroleerde studies.
+- De veiligheidsgegevens zijn onvolledig.
 
-**Om verder te gaan is het volgende nodig:**
-- De waarschuwingen en contra-indicaties uit de bijsluiter/SmPC van het CBG-MEB ophalen (blokkerende datalacune voor de veiligheidsscreening)
-- Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld uit DrugBank)
-- Moderne gecontroleerde evidentie of een pilotstudie met uitsluitend een progestageen bij menstruatiegerelateerde migraine
-- Beoordeling van het strokerisico en een eventuele alternatieve, nog verkrijgbare progestageenformulering
+**Om verder te gaan is nodig:**
+- De SmPC en bijsluiter van het CBG-MEB verwerken (waarschuwingen, contra-indicaties, goedgekeurde indicatie).
+- Gegevens over het werkingsmechanisme ophalen uit DrugBank.
+- Het rapport uit 1963 inhoudelijk beoordelen en systematisch zoeken naar moderne studies met progestageen bij menstruatiegerelateerde migraine.
+- Een veiligheidsbeoordeling uitvoeren voor patiënten met migraine met aura (risico op ischemische beroerte).
+- Zo nodig een gecontroleerde pilotstudie bij menstruatiegerelateerde migraine overwegen.
+
+**Overige voorspellingen:** voor migraine met hersenstamaura, slapeloosheid en lepra is geen direct studiebewijs gevonden (bewijsniveau L5, besluit Hold). Voor lepra is geen aannemelijk mechanistisch verband gevonden.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

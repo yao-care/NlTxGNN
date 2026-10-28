@@ -48,10 +48,10 @@ Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de verzamelde gegevens |
 | Voorspelde nieuwe indicatie | Gastroparese |
-| TxGNN-voorspellingsscore | 99,42% |
+| TxGNN-voorspellingsscore | 0,9942 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,7 +62,7 @@ Gegevens over het oorspronkelijke werkingsmechanisme van arginine zijn in de ver
 
 Preklinisch onderzoek ondersteunt dit verband. Glucocorticoïd-geïnduceerde gastroparese bij muizen werd gekoppeld aan uitputting van L-arginine (PMID 25057793). Bij een rattenmodel van de ziekte van Parkinson is verstoorde nitrerge relaxatie van de pylorussfincter beschreven (PMID 35380456). Bij diabetische BB-ratten werd myenterische neuropathie met verlies van nNOS-neuronen vastgesteld (PMID 18312542). Dit wijst op een plausibele, maar onbewezen grondslag voor suppletie van het substraat.
 
-Er is ook een belangrijke kanttekening: als nNOS-neuronen verloren zijn gegaan, herstelt extra substraat de functie mogelijk niet. De hoge TxGNN-score (0,994) is uitsluitend een computationele voorspelling en geen klinisch bewijs. Voor arginine bij gastroparese zijn geen humane gegevens aangeleverd.
+Er is ook een belangrijke kanttekening: als nNOS-neuronen verloren zijn gegaan, herstelt extra substraat de functie mogelijk niet. De hoge TxGNN-score (0,9942) is uitsluitend een computationele voorspelling en geen klinisch bewijs. Voor arginine bij gastroparese zijn geen humane gegevens aangeleverd.
 
 ---
 
@@ -94,10 +94,10 @@ Opmerking: geen van deze publicaties is een gerandomiseerde studie bij mensen, e
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113026 | Aminoplasmal B. Braun 10% E, oplossing voor infusie (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
-| RVG 115554 | Nutriflex Lipid peri, 32 g/l + 64 g/l, emulsie voor infusie (doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 113026 | Aminoplasmal B. Braun 10% E, oplossing voor infusie (geldig) | Niet beschikbaar | Niet beschikbaar |
+| RVG 115554 | Nutriflex Lipid peri, 32 g/l + 64 g/l, emulsie voor infusie (geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; er is momenteel geen geldige vergunning.
+Van de 2 registraties bij het CBG-MEB zijn er 2 geldig; het middel is momenteel op de markt.
 
 ---
 

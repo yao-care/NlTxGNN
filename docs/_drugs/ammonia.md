@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Ammonia: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Psoriasis, parapsoriasis, acne, seborroïsch eczeem…"
 monitor_inn: "ammonia"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
+last_modified_at: 2026-10-27
+description: "Ammonia: voorspelde nieuwe indicatie acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ammonia
@@ -33,86 +33,79 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 
 </div>
 
-## Ammoniak: Van psoriasis en andere huidaandoeningen naar acrodermatitis chronica atrophicans
+## Ammoniak: lokaal toegepaste stof zonder beschikbare werkingsmechanismedata → acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Ammoniak staat in de kennisgrafiek van TxGNN vermeld bij huidaandoeningen zoals psoriasis, acne en seborroïsch eczeem. Het model voorspelt dat het werkzaam zou kunnen zijn bij **acrodermatitis chronica atrophicans**, maar er zijn **geen klinische studies** en **geen publicaties** gevonden die deze voorspelling ondersteunen. Het bewijs berust dus uitsluitend op de modelvoorspelling.
+Ammoniak (DrugBank DB11118) is een stof waarvan de oorspronkelijke registratie-indicatie niet in de lokale gegevens is vastgelegd. Het TxGNN-model voorspelt een mogelijk effect bij **acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans)**, maar er zijn **geen klinische studies** en **geen publicaties** gevonden die deze richting ondersteunen.
+
+---
 
 ## Snel overzicht
 
-| Item | Inhoud |
+| Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Psoriasis, parapsoriasis, acne, seborroïsch eczeem, pityriasis simplex, seborroïsche keratose, keratinisatiestoornissen (afkomstig uit de TxGNN-kennisgrafiek, niet uit een Nederlandse productinformatietekst) |
-| Voorspelde nieuwe indicatie | Acrodermatitis chronica atrophicans |
-| TxGNN-voorspellingsscore | 99,70% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans) |
+| TxGNN-voorspellingsscore | 0,9970 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (cancelled only) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
-## Waarom is deze voorspelling aannemelijk?
+---
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme van ammoniak beschikbaar. Er kan daarom geen mechanistische analyse worden gemaakt.
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Acrodermatitis chronica atrophicans is een laat stadium van een huidinfectie met *Borrelia* (een spirocheetinfectie) en wordt behandeld met antibiotica. De bekende dermatologische toepassingen van ammoniak (verhoornings- en ontstekingsaandoeningen van de huid) hebben weinig pathofysiologie gemeen met deze infectie. Een plausibel verband is daarom niet zichtbaar. De hoge score is vermoedelijk het gevolg van nabijheid in de kennisgrafiek en niet van een aangetoond effect.
+Er zijn momenteel geen gegevens over het werkingsmechanisme van ammoniak beschikbaar, waardoor een mechanistische analyse niet mogelijk is.
 
-Ook de overige voorspellingen met een vergelijkbare score zijn niet onderbouwd:
+Acrodermatitis chronica atrophicans is een laat-stadium huidmanifestatie van een Borrelia-infectie en wordt behandeld met antibiotica. De dermatologische toepassingen van ammoniak (huidaandoeningen met verhoorning of ontsteking) delen weinig pathofysiologie met een spirocheteninfectie. Een plausibele koppeling is daarom niet zichtbaar. De hoge score van 0,9970 is een modelvoorspelling en geen aanwijzing voor werkzaamheid.
 
-| Voorspelde indicatie | Score | Beoordeling |
-|------|------|------|
-| Neonatale dermatomyositis | 99,64% | Geen mechanisme bekend. Systemisch ammoniak is een toxische stofwisselingsproduct, wat een veiligheidsrisico geeft bij pasgeborenen. |
-| Acne keloidalis | 99,63% | Waarschijnlijk afgeleid via acne, een bestaande indicatie. Niet gevalideerd. |
-| Secundaire interstitiële longziekte bij kinderen bij bindweefselziekte | 99,61% | Ammoniak is een luchtwegirritant. Een longindicatie is onwaarschijnlijk en brengt veiligheidsrisico's mee. |
-| Amyopathische dermatomyositis | 99,60% | Auto-immuunziekte zonder bekende route via ammoniak. |
-| Hydroa vacciniforme, familiair | 99,56% | Lichtgevoeligheidsstoornis, vaak gekoppeld aan EBV. Er is geen aanwijsbare rationale. |
+---
 
 ## Bewijs uit klinische studies
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+---
 
 ## Bewijs uit de literatuur
 
-Er is momenteel geen gerelateerde literatuur beschikbaar.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109655 (ingetrokken) | Temozolomide Fair-Med 100mg, capsules, hard | Niet vermeld | Niet vermeld |
+| RVG 109655 | Temozolomide Fair-Med 100mg, Capsules harde | Niet vermeld | Niet vermeld |
 
-Let op: dit is de enige vergunning die in de samengestelde gegevens aan ammoniak is gekoppeld. De productnaam (temozolomide) wijst op een ander werkzaam bestanddeel. Deze koppeling is waarschijnlijk een fout in de gegevensbron en moet worden gecontroleerd. De vergunning is bovendien ingetrokken, dus er is momenteel geen geldig product met ammoniak in de CBG-MEB-gegevens.
+Let op: dit is de enige in de gegevens opgenomen vergunning. De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze vergunning zegt niets over een geregistreerd gebruik van ammoniak. De vergunningsgegevens zijn zoals aangeleverd en bevatten geen indicatietekst.
+
+---
 
 ## Veiligheidsoverwegingen
 
-Voor ammoniak zijn in de samengestelde gegevens geen waarschuwingen of contra-indicaties uit de productinformatie beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie. Voor de gegevens van het CBG-MEB zijn de bijsluitertekst met waarschuwingen en contra-indicaties en de gegevens over geneesmiddelinteracties niet beschikbaar in de samengestelde gegevens.
 
-De TxGNN-kennisgrafiek vermeldt wel contra-indicaties bij de volgende aandoeningen. Dit zijn grafiekrelaties en geen tekst uit een officiële bijsluiter:
+Aanvullend: systemische blootstelling aan ammoniak is toxisch en inhalatie kan de longen beschadigen. Dit is een belangrijk aandachtspunt bij elk niet-topicaal gebruik.
 
-- Anogenitale humaan papillomavirusinfectie
-- Gewone wrat
-- Diabetes mellitus
-- Diabetische ketoacidose
-- Dermatitis
-- Perifeer vaatlijden, intermitterende claudicatio en perifere arteriële ziekte
-
-Er zijn geen geneesmiddelinteracties gevonden.
+---
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op een kennisgrafiek (bewijsniveau L5). Er zijn geen klinische studies of publicaties en er is geen plausibel mechanisme.
-- Bij meerdere van de voorspelde indicaties (pasgeborenen, long) zijn er bovendien veiligheidsrisico's, en de enige vergunning in de gegevens is ingetrokken en lijkt onjuist gekoppeld.
+- Er is alleen een modelvoorspelling (bewijsniveau L5), zonder klinische studies, literatuur of mechanistische onderbouwing. De aandoening is een infectieziekte met een gevestigde antibiotische behandeling.
 
-**Om verder te gaan is het volgende nodig:**
-- Controle van de vergunningskoppeling (RVG 109655) en vaststelling of er een geldig ammoniakproduct op de Nederlandse markt is
-- Productinformatie (SmPC) van CBG-MEB met waarschuwingen en contra-indicaties; dit blokkeert de veiligheidsscreening
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Een gerichte literatuur- en studiezoekopdracht, plus beoordeling van de toedieningsroute
-- Een mechanistische onderbouwing voordat een indicatie verder wordt onderzocht
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme van ammoniak (DrugBank)
+- De SmPC/bijsluiter met waarschuwingen en contra-indicaties van het CBG-MEB
+- Een beoordeling of er überhaupt een biologisch plausibele route is naar acrodermatitis chronica atrophicans
+- Preklinisch of mechanistisch onderzoek voordat klinische evaluatie wordt overwogen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -6,9 +6,9 @@ nav_order: 262
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Oxytetracycline: voorspelde nieuwe indicatie Chronische rinosinusitis (bewijsniveau L5). Oorspronkelijke indicatie: Urineweginfectie"
 monitor_inn: "oxytetracycline"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "punctate epithelial keratoconjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
+description: "Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxytetracycline
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Oxytetracycline: Van urineweginfectie naar chronische rinosinusitis
+## Oxytetracycline: Chronic rhinosinusitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Oxytetracycline is een antibioticum uit de tetracyclinegroep. Het wordt van ouds
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Urineweginfectie (en o.a. bronchitis, pneumonie, conjunctivitis, faryngitis; afkomstig uit de kennisgraaf, want de geregistreerde indicatietekst ontbreekt) |
-| Voorspelde nieuwe indicatie | Chronische rinosinusitis |
-| TxGNN-voorspellingsscore | 99,61% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Chronic rhinosinusitis |
+| TxGNN-voorspellingsscore | 0.9961 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal registraties | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal registraties | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,10 +82,10 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor chronische rinosin
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | — (doorgehaald) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | — (doorgehaald) |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | — (geldig) |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | — (geldig) |
 
-Beide registraties zijn doorgehaald. Er is dus momenteel geen geldige registratie van oxytetracycline bij het CBG-MEB in de gebruikte gegevens, wat de praktische ontwikkeling op korte termijn beperkt.
+Beide registraties zijn doorgehaald.
 
 ---
 
@@ -109,7 +109,7 @@ De registratietekst (SmPC) was voor dit rapport niet beschikbaar. Raadpleeg de S
 - Er is alleen een modelvoorspelling (L5) zonder klinische studies of literatuur voor chronische rinosinusitis. Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald.
 - Het ontbreken van registratietekst over waarschuwingen en contra-indicaties is een blokkerend hiaat voor een veiligheidsscreening.
 
-**Opmerking over andere voorspellingen:** de enige voorspelde indicatie met literatuur is **otitis externa** (score 99,27%, evidentieniveau L3). Het gaat om oudere studies met topische combinatiepreparaten van oxytetracycline, polymyxine B en hydrocortison, bijvoorbeeld [PMID 2415098](https://pubmed.ncbi.nlm.nih.gov/2415098/) (gerandomiseerd, 1985, geen significant verschil met framycetine/gramicidine), [PMID 2156538](https://pubmed.ncbi.nlm.nih.gov/2156538/) (1990) en [PMID 8222746](https://pubmed.ncbi.nlm.nih.gov/8222746/) (1993, vergelijking met ciprofloxacine). De bijdrage van oxytetracycline zelf is daarin moeilijk te isoleren, en uit een studie met een steroïd zonder antibioticum ([PMID 15949095](https://pubmed.ncbi.nlm.nih.gov/15949095/)) blijkt dat een steroïd alleen mogelijk ook effectief is. Dit past bij een onderzoeksvraag en niet bij een directe ontwikkelbeslissing.
+**Opmerking over andere voorspellingen:** de enige voorspelde indicatie met literatuur is **otitis externa** (score 0,9927, evidentieniveau L3). Het gaat om oudere studies met topische combinatiepreparaten van oxytetracycline, polymyxine B en hydrocortison, bijvoorbeeld [PMID 2415098](https://pubmed.ncbi.nlm.nih.gov/2415098/) (gerandomiseerd, 1985, geen significant verschil met framycetine/gramicidine), [PMID 2156538](https://pubmed.ncbi.nlm.nih.gov/2156538/) (1990) en [PMID 8222746](https://pubmed.ncbi.nlm.nih.gov/8222746/) (1993, vergelijking met ciprofloxacine). De bijdrage van oxytetracycline zelf is daarin moeilijk te isoleren, en uit een studie met een steroïd zonder antibioticum ([PMID 15949095](https://pubmed.ncbi.nlm.nih.gov/15949095/)) blijkt dat een steroïd alleen mogelijk ook effectief is. Dit past bij een onderzoeksvraag en niet bij een directe ontwikkelbeslissing.
 
 **Om verder te gaan is nodig:**
 - De SmPC en bijsluiter (via het CBG-MEB) met waarschuwingen en contra-indicaties.

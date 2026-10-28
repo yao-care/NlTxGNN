@@ -6,9 +6,9 @@ nav_order: 250
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (bewijsniveau L5). Oorspronkelijke indicatie: Acromegalie, hyperpituïtarisme, carcinoïdsyndroom"
 monitor_inn: "octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
+description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Octreotide
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Octreotide: Van acromegalie naar vulvaire inverted follicular keratosis
+## Octreotide: Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Octreotide is een somatostatine-analoog die oorspronkelijk wordt gebruikt bij ac
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Acromegalie, hyperpituïtarisme, carcinoïdsyndroom (volgens de kennisgraaf; de registratietekst van de handelsvergunning is leeg) |
-| Voorspelde nieuwe indicatie | Vulvaire inverted follicular keratosis |
-| TxGNN-voorspellingsscore | 99,58% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) |
+| TxGNN-voorspellingsscore | 0.9958 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,7 +62,7 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Een mogelijk verband met de voorspelde indicatie zou een remmend effect op groeifactorsignalering (zoals IGF-1/EGFR) of op de proliferatie van keratinocyten kunnen zijn. Dit is **speculatief** en wordt door geen enkel gegeven ondersteund. Inverted follicular keratosis is een goedaardige, zelflimiterende huidafwijking die meestal door eenvoudige excisie wordt behandeld, en de vulvaire locatie is zeer zeldzaam. De behoefte aan een systemische peptidetherapie is dus zeer laag.
 
-De tweede voorspelling, seborrheic keratosis (score 99,55%), is eveneens een veelvoorkomende goedaardige afwijking met effectieve lokale behandelingen (cryotherapie, curettage, waterstofperoxide topisch). De bijna identieke scores en de gelijksoortige ziekteklasse wijzen er mogelijk op dat de voorspellingen voortkomen uit een gedeelde omgeving in de kennisgraaf (goedaardige epidermale neoplasie) en niet uit een geneesmiddelspecifiek signaal.
+De tweede voorspelling, seborrheic keratosis (score 0,9955), is eveneens een veelvoorkomende goedaardige afwijking met effectieve lokale behandelingen (cryotherapie, curettage, waterstofperoxide topisch). De bijna identieke scores en de gelijksoortige ziekteklasse wijzen er mogelijk op dat de score van het TxGNN-model (deep learning) overeenkomsten weerspiegelt die het model heeft geleerd tussen verwante ziekten (goedaardige epidermale neoplasie), en niet op biologisch bewijs of een geneesmiddelspecifiek signaal.
 
 ---
 
@@ -82,9 +82,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120241//18236 | Sandostatine LAR 20 mg | Niet vermeld | Niet vermeld (status: doorgehaald) |
+| RVG 120241//18236 | Sandostatine LAR 20 mg | Niet vermeld | Niet vermeld (status: geldig) |
 
-Er is één vergunning, en deze is doorgehaald. Er is dus geen geldige handelsvergunning voor octreotide in de voor dit rapport samengestelde data.
+Er is één vergunning, en deze is doorgehaald.
 
 ---
 

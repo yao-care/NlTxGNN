@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Perindopril
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 266
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (bewijsniveau L4). Oorspronkelijke indicatie: Hypertensie (hypertensieve aandoening)"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Perindopril
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **5**
 
 </div>
 
-## Perindopril: Van hypertensie naar maligne hypertensieve nierziekte
+## Perindopril: Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,11 +46,11 @@ Perindopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandel
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertensie (hypertensieve aandoening) |
-| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte |
-| TxGNN-voorspellingsscore | 99,77% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
+| TxGNN-voorspellingsscore | 0.9977 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: minstens 20) |
 | Aantal handelsvergunningen | 20 (alle doorgehaald) |
 | Aanbevolen besluit | Hold |
 
@@ -66,10 +66,10 @@ De voorspelde indicatie is in essentie een uitbreiding van de bestaande indicati
 
 | Voorspelde indicatie | Score | Bewijsniveau | Kanttekening |
 |------|------|------|------|
-| Maligne renovasculaire hypertensie | 99,77% | L5 | Mechanistisch plausibel (RAS-activatie), maar ACE-remmers kunnen de nierfunctie acuut verslechteren bij bilaterale nierarteriestenose of stenose bij een solitaire nier |
-| Pulmonale hypertensie door longziekte en/of hypoxie | 99,75% | L4 | Alleen dierstudies (hypoxische ratten); systemische vaatverwijding kan de ventilatie-perfusieverhouding verslechteren |
-| Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 99,75% | L5 | Alleen modelvoorspelling |
-| Braddock-syndroom | 99,66% | L5 | Geen mechanistische link; waarschijnlijk een artefact van de grafstructuur |
+| Maligne renovasculaire hypertensie | 0,9977 | L5 | Mechanistisch plausibel (RAS-activatie), maar ACE-remmers kunnen de nierfunctie acuut verslechteren bij bilaterale nierarteriestenose of stenose bij een solitaire nier |
+| Pulmonale hypertensie door longziekte en/of hypoxie | 0,9975 | L5 | Alleen dierstudies (hypoxische ratten); systemische vaatverwijding kan de ventilatie-perfusieverhouding verslechteren |
+| Pulmonale hypertensie met onduidelijk multifactorieel mechanisme | 0,9975 | L5 | Alleen modelvoorspelling |
+| Braddock-syndroom | 0,9966 | L5 | Geen mechanistische link; waarschijnlijk een artefact van de grafstructuur |
 
 ---
 
@@ -93,15 +93,15 @@ Voor de pulmonale-hypertensie-indicatie zijn twee dierstudies in hypoxische ratt
 
 ## Marktinformatie Nederland
 
-Alle 20 in de data opgenomen vergunningen zijn doorgehaald; er is geen geldige registratie van perindopril als enkelvoudig middel of combinatiepreparaat. Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens. Hieronder staan de eerste 5 vergunningen.
+Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens. Hieronder staan de eerste 5 vergunningen.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|-----------|
-| RVG 117516//31959 | Coversyl arg 10 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 108763 | Perindopril tert-butylamine Mylan 8 mg, tabletten | Doorgehaald |
-| RVG 116528 | Bipressil 10 mg/5 mg filmomhulde tabletten | Doorgehaald |
-| RVG 107064 | Perindopril arginine/Indapamide Mylan 5/1,25 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 114414 | Prestalia 7 mg/5 mg, tabletten | Doorgehaald |
+| RVG 117516//31959 | Coversyl arg 10 mg, filmomhulde tabletten | Geldig |
+| RVG 108763 | Perindopril tert-butylamine Mylan 8 mg, tabletten | Geldig |
+| RVG 116528 | Bipressil 10 mg/5 mg filmomhulde tabletten | Geldig |
+| RVG 107064 | Perindopril arginine/Indapamide Mylan 5/1,25 mg, filmomhulde tabletten | Geldig |
+| RVG 114414 | Prestalia 7 mg/5 mg, tabletten | Geldig |
 
 ---
 
@@ -122,14 +122,13 @@ Raadpleeg de SmPC voor de officiële waarschuwingen en contra-indicaties.
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust op een modelscore zonder klinische studies of direct relevante literatuur. De score weerspiegelt waarschijnlijk de nabijheid tot de bestaande hypertensie-indicatie. Daarnaast zijn alle Nederlandse registraties doorgehaald en ontbreken officiële veiligheidsgegevens, wat het volgende stadium van veiligheidsscreening blokkeert.
+- De voorspelling berust op een modelscore zonder klinische studies of direct relevante literatuur. De score weerspiegelt waarschijnlijk de nabijheid tot de bestaande hypertensie-indicatie.
 
 **Om verder te gaan is nodig:**
 - Officiële waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (blokkerend gegevensgat).
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank).
 - Gerichte literatuursearch en klinische studies naar ACE-remmers bij maligne hypertensieve nefropathie.
 - Een beoordeling van de veiligheid bij nierarteriestenose en een solitaire nier.
-- Opheldering over de regelgevende status, aangezien er geen geldige Nederlandse registratie is.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

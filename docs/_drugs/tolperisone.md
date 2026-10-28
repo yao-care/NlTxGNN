@@ -6,9 +6,9 @@ nav_order: 324
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de indicatietekst van de vergunning…"
 monitor_inn: "tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
+description: "Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tolperisone
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tolperisone: Van een spierrelaxans naar Laubry-Pezzi-syndroom
+## Tolperisone: Laubry-Pezzi syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tolperisone is een centraal werkende spierrelaxans die sodium- en calciumkanalen
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de indicatietekst van de vergunning is leeg) |
-| Voorspelde nieuwe indicatie | Laubry-Pezzi-syndroom |
-| TxGNN-voorspellingsscore | 99,92% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Laubry-Pezzi syndrome |
+| TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (geen geldige vergunning) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,7 +62,7 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Het Laubry-Pezzi-syndroom is een aangeboren structurele hartafwijking (ventrikelseptumdefect met aortaklepinsufficiëntie) waarvoor chirurgische correctie nodig is. Er is **geen mechanistisch verband** gevonden tussen de werking van tolperisone en deze aandoening. De hoge TxGNN-score lijkt een artefact van de grafstructuur van het model, zonder farmacologische rationale.
 
-Ook de overige negen voorspelde indicaties met de hoogste scores (waaronder het Pierre Robin-syndroom, orofaciale schisis, mitralisklepaandoening, pulmonalisklepaandoening, hartziekte en het septumaneurysma) zijn aangeboren of structurele aandoeningen zonder plausibel aangrijpingspunt voor tolperisone. De scores liggen alle rond 99,91–99,92%.
+Ook de overige negen voorspelde indicaties met de hoogste scores (waaronder het Pierre Robin-syndroom, orofaciale schisis, mitralisklepaandoening, pulmonalisklepaandoening, hartziekte en het septumaneurysma) zijn aangeboren of structurele aandoeningen zonder plausibel aangrijpingspunt voor tolperisone. De scores liggen alle rond 99,91–0,9992.
 
 ---
 
@@ -87,7 +87,7 @@ Voor andere voorspelde indicaties zijn enkele publicaties gekoppeld, maar die le
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning geldig) |
 
 ---
 
@@ -102,7 +102,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is geen klinisch of literatuurbewijs, geen mechanistisch verband en in Nederland geen geldige handelsvergunning. De voorspelling is uitsluitend computationeel (bewijsniveau L5).
+- De voorspelling is uitsluitend computationeel (bewijsniveau L5).
 
 **Om verder te gaan is het volgende nodig:**
 - Een geldig farmacologisch of mechanistisch uitgangspunt dat tolperisone met de aandoening verbindt

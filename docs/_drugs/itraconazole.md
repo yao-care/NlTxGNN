@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Itraconazole
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 188
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (bewijsniveau L4). Oorspronkelijke indicatie: Systemische schimmelinfecties (o.a. candidiasis, aspergillose…"
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-## Itraconazol: Van systemische schimmelinfecties naar pneumocystose
+## Itraconazole: Pneumocystose (pneumocystosis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Itraconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt vo
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Systemische schimmelinfecties (o.a. candidiasis, aspergillose, histoplasmose, blastomycose, coccidioidomycose, sporotrichose) |
-| Voorspelde nieuwe indicatie | Pneumocystose |
-| TxGNN-voorspellingsscore | 99,34% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pneumocystose (pneumocystosis) |
+| TxGNN-voorspellingsscore | 0.9934 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,7 +62,7 @@ Itraconazol remmt het schimmelenzym lanosterol-14-alfa-demethylase (CYP51) en bl
 
 *Pneumocystis jirovecii* heeft in zijn celmembraan echter nauwelijks ergosterol en gebruikt cholesterol en andere sterolen. Het belangrijkste doelwit van azolen ontbreekt dus grotendeels, waardoor de mechanistische onderbouwing zwak is.
 
-De hoge score (0,993) weerspiegelt waarschijnlijk de nabijheid in het kennisnetwerk tot andere schimmelinfecties waarvoor itraconazol al is geïndiceerd (histoplasmose, aspergillose, candidiasis), en niet een echte farmacologische relatie. De gevonden literatuur bestaat vooral uit algemene overzichten over profylaxe en opportunistische infecties bij transplantatie-, hiv- en neutropenische patiënten, waarin itraconazol wordt besproken tegen andere schimmels (Aspergillus, Histoplasma) en niet tegen Pneumocystis.
+De hoge score (0,9934) weerspiegelt waarschijnlijk de nabijheid in het kennisnetwerk tot andere schimmelinfecties waarvoor itraconazol al is geïndiceerd (histoplasmose, aspergillose, candidiasis), en niet een echte farmacologische relatie. De gevonden literatuur bestaat vooral uit algemene overzichten over profylaxe en opportunistische infecties bij transplantatie-, hiv- en neutropenische patiënten, waarin itraconazol wordt besproken tegen andere schimmels (Aspergillus, Histoplasma) en niet tegen Pneumocystis.
 
 Standaardbehandeling en -profylaxe van pneumocystose is trimethoprim-sulfamethoxazol, met als alternatieven pentamidine, atovaquon en primaquine-clindamycine. Itraconazol is geen erkende optie.
 
@@ -99,7 +99,7 @@ Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toediening
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | Doorgehaald |
+| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | Geldig |
 
 ---
 
@@ -124,7 +124,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het mechanistische doelwit van itraconazol (ergosterolsynthese) ontbreekt grotendeels bij *Pneumocystis jirovecii*, er zijn geen klinische studies en de literatuur ondersteunt itraconazol niet als behandeling van pneumocystose. De hoge TxGNN-score lijkt een netwerkartefact. Bovendien bestaan er goed gevestigde standaardtherapieën (trimethoprim-sulfamethoxazol, pentamidine, atovaquon, primaquine-clindamycine) en is er in Nederland geen geldige registratie.
+- Het mechanistische doelwit van itraconazol (ergosterolsynthese) ontbreekt grotendeels bij *Pneumocystis jirovecii*, er zijn geen klinische studies en de literatuur ondersteunt itraconazol niet als behandeling van pneumocystose. De hoge TxGNN-score lijkt een netwerkartefact.
 
 **Om verder te gaan is het volgende nodig:**
 - Preklinisch of in-vitro bewijs dat itraconazol activiteit heeft tegen *Pneumocystis jirovecii*

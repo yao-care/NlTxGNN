@@ -49,10 +49,10 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **amenorroe**, maar d
 |------|------|
 | Oorspronkelijke indicatie | Endometriose (de goedkeuringstekst van de indicatie is niet beschikbaar in de samengestelde gegevens) |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Evidentieniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -63,7 +63,7 @@ Goserelin is een GnRH-agonist. Het onderdrukt de hypofyse-gonadale as, waardoor 
 
 De voorspelling moet echter met grote voorzichtigheid worden gelezen. Amenorroe is bij goserelin een **verwacht gevolg** van de onderdrukking van de eierstokfunctie, geen aandoening die ermee wordt verholpen. Het middel veroorzaakt amenorroe juist, in plaats van het te behandelen. De hoge score weerspiegelt waarschijnlijk de bekende associatie tussen het middel en amenorroe als effect. Een mechanistische basis om amenorroe als behandeldoel te beschouwen ontbreekt dus.
 
-Daarnaast voorspelt het model twee verwante aandoeningen: *renale hypoplasie* (score 99,06%) en *bilaterale renale hypoplasie* (score 99,06%). Voor beide is geen mechanistische link, klinische studie of literatuur gevonden, en ze moeten als één overlappende hypothese worden beschouwd. Beide hebben evidentieniveau L5 en de aanbeveling Hold.
+Daarnaast voorspelt het model twee verwante aandoeningen: *renale hypoplasie* (score 0,9906) en *bilaterale renale hypoplasie* (score 0,9906). Voor beide is geen mechanistische link, klinische studie of literatuur gevonden, en ze moeten als één overlappende hypothese worden beschouwd. Beide hebben evidentieniveau L5 en de aanbeveling Hold.
 
 ---
 
@@ -89,7 +89,7 @@ Momenteel is er geen relevante literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119118//12277 | Zoladex 3,6 mg, implantatiestaafje | Implantatiestaafje (volgens productnaam) | Niet beschikbaar |
 
-Deze registratie is doorgehaald (status: cancelled). Er is momenteel geen geldige vergunning voor een enkelvoudig product of combinatieproduct in de samengestelde gegevens. Controleer de actuele situatie bij het CBG-MEB.
+Deze registratie is in de samengestelde gegevens als in de handel gebracht aangemerkt: 1 van de 1 vergunningen is geldig. Controleer de actuele situatie bij het CBG-MEB.
 
 ---
 

@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Zuclopenthixol: Van schizofrenie naar retinale dystrofie
+## Zuclopenthixol: Van schizofrenie naar retinale dystrofie met of zonder extraoculaire afwijkingen
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,10 +48,10 @@ Zuclopenthixol is een antipsychoticum (thioxantheen) dat oorspronkelijk wordt ge
 |------|------|
 | Oorspronkelijke indicatie | Schizofrenie |
 | Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen geschrapt (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119731//04295 | Cisordinol 10 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar |
 
-Deze vergunning is geschrapt; er is geen geldige vergunning voor een enkelvoudig of gecombineerd product (CBG-MEB).
+Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en het product is op de markt (CBG-MEB).
 
 ---
 

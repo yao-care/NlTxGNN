@@ -48,10 +48,10 @@ Fexofenadine is een selectieve perifere histamine-H1-receptorantagonist, oorspro
 |------|------|
 | Oorspronkelijke indicatie | Allergische rinitis, vasomotore rinitis, atopische/papillaire/vernale conjunctivitis, idiopathische urticaria (op basis van de kennisgraaf; de geregistreerde indicatietekst is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Rosacea-conjunctivitis |
-| TxGNN-voorspellingsscore | 99,85% |
+| TxGNN-voorspellingsscore | 0,9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (cancelled) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,7 +82,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten (status: ingetrokken) | Niet beschikbaar | Niet beschikbaar |
+| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
 ---
 

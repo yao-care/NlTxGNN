@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydromorphone
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 180
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Hydromorphone: voorspelde nieuwe indicatie Faryngitis (bewijsniveau L4). Oorspronkelijke indicatie: Verkoudheid en nasofaryngitis (volgens de kennisgraaf"
 monitor_inn: "hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
+description: "Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Hydromorphone
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-## Hydromorfon: Van verkoude­nheid/nasofaryngitis naar faryngitis
+## Hydromorphone: Pharyngitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Hydromorfon is een opioïde pijnstiller (mu-opioïdagonist). In de kennisgraaf van het TxGNN-model is het gekoppeld aan de indicaties verkoudheid en nasofaryngitis. Het model voorspelt een mogelijk effect bij **faryngitis**, maar daarvoor zijn **geen direct passende klinische gegevens**: de 3 gevonden trials betreffen pijn na een keelamandeloperatie en er is **geen literatuur** over faryngitis zelf.
+Hydromorfon is een opioïde pijnstiller (mu-opioïdagonist). Het model voorspelt een mogelijk effect bij **faryngitis**, maar daarvoor zijn **geen direct passende klinische gegevens**: de 3 gevonden trials betreffen pijn na een keelamandeloperatie en er is **geen literatuur** over faryngitis zelf.
 
 ---
 
@@ -46,12 +46,12 @@ Hydromorfon is een opioïde pijnstiller (mu-opioïdagonist). In de kennisgraaf v
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Verkoudheid en nasofaryngitis (volgens de kennisgraaf; de Nederlandse vergunning vermeldt geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Faryngitis |
-| TxGNN-voorspellingsscore | 99,81% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pharyngitis |
+| TxGNN-voorspellingsscore | 0.9981 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---
@@ -62,7 +62,7 @@ Er zijn voor dit rapport geen gegevens over het werkingsmechanisme beschikbaar. 
 
 De hoge score (0,998) weerspiegelt waarschijnlijk de koppeling met de oorspronkelijke indicaties (verkoudheid/nasofaryngitis) en de nabijheid in het netwerk, niet een gevalideerd therapeutisch mechanisme. De drie gevonden trials gaan over postoperatieve pijn na tonsillectomie, een andere situatie dan infectieuze faryngitis.
 
-Voor de overige voorspellingen is de onderbouwing eveneens zwak: allergische urticaria (opioïden kunnen juist histaminevrijgave en jeuk veroorzaken), aandoeningen van de neusholte en acute laryngofaryngitis (geen bewijs, risico op ademhalingsdepressie), en trigeminale autonome cefalalgie (geen bewijs; opioïden worden niet aanbevolen). Hoofdpijnaandoeningen (score 99,65%) hebben wel klinische gegevens, maar die ondersteunen gebruik niet als voorkeursbehandeling (zie hieronder).
+Voor de overige voorspellingen is de onderbouwing eveneens zwak: allergische urticaria (opioïden kunnen juist histaminevrijgave en jeuk veroorzaken), aandoeningen van de neusholte en acute laryngofaryngitis (geen bewijs, risico op ademhalingsdepressie), en trigeminale autonome cefalalgie (geen bewijs; opioïden worden niet aanbevolen). Hoofdpijnaandoeningen (score 0,9965) hebben wel klinische gegevens, maar die ondersteunen gebruik niet als voorkeursbehandeling (zie hieronder).
 
 ---
 
@@ -82,7 +82,7 @@ Voor faryngitis is momenteel geen gerelateerde literatuur beschikbaar.
 
 ### Aanvullend: hoofdpijnaandoeningen (de enige voorspelling met klinisch bewijs)
 
-Bij de voorspelling "hoofdpijnaandoening" (score 99,65%, bewijsniveau L3) zijn de volgende studies het meest relevant:
+Bij de voorspelling "hoofdpijnaandoening" (score 0,9965, bewijsniveau L3) zijn de volgende studies het meest relevant:
 
 | Trialnummer / PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
@@ -101,9 +101,9 @@ Bij de voorspelling "hoofdpijnaandoening" (score 99,65%, bewijsniveau L3) zijn d
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (vergunning geldig) |
 
-Dit is de enige vergunning en is doorgehaald; er is dus momenteel geen geldig hydromorfonproduct in deze gegevens. Het CBG-MEB is de bevoegde Nederlandse autoriteit.
+Het CBG-MEB is de bevoegde Nederlandse autoriteit.
 
 ---
 

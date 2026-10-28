@@ -6,9 +6,9 @@ nav_order: 302
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sorbitol: voorspelde nieuwe indicatie Inspanningsgebonden maligne hyperthermie (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
 monitor_inn: "Sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
+description: "Sorbitol: voorspelde nieuwe indicatie Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
 ---
 
 # Sorbitol
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Sorbitol: Van onbekende oorspronkelijke indicatie naar inspanningsgebonden maligne hyperthermie
+## Sorbitol: Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Sorbitol is een suikeralcohol die als osmotisch middel wordt gebruikt. Voor dit 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de enige registratie bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Inspanningsgebonden maligne hyperthermie |
-| TxGNN-voorspellingsscore | 99,40% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia) |
+| TxGNN-voorspellingsscore | 0.9940 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Sorbitol is een suikeralcohol die als osmotisch middel wordt gebruikt. Voor dit 
 
 Voor de werkingsmechanismen van sorbitol zijn in de voor dit rapport verzamelde gegevens geen details beschikbaar. Sorbitol is bekend als suikeralcohol dat wordt gebruikt als osmotisch middel en hulpstof, bijvoorbeeld in klysma's.
 
-Een onderbouwd mechanistisch verband met de voorspelde indicatie ontbreekt. Maligne hyperthermie en inspanningsgebonden hitteziekte worden vooral gekenmerkt door ontregelde calciumafgifte in de skeletspier (via RYR1) en hypermetabolisme. Sorbitol heeft hierop geen bekende werking. Een eventueel verband, bijvoorbeeld via osmotische effecten of vochtverschuivingen, is speculatief en wordt door de beschikbare gegevens niet ondersteund. De hoge TxGNN-score (0,994) is uitsluitend een voorspelling op basis van een kennisgraaf en geen bewijs van werkzaamheid.
+Een onderbouwd mechanistisch verband met de voorspelde indicatie ontbreekt. Maligne hyperthermie en inspanningsgebonden hitteziekte worden vooral gekenmerkt door ontregelde calciumafgifte in de skeletspier (via RYR1) en hypermetabolisme. Sorbitol heeft hierop geen bekende werking. Een eventueel verband, bijvoorbeeld via osmotische effecten of vochtverschuivingen, is speculatief en wordt door de beschikbare gegevens niet ondersteund. De hoge TxGNN-score (0,994) is uitsluitend een voorspelling van het TxGNN-model (deep learning) en geen bewijs van werkzaamheid.
 
 ---
 
@@ -80,9 +80,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 107703//05069 | Microlax, klysma | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 107703//05069 | Microlax, klysma | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald. Er is dus geen geldige registratie in Nederland.
+Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald.
 
 ---
 

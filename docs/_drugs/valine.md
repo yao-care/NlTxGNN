@@ -6,9 +6,9 @@ nav_order: 337
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
+description: "Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Valine
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Valine: Van een voedingscomponent naar sclerosing cholangitis
+## Valine: Sclerosing cholangitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland all
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de enige registratie bevat geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Sclerosing cholangitis |
-| TxGNN-voorspellingsscore | 99,42% |
+| TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -83,7 +83,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115555 | Nutriflex Lipid special, 56 g/l + 144 g/l, emulsie voor infusie (doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 115555 | Nutriflex Lipid special, 56 g/l + 144 g/l, emulsie voor infusie (geldig) | Niet vermeld | Niet vermeld |
 
 ---
 
@@ -98,7 +98,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er zijn geen klinische studies en slechts twee indirecte publicaties, zonder dat valine als behandeling is getest. De hoge TxGNN-score wordt niet door klinisch bewijs ondersteund, en er is in Nederland geen geldige registratie.
+- Er zijn geen klinische studies en slechts twee indirecte publicaties, zonder dat valine als behandeling is getest.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme van valine (bijvoorbeeld via DrugBank)

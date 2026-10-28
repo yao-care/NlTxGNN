@@ -6,9 +6,9 @@ nav_order: 270
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pimozide: voorspelde nieuwe indicatie Trichotillomanie (bewijsniveau L3). Oorspronkelijke indicatie: Syndroom van Gilles de la Tourette"
 monitor_inn: "Pimozide"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
+description: "Pimozide: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Pimozide
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Pimozide: Van Gilles-de-la-Tourette-syndroom naar trichotillomanie
+## Pimozide: Trichotillomanie (trichotillomania)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Pimozide is een dopamine-D2-receptorantagonist (antipsychoticum) die oorspronkel
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Syndroom van Gilles de la Tourette (afkomstig uit de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Trichotillomanie |
-| TxGNN-voorspellingsscore | 99,996% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trichotillomanie (trichotillomania) |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,9 +95,9 @@ Ook de overige gevonden publicaties (o.a. over delusionele parasitose) zijn indi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 119412//06150 | Orap 4 mg, tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 119412//06150 | Orap 4 mg, tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Er is geen geldige handelsvergunning meer bij het CBG-MEB. Gebruik in Nederland zou dus een nieuwe registratie of een andere route (bijv. import of bereiding) vereisen.
+Gebruik in Nederland zou dus een nieuwe registratie of een andere route (bijv. import of bereiding) vereisen.
 
 ---
 

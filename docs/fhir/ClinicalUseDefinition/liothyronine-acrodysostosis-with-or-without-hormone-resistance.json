@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "acrodysostosis-with-or-without-hormone-resistance",
-          "display": "acrodysostosis with or without hormone resistance"
-        }
-      ],
-      "text": "acrodysostosis with or without hormone resistance",
       "concept": {
         "text": "acrodysostosis with or without hormone resistance"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9989
     }
   ]
 }

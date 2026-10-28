@@ -50,10 +50,10 @@ Ivabradine is een hartfrequentieverlagend middel dat de HCN-kanalen (If-stroom) 
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbreekt) |
 | Voorspelde nieuwe indicatie | Hypertrichose |
-| TxGNN-voorspellingsscore | 99,79% |
+| TxGNN-voorspellingsscore | 0,9979 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 5 (alle doorgehaald; 0 geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,17 +62,17 @@ Ivabradine is een hartfrequentieverlagend middel dat de HCN-kanalen (If-stroom) 
 
 Ivabradine remt de HCN-kanalen (If-stroom) in de sinusknoop en verlaagt zo de hartfrequentie. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens.
 
-Er is geen bekende relatie tussen HCN-kanaalremming en de regulatie van de haarfollikelcyclus of haargroei. Hypertrichose is een bekende bijwerking van sommige middelen die op ionkanalen werken (bijvoorbeeld minoxidil via K-ATP-kanalen). Een indirecte hypothese via ionkanalen is daarom denkbaar, maar voor ivabradine niet onderbouwd. De hoge score (0,998) is een kennisgrafiekvoorspelling en geen farmacologische onderbouwing.
+Er is geen bekende relatie tussen HCN-kanaalremming en de regulatie van de haarfollikelcyclus of haargroei. Hypertrichose is een bekende bijwerking van sommige middelen die op ionkanalen werken (bijvoorbeeld minoxidil via K-ATP-kanalen). Een indirecte hypothese via ionkanalen is daarom denkbaar, maar voor ivabradine niet onderbouwd. De hoge score (0,9979) is een kennisgrafiekvoorspelling en geen farmacologische onderbouwing.
 
 **Overige voorspelde indicaties (allemaal L5, Hold, zonder studies of literatuur):**
 
 | Rang | Voorspelde indicatie | Score | Mechanistische beoordeling |
 |---|---|---|---|
-| 2 | Ambras-type hypertrichosis universalis congenita | 99,72% | Genomische herschikkingen rond TRPS1; geen plausibel verband met HCN-remming |
-| 3 | Malformatiesyndroom met dentale/periodontale component | 99,72% | Heterogene groep; geen mechanistische onderbouwing |
-| 4 | Syndroom met Dandy-Walker-malformatie | 99,70% | Structureel congenitaal defect; hartfrequentieverlaging niet plausibel |
-| 5 | Geïsoleerde erfelijke haarschachtafwijking | 99,69% | Structurele keratinedefecten; geen link met HCN |
-| 6 | Nefrogeen syndroom van inadequate antidiurese (NSIAD) | 99,08% | Fysiologisch het meest verwant (renale waterhuishouding), maar speculatief |
+| 2 | Ambras-type hypertrichosis universalis congenita | 0,9972 | Genomische herschikkingen rond TRPS1; geen plausibel verband met HCN-remming |
+| 3 | Malformatiesyndroom met dentale/periodontale component | 0,9972 | Heterogene groep; geen mechanistische onderbouwing |
+| 4 | Syndroom met Dandy-Walker-malformatie | 0,9970 | Structureel congenitaal defect; hartfrequentieverlaging niet plausibel |
+| 5 | Geïsoleerde erfelijke haarschachtafwijking | 0,9969 | Structurele keratinedefecten; geen link met HCN |
+| 6 | Nefrogeen syndroom van inadequate antidiurese (NSIAD) | 0,9908 | Fysiologisch het meest verwant (renale waterhuishouding), maar speculatief |
 
 ---
 
@@ -90,15 +90,15 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Alle vijf vergunningen zijn doorgehaald. Gegevens over toedieningsvorm en geregistreerde indicatie ontbreken.
+Alle vijf vergunningen zijn geldig en het middel is op de markt. Gegevens over toedieningsvorm en geregistreerde indicatie ontbreken.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 118317 | Ivabradine BioOrganics 7,5 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 117832 | Prescoriel 25 mg/7,5 mg filmomhulde tabletten | Doorgehaald |
-| RVG 114311 | Arparial 25 mg/7,5 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 117830 | Prescoriel 12,5 mg/7,5 mg filmomhulde tabletten | Doorgehaald |
-| RVG 114312 | Arparial 50 mg/7,5 mg, filmomhulde tabletten | Doorgehaald |
+| RVG 118317 | Ivabradine BioOrganics 7,5 mg, filmomhulde tabletten | Geldig |
+| RVG 117832 | Prescoriel 25 mg/7,5 mg filmomhulde tabletten | Geldig |
+| RVG 114311 | Arparial 25 mg/7,5 mg, filmomhulde tabletten | Geldig |
+| RVG 117830 | Prescoriel 12,5 mg/7,5 mg filmomhulde tabletten | Geldig |
+| RVG 114312 | Arparial 50 mg/7,5 mg, filmomhulde tabletten | Geldig |
 
 ---
 
@@ -118,7 +118,7 @@ Waarschuwingen en contra-indicaties uit de bijsluiter/SmPC zijn niet beschikbaar
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een kennisgrafiekmodel (L5), zonder klinische studies, literatuur of plausibel mechanisme. Bovendien zijn alle Nederlandse registraties doorgehaald en ontbreken veiligheidsgegevens uit de bijsluiter.
+- De voorspelling berust uitsluitend op het TxGNN-model (deep learning, L5), zonder klinische studies, literatuur of plausibel mechanisme. De score kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten en vormt geen biologisch bewijs. Bovendien ontbreken veiligheidsgegevens uit de bijsluiter.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsgegevens (waarschuwingen en contra-indicaties) uit de SmPC van het CBG-MEB; dit is een blokkerend gegevenstekort voor de veiligheidsscreening

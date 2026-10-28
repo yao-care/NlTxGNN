@@ -6,9 +6,9 @@ nav_order: 251
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ofloxacin: voorspelde nieuwe indicatie Septische pest (hoogst scorende voorspelling met enige onderbouwing (bewijsniveau L5). Oorspronkelijke indicatie: Bacteriële infecties, o.a. tyfus, salmonellose…"
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
+description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ofloxacin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Ofloxacine: Van bacteriële infecties naar septische pest
+## Ofloxacin: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Ofloxacine is een fluorochinolon-antibioticum dat oorspronkelijk wordt gebruikt 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële infecties, o.a. tyfus, salmonellose, urineweginfectie, bronchitis, bacteriële pneumonie (volgens de kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Septische pest (hoogst scorende voorspelling met enige onderbouwing; de nummer 1 op de ranglijst is polyclonaal hyperviscositeitssyndroom) |
-| TxGNN-voorspellingsscore | 99,79% (septische pest); 99,91% voor de hoogst gerangschikte voorspelling |
-| Bewijsniveau | L4 (preklinisch/mechanistisch) voor septische pest |
-| Status op de Nederlandse markt | Alleen ingetrokken |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Polyclonal hyperviscosity syndrome |
+| TxGNN-voorspellingsscore | 0.9991 |
+| Bewijsniveau | L5 (preklinisch/mechanistisch) voor septische pest |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; geen menselijke klinische data) |
 
 ---
@@ -99,9 +99,9 @@ Opmerking: enkele geselecteerde artikelen gaan over resistentie of andere organi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (ingetrokken) | Oogdruppels (oplossing) | Niet beschikbaar |
+| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (geldig) | Oogdruppels (oplossing) | Niet beschikbaar |
 
-Er is één vergunning, en die is ingetrokken. Er zijn geen geldige handelsvergunningen voor ofloxacine bij het CBG-MEB.
+Er is één vergunning, en die is ingetrokken.
 
 ---
 

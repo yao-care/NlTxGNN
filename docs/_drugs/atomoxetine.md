@@ -6,9 +6,9 @@ nav_order: 46
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (bewijsniveau L3). Oorspronkelijke indicatie: Aandachtstekortstoornis met hyperactiviteit (ADHD)"
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
+description: "Atomoxetine: voorspelde nieuwe indicatie Specific developmental disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Atomoxetine
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Atomoxetine: Van ADHD naar specifieke ontwikkelingsstoornis
+## Atomoxetine: Specific developmental disorder
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Atomoxetine is een selectieve noradrenalineheropnameremmer die oorspronkelijk wo
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Aandachtstekortstoornis met hyperactiviteit (ADHD) |
-| Voorspelde nieuwe indicatie | Specifieke ontwikkelingsstoornis |
-| TxGNN-voorspellingsscore | 99,998% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Specific developmental disorder |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -88,9 +88,8 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116879//100389 | Strattera 80 mg, harde capsules (ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 116879//100389 | Strattera 80 mg, harde capsules (geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige handelsvergunning meer bij het CBG-MEB in de samengestelde data.
 
 ---
 
@@ -115,7 +114,7 @@ Raadpleeg de SmPC voor de officiële waarschuwingen en contra-indicaties.
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs betreft ADHD bij comorbide ontwikkelingsproblemen, niet de specifieke ontwikkelingsstoornis zelf. Er zijn geen geregistreerde studies, en het product heeft in Nederland geen geldige vergunning meer.
+- Het bewijs betreft ADHD bij comorbide ontwikkelingsproblemen, niet de specifieke ontwikkelingsstoornis zelf.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme

@@ -4,17 +4,17 @@ title: Methylprednisolone
 parent: Matig bewijs (L3-L4)
 nav_order: 228
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L3). Oorspronkelijke indicatie: Auto-immuunziekten (o.a. ziekte van Crohn, bijnierinsufficiëntie…"
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Methylprednisolon: Van auto-immuunziekten naar alopecia areata
+## Methylprednisolone: Alopecia areata
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Methylprednisolon is een corticosteroïde dat oorspronkelijk wordt gebruikt bij 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Auto-immuunziekten (o.a. ziekte van Crohn, bijnierinsufficiëntie, acute lymfatische leukemie) volgens de kennisgraaf; de goedgekeurde indicatietekst van de Nederlandse vergunning is niet beschikbaar |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Alopecia areata |
-| TxGNN-voorspellingsscore | 99,99% |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -97,7 +97,7 @@ Er zijn wel beperkingen. Het haarverlies komt vaak terug na stoppen van de behan
 |---------|------|------|-----------|
 | RVG 116594 | Methylprednisolon Eurogenerics 16 mg tabletten | Niet beschikbaar | Niet beschikbaar |
 
-Deze vergunning is doorgehaald. Er is dus momenteel geen geldige vergunning voor een methylprednisolon-monopreparaat in de voor dit rapport verzamelde gegevens. Controleer de actuele status bij het CBG-MEB.
+Dit geneesmiddel is in Nederland op de markt: 1 van de 1 vergunningen is geldig. Controleer de actuele status bij het CBG-MEB.
 
 ---
 

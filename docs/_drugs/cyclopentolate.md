@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Cyclopentolate: voorspelde nieuwe indicatie Caudaequinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Cycloplegie"
 monitor_inn: "cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
+last_modified_at: 2026-10-27
+description: "Cyclopentolate: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Cyclopentolate
@@ -33,12 +33,14 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Cyclopentolate: Van cycloplegie naar caudaequinasyndroom
+## Cyclopentolate: antimusarine anticholinergicum → cauda equina-syndroom (cauda equina syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Cyclopentolate is een anticholinergisch middel (muscarine-antagonist) dat oorspronkelijk wordt gebruikt voor **cycloplegie** (tijdelijke verlamming van de oogaccommodatie). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij het **caudaequinasyndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op een computermodel.
+Cyclopentolate is een anticholinergisch middel (muscarinereceptorantagonist) dat als oogdruppels wordt gebruikt.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **cauda equina-syndroom (cauda equina syndrome)**,
+maar er zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** die deze richting ondersteunen.
 
 ---
 
@@ -46,42 +48,33 @@ Cyclopentolate is een anticholinergisch middel (muscarine-antagonist) dat oorspr
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Cycloplegie |
-| Voorspelde nieuwe indicatie | Caudaequinasyndroom |
-| TxGNN-voorspellingsscore | 99,54% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Cauda equina-syndroom (cauda equina syndrome) |
+| TxGNN-voorspellingsscore | 0,9954 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
-| Aanbevolen beslissing | Hold |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen beslissing | Hold (afwachten) |
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Op basis van bekende informatie is cyclopentolate een muscarine-antagonist (anticholinergicum). De werkzaamheid bij cycloplegie is bewezen, en mechanistisch zou het toepasbaar kunnen zijn bij blaasfunctiestoornissen.
+Cyclopentolate is een muscarinereceptorantagonist (anticholinergicum). Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet vastgelegd, maar deze klasse-eigenschap is algemeen bekend. Anticholinergica kunnen overactiviteit van de blaasspier (detrusor) verminderen. Dat is relevant voor de blaasfunctiestoornissen die bij het cauda equina-syndroom kunnen optreden.
 
-Anticholinergica kunnen overactiviteit van de blaasspier (detrusor) verminderen. Dit is relevant voor de blaasdisfunctie die bij het caudaequinasyndroom voorkomt. Het caudaequinasyndroom is echter een chirurgisch spoedgeval door zenuwwortelcompressie; de primaire behandeling is decompressie. Behandeling van blaasklachten zou hooguit aanvullend zijn.
-
-Bovendien bestaat cyclopentolate alleen als oogdruppel. Er is geen vastgestelde systemische toedieningsroute voor dit gebruik. De hoge score (0,995) is een computationele voorspelling zonder ondersteunend klinisch bewijs.
-
-**Overige voorspelde indicaties (ter volledigheid):**
-
-| Rang | Ziekte | TxGNN-score | Bewijsniveau | Opmerking |
-|------|--------|------|------|------|
-| 2 | Neurogene blaas (term verouderd in de ontologie) | 99,40% | L5 | Antimuscarinica zijn een standaardklasse bij neurogene detrusoroveractiviteit, maar goedgekeurde middelen zoals oxybutynine en tolterodine bestaan al. De term moet eerst naar een actuele term worden omgezet (bijv. neurogene detrusoroveractiviteit). |
-| 3 | Prikkelbaredarmsyndroom | 99,27% | L5 | Antispasmodica zoals dicyclomine en hyoscyamine worden gebruikt. Systemische blootstelling aan cyclopentolate brengt risico op anticholinerge en CZS-bijwerkingen (bijv. psychose, ataxie, vooral bij kinderen). Er bestaan gevestigde alternatieven. |
+De kanttekeningen zijn aanzienlijk. Cauda equina-syndroom is een chirurgisch spoedgeval door compressie van zenuwwortels; de primaire behandeling is decompressie. Behandeling van blaasklachten zou hooguit aanvullend zijn. Cyclopentolate is bovendien alleen beschikbaar als oogdruppel, en er is geen vastgestelde systemische toedieningsroute voor dit gebruik. De hoge score (0,9954) is uitsluitend een computationele voorspelling zonder ondersteunend klinisch bewijs.
 
 ---
 
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
@@ -89,45 +82,35 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | Oogdruppels, oplossing | Niet beschikbaar (vergunning ingetrokken) |
-
-Voor zover bekend is deze enige vergunning ingetrokken; er is geen geldige registratie bij het CBG-MEB.
+| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | Oogdruppels, oplossing | Niet vastgelegd in de lokale gegevens |
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Voor dit middel zijn in de verzamelde data geen gegevens over waarschuwingen, contra-indicaties uit de productinformatie of geneesmiddelinteracties beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
+Voor de beschikbare veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) via het CBG-MEB.
 
-**Contra-indicaties uit de kennisgraaf (niet gebaseerd op productteksten):**
-Op basis van verbanden in de TxGNN-kennisgraaf (PrimeKG) wordt het middel in verband gebracht met de volgende aandoeningen als mogelijke contra-indicatie. Deze lijst is geen vervanging van de officiële productinformatie.
+Wel zijn in de voor dit rapport verzamelde gegevens contra-indicatiesignalen vastgelegd (geen productteksten) voor onder meer: hypertensie, diabetes mellitus, diabetische ketoacidose, benigne prostaathyperplasie, hartziekten (waaronder coronaire hartziekte, plotse hartstilstand en geleidingsstoornissen), nauwekamerhoekglaucoom, hyperthyreoïdie (waaronder de ziekte van Graves en thyreotoxicose), atherosclerose, hersenletsel, hersenaandoeningen en het syndroom van Down.
 
-- Hoge bloeddruk / hypertensie
-- Diabetes mellitus en diabetische ketoacidose
-- Goedaardige prostaatvergroting
-- Hartziekten, hart- en vaatziekten, coronaire hartziekte, plotselinge hartstilstand en geleidingsstoornissen van het hart
-- Hoekafsluitingsglaucoom (gesloten kamerhoek)
-- Hyperthyreoïdie, ziekte van Graves en thyreotoxicose
-- Arteriosclerose en atherosclerose
-- Hersenletsel en hersenaandoeningen
-- Downsyndroom
+Interacties met andere geneesmiddelen zijn in de verzamelde gegevens niet gevonden.
+
+Bij systemisch gebruik van een anticholinergicum bestaat bovendien het risico op anticholinerge en centraalzenuwstelselbijwerkingen (zoals psychose en ataxie, vooral bij kinderen).
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Beslissing: Hold (afwachten)**
 
 **Onderbouwing:**
-De voorspellingen berusten uitsluitend op een computermodel (bewijsniveau L5), zonder klinische studies of literatuur. Cyclopentolate bestaat alleen als oogdruppel, de enige Nederlandse vergunning is ingetrokken, en voor de voorspelde indicaties bestaan al gevestigde alternatieven.
+- De voorspelling berust uitsluitend op een model (bewijsniveau L5), zonder klinische studies of publicaties. Cauda equina-syndroom vereist primair chirurgische decompressie, en voor oogdruppels bestaat geen systemische route voor dit gebruik.
 
-**Om verder te gaan is het volgende nodig:**
-- Productinformatie (waarschuwingen en contra-indicaties) van het CBG-MEB ophalen en verwerken; dit is een blokkerende gegevenslacune voor de veiligheidsscreening
-- Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank)
-- Beoordelen of een systemische toedieningsroute of formulering haalbaar en veilig is
-- De verouderde ziekteterm "neurogene blaas" omzetten naar een actuele term vóór verdere evaluatie
-- Een gerichte literatuur- en trialsearch uitvoeren voor de voorspelde indicaties
-- De vergelijking met reeds goedgekeurde alternatieven (bijv. oxybutynine, tolterodine, dicyclomine) onderbouwen
+**Om verder te gaan is nodig:**
+- Preklinisch en klinisch bewijs dat cyclopentolate bij cauda equina-syndroom of de bijbehorende blaasdisfunctie werkzaam is
+- Gegevens over het werkingsmechanisme en de receptorselectiviteit
+- Een beoordeling van een geschikte systemische formulering en toedieningsroute
+- Een volledige veiligheidsbeoordeling op basis van de SmPC, met aandacht voor de genoemde contra-indicatiesignalen
+- Vergelijking met bestaande anticholinergica die al voor blaasklachten worden gebruikt
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

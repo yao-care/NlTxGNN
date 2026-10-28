@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 ## Samenvatting in één zin
 
-Norgestimaat is een progestageen dat in gecombineerde orale anticonceptiva wordt gebruikt. In de kennisgraaf van het model staan als oorspronkelijke indicaties onder meer acne en postmenopauzale osteoporose. Het TxGNN-model voorspelt dat het middel mogelijk werkzaam is bij **verhoogd zinkgehalte in plasma**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden.
+Norgestimaat is een progestageen dat in gecombineerde orale anticonceptiva wordt gebruikt. Het TxGNN-model (deep learning) voorspelt dat het middel mogelijk werkzaam is bij **verhoogd zinkgehalte in plasma** (score 0.9906). Deze score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden.
 
 ---
 
@@ -48,10 +48,10 @@ Norgestimaat is een progestageen dat in gecombineerde orale anticonceptiva wordt
 |------|------|
 | Oorspronkelijke indicatie | Acne, postmenopauzale osteoporose, osteoporose, atrofische vaginitis (volgens de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
 | Voorspelde nieuwe indicatie | Verhoogd zinkgehalte in plasma |
-| TxGNN-voorspellingsscore | 99,06% |
+| TxGNN-voorspellingsscore | 0.9906 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -82,7 +82,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten (ingetrokken) | Filmomhulde tabletten | Niet beschikbaar |
+| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten (geldig) | Filmomhulde tabletten | Niet beschikbaar |
 
 ---
 

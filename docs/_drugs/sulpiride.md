@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulpiride
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 306
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Sulpiride: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (bewijsniveau L4). Oorspronkelijke indicatie: Schizofrenie"
 monitor_inn: "Sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
+description: "Sulpiride: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicati…"
 ---
 
 # Sulpiride
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 
 </div>
 
-## Sulpiride: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Sulpiride: Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Sulpiride is een selectieve dopamine D2/D3-receptorantagonist, oorspronkelijk ge
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Schizofrenie |
-| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen |
-| TxGNN-voorspellingsscore | 99,95% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige handelsvergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-voorspellingsscore | 0.9995 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -87,7 +87,6 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 120540//06279 (ingetrokken) | Sulpiride ERC 50 mg, capsules | Niet vermeld | Niet vermeld |
 
-Er is momenteel geen geldige handelsvergunning voor sulpiride bij het CBG-MEB.
 
 ---
 
@@ -104,7 +103,7 @@ Voor waarschuwingen en contra-indicaties raadplege men de SmPC (Samenvatting van
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uitsluitend uit twee preklinische dierstudies en een computationele voorspelling; er zijn geen klinische studies. Sulpiride heeft in Nederland bovendien geen geldige handelsvergunning, en de veiligheidsgegevens uit de productinformatie ontbreken. Dit is een onderzoeksvraag, geen kandidaat voor klinische toepassing.
+- Het bewijs bestaat uitsluitend uit twee preklinische dierstudies en een computationele voorspelling; er zijn geen klinische studies. Dit is een onderzoeksvraag, geen kandidaat voor klinische toepassing.
 
 **Om verder te gaan is nodig:**
 - Verwerking van de productinformatie (SmPC) van het CBG-MEB voor waarschuwingen en contra-indicaties

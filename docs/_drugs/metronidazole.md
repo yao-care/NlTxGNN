@@ -6,9 +6,9 @@ nav_order: 229
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (bewijsniveau L5). Oorspronkelijke indicatie: Anaerobe bacteriële infecties, giardiasis, bacteriële vaginose…"
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
+description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Metronidazole
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Metronidazol: Van anaerobe infecties naar pneumocystose
+## Metronidazole: Pneumocystose (pneumocystosis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Metronidazol is een antibioticum en antiprotozoair middel dat oorspronkelijk wor
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Anaerobe bacteriële infecties, giardiasis, bacteriële vaginose, peritonitis (de vergunningstekst in de beschikbare gegevens is leeg; de indicaties zijn afkomstig uit de kennisgraaf) |
-| Voorspelde nieuwe indicatie | Pneumocystose |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Pneumocystose (pneumocystosis) |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Metronidazol is een antibioticum en antiprotozoair middel dat oorspronkelijk wor
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Metronidazol is werkzaam tegen anaerobe bacteriën en protozoa. *Pneumocystis jirovecii* is echter een schimmel zonder bekende nitroimidazol-gevoelige route.
 
-De hoge TxGNN-score wordt waarschijnlijk veroorzaakt door de netwerknabijheid van metronidazol tot antiparasitaire en anti-infectieve middelen in de kennisgraaf, en niet door een aangetoond biologisch mechanisme. De gevonden literatuur bestaat uit algemene overzichten over antiparasitaire middelen en hiv-gerelateerde opportunistische infecties. Geen enkele publicatie toont werkzaamheid van metronidazol tegen Pneumocystis aan. De standaardbehandeling is trimethoprim-sulfamethoxazol.
+De hoge TxGNN-score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. De gevonden literatuur bestaat uit algemene overzichten over antiparasitaire middelen en hiv-gerelateerde opportunistische infecties. Geen enkele publicatie toont werkzaamheid van metronidazol tegen Pneumocystis aan. De standaardbehandeling is trimethoprim-sulfamethoxazol.
 
 Deze voorspelling moet daarom worden beschouwd als een computationele hypothese zonder inhoudelijke onderbouwing.
 
@@ -95,7 +95,7 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 119834//14416 (doorgehaald) | Metronidazol Fisher 7,5 mg/g, gel | Gel | Niet beschikbaar in de gegevens |
 
-Er is geen geldige vergunning voor een enkelvoudig of gecombineerd product. De enige vergunning is doorgehaald. Raadpleeg voor actuele informatie het CBG-MEB.
+Het middel is op de markt: 1 van de 1 vergunningen is geldig. Raadpleeg voor actuele informatie het CBG-MEB.
 
 ---
 

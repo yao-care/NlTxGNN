@@ -6,9 +6,9 @@ nav_order: 237
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mitomycin: voorspelde nieuwe indicatie Solide pseudopapillair carcinoom van de alvleesklier (bewijsniveau L5). Oorspronkelijke indicatie: Alvleesklieradenocarcinoom"
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
+description: "Mitomycin: voorspelde nieuwe indicatie Solid pseudopapillary carcinoma of pancreas (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Mitomycin
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Mitomycine: Van alvleesklieradenocarcinoom naar solide pseudopapillair carcinoom van de alvleesklier
+## Mitomycin: Solid pseudopapillary carcinoma of pancreas
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **geen directe litera
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Alvleesklieradenocarcinoom (volgens de kennisgraaf van TxGNN; er is geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Solide pseudopapillair carcinoom van de alvleesklier |
-| TxGNN-voorspellingsscore | 99,86% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Solid pseudopapillary carcinoma of pancreas |
+| TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal handelsvergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -62,9 +62,9 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **geen directe litera
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Mitomycine is bekend als alkylerend middel dat DNA crosslinkt. De werkzaamheid bij alvleesklieradenocarcinoom is historisch beschreven, en mechanistisch kan een gedeelde tumorlocatie de voorspelling verklaren.
 
-De aannemelijkheid is echter beperkt. Solide pseudopapillaire neoplasmata zijn meestal laaggradig, worden vaak door chirurgie genezen en zijn biologisch anders dan ductaal adenocarcinoom (aangedreven door CTNNB1-mutaties). De hoge score weerspiegelt waarschijnlijk vooral de nabijheid in de kennisgraaf tot de oorspronkelijke indicatie.
+De aannemelijkheid is echter beperkt. Solide pseudopapillaire neoplasmata zijn meestal laaggradig, worden vaak door chirurgie genezen en zijn biologisch anders dan ductaal adenocarcinoom (aangedreven door CTNNB1-mutaties).
 
-Het model voorspelt ook andere alvleesklieraandoeningen met vrijwel dezelfde score (99,82–99,86%), zoals osteoclastair reuscellig tumor van de alvleesklier, gemengd ductaal-endocrien carcinoom, ongedifferentieerd pancreascarcinoom en maligne exocriene pancreasneoplasie. Ook voor deze aandoeningen ontbreekt direct klinisch bewijs.
+Het model voorspelt ook andere alvleesklieraandoeningen met vrijwel dezelfde score (99,82–0,9986), zoals osteoclastair reuscellig tumor van de alvleesklier, gemengd ductaal-endocrien carcinoom, ongedifferentieerd pancreascarcinoom en maligne exocriene pancreasneoplasie. Ook voor deze aandoeningen ontbreekt direct klinisch bewijs.
 
 ---
 
@@ -91,7 +91,7 @@ Voor de hoogst gerangschikte voorspelling is geen literatuur gevonden. Voor de a
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intravesicaal gebruik | Poeder voor oplossing | Niet beschikbaar (registratie doorgehaald) |
+| RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intravesicaal gebruik | Poeder voor oplossing | Niet beschikbaar (registratie geldig) |
 
 ---
 

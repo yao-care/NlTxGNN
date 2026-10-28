@@ -4,17 +4,17 @@ title: Lorazepam
 parent: Alleen modelvoorspelling (L5)
 nav_order: 213
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie (o.a. status epilepticus, Lennox-Gastaut-syndroom…"
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Lorazepam: Van epilepsie en angststoornissen naar trigeminuszenuwneoplasma
+## Lorazepam: Trigeminuszenuwneoplasma (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Lorazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt bij epilepsiev
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Epilepsie (o.a. status epilepticus, Lennox-Gastaut-syndroom, absence-epilepsie) en angststoornissen (afgeleid uit de kennisgraaf; de vergunningstekst in Nederland bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
-| TxGNN-voorspellingsscore | 99,87% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) |
+| TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Lorazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt bij epilepsiev
 
 Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene farmacologische kennis is lorazepam een benzodiazepine dat de GABA-A-receptor positief moduleert, met kalmerende, angstremmende en anticonvulsieve effecten.
 
-Een plausibel mechanistisch verband tussen deze werking en tumorbeheersing is er niet. Hooguit is een symptomatische rol denkbaar, bijvoorbeeld angstvermindering of aanvalscontrole bij hersenbetrokkenheid. Dat is geen ziektemodificerende indicatie. De hoge score weerspiegelt vooral patronen in de kennisgraaf en niet een onderbouwd farmacologisch verband. De voorspelling moet daarom met grote terughoudendheid worden benaderd.
+Een plausibel mechanistisch verband tussen deze werking en tumorbeheersing is er niet. Hooguit is een symptomatische rol denkbaar, bijvoorbeeld angstvermindering of aanvalscontrole bij hersenbetrokkenheid. Dat is geen ziektemodificerende indicatie. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. De voorspelling moet daarom met grote terughoudendheid worden benaderd.
 
 ---
 
@@ -80,7 +80,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | Tablet (volgens productnaam) | Niet vermeld; vergunning doorgehaald |
+| RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | Tablet (volgens productnaam) | Niet vermeld; vergunning geldig |
 
 Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.
 
@@ -113,7 +113,7 @@ Gegevens uit de bijsluitertekst (waarschuwingen en contra-indicaties) ontbreken 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing. Bovendien is er in Nederland momenteel geen geldige vergunning voor lorazepam.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing. Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme en een onderbouwing van een biologisch verband met trigeminuszenuwneoplasma
@@ -123,7 +123,6 @@ Gegevens uit de bijsluitertekst (waarschuwingen en contra-indicaties) ontbreken 
 
 ---
 
-*Opmerking: andere voorspelde indicaties met hoge scores (waaronder slapeloosheid, bewijsniveau L3, aanbeveling "Research Question") en diverse zeldzame reflexepilepsievormen vallen buiten de reikwijdte van dit rapport, dat de hoogst gerangschikte voorspelling behandelt.*
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

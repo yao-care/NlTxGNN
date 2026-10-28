@@ -6,9 +6,9 @@ nav_order: 211
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Loperamide: voorspelde nieuwe indicatie Acute besmettelijke conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Diarree en dysenterie (afkomstig uit de TxGNN-kennisgraaf"
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
+description: "Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Loperamide
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Loperamide: Van diarree naar acute besmettelijke conjunctivitis
+## Loperamide: Acute contagious conjunctivitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Loperamide wordt van oudsher gebruikt om diarree en dysenterie symptomatisch te 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Diarree en dysenterie (afkomstig uit de TxGNN-kennisgraaf; in de vergunningsgegevens is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Acute besmettelijke conjunctivitis |
-| TxGNN-voorspellingsscore | 99,97% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acute contagious conjunctivitis |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunningen |
-| Aantal vergunningen | 3 (alle doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Loperamide wordt van oudsher gebruikt om diarree en dysenterie symptomatisch te 
 
 Voor loperamide zijn in de samengestelde gegevens geen mechanistische gegevens beschikbaar. Uit algemene farmacologische kennis is loperamide een perifere agonist van de mu-opioïdreceptor. Het werkt op de zenuwcellen in de darmwand en remt zo de darmmotiliteit. Daardoor vermindert het diarree als symptoom.
 
-Er is **geen plausibele mechanistische link** tussen deze werking en een infectieuze ontsteking van het bindvlies van het oog. De zeer hoge score (0,9997) lijkt een artefact van de kennisgraaf: dezelfde score komt terug bij meerdere subtypen conjunctivitis, wat wijst op een gedeeld propagatie-effect in het netwerk en niet op een biologisch signaal.
+Er is **geen plausibele mechanistische link** tussen deze werking en een infectieuze ontsteking van het bindvlies van het oog.
 
 Ook de andere voorspelde indicaties in de gegevens bieden weinig steun:
 - **Conjunctivitis en subtypen** (o.a. pseudomembraneuze, chronisch folliculaire, parasitaire conjunctivitis, het syndroom van Angelucci): geen studies, geen literatuur, geen mechanistische onderbouwing.
@@ -91,13 +91,13 @@ Voor andere hoog gescoorde voorspellingen zijn wel enkele publicaties gevonden. 
 
 ## Informatie over de Nederlandse markt
 
-Alle drie de vergunningen zijn doorgehaald; er is momenteel geen geldige vergunning voor een loperamide-monopreparaat in de samengestelde gegevens. Gegevens over farmaceutische vorm en goedgekeurde indicatie ontbreken.
+Gegevens over farmaceutische vorm en goedgekeurde indicatie ontbreken.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 116627//08423 | Imodium 0,2 mg/ml drank | Doorgehaald |
-| RVG 114697 | Loperuma 2 mg/125 mg, kauwtabletten | Doorgehaald |
-| RVG 113192 | Losiveca 2mg/ 125mg, tabletten | Doorgehaald |
+| RVG 116627//08423 | Imodium 0,2 mg/ml drank | Geldig |
+| RVG 114697 | Loperuma 2 mg/125 mg, kauwtabletten | Geldig |
+| RVG 113192 | Losiveca 2mg/ 125mg, tabletten | Geldig |
 
 ---
 
@@ -116,14 +116,12 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor acute besmettelijke conjunctivitis is uitsluitend modelgebaseerd (L5), zonder studies, literatuur of plausibele werkingsmechanisme. De hoge score lijkt een artefact van de kennisgraaf. Voor amoebendysenterie en gastroduodenitis wijst de beschikbare literatuur op veiligheidsrisico's en niet op werkzaamheid.
-- Alle Nederlandse vergunningen zijn doorgehaald, en de veiligheidsgegevens uit de SmPC ontbreken, waardoor veiligheidsscreening nog niet mogelijk is.
+- De voorspelling voor acute besmettelijke conjunctivitis is uitsluitend modelgebaseerd (L5), zonder studies, literatuur of plausibele werkingsmechanisme. Voor amoebendysenterie en gastroduodenitis wijst de beschikbare literatuur op veiligheidsrisico's en niet op werkzaamheid.
 
 **Om verder te gaan is het volgende nodig:**
 - SmPC/bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen en verwerken.
 - Gegevens over het werkingsmechanisme aanvullen vanuit DrugBank.
 - Een plausibele biologische hypothese met preklinisch bewijs voordat verdere evaluatie zinvol is; gezien de oogindicatie ook een beoordeling van de toedieningsroute (lokaal oogpreparaat versus oraal).
-- Een kritische heroverweging van de kennisgraafvoorspellingen voor conjunctivitis, gezien de identieke scores voor meerdere subtypen.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -4,17 +4,17 @@ title: Trimethoprim
 parent: Alleen modelvoorspelling (L5)
 nav_order: 332
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trimethoprim: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Urineweginfecties (aanvullend o.a. otitis media, pneumocystose…"
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Trimethoprim: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Trimethoprim: Van urineweginfecties naar punctate epitheliale keratoconjunctivitis
+## Trimethoprim: Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,12 +44,12 @@ Trimethoprim is een antibioticum (foliumzuurantagonist) dat oorspronkelijk wordt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Urineweginfecties (aanvullend o.a. otitis media, pneumocystose, shigellose, conjunctivitis, blefaroconjunctivitis; de Nederlandse vergunning bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis |
-| TxGNN-voorspellingsscore | 99,57% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
+| TxGNN-voorspellingsscore | 0.9957 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,9 +72,8 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 55723 | Trimethoprim CF 300 mg, tabletten (doorgehaald) | Tablet | Geen indicatietekst beschikbaar |
+| RVG 55723 | Trimethoprim CF 300 mg, tabletten (geldig) | Tablet | Geen indicatietekst beschikbaar |
 
-De enige Nederlandse registratie is doorgehaald; er is dus geen geldig monopreparaat op de markt.
 
 ## Veiligheidsoverwegingen
 
@@ -88,7 +87,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het waarschijnlijk virale of immuungemedieerde karakter van de aandoening maakt een antibacterieel middel minder plausibel, en er is geen geldige Nederlandse vergunning.
+- De voorspelling berust alleen op het model (bewijsniveau L5), zonder studies of publicaties.
 
 **Om verder te gaan is nodig:**
 - Ophalen en analyseren van de SmPC/bijsluiter van het CBG-MEB (waarschuwingen, contra-indicaties); dit is een blokkerende leemte voor de veiligheidsscreening.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Buprenorphine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 64
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (bewijsniveau L4). Oorspronkelijke indicatie: Opioïdafhankelijkheid, stoffengerelateerde afhankelijkheid…"
 monitor_inn: "buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
+last_modified_at: 2026-10-27
+description: "Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (acute intermittent porphyria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Buprenorphine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-## Buprenorfine: Van opioïdafhankelijkheid naar acute intermitterende porfyrie
+## Buprenorfine: partiële mu-opioïdagonist → acute intermitterende porfyrie (acute intermittent porphyria)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Buprenorfine is een partiële mu-opioïdagonist die oorspronkelijk wordt gebruikt bij de behandeling van opioïdafhankelijkheid en andere stoffengerelateerde afhankelijkheid. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acute intermitterende porfyrie**, maar hiervoor is **geen enkele klinische studie** en slechts **1 publicatie** (een casusbeschrijving over anesthesie uit 1993) beschikbaar. De voorspelling is daarmee vrijwel uitsluitend op het model gebaseerd.
+Buprenorfine is een partiële mu-opioïdagonist (met kappa-antagonistische werking). De TxGNN-modellering voorspelt een mogelijk effect bij **acute intermitterende porfyrie (acute intermittent porphyria)**. Hiervoor zijn **geen klinische studies** en slechts **1 publicatie** (een casusbeschrijving uit 1993 over anesthesiologische begeleiding) beschikbaar. Het bewijs is dus zeer beperkt.
 
 ---
 
@@ -46,29 +46,27 @@ Buprenorfine is een partiële mu-opioïdagonist die oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Opioïdafhankelijkheid, stoffengerelateerde afhankelijkheid, morfineafhankelijkheid (volgens de kennisgraaf van TxGNN; de goedgekeurde indicatietekst van de vergunningen is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Acute intermitterende porfyrie |
-| TxGNN-voorspellingsscore | 99,41% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
-| Aanbevolen beslissing | Hold |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acute intermitterende porfyrie (acute intermittent porphyria) |
+| TxGNN-voorspellingsscore | 0,9941 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
+| Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling (on)aannemelijk?
 
-Er zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is buprenorfine een partiële agonist van de mu-opioïdreceptor met antagonistische eigenschappen aan de kappa-receptor. De werkzaamheid bij opioïdafhankelijkheid is bewezen.
+Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Buprenorfine is een partiële mu-opioïdagonist met kappa-antagonistische activiteit. Er is geen aannemelijke mechanistische koppeling met een ziektemodificerend effect bij acute intermitterende porfyrie.
 
-Een geloofwaardige mechanistische relatie tussen deze werking en acute intermitterende porfyrie ontbreekt. Opioïden worden soms gebruikt voor symptomatische pijnbestrijding tijdens een acute porfyrieaanval, maar dat is geen behandeling van de ziekte zelf en geen reden voor herpositionering. De enige gevonden publicatie betreft de keuze van anesthetica bij een patiënte met porfyrie, niet de behandeling van de aandoening. Of buprenorfine veilig is bij porfyrie (porfyrinogeniciteit), blijkt niet uit de beschikbare gegevens.
-
-De hoge score (0,994) is een modelvoorspelling zonder klinische onderbouwing.
+De enige gevonden publicatie betreft de perioperatieve keuze van geneesmiddelen bij een patiënt met porfyrie, niet de behandeling van de ziekte zelf. Opioïden kunnen worden gebruikt tegen pijn tijdens een acute aanval, maar dat is symptomatisch en vormt geen aanwijzing voor herpositionering. De veiligheid van buprenorfine bij porfyrie (porfyrinogeniciteit) is op basis van de beschikbare gegevens niet vastgesteld. De hoge score is een modelvoorspelling zonder klinische onderbouwing.
 
 ---
 
-## Klinisch trialbewijs
+## Klinisch studiebewijs
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
@@ -76,7 +74,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Casusbeschrijving | Masui (Japanse anesthesiologie) | Anesthesiologische begeleiding van een 40-jarige patiënte met vermoedelijke acute intermitterende porfyrie die een radicale hysterectomie onderging; betreft perioperatieve medicatiekeuze, geen behandeling van de ziekte |
+| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Casusbeschrijving | Masui (Japanse tijdschrift voor anesthesiologie) | Anesthesiologische begeleiding van een patiënte met vermoedelijke acute intermitterende porfyrie tijdens een operatie wegens een ovariumtumor; betreft perioperatieve zorg, geen behandeling van de ziekte. |
 
 ---
 
@@ -84,38 +82,38 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114442//11872 | Temgesic 0,2 mg, tabletten voor sublinguaal gebruik | Sublinguale tablet (volgens productnaam) | Niet beschikbaar (vergunning doorgehaald) |
-| RVG 120053 | Buprenorfine Sandoz 70 microgram/uur, pleister voor transdermaal gebruik | Transdermale pleister (volgens productnaam) | Niet beschikbaar (vergunning doorgehaald) |
-
-Beide vergunningen zijn doorgehaald; er is momenteel geen geldige vergunning voor een eenzijdig buprenorfinepreparaat in de samengestelde gegevens.
+| RVG 114442//11872 | Temgesic 0,2 mg, tabletten voor sublinguaal gebruik | Niet vermeld | Niet vermeld in de lokale gegevens |
+| RVG 120053 | Buprenorfine Sandoz 70 microgram/uur, pleister voor transdermaal gebruik | Niet vermeld | Niet vermeld in de lokale gegevens |
 
 ---
 
-## Aandachtspunten voor de veiligheid
+## Veiligheidsoverwegingen
 
-Uit de bijsluiter- of SmPC-tekst van het CBG-MEB zijn geen waarschuwingen of contra-indicaties beschikbaar. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+Voor deze evaluatie zijn geen waarschuwingen of contra-indicaties uit de bijsluiter of SmPC beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor veiligheidsinformatie.
 
-- **Contra-indicaties volgens de kennisgraaf (niet uit de productinformatie):** de kennisgraaf van TxGNN noemt onder meer lange-QT-syndroom en torsades de pointes, orthostatische hypotensie, ernstige COPD en ademhalingsfalen, lever- en galblaasaandoeningen, chronische hepatitis B en C, bijnierschorsinsufficiëntie (ziekte van Addison), hypothyreoïdie, paralytische ileus en darmobstructie, goedaardige prostaathyperplasie, urethrastrictuur, intracraniële hypertensie (pseudotumor cerebri), en drugsafhankelijkheid/stoffengerelateerde stoornissen. Dit zijn signalen uit een kennisgraaf en geen officiële tekst.
-- **Geneesmiddelinteracties:** in totaal zijn 296 interacties gevonden. Voorbeelden van **ernstige (major)** interacties: alvimopan, bupropion, morfine, cisapride en dolasetron. Voorbeelden van matige interacties: famotidine, loperamide, aprepitant, dexamethason, claritromycine en cimetidine.
+**Geneesmiddelinteracties:** in de samengestelde gegevens zijn 296 interacties gevonden. Voorbeelden van interacties van het niveau *ernstig* (Major):
+- Alvimopan
+- Bupropion
+- Morfine
+- Cisapride
+- Dolasetron
+
+Daarnaast zijn er interacties van het niveau *matig* (o.a. famotidine, loperamide, clarithromycine, dexamethason, aprepitant).
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Er zijn geen klinische studies en slechts één casusbeschrijving die geen therapeutische werking aantoont. Een mechanistische rationale ontbreekt en de veiligheid bij porfyrie is niet vastgesteld. Daarnaast heeft Nederland momenteel geen geldige vergunning voor een eenzijdig buprenorfinepreparaat.
+- Er zijn geen klinische studies en geen publicatie die de behandeling van acute intermitterende porfyrie met buprenorfine onderzoekt. De hoge modelscore (0,9941) is niet klinisch onderbouwd, en de porfyrinogeniciteit van buprenorfine is niet vastgesteld, wat een veiligheidsrisico bij deze aandoening kan betekenen.
 
 **Om verder te gaan is nodig:**
-- Aanvullende gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank).
-- De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, nodig voor de veiligheidsscreening.
-- Beoordeling van de porfyrinogeniciteit van buprenorfine bij patiënten met acute porfyrie.
-- Preklinisch of klinisch onderzoek dat een werking bij acute intermitterende porfyrie ondersteunt.
-
----
-
-*Opmerking: de overige voorspelde indicaties (lingofaciaal-buccale dyskinesie, chronische tic-stoornis, continue spike-waves tijdens slaap, goedaardige rilaanvallen, extrapiramidale bewegingsstoornissen) hebben eveneens het advies Hold. Ze hebben bewijsniveau L4 of L5, zonder klinische studies.*
+- Gegevens over het werkingsmechanisme en een plausibele mechanistische koppeling met de pathofysiologie van porfyrie
+- Beoordeling van de porfyrinogeniciteit van buprenorfine aan de hand van de SmPC en aanvullende literatuur
+- Preklinische of klinische gegevens die de ziekte zelf betreffen
+- Analyse van de bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties)
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

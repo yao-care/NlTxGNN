@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Alfuzosine: Van benigne prostaathyperplasie naar het syndroom van Ambras (hypertrichosis universalis congenita)
+## Alfuzosine: Van benigne prostaathyperplasie naar Ambras-type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,10 +46,10 @@ Alfuzosine is een alfa-1-adrenoreceptorantagonist die oorspronkelijk wordt gebru
 |------|------|
 | Oorspronkelijke indicatie | Benigne prostaathyperplasie (de goedkeuringstekst van de Nederlandse registratie is niet beschikbaar in de voor dit rapport verzamelde gegevens) |
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
-| TxGNN-voorspellingsscore | 99,999% |
+| TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -58,7 +58,7 @@ Gegevens over het werkingsmechanisme van alfuzosine zijn in de voor dit rapport 
 
 Er is **geen duidelijk mechanistisch verband** met de voorspelde indicatie. Het syndroom van Ambras is een zeldzame genetische aandoening, die samenhangt met herrangschikkingen op chromosoom 8q22 die de regulatie van het *TRPS1*-gen beïnvloeden. Alfa-1-blokkade is niet bekend als beïnvloeder van haargroei of van deze genetische route.
 
-De zeer hoge score (0,99999) lijkt een artefact van de kennisgraaf: de voorspelling komt waarschijnlijk voort uit nabijheid in de graaf tot andere haarfenotypen, niet uit farmacologie. Ook de overige negen voorspellingen (o.a. hypertrichose, trichomegalie, hypotrichose, allergische urticaria, persisterende foetale circulatie) hebben een L5-niveau zonder studies of literatuur en zijn mechanistisch zwak of niet plausibel. Bij allergische urticaria zou alfuzosine, dat zelf zeldzame overgevoeligheidsreacties kan veroorzaken, de aandoening zelfs kunnen verergeren. Bij persisterende foetale circulatie kan systemische alfa-1-blokkade de systemische vaatweerstand verlagen en daarmee een veiligheidsrisico vormen.
+De zeer hoge score (1,0000) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs: de voorspelling komt waarschijnlijk voort uit overeenkomst met andere haarfenotypen, niet uit farmacologie. Ook de overige negen voorspellingen (o.a. hypertrichose, trichomegalie, hypotrichose, allergische urticaria, persisterende foetale circulatie) hebben een L5-niveau zonder studies of literatuur en zijn mechanistisch zwak of niet plausibel. Bij allergische urticaria zou alfuzosine, dat zelf zeldzame overgevoeligheidsreacties kan veroorzaken, de aandoening zelfs kunnen verergeren. Bij persisterende foetale circulatie kan systemische alfa-1-blokkade de systemische vaatweerstand verlagen en daarmee een veiligheidsrisico vormen.
 
 ## Klinisch trialbewijs
 
@@ -72,7 +72,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte (status: doorgehaald) | Tablet met verlengde afgifte (volgens productnaam) | Niet beschikbaar |
+| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte (status: geldig) | Tablet met verlengde afgifte (volgens productnaam) | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levetiracetam
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 202
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levetiracetam: voorspelde nieuwe indicatie Visuele epilepsie (bewijsniveau L4). Oorspronkelijke indicatie: Partiële epilepsie"
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Levetiracetam: Van partiële epilepsie naar visuele epilepsie
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
 Levetiracetam is een anti-epilepticum dat oorspronkelijk wordt gebruikt voor de behandeling van partiële epilepsie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **visuele epilepsie** (fotosensitieve reflexepilepsie). Er zijn echter **geen geregistreerde klinische studies** en de gevonden literatuur (**20 publicaties**) betreft algemene aanvalspopulaties en niet specifiek door visuele prikkels uitgelokte aanvallen.
 
-Een belangrijke kanttekening: de voorspelling met de hoogste rangorde is niet de meest onderbouwde. Voor **status epilepticus** (rang 9) is het bewijs veel sterker (zie het aanvullende overzicht verderop).
+Een belangrijke kanttekening: de voorspelling met de hoogste rangorde is niet de meest onderbouwde.
 
 ---
 
@@ -48,12 +48,12 @@ Een belangrijke kanttekening: de voorspelling met de hoogste rangorde is niet de
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Partiële epilepsie |
-| Voorspelde nieuwe indicatie | Visuele epilepsie |
-| TxGNN-voorspellingsscore | 99,98% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Beta-ketothiolase deficiency |
+| TxGNN-voorspellingsscore | 0.9990 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag) |
 
 ---
@@ -95,7 +95,6 @@ Selectie van de meest relevante publicaties (alle algemene aanvalspopulaties):
 |---------|------|------|-----------|
 | RVG 118335 (ingetrokken) | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |
 
-Er is in de CBG-MEB-gegevens geen geldige vergunning gevonden voor levetiracetam; de enige vergunning is ingetrokken.
 
 ---
 
@@ -137,7 +136,6 @@ Bij status epilepticus tonen de fase 3-studie ESETT (NCT01960075; [PMID 31774955
 
 **Onderbouwing:**
 - Voor visuele epilepsie is er geen geregistreerde klinische studie en geen specifieke literatuur; de hoge TxGNN-score weerspiegelt waarschijnlijk netwerknabijheid tot partiële epilepsie.
-- Voor Nederland is er momenteel geen geldige handelsvergunning in de beschikbare gegevens (alleen een ingetrokken vergunning).
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (o.a. uit DrugBank)

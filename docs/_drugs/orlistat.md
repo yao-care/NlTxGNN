@@ -6,9 +6,9 @@ nav_order: 256
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (bewijsniveau L5). Oorspronkelijke indicatie: Obesitas (obesity disorder) en monogene obesitas"
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
+description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Orlistat
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Orlistat: Van obesitas naar hypervitaminose
+## Orlistat: Hypervitaminose (hypervitaminosis)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Orlistat is een lipaseremmer die oorspronkelijk wordt gebruikt voor de behandeli
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Obesitas (obesity disorder) en monogene obesitas |
-| Voorspelde nieuwe indicatie | Hypervitaminose |
-| TxGNN-voorspellingsscore | 99,42% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Hypervitaminose (hypervitaminosis) |
+| TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige handelsvergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -86,9 +86,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Er is momenteel geen geldige handelsvergunning voor orlistat in Nederland volgens de gegevens van het CBG-MEB. Eventuele toepassing zou daarom ook een nieuwe registratiestap vereisen.
+Eventuele toepassing zou daarom ook een nieuwe registratiestap vereisen.
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur. Het mechanisme is slechts theoretisch en beperkt, en de vitaminedeficiëntie als bekende bijwerking en contra-indicatie in de kennisgraaf pleit tegen een gunstige baten-risicoverhouding. Daarnaast is er geen geldige Nederlandse handelsvergunning.
+- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur. Het mechanisme is slechts theoretisch en beperkt, en de vitaminedeficiëntie als bekende bijwerking en contra-indicatie in de kennisgraaf pleit tegen een gunstige baten-risicoverhouding.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme uit DrugBank

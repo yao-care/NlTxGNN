@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "pancreatic-intraductal-papillary-mucinous-carcinoma",
-          "display": "pancreatic intraductal papillary-mucinous carcinoma"
-        }
-      ],
-      "text": "pancreatic intraductal papillary-mucinous carcinoma",
       "concept": {
         "text": "pancreatic intraductal papillary-mucinous carcinoma"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9985
     }
   ]
 }

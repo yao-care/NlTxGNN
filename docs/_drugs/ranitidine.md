@@ -4,17 +4,17 @@ title: Ranitidine
 parent: Matig bewijs (L3-L4)
 nav_order: 288
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Ranitidine: voorspelde nieuwe indicatie Actieve maagzweerziekte (active peptic ulcer disease) (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer (o.a. ook reflux, oesofagitis, dyspepsie…"
 monitor_inn: "ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+description: "Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,30 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Ranitidine: van maagzweer naar actieve maagzweerziekte (peptic ulcer disease)
+## Ranitidine: Peptic ulcer perforation
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Ranitidine is een H2-receptorantagonist (zuurremmer) die oorspronkelijk wordt gebruikt bij onder meer maagzweren, twaalfvingerigedarmzweren en reflux. Het TxGNN-model voorspelt effect bij **actieve maagzweerziekte**. Dit is in feite een bestaande indicatie en geen echte herpositionering. Voor deze voorspelling zijn **0 geregistreerde klinische studies** en **19 publicaties** gevonden, grotendeels narratieve overzichtsartikelen.
+Ranitidine is een H2-receptorantagonist (zuurremmer) die oorspronkelijk wordt gebruikt bij onder meer maagzweren, twaalfvingerigedarmzweren en reflux. Dit is in feite een bestaande indicatie en geen echte herpositionering. Voor deze voorspelling zijn **0 geregistreerde klinische studies** en **19 publicaties** gevonden, grotendeels narratieve overzichtsartikelen.
 
 ## Snel overzicht
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Maagzweer (o.a. ook reflux, oesofagitis, dyspepsie, twaalfvingerigedarmzweer, Zollinger-Ellison-syndroom); de vergunningstekst van het Nederlandse product bevat geen indicatietekst |
-| Voorspelde nieuwe indicatie | Actieve maagzweerziekte (active peptic ulcer disease) |
-| TxGNN-voorspellingsscore | 99,89% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Peptic ulcer perforation |
+| TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken vergunning(en) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Uit de gevonden literatuur is wel bekend dat ranitidine een competitieve histamine-H2-receptorantagonist is. Het remt de maagzuur- en pepsinesecretie, en het is naar verluidt 4 tot 10 keer krachtiger dan cimetidine.
 
-De oorspronkelijke indicaties (maag- en twaalfvingerigedarmzweer) en de voorspelde indicatie (actieve maagzweerziekte) liggen sterk in elkaars verlengde. Zweren ontstaan mede doordat zuur en pepsine de slijmvliesbescherming overstemmen, dus zuurremming is een logische behandelstrategie. De hoge modelscore weerspiegelt vooral dit bekende mechanisme en niet een nieuwe ontdekking.
+Zweren ontstaan mede doordat zuur en pepsine de slijmvliesbescherming overstemmen, dus zuurremming is een logische behandelstrategie. De hoge modelscore weerspiegelt vooral dit bekende mechanisme en niet een nieuwe ontdekking.
 
 Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft. Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.
 
@@ -85,9 +85,9 @@ Veel van onderstaande publicaties gaan over andere middelen dan ranitidine (bijv
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113857//13064 | Zantac 150 mg/10 ml, drank | Drank (volgens productnaam) | Niet vermeld in de beschikbare gegevens; vergunning ingetrokken |
+| RVG 113857//13064 | Zantac 150 mg/10 ml, drank | Drank (volgens productnaam) | Niet vermeld in de beschikbare gegevens; vergunning geldig |
 
-Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken. Er zijn geen geldige vergunningen voor ranitidine.
+Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.
 
 ## Veiligheidsoverwegingen
 
@@ -106,7 +106,6 @@ Raadpleeg voor de volledige veiligheidsinformatie (waarschuwingen en contra-indi
 
 **Onderbouwing:**
 - De voorspelling betreft een reeds bestaande indicatie, dus er is geen sprake van echte herpositionering. Er zijn geen gekoppelde klinische studies en het literatuurbewijs bestaat vooral uit overzichtsartikelen, deels over andere middelen (bewijsniveau L4).
-- Er is geen geldige handelsvergunning meer in Nederland, wat praktische vervolgstappen beperkt.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC en de bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties).

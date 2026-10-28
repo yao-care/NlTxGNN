@@ -48,10 +48,10 @@ Voor desogestrel is in de voor dit rapport verzamelde gegevens geen geregistreer
 |------|------|
 | Oorspronkelijke indicatie | Niet vastgelegd in de vergunningsgegevens (de vergunningstekst is leeg). Uit de literatuur blijkt gebruik als orale anticonceptie |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,96% |
-| Bewijsniveau | L2 volgens de scoring in de gegevens. Zie de kanttekening hieronder: het directe bewijs voor desogestrel is zwakker |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| TxGNN-voorspellingsscore | 0,9996 |
+| Bewijsniveau | L5 volgens de scoring in de gegevens. Zie de kanttekening hieronder: het directe bewijs voor desogestrel is zwakker |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (voorlopig niet verder; eerst aanvullend onderzoek) |
 
 **Kanttekening bewijsniveau:** de enige Phase 3-studie is beoordeeld met relevantiegraad C en toont niet aan dat desogestrel het onderzochte middel was. Het directe bewijs komt daarmee niet verder dan L3-L4 (observationeel onderzoek en mechanistische literatuur).
@@ -96,9 +96,9 @@ De overige gevonden publicaties zijn algemene overzichten van hormonale anticonc
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten (status: ingetrokken) | Niet vermeld | Niet vermeld |
+| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is bij het CBG-MEB één vergunning bekend, en die is ingetrokken. Er is dus geen geldige vergunning voor desogestrel als enkelvoudig product in de gegevens.
+Er is bij het CBG-MEB één vergunning bekend, en die is geldig (1 geldige vergunning van 1). Het middel is in Nederland op de markt.
 
 ---
 
@@ -128,7 +128,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 **Onderbouwing:**
 - Het mechanisme is aannemelijk, maar de enige Phase 3-studie toont niet aan dat desogestrel is onderzocht. Het overige bewijs bestaat uit kleine, oudere of indirecte studies.
-- In Nederland is geen geldige vergunning voor desogestrel als enkelvoudig product, en de veiligheidsgegevens uit de officiële productinformatie ontbreken.
+- In Nederland is het middel op de markt, met 1 geldige vergunning van 1; de veiligheidsgegevens uit de officiële productinformatie ontbreken.
 
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB downloaden en analyseren op waarschuwingen en contra-indicaties

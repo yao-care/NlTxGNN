@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "myopia-26-x-linked-female-limited",
-          "display": "myopia 26, X-linked, female-limited"
-        }
-      ],
-      "text": "myopia 26, X-linked, female-limited",
       "concept": {
         "text": "myopia 26, X-linked, female-limited"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9998
     }
   ]
 }

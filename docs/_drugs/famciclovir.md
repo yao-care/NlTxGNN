@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Famciclovir
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 147
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Famciclovir: voorspelde nieuwe indicatie Postinfectieuze neuralgie (bewijsniveau L4). Oorspronkelijke indicatie: Herpes zoster (gordelroos)"
@@ -14,7 +14,7 @@ predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hep
 # Famciclovir
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Famciclovir is een antiviraal middel dat oorspronkelijk wordt gebruikt voor de b
 |------|------|
 | Oorspronkelijke indicatie | Herpes zoster (gordelroos) |
 | Voorspelde nieuwe indicatie | Postinfectieuze neuralgie |
-| TxGNN-voorspellingsscore | 99,75% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal handelsvergunningen | 1 (ingetrokken) |
+| TxGNN-voorspellingsscore | 0.9975 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -84,7 +84,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 

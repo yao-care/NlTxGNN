@@ -4,7 +4,7 @@ title: Nitroglycerin
 parent: Matig bewijs (L3-L4)
 nav_order: 245
 evidence_level: L3
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
 monitor_inn: "nitroglycerin"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease"
 # Nitroglycerin
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Nitroglycerine is een stikstofmonoxide (NO)-donor die klassiek wordt gebruikt al
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-MEB) |
 | Voorspelde nieuwe indicatie | Pulmonale hypertensie |
-| TxGNN-voorspellingsscore | 99,61% |
+| TxGNN-voorspellingsscore | 0,9961 |
 | Bewijsniveau | L3 |
-| Status op de Nederlandse markt | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -85,7 +85,7 @@ Het verband met de bekende toepassing is plausibel: het vaatverwijdende effect d
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (doorgehaald) | Pleister | Niet vermeld in de beschikbare gegevens |
+| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (geldig) | Pleister | Niet vermeld in de beschikbare gegevens |
 
 ## Veiligheidsoverwegingen
 
@@ -99,10 +99,9 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
 |------|------|------|------|
-| Kyfoscoliotische hartziekte | 99,42% | L5 | Hold (alleen voorspelling, geen studies) |
-| Prinzmetal-angina | 99,39% | L4 | Onderzoeksvraag (waarschijnlijk al standaardpraktijk; geen nitroglycerine-specifieke trialgegevens) |
-| Primair erfelijk glaucoom | 99,16% | L5 | Hold (alleen voorspelling) |
-| Congenitale hypotrichosis met milia | 99,02% | L5 | Hold (waarschijnlijk artefact van de graaf) |
+| Kyfoscoliotische hartziekte | 0,9942 | L5 | Hold (alleen voorspelling, geen studies) |
+| Primair erfelijk glaucoom | 0,9916 | L5 | Hold (alleen voorspelling) |
+| Congenitale hypotrichosis met milia | 0,9902 | L5 | Hold (score van het TxGNN-model (deep learning); kan door het model geleerde overeenkomsten tussen verwante ziekten weerspiegelen, geen biologisch bewijs) |
 
 ## Conclusie en vervolgstappen
 

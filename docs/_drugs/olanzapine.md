@@ -4,17 +4,17 @@ title: Olanzapine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 252
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Olanzapine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (bewijsniveau L5). Oorspronkelijke indicatie: Schizofrenie, bipolaire stoornis…"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **3**
 
 </div>
 
-## Olanzapine: Van schizofrenie en bipolaire stoornis naar benigne paroxismale torticollis van de kindertijd
+## Olanzapine: Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Olanzapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij onder me
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Schizofrenie, bipolaire stoornis, depressieve stoornissen en angststoornissen (op basis van de kennisgraaf; de vergunningstekst is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd |
-| TxGNN-voorspellingsscore | 99,54% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) |
+| TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Olanzapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij onder me
 
 Voor deze voorspelling is eigenlijk weinig onderbouwing. Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Olanzapine is bekend als antagonist van dopamine- en serotoninereceptoren, en de werkzaamheid bij schizofrenie en bipolaire stoornis is aangetoond. Een plausibele farmacologische link met de nieuwe indicatie is op basis van de beschikbare gegevens niet vastgesteld.
 
-Benigne paroxismale torticollis van de kindertijd is een zelflimiterende, episodische aandoening bij jonge kinderen. Ze wordt gerekend tot het migrainespectrum en wordt in verband gebracht met kanaalziekten (zoals varianten in *CACNA1A*). De hoge score komt waarschijnlijk voort uit nabijheid in de kennisgraaf en niet uit een farmacologische reden. Bovendien zou blootstelling van zuigelingen aan een antipsychoticum aanzienlijke veiligheidsvragen oproepen.
+Benigne paroxismale torticollis van de kindertijd is een zelflimiterende, episodische aandoening bij jonge kinderen. Ze wordt gerekend tot het migrainespectrum en wordt in verband gebracht met kanaalziekten (zoals varianten in *CACNA1A*). De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, en is geen biologisch bewijs. Bovendien zou blootstelling van zuigelingen aan een antipsychoticum aanzienlijke veiligheidsvragen oproepen.
 
 ---
 
@@ -80,9 +80,9 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112855 | Malanxin 20 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 112855 | Malanxin 20 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-De enige bekende vergunning bij het CBG-MEB is doorgehaald. Op dit moment is er dus geen geldig geregistreerd olanzapineproduct in de gegevens van dit rapport.
+De enige bekende vergunning bij het CBG-MEB is doorgehaald.
 
 ---
 
@@ -114,8 +114,8 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor de veiligheidsinfo
 
 In de gegevens staan twee andere voorspellingen met meer ondersteuning. Beide zijn beoordeeld als onderzoeksvraag (niveau L3), niet als aanbeveling:
 
-- **Agorafobie** (score 99,47%): bewijs beperkt tot een open-label studie van 12 weken bij therapieresistente paniekstoornis (PMID 16415705), twee casuïstische meldingen en systematische reviews die alleen context bieden. Er is geen RCT. De metabole en sederende last van olanzapine weegt zwaar, omdat er eerstelijnsopties bestaan (SSRI's, SNRI's, CBT).
-- **Dysthymie** (score 99,28%): het bewijs is grotendeels indirect en geëxtrapoleerd uit depressieve stoornis, inclusief een Cochrane-review over tweedegeneratie-antipsychotica (PMID 21154393). De risico-batenverhouding van langdurig gebruik bij een chronische, mildere aandoening is zonder aanvullende gegevens ongunstig.
+- **Agorafobie** (score 0,9947): bewijs beperkt tot een open-label studie van 12 weken bij therapieresistente paniekstoornis (PMID 16415705), twee casuïstische meldingen en systematische reviews die alleen context bieden. Er is geen RCT. De metabole en sederende last van olanzapine weegt zwaar, omdat er eerstelijnsopties bestaan (SSRI's, SNRI's, CBT).
+- **Dysthymie**: het bewijs is grotendeels indirect en geëxtrapoleerd uit depressieve stoornis, inclusief een Cochrane-review over tweedegeneratie-antipsychotica (PMID 21154393). De risico-batenverhouding van langdurig gebruik bij een chronische, mildere aandoening is zonder aanvullende gegevens ongunstig.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Acarbose: voorspelde nieuwe indicatie Focaal stijve-ledemaatsyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Diabetes mellitus type 2"
 monitor_inn: "Acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-27
+description: "Acarbose: voorspelde nieuwe indicatie Focaal stiff-limb-syndroom (focal stiff limb syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Acarbose
@@ -33,110 +33,63 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Acarbose: Van diabetes mellitus type 2 naar focale stijve-ledemaatsyndroom
+## Acarbose: alfa-glucosidaseremmer → focaal stiff-limb-syndroom (focal stiff limb syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Acarbose is een alfa-glucosidaseremmer die oorspronkelijk wordt gebruikt voor de behandeling van diabetes mellitus type 2. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **focaal stijve-ledemaatsyndroom (focal stiff limb syndrome)**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden, dus het is vooralsnog uitsluitend een modelvoorspelling.
-
----
+Acarbose is een alfa-glucosidaseremmer die de opname van koolhydraten in de darm vertraagt. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **focaal stiff-limb-syndroom (focal stiff limb syndrome)**. Voor deze voorspelling zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Diabetes mellitus type 2 (afkomstig uit de kennisgraaf; in de Nederlandse registratie is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Focaal stijve-ledemaatsyndroom |
-| TxGNN-voorspellingsscore | 99,65% |
-| Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
-| Aanbevolen beslissing | Hold |
-
----
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Focaal stiff-limb-syndroom (focal stiff limb syndrome) |
+| TxGNN-voorspellingsscore | 0,9965 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van acarbose zijn in de voor dit rapport verzamelde data niet beschikbaar. Algemeen bekend is dat acarbose intestinale alfa-glucosidasen remt en zo de opname van koolhydraten vertraagt, waardoor de postprandiale bloedglucosepiek daalt.
+Acarbose remt alfa-glucosidasen in de dunne darm en vermindert zo de stijging van de bloedglucose na een maaltijd. Gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport verzamelde gegevens, maar dit klassenmechanisme is algemeen bekend.
 
-Focaal stijve-ledemaatsyndroom hoort bij het stijve-persoonspectrum (stiff-person-spectrum). Dit is een auto-immuun neurologische aandoening met verminderde GABA-erge remming. Er is geen herkenbaar mechanistisch verband met acarbose: het middel werkt niet op deze route.
-
-De hoge score (99,65%) komt waarschijnlijk voort uit grafische nabijheid in de kennisgraaf, doordat stijve-persoonsyndromen vaak samengaan met auto-immuundiabetes. Betere glykemische controle zou de neurologische aandoening niet behandelen. De voorspelling is dus geen therapeutische onderbouwing.
-
-Overige voorspellingen van het model voor acarbose (allemaal evidenceniveau L5, besluit Hold):
-
-| Voorspelde indicatie | Score | Mechanistische beoordeling |
-|------|------|------|
-| Klassiek stijve-persoonsyndroom | 99,65% | Geen direct verband; anti-GAD65-auto-immuniteit, waarschijnlijk comorbiditeit met diabetes |
-| Thiamine-responsief disfunctiesyndroom | 99,62% | Geen verband; behandeling is thiamine, acarbose hooguit symptomatisch |
-| Opsismodysplasie | 99,62% | Geen plausibel verband; gedeeld insulinesignaleringsknooppunt in de graaf |
-| Geneesmiddelgeïnduceerde gelokaliseerde lipodystrofie | 99,24% | Indirect en speculatief |
-| Centrifugale lipodystrofie | 99,22% | Geen vastgesteld mechanisme |
-| Drukgeïnduceerde gelokaliseerde lipoatrofie | 99,20% | Geen mechanistische onderbouwing |
-| Idiopathische gelokaliseerde lipodystrofie | 99,17% | Geen vastgesteld mechanisme |
-| Pancreasagenesie | 99,16% | Zwak en indirect; acarbose kan insuline niet vervangen |
-
----
+Focaal stiff-limb-syndroom hoort bij het spectrum van het stiff-person-syndroom. Dit is een autoimmuun-neurologische aandoening met verminderde GABAerge remming. Er is geen aanwijsbare mechanistische relatie met de werking van acarbose. De hoge score van 0,9965 is vermoedelijk een gevolg van netwerkverbanden in het model, bijvoorbeeld de associatie van stiff-person-spectrumstoornissen met auto-immuundiabetes. Dat is geen therapeutische onderbouwing: het reguleren van de bloedglucose behandelt de neurologische aandoening niet.
 
 ## Klinisch trialbewijs
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
-
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Literatuurbewijs
 
-Voor de hoofdvoorspelling (focaal stijve-ledemaatsyndroom) is geen literatuur beschikbaar.
-
-Voor een andere voorspelling, pancreasagenesie (rang 9), zijn wel tien publicaties gevonden. Geen daarvan gaat over pancreasagenesie of de behandeling daarvan met acarbose; ze bieden dus geen direct bewijs. Ter volledigheid:
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [10094112](https://pubmed.ncbi.nlm.nih.gov/10094112/) | 1999 | Preklinisch (dier) | Metabolism | Acarbose kon metabole afwijkingen bij de OLETF-rat (diabetesmodel) voorkomen en omkeren |
-| [9506190](https://pubmed.ncbi.nlm.nih.gov/9506190/) | 1998 | Review | Advances in Internal Medicine | Overzicht van diabetes type 2 en bijbehorende metabole afwijkingen |
-| [21697254](https://pubmed.ncbi.nlm.nih.gov/21697254/) | 2011 | Review | J Clin Endocrinol Metab | Behoud van bètacelfunctie als sleutel tot diabetespreventie |
-| [15449970](https://pubmed.ncbi.nlm.nih.gov/15449970/) | 2004 | Review | Am J Cardiovasc Drugs | Verband tussen hartfalen en gestoorde glucosestofwisseling |
-| [12877088](https://pubmed.ncbi.nlm.nih.gov/12877088/) | 2003 | Review | Nihon Rinsho | Behandeling van postprandiale hyperglykemie bij hypertensieve patiënten met diabetes type 2 |
-| [10746006](https://pubmed.ncbi.nlm.nih.gov/10746006/) | 1999 | Review | Diabetes & Metabolism | Insulinesecretie en repaglinide |
-| [34562871](https://pubmed.ncbi.nlm.nih.gov/34562871/) | 2021 | Casusbeschrijving | Diabetes Metab Syndr | Continue glucosemonitoring en rituximab bij insuline-auto-immuunsyndroom |
-| [30572448](https://pubmed.ncbi.nlm.nih.gov/30572448/) | 2018 | Casusbeschrijving | Medicine | Drie casussen van insuline-auto-immuunsyndroom |
-| [38623323](https://pubmed.ncbi.nlm.nih.gov/38623323/) | 2024 | Casusbeschrijving | Cureus | Persisterend insuline-auto-immuunsyndroom zonder uitlokkende factoren |
-| [36873120](https://pubmed.ncbi.nlm.nih.gov/36873120/) | 2023 | Preklinisch (dier) | J Med Life | Antidiabetische werking van bittere honing in diabetische ratten |
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119572//12604 (doorgehaald) | Glucobay 50 mg, tabletten | Niet vermeld | Niet vermeld |
-
-Er is momenteel geen geldige registratie van acarbose in Nederland bij het CBG-MEB.
-
----
+| RVG 119572//12604 | Glucobay 50 mg, tabletten | Niet vermeld | Niet vermeld |
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (afkomstig uit de TxGNN-kennisgraaf, niet uit de bijsluitertekst): nierziekte, pyourether, leverziekte, galblaasziekte, levercirrose, inflammatoire darmziekte, hypoglykemie en letsel.
-- **Geneesmiddelinteracties**: in totaal zijn 100 interacties gevonden. Voorbeelden van matige interacties zijn acetazolamide, salbutamol, aloë vera-blad, alpelisib, amprenavir, aripiprazol, asenapine, atazanavir, bedaquiline, bendroflumethiazide, benzfetamine, benzthiazide en betamethason. Voorbeelden van geringe interacties zijn albiglutide, alclometason (lokaal), liponzuur, amcinonide en anisindion.
+- **Geneesmiddelinteracties**: In de interactiedatabase (DDInter) zijn 100 interacties vastgelegd. Voorbeelden van matig ernstige interacties zijn acetazolamide, salbutamol, aloë vera-blad, alpelisib, amprenavir, aripiprazol, asenapine, atazanavir, bedaquiline, bendroflumethiazide en betamethason. Voorbeelden van lichte interacties zijn albiglutide, alclometason (lokaal), liponzuur, amcinonide en anisindion.
 
-Voor volledige informatie over waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
-
----
+Raadpleeg voor de overige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold (aanhouden)**
 
 **Onderbouwing:**
-- De voorspelling voor focaal stijve-ledemaatsyndroom berust uitsluitend op een grafmodel. Er zijn geen studies of publicaties, en er is geen aannemelijk mechanistisch verband. Daarnaast is acarbose in Nederland momenteel niet geldig geregistreerd.
+- Er is geen enkele klinische studie of publicatie die acarbose bij focaal stiff-limb-syndroom onderzoekt, en er is geen aannemelijk mechanisme. De voorspelling berust uitsluitend op het model (bewijsniveau L5).
 
 **Om verder te gaan is het volgende nodig:**
-- Gegevens over het werkingsmechanisme van acarbose (bijvoorbeeld uit DrugBank).
-- Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB, nodig voor een veiligheidsscreening.
-- Aanwijzingen uit preklinisch of klinisch onderzoek voor een werkzaamheidssignaal bij stijve-persoonsyndromen.
-- Opheldering van de registratiestatus en beschikbare toedieningsvormen in Nederland.
+- Een onderbouwde mechanistische hypothese die de werking van acarbose koppelt aan GABAerge remming of auto-immuunprocessen bij het stiff-person-spectrum
+- Preklinisch of klinisch onderzoek dat acarbose bij deze aandoening direct bestudeert
+- Aanvullende gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC
+- Een controle van de beschikbare toedieningsvormen en de indicatietekst in de lokale registratiegegevens
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

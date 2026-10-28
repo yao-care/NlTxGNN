@@ -4,17 +4,17 @@ title: Metyrapone
 parent: Alleen modelvoorspelling (L5)
 nav_order: 230
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Metyrapone: voorspelde nieuwe indicatie Exercise-induced malignant hyperthermia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de enige vergunning bevat geen indic…"
 monitor_inn: "metyrapone"
-predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
+predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 ---
 
 # Metyrapone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de vo
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de enige vergunning bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Exercise-induced malignant hyperthermia |
-| TxGNN-voorspellingsscore | 99,95% |
+| TxGNN-voorspellingsscore | 0,9995 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,9 +62,9 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de vo
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde gegevens. Uit algemene kennis is metyrapon een remmer van 11-bèta-hydroxylase (CYP11B1) en verlaagt het de cortisolsynthese in de bijnier.
 
-Maligne hyperthermie is daarentegen een stoornis van de calciumhuishouding in de skeletspier (RYR1/CACNA1S). Er is geen bekend biologisch verband met remming van de steroïdsynthese. De hoge score lijkt voort te komen uit nabijheid in het kennisnetwerk (grafen) en niet uit een aangetoond mechanisme. Dezelfde conclusie geldt voor de overige voorspelde aandoeningen in deze analyse, zoals gerelateerde congenitale myopathieën (o.a. King-Denborough-syndroom, central core myopathy, centronucleaire myopathie).
+Maligne hyperthermie is daarentegen een stoornis van de calciumhuishouding in de skeletspier (RYR1/CACNA1S). Er is geen bekend biologisch verband met remming van de steroïdsynthese. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, en niet een aangetoond biologisch mechanisme. Dezelfde conclusie geldt voor de overige voorspelde aandoeningen in deze analyse, zoals gerelateerde congenitale myopathieën (o.a. King-Denborough-syndroom, central core myopathy, centronucleaire myopathie).
 
-Een enkele aandoening, **familial periodic paralysis** (score 99,40%), heeft een indirect denkbaar fysiologisch verband via de invloed van steroïdhormonen op kaliumverschuivingen. Het enige gevonden artikel (zie hieronder) is echter een fysiologische studie uit 1971 en geen bewijs voor werkzaamheid.
+Een enkele aandoening, **familial periodic paralysis** (score 0,9940), heeft een indirect denkbaar fysiologisch verband via de invloed van steroïdhormonen op kaliumverschuivingen. Het enige gevonden artikel (zie hieronder) is echter een fysiologische studie uit 1971 en geen bewijs voor werkzaamheid.
 
 ---
 
@@ -90,9 +90,9 @@ Voor de nevenvoorspelling familial periodic paralysis is één publicatie gevond
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113510 | Metopirone 250 mg capsules, zacht | Niet beschikbaar | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 113510 | Metopirone 250 mg capsules, zacht | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-Er is momenteel geen geldige vergunning voor metyrapon in de gegevens van het CBG-MEB.
+Metyrapon is momenteel op de markt: in de gegevens van het CBG-MEB is 1 van de 1 vergunningen geldig.
 
 ---
 

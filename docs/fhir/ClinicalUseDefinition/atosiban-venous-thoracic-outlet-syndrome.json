@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "venous-thoracic-outlet-syndrome",
-          "display": "venous thoracic outlet syndrome"
-        }
-      ],
-      "text": "venous thoracic outlet syndrome",
       "concept": {
         "text": "venous thoracic outlet syndrome"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9986
     }
   ]
 }

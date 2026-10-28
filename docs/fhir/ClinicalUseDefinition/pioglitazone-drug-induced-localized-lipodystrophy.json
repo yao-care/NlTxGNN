@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "drug-induced-localized-lipodystrophy",
-          "display": "drug-induced localized lipodystrophy"
-        }
-      ],
-      "text": "drug-induced localized lipodystrophy",
       "concept": {
         "text": "drug-induced localized lipodystrophy"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.993
     }
   ]
 }

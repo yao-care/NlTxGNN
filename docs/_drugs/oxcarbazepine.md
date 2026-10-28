@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxcarbazepine: voorspelde nieuwe indicatie Visuele epilepsie (bewijsniveau L4). Oorspronkelijke indicatie: Partiële epilepsie (partiële motorische epilepsie)"
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Oxcarbazepine: Van partiële epilepsie naar visuele epilepsie
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,15 +48,14 @@ Er zijn momenteel **geen geregistreerde klinische studies** en **16 publicaties*
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Partiële epilepsie (partiële motorische epilepsie) |
-| Voorspelde nieuwe indicatie | Visuele epilepsie |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Restless legs syndrome |
+| TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunning) |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
-*Opmerking: de oorspronkelijke indicatie is afkomstig uit de TxGNN-kennisgraaf; de vergunningstekst in de Nederlandse registratie bevat geen indicatietekst.*
 
 ---
 
@@ -94,7 +93,7 @@ De onderstaande publicaties zijn algemeen van aard. Geen ervan onderzoekt oxcarb
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118970//24751 | Trileptal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning ingetrokken) |
+| RVG 118970//24751 | Trileptal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 
@@ -116,7 +115,7 @@ Raadpleeg voor de volledige veiligheidsinformatie de SmPC (Samenvatting van de P
 
 **Onderbouwing:**
 - De voorspelling steunt alleen op het model en op indirecte literatuur. Er zijn geen klinische studies en geen publicaties over oxcarbazepine bij visuele epilepsie.
-- Er is geen geldige Nederlandse vergunning (alleen een ingetrokken registratie), en de veiligheidsgegevens uit de officiële bijsluiter ontbreken. Daardoor kan de veiligheidsscreening niet worden voortgezet.
+- Daardoor kan de veiligheidsscreening niet worden voortgezet.
 
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB verzamelen en analyseren.
@@ -132,15 +131,13 @@ Het model voorspelde ook andere indicaties. Hieronder staat een korte samenvatti
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Aanbeveling | Opmerking |
 |------|------|------|------|------|------|
-| 2 | Restless legs syndroom | 99,89% | L4 | Onderzoeksvraag | Alleen kleine casusbeschrijvingen (3 patiënten in 2009; 1 paroxetine-geïnduceerd geval in 2006); geen gecontroleerde studies |
-| 3 | Denk-geïnduceerde aanvallen | 99,89% | L4 | Hold | Vooral preklinische muizenstudies en algemene reviews |
-| 4 | Startle-epilepsie | 99,89% | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
-| 5 | Audiogene aanvallen | 99,89% | L4 | Hold | Alleen diermodellen (DBA/2-muizen) |
-| 6 | Mictie-geïnduceerde aanvallen | 99,89% | L4 | Hold | Alleen algemene reviews en richtlijnen |
-| 7 | Orgasme-geïnduceerde aanvallen | 99,89% | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
-| 8 | Eet-geïnduceerde aanvallen | 99,89% | L5 | Hold | Geen relevante literatuur |
-| 9 | Status epilepticus | 99,87% | L4 | Hold | Casusgegevens met gemengd voordeel en risico (2014: gebruik bij refractaire status; 2013: myoclonische status uitgelokt) |
-| 10 | Lees-geïnduceerde aanvallen | 99,84% | L4 | Hold | Indirect bewijs; casusbeschrijvingen bij reflexepilepsie (koude- en warmwaterepilepsie) melden effect van oxcarbazepine |
+| 2 | Restless legs syndroom | 0,9989 | L4 | Onderzoeksvraag | Alleen kleine casusbeschrijvingen (3 patiënten in 2009; 1 paroxetine-geïnduceerd geval in 2006); geen gecontroleerde studies |
+| 3 | Denk-geïnduceerde aanvallen | 0,9989 | L4 | Hold | Vooral preklinische muizenstudies en algemene reviews |
+| 4 | Startle-epilepsie | 0,9989 | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
+| 5 | Audiogene aanvallen | 0,9989 | L4 | Hold | Alleen diermodellen (DBA/2-muizen) |
+| 6 | Mictie-geïnduceerde aanvallen | 0,9989 | L4 | Hold | Alleen algemene reviews en richtlijnen |
+| 7 | Orgasme-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
+| 8 | Eet-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Geen relevante literatuur |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

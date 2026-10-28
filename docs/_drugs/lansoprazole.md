@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lansoprazole
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 198
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lansoprazole: voorspelde nieuwe indicatie Duodenogastrische reflux (bewijsniveau L4). Oorspronkelijke indicatie: Maagzweer, peptische ulcusziekte, gastro-oesofageale refluxziekte…"
 monitor_inn: "lansoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Lansoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lansoprazole
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 </div>
 
-## Lansoprazol: Van maagzweer naar duodenogastrische reflux
+## Lansoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Lansoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt voor zuurg
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Maagzweer, peptische ulcusziekte, gastro-oesofageale refluxziekte, oesofagitis, zweer aan de twaalfvingerige darm, Zollinger-Ellison-syndroom (volgens de kennisgraaf; de vergunningstekst bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Duodenogastrische reflux |
-| TxGNN-voorspellingsscore | 99,69% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Duodenal obstruction |
+| TxGNN-voorspellingsscore | 0.9968 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -64,7 +64,7 @@ Duodenogastrische reflux is het terugstromen van duodenale inhoud, waaronder gal
 
 De hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid in het netwerk tot de goedgekeurde zuurgerelateerde indicaties en niet een gevalideerd mechanisme. De voorspelling moet daarom met terughoudendheid worden beoordeeld.
 
-*Opmerking:* de tweede voorspelling, duodenale obstructie (score 99,68%, bewijsniveau L5), heeft geen duidelijke mechanistische samenhang. Het is een mechanische aandoening die chirurgisch of endoscopisch wordt behandeld. Zuurremming zou hooguit ondersteunend zijn. Er is geen klinisch of literatuurbewijs, en de aanbeveling is eveneens Hold.
+*Opmerking:* de tweede voorspelling, duodenale obstructie (score 0,9968, bewijsniveau L5), heeft geen duidelijke mechanistische samenhang. Het is een mechanische aandoening die chirurgisch of endoscopisch wordt behandeld. Zuurremming zou hooguit ondersteunend zijn. Er is geen klinisch of literatuurbewijs, en de aanbeveling is eveneens Hold.
 
 ---
 
@@ -86,9 +86,9 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard (status: doorgehaald) | Niet vermeld | Niet vermeld |
+| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is geen geldige registratie bij het CBG-MEB meer voor lansoprazol als enkelvoudig product. Wel zijn er mogelijk andere lansoprazolproducten op de markt die niet in de samengestelde data zijn opgenomen.
+Wel zijn er mogelijk andere lansoprazolproducten op de markt die niet in de samengestelde data zijn opgenomen.
 
 ---
 
@@ -110,7 +110,7 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust vooral op netwerknabijheid in de kennisgraaf. Er zijn geen klinische studies en geen literatuur die lansoprazol specifiek bij duodenogastrische reflux onderzoekt. Het mechanisme (zuurremming) pakt de onderliggende oorzaak niet aan.
+- Er zijn geen klinische studies en geen literatuur die lansoprazol specifiek bij duodenogastrische reflux onderzoekt. Het mechanisme (zuurremming) pakt de onderliggende oorzaak niet aan.
 - De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken.
 
 **Om verder te gaan is het volgende nodig:**

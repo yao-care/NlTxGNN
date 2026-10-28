@@ -4,17 +4,17 @@ title: Tretinoin
 parent: Alleen modelvoorspelling (L5)
 nav_order: 331
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (bewijsniveau L5). Oorspronkelijke indicatie: Acne, acute promyelocytaire leukemie, verworven keratose…"
 monitor_inn: "tretinoin"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+description: "Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Tretinoïne: Van acne en acute promyelocytaire leukemie naar reumatoïde nodulose
+## Tretinoin: Reumatoïde nodulose (rheumatoid nodulosis)
 {: .text-alpha }
 
 ## Samenvatting
@@ -48,12 +48,12 @@ De voorspelling is dus uitsluitend gebaseerd op een computermodel.
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Acne, acute promyelocytaire leukemie, verworven keratose, palmoplantaire keratodermie (volgens de kennisgraaf; de goedkeuringstekst van de Nederlandse registraties is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Reumatoïde nodulose |
-| TxGNN-voorspellingsscore | 99,84% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Reumatoïde nodulose (rheumatoid nodulosis) |
+| TxGNN-voorspellingsscore | 0.9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal registraties | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,10 +84,10 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 101711//20455 | Vesanoid, capsules 10 mg (doorgehaald) | Capsule | Niet beschikbaar |
-| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel (doorgehaald) | Gel | Niet beschikbaar |
+| RVG 101711//20455 | Vesanoid, capsules 10 mg (geldig) | Capsule | Niet beschikbaar |
+| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel (geldig) | Gel | Niet beschikbaar |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald. Er is momenteel geen geldig tretinoïneproduct op de Nederlandse markt in de gegevens.
+Beide registraties bij het CBG-MEB zijn doorgehaald.
 
 ---
 

@@ -46,10 +46,10 @@ Voor fentanyl is in de voor dit rapport verzamelde gegevens geen geregistreerde 
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens (de vergunningstekst is leeg) |
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese (NSIAD) |
-| TxGNN-voorspellingsscore | 99,46% |
+| TxGNN-voorspellingsscore | 0,9946 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -62,7 +62,7 @@ NSIAD wordt veroorzaakt door activerende mutaties in de vasopressine-V2-receptor
 
 ### Tweede voorspelling: syndroom van Gilles de la Tourette
 
-Het model voorspelt ook het syndroom van Gilles de la Tourette (score 99,05%, bewijsniveau L5, beslissing Hold). Het verband is zwak en speculatief: het endogene opioïdesysteem moduleert dopaminerge signalering in het striatum, en er is beperkte interesse in opioïdmodulatoren bij tics. Fentanyl is echter een krachtige volledige agonist met hoog misbruikpotentieel, risico op ademhalingsdepressie en tolerantie- en afhankelijkheidsproblemen. Dat maakt het een slechte kandidaat voor een chronische, vaak pediatrische aandoening. Ook hiervoor zijn geen studies of publicaties gevonden.
+Het model voorspelt ook het syndroom van Gilles de la Tourette (score 0,9905, bewijsniveau L5, beslissing Hold). Het verband is zwak en speculatief: het endogene opioïdesysteem moduleert dopaminerge signalering in het striatum, en er is beperkte interesse in opioïdmodulatoren bij tics. Fentanyl is echter een krachtige volledige agonist met hoog misbruikpotentieel, risico op ademhalingsdepressie en tolerantie- en afhankelijkheidsproblemen. Dat maakt het een slechte kandidaat voor een chronische, vaak pediatrische aandoening. Ook hiervoor zijn geen studies of publicaties gevonden.
 
 ## Klinisch studiebewijs
 
@@ -78,7 +78,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 118447//16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | Niet vermeld | Niet vermeld |
 
-Deze vergunning is doorgehaald; er is geen geldige vergunning in Nederland.
+Dit geneesmiddel is in Nederland op de markt; 1 van de 1 vergunningen is geldig.
 
 ## Veiligheidsoverwegingen
 

@@ -4,17 +4,17 @@ title: Phenylephrine
 parent: Matig bewijs (L3-L4)
 nav_order: 267
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Allergische rinitis, vasomotorische rinitis, faryngitis…"
 monitor_inn: "phenylephrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **3**
 
 </div>
 
-## Fenylefrine: Van allergische rinitis naar aandoeningen van de neusholte
+## Phenylephrine: Aandoening van de neusholte (nasal cavity disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **5 publicaties** bes
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Allergische rinitis, vasomotorische rinitis, faryngitis, verkoudheid (volgens de kennisgraaf; de Nederlandse vergunningen bevatten geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Aandoening van de neusholte (nasal cavity disease) |
-| TxGNN-voorspellingsscore | 99,97% |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -90,10 +90,10 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie (doorgehaald) | Oplossing voor injectie | Niet beschikbaar |
-| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie (doorgehaald) | Oplossing voor injectie | Niet beschikbaar |
+| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie (geldig) | Oplossing voor injectie | Niet beschikbaar |
+| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie (geldig) | Oplossing voor injectie | Niet beschikbaar |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; er is momenteel geen geldige vergunning voor fenylefrine als enkelvoudig of gecombineerd product.
+Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergunningen voor fenylefrine als enkelvoudig of gecombineerd product.
 
 ---
 

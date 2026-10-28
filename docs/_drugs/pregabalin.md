@@ -48,10 +48,10 @@ Pregabaline wordt gebruikt bij angststoornissen, fibromyalgie, myofasciaal pijns
 |------|------|
 | Oorspronkelijke indicatie | Angststoornis, fibromyalgie, myofasciaal pijnsyndroom, postherpetische neuralgie (op basis van de TxGNN-kennisgraaf; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
 | Voorspelde nieuwe indicatie | Tendinitis |
-| TxGNN-voorspellingsscore | 99,71% |
-| Bewijsniveau | L4 (alleen mechanistische onderbouwing, geen directe klinische studies) |
-| Marktstatus in Nederland | Alleen doorgehaalde (vervallen) vergunning |
-| Aantal vergunningen | 1 (doorgehaald) |
+| TxGNN-voorspellingsscore | 0,9971 |
+| Bewijsniveau | L5 (alleen mechanistische onderbouwing, geen directe klinische studies) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -60,7 +60,7 @@ Pregabaline wordt gebruikt bij angststoornissen, fibromyalgie, myofasciaal pijns
 
 Pregabaline bindt aan de alfa-2-delta-subeenheid van spanningsafhankelijke calciumkanalen. Daardoor komt er minder van de prikkelende neurotransmitters vrij. Dit verklaart de werking bij neuropathische pijn en bij pijn met centrale sensitisatie, zoals fibromyalgie. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie.
 
-Het verband met tendinitis is indirect. Tendinitis is vooral een mechanische en ontstekingsaandoening van de pees. Pregabaline zou hooguit de pijncomponent kunnen verlichten, vooral als er neuropathische of centraal gesensitiseerde pijn bij komt kijken. Een effect op het ontstekings- of herstelproces van de pees is niet aannemelijk. De hoge modelscore (0,997) wordt niet gestaafd door direct klinisch bewijs.
+Het verband met tendinitis is indirect. Tendinitis is vooral een mechanische en ontstekingsaandoening van de pees. Pregabaline zou hooguit de pijncomponent kunnen verlichten, vooral als er neuropathische of centraal gesensitiseerde pijn bij komt kijken. Een effect op het ontstekings- of herstelproces van de pees is niet aannemelijk. De hoge modelscore (0,9971) wordt niet gestaafd door direct klinisch bewijs.
 
 ---
 
@@ -89,7 +89,7 @@ Geen van onderstaande publicaties onderzoekt pregabaline bij tendinitis zelf. He
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 118497 | Linefor 300 mg, harde capsules | Doorgehaald |
+| RVG 118497 | Linefor 300 mg, harde capsules | Geldig |
 
 De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de gegevens voor dit rapport. Raadpleeg de CBG-MEB-database voor de actuele status van pregabalinebevattende producten.
 
@@ -119,7 +119,7 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is geen direct klinisch bewijs voor pregabaline bij tendinitis. De hoge TxGNN-score (99,71%) wordt alleen ondersteund door een indirect mechanisme via pijnmodulatie. De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.
+- Er is geen direct klinisch bewijs voor pregabaline bij tendinitis. De hoge TxGNN-score (0,9971) wordt alleen ondersteund door een indirect mechanisme via pijnmodulatie. De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.
 - Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald".
 
 **Om verder te gaan is het volgende nodig:**
@@ -129,7 +129,7 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 - Aanvullende mechanistische gegevens uit DrugBank
 - Een afweging van de veiligheid, met name sedatie, het gebruik samen met opioïden en nierfunctie
 
-**Opmerking:** in dezelfde analyse heeft de voorspelde indicatie **migraine** (rang 5, score 99,47%) sterker bewijs. Het bewijsniveau is L2. Er zijn pediatrische RCT's waarin pregabaline wordt vergeleken met propranolol en natriumvalproaat, en preklinisch onderzoek naar corticale spreidingsdepressie. Daar staat tegenover dat een fase 3-studie is ingetrokken en dat de studies klein en overwegend pediatrisch zijn. Migraine kan daarom een geschiktere kandidaat zijn voor verdere evaluatie als onderzoeksvraag.
+**Opmerking:** in dezelfde analyse heeft de voorspelde indicatie **migraine** (rang 5, score 0,9947) sterker bewijs. Het bewijsniveau is L2. Er zijn pediatrische RCT's waarin pregabaline wordt vergeleken met propranolol en natriumvalproaat, en preklinisch onderzoek naar corticale spreidingsdepressie. Daar staat tegenover dat een fase 3-studie is ingetrokken en dat de studies klein en overwegend pediatrisch zijn. Migraine kan daarom een geschiktere kandidaat zijn voor verdere evaluatie als onderzoeksvraag.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

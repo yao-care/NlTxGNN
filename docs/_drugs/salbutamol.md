@@ -4,7 +4,7 @@ title: Salbutamol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 298
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Astma, bronchiale aandoening"
 monitor_inn: "salbutamol"
@@ -14,7 +14,7 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 # Salbutamol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Salbutamol is een bronchusverwijder (bèta-2-agonist) die oorspronkelijk wordt g
 |------|------|
 | Oorspronkelijke indicatie | Astma, bronchiale aandoening |
 | Voorspelde nieuwe indicatie | Papillaire conjunctivitis |
-| TxGNN-voorspellingsscore | 99,996% |
+| TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 3 (alle 3 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -78,13 +78,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Voor de goedkeuringen in de gegevens van het CBG-MEB zijn geen dosisvorm en geen goedgekeurde indicatietekst vastgelegd. Alle drie de vergunningen zijn doorgehaald.
+Voor de goedkeuringen in de gegevens van het CBG-MEB zijn geen dosisvorm en geen goedgekeurde indicatietekst vastgelegd. Alle drie de vergunningen zijn geldig.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 112038//21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | Doorgehaald |
-| RVG 114132 | Ipratropiumbromide/Salbutamol Cipla 0,5/2,5 mg per 2,5 ml, verneveloplossing | Doorgehaald |
-| RVG 118115 | Zerseos 0,5 mg/2,5 mg per 2,5 ml, verneveloplossing | Doorgehaald |
+| RVG 112038//21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | Geldig |
+| RVG 114132 | Ipratropiumbromide/Salbutamol Cipla 0,5/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
+| RVG 118115 | Zerseos 0,5 mg/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
 
 ---
 
@@ -110,7 +110,7 @@ Raadpleeg voor de volledige en officiële veiligheidsinformatie (waarschuwingen 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor papillaire conjunctivitis berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en alle Nederlandse vergunningen zijn doorgehaald.
+- De voorspelling voor papillaire conjunctivitis berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en alle drie de Nederlandse vergunningen zijn geldig.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor het oog.

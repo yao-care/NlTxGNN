@@ -4,17 +4,17 @@ title: Liothyronine
 parent: Alleen modelvoorspelling (L5)
 nav_order: 210
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Liothyronine: voorspelde nieuwe indicatie Renale hypodysplasie/aplasie (bewijsniveau L5). Oorspronkelijke indicatie: Hypothyreoïdie"
 monitor_inn: "liothyronine"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "nodular goiter (disease)", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
+description: "Liothyronine: voorspelde nieuwe indicatie Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Liothyronine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Liothyronine: Van hypothyreoïdie naar renale hypodysplasie/aplasie
+## Liothyronine: Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -47,12 +47,12 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **renale hypodysplasi
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypothyreoïdie (o.a. myxoedeem, congenitale hypothyreoïdie, struma, schildklierkanker; op basis van de kennisgraaf, niet op basis van de registratietekst) |
-| Voorspelde nieuwe indicatie | Renale hypodysplasie/aplasie |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia) |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (ingetrokken) |
-| Aantal registraties | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -61,7 +61,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **renale hypodysplasi
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is liothyronine een schildklierhormoon waarvan de werkzaamheid bij hypothyreoïdie is aangetoond. Een mechanistisch verband met renale hypodysplasie/aplasie is op basis van de beschikbare gegevens niet onderbouwd.
 
-Schildklierhormoonsignalering speelt in het algemeen een rol bij de nierontwikkeling. Er is echter geen directe aanwijzing dat behandeling met liothyronine congenitale nierafwijkingen beïnvloedt. Het gaat om structurele, prenatale ontwikkelingsstoornissen, die waarschijnlijk niet omkeerbaar zijn door hormoonsuppletie. De hoge score weerspiegelt waarschijnlijk netwerknabijheid met schildklier- en ontwikkelingsgenen in de kennisgraaf, en niet therapeutische relevantie.
+Schildklierhormoonsignalering speelt in het algemeen een rol bij de nierontwikkeling. Er is echter geen directe aanwijzing dat behandeling met liothyronine congenitale nierafwijkingen beïnvloedt. Het gaat om structurele, prenatale ontwikkelingsstoornissen, die waarschijnlijk niet omkeerbaar zijn door hormoonsuppletie. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs of therapeutische relevantie.
 
 Andere voorspellingen met vergelijkbare scores (o.a. bilaterale nieragenesie, Potter-sequentie, nodulair struma, Carney-complex, acrodysostose, myxoom, hypotrichosis simplex van de hoofdhuid) hebben eveneens uitsluitend een modelmatige basis. Nodulair struma ligt het dichtst bij een bestaand gebruik, maar is feitelijk geen echte herpositionering.
 
@@ -83,7 +83,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor renale hypodysplas
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108769 | Cytomel 25 microgram, tabletten (doorgehaald) | Tablet | Niet beschikbaar in de samengestelde gegevens |
+| RVG 108769 | Cytomel 25 microgram, tabletten (geldig) | Tablet | Niet beschikbaar in de samengestelde gegevens |
 
 ---
 

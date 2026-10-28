@@ -6,9 +6,9 @@ nav_order: 334
 evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de beschikbare gegevens"
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
+description: "Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tryptophan
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **8**
 
 </div>
 
-## Tryptofaan: Van een niet-vermelde oorspronkelijke indicatie naar rustelozebenensyndroom
+## Tryptophan: Rustelozebenensyndroom (restless legs syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Tryptofaan is een essentieel aminozuur en voorloper van serotonine en melatonine
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vermeld in de beschikbare gegevens |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Rustelozebenensyndroom (restless legs syndrome) |
-| TxGNN-voorspellingsscore | 99,72% |
+| TxGNN-voorspellingsscore | 0.9972 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,10 +89,10 @@ Currently no related clinical trials registered.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 105073 | NuTRIflex Omega special, emulsie voor infusie | Niet vermeld | Niet vermeld (registratie doorgehaald) |
-| RVG 113263 | Kidiamix G15%, oplossing voor infusie | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 105073 | NuTRIflex Omega special, emulsie voor infusie | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 113263 | Kidiamix G15%, oplossing voor infusie | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; momenteel is er geen geldige vergunning voor een product met tryptofaan als enkelvoudig middel.
+Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); het middel wordt momenteel op de markt gebracht.
 
 ---
 
@@ -123,7 +123,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties uit de officiële productinfo
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling heeft een hoge modelscore, maar het bewijs bestaat uit kleine, verouderde studies (1986–1987) en indirecte gegevens, zonder geregistreerde klinische studies. Daarnaast is er geen geldige Nederlandse vergunning, zijn er veel majeure interacties met serotonerge middelen en is er een historisch veiligheidssignaal (eosinofilie-myalgiesyndroom).
+- De voorspelling heeft een hoge modelscore, maar het bewijs bestaat uit kleine, verouderde studies (1986–1987) en indirecte gegevens, zonder geregistreerde klinische studies.
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke geregistreerde indicatie

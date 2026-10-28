@@ -6,9 +6,9 @@ nav_order: 329
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Travoprost: voorspelde nieuwe indicatie Viscerale calciphylaxie (bewijsniveau L5). Oorspronkelijke indicatie: Open-hoekglaucoom en oculaire hypertensie"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
+description: "Travoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Travoprost
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Travoprost: Van open-hoekglaucoom naar viscerale calciphylaxie
+## Travoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,19 +44,19 @@ Travoprost is een prostaglandine-F2-alfa-analoog dat oorspronkelijk wordt gebrui
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Open-hoekglaucoom en oculaire hypertensie (volgens de kennisgraaf; de Nederlandse registratietekst is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Viscerale calciphylaxie |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Visceral calciphylaxis |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
 Travoprost is een agonist van de FP-receptor en een analoog van prostaglandine F2-alfa. Bij glaucoom verlaagt het de oogdruk door de uveosclerale afvloeiing te vergroten. Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande beschrijving berust op algemeen bekende farmacologie.
 
-Viscerale calciphylaxie (calcificerende uremische arteriolopathie) is een ernstige vaatverkalking van kleine bloedvaten, vooral bij nierfalen. Een duidelijk mechanistisch verband met FP-receptoragonisme wordt door de beschikbare gegevens niet ondersteund. Bovendien wordt travoprost lokaal in het oog toegediend, met minimale systemische blootstelling. De hoge modelscore weerspiegelt waarschijnlijk vooral nabijheid in de kennisgraaf tot vaatgerelateerde termen en geen aangetoonde werkzaamheid.
+Viscerale calciphylaxie (calcificerende uremische arteriolopathie) is een ernstige vaatverkalking van kleine bloedvaten, vooral bij nierfalen. Een duidelijk mechanistisch verband met FP-receptoragonisme wordt door de beschikbare gegevens niet ondersteund. Bovendien wordt travoprost lokaal in het oog toegediend, met minimale systemische blootstelling.
 
 Ook de andere voorspelde indicaties (o.a. thoracic-outlet-syndromen, angiodysplasie van de maag, blauwe-teensyndroom, spontane coronaire dissectie, lymfangiectasie, hemangio-endothelioom) hebben geen klinische of literatuurondersteuning en een zwakke mechanistische onderbouwing. Alle zijn L5 (hemangio-endothelioom: L4, enkel een casusbeschrijving van een bijwerking), met de aanbeveling Hold.
 
@@ -76,7 +76,7 @@ Voor "vaatziekte" en "hemangio-endothelioom" zijn publicaties gevonden, maar die
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing (doorgehaald) | Oogdruppels, oplossing | Niet beschikbaar |
+| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing (geldig) | Oogdruppels, oplossing | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 

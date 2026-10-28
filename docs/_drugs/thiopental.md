@@ -4,17 +4,17 @@ title: Thiopental
 parent: Alleen modelvoorspelling (L5)
 nav_order: 318
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Thiopental: voorspelde nieuwe indicatie Trichotillomanie (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie, pseudotumor cerebri, intracraniële hypertensie"
 monitor_inn: "thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Thiopental: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Thiopental
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Thiopental: Van epilepsie naar trichotillomanie
+## Thiopental: Trichotillomanie (trichotillomania)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Thiopental is een barbituraat dat oorspronkelijk wordt gebruikt bij epilepsie, p
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Epilepsie, pseudotumor cerebri, intracraniële hypertensie (afkomstig uit de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Trichotillomanie |
-| TxGNN-voorspellingsscore | 99,95% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trichotillomanie (trichotillomania) |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registratie |
-| Aantal vergunningen | 1 (geen geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -82,9 +82,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | Niet vermeld | Niet vermeld (registratie doorgehaald) |
+| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Er is één registratie bij het CBG-MEB en deze is doorgehaald. Er is dus momenteel geen geldig product op de Nederlandse markt volgens de voor dit rapport verzamelde gegevens.
+Er is één registratie bij het CBG-MEB en deze is doorgehaald.
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële product
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Voor trichotillomanie is geen enkele klinische of literatuurevidentie gevonden en er is geen plausibel mechanisme. Daarnaast is er geen geldige Nederlandse registratie en zijn de veiligheidsgegevens uit de productinformatie onvolledig.
+- Voor trichotillomanie is geen enkele klinische of literatuurevidentie gevonden en er is geen plausibel mechanisme.
 
 **Om verder te gaan is het volgende nodig:**
 - Het werkingsmechanisme uit DrugBank aanvullen.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 301
-evidence_level: L1
-indication_count: 8
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Simvastatin: voorspelde nieuwe indicatie Familiaire hypercholesterolemie (bewijsniveau L1). Oorspronkelijke indicatie: Hypertriglyceridemie, beroerte, cerebrovasculaire aandoeningen…"
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **8**
 
 </div>
 
-## Simvastatine: Van hyperlipidemie en cardiovasculaire aandoeningen naar familiaire hypercholesterolemie
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -48,12 +48,12 @@ Deze voorspelling ligt dicht bij een bestaande indicatie, dus het gaat grotendee
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hypertriglyceridemie, beroerte, cerebrovasculaire aandoeningen, atherosclerose, familiaire gecombineerde hyperlipidemie, homozygote familiaire hypercholesterolemie (volgens de kennisgraaf; de vergunningsdata bevatten geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Familiaire hypercholesterolemie |
-| TxGNN-voorspellingsscore | 99,63% |
-| Bewijsniveau | L1 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 3 (alle 3 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Brain stem infarction |
+| TxGNN-voorspellingsscore | 0.9941 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -105,11 +105,11 @@ Slechts twee studies (NCT00552097 en NCT00129402) geven direct bewijs voor een s
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118547//13194 | Zocor 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (doorgehaald) |
-| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (doorgehaald) |
-| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (doorgehaald) |
+| RVG 118547//13194 | Zocor 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (geldig) |
+| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (geldig) |
+| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (geldig) |
 
-Alle drie de vergunningen zijn doorgehaald. Volgens de verzamelde gegevens is er dus momenteel geen geldige CBG-MEB-registratie voor deze producten. Let op: deze gegevens zijn beperkt en kunnen onvolledig zijn; controleer de actuele registerstatus bij het CBG-MEB.
+Let op: deze gegevens zijn beperkt en kunnen onvolledig zijn; controleer de actuele registerstatus bij het CBG-MEB.
 
 ---
 
@@ -127,7 +127,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) raadp
 **Beslissing: Proceed with Guardrails**
 
 **Onderbouwing:**
-- Het mechanisme sluit direct aan bij de pathologie van FH, en er zijn meerdere afgeronde fase 3-studies (waaronder ENHANCE en een adolescentenstudie) met simvastatine als basis- of vergelijkingsbehandeling. Het bewijs is echter vaak indirect en alle Nederlandse vergunningen zijn doorgehaald.
+- Het mechanisme sluit direct aan bij de pathologie van FH, en er zijn meerdere afgeronde fase 3-studies (waaronder ENHANCE en een adolescentenstudie) met simvastatine als basis- of vergelijkingsbehandeling.
 
 **Om verder te gaan is het volgende nodig:**
 - Actuele SmPC/bijsluiter van het CBG-MEB of EMA voor waarschuwingen, contra-indicaties en goedgekeurde indicaties
@@ -142,13 +142,11 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) raadp
 
 | Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
 |------|------|------|------|
-| Hersenstaminfarct | 99,41% | L5 | Hold |
-| CETP-deficiëntie | 99,39% | L5 | Hold |
-| Hypercholesterolemie, autosomaal dominant | 99,36% | L1 | Proceed with Guardrails (overlapt met FH) |
-| Hypercholesterolemie door cholesterol-7α-hydroxylasedeficiëntie | 99,27% | L5 | Hold |
-| HIV-infectie | 99,22% | L3 | Onderzoeksvraag (vooral relevant voor lipidenbeheer en interacties, niet antiviraal) |
-| ABri-amyloïdose | 99,13% | L5 | Hold |
-| Neurologische ontwikkelingsstoornis met ataxie en afwezige spraak | 99,10% | L5 | Hold |
+| Hersenstaminfarct | 0,9941 | L5 | Hold |
+| CETP-deficiëntie | 0,9939 | L5 | Hold |
+| HIV-infectie | 0,9922 | L3 | Onderzoeksvraag (vooral relevant voor lipidenbeheer en interacties, niet antiviraal) |
+| ABri-amyloïdose | 0,9913 | L5 | Hold |
+| Neurologische ontwikkelingsstoornis met ataxie en afwezige spraak | 0,9910 | L5 | Hold |
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

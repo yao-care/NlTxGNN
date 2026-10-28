@@ -10,20 +10,14 @@
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/DB09123",
-      "display": "Sulpiride ERC 50 mg, capsules"
+      "reference": "MedicationKnowledge/DB09123"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "partial-trisomy-tetrasomy-of-the-short-arm-of-chromosome-5",
-          "display": "partial trisomy/tetrasomy of the short arm of chromosome 5"
-        }
-      ],
-      "text": "partial trisomy/tetrasomy of the short arm of chromosome 5"
+      "concept": {
+        "text": "partial trisomy/tetrasomy of the short arm of chromosome 5"
+      }
     }
   },
   "extension": [
@@ -34,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9943
     }
   ]
 }

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Estriol
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 138
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Estriol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de enige vergunning be…"
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)"]
 # Estriol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Estriol is een zwak oestrogeen dat in Europa al tientallen jaren wordt gebruikt 
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de samengestelde gegevens (de enige vergunning bevat geen indicatietekst) |
 | Voorspelde nieuwe indicatie | Amenorroe |
-| TxGNN-voorspellingsscore | 99,18% |
+| TxGNN-voorspellingsscore | 0,9918 |
 | Bewijsniveau | L3 (alleen een kleine fysiologische studie en een narratieve review; geen RCT's) |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -81,7 +81,7 @@ Alleen de eerste twee publicaties zijn direct relevant. De overige vier zijn his
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ## Veiligheidsoverwegingen
 

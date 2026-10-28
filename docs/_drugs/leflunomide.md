@@ -6,9 +6,9 @@ nav_order: 200
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis en artritis psoriatica (afkomstig uit de TxGNN-ke…"
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Leflunomide
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Leflunomide: Van reumatoïde artritis naar brachydactylie-syndactylie-syndroom
+## Leflunomide: Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Leflunomide is een middel dat oorspronkelijk wordt gebruikt bij **reumatoïde ar
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Reumatoïde artritis en artritis psoriatica (afkomstig uit de TxGNN-kennisgraaf; de goedgekeurde indicatietekst van de vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom |
-| TxGNN-voorspellingsscore | 99,93% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) |
+| TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen geschrapt (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,9 +60,9 @@ Leflunomide is een middel dat oorspronkelijk wordt gebruikt bij **reumatoïde ar
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis remt de actieve metaboliet van leflunomide (teriflunomide) het enzym dihydro-orotaatdehydrogenase (DHODH). Hierdoor wordt de de-novo-pyrimidinesynthese geblokkeerd en wordt de proliferatie van geactiveerde lymfocyten beperkt. Dat verklaart de werkzaamheid bij auto-immuunaandoeningen zoals reumatoïde artritis.
 
-Het brachydactylie-syndactylie-syndroom is een aangeboren ledemaatmisvorming, meestal veroorzaakt door gendefecten in de ontwikkeling. Een mechanistisch verband met immuunmodulatie door DHODH-remming is niet aangetoond. Bovendien is DHODH-remming een erkend teratogeen risico: leflunomide is gecontra-indiceerd tijdens de zwangerschap. De hoge modelscore weerspiegelt waarschijnlijk structuurkenmerken van de kennisgraaf (bijvoorbeeld gedeelde genen of routes in de ledemaatontwikkeling) en niet een werkelijk therapeutisch effect. De voorspelling moet daarom uitsluitend als hypothesegenererend signaal worden beschouwd.
+Het brachydactylie-syndactylie-syndroom is een aangeboren ledemaatmisvorming, meestal veroorzaakt door gendefecten in de ontwikkeling. Een mechanistisch verband met immuunmodulatie door DHODH-remming is niet aangetoond. Bovendien is DHODH-remming een erkend teratogeen risico: leflunomide is gecontra-indiceerd tijdens de zwangerschap. De hoge modelscore komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs of een werkelijk therapeutisch effect. De voorspelling moet daarom uitsluitend als hypothesegenererend signaal worden beschouwd.
 
-Opmerking: de tweede voorspelling (colobomateuze microftalmie-rhizomele dysplasie-syndroom, score 99,93%) kent dezelfde beperkingen: geen bewijs, geen aannemelijk mechanisme en een teratogeen profiel dat tegen een voordeel pleit.
+Opmerking: de tweede voorspelling (colobomateuze microftalmie-rhizomele dysplasie-syndroom, score 0,9993) kent dezelfde beperkingen: geen bewijs, geen aannemelijk mechanisme en een teratogeen profiel dat tegen een voordeel pleit.
 
 ---
 
@@ -82,9 +82,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten (status: ingetrokken) | Niet beschikbaar | Niet beschikbaar |
+| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is geen geldige vergunning meer in Nederland (CBG-MEB). Voor het eerder goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
+Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en het middel is op de markt. Voor het goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
 
 ---
 

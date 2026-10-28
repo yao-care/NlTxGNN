@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "charcot-marie-tooth-disease-demyelinating-type-1g",
-          "display": "Charcot-Marie-Tooth disease, demyelinating, type 1G"
-        }
-      ],
-      "text": "Charcot-Marie-Tooth disease, demyelinating, type 1G",
       "concept": {
         "text": "Charcot-Marie-Tooth disease, demyelinating, type 1G"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9988
     }
   ]
 }

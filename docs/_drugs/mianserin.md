@@ -4,17 +4,17 @@ title: Mianserin
 parent: Alleen modelvoorspelling (L5)
 nav_order: 231
 evidence_level: L5
-indication_count: 7
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie, endogene depressie…"
 monitor_inn: "mianserin"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
+description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in d…"
 ---
 
 # Mianserin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Mianserine: Van depressie naar benigne paroxismale torticollis van de kinderleeftijd
+## Mianserin: Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -44,12 +44,12 @@ Mianserine is een tetracyclisch antidepressivum dat oorspronkelijk wordt gebruik
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Unipolaire depressie, endogene depressie, ernstige depressieve stoornis, angststoornis (afkomstig uit de kennisgraaf; de registratietekst bevat geen indicatie) |
-| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kinderleeftijd |
-| TxGNN-voorspellingsscore | 99,49% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy) |
+| TxGNN-voorspellingsscore | 0.9949 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geannuleerde) registratie |
-| Aantal vergunningen | 1 (geannuleerd) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?
@@ -58,7 +58,7 @@ Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme b
 
 Benigne paroxismale torticollis van de kinderleeftijd is een episodische aandoening bij zuigelingen. Ze hoort bij het migrainespectrum en wordt in verband gebracht met kanalopathieën, zoals varianten in het CACNA1A-gen. De link met de receptorprofielen van mianserine is hooguit speculatief. Er is geen directe pathofysiologische verbinding met de oorspronkelijke indicaties depressie en angst.
 
-Het gebruik bij zuigelingen roept bovendien grote veiligheidsvragen op. De hoge modelscore is daarom waarschijnlijk een artefact van de kennisgraaf en geen aanwijzing voor een echte therapeutische kans.
+Het gebruik bij zuigelingen roept bovendien grote veiligheidsvragen op. De hoge modelscore komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs. Het is daarom waarschijnlijk geen aanwijzing voor een echte therapeutische kans.
 
 ## Bewijs uit klinische studies
 
@@ -74,7 +74,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 57408 | Mianserine HCl 30 mg Teva, tabletten (status: geannuleerd) | Tabletten (volgens productnaam) | Niet vermeld in de registratiegegevens |
 
-Er is in Nederland geen geldige vergunning voor mianserine meer. Dat beperkt de praktische ontwikkelmogelijkheden voor een nieuwe indicatie, ook los van de beperkte evidentie.
+Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1. De evidentie voor een nieuwe indicatie blijft beperkt.
 
 ## Veiligheidsoverwegingen
 

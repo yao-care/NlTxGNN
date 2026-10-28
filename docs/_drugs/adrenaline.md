@@ -8,6 +8,7 @@ nav_order: 22
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Adrenaline
@@ -51,7 +52,8 @@ Adrenaline (epinefrine) is een goed gekend sympathomimetisch amine dat op grote 
 | Voorspelde nieuwe indicatie | Geen — geen TxGNN-voorspellingen beschikbaar |
 | TxGNN voorspellingsscore | N/A |
 | Bewijsniveau | N/A (Geen voorspelling om te evalueren) |
-| Marktstatus | Niet in de handel (Niet in de handel) |
+| Marktstatus | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aantal autorisaties | 0 |
 | Aanbevolen besluit | **In afwachting** |
 

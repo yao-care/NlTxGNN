@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Miconazole
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 232
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Miconazole: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Voetschimmel (tinea pedis), tinea corporis, huidcandidiasis…"
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
+description: "Miconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Miconazole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 </div>
 
-## Miconazol: Van schimmelinfecties van de huid naar acne
+## Miconazole: Acne (acne (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -47,12 +47,12 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acne**, maar op dit
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Voetschimmel (tinea pedis), tinea corporis, huidcandidiasis, nagelschimmel, pityriasis versicolor, vulvovaginale candidiasis (volgens de kennisgraaf; de goedgekeurde indicatietekst van de Nederlandse registratie is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Acne |
-| TxGNN-voorspellingsscore | 99,54% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acne (acne (disease)) |
+| TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L3 (alleen review, kleine klinische studie en in-vitro-gegevens; geen RCT's) |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal registraties | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -91,7 +91,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | Nagellak | Status: doorgehaald (geen geldige registratie) |
+| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | Nagellak | Status: geldig (geen geldige registratie) |
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 227
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (bewijsniveau L5). Oorspronkelijke indicatie: Aandachtstekortstoornis met hyperactiviteit (ADHD)…"
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
+description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Methylphenidate
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **4**
 
 </div>
 
-## Methylfenidaat: Van ADHD naar faciodigitogenitaal syndroom
+## Methylphenidate: Faciodigitogenitaal syndroom (faciodigitogenital syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Methylfenidaat is een stimulerend middel voor het centrale zenuwstelsel dat oors
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Aandachtstekortstoornis met hyperactiviteit (ADHD), narcolepsie (volgens de kennisgraaf; in de vergunningsgegevens is geen indicatietekst opgenomen) |
-| Voorspelde nieuwe indicatie | Faciodigitogenitaal syndroom |
-| TxGNN-voorspellingsscore | 100,00% (0,99998) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Faciodigitogenitaal syndroom (faciodigitogenital syndrome) |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (geen geldige vergunning) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -62,10 +62,10 @@ Voor de werking van methylfenidaat zijn in de voor dit rapport verzamelde gegeve
 
 Faciodigitogenitaal syndroom is een zeldzame X-gebonden ontwikkelingsstoornis, veroorzaakt door mutaties in het FGD1-gen. Bij sommige patiënten komen aandachts- of hyperactiviteitsproblemen voor. Methylfenidaat zou deze bijkomende symptomen theoretisch kunnen beïnvloeden. Het is echter geen behandeling voor de onderliggende aandoening.
 
-Er is geen mechanistische koppeling aangetoond en er is geen ondersteunend bewijs aangeleverd. De zeer hoge score is een voorspelling uit een kennisgraaf en moet voorzichtig worden geïnterpreteerd.
+Er is geen mechanistische koppeling aangetoond en er is geen ondersteunend bewijs aangeleverd. De zeer hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Interpreteer de score daarom voorzichtig.
 
 Ter vergelijking zijn nog drie andere voorspellingen beoordeeld, die allemaal bewijsniveau L4 of L5 hebben:
-- **Chondromyxoïd fibroom** (score 0,99991, L5): geen plausibele mechanistische link; waarschijnlijk een artefact van de graaf.
+- **Chondromyxoïd fibroom** (score 0,9999, L5): geen plausibele mechanistische link; de score komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk overeenkomsten die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
 - **Specifieke ontwikkelingsstoornis** (score 0,99988, L5): alleen indirecte plausibiliteit via de overlap met ADHD.
 - **Dysthymie** (score 0,99109, L4): indirecte link via dopaminerge en noradrenerge modulatie. De gevonden literatuur betreft ADHD met bijkomende depressieve klachten, niet dysthymie als zodanig.
 
@@ -87,9 +87,9 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor faciodigitogenitaa
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118526//33227 | Equasym XL 10 mg capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte (volgens productnaam) | Niet vermeld; vergunning doorgehaald |
+| RVG 118526//33227 | Equasym XL 10 mg capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte (volgens productnaam) | Niet vermeld; vergunning geldig |
 
-Er is geen geldige vergunning voor methylfenidaat in de voor dit rapport verzamelde gegevens. De enige vermelde vergunning is doorgehaald. Dit hoeft niet te betekenen dat er geen methylfenidaatproducten in Nederland op de markt zijn: de gegevens kunnen onvolledig zijn en dienen te worden geverifieerd bij het CBG-MEB.
+Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en het middel is in Nederland op de markt. De gegevens kunnen onvolledig zijn en dienen te worden geverifieerd bij het CBG-MEB.
 
 ---
 
@@ -119,7 +119,7 @@ Voor volledige waarschuwingen en contra-indicaties volgens de officiële tekst: 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor faciodigitogenitaal syndroom berust alleen op het model (bewijsniveau L5), zonder klinische studies, literatuur of aangetoonde mechanistische link. Daarbij komt dat methylfenidaat een uitgebreid veiligheidsprofiel heeft en dat er in Nederland geen geldige vergunning is gevonden.
+- De voorspelling voor faciodigitogenitaal syndroom berust alleen op het model (bewijsniveau L5), zonder klinische studies, literatuur of aangetoonde mechanistische link. Daarbij komt dat methylfenidaat een uitgebreid veiligheidsprofiel heeft.
 
 **Om verder te gaan is het volgende nodig:**
 - De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB ophalen en beoordelen (blokkerend voor de veiligheidsscreening)

@@ -4,17 +4,17 @@ title: Primidone
 parent: Alleen modelvoorspelling (L5)
 nav_order: 280
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Primidone: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie"
 monitor_inn: "primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Primidone: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Primidone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Primidon: Van epilepsie naar trigeminuszenuwneoplasma
+## Primidone: Trigeminuszenuwneoplasma (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Primidon is een anti-epilepticum dat oorspronkelijk wordt gebruikt bij epilepsie
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Epilepsie (het geregistreerde indicatietekst ontbreekt in de beschikbare gegevens; afgeleid uit de kennisgraaf) |
-| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal registraties | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (aanhouden) |
 
 ---
@@ -60,11 +60,11 @@ Primidon is een anti-epilepticum dat oorspronkelijk wordt gebruikt bij epilepsie
 
 Er zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme van primidon beschikbaar. Op basis van algemene kennis is primidon een anti-epilepticum waarvan het effect bij epilepsie is vastgesteld; het wordt deels omgezet in fenobarbital en fenylethylmalonamide (PEMA). Er is geen bekend antitumormechanisme.
 
-Een verband met een neoplasma van de trigeminuszenuw is daarom speculatief. Hooguit zou symptomatische behandeling van neuropathische pijn of aanvallen denkbaar zijn, maar ook dat is niet onderbouwd. De hoge modelscore is een voorspelling op basis van een kennisgraaf en vormt geen klinisch bewijs.
+Een verband met een neoplasma van de trigeminuszenuw is daarom speculatief. Hooguit zou symptomatische behandeling van neuropathische pijn of aanvallen denkbaar zijn, maar ook dat is niet onderbouwd. De hoge modelscore is een voorspelling van het TxGNN-model (deep learning) en vormt geen klinisch bewijs.
 
 **Andere voorspelde indicaties.** Voor de overige voorspellingen in de gegevens geldt het volgende:
 - **Reflexepilepsieën** (denkaanvallen, orgasme-geïnduceerde aanvallen, startle-epilepsie, eetaanvallen, mictie-geïnduceerde aanvallen, audiogene aanvallen, leesaanvallen) vallen binnen de bestaande epilepsie-indicatie. Het zijn dus geen echte herpositioneringsbevindingen; het bewijs is indirect en bestaat uit casuïstiek, algemene overzichtsartikelen en dierstudies.
-- **Trigeminusneuralgie** (score 99,98%, bewijsniveau L4) is klinisch het meest plausibele alternatief, omdat natriumkanaalmodulerende anti-epileptica (met name carbamazepine) hiervoor zijn ingezet. Er is echter geen directe studie met primidon gevonden.
+- **Trigeminusneuralgie** (score 0,9998, bewijsniveau L4) is klinisch het meest plausibele alternatief, omdat natriumkanaalmodulerende anti-epileptica (met name carbamazepine) hiervoor zijn ingezet. Er is echter geen directe studie met primidon gevonden.
 - **Beta-ketothiolasedeficiëntie** heeft geen bewijs en geen mechanistisch verband.
 
 ---
@@ -87,7 +87,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 114828//00379 | Mysoline, tabletten 250 mg | Tablet (volgens productnaam) | Niet beschikbaar |
 
-Deze registratie is ingetrokken; er is momenteel geen geldige registratie van primidon in Nederland (CBG-MEB).
 
 ---
 
@@ -112,13 +111,13 @@ De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB zijn niet in de gege
 **Beslissing: Hold (aanhouden)**
 
 **Onderbouwing:**
-- Voor trigeminuszenuwneoplasma ontbreken zowel klinisch als literatuurbewijs en is er geen aannemelijk antitumormechanisme. De voorspelling is uitsluitend modelgebaseerd (L5). Daarnaast is er in Nederland geen geldige registratie en is de veiligheidsinformatie uit de productteksten onvolledig.
+- Voor trigeminuszenuwneoplasma ontbreken zowel klinisch als literatuurbewijs en is er geen aannemelijk antitumormechanisme. De voorspelling is uitsluitend modelgebaseerd (L5).
 
 **Om verder te gaan is nodig:**
 - De actuele SmPC en bijsluiter van primidon ophalen voor waarschuwingen en contra-indicaties (blokkerende gegevenslacune).
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld uit DrugBank).
 - Een gerichte literatuurstudie naar primidon bij trigeminusneuralgie als realistischer onderzoeksvraag, inclusief vergelijking met carbamazepine en beoordeling van de interactielast.
-- Beoordeling van de regelgevende status, aangezien alle Nederlandse registraties zijn ingetrokken.
+- Beoordeling van de regelgevende status: het middel is in Nederland in de handel met 1 geldige vergunning van 1.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

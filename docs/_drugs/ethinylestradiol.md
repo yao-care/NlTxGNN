@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **1**
 
 ## Samenvatting in één zin
 
-Ethinylestradiol is een synthetisch oestrogeen dat in de kennisgraaf van het model wordt gekoppeld aan acne, osteoporose na de menopauze en atrofische vaginitis. Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **verhoogd zinkgehalte in plasma**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens. De voorspelling berust dus uitsluitend op het model.
+Het TxGNN-model (deep learning) voorspelt dat ethinylestradiol werkzaam zou kunnen zijn bij **verhoogd zinkgehalte in plasma** (score 0.9963). Deze score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, geen biologisch bewijs. Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens. De voorspelling berust dus uitsluitend op het model.
 
 ## Snel overzicht
 
@@ -46,10 +46,10 @@ Ethinylestradiol is een synthetisch oestrogeen dat in de kennisgraaf van het mod
 |------|------|
 | Oorspronkelijke indicatie | Acne, osteoporose na de menopauze, osteoporose, atrofische vaginitis na de menopauze (afkomstig uit de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
 | Voorspelde nieuwe indicatie | Verhoogd zinkgehalte in plasma |
-| TxGNN-voorspellingsscore | 99,63% |
+| TxGNN-voorspellingsscore | 0,9963 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige vergunningen) |
-| Aantal vergunningen | 11 (allemaal ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
+| Aantal vergunningen | 11 (geldig: 11) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -58,7 +58,7 @@ Er zijn voor dit rapport geen gegevens beschikbaar over het werkingsmechanisme v
 
 Een mogelijke, maar onbevestigde link is dat oestrogenen, waaronder ethinylestradiol, de circulerende spoorelementen kunnen beïnvloeden. Zo wordt van het gebruik van orale anticonceptiva gemeld dat het de serumwaarden van zink en koper verandert. Dit is een associatie met veranderde zinkwaarden, geen bewijs van een therapeutisch effect op een verhoogd zinkgehalte. Dit moet als hypothese worden beschouwd.
 
-Een verhoogd zinkgehalte in plasma is bovendien een laboratoriumbevinding en geen gebruikelijk behandeldoel, waardoor een therapeutische indicatie klinisch twijfelachtig is. De hoge modelscore weerspiegelt mogelijk de nabijheid in de kennisgraaf en niet daadwerkelijke werkzaamheid.
+Een verhoogd zinkgehalte in plasma is bovendien een laboratoriumbevinding en geen gebruikelijk behandeldoel, waardoor een therapeutische indicatie klinisch twijfelachtig is. De score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, en niet biologisch bewijs van werkzaamheid.
 
 ## Bewijs uit klinische studies
 
@@ -70,15 +70,15 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Alle 11 vergunningen zijn ingetrokken. Er zijn geen geldige vergunningen voor monopreparaten of combinatiepreparaten. Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.
+Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 118683//08514 | Trinordiol, dragees | Ingetrokken |
-| RVG 115388 | Desogestrel/Ethinylestradiol STADA 150/30 microgram tabletten | Ingetrokken |
-| RVG 116281 | Kosidina 0,075 mg/0,030 mg 21+7, tabletten | Ingetrokken |
-| RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Ingetrokken |
-| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Ingetrokken |
+| RVG 118683//08514 | Trinordiol, dragees | Geldig |
+| RVG 115388 | Desogestrel/Ethinylestradiol STADA 150/30 microgram tabletten | Geldig |
+| RVG 116281 | Kosidina 0,075 mg/0,030 mg 21+7, tabletten | Geldig |
+| RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Geldig |
+| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Geldig |
 
 Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.
 
@@ -108,7 +108,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 **Onderbouwing:**
 - De voorspelling steunt alleen op een hoge modelscore (L5), zonder klinische studies of literatuur en zonder verifieerbaar mechanisme.
 - Een verhoogd zinkgehalte in plasma is een laboratoriumbevinding en geen gangbaar behandeldoel.
-- Alle Nederlandse vergunningen zijn ingetrokken.
+- Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11.
 - De veiligheidsscreening kan niet worden voortgezet omdat de productinformatie ontbreekt.
 
 **Om verder te gaan is het volgende nodig:**

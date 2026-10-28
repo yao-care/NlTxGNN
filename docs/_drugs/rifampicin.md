@@ -6,9 +6,9 @@ nav_order: 290
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose (afkomstig uit de TxGNN-kennisgraaf"
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Rifampicin
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Rifampicine: Van pulmonale tuberculose naar conjunctivitis
+## Rifampicin: Conjunctivitis
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Rifampicine is een antibioticum dat oorspronkelijk wordt gebruikt voor de behand
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Pulmonale tuberculose (afkomstig uit de TxGNN-kennisgraaf; de vergunningsgegevens bevatten geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Conjunctivitis |
-| TxGNN-voorspellingsscore | 99,95% |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen ingetrokken vergunning |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,9 +95,9 @@ Er zijn 19 publicaties gevonden. Hieronder staan de meest relevante. Alleen de s
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-Dit is de enige vergunning in Nederland en die is ingetrokken. Er is dus momenteel geen geldige handelsvergunning voor deze vergunninghouder. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
+Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
 
 ---
 
@@ -130,7 +130,7 @@ Rifampicine is een sterke enzyminductor. Daardoor kan het de bloedspiegels van v
 
 **Onderbouwing:**
 - De voorspelling heeft een zeer hoge modelscore, maar het bewijs blijft beperkt tot oude, indirecte of microbiologische gegevens (L4). Er zijn geen geregistreerde klinische studies.
-- Er zijn veel beter gevestigde lokale antibiotica voor conjunctivitis. Daarnaast is er een risico op resistentieontwikkeling bij gebruik buiten tuberculose, en er is momenteel geen geldige Nederlandse vergunning of oogformulering.
+- Er zijn veel beter gevestigde lokale antibiotica voor conjunctivitis.
 
 **Om verder te gaan is het volgende nodig:**
 - De officiële SmPC en bijsluiter van het CBG-MEB analyseren voor waarschuwingen en contra-indicaties

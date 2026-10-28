@@ -6,9 +6,9 @@ nav_order: 162
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flupentixol: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (bewijsniveau L5). Oorspronkelijke indicatie: Schizofrenie"
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Flupentixol: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indica…"
 ---
 
 # Flupentixol
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Flupentixol: Van schizofrenie naar retinale dystrofie (met of zonder extraoculaire afwijkingen)
+## Flupentixol: Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -44,19 +44,19 @@ Flupentixol is een antipsychoticum van het thioxanthene-type dat oorspronkelijk 
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Schizofrenie (afkomstig uit de TxGNN-kennisgraaf; in de registratiegegevens is geen indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen |
-| TxGNN-voorspellingsscore | 99,99% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen vervallen/doorgehaalde registraties |
-| Aantal registraties | 1 (0 geldig, 1 vervallen) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Flupentixol is een thioxanthene-antipsychoticum. Uit de farmacologische gegevens blijkt dat het bindt aan de dopaminereceptoren D1, D2, D3 en D5 (antagonisme). De werkzaamheid bij schizofrenie is bekend.
 
-Er is **geen aannemelijk mechanistisch verband** vastgesteld tussen dopamineblokkade en erfelijke retinale degeneratie. De hoge TxGNN-score (0,9999) is een puur op de kennisgraaf gebaseerde voorspelling en wordt niet gestaafd door preklinische of klinische gegevens. Een score van deze hoogte zegt hier dus weinig over de werkelijke kans op effect; het model geeft veel geneesmiddel-ziektecombinaties vergelijkbare scores. Retinale dystrofieën zijn bovendien genetisch bepaalde, degeneratieve aandoeningen, terwijl flupentixol een symptomatisch werkend middel is.
+Er is **geen aannemelijk mechanistisch verband** vastgesteld tussen dopamineblokkade en erfelijke retinale degeneratie. De hoge TxGNN-score (0,9999) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten. Het is geen biologisch bewijs en wordt niet gestaafd door preklinische of klinische gegevens. Een score van deze hoogte zegt hier dus weinig over de werkelijke kans op effect; het model geeft veel geneesmiddel-ziektecombinaties vergelijkbare scores. Retinale dystrofieën zijn bovendien genetisch bepaalde, degeneratieve aandoeningen, terwijl flupentixol een symptomatisch werkend middel is.
 
 Aanvullend noemen de farmacologische gegevens dat flupentixol, als kationisch amfifiel geneesmiddel, in screeningstudies antivirale activiteit tegen SARS-CoV-2 liet zien. Dit heeft geen relatie met de hier voorspelde indicatie.
 
@@ -72,9 +72,8 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118742//108184 | Fluanxol 5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie vervallen) |
+| RVG 118742//108184 | Fluanxol 5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
-De enige bekende registratie in Nederland (CBG-MEB) is vervallen; er is momenteel geen geldig flupentixolproduct in de gegevens opgenomen.
 
 ## Veiligheidsoverwegingen
 

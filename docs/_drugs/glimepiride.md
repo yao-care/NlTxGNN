@@ -49,10 +49,10 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **focal stiff limb sy
 |------|------|
 | Oorspronkelijke indicatie | Type 2-diabetes mellitus |
 | Voorspelde nieuwe indicatie | Focal stiff limb syndrome |
-| TxGNN-voorspellingsscore | 99,75% |
+| TxGNN-voorspellingsscore | 0,9975 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken (geen geldige registratie) |
-| Aantal registraties | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal registraties | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -63,20 +63,20 @@ Gedetailleerde gegevens over het werkingsmechanisme van glimepiride zijn momente
 
 Focal stiff limb syndrome behoort tot het spectrum van het stiff-person-syndroom, een auto-immuunaandoening van het GABAerge systeem die vaak gepaard gaat met anti-GAD-antilichamen en frequent samen voorkomt met diabetes. Glimepiride heeft geen bekend direct effect op GABAerge neurotransmissie of auto-immuniteit. De voorspelling is daarom waarschijnlijk een artefact van comorbiditeit (diabetes) en geen weergave van een therapeutisch mechanisme.
 
-Dezelfde redenering geldt voor het klassieke stiff-person-syndroom (score 99,75%): er is geen plausibel mechanisme waarmee een K-ATP-kanaalblokker spierrigiditeit of spasmen zou verminderen. Gevestigde behandelingen (benzodiazepinen, baclofen, IVIG) werken via andere routes.
+Dezelfde redenering geldt voor het klassieke stiff-person-syndroom (score 0,9975): er is geen plausibel mechanisme waarmee een K-ATP-kanaalblokker spierrigiditeit of spasmen zou verminderen. Gevestigde behandelingen (benzodiazepinen, baclofen, IVIG) werken via andere routes.
 
 ### Overige voorspelde indicaties
 
 | Rang | Voorspelde indicatie | Score | Evidenceniveau | Beoordeling |
 |---|---|---|---|---|
-| 2 | Classic stiff person syndrome | 99,75% | L5 | Geen plausibel mechanisme; waarschijnlijk comorbiditeit met diabetes |
-| 3 | Opsismodysplasia | 99,74% | L5 | Speculatieve link via INPPL1/SHIP2 en insulinesignalering; niet door data ondersteund |
-| 4 | Thiamine-responsive dysfunction syndrome | 99,73% | L5 | Diabetes is kenmerk van het syndroom; zou hooguit een symptoom behandelen |
-| 5 | Drug-induced localized lipodystrophy | 99,62% | L5 | Hooguit effect op metabole gevolgen, niet op het vetverlies |
-| 6 | Centrifugal lipodystrophy | 99,60% | L5 | Geen aangetoond mechanisme |
-| 7 | Pressure-induced localized lipoatrophy | 99,59% | L5 | Geen plausibel mechanisme |
-| 8 | Idiopathic localized lipodystrophy | 99,56% | L5 | Voorspelling lijkt voort te komen uit ontologische nabijheid |
-| 9 | Pancreatic agenesis | 99,55% | L5 | Mechanistisch onaannemelijk: bètacellen ontbreken, insulinevervanging is nodig |
+| 2 | Classic stiff person syndrome | 0,9975 | L5 | Geen plausibel mechanisme; waarschijnlijk comorbiditeit met diabetes |
+| 3 | Opsismodysplasia | 0,9974 | L5 | Speculatieve link via INPPL1/SHIP2 en insulinesignalering; niet door data ondersteund |
+| 4 | Thiamine-responsive dysfunction syndrome | 0,9973 | L5 | Diabetes is kenmerk van het syndroom; zou hooguit een symptoom behandelen |
+| 5 | Drug-induced localized lipodystrophy | 0,9962 | L5 | Hooguit effect op metabole gevolgen, niet op het vetverlies |
+| 6 | Centrifugal lipodystrophy | 0,9960 | L5 | Geen aangetoond mechanisme |
+| 7 | Pressure-induced localized lipoatrophy | 0,9959 | L5 | Geen plausibel mechanisme |
+| 8 | Idiopathic localized lipodystrophy | 0,9956 | L5 | Voorspelling lijkt voort te komen uit ontologische nabijheid |
+| 9 | Pancreatic agenesis | 0,9955 | L5 | Mechanistisch onaannemelijk: bètacellen ontbreken, insulinevervanging is nodig |
 
 ---
 
@@ -102,9 +102,9 @@ Voor de negende voorspelling (pancreatic agenesis) is één publicatie gevonden,
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117722 | Glimepiride Aurobindo 4 mg, tabletten (ingetrokken) | Tablet | Niet beschikbaar |
+| RVG 117722 | Glimepiride Aurobindo 4 mg, tabletten (geldig) | Tablet | Niet beschikbaar |
 
-De enige Nederlandse registratie is ingetrokken; er is momenteel geen geldige vergunning voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens.
+De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunning (1 van 1) voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens, en het middel wordt op de markt gebracht.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Meloxicam
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 220
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Meloxicam: voorspelde nieuwe indicatie Reumatoïde-factor-positieve polyarticulaire juveniele idiopathische a… (bewijsniveau L4). Oorspronkelijke indicatie: Reumatoïde artritis, artrose, juveniele idi…"
 monitor_inn: "Meloxicam"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Meloxicam: voorspelde nieuwe indicatie Acromesomelic dysplasia, Hunter-Thompson type (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Meloxicam: Van reumatoïde artritis naar reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis
+## Meloxicam: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## Samenvatting in één alinea
 
 Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt gebruikt bij reumatoïde artritis, artrose en andere gewrichtsaandoeningen. Het TxGNN-model voorspelt meerdere nieuwe indicaties; de best onderbouwde is **reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis**, met **0 klinische studies** en **1 publicatie** (indirect bewijs over andere NSAID's). De overige negen voorspellingen hebben geen enkel bewijs.
 
-> **Opmerking over de keuze van de indicatie:** de voorspelling met de hoogste TxGNN-score (rang 1) is *acromesomele dysplasie, type Hunter-Thompson* (99,92%), maar daarvoor ontbreekt elk bewijs en elke mechanistische onderbouwing. Voor dit rapport is daarom de enige voorspelling met enig literatuurbewijs (rang 8) als hoofdindicatie gekozen. Deze ligt bovendien binnen de bestaande indicatiefamilie van meloxicam.
+> **Opmerking over de keuze van de indicatie:** de voorspelling met de hoogste TxGNN-score (rang 1) is *acromesomele dysplasie, type Hunter-Thompson* (0,9992), maar daarvoor ontbreekt elk bewijs en elke mechanistische onderbouwing. Voor dit rapport is daarom de enige voorspelling met enig literatuurbewijs (rang 8) als hoofdindicatie gekozen. Deze ligt bovendien binnen de bestaande indicatiefamilie van meloxicam.
 
 ---
 
@@ -48,12 +48,12 @@ Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Reumatoïde artritis, artrose, juveniele idiopathische artritis, spondyloartropathie (afgeleid uit de kennisgraaf; geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Reumatoïde-factor-positieve polyarticulaire juveniele idiopathische artritis |
-| TxGNN-voorspellingsscore | 99,44% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN-voorspellingsscore | 0.9992 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag) |
 
 ---
@@ -62,9 +62,9 @@ Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt
 
 Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar in de samengestelde gegevens. Meloxicam is echter een NSAID met voorkeur voor COX-2-remming. Door de prostaglandinesynthese te verminderen, remt het ontsteking en pijn. Dit mechanisme is relevant voor gewrichtsontsteking in het algemeen.
 
-Juveniele idiopathische artritis (JIA) staat al vermeld onder de oorspronkelijke indicaties van meloxicam in de kennisgraaf. De voorspelde subtype (reumatoïde-factor-positieve polyarticulaire JIA) is dus een uitbreiding binnen een bestaande indicatiefamilie, geen echte nieuwe herpositionering. Het mechanistische overlap is sterk, maar de enige beschikbare literatuur betreft celecoxib en niet-selectieve NSAID's, niet meloxicam zelf.
+De voorspelde subtype (reumatoïde-factor-positieve polyarticulaire JIA) is dus een uitbreiding binnen een bestaande indicatiefamilie, geen echte nieuwe herpositionering. Het mechanistische overlap is sterk, maar de enige beschikbare literatuur betreft celecoxib en niet-selectieve NSAID's, niet meloxicam zelf.
 
-**Kanttekening bij de overige voorspellingen:** de andere negen voorspellingen betreffen grotendeels zeldzame genetische skeletdysplasieën of syndromen (bijv. brachyolmie, pseudoachondroplasie, WHIM-syndroom). Hiervoor is geen duidelijke farmacologische link; de hoge scores weerspiegelen waarschijnlijk nabijheid in het netwerk van de kennisgraaf. Twee voorspellingen (spondyloartropathie-gevoeligheid en reumatoïde nodulosis) liggen dicht bij de bestaande indicaties, maar zijn geen behandelbare nieuwe klinische fenotypen of worden niet door NSAID's behandeld.
+**Kanttekening bij de overige voorspellingen:** de andere negen voorspellingen betreffen grotendeels zeldzame genetische skeletdysplasieën of syndromen (bijv. brachyolmie, pseudoachondroplasie, WHIM-syndroom). Twee voorspellingen (spondyloartropathie-gevoeligheid en reumatoïde nodulosis) liggen dicht bij de bestaande indicaties, maar zijn geen behandelbare nieuwe klinische fenotypen of worden niet door NSAID's behandeld.
 
 ---
 
@@ -86,7 +86,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 107068 | Meloxicam Aurobindo 15 mg, tabletten (status: doorgehaald) | Niet beschikbaar | Niet beschikbaar |
+| RVG 107068 | Meloxicam Aurobindo 15 mg, tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
 ---
 

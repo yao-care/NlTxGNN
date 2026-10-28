@@ -15,14 +15,6 @@
   ],
   "indication": {
     "diseaseSymptomProcedure": {
-      "coding": [
-        {
-          "system": "https://nltxgnn.yao.care/fhir/CodeSystem/predicted-indication",
-          "code": "chronic-follicular-conjunctivitis",
-          "display": "chronic follicular conjunctivitis"
-        }
-      ],
-      "text": "chronic follicular conjunctivitis",
       "concept": {
         "text": "chronic follicular conjunctivitis"
       }
@@ -36,6 +28,10 @@
     {
       "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/research-only",
       "valueBoolean": true
+    },
+    {
+      "url": "https://nltxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9965
     }
   ]
 }

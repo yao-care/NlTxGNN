@@ -48,10 +48,10 @@ Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de vergunningsgegevens |
 | Voorspelde nieuwe indicatie | Interventriculair septumaneurysma |
-| TxGNN-voorspellingsscore | 99,25% |
+| TxGNN-voorspellingsscore | 0,9925 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde (geschrapte) vergunning |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo
 
 Gegevens over het werkingsmechanisme van thymol in de oorspronkelijke indicatie zijn momenteel niet beschikbaar. Op basis van algemene kennis heeft thymol antioxidatieve, antimicrobiële en ontstekingsremmende eigenschappen. Het wordt van oudsher gebruikt in producten voor luchtwegklachten en mondverzorging.
 
-Er is geen mechanistisch verband gevonden tussen deze eigenschappen en een structurele hartafwijking zoals een septumaneurysma. Zo'n afwijking is een anatomisch defect dat niet aannemelijk door een kleinmoleculair monoterpenoïde wordt beïnvloed. De hoge score (0,992) weerspiegelt waarschijnlijk alleen nabijheid in de kennisgrafiek en is geen klinisch argument. Ook de overige top-10-voorspellingen betreffen vooral aangeboren of structurele aandoeningen (o.a. pulmonalisklepaandoening, Laubry-Pezzi-syndroom, Pierre Robin-syndroom, chromosomale deleties) zonder enig onderbouwend bewijs. Dit wijst op een patroon in het model en niet op een gericht therapeutisch signaal.
+Er is geen mechanistisch verband gevonden tussen deze eigenschappen en een structurele hartafwijking zoals een septumaneurysma. Zo'n afwijking is een anatomisch defect dat niet aannemelijk door een kleinmoleculair monoterpenoïde wordt beïnvloed. De hoge score (0,9925) komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk overeenkomsten die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs, en is geen klinisch argument. Ook de overige top-10-voorspellingen betreffen vooral aangeboren of structurele aandoeningen (o.a. pulmonalisklepaandoening, Laubry-Pezzi-syndroom, Pierre Robin-syndroom, chromosomale deleties) zonder enig onderbouwend bewijs. Dit wijst op een patroon in het model en niet op een gericht therapeutisch signaal.
 
 ---
 
@@ -82,7 +82,7 @@ Ter context: voor de achtste voorspelling (stoornis in de fucoglycaansynthese) z
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120425//03088 | Vicks Vaporub, zalf voor inhalatiedamp | Niet vermeld | Niet vermeld (vergunning doorgehaald) |
+| RVG 120425//03088 | Vicks Vaporub, zalf voor inhalatiedamp | Niet vermeld | Niet vermeld (vergunning geldig) |
 
 ---
 

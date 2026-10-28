@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 179
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L5). Oorspronkelijke indicatie: Bijnierschorsinsufficiëntie / ziekte van Addison, auto-immuunziekten…"
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Hydrocortison: Van bijnierschorsinsufficiëntie en auto-immuunziekten naar alopecia areata
+## Hydrocortisone: Alopecia areata
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Hydrocortison is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij onder
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bijnierschorsinsufficiëntie / ziekte van Addison, auto-immuunziekten, inflammatoire darmziekten (o.a. ziekte van Crohn) en andere (afgeleid uit de kennisgraaf; er is geen goedgekeurde indicatietekst uit de Nederlandse vergunningen beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Alopecia areata |
-| TxGNN-voorspellingsscore | 99,97% |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L1 volgens de formele indeling in de data; zie de kanttekening hieronder (inhoudelijk eerder L2–L3) |
-| Status op de Nederlandse markt | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal vergunningen | 2 (beide ingetrokken) |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 **Kanttekening bij het bewijsniveau:** de data kennen L1 toe, maar de enige fase 3-studie (n=41) is één kleine studie waarin hydrocortison 1% als actieve controle diende. Dit voldoet niet aan "≥2 afgeronde fase 3-RCT's". Een voorzichtige beoordeling plaatst het bewijs dichter bij L2–L3.
@@ -97,10 +97,10 @@ De overige gevonden publicaties zijn vooral historische berichten zonder samenva
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (vergunning ingetrokken) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (vergunning ingetrokken) |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (vergunning geldig) |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (vergunning geldig) |
 
-Beide registraties bij het CBG-MEB zijn ingetrokken. Er is momenteel geen geldige vergunning voor een eenmalig preparaat of combinatiepreparaat in de data.
+Beide registraties bij het CBG-MEB zijn geldig (2 geldige vergunningen van 2). Het middel is in Nederland in de handel.
 
 ---
 
@@ -117,11 +117,10 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 | Rang | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
 |----|------|------|------|------|
-| 2 | Alopecia mucinosa | 99,97% | L5 | Geen hydrocortisonspecifiek bewijs |
-| 3 | Telogeen effluvium | 99,97% | L5 | Zwakke mechanistische onderbouwing |
-| 4 | Folliculitis decalvans | 99,97% | L5 | Alleen voorspelling |
-| 5 | Alopecia met antilichaamdeficiëntie | 99,96% | L4 | Indirect bewijs; betreft vervangingstherapie |
-| 10 | Idiopathisch steroïdsensitief nefrotisch syndroom | 99,46% | L4 | Standaard is prednison(olon); alleen onderzoek naar bijnierrespons |
+| 2 | Alopecia mucinosa | 0,9997 | L5 | Geen hydrocortisonspecifiek bewijs |
+| 3 | Telogeen effluvium | 0,9997 | L5 | Zwakke mechanistische onderbouwing |
+| 4 | Folliculitis decalvans | 0,9997 | L5 | Alleen voorspelling |
+| 5 | Alopecia met antilichaamdeficiëntie | 0,9996 | L5 | Indirect bewijs; betreft vervangingstherapie |
 
 De rangen 6 tot en met 9 betreffen zeldzame erfelijke of syndromale haaraandoeningen zonder enig bewijs.
 
@@ -132,7 +131,7 @@ De rangen 6 tot en met 9 betreffen zeldzame erfelijke of syndromale haaraandoeni
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het mechanisme is plausibel en de aandoening is een auto-immuunziekte. De enige gerandomiseerde studie plaatst hydrocortison echter als laagpotente vergelijker, en krachtigere corticosteroïden zijn de standaard. Daarnaast is er in Nederland momenteel geen geldige vergunning voor een hydrocortisonproduct in de data.
+- Het mechanisme is plausibel en de aandoening is een auto-immuunziekte. De enige gerandomiseerde studie plaatst hydrocortison echter als laagpotente vergelijker, en krachtigere corticosteroïden zijn de standaard. Daarnaast is het middel in Nederland in de handel, met 2 geldige vergunningen van 2.
 
 **Om verder te gaan is nodig:**
 - Het mechanisme van werking uit DrugBank

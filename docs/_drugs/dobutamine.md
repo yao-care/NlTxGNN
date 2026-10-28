@@ -48,10 +48,10 @@ Dobutamine is een bèta-1-adrenerge agonist en inotroop middel dat intraveneus w
 |------|------|
 | Oorspronkelijke indicatie | Niet beschikbaar in de voor dit rapport samengestelde gegevens |
 | Voorspelde nieuwe indicatie | Alopecia |
-| TxGNN-voorspellingsscore | 99,85% |
+| TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Dobutamine is een bèta-1-adrenerge agonist en inotroop middel dat intraveneus w
 
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Dobutamine is een bèta-1-adrenerge agonist die de hartcontractiliteit verhoogt. Het wordt intraveneus toegediend bij acuut hartfalen en voor stressechocardiografie.
 
-Er is **geen plausibele mechanistische link** met haarfollikelbiologie. De hoge score van 99,85% is waarschijnlijk een grafartefact: in het kennisnetwerk ligt dobutamine dicht bij cardiovasculaire geneesmiddelen zoals minoxidil, een vaatverwijder die wél met haargroei wordt geassocieerd (ook als bijwerking, hypertrichose). Die nabijheid in het netwerk is geen bewijs dat dobutamine werkt.
+Er is **geen plausibele mechanistische link** met haarfollikelbiologie. De hoge score van 0,9985 is waarschijnlijk een grafartefact: in het kennisnetwerk ligt dobutamine dicht bij cardiovasculaire geneesmiddelen zoals minoxidil, een vaatverwijder die wél met haargroei wordt geassocieerd (ook als bijwerking, hypertrichose). Die nabijheid in het netwerk is geen bewijs dat dobutamine werkt.
 
 Ook de overige voorspellingen met hoge scores (hypotrichosis simplex van de hoofdhuid, congenitale hypotrichosis milia, diffuse alopecia areata, glaucoom, ziekte van Raynaud, hoofdpijn, hypertrichose en migraine) kennen geen klinische of mechanistische onderbouwing.
 
@@ -84,7 +84,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 107115 | Dobutamine Claris 12,5 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet beschikbaar (vergunning doorgehaald) |
+| RVG 107115 | Dobutamine Claris 12,5 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet beschikbaar (vergunning geldig) |
 
 ---
 

@@ -46,10 +46,10 @@ Ibuprofen is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt geb
 |------|------|
 | Oorspronkelijke indicatie | Reumatoïde artritis, artrose, juveniele idiopathische artritis, hoofdpijn en open ductus arteriosus (op basis van de kennisgraaf; er is geen geregistreerde indicatietekst beschikbaar) |
 | Voorspelde nieuwe indicatie | Acromesomelische dysplasie, type Hunter-Thompson |
-| TxGNN-voorspellingsscore | 99,74% |
+| TxGNN-voorspellingsscore | 0,9974 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registratie (vervallen) |
-| Aantal vergunningen | 1 (geen geldige) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -58,7 +58,7 @@ Gegevens over het werkingsmechanisme van ibuprofen zijn voor dit rapport niet be
 
 Acromesomelische dysplasie, type Hunter-Thompson is een zeldzame skeletdysplasie. De oorzaak is functieverlies van CDMP1/GDF5, wat de aanleg van kraakbeen en bot verstoort. Ibuprofen werkt niet op GDF5/BMP-signalering. Er is dus **geen onderbouwd mechanistisch verband**.
 
-De hoge modelscore (0,997) komt waarschijnlijk voort uit nabijheid in de kennisgraaf tot gewrichts- en skeletaandoeningen zoals artropathie en artrose, en niet uit een biologische rationale. Hooguit zou ibuprofen symptomatisch pijn kunnen verlichten, maar dat is niet aangetoond.
+De hoge modelscore (0,9974) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, zoals gewrichts- en skeletaandoeningen zoals artropathie en artrose, en is geen biologisch bewijs. Hooguit zou ibuprofen symptomatisch pijn kunnen verlichten, maar dat is niet aangetoond.
 
 ## Klinisch trialbewijs
 
@@ -72,7 +72,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119085 | Etos Ibuprofen Liquid Caps 200 mg, zachte capsules (vervallen) | Zachte capsule | Niet beschikbaar |
+| RVG 119085 | Etos Ibuprofen Liquid Caps 200 mg, zachte capsules (geldig) | Zachte capsule | Niet beschikbaar |
 
 ## Veiligheidsoverwegingen
 
@@ -99,12 +99,12 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. 
 
 | Rang | Aandoening | Score | Beoordeling mechanistisch verband |
 |---|---|---|---|
-| 2 | Brachyolmie-amelogenesis imperfecta-syndroom | 99,71% | Geen onderbouwd verband |
-| 3 | Myosclerose | 99,68% | Zwak, speculatief (hooguit symptomatische pijnverlichting) |
-| 4 | Brachyolmie | 99,67% | Geen onderbouwd verband |
-| 5 | Brachydactylie-syndactylie-syndroom | 99,66% | Geen onderbouwd verband; foetale veiligheidszorgen |
-| 6 | Pseudoachondroplasie | 99,66% | Indirect en alleen symptomatisch (gewrichtspijn) |
-| 7 | Colobomateuze microftalmie-rizomele dysplasie-syndroom | 99,60% | Geen onderbouwd verband |
+| 2 | Brachyolmie-amelogenesis imperfecta-syndroom | 0,9971 | Geen onderbouwd verband |
+| 3 | Myosclerose | 0,9968 | Zwak, speculatief (hooguit symptomatische pijnverlichting) |
+| 4 | Brachyolmie | 0,9967 | Geen onderbouwd verband |
+| 5 | Brachydactylie-syndactylie-syndroom | 0,9966 | Geen onderbouwd verband; foetale veiligheidszorgen |
+| 6 | Pseudoachondroplasie | 0,9966 | Indirect en alleen symptomatisch (gewrichtspijn) |
+| 7 | Colobomateuze microftalmie-rizomele dysplasie-syndroom | 0,9960 | Geen onderbouwd verband |
 
 ## Conclusie en vervolgstappen
 

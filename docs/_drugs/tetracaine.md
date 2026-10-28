@@ -6,9 +6,9 @@ nav_order: 317
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Dermatitis (afkomstig uit de kennisgraaf"
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
+description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Tetracaine
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Tetracaïne: Van dermatitis naar acrodermatitis chronica atrophicans
+## Tetracaine: Acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Tetracaïne is een lokaal anestheticum van het estertype. In de kennisgraaf is het gekoppeld aan dermatitis als oorspronkelijke indicatie. Het TxGNN-model voorspelt een mogelijk effect bij **acrodermatitis chronica atrophicans**, maar daarvoor zijn **geen klinische studies** en **geen publicaties** gevonden. Het bewijs berust dus uitsluitend op een modelvoorspelling.
+Tetracaïne is een lokaal anestheticum van het estertype. Het TxGNN-model (deep learning) voorspelt een mogelijk effect bij **acrodermatitis chronica atrophicans**, maar daarvoor zijn **geen klinische studies** en **geen publicaties** gevonden. Het bewijs berust dus uitsluitend op een modelvoorspelling.
 
 ---
 
@@ -46,12 +46,12 @@ Tetracaïne is een lokaal anestheticum van het estertype. In de kennisgraaf is h
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Dermatitis (afkomstig uit de kennisgraaf; er is geen goedgekeurde indicatietekst van het CBG-MEB beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Acrodermatitis chronica atrophicans |
-| TxGNN-voorspellingsscore | 99,93% |
+| TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -66,14 +66,14 @@ Acrodermatitis chronica atrophicans is een laat-stadium huidmanifestatie van een
 
 | Voorspelde indicatie | Score | Bewijsniveau | Beoordeling |
 |------|------|------|------|
-| Neonatale dermatomyositis | 99,92% | L5 | Geen plausibel mechanistisch verband |
-| Bronchitis | 99,92% | L5 | Zwak, indirect: onderdrukking van de hoestreflex bij ingrepen, geen behandeling van bronchitis zelf |
-| Secundaire interstitiële longziekte bij kinderen (bindweefselziekte) | 99,92% | L5 | Geen mechanistisch verband |
-| Acne keloid | 99,91% | L4 | Alleen ondersteunend gebruik (pijnbestrijding bij laserbehandeling) |
-| Hydroa vacciniforme, familiair | 99,91% | L5 | Geen mechanistisch verband |
-| Amyopathische dermatomyositis | 99,90% | L5 | Geen plausibel mechanistisch verband |
-| Cauda equina-syndroom | 99,55% | L4 | Veiligheidssignaal: tetracaïne is hier een oorzaak, geen behandeling |
-| Prikkelbaredarmsyndroom | 99,41% | L5 | Speculatief, geen studies |
+| Neonatale dermatomyositis | 0,9992 | L5 | Geen plausibel mechanistisch verband |
+| Bronchitis | 0,9992 | L5 | Zwak, indirect: onderdrukking van de hoestreflex bij ingrepen, geen behandeling van bronchitis zelf |
+| Secundaire interstitiële longziekte bij kinderen (bindweefselziekte) | 0,9992 | L5 | Geen mechanistisch verband |
+| Acne keloid | 0,9991 | L5 | Alleen ondersteunend gebruik (pijnbestrijding bij laserbehandeling) |
+| Hydroa vacciniforme, familiair | 0,9991 | L5 | Geen mechanistisch verband |
+| Amyopathische dermatomyositis | 0,9990 | L5 | Geen plausibel mechanistisch verband |
+| Cauda equina-syndroom | 0,9955 | L4 | Veiligheidssignaal: tetracaïne is hier een oorzaak, geen behandeling |
+| Prikkelbaredarmsyndroom | 0,9941 | L5 | Speculatief, geen studies |
 
 ---
 
@@ -115,9 +115,9 @@ De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaa
 
 | RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème (doorgehaald) | Crème | Niet beschikbaar |
+| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème (geldig) | Crème | Niet beschikbaar |
 
-Er is geen geldige vergunning voor tetracaïne in Nederland. De enige registratie is doorgehaald.
+Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig.
 
 ---
 
@@ -141,7 +141,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor acrodermatitis chronica atrophicans berust uitsluitend op een computermodel (L5), zonder studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is er in Nederland geen geldige vergunning. Voor cauda equina-syndroom is er juist een veiligheidssignaal en geen therapeutisch potentieel.
+- De voorspelling voor acrodermatitis chronica atrophicans berust uitsluitend op een computermodel (L5), zonder studies, literatuur of aannemelijk werkingsmechanisme. Tetracaïne is in Nederland wel op de markt (1 van de 1 vergunningen is geldig). Voor cauda equina-syndroom is er juist een veiligheidssignaal en geen therapeutisch potentieel.
 
 **Om verder te gaan is nodig:**
 - Officiële productinformatie (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties; zonder deze gegevens kan de veiligheidsscreening niet worden voortgezet

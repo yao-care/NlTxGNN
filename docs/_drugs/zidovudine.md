@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zidovudine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 345
-evidence_level: L4
-indication_count: 6
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Zidovudine: voorspelde nieuwe indicatie Felien verworven immuundeficiëntiesyndroom (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (op basis van de kennisgraaf van TxG…"
 monitor_inn: "zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+description: "Zidovudine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-## Zidovudine: Van hiv/aids naar felien verworven immuundeficiëntiesyndroom (kattenaids)
+## Zidovudine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## Samenvatting in het kort
@@ -46,12 +46,12 @@ Voor deze voorspelling zijn **geen klinische studies** geregistreerd. Er zijn **
 
 | Onderdeel | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Hiv-infectie en aids (op basis van de kennisgraaf van TxGNN) |
-| Voorspelde nieuwe indicatie | Felien verworven immuundeficiëntiesyndroom (kattenaids) |
-| TxGNN-voorspellingsscore | 99,96% |
-| Bewijsniveau | L4 |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) registraties |
-| Aantal registraties | 4 (alle ingetrokken) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome |
+| TxGNN-voorspellingsscore | 0.9996 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal registraties | 4 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -83,14 +83,14 @@ Er zijn geen gerandomiseerde gecontroleerde studies (RCT's) gevonden. De onderst
 
 ## Informatie over de Nederlandse markt
 
-Alle vier de registraties zijn ingetrokken (doorgehaald). Er is geen geldige registratie voor zidovudine als enkelvoudig middel of als combinatieproduct. Gegevens over de goedgekeurde indicatie zijn niet beschikbaar in de samengestelde data.
+Gegevens over de goedgekeurde indicatie zijn niet beschikbaar in de samengestelde data.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Status |
 |---------|------|------|-----------|
-| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg | Filmomhulde tabletten | Ingetrokken |
-| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg | Filmomhulde tabletten | Ingetrokken |
-| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva | Filmomhulde tabletten | Ingetrokken |
-| RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg | Filmomhulde tabletten | Ingetrokken |
+| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg | Filmomhulde tabletten | Geldig |
+| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg | Filmomhulde tabletten | Geldig |
+| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva | Filmomhulde tabletten | Geldig |
+| RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg | Filmomhulde tabletten | Geldig |
 
 ## Veiligheidsoverwegingen
 
@@ -114,7 +114,6 @@ De gegevens uit de kennisgraaf zijn geen bijsluitertekst. Voor de officiële waa
 
 **Onderbouwing:**
 - De voorspelling betreft een diergeneeskundige aandoening (kattenaids) en wordt alleen ondersteund door diermodel- en veterinaire studies (bewijsniveau L4). Er zijn geen klinische studies en er is geen bewijs voor een humane indicatie.
-- De registraties in Nederland zijn alle ingetrokken en er is geen geldige handelsvergunning meer.
 
 **Aanvullende opmerking over andere voorspellingen:** twee andere voorspellingen voor zidovudine hebben wel sterk bewijs, maar vallen vrijwel samen met de oorspronkelijke indicatie. Dit zijn *AIDS-gerelateerd complex* en *congenitale hiv-infectie* (preventie van moeder-op-kindoverdracht), beide met bewijsniveau L1 en de aanbeveling "Proceed with Guardrails". Ze ondersteunen vooral het bekende gebruik bij hiv en vormen geen echte herpositionering. In de huidige praktijk wordt bovendien combinatie-antiretrovirale therapie gebruikt en is monotherapie met zidovudine achterhaald.
 

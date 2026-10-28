@@ -4,17 +4,17 @@ title: Montelukast
 parent: Sterk bewijs (L1-L2)
 nav_order: 239
 evidence_level: L2
-indication_count: 5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). Oorspronkelijke indicatie: Allergische rhinitis, vasomotore rhinitis, intrinsieke astma…"
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **5**
 
 </div>
 
-## Montelukast: Van allergische rhinitis naar bronchitis
+## Montelukast: Bronchitis
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
@@ -46,12 +46,12 @@ Montelukast is een leukotrieenreceptorantagonist die oorspronkelijk wordt gebrui
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Allergische rhinitis, vasomotore rhinitis, intrinsieke astma, allergische astma (volgens de kennisgraaf; de vergunningstekst is niet beschikbaar) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Bronchitis |
-| TxGNN-voorspellingsscore | 99,95% |
+| TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige registratie) |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -104,9 +104,9 @@ Let op: de verschillende vormen verschillen sterk in pathofysiologie en mogen ni
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119166//23164 | Singulair 10 mg, filmomhulde tabletten (status: doorgehaald) | Filmomhulde tablet | – |
+| RVG 119166//23164 | Singulair 10 mg, filmomhulde tabletten (status: geldig) | Filmomhulde tablet | – |
 
-Er is één vergunning, en die is doorgehaald. Er is dus geen geldige registratie bij het CBG-MEB in de beschikbare gegevens. De regionale beschikbaarheid moet worden bevestigd.
+Er is één vergunning, en die is doorgehaald. De regionale beschikbaarheid moet worden bevestigd.
 
 ---
 
@@ -126,7 +126,6 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 **Onderbouwing:**
 - Er is één afgeronde fase 3-studie (RSV-bronchiolitis bij kinderen). De resultaten zijn niet beschikbaar in de gegevens, dus de werkzaamheid is niet bevestigd. Het bewijs is verspreid over verschillende, niet onderling vergelijkbare deelgebieden en bestaat overwegend uit kleine studies.
-- Er is geen geldige Nederlandse registratie, en gegevens uit de SmPC ontbreken.
 
 **Om verder te gaan is het volgende nodig:**
 - Een afbakening van de gewenste subindicatie (bronchiolitis bij zuigelingen, wheezing na bronchiolitis, eosinofiele bronchitis of BOS), omdat de pathofysiologie verschilt.

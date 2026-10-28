@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunitrazepam
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 158
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Flunitrazepam: voorspelde nieuwe indicatie Insomnia (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 monitor_inn: "Flunitrazepam"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+description: "Flunitrazepam: voorspelde nieuwe indicatie Migraine disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Flunitrazepam
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Flunitrazepam: Van een slaapmiddel (oorspronkelijke indicatie niet vastgelegd) naar insomnia
+## Flunitrazepam: Migraine disorder
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
 Flunitrazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. In de voor dit rapport verzamelde gegevens is de oorspronkelijke indicatie niet vastgelegd.
-Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **insomnia**.
 Hiervoor zijn **geen geregistreerde klinische studies** en **10 publicaties** gevonden, grotendeels oudere en niet-gerandomiseerde studies. Dit is eigenlijk geen echte herpositionering, maar een bestaand gebruik in veel landen.
 
 ---
@@ -48,12 +47,12 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **10 publicaties** ge
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (de vergunning bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Insomnia |
-| TxGNN-voorspellingsscore | 99,89% |
-| Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde vergunning (geen geldige vergunning) |
-| Aantal vergunningen | 1 (0 geldig, 1 doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Migraine disorder |
+| TxGNN-voorspellingsscore | 0.9971 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,7 +94,7 @@ Opmerking: twee van de gevonden publicaties (over een kruidenextract en over ben
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57033 | Flunitrazepam CF 2 mg, tabletten | Niet vermeld (tabletten) | Niet vermeld; vergunning doorgehaald |
+| RVG 57033 | Flunitrazepam CF 2 mg, tabletten | Niet vermeld (tabletten) | Niet vermeld; vergunning geldig |
 
 ---
 
@@ -117,7 +116,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor insomnia komt overeen met een bestaand gebruik, maar het bewijs bestaat uit oudere, niet-gerandomiseerde studies en reviews (L3) zonder geregistreerde klinische studies. De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.
+- De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.
 
 **Om verder te gaan is nodig:**
 - Het ophalen en verwerken van de actuele bijsluiter/SmPC via het CBG-MEB (waarschuwingen, contra-indicaties), omdat zonder deze gegevens de veiligheidsscreening niet kan worden afgerond

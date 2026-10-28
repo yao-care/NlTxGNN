@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: Matig bewijs (L3-L4)
 nav_order: 161
 evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluoxetine: voorspelde nieuwe indicatie Schizotypische persoonlijkheidsstoornis (bewijsniveau L3). Oorspronkelijke indicatie: Depressieve stoornis (major depressive disorder)…"
+indication_count: 9
 monitor_inn: "fluoxetine"
-predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
+predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-10-23
+description: "Fluoxetine: voorspelde nieuwe indicatie Schizotypal personality disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Fluoxetine: Van depressieve stoornis naar schizotypische persoonlijkheidsstoornis
+## Fluoxetine: Schizotypal personality disorder
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting in het kort
 
-Fluoxetine is een selectieve serotonineheropnameremmer (SSRI) die oorspronkelijk wordt gebruikt bij depressieve en angststoornissen, onder meer bij depressie, boulimia nervosa en dwangstoornis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **schizotypische persoonlijkheidsstoornis**. De ondersteuning is beperkt: er zijn **0 geregistreerde klinische studies** en **10 publicaties**, waarvan slechts één kleine open-label studie fluoxetine direct onderzoekt bij deze aandoening.
+Fluoxetine is een SSRI-antidepressivum. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij **schizotypische persoonlijkheidsstoornis**. Het onderbouwende bewijs is beperkt: **geen geregistreerde klinische studies** en **10 publicaties**. Daarvan onderzoekt slechts één (een kleine, open-label studie uit 1991) fluoxetine rechtstreeks bij deze aandoening.
 
 ---
 
@@ -46,29 +46,29 @@ Fluoxetine is een selectieve serotonineheropnameremmer (SSRI) die oorspronkelijk
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Depressieve stoornis (major depressive disorder), naast o.a. angststoornis, dwangstoornis en boulimia nervosa. De vergunning in Nederland vermeldt geen indicatietekst, dus deze indicaties komen uit de kennisgraaf van TxGNN. |
-| Voorspelde nieuwe indicatie | Schizotypische persoonlijkheidsstoornis |
-| TxGNN-voorspellingsscore | 99,92% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Schizotypal personality disorder |
+| TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaald (geen geldige vergunning) |
-| Aantal vergunningen | 1 (doorgehaald) |
-| Aanbevolen beslissing | Hold (onderzoeksvraag) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal handelsvergunningen (RVG) | 1 (geldig: 1) |
+| Aanbevolen besluit | Hold |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Over het werkingsmechanisme van fluoxetine zijn in de voor dit rapport samengestelde gegevens geen gedetailleerde mechanistische gegevens beschikbaar. Bekend is dat fluoxetine een SSRI is. De werkzaamheid bij depressie en angststoornissen is aangetoond, en mechanistisch kan het ook van toepassing zijn op schizotypische persoonlijkheidsstoornis.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van bekende informatie is fluoxetine een selectieve serotonineheropnameremmer (SSRI). De werkzaamheid bij depressie en angststoornissen is breed beschreven, en mechanistisch zou het ook bij schizotypische persoonlijkheidsstoornis van toepassing kunnen zijn.
 
-De redenering is dat serotonerge modulatie affectieve instabiliteit en obsessieve en impulsieve symptomen kan verminderen. Die symptomen overlappen deels met schizotypische kenmerken. Dit is een hypothese en geen bewezen werkingsmechanisme voor deze aandoening.
+Serotonerge modulatie kan affectieve instabiliteit, obsessieve kenmerken en impulsiviteit verminderen. Die kenmerken komen voor bij schizotypische en borderline-persoonlijkheidsstoornissen. De enige directe aanwijzing is een kleine, niet-geblindeerde studie bij patiënten met een borderline- of schizotypische persoonlijkheidsstoornis. Daarin namen zelfbeschadiging en klachtenscores af. De auteurs pleitten zelf voor gecontroleerde studies.
 
-De belangrijkste ondersteuning is een oudere, kleine open-label studie uit 1991 naar fluoxetine bij borderline- en schizotypische persoonlijkheidsstoornis. Daarnaast zijn er narratieve overzichten van de farmacotherapie bij cluster A-persoonlijkheidsstoornissen. Dit bewijs is zwak. Een patiëntcasus beschrijft bovendien een voorbijgaande psychose met psychogene polydipsie bij een schizotypische patiënt die fluoxetine gebruikte, wat een veiligheidssignaal is.
+De voorspelling berust dus vooral op netwerkverwantschap met andere stemmings- en persoonlijkheidsstoornissen. Een bewezen mechanisme voor deze specifieke aandoening ontbreekt. Een overzichtsartikel stelt bovendien dat er voor deze aandoeningen geen middel van eerste keuze is.
 
 ---
 
 ## Bewijs uit klinische studies
 
-Currently no related clinical trials registered. Er zijn geen geregistreerde studies (ClinicalTrials.gov of internationale registers) voor deze combinatie van geneesmiddel en aandoening.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ---
 
@@ -76,67 +76,71 @@ Currently no related clinical trials registered. Er zijn geen geregistreerde stu
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Review | The Mental Health Clinician | Overzicht van de farmacologische behandeling van cluster A-persoonlijkheidsstoornissen (paranoïde, schizoïde, schizotypisch). |
-| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Review | J Clin Psychopharmacol | Conceptueel kader en klinische strategieën voor medicatie bij persoonlijkheidsstoornissen. Oudere studies zijn moeilijk te interpreteren door veranderde diagnostische criteria. |
-| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Cohort/overzicht | J Clin Psychiatry | Er is geen middel van eerste keus voor borderline- of schizotypische persoonlijkheidsstoornis. Verschillende middelen helpen sommige patiënten, afhankelijk van het symptoombeeld. |
-| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Open-label studie | Am J Psychiatry | 22 patiënten met borderline- en/of schizotypische persoonlijkheidsstoornis kregen 12 weken fluoxetine zonder blindering. Zelfbeschadiging en klachtenscores namen significant af. De auteurs pleiten voor gecontroleerde studies. |
-| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Niet gespecificeerd | Psychol Med | Persoonlijkheidsstoornissen bij depressieve poliklinische patiënten vóór en na behandeling met fluoxetine. Het gaat om depressie, niet om schizotypische stoornis zelf. |
-| [15209835](https://pubmed.ncbi.nlm.nih.gov/15209835/) | 2004 | Niet gespecificeerd | Aust N Z J Psychiatry | Persoonlijkheid en behandeluitkomst bij bipolaire II-stoornis. Alleen indirect relevant. |
-| [7635854](https://pubmed.ncbi.nlm.nih.gov/7635854/) | 1995 | Niet gespecificeerd | J Clin Psychiatry | Voorspellers van geneesmiddelrespons bij dwangstoornis. Alleen indirect relevant. |
-| [37082034](https://pubmed.ncbi.nlm.nih.gov/37082034/) | 2021 | Casusbeschrijving | Postępy Psychiatrii i Neurologii | Comorbiditeit van dwangstoornis en anorexia nervosa bij een 14-jarig meisje. Niet specifiek voor de voorspelde indicatie. |
-| [33634761](https://pubmed.ncbi.nlm.nih.gov/33634761/) | 2021 | Casusbeschrijving | CNS Neurol Disord Drug Targets | Behandeling van katatonie met asenapine bij een patiënt met schizotypische persoonlijkheidsstoornis. Betreft niet fluoxetine. |
+| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Prospectieve, niet-geblindeerde studie | Am J Psychiatry | 22 patiënten met een borderline- en/of schizotypische persoonlijkheidsstoornis kregen 12 weken fluoxetine. Zelfbeschadiging en klachtenscores namen significant af; gecontroleerde studies worden aanbevolen. |
+| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Overzicht | J Clin Psychiatry | Er is geen middel van eerste keuze voor borderline- of schizotypische persoonlijkheidsstoornis. Verschillende geneesmiddelklassen geven bij geselecteerde patiënten enig voordeel, afhankelijk van het symptoomprofiel. |
+| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Overzicht | Ment Health Clin | Overzicht van farmacologische behandeling van cluster A-persoonlijkheidsstoornissen, waaronder de schizotypische. |
+| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Overzicht | J Clin Psychopharmacol | Conceptueel kader en klinische strategieën voor medicatie bij persoonlijkheidsstoornissen. |
+| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Overzicht/cohort | Psychol Med | Persoonlijkheidsstoornissen bij depressieve poliklinische patiënten vóór en na behandeling met fluoxetine; onderzocht werd de stabiliteit van de diagnoses. |
 | [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Casusbeschrijving | Psychosomatics | Voorbijgaande psychose met psychogene polydipsie bij een schizotypische patiënt die fluoxetine gebruikte (veiligheidssignaal). |
+| [33634761](https://pubmed.ncbi.nlm.nih.gov/33634761/) | 2021 | Casusbeschrijving | CNS Neurol Disord Drug Targets | Katatonie bij een patiënt met schizotypische persoonlijkheidsstoornis, behandeld met asenapine; geen fluoxetine. |
+
+De overige drie opgehaalde publicaties zijn indirect. Ze gaan over bipolaire II-stoornis, het voorspellen van behandelrespons bij dwangstoornis en een casus van dwangstoornis met anorexia nervosa.
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118221 | Fluoxetine Amdipharm 60 mg, harde capsules | Harde capsules | Niet vermeld (vergunning doorgehaald) |
+| RVG-nummer | Productnaam | Toedieningsvorm |
+|---------|------|------|
+| RVG 118221 | Fluoxetine Amdipharm 60 mg, harde capsules | Harde capsules |
 
-Dit is de enige vergunning en deze is doorgehaald. Er is dus geen geldig geregistreerd fluoxetineproduct in de voor dit rapport samengestelde gegevens. De actuele status moet worden gecontroleerd bij het CBG-MEB.
+De gegevens voor dit rapport bevatten geen goedgekeurde indicatietekst voor deze vergunning. Raadpleeg de SmPC bij het CBG-MEB voor de geregistreerde indicaties.
 
 ---
 
-## Veiligheidsoverwegingen
+## Veiligheidsaspecten
 
-Voor veiligheidsinformatie over waarschuwingen en contra-indicaties volgens de bijsluiter: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter. Deze gegevens waren niet beschikbaar.
+**Contra-indicaties volgens de kennisgraaf**
+Dit zijn relaties uit de kennisgraaf (geneesmiddel-ziekte), geen teksten uit de SmPC. Ze zijn bedoeld als signaal. De lijst omvat onder meer:
+- Neurologisch: epilepsie, beroerte en andere cerebrovasculaire aandoeningen, hersenaandoening met infarct.
+- Cardiovasculair: myocardinfarct, coronaire trombose, orthostatische hypotensie, hypotensie, POTS, multipele systeematrofie.
+- Lever en galblaas: leverfalen, leveraandoening, levercirrose, galblaasaandoening.
+- Metabool: diabetes mellitus, hyperglykemie, diabetische ketoacidose, hyperlipidemie, hypertriglyceridemie, obesitas.
+- Bloed: neutropenie, agranulocytose, stollingsstoornis.
+- Overig: bipolaire stoornis en andere ernstige stemmingsstoornissen, goedaardige prostaathyperplasie, borstkanker bij vrouwen.
 
-- **Contra-indicaties volgens de kennisgraaf (geen bijsluitertekst)**: de kennisgraaf van TxGNN koppelt fluoxetine aan onder meer:
-  - epilepsie, bipolaire stoornis en andere ernstige stemmingsstoornissen
-  - leverziekte, leverfalen en levercirrose
-  - diabetes mellitus, hyperglykemie en diabetische ketoacidose
-  - neutropenie en agranulocytose
-  - bloedstollingsstoornissen
-  - orthostatische hypotensie en andere hypotensieve aandoeningen
-  - beroerte, cerebrovasculaire aandoeningen, hartinfarct en coronaire trombose
-  - hyperlipidemie en hypertriglyceridemie
-  - obesitas
-  - goedaardige prostaathyperplasie
-  - galblaasziekte
-  - borstkanker
-  
-  Deze lijst is een signaal en geen vastgestelde contra-indicatie. De SmPC is leidend.
-- **Geneesmiddelinteracties**: er zijn 399 interacties bekend. Voorbeelden van ernstige (major) interacties zijn bupropion, lorcaserine, diethylpropion, dolasetron, eliglustat, palonosetron en cisapride. Er zijn ook veel matige interacties, onder meer met acetylsalicylzuur, clarithromycine, morfine en loperamide.
-- **Signaal uit de literatuur**: een casus beschrijft voorbijgaande psychose met psychogene polydipsie bij een schizotypische patiënt op fluoxetine.
+**Geneesmiddelinteracties**
+In totaal zijn 399 interacties gevonden. Daarvan zijn de volgende als *ernstig* ingedeeld:
+- Bupropion
+- Lorcaserine
+- Diethylpropion
+- Dolasetron
+- Eliglustat
+- Palonosetron
+- Cisapride
+
+Daarnaast zijn er veel interacties van gemiddeld niveau, onder meer met acetylsalicylzuur, morfine en claritromycine.
+
+**Veiligheidssignaal bij deze indicatie**
+Een casusbeschrijving meldt voorbijgaande psychose met polydipsie bij een schizotypische patiënt op fluoxetine.
+
+Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold (onderzoeksvraag)**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor schizotypische persoonlijkheidsstoornis bestaat uit één kleine open-label studie uit 1991, algemene overzichtsartikelen en een casus met een veiligheidssignaal. Er zijn geen geregistreerde studies, en de hoge modelscore (99,92%) is geen klinisch bewijs.
-- Het enige Nederlandse product is doorgehaald.
+Er zijn geen geregistreerde klinische studies, en het directe bewijs bestaat uit één kleine, niet-geblindeerde studie uit 1991. Daarnaast zijn er overzichtsartikelen die geen eenduidige werkzaamheid aantonen. Een casusbeschrijving meldt ook een psychotische reactie. De hoge TxGNN-score is daarmee niet voldoende reden om door te gaan. Het blijft een onderzoeksvraag.
 
 **Om verder te gaan is nodig:**
-- Een gerandomiseerde, placebogecontroleerde studie van fluoxetine bij schizotypische persoonlijkheidsstoornis
-- Gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor deze aandoening
-- Veiligheidsinformatie uit de actuele SmPC en bijsluiter, inclusief evaluatie van het psychosesignaal
-- Controle van de huidige vergunningsituatie bij het CBG-MEB
-- Opmerking: binnen dezelfde voorspellingen heeft fluoxetine sterker bewijs voor fobische stoornis en agorafobie. Deze zijn mogelijk een betere prioriteit voor vervolgonderzoek.
+- Een gerandomiseerde, placebogecontroleerde studie van fluoxetine bij schizotypische persoonlijkheidsstoornis.
+- Gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor deze aandoening.
+- Beoordeling van de SmPC-waarschuwingen en -contra-indicaties door het CBG-MEB, met speciale aandacht voor psychotische symptomen en de ernstige geneesmiddelinteracties.
+- Een veiligheidsplan voor deze populatie, mede gezien de casus van psychose.
+- Controle van de goedgekeurde indicatietekst van RVG 118221.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

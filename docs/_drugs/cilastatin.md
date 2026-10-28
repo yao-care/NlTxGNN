@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cilastatin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 85
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (bewijsniveau L3). Oorspronkelijke indicatie: Bacteriële pneumonie, peritonitis, endocarditis, bacteriële artritis…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
+last_modified_at: 2026-10-27
+description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Cilastatin
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,83 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Cilastatine: Van bacteriële pneumonie naar Staphylococcus aureus-infectie
+## Cilastatine: dehydropeptidase-remmer → Staphylococcus aureus-infectie (staphylococcus aureus infection)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Cilastatine is een remmer van het nierenzym dehydropeptidase-I en wordt altijd samen met het antibioticum imipenem gegeven, oorspronkelijk voor bacteriële infecties zoals pneumonie, peritonitis en endocarditis. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **Staphylococcus aureus-infectie**, met **1 klinische studie** en **20 publicaties** in de data die voor dit rapport zijn samengesteld. Belangrijk: het effect komt van imipenem; cilastatine beschermt imipenem alleen tegen afbraak in de nier.
-
----
+Cilastatine is een enzymremmer (dehydropeptidase-1) die in vaste combinatie met het antibioticum imipenem wordt gegeven om imipenem te beschermen tegen afbraak in de nier.
+Het TxGNN-model voorspelt dat cilastatine mogelijk werkzaam is bij **Staphylococcus aureus-infectie (staphylococcus aureus infection)**.
+Hiervoor zijn in de samengestelde data **1 klinische studie** en **20 publicaties** gevonden; geen daarvan toont een direct effect van cilastatine zelf.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Bacteriële pneumonie, peritonitis, endocarditis, bacteriële artritis, endometritis (volgens kennisgrafiek; de goedkeuringstekst van de Nederlandse registraties ontbreekt) |
-| Voorspelde nieuwe indicatie | Staphylococcus aureus-infectie |
-| TxGNN-voorspellingsscore | 99,94% |
-| Bewijsniveau | L3 |
-| Status op de Nederlandse markt | Alleen doorgehaalde registraties |
-| Aantal registraties | 2 (beide doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Staphylococcus aureus-infectie (staphylococcus aureus infection) |
+| TxGNN-voorspellingsscore | 0,9994 |
+| Bewijsniveau | L5 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling redelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+Gedetailleerde gegevens over het werkingsmechanisme van cilastatine zijn momenteel niet beschikbaar. Cilastatine remt dehydropeptidase-1, een enzym in de niertubuli dat imipenem afbreekt. Het wordt daarom alleen samen met imipenem gebruikt, om de werkzaamheid en concentratie van imipenem te verhogen.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Cilastatine remt dehydropeptidase-I in de niertubuli. Daardoor wordt imipenem niet in de nier afgebroken en stijgen de urinaire en systemische blootstelling aan imipenem. Cilastatine zelf heeft geen antibacteriële werking.
+Een eventuele werking tegen S. aureus komt van imipenem, dat actief is tegen meticilline-gevoelige S. aureus maar beperkt actief tegen MRSA. De literatuur ondersteunt dus een farmacokinetische rol en een rol in combinatietherapie, geen directe antistafylokokkenwerking van cilastatine.
 
-De voorspelling voor S. aureus-infectie komt waarschijnlijk voort uit de werking van imipenem, dat actief is tegen methicilline-gevoelige S. aureus (MSSA) maar beperkt werkzaam is tegen MRSA. Het bewijs ondersteunt dus een farmacokinetische rol en een rol in combinatietherapie, niet een directe antistafylokokkenwerking van cilastatine. Een toekomstige beoordeling moet de baten daarom aan het imipenem/cilastatine-combinatiepreparaat toeschrijven.
+Het bewijs is bovendien niet voldoende om L4 of hoger te rechtvaardigen: geen van de studies onderzoekt cilastatine als zelfstandig middel bij deze ziekte. De gevonden studies betreffen imipenem/cilastatine als combinatie of andere middelen. Daarom geldt L5 (alleen modelvoorspelling voor cilastatine zelf).
 
----
+## Bewijs uit klinische studies
 
-## Klinische studies
-
-| Studienummer | Fase | Status | Inschrijving | Belangrijkste bevindingen |
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Fase 4 | Onbekend | 60 | Linezolid alleen of gecombineerd met een carbapenem tegen MRSA bij beademingsgerelateerde pneumonie. Het specifieke carbapenem is niet bevestigd als imipenem/cilastatine en de status is onbekend, wat de betrouwbaarheid beperkt. |
+| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Fase 4 | Onbekend | 60 | Linezolid alleen of met een carbapenem tegen MRSA bij beademingsgerelateerde pneumonie; het carbapenem is niet bevestigd als imipenem/cilastatine |
 
----
-
-## Literatuurbewijs
-
-Geselecteerd op relevantie (klinische studies en casuïstiek boven algemene overzichten):
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|---------|-----|------|------|---------|
-| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Klinische studie | Antimicrob Agents Chemother | Imipenem/cilastatine bij 23 patiënten met MSSA- en MRSA-infecties (voornamelijk weke delen, endovasculair en bot). |
-| [3859210](https://pubmed.ncbi.nlm.nih.gov/3859210/) | 1985 | Klinische studie | Am J Med | Imipenem/cilastatine bij 17 patiënten met bacteriële endocarditis. |
-| [3859208](https://pubmed.ncbi.nlm.nih.gov/3859208/) | 1985 | Open prospectieve studie | Am J Med | Bacteriële pneumonie bij 43 volwassenen behandeld met imipenem/cilastatine. |
-| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Casuïstiek/commentaar | Antimicrob Agents Chemother | Imipenem/cilastatine plus fosfomycine bij refractaire MRSA-infectie als nieuwe combinatietherapie. |
-| [22196394](https://pubmed.ncbi.nlm.nih.gov/22196394/) | 2012 | Review | Int J Antimicrob Agents | Overzicht van MRSA-pathogenese, behandeling en resistentie. |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Off-label gebruik versus formele aanbevelingen van antibiotica bij multiresistente bacteriën. |
-| [3378959](https://pubmed.ncbi.nlm.nih.gov/3378959/) | 1988 | Dierstudie | J Antimicrob Chemother | Imipenem/cilastatine versus vancomycine bij experimentele MRSA-endocarditis (konijn). |
-| [10588305](https://pubmed.ncbi.nlm.nih.gov/10588305/) | 1999 | Preklinisch | J Antimicrob Chemother | Synergie van vancomycine en imipenem tegen MRSA in vitro en in een muizenmodel. |
-| [8072190](https://pubmed.ncbi.nlm.nih.gov/8072190/) | 1994 | Klinisch/in vitro | Jpn J Antibiot | Combinatie van arbekacine en imipenem/cilastatine tegen MRSA. |
-| [12878512](https://pubmed.ncbi.nlm.nih.gov/12878512/) | 2003 | Preklinisch | Antimicrob Agents Chemother | In vivo vergelijking: imipenem/cilastatine was minder actief tegen MRSA dan vancomycine. |
-
----
+|------|-----|------|------|---------|
+| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Klinische studie | Antimicrob Agents Chemother | Imipenem/cilastatine bij 23 patiënten met MSSA- en MRSA-infecties beoordeeld op werkzaamheid en toxiciteit |
+| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Casuscommentaar | Antimicrob Agents Chemother | Imipenem/cilastatine plus fosfomycine bij refractaire MRSA-infectie als nieuwe combinatie |
+| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Off-label gebruik versus formele aanbevelingen van antibiotica bij multiresistente bacteriën |
+| [22196394](https://pubmed.ncbi.nlm.nih.gov/22196394/) | 2012 | Review | Int J Antimicrob Agents | Overzicht van pathogenese, behandeling en resistentie van MRSA |
+| [3378959](https://pubmed.ncbi.nlm.nih.gov/3378959/) | 1988 | Dierstudie (konijn) | J Antimicrob Chemother | Imipenem/cilastatine versus vancomycine bij experimentele MRSA-endocarditis |
+| [3859210](https://pubmed.ncbi.nlm.nih.gov/3859210/) | 1985 | Klinische studie | Am J Med | Imipenem/cilastatine bij 17 patiënten met bacteriële endocarditis |
+| [8072190](https://pubmed.ncbi.nlm.nih.gov/8072190/) | 1994 | Klinische studie | Jpn J Antibiot | Arbekacine plus imipenem/cilastatine tegen MRSA met lagere MIC-waarden dan afzonderlijk |
+| [10588305](https://pubmed.ncbi.nlm.nih.gov/10588305/) | 1999 | Preklinisch | J Antimicrob Chemother | Synergie van vancomycine en imipenem tegen MRSA in vitro en in een muismodel |
+| [12878512](https://pubmed.ncbi.nlm.nih.gov/12878512/) | 2003 | Preklinisch | Antimicrob Agents Chemother | Imipenem/cilastatine minder actief tegen MRSA dan S-3578 en vancomycine in een infectiemodel |
+| [3859208](https://pubmed.ncbi.nlm.nih.gov/3859208/) | 1985 | Klinische studie | Am J Med | Open studie van imipenem/cilastatine bij 43 volwassenen met bacteriële pneumonie |
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114780 | Imipenem/Cilastatine Stravencon 250mg/250mg, poeder voor oplossing voor infusie (doorgehaald) | Poeder voor oplossing voor infusie | Niet beschikbaar in de data |
-| RVG 114781 | Imipenem/Cilastatine Stravencon 500mg/500mg, poeder voor oplossing voor infusie (doorgehaald) | Poeder voor oplossing voor infusie | Niet beschikbaar in de data |
+| RVG 114780 | Imipenem/Cilastatine Stravencon 250mg/250mg, poeder voor oplossing voor infusie | Niet vermeld | Niet vermeld |
+| RVG 114781 | Imipenem/Cilastatine Stravencon 500mg/500mg, poeder voor oplossing voor infusie | Niet vermeld | Niet vermeld |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; er is momenteel geen geldige registratie van een enkelvoudig product in de data.
-
----
+Beide registraties betreffen de combinatie imipenem/cilastatine; deze zeggen niets over een eigen indicatie van cilastatine als enkelvoudig middel.
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgrafiek** (geen bijsluitertekst): epilepsie, nierziekte, pyoureter, Clostridium difficile-colitis en perinatale necrotiserende enterocolitis.
-- **Geneesmiddeleninteracties:** Er is één farmacologische vermelding: cilastatine remt als doel het enzym dipeptidase 1 (dehydropeptidase-I). Dit is het beoogde werkingsmechanisme, geen klinisch geclassificeerde interactie.
-- **Literatuursignaal:** een casus van imipenem/cilastatine-geïnduceerde leukocytoclastische vasculitis (PMID 9158321).
+- **Geneesmiddelinteracties**: In de data is alleen een farmacologische relatie vastgelegd: cilastatine remt dehydropeptidase-1 (het doeleiwit). Er zijn geen specifieke interacties met andere geneesmiddelen gevonden.
 
-Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB of EMA.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor S. aureus-infectie berust op imipenem, niet op cilastatine. Het bewijs bestaat uit oudere kleine studies, casuïstiek en preklinisch werk, en imipenem is beperkt werkzaam tegen MRSA. Er is geen gerichte vergelijkende studie, en de Nederlandse registraties zijn doorgehaald.
+- Er is geen studie die cilastatine zelf bij S. aureus-infectie onderzoekt. Het beschikbare bewijs betreft imipenem (of de combinatie), waarbij cilastatine alleen farmacokinetische bescherming biedt. Het bewijsniveau is daarom L5.
 
 **Om verder te gaan is nodig:**
-- De SmPC/bijsluiter van het CBG-MEB met waarschuwingen en contra-indicaties (momenteel een blokkerend gegevenstekort).
-- Mechanistische gegevens uit DrugBank.
-- Gerichte vergelijkende studies van imipenem/cilastatine bij S. aureus, bij voorkeur MSSA.
-- Beoordeling of er een nog geldig imipenem/cilastatine-product op de Nederlandse markt beschikbaar is.
-
----
-
-## Overige voorspelde indicaties (ter informatie)
-
-De overige voorspellingen zijn beoordeeld; de belangrijkste zijn:
-
-- **Pneumonie** (score 99,81%, bewijsniveau L1): meerdere fase 3-RCT's, waaronder [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) (n=537, imipenem/cilastatine/relebactam versus piperacilline/tazobactam bij HABP/VABP) en [NCT05204563](https://clinicaltrials.gov/study/NCT05204563). Pneumonie valt echter al onder de bestaande indicaties, dus dit is geen echte herpositionering. Het effect kan niet aan cilastatine alleen worden toegeschreven.
-- **Bronchitis** (99,65%, L3) en **salmonellose** (99,43%, L3): alleen oudere klinische studies en casuïstiek van imipenem/cilastatine als combinatie.
-- **Sinusitis** (L4) en overige voorspellingen (chronische rinosinusitis, chronische ethmoïdale sinusitis, paranasale sinusneoplasma, paratyfus, diffuse sclerodermie; allemaal L5): geen klinisch bewijs of aannemelijk mechanisme. Diffuse sclerodermie en sinusneoplasma zijn waarschijnlijk valspositieven.
+- Studies die de bijdrage van cilastatine afzonderlijk van imipenem aantonen, of een duidelijke reden waarom cilastatine zelf een rol zou spelen
+- Gegevens over het werkingsmechanisme
+- Volledige veiligheidsinformatie uit de SmPC van het CBG-MEB
+- Bevestiging van de gebruikte carbapenem in NCT01356472 en actuele klinische gegevens over MRSA, waarbij imipenem beperkt actief is
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

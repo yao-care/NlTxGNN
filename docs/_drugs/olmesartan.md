@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één zin
 
-Olmesartan is een angiotensine II-receptorblokker (AT1-blokker). In de voor dit rapport samengestelde gegevens is geen geregistreerde oorspronkelijke indicatie vermeld, maar het middel wordt klinisch gebruikt bij hoge bloeddruk. Het TxGNN-model voorspelt dat olmesartan werkzaam kan zijn bij **prinzmetal-angina** (score 99,84%). Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het bewijs is uitsluitend computationeel (niveau L5).
+Olmesartan is een angiotensine II-receptorblokker (AT1-blokker). In de voor dit rapport samengestelde gegevens is geen geregistreerde oorspronkelijke indicatie vermeld, maar het middel wordt klinisch gebruikt bij hoge bloeddruk. Het TxGNN-model voorspelt dat olmesartan werkzaam kan zijn bij **prinzmetal-angina** (score 0,9984). Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** beschikbaar; het bewijs is uitsluitend computationeel (niveau L5).
 
 ---
 
@@ -48,10 +48,10 @@ Olmesartan is een angiotensine II-receptorblokker (AT1-blokker). In de voor dit 
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de beschikbare vergunningsgegevens |
 | Voorspelde nieuwe indicatie | Prinzmetal-angina (vasospastische angina) |
-| TxGNN-voorspellingsscore | 99,84% |
+| TxGNN-voorspellingsscore | 0.9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen doorgehaald (alle vergunningen ingetrokken) |
-| Aantal vergunningen | 11 (waarvan 0 geldig) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
+| Aantal vergunningen | 11 (geldig: 11) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -78,15 +78,15 @@ Momenteel geen gerelateerde literatuur beschikbaar voor prinzmetal-angina.
 
 ## Marktinformatie Nederland
 
-Alle 11 vergunningen zijn doorgehaald; er is momenteel geen geldig product op de Nederlandse markt. Hieronder een overzicht van de eerste vijf vergunningen (CBG-MEB). Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
+Alle 11 vergunningen zijn geldig; het middel is momenteel op de Nederlandse markt. Hieronder een overzicht van de eerste vijf vergunningen (CBG-MEB). Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 118854 | Olmesartanmedoxomil Aurobindo 40 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 115954//100986 | Sevikar 40 mg/5 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 117957 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/12,5 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 115959//100987 | Sevikar 40 mg/10 mg, filmomhulde tabletten | Doorgehaald |
-| RVG 117958 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/25 mg, filmomhulde tabletten | Doorgehaald |
+| RVG 118854 | Olmesartanmedoxomil Aurobindo 40 mg, filmomhulde tabletten | Geldig |
+| RVG 115954//100986 | Sevikar 40 mg/5 mg, filmomhulde tabletten | Geldig |
+| RVG 117957 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/12,5 mg, filmomhulde tabletten | Geldig |
+| RVG 115959//100987 | Sevikar 40 mg/10 mg, filmomhulde tabletten | Geldig |
+| RVG 117958 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/25 mg, filmomhulde tabletten | Geldig |
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor overige waarschuwingen en contra-indicaties de SmPC (Samenvatting
 **Besluit: Hold**
 
 **Onderbouwing:**
-Voor prinzmetal-angina is er alleen een computationele voorspelling, zonder klinische studies of publicaties (L5). Bovendien zijn alle Nederlandse vergunningen doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties.
+Voor Prinzmetal-angina is er alleen een computationele voorspelling, zonder klinische studies of publicaties (L5). Bovendien ontbreken gegevens over waarschuwingen en contra-indicaties.
 
 **Om verder te gaan is nodig:**
 - Bijsluiter-/SmPC-gegevens van CBG-MEB (waarschuwingen en contra-indicaties) aanvullen
@@ -123,7 +123,7 @@ Naast prinzmetal-angina bevatten de gegevens enkele andere voorspellingen met me
 - **Migraine** (bewijsniveau L3): een kleine studie bij hypertensieve patiënten (PMID 16618270, 2006) en een systematische review over ACE-remmers en ARB's als klasse (PMID 31515634, 2019). Het bewijs specifiek voor olmesartan is beperkt. Aanbeveling: onderzoeksvraag.
 - **Pulmonale hypertensie** (L4): uitsluitend preklinische diermodellen bij ratten en muizen; geen humane gegevens. Aanbeveling: onderzoeksvraag.
 - **Openhoekglaucoom** (L4): alleen een algemeen overzichtsartikel uit 2009 zonder olmesartan-specifieke gegevens.
-- Voorspellingen voor haaraandoeningen (hypotrichosis, alopecia) en overige indicaties missen een aannemelijk mechanisme en zijn vermoedelijk artefacten van de kennisgraaf.
+- Voorspellingen voor haaraandoeningen (hypotrichosis, alopecia) en overige indicaties missen een aannemelijk mechanisme; de score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -48,10 +48,10 @@ Acetylcysteïne wordt van oudsher gebruikt als slijmoplosser en als tegengif bij
 |------|------|
 | Oorspronkelijke indicatie | Bronchitis, paracetamolvergiftiging, cystic fibrosis, bronchiëctasieën, amyloïdose (volgens de kennisgraaf; er is geen geregistreerde indicatietekst van de Nederlandse vergunning beschikbaar) |
 | Voorspelde nieuwe indicatie | Trombotische aandoening (thrombotic disease) |
-| TxGNN-voorspellingsscore | 99,96% |
+| TxGNN-voorspellingsscore | 0,9996 |
 | Evidentieniveau | L1 (zie toelichting hieronder) |
-| Status op de Nederlandse markt | Alleen doorgehaald (vergunning ingetrokken) |
-| Aantal vergunningen | 1 |
+| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 *Toelichting evidentieniveau:* De data-indeling kent L1 toe op basis van een voltooide fase 3-studie (NCT03252925) en een aanvullende fase 2/3-studie. Strikt volgens de criteria (≥2 voltooide fase 3-RCT's) is L1 gunstig: de voltooide fase 3-studie heeft geen gepubliceerde resultaten in de data, en de tweede fase 2/3-studie is nog niet afgerond en éénarmig. Het niveau moet daarom voorzichtig worden gelezen.
@@ -105,7 +105,7 @@ De evidentie is geconcentreerd in trombotische microangiopathie en immuun-trombo
 |---------|------|------|-----------|
 | RVG 119693 | Trekpleister Hoesttabletten Acetylcysteïne Bruis 600 mg, bruistabletten | Niet vermeld | Niet vermeld |
 
-Deze enige vergunning is doorgehaald. Er is momenteel geen geldige vergunning (CBG-MEB) voor een eenmalig of combinatiepreparaat in de verzamelde data.
+Deze enige vergunning is geldig. Er is momenteel 1 geldige vergunning (CBG-MEB) van 1 voor een eenmalig of combinatiepreparaat in de verzamelde data.
 
 ---
 

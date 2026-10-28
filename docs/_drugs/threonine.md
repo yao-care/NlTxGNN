@@ -48,10 +48,10 @@ Threonine is een essentieel aminozuur dat in Nederland voorkomt als bestanddeel 
 |------|------|
 | Oorspronkelijke indicatie | Niet vastgelegd in de beschikbare gegevens |
 | Voorspelde nieuwe indicatie | Gastroparese |
-| TxGNN-voorspellingsscore | 99,32% |
+| TxGNN-voorspellingsscore | 0.9932 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal handelsvergunningen | 2 (beide ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal handelsvergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -60,7 +60,7 @@ Threonine is een essentieel aminozuur dat in Nederland voorkomt als bestanddeel 
 
 Op dit moment zijn er geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Threonine is een essentieel aminozuur en maakt deel uit van parenterale aminozuuroplossingen. Een oorspronkelijke indicatie is in de beschikbare gegevens niet vastgelegd.
 
-Een mogelijk, maar niet geverifieerd verband is de rol van threonine als bouwsteen van mucine, dat belangrijk is voor het maagdarmslijmvlies, en de mogelijke betekenis voor de functie van het maagdarmkanaal. Deze hypothese is speculatief. De hoge voorspellingsscore (0,993) is een computationele voorspelling op basis van een kennisgraaf en wordt niet gestaafd door klinische of literatuurgegevens. Voor gastroparese is voor threonine geen mechanisme beschreven.
+Een mogelijk, maar niet geverifieerd verband is de rol van threonine als bouwsteen van mucine, dat belangrijk is voor het maagdarmslijmvlies, en de mogelijke betekenis voor de functie van het maagdarmkanaal. Deze hypothese is speculatief. De hoge voorspellingsscore (0,9932) is een computationele voorspelling van het TxGNN-model (deep learning) en wordt niet gestaafd door klinische of literatuurgegevens. Voor gastroparese is voor threonine geen mechanisme beschreven.
 
 ---
 
@@ -82,8 +82,8 @@ Beide onderstaande vergunningen zijn ingetrokken. Informatie over de toedienings
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 115556 | Nutriflex Lipid special zonder elektrolyten, 56 g/l + 144 g/l, emulsie voor infusie | Ingetrokken |
-| RVG 110858 | Aminoplasmal Paed 100 mg/ml, oplossing voor infusie | Ingetrokken |
+| RVG 115556 | Nutriflex Lipid special zonder elektrolyten, 56 g/l + 144 g/l, emulsie voor infusie | Geldig |
+| RVG 110858 | Aminoplasmal Paed 100 mg/ml, oplossing voor infusie | Geldig |
 
 ---
 
@@ -101,7 +101,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op een computationele score (bewijsniveau L5) zonder klinische studies of literatuur. Daarnaast zijn alle Nederlandse vergunningen ingetrokken en ontbreken gegevens over werkingsmechanisme, oorspronkelijke indicatie en waarschuwingen/contra-indicaties uit de CBG-MEB-bijsluiter. Verdere veiligheidsscreening is daarom nog niet mogelijk.
+De voorspelling berust uitsluitend op een computationele score van het TxGNN-model (deep learning), die ggggelijkenissen tussen verwante aandoeningen kan weerspiegelen die het model heeft geleerd, maar geen biologisch bewijs is (bewijsniveau L5), zonder klinische studies of literatuur. Daarnaast zijn er 2 geldige vergunningen van 2 en ontbreken gegevens over werkingsmechanisme, oorspronkelijke indicatie en waarschuwingen/contra-indicaties uit de CBG-MEB-bijsluiter. Verdere veiligheidsscreening is daarom nog niet mogelijk.
 
 **Om verder te gaan is het volgende nodig:**
 - De bijsluiter-/SmPC-tekst van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties)

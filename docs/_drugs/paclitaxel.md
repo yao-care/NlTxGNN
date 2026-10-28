@@ -4,17 +4,17 @@ title: Paclitaxel
 parent: Alleen modelvoorspelling (L5)
 nav_order: 263
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Paclitaxel: voorspelde nieuwe indicatie Borstkanker bij vrouwen (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Ovariumkanker (de vergunningsgegevens bevatten geen indicatiete…"
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Paclitaxel: Van ovariumkanker naar borstkanker bij vrouwen (female breast carcinoma)
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ## Samenvatting in één oogopslag
 
-Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengestelde gegevens staat het vooral als middel bij ovariumkanker. Het TxGNN-model voorspelt effectiviteit bij **borstkanker bij vrouwen**. Dit wordt ondersteund door **44 geregistreerde klinische studies** (waaronder 7 afgeronde fase 3-studies) en **20 publicaties**. Let op: paclitaxel wordt bij borstkanker al breed gebruikt. Het gaat hier dus om een indicatie dicht bij het bestaande gebruik en niet om echte herpositionering.
+Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengestelde gegevens staat het vooral als middel bij ovariumkanker. Dit wordt ondersteund door **44 geregistreerde klinische studies** (waaronder 7 afgeronde fase 3-studies) en **20 publicaties**. Let op: paclitaxel wordt bij borstkanker al breed gebruikt. Het gaat hier dus om een indicatie dicht bij het bestaande gebruik en niet om echte herpositionering.
 
 ---
 
@@ -46,12 +46,12 @@ Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengeste
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Ovariumkanker (de vergunningsgegevens bevatten geen indicatietekst; deze indicatie komt uit de kennisgraaf van het model) |
-| Voorspelde nieuwe indicatie | Borstkanker bij vrouwen (female breast carcinoma) |
-| TxGNN-voorspellingsscore | 99,995% |
-| Bewijsniveau | L1 (zie toelichting hieronder) |
-| Marktstatus in Nederland | Alleen doorgehaalde (ingetrokken) vergunning |
-| Aantal vergunningen | 1 (doorgehaald) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Parameningeal embryonal rhabdomyosarcoma |
+| TxGNN-voorspellingsscore | 0.9973 |
+| Bewijsniveau | L5 (zie toelichting hieronder) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden (Proceed with Guardrails) |
 
 **Toelichting bewijsniveau:** de gegevens bevatten 7 afgeronde gerandomiseerde fase 3-studies waarin paclitaxel onderdeel is van het regime. Volgens de beoordelingsregels (≥2 afgeronde fase 3-RCT's) is dat L1. De eerder berekende classificatie was L2, met de opmerking dat er geen fase 3-studie zou zijn. Dat komt niet overeen met de studielijst. In veel van deze studies is paclitaxel het basisregime en niet de onderzochte variabele, dus L1 moet voorzichtig worden gelezen.
@@ -104,9 +104,9 @@ Er zijn 44 studies gevonden. Hieronder staan de 10 meest relevante: gerandomisee
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vermeld in de gegevens; vergunning doorgehaald |
+| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vermeld in de gegevens; vergunning geldig |
 
-Er is geen geldige vergunning voor paclitaxel in de samengestelde CBG-MEB-gegevens. Of er andere paclitaxelproducten op de Nederlandse markt zijn (bijvoorbeeld via EMA-procedures), moet apart worden nagegaan.
+Of er andere paclitaxelproducten op de Nederlandse markt zijn (bijvoorbeeld via EMA-procedures), moet apart worden nagegaan.
 
 ---
 
@@ -144,7 +144,6 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter ontbreken in
 **Onderbouwing:**
 - Er zijn veel klinische studies, waaronder 7 afgeronde fase 3-studies waarin paclitaxel deel uitmaakt van het regime, en het mechanisme is niet afhankelijk van hormoonreceptoren.
 - Paclitaxel is bij borstkanker al een gevestigde behandeling, maar veel studies onderzoeken een combinatiepartner en niet paclitaxel zelf.
-- De veiligheidsinformatie uit de officiële bijsluiter ontbreekt, en er is geen geldige Nederlandse vergunning.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC en bijsluiter van het CBG-MEB, als basis voor de veiligheidsscreening.

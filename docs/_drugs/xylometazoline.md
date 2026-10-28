@@ -4,17 +4,17 @@ title: Xylometazoline
 parent: Matig bewijs (L3-L4)
 nav_order: 344
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Faryngitis en verkoudheid"
 monitor_inn: "xylometazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **2**
 
 </div>
 
-## Xylometazoline: Van verkoudheid en faryngitis naar neusholteaandoening
+## Xylometazoline: Neusholteaandoening (nasal cavity disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Xylometazoline is een neusdecongestivum dat oorspronkelijk wordt gebruikt bij **
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Faryngitis en verkoudheid (afkomstig uit de TxGNN-kennisgraaf; de Nederlandse registratieteksten bevatten geen indicatietekst) |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
-| TxGNN-voorspellingsscore | 99,91% |
+| TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | Alleen doorgehaalde registraties (geen geldige vergunning) |
-| Aantal vergunningen | 2 (beide doorgehaald) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -87,10 +87,10 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119827//23970 | Otrivin Xylometazoline HCl 1 mg/ml neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; vergunning doorgehaald |
-| RVG 119750//102338 | Otrivin Duo (xylometazolinehydrochloride & ipratropiumbromide, 0,5/0,6 mg/ml), neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; vergunning doorgehaald |
+| RVG 119827//23970 | Otrivin Xylometazoline HCl 1 mg/ml neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; vergunning geldig |
+| RVG 119750//102338 | Otrivin Duo (xylometazolinehydrochloride & ipratropiumbromide, 0,5/0,6 mg/ml), neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; vergunning geldig |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald; er is geen geldige vergunning in de gegevens aanwezig.
+Beide registraties bij het CBG-MEB zijn geldig; het middel is op de markt.
 
 ---
 
@@ -108,8 +108,7 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de bijsluiter
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelde indicatie (neusholteaandoening) overlapt sterk met het bestaande gebruik als neusdecongestivum. Het bewijs bestaat uit kleine procedurele en fysiologische studies zonder geregistreerde klinische trials, en er is geen geldige Nederlandse vergunning. Op dit moment is dit een onderzoeksvraag en geen aanbeveling.
-- De tweede voorspelling (acute laryngofaryngitis, score 99,89%) heeft geen enkel bewijs (niveau L5). Xylometazoline wordt intranasaal toegediend en heeft geen aangetoond direct effect op ontsteking van keel of strottenhoofd; hier is verder alleen screening zinvol.
+- De voorspelde indicatie (neusholteaandoening) overlapt sterk met het bestaande gebruik als neusdecongestivum. Op dit moment is dit een onderzoeksvraag en geen aanbeveling.
 
 **Om verder te gaan is nodig:**
 - Het CBG-MEB-productinformatieblad (SmPC en bijsluiter) met waarschuwingen, contra-indicaties en goedgekeurde indicatie

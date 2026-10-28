@@ -6,9 +6,9 @@ nav_order: 234
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Midodrine: voorspelde nieuwe indicatie Hypotensieve aandoening (hypotensive disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Orthostatische hypotensie, POTS, multipele systeematrofie"
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
+description: "Midodrine: voorspelde nieuwe indicatie Variably protease-sensitive prionopathy (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Midodrine
@@ -33,7 +33,7 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Midodrine: Van orthostatische hypotensie naar hypotensieve aandoening
+## Midodrine: Variably protease-sensitive prionopathy
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -46,12 +46,12 @@ Midodrine is een perifere alfa-1-adrenerge agonist die oorspronkelijk wordt gebr
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Orthostatische hypotensie, POTS, multipele systeematrofie (volgens de kennisgraaf; geen geregistreerde indicatietekst beschikbaar) |
-| Voorspelde nieuwe indicatie | Hypotensieve aandoening (hypotensive disorder) |
-| TxGNN-voorspellingsscore | 99,90% |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Variably protease-sensitive prionopathy |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Evidentieniveau | L2 |
-| Marktstatus in Nederland | Alleen ingetrokken registraties |
-| Aantal vergunningen | 1 (ingetrokken) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -97,7 +97,7 @@ Dit mechanisme sluit direct aan bij hypotensieve aandoeningen. De oorspronkelijk
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118685//16514 | Gutron 5 mg, tabletten | Niet vermeld | Niet vermeld (registratie ingetrokken) |
+| RVG 118685//16514 | Gutron 5 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
 ---
 

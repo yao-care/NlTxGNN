@@ -31,6 +31,11 @@ description: "Alle validatierapporten van geneesmiddelen en de statistieken per 
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+Deze lijst is gebaseerd op de registratiegegevens van [CBG-MEB](https://www.cbg-meb.nl/) (Nederland).
+
+<!-- local-home:end -->
+
 ## Verdeling per bewijsniveau
 
 | Bewijsniveau | Geneesmiddelen | Omschrijving |

@@ -15,6 +15,30 @@ permalink: /
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## Nederland: wat deze site omvat
+
+Deze site publiceert rapporten over **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen uit de registratiegegevens van [CBG-MEB](https://www.cbg-meb.nl/) (Nederland).
+
+Rapporten per bewijsniveau: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Geneesmiddelen met het hoogste bewijsniveau op deze site
+
+| Geneesmiddel | Bewijsniveau |
+|---|---|
+| [Bendamustine](/drugs/bendamustine/) | L1 |
+| [Bupropion](/drugs/bupropion/) | L1 |
+| [Lormetazepam](/drugs/lormetazepam/) | L1 |
+| [Aripiprazole](/drugs/aripiprazole/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Ribavirin](/drugs/ribavirin/) | L1 |
+| [Progesterone](/drugs/progesterone/) | L1 |
+| [Tizanidine](/drugs/tizanidine/) | L1 |
+| [Letrozole](/drugs/letrozole/) | L1 |
+| [Terbutaline](/drugs/terbutaline/) | L1 |
+
+<!-- local-home:end -->
+
 ## Drug Search
 
 Enter a **drug name** or **disease name** to find repurposing predictions. Supports generic names, brand names, and disease keywords.

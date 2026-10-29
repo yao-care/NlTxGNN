@@ -1,16 +1,94 @@
 ---
-layout: id_redirect
-permalink: /news/bicalutamide/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Nieuws over Bicalutamide"
+parent: Gezondheidsnieuws
 nav_exclude: true
+description: "Gezondheidsnieuws over Bicalutamide. 10 voorspelde indicaties."
+permalink: /news/bicalutamide/
+last_modified_at: 2026-10-29
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/bicalutamide/">
-<meta http-equiv="refresh" content="0; url=/drugs/bicalutamide/">
-<script>location="/drugs/bicalutamide/"</script>
-<a href="/drugs/bicalutamide/">/drugs/bicalutamide/</a>
-</html>
+
+# Nieuws over Bicalutamide
+
+[← Terug naar nieuwsoverzicht]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
+<strong>Bicalutamide</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+</p>
+
+<div class="key-takeaway">
+Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met het laatste gezondheidsnieuws. Oranje gemarkeerde indicaties zijn recent in het nieuws geweest.
+</div>
+
+<div class="drug-info-card">
+<strong>Geneesmiddelinformatie</strong>
+<ul>
+<li><strong>Bewijsniveau</strong>: L4</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Hypertrichose (hypertrichosis (disease))</li>
+<li>Malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal component)</li>
+<li>Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature</li>
+<li>isolated genetic hair shaft abnormality</li>
+<li>leprosy</li>
+<li>multiple endocrine neoplasia</li>
+<li>Pulmonale hypertensie (pulmonary hypertension)</li>
+<li>Mammacarcinoom (female breast carcinoma)</li>
+<li>Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis)</li>
+</ul></li>
+</ul>
+<p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
+</div>
+
+## Gerelateerd nieuws (1)
+
+### [AI kan mogelijk overlevingskans kankerpatiënt voorspellen op basis van een foto](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZxVUNZTi02TmgxSVdjOEdNaVRSREVGRTRNcGtKOXVxemhyX2VzaS1HTnhFdEoyZ0lkZndYYVNHdTRGRXhEaDhGWFYzYmFMY3VITlB4a0xFcWFtNnl3UzZmVDRoLXhiaF84aVVLUjRSYzc3X0t3NF9OTzluZnQyV2x5VlM5RlBLM2RfbjJrMVprNWhTSEFkbllhSlZNeTNwWnZ0ak1XZlZ3SklNNUFtU2xIWklweTdkckFDSi0zVWhJZnoy?oc=5)
+
+2026-10-29 <span class="news-indication-tag">kanker</span>
+
+Bron: [NU](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZxVUNZTi02TmgxSVdjOEdNaVRSREVGRTRNcGtKOXVxemhyX2VzaS1HTnhFdEoyZ0lkZndYYVNHdTRGRXhEaDhGWFYzYmFMY3VITlB4a0xFcWFtNnl3UzZmVDRoLXhiaF84aVVLUjRSYzc3X0t3NF9OTzluZnQyV2x5VlM5RlBLM2RfbjJrMVprNWhTSEFkbllhSlZNeTNwWnZ0ak1XZlZ3SklNNUFtU2xIWklweTdkckFDSi0zVWhJZnoy?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: Het nieuws op deze pagina wordt automatisch verzameld en dient uitsluitend als onderzoeksreferentie; het vormt geen medisch advies.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

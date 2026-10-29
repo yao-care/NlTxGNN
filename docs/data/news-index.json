@@ -1,32 +1,152 @@
 {
-  "generated": "2026-10-29T12:13:59.627264+00:00",
+  "generated": "2026-10-29T22:23:22.774712+00:00",
   "count": 1,
   "news": [
     {
-      "id": "81af2e0ca36b",
-      "title": "Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland",
-      "published": "2026-10-28T07:26:43+00:00",
+      "id": "80ca764ee2df",
+      "title": "AI kan mogelijk overlevingskans kankerpatiënt voorspellen op basis van een foto",
+      "published": "2026-10-29T14:49:31+00:00",
       "sources": [
         {
-          "name": "Omroep Gelderland",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZxVUNZTi02TmgxSVdjOEdNaVRSREVGRTRNcGtKOXVxemhyX2VzaS1HTnhFdEoyZ0lkZndYYVNHdTRGRXhEaDhGWFYzYmFMY3VITlB4a0xFcWFtNnl3UzZmVDRoLXhiaF84aVVLUjRSYzc3X0t3NF9OTzluZnQyV2x5VlM5RlBLM2RfbjJrMVprNWhTSEFkbllhSlZNeTNwWnZ0ak1XZlZ3SklNNUFtU2xIWklweTdkckFDSi0zVWhJZnoy?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "menopause",
-          "keyword": "overgang",
+          "name": "generic_cancer",
+          "keyword": "kanker",
           "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
             },
             {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
               "slug": "calcipotriol",
               "name": "Calcipotriol",
               "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
             }
           ]
         }

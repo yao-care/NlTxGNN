@@ -36,11 +36,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 
 ## Gerelateerd nieuws (1)
 
-### [Nieuwe aanpak bij risico op eierstokkanker: niet op je 35ste al in de overgang - Omroep Gelderland](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5)
+### [AI kan mogelijk overlevingskans kankerpatiënt voorspellen op basis van een foto](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZxVUNZTi02TmgxSVdjOEdNaVRSREVGRTRNcGtKOXVxemhyX2VzaS1HTnhFdEoyZ0lkZndYYVNHdTRGRXhEaDhGWFYzYmFMY3VITlB4a0xFcWFtNnl3UzZmVDRoLXhiaF84aVVLUjRSYzc3X0t3NF9OTzluZnQyV2x5VlM5RlBLM2RfbjJrMVprNWhTSEFkbllhSlZNeTNwWnZ0ak1XZlZ3SklNNUFtU2xIWklweTdkckFDSi0zVWhJZnoy?oc=5)
 
-2026-10-28 <span class="news-indication-tag">overgang</span>
+2026-10-29 <span class="news-indication-tag">kanker</span>
 
-Bron: [Omroep Gelderland](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG5xWDZiVVV3Sk0tS0ZhOVFGVzFKSHpPNEtKMGl5bmFmY2p2MjFFYm9KSmZlRTZjT3VIbC16ZTNqX3RxcEVXUXNxaWRvOVJFNi1IQlFZbXctWHBWNmttcXhCY3NzMFV2ZVZyeFRHOTF3Z19CdHlkb2xuWFZGWFUyRkF2Rk9tMGJZVVpBeEVUWEJNUTV4a2JGWHZ0RVRoamtIQWRIN1BUUVV6V1k2OE45dA?oc=5)
+Bron: [NU](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZxVUNZTi02TmgxSVdjOEdNaVRSREVGRTRNcGtKOXVxemhyX2VzaS1HTnhFdEoyZ0lkZndYYVNHdTRGRXhEaDhGWFYzYmFMY3VITlB4a0xFcWFtNnl3UzZmVDRoLXhiaF84aVVLUjRSYzc3X0t3NF9OTzluZnQyV2x5VlM5RlBLM2RfbjJrMVprNWhTSEFkbllhSlZNeTNwWnZ0ak1XZlZ3SklNNUFtU2xIWklweTdkckFDSi0zVWhJZnoy?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Rabeprazole
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 286
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Rabeprazole: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -63,8 +63,6 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle ka
 ### Relaties vastgelegd in de bronnen (geen goedkeuring gevonden)
 | Indicatie |
 |------|
-| Smoldering systemische mastocytose (Smouldering systemic mastocytosis) |
-| Lymfadenopathische mastocytose met eosinofilie (lymphoadenopathic mastocytosis with eosinophilia) |
 
 ## Informatie over de Nederlandse markt
 

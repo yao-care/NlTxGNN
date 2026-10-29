@@ -1,13 +1,39 @@
 {
-  "last_updated": "2026-10-29T04:13:51.220057+00:00",
-  "total_count": 4,
+  "last_updated": "2026-10-29T12:13:59.608589+00:00",
+  "total_count": 5,
   "matched_count": 1,
   "news": [
+    {
+      "id": "a6ab1901134b",
+      "title": "Amerikaanse gezondheidsdienst: jaarlijks 50.000 doden in VS door resistentie",
+      "published": "2026-10-28T20:43:23+00:00",
+      "summary": "Amerikaanse gezondheidsdienst: jaarlijks 50.000 doden in VS door resistentie&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2JqVTREbm55YUZtd29yZEJJXzNuSkVrQWpHZzlka01UWWJfalFYWXNOMDUyUmEwZXl5RDc5bHhkaUJJNHR5d0VoS1NHSTR6bkZodUc5RGF3X1JpUmNkV25UNTZyNEFZdlE5WDBEVHdLUXhlNm1sbXVKWnpkd0hoYU5iRFI2SzNGVEZHM2dzS0tPbHUzZnp4MngyNG1tWTU1M3JpUGJIWDZGQk5ncFc3VHhMcHNPNkpvOGEyb1BrQW1yT2ds?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8ba98ca4c5d4",
+      "title": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand",
+      "published": "2026-10-28T20:00:00+00:00",
+      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlMinder dan helft van kinderen in sommige Haagse wijken gevaccineerd: 'Zorgwekkend'&nbsp;&nbsp;Omroep WestMinder vaccinaties, meer kans op kinderziekten&nbsp;&nbsp;Gemeente Den HaagVaccinatiegraad diverse wijken in Den Haag nog altijd ‘zorgwekkend laag’&nbsp;&nbsp;Nationale ZorggidsVaccinatiegraad onder Haagse kinderen zorgelijk laag&nbsp;&nbsp;Den Haag FM",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXlpS3RBWFVlUGcwaXVueEpDWERsRGpXU1diVURUU0JZd2VvX0lHdzhXU2dDeXlHWkFJNUo4TlpJVmxrZ1NVbktMT2RZTjBHVGNYeVJZMEhVWGNZVUdHNmRkTFkwd0pJTm1sRlpOMW9wUW5LQVRtRkJkWmxfNlBHdUpGVUQ4WnJ2U3NjNXdYVHAzMWlQYXVGX3Z6SjlUTjk4THlMLURYSmdFRER0VGsxdWVxVFlOSi11Uk5TSHdn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1be9efe6d13e",
       "title": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren",
       "published": "2026-10-28T18:05:49+00:00",
-      "summary": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagZorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
+      "summary": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nlZorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "EenVandaag",
@@ -51,24 +77,11 @@
       "id": "bac9e1db34d5",
       "title": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk - Noordhollands Dagblad",
       "published": "2026-10-28T05:00:00+00:00",
-      "summary": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk&nbsp;&nbsp;Noordhollands DagbladLange rijen voor de griepprik&nbsp;&nbsp;Maasduinencentraal‘Vorig jaar toch griep gekregen’: waarom de griepprik dan nog steeds zin kan hebben&nbsp;&nbsp;GezondnuWaarom krijgen sommige mensen toch griep, zelfs nadat ze gevaccineerd zijn?&nbsp;&nbsp;Vietnam.vnLevering griepvaccins deels vertraagd&nbsp;&nbsp;De Morgen",
       "sources": [
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVDBvT2Y3dUFaZHpPaVloeERrMXlCd000TzFjZldFekNnbko2SE00cmRraEJiX0RaOGtfVkx4OXpJRjYxSDY5SEhMNkRhZ3pLWW4wSEx4dlVqdVZtTk9lNzdtTDdmOWR0S0o2LU9wWGtSS1Z5ZVdWQTd2Y2tBVE84WkJocTRheFYzOGRuaUl4VWg2M25QSGF3N0s5R2Q4Uld5RTdycWRMM3Z2RWZLMUp2ZzdXa1VCR3FXdHluUVAtNFd6VkE2ZWVNYl90LW4tek9Zbl9fVVJ0dnluR05Dd3V2bTJYaWx6NFFSUGNER0x1cDVTenBNaU5HYnV3MXZNMFliSzBoZF9WUFVXVWhwckxVSTlEMFJ4TVY0TGJQdE5UcWNuNk42S3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "18c056ed4d8a",
-      "title": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’",
-      "published": "2026-10-22T12:03:00+00:00",
-      "summary": "Voor het eerst mens besmet met shamondavirus, Franse patiënt overleden: ‘Uitzonderlijk geval’&nbsp;&nbsp;AD.nlEerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden&nbsp;&nbsp;NOSShamonda-virus bij de mens: moeten we ons zorgen maken?&nbsp;&nbsp;Gezondheid.beMysterieus Shamonda-virus eist slachtoffer in Frankrijk: moeten we ons zorgen maken?&nbsp;&nbsp;De TelegraafShamondavirus: wat moet je als paardeneigenaar weten?&nbsp;&nbsp;Hoefslag",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVVaVW5NemlzTzBXQTJDekp2MjdnQ1FNbWdBWGNrX2l0TkFKaVVYc29LY2xCcG1hcEhScV9BRDdOY2JGdUFSRFJiZURFZTNRcWlBVXJPQkh1X25zc0R6OVVPVUsyanpUTHBLbDMxM0pIZ09oRFVsV29iSFdDeGx1QUlDZlZ1UGNwVGhqUTlCWVFobU13UXRZTTQxYlozSHBEWEQ5SmpGOFFmczRMem43bVYwb1ZKQ1BNaUs1Y2J0ekNCTnVmVTRR?oc=5"
         }
       ],
       "matched_keywords": []

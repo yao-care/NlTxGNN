@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-28T22:07:58.273900+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-29T04:13:51.137911+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "624c321d0a65",
-      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - Tubantia",
-      "published": "2026-10-28T08:16:18+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;TubantiaMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "1be9efe6d13e",
+      "title": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren - EenVandaag",
+      "published": "2026-10-28T18:05:49+00:00",
+      "summary": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagZorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "Tubantia",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2lxSTQxaVV0WUhtbl9CLTRDOUlrOVdOdkVtMHA1bDY4Y3BpWWR0UEtVR2g2aHM5QjQ4R0pROUxESy1CSTFHVVNtS01PUVIyZ3hzQWFQTWhjRkEybGlTcjQwUmo4S05uYjdwSkEwSmhNdUJrLXFyRGZHa19VT0dOZkE2RFg1Q1hJSUxvQXdqTFhBR1RSUDB1WnI3VTFTTktTZE1LOHNvSTFXZk9oc0xtT3EzQjVRc3ZzZVlCV1Y2Q0lxN2djNEJr?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUG1NZ1gycF9OZmROODdNN0JINEZlQVZiX0Jmel9sa2lOaVE3bkNlNVpHVTlDNi1pSm1UeGt6cmNXclVxcjFibU9CTTVfcEt4QnBkWkQyNm1sRTJIMzBlRUhCcWdYZ3ZPX0g2QVNWcTR4OWtsTUcxY0c0aHlMRTZqc0V4Q0NvLWdGMEpIekdqSnd0alR0cVdpYnpnOWVfSmt2aGJuTFpiYWFVMWJ6VUlZ?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "b81be578e0bf",
-      "title": "„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie - Reformatorisch Dagblad",
-      "published": "2026-10-26T23:10:04+00:00",
-      "summary": "„Kijk het nog even aan”, krijgen vrouwen bij de huisarts nog te vaak te horen, vindt Bianca de Bie&nbsp;&nbsp;Reformatorisch Dagblad‘Het is alsof de baarmoeder in wetenschappelijk onderzoek compleet is vergeten.’ Vrouwen met gezondheidsklachten voelen zich vaak niet serieus genomen&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekWanneer je cyclus je leven beheerst | NHD Specials zaterdag 24 oktober&nbsp;&nbsp;Noordhollands DagbladVrouwenorganisaties bundelen krachten samen voor ",
-      "sources": [
-        {
-          "name": "Reformatorisch Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVdWWmVENEQyay02U2NLSFBpSHFSN1ZrTHJRY3lzODNiX1lIa3ZyS21PS0RKWWV1VDQyb0ZMb2dXRm01aWJqZTVVSmRmTWNWYjR0Z3hIRmkwWk1BRWxvR1gwRzdKR3l4MmxpekhGNnItc25KNkpuNU1HMzdPN1ZyYWYtSzJORzg5QzlxWVdad1hKdGxacm5xVGVDY1Mwa3BNdGhlMHlueHZ4TWhsd2o4TmNQYzNUV29LRkp4M2k1cw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bac9e1db34d5",
       "title": "Het griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk - Noordhollands Dagblad",
       "published": "2026-10-28T05:00:00+00:00",
@@ -60,42 +48,6 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVDBvT2Y3dUFaZHpPaVloeERrMXlCd000TzFjZldFekNnbko2SE00cmRraEJiX0RaOGtfVkx4OXpJRjYxSDY5SEhMNkRhZ3pLWW4wSEx4dlVqdVZtTk9lNzdtTDdmOWR0S0o2LU9wWGtSS1Z5ZVdWQTd2Y2tBVE84WkJocTRheFYzOGRuaUl4VWg2M25QSGF3N0s5R2Q4Uld5RTdycWRMM3Z2RWZLMUp2ZzdXa1VCR3FXdHluUVAtNFd6VkE2ZWVNYl90LW4tek9Zbl9fVVJ0dnluR05Dd3V2bTJYaWx6NFFSUGNER0x1cDVTenBNaU5HYnV3MXZNMFliSzBoZF9WUFVXVWhwckxVSTlEMFJ4TVY0TGJQdE5UcWNuNk42S3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9fb32eda717",
-      "title": "Onderzoekers vinden aanwijzingen voor een nieuw subtype van depressie: de biologische klok speelt een belangrijke rol - Scientias.nl",
-      "published": "2026-10-27T12:00:23+00:00",
-      "summary": "Onderzoekers vinden aanwijzingen voor een nieuw subtype van depressie: de biologische klok speelt een belangrijke rol&nbsp;&nbsp;Scientias.nlDepressie door ontregelde biologische klok reageert slecht op antidepressiva&nbsp;&nbsp;New Scientist",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmxBWkJZeEVTRGxkX1l3RmtDbVp4cXRUS2Y4RUllUjRyTzlvQjJnZFEwanBOWEl4SlFhVDREUjY2cFltSmVEelJOQm03cTdZZk51MXI1YTJzc1lEb2NwbWNQWjRSa0V1UGR1ejEyNnBwSnBOYXRPZG9mUjljNkpmVDFNczJsX0x2cDY4RG9OZVNmUHpsRmM5UmJFakpBU3d3TE0teS1JTnlYMGM2OExJUC1teGpEQ2F2ZXRTbU5obWpPQjl0N2x5SlhubHRpS2hueWhNdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8c09f88fef6",
-      "title": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél - Brabants Dagblad",
-      "published": "2026-10-26T07:08:34+00:00",
-      "summary": "Arts onderzoekt 3 jaar lang populaire supplementen en ontdekt dat de meeste weinig uithalen: deze 3 zaken werken wél&nbsp;&nbsp;Brabants Dagblad",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdHlyMzRBQlhXQ3BpUktKUnpWSTUtTWxwdTdvLXVlZkRZMnBNTENtX2tURVJjS0NUcHdidmxhVVFpeHRXWkVhWHNmdmpfTzI3TzB0bktKM1VDSWNpNFlFX0NKRkxwbC1Sa3hfLVBpMG1oc290QlQ2dkxoSHVGclpBa2JSd1Z0aGtxRU1EcndvM1dEQUM3ZWRpeTZjNXc3dUlCN3dOOWtadlJzWHJkd2kxT0Rab1VQU0UwVGZhODFwczVFZ3FOVmZwYWduVkE3SU9nRVlvbFlVYzJnTG9rdFZIWkNybDdYQ2x1Nnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0247c5e59057",
-      "title": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’ - Libelle",
-      "published": "2026-10-24T05:03:39+00:00",
-      "summary": "Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5"
         }
       ]
     }

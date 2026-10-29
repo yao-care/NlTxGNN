@@ -1,94 +1,16 @@
 ---
-layout: default
-title: "Nieuws over Fluorouracil"
-parent: Gezondheidsnieuws
-nav_exclude: true
-description: "Gezondheidsnieuws over Fluorouracil. 10 voorspelde indicaties."
+layout: id_redirect
 permalink: /news/fluorouracil/
-last_modified_at: 2026-10-28
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Nieuws over Fluorouracil
-
-[← Terug naar nieuwsoverzicht]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="Welk nieuws is er over Fluorouracil?">
-<strong>Fluorouracil</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
-</p>
-
-<div class="key-takeaway">
-Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met het laatste gezondheidsnieuws. Oranje gemarkeerde indicaties zijn recent in het nieuws geweest.
-</div>
-
-<div class="drug-info-card">
-<strong>Geneesmiddelinformatie</strong>
-<ul>
-<li><strong>Bewijsniveau</strong>: L5</li>
-<li><strong>Voorspelde indicaties (10)</strong>:<ul>
-<li>Botryoïd embryonaal rhabdomyosarcoom van de vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
-<li>Rabdomyosarcoom (rhabdomyosarcoma (disease))</li>
-<li>parameningeal embryonal rhabdomyosarcoma</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
-<li>prostate embryonal rhabdomyosarcoma</li>
-<li>extrahepatic bile duct rhabdomyosarcoma</li>
-<li>liver sarcoma</li>
-<li>sickle cell-hemoglobin d disease syndrome</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</li>
-<li>sickle cell-beta-thalassemia disease syndrome</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
-</div>
-
-## Gerelateerd nieuws (1)
-
-### [Eveline (61) en haar man (60) kregen allebei kanker: ‘Niet te bevatten dat de meiden ons allebei kunnen verliezen’](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
-
-2026-10-24 <span class="news-indication-tag">kanker</span>
-
-Bron: [Libelle](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlIySDB1QTVQdmxWZ2VoX25oS1JTYTRzZkpMVG9EdEpISU9hWmVSeWl3X2lSWFZ5bnNWNE1BVlpsejBfaC1SS09GRElENVVESnpRMVRwdWVzMVRSNUJJbExnd2w5TkNNdjVmMDhRTk9UMXRtUS13bzA4N3lxdDNGMW5LU3ZGeUpMaWtkRnJXaEdWbG9ULVhVNmMwWmtVNXF6TzNqZ1Z3?oc=5)
-
----
-
-
-<div class="disclaimer">
-<strong>Disclaimer</strong>: Het nieuws op deze pagina wordt automatisch verzameld en dient uitsluitend als onderzoeksreferentie; het vormt geen medisch advies.
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/fluorouracil/">
+<meta http-equiv="refresh" content="0; url=/drugs/fluorouracil/">
+<script>location="/drugs/fluorouracil/"</script>
+<a href="/drugs/fluorouracil/">/drugs/fluorouracil/</a>
+</html>

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 245
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
 monitor_inn: "nitroglycerin"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -48,7 +48,7 @@ Nitroglycerine is een stikstofmonoxide (NO)-donor die klassiek wordt gebruikt al
 | Voorspelde nieuwe indicatie | Pulmonale hypertensie |
 | TxGNN-voorspellingsscore | 0,9961 |
 | Bewijsniveau | L3 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 

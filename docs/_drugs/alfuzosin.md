@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alfuzosin: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie"
 monitor_inn: "alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -49,7 +49,7 @@ Alfuzosine is een alfa-1-adrenoreceptorantagonist die oorspronkelijk wordt gebru
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

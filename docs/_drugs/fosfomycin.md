@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fosfomycin: voorspelde nieuwe indicatie Ontstekingsziekte van de baarmoeder (uterine inflammatory disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -51,7 +51,7 @@ Fosfomycine is een antibioticum. Het TxGNN-model (deep learning) voorspelt dat h
 | TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (afwachten) |
 
 ---

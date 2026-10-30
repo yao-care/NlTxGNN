@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 194
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
@@ -51,7 +51,7 @@ Lamivudine is een nucleoside-reversetranscriptaseremmer (NRTI) die oorspronkelij
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L4 (alleen preklinisch/mechanistisch) |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---

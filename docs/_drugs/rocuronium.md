@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rocuronium: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (rocuronium wordt van…"
 monitor_inn: "rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -51,7 +51,7 @@ Rocuronium is een niet-depolariserend spierverslappend middel dat in de anesthes
 | TxGNN-voorspellingsscore | 0,9990 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

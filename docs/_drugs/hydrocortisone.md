@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 179
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,7 +50,7 @@ Hydrocortison is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij onder
 | Voorspelde nieuwe indicatie | Alopecia areata |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L1 volgens de formele indeling in de data; zie de kanttekening hieronder (inhoudelijk eerder L2–L3) |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
 | Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 

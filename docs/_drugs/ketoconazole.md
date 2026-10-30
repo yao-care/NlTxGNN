@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
 description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Ketoconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt bi
 | Voorspelde nieuwe indicatie | Acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9980 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 232
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,7 +52,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acne**, maar op dit
 | TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L3 (alleen review, kleine klinische studie en in-vitro-gegevens; geen RCT's) |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

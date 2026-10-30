@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Levodopa: voorspelde nieuwe indicatie Rasmussen-encefalitis (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Parkinson en verwante parkinsonsyndromen"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -51,7 +51,7 @@ Levodopa is een voorloper van dopamine en wordt van oudsher gebruikt bij de ziek
 | TxGNN-voorspellingsscore | 0,9906 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
-| Aantal registraties | 10 (geldig: 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ---

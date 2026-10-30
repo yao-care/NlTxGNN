@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 282
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,7 +50,7 @@ Propofol is een intraveneus anestheticum dat wordt gebruikt voor sedatie en alge
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0.9969 |
 | Bewijsniveau | L2 |
-| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 

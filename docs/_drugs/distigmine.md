@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "distigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly", "fetal akinesia deformation sequence", "congenital myasthenic syndrome with tubular aggregates", "myasthenia, congenital, refractory to acetylcholinesterase inhibitors"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Distigmine: voorspelde nieuwe indicatie Auto-immuunziekte van het perifere zenuwstelsel (autoimmune disease of peripheral nervous system) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in…"
 ---
 
@@ -48,7 +48,7 @@ Distigmine is een cholinesteraseremmer. Het TxGNN-model voorspelt dat het mogeli
 | Voorspelde nieuwe indicatie | Auto-immuunziekte van het perifere zenuwstelsel (autoimmune disease of peripheral nervous system) |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Afwachten (Hold) |
 

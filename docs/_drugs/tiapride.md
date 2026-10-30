@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 321
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "tiapride"
 predicted_indications: ["migraine disorder"]
 description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Tiapride is een selectieve dopamine D2/D3-receptorantagonist uit de klasse van d
 | TxGNN-voorspellingsscore | 0.9918 |
 | Bewijsniveau | L2 (zie toelichting in de conclusie) |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---

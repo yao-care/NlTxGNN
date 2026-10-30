@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 281
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,7 +50,7 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij en
 | Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L1 (volgens de scoring in de data; zie toelichting hieronder) |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 

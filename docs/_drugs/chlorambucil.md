@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "chlorambucil"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chlorambucil: voorspelde nieuwe indicatie Pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocy… (bewijsniveau L5). Oorspronkelijke i…"
 ---
 
@@ -48,7 +48,7 @@ Chlorambucil is een alkylerend cytostaticum (stikstofmosterdderivaat) dat wordt 
 | Voorspelde nieuwe indicatie | Pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
 | TxGNN-voorspellingsscore | 0,9972 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (aanhouden) |
 

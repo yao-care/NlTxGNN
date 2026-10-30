@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "chloramphenicol"
 predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chloramphenicol: voorspelde nieuwe indicatie conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,7 +48,7 @@ Chloramphenicol is een breedspectrum bacteriostatisch antibioticum. Het TxGNN-mo
 | Voorspelde nieuwe indicatie | conjunctivitis (conjunctivitis) |
 | TxGNN-voorspellingsscore | 0,9966 |
 | Bewijsniveau | L3 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 

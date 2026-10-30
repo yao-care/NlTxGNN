@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 315
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Terbutaline: voorspelde nieuwe indicatie Obstructieve longziekte (bewijsniveau L1). Oorspronkelijke indicatie: Astma"
 monitor_inn: "terbutaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
@@ -50,7 +50,7 @@ Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronke
 | Voorspelde nieuwe indicatie | Obstructieve longziekte |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Evidentieniveau | L1 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan onder voorwaarden) |
 

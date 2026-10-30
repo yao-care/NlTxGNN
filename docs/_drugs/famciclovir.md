@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Famciclovir: voorspelde nieuwe indicatie Postinfectieuze neuralgie (bewijsniveau L4). Oorspronkelijke indicatie: Herpes zoster (gordelroos)"
 monitor_inn: "Famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -51,7 +51,7 @@ Famciclovir is een antiviraal middel dat oorspronkelijk wordt gebruikt voor de b
 | TxGNN-voorspellingsscore | 0.9975 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal handelsvergunningen | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---

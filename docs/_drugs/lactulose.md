@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,7 +52,7 @@ Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk word
 | Voorspelde nieuwe indicatie | Acute urate nephropathy |
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (zie conclusie) |
 

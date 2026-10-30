@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Gemcitabine is een cytostaticum (nucleosideanaloog) dat oorspronkelijk wordt gek
 | Voorspelde nieuwe indicatie | Rectum mucinous adenocarcinoma |
 | TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 (zie toelichting hieronder) |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal handelsvergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 *Toelichting bewijsniveau:* Fase 3-studies zijn aanwezig (NCT00006459, NCT00093795 en NCT00408408 zijn afgerond). De data bevatten echter geen gepubliceerde resultaten of eindpunten per studie. Het niveau L1 is daarom gebaseerd op het aantal en de fase van de studies en moet worden bevestigd door de primaire publicaties te beoordelen.

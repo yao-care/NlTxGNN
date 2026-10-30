@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Sotalol is een bètablokker met klasse III-antiaritmische werking, oorspronkelij
 | Voorspelde nieuwe indicatie | Sick sinus syndrome 2, autosomal dominant |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L5 (indirect) |
-| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; nog niet verder in huidige vorm) |
 
 ---

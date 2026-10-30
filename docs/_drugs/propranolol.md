@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: voorspelde nieuwe indicatie Distale myopathie, type Tateyama (distal myopathy, Tateyama type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Propranolol is een niet-selectieve bètablokker, oorspronkelijk gebruikt voor on
 | Voorspelde nieuwe indicatie | Distale myopathie, type Tateyama (distal myopathy, Tateyama type) |
 | TxGNN-voorspellingsscore | 0.9940 |
 | Bewijsniveau | L5 |
-| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal handelsvergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---

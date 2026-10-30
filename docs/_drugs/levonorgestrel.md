@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 208
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Levonorgestrel is een progestageen dat vooral wordt gebruikt voor anticonceptie,
 | Voorspelde nieuwe indicatie | Acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

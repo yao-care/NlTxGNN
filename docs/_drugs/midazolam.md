@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 233
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "midazolam"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Midazolam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bi
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L3 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal registraties | 2 (geldig: 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---

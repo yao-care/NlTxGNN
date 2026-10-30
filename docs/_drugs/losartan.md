@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 215
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Losartan is een angiotensine-II-receptorblokker (AT1-blokker) die oorspronkelijk
 | TxGNN-voorspellingsscore | 0.9973 |
 | Bewijsniveau | L4 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal registraties | 3 (geldig: 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---

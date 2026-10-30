@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tramadol: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Artrose, artrose-gevoeligheid en artropathie"
 monitor_inn: "tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
@@ -50,7 +50,7 @@ Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **acromesomele dy
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal handelsvergunningen | 3 (geldig: 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,7 +48,7 @@ Claritromycine is een macrolide-antibioticum dat bij meerdere bacteriële infect
 | Voorspelde nieuwe indicatie | Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) |
 | TxGNN-voorspellingsscore | 0,9935 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
 | Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold (aanhouden) |
 

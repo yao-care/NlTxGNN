@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 224
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Methadone: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens over de Nederlandse vergunning"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -48,7 +48,7 @@ Methadon is een synthetische opioïde. Voor dit rapport is geen geregistreerde o
 | Voorspelde nieuwe indicatie | Tourette-syndroom |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L4 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruik
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal handelsvergunningen | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Levocarnitine"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
 description: "Levocarnitine: voorspelde nieuwe indicatie Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
@@ -51,7 +51,7 @@ Levocarnitine is een vorm van carnitine, een stof die het lichaam gebruikt voor 
 | TxGNN-voorspellingsscore | 0.9994 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal handelsvergunningen | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

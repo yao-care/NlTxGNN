@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tetrabenazine: voorspelde nieuwe indicatie Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Huntington (en aanverwante syndrom…"
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
@@ -50,7 +50,7 @@ Tetrabenazine is een geneesmiddel dat oorspronkelijk wordt gebruikt bij de ziekt
 | Voorspelde nieuwe indicatie | Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte |
 | TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 

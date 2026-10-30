@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 description: "Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Hyaluronidase is een enzym dat hyaluronzuur afbreekt en in de praktijk vooral wo
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 (diabetische retinopathie) |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold (zie toelichting) |
 
 **Opmerking over de keuze van de indicatie:** De hoogst scorende voorspelling (esotropie) berust uitsluitend op een bijwerking na lokale verdoving (strabismus als complicatie) en heeft geen therapeutische onderbouwing. Dit rapport richt zich daarom op diabetische retinopathie (rang 6), de enige voorspelling met substantieel klinisch bewijs. De overige voorspellingen zijn kort samengevat in de laatste sectie.

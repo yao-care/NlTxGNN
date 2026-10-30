@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amylmetacresol: voorspelde nieuwe indicatie Cauda-equinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Geen indicatietekst beschikbaar in de gegevens van het CBG-MEB (de be…"
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
@@ -51,7 +51,7 @@ Amylmetacresol is een lokaal werkend antisepticum dat wordt gebruikt in zuigtabl
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
-| Aantal registraties | 8 (geldig: 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---

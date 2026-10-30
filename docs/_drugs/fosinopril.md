@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "fosinopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,7 +50,7 @@ Fosinopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandeli
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 2 van 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
 | Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 

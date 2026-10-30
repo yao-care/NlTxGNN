@@ -5,7 +5,7 @@ layout: default
 title: Amitriptyline Hydrochloride
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 34
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 |------|--------|
 | Geneesmiddelnaam (INN) | Amitriptilline Hydrochloride |
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Marketingstatus | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 
 ## Disclaimer

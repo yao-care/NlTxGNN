@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis"
 monitor_inn: "ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
@@ -50,7 +50,7 @@ Ambroxol is een slijmoplossend middel (mucolyticum/secretolyticum) dat oorspronk
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 

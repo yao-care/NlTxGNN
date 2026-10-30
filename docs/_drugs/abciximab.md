@@ -5,7 +5,7 @@ layout: default
 title: Abciximab
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 12
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 | Drug (INN) | Abciximab |
 | DrugBank ID | [DB00054](https://go.drugbank.com/drugs/DB00054) |
 | Oorspronkelijke Indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aantal Autorisaties | 0 |
 

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 248
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis"
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
@@ -50,7 +50,7 @@ Nortriptyline is een tricyclisch antidepressivum, op basis van de samengestelde 
 | Voorspelde nieuwe indicatie | Aandachtstekortstoornis met hyperactiviteit (ADHD) |
 | TxGNN-voorspellingsscore | 0,9942 |
 | Bewijsniveau | L2 (voorzichtige inschatting: een gecontroleerde studie lijkt te bestaan, maar fase, omvang en resultaten zijn niet beoordeeld) |
-| Marktstatus NL | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold (aanvullend onderzoek nodig; zie conclusie) |
 

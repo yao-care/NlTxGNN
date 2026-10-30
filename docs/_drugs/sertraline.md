@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: voorspelde nieuwe indicatie Schizoid personality disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Sertraline is een selectieve serotonine-heropnameremmer (SSRI) die oorspronkelij
 | Voorspelde nieuwe indicatie | Schizoid personality disorder |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 (met voorbehoud, zie hieronder) |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 Opmerking: de bewijsklasse L1 is gebaseerd op het geheel van het bewijs voor paniekstoornis met of zonder agorafobie. In de gegevens is niet vastgesteld of de opgehaalde fase 3-studies agorafobie-specifieke uitkomsten hebben gemeten. Dit moet worden geverifieerd.

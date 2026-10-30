@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Povidone: voorspelde nieuwe indicatie Congenitale ichthyosiforme erytrodermie (bewijsniveau L5). Oorspronkelijke indicatie: Droog-oogsyndroom, xeroftalmie"
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
@@ -51,7 +51,7 @@ Povidon is een hydrofiel polymeer dat wordt gebruikt in oogdruppels, oorspronkel
 | TxGNN-voorspellingsscore | 0,9911 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal registraties | 1 (geldig: 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

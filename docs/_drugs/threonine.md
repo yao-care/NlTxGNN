@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Threonine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens"
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -51,7 +51,7 @@ Threonine is een essentieel aminozuur dat in Nederland voorkomt als bestanddeel 
 | TxGNN-voorspellingsscore | 0.9932 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal handelsvergunningen | 2 (geldig: 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---

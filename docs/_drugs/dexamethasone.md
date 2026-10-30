@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dexamethasone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,7 +48,7 @@ Dexamethason is een krachtig corticosteroïd dat de immuunreactie remt. Het TxGN
 | Voorspelde nieuwe indicatie | Alopecia areata (alopecia areata) |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Evidentieniveau | L2 |
-| Status op de Nederlandse markt | In de handel (geldige vergunningen: 4 van 4) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
 | Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen beslissing | Doorgaan met randvoorwaarden |
 

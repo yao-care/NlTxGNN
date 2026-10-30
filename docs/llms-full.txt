@@ -26,8 +26,8 @@ Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspe
 
 ## Voorbeelden van geneesmiddelrapporten
 
-- Amiodarone (L1): https://nltxgnn.yao.care/drugs/amiodarone/
-- Anastrozole (L1): https://nltxgnn.yao.care/drugs/anastrozole/
+- Amiodarone (L5): https://nltxgnn.yao.care/drugs/amiodarone/
+- Anastrozole (L5): https://nltxgnn.yao.care/drugs/anastrozole/
 - Aripiprazole (L1): https://nltxgnn.yao.care/drugs/aripiprazole/
 
 ## Citeren en beperkingen

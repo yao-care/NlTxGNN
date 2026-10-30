@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-30T12:04:02.323878+00:00",
+  "fetched_at": "2026-10-30T21:54:26.794655+00:00",
   "count": 8,
   "news": [
     {
-      "id": "f79390a6dca5",
-      "title": "Jongeren hebben nog altijd last van coronatijd. Waarom heeft die periode zo’n grote impact? - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-10-28T18:47:00+00:00",
-      "summary": "Jongeren hebben nog altijd last van coronatijd. Waarom heeft die periode zo’n grote impact?&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekJongeren hebben jaren na corona nog altijd last van mentale problemen&nbsp;&nbsp;NUWelzijn jongeren nog niet terug op niveau van voor de pandemie&nbsp;&nbsp;Hart van NederlandJongeren zijn Covid-19 nog steeds niet te boven&nbsp;&nbsp;TrouwWelzijn en sociale cohesie vormen basis voor weerbare samenleving in crisistijd&nbsp;&nbsp;Rijksinstituu",
+      "id": "a5d706d32963",
+      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
+      "published": "2026-10-28T08:16:18+00:00",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nl6 op de 10 verpleegkundigen slaan griepprik over: ‘Coronaperiode maakte mij kritischer'&nbsp;&nbsp;Nursing.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZHNZeVFfbTFFUzc0MEYtbFJEd3BJVm9XaGxKWTVtM0dRaDZra2xXbnRFSUJtdGx0eFR6MWRSSThzOEVPQmNVOVB1QlZvanlUYVhtcW9UcDA5bmZ2cURSdDhLVkFKLVNjdnYzV3FHNzdhNjlaMTBOaGxpYVNaVkFKV1FqM1RoSFR0UjNvWDJpUDN4ODVFeU1hMGFWbzA4cUg2T2tWWnA0Yy0wSWthbkJfNy1vSmR1RWtCaDlsNDEzOTQ1eU1wNkh3UE95dE5zV3ladHlManZqbTdNZnRTdHN4cVFiVFcxOVdOTlRwNEE4UQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
         }
       ]
     },
@@ -24,18 +24,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3VERFJEYTkwNVEtcUZtNXFmamd3bEMxVVE3VlM3X0NxaUMyNFR1Q0pmM1RxRXRNZXE4RG9yZzgxMkU3R2JSdDB6Z2RKSTNfUHNKSk5xdmF3UHYyZ25oclhkTHJ6aVBTUGtNblc1dVNWcGlad0I5SkRxeFVfVVZWV3JQNjJaRmpBZFNqY1NsVFJKb01EelNlRWVNTDFqNEdEbk83MTNpYUZfeFY1YTJZdHJfSU1OUjFhTDc2ajBUUzJ2TEMxR1hpQzljN01wZzZOODVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1be9efe6d13e",
-      "title": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren - EenVandaag",
-      "published": "2026-10-28T18:05:49+00:00",
-      "summary": "Griepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagZorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nl6 op de 10 verpleegkundigen slaan griepprik over: ‘Coronaperiode maakte mij kritischer'&nbsp;&nbsp;Nursing.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUG1NZ1gycF9OZmROODdNN0JINEZlQVZiX0Jmel9sa2lOaVE3bkNlNVpHVTlDNi1pSm1UeGt6cmNXclVxcjFibU9CTTVfcEt4QnBkWkQyNm1sRTJIMzBlRUhCcWdYZ3ZPX0g2QVNWcTR4OWtsTUcxY0c0aHlMRTZqc0V4Q0NvLWdGMEpIekdqSnd0alR0cVdpYnpnOWVfSmt2aGJuTFpiYWFVMWJ6VUlZ?oc=5"
         }
       ]
     },
@@ -55,7 +43,7 @@
       "id": "5970a8ca6d9d",
       "title": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’ - AD.nl",
       "published": "2026-10-29T20:00:00+00:00",
-      "summary": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’&nbsp;&nbsp;AD.nlHet griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk&nbsp;&nbsp;Noordhollands DagbladIn de rij voor de griepprik bij huisartsenpraktijken in Westwijk&nbsp;&nbsp;amstelveensnieuwsblad.nlLange rijen voor de griepprik&nbsp;&nbsp;MaasduinencentraalWaarom krijgen sommige mensen toch griep, zelfs nadat ze gevaccineerd zijn?&nbsp;&nbsp;V",
       "sources": [
         {
           "name": "AD.nl",
@@ -67,11 +55,23 @@
       "id": "8ba98ca4c5d4",
       "title": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand - AD.nl",
       "published": "2026-10-28T20:00:00+00:00",
-      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlMinder dan helft van kinderen in sommige Haagse wijken gevaccineerd: 'Zorgwekkend'&nbsp;&nbsp;Omroep WestMinder vaccinaties, meer kans op kinderziekten&nbsp;&nbsp;Gemeente Den HaagVaccinatiegraad onder Haagse kinderen zorgelijk laag&nbsp;&nbsp;Den Haag FM",
+      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlVaccinatiegraad onder Haagse kinderen zorgelijk laag&nbsp;&nbsp;Den Haag FM",
       "sources": [
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXlpS3RBWFVlUGcwaXVueEpDWERsRGpXU1diVURUU0JZd2VvX0lHdzhXU2dDeXlHWkFJNUo4TlpJVmxrZ1NVbktMT2RZTjBHVGNYeVJZMEhVWGNZVUdHNmRkTFkwd0pJTm1sRlpOMW9wUW5LQVRtRkJkWmxfNlBHdUpGVUQ4WnJ2U3NjNXdYVHAzMWlQYXVGX3Z6SjlUTjk4THlMLURYSmdFRER0VGsxdWVxVFlOSi11Uk5TSHdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37f133c2fa00",
+      "title": "Berggraaf: 80 procent van diabetes type 2 te voorkomen met gezonde leefstijl - Suriname Herald",
+      "published": "2026-10-30T09:10:12+00:00",
+      "summary": "Berggraaf: 80 procent van diabetes type 2 te voorkomen met gezonde leefstijl&nbsp;&nbsp;Suriname Herald",
+      "sources": [
+        {
+          "name": "Suriname Herald",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXdFMlpGMVFZV0hWYkpGZ0pxdjZVbWVkNnRzYzYyVldEQ0dNOTROQWdveEI0OC00b1diTERDclFkbTdZdGNmbkNYZ2NfT2pnaWdmRHRjRnMwUHlMaHhQYTVQb05tYmFIbjVLTXgzb2JpQWg1bERwNDBnNk8yenNFMGZxM1ZtSDFKV0tIclBla21VSEU0WHNGejB3aDhQMmEwMVlhYTYxTWVENGNXSklVaE5ZelY2QVhfY2JWa3hR?oc=5"
         }
       ]
     },
@@ -88,10 +88,10 @@
       ]
     },
     {
-      "id": "fa73fd31a961",
-      "title": "Sofies (53) hart faalde: 'Een donorhart was mijn redding' - Libelle",
-      "published": "2026-10-28T15:49:17+00:00",
-      "summary": "Sofies (53) hart faalde: 'Een donorhart was mijn redding'&nbsp;&nbsp;Libelle",
+      "id": "43032835079c",
+      "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’ - Libelle",
+      "published": "2026-10-30T21:19:33+00:00",
+      "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
       "sources": [
         {
           "name": "Libelle",

@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-31T03:55:24.749243+00:00",
-  "count": 8,
+  "fetched_at": "2026-10-31T11:38:28.333259+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "c82a646c4e34",
+      "title": "Dodental ebola opgelopen tot boven de 5000 - NOS",
+      "published": "2026-10-31T02:09:02+00:00",
+      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands DagbladBelgië stuurt mobiel laboratorium naar Congo om ebola-uitbraak te helpen bestrijden&nbsp;&nbsp;Business AM",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVHdVYzdBUW01UkVpVExvcWxfRkVzekNkWVkxekxMWjZ5X1pxc0xMOW9sSlhYS0lsSDhObjVLSmFvWERuVWticmZxdTdNZDRSRFlDd3dRSmMyQXIwc3k5YzhTck1MSkZQSVhVRE1jd05Ca3RDT19KbTNPYmJrdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
@@ -55,7 +67,7 @@
       "id": "8ba98ca4c5d4",
       "title": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand - AD.nl",
       "published": "2026-10-28T20:00:00+00:00",
-      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlVaccinatiegraad onder Haagse kinderen zorgelijk laag&nbsp;&nbsp;Den Haag FM",
+      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
@@ -67,7 +79,7 @@
       "id": "37f133c2fa00",
       "title": "Berggraaf: 80 procent van diabetes type 2 te voorkomen met gezonde leefstijl - Suriname Herald",
       "published": "2026-10-30T09:10:12+00:00",
-      "summary": "Berggraaf: 80 procent van diabetes type 2 te voorkomen met gezonde leefstijl&nbsp;&nbsp;Suriname Herald",
+      "summary": "Berggraaf: 80 procent van diabetes type 2 te voorkomen met gezonde leefstijl&nbsp;&nbsp;Suriname HeraldMeer dan 650 deelnemers bij diabetes bewustwordingsevenement&nbsp;&nbsp;Sun News SurinameBerggraaf: 80 procent van diabetes type 2-gevallen is te voorkomen&nbsp;&nbsp;Sun News Suriname",
       "sources": [
         {
           "name": "Suriname Herald",
@@ -88,14 +100,38 @@
       ]
     },
     {
+      "id": "07cb007c3209",
+      "title": "Is menstruatiebloed de sleutel naar een betere gezondheid voor vrouwen? Onderzoekers zijn optimistisch - Trouw",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Is menstruatiebloed de sleutel naar een betere gezondheid voor vrouwen? Onderzoekers zijn optimistisch&nbsp;&nbsp;Trouw",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS2t1WUR2MGMzOEJFSHRndjBVRU1WZVRKVTIwYzVBYjk3Vkw4dlV2YzFXQ1VkXzBkNG5zaG0tcFI5Q3pISFhBYURFblJfR3hJZ2gxdjlfNTNZNUEyYXp1eGZLQ3hScEREWG1lZXE4MHZ0VXZLU2k4TjZzV3pfRDNHb2puQlQtN1psX0NFREZZbnNsOXYzcUhCTXprM3hMUWxabHJHcHVhZHFocWIxRTJBTlI3dC1oY0dUNTJNdTI0SjJnVHFwUUF6MlZSbVJxckdRVHc3ZTBOSjlZUUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "43032835079c",
       "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’ - Libelle",
-      "published": "2026-10-31T00:26:16+00:00",
+      "published": "2026-10-31T09:28:53+00:00",
       "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
       "sources": [
         {
           "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a69037fdda30",
+      "title": "Doorbraak bij parkinson: behandeling via darmen - Gezondheid.be",
+      "published": "2026-10-28T23:01:59+00:00",
+      "summary": "Doorbraak bij parkinson: behandeling via darmen&nbsp;&nbsp;Gezondheid.be",
+      "sources": [
+        {
+          "name": "Gezondheid.be",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3l6TURXQkdGQXZ3Vi1XcS1SZE9iRUxyTm5SbzlNWEp2dnBPM2NYUXAtY2dOZURGOVpRUVlyMWQwMDFMUC1Ka21QMHY3OWE3S2VOUTdXY3lQWmdDRDdZWk1xWWwyQkh2ZUw3dS02bUpkZ1l3WFp0RHpDdnVCRFc0VnNMNHBJa0s4SjRUR3V1ZEg4ZW9yN0d0U2tabmM?oc=5"
         }
       ]
     }

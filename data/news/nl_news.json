@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-10-30T21:54:26.794655+00:00",
+  "fetched_at": "2026-10-31T03:55:24.749243+00:00",
   "count": 8,
   "news": [
     {
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
       "published": "2026-10-28T08:16:18+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nl6 op de 10 verpleegkundigen slaan griepprik over: ‘Coronaperiode maakte mij kritischer'&nbsp;&nbsp;Nursing.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nl6 op de 10 verpleegkundigen slaan griepprik over: ‘Coronaperiode maakte mij kritischer'&nbsp;&nbsp;Nursing.nlMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nlBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;TrouwPraat mee: Is het kwalijk als zorgpersoneel geen griepprik neemt?&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
           "name": "AD.nl",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "0feecdbe9337",
-      "title": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’ - De Gelderlander",
-      "published": "2026-10-29T21:00:00+00:00",
-      "summary": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’&nbsp;&nbsp;De Gelderlander",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPREZWMFF6NUlUTDBVRDZNWTJfMG9Na05tYUJaaWFBem92TFI3UkNrdFNDZVdHUWN3WmVIRnRVNEpRaVRwTmNlNTA4ZFdXcmdEUmU1Y3pGY0hld1ZqSVlfcFhZODFmZmpsWjd2TXpDbDQzbmRxdTk0VldhbHBQY2dFWmYzSFRfSGt6WGhtZHFXRVk1YTZFZlA2MjJnMU1ZMDREWU5FVmVlWlVwUEpaS3JzdzFuaWZHM2RkWjNJQWNfTjFUMVdxckFsaGhRYXRTLVlSSU5vX0R6YW9SZjE1TVlyWkU5Qk1rcmhFWklmLV9n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5970a8ca6d9d",
       "title": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’ - AD.nl",
       "published": "2026-10-29T20:00:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdE4zSkF2ZHdoaTZYdnljMVlySG05Q1JMd0tMc2xRNUhuV2VTOFhhcFdabjl6R2pXUUliS2hkS2NYeW9xWmJUMEwtclF4U0VvUE5DdkxlZEM5bFFabmxWRUUzM3h0eEVrQ2NPSHVLNnRaZktoZWdvN0ZxaXEtUEtTZ0JnNUJVd20wXzlkLVkwSGVrZXM3eHVHWXdxY3ZrRnI0SjRuMEhxdW4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0feecdbe9337",
+      "title": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’ - De Gelderlander",
+      "published": "2026-10-29T21:00:00+00:00",
+      "summary": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPREZWMFF6NUlUTDBVRDZNWTJfMG9Na05tYUJaaWFBem92TFI3UkNrdFNDZVdHUWN3WmVIRnRVNEpRaVRwTmNlNTA4ZFdXcmdEUmU1Y3pGY0hld1ZqSVlfcFhZODFmZmpsWjd2TXpDbDQzbmRxdTk0VldhbHBQY2dFWmYzSFRfSGt6WGhtZHFXRVk1YTZFZlA2MjJnMU1ZMDREWU5FVmVlWlVwUEpaS3JzdzFuaWZHM2RkWjNJQWNfTjFUMVdxckFsaGhRYXRTLVlSSU5vX0R6YW9SZjE1TVlyWkU5Qk1rcmhFWklmLV9n?oc=5"
         }
       ]
     },
@@ -90,7 +90,7 @@
     {
       "id": "43032835079c",
       "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’ - Libelle",
-      "published": "2026-10-30T21:19:33+00:00",
+      "published": "2026-10-31T00:26:16+00:00",
       "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
       "sources": [
         {

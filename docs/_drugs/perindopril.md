@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,7 +51,7 @@ Perindopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandel
 | TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: minstens 20) |
-| Aantal vergunningen | 20 (alle doorgehaald) |
+| Aantal vergunningen | minstens 20 |
 | Aanbevolen besluit | Hold |
 
 ---

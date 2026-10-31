@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -112,7 +112,6 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 
 **Onderbouwing:**
 - Er is geen enkele klinische studie of publicatie die moxifloxacine koppelt aan polyclonaal hyperviscositeitssyndroom, en er is geen plausibel mechanisme. Het bewijsniveau is L5 (alleen modelvoorspelling).
-- Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samengestelde gegevens.
 
 **Om verder te gaan, is het volgende nodig:**
 - Aanvullende gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor hyperviscositeit.

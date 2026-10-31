@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -82,7 +82,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | Tablet (volgens productnaam) | Niet vermeld; vergunning geldig |
 
-Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.
+Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.
 
 ---
 

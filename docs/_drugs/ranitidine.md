@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 288
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -58,7 +58,7 @@ Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikb
 
 Zweren ontstaan mede doordat zuur en pepsine de slijmvliesbescherming overstemmen, dus zuurremming is een logische behandelstrategie. De hoge modelscore weerspiegelt vooral dit bekende mechanisme en niet een nieuwe ontdekking.
 
-Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft. Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.
+Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.
 
 ## Klinisch studiebewijs
 

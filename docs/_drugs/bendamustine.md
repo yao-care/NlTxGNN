@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 51
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bendamustine: voorspelde nieuwe indicatie Mantelcellymfoom (bewijsniveau L1). Oorspronkelijke indicatie: Folliculair lymfoom"
 monitor_inn: "bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
@@ -106,7 +106,7 @@ De tabel toont een selectie van de meest relevante studies bij mantelcellymfoom 
 |---------|------|------|-----------|
 | RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing voor infusie | Poeder voor concentraat voor oplossing voor infusie | Niet beschikbaar (registratie geldig) |
 
-Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.
+Dit is relevant voor de beschikbaarheid in Nederland.
 
 ---
 

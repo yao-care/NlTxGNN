@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 201
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: voorspelde nieuwe indicatie Nipple carcinoma (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -60,7 +60,7 @@ Letrozol is een niet-steroïde aromataseremmer die de omzetting van androgenen i
 
 Letrozol is een nonsteroïdale aromataseremmer. Het blokkeert het enzym aromatase, dat in de laatste stap van de oestrogeensynthese androgenen omzet in oestrogenen. Zo daalt de oestrogeenafhankelijke celdeling in hormoonreceptor-positieve (HR+) borstkanker. Gegevens over het werkingsmechanisme uit DrugBank ontbreken in de samengestelde gegevens; bovenstaande beschrijving komt uit de literatuurgegevens (o.a. PMID 17912633).
 
-Fase 3-bewijs (MONALEESA-2, PALOMA-2, COMPLEEMENT-1) ondersteunt letrozol als endocriene basis van de behandeling, alleen of in combinatie met CDK4/6-remmers. Het is dus geen nieuw gebruik, maar een gevestigde, richtlijngesteunde toepassing. Dat de marktstatus "alleen doorgehaald" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact. De enige vergunning in de gegevens (RVG 114435) is doorgehaald, maar dit zegt niets over de beschikbaarheid van andere letrozolproducten in Nederland.
+Fase 3-bewijs (MONALEESA-2, PALOMA-2, COMPLEEMENT-1) ondersteunt letrozol als endocriene basis van de behandeling, alleen of in combinatie met CDK4/6-remmers. Het is dus geen nieuw gebruik, maar een gevestigde, richtlijngesteunde toepassing. De enige vergunning in de gegevens (RVG 114435) is doorgehaald, maar dit zegt niets over de beschikbaarheid van andere letrozolproducten in Nederland.
 
 De sterkte van het bewijs komt uit de studies, niet uit de score.
 

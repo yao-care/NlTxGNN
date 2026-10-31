@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -62,7 +62,7 @@ Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde d
 
 Pest wordt veroorzaakt door *Yersinia pestis*, een gramnegatieve bacterie. Het mechanisme van ofloxacine is dus biologisch plausibel. In vitro-studies tonen aan dat ofloxacine zeer actief is tegen *Y. pestis* (MIC90 < 0,03 µg/ml, PMID 8913481). Dierstudies bij muizen laten werkzaamheid zien bij experimentele pest.
 
-Belangrijke kanttekening: fluorochinolonen worden als klasse al gebruikt bij pest. Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering. Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergunning.
+Belangrijke kanttekening: fluorochinolonen worden als klasse al gebruikt bij pest. Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering.
 
 De overige voorspellingen met hoge scores (o.a. polyclonaal hyperviscositeitssyndroom, hyperamylasemie, congenitale analbuminemie, monoklonale gammopathie) hebben geen aannemelijk mechanisme en geen bruikbaar bewijs. Het enige gekoppelde artikel bij bloedgroepincompatibiliteit en monoklonale gammopathie betreft een niet-relevant microbiologisch onderwerp respectievelijk een casus van discitis; dit lijken toevallige associaties.
 
@@ -128,7 +128,7 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn in de v
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor septische pest bestaat uitsluitend in vitro- en dierexperimenteel bewijs (L4); er zijn geen klinische studies bij mensen. Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme. Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd bij pest.
+- Voor septische pest bestaat uitsluitend in vitro- en dierexperimenteel bewijs (L4); er zijn geen klinische studies bij mensen. Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme.
 
 **Om verder te gaan is het volgende nodig:**
 - Formele veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (blokkerende datalacune)

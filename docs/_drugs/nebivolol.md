@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -85,7 +85,6 @@ Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn 
 |---------|------|------|-----------|
 | RVG 111041 | Nebivolol Stada 5 mg tabletten (status: geldig) | Tablet | Niet beschikbaar in de gegevens |
 
-Alleen deze ene, inmiddels ingetrokken vergunning is bekend.
 
 ## Veiligheidsoverwegingen
 

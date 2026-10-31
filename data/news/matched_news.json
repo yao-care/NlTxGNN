@@ -1,26 +1,13 @@
 {
-  "last_updated": "2026-10-31T11:38:28.452933+00:00",
-  "total_count": 11,
+  "last_updated": "2026-10-31T16:45:46.638657+00:00",
+  "total_count": 8,
   "matched_count": 0,
   "news": [
-    {
-      "id": "43032835079c",
-      "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’",
-      "published": "2026-10-31T09:28:53+00:00",
-      "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "c82a646c4e34",
       "title": "Dodental ebola opgelopen tot boven de 5000",
       "published": "2026-10-31T02:09:02+00:00",
-      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands DagbladBelgië stuurt mobiel laboratorium naar Congo om ebola-uitbraak te helpen bestrijden&nbsp;&nbsp;Business AM",
+      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;Nederlands DagbladMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -56,14 +43,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0feecdbe9337",
-      "title": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’ - De Gelderlander",
-      "published": "2026-10-29T21:00:00+00:00",
-      "summary": "Zorgen bij maag-, darm- en leverartsen over lange wachttijden: ‘Twee jaar wachten met buikpijn is echt heel vervelend’&nbsp;&nbsp;De Gelderlander",
+      "id": "43032835079c",
+      "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’",
+      "published": "2026-10-30T07:00:00+00:00",
+      "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPREZWMFF6NUlUTDBVRDZNWTJfMG9Na05tYUJaaWFBem92TFI3UkNrdFNDZVdHUWN3WmVIRnRVNEpRaVRwTmNlNTA4ZFdXcmdEUmU1Y3pGY0hld1ZqSVlfcFhZODFmZmpsWjd2TXpDbDQzbmRxdTk0VldhbHBQY2dFWmYzSFRfSGt6WGhtZHFXRVk1YTZFZlA2MjJnMU1ZMDREWU5FVmVlWlVwUEpaS3JzdzFuaWZHM2RkWjNJQWNfTjFUMVdxckFsaGhRYXRTLVlSSU5vX0R6YW9SZjE1TVlyWkU5Qk1rcmhFWklmLV9n?oc=5"
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -77,19 +64,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3VERFJEYTkwNVEtcUZtNXFmamd3bEMxVVE3VlM3X0NxaUMyNFR1Q0pmM1RxRXRNZXE4RG9yZzgxMkU3R2JSdDB6Z2RKSTNfUHNKSk5xdmF3UHYyZ25oclhkTHJ6aVBTUGtNblc1dVNWcGlad0I5SkRxeFVfVVZWV3JQNjJaRmpBZFNqY1NsVFJKb01EelNlRWVNTDFqNEdEbk83MTNpYUZfeFY1YTJZdHJfSU1OUjFhTDc2ajBUUzJ2TEMxR1hpQzljN01wZzZOODVN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5970a8ca6d9d",
-      "title": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’",
-      "published": "2026-10-29T20:00:00+00:00",
-      "summary": "De griepprik: ‘Jaarlijks evenement waarvoor mensen in de rij staan’&nbsp;&nbsp;AD.nlHet griepseizoen laat niet op zich wachten, maar het vaccin dit jaar wél. Dit betekent het volgens huisartsen uit Heemskerk en Beverwijk&nbsp;&nbsp;Noordhollands DagbladIn de rij voor de griepprik bij huisartsenpraktijken in Westwijk&nbsp;&nbsp;amstelveensnieuwsblad.nlLange rijen voor de griepprik&nbsp;&nbsp;MaasduinencentraalWaarom krijgen sommige mensen toch griep, zelfs nadat ze gevaccineerd zijn?&nbsp;&nbsp;V",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdE4zSkF2ZHdoaTZYdnljMVlySG05Q1JMd0tMc2xRNUhuV2VTOFhhcFdabjl6R2pXUUliS2hkS2NYeW9xWmJUMEwtclF4U0VvUE5DdkxlZEM5bFFabmxWRUUzM3h0eEVrQ2NPSHVLNnRaZktoZWdvN0ZxaXEtUEtTZ0JnNUJVd20wXzlkLVkwSGVrZXM3eHVHWXdxY3ZrRnI0SjRuMEhxdW4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -116,19 +90,6 @@
         {
           "name": "Gezondheid.be",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3l6TURXQkdGQXZ3Vi1XcS1SZE9iRUxyTm5SbzlNWEp2dnBPM2NYUXAtY2dOZURGOVpRUVlyMWQwMDFMUC1Ka21QMHY3OWE3S2VOUTdXY3lQWmdDRDdZWk1xWWwyQkh2ZUw3dS02bUpkZ1l3WFp0RHpDdnVCRFc0VnNMNHBJa0s4SjRUR3V1ZEg4ZW9yN0d0U2tabmM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ba98ca4c5d4",
-      "title": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand",
-      "published": "2026-10-28T20:00:00+00:00",
-      "summary": "Aantal gevaccineerde peuters in Leidsche Rijn drastisch gedaald: dit is er aan de hand&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXlpS3RBWFVlUGcwaXVueEpDWERsRGpXU1diVURUU0JZd2VvX0lHdzhXU2dDeXlHWkFJNUo4TlpJVmxrZ1NVbktMT2RZTjBHVGNYeVJZMEhVWGNZVUdHNmRkTFkwd0pJTm1sRlpOMW9wUW5LQVRtRkJkWmxfNlBHdUpGVUQ4WnJ2U3NjNXdYVHAzMWlQYXVGX3Z6SjlUTjk4THlMLURYSmdFRER0VGsxdWVxVFlOSi11Uk5TSHdn?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,24 +1,36 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-01T04:10:17.024814+00:00",
+  "fetched_at": "2026-11-01T12:37:35.681642+00:00",
   "count": 7,
   "news": [
     {
-      "id": "c82a646c4e34",
-      "title": "Dodental ebola opgelopen tot boven de 5000 - NOS",
-      "published": "2026-10-31T02:09:02+00:00",
-      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;Nederlands DagbladMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
+      "id": "0e7f7a6f92b9",
+      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
+      "published": "2026-11-01T09:11:28+00:00",
+      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlHaal je grootste vezelboost uit de vuilnisbak&nbsp;&nbsp;Foodlog",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVHdVYzdBUW01UkVpVExvcWxfRkVzekNkWVkxekxMWjZ5X1pxc0xMOW9sSlhYS0lsSDhObjVLSmFvWERuVWticmZxdTdNZDRSRFlDd3dRSmMyQXIwc3k5YzhTck1MSkZQSVhVRE1jd05Ca3RDT19KbTNPYmJrdw?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89e1b34d3609",
+      "title": "Meer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-10-31T11:13:21+00:00",
+      "summary": "Meer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;Nederlands DagbladMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands DagbladBelgië stuurt mobiel laboratorium naar Congo om ebola-uitbraak te he",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUtvdzE2NTd4T0c4eDZISGtuUnZ1aTIySDgxNGVybU5fRDBxSzlBRWhMTkZORVRSY01lT0VtS0FvYkFFUzY5ZVo1bDZqZktVdHRVdC1reTBmcU9DdUpnMXJRNE9uZjh5cmt5MkxDNXFmZE91WHg0dzJkaXl6aXRSWnN6ZExHbm9ka1gyOU9nZVZ0UFFNLTBKY0NCa1hLZkZSNUZNSXlPUHVqZnl4UGxpZDRNRHlMam1Kcnp1aVc0TklqdWdGYUZDeGVVMjVOaG9sWloyNGhhYU0yUQ?oc=5"
         }
       ]
     },
     {
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
-      "published": "2026-10-27T18:00:00+00:00",
+      "published": "2026-10-28T08:16:18+00:00",
       "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagMeer dan helft zorgverleners wil geen griepprik&nbsp;&nbsp;bnr.nlBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de Dag",
       "sources": [
         {
@@ -36,18 +48,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3VERFJEYTkwNVEtcUZtNXFmamd3bEMxVVE3VlM3X0NxaUMyNFR1Q0pmM1RxRXRNZXE4RG9yZzgxMkU3R2JSdDB6Z2RKSTNfUHNKSk5xdmF3UHYyZ25oclhkTHJ6aVBTUGtNblc1dVNWcGlad0I5SkRxeFVfVVZWV3JQNjJaRmpBZFNqY1NsVFJKb01EelNlRWVNTDFqNEdEbk83MTNpYUZfeFY1YTJZdHJfSU1OUjFhTDc2ajBUUzJ2TEMxR1hpQzljN01wZzZOODVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3266c77aadac",
-      "title": "Is sneller buiten adem zijn een teken dat er iets mis is? Huisarts geeft antwoord - Libelle",
-      "published": "2026-10-29T05:04:39+00:00",
-      "summary": "Is sneller buiten adem zijn een teken dat er iets mis is? Huisarts geeft antwoord&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUtCRGM1S3FHalJtWnBDUHMzVmpUc2VHUlp1SDBGMjdlcm9iR05TVUFHb3Rwc3dBem5ISmNHOHdhekZBZC1QVGd3YnVkSE1HMXlBTkFTWEVKUzgyTjlmZ3lCZHoxenMtamh4bnd5SndqY19BOWlLU1lTZUpGSnRyWVAtVm5nbHVpeFoxRHpINXgzeWFHSnNmQg?oc=5"
         }
       ]
     },

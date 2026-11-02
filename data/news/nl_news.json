@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-02T04:13:40.466761+00:00",
-  "count": 6,
+  "fetched_at": "2026-11-02T14:41:08.210104+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "0e7f7a6f92b9",
+      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
+      "published": "2026-11-01T09:11:00+00:00",
+      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlOnderzoekers: eet van de kiwi ook de schil. Maar was hem wel goed&nbsp;&nbsp;Welingelichte KringenVolop vezels te vinden in schillen van watermeloen en kiwi en in paprika- en pompoenpitten&nbsp;&nbsp;Nationale ZorggidsHaal je grootste vezelboost uit de vuilnisbak&nbsp;&nbsp;Foodlog",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "c82a646c4e34",
       "title": "Dodental ebola opgelopen tot boven de 5000 - NOS",
       "published": "2026-10-31T02:09:02+00:00",
-      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;Nederlands DagbladMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
+      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;de VolkskrantMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "NOS",
@@ -19,7 +31,7 @@
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
       "published": "2026-10-28T08:16:18+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de DagJean-Marie Pfaff (72) en Carmen (70) krijgen griepvaccin in AZ Jan Palfijn: “Het beste wapen dat er bestaat tegen",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de DagV&amp;VN-poll: 40% van de zorgprofessionals haalt griepprik&nbsp;&nbsp;V&amp;VN",
       "sources": [
         {
           "name": "AD.nl",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "0e7f7a6f92b9",
-      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
-      "published": "2026-11-01T09:11:00+00:00",
-      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlHaal je grootste vezelboost uit de vuilnisbak&nbsp;&nbsp;Foodlog",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07cb007c3209",
       "title": "Is menstruatiebloed de sleutel naar een betere gezondheid voor vrouwen? Onderzoekers zijn optimistisch - Trouw",
       "published": "2026-10-31T17:43:00+00:00",
@@ -60,18 +60,6 @@
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS2t1WUR2MGMzOEJFSHRndjBVRU1WZVRKVTIwYzVBYjk3Vkw4dlV2YzFXQ1VkXzBkNG5zaG0tcFI5Q3pISFhBYURFblJfR3hJZ2gxdjlfNTNZNUEyYXp1eGZLQ3hScEREWG1lZXE4MHZ0VXZLU2k4TjZzV3pfRDNHb2puQlQtN1psX0NFREZZbnNsOXYzcUhCTXprM3hMUWxabHJHcHVhZHFocWIxRTJBTlI3dC1oY0dUNTJNdTI0SjJnVHFwUUF6MlZSbVJxckdRVHc3ZTBOSjlZUUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43032835079c",
-      "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’ - Libelle",
-      "published": "2026-10-30T07:00:00+00:00",
-      "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
         }
       ]
     }

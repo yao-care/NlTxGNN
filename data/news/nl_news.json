@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-01T21:38:55.639261+00:00",
-  "count": 5,
+  "fetched_at": "2026-11-02T04:13:40.466761+00:00",
+  "count": 6,
   "news": [
     {
       "id": "c82a646c4e34",
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "0e7f7a6f92b9",
-      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
-      "published": "2026-11-01T09:11:00+00:00",
-      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlHaal je grootste vezelboost uit de vuilnisbak&nbsp;&nbsp;Foodlog",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
       "published": "2026-10-28T08:16:18+00:00",
@@ -36,6 +24,30 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27d8161addc6",
+      "title": "Simpele maar dure test bespaart Arianne een onnodige chemokuur, maar lang niet elke arts biedt hem aan - AD.nl",
+      "published": "2026-10-31T12:00:35+00:00",
+      "summary": "Simpele maar dure test bespaart Arianne een onnodige chemokuur, maar lang niet elke arts biedt hem aan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHF3VFpFTmJETWpCZ1poSHhPUlF4NXhRSVVSZFF0Vi1FLWpTT3VDR3N1T2wySXpwNjRwelZPeVpUMEZ2NVdfQlVDUExKMzdIQ3FsdWJUWW0xR2JFOGhYMFZYaF9hTG9zQ1JnMGV3QTZOdjZaQmVoREdEOXJEeVJXQ0VJVzhlY2lGQkRXQV9nQUIzdTBBNGZKdi1KbWZzbmFlakVQdlFXd0VDQkYyT3dSbnVPMm9JMWNGR0x4YzJMZk54eExRRUNMOGJfU3VnZmhaVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e7f7a6f92b9",
+      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
+      "published": "2026-11-01T09:11:00+00:00",
+      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlHaal je grootste vezelboost uit de vuilnisbak&nbsp;&nbsp;Foodlog",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
         }
       ]
     },

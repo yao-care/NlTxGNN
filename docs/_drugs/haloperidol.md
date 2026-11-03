@@ -4,17 +4,17 @@ title: Haloperidol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 176
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Haloperidol"
-predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 description: "Haloperidol: voorspelde nieuwe indicatie Congenital disorder of glycosylation with defective fucosylation (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -98,7 +98,6 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 - Een mechanistische hypothese voor een effect van D2-antagonisme op fucosylatieroutes, met preklinisch bewijs.
 - Aanvullende gegevens over het werkingsmechanisme.
 - Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties), met name over QT-verlenging, maligne neurolepticasyndroom en extrapiramidale bijwerkingen.
-- Een afzonderlijke beoordeling van de indicatie manische bipolaire stoornis, waarvoor het bewijs aanzienlijk sterker is.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

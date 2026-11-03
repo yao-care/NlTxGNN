@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 79
-evidence_level: L3
-indication_count: 9
+evidence_level: L5
+indication_count: 8
 monitor_inn: "chloramphenicol"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-30
-description: "Chloramphenicol: voorspelde nieuwe indicatie conjunctivitis (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-11-03
+description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse scleroderma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 </div>
 
-## Chloramphenicol: antibioticum dat de bacteriële eiwitsynthese remt → conjunctivitis (conjunctivitis)
+## Chloramphenicol: Diffuse scleroderma
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Chloramphenicol is een breedspectrum bacteriostatisch antibioticum. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **conjunctivitis (conjunctivitis)**. Hiervoor zijn in de samengestelde gegevens **geen geregistreerde klinische studies**, maar wel **19 publicaties** beschikbaar, voornamelijk overzichtsartikelen en enkele vergelijkende studies.
+Chloramphenicol is een breedspectrum bacteriostatisch antibioticum. Hiervoor zijn in de samengestelde gegevens **geen geregistreerde klinische studies**, maar wel **19 publicaties** beschikbaar, voornamelijk overzichtsartikelen en enkele vergelijkende studies.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | conjunctivitis (conjunctivitis) |
-| TxGNN-voorspellingsscore | 0,9966 |
-| Bewijsniveau | L3 |
+| Voorspelde nieuwe indicatie | Diffuse scleroderma |
+| TxGNN-voorspellingsscore | 0.9965 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
@@ -72,9 +72,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze vo
 | [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Review | Drug Safety | Discussie over een mogelijk verband tussen oculair chloramphenicol en aplastische anemie |
 | [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review | Eye (London) | Gebruik of misbruik van lokaal chloramphenicol |
 | [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Review | Clinical & Experimental Ophthalmology | Vrij verkrijgbaar chloramphenicol voor de ogen |
-| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Gerandomiseerde open vergelijking | Acta Ophthalmologica | Fusidinezuur was superieur aan chloramphenicol (93% vs 48% klinisch succes) en framycetine bij acute conjunctivitis in Tanzania |
 | [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Gerandomiseerde single-blind vergelijking | Acta Ophthalmologica | Klinisch succes 84% met fusidinezuur versus 81% met chloramphenicol; meer milde bijwerkingen met chloramphenicol |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Klinisch/laboratoriumonderzoek | The Journal of Hygiene | Chloramphenicol vertraagde en verminderde symptomen bij chlamydia-conjunctivitis bij zuigelingen, maar de oogswabs bleven in 85% positief |
 | [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clinical Pharmacokinetics | Behandeling van ooginfecties met lokale antibacteriële middelen |
 
 ## Informatie over de Nederlandse markt

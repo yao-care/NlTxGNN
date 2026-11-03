@@ -4,17 +4,17 @@ title: Dexamethasone
 parent: Sterk bewijs (L1-L2)
 nav_order: 108
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 monitor_inn: "dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-30
-description: "Dexamethasone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-03
+description: "Dexamethasone: voorspelde nieuwe indicatie Alopecia mucinosa (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **10**
 
 </div>
 
-## Dexamethason: glucocorticoïd → Alopecia areata (alopecia areata)
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Dexamethason is een krachtig corticosteroïd dat de immuunreactie remt. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia areata (alopecia areata)**. Deze richting wordt momenteel ondersteund door **1 gerandomiseerde studie (RCT)**, **1 systematische review met netwerkmeta-analyse** en diverse observationele studies en case series uit de literatuur. Er zijn geen geregistreerde klinische trials in de aangeleverde gegevens.
+Dexamethason is een krachtig corticosteroïd dat de immuunreactie remt. Deze richting wordt momenteel ondersteund door **1 gerandomiseerde studie (RCT)**, **1 systematische review met netwerkmeta-analyse** en diverse observationele studies en case series uit de literatuur. Er zijn geen geregistreerde klinische trials in de aangeleverde gegevens.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Alopecia areata (alopecia areata) |
-| TxGNN-voorspellingsscore | 0,9999 |
+| Voorspelde nieuwe indicatie | Alopecia mucinosa |
+| TxGNN-voorspellingsscore | 0.9999 |
 | Evidentieniveau | L2 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
 | Aantal vergunningen | 4 (geldig: 4) |

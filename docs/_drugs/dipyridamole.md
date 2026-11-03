@@ -4,17 +4,17 @@ title: Dipyridamole
 parent: Alleen modelvoorspelling (L5)
 nav_order: 116
 evidence_level: L5
-indication_count: 8
+indication_count: 6
 monitor_inn: "dipyridamole"
-predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-10-28
-description: "Dipyridamole: voorspelde nieuwe indicatie Trombotische ziekte (thrombotic disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-11-03
+description: "Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-## Dipyridamol: fosfodiësteraseremmer en remmer van adenosineheropname → trombotische ziekte (thrombotic disease)
+## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fosfodiësterase (PDE) remt. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **trombotische ziekte (thrombotic disease)**. Voor deze brede aandoening zijn **geen geregistreerde klinische studies** gevonden; de **20 gevonden publicaties** zijn vooral algemene overzichten over antiplaatjestherapie, dus het bewijs is indirect.
+Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fosfodiësterase (PDE) remt. Voor deze brede aandoening zijn **geen geregistreerde klinische studies** gevonden; de **20 gevonden publicaties** zijn vooral algemene overzichten over antiplaatjestherapie, dus het bewijs is indirect.
 
 ---
 
@@ -47,8 +47,8 @@ Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fo
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Trombotische ziekte (thrombotic disease) |
-| TxGNN-voorspellingsscore | 0,9994 |
+| Voorspelde nieuwe indicatie | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
 | Aantal vergunningen | 2 (geldig: 2) |

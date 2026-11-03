@@ -4,17 +4,17 @@ title: Sertraline
 parent: Alleen modelvoorspelling (L5)
 nav_order: 300
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-30
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "sertraline"
-predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: voorspelde nieuwe indicatie Schizoid personality disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 ## Samenvatting in één zin
 
-Sertraline is een selectieve serotonine-heropnameremmer (SSRI) die oorspronkelijk wordt gebruikt bij angststoornissen, obsessieve-compulsieve stoornis, posttraumatische stressstoornis en sociale fobie. Het TxGNN-model voorspelt dat sertraline mogelijk werkzaam is bij **agorafobie**. Daarvoor zijn **2 klinische studies** en **19 publicaties** gevonden in de voor dit rapport samengestelde gegevens, waaronder meerdere gerandomiseerde studies en netwerk-meta-analyses over paniekstoornis met of zonder agorafobie.
+Sertraline is een selectieve serotonine-heropnameremmer (SSRI) die oorspronkelijk wordt gebruikt bij angststoornissen, obsessieve-compulsieve stoornis, posttraumatische stressstoornis en sociale fobie. Daarvoor zijn **2 klinische studies** en **19 publicaties** gevonden in de voor dit rapport samengestelde gegevens, waaronder meerdere gerandomiseerde studies en netwerk-meta-analyses over paniekstoornis met of zonder agorafobie.
 
 ---
 

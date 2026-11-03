@@ -4,17 +4,17 @@ title: Montelukast
 parent: Sterk bewijs (L1-L2)
 nav_order: 239
 evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-28
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "montelukast"
-predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---

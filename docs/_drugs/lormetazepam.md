@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lormetazepam
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 214
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Lormetazepam: voorspelde nieuwe indicatie Insomnia (slapeloosheid) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de vergunningsgegevens (indicatietekst ontbreekt)"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Lormetazepam"
-predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "sleep disorder, initiating and maintaining sleep", "benign paroxysmal torticollis of infancy"]
+predicted_indications: ["alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "benign paroxysmal torticollis of infancy"]
+description: "Lormetazepam: voorspelde nieuwe indicatie Alcohol withdrawal delirium (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lormetazepam
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **10**
 
 </div>
 
-## Lormetazepam: Van slapeloosheid naar slapeloosheid (insomnia)
+## Lormetazepam: Alcohol withdrawal delirium
 {: .text-alpha }
 
 > **Let op:** Voor dit middel is de voorspelde nieuwe indicatie met de hoogste score (insomnia) in feite de reeds bekende, gevestigde toepassing van lormetazepam. Het gaat dus niet om een echte herpositionering. Hieronder is de voorspelling met de hoogste score uitgewerkt; de overige voorspellingen zijn kort samengevat in de conclusie.
 
 ## Samenvatting in één alinea
 
-Lormetazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. De TxGNN-modelvoorspelling met de hoogste score is **insomnia (slapeloosheid)**, wat overeenkomt met de bekende toepassing van het middel. Hiervoor zijn **2 klinische studies** (fase 3) en **3 publicaties** in de data voor deze indicatie opgenomen. Een echte nieuwe indicatie met voldoende onderbouwing is in de data niet naar voren gekomen.
+Lormetazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. Hiervoor zijn **2 klinische studies** (fase 3) en **3 publicaties** in de data voor deze indicatie opgenomen. Een echte nieuwe indicatie met voldoende onderbouwing is in de data niet naar voren gekomen.
 
 ---
 
@@ -48,10 +48,10 @@ Lormetazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. De TxGNN-
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet vermeld in de vergunningsgegevens (indicatietekst ontbreekt); bekend gebruik: slapeloosheid |
-| Voorspelde nieuwe indicatie | Insomnia (slapeloosheid) |
-| TxGNN-voorspellingsscore | 0,9998 |
-| Bewijsniveau | L1 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Alcohol withdrawal delirium |
+| TxGNN-voorspellingsscore | 0.9993 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |

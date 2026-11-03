@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: Matig bewijs (L3-L4)
 nav_order: 161
 evidence_level: L3
-indication_count: 9
+indication_count: 8
 monitor_inn: "fluoxetine"
-predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-30
+predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-11-03
 description: "Fluoxetine: voorspelde nieuwe indicatie Schizotypal personality disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---

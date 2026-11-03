@@ -4,17 +4,17 @@ title: Progesterone
 parent: Sterk bewijs (L1-L2)
 nav_order: 281
 evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-30
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: voorspelde nieuwe indicatie Breast fibrocystic disease (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **7**
 
 </div>
 
-## Progesterone: Amenorroe (amenorrhea (disease))
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij endometriose, endometriumcarcinoom, postmenopauzale osteoporose en postmenopauzale atrofische vaginitis. Het TxGNN-model (deep learning) voorspelt dat het werkzaam kan zijn bij **amenorroe**, met **4 klinische studies** en **18 publicaties** in de data die voor dit rapport zijn samengesteld. De studies onderzoeken echter vooral oestrogeen; progesteron is daarin meestal een ondersteunend bestanddeel.
+Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij endometriose, endometriumcarcinoom, postmenopauzale osteoporose en postmenopauzale atrofische vaginitis. De studies onderzoeken echter vooral oestrogeen; progesteron is daarin meestal een ondersteunend bestanddeel.
 
 ---
 
@@ -47,8 +47,8 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij en
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
-| TxGNN-voorspellingsscore | 1.0000 |
+| Voorspelde nieuwe indicatie | Breast fibrocystic disease |
+| TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L1 (volgens de scoring in de data; zie toelichting hieronder) |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
@@ -123,7 +123,7 @@ Gegevens uit de bijsluiter (waarschuwingen en contra-indicaties volgens CBG-MEB)
 **Beslissing: Proceed with Guardrails (doorgaan met waarborgen)**
 
 **Onderbouwing:**
-- Amenorroe heeft het sterkste bewijs van alle voorspelde indicaties. Het mechanisme is plausibel en het gebruik is klinisch bekend (progestageentest, cyclische toediening). De afgeronde studies testen echter vooral oestrogeen, waardoor de directe werkzaamheid van progesteron niet is aangetoond.
+- Het mechanisme is plausibel en het gebruik is klinisch bekend (progestageentest, cyclische toediening). De afgeronde studies testen echter vooral oestrogeen, waardoor de directe werkzaamheid van progesteron niet is aangetoond.
 - De veiligheidsscreening kan niet worden afgerond zolang de gegevens uit de bijsluiter ontbreken.
 
 **Om verder te gaan is nodig:**

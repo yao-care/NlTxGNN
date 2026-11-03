@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 228
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone: voorspelde nieuwe indicatie Alopecia mucinosa (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **9**
 
 </div>
 
-## Methylprednisolone: Alopecia areata
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Methylprednisolon is een corticosteroïde dat oorspronkelijk wordt gebruikt bij onder meer auto-immuunziekten, de ziekte van Crohn, bijnierinsufficiëntie en acute lymfatische leukemie. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia areata** (pleksgewijs haarverlies). Daarvoor zijn in de voor dit rapport verzamelde gegevens **1 klinische studie** en **20 publicaties** gevonden.
+Methylprednisolon is een corticosteroïde dat oorspronkelijk wordt gebruikt bij onder meer auto-immuunziekten, de ziekte van Crohn, bijnierinsufficiëntie en acute lymfatische leukemie. Daarvoor zijn in de voor dit rapport verzamelde gegevens **1 klinische studie** en **20 publicaties** gevonden.
 
 ---
 
@@ -47,9 +47,9 @@ Methylprednisolon is een corticosteroïde dat oorspronkelijk wordt gebruikt bij 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Alopecia areata |
+| Voorspelde nieuwe indicatie | Alopecia mucinosa |
 | TxGNN-voorspellingsscore | 0.9999 |
-| Bewijsniveau | L3 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |

@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Alleen modelvoorspelling (L5)
 nav_order: 298
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
+indication_count: 8
+last_modified_at: 2026-11-03
 description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Astma, bronchiale aandoening"
 monitor_inn: "salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---

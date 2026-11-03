@@ -4,17 +4,17 @@ title: Betamethasone
 parent: Sterk bewijs (L1-L2)
 nav_order: 54
 evidence_level: L2
-indication_count: 8
+indication_count: 7
 monitor_inn: "betamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-10-30
-description: "Betamethasone: voorspelde nieuwe indicatie alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+last_modified_at: 2026-11-03
+description: "Betamethasone: voorspelde nieuwe indicatie Alopecia mucinosa (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,20 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **8**
 
 </div>
 
-## Betamethason: glucocorticoïd met ontstekingsremmende en immuunonderdrukkende werking → alopecia areata (alopecia areata)
+## Betamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
 Betamethason is een krachtig corticosteroïd met ontstekingsremmende en immuunonderdrukkende werking.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alopecia areata (alopecia areata)**,
-met **6 klinische studies** (waarvan 1 afgeronde fase 2-studie met betamethason als onderdeel van een vergelijkende arm) en **20 publicaties** in de data die voor dit rapport is samengesteld.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | alopecia areata (alopecia areata) |
-| TxGNN-voorspellingsscore | 0,9997 |
+| Voorspelde nieuwe indicatie | Alopecia mucinosa |
+| TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L2 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
@@ -66,8 +64,6 @@ Betamethason is een krachtig glucocorticoïd dat cytokineproductie en T-celactiv
 |---------|------|------|------|---------|
 | [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fase 2 | Afgerond | 60 | Wekelijkse azathioprinepulsen versus orale betamethason-minipulsen bij matige tot ernstige alopecia areata; resultaten niet beschikbaar |
 | [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fase 4 | Afgerond | 50 | Gerandomiseerde vergelijking van topisch latanoprost met een topisch corticosteroïd (betamethason) bij gelokaliseerde alopecia areata |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | n.v.t. | Onbekend | 59 | Topisch cetirizine 1% versus topisch betamethasonvaleraat 0,1% bij gelokaliseerde alopecia areata |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Fase 1 | Onbekend | 60 | Topisch pentoxifylline/metformine versus betamethasonvaleraat 0,1% bij plekvormige alopecia areata |
 | [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | n.v.t. | Nog niet gestart met werving | 60 | Topische combinatie van metformine, simvastatine en betamethasonvaleraat; bijdrage van betamethason niet los te zien |
 | [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fase 4 | Werving loopt | 250 | Centrale centrifugale cicatriciële alopecia (een andere, littekenvormende alopecia); slechts indirect relevant |
 

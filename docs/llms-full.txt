@@ -19,7 +19,7 @@ Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspe
 - `/evidence-low/` Alleen modelvoorspelling (L5) — L5-kandidaten in NlTxGNN: alleen een modelvoorspelling, nog zonder klinisch bewijs of literatuur.
 - `/methodology/` Methodologie — Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met het TxGNN-model (deep learning), verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen.
 - `/guide/` Gebruikershandleiding — Gebruikershandleiding van NlTxGNN: hoe u geneesmiddelen opzoekt, bewijsniveaus leest en aanbevelingen interpreteert.
-- `/sources/` Gegevensbronnen — De gegevensbronnen achter NlTxGNN: registratiegegevens van CBG-MEB, TxGNN, ClinicalTrials.gov, PubMed en DrugBank.
+- `/sources/` Gegevensbronnen — De gegevensbronnen achter NlTxGNN: de Geneesmiddeleninformatiebank van CBG-MEB (metadata.csv), TxGNN, ClinicalTrials.gov, PubMed en DrugBank.
 - `/downloads/` Downloads — Open data van NlTxGNN om te downloaden: FHIR-resources, voorspellingsresultaten en de zoekindex.
 - `/news/` Gezondheidsnieuws — Gezondheidsnieuws dat NlTxGNN volgt voor de geneesmiddelen en indicaties op deze site.
 - `/about/` Over ons — NlTxGNN is een platform voor het voorspellen van geneesmiddelherpositionering, ontwikkeld door 藥提醒科技有限公司 (yao.care), gebouwd op het Harvard TxGNN-model en gericht op door CBG-MEB goedgekeurde geneesmiddelen in Nederland.

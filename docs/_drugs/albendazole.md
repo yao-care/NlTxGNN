@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 23
-evidence_level: L2
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 monitor_inn: "albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-28
-description: "Albendazole: voorspelde nieuwe indicatie Alveolaire echinokokkose (alveolar echinococcosis) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["coenurosis"]
+last_modified_at: 2026-11-03
+description: "Albendazole: voorspelde nieuwe indicatie Coenurosis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **3**
 
 </div>
 
-## Albendazol: benzimidazool-anthelminticum (bindt bèta-tubuline) → Alveolaire echinokokkose (alveolar echinococcosis)
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## Samenvatting in het kort
 
-Albendazol is een benzimidazool-anthelminticum dat de microtubuli van parasieten verstoort. Het TxGNN-model voorspelt dat albendazol werkzaam kan zijn bij **alveolaire echinokokkose (alveolar echinococcosis)**. Daarvoor zijn **3 klinische studies** en **20 publicaties** in de data gevonden, waaronder een afgeronde fase 2-studie (n=194) die precies deze ziekte onderzoekt.
+Albendazol is een benzimidazool-anthelminticum dat de microtubuli van parasieten verstoort. Daarvoor zijn **3 klinische studies** en **20 publicaties** in de data gevonden, waaronder een afgeronde fase 2-studie (n=194) die precies deze ziekte onderzoekt.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Alveolaire echinokokkose (alveolar echinococcosis) |
-| TxGNN-voorspellingsscore | 0,9997 |
-| Bewijsniveau | L2 |
+| Voorspelde nieuwe indicatie | Coenurosis |
+| TxGNN-voorspellingsscore | 0.9983 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Doorgaan met waarborgen |

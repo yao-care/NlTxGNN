@@ -1,7 +1,7 @@
 {
   "generated": "2026-03-26",
   "drug_count": 116,
-  "indication_count": 423,
+  "indication_count": 420,
   "drugs": [
     {
       "slug": "levetiracetam",
@@ -2524,8 +2524,7 @@
         "pimozide",
         "droperidol",
         "zonisamide",
-        "clozapine",
-        "haloperidol"
+        "clozapine"
       ]
     },
     {
@@ -2546,7 +2545,6 @@
         "vecuronium",
         "diazepam",
         "oxazepam",
-        "lormetazepam",
         "iohexol",
         "modafinil"
       ]
@@ -2631,7 +2629,6 @@
       "related_drugs": [
         "pimozide",
         "flunitrazepam",
-        "alprazolam",
         "olanzapine"
       ]
     },
@@ -3253,18 +3250,6 @@
         "flurbiprofen",
         "sulfasalazine",
         "meloxicam"
-      ]
-    },
-    {
-      "name": "ankylosing spondylitis",
-      "keywords": {
-        "en": [
-          "ankylosing spondylitis"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "flurbiprofen"
       ]
     },
     {
@@ -4764,18 +4749,6 @@
       ]
     },
     {
-      "name": "tricuspid valve agenesis",
-      "keywords": {
-        "en": [
-          "tricuspid valve agenesis"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "alprostadil"
-      ]
-    },
-    {
       "name": "tricuspid valve prolapse (disease)",
       "keywords": {
         "en": [
@@ -4846,7 +4819,6 @@
       "related_drugs": [
         "nitrazepam",
         "diazepam",
-        "lormetazepam",
         "temazepam"
       ]
     },
@@ -5880,18 +5852,6 @@
       "keywords": {
         "en": [
           "bipolar disorder"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "clozapine"
-      ]
-    },
-    {
-      "name": "psychotic disorder",
-      "keywords": {
-        "en": [
-          "psychotic disorder"
         ],
         "zh": []
       },

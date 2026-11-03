@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Alleen modelvoorspelling (L5)
 nav_order: 78
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "chlorambucil"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-30
-description: "Chlorambucil: voorspelde nieuwe indicatie Pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocy… (bewijsniveau L5). Oorspronkelijke i…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: voorspelde nieuwe indicatie ALK-positive large B-cell lymphoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Chlorambucil: alkylerend cytostaticum → pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Chlorambucil is een alkylerend cytostaticum (stikstofmosterdderivaat) dat wordt gebruikt bij hematologische maligniteiten. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**. Hiervoor zijn **geen geregistreerde klinische studies** en **1 publicatie** (een overzichtsartikel uit 2003) beschikbaar in de voor dit rapport samengestelde gegevens.
+Chlorambucil is een alkylerend cytostaticum (stikstofmosterdderivaat) dat wordt gebruikt bij hematologische maligniteiten. Hiervoor zijn **geen geregistreerde klinische studies** en **1 publicatie** (een overzichtsartikel uit 2003) beschikbaar in de voor dit rapport samengestelde gegevens.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Pregerminal-center chronische lymfatische leukemie/kleincellig lymfocytair lymfoom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| TxGNN-voorspellingsscore | 0,9972 |
+| Voorspelde nieuwe indicatie | ALK-positive large B-cell lymphoma |
+| TxGNN-voorspellingsscore | 0.9961 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |

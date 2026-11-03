@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 249
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Nystatin: voorspelde nieuwe indicatie Vulvovaginitis (bewijsniveau L4). Oorspronkelijke indicatie: Candidiasis (huid, mondholte, vulvovaginaal)"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: voorspelde nieuwe indicatie Disease of orbital region (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 </div>
 
-## Nystatine: Van candidiasis naar vulvovaginitis
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij candida-infecties van huid, mondholte en vulvovaginaal gebied. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **vulvovaginitis**. Voor deze richting zijn **geen geregistreerde klinische studies** gevonden, maar wel **20 publicaties** (vooral reviews en behandeloverzichten). Deze voorspelling is grotendeels een bevestiging van de bestaande indicatie, geen echte nieuwe toepassing.
+Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij candida-infecties van huid, mondholte en vulvovaginaal gebied. Voor deze richting zijn **geen geregistreerde klinische studies** gevonden, maar wel **20 publicaties** (vooral reviews en behandeloverzichten). Deze voorspelling is grotendeels een bevestiging van de bestaande indicatie, geen echte nieuwe toepassing.
 
 ---
 
@@ -46,10 +46,10 @@ Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij can
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Candidiasis (huid, mondholte, vulvovaginaal) |
-| Voorspelde nieuwe indicatie | Vulvovaginitis |
-| TxGNN-voorspellingsscore | 0,9992 |
-| Evidenceniveau | L4 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Disease of orbital region |
+| TxGNN-voorspellingsscore | 0.9990 |
+| Evidenceniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |

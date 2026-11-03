@@ -4,17 +4,17 @@ title: Risperidone
 parent: Alleen modelvoorspelling (L5)
 nav_order: 293
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-28
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: voorspelde nieuwe indicatie Gaze palsy, familial horizontal, with progressive scoliosis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **5** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **5**
 
 ## Samenvatting in één oogopslag
 
-Risperidon is een atypisch antipsychoticum dat oorspronkelijk wordt gebruikt bij schizofrenie en bipolaire stoornis (manische episoden), en bij autismegerelateerde prikkelbaarheid. Het TxGNN-model voorspelt dat het ook werkzaam kan zijn bij een **ernstige affectieve stoornis** (met name therapieresistente depressie). Hiervoor zijn **11 geregistreerde klinische studies** en **19 publicaties** gevonden, waaronder meerdere afgeronde fase 3-studies.
+Risperidon is een atypisch antipsychoticum dat oorspronkelijk wordt gebruikt bij schizofrenie en bipolaire stoornis (manische episoden), en bij autismegerelateerde prikkelbaarheid. Hiervoor zijn **11 geregistreerde klinische studies** en **19 publicaties** gevonden, waaronder meerdere afgeronde fase 3-studies.
 
 > **Let op:** de hoogst gerangschikte voorspelling van het model (rang 1: een zeldzame erfelijke oogbewegingsstoornis met scoliose) heeft geen enkele ondersteunende studie of publicatie. Dit rapport richt zich daarom op de voorspelling met de sterkste onderbouwing, de ernstige affectieve stoornis. De overige voorspellingen staan in een korte vergelijking verderop.
 
@@ -130,7 +130,6 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 | 3 | Amelocerebrohypohidrotisch syndroom | 0,9969 | L5 | Hold |
 | 4 | Phelan-McDermid-syndroom | 0,9959 | L4 | Onderzoeksvraag |
 | 5 | Trichotillomanie | 0,9951 | L4 | Onderzoeksvraag |
-| 6 | Ernstige affectieve stoornis | 0,9911 | L1 | Proceed with Guardrails |
 
 Het Asperger-syndroom valt bovendien onder de bestaande autisme-indicatie. Bij Phelan-McDermid (alleen een review en een zebravismodel) en trichotillomanie (alleen casuïstiek) is er geen gecontroleerd onderzoek bij mensen.
 

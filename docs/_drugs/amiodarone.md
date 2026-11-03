@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Alleen modelvoorspelling (L5)
 nav_order: 33
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "amiodarone"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-28
-description: "Amiodarone: voorspelde nieuwe indicatie catecholaminerge polymorfe ventriculaire tachycardie (catecholaminergic polymorphic ventricular tachycardia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet…"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-03
+description: "Amiodarone: voorspelde nieuwe indicatie catecholaminerge polymorfe ventriculaire tachycardie (catecholaminergic polymorphic ventricular tachycardia) (bewijsniveau L5)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Amiodaron: meerkanaals-antiaritmicum (klasse III) → catecholaminerge polymorfe ventriculaire tachycardie (catecholaminergic polymorphic ventricular tachycardia)
+## Amiodarone: catecholaminerge polymorfe ventriculaire tachycardie (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ## Samenvatting in één zin
@@ -50,7 +50,7 @@ Voor deze specifieke aandoening zijn **geen klinische studies** en **geen public
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | catecholaminerge polymorfe ventriculaire tachycardie (catecholaminergic polymorphic ventricular tachycardia) |
-| TxGNN-voorspellingsscore | 0,9978 |
+| TxGNN-voorspellingsscore | 0.9978 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |

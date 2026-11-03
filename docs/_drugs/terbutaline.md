@@ -4,17 +4,17 @@ title: Terbutaline
 parent: Sterk bewijs (L1-L2)
 nav_order: 315
 evidence_level: L1
-indication_count: 3
-last_modified_at: 2026-10-30
-description: "Terbutaline: voorspelde nieuwe indicatie Obstructieve longziekte (bewijsniveau L1). Oorspronkelijke indicatie: Astma"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: voorspelde nieuwe indicatie Respiratory malformation (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **3** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **3**
 
 </div>
 
-## Terbutaline: Van astma naar obstructieve longziekte
+## Terbutaline: Respiratory malformation
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronkelijk wordt gebruikt bij astma en aanverwante luchtwegaandoeningen. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **obstructieve longziekte**, met **15 klinische studies** en **20 publicaties** in de voor dit rapport samengestelde data. Deze voorspelling ligt sterk in het verlengde van de bestaande indicaties en is daarom eerder een uitbreiding binnen dezelfde ziektefamilie dan een echt nieuwe toepassing.
+Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronkelijk wordt gebruikt bij astma en aanverwante luchtwegaandoeningen. Deze voorspelling ligt sterk in het verlengde van de bestaande indicaties en is daarom eerder een uitbreiding binnen dezelfde ziektefamilie dan een echt nieuwe toepassing.
 
 ---
 
@@ -46,9 +46,9 @@ Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronke
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Astma (daarnaast bronchitis en longemfyseem; de geregistreerde indicatietekst van de Nederlandse vergunning is niet beschikbaar) |
-| Voorspelde nieuwe indicatie | Obstructieve longziekte |
-| TxGNN-voorspellingsscore | 0,9996 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Respiratory malformation |
+| TxGNN-voorspellingsscore | 0.9952 |
 | Evidentieniveau | L1 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
@@ -60,7 +60,7 @@ Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronke
 
 Terbutaline is een selectieve bèta-2-adrenerge agonist. Activering van bèta-2-receptoren op gladde spiercellen van de luchtwegen verhoogt het cAMP-gehalte en leidt tot bronchodilatatie. Dit pakt direct de reversibele luchtwegobstructie aan bij astma en COPD. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de data, maar het bèta-2-agonistmechanisme is goed gevestigd.
 
-De voorspelde indicatie "obstructieve longziekte" overlapt grotendeels met de bestaande indicaties (astma, bronchitis, longemfyseem). Het gaat dus om een uitbreiding binnen dezelfde ziektefamilie. De literatuur bevat bovendien gerandomiseerde, placebogecontroleerde studies naar terbutaline bij COPD, waarin effecten op longfunctie, inspanningsvermogen en diafragmafunctie zijn onderzocht.
+Het gaat dus om een uitbreiding binnen dezelfde ziektefamilie. De literatuur bevat bovendien gerandomiseerde, placebogecontroleerde studies naar terbutaline bij COPD, waarin effecten op longfunctie, inspanningsvermogen en diafragmafunctie zijn onderzocht.
 
 **Overige voorspellingen met zwakke onderbouwing:**
 - **Respiratoire malformatie** (score 0,9952, evidentieniveau L4, besluit: Hold): terbutaline kan functionele luchtwegobstructie verlichten, maar corrigeert de malformatie niet. De gevonden literatuur gaat vooral over differentiële diagnostiek en niet-gerelateerde onderwerpen. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten; het is geen biologisch bewijs.

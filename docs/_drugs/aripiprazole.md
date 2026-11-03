@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: Sterk bewijs (L1-L2)
 nav_order: 42
 evidence_level: L1
-indication_count: 9
+indication_count: 8
 monitor_inn: "aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-28
-description: "Aripiprazole: voorspelde nieuwe indicatie Ernstige affectieve stoornis (major affective disorder) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+last_modified_at: 2026-11-03
+description: "Aripiprazole: voorspelde nieuwe indicatie Gaze palsy, familial horizontal, with progressive scoliosis (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L1** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **9**
 
 </div>
 
-## Aripiprazol: partieel dopamine-D2/serotonine-5-HT1A-agonist (atypisch antipsychoticum) → Ernstige affectieve stoornis (major affective disorder)
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Aripiprazol is een atypisch antipsychoticum dat werkt als partieel agonist van dopamine-D2/D3- en serotonine-5-HT1A-receptoren. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **ernstige affectieve stoornis (major affective disorder)**. Hiervoor zijn in de samengestelde gegevens **34 klinische studies** en **20 publicaties** gevonden, waaronder meerdere grote, gerandomiseerde fase 3-studies naar aanvullende behandeling bij depressie.
+Aripiprazol is een atypisch antipsychoticum dat werkt als partieel agonist van dopamine-D2/D3- en serotonine-5-HT1A-receptoren. Hiervoor zijn in de samengestelde gegevens **34 klinische studies** en **20 publicaties** gevonden, waaronder meerdere grote, gerandomiseerde fase 3-studies naar aanvullende behandeling bij depressie.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Ernstige affectieve stoornis (major affective disorder) |
-| TxGNN-voorspellingsscore | 0,9962 |
+| Voorspelde nieuwe indicatie | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN-voorspellingsscore | 0.9960 |
 | Evidentieniveau | L1 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |

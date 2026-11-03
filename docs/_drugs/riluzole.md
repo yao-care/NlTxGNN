@@ -4,17 +4,17 @@ title: Riluzole
 parent: Alleen modelvoorspelling (L5)
 nav_order: 292
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "riluzole"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
-description: "Riluzole: voorspelde nieuwe indicatie Bilateral parasagittal parieto-occipital polymicrogyria (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
+description: "Riluzole: voorspelde nieuwe indicatie Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (bewijsniveau L5)."
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,96 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Riluzole: Bilateral parasagittal parieto-occipital polymicrogyria
+## Riluzole: Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Riluzol is een geneesmiddel dat oorspronkelijk wordt gebruikt voor de behandeling van **amyotrofische laterale sclerose (ALS)**. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **bilaterale parasagittale pariëto-occipitale polymicrogyrie**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden. De voorspelling berust uitsluitend op een modelberekening.
+Riluzol is een geneesmiddel met een glutamaatmodulerende werking dat in Nederland in de handel is. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria)**, een zeldzame corticale ontwikkelingsafwijking van de hersenen. Voor deze voorspelling zijn in de voor dit rapport samengestelde gegevens **geen klinische studies** en **geen publicaties** gevonden, dus het bewijs berust alleen op de modelvoorspelling.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Bilateral parasagittal parieto-occipital polymicrogyria |
+| Voorspelde nieuwe indicatie | Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Aanbevolen besluit | Hold |
 
-## Waarom is deze voorspelling redelijk?
+---
 
-Voor de werkingsmechanisme van riluzol zijn in de voor dit rapport verzamelde gegevens geen details beschikbaar. Uit de literatuur over ALS blijkt wel dat riluzol vermoedelijk de glutamaterge neurotransmissie remt en zo excitotoxiciteit en calciumoverbelasting van motorneuronen vermindert. Dit is echter geen onderdeel van de formele mechanismegegevens.
+## Waarom is deze voorspelling aannemelijk?
 
-Het verband met de voorspelde indicatie is speculatief. Polymicrogyrie is een corticale ontwikkelingsafwijking, en de glutamaatmodulerende werking van riluzol zou in theorie relevant kunnen zijn voor de verhoogde prikkelbaarheid van de cortex. Hiervoor is in de beschikbare gegevens geen onderbouwing. De hoge score is een grafiekgebaseerde voorspelling en op zichzelf geen basis voor klinische actie.
+Gegevens over het werkingsmechanisme van riluzol zijn voor dit rapport niet beschikbaar. Wel wordt riluzol in het algemeen beschreven als een middel dat de glutamaatsignalering beïnvloedt. Een mogelijke, maar speculatieve link is dat een overmatige prikkelbaarheid van de hersenschors een rol speelt bij corticale malformaties zoals polymicrogyrie. Een glutamaatmodulerend middel zou daar theoretisch invloed op kunnen hebben.
 
-### Andere voorspellingen in de top 10
+Deze redenering wordt niet ondersteund door klinische studies, literatuur of mechanistische gegevens in de aangeleverde informatie. De hoge TxGNN-score (0,9999) is een door het model berekende waarde op basis van netwerkrelaties. Ze zegt niets over werkzaamheid of veiligheid bij patiënten met deze aandoening. De voorspelling moet daarom als een hypothese worden beschouwd.
 
-Geen van de overige voorspelde indicaties heeft klinisch bewijs. Enkele zijn biologisch plausibel omdat ze verwant zijn aan ALS:
+---
 
-- Lagere-motorneuronsyndroom met laat-volwassen begin
-- Monomele amyotrofie
-- Mills-syndroom
-- Letaal arthrogryposis-voorhoornceldiseasesyndroom
-- ALS type 22
+## Bewijs uit klinische studies
 
-Deze lijken eerder een uitbreiding van de bestaande ALS-indicatie dan echte herpositionering. Voor ALS-gevoeligheid (rang 8) zijn wel 20 publicaties gevonden (bewijsniveau L4), vooral overzichtsartikelen en mechanistische studies, maar geen klinische studies. Dit is geen echte nieuwe indicatie, omdat het overlapt met de goedgekeurde ALS-indicatie. Voor enkele voorspellingen (zoals axiale spondylometafysaire dysplasie en trichomegalie-retinale pigmentdegeneratie-dwergismesyndroom) is geen duidelijk mechanistisch verband te onderbouwen.
+Momenteel geen gerelateerde klinische studies geregistreerd.
 
-## Klinisch bewijs
+---
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+## Bewijs uit de literatuur
 
-## Literatuurbewijs
+Momenteel geen gerelateerde literatuur beschikbaar.
 
-Momenteel is er geen gerelateerde literatuur beschikbaar.
+---
 
-## Informatie over de Nederlandse markt
+## Marktinformatie Nederland
+
+Volgens de gegevens van het CBG-MEB is riluzol in Nederland in de handel. De hieronder vermelde vergunning is geldig.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 109825 | Glentek 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
+Raadpleeg voor de officiële indicatietekst de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
+
+---
+
 ## Veiligheidsoverwegingen
 
-Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor veiligheidsinformatie. De bijsluiter (PIL) van de betreffende producten bevat aanvullende informatie. De volgende gegevens zijn wel beschikbaar:
+**Geneesmiddelinteracties:** Er zijn 35 interacties geregistreerd. De belangrijkste met niveau "matig" zijn:
 
-- **Aandoeningen met een mogelijke contra-indicatie (uit de kennisgrafiek, niet uit de productinformatie)**: neutropenie, agranulocytose, middelenmisbruik/-afhankelijkheid, hyperbilirubinemie (ook erfelijke vorm), syndroom van Gilbert, interstitiële longziekte en door geneesmiddelen veroorzaakt leverletsel. Deze moeten aan de officiële productinformatie worden getoetst.
-- **Geneesmiddelinteracties**: in totaal 35 interacties geregistreerd. Voorbeelden van **matige** interacties: obeticholzuur, naltrexon, deferasirox, osilodrostat, anagrelide, asparaginase, brentuximab vedotin, clofarabine en methotrexaat. **Lichte** interacties: omeprazol, cafeïne, theofylline en aminofylline. Voor enkele middelen (o.a. metformine, simvastatine, ranitidine, salbutamol, ibuprofen) is het interactieniveau onbekend.
-- **Leverfunctie**: in de literatuur wordt gemeld dat bij ongeveer 50% van de ALS-patiënten die orale riluzol gebruiken de ALAT boven de bovengrens van normaal komt, bij 8% boven 3× en bij 2% boven 5× de bovengrens (PMID 32040174).
+- Obeticholzuur
+- Naltrexon
+- Deferasirox
+- Osilodrostat
+- Anagrelide
+- Asparaginase (Escherichia coli)
+- Brentuximab vedotin
+- Clofarabine
+- Methotrexaat
+
+Daarnaast zijn er interacties van niveau "gering" (onder andere omeprazol, cafeïne, theofylline en aminofylline). Bij een aantal andere middelen is het niveau niet bepaald (onder andere metformine, simvastatine, ranitidine, salbutamol en ibuprofen).
+
+Voor waarschuwingen en contra-indicaties uit de productinformatie moet de SmPC worden geraadpleegd. Die gegevens zijn voor dit rapport niet beschikbaar.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor polymicrogyrie berust alleen op het TxGNN-model (L5), zonder klinische studies of literatuur, en het mechanistische verband is speculatief. Daarnaast is de enige Nederlandse vergunning ingetrokken.
+- De voorspelling berust uitsluitend op een modelscore (0,9999), zonder klinische studies of publicaties die deze aandoening direct onderzoeken. Het bewijsniveau is daarom L5.
+- Het mechanistische verband is speculatief, en de gegevens over werkingsmechanisme en productveiligheid zijn onvolledig.
 
-**Om verder te gaan is het volgende nodig:**
-- Gegevens over het werkingsmechanisme van riluzol (bijv. via DrugBank)
-- Systematisch literatuuronderzoek en preklinisch bewijs voor corticale malformaties
-- De actuele SmPC en bijsluiter van het CBG-MEB voor warnings en contra-indicaties
-- Een beoordeling van de beschikbaarheid en toedieningsvorm in Nederland, gezien de ingetrokken vergunning
-- Voor ALS-verwante voorspellingen: subtypespecifiek bewijs, en beoordeling of het een uitbreiding van de bestaande ALS-indicatie betreft
+**Om verder te kunnen gaan is nodig:**
+- Preklinisch of mechanistisch bewijs dat een rol van glutamaatmodulatie bij deze aandoening onderbouwt.
+- Een systematische literatuursearch naar riluzol bij polymicrogyrie en verwante corticale malformaties.
+- Volledige gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
+- Beoordeling van de geschiktheid van de beschikbare toedieningsvorm (filmomhulde tabletten) voor de betrokken patiëntengroep, die vaak jong is.
+- Een veiligheidsbeoordeling van de relevante geneesmiddelinteracties, met name met de middelen die als "matig" zijn ingedeeld.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

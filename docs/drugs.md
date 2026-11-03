@@ -36,6 +36,8 @@ Deze lijst is gebaseerd op de registratiegegevens van [CBG-MEB](https://www.cbg-
 
 <!-- local-home:end -->
 
+Selectie: [Geneesmiddelen in Nederland met bewijs uit klinische studies voor een nieuwe indicatie]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, met de voorspelde indicatie en het aantal geciteerde geregistreerde studies).
+
 ## Verdeling per bewijsniveau
 
 | Bewijsniveau | Geneesmiddelen | Omschrijving |

@@ -4,17 +4,17 @@ title: Mitomycin
 parent: Alleen modelvoorspelling (L5)
 nav_order: 237
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "mitomycin"
-predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-description: "Mitomycin: voorspelde nieuwe indicatie Solid pseudopapillary carcinoma of pancreas (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
+description: "Mitomycin: voorspelde nieuwe indicatie Solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas) (bewijsniveau L5)."
 ---
 
 # Mitomycin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,38 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Mitomycin: Solid pseudopapillary carcinoma of pancreas
+## Mitomycin: Solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Mitomycine is een cytotoxisch middel dat DNA-ketens onderling verbindt (crosslinking). Het wordt gekoppeld aan de behandeling van alvleesklieradenocarcinoom.
-Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **solide pseudopapillair carcinoom van de alvleesklier**.
-Hiervoor zijn **geen geregistreerde klinische studies** en **geen directe literatuur** gevonden; de voorspelling berust alleen op het model.
-
----
+Mitomycine is een alkylerend cytostaticum dat DNA-strengen verknoopt en wordt gebruikt bij kankerbehandeling. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas)**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Solid pseudopapillary carcinoma of pancreas |
+| Voorspelde nieuwe indicatie | Solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas) |
 | TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Hold |
+| Aanbevolen beslissing | Hold |
 
----
+## Waarom is deze voorspelling redelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Mitomycine is een DNA-crosslinkend alkylerend middel, en een gedeelde rationale op basis van de tumorlocatie (pancreas) is aannemelijk.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Mitomycine is bekend als alkylerend middel dat DNA crosslinkt. De werkzaamheid bij alvleesklieradenocarcinoom is historisch beschreven, en mechanistisch kan een gedeelde tumorlocatie de voorspelling verklaren.
+Er zijn echter belangrijke kanttekeningen. Solide pseudopapillaire neoplasmata zijn doorgaans laaggradig en worden meestal genezen met chirurgie. Ze zijn biologisch anders dan ductaal adenocarcinoom (aangedreven door CTNNB1-mutaties). De hoge modelscore weerspiegelt daarom vooral een voorspelling en geen aangetoonde werkzaamheid.
 
-De aannemelijkheid is echter beperkt. Solide pseudopapillaire neoplasmata zijn meestal laaggradig, worden vaak door chirurgie genezen en zijn biologisch anders dan ductaal adenocarcinoom (aangedreven door CTNNB1-mutaties).
-
-Het model voorspelt ook andere alvleesklieraandoeningen met vrijwel dezelfde score (99,82–0,9986), zoals osteoclastair reuscellig tumor van de alvleesklier, gemengd ductaal-endocrien carcinoom, ongedifferentieerd pancreascarcinoom en maligne exocriene pancreasneoplasie. Ook voor deze aandoeningen ontbreekt direct klinisch bewijs.
-
----
-
-## Bewijs uit klinische studies
+## Klinisch trialbewijs
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
----
+## Literatuurbewijs
 
-## Bewijs uit de literatuur
-
-Voor de hoogst gerangschikte voorspelling is geen literatuur gevonden. Voor de andere voorspelde indicaties zijn alleen indirecte publicaties gevonden (hieronder ter context):
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [15983445](https://pubmed.ncbi.nlm.nih.gov/15983445/) | 2005 | Case report | Pancreatology | Pseudomyxoma peritonei met gelijktijdig IPMN, behandeld met intraperitoneale hypertherme chemoperfusie. Geen onderzoek naar mitomycine bij IPMN-carcinoom. |
-| [10897253](https://pubmed.ncbi.nlm.nih.gov/10897253/) | 2000 | Review | Strahlenther Onkol | Overzicht van adjuvante en neoadjuvante radiochemotherapie bij ductaal pancreascarcinoom; indirect relevant. |
-| [8361472](https://pubmed.ncbi.nlm.nih.gov/8361472/) | 1993 | Klinische studie | Nihon Geka Gakkai Zasshi | Tamoxifen als aanvulling op immuunchemotherapie (waaronder mitomycine) na resectie van pancreascarcinoom. Het gaat om bewijs voor tamoxifen, niet voor mitomycine. |
-| [2695183](https://pubmed.ncbi.nlm.nih.gov/2695183/) | 1989 | Review | Bulletin du Cancer | Overzicht van tumoren met onbekende primaire origine; niet specifiek voor mitomycine, geen bruikbaar bewijs. |
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
@@ -93,47 +72,37 @@ Voor de hoogst gerangschikte voorspelling is geen literatuur gevonden. Voor de a
 |---------|------|------|-----------|
 | RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intravesicaal gebruik | Poeder voor oplossing | Niet beschikbaar (registratie geldig) |
 
----
+De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product.
 
 ## Cytotoxiciteit
 
 | Item | Inhoud |
 |------|------|
-| Cytotoxiciteitsclassificatie | Klassiek cytotoxisch middel (alkylerend, DNA-crosslinking) |
-| Risico op myelosuppressie | Raadpleeg de SmPC (in de kennisgraaf zijn leukopenie, trombocytopenie en anemie als contra-indicerende aandoeningen vermeld) |
+| Cytotoxiciteitsclassificatie | Conventioneel cytotoxisch (alkylerend middel) |
+| Myelosuppressierisico | Hoog (raadpleeg de SmPC) |
 | Emetogeniciteitsclassificatie | Raadpleeg de SmPC |
-| Te monitoren parameters | Bloedbeeld (CBC), nier- en leverfunctie; raadpleeg de SmPC |
-| Bescherming bij hanteren | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
-
----
+| Te monitoren items | Volledig bloedbeeld (CBC), nier- en leverfunctie |
+| Bescherming bij hantering | Volg de richtlijnen voor het hanteren van cytotoxische geneesmiddelen |
 
 ## Veiligheidsoverwegingen
 
-Er is geen tekst uit de bijsluiter of SmPC beschikbaar in de samengestelde data. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+- **Geneesmiddelinteracties**: in totaal zijn 232 interacties geregistreerd. Voorbeelden met een ernstig (major) niveau zijn deferipron en samarium (153Sm) lexidronam. Matig (moderate) zijn onder meer palifermine, strontiumchloride Sr-89 en fostamatinib.
 
-- **Aandoeningen met contra-indicatie volgens de kennisgraaf (geen bijsluitertekst)**: nierziekte, pyoureter, trombocytopenie, bloedstollingsstoornis, anemie (waaronder macrocytaire anemie), leukopenie, hemolytisch-uremisch syndroom (waaronder typisch), hartfalen (waaronder congestief) en stomatitis.
-- **Geneesmiddelinteracties**: in totaal 232 interacties gevonden. Belangrijkste voorbeelden:
-  - **Ernstig (Major)**: deferipron, samarium (153Sm) lexidronam.
-  - **Matig (Moderate)**: palifermine, strontiumchloride Sr-89, fostamatinib.
-  - **Licht (Minor)**: levofloxacine.
-  - Bij veel andere interacties (o.a. pantoprazol, morfine, dexamethason, ondansetron) is het niveau niet geclassificeerd.
-
----
+Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of directe literatuur, en de doelziekte is meestal laaggradig en chirurgisch te genezen, waardoor cytotoxische chemotherapie met aanzienlijke toxiciteit moeilijk te rechtvaardigen is.
-- De enige Nederlandse registratie is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (een blokkerende datalacune).
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties die mitomycine met deze ziekte verbinden, en de biologie van de ziekte verschilt van die van ductaal adenocarcinoom, terwijl behandeling meestal chirurgisch is.
 
-**Om verder te gaan is nodig:**
-- Bijsluiter-/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB.
-- Gegevens over het werkingsmechanisme uit DrugBank.
-- Gerichte literatuursearch naar mitomycine bij pancreastumoren, met name solide pseudopapillaire neoplasmata.
-- Beoordeling door een klinisch expert of een van de andere voorspelde pancreasindicaties (bijv. maligne exocriene pancreasneoplasie, dat dicht bij de oorspronkelijke indicatie ligt) meer perspectief biedt.
-- Heroverweging na verduidelijking van de Nederlandse marktstatus (huidige vergunning doorgehaald).
+**Om verder te gaan is het volgende nodig:**
+- Gegevens over het werkingsmechanisme en een onderbouwde mechanistische koppeling met deze tumor
+- Preklinisch of klinisch bewijs dat direct deze ziekte onderzoekt
+- De waarschuwingen en contra-indicaties uit de SmPC van CBG-MEB
+- Beoordeling van de toedieningsroute en vergelijking met de huidige chirurgische standaardzorg
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

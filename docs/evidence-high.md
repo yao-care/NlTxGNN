@@ -12,6 +12,8 @@ description: "L1-L2-kandidaten voor geneesmiddelherpositionering in NlTxGNN, ond
 Kandidaten die met voorrang voor klinische evaluatie in aanmerking komen
 </p>
 
+Welke van deze geneesmiddelen hebben bewijs uit studies voor hun voorspelde nieuwe indicatie, en hoeveel geregistreerde studies worden geciteerd? Zie [Geneesmiddelen in Nederland met bewijs uit klinische studies voor een nieuwe indicatie]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Criteria

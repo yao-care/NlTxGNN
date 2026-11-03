@@ -4,17 +4,17 @@ title: Levofloxacin
 parent: Alleen modelvoorspelling (L5)
 nav_order: 207
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-description: "Levofloxacin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+description: "Levofloxacin: voorspelde nieuwe indicatie Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5)."
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,40 +33,40 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Levofloxacin: Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis)
+## Levofloxacin: Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Levofloxacine is een fluorochinolon-antibioticum dat oorspronkelijk wordt gebruikt tegen bacteriële infecties, zoals longontsteking, sinusitis, conjunctivitis en pyelonefritis. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **punctate epitheliale keratoconjunctivitis**. Voor deze richting zijn **geen klinische studies** en slechts **1 publicatie** gevonden, en die publicatie ondersteunt de werkzaamheid van levofloxacine niet.
+Levofloxacine is een fluorochinolon-antibioticum dat wordt gebruikt bij bacteriële infecties. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis)**. Het bewijs hiervoor is zeer beperkt: er zijn **geen klinische studies** en slechts **1 publicatie** (een uitbraakrapport over een andere verwekker) in de voor dit rapport verzamelde gegevens.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
+| Voorspelde nieuwe indicatie | Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
 | TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Aanbevolen besluit | Hold |
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Levofloxacine behoort tot de fluorochinolonen. Deze klasse remt bacterieel DNA-gyrase en topo-isomerase IV, en de werkzaamheid bij bacteriële oogoppervlakinfecties zoals conjunctivitis is bekend. Een werking op het oogoppervlak is daarom mechanistisch denkbaar.
+Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Levofloxacine behoort tot de fluorochinolonen, die bacterieel DNA-gyrase en topo-isomerase IV remmen. Dat is algemeen bekend, maar niet vastgelegd in de verzamelde gegevens.
 
-Er zijn wel belangrijke kanttekeningen. De enige gevonden publicatie beschrijft een uitbraak van **microsporidiale** keratoconjunctivitis. Microsporidia zijn over het algemeen niet gevoelig voor fluorochinolonen, dus die publicatie levert geen steun voor werkzaamheid van levofloxacine. De hoge score weerspiegelt waarschijnlijk vooral de nabijheid van deze aandoening tot de reeds goedgekeurde conjunctivitis-indicaties in het kennisnetwerk van het model, en niet een echt mechanistisch signaal. Of de punctate keratoconjunctivitis bacterieel of niet-bacterieel is, bepaalt of antibiotica zinvol zijn.
+De voorspelling lijkt vooral voort te komen uit de nabijheid van deze aandoening tot bekende oogoppervlakte-infecties zoals bacteriële conjunctivitis. Daardoor is werkzaamheid op het oogoppervlak aannemelijk, maar dat is geen specifiek mechanistisch signaal. De enige gevonden publicatie beschrijft een uitbraak van microsporidiale keratoconjunctivitis. Microsporidia zijn in het algemeen niet gevoelig voor fluorochinolonen, dus dit artikel levert geen steun voor werkzaamheid van levofloxacine. De hoge score weerspiegelt waarschijnlijk vooral modelmatige nabijheid en niet een echt mechanistisch bewijs.
 
-## Klinische studies
+## Bewijs uit klinische studies
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Uitbraakrapport | American Journal of Ophthalmology | Beschrijft een uitbraak van microsporidiale keratoconjunctivitis door verontreinigd zwembadwater in Taiwan. Er is geen onderbouwing voor werkzaamheid van levofloxacine. |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Uitbraakrapport | American Journal of Ophthalmology | Uitbraak van microsporidiale keratoconjunctivitis door verontreinigd water in zwembaden in Taiwan; geen gegevens over levofloxacine. |
 
 ## Informatie over de Nederlandse markt
 
@@ -74,41 +74,25 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 115744 | Levofloxacine Beximco 500 mg, filmomhulde tabletten | Filmomhulde tabletten (afgeleid van de productnaam) | Niet beschikbaar; registratie is geldig |
 
-
 ## Veiligheidsoverwegingen
 
-De waarschuwingen en contra-indicaties uit de bijsluitertekst van het CBG-MEB zijn niet verwerkt. Raadpleeg daarom de SmPC (Samenvatting van de Productkenmerken) voor de officiële veiligheidsinformatie.
+- **Geneesmiddelinteracties**: In de verzamelde gegevens zijn 645 interacties vastgelegd. Voorbeelden van ernstige (major) interacties zijn tramadol en hydrocortison. Voorbeelden van matige interacties zijn onder meer abirateron, acarbose, famotidine, formoterol, ketorolac, adenosine, ibuprofen, ethinylestradiol, metformine en pioglitazon.
 
-- **Contra-indicaties volgens het kennisnetwerk (geen bijsluitertekst):** Het kennisnetwerk koppelt levofloxacine aan o.a. de volgende aandoeningen:
-  - Hart: lange-QT-syndroom (ook familiair), torsades de pointes, myocardischemie, coronaire hartziekte.
-  - Zenuwen en spieren: epilepsie, myasthenia gravis, aandoeningen van de neuromusculaire overgang, perifere neuropathie en andere aandoeningen van het perifere zenuwstelsel.
-  - Pezen en spieren: tendinitis, periartritis, rabdomyolyse.
-  - Lever, galblaas en nieren: leverziekte, geneesmiddelgeïnduceerd leverletsel, galblaasaandoeningen, verminderde nierfunctie.
-  - Bloed: trombocytopenie, leukopenie, pancytopenie, anemie.
-  - Stofwisseling: diabetes mellitus, diabetische ketoacidose, kaliumtekort.
-  - Maag-darmstelsel: Clostridium difficile-colitis, necrotiserende enterocolitis bij pasgeborenen.
-  - Overig: exostose, fasciitis nodularis.
-- **Geneesmiddelinteracties:** Er zijn in totaal 645 interacties bekend. Voorbeelden van **ernstige (major)** interacties zijn tramadol en hydrocortison. Voorbeelden van matige interacties zijn metformine, pioglitazon, ibuprofen, ketorolac, famotidine en ethinylestradiol. Een minder ernstige interactie is er met paclitaxel.
+Raadpleeg voor de overige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) via het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Voor deze indicatie is er geen klinisch bewijs en de enige publicatie betreft een niet-bacteriële verwekker die niet gevoelig is voor fluorochinolonen. De score is dus vooral een computationele voorspelling.
-- De veiligheidsinformatie uit de SmPC is bovendien nog niet verwerkt.
+- Voor deze voorspelling is geen enkele studie beschikbaar die levofloxacine bij deze aandoening onderzoekt; de enige publicatie betreft een verwekker (microsporidia) waartegen fluorochinolonen niet werkzaam zijn. Het bewijsniveau is daarom L5 en de score berust uitsluitend op een computationele voorspelling.
 
 **Om verder te gaan is het volgende nodig:**
-- De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen en beoordelen.
-- Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
-- Vaststellen welke verwekkers bij punctate epitheliale keratoconjunctivitis een rol spelen en of daarvoor een antibacteriële behandeling zinvol is.
-- Gericht zoeken naar klinische studies met oogheelkundige toediening (oogdruppels), omdat de beschikbare Nederlandse registratie een tablet betreft.
+- Gegevens over het werkingsmechanisme van levofloxacine.
+- Studies of casusreeksen die levofloxacine direct bij puntvormige epitheliale keratoconjunctivitis onderzoeken, bij voorkeur met een oogheelkundige toedieningsroute.
+- Beoordeling van de SmPC-waarschuwingen en contra-indicaties voor de beoogde toepassing en toedieningsroute.
+- Bevestiging van de routecompatibiliteit met de in Nederland beschikbare toedieningsvormen (de geregistreerde vorm is een orale tablet).
 
-**Aanvullende opmerking:** Voor twee andere voorspelde indicaties is meer bewijs gevonden dan voor de hier beoordeelde:
-- **Monoklonale gammopathie:** de fase 3-RCT TEAMM (PMID 31668592), die profylaxe tegen infecties bij multipel myeloom betreft. Dit is ondersteunende zorg en geen behandeling van de aandoening zelf.
-- **Septische pest:** vooral dierstudies, o.a. bij Afrikaanse groene apen (PMID 21347450).
-
-Deze kunnen in een afzonderlijk rapport worden beoordeeld.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

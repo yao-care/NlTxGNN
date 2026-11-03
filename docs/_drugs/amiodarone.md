@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amiodarone
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 33
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 monitor_inn: "amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 last_modified_at: 2026-11-03
-description: "Amiodarone: voorspelde nieuwe indicatie Catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia) (bewijsniveau L4)."
+description: "Amiodarone: voorspelde nieuwe indicatie Catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia) (bewijsniveau L5)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,9 +36,9 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **9**
 ## Amiodarone: Catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
-## Samenvatting in het kort
+## Samenvatting in één zin
 
-Amiodaron is een antiaritmicum dat meerdere ionkanalen en de bètareceptor beïnvloedt. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia, CPVT)**. Er zijn **geen klinische studies** en **9 publicaties** over de aandoening zelf gevonden. Geen daarvan bevat amiodaron-specifieke werkzaamheidsgegevens, dus het bewijs voor deze richting is zeer beperkt.
+Amiodaron is een antiaritmicum met werking op meerdere ionkanalen en bètablokkerende eigenschappen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia)**, maar in de voor dit rapport samengestelde gegevens is **geen enkele klinische studie** en **geen enkele publicatie** te vinden die amiodaron bij deze ziekte onderzoekt. De voorspelling berust dus uitsluitend op het model.
 
 ## Snel overzicht
 
@@ -47,33 +47,34 @@ Amiodaron is een antiaritmicum dat meerdere ionkanalen en de bètareceptor beïn
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia) |
 | TxGNN-voorspellingsscore | 0.9978 |
-| Bewijsniveau | L4 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Hold |
+| Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Uit algemene farmacologische kennis: amiodaron heeft een breed antiaritmisch profiel. Het remt kalium-, natrium- en calciumkanalen en heeft een bètablokkerend effect. In theorie kan dat door catecholamines uitgelokte ritmestoornissen onderdrukken.
+Gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis blokkeert amiodaron kalium-, natrium- en calciumkanalen en remt het bètaadrenerge receptoren. Dit zou in theorie ventriculaire ritmestoornissen kunnen onderdrukken die door catecholaminen worden uitgelokt.
 
-CPVT is een zeldzame erfelijke ritmestoornis. Ze wordt veroorzaakt door een lek van calcium uit het sarcoplasmatisch reticulum (RYR2- of CASQ2-mutaties) bij adrenerge stress. De eerstelijnsbehandeling bestaat uit bètablokkers, vaak met flecaïnide. Amiodaron grijpt niet gericht aan op dit mechanisme en is dus geen mechanistisch voor de hand liggende keuze. De hoge modelscore vindt daarom weinig steun in de beschikbare literatuur, die uit registers, casuïstiek en overzichten bestaat.
+De voorspelling is echter mechanistisch zwak onderbouwd. Catecholaminerge polymorfe ventrikeltachycardie (CPVT) wordt veroorzaakt door een diastolisch calciumlek via RYR2- of CASQ2-mutaties. De eerstelijnsbehandeling bestaat uit bètablokkers, aangevuld met flecaïnide. Amiodaron is dus geen mechanistisch gerichte keuze.
 
-## Klinisch studiebewijs
+## Bewijs uit klinische studies
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
+
+De gevonden publicaties beschrijven de ziekte zelf, andere behandelingen of algemene aritmiebehandeling. Geen ervan onderzoekt de werkzaamheid van amiodaron bij CPVT.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematisch overzicht | Life (Basel) | Klinische kenmerken, genetica en ritme-uitkomsten van CPVT-patiënten uit China; geen amiodaron-specifieke gegevens |
-| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Cohort | Reviews in Cardiovascular Medicine | Retrospectief cohort: kenmerken, genetische basis, zorggebruik en kosten bij CPVT |
-| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Review | Expert Opinion on Pharmacotherapy | Algemeen overzicht van medicamenteuze behandeling van ventriculaire ritmestoornissen |
-| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Casus | Pacing and Clinical Electrophysiology | Flecaïnide onderdrukte door ICD-shocks uitgelokte ritme-onrust bij een 14-jarige met CPVT |
-| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Casus | Turk Pediatri Arşivi | Plotselinge hartstilstand bij een tweejarig kind als zeldzame presentatie van CPVT |
-| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Casus | Medicine | Vertraagde diagnose van CPVT met RYR2-mutatie bij een 9-jarig kind |
-| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Casus | Frontiers in Cardiovascular Medicine | Oplossing van CPVT bij een tiener door rechtszijdige cardiale sympathische denervatie na linkszijdige denervatie |
-| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Casus | BMJ Case Reports | Overleving van een jong kind na hartstilstand buiten het ziekenhuis; diagnostisch dilemma en afwijken van standaardreanimatierichtlijnen |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematische review | Life (Basel) | Klinische kenmerken, genetica en aritmie-uitkomsten van CPVT-patiënten uit China |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Cohort | Rev Cardiovasc Med | Klinische kenmerken, genetica en zorggebruik en kosten bij CPVT in een Chinese stad |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Review | Expert Opin Pharmacother | Overzicht van medicamenteuze behandeling van ventriculaire aritmieën |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Casuïstiek | PACE | Flecaïnide onderdrukt defibrillator-geïnduceerde "storming" bij CPVT |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Casuïstiek | Front Cardiovasc Med | Rechtszijdige cardiale sympathische denervatie bij een tiener met CPVT na linkszijdige ingreep |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Casuïstiek | Medicine | Vertraagde diagnose van CPVT met RYR2-mutatie bij een kind van 9 jaar |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Casuïstiek | Turk Pediatri Arsivi | CPVT als zeldzame oorzaak van plotse hartstilstand bij een tweejarige |
 
 ## Informatie over de Nederlandse markt
 
@@ -81,41 +82,37 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 117253 | Amiodaron HCl Aurobindo 200 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
 
-Het CBG-MEB heeft één geldige vergunning voor een eenmalig bestanddeel geregistreerd. Raadpleeg de SmPC voor de goedgekeurde indicaties.
+Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.
 
 ## Veiligheidsoverwegingen
 
-Voor waarschuwingen en contra-indicaties zijn in de verzamelde gegevens geen bruikbare tekstgegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veiligheidsinformatie.
+Voor dit rapport zijn geen gegevens uit de bijsluitertekst beschikbaar over waarschuwingen en contra-indicaties. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor volledige veiligheidsinformatie.
 
-**Geneesmiddelinteracties:** er zijn in totaal 397 interacties gevonden. Voorbeelden van interacties met niveau "Ernstig" (Major):
-- agalsidase beta
+**Geneesmiddelinteracties:** in de samengestelde gegevens zijn 397 interacties vastgelegd. Voorbeelden van interacties van ernstig niveau (Major) zijn:
+- agalsidase bèta
 - hydrocortison
-- dexamethason
-- amfotericine B (meerdere formuleringen)
+- amfotericine B (inclusief de lipide-, liposomale en cholesterylsulfaat-formuleringen)
 - cisapride
 - claritromycine
 - clotrimazol
+- dexamethason
 - dolasetron
 - eliglustat
 
-Voorbeelden van niveau "Matig" (Moderate) zijn famotidine, aprepitant, bisacodyl, budesonide, ricinusolie en cimetidine.
-
-Aanvullend wijzen de gevonden publicaties op bekende neonatale en pediatrische aandachtspunten bij amiodaron, zoals schildklier-effecten en jodiumbelasting.
+Voorbeelden van matige interacties (Moderate) zijn famotidine, aprepitant, bisacodyl, budesonide, ricinusolie en cimetidine.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Er zijn geen klinische studies en geen amiodaron-specifieke werkzaamheidsgegevens bij CPVT.
-- De eerstelijnsbehandeling (bètablokkers, flecaïnide) is mechanistisch gerichter.
-- Amiodaron heeft een belangrijk bijwerkings- en interactieprofiel.
+- Het bewijsniveau is L5: er is geen enkele studie die amiodaron bij CPVT onderzoekt. De voorspelling berust alleen op het model. Bovendien bestaat er voor CPVT al een gerichte eerstelijnsbehandeling (bètablokkers met flecaïnide), en het veiligheidsprofiel van amiodaron is belastend.
 
 **Om verder te gaan is nodig:**
-- Gegevens over het werkingsmechanisme, en een systematische literatuurzoektocht naar amiodaron specifiek bij CPVT.
-- Vergelijkende gegevens met bètablokkers en flecaïnide.
-- Een veiligheids- en monitoringplan, inclusief schildklier-, long-, lever- en QT-bewaking.
-- Beoordeling van de SmPC van het in Nederland geregistreerde product op indicaties, waarschuwingen en contra-indicaties.
+- Gegevens over het werkingsmechanisme en een mechanistische onderbouwing specifiek voor CPVT
+- Preklinisch of klinisch onderzoek dat amiodaron direct bij CPVT onderzoekt
+- Analyse van de SmPC-waarschuwingen en contra-indicaties van het CBG-MEB
+- Een vergelijking met de bestaande eerstelijnsbehandeling
 
 ## Disclaimer
 

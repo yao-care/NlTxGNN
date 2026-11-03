@@ -126,7 +126,7 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -1608,7 +1608,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 6
     },
     {

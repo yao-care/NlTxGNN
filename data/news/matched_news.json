@@ -1,12 +1,25 @@
 {
-  "last_updated": "2026-11-03T13:33:44.938980+00:00",
+  "last_updated": "2026-11-03T22:51:02.763095+00:00",
   "total_count": 8,
   "matched_count": 1,
   "news": [
     {
+      "id": "47fa82f948ee",
+      "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
+      "published": "2026-11-03T18:45:00+00:00",
+      "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "232cae6ab889",
       "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
-      "published": "2026-11-03T13:09:44+00:00",
+      "published": "2026-11-03T14:00:00+00:00",
       "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
@@ -15,6 +28,44 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "db8b78a85790",
+      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
+      "published": "2026-11-03T10:55:36+00:00",
+      "summary": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’&nbsp;&nbsp;Brabants Dagblad",
+      "sources": [
+        {
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "alzheimer",
+          "keyword": "alzheimer",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2e06774c5ad9",
@@ -30,170 +81,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0e7f7a6f92b9",
-      "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
-      "published": "2026-11-01T09:11:00+00:00",
-      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groenten en fruit weg&nbsp;&nbsp;VRTMoeten we de schil van groenten en fruit leren eten? Net datgene wat we vaak weggooien, bevat extra veel vezels&nbsp;&nbsp;De StandaardSchillen e",
-      "sources": [
-        {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e82853b404ee",
-      "title": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren",
-      "published": "2026-10-31T22:00:00+00:00",
-      "summary": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren&nbsp;&nbsp;AD.nlMovember: een maand aandacht voor mentale gezondheid en kanker bij mannen&nbsp;&nbsp;Nationale ZorggidsMovem­ber-cam­pag­ne vraagt wereld­wijd aan­dacht voor gezond­heid van mannen&nbsp;&nbsp;Focus en WTVDat zit wel snor: Go Ahead Eagles komt in actie voor MOVEMBER&nbsp;&nbsp;Het Deventer Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1kwVVNTdTVVNTVCcHNsNHZuLWkzLUdZbnBOWVlBYmd3ZEpSTTZzMXItcHd3b0toV09wR0JBOWJwcU9mZXdmak1kSE8yNnpDd2dWNUUtY0Z0ajh0clJxTDFpNTR5eGhIeWJ5RWtTSTl2d01xM2dySDBpbGdLR3lQUThDNjJtbDRwSDNlTTloNWwwN3JDclhzSEtQcXJtakRuSW9pOHM3ZkMtbmdncTNWZUlybnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "27d8161addc6",
       "title": "Simpele maar dure test bespaart Arianne een onnodige chemokuur, maar lang niet elke arts biedt hem aan",
       "published": "2026-10-31T12:00:35+00:00",
@@ -207,14 +94,14 @@
       "matched_keywords": []
     },
     {
-      "id": "43032835079c",
-      "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’",
-      "published": "2026-10-30T07:00:00+00:00",
-      "summary": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’&nbsp;&nbsp;Libelle",
+      "id": "efc828d8d26a",
+      "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”",
+      "published": "2026-10-31T10:00:00+00:00",
+      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVAProstaatkliniek AZ Sint-Jan Brugge vraagt aandacht voor prostaatonderzoek tijdens Movember: “Een kleine, simpele test kan levens redden” (Krant van West-Vlaanderen)&nbsp;&nbsp;KW.beSchaamte en taboes vertragen de op",
       "sources": [
         {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -236,7 +123,7 @@
       "id": "a5d706d32963",
       "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig",
       "published": "2026-10-28T08:16:18+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de DagMinder dan de helft van de verpleegkundigen en verzorgenden haalt griepprik: 'Ze vergeten dat je anderen kunt bes",
+      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de DagBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;Trouw",
       "sources": [
         {
           "name": "AD.nl",

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terbutaline
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 315
-evidence_level: L1
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: voorspelde nieuwe indicatie Respiratory malformation (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **2**
 
 </div>
 
-## Terbutaline: Respiratory malformation
+## Terbutaline: Respiratoire malformatie (respiratory malformation)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronkelijk wordt gebruikt bij astma en aanverwante luchtwegaandoeningen. Deze voorspelling ligt sterk in het verlengde van de bestaande indicaties en is daarom eerder een uitbreiding binnen dezelfde ziektefamilie dan een echt nieuwe toepassing.
+Terbutaline is een bèta-2-agonist die luchtwegverwijding bewerkt. Het TxGNN-model voorspelt een mogelijke werking bij **respiratoire malformatie (respiratory malformation)**. Hiervoor is **1 klinische studie** (een algemeen farmacokinetisch platform, zonder werkzaamheidsgegevens) en een reeks publicaties beschikbaar die de ziekte zelf niet direct onderzoeken; het bewijs is dus zeer beperkt.
 
 ---
 
@@ -47,62 +47,46 @@ Terbutaline is een selectieve bèta-2-agonist (luchtwegverwijder) die oorspronke
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Respiratory malformation |
+| Voorspelde nieuwe indicatie | Respiratoire malformatie (respiratory malformation) |
 | TxGNN-voorspellingsscore | 0.9952 |
-| Evidentieniveau | L1 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Proceed with Guardrails (doorgaan onder voorwaarden) |
+| Aanbevolen beslissing | Hold |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Terbutaline is een selectieve bèta-2-adrenerge agonist. Activering van bèta-2-receptoren op gladde spiercellen van de luchtwegen verhoogt het cAMP-gehalte en leidt tot bronchodilatatie. Dit pakt direct de reversibele luchtwegobstructie aan bij astma en COPD. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de data, maar het bèta-2-agonistmechanisme is goed gevestigd.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Terbutaline is een bèta-2-adrenerge agonist; via bèta-2-receptoren ontspant het de gladde spiercellen van de luchtwegen en kan het functionele luchtwegobstructie of hyperreactiviteit verminderen.
 
-Het gaat dus om een uitbreiding binnen dezelfde ziektefamilie. De literatuur bevat bovendien gerandomiseerde, placebogecontroleerde studies naar terbutaline bij COPD, waarin effecten op longfunctie, inspanningsvermogen en diafragmafunctie zijn onderzocht.
+Bij structurele afwijkingen van de luchtwegen kan zo'n functionele component de klachten verergeren. Bronchodilatatie zou die component mogelijk verlichten, maar corrigeert de malformatie zelf niet.
 
-**Overige voorspellingen met zwakke onderbouwing:**
-- **Respiratoire malformatie** (score 0,9952, evidentieniveau L4, besluit: Hold): terbutaline kan functionele luchtwegobstructie verlichten, maar corrigeert de malformatie niet. De gevonden literatuur gaat vooral over differentiële diagnostiek en niet-gerelateerde onderwerpen. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten; het is geen biologisch bewijs.
-- **Rienhoff-syndroom** (score 0,9938, evidentieniveau L5, besluit: Hold): er zijn geen studies of publicaties, en er is geen plausibele mechanistische link. De voorspelling is waarschijnlijk een artefact van graafconnectiviteit.
+De gevonden literatuur biedt geen ziektespecifieke therapeutische onderbouwing. De hoge modelscore weerspiegelt waarschijnlijk vooral netwerknabijheid tot respiratoire termen, en niet een aangetoond therapeutisch effect.
 
 ---
 
-## Klinisch studiebewijs
-
-De tabel hieronder toont de meest relevante studies voor de hoofdvoorspelling (obstructieve longziekte). In de meeste studies is terbutaline een comparator of rescue-medicatie en niet het primaire onderzoeksmiddel.
+## Bewijs uit klinische studies
 
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Fase 3 | Afgerond | 4215 | Symbicort "naar behoefte" vergeleken met Pulmicort tweemaal daags plus terbutaline naar behoefte bij astma; terbutaline als actieve reliever-comparator |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Fase 3 | Afgerond | 3850 | Symbicort naar behoefte vs. terbutaline naar behoefte vs. Pulmicort plus terbutaline bij astma; terbutaline als directe comparator |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Fase 3 | Afgerond | 120 | Intraveneus magnesiumsulfaat vs. terbutaline bij kinderen met acute astma-exacerbatie |
-| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Fase 3 | Afgerond | 860 | Budesonide/formoterol naar behoefte vs. regulier gebruik plus terbutaline naar behoefte bij milde tot matige persisterende astma |
-| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Fase 3 | Afgerond | 1600 | Symbicort-enkelvoudige-inhalatortherapie (SMART) vs. gebruikelijke best practice bij persisterende astma; terbutaline waarschijnlijk als reliever |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Fase 3 | Afgerond | 95 | Cross-overstudie naar de beschermende werking van Bricanyl Turbuhaler M3 vs. M2 tegen methacholine-geïnduceerde bronchoconstrictie bij milde tot matige astma |
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Fase 3 | Afgerond | 24 | Relatieve werkzaamheid van terbutaline Turbuhaler 0,4 mg versus salbutamol-pMDI 200 µg bij Japanse volwassenen met astma |
-| [NCT00837967](https://clinicaltrials.gov/study/NCT00837967) | Fase 3 | Afgerond | 25 | Verdraagbaarheid van 10 inhalaties Symbicort versus 10 inhalaties terbutaline bovenop Symbicort bij Japanse volwassenen met astma |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Fase 3 | Afgerond | 2091 | Symbicort SMART vs. Symbicort plus terbutaline naar behoefte bij astma (12 maanden, dubbelblind) |
-| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Fase 3 | Afgerond | 315 | Symbicort Turbuhaler plus Bricasol (terbutaline) pMDI vs. Pulmicort plus Bricasol pMDI bij Chinese COPD-patiënten |
-
-Een aanvullende studie ([NCT04973345](https://clinicaltrials.gov/study/NCT04973345), fase 2/3, blootstelling-responsrelatie van terbutaline) is ingetrokken zonder inclusie en levert geen bruikbaar bewijs.
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N.v.t. | Werft patiënten | 5000 | Breed farmacokinetisch- en veiligheidsplatform voor onvoldoende onderzochte geneesmiddelen bij kinderen; gericht op dosering, niet op respiratoire malformatie en zonder werkzaamheidsgegevens |
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | Budesonide-formoterol naar behoefte bij milde astma als alternatief voor conventionele behandelstrategieën |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Orale terbutaline verhoogde de kracht van het diafragma bij COPD-patiënten ten opzichte van placebo (dubbelblind, cross-over) |
-| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | Int J Clin Pharmacol Ther Toxicol | Orale clenbuterol vergeleken met terbutaline bij chronische obstructieve longziekte; bronchodilaterende werking gemeten via FEV1 en luchtwegweerstand |
-| [23348973](https://pubmed.ncbi.nlm.nih.gov/23348973/) | 2013 | Review | Am J Respir Crit Care Med | Overzicht van bèta-2-agonisten: kortwerkende middelen, waaronder terbutaline, geven snelle symptoomverlichting |
-| [36227333](https://pubmed.ncbi.nlm.nih.gov/36227333/) | 2023 | Systematische review | Naunyn-Schmiedeberg's Arch Pharmacol | Farmacokinetiek van terbutaline bij mensen; gebruikt bij bronchospasme bij astma, bronchitis, emfyseem en COPD |
-| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Acad Emerg Med | Vernevelde terbutaline met ipratropiumbromide vs. terbutaline alleen bij acute COPD-exacerbatie met niet-invasieve beademing |
-| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | Klinische studie | Lung | Eenmalige dosis terbutaline (Bricanyl Turbuhaler) op longfunctie en inspanningsvermogen bij COPD (placebogecontroleerd, cross-over) |
-| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | Klinische studie | Respir Med | Geïnhaleerde terbutaline op FEV1, FVC, dyspneu en loopafstand bij COPD (placebogecontroleerd, cross-over) |
-| [33065789](https://pubmed.ncbi.nlm.nih.gov/33065789/) | 2020 | Klinische studie | Ann Palliat Med | N-acetylcysteïne gecombineerd met terbutaline bij oudere COPD-patiënten |
-| [2951811](https://pubmed.ncbi.nlm.nih.gov/2951811/) | 1986 | Klinische studie | Respiration | Vergelijking van fenoterol-ipratropium met terbutaline bij chronische obstructieve longziekte |
+| [3281307](https://pubmed.ncbi.nlm.nih.gov/3281307/) | 1988 | RCT | Thorax | Subcutaan adrenaline versus terbutaline bij acuut ernstig astma (n=20); geen studie naar malformaties |
+| [1629507](https://pubmed.ncbi.nlm.nih.gov/1629507/) | 1992 | Klinische studie (gerandomiseerd) | J Allergy Clin Immunol | Budesonide versus terbutaline bij nieuw gediagnosticeerd astma; effect op klachten, longfunctie en ontsteking |
+| [12061354](https://pubmed.ncbi.nlm.nih.gov/12061354/) | 2002 | Observationeel | Acta Paediatr | Centrale luchtwegstenose bij schoolkinderen: differentiaaldiagnose ten opzichte van astma; geen behandeleffect van terbutaline |
+| [42303000](https://pubmed.ncbi.nlm.nih.gov/42303000/) | 2026 | Cohort | Respir Med | Langetermijnbehandeling van zuigelingen met postinfectieuze bronchiolitis obliterans; geen malformatie |
+| [1620986](https://pubmed.ncbi.nlm.nih.gov/1620986/) | 1992 | Observationeel | Respiration | Inhalatie van terbutaline maakte afwijkende ademhalingsimpedantie bij chronische bronchitis acuut omkeerbaar |
+| [8327281](https://pubmed.ncbi.nlm.nih.gov/8327281/) | 1993 | Methodologisch | Pediatr Pulmonol | Analysemethode voor stroom-volumecurves bij prematuren na terbutaline; geen klinisch effect op malformaties |
+| [11813927](https://pubmed.ncbi.nlm.nih.gov/11813927/) | 2001 | Casusreeks | Cardiol Young | Terbutaline bij foetaal compleet hartblok; niet gerelateerd aan de voorspelde indicatie |
+
+Geen van deze publicaties onderzoekt respiratoire malformatie als ziekte direct.
 
 ---
 
@@ -112,39 +96,37 @@ Een aanvullende studie ([NCT04973345](https://clinicaltrials.gov/study/NCT049733
 |---------|------|------|-----------|
 | RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | Inhalatiepoeder | Niet beschikbaar |
 
-Voor terbutaline is in de data van CBG-MEB momenteel 1 geldige vergunning (van de 1 vergunning) geregistreerd; het middel is in Nederland op de markt.
+Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig. De volledige indicatietekst staat in de SmPC.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Voor dit rapport zijn geen gegevens uit de officiële productinformatie (SmPC) beschikbaar over waarschuwingen en contra-indicaties. Raadpleeg de SmPC voor de veiligheidsinformatie.
+**Geneesmiddelinteracties:** in de samengestelde gegevens zijn 599 interacties geregistreerd. Voorbeelden van matige interacties zijn:
+- acarbose, alogliptine, pioglitazon, canagliflozine en chloorpropamide (antidiabetica; bèta-2-agonisten kunnen de bloedglucose verhogen)
+- epinefrine
+- famotidine
+- clarithromycine
+- loperamide, bisacodyl en picosulfaat
 
-**Aandoeningen waarbij terbutaline als contra-indicatie wordt genoemd (kennisgraaf, geen bijsluitertekst):**
-hypertensie, epilepsie, hyperglykemie, kaliumtekort, diabetes mellitus, diabetische ketoacidose, plotselinge hartstilstand, hartgeleidingsstoornissen, respiratoir falen, hyperthyreoïdie (inclusief ziekte van Graves en thyreotoxicose), longoedeem, myocardischemie, coronaire hartziekte en placenta-abruptie.
+Corticosteroïden (hydrocortison, triamcinolon, dexamethason, beclometasondipropionaat, betamethason, budesonide) zijn als lichte interacties aangemerkt.
 
-**Geneesmiddelinteracties:** in totaal zijn 599 interacties geregistreerd. Voorbeelden:
-- **Matig:** epinefrine, acarbose, famotidine, isometheptene, albiglutide, alogliptine, pioglitazon, canagliflozine, chloorpropamide, clarithromycine, loperamide, bisacodyl
-- **Licht:** hydrocortison, triamcinolon, dexamethason, beclometasondipropionaat, betamethason, budesonide
-
-Bij combinatie met antidiabetica is extra aandacht voor de bloedglucose nodig. Dat geldt ook voor combinatie met bèta-blokkers, die de werking van terbutaline kunnen tegengaan (zie studie PMID 6107217).
+**Voorzichtigheid bij bepaalde aandoeningen:** de samengestelde gegevens duiden op risico's bij onder meer hypertensie, epilepsie, hyperglykemie, diabetische ketoacidose, kaliumtekort, hartgeleidingsstoornissen, plotse hartstilstand, myocardischemie, coronaire hartziekte, hyperthyreoïdie (inclusief ziekte van Graves en thyreotoxicose), longoedeem, ademhalingsfalen en placentaloslating. Dit is geen tekst uit de bijsluiter; raadpleeg de SmPC voor de officiële contra-indicaties en waarschuwingen.
 
 ---
 
-## Conclusie en vervolgstappen
+## Conclusie en volgende stappen
 
-**Besluit: Proceed with Guardrails (doorgaan onder voorwaarden)**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Meerdere afgeronde fase 3-studies (waaronder grote studies met 3850 en 4215 deelnemers) en gerandomiseerde COPD-studies ondersteunen het gebruik van terbutaline bij obstructieve luchtwegaandoeningen. In de meeste studies is terbutaline echter comparator of reliever en niet het primaire testmiddel. Omdat de voorspelling grotendeels samenvalt met bestaande indicaties, is de winst als herpositionering beperkt.
-- De Nederlandse vergunning is doorgehaald. Voor toepassing in Nederland is dus eerst een nieuwe of herstelde registratie nodig.
+- Er is geen studie of publicatie die respiratoire malformatie direct onderzoekt, waardoor het bewijsniveau L5 is (alleen modelvoorspelling). Het bronchodilaterende effect kan hooguit een functionele component verlichten, niet de structurele afwijking.
 
 **Om verder te gaan is nodig:**
-- Productinformatie (SmPC) van CBG-MEB met waarschuwingen en contra-indicaties, en de goedgekeurde indicatietekst
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Beoordeling van de marktpositie en registratiestatus in Nederland (1 geldige vergunning van 1)
-- Een veiligheidsmonitoringplan voor patiënten met hart- en vaatziekten, diabetes en hyperthyreoïdie
-- Voor de voorspellingen respiratoire malformatie en Rienhoff-syndroom: eerst een mechanistische hypothese en preklinische validatie; voorlopig Hold
+- Een ziektespecifieke mechanistische hypothese, met preklinische onderbouwing
+- Gegevens over het werkingsmechanisme en de officiële veiligheidsinformatie uit de SmPC van het CBG-MEB
+- Klinische gegevens bij patiënten met structurele luchtwegafwijkingen, met aandacht voor de veiligheid bij kinderen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

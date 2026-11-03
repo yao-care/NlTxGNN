@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 108
-evidence_level: L2
+evidence_level: L5
 indication_count: 9
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-03
-description: "Dexamethasone: voorspelde nieuwe indicatie Alopecia mucinosa (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,90 @@ Bewijsniveau: **L2** | Voorspelde indicaties: **9**
 
 </div>
 
-## Dexamethasone: Alopecia mucinosa
+## Dexamethasone: Folliculaire mucinose (alopecia mucinosa)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Dexamethason is een krachtig corticosteroïd dat de immuunreactie remt. Deze richting wordt momenteel ondersteund door **1 gerandomiseerde studie (RCT)**, **1 systematische review met netwerkmeta-analyse** en diverse observationele studies en case series uit de literatuur. Er zijn geen geregistreerde klinische trials in de aangeleverde gegevens.
+Dexamethason is een synthetisch glucocorticoïd met een ontstekingsremmende en immunosuppressieve werking. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **folliculaire mucinose (alopecia mucinosa)**. Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden in de voor dit rapport samengestelde gegevens, dus de voorspelling berust alleen op het model.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Alopecia mucinosa |
+| Voorspelde nieuwe indicatie | Folliculaire mucinose (alopecia mucinosa) |
 | TxGNN-voorspellingsscore | 0.9999 |
-| Evidentieniveau | L2 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
 | Aantal vergunningen | 4 (geldig: 4) |
-| Aanbevolen beslissing | Doorgaan met randvoorwaarden |
+| Aanbevolen besluit | Hold |
 
-## Waarom is deze voorspelling redelijk?
+---
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van de bekende farmacologie is dexamethason een krachtig glucocorticoïd dat ontstekings- en immuunreacties onderdrukt.
+## Waarom is deze voorspelling aannemelijk?
 
-Alopecia areata is een auto-immuunziekte waarbij cytotoxische T-cellen het immuunprivilege van de haarfollikel doorbreken. Glucocorticoïden verminderen de activatie van T-cellen, de productie van ontstekingscytokines (zoals IFN-gamma) en de lymfocytaire infiltratie rond de follikel. Orale "mini-pulse"-behandeling met dexamethason wordt gebruikt als regime bij matige tot ernstige ziekte. De belangrijkste beperkingen zijn terugval na het stoppen en de cumulatieve bijwerkingen van steroïden.
+Gegevens over het werkingsmechanisme van dexamethason zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Dexamethason behoort tot de glucocorticoïden, die ontstekingsprocessen en immuunreacties onderdrukken.
 
-## Evidentie uit klinische trials
+Folliculaire mucinose gaat gepaard met ontstekingsinfiltraten rond de haarfollikels en met mucineafzetting. Een ontstekingsremmend corticosteroïd is daarom theoretisch aannemelijk. Er is echter geen direct bewijs voor dexamethason bij deze aandoening. De hoge modelscore weerspiegelt waarschijnlijk vooral de nabijheid van deze aandoening tot andere haarverliesaandoeningen in het model. Ze is geen bewijs van klinische werkzaamheid.
 
-Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
+---
 
-## Evidentie uit de literatuur
+## Bewijs uit klinische studies
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [36086930](https://pubmed.ncbi.nlm.nih.gov/36086930/) | 2022 | RCT | Dermatologic Therapy | Gerandomiseerde open-label studie bij 30 kinderen met ernstige alopecia areata: orale mini-pulse met laaggedoseerd dexamethason vergeleken met contactsensibilisatie met difenylcyclopropenon (DPCP) |
-| [39042154](https://pubmed.ncbi.nlm.nih.gov/39042154/) | 2024 | Systematische review/netwerkmeta-analyse | Archives of Dermatological Research | Vergelijking van systemische steroïden, orale JAK-remmers en contactimmunotherapie bij ernstige alopecia areata |
-| [35330017](https://pubmed.ncbi.nlm.nih.gov/35330017/) | 2022 | Prospectief cohort | Journal of Clinical Medicine | Effectiviteit en veiligheid van orale mini-pulse corticosteroïden in de praktijk, met factoren die samenhangen met succesvolle respons |
-| [36070222](https://pubmed.ncbi.nlm.nih.gov/36070222/) | 2022 | Klinische (multicentrische) studie | Dermatologic Therapy | Orale mini-pulse dexamethason bij matige tot ernstige alopecia areata |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Review | Pediatric Dermatology | Doseringsschema's en bijwerkingen van pulsdosis-corticosteroïden bij kinderen met alopecia areata |
-| [41872082](https://pubmed.ncbi.nlm.nih.gov/41872082/) | 2026 | Cohort/klinische studie | European Journal of Dermatology | Stapsgewijze strategie met topische corticosteroïden en dexamethason-pulsen als "rescue" bij baricitinib bij ernstige alopecia areata (19 patiënten) |
-| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Langetermijn follow-upstudie | Dermatologic Therapy | Gecombineerde orale pulse- en topische corticosteroïdtherapie bij 65 kinderen/adolescenten met ernstige alopecia areata |
-| [31579982](https://pubmed.ncbi.nlm.nih.gov/31579982/) | 2019 | Prospectieve studie | Dermatologic Therapy | Vergelijking van 1-daagse en 3-daagse intraveneuze dexamethason-pulsen plus topische clobetasol bij 73 kinderen |
-| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Case report | Journal of Dermatological Treatment | Duurzame remissie met orale mini-pulse dexamethason wanneer JAK-remmers geen optie zijn |
-| [10535249](https://pubmed.ncbi.nlm.nih.gov/10535249/) | 1999 | Klinische studie (kleine serie) | Journal of Dermatology | Orale pulse van 5 mg dexamethason, twee keer per week, bij 30 patiënten met uitgebreide alopecia areata |
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+Momenteel is er geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
 
-De lokale vergunningsgegevens bevatten geen vermelding van toegelaten indicaties of toedieningsvormen. De vergunningstabel wordt door het programma toegevoegd.
+Volgens de gegevens van het CBG-MEB zijn alle 4 vergunningen geldig. De vergunningsteksten bevatten geen geregistreerde indicatietekst. De goedgekeurde indicatie is dus niet vastgelegd in de lokale gegevens.
+
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 56080 | Dexamethason Teva 1,5 mg, tabletten | Tablet | Niet vastgelegd in de lokale gegevens |
+| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | Oogdruppels, suspensie | Niet vastgelegd in de lokale gegevens |
+| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | Oogdruppels, suspensie | Niet vastgelegd in de lokale gegevens |
+| RVG 119601//11301 | Dexamytrex 0,3 en 5 mg/g oogzalf | Oogzalf | Niet vastgelegd in de lokale gegevens |
+
+Drie van de vier producten zijn oogpreparaten. Zij zeggen niets over de systemische toepassing van dexamethason.
+
+---
 
 ## Veiligheidsoverwegingen
 
-- **Geneesmiddelinteracties**: In de gegevens zijn in totaal 3859 interacties vastgelegd. Voorbeelden van ernstige (Major) interacties zijn fentanyl en adalimumab. Matige interacties zijn onder meer paclitaxel, zidovudine, abemaciclib, isotretinoïne, ibuprofen, ketorolac en nifedipine.
+- **Geneesmiddelinteracties**: Er zijn 3.859 interacties vastgelegd. Als ernstig (Major) zijn aangemerkt:
+  - fentanyl
+  - adalimumab
 
-Raadpleeg voor de overige veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) van het betreffende product via het CBG-MEB.
+  Daarnaast zijn veel interacties van matig niveau (Moderate) vastgelegd, onder andere met paclitaxel, abemaciclib, isotretinoïne, ibuprofen, nifedipine, ketorolac, codeïne en zidovudine. Dolutegravir, lidocaïne en formoterol zijn als licht (Minor) aangemerkt.
+- Voor waarschuwingen en contra-indicaties verwijzen wij naar de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) van de betreffende producten.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met randvoorwaarden**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Er is een directe RCT bij kinderen met ernstige alopecia areata, aangevuld met een netwerkmeta-analyse, prospectieve cohorten en een multicentrische studie naar orale mini-pulse dexamethason. Het bewijs is echter beperkt in omvang (kleine RCT, open-label), er zijn geen geregistreerde trials, en terugval en steroïdbijwerkingen zijn belangrijke beperkingen.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties over dexamethason bij folliculaire mucinose.
+- Systemisch gebruik van een immunosuppressief corticosteroïd brengt bekende risico's met zich mee, die zonder aangetoond voordeel moeilijk te rechtvaardigen zijn.
 
-**Om verder te gaan is nodig:**
-- Gegevens over het werkingsmechanisme en de SmPC-veiligheidsinformatie (waarschuwingen en contra-indicaties) van het CBG-MEB.
-- Een grotere, bij voorkeur dubbelblinde gerandomiseerde studie met langetermijn-follow-up voor terugvalpercentages.
-- Een veiligheidsmonitoringplan voor cumulatieve steroïdblootstelling, vooral bij kinderen.
-- Vergelijking met JAK-remmers (zoals baricitinib) om de plaats in de behandelstrategie te bepalen.
-- Bevestiging van de actuele vergunningsstatus en beschikbare toedieningsvormen in Nederland.
+**Om verder te gaan is het volgende nodig:**
+- Een systematische literatuursearch en casuïstiek over corticosteroïden bij folliculaire mucinose.
+- Gegevens over het werkingsmechanisme van dexamethason en over de pathogenese van deze aandoening.
+- Een beoordeling van de toedieningsroute (lokaal, intralesionaal of systemisch) en van de beschikbare Nederlandse producten.
+- Een volledige veiligheidsbeoordeling op basis van de SmPC van de relevante producten.
+- Indien de beoordeling gunstig is: een klein verkennend klinisch onderzoek, afgestemd met het CBG-MEB.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

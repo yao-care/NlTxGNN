@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-description: "Haloperidol: voorspelde nieuwe indicatie Congenital disorder of glycosylation with defective fucosylation (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Haloperidol: voorspelde nieuwe indicatie Congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation) (bewijsniveau L5)."
 ---
 
 # Haloperidol
@@ -33,40 +33,48 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Haloperidol: Congenital disorder of glycosylation with defective fucosylation
+## Haloperidol: Congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation)
 {: .text-alpha }
 
-## Samenvatting in één oogopslag
+## Samenvatting in één zin
 
-Haloperidol is een antipsychoticum dat oorspronkelijk wordt gebruikt bij psychotische stoornissen, schizofrenie en het syndroom van Gilles de la Tourette. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij een **congenitale glycosylatiestoornis met defecte fucosylering**. Voor deze voorspelling zijn **geen klinische studies** en **geen publicaties** gevonden, dus het is een zuivere modelvoorspelling.
+Haloperidol is een antipsychoticum dat de dopamine-D2-receptor blokkeert. Het TxGNN-model voorspelt een mogelijk effect bij **congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation)**, maar er zijn **geen klinische studies** en **geen publicaties** die deze richting ondersteunen. De voorspelling berust uitsluitend op een modelscore.
+
+---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Congenital disorder of glycosylation with defective fucosylation |
+| Voorspelde nieuwe indicatie | Congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Hold |
+| Aanbevolen beslissing | Hold |
+
+---
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Haloperidol is een dopamine-D2-antagonist. Dit effect verklaart de werking bij psychose. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens.
+Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Haloperidol staat bekend als dopamine-D2-antagonist, maar er is geen bekend verband tussen D2-blokkade en fucosylatieroutes. Er is geen mechanistische schakel gevonden tussen het geneesmiddel en deze aandoening.
 
-Er is **geen herkenbaar mechanistisch verband** gevonden tussen dopamine-D2-blokkade en fucosylatieroutes. Een congenitale glycosylatiestoornis is een erfelijke metabole aandoening, en haloperidol heeft geen bekende werking op dit proces.
+De hoge score is een voorspelling op basis van een model en geen aanwijzing voor werkzaamheid. Zonder onderliggend preklinisch of klinisch bewijs kan de voorspelling niet als onderbouwd worden beschouwd.
 
-*Opmerking:* de gegevens bevatten ook andere voorspelde indicaties. Eén daarvan, **manische bipolaire stoornis**, heeft veel sterker bewijs (onder meer een afgeronde fase 3-studie met haloperidol als vergelijkend middel en netwerk-meta-analyses). Dit betreft echter geen nieuwe herpositionering, maar een reeds gevestigd gebruik. Deze indicatie verdient een afzonderlijke beoordeling.
+---
 
-## Klinisch studiebewijs
+## Bewijs uit klinische studies
 
-Momenteel geen gerelateerde klinische studies geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
-## Literatuurbewijs
+---
 
-Momenteel geen gerelateerde literatuur beschikbaar.
+## Bewijs uit de literatuur
+
+Er is momenteel geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
 
@@ -74,30 +82,31 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|------|
 | RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml | Oplossing voor injectie | Geldig |
 
-Controleer de actuele beschikbaarheid en eventuele andere handelsvormen (bijvoorbeeld via het Geneesmiddeleninformatiebank van het CBG-MEB of EMA).
+Voor dit product is een geldige vergunning geregistreerd bij het CBG-MEB. Raadpleeg de SmPC en de bijsluiter voor de officiële productinformatie.
+
+---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (afkomstig uit relaties tussen geneesmiddel en ziekte, geen bijsluitertekst): 
-  - Hartritme: lang-QT-syndroom (ook familiair) en torsades de pointes.
-  - Zenuwstelsel: epilepsie, aandoeningen van de basale kernen, focale handdystonie, blefarospasme en maligne neurolepticasyndroom.
-  - Bloedbeeld: neutropenie (waaronder diverse congenitale vormen), agranulocytose en leukopenie.
-  - Overig: leveraandoeningen, galblaasaandoeningen, hypothyreoïdie, myxoedeem, kaliumdeficiëntie, hypotensie en borstkanker bij vrouwen.
-- **Geneesmiddelinteracties:** in totaal zijn 100 interacties gevonden. Van de eerste 20 zijn de belangrijkste (ernstig niveau) **bupropion, morfine, claritromycine en dolasetron**. Daarnaast zijn er interacties van matig niveau, onder meer met famotidine, epinefrine, hydrocortison, amfotericine B, atropine, loperamide en aprepitant.
+- **Geneesmiddelinteracties**: in de compilatie zijn 100 interacties gevonden. Voorbeelden van interacties met het niveau "Major" zijn bupropion, morfine, claritromycine en dolasetron. Interacties van niveau "Moderate" zijn onder andere famotidine, epinefrine, hydrocortison, amfotericine B, atropine, loperamide en aprepitant.
 
-Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken).
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op een model (L5). Er is geen klinisch of literatuurbewijs, er is geen aannemelijk mechanisme, en de enige Nederlandse registratie is doorgehaald.
+- Er is geen klinisch of literatuurbewijs voor haloperidol bij deze aandoening en er is geen mechanistische verklaring. Het bewijsniveau is L5 (alleen modelvoorspelling).
 
-**Om verder te gaan is nodig:**
-- Een mechanistische hypothese voor een effect van D2-antagonisme op fucosylatieroutes, met preklinisch bewijs.
-- Aanvullende gegevens over het werkingsmechanisme.
-- Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties), met name over QT-verlenging, maligne neurolepticasyndroom en extrapiramidale bijwerkingen.
+**Om verder te kunnen gaan is het volgende nodig:**
+- Een plausibele mechanistische hypothese die D2-antagonisme of een ander effect van haloperidol koppelt aan fucosylatieroutes
+- Preklinisch bewijs (bijvoorbeeld in cel- of diermodellen) voor deze aandoening
+- Gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC
+- Een beoordeling van de veiligheid en haalbaarheid in de beoogde patiëntengroep, waaronder een mogelijk zeldzame, pediatrische populatie
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

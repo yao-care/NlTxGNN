@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-03
-description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse scleroderma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Chloramphenicol
@@ -33,79 +33,97 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-## Chloramphenicol: Diffuse scleroderma
+## Chloramphenicol: Diffuse sclerodermie (diffuse scleroderma)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Chloramphenicol is een breedspectrum bacteriostatisch antibioticum. Hiervoor zijn in de samengestelde gegevens **geen geregistreerde klinische studies**, maar wel **19 publicaties** beschikbaar, voornamelijk overzichtsartikelen en enkele vergelijkende studies.
+Chloramfenicol is een breedspectrumantibioticum dat de bacteriële eiwitsynthese remt. Het TxGNN-model voorspelt een mogelijk effect bij **diffuse sclerodermie (diffuse scleroderma)**, maar hiervoor zijn **geen klinische studies** en slechts **4 publicaties** beschikbaar, uitsluitend laboratoriumonderzoek (in vitro) naar collageenregulatie in fibroblasten. Het bewijs is daarmee beperkt tot een modelvoorspelling.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Diffuse scleroderma |
+| Voorspelde nieuwe indicatie | Diffuse sclerodermie (diffuse scleroderma) |
 | TxGNN-voorspellingsscore | 0.9965 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
+| Aanbevolen beslissing | Hold |
+
+---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Chloramphenicol is bekend als breedspectrum bacteriostatisch antibioticum dat de bacteriële 50S-ribosomale subunit remt en daarmee de eiwitsynthese van bacteriën blokkeert.
+Voor chloramfenicol zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. Chloramfenicol is een antibioticum waarvan de werking berust op remming van de bacteriële eiwitsynthese. Een directe farmacologische link met sclerodermie, een auto-immuun- en fibrotische bindweefselziekte, is niet aangetoond.
 
-Bacteriële conjunctivitis is een oppervlakkige ooginfectie door gevoelige bacteriën. De link met het mechanisme is dus rechtstreeks: het gaat om directe antibacteriële werking, niet om een nieuw werkingsmechanisme. Lokaal oogtoegediend chloramphenicol wordt in meerdere landen al gebruikt voor deze aandoening, onder meer in het Verenigd Koninkrijk. Dit is daarom eerder een reeds bekend gebruik dan echte herpositionering.
+De aangeleverde publicaties gaan over de regulatie van het collageengen (alfa-1(I)-procollageenpromotor, Smad3/Sp1/p300, TGF-bèta-signalering) in fibroblasten van sclerodermiepatiënten. Het zijn mechanistische laboratoriumstudies. Uit de titels blijkt niet dat chloramfenicol zelf is getest. Mogelijk speelt een artefact mee: chloramfenicol-acetyltransferase wordt veel gebruikt als reportergen in dit type onderzoek. De hoge modelscore wordt daardoor waarschijnlijk veroorzaakt door deze overlap en niet door een farmacologisch effect.
+
+Er is geen klinisch bewijs dat chloramfenicol bij diffuse sclerodermie werkt. Dit is dus een hypothese zonder onderbouwing.
+
+---
 
 ## Bewijs uit klinische studies
 
-Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze voorspelde indicatie.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+
+---
 
 ## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Vergelijkende studie | Current Therapeutic Research | Vergelijking van moxifloxacine en chloramphenicol bij bacteriële ooginfecties |
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Review (Cochrane) | Cochrane Database of Systematic Reviews | Interventies ter preventie van ophthalmia neonatorum (neonatale conjunctivitis) |
-| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Vergelijkend overzicht van 16 oogheelkundige antibacteriële preparaten |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Review | Drug Safety | Discussie over een mogelijk verband tussen oculair chloramphenicol en aplastische anemie |
-| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review | Eye (London) | Gebruik of misbruik van lokaal chloramphenicol |
-| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Review | Clinical & Experimental Ophthalmology | Vrij verkrijgbaar chloramphenicol voor de ogen |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Gerandomiseerde single-blind vergelijking | Acta Ophthalmologica | Klinisch succes 84% met fusidinezuur versus 81% met chloramphenicol; meer milde bijwerkingen met chloramphenicol |
-| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clinical Pharmacokinetics | Behandeling van ooginfecties met lokale antibacteriële middelen |
+| [8702443](https://pubmed.ncbi.nlm.nih.gov/8702443/) | 1996 | In vitro | Arthritis and Rheumatism | Transcriptionele regulatie van het COL1A1-gen in dermale fibroblasten van patiënten met diffuse systemische sclerose; rol van intronsequenties |
+| [9811061](https://pubmed.ncbi.nlm.nih.gov/9811061/) | 1998 | In vitro | Arthritis and Rheumatism | Identificatie van promotorelementen en transcriptiefactoren die betrokken zijn bij de verhoogde COL1A1-expressie bij systemische sclerose |
+| [11229480](https://pubmed.ncbi.nlm.nih.gov/11229480/) | 2001 | In vitro | Arthritis and Rheumatism | Blokkade van TGF-bèta-signalering voorkomt verhoogde collageensynthese in sclerodermafibroblasten |
+| [16319104](https://pubmed.ncbi.nlm.nih.gov/16319104/) | 2006 | In vitro | Rheumatology (Oxford) | Constitutief gefosforyleerd Smad3 werkt samen met Sp1 en p300 in sclerodermafibroblasten |
+
+Geen van deze studies toont aan dat chloramfenicol een therapeutisch effect heeft bij sclerodermie.
+
+---
 
 ## Informatie over de Nederlandse markt
 
-De gegevens over de Nederlandse vergunningen worden door het programma toegevoegd.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | Niet vermeld | Niet vermeld in de lokale gegevens |
+
+Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.
+
+---
 
 ## Veiligheidsoverwegingen
 
-Voor chloramphenicol zijn de volgende aandoeningen in de samengestelde gegevens als mogelijke contra-indicaties of risicosituaties gemarkeerd (niet afkomstig uit de bijsluitertekst):
+Voor dit rapport zijn geen gegevens uit de bijsluiter of SmPC beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor volledige veiligheidsinformatie.
 
-- **Bloed en beenmerg**: trombocytopenie, anemie, aplastische anemie, agranulocytose, neutropenie (inclusief aangeboren vormen), paroxismale nachtelijke hemoglobinurie
-- **Lever, nieren en galblaas**: leverziekte, nierziekte, galblaasziekte
-- **Zenuwstelsel**: perifere neuropathie, perifere zenuwstelselziekte, optische neuritis
-- **Overig**: acute intermitterende porfyrie
+Aanvullend is bekend dat chloramfenicol bij systemisch gebruik geassocieerd is met beenmergsuppressie en bloedbeeldafwijkingen. Dit is relevant bij een chronische ziekte als sclerodermie. Relaties die in de beschikbare gegevens als contra-indicatie voor chloramfenicol zijn gemarkeerd, betreffen onder meer:
 
-In de literatuur wordt een mogelijk (omstreden) verband besproken tussen lokaal oculair gebruik en zeldzame, idiosyncratische aplastische anemie.
+- **Bloed- en beenmergaandoeningen**: bloedarmoede (waaronder aplastische anemie), trombocytopenie, agranulocytose, neutropenie, paroxismale nachtelijke hemoglobinurie
+- **Lever- en nieraandoeningen**, en aandoeningen van de galblaas
+- **Zenuwaandoeningen**: perifere neuropathie, neuritis optica
+- **Stofwisselingsziekte**: acute intermitterende porfyrie
 
-**Geneesmiddelinteracties**: in totaal zijn 741 interacties gevonden. Voorbeelden van ernstige (Major) interacties zijn cisapride en naloxegol. Matige interacties betreffen onder meer metronidazol, budesonide, glimepiride, glipizide, glibenclamide, repaglinide, rosuvastatine en simvastatine.
+**Geneesmiddelinteracties:** Er zijn 741 mogelijke interacties geregistreerd. Voorbeelden van interacties met een ernstig niveau (Major) zijn cisapride en naloxegol. Matige interacties (Moderate) zijn onder meer metronidazol, glimepiride, glipizide, glibenclamide, repaglinide, simvastatine, rosuvastatine, budesonide en ijzer.
 
-Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
+---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Het werkingsmechanisme past rechtstreeks bij bacteriële oogontstekingen en er is literatuur, waaronder gerandomiseerde vergelijkingen met andere oogantibiotica. Het bewijs bestaat echter vooral uit overzichtsartikelen en oudere studies, zonder geregistreerde klinische studies, en de hematologische veiligheidskwesties vragen om waarborgen.
+- De voorspelling berust alleen op een modelscore. De beschikbare literatuur betreft laboratoriumonderzoek naar collageenregulatie zonder aantoonbare relatie met chloramfenicol, en er zijn geen klinische studies. Het bekende toxiciteitsprofiel (beenmerg) weegt zwaar tegen gebruik bij een chronische ziekte.
 
-**Om verder te gaan is het volgende nodig:**
-- Controle van de actuele SmPC-waarschuwingen en contra-indicaties via het CBG-MEB
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Actuele gegevens over resistentie van oogpathogenen en vergelijking met huidige alternatieven
-- Een bewakingsplan voor hematologische bijwerkingen en aandacht voor risicogroepen (bijvoorbeeld pasgeborenen)
+**Om verder te gaan is nodig:**
+- Controle of de gevonden literatuur chloramfenicol als geneesmiddel heeft onderzocht, of alleen het reportergen (chloramfenicol-acetyltransferase) gebruikt
+- Gegevens over het werkingsmechanisme en een plausibele farmacologische route naar fibrose-remming
+- Preklinisch bewijs in modellen voor sclerodermie
+- Analyse van de bijsluitertekst/SmPC (waarschuwingen en contra-indicaties) van het CBG-MEB
+- Een afweging van de risico's van systemische blootstelling, aangezien de enige Nederlandse vergunning een oogzalf betreft
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

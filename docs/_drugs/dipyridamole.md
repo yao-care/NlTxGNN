@@ -36,9 +36,9 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **6**
 ## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting in één alinea
 
-Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fosfodiësterase (PDE) remt. Voor deze brede aandoening zijn **geen geregistreerde klinische studies** gevonden; de **20 gevonden publicaties** zijn vooral algemene overzichten over antiplaatjestherapie, dus het bewijs is indirect.
+Dipyridamol is een plaatjesaggregatieremmer die in Nederland in de handel is. Het TxGNN-model voorspelt dat het zou kunnen werken bij **ziek-sinussyndroom type 2, autosomaal dominant (sick sinus syndrome 2, autosomal dominant)**. Deze voorspelling is niet onderbouwd met klinische studies (**0 geregistreerde trials**) of publicaties (**0 artikelen**). Alleen de modelscore ondersteunt haar.
 
 ---
 
@@ -56,55 +56,42 @@ Dipyridamol is een plaatjesaggregatieremmer die de heropname van adenosine en fo
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Dipyridamol remt de heropname van adenosine (via ENT1) en remt PDE3/PDE5. Daardoor stijgen de extracellulaire adenosinespiegels en de intracellulaire cAMP- en cGMP-concentraties in bloedplaatjes en vaatwandcellen. Dit remt de plaatjesaggregatie en maakt een antitrombotisch effect biologisch aannemelijk. Een overzichtsartikel (Kim & Liao, 2008) beschrijft dat dipyridamol plaatjesgemedieerde trombotische ziekte omkeerbaar remt en mogelijk de vaatbeschermende effecten van stikstofmonoxide versterkt.
+Voor dipyridamol zijn in de voor dit rapport samengestelde gegevens geen details over het werkingsmechanisme beschikbaar. De enige aanwijzing voor een mogelijk verband is dat dipyridamol de adenosinesignalering beïnvloedt. In theorie kan dat de functie van de sinusknoop raken. Waarschijnlijker is echter dat het een bestaande bradyaritmie verergert in plaats van behandelt.
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet volledig beschikbaar; bovenstaande mechanistische uitleg is gebaseerd op de literatuur.
-
-Belangrijk is dat "trombotische ziekte" een zeer brede term is. Geen van de gevonden publicaties onderzoekt deze aandoening als zodanig in een gerichte studie: het gaat om algemene overzichten over antiplaatjemiddelen, enkele casuïstiek over trombotische trombocytopenische purpura en niet-gerelateerde artikelen (bijvoorbeeld bevacizumab bij mesothelioom). Het bewijs is daarom indirect, en volgens de beoordelingsregels hoort dit bij niveau L5.
+Ziek-sinussyndroom type 2 is een erfelijke kanalopathie die met het HCN4-gen samenhangt. Er is geen mechanistische reden om aan te nemen dat dipyridamol bij deze aandoening een therapeutisch voordeel geeft. De voorspelling berust dus uitsluitend op een computermatige score, zonder ondersteunend klinisch of mechanistisch bewijs.
 
 ---
 
-## Bewijs uit klinische studies
+## Klinisch trialbewijs
 
-Voor trombotische ziekte zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Er zijn momenteel geen gerelateerde klinische trials geregistreerd.
 
 ---
 
-## Bewijs uit de literatuur
+## Literatuurbewijs
 
-Selectie van de meest relevante publicaties (geen gerichte RCT's voor deze aandoening):
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Review | Arterioscler Thromb Vasc Biol | Dipyridamol remt PDE en adenosineheropname en remt zo plaatjesgemedieerde trombotische ziekte |
-| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Review | Med J Aust | Antiplaatjemiddelen beschermen tegen hartinfarct, beroerte en andere vasculaire events |
-| [15494585](https://pubmed.ncbi.nlm.nih.gov/15494585/) | 2004 | Review | JAMA | Orale antiplaatjetherapie voorkomt herhaalde vasculaire events bij bestaande vaatziekte |
-| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Review | Clin Cardiol | Aspirine met dipyridamol bij coronaire trombose en kransslagaderziekte: beperkingen |
-| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Review | Postgrad Med | Aspirine, dipyridamol en sulfinpyrazon hebben een antitrombotisch effect bij mensen |
-| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | Review | Semin Hematol | Antiplaatjetherapie bij trombotische trombocytopenische purpura: verbetering in veel gevallen |
-| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Casuïstiek | Arch Intern Med | Twee patiënten met trombotische trombocytopenische purpura; remissie onder dipyridamol bij één patiënt |
-| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | Review | Curr Top Med Chem | Dipyridamol heeft ook antioxidatieve activiteit |
+Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ---
 
 ## Informatie over de Nederlandse markt
+
+Volgens de lokale gegevens van het CBG-MEB zijn de onderstaande vergunningen geldig. De tekst van de goedgekeurde indicatie is in de lokale gegevens niet vastgelegd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
 | RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
 
-Beide registraties zijn geldig. Het tweede product is een combinatiepreparaat (dipyridamol met acetylsalicylzuur) en zegt niets over de registratie van dipyridamol als enkelvoudig middel.
-
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Geneesmiddelinteracties**: in de gegevens zijn 451 interacties vastgelegd. Matig ernstig zijn onder meer dexfenfluramine, sibutramine en fenfluramine. Andere vermelde middelen (ernst onbekend) zijn onder meer acetylsalicylzuur, cimetidine, omeprazol, pantoprazol, metformine en morfine.
+- **Geneesmiddelinteracties**: In de interactiegegevens staan in totaal 451 interacties. De gegevens zijn volledig doorzocht. Als matig ingedeeld zijn onder meer dexfenfluramine, sibutramine en fenfluramine. Daarnaast zijn interacties zonder ingedeeld niveau vermeld, onder meer met acetylsalicylzuur, cimetidine, omeprazol, pantoprazol, metformine, morfine en simvastatine.
 
-Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter, zoals goedgekeurd door het CBG-MEB.
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL). Deze gegevens zijn niet in de samengestelde gegevens opgenomen.
 
 ---
 
@@ -113,13 +100,14 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het werkingsmechanisme maakt een antitrombotisch effect aannemelijk, maar voor de brede term "trombotische ziekte" is geen enkele studie gevonden die deze aandoening direct onderzoekt. Het bewijsniveau is daarom L5 en het bewijs blijft indirect.
+- De voorspelling steunt alleen op een hoge modelscore (0,9989), zonder trials of literatuur. Het bewijsniveau is daarom L5. Het mogelijke effect van dipyridamol op de sinusknoop wijst eerder op een risico dan op een voordeel.
 
-**Om verder te gaan is nodig:**
-- Een afbakening van de aandoening tot een concrete klinische entiteit (bijvoorbeeld een specifieke arteriële of veneuze trombose) met gerichte studies.
-- Directe klinische of systematisch gezochte literatuurgegevens voor die afgebakende indicatie.
-- Volledige gegevens over waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
-- Een beoordeling van het interactierisico, gezien het grote aantal vastgelegde geneesmiddelinteracties.
+**Om verder te gaan is het volgende nodig:**
+- Gegevens over het werkingsmechanisme van dipyridamol.
+- Preklinisch of mechanistisch onderzoek dat een verband met HCN4-gerelateerde sinusknoopdisfunctie aannemelijk maakt.
+- De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, om een veiligheidsbeoordeling mogelijk te maken, met name gericht op bradyaritmie.
+- Eventuele klinische studies of publicaties die deze aandoening rechtstreeks onderzoeken.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

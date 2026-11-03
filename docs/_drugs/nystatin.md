@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: voorspelde nieuwe indicatie Disease of orbital region (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Nystatin
@@ -33,95 +33,69 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 
 </div>
 
-## Nystatin: Disease of orbital region
+## Nystatin: Aandoening van de orbitale regio (disease of orbital region)
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting in het kort
 
-Nystatine is een polyeen-antimycoticum dat oorspronkelijk wordt gebruikt bij candida-infecties van huid, mondholte en vulvovaginaal gebied. Voor deze richting zijn **geen geregistreerde klinische studies** gevonden, maar wel **20 publicaties** (vooral reviews en behandeloverzichten). Deze voorspelling is grotendeels een bevestiging van de bestaande indicatie, geen echte nieuwe toepassing.
-
----
+Nystatine is een polyeen-antimycoticum dat lokaal in Nederland op de markt is. Het TxGNN-model voorspelt een mogelijk effect bij **aandoening van de orbitale regio (disease of orbital region)**. Voor deze voorspelling is **geen enkele publicatie** gevonden. Het enige geregistreerde onderzoek, **1 klinische studie**, test een ander middel bij een netvliesaandoening en ondersteunt de voorspelling dus niet.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Disease of orbital region |
+| Voorspelde nieuwe indicatie | Aandoening van de orbitale regio (disease of orbital region) |
 | TxGNN-voorspellingsscore | 0.9990 |
-| Evidenceniveau | L5 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Aanbevolen besluit | Hold (aanhouden) |
 
----
+## Waarom is deze voorspelling (on)aannemelijk?
 
-## Waarom is deze voorspelling aannemelijk?
+In de voor dit rapport verzamelde gegevens ontbreken details over het werkingsmechanisme. Het is bekend dat nystatine een polyeen-antimycoticum is, dat bindt aan ergosterol in de celmembraan van schimmels.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Uit de literatuur is wel bekend dat nystatine een polyeen-antimycoticum is. Het bindt aan ergosterol in het celmembraan van Candida, vormt poriën en veroorzaakt lekkage van celinhoud.
+Er is geen aannemelijk mechanistisch verband gevonden tussen deze antischimmelwerking en aandoeningen van de orbitale regio. De hoge modelscore lijkt een artefact van de voorspelling en berust niet op een herkenbare biologische of klinische redenering. Zonder aanvullend bewijs is de voorspelling daarom vooral een hypothese van het model.
 
-Dit mechanisme past bij vulvovaginale candidiasis, een van de bestaande indicaties van het middel. Vulvovaginitis is daarmee grotendeels de oorspronkelijke indicatie en geen echt nieuw herpositioneringsdoel. Hetzelfde geldt voor vulvitis (rang 8, score 0,9983), dat vaak door Candida wordt veroorzaakt en samen met vaginitis wordt behandeld.
+## Bewijs uit klinische studies
 
-De overige voorspellingen in de top 10 (o.a. aandoeningen van de orbitale regio, cystisch teratoom, spinale dermoïdcyste, biotinemetabolisme-ziekte, commissurale lipfistel, osteoradionecrose van de onderkaak en postmenopauzale atrofische vaginitis) hebben geen aannemelijk mechanistisch verband met nystatine. Ze zijn vermoedelijk artefacten van de graafvoorspelling en worden niet verder uitgewerkt.
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+|---------|------|------|------|---------|
+| [NCT03178149](https://clinicaltrials.gov/study/NCT03178149) | Fase 1 | Werft patiënten | 42 | Veiligheid en verdraagbaarheid van ASP7317 bij geografische atrofie door leeftijdsgebonden maculadegeneratie. Dit is een ander middel en een netvliesaandoening, dus niet relevant voor nystatine of de voorspelde indicatie. |
 
----
+## Bewijs uit de literatuur
 
-## Evidentie uit klinische studies
-
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd voor vulvovaginitis.
-
----
-
-## Evidentie uit de literatuur
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Review | BMJ Clinical Evidence | Overzicht van vulvovaginale candidiasis: tweede meest voorkomende oorzaak van vaginitis; C. albicans in 85–90% van de gevallen |
-| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Review | BMJ Clinical Evidence | Eerdere versie van hetzelfde behandeloverzicht |
-| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Review | BMJ Clinical Evidence | Eerdere versie van hetzelfde behandeloverzicht |
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | Beheer van fluconazol-resistente vulvovaginale candidiasis; alternatieven zijn o.a. boorzuur, nystatine, oteseconazol en ibrexafungerp |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | Journal of Women's Health | Boorzuur bij recidiverende vulvovaginale candidiasis (vergelijkende behandeling, niet nystatine) |
-| [18729533](https://pubmed.ncbi.nlm.nih.gov/18729533/) | 2008 | Review | Drugs | Lokale en orale behandeling zijn even effectief bij ongecompliceerde candidiasis; lokale therapie heeft eigen voordelen |
-| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Review | Obstet Gynecol Clin North Am | Nystatine, in de jaren 1950 geïntroduceerd, is als eerste keus overtroffen door imidazolen en triazolen |
-| [2212172](https://pubmed.ncbi.nlm.nih.gov/2212172/) | 1990 | Review | J Am Acad Dermatol | Individuele behandeling van vaginale candidiasis; veel effectieve lokale en orale middelen |
-| [25416649](https://pubmed.ncbi.nlm.nih.gov/25416649/) | 2015 | Vergelijkende studie | Mycopathologia | Vaginaal nystatine (14 dagen per maand) vs. orale fluconazol bij recidiverende VVC (n=293); mycologische genezing 78,3% vs. 73,8% na initiële therapie |
-| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Klinische studie | Mycoses | Relatie tussen in-vitrogevoeligheid voor fluconazol en nystatine en klinische uitkomst bij gecompliceerde VVC (287 isolaten) |
-
-Er is in de aangeleverde gegevens geen gerandomiseerde gecontroleerde studie (RCT) geïdentificeerd; de literatuur bestaat voornamelijk uit reviews en behandeloverzichten.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
+
+Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd. Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | Niet vermeld | Niet vermeld |
 
-Er is 1 geldige vergunning van de 1 vergunning(en) voor nystatine in de gegevens van het CBG-MEB; het middel is op de markt.
-
----
-
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf (TxGNN/PrimeKG, geen bijsluitertekst)**: bijnierschorsinsufficiëntie, ziekte van Addison, huidatrofie, teleangiëctasieën, capillaire aandoeningen en erfelijke hemorragische teleangiëctasie. Deze zijn niet geverifieerd aan de hand van de officiële productinformatie.
-- **Geneesmiddelinteracties**: in totaal 807 mogelijke interacties gevonden (bron: DDInter), waaronder ciclosporine, octreotide, fluconazol, erytromycine, azitromycine, bortezomib en tramadol. Voor de getoonde interacties is de ernst niet gespecificeerd ("onbekend").
+- **Geneesmiddelinteracties**: in de verzamelde gegevens staan 807 mogelijke interacties, onder meer met ciclosporine, fluconazol, erytromycine, azitromycine, tramadol en lorazepam. Voor al deze interacties is de ernst niet geclassificeerd.
 
-Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Vulvovaginitis (en vulvitis) is in wezen een bestaande indicatie van nystatine en geen echte herpositionering. Er zijn geen klinische studies of RCT's in de aangeleverde gegevens, en nystatine is in Nederland momenteel niet met een geldige vergunning op de markt. De overige voorspellingen missen elk plausibel mechanisme.
+- De voorspelling berust alleen op het model (bewijsniveau L5). Er is geen studie of publicatie die nystatine bij deze aandoening onderzoekt, en het enige gevonden onderzoek betreft een ander middel bij een andere aandoening.
+- Er is geen plausibel werkingsmechanisme, waardoor verdere investering nu niet gerechtvaardigd is.
 
 **Om verder te gaan is nodig:**
-- Opvragen en analyseren van de officiële productinformatie (SmPC/bijsluiter) via het CBG-MEB, inclusief waarschuwingen en contra-indicaties; zonder deze gegevens kan de veiligheidsscreening niet worden voltooid
-- Aanvullende gegevens over het werkingsmechanisme uit DrugBank
-- Vaststellen of er een actuele vergunde nystatine-formulering (bijv. vaginaal of lokaal) in Nederland beschikbaar is
-- Beoordeling van de RCT-evidentie voor nystatine bij vulvovaginale candidiasis in vergelijking met de huidige eerstelijnsmiddelen (azolen)
+- Gedetailleerde gegevens over het werkingsmechanisme, bijvoorbeeld via DrugBank.
+- Een gerichte literatuurstudie en preklinisch onderzoek naar een mogelijk verband tussen nystatine en aandoeningen van de orbitale regio.
+- De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB voor een veiligheidsbeoordeling.
+- Een beoordeling van de toedieningsroute, omdat de beschikbare vorm voor oraal gebruik is en mogelijk niet past bij de voorspelde indicatie.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-03
 monitor_inn: "Lormetazepam"
 predicted_indications: ["alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "benign paroxysmal torticollis of infancy"]
-description: "Lormetazepam: voorspelde nieuwe indicatie Alcohol withdrawal delirium (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Lormetazepam
@@ -33,57 +33,38 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-## Lormetazepam: Alcohol withdrawal delirium
+## Lormetazepam: Alcoholontwenningsdelirium (alcohol withdrawal delirium)
 {: .text-alpha }
 
-> **Let op:** Voor dit middel is de voorspelde nieuwe indicatie met de hoogste score (insomnia) in feite de reeds bekende, gevestigde toepassing van lormetazepam. Het gaat dus niet om een echte herpositionering. Hieronder is de voorspelling met de hoogste score uitgewerkt; de overige voorspellingen zijn kort samengevat in de conclusie.
+## Samenvatting in één zin
 
-## Samenvatting in één alinea
-
-Lormetazepam is een benzodiazepine dat wordt gebruikt als slaapmiddel. Hiervoor zijn **2 klinische studies** (fase 3) en **3 publicaties** in de data voor deze indicatie opgenomen. Een echte nieuwe indicatie met voldoende onderbouwing is in de data niet naar voren gekomen.
-
----
+Lormetazepam is een benzodiazepine dat werkt via versterking van GABA-A-receptoren. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alcoholontwenningsdelirium (alcohol withdrawal delirium)**. Voor deze voorspelling zijn in de voor dit rapport verzamelde gegevens **geen klinische studies** en **geen publicaties** gevonden.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Alcohol withdrawal delirium |
+| Voorspelde nieuwe indicatie | Alcoholontwenningsdelirium (alcohol withdrawal delirium) |
 | TxGNN-voorspellingsscore | 0.9993 |
-| Bewijsniveau | L5 |
+| Evidentieniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
+| Aanbevolen besluit | Hold |
 
----
+## Waarom is deze voorspelling plausibel?
 
-## Waarom is deze voorspelling redelijk?
+Een mechanistische koppeling is aannemelijk. Benzodiazepinen zijn de standaardbehandeling bij alcoholontwenning, omdat ze de remmende werking van GABA-A-receptoren versterken. Dat kalmeert het overactieve zenuwstelsel dat bij ontwenning optreedt. Lormetazepam deelt dit werkingsmechanisme als klasse-eigenschap.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van de bekende informatie is lormetazepam een benzodiazepine van het korte-tot-middellange-werkingsduur type dat de GABA-A-receptorsignalering versterkt, waardoor een sederend en slaapbevorderend effect ontstaat.
+Er zijn wel belangrijke kanttekeningen. Voor lormetazepam zelf zijn bij deze aandoening geen studies of literatuur gevonden. In deze setting gaat de voorkeur doorgaans uit naar langwerkende benzodiazepinen, terwijl lormetazepam een kortere werkingsduur heeft. Gegevens over het precieze werkingsmechanisme van lormetazepam in de voor dit rapport verzamelde bronnen ontbreken. De voorspelling berust dus vooral op de klasse-eigenschappen van benzodiazepinen.
 
-Slapeloosheid is de gevestigde toepassing van lormetazepam. De voorspelling bevestigt dus vooral de bestaande indicatie en is geen nieuwe herpositionering. Twee fase 3-studies gebruikten lormetazepam als actieve vergelijker en meerdere oudere klinische studies ondersteunen de werkzaamheid.
+## Klinische studies
 
----
+Er zijn momenteel geen klinische studies geregistreerd die lormetazepam bij alcoholontwenningsdelirium onderzoeken.
 
-## Klinisch trialbewijs
+## Literatuur
 
-| Trialnummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00679900](https://clinicaltrials.gov/study/NCT00679900) | Fase 3 | Afgerond | 283 | Eplivanserin 5 mg vs. lormetazepam 1 mg bij chronische primaire slapeloosheid met doorslaapproblemen; 4 weken, dubbelblind; primair eindpunt: restsedatie de volgende ochtend |
-| [NCT00788515](https://clinicaltrials.gov/study/NCT00788515) | Fase 3 | Voortijdig beëindigd | 33 | Volinanserin 2 mg vs. lormetazepam 1 mg bij doorslaapproblemen; vroegtijdig gestopt met slechts 33 deelnemers, dus beperkte bewijskracht |
-
----
-
-## Literatuurbewijs
-
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|------|-----|------|------|---------|
-| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | RCT | J Int Med Res | Lormetazepam 1 mg vs. diazepam 5 mg bij 100 poliklinische patiënten; lormetazepam verkortte de inslaaptijd significant en verlengde de ononderbroken slaap |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Review | Acta Psychiatr Scand Suppl | Overzicht van indicaties voor slaapmiddelen en de behoefte aan verschillende benzodiazepinen met uiteenlopende farmacokinetiek |
-| [2873832](https://pubmed.ncbi.nlm.nih.gov/2873832/) | 1986 | Cohortstudie | Br J Clin Pract | Overstap van langdurige nitrazepamgebruikers met slapeloosheid naar lormetazepam |
-
----
+Er is momenteel geen relevante literatuur beschikbaar over lormetazepam bij alcoholontwenningsdelirium.
 
 ## Informatie over de Nederlandse markt
 
@@ -91,40 +72,28 @@ Slapeloosheid is de gevestigde toepassing van lormetazepam. De voorspelling beve
 |---------|------|------|-----------|
 | RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: geldig) |
 
----
+De goedgekeurde indicatie is niet vastgelegd in de lokale gegevens van het CBG-MEB die voor dit rapport zijn gebruikt.
 
 ## Veiligheidsoverwegingen
 
-Voor dit middel zijn in de data voor dit rapport geen waarschuwingen, contra-indicaties of geneesmiddelinteracties beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
+Voor deze vergunning zijn geen gegevens over waarschuwingen, contra-indicaties of geneesmiddelinteracties beschikbaar in de samengestelde gegevens. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
 
-Uit de literatuur komen wel de volgende aandachtspunten naar voren: afhankelijkheid, rebound-slapeloosheid na stoppen, restsedatie overdag en geheugenverlies (amnesie), met name bij ouderen.
-
----
+Als klasse-effect brengen benzodiazepinen een risico op misbruik en afhankelijkheid met zich mee. Dat is zeker van belang bij patiënten met een alcoholprobleem.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails (doorgaan met waarborgen)**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Voor slapeloosheid is er voldoende klinisch bewijs (een afgeronde fase 3-studie met 283 deelnemers en oudere RCT's), maar dit is de reeds gevestigde indicatie. Er is geen sprake van een echte herpositionering.
-- De Nederlandse vergunning is doorgehaald, wat de praktische toepasbaarheid in Nederland beperkt.
-
-**Overzicht van de overige voorspellingen:**
-
-| Voorspelde indicatie | Bewijsniveau | Beslissing |
-|------|------|------|
-| Angst (anxiety) en angststoornis | L5 | Onderzoeksvraag; alleen indirect bewijs (farmacovigilantiestudie bij ouderen, oudere reviews) |
-| Slaapstoornis (inslapen en doorslapen) | L3 | Proceed with Guardrails; in wezen dezelfde indicatie als slapeloosheid |
-| Alcoholontwenningsdelirium | L5 | Hold; mechanistisch plausibel, maar geen studies met lormetazepam |
-| Barbituraatmisbruik | L5 | Hold; alleen theoretische link, risico op misbruik en afhankelijkheid |
-| Misbruik van antidepressiva, hallucinogenen; cauda equina-syndroom; benigne paroxismale torticollis van de kindertijd | L5 | Hold; geen aannemelijk therapeutisch mechanisme, vermoedelijk modelartefacten |
+- De voorspelling is mechanistisch plausibel, maar er zijn geen studies of publicaties die lormetazepam bij deze aandoening ondersteunen (evidentieniveau L5).
+- Langwerkende benzodiazepinen verdienen doorgaans de voorkeur, en het risico op afhankelijkheid is een extra aandachtspunt.
 
 **Om verder te gaan is nodig:**
-- Ophalen van de Nederlandse productinformatie (SmPC/bijsluiter) via CBG-MEB voor waarschuwingen en contra-indicaties; dit is een blokkerende hiaat voor de veiligheidsscreening
-- Aanvullende gegevens over het werkingsmechanisme (bijv. via DrugBank)
-- Verduidelijking van de reden en gevolgen van de doorhaling van de Nederlandse vergunning
-- Een plan voor veiligheidsmonitoring (beperkte behandelduur, afhankelijkheid, rebound-slapeloosheid, ouderen)
-- Voor angststoornissen: gecontroleerde werkzaamheidsstudies, voordat een herpositionering wordt overwogen
+- Een systematische literatuursearch naar lormetazepam bij alcoholontwenning, en zo nodig vergelijkend onderzoek met reeds gebruikte benzodiazepinen.
+- Gegevens over het werkingsmechanisme van lormetazepam.
+- Beoordeling van de waarschuwingen en contra-indicaties in de SmPC van het CBG-MEB.
+- Een veiligheidsplan voor patiënten met alcoholproblematiek, gezien het risico op afhankelijkheid.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

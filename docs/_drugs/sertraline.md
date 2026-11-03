@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Sertraline: voorspelde nieuwe indicatie Schizoid personality disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Sertraline
@@ -33,66 +33,42 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **7**
 
 </div>
 
-## Sertraline: Schizoid personality disorder
+## Sertraline: Schizoïde persoonlijkheidsstoornis (schizoid personality disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Sertraline is een selectieve serotonine-heropnameremmer (SSRI) die oorspronkelijk wordt gebruikt bij angststoornissen, obsessieve-compulsieve stoornis, posttraumatische stressstoornis en sociale fobie. Daarvoor zijn **2 klinische studies** en **19 publicaties** gevonden in de voor dit rapport samengestelde gegevens, waaronder meerdere gerandomiseerde studies en netwerk-meta-analyses over paniekstoornis met of zonder agorafobie.
-
----
+Sertraline is een selectieve serotonineheropnameremmer (SSRI) die wordt gebruikt bij stemmings- en angststoornissen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **schizoïde persoonlijkheidsstoornis (schizoid personality disorder)**, maar hiervoor is **geen enkele klinische studie** en **geen enkele publicatie die deze aandoening zelf onderzoekt** beschikbaar. Het bewijs is daarmee beperkt tot de modelvoorspelling.
 
 ## Snel overzicht
 
 | Onderdeel | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Schizoid personality disorder |
+| Voorspelde nieuwe indicatie | Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) |
 | TxGNN-voorspellingsscore | 0.9993 |
-| Bewijsniveau | L5 (met voorbehoud, zie hieronder) |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
+| Aanbevolen beslissing | Hold (afwachten) |
 
-Opmerking: de bewijsklasse L1 is gebaseerd op het geheel van het bewijs voor paniekstoornis met of zonder agorafobie. In de gegevens is niet vastgesteld of de opgehaalde fase 3-studies agorafobie-specifieke uitkomsten hebben gemeten. Dit moet worden geverifieerd.
+## Waarom is deze voorspelling (on)waarschijnlijk?
 
----
+Over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens geen details beschikbaar. Sertraline is bekend als SSRI: het verhoogt de beschikbaarheid van serotonine in de synaps en wordt gebruikt bij stemmings- en angstklachten.
 
-## Waarom is deze voorspelling aannemelijk?
-
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie behoort sertraline tot de SSRI's. De werkzaamheid bij angststoornissen en sociale fobie is aangetoond, en mechanistisch kan het ook toepasbaar zijn bij agorafobie. SSRI's remmen de heropname van serotonine, wat paniek en anticipatieangst kan verminderen.
-
-Agorafobie komt meestal voor samen met paniekstoornis. Sertraline wordt al gebruikt bij paniekstoornis en sociale fobie, die nauw verwant zijn aan de oorspronkelijke indicaties. Dubbelblinde, multicenter-studies naar sertraline bij paniekstoornis, vergelijkende studies met imipramine en alprazolam en recente netwerk-meta-analyses ondersteunen deze richting.
-
-Voorbehoud: het bewijs betreft grotendeels paniekstoornis met agorafobie als comorbiditeit en niet agorafobie als op zichzelf staande aandoening.
-
----
+Het verband met schizoïde persoonlijkheidsstoornis is speculatief. De kernkenmerken van deze stoornis (emotionele afstandelijkheid, sociale terugtrekking) zijn niet aangetoond gevoelig voor SSRI's. De hoge score van het model berust op patronen in de data en is geen klinisch bewijs. De score is een rangordemaat van het model en zegt niets over de werkzaamheid bij patiënten.
 
 ## Bewijs uit klinische studies
 
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00182533](https://clinicaltrials.gov/study/NCT00182533) | Fase 4 | Beëindigd | 170 | Sertraline bij gegeneraliseerde sociale fobie met comorbiditeit. Relevant voor het fobisch-angstspectrum, maar voortijdig beëindigd en niet specifiek voor agorafobie |
-| [NCT05930912](https://clinicaltrials.gov/study/NCT05930912) | N.v.t. | Onbekend | 1 | Psychoanalytische behandeling van autismespectrumstoornis. Behandelt sertraline bij agorafobie niet; weinig relevant |
-
----
+Er zijn momenteel geen klinische studies geregistreerd die sertraline bij schizoïde persoonlijkheidsstoornis onderzoeken.
 
 ## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|-----|------|------|------|---------|
-| [35045991](https://pubmed.ncbi.nlm.nih.gov/35045991/) | 2022 | Systematische review/netwerk-meta-analyse van RCT's | BMJ | Geneesmiddelklassen en individuele SSRI's vergeleken op remissie en bijwerkingen bij paniekstoornis met of zonder agorafobie |
-| [38014714](https://pubmed.ncbi.nlm.nih.gov/38014714/) | 2023 | Netwerk-meta-analyse | Cochrane Database Syst Rev | Farmacologische behandelingen van paniekstoornis bij volwassenen |
-| [9734541](https://pubmed.ncbi.nlm.nih.gov/9734541/) | 1998 | RCT (dubbelblind, multicenter) | Am J Psychiatry | Werkzaamheid en veiligheid van sertraline bij paniekstoornis |
-| [14971862](https://pubmed.ncbi.nlm.nih.gov/14971862/) | 2003 | RCT (vergelijkend) | Ann Clin Psychiatry | Imipramine versus sertraline bij paniekstoornis, 24 weken, bij patiënten die de behandeling afmaakten |
-| [16053461](https://pubmed.ncbi.nlm.nih.gov/16053461/) | 2005 | Klinische studie (vergelijkend) | Bosn J Basic Med Sci | Sertraline versus alprazolam, 12 weken, bij paniekstoornis met en zonder agorafobie (n=40) |
-| [11206597](https://pubmed.ncbi.nlm.nih.gov/11206597/) | 2000 | Klinische studie (post-hocanalyse) | J Clin Psychiatry | Respons op sertraline bij patiënten met risicofactoren voor een slechte uitkomst, waaronder agorafobie |
-| [11110016](https://pubmed.ncbi.nlm.nih.gov/11110016/) | 2000 | Review | Int Clin Psychopharmacol | SSRI's, waaronder sertraline, zijn bij paniekstoornis en agorafobie beter dan placebo |
-| [36573969](https://pubmed.ncbi.nlm.nih.gov/36573969/) | 2022 | Review | JAMA | Overzicht van angststoornissen |
-| [37676054](https://pubmed.ncbi.nlm.nih.gov/37676054/) | 2023 | Systematische review | Expert Rev Neurother | Farmacologische behandeling van paniekstoornis bij oudere patiënten |
-| [16505130](https://pubmed.ncbi.nlm.nih.gov/16505130/) | 2006 | RCT | Am J Geriatr Psychiatry | Cognitieve gedragstherapie en sertraline versus wachtlijstcontrole bij angststoornissen bij ouderen |
+|------|-----|------|------|---------|
+| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Gerandomiseerde studie (30 patiënten) | International Clinical Psychopharmacology | Multimodale behandeling (dieet, cognitieve gedragstherapie, sertraline) bij eetbuistoornis. Betreft niet de voorspelde aandoening. |
 
----
+Er is geen publicatie gevonden die sertraline direct bij schizoïde persoonlijkheidsstoornis onderzoekt.
 
 ## Informatie over de Nederlandse markt
 
@@ -100,46 +76,36 @@ Voorbehoud: het bewijs betreft grotendeels paniekstoornis met agorafobie als com
 |---------|------|------|-----------|
 | RVG 120699//16292 (doorgehaald) | Zoloft 50 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
 
----
+Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties volgens de kennisgraaf** (afgeleid uit relaties in de TxGNN-kennisgraaf, niet uit bijsluitertekst): epilepsie, bipolaire stoornis, ernstige affectieve stoornis, leverziekte, galblaasziekte, stollingsstoornis, maligne neurolepticasyndroom, syndroom van inappropriate ADH-secretie, nefrogeen syndroom van inappropriate antidiurese en serotoninesyndroom.
-- **Geneesmiddelinteracties**: in totaal 455 interacties gevonden. Voorbeelden met ernstig (Major) niveau: bupropion, lorcaserine, diethylpropion, dolasetron, eliglustat, palonosetron en fentermine. Voorbeelden met matig niveau: famotidine, loperamide, morfine, acetylsalicylzuur, clarithromycine, chloorpropamide, glimepiride en insuline aspart.
+Voor dit rapport zijn geen gegevens uit de productinformatie over waarschuwingen en contra-indicaties beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor de volledige veiligheidsinformatie.
 
-Raadpleeg voor de volledige en officiële veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
+**Geneesmiddelinteracties:** er zijn 455 interacties geregistreerd. Voorbeelden van interacties met niveau "ernstig" (Major):
+- Bupropion
+- Lorcaserine
+- Diethylpropion
+- Dolasetron
+- Eliglustat
+- Palonosetron
+- Fentermine
 
----
+Daarnaast zijn er veel interacties van matig niveau, onder meer met acetylsalicylzuur, clarithromycine, morfine, famotidine en loperamide.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails**
+**Beslissing: Hold (afwachten)**
 
 **Onderbouwing:**
-Voor sertraline bij paniekstoornis, vaak met agorafobie, bestaat omvangrijk bewijs uit RCT's en netwerk-meta-analyses. Dit bewijs is echter grotendeels indirect en niet specifiek voor agorafobie, en de Nederlandse registratie is doorgehaald.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er is geen studie of publicatie die sertraline bij schizoïde persoonlijkheidsstoornis onderzoekt, en een plausibel mechanistisch verband is niet onderbouwd.
 
-**Om verder te gaan is het volgende nodig:**
-- Verificatie of de RCT's agorafobie-specifieke uitkomsten rapporteren
-- De SmPC- en bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen voor de veiligheidsscreening
-- Gegevens over het werkingsmechanisme aanvullen
-- Opheldering over de huidige registratiestatus in Nederland, aangezien de enige bekende registratie is doorgehaald
-- Een plan voor veiligheidsmonitoring, met aandacht voor serotoninesyndroom, hyponatriëmie/SIADH, bloedingsrisico en de interacties met een ernstig niveau
+**Om verder te gaan is nodig:**
+- Gegevens over het werkingsmechanisme van sertraline en een onderbouwde hypothese voor deze aandoening.
+- Gecontroleerde klinische studies of ten minste systematische observationele data bij schizoïde persoonlijkheidsstoornis.
+- Veiligheidsgegevens uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties) voor een veiligheidsbeoordeling.
+- Een beoordeling van de balans tussen voordelen en risico's, gezien het uitblijven van aangetoonde werkzaamheid bij de kernsymptomen.
 
----
-
-## Overige voorspelde indicaties (ter informatie)
-
-| Voorspelde indicatie | TxGNN-score | Bewijsniveau | Aanbeveling |
-|---------|------|------|------|
-| Schizotypische persoonlijkheidsstoornis | 0,9993 | L5 | Onderzoeksvraag (1 kleine studie, n=8, zonder resultaten) |
-| Schizoïde persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
-| Theatrale persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
-| Paranoïde persoonlijkheidsstoornis | 0,9993 | L5 | Hold |
-| Benigne paroxismale torticollis van de kindertijd | 0,9955 | L5 | Hold |
-| Afhankelijke persoonlijkheidsstoornis | 0,9921 | L4 | Onderzoeksvraag |
-| Narcistische persoonlijkheidsstoornis | 0,9914 | L5 | Hold |
-
-Voor deze indicaties is geen direct bewijs, of slechts zeer beperkt indirect bewijs, beschikbaar.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

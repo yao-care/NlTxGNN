@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 281
-evidence_level: L1
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: voorspelde nieuwe indicatie Breast fibrocystic disease (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Progesterone: voorspelde nieuwe indicatie Fibrocystische borstaandoening (breast fibrocystic disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **6**
 
 </div>
 
-## Progesterone: Breast fibrocystic disease
+## Progesterone: Fibrocystische borstaandoening (breast fibrocystic disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij endometriose, endometriumcarcinoom, postmenopauzale osteoporose en postmenopauzale atrofische vaginitis. De studies onderzoeken echter vooral oestrogeen; progesteron is daarin meestal een ondersteunend bestanddeel.
+Progesteron is een natuurlijk geslachtshormoon dat als geneesmiddel wordt gebruikt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **fibrocystische borstaandoening (breast fibrocystic disease)**. Er zijn **geen geregistreerde klinische studies** en **20 publicaties** gevonden, die vrijwel allemaal beschrijvend of mechanistisch zijn.
 
 ---
 
@@ -47,52 +47,43 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon dat is gebruikt bij en
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Breast fibrocystic disease |
+| Voorspelde nieuwe indicatie | Fibrocystische borstaandoening (breast fibrocystic disease) |
 | TxGNN-voorspellingsscore | 0.9998 |
-| Bewijsniveau | L1 (volgens de scoring in de data; zie toelichting hieronder) |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
-
-**Toelichting bij het bewijsniveau:** de data kennen L1 toe, maar slechts één van de vier studies is een afgeronde fase 3-studie (NCT00946192). Bovendien test die studie waarschijnlijk oestrogeen en niet progesteron. Strikt volgens de beoordelingsregels (≥2 afgeronde fase 3-RCT's) zou L1 niet gehaald worden. Het bewijs is daarom zwakker dan het label suggereert.
+| Aanbevolen beslissing | Hold |
 
 ---
 
-## Waarom is deze voorspelling redelijk?
+## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van de bekende informatie is progesteron een natuurlijk geslachtshormoon waarvan de werking bij endometriose is vastgesteld. Mechanistisch kan het ook van toepassing zijn bij amenorroe.
+Gegevens over het werkingsmechanisme van progesteron zijn in de voor dit rapport samengestelde data niet beschikbaar. Progesteron is een geslachtshormoon dat via progesteronreceptoren werkt op onder meer baarmoeder- en borstweefsel.
 
-Het verband is als volgt. Bij een endometrium dat met oestrogeen is voorbereid, zorgt het wegvallen van progesteron voor de overgang van de secretoire fase naar menstruatie. Dit principe wordt diagnostisch gebruikt (de progestageentest) en therapeutisch bij amenorroe. Bij hypo-oestrogene toestanden, zoals bij sporters en bij anorexia nervosa, testen de studies vooral oestrogeensuppletie. Progesteron wordt daarbij vaak cyclisch gegeven ter bescherming van het endometrium. De directe rol van progesteron is dus deels ondersteunend. Bestaand klinisch gebruik wordt beschreven in overzichtsartikelen over oraal gemicroniseerd progesteron (PMID 38652231) en over de evaluatie van amenorroe (PMID 8629565).
-
----
-
-## Klinisch trialbewijs
-
-| Studienummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fase 3 | Afgerond | 121 | Jonge sporters met functionele hypothalame amenorroe; transdermaal of oraal oestrogeen versus geen oestrogeen voor botdichtheid. Progesteron is waarschijnlijk niet het onderzochte middel. |
-| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Fase 2/3 | Afgerond | 110 | Effect van anorexia nervosa op piekbotmassa bij adolescenten; oestrogeen om de botontwikkeling te behouden. Progesteron is waarschijnlijk een cyclische progestageencomponent. |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Fase 2 | Actief, niet rekruterend | 120 | Transdermaal oestradiol met cyclisch progesteron versus placebo bij eetstoornissen met hypo-oestrogenemie; cognitieve flexibiliteit en beloningsverwerking. |
-| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Fase 2 | Afgerond | 29 | Atherosclerose en ontsteking bij jonge vrouwen met hypo-oestrogenemie; slechts indirect relevant voor behandeling met progesteron. |
+De literatuur beschrijft dat een verstoorde verhouding tussen oestradiol en progesteron (relatieve luteale insufficiëntie) kan bijdragen aan fibrocystische veranderingen en mastalgie (PMID 31168213, PMID 6481706). Dat geeft een plausibele hormonale redenering voor progesteron. Dit bewijs is echter epidemiologisch en mechanistisch: er zijn geen gecontroleerde klinische gegevens, meerdere bronnen zijn oude overzichtsartikelen en andere gaan over orale anticonceptiva in plaats van progesteron zelf.
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit klinische studies
 
-Er zijn geen gerandomiseerde studies in de literatuurset. Het bewijs bestaat vooral uit overzichtsartikelen. Hieronder staan de meest relevante publicaties.
+Momenteel geen gerelateerde klinische studies geregistreerd.
+
+---
+
+## Bewijs uit de literatuur
+
+Geen van de gevonden publicaties onderzoekt progesteron als behandeling van fibrocystische borstaandoening in een interventiestudie. Hieronder een selectie.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Reviews in Endocrine & Metabolic Disorders | Diagnostisch en therapeutisch gebruik van oraal gemicroniseerd progesteron in de endocrinologie |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Frontiers in Endocrinology | Etiologie, symptomen en behandelopties bij premature ovariële insufficiëntie |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Reviews in Endocrine & Metabolic Disorders | Hormonale behandeling van endometriose; oestrogeenafhankelijkheid en progesteronresistentie |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | Klinische aanpak van vaginaal bloedverlies bij postmenopauzale vrouwen |
-| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Review | Reproductive Sciences | Herstel van beschadigd endometrium (intra-uteriene verklevingen, dun endometrium), met amenorroe als mogelijk gevolg |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Seminars in Reproductive Medicine | Intra-uteriene verklevingen (syndroom van Asherman), variërend van amenorroe tot normale menstruatie |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | American Family Physician | Diagnostische evaluatie van amenorroe |
-| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | Overzicht | Gynecological Endocrinology | Neuro-endocriene controle van de ovulatie; hypothalame versus ovariële insufficiëntie |
-| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | Overzicht | Southern Medical Journal | Primaire ovariële insufficiëntie en hormoonsubstitutie |
-| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | Overzicht | American Family Physician | Stapsgewijze evaluatie van amenorroe, inclusief onttrekkingsbloeding na progesteron |
+| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | Overzicht/observationeel | Acta Clinica Croatica | Rol van de oestradiol/progesteron-verhouding in de late luteale fase bij fibrocystische borstaandoening (50 vrouwen vs. 40 controles) |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Overzicht | Am J Obstet Gynecol | Pathofysiologie: oestrogeendominantie en progesterontekort leiden tot proliferatie van bindweefsel en epitheel |
+| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Overzicht | J Reprod Med | Overzicht van de relatie tussen oestrogeen, progesteron en borstaandoeningen |
+| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Overzicht | Fertility and Sterility | Orale anticonceptiva en goedaardige borstaandoeningen; onduidelijk of laaggedoseerde middelen beschermen |
+| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Overzicht | Breast Cancer Res Treat | Epidemiologie en endocrinologie van goedaardige borstaandoeningen |
+| [28598826](https://pubmed.ncbi.nlm.nih.gov/28598826/) | 2017 | Gerandomiseerde, dubbelblinde studie | Breast Disease | Effect van metformine (niet progesteron) op fibrocystische veranderingen |
+| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | Cohort | Eur J Endocrinol | Schildklierhormonen in serum en cystevloeistof bij fibrocystische borstaandoening |
+| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | Cross-sectioneel | Int J Reprod Biomed | Verband tussen fibrocystische borstaandoening en PCOS-fenotypen |
 
 ---
 
@@ -102,41 +93,35 @@ Er zijn geen gerandomiseerde studies in de literatuurset. Het bewijs bestaat voo
 |---------|------|------|-----------|
 | RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: geldig |
 
-De enige registratie is geldig. Op dit moment is er dus een geldige vergunning voor een enkelvoudig of gecombineerd progesteronproduct in de data. Raadpleeg het CBG-MEB voor de actuele situatie.
-
 ---
 
 ## Veiligheidsoverwegingen
 
-**Contra-indicaties uit de kennisgraaf** (afkomstig uit relaties tussen geneesmiddel en ziekte, niet uit de bijsluitertekst): hypertensie, leverfalen en leverziekte, epilepsie, angststoornis, neurotische stoornis, dysthyme stoornis, porfyrie (erfelijke porfyrie en stoornissen van het porfyrinemetabolisme), nierziekte, pyoureter, galblaasaandoening, hyperglykemie, humorale hypercalciëmie bij maligniteit, hypothyreoïdie (inclusief myxoedeem en congenitale hypothyreoïdie), osteoporose (inclusief postmenopauzaal), systemische lupus erythematodes (ook pediatrisch), astma (intrinsiek en allergisch), diabetes mellitus en diabetische ketoacidose, middelenmisbruik/-afhankelijkheid en hypertriglyceridemie.
+Voor progesteron zijn in de samengestelde data geen waarschuwingen of contra-indicaties uit de productinformatie beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor veiligheidsinformatie.
 
-Opvallend is dat osteoporose en postmenopauzale osteoporose hier als contra-indicatie staan, terwijl ze ook als oorspronkelijke indicatie in de kennisgraaf voorkomen. Dit wijst op inconsistenties in de bron die in de SmPC gecontroleerd moeten worden.
-
-**Geneesmiddelinteracties:** er zijn 187 interacties gevonden. De weergegeven interacties zijn van gemiddeld niveau, vooral met bloedglucoseverlagende middelen: acarbose, albiglutide, alogliptine, metformine, pioglitazon, canagliflozine, chloorpropamide, dapagliflozine, saxagliptine, dulaglutide, empagliflozine, glimepiride, repaglinide, semaglutide, liraglutide en insulines (aspart, degludec, detemir). Daarnaast worden aprepitant en claritromycine genoemd.
-
-Gegevens uit de bijsluiter (waarschuwingen en contra-indicaties volgens CBG-MEB) ontbreken. Raadpleeg de SmPC en de bijsluiter voor de officiële veiligheidsinformatie.
+**Geneesmiddelinteracties:** er zijn 187 interacties gevonden. De vermelde interacties zijn van matig niveau, vooral met antidiabetica, waaronder:
+- Acarbose, albiglutide, alogliptine, metformine, pioglitazon
+- Canagliflozine, dapagliflozine, empagliflozine, saxagliptine
+- Dulaglutide, semaglutide, liraglutide
+- Chloorpropamide, glimepiride, repaglinide
+- Insuline (aspart, degludec, detemir)
+- Aprepitant en claritromycine
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Proceed with Guardrails (doorgaan met waarborgen)**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Het mechanisme is plausibel en het gebruik is klinisch bekend (progestageentest, cyclische toediening). De afgeronde studies testen echter vooral oestrogeen, waardoor de directe werkzaamheid van progesteron niet is aangetoond.
-- De veiligheidsscreening kan niet worden afgerond zolang de gegevens uit de bijsluiter ontbreken.
+- Er is geen enkele klinische studie en geen interventiegegevens voor progesteron bij fibrocystische borstaandoening. Geen van de gevonden publicaties onderzoekt deze ziekte direct met progesteron als behandeling, dus het bewijsniveau is L5 (alleen modelvoorspelling). Het hormonale rationale is plausibel, maar niet klinisch getoetst.
 
 **Om verder te gaan is nodig:**
-- De SmPC/bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen, contra-indicaties).
-- Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
-- Per studie vaststellen of progesteron de onderzochte interventie is, en of er studies met een directe progesteronarm zijn.
-- Controleren welke toedieningsroutes en producten beschikbaar zijn, aangezien de enige Nederlandse registratie is doorgehaald.
-- Clinici raadplegen over de plaats van progesteron naast oestrogeensuppletie bij hypo-oestrogene amenorroe.
+- Een systematische literatuurstudie naar progesteron of progestagenen bij fibrocystische borstaandoening en mastalgie
+- Een gerandomiseerde, gecontroleerde pilotstudie met een duidelijke eindpuntdefinitie (zoals pijn en cystevorming)
+- Gegevens over het werkingsmechanisme en de veiligheidsinformatie uit de SmPC, inclusief beoordeling van borstkankerrisico bij hormonale behandeling
+- Beoordeling van de geschiktheid van de toedieningsroute, aangezien het in Nederland geregistreerde product een vaginale gel is
 
-**Overige voorspelde indicaties (korte beoordeling):**
-- Fibrocystische borstziekte en benigne mammadysplasie: alleen epidemiologisch en mechanistisch bewijs (L4), geen studies; onderzoeksvraag.
-- Cervixendometriose, endometriose van het rectovaginale septum en endometriose in een huidlittekens: uitbreidingen van een bestaande indicatie zonder directe behandelgegevens; Hold.
-- Bilaterale renale hypoplasie, renale hypoplasie, blunt duct adenosis en apocriene adenose van de borst: geen geloofwaardig therapeutisch verband; Hold.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

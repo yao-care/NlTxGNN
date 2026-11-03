@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 334,
   "level_counts": {
-    "L1": 9,
-    "L2": 16,
+    "L1": 7,
+    "L2": 14,
     "L3": 17,
-    "L4": 24,
-    "L5": 256
+    "L4": 26,
+    "L5": 258
   },
   "all_drugs": [
     {
@@ -126,7 +126,7 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 9
     },
     {
@@ -246,7 +246,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 7
     },
     {
@@ -570,7 +570,7 @@
     {
       "name": "Dexamethasone",
       "slug": "dexamethasone",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -1608,7 +1608,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -1812,7 +1812,7 @@
     {
       "name": "Terbutaline",
       "slug": "terbutaline",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 2
     },
     {

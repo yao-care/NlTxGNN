@@ -6,9 +6,9 @@ nav_order: 298
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-11-03
-description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Astma, bronchiale aandoening"
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Salbutamol
@@ -33,52 +33,40 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **8**
 
 </div>
 
-## Salbutamol: Van astma naar papillaire conjunctivitis
+## Salbutamol: Papillaire conjunctivitis (papillary conjunctivitis)
 {: .text-alpha }
 
-## Samenvatting
+## Samenvatting in één zin
 
-Salbutamol is een bronchusverwijder (bèta-2-agonist) die oorspronkelijk wordt gebruikt bij **astma** en bronchiale aandoeningen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **papillaire conjunctivitis**. Op dit moment ondersteunen **0 klinische studies** en **0 publicaties** deze richting, dus het is uitsluitend een modelvoorspelling.
-
----
+Salbutamol is een kortwerkende β2-adrenerge agonist die als bronchusverwijder wordt gebruikt. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **papillaire conjunctivitis (papillary conjunctivitis)**, met een score van 0,9999. Voor deze specifieke voorspelling zijn in de voor dit rapport samengestelde gegevens **geen klinische studies en geen publicaties** gevonden; het betreft dus een puur modelmatige voorspelling.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Astma, bronchiale aandoening |
-| Voorspelde nieuwe indicatie | Papillaire conjunctivitis |
-| TxGNN-voorspellingsscore | 1,0000 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Papillaire conjunctivitis (papillary conjunctivitis) |
+| TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
 | Aantal vergunningen | 3 (geldig: 3) |
-| Aanbevolen besluit | Hold |
-
----
+| Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is salbutamol een bèta-2-adrenerge agonist. De werkzaamheid bij astma is aangetoond, via ontspanning van de gladde spiercellen in de luchtwegen. Mechanistisch zou het ook van toepassing kunnen zijn op papillaire conjunctivitis.
+Gedetailleerde gegevens over het werkingsmechanisme van salbutamol zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis is salbutamol een β2-agonist; deze klasse kan via β2-receptoren gladde spieren ontspannen en mogelijk de afgifte van mediatoren uit mestcellen remmen.
 
-Bèta-2-agonisten hebben mogelijk een antiallergisch effect op mestcellen en het bindvlies van het oog. Dit is aannemelijk, maar niet bewezen. De overlap tussen de oorspronkelijke indicatie (een allergisch-inflammatoire aandoening van de luchtwegen) en de voorspelde indicatie (een allergisch-inflammatoire aandoening van het oog) kan een deel van de hoge modelscore verklaren. Er zijn geen studies die dit voor papillaire conjunctivitis bevestigen.
-
----
+Papillaire conjunctivitis is een allergisch-inflammatoire aandoening van het oogbindvlies waarbij mestcellen een rol spelen. Een anti-allergisch effect van β2-agonisten op mestcellen en conjunctivaal weefsel is daarom theoretisch denkbaar, maar tot nu toe niet aangetoond. Er zijn geen gegevens die dit voor deze aandoening onderbouwen, en ook de gelijkenis met de oorspronkelijke toepassing is niet nader onderzocht.
 
 ## Bewijs uit klinische studies
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
-
----
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
-Er is momenteel geen gerelateerde literatuur beschikbaar.
-
----
+Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
-
-Voor de goedkeuringen in de gegevens van het CBG-MEB zijn geen dosisvorm en geen goedgekeurde indicatietekst vastgelegd. Alle drie de vergunningen zijn geldig.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
@@ -86,40 +74,27 @@ Voor de goedkeuringen in de gegevens van het CBG-MEB zijn geen dosisvorm en geen
 | RVG 114132 | Ipratropiumbromide/Salbutamol Cipla 0,5/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
 | RVG 118115 | Zerseos 0,5 mg/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
 
----
+Alle drie de vergunningen zijn geldig.
 
 ## Veiligheidsoverwegingen
 
-De onderstaande gegevens zijn afgeleid uit een kennisgraaf (PrimeKG) en niet uit de officiële productinformatie. Ze zijn dus indicatief.
+**Geneesmiddelinteracties:** In de interactiedatabase zijn in totaal 1104 interacties geregistreerd. Voorbeelden van interacties van matig niveau zijn acarbose, epinefrine, famotidine, clarithromycine, cisapride, canagliflozine en dapagliflozine. Interacties met corticosteroïden zoals hydrocortison, budesonide en dexamethason zijn als gering ingedeeld.
 
-- **Aandoeningen waarbij voorzichtigheid of vermijding wordt gesuggereerd (kennisgraaf)**:
-  - Hart en bloedvaten: hypertensie, lange-QT-syndroom (ook familiair), plotselinge hartstilstand, hartgeleidingsstoornissen, myocardischemie, coronaire hartziekte.
-  - Metabool: diabetes mellitus, diabetische ketoacidose, acidose, metabole acidose, kaliumdeficiëntie.
-  - Overig: epilepsie, hyperthyreoïdie (ziekte van Graves, thyreotoxicose), goedaardige prostaathyperplasie, blaashalsobstructie, oculaire hypertensie, geslotenhoekglaucoom.
-- **Geneesmiddelinteracties**: in totaal zijn 1.104 interacties gevonden. Van de eerste 20 weergegeven interacties zijn de meeste van gemiddeld niveau. Het gaat onder meer om:
-  - antidiabetica (acarbose, albiglutide, acetohexamide, alogliptine, canagliflozine, dapagliflozine, chloorpropamide);
-  - epinefrine, isometheptene, famotidine, bisacodyl, ricinusolie, cisapride, claritromycine en diethylpropion.
-  - Corticosteroïden (hydrocortison, beclometason, betametason, budesonide, dexamethason) zijn van licht niveau.
-
-Raadpleeg voor de volledige en officiële veiligheidsinformatie (waarschuwingen en contra-indicaties) de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
-
----
+Voor waarschuwingen en contra-indicaties geldt: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van het product, zoals beoordeeld door het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor papillaire conjunctivitis berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en alle drie de Nederlandse vergunningen zijn geldig.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5): er zijn voor papillaire conjunctivitis geen klinische studies of publicaties gevonden en een mechanistische onderbouwing ontbreekt.
 
 **Om verder te gaan is het volgende nodig:**
-- Gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor het oog.
-- Preklinisch en klinisch onderzoek naar salbutamol bij papillaire conjunctivitis.
-- Beoordeling van de toedieningsroute. De bekende Nederlandse producten zijn inhalatie- en vernevelvormen, en een oculaire toediening is niet beschikbaar.
-- Verificatie van de officiële waarschuwingen en contra-indicaties in de SmPC van het CBG-MEB.
-- Opheldering van de huidige registratiestatus in Nederland.
+- Gedetailleerde gegevens over het werkingsmechanisme van salbutamol.
+- Een literatuuronderzoek en preklinisch onderzoek naar β2-agonisten bij papillaire conjunctivitis.
+- Beoordeling van de toedieningsroute (oculair versus inhalatie), aangezien de beschikbare Nederlandse producten inhalatie- of vernevelpreparaten zijn.
+- Gegevens uit de SmPC over waarschuwingen en contra-indicaties voor de veiligheidsbeoordeling.
 
-**Opmerking:** Andere voorspelde indicaties voor salbutamol hebben meer bewijs. Voorbeelden zijn obstructieve longziekte, die grotendeels overlapt met de bestaande indicaties (astma en bronchiale aandoening), bronchitis en anafylaxie. Deze verdienen mogelijk een afzonderlijke beoordeling.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

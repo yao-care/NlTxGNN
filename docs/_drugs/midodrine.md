@@ -38,33 +38,44 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één zin
 
-Midodrine is een perifere alfa-1-adrenerge agonist die vooral wordt gebruikt om de bloeddruk te verhogen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **variabel proteasegevoelige prionopathie (variably protease-sensitive prionopathy)**, maar voor deze voorspelling zijn **geen klinische studies en geen publicaties** gevonden. Het bewijsniveau is daarom **L5** (alleen modelvoorspelling).
+Midodrine is een perifere alfa-1-adrenerge agonist die vooral wordt gebruikt bij aandoeningen met een lage bloeddruk. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **variabel proteasegevoelige prionopathie (variably protease-sensitive prionopathy)**, maar voor deze voorspelling zijn **geen klinische studies en geen publicaties** gevonden; het bewijsniveau is daarom **L5** (alleen modelvoorspelling).
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 1) |
 | Voorspelde nieuwe indicatie | Variabel proteasegevoelige prionopathie (variably protease-sensitive prionopathy) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Status in Nederland | In de handel |
+| Aanbevolen besluit | Hold (aanhouden) |
+
+---
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Midodrine is een prodrug. De actieve metaboliet, desglymidodrine, activeert perifere alfa-1-adrenerge receptoren, waardoor de vaattonus en de bloeddruk toenemen. Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet volledig beschikbaar.
+Midodrine is een prodrug. De actieve metaboliet, desglymidodrine, stimuleert perifere alfa-1-receptoren, waardoor de vaattonus en de bloeddruk toenemen. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar.
 
-Variabel proteasegevoelige prionopathie is een zeldzame neurodegeneratieve prionziekte. Er is geen herkenbaar mechanistisch verband tussen perifere alfa-1-agonistische vaatvernauwing en de pathologie van prionziekten. De hoge score (0,9999) is een door het model berekende voorspelling en wordt niet ondersteund door klinische of literatuurgegevens. Zonder ondersteunend bewijs moet de voorspelling met grote terughoudendheid worden beoordeeld.
+Variabel proteasegevoelige prionopathie is een zeldzame, neurodegeneratieve prionziekte. Er is geen herkenbaar mechanistisch verband tussen perifere alfa-1-agonisme en het ziekteproces van deze prionopathie. De zeer hoge score (0,9999) is een puur op modelberekening gebaseerde voorspelling en wordt niet ondersteund door klinische of literatuurgegevens. Midodrine passeert bovendien de bloed-hersenbarrière niet noemenswaardig, wat een direct effect in het centrale zenuwstelsel onwaarschijnlijk maakt.
+
+---
 
 ## Klinisch trialbewijs
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
+---
+
 ## Literatuurbewijs
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
 
@@ -72,26 +83,31 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 118685//16514 | Gutron 5 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Er is 1 geldige vergunning geregistreerd bij het CBG-MEB. Raadpleeg de SmPC en de bijsluiter voor de officiële productinformatie.
+Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is. De volledige productinformatie staat in de SmPC en de bijsluiter (PIL).
 
-## Veiligheidsoverwegingen
+---
 
-- **Geneesmiddelinteracties**: in totaal zijn 94 interacties bekend. Voorbeelden van matige interacties zijn isometheptene, epinefrine, efedrine, bupropion, fentermine, sibutramine en lorcaserine. Cimetidine, ranitidine en metformine zijn als geringe interacties vermeld.
+## Veiligheidsaspecten
 
-Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken).
+- **Contra-indicaties volgens aanvullende gegevens**: in de voor dit rapport samengestelde gegevens zijn verbanden vastgelegd met feochromocytoom (bijniermerg), paragangliomen van het sympathische systeem, kanker van de twaalfvingerige darm, dunne darm, het hart en de bijnier, en met hyperthyreoïdie/thyreotoxicose (waaronder de ziekte van Graves). Dit is geen officiële labeltekst.
+- **Geneesmiddelinteracties**: er zijn 94 interacties bekend. Voorbeelden van matige interacties zijn isometheptheen, epinefrine, efedrine, bupropion, fentermine, sibutramine, lorcaserine, diethylpropion, mazindol, trospium, rolapitant en glycerolfenylbutyraat. Minder belangrijke interacties zijn onder meer ranitidine, cimetidine en metformine.
+- **Klinisch aandachtspunt**: midodrine kan reflexbradycardie veroorzaken en supine hypertensie geven.
+
+Raadpleeg voor volledige veiligheidsinformatie de SmPC.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold (aanhouden)**
 
 **Onderbouwing:**
-- Er is geen enkele studie of publicatie naar midodrine bij variabel proteasegevoelige prionopathie, en er is geen plausibel farmacologisch mechanisme. Het bewijsniveau is L5 en de voorspelling berust uitsluitend op het model.
+- Er is geen enkele studie of publicatie naar midodrine bij variabel proteasegevoelige prionopathie, er is geen aannemelijk mechanisme en de score is een zuivere modelvoorspelling (bewijsniveau L5).
 
 **Om verder te gaan is nodig:**
-- Preklinisch of mechanistisch onderzoek dat een verband tussen alfa-1-adrenerge activering en prionziektepathologie aantoont
-- Gegevens over het werkingsmechanisme van midodrine
-- Beoordeling van de SmPC voor waarschuwingen en contra-indicaties
-- Een systematische literatuur- en trialzoekactie gericht op deze aandoening
+- Preklinisch of mechanistisch onderzoek dat een biologisch verband tussen alfa-1-agonisme en deze prionopathie aantoont
+- Gegevens over het werkingsmechanisme en over de penetratie van het centrale zenuwstelsel
+- Een volledige beoordeling van de SmPC-waarschuwingen en contra-indicaties door het CBG-MEB
 
 ## Disclaimer
 

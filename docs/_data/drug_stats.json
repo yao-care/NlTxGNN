@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 334,
   "level_counts": {
-    "L1": 7,
+    "L1": 6,
     "L2": 14,
     "L3": 17,
     "L4": 26,
-    "L5": 258
+    "L5": 259
   },
   "all_drugs": [
     {
@@ -174,7 +174,7 @@
     {
       "name": "Aripiprazole",
       "slug": "aripiprazole",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 8
     },
     {

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: Sterk bewijs (L1-L2)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 42
-evidence_level: L1
+evidence_level: L5
 indication_count: 8
 monitor_inn: "aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 last_modified_at: 2026-11-03
-description: "Aripiprazole: voorspelde nieuwe indicatie Gaze palsy, familial horizontal, with progressive scoliosis (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Aripiprazole: voorspelde nieuwe indicatie Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) (bewijsniveau L5)."
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **8** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,92 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **8**
 
 </div>
 
-## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
+## Aripiprazole: Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis)
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting in één alinea
 
-Aripiprazol is een atypisch antipsychoticum dat werkt als partieel agonist van dopamine-D2/D3- en serotonine-5-HT1A-receptoren. Hiervoor zijn in de samengestelde gegevens **34 klinische studies** en **20 publicaties** gevonden, waaronder meerdere grote, gerandomiseerde fase 3-studies naar aanvullende behandeling bij depressie.
+Aripiprazol is een atypisch antipsychoticum met een partieel agonistische werking op dopamine-D2- en serotonine-5-HT1A-receptoren. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis)**. Deze voorspelling wordt op dit moment door **0 klinische studies** en **0 publicaties** ondersteund. Het is dus een zuiver modelmatige voorspelling.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Gaze palsy, familial horizontal, with progressive scoliosis |
+| Voorspelde nieuwe indicatie | Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN-voorspellingsscore | 0.9960 |
-| Evidentieniveau | L1 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Doorgaan met randvoorwaarden |
+| Aanbevolen besluit | Hold |
 
-## Waarom is deze voorspelling redelijk?
+---
 
-Aripiprazol is een partieel agonist van dopamine-D2/D3-receptoren en van serotonine-5-HT1A-receptoren, en tegelijk een antagonist van 5-HT2A-receptoren. Dit profiel moduleert de monoaminerge activiteit. Het kan daarom een aanvulling zijn op antidepressiva bij patiënten die onvoldoende reageren op hun huidige behandeling. De gegevens die voor dit rapport zijn samengesteld bevatten geen gedetailleerde mechanistische beschrijving; deze toelichting berust op algemene farmacologische kennis.
+## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Stemmingsstoornissen delen een neurobiologische basis met de aandoeningen waarvoor aripiprazol al wordt gebruikt, zoals bipolaire stoornis. De samengestelde gegevens bevatten meerdere grote, placebogecontroleerde fase 3-studies naar aanvullend gebruik bij depressie. Ook beschrijven overzichtsartikelen en netwerk-meta-analyses atypische antipsychotica, waaronder aripiprazol, als de best onderzochte aanvullende optie bij therapieresistente depressie.
+Voor deze voorspelling is geen werkingsmechanisme beschikbaar in de voor dit rapport verzamelde gegevens. Aripiprazol is bekend als partiële agonist van D2- en 5-HT1A-receptoren. Dat past bij aandoeningen waarin dopaminerge of serotonerge disbalans een rol speelt.
 
-## Evidentie uit klinische studies
+Familiaire horizontale blikparese met progressieve scoliose is een zeldzame erfelijke aandoening die samenhangt met afwijkende axonale geleiding (de bedrading van zenuwbanen) in de hersenstam. Een aannemelijke route waarlangs dopamine- of serotoninemodulatie dit zou kunnen beïnvloeden, is in de beschikbare gegevens niet te herkennen. De hoge modelscore (0,9960) is uitsluitend een rekenkundige uitkomst van het model. Zij is geen aanwijzing voor klinische werkzaamheid.
 
-De tabel toont de meest relevante studies (maximaal 10).
+---
 
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Fase 3 | Afgerond | 1200 | Dubbelblind, placebogecontroleerd: aripiprazol als aanvulling op antidepressiva bij ernstige depressie |
-| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Fase 3 | Afgerond | 1151 | 14 weken, dubbelblind, placebogecontroleerd: aanvullend aripiprazol bij ernstige depressie |
-| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Fase 3 | Afgerond | 1522 | VAST-D: aripiprazol-augmentatie versus bupropion-augmentatie of overstappen op bupropion bij veteranen |
-| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Fase 3 | Afgerond | 225 | Dubbelblind, placebogecontroleerd: aripiprazol in verlaagde dosis naast antidepressiva |
-| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Fase 3 | Afgerond | 349 | 14 weken, dubbelblind, placebogecontroleerd: veiligheid en werkzaamheid als aanvulling op antidepressiva |
-| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Fase 3 | Afgerond | 586 | Placebogecontroleerd: aripiprazol naast SSRI of SNRI bij ernstige depressie |
-| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Fase 3 | Afgerond | 1002 | 52 weken, open-label: langetermijnveiligheid en verdraagbaarheid als aanvulling |
-| [NCT00882362](https://clinicaltrials.gov/study/NCT00882362) | Fase 3 | Afgerond | 155 | Langetermijnstudie naar veiligheid en werkzaamheid als aanvulling op SSRI of SNRI |
-| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Fase 3 | Voortijdig beëindigd | 211 | Gerandomiseerd, dubbelblind: combinatie aripiprazol/escitalopram; vroegtijdige beëindiging beperkt de interpretatie |
-| [NCT01488266](https://clinicaltrials.gov/study/NCT01488266) | Niet van toepassing | Onbekend | 90 | Aripiprazol-augmentatie versus overstappen op een andere klasse antidepressiva |
+## Bewijs uit klinische studies
 
-## Evidentie uit de literatuur
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
-De tabel toont de meest relevante publicaties (maximaal 10), met prioriteit voor systematische reviews en meta-analyses.
+---
 
-| PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
-|---------|------|------|------|---------|
-| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Systematische review/netwerk-meta-analyse | JAMA Psychiatry | Aanvullende antipsychotica bij ernstige depressie; de FDA heeft vijf atypische antipsychotica goedgekeurd op basis van werkzaamheid en veiligheid |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematische review/netwerk-meta-analyse | Journal of Affective Disorders | Vergelijking van augmentatiestrategieën bij therapieresistente depressie |
-| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Systematische review/netwerk-meta-analyse | Neuropsychopharmacology | Relatieve effectiviteit van behandelingen bij therapieresistente depressie |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematische review/meta-analyse | Journal of Psychopharmacology | Augmentatie- en combinatiebehandelingen bij vroege therapieresistente depressie |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematische review/meta-analyse | Journal of Psychopharmacology | Antidepressiva plus tweedegeneratie-antipsychotica versus esketamine versus lithium |
-| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | Gerandomiseerde klinische studie | Molecular Psychiatry | ASCERTAIN-TRD: augmentatie met aripiprazol of rTMS versus overstappen op venlafaxine |
-| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Netwerk-meta-analyse | Advances in Therapy | Werkzaamheid en veiligheid van aanvullende atypische antipsychotica bij ernstige depressie |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Review | Psychiatric Clinics of North America | Atypische antipsychotica als de best onderzochte augmentatiemiddelen bij therapieresistente depressie |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Review | American Journal of Psychiatry | Plaats van antipsychotica in het veranderende behandellandschap van therapieresistente depressie |
-| [26279130](https://pubmed.ncbi.nlm.nih.gov/26279130/) | 2015 | Studieopzet | Psychiatry Research | Opzet van de VAST-D-studie: aripiprazol-augmentatie als vervolgstap |
+## Bewijs uit de literatuur
 
-Eén meta-analyse in de gegevens (PMID 38669232) is ingetrokken en is hier niet meegenomen.
+Momenteel is er geen gerelateerde literatuur beschikbaar.
+
+---
 
 ## Informatie over de Nederlandse markt
+
+De marktstatus is **In de handel**. Er is één geldige vergunning (CBG-MEB).
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 116179 | Aripiprazol Unichem 30 mg, tabletten | Niet vermeld | Niet vermeld |
 
-De lokale gegevens bevatten één vergunning. Voor de actuele status en de goedgekeurde indicaties wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken) en de CBG-MEB.
+---
 
-## Veiligheidsoverwegingen
+## Veiligheidsaspecten
 
-Voor dit rapport zijn geen gegevens over waarschuwingen of contra-indicaties uit de SmPC beschikbaar. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL) van het betreffende product.
 
-**Geneesmiddelinteracties:** er zijn 349 interacties geregistreerd. Voorbeelden:
+**Geneesmiddelinteracties:** in de verzamelde gegevens staan 349 interacties vermeld. Enkele voorbeelden:
+
 - **Ernstig:** bupropion.
-- **Matig:** onder meer metformine, pioglitazon, acarbose, alogliptine, albiglutide, canagliflozine, famotidine, cimetidine, clarithromycine, cisapride, epinefrine, atropine, hyoscyamine, loperamide en aprepitant.
+- **Matig:**
+  - bloedsuikerverlagende middelen: metformine, pioglitazon, acarbose, alogliptine, canagliflozine, albiglutide, chloorpropamide en acetohexamide;
+  - claritromycine en cimetidine;
+  - famotidine;
+  - anticholinerge middelen: atropine, hyoscyamine en clidinium;
+  - loperamide, cisapride, aprepitant, epinefrine en clotrimazol.
 
-Let vooral op combinaties met antidiabetica, middelen die CYP2D6/CYP3A4 beïnvloeden en middelen met anticholinerge effecten.
+Een volledige beoordeling van interacties vereist raadpleging van de SmPC en een actuele interactiedatabase.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Doorgaan met randvoorwaarden**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Meerdere grote, afgeronde fase 3-studies met placebocontrole onderzoeken aripiprazol als aanvulling op antidepressiva bij ernstige depressie, en meta-analyses ondersteunen dit gebruik. De voorspelling is daarmee goed onderbouwd. De onderliggende veiligheidsinformatie en de vergunningsgegevens zijn echter onvolledig.
+- De voorspelling berust alleen op het TxGNN-model. Er zijn geen klinische studies of publicaties over deze aandoening, dus het bewijsniveau is L5.
+- Er is geen aannemelijk mechanistisch verband tussen de werking van aripiprazol en de onderliggende biologie van deze zeldzame aandoening.
 
-**Om verder te gaan is nodig:**
-- Volledige veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties) van het CBG-MEB.
-- Een gedetailleerde beschrijving van het werkingsmechanisme uit een gezaghebbende bron.
-- Beoordeling van de relevante interacties, vooral bij gelijktijdig gebruik van antidiabetica en middelen die het metabolisme van aripiprazol beïnvloeden.
-- Een monitoringplan voor metabole en cardiovasculaire risico's en voor neutropenie.
-- Controle van de actuele vergunningsstatus en goedgekeurde indicaties bij het CBG-MEB.
+**Om verder te gaan is het volgende nodig:**
+- Een onderbouwde mechanistische hypothese, met aanvullende gegevens over het werkingsmechanisme van aripiprazol.
+- Preklinisch onderzoek (bijvoorbeeld celmodellen of diermodellen) dat een effect bij deze aandoening aantoont.
+- Een systematische literatuurstudie naar de pathofysiologie en eventuele eerdere behandelervaringen.
+- Een veiligheidsbeoordeling op basis van de SmPC, in het bijzonder voor een zeldzame, vaak pediatrische populatie.
+- Overleg met het CBG-MEB over de regelgevende route, mocht er later bewijs ontstaan.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

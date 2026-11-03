@@ -103,7 +103,7 @@
       "name": "Alprostadil",
       "slug": "alprostadil",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Alteplase",
@@ -283,7 +283,7 @@
       "name": "Bleomycin",
       "slug": "bleomycin",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Brinzolamide",
@@ -487,13 +487,13 @@
       "name": "Clotrimazole",
       "slug": "clotrimazole",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Clozapine",
       "slug": "clozapine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Colchicine",
@@ -733,7 +733,7 @@
       "name": "Erythromycin",
       "slug": "erythromycin",
       "level": "L5",
-      "indication_count": 5
+      "indication_count": 4
     },
     {
       "name": "Esketamine",
@@ -901,7 +901,7 @@
       "name": "Flurbiprofen",
       "slug": "flurbiprofen",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Fluvastatin",
@@ -1165,7 +1165,7 @@
       "name": "Levofloxacin",
       "slug": "levofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Levonorgestrel",
@@ -1345,7 +1345,7 @@
       "name": "Mitomycin",
       "slug": "mitomycin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 7
     },
     {
       "name": "Modafinil",
@@ -1675,7 +1675,7 @@
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Risperidone",

@@ -82,18 +82,9 @@ van voorspelling.
 
 ## Over de ontwikkelaar
 
-Dit platform wordt ontwikkeld en beheerd door **藥提醒科技有限公司** (yao.care, inschrijvingsnummer
-83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-NlTxGNN is de Nederlandse site van de productlijn "TxGNN Drug Repurposing" van het bedrijf.
-Hetzelfde systeem is uitgerold in 30 landen en regio's, elk met de naam `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, enzovoort) op `{cc}txgnn.yao.care`.
-Productoverzicht: <https://www.yao.care/medical/txgnn/>.
-
-Het TxGNN-model zelf is ontwikkeld door het Zitnik Lab van Harvard Medical School en gepubliceerd
-in *Nature Medicine*. Dit platform is het productiesysteem dat 藥提醒科技有限公司 op dat model heeft
-gebouwd; het omvat de integratie van nationale geneesmiddelregistratiegegevens, voorspelling met deep learning waarbij toepassingen die al in de kennisgraaf staan zijn uitgesloten, bewijsgradering op basis van PubMed / ClinicalTrials, en integratie
-met elektronische patiëntendossiers via SMART on FHIR.
+Dit platform is ontwikkeld en wordt beheerd door **藥提醒科技有限公司** (yao.care). Gegevens over het bedrijf,
+de achtergrond van het TxGNN-model en alle sites van de productlijn staan op de pagina
+<a href="{{ '/about/' | relative_url }}">Over ons</a>.
 
 ---
 

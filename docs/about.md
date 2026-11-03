@@ -86,18 +86,8 @@ tegen zeldzame ziekten wordt voorspeld."
 
 ## Gegevensbronnen
 
-<table class="comparison-table">
-<thead>
-<tr><th>Type</th><th>Bron</th><th>Omschrijving</th></tr>
-</thead>
-<tbody>
-<tr><td>AI-voorspelling</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Graph neural network van Harvard, getraind op een kennisgraaf</td></tr>
-<tr><td>Klinische studies</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Wereldwijd register van klinische studies</td></tr>
-<tr><td>Literatuur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Biomedische literatuurdatabase</td></tr>
-<tr><td>Geneesmiddelinformatie</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Database van geneesmiddelen en aangrijpingspunten</td></tr>
-<tr><td>Registratiegegevens</td><td><a href="https://www.cbg-meb.nl/">CBG-MEB</a></td><td>Gegevens over geneesmiddelregistratie in Nederland</td></tr>
-</tbody>
-</table>
+De bronnen van voorspellingen, bewijs en geneesmiddelgegevens, met hun licenties en updatefrequentie,
+staan op de pagina <a href="{{ '/sources/' | relative_url }}">Gegevensbronnen</a>.
 
 ---
 

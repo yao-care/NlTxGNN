@@ -3,7 +3,7 @@ layout: default
 title: Diltiazem
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 115
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Diltiazem: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 Het TxGNN-model (score ≥ 0,99) heeft kandidaten voor Diltiazem opgeleverd. Alle kandidaten die naar een bron te herleiden zijn, zijn al bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie.
 
 ## Kort overzicht
+
 | Item | Inhoud |
 |------|------|
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
@@ -51,16 +52,19 @@ Het TxGNN-model (score ≥ 0,99) heeft kandidaten voor Diltiazem opgeleverd. All
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Prinzmetal-angina (Prinzmetal angina) | Vergunning in een ander land; goedgekeurde indicatie: angina |
 
 ### Gerelateerd aan een goedgekeurde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Geen | Geen |
 
 ### Relaties volgens het TxGNN-model (deep learning), mogelijk gebaseerd op geleerde overeenkomsten tussen verwante ziekten en niet op biologisch bewijs (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | Geen |

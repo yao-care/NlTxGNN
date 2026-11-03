@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 322
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -138,6 +138,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 | Atrophoderma vermiculata | 0,9931 | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
 | Syndroom van Gilles de la Tourette | 0,9917 | L5 | Hold. Klasse-rationale voor alfa-2-agonisten, maar geen tizanidinespecifiek bewijs. |
 | Ulerythema ophryogenes | 0,9913 | L5 | Hold. Geen aannemelijk mechanisme en geen bewijs. |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

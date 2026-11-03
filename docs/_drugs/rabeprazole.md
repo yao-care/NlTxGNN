@@ -3,7 +3,7 @@ layout: default
 title: Rabeprazole
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 286
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Rabeprazole: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle kandidaten die naar een bron te herleiden zijn, betreffen al bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie voor dit geneesmiddel.
 
 ## Kort overzicht
+
 | Item | Inhoud |
 |------|------|
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
@@ -51,16 +52,19 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle ka
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Geen | – |
 
 ### Gerelateerd aan een goedgekeurde indicatie (dezelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Geen | – |
 
 ### Relaties vastgelegd in de bronnen (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 

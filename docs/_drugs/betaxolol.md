@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 55
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Betaxolol: bekende toepassingen en handelsstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 De kandidaten die het TxGNN-model voor Betaxolol voorstelt, zijn allemaal al bekende toepassingen. Er is daarom op dit moment geen nieuwe voorspelde indicatie. Deze pagina toont de handelsstatus in Nederland en de bekende toepassingen onder de kandidaten van het model.
 
 ## Kort overzicht
+
 | Item | Inhoud |
 |------|------|
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
@@ -52,16 +53,19 @@ De kandidaten die het TxGNN-model voor Betaxolol voorstelt, zijn allemaal al bek
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Geen | – |
 
 ### Gerelateerd aan een goedgekeurde indicatie (dezelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Geen | – |
 
 ### Relaties tussen geneesmiddel en ziekte (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | Geen |

@@ -3,7 +3,7 @@ layout: default
 title: Flunarizine
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 157
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Flunarizine: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 De kandidaten die het TxGNN-model (score ≥ 0,99) voor Flunarizine heeft opgeleverd en die naar een bron te herleiden zijn, betreffen allemaal reeds bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie. Hieronder staat welke bekende toepassing onder de kandidaten van het model valt.
 
 ## Kort overzicht
+
 | Onderdeel | Inhoud |
 |------|------|
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
@@ -51,16 +52,19 @@ De kandidaten die het TxGNN-model (score ≥ 0,99) voor Flunarizine heeft opgele
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of etiket)
+
 | Indicatie | Bron |
 |------|------|
 | migraine (migraine disorder) | officieel etiket (samengesteld); goedgekeurde indicatie: migraine |
 
 ### Gerelateerd aan een goedgekeurde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | geen | geen |
 
 ### Door het TxGNN-model (deep learning) geleerde verbanden tussen verwante ziekten (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | geen |

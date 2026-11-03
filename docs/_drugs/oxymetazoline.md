@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -106,6 +106,7 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 | Rang | Voorspelde indicatie | Score | Evidentieniveau | Aanbeveling |
 |------|------|------|------|------|
 | 3 | Hoofdpijnaandoening | 0,9904 | L3 | Onderzoeksvraag: één observationele studie (2020, [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) naar intranasaal tetracaïne 3% plus oxymetazoline 0,05% bij status migrainosus. De bijdrage van oxymetazoline alleen is onduidelijk. |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

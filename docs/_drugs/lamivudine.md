@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 194
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
@@ -127,6 +127,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 | Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 0,9993 | L5 | Hold | Alleen modelvoorspelling; geen aannemelijk mechanisme |
 | Verouderde term voor familiaire gecombineerde hyperlipidemie | 0,9963 | L5 | Hold | Verouderde ziektenaam, geen bewijs |
 | Chronische hepatitis C-virusinfectie | 0,9911 | L4 | Hold | HCV gebruikt geen reversetranscriptase; literatuur betreft algemene hepatitisreviews; directwerkende antivirale middelen zijn standaardzorg |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

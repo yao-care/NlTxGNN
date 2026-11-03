@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 330
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -117,6 +117,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 | Schizotypische persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen voorspelling) |
 | Benigne paroxismale torticollis van de kindertijd | 0,9983 | L5 | Hold (alleen voorspelling; veiligheid bij zuigelingen niet vastgesteld) |
 | Ohdo-syndroom en varianten | 0,9928 | L5 | Hold (alleen voorspelling) |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 269
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -135,6 +135,7 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 |---|---|---|---|---|
 | 3 | Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) | 0,9932 | L5 | Onderzoeksvraag |
 | 4 | Acrodermatitis chronica atrophicans | 0,9901 | L5 | Hold |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

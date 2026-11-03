@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 16
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Acetaminophen: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 Het TxGNN-deep-learningmodel (score ≥ 0,99) leverde kandidaten op voor Acetaminophen. Alle kandidaten die naar een bron te herleiden zijn, betreffen echter al bekende toepassingen. Er is daarom op dit moment geen nieuwe voorspelde indicatie.
 
 ## Kort overzicht
+
 | Item | Inhoud |
 |------|------|
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
@@ -52,16 +53,19 @@ Het TxGNN-deep-learningmodel (score ≥ 0,99) leverde kandidaten op voor Acetami
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (onderbouwd door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Geen | Geen |
 
 ### Verwant aan een goedgekeurde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Geen | Geen |
 
 ### Relaties tussen ziekten volgens het TxGNN-model (deep learning) (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | Geen |

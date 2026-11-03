@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -138,6 +138,7 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 | 6 | Hyperfosfatemie | 0,9937 | L5 | Hold (alleen een review over obstipatie bij nierziekte) |
 | 7 | Inspanningsgeïnduceerde maligne hyperthermie | 0,9914 | L5 | Hold (geen bewijs) |
 | 8 | Galwegneoplasma | 0,9912 | L5 | Hold (alleen indirect, ondersteunend bewijs) |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 61
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Brinzolamide: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 Het TxGNN-model (score ≥ 0,99) leverde voor Brinzolamide kandidaten op, maar alle kandidaten die naar een bron te herleiden zijn, betreffen al bekende toepassingen. Er is daarom momenteel geen nieuwe voorspelde indicatie. Hieronder staat welke bekende toepassing onder de kandidaten van het model valt.
 
 ## Snel overzicht
+
 | Item | Inhoud |
 |------|------|
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
@@ -52,16 +53,19 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Brinzolamide kandidaten op, maar a
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | primair erfelijk glaucoom (primary hereditary glaucoma) | vergunning in een ander land; goedgekeurde indicatie: glaucoma |
 
 ### Gerelateerd aan een goedgekeurde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Geen | Geen |
 
 ### Relaties tussen ziekten en geneesmiddelen (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | Geen |

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -138,6 +138,7 @@ Het model voorspelde ook andere indicaties. Hieronder staat een korte samenvatti
 | 6 | Mictie-geïnduceerde aanvallen | 0,9989 | L4 | Hold | Alleen algemene reviews en richtlijnen |
 | 7 | Orgasme-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
 | 8 | Eet-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Geen relevante literatuur |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

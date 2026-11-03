@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 310
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Tazobactam: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 Alle kandidaten die het TxGNN-model voor Tazobactam heeft gegenereerd, zijn al bekende toepassingen. Er is daarom op dit moment geen nieuwe voorspelde indicatie. Hieronder staat welke bekende toepassingen onder de kandidaten vallen en hoe het middel op de markt staat.
 
 ## Kort overzicht
+
 | Item | Inhoud |
 |------|------|
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
@@ -52,16 +53,19 @@ Alle kandidaten die het TxGNN-model voor Tazobactam heeft gegenereerd, zijn al b
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Goedgekeurd (ondersteund door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Pneumonie (pneumonia) | Vergunning in een ander land; goedgekeurde indicatie: hospital-acquired pneumonia (hap), including ventilator associated pneumonia (vap). consideration should be given to official guidance on the appropriate use of antibacterial agents |
 
 ### Verwant aan een goedgekeurde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Goedgekeurde categorie |
 |------|------|
 | Urineweginfectie (urinary tract infection (disease)) | urinary tract infection |
 
 ### Relaties volgens het TxGNN-model (deep learning), die geleerde overeenkomsten tussen verwante ziekten kunnen weerspiegelen en geen biologisch bewijs zijn (geen goedkeuring gevonden)
+
 | Indicatie |
 |------|
 | Geen |

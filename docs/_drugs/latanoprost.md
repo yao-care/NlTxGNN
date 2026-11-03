@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 199
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -123,6 +123,7 @@ Alle onderstaande voorspellingen zijn L5 (alleen modelvoorspelling, zonder trial
 | 8 | Angiodysplasie van de maag | 0,9970 | Hold | Geen duidelijk verband; oogdruppel bereikt de maag niet |
 | 9 | Blauwe-teensyndroom | 0,9969 | Hold | Indirect verband; verwaarloosbare systemische blootstelling |
 | 10 | Lymfangiëctasie | 0,9967 | Hold | Speculatief verband via prostaglandinesignalering |
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

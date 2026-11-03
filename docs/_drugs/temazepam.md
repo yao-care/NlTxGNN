@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 312
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Temazepam: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 De kandidaten die het TxGNN-model voor Temazepam voorstelt (score ≥ 0,99), zijn voor zover herleidbaar tot een bron allemaal al bekende toepassingen. Er is daarom op dit moment geen nieuwe voorspelde indicatie voor dit middel.
 
 ## Snel overzicht
+
 | Item | Inhoud |
 |------|------|
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
@@ -52,16 +53,19 @@ De kandidaten die het TxGNN-model voor Temazepam voorstelt (score ≥ 0,99), zij
 ## Bekende toepassingen onder de kandidaten van het model
 
 ### Geregistreerd (onderbouwd door een vergunning of productinformatie)
+
 | Indicatie | Bron |
 |------|------|
 | Geen | – |
 
 ### Verwant aan een geregistreerde indicatie (zelfde ziektecategorie)
+
 | Indicatie | Geregistreerde categorie |
 |------|------|
 | Geen | – |
 
 ### Relaties tussen ziekten die het TxGNN-model (deep learning) heeft geleerd (geen registratie gevonden)
+
 | Indicatie |
 |------|
 | Geen |

@@ -14,6 +14,7 @@
 - Voorspellingen voor Geneesmiddelherpositionering \u2014 Nederland: https://nltxgnn.yao.care/
 - Alle geneesmiddelen: https://nltxgnn.yao.care/drugs/
 - Sterk bewijs (L1-L2): https://nltxgnn.yao.care/evidence-high/
+- Geneesmiddelen met studiebewijs voor een nieuwe indicatie: https://nltxgnn.yao.care/clinical-trial-evidence/
 - Matig bewijs (L3-L4): https://nltxgnn.yao.care/evidence-medium/
 - Alleen modelvoorspelling (L5): https://nltxgnn.yao.care/evidence-low/
 - Methodologie: https://nltxgnn.yao.care/methodology/

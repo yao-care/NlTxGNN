@@ -15,6 +15,7 @@ Bewijsniveaus lopen van L1 (sterker klinisch bewijs) tot L5 (alleen modelvoorspe
 - `/` Voorspellingen voor Geneesmiddelherpositionering — Nederland — AI-gestuurde voorspellingen voor herbestemming van geneesmiddelen voor 334 door het CBG-MEB goedgekeurde geneesmiddelen. Het TxGNN-model vindt mogelijke nieuwe therapeutische toepassingen met evidence-based validatie.
 - `/drugs/` Alle geneesmiddelen — Alle validatierapporten van geneesmiddelen en de statistieken per bewijsniveau in NlTxGNN.
 - `/evidence-high/` Sterk bewijs (L1-L2) — L1-L2-kandidaten voor geneesmiddelherpositionering in NlTxGNN, ondersteund door klinische studies of systematische reviews.
+- `/clinical-trial-evidence/` Geneesmiddelen met studiebewijs voor een nieuwe indicatie — Geneesmiddelen van het CBG-MEB waarvan de door TxGNN voorspelde nieuwe indicatie bewijs uit klinische studies heeft (L1-L2): indicatie, niveau, studies.
 - `/evidence-medium/` Matig bewijs (L3-L4) — L3-L4-kandidaten voor geneesmiddelherpositionering in NlTxGNN, onderbouwd met observationeel of preklinisch bewijs.
 - `/evidence-low/` Alleen modelvoorspelling (L5) — L5-kandidaten in NlTxGNN: alleen een modelvoorspelling, nog zonder klinisch bewijs of literatuur.
 - `/methodology/` Methodologie — Hoe NlTxGNN voorspellingen produceert en valideert: voorspelling met het TxGNN-model (deep learning), verzameling van bewijs, gradering L1-L5 en beslissingsaanbevelingen.

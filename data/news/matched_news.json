@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-03T00:27:30.024118+00:00",
-  "total_count": 6,
-  "matched_count": 0,
+  "last_updated": "2026-11-03T13:33:44.938980+00:00",
+  "total_count": 8,
+  "matched_count": 1,
   "news": [
+    {
+      "id": "232cae6ab889",
+      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
+      "published": "2026-11-03T13:09:44+00:00",
+      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2e06774c5ad9",
       "title": "Opinie | Voor corona-nabestaanden bestaat er geen hardere trap na - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -20,7 +33,7 @@
       "id": "0e7f7a6f92b9",
       "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
       "published": "2026-11-01T09:11:00+00:00",
-      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlOnderzoekers: eet van de kiwi ook de schil. Maar was hem wel goed&nbsp;&nbsp;Welingelichte KringenVan bloemkoolbladeren tot paprikazaadlijsten: dit gooi je waarschijnlijk onnodig weg&nbsp;&nbsp;GezondnuWaarom eten we niet vaker de vezelrijke schil van groenten en fruit? “Wat een zonde om aardappelen ",
+      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groenten en fruit weg&nbsp;&nbsp;VRTMoeten we de schil van groenten en fruit leren eten? Net datgene wat we vaak weggooien, bevat extra veel vezels&nbsp;&nbsp;De StandaardSchillen e",
       "sources": [
         {
           "name": "de Volkskrant",
@@ -28,6 +41,157 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "e82853b404ee",
+      "title": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren",
+      "published": "2026-10-31T22:00:00+00:00",
+      "summary": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren&nbsp;&nbsp;AD.nlMovember: een maand aandacht voor mentale gezondheid en kanker bij mannen&nbsp;&nbsp;Nationale ZorggidsMovem­ber-cam­pag­ne vraagt wereld­wijd aan­dacht voor gezond­heid van mannen&nbsp;&nbsp;Focus en WTVDat zit wel snor: Go Ahead Eagles komt in actie voor MOVEMBER&nbsp;&nbsp;Het Deventer Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1kwVVNTdTVVNTVCcHNsNHZuLWkzLUdZbnBOWVlBYmd3ZEpSTTZzMXItcHd3b0toV09wR0JBOWJwcU9mZXdmak1kSE8yNnpDd2dWNUUtY0Z0ajh0clJxTDFpNTR5eGhIeWJ5RWtTSTl2d01xM2dySDBpbGdLR3lQUThDNjJtbDRwSDNlTTloNWwwN3JDclhzSEtQcXJtakRuSW9pOHM3ZkMtbmdncTNWZUlybnc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "27d8161addc6",
@@ -43,19 +207,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c82a646c4e34",
-      "title": "Dodental ebola opgelopen tot boven de 5000",
-      "published": "2026-10-31T02:09:02+00:00",
-      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;de VolkskrantMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVHdVYzdBUW01UkVpVExvcWxfRkVzekNkWVkxekxMWjZ5X1pxc0xMOW9sSlhYS0lsSDhObjVLSmFvWERuVWticmZxdTdNZDRSRFlDd3dRSmMyQXIwc3k5YzhTck1MSkZQSVhVRE1jd05Ca3RDT19KbTNPYmJrdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "43032835079c",
       "title": "Sofie (53) schreef afscheidskaartjes voor haar gezin, maar werd wakker met een nieuw hart: ‘Ik grijnsde van oor tot oor’",
       "published": "2026-10-30T07:00:00+00:00",
@@ -64,6 +215,19 @@
         {
           "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczN0VHZUc2lsWDB1aUt1YkdGbG9pYzVzYmxGcnBOTmdMekNCODZySVBWdmRqcml4Nlc3eXE1OXgwblVyRVNNZ2Fzb0VxeGFiYlpEUUdMUlVIbGVITjVHTmRxZVV0ZUZ5ZVVsS2UyQXhmVC1UUzE0WEhwck11cnpudjNzM2NQMmxqbkJkS0RDRDhTOHJKQzRpV202b2lrT2M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "20a8caf9014a",
+      "title": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen - de Volkskrant",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen&nbsp;&nbsp;de VolkskrantSlaapinfluencers en 'quick fixes': wat klopt er van de populaire trends op TikTok en Instagram?&nbsp;&nbsp;Wonen360Samen sterk: Verbeter je slaap&nbsp;&nbsp;NierstichtingDinsdag in 'Focus': slapen als medicijn&nbsp;&nbsp;TVvisie",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGtuZE16WDhmd3k1WWdoQW9JQVItOUZ3RzNqRV9vVk50TkpCRld4MGZ5NDlIaGdEYXd3c0lkZlNSZWpIeFUwTktvWFN4anFBdDdOYU1wVlB3TUphZ0NhRy1zQWFscmpwSFB6eUVuODVQbTQxY0VHdkl6eUJteHNvSHpXbnc3bDBZUEdTSU8wTnFtVkQtbXRFVkZtMnphMzBHQllWSEIzLVNUcEFIWk5ZZEZ5anMyeTZpakhoeHE4V2FGQ2ZQc0RXSU4zOWJhbWNhelctR3B2dXYxWHY3R0RjbmxGSWYwLUk5b3dRX3NKR3o?oc=5"
         }
       ],
       "matched_keywords": []

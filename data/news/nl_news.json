@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-03T00:27:29.906336+00:00",
-  "count": 6,
+  "fetched_at": "2026-11-03T13:33:44.805775+00:00",
+  "count": 8,
   "news": [
     {
       "id": "0e7f7a6f92b9",
       "title": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil - de Volkskrant",
       "published": "2026-11-01T09:11:00+00:00",
-      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlOnderzoekers: eet van de kiwi ook de schil. Maar was hem wel goed&nbsp;&nbsp;Welingelichte KringenVan bloemkoolbladeren tot paprikazaadlijsten: dit gooi je waarschijnlijk onnodig weg&nbsp;&nbsp;GezondnuWaarom eten we niet vaker de vezelrijke schil van groenten en fruit? “Wat een zonde om aardappelen ",
+      "summary": "Onderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groenten en fruit weg&nbsp;&nbsp;VRTMoeten we de schil van groenten en fruit leren eten? Net datgene wat we vaak weggooien, bevat extra veel vezels&nbsp;&nbsp;De StandaardSchillen e",
       "sources": [
         {
           "name": "de Volkskrant",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVRjQ3l1ZXRSRTZ5Ti16c0tvQXYyTGswTnlicEJienBzMWRFUThlT0pKNTBudGZyaldMbTI0bGNkUFk3aFJBSHVIZXZIYjVkcV8zYjdyTUdiLVhoNThZN3V3VnB4SHJrOElfZDBJY3hlaS1TeVg5R2JrM1BRajVhYk5DOTVkVGpGQXZicWxFelduSnl2R284akx3ZzcwbkM2aGVPdDdGY2Zia29jTE5zSkRIWVZOMGVuNXZGZGRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "232cae6ab889",
+      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
+      "published": "2026-11-03T13:09:44+00:00",
+      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
         }
       ]
     },
@@ -28,14 +40,26 @@
       ]
     },
     {
-      "id": "c82a646c4e34",
-      "title": "Dodental ebola opgelopen tot boven de 5000 - NOS",
-      "published": "2026-10-31T02:09:02+00:00",
-      "summary": "Dodental ebola opgelopen tot boven de 5000&nbsp;&nbsp;NOSDodental ebola in Congo opgelopen tot boven de 5000&nbsp;&nbsp;NOSMeer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekHoe dichtbij is een nieuw ebolavaccin, nu er meer dan tienduizend besmettingen zijn?&nbsp;&nbsp;de VolkskrantMeer dan 5000 eboladoden in Democratische Republiek Congo&nbsp;&nbsp;Noordhollands Dagblad",
+      "id": "e82853b404ee",
+      "title": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren - AD.nl",
+      "published": "2026-10-31T22:00:00+00:00",
+      "summary": "Filmsterren zetten de toon: de snor zonder baard is in, vooral onder jongeren&nbsp;&nbsp;AD.nlMovember: een maand aandacht voor mentale gezondheid en kanker bij mannen&nbsp;&nbsp;Nationale ZorggidsMovem­ber-cam­pag­ne vraagt wereld­wijd aan­dacht voor gezond­heid van mannen&nbsp;&nbsp;Focus en WTVDat zit wel snor: Go Ahead Eagles komt in actie voor MOVEMBER&nbsp;&nbsp;Het Deventer Nieuws",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVHdVYzdBUW01UkVpVExvcWxfRkVzekNkWVkxekxMWjZ5X1pxc0xMOW9sSlhYS0lsSDhObjVLSmFvWERuVWticmZxdTdNZDRSRFlDd3dRSmMyQXIwc3k5YzhTck1MSkZQSVhVRE1jd05Ca3RDT19KbTNPYmJrdw?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1kwVVNTdTVVNTVCcHNsNHZuLWkzLUdZbnBOWVlBYmd3ZEpSTTZzMXItcHd3b0toV09wR0JBOWJwcU9mZXdmak1kSE8yNnpDd2dWNUUtY0Z0ajh0clJxTDFpNTR5eGhIeWJ5RWtTSTl2d01xM2dySDBpbGdLR3lQUThDNjJtbDRwSDNlTTloNWwwN3JDclhzSEtQcXJtakRuSW9pOHM3ZkMtbmdncTNWZUlybnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20a8caf9014a",
+      "title": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen - de Volkskrant",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen&nbsp;&nbsp;de VolkskrantSlaapinfluencers en 'quick fixes': wat klopt er van de populaire trends op TikTok en Instagram?&nbsp;&nbsp;Wonen360Samen sterk: Verbeter je slaap&nbsp;&nbsp;NierstichtingDinsdag in 'Focus': slapen als medicijn&nbsp;&nbsp;TVvisie",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGtuZE16WDhmd3k1WWdoQW9JQVItOUZ3RzNqRV9vVk50TkpCRld4MGZ5NDlIaGdEYXd3c0lkZlNSZWpIeFUwTktvWFN4anFBdDdOYU1wVlB3TUphZ0NhRy1zQWFscmpwSFB6eUVuODVQbTQxY0VHdkl6eUJteHNvSHpXbnc3bDBZUEdTSU8wTnFtVkQtbXRFVkZtMnphMzBHQllWSEIzLVNUcEFIWk5ZZEZ5anMyeTZpakhoeHE4V2FGQ2ZQc0RXSU4zOWJhbWNhelctR3B2dXYxWHY3R0RjbmxGSWYwLUk5b3dRX3NKR3o?oc=5"
         }
       ]
     },

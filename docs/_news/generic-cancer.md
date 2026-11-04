@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -55,7 +55,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [ULB-onderzoekers ontdekken belangrijk mechanisme bij uitzaaiing van kanker](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
+
+2026-11-02
+
+Bron: [GVA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
+
+---
 
 ### [De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Valsartan?">
-<strong>Valsartan</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 6 voorspelde indicaties.
+<strong>Valsartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [ULB-onderzoekers ontdekken belangrijk mechanisme bij uitzaaiing van kanker](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
+
+2026-11-02 <span class="news-indication-tag">kanker</span>
+
+Bron: [GVA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
+
+---
 
 ### [De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
 

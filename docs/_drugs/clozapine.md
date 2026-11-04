@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clozapine
-parent: Alleen modelvoorspelling (L5)
+parent: Sterk bewijs (L1-L2)
 nav_order: 95
-evidence_level: L5
+evidence_level: L2
 indication_count: 9
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-03
-description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+last_modified_at: 2026-11-04
+description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Clozapine
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,44 +36,47 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **9**
 ## Clozapine: Manische bipolaire stoornis (manic bipolar affective disorder)
 {: .text-alpha }
 
-## Samenvatting in één alinea
+## Samenvatting in één zin
 
-Clozapine is een atypisch antipsychoticum met een breed receptorprofiel (onder meer D2- en 5-HT2A-antagonisme). Het TxGNN-model voorspelt een mogelijk effect bij **manische bipolaire stoornis (manic bipolar affective disorder)**. Hiervoor is **1 afgerond fase 2-onderzoek** geregistreerd, aangevuld met een systematische review en meta-analyse over clozapine bij bipolaire stoornis. Het bewijs is bescheiden: het fase 2-onderzoek is klein (n=42) en de literatuur betreft vooral therapieresistente gevallen.
+Clozapine is een atypisch antipsychoticum met een breed receptorprofiel. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **manische bipolaire stoornis (manic bipolar affective disorder)**. Deze richting wordt ondersteund door **1 voltooide fase 2-studie** en **20 publicaties**, waaronder een systematische review met meta-analyse. Het bewijs is beperkt tot kleine studies, vooral bij behandelresistente manie, en niveau L2 is daarom het plafond.
 
-## Overzicht
+## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Manische bipolaire stoornis (manic bipolar affective disorder) |
 | TxGNN-voorspellingsscore | 0.9995 |
-| Bewijsniveau | L5 |
+| Bewijsniveau | L2 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Doorgaan met randvoorwaarden |
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van bekende farmacologie blokkeert clozapine meerdere receptoren (dopamine D2, serotonine 5-HT2A, muscarine-, adrenerge en histaminereceptoren). Dit profiel is plausibel relevant voor antimanische en stemmingsstabiliserende effecten, vooral bij patiënten die onvoldoende reageren op standaardbehandeling.
+Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende farmacologie werkt clozapine op meerdere receptoren: D2- en 5-HT2A-antagonisme, plus muscarine-, adrenerge en histaminerge activiteit. Dit brede profiel is mechanistisch plausibel voor antimanische en stemmingsstabiliserende effecten, vooral bij therapieresistente ziekte.
 
-Het gecombineerde bewijs wijst vooral op werkzaamheid bij therapieresistente manie of bipolaire stoornis. Dit is geen bewijs voor eerstelijnsgebruik.
+Het bewijs ondersteunt dit vooral bij behandelresistente bipolaire stoornis. Een voltooide dubbelblinde fase 2-studie onderzocht clozapine bij behandelresistente manie. Een systematische review met meta-analyse van kleine vergelijkende studies vond clozapine vergelijkbaar met andere antipsychotica bij manische episoden en beter bij behandelresistente bipolaire stoornis. Er zijn geen fase 3-studies voor deze specifieke voorspelling.
 
-## Bewijs uit klinische studies
+## Klinisch trialbewijs
 
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fase 2 | Afgerond | 42 | Dubbelblinde studie naar werkzaamheid en veiligheid van clozapine bij therapieresistente manie (2002–2005); direct relevant, maar klein |
+| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fase 2 | Afgerond | 42 | Dubbelblinde studie naar werkzaamheid en veiligheid van clozapine bij behandelresistente manie (2002–2005). Direct relevant, maar klein. |
 
-## Bewijs uit de literatuur
+## Literatuurbewijs
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematische review/meta-analyse | Journal of Psychiatric Research | Beoordeling van klinische werkzaamheid en bijwerkingenprofiel van clozapine bij bipolaire stoornis |
-| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Cohort-/effectiviteitsstudie | The Lancet Psychiatry | Transdiagnostische effectiviteit en veiligheid van clozapine bij psychiatrische aandoeningen, inclusief stemmingsstoornissen, vergeleken met andere antipsychotica |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Review | Bipolar Disorders | Overzicht van de huidige kennis over clozapine bij bipolaire stoornis en richtingen voor vervolgonderzoek |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Molecular Psychiatry | Behandelresistente bipolaire stoornis; overzicht van behandelopties bij acute manie |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatrica Scandinavica | Evidence-based behandelopties voor bipolaire manie |
-| [31567198](https://pubmed.ncbi.nlm.nih.gov/31567198/) | 2021 | Klinische studie (titratie) | American Journal of Therapeutics | Snelle titratie van clozapine bij schizofrenie en bipolaire stoornis |
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematische review/meta-analyse | Journal of Psychiatric Research | Werkzaamheid en bijwerkingenprofiel van clozapine bij bipolaire stoornis. |
+| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematische review | Bipolar Disorders | Werkzaamheid en veiligheid van clozapine bij behandelresistente bipolaire stoornis. |
+| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Review | Bipolar Disorders | Overzicht van de huidige kennis over clozapine bij bipolaire stoornis en toekomstige onderzoeksrichtingen. |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Molecular Psychiatry | Behandelopties bij onvoldoende respons in acute manie of onderhoudsbehandeling. |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatrica Scandinavica | Evidence-based behandelopties voor bipolaire manie, waaronder keuze van stemmingsstabilisator en antipsychoticum. |
+| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Review | Bulletin of the Menninger Clinic | Behandelresistente bipolaire stoornis; bewijs voor nieuwere middelen bestaat vooral uit casusreeksen. |
+| [9448668](https://pubmed.ncbi.nlm.nih.gov/9448668/) | 1998 | Review | Journal of Clinical Psychiatry | Rol van antipsychotica, waaronder clozapine, bij acute en onderhoudsbehandeling van bipolaire stoornis. |
+| [31567198](https://pubmed.ncbi.nlm.nih.gov/31567198/) | 2021 | Klinische studie | American Journal of Therapeutics | Snelle titratie van clozapine bij bipolaire stoornis. |
+| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Casusreeks/review | Clinical Neuropharmacology | Gecombineerde behandeling met elektroconvulsietherapie en clozapine; 67% had baat, bijwerkingen bij 16,6%. |
 
 ## Informatie over de Nederlandse markt
 
@@ -81,38 +84,30 @@ Het gecombineerde bewijs wijst vooral op werkzaamheid bij therapieresistente man
 |---------|------|------|-----------|
 | RVG 118549//10460 | Leponex 100 mg tabletten | Niet vermeld | Niet vermeld |
 
-Volgens de lokale gegevens is er 1 vergunning, die geldig is. Raadpleeg de SmPC (via CBG-MEB) voor de officiële productinformatie en bijsluiter.
-
-## Cytotoxiciteit
-
-Niet van toepassing: clozapine is geen antineoplastisch middel.
+Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig. Voor de volledige productinformatie verwijzen wij naar de SmPC en de bijsluiter.
 
 ## Veiligheidsoverwegingen
 
-Voor de volledige veiligheidsinformatie verwijzen wij naar de SmPC.
+Uit de voor dit rapport samengestelde gegevens komen de volgende punten naar voren. Voor waarschuwingen en contra-indicaties uit de SmPC zijn geen gegevens opgenomen; raadpleeg daarvoor de SmPC.
 
-**Geneesmiddelinteracties** (uit de interactiedata; selectie van ernstige interacties):
-- Bupropion (ernstig)
-- Morfine (ernstig)
-- Kaliumcitraat (ernstig)
-
-Daarnaast zijn meerdere matige interacties geregistreerd, onder meer met antidiabetica (metformine, pioglitazon, alogliptine, canagliflozine, chloorpropamide, acarbose), anticholinergica (atropine, hyoscyamine, glycopyrronium), maagzuurremmers (omeprazol, famotidine, cimetidine) en epinefrine, loperamide en bisacodyl. In totaal zijn 100 interacties gevonden.
-
-**Aandachtspunten uit de literatuur en aanvullende data:** de beschikbare studies noemen risico's op agranulocytose, myocarditis, epileptische aanvallen en metabole effecten; regelmatige bloedcontrole is vereist. Aandoeningen waarbij voorzichtigheid is geboden zijn onder meer epilepsie, leverziekte, neutropenie/agranulocytose, diabetes mellitus, coronaire hartziekte, orthostatische hypotensie, benigne prostaathyperplasie, gesloten-hoekglaucoom en paralytische ileus.
+- **Aandoeningen met een geregistreerde contra-indicatierelatie** (niet afkomstig uit de SmPC-tekst): onder meer neutropenie, agranulocytose en leukopenie. Verder epilepsie, leverziekte, diabetes mellitus en hyperglykemie, diabetische ketoacidose, coronaire hartziekte en hartgeleidingsstoornissen. Ook beroerte en cerebrovasculaire aandoeningen, orthostatische hypotensie, obesitas, hyperlipidemie, benigne prostaathyperplasie, gesloten-hoekglaucoom, ademhalingsfalen en paralytische ileus.
+- **Geneesmiddelinteracties:** 100 interacties zijn geregistreerd. Als *ernstig* geclassificeerd zijn onder meer bupropion, morfine en kaliumcitraat. Vele andere zijn *matig*, onder meer met antidiabetica (metformine, pioglitazon, alogliptine, canagliflozine), anticholinergica (atropine, hyoscyamine, glycopyrronium), famotidine, cimetidine, omeprazol, loperamide en epinefrine.
+- **Uit de literatuur:** risico's op agranulocytose, myocarditis, aanvallen en metabole effecten, met verplichte bloedcontrole.
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Doorgaan met randvoorwaarden**
+**Beslissing: Doorgaan met randvoorwaarden (Proceed with Guardrails)**
 
 **Onderbouwing:**
-- Een afgerond dubbelblind fase 2-onderzoek en een meta-analyse ondersteunen het gebruik van clozapine bij therapieresistente manie. Het bewijs is echter beperkt in omvang, en het gebruik vergt strikte bewaking vanwege ernstige risico's.
+- Er is een voltooide fase 2-studie en een systematische review met meta-analyse die werkzaamheid suggereren bij behandelresistente manie. Het bewijsniveau is L2: er zijn geen fase 3-studies, de studies zijn klein en het bewijs betreft vooral behandelresistente ziekte.
+- Het veiligheidsprofiel van clozapine vraagt strikte randvoorwaarden, met name bloedbeeldbewaking.
 
 **Om verder te gaan is nodig:**
-- Grotere gecontroleerde studies (fase 3) bij volwassenen met manie.
-- Verificatie van de veiligheidsinformatie in de SmPC (waarschuwingen en contra-indicaties), omdat deze niet in de samengestelde data beschikbaar was.
-- Gegevens over het werkingsmechanisme.
-- Een bewakingsplan voor neutrofielen (bloedbeeld), hartfunctie, metabole parameters en interacties.
-- Beoordeling door CBG-MEB over de registratie van de nieuwe indicatie.
+- Bevestigend onderzoek in een grotere, gecontroleerde setting, bij voorkeur fase 3, bij volwassenen met behandelresistente manie.
+- Beoordeling van de volledige SmPC-waarschuwingen en -contra-indicaties door het CBG-MEB.
+- Een veiligheidsmonitoringplan voor neutropenie en agranulocytose, myocarditis, aanvallen en metabole effecten.
+- Een plan voor het beheer van geneesmiddelinteracties.
+- Gegevens over het werkingsmechanisme in relatie tot manie.
 
 ## Disclaimer
 

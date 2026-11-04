@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Valsartan
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 338
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-description: "Valsartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Valsartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **6** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +33,52 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **6**
 
 </div>
 
-## Valsartan: Malignant hypertensive renal disease
+## Valsartan: Maligne hypertensieve nierziekte (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Valsartan is een angiotensine-II-receptorblokker (AT1-receptor) die oorspronkelijk wordt gebruikt voor de behandeling van hypertensie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **maligne renovasculaire hypertensie**. Hiervoor zijn **geen klinische studies** en **1 publicatie** (een dierstudie) beschikbaar, dus de ondersteuning is beperkt en indirect.
+Valsartan is een angiotensine-II-receptorblokker die wordt gebruikt bij de behandeling van hoge bloeddruk. Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **maligne hypertensieve nierziekte (malignant hypertensive renal disease)**. Er zijn **geen klinische studies** en **geen publicaties over valsartan bij deze aandoening** in de voor dit rapport verzamelde gegevens; het bewijsniveau is daarom **L5** (alleen modelvoorspelling).
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Malignant hypertensive renal disease |
+| Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9997 |
-| Bewijsniveau | L4 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Aanbevolen beslissing | Hold (aanhouden) |
+
+---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Valsartan is echter bekend als blokker van de angiotensine-II-type-1-receptor (AT1R). Het renine-angiotensinesysteem speelt een centrale rol bij renovasculaire en maligne hypertensie.
+Gedetailleerde gegevens over het werkingsmechanisme van valsartan zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Valsartan behoort tot de angiotensine-II-receptorblokkers, die het renine-angiotensinesysteem remmen. Blokkade van dit systeem is theoretisch nierbeschermend bij hypertensieve nierschade, doordat zowel de bloeddruk als de druk in de nierfilters daalt.
 
-De enige gevonden publicatie (PMID 11560862, 2001) laat in een diermodel zien dat AT1R-blokkade dodelijke maligne hypertensie kan voorkomen. Dat is een aannemelijk, maar indirect signaal. Omdat de voorspelde indicatie dicht bij de oorspronkelijke antihypertensieve indicatie ligt, gaat het eerder om een uitbreiding van bestaand gebruik dan om echte herpositionering.
+Dit is echter een indirecte redenering. De enige gevonden publicatie (PMID 24368192) onderzoekt avosentan, een endothelinereceptorantagonist, in een rattenmodel en niet valsartan. Er is dus geen direct bewijs dat valsartan bij maligne hypertensieve nierziekte werkzaam of veilig is.
 
-### Overige voorspelde indicaties (ter oriëntatie)
-
-| Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
-|---|---|---|---|
-| Maligne hypertensieve nierziekte | 0,9997 | L4 | Enige publicatie betreft avosentan (endothelineantagonist), niet valsartan |
-| Pulmonale hypertensie, onduidelijk multifactorieel | 0,9997 | L5 | Alleen modelvoorspelling |
-| Pulmonale hypertensie door longziekte/hypoxie | 0,9997 | L4 | Voornamelijk preklinische en indirecte literatuur |
-| Braddock-syndroom | 0,9996 | L5 | Alleen modelvoorspelling |
-| Chronisch pulmonaal hartlijden | 0,9958 | L4 | Indirect bewijs; preklinisch ARNI-onderzoek (sacubitril/valsartan) |
-| Prinzmetal-angina | 0,9945 | L5 | Gevonden publicatie niet relevant |
+---
 
 ## Bewijs uit klinische studies
 
-Voor maligne renovasculaire hypertensie is momenteel geen gerelateerde klinische studie geregistreerd.
+Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+
+---
 
 ## Bewijs uit de literatuur
 
+De enige gevonden publicatie betreft een ander geneesmiddel en een preklinisch model; zij biedt geen direct bewijs voor valsartan.
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preklinisch (diermodel) | Circulation | Blokkade van de angiotensine-II-type-1-receptor voorkomt dodelijke maligne hypertensie, in relatie tot nierontsteking |
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preklinisch (ander middel: avosentan) | Pharmacological Research | Avosentan beschermde bij lagere doses, die geen vochtretentie veroorzaakten, tegen hypertensieve nefropathie in transgene ratten met humaan renine en angiotensinogeen. Betreft niet valsartan. |
+
+---
 
 ## Informatie over de Nederlandse markt
 
@@ -85,27 +86,30 @@ Voor maligne renovasculaire hypertensie is momenteel geen gerelateerde klinische
 |---------|------|------|-----------|
 | RVG 114052 | Valsartan Jubilant 320 mg filmomhulde tabletten (vergunning geldig) | Niet vermeld | Niet vermeld |
 
+---
+
 ## Veiligheidsoverwegingen
 
-Er zijn geen gegevens uit de bijsluiter of SmPC beschikbaar in de data voor dit rapport. Raadpleeg de SmPC voor volledige veiligheidsinformatie.
+Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinformatie.
 
-- **Contra-indicaties uit de kennisgraaf** (afgeleid uit de TxGNN-kennisgraaf, niet uit de officiële productinformatie): onder andere leverfalen en leverziekte, angio-oedeem (waaronder erfelijk en door RAAS-blokkers geïnduceerd), pancreatitis, galblaasziekte, systemische lupus erythematodes, kaliumtekort, diabetes mellitus en diabetische ketoacidose, neutropenie en agranulocytose, hypotensie, hyperparathyreoïdie, hepatische encefalopathie, anurie, jicht, hypercalciëmie, nefrocalcinose, renale arteriestenose en verminderde nierfunctie.
-- **Geneesmiddelinteracties** (100 interacties gevonden, hieronder de belangrijkste):
-  - **Ernstig (Major)**: kaliumbicarbonaat en kaliumchloride (risico op hyperkaliëmie).
-  - **Matig (Moderate)**: hydrocortison, eluxadoline, exenatide, polyethyleenglycol met elektrolyten en diverse insulines (onder andere humane insuline, aspart, degludec, detemir, glargine, glulisine, lispro).
+**Geneesmiddelinteracties** (uit de interactiegegevens; 100 interacties in totaal gevonden, hieronder de belangrijkste):
+- **Ernstig (Major):** kaliumbicarbonaat en kaliumchloride (risico op hyperkaliëmie).
+- **Matig (Moderate):** onder meer hydrocortison, eluxadoline, exenatide, diverse insulines en polyethyleenglycol met elektrolyten.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Beslissing: Hold (aanhouden)**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit een hoge modelscore en één preklinische studie, zonder klinische studies. De voorspelde indicatie ligt bovendien dicht bij de bestaande antihypertensieve indicatie.
+- Het bewijsniveau is L5: er is geen studie van valsartan bij maligne hypertensieve nierziekte, en de enige gevonden publicatie betreft een ander geneesmiddel. De hoge TxGNN-score (0,9997) is op zichzelf onvoldoende voor een verdere beoordeling.
 
 **Om verder te gaan is nodig:**
-- Veiligheidsinformatie uit de officiële productinformatie (SmPC/bijsluiter van het CBG-MEB), omdat dit nu ontbreekt en de veiligheidsscreening blokkeert.
-- Gegevens over het werkingsmechanisme uit DrugBank.
-- Klinische gegevens (bij voorkeur gerandomiseerde studies) specifiek voor valsartan bij maligne of renovasculaire hypertensie.
-- Verduidelijking van de vergunningsstatus en de goedgekeurde indicatie in Nederland.
+- Gericht literatuuronderzoek en eventueel klinische of observationele studies naar valsartan bij maligne hypertensieve nierziekte.
+- Gegevens over het werkingsmechanisme van valsartan.
+- Informatie uit de SmPC (CBG-MEB) over waarschuwingen en contra-indicaties, om een veiligheidsbeoordeling mogelijk te maken, met aandacht voor nierfunctie en kaliumspiegels.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

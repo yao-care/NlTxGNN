@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atomoxetine
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 46
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-description: "Atomoxetine: voorspelde nieuwe indicatie Specific developmental disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Atomoxetine
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **10**
 
 </div>
 
-## Atomoxetine: Specific developmental disorder
+## Atomoxetine: Specifieke ontwikkelingsstoornis (specific developmental disorder)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Atomoxetine is een selectieve noradrenalineheropnameremmer die oorspronkelijk wordt gebruikt voor de behandeling van aandachtstekortstoornis met hyperactiviteit (ADHD). Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **specifieke ontwikkelingsstoornis**, waarvoor momenteel **geen klinische studies** en **13 publicaties** beschikbaar zijn. Deze publicaties gaan vooral over ADHD bij begeleidende ontwikkelingsproblemen, niet over een direct effect op de ontwikkelingsstoornis zelf.
+Atomoxetine is een selectieve remmer van de heropname van noradrenaline en is in Nederland in de handel. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij een **specifieke ontwikkelingsstoornis (specific developmental disorder)**. Er zijn **geen geregistreerde klinische studies** en **geen studie die atomoxetine direct bij deze aandoening onderzoekt**. De gevonden publicaties betreffen een aanverwante aandoening, dus het bewijsniveau is **L5**.
 
 ---
 
@@ -47,9 +47,9 @@ Atomoxetine is een selectieve noradrenalineheropnameremmer die oorspronkelijk wo
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Specific developmental disorder |
+| Voorspelde nieuwe indicatie | Specifieke ontwikkelingsstoornis (specific developmental disorder) |
 | TxGNN-voorspellingsscore | 1.0000 |
-| Bewijsniveau | L3 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
@@ -58,29 +58,31 @@ Atomoxetine is een selectieve noradrenalineheropnameremmer die oorspronkelijk wo
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Atomoxetine is bekend als selectieve noradrenalineheropnameremmer, die aandacht en executieve functies bij ADHD verbetert.
+Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Atomoxetine is bekend als selectieve remmer van de noradrenalineheropname. Dit mechanisme verbetert aandacht en executieve functies.
 
-Specifieke ontwikkelingsstoornissen (bijvoorbeeld leerstoornissen) komen vaak samen met ADHD voor. Een symptoomverbetering is daarom denkbaar via de ADHD-component, en niet via een direct effect op het onderliggende leerdeficit. De beschikbare literatuur beschrijft ADHD-uitkomsten bij neurobiologische ontwikkelingscomorbiditeit (autisme, leerstoornissen), maar geen werkzaamheid op de ontwikkelingsstoornis zelf.
+Specifieke ontwikkelingsstoornissen, zoals leerstoornissen, komen vaak samen voor met de aandoening waarvoor atomoxetine al wordt gebruikt. Een symptoomverbetering is daarom denkbaar via die aandoening, niet via een direct effect op het leerprobleem zelf. De beschikbare literatuur beschrijft uitkomsten bij neurobiologische comorbiditeit (bijvoorbeeld autisme en leerstoornissen). Over werkzaamheid bij de specifieke ontwikkelingsstoornis zelf is niets aangetoond. De hoge modelscore is dus een computationele voorspelling en geen klinisch bewijs.
 
 ---
 
-## Bewijs uit klinisch onderzoek
+## Bewijs uit klinische studies
 
-Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ---
 
 ## Bewijs uit de literatuur
 
+De onderstaande publicaties zijn indirect. Geen ervan onderzoekt atomoxetine bij de specifieke ontwikkelingsstoornis zelf.
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Systematische review / netwerk-meta-analyse | The Lancet Psychiatry | Vergelijking van werkzaamheid en aanvaardbaarheid van farmacologische, psychologische en neurostimulatie-interventies voor ADHD bij volwassenen |
-| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Systematische review / meta-analyse | Autism Research | Drie placebogecontroleerde RCT's (241 kinderen): atomoxetine bij ADHD-symptomen bij autisme |
-| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Review | Therapeutic Advances in Psychopharmacology | Werkzaamheid van atomoxetine bij ADHD met veelvoorkomende comorbiditeit |
-| [35485452](https://pubmed.ncbi.nlm.nih.gov/35485452/) | 2022 | Retrospectief cohort | Neuropsychopharmacology Reports | Factoren die samenhangen met de werkzaamheid van atomoxetine bij volwassen ADHD |
-| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Observationeel (qEEG) | Clinical EEG and Neuroscience | Kwantitatief EEG bij ADHD en leerstoornissen bij kinderen |
-| [39514707](https://pubmed.ncbi.nlm.nih.gov/39514707/) | 2024 | Casusbeschrijving | J Dev Behav Pediatr | Teletherapie en medicatiebeheer bij ADHD met internaliserende symptomen en suïcidaliteit |
-| [42675180](https://pubmed.ncbi.nlm.nih.gov/42675180/) | 2026 | Neuroimaging-onderzoek | Nature Biomedical Engineering | Afwijkingen in structurele connectiviteit bij jongeren met ADHD voorspellen symptomen en behandelresultaat |
+| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Systematische review en netwerk-meta-analyse | The Lancet Psychiatry | Vergelijkt werkzaamheid en aanvaardbaarheid van farmacologische, psychologische en neurostimulerende interventies bij volwassenen. Het onderwerp is een aanverwante aandoening. |
+| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Systematische review en meta-analyse | Autism Research | Drie placebogecontroleerde RCT's met 241 kinderen met autisme. Onderzoekt werkzaamheid en veiligheid van atomoxetine voor de bijkomende aandachtsklachten. |
+| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Review | Therapeutic Advances in Psychopharmacology | Overzicht van de werkzaamheid van atomoxetine bij patiënten met veelvoorkomende comorbide aandoeningen, waaronder ontwikkelingsstoornissen. |
+| [35485452](https://pubmed.ncbi.nlm.nih.gov/35485452/) | 2022 | Retrospectief cohortonderzoek | Neuropsychopharmacology Reports | Zoekt factoren die samenhangen met de werkzaamheid van atomoxetine bij volwassenen. De lange-termijnwerkzaamheid is circa 40% na 6 maanden. |
+| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Observationeel (kwantitatief EEG) | Clinical EEG and Neuroscience | Bespreekt het gebruik van kwantitatief EEG bij kinderen met aandachtsproblemen en leerstoornissen. Het is geen studie naar de werkzaamheid van atomoxetine. |
+| [42675180](https://pubmed.ncbi.nlm.nih.gov/42675180/) | 2026 | Beeldvormend cohortonderzoek | Nature Biomedical Engineering | Afwijkingen in de structurele connectiviteit van de witte stof bij jongeren voorspellen symptoomverloop en behandeluitkomst. Het is geen studie naar de werkzaamheid van atomoxetine. |
+| [39514707](https://pubmed.ncbi.nlm.nih.gov/39514707/) | 2024 | Casusbeschrijving | Journal of Developmental and Behavioral Pediatrics | Beschrijft een elfjarige jongen met comorbide internaliserende klachten en suïcidaliteit, die atomoxetine kreeg. Biedt geen bewijs voor de voorspelde indicatie. |
 
 ---
 
@@ -90,22 +92,18 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 116879//100389 | Strattera 80 mg, harde capsules (geldig) | Niet vermeld | Niet vermeld |
 
+Deze vergunning is geldig. De registratie valt onder het CBG-MEB. Zie voor de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Voor atomoxetine zijn in de kennisgrafiek (TxGNN/PrimeKG) contra-indicaties bij de volgende aandoeningen opgenomen. Dit betreft geen tekst uit de bijsluiter:
+**Geneesmiddelinteracties:** De interactiecontrole is afgerond en vond 222 interacties. Hieronder staan de belangrijkste uit de verzamelde data.
 
-- **Hart- en vaatziekten**: hypertensie, orthostatische hypotensie, posturaal orthostatisch tachycardiesyndroom, hypotensie, coronaire hartziekte, myocardinfarct, beroerte/cerebrovasculaire aandoeningen, plotselinge hartstilstand, geleidingsstoornissen van het hart
-- **Psychiatrische aandoeningen**: bipolaire stoornis, psychotische stoornissen, schizoaffectieve stoornis
-- **Neurologisch**: epilepsie, multipele systeematrofie
-- **Lever en galwegen**: leverziekte, galblaasziekte, hyperbilirubinemie, syndroom van Gilbert
-- **Overig**: hemoglobinopathie, geslotenhoekglaucoom
+- **Ernstig (Major):** cisapride en dolasetron.
+- **Matig (Moderate):** onder meer bupropion, claritromycine, cimetidine, famotidine, epinefrine, efedrine, isomethepteen, fenfluramine, dexfenfluramine, eliglustat, granisetron en loperamide. Ook enkele laxeermiddelen zoals bisacodyl, lactulose en lactitol staan op de lijst.
 
-**Geneesmiddelinteracties**: er zijn 222 interacties geregistreerd. Voorbeelden van **ernstige (Major)** interacties zijn cisapride en dolasetron. Voorbeelden van **matige** interacties zijn bupropion, claritromycine, cimetidine, famotidine, epinefrine en efedrine.
-
-Raadpleeg de SmPC voor de officiële waarschuwingen en contra-indicaties.
+Waarschuwingen en contra-indicaties uit de officiële productinformatie zijn niet in de verzamelde data opgenomen. Raadpleeg daarvoor de SmPC.
 
 ---
 
@@ -114,17 +112,15 @@ Raadpleeg de SmPC voor de officiële waarschuwingen en contra-indicaties.
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs betreft ADHD bij comorbide ontwikkelingsproblemen, niet de specifieke ontwikkelingsstoornis zelf.
+- Er is geen enkele studie die atomoxetine bij een specifieke ontwikkelingsstoornis onderzoekt, en er zijn geen geregistreerde trials. De score is een modelvoorspelling en het bewijsniveau is L5.
+- Eventueel voordeel loopt waarschijnlijk via een aanverwante aandoening en niet via een direct effect op de ontwikkelingsstoornis.
 
 **Om verder te gaan is nodig:**
-- Gegevens over het werkingsmechanisme
-- Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB (nu ontbrekend; blokkerend voor de veiligheidsscreening)
-- Gerandomiseerde studies met uitkomsten op de ontwikkelingsstoornis zelf, naast ADHD-symptomen
-- Een beoordeling van de status van de handelsvergunning in Nederland
+- Een gerichte literatuur- en trialverkenning, of een nieuwe studie, waarin atomoxetine rechtstreeks bij de specifieke ontwikkelingsstoornis wordt onderzocht.
+- Gegevens over het werkingsmechanisme en een onderbouwde mechanistische koppeling met de voorspelde aandoening.
+- De waarschuwingen en contra-indicaties uit de actuele SmPC van het CBG-MEB, voor een veiligheidsbeoordeling.
+- Een beoordeling van de interacties, vooral de ernstige, en van de veiligheid in de beoogde (kinder)populatie.
 
----
-
-*Opmerking: andere voorspelde indicaties met meer klinisch bewijs, zoals het syndroom van Gilles de la Tourette (L2, Proceed with Guardrails), zijn in dit rapport niet uitgewerkt.*
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

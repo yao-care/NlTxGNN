@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alprazolam
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 28
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-03
-description: "Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+last_modified_at: 2026-11-04
+description: "Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **2** 
+Bewijsniveau: **L3** | Voorspelde indicaties: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +33,59 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **2**
 
 </div>
 
-## Alprazolam: benzodiazepine, positieve allosterische modulator van GABA-A-receptoren → Slapeloosheid (insomnia)
+## Alprazolam: Slapeloosheid (insomnia (disease))
 {: .text-alpha }
 
-## Samenvatting in één zin
+## Samenvatting
 
-Alprazolam is een benzodiazepine dat wordt gebruikt bij angstklachten. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **slapeloosheid (insomnia)**, maar er zijn **geen geregistreerde klinische studies** en de gevonden literatuur (18 publicaties) bestudeert alprazolam niet direct bij slapeloosheid.
+Alprazolam is een benzodiazepine met een kalmerend en angstremmend effect. Het TxGNN-model voorspelt een mogelijke werking bij **slapeloosheid (insomnia)**, met een score van 0,9981. Er zijn **geen geregistreerde klinische studies**. Er zijn **18 publicaties**, waarvan er slechts één (een retrospectieve observationele studie) alprazolam bij patiënten met slapeloosheid heeft onderzocht. Het bewijsniveau is **L3**.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia) |
-| TxGNN-voorspellingsscore | 0,9981 |
-| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen besluit | Hold |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
+| TxGNN-voorspellingsscore | 0.9981 |
+| Bewijsniveau | L3 |
+| Status in Nederland | In de handel |
+| Aanbevolen beslissing | Hold |
+
+---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Alprazolam is een benzodiazepine dat de remmende werking van GABA-A-receptoren versterkt. Dit geeft een sedatief-hypnotisch effect, wat een plausibele farmacologische basis vormt voor een effect op slaap, vooral wanneer slapeloosheid samengaat met angst. Gedetailleerde mechanistische gegevens zijn in de voor dit rapport samengestelde gegevens niet beschikbaar; de uitleg berust op algemene farmacologische kennis.
+Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Op basis van algemene farmacologie werkt alprazolam als positieve allosterische modulator van GABA-A-receptoren, wat een kalmerend en slaapbevorderend effect geeft. Dat biedt een aannemelijke basis voor toepassing bij slapeloosheid, met name wanneer deze samengaat met angstklachten.
 
-De hoge TxGNN-score is echter uitsluitend een modelvoorspelling. Er is geen gecontroleerde studie gevonden die alprazolam bij slapeloosheid zelf onderzoekt. Bovendien wegen de bekende risico's van benzodiazepinen (afhankelijkheid, vallen, cognitieve achteruitgang) zwaar.
+Deze redenering is echter afgeleid uit algemene kennis en niet uit de aangeleverde gegevens. De hoge TxGNN-score is een computationele voorspelling en geen klinisch bewijs. Bekende risico's van benzodiazepinen, zoals afhankelijkheid, vallen en cognitieve stoornissen, wegen mee in de afweging.
+
+---
 
 ## Bewijs uit klinische studies
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
+---
+
 ## Bewijs uit de literatuur
 
-De gevonden publicaties zijn grotendeels indirect (paniekstoornis, gebruikspatronen van benzodiazepinen, farmacokinetiek, deprescribing van zolpidem). Hieronder de meest relevante:
+Alleen de meest relevante publicaties zijn opgenomen. Geen enkele daarvan is een gerandomiseerde studie van alprazolam bij slapeloosheid.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospectieve klinische studie | Medicine | Geïntegreerde therapie (moxibustie, ooracupunctuur) vergeleken met alprazolam bij coronaire hartziekte en slapeloosheid; geen specifieke test van alprazolam |
-| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analyse/observationeel | Acta Pharmaceutica | Kalmerende therapie bij oudere patiënten met chronische ziekten: dosis en bijwerkingen |
-| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Voorschrijfonderzoek | Sleep Medicine | Voorschrijfpatronen van slaapmiddelen in een grote populatie |
-| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Voorspellend model | Value in Health Regional Issues | Trends en economische last van benzodiazepinegebruik |
-| [35493764](https://pubmed.ncbi.nlm.nih.gov/35493764/) | 2022 | Cohortstudie | JHEP Reports | Deprescribing van zolpidem (niet alprazolam) vermindert vallen en fracturen bij cirrose |
-| [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Preklinisch (muis) | Aging | Herhaalde alprazolam-toediening veroorzaakt mitochondriale disfunctie en geheugenverslechtering |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Farmacokinetiek van anxiolytica |
-| [7484706](https://pubmed.ncbi.nlm.nih.gov/7484706/) | 1995 | Review | Am Fam Physician | Overzicht van paniekstoornis |
+| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospectieve observationele studie | Medicine | 116 patiënten met coronaire hartziekte en slapeloosheid; controlegroep behandeld met alprazolam, experimentele groep met moxibustie en ooracupunctuur; effect op symptomen en neurotransmitters. Geen alprazolam-specifieke toets. |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analyse (observationeel) | Acta Pharmaceutica | Tranquillizers bij oudere patiënten met chronische aandoeningen: dosis, uitkomsten en bijwerkingen. Indirect. |
+| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Voorschrijfstudie | Sleep Medicine | Voorschrijfpatronen van slaapmiddelen in een grote managed-care-populatie. Indirect. |
+| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Voorspellend model | Value in Health Regional Issues | Gebruik en economische last van benzodiazepinen, onder meer bij slapeloosheid. Indirect. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opinion on Drug Metabolism & Toxicology | Farmacokinetiek van angstremmende middelen. Indirect. |
+| [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Preklinisch (muis) | Aging | Herhaalde toediening van alprazolam gaf mitochondriale disfunctie en verminderde geheugenconsolidatie. Veiligheidssignaal. |
+| [35493764](https://pubmed.ncbi.nlm.nih.gov/35493764/) | 2022 | Cohortstudie | JHEP Reports | Afbouwen van zolpidem bij cirrose verminderde vallen en fracturen; betreft niet alprazolam. |
+
+---
 
 ## Informatie over de Nederlandse markt
 
@@ -83,27 +93,33 @@ De gevonden publicaties zijn grotendeels indirect (paniekstoornis, gebruikspatro
 |---------|------|------|-----------|
 | RVG 117945//19888 | Alprazolam Retard Fisher 2 mg, tabletten met gereguleerde afgifte | Tablet met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
 
+Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam als enige werkzame stof.
+
+---
+
 ## Veiligheidsoverwegingen
 
-- **Geneesmiddelinteracties** (100 interacties gevonden, onderstaand een selectie):
-  - **Ernstig (Major):** morfine, morfine (liposomaal), met risico op versterkte sedatie en ademhalingsdepressie.
-  - **Matig (Moderate):** aprepitant, bupropion, cimetidine, claritromycine, clotrimazol, dronabinol, eliglustat, glycerolfenylbutyraat, metoclopramide, miconazol.
-  - **Licht (Minor):** onder meer aluminiumhydroxide, calciumcarbonaat, dexamethason, betamethason en magnesiumzouten.
+Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de productinformatie beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor de veiligheidsinformatie.
 
-Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
+**Geneesmiddelinteracties** (100 interacties gevonden; hieronder de belangrijkste):
+- **Ernstig (Major)**: morfine, morfine (liposomaal), met risico op additieve sedatie en ademhalingsdepressie.
+- **Matig (Moderate)**: aprepitant, bupropion, cimetidine, claritromycine, clotrimazol, dronabinol, eliglustat, glycerolfenylbutyraat, metoclopramide, miconazol.
+- **Licht (Minor)**: onder andere antacida (aluminiumhydroxide, calciumcarbonaat, magnesiumverbindingen, magaldraat) en corticosteroïden (betametason, dexamethason).
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Hold**
 
 **Onderbouwing:**
-- Geen enkele geciteerde studie onderzoekt alprazolam direct bij slapeloosheid, waardoor het bewijsniveau L5 is. De hoge score is een voorspelling, en de risico's van benzodiazepinen (afhankelijkheid, vallen, cognitieve effecten) pleiten tegen voortzetting zonder sterker bewijs.
+- Het bewijs is beperkt tot één retrospectieve observationele studie bij patiënten met coronaire hartziekte en slapeloosheid, waarin alprazolam als controlebehandeling diende. Er is geen gerandomiseerde studie. De risico's van benzodiazepinen (afhankelijkheid, vallen, cognitieve achteruitgang) en het ontbreken van gedetailleerde veiligheidsgegevens pleiten tegen het opschalen van deze indicatie.
 
 **Om verder te gaan is nodig:**
-- Gecontroleerde klinische studies (bij voorkeur RCT's) van alprazolam bij slapeloosheid, ook in vergelijking met bestaande standaardbehandelingen
-- Gedetailleerde gegevens over het werkingsmechanisme
-- Beoordeling van de SmPC-waarschuwingen en contra-indicaties door het CBG-MEB
-- Een risicobeoordeling voor afhankelijkheid, ontwenning en valrisico bij ouderen
+- Gerandomiseerde, gecontroleerde studies van alprazolam bij primaire slapeloosheid, vergeleken met bestaande behandelopties.
+- Gegevens over het werkingsmechanisme en de volledige SmPC-veiligheidsgegevens.
+- Een risico-batenanalyse voor kwetsbare groepen, zoals ouderen en patiënten met lever-, nier- of ademhalingsproblemen.
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

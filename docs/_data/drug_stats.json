@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "total_drugs": 334,
   "level_counts": {
-    "L1": 5,
-    "L2": 13,
-    "L3": 17,
-    "L4": 26,
-    "L5": 261
+    "L1": 3,
+    "L2": 20,
+    "L3": 16,
+    "L4": 25,
+    "L5": 258
   },
   "all_drugs": [
     {
@@ -42,7 +42,7 @@
     {
       "name": "Acetylcysteine",
       "slug": "acetylcysteine",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 10
     },
     {
@@ -96,7 +96,7 @@
     {
       "name": "Alprazolam",
       "slug": "alprazolam",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 2
     },
     {
@@ -198,7 +198,7 @@
     {
       "name": "Atomoxetine",
       "slug": "atomoxetine",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10
     },
     {
@@ -258,7 +258,7 @@
     {
       "name": "Bicalutamide",
       "slug": "bicalutamide",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 10
     },
     {
@@ -300,7 +300,7 @@
     {
       "name": "Bumetanide",
       "slug": "bumetanide",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -432,7 +432,7 @@
     {
       "name": "Cilastatin",
       "slug": "cilastatin",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 9
     },
     {
@@ -468,7 +468,7 @@
     {
       "name": "Clonazepam",
       "slug": "clonazepam",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 3
     },
     {
@@ -492,7 +492,7 @@
     {
       "name": "Clozapine",
       "slug": "clozapine",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 9
     },
     {
@@ -534,7 +534,7 @@
     {
       "name": "Cytarabine",
       "slug": "cytarabine",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 9
     },
     {
@@ -582,7 +582,7 @@
     {
       "name": "Diazepam",
       "slug": "diazepam",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 10
     },
     {
@@ -960,13 +960,13 @@
     {
       "name": "Glucagon",
       "slug": "glucagon",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 1
     },
     {
       "name": "Goserelin",
       "slug": "goserelin",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 3
     },
     {
@@ -996,7 +996,7 @@
     {
       "name": "Hydrocortisone",
       "slug": "hydrocortisone",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 9
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "name": "Levonorgestrel",
       "slug": "levonorgestrel",
-      "level": "L4",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -1314,7 +1314,7 @@
     {
       "name": "Miconazole",
       "slug": "miconazole",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 1
     },
     {
@@ -1854,7 +1854,7 @@
     {
       "name": "Tizanidine",
       "slug": "tizanidine",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -1950,7 +1950,7 @@
     {
       "name": "Valsartan",
       "slug": "valsartan",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -1974,7 +1974,7 @@
     {
       "name": "Vinblastine",
       "slug": "vinblastine",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 10
     },
     {

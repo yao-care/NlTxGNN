@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bumetanide
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 63
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
-description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (bewijsniveau L4). Oorspronkelijke indicatie: Congestief hartfalen"
+last_modified_at: 2026-11-04
 monitor_inn: "Bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
+description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Bumetanide
 {: .fs-9 }
 
-Bewijsniveau: **L4** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 </div>
 
-## Bumetanide: Van congestief hartfalen naar acute pulmonale hartziekte
+## Bumetanide: Acute pulmonale hartziekte (acute pulmonary heart disease)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Bumetanide is een lisdiureticum dat oorspronkelijk wordt gebruikt bij **congestief hartfalen**. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acute pulmonale hartziekte** (acuut cor pulmonale). Het bewijs is beperkt: er zijn **0 geregistreerde klinische studies** en **5 publicaties** (vooral reviews en één kleine hemodynamische studie), waarvan geen enkele specifiek over deze nieuwe indicatie gaat.
+Bumetanide is een lisdiureticum dat wordt gebruikt om vochtretentie (oedeem) te behandelen. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **acute pulmonale hartziekte (acute pulmonary heart disease)**. Hiervoor zijn **geen geregistreerde klinische studies** en **5 publicaties** beschikbaar, die alleen hartfalen in het algemeen of lisdiuretica betreffen. Het bewijsniveau is daarom **L5**.
 
 ---
 
@@ -46,23 +46,23 @@ Bumetanide is een lisdiureticum dat oorspronkelijk wordt gebruikt bij **congesti
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Congestief hartfalen |
-| Voorspelde nieuwe indicatie | Acute pulmonale hartziekte |
-| TxGNN-voorspellingsscore | 0,9958 |
-| Bewijsniveau | L4 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
+| Voorspelde nieuwe indicatie | Acute pulmonale hartziekte (acute pulmonary heart disease) |
+| TxGNN-voorspellingsscore | 0.9958 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Aanbevolen beslissing | Hold (afwachten) |
 
 ---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Bumetanide is een lisdiureticum dat de Na-K-2Cl-cotransporter (NKCC2) remt in het dikke stijgende deel van de lus van Henle. Dit leidt tot snelle natriurese en diurese. Gedetailleerde mechanismedata uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens; bovenstaande beschrijving komt uit de mechanistische analyse bij de voorspelling.
+Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Uit algemene farmacologische kennis is bekend dat bumetanide de Na-K-2Cl-cotransporter (NKCC2) in het dikke opstijgende deel van de lus van Henle remt. Dit leidt tot snelle uitscheiding van natrium en water.
 
-Bij acute pulmonale hartziekte kunnen overbelasting van de rechterventrikel en veneuze congestie door decongestie worden verlicht. Daarom is er een plausibele, indirecte link met het bewezen gebruik bij congestief hartfalen. De hoge TxGNN-score weerspiegelt waarschijnlijk vooral de sterke gelijkenis met de goedgekeurde hartfalenindicatie en is geen onafhankelijke klinische validatie.
+Bij acute pulmonale hartziekte (acuut cor pulmonale) kunnen overbelasting van de rechterventrikel en veneuze stuwing mogelijk worden verminderd door ontstuwing. Daarom is een indirect verband denkbaar via het bekende gebruik van lisdiuretica bij vochtoverbelasting en hartfalen.
 
-Voorzichtigheid is geboden: de rechterventrikel is bij acuut cor pulmonale preload-afhankelijk. Te veel diurese kan het hartminuutvolume verlagen en de hemodynamiek verslechteren. Er is in de beschikbare data geen aanwijzing voor een ziektespecifiek voordeel.
+Voorzichtigheid is echter geboden: de rechterventrikel is bij acuut cor pulmonale sterk preload-afhankelijk. Te sterke diurese kan het hartminuutvolume verlagen en de hemodynamiek verslechteren. Er is in de beschikbare gegevens geen bewijs voor een ziektespecifiek voordeel. De hoge score (0,9958) is een computationele voorspelling en geen klinische validatie.
 
 ---
 
@@ -74,13 +74,15 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Bewijs uit de literatuur
 
+Geen van de onderstaande publicaties onderzoekt bumetanide direct bij acute pulmonale hartziekte. Ze betreffen hartfalen of lisdiuretica in het algemeen.
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Kleine hemodynamische studie | Br J Clin Pharmacol | Intraveneus bumetanide bij 24 patiënten met coronairlijden en acuut (inspanningsgebonden) of chronisch hartfalen verlaagde de cardiac index en de wiggedruk in de arteria pulmonalis (PAOP), bij verhoogde bloeddruk en vaatweerstand |
-| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Review | Drugs | Overzicht van farmacodynamiek, farmacokinetiek en gebruik; bumetanide is een krachtig lisdiureticum bij oedeem door hartfalen, lever- en nierziekten en acute longstuwing |
-| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Review | Am J Ther | Overzicht van behandelopties en recente studies bij acuut hartfalen; de meeste patiënten kunnen effectief met diuretica worden behandeld |
-| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Review | Ann Pharmacother | Vergelijking van farmacokinetiek, veiligheid, werkzaamheid en kosten van lisdiuretica; de vraag is of furosemide eerste keus moet zijn |
-| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Cohortstudie | Am J Emerg Med | Epidemiologie van hartfalen op spoedeisende hulpafdelingen in de VS (2016–2023); geen specifieke data over bumetanide bij acuut cor pulmonale |
+| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Review | American Journal of Therapeutics | Overzicht van behandelopties en diuretische therapie bij acuut hartfalen |
+| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Review | Drugs | Farmacologie en therapeutisch gebruik van bumetanide, o.a. bij oedeem door hartfalen en acute longstuwing |
+| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Review | Annals of Pharmacotherapy | Vergelijking van lisdiuretica op farmacokinetiek, veiligheid, werkzaamheid en kosten |
+| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Kleine hemodynamische studie | British Journal of Clinical Pharmacology | Intraveneus bumetanide verlaagde de wiggendruk en de cardiac index bij 24 patiënten met acuut of chronisch hartfalen |
+| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Cohortstudie | American Journal of Emergency Medicine | Epidemiologie van presentaties met hartfalen op Amerikaanse spoedeisende hulpafdelingen |
 
 ---
 
@@ -90,31 +92,37 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (registratie geldig) |
 
+Het CBG-MEB-register vermeldt 1 geldige vergunning. De lijst is volledig.
+
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties uit de kennisgraaf (niet uit bijsluitertekst):** In de TxGNN-kennisgraaf (PrimeKG) is bumetanide gekoppeld aan contra-indicaties bij onder meer: leverziekte, hepatische coma en encefalopathie, galblaasziekte, trombocytopenie, kaliumtekort, diabetes mellitus, diabetische ketoacidose, hyperurikemie, anurie, hypercalciëmie, nefrocalcinose, fosformetabolismestoornissen, gehoorstoornissen en aandoeningen van het gehoorsysteem.
-- **Geneesmiddeleninteracties:** Er zijn 100 interacties gevonden (bron: DDInter). Voorbeelden van matige interacties: acarbose, metformine, albiglutide, alogliptine, acetohexamide (bloedglucose), hydrocortison, dexamethason, betamethason, triamcinolon, beclometason (corticosteroïden), amfotericine B (en lipidenformuleringen), omeprazol, rabeprazol, bupropion, morfine en bisacodyl. Minder belangrijk zijn onder meer doxycycline en acetylsalicylzuur.
+Voor de productspecifieke waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
-Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC en de bijsluiter (CBG-MEB).
+**Geneesmiddelinteracties**: de data voor dit rapport bevatten 100 vastgelegde interacties. Voorbeelden van interacties van matig niveau:
+- Antidiabetica: acarbose, metformine, alogliptine, albiglutide, acetohexamide
+- Corticosteroïden: hydrocortison, dexamethason, triamcinolon, betamethason, beclometasondipropionaat
+- Protonpompremmers: omeprazol, rabeprazol
+- Overig: amfotericine B (ook als lipidecomplex en cholesterylsulfaat), bupropion, morfine, bisacodyl
+
+Interacties van gering niveau zijn onder meer doxycycline en acetylsalicylzuur.
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Beslissing: Hold (afwachten)**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op een computermodel (L4/L5-niveau). Er zijn geen specifieke klinische studies of ziektespecifieke publicaties, en bij acuut cor pulmonale bestaat een reëel risico op hemodynamische verslechtering door te veel diurese.
-- De enige Nederlandse registratie is ingetrokken, waardoor beschikbaarheid beperkt is.
+- Er is geen enkele studie die bumetanide bij acute pulmonale hartziekte onderzoekt. De beschikbare literatuur betreft hartfalen in het algemeen, dus het bewijsniveau is L5. De hoge modelscore is alleen een computationele voorspelling. Bij een preload-afhankelijke rechterventrikel bestaat bovendien een risico op hemodynamische verslechtering door te sterke diurese.
 
 **Om verder te gaan is nodig:**
-- Het ophalen en analyseren van de CBG-MEB-SmPC/bijsluiter voor waarschuwingen en contra-indicaties (kritieke datalacune; veiligheidsscreening kan nu niet worden voltooid)
-- Gegevens over het werkingsmechanisme uit DrugBank
-- Ziektespecifiek klinisch bewijs (bijvoorbeeld studies naar diuretica bij acuut cor pulmonale of rechterventrikelfalen)
-- Beoordeling van de huidige beschikbaarheid in Nederland en van alternatieve lisdiuretica die wel geregistreerd zijn
-- Een veiligheidsplan voor volumebeheer, elektrolyten, nierfunctie en gehoor
+- Gegevens over het werkingsmechanisme uit betrouwbare bronnen (bijv. DrugBank)
+- Beoordeling van de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
+- Preklinisch of klinisch onderzoek naar bumetanide bij acuut cor pulmonale, met aandacht voor volumebeheer
+- Een veiligheidsplan voor patiënten met een preload-afhankelijke rechterventrikel en voor de genoemde interacties
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

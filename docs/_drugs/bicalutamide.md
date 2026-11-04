@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bicalutamide
-parent: Alleen modelvoorspelling (L5)
+parent: Matig bewijs (L3-L4)
 nav_order: 56
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
-description: "Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+last_modified_at: 2026-11-04
+description: "Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Bicalutamide
 {: .fs-9 }
 
-Bewijsniveau: **L5** | Voorspelde indicaties: **10** 
+Bewijsniveau: **L4** | Voorspelde indicaties: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 </div>
 
-## Bicalutamide: niet-steroïdale androgeenreceptorantagonist → hypertrichose (hypertrichosis)
+## Bicalutamide: hypertrichose (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Bicalutamide is een niet-steroïdale androgeenreceptorantagonist. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hypertrichose (hypertrichosis)**. Het bewijs is zeer beperkt: er zijn **geen geregistreerde klinische studies** en **1 publicatie** (een commentaar uit 2022), zodat de voorspelling vooral een onderzoeksvraag is.
+Bicalutamide is een niet-steroïde androgeenreceptorantagonist. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **hypertrichose (hypertrichosis)**. Het bewijs is beperkt: er zijn **geen geregistreerde klinische studies** en **1 publicatie** (een commentaar uit 2022 op een retrospectieve beoordeling van 35 patiënten). Het bewijsniveau is **L4**.
 
 ---
 
@@ -47,20 +47,22 @@ Bicalutamide is een niet-steroïdale androgeenreceptorantagonist. Het TxGNN-mode
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | hypertrichose (hypertrichosis) |
-| TxGNN-voorspellingsscore | 0,9969 |
-| Bewijsniveau | L5 |
+| Voorspelde nieuwe indicatie | hypertrichose (hypertrichosis (disease)) |
+| TxGNN-voorspellingsscore | 0.9969 |
+| Bewijsniveau | L4 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---
 
-## Waarom is deze voorspelling aannemelijk?
+## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Bekend is dat bicalutamide de androgeenreceptor (AR) blokkeert. Hypertrichose, vooral door minoxidil geïnduceerde hypertrichose bij vrouwen, is deels androgeengevoelig. Blokkade van de AR is daarom mechanistisch denkbaar.
+Bicalutamide is een niet-steroïde androgeenreceptor (AR)-antagonist. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; de onderstaande redenering is gebaseerd op de bekende farmacologische klasse.
 
-De enige gevonden publicatie is een commentaar uit 2022 op een retrospectieve studie over bicalutamide bij door minoxidil geïnduceerde hypertrichose bij vrouwelijke haaruitval met patroon. Dit is indirect bewijs en bevat geen eigen onderzoeksgegevens. Omdat geen enkele geciteerde studie de ziekte zelf direct onderzoekt in de vorm van een klinische studie of primaire publicatie, is het bewijsniveau L5 en niet hoger.
+Hypertrichose, met name door minoxidil veroorzaakte hypertrichose bij vrouwen, is gedeeltelijk androgeengevoelig. Blokkade van de androgeenreceptor is daarom farmacologisch aannemelijk.
+
+De enige beschikbare literatuur is een commentaar uit 2022 op een retrospectieve beoordeling van 35 patiënten met patroonmatig haarverlies bij vrouwen, bij wie door minoxidil veroorzaakte hypertrichose verbeterde met bicalutamide. De oorspronkelijke beoordeling zelf maakt geen deel uit van de verzamelde gegevens. Het bewijs is dus indirect en beperkt, en er zijn geen studies geregistreerd.
 
 ---
 
@@ -74,25 +76,40 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Commentaar/brief | Journal of the American Academy of Dermatology | Commentaar op een retrospectieve beoordeling van 35 patiënten met bicalutamide bij door minoxidil geïnduceerde hypertrichose; geen samenvatting beschikbaar |
+| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Commentaar/brief | Journal of the American Academy of Dermatology | Commentaar op een retrospectieve beoordeling van 35 patiënten, waarin bicalutamide door minoxidil veroorzaakte hypertrichose bij vrouwelijk patroonmatig haarverlies verbeterde. Geen samenvatting beschikbaar. |
 
 ---
 
 ## Informatie over de Nederlandse markt
 
-De gegevens voor deze sectie worden door het programma uit de vergunningsgegevens toegevoegd.
+| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
+|---------|------|------|-----------|
+| RVG 119691//18356 | Casodex 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
+
+De registratie valt onder het CBG-MEB (College ter Beoordeling van Geneesmiddelen). Raadpleeg voor de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
+
+---
+
+## Cytotoxiciteit
+
+| Item | Inhoud |
+|------|------|
+| Cytotoxiciteitsclassificatie | Hormonale therapie (androgeenreceptorantagonist), geen conventioneel cytotoxisch middel |
+| Myelosuppressierisico | Raadpleeg de waarschuwingen en voorzorgen in de SmPC |
+| Emetogeniciteitsclassificatie | Raadpleeg de waarschuwingen en voorzorgen in de SmPC |
+| Controle-items | Leverfunctie en bloedbeeld; raadpleeg de SmPC |
+| Bescherming bij hantering | Raadpleeg de SmPC en de geldende richtlijnen |
 
 ---
 
 ## Veiligheidsoverwegingen
 
-Voor de productspecifieke waarschuwingen en contra-indicaties zijn in de gegevens voor dit rapport geen tekstgegevens beschikbaar; raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
+Voor waarschuwingen en contra-indicaties zijn in de samengestelde data geen productteksten beschikbaar. Raadpleeg de SmPC voor de veiligheidsinformatie.
 
-**Geneesmiddelinteracties**: in de verzamelde gegevens zijn 100 interacties gevonden. Voorbeelden van ernstige (Major) interacties zijn:
-- Cisapride
-- Dolasetron
-
-Een aantal matige (Moderate) interacties betreft onder meer famotidine, loperamide, aprepitant, clarithromycine, levofloxacine, granisetron en budesonide. Controleer bij gelijktijdig gebruik altijd de volledige interactielijst.
+**Geneesmiddelinteracties** (100 interacties gevonden; hieronder de belangrijkste uit de geladen lijst):
+- **Ernstig (Major):** cisapride, dolasetron
+- **Matig (Moderate):** onder meer famotidine, loperamide, aprepitant, clarithromycine, levofloxacine, granisetron, budesonide, eliglustat
+- **Licht (Minor):** metronidazol
 
 ---
 
@@ -101,12 +118,14 @@ Een aantal matige (Moderate) interacties betreft onder meer famotidine, loperami
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor hypertrichose bestaat uit slechts één commentaar zonder eigen gegevens en er zijn geen geregistreerde studies. De voorspelling blijft daarmee een onderzoeksvraag.
+- Het bewijs voor hypertrichose bestaat uit één commentaar op een kleine retrospectieve beoordeling (35 patiënten), zonder geregistreerde studies. Het mechanisme is plausibel, maar het bewijs is te beperkt voor verdere stappen (bewijsniveau L4).
 
-**Om verder te gaan is nodig:**
-- Het retrospectieve onderzoek bij 35 patiënten (waarop het commentaar reageert) beoordelen en prospectieve, gecontroleerde studies opzetten.
-- Gegevens over het werkingsmechanisme aanvullen.
-- De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB nalopen, en een veiligheidsplan opstellen voor vrouwelijke patiënten, gezien het antiandrogene werkingsprofiel.
+**Om verder te gaan is het volgende nodig:**
+- De oorspronkelijke retrospectieve beoordeling van 35 patiënten kritisch beoordelen
+- Een prospectieve, gecontroleerde studie bij door minoxidil veroorzaakte hypertrichose
+- Gegevens over het werkingsmechanisme aanvullen
+- Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties) toevoegen en beoordelen, met name rond de leverfunctie
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

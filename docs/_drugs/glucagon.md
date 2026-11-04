@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glucagon
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 173
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
-description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens"
+last_modified_at: 2026-11-04
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
+description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,86 +33,97 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-## Glucagon: Van diagnostische/hypoglykemische toepassing naar prikkelbare darmsyndroom
+## Glucagon: Prikkelbare darmsyndroom (irritable bowel syndrome)
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Voor glucagon is in de voor dit rapport samengestelde gegevens geen geregistreerde oorspronkelijke indicatie beschikbaar. Het TxGNN-model voorspelt dat glucagon mogelijk werkzaam is bij **prikkelbare darmsyndroom (IBS)**, met **2 klinische studies** en **20 publicaties**. Het bewijs betreft echter vrijwel uitsluitend GLP-1 en GLP-1-analogen (zoals ROSE-010), niet glucagon zelf.
+Glucagon is een peptidehormoon dat in Nederland als geregistreerd geneesmiddel beschikbaar is. Het TxGNN-model voorspelt een mogelijk effect bij **prikkelbare darmsyndroom (irritable bowel syndrome)**. Er is echter **geen enkele studie** die glucagon zelf bij deze aandoening onderzoekt; de beschikbare gegevens betreffen verwante stoffen (GLP-1 en GLP-1-receptoragonisten), dus het bewijsniveau is **L5**.
+
+---
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
-| Oorspronkelijke indicatie | Niet beschikbaar in de gegevens (het vergunningsrecord bevat geen indicatietekst) |
-| Voorspelde nieuwe indicatie | Prikkelbare darmsyndroom (irritable bowel syndrome) |
-| TxGNN-voorspellingsscore | 0,9924 |
-| Bewijsniveau | L3 |
+| Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
-| Aanbevolen beslissing | Hold |
+| Voorspelde nieuwe indicatie | Prikkelbare darmsyndroom (irritable bowel syndrome) |
+| TxGNN-voorspellingsscore | 0.9924 |
+| Bewijsniveau | L5 |
+| Status in Nederland | In de handel |
+| Aanbevolen besluit | Hold |
+
+---
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van glucagon waren niet beschikbaar in de voor dit rapport samengestelde gegevens. Glucagon en GLP-1 zijn beide afgeleid van proglucagon en werken via verwante klasse-B G-eiwit-gekoppelde receptoren. Beide kunnen de gastro-intestinale motiliteit remmen. Glucagon heeft daarnaast een eigen farmacologie als gladde-spierrelaxans en wordt gebruikt als hulpmiddel bij diagnostiek van het maag-darmkanaal.
+Gegevens over het werkingsmechanisme van glucagon zijn in de voor dit rapport samengestelde data niet beschikbaar. De onderbouwing is daarom indirect.
 
-GLP-1 remt de motiliteit van antrum, duodenum en jejunum. Dat zou hypermotiliteit en pijn bij IBS kunnen verminderen. De literatuur over de darm-hersenas ondersteunt bovendien perifere, op de darm gerichte werkingsmechanismen. De link met glucagon zelf is echter **indirect**: geen van de aangeleverde studies onderzoekt glucagon bij IBS. De TxGNN-score is een modelvoorspelling en geen klinisch bewijs.
+Glucagon en GLP-1 komen beide voort uit proglucagon en werken via verwante klasse-B-G-eiwitgekoppelde receptoren. GLP-1 remt de beweeglijkheid van maag, twaalfvingerige darm en jejunum. Dat zou in theorie de hypermotiliteit of pijn bij prikkelbare darmsyndroom kunnen verminderen. Ook de literatuur over de hersen-darm-as ondersteunt het idee van perifeer op de darm gerichte mechanismen.
 
-## Klinisch trialbewijs
+Glucagon heeft echter een eigen farmacologie (onder meer als relaxans van gladde spieren bij diagnostiek van het maag-darmkanaal). Geen enkele studie in de gegevens test glucagon bij prikkelbare darmsyndroom. De link met glucagon is dus indirect en de hoge modelscore is een voorspelling, geen klinisch bewijs.
 
-| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+---
+
+## Bewijs uit klinisch onderzoek
+
+| Studienummer | Fase | Status | Aantal deelnemers | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fase 1/2 | Afgerond | 52 | ROSE-010 (GLP-1-analoog) en gastro-intestinale motoriek bij vrouwen met IBS met constipatie. Enige studie in een IBS-populatie, maar met een GLP-1-analoog en motoriek-eindpunten; slechts indirect bewijs |
-| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fase 1 | Afgerond | 12 | Native GLP-1 versus ROSE-010: remming van de motiliteit van antrum, duodenum en jejunum na maaltijd bij gezonde proefpersonen. Mechanistisch, geen IBS-populatie |
+| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fase 1/2 | Afgerond | 52 | ROSE-010 (een GLP-1-analoog, geen glucagon) en de motorische functie van het maag-darmkanaal bij vrouwen met obstipatiegedomineerd prikkelbare darmsyndroom; eindpunten zijn motorische functie, geen symptoomverbetering |
+| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fase 1 | Afgerond | 12 | Natief GLP-1 remt de maaltijdgebonden motiliteit van maag, duodenum en jejunum; mechanistisch onderzoek, niet bij IBS-patiënten en niet met glucagon |
 
-## Literatuurbewijs
+---
 
-Hieronder staan de meest relevante publicaties, met prioriteit voor systematische reviews en studies specifiek bij IBS.
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Systematische review/meta-analyse | Frontiers in Endocrinology | GLP-1-receptoragonisten en verbetering van IBS; GLP-1 en ROSE-010 remmen de motiliteit bij IBS-patiënten |
-| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Kruisanalyse van klinische studie | Scandinavian Journal of Gastroenterology | ROSE-010 verminderde pijn tijdens IBS-aanvallen; verkennende analyse naar de meest geschikte subpopulatie |
-| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Review | Experimental Physiology | Rol van GLP-1 en L-cellen in de pathofysiologie van IBS |
-| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Cohortstudie | Annals of Gastroenterology | Voorschrijf- en stoppatronen van GLP-1-receptoragonisten bij IBS-patiënten |
-| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Observationele studie | Frontiers in Nutrition | Stijging van circulerend GLP-1 na een low-FODMAP-dieet bij IBS |
-| [38997662](https://pubmed.ncbi.nlm.nih.gov/38997662/) | 2024 | Systematische review | Journal of Headache and Pain | GLP-1-receptoragonisten bij hoofdpijn en pijnaandoeningen; indirect relevant |
-| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Review | Advances in Experimental Medicine and Biology | Geaerosoliseerd GLP-1 voor diabetes mellitus en IBS |
-| [41974246](https://pubmed.ncbi.nlm.nih.gov/41974246/) | 2026 | Review | Clinical Gastroenterology and Hepatology | Zorgtekorten bij IBS en toekomstige therapieën gericht op perifere viscerale afferenten |
-| [30023410](https://pubmed.ncbi.nlm.nih.gov/30023410/) | 2018 | Review | Cellular and Molecular Gastroenterology and Hepatology | Wisselwerking binnen de brein-darm-microbioomas |
-| [41480755](https://pubmed.ncbi.nlm.nih.gov/41480755/) | 2026 | Review | Journal of Clinical Investigation | Mechanismen van darm-herseninteracties, inclusief incretinegebaseerde therapieën |
+| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Systematische review | Frontiers in Endocrinology | GLP-1-receptoragonisten (niet glucagon) en verbetering van IBS-klachten; GLP-1 en ROSE-010 remmen de darmmotiliteit |
+| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Klinische subanalyse | Scandinavian Journal of Gastroenterology | ROSE-010 (GLP-1-agonist) verminderde pijn tijdens IBS-aanvallen; verkennende analyse van patiëntkenmerken |
+| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Cohortstudie | Annals of Gastroenterology | Voorschrijf- en stoppatronen van GLP-1-receptoragonisten bij patiënten met IBS |
+| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Review | Experimental Physiology | Mogelijke rol van GLP-1 en L-cellen in de pathofysiologie van IBS |
+| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Review | Advances in Experimental Medicine and Biology | Geaerosoliseerd GLP-1 voor diabetes en IBS |
+| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Onderzoek bij patiënten | Frontiers in Nutrition | Circulerend GLP-1 stijgt na een laag-FODMAP-dieet bij IBS-patiënten |
+| [41480755](https://pubmed.ncbi.nlm.nih.gov/41480755/) | 2026 | Review | Journal of Clinical Investigation | Mechanismen van hersen-darm-interactie, inclusief incretinegerichte therapieën |
+| [30023410](https://pubmed.ncbi.nlm.nih.gov/30023410/) | 2018 | Review | Cellular and Molecular Gastroenterology and Hepatology | De hersen-darm-microbioom-as |
 
-Let op: vrijwel alle publicaties gaan over GLP-1 of GLP-1-receptoragonisten, niet over glucagon. Er is geen gerandomiseerde studie met glucagon bij IBS aangeleverd.
+Geen van deze publicaties onderzoekt glucagon zelf bij prikkelbare darmsyndroom.
 
-## Informatie over de Nederlandse markt
+---
+
+## Marktinformatie Nederland
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 120327//02011 | GlucaGen Hypokit 1 mg poeder en oplosmiddel voor oplossing voor injectie | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Deze enige registratie in het CBG-MEB-register is geldig; er is 1 geldige vergunning van de 1 in de verstrekte gegevens, en het middel wordt op de markt gebracht.
+Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoudig preparaat.
+
+---
 
 ## Veiligheidsoverwegingen
 
-Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
+**Geneesmiddelinteracties:** in de samengestelde data zijn 24 interacties gevonden, allemaal van niveau *Minor*. Het gaat onder meer om warfarine en een reeks bètablokkers (o.a. acebutolol, atenolol, bisoprolol, carvedilol, metoprolol, propranolol, sotalol en timolol).
 
-**Geneesmiddelinteracties**: er zijn 24 interacties gevonden (DDInter), allemaal van het niveau *Minor*. Het gaat onder meer om:
-- Warfarine
-- Bètablokkers: acebutolol, atenolol, betaxolol, bisoprolol, carvedilol, labetalol, metoprolol, nadolol, pindolol, propranolol, sotalol, timolol en esmolol (inclusief oogdruppelvormen van enkele daarvan)
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
+
+---
 
 ## Conclusie en vervolgstappen
 
-**Beslissing: Hold**
+**Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs betreft GLP-1 en GLP-1-analogen, niet glucagon. De enige IBS-studie is klein (n=52), fase 1/2 en gebruikt motoriek-eindpunten. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor dit voorlopig een onderzoeksvraag blijft.
+- Geen enkele studie onderzoekt glucagon bij prikkelbare darmsyndroom. Het beschikbare bewijs betreft GLP-1 en GLP-1-analogen, andere geneesmiddelen. Daarom is het bewijsniveau L5 en berust de voorspelling alleen op het model.
 
 **Om verder te gaan is nodig:**
-- Veiligheidsinformatie uit de SmPC en bijsluiter (CBG-MEB) ophalen en beoordelen
-- Gegevens over het werkingsmechanisme van glucagon aanvullen (bijv. via DrugBank)
-- Beoordelen of er directe preklinische of klinische data zijn voor glucagon bij IBS, in plaats van GLP-1-analogen
-- De oorspronkelijke indicatie en de actuele marktstatus (doorgehaalde vergunning) verifiëren
-- Toedieningsroute en formulering beoordelen voor een chronische aandoening als IBS
+- Preklinisch of klinisch onderzoek dat glucagon zelf bij IBS test
+- Gegevens over het werkingsmechanisme van glucagon in relatie tot darmmotiliteit en viscerale pijn
+- Veiligheidsinformatie uit de SmPC, gericht op langdurig of herhaald gebruik bij IBS-patiënten
+- Beoordeling van toedieningsroute en doseringsvorm voor een chronische aandoening, aangezien het huidige product een injectiepreparaat is
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

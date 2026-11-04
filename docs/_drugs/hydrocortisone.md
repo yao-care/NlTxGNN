@@ -3,18 +3,18 @@ layout: default
 title: Hydrocortisone
 parent: Sterk bewijs (L1-L2)
 nav_order: 179
-evidence_level: L1
+evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Bewijsniveau: **L1** | Voorspelde indicaties: **9** 
+Bewijsniveau: **L2** | Voorspelde indicaties: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,58 +38,55 @@ Bewijsniveau: **L1** | Voorspelde indicaties: **9**
 
 ## Samenvatting in één zin
 
-Hydrocortison is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij onder meer bijnierschorsinsufficiëntie, de ziekte van Addison, auto-immuunziekten en inflammatoire darmziekten. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alopecia areata**, met **1 klinische studie** (fase 3) en **20 publicaties** in de data die voor dit rapport zijn samengesteld. Veel van die publicaties zijn echter historische casuïstiek of slechts zijdelings relevant. De enige gerandomiseerde studie gebruikte hydrocortison als zwak vergelijkingsmiddel, niet als onderzochte behandeling.
+Hydrocortison is een corticosteroïde (glucocorticoïd) met ontstekingsremmende en afweeronderdrukkende werking. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **alopecia areata (alopecia areata)**, met **1 klinische studie** en **20 publicaties** in de data die voor dit rapport zijn verzameld. Het bewijsniveau is **L2**: één afgeronde gerandomiseerde fase 3-studie, waarin hydrocortison als laagpotente vergelijker diende.
 
 ---
 
 ## Snel overzicht
 
-| Onderdeel | Inhoud |
+| Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
 | Voorspelde nieuwe indicatie | Alopecia areata |
 | TxGNN-voorspellingsscore | 0.9997 |
-| Bewijsniveau | L1 volgens de formele indeling in de data; zie de kanttekening hieronder (inhoudelijk eerder L2–L3) |
+| Bewijsniveau | L2 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
 | Aantal vergunningen | 2 (geldig: 2) |
-| Aanbevolen besluit | Hold |
-
-**Kanttekening bij het bewijsniveau:** de data kennen L1 toe, maar de enige fase 3-studie (n=41) is één kleine studie waarin hydrocortison 1% als actieve controle diende. Dit voldoet niet aan "≥2 afgeronde fase 3-RCT's". Een voorzichtige beoordeling plaatst het bewijs dichter bij L2–L3.
+| Aanbevolen beslissing | Proceed with Guardrails (doorgaan onder voorwaarden) |
 
 ---
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data. Op basis van bekende informatie is hydrocortison een glucocorticoïd met ontstekingsremmende en immunosuppressieve werking. De werkzaamheid bij auto-immuunziekten is aangetoond en mechanistisch kan het van toepassing zijn op alopecia areata.
+Alopecia areata is een door T-cellen gemedieerde auto-immuunziekte waarbij de haarfollikel wordt aangevallen en er plaatselijk haarverlies optreedt. Hydrocortison is een glucocorticoïd met ontstekingsremmende en afweeronderdrukkende werking. Dat sluit aan bij de pathologie van deze aandoening.
 
-Alopecia areata is een T-celgemedieerde auto-immuunziekte waarbij het immuunsysteem de haarfollikel aanvalt. Dit sluit aan bij de bestaande auto-immuunindicaties van hydrocortison. Corticosteroïden worden bij deze aandoening al lang topisch en intralesionaal gebruikt, en ook oudere publicaties (jaren 1950–1970) beschrijven intracutane hydrocortisoninjecties.
+Gedetailleerde gegevens over het werkingsmechanisme zijn in de verzamelde data niet beschikbaar. Op basis van de bekende klasse-eigenschappen is een werking via onderdrukking van de ontsteking rond de follikel plausibel.
 
-Er is wel een belangrijke beperking: bij alopecia areata worden doorgaans krachtigere corticosteroïden verkozen. In de enige beschikbare studie was hydrocortison het laagpotente vergelijkingsmiddel. De data ondersteunen hydrocortison dus vooral als referentie en niet als aangetoond effectieve behandeling.
+Er is wel een belangrijke kanttekening: in de enige beschikbare studie was hydrocortison de laagpotente vergelijker en niet het onderzochte middel. Voor deze aandoening worden over het algemeen sterker werkzame corticosteroïden verkozen. Het bewijs ondersteunt hydrocortison dus eerder als laagpotente referentie dan als bewezen effectieve behandeling.
 
 ---
 
-## Klinisch trialbewijs
+## Bewijs uit klinische studies
 
-| Trialnummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
+| Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Fase 3 | Afgerond | 41 | Gerandomiseerde studie bij kinderen met alopecia areata: clobetasolpropionaat 0,05% crème versus hydrocortison 1% crème. Hydrocortison was de actieve controle; de studie was opgezet om superioriteit van clobetasol aan te tonen. Kleine steekproef (2002–2003). |
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Fase 3 | Afgerond | 41 | Gerandomiseerde vergelijking van clobetasolpropionaat 0,05% crème met hydrocortison 1% crème bij kinderen met alopecia areata. Hydrocortison was de actieve vergelijker; de studie was opgezet om superioriteit van clobetasol aan te tonen. Kleine steekproef. |
 
 ---
 
-## Literatuurbewijs
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [24226568](https://pubmed.ncbi.nlm.nih.gov/24226568/) | 2014 | RCT | JAMA Dermatology | Clobetasol 0,05% versus hydrocortison 1% bij kinderen met alopecia areata (publicatie bij de bovenstaande studie) |
-| [15692503](https://pubmed.ncbi.nlm.nih.gov/15692503/) | 2005 | Casusbeschrijving | J Am Acad Dermatol | Vier gevallen van congenitale alopecia areata; behandelingen waren o.a. minoxidil en topische middelen |
-| [13368875](https://pubmed.ncbi.nlm.nih.gov/13368875/) | 1956 | Historische caseserie | Medical Times | Behandeling van alopecia areata met cortison, hydrocortison en analogen |
+| [24226568](https://pubmed.ncbi.nlm.nih.gov/24226568/) | 2014 | RCT | JAMA Dermatology | Clobetasolpropionaat 0,05% versus hydrocortison 1% bij kinderen met alopecia areata |
+| [13368875](https://pubmed.ncbi.nlm.nih.gov/13368875/) | 1956 | Historische patiëntenreeks | Medical Times | Behandeling van alopecia areata met cortison, hydrocortison en analogen |
+| [14376206](https://pubmed.ncbi.nlm.nih.gov/14376206/) | 1955 | Historische klinische proef | Actas Dermo-Sifiliográficas | Eerste klinische tests met lokaal hydrocortison bij pelada (alopecia areata) |
 | [13610145](https://pubmed.ncbi.nlm.nih.gov/13610145/) | 1958 | Historische casuïstiek | Der Hautarzt | Haargroei na intracutane hydrocortisoninjectie |
-| [14376206](https://pubmed.ncbi.nlm.nih.gov/14376206/) | 1955 | Historische klinische test | Actas Dermo-Sifiliogr. | Eerste klinische tests met lokale hydrocortison bij alopecia areata |
-| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Klinische publicatie | Przegl Dermatol | Intralesionale hydrocortisonacetaatinjecties bij ernstige alopecia areata |
-| [19289325](https://pubmed.ncbi.nlm.nih.gov/19289325/) | 2009 | Casusbeschrijving | Endocr Pract | Auto-immuun polyglandulair syndroom type 3 met alopecia universalis en geïsoleerde corticotropinedeficiëntie |
-| [24326563](https://pubmed.ncbi.nlm.nih.gov/24326563/) | 2013 | Preklinisch (muis) | J Investig Dermatol Symp Proc | Parathyreoïdhormoonagonisten bij alopecia areata in muizen; geen hydrocortison |
+| [14158891](https://pubmed.ncbi.nlm.nih.gov/14158891/) | 1963 | Historisch | Actas Dermo-Sifiliográficas | Intradermale hydrocortisoninjecties bij alopecia areata |
+| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Historisch | Przegląd Dermatologiczny | Intralesionale injecties met hydrocortisonacetaatsuspensie bij ernstige vormen |
+| [15692503](https://pubmed.ncbi.nlm.nih.gov/15692503/) | 2005 | Casusbeschrijving | J Am Acad Dermatol | Congenitale alopecia areata; verschillende lokale behandelingen gebruikt |
 
-De overige gevonden publicaties zijn vooral historische berichten zonder samenvatting, of betreffen niet-relevante onderwerpen (zoals een enquête naar zelfmedicatie, een veterinaire casus en trichotillomanie).
+De overige gevonden publicaties betreffen vooral dierstudies, een enquête, casussen met andere corticosteroïden of historische berichten zonder samenvatting, en zijn niet relevant voor de werkzaamheid van hydrocortison.
 
 ---
 
@@ -100,44 +97,31 @@ De overige gevonden publicaties zijn vooral historische berichten zonder samenva
 | RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (vergunning geldig) |
 | RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (vergunning geldig) |
 
-Beide registraties bij het CBG-MEB zijn geldig (2 geldige vergunningen van 2). Het middel is in Nederland in de handel.
+Beide vergunningen zijn geldig (CBG-MEB). Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.
 
 ---
 
 ## Veiligheidsoverwegingen
 
-- **Contra-indicaties uit de kennisgraaf** (afgeleid uit relaties in de kennisgraaf, geen bijsluitertekst): onder meer hypertensie, epilepsie, maagzweer, nier- en leverziekte, galblaasziekte, hyperglykemie, herpes-simplexkeratitis, mazelen, wratten en HPV-infecties in het anogenitale gebied, en diverse vormen van hypofysedeficiëntie en hypogonadotroop hypogonadisme.
-- **Geneesmiddelinteracties:** in totaal zijn 3037 interacties geregistreerd. Voorbeelden uit de data: adalimumab (**ernstig**); matig: onder meer ibuprofen, ketorolac, nifedipine, ethinylestradiol, isotretinoïne, zidovudine, acarbose, aldesleukine, alemtuzumab en diverse vaccins; licht: formoterol en salbutamol.
+- **Geneesmiddeleninteracties**: in totaal zijn 3037 interacties geregistreerd. Voorbeelden zijn adalimumab (ernstig), en matige interacties met onder meer ibuprofen, ketorolac, nifedipine, isotretinoïne, acetazolamide, acarbose en ethinylestradiol. Bij combinatie met vaccins en antidiabetica is extra aandacht nodig.
 
-Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL), aangezien de bijsluitergegevens van het CBG-MEB niet in de data aanwezig zijn.
-
----
-
-## Overige voorspelde indicaties (ter volledigheid)
-
-| Rang | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
-|----|------|------|------|------|
-| 2 | Alopecia mucinosa | 0,9997 | L5 | Geen hydrocortisonspecifiek bewijs |
-| 3 | Telogeen effluvium | 0,9997 | L5 | Zwakke mechanistische onderbouwing |
-| 4 | Folliculitis decalvans | 0,9997 | L5 | Alleen voorspelling |
-| 5 | Alopecia met antilichaamdeficiëntie | 0,9996 | L5 | Indirect bewijs; betreft vervangingstherapie |
-
-De rangen 6 tot en met 9 betreffen zeldzame erfelijke of syndromale haaraandoeningen zonder enig bewijs.
+Voor waarschuwingen en contra-indicaties wordt verwezen naar de SmPC (Samenvatting van de Productkenmerken).
 
 ---
 
 ## Conclusie en vervolgstappen
 
-**Besluit: Hold**
+**Beslissing: Proceed with Guardrails (doorgaan onder voorwaarden)**
 
 **Onderbouwing:**
-- Het mechanisme is plausibel en de aandoening is een auto-immuunziekte. De enige gerandomiseerde studie plaatst hydrocortison echter als laagpotente vergelijker, en krachtigere corticosteroïden zijn de standaard. Daarnaast is het middel in Nederland in de handel, met 2 geldige vergunningen van 2.
+- Een afgeronde fase 3-RCT bij kinderen met alopecia areata en oudere patiëntenreeksen met intralesionaal hydrocortison geven enige ondersteuning (L2). Hydrocortison was in de RCT echter de laagpotente vergelijker, en sterkere corticosteroïden zijn de gebruikelijke keuze.
 
-**Om verder te gaan is nodig:**
-- Het mechanisme van werking uit DrugBank
-- De waarschuwingen en contra-indicaties uit de SmPC en bijsluiter van het CBG-MEB (nu een blokkerend ontbrekend gegeven voor veiligheidsscreening)
-- Vergelijkend bewijs dat hydrocortison een meerwaarde heeft boven reeds gebruikte krachtigere corticosteroïden bij alopecia areata
-- Duidelijkheid over beschikbare toedieningswegen (topisch, intralesionaal) en geldige Nederlandse preparaten
+**Om verder te gaan is het volgende nodig:**
+- Gegevens over het werkingsmechanisme
+- Directe vergelijkende of placebogecontroleerde studies waarin hydrocortison het onderzochte middel is
+- Beoordeling van de geschiktheid van de beschikbare toedieningsvormen in Nederland voor deze indicatie
+- Een veiligheidsplan op basis van de SmPC, met aandacht voor langdurig gebruik en gebruik bij kinderen
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

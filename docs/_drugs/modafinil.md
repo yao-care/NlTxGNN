@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Modafinil
-parent: Matig bewijs (L3-L4)
+parent: Alleen modelvoorspelling (L5)
 nav_order: 238
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: voorspelde nieuwe indicatie Insomnie (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Modafinil: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
 # Modafinil
 {: .fs-9 }
 
-Bewijsniveau: **L3** | Voorspelde indicaties: **1** 
+Bewijsniveau: **L5** | Voorspelde indicaties: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +33,53 @@ Bewijsniveau: **L3** | Voorspelde indicaties: **1**
 
 </div>
 
-## Modafinil: Insomnie (insomnia (disease))
+## Modafinil: Slapeloosheid (insomnia (disease))
 {: .text-alpha }
 
 ## Samenvatting in één zin
 
-Modafinil is een waakbevorderend middel dat oorspronkelijk wordt gebruikt voor de behandeling van narcolepsie. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **insomnie**, maar de ondersteunende evidentie is zwak: **2 klinische studies** (waarvan 1 voortijdig beëindigd met slechts 2 deelnemers) en **19 publicaties**, die vrijwel allemaal indirect zijn. Het werkingsmechanisme wijst bovendien in tegengestelde richting van de voorspelde indicatie.
-
----
+Modafinil is een wakkerblijfmiddel dat werkt op de waak-slaapregulatie. Het TxGNN-model voorspelt een mogelijke werking bij **slapeloosheid (insomnia)**, maar deze voorspelling is mechanistisch discutabel: er is geen gepubliceerd of gerapporteerd onderzoek dat het effect op slapeloosheid zelf aantoont, dus het bewijsniveau is **L5**.
 
 ## Snel overzicht
 
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Voorspelde nieuwe indicatie | Insomnie (insomnia (disease)) |
+| Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 0.9985 |
-| Evidentieniveau | L3 |
+| Bewijsniveau | L5 |
 | Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
----
-
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de voor dit rapport samengestelde data. Modafinil wordt algemeen beschouwd als een waakbevorderend middel dat vermoedelijk werkt via remming van de dopaminetransporter en modulatie van waakgerelateerde hersennetwerken. Dit is geen geverifieerde gegevensbron en moet nog bevestigd worden.
+Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Modafinil wordt algemeen beschouwd als een wakkerblijfmiddel dat vermoedelijk werkt via remming van de dopaminetransporter en modulatie van waakgerelateerde hersencircuits.
 
-Insomnie vraagt juist om slaapbevordering of vermindering van hyperarousal. Een waakbevorderend middel is mechanistisch dus tegengesteld aan de voorspelde indicatie. De hoge TxGNN-score (0,9985) wordt waarschijnlijk veroorzaakt door de nabijheid in het netwerk van slaap-waakstoornissen (zoals narcolepsie), en niet door een echte therapeutische relatie.
+Dit staat haaks op wat bij slapeloosheid nodig is: slaapbevordering of vermindering van hyperarousal. De hoge score (0,9985) wordt waarschijnlijk vooral gedreven door de nabijheid van modafinil tot slaap-waakstoornissen in het model, en niet door een werkelijk therapeutisch verband. Een gunstig effect op slapeloosheid zou hooguit indirect zijn, en er is een risico dat de nachtelijke slaap verslechtert.
 
-Een plausibeler gebruik is de behandeling van resterende slaperigheid overdag en slaap-waakverstoringen bij bijkomende aandoeningen, zoals bij ouderen, de ziekte van Parkinson of andere neurologische aandoeningen. Een eventueel effect op insomnie zou indirect zijn en brengt het risico mee dat de nachtelijke slaap verslechtert.
+Een plausibeler gebruiksdoel is de behandeling van resterende slaperigheid overdag en waak-slaapproblemen bij bijkomende aandoeningen, zoals bij ouderen, de ziekte van Parkinson of andere neurologische aandoeningen. Dat is echter iets anders dan slapeloosheid zelf behandelen.
 
----
-
-## Evidentie uit klinische studies
+## Bewijs uit klinische studies
 
 | Studienummer | Fase | Status | Inclusie | Belangrijkste bevindingen |
 |---------|------|------|------|---------|
-| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fase 4 | Afgerond | 40 | Effect van modafinil, alleen of gecombineerd met cognitieve gedragstherapie voor insomnie (CBT-I), op het functioneren overdag en de ernst van insomnie bij primaire insomnie. Resultaten zijn niet beschikbaar. |
-| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fase 4 | Voortijdig beëindigd | 2 | Modafinil bij slaap-waakstoornissen bij ouderen. Met slechts 2 deelnemers geeft de studie geen interpreteerbare gegevens over werkzaamheid of veiligheid. |
+| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fase 4 | Beëindigd | 2 | Modafinil bij slaap-waakstoornissen bij ouderen; vroegtijdig beëindigd met slechts 2 deelnemers, dus geen interpreteerbare resultaten |
+| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fase 4 | Afgerond | 40 | Effect van modafinil, alleen of met cognitieve gedragstherapie voor slapeloosheid, op functioneren overdag en ernst van slapeloosheid; geen resultaten beschikbaar |
 
----
+Geen van beide studies levert bruikbare resultaten over het effect op slapeloosheid. Niet-gepubliceerde studies zonder resultaten tellen niet mee als bewijs.
 
-## Evidentie uit de literatuur
-
-De meeste publicaties betreffen indirecte onderwerpen (narcolepsie, ziekte van Parkinson, ploegendienststoornis, slaapapneu). Er is geen RCT en geen publicatie die modafinil direct bij insomnie onderzoekt. De onderstaande selectie is gerangschikt op relevantie en studietype.
+## Bewijs uit de literatuur
 
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Meta-analyse | PloS one | Onderzoekt de werkzaamheid en veiligheid van modafinil bij vermoeidheid en overmatige slaperigheid overdag bij neurologische aandoeningen; eerdere studies gaven wisselende resultaten. |
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Review | Drugs | Evidence-based overzicht van goedgekeurde en experimentele toepassingen van modafinil op basis van gerandomiseerde, dubbelblinde, placebogecontroleerde studies. |
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematische review en meta-analyse | Parkinsonism & related disorders | Farmacologische behandelingen van slaperigheid overdag en slaapstoornissen bij de ziekte van Parkinson. |
-| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Evidence-based review | Movement disorders | Update van behandelingen voor niet-motorische symptomen bij de ziekte van Parkinson. |
-| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Review | Expert opinion on pharmacotherapy | Farmacologisch en niet-farmacologisch beleid bij slaapstoornissen bij de ziekte van Parkinson. |
-| [24272458](https://pubmed.ncbi.nlm.nih.gov/24272458/) | 2014 | Review | Neurotherapeutics | Behandeling van slaapstoornissen bij Parkinson; de optimale behandeling van insomnie bij Parkinson is nog niet vastgesteld. |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | Revue neurologique | Overzicht van narcolepsie met cataplexie (oorspronkelijke indicatie). |
-| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | Ziektelast en behandeling van de ploegendienststoornis. |
-| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Casusreeks | Am J Hosp Palliat Care | Modafinil verminderde vermoeidheid bij de ziekte van Charcot-Marie-Tooth type 1A. |
-| [41820035](https://pubmed.ncbi.nlm.nih.gov/41820035/) | 2026 | Richtlijn | Zhonghua jie he he hu xi za zhi | Richtlijn voor diagnose en behandeling van obstructieve slaapapneu bij volwassenen (indirect). |
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematische review/meta-analyse | PloS one | Effect van modafinil op vermoeidheid en slaperigheid overdag bij neurologische aandoeningen; resultaten wisselend |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Review | Drugs | Overzicht van goedgekeurde en onderzochte toepassingen van modafinil op basis van gerandomiseerde, placebogecontroleerde studies |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematische review/meta-analyse | Parkinsonism & Related Disorders | Farmacologische behandeling van slaperigheid overdag en slaapstoornissen bij de ziekte van Parkinson |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Evidence-based review | Movement Disorders | Behandelingen van niet-motorische symptomen bij de ziekte van Parkinson |
+| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Patiëntenreeks | Am J Hosp Palliat Care | Modafinil verminderde vermoeidheid bij Charcot-Marie-Tooth type 1A |
 
----
+De gevonden publicaties gaan over slaperigheid overdag of vermoeidheid, niet over slapeloosheid zelf.
 
 ## Informatie over de Nederlandse markt
 
@@ -100,38 +87,25 @@ De meeste publicaties betreffen indirecte onderwerpen (narcolepsie, ziekte van P
 |---------|------|------|-----------|
 | RVG 115163 | Modafinil Chanelle 200 mg tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-
----
-
 ## Veiligheidsoverwegingen
 
-Voor dit middel zijn geen waarschuwingen of contra-indicaties uit de productinformatie beschikbaar. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor veiligheidsinformatie.
+- **Geneesmiddelinteracties** (100 interacties gevonden, onder meer): matige interacties met rabeprazol, omeprazol, esomeprazol, dexamethason, eliglustat, linagliptine en cisapride; overige onderzochte interacties (o.a. hydrocortison, pioglitazon, aprepitant, clarithromycine) zijn gering.
 
-**Contra-indicaties uit de kennisgraaf** (afgeleid uit het TxGNN-netwerk, niet uit productteksten):
-- Cardiovasculair: hypertensie, acuut coronair syndroom, myocardinfarct, coronaire hartziekte, myocardischemie, mitralisklepprolaps, posturaal orthostatisch tachycardiesyndroom
-- Lever: leverfalen
-- Psychiatrisch: angststoornis, neurotische stoornis, dysthyme stoornis, psychotische stoornis, schizofreniforme stoornis, schizoaffectieve stoornis, andere psychische stoornissen, misbruik van of afhankelijkheid van middelen
-- Overig: hemoglobinopathie
-
-**Geneesmiddelinteracties** (100 interacties gevonden, bron: DDInter; hieronder een selectie):
-- Matig: rabeprazol, omeprazol, esomeprazol, dexamethason, eliglustat, linagliptine, cisapride
-- Licht: onder andere hydrocortison, pioglitazon, aprepitant, triamcinolon, betamethason, cimetidine, claritromycine, saxagliptine, dronabinol, clotrimazol, granisetron, miconazol, naldemedine
-
----
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB.
 
 ## Conclusie en vervolgstappen
 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust vooral op netwerknabijheid in het model. Een waakbevorderend middel past mechanistisch niet bij insomnie en kan de nachtelijke slaap verslechteren. De directe klinische evidentie is zeer beperkt (één afgeronde fase 4-studie met 40 deelnemers zonder beschikbare resultaten, en één voortijdig beëindigde studie met 2 deelnemers).
+- De voorspelling berust alleen op een modelscore; er is geen direct, geanalyseerd onderzoek naar slapeloosheid (L5), en het wakkerblijfmechanisme van modafinil staat haaks op de behandeling van slapeloosheid, met risico op verslechtering van de nachtelijke slaap.
 
-**Om verder te gaan is het volgende nodig:**
-- Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
-- De waarschuwingen en contra-indicaties uit de SmPC en bijsluiter via het CBG-MEB, nodig voor de veiligheidsbeoordeling
-- Publicatie van de resultaten van NCT00124384 en beoordeling van de relevantie voor insomnie
-- Heroriëntatie van de onderzoeksvraag naar slaperigheid overdag en slaap-waakverstoringen bij neurologische aandoeningen (zoals de ziekte van Parkinson of bij ouderen) in plaats van insomnie zelf
-- Een veiligheidsbeoordeling van de cardiovasculaire en psychiatrische contra-indicaties in de beoogde doelgroep
+**Om verder te gaan is nodig:**
+- Resultaten of publicatie van de afgeronde fase 4-studie NCT00124384
+- Gegevens over het werkingsmechanisme en een beoordeling van de mechanistische plausibiliteit
+- Veiligheidsinformatie uit de SmPC, met name over effecten op de nachtelijke slaap
+- Gerandomiseerd, gecontroleerd onderzoek bij slapeloosheid vóór een heroverweging
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

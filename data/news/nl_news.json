@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-04T04:42:43.049910+00:00",
+  "fetched_at": "2026-11-04T13:43:20.939243+00:00",
   "count": 6,
   "news": [
-    {
-      "id": "47fa82f948ee",
-      "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
-      "published": "2026-11-03T18:45:00+00:00",
-      "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
-        }
-      ]
-    },
     {
       "id": "2e06774c5ad9",
       "title": "Opinie | Voor corona-nabestaanden bestaat er geen hardere trap na - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -24,6 +12,18 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2Zrcmd4amM4dVpsQzlwMnZFd3B1eDViMmRXaTFOSHV3SjVJbWQxSWc3VjVxTlNoSU9uX3VZcVd1QjR4SEVPQ2djX0JpakQ1UGxDVzJxYVh0VGloUmlYSEhHN3FFcjRKUUZBX0lab25JYVhTX3BaNUVmZVhkbmFtQTJXWWpiZG1jNkt0UGpyQndWNXFXN2ZLSGpPRnQ2eExFUUw0cg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47fa82f948ee",
+      "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
+      "published": "2026-11-03T18:45:00+00:00",
+      "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
         }
       ]
     },
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "20a8caf9014a",
-      "title": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen - de Volkskrant",
-      "published": "2026-10-29T17:00:00+00:00",
-      "summary": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen&nbsp;&nbsp;de VolkskrantSlaapinfluencers en 'quick fixes': wat klopt er van de populaire trends op TikTok en Instagram?&nbsp;&nbsp;Wonen360Samen sterk: Verbeter je slaap&nbsp;&nbsp;NierstichtingDinsdag in 'Focus': slapen als medicijn&nbsp;&nbsp;TVvisie",
+      "id": "db8b78a85790",
+      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
+      "published": "2026-11-03T10:55:36+00:00",
+      "summary": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’&nbsp;&nbsp;Brabants DagbladAlzheimer: lichtpuntje in strijd tegen slopend eiwit&nbsp;&nbsp;EWmagazine.nlBrits onderzoek test nieuwe aanpak om ziekte van Alzheimer af te remmen&nbsp;&nbsp;Newsmonkey -",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGtuZE16WDhmd3k1WWdoQW9JQVItOUZ3RzNqRV9vVk50TkpCRld4MGZ5NDlIaGdEYXd3c0lkZlNSZWpIeFUwTktvWFN4anFBdDdOYU1wVlB3TUphZ0NhRy1zQWFscmpwSFB6eUVuODVQbTQxY0VHdkl6eUJteHNvSHpXbnc3bDBZUEdTSU8wTnFtVkQtbXRFVkZtMnphMzBHQllWSEIzLVNUcEFIWk5ZZEZ5anMyeTZpakhoeHE4V2FGQ2ZQc0RXSU4zOWJhbWNhelctR3B2dXYxWHY3R0RjbmxGSWYwLUk5b3dRX3NKR3o?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "id": "efc828d8d26a",
       "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde” - Nieuwsblad",
       "published": "2026-10-31T10:00:00+00:00",
-      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVAProstaatkliniek AZ Sint-Jan Brugge vraagt aandacht voor prostaatonderzoek tijdens Movember: “Een kleine, simpele test kan levens redden” (Krant van West-Vlaanderen)&nbsp;&nbsp;KW.beSchaamte en taboes vertragen de op",
+      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVASchaamte en taboes vertragen de opsporing van kanker bij mannen in België&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
           "name": "Nieuwsblad",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "db8b78a85790",
-      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
-      "published": "2026-11-03T10:55:36+00:00",
-      "summary": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’&nbsp;&nbsp;Brabants Dagblad",
+      "id": "aabbb80a228d",
+      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - De Gelderlander",
+      "published": "2026-10-31T17:33:00+00:00",
+      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;De Gelderlander",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUl1NXZQVldZS3hKald2c3VCOFBVc2pKVTJmMWRDdWxJUDdYVmZ5VnF2cF8zY0t4NUtnQ0JJck5YMEZJdWpUWDd0YUVxczRFOVJqTGZkalpLNFNPWl9BbzYtSEl5eXFQYlczWEtGNE5GUVFmaFFVS0xIcG1qV1hBQW9TUkdDcmVhek9MeWFtS3lac1VIX1FZNGhQNVA3MFhnUjdSelZKdFBPMGc1SGxvbVJIZFh6Q29YTnhuVVhzbXpUVDlhaGowT0pXX3psMTlwMV9ma3dZUUV6NGdramc?oc=5"
         }
       ]
     }

@@ -1,16 +1,94 @@
 ---
-layout: id_redirect
-permalink: /news/calcipotriol/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Nieuws over Calcipotriol"
+parent: Gezondheidsnieuws
 nav_exclude: true
+description: "Gezondheidsnieuws over Calcipotriol. 10 voorspelde indicaties."
+permalink: /news/calcipotriol/
+last_modified_at: 2026-11-04
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/calcipotriol/">
-<meta http-equiv="refresh" content="0; url=/drugs/calcipotriol/">
-<script>location="/drugs/calcipotriol/"</script>
-<a href="/drugs/calcipotriol/">/drugs/calcipotriol/</a>
-</html>
+
+# Nieuws over Calcipotriol
+
+[← Terug naar nieuwsoverzicht]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
+<strong>Calcipotriol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
+</p>
+
+<div class="key-takeaway">
+Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met het laatste gezondheidsnieuws. Oranje gemarkeerde indicaties zijn recent in het nieuws geweest.
+</div>
+
+<div class="drug-info-card">
+<strong>Geneesmiddelinformatie</strong>
+<ul>
+<li><strong>Bewijsniveau</strong>: L3</li>
+<li><strong>Voorspelde indicaties (10)</strong>:<ul>
+<li>Seborroïsche keratose (seborrheic keratosis)</li>
+<li>Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis)</li>
+<li>vulvovaginitis</li>
+<li>vulvitis</li>
+<li>vulvar neoplasm</li>
+<li>ulceration of vulva</li>
+<li>vulvar squamous neoplasm</li>
+<li>postmenopausal atrophic vaginitis</li>
+<li>bone Paget disease</li>
+<li>breast fibrocystic disease</li>
+</ul></li>
+</ul>
+<p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
+</div>
+
+## Gerelateerd nieuws (1)
+
+### [De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">kanker</span>
+
+Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: Het nieuws op deze pagina wordt automatisch verzameld en dient uitsluitend als onderzoeksreferentie; het vormt geen medisch advies.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

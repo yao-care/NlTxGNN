@@ -1,0 +1,6 @@
+[
+  [
+    "docs/index.md",
+    "(^description: \"AI-gestuurde voorspellingen voor herbestemming van geneesmiddelen voor )([\\d,]+)( door het CBG-MEB)"
+  ]
+]

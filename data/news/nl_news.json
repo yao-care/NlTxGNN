@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-03T22:51:02.642823+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-04T04:42:43.049910+00:00",
+  "count": 6,
   "news": [
     {
       "id": "47fa82f948ee",
@@ -12,18 +12,6 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "232cae6ab889",
-      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
-      "published": "2026-11-03T14:00:00+00:00",
-      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
         }
       ]
     },
@@ -40,6 +28,18 @@
       ]
     },
     {
+      "id": "232cae6ab889",
+      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "20a8caf9014a",
       "title": "Slaapinfluencers beloven snelle oplossingen, maar de beste remedie tegen slapeloosheid is vaak juist minder doen - de Volkskrant",
       "published": "2026-10-29T17:00:00+00:00",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "27d8161addc6",
-      "title": "Simpele maar dure test bespaart Arianne een onnodige chemokuur, maar lang niet elke arts biedt hem aan - AD.nl",
-      "published": "2026-10-31T12:00:35+00:00",
-      "summary": "Simpele maar dure test bespaart Arianne een onnodige chemokuur, maar lang niet elke arts biedt hem aan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHF3VFpFTmJETWpCZ1poSHhPUlF4NXhRSVVSZFF0Vi1FLWpTT3VDR3N1T2wySXpwNjRwelZPeVpUMEZ2NVdfQlVDUExKMzdIQ3FsdWJUWW0xR2JFOGhYMFZYaF9hTG9zQ1JnMGV3QTZOdjZaQmVoREdEOXJEeVJXQ0VJVzhlY2lGQkRXQV9nQUIzdTBBNGZKdi1KbWZzbmFlakVQdlFXd0VDQkYyT3dSbnVPMm9JMWNGR0x4YzJMZk54eExRRUNMOGJfU3VnZmhaVXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "efc828d8d26a",
       "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde” - Nieuwsblad",
       "published": "2026-10-31T10:00:00+00:00",
@@ -72,18 +60,6 @@
         {
           "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5d706d32963",
-      "title": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig - AD.nl",
-      "published": "2026-10-28T08:16:18+00:00",
-      "summary": "Zorgpersoneel blijft weg bij griepprik, intussen sterven kwetsbare patiënten onnodig&nbsp;&nbsp;AD.nlGriepprik in de zorg: waarom veel medewerkers hem toch weigeren&nbsp;&nbsp;EenVandaagBijna 60% verpleegkundigen neemt griepprik niet: ‘Ik wil me niet onder druk laten zetten'&nbsp;&nbsp;Nursing.nlWaarom hebben steeds minder mensen vertrouwen in vaccinaties?&nbsp;&nbsp;Nieuws van de DagBlijvende zorgen over vaccinatiegraad zorgpersoneel&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RrdEJjTGRRWXhtTnJab2txNWxuUl96bUxCdVAybGFHRjd1QlBlVS1MR1NMa2xGZkhSR1NHbUlHdGFrWVRmOWNiYmNheHdwVEphNmhNQVFBNXZnS2xjV2Y4ZDd1b3RVVHpjNFBfeVVNOHI1U0hqeHVaYTBOYzZnTkVpT3c1Q0tIOHZmaXN4ZFB3My1DYnVSVXk2NU5QSmFDRW5OcG9EX0F6UXBJYWpGVTlHLUx1cDd0RlR3M2p6OA?oc=5"
         }
       ]
     },

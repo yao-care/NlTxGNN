@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-05T13:56:05.366956+00:00",
+  "last_updated": "2026-11-05T23:14:04.100880+00:00",
   "total_count": 8,
-  "matched_count": 2,
+  "matched_count": 3,
   "news": [
     {
       "id": "cea20f795411",
       "title": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo",
       "published": "2026-11-04T22:26:46+00:00",
-      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nlDe WHO dringt aan op proeven met een nieuw vaccin tegen de Bundibugyo-variant van ebola.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "NU",
@@ -15,6 +15,32 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "166c7818fca5",
+      "title": "Nieuw onderzoek: Veelvoorkomende gewoonte kan in verband worden gebracht met dementie – dit zijn de vroege waarschuwingssignalen die je moet kennen",
+      "published": "2026-11-04T19:30:48+00:00",
+      "summary": "Nieuw onderzoek: Veelvoorkomende gewoonte kan in verband worden gebracht met dementie – dit zijn de vroege waarschuwingssignalen die je moet kennen&nbsp;&nbsp;wibnet.nl",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkdEMDYtdDduWHJndDNJc0JJT3ltWDZzTllLYjFkZnB4WFFrNElqS3p1RHV3Ml95R0NsaHZzc0FwazV5Z1BjREluQVgyUDFYdmk1bGVFMHBoakc0c0EyeHlyUkNTXzRlZjZobmQ0cjA0M295NWFzWmdCelJJOXNBb19lSWhKenlZT0h0cHVBYVFHcVZRVDZEcEFPanlTVUZ6TG13WWJoVkRTTVM4XzR3S1lvOXRHejZPV3U1V2VmTzl4RHNrTGFNdWNHV3gxVFU5RFpPQmhWTzJ1NUxkMEFJV09qeGZmS1g3OGk4X0xYckRDNU5MaDloSWl2MWpSZndsYWhr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c2964ba76619",
@@ -82,27 +108,14 @@
       "matched_keywords": []
     },
     {
-      "id": "54d166158308",
-      "title": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval - Quest NL",
-      "published": "2026-11-03T07:06:17+00:00",
-      "summary": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval&nbsp;&nbsp;Quest NLDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladOnderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groen",
+      "id": "9e6b86b89be7",
+      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - Brabants Dagblad",
+      "published": "2026-11-01T07:59:16+00:00",
+      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;Brabants DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Quest NL",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGxXLVRDczZzdUFQYWtuYXk4M2FveC1WeWxhX3RVNFlEbFpFNXVVQUw1Ri0wT2szek9JMXhVSkJWTm5UMDJJWndibWZMMzFVUU5RbUxpTmZZT1YxajNZRkJzNXYtVm5HeUZfWnVMYTNMRWEzV2lGckRxT0lpV3JKeGI2NWdsWGhnY09uNnV3XzVnVVE5dXV2VGxkLWx5cWxJN2plUVF6RHpiUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "232cae6ab889",
-      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
-      "published": "2026-11-03T06:00:00+00:00",
-      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmpiX0ZNWjFpMTdBdlM4dEJDa1ZibnVwRkNyb2pVYTg1dTVjUU1SMGNLdGp3ZHQ2UjV1UXAwWVFLZWJPN3pfbG80NXRCcVdJdXJwMWNEWVlpMUZSaTZBdVZ2TFk2QlZHSzZJUTNFSFBPTzg5RGlqMGViTUxzZkxKVXgwQm1yamgzelZCUjJxVjVPWk5xWG5aQWZXZEFtS0ZNQmRMYU5QTGt6ODYwMGUxTWc2X3phZ2xqSnFsQkJSZWd3YVRvNDN5Wlh0dUNTcFJwVXR4NmJB?oc=5"
         }
       ],
       "matched_keywords": []

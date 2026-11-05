@@ -1,7 +1,32 @@
 {
-  "generated": "2026-11-05T13:56:05.387057+00:00",
-  "count": 2,
+  "generated": "2026-11-05T23:14:04.113266+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "166c7818fca5",
+      "title": "Nieuw onderzoek: Veelvoorkomende gewoonte kan in verband worden gebracht met dementie – dit zijn de vroege waarschuwingssignalen die je moet kennen",
+      "published": "2026-11-04T19:30:48+00:00",
+      "sources": [
+        {
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkdEMDYtdDduWHJndDNJc0JJT3ltWDZzTllLYjFkZnB4WFFrNElqS3p1RHV3Ml95R0NsaHZzc0FwazV5Z1BjREluQVgyUDFYdmk1bGVFMHBoakc0c0EyeHlyUkNTXzRlZjZobmQ0cjA0M295NWFzWmdCelJJOXNBb19lSWhKenlZT0h0cHVBYVFHcVZRVDZEcEFPanlTVUZ6TG13WWJoVkRTTVM4XzR3S1lvOXRHejZPV3U1V2VmTzl4RHNrTGFNdWNHV3gxVFU5RFpPQmhWTzJ1NUxkMEFJV09qeGZmS1g3OGk4X0xYckRDNU5MaDloSWl2MWpSZndsYWhr?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementie",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c2964ba76619",
       "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",

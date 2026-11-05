@@ -3,13 +3,13 @@ layout: default
 title: Privacybeleid
 nav_order: 95
 permalink: /privacy-policy/
-description: "Privacybeleid van NlTxGNN: dit is een statische site die geen persoonsgegevens verzamelt."
+description: "Privacybeleid van NlTxGNN: statische site zonder accounts of formulieren; gebruikt analytische cookies van Google Analytics 4 voor gebruiksstatistieken."
 ---
 
 # Privacybeleid
 
 <div class="key-takeaway">
-Dit is een statische site — geen registratie nodig, geen tot personen herleidbare gegevens verzameld.
+Dit is een statische site — geen registratie en geen formulieren. De site gebruikt analytische cookies van Google Analytics 4 om gebruiksstatistieken op te stellen.
 </div>
 
 ---
@@ -17,9 +17,11 @@ Dit is een statische site — geen registratie nodig, geen tot personen herleidb
 ## Wat wij verzamelen
 
 <p class="key-answer" data-question="Verzamelt NlTxGNN persoonsgegevens?">
-<strong>Nee.</strong> Deze site wordt als volledig statische site gehost op GitHub Pages. Er is geen
-accountsysteem, er zijn geen formulieren en er worden geen trackingcookies gebruikt. Wij verzamelen geen
-namen, e-mailadressen, medische dossiers of andere tot personen herleidbare gegevens.
+<strong>Alleen gebruiksstatistieken, via Google Analytics 4.</strong> Deze site wordt als volledig statische site gehost op GitHub
+Pages. Er is geen accountsysteem en er zijn geen formulieren, en wij verzamelen geen namen, e-mailadressen of medische
+dossiers. De site gebruikt analytische cookies van Google Analytics 4 om gebruiksstatistieken op te stellen (bekeken
+pagina's, verwijzende site, scrolldiepte en tijd op de pagina). De cookies worden geplaatst wanneer een pagina laadt;
+zoektermen, formulierinhoud en queryparameters in de URL worden niet verzonden.
 </p>
 
 ---
@@ -38,15 +40,21 @@ registreren:
 | rxnav.nlm.nih.gov | SMART-app: de RxNorm-codes van de geneesmiddelen die uit uw elektronisch patiëntendossier worden gelezen, worden naar de RxNav-API van de NLM gestuurd om de naam van de werkzame stof op te zoeken (geen patiëntgegevens die u identificeren) | [Webbeleid van de NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Wanneer u de SMART on FHIR-app zelf start, vraagt deze medicatiegegevens op uit uw elektronisch
-patiëntendossiersysteem. Die gegevens worden <strong>volledig binnen uw browser verwerkt</strong>; ze
-worden nooit naar de servers van deze site verzonden en worden niet opgeslagen.
+patiëntendossiersysteem. De identiteit van de patiënt en de dossiergegevens worden <strong>niet naar de servers van deze
+site verzonden</strong> (het is een statische site zonder backend) en worden niet door deze site opgeslagen. Om
+geneesmiddelnamen te koppelen, stuurt de app de RxNorm-codes van de geneesmiddelen naar de RxNav-dienst van de
+Amerikaanse National Library of Medicine; deze codes bevatten geen gegevens waarmee de patiënt kan worden
+geïdentificeerd. Wanneer u klinische studies opvraagt, worden de naam van het geneesmiddel en de indicatie naar
+ClinicalTrials.gov verzonden.
 
 ---
 
 ## Rechten van betrokkenen
 
-Omdat deze site geen persoonsgegevens verzamelt, zijn er geen gegevens om in te zien, te corrigeren of te
-wissen. Voor vragen over dit beleid kunt u contact opnemen via service@yao.care.
+Deze site heeft geen accounts en bewaart geen persoonsgegevens op eigen servers (die heeft de site niet). De
+gebruiksstatistieken worden verzameld door Google Analytics 4; u kunt de cookies blokkeren of verwijderen in de
+instellingen van uw browser.
+Voor vragen over dit beleid kunt u contact opnemen via service@yao.care.
 
 ---
 

@@ -169,10 +169,10 @@
   }
 
   const MATCH_TEXT = {
-    "exact": "Exact match",
-    "only": "No drug with exactly this name. Related results (similar name or original-indication text) are listed below; they are not the same drug, so check before opening:",
-    "after": "Other related results (not the same drug):",
-    "hidden": "{name} ({level}) matches this name exactly but is hidden by the evidence-level filter."
+    "exact": "Exacte naamovereenkomst",
+    "only": "Geen geneesmiddel met precies deze naam. Hieronder staan verwante resultaten (gelijkende naam of tekst in de oorspronkelijke indicatie); dit is niet hetzelfde geneesmiddel, dus controleer voordat u het opent:",
+    "after": "Andere verwante resultaten (niet hetzelfde geneesmiddel):",
+    "hidden": "{name} ({level}) komt exact overeen met deze naam, maar wordt verborgen door het filter op bewijsniveau."
   };
 
   if (typeof Fuse === 'undefined') {
@@ -227,7 +227,7 @@
     })
     .catch(e => {
       console.error('Failed to load search index:', e);
-      results.innerHTML = '<div class="lookup-notice">Failed to load search index. Please refresh the page.</div>';
+      results.innerHTML = '<div class="lookup-notice">De zoekindex kon niet worden geladen. Vernieuw de pagina.</div>';
     });
 
   function getSelectedLevels() {
@@ -249,13 +249,13 @@
 
   function renderResults(query, showHint) {
     if (!searchIndex) {
-      results.innerHTML = '<div class="lookup-notice">Loading search index...</div>';
+      results.innerHTML = '<div class="lookup-notice">Zoekindex laden...</div>';
       return;
     }
 
     if (!query || query.length < 2) {
       if (showHint) {
-        results.innerHTML = '<div class="lookup-notice">Please enter at least 2 characters</div>';
+        results.innerHTML = '<div class="lookup-notice">Voer minstens 2 tekens in</div>';
       } else {
         results.innerHTML = '';
       }
@@ -264,7 +264,7 @@
 
     const levels = getSelectedLevels();
     if (levels.length === 0 && levelFilters.length > 0) {
-      results.innerHTML = '<div class="lookup-notice">Please select at least one evidence level</div>';
+      results.innerHTML = '<div class="lookup-notice">Selecteer minstens één bewijsniveau</div>';
       return;
     }
 
@@ -292,7 +292,7 @@
     }
 
     if (filteredDrugs.length > 0) {
-      html += '<div class="result-section"><div class="section-title">Drug Matches</div>';
+      html += '<div class="result-section"><div class="section-title">Overeenkomende geneesmiddelen</div>';
       let lastMatch = null;
       filteredDrugs.forEach(r => {
         const drug = r.item;
@@ -311,22 +311,22 @@
         html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
         html += '<span class="level-badge level-' + drug.level + '">' + drug.level + '</span>';
         html += '</div>';
-        html += '<div class="result-original">Approved: ' + (escapeHtml(drug.original) || '—') + '</div>';
-        html += '<div class="result-indications"><strong>Predicted indications:</strong>';
+        html += '<div class="result-original">Goedgekeurde indicatie: ' + (escapeHtml(drug.original) || '—') + '</div>';
+        html += '<div class="result-indications"><strong>Voorspelde indicaties:</strong>';
 
         if (filteredInds.length > 0) {
           filteredInds.slice(0, 5).forEach(ind => {
             html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (' + ind.score + '%)</span>';
           });
           if (filteredInds.length > 5) {
-            html += '<span class="more">...and ' + filteredInds.length + ' more</span>';
+            html += '<span class="more">...' + filteredInds.length + ' in totaal</span>';
           }
         } else {
-          html += '<span class="no-match">(No matches for selected filters)</span>';
+          html += '<span class="no-match">(Geen resultaten met de gekozen filters)</span>';
         }
 
         html += '</div>';
-        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="view-report">View full report →</a>';
+        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="view-report">Bekijk het volledige geneesmiddelrapport →</a>';
         html += '</div>';
       });
       html += '</div>';
@@ -337,7 +337,7 @@
     const filteredInds = indResults.filter(r => levels.includes(r.item.level));
 
     if (filteredInds.length > 0) {
-      html += '<div class="result-section"><div class="section-title">Indication Matches</div>';
+      html += '<div class="result-section"><div class="section-title">Overeenkomende indicaties</div>';
       filteredInds.forEach(r => {
         const ind = r.item;
         const indDrugs = filterByLevel(ind.drugs || [], levels);
@@ -347,7 +347,7 @@
         html += '<span class="indication-name">' + escapeHtml(ind.name) + '</span>';
         html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
         html += '</div>';
-        html += '<div class="result-drugs"><strong>Potentially effective drugs (' + indDrugs.length + '):</strong>';
+        html += '<div class="result-drugs"><strong>Kandidaat-geneesmiddelen (' + indDrugs.length + '):</strong>';
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
@@ -358,7 +358,7 @@
         });
 
         if (indDrugs.length > 5) {
-          html += '<div class="more">...and ' + indDrugs.length + ' more drugs</div>';
+          html += '<div class="more">...' + indDrugs.length + ' geneesmiddelen in totaal</div>';
         }
 
         html += '</div></div>';
@@ -367,7 +367,7 @@
     }
 
     if (!html) {
-      html = '<div class="lookup-notice">No results found for selected filters</div>';
+      html = '<div class="lookup-notice">Geen resultaten met de gekozen filters</div>';
     }
 
     results.innerHTML = html;

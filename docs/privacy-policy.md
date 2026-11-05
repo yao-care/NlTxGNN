@@ -32,8 +32,10 @@ registreren:
 | Dienst | Doel | Privacybeleid |
 |---------|---------|----------------|
 | GitHub Pages | Hosting van de site | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| cdn.jsdelivr.net | Bibliotheek voor grafieken | CDN voor statische bestanden |
-| giscus | Reacties (waar ingeschakeld) | [giscus](https://giscus.app/) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | Bezoekstatistieken (bekeken pagina’s, verwijzende site); gebruikt analysecookies. Zoektermen, formulierinhoud en URL-parameters worden niet verstuurd. | [Privacybeleid van Google](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | Scriptbibliotheken: d3-grafieken op elke pagina; Fuse.js voor naamvergelijking en de SMART on FHIR-client op de SMART-pagina’s en in de geneesmiddelzoeker op de startpagina | [Privacybeleid van jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | Zoeken naar klinische studies op de SMART-pagina’s: alleen als u erom vraagt, worden de naam van het geneesmiddel en de indicatie naar de API van ClinicalTrials.gov gestuurd | [Webbeleid van de NLM](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | SMART-app: de RxNorm-codes van de geneesmiddelen die uit uw elektronisch patiëntendossier worden gelezen, worden naar de RxNav-API van de NLM gestuurd om de naam van de werkzame stof op te zoeken (geen patiëntgegevens die u identificeren) | [Webbeleid van de NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Wanneer u de SMART on FHIR-app zelf start, vraagt deze medicatiegegevens op uit uw elektronisch
 patiëntendossiersysteem. Die gegevens worden <strong>volledig binnen uw browser verwerkt</strong>; ze

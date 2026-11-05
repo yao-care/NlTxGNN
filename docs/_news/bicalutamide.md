@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Bicalutamide. 10 voorspelde indicaties."
 permalink: /news/bicalutamide/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Nieuws over Bicalutamide
@@ -44,19 +44,19 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 
 ## Gerelateerd nieuws (2)
 
-### [ULB-onderzoekers ontdekken belangrijk mechanisme bij uitzaaiing van kanker](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
-
-2026-11-02 <span class="news-indication-tag">kanker</span>
-
-Bron: [GVA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5)
-
----
-
 ### [De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
 
 2026-10-31 <span class="news-indication-tag">kanker</span>
 
 Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
+
+---
+
+### [Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5)
+
+2026-10-30 <span class="news-indication-tag">borstkanker</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5)
 
 ---
 

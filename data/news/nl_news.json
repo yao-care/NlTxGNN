@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-04T23:09:50.855538+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-05T04:57:42.114255+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "cea20f795411",
+      "title": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo - NU",
+      "published": "2026-11-04T22:26:46+00:00",
+      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1Rmb24zdlo2UVd3TERKaWYtTC1yZnpESVJkR3R4TnI1b2dRZDhCNmNuaENCbkxwcHNUbkxNeDFPdEkyUm9tSnl2aWhrOUtqWUZmdFZ0MTVidHZKT0lQeEpOb2FjYmFPYnJUWmFvNzZhUUZmRzRlcnZtQTVJeVhwLUNEdldpZmF2a2pkajRaNkhqN2NncThkSF91RE4xcXprazJiZHVpNkliRmg3LWgyM0RlTDgwNC1W?oc=5"
+        }
+      ]
+    },
     {
       "id": "c2964ba76619",
       "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
-      "published": "2026-11-04T16:34:27+00:00",
+      "published": "2026-11-04T16:34:17+00:00",
       "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
       "sources": [
         {
           "name": "NPO Radio 1",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "570364304683",
+      "title": "Meeste mensen gooien envelop bevolkingsonderzoek darmkanker weg: 'Je kan er veel ellende mee voorkomen' - Rijnmond",
+      "published": "2026-11-03T17:52:00+00:00",
+      "summary": "Meeste mensen gooien envelop bevolkingsonderzoek darmkanker weg: 'Je kan er veel ellende mee voorkomen'&nbsp;&nbsp;RijnmondVan paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nl'Paarse envelop' op de mat: MST-arts roept op mee te doen aan darmkankertest&nbsp;&nbsp;RTV OostDe paarse envelop weggegooid? Zo vraag je de darmkankertest opnieuw aan&nbsp;&nbsp;GezondnuBevolkingsonderzoek darmkanker: waar moet je meedoen?&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Rijnmond",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWtHMWJKWUtiaHNvU1lpdURpT2lvYTlxOE9mcExXZk40SlFoMGhRQkpQNS1KWXlmMzZjdGcyNmxsNmNGYXhFdkM1NEdtdlB3QnFJenlnQ3YxeHBicDE2b2RFRERfd3lrbDkxdE1PeVlILVNJZkNjaG5xVi1XVkplZC1YdXBlYmc1RU02QjNkODBDR0I2T0NhMDZmbmpNV29LYXRtakhSdGUzVjZKZEZ2bXhybjB6eWttODZ4N2dKRnRDWVFyOC1KcWs5c0FzUjgyLVVib2hn?oc=5"
         }
       ]
     },
@@ -28,21 +52,21 @@
       ]
     },
     {
-      "id": "570364304683",
-      "title": "Meeste mensen gooien envelop bevolkingsonderzoek darmkanker weg: 'Je kan er veel ellende mee voorkomen' - Rijnmond",
-      "published": "2026-11-03T17:55:15+00:00",
-      "summary": "Meeste mensen gooien envelop bevolkingsonderzoek darmkanker weg: 'Je kan er veel ellende mee voorkomen'&nbsp;&nbsp;RijnmondVan paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nl'Paarse envelop' op de mat: MST-arts roept op mee te doen aan darmkankertest&nbsp;&nbsp;RTV OostDe paarse envelop weggegooid? Zo vraag je de darmkankertest opnieuw aan&nbsp;&nbsp;GezondnuBevolkingsonderzoek darmkanker: waar moet je meedoen?&nbsp;&nbsp;Libelle",
+      "id": "232cae6ab889",
+      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
+      "published": "2026-11-03T06:00:00+00:00",
+      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
       "sources": [
         {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWtHMWJKWUtiaHNvU1lpdURpT2lvYTlxOE9mcExXZk40SlFoMGhRQkpQNS1KWXlmMzZjdGcyNmxsNmNGYXhFdkM1NEdtdlB3QnFJenlnQ3YxeHBicDE2b2RFRERfd3lrbDkxdE1PeVlILVNJZkNjaG5xVi1XVkplZC1YdXBlYmc1RU02QjNkODBDR0I2T0NhMDZmbmpNV29LYXRtakhSdGUzVjZKZEZ2bXhybjB6eWttODZ4N2dKRnRDWVFyOC1KcWs5c0FzUjgyLVVib2hn?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
         }
       ]
     },
     {
       "id": "47fa82f948ee",
       "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
-      "published": "2026-11-03T18:45:00+00:00",
+      "published": "2026-11-04T16:57:44+00:00",
       "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
@@ -52,14 +76,14 @@
       ]
     },
     {
-      "id": "232cae6ab889",
-      "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
-      "published": "2026-11-03T06:00:00+00:00",
-      "summary": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’&nbsp;&nbsp;De Telegraaf",
+      "id": "8d82a6746b65",
+      "title": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan - AD.nl",
+      "published": "2026-10-30T21:30:00+00:00",
+      "summary": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTXFmQU1nZW45WHFKLXZOcl9hSWE1c2dRWEVsX19lYnY0RjAwUExLWVhNcndtUlVfemtSbkpuNHI5VGlMZXl6TWNUd1BzRlU4M0pReEdxQ05qT0VoSUQ2Ul96bzhoNnZUS2pUN3FmbFgtWjhlelJEZExlZlVONGNBTVlYSFowVEV4VDdKMVZFNnlYcVUyTWd6SEI2RFdkUnk5czlmb0JKdGdjdThmLUtSVmQ0bkRfTW1uRnJObzFtRi1PcmR4YWVnZkllVTQzRlh3cC1IUlNzeHRGWFhibG9sVGx3VFdxa1NYT3d4NU8ycnM5cmZHUnNTSjg0TEZLQjNNTTVHRVMyUXpNemM0MGpSRg?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5"
         }
       ]
     },
@@ -84,18 +108,6 @@
         {
           "name": "Brabants Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9638a36b58e",
-      "title": "ULB-onderzoekers ontdekken belangrijk mechanisme bij uitzaaiing van kanker - GVA",
-      "published": "2026-11-02T22:32:52+00:00",
-      "summary": "ULB-onderzoekers ontdekken belangrijk mechanisme bij uitzaaiing van kanker&nbsp;&nbsp;GVA",
-      "sources": [
-        {
-          "name": "GVA",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNFSzNjZEJNNFlLQ2N0VXZLaEF5WGdTM3d1aGd2MF9hWjUtWjFiNWkzWEVRblFqMFRaUGxBY19ETTUzVTJSeEJ1UjJKRHA1S25palJIcXhyYXZaRjZzZXhwZGlfYzJZQUszQVMwYlRJdm9vazZPcm9QTTVVeFRVdEdmbjd3MWE1RFdVMVBVNDVHRmdUdTZTYzJlQlhxY2ljLWJJY1FZR0NkbWI0NUJNR3ZFUEp2ZDdYZzlj?oc=5"
         }
       ]
     }

@@ -1,4 +1,6 @@
 name: Drug Interaction Data Update Check
+# 2026-11-05: this site has no DFI/DDSI/DHI data (site_data in .github/ddi-versions.json only covers the DDInter
+# pair files and Guide to PHARMACOLOGY), so the DFI check and the ddinter_dfi/ddinter_ddsi/dhi_curated blocks were removed.
 
 on:
   schedule:
@@ -21,15 +23,12 @@ jobs:
         run: |
           if [ -f .github/ddi-versions.json ]; then
             PHARMACOLOGY_DATE=$(jq -r '.guide_to_pharmacology.last_modified // "unknown"' .github/ddi-versions.json)
-            DFI_COUNT=$(jq -r '.ddinter_dfi.record_count // 0' .github/ddi-versions.json)
             DDI_COUNT=$(jq -r '.ddinter.ddi_with_mechanism // 0' .github/ddi-versions.json)
           else
             PHARMACOLOGY_DATE="unknown"
-            DFI_COUNT=0
             DDI_COUNT=0
           fi
           echo "pharmacology_date=$PHARMACOLOGY_DATE" >> $GITHUB_OUTPUT
-          echo "dfi_count=$DFI_COUNT" >> $GITHUB_OUTPUT
           echo "ddi_count=$DDI_COUNT" >> $GITHUB_OUTPUT
 
       - name: Check Guide to PHARMACOLOGY update
@@ -45,26 +44,6 @@ jobs:
             echo "needs_update=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Check DDInter 2.0 DFI update
-        id: dfi
-        run: |
-          RESPONSE=$(curl -sS -X POST "https://ddinter2.scbdd.com/server/food-interaction-source/" \
-            -d "draw=1&start=0&length=1" --max-time 30 || echo '{"recordsTotal":0}')
-
-          REMOTE_COUNT=$(echo "$RESPONSE" | jq -r '.recordsTotal // 0')
-          LOCAL_COUNT="${{ steps.local.outputs.dfi_count }}"
-
-          echo "remote_count=$REMOTE_COUNT" >> $GITHUB_OUTPUT
-          echo "local_count=$LOCAL_COUNT" >> $GITHUB_OUTPUT
-
-          if [ "$REMOTE_COUNT" != "$LOCAL_COUNT" ] && [ "$REMOTE_COUNT" != "0" ]; then
-            echo "needs_update=true" >> $GITHUB_OUTPUT
-            echo "diff=$((REMOTE_COUNT - LOCAL_COUNT))" >> $GITHUB_OUTPUT
-          else
-            echo "needs_update=false" >> $GITHUB_OUTPUT
-            echo "diff=0" >> $GITHUB_OUTPUT
-          fi
-
       - name: Generate check report
         run: |
           echo "## Drug Interaction Data Update Check" >> $GITHUB_STEP_SUMMARY
@@ -75,13 +54,6 @@ jobs:
           echo "| Remote last modified | ${{ steps.pharmacology.outputs.remote_date }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Local recorded date | ${{ steps.local.outputs.pharmacology_date }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Needs update | ${{ steps.pharmacology.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### DDInter 2.0 - DFI" >> $GITHUB_STEP_SUMMARY
-          echo "| Item | Value |" >> $GITHUB_STEP_SUMMARY
-          echo "|------|-------|" >> $GITHUB_STEP_SUMMARY
-          echo "| Remote count | ${{ steps.dfi.outputs.remote_count }} |" >> $GITHUB_STEP_SUMMARY
-          echo "| Local count | ${{ steps.dfi.outputs.local_count }} |" >> $GITHUB_STEP_SUMMARY
-          echo "| Difference | ${{ steps.dfi.outputs.diff }} |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "---" >> $GITHUB_STEP_SUMMARY
           echo "*Check time: $(date -u '+%Y-%m-%d %H:%M UTC')*" >> $GITHUB_STEP_SUMMARY

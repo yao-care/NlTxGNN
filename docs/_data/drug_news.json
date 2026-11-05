@@ -3,24 +3,24 @@
     {
       "url": "/news/amlodipine/",
       "title": "Nieuws over Amlodipine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/atenolol/": [
     {
       "url": "/news/atenolol/",
       "title": "Nieuws over Atenolol",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/bicalutamide/": [
@@ -32,91 +32,96 @@
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
+    },
+    {
+      "url": "/news/female-breast-carcinoma/",
+      "title": "Nieuws over borstkanker (female breast carcinoma)",
+      "count": 1
     }
   ],
   "/drugs/cabergoline/": [
     {
       "url": "/news/cabergoline/",
       "title": "Nieuws over Cabergoline",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/calcipotriol/": [
     {
       "url": "/news/calcipotriol/",
       "title": "Nieuws over Calcipotriol",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/capecitabine/": [
     {
       "url": "/news/capecitabine/",
       "title": "Nieuws over Capecitabine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/carvedilol/": [
     {
       "url": "/news/carvedilol/",
       "title": "Nieuws over Carvedilol",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/clonazepam/": [
     {
       "url": "/news/clonazepam/",
       "title": "Nieuws over Clonazepam",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/colchicine/": [
     {
       "url": "/news/colchicine/",
       "title": "Nieuws over Colchicine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/cytarabine/": [
     {
       "url": "/news/cytarabine/",
       "title": "Nieuws over Cytarabine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/entacapone/": [
@@ -140,120 +145,120 @@
     {
       "url": "/news/etoposide/",
       "title": "Nieuws over Etoposide",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/everolimus/": [
     {
       "url": "/news/everolimus/",
       "title": "Nieuws over Everolimus",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/famciclovir/": [
     {
       "url": "/news/famciclovir/",
       "title": "Nieuws over Famciclovir",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/felodipine/": [
     {
       "url": "/news/felodipine/",
       "title": "Nieuws over Felodipine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/fluorouracil/": [
     {
       "url": "/news/fluorouracil/",
       "title": "Nieuws over Fluorouracil",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/irbesartan/": [
     {
       "url": "/news/irbesartan/",
       "title": "Nieuws over Irbesartan",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/lactulose/": [
     {
       "url": "/news/lactulose/",
       "title": "Nieuws over Lactulose",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/lamotrigine/": [
     {
       "url": "/news/lamotrigine/",
       "title": "Nieuws over Lamotrigine",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/lorazepam/": [
     {
       "url": "/news/lorazepam/",
       "title": "Nieuws over Lorazepam",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/mannitol/": [
     {
       "url": "/news/mannitol/",
       "title": "Nieuws over Mannitol",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/paclitaxel/": [
@@ -265,67 +270,72 @@
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
+    },
+    {
+      "url": "/news/female-breast-carcinoma/",
+      "title": "Nieuws over borstkanker (female breast carcinoma)",
+      "count": 1
     }
   ],
   "/drugs/ramipril/": [
     {
       "url": "/news/ramipril/",
       "title": "Nieuws over Ramipril",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/sorbitol/": [
     {
       "url": "/news/sorbitol/",
       "title": "Nieuws over Sorbitol",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/telmisartan/": [
     {
       "url": "/news/telmisartan/",
       "title": "Nieuws over Telmisartan",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/temozolomide/": [
     {
       "url": "/news/temozolomide/",
       "title": "Nieuws over Temozolomide",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/valsartan/": [
     {
       "url": "/news/valsartan/",
       "title": "Nieuws over Valsartan",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 2
+      "count": 1
     }
   ]
 }

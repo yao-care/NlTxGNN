@@ -32,7 +32,7 @@ registreren:
 | Dienst | Doel | Privacybeleid |
 |---------|---------|----------------|
 | GitHub Pages | Hosting van de site | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| d3js.org | Bibliotheek voor grafieken | CDN voor statische bestanden |
+| cdn.jsdelivr.net | Bibliotheek voor grafieken | CDN voor statische bestanden |
 | giscus | Reacties (waar ingeschakeld) | [giscus](https://giscus.app/) |
 
 Wanneer u de SMART on FHIR-app zelf start, vraagt deze medicatiegegevens op uit uw elektronisch

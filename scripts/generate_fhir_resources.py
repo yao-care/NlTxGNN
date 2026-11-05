@@ -324,16 +324,14 @@ def main():
                         "type": "MedicationKnowledge",
                         "profile": "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge",
                         "interaction": [
-                            {"code": "read"},
-                            {"code": "search-type"}
+                            {"code": "read"}
                         ]
                     },
                     {
                         "type": "ClinicalUseDefinition",
                         "profile": "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition",
                         "interaction": [
-                            {"code": "read"},
-                            {"code": "search-type"}
+                            {"code": "read"}
                         ]
                     }
                 ]

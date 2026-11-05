@@ -1,0 +1,92 @@
+# 重發自含的成果資料 Release（2026-11-05，用戶核准）：舊版 data-* 裡有指向 TwTxGNN 的符號連結（complex_disease_42、disease_vocab.csv、drug_disease_relations.csv、drugbank_vocab.csv），
+# 單獨還原本站會得到斷掉的檔。這個 workflow 取指定的本站 data tag，把指向 TwTxGNN 的連結換成 TwTxGNN Release 裡的實際檔案，
+# 重新打包成新 tag 發布。舊 tag 一律不覆蓋。
+# 觸發：手動（workflow_dispatch），或 push 修改 .github/republish-data.request（內容兩行：本站 tag、TwTxGNN tag；
+# 雲端 session 沒有 workflow_dispatch 權限時用）。
+name: Republish self-contained data
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/republish-data.request']
+  workflow_dispatch:
+    inputs:
+      source_tag:
+        description: '本站要重打包的 data tag'
+        default: 'data-20261029'
+      tw_tag:
+        description: '提供實際檔案的 TwTxGNN data tag'
+        default: 'data-20261102-155217'
+
+permissions:
+  contents: write
+
+jobs:
+  republish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+      SRC: ${{ inputs.source_tag }}
+      TWTAG: ${{ inputs.tw_tag }}
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+        if: github.event_name == 'push'
+        with:
+          sparse-checkout: .github
+
+      - name: Read request file
+        if: github.event_name == 'push'
+        run: |
+          set -euo pipefail
+          src=$(sed -n 1p .github/republish-data.request | tr -d '[:space:]')
+          tw=$(sed -n 2p .github/republish-data.request | tr -d '[:space:]')
+          [[ "$src" =~ ^data-[0-9A-Za-z-]+$ && "$tw" =~ ^data-[0-9A-Za-z-]+$ ]] || { echo "request 檔格式錯誤" >&2; exit 1; }
+          echo "SRC=$src" >> "$GITHUB_ENV"; echo "TWTAG=$tw" >> "$GITHUB_ENV"
+
+      - name: Download and extract
+        run: |
+          set -euo pipefail
+          SITE=${GITHUB_REPOSITORY#*/}
+          echo "SITE=$SITE" >> "$GITHUB_ENV"
+          W=$RUNNER_TEMP/w; mkdir -p "$W/dl-site" "$W/dl-tw" "$W/root"
+          gh release download "$SRC" -R "$GITHUB_REPOSITORY" -D "$W/dl-site" -p "$SITE-data.*"
+          (cd "$W/dl-site" && sha256sum -c "$SITE-data.sha256")
+          cat "$W/dl-site/$SITE-data".tar.gz.part-* | tar xzf - -C "$W/root"
+          rm -rf "$W/dl-site"
+          gh release download "$TWTAG" -R yao-care/TwTxGNN -D "$W/dl-tw" -p "TwTxGNN-data.*"
+          (cd "$W/dl-tw" && sha256sum -c TwTxGNN-data.sha256)
+          cat "$W/dl-tw"/TwTxGNN-data.tar.gz.part-* | tar xzf - -C "$W/root"
+          rm -rf "$W/dl-tw"
+          echo "W=$W" >> "$GITHUB_ENV"
+
+      - name: Replace symlinks with real files
+        run: |
+          set -euo pipefail
+          cd "$W/root"
+          n=0
+          while IFS= read -r -d '' l; do
+            t=$(readlink "$l")
+            case "$t" in *TwTxGNN/*) ;; *) echo "非 TwTxGNN 的連結，停止：$l -> $t" >&2; exit 1 ;; esac
+            src="TwTxGNN/${t##*TwTxGNN/}"
+            [ -e "$src" ] || { echo "TwTxGNN Release 裡找不到 $src（$l）" >&2; exit 1; }
+            rm "$l"; cp -RLp "$src" "$l"; n=$((n+1)); echo "✓ $l <- $src"   # 檔案或目錄（如 complex_disease_42）
+          done < <(find "$SITE" -type l -print0)
+          [ -z "$(find "$SITE" -type l)" ] || { echo "仍有符號連結" >&2; exit 1; }
+          echo "已換掉 $n 個連結" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Package and publish
+        run: |
+          set -euo pipefail
+          TAG="data-$(date -u +%Y%m%d-%H%M%S)"
+          if gh release view "$TAG" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
+          OUT=$RUNNER_TEMP/out; mkdir -p "$OUT"
+          (cd "$W/root" && tar czf - "$SITE") | split -b 1900m - "$OUT/$SITE-data.tar.gz.part-"
+          (cd "$OUT" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
+          printf '%s\n\n%s\n\n%s\n' \
+            "$SITE 成果資料，內容同 $SRC，差別只在：原本指向 TwTxGNN 的符號連結已換成 TwTxGNN $TWTAG 裡的實際檔案，單獨還原本站即可使用。" \
+            "還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag）。" \
+            "本預測結果僅供研究參考，不構成醫療建議。老藥新用候選需經過臨床驗證才能應用。" > "$OUT/notes.md"
+          gh release create "$TAG" -R "$GITHUB_REPOSITORY" --target main --title "$SITE 成果資料（$TAG，自含版）" \
+            --notes-file "$OUT/notes.md" "$OUT/$SITE-data".tar.gz.part-* "$OUT/$SITE-data.sha256"
+          echo "已發布 $TAG" | tee -a "$GITHUB_STEP_SUMMARY"

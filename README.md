@@ -20,38 +20,39 @@ Voorspellingen voor herpositionering van geneesmiddelen voor door CBG-MEB (Nethe
 | Item | Aantal |
 |------|------|
 | **Geneesmiddelrapporten** | 334 |
-| **Totale voorspellingen** | 2,473,755 |
-| **Unieke geneesmiddelen** | 145 |
+| **Totale voorspellingen** | 3,189,049 |
+| **Unieke geneesmiddelen** | 430 |
 | **Unieke indicaties** | 17,081 |
 | **DDI-gegevens** | 160,235 |
-| **FHIR-bronnen** | 145 MK / 50,000 CUD |
+| **FHIR-bronnen** | 367 MK / 2,469 CUD |
 
 ### Verdeling bewijsniveaus
 
 | Bewijsniveau | Aantal rapporten | Beschrijving |
 |---------|-------|------|
-| **L1** | 0 | Meerdere Fase 3 RCT's |
-| **L2** | 0 | Enkele RCT of meerdere Fase 2 |
-| **L3** | 0 | Observationele studies |
-| **L4** | 0 | Preklinische / mechanistische studies |
-| **L5** | 145 | Alleen computationele voorspelling |
+| **L1** | 3 | Meerdere Fase 3 RCT's |
+| **L2** | 20 | Enkele RCT of meerdere Fase 2 |
+| **L3** | 15 | Observationele studies |
+| **L4** | 25 | Preklinische / mechanistische studies |
+| **L5** | 259 | Alleen computationele voorspelling |
+| **N/A** | 12 | Alleen bekend gebruik (geen nieuwe voorspellingen) |
 
 ### Per bron
 
 | Bron | Voorspellingen |
 |------|------|
 | KG | 2,231,733 |
+| DL | 716,068 |
 | KG + DL | 241,248 |
-| DL | 774 |
 
 ### Per vertrouwen
 
 | Vertrouwen | Voorspellingen |
 |------|------|
 | very_high | 10,405 |
-| high | 231,326 |
-| medium | 2,231,861 |
-| low | 163 |
+| high | 270,371 |
+| medium | 2,294,414 |
+| low | 613,859 |
 
 ---
 
@@ -70,7 +71,7 @@ uv run python scripts/run_kg_prediction.py
 
 | Metriek | Waarde |
 |------|------|
-| CBG-MEB Totaal geneesmiddelen | 1,191 |
+| CBG-MEB Totaal geneesmiddelen | 1,262 |
 | Herpositioneringskandidaten | 2,472,981 |
 
 ### Deep Learning-methode
@@ -82,8 +83,8 @@ PYTHONPATH=src python -m nltxgnn.predict.txgnn_model
 
 | Metriek | Waarde |
 |------|------|
-| Totale DL-voorspellingen | 242,010 |
-| Unieke geneesmiddelen | 145 |
+| Totale DL-voorspellingen | 703,375 |
+| Unieke geneesmiddelen | 430 |
 | Unieke indicaties | 17,081 |
 
 ### Score-interpretatie

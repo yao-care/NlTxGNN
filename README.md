@@ -24,9 +24,6 @@ Voorspellingen voor herpositionering van geneesmiddelen voor door CBG-MEB (Nethe
 | **Unieke geneesmiddelen** | 145 |
 | **Unieke indicaties** | 17,081 |
 | **DDI-gegevens** | 160,235 |
-| **DFI-gegevens** | 857 |
-| **DHI-gegevens** | 35 |
-| **DDSI-gegevens** | 8,359 |
 | **FHIR-bronnen** | 145 MK / 50,000 CUD |
 
 ### Verdeling bewijsniveaus
@@ -219,7 +216,7 @@ PYTHONPATH=src python -m nltxgnn.predict.txgnn_model
 | **Kennisgrafiek** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Geneesmiddeldatabase** | DrugBank | [DrugBank](https://go.drugbank.com/) | Ingredientkoppeling geneesmiddelen |
 | **Geneesmiddelinteracties** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI-paren |
-| **Geneesmiddelinteracties** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Goedgekeurde geneesmiddelinteracties |
+| **Geneesmiddelinteracties** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Geneesmiddel-doelwitgegevens van goedgekeurde middelen (geen interacties) |
 | **Klinische studies** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Register klinische studies |
 | **Klinische studies** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Internationaal platform klinische studies |
 | **Literatuur** | PubMed | [NCBI E-utilities](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/) | Medische literatuurzoekopdracht |

@@ -27,16 +27,11 @@
     {
       "url": "/news/bicalutamide/",
       "title": "Nieuws over Bicalutamide",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "Nieuws over borstkanker (female breast carcinoma)",
       "count": 1
     }
   ],
@@ -128,16 +123,11 @@
     {
       "url": "/news/entacapone/",
       "title": "Nieuws over Entacapone",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/dementia/",
       "title": "Nieuws over dementie (dementia)",
-      "count": 2
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "Nieuws over alzheimer",
       "count": 1
     }
   ],
@@ -265,16 +255,11 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Nieuws over Paclitaxel",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over kanker (generic_cancer)",
-      "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "Nieuws over borstkanker (female breast carcinoma)",
       "count": 1
     }
   ],

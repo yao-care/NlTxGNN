@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-05T04:57:42.232586+00:00",
-  "total_count": 9,
-  "matched_count": 4,
+  "last_updated": "2026-11-05T13:56:05.366956+00:00",
+  "total_count": 8,
+  "matched_count": 2,
   "news": [
     {
       "id": "cea20f795411",
@@ -12,19 +12,6 @@
         {
           "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1Rmb24zdlo2UVd3TERKaWYtTC1yZnpESVJkR3R4TnI1b2dRZDhCNmNuaENCbkxwcHNUbkxNeDFPdEkyUm9tSnl2aWhrOUtqWUZmdFZ0MTVidHZKT0lQeEpOb2FjYmFPYnJUWmFvNzZhUUZmRzRlcnZtQTVJeVhwLUNEdldpZmF2a2pkajRaNkhqN2NncThkSF91RE4xcXprazJiZHVpNkliRmg3LWgyM0RlTDgwNC1W?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "47fa82f948ee",
-      "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
-      "published": "2026-11-04T16:57:44+00:00",
-      "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
-      "sources": [
-        {
-          "name": "Noordhollands Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,6 +56,19 @@
       "matched_keywords": []
     },
     {
+      "id": "47fa82f948ee",
+      "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
+      "published": "2026-11-03T18:45:00+00:00",
+      "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "570364304683",
       "title": "Meeste mensen gooien envelop bevolkingsonderzoek darmkanker weg: 'Je kan er veel ellende mee voorkomen'",
       "published": "2026-11-03T17:52:00+00:00",
@@ -82,42 +82,17 @@
       "matched_keywords": []
     },
     {
-      "id": "db8b78a85790",
-      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
-      "published": "2026-11-03T10:55:36+00:00",
-      "summary": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’&nbsp;&nbsp;Brabants DagbladAlzheimer: lichtpuntje in strijd tegen slopend eiwit&nbsp;&nbsp;EWmagazine.nlBrits onderzoek test nieuwe aanpak om ziekte van Alzheimer af te remmen&nbsp;&nbsp;Newsmonkey -",
+      "id": "54d166158308",
+      "title": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval - Quest NL",
+      "published": "2026-11-03T07:06:17+00:00",
+      "summary": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval&nbsp;&nbsp;Quest NLDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladOnderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groen",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGxXLVRDczZzdUFQYWtuYXk4M2FveC1WeWxhX3RVNFlEbFpFNXVVQUw1Ri0wT2szek9JMXhVSkJWTm5UMDJJWndibWZMMzFVUU5RbUxpTmZZT1YxajNZRkJzNXYtVm5HeUZfWnVMYTNMRWEzV2lGckRxT0lpV3JKeGI2NWdsWGhnY09uNnV3XzVnVVE5dXV2VGxkLWx5cWxJN2plUVF6RHpiUQ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "alzheimer",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "232cae6ab889",
@@ -136,7 +111,7 @@
       "id": "efc828d8d26a",
       "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”",
       "published": "2026-10-31T03:00:00+00:00",
-      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVASchaamte en taboes vertragen de opsporing van kanker bij mannen in België&nbsp;&nbsp;Artsenkrant",
+      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladGezien: gigantische prostaat vraagt aandacht voor meest voorkomende kanker bij mannen&nbsp;&nbsp;BRUZZElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVA",
       "sources": [
         {
           "name": "Nieuwsblad",
@@ -278,37 +253,6 @@
               "slug": "valsartan",
               "name": "Valsartan",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8d82a6746b65",
-      "title": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan",
-      "published": "2026-10-30T21:30:00+00:00",
-      "summary": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T04:57:42.254859+00:00",
-  "count": 4,
+  "generated": "2026-11-05T13:56:05.387057+00:00",
+  "count": 2,
   "news": [
     {
       "id": "c2964ba76619",
@@ -17,43 +17,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "db8b78a85790",
-      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
-      "published": "2026-11-03T10:55:36+00:00",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "alzheimer",
           "related_drugs": [
             {
               "slug": "entacapone",
@@ -209,36 +172,6 @@
               "slug": "valsartan",
               "name": "Valsartan",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8d82a6746b65",
-      "title": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan",
-      "published": "2026-10-30T21:30:00+00:00",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
             }
           ]
         }

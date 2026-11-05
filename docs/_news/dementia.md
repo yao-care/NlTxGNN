@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over dementie (dementia)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over dementie (dementia). 2 berichten, 1 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over dementie (dementia). 1 berichten, 1 gerelateerde geneesmiddelen."
 permalink: /news/dementia/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Nieuws over dementie (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over dementie (dementia)?">
-<strong>dementie (dementia)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 gerelateerde geneesmiddelen.
+<strong>dementie (dementia)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “dementie” en toont d
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5)
 
 2026-11-04
 
 Bron: [NPO Radio 1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5)
-
----
-
-### [Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5)
-
-2026-11-03
-
-Bron: [Brabants Dagblad](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5)
 
 ---
 

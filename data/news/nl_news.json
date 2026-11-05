@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-05T04:57:42.114255+00:00",
-  "count": 9,
+  "fetched_at": "2026-11-05T13:56:05.184922+00:00",
+  "count": 8,
   "news": [
     {
       "id": "cea20f795411",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "c2964ba76619",
-      "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
-      "published": "2026-11-04T16:34:17+00:00",
-      "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
+      "id": "54d166158308",
+      "title": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval - Quest NL",
+      "published": "2026-11-03T07:06:17+00:00",
+      "summary": "Hoe je een tekort aan vezels kunt verbeteren met gft-afval&nbsp;&nbsp;Quest NLDe vezelrijkste stukjes groenten en fruit gooien we massaal in de vuilnisbak: “De stam van een broccoli is net super”&nbsp;&nbsp;NieuwsbladOnderzoekers: eet van bloemkool ook de bladeren, en van de kiwi ook de schil&nbsp;&nbsp;de VolkskrantSchillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels&nbsp;&nbsp;Scientias.nlPompoenpitten, wortelschillen en meer: we gooien vaak het voedzaamste deel van groen",
       "sources": [
         {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGxXLVRDczZzdUFQYWtuYXk4M2FveC1WeWxhX3RVNFlEbFpFNXVVQUw1Ri0wT2szek9JMXhVSkJWTm5UMDJJWndibWZMMzFVUU5RbUxpTmZZT1YxajNZRkJzNXYtVm5HeUZfWnVMYTNMRWEzV2lGckRxT0lpV3JKeGI2NWdsWGhnY09uNnV3XzVnVVE5dXV2VGxkLWx5cWxJN2plUVF6RHpiUQ?oc=5"
         }
       ]
     },
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "c2964ba76619",
+      "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
+      "published": "2026-11-04T16:34:17+00:00",
+      "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "232cae6ab889",
       "title": "Fatih was pas 39 toen een verwoestende diagnose het gezin trof: ’Dat had de neuroloog nog niet meegemaakt in zijn carrière’ - De Telegraaf",
       "published": "2026-11-03T06:00:00+00:00",
@@ -66,7 +78,7 @@
     {
       "id": "47fa82f948ee",
       "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
-      "published": "2026-11-04T16:57:44+00:00",
+      "published": "2026-11-03T18:45:00+00:00",
       "summary": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
@@ -76,38 +88,14 @@
       ]
     },
     {
-      "id": "8d82a6746b65",
-      "title": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan - AD.nl",
-      "published": "2026-10-30T21:30:00+00:00",
-      "summary": "Deel van vrouwen met borstkanker krijgt onnodig chemo: onderzoek naar hoe het zo mis kan gaan&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWszeHBjWmxldUduMkMtdl82eE1lWXJZdmRHcm5tbFFtMjhpQkptcHA5Q05QMFNzclJjRWpleTdmTk5ib0ZzenJESGlhdVNSMmwwdWdrd04zQWlLZXo4UXFnSkpmeEx2clpCS1pPRjVCZ0lUbGFpbXN3ZWdUaVgyLW5YN2R0eG9pWjFLVVdUMEdpMHZwR2N0V1REOXBKWEtNbFRVd296WEtUa0g1a1N4OTYzbExrVWdzeUp0UGc5MTBjeGdiUkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "efc828d8d26a",
       "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde” - Nieuwsblad",
       "published": "2026-10-31T03:00:00+00:00",
-      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVASchaamte en taboes vertragen de opsporing van kanker bij mannen in België&nbsp;&nbsp;Artsenkrant",
+      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladGezien: gigantische prostaat vraagt aandacht voor meest voorkomende kanker bij mannen&nbsp;&nbsp;BRUZZElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVA",
       "sources": [
         {
           "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db8b78a85790",
-      "title": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad",
-      "published": "2026-11-03T10:55:36+00:00",
-      "summary": "Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’&nbsp;&nbsp;Brabants DagbladAlzheimer: lichtpuntje in strijd tegen slopend eiwit&nbsp;&nbsp;EWmagazine.nlBrits onderzoek test nieuwe aanpak om ziekte van Alzheimer af te remmen&nbsp;&nbsp;Newsmonkey -",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5"
         }
       ]
     }

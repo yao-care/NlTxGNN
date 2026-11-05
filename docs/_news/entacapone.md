@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Entacapone. 10 voorspelde indicaties."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Nieuws over Entacapone
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Entacapone?">
-<strong>Entacapone</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Entacapone</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5)
 
 2026-11-04 <span class="news-indication-tag">dementie</span>
 
 Bron: [NPO Radio 1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5)
-
----
-
-### [Neuroloog Hugo Aben over medicijnen tegen Alzheimer: ‘Dementie uitbannen is toekomstmuziek’ - Brabants Dagblad](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5)
-
-2026-11-03 <span class="news-indication-tag">dementie</span> <span class="news-indication-tag">alzheimer</span>
-
-Bron: [Brabants Dagblad](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJ3NlRHTTVBMUpQaXpXWjgybDFlN2NlcUlkTW1PdVZ5Z0xrOC11TlpIQk1xd2pMbkJQTmVhVGc3SGZmVFZUaXFVbHU3YTNFNXZzcXpnN0Z1U25ZeTV5RFhLT1BuT2c3d2dsS1lEVFFYaWZYNWJzUThoZ2FOdzBiY3hFbFNaUHJMeFlDTTljZzFNQmd5NG1vQ3kwOGRqdVpUQmZMWXhGeDlYaTEzUmtBRXM1Mms3UmFfeHpRQU1NdlgzQQ?oc=5)
 
 ---
 

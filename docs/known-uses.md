@@ -10,7 +10,7 @@ description: "Voor deze geneesmiddelen zijn alle kandidaten van het TxGNN-model 
 
 Voor deze geneesmiddelen zijn alle kandidaten van het TxGNN-model al bekend gebruik (vastgelegd in de kennisgraaf of in een vergunning), dus er is geen nieuwe voorspelde indicatie. Elke pagina toont het bekende gebruik en de lokale marktstatus.
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} geneesmiddelen**
 

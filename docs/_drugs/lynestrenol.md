@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Lynestrenol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
 last_modified_at: 2026-10-28
-description: "Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens"
+description: "Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens"
 ---
 
 # Lynestrenol

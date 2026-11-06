@@ -1,0 +1,101 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/ambroxol.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Faryngitis\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/cefazolin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Cefazolin: voorspelde nieuwe indicatie Infectieuze otitis media (bewijsniveau L4). Oorspronkelijke indicatie: Bacteriële pneumonie (en o.a. cholangitis, endocarditis…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/dapoxetine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Dapoxetine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Voortijdige zaadlozing (premature ejaculatie)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/emtricitabine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L4). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/estriol.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L3",
+      "original_description": "\"Estriol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de enige vergunning be…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/ethambutol.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Ethambutol: voorspelde nieuwe indicatie Epiglottitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/famciclovir.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Famciclovir: voorspelde nieuwe indicatie Postinfectieuze neuralgie (bewijsniveau L4). Oorspronkelijke indicatie: Herpes zoster (gordelroos)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/isoniazid.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/lynestrenol.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/nortriptyline.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L2",
+      "original_description": "\"Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/ribavirin.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L1",
+      "original_description": "\"Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L5). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rivastigmine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rivastigmine: voorspelde nieuwe indicatie Glaucoom (bewijsniveau L4). Oorspronkelijke indicatie: Ziekte van Alzheimer (en verwante aandoeningen…\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}

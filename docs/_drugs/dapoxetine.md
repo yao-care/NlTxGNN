@@ -6,7 +6,7 @@ nav_order: 104
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-28
-description: "Dapoxetine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Voortijdige zaadlozing (premature ejaculatie)"
+description: "Dapoxetine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Voortijdige zaadlozing (premature ejaculatie)"
 monitor_inn: "dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
 ---

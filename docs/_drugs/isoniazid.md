@@ -6,7 +6,7 @@ nav_order: 187
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-28
-description: "Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Pulmonale tuberculose"
+description: "Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale tuberculose"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
 ---

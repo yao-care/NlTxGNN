@@ -6,7 +6,7 @@ nav_order: 138
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-28
-description: "Estriol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de enige vergunning be…"
+description: "Estriol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de enige vergunning be…"
 monitor_inn: "Estriol"
 predicted_indications: ["amenorrhea (disease)"]
 ---

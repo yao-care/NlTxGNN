@@ -116,7 +116,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.
+- De veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.
 
 **Om verder te gaan is nodig:**
 - Het ophalen en verwerken van de actuele bijsluiter/SmPC via het CBG-MEB (waarschuwingen, contra-indicaties), omdat zonder deze gegevens de veiligheidsscreening niet kan worden afgerond

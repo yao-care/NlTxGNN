@@ -129,7 +129,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 - Gegevens over het werkingsmechanisme uit DrugBank.
 - De officiële waarschuwingen en contra-indicaties uit de CBG-MEB-productinformatie (SmPC), nodig voor een veiligheidsscreening.
 - Een beoordeling van de veiligheid bij combinatie met standaard antimalariamiddelen, zoals chloroquine.
-- Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).
+- Besluit over de vergunningsstatus in Nederland.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

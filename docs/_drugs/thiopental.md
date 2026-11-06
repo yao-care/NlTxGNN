@@ -84,8 +84,6 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Er is één registratie bij het CBG-MEB en deze is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen

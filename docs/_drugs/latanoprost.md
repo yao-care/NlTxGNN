@@ -104,7 +104,7 @@ Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie
 - Bijsluiter- en SmPC-gegevens van het CBG-MEB (waarschuwingen, contra-indicaties), omdat de veiligheidsscreening anders niet kan worden afgerond
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - Een literatuur- en trialzoekactie specifiek voor latanoprost bij primair (congenitaal) erfelijk glaucoom
-- Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland, aangezien de enige vermelde vergunning is doorgehaald
+- Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland
 
 ---
 

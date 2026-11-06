@@ -123,7 +123,7 @@ Linaclotide is als enige in de lijst van een licht (minor) niveau.
 **Onderbouwing:**
 - Het bewijs is beperkt tot één indirecte cohortstudie over andere NSAID's (L4). De overige negen voorspellingen hebben geen bewijs (L5) en vaak geen plausibel mechanisme.
 - De hoofdindicatie ligt binnen een bestaande indicatiefamilie, dus er is weinig sprake van echte herpositionering.
-- De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsgegevens ontbreken (blokkerende datalacune).
+- De officiële veiligheidsgegevens ontbreken (blokkerende datalacune).
 
 **Om verder te gaan is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen, contra-indicaties, goedgekeurde indicaties)

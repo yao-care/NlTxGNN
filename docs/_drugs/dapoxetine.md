@@ -105,7 +105,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust vrijwel uitsluitend op modelscores en klasse-niveau redenering; er zijn geen klinische studies en geen dapoxetine-specifieke migrainegegevens. De Nederlandse vergunning is bovendien doorgehaald, en het farmacokinetische profiel past slecht bij migraineprofylaxe.
+- De voorspelling berust vrijwel uitsluitend op modelscores en klasse-niveau redenering; er zijn geen klinische studies en geen dapoxetine-specifieke migrainegegevens. Het farmacokinetische profiel past slecht bij migraineprofylaxe.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC/bijsluiter (waarschuwingen en contra-indicaties), die in de huidige data ontbreekt en eerst nodig is voor veiligheidsscreening

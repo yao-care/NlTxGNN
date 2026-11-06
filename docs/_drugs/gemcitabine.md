@@ -110,8 +110,6 @@ Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen geran
 |---------|------|------|-----------|
 | RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.
-
 ---
 
 ## Cytotoxiciteit
@@ -146,7 +144,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC en de bijsl
 **Om verder te gaan is het volgende nodig:**
 - De primaire resultaten van de Fase 3-studies (NCT00006459, NCT00093795, NCT00408408) opvragen en beoordelen op overleving en toxiciteit
 - De SmPC/bijsluiter van gemcitabine ophalen bij CBG-MEB of EMA voor waarschuwingen en contra-indicaties (kritieke datalacune)
-- De actuele registratiestatus van gemcitabine in Nederland controleren, omdat het enige gevonden product is doorgehaald
+- De actuele registratiestatus van gemcitabine in Nederland controleren
 - De huidige Nederlandse (NABON) en Europese (ESMO) richtlijnen raadplegen voor de plaats van gemcitabine bij borstkanker, met name bij triple-negatieve ziekte
 - Mechanistische gegevens (DrugBank) aanvullen
 - Een veiligheidsmonitoringplan opstellen, met aandacht voor bloedbeeld en lever- en nierfunctie

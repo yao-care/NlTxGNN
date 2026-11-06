@@ -101,7 +101,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het TxGNN-model (L5), zonder klinische studies of literatuur. Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden. Bovendien is het enige Nederlandse product doorgehaald.
+- De voorspelling berust uitsluitend op het TxGNN-model (L5), zonder klinische studies of literatuur. Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (aanvullen uit DrugBank)

@@ -104,7 +104,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme uit DrugBank.

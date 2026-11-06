@@ -89,7 +89,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 115384 | Rivastigmine Sandoz 13,3 mg/24 uur, pleisters voor transdermaal gebruik (geldig) | Transdermale pleister | Niet beschikbaar in de data |
 
-De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.
+Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.
 
 ---
 
@@ -109,13 +109,12 @@ Voor volledige veiligheidsinformatie, waarschuwingen en contra-indicaties: raadp
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies. Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu niet verantwoord is.
+Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies.
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB ophalen en analyseren op waarschuwingen en contra-indicaties (blokkerende gegevenslacune)
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
 - Humane gegevens verzamelen, zoals een klein fase 1/2-onderzoek naar oogdrukverlaging bij glaucoom
-- Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is
 - Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties
 ## Disclaimer
 

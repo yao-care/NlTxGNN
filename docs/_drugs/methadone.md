@@ -111,7 +111,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor Tourette-syndroom bestaat slechts een klein, oud rapport (1992) en geen geregistreerde klinische studies. Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar.
+- Voor Tourette-syndroom bestaat slechts een klein, oud rapport (1992) en geen geregistreerde klinische studies. Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4).
 
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsinformatie uit de bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties). Dit is een blokkerend gegevenstekort voor veiligheidsscreening.

@@ -93,14 +93,14 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De hoge TxGNN-score (0,9904) is een puur computationele voorspelling. Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.
+- De hoge TxGNN-score (0,9904) is een puur computationele voorspelling. Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect.
 
 **Om verder te gaan is het volgende nodig:**
 - De officiële productinformatie (SmPC/bijsluiter) van het CBG-MEB voor waarschuwingen en contra-indicaties, als voorwaarde voor een veiligheidsscreening
 - Gegevens over het werkingsmechanisme uit DrugBank om de mechanistische link te kunnen beoordelen
 - Gerichte literatuur of preklinisch onderzoek naar het effect van seleniumsuppletie (en niet alleen seleniumstatus) bij PSC
 - Een beoordeling van de veiligheid van suppletie bij cholestase, gezien mogelijke retentie van selenium en koper
-- Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is, omdat de huidige vergunning is doorgehaald
+- Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

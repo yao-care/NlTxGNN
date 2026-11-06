@@ -96,8 +96,6 @@ Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikan
 | RVG 118469 | Bogasan honing & citroen zuigtabletten | Geldig |
 | RVG 118472 | Bogasil honing & citroen zuigtabletten | Geldig |
 
-Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).
-
 ---
 
 ## Veiligheidsoverwegingen

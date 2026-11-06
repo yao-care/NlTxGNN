@@ -38,7 +38,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één zin
 
-Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland alleen nog voorkwam in een inmiddels doorgehaald infuusvoedingsproduct. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**. Hiervoor zijn **geen klinische studies** en **2 publicaties** beschikbaar, die alleen indirect verband leggen. Het bewijs is dus zeer beperkt.
+Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**. Hiervoor zijn **geen klinische studies** en **2 publicaties** beschikbaar, die alleen indirect verband leggen. Het bewijs is dus zeer beperkt.
 
 ---
 

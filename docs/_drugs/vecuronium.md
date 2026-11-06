@@ -105,7 +105,7 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadple
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is alleen een modelvoorspelling (L5), zonder relevante klinische studies of literatuur. Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- Er is alleen een modelvoorspelling (L5), zonder relevante klinische studies of literatuur. Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid.
 
 **Om verder te gaan is het volgende nodig:**
 - Een aanvullende analyse van de waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (de veiligheidsscreening kan hier nu niet op worden gebaseerd)

@@ -92,7 +92,6 @@ Alleen de publicatie met directe relevantie is opgenomen; de overige gevonden pu
 |---------|------|------|-----------|
 | RVG 117718 | Ramipril Aurobindo 2,5 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -119,7 +118,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.
+Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies.
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de productinformatie van het CBG-MEB (SmPC), inclusief goedgekeurde indicaties

@@ -112,7 +112,7 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. 
 
 **Onderbouwing:**
 - De voorspelling berust alleen op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur en zonder aannemelijk mechanistisch verband met de onderliggende genetische oorzaak.
-- De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken. Daardoor kan de veiligheidsscreening niet worden afgerond.
+- Gegevens over waarschuwingen en contra-indicaties ontbreken. Daardoor kan de veiligheidsscreening niet worden afgerond.
 
 **Om verder te gaan is nodig:**
 - Bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen en verwerken.

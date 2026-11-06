@@ -113,7 +113,6 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB (essentieel voor veiligheidsscreening)
 - Preklinisch of klinisch bewijs voor effect van orlistat bij hypervitaminose, inclusief een systematische literatuursearch
 - Beoordeling van de geschiktheid van toedieningsroutes en vergelijking met de oorspronkelijke indicatie
-- Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

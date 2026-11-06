@@ -100,7 +100,7 @@ Voor de bredere context bij twaalfvingerige-darmzweer zijn bovendien meerdere RC
 | RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (vergunning geldig) |
 | RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Tablet (combinatieverpakking) | Niet beschikbaar (vergunning geldig) |
 
-Beide registraties zijn doorgehaald. Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven. Raadpleeg het CBG-MEB voor de actuele vergunningsstatus.
+Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven. Raadpleeg het CBG-MEB voor de actuele vergunningsstatus.
 
 ---
 
@@ -119,7 +119,6 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn in de sam
 
 **Onderbouwing:**
 - Er is een afgeronde fase 3-RCT en een omvangrijke set vergelijkende studies bij maag- en twaalfvingerige-darmzweer. De voorspelling is echter grotendeels bevestigend: de indicatie valt binnen het bestaande gebruik van pantoprazol.
-- De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken.
 
 **Om verder te gaan is het volgende nodig:**
 - De productinformatie (SmPC) van het CBG-MEB ophalen en analyseren op waarschuwingen en contra-indicaties.

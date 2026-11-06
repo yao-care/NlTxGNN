@@ -137,7 +137,7 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 
 **Onderbouwing:**
 - Meerdere afgeronde fase 3-RCT's (onder meer NCT00991211 en NCT00877006) en gerandomiseerde fase 3-studies met BR als basisregime ondersteunen het gebruik bij mantelcellymfoom sterk (bewijsniveau L1). BR is al een gevestigd regime in de klinische praktijk en in richtlijnen.
-- De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald. Ook ontbreken de veiligheidsgegevens uit de productinformatie.
+- Ook ontbreken de veiligheidsgegevens uit de productinformatie.
 
 **Hiervoor is nodig om verder te gaan:**
 - Het ontbrekende bewijs uit de productinformatie van het CBG-MEB (waarschuwingen en contra-indicaties) aanvullen en de veiligheid beoordelen.

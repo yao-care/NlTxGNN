@@ -38,7 +38,7 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één zin
 
-Tyrosine is een aminozuur dat in de Nederlandse registratie alleen voorkomt als onderdeel van een parenterale voedingsemulsie (OLIMEL N7), die inmiddels is doorgehaald. Het TxGNN-model voorspelt een mogelijk effect bij **cauda equina-syndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling is puur computationeel.
+Het TxGNN-model voorspelt een mogelijk effect bij **cauda equina-syndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling is puur computationeel.
 
 ---
 
@@ -118,7 +118,6 @@ Let op: enkele zoekresultaten betreffen *tyrosinekinaseremmers*, niet het aminoz
 |---------|------|------|-----------|
 | RVG 105717 | OLIMEL N7, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -132,7 +131,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De TxGNN-score is zeer hoog (0,9977), maar er zijn geen klinische studies of publicaties en geen aannemelijk mechanisme voor cauda equina-syndroom (bewijsniveau L5). Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs. Bovendien is de enige Nederlandse registratie doorgehaald.
+- De TxGNN-score is zeer hoog (0,9977), maar er zijn geen klinische studies of publicaties en geen aannemelijk mechanisme voor cauda equina-syndroom (bewijsniveau L5). Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs.
 
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsgegevens uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties), een blokkerende gegevenslacune voor veiligheidsscreening

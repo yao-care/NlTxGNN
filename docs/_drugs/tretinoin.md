@@ -87,8 +87,6 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 | RVG 101711//20455 | Vesanoid, capsules 10 mg (geldig) | Capsule | Niet beschikbaar |
 | RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel (geldig) | Gel | Niet beschikbaar |
 
-Beide registraties bij het CBG-MEB zijn doorgehaald.
-
 ---
 
 ## Cytotoxiciteit

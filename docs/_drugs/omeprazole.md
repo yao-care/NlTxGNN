@@ -100,7 +100,6 @@ Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie m
 | RVG 114901 | Omeprazol Hetero 40 mg, harde maagsapresistente capsules (geldig) | Capsule (volgens productnaam) | Niet beschikbaar |
 | RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (geldig) | Tablet (volgens productnaam) | Niet beschikbaar |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -122,7 +121,6 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 **Onderbouwing:**
 - Het bewijs voor duodenogastrische reflux bestaat uit kleine klinische studies en dierstudies, met een mogelijk veiligheidssignaal. De enige geregistreerde studie is een diagnostische studie. De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties.
-- Beide Nederlandse registraties zijn doorgehaald.
 
 **Om verder te gaan is nodig:**
 - Productteksten (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties, nodig voor veiligheidsscreening

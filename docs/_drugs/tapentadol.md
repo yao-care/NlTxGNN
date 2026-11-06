@@ -91,7 +91,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5), zonder klinische studies of direct werkzaamheidsbewijs. Opioïden worden bij migraine bovendien in het algemeen afgeraden. De enige Nederlandse registratie is doorgehaald.
+- De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5), zonder klinische studies of direct werkzaamheidsbewijs. Opioïden worden bij migraine bovendien in het algemeen afgeraden.
 
 **Om verder te gaan, is het volgende nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties); dit blokkeert de veiligheidsscreening.

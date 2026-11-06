@@ -114,7 +114,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uitsluitend uit oudere casuïstiek, kleine series en één populatiestudie over profylaxe, zonder geregistreerde klinische trials (L4). De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak. Bovendien is de enige Nederlandse registratie ingetrokken.
+- Het bewijs bestaat uitsluitend uit oudere casuïstiek, kleine series en één populatiestudie over profylaxe, zonder geregistreerde klinische trials (L4). De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak.
 
 **Om verder te gaan is nodig:**
 - Afbakening van de doelpopulatie (tuberculeuze oogaandoeningen, niet conjunctivitis in het algemeen)

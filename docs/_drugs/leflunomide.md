@@ -106,14 +106,13 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC; de bijslui
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5) zonder klinische studies of literatuur. Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis. Daarnaast is de enige Nederlandse vergunning ingetrokken.
+- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5) zonder klinische studies of literatuur. Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis.
 
 **Om verder te gaan is het volgende nodig:**
 - Bijsluitertekst/SmPC van het CBG-MEB met waarschuwingen en contra-indicaties (blokkerende datalacune voor veiligheidsscreening)
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Preklinisch of mechanistisch bewijs voor een verband met het voorgestelde syndroom
 - Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep
-- Verduidelijking van de status van de ingetrokken Nederlandse vergunning
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

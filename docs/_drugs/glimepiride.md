@@ -124,7 +124,7 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is alleen een modelvoorspelling (L5) zonder klinische studies of relevante literatuur, en het voorspelde verband is waarschijnlijk een artefact van comorbiditeit met diabetes. Er is geen plausibel farmacologisch mechanisme. De Nederlandse registratie is bovendien ingetrokken.
+- Er is alleen een modelvoorspelling (L5) zonder klinische studies of relevante literatuur, en het voorspelde verband is waarschijnlijk een artefact van comorbiditeit met diabetes. Er is geen plausibel farmacologisch mechanisme.
 
 **Om verder te gaan is het volgende nodig:**
 - SmPC-informatie van het CBG-MEB over waarschuwingen en contra-indicaties (ontbreekt nu en blokkeert de veiligheidsscreening)

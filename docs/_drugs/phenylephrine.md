@@ -115,7 +115,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4), en beide Nederlandse registraties zijn doorgehaald. De hoge score is vooral het gevolg van overlap met bestaande indicaties.
+De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4). De hoge score is vooral het gevolg van overlap met bestaande indicaties.
 
 **Om verder te gaan is het volgende nodig:**
 - Opgehaalde en geanalyseerde bijsluiter/SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties); dit is een blokkerend gegevensgat voor de veiligheidsscreening

@@ -84,7 +84,7 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 106414 | Mannitol 15 %, oplossing voor infusie 150 g/l (geldig) | Niet vermeld | Niet vermeld |
 
-Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd. Beide vergunningen zijn doorgehaald en de gegevens bevatten geen informatie over goedgekeurde indicaties.
+Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd. De gegevens bevatten geen informatie over goedgekeurde indicaties.
 
 ---
 
@@ -106,7 +106,7 @@ Raadpleeg voor de officiële veiligheidsinformatie de SmPC en de bijsluiter (CBG
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het bewijs bestaat alleen uit een modelvoorspelling (L5) zonder klinische studies of mannitolspecifieke literatuur. Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie. Daarnaast zijn de Nederlandse registraties doorgehaald.
+Het bewijs bestaat alleen uit een modelvoorspelling (L5) zonder klinische studies of mannitolspecifieke literatuur. Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie.
 
 **Om verder te gaan is nodig:**
 - Productteksten (SmPC/bijsluiter) van CBG-MEB voor waarschuwingen en contra-indicaties; dit blokkeert de veiligheidsscreening

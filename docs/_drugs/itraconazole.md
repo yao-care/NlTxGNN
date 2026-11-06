@@ -95,7 +95,7 @@ De literatuur is hieronder samengevat; de meeste artikelen zijn algemene overzic
 
 ## Informatie over de Nederlandse markt
 
-Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.
+Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
@@ -131,7 +131,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 - Gegevens over het werkingsmechanisme (aanvullende bron, bijv. DrugBank)
 - Veiligheidsinformatie uit de officiële productinformatie van het CBG-MEB (waarschuwingen, contra-indicaties), ook gezien de vele KG-contra-indicaties (hart, lever) en de interacties
 - Een beoordeling van de meerwaarde ten opzichte van de bestaande standaardtherapieën
-- Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland, aangezien de enige vergunning is doorgehaald
+- Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

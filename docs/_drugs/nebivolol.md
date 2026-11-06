@@ -85,7 +85,6 @@ Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn 
 |---------|------|------|-----------|
 | RVG 111041 | Nebivolol Stada 5 mg tabletten (status: geldig) | Tablet | Niet beschikbaar in de gegevens |
 
-
 ## Veiligheidsoverwegingen
 
 - **Contra-indicaties uit de kennisgraaf** (niet afkomstig uit de productinformatie): leverfalen, leverziekte, galblaasziekte, diabetes mellitus, diabetische ketoacidose, perifeer vaatlijden (waaronder claudicatio intermittens en perifere arteriële ziekte), hypoglykemie, atrioventriculair blok, bronchiale aandoeningen, sikkelsinussyndroom (sick sinus syndrome) en de familiaire vorm daarvan.
@@ -106,7 +105,6 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 - Klinische of ten minste gerichte preklinische gegevens voor de voorspelde indicatie
 - Beoordeling van de geschiktheid van de toedieningsroute (oraal versus intraveneus) bij acute hypertensieve noodsituaties
 - Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie
-- Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

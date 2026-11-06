@@ -122,7 +122,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Voor beroerte is er alleen indirect bewijs (een fase 3-studie naar ritmecontrole bij atriumfibrilleren), en antistolling blijft de standaard voor preventie. De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs. De enige Nederlandse registratie is doorgehaald.
+- Voor beroerte is er alleen indirect bewijs (een fase 3-studie naar ritmecontrole bij atriumfibrilleren), en antistolling blijft de standaard voor preventie. De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs.
 
 **Om verder te gaan is nodig:**
 - Officiële veiligheidsinformatie (SmPC/bijsluiter) van het CBG-MEB, een blokkerend datagat voor de veiligheidsscreening

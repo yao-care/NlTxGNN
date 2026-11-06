@@ -91,8 +91,6 @@ Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen
 |---------|------|------|-----------|
 | RVG 115310 | Soolantra 10 mg/g crème | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-De enige bij het CBG-MEB bekende vergunning is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -110,7 +108,7 @@ Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend computationeel (bewijsniveau L5). Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme. De enige Nederlandse vergunning is bovendien doorgehaald.
+- De voorspelling is uitsluitend computationeel (bewijsniveau L5). Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme.
 
 **Om verder te kunnen gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank) en een beoordeling of er enige activiteit tegen *Candida* bestaat.

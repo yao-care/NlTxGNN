@@ -98,7 +98,6 @@ De overige gevonden publicaties (preklinische zolpidemstudie, casuïstiek en een
 | RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
 | RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -122,7 +121,6 @@ Raadpleeg voor volledige waarschuwingen de SmPC en bijsluiter (CBG-MEB), aangezi
 - Bijsluiter-/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico
-- Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

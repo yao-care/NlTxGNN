@@ -84,8 +84,6 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 120241//18236 | Sandostatine LAR 20 mg | Niet vermeld | Niet vermeld (status: geldig) |
 
-Er is één vergunning, en deze is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -106,7 +104,7 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleeg de SmPC en de b
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5). Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse vergunning doorgehaald.
+- De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5).
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB om de veiligheid te beoordelen; dit ontbreekt nu en blokkeert verdere veiligheidsscreening

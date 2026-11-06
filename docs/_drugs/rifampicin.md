@@ -97,7 +97,7 @@ Er zijn 19 publicaties gevonden. Hieronder staan de meest relevante. Alleen de s
 |---------|------|------|-----------|
 | RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
 
-Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
+Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
 
 ---
 

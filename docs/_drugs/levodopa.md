@@ -122,7 +122,7 @@ Epilepsie op deze lijst is extra relevant, omdat Rasmussen-encefalitis gepaard g
 - Gegevens over het werkingsmechanisme van levodopa ophalen (bijvoorbeeld uit DrugBank)
 - Een systematisch literatuuronderzoek naar levodopa bij Rasmussen-encefalitis en bij bewegingsstoornissen bij focale encefalitis
 - Beoordeling van de aanvalsrisico's bij patiënten met epilepsie
-- Controle van de huidige beschikbaarheid van levodopa-producten in Nederland, aangezien alle geregistreerde producten in de gegevens als doorgehaald staan
+- Controle van de huidige beschikbaarheid van levodopa-producten in Nederland
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

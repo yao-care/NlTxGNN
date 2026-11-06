@@ -82,8 +82,6 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning geldig) |
 
-Dit is de enige vergunning voor deze stof en de status is ingetrokken.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -101,7 +99,7 @@ Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicatie
 
 **Onderbouwing:**
 - De voorspelling berust alleen op het model (L5). Er zijn geen studies of publicaties, en er is geen plausibel mechanisme voor een verband tussen carnitine en een COL4A1-gerelateerde vaatziekte.
-- De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt. De veiligheidsscreening kan daarom niet worden voortgezet.
+- De veiligheidsinformatie uit de bijsluiter ontbreekt. De veiligheidsscreening kan daarom niet worden voortgezet.
 
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB ophalen en verwerken, zodat waarschuwingen en contra-indicaties beschikbaar komen.

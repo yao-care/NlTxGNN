@@ -70,7 +70,7 @@ Er zijn belangrijke kanttekeningen:
 
 Ter volledigheid voorspelde het model ook twee andere indicaties, eveneens zonder enig bewijs (L5, Hold):
 - **Neurogene blaas** (score 0,9913; de aandoening is in de ontologie als "obsoleet" gemarkeerd, wat wijst op een koppelingsprobleem dat eerst moet worden opgelost). Antimuscarinica zoals oxybutynine en tolterodine zijn hier al beschikbaar.
-- **Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.
+- **Prikkelbare darmsyndroom** (score 0,9912).
 
 ---
 
@@ -92,8 +92,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | Oogdruppels (volgens productnaam) | Niet beschikbaar |
 
-Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -111,7 +109,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op een modelscore (L5) zonder klinische studies of literatuur. De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.
+- De voorspelling berust alleen op een modelscore (L5) zonder klinische studies of literatuur. De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig.
 
 **Om verder te gaan is nodig:**
 - De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB (ontbrekend, blokkerend voor de veiligheidsscreening)

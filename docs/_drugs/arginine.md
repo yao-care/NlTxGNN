@@ -38,7 +38,7 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 ## Samenvatting in één zin
 
-Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding. Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar. Het TxGNN-model voorspelt dat arginine mogelijk werkzaam is bij **gastroparese**, maar er zijn **0 klinische studies** en **9 publicaties** (vrijwel uitsluitend ddiermodellen en één casusbeschrijving) die deze richting ondersteunen.
+Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar. Het TxGNN-model voorspelt dat arginine mogelijk werkzaam is bij **gastroparese**, maar er zijn **0 klinische studies** en **9 publicaties** (vrijwel uitsluitend ddiermodellen en één casusbeschrijving) die deze richting ondersteunen.
 
 ---
 
@@ -120,7 +120,7 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese. Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de veiligheidsscreening blokkeert.
+Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese.
 
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen (blokkerend voor veiligheidsscreening)

@@ -84,7 +84,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 105718 | OLIMEL N9, emulsie voor infusie (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is. De vergunning is doorgehaald.
+Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is.
 
 ---
 
@@ -111,7 +111,7 @@ De tweede voorspelling (TxGNN-score 0,9927) verdient een korte toelichting, omda
 **Besluit: Hold (aanhouden)**
 
 **Onderbouwing:**
-- De voorspelling voor gastroparese berust uitsluitend op een model (L5), zonder klinische studies en zonder relevante literatuur. De enige vergunning is bovendien doorgehaald.
+- De voorspelling voor gastroparese berust uitsluitend op een model (L5), zonder klinische studies en zonder relevante literatuur.
 - Voor de tweede voorspelling wijst het preklinische bewijs op een tegengesteld effect.
 
 **Om verder te gaan is nodig:**

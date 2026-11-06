@@ -97,7 +97,6 @@ De voorspelling berust uitsluitend op een modelscore (evidentieniveau L5) zonder
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
 - Systematisch literatuuronderzoek en zoekopdracht in trialregisters naar felbamaat bij trigeminusneuralgie en trigeminuszenuwtumoren.
 - Een voorlopige afweging van de baten-risicoverhouding ten opzichte van carbamazepine en oxcarbazepine.
-- Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

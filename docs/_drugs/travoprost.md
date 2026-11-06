@@ -90,7 +90,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.
+- De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een onderbouwd biologisch verband met calciphylaxie.

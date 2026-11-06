@@ -92,8 +92,6 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 108255 | Naproxen Aurobindo 500 mg, tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
 
-Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -114,7 +112,7 @@ De waarschuwingen en contra-indicaties uit de productinformatie (SmPC) ontbreken
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC.
+- De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen.
 
 **Om verder te gaan is nodig:**
 - Het werkingsmechanisme van naproxen aanvullen (bijvoorbeeld via DrugBank)

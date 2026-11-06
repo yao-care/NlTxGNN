@@ -102,7 +102,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne. De enige Nederlandse vergunning is bovendien doorgehaald.
+- De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne.
 
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ophalen en beoordelen (blokkerend voor de veiligheidsscreening)

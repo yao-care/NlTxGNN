@@ -84,8 +84,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie (geldig) | Oplossing voor injectie/infusie | Niet vermeld |
 
-Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -104,7 +102,7 @@ Voor volledige waarschuwingen en contra-indicaties moet de SmPC (Samenvatting va
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is geen klinisch of literatuurbewijs, alleen een modelscore. Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis, en de enige Nederlandse vergunning is doorgehaald.
+- Er is geen klinisch of literatuurbewijs, alleen een modelscore. Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties). Dit is momenteel een blokkerend gegevenstekort.

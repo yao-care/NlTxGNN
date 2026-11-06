@@ -110,7 +110,7 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme. Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeert.
+- De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme.
 
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties).

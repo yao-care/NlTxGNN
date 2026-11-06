@@ -100,14 +100,13 @@ Raadpleeg voor officiële veiligheidsinformatie de SmPC (Samenvatting van de Pro
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5), zonder klinische studies of literatuur. Het werkingsmechanisme is onbekend, de Nederlandse registratie is doorgehaald en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.
+- De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5), zonder klinische studies of literatuur. Het werkingsmechanisme is onbekend en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.
 
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter ophalen en analyseren (blokkerend voor de veiligheidsscreening).
 - Gegevens over het werkingsmechanisme aanvullen via DrugBank.
 - Systematisch zoeken naar preklinische of klinische gegevens over povidon bij ichthyose of andere verhoorningsstoornissen.
 - Beoordelen of een geschikte toedieningsroute (bijvoorbeeld topisch op de huid) en formulering beschikbaar zijn, aangezien de oorspronkelijke toepassing oogdruppels betreft.
-- Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

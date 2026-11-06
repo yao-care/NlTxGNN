@@ -86,8 +86,6 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie (status: geldig) | Oplossing voor infusie (afgeleid uit de productnaam) | Niet beschikbaar in de gecompileerde gegevens |
 
-Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen

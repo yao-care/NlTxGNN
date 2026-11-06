@@ -80,7 +80,7 @@ Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de 
 | RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Geldig |
 | RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Geldig |
 
-Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.
+Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen.
 
 ## Veiligheidsoverwegingen
 

@@ -120,7 +120,6 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 
 **Onderbouwing:**
 - Er is geen direct klinisch bewijs voor pregabaline bij tendinitis. De hoge TxGNN-score (0,9971) wordt alleen ondersteund door een indirect mechanisme via pijnmodulatie. De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.
-- Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald".
 
 **Om verder te gaan is het volgende nodig:**
 - Gerandomiseerde studies naar pregabaline bij (chronische) tendinopathie, met pijn en functie als uitkomstmaten

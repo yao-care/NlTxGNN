@@ -78,7 +78,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Beide onderstaande vergunningen zijn ingetrokken. Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.
+Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|

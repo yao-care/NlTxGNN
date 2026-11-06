@@ -97,8 +97,6 @@ De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Gee
 |---------|------|------|-----------|
 | RVG 109139 | Zolmitriptan Glenmark 5 mg orodispergeerbare tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-De enige bekende vergunning is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -129,7 +127,6 @@ Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samen
 - Gegevens over het werkingsmechanisme uit DrugBank aanvullen.
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen (blokkerende gegevenslacune voor de veiligheidsscreening).
 - Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico.
-- Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

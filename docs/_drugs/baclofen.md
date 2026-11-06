@@ -134,7 +134,7 @@ Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs
 
 **Onderbouwing:**
 - De voorspelling voor ADHD is alleen gebaseerd op het model (L5). Er zijn geen klinische studies en geen publicaties over baclofen bij ADHD.
-- De enige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de officiële bronnen ontbreken. Een veiligheidsscreening is daarom nog niet mogelijk.
+- De veiligheidsgegevens uit de officiële bronnen ontbreken. Een veiligheidsscreening is daarom nog niet mogelijk.
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC van CBG-MEB.

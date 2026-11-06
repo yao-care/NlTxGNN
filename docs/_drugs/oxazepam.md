@@ -121,7 +121,7 @@ Voor waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn 
 
 **Onderbouwing:**
 - Het bewijs is beperkt tot een kleine, oude vergelijkende studie (14 patiënten) en enkele indirecte publicaties. Er zijn geen geregistreerde klinische studies en geen fase 3-onderzoek (L3).
-- De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken. Dat blokkeert de veiligheidsscreening.
+- De veiligheidsgegevens uit de bijsluiter ontbreken. Dat blokkeert de veiligheidsscreening.
 - Slapeloosheid is bovendien al een bekend toepassingsgebied van benzodiazepinen, waarbij afhankelijkheid en onttrekking belangrijke bezwaren zijn.
 
 **Om verder te gaan is nodig:**

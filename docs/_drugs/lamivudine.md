@@ -110,7 +110,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv. De enige Nederlandse registratie is doorgehaald.
+- Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv.
 
 **Om verder te gaan is nodig:**
 - De SmPC-waarschuwingen en -contra-indicaties van het CBG-MEB (blokkerende datalacune voor de veiligheidsscreening)

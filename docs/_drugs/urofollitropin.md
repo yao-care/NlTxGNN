@@ -84,7 +84,6 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 111552 | FOSTIMON SET 300 IE poeder en oplosmiddel voor oplossing voor injectie in voorgevulde spuit (status: geldig) | Niet vermeld | Niet vermeld |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -100,7 +99,7 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadple
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Er is uitsluitend een modelvoorspelling (L5) zonder klinische studies, zonder literatuur en zonder aannemelijk mechanisme. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de CBG-MEB-bijsluiter, waardoor veiligheidsscreening nog niet mogelijk is.
+Er is uitsluitend een modelvoorspelling (L5) zonder klinische studies, zonder literatuur en zonder aannemelijk mechanisme.
 
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (SmPC) ophalen en verwerken

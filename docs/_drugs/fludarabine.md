@@ -123,12 +123,12 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 **Beslissing: Proceed with Guardrails**
 
 **Onderbouwing:**
-- Er zijn meerdere afgeronde fase 2-studies en fludarabine is een gevestigd onderdeel van conditionerings- en lymfodepletieschema's bij myeloom. Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- Er zijn meerdere afgeronde fase 2-studies en fludarabine is een gevestigd onderdeel van conditionerings- en lymfodepletieschema's bij myeloom. Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel.
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de CBG-MEB-SmPC; dit ontbreekt nu en blokkeert de veiligheidsscreening.
 - Gegevens over het werkingsmechanisme uit DrugBank.
-- Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland, aangezien de enige vergunning in de gegevens is doorgehaald.
+- Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland.
 - Een duidelijke afbakening van de beoogde rol (conditionering/lymfodepletie versus zelfstandige behandeling) en bewijs dat die rol effect heeft.
 - Een veiligheidsmonitoringplan (myelosuppressie, nierfunctie, infecties) voor de beoogde patiëntengroep.
 

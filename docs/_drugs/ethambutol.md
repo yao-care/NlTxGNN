@@ -103,13 +103,11 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenva
 
 **Onderbouwing:**
 - Het bewijs bestaat uit één retrospectieve patiëntenreeks over larynxtuberculose; dit is gebruik van ethambutol bij tuberculose op een andere anatomische plaats, geen echte herpositionering. Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt.
-- Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscreening niet kan worden afgerond.
 
 **Om verder te gaan is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en de waarschuwingen en contra-indicaties analyseren.
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
 - Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft.
-- Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning.
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

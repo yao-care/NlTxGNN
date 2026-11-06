@@ -126,7 +126,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Een beoordeling van de plaats ten opzichte van JAK-remmers en andere huidige opties
 - Een plan voor veiligheidsmonitoring bij pulstherapie, vooral bij kinderen
-- Verduidelijking van de registratiestatus, omdat de enige Nederlandse vergunning is doorgehaald
+- Verduidelijking van de registratiestatus
 
 ---
 

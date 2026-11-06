@@ -101,7 +101,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op een modelscore (bewijsniveau L5). Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend. Bovendien is de enige Nederlandse vergunning ingetrokken.
+- De voorspelling berust alleen op een modelscore (bewijsniveau L5). Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend.
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank) om een mechanistische link met hemoglobinopathie te beoordelen.

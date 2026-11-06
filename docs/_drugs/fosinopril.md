@@ -129,14 +129,13 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het TxGNN-model (bewijsniveau L5), zonder klinische studies of ondersteunende literatuur. De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie, en beide Nederlandse vergunningen zijn doorgehaald.
+- De voorspelling berust uitsluitend op het TxGNN-model (bewijsniveau L5), zonder klinische studies of ondersteunende literatuur. De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie.
 - De voorspelde indicatie maligne renovasculaire hypertensie vraagt extra veiligheidsbeoordeling vanwege het risico op nierfunctieverlies. Bij pulmonale hypertensie is er een mogelijk longveiligheidssignaal.
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB, als voorwaarde voor een veiligheidsscreening
 - Gericht literatuuronderzoek en trialregistratie voor maligne hypertensieve nierziekte
-- Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen
 - Een afzonderlijke veiligheidsevaluatie voor renovasculaire hypertensie en pulmonale hypertensie
 ## Disclaimer
 

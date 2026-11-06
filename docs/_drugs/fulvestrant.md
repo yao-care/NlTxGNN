@@ -100,7 +100,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens.
+- Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies.
 
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke indicatie

@@ -529,7 +529,7 @@
       "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Voorspelde indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/calcipotriol/"
     },
@@ -819,7 +819,7 @@
       "evidence_level": "L5",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Voorspelde indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/colchicine/"
     },
@@ -1789,7 +1789,7 @@
       "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
-      "predicted_indication": "Acute urinezuurnefropathie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lactulose/"
     },
@@ -2079,7 +2079,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Congenitale hypotrichose met juveniele maculadystrofie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mesalazine/"
     },
@@ -2309,7 +2309,7 @@
       "evidence_level": "L3",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Voorspelde indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nitroglycerin/"
     },
@@ -2869,7 +2869,7 @@
       "evidence_level": "L5",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Voorspelde indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/simvastatin/"
     },
@@ -3109,7 +3109,7 @@
       "evidence_level": "L5",
       "indication_count": 1,
       "original_indication": "",
-      "predicted_indication": "Indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/topiramate/"
     },
@@ -3159,7 +3159,7 @@
       "evidence_level": "L3",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Voorspelde indicatie",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/trazodone/"
     },
@@ -3269,7 +3269,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Obsolete bundle branch block (verouderde term)",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/verapamil/"
     },

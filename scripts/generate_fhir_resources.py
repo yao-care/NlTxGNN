@@ -15,8 +15,6 @@ import pandas as pd
 # Netherlands-specific configuration
 BASE_URL = "https://nltxgnn.yao.care"
 JURISDICTION = "NL"
-PUBLISHER = "yao.care"
-VERSION = "0.1.0"
 
 # KG-only mode limits ClinicalUseDefinition resources
 KG_ONLY_MODE = True
@@ -290,18 +288,31 @@ def main():
     # Generate CapabilityStatement
     print()
     print("Generating CapabilityStatement...")
+    # /fhir/metadata（無副檔名）是 GitHub Pages 實際對外提供的 CapabilityStatement；metadata.json 是舊連結，
+    # 寫同一份內容（2026-11-06：兩份曾不一致，metadata.json 的 id／version／publisher 不同，還宣稱靜態站做不到的 search-type）。
+    # 靜態站只支援 read。
     capability = {
         "resourceType": "CapabilityStatement",
-        "id": "nltxgnn-server",
+        "id": "nltxgnn-fhir-server",
         "url": f"{BASE_URL}/fhir/metadata",
-        "version": VERSION,
-        "name": "NlTxGNNServer",
+        "version": "1.0.0",
+        "name": "NlTxGNNFHIRServer",
         "title": "NlTxGNN FHIR Server",
         "status": "active",
         "experimental": True,
         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-        "publisher": PUBLISHER,
-        "description": "FHIR R4 server for Netherlands drug repurposing predictions using TxGNN",
+        "publisher": "NlTxGNN",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "url",
+                        "value": BASE_URL
+                    }
+                ]
+            }
+        ],
+        "description": "NlTxGNN drug repurposing prediction data exposed as FHIR resources. Contains drug repurposing predictions.",
         "jurisdiction": [
             {
                 "coding": [
@@ -314,11 +325,20 @@ def main():
             }
         ],
         "kind": "instance",
+        "software": {
+            "name": "NlTxGNN Static FHIR API",
+            "version": "1.0.0"
+        },
+        "implementation": {
+            "description": "Static FHIR resources served from GitHub Pages",
+            "url": f"{BASE_URL}/fhir"
+        },
         "fhirVersion": "4.0.1",
-        "format": ["json"],
+        "format": ["application/fhir+json"],
         "rest": [
             {
                 "mode": "server",
+                "documentation": "Static FHIR API - read-only access to drug repurposing predictions",
                 "resource": [
                     {
                         "type": "MedicationKnowledge",
@@ -339,8 +359,10 @@ def main():
         ]
     }
 
-    with open(fhir_dir / "metadata.json", 'w', encoding='utf-8') as f:
-        json.dump(capability, f, indent=2, ensure_ascii=False)
+    _cap_text = json.dumps(capability, indent=2, ensure_ascii=False)
+    for _name in ("metadata", "metadata.json"):
+        with open(fhir_dir / _name, 'w', encoding='utf-8') as f:
+            f.write(_cap_text)
 
     print()
     print("=" * 60)

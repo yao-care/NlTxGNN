@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-05T23:14:04.021752+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-06T04:57:13.110548+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "2882f7e72b73",
+      "title": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar - NOS",
+      "published": "2026-11-05T22:57:49+00:00",
+      "summary": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar&nbsp;&nbsp;NOSMazelen eisen in VS eerste kinderleven in 30 jaar. Moeten we ons zorgen maken? Arts waarschuwt: “Ook dertigers en veertigers lopen risico”&nbsp;&nbsp;HLNLive - Kind in Amerikaanse staat New York overleden na mazelenbesmetting&nbsp;&nbsp;De MorgenVoor het eerst in 30 jaar is in New York een kind gestorven aan de mazelen: moeten wij ons ook zorgen maken?&nbsp;&nbsp;NieuwsbladWisconsin meldt overlijden van bab",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpDS0JfUmdMbnBibWFyV3FjejB2Skh6dW9kZHQ4OUg0TUJPYU1vdG1MLVZMcmsxaHNYeWUxQ3R0X0RSVzkwY2pId0xQMTZfaUZmdV9IYmxQaHlVY3YwcDlOWVdOTVJZYVlramlBZmlobDYyb24yRGI2OW5pNE9lRzd3V21kNGxqWnhlLUswZFJPUlk5VnRiWHRZRlRVQ3RGdHZERkg1ZUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "cea20f795411",
       "title": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo - NU",
       "published": "2026-11-04T22:26:46+00:00",
-      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nlDe WHO dringt aan op proeven met een nieuw vaccin tegen de Bundibugyo-variant van ebola.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladITG en UAntwerpen betrokken bij WHO-onderzoek naar ebola-vaccins&nbsp;&nbsp;ArtsenkrantWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
           "name": "NU",
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "c2964ba76619",
-      "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
-      "published": "2026-11-04T16:34:17+00:00",
-      "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
-      "sources": [
-        {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "47fa82f948ee",
       "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
       "published": "2026-11-03T18:45:00+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2964ba76619",
+      "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
+      "published": "2026-11-04T16:34:17+00:00",
+      "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
+      "sources": [
+        {
+          "name": "NPO Radio 1",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
         }
       ]
     },

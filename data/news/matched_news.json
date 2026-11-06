@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-11-05T23:14:04.100880+00:00",
-  "total_count": 8,
+  "last_updated": "2026-11-06T04:57:13.181417+00:00",
+  "total_count": 9,
   "matched_count": 3,
   "news": [
+    {
+      "id": "2882f7e72b73",
+      "title": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar",
+      "published": "2026-11-05T22:57:49+00:00",
+      "summary": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar&nbsp;&nbsp;NOSMazelen eisen in VS eerste kinderleven in 30 jaar. Moeten we ons zorgen maken? Arts waarschuwt: “Ook dertigers en veertigers lopen risico”&nbsp;&nbsp;HLNLive - Kind in Amerikaanse staat New York overleden na mazelenbesmetting&nbsp;&nbsp;De MorgenVoor het eerst in 30 jaar is in New York een kind gestorven aan de mazelen: moeten wij ons ook zorgen maken?&nbsp;&nbsp;NieuwsbladWisconsin meldt overlijden van bab",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpDS0JfUmdMbnBibWFyV3FjejB2Skh6dW9kZHQ4OUg0TUJPYU1vdG1MLVZMcmsxaHNYeWUxQ3R0X0RSVzkwY2pId0xQMTZfaUZmdV9IYmxQaHlVY3YwcDlOWVdOTVJZYVlramlBZmlobDYyb24yRGI2OW5pNE9lRzd3V21kNGxqWnhlLUswZFJPUlk5VnRiWHRZRlRVQ3RGdHZERkg1ZUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "cea20f795411",
       "title": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo",
       "published": "2026-11-04T22:26:46+00:00",
-      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nlDe WHO dringt aan op proeven met een nieuw vaccin tegen de Bundibugyo-variant van ebola.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladITG en UAntwerpen betrokken bij WHO-onderzoek naar ebola-vaccins&nbsp;&nbsp;ArtsenkrantWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
           "name": "NU",

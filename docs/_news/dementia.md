@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over dementie (dementia)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over dementie (dementia). 2 berichten, 1 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over dementie (dementia). 1 berichten, 1 gerelateerde geneesmiddelen."
 permalink: /news/dementia/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Nieuws over dementie (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over dementie (dementia)?">
-<strong>dementie (dementia)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 gerelateerde geneesmiddelen.
+<strong>dementie (dementia)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “dementie” en toont d
 </ul>
 </div>
 
-## Gerelateerd nieuws (2)
-
-### [Nieuw onderzoek: Veelvoorkomende gewoonte kan in verband worden gebracht met dementie – dit zijn de vroege waarschuwingssignalen die je moet kennen](https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkdEMDYtdDduWHJndDNJc0JJT3ltWDZzTllLYjFkZnB4WFFrNElqS3p1RHV3Ml95R0NsaHZzc0FwazV5Z1BjREluQVgyUDFYdmk1bGVFMHBoakc0c0EyeHlyUkNTXzRlZjZobmQ0cjA0M295NWFzWmdCelJJOXNBb19lSWhKenlZT0h0cHVBYVFHcVZRVDZEcEFPanlTVUZ6TG13WWJoVkRTTVM4XzR3S1lvOXRHejZPV3U1V2VmTzl4RHNrTGFNdWNHV3gxVFU5RFpPQmhWTzJ1NUxkMEFJV09qeGZmS1g3OGk4X0xYckRDNU5MaDloSWl2MWpSZndsYWhr?oc=5)
-
-2026-11-04
-
-Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkdEMDYtdDduWHJndDNJc0JJT3ltWDZzTllLYjFkZnB4WFFrNElqS3p1RHV3Ml95R0NsaHZzc0FwazV5Z1BjREluQVgyUDFYdmk1bGVFMHBoakc0c0EyeHlyUkNTXzRlZjZobmQ0cjA0M295NWFzWmdCelJJOXNBb19lSWhKenlZT0h0cHVBYVFHcVZRVDZEcEFPanlTVUZ6TG13WWJoVkRTTVM4XzR3S1lvOXRHejZPV3U1V2VmTzl4RHNrTGFNdWNHV3gxVFU5RFpPQmhWTzJ1NUxkMEFJV09qeGZmS1g3OGk4X0xYckRDNU5MaDloSWl2MWpSZndsYWhr?oc=5)
-
----
+## Gerelateerd nieuws (1)
 
 ### [Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5)
 

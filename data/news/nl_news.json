@@ -1,29 +1,65 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-06T04:57:13.110548+00:00",
-  "count": 9,
+  "fetched_at": "2026-11-06T13:41:36.832652+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "2882f7e72b73",
-      "title": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar - NOS",
-      "published": "2026-11-05T22:57:49+00:00",
-      "summary": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar&nbsp;&nbsp;NOSMazelen eisen in VS eerste kinderleven in 30 jaar. Moeten we ons zorgen maken? Arts waarschuwt: “Ook dertigers en veertigers lopen risico”&nbsp;&nbsp;HLNLive - Kind in Amerikaanse staat New York overleden na mazelenbesmetting&nbsp;&nbsp;De MorgenVoor het eerst in 30 jaar is in New York een kind gestorven aan de mazelen: moeten wij ons ook zorgen maken?&nbsp;&nbsp;NieuwsbladWisconsin meldt overlijden van bab",
+      "id": "b10437884003",
+      "title": "Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’ - Rijnmond",
+      "published": "2026-11-06T07:39:56+00:00",
+      "summary": "Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’&nbsp;&nbsp;RijnmondOuderen blijken ook kwetsbaar voor RS-virus, artsen pleiten voor vaccinaties&nbsp;&nbsp;NOSRS-virus: longartsen pleiten voor vaccinatie ouderen&nbsp;&nbsp;TPO.NLGSK-onderzoek: 79% van de volwassenen met chronische ziekten ondervindt verstoring van hun dagelijks leven wanneer ze besmet raken met luchtwegvirussen, waaronder RSV.&nbsp;&nbsp;Vietnam.vnEen RSV-infectie kan chronische zie",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpDS0JfUmdMbnBibWFyV3FjejB2Skh6dW9kZHQ4OUg0TUJPYU1vdG1MLVZMcmsxaHNYeWUxQ3R0X0RSVzkwY2pId0xQMTZfaUZmdV9IYmxQaHlVY3YwcDlOWVdOTVJZYVlramlBZmlobDYyb24yRGI2OW5pNE9lRzd3V21kNGxqWnhlLUswZFJPUlk5VnRiWHRZRlRVQ3RGdHZERkg1ZUQ?oc=5"
+          "name": "Rijnmond",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalBjdjB0Nkw1RTNDc0Q0a2dDenlqdTlMazI3YndIcWNGSXAwSjE1bkNtVEc5Y2FZNmxtbFNaM3ItNXhZUU8ySTNGbE9DNTR6RjcwODlUUFN6WE9Fb1h4TlBjN2R2d09CVVFPOHY4Wk5qSGJWcFlROFo0dVF4QVh4WGRRZDZIeXJNcDdUZTVxTUxOVDA0aXh2bDlGR3VYRkxMekhWZ19JV0NJa1gtMXprWmVlNk1WR0pTMldMVnBzOUJaVDlsd3d0c2wzZw?oc=5"
         }
       ]
     },
     {
-      "id": "cea20f795411",
-      "title": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo - NU",
-      "published": "2026-11-04T22:26:46+00:00",
-      "summary": "WHO staat gebruik van twee nieuwe ebolavaccins toe in zwaar getroffen Congo&nbsp;&nbsp;NUWereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe&nbsp;&nbsp;NOSWHO geeft toestemming voor proef met nieuwe ebolavaccins&nbsp;&nbsp;Haarlems DagbladITG en UAntwerpen betrokken bij WHO-onderzoek naar ebola-vaccins&nbsp;&nbsp;ArtsenkrantWHO keurt test goed met ebolavaccins tegen zeer gevaarlijke variant&nbsp;&nbsp;RTL.nl",
+      "id": "67e0e9afcc20",
+      "title": "Bijna helft Groningers te zwaar, huisartsen pakken ook stress en schulden aan - RTV Noord",
+      "published": "2026-11-06T06:16:33+00:00",
+      "summary": "Bijna helft Groningers te zwaar, huisartsen pakken ook stress en schulden aan&nbsp;&nbsp;RTV Noord",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1Rmb24zdlo2UVd3TERKaWYtTC1yZnpESVJkR3R4TnI1b2dRZDhCNmNuaENCbkxwcHNUbkxNeDFPdEkyUm9tSnl2aWhrOUtqWUZmdFZ0MTVidHZKT0lQeEpOb2FjYmFPYnJUWmFvNzZhUUZmRzRlcnZtQTVJeVhwLUNEdldpZmF2a2pkajRaNkhqN2NncThkSF91RE4xcXprazJiZHVpNkliRmg3LWgyM0RlTDgwNC1W?oc=5"
+          "name": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjUxMjRwZ2h5bUJ6ZExnRURVbUZValhHSDFuSUhJQ2dXOXROZEEtb04tWHBKd3BVOU0wMHppY1ltNXQzcnEyMU9Hd1BtaTc4dE1ZaWt2SW1UaDA4V3NCaC1LSUtPSVluUDlHQzZwVGNkazY0Sm5kOWd3dGFBNG9mMXV3ZHpPRGptbjBnMmpVUm9uM1FEUUduLWpkd3g0RmVrUFZoNF9ZU3pTNkY0OWNONmNiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f4f07a40b4b",
+      "title": "Een gebroken heup, maar geen operatie: Amphia ontwikkelt bijzondere pijnbehandeling - BN DeStem",
+      "published": "2026-11-05T19:33:00+00:00",
+      "summary": "Een gebroken heup, maar geen operatie: Amphia ontwikkelt bijzondere pijnbehandeling&nbsp;&nbsp;BN DeStem",
+      "sources": [
+        {
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkgtV05rYktaMFpOQkdrNXQ4RGYwOXp3aUFvMEdreG1lS1E4cHFjT2JPaGhKZTBQeVFpUHd3b3hCb0RtNy1ubnFRNU54UTlTS19XMkp0aHB5SXVCdHUweDZrVGtaMnVWa2xDRVhDQmxrajFIMVdYQUM4M0lSeUVjWmowUjRmbUJVdExueE4zTEZvVUcyTmFVTFplQmszNVBJQ053Q0VkMVIzdHJPVXlnN0F5M3ZvRWwzR2IyenhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f119e740a6e",
+      "title": "De griepprik is later dan in andere jaren. Hoe komt dat en is dat erg? - de Volkskrant",
+      "published": "2026-11-05T19:59:06+00:00",
+      "summary": "De griepprik is later dan in andere jaren. Hoe komt dat en is dat erg?&nbsp;&nbsp;de VolkskrantGriepprik waarschijnlijk minder effectief dan gewenst&nbsp;&nbsp;DVHNHoe onafhankelijk is tv-dokter en griepprikpromotor Ted van Essen?&nbsp;&nbsp;Indepen.eu",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFpaRURGN2N6Z3pTX3FKa0paRHE0UVNQU1pxbUo0S2Z0cDlRZHF5MWVaNC1MTE9HbXJJa1VNSGRiam1yZlI2elRzc3ZCaE1NRDVaLTlMUzJBOWVpUlZyX0otS1Q3QlF2OEVhTVlUWVN3ZXdLbUtJTkJFU2Nabkd0TlRteHhuOUVCNlhvenFGS1pyZlJmZHEyb01Ua09uU3ZQVnpyTjlLcGJyUmhHa1h0X25MNldWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2882f7e72b73",
+      "title": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar - NOS",
+      "published": "2026-11-05T22:57:49+00:00",
+      "summary": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar&nbsp;&nbsp;NOSMazelen eisen in VS eerste kinderleven in 30 jaar. Moeten we ons zorgen maken? Arts waarschuwt: “Ook dertigers en veertigers lopen risico”&nbsp;&nbsp;HLNLive - Kind in Amerikaanse staat New York overleden na mazelenbesmetting&nbsp;&nbsp;De MorgenLIVE VS. Opnieuw kind gestorven aan mazelen in Verenigde Staten, al derde geval deze week&nbsp;&nbsp;HBVLWisconsin meldt overlijden van baby in verband met mazelenu",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpDS0JfUmdMbnBibWFyV3FjejB2Skh6dW9kZHQ4OUg0TUJPYU1vdG1MLVZMcmsxaHNYeWUxQ3R0X0RSVzkwY2pId0xQMTZfaUZmdV9IYmxQaHlVY3YwcDlOWVdOTVJZYVlramlBZmlobDYyb24yRGI2OW5pNE9lRzd3V21kNGxqWnhlLUswZFJPUlk5VnRiWHRZRlRVQ3RGdHZERkg1ZUQ?oc=5"
         }
       ]
     },
@@ -52,18 +88,6 @@
       ]
     },
     {
-      "id": "9e6b86b89be7",
-      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - Brabants Dagblad",
-      "published": "2026-11-01T07:59:16+00:00",
-      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;Brabants DagbladMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmpiX0ZNWjFpMTdBdlM4dEJDa1ZibnVwRkNyb2pVYTg1dTVjUU1SMGNLdGp3ZHQ2UjV1UXAwWVFLZWJPN3pfbG80NXRCcVdJdXJwMWNEWVlpMUZSaTZBdVZ2TFk2QlZHSzZJUTNFSFBPTzg5RGlqMGViTUxzZkxKVXgwQm1yamgzelZCUjJxVjVPWk5xWG5aQWZXZEFtS0ZNQmRMYU5QTGt6ODYwMGUxTWc2X3phZ2xqSnFsQkJSZWd3YVRvNDN5Wlh0dUNTcFJwVXR4NmJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "47fa82f948ee",
       "title": "Dokter Emma Bruns stopte als traumachirurg en bepleit wat in de zorg anders kan: ’Er werken te veel mensen aan de zorg, niet in de zorg’ - Noordhollands Dagblad",
       "published": "2026-11-03T18:45:00+00:00",
@@ -72,6 +96,18 @@
         {
           "name": "Noordhollands Dagblad",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQczlOSm1ldGFHaXUwcGIzQU9CaWlFbWM1cHo0c282Y0JFWW1SSnFSMnhpeU9UWlpTTlFPR0dHNEY0UmpiZ0pOYXpRVUhKSVp6dHBQcmVsal9PdVZzeGJRRUNxRmgxVHBMel9sNEtVaF9kVHkxbk5JWnlqc2RuaGpOTHhpTGFPZURmOHlPMXB3cmhXcktjWGdKZ21UNFdDR0N2b0FjUUVKWW1iMzZPWlpWeU5aYjNMZmwwa2RjT3VRNTFIVVNEY3hQQUdVdlV5U1hPY1QtWE5UYVlCWU1GMEdvcFJwc3ROT3RDLS1HVHdRNkxsdk9HMTBscnk4X2dUWWxEeHh5S0ZZOEk3ZENYQk1MNnEwVTBHSEJqRGw5NUJpZmVnb3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aabbb80a228d",
+      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - De Gelderlander",
+      "published": "2026-10-31T17:33:00+00:00",
+      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUl1NXZQVldZS3hKald2c3VCOFBVc2pKVTJmMWRDdWxJUDdYVmZ5VnF2cF8zY0t4NUtnQ0JJck5YMEZJdWpUWDd0YUVxczRFOVJqTGZkalpLNFNPWl9BbzYtSEl5eXFQYlczWEtGNE5GUVFmaFFVS0xIcG1qV1hBQW9TUkdDcmVhek9MeWFtS3lac1VIX1FZNGhQNVA3MFhnUjdSelZKdFBPMGc1SGxvbVJIZFh6Q29YTnhuVVhzbXpUVDlhaGowT0pXX3psMTlwMV9ma3dZUUV6NGdramc?oc=5"
         }
       ]
     },
@@ -88,14 +124,14 @@
       ]
     },
     {
-      "id": "efc828d8d26a",
-      "title": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde” - Nieuwsblad",
-      "published": "2026-10-31T03:00:00+00:00",
-      "summary": "De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”&nbsp;&nbsp;NieuwsbladGezien: gigantische prostaat vraagt aandacht voor meest voorkomende kanker bij mannen&nbsp;&nbsp;BRUZZElke dag krijgen 34 mannen diagnose van prostaatkanker: “Vroegtijdig opsporen via PSA-screening kan levens redden”&nbsp;&nbsp;GVA",
+      "id": "3db813b97271",
+      "title": "Coby had vulvakanker en verloor haar clitoris: ‘Ik was verlost van de kanker’ - Vriendin.nl",
+      "published": "2026-11-05T13:58:49+00:00",
+      "summary": "Coby had vulvakanker en verloor haar clitoris: ‘Ik was verlost van de kanker’&nbsp;&nbsp;Vriendin.nl",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5"
+          "name": "Vriendin.nl",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZENXOHlMZS1iMnkzR21DQ0phVnREckFRajJsYl9iMnRRaVpzUWZ4RWJJNldNUHN0YVl6TnIwenpneGg4NkpsWFRFVnhvMjc3a2U0dks0VmZBby1iMzdleWpNNGwxcmQ3UXVmZHUwOGM?oc=5"
         }
       ]
     },
@@ -108,6 +144,18 @@
         {
           "name": "wibnet.nl",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkdEMDYtdDduWHJndDNJc0JJT3ltWDZzTllLYjFkZnB4WFFrNElqS3p1RHV3Ml95R0NsaHZzc0FwazV5Z1BjREluQVgyUDFYdmk1bGVFMHBoakc0c0EyeHlyUkNTXzRlZjZobmQ0cjA0M295NWFzWmdCelJJOXNBb19lSWhKenlZT0h0cHVBYVFHcVZRVDZEcEFPanlTVUZ6TG13WWJoVkRTTVM4XzR3S1lvOXRHejZPV3U1V2VmTzl4RHNrTGFNdWNHV3gxVFU5RFpPQmhWTzJ1NUxkMEFJV09qeGZmS1g3OGk4X0xYckRDNU5MaDloSWl2MWpSZndsYWhr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8dde510ea4e",
+      "title": "Je zal niet trager herstellen als je paracetamol neemt bij koorts - gezondheidenwetenschap.be",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "Je zal niet trager herstellen als je paracetamol neemt bij koorts&nbsp;&nbsp;gezondheidenwetenschap.be",
+      "sources": [
+        {
+          "name": "gezondheidenwetenschap.be",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjdRX0tEYTJSMmxieXUzWExFSW80bFdnbkUzM3VmYjU2MjNHN2VLWlJrNENHa3lTMHVZbFBVeEtJWVRzSzNUVkUxVHYtb0k0TmJIXzNrOG5xRGx0c0tILXlLbXJYSVFrRXNrR21CUXdoTlFLdG9LTDFjeDRxVE4zRWY1RWpqVnVQTjNqazdIUi04RVl2VVZKS1ZTaEtkVXdRTnVaZGU4WFQtSkJueWhIcmpndDF5ZWRfanZnZFU1RWs5cTZy?oc=5"
         }
       ]
     }

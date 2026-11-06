@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Paclitaxel. 2 voorspelde indicaties."
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Nieuws over Paclitaxel
@@ -36,11 +36,11 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 
 ## Gerelateerd nieuws (1)
 
-### [De kankers waar mannen uit schaamte te lang mee rondlopen: “Het begint met een klein vlekje en gaat dan verder naar een grotere wonde”](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
+### [Coby had vulvakanker en verloor haar clitoris: ‘Ik was verlost van de kanker’](https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZENXOHlMZS1iMnkzR21DQ0phVnREckFRajJsYl9iMnRRaVpzUWZ4RWJJNldNUHN0YVl6TnIwenpneGg4NkpsWFRFVnhvMjc3a2U0dks0VmZBby1iMzdleWpNNGwxcmQ3UXVmZHUwOGM?oc=5)
 
-2026-10-31 <span class="news-indication-tag">kanker</span>
+2026-11-05 <span class="news-indication-tag">kanker</span>
 
-Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMikAJBVV95cUxPYUluQ0tlN1FJNWpNaG5PYV9CR3YwX3dwejlGZDc1U09DakFTZXREV2hIT1o1TzAtbENmZzhWQk9FYl9KT3Y1RVJ4emdFWjB2OGZhbGRWNTcyaTQtak9TZDQyU3Y1dXFHNFFmajBIY0hUT3BoVnRna3FiM1VXU0U2am0xLV9XWThaRmJ6Z0JaM3hiWTA4VGtLVkZKclRsa0J2TS14eU9MbDNZaVZ6ZEhacUdqNlFSbmNXT0dMOXotNG5qN24yMzJHV2w3YjhwYTV6a1VvWjdyZG5IMWJxNnI3VlNyU29Ed3ItcXp3VmItNjZITmFlTDFRb2ticlVnZUM2cHE4bElvNlUtTDVqTEUtSQ?oc=5)
+Bron: [Vriendin.nl](https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZENXOHlMZS1iMnkzR21DQ0phVnREckFRajJsYl9iMnRRaVpzUWZ4RWJJNldNUHN0YVl6TnIwenpneGg4NkpsWFRFVnhvMjc3a2U0dks0VmZBby1iMzdleWpNNGwxcmQ3UXVmZHUwOGM?oc=5)
 
 ---
 

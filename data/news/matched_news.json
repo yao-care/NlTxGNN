@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-11-07T04:29:50.873338+00:00",
-  "total_count": 9,
-  "matched_count": 2,
+  "last_updated": "2026-11-07T12:23:19.598111+00:00",
+  "total_count": 8,
+  "matched_count": 1,
   "news": [
-    {
-      "id": "8560ec19f9bb",
-      "title": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek",
-      "published": "2026-11-06T18:29:22+00:00",
-      "summary": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek&nbsp;&nbsp;RijnmondMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG4wTjdZcHBVWXpUMDlYV2hHT3VONFh4eWNqaTQxX25vVjgwWVNoRnV4RmtHQ0lGT1hROTZSd0p4ZnQxSm51RlVmSHBOcEdOaWJUQVptdG5ZbGg5dVVrRnBWNG5RS1Q0VkxPX0NLR29mZjV3UEFweGV5Mkt6X0R0bldNdzl6NU5jVVNYSzhCQmY1OTI4TmNIWS1pZ1pXYmVCRHJCeG9fNEF0UURKdUw5RzZJWlc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "b10437884003",
       "title": "Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’",
@@ -58,7 +45,7 @@
     {
       "id": "cbfc93310abf",
       "title": "Luca (24) injecteert negen illegale middelen voor bruine huid en strak lijf: ’Totaal onverantwoord dit’ - De Telegraaf",
-      "published": "2026-11-05T19:05:00+00:00",
+      "published": "2026-11-05T11:05:00+00:00",
       "summary": "Luca (24) injecteert negen illegale middelen voor bruine huid en strak lijf: ’Totaal onverantwoord dit’&nbsp;&nbsp;De TelegraafNa Ozempic zijn ook spuitjes voor voller haar, meer spieren en betere huid een hype: ‘Op een bepaald moment loopt het zwaar mis’&nbsp;&nbsp;De TijdSpuiten voor een kleurtje: waarom vooral jonge mannen hun gezondheid op het spel zetten&nbsp;&nbsp;Welingelichte Kringen",
       "sources": [
         {
@@ -67,157 +54,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3db813b97271",
-      "title": "Coby had vulvakanker en verloor haar clitoris: ‘Ik was verlost van de kanker’",
-      "published": "2026-11-05T13:58:49+00:00",
-      "summary": "Coby had vulvakanker en verloor haar clitoris: ‘Ik was verlost van de kanker’&nbsp;&nbsp;Vriendin.nl",
-      "sources": [
-        {
-          "name": "Vriendin.nl",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZENXOHlMZS1iMnkzR21DQ0phVnREckFRajJsYl9iMnRRaVpzUWZ4RWJJNldNUHN0YVl6TnIwenpneGg4NkpsWFRFVnhvMjc3a2U0dks0VmZBby1iMzdleWpNNGwxcmQ3UXVmZHUwOGM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "c2964ba76619",
@@ -259,14 +95,27 @@
       "matched_keywords": []
     },
     {
-      "id": "aabbb80a228d",
-      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - De Gelderlander",
-      "published": "2026-10-31T17:33:00+00:00",
-      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "d0d49bdf55ba",
+      "title": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde",
+      "published": "2026-11-03T19:30:00+00:00",
+      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUl1NXZQVldZS3hKald2c3VCOFBVc2pKVTJmMWRDdWxJUDdYVmZ5VnF2cF8zY0t4NUtnQ0JJck5YMEZJdWpUWDd0YUVxczRFOVJqTGZkalpLNFNPWl9BbzYtSEl5eXFQYlczWEtGNE5GUVFmaFFVS0xIcG1qV1hBQW9TUkdDcmVhek9MeWFtS3lac1VIX1FZNGhQNVA3MFhnUjdSelZKdFBPMGc1SGxvbVJIZFh6Q29YTnhuVVhzbXpUVDlhaGowT0pXX3psMTlwMV9ma3dZUUV6NGdramc?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVBLXVScmFoV0xDbG9hTG0xUllBZUczZVdPV0xqTGh4UU5SZWVfREowVUVNaWVxM3YwdE03eHNwcFFibXFaQUNGR1lOUlFSYWItc2FvX25EejFLVlExMUZRUjlDVzhxUlFlcXZCbXVKSmtfLTRVMk5RV0d4RlRKQmRuenJSUkV4a0YwNkdxejFsVk5aM3I4bU56RjJqRkZrYkd2bHNycVpXSDlGU0huRlNrZFY2ZUFEV3B5WUVCNTI3b2NPQmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9e6b86b89be7",
+      "title": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit) - Brabants Dagblad",
+      "published": "2026-11-01T07:59:16+00:00",
+      "summary": "Waarom zou je nog een coronaprik nemen? Dit is wat bekend is over de bijwerkingen (en de effectiviteit)&nbsp;&nbsp;Brabants DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmpiX0ZNWjFpMTdBdlM4dEJDa1ZibnVwRkNyb2pVYTg1dTVjUU1SMGNLdGp3ZHQ2UjV1UXAwWVFLZWJPN3pfbG80NXRCcVdJdXJwMWNEWVlpMUZSaTZBdVZ2TFk2QlZHSzZJUTNFSFBPTzg5RGlqMGViTUxzZkxKVXgwQm1yamgzelZCUjJxVjVPWk5xWG5aQWZXZEFtS0ZNQmRMYU5QTGt6ODYwMGUxTWc2X3phZ2xqSnFsQkJSZWd3YVRvNDN5Wlh0dUNTcFJwVXR4NmJB?oc=5"
         }
       ],
       "matched_keywords": []

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Colchicine?">
-<strong>Colchicine</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 2 voorspelde indicaties.
+<strong>Colchicine</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Colchicine met het 
 <p><a href="{{ '/drugs/colchicine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
+
+2026-11-07 <span class="news-indication-tag">kanker</span>
+
+Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
+
+---
 
 ### [“Veel mannen wachten te lang”: uroloog waarschuwt voor symptomen van drie mannenkankers](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEk1bmFxSTVlVFI0eWlBczVkeEUtYWRjSTVmdEFLekNyeGVsWVp5dHk5MkJ6LTdocVUxY042Tm5jRHVFaUNUdmduMGpyNVFzQVVrQzNpUVQtZU1hM3Q1cTdKXzNfWHEyc29kUjFCZjlJbTdFZ1J0NzU3U2tVdVdycmhnNVprOFBiTDhqZlRYY2FqeWJNbDIxQkpvMlN1U19WRmRuTEZGMUo0Rl9mR3FNdGpOY2VuRUZlOWtLY0FQRnE1QQ?oc=5)
 

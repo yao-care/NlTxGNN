@@ -1,20 +1,158 @@
 {
-  "last_updated": "2026-11-08T12:42:06.695241+00:00",
+  "last_updated": "2026-11-08T21:38:29.840263+00:00",
   "total_count": 8,
-  "matched_count": 2,
+  "matched_count": 3,
   "news": [
     {
-      "id": "8560ec19f9bb",
-      "title": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek",
-      "published": "2026-11-06T18:25:00+00:00",
-      "summary": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek&nbsp;&nbsp;RijnmondMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "7365047b5d1d",
+      "title": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden",
+      "published": "2026-11-07T19:30:11+00:00",
+      "summary": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG4wTjdZcHBVWXpUMDlYV2hHT3VONFh4eWNqaTQxX25vVjgwWVNoRnV4RmtHQ0lGT1hROTZSd0p4ZnQxSm51RlVmSHBOcEdOaWJUQVptdG5ZbGg5dVVrRnBWNG5RS1Q0VkxPX0NLR29mZjV3UEFweGV5Mkt6X0R0bldNdzl6NU5jVVNYSzhCQmY1OTI4TmNIWS1pZ1pXYmVCRHJCeG9fNEF0UURKdUw5RzZJWlc?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "40099fcad623",
@@ -246,14 +384,14 @@
       ]
     },
     {
-      "id": "107830e9816e",
-      "title": "Is dik zijn een keuze? Volgens deze obesitas-arts niet",
-      "published": "2026-11-04T09:04:22+00:00",
-      "summary": "Is dik zijn een keuze? Volgens deze obesitas-arts niet&nbsp;&nbsp;Pointer",
+      "id": "d0d49bdf55ba",
+      "title": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde",
+      "published": "2026-11-03T19:30:00+00:00",
+      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Pointer",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTncwc2lJRGlHNW80UWZUNlB3Qnhrb3JzdHBhdG9jZEtKZUtXLVhOZmhHNHBSdmxvQ0NSazFPQ1RacGxfVUpyRzVBVjFiaVhhOVNVU19kZVpmRjRWeFhWSmZqc2hMeVdRU0VINklDcDVqZ1NOdXREZmJGOTJDNUV2NkFNQlkzVE01?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVBLXVScmFoV0xDbG9hTG0xUllBZUczZVdPV0xqTGh4UU5SZWVfREowVUVNaWVxM3YwdE03eHNwcFFibXFaQUNGR1lOUlFSYWItc2FvX25EejFLVlExMUZRUjlDVzhxUlFlcXZCbXVKSmtfLTRVMk5RV0d4RlRKQmRuenJSUkV4a0YwNkdxejFsVk5aM3I4bU56RjJqRkZrYkd2bHNycVpXSDlGU0huRlNrZFY2ZUFEV3B5WUVCNTI3b2NPQmc?oc=5"
         }
       ],
       "matched_keywords": []

@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 1 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 2 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -55,7 +55,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
+
+### [Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
+
+2026-11-07
+
+Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
+
+---
 
 ### [“Veel mannen wachten te lang”: uroloog waarschuwt voor symptomen van drie mannenkankers](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEk1bmFxSTVlVFI0eWlBczVkeEUtYWRjSTVmdEFLekNyeGVsWVp5dHk5MkJ6LTdocVUxY042Tm5jRHVFaUNUdmduMGpyNVFzQVVrQzNpUVQtZU1hM3Q1cTdKXzNfWHEyc29kUjFCZjlJbTdFZ1J0NzU3U2tVdVdycmhnNVprOFBiTDhqZlRYY2FqeWJNbDIxQkpvMlN1U19WRmRuTEZGMUo0Rl9mR3FNdGpOY2VuRUZlOWtLY0FQRnE1QQ?oc=5)
 

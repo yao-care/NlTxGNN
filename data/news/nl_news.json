@@ -1,6 +1,6 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-08T12:42:06.591392+00:00",
+  "fetched_at": "2026-11-08T21:38:29.733577+00:00",
   "count": 8,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "RTV Noord",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjUxMjRwZ2h5bUJ6ZExnRURVbUZValhHSDFuSUhJQ2dXOXROZEEtb04tWHBKd3BVOU0wMHppY1ltNXQzcnEyMU9Hd1BtaTc4dE1ZaWt2SW1UaDA4V3NCaC1LSUtPSVluUDlHQzZwVGNkazY0Sm5kOWd3dGFBNG9mMXV3ZHpPRGptbjBnMmpVUm9uM1FEUUduLWpkd3g0RmVrUFZoNF9ZU3pTNkY0OWNONmNiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0d49bdf55ba",
+      "title": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde - AD.nl",
+      "published": "2026-11-03T19:30:00+00:00",
+      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVBLXVScmFoV0xDbG9hTG0xUllBZUczZVdPV0xqTGh4UU5SZWVfREowVUVNaWVxM3YwdE03eHNwcFFibXFaQUNGR1lOUlFSYWItc2FvX25EejFLVlExMUZRUjlDVzhxUlFlcXZCbXVKSmtfLTRVMk5RV0d4RlRKQmRuenJSUkV4a0YwNkdxejFsVk5aM3I4bU56RjJqRkZrYkd2bHNycVpXSDlGU0huRlNrZFY2ZUFEV3B5WUVCNTI3b2NPQmc?oc=5"
         }
       ]
     },
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "8560ec19f9bb",
-      "title": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek - Rijnmond",
-      "published": "2026-11-06T18:25:00+00:00",
-      "summary": "Waarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek&nbsp;&nbsp;RijnmondMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG4wTjdZcHBVWXpUMDlYV2hHT3VONFh4eWNqaTQxX25vVjgwWVNoRnV4RmtHQ0lGT1hROTZSd0p4ZnQxSm51RlVmSHBOcEdOaWJUQVptdG5ZbGg5dVVrRnBWNG5RS1Q0VkxPX0NLR29mZjV3UEFweGV5Mkt6X0R0bldNdzl6NU5jVVNYSzhCQmY1OTI4TmNIWS1pZ1pXYmVCRHJCeG9fNEF0UURKdUw5RzZJWlc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f4f07a40b4b",
       "title": "Een gebroken heup, maar geen operatie: Amphia ontwikkelt bijzondere pijnbehandeling - BN DeStem",
       "published": "2026-11-05T19:33:00+00:00",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "107830e9816e",
-      "title": "Is dik zijn een keuze? Volgens deze obesitas-arts niet - Pointer",
-      "published": "2026-11-04T09:04:22+00:00",
-      "summary": "Is dik zijn een keuze? Volgens deze obesitas-arts niet&nbsp;&nbsp;Pointer",
+      "id": "7365047b5d1d",
+      "title": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden - wibnet.nl",
+      "published": "2026-11-07T19:30:11+00:00",
+      "summary": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden&nbsp;&nbsp;wibnet.nl",
       "sources": [
         {
-          "name": "Pointer",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTncwc2lJRGlHNW80UWZUNlB3Qnhrb3JzdHBhdG9jZEtKZUtXLVhOZmhHNHBSdmxvQ0NSazFPQ1RacGxfVUpyRzVBVjFiaVhhOVNVU19kZVpmRjRWeFhWSmZqc2hMeVdRU0VINklDcDVqZ1NOdXREZmJGOTJDNUV2NkFNQlkzVE01?oc=5"
+          "name": "wibnet.nl",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5"
         }
       ]
     },

@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Famciclovir. 9 voorspelde indicaties."
 permalink: /news/famciclovir/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Nieuws over Famciclovir
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Famciclovir?">
-<strong>Famciclovir</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Famciclovir</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ Deze pagina combineert de door AI voorspelde indicaties voor Famciclovir met het
 <p><a href="{{ '/drugs/famciclovir/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (1)
 
 ### [Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
 
 2026-11-07 <span class="news-indication-tag">kanker</span>
 
 Bron: [wibnet.nl](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5)
-
----
-
-### [“Veel mannen wachten te lang”: uroloog waarschuwt voor symptomen van drie mannenkankers](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEk1bmFxSTVlVFI0eWlBczVkeEUtYWRjSTVmdEFLekNyeGVsWVp5dHk5MkJ6LTdocVUxY042Tm5jRHVFaUNUdmduMGpyNVFzQVVrQzNpUVQtZU1hM3Q1cTdKXzNfWHEyc29kUjFCZjlJbTdFZ1J0NzU3U2tVdVdycmhnNVprOFBiTDhqZlRYY2FqeWJNbDIxQkpvMlN1U19WRmRuTEZGMUo0Rl9mR3FNdGpOY2VuRUZlOWtLY0FQRnE1QQ?oc=5)
-
-2026-11-06 <span class="news-indication-tag">kanker</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEk1bmFxSTVlVFI0eWlBczVkeEUtYWRjSTVmdEFLekNyeGVsWVp5dHk5MkJ6LTdocVUxY042Tm5jRHVFaUNUdmduMGpyNVFzQVVrQzNpUVQtZU1hM3Q1cTdKXzNfWHEyc29kUjFCZjlJbTdFZ1J0NzU3U2tVdVdycmhnNVprOFBiTDhqZlRYY2FqeWJNbDIxQkpvMlN1U19WRmRuTEZGMUo0Rl9mR3FNdGpOY2VuRUZlOWtLY0FQRnE1QQ?oc=5)
 
 ---
 

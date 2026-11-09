@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-08T21:38:29.840263+00:00",
-  "total_count": 8,
-  "matched_count": 3,
+  "last_updated": "2026-11-09T04:30:00.098553+00:00",
+  "total_count": 7,
+  "matched_count": 2,
   "news": [
     {
       "id": "7365047b5d1d",
@@ -356,32 +356,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c2964ba76619",
-      "title": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven' - NPO Radio 1",
-      "published": "2026-11-04T16:34:17+00:00",
-      "summary": "Mensen met dementie kunnen nog veel betekenen: 'Na de diagnose ben je niet afgeschreven'&nbsp;&nbsp;NPO Radio 1",
-      "sources": [
-        {
-          "name": "NPO Radio 1",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORlEtTUdzYTAxcGs4OWdHbks1dFk4V1ZMYVlPcHI3U1JvRHd1cnRJQm5qbEtPak9zdG9LaVowdFpNbUlpM1Y3eVBBQjRwMHVPRkNUNnVyb1AtV1pob3llT0V2OHFTaWpySHllNkpoWDU2N0I5X3B3a0QxNnlQTnl3ZEpSZE1nR2o0UHFXcWpMQXNCbnNkd05ZTDR6N0Z2V1pWZDNPMEZwTXhfTm9mSmNETGxQb0NTZFNJMEJoZXdWOVNLaTlaUjQ5UVJHRzZENVJKTnd5OTdxb3R3OGo1QnJ1N2dKV2xRT2RzVEo2TElqbjVvNlczekt3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementie",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "d0d49bdf55ba",

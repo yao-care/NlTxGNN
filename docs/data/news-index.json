@@ -1,152 +1,27 @@
 {
-  "generated": "2026-11-10T01:08:07.115108+00:00",
+  "generated": "2026-11-10T14:15:47.334038+00:00",
   "count": 1,
   "news": [
     {
-      "id": "7365047b5d1d",
-      "title": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden",
-      "published": "2026-11-07T19:30:11+00:00",
+      "id": "be586311686b",
+      "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’",
+      "published": "2026-11-09T21:00:06+00:00",
       "sources": [
         {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5"
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
+          "name": "dementia",
+          "keyword": "alzheimer",
           "related_drugs": [
             {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
             }
           ]
         }

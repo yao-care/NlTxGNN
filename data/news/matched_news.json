@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-11-10T01:08:07.102758+00:00",
-  "total_count": 7,
+  "last_updated": "2026-11-10T14:15:47.314814+00:00",
+  "total_count": 10,
   "matched_count": 1,
   "news": [
+    {
+      "id": "1362ad1977de",
+      "title": "Dossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek",
+      "published": "2026-11-10T10:42:00+00:00",
+      "summary": "Dossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSTlld3N5RnUtVVp0bTB0elFmZjFWbmx4V3RPemo2NjY0TDI4RWxxNmVuWmpkNXJLejZLSE9kN3piY2xwVFA1SkdsdWlGVGI5OWJWR3A4UU9Ldm5YWVIwalhKR0xRLVdVeC1UZTBsanpTeWM2cHcwTEdKOENaSHRoZG1MSk9qY05nMmRDUVk0T0hkc1dqU05LbXItSFFLbC1TdHR2YUp0TzNqR0RJT3FwbFNTSXdTUXozVm9sTV9fOGE1ZWdEZTFfTUNRUk85MFpIRlVvYnk1VU9hVC16TGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4b4bccb3a8eb",
+      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'",
+      "published": "2026-11-10T06:55:19+00:00",
+      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
+      "sources": [
+        {
+          "name": "Linda",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "be586311686b",
+      "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’",
+      "published": "2026-11-09T21:00:06+00:00",
+      "summary": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’&nbsp;&nbsp;Trouw",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "alzheimer",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82df007f77f0",
+      "title": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s",
+      "published": "2026-11-09T20:24:00+00:00",
+      "summary": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajVPeDk5TEZnaGF3VXNRMGJVVUVxUzMyOXh2WXdXYjZpU1cyMm5FYjRfdHpkSV91RnlzdjRBTlNtZV9wLUtVRTcwcF9CdUhyNk9UVmdzYVk5Z2tuUjR4bTVyWXdtaHVZQnRQcDhXazhaQjNMM3dFTVdhOGY1b1QxVXlMRXVxNFc4U2FFVjM3SzBGbGtOWUNydHlYemZ6Um1CZ1FHNWh5YmI1V3dwY0d4RnRVdjk5b2VGYVh5ODEyYTF0NEZBVmtnVlJFV1hGQ3BjdUh4VTE2Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5a4c713bebe2",
+      "title": "RS-virus ook gevaarlijk voor ouderen, hoe zit dat precies? - Radar (AVROTROS)",
+      "published": "2026-11-09T18:58:57+00:00",
+      "summary": "RS-virus ook gevaarlijk voor ouderen, hoe zit dat precies?&nbsp;&nbsp;Radar (AVROTROS)Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’&nbsp;&nbsp;RijnmondHet RS-virus komt nu op, en ouders – en oudereren – herkennen de signalen vaak te laat&nbsp;&nbsp;DuurzaamnieuwsGSK-onderzoek: 79% van de volwassenen met chronische ziekten ondervindt verstoring van hun dagelijks leven wanneer ze besmet raken met luchtwegvirussen, waaronder RSV.&nbsp;&nbsp;Vietnam.",
+      "sources": [
+        {
+          "name": "Radar (AVROTROS)",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkszUUJucmtTazIyb29VQ285ZjQwa3BrRVFPMndLZnRueEt6VmRpaGVIRmtuSmRHVWZVSTVQWGFqUzctdnFJRFZnNFpUdDBpbHAtN2RoSXFPd0hBVERDUXU1Zi0taGYwNTZZNDlMN1Q2Rk5FQU9kckpobEtweVBQUUZneFY4MXdtWllBazJqZVQyeE4tWFdSN0U1bWs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2db3541e3c70",
       "title": "Griepprik nemen? Huisarts uit Staphorst waarschuwt voor risico’s - Meppeler Courant",
@@ -19,176 +97,12 @@
     {
       "id": "128fd36d40b1",
       "title": "Bewegen tegen stressklachten: ’Bij een potje squash met Marco van Basten kunnen we nu wél allebei tegen ons verlies’ - De Telegraaf",
-      "published": "2026-11-09T06:00:00+00:00",
+      "published": "2026-11-09T14:00:00+00:00",
       "summary": "Bewegen tegen stressklachten: ’Bij een potje squash met Marco van Basten kunnen we nu wél allebei tegen ons verlies’&nbsp;&nbsp;De TelegraafWaarom artsen beweging als medicijn moeten voorschrijven: “Elke stap telt”&nbsp;&nbsp;Scientias.nl",
       "sources": [
         {
           "name": "De Telegraaf",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOUh0c2llZ3p5Wk9lWEdUVXFOdUt4SDFFdU96cXJvV3BmLWFLUk0tRWZjM29GTFpldlRkRWhIVnFhNS1Fc1RpaGxzcWxDZW5JMVJQdURkU3V5Q1RHSXBKQTVkV3NVZjJtTUhubVhPUHpfdERHeF9LM1Byc1B3S3dCMks3SXZoaWxGbjl1TnBnOVQ0aU9GdEZfdE1PQTlxeGZ2RnUzRjhKck14dUx1UVh5bzJzVk1ialg3WGhpUkpsLWhmWFZ0MGhPaHVTQnMwWkVsajBjQUdwTXpSbXZ4eWFndXdaUWJzQUowOTVPUUh0Wk44ck5GNXVOa1pGLXZMRUJpemtaSA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7365047b5d1d",
-      "title": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden",
-      "published": "2026-11-07T19:30:11+00:00",
-      "summary": "Kankerwetenschapper: Zo help je je immuunsysteem om kanker te bestrijden&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWkzcGRiTmtIbnFCdENfS0ZyTGh0VlFDZkh4Vk1qdjJSRTFDc1BLbURpTTJkMVNRTE5kX2xHZVNWRVlwWFhqczkzSUEtNGpVY19YZEM3dUxmMlRQS3VuMm9HMG4xRkxWbnhyZDFaaTBtUW0xeEdhZHE3UExyMzg5M0hfSXFJRmZGWEZXU2ZFa2Rjc3FoSUVJRGZGcEpMOXdUVTBtS2g3N25pRHdXNjlUanFzWDB2a05WSWJVd0lqZnNIODM4WFJCVVJ0S0g1dDl0dGVfeFJ6cld6YnBOTnVKWDM1cjNFSFVPMWZENHc5UG8zSXc3Nk9z?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67e0e9afcc20",
-      "title": "Bijna helft Groningers te zwaar, huisartsen pakken ook stress en schulden aan - RTV Noord",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "Bijna helft Groningers te zwaar, huisartsen pakken ook stress en schulden aan&nbsp;&nbsp;RTV Noord",
-      "sources": [
-        {
-          "name": "RTV Noord",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjUxMjRwZ2h5bUJ6ZExnRURVbUZValhHSDFuSUhJQ2dXOXROZEEtb04tWHBKd3BVOU0wMHppY1ltNXQzcnEyMU9Hd1BtaTc4dE1ZaWt2SW1UaDA4V3NCaC1LSUtPSVluUDlHQzZwVGNkazY0Sm5kOWd3dGFBNG9mMXV3ZHpPRGptbjBnMmpVUm9uM1FEUUduLWpkd3g0RmVrUFZoNF9ZU3pTNkY0OWNONmNiZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -223,7 +137,7 @@
       "id": "d0d49bdf55ba",
       "title": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde",
       "published": "2026-11-03T19:30:00+00:00",
-      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlVergeet die paarse envelop niet: dit kan je leven redden&nbsp;&nbsp;AD.nlWaarom krijgen 75-plussers geen oproep? Vijf vragen over darmkankeronderzoek&nbsp;&nbsp;Rijnmond'Paarse envelop' op de mat: MST-arts roept op mee te doen aan darmkankertest&nbsp;&nbsp;RTV OostBevolkingsonderzoek darmkanker: waar moet je meedoen?&nbsp;&nbsp;Libelle",
+      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",

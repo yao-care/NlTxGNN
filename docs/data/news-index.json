@@ -1,15 +1,40 @@
 {
-  "generated": "2026-11-10T14:15:47.334038+00:00",
-  "count": 1,
+  "generated": "2026-11-10T22:47:09.060538+00:00",
+  "count": 2,
   "news": [
     {
       "id": "be586311686b",
       "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’",
-      "published": "2026-11-09T21:00:06+00:00",
+      "published": "2026-11-09T21:00:00+00:00",
       "sources": [
         {
           "name": "Trouw",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "alzheimer",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0f6a0f896d6",
+      "title": "Zelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzoekers ontdekken mogelijk verband met alzheimer",
+      "published": "2026-11-09T11:17:00+00:00",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXcwUGZWN19HTnhjQU1iNXBVSTF1VHZpakpnU0NBenV1NElUbVdsb2N0cmVWak9penZkTnREWTZiaDJKQzdZZ3AybzZ3bzZCYjFhSWUwckhfX1dqWmJDV3VZTlU5OGo2a09Ua0ZsYWVKQkNhbWpoRHdoSGU0cW5kNGsxeVVSSlNoWktldFA2UzVKV0REU2JROXQyaC1rbjBuSkNIOFpXS1UxWTdQUEhjc1dvQ2RkWndCX083TkFORnhGcHNyTU15MG1QRnZ0dGlIZlZVVzVhVzlQM0pxZUk2YUljeXdPeHB2?oc=5"
         }
       ],
       "keywords": [

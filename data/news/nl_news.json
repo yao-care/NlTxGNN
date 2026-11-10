@@ -1,53 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-10T14:15:47.200471+00:00",
+  "fetched_at": "2026-11-10T22:47:08.954408+00:00",
   "count": 10,
   "news": [
     {
-      "id": "1362ad1977de",
-      "title": "Dossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek - AD.nl",
-      "published": "2026-11-10T10:42:00+00:00",
-      "summary": "Dossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "7572fedecd43",
+      "title": "Oproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren - NOS",
+      "published": "2026-11-10T17:04:44+00:00",
+      "summary": "Oproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSAP vraagt om uitstel vernietiging medische dossiers postcovid&nbsp;&nbsp;Hart van NederlandEen goudmijn voor toekomstig medisch onderzoek verdwijnt in de prullenbak: ‘Dit is een enorme kapitaalvernietiging’&nbsp;&nbsp;de VolkskrantDossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek&nbsp;&nbsp;AD.nlGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, di",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSTlld3N5RnUtVVp0bTB0elFmZjFWbmx4V3RPemo2NjY0TDI4RWxxNmVuWmpkNXJLejZLSE9kN3piY2xwVFA1SkdsdWlGVGI5OWJWR3A4UU9Ldm5YWVIwalhKR0xRLVdVeC1UZTBsanpTeWM2cHcwTEdKOENaSHRoZG1MSk9qY05nMmRDUVk0T0hkc1dqU05LbXItSFFLbC1TdHR2YUp0TzNqR0RJT3FwbFNTSXdTUXozVm9sTV9fOGE1ZWdEZTFfTUNRUk85MFpIRlVvYnk1VU9hVC16TGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be586311686b",
-      "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’ - Trouw",
-      "published": "2026-11-09T21:00:06+00:00",
-      "summary": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b4bccb3a8eb",
-      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven' - Linda",
-      "published": "2026-11-10T06:55:19+00:00",
-      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82df007f77f0",
-      "title": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s - bnr.nl",
-      "published": "2026-11-09T20:24:00+00:00",
-      "summary": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajVPeDk5TEZnaGF3VXNRMGJVVUVxUzMyOXh2WXdXYjZpU1cyMm5FYjRfdHpkSV91RnlzdjRBTlNtZV9wLUtVRTcwcF9CdUhyNk9UVmdzYVk5Z2tuUjR4bTVyWXdtaHVZQnRQcDhXazhaQjNMM3dFTVdhOGY1b1QxVXlMRXVxNFc4U2FFVjM3SzBGbGtOWUNydHlYemZ6Um1CZ1FHNWh5YmI1V3dwY0d4RnRVdjk5b2VGYVh5ODEyYTF0NEZBVmtnVlJFV1hGQ3BjdUh4VTE2Yw?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGkyMDNTcEhqZTZGOTZQbnRwSjVhdW9ybGpKbEhKZ3dLbkJCV01CNEpXM18xcjJ6Z1FtVkwtMGhDdTk2QXFnMUVTQ25BZHlEb3dIOG5lZzF6RGx5N3M0dXEwTE0tSF9rVFE2OFBkOW4ydzZZQnFPZzRzQjVVa250d2dJRERoTlJ1QTdVS2p0ZFVVWjBrNWdPenRCUQ?oc=5"
         }
       ]
     },
@@ -55,11 +19,35 @@
       "id": "5a4c713bebe2",
       "title": "RS-virus ook gevaarlijk voor ouderen, hoe zit dat precies? - Radar (AVROTROS)",
       "published": "2026-11-09T18:58:57+00:00",
-      "summary": "RS-virus ook gevaarlijk voor ouderen, hoe zit dat precies?&nbsp;&nbsp;Radar (AVROTROS)Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’&nbsp;&nbsp;RijnmondHet RS-virus komt nu op, en ouders – en oudereren – herkennen de signalen vaak te laat&nbsp;&nbsp;DuurzaamnieuwsGSK-onderzoek: 79% van de volwassenen met chronische ziekten ondervindt verstoring van hun dagelijks leven wanneer ze besmet raken met luchtwegvirussen, waaronder RSV.&nbsp;&nbsp;Vietnam.",
+      "summary": "RS-virus ook gevaarlijk voor ouderen, hoe zit dat precies?&nbsp;&nbsp;Radar (AVROTROS)Rotterdamse longarts regelt RS-vaccinatie voor kwetsbare patiënten: ‘Dan doen we het maar zelf’&nbsp;&nbsp;RijnmondRS-prik kost 75-plusser ruim €200, de griepprik niets&nbsp;&nbsp;De Dagelijkse StandaardGSK-onderzoek: 79% van de volwassenen met chronische ziekten ondervindt verstoring van hun dagelijks leven wanneer ze besmet raken met luchtwegvirussen, waaronder RSV.&nbsp;&nbsp;Vietnam.vnHet RS-virus komt nu o",
       "sources": [
         {
           "name": "Radar (AVROTROS)",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkszUUJucmtTazIyb29VQ285ZjQwa3BrRVFPMndLZnRueEt6VmRpaGVIRmtuSmRHVWZVSTVQWGFqUzctdnFJRFZnNFpUdDBpbHAtN2RoSXFPd0hBVERDUXU1Zi0taGYwNTZZNDlMN1Q2Rk5FQU9kckpobEtweVBQUUZneFY4MXdtWllBazJqZVQyeE4tWFdSN0U1bWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60eca14a47fb",
+      "title": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS - AD.nl",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ01zX0VOS3pDRVVURXR3U0xmczFZSGh5MFh2RGY4VGxNRHJiOFpSY3JTeHBCS0p0REVMZElkdkVqMjhiR2lSbXV2M3lwcTBhRzQ0S3I0Wmk5ZlVWcklZaThlTElyd3RNdUJ2dG93anhXcktlQkFOQlhGYjVPMEZjZVVfajZxbXBQdWp4OG12N3I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be586311686b",
+      "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’ - Trouw",
+      "published": "2026-11-09T21:00:00+00:00",
+      "summary": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’&nbsp;&nbsp;Trouw",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
         }
       ]
     },
@@ -76,6 +64,18 @@
       ]
     },
     {
+      "id": "82df007f77f0",
+      "title": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s - bnr.nl",
+      "published": "2026-11-09T20:24:42+00:00",
+      "summary": "Wantrouwen in vaccinaties zorgt in VS voor explosieve stijging gevaarlijke bloedingen bij baby’s&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajVPeDk5TEZnaGF3VXNRMGJVVUVxUzMyOXh2WXdXYjZpU1cyMm5FYjRfdHpkSV91RnlzdjRBTlNtZV9wLUtVRTcwcF9CdUhyNk9UVmdzYVk5Z2tuUjR4bTVyWXdtaHVZQnRQcDhXazhaQjNMM3dFTVdhOGY1b1QxVXlMRXVxNFc4U2FFVjM3SzBGbGtOWUNydHlYemZ6Um1CZ1FHNWh5YmI1V3dwY0d4RnRVdjk5b2VGYVh5ODEyYTF0NEZBVmtnVlJFV1hGQ3BjdUh4VTE2Yw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "128fd36d40b1",
       "title": "Bewegen tegen stressklachten: ’Bij een potje squash met Marco van Basten kunnen we nu wél allebei tegen ons verlies’ - De Telegraaf",
       "published": "2026-11-09T14:00:00+00:00",
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "d0d49bdf55ba",
-      "title": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde - AD.nl",
-      "published": "2026-11-03T19:30:00+00:00",
-      "summary": "Van paarse envelop naar ziekenhuis: hoe een simpele test bij Harry 30 poliepen blootlegde&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "4b4bccb3a8eb",
+      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven' - Linda",
+      "published": "2026-11-10T06:55:19+00:00",
+      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVBLXVScmFoV0xDbG9hTG0xUllBZUczZVdPV0xqTGh4UU5SZWVfREowVUVNaWVxM3YwdE03eHNwcFFibXFaQUNGR1lOUlFSYWItc2FvX25EejFLVlExMUZRUjlDVzhxUlFlcXZCbXVKSmtfLTRVMk5RV0d4RlRKQmRuenJSUkV4a0YwNkdxejFsVk5aM3I4bU56RjJqRkZrYkd2bHNycVpXSDlGU0huRlNrZFY2ZUFEV3B5WUVCNTI3b2NPQmc?oc=5"
+          "name": "Linda",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
         }
       ]
     },
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "id": "7fb8feceba3d",
-      "title": "‘Ik heb griep’, klinkt het overal, maar wat heerst er nou echt? - De Gelderlander",
-      "published": "2026-11-05T10:43:00+00:00",
-      "summary": "‘Ik heb griep’, klinkt het overal, maar wat heerst er nou echt?&nbsp;&nbsp;De Gelderlander",
+      "id": "c0f6a0f896d6",
+      "title": "Zelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzoekers ontdekken mogelijk verband met alzheimer - HLN",
+      "published": "2026-11-09T11:17:00+00:00",
+      "summary": "Zelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzoekers ontdekken mogelijk verband met alzheimer&nbsp;&nbsp;HLNMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTF9VX0pTem8xcjZNMnU0YTdNUFJleE5EQzN5TGtsWXdqUUpYODY4SkRzcUdTT3dtVUhFVk42YkktTlhtN3lqb010bk8wcElqTUg2SERXN1BWSVVEc3FoLXlrMWNINTg2Ull4Z3hGX0k2bmpDb2pDaDlKZi1YWTdfM3VVVjNTV24yWlROc2ZWQ3lBbmRld1ZJcGFxRVpDTlZac0pfX0V3?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXcwUGZWN19HTnhjQU1iNXBVSTF1VHZpakpnU0NBenV1NElUbVdsb2N0cmVWak9penZkTnREWTZiaDJKQzdZZ3AybzZ3bzZCYjFhSWUwckhfX1dqWmJDV3VZTlU5OGo2a09Ua0ZsYWVKQkNhbWpoRHdoSGU0cW5kNGsxeVVSSlNoWktldFA2UzVKV0REU2JROXQyaC1rbjBuSkNIOFpXS1UxWTdQUEhjc1dvQ2RkWndCX083TkFORnhGcHNyTU15MG1QRnZ0dGlIZlZVVzVhVzlQM0pxZUk2YUljeXdPeHB2?oc=5"
         }
       ]
     }

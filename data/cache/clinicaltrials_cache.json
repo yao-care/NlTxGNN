@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-10T04:57:29.981776",
+  "last_check": "2026-11-10T19:00:11.856052",
   "seen_trials": {
     "Acetaminophen": [
       "NCT05039619",
@@ -1497,6 +1497,9 @@
     ],
     "Clozapine": [
       "NCT05603104"
+    ],
+    "Fosfomycin": [
+      "NCT07928063"
     ]
   }
 }

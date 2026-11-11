@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Entacapone. 10 voorspelde indicaties."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Nieuws over Entacapone
@@ -44,19 +44,19 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 
 ## Gerelateerd nieuws (2)
 
+### [Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer - Brabants Dagblad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNksxV3pMX0RWS1o1UmN2eHotY1BLX3ZrTV9WeEdQZmhBRndKQTFhR2RnUEpMU0ZWbGxyQ19MRHJhOHRzYnJUZzE4VW12SVBRUVFjcnpoX0tmYnBjUVVEai1Mdm43dVIwekNwb1pqejF1QUNBM09XbE10UF8yVXBMX0pVcV9ZazE3NWUwRnhibW5LUGpaNTRNRXZPQ09ReVB1UkZ0Q1Ruc0xQS2ZRYWxrbEhXZVV4WURrNmUtdjF4TzJfS29nVkF2dG5JZmpsR0ZoOVh5b3hnc0cyY1dwN1h5Y3JzNHZzQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">alzheimer</span>
+
+Bron: [Brabants Dagblad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNksxV3pMX0RWS1o1UmN2eHotY1BLX3ZrTV9WeEdQZmhBRndKQTFhR2RnUEpMU0ZWbGxyQ19MRHJhOHRzYnJUZzE4VW12SVBRUVFjcnpoX0tmYnBjUVVEai1Mdm43dVIwekNwb1pqejF1QUNBM09XbE10UF8yVXBMX0pVcV9ZazE3NWUwRnhibW5LUGpaNTRNRXZPQ09ReVB1UkZ0Q1Ruc0xQS2ZRYWxrbEhXZVV4WURrNmUtdjF4TzJfS29nVkF2dG5JZmpsR0ZoOVh5b3hnc0cyY1dwN1h5Y3JzNHZzQQ?oc=5)
+
+---
+
 ### [Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’](https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5)
 
 2026-11-09 <span class="news-indication-tag">alzheimer</span>
 
 Bron: [Trouw](https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5)
-
----
-
-### [Zelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzoekers ontdekken mogelijk verband met alzheimer](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXcwUGZWN19HTnhjQU1iNXBVSTF1VHZpakpnU0NBenV1NElUbVdsb2N0cmVWak9penZkTnREWTZiaDJKQzdZZ3AybzZ3bzZCYjFhSWUwckhfX1dqWmJDV3VZTlU5OGo2a09Ua0ZsYWVKQkNhbWpoRHdoSGU0cW5kNGsxeVVSSlNoWktldFA2UzVKV0REU2JROXQyaC1rbjBuSkNIOFpXS1UxWTdQUEhjc1dvQ2RkWndCX083TkFORnhGcHNyTU15MG1QRnZ0dGlIZlZVVzVhVzlQM0pxZUk2YUljeXdPeHB2?oc=5)
-
-2026-11-09 <span class="news-indication-tag">alzheimer</span>
-
-Bron: [HLN](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXcwUGZWN19HTnhjQU1iNXBVSTF1VHZpakpnU0NBenV1NElUbVdsb2N0cmVWak9penZkTnREWTZiaDJKQzdZZ3AybzZ3bzZCYjFhSWUwckhfX1dqWmJDV3VZTlU5OGo2a09Ua0ZsYWVKQkNhbWpoRHdoSGU0cW5kNGsxeVVSSlNoWktldFA2UzVKV0REU2JROXQyaC1rbjBuSkNIOFpXS1UxWTdQUEhjc1dvQ2RkWndCX083TkFORnhGcHNyTU15MG1QRnZ0dGlIZlZVVzVhVzlQM0pxZUk2YUljeXdPeHB2?oc=5)
 
 ---
 

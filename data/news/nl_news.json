@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-10T22:47:08.954408+00:00",
+  "fetched_at": "2026-11-11T04:33:33.037951+00:00",
   "count": 10,
   "news": [
     {
-      "id": "7572fedecd43",
-      "title": "Oproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren - NOS",
-      "published": "2026-11-10T17:04:44+00:00",
-      "summary": "Oproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSAP vraagt om uitstel vernietiging medische dossiers postcovid&nbsp;&nbsp;Hart van NederlandEen goudmijn voor toekomstig medisch onderzoek verdwijnt in de prullenbak: ‘Dit is een enorme kapitaalvernietiging’&nbsp;&nbsp;de VolkskrantDossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek&nbsp;&nbsp;AD.nlGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, di",
+      "id": "60a789fb27eb",
+      "title": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd - AD.nl",
+      "published": "2026-11-10T10:42:26+00:00",
+      "summary": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd&nbsp;&nbsp;AD.nlOproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSEen goudmijn voor toekomstig medisch onderzoek verdwijnt in de prullenbak: ‘Dit is een enorme kapitaalvernietiging’&nbsp;&nbsp;de VolkskrantGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, dit is waarom die dossiers belangrijk zijn&nbsp;&nbsp;EenVandaagDossiers van postcovid- en Q-koortspatiënten drei",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGkyMDNTcEhqZTZGOTZQbnRwSjVhdW9ybGpKbEhKZ3dLbkJCV01CNEpXM18xcjJ6Z1FtVkwtMGhDdTk2QXFnMUVTQ25BZHlEb3dIOG5lZzF6RGx5N3M0dXEwTE0tSF9rVFE2OFBkOW4ydzZZQnFPZzRzQjVVa250d2dJRERoTlJ1QTdVS2p0ZFVVWjBrNWdPenRCUQ?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktZampkSnRmUVRITktkWHA5Yjl6RlFoczJwbTFsZVNiR053WGgxTXg1NFRhU1ZGRVlTLWctWWZ3YmFBbHFMMzZ3RUNHMWlVSlZxNDVpNDBSeHpva0FsX0NjSUlHQllfazNWdWhYMlJXbzJIRFdqTkJ4MFVqMnZxUEdjVEFkTU9tS3ZYeWVGRmNoLS1YOF9xeXY1UUZkTTVyYjBSYTVHck9tRFZZY3NaUHNUbjU3bFFPSGpoQWp1MF9RYmdq?oc=5"
         }
       ]
     },
@@ -24,18 +24,6 @@
         {
           "name": "Radar (AVROTROS)",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkszUUJucmtTazIyb29VQ285ZjQwa3BrRVFPMndLZnRueEt6VmRpaGVIRmtuSmRHVWZVSTVQWGFqUzctdnFJRFZnNFpUdDBpbHAtN2RoSXFPd0hBVERDUXU1Zi0taGYwNTZZNDlMN1Q2Rk5FQU9kckpobEtweVBQUUZneFY4MXdtWllBazJqZVQyeE4tWFdSN0U1bWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60eca14a47fb",
-      "title": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS - AD.nl",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS&nbsp;&nbsp;AD.nl",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ01zX0VOS3pDRVVURXR3U0xmczFZSGh5MFh2RGY4VGxNRHJiOFpSY3JTeHBCS0p0REVMZElkdkVqMjhiR2lSbXV2M3lwcTBhRzQ0S3I0Wmk5ZlVWcklZaThlTElyd3RNdUJ2dG93anhXcktlQkFOQlhGYjVPMEZjZVVfajZxbXBQdWp4OG12N3I?oc=5"
         }
       ]
     },
@@ -76,6 +64,18 @@
       ]
     },
     {
+      "id": "60eca14a47fb",
+      "title": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS - AD.nl",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "Als rechtop staan topsport wordt: Dana (35) strijdt tegen de onzichtbare ziekte POTS&nbsp;&nbsp;AD.nl",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ01zX0VOS3pDRVVURXR3U0xmczFZSGh5MFh2RGY4VGxNRHJiOFpSY3JTeHBCS0p0REVMZElkdkVqMjhiR2lSbXV2M3lwcTBhRzQ0S3I0Wmk5ZlVWcklZaThlTElyd3RNdUJ2dG93anhXcktlQkFOQlhGYjVPMEZjZVVfajZxbXBQdWp4OG12N3I?oc=5"
+        }
+      ]
+    },
+    {
       "id": "128fd36d40b1",
       "title": "Bewegen tegen stressklachten: ’Bij een potje squash met Marco van Basten kunnen we nu wél allebei tegen ons verlies’ - De Telegraaf",
       "published": "2026-11-09T14:00:00+00:00",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "4b4bccb3a8eb",
-      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven' - Linda",
-      "published": "2026-11-10T06:55:19+00:00",
-      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f4f07a40b4b",
       "title": "Een gebroken heup, maar geen operatie: Amphia ontwikkelt bijzondere pijnbehandeling - BN DeStem",
       "published": "2026-11-05T19:33:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "BN DeStem",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkgtV05rYktaMFpOQkdrNXQ4RGYwOXp3aUFvMEdreG1lS1E4cHFjT2JPaGhKZTBQeVFpUHd3b3hCb0RtNy1ubnFRNU54UTlTS19XMkp0aHB5SXVCdHUweDZrVGtaMnVWa2xDRVhDQmxrajFIMVdYQUM4M0lSeUVjWmowUjRmbUJVdExueE4zTEZvVUcyTmFVTFplQmszNVBJQ053Q0VkMVIzdHJPVXlnN0F5M3ZvRWwzR2IyenhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b4bccb3a8eb",
+      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven' - Linda",
+      "published": "2026-11-10T06:55:19+00:00",
+      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
+      "sources": [
+        {
+          "name": "Linda",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
         }
       ]
     },

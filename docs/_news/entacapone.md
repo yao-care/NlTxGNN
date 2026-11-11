@@ -46,7 +46,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 
 ### [Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer - Brabants Dagblad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNksxV3pMX0RWS1o1UmN2eHotY1BLX3ZrTV9WeEdQZmhBRndKQTFhR2RnUEpMU0ZWbGxyQ19MRHJhOHRzYnJUZzE4VW12SVBRUVFjcnpoX0tmYnBjUVVEai1Mdm43dVIwekNwb1pqejF1QUNBM09XbE10UF8yVXBMX0pVcV9ZazE3NWUwRnhibW5LUGpaNTRNRXZPQ09ReVB1UkZ0Q1Ruc0xQS2ZRYWxrbEhXZVV4WURrNmUtdjF4TzJfS29nVkF2dG5JZmpsR0ZoOVh5b3hnc0cyY1dwN1h5Y3JzNHZzQQ?oc=5)
 
-2026-11-10 <span class="news-indication-tag">alzheimer</span>
+2026-11-11 <span class="news-indication-tag">alzheimer</span>
 
 Bron: [Brabants Dagblad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNksxV3pMX0RWS1o1UmN2eHotY1BLX3ZrTV9WeEdQZmhBRndKQTFhR2RnUEpMU0ZWbGxyQ19MRHJhOHRzYnJUZzE4VW12SVBRUVFjcnpoX0tmYnBjUVVEai1Mdm43dVIwekNwb1pqejF1QUNBM09XbE10UF8yVXBMX0pVcV9ZazE3NWUwRnhibW5LUGpaNTRNRXZPQ09ReVB1UkZ0Q1Ruc0xQS2ZRYWxrbEhXZVV4WURrNmUtdjF4TzJfS29nVkF2dG5JZmpsR0ZoOVh5b3hnc0cyY1dwN1h5Y3JzNHZzQQ?oc=5)
 

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 337
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
 description: "Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -39,6 +39,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **10**
 ## Samenvatting in één zin
 
 Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**. Hiervoor zijn **geen klinische studies** en **2 publicaties** beschikbaar, die alleen indirect verband leggen. Het bewijs is dus zeer beperkt.
+
+<!-- review:begin nl-lic-20261106-valine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland alleen nog voorkwam in een inmiddels doorgehaald infuusvoedingsproduct. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-valine-1 -->
 
 ---
 
@@ -105,6 +111,19 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter/SmPC, nodig voor de veiligheidsscreening
 - Preklinisch of klinisch onderzoek naar valine of BCAA-suppletie bij scleroserende cholangitis
 - Een vastgestelde oorspronkelijke indicatie en toedieningsroute om de haalbaarheid te beoordelen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland alleen nog voorkwam in een inmiddels doorgehaald infuusvoedings” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Histidine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar (de enige vergunning bevat geen indicatietekst)"
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
@@ -86,6 +86,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is.
 
+<!-- review:begin nl-lic-20261106-histidine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is. De vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-histidine-1 -->
+
 ---
 
 ## Veiligheidsoverwegingen
@@ -114,12 +120,32 @@ De tweede voorspelling (TxGNN-score 0,9927) verdient een korte toelichting, omda
 - De voorspelling voor gastroparese berust uitsluitend op een model (L5), zonder klinische studies en zonder relevante literatuur.
 - Voor de tweede voorspelling wijst het preklinische bewijs op een tegengesteld effect.
 
+<!-- review:begin nl-lic-20261106-histidine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige vergunning is bovendien doorgehaald. / Voor de tweede voorspelling wijst het preklinische bewijs op een tegengesteld effect.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-histidine-2 -->
+
 **Om verder te gaan is nodig:**
 - Productinformatie van CBG-MEB (SmPC, waarschuwingen en contra-indicaties); dit ontbreekt en blokkeert de veiligheidsbeoordeling
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - Preklinisch of mechanistisch onderzoek naar een effect van histidine op maagmotiliteit
 - Beoordeling van de nier-, hart- en stofwisselingsrisico's voordat enige klinische toepassing wordt overwogen
 - Vaststelling van toedieningsroute en doseringsvorm voor de beoogde indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

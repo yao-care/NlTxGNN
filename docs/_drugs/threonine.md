@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Threonine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare gegevens"
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -80,6 +80,12 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.
 
+<!-- review:begin nl-lic-20261106-threonine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide onderstaande vergunningen zijn ingetrokken. Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-threonine-1 -->
+
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 115556 | Nutriflex Lipid special zonder elektrolyten, 56 g/l + 144 g/l, emulsie voor infusie | Geldig |
@@ -109,6 +115,19 @@ De voorspelling berust uitsluitend op een computationele score van het TxGNN-mod
 - Preklinische of klinische literatuur over threonine bij gastroparese zoeken
 - Beoordelen of een geschikte toedieningsroute beschikbaar is, aangezien de bekende producten parenterale infusies waren en de routecompatibiliteit nog niet is vastgesteld
 - Het veiligheidssignaal rond fenylketonurie en fenylalaninemetabolisme nader onderzoeken
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Beide onderstaande vergunningen zijn ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

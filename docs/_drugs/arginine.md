@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 41
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Arginine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
 monitor_inn: "arginine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -39,6 +39,12 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 ## Samenvatting in één zin
 
 Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar. Het TxGNN-model voorspelt dat arginine mogelijk werkzaam is bij **gastroparese**, maar er zijn **0 klinische studies** en **9 publicaties** (vrijwel uitsluitend ddiermodellen en één casusbeschrijving) die deze richting ondersteunen.
+
+<!-- review:begin nl-lic-20261106-arginine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding. Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-arginine-1 -->
 
 ---
 
@@ -122,12 +128,32 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 **Onderbouwing:**
 Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese.
 
+<!-- review:begin nl-lic-20261106-arginine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese. Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-arginine-2 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen (blokkerend voor veiligheidsscreening)
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
 - Beoordelen of de kennisgraaf-contra-indicaties (met name nierfunctiestoornissen en zuur-basestoornissen) relevant zijn voor de doelgroep met gastroparese
 - Humane gegevens verzamelen (bijvoorbeeld een pilotstudie of systematische search) naar de werkzaamheid van arginine bij gastroparese
 - Beoordelen of een geschikte toedieningsroute en formulering beschikbaar zijn, aangezien de bestaande producten parenterale voeding betreffen en doorgehaald zijn
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

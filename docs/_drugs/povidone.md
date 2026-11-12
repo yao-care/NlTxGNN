@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Povidone: voorspelde nieuwe indicatie Congenitale ichthyosiforme erytrodermie (bewijsniveau L5). Oorspronkelijke indicatie: Droog-oogsyndroom, xeroftalmie"
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
@@ -102,11 +102,37 @@ Raadpleeg voor officiële veiligheidsinformatie de SmPC (Samenvatting van de Pro
 **Onderbouwing:**
 - De voorspelling is uitsluitend modelgebaseerd (bewijsniveau L5), zonder klinische studies of literatuur. Het werkingsmechanisme is onbekend en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.
 
+<!-- review:begin nl-lic-20261106-povidone-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het werkingsmechanisme is onbekend, de Nederlandse registratie is doorgehaald en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.” Verwijderd: de vermelding kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-povidone-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter ophalen en analyseren (blokkerend voor de veiligheidsscreening).
 - Gegevens over het werkingsmechanisme aanvullen via DrugBank.
 - Systematisch zoeken naar preklinische of klinische gegevens over povidon bij ichthyose of andere verhoorningsstoornissen.
 - Beoordelen of een geschikte toedieningsroute (bijvoorbeeld topisch op de huid) en formulering beschikbaar zijn, aangezien de oorspronkelijke toepassing oogdruppels betreft.
+
+<!-- review:begin nl-lic-20261106-povidone-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordelen of een geschikte toedieningsroute (bijvoorbeeld topisch op de huid) en formulering beschikbaar zijn, aangezien de oorspronkelijke toepassing oogdruppels betreft. / Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-povidone-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “d, de Nederlandse registratie is doorgehaal” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

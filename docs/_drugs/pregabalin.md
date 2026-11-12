@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Pregabalin: voorspelde nieuwe indicatie Tendinitis (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, fibromyalgie, myofasciaal pijnsyndroom…"
 monitor_inn: "pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
@@ -121,6 +121,12 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 **Onderbouwing:**
 - Er is geen direct klinisch bewijs voor pregabaline bij tendinitis. De hoge TxGNN-score (0,9971) wordt alleen ondersteund door een indirect mechanisme via pijnmodulatie. De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.
 
+<!-- review:begin nl-lic-20261106-pregabalin-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen. / Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald".” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-pregabalin-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Gerandomiseerde studies naar pregabaline bij (chronische) tendinopathie, met pijn en functie als uitkomstmaten
 - Beoordeling van de actuele SmPC en bijsluiter (waarschuwingen en contra-indicaties) via CBG-MEB
@@ -129,6 +135,19 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 - Een afweging van de veiligheid, met name sedatie, het gebruik samen met opioïden en nierfunctie
 
 **Opmerking:** in dezelfde analyse heeft de voorspelde indicatie **migraine** (rang 5, score 0,9947) sterker bewijs. Het bewijsniveau is L2. Er zijn pediatrische RCT's waarin pregabaline wordt vergeleken met propranolol en natriumvalproaat, en preklinisch onderzoek naar corticale spreidingsdepressie. Daar staat tegenover dat een fase 3-studie is ingetrokken en dat de studies klein en overwegend pediatrisch zijn. Migraine kan daarom een geschiktere kandidaat zijn voor verdere evaluatie als onderzoeksvraag.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald"” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

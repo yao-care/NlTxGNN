@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
 description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -76,6 +76,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261106-levobupivacaine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-levobupivacaine-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -104,12 +110,32 @@ Voor volledige waarschuwingen en contra-indicaties moet de SmPC (Samenvatting va
 **Onderbouwing:**
 - Er is geen klinisch of literatuurbewijs, alleen een modelscore. Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis.
 
+<!-- review:begin nl-lic-20261106-levobupivacaine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis, en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-levobupivacaine-2 -->
+
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties). Dit is momenteel een blokkerend gegevenstekort.
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank) voor een mechanistische analyse.
 - Preklinisch of mechanistisch onderzoek dat een rol van levobupivacaïne bij gastroduodenitis onderbouwt.
 - Beoordeling van toedieningsroutes en van de relevantie van de oorspronkelijke indicatie.
 - Een beoordeling van de 72 geneesmiddelinteracties en de contra-indicaties uit de kennisgraaf.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

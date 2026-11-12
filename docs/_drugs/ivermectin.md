@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -78,6 +78,12 @@ Voor vulvovaginale candidiasis is momenteel geen gerelateerde literatuur beschik
 
 Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen van beide ondersteunt antischimmelwerking:
 
+<!-- review:begin nl-lic-20261106-ivermectin-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bij het CBG-MEB bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ivermectin-1 -->
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
 | [35835488](https://pubmed.ncbi.nlm.nih.gov/35835488/) | 2022 | Casusbeschrijving | BMJ Case Reports | Gedissemineerde strongyloïdiasis na langdurige behandeling met corticosteroïden; betreft de oorspronkelijke antiparasitaire indicatie (gekoppeld aan oesofageale candidiasis) |
@@ -110,12 +116,32 @@ Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie
 **Onderbouwing:**
 - De voorspelling is uitsluitend computationeel (bewijsniveau L5). Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme.
 
+<!-- review:begin nl-lic-20261106-ivermectin-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ivermectin-2 -->
+
 **Om verder te kunnen gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank) en een beoordeling of er enige activiteit tegen *Candida* bestaat.
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB, nodig voor de veiligheidsscreening.
 - Preklinische gegevens (in vitro-activiteit tegen *Candida*) en daarna klinische studies.
 - Vergelijking met bestaande standaardbehandelingen met antimycotica.
 - Duidelijkheid over de toedieningsroute die voor de nieuwe indicatie nodig is en over de huidige registratiestatus in Nederland.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De enige bij het CBG-MEB bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

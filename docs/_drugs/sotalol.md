@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -124,12 +124,31 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 **Onderbouwing:**
 - Voor beroerte is er alleen indirect bewijs (een fase 3-studie naar ritmecontrole bij atriumfibrilleren), en antistolling blijft de standaard voor preventie. De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs.
 
+<!-- review:begin nl-lic-20261106-sotalol-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-sotalol-1 -->
+
 **Om verder te gaan is nodig:**
 - Officiële veiligheidsinformatie (SmPC/bijsluiter) van het CBG-MEB, een blokkerend datagat voor de veiligheidsscreening
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - Studies met beroerte als primair eindpunt, of een analyse van beroerte-uitkomsten uit bestaande ritmecontrolestudies
 - Een beoordeling van het proaritmisch risico (QT, torsades) en de dosering bij nierfunctiestoornis
 - Verduidelijking van de huidige marktstatus en beschikbare toedieningsvormen in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

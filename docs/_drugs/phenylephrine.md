@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 267
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -117,12 +117,31 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Onderbouwing:**
 De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4). De hoge score is vooral het gevolg van overlap met bestaande indicaties.
 
+<!-- review:begin nl-lic-20261106-phenylephrine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4), en beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-phenylephrine-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Opgehaalde en geanalyseerde bijsluiter/SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties); dit is een blokkerend gegevensgat voor de veiligheidsscreening
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Controlled studies of registratie van klinische studies met fenylefrine bij aandoeningen van de neusholte
 - Beoordeling van toedieningsroute en formulering (de vergunningen betreffen alleen injectie-oplossingen, terwijl neusgebruik een nasale toedieningsvorm vereist)
 - Een veiligheidsplan voor patiënten met hypertensie en andere cardiovasculaire risicofactoren
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

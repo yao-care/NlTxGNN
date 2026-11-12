@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Amylmetacresol: voorspelde nieuwe indicatie Cauda-equinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Geen indicatietekst beschikbaar in de gegevens van het CBG-MEB (de be…"
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
@@ -88,6 +88,12 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
 
+<!-- review:begin nl-lic-20261106-amylmetacresol-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 8, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-amylmetacresol-1 -->
+
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | Geldig |
@@ -119,6 +125,19 @@ Voor de oogindicaties geldt een extra aandachtspunt: oogblootstelling aan een an
 - Preklinisch of mechanistisch bewijs voor een effect op zenuwwortelletsel
 - Beoordeling van toedieningsroute en systemische beschikbaarheid, want een zuigtablet is waarschijnlijk niet geschikt voor deze indicaties
 - Heroverweging van de prioriteit, gezien de ontbrekende onderbouwing voor alle tien de voorspellingen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

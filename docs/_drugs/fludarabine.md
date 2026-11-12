@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 156
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fludarabine: voorspelde nieuwe indicatie Plasmacelmyeloom (bewijsniveau L2). Oorspronkelijke indicatie: Niet beschikbaar (de enige vergunning bevat geen indicatietekst)"
 monitor_inn: "fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -125,6 +125,12 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 **Onderbouwing:**
 - Er zijn meerdere afgeronde fase 2-studies en fludarabine is een gevestigd onderdeel van conditionerings- en lymfodepletieschema's bij myeloom. Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel.
 
+<!-- review:begin nl-lic-20261106-fludarabine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-fludarabine-1 -->
+
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de CBG-MEB-SmPC; dit ontbreekt nu en blokkeert de veiligheidsscreening.
 - Gegevens over het werkingsmechanisme uit DrugBank.
@@ -132,7 +138,27 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 - Een duidelijke afbakening van de beoogde rol (conditionering/lymfodepletie versus zelfstandige behandeling) en bewijs dat die rol effect heeft.
 - Een veiligheidsmonitoringplan (myelosuppressie, nierfunctie, infecties) voor de beoogde patiëntengroep.
 
+<!-- review:begin nl-lic-20261106-fludarabine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland, aangezien de enige vergunning in de gegevens is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-fludarabine-2 -->
+
 **Overige voorspelde indicaties (kort):** myelodysplastisch syndroom en indolent plasmacelmyeloom hebben eveneens bewijsniveau L2 via conditioneringsschema's (Proceed with Guardrails). Niet-geclassificeerd myelodysplastisch syndroom heeft niveau L3 (onderzoeksvraag). De overige voorspellingen (onder meer hyperthyreoïdie, diabetische nefropathie, del(5q) en enkele zeldzame erfelijke aandoeningen) hebben bewijsniveau L5 en krijgen de beslissing Hold.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

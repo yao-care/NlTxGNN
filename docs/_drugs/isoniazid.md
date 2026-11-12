@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Isoniazid: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale tuberculose"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
@@ -116,6 +116,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Onderbouwing:**
 - Het bewijs bestaat uitsluitend uit oudere casuïstiek, kleine series en één populatiestudie over profylaxe, zonder geregistreerde klinische trials (L4). De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak.
 
+<!-- review:begin nl-lic-20261106-isoniazid-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak. Bovendien is de enige Nederlandse registratie ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-isoniazid-1 -->
+
 **Om verder te gaan is nodig:**
 - Afbakening van de doelpopulatie (tuberculeuze oogaandoeningen, niet conjunctivitis in het algemeen)
 - Systematische literatuurbeoordeling en handmatige relevantiebeoordeling van de gevonden publicaties
@@ -123,6 +129,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Veiligheidsinformatie uit de SmPC en bijsluiter, met aandacht voor lever- en zenuwtoxiciteit
 - Beoordeling van toedieningsroute en beschikbare formuleringen (de huidige gegevens zijn onvolledig) en van de beschikbaarheid van het middel in Nederland
 - Klinische studies of prospectieve gegevens voor deze specifieke indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse registratie ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

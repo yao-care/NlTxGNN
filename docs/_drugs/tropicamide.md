@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Tropicamide: voorspelde nieuwe indicatie Caudaequinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Cycloplegie"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -72,6 +72,12 @@ Ter volledigheid voorspelde het model ook twee andere indicaties, eveneens zonde
 - **Neurogene blaas** (score 0,9913; de aandoening is in de ontologie als "obsoleet" gemarkeerd, wat wijst op een koppelingsprobleem dat eerst moet worden opgelost). Antimuscarinica zoals oxybutynine en tolterodine zijn hier al beschikbaar.
 - **Prikkelbare darmsyndroom** (score 0,9912).
 
+<!-- review:begin nl-lic-20261106-tropicamide-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “**Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-tropicamide-1 -->
+
 ---
 
 ## Klinisch trialbewijs
@@ -83,6 +89,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 ## Literatuurbewijs
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
+
+<!-- review:begin nl-lic-20261106-tropicamide-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-tropicamide-2 -->
 
 ---
 
@@ -111,12 +123,33 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Onderbouwing:**
 - De voorspelling berust alleen op een modelscore (L5) zonder klinische studies of literatuur. De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig.
 
+<!-- review:begin nl-lic-20261106-tropicamide-3 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-tropicamide-3 -->
+
 **Om verder te gaan is nodig:**
 - De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB (ontbrekend, blokkerend voor de veiligheidsscreening)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of farmacokinetisch bewijs dat voldoende systemische blootstelling haalbaar is
 - Oplossing van het ontologieprobleem rond "obsolete neurogenic bladder"
 - Een vergelijking met bestaande standaardbehandelingen en een beoordeling van de route van toediening (nu niet beoordeeld)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleit” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “en de enige Nederlandse registratie is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

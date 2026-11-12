@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ethinylestradiol: voorspelde nieuwe indicatie Verhoogd zinkgehalte in plasma (bewijsniveau L5). Oorspronkelijke indicatie: Acne, osteoporose na de menopauze, osteoporose…"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
@@ -82,6 +82,12 @@ Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de 
 
 Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen.
 
+<!-- review:begin nl-lic-20261106-ethinylestradiol-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 11, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ethinylestradiol-1 -->
+
 ## Veiligheidsoverwegingen
 
 **Contra-indicaties volgens de kennisgraaf** (afgeleid uit relaties tussen geneesmiddel en ziekte, niet uit de officiële productinformatie):
@@ -117,6 +123,19 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 - Een systematische literatuurstudie naar het effect van oestrogenen op zinkwaarden in plasma.
 - Beoordelen of er een klinische behoefte bestaat om een verhoogd zinkgehalte in plasma medicamenteus te behandelen.
 - Nagaan of toedieningsroutes en doelgroep verenigbaar zijn met de voorspelde indicatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

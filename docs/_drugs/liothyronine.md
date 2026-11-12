@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: voorspelde nieuwe indicatie Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -103,11 +103,30 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Onderbouwing:**
 - De voorspelling berust uitsluitend op het TxGNN-model (L5), zonder klinische studies of literatuur. Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden.
 
+<!-- review:begin nl-lic-20261106-liothyronine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden. Bovendien is het enige Nederlandse product doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-liothyronine-1 -->
+
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (aanvullen uit DrugBank)
 - Officiële waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
 - Preklinisch of mechanistisch bewijs voor een rol van T3 bij nierontwikkeling
 - Beoordeling of een andere voorspelde indicatie (bijv. nodulair struma) een zinvoller kandidaat is, aangezien die dichter bij bestaand gebruik ligt
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

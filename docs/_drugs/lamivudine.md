@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 194
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
@@ -112,6 +112,12 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 **Onderbouwing:**
 - Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv.
 
+<!-- review:begin nl-lic-20261106-lamivudine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-lamivudine-1 -->
+
 **Om verder te gaan is nodig:**
 - De SmPC-waarschuwingen en -contra-indicaties van het CBG-MEB (blokkerende datalacune voor de veiligheidsscreening)
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank)
@@ -127,6 +133,18 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 | Neurodevelopmental disorder met ataxische gang, afwezige spraak en verminderde corticale witte stof | 0,9993 | L5 | Hold | Alleen modelvoorspelling; geen aannemelijk mechanisme |
 | Verouderde term voor familiaire gecombineerde hyperlipidemie | 0,9963 | L5 | Hold | Verouderde ziektenaam, geen bewijs |
 | Chronische hepatitis C-virusinfectie | 0,9911 | L4 | Hold | HCV gebruikt geen reversetranscriptase; literatuur betreft algemene hepatitisreviews; directwerkende antivirale middelen zijn standaardzorg |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

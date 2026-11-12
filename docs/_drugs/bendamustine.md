@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 51
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Bendamustine: voorspelde nieuwe indicatie Mantelcellymfoom (bewijsniveau L1). Oorspronkelijke indicatie: Folliculair lymfoom"
 monitor_inn: "bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
@@ -108,6 +108,12 @@ De tabel toont een selectie van de meest relevante studies bij mantelcellymfoom 
 
 Dit is relevant voor de beschikbaarheid in Nederland.
 
+<!-- review:begin nl-lic-20261031-bendamustine-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-bendamustine-1 -->
+
 ---
 
 ## Cytotoxiciteit
@@ -139,6 +145,12 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 - Meerdere afgeronde fase 3-RCT's (onder meer NCT00991211 en NCT00877006) en gerandomiseerde fase 3-studies met BR als basisregime ondersteunen het gebruik bij mantelcellymfoom sterk (bewijsniveau L1). BR is al een gevestigd regime in de klinische praktijk en in richtlijnen.
 - Ook ontbreken de veiligheidsgegevens uit de productinformatie.
 
+<!-- review:begin nl-lic-20261106-bendamustine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald. Ook ontbreken de veiligheidsgegevens uit de productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-bendamustine-2 -->
+
 **Hiervoor is nodig om verder te gaan:**
 - Het ontbrekende bewijs uit de productinformatie van het CBG-MEB (waarschuwingen en contra-indicaties) aanvullen en de veiligheid beoordelen.
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
@@ -160,6 +172,19 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 | Tonsillair lymfoom | L4 | Afwachten (Hold) |
 | MALT-lymfoom van de schildklier | L5 | Afwachten (Hold) |
 | Relapsing-remitting multiple sclerose | L5 | Afwachten (Hold) |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

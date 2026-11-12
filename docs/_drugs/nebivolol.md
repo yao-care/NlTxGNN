@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -79,6 +79,12 @@ Voor de eerstgenoemde voorspelde indicatie (maligne hypertensieve nierziekte) is
 
 Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn wel publicaties gevonden, maar deze zijn indirect en betreffen grotendeels andere aandoeningen (lever-, nier- en endotheelschade in diermodellen, hartfalen, hoogteverblijf). De selectie lijkt op trefwoorden te zijn gebaseerd en bevat ook niet-relevante items.
 
+<!-- review:begin nl-lic-20261031-nebivolol-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-nebivolol-1 -->
+
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
@@ -105,6 +111,26 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 - Klinische of ten minste gerichte preklinische gegevens voor de voorspelde indicatie
 - Beoordeling van de geschiktheid van de toedieningsroute (oraal versus intraveneus) bij acute hypertensieve noodsituaties
 - Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie
+
+<!-- review:begin nl-lic-20261106-nebivolol-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie / Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-nebivolol-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

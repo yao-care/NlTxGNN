@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -97,6 +97,12 @@ De literatuur is hieronder samengevat; de meeste artikelen zijn algemene overzic
 
 Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.
 
+<!-- review:begin nl-lic-20261106-itraconazole-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-itraconazole-1 -->
+
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | Geldig |
@@ -132,6 +138,26 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 - Veiligheidsinformatie uit de officiële productinformatie van het CBG-MEB (waarschuwingen, contra-indicaties), ook gezien de vele KG-contra-indicaties (hart, lever) en de interacties
 - Een beoordeling van de meerwaarde ten opzichte van de bestaande standaardtherapieën
 - Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland
+
+<!-- review:begin nl-lic-20261106-itraconazole-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-itraconazole-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Er is één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

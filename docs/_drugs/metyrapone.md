@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Metyrapone: voorspelde nieuwe indicatie Exercise-induced malignant hyperthermia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de enige vergunning bevat geen indic…"
 monitor_inn: "metyrapone"
 predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
@@ -112,12 +112,31 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 **Onderbouwing:**
 - De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme.
 
+<!-- review:begin nl-lic-20261106-metyrapone-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme. Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-metyrapone-1 -->
+
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties).
 - Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank).
 - Een biologisch plausibel mechanisme voor de voorspelde aandoening aantonen, of de prioriteit verleggen naar kandidaten met een sterker verband (bijv. familial periodic paralysis, na gerichte literatuurstudie).
 - De oorspronkelijke geregistreerde indicatie en de toedieningsvorm vaststellen.
 - Preklinisch bewijs genereren voordat klinische evaluatie wordt overwogen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeer” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

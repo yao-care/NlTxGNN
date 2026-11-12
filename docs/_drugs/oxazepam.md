@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 258
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -124,12 +124,31 @@ Voor waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn 
 - De veiligheidsgegevens uit de bijsluiter ontbreken. Dat blokkeert de veiligheidsscreening.
 - Slapeloosheid is bovendien al een bekend toepassingsgebied van benzodiazepinen, waarbij afhankelijkheid en onttrekking belangrijke bezwaren zijn.
 
+<!-- review:begin nl-lic-20261106-oxazepam-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-oxazepam-1 -->
+
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB (waarschuwingen, contra-indicaties, indicatie) en bevestiging van de huidige beschikbaarheid in Nederland
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Beoordeling van de publicaties op relevantie, met name de studie uit 2018 (PMID 29749262), waarvan de opzet niet volledig bevestigd is
 - Een risico-batenanalyse met aandacht voor afhankelijkheid, onttrekking en gebruik bij ouderen
 - Beoordeling van de ernstige interactie met opioïden en de contra-indicaties uit de kennisgraaf aan de hand van de SmPC
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

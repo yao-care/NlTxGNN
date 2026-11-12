@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -120,6 +120,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Onderbouwing:**
 Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies.
 
+<!-- review:begin nl-lic-20261106-ramipril-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ramipril-1 -->
+
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de productinformatie van het CBG-MEB (SmPC), inclusief goedgekeurde indicaties
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
@@ -127,6 +133,19 @@ Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bew
 - Een systematische zoekactie naar humane studies bij pulmonale hypertensie door longziekte of hypoxie
 - Een beoordeling van de huidige marktstatus (opnieuw geregistreerde ramipril-producten van andere fabrikanten)
 - Een veiligheidsplan voor risicogroepen (nier- en leverfunctie, hypotensie, hyperkaliëmie)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de produ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

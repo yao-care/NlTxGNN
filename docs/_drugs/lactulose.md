@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -99,7 +99,6 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 |---------|------|------|-----------|
 | RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop (status: geldig) | Niet vermeld | Niet vermeld |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -124,6 +123,12 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 - Gegevens over het werkingsmechanisme (DrugBank) en de waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB.
 - Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.
 
+<!-- review:begin nl-lic-20261031-lactulose-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning). / Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-lactulose-1 -->
+
 ---
 
 ## Overzicht van alle voorspellingen
@@ -138,6 +143,18 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 | 6 | Hyperfosfatemie | 0,9937 | L5 | Hold (alleen een review over obstipatie bij nierziekte) |
 | 7 | Inspanningsgeïnduceerde maligne hyperthermie | 0,9914 | L5 | Hold (geen bewijs) |
 | 8 | Galwegneoplasma | 0,9912 | L5 | Hold (alleen indirect, ondersteunend bewijs) |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

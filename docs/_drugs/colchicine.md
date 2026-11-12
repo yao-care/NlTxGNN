@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Colchicine: voorspelde nieuwe indicatie Plasmodium falciparum-malaria (bewijsniveau L5). Oorspronkelijke indicatie: Jicht"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
@@ -130,6 +130,25 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 - De officiële waarschuwingen en contra-indicaties uit de CBG-MEB-productinformatie (SmPC), nodig voor een veiligheidsscreening.
 - Een beoordeling van de veiligheid bij combinatie met standaard antimalariamiddelen, zoals chloroquine.
 - Besluit over de vergunningsstatus in Nederland.
+
+<!-- review:begin nl-lic-20261106-colchicine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-colchicine-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “(de enige vergunning is ingetrokken)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

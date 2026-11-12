@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -78,6 +78,12 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 Momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261106-moxifloxacin-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-moxifloxacin-2 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -111,12 +117,32 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 **Onderbouwing:**
 - Er is geen enkele klinische studie of publicatie die moxifloxacine koppelt aan polyclonaal hyperviscositeitssyndroom, en er is geen plausibel mechanisme. Het bewijsniveau is L5 (alleen modelvoorspelling).
 
+<!-- review:begin nl-lic-20261031-moxifloxacin-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Het bewijsniveau is L5 (alleen modelvoorspelling). / Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samengestelde gegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-moxifloxacin-1 -->
+
 **Om verder te gaan, is het volgende nodig:**
 - Aanvullende gegevens over het werkingsmechanisme en een mechanistische onderbouwing voor hyperviscositeit.
 - De SmPC en bijsluiter van het CBG-MEB voor een volledige veiligheidsbeoordeling.
 - Preklinisch of klinisch bewijs voor de voorspelde indicatie. Zonder dergelijk bewijs is verder onderzoek niet te rechtvaardigen.
 
 Pest en longpest staan echter al bij de oorspronkelijke indicaties. Het gaat dus eerder om een uitbreiding van een bestaande indicatie dan om echte herpositionering. Overige voorspellingen, zoals monoklonale gammopathie en aangeboren hematologische aandoeningen, betreffen hooguit ondersteunende behandeling van infecties en niet de onderliggende ziekte.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samenges” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 224
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Methadone: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens over de Nederlandse vergunning"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -113,12 +113,31 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Onderbouwing:**
 - Voor Tourette-syndroom bestaat slechts een klein, oud rapport (1992) en geen geregistreerde klinische studies. Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4).
 
+<!-- review:begin nl-lic-20261106-methadone-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-methadone-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsinformatie uit de bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties). Dit is een blokkerend gegevenstekort voor veiligheidsscreening.
 - Gegevens over het werkingsmechanisme uit DrugBank.
 - Een systematische literatuurstudie naar methadon bij Tourette, inclusief het rapport uit 1992 in volledige tekst.
 - Beoordeling van de risico's van methadon (QT-verlenging, ademhalingsdepressie, afhankelijkheid) in de doelgroep, waaronder kinderen en adolescenten.
 - Een gecontroleerde klinische studie voordat een beslissing over gebruik wordt overwogen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

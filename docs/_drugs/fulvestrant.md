@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 167
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fulvestrant: voorspelde nieuwe indicatie HIV-infectie (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 monitor_inn: "Fulvestrant"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -102,11 +102,30 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Onderbouwing:**
 - Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies.
 
+<!-- review:begin nl-lic-20261106-fulvestrant-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-fulvestrant-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke indicatie
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Verdere preklinische validatie van ERα-modulatie bij HIV-latentie en, bij positieve resultaten, een veiligheidsbeoordeling voor een eerste klinische studie
 - Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "fosinopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -132,11 +132,37 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 - De voorspelling berust uitsluitend op het TxGNN-model (bewijsniveau L5), zonder klinische studies of ondersteunende literatuur. De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie.
 - De voorspelde indicatie maligne renovasculaire hypertensie vraagt extra veiligheidsbeoordeling vanwege het risico op nierfunctieverlies. Bij pulmonale hypertensie is er een mogelijk longveiligheidssignaal.
 
+<!-- review:begin nl-lic-20261106-fosinopril-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie, en beide Nederlandse vergunningen zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-fosinopril-1 -->
+
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB, als voorwaarde voor een veiligheidsscreening
 - Gericht literatuuronderzoek en trialregistratie voor maligne hypertensieve nierziekte
 - Een afzonderlijke veiligheidsevaluatie voor renovasculaire hypertensie en pulmonale hypertensie
+
+<!-- review:begin nl-lic-20261106-fosinopril-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen / Een afzonderlijke veiligheidsevaluatie voor renovasculaire hypertensie en pulmonale hypertensie” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-fosinopril-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “en beide Nederlandse vergunningen zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -144,6 +144,18 @@ Beoordeel interacties in de klinische praktijk aan de hand van de SmPC.
 - Gegevens over het werkingsmechanisme en de hormoonreceptorstatus van deze tumoren.
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, voor een veiligheidsbeoordeling.
 - Een beoordeling van de baten en risico's voor specifieke patiëntgroepen, met aandacht voor botgezondheid en leverfunctie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Dat de marktstatus "alleen doorgehaald" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact” | Niet meer aanwezig nadat het rapport opnieuw is gegenereerd (2026-11-12: het rapport is in november 2026 opnieuw gegenereerd en bevat de vermelding niet meer; eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

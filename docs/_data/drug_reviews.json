@@ -1,0 +1,2422 @@
+{
+ "_doc": "藥物頁人工查核紀錄（單一真實來源；2026-11-12 建，核心流程比照 TwTxGNN docs/_data/drug_reviews.json，欄位相同）。每筆＝一次查核：drug／file／claim（頁面原句）／replacement（更正後）／note（頁面上顯示的說明，本站語言）／finding（內部查證結論）／sources（網址＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 附來源段落｜rereview_result 重審結果｜header_level｜description_level）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；改寫頁面的程式結尾都會重套，scripts/check_seo_docs.py 擋未套用的紀錄。原則：基本事實照本站主管機關資料更正；模型預測原文不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新。2026-10-31～11-06 依新事實直接刪掉的矛盾子句，2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入（id 以 <站碼>-lic- 開頭）；報告在 11 月經 AI 重產、原句已不在頁面的標 status=resolved_by_regeneration。同 id 重發時前版存進 history（retired、reason），不覆蓋丟棄。",
+ "schema_version": 1,
+ "records": [
+  {
+   "id": "nl-lic-20261031-alfuzosin-1",
+   "drug": "alfuzosin",
+   "file": "alfuzosin.md",
+   "action": "correct",
+   "claim": "De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinformatie.",
+   "replacement": "De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-amylmetacresol-1",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "action": "correct",
+   "claim": "Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 8, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst."
+  },
+  {
+   "id": "nl-lic-20261106-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding. Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar.",
+   "replacement": "Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-arginine-2",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese. Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de veiligheidsscreening blokkeert.",
+   "replacement": "Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-baclofen-1",
+   "drug": "baclofen",
+   "file": "baclofen.md",
+   "action": "correct",
+   "claim": "\n- De enige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de officiële bronnen ontbreken. ",
+   "replacement": "\n- De veiligheidsgegevens uit de officiële bronnen ontbreken. ",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-bendamustine-1",
+   "drug": "bendamustine",
+   "file": "bendamustine.md",
+   "action": "correct",
+   "claim": "Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.",
+   "replacement": "Dit is relevant voor de beschikbaarheid in Nederland.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-bendamustine-2",
+   "drug": "bendamustine",
+   "file": "bendamustine.md",
+   "action": "correct",
+   "claim": "\n- De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald. Ook ontbreken de veiligheidsgegevens uit de productinformatie.",
+   "replacement": "\n- Ook ontbreken de veiligheidsgegevens uit de productinformatie.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-colchicine-1",
+   "drug": "colchicine",
+   "file": "colchicine.md",
+   "action": "correct",
+   "claim": "\n- Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).",
+   "replacement": "\n- Besluit over de vergunningsstatus in Nederland.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “(de enige vergunning is ingetrokken)”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-dapoxetine-1",
+   "drug": "dapoxetine",
+   "file": "dapoxetine.md",
+   "action": "correct",
+   "claim": " De Nederlandse vergunning is bovendien doorgehaald, en het farmacokinetische profiel past slecht bij migraineprofylaxe.",
+   "replacement": " Het farmacokinetische profiel past slecht bij migraineprofylaxe.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De Nederlandse vergunning is bovendien doorgehaald, en h”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ethambutol-1",
+   "drug": "ethambutol",
+   "file": "ethambutol.md",
+   "action": "correct",
+   "claim": "Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt.\n- Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscreening niet kan worden afgerond.",
+   "replacement": "Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscree”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ethambutol-2",
+   "drug": "ethambutol",
+   "file": "ethambutol.md",
+   "action": "correct",
+   "claim": "- Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft.\n- Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning.",
+   "replacement": "- Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ethinylestradiol-1",
+   "drug": "ethinylestradiol",
+   "file": "ethinylestradiol.md",
+   "action": "correct",
+   "claim": "Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.",
+   "replacement": "Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 11, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-felbamate-1",
+   "drug": "felbamate",
+   "file": "felbamate.md",
+   "action": "correct",
+   "claim": "- Een voorlopige afweging van de baten-risicoverhouding ten opzichte van carbamazepine en oxcarbazepine.\n- Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie.",
+   "replacement": "- Een voorlopige afweging van de baten-risicoverhouding ten opzichte van carbamazepine en oxcarbazepine.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-fludarabine-1",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "action": "correct",
+   "claim": "Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel. Bovendien is de enige Nederlandse vergunning doorgehaald.",
+   "replacement": "Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-fludarabine-2",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "action": "correct",
+   "claim": "\n- Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland, aangezien de enige vergunning in de gegevens is doorgehaald.\n",
+   "replacement": "\n- Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland.\n",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-flunitrazepam-1",
+   "drug": "flunitrazepam",
+   "file": "flunitrazepam.md",
+   "action": "correct",
+   "claim": "\n- De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.",
+   "replacement": "\n- De veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “e Nederlandse vergunning is doorgehaald en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-fosinopril-1",
+   "drug": "fosinopril",
+   "file": "fosinopril.md",
+   "action": "correct",
+   "claim": " De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie, en beide Nederlandse vergunningen zijn doorgehaald.\n",
+   "replacement": " De indicatie ligt bovendien dicht bij de bestaande hypertensie-indicatie.\n",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “en beide Nederlandse vergunningen zijn doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-fosinopril-2",
+   "drug": "fosinopril",
+   "file": "fosinopril.md",
+   "action": "correct",
+   "claim": "\n- Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen\n- Een afzonderlijke veiligheidsevaluatie voor renovasculaire hypertensie en pulmonale hypertensie",
+   "replacement": "\n- Een afzonderlijke veiligheidsevaluatie voor renovasculaire hypertensie en pulmonale hypertensie",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-fulvestrant-1",
+   "drug": "fulvestrant",
+   "file": "fulvestrant.md",
+   "action": "correct",
+   "claim": "- Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens.",
+   "replacement": "- Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-gemcitabine-1",
+   "drug": "gemcitabine",
+   "file": "gemcitabine.md",
+   "action": "correct",
+   "claim": "Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worde”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen gerandomiseerde publicaties (RCT) in de selectie opgenomen."
+  },
+  {
+   "id": "nl-lic-20261106-gemcitabine-2",
+   "drug": "gemcitabine",
+   "file": "gemcitabine.md",
+   "action": "correct",
+   "claim": "\n- De actuele registratiestatus van gemcitabine in Nederland controleren, omdat het enige gevonden product is doorgehaald\n",
+   "replacement": "\n- De actuele registratiestatus van gemcitabine in Nederland controleren\n",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “omdat het enige gevonden product is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-glatiramer-1",
+   "drug": "glatiramer",
+   "file": "glatiramer.md",
+   "action": "correct",
+   "claim": "Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend. Bovendien is de enige Nederlandse vergunning ingetrokken.",
+   "replacement": "Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-glimepiride-1",
+   "drug": "glimepiride",
+   "file": "glimepiride.md",
+   "action": "correct",
+   "claim": "Er is geen plausibel farmacologisch mechanisme. De Nederlandse registratie is bovendien ingetrokken.",
+   "replacement": "Er is geen plausibel farmacologisch mechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De Nederlandse registratie is bovendien ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-histidine-1",
+   "drug": "histidine",
+   "file": "histidine.md",
+   "action": "correct",
+   "claim": "Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is. De vergunning is doorgehaald.",
+   "replacement": "Dit is een samengesteld parenteraal voedingsproduct waarin histidine een van de bestanddelen is.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-histidine-2",
+   "drug": "histidine",
+   "file": "histidine.md",
+   "action": "correct",
+   "claim": " De enige vergunning is bovendien doorgehaald.\n- Voor de tweede voorspelling wijst het preklinische bewijs op een tegengesteld effect.",
+   "replacement": "\n- Voor de tweede voorspelling wijst het preklinische bewijs op een tegengesteld effect.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige vergunning is bovendien doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ibuprofen-1",
+   "drug": "ibuprofen",
+   "file": "ibuprofen.md",
+   "action": "correct",
+   "claim": "\n- De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken. ",
+   "replacement": "\n- Gegevens over waarschuwingen en contra-indicaties ontbreken. ",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse registratie is vervallen, en g”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-isoniazid-1",
+   "drug": "isoniazid",
+   "file": "isoniazid.md",
+   "action": "correct",
+   "claim": "De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak. Bovendien is de enige Nederlandse registratie ingetrokken.",
+   "replacement": "De relevantie beperkt zich tot conjunctivitis met tuberculeuze oorzaak.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse registratie ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-itraconazole-1",
+   "drug": "itraconazole",
+   "file": "itraconazole.md",
+   "action": "correct",
+   "claim": "Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.",
+   "replacement": "Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Er is één vergunning gevonden, en die is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-itraconazole-2",
+   "drug": "itraconazole",
+   "file": "itraconazole.md",
+   "action": "correct",
+   "claim": "\n- Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland, aangezien de enige vergunning is doorgehaald",
+   "replacement": "\n- Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “aangezien de enige vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ivermectin-1",
+   "drug": "ivermectin",
+   "file": "ivermectin.md",
+   "action": "correct",
+   "claim": "De enige bij het CBG-MEB bekende vergunning is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige bij het CBG-MEB bekende vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen van beide ondersteunt antischimmelwerking:"
+  },
+  {
+   "id": "nl-lic-20261106-ivermectin-2",
+   "drug": "ivermectin",
+   "file": "ivermectin.md",
+   "action": "correct",
+   "claim": "Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme. De enige Nederlandse vergunning is bovendien doorgehaald.",
+   "replacement": "Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-lactulose-1",
+   "drug": "lactulose",
+   "file": "lactulose.md",
+   "action": "correct",
+   "claim": "\n- Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning).\n- Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.",
+   "replacement": "\n- Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-lamivudine-1",
+   "drug": "lamivudine",
+   "file": "lamivudine.md",
+   "action": "correct",
+   "claim": "- Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv. De enige Nederlandse registratie is doorgehaald.",
+   "replacement": "- Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-latanoprost-1",
+   "drug": "latanoprost",
+   "file": "latanoprost.md",
+   "action": "correct",
+   "claim": "\n- Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland, aangezien de enige vermelde vergunning is doorgehaald",
+   "replacement": "\n- Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “aangezien de enige vermelde vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-leflunomide-1",
+   "drug": "leflunomide",
+   "file": "leflunomide.md",
+   "action": "correct",
+   "claim": "Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis. Daarnaast is de enige Nederlandse vergunning ingetrokken.",
+   "replacement": "Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-leflunomide-2",
+   "drug": "leflunomide",
+   "file": "leflunomide.md",
+   "action": "correct",
+   "claim": "- Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep\n- Verduidelijking van de status van de ingetrokken Nederlandse vergunning",
+   "replacement": "- Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Verduidelijking van de status van de ingetrokken Nederlandse vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-letrozole-1",
+   "drug": "letrozole",
+   "file": "letrozole.md",
+   "action": "correct",
+   "claim": " Dat de marktstatus \"alleen doorgehaald\" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact. De enige vergunning in de gegevens (RVG 114435) is doorgehaald, maar dit zegt niets over de beschikbaarheid van andere letrozolproducten in Nederland.",
+   "replacement": " De enige vergunning in de gegevens (RVG 114435) is doorgehaald, maar dit zegt niets over de beschikbaarheid van andere letrozolproducten in Nederland.",
+   "note": "Verwijderd: de vermelding kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Dat de marktstatus \"alleen doorgehaald\" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-12",
+   "resolved_note": "het rapport is in november 2026 opnieuw gegenereerd en bevat de vermelding niet meer"
+  },
+  {
+   "id": "nl-lic-20261106-levobupivacaine-1",
+   "drug": "levobupivacaine",
+   "file": "levobupivacaine.md",
+   "action": "correct",
+   "claim": "Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Er is momenteel geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-levobupivacaine-2",
+   "drug": "levobupivacaine",
+   "file": "levobupivacaine.md",
+   "action": "correct",
+   "claim": " Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis, en de enige Nederlandse vergunning is doorgehaald.",
+   "replacement": " Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “en de enige Nederlandse vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-levocarnitine-1",
+   "drug": "levocarnitine",
+   "file": "levocarnitine.md",
+   "action": "correct",
+   "claim": "Dit is de enige vergunning voor deze stof en de status is ingetrokken.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Dit is de enige vergunning voor deze stof en de status is ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Momenteel is er geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-levocarnitine-2",
+   "drug": "levocarnitine",
+   "file": "levocarnitine.md",
+   "action": "correct",
+   "claim": "\n- De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt. ",
+   "replacement": "\n- De veiligheidsinformatie uit de bijsluiter ontbreekt. ",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “e enige Nederlandse vergunning is ingetrokken en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-levodopa-1",
+   "drug": "levodopa",
+   "file": "levodopa.md",
+   "action": "correct",
+   "claim": "\n- Controle van de huidige beschikbaarheid van levodopa-producten in Nederland, aangezien alle geregistreerde producten in de gegevens als doorgehaald staan",
+   "replacement": "\n- Controle van de huidige beschikbaarheid van levodopa-producten in Nederland",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 10, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “aangezien alle geregistreerde producten in de gegevens als doorgehaald staan”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-liothyronine-1",
+   "drug": "liothyronine",
+   "file": "liothyronine.md",
+   "action": "correct",
+   "claim": "Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden. Bovendien is het enige Nederlandse product doorgehaald.",
+   "replacement": "Er is geen plausibel mechanisme waardoor postnatale liothyronine een structurele, prenatale nierontwikkelingsstoornis zou beïnvloeden.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-lorazepam-1",
+   "drug": "lorazepam",
+   "file": "lorazepam.md",
+   "action": "correct",
+   "claim": "Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.",
+   "replacement": "Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-mannitol-1",
+   "drug": "mannitol",
+   "file": "mannitol.md",
+   "action": "correct",
+   "claim": " Beide vergunningen zijn doorgehaald en de gegevens bevatten geen informatie over goedgekeurde indicaties.",
+   "replacement": " De gegevens bevatten geen informatie over goedgekeurde indicaties.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beide vergunningen zijn doorgehaald en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-mannitol-2",
+   "drug": "mannitol",
+   "file": "mannitol.md",
+   "action": "correct",
+   "claim": "Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie. Daarnaast zijn de Nederlandse registraties doorgehaald.",
+   "replacement": "Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast zijn de Nederlandse registraties doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-mebendazole-1",
+   "drug": "mebendazole",
+   "file": "mebendazole.md",
+   "action": "correct",
+   "claim": "- De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne. De enige Nederlandse vergunning is bovendien doorgehaald.",
+   "replacement": "- De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-meloxicam-1",
+   "drug": "meloxicam",
+   "file": "meloxicam.md",
+   "action": "correct",
+   "claim": "\n- De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsgegevens ontbreken (blokkerende datalacune).",
+   "replacement": "\n- De officiële veiligheidsgegevens ontbreken (blokkerende datalacune).",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-methadone-1",
+   "drug": "methadone",
+   "file": "methadone.md",
+   "action": "correct",
+   "claim": "Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar.",
+   "replacement": "Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4).",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-metyrapone-1",
+   "drug": "metyrapone",
+   "file": "metyrapone.md",
+   "action": "correct",
+   "claim": "- De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme. Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeert.",
+   "replacement": "- De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeer”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-midazolam-1",
+   "drug": "midazolam",
+   "file": "midazolam.md",
+   "action": "correct",
+   "claim": "- Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico\n- Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen",
+   "replacement": "- Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-moxifloxacin-1",
+   "drug": "moxifloxacin",
+   "file": "moxifloxacin.md",
+   "action": "correct",
+   "claim": "Het bewijsniveau is L5 (alleen modelvoorspelling).\n- Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samengestelde gegevens.",
+   "replacement": "Het bewijsniveau is L5 (alleen modelvoorspelling).",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samenges”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-moxifloxacin-2",
+   "drug": "moxifloxacin",
+   "file": "moxifloxacin.md",
+   "action": "correct",
+   "claim": "Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Momenteel geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-naproxen-1",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "action": "correct",
+   "claim": "Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Momenteel is er geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-naproxen-2",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "action": "correct",
+   "claim": "- De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC.",
+   "replacement": "- De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-nebivolol-1",
+   "drug": "nebivolol",
+   "file": "nebivolol.md",
+   "action": "correct",
+   "claim": "Alleen deze ene, inmiddels ingetrokken vergunning is bekend.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）",
+   "anchor": "Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn wel publicaties gevonden, maar deze zijn indirect en betreffen grotendeels andere aandoeningen (lever-, nier- en endotheelschade in diermodellen, hartfalen, hoogteverblijf). De selectie lijkt op trefwoorden te zijn gebaseerd en bevat ook niet-relevante items."
+  },
+  {
+   "id": "nl-lic-20261106-nebivolol-2",
+   "drug": "nebivolol",
+   "file": "nebivolol.md",
+   "action": "correct",
+   "claim": "- Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie\n- Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland",
+   "replacement": "- Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-octreotide-1",
+   "drug": "octreotide",
+   "file": "octreotide.md",
+   "action": "correct",
+   "claim": "Er is één vergunning, en deze is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Er is één vergunning, en deze is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Momenteel is er geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-octreotide-2",
+   "drug": "octreotide",
+   "file": "octreotide.md",
+   "action": "correct",
+   "claim": "- De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5). Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse vergunning doorgehaald.",
+   "replacement": "- De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5).",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-ofloxacin-1",
+   "drug": "ofloxacin",
+   "file": "ofloxacin.md",
+   "action": "correct",
+   "claim": "Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering. Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergunning.",
+   "replacement": "Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergun”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261031-ofloxacin-2",
+   "drug": "ofloxacin",
+   "file": "ofloxacin.md",
+   "action": "correct",
+   "claim": "Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme. Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd bij pest.",
+   "replacement": "Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-omeprazole-1",
+   "drug": "omeprazole",
+   "file": "omeprazole.md",
+   "action": "correct",
+   "claim": "De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties.\n- Beide Nederlandse registraties zijn doorgehaald.",
+   "replacement": "De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beide Nederlandse registraties zijn doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-orlistat-1",
+   "drug": "orlistat",
+   "file": "orlistat.md",
+   "action": "correct",
+   "claim": "- Beoordeling van de geschiktheid van toedieningsroutes en vergelijking met de oorspronkelijke indicatie\n- Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning",
+   "replacement": "- Beoordeling van de geschiktheid van toedieningsroutes en vergelijking met de oorspronkelijke indicatie",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-oxazepam-1",
+   "drug": "oxazepam",
+   "file": "oxazepam.md",
+   "action": "correct",
+   "claim": "\n- De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken. ",
+   "replacement": "\n- De veiligheidsgegevens uit de bijsluiter ontbreken. ",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-pantoprazole-1",
+   "drug": "pantoprazole",
+   "file": "pantoprazole.md",
+   "action": "correct",
+   "claim": "Beide registraties zijn doorgehaald. Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven.",
+   "replacement": "Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beide registraties zijn doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-pantoprazole-2",
+   "drug": "pantoprazole",
+   "file": "pantoprazole.md",
+   "action": "correct",
+   "claim": "De voorspelling is echter grotendeels bevestigend: de indicatie valt binnen het bestaande gebruik van pantoprazol.\n- De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken.",
+   "replacement": "De voorspelling is echter grotendeels bevestigend: de indicatie valt binnen het bestaande gebruik van pantoprazol.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-phenylephrine-1",
+   "drug": "phenylephrine",
+   "file": "phenylephrine.md",
+   "action": "correct",
+   "claim": "\nDe voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4), en beide Nederlandse registraties zijn doorgehaald. ",
+   "replacement": "\nDe voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4). ",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “en beide Nederlandse registraties zijn doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-povidone-1",
+   "drug": "povidone",
+   "file": "povidone.md",
+   "action": "correct",
+   "claim": " Het werkingsmechanisme is onbekend, de Nederlandse registratie is doorgehaald en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.",
+   "replacement": " Het werkingsmechanisme is onbekend en de veiligheidsscreening kan niet worden afgerond vanwege ontbrekende productinformatie.",
+   "note": "Verwijderd: de vermelding kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “d, de Nederlandse registratie is doorgehaal”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-povidone-2",
+   "drug": "povidone",
+   "file": "povidone.md",
+   "action": "correct",
+   "claim": "- Beoordelen of een geschikte toedieningsroute (bijvoorbeeld topisch op de huid) en formulering beschikbaar zijn, aangezien de oorspronkelijke toepassing oogdruppels betreft.\n- Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie.",
+   "replacement": "- Beoordelen of een geschikte toedieningsroute (bijvoorbeeld topisch op de huid) en formulering beschikbaar zijn, aangezien de oorspronkelijke toepassing oogdruppels betreft.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-prednisolone-1",
+   "drug": "prednisolone",
+   "file": "prednisolone.md",
+   "action": "correct",
+   "claim": "\n- Verduidelijking van de registratiestatus, omdat de enige Nederlandse vergunning is doorgehaald",
+   "replacement": "\n- Verduidelijking van de registratiestatus",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.\n- Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status \"doorgehaald\".",
+   "replacement": "De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status \"doorgehaald\"”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-ramipril-1",
+   "drug": "ramipril",
+   "file": "ramipril.md",
+   "action": "correct",
+   "claim": "Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.",
+   "replacement": "Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de produ”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261031-ranitidine-1",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "action": "correct",
+   "claim": "Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft. Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.",
+   "replacement": "Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-10-31"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Verwijderd: “Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：b6bb5b517（2026-10-31）"
+  },
+  {
+   "id": "nl-lic-20261106-rifampicin-1",
+   "drug": "rifampicin",
+   "file": "rifampicin.md",
+   "action": "correct",
+   "claim": "Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.",
+   "replacement": "Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Dit is de enige vergunning in Nederland en die is ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-rivastigmine-1",
+   "drug": "rivastigmine",
+   "file": "rivastigmine.md",
+   "action": "correct",
+   "claim": "De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.",
+   "replacement": "Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige bekende vergunning is ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-rivastigmine-2",
+   "drug": "rivastigmine",
+   "file": "rivastigmine.md",
+   "action": "correct",
+   "claim": "Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies. Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu niet verantwoord is.",
+   "replacement": "Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-rivastigmine-3",
+   "drug": "rivastigmine",
+   "file": "rivastigmine.md",
+   "action": "correct",
+   "claim": "\n- Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is\n- Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties",
+   "replacement": "\n- Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-selenium-1",
+   "drug": "selenium",
+   "file": "selenium.md",
+   "action": "correct",
+   "claim": "Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.",
+   "replacement": "Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-selenium-2",
+   "drug": "selenium",
+   "file": "selenium.md",
+   "action": "correct",
+   "claim": "\n- Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is, omdat de huidige vergunning is doorgehaald",
+   "replacement": "\n- Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “omdat de huidige vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-sotalol-1",
+   "drug": "sotalol",
+   "file": "sotalol.md",
+   "action": "correct",
+   "claim": "De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs. De enige Nederlandse registratie is doorgehaald.",
+   "replacement": "De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tapentadol-1",
+   "drug": "tapentadol",
+   "file": "tapentadol.md",
+   "action": "correct",
+   "claim": "Opioïden worden bij migraine bovendien in het algemeen afgeraden. De enige Nederlandse registratie is doorgehaald.",
+   "replacement": "Opioïden worden bij migraine bovendien in het algemeen afgeraden.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tetrabenazine-1",
+   "drug": "tetrabenazine",
+   "file": "tetrabenazine.md",
+   "action": "correct",
+   "claim": "- De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie. Bovendien is de enige Nederlandse vergunning doorgehaald.",
+   "replacement": "- De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-thiopental-1",
+   "drug": "thiopental",
+   "file": "thiopental.md",
+   "action": "correct",
+   "claim": "Er is één registratie bij het CBG-MEB en deze is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Er is één registratie bij het CBG-MEB en deze is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Momenteel is er geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-threonine-1",
+   "drug": "threonine",
+   "file": "threonine.md",
+   "action": "correct",
+   "claim": "Beide onderstaande vergunningen zijn ingetrokken. Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.",
+   "replacement": "Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de beschikbare gegevens.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beide onderstaande vergunningen zijn ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-travoprost-1",
+   "drug": "travoprost",
+   "file": "travoprost.md",
+   "action": "correct",
+   "claim": "- De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.",
+   "replacement": "- De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tretinoin-1",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "Beide registraties bij het CBG-MEB zijn doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-tropicamide-1",
+   "drug": "tropicamide",
+   "file": "tropicamide.md",
+   "action": "correct",
+   "claim": "- **Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.",
+   "replacement": "- **Prikkelbare darmsyndroom** (score 0,9912).",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleit”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tropicamide-2",
+   "drug": "tropicamide",
+   "file": "tropicamide.md",
+   "action": "correct",
+   "claim": "Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB)”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "Er is momenteel geen gerelateerde literatuur beschikbaar."
+  },
+  {
+   "id": "nl-lic-20261106-tropicamide-3",
+   "drug": "tropicamide",
+   "file": "tropicamide.md",
+   "action": "correct",
+   "claim": " De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.",
+   "replacement": " De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “en de enige Nederlandse registratie is ingetrokken”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tyrosine-1",
+   "drug": "tyrosine",
+   "file": "tyrosine.md",
+   "action": "correct",
+   "claim": "Tyrosine is een aminozuur dat in de Nederlandse registratie alleen voorkomt als onderdeel van een parenterale voedingsemulsie (OLIMEL N7), die inmiddels is doorgehaald. Het TxGNN-model voorspelt een mogelijk effect bij **cauda equina-syndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling is puur computationeel.",
+   "replacement": "Het TxGNN-model voorspelt een mogelijk effect bij **cauda equina-syndroom**, maar hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de voorspelling is puur computationeel.",
+   "note": "Verwijderd: de vermelding kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Tyrosine is een aminozuur dat in de Nederlandse registratie alleen voorkomt als onderdeel van een parenterale voedingsemulsie (OLIMEL N7), d”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-tyrosine-2",
+   "drug": "tyrosine",
+   "file": "tyrosine.md",
+   "action": "correct",
+   "claim": "Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs. Bovendien is de enige Nederlandse registratie doorgehaald.",
+   "replacement": "Ook voor de overige voorspelde indicaties ontbreekt overtuigend bewijs.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse registratie doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-urofollitropin-1",
+   "drug": "urofollitropin",
+   "file": "urofollitropin.md",
+   "action": "correct",
+   "claim": "Er is uitsluitend een modelvoorspelling (L5) zonder klinische studies, zonder literatuur en zonder aannemelijk mechanisme. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de CBG-MEB-bijsluiter, waardoor veiligheidsscreening nog niet mogelijk is.",
+   "replacement": "Er is uitsluitend een modelvoorspelling (L5) zonder klinische studies, zonder literatuur en zonder aannemelijk mechanisme.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de CBG-MEB-bijsluiter, waardoor veiligheids”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-valine-1",
+   "drug": "valine",
+   "file": "valine.md",
+   "action": "correct",
+   "claim": "Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland alleen nog voorkwam in een inmiddels doorgehaald infuusvoedingsproduct. Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**.",
+   "replacement": "Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangitis**.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Valine is een essentieel aminozuur (vertakteketenaminozuur) dat in Nederland alleen nog voorkwam in een inmiddels doorgehaald infuusvoedings”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-vecuronium-1",
+   "drug": "vecuronium",
+   "file": "vecuronium.md",
+   "action": "correct",
+   "claim": "Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.",
+   "replacement": "Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  },
+  {
+   "id": "nl-lic-20261106-zolmitriptan-1",
+   "drug": "zolmitriptan",
+   "file": "zolmitriptan.md",
+   "action": "correct",
+   "claim": "De enige bekende vergunning is doorgehaald.",
+   "replacement": "",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “De enige bekende vergunning is doorgehaald”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）",
+   "anchor": "De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Geen enkele publicatie onderzoekt specifiek migraine met hersenstamaura."
+  },
+  {
+   "id": "nl-lic-20261106-zolmitriptan-2",
+   "drug": "zolmitriptan",
+   "file": "zolmitriptan.md",
+   "action": "correct",
+   "claim": "- Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico.\n- Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.",
+   "replacement": "- Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico.",
+   "note": "Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-06"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning”",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
+  }
+ ]
+}

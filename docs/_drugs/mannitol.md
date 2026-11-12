@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Mannitol: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (bewijsniveau L5). Oorspronkelijke indicatie: Congestief hartfalen, hersenoedeem, oculaire hypertensie…"
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
@@ -86,6 +86,12 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd. De gegevens bevatten geen informatie over goedgekeurde indicaties.
 
+<!-- review:begin nl-lic-20261106-mannitol-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide vergunningen zijn doorgehaald en de gegevens bevatten geen informatie over goedgekeurde indicaties.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-mannitol-1 -->
+
 ---
 
 ## Overwegingen rond veiligheid
@@ -108,12 +114,32 @@ Raadpleeg voor de officiële veiligheidsinformatie de SmPC en de bijsluiter (CBG
 **Onderbouwing:**
 Het bewijs bestaat alleen uit een modelvoorspelling (L5) zonder klinische studies of mannitolspecifieke literatuur. Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie.
 
+<!-- review:begin nl-lic-20261106-mannitol-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Mechanistisch bestaat bovendien het risico op verergering van hyponatriëmie. Daarnaast zijn de Nederlandse registraties doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-mannitol-2 -->
+
 **Om verder te gaan is nodig:**
 - Productteksten (SmPC/bijsluiter) van CBG-MEB voor waarschuwingen en contra-indicaties; dit blokkeert de veiligheidsscreening
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Controle van de vergunningsgegevens (RVG 108589 lijkt een ander geneesmiddel te betreffen)
 - Preklinisch of mechanistisch onderzoek dat een plausibele werking bij NSIAD aantoont
 - Een beoordeling of andere voorspelde indicaties met meer literatuur (bijv. acuut pulmonaal hartlijden) een betere kandidaat zijn
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Beide vergunningen zijn doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast zijn de Nederlandse registraties doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

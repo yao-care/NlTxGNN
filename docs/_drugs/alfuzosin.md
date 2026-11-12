@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Alfuzosin: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie"
 monitor_inn: "alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -90,12 +90,31 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie: ra
 **Onderbouwing:**
 De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme.
 
+<!-- review:begin nl-lic-20261031-alfuzosin-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-alfuzosin-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de officiële productinformatie van het CBG-MEB (de SmPC), nodig voordat een veiligheidsbeoordeling mogelijk is
 - Gegevens over het werkingsmechanisme van alfuzosine uit DrugBank
 - Een biologisch onderbouwde hypothese voor een verband met de voorspelde aandoening, bijvoorbeeld via preklinisch onderzoek
 - Beoordeling van de relevantie van de aandoening: zeer zeldzaam, met beperkte behandelbehoefte en met beschikbare alternatieven in sommige van de andere voorspelde indicaties
 - Bij eventuele voortzetting een actuele registratie- en beschikbaarheidsstatus in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

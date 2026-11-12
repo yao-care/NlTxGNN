@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 288
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -60,6 +60,12 @@ Zweren ontstaan mede doordat zuur en pepsine de slijmvliesbescherming overstemme
 
 Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.
 
+<!-- review:begin nl-lic-20261031-ranitidine-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft. Verdere ontwikkeling voor deze indicatie is daardoor beperkt zinvol.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-ranitidine-1 -->
+
 ## Klinisch studiebewijs
 
 Momenteel geen gerelateerde klinische studies geregistreerd.
@@ -112,6 +118,19 @@ Raadpleeg voor de volledige veiligheidsinformatie (waarschuwingen en contra-indi
 - Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank.
 - Beoordeling van het directe klinische bewijs voor ranitidine zelf, apart van studies met andere middelen.
 - Besluit over de relevantie van de ingetrokken vergunning, bijvoorbeeld of herintroductie of een alternatieve H2-antagonist aan de orde is.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

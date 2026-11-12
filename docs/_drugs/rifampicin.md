@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 290
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -99,6 +99,12 @@ Er zijn 19 publicaties gevonden. Hieronder staan de meest relevante. Alleen de s
 
 Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
 
+<!-- review:begin nl-lic-20261106-rifampicin-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-rifampicin-1 -->
+
 ---
 
 ## Veiligheidsaspecten
@@ -138,6 +144,19 @@ Rifampicine is een sterke enzyminductor. Daardoor kan het de bloedspiegels van v
 - Moderne, gecontroleerde klinische gegevens voor lokale rifampicine bij bacteriële of chlamydiale conjunctivitis, inclusief vergelijking met de huidige standaardbehandeling
 - Een beoordeling van de meerwaarde ten opzichte van bestaande oogantibiotica en van het resistentierisico, met name voor de tuberculosebehandeling
 - Een beoordeling van de haalbaarheid van een lokale toedieningsvorm (oogzalf of oogdruppels), gezien de huidige marktstatus
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning in Nederland en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

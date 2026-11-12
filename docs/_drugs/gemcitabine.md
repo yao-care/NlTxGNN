@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -89,6 +89,12 @@ Hieronder staan de meest relevante studies voor borstkanker. De samenvattingen z
 
 Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen gerandomiseerde publicaties (RCT) in de selectie opgenomen.
 
+<!-- review:begin nl-lic-20261106-gemcitabine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-gemcitabine-1 -->
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
 | [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park) | Gemcitabine en paclitaxel zijn actief bij gemetastaseerde borstkanker; responspercentage in fase II-studies 52% (114 van 221 patiënten) |
@@ -149,6 +155,12 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC en de bijsl
 - Mechanistische gegevens (DrugBank) aanvullen
 - Een veiligheidsmonitoringplan opstellen, met aandacht voor bloedbeeld en lever- en nierfunctie
 
+<!-- review:begin nl-lic-20261106-gemcitabine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De actuele registratiestatus van gemcitabine in Nederland controleren, omdat het enige gevonden product is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-gemcitabine-2 -->
+
 ---
 
 ## Overige voorspelde indicaties (ter informatie)
@@ -166,6 +178,19 @@ Het model voorspelt nog negen andere indicaties met een hoge score. Het bewijs d
 | Mucineus adenocarcinoom van de galblaas | 0,9975 | L5 | Hold |
 | Adenocarcinoom van de rete ovarii | 0,9973 | L5 | Hold |
 | Mucinerijk endometrioïd adenocarcinoom van het endometrium | 0,9973 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worde” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “omdat het enige gevonden product is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

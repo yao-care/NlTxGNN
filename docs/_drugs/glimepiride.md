@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Glimepiride: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Type 2-diabetes mellitus"
 monitor_inn: "Glimepiride"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -126,12 +126,31 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 **Onderbouwing:**
 - Er is alleen een modelvoorspelling (L5) zonder klinische studies of relevante literatuur, en het voorspelde verband is waarschijnlijk een artefact van comorbiditeit met diabetes. Er is geen plausibel farmacologisch mechanisme.
 
+<!-- review:begin nl-lic-20261106-glimepiride-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen plausibel farmacologisch mechanisme. De Nederlandse registratie is bovendien ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-glimepiride-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - SmPC-informatie van het CBG-MEB over waarschuwingen en contra-indicaties (ontbreekt nu en blokkeert de veiligheidsscreening)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of mechanistisch bewijs voor een effect op GABAerge neurotransmissie of auto-immuniteit
 - Een gerichte literatuur- en trialzoekactie voor stiff-person-spectrumaandoeningen
 - Heroverweging van de voorspelling met uitsluiting van comorbiditeit met diabetes als confounder
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De Nederlandse registratie is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

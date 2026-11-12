@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Vecuronium: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbr…"
 monitor_inn: "Vecuronium"
 predicted_indications: ["insomnia (disease)", "irritable bowel syndrome"]
@@ -107,11 +107,30 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadple
 **Onderbouwing:**
 - Er is alleen een modelvoorspelling (L5), zonder relevante klinische studies of literatuur. Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid.
 
+<!-- review:begin nl-lic-20261106-vecuronium-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-vecuronium-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Een aanvullende analyse van de waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (de veiligheidsscreening kan hier nu niet op worden gebaseerd)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Een plausibele farmacologische hypothese; zonder die hypothese wordt verder onderzoek niet aanbevolen
 - Een beoordeling van de route- en toedieningscompatibiliteit en de huidige vergunningsstatus
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -128,6 +128,12 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 - Een plan voor veiligheidsmonitoring bij pulstherapie, vooral bij kinderen
 - Verduidelijking van de registratiestatus
 
+<!-- review:begin nl-lic-20261106-prednisolone-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Verduidelijking van de registratiestatus, omdat de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-prednisolone-1 -->
+
 ---
 
 ## Overige voorspelde indicaties (kort overzicht)
@@ -142,6 +148,18 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 | 7 | Alopecia-verstandelijke beperking-hypergonadotroop hypogonadisme-syndroom | 0,9998 | L5 | Hold | Zeldzaam genetisch syndroom |
 | 8 | Atrichia met papuleuze laesies | 0,9994 | L5 | Hold | Genetische oorzaak, geen plausibel mechanisme |
 | 9 | Prolaps van de traanklier | 0,9994 | L5 | Hold | Structureel probleem, chirurgisch behandeld |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

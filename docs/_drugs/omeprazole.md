@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -122,6 +122,12 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 **Onderbouwing:**
 - Het bewijs voor duodenogastrische reflux bestaat uit kleine klinische studies en dierstudies, met een mogelijk veiligheidssignaal. De enige geregistreerde studie is een diagnostische studie. De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties.
 
+<!-- review:begin nl-lic-20261106-omeprazole-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties. / Beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-omeprazole-1 -->
+
 **Om verder te gaan is nodig:**
 - Productteksten (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties, nodig voor veiligheidsscreening
 - Gegevens over het werkingsmechanisme
@@ -134,6 +140,19 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 ## Aanvullende kandidaat-indicatie: duodenumobstructie (kort)
 
 Voor **duodenumobstructie** (TxGNN-score 0,9964) is het bewijsniveau **L5** en de beslissing **Hold**. Er is geen duidelijk mechanistisch verband: obstructie is een mechanisch of structureel probleem dat endoscopisch of chirurgisch wordt behandeld, en zuuronderdrukking behandelt de obstructie zelf niet. Er zijn geen publicaties. De gekoppelde studie [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) (fase 3, beëindigd, 5000 deelnemers; clopidogrel met omeprazol versus clopidogrel ter voorkoming van bovenste maag-darmbloedingen) onderzoekt deze indicatie niet en is waarschijnlijk een koppelingsartefact.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

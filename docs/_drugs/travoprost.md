@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 description: "Travoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -92,11 +92,30 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Onderbouwing:**
 - De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt.
 
+<!-- review:begin nl-lic-20261106-travoprost-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-travoprost-1 -->
+
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een onderbouwd biologisch verband met calciphylaxie.
 - Preklinisch of klinisch bewijs bij de voorspelde indicatie.
 - De SmPC/bijsluiter van het CBG-MEB voor een volledige veiligheidsbeoordeling.
 - Beoordeling van de toedieningsroute, aangezien een systemische formulering nodig zou zijn.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

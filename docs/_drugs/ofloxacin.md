@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -63,6 +63,12 @@ Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde d
 Pest wordt veroorzaakt door *Yersinia pestis*, een gramnegatieve bacterie. Het mechanisme van ofloxacine is dus biologisch plausibel. In vitro-studies tonen aan dat ofloxacine zeer actief is tegen *Y. pestis* (MIC90 < 0,03 µg/ml, PMID 8913481). Dierstudies bij muizen laten werkzaamheid zien bij experimentele pest.
 
 Belangrijke kanttekening: fluorochinolonen worden als klasse al gebruikt bij pest. Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering.
+
+<!-- review:begin nl-lic-20261031-ofloxacin-1 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering. Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-ofloxacin-1 -->
 
 De overige voorspellingen met hoge scores (o.a. polyclonaal hyperviscositeitssyndroom, hyperamylasemie, congenitale analbuminemie, monoklonale gammopathie) hebben geen aannemelijk mechanisme en geen bruikbaar bewijs. Het enige gekoppelde artikel bij bloedgroepincompatibiliteit en monoklonale gammopathie betreft een niet-relevant microbiologisch onderwerp respectievelijk een casus van discitis; dit lijken toevallige associaties.
 
@@ -130,12 +136,32 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn in de v
 **Onderbouwing:**
 - Voor septische pest bestaat uitsluitend in vitro- en dierexperimenteel bewijs (L4); er zijn geen klinische studies bij mensen. Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme.
 
+<!-- review:begin nl-lic-20261031-ofloxacin-2 -->
+
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme. Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd bij pest.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261031-ofloxacin-2 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Formele veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (blokkerende datalacune)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Vergelijking met ciprofloxacine, levofloxacine en de huidige standaardbehandeling bij pest
 - Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige vergunning betreft oogdruppels; voor systemische pest zijn orale of intraveneuze vormen nodig)
 - Veiligheidsbeoordeling voor risicogroepen (QT-verlenging, pees- en zenuwaandoeningen, nier- en leverfunctie)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-10-31 | Verwijderd: “Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergun” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

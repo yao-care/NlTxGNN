@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Tetrabenazine: voorspelde nieuwe indicatie Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Huntington (en aanverwante syndrom…"
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
@@ -106,11 +106,30 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Onderbouwing:**
 - De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie.
 
+<!-- review:begin nl-lic-20261106-tetrabenazine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-tetrabenazine-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme uit DrugBank.
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-productinformatie (SmPC). Deze ontbreken nu, waardoor een veiligheidsscreening niet kan worden uitgevoerd.
 - Preklinisch of mechanistisch bewijs dat een verband tussen VMAT2-remming en de GANAB-gerelateerde ziekte aannemelijk maakt.
 - Opheldering van de huidige vergunningsstatus in Nederland en, indien relevant, de beschikbare toedieningsvormen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

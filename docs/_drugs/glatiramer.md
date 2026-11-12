@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Glatiramer: voorspelde nieuwe indicatie Hemoglobinopathie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (volgens algemene kennis: m…"
 monitor_inn: "glatiramer"
 predicted_indications: ["hemoglobinopathy"]
@@ -103,12 +103,31 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 **Onderbouwing:**
 - De voorspelling berust alleen op een modelscore (bewijsniveau L5). Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend.
 
+<!-- review:begin nl-lic-20261106-glatiramer-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend. Bovendien is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-glatiramer-1 -->
+
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank) om een mechanistische link met hemoglobinopathie te beoordelen.
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, zodat de veiligheidsscreening kan worden uitgevoerd (momenteel een blokkerende lacune).
 - Vastlegging van de oorspronkelijke indicatie(s) en de toedieningsvorm uit de vergunningsgegevens.
 - Preklinisch of klinisch bewijs voor glatiramer bij hemoglobinopathie, en een beoordeling van de toedieningsroute.
 - Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

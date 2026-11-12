@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 233
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "midazolam"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -121,6 +121,25 @@ Raadpleeg voor volledige waarschuwingen de SmPC en bijsluiter (CBG-MEB), aangezi
 - Bijsluiter-/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico
+
+<!-- review:begin nl-lic-20261106-midazolam-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico / Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-midazolam-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

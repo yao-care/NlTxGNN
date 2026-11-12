@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Levodopa: voorspelde nieuwe indicatie Rasmussen-encefalitis (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Parkinson en verwante parkinsonsyndromen"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -123,6 +123,25 @@ Epilepsie op deze lijst is extra relevant, omdat Rasmussen-encefalitis gepaard g
 - Een systematisch literatuuronderzoek naar levodopa bij Rasmussen-encefalitis en bij bewegingsstoornissen bij focale encefalitis
 - Beoordeling van de aanvalsrisico's bij patiënten met epilepsie
 - Controle van de huidige beschikbaarheid van levodopa-producten in Nederland
+
+<!-- review:begin nl-lic-20261106-levodopa-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Controle van de huidige beschikbaarheid van levodopa-producten in Nederland, aangezien alle geregistreerde producten in de gegevens als doorgehaald staan” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 10, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-levodopa-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “aangezien alle geregistreerde producten in de gegevens als doorgehaald staan” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

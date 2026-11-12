@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ethambutol: voorspelde nieuwe indicatie Epiglottitis (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale tuberculose"
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
@@ -104,10 +104,36 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenva
 **Onderbouwing:**
 - Het bewijs bestaat uit één retrospectieve patiëntenreeks over larynxtuberculose; dit is gebruik van ethambutol bij tuberculose op een andere anatomische plaats, geen echte herpositionering. Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt.
 
+<!-- review:begin nl-lic-20261106-ethambutol-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt. / Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ethambutol-1 -->
+
 **Om verder te gaan is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en de waarschuwingen en contra-indicaties analyseren.
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank).
 - Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft.
+
+<!-- review:begin nl-lic-20261106-ethambutol-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft. / Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ethambutol-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscree” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

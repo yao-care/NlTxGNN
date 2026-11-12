@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -78,6 +78,12 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261106-tretinoin-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-tretinoin-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -137,6 +143,19 @@ Daarnaast zijn er interacties met onbekend niveau gemeld, o.a. met calcitriol, p
 - Preklinisch of mechanistisch onderzoek naar het verband tussen retinoïdesignalering en nodulaire reumatoïde ontsteking
 - Een grondige veiligheidsbeoordeling (teratogeniteit, skeletale toxiciteit, interacties) vóór eventuele verdere overweging
 - Beoordeling van de vraag welke toedieningsroute nodig zou zijn en of een product daarvoor beschikbaar of herregistreerbaar is
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

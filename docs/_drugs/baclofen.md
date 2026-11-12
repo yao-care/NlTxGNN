@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Baclofen: voorspelde nieuwe indicatie ADHD (attention deficit-hyperactivity disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Spasticiteit (algemeen bekend gebruik"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -136,12 +136,31 @@ Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs
 - De voorspelling voor ADHD is alleen gebaseerd op het model (L5). Er zijn geen klinische studies en geen publicaties over baclofen bij ADHD.
 - De veiligheidsgegevens uit de officiële bronnen ontbreken. Een veiligheidsscreening is daarom nog niet mogelijk.
 
+<!-- review:begin nl-lic-20261106-baclofen-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de officiële bronnen ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-baclofen-1 -->
+
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC van CBG-MEB.
 - Gegevens over het werkingsmechanisme van baclofen uit DrugBank.
 - Preklinisch of klinisch onderzoek dat baclofen rechtstreeks bij ADHD onderzoekt.
 - Beoordeling van het risico bij psychiatrische comorbiditeit en epilepsie, gezien de score van het TxGNN-model (deep learning); deze score kan gelijkenissen tussen verwante aandoeningen weerspiegelen die het model heeft geleerd, en is geen biologisch bewijs.
 - Voor nicotineafhankelijkheid: een adequaat opgezette fase 2/3-studie naar werkzaamheid bij rookstop.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

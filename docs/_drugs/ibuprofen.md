@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ibuprofen: voorspelde nieuwe indicatie Acromesomelische dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, artrose, juveniele idiopathische artritis…"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -114,12 +114,31 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. 
 - De voorspelling berust alleen op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur en zonder aannemelijk mechanistisch verband met de onderliggende genetische oorzaak.
 - Gegevens over waarschuwingen en contra-indicaties ontbreken. Daardoor kan de veiligheidsscreening niet worden afgerond.
 
+<!-- review:begin nl-lic-20261106-ibuprofen-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-ibuprofen-1 -->
+
 **Om verder te gaan is nodig:**
 - Bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen en verwerken.
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank.
 - Preklinisch of mechanistisch bewijs verzamelen dat COX-remming relevant is voor de ziekte.
 - Beoordelen of symptomatisch gebruik (pijnbestrijding) klinisch zinvol en veilig is, met aandacht voor kinderen en zwangerschap.
 - De actuele marktstatus en beschikbare toedieningsvormen in Nederland verifiëren.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is vervallen, en g” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

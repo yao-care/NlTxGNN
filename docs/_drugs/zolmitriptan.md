@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -76,6 +76,12 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Geen enkele publicatie onderzoekt specifiek migraine met hersenstamaura.
 
+<!-- review:begin nl-lic-20261106-zolmitriptan-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-zolmitriptan-1 -->
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
 | [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | Bijgewerkte beoordeling van het bewijs voor farmacologische behandelingen van acute migraine (American Headache Society) |
@@ -127,6 +133,26 @@ Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samen
 - Gegevens over het werkingsmechanisme uit DrugBank aanvullen.
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB ophalen (blokkerende gegevenslacune voor de veiligheidsscreening).
 - Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico.
+
+<!-- review:begin nl-lic-20261106-zolmitriptan-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico. / Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-zolmitriptan-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

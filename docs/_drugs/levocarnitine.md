@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Levocarnitine"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
 description: "Levocarnitine: voorspelde nieuwe indicatie Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
@@ -74,6 +74,12 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 Momenteel is er geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261106-levocarnitine-1 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning voor deze stof en de status is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-levocarnitine-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -101,6 +107,12 @@ Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicatie
 - De voorspelling berust alleen op het model (L5). Er zijn geen studies of publicaties, en er is geen plausibel mechanisme voor een verband tussen carnitine en een COL4A1-gerelateerde vaatziekte.
 - De veiligheidsinformatie uit de bijsluiter ontbreekt. De veiligheidsscreening kan daarom niet worden voortgezet.
 
+<!-- review:begin nl-lic-20261106-levocarnitine-2 -->
+
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261106-levocarnitine-2 -->
+
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB ophalen en verwerken, zodat waarschuwingen en contra-indicaties beschikbaar komen.
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld uit DrugBank).
@@ -108,6 +120,20 @@ Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicatie
 - Preklinisch of mechanistisch bewijs zoeken voor een verband met COL4A1-biologie. Zonder zulk bewijs is verdere ontwikkeling voor deze indicatie niet zinvol.
 
 **Aanvullende opmerking over andere voorspellingen:** onder de andere voorspelde indicaties voor levocarnitine heeft **congestief hartfalen** (score 0,9947) het sterkste bewijs. Daarvoor is een afgeronde fase 2/3-studie (NCT01580553, 268 deelnemers, L-carnitine-injectie versus placebo) en er zijn meerdere klinische studies naar de hartfunctie. De resultaten van die studies zijn in de gegevens niet vermeld en veel publicaties betreffen specifieke groepen, zoals hemodialysepatiënten. Een afzonderlijke beoordeling van deze indicatie, met de beslissing "Proceed with Guardrails", lijkt veel zinvoller dan voortzetting van de huidige hoofdvoorspelling.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning voor deze stof en de status is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is ingetrokken en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

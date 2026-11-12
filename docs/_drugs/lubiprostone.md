@@ -49,7 +49,7 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia**, maar er zi
 | Voorspelde nieuwe indicatie | Alopecia |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold |
 

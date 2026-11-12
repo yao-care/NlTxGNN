@@ -50,7 +50,7 @@ Chlordiazepoxide is een benzodiazepine met een kalmerend en angstremmend effect.
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold |
 

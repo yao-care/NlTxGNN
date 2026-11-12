@@ -48,7 +48,7 @@ Ranitidine is een H2-receptorantagonist (zuurremmer) die oorspronkelijk wordt ge
 | Voorspelde nieuwe indicatie | Peptic ulcer perforation |
 | TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold |
 

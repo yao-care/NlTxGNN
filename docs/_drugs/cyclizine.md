@@ -48,7 +48,7 @@ Cyclizine is een eerstegeneratie H1-antihistaminicum. Het TxGNN-model voorspelt 
 | Voorspelde nieuwe indicatie | Allergische urticaria (allergic urticaria) |
 | TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold (afwachten) |
 

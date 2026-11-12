@@ -52,7 +52,7 @@ Het TxGNN-model voorspelt als hoogst gerangschikte uitkomst een zeer zeldzaam sk
 | TxGNN-voorspellingsscore (rang 1) | 1.0000 |
 | Bewijsniveau (rang 1) | L5 |
 | Beste voorspelling met bewijs | Juveniele idiopathische artritis (score 0.9993, bewijsniveau L3) |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold (voor rang 1); JIA: onderzoeksvraag |
 

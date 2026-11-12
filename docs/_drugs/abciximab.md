@@ -43,7 +43,7 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 | Drug (INN) | Abciximab |
 | DrugBank ID | [DB00054](https://go.drugbank.com/drugs/DB00054) |
 | Oorspronkelijke Indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aantal Autorisaties | 0 |
 

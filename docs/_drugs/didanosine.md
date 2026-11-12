@@ -50,7 +50,7 @@ Didanosine is een nucleoside-reverse-transcriptaseremmer (NRTI) die wordt gebrui
 | Voorspelde nieuwe indicatie | feline acquired immunodeficiency syndrome (feline acquired immunodeficiency syndrome) |
 | TxGNN-voorspellingsscore | 0,9933 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Marktstatus in Nederland | Niet in de handel (niet geregistreerd: 1 van 1) |
 | Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold |
 

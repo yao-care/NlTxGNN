@@ -439,6 +439,31 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：e246792bc（2026-11-06）"
   },
   {
+   "id": "nl-row-20261112-felbamate-1",
+   "drug": "felbamate",
+   "file": "felbamate.md",
+   "action": "correct",
+   "claim": "| RVG 119849//16889 (doorgehaald) | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |",
+   "replacement": "| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |",
+   "note": "Gecorrigeerd: registratienummer RVG 119849//16889 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “doorgehaald” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht.",
+   "finding": "2026-11-12 表格列狀態檢查（母 repo check_drug_page.py --row-status）：LLM 寫的表格列把 RVG 119849//16889 標成 doorgehaald，但它在 CBG 現行 metadata.csv（2026-11-12 下載）上、事實層為有效；拿掉錯誤的狀態註記",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-12"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "checked": "2026-11-12",
+   "summary": "Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven)",
+   "method": "2026-11-12 人工查核（表格列狀態對 CBG 現行登記）"
+  },
+  {
    "id": "nl-lic-20261106-fludarabine-1",
    "drug": "fludarabine",
    "file": "fludarabine.md",
@@ -8898,6 +8923,31 @@
    "checked": "2026-11-12",
    "summary": "Tabelregel RVG 57532: “geldig” → “niet geregistreerd”",
    "method": "2026-11-12 人工查核（表格列對 CBG 現行登記）"
+  },
+  {
+   "id": "nl-row-20261112-levetiracetam-1",
+   "drug": "levetiracetam",
+   "file": "levetiracetam.md",
+   "action": "correct",
+   "claim": "| RVG 118335 (ingetrokken) | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |",
+   "replacement": "| RVG 118335 | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |",
+   "note": "Gecorrigeerd: registratienummer RVG 118335 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “ingetrokken” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht.",
+   "finding": "2026-11-12 表格列狀態檢查（母 repo check_drug_page.py --row-status）：LLM 寫的表格列把 RVG 118335 標成 ingetrokken，但它在 CBG 現行 metadata.csv（2026-11-12 下載）上、事實層為有效；拿掉錯誤的狀態註記",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-12"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "checked": "2026-11-12",
+   "summary": "Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven)",
+   "method": "2026-11-12 人工查核（表格列狀態對 CBG 現行登記）"
   }
  ]
 }

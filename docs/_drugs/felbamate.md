@@ -73,7 +73,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119849//16889 (doorgehaald) | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |
+| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |
+
+<!-- review:begin nl-row-20261112-felbamate-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119849//16889 (doorgehaald) / Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik / Suspensie voor oraal gebruik / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 119849//16889 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “doorgehaald” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-row-20261112-felbamate-1 -->
 
 Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning). Het middel is op de markt.
 
@@ -113,6 +119,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

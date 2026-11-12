@@ -93,8 +93,13 @@ Selectie van de meest relevante publicaties (alle algemene aanvalspopulaties):
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118335 (ingetrokken) | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |
+| RVG 118335 | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |
 
+<!-- review:begin nl-row-20261112-levetiracetam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118335 (ingetrokken) / Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie / Concentraat voor oplossing voor infusie / Geen indicatietekst beschikbaar” Gecorrigeerd: registratienummer RVG 118335 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “ingetrokken” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-row-20261112-levetiracetam-1 -->
 
 ---
 
@@ -143,6 +148,19 @@ Bij status epilepticus tonen de fase 3-studie ESETT (NCT01960075; [PMID 31774955
 - Gerichte literatuur- of studiegegevens over fotosensitieve epilepsie (bijvoorbeeld studies met fotische stimulatie; voor het verwante SV2A-middel seletracetam bestaat een fase 2-studie)
 - Verificatie van de actuele vergunningsstatus van levetiracetam-producten in Nederland
 - Voor status epilepticus: een afzonderlijke beoordeling als prioritaire kandidaat (Proceed with Guardrails)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

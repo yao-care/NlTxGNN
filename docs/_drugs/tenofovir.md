@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tenofovir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tenofovir is een nucleotide-reverse-transcriptaseremmer die oorspronkelijk wordt
 | Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome |
 | TxGNN-voorspellingsscore | 0.9996 |
 | Bewijsniveau | L5 (alleen preklinisch diermodelbewijs; geen klinische studies) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 **Overige voorspellingen in de data:**
@@ -115,8 +115,13 @@ Voor de derde voorspelling is geen literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-tenofovir-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117135 / Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 117135 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tenofovir-2 -->
 
 ---
 
@@ -139,13 +144,33 @@ Voor gevalideerde waarschuwingen, contra-indicaties en interacties raadpleegt u 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Het bewijs is uitsluitend preklinisch (katten en makaken), zonder geregistreerde klinische studies. De humane toepassing (hiv) is al gevestigd, dus er is geen nieuwe humane indicatie. De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing.
+- Het bewijs is uitsluitend preklinisch (katten en makaken), zonder geregistreerde klinische studies. De humane toepassing (hiv) is al gevestigd, dus er is geen nieuwe humane indicatie.
+
+<!-- review:begin nl-lic-20261112-tenofovir-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De humane toepassing (hiv) is al gevestigd, dus er is geen nieuwe humane indicatie. De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tenofovir-1 -->
 
 **Om verder te gaan is nodig:**
 - Beoordeling van de veiligheidsgegevens uit de SmPC/bijsluiter van het CBG-MEB (nu een blokkerende lacune voor de veiligheidsscreening)
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - Bepalen of de vraag veterinair (kattenaids) onderzocht moet worden; hiervoor is beoordeling door diergeneeskundige instanties nodig, niet via het humane CBG-MEB-kader
 - Voor de derde voorspelling: mechanistische onderbouwing en onafhankelijke data voordat verdere stappen worden overwogen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117135: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

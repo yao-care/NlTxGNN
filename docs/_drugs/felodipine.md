@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Felodipine: voorspelde nieuwe indicatie Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (pulmonary hypertension with unclear multifactorial me… (bewijsniveau L5). Oorspronkelijke ind…"
 ---
 
@@ -50,8 +50,8 @@ maar er zijn voor deze indicatie **geen geregistreerde klinische studies** en **
 | Voorspelde nieuwe indicatie | Pulmonale hypertensie met onduidelijk multifactorieel mechanisme (pulmonary hypertension with unclear multifactorial mechanism) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

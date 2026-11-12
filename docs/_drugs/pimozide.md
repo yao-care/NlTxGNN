@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 270
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Pimozide"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Pimozide: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Pimozide is een dopamine-D2-receptorantagonist (antipsychoticum) die oorspronkel
 | Voorspelde nieuwe indicatie | Trichotillomanie (trichotillomania) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,7 +95,13 @@ Ook de overige gevonden publicaties (o.a. over delusionele parasitose) zijn indi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 119412//06150 | Orap 4 mg, tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 119412//06150 | Orap 4 mg, tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-pimozide-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119412//06150 / Orap 4 mg, tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 119412//06150 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pimozide-2 -->
 
 Gebruik in Nederland zou dus een nieuwe registratie of een andere route (bijv. import of bereiding) vereisen.
 
@@ -123,7 +129,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) dient
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor trichotillomanie bestaat uit één kleine, ongecontroleerde studie en reviews (L3). Er zijn geen geregistreerde studies, de Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (QT-verlenging, veel interacties) zijn aanzienlijk.
+- Het bewijs voor trichotillomanie bestaat uit één kleine, ongecontroleerde studie en reviews (L3).
+
+<!-- review:begin nl-lic-20261112-pimozide-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het bewijs voor trichotillomanie bestaat uit één kleine, ongecontroleerde studie en reviews (L3). Er zijn geen geregistreerde studies, de Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (QT-verlenging, veel interacties) zijn aanzienlijk.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 7, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pimozide-1 -->
 
 **Om verder te gaan is nodig:**
 - Bijsluiter- en SmPC-gegevens van het CBG-MEB (waarschuwingen, contra-indicaties) om de veiligheidsscreening af te ronden
@@ -135,6 +147,20 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) dient
 ---
 
 *Opmerking over andere voorspellingen:* de overige voorspelde indicaties (o.a. manische bipolaire stoornis, slapeloosheid, ADHD) hebben beperkt of geen direct bewijs en blijven op "Hold" of onderzoeksvraag. Manie heeft oudere kleine studies (1976–1988), maar moderne antipsychotica met een beter veiligheidsprofiel zijn beschikbaar.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er zijn geen geregistreerde studies, de Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (QT-verlenging, veel interacties) zi” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119412//06150: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

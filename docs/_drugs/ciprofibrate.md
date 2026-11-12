@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ciprofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "fibroma of prostate"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ciprofibrate: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lo…"
 ---
 
@@ -50,8 +50,8 @@ Ciprofibraat is een fibraat dat de PPAR-alfa-receptor activeert en wordt gebruik
 | Voorspelde nieuwe indicatie | Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen besluit | Hold |
 
 ---

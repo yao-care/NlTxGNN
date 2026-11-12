@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 269
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Pimecrolimus is een topische calcineurineremmer die oorspronkelijk wordt gebruik
 | Voorspelde nieuwe indicatie | Seborrheic dermatitis |
 | TxGNN-voorspellingsscore | 0.9973 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -118,14 +118,25 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 **Besluit: Proceed with Guardrails (doorgaan met waarborgen)**
 
 **Onderbouwing:**
-- Er is directe fase 2-evidentie (RCT, n=113) en meerdere systematische reviews van RCT's die pimecrolimus bij seborroïsche dermatitis als werkzaam en verdraagbaar beschrijven. De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald.
+- Er is directe fase 2-evidentie (RCT, n=113) en meerdere systematische reviews van RCT's die pimecrolimus bij seborroïsche dermatitis als werkzaam en verdraagbaar beschrijven.
+
+<!-- review:begin nl-lic-20261112-pimecrolimus-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is directe fase 2-evidentie (RCT, n=113) en meerdere systematische reviews van RCT's die pimecrolimus bij seborroïsche dermatitis als werkzaam en verdraagbaar beschrijven. De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pimecrolimus-1 -->
 
 **Om verder te gaan is nodig:**
 - Volledige waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (nu een blokkerende gegevenslacune voor veiligheidsscreening).
 - Gegevens over het werkingsmechanisme uit DrugBank.
 - Resultaten van studie NCT00403559 en beoordeling van de volledige tekst van de systematische reviews.
 - Beoordeling van het maligniteitsrisico en de beperking voor jonge kinderen als waarborgen.
-- Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning.
+
+<!-- review:begin nl-lic-20261112-pimecrolimus-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van het maligniteitsrisico en de beperking voor jonge kinderen als waarborgen. / Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pimecrolimus-2 -->
 
 ---
 
@@ -135,6 +146,19 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 |---|---|---|---|---|
 | 3 | Exantheem (heterogeen; o.a. orale lichen planus, door EGFR-remmers geïnduceerde huiduitslag) | 0,9932 | L5 | Onderzoeksvraag |
 | 4 | Acrodermatitis chronica atrophicans | 0,9901 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

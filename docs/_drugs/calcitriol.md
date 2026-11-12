@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Calcitriol: voorspelde nieuwe indicatie Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Calcitriol is de actieve vorm van vitamine D en wordt gebruikt bij stoornissen v
 | Voorspelde nieuwe indicatie | Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

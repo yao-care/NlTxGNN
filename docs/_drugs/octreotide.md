@@ -50,8 +50,8 @@ Octreotide is een somatostatine-analoog die oorspronkelijk wordt gebruikt bij ac
 | Voorspelde nieuwe indicatie | Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) |
 | TxGNN-voorspellingsscore | 0.9958 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 27 van 27) |
+| Aantal vergunningen | 27 (geldig: 27) |
 | Aanbevolen besluit | Hold |
 
 ---

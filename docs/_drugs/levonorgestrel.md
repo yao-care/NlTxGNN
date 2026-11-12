@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 208
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Levonorgestrel is een synthetisch progestageen dat wordt gebruikt in hormoonafge
 | Voorspelde nieuwe indicatie | Acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9988 |
 | Evidentieniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 46 van 47) |
+| Aantal vergunningen | 47 (geldig: 46) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -88,7 +88,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119957//16681 | Mirena, IUD 20 microgram/24 uur | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 119957//16681 | Mirena, IUD 20 microgram/24 uur | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-levonorgestrel-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119957//16681 / Mirena, IUD 20 microgram/24 uur / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 119957//16681 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-levonorgestrel-1 -->
 
 De marktstatus is "In de handel". De lokale gegevens bevatten één vergunning, en die is geldig.
 
@@ -115,6 +121,18 @@ Raadpleeg voor volledige informatie over waarschuwingen en contra-indicaties de 
 - Vergelijkende studies of subgroepanalyses die het effect van levonorgestrel bij acne scheiden van dat van de oestrogeencomponent.
 - Beoordeling van de volledige SmPC-waarschuwingen en contra-indicaties door het CBG-MEB.
 - Een veiligheidsplan voor de relevante doelgroep, rekening houdend met de vastgelegde geneesmiddelinteracties.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 119957//16681: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

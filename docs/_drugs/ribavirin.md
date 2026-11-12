@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 289
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L1). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie"
 monitor_inn: "ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mediastinitis"]
@@ -50,8 +50,8 @@ Ribavirine is een antiviraal middel dat oorspronkelijk wordt gebruikt bij chroni
 | Voorspelde nieuwe indicatie | Chronische hepatitis B-virusinfectie |
 | TxGNN-voorspellingsscore | 0,9986 |
 | Bewijsniveau | L1 (formeel; zie toelichting hieronder) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 3) |
+| Aantal vergunningen | 3 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 *Toelichting bewijsniveau:* L1 vereist ≥2 afgeronde fase 3-RCT's. In de data is slechts één fase 3-studie direct gericht op hepatitis B met ribavirine (NCT00114361) afgerond. Het formele L1-niveau is daarom met voorzichtigheid te interpreteren; het directe bewijs voor ribavirine bij hepatitis B is beperkt.
@@ -110,9 +110,21 @@ De gevonden publicaties zijn vrijwel allemaal overzichtsartikelen of casuïstiek
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning geldig) |
+| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (niet geregistreerd) |
 
-Er is een geldige vergunning voor ribavirine bij het CBG-MEB (1 van 1 vergunningen is geldig). Het middel is in Nederland op de markt.
+<!-- review:begin nl-lic-20261112-ribavirin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110605 / Ribavirine Mylan 400 mg, filmomhulde tabletten / Filmomhulde tabletten / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 110605 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ribavirin-2 -->
+
+Er is een geldige vergunning voor ribavirine bij het CBG-MEB. Het middel is in Nederland op de markt.
+
+<!-- review:begin nl-lic-20261112-ribavirin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is een geldige vergunning voor ribavirine bij het CBG-MEB (1 van 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ribavirin-1 -->
 
 ---
 
@@ -158,6 +170,20 @@ Naast hepatitis B voorspelt het model nog acht andere aandoeningen met scores tu
 - De officiële waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB; deze ontbreken nu en zijn noodzakelijk voor een veiligheidsbeoordeling.
 - Een vergelijking met de huidige standaardbehandelingen voor hepatitis B om de meerwaarde te beoordelen.
 - Een plan voor veiligheidsmonitoring (hemoglobine, nierfunctie, zwangerschapspreventie).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “(1 van 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110605: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

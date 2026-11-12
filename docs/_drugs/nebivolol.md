@@ -48,8 +48,8 @@ Nebivolol is een bètablokker die oorspronkelijk wordt gebruikt voor de behandel
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 23 van 23) |
+| Aantal vergunningen | 23 (geldig: 23) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

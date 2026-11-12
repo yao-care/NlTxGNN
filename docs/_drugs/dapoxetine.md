@@ -51,8 +51,8 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **migraine**, maar er
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0,9934 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -88,7 +88,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 108200 | Priligy 60 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar in de gegevens |
 
-Deze vergunning is geldig; het middel is in Nederland op de markt (1 geldige vergunning van 1) bij het CBG-MEB.
+Deze vergunning is geldig; het middel is in Nederland op de markt bij het CBG-MEB.
+
+<!-- review:begin nl-lic-20261112-dapoxetine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning is geldig; het middel is in Nederland op de markt (1 geldige vergunning van 1) bij het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dapoxetine-1 -->
 
 ---
 
@@ -129,6 +135,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De Nederlandse vergunning is bovendien doorgehaald, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

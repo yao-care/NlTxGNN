@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cyclosporine: voorspelde nieuwe indicatie Chronische granulomateuze ziekte, autosomaal recessief (granulomatous disease, chronic, autosomal recessive) (bewijsniveau L5). Oorspronkelijke indicatie: Ni…"
 ---
 
@@ -48,8 +48,8 @@ Ciclosporine is een calcineurineremmer met immunosuppressieve werking op T-celle
 | Voorspelde nieuwe indicatie | Chronische granulomateuze ziekte, autosomaal recessief (granulomatous disease, chronic, autosomal recessive) |
 | TxGNN-voorspellingsscore | 0,9968 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 16 van 17) |
+| Aantal vergunningen | 17 (geldig: 16) |
 | Aanbevolen beslissing | Afwachten (Hold) |
 
 ## Waarom is deze voorspelling aannemelijk?

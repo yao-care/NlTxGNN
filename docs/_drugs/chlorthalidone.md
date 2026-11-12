@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Chlorthalidone: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Chloortalidon is een thiazide-achtig diureticum dat de natrium-chloridecotranspo
 | Voorspelde nieuwe indicatie | Primair erfelijk glaucoom (primary hereditary glaucoma) |
 | TxGNN-voorspellingsscore | 0,9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
-| Aantal vergunningen | 4 (geldig: 4) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 18) |
+| Aantal vergunningen | 18 (geldig: 15) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling plausibel?

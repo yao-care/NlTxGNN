@@ -48,8 +48,8 @@ Ibuprofen is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt geb
 | Voorspelde nieuwe indicatie | Acromesomelische dysplasie, type Hunter-Thompson |
 | TxGNN-voorspellingsscore | 0,9974 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 177 van 177) |
+| Aantal vergunningen | 177 (geldig: 177) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

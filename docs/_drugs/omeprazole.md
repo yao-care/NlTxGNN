@@ -52,8 +52,8 @@ Hiervoor is **1 klinische studie** (zonder directe werkzaamheidsgegevens) en **1
 | Voorspelde nieuwe indicatie | Duodenal obstruction |
 | TxGNN-voorspellingsscore | 0.9964 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 83 van 84) |
+| Aantal vergunningen | 84 (geldig: 83) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; nader onderzoek nodig vóór verdere stappen) |
 
 ---
@@ -98,7 +98,13 @@ Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie m
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 114901 | Omeprazol Hetero 40 mg, harde maagsapresistente capsules (geldig) | Capsule (volgens productnaam) | Niet beschikbaar |
-| RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (geldig) | Tablet (volgens productnaam) | Niet beschikbaar |
+| RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (niet geregistreerd) | Tablet (volgens productnaam) | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261112-omeprazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119910//21685 / Losec MUPS 40 mg, maagsapresistente tabletten (geldig) / Tablet (volgens productnaam) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 119910//21685 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-omeprazole-1 -->
 
 ---
 
@@ -150,6 +156,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119910//21685: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

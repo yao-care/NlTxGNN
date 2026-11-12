@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Aceclofenac: voorspelde nieuwe indicatie Brachyolmie-amelogenesis-imperfecta-syndroom (brachyolmia-amelogenesis imperfecta syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
 ---
 
@@ -48,8 +48,8 @@ Aceclofenac is een niet-steroïdaal anti-inflammatoir geneesmiddel (NSAID) dat d
 | Voorspelde nieuwe indicatie | Brachyolmie-amelogenesis-imperfecta-syndroom (brachyolmia-amelogenesis imperfecta syndrome) |
 | TxGNN-voorspellingsscore | 0,9989 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
+| Aantal vergunningen | 2 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?

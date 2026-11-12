@@ -52,8 +52,8 @@ De voorspelling is dus uitsluitend gebaseerd op een computermodel.
 | Voorspelde nieuwe indicatie | Reumatoïde nodulose (rheumatoid nodulosis) |
 | TxGNN-voorspellingsscore | 0.9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -90,8 +90,14 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 101711//20455 | Vesanoid, capsules 10 mg (geldig) | Capsule | Niet beschikbaar |
+| RVG 101711//20455 | Vesanoid, capsules 10 mg (niet geregistreerd) | Capsule | Niet beschikbaar |
 | RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel (geldig) | Gel | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261112-tretinoin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 101711//20455 / Vesanoid, capsules 10 mg (geldig) / Capsule / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 101711//20455 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tretinoin-1 -->
 
 ---
 
@@ -153,6 +159,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 101711//20455: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

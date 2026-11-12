@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Alitretinoin: voorspelde nieuwe indicatie Amenorroe (amenorrhea) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Alitretinoïne (9-cis-retinoïnezuur) is een retinoïde dat via retinoïdezuurre
 | Voorspelde nieuwe indicatie | Amenorroe (amenorrhea) |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ciclesonide: voorspelde nieuwe indicatie Atopisch eczeem (bewijsniveau L5). Oorspronkelijke indicatie: Astma, allergische astma, allergische rinitis, vasomotore rinitis"
 monitor_inn: "Ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
@@ -50,8 +50,8 @@ Ciclesonide is een inhalatiecorticosteroïd dat oorspronkelijk wordt gebruikt bi
 | Voorspelde nieuwe indicatie | Atopisch eczeem |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 12) |
+| Aantal vergunningen | 12 (geldig: 11) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -98,7 +98,13 @@ Voor atopisch eczeem is momenteel geen gerelateerde literatuur beschikbaar. Voor
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | Niet vermeld | Niet vermeld (status: geldig) |
+| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | Niet vermeld | Niet vermeld (status: niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-ciclesonide-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119131//31633 / Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis / Niet vermeld / Niet vermeld (status: geldig)” Gecorrigeerd: registratienummer RVG 119131//31633 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ciclesonide-3 -->
 
 Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 geldige vergunningen) en wordt momenteel op de markt gebracht.
 
@@ -133,7 +139,13 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor atopisch eczeem berust uitsluitend op een model (bewijsniveau L5) zonder klinische studies of specifieke literatuur. De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald.
+- De voorspelling voor atopisch eczeem berust uitsluitend op een model (bewijsniveau L5) zonder klinische studies of specifieke literatuur.
+
+<!-- review:begin nl-lic-20261112-ciclesonide-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling voor atopisch eczeem berust uitsluitend op een model (bewijsniveau L5) zonder klinische studies of specifieke literatuur. De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ciclesonide-1 -->
 
 **Om verder te gaan is nodig:**
 - Productinformatie van het CBG-MEB (SmPC) voor waarschuwingen en contra-indicaties; dit ontbrak in de verzamelde data en blokkeert de veiligheidsscreening
@@ -141,7 +153,28 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Beoordeling van de routecompatibiliteit (een topicale of systemische formulering is nodig voor huidindicaties)
 - Preklinisch of klinisch bewijs voor ciclesonide bij atopisch eczeem
 - Beoordeling van het risico op contactallergie en kruisreactiviteit tussen corticosteroïden
-- Opheldering van de marktstatus in Nederland (het product is op de markt met 1 geldige vergunning van 1)
+- Opheldering van de marktstatus in Nederland
+
+<!-- review:begin nl-lic-20261112-ciclesonide-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Opheldering van de marktstatus in Nederland (het product is op de markt met 1 geldige vergunning van 1)” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ciclesonide-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(het product is op de markt met 1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119131//31633: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Betamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Betamethason is een corticosteroïd met een ontstekingsremmend effect. Het TxGNN
 | Voorspelde nieuwe indicatie | Folliculaire mucinose (alopecia mucinosa) |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 30 van 31) |
+| Aantal vergunningen | 31 (geldig: 30) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

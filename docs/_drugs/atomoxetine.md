@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Atomoxetine is een selectieve remmer van de heropname van noradrenaline en is in
 | Voorspelde nieuwe indicatie | Specifieke ontwikkelingsstoornis (specific developmental disorder) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 42 van 43) |
+| Aantal vergunningen | 43 (geldig: 42) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -90,7 +90,13 @@ De onderstaande publicaties zijn indirect. Geen ervan onderzoekt atomoxetine bij
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116879//100389 | Strattera 80 mg, harde capsules (geldig) | Niet vermeld | Niet vermeld |
+| RVG 116879//100389 | Strattera 80 mg, harde capsules (niet geregistreerd) | Niet vermeld | Niet vermeld |
+
+<!-- review:begin nl-lic-20261112-atomoxetine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 116879//100389 / Strattera 80 mg, harde capsules (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 116879//100389 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-atomoxetine-1 -->
 
 Deze vergunning is geldig. De registratie valt onder het CBG-MEB. Zie voor de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
@@ -120,6 +126,18 @@ Waarschuwingen en contra-indicaties uit de officiële productinformatie zijn nie
 - Gegevens over het werkingsmechanisme en een onderbouwde mechanistische koppeling met de voorspelde aandoening.
 - De waarschuwingen en contra-indicaties uit de actuele SmPC van het CBG-MEB, voor een veiligheidsbeoordeling.
 - Een beoordeling van de interacties, vooral de ernstige, en van de veiligheid in de beoogde (kinder)populatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 116879//100389: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

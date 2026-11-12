@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dalteparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonaire embolie, gedissemineerde intravasale sto…"
 monitor_inn: "dalteparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
@@ -50,8 +50,8 @@ Dalteparine is een laagmoleculairgewicht-heparine, oorspronkelijk gebruikt bij p
 | Voorspelde nieuwe indicatie | Trombofilie door proteïne C-deficiëntie, autosomaal recessief |
 | TxGNN-voorspellingsscore | 0,9988 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -97,9 +97,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
-De enige bekende vergunning bij het CBG-MEB is geldig. Het middel is op de markt: 1 van de 1 vergunningen is geldig.
+<!-- review:begin nl-lic-20261112-dalteparin-4 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120289//21898 / Fragmin 15.000 IE/0,6 ml, oplossing voor injectie / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120289//21898 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dalteparin-4 -->
+
+De enige bekende vergunning bij het CBG-MEB is geldig.
+
+<!-- review:begin nl-lic-20261112-dalteparin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is geldig. Het middel is op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dalteparin-1 -->
 
 ---
 
@@ -131,14 +143,41 @@ Raadpleeg de SmPC voor de officiële waarschuwingen en contra-indicaties.
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische studies of literatuur. Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie en antistolling).
+De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische studies of literatuur.
+
+<!-- review:begin nl-lic-20261112-dalteparin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische studies of literatuur. Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie en antistolling).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dalteparin-2 -->
 
 **Om verder te gaan is nodig:**
 - Een systematische literatuurstudie naar LMWH bij aangeboren proteïne C-deficiëntie, inclusief casuïstiek
 - Gegevens over het werkingsmechanisme van dalteparine
 - De actuele SmPC-waarschuwingen en -contra-indicaties van het CBG-MEB (de veiligheidsscreening kan hier nu niet op verder)
-- Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald
 - Een afweging van het bloedingsrisico bij de voorspelde indicaties met bloedingsneiging (rang 2 en 3), waarvan verdere evaluatie niet wordt aanbevolen
+
+<!-- review:begin nl-lic-20261112-dalteparin-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald / Een afweging van het bloedingsrisico bij de voorspelde indicaties met bloedingsneiging (rang 2 en 3), waarvan verdere evaluatie niet wordt aanbevolen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dalteparin-3 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120289//21898: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

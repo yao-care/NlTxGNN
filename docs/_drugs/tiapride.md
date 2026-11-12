@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 321
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "tiapride"
 predicted_indications: ["migraine disorder"]
 description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tiapride is een selectieve dopamine D2/D3-receptorantagonist uit de klasse van d
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0.9918 |
 | Bewijsniveau | L2 (zie toelichting in de conclusie) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -89,7 +89,13 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 116818//07613 | Tiapridal 100 mg, tabletten | Tabletten (op basis van de productnaam) | Niet vermeld; registratie geldig |
+| RVG 116818//07613 | Tiapridal 100 mg, tabletten | Tabletten (op basis van de productnaam) | Niet vermeld; niet geregistreerd |
+
+<!-- review:begin nl-lic-20261112-tiapride-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 116818//07613 / Tiapridal 100 mg, tabletten / Tabletten (op basis van de productnaam) / Niet vermeld; registratie geldig” Gecorrigeerd: registratienummer RVG 116818//07613 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tiapride-1 -->
 
 Deze registratie is doorgehaald.
 
@@ -115,6 +121,19 @@ Raadpleeg voor veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerk
 - Beoordeling van de volledige tekst van de pilot-RCT uit 2022 (PMID 35548913), inclusief resultaten en bijwerkingen.
 - Vastlegging van de oorspronkelijke geregistreerde indicatie en van de beschikbare toedieningsroutes.
 - Een moderne, adequaat opgezette gerandomiseerde studie bij migraine, met aandacht voor bijwerkingen van dopamineantagonisten (zoals extrapiramidale verschijnselen).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 116818//07613: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (acute intermittent porphyria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Buprenorfine is een partiële mu-opioïdagonist (met kappa-antagonistische werki
 | Voorspelde nieuwe indicatie | Acute intermitterende porfyrie (acute intermittent porphyria) |
 | TxGNN-voorspellingsscore | 0,9941 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 62 van 62) |
+| Aantal vergunningen | 62 (geldig: 62) |
 | Aanbevolen besluit | Hold |
 
 ---

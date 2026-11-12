@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ maar er zijn **geen klinische studies** en **geen publicaties** over deze aandoe
 | Voorspelde nieuwe indicatie | craniofaciale conodysplasie (craniofacial conodysplasia) |
 | TxGNN-voorspellingsscore | 0,9955 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 19 van 20) |
+| Aantal vergunningen | 20 (geldig: 19) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -74,7 +74,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | Oplossing voor injectie | Niet vastgelegd in de lokale gegevens |
 
-Er is één geldige vergunning voor een monopreparaat (CBG-MEB); de marktstatus is «In de handel».
+De marktstatus is «In de handel».
+
+<!-- review:begin nl-lic-20261112-alfacalcidol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); de marktstatus is «In de handel».” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 20, waarvan geldig: 19; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-alfacalcidol-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -92,6 +98,19 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 - Gegevens over het werkingsmechanisme van alfacalcidol
 - Beoordeling van de SmPC- en bijsluiterinformatie van het CBG-MEB voor waarschuwingen en contra-indicaties
 - Casuïstiek of literatuuroverzicht over deze zeer zeldzame aandoening om de klinische relevantie te beoordelen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

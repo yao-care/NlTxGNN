@@ -56,8 +56,8 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **sclerosing cholangi
 | Voorspelde nieuwe indicatie | Sclerosing cholangitis |
 | TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 53 van 53) |
+| Aantal vergunningen | 53 (geldig: 53) |
 | Aanbevolen beslissing | Hold |
 
 ---

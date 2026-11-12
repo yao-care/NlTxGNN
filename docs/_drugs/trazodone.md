@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 330
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Trazodon is een antidepressivum dat oorspronkelijk wordt gebruikt bij depressiev
 | Voorspelde nieuwe indicatie | Obsessief-compulsieve stoornis (obsessive-compulsive disorder) |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -61,6 +61,12 @@ Depressie, angststoornissen en OCD hebben een gemeenschappelijke serotonerge com
 ## Bewijs uit klinische studies
 
 Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
+
+<!-- review:begin nl-lic-20261112-trazodone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 11, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-trazodone-1 -->
 
 ## Bewijs uit de literatuur
 
@@ -81,9 +87,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (registratie geldig) |
+| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
 
-De enige bekende vergunning is doorgehaald.
+<!-- review:begin nl-lic-20261112-trazodone-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113007//09145 / Trazolan 100 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (registratie geldig)” Gecorrigeerd: registratienummer RVG 113007//09145 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-trazodone-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -117,6 +127,19 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 | Schizotypische persoonlijkheidsstoornis | 0,9992 | L5 | Hold (alleen voorspelling) |
 | Benigne paroxismale torticollis van de kindertijd | 0,9983 | L5 | Hold (alleen voorspelling; veiligheid bij zuigelingen niet vastgesteld) |
 | Ohdo-syndroom en varianten | 0,9928 | L5 | Hold (alleen voorspelling) |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113007//09145: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

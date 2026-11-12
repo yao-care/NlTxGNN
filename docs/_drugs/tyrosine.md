@@ -56,8 +56,8 @@ Het TxGNN-model voorspelt een mogelijk effect bij **cauda equina-syndroom**, maa
 | Voorspelde nieuwe indicatie | Cauda equina-syndroom (cauda equina syndrome) |
 | TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 45 van 45) |
+| Aantal vergunningen | 45 (geldig: 45) |
 | Aanbevolen beslissing | Hold |
 
 ---

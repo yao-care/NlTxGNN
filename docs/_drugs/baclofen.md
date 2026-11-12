@@ -50,8 +50,8 @@ Baclofen is een GABA-B-receptoragonist die wordt gebruikt bij spasticiteit. In d
 | Voorspelde nieuwe indicatie | ADHD (attention deficit-hyperactivity disorder) |
 | TxGNN-voorspellingsscore | 0,9932 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 18 van 18) |
+| Aantal vergunningen | 18 (geldig: 18) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -96,7 +96,13 @@ Er zijn 9 publicaties gevonden. Geen daarvan onderzoekt baclofen bij ADHD.
 |---------|------|------|-----------|
 | RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie/infusie (status: geldig) | – | – |
 
-Er is 1 geldige vergunning (van 1 vergunning in totaal); het middel is in Nederland op de markt. Voor de actuele situatie en de goedgekeurde indicaties zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) leidend.
+Het middel is in Nederland op de markt. Voor de actuele situatie en de goedgekeurde indicaties zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) leidend.
+
+<!-- review:begin nl-lic-20261112-baclofen-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 vergunning in totaal); het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 18; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-baclofen-1 -->
 
 ---
 
@@ -158,6 +164,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 vergunning in totaal); h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

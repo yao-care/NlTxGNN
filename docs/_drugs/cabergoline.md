@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cabergoline: voorspelde nieuwe indicatie Progeria-kleine gestalte-gepigmenteerde naevi-syndroom (progeria-short stature-pigmented nevi syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet ver…"
 ---
 
@@ -48,8 +48,8 @@ Cabergoline is een dopamine-D2-receptoragonist die in Nederland als tablet is ge
 | Voorspelde nieuwe indicatie | Progeria-kleine gestalte-gepigmenteerde naevi-syndroom (progeria-short stature-pigmented nevi syndrome) |
 | TxGNN-voorspellingsscore | 0,9906 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

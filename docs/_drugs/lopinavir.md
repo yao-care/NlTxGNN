@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 212
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Lopinavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeven"
@@ -50,8 +50,8 @@ Lopinavir is een hiv-proteaseremmer die oorspronkelijk wordt gebruikt voor de be
 | Voorspelde nieuwe indicatie | Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) |
 | TxGNN-voorspellingsscore | 0.9990 |
 | Evidentieniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -109,13 +109,32 @@ Voor volledige informatie over waarschuwingen en contra-indicaties wordt verweze
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelde indicatie betreft een aandoening bij dieren (SIV) zonder klinisch ontwikkeltraject voor de mens. Het bewijs bestaat uitsluitend uit drie preklinische studies (evidentieniveau L4). De overige twee voorspellingen berusten alleen op de modelscore (L5). Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning.
+- De voorspelde indicatie betreft een aandoening bij dieren (SIV) zonder klinisch ontwikkeltraject voor de mens. Het bewijs bestaat uitsluitend uit drie preklinische studies (evidentieniveau L4). De overige twee voorspellingen berusten alleen op de modelscore (L5).
+
+<!-- review:begin nl-lic-20261112-lopinavir-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De overige twee voorspellingen berusten alleen op de modelscore (L5). Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-lopinavir-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Het vaststellen van een relevante menselijke indicatie; de huidige voorspellingen bieden daarvoor geen aanknopingspunt
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank) voor een mechanistische analyse
 - De waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB, noodzakelijk voor een veiligheidsscreening
 - Voor de neurologische ontwikkelingsstoornis: validatie van doelwit en signaalroute in ziektespecifieke modellen vóór enige verdere stap
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

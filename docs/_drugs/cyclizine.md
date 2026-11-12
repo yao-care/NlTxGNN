@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cyclizine"
 predicted_indications: ["allergic urticaria", "nasal cavity disease", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cyclizine: voorspelde nieuwe indicatie Allergische urticaria (allergic urticaria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Cyclizine is een eerstegeneratie H1-antihistaminicum. Het TxGNN-model voorspelt 
 | Voorspelde nieuwe indicatie | Allergische urticaria (allergic urticaria) |
 | TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold (afwachten) |
 
 ## Waarom is deze voorspelling aannemelijk?

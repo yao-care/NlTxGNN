@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 175
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Granisetron: voorspelde nieuwe indicatie Manische bipolaire stoornis (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde data (de vergunningstekst is lee…"
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
@@ -50,8 +50,8 @@ Granisetron is een selectieve 5-HT3-receptorantagonist. Het wordt klassiek gebru
 | Voorspelde nieuwe indicatie | Manische bipolaire stoornis |
 | TxGNN-voorspellingsscore | 0,9962 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 12 van 12) |
+| Aantal vergunningen | 12 (geldig: 12) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -98,7 +98,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; het middel is in Nederland op de markt.
+Het middel is in Nederland op de markt.
+
+<!-- review:begin nl-lic-20261112-granisetron-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 12; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-granisetron-1 -->
 
 ---
 
@@ -136,7 +142,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor manische bipolaire stoornis is uitsluitend gebaseerd op een model (L5), zonder klinische studies of literatuur. Het middel is in Nederland wel op de markt (1 geldige vergunning van 1), maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.
+- De voorspelling voor manische bipolaire stoornis is uitsluitend gebaseerd op een model (L5), zonder klinische studies of literatuur. Het middel is in Nederland wel op de markt, maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.
+
+<!-- review:begin nl-lic-20261112-granisetron-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland wel op de markt (1 geldige vergunning van 1), maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 12; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-granisetron-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De bijsluiter/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB ophalen; dit is een blokkerende leemte voor de veiligheidsscreening
@@ -144,6 +156,20 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 - Systematisch zoeken naar preklinische en klinische studies naar granisetron bij manie
 - Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde indicatie (orale vorm voor psychiatrisch gebruik), gezien de enige bekende vergunning een injectievloeistof betrof
 - Een cardiale veiligheidsbeoordeling (QT-verlenging) en een plan voor interactiebewaking, gezien de vele ernstige interacties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

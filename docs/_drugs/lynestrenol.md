@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Lynestrenol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens"
 ---
 
@@ -48,8 +48,8 @@ Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland i
 | Voorspelde nieuwe indicatie | Migraine (*migraine disorder*) |
 | TxGNN-voorspellingsscore | 0,9949 |
 | Bewijsniveau | L4 (zwak; zie toelichting hieronder) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

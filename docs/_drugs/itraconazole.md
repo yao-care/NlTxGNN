@@ -50,8 +50,8 @@ Itraconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt vo
 | Voorspelde nieuwe indicatie | Pneumocystose (pneumocystosis) |
 | TxGNN-voorspellingsscore | 0.9934 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
+| Aantal vergunningen | 6 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---

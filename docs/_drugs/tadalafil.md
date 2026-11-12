@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tadalafil: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Goedaardige prostaathyperplasie, pulmonale hypertensie…"
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ Tadalafil is een PDE5-remmer die oorspronkelijk wordt gebruikt voor goedaardige 
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
 | TxGNN-voorspellingsscore | 0,9998 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 90 van 91) |
+| Aantal vergunningen | 91 (geldig: 90) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -98,7 +98,13 @@ Voor de hoogst gerangschikte voorspelling (Ambras-type hypertrichosis) is moment
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-tadalafil-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118514 / Revestad 20 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118514 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tadalafil-2 -->
 
 ---
 
@@ -127,7 +133,12 @@ Raadpleeg voor waarschuwingen en formele contra-indicaties de SmPC (Samenvatting
 
 **Onderbouwing:**
 - De voorspelling voor Ambras-type hypertrichosis universalis congenita is uitsluitend modelgebaseerd (L5), zonder klinische studies, literatuur of aannemelijk mechanisme. Het enige literatuursignaal bij de overige voorspellingen (migraine-aura) wijst op een mogelijke bijwerking en niet op een therapeutisch effect.
-- De enige Nederlandse vergunning (RVG 118514) is doorgehaald.
+
+<!-- review:begin nl-lic-20261112-tadalafil-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het enige literatuursignaal bij de overige voorspellingen (migraine-aura) wijst op een mogelijke bijwerking en niet op een therapeutisch effect. / De enige Nederlandse vergunning (RVG 118514) is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 91, waarvan geldig: 90; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tadalafil-1 -->
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (o.a. via DrugBank)
@@ -135,6 +146,20 @@ Raadpleeg voor waarschuwingen en formele contra-indicaties de SmPC (Samenvatting
 - Preklinisch of mechanistisch bewijs voor een rol van de cGMP/NO-route bij de genetische oorzaak van Ambras-syndroom
 - Controle of de voorspelling mogelijk een artefact is van een bijwerking (hypertrichose) die als indicatie is geïnterpreteerd
 - Voor de toedieningsroute en vergelijking met de oorspronkelijke indicaties is nog geen informatie beschikbaar
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (RVG 118514) is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118514: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

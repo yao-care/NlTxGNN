@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "cefuroxime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Cefuroxime: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Cefuroxim is een tweede-generatie cefalosporine-antibioticum dat bacteriële cel
 | Voorspelde nieuwe indicatie | Hyperamylasemie (hyperamylasemia) |
 | TxGNN-voorspellingsscore | 0,9976 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 20 van 20) |
+| Aantal vergunningen | 20 (geldig: 20) |
 | Aanbevolen beslissing | Hold |
 
 ---

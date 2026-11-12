@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tetracaïne is een lokaal anestheticum van het estertype. Het TxGNN-model (deep 
 | Voorspelde nieuwe indicatie | Acrodermatitis chronica atrophicans |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -109,6 +109,12 @@ Ter informatie, bij andere voorspellingen:
 
 De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaak** van de aandoening, niet als behandeling.
 
+<!-- review:begin nl-lic-20261112-tetracaine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tetracaine-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -116,8 +122,6 @@ De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaa
 | RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème (geldig) | Crème | Niet beschikbaar |
-
-Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig.
 
 ---
 
@@ -141,13 +145,33 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor acrodermatitis chronica atrophicans berust uitsluitend op een computermodel (L5), zonder studies, literatuur of aannemelijk werkingsmechanisme. Tetracaïne is in Nederland wel op de markt (1 van de 1 vergunningen is geldig). Voor cauda equina-syndroom is er juist een veiligheidssignaal en geen therapeutisch potentieel.
+- De voorspelling voor acrodermatitis chronica atrophicans berust uitsluitend op een computermodel (L5), zonder studies, literatuur of aannemelijk werkingsmechanisme. Tetracaïne is in Nederland wel op de markt. Voor cauda equina-syndroom is er juist een veiligheidssignaal en geen therapeutisch potentieel.
+
+<!-- review:begin nl-lic-20261112-tetracaine-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland wel op de markt (1 van de 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tetracaine-2 -->
 
 **Om verder te gaan is nodig:**
 - Officiële productinformatie (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties; zonder deze gegevens kan de veiligheidsscreening niet worden voortgezet
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Aantoonbaar mechanistisch of preklinisch bewijs voor de voorspelde indicatie
 - Beoordeling van de toedieningsroute (lokaal versus spinaal) en van de vergunningsstatus in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 van de 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 67
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Calcipotriol: voorspelde nieuwe indicatie Seborroïsche keratose (bewijsniveau L3). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare vergunningsgegevens (de indicatiete…"
 monitor_inn: "Calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -52,8 +52,8 @@ Daarvoor zijn **geen geregistreerde klinische studies** en **4 publicaties** bes
 | Voorspelde nieuwe indicatie | Seborroïsche keratose |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 18) |
+| Aantal vergunningen | 18 (geldig: 17) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,7 +89,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | Niet vermeld (oplossing voor cutaan gebruik) | Niet vermeld |
 
-Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; het middel is op de markt.
+Het middel is op de markt.
+
+<!-- review:begin nl-lic-20261112-calcipotriol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-calcipotriol-1 -->
 
 ---
 
@@ -128,7 +134,13 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs voor seborroïsche keratose (L3) bestaat uit een kleine patiëntenreeks, een observationele studie, een overzicht en een casus; er zijn geen gerandomiseerde studies of geregistreerde trials. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie. Voor de overige voorspelde indicaties is het bewijs nog zwakker.
+- Het bewijs voor seborroïsche keratose (L3) bestaat uit een kleine patiëntenreeks, een observationele studie, een overzicht en een casus; er zijn geen gerandomiseerde studies of geregistreerde trials. Voor de overige voorspelde indicaties is het bewijs nog zwakker.
+
+<!-- review:begin nl-lic-20261112-calcipotriol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie. Voor de overige voorspelde indicaties is het bewijs nog zwakker.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-calcipotriol-2 -->
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC/bijsluiter van het CBG-MEB, zodat de veiligheidsscreening kan plaatsvinden
@@ -136,6 +148,20 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 - Gerandomiseerde, gecontroleerde studies bij seborroïsche keratose, met vergelijking met standaardbehandelingen (bijv. cryotherapie)
 - Beoordeling van de status van de vergunning en een geschikte registratieroute in Nederland
 - Klinische beoordeling van het risico op hypercalciëmie en van de geneesmiddelinteracties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

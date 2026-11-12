@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 257
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Oxaliplatine is een platinahoudend cytostaticum dat oorspronkelijk wordt gebruik
 | Voorspelde nieuwe indicatie | Maligne pleuraal mesothelioom (malignant pleural mesothelioma) |
 | TxGNN-voorspellingsscore | 0.9968 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -97,7 +97,13 @@ Er is ook tegenbewijs: een kleine fase 2-studie met raltitrexed plus oxaliplatin
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (vergunning geldig) | Poeder voor oplossing voor infusie | Niet vermeld in de beschikbare gegevens |
+| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (niet geregistreerd) | Poeder voor oplossing voor infusie | Niet vermeld in de beschikbare gegevens |
+
+<!-- review:begin nl-lic-20261112-oxaliplatin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110045 / Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (vergunning geldig) / Poeder voor oplossing voor infusie / Niet vermeld in de beschikbare gegevens” Gecorrigeerd: registratienummer RVG 110045 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxaliplatin-2 -->
 
 Voor actuele informatie over beschikbare producten (bijvoorbeeld via de gecentraliseerde EMA-procedure) raadpleegt u het CBG-MEB.
 
@@ -132,7 +138,13 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleegt u de SmPC (Sam
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit kleine, niet-gerandomiseerde fase 2-studies (L2) met wisselende uitkomsten, waaronder één studie zonder respons in de tweede lijn. Er is geen fase 3-bewijs. Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.
+- Het bewijs bestaat uit kleine, niet-gerandomiseerde fase 2-studies (L2) met wisselende uitkomsten, waaronder één studie zonder respons in de tweede lijn. Er is geen fase 3-bewijs.
+
+<!-- review:begin nl-lic-20261112-oxaliplatin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen fase 3-bewijs. Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxaliplatin-1 -->
 
 **Om verder te gaan is nodig:**
 - Veiligheidsgegevens (waarschuwingen en contra-indicaties) uit de SmPC en bijsluiter van het CBG-MEB
@@ -142,6 +154,20 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleegt u de SmPC (Sam
 - Beoordeling van het voordeel-risicoprofiel bij patiënten met nier-, lever- of longaandoeningen en perifere neuropathie
 
 **Opmerking over andere voorspelde indicaties:** Epithelioïd mesothelioom (L4), sarcomatoïd mesothelioom (L4) en maligne viscerale pleuratumor (L5) hebben alleen indirect bewijs en zijn niet verder uitgewerkt in dit rapport.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110045: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

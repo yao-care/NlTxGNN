@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 235
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
 description: "Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,8 +52,8 @@ Hiervoor zijn **geen geregistreerde klinische trials** en **3 publicaties** (uit
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -71,6 +71,12 @@ Voor de volledigheid: de voorspellingen met andere ziekten (o.a. alopecia areata
 ## Bewijs uit klinische trials
 
 Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
+
+<!-- review:begin nl-lic-20261112-minoxidil-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-minoxidil-1 -->
 
 ---
 
@@ -90,8 +96,6 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 |---------|------|------|-----------|
 | RVG 119952//08426 (doorgehaald) | Lonnoten 10 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
 
-De enige bekende vergunning is doorgehaald.
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -108,13 +112,33 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Het bewijs bestaat uit drie kleine casusbeschrijvingen met combinatietherapie, zonder geregistreerde trials. De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.
+- Het bewijs bestaat uit drie kleine casusbeschrijvingen met combinatietherapie, zonder geregistreerde trials. De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld.
+
+<!-- review:begin nl-lic-20261112-minoxidil-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-minoxidil-2 -->
 
 **Voor verdere stappen is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB verwerken (waarschuwingen en contra-indicaties), omdat dit een blokkerend ontbrekend gegeven is.
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld uit DrugBank.
 - Gecontroleerd onderzoek of een grotere serie waarin minoxidil als enige middel wordt beoordeeld.
 - Een beoordeling van de veiligheid van orale minoxidil in lage dosering, vooral bij kinderen en bij personen met hart- en vaatziekten.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgero” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

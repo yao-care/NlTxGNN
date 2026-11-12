@@ -50,8 +50,8 @@ Urofollitropine is een uit urine gewonnen follikelstimulerend hormoon (FSH, een 
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
+| Aantal vergunningen | 6 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -113,7 +113,13 @@ Er is uitsluitend een modelvoorspelling (L5) zonder klinische studies, zonder li
 - Een systematisch literatuuronderzoek naar FSH en migraine (inclusief de rol van oestrogeenschommelingen)
 - Duidelijkheid over de oorspronkelijke goedgekeurde indicatie en de toedieningsvorm
 - Beoordeling van de toedieningsroute-compatibiliteit voor de nieuwe indicatie
-- Beoordeling van de marktbeschikbaarheid, aangezien er 1 geldige vergunning is (van 1)
+- Beoordeling van de marktbeschikbaarheid
+
+<!-- review:begin nl-lic-20261112-urofollitropin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van de marktbeschikbaarheid, aangezien er 1 geldige vergunning is (van 1)” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-urofollitropin-1 -->
 
 <!-- review:begin log -->
 
@@ -124,6 +130,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de CBG-MEB-bijsluiter, waardoor veiligheids” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “aangezien er 1 geldige vergunning is (van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

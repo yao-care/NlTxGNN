@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encephalitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Amantadine is een geneesmiddel met een NMDA-receptorantagonistische en dopaminer
 | Voorspelde nieuwe indicatie | Rasmussen-encefalitis (Rasmussen subacute encephalitis) |
 | TxGNN-voorspellingsscore | 0,9948 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

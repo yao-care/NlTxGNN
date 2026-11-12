@@ -50,8 +50,8 @@ Pantoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt bij zuurge
 | Voorspelde nieuwe indicatie | Duodenal obstruction |
 | TxGNN-voorspellingsscore | 0.9921 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 49 van 50) |
+| Aantal vergunningen | 50 (geldig: 49) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -97,8 +97,14 @@ Voor de bredere context bij twaalfvingerige-darmzweer zijn bovendien meerdere RC
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (vergunning geldig) |
+| RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (niet geregistreerd) |
 | RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Tablet (combinatieverpakking) | Niet beschikbaar (vergunning geldig) |
+
+<!-- review:begin nl-lic-20261112-pantoprazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120126//18300 / Pantozol 40 mg, maagsapresistente tabletten / Maagsapresistente tablet / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120126//18300 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pantoprazole-1 -->
 
 Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven. Raadpleeg het CBG-MEB voor de actuele vergunningsstatus.
 
@@ -149,6 +155,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120126//18300: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

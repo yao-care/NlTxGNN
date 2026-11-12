@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
 description: "Sulpiride: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicati…"
@@ -50,8 +50,8 @@ Sulpiride is een selectieve dopamine D2/D3-receptorantagonist, oorspronkelijk ge
 | Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen beslissing | Hold |
 
 ---

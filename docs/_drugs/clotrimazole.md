@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Clotrimazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Clotrimazol is een azool-antimycoticum dat lokaal wordt gebruikt bij huid- en sl
 | Voorspelde nieuwe indicatie | acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 24 van 25) |
+| Aantal vergunningen | 25 (geldig: 24) |
 | Aanbevolen beslissing | Hold (afwachten) |
 
 Het bewijsniveau is L5: de enige geregistreerde studie onderzoekt een combinatiepreparaat bij een besmette dermatose en niet clotrimazol bij acne zelf.

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Perindopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandel
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: minstens 20) |
-| Aantal vergunningen | minstens 20 |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 114 van 124) |
+| Aantal vergunningen | 124 (geldig: 114) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -97,11 +97,11 @@ Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|-----------|
-| RVG 117516//31959 | Coversyl arg 10 mg, filmomhulde tabletten | Geldig |
+| RVG 117516//31959 | Coversyl arg 10 mg, filmomhulde tabletten | Niet geregistreerd |
 | RVG 108763 | Perindopril tert-butylamine Mylan 8 mg, tabletten | Geldig |
-| RVG 116528 | Bipressil 10 mg/5 mg filmomhulde tabletten | Geldig |
+| RVG 116528 | Bipressil 10 mg/5 mg filmomhulde tabletten | Niet geregistreerd |
 | RVG 107064 | Perindopril arginine/Indapamide Mylan 5/1,25 mg, filmomhulde tabletten | Geldig |
-| RVG 114414 | Prestalia 7 mg/5 mg, tabletten | Geldig |
+| RVG 114414 | Prestalia 7 mg/5 mg, tabletten | Niet geregistreerd |
 
 ---
 

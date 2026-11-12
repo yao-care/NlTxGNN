@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 312
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Temazepam: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ De kandidaten die het TxGNN-model voor Temazepam voorstelt (score ≥ 0,99), zij
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
 | Bekende toepassingen onder de modelkandidaten | 0 |
 | Bewijsniveau | Niet van toepassing |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 
 ## Bekende toepassingen onder de kandidaten van het model
 
@@ -74,7 +74,7 @@ De kandidaten die het TxGNN-model voor Temazepam voorstelt (score ≥ 0,99), zij
 
 | Registratie | Product | Toedieningsvorm | Status |
 |------|------|------|------|
-| RVG 56929 | Temazepam Apotex 20 mg, capsules |  | Geldig |
+| RVG 56929 | Temazepam Apotex 20 mg, capsules |  | Niet geregistreerd |
 
 ## Veiligheidsoverwegingen
 

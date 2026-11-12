@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,10 +52,9 @@ Er zijn momenteel **geen geregistreerde klinische studies** en **16 publicaties*
 | Voorspelde nieuwe indicatie | Restless legs syndrome |
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 24 van 25) |
+| Aantal vergunningen | 25 (geldig: 24) |
 | Aanbevolen beslissing | Hold |
-
 
 ---
 
@@ -93,7 +92,13 @@ De onderstaande publicaties zijn algemeen van aard. Geen ervan onderzoekt oxcarb
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118970//24751 | Trileptal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 118970//24751 | Trileptal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-oxcarbazepine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118970//24751 / Trileptal 300 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118970//24751 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxcarbazepine-1 -->
 
 ---
 
@@ -138,6 +143,18 @@ Het model voorspelde ook andere indicaties. Hieronder staat een korte samenvatti
 | 6 | Mictie-geïnduceerde aanvallen | 0,9989 | L4 | Hold | Alleen algemene reviews en richtlijnen |
 | 7 | Orgasme-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Alleen modelvoorspelling; geen literatuur |
 | 8 | Eet-geïnduceerde aanvallen | 0,9989 | L5 | Hold | Geen relevante literatuur |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 118970//24751: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: voorspelde nieuwe indicatie Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5)."
@@ -48,8 +48,8 @@ Levofloxacine is een fluorochinolon-antibioticum dat wordt gebruikt bij bacteri√
 | Voorspelde nieuwe indicatie | Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
 | TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 21 van 21) |
+| Aantal vergunningen | 21 (geldig: 21) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling redelijk?

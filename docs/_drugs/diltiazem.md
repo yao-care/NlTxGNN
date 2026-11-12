@@ -3,7 +3,7 @@ layout: default
 title: Diltiazem
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 115
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Diltiazem: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Het TxGNN-model (score ≥ 0,99) heeft kandidaten voor Diltiazem opgeleverd. All
 
 | Item | Inhoud |
 |------|------|
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 13) |
+| Aantal vergunningen | 13 (geldig: 13) |
 | Bekende toepassingen onder de modelkandidaten | 1 |
 | Handelsstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 

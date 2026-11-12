@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Lansoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt voor zuurg
 | Voorspelde nieuwe indicatie | Duodenal obstruction |
 | TxGNN-voorspellingsscore | 0.9968 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -86,7 +86,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard (status: geldig) | Niet vermeld | Niet vermeld |
+| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard (status: niet geregistreerd) | Niet vermeld | Niet vermeld |
+
+<!-- review:begin nl-lic-20261112-lansoprazole-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114236 / Lansoprazol Teva 30 mg, maagsapresistente capsules, hard (status: geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 114236 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-lansoprazole-2 -->
 
 Wel zijn er mogelijk andere lansoprazolproducten op de markt die niet in de samengestelde data zijn opgenomen.
 
@@ -111,7 +117,12 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 
 **Onderbouwing:**
 - Er zijn geen klinische studies en geen literatuur die lansoprazol specifiek bij duodenogastrische reflux onderzoekt. Het mechanisme (zuurremming) pakt de onderliggende oorzaak niet aan.
-- De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken.
+
+<!-- review:begin nl-lic-20261112-lansoprazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het mechanisme (zuurremming) pakt de onderliggende oorzaak niet aan. / De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-lansoprazole-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De SmPC en bijsluiter van het CBG-MEB ophalen en analyseren (waarschuwingen en contra-indicaties), wat voor de veiligheidsscreening een blokkerende lacune is
@@ -119,6 +130,20 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 - Gerichte literatuursearch naar protonpompremmers bij duodenogastrische (gal)reflux, inclusief klinische studies
 - Vaststellen of er actuele, geldige lansoprazolproducten in Nederland beschikbaar zijn
 - Beoordelen of er een klinische onderbouwing is voor symptomatische behandeling, los van het effect op galreflux zelf
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114236: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

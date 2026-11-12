@@ -50,8 +50,8 @@ Orlistat is een lipaseremmer die oorspronkelijk wordt gebruikt voor de behandeli
 | Voorspelde nieuwe indicatie | Hypervitaminose (hypervitaminosis) |
 | TxGNN-voorspellingsscore | 0.9942 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---

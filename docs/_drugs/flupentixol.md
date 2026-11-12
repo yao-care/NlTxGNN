@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Flupentixol: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indica…"
@@ -48,8 +48,8 @@ Flupentixol is een antipsychoticum van het thioxanthene-type dat oorspronkelijk 
 | Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,8 +72,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118742//108184 | Fluanxol 5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 118742//108184 | Fluanxol 5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-flupentixol-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118742//108184 / Fluanxol 5 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 118742//108184 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-flupentixol-3 -->
 
 ## Veiligheidsoverwegingen
 
@@ -86,17 +91,43 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is uitsluitend een modelvoorspelling (bewijsniveau L5) zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is de enige Nederlandse registratie vervallen en ontbreken veiligheidsgegevens uit de bijsluitertekst.
+- Er is uitsluitend een modelvoorspelling (bewijsniveau L5) zonder klinische studies, literatuur of aannemelijk werkingsmechanisme.
+
+<!-- review:begin nl-lic-20261112-flupentixol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is uitsluitend een modelvoorspelling (bewijsniveau L5) zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is de enige Nederlandse registratie vervallen en ontbreken veiligheidsgegevens uit de bijsluitertekst.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-flupentixol-1 -->
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de CBG-MEB-bijsluiter/SmPC
 - Volledige gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - Preklinisch bewijs (bijv. retinale modellen) dat een verband tussen dopaminereceptorblokkade en retinale dystrofie ondersteunt
-- Een beoordeling van de haalbaarheid van toediening, gezien de vervallen registratie
+
+<!-- review:begin nl-lic-20261112-flupentixol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Preklinisch bewijs (bijv. retinale modellen) dat een verband tussen dopaminereceptorblokkade en retinale dystrofie ondersteunt / Een beoordeling van de haalbaarheid van toediening, gezien de vervallen registratie” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-flupentixol-2 -->
 
 ---
 
 *Opmerking: de overige acht voorspelde indicaties (o.a. Charcot-Marie-Tooth type 1G, congenitale glycosylatiestoornis, polymicrogyrie, hydranencefalie, drie vormen van myopie en atypische glycine-encefalopathie) hebben eveneens bewijsniveau L5, zonder studies of publicaties, en eveneens de aanbeveling Hold.*
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie vervallen en ontbreken veiligheidsgegevens uit de bijsluitertekst” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een beoordeling van de haalbaarheid van toediening, gezien de vervallen registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118742//108184: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

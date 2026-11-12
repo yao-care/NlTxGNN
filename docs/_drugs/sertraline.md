@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Sertraline is een selectieve serotonineheropnameremmer (SSRI) die wordt gebruikt
 | Voorspelde nieuwe indicatie | Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 33 van 34) |
+| Aantal vergunningen | 34 (geldig: 33) |
 | Aanbevolen beslissing | Hold (afwachten) |
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: voorspelde nieuwe indicatie Colobomatous microphthalmia-rhizomelic dysplasia syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,8 +52,8 @@ Het TxGNN-model voorspelt als hoogst gerangschikte uitkomst een zeer zeldzaam sk
 | TxGNN-voorspellingsscore (rang 1) | 1.0000 |
 | Bewijsniveau (rang 1) | L5 |
 | Beste voorspelling met bewijs | Juveniele idiopathische artritis (score 0.9993, bewijsniveau L3) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold (voor rang 1); JIA: onderzoeksvraag |
 
 De rest van dit rapport richt zich daarom op de enige voorspelling met bewijs, JIA. Voor de overige voorspellingen volgt een korte samenvatting.
@@ -98,7 +98,13 @@ Overige gevonden publicaties gaan over andere NSAID's of algemene toedieningssys
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57449 | Piroxicam CF 20 mg, capsules | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 57449 | Piroxicam CF 20 mg, capsules | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-piroxicam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 57449 / Piroxicam CF 20 mg, capsules / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 57449 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-piroxicam-1 -->
 
 Er is één vergunning, en deze is geannuleerd. Piroxicam is daarmee in Nederland niet meer via deze vergunning beschikbaar, wat de praktische toepasbaarheid beperkt.
 
@@ -135,6 +141,19 @@ Voor de officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samen
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - Voor JIA: beoordeling van de relevantie van de oudere kinderstudies, vergelijking met momenteel beschikbare NSAID's en een kinderspecifiek veiligheids- en doseringsprofiel
 - Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannuleerde vergunning
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 57449: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

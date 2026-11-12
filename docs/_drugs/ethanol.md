@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ethanol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens"
 monitor_inn: "ethanol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -51,8 +51,8 @@ Het TxGNN-model voorspelt dat ethanol mogelijk werkzaam is bij **migraine**, maa
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0,9929 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen beslissing | Hold |
 
 ---

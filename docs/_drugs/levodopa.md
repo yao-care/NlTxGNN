@@ -50,8 +50,8 @@ Levodopa is een voorloper van dopamine en wordt van oudsher gebruikt bij de ziek
 | Voorspelde nieuwe indicatie | Rasmussen-encefalitis |
 | TxGNN-voorspellingsscore | 0,9906 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
-| Aantal vergunningen | 10 (geldig: 10) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 84 van 90) |
+| Aantal vergunningen | 90 (geldig: 84) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -80,14 +80,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Het middel is in Nederland op de markt; alle 10 registraties zijn geldig. Het goedgekeurde indicatiegebied is in de gegevens niet vermeld.
+Het middel is in Nederland op de markt. Het goedgekeurde indicatiegebied is in de gegevens niet vermeld.
+
+<!-- review:begin nl-lic-20261112-levodopa-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; alle 10 registraties zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 90, waarvan geldig: 84; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-levodopa-1 -->
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 119585//19428 | Madopar 125 mg, dispergeerbare tabletten | Geldig |
-| RVG 102236 | Levodopa/Benserazide 200 mg/50 mg PCH, tabletten | Geldig |
-| RVG 120455//08740 | Sinemet 125, tabletten | Geldig |
-| RVG 119861//08740 | Sinemet 125, tabletten | Geldig |
+| RVG 119585//19428 | Madopar 125 mg, dispergeerbare tabletten | Niet geregistreerd |
+| RVG 102236 | Levodopa/Benserazide 200 mg/50 mg PCH, tabletten | Niet geregistreerd |
+| RVG 120455//08740 | Sinemet 125, tabletten | Niet geregistreerd |
+| RVG 119861//08740 | Sinemet 125, tabletten | Niet geregistreerd |
 | RVG 116871 | Levodopa/Carbidopa/Entacapone Mylan 175 mg/43,75 mg/200 mg, filmomhulde tabletten | Geldig |
 
 ---
@@ -115,7 +121,12 @@ Epilepsie op deze lijst is extra relevant, omdat Rasmussen-encefalitis gepaard g
 
 **Onderbouwing:**
 - De voorspelling is uitsluitend gebaseerd op een modelscore (bewijsniveau L5), zonder klinische studies of literatuur. Er is geen aannemelijk mechanisme, en de mogelijke invloed van levodopa op de aanvalsdrempel (epilepsie staat op de lijst van contra-indicaties in de kennisgraaf) is een zorg bij deze ziekte.
-- Daarbij zijn in Nederland 10 van de 10 registraties geldig, en ontbreken de gegevens uit de bijsluiter.
+
+<!-- review:begin nl-lic-20261112-levodopa-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen aannemelijk mechanisme, en de mogelijke invloed van levodopa op de aanvalsdrempel (epilepsie staat op de lijst van contra-indicaties in de kennisgraaf) is een zorg bij deze ziekte. / Daarbij zijn in Nederland 10 van de 10 registraties geldig, en ontbreken de gegevens uit de bijsluiter.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 90, waarvan geldig: 84; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-levodopa-2 -->
 
 **Om verder te gaan is nodig:**
 - Productinformatie (waarschuwingen en contra-indicaties) van het CBG-MEB downloaden en analyseren; zonder deze gegevens kan de veiligheidsscreening niet worden voortgezet
@@ -139,6 +150,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “aangezien alle geregistreerde producten in de gegevens als doorgehaald staan” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “alle 10 registraties zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarbij zijn in Nederland 10 van de 10 registraties geldig, en ontbreken de gegevens uit de bijsluiter” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

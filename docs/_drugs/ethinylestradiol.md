@@ -48,8 +48,8 @@ Het TxGNN-model (deep learning) voorspelt dat ethinylestradiol werkzaam zou kunn
 | Voorspelde nieuwe indicatie | Verhoogd zinkgehalte in plasma |
 | TxGNN-voorspellingsscore | 0,9963 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
-| Aantal vergunningen | 11 (geldig: 11) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 103 van 111) |
+| Aantal vergunningen | 111 (geldig: 103) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -70,23 +70,27 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.
-
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 118683//08514 | Trinordiol, dragees | Geldig |
-| RVG 115388 | Desogestrel/Ethinylestradiol STADA 150/30 microgram tabletten | Geldig |
-| RVG 116281 | Kosidina 0,075 mg/0,030 mg 21+7, tabletten | Geldig |
-| RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Geldig |
-| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Geldig |
-
-Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen.
+Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.
 
 <!-- review:begin nl-lic-20261106-ethinylestradiol-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 11, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ethinylestradiol-1 -->
+
+<!-- review:begin nl-lic-20261112-ethinylestradiol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ethinylestradiol-1 -->
+
+| RVG-nummer | Productnaam | Status |
+|---------|------|------|
+| RVG 118683//08514 | Trinordiol, dragees | Niet geregistreerd |
+| RVG 115388 | Desogestrel/Ethinylestradiol STADA 150/30 microgram tabletten | Niet geregistreerd |
+| RVG 116281 | Kosidina 0,075 mg/0,030 mg 21+7, tabletten | Geldig |
+| RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Niet geregistreerd |
+| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Niet geregistreerd |
 
 ## Veiligheidsoverwegingen
 
@@ -114,8 +118,13 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 **Onderbouwing:**
 - De voorspelling steunt alleen op een hoge modelscore (L5), zonder klinische studies of literatuur en zonder verifieerbaar mechanisme.
 - Een verhoogd zinkgehalte in plasma is een laboratoriumbevinding en geen gangbaar behandeldoel.
-- Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11.
 - De veiligheidsscreening kan niet worden voortgezet omdat de productinformatie ontbreekt.
+
+<!-- review:begin nl-lic-20261112-ethinylestradiol-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11. / De veiligheidsscreening kan niet worden voortgezet omdat de productinformatie ontbreekt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ethinylestradiol-3 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De waarschuwingen en contra-indicaties uit de bijsluiter of SmPC van het CBG-MEB ophalen en verwerken (blokkerend).
@@ -132,7 +141,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen” | Gecorrigeerd (herzien op 2026-11-12; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig (11 van 11)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

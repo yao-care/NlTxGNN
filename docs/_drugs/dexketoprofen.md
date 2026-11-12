@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Dexketoprofen is een niet-steroïde ontstekingsremmer (NSAID) en het actieve S-(
 | Voorspelde nieuwe indicatie | Peesontsteking (tendinitis) |
 | TxGNN-voorspellingsscore | 0,9990 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

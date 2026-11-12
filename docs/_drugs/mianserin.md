@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in d…"
@@ -48,8 +48,8 @@ Mianserine is een tetracyclisch antidepressivum dat oorspronkelijk wordt gebruik
 | Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kinderleeftijd (benign paroxysmal torticollis of infancy) |
 | TxGNN-voorspellingsscore | 0.9949 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 3) |
+| Aantal vergunningen | 3 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?
@@ -74,7 +74,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 57408 | Mianserine HCl 30 mg Teva, tabletten (status: geannuleerd) | Tabletten (volgens productnaam) | Niet vermeld in de registratiegegevens |
 
-Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1. De evidentie voor een nieuwe indicatie blijft beperkt.
+De evidentie voor een nieuwe indicatie blijft beperkt.
+
+<!-- review:begin nl-lic-20261112-mianserin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1. De evidentie voor een nieuwe indicatie blijft beperkt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-mianserin-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -97,6 +103,19 @@ Raadpleeg voor verdere veiligheidsinformatie (waarschuwingen, contra-indicaties 
 - Preklinisch of observationeel bewijs voordat een klinisch traject wordt overwogen.
 
 **Opmerking over andere voorspellingen:** de andere voorspelde indicaties in de data, zoals melancholie, neurotische depressie, neurotische stoornis en dysthyme stoornis, liggen veel dichter bij de bestaande indicaties van mianserine. Ze hebben meer literatuur (bewijsniveau L3–L4) en zijn daarom beter geschikt voor verder onderzoek. Het gaat daarbij grotendeels om overlap met de oorspronkelijke indicatie en niet om echte herpositionering.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

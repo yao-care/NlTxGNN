@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
@@ -50,8 +50,8 @@ Olanzapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij onder me
 | Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) |
 | TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 68 van 69) |
+| Aantal vergunningen | 69 (geldig: 68) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -74,15 +74,25 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-olanzapine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-olanzapine-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 112855 | Malanxin 20 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 112855 | Malanxin 20 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
-De enige bekende vergunning bij het CBG-MEB is doorgehaald.
+<!-- review:begin nl-lic-20261112-olanzapine-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 112855 / Malanxin 20 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 112855 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-olanzapine-3 -->
 
 ---
 
@@ -100,7 +110,13 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor de veiligheidsinfo
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust alleen op het model (L5). Er zijn geen studies of publicaties, er is geen plausibel mechanisme en toepassing bij zuigelingen zou grote veiligheidsrisico's met zich meebrengen. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- De voorspelling berust alleen op het model (L5). Er zijn geen studies of publicaties, er is geen plausibel mechanisme en toepassing bij zuigelingen zou grote veiligheidsrisico's met zich meebrengen.
+
+<!-- review:begin nl-lic-20261112-olanzapine-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen studies of publicaties, er is geen plausibel mechanisme en toepassing bij zuigelingen zou grote veiligheidsrisico's met zich meebrengen. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-olanzapine-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Een onderbouwd farmacologisch of pathofysiologisch mechanisme (de mechanismegegevens ontbreken nog)
@@ -116,6 +132,21 @@ In de gegevens staan twee andere voorspellingen met meer ondersteuning. Beide zi
 
 - **Agorafobie** (score 0,9947): bewijs beperkt tot een open-label studie van 12 weken bij therapieresistente paniekstoornis (PMID 16415705), twee casuïstische meldingen en systematische reviews die alleen context bieden. Er is geen RCT. De metabole en sederende last van olanzapine weegt zwaar, omdat er eerstelijnsopties bestaan (SSRI's, SNRI's, CBT).
 - **Dysthymie**: het bewijs is grotendeels indirect en geëxtrapoleerd uit depressieve stoornis, inclusief een Cochrane-review over tweedegeneratie-antipsychotica (PMID 21154393). De risico-batenverhouding van langdurig gebruik bij een chronische, mildere aandoening is zonder aanvullende gegevens ongunstig.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning bij het CBG-MEB is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 112855: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

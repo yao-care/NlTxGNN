@@ -50,8 +50,8 @@ Mebendazol is een ontwormingsmiddel dat oorspronkelijk wordt gebruikt tegen worm
 | Voorspelde nieuwe indicatie | Acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9920 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 13) |
+| Aantal vergunningen | 13 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---

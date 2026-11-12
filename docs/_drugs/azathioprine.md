@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Azathioprine: voorspelde nieuwe indicatie Colobomateuze microftalmie-rizomele dysplasiesyndroom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (bewijsniveau L5). Oorspronkelijke indicati…"
 ---
 
@@ -48,8 +48,8 @@ Azathioprine is een immunosuppressivum (purine-analoog) dat wordt gebruikt bij a
 | Voorspelde nieuwe indicatie | Colobomateuze microftalmie-rizomele dysplasiesyndroom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 12 van 13) |
+| Aantal vergunningen | 13 (geldig: 12) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

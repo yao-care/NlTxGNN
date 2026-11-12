@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Methylfenidaat is een stimulerend middel voor het centrale zenuwstelsel dat oors
 | Voorspelde nieuwe indicatie | Faciodigitogenitaal syndroom (faciodigitogenital syndrome) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 104 van 105) |
+| Aantal vergunningen | 105 (geldig: 104) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -87,9 +87,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor faciodigitogenitaa
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118526//33227 | Equasym XL 10 mg capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte (volgens productnaam) | Niet vermeld; vergunning geldig |
+| RVG 118526//33227 | Equasym XL 10 mg capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte (volgens productnaam) | Niet vermeld; niet geregistreerd |
 
-Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en het middel is in Nederland op de markt. De gegevens kunnen onvolledig zijn en dienen te worden geverifieerd bij het CBG-MEB.
+<!-- review:begin nl-lic-20261112-methylphenidate-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118526//33227 / Equasym XL 10 mg capsules met gereguleerde afgifte, hard / Capsule met gereguleerde afgifte (volgens productnaam) / Niet vermeld; vergunning geldig” Gecorrigeerd: registratienummer RVG 118526//33227 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-methylphenidate-2 -->
+
+Het middel is in Nederland op de markt. De gegevens kunnen onvolledig zijn en dienen te worden geverifieerd bij het CBG-MEB.
+
+<!-- review:begin nl-lic-20261112-methylphenidate-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 105, waarvan geldig: 104; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-methylphenidate-1 -->
 
 ---
 
@@ -127,6 +139,20 @@ Voor volledige waarschuwingen en contra-indicaties volgens de officiële tekst: 
 - Literatuur- en studieonderzoek naar methylfenidaat bij aandachts- of gedragsproblemen bij Aarskog-Scott-syndroom
 - De huidige marktstatus en geldige vergunningen in Nederland verifiëren
 - Bij vervolgonderzoek van andere voorspellingen: dysthymie (L4) is de meest kansrijke als onderzoeksvraag, maar vereist eerst directe studies naar methylfenidaat bij dysthymie zonder ADHD
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118526//33227: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

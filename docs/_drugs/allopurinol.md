@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (hepatic porphyria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregis
 | Voorspelde nieuwe indicatie | Hepatische porfyrie (hepatic porphyria) |
 | TxGNN-voorspellingsscore | 0,9995 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 23 van 24) |
+| Aantal vergunningen | 24 (geldig: 23) |
 | Aanbevolen beslissing | Hold |
 
 ---

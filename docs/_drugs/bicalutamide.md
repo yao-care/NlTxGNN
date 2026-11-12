@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Bicalutamide is een niet-steroïde androgeenreceptorantagonist. Het TxGNN-model 
 | Voorspelde nieuwe indicatie | hypertrichose (hypertrichosis (disease)) |
 | TxGNN-voorspellingsscore | 0.9969 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen besluit | Hold |
 
 ---

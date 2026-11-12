@@ -52,8 +52,8 @@ Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk word
 | Voorspelde nieuwe indicatie | Acute urate nephropathy |
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
+| Aantal vergunningen | 7 (geldig: 7) |
 | Aanbevolen beslissing | Hold (zie conclusie) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Clobazam: voorspelde nieuwe indicatie Febrile infection-related epilepsy syndroom (febrile infection-related epilepsy syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale…"
 ---
 
@@ -48,8 +48,8 @@ Clobazam is een benzodiazepine dat werkt als positieve allosterische modulator v
 | Voorspelde nieuwe indicatie | Febrile infection-related epilepsy syndroom (febrile infection-related epilepsy syndrome) |
 | TxGNN-voorspellingsscore | 0,9982 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -73,7 +73,13 @@ Geen van beide publicaties onderzoekt clobazam bij FIRES. De evidentie voor deze
 
 ## Informatie over de Nederlandse markt
 
-De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld. De marktstatus volgens de lokale gegevens is "In de handel".
+De marktstatus volgens de lokale gegevens is "In de handel".
+
+<!-- review:begin nl-lic-20261112-clobazam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld. De marktstatus volgens de lokale gegevens is "In de handel".” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 11, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-clobazam-1 -->
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
@@ -101,6 +107,19 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 - Gegevens over het werkingsmechanisme en een mechanistische analyse specifiek voor FIRES
 - De SmPC van het Nederlandse product (CBG-MEB) voor waarschuwingen en contra-indicaties
 - Een veiligheidsplan voor langdurig gebruik bij kinderen (sedatie, tolerantie, afhankelijkheid) en voor het hoge aantal interacties met onder meer opioïden
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

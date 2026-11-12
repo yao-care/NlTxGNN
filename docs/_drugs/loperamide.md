@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
 description: "Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Loperamide wordt van oudsher gebruikt om diarree en dysenterie symptomatisch te 
 | Voorspelde nieuwe indicatie | Acute contagious conjunctivitis |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 31 van 34) |
+| Aantal vergunningen | 34 (geldig: 31) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,9 +95,9 @@ Gegevens over farmaceutische vorm en goedgekeurde indicatie ontbreken.
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 116627//08423 | Imodium 0,2 mg/ml drank | Geldig |
-| RVG 114697 | Loperuma 2 mg/125 mg, kauwtabletten | Geldig |
-| RVG 113192 | Losiveca 2mg/ 125mg, tabletten | Geldig |
+| RVG 116627//08423 | Imodium 0,2 mg/ml drank | Niet geregistreerd |
+| RVG 114697 | Loperuma 2 mg/125 mg, kauwtabletten | Niet geregistreerd |
+| RVG 113192 | Losiveca 2mg/ 125mg, tabletten | Niet geregistreerd |
 
 ---
 

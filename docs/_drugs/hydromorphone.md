@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Hydromorfon is een opioïde pijnstiller (mu-opioïdagonist). Het model voorspelt
 | Voorspelde nieuwe indicatie | Pharyngitis |
 | TxGNN-voorspellingsscore | 0.9981 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 16) |
+| Aantal vergunningen | 16 (geldig: 15) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---
@@ -101,7 +101,13 @@ Bij de voorspelling "hoofdpijnaandoening" (score 0,9965, bewijsniveau L3) zijn d
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (vergunning geldig) |
+| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-hydromorphone-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118401//22165 / Palladone-SR capsules 24 mg, capsules met verlengde afgifte / Capsule met verlengde afgifte / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118401//22165 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hydromorphone-2 -->
 
 Het CBG-MEB is de bevoegde Nederlandse autoriteit.
 
@@ -123,13 +129,33 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 **Onderbouwing:**
 - De hoge TxGNN-score voor faryngitis berust waarschijnlijk op netwerknabijheid met de oorspronkelijke indicaties, niet op een plausibel mechanisme of klinisch bewijs; de gevonden trials gaan over postoperatieve pijn.
-- De enige voorspelling met enig klinisch bewijs (hoofdpijn/migraine) laat vooral vergelijkende studies zien, en richtlijnen raden opioïden af als eerstelijnsbehandeling. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- De enige voorspelling met enig klinisch bewijs (hoofdpijn/migraine) laat vooral vergelijkende studies zien, en richtlijnen raden opioïden af als eerstelijnsbehandeling.
+
+<!-- review:begin nl-lic-20261112-hydromorphone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige voorspelling met enig klinisch bewijs (hoofdpijn/migraine) laat vooral vergelijkende studies zien, en richtlijnen raden opioïden af als eerstelijnsbehandeling. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hydromorphone-1 -->
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en de officiële veiligheidsinformatie van het CBG-MEB (SmPC); deze ontbreken nu en blokkeren de veiligheidsscreening.
 - Resultaten van de fase 4-RCT NCT02389829 om de richting van het effect bij migraine te beoordelen.
 - Gerichte literatuur of studies naar hydromorfon bij faryngitis zelf (niet bij postoperatieve pijn).
 - Een beoordeling van de toedieningsroute en de beschikbaarheid van een geldig product in Nederland.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118401//22165: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

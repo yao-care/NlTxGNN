@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fluorometholone: voorspelde nieuwe indicatie Postinfectieuze vasculitis (postinfectious vasculitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Fluorometholon is een corticosteroïde (ontstekingsremmer) in oogdruppels. Het T
 | Voorspelde nieuwe indicatie | Postinfectieuze vasculitis (postinfectious vasculitis) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

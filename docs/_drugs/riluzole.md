@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 description: "Riluzole: voorspelde nieuwe indicatie Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (bewijsniveau L5)."
@@ -50,8 +50,8 @@ Riluzol is een geneesmiddel met een glutamaatmodulerende werking dat in Nederlan
 | Voorspelde nieuwe indicatie | Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---

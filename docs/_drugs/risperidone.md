@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: voorspelde nieuwe indicatie Familiale horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) (bewijsniveau L5)."
@@ -48,8 +48,8 @@ Risperidon is een atypisch antipsychoticum dat in Nederland is geregistreerd. He
 | Voorspelde nieuwe indicatie | Familiale horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 55 van 56) |
+| Aantal vergunningen | 56 (geldig: 55) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Esketamine: voorspelde nieuwe indicatie agorafobie (agoraphobia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Esketamine is een NMDA-receptorantagonist die al wordt gebruikt bij therapieresi
 | Voorspelde nieuwe indicatie | agorafobie (agoraphobia) |
 | TxGNN-voorspellingsscore | 0,9957 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 14 van 15) |
+| Aantal vergunningen | 15 (geldig: 14) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

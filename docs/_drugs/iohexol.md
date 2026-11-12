@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Iohexol: voorspelde nieuwe indicatie Insomnia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (diagno…"
 monitor_inn: "Iohexol"
 predicted_indications: ["insomnia (disease)", "anxiety"]
@@ -48,8 +48,8 @@ Iohexol is een jodiumhoudend, niet-ionisch röntgencontrastmiddel dat wordt gebr
 | Voorspelde nieuwe indicatie | Insomnia |
 | TxGNN-voorspellingsscore | 0,9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -79,7 +79,13 @@ Voor insomnia is momenteel geen gerelateerde literatuur beschikbaar. Voor de twe
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie (status: geldig) | Niet vermeld | Niet vermeld |
+| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie (status: niet geregistreerd) | Niet vermeld | Niet vermeld |
+
+<!-- review:begin nl-lic-20261112-iohexol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117156 / Nitigraf 350 mg I/ml, oplossing voor injectie (status: geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 117156 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-iohexol-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -107,13 +113,32 @@ Mannitol is geclassificeerd als "Moderate". Dit is een selectie uit de beschikba
 
 **Onderbouwing:**
 - Er is geen plausibel werkingsmechanisme, geen klinische studie en geen relevante literatuur voor insomnia of angst. De hoge TxGNN-scores (0,9987 en 0,9925) komen van het TxGNN-model (deep learning) en kunnen overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
-- Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter.
+
+<!-- review:begin nl-lic-20261112-iohexol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De hoge TxGNN-scores (0,9987 en 0,9925) komen van het TxGNN-model (deep learning) en kunnen overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. / Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-iohexol-1 -->
 
 **Om verder te kunnen gaan is het volgende nodig:**
 - Bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties) ophalen en verwerken
 - Gegevens over het werkingsmechanisme aanvullen via DrugBank
 - Een farmacologisch onderbouwde hypothese opstellen die verder gaat dan de modelscore, voordat verdere evaluatie plaatsvindt
 - Preklinisch of mechanistisch bewijs voor effecten op slaap- of angstregulatie, indien beschikbaar
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117156: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

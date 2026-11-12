@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 276
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: voorspelde nieuwe indicatie HIV infectious disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Pravastatine is een statine (HMG-CoA-reductaseremmer) dat oorspronkelijk wordt g
 | Voorspelde nieuwe indicatie | HIV infectious disease |
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L4 (zie toelichting hieronder) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 34 van 34) |
+| Aantal vergunningen | 34 (geldig: 34) |
 | Aanbevolen beslissing | Hold |
 
 *Toelichting bewijsniveau: de data die voor dit rapport zijn samengesteld, kennen aan deze voorspelling niveau L4 toe. Er is geen pravastatinestudie bij deze indicatie, dus het bewijs blijft beperkt tot mechanistische en indirecte gegevens.*

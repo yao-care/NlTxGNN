@@ -50,8 +50,8 @@ Naproxen is een niet-steroïde ontstekingsremmer (NSAID) die oorspronkelijk word
 | Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) |
 | TxGNN-voorspellingsscore | 0.9935 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 48 van 48) |
+| Aantal vergunningen | 48 (geldig: 48) |
 | Aanbevolen beslissing | Hold |
 
 ---

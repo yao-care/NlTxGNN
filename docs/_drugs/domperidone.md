@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Domperidone: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld …"
 ---
 
@@ -48,8 +48,8 @@ Domperidon is een perifere dopamine-D2/D3-receptorantagonist die wordt gebruikt 
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis) |
 | TxGNN-voorspellingsscore | 0,9908 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 9) |
+| Aantal vergunningen | 9 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Zuclopenthixol: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (bewijsniveau L5). Oorspronkelijke indicatie: Schizofrenie"
 monitor_inn: "zuclopenthixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
@@ -50,8 +50,8 @@ Zuclopenthixol is een antipsychoticum (thioxantheen) dat oorspronkelijk wordt ge
 | Voorspelde nieuwe indicatie | Retinale dystrofie met of zonder extraoculaire afwijkingen |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119731//04295 | Cisordinol 10 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar |
 
-Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en het product is op de markt (CBG-MEB).
+Het product is op de markt (CBG-MEB).
+
+<!-- review:begin nl-lic-20261112-zuclopenthixol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en het product is op de markt (CBG-MEB).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 10, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-zuclopenthixol-1 -->
 
 ---
 
@@ -108,6 +114,19 @@ Aanvullend, vanuit de mechanistische beoordeling: antipsychotica geven neurologi
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of mechanistisch bewijs dat zuclopenthixol relevant maakt voor retinale dystrofie
 - Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de vergunning is geschrapt
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

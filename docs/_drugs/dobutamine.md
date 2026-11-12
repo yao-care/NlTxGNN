@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 118
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dobutamine: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de voor dit rapport samengestelde gegevens"
 monitor_inn: "dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
@@ -50,8 +50,8 @@ Dobutamine is een bèta-1-adrenerge agonist en inotroop middel dat intraveneus w
 | Voorspelde nieuwe indicatie | Alopecia |
 | TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 107115 | Dobutamine Claris 12,5 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet beschikbaar (vergunning geldig) |
+| RVG 107115 | Dobutamine Claris 12,5 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-dobutamine-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 107115 / Dobutamine Claris 12,5 mg/ml, concentraat voor oplossing voor infusie / Concentraat voor oplossing voor infusie / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 107115 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dobutamine-2 -->
 
 ---
 
@@ -102,13 +108,33 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het model (L5). Er zijn geen klinische studies, en de enige gevonden publicatie is een veterinaire casuïstiek zonder bewijs van werkzaamheid. Er is geen plausibel werkingsmechanisme, en intraveneuze toediening van een hartstimulerend middel past niet bij haaruitval. Bovendien is de enige Nederlandse vergunning doorgehaald.
+- De voorspelling berust uitsluitend op het model (L5). Er zijn geen klinische studies, en de enige gevonden publicatie is een veterinaire casuïstiek zonder bewijs van werkzaamheid. Er is geen plausibel werkingsmechanisme, en intraveneuze toediening van een hartstimulerend middel past niet bij haaruitval.
+
+<!-- review:begin nl-lic-20261112-dobutamine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen plausibel werkingsmechanisme, en intraveneuze toediening van een hartstimulerend middel past niet bij haaruitval. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-dobutamine-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (DrugBank) en de officiële veiligheidsinformatie uit de SmPC van het CBG-MEB
 - Preklinisch onderzoek naar een effect van bèta-1-agonisme op haarfollikels
 - Beoordeling van de toedieningsroute (intraveneus versus lokaal), aangezien die momenteel niet bij de voorspelde indicatie past
 - Een heroverweging van de modelvoorspelling, gezien het waarschijnlijke grafartefact via minoxidil
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 107115: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

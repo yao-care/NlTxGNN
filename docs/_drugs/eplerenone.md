@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Eplerenone: voorspelde nieuwe indicatie pulmonale hypertensie door longziekte en/of hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (bewijsniveau L5). Oorspronkelijke indicatie:…"
 ---
 
@@ -48,8 +48,8 @@ Eplerenon is een selectieve mineralocorticoïdreceptorantagonist. Het TxGNN-mode
 | Voorspelde nieuwe indicatie | pulmonale hypertensie door longziekte en/of hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | TxGNN-voorspellingsscore | 0,9950 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 23 van 24) |
+| Aantal vergunningen | 24 (geldig: 23) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

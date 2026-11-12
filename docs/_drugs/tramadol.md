@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Tramadol: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Artrose, artrose-gevoeligheid en artropathie"
 monitor_inn: "tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
@@ -49,8 +49,8 @@ Het TxGNN-model voorspelt dat het werkzaam zou kunnen zijn bij **acromesomele dy
 | Voorspelde nieuwe indicatie | Acromesomele dysplasie, type Hunter-Thompson |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 52 van 54) |
+| Aantal vergunningen | 54 (geldig: 52) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -73,13 +73,19 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 ## Informatie over de Nederlandse markt
 
-Alle drie de vergunningen zijn geldig en het middel is op de markt. Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.
+Het middel is op de markt. Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.
+
+<!-- review:begin nl-lic-20261112-tramadol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle drie de vergunningen zijn geldig en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 54, waarvan geldig: 52; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tramadol-1 -->
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 110742 | Tramadol HCl Aurobindo 50 mg, capsules, hard | Geldig |
-| RVG 118638//28113 | Zaldiar 37,5/325 mg, filmomhulde tabletten | Geldig |
-| RVG 119051 | Tramadol/paracetamol 37,5/325 mg Focus, filmomhulde tabletten | Geldig |
+| RVG 118638//28113 | Zaldiar 37,5/325 mg, filmomhulde tabletten | Niet geregistreerd |
+| RVG 119051 | Tramadol/paracetamol 37,5/325 mg Focus, filmomhulde tabletten | Niet geregistreerd |
 
 ## Veiligheidsoverwegingen
 
@@ -102,6 +108,19 @@ Voor de bijsluiterteksten van het CBG-MEB (waarschuwingen en contra-indicaties) 
 - De SmPC-veiligheidsinformatie van het CBG-MEB (waarschuwingen en contra-indicaties), zodat een veiligheidsscreening mogelijk is
 - Preklinisch of klinisch bewijs dat verder gaat dan symptomatische pijnstilling
 - Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen geldig zijn
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

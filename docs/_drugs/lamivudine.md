@@ -50,8 +50,8 @@ Lamivudine is een nucleoside-reversetranscriptaseremmer (NRTI) die oorspronkelij
 | Voorspelde nieuwe indicatie | Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L4 (alleen preklinisch/mechanistisch) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 31 van 31) |
+| Aantal vergunningen | 31 (geldig: 31) |
 | Aanbevolen besluit | Hold |
 
 ---

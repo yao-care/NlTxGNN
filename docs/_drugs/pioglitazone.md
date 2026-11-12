@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (opsismodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Pioglitazon is een insulinesensitizer die oorspronkelijk wordt gebruikt voor de 
 | Voorspelde nieuwe indicatie | Opsismodysplasie (opsismodysplasia) |
 | TxGNN-voorspellingsscore | 0.9959 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,8 +72,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor opsismodysplasie.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten (status: geldig) | Niet vermeld | Niet vermeld |
+| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten (status: niet geregistreerd) | Niet vermeld | Niet vermeld |
 
+<!-- review:begin nl-lic-20261112-pioglitazone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 108791 / Pioglitazon Sanovel 45 mg tabletten (status: geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 108791 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-pioglitazone-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -96,6 +101,19 @@ Voor aanvullende waarschuwingen en contra-indicaties volgens de productinformati
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of mechanistisch onderzoek naar de rol van PPAR-gamma-agonisme bij INPPL1/SHIP2-gerelateerde skeletdysplasie
 - Beoordeling van de status van de Nederlandse registratie en van de beschikbare toedieningsvormen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 108791: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Flavoxate: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit, overwegend onoplettend type (attention deficit hyperactivity disorder… (bewijsniveau L5). Oorspronkelijke indicatie…"
 ---
 
@@ -50,8 +50,8 @@ Flavoxate is een spasmolyticum voor de urinewegen met een gladde-spierontspannen
 | Voorspelde nieuwe indicatie | Aandachtstekortstoornis met hyperactiviteit, overwegend onoplettend type (attention deficit hyperactivity disorder, inattentive type) |
 | TxGNN-voorspellingsscore | 0,9975 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

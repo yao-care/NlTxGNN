@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -45,8 +45,8 @@ Clonazepam is een benzodiazepine dat werkt als positieve allosterische modulator
 | Onderdeel | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Voorspelde nieuwe indicatie | Restless legs syndroom (restless legs syndrome) |
 | TxGNN-voorspellingsscore | 0.9965 |
 | Bewijsniveau | L2 |
@@ -62,6 +62,12 @@ Clonazepam werkt niet op de dopaminerge of ijzergerelateerde routes die aan RLS 
 ## Bewijs uit klinische studies
 
 Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
+
+<!-- review:begin nl-lic-20261112-clonazepam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-clonazepam-1 -->
 
 ## Bewijs uit de literatuur
 
@@ -83,8 +89,6 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 109867 | Clonazepam Sandoz 2 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
-
-De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning.
 
 ## Veiligheid
 
@@ -109,6 +113,18 @@ Bij langdurig gebruik zijn afhankelijkheid, tolerantie en sedatie relevante risi
 - Controle van de SmPC (CBG-MEB) op waarschuwingen en contra-indicaties
 - Een plan voor het bewaken van afhankelijkheid, sedatie en vallen, vooral bij ouderen
 - Gegevens over het werkingsmechanisme voor een stevigere onderbouwing
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

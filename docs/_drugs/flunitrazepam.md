@@ -51,8 +51,8 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **10 publicaties** ge
 | Voorspelde nieuwe indicatie | Migraine disorder |
 | TxGNN-voorspellingsscore | 0.9971 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen beslissing | Hold |
 
 ---

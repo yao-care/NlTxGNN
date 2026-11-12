@@ -49,8 +49,8 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **trigeminuszenuwneop
 | Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) |
 | TxGNN-voorspellingsscore | 0.9962 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
+| Aantal vergunningen | 6 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

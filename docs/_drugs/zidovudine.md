@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Voor deze voorspelling zijn **geen klinische studies** geregistreerd. Er zijn **
 | Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome |
 | TxGNN-voorspellingsscore | 0.9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
-| Aantal vergunningen | 4 (geldig: 4) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 11) |
+| Aantal vergunningen | 11 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -87,9 +87,9 @@ Gegevens over de goedgekeurde indicatie zijn niet beschikbaar in de samengesteld
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Status |
 |---------|------|------|-----------|
-| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg | Filmomhulde tabletten | Geldig |
-| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg | Filmomhulde tabletten | Geldig |
-| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva | Filmomhulde tabletten | Geldig |
+| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg | Filmomhulde tabletten | Niet geregistreerd |
+| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg | Filmomhulde tabletten | Niet geregistreerd |
+| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva | Filmomhulde tabletten | Niet geregistreerd |
 | RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg | Filmomhulde tabletten | Geldig |
 
 ## Veiligheidsoverwegingen

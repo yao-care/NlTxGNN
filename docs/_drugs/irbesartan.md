@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 description: "Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Irbesartan is een angiotensine II-type 1-receptorblokker (ARB), oorspronkelijk g
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9931 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 70 van 71) |
+| Aantal vergunningen | 71 (geldig: 70) |
 | Aanbevolen beslissing | Hold |
 
 Voor dezelfde voorspelling zijn nog drie andere indicaties beoordeeld; zie het onderdeel "Overige voorspelde indicaties".
@@ -111,8 +111,13 @@ Drie opgehaalde artikelen (PMID 38621945, 39155928, 25907932) gaan over andere m
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113084 | Irbesof 300 mg filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
+| RVG 113084 | Irbesof 300 mg filmomhulde tabletten (status: niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
 
+<!-- review:begin nl-lic-20261112-irbesartan-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113084 / Irbesof 300 mg filmomhulde tabletten (status: geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 113084 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-irbesartan-3 -->
 
 ---
 
@@ -152,8 +157,13 @@ Waarschuwingen uit de bijsluiter zijn niet beschikbaar. Raadpleeg de SmPC voor v
 
 **Onderbouwing:**
 - De voorspellingen zijn uitsluitend gebaseerd op het model (L5). Alleen voor pulmonale hypertensie door hypoxie is preklinisch bewijs gevonden (L4, onderzoeksvraag), zonder klinische studies.
-- De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreening).
 - De eerste twee indicaties overlappen met de bestaande indicaties en brengen specifieke risico's mee (nierfunctieverlies bij nierarteriestenose).
+
+<!-- review:begin nl-lic-20261112-irbesartan-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreening). / De eerste twee indicaties overlappen met de bestaande indicaties en brengen specifieke risico's mee (nierfunctieverlies bij nierarteriestenose).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 71, waarvan geldig: 70; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-irbesartan-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB (download en analyse van de PDF)
@@ -161,7 +171,27 @@ Waarschuwingen uit de bijsluiter zijn niet beschikbaar. Raadpleeg de SmPC voor v
 - Klinische studies of systematische reviews per voorspelde indicatie
 - Voor pulmonale hypertensie: een gericht preklinisch model of pilotstudie bij patiënten, met aandacht voor systemische hypotensie
 - Voor maligne (renovasculaire) hypertensie: een veiligheidsbeoordeling met nierfunctie- en kaliummonitoring en uitsluiting van bilaterale nierarteriestenose
-- Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald
+
+<!-- review:begin nl-lic-20261112-irbesartan-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor maligne (renovasculaire) hypertensie: een veiligheidsbeoordeling met nierfunctie- en kaliummonitoring en uitsluiting van bilaterale nierarteriestenose / Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 71, waarvan geldig: 70; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-irbesartan-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113084: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

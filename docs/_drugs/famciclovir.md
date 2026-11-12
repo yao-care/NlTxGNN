@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Famciclovir: voorspelde nieuwe indicatie Postinfectieuze neuralgie (bewijsniveau L5). Oorspronkelijke indicatie: Herpes zoster (gordelroos)"
 monitor_inn: "Famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -50,8 +50,8 @@ Famciclovir is een antiviraal middel dat oorspronkelijk wordt gebruikt voor de b
 | Voorspelde nieuwe indicatie | Postinfectieuze neuralgie |
 | TxGNN-voorspellingsscore | 0.9975 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -84,7 +84,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-famciclovir-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110214 / Afamcivir 500 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 110214 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-famciclovir-3 -->
 
 ---
 
@@ -102,14 +108,40 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er is geen direct klinisch bewijs dat famciclovir postherpetische neuralgie voorkomt of behandelt. De enige gekoppelde studie test oxycodon, en er is geen literatuur. Daarnaast is de enige Nederlandse vergunning ingetrokken, wat de praktische beschikbaarheid beperkt.
+- Er is geen direct klinisch bewijs dat famciclovir postherpetische neuralgie voorkomt of behandelt. De enige gekoppelde studie test oxycodon, en er is geen literatuur.
+
+<!-- review:begin nl-lic-20261112-famciclovir-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige gekoppelde studie test oxycodon, en er is geen literatuur. Daarnaast is de enige Nederlandse vergunning ingetrokken, wat de praktische beschikbaarheid beperkt.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-famciclovir-1 -->
 
 **Om verder te gaan is nodig:**
 - Gerandomiseerd onderzoek naar famciclovir voor het voorkomen van postherpetische neuralgie, of een systematische zoektocht naar bestaand bewijs hierover
 - Gegevens over het werkingsmechanisme (bijvoorbeeld uit DrugBank)
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van het CBG-MEB voor de veiligheidsbeoordeling
-- Beoordeling van de beschikbaarheid in Nederland, gezien de ingetrokken registratie
 - Nadere analyse van het ernstniveau van de gesignaleerde geneesmiddelinteracties
+
+<!-- review:begin nl-lic-20261112-famciclovir-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van de beschikbaarheid in Nederland, gezien de ingetrokken registratie / Nadere analyse van het ernstniveau van de gesignaleerde geneesmiddelinteracties” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-famciclovir-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken, wat de praktische beschikbaarheid beperkt” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordeling van de beschikbaarheid in Nederland, gezien de ingetrokken registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110214: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

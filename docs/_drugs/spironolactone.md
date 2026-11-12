@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 304
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Spironolactone: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (bewijsniveau L5). Oorspronkelijke indicatie: Hypertensie, congestief hartfalen…"
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -50,8 +50,8 @@ Spironolacton is een mineralocorticoïdreceptorantagonist die oorspronkelijk wor
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid |
 | TxGNN-voorspellingsscore | 0,9926 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 16 van 17) |
+| Aantal vergunningen | 17 (geldig: 16) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,7 +82,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 55973 | Spironolacton 50 mg Teva, tabletten | Tablet | Niet beschikbaar (vergunning geldig) |
+| RVG 55973 | Spironolacton 50 mg Teva, tabletten | Tablet | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-spironolactone-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 55973 / Spironolacton 50 mg Teva, tabletten / Tablet / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 55973 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-spironolactone-2 -->
 
 ---
 
@@ -103,7 +109,13 @@ Voor volledige waarschuwingen en contra-indicaties raadpleeg de SmPC (Samenvatti
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het TxGNN-model (bewijsniveau L5) zonder klinische studies of literatuur. Het mechanistische verband met een erfelijke haarziekte is zwak en speculatief. Bovendien is het enige Nederlandse product doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie, wat een blokkerend datagat vormt voor veiligheidsscreening.
+- De voorspelling berust uitsluitend op het TxGNN-model (bewijsniveau L5) zonder klinische studies of literatuur. Het mechanistische verband met een erfelijke haarziekte is zwak en speculatief.
+
+<!-- review:begin nl-lic-20261112-spironolactone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het mechanistische verband met een erfelijke haarziekte is zwak en speculatief. Bovendien is het enige Nederlandse product doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie, wat een blokkerend datagat vormt voor veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-spironolactone-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De officiële SmPC/bijsluiter van het CBG-MEB ophalen en de waarschuwingen en contra-indicaties analyseren
@@ -111,6 +123,20 @@ Voor volledige waarschuwingen en contra-indicaties raadpleeg de SmPC (Samenvatti
 - Een literatuur- en studieoverzicht uitvoeren naar spironolacton bij erfelijke hypotrichose en haaruitval
 - Beoordelen of er een geschikte toedieningsroute is (bijv. topicale formulering) en de huidige marktstatus verduidelijken
 - Voor deze zeldzame genetische aandoeningen preklinisch of mechanistisch onderzoek overwegen voordat klinische evaluatie wordt gestart
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie, wat een blo” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 55973: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

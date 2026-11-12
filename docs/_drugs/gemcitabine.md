@@ -50,8 +50,8 @@ Gemcitabine is een cytostaticum (nucleosideanaloog) dat oorspronkelijk wordt gek
 | Voorspelde nieuwe indicatie | Rectum mucinous adenocarcinoma |
 | TxGNN-voorspellingsscore | 0.9977 |
 | Bewijsniveau | L5 (zie toelichting hieronder) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 22 van 22) |
+| Aantal vergunningen | 22 (geldig: 22) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 *Toelichting bewijsniveau:* Fase 3-studies zijn aanwezig (NCT00006459, NCT00093795 en NCT00408408 zijn afgerond). De data bevatten echter geen gepubliceerde resultaten of eindpunten per studie. Het niveau L1 is daarom gebaseerd op het aantal en de fase van de studies en moet worden bevestigd door de primaire publicaties te beoordelen.

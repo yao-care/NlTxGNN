@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
 description: "Modafinil: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Modafinil is een wakkerblijfmiddel dat werkt op de waak-slaapregulatie. Het TxGN
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
+| Aantal vergunningen | 7 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

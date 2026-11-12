@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
 description: "Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tolperisone is een centraal werkende spierrelaxans die sodium- en calciumkanalen
 | Voorspelde nieuwe indicatie | Laubry-Pezzi syndrome |
 | TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -87,7 +87,13 @@ Voor andere voorspelde indicaties zijn enkele publicaties gekoppeld, maar die le
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (vergunning geldig) |
+| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-tolperisone-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118806//115493 / Tolperison Will Pharma 50 mg filmomhulde tabletten / Filmomhulde tabletten / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118806//115493 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tolperisone-2 -->
 
 ---
 
@@ -109,7 +115,26 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - De SmPC/bijsluiter van het CBG-MEB voor waarschuwingen en contra-indicaties
 - Preklinisch of klinisch bewijs voordat een heroverweging mogelijk is
-- Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald
+
+<!-- review:begin nl-lic-20261112-tolperisone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Preklinisch of klinisch bewijs voordat een heroverweging mogelijk is / Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tolperisone-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118806//115493: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

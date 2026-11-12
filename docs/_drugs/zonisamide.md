@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Zonisamide is een geneesmiddel uit de groep van de anti-epileptica. De oorspronk
 | Voorspelde nieuwe indicatie | Tourette-syndroom (Tourette syndrome) |
 | TxGNN-voorspellingsscore | 0.9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -89,7 +89,13 @@ Waarschuwingen en contra-indicaties uit de officiële bijsluiter ontbreken in de
 **Besluit: Hold**
 
 **Onderbouwing:**
-De voorspelling voor Tourette-syndroom is alleen modelmatig (L5), zonder klinische studies of literatuur. Er is bovendien een signaal dat anti-epileptica tics kunnen uitlokken. Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens.
+De voorspelling voor Tourette-syndroom is alleen modelmatig (L5), zonder klinische studies of literatuur. Er is bovendien een signaal dat anti-epileptica tics kunnen uitlokken.
+
+<!-- review:begin nl-lic-20261112-zonisamide-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is bovendien een signaal dat anti-epileptica tics kunnen uitlokken. Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-zonisamide-1 -->
 
 **Om verder te gaan is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB downloaden en analyseren op waarschuwingen en contra-indicaties (blokkerende datalacune).
@@ -98,6 +104,19 @@ De voorspelling voor Tourette-syndroom is alleen modelmatig (L5), zonder klinisc
 - Als er interesse blijft, eerst een preklinische of kleine verkennende klinische studie overwegen.
 
 **Opmerking over andere voorspellingen:** onder de overige voorspellingen heeft **absence-epilepsie** het sterkste bewijs (L3, "onderzoeksvraag"). Daar zijn kleine studies met zonisamide bij absence-aanvallen ([15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/)) en juveniele absence-epilepsie ([24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/)). Dit ligt echter dicht bij het bestaande gebruik van het middel. Voor fibromyalgie is één studie ([NCT00259636](https://clinicaltrials.gov/study/NCT00259636)) geregistreerd, maar die is ingetrokken zonder deelnemers. Dit rapport richt zich verder op de hoogst gerangschikte voorspelling, Tourette-syndroom.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

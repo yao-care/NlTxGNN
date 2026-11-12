@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 description: "Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Hyaluronidase is een enzym dat hyaluronzuur afbreekt en in de praktijk vooral wo
 | Voorspelde nieuwe indicatie | Esotropia |
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 (diabetische retinopathie) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen besluit | Hold (zie toelichting) |
 
 **Opmerking over de keuze van de indicatie:** De hoogst scorende voorspelling (esotropie) berust uitsluitend op een bijwerking na lokale verdoving (strabismus als complicatie) en heeft geen therapeutische onderbouwing. Dit rapport richt zich daarom op diabetische retinopathie (rang 6), de enige voorspelling met substantieel klinisch bewijs. De overige voorspellingen zijn kort samengevat in de laatste sectie.
@@ -99,8 +99,13 @@ Er is een belangrijke kanttekening: de fase 3-studies betroffen vooral de opruim
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114351//15180 | Hyason 150 I.E., poeder voor injectievloeistof | Niet vastgelegd | Niet vastgelegd (registratie geldig) |
+| RVG 114351//15180 | Hyason 150 I.E., poeder voor injectievloeistof | Niet vastgelegd | Niet vastgelegd (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-hyaluronidase-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114351//15180 / Hyason 150 I.E., poeder voor injectievloeistof / Niet vastgelegd / Niet vastgelegd (registratie geldig)” Gecorrigeerd: registratienummer RVG 114351//15180 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hyaluronidase-2 -->
 
 ---
 
@@ -119,7 +124,13 @@ De registratietekst (SmPC) bevat in de samengestelde data geen vastgelegde waars
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Er zijn twee afgeronde fase 3-studies (n=510 en n=750), maar de uitkomsten zijn in de beschikbare gegevens niet bevestigd. De studies richtten zich op glasvochtbloeding, niet op diabetische retinopathie als zodanig. Het enige product is in Nederland doorgehaald, en de essentiële registratie- en veiligheidsgegevens ontbreken.
+- Er zijn twee afgeronde fase 3-studies (n=510 en n=750), maar de uitkomsten zijn in de beschikbare gegevens niet bevestigd. De studies richtten zich op glasvochtbloeding, niet op diabetische retinopathie als zodanig.
+
+<!-- review:begin nl-lic-20261112-hyaluronidase-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De studies richtten zich op glasvochtbloeding, niet op diabetische retinopathie als zodanig. Het enige product is in Nederland doorgehaald, en de essentiële registratie- en veiligheidsgegevens ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hyaluronidase-1 -->
 
 **Voor verdere stappen is nodig:**
 - De gepubliceerde resultaten van NCT00198497 en NCT00198510 ophalen en beoordelen (werkzaamheid, klinische relevantie van de eindpunten, intraoculaire veiligheid).
@@ -143,6 +154,19 @@ De registratietekst (SmPC) bevat in de samengestelde data geen vastgelegde waars
 | Diabetische cataract | 0,9955 | L4 | Alleen indirecte literatuur over hyaluronidase als adjuvans bij verdoving |
 | Neonatale dermatomyositis | 0,9951 | L5 | Geen studies of literatuur |
 | Niet-syndromale oesofagusmalformatie | 0,9951 | L5 | Geen studies of literatuur; biologisch niet plausibel |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het enige product is in Nederland doorgehaald, en de essentiële registratie- en veiligheidsgegevens ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114351//15180: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

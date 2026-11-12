@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Desmopressine is een synthetisch analoog van het hormoon vasopressine dat wordt 
 | Voorspelde nieuwe indicatie | Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) |
 | TxGNN-voorspellingsscore | 0,9970 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 40 van 41) |
+| Aantal vergunningen | 41 (geldig: 40) |
 | Aanbevolen beslissing | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acenocoumarol: voorspelde nieuwe indicatie Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Acenocoumarol is een vitamine K-antagonist (orale anticoagulans). Het TxGNN-mode
 | Voorspelde nieuwe indicatie | Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) |
 | TxGNN-voorspellingsscore | 0,9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 3) |
+| Aantal vergunningen | 3 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 179
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Hydrocortison is een corticosteroïde (glucocorticoïd) met ontstekingsremmende 
 | Voorspelde nieuwe indicatie | Alopecia areata |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 63 van 65) |
+| Aantal vergunningen | 65 (geldig: 63) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan onder voorwaarden) |
 
 ---
@@ -94,10 +94,28 @@ De overige gevonden publicaties betreffen vooral dierstudies, een enquête, casu
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (vergunning geldig) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (vergunning geldig) |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (niet geregistreerd) |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (niet geregistreerd) |
 
-Beide vergunningen zijn geldig (CBG-MEB). Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.
+<!-- review:begin nl-lic-20261112-hydrocortisone-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118022//03542 / Terra-Cortril met polymyxine-B, oordruppels / Oordruppels / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118022//03542 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hydrocortisone-2 -->
+
+<!-- review:begin nl-lic-20261112-hydrocortisone-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113295//03543 / Terra-Cortril met polymyxine-B, oogzalf / Oogzalf / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 113295//03543 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hydrocortisone-3 -->
+
+Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.
+
+<!-- review:begin nl-lic-20261112-hydrocortisone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig (CBG-MEB). Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 65, waarvan geldig: 63; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-hydrocortisone-1 -->
 
 ---
 
@@ -121,6 +139,20 @@ Voor waarschuwingen en contra-indicaties wordt verwezen naar de SmPC (Samenvatti
 - Directe vergelijkende of placebogecontroleerde studies waarin hydrocortison het onderzochte middel is
 - Beoordeling van de geschiktheid van de beschikbare toedieningsvormen in Nederland voor deze indicatie
 - Een veiligheidsplan op basis van de SmPC, met aandacht voor langdurig gebruik en gebruik bij kinderen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

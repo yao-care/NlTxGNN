@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Biotin: voorspelde nieuwe indicatie Dyspepsie (bewijsniveau L5). Oorspronkelijke indicatie: Voedingsgerelateerd biotinetekort"
 monitor_inn: "biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
@@ -50,8 +50,8 @@ Biotine (vitamine B7) wordt van oudsher gebruikt bij een voedingsgerelateerd bio
 | Voorspelde nieuwe indicatie | Dyspepsie |
 | TxGNN-voorspellingsscore | 0,9943 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 3) |
+| Aantal vergunningen | 3 (geldig: 2) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -114,13 +114,38 @@ Deze signalen zijn niet geverifieerd aan de hand van de officiële productinform
 **Besluit: Hold**
 
 **Onderbouwing:**
-Er zijn geen klinische studies en geen direct relevante literatuur voor biotine bij dyspepsie (bewijsniveau L5). De voorspelling steunt alleen op het TxGNN-model (deep learning). Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit de officiële productinformatie.
+Er zijn geen klinische studies en geen direct relevante literatuur voor biotine bij dyspepsie (bewijsniveau L5). De voorspelling steunt alleen op het TxGNN-model (deep learning).
+
+<!-- review:begin nl-lic-20261112-biotin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het TxGNN-model (deep learning). Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit de officiële productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-biotin-1 -->
 
 **Om verder te gaan is nodig:**
 - Veiligheidsinformatie uit de SmPC en bijsluiter (CBG-MEB) ophalen en beoordelen; dit is een blokkerende ontbrekende gegevensbron
 - Gegevens over het werkingsmechanisme aanvullen (bijvoorbeeld via DrugBank)
 - Systematisch literatuuronderzoek naar biotine bij dyspepsie en gastroparese, en zo nodig een proof-of-conceptstudie
-- Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald
+
+<!-- review:begin nl-lic-20261112-biotin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Systematisch literatuuronderzoek naar biotine bij dyspepsie en gastroparese, en zo nodig een proof-of-conceptstudie / Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-biotin-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 248
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L2). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis"
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
@@ -50,8 +50,8 @@ Nortriptyline is een tricyclisch antidepressivum, op basis van de samengestelde 
 | Voorspelde nieuwe indicatie | Aandachtstekortstoornis met hyperactiviteit (ADHD) |
 | TxGNN-voorspellingsscore | 0,9942 |
 | Bewijsniveau | L2 (voorzichtige inschatting: een gecontroleerde studie lijkt te bestaan, maar fase, omvang en resultaten zijn niet beoordeeld) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 20 van 21) |
+| Aantal vergunningen | 21 (geldig: 20) |
 | Aanbevolen beslissing | Hold (aanvullend onderzoek nodig; zie conclusie) |
 
 ---
@@ -98,7 +98,13 @@ Alleen titels en korte samenvattingen zijn beoordeeld; omvang en resultaten van 
 |---------|------|------|-----------|
 | RVG 115499//03286 | Nortrilen 25 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
 
-De enige vergunning (CBG-MEB) is geldig; nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens.
+De enige vergunning (CBG-MEB) is geldig.
+
+<!-- review:begin nl-lic-20261112-nortriptyline-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige vergunning (CBG-MEB) is geldig; nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 20; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-nortriptyline-1 -->
 
 ---
 
@@ -117,7 +123,13 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC, aangezien 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er zijn aanwijzingen uit de literatuur (waaronder een gecontroleerde studie en een Cochrane-review), maar geen geregistreerde klinische studies en geen bevestigde fase 3-RCT's. Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interactierisico. Nortriptyline kan hooguit gelden als een tweede- of derdelijns onderzoeksoptie, niet als aanbevolen therapie.
+- Er zijn aanwijzingen uit de literatuur (waaronder een gecontroleerde studie en een Cochrane-review), maar geen geregistreerde klinische studies en geen bevestigde fase 3-RCT's. Nortriptyline kan hooguit gelden als een tweede- of derdelijns onderzoeksoptie, niet als aanbevolen therapie.
+
+<!-- review:begin nl-lic-20261112-nortriptyline-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interactierisico. Nortriptyline kan hooguit gelden als een tweede- of derdelijns onderzoeksoptie, niet als aanbevolen therapie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 20; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-nortriptyline-2 -->
 
 **Om verder te gaan is nodig:**
 - De officiële SmPC- en bijsluitergegevens van het CBG-MEB (waarschuwingen en contra-indicaties) om de veiligheidsbeoordeling te kunnen afronden
@@ -126,6 +138,20 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC, aangezien 
 - Een cardiaal veiligheids- en ECG-monitoringsplan, vooral voor kinderen en adolescenten
 - Duidelijkheid over de vergunningsstatus en beschikbare toedieningsvormen in Nederland
 - Subtypegestratificeerde gegevens voordat ADHD, overwegend onoplettend type, afzonderlijk wordt beoordeeld
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interact” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

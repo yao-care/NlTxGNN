@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Eletriptan is een geneesmiddel uit de klasse van de triptanen (selectieve seroto
 | Voorspelde nieuwe indicatie | Atrofoderma vermiculata (atrophoderma vermiculata) |
 | TxGNN-voorspellingsscore | 0,9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 10) |
+| Aantal vergunningen | 10 (geldig: 9) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

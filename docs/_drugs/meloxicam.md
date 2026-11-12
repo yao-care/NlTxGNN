@@ -52,8 +52,8 @@ Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt
 | Voorspelde nieuwe indicatie | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag) |
 
 ---

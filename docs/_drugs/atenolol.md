@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Atenolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Atenolol is een bèta-1-selectieve bètablokker die de bloeddruk en de reninevri
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0,9985 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 21 van 21) |
+| Aantal vergunningen | 21 (geldig: 21) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

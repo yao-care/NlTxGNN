@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…"
 monitor_inn: "Emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ Emtricitabine is een remmer van het omgekeerde transcriptase (NRTI), oorspronkel
 | Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome (kattenaids) |
 | TxGNN-voorspellingsscore | 0,9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 41 van 42) |
+| Aantal vergunningen | 42 (geldig: 41) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -88,7 +88,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 117316 (ingetrokken) | Ictastan 200mg/245mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
 
-Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB). Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.
+Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.
+
+<!-- review:begin nl-lic-20261112-emtricitabine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB). Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 42, waarvan geldig: 41; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-emtricitabine-1 -->
 
 ---
 
@@ -121,6 +127,19 @@ Voor waarschuwingen en formele contra-indicaties: raadpleeg de SmPC.
 - Gegevens over het werkingsmechanisme (o.a. uit DrugBank)
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter (nu ontbrekend; dit blokkeert de veiligheidsscreening)
 - Beoordeling of een diergeneeskundige indicatie binnen de scope van humane hergebruikstrajecten valt (diergeneesmiddelen vallen onder een ander regelgevend kader)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

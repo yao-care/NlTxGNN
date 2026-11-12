@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ganirelix: voorspelde nieuwe indicatie Hypertrichose (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de verzamelde gegevens (vergunningstekst ontbreekt)"
 monitor_inn: "ganirelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -50,8 +50,8 @@ Ganirelix is een GnRH-antagonist die wordt gebruikt om voortijdige LH-pieken te 
 | Voorspelde nieuwe indicatie | Hypertrichose |
 | TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---
@@ -87,7 +87,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | Niet vermeld | Niet vermeld |
 
-Deze vergunning heeft de status geldig. Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning.
+Deze vergunning heeft de status geldig.
+
+<!-- review:begin nl-lic-20261112-ganirelix-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning heeft de status geldig. Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ganirelix-1 -->
 
 ---
 
@@ -121,6 +127,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank.
 - Een gerichte literatuur- en studieverkenning uitvoeren voor ganirelix bij centrale precocieuze puberteit, als enige biologisch plausibele onderzoeksvraag.
 - Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veiligheidsreden had, en welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

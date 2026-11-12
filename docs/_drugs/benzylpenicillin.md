@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Benzylpenicilline is een antibioticum uit de penicillinegroep dat actief is tege
 | Voorspelde nieuwe indicatie | Pericoronitis (pericoronitis) |
 | TxGNN-voorspellingsscore | 0,9936 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 23 van 24) |
+| Aantal vergunningen | 24 (geldig: 23) |
 | Aanbevolen beslissing | Hold |
 
 ---

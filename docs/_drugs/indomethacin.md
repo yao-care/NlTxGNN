@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
 description: "Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Indomethacine is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt
 | Voorspelde nieuwe indicatie | Brachydactyly-syndactyly syndrome |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold (zie conclusie) |
 
 **Toelichting op de selectie:** de zeven voorspellingen met de hoogste score (o.a. brachydactylie-syndactylie-syndroom, WHIM-syndroom en diverse zeldzame skeletdysplasieën) hebben geen enkel bewijs en geen plausibele mechanistische relatie met COX-remming (bewijsniveau L5). JIA is de eerste voorspelling met inhoudelijk onderbouwde literatuur en is daarom in dit rapport uitgewerkt.
@@ -97,15 +97,25 @@ Voor reumatoïde nodulose is slechts één algemeen overzichtsartikel gevonden (
 
 **Let op:** veel bronnen zijn oud en het bewijs is grotendeels beschrijvend. Enkele publicaties gaan over andere NSAID's (ketoprofen, naproxen, pirprofen) en zijn alleen indirect relevant.
 
+<!-- review:begin nl-lic-20261112-indomethacin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-indomethacin-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57631 | Indometacine Apotex 50 mg, capsules (status: geldig) | Niet vermeld | Niet vermeld |
+| RVG 57631 | Indometacine Apotex 50 mg, capsules (status: niet geregistreerd) | Niet vermeld | Niet vermeld |
 
-Er is één vergunning, en die is ingetrokken.
+<!-- review:begin nl-lic-20261112-indomethacin-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 57631 / Indometacine Apotex 50 mg, capsules (status: geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 57631 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-indomethacin-3 -->
 
 ---
 
@@ -140,8 +150,14 @@ Interacties van licht niveau zijn onder meer famotidine, ranitidine, cimetidine 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor JIA is mechanistisch plausibel, maar komt neer op symptomatisch NSAID-gebruik dat al bekend is. Er zijn geen geregistreerde klinische studies, het bewijs is oud en indirect, en de Nederlandse vergunning is ingetrokken. De overige zeven hoogst scorende voorspellingen missen elk bewijs en elke plausibele mechanistische relatie.
+- De voorspelling voor JIA is mechanistisch plausibel, maar komt neer op symptomatisch NSAID-gebruik dat al bekend is. De overige zeven hoogst scorende voorspellingen missen elk bewijs en elke plausibele mechanistische relatie.
 - De data bevatten een blokkerende lacune: de waarschuwingen en contra-indicaties uit de bijsluiter ontbreken, waardoor de veiligheidsscreening niet kan worden afgerond. Het formele beslissingsstadium voor JIA is daarom beperkt (S1, "onderzoeksvraag").
+
+<!-- review:begin nl-lic-20261112-indomethacin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen geregistreerde klinische studies, het bewijs is oud en indirect, en de Nederlandse vergunning is ingetrokken. De overige zeven hoogst scorende voorspellingen missen elk bewijs en elke plausibele mechanistische relatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-indomethacin-2 -->
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter (CBG-MEB) ophalen
@@ -150,6 +166,21 @@ Interacties van licht niveau zijn onder meer famotidine, ranitidine, cimetidine 
 - Vaststellen of er nog een geldig geregistreerd indomethacineproduct beschikbaar is in Nederland, en met welke indicatie en toedieningsvorm
 - Een veiligheidsbeoordeling voor kinderen (groei, maag-darm-, nier- en cardiovasculaire risico's)
 - Pas daarna beoordelen of aanvullend klinisch onderzoek of een indicatie-uitbreiding zinvol is
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er zijn geen geregistreerde klinische studies, het bewijs is oud en indirect, en de Nederlandse vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 57631: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

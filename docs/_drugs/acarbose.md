@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acarbose: voorspelde nieuwe indicatie Focaal stiff-limb-syndroom (focal stiff limb syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Acarbose is een alfa-glucosidaseremmer die de opname van koolhydraten in de darm
 | Voorspelde nieuwe indicatie | Focaal stiff-limb-syndroom (focal stiff limb syndrome) |
 | TxGNN-voorspellingsscore | 0,9965 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

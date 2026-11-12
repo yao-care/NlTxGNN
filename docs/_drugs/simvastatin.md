@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,8 +52,8 @@ Deze voorspelling ligt dicht bij een bestaande indicatie, dus het gaat grotendee
 | Voorspelde nieuwe indicatie | Brain stem infarction |
 | TxGNN-voorspellingsscore | 0.9941 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 73 van 76) |
+| Aantal vergunningen | 76 (geldig: 73) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -105,9 +105,27 @@ Slechts twee studies (NCT00552097 en NCT00129402) geven direct bewijs voor een s
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118547//13194 | Zocor 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (geldig) |
-| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (geldig) |
-| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (geldig) |
+| RVG 118547//13194 | Zocor 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (niet geregistreerd) |
+| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-simvastatin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118547//13194 / Zocor 20 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 118547//13194 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-simvastatin-1 -->
+
+<!-- review:begin nl-lic-20261112-simvastatin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119659//30930 / Inegy 10 mg/80 mg, tabletten / Tablet / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 119659//30930 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-simvastatin-2 -->
+
+<!-- review:begin nl-lic-20261112-simvastatin-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120559//30930 / Inegy 10 mg/80 mg, tabletten / Tablet / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 120559//30930 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-simvastatin-3 -->
 
 Let op: deze gegevens zijn beperkt en kunnen onvolledig zijn; controleer de actuele registerstatus bij het CBG-MEB.
 
@@ -147,6 +165,20 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) raadp
 | HIV-infectie | 0,9922 | L3 | Onderzoeksvraag (vooral relevant voor lipidenbeheer en interacties, niet antiviraal) |
 | ABri-amyloïdose | 0,9913 | L5 | Hold |
 | Neurologische ontwikkelingsstoornis met ataxie en afwezige spraak | 0,9910 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 118547//13194: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119659//30930: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120559//30930: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

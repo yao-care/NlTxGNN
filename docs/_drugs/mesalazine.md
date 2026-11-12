@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,8 +52,8 @@ Mesalazine is een ontstekingsremmend middel dat oorspronkelijk wordt gebruikt vo
 | Voorspelde nieuwe indicatie | Congenital hypotrichosis with juvenile macular dystrophy |
 | TxGNN-voorspellingsscore | 0.9965 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 77 van 78) |
+| Aantal vergunningen | 78 (geldig: 77) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -95,7 +95,6 @@ Er zijn geen RCT's. De gevonden publicaties zijn vooral reviews, bijwerkingenrap
 |---------|------|------|-----------|
 | RVG 120321//102870 | Salofalk 1g, zetpillen | Niet beschikbaar | Niet beschikbaar |
 
-
 ---
 
 ## Veiligheidsoverwegingen
@@ -126,7 +125,13 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 **Besluit: Hold**
 
 **Onderbouwing:**
-- Alle zeven voorspellingen blijven in fase S0. Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.
+- Alle zeven voorspellingen blijven in fase S0. Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is.
+
+<!-- review:begin nl-lic-20261112-mesalazine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 78, waarvan geldig: 77; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-mesalazine-1 -->
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter/SmPC (blokkerend datagat)
@@ -134,6 +139,19 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 - Preklinisch of klinisch bewijs voor mesalazine als enkelvoudig middel bij reumatoïde artritis of artrose
 - Verduidelijking van de actuele marktstatus en beschikbare toedieningsvormen in Nederland
 - Beoordeling van het nierfunctie- en bloedbeeldrisico, gezien de contra-indicaties volgens de kennisgraaf
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

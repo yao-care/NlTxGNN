@@ -50,8 +50,8 @@ Histidine is een essentieel aminozuur en een voorloper van histamine. Voor deze 
 | Voorspelde nieuwe indicatie | Gastroparese |
 | TxGNN-voorspellingsscore | 0,9955 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 57 van 57) |
+| Aantal vergunningen | 57 (geldig: 57) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ---

@@ -50,8 +50,8 @@ Amylmetacresol is een lokaal werkend antisepticum dat wordt gebruikt in zuigtabl
 | Voorspelde nieuwe indicatie | Cauda-equinasyndroom |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
-| Aantal vergunningen | 8 (geldig: 8) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 30 van 31) |
+| Aantal vergunningen | 31 (geldig: 30) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -86,7 +86,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
+In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
 
 <!-- review:begin nl-lic-20261106-amylmetacresol-1 -->
 
@@ -94,10 +94,16 @@ Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikan
 
 <!-- review:end nl-lic-20261106-amylmetacresol-1 -->
 
+<!-- review:begin nl-lic-20261112-amylmetacresol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-amylmetacresol-1 -->
+
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | Geldig |
-| RVG 118243//04174 | 2,4-Dichloorbenzylalcohol 1,2 mg en Amylmetacresol 0,6 mg Eureco-Pharma, zuigtabletten | Geldig |
+| RVG 118243//04174 | 2,4-Dichloorbenzylalcohol 1,2 mg en Amylmetacresol 0,6 mg Eureco-Pharma, zuigtabletten | Niet geregistreerd |
 | RVG 118471 | Bogasil sinaasappel zuigtabletten | Geldig |
 | RVG 118469 | Bogasan honing & citroen zuigtabletten | Geldig |
 | RVG 118472 | Bogasil honing & citroen zuigtabletten | Geldig |
@@ -134,7 +140,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)” | Gecorrigeerd (herzien op 2026-11-12; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle acht registraties zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

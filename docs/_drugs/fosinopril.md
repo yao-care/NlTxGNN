@@ -50,8 +50,8 @@ Fosinopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandeli
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---

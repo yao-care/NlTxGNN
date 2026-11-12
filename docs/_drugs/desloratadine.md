@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Desloratadine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Desloratadine is een antihistaminicum dat de histamine H1-receptor blokkeert. He
 | Voorspelde nieuwe indicatie | Aandoening van de neusholte (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0,9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 21 van 22) |
+| Aantal vergunningen | 22 (geldig: 21) |
 | Aanbevolen besluit | Hold (afwachten) |
 
 ## Waarom is deze voorspelling aannemelijk?

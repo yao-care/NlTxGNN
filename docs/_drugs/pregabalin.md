@@ -50,8 +50,8 @@ Pregabaline wordt gebruikt bij angststoornissen, fibromyalgie, myofasciaal pijns
 | Voorspelde nieuwe indicatie | Tendinitis |
 | TxGNN-voorspellingsscore | 0,9971 |
 | Bewijsniveau | L5 (alleen mechanistische onderbouwing, geen directe klinische studies) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 110 van 110) |
+| Aantal vergunningen | 110 (geldig: 110) |
 | Aanbevolen besluit | Hold |
 
 ---

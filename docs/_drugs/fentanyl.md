@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fentanyl: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (NSIAD) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de vergunnings…"
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -48,8 +48,8 @@ Voor fentanyl is in de voor dit rapport verzamelde gegevens geen geregistreerde 
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese (NSIAD) |
 | TxGNN-voorspellingsscore | 0,9946 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 30 van 31) |
+| Aantal vergunningen | 31 (geldig: 30) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -78,7 +78,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 118447//16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | Niet vermeld | Niet vermeld |
 
-Dit geneesmiddel is in Nederland op de markt; 1 van de 1 vergunningen is geldig.
+Dit geneesmiddel is in Nederland op de markt.
+
+<!-- review:begin nl-lic-20261112-fentanyl-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit geneesmiddel is in Nederland op de markt; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-fentanyl-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -94,13 +100,32 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de bijsluitertekst de
 **Onderbouwing:**
 - Beide voorspellingen (NSIAD en syndroom van Gilles de la Tourette) berusten uitsluitend op een modelscore (L5), zonder klinische studies of literatuur.
 - Voor NSIAD is het mechanistische verband niet ondersteund en mogelijk zelfs tegenstrijdig. Voor Tourette zijn het misbruikpotentieel en het veiligheidsprofiel van fentanyl zeer ongunstig.
-- De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).
+
+<!-- review:begin nl-lic-20261112-fentanyl-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor Tourette zijn het misbruikpotentieel en het veiligheidsprofiel van fentanyl zeer ongunstig. / De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-fentanyl-2 -->
 
 **Om verder te gaan is nodig:**
 - Bijsluiter- en SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties) om de veiligheidsscreening mogelijk te maken
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of mechanistisch bewijs dat een therapeutisch effect bij de voorgestelde indicaties aannemelijk maakt
 - Beoordeling van de route- en toedieningsvormcompatibiliteit (nu niet bepaald)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

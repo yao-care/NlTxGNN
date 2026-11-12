@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: voorspelde nieuwe indicatie Solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas) (bewijsniveau L5)."
@@ -48,8 +48,8 @@ Mitomycine is een alkylerend cytostaticum dat DNA-strengen verknoopt en wordt ge
 | Voorspelde nieuwe indicatie | Solide pseudopapillair pancreascarcinoom (solid pseudopapillary carcinoma of pancreas) |
 | TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?
@@ -66,13 +66,17 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 Momenteel is er geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-mitomycin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-mitomycin-1 -->
+
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intravesicaal gebruik | Poeder voor oplossing | Niet beschikbaar (registratie geldig) |
-
-De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product.
 
 ## Cytotoxiciteit
 
@@ -102,6 +106,18 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - Preklinisch of klinisch bewijs dat direct deze ziekte onderzoekt
 - De waarschuwingen en contra-indicaties uit de SmPC van CBG-MEB
 - Beoordeling van de toedieningsroute en vergelijking met de huidige chirurgische standaardzorg
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

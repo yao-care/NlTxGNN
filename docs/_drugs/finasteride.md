@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld…"
@@ -50,8 +50,8 @@ Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 14 van 15) |
+| Aantal vergunningen | 15 (geldig: 14) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -97,9 +97,21 @@ Alle vier de publicaties zijn Duitstalige of Franstalige narratieve overzichten 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
 
-Deze enige vergunning is geldig; er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld.
+<!-- review:begin nl-lic-20261112-finasteride-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119270//27397 / Propecia 1 mg filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 119270//27397 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-finasteride-3 -->
+
+Deze enige vergunning is geldig.
+
+<!-- review:begin nl-lic-20261112-finasteride-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze enige vergunning is geldig; er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-finasteride-1 -->
 
 ---
 
@@ -118,7 +130,13 @@ Voor volledige waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenva
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- Er is alleen een modelvoorspelling (L5) zonder klinische studies en zonder directe literatuur, en het mechanistische verband is voor alle voorspelde aandoeningen zwak of speculatief. De enige Nederlandse vergunning is bovendien doorgehaald.
+- Er is alleen een modelvoorspelling (L5) zonder klinische studies en zonder directe literatuur, en het mechanistische verband is voor alle voorspelde aandoeningen zwak of speculatief.
+
+<!-- review:begin nl-lic-20261112-finasteride-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is alleen een modelvoorspelling (L5) zonder klinische studies en zonder directe literatuur, en het mechanistische verband is voor alle voorspelde aandoeningen zwak of speculatief. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-finasteride-2 -->
 
 **Voor vervolg is het volgende nodig:**
 - SmPC- en bijsluitergegevens van het CBG-MEB voor waarschuwingen en contra-indicaties (blokkerend voor de veiligheidsscreening)
@@ -126,6 +144,21 @@ Voor volledige waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenva
 - Preklinisch of mechanistisch onderzoek naar een DHT-onafhankelijke rol bij de voorspelde aandoeningen
 - Een beoordeling van zwangerschaps- en voortplantingsrisico's, vooral voor aandoeningen die kinderen of vrouwen treffen
 - Vaststelling van de beschikbare toedieningsroutes en de huidige marktbeschikbaarheid in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119270//27397: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

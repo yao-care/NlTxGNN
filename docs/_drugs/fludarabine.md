@@ -48,8 +48,8 @@ Fludarabine is een purinenucleoside-analoog (cytostaticum). In de gegevens voor 
 | Voorspelde nieuwe indicatie | Plasmacelmyeloom |
 | TxGNN-voorspellingsscore | 0,9982 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ## Waarom is deze voorspelling aannemelijk?

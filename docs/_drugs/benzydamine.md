@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Benzydamine is een lokaal werkend ontstekingsremmend en pijnstillend middel. Het
 | Voorspelde nieuwe indicatie | Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) |
 | TxGNN-voorspellingsscore | 0,9926 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

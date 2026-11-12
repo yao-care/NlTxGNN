@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Etoposide: voorspelde nieuwe indicatie Goed gedifferentieerd foetaal adenocarcinoom van de long (well-differentiated fetal adenocarcinoma of the lung) (bewijsniveau L5). Oorspronkelijke indicatie: Ni…"
 ---
 
@@ -50,8 +50,8 @@ Etoposide is een celdodend (cytotoxisch) middel dat al lang bij kanker wordt geb
 | Voorspelde nieuwe indicatie | Goed gedifferentieerd foetaal adenocarcinoom van de long (well-differentiated fetal adenocarcinoma of the lung) |
 | TxGNN-voorspellingsscore | 0,9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 10) |
+| Aantal vergunningen | 10 (geldig: 9) |
 | Aanbevolen beslissing | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Chlorambucil: voorspelde nieuwe indicatie ALK-positive large B-cell lymphoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Chlorambucil is een alkylerend cytostaticum (stikstofmosterdderivaat) dat wordt 
 | Voorspelde nieuwe indicatie | ALK-positive large B-cell lymphoma |
 | TxGNN-voorspellingsscore | 0.9961 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling aannemelijk?

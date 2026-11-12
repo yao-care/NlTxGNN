@@ -50,8 +50,8 @@ Leflunomide is een middel dat oorspronkelijk wordt gebruikt bij **reumatoïde ar
 | Voorspelde nieuwe indicatie | Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 15) |
+| Aantal vergunningen | 15 (geldig: 15) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
 
-Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en het middel is op de markt. Voor het goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
+Het middel is op de markt. Voor het goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
+
+<!-- review:begin nl-lic-20261112-leflunomide-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-leflunomide-1 -->
 
 ---
 
@@ -136,6 +142,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Verduidelijking van de status van de ingetrokken Nederlandse vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

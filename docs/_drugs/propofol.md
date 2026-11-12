@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 282
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Propofol is een intraveneus anestheticum dat wordt gebruikt voor sedatie en alge
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0.9969 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 16) |
+| Aantal vergunningen | 16 (geldig: 15) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -101,7 +101,13 @@ Andere voorspelde indicaties zijn minder overtuigend:
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (vergunning geldig) | Emulsie voor injectie of infusie | Niet beschikbaar in de data |
+| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (niet geregistreerd) | Emulsie voor injectie of infusie | Niet beschikbaar in de data |
+
+<!-- review:begin nl-lic-20261112-propofol-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114211 / Propofol Hospira 10 mg/ml emulsie voor injectie of infusie (vergunning geldig) / Emulsie voor injectie of infusie / Niet beschikbaar in de data” Gecorrigeerd: registratienummer RVG 114211 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propofol-3 -->
 
 ---
 
@@ -126,14 +132,39 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenva
 
 **Onderbouwing:**
 - Er is redelijk bewijs voor propofol bij acute migraine op de SEH (één afgeronde fase 2/3-studie, meerdere RCT's, systematische reviews; bewijsniveau L2), maar dit is geen bevestigd fase 3-bewijs en richtlijnen blijven voorzichtig.
-- De enige Nederlandse vergunning is ingetrokken en de veiligheidsgegevens uit de bijsluiter ontbreken, wat een blokkerende datalacune is voor de veiligheidsscreening.
+
+<!-- review:begin nl-lic-20261112-propofol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is redelijk bewijs voor propofol bij acute migraine op de SEH (één afgeronde fase 2/3-studie, meerdere RCT's, systematische reviews; bewijsniveau L2), maar dit is geen bevestigd fase 3-bewijs en richtlijnen blijven voorzichtig. / De enige Nederlandse vergunning is ingetrokken en de veiligheidsgegevens uit de bijsluiter ontbreken, wat een blokkerende datalacune is voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propofol-1 -->
 
 **Om verder te gaan is nodig:**
 - Downloaden en analyseren van de SmPC/bijsluiter (CBG-MEB) voor waarschuwingen en contra-indicaties.
 - Aanvullende mechanistische gegevens uit DrugBank.
 - Bevestigend onderzoek (fase 3-RCT's) bij volwassenen en kinderen met migraine, met aandacht voor sedatie- en luchtwegrisico's.
-- Een plan voor beperking tot gemonitorde klinische settings en beoordeling van de regelgevende route (off-label gebruik van een actuele vergunning, aangezien de bestaande vergunning is ingetrokken).
 - Beoordeling van het gebruik bij patiënten met de door de kennisgraaf genoemde mogelijke contra-indicaties (o.a. hypotensie, ademhalingsfalen).
+
+<!-- review:begin nl-lic-20261112-propofol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een plan voor beperking tot gemonitorde klinische settings en beoordeling van de regelgevende route (off-label gebruik van een actuele vergunning, aangezien de bestaande vergunning is ingetrokken). / Beoordeling van het gebruik bij patiënten met de door de kennisgraaf genoemde mogelijke contra-indicaties (o.a. hypotensie, ademhalingsfalen).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propofol-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is ingetrokken en de veiligheidsgegevens uit de bijsluiter ontbreken, wat een blokkerende datalacune is voor” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een plan voor beperking tot gemonitorde klinische settings en beoordeling van de regelgevende route (off-label gebruik van een actuele vergu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114211: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

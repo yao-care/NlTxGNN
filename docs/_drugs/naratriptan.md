@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruik
 | Voorspelde nieuwe indicatie | Atrophoderma vermiculata |
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -99,8 +99,13 @@ Geen van deze publicaties richt zich specifiek op migraine met hersenstamaura.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-naratriptan-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 106987 / Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 106987 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-naratriptan-2 -->
 
 ---
 
@@ -119,7 +124,13 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het mechanisme is plausibel, maar er zijn geen klinische studies en geen literatuur specifiek voor hersenstamaura (bewijsniveau L3). De bekende zorgen over vaatvernauwing bij deze migrainevorm vormen een onopgeloste veiligheidsvraag. Bovendien is de enige Nederlandse registratie doorgehaald.
+Het mechanisme is plausibel, maar er zijn geen klinische studies en geen literatuur specifiek voor hersenstamaura (bewijsniveau L3). De bekende zorgen over vaatvernauwing bij deze migrainevorm vormen een onopgeloste veiligheidsvraag.
+
+<!-- review:begin nl-lic-20261112-naratriptan-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De bekende zorgen over vaatvernauwing bij deze migrainevorm vormen een onopgeloste veiligheidsvraag. Bovendien is de enige Nederlandse registratie doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-naratriptan-1 -->
 
 **Om verder te gaan is nodig:**
 - Beoordeling van de veiligheid van triptanen bij hersenstamaura, inclusief de actuele SmPC-waarschuwingen (CBG-MEB/EMA)
@@ -127,6 +138,20 @@ Het mechanisme is plausibel, maar er zijn geen klinische studies en geen literat
 - Aanvullende gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - Download en analyse van de bijsluiter/SmPC van het CBG-MEB voor waarschuwingen en contra-indicaties
 - Opheldering over de Nederlandse registratiestatus en beschikbare toedieningsvormen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse registratie doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 106987: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

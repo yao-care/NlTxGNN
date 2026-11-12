@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Lormetazepam"
 predicted_indications: ["alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "benign paroxysmal torticollis of infancy"]
 description: "Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Lormetazepam is een benzodiazepine dat werkt via versterking van GABA-A-receptor
 | Voorspelde nieuwe indicatie | Alcoholontwenningsdelirium (alcohol withdrawal delirium) |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling plausibel?
@@ -70,7 +70,13 @@ Er is momenteel geen relevante literatuur beschikbaar over lormetazepam bij alco
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: geldig) |
+| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-lormetazepam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118528//08606 / Noctamid 1,0 mg, tabletten / Niet vermeld / Niet vermeld (status: geldig)” Gecorrigeerd: registratienummer RVG 118528//08606 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-lormetazepam-1 -->
 
 De goedgekeurde indicatie is niet vastgelegd in de lokale gegevens van het CBG-MEB die voor dit rapport zijn gebruikt.
 
@@ -93,6 +99,18 @@ Als klasse-effect brengen benzodiazepinen een risico op misbruik en afhankelijkh
 - Gegevens over het werkingsmechanisme van lormetazepam.
 - Beoordeling van de waarschuwingen en contra-indicaties in de SmPC van het CBG-MEB.
 - Een veiligheidsplan voor patiënten met alcoholproblematiek, gezien het risico op afhankelijkheid.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 118528//08606: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

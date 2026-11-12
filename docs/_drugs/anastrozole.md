@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Anastrozole: voorspelde nieuwe indicatie neuroblastoom (neuroblastoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Anastrozol is een niet-steroïdale aromataseremmer die de oestrogeenproductie ve
 | Voorspelde nieuwe indicatie | neuroblastoom (neuroblastoma) |
 | TxGNN-voorspellingsscore | 0,9953 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 12 van 13) |
+| Aantal vergunningen | 13 (geldig: 12) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)waarschijnlijk redelijk?

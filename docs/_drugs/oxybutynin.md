@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Oxybutynine is een antimuscarinisch middel dat oorspronkelijk wordt gebruikt bij
 | Voorspelde nieuwe indicatie | Rustelozebenensyndroom (restless legs syndrome) |
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 17) |
+| Aantal vergunningen | 17 (geldig: 17) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -94,7 +94,13 @@ Ter context: voor de derde voorspelde indicatie (maagzweerziekte) zijn wel drie 
 |---------|------|------|-----------|
 | RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten (geldig) | Niet vermeld | Niet vermeld |
 
-Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB. Het middel is in Nederland op de markt.
+Het middel is in Nederland op de markt.
+
+<!-- review:begin nl-lic-20261112-oxybutynin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB. Het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxybutynin-1 -->
 
 ---
 
@@ -117,7 +123,13 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor rustelozebenensyndroom komt uitsluitend van het TxGNN-model (deep learning; bewijsniveau L5), zonder studies of literatuur. Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Het middel is in Nederland wel op de markt, met 1 geldige vergunning.
+- De voorspelling voor rustelozebenensyndroom komt uitsluitend van het TxGNN-model (deep learning; bewijsniveau L5), zonder studies of literatuur. Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren.
+
+<!-- review:begin nl-lic-20261112-oxybutynin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Het middel is in Nederland wel op de markt, met 1 geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxybutynin-2 -->
 
 **Om verder te gaan is nodig:**
 - Productinformatie (SmPC) van het CBG-MEB voor waarschuwingen en contra-indicaties, nodig voor een veiligheidsscreening
@@ -125,6 +137,20 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 - Systematisch literatuuronderzoek naar anticholinergica en rustelozebenensyndroom, inclusief het risico op verergering van klachten
 - Preklinisch of klinisch bewijs dat een verband met rustelozebenensyndroom ondersteunt
 - Beoordeling van de vergunningsstatus en beschikbare toedieningsvormen bij eventuele heroverweging
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland wel op de markt, met 1 geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

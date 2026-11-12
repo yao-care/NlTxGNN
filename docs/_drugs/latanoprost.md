@@ -50,8 +50,8 @@ Latanoprost is een oogdruppel die oorspronkelijk wordt gebruikt voor de behandel
 | Voorspelde nieuwe indicatie | Visceral calciphylaxis |
 | TxGNN-voorspellingsscore | 0.9983 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 34 van 34) |
+| Aantal vergunningen | 34 (geldig: 34) |
 | Aanbevolen beslissing | Hold |
 
 ---

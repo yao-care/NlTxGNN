@@ -48,8 +48,8 @@ Fulvestrant is een selectieve estrogeenreceptor-antagonist en -afbreker; de oors
 | Voorspelde nieuwe indicatie | HIV-infectie |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 15) |
+| Aantal vergunningen | 15 (geldig: 15) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -112,7 +112,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Productinformatie (SmPC/bijsluiter) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke indicatie
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Verdere preklinische validatie van ERα-modulatie bij HIV-latentie en, bij positieve resultaten, een veiligheidsbeoordeling voor een eerste klinische studie
-- Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is
+- Verduidelijking van de commerciële beschikbaarheid in Nederland
+
+<!-- review:begin nl-lic-20261112-fulvestrant-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-fulvestrant-1 -->
 
 <!-- review:begin log -->
 
@@ -123,6 +129,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “aangezien er 1 geldige vergunning (van 1) voor dit product is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

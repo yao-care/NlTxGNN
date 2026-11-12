@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Donepezil is een acetylcholinesteraseremmer die wordt gebruikt bij cognitieve aa
 | Voorspelde nieuwe indicatie | Psychogene bewegingsstoornissen (psychogenic movement disorders) |
 | TxGNN-voorspellingsscore | 0,9923 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 6) |
+| Aantal vergunningen | 6 (geldig: 5) |
 | Aanbevolen beslissing | Hold (afwachten) |
 
 ---

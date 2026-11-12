@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
@@ -48,8 +48,8 @@ Trimethoprim is een antibioticum (foliumzuurantagonist) dat oorspronkelijk wordt
 | Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
 | TxGNN-voorspellingsscore | 0.9957 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 12 van 12) |
+| Aantal vergunningen | 12 (geldig: 12) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

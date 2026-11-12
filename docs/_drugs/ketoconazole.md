@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
 description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Ketoconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt bi
 | Voorspelde nieuwe indicatie | Acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9980 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,8 +95,13 @@ Er zijn geen gerandomiseerde gecontroleerde studies (RCT's) naar ketoconazol bij
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | Crème (volgens productnaam) | Niet beschikbaar; registratie geldig |
+| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | Crème (volgens productnaam) | Niet beschikbaar; niet geregistreerd |
 
+<!-- review:begin nl-lic-20261112-ketoconazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119912//10470 / Ketoconazol crème Fisher 20 mg/g, crème / Crème (volgens productnaam) / Niet beschikbaar; registratie geldig” Gecorrigeerd: registratienummer RVG 119912//10470 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ketoconazole-1 -->
 
 ---
 
@@ -132,6 +137,19 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn ni
 - Resultaten van studie NCT07237763 en bij voorkeur gerandomiseerde studies van fase 2/3 naar topicaal ketoconazol bij acne.
 - Besluit over de toedieningsroute (topicaal versus systemisch) en onderzoek naar een geschikte, beschikbare topicale formulering op de Nederlandse markt.
 - Beoordeling van de balans tussen voordelen en risico's, gezien de levertoxiciteit, de bijnierinsufficiëntie en het grote aantal geneesmiddelinteracties bij systemisch gebruik.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 119912//10470: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

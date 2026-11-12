@@ -50,8 +50,8 @@ Ivermectine is een antiparasitair middel dat oorspronkelijk wordt gebruikt tegen
 | Voorspelde nieuwe indicatie | Vulvovaginale candidiasis (vulvovaginal candidiasis) |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 17) |
+| Aantal vergunningen | 17 (geldig: 17) |
 | Aanbevolen beslissing | Hold |
 
 ---

@@ -50,8 +50,8 @@ Thiopental is een barbituraat dat oorspronkelijk wordt gebruikt bij epilepsie, p
 | Voorspelde nieuwe indicatie | Trichotillomanie (trichotillomania) |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ---

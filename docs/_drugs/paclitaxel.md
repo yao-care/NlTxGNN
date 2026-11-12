@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengeste
 | Voorspelde nieuwe indicatie | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN-voorspellingsscore | 0.9973 |
 | Bewijsniveau | L5 (zie toelichting hieronder) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
+| Aantal vergunningen | 11 (geldig: 11) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden (Proceed with Guardrails) |
 
 **Toelichting bewijsniveau:** de gegevens bevatten 7 afgeronde gerandomiseerde fase 3-studies waarin paclitaxel onderdeel is van het regime. Volgens de beoordelingsregels (≥2 afgeronde fase 3-RCT's) is dat L1. De eerder berekende classificatie was L2, met de opmerking dat er geen fase 3-studie zou zijn. Dat komt niet overeen met de studielijst. In veel van deze studies is paclitaxel het basisregime en niet de onderzochte variabele, dus L1 moet voorzichtig worden gelezen.

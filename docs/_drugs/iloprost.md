@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Iloprost is een prostacycline-analoog en wordt van oorsprong gebruikt bij **pulm
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) |
 | TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -72,7 +72,13 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie (afgeleid uit de productnaam) | Niet vermeld in de verzamelde gegevens |
 
-Deze vergunning (CBG-MEB) is **geldig**. Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en het product is op de markt.
+Deze vergunning (CBG-MEB) is **geldig**. Het product is op de markt.
+
+<!-- review:begin nl-lic-20261112-iloprost-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en het product is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-iloprost-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -86,7 +92,13 @@ Raadpleeg voor waarschuwingen en overige veiligheidsinformatie de SmPC (Samenvat
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.
+- De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties.
+
+<!-- review:begin nl-lic-20261112-iloprost-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-iloprost-2 -->
 
 **Om verder te gaan is nodig:**
 - Een biologische onderbouwing van de rol van de prostacycline-route bij haarfollikels, bijvoorbeeld uit preklinisch onderzoek.
@@ -95,6 +107,20 @@ Raadpleeg voor waarschuwingen en overige veiligheidsinformatie de SmPC (Samenvat
 - Een beoordeling van de toedieningsroute, omdat het huidige product een infuusconcentraat is en een haarziekte vermoedelijk een andere (bijvoorbeeld lokale) toediening vraagt.
 
 **Opmerking over andere voorspellingen voor iloprost:** binnen dezelfde gegevens hebben twee voorspellingen duidelijk meer onderbouwing, namelijk PAH geassocieerd met aurgentie aangeboren hartziekte, inclusief het syndroom van Eisenmenger (bewijsniveau L3), en PAH geassocieerd met bindweefselziekte (L3). Beide zijn uitbreidingen binnen dezelfde ziekteklasse als de goedgekeurde indicatie. Het bewijs bestaat uit observationele studies en reviews, zonder geregistreerde studies. Deze twee zijn beoordeeld als "Proceed with Guardrails", met als randvoorwaarden bevestiging van de diagnose via rechtsharkatheterisatie, hemodynamische bewaking en zorgvuldige keuze van de pediatrische dosering. Zij verdienen een eigen beoordeling.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

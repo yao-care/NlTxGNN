@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Esomeprazole: voorspelde nieuwe indicatie Duodenale obstructie (duodenal obstruction) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Esomeprazol is een zuurremmer (protonpompremmer) die in Nederland is geregistree
 | Voorspelde nieuwe indicatie | Duodenale obstructie (duodenal obstruction) |
 | TxGNN-voorspellingsscore | 0,9945 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 69 van 69) |
+| Aantal vergunningen | 69 (geldig: 69) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

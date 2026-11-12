@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Nystatine is een polyeen-antimycoticum dat lokaal in Nederland op de markt is. H
 | Voorspelde nieuwe indicatie | Aandoening van de orbitale regio (disease of orbital region) |
 | TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -70,7 +70,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd. Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.
+Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.
+
+<!-- review:begin nl-lic-20261112-nystatin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd. Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-nystatin-1 -->
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
@@ -95,6 +101,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Een gerichte literatuurstudie en preklinisch onderzoek naar een mogelijk verband tussen nystatine en aandoeningen van de orbitale regio.
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB voor een veiligheidsbeoordeling.
 - Een beoordeling van de toedieningsroute, omdat de beschikbare vorm voor oraal gebruik is en mogelijk niet past bij de voorspelde indicatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

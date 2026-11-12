@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Metformine is een bloedsuikerverlagend middel dat oorspronkelijk wordt gebruikt 
 | Voorspelde nieuwe indicatie | Focal stiff limb syndrome |
 | TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 120 van 123) |
+| Aantal vergunningen | 123 (geldig: 120) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -83,6 +83,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-metformin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 123, waarvan geldig: 120; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-metformin-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -92,8 +98,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 | RVG 112562 | Metfocell 1000 mg, filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
 | RVG 103395 | Metformine HCl/Glibenclamide Sandoz 500/5 mg, filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
 | RVG 119302//27246 | Glucovance 500 mg/5 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
-
-Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig.
 
 ---
 
@@ -122,6 +126,19 @@ De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5), zonder k
 - Preklinisch of mechanistisch onderzoek naar een mogelijk effect bij het stiff-person-spectrum
 - Een systematisch literatuuronderzoek naar metformine bij stiff-person-syndroom
 - Duidelijkheid over de registratiestatus en beschikbare toedieningsvormen in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

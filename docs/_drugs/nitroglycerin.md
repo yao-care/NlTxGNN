@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 245
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
 monitor_inn: "nitroglycerin"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -48,8 +48,8 @@ Nitroglycerine is een stikstofmonoxide (NO)-donor die klassiek wordt gebruikt al
 | Voorspelde nieuwe indicatie | Pulmonale hypertensie |
 | TxGNN-voorspellingsscore | 0,9961 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 18) |
+| Aantal vergunningen | 18 (geldig: 17) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -85,7 +85,13 @@ Het verband met de bekende toepassing is plausibel: het vaatverwijdende effect d
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (geldig) | Pleister | Niet vermeld in de beschikbare gegevens |
+| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (niet geregistreerd) | Pleister | Niet vermeld in de beschikbare gegevens |
+
+<!-- review:begin nl-lic-20261112-nitroglycerin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119350//15864 / Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (geldig) / Pleister / Niet vermeld in de beschikbare gegevens” Gecorrigeerd: registratienummer RVG 119350//15864 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-nitroglycerin-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -109,13 +115,32 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 **Onderbouwing:**
 - Het mechanisme is plausibel en er zijn consistente signalen uit kleine, vooral acute hemodynamische studies en enkele gerandomiseerde studies (o.a. bij neonaten). Er zijn echter geen afgeronde fase 2/3-RCT's en geen langetermijnuitkomsten.
-- De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening.
+
+<!-- review:begin nl-lic-20261112-nitroglycerin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn echter geen afgeronde fase 2/3-RCT's en geen langetermijnuitkomsten. / De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-nitroglycerin-1 -->
 
 **Om verder te gaan is nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties).
 - Gegevens over het werkingsmechanisme aanvullen via DrugBank.
 - Beoordelen of een geschikte toedieningsroute (verneveling/inhalatie) in Nederland beschikbaar is; de routecompatibiliteit is nog niet vastgesteld.
 - Gecontroleerde studies met klinische eindpunten op langere termijn, en een veiligheidsplan voor hypotensie en de genoemde interacties.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119350//15864: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

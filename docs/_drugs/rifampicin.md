@@ -50,8 +50,8 @@ Rifampicine is een antibioticum dat oorspronkelijk wordt gebruikt voor de behand
 | Voorspelde nieuwe indicatie | Conjunctivitis |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---

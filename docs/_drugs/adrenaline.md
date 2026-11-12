@@ -5,7 +5,7 @@ layout: default
 title: Adrenaline
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 22
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,8 +43,8 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 | Medicijn (INN) | Adrenaline (Epinefrine) |
 | DrugBank ID | Niet beschikbaar |
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 51 van 52) |
+| Aantal vergunningen | 52 (geldig: 51) |
 | Aantal autorisaties | 0 |
 
 ---

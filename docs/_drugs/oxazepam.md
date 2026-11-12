@@ -50,8 +50,8 @@ Oxazepam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bij
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 0.9986 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ---

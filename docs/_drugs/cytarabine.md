@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (small cell lung carcinoma) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Cytarabine is een antimetaboliet die de DNA-synthese remt in delende cellen. Het
 | Voorspelde nieuwe indicatie | Kleincellig longcarcinoom (small cell lung carcinoma) |
 | TxGNN-voorspellingsscore | 0.9978 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
+| Aantal vergunningen | 6 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---

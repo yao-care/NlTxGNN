@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Oxymetazoline is een lokaal werkend sympathicomimeticum dat oorspronkelijk wordt
 | Voorspelde nieuwe indicatie | Aandoening van de neusholte (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0.9996 |
 | Evidentieniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 10) |
+| Aantal vergunningen | 10 (geldig: 9) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -78,7 +78,13 @@ Slechts twee publicaties (1998 en 1996) zijn direct relevant; de overige noemen 
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | Neusspray, oplossing | Niet vermeld in de beschikbare gegevens (vergunning geldig) |
+| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | Neusspray, oplossing | Niet vermeld in de beschikbare gegevens (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-oxymetazoline-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120414//25847 / Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing / Neusspray, oplossing / Niet vermeld in de beschikbare gegevens (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120414//25847 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxymetazoline-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -93,7 +99,12 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 **Onderbouwing:**
 - Het bewijs bestaat uit een modelvoorspelling, één klinische observatiestudie en één dierstudie, zonder geregistreerde klinische studies. De voorspelling is grotendeels een uitbreiding van het bestaande decongestieve gebruik.
-- Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening.
+
+<!-- review:begin nl-lic-20261112-oxymetazoline-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is grotendeels een uitbreiding van het bestaande decongestieve gebruik. / Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 10, waarvan geldig: 9; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-oxymetazoline-1 -->
 
 **Om verder te gaan is nodig:**
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter van de CBG-MEB, om de veiligheidsscreening te kunnen afronden
@@ -106,6 +117,19 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 | Rang | Voorspelde indicatie | Score | Evidentieniveau | Aanbeveling |
 |------|------|------|------|------|
 | 3 | Hoofdpijnaandoening | 0,9904 | L3 | Onderzoeksvraag: één observationele studie (2020, [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) naar intranasaal tetracaïne 3% plus oxymetazoline 0,05% bij status migrainosus. De bijdrage van oxymetazoline alleen is onduidelijk. |
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120414//25847: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

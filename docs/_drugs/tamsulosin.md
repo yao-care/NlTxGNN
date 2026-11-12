@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tamsulosin: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie (BPH)"
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ maar er zijn **0 klinische studies** en **0 publicaties** die deze richting onde
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
-| Aantal vergunningen | 5 (geldig: 5) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 56 van 58) |
+| Aantal vergunningen | 58 (geldig: 56) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -74,7 +74,13 @@ Ter volledigheid: voor de negende voorspelling (alopecia) zijn twee publicaties 
 
 ## Informatie over de Nederlandse markt
 
-Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.
+Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.
+
+<!-- review:begin nl-lic-20261112-tamsulosin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 56; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tamsulosin-1 -->
 
 | RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
@@ -96,13 +102,33 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5.
+De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme.
+
+<!-- review:begin nl-lic-20261112-tamsulosin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 56; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tamsulosin-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (MOA) uit DrugBank en een onderbouwde mechanistische hypothese voor haargroei of de TRPS1-regio
 - Waarschuwingen en contra-indicaties uit de officiële CBG-MEB-bijsluiter (blokkerende datalacune voor veiligheidsscreening)
 - Preklinisch of mechanistisch onderzoek dat een verband tussen alfa-1-blokkade en de voorspelde indicatie aantoont
 - Heroverweging van de voorspelling, of keuze van een kandidaat-indicatie met meer bewijs, gezien de ingetrokken vergunningsstatus
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 310
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Tazobactam: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Alle kandidaten die het TxGNN-model voor Tazobactam heeft gegenereerd, zijn al b
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
 | Bekende toepassingen onder de modelkandidaten | 2 |
 | Bewijsniveau | Niet van toepassing |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 22 van 23) |
+| Aantal vergunningen | 23 (geldig: 22) |
 
 ## Bekende toepassingen onder de kandidaten van het model
 
@@ -75,7 +75,7 @@ Alle kandidaten die het TxGNN-model voor Tazobactam heeft gegenereerd, zijn al b
 | Registratie | Product | Toedieningsvorm | Status |
 |------|------|------|------|
 | RVG 102350 | Piperacilline/Tazobactam Aurobindo 4g/0,5g, poeder voor oplo |  | Geldig |
-| RVG 114973 | Piperacilline/Tazobactam Stravencon 4 g/0,5 g poeder voor op |  | Geldig |
+| RVG 114973 | Piperacilline/Tazobactam Stravencon 4 g/0,5 g poeder voor op |  | Niet geregistreerd |
 | RVG 100289 | Piperacilline/Tazobactam Fresenius Kabi 4 g/0,5 g poeder voo |  | Geldig |
 
 ## Veiligheidsoverwegingen

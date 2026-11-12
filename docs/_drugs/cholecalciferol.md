@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cholecalciferol: voorspelde nieuwe indicatie acromesomele dysplasie, type Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet …"
 ---
 
@@ -48,8 +48,8 @@ Colecalciferol (vitamine D3) is een vitamine D-preparaat dat in Nederland in de 
 | Voorspelde nieuwe indicatie | acromesomele dysplasie, type Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | TxGNN-voorspellingsscore | 0,9978 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 166 van 167) |
+| Aantal vergunningen | 167 (geldig: 166) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -66,13 +66,17 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor deze vo
 
 Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde indicatie.
 
+<!-- review:begin nl-lic-20261112-cholecalciferol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 167, waarvan geldig: 166; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-cholecalciferol-1 -->
+
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 119747//109398 | D-Cura 100.000 IE, drank | Niet vermeld | Niet vermeld in de lokale gegevens |
-
-Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat.
 
 ## Veiligheidsoverwegingen
 
@@ -103,6 +107,19 @@ Het gelijktijdig gebruik van andere vitamine D-preparaten kan het risico op hype
 - Gegevens over het werkingsmechanisme van colecalciferol uit aanvullende bronnen
 - Beoordeling van de waarschuwingen en contra-indicaties in de SmPC van het in Nederland geregistreerde product
 - Een veiligheidsbeoordeling, met name met het oog op hypercalciëmie en nefrocalcinose bij langdurig of hooggedoseerd gebruik
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Articaïne is een lokaal anestheticum van het amide-type dat spanningsgevoelige 
 | Voorspelde nieuwe indicatie | Jicht (gout) |
 | TxGNN-voorspellingsscore | 0,9958 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 13) |
+| Aantal vergunningen | 13 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---

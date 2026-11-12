@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Carboplatine is een platinahoudend cytostaticum dat in Nederland in de handel is
 | Voorspelde nieuwe indicatie | Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) |
 | TxGNN-voorspellingsscore | 0,9928 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen besluit | Hold (afwachten) |
 
 ---

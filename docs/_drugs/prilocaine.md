@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 279
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -52,8 +52,8 @@ Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Het TxGNN-model v
 | Voorspelde nieuwe indicatie | Papillary conjunctivitis |
 | TxGNN-voorspellingsscore | 0.9978 |
 | Bewijsniveau | L5 (beperkt: één kleine, open-label fase 2-studie; geen bevestigende RCT's) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen beslissing | Proceed with Guardrails (onderzoeksvraag) |
 
 ---
@@ -100,8 +100,13 @@ Belangrijke kanttekening: vrijwel al het bewijs betreft de combinatie met lidoca
 |---------|------|------|-----------|
 | RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | Niet beschikbaar | Niet beschikbaar (geldig) |
 | RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | Niet beschikbaar | Niet beschikbaar (geldig) |
-| RVG 115964//11015 | Emla, hydrofiele creme 5% | Niet beschikbaar | Niet beschikbaar (geldig) |
+| RVG 115964//11015 | Emla, hydrofiele creme 5% | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-prilocaine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 115964//11015 / Emla, hydrofiele creme 5% / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 115964//11015 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-prilocaine-1 -->
 
 ---
 
@@ -134,6 +139,19 @@ Aanvullende signalen uit de compilatie van dit rapport:
 - Gegevens over het werkingsmechanisme (bijv. uit DrugBank).
 - Gerandomiseerde, gecontroleerde studies bij postherpetische neuralgie, bij voorkeur met een opzet die de bijdrage van prilocaïne scheidt van lidocaïne.
 - Beoordeling van de toedieningsroute (niet vastgesteld) en van een veiligheidsplan voor methemoglobinemie en interacties.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

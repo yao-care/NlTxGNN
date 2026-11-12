@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Albendazole: voorspelde nieuwe indicatie Coenurose (coenurosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Albendazol is een wormmiddel uit de benzimidazoolgroep dat in Nederland in de ha
 | Voorspelde nieuwe indicatie | Coenurose (coenurosis) |
 | TxGNN-voorspellingsscore | 0.9983 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Aanbevolen besluit | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Erythromycin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5)."
 ---
 
@@ -48,8 +48,8 @@ Erythromycine is een macrolide-antibioticum dat bacteriële eiwitsynthese remt. 
 | Voorspelde nieuwe indicatie | Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) |
 | TxGNN-voorspellingsscore | 0.9989 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

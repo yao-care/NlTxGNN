@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bupropion: voorspelde nieuwe indicatie aandachtstekortstoornis met hyperactiviteit (attention deficit-hyperactivity disorder) (bewijsniveau L1). Oorspronkelijke indicatie: Niet vermeld in de lokale g…"
 ---
 
@@ -50,8 +50,8 @@ Bupropion is een antidepressivum dat de heropname van noradrenaline en dopamine 
 | Voorspelde nieuwe indicatie | aandachtstekortstoornis met hyperactiviteit (attention deficit-hyperactivity disorder) |
 | TxGNN-voorspellingsscore | 0,9999 |
 | Bewijsniveau | L1 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 26 van 27) |
+| Aantal vergunningen | 27 (geldig: 26) |
 | Aanbevolen beslissing | Doorgaan met waarborgen |
 
 ---

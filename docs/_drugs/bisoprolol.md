@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bisoprolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Bisoprolol is een selectieve bèta-1-blokker die wordt gebruikt bij de behandeli
 | Voorspelde nieuwe indicatie | Maligne hypertensieve nierziekte (malignant hypertensive renal disease) |
 | TxGNN-voorspellingsscore | 0,9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
-| Aantal vergunningen | 6 (geldig: 6) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 58 van 63) |
+| Aantal vergunningen | 63 (geldig: 58) |
 | Aanbevolen beslissing | Hold |
 
 ---

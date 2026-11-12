@@ -50,8 +50,8 @@ Threonine is een essentieel aminozuur dat in Nederland voorkomt als bestanddeel 
 | Voorspelde nieuwe indicatie | Gastroparese |
 | TxGNN-voorspellingsscore | 0.9932 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 55 van 56) |
+| Aantal vergunningen | 56 (geldig: 55) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,7 +89,7 @@ Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 115556 | Nutriflex Lipid special zonder elektrolyten, 56 g/l + 144 g/l, emulsie voor infusie | Geldig |
-| RVG 110858 | Aminoplasmal Paed 100 mg/ml, oplossing voor infusie | Geldig |
+| RVG 110858 | Aminoplasmal Paed 100 mg/ml, oplossing voor infusie | Niet geregistreerd |
 
 ---
 
@@ -107,7 +107,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 **Beslissing: Hold**
 
 **Onderbouwing:**
-De voorspelling berust uitsluitend op een computationele score van het TxGNN-model (deep learning), die ggggelijkenissen tussen verwante aandoeningen kan weerspiegelen die het model heeft geleerd, maar geen biologisch bewijs is (bewijsniveau L5), zonder klinische studies of literatuur. Daarnaast zijn er 2 geldige vergunningen van 2 en ontbreken gegevens over werkingsmechanisme, oorspronkelijke indicatie en waarschuwingen/contra-indicaties uit de CBG-MEB-bijsluiter. Verdere veiligheidsscreening is daarom nog niet mogelijk.
+De voorspelling berust uitsluitend op een computationele score van het TxGNN-model (deep learning), die ggggelijkenissen tussen verwante aandoeningen kan weerspiegelen die het model heeft geleerd, maar geen biologisch bewijs is (bewijsniveau L5), zonder klinische studies of literatuur. Verdere veiligheidsscreening is daarom nog niet mogelijk.
+
+<!-- review:begin nl-lic-20261112-threonine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast zijn er 2 geldige vergunningen van 2 en ontbreken gegevens over werkingsmechanisme, oorspronkelijke indicatie en waarschuwingen/contra-indicaties uit de CBG-MEB-bijsluiter. Verdere veiligheidsscreening is daarom nog niet mogelijk.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 56, waarvan geldig: 55; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-threonine-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De bijsluiter-/SmPC-tekst van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties)
@@ -125,6 +131,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide onderstaande vergunningen zijn ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast zijn er 2 geldige vergunningen van 2 en ontbreken gegevens over werkingsmechanisme, oorspronkelijke indicatie en waarschuwingen/co” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

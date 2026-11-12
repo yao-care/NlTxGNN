@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 107
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Desogestrel: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (de vergunningstekst is lee…"
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
@@ -50,8 +50,8 @@ Voor desogestrel is in de voor dit rapport verzamelde gegevens geen geregistreer
 | Voorspelde nieuwe indicatie | Amenorroe |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 volgens de scoring in de gegevens. Zie de kanttekening hieronder: het directe bewijs voor desogestrel is zwakker |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 22 van 22) |
+| Aantal vergunningen | 22 (geldig: 22) |
 | Aanbevolen beslissing | Hold (voorlopig niet verder; eerst aanvullend onderzoek) |
 
 **Kanttekening bewijsniveau:** de enige Phase 3-studie is beoordeeld met relevantiegraad C en toont niet aan dat desogestrel het onderzochte middel was. Het directe bewijs komt daarmee niet verder dan L3-L4 (observationeel onderzoek en mechanistische literatuur).
@@ -98,7 +98,13 @@ De overige gevonden publicaties zijn algemene overzichten van hormonale anticonc
 |---------|------|------|-----------|
 | RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is bij het CBG-MEB één vergunning bekend, en die is geldig (1 geldige vergunning van 1). Het middel is in Nederland op de markt.
+Er is bij het CBG-MEB één vergunning bekend, en die is geldig. Het middel is in Nederland op de markt.
+
+<!-- review:begin nl-lic-20261112-desogestrel-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is bij het CBG-MEB één vergunning bekend, en die is geldig (1 geldige vergunning van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 22, waarvan geldig: 22; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-desogestrel-1 -->
 
 ---
 
@@ -128,7 +134,13 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 **Onderbouwing:**
 - Het mechanisme is aannemelijk, maar de enige Phase 3-studie toont niet aan dat desogestrel is onderzocht. Het overige bewijs bestaat uit kleine, oudere of indirecte studies.
-- In Nederland is het middel op de markt, met 1 geldige vergunning van 1; de veiligheidsgegevens uit de officiële productinformatie ontbreken.
+- De veiligheidsgegevens uit de officiële productinformatie ontbreken.
+
+<!-- review:begin nl-lic-20261112-desogestrel-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; de veiligheidsgegevens uit de officiële productinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 22, waarvan geldig: 22; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-desogestrel-2 -->
 
 **Om verder te gaan is nodig:**
 - De bijsluiter/SmPC van het CBG-MEB downloaden en analyseren op waarschuwingen en contra-indicaties
@@ -141,6 +153,20 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 ---
 
 *Opmerking over andere voorspellingen:* de overige voorspelde indicaties hebben minder bewijs. Bij acne is er een afgeronde Fase 4-studie (NCT01466673, n=201, norgestimaat-pil als hoofdonderzochte middel, desogestrel als vergelijker) en enkele vergelijkende studies; die indicatie komt in de gegevens uit op "Proceed with Guardrails", maar is in dit rapport niet uitgewerkt. De overige voorspellingen (o.a. borstaandoeningen, primaire ovariële insufficiëntie) hebben alleen modelondersteuning of vrijwel geen bewijs en staan op Hold.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

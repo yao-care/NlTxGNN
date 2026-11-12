@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Er zijn **geen geregistreerde klinische studies** en **3 publicaties** (alleen c
 | Voorspelde nieuwe indicatie | Cauda equina neoplasm |
 | TxGNN-voorspellingsscore | 0.9930 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 58 van 58) |
+| Aantal vergunningen | 58 (geldig: 58) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

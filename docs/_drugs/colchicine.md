@@ -50,8 +50,8 @@ Colchicine wordt van oudsher gebruikt bij jicht en familiaire mediterrane koorts
 | Voorspelde nieuwe indicatie | Plasmodium falciparum-malaria |
 | TxGNN-voorspellingsscore | 0,9960 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 17) |
+| Aantal vergunningen | 17 (geldig: 17) |
 | Aanbevolen besluit | Hold |
 
 In de Nederlandse vergunningsgegevens is geen indicatietekst beschikbaar.*
@@ -122,7 +122,13 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De hoge TxGNN-score (0,9960) is een puur computationele voorspelling. Er zijn geen klinische studies en het preklinische bewijs is indirect (curcumine, chloroquine-gevoeligheid). De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1.
+- De hoge TxGNN-score (0,9960) is een puur computationele voorspelling. Er zijn geen klinische studies en het preklinische bewijs is indirect (curcumine, chloroquine-gevoeligheid). De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig.
+
+<!-- review:begin nl-lic-20261112-colchicine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-colchicine-1 -->
 
 **Om verder te gaan is nodig:**
 - Preklinische gegevens over de directe werking van colchicine op P. falciparum (in vitro en in vivo, inclusief concentraties ten opzichte van de toxische gastheerdosis).
@@ -146,6 +152,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “(de enige vergunning is ingetrokken)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

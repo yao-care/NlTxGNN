@@ -50,8 +50,8 @@ Tetrabenazine is een geneesmiddel dat oorspronkelijk wordt gebruikt bij de ziekt
 | Voorspelde nieuwe indicatie | Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte |
 | TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
+| Aantal vergunningen | 7 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,7 +82,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 |---------|------|------|-----------|
 | RVG 117369 | Tetrabenazine SUN 25 mg tabletten (status: geldig) | Niet vermeld | Niet vermeld |
 
-Er is 1 geldige vergunning van 1 bij het CBG-MEB; tetrabenazine is momenteel op de Nederlandse markt.
+Tetrabenazine is momenteel op de Nederlandse markt.
+
+<!-- review:begin nl-lic-20261112-tetrabenazine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; tetrabenazine is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 7, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tetrabenazine-1 -->
 
 ---
 
@@ -127,6 +133,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; t” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

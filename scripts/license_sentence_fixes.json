@@ -2,617 +2,537 @@
  "acitretin": [
   {
    "sentence": "De enige Nederlandse vergunning is bovendien ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 7 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "ambroxol": [
   {
    "sentence": "De enige Nederlandse vergunning is bovendien doorgehaald.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   }
  ],
  "azathioprine": [
   {
    "sentence": "De registratie is door het CBG-MEB in de gegevens als vervallen aangemerkt, terwijl de totale marktstatus \"In de handel\" luidt.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   }
  ],
  "biotin": [
   {
    "sentence": "- Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 2 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "calcipotriol": [
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 17 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "cefazolin": [
   {
    "sentence": "- Beoordeling van de praktische toepasbaarheid, gezien de uitsluitend parenterale toediening en de ingetrokken vergunning in Nederland",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 6 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "ciclesonide": [
   {
    "sentence": "De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 11 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "clobazam": [
   {
    "sentence": "De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 10 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "dalteparin": [
   {
    "sentence": "Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie en antistolling).",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 13 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 13 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "dobutamine": [
   {
    "sentence": "Bovendien is de enige Nederlandse vergunning doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "dutasteride": [
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 16 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 16 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "efavirenz": [
   {
    "sentence": "Het is een enkelvoudig product; de vergunning heeft de status \"ingetrokken\".",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   }
  ],
  "estriol": [
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de officiële productinformatie.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 7 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "etonogestrel": [
   {
    "sentence": "Bovendien is de enige Nederlandse vergunning doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 12 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "famciclovir": [
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning ingetrokken, wat de praktische beschikbaarheid beperkt.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Beoordeling van de beschikbaarheid in Nederland, gezien de ingetrokken registratie",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "fentanyl": [
   {
    "sentence": "- De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 30 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "fexofenadine": [
   {
    "sentence": "Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 18 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 18 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "finasteride": [
   {
    "sentence": "De enige Nederlandse vergunning is bovendien doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 14 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "fluorouracil": [
   {
    "sentence": "De Nederlandse vergunning is bovendien ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "flupentixol": [
   {
    "sentence": "Daarnaast is de enige Nederlandse registratie vervallen en ontbreken veiligheidsgegevens uit de bijsluitertekst.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Een beoordeling van de haalbaarheid van toediening, gezien de vervallen registratie",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "galantamine": [
   {
    "sentence": "De registratie in Nederland is bovendien ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 15 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "hyaluronidase": [
   {
    "sentence": "Het enige product is in Nederland doorgehaald, en de essentiële registratie- en veiligheidsgegevens ontbreken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 1 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "hydromorphone": [
   {
    "sentence": "Bovendien is de enige Nederlandse vergunning doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 15 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "iloprost": [
   {
    "sentence": "Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 7 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "indomethacin": [
   {
    "sentence": "Er is één vergunning, en die is ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "Er zijn geen geregistreerde klinische studies, het bewijs is oud en indirect, en de Nederlandse vergunning is ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "iohexol": [
   {
    "sentence": "- Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 8 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "irbesartan": [
   {
    "sentence": "- De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreening).",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 70 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 70 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "lamotrigine": [
   {
    "sentence": "- Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 43 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "lanreotide": [
   {
    "sentence": "Deze vergunning is ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   },
   {
    "sentence": "Bovendien is de enige Nederlandse vergunning ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 22 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "lansoprazole": [
   {
    "sentence": "- De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "levocetirizine": [
   {
    "sentence": "Deze registratie is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   },
   {
    "sentence": "- Beoordeling van de beschikbare toedieningsroutes en formuleringen, gezien de doorgehaalde registratie",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 13 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "lopinavir": [
   {
    "sentence": "Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "lubiprostone": [
   {
    "sentence": "De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   },
   {
    "sentence": "Er is geen aannemelijke mechanistische link, en de enige Nederlandse vergunning is doorgehaald.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   },
   {
    "sentence": "- De oorspronkelijke indicatie en de regulatoire status in Nederland verduidelijken, aangezien de vergunning is doorgehaald.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   }
  ],
  "memantine": [
   {
    "sentence": "- De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 31 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 31 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "mesalazine": [
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 77 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "methotrexate": [
   {
    "sentence": "- De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 133 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "minoxidil": [
   {
    "sentence": "De enige bekende vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 13 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 13 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "misoprostol": [
   {
    "sentence": "De enige Nederlandse vergunning (CBG-MEB) is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 14 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "Daarnaast is de enige Nederlandse vergunning doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 14 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "montelukast": [
   {
    "sentence": "Er is één vergunning, en die is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 33 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "naratriptan": [
   {
    "sentence": "Bovendien is de enige Nederlandse registratie doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 5 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "nitroglycerin": [
   {
    "sentence": "- De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 17 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "norgestimate": [
   {
    "sentence": "Het enige Nederlandse product is ingetrokken en de veiligheidsgegevens uit de officiële productinformatie ontbreken, waardoor veiligheidsscreening nog niet mogelijk is.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 1 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "nortriptyline": [
   {
    "sentence": "Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interactierisico.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 20 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "ofloxacin": [
   {
    "sentence": "Er is één vergunning, en die is ingetrokken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 15 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "olanzapine": [
   {
    "sentence": "De enige bekende vergunning bij het CBG-MEB is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 68 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "Bovendien is de enige Nederlandse vergunning doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 68 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "oxymetazoline": [
   {
    "sentence": "- Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 9 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "oxytetracycline": [
   {
    "sentence": "Beide registraties zijn doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 2 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   },
   {
    "sentence": "Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 2 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 2 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Beoordeling van de toedieningsroute (systemisch of topisch) en van de beschikbaarheid van een geschikt product, gezien de doorgehaalde registraties.",
-   "keep": true,
-   "reason": "事實層把本藥 2 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 2 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "pimecrolimus": [
   {
    "sentence": "Deze vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   },
   {
    "sentence": "De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 1 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 1 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "pimozide": [
   {
    "sentence": "Er zijn geen geregistreerde studies, de Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (QT-verlenging, veel interacties) zijn aanzienlijk.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 6 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "polymyxin_b": [
   {
    "sentence": "In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd.",
-   "keep": true,
-   "reason": "事實層把本藥 2 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 6 張現行登記（另 2 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen",
-   "keep": true,
-   "reason": "事實層把本藥 2 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 6 張現行登記（另 2 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "propofol": [
   {
    "sentence": "- De enige Nederlandse vergunning is ingetrokken en de veiligheidsgegevens uit de bijsluiter ontbreken, wat een blokkerende datalacune is voor de veiligheidsscreening.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 15 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Een plan voor beperking tot gemonitorde klinische settings en beoordeling van de regelgevende route (off-label gebruik van een actuele vergunning, aangezien de bestaande vergunning is ingetrokken).",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 15 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "propranolol": [
   {
    "sentence": "Ook de Nederlandse vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 14 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "pyridostigmine": [
   {
    "sentence": "- De Nederlandse vergunning is ingetrokken en gegevens uit de productinformatie ontbreken, waardoor veiligheidsscreening nog niet mogelijk is.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- Bevestiging van de beschikbaarheid in Nederland, gezien de ingetrokken registratie.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "ranitidine": [
   {
    "sentence": "Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   },
   {
    "sentence": "- Besluit over de relevantie van de ingetrokken vergunning, bijvoorbeeld of herintroductie of een alternatieve H2-antagonist aan de orde is.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   }
  ],
  "sorbitol": [
   {
    "sentence": "Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "Bovendien is de enige Nederlandse registratie doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 3 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "spironolactone": [
   {
    "sentence": "Bovendien is het enige Nederlandse product doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie, wat een blokkerend datagat vormt voor veiligheidsscreening.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 16 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "sulfasalazine": [
   {
    "sentence": "- Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "tadalafil": [
   {
    "sentence": "- De enige Nederlandse vergunning (RVG 118514) is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 90 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "telmisartan": [
   {
    "sentence": "In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 72 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 72 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "tenofovir": [
   {
    "sentence": "De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 8 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "thymol": [
   {
    "sentence": "De enige Nederlandse vergunning is bovendien doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 2 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "tiapride": [
   {
    "sentence": "Deze registratie is doorgehaald.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   },
   {
    "sentence": "- De Nederlandse registratie is doorgehaald en veiligheidsgegevens ontbreken, waardoor de veiligheidsscreening nog niet kan worden uitgevoerd.",
    "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：本藥依成分 0 張現行登記，證據包那張登記號 CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，正文說已註銷／撤回跟 CBG 一致（不在現行登記），保留"
   }
  ],
  "tolperisone": [
   {
    "sentence": "- Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 4 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "topotecan": [
   {
    "sentence": "Deze vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   }
  ],
  "tranylcypromine": [
   {
    "sentence": "De enige in de data opgenomen registratie is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 11 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   },
   {
    "sentence": "- De enige Nederlandse registratie is bovendien doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 11 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "trazodone": [
   {
    "sentence": "De enige bekende vergunning is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 10 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "vancomycin": [
   {
    "sentence": "De enige registratie is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 18 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ],
  "zonisamide": [
   {
    "sentence": "Deze registratie is doorgehaald.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記重建：句子指的是頁面表格列出的那張登記（指示詞「Deze／Beide／De registratie … in de gegevens」），該登記號不在 CBG 現行 metadata.csv，CBG 產品頁寫「Niet geregistreerd geneesmiddel」，句子跟 CBG 一致；本藥另有現行登記，但句子沒有說唯一或全部，保留",
+   "keep": true
   },
   {
    "sentence": "Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens.",
-   "keep": true,
-   "reason": "事實層把本藥 1 張登記算成有效，但這些登記號都不在 CBG 現行清單（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-06 下載）裡，有效狀態未經查證；正文說已註銷可能是對的，保守不動（2026-11-06）"
+   "reason": "2026-11-12 依 CBG 現行登記（geneesmiddeleninformatiebank.nl/metadata.csv，2026-11-12 下載）重建：本藥依成分有 8 張現行登記（另 1 張不在現行登記），正文說唯一／全部許可已註銷或以此為前提，跟事實相反，刪除（前版 2026-11-06 標 keep：當時事實層只有舊鏡像的 1 張）"
   }
  ]
 }

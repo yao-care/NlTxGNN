@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Celecoxib: voorspelde nieuwe indicatie acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lok…"
 ---
 
@@ -48,8 +48,8 @@ Celecoxib is een ontstekingsremmend en pijnstillend geneesmiddel uit de groep va
 | Voorspelde nieuwe indicatie | acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN-voorspellingsscore | 0,9988 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 20 van 20) |
+| Aantal vergunningen | 20 (geldig: 20) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

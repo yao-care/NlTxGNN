@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Olmesartan: voorspelde nieuwe indicatie Prinzmetal-angina (vasospastische angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de beschikbare vergunningsgegevens"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -50,8 +50,8 @@ Olmesartan is een angiotensine II-receptorblokker (AT1-blokker). In de voor dit 
 | Voorspelde nieuwe indicatie | Prinzmetal-angina (vasospastische angina) |
 | TxGNN-voorspellingsscore | 0.9984 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
-| Aantal vergunningen | 11 (geldig: 11) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 123 van 126) |
+| Aantal vergunningen | 126 (geldig: 123) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -78,14 +78,20 @@ Momenteel geen gerelateerde literatuur beschikbaar voor prinzmetal-angina.
 
 ## Marktinformatie Nederland
 
-Alle 11 vergunningen zijn geldig; het middel is momenteel op de Nederlandse markt. Hieronder een overzicht van de eerste vijf vergunningen (CBG-MEB). Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
+Het middel is momenteel op de Nederlandse markt. Hieronder een overzicht van de eerste vijf vergunningen (CBG-MEB). Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
+
+<!-- review:begin nl-lic-20261112-olmesartan-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig; het middel is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 126, waarvan geldig: 123; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-olmesartan-1 -->
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
 | RVG 118854 | Olmesartanmedoxomil Aurobindo 40 mg, filmomhulde tabletten | Geldig |
-| RVG 115954//100986 | Sevikar 40 mg/5 mg, filmomhulde tabletten | Geldig |
+| RVG 115954//100986 | Sevikar 40 mg/5 mg, filmomhulde tabletten | Niet geregistreerd |
 | RVG 117957 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/12,5 mg, filmomhulde tabletten | Geldig |
-| RVG 115959//100987 | Sevikar 40 mg/10 mg, filmomhulde tabletten | Geldig |
+| RVG 115959//100987 | Sevikar 40 mg/10 mg, filmomhulde tabletten | Niet geregistreerd |
 | RVG 117958 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/25 mg, filmomhulde tabletten | Geldig |
 
 ---
@@ -124,6 +130,19 @@ Naast prinzmetal-angina bevatten de gegevens enkele andere voorspellingen met me
 - **Pulmonale hypertensie** (L4): uitsluitend preklinische diermodellen bij ratten en muizen; geen humane gegevens. Aanbeveling: onderzoeksvraag.
 - **Openhoekglaucoom** (L4): alleen een algemeen overzichtsartikel uit 2009 zonder olmesartan-specifieke gegevens.
 - Voorspellingen voor haaraandoeningen (hypotrichosis, alopecia) en overige indicaties missen een aannemelijk mechanisme; de score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

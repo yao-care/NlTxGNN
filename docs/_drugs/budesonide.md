@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Budesonide is een glucocorticoïd met een breed ontstekingsremmend en immuunonde
 | Voorspelde nieuwe indicatie | Eczeem (atopic eczema) |
 | TxGNN-voorspellingsscore | 0,9996 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 67 van 68) |
+| Aantal vergunningen | 68 (geldig: 67) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

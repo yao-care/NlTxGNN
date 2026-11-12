@@ -50,8 +50,8 @@ Lorazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt bij epilepsiev
 | Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) |
 | TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 38 van 38) |
+| Aantal vergunningen | 38 (geldig: 38) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -119,7 +119,13 @@ Gegevens uit de bijsluitertekst (waarschuwingen en contra-indicaties) ontbreken 
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing. Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1.
+- De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing.
+
+<!-- review:begin nl-lic-20261112-lorazepam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen klinische studies of publicaties, en er is geen plausibel mechanisme voor tumorbeheersing. Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 38, waarvan geldig: 38; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-lorazepam-1 -->
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme en een onderbouwing van een biologisch verband met trigeminuszenuwneoplasma
@@ -138,6 +144,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

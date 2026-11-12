@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Enoxaparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency… (bewijsniveau L5). Oorspronkelijke indicatie: Niet ve…"
 ---
 
@@ -48,8 +48,8 @@ Enoxaparine is een laagmoleculairgewichtheparine dat de bloedstolling remt. De T
 | Voorspelde nieuwe indicatie | Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency, autosomal recessive) |
 | TxGNN-voorspellingsscore | 0,9958 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 19 van 20) |
+| Aantal vergunningen | 20 (geldig: 19) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling aannemelijk?

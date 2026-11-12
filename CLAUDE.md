@@ -518,3 +518,13 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-10-31～11-06 依新事實直接刪掉的矛盾子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 96 筆紀錄（69 頁；其中 1 筆因報告在 11 月經 AI 重產、原句已不在頁面，標 resolved_by_regeneration）。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁後會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
 
+2026-11-12 事實層改依 CBG 現行登記重建（用戶決定）：原本的證據包來自第三方鏡像（openstate，已停），每個藥大多只收到 1 張登記、全標 active
+（例：atorvastatin 現行 CBG 有 212 張，證據包只有 1 張，而且那張已不在現行登記；518 個登記號只有 215 個在現行清單）。
+- `scripts/rebuild_licenses_by_ingredient.py`：下載 CBG 官方 metadata.csv（https://www.geneesmiddeleninformatiebank.nl/metadata.csv），依成分（WERKZAMESTOFFEN，去鹽類／酯類／水合物寫法、排除順勢療法 RVH）補收全部現行登記；
+  證據包原有、但不在現行清單的登記號保留並標「Niet geregistreerd」（license_status＝cancelled、cbg_not_listed＝日期）。CBG 網站對這類號碼寫「Niet geregistreerd geneesmiddel — … komt niet voor in de Geneesmiddeleninformatiebank」，照原文用，不寫撤銷。
+  只加不刪、可重複執行；`.github/workflows/license-refresh.yml` 每週在 license_refresh 前先跑，重建有變動就發新 Release。原本沒有紀錄的證據包不動（不知道荷蘭文成分名）。
+- 2026-11-12 第一次重建：383 個藥新收 9,446 張現行登記、331 張標不在現行登記；333 頁的概覽狀態列與張數列、37 格表格狀態格由程式同步。
+  正文跟新事實矛盾的 164 句以 `nl-lic-20261112-*` 刪除（多是「唯一的荷蘭許可已註銷」，現行其實有多張）；93 列 LLM 表格把不在現行登記的號碼寫成 geldig，以紀錄改成 niet geregistreerd。
+  `scripts/license_sentence_fixes.json` 原本標 keep 的 96 句：88 句因本藥有現行登記改為刪除，其中 8 句是指表上那張（「Deze vergunning is doorgehaald」等）、那張確實不在現行登記，維持 keep；另 8 句的藥（ambroxol、lubiprostone、ranitidine、tiapride）現行 0 張，維持 keep。
+  amylmetacresol、ethinylestradiol 兩筆 11-06 紀錄的錨點／留下的半句受影響，改錨或同 id 重發，前版存 history。
+- 現行 0 張的 10 頁，概覽狀態列由共用模板寫成「Niet in de handel (ingetrokken vergunningen: …)」（母目錄 check_drug_page.py 的 nl 模板），「ingetrokken」比 CBG 原文「Niet geregistreerd」強，待改模板。

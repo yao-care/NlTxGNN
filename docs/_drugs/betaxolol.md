@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 55
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Betaxolol: bekende toepassingen en handelsstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ De kandidaten die het TxGNN-model voor Betaxolol voorstelt, zijn allemaal al bek
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
 | Bekende toepassingen onder de modelkandidaten | 0 |
 | Bewijsniveau | Niet van toepassing |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 
 ## Bekende toepassingen onder de kandidaten van het model
 
@@ -74,7 +74,7 @@ De kandidaten die het TxGNN-model voor Betaxolol voorstelt, zijn allemaal al bek
 
 | Registratie | Product | Toedieningsvorm | Status |
 |------|------|------|------|
-| RVG 116531//11307 | Betoptic, oogdruppels, oplossing 5 mg/ml |  | Geldig |
+| RVG 116531//11307 | Betoptic, oogdruppels, oplossing 5 mg/ml |  | Niet geregistreerd |
 
 ## Veiligheidsoverwegingen
 

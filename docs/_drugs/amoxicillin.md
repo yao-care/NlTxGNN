@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Amoxicillin: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaa
 | Voorspelde nieuwe indicatie | Hyperamylasemie (hyperamylasemia) |
 | TxGNN-voorspellingsscore | 0,9963 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 97 van 98) |
+| Aantal vergunningen | 98 (geldig: 97) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

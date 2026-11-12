@@ -50,8 +50,8 @@ Letrozol is een aromataseremmer die de aanmaak van oestrogenen remt. Het TxGNN-m
 | Voorspelde nieuwe indicatie | Tepelcarcinoom (nipple carcinoma) |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 19 van 20) |
+| Aantal vergunningen | 20 (geldig: 19) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -89,11 +89,23 @@ De onderstaande publicaties gaan over tepelcarcinoom of nauw verwante borsttumor
 
 ## Informatie over de Nederlandse markt
 
-Marktstatus: **in de handel**. Er is één geldige registratie.
+Marktstatus: **in de handel**.
+
+<!-- review:begin nl-lic-20261112-letrozole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Marktstatus: **in de handel**. Er is één geldige registratie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 20, waarvan geldig: 19; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-letrozole-1 -->
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-letrozole-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114435 / Letrozol 2,5 mg Focus, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 114435 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-letrozole-2 -->
 
 ---
 
@@ -154,6 +166,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Dat de marktstatus "alleen doorgehaald" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact” | Niet meer aanwezig nadat het rapport opnieuw is gegenereerd (2026-11-12: het rapport is in november 2026 opnieuw gegenereerd en bevat de vermelding niet meer; eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één geldige registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114435: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

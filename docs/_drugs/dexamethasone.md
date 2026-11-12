@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Dexamethason is een synthetisch glucocorticoïd met een ontstekingsremmende en i
 | Voorspelde nieuwe indicatie | Folliculaire mucinose (alopecia mucinosa) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
-| Aantal vergunningen | 4 (geldig: 4) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 37 van 40) |
+| Aantal vergunningen | 40 (geldig: 37) |
 | Aanbevolen besluit | Hold |
 
 ---

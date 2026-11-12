@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Epirubicine is een cytostatisch middel uit de antracyclinegroep. Het model TxGNN
 | Voorspelde nieuwe indicatie | Primair pulmonaal lymfoom (primary pulmonary lymphoma) |
 | TxGNN-voorspellingsscore | 0,9971 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen besluit | Hold (afwachten) |
 
 ## Waarom is deze voorspelling redelijk?

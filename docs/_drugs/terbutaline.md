@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Terbutaline is een bèta-2-agonist die luchtwegverwijding bewerkt. Het TxGNN-mod
 | Voorspelde nieuwe indicatie | Respiratoire malformatie (respiratory malformation) |
 | TxGNN-voorspellingsscore | 0.9952 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 3) |
+| Aantal vergunningen | 3 (geldig: 2) |
 | Aanbevolen beslissing | Hold |
 
 ---

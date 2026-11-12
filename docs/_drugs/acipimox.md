@@ -5,7 +5,7 @@ layout: default
 title: Acipimox
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 18
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,8 +43,8 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 | Geneesmiddel (INN) | Acipimox |
 | DrugBank ID | [DB09055](https://go.drugbank.com/drugs/DB09055) |
 | Oorspronkelijke Indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Handelsstatuut | Niet geregistreerd (Niet geregistreerd) |
 | Aantal Autorisaties | 0 |
 

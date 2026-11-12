@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -47,8 +47,8 @@ Alprazolam is een benzodiazepine met een kalmerend en angstremmend effect. Het T
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 23 van 24) |
+| Aantal vergunningen | 24 (geldig: 23) |
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 0.9981 |
 | Bewijsniveau | L3 |
@@ -75,6 +75,12 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 Alleen de meest relevante publicaties zijn opgenomen. Geen enkele daarvan is een gerandomiseerde studie van alprazolam bij slapeloosheid.
 
+<!-- review:begin nl-lic-20261112-alprazolam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam als enige werkzame stof.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 24, waarvan geldig: 23; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-alprazolam-1 -->
+
 | PMID | Jaar | Type | Tijdschrift | Belangrijkste bevindingen |
 |------|-----|------|------|---------|
 | [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospectieve observationele studie | Medicine | 116 patiënten met coronaire hartziekte en slapeloosheid; controlegroep behandeld met alprazolam, experimentele groep met moxibustie en ooracupunctuur; effect op symptomen en neurotransmitters. Geen alprazolam-specifieke toets. |
@@ -92,8 +98,6 @@ Alleen de meest relevante publicaties zijn opgenomen. Geen enkele daarvan is een
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 117945//19888 | Alprazolam Retard Fisher 2 mg, tabletten met gereguleerde afgifte | Tablet met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
-
-Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam als enige werkzame stof.
 
 ---
 
@@ -119,6 +123,18 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de productinf
 - Gerandomiseerde, gecontroleerde studies van alprazolam bij primaire slapeloosheid, vergeleken met bestaande behandelopties.
 - Gegevens over het werkingsmechanisme en de volledige SmPC-veiligheidsgegevens.
 - Een risico-batenanalyse voor kwetsbare groepen, zoals ouderen en patiënten met lever-, nier- of ademhalingsproblemen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam als enige werkzame stof” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

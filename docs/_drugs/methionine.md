@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Methionine: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar (de vergunningsgegevens bevatten geen indicatietekst)"
 ---
 
@@ -50,8 +50,8 @@ Methionine is een essentieel aminozuur dat in Nederland alleen voorkomt als best
 | Voorspelde nieuwe indicatie | Acne |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 55 van 55) |
+| Aantal vergunningen | 55 (geldig: 55) |
 | Aanbevolen beslissing | Hold (aanhouden) |
 
 Het bewijsniveau is L5: de twee gevonden publicaties onderzoeken methionine niet bij acne zelf. Eén is een casusbeschrijving van een neonaat met een MTHFR-mutatie, de andere een observationele studie naar homocysteïne bij isotretinoïnegebruik.
@@ -88,7 +88,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 | RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
 | RVG 105713 | OLIMEL N9E, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
 
-Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt. De toedieningsvorm is afgeleid uit de productnaam. De lijst is volledig (2 van 2 vergunningen).
+De toedieningsvorm is afgeleid uit de productnaam. De lijst is volledig (2 van 2 vergunningen).
+
+<!-- review:begin nl-lic-20261112-methionine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt. De toedieningsvorm is afgeleid uit de productnaam.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 55, waarvan geldig: 55; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-methionine-1 -->
 
 ---
 
@@ -124,6 +130,18 @@ Het model voorspelt ook andere indicaties, vooral oogaandoeningen. Geen daarvan 
 
 | Voorspelde indicatie | Score | Bewijsniveau | Opmerking |
 |------|------|------|------|
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

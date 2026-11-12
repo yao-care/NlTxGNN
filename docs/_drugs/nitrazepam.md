@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -51,8 +51,8 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **slaapstoornissen met p
 | Voorspelde nieuwe indicatie | Wernicke-Korsakoff syndrome |
 | TxGNN-voorspellingsscore | 0.9931 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 2) |
+| Aantal vergunningen | 2 (geldig: 1) |
 | Aanbevolen beslissing | Hold |
 
 ---

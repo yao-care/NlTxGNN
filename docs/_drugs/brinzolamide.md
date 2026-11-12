@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 61
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Brinzolamide: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Brinzolamide kandidaten op, maar a
 | Nieuwe voorspelde indicaties | Geen (alle herleidbare modelkandidaten zijn bekende toepassingen) |
 | Bekende toepassingen onder de modelkandidaten | 1 |
 | Bewijsniveau | Niet van toepassing |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 21 van 21) |
+| Aantal vergunningen | 21 (geldig: 21) |
 
 ## Bekende toepassingen onder de kandidaten van het model
 

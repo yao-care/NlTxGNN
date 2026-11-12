@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: voorspelde nieuwe indicatie Pulmonary blastoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Methotrexaat is een antifolaat (celdelingremmer) dat oorspronkelijk wordt gebrui
 | Voorspelde nieuwe indicatie | Pulmonary blastoma |
 | TxGNN-voorspellingsscore | 0.9945 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 133 van 134) |
+| Aantal vergunningen | 134 (geldig: 133) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -115,7 +115,12 @@ Officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn niet besch
 
 **Onderbouwing:**
 - Er is alleen een modelvoorspelling (L5), zonder klinische studies of publicaties voor pulmonair blastoom.
-- De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is.
+
+<!-- review:begin nl-lic-20261112-methotrexate-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is alleen een modelvoorspelling (L5), zonder klinische studies of publicaties voor pulmonair blastoom. / De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 134, waarvan geldig: 133; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-methotrexate-1 -->
 
 **Om verder te gaan is nodig:**
 - Preklinisch en mechanistisch onderzoek naar de gevoeligheid van pulmonair blastoom voor antifolaten
@@ -124,6 +129,19 @@ Officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn niet besch
 - Actuele informatie over de marktstatus van methotrexaatproducten in Nederland
 
 **Opmerking over andere voorspellingen voor methotrexaat in dezelfde gegevens:** rabdomyosarcoom heeft sterker bewijs (niveau L2, met onder meer een fase 2-studie naar hooggedoseerd methotrexaat bij kinderen), het Hodgkinlymfoom heeft niveau L3 en primair pulmonair lymfoom niveau L4. Deze kandidaten verdienen mogelijk een voorrangsbeoordeling boven pulmonair blastoom.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

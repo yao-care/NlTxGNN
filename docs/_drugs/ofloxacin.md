@@ -50,8 +50,8 @@ Ofloxacine is een fluorochinolon-antibioticum dat oorspronkelijk wordt gebruikt 
 | Voorspelde nieuwe indicatie | Polyclonal hyperviscosity syndrome |
 | TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L5 (preklinisch/mechanistisch) voor septische pest |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 16) |
+| Aantal vergunningen | 16 (geldig: 15) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; geen menselijke klinische data) |
 
 ---
@@ -99,15 +99,25 @@ Selectie voor septische pest (geen RCT's of humane studies beschikbaar):
 
 Opmerking: enkele geselecteerde artikelen gaan over resistentie of andere organismen en zijn van beperkte relevantie.
 
+<!-- review:begin nl-lic-20261112-ofloxacin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ofloxacin-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (geldig) | Oogdruppels (oplossing) | Niet beschikbaar |
+| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (niet geregistreerd) | Oogdruppels (oplossing) | Niet beschikbaar |
 
-Er is één vergunning, en die is ingetrokken.
+<!-- review:begin nl-lic-20261112-ofloxacin-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 115765 / Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (geldig) / Oogdruppels (oplossing) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 115765 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ofloxacin-2 -->
 
 ---
 
@@ -159,6 +169,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergun” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-10-31 | Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 115765: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

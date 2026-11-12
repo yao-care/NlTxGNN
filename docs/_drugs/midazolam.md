@@ -50,8 +50,8 @@ Midazolam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bi
 | Voorspelde nieuwe indicatie | Slapeloosheid (insomnia (disease)) |
 | TxGNN-voorspellingsscore | 0.9974 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 36 van 37) |
+| Aantal vergunningen | 37 (geldig: 36) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -96,7 +96,13 @@ De overige gevonden publicaties (preklinische zolpidemstudie, casuïstiek en een
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
-| RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
+| RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (niet geregistreerd) | Niet vermeld | Niet vermeld |
+
+<!-- review:begin nl-lic-20261112-midazolam-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 112883 / Midazolam Orpha 15 mg, filmomhulde tabletten (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 112883 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-midazolam-1 -->
 
 ---
 
@@ -137,6 +143,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 112883: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

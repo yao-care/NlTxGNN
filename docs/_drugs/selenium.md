@@ -48,8 +48,8 @@ Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i
 | Voorspelde nieuwe indicatie | Sclerosing cholangitis |
 | TxGNN-voorspellingsscore | 0,9904 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

@@ -50,8 +50,8 @@ Bendamustine is een alkylerend cytostaticum dat oorspronkelijk wordt gebruikt bi
 | Voorspelde nieuwe indicatie | Mantelcellymfoom |
 | TxGNN-voorspellingsscore | 0,9963 |
 | Bewijsniveau | L1 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 6) |
+| Aantal vergunningen | 6 (geldig: 6) |
 | Aanbevolen beslissing | Doorgaan met waarborgen (Proceed with Guardrails) |
 
 ---

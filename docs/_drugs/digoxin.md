@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Digoxine is een hartglycoside dat bij hartritme- en hartfalenklachten wordt gebr
 | Voorspelde nieuwe indicatie | Prinzmetal-angina (Prinzmetal angina) |
 | TxGNN-voorspellingsscore | 0,9981 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen beslissing | Hold (afwachten) |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

@@ -4,6 +4,7 @@
 站上原本用的是第三方鏡像（data.openstate.eu，2026-10-30 已連不上），這裡改用 CBG 官方檔。
 這份檔只列現行登記的產品、沒有狀態欄：在列＝status「active」（與證據包原值相同）；
 新檔查不到的登記號保留原狀態、列在 summary（不推定為撤銷）。
+2026-11-12 起每週排程先跑 scripts/rebuild_licenses_by_ingredient.py（依成分照現行登記補收、不在現行登記的標 Niet geregistreerd），再用本檔更新狀態。
 登記號：SOORT（RVG／EU…）＋ REGISTRATIENUMMER 的「//」前段，例：RVG 126327；證據包 license_id 同格式（thaifda 區塊）。
 """
 import csv
@@ -58,7 +59,10 @@ def record_id(rec):
 
 
 def update(rec, new):
-    if rec.get("status") == new:
+    # 2026-11-12：rebuild_licenses_by_ingredient.py 標成不在現行登記（cbg_not_listed）的登記號回到現行清單時，恢復有效
+    if rec.get("status") == new and not rec.get("cbg_not_listed"):
         return False
     rec["status"] = new
+    if rec.pop("cbg_not_listed", None):
+        rec.pop("license_status", None)
     return True

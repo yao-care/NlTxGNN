@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 description: "Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Alprostadil is een prostaglandine E1-analoog dat vaten verwijdt en bij pasgebore
 | Voorspelde nieuwe indicatie | Aortamisvorming (aortic malformation) |
 | TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
+| Aantal vergunningen | 7 (geldig: 7) |
 | Aanbevolen beslissing | Hold |
 
 ---

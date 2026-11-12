@@ -50,8 +50,8 @@ Mannitol is een osmotisch diureticum dat oorspronkelijk wordt gebruikt bij onder
 | Voorspelde nieuwe indicatie | Nefrogeen syndroom van inadequate antidiurese |
 | TxGNN-voorspellingsscore | 0,9997 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 7) |
+| Aantal vergunningen | 7 (geldig: 6) |
 | Aanbevolen beslissing | Hold |
 
 ---

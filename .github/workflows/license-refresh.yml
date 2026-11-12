@@ -48,6 +48,17 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      # 2026-11-12（用戶決定用 CBG 現行清單重建 Nl 事實層）：每週先依成分照 CBG 現行登記重建證據包的許可證紀錄
+      # （scripts/rebuild_licenses_by_ingredient.py；新登記補收、不在現行登記的標 Niet geregistreerd），再跑 license_refresh
+      - name: Rebuild licenses by ingredient (CBG current register)
+        id: rebuild
+        run: |
+          set -euo pipefail
+          out=$("$GITHUB_WORKSPACE/.venv/bin/python" scripts/rebuild_licenses_by_ingredient.py --download)
+          echo "$out"; echo "$out" >> "$GITHUB_STEP_SUMMARY"
+          n=$(echo "$out" | sed -n 's/.*，改 \([0-9]*\) 個.*/\1/p')
+          echo "changed=${n:-0}" >> "$GITHUB_OUTPUT"
+
       - name: Refresh licenses
         id: refresh
         env:
@@ -79,7 +90,7 @@ jobs:
           gh workflow run pages.yml --ref main
 
       - name: Publish updated data to Release
-        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
+        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && (steps.refresh.outputs.records != '0' || steps.rebuild.outputs.changed != '0') && inputs.dry_run != 'true'
         run: |
           SITE=$(cat tools/txgnn/SITE)
           TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋（pm 2026-10-30 第 3 點）

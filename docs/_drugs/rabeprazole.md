@@ -3,7 +3,7 @@ layout: default
 title: Rabeprazole
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 286
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Rabeprazole: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle ka
 
 | Item | Inhoud |
 |------|------|
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 20 van 21) |
+| Aantal vergunningen | 21 (geldig: 20) |
 | Bekende toepassingen onder de modelkandidaten | 2 |
 | Handelsstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 
@@ -72,7 +72,7 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle ka
 
 | Registratie | Product | Toedieningsvorm | Status |
 |------|------|------|------|
-| RVG 120457//23211 | Pariet 20 mg, maagsapresistente tabletten |  | Geldig |
+| RVG 120457//23211 | Pariet 20 mg, maagsapresistente tabletten |  | Niet geregistreerd |
 
 ## Veiligheidsoverwegingen
 

@@ -50,8 +50,8 @@ Sotalol is een bètablokker met klasse III-antiaritmische werking, oorspronkelij
 | Voorspelde nieuwe indicatie | Sick sinus syndrome 2, autosomal dominant |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L5 (indirect) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 9) |
+| Aantal vergunningen | 9 (geldig: 9) |
 | Aanbevolen beslissing | Hold (onderzoeksvraag; nog niet verder in huidige vorm) |
 
 ---

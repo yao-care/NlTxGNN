@@ -50,8 +50,8 @@ Prednisolon is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij auto-im
 | Voorspelde nieuwe indicatie | Alopecia areata |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 21 van 21) |
+| Aantal vergunningen | 21 (geldig: 21) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -97,7 +97,13 @@ Selectie van de meest relevante publicaties voor alopecia areata (RCT en systema
 |---------|------|------|-----------|
 | RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Het middel wordt op de markt gebracht; 1 van de 1 vergunningen is geldig.
+Het middel wordt op de markt gebracht.
+
+<!-- review:begin nl-lic-20261112-prednisolone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel wordt op de markt gebracht; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 21; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-prednisolone-1 -->
 
 ---
 
@@ -158,6 +164,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

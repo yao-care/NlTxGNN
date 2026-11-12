@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Dienogest: voorspelde nieuwe indicatie amenorroe (amenorrhea) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Dienogest is een selectief progestageen met een sterk effect op het baarmoedersl
 | Voorspelde nieuwe indicatie | amenorroe (amenorrhea) |
 | TxGNN-voorspellingsscore | 0,9971 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 20 van 20) |
+| Aantal vergunningen | 20 (geldig: 20) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling plausibel?

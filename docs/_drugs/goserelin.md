@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 description: "Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Goserelin is een GnRH-agonist die de hypofyse-gonadeas onderdrukt. Het TxGNN-mod
 | Voorspelde nieuwe indicatie | Amenorroe (amenorrhea (disease)) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 22 van 23) |
+| Aantal vergunningen | 23 (geldig: 22) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

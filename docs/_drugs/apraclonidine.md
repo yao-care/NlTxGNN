@@ -3,7 +3,7 @@ layout: default
 title: Apraclonidine
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 40
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Apraclonidine: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Alle kandidaten die het TxGNN-model (score ≥ 0,99) voor Apraclonidine heeft op
 
 | Item | Inhoud |
 |------|------|
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 4) |
+| Aantal vergunningen | 4 (geldig: 4) |
 | Bekende toepassingen onder de modelkandidaten | 0 |
 | Handelsstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
 

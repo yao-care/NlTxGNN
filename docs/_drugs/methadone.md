@@ -48,8 +48,8 @@ Methadon is een synthetische opioïde. Voor dit rapport is geen geregistreerde o
 | Voorspelde nieuwe indicatie | Tourette-syndroom |
 | TxGNN-voorspellingsscore | 0.9976 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 29 van 29) |
+| Aantal vergunningen | 29 (geldig: 29) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

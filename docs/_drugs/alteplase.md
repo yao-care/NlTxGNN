@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Alteplase is een trombolytisch middel dat fibrinestolsels oplost. Het TxGNN-mode
 | Voorspelde nieuwe indicatie | Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) |
 | TxGNN-voorspellingsscore | 0,9972 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen besluit | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling aannemelijk?

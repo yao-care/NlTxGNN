@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Rocuronium: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (rocuronium wordt van…"
 monitor_inn: "rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -50,8 +50,8 @@ Rocuronium is een niet-depolariserend spierverslappend middel dat in de anesthes
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0,9990 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -91,7 +91,13 @@ Voor de verwante voorspelde indicatie *hoofdpijnaandoening* zijn twee publicatie
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (geldig) | Niet vermeld | Niet vermeld |
+| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (niet geregistreerd) | Niet vermeld | Niet vermeld |
+
+<!-- review:begin nl-lic-20261112-rocuronium-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113094 / Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 113094 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-rocuronium-2 -->
 
 ---
 
@@ -113,13 +119,33 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het TxGNN-model (deep learning; bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).
+- De voorspelling berust uitsluitend op het TxGNN-model (deep learning; bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig.
+
+<!-- review:begin nl-lic-20261112-rocuronium-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-rocuronium-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Aanvullende gegevens over het werkingsmechanisme en een aantoonbare farmacologische link met migrainepathofysiologie
 - De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB (nu ontbrekend, blokkerend voor veiligheidsscreening)
 - Preklinisch of klinisch onderzoek dat specifiek werkzaamheid bij migraine onderzoekt
 - Beoordeling van toedieningsroute en praktische haalbaarheid voor een chronische indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “(1 geldige registratie van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113094: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

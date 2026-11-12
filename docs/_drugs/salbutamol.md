@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Salbutamol is een kortwerkende β2-adrenerge agonist die als bronchusverwijder w
 | Voorspelde nieuwe indicatie | Papillaire conjunctivitis (papillary conjunctivitis) |
 | TxGNN-voorspellingsscore | 1.0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
-| Aantal vergunningen | 3 (geldig: 3) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 33 van 34) |
+| Aantal vergunningen | 34 (geldig: 33) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -66,15 +66,19 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 Momenteel is er geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-salbutamol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle drie de vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 34, waarvan geldig: 33; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-salbutamol-1 -->
+
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Status |
 |---------|------|------|
-| RVG 112038//21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | Geldig |
+| RVG 112038//21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | Niet geregistreerd |
 | RVG 114132 | Ipratropiumbromide/Salbutamol Cipla 0,5/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
 | RVG 118115 | Zerseos 0,5 mg/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
-
-Alle drie de vergunningen zijn geldig.
 
 ## Veiligheidsoverwegingen
 
@@ -94,6 +98,18 @@ Voor waarschuwingen en contra-indicaties geldt: raadpleeg de SmPC (Samenvatting 
 - Een literatuuronderzoek en preklinisch onderzoek naar β2-agonisten bij papillaire conjunctivitis.
 - Beoordeling van de toedieningsroute (oculair versus inhalatie), aangezien de beschikbare Nederlandse producten inhalatie- of vernevelpreparaten zijn.
 - Gegevens uit de SmPC over waarschuwingen en contra-indicaties voor de veiligheidsbeoordeling.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

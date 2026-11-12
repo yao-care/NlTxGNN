@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Diclofenac: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Diclofenac is een niet-selectieve cyclo-oxygenaseremmer (NSAID) die in Nederland
 | Voorspelde nieuwe indicatie | Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) |
 | TxGNN-voorspellingsscore | 0,9969 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
-| Aantal vergunningen | 5 (geldig: 5) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 66 van 69) |
+| Aantal vergunningen | 69 (geldig: 66) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?

@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tizanidine is een centraal werkende alfa-2-adrenerge agonist die de spiertonus v
 | Voorspelde nieuwe indicatie | Migraine (migraine disorder) |
 | TxGNN-voorspellingsscore | 0.9979 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 16 van 17) |
+| Aantal vergunningen | 17 (geldig: 16) |
 | Aanbevolen beslissing | Doorgaan met randvoorwaarden |
 
 ---
@@ -95,7 +95,13 @@ Daarnaast is de PACE-studie (NCT02403687) gevonden, maar die richt zich op topic
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | Niet vermeld | Niet vermeld (niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-tizanidine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117382//12983 / Sirdalud MR 6 mg, capsules met gereguleerde afgifte / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 117382//12983 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tizanidine-1 -->
 
 ---
 
@@ -120,6 +126,18 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatti
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties
 - Plan voor veiligheidsmonitoring (sedatie, hypotensie, leverfunctie) en beheer van interacties, met name CYP1A2-remmers
 - Gegevens over het werkingsmechanisme uit aanvullende bronnen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 117382//12983: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

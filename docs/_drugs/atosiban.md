@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Atosiban is een peptide dat bindt aan de oxytocine- en vasopressinereceptoren (V
 | Voorspelde nieuwe indicatie | Primair erfelijk glaucoom (primary hereditary glaucoma) |
 | TxGNN-voorspellingsscore | 0,9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen besluit | Hold |
 
 ---

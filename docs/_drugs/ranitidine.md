@@ -48,8 +48,8 @@ Ranitidine is een H2-receptorantagonist (zuurremmer) die oorspronkelijk wordt ge
 | Voorspelde nieuwe indicatie | Peptic ulcer perforation |
 | TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -91,7 +91,13 @@ Veel van onderstaande publicaties gaan over andere middelen dan ranitidine (bijv
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113857//13064 | Zantac 150 mg/10 ml, drank | Drank (volgens productnaam) | Niet vermeld in de beschikbare gegevens; vergunning geldig |
+| RVG 113857//13064 | Zantac 150 mg/10 ml, drank | Drank (volgens productnaam) | Niet vermeld in de beschikbare gegevens; niet geregistreerd |
+
+<!-- review:begin nl-lic-20261112-ranitidine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113857//13064 / Zantac 150 mg/10 ml, drank / Drank (volgens productnaam) / Niet vermeld in de beschikbare gegevens; vergunning geldig” Gecorrigeerd: registratienummer RVG 113857//13064 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ranitidine-1 -->
 
 Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.
 
@@ -128,6 +134,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113857//13064: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

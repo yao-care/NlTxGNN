@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ezetimibe: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokal…"
 ---
 
@@ -48,8 +48,8 @@ Ezetimibe is een cholesterolverlagend middel dat de opname van cholesterol in de
 | Voorspelde nieuwe indicatie | Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) |
 | TxGNN-voorspellingsscore | 0,9909 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
-| Aantal vergunningen | 7 (geldig: 7) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 232 van 237) |
+| Aantal vergunningen | 237 (geldig: 232) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

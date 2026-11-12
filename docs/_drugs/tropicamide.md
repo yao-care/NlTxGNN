@@ -52,8 +52,8 @@ maar er zijn **0 klinische studies** en **0 publicaties** die deze richting onde
 | Voorspelde nieuwe indicatie | Caudaequinasyndroom |
 | TxGNN-voorspellingsscore | 0,9953 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen beslissing | Hold |
 
 ---

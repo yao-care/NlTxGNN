@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Cetirizine is een antihistaminicum (H1-receptorantagonist) dat al wordt gebruikt
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0,9977 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 26 van 26) |
+| Aantal vergunningen | 26 (geldig: 26) |
 | Aanbevolen beslissing | Hold |
 
 ---

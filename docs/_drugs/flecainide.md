@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Flecainide: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Flecainide is een klasse IC-antiaritmicum dat wordt gebruikt voor ritmecontrole 
 | Voorspelde nieuwe indicatie | Beroerte (stroke disorder) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 32 van 33) |
+| Aantal vergunningen | 33 (geldig: 32) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

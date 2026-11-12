@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Epinephrine: voorspelde nieuwe indicatie Obstructieve longziekte (obstructive lung disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Epinefrine is een niet-selectieve adrenerge agonist die bronchodilatatie en vaso
 | Voorspelde nieuwe indicatie | Obstructieve longziekte (obstructive lung disease) |
 | TxGNN-voorspellingsscore | 0,9971 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 51 van 52) |
+| Aantal vergunningen | 52 (geldig: 51) |
 | Aanbevolen beslissing | Doorgaan met randvoorwaarden |
 
 ---

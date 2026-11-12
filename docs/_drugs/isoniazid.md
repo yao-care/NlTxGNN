@@ -50,8 +50,8 @@ Isoniazide is een antibioticum dat oorspronkelijk wordt gebruikt voor de behande
 | Voorspelde nieuwe indicatie | Conjunctivitis |
 | TxGNN-voorspellingsscore | 0,9936 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---

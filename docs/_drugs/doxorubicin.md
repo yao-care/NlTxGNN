@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (Ewing sarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Doxorubicine is een antracycline-cytostaticum dat de werking van topoisomerase I
 | Voorspelde nieuwe indicatie | Ewing-sarcoom (Ewing sarcoma) |
 | TxGNN-voorspellingsscore | 0,9990 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 7) |
+| Aantal vergunningen | 7 (geldig: 7) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden |
 
 ## Waarom is deze voorspelling redelijk?

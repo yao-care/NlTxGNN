@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: voorspelde nieuwe indicatie Distale myopathie, type Tateyama (distal myopathy, Tateyama type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Propranolol is een niet-selectieve bètablokker, oorspronkelijk gebruikt voor on
 | Voorspelde nieuwe indicatie | Distale myopathie, type Tateyama (distal myopathy, Tateyama type) |
 | TxGNN-voorspellingsscore | 0.9940 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 14 van 15) |
+| Aantal vergunningen | 15 (geldig: 14) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -104,7 +104,13 @@ Voor de volledigheid: bij de voorspelde indicatie met de hoogste literatuuronder
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 57202 | Propranolol HCl ratiopharm 160 mg, capsules met gereguleerde afgifte | Niet gespecificeerd | Niet beschikbaar (status: geldig) |
+| RVG 57202 | Propranolol HCl ratiopharm 160 mg, capsules met gereguleerde afgifte | Niet gespecificeerd | Niet beschikbaar (status: niet geregistreerd) |
+
+<!-- review:begin nl-lic-20261112-propranolol-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 57202 / Propranolol HCl ratiopharm 160 mg, capsules met gereguleerde afgifte / Niet gespecificeerd / Niet beschikbaar (status: geldig)” Gecorrigeerd: registratienummer RVG 57202 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propranolol-3 -->
 
 ---
 
@@ -126,14 +132,40 @@ Voor de volledigheid: bij de voorspelde indicatie met de hoogste literatuuronder
 
 **Onderbouwing:**
 - De voorspelling voor distale myopathie (type Tateyama) berust uitsluitend op een modelscore van het TxGNN-model (deep learning) (L5), zonder klinische studies of literatuur en zonder aannemelijk mechanisme. De score kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, maar is geen biologisch bewijs.
-- Binnen de lijst met voorspellingen zijn cirrotische cardiomyopathie en cardiomyopathie (L4) de meest onderbouwde onderzoeksvragen, maar bij cirrose zijn er veiligheidszorgen en bij cardiomyopathie betreft het grotendeels bevestiging van bestaand gebruik. Ook de Nederlandse vergunning is doorgehaald.
+- Binnen de lijst met voorspellingen zijn cirrotische cardiomyopathie en cardiomyopathie (L4) de meest onderbouwde onderzoeksvragen, maar bij cirrose zijn er veiligheidszorgen en bij cardiomyopathie betreft het grotendeels bevestiging van bestaand gebruik.
+
+<!-- review:begin nl-lic-20261112-propranolol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Binnen de lijst met voorspellingen zijn cirrotische cardiomyopathie en cardiomyopathie (L4) de meest onderbouwde onderzoeksvragen, maar bij cirrose zijn er veiligheidszorgen en bij cardiomyopathie betreft het grotendeels bevestiging van bestaand gebruik. Ook de Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propranolol-1 -->
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme van propranolol (nu ontbrekend) en een onderbouwd mechanistisch verband met de spierziekte.
 - Bijsluitertekst/SmPC van het CBG-MEB met waarschuwingen en contra-indicaties (ontbrekend; blokkerend voor veiligheidsscreening).
 - Beoordeling van de gesignaleerde contra-indicatie bij myopathie.
 - Preklinisch of klinisch onderzoek bij de voorspelde indicatie; voor cirrotische cardiomyopathie verificatie van studieontwerpen en effectgroottes van de gevonden publicaties.
-- Bevestiging van de marktstatus in Nederland: het middel is in de handel, met 1 geldige vergunning van 1.
+
+<!-- review:begin nl-lic-20261112-propranolol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Preklinisch of klinisch onderzoek bij de voorspelde indicatie; voor cirrotische cardiomyopathie verificatie van studieontwerpen en effectgroottes van de gevonden publicaties. / Bevestiging van de marktstatus in Nederland: het middel is in de handel, met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-propranolol-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Ook de Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus in Nederland: het middel is in de handel, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 57202: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

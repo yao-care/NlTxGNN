@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 264
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Palonosetron: voorspelde nieuwe indicatie Migraineaandoening (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
 monitor_inn: "palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
@@ -50,8 +50,8 @@ Palonosetron is een tweede-generatie 5-HT3-receptorantagonist, gebruikt als midd
 | Voorspelde nieuwe indicatie | Migraineaandoening (migraine disorder) |
 | TxGNN-voorspellingsscore | 0,9974 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 5 van 5) |
+| Aantal vergunningen | 5 (geldig: 5) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,6 +82,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" is daarnaast een review uit 2026 gekoppeld ([PMID 42748473](https://pubmed.ncbi.nlm.nih.gov/42748473/), European Heart Journal – Cardiovascular Pharmacotherapy) over QT-verlenging door anti-emetica. Die gaat over cardiale veiligheid en niet over werkzaamheid bij migraine; hij is alleen relevant als veiligheidsoverweging.
 
+<!-- review:begin nl-lic-20261112-palonosetron-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-palonosetron-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -89,8 +95,6 @@ Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" i
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorgevulde spuit | Niet vermeld | Niet vermeld |
-
-Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens.
 
 ---
 
@@ -116,7 +120,26 @@ Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats v
 - De SmPC/bijsluiter van het CBG-MEB voor waarschuwingen, contra-indicaties en de oorspronkelijke indicatie
 - Klinisch of preklinisch bewijs dat 5-HT3-antagonisme migraine daadwerkelijk vermindert, en een verklaring voor het tegengestelde bijwerkingssignaal
 - Een beoordeling van het QT-risico en van de interacties met majeure comedicatie
-- Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1
+
+<!-- review:begin nl-lic-20261112-palonosetron-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van het QT-risico en van de interacties met majeure comedicatie / Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-palonosetron-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

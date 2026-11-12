@@ -50,8 +50,8 @@ Levobupivacaïne is een langwerkend lokaal anestheticum van het amide-type, dat 
 | Voorspelde nieuwe indicatie | Gastroduodenitis |
 | TxGNN-voorspellingsscore | 0.9909 |
 | Bewijsniveau | L5 (alleen modelvoorspelling) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 8) |
+| Aantal vergunningen | 8 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ---

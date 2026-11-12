@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Efavirenz"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Efavirenz: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeven"
 ---
 
@@ -50,8 +50,8 @@ Hiervoor zijn **geen klinische studies** en **14 publicaties** beschikbaar, vrij
 | Voorspelde nieuwe indicatie | Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) |
 | TxGNN-voorspellingsscore | 0,9980 |
 | Evidentieniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen beslissing | Hold (aanhouden) |
 
 ## Waarom is deze voorspelling redelijk?

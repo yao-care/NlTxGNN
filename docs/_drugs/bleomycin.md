@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Bleomycine is een cytotoxisch glycopeptide dat DNA-strengbreuken veroorzaakt en 
 | Voorspelde nieuwe indicatie | Caudaequinaneoplasma (cauda equina neoplasm) |
 | TxGNN-voorspellingsscore | 0.9930 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling redelijk?

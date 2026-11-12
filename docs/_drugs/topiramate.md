@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Topiramate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (bewijsniveau L5). Oorspronkelijke indicatie: Epilepsie met gegeneraliseerde tonisch-clonische aanvallen…"
 monitor_inn: "topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -50,8 +50,8 @@ Topiramaat is een antiepilepticum dat oorspronkelijk wordt gebruikt bij gegenera
 | Voorspelde nieuwe indicatie | Trigeminuszenuwneoplasma |
 | TxGNN-voorspellingsscore | 0.9970 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 39 van 40) |
+| Aantal vergunningen | 40 (geldig: 39) |
 | Aanbevolen beslissing | Hold |
 
 Bij de overige voorspellingen in de top 9 is de bewijslast per indicatie verschillend (zie "Overige voorspelde indicaties").
@@ -93,7 +93,13 @@ Voor trigeminuszenuwneoplasma is momenteel geen gerelateerde literatuur beschikb
 |---------|------|------|-----------|
 | RVG 119971//24167 | Topamax 100 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (status: geannuleerd) |
 
-Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB). Het middel wordt in Nederland op de markt gebracht.
+Het middel wordt in Nederland op de markt gebracht.
+
+<!-- review:begin nl-lic-20261112-topiramate-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB). Het middel wordt in Nederland op de markt gebracht.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 40, waarvan geldig: 39; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-topiramate-1 -->
 
 ---
 
@@ -111,13 +117,33 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 **Beslissing: Hold** (voor de hoofdvoorspelling trigeminuszenuwneoplasma)
 
 **Onderbouwing:**
-- De score komt van het TxGNN-model (deep learning) en kan door het model geleerde overeenkomsten tussen verwante ziekten weerspiegelen, niet biologisch bewijs. Er is geen klinisch of literatuurbewijs en geen aannemelijke mechanistische link. Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1.
+- De score komt van het TxGNN-model (deep learning) en kan door het model geleerde overeenkomsten tussen verwante ziekten weerspiegelen, niet biologisch bewijs. Er is geen klinisch of literatuurbewijs en geen aannemelijke mechanistische link.
+
+<!-- review:begin nl-lic-20261112-topiramate-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen klinisch of literatuurbewijs en geen aannemelijke mechanistische link. Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 40, waarvan geldig: 39; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-topiramate-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Gegevens over het werkingsmechanisme (nu niet beschikbaar) en onderzoek naar een eventuele relatie met tumorbiologie
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter (CBG-MEB), nodig voor de veiligheidsscreening
 - Gerichte literatuursearch naar topiramaat bij trigeminusgerelateerde aandoeningen (zoals trigeminusneuralgie) en bij reflexepilepsieën
 - Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannuleerd) en de beschikbare toedieningsvormen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

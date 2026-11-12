@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Hiervoor zijn **1 klinische studie** (een fase 4-studie met linezolid, niet spec
 | Voorspelde nieuwe indicatie | Staphylococcus aureus-infectie (staphylococcus aureus infection) |
 | TxGNN-voorspellingsscore | 0.9994 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 8) |
+| Aantal vergunningen | 8 (geldig: 6) |
 | Aanbevolen beslissing | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ## Waarom is deze voorspelling aannemelijk?

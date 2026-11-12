@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -47,12 +47,12 @@ De ondersteuning bestaat uit **0 geregistreerde klinische studies** en **13 publ
 | Item | Inhoud |
 |------|------|
 | Oorspronkelijke indicatie | Niet vermeld in de lokale gegevens |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 10) |
 | Voorspelde nieuwe indicatie | Hiv-infectie (HIV infectious disease) |
 | TxGNN-voorspellingsscore | 0.9988 |
 | Bewijsniveau | L5 |
 | Status in Nederland | In de handel |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Aantal vergunningen | 10 (geldig: 9) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?

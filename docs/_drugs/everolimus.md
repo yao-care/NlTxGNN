@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Everolimus is een mTOR-remmer (remt het eiwitcomplex mTORC1, dat celgroei en cel
 | Voorspelde nieuwe indicatie | Liposarcoom (liposarcoma) |
 | TxGNN-voorspellingsscore | 0,9988 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 59 van 60) |
+| Aantal vergunningen | 60 (geldig: 59) |
 | Aanbevolen besluit | Proceed with Guardrails (doorgaan met waarborgen) |
 
 ---
@@ -61,6 +61,12 @@ Everolimus is een mTOR-remmer (remt het eiwitcomplex mTORC1, dat celgroei en cel
 Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens. Uit algemene farmacologische kennis is bekend dat everolimus mTORC1 remt, dat stroomafwaarts van de PI3K/AKT-signaalroute werkt en betrokken is bij celgroei en overleving van tumorcellen.
 
 Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MDM2. Het combineren van everolimus met de CDK4/6-remmer ribociclib richt zich op twee complementaire routes: de celcyclus en de mTOR-gestuurde groei. Dit is biologisch plausibel, maar het gaat om een combinatiebehandeling en niet om een monotherapie-indicatie voor everolimus.
+
+<!-- review:begin nl-lic-20261112-everolimus-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 60, waarvan geldig: 59; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-everolimus-1 -->
 
 ---
 
@@ -88,8 +94,6 @@ Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MD
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 109317//30043 | Certican 0,75 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
-
-Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof.
 
 ---
 
@@ -127,6 +131,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - Gegevens over het werkingsmechanisme en over de bijdrage van everolimus afzonderlijk
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties in de Nederlandse context
 - Een plan voor interactie- en veiligheidsmonitoring, met name bij gelijktijdig gebruik van sterke CYP3A4-remmers
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

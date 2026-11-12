@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "Sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
 description: "Sorbitol: voorspelde nieuwe indicatie Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
@@ -50,8 +50,8 @@ Sorbitol is een suikeralcohol die als osmotisch middel wordt gebruikt. Voor dit 
 | Voorspelde nieuwe indicatie | Inspanningsgebonden maligne hyperthermie (exercise-induced malignant hyperthermia) |
 | TxGNN-voorspellingsscore | 0.9940 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 4) |
+| Aantal vergunningen | 4 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -74,15 +74,25 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-sorbitol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-sorbitol-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 107703//05069 | Microlax, klysma | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 107703//05069 | Microlax, klysma | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
-Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald.
+<!-- review:begin nl-lic-20261112-sorbitol-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 107703//05069 / Microlax, klysma / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 107703//05069 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-sorbitol-3 -->
 
 ---
 
@@ -105,13 +115,34 @@ Voor overige veiligheidsinformatie, waaronder waarschuwingen en contra-indicatie
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5). Er zijn geen klinische studies of publicaties, het mechanisme is onbekend en een biologisch verband met maligne hyperthermie is niet aannemelijk. Bovendien is de enige Nederlandse registratie doorgehaald.
+- De voorspelling berust uitsluitend op een modelscore (bewijsniveau L5). Er zijn geen klinische studies of publicaties, het mechanisme is onbekend en een biologisch verband met maligne hyperthermie is niet aannemelijk.
+
+<!-- review:begin nl-lic-20261112-sorbitol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen klinische studies of publicaties, het mechanisme is onbekend en een biologisch verband met maligne hyperthermie is niet aannemelijk. Bovendien is de enige Nederlandse registratie doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-sorbitol-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Het ophalen en analyseren van de bijsluitertekst en SmPC via het CBG-MEB (waarschuwingen en contra-indicaties); dit blokkeert nu de veiligheidsscreening.
 - Gegevens over het werkingsmechanisme uit DrugBank.
 - Een literatuur- en trialonderzoek naar een mogelijke rol van sorbitol bij maligne hyperthermie of inspanningsgebonden hitteziekte.
 - Duidelijkheid over de oorspronkelijke indicatie en over beschikbare toedieningsroutes en toedieningsvormen, inclusief de vraag of die passen bij de voorspelde indicatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het CBG-MEB-register bevat voor sorbitol één registratie, en deze is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse registratie doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 107703//05069: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

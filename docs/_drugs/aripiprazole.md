@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Aripiprazole: voorspelde nieuwe indicatie Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) (bewijsniveau L5)."
 ---
 
@@ -50,8 +50,8 @@ Aripiprazol is een atypisch antipsychoticum met een partieel agonistische werkin
 | Voorspelde nieuwe indicatie | Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN-voorspellingsscore | 0.9960 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 68 van 69) |
+| Aantal vergunningen | 69 (geldig: 68) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -78,7 +78,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-De marktstatus is **In de handel**. Er is één geldige vergunning (CBG-MEB).
+De marktstatus is **In de handel**.
+
+<!-- review:begin nl-lic-20261112-aripiprazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De marktstatus is **In de handel**. Er is één geldige vergunning (CBG-MEB).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-aripiprazole-1 -->
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
@@ -118,6 +124,18 @@ Een volledige beoordeling van interacties vereist raadpleging van de SmPC en een
 - Een systematische literatuurstudie naar de pathofysiologie en eventuele eerdere behandelervaringen.
 - Een veiligheidsbeoordeling op basis van de SmPC, in het bijzonder voor een zeldzame, vaak pediatrische populatie.
 - Overleg met het CBG-MEB over de regelgevende route, mocht er later bewijs ontstaan.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Er is één geldige vergunning (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

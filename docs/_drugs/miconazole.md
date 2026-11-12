@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 232
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Miconazol is een imidazool-antimycoticum dat lokaal wordt gebruikt bij schimmel-
 | Voorspelde nieuwe indicatie | acne (acne (disease)) |
 | TxGNN-voorspellingsscore | 0.9954 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 19 van 20) |
+| Aantal vergunningen | 20 (geldig: 19) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -91,7 +91,13 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | Nagellak | Status: geldig (geen geldige registratie) |
+| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | Nagellak | Status: niet geregistreerd |
+
+<!-- review:begin nl-lic-20261112-miconazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 109548//07461 / Daktarin nagellak 20 mg/ml, nagellak / Nagellak / Status: geldig (geen geldige registratie)” Gecorrigeerd: registratienummer RVG 109548//07461 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-miconazole-1 -->
 
 Er is 1 vergunning geregistreerd, en deze is geldig. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de exacte productinformatie.
 
@@ -129,6 +135,18 @@ Interacties van niveau "gering" zijn onder meer dolutegravir, loratadine en amfo
 - Gegevens over het werkingsmechanisme
 - Veiligheidsinformatie uit de SmPC voor de relevante toedieningsvorm en indicatie
 - Beoordeling van de geschiktheid van de beschikbare toedieningsroutes voor acne
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 109548//07461: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

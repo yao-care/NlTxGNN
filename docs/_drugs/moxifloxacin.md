@@ -52,8 +52,8 @@ Voor deze voorspelling zijn **0 klinische studies** en **0 publicaties** gevonde
 | Voorspelde nieuwe indicatie | Polyclonal hyperviscosity syndrome |
 | TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 10) |
+| Aantal vergunningen | 10 (geldig: 10) |
 | Aanbevolen besluit | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 334
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Tryptofaan is een essentieel aminozuur en voorloper van serotonine en melatonine
 | Voorspelde nieuwe indicatie | Rustelozebenensyndroom (restless legs syndrome) |
 | TxGNN-voorspellingsscore | 0.9972 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 57 van 58) |
+| Aantal vergunningen | 58 (geldig: 57) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -89,10 +89,22 @@ Currently no related clinical trials registered.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 105073 | NuTRIflex Omega special, emulsie voor infusie | Niet vermeld | Niet vermeld (registratie geldig) |
+| RVG 105073 | NuTRIflex Omega special, emulsie voor infusie | Niet vermeld | Niet vermeld (niet geregistreerd) |
 | RVG 113263 | Kidiamix G15%, oplossing voor infusie | Niet vermeld | Niet vermeld (registratie geldig) |
 
-Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); het middel wordt momenteel op de markt gebracht.
+<!-- review:begin nl-lic-20261112-tryptophan-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 105073 / NuTRIflex Omega special, emulsie voor infusie / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 105073 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tryptophan-2 -->
+
+Het middel wordt momenteel op de markt gebracht.
+
+<!-- review:begin nl-lic-20261112-tryptophan-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); het middel wordt momenteel op de markt gebracht.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 57; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-tryptophan-1 -->
 
 ---
 
@@ -131,6 +143,20 @@ Raadpleeg voor waarschuwingen en contra-indicaties uit de officiële productinfo
 - Een systematische beoordeling van de oude studies en, indien haalbaar, een moderne gerandomiseerde gecontroleerde studie bij rustelozebenensyndroom
 - Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het ontbreken van een geldige registratie
 - Een plan voor veiligheidsmonitoring, met name voor serotonerge interacties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 105073: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

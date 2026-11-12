@@ -51,8 +51,8 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **focal stiff limb sy
 | Voorspelde nieuwe indicatie | Focal stiff limb syndrome |
 | TxGNN-voorspellingsscore | 0,9975 |
 | Evidenceniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 26 van 26) |
+| Aantal vergunningen | 26 (geldig: 26) |
 | Aanbevolen beslissing | Hold |
 
 ---

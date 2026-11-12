@@ -56,8 +56,8 @@ Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport ver
 | Voorspelde nieuwe indicatie | Gastroparese |
 | TxGNN-voorspellingsscore | 0,9942 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 53 van 54) |
+| Aantal vergunningen | 54 (geldig: 53) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -100,8 +100,14 @@ Opmerking: geen van deze publicaties is een gerandomiseerde studie bij mensen, e
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 113026 | Aminoplasmal B. Braun 10% E, oplossing voor infusie (geldig) | Niet beschikbaar | Niet beschikbaar |
+| RVG 113026 | Aminoplasmal B. Braun 10% E, oplossing voor infusie (niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
 | RVG 115554 | Nutriflex Lipid peri, 32 g/l + 64 g/l, emulsie voor infusie (geldig) | Niet beschikbaar | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261112-arginine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113026 / Aminoplasmal B. Braun 10% E, oplossing voor infusie (geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 113026 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-arginine-1 -->
 
 Van de 2 registraties bij het CBG-MEB zijn er 2 geldig; het middel is momenteel op de markt.
 
@@ -151,6 +157,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113026: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

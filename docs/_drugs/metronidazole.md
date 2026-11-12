@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Metronidazol is een antibioticum en antiprotozoair middel dat oorspronkelijk wor
 | Voorspelde nieuwe indicatie | Pneumocystose (pneumocystosis) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 16 van 17) |
+| Aantal vergunningen | 17 (geldig: 16) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -95,7 +95,13 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 |---------|------|------|-----------|
 | RVG 119834//14416 (doorgehaald) | Metronidazol Fisher 7,5 mg/g, gel | Gel | Niet beschikbaar in de gegevens |
 
-Het middel is op de markt: 1 van de 1 vergunningen is geldig. Raadpleeg voor actuele informatie het CBG-MEB.
+Raadpleeg voor actuele informatie het CBG-MEB.
+
+<!-- review:begin nl-lic-20261112-metronidazole-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is op de markt: 1 van de 1 vergunningen is geldig. Raadpleeg voor actuele informatie het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-metronidazole-1 -->
 
 ---
 
@@ -131,6 +137,19 @@ Voor de volledige veiligheidsinformatie, waarschuwingen en contra-indicaties, ra
 - Veiligheidsinformatie uit de CBG-MEB-productinformatie (momenteel een blokkerende datalacune)
 
 **Opmerking over andere voorspellingen:** Binnen dezelfde voorspellingslijst is het bewijs voor *cap polyposis* (casusbeschrijvingen, mogelijk antiinflammatoir effect) en *ulceratie van de vulva* (vulvaire ziekte van Crohn of amoebiasis; kleine klinische studie en systematische review) relatief het sterkst. Beide blijven L4 en vragen om gecontroleerde studies voordat ze als herpositioneringskandidaat kunnen worden overwogen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

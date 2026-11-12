@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Atazanavir is een hiv-proteaseremmer. Het TxGNN-model voorspelt dat het mogelijk
 | Voorspelde nieuwe indicatie | Feline acquired immunodeficiency syndrome (feline acquired immunodeficiency syndrome) |
 | TxGNN-voorspellingsscore | 0,9998 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 19 van 19) |
+| Aantal vergunningen | 19 (geldig: 19) |
 | Aanbevolen besluit | Hold |
 
 ---

@@ -52,8 +52,8 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **5 publicaties** bes
 | Voorspelde nieuwe indicatie | Aandoening van de neusholte (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0.9997 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 15) |
+| Aantal vergunningen | 15 (geldig: 15) |
 | Aanbevolen beslissing | Hold |
 
 ---

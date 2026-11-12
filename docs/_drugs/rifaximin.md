@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 description: "Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Rifaximine is een slecht opgenomen, in de darm werkzaam antibioticum, oorspronke
 | Voorspelde nieuwe indicatie | Oral candidiasis |
 | TxGNN-voorspellingsscore | 0.9975 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 4 van 5) |
+| Aantal vergunningen | 5 (geldig: 4) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,8 +84,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 117454//110659 | XIFAXAN 550 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+| RVG 117454//110659 | XIFAXAN 550 mg filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-rifaximin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117454//110659 / XIFAXAN 550 mg filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 117454//110659 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-rifaximin-1 -->
 
 ---
 
@@ -115,6 +120,19 @@ Raadpleeg voor volledige waarschuwingen de SmPC (Samenvatting van de Productkenm
 ---
 
 *Opmerking: de overige voorspelde indicaties (commissurale lipfistel, osteoradionecrose van de onderkaak, orale leukoedeem, brandend mondsyndroom en candidiasis) hebben eveneens een hoge modelscore maar geen of ongunstig klinisch bewijs (niveau L4–L5) en krijgen allemaal de beslissing Hold.*
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 117454//110659: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

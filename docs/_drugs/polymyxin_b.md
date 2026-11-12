@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 274
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -38,9 +38,15 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **2**
 
 ## Samenvatting in één zin
 
-Polymyxine B is een bactericide antibioticum tegen gramnegatieve bacteriën. In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd.
+Polymyxine B is een bactericide antibioticum tegen gramnegatieve bacteriën.
 Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **bronchitis**, maar er zijn **0 geregistreerde klinische studies** en **12 publicaties** (vooral kleine, oude of dierstudies, met veiligheidssignalen bij inhalatie).
 Het bewijs voor deze voorspelling is daarmee zwak.
+
+<!-- review:begin nl-lic-20261112-polymyxin_b-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd. / Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **bronchitis**, maar er zijn **0 geregistreerde klinische studies** en **12 publicaties** (vooral kleine, oude of dierstudies, met veiligheidssignalen bij inhalatie).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-polymyxin_b-1 -->
 
 ---
 
@@ -52,8 +58,8 @@ Het bewijs voor deze voorspelling is daarmee zwak.
 | Voorspelde nieuwe indicatie | Bronchitis |
 | TxGNN-voorspellingsscore | 0.9987 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 2 van 2) |
-| Aantal vergunningen | 2 (geldig: 2) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 6 van 8) |
+| Aantal vergunningen | 8 (geldig: 6) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -63,7 +69,6 @@ Het bewijs voor deze voorspelling is daarmee zwak.
 Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is polymyxine B een kationisch polypeptide-antibioticum dat de buitenmembraan van gramnegatieve bacteriën verstoort, waaronder multiresistente *Pseudomonas aeruginosa* en *Acinetobacter baumannii*. Dat geeft een antibacteriële rationale voor gramnegatieve tracheobronchitis.
 
 Er zijn echter duidelijke tegenargumenten. Geïnhaleerd of endobronchiaal polymyxine B kan bronchoconstrictie uitlokken en werd zelfs gebruikt als niet-specifiek provocatiemiddel bij astma en chronische bronchitis. In diermodellen veroorzaakt het ophoping van eosinofielen in de luchtwegen. De hoge TxGNN-score is een computationele voorspelling en wordt niet ondersteund door een geregistreerde klinische studie.
-
 
 ---
 
@@ -96,9 +101,20 @@ Het meeste bewijs betreft dus dierstudies of het gebruik van polymyxine B als pr
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Niet vermeld | Niet vermeld (geldig) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Niet vermeld | Niet vermeld (geldig) |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Niet vermeld | Niet vermeld (niet geregistreerd) |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Niet vermeld | Niet vermeld (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-polymyxin_b-3 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118022//03542 / Terra-Cortril met polymyxine-B, oordruppels / Niet vermeld / Niet vermeld (geldig)” Gecorrigeerd: registratienummer RVG 118022//03542 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-polymyxin_b-3 -->
+
+<!-- review:begin nl-lic-20261112-polymyxin_b-4 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113295//03543 / Terra-Cortril met polymyxine-B, oogzalf / Niet vermeld / Niet vermeld (geldig)” Gecorrigeerd: registratienummer RVG 113295//03543 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-polymyxin_b-4 -->
 
 ---
 
@@ -133,9 +149,30 @@ Raadpleeg voor verdere veiligheidsinformatie de SmPC (Samenvatting van de Produc
 **Om verder te gaan is het volgende nodig:**
 - Waarschuwingen en contra-indicaties uit de CBG-MEB-bijsluiter/SmPC (momenteel ontbrekend; blokkerend voor de veiligheidsscreening)
 - Gegevens over het werkingsmechanisme uit DrugBank
-- Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen
 - Voor bronchitis: aanvullende gegevens over veiligheid en toedieningsroute (geïnhaleerde vs. systemische toepassing)
 - Voor conjunctivitis: beoordeling of een herintroductie van een oogpreparaat met polymyxine B/trimethoprim in Nederland relevant is
+
+<!-- review:begin nl-lic-20261112-polymyxin_b-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen / Voor bronchitis: aanvullende gegevens over veiligheid en toedieningsroute (geïnhaleerde vs. systemische toepassing)” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-polymyxin_b-2 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

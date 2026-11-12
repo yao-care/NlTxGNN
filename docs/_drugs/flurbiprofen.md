@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (bewijsniveau L5)."
@@ -50,8 +50,8 @@ Flurbiprofen is een niet-steroïde ontstekingsremmer (NSAID) die wordt gebruikt 
 | Voorspelde nieuwe indicatie | Acromesomele dysplasie, type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN-voorspellingsscore | 0.9999 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
+| Aantal vergunningen | 11 (geldig: 10) |
 | Aanbevolen besluit | Hold |
 
 ---
@@ -74,6 +74,12 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
+<!-- review:begin nl-lic-20261112-flurbiprofen-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert voor dit middel één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 11, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-flurbiprofen-1 -->
+
 ---
 
 ## Informatie over de Nederlandse markt
@@ -81,8 +87,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | Zuigtablet (afgeleid uit de productnaam) | Niet beschikbaar |
-
-Het CBG-MEB registreert voor dit middel één geldige vergunning.
 
 ---
 
@@ -110,6 +114,18 @@ Daarnaast zijn in de beschikbare gegevens aandoeningen vermeld waarbij NSAID's a
 - Preklinisch of klinisch bewijs dat flurbiprofen direct bij deze aandoening onderzoekt
 - Beoordeling van de veiligheid aan de hand van de SmPC, inclusief de relevantie voor deze zeldzame patiëntengroep
 - Controle van de toedieningsroute: het in Nederland beschikbare product is een zuigtablet, waarvan de geschiktheid voor deze aandoening niet is vastgesteld
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor dit middel één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

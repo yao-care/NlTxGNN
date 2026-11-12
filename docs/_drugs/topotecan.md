@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Topotecan is een celdodend middel (cytostaticum) dat oorspronkelijk wordt gebrui
 | Voorspelde nieuwe indicatie | Mammacarcinoom (female breast carcinoma) |
 | TxGNN-voorspellingsscore | 0.9992 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 7 van 8) |
+| Aantal vergunningen | 8 (geldig: 7) |
 | Aanbevolen besluit | Hold |
 
 ---

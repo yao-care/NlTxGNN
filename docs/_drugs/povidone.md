@@ -50,8 +50,8 @@ Povidon is een hydrofiel polymeer dat wordt gebruikt in oogdruppels, oorspronkel
 | Voorspelde nieuwe indicatie | Congenitale ichthyosiforme erytrodermie |
 | TxGNN-voorspellingsscore | 0,9911 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 3 van 3) |
+| Aantal vergunningen | 3 (geldig: 3) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -82,7 +82,13 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 119116//19305 | Oculotect unidose 50 mg/ml, oogdruppels | Oogdruppels (volgens productnaam) | Niet beschikbaar |
 
-Povidon is in de handel. Er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB in de data die voor dit rapport is samengesteld.
+Povidon is in de handel.
+
+<!-- review:begin nl-lic-20261112-povidone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Povidon is in de handel. Er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB in de data die voor dit rapport is samengesteld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-povidone-1 -->
 
 ---
 
@@ -130,6 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “d, de Nederlandse registratie is doorgehaal” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Het regulatoire kader verduidelijken, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB in de data die voor dit rapport is samengesteld” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

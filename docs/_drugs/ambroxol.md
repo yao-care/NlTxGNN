@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 description: "Ambroxol: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Faryngitis"
 monitor_inn: "ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
@@ -50,8 +50,8 @@ Ambroxol is een slijmoplossend middel (mucolyticum/secretolyticum) dat oorspronk
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0,9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | Niet in de handel (ingetrokken vergunningen: 1 van 1) |
+| Aantal vergunningen | 1 (geldig: 0) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -84,7 +84,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
 |---------|------|------|-----------|
-| RVG 112356 | Mucoangin Spray 2,5 mg, spray voor oromucosaal gebruik (geldig) | Spray voor oromucosaal gebruik | Niet beschikbaar |
+| RVG 112356 | Mucoangin Spray 2,5 mg, spray voor oromucosaal gebruik (niet geregistreerd) | Spray voor oromucosaal gebruik | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261112-ambroxol-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 112356 / Mucoangin Spray 2,5 mg, spray voor oromucosaal gebruik (geldig) / Spray voor oromucosaal gebruik / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 112356 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ambroxol-2 -->
 
 ---
 
@@ -107,7 +113,26 @@ Het bewijs bestaat alleen uit een modelvoorspelling en één indirect overzichts
 - De bijsluiter/SmPC van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties)
 - Gegevens over het werkingsmechanisme aanvullen (bijv. via DrugBank)
 - Gerichte literatuur en klinische studies zoeken voor neusholteaandoeningen
-- Nagaan of er een geldige registratie of een geschikte toedieningsvorm beschikbaar is in Nederland
+
+<!-- review:begin nl-lic-20261112-ambroxol-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Gerichte literatuur en klinische studies zoeken voor neusholteaandoeningen / Nagaan of er een geldige registratie of een geschikte toedieningsvorm beschikbaar is in Nederland” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 1, waarvan geldig: 0; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-ambroxol-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Nagaan of er een geldige registratie of een geschikte toedieningsvorm beschikbaar is in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 112356: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

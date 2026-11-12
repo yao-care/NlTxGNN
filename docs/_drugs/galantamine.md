@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -50,8 +50,8 @@ Galantamine is een cholinesteraseremmer die oorspronkelijk wordt gebruikt bij de
 | Voorspelde nieuwe indicatie | Psychogene bewegingsstoornissen (rang 1); extrapiramidale en bewegingsstoornissen (psychogenic movement disorders) |
 | TxGNN-voorspellingsscore | 0.9990 |
 | Bewijsniveau | L5 (rang 1); L4 (rang 5 en rang 7) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 15 van 16) |
+| Aantal vergunningen | 16 (geldig: 15) |
 | Aanbevolen besluit | Hold (Wachten) |
 
 ## Waarom is deze voorspelling redelijk?
@@ -89,8 +89,13 @@ Veel van de overige opgehaalde publicaties betreffen algemene dementie- of choli
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (registratie geldig) |
+| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (niet geregistreerd) |
 
+<!-- review:begin nl-lic-20261112-galantamine-2 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 109150 / Galantamine retard CF 24 mg, harde capsules met verlengde afgifte / Capsule met verlengde afgifte / Niet beschikbaar (registratie geldig)” Gecorrigeerd: registratienummer RVG 109150 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-galantamine-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -109,13 +114,33 @@ Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 **Besluit: Hold (Wachten)**
 
 **Onderbouwing:**
-- Voor de voorspelling met de hoogste score (psychogene bewegingsstoornissen) bestaat geen enkel bewijs. Voor extrapiramidale stoornissen en dyskinesie is het bewijs indirect (L4) en zijn er signalen van mogelijke schade. De registratie in Nederland is bovendien ingetrokken. Dyskinesie (rang 7) kan hooguit als onderzoeksvraag worden gezien.
+- Voor de voorspelling met de hoogste score (psychogene bewegingsstoornissen) bestaat geen enkel bewijs. Voor extrapiramidale stoornissen en dyskinesie is het bewijs indirect (L4) en zijn er signalen van mogelijke schade. Dyskinesie (rang 7) kan hooguit als onderzoeksvraag worden gezien.
+
+<!-- review:begin nl-lic-20261112-galantamine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De registratie in Nederland is bovendien ingetrokken. Dyskinesie (rang 7) kan hooguit als onderzoeksvraag worden gezien.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-galantamine-1 -->
 
 **Voor verdere stappen is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. uit DrugBank)
 - De bijsluitertekst/SmPC met waarschuwingen en contra-indicaties van het CBG-MEB (ontbrekende gegevens die de veiligheidsscreening blokkeren)
 - Galantamine-specifieke gerandomiseerde studies voor dyskinesie en extrapiramidale stoornissen, inclusief beoordeling van het risico op verergering van bewegingsstoornissen
 - Duidelijkheid over de registratiestatus en beschikbare toedieningsvormen in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “De registratie in Nederland is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 109150: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

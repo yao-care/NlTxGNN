@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 281
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
@@ -48,8 +48,8 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon (progestageen) dat al 
 | Voorspelde nieuwe indicatie | Fibrocystische borstziekte (breast fibrocystic disease) |
 | TxGNN-voorspellingsscore | 0.9998 |
 | Bewijsniveau | L4 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 17 van 18) |
+| Aantal vergunningen | 18 (geldig: 17) |
 | Aanbevolen beslissing | Hold |
 
 ## Waarom is deze voorspelling aannemelijk?
@@ -85,7 +85,13 @@ Selectie van de meest relevante publicaties (geen enkele is een interventiestudi
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: geldig |
+| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: niet geregistreerd |
+
+<!-- review:begin nl-lic-20261112-progesterone-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119743//114730 / Crinone 80 mg/gram gel voor vaginaal gebruik / Niet vermeld (vaginale gel) / Niet vermeld; status: geldig” Gecorrigeerd: registratienummer RVG 119743//114730 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-progesterone-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -105,6 +111,18 @@ Voor de veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de P
 - Gegevens over het werkingsmechanisme van progesteron
 - Beoordeling van waarschuwingen en contra-indicaties in de SmPC, ook in verband met de borstveiligheid van hormonale behandeling
 - Vaststelling van een passende toedieningsweg en dosering voor deze indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Tabelregel RVG 119743//114730: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -52,8 +52,8 @@ Hiervoor zijn **geen klinische studies** en slechts **1 relevante preklinische p
 | Voorspelde nieuwe indicatie | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN-voorspellingsscore | 0.9993 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 30 van 30) |
+| Aantal vergunningen | 30 (geldig: 30) |
 | Aanbevolen beslissing | Hold |
 
 *Opmerking: de voorspelling met rang 1 (pulmonale hypertensie met onduidelijk multifactorieel mechanisme) heeft dezelfde score maar geen enkel bewijs (L5). Deze rapportage richt zich op rang 2, omdat daarvoor het meeste ondersteunende bewijs is gevonden.*

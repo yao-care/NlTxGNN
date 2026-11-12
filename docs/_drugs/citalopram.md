@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Citalopram is een selectieve serotonineheropnameremmer (SSRI). Het TxGNN-model v
 | Voorspelde nieuwe indicatie | Obsessieve-compulsieve stoornis (obsessive-compulsive disorder) |
 | TxGNN-voorspellingsscore | 0,9974 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 39 van 40) |
+| Aantal vergunningen | 40 (geldig: 39) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden |
 
 ---

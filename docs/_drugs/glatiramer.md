@@ -50,8 +50,8 @@ Glatiramer is een immunomodulerend middel dat bekend is van de behandeling van m
 | Voorspelde nieuwe indicatie | Hemoglobinopathie |
 | TxGNN-voorspellingsscore | 0,9903 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 9 van 9) |
+| Aantal vergunningen | 9 (geldig: 9) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -114,7 +114,13 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, zodat de veiligheidsscreening kan worden uitgevoerd (momenteel een blokkerende lacune).
 - Vastlegging van de oorspronkelijke indicatie(s) en de toedieningsvorm uit de vergunningsgegevens.
 - Preklinisch of klinisch bewijs voor glatiramer bij hemoglobinopathie, en een beoordeling van de toedieningsroute.
-- Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.
+- Een heroverweging van de marktstatus is niet nodig.
+
+<!-- review:begin nl-lic-20261112-glatiramer-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 9; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-glatiramer-1 -->
 
 <!-- review:begin log -->
 
@@ -125,6 +131,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

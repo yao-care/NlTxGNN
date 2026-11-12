@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Atorvastatin: voorspelde nieuwe indicatie HIV-infectie (HIV infectious disease) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -50,8 +50,8 @@ Atorvastatine is een statine dat het cholesterolgehalte verlaagt. Het TxGNN-mode
 | Voorspelde nieuwe indicatie | HIV-infectie (HIV infectious disease) |
 | TxGNN-voorspellingsscore | 0,9931 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 212 van 213) |
+| Aantal vergunningen | 213 (geldig: 212) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
 ---
 
@@ -48,8 +48,8 @@ Clozapine is een atypisch antipsychoticum met een breed receptorprofiel. Het TxG
 | Voorspelde nieuwe indicatie | Manische bipolaire stoornis (manic bipolar affective disorder) |
 | TxGNN-voorspellingsscore | 0.9995 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 46 van 47) |
+| Aantal vergunningen | 47 (geldig: 46) |
 | Aanbevolen beslissing | Doorgaan met randvoorwaarden |
 
 ## Waarom is deze voorspelling redelijk?

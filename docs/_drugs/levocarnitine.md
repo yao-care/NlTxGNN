@@ -50,8 +50,8 @@ Levocarnitine is een vorm van carnitine, een stof die het lichaam gebruikt voor 
 | Voorspelde nieuwe indicatie | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | TxGNN-voorspellingsscore | 0.9994 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 11) |
+| Aantal vergunningen | 11 (geldig: 11) |
 | Aanbevolen beslissing | Hold |
 
 ---

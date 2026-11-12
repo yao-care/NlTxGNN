@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Duloxetine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie (verder o.a. majeure depressieve stoornis…"
 monitor_inn: "duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -52,8 +52,8 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden: de vo
 | Voorspelde nieuwe indicatie | Benigne paroxismale torticollis van de kindertijd |
 | TxGNN-voorspellingsscore | 0,9985 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 48 van 48) |
+| Aantal vergunningen | 48 (geldig: 48) |
 | Aanbevolen beslissing | Hold |
 
 ---
@@ -86,7 +86,13 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 |---------|------|------|-----------|
 | RVG 118228 | Duloxetine Sandoz 60 mg, harde maagsapresistente capsules (status: geldig) | Harde maagsapresistente capsule | – |
 
-Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.
+Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.
+
+<!-- review:begin nl-lic-20261112-duloxetine-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 48, waarvan geldig: 48; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-duloxetine-1 -->
 
 ---
 
@@ -114,6 +120,19 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 - Een pediatrische veiligheidsbeoordeling vóór elke verdere stap.
 
 **Opmerking over andere voorspellingen:** voor andere voorspelde indicaties van duloxetine is wel bewijs gevonden. Bij **obsessieve-compulsieve stoornis (OCS)** gaat het om bewijsniveau L2 en de aanbeveling "Proceed with Guardrails". Daar zijn een dubbelblinde gecontroleerde studie naar duloxetine-augmentatie bij therapieresistente OCS ([PMID 27811556](https://pubmed.ncbi.nlm.nih.gov/27811556/)), een open-label studie ([PMID 25637377](https://pubmed.ncbi.nlm.nih.gov/25637377/)) en een afgeronde fase 4-studie ([NCT00464698](https://clinicaltrials.gov/study/NCT00464698), n=20) beschikbaar. Voor **agorafobie** is er indirect bewijs (L3) uit studies bij paniekstoornis. Deze twee indicaties verdienen voor verder onderzoek meer prioriteit dan de hier beoordeelde voorspelling.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

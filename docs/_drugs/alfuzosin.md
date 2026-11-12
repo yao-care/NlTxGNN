@@ -48,8 +48,8 @@ Alfuzosine is een alfa-1-adrenoreceptorantagonist die oorspronkelijk wordt gebru
 | Voorspelde nieuwe indicatie | Ambras-type hypertrichosis universalis congenita |
 | TxGNN-voorspellingsscore | 1,0000 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 1 van 1) |
-| Aantal vergunningen | 1 (geldig: 1) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 8 van 9) |
+| Aantal vergunningen | 9 (geldig: 8) |
 | Aanbevolen besluit | Hold |
 
 ## Waarom is deze voorspelling (on)aannemelijk?
@@ -72,7 +72,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte (status: geldig) | Tablet met verlengde afgifte (volgens productnaam) | Niet beschikbaar |
+| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte (status: niet geregistreerd) | Tablet met verlengde afgifte (volgens productnaam) | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261112-alfuzosin-1 -->
+
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110187//23923 / Xatral XR 10 mg, tabletten met verlengde afgifte (status: geldig) / Tablet met verlengde afgifte (volgens productnaam) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 110187//23923 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261112-alfuzosin-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -112,6 +118,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110187//23923: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

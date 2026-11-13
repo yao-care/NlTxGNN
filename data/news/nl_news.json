@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-13T04:55:15.506505+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-13T13:52:26.501729+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "60a789fb27eb",
-      "title": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd - AD.nl",
-      "published": "2026-11-10T10:42:26+00:00",
-      "summary": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd&nbsp;&nbsp;AD.nlVernietiging dossiers van postcovidpatiënten opgeschort na ingrijpen toezichthouder&nbsp;&nbsp;de VolkskrantOproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSDossiers van postcovid- en Q-koortspatiënten dreigen te verdwijnen&nbsp;&nbsp;Omroep BrabantGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, dit is waarom die dossiers belangrijk zijn&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktZampkSnRmUVRITktkWHA5Yjl6RlFoczJwbTFsZVNiR053WGgxTXg1NFRhU1ZGRVlTLWctWWZ3YmFBbHFMMzZ3RUNHMWlVSlZxNDVpNDBSeHpva0FsX0NjSUlHQllfazNWdWhYMlJXbzJIRFdqTkJ4MFVqMnZxUEdjVEFkTU9tS3ZYeWVGRmNoLS1YOF9xeXY1UUZkTTVyYjBSYTVHck9tRFZZY3NaUHNUbjU3bFFPSGpoQWp1MF9RYmdq?oc=5"
-        }
-      ]
-    },
     {
       "id": "fa939074f9ce",
       "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst - RTL.nl",
@@ -28,6 +16,18 @@
       ]
     },
     {
+      "id": "60a789fb27eb",
+      "title": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd - AD.nl",
+      "published": "2026-11-10T10:42:26+00:00",
+      "summary": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd&nbsp;&nbsp;AD.nlOproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSEen goudmijn voor toekomstig medisch onderzoek verdwijnt in de prullenbak: ‘Dit is een enorme kapitaalvernietiging’&nbsp;&nbsp;de VolkskrantDossiers van postcovid- en Q-koortspatiënten dreigen te verdwijnen&nbsp;&nbsp;Omroep BrabantGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, dit is waarom die dos",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktZampkSnRmUVRITktkWHA5Yjl6RlFoczJwbTFsZVNiR053WGgxTXg1NFRhU1ZGRVlTLWctWWZ3YmFBbHFMMzZ3RUNHMWlVSlZxNDVpNDBSeHpva0FsX0NjSUlHQllfazNWdWhYMlJXbzJIRFdqTkJ4MFVqMnZxUEdjVEFkTU9tS3ZYeWVGRmNoLS1YOF9xeXY1UUZkTTVyYjBSYTVHck9tRFZZY3NaUHNUbjU3bFFPSGpoQWp1MF9RYmdq?oc=5"
+        }
+      ]
+    },
+    {
       "id": "51b0e4a63514",
       "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",
       "published": "2026-11-12T13:10:00+00:00",
@@ -36,30 +36,6 @@
         {
           "name": "Almere DEZE WEEK",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUlLamdtUTRpV09HcWtEMXBlM0FsR3FyMExrRFF5b29VbmgyNWlRWlMwRE1BQnV1bThidjlrazFlTXRGTTRiSEFiM2U1X2FNZ2ktbFVwRFlrbGxwT3N2Q2hvMGl3cXJwZ29EVDVRNkhscE0ydm4xR1l4NjNnU0hmd3pFSXBLT1RIa20xS3JXMFhhLWxVTTZ3VXZXbXA0aUVXbVZkTFp3RDYyV29hOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e86887542985",
-      "title": "Geen griepprik nemen? Huisarts uit Staphorst waarschuwt voor risico’s - Meppeler Courant",
-      "published": "2026-11-09T15:09:00+00:00",
-      "summary": "Geen griepprik nemen? Huisarts uit Staphorst waarschuwt voor risico’s&nbsp;&nbsp;Meppeler CourantRij bij huisartsenpraktijk Veur voor jaarlijkse griepprik&nbsp;&nbsp;HetKrantje-onlineWaarom moet de griepprik ieder jaar opnieuw?&nbsp;&nbsp;NEMO Kennislink“Griepprik beschermt nauwelijks, maar heeft wel bijwerkingen”&nbsp;&nbsp;De Andere Krant",
-      "sources": [
-        {
-          "name": "Meppeler Courant",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNb3QyeGZwNmlTU3h3UzlSX2o4ZC1RY1E5b0lTM3BQc2VkRUhZRkV0S0JVMTY4ZXNnTlNHQ1ZiMjFkTS1iWGJMbDdXN2lXQnJYRTNxYmZPZXpPX2J0R21PRGJFYV9IcGJfeDRiV3l6Q3hZWU01MUI2dDU0MEJzd3ZtZU1IYmw2V0VycUdtQnJkYlh0Ul9vN2dYRWd4Um5WLWJUS0cxS2oycC04aGhjRm5Mc1dQS0xoTHdFOU5FTlQ5dFdPTVA2YnhuYUh2amxyYkdFSGFNa3B2VXVOaVRtQW1uQXp0alZjTVBtRnNTQkF0RnptQ2VsYWR5cmdtS2l4SG1QbUN1MFowZ3V0dHJ2T1kyeS1XbnEzTFp0RVhWRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a2cbc1b7319",
-      "title": "Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer - De Gelderlander",
-      "published": "2026-11-10T21:36:00+00:00",
-      "summary": "Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer&nbsp;&nbsp;De GelderlanderHerhaalde coronabesmettingen kunnen hersenen kwetsbaarder maken&nbsp;&nbsp;ArtsenkrantCovid-infecties kunnen alzheimer mogelijk versnellen&nbsp;&nbsp;De Specialist\"Herhaalde coronabesmettingen kunnen hersenen kwetsbaarder maken\", blijkt uit voorlopig onderzoek bij muizen&nbsp;&nbsp;VRTZelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzo",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1VHek1ZYmhqV0J1LVVuelYtOHpoRXB5UXdXUWFUUkxaZXhfTjRzTU5fX0RHN2pESjlpRmFQMGJ4dmhfTDFIRVZTVk0ya2NYcnkwbjdRWDdkQlQ4RDNJTEdHX3NBRWktRFVxN0Y0cEw0SXdVOGhXalZrTTB0cGVFZVp3T1dCdHJjNWFEb3pDUmQ3WF9oVWhYTEJlRzE5cXJBUk9wN1pHVUxkLUFkRjJBZTlJUmNiMlN6Sy1JZ21Eam1PQ0RTZ29pM2IwdkY2bkxMRHJ1LXZ0c2hYVGhxUkRwZERnblQ3SU5xN2pCYlZB?oc=5"
         }
       ]
     },

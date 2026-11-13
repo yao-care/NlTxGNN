@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Entacapone. 10 voorspelde indicaties."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Nieuws over Entacapone
@@ -44,19 +44,19 @@ Deze pagina combineert de door AI voorspelde indicaties voor Entacapone met het 
 
 ## Gerelateerd nieuws (2)
 
+### [Winterslaap van goudhamsters biedt nieuwe inzichten in ziekte van Alzheimer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JLMS1jNTVkdEVyMWh1Nmt0VlRXOXY4VU1zeWpxVHRrZWNKeG40TmR6aVBtRTZHYU1ZN2dqTl83QnBlRGQzcDdTdlJQR0Z2MXhXMVdZSFM2UDhSa1pHck5PeElsemI5d1ZyS05fVU05Nll0SjVWR0xaVmc1YkN6TXNZZmVDWFBqc1JYLTNYX052dDE1TjRpa2FXQjNqUFNiOWg3NzZZWlNuZzRlZlAwQkdXUlc1ZjNGZzVuaHU1cUxMQ0NiYVdiaVNLNlB3RXZZQXlv?oc=5)
+
+2026-11-12 <span class="news-indication-tag">alzheimer</span>
+
+Bron: [Nieuwsblad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JLMS1jNTVkdEVyMWh1Nmt0VlRXOXY4VU1zeWpxVHRrZWNKeG40TmR6aVBtRTZHYU1ZN2dqTl83QnBlRGQzcDdTdlJQR0Z2MXhXMVdZSFM2UDhSa1pHck5PeElsemI5d1ZyS05fVU05Nll0SjVWR0xaVmc1YkN6TXNZZmVDWFBqc1JYLTNYX052dDE1TjRpa2FXQjNqUFNiOWg3NzZZWlNuZzRlZlAwQkdXUlc1ZjNGZzVuaHU1cUxMQ0NiYVdiaVNLNlB3RXZZQXlv?oc=5)
+
+---
+
 ### [Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer - De Gelderlander](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1VHek1ZYmhqV0J1LVVuelYtOHpoRXB5UXdXUWFUUkxaZXhfTjRzTU5fX0RHN2pESjlpRmFQMGJ4dmhfTDFIRVZTVk0ya2NYcnkwbjdRWDdkQlQ4RDNJTEdHX3NBRWktRFVxN0Y0cEw0SXdVOGhXalZrTTB0cGVFZVp3T1dCdHJjNWFEb3pDUmQ3WF9oVWhYTEJlRzE5cXJBUk9wN1pHVUxkLUFkRjJBZTlJUmNiMlN6Sy1JZ21Eam1PQ0RTZ29pM2IwdkY2bkxMRHJ1LXZ0c2hYVGhxUkRwZERnblQ3SU5xN2pCYlZB?oc=5)
 
 2026-11-10 <span class="news-indication-tag">alzheimer</span>
 
 Bron: [De Gelderlander](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1VHek1ZYmhqV0J1LVVuelYtOHpoRXB5UXdXUWFUUkxaZXhfTjRzTU5fX0RHN2pESjlpRmFQMGJ4dmhfTDFIRVZTVk0ya2NYcnkwbjdRWDdkQlQ4RDNJTEdHX3NBRWktRFVxN0Y0cEw0SXdVOGhXalZrTTB0cGVFZVp3T1dCdHJjNWFEb3pDUmQ3WF9oVWhYTEJlRzE5cXJBUk9wN1pHVUxkLUFkRjJBZTlJUmNiMlN6Sy1JZ21Eam1PQ0RTZ29pM2IwdkY2bkxMRHJ1LXZ0c2hYVGhxUkRwZERnblQ3SU5xN2pCYlZB?oc=5)
-
----
-
-### [Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’](https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5)
-
-2026-11-09 <span class="news-indication-tag">alzheimer</span>
-
-Bron: [Trouw](https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5)
 
 ---
 

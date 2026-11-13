@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T13:52:26.563882+00:00",
-  "total_count": 6,
+  "last_updated": "2026-11-13T23:11:40.171106+00:00",
+  "total_count": 2,
   "matched_count": 1,
   "news": [
     {
@@ -33,63 +33,11 @@
       "id": "51b0e4a63514",
       "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",
       "published": "2026-11-12T13:10:00+00:00",
-      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEK",
+      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEKAlmere gaat wijken in om meer kinderen te vaccineren&nbsp;&nbsp;1AlmereToenemend gevaar infectieziekten door minder inentingen&nbsp;&nbsp;Omroep Almere",
       "sources": [
         {
           "name": "Almere DEZE WEEK",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUlLamdtUTRpV09HcWtEMXBlM0FsR3FyMExrRFF5b29VbmgyNWlRWlMwRE1BQnV1bThidjlrazFlTXRGTTRiSEFiM2U1X2FNZ2ktbFVwRFlrbGxwT3N2Q2hvMGl3cXJwZ29EVDVRNkhscE0ydm4xR1l4NjNnU0hmd3pFSXBLT1RIa20xS3JXMFhhLWxVTTZ3VXZXbXA0aUVXbVZkTFp3RDYyV29hOUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "578e4675900f",
-      "title": "Nieuwe ontdekking over de darmen: Miljarden mensen drinken het elke dag, en nu blijkt uit onderzoek dat het mogelijk voor een nog betere spijsvertering kan zorgen",
-      "published": "2026-11-11T19:30:46+00:00",
-      "summary": "Nieuwe ontdekking over de darmen: Miljarden mensen drinken het elke dag, en nu blijkt uit onderzoek dat het mogelijk voor een nog betere spijsvertering kan zorgen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR19rMnN5WHQ4c1R1cDdBNnFlWDF0TzB0cVhmMkJ5U01HbUhDdWRQMUVYdFpxSXpIdjNrSUY1WUpWME44M0V0UFdsaTBNWHRWeWhBZnM2MnFBa3FRYThmRzNNQUlpY2Q0Z09kSmprYm5FRnZmcjhfem5IQkNlbGY4RTdXTlFVNjVPbWM1ZFF5M3ZUMGNrcENzMWQ2MHEwZTUwOVM0c3lCY3pkR0gwal9maElDSW9hWHJIVXAwRnl1XzZtRFpiRVRYYVR6N3BoQURfaGxXU0lqQTNxa1lDMFgta0lEaUU4T0NtOTk0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fa939074f9ce",
-      "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst",
-      "published": "2026-11-11T14:05:21+00:00",
-      "summary": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3V6NnlXX0xRV0MwWUxzRU5iODY2cXNCWExTT3diWUZQRWplYW5Jbkd3eHctaHc2VmhrdjNGbXY4NVg5UjZHZjZPNW5FR2VtdlpFMUNycFNMVmttUkpINzlqZjdwQnBndXRhMS1BUkNIWm1MWjhjNnYtZjhUMWwzVlRMTEFlY3Ffakh1cTd4QTBCbGd3RUV6bmhWMW14MHBmLVhR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "60a789fb27eb",
-      "title": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd",
-      "published": "2026-11-10T10:42:26+00:00",
-      "summary": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd&nbsp;&nbsp;AD.nlOproep om gegevens van Q-koorts- en postcovidpatiënten te bewaren&nbsp;&nbsp;NOSEen goudmijn voor toekomstig medisch onderzoek verdwijnt in de prullenbak: ‘Dit is een enorme kapitaalvernietiging’&nbsp;&nbsp;de VolkskrantDossiers van postcovid- en Q-koortspatiënten dreigen te verdwijnen&nbsp;&nbsp;Omroep BrabantGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, dit is waarom die dos",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktZampkSnRmUVRITktkWHA5Yjl6RlFoczJwbTFsZVNiR053WGgxTXg1NFRhU1ZGRVlTLWctWWZ3YmFBbHFMMzZ3RUNHMWlVSlZxNDVpNDBSeHpva0FsX0NjSUlHQllfazNWdWhYMlJXbzJIRFdqTkJ4MFVqMnZxUEdjVEFkTU9tS3ZYeWVGRmNoLS1YOF9xeXY1UUZkTTVyYjBSYTVHck9tRFZZY3NaUHNUbjU3bFFPSGpoQWp1MF9RYmdq?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4b4bccb3a8eb",
-      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'",
-      "published": "2026-11-10T06:55:19+00:00",
-      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
         }
       ],
       "matched_keywords": []

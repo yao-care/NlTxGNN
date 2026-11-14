@@ -1,31 +1,5 @@
 {
-  "generated": "2026-11-13T23:11:40.183947+00:00",
-  "count": 1,
-  "news": [
-    {
-      "id": "e68d7be9e2ab",
-      "title": "Winterslaap van goudhamsters biedt nieuwe inzichten in ziekte van Alzheimer",
-      "published": "2026-11-12T17:52:31+00:00",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JLMS1jNTVkdEVyMWh1Nmt0VlRXOXY4VU1zeWpxVHRrZWNKeG40TmR6aVBtRTZHYU1ZN2dqTl83QnBlRGQzcDdTdlJQR0Z2MXhXMVdZSFM2UDhSa1pHck5PeElsemI5d1ZyS05fVU05Nll0SjVWR0xaVmc1YkN6TXNZZmVDWFBqc1JYLTNYX052dDE1TjRpa2FXQjNqUFNiOWg3NzZZWlNuZzRlZlAwQkdXUlc1ZjNGZzVuaHU1cUxMQ0NiYVdiaVNLNlB3RXZZQXlv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "alzheimer",
-          "related_drugs": [
-            {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "generated": "2026-11-14T04:48:44.653663+00:00",
+  "count": 0,
+  "news": []
 }

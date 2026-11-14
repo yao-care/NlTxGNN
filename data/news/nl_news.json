@@ -1,7 +1,7 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-13T23:11:40.088547+00:00",
-  "count": 2,
+  "fetched_at": "2026-11-14T04:48:44.488429+00:00",
+  "count": 1,
   "news": [
     {
       "id": "51b0e4a63514",
@@ -12,18 +12,6 @@
         {
           "name": "Almere DEZE WEEK",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUlLamdtUTRpV09HcWtEMXBlM0FsR3FyMExrRFF5b29VbmgyNWlRWlMwRE1BQnV1bThidjlrazFlTXRGTTRiSEFiM2U1X2FNZ2ktbFVwRFlrbGxwT3N2Q2hvMGl3cXJwZ29EVDVRNkhscE0ydm4xR1l4NjNnU0hmd3pFSXBLT1RIa20xS3JXMFhhLWxVTTZ3VXZXbXA0aUVXbVZkTFp3RDYyV29hOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e68d7be9e2ab",
-      "title": "Winterslaap van goudhamsters biedt nieuwe inzichten in ziekte van Alzheimer - Nieuwsblad",
-      "published": "2026-11-12T17:52:31+00:00",
-      "summary": "Winterslaap van goudhamsters biedt nieuwe inzichten in ziekte van Alzheimer&nbsp;&nbsp;NieuwsbladMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JLMS1jNTVkdEVyMWh1Nmt0VlRXOXY4VU1zeWpxVHRrZWNKeG40TmR6aVBtRTZHYU1ZN2dqTl83QnBlRGQzcDdTdlJQR0Z2MXhXMVdZSFM2UDhSa1pHck5PeElsemI5d1ZyS05fVU05Nll0SjVWR0xaVmc1YkN6TXNZZmVDWFBqc1JYLTNYX052dDE1TjRpa2FXQjNqUFNiOWg3NzZZWlNuZzRlZlAwQkdXUlc1ZjNGZzVuaHU1cUxMQ0NiYVdiaVNLNlB3RXZZQXlv?oc=5"
         }
       ]
     }

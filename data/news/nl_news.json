@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-14T04:48:44.488429+00:00",
-  "count": 1,
+  "fetched_at": "2026-11-14T12:55:25.735259+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "fca510404b65",
+      "title": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen - NU",
+      "published": "2026-11-14T09:42:03+00:00",
+      "summary": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSPennsylvania meldt zevende mazelen-gerelateerde overlijden nu aantal gevallen stijgt&nbsp;&nbsp;MarketScreener NederlandMazelen bereikt hoogste aantal gevallen in meer dan dertig jaar door dalende vaccinatiecijfers&nbsp;&nbsp;Headliner.nlMazelenvrije status VS ingetrokken na 26 jaar, meldt WSJ&nbsp;&nbsp;TPO.NL",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVJSd3kycURQaDY5dWVNazZ4LTdZYzRTYWxkaG53WTVEam9haXlBb0FkbmZQX1UyTG04NWpuRVFDeXdfMVItMEZHWVJJaExRLVlNLVZFY2ZBQl9yRDIxY0EzS2Q2b2FqUGFvMWJvbmZQTFhJUGk5WEdldHZKSFVvaVVSZE1yRnpxQTNzYWNiREVKSG5xem1ja0VVWW9GdXBOTTRUVVQ5TEhOT09pQmc0ZDFYVUUyTDIyOHpz?oc=5"
+        }
+      ]
+    },
     {
       "id": "51b0e4a63514",
       "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",

@@ -1,36 +1,48 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-15T04:40:24.554299+00:00",
-  "count": 3,
+  "fetched_at": "2026-11-15T13:23:39.852541+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "fca510404b65",
-      "title": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen - NU",
-      "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlDoor de toename van het aantal mazelengevallen verliest de VS de vooruitgang die het land heeft geboekt in de bestrijding van de ziekte.&nbsp;&nbsp;Vietnam.vn",
+      "id": "ac3671be9b82",
+      "title": "WSJ: Amerika verliest status van mazelenvrij land - NOS",
+      "published": "2026-11-14T04:20:41+00:00",
+      "summary": "WSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlDoor de toename van het aantal mazelengevallen verliest de VS de vooruitgang die het land heeft geboekt in de bestrijding van de ziekte.&nbsp;&nbsp;Vietnam.vnPennsylvania meldt zevende mazelen-gerelateerde overlijden nu aantal gevallen stijgt&nbsp;&nbsp",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVJSd3kycURQaDY5dWVNazZ4LTdZYzRTYWxkaG53WTVEam9haXlBb0FkbmZQX1UyTG04NWpuRVFDeXdfMVItMEZHWVJJaExRLVlNLVZFY2ZBQl9yRDIxY0EzS2Q2b2FqUGFvMWJvbmZQTFhJUGk5WEdldHZKSFVvaVVSZE1yRnpxQTNzYWNiREVKSG5xem1ja0VVWW9GdXBOTTRUVVQ5TEhOT09pQmc0ZDFYVUUyTDIyOHpz?oc=5"
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaDFmdFRaMHFJeW9VWWJmWHlxMTZRLTlqOURQeS1YU2I3WGN1Y0RuLWJzNXRsRjF1OWJkYmtfcUpUemp0ZzdSN3R5YVRfdHVzWF8tTjNpempMNGZqQVlQd25nTTNDa2NDRHI1d05BMXJKWG1ON3otcXhCd1VXV3QwZi1HQWd5UQ?oc=5"
         }
       ]
     },
     {
-      "id": "51b0e4a63514",
-      "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",
-      "published": "2026-11-12T13:10:00+00:00",
-      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEKAlmere gaat wijken in om meer kinderen te vaccineren&nbsp;&nbsp;1AlmereToenemend gevaar infectieziekten door minder inentingen&nbsp;&nbsp;Omroep Almere",
+      "id": "08c17c85f00a",
+      "title": "Peter (36) verloor zijn tweelingbroertje amper twee dagen na hun vroeggeboorte en richtte Cokoen op: “Je prematuriteit stopt niet aan de ziekenhuisdeur” - HLN",
+      "published": "2026-11-14T04:35:16+00:00",
+      "summary": "Peter (36) verloor zijn tweelingbroertje amper twee dagen na hun vroeggeboorte en richtte Cokoen op: “Je prematuriteit stopt niet aan de ziekenhuisdeur”&nbsp;&nbsp;HLNWereldprematurendag: klein geboren, groots in kracht...&nbsp;&nbsp;Roermond.nieuws.nlWereld Premature Baby Dag, 15 november: Investeren in voortdurende zorg.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Almere DEZE WEEK",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUlLamdtUTRpV09HcWtEMXBlM0FsR3FyMExrRFF5b29VbmgyNWlRWlMwRE1BQnV1bThidjlrazFlTXRGTTRiSEFiM2U1X2FNZ2ktbFVwRFlrbGxwT3N2Q2hvMGl3cXJwZ29EVDVRNkhscE0ydm4xR1l4NjNnU0hmd3pFSXBLT1RIa20xS3JXMFhhLWxVTTZ3VXZXbXA0aUVXbVZkTFp3RDYyV29hOUE?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTjlXZnp6Ym9OZUtYMFl6VURnRVdncE9lY0kxS3lKTzJtcU14YUNIaVhZdUhvc2dwRDVaTTV6UmR0TVlxMzJIR1l2QWRESkJWUUl2cGpTMlpQaWtJVWsyY3JpeGM4bndEWGEySEVIQmJ6V1lpTTRucUNTWXpsZk1MWW1HSnh4Rm9FQUJvWVhfTzkxeTNfbzQ1OWhUa3cxYTQxQkV4OHVqVHI3RHU2VWZ0R1ZWd0hBejBWMnV4MzZuaTlNeGEtd3B4SkxkTG4xbTBTOGh1LTNzV2tEUlhLQzdmN0stdTR5cnk4Nm9jYmkwWEx4eHlhcmF0SF96Mm10bC14eUU4N2ctS1FfdURzUzg2MV9HVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6700c8ca3e79",
+      "title": "Diabetesbehandeling verschuift steeds meer van injecties naar pillen - Starnieuws",
+      "published": "2026-11-15T06:03:00+00:00",
+      "summary": "Diabetesbehandeling verschuift steeds meer van injecties naar pillen&nbsp;&nbsp;Starnieuws",
+      "sources": [
+        {
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTGRGOHJ6dUw5TlVfTjNYaWNTdUtxUnpmdl9lal9lSW4tMXU2NERTZVZheXlCbWlnNV91YUpFNFJmeFFGVTZiTlZ1ME90ZlkwallDRmpMNUZpQTR6RUN3bE5ZbWhvcGN2a2lZdU5hamN6VUVhc2c?oc=5"
         }
       ]
     },
     {
       "id": "40ed57756c56",
       "title": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\" - Nieuwsblad",
-      "published": "2026-11-14T17:18:00+00:00",
+      "published": "2026-11-14T09:18:00+00:00",
       "summary": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\"&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {

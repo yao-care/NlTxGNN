@@ -97,7 +97,13 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 <!-- review:end nl-lic-20261112-tiapride-1 -->
 
-Deze registratie is doorgehaald.
+Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
+
+<!-- review:begin nl-lic-20261115-tiapride-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-tiapride-1 -->
 
 ---
 
@@ -113,7 +119,13 @@ Raadpleeg voor veiligheidsinformatie de SmPC (Samenvatting van de Productkenmerk
 
 **Onderbouwing:**
 - Er is literatuur met gecontroleerde studies en één recente gerandomiseerde pilotstudie. Veel studies zijn echter oud (1979–1984), methodologisch beperkt en kleinschalig, en er zijn geen geregistreerde trials. Het bewijsniveau L2 is gebaseerd op de enkele pilot-RCT en moet voorzichtig worden gelezen.
-- De Nederlandse registratie is doorgehaald en veiligheidsgegevens ontbreken, waardoor de veiligheidsscreening nog niet kan worden uitgevoerd. Dit is een blokkerend gegevensgebrek.
+- De Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank en veiligheidsgegevens ontbreken, waardoor de veiligheidsscreening nog niet kan worden uitgevoerd. Dit is een blokkerend gegevensgebrek.
+
+<!-- review:begin nl-lic-20261115-tiapride-2 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De Nederlandse registratie is doorgehaald en veiligheidsgegevens ontbreken” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-tiapride-2 -->
 
 **Om verder te gaan is nodig:**
 - Veiligheidsgegevens uit de SmPC/bijsluiter (waarschuwingen en contra-indicaties) via de CBG-MEB-website.
@@ -131,6 +143,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 116818//07613: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “De Nederlandse registratie is doorgehaald en veiligheidsgege” → “De Nederlandse registratie komt niet voor in de actuele Gene” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

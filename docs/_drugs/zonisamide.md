@@ -72,7 +72,13 @@ Momenteel geen gerelateerde literatuur beschikbaar over zonisamide bij Tourette-
 |---------|------|------|-----------|
 | RVG 117887 | Zonisamide Aristo 100 mg harde capsules | Harde capsule | Niet vermeld |
 
-Deze registratie is doorgehaald. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
+Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
+
+<!-- review:begin nl-lic-20261115-zonisamide-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-zonisamide-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -114,6 +120,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

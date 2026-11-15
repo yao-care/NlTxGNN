@@ -114,7 +114,13 @@ De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zond
 - Gegevens over het werkingsmechanisme (MOA) uit DrugBank en een onderbouwde mechanistische hypothese voor haargroei of de TRPS1-regio
 - Waarschuwingen en contra-indicaties uit de officiële CBG-MEB-bijsluiter (blokkerende datalacune voor veiligheidsscreening)
 - Preklinisch of mechanistisch onderzoek dat een verband tussen alfa-1-blokkade en de voorspelde indicatie aantoont
-- Heroverweging van de voorspelling, of keuze van een kandidaat-indicatie met meer bewijs, gezien de ingetrokken vergunningsstatus
+- Heroverweging van de voorspelling, of keuze van een kandidaat-indicatie met meer bewijs
+
+<!-- review:begin nl-lic-20261115-tamsulosin-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “, gezien de ingetrokken vergunningsstatus” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-tamsulosin-1 -->
 
 <!-- review:begin log -->
 
@@ -126,6 +132,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | Verwijderd: “, gezien de ingetrokken vergunningsstatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

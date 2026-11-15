@@ -85,8 +85,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120540//06279 (ingetrokken) | Sulpiride ERC 50 mg, capsules | Niet vermeld | Niet vermeld |
+| RVG 120540//06279 (niet geregistreerd) | Sulpiride ERC 50 mg, capsules | Niet vermeld | Niet vermeld |
 
+<!-- review:begin nl-lic-20261115-sulpiride-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 120540//06279 (ingetrokken)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-sulpiride-1 -->
 
 ---
 
@@ -115,6 +120,19 @@ Voor waarschuwingen en contra-indicaties raadplege men de SmPC (Samenvatting van
 ---
 
 *Opmerking: de overige acht voorspelde indicaties (waaronder hydranencefalie, Charcot-Marie-Tooth type 1G en verschillende vormen van myopie) hebben bewijsniveau L5 en zijn gebaseerd op de TxGNN-score alleen, zonder klinische of literatuurondersteuning. Voor myopie kan D2-antagonisme zelfs contraproductief zijn, omdat verhoogde dopaminesignalering als beschermend wordt beschouwd. Voor deze indicaties geldt de aanbeveling Hold.*
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-15 | “RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

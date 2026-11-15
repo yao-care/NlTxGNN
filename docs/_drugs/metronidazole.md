@@ -93,7 +93,13 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 119834//14416 (doorgehaald) | Metronidazol Fisher 7,5 mg/g, gel | Gel | Niet beschikbaar in de gegevens |
+| RVG 119834//14416 (niet geregistreerd) | Metronidazol Fisher 7,5 mg/g, gel | Gel | Niet beschikbaar in de gegevens |
+
+<!-- review:begin nl-lic-20261115-metronidazole-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 119834//14416 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-metronidazole-1 -->
 
 Raadpleeg voor actuele informatie het CBG-MEB.
 
@@ -147,6 +153,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -8948,6 +8948,710 @@
    "checked": "2026-11-12",
    "summary": "Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven)",
    "method": "2026-11-12 人工查核（表格列狀態對 CBG 現行登記）"
+  },
+  {
+   "id": "nl-lic-20261115-ambroxol-1",
+   "drug": "ambroxol",
+   "file": "ambroxol.md",
+   "action": "correct",
+   "claim": "De enige Nederlandse vergunning is bovendien doorgehaald.",
+   "replacement": "Bovendien komt de enige bekende Nederlandse registratie niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“De enige Nederlandse vergunning is bovendien doorgehaald.” → “Bovendien komt de enige bekende Nederlandse registratie niet”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-lubiprostone-1",
+   "drug": "lubiprostone",
+   "file": "lubiprostone.md",
+   "action": "correct",
+   "claim": "De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald.",
+   "replacement": "De enige bekende Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“De enige vergunning in Nederland (CBG-MEB) heeft de status d” → “De enige bekende Nederlandse registratie komt niet voor in d”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-lubiprostone-2",
+   "drug": "lubiprostone",
+   "file": "lubiprostone.md",
+   "action": "correct",
+   "claim": "en de enige Nederlandse vergunning is doorgehaald.",
+   "replacement": "en de enige bekende Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“en de enige Nederlandse vergunning is doorgehaald.” → “en de enige bekende Nederlandse registratie komt niet voor i”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-lubiprostone-3",
+   "drug": "lubiprostone",
+   "file": "lubiprostone.md",
+   "action": "correct",
+   "claim": "aangezien de vergunning is doorgehaald.",
+   "replacement": "aangezien de registratie niet voorkomt in de actuele Geneesmiddeleninformatiebank.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“aangezien de vergunning is doorgehaald.” → “aangezien de registratie niet voorkomt in de actuele Geneesm”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-ranitidine-1",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "action": "correct",
+   "claim": "Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.",
+   "replacement": "Er is één registratie bekend; deze komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Er is één vergunning bekend bij het CBG-MEB en deze is inget” → “Er is één registratie bekend; deze komt niet voor in de actu”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-ranitidine-2",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "action": "correct",
+   "claim": "Besluit over de relevantie van de ingetrokken vergunning,",
+   "replacement": "Besluit over de relevantie van de niet meer geregistreerde vergunning,",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer geregistreerde v”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-tiapride-1",
+   "drug": "tiapride",
+   "file": "tiapride.md",
+   "action": "correct",
+   "claim": "Deze registratie is doorgehaald.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-tiapride-2",
+   "drug": "tiapride",
+   "file": "tiapride.md",
+   "action": "correct",
+   "claim": "De Nederlandse registratie is doorgehaald en veiligheidsgegevens ontbreken",
+   "replacement": "De Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank en veiligheidsgegevens ontbreken",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“De Nederlandse registratie is doorgehaald en veiligheidsgege” → “De Nederlandse registratie komt niet voor in de actuele Gene”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-lanreotide-1",
+   "drug": "lanreotide",
+   "file": "lanreotide.md",
+   "action": "correct",
+   "claim": "Deze vergunning is ingetrokken.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-levocetirizine-1",
+   "drug": "levocetirizine",
+   "file": "levocetirizine.md",
+   "action": "correct",
+   "claim": "Deze registratie is doorgehaald.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-pimecrolimus-1",
+   "drug": "pimecrolimus",
+   "file": "pimecrolimus.md",
+   "action": "correct",
+   "claim": "Deze vergunning is doorgehaald.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-zonisamide-1",
+   "drug": "zonisamide",
+   "file": "zonisamide.md",
+   "action": "correct",
+   "claim": "Deze registratie is doorgehaald.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-oxytetracycline-1",
+   "drug": "oxytetracycline",
+   "file": "oxytetracycline.md",
+   "action": "correct",
+   "claim": "Beide registraties zijn doorgehaald.",
+   "replacement": "Beide registratienummers komen niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-topotecan-1",
+   "drug": "topotecan",
+   "file": "topotecan.md",
+   "action": "correct",
+   "claim": "Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.",
+   "replacement": "Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-efavirenz-1",
+   "drug": "efavirenz",
+   "file": "efavirenz.md",
+   "action": "correct",
+   "claim": "De voor dit rapport samengestelde data bevatten één vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten). Het is een enkelvoudig product; de vergunning heeft de status \"ingetrokken\".",
+   "replacement": "Volgens de actuele registratiegegevens van het CBG zijn er voor efavirenz meerdere geldige vergunningen (actuele aantallen in het snelle overzicht). De hier genoemde vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten, enkelvoudig product) komt niet voor in de actuele Geneesmiddeleninformatiebank (niet geregistreerd).",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“De voor dit rapport samengestelde data bevatten één vergunni” → “Volgens de actuele registratiegegevens van het CBG zijn er v”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-efavirenz-2",
+   "drug": "efavirenz",
+   "file": "efavirenz.md",
+   "action": "correct",
+   "claim": " De lijst kan niet worden aangevuld met andere vergunningen.",
+   "replacement": "",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "Verwijderd: “De lijst kan niet worden aangevuld met andere vergunningen.”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）",
+   "anchor": "Voor dit product is geen indicatietekst vastgelegd in de lokale gegevens."
+  },
+  {
+   "id": "nl-lic-20261115-fexofenadine-1",
+   "drug": "fexofenadine",
+   "file": "fexofenadine.md",
+   "action": "correct",
+   "claim": " De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.",
+   "replacement": "",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "Verwijderd: “De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）",
+   "anchor": "Daarnaast heeft een orale formulering beperkte blootstelling van het oogoppervlak."
+  },
+  {
+   "id": "nl-lic-20261115-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": " en doorgehaald zijn",
+   "replacement": "",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "Verwijderd: “en doorgehaald zijn”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）",
+   "anchor": "aangezien de bestaande producten parenterale voeding betreffen"
+  },
+  {
+   "id": "nl-lic-20261115-tamsulosin-1",
+   "drug": "tamsulosin",
+   "file": "tamsulosin.md",
+   "action": "correct",
+   "claim": ", gezien de ingetrokken vergunningsstatus",
+   "replacement": "",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "Verwijderd: “, gezien de ingetrokken vergunningsstatus”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）",
+   "anchor": "Heroverweging van de voorspelling, of keuze van een kandidaat-indicatie met meer bewijs"
+  },
+  {
+   "id": "nl-lic-20261115-tretinoin-1",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "De geneesmiddelregistraties in Nederland zijn bovendien doorgehaald, en de veiligheidsgegevens uit de officiële productinformatie ontbreken.",
+   "replacement": "De veiligheidsgegevens uit de officiële productinformatie ontbreken bovendien.",
+   "note": "Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；本藥另有有效登記，整體已撤回的說法跟事實相反，刪除或改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële productinformatie on”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-biotin-1",
+   "drug": "biotin",
+   "file": "biotin.md",
+   "action": "correct",
+   "claim": "RVG 117795//15333 (doorgehaald)",
+   "replacement": "RVG 117795//15333 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 117795//15333 (doorgehaald)” → “RVG 117795//15333 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-emtricitabine-1",
+   "drug": "emtricitabine",
+   "file": "emtricitabine.md",
+   "action": "correct",
+   "claim": "RVG 117316 (ingetrokken)",
+   "replacement": "RVG 117316 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 117316 (ingetrokken)” → “RVG 117316 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-lopinavir-1",
+   "drug": "lopinavir",
+   "file": "lopinavir.md",
+   "action": "correct",
+   "claim": "RVG 115086 (ingetrokken)",
+   "replacement": "RVG 115086 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 115086 (ingetrokken)” → “RVG 115086 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-methotrexate-1",
+   "drug": "methotrexate",
+   "file": "methotrexate.md",
+   "action": "correct",
+   "claim": "RVG 117707 (doorgehaald)",
+   "replacement": "RVG 117707 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 117707 (doorgehaald)” → “RVG 117707 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-metronidazole-1",
+   "drug": "metronidazole",
+   "file": "metronidazole.md",
+   "action": "correct",
+   "claim": "RVG 119834//14416 (doorgehaald)",
+   "replacement": "RVG 119834//14416 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-minoxidil-1",
+   "drug": "minoxidil",
+   "file": "minoxidil.md",
+   "action": "correct",
+   "claim": "RVG 119952//08426 (doorgehaald)",
+   "replacement": "RVG 119952//08426 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-sertraline-1",
+   "drug": "sertraline",
+   "file": "sertraline.md",
+   "action": "correct",
+   "claim": "RVG 120699//16292 (doorgehaald)",
+   "replacement": "RVG 120699//16292 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
+  },
+  {
+   "id": "nl-lic-20261115-sulpiride-1",
+   "drug": "sulpiride",
+   "file": "sulpiride.md",
+   "action": "correct",
+   "claim": "RVG 120540//06279 (ingetrokken)",
+   "replacement": "RVG 120540//06279 (niet geregistreerd)",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens.",
+   "finding": "2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（CBG 原文「Niet geregistreerd」），正文寫成 doorgehaald／ingetrokken；照 CBG 原文改寫",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-15"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "checked": "2026-11-15",
+   "summary": "“RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)”",
+   "method": "2026-11-15 人工查核（正文對 CBG 現行登記與快照事實層）"
   }
  ]
 }

@@ -62,7 +62,13 @@ De voorspelling berust uitsluitend op de TxGNN-score. Er is geen ondersteunend k
 
 Een mogelijk, maar niet geverifieerd verband: fexofenadine wordt al gebruikt bij allergische oogaandoeningen (atopische, papillaire en vernale conjunctivitis). Oculaire rosacea gaat gepaard met ontsteking van de ooglidrand en het oogoppervlak. Histamine-gemedieerde ontsteking zou hieraan kunnen bijdragen, waardoor H1-blokkade klachten als jeuk, roodheid en irritatie zou kunnen verlichten.
 
-Er zijn ook duidelijke beperkingen. Oculaire rosacea wordt vooral veroorzaakt door meibomklierdisfunctie, microbiële of Demodex-betrokkenheid en disregulatie van het aangeboren immuunsysteem en de vaten. H1-antagonisme richt zich daar niet direct op. Daarnaast heeft een orale formulering beperkte blootstelling van het oogoppervlak. De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.
+Er zijn ook duidelijke beperkingen. Oculaire rosacea wordt vooral veroorzaakt door meibomklierdisfunctie, microbiële of Demodex-betrokkenheid en disregulatie van het aangeboren immuunsysteem en de vaten. H1-antagonisme richt zich daar niet direct op. Daarnaast heeft een orale formulering beperkte blootstelling van het oogoppervlak.
+
+<!-- review:begin nl-lic-20261115-fexofenadine-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-fexofenadine-1 -->
 
 ---
 
@@ -137,6 +143,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 118299: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | Verwijderd: “De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

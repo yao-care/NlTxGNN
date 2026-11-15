@@ -1,13 +1,25 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-12T19:29:43.840272+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-15T04:40:24.554299+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "fca510404b65",
+      "title": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen - NU",
+      "published": "2026-11-14T09:42:03+00:00",
+      "summary": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlDoor de toename van het aantal mazelengevallen verliest de VS de vooruitgang die het land heeft geboekt in de bestrijding van de ziekte.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVJSd3kycURQaDY5dWVNazZ4LTdZYzRTYWxkaG53WTVEam9haXlBb0FkbmZQX1UyTG04NWpuRVFDeXdfMVItMEZHWVJJaExRLVlNLVZFY2ZBQl9yRDIxY0EzS2Q2b2FqUGFvMWJvbmZQTFhJUGk5WEdldHZKSFVvaVVSZE1yRnpxQTNzYWNiREVKSG5xem1ja0VVWW9GdXBOTTRUVVQ5TEhOT09pQmc0ZDFYVUUyTDIyOHpz?oc=5"
+        }
+      ]
+    },
     {
       "id": "51b0e4a63514",
       "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",
       "published": "2026-11-12T13:10:00+00:00",
-      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEK",
+      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEKAlmere gaat wijken in om meer kinderen te vaccineren&nbsp;&nbsp;1AlmereToenemend gevaar infectieziekten door minder inentingen&nbsp;&nbsp;Omroep Almere",
       "sources": [
         {
           "name": "Almere DEZE WEEK",
@@ -16,86 +28,14 @@
       ]
     },
     {
-      "id": "60a789fb27eb",
-      "title": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd - AD.nl",
-      "published": "2026-11-10T10:42:26+00:00",
-      "summary": "Waardevolle dossiers van tienduizenden patiënten dreigen deze week te worden vernietigd&nbsp;&nbsp;AD.nlGegevens patiënten postcovid en Q-koorts blijven tóch bestaan, dit is waarom die dossiers belangrijk zijn&nbsp;&nbsp;EenVandaagVernietiging dossiers van postcovidpatiënten opgeschort na ingrijpen toezichthouder&nbsp;&nbsp;de VolkskrantDossiers van tienduizenden patiënten dreigen te worden vernietigd, terwijl ze waardevol zijn voor onderzoek&nbsp;&nbsp;AD.nlAP vraagt om uitstel vernietiging med",
+      "id": "40ed57756c56",
+      "title": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\" - Nieuwsblad",
+      "published": "2026-11-14T17:18:00+00:00",
+      "summary": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\"&nbsp;&nbsp;Nieuwsblad",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktZampkSnRmUVRITktkWHA5Yjl6RlFoczJwbTFsZVNiR053WGgxTXg1NFRhU1ZGRVlTLWctWWZ3YmFBbHFMMzZ3RUNHMWlVSlZxNDVpNDBSeHpva0FsX0NjSUlHQllfazNWdWhYMlJXbzJIRFdqTkJ4MFVqMnZxUEdjVEFkTU9tS3ZYeWVGRmNoLS1YOF9xeXY1UUZkTTVyYjBSYTVHck9tRFZZY3NaUHNUbjU3bFFPSGpoQWp1MF9RYmdq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa939074f9ce",
-      "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst - RTL.nl",
-      "published": "2026-11-11T14:05:21+00:00",
-      "summary": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst&nbsp;&nbsp;RTL.nlVoorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn wél de meest effectieve&nbsp;&nbsp;AD.nlWelk antidepressivum je krijgt, maakt meer uit dan je denkt&nbsp;&nbsp;Scientias.nlRadboudumc maakt top drie van effectiefste antidepressiva, en Prozac valt buiten de boot&nbsp;&nbsp;De GelderlanderAntidepressiva kunnen ook op lange termijn terugval helpen voorkomen&nbsp;&nbsp;Nationale Zorggids",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3V6NnlXX0xRV0MwWUxzRU5iODY2cXNCWExTT3diWUZQRWplYW5Jbkd3eHctaHc2VmhrdjNGbXY4NVg5UjZHZjZPNW5FR2VtdlpFMUNycFNMVmttUkpINzlqZjdwQnBndXRhMS1BUkNIWm1MWjhjNnYtZjhUMWwzVlRMTEFlY3Ffakh1cTd4QTBCbGd3RUV6bmhWMW14MHBmLVhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e86887542985",
-      "title": "Geen griepprik nemen? Huisarts uit Staphorst waarschuwt voor risico’s - Meppeler Courant",
-      "published": "2026-11-09T15:09:00+00:00",
-      "summary": "Geen griepprik nemen? Huisarts uit Staphorst waarschuwt voor risico’s&nbsp;&nbsp;Meppeler CourantRij bij huisartsenpraktijk Veur voor jaarlijkse griepprik&nbsp;&nbsp;HetKrantje-onlineWaarom moet de griepprik ieder jaar opnieuw?&nbsp;&nbsp;NEMO KennislinkDe griepprik is later dan in andere jaren. Hoe komt dat en is dat erg?&nbsp;&nbsp;de VolkskrantGriepprik waarschijnlijk minder effectief dan gewenst&nbsp;&nbsp;DVHN",
-      "sources": [
-        {
-          "name": "Meppeler Courant",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNb3QyeGZwNmlTU3h3UzlSX2o4ZC1RY1E5b0lTM3BQc2VkRUhZRkV0S0JVMTY4ZXNnTlNHQ1ZiMjFkTS1iWGJMbDdXN2lXQnJYRTNxYmZPZXpPX2J0R21PRGJFYV9IcGJfeDRiV3l6Q3hZWU01MUI2dDU0MEJzd3ZtZU1IYmw2V0VycUdtQnJkYlh0Ul9vN2dYRWd4Um5WLWJUS0cxS2oycC04aGhjRm5Mc1dQS0xoTHdFOU5FTlQ5dFdPTVA2YnhuYUh2amxyYkdFSGFNa3B2VXVOaVRtQW1uQXp0alZjTVBtRnNTQkF0RnptQ2VsYWR5cmdtS2l4SG1QbUN1MFowZ3V0dHJ2T1kyeS1XbnEzTFp0RVhWRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a2cbc1b7319",
-      "title": "Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer - De Gelderlander",
-      "published": "2026-11-10T21:36:00+00:00",
-      "summary": "Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer&nbsp;&nbsp;De GelderlanderHerhaalde coronabesmettingen kunnen hersenen kwetsbaarder maken&nbsp;&nbsp;ArtsenkrantCovid-infecties kunnen alzheimer mogelijk versnellen&nbsp;&nbsp;De Specialist\"Herhaalde coronabesmettingen kunnen hersenen kwetsbaarder maken\", blijkt uit voorlopig onderzoek bij muizen&nbsp;&nbsp;VRTZelfs milde coronabesmettingen laten sporen na in hersenen: Gentse onderzo",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1VHek1ZYmhqV0J1LVVuelYtOHpoRXB5UXdXUWFUUkxaZXhfTjRzTU5fX0RHN2pESjlpRmFQMGJ4dmhfTDFIRVZTVk0ya2NYcnkwbjdRWDdkQlQ4RDNJTEdHX3NBRWktRFVxN0Y0cEw0SXdVOGhXalZrTTB0cGVFZVp3T1dCdHJjNWFEb3pDUmQ3WF9oVWhYTEJlRzE5cXJBUk9wN1pHVUxkLUFkRjJBZTlJUmNiMlN6Sy1JZ21Eam1PQ0RTZ29pM2IwdkY2bkxMRHJ1LXZ0c2hYVGhxUkRwZERnblQ3SU5xN2pCYlZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "578e4675900f",
-      "title": "Nieuwe ontdekking over de darmen: Miljarden mensen drinken het elke dag, en nu blijkt uit onderzoek dat het mogelijk voor een nog betere spijsvertering kan zorgen - wibnet.nl",
-      "published": "2026-11-11T19:30:46+00:00",
-      "summary": "Nieuwe ontdekking over de darmen: Miljarden mensen drinken het elke dag, en nu blijkt uit onderzoek dat het mogelijk voor een nog betere spijsvertering kan zorgen&nbsp;&nbsp;wibnet.nl",
-      "sources": [
-        {
-          "name": "wibnet.nl",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR19rMnN5WHQ4c1R1cDdBNnFlWDF0TzB0cVhmMkJ5U01HbUhDdWRQMUVYdFpxSXpIdjNrSUY1WUpWME44M0V0UFdsaTBNWHRWeWhBZnM2MnFBa3FRYThmRzNNQUlpY2Q0Z09kSmprYm5FRnZmcjhfem5IQkNlbGY4RTdXTlFVNjVPbWM1ZFF5M3ZUMGNrcENzMWQ2MHEwZTUwOVM0c3lCY3pkR0gwal9maElDSW9hWHJIVXAwRnl1XzZtRFpiRVRYYVR6N3BoQURfaGxXU0lqQTNxa1lDMFgta0lEaUU4T0NtOTk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be586311686b",
-      "title": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’ - Trouw",
-      "published": "2026-11-09T21:00:00+00:00",
-      "summary": "Maxine Linnell (78) leerde leven met alzheimer. ‘Het is niet direct voorbij na de diagnose’&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGpxLWp4dFdPcUtiVHdJRlhuaUp4bjBMZXRHc2lXUjNNQWljNk9DQ2dPVVJZbDEtTWFtN2dRamFzNVR1dzBIVHVOU2FERGNoWENZdk9ZNW5vVGdGa2UtQ0Ntel9sSlFON3k4NEttZFdzR2JsQjBFd04xZkxxR3pKWDJRSlZITzZLbWpiNmRrVzUxamtIYWstWmFJV2tEZlhkei1zaHZCOFlEbVFteWE3WGt3cXM5cDFnVm1Vc1VGcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b4bccb3a8eb",
-      "title": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven' - Linda",
-      "published": "2026-11-10T06:55:19+00:00",
-      "summary": "Daniël wordt ziek van zijn eigen zaadlozing: 'Deze aandoening beheerst mijn leven'&nbsp;&nbsp;Linda",
-      "sources": [
-        {
-          "name": "Linda",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNHV0s1VmF3dEI0eDhBQlBNdUV3ZVQyZEQtdmxnemt2TnJwOVNobW9Pc19vZzJvcFhkdmoxc3J6cUJlYkZtY21KY01nRm92dEp5NE5SWlZ5dm5OOWJIdnNMTjBzeFdkYmxsejZfVm9nUFpuZ1hpU1hBZlplcGFVRGlDcEFsVnlaYlpMbm5jNTd5d2t5alJQdEZld3puZFRKMExRRDAyZVp1YnFZaUpZNw?oc=5"
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeGQyODR6WWRQcFNuV25NRnB4OGpVdE5odGdYMDRlNWxNMWdpWjVDN3FJd0VVRUMxMDd0dEZ1Y0czZjdFVFlxT3VrRVJiVjVrYlF5dTZQdjJKNlNpbmp1MnVlbGN6YmZaY0E0akVZMk1acHhiSVFoVUc1bW9KWUNHMnRQN0paZy1yRGc2d0N3X0xPdXRxbG5hb21vc1hIeGNTbGVqcDMzUFBwRkFSTmhpX05BTTJEcFYxalhNMlNoTnZsOFpaNWZIa0pBaGpFbGpFdnJxNlk1TEJhZU9jOFZtcEtRSmMteTZ3YTNmclA0di0wSEVtR0dPV0c4dGdKT1Byejk5MWhfVkdzb2ln?oc=5"
         }
       ]
     }

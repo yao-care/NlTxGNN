@@ -24,7 +24,7 @@ Voorspellingen voor herpositionering van geneesmiddelen voor door CBG-MEB (Nethe
 | **Unieke geneesmiddelen** | 430 |
 | **Unieke indicaties** | 17,081 |
 | **DDI-gegevens** | 160,235 |
-| **FHIR-bronnen** | 367 MK / 2,469 CUD |
+| **FHIR-bronnen** | 334 MK / 1,842 CUD |
 
 ### Verdeling bewijsniveaus
 

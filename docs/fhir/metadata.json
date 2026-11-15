@@ -7,7 +7,7 @@
   "title": "NlTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-11-13",
+  "date": "2026-11-15",
   "publisher": "NlTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "NlTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 367 drugs and 2469 predicted indications.",
+  "description": "NlTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 334 drugs and 1842 predicted indications.",
   "jurisdiction": [
     {
       "coding": [
@@ -76,15 +76,15 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 367
+          "valueInteger": 334
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 2469
+          "valueInteger": 1842
         },
         {
           "url": "countedAt",
-          "valueDate": "2026-11-13"
+          "valueDate": "2026-11-15"
         }
       ]
     }

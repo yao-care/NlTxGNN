@@ -83,7 +83,19 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-De voor dit rapport samengestelde data bevatten één vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten). Het is een enkelvoudig product; de vergunning heeft de status "ingetrokken". Voor dit product is geen indicatietekst vastgelegd in de lokale gegevens. De lijst kan niet worden aangevuld met andere vergunningen.
+Volgens de actuele registratiegegevens van het CBG zijn er voor efavirenz meerdere geldige vergunningen (actuele aantallen in het snelle overzicht). De hier genoemde vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten, enkelvoudig product) komt niet voor in de actuele Geneesmiddeleninformatiebank (niet geregistreerd). Voor dit product is geen indicatietekst vastgelegd in de lokale gegevens.
+
+<!-- review:begin nl-lic-20261115-efavirenz-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De voor dit rapport samengestelde data bevatten één vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten). Het is een enkelvoudig product; de vergunning heeft de status "ingetrokken".” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-efavirenz-1 -->
+
+<!-- review:begin nl-lic-20261115-efavirenz-2 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De lijst kan niet worden aangevuld met andere vergunningen.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-efavirenz-2 -->
 
 ## Veiligheidsoverwegingen
 
@@ -102,6 +114,20 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veilighe
 - Gegevens over het werkingsmechanisme.
 - Een rationale voor een mogelijk gebruik buiten het huidige onderzoeksmodel, aangezien de indicatie experimenteel/veterinair is.
 - Controle van de SmPC van het product bij het CBG-MEB voor waarschuwingen en contra-indicaties.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-15 | “De voor dit rapport samengestelde data bevatten één vergunni” → “Volgens de actuele registratiegegevens van het CBG zijn er v” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | Verwijderd: “De lijst kan niet worden aangevuld met andere vergunningen.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

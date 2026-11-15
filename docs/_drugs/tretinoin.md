@@ -140,7 +140,13 @@ Daarnaast zijn er interacties met onbekend niveau gemeld, o.a. met calcitriol, p
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor reumatoïde nodulose berust uitsluitend op een computermodel (L5) zonder klinische studies of relevante publicaties. De geneesmiddelregistraties in Nederland zijn bovendien doorgehaald, en de veiligheidsgegevens uit de officiële productinformatie ontbreken.
+- De voorspelling voor reumatoïde nodulose berust uitsluitend op een computermodel (L5) zonder klinische studies of relevante publicaties. De veiligheidsgegevens uit de officiële productinformatie ontbreken bovendien.
+
+<!-- review:begin nl-lic-20261115-tretinoin-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De geneesmiddelregistraties in Nederland zijn bovendien doorgehaald, en de veiligheidsgegevens uit de officiële productinformatie ontbreken.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-tretinoin-1 -->
 
 **Om verder te gaan is nodig:**
 - Productinformatie (SmPC) van het CBG-MEB downloaden en analyseren voor waarschuwingen en contra-indicaties (blokkerende gegevensleemte)
@@ -160,6 +166,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 101711//20455: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële productinformatie on” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

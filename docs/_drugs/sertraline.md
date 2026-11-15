@@ -74,7 +74,13 @@ Er is geen publicatie gevonden die sertraline direct bij schizoïde persoonlijkh
 
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
-| RVG 120699//16292 (doorgehaald) | Zoloft 50 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
+| RVG 120699//16292 (niet geregistreerd) | Zoloft 50 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
+
+<!-- review:begin nl-lic-20261115-sertraline-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 120699//16292 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-sertraline-1 -->
 
 Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.
 
@@ -105,6 +111,18 @@ Daarnaast zijn er veel interacties van matig niveau, onder meer met acetylsalicy
 - Gecontroleerde klinische studies of ten minste systematische observationele data bij schizoïde persoonlijkheidsstoornis.
 - Veiligheidsgegevens uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties) voor een veiligheidsbeoordeling.
 - Een beoordeling van de balans tussen voordelen en risico's, gezien het uitblijven van aangetoonde werkzaamheid bij de kernsymptomen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-15 | “RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

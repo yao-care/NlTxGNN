@@ -107,7 +107,13 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het bewijs bestaat alleen uit een modelvoorspelling en één indirect overzichtsartikel, zonder klinische studies. De enige Nederlandse vergunning is bovendien doorgehaald. De veiligheidsinformatie van het CBG-MEB ontbreekt, waardoor een veiligheidsscreening nog niet mogelijk is.
+Het bewijs bestaat alleen uit een modelvoorspelling en één indirect overzichtsartikel, zonder klinische studies. Bovendien komt de enige bekende Nederlandse registratie niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd). De veiligheidsinformatie van het CBG-MEB ontbreekt, waardoor een veiligheidsscreening nog niet mogelijk is.
+
+<!-- review:begin nl-lic-20261115-ambroxol-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is bovendien doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-ambroxol-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De bijsluiter/SmPC van het CBG-MEB ophalen en verwerken (waarschuwingen en contra-indicaties)
@@ -130,6 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Nagaan of er een geldige registratie of een geschikte toedieningsvorm beschikbaar is in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 112356: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “De enige Nederlandse vergunning is bovendien doorgehaald.” → “Bovendien komt de enige bekende Nederlandse registratie niet” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

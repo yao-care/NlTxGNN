@@ -527,4 +527,5 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   正文跟新事實矛盾的 164 句以 `nl-lic-20261112-*` 刪除（多是「唯一的荷蘭許可已註銷」，現行其實有多張）；93 列 LLM 表格把不在現行登記的號碼寫成 geldig，以紀錄改成 niet geregistreerd。
   `scripts/license_sentence_fixes.json` 原本標 keep 的 96 句：88 句因本藥有現行登記改為刪除，其中 8 句是指表上那張（「Deze vergunning is doorgehaald」等）、那張確實不在現行登記，維持 keep；另 8 句的藥（ambroxol、lubiprostone、ranitidine、tiapride）現行 0 張，維持 keep。
   amylmetacresol、ethinylestradiol 兩筆 11-06 紀錄的錨點／留下的半句受影響，改錨或同 id 重發，前版存 history。
-- 現行 0 張的 10 頁，概覽狀態列由共用模板寫成「Niet in de handel (ingetrokken vergunningen: …)」（母目錄 check_drug_page.py 的 nl 模板），「ingetrokken」比 CBG 原文「Niet geregistreerd」強，待改模板。
+- 現行 0 張的 10 頁，概覽狀態列原由共用模板寫成「Niet in de handel (ingetrokken vergunningen: …)」，2026-11-12 母目錄 check_drug_page.py 的 nl 模板已改成「Niet in de handel (niet geregistreerd: n van n)」（照 CBG 原文）。
+- 2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（原文「Niet geregistreerd」），正文 28 處寫成 doorgehaald／ingetrokken，以 28 筆 `nl-lic-20261115-*` 更正：0 張的 4 頁（ambroxol、lubiprostone、ranitidine、tiapride，11-12 原標 keep 的 8 句）與指單張登記的句子照 CBG 原文改寫；有有效登記的藥說整體已撤回的句子（efavirenz、fexofenadine、arginine、tamsulosin、tretinoin、topotecan）刪除或改寫；8 列表格「(doorgehaald／ingetrokken)」改成「(niet geregistreerd)」。臨床試驗、撤稿論文的「ingetrokken」不動。

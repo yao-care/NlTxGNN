@@ -93,7 +93,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:end nl-lic-20261112-lubiprostone-1 -->
 
-De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald.
+De enige bekende Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
+
+<!-- review:begin nl-lic-20261115-lubiprostone-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “De enige vergunning in Nederland (CBG-MEB) heeft de status doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-lubiprostone-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -106,7 +112,13 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 **Besluit: Hold**
 
 **Onderbouwing:**
-- De voorspelling voor alopecia (en alle andere top-10-indicaties) is uitsluitend gebaseerd op het TxGNN-model, zonder klinische studies of publicaties (L5). Er is geen aannemelijke mechanistische link, en de enige Nederlandse vergunning is doorgehaald.
+- De voorspelling voor alopecia (en alle andere top-10-indicaties) is uitsluitend gebaseerd op het TxGNN-model, zonder klinische studies of publicaties (L5). Er is geen aannemelijke mechanistische link, en de enige bekende Nederlandse registratie komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- review:begin nl-lic-20261115-lubiprostone-2 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “en de enige Nederlandse vergunning is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-lubiprostone-2 -->
 
 **Om verder te gaan is het volgende nodig:**
 - De SmPC/bijsluiter van het CBG-MEB ophalen en analyseren voor waarschuwingen en contra-indicaties; dit ontbrak en blokkeert de veiligheidsscreening.
@@ -114,7 +126,13 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - Een systematische literatuur- en studieregistratiezoektocht uitvoeren naar lubiprostone bij alopecia.
 - Preklinisch of mechanistisch onderzoek dat een rol van ClC-2 of prostanoïdesignalering in haarfollikels aantoont.
 - De toedieningsroute en systemische beschikbaarheid beoordelen (lubiprostone wordt oraal gegeven en nauwelijks systemisch opgenomen).
-- De oorspronkelijke indicatie en de regulatoire status in Nederland verduidelijken, aangezien de vergunning is doorgehaald.
+- De oorspronkelijke indicatie en de regulatoire status in Nederland verduidelijken, aangezien de registratie niet voorkomt in de actuele Geneesmiddeleninformatiebank.
+
+<!-- review:begin nl-lic-20261115-lubiprostone-3 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “aangezien de vergunning is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-lubiprostone-3 -->
 
 <!-- review:begin log -->
 
@@ -125,6 +143,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 115891: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “De enige vergunning in Nederland (CBG-MEB) heeft de status d” → “De enige bekende Nederlandse registratie komt niet voor in d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “en de enige Nederlandse vergunning is doorgehaald.” → “en de enige bekende Nederlandse registratie komt niet voor i” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “aangezien de vergunning is doorgehaald.” → “aangezien de registratie niet voorkomt in de actuele Geneesm” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

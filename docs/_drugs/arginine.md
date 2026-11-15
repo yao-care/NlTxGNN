@@ -145,7 +145,13 @@ Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), z
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank
 - Beoordelen of de kennisgraaf-contra-indicaties (met name nierfunctiestoornissen en zuur-basestoornissen) relevant zijn voor de doelgroep met gastroparese
 - Humane gegevens verzamelen (bijvoorbeeld een pilotstudie of systematische search) naar de werkzaamheid van arginine bij gastroparese
-- Beoordelen of een geschikte toedieningsroute en formulering beschikbaar zijn, aangezien de bestaande producten parenterale voeding betreffen en doorgehaald zijn
+- Beoordelen of een geschikte toedieningsroute en formulering beschikbaar zijn, aangezien de bestaande producten parenterale voeding betreffen
+
+<!-- review:begin nl-lic-20261115-arginine-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “en doorgehaald zijn” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-arginine-1 -->
 
 <!-- review:begin log -->
 
@@ -158,6 +164,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-06 | Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113026: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | Verwijderd: “en doorgehaald zijn” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -99,7 +99,13 @@ De klinische onderbouwing is zwak. Er is geen fase 3-onderzoek of gerandomiseerd
 |---------|------|------|-----------|
 | RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml | Concentraat voor oplossing voor infusie | – |
 
-Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.
+Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.
+
+<!-- review:begin nl-lic-20261115-topotecan-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-topotecan-1 -->
 
 ---
 
@@ -144,6 +150,19 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie (CBG-
 - Een monitoringplan opstellen voor beenmergsuppressie en longtoxiciteit.
 
 *Opmerking: voor "adult germ cell tumor", de tweede voorspelde indicatie, is het bewijs sterker (niveau L2, fase 2-studies). Dat kan een logischer vervolgstap zijn dan borstkanker.*
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-15 | “Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -99,7 +99,13 @@ Veel van onderstaande publicaties gaan over andere middelen dan ranitidine (bijv
 
 <!-- review:end nl-lic-20261112-ranitidine-1 -->
 
-Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.
+Er is één registratie bekend; deze komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
+
+<!-- review:begin nl-lic-20261115-ranitidine-1 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Er is één vergunning bekend bij het CBG-MEB en deze is ingetrokken.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-ranitidine-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -123,7 +129,13 @@ Raadpleeg voor de volledige veiligheidsinformatie (waarschuwingen en contra-indi
 - Veiligheidsinformatie uit de SmPC en de bijsluiter van het CBG-MEB (waarschuwingen en contra-indicaties).
 - Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank.
 - Beoordeling van het directe klinische bewijs voor ranitidine zelf, apart van studies met andere middelen.
-- Besluit over de relevantie van de ingetrokken vergunning, bijvoorbeeld of herintroductie of een alternatieve H2-antagonist aan de orde is.
+- Besluit over de relevantie van de niet meer geregistreerde vergunning, bijvoorbeeld of herintroductie of een alternatieve H2-antagonist aan de orde is.
+
+<!-- review:begin nl-lic-20261115-ranitidine-2 -->
+
+> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Besluit over de relevantie van de ingetrokken vergunning,” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261115-ranitidine-2 -->
 
 <!-- review:begin log -->
 
@@ -135,6 +147,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Praktisch is het van belang dat ranitidine in Nederland alleen nog een ingetrokken vergunning heeft” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113857//13064: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “Er is één vergunning bekend bij het CBG-MEB en deze is inget” → “Er is één registratie bekend; deze komt niet voor in de actu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer geregistreerde v” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

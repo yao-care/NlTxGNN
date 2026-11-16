@@ -1,8 +1,202 @@
 {
-  "last_updated": "2026-11-16T04:36:51.914367+00:00",
-  "total_count": 3,
-  "matched_count": 0,
+  "last_updated": "2026-11-16T14:39:48.230292+00:00",
+  "total_count": 6,
+  "matched_count": 1,
   "news": [
+    {
+      "id": "c3391b4faf8a",
+      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil - De Telegraaf",
+      "published": "2026-11-16T13:57:52+00:00",
+      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWFoY1NVSURpNzJ4alJPQ1hfOUowM05PMkpITTFPZWphVUhiZE9aWVM2V2VlVXlzaDZQZTJqUXhrVjhrVGlnRmc1cmN4NXFxZXdOSEJ3aHNweU5wUnQtemhRUm1SXzE3Q0ladzQ4MWlFVWFyampiRnp3OW9FckRGY0hKTnZwSzFTS3hYUm5vOEZ5eUFIQWVDbHlfQUtPcmkzaXV4VXpYTzRJN0I1S00wc2xwaFd6MDhkZFJvSkpTMnFvZUo2ZzBtYjJsQVI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a20101bd0f68",
+      "title": "Helft 65-plussers krijgt te maken met costochondritis: ‘Geeft net als een hartaanval pijn op de borst’ - De Gelderlander",
+      "published": "2026-11-16T12:15:00+00:00",
+      "summary": "Helft 65-plussers krijgt te maken met costochondritis: ‘Geeft net als een hartaanval pijn op de borst’&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQmFLUkFWX090MWpNSkkxc1RfRGEybFJLRXRPQWNCYU5xUGJKYXZvczdoajZFVWkxNzY3d2F0Wjc3YWw5TkdNYVhEUzJtM3JuREVRMzBDSzBFNlJkdm1FYWVPMm5OYS03YkhoRFd6TGZRMzdMVVFkU0FCSDZyX1JIbC1aUG5HNkd6MURBcmZMWjg0NGVYTFRLbHl4QWIxUjZSa05fQUVrR2tEVXBZTVdkUXVuMkJyVUFSQXc1OXJIWDMwejVvWnlQR3hpd1dXNy1PXzZCeTM1eVJkSllP?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a103444e23a7",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool",
+      "published": "2026-11-16T06:55:51+00:00",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’&nbsp;&nbsp;Het ParoolMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Het Parool",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6700c8ca3e79",
       "title": "Diabetesbehandeling verschuift steeds meer van injecties naar pillen",
@@ -17,27 +211,27 @@
       "matched_keywords": []
     },
     {
-      "id": "40ed57756c56",
-      "title": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\"",
-      "published": "2026-11-14T09:18:00+00:00",
-      "summary": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\"&nbsp;&nbsp;Nieuwsblad",
+      "id": "5151a843ed0c",
+      "title": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies",
+      "published": "2026-11-14T15:30:00+00:00",
+      "summary": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeGQyODR6WWRQcFNuV25NRnB4OGpVdE5odGdYMDRlNWxNMWdpWjVDN3FJd0VVRUMxMDd0dEZ1Y0czZjdFVFlxT3VrRVJiVjVrYlF5dTZQdjJKNlNpbmp1MnVlbGN6YmZaY0E0akVZMk1acHhiSVFoVUc1bW9KWUNHMnRQN0paZy1yRGc2d0N3X0xPdXRxbG5hb21vc1hIeGNTbGVqcDMzUFBwRkFSTmhpX05BTTJEcFYxalhNMlNoTnZsOFpaNWZIa0pBaGpFbGpFdnJxNlk1TEJhZU9jOFZtcEtRSmMteTZ3YTNmclA0di0wSEVtR0dPV0c4dGdKT1Byejk5MWhfVkdzb2ln?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT0ZWS2Q5TFVKM3hCUklIQjRoVmdBWVRkcC1femlBdnlvUGNSc2p1X2xhRkRqdEptcGZHMEpQTEE0Z2tyeXN4ZUIxbTRDYjFqSWNMUVVGUnQtMGFOSkNkVDFnM3FkaWhmN2xhY1JzT0c5QS1fbHBLX3dpazZtVzRMQ2ZKOGZqbDZUVkFtdnJPT3ZpWUhBa3VrWnJxOUY3dEdpWG1oWU9kZkdlUjVQWE1qaWxQMEQ2aU5oWG1pYzBFUlJhVk1OMGhvRg?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d584154169b1",
-      "title": "Melissa (32) werd op spoed naar huis gestuurd, maar belandde in coma: wat kan je doen na een verkeerde medische diagnose?",
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "Melissa (32) werd op spoed naar huis gestuurd, maar belandde in coma: wat kan je doen na een verkeerde medische diagnose?&nbsp;&nbsp;HLN",
+      "id": "7510ebfde665",
+      "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen",
+      "published": "2026-11-14T09:42:03+00:00",
+      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSBeleid ter uitroeiing van mazelen: de sleutel tot Amerika.&nbsp;&nbsp;Vietnam.vnMazelen bereikt hoogste aantal gevallen in meer dan dertig jaar door dalende vaccinatiecijfers&nbsp;&nbsp;Headliner.nl",
       "sources": [
         {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSE1XaWYzanFZZjkwYVc4STY2RjNSaVp0bFhZSThjQXhNYTJyWXo4bW9tYkRlZWtEOUZZNFJQT2stZGNuajFybk9jamNUZlFUNzdzOGFKbUVaNERGSWVUY0Z3TkFTXy1aVnI5czJnWTR5MVM1Q1NsaVVIbllreFVxMkNyTGllb05YMGpxR1lvczBYRzZvNnljd2R0Vk93S0FIM3F0bkM4OTVXdFBCUVhneGU1RmpVWmZBZzZsWHFJSHItdTlPRjI4VzU4NVlsZ29JbWNiaGg4eXhKOEFQNWFoMjNrN2lVRVR6NjRsNg?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHU1ZWlHeW9Lb2RRcXpBTWlqd1FqSnlFSW5Cd2N0bl9jQWxtSGZpOWtVQ1B3MzFGVzFBXzhXcnQ1cC14SE5YRjFZa1R6QnFnR050VnpnQkxFZjdmcW0wSHJMVmZuOE9odk1PaTQ3SFZpZThGMnpKeDJjaERxbjRaS19YVlBOTEVHM0otWm03TEdKNHktSlJTRGJRN2VLdlpCaWtfTEFzT0pLd3p5cFpzY21fZE8xakdSdk8waWdESko?oc=5"
         }
       ],
       "matched_keywords": []

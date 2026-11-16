@@ -1,41 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-15T04:40:24.554299+00:00",
+  "fetched_at": "2026-11-15T22:26:31.067264+00:00",
   "count": 3,
   "news": [
     {
-      "id": "fca510404b65",
-      "title": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen - NU",
-      "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status 'mazelenvrij land': dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlDoor de toename van het aantal mazelengevallen verliest de VS de vooruitgang die het land heeft geboekt in de bestrijding van de ziekte.&nbsp;&nbsp;Vietnam.vn",
+      "id": "5d654f503728",
+      "title": "Studie toont werking van antidepressiva op lange termijn - - ggznieuws.nl",
+      "published": "2026-11-13T16:01:14+00:00",
+      "summary": "Studie toont werking van antidepressiva op lange termijn -&nbsp;&nbsp;ggznieuws.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVJSd3kycURQaDY5dWVNazZ4LTdZYzRTYWxkaG53WTVEam9haXlBb0FkbmZQX1UyTG04NWpuRVFDeXdfMVItMEZHWVJJaExRLVlNLVZFY2ZBQl9yRDIxY0EzS2Q2b2FqUGFvMWJvbmZQTFhJUGk5WEdldHZKSFVvaVVSZE1yRnpxQTNzYWNiREVKSG5xem1ja0VVWW9GdXBOTTRUVVQ5TEhOT09pQmc0ZDFYVUUyTDIyOHpz?oc=5"
+          "name": "ggznieuws.nl",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXV5cldfV2JId3IydHZVX01QOVhBa3NTdDNoSWN5ZHZaOG9wNnpnXzdJSWdhTEFKVXdFb1VQSlNSZTViRUpBaktfNG1LMW9LU0cxV2ZCN0lOcnFkWlhoM1RWVW9vaFM2UWpRcXhXVVp6VE5mUFVMNVQyWU1PdUlaVzNocmRDMkVETXc?oc=5"
         }
       ]
     },
     {
-      "id": "51b0e4a63514",
-      "title": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland - Almere DEZE WEEK",
-      "published": "2026-11-12T13:10:00+00:00",
-      "summary": "GGD waarschuwt voor uitbraak infectieziekten in Flevoland&nbsp;&nbsp;Almere DEZE WEEKAlmere gaat wijken in om meer kinderen te vaccineren&nbsp;&nbsp;1AlmereToenemend gevaar infectieziekten door minder inentingen&nbsp;&nbsp;Omroep Almere",
+      "id": "6700c8ca3e79",
+      "title": "Diabetesbehandeling verschuift steeds meer van injecties naar pillen - Starnieuws",
+      "published": "2026-11-15T06:03:00+00:00",
+      "summary": "Diabetesbehandeling verschuift steeds meer van injecties naar pillen&nbsp;&nbsp;Starnieuws",
       "sources": [
         {
-          "name": "Almere DEZE WEEK",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUlLamdtUTRpV09HcWtEMXBlM0FsR3FyMExrRFF5b29VbmgyNWlRWlMwRE1BQnV1bThidjlrazFlTXRGTTRiSEFiM2U1X2FNZ2ktbFVwRFlrbGxwT3N2Q2hvMGl3cXJwZ29EVDVRNkhscE0ydm4xR1l4NjNnU0hmd3pFSXBLT1RIa20xS3JXMFhhLWxVTTZ3VXZXbXA0aUVXbVZkTFp3RDYyV29hOUE?oc=5"
+          "name": "Starnieuws",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTGRGOHJ6dUw5TlVfTjNYaWNTdUtxUnpmdl9lal9lSW4tMXU2NERTZVZheXlCbWlnNV91YUpFNFJmeFFGVTZiTlZ1ME90ZlkwallDRmpMNUZpQTR6RUN3bE5ZbWhvcGN2a2lZdU5hamN6VUVhc2c?oc=5"
         }
       ]
     },
     {
-      "id": "40ed57756c56",
-      "title": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\" - Nieuwsblad",
-      "published": "2026-11-14T17:18:00+00:00",
-      "summary": "Auteur Lize Spit schrijft 25 jaar na diagnose brief aan diabetes: \"Ik weet niet meer hoe het leven was voor je kwam\"&nbsp;&nbsp;Nieuwsblad",
+      "id": "d584154169b1",
+      "title": "Melissa (32) werd op spoed naar huis gestuurd, maar belandde in coma: wat kan je doen na een verkeerde medische diagnose? - HLN",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "Melissa (32) werd op spoed naar huis gestuurd, maar belandde in coma: wat kan je doen na een verkeerde medische diagnose?&nbsp;&nbsp;HLN",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeGQyODR6WWRQcFNuV25NRnB4OGpVdE5odGdYMDRlNWxNMWdpWjVDN3FJd0VVRUMxMDd0dEZ1Y0czZjdFVFlxT3VrRVJiVjVrYlF5dTZQdjJKNlNpbmp1MnVlbGN6YmZaY0E0akVZMk1acHhiSVFoVUc1bW9KWUNHMnRQN0paZy1yRGc2d0N3X0xPdXRxbG5hb21vc1hIeGNTbGVqcDMzUFBwRkFSTmhpX05BTTJEcFYxalhNMlNoTnZsOFpaNWZIa0pBaGpFbGpFdnJxNlk1TEJhZU9jOFZtcEtRSmMteTZ3YTNmclA0di0wSEVtR0dPV0c4dGdKT1Byejk5MWhfVkdzb2ln?oc=5"
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSE1XaWYzanFZZjkwYVc4STY2RjNSaVp0bFhZSThjQXhNYTJyWXo4bW9tYkRlZWtEOUZZNFJQT2stZGNuajFybk9jamNUZlFUNzdzOGFKbUVaNERGSWVUY0Z3TkFTXy1aVnI5czJnWTR5MVM1Q1NsaVVIbllreFVxMkNyTGllb05YMGpxR1lvczBYRzZvNnljd2R0Vk93S0FIM3F0bkM4OTVXdFBCUVhneGU1RmpVWmZBZzZsWHFJSHItdTlPRjI4VzU4NVlsZ29JbWNiaGg4eXhKOEFQNWFoMjNrN2lVRVR6NjRsNg?oc=5"
         }
       ]
     }

@@ -529,3 +529,15 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   amylmetacresol、ethinylestradiol 兩筆 11-06 紀錄的錨點／留下的半句受影響，改錨或同 id 重發，前版存 history。
 - 現行 0 張的 10 頁，概覽狀態列原由共用模板寫成「Niet in de handel (ingetrokken vergunningen: …)」，2026-11-12 母目錄 check_drug_page.py 的 nl 模板已改成「Niet in de handel (niet geregistreerd: n van n)」（照 CBG 原文）。
 - 2026-11-15 正文許可證狀態再掃：本站事實層的 cancelled 全是 CBG 現行清單沒有的登記號（原文「Niet geregistreerd」），正文 28 處寫成 doorgehaald／ingetrokken，以 28 筆 `nl-lic-20261115-*` 更正：0 張的 4 頁（ambroxol、lubiprostone、ranitidine、tiapride，11-12 原標 keep 的 8 句）與指單張登記的句子照 CBG 原文改寫；有有效登記的藥說整體已撤回的句子（efavirenz、fexofenadine、arginine、tamsulosin、tretinoin、topotecan）刪除或改寫；8 列表格「(doorgehaald／ingetrokken)」改成「(niet geregistreerd)」。臨床試驗、撤稿論文的「ingetrokken」不動。
+
+## 新資料查不到的許可證（2026-11-17）
+
+2026-11-16 每週排程：證據包 8,514 張許可證有 309 張（331 筆紀錄）不在 CBG metadata.csv，涵蓋 96.4%，摘要列「查不到」。
+2026-11-17 用戶要求確認實際狀態：這 309 張（全是 RVG 號）就是 2026-11-12 依成分重建時已標 Niet geregistreerd（cbg_not_listed）的那批，
+2026-03 的 CBG 清單（data/raw/geneesmiddeleninformatiebank.csv）全部有、11 月 metadata.csv 全部沒有；CBG 產品頁
+（https://www.geneesmiddeleninformatiebank.nl/nl/rvg<號>）逐號查 309 張都寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」
+（含 2 張「X=Y」重複登記寫法的號，用 X 查）。CBG 沒有另一份現行登記清單（metadata.csv 已含 RVG、EU 集中許可、RVH、平行輸入），所以沒有「其實仍有效」的號；號碼寫法也沒有對不上的。
+- `scripts/license_adapter.py` 加 CURRENT／MIN_CURRENT（15,000）與 `confirmed_absent()`：metadata.csv 成功下載時，不在現行登記的 RVG／EU 號列為
+  「主管機關現行清單確認已不列」，不算「查不到」、不開 issue（母目錄 license_refresh 的掛鉤）。標註仍由排程先跑的 rebuild_licenses_by_ingredient.py 做，寫法不變（Niet geregistreerd，不寫撤銷）。
+- 頁面在 11-12、11-15 已照這批事實改過：排程重跑 0 筆狀態變動、0 頁要改；現行 0 張的 10 頁（abciximab、acarbose、ambroxol、chlordiazepoxide、cyclizine、didanosine、
+  lubiprostone、piroxicam、ranitidine、tiapride）依成分對 metadata.csv 確認沒有其他現行產品（cyclizine 只命中 Primatour＝chloorcyclizine，是別的藥）。

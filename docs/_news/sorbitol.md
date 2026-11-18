@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Sorbitol. 1 voorspelde indicaties."
 permalink: /news/sorbitol/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # Nieuws over Sorbitol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Sorbitol?">
-<strong>Sorbitol</strong> heeft momenteel <strong>1 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Sorbitol</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Sorbitol met het la
 <p><a href="{{ '/drugs/sorbitol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (1)
+## Gerelateerd nieuws (2)
 
 ### [Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - Brabants Dagblad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHNOTmhUbU1OSnNWTkpnZGV0VW9rdy1pX2NwWW13RlRjQUx2NXFsZ05NbHd6dm1EbXA2MWl6X1VMQ0hUdmt1ODZDa1lJQ3ZjdC0wNl9DUVdaMGhOOG9FTlZxbnZXTXo2RVFYVjE3SVZweU9IdTBVdjlNVlQtbWs1dTRGSEIwR3VjZ0dvb3dlTGtWQ29rMDJ2VlBSOUFLOVJTTEpHMWhvZ2dZVUdSVEFyMGttdXNycWVNNHRWTV80ZUYyaGpYN0IyWHA3SUxrYktGc09CbjhVakVTUQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [Brabants Dagblad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHNOTmhUbU1OSnNWTkpnZGV0VW9rdy1pX2NwWW13RlRjQUx2NXFsZ05NbHd6dm1EbXA2MWl6X1VMQ0hUdmt1ODZDa1lJQ3ZjdC0wNl9DUVdaMGhOOG9FTlZxbnZXTXo2RVFYVjE3SVZweU9IdTBVdjlNVlQtbWs1dTRGSEIwR3VjZ0dvb3dlTGtWQ29rMDJ2VlBSOUFLOVJTTEpHMWhvZ2dZVUdSVEFyMGttdXNycWVNNHRWTV80ZUYyaGpYN0IyWHA3SUxrYktGc09CbjhVakVTUQ?oc=5)
 
 ---
 

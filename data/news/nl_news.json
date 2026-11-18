@@ -1,53 +1,77 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-18T00:27:53.084412+00:00",
-  "count": 6,
+  "fetched_at": "2026-11-18T15:01:18.690923+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "d628a3cc146f",
-      "title": "VS verliezen status ‘mazelenvrij’ na grootschalige uitbraak - de Volkskrant",
-      "published": "2026-11-17T19:30:25+00:00",
-      "summary": "VS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Haarlems DagbladVS verliest status van mazelenvrij land na recordaantal besmettingen&nbsp;&nbsp;bnr.nlLIVE VS | Amerika verliest mazelenvrije status: ‘Trump en Kennedy tasten vertrouwen in vaccins aa",
+      "id": "a494fc216cf6",
+      "title": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid' - NU",
+      "published": "2026-11-18T09:44:33+00:00",
+      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUBacteriën in Nederland vaker ongevoelig voor antibiotica en dat is zorgelijk&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlBacteriën zijn vaker ongevoelig voor antibiotica, RIVM bezorgd&nbsp;&nbsp;Leidsch DagbladMeer resistente bacteriën in Nederland: goed omgaan met antibiotica belangrijk&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid",
       "sources": [
         {
-          "name": "de Volkskrant",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjNXTHhCdG9icHowcTkyZFFyR05ac0gzbWFsa255bGdsc1FSODJTXzZJSmVEY3NJd2pSbE1CMEFKbHY2UmdLQXBpSHg1WktxNVFIMkczSTZzT1cxeWxUN1hJanY4bV9PZ3I0bk5sM05ONllaUEIwWFo0UXlEbndrd01VNkRWc1R1NnlfbVdpbDFiVWdOZEtjelpmRXNjTmd5NVNVQlNmNA?oc=5"
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYm0wakxhbmt4aThDR3p0b1NQV0h4LTQ4Mi1wYmlpeEJaTG1pQmhTS0ROUUJ4bktpcGhsTFJ0Z1pRQnZYV21EUENsVERBMzhjckJKTlU2V1l0aFJPS3ZCZi1HTFFtcWotZGhsRUJJdk94Rzk2MUdGc0k2dzAwQ3pVX3d6V0xlazJCSXl1Y05UMUFIc3p1SkVXT0JkRWRiZU9TcnNkamFsY3NhSHozVDhjZmpkUS1JR1JHenNV?oc=5"
         }
       ]
     },
     {
-      "id": "820cae7357c6",
-      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil - Nieuwsblad",
-      "published": "2026-11-17T11:00:00+00:00",
-      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;Nieuwsblad",
+      "id": "cadf8eee4e92",
+      "title": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-11-17T21:54:03+00:00",
+      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Leidsch DagbladWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliezen hun status als land dat mazelen heeft uitgeroeid&nbsp;&nbsp;360 Magazine",
       "sources": [
         {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0EySkhObFhra3Z2LXNQTlJjYzZfOE1xYTNaX010dEZXRU1UbW1rdzZ4Q3pXeXE0bExqS24xZ0RyV0tZbFJaendaZ1hXdk5fYVI3Nnh4Z3hhMUtPMmtOX1BjYUl2cXBNQmJzS1lHUUlPMnlHR3E1b2dJa0tqcnl2Szh1dzB5OXkzazB2bFdjMGp1eGdMQmFoVjZyRWVKVHpuMkowSFlfZHZxVWtVNmtiTHM1TXUwdUo2Ql9MWnY3ZWU?oc=5"
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck5EZnlkVGhrbzE2LXdXNTRMZmgzandIT3o4M1ozQVVuRjNBaHpoUnFUNG0zRjNUY0FPWnR1dFZYbVB6elFWZUlXMzkzek83MHlOQVNCdURwX2FlX0FkUGF5OE5RSUJpTHVxYTlpd2xnSFFjZ0R1YWEzaDYweUhaSEFCdXNwM0NVa1NkU25pcUVkeVI1UmxKemk3ZU01SXhxaHBweDl0WmZJWHhUWmZEUTU2TjlEeFhIRHM2UERR?oc=5"
         }
       ]
     },
     {
-      "id": "a103444e23a7",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool",
-      "published": "2026-11-16T06:55:51+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’&nbsp;&nbsp;Het ParoolMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "Het Parool",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7ff61dcb6f7",
-      "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn wél de meest effectieve - AD.nl",
-      "published": "2026-11-11T07:00:00+00:00",
-      "summary": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn wél de meest effectieve&nbsp;&nbsp;AD.nlWelk antidepressivum je krijgt, maakt meer uit dan je denkt&nbsp;&nbsp;Scientias.nlRadboudumc maakt top drie van effectiefste antidepressiva, en Prozac valt buiten de boot&nbsp;&nbsp;De GelderlanderStudie toont werking van antidepressiva op lange termijn -&nbsp;&nbsp;ggznieuws.nlGroot onderzoek naar werking antidepressiva: verrassende uitkomst&nbsp;&nbsp;RTL.nl",
+      "id": "5f69e7e5f64f",
+      "title": "Helft 65-plussers krijgt te maken met costochondritis: ‘Geeft net als een hartaanval pijn op de borst’ - AD.nl",
+      "published": "2026-11-16T12:15:00+00:00",
+      "summary": "Helft 65-plussers krijgt te maken met costochondritis: ‘Geeft net als een hartaanval pijn op de borst’&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
           "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTAzcmZGeFcycGFPcDdGVVFoVDBPaFFBWlZWdU5mUkFuZ3Nvdk8xRTdnb2NzMHcwV1pWSW1hMGU0TFhaTEJhOGtXbXc5LXNLZ1Q0NWo4VW9WRVNsNUVHVXhfaGJjWWlVOVh0Q2VfR3pMZnFkUWxvUW5ld3ZHeWJYQ3lDeVJaeFBRcHlrLVN3YUIteFJ0Z1g1VVRaSkhQelJwZ3l5R3VtaERseFcyVGIxRG9fVjNuczRRN1p5MTFoTDcwVzRZSnFuSUxUSXVzZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOek1XUGhEanRyS1RFV3RsbkRqWHBPX09XaUd3aDZVS1FSZ0tJaTU0aUZNTGNaUDZIcDdzVi1XLURkWFVmcUpaTWRXYnhNOG1mVjNyTlV3QU5BaDNneENHWU5UUXhXTDR3NFUybTdYVGlEZEUzTTFNVXNYaFREc1FJUU50WlFRZWR0NjRRM0pTUkJWaENXSk9ES2pjRTlfZkgzcVhuN3UxNVI5WnREOWFWZTB2NWhXVHg0SjZUa0RjMjAzUEc0VmNNZXgyV2pEN1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7297a43286f",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - Brabants Dagblad",
+      "published": "2026-11-15T19:00:00+00:00",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;Brabants DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Brabants Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHNOTmhUbU1OSnNWTkpnZGV0VW9rdy1pX2NwWW13RlRjQUx2NXFsZ05NbHd6dm1EbXA2MWl6X1VMQ0hUdmt1ODZDa1lJQ3ZjdC0wNl9DUVdaMGhOOG9FTlZxbnZXTXo2RVFYVjE3SVZweU9IdTBVdjlNVlQtbWs1dTRGSEIwR3VjZ0dvb3dlTGtWQ29rMDJ2VlBSOUFLOVJTTEpHMWhvZ2dZVUdSVEFyMGttdXNycWVNNHRWTV80ZUYyaGpYN0IyWHA3SUxrYktGc09CbjhVakVTUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b5739bf024a",
+      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil - HBVL",
+      "published": "2026-11-17T11:00:00+00:00",
+      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;HBVL",
+      "sources": [
+        {
+          "name": "HBVL",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVAwa1k2M1JBQkpNY3VLOE1yaFI1N2pSX2IxTzgwOUl6NTVUR0h4VWtESV9GX0l1NVY3THZyNi1HOUVQb2h5V1BrUG9GcG1WcVMyVW1nT2lwZF94d05YQTFISmc4ckhUTHlPMEoyMHFmWWc5bWRUSVV3R2dCdm5qOU1xWmE4OHZXTmFCaThjOXI4VnVvU1RTYkc1WlVfUEZrSHVaZGc3V01JYThDT2xSSVYwZkFodGZh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f8b6c6a4832",
+      "title": "Welk antidepressivum je krijgt, maakt meer uit dan je denkt - Scientias.nl",
+      "published": "2026-11-11T18:00:37+00:00",
+      "summary": "Welk antidepressivum je krijgt, maakt meer uit dan je denkt&nbsp;&nbsp;Scientias.nlStudie toont werking van antidepressiva op lange termijn -&nbsp;&nbsp;ggznieuws.nlAntidepressiva kunnen ook op lange termijn terugval helpen voorkomen&nbsp;&nbsp;Nationale Zorggids‘Antidepressiva voorkomen ook terugval op de langere termijn’&nbsp;&nbsp;Pharmaceutisch Weekblad",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkdTaEVLNzZ5UW9DTFl1X0tTRW9zNnVPU2ViQzVFV2dpdFdCclFaeGxBaUVyZ0NCMkdJTTFRZGxUcGVGbkQ3cU1rMGhUdWlOMjdQUVlKVHdYZmhlOHJxVkl6S0xzQ3pTQVJrTG12X2JuT3ZkM05HVF8zOHhLZmtnbm9UNHZhTkk?oc=5"
         }
       ]
     },
@@ -60,6 +84,18 @@
         {
           "name": "Scientias.nl",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWVOVU03N1otaWZFMF9rUnBjLUlNTVMxN1ZJVUdhSTZSYUJjazZhZWtnWk5jUFlTMzVRMXR2ZGgwY1N6MWRWOFlFOWY1VDc4T08tSXRFb0J3ZHdaWDZiVDUwLVRHQS1yc2xqWnZBeHotb1JjczdKWHcwSnQ4eWNOTU55blY1dE1heWs4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37769b1f8783",
+      "title": "Minder hiv-diagnoses in België, maar nog steeds inspanningen nodig om epidemie te elimineren - De Standaard",
+      "published": "2026-11-18T14:29:20+00:00",
+      "summary": "Minder hiv-diagnoses in België, maar nog steeds inspanningen nodig om epidemie te elimineren&nbsp;&nbsp;De StandaardMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSzNaMlJzS2l2dXNOZUIwOEpLa1dpcTFQQnFiQmlQaDE4WUstNFV0Qy1ROEN5LTJ2cUJlVXpaU19hYWpfMm9zUWtOTUtHWEcwam0tOGdSSzJPbTlfNE5zcmd6U0ZwcXUwSlhXT2ZyN1dhbE5vTDl3c2xHc1NfN000S0F5S3AtcmxvZXZTRGxsUHlYTnFtajNzRmZuUVl4ZFlqSVdNTWZ3bGxjMElTMy1jOXplamwxVGRqNThpRWwwTzRpZTVNMFR1Y3RtYWRDTldydjlyTXBxZkQ4QQ?oc=5"
         }
       ]
     },

@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-18T15:01:18.690923+00:00",
+  "fetched_at": "2026-11-18T23:50:57.986372+00:00",
   "count": 9,
   "news": [
     {
       "id": "a494fc216cf6",
       "title": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid' - NU",
       "published": "2026-11-18T09:44:33+00:00",
-      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUBacteriën in Nederland vaker ongevoelig voor antibiotica en dat is zorgelijk&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlBacteriën zijn vaker ongevoelig voor antibiotica, RIVM bezorgd&nbsp;&nbsp;Leidsch DagbladMeer resistente bacteriën in Nederland: goed omgaan met antibiotica belangrijk&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid",
+      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlMeer resistente bacteriën in Nederland: goed omgaan met antibiotica belangrijk&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMZiekenhuisarts vraagt om spaarzamer te zijn met antibiotica: “We zien nu al regelmatig iemand met resistente infectie”&nbsp;&nbsp;NieuwsbladBacteriën zijn vaker o",
       "sources": [
         {
           "name": "NU",
@@ -19,7 +19,7 @@
       "id": "cadf8eee4e92",
       "title": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-11-17T21:54:03+00:00",
-      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Leidsch DagbladWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliezen hun status als land dat mazelen heeft uitgeroeid&nbsp;&nbsp;360 Magazine",
+      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Haarlems DagbladWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSZorgwekkend&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "f7297a43286f",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - Brabants Dagblad",
-      "published": "2026-11-15T19:00:00+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;Brabants DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "d5ab89b0fb7b",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",
+      "published": "2026-11-16T04:00:00+00:00",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "Brabants Dagblad",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHNOTmhUbU1OSnNWTkpnZGV0VW9rdy1pX2NwWW13RlRjQUx2NXFsZ05NbHd6dm1EbXA2MWl6X1VMQ0hUdmt1ODZDa1lJQ3ZjdC0wNl9DUVdaMGhOOG9FTlZxbnZXTXo2RVFYVjE3SVZweU9IdTBVdjlNVlQtbWs1dTRGSEIwR3VjZ0dvb3dlTGtWQ29rMDJ2VlBSOUFLOVJTTEpHMWhvZ2dZVUdSVEFyMGttdXNycWVNNHRWTV80ZUYyaGpYN0IyWHA3SUxrYktGc09CbjhVakVTUQ?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
         }
       ]
     },
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "8f8b6c6a4832",
-      "title": "Welk antidepressivum je krijgt, maakt meer uit dan je denkt - Scientias.nl",
-      "published": "2026-11-11T18:00:37+00:00",
-      "summary": "Welk antidepressivum je krijgt, maakt meer uit dan je denkt&nbsp;&nbsp;Scientias.nlStudie toont werking van antidepressiva op lange termijn -&nbsp;&nbsp;ggznieuws.nlAntidepressiva kunnen ook op lange termijn terugval helpen voorkomen&nbsp;&nbsp;Nationale Zorggids‘Antidepressiva voorkomen ook terugval op de langere termijn’&nbsp;&nbsp;Pharmaceutisch Weekblad",
+      "id": "4e2f5621f1fe",
+      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas - Artsenkrant",
+      "published": "2026-11-17T20:16:52+00:00",
+      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkdTaEVLNzZ5UW9DTFl1X0tTRW9zNnVPU2ViQzVFV2dpdFdCclFaeGxBaUVyZ0NCMkdJTTFRZGxUcGVGbkQ3cU1rMGhUdWlOMjdQUVlKVHdYZmhlOHJxVkl6S0xzQ3pTQVJrTG12X2JuT3ZkM05HVF8zOHhLZmtnbm9UNHZhTkk?oc=5"
+          "name": "Artsenkrant",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
         }
       ]
     },
@@ -90,8 +90,8 @@
     {
       "id": "37769b1f8783",
       "title": "Minder hiv-diagnoses in België, maar nog steeds inspanningen nodig om epidemie te elimineren - De Standaard",
-      "published": "2026-11-18T14:29:20+00:00",
-      "summary": "Minder hiv-diagnoses in België, maar nog steeds inspanningen nodig om epidemie te elimineren&nbsp;&nbsp;De StandaardMeer koppen en standpunten bekijken via Google Nieuws",
+      "published": "2026-11-18T15:41:00+00:00",
+      "summary": "Minder hiv-diagnoses in België, maar nog steeds inspanningen nodig om epidemie te elimineren&nbsp;&nbsp;De Standaard603 mensen kregen vorig jaar hiv-diagnose in België, 7 procent minder dan in 2024: \"Maar de epidemie blijft een uitdaging\"&nbsp;&nbsp;VRT603 mensen kregen vorig jaar hiv-diagnose in België: daling vooral bij mannen die seks hebben met mannen&nbsp;&nbsp;HLNHiv-diagnoses dalen licht, maar de epidemie blijft een uitdaging (Sciensano)&nbsp;&nbsp;ArtsenkrantAantal hiv-diagnoses in Belgi",
       "sources": [
         {
           "name": "De Standaard",

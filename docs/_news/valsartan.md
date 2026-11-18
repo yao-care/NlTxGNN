@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Valsartan?">
-<strong>Valsartan</strong> heeft momenteel <strong>2 nieuwsberichten</strong> en 6 voorspelde indicaties.
+<strong>Valsartan</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 6 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Valsartan met het l
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (2)
+## Gerelateerd nieuws (3)
 
 ### [Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
 
 ---
 

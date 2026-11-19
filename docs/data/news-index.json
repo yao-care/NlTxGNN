@@ -1,7 +1,32 @@
 {
-  "generated": "2026-11-19T05:47:03.833266+00:00",
-  "count": 3,
+  "generated": "2026-11-19T15:11:12.390740+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "3e15bdfb98b6",
+      "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen",
+      "published": "2026-11-18T17:00:05+00:00",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "alzheimer",
+          "related_drugs": [
+            {
+              "slug": "entacapone",
+              "name": "Entacapone",
+              "url": "/drugs/entacapone/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d5ab89b0fb7b",
       "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",

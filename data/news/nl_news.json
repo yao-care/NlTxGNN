@@ -1,6 +1,127 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-19T05:47:03.740605+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-11-19T15:11:12.313266+00:00",
+  "count": 10,
+  "news": [
+    {
+      "id": "ee3e83e3b5b3",
+      "title": "Jurre Geluk maakt zich zorgen over toename hiv-diagnoses - RTL.nl",
+      "published": "2026-11-19T12:14:11+00:00",
+      "summary": "Jurre Geluk maakt zich zorgen over toename hiv-diagnoses&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGlHUi1QTjNDUG5seUJ0a2o4UlVKcUdzTWhaczFYZTdJU1VJTnlFblFMRDZRZDhDM0ZiajV0ZExQb1JWZXc2aVllbzFuYi1yVFFEdFF5V3VJSUlETXNHWUUwcl9XVTN2SEtXVlg2bWJaSDkwTVdsMkJud09RYTdZYjZINlpJZ0VXTGFJcVF2aHpvbXZzZFJQb1puQ1E0VktU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a494fc216cf6",
+      "title": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid' - NU",
+      "published": "2026-11-18T09:44:33+00:00",
+      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlBacteriën zijn vaker ongevoelig voor antibiotica, RIVM bezorgd&nbsp;&nbsp;Noordhollands DagbladMeer resistente bacteriën in Nederland: goed omgaan met antibiotica belangrijk&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMZiekenhuisarts vraagt om spaarzamer te zijn met antibiotica: “We zi",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYm0wakxhbmt4aThDR3p0b1NQV0h4LTQ4Mi1wYmlpeEJaTG1pQmhTS0ROUUJ4bktpcGhsTFJ0Z1pRQnZYV21EUENsVERBMzhjckJKTlU2V1l0aFJPS3ZCZi1HTFFtcWotZGhsRUJJdk94Rzk2MUdGc0k2dzAwQ3pVX3d6V0xlazJCSXl1Y05UMUFIc3p1SkVXT0JkRWRiZU9TcnNkamFsY3NhSHozVDhjZmpkUS1JR1JHenNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cadf8eee4e92",
+      "title": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-11-17T21:54:03+00:00",
+      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Leidsch DagbladWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliezen hun status als land dat mazelen heeft uitgeroeid&nbsp;&nbsp;360 Magazine",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck5EZnlkVGhrbzE2LXdXNTRMZmgzandIT3o4M1ozQVVuRjNBaHpoUnFUNG0zRjNUY0FPWnR1dFZYbVB6elFWZUlXMzkzek83MHlOQVNCdURwX2FlX0FkUGF5OE5RSUJpTHVxYTlpd2xnSFFjZ0R1YWEzaDYweUhaSEFCdXNwM0NVa1NkU25pcUVkeVI1UmxKemk3ZU01SXhxaHBweDl0WmZJWHhUWmZEUTU2TjlEeFhIRHM2UERR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e15bdfb98b6",
+      "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen - RTL.nl",
+      "published": "2026-11-18T17:00:05+00:00",
+      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "820cae7357c6",
+      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil - Nieuwsblad",
+      "published": "2026-11-17T03:00:00+00:00",
+      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0EySkhObFhra3Z2LXNQTlJjYzZfOE1xYTNaX010dEZXRU1UbW1rdzZ4Q3pXeXE0bExqS24xZ0RyV0tZbFJaendaZ1hXdk5fYVI3Nnh4Z3hhMUtPMmtOX1BjYUl2cXBNQmJzS1lHUUlPMnlHR3E1b2dJa0tqcnl2Szh1dzB5OXkzazB2bFdjMGp1eGdMQmFoVjZyRWVKVHpuMkowSFlfZHZxVWtVNmtiTHM1TXUwdUo2Ql9MWnY3ZWU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5ab89b0fb7b",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",
+      "published": "2026-11-16T04:00:00+00:00",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "323eb0110e4f",
+      "title": "Het hart repareert zichzelf kapot. Onderzoekers lijken nu de noodrem te hebben gevonden - Scientias.nl",
+      "published": "2026-11-18T14:00:13+00:00",
+      "summary": "Het hart repareert zichzelf kapot. Onderzoekers lijken nu de noodrem te hebben gevonden&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1ZZaTB6U2I0V2pjT2xiTG4zUTVHUF9EdUgtWHFXV2NSMFNFWFBSaUk1eEZnNmh2Q0R1TXhKcnplT2JfMzJnVVJoY01MTkdCd1RWMk4yWl9MNmRKR2VSeGowdF9Oc3lkazN1WFR1VkxCUkprZGdXWDg5dVNtSFN4Y0hnWHFyUkNsVk90TUlhMkVIMGMtSlFreEJ1bDNaenBjOFh5djVxTzFfbFd0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e2f5621f1fe",
+      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas - Artsenkrant",
+      "published": "2026-11-17T20:16:52+00:00",
+      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
+      "sources": [
+        {
+          "name": "Artsenkrant",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb4f19b35952",
+      "title": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek - Scientias.nl",
+      "published": "2026-11-16T12:00:19+00:00",
+      "summary": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWVOVU03N1otaWZFMF9rUnBjLUlNTVMxN1ZJVUdhSTZSYUJjazZhZWtnWk5jUFlTMzVRMXR2ZGgwY1N6MWRWOFlFOWY1VDc4T08tSXRFb0J3ZHdaWDZiVDUwLVRHQS1yc2xqWnZBeHotb1JjczdKWHcwSnQ4eWNOTU55blY1dE1heWs4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bcf36e41f07",
+      "title": "Mama Ellen (46), papa Kurt (58) en zoontje Semm (9) zijn ‘familie Pomp’, want alle drie hebben ze diabetes: “Wij gaan niet gebukt onder de ziekte” - Nieuwsblad",
+      "published": "2026-11-17T03:00:00+00:00",
+      "summary": "Mama Ellen (46), papa Kurt (58) en zoontje Semm (9) zijn ‘familie Pomp’, want alle drie hebben ze diabetes: “Wij gaan niet gebukt onder de ziekte”&nbsp;&nbsp;Nieuwsblad",
+      "sources": [
+        {
+          "name": "Nieuwsblad",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSXhJZldYZURHUUdDdHFuOE9ROXR5UzE3NkxVRzd5bXhFVTNxbkZ4OGJOZV83bUZ6QkhnWFQtaEVIbGp2c0ExZVh3a00xWkQ4cXlzVUh4UDVBemgwbnlDRUQ3eEVsX3IwbTQwMFFzdXhjVlIwaWVwa3lPM1U3alNSRHhYc2V3QVRwV25fVGZWZXFlUmRuNnBxM3Y5SVJld1B1Xzh6R01UUmhtNEhLUHlPT1dQQlRfcG1OalJFakVrMFJaejdLWHpXZUZBemRQNEdILVBHeDJRbWxyckFvU2ctMXhWZFhEWDVSZzZXbjUzcjg5RjgwbnFjdktHMTlfSk5YTjBNQnlxdGZSLXBRcTRxaGppWQ?oc=5"
+        }
+      ]
+    }
+  ]
 }

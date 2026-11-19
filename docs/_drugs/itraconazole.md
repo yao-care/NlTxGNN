@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
-description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)"
 ---
 
 # Itraconazole

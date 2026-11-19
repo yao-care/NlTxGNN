@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-description: "Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). In Nederland, CBG-vergunningen: 30 (geldig: 30)"
 ---
 
 # Ramipril

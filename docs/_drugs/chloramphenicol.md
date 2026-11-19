@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-12
-description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
 # Chloramphenicol

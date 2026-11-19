@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
-description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 10 (geldig: 10)"
 ---
 
 # Oxazepam

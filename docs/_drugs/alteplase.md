@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-11-12
-description: "Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
 # Alteplase

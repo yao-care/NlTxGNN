@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
-description: "Pyridostigmine: voorspelde nieuwe indicatie Autoimmune disease of peripheral nervous system (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Pyridostigmine: voorspelde nieuwe indicatie Autoimmune disease of peripheral nervous system (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
 # Pyridostigmine

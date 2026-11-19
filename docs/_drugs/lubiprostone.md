@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-15
 monitor_inn: "lubiprostone"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
-description: "Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)"
 ---
 
 # Lubiprostone

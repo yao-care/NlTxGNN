@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 last_modified_at: 2026-11-12
-description: "Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
 # Donepezil

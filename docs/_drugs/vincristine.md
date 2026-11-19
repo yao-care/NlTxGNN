@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 last_modified_at: 2026-11-12
-description: "Vincristine: voorspelde nieuwe indicatie Vertebral anomalies and variable endocrine and T-cell dysfunction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Vincristine: voorspelde nieuwe indicatie Vertebral anomalies and variable endocrine and T-cell dysfunction (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
 ---
 
 # Vincristine

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)"
 ---
 
 # Oxybutynin

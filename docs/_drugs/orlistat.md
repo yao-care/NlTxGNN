@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
-description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
 ---
 
 # Orlistat

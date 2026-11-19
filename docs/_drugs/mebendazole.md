@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
-description: "Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)"
 ---
 
 # Mebendazole

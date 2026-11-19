@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
-description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)"
 ---
 
 # Bumetanide

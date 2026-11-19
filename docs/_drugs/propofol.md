@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 16 (geldig: 15)"
 ---
 
 # Propofol

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
-description: "Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 45 (geldig: 45)"
 ---
 
 # Tyrosine

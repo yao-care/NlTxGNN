@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)"
 ---
 
 # Ofloxacin

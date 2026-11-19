@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 11)"
 ---
 
 # Paclitaxel

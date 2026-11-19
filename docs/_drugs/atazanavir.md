@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 last_modified_at: 2026-11-12
-description: "Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 19 (geldig: 19)"
 ---
 
 # Atazanavir

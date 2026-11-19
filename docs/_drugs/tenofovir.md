@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "tenofovir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
 # Tenofovir

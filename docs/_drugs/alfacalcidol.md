@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 last_modified_at: 2026-11-12
-description: "Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 
 # Alfacalcidol

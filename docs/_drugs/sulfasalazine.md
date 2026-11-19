@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
-description: "Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
 # Sulfasalazine

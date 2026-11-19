@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)"
 ---
 
 # Terbutaline

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 last_modified_at: 2026-11-12
-description: "Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
 ---
 
 # Dexketoprofen

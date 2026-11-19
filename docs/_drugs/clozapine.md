@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 last_modified_at: 2026-11-12
-description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)"
 ---
 
 # Clozapine

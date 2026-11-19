@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
-description: "Isoleucine: voorspelde nieuwe indicatie Gastroparese (gastroparesis (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Isoleucine: voorspelde nieuwe indicatie Gastroparese (gastroparesis (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 54 (geldig: 53)"
 ---
 
 # Isoleucine

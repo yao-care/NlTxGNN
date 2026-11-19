@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). In Nederland, CBG-vergunningen: 75 (geldig: 75)"
 ---
 
 # Levetiracetam

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
 last_modified_at: 2026-11-12
-description: "Chlordiazepoxide: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Chlordiazepoxide: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)"
 ---
 
 # Chlordiazepoxide

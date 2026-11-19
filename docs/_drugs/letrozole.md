@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-description: "Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 
 # Letrozole

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). In Nederland, CBG-vergunningen: 76 (geldig: 73)"
 ---
 
 # Simvastatin

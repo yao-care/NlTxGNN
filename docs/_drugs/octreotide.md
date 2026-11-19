@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 27 (geldig: 27)"
 ---
 
 # Octreotide

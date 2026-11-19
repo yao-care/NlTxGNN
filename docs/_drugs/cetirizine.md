@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 last_modified_at: 2026-11-12
-description: "Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 26 (geldig: 26)"
 ---
 
 # Cetirizine

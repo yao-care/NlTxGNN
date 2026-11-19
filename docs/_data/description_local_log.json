@@ -1,0 +1,2419 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。",
+  "pages": {
+    "abacavir": {
+      "tail": "In Nederland, CBG-vergunningen: 17 (geldig: 16)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "acarbose": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "acenocoumarol": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 2)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "acetylcysteine": {
+      "tail": "In Nederland, CBG-vergunningen: 52 (geldig: 52)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "adenosine": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "albendazole": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "alfacalcidol": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "alitretinoin": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "allopurinol": {
+      "tail": "In Nederland, CBG-vergunningen: 24 (geldig: 23)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "alprazolam": {
+      "tail": "In Nederland, CBG-vergunningen: 24 (geldig: 23)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "alprostadil": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "alteplase": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "amantadine": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "amlodipine": {
+      "tail": "In Nederland, CBG-vergunningen: 217 (geldig: 217)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ammonia": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 2)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "amoxicillin": {
+      "tail": "In Nederland, CBG-vergunningen: 98 (geldig: 97)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "anastrozole": {
+      "tail": "In Nederland, CBG-vergunningen: 13 (geldig: 12)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "articaine": {
+      "tail": "In Nederland, CBG-vergunningen: 13 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "atazanavir": {
+      "tail": "In Nederland, CBG-vergunningen: 19 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "atenolol": {
+      "tail": "In Nederland, CBG-vergunningen: 21 (geldig: 21)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "atomoxetine": {
+      "tail": "In Nederland, CBG-vergunningen: 43 (geldig: 42)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "atorvastatin": {
+      "tail": "In Nederland, CBG-vergunningen: 213 (geldig: 212)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "atosiban": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "benzydamine": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "benzylpenicillin": {
+      "tail": "In Nederland, CBG-vergunningen: 24 (geldig: 23)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "betamethasone": {
+      "tail": "In Nederland, CBG-vergunningen: 31 (geldig: 30)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "bicalutamide": {
+      "tail": "In Nederland, CBG-vergunningen: 14 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "bisoprolol": {
+      "tail": "In Nederland, CBG-vergunningen: 63 (geldig: 58)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "bleomycin": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "budesonide": {
+      "tail": "In Nederland, CBG-vergunningen: 68 (geldig: 67)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "bumetanide": {
+      "tail": "In Nederland, CBG-vergunningen: 14 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "buprenorphine": {
+      "tail": "In Nederland, CBG-vergunningen: 62 (geldig: 62)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "calcitriol": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "captopril": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "carboplatin": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "carvedilol": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 34)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cefuroxime": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 20)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cetirizine": {
+      "tail": "In Nederland, CBG-vergunningen: 26 (geldig: 26)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "chlorambucil": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "chloramphenicol": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "chlordiazepoxide": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "chlorthalidone": {
+      "tail": "In Nederland, CBG-vergunningen: 18 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cilastatin": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cimetidine": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "citalopram": {
+      "tail": "In Nederland, CBG-vergunningen: 40 (geldig: 39)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clarithromycin": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clonazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clonidine": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clopidogrel": {
+      "tail": "In Nederland, CBG-vergunningen: 26 (geldig: 26)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clotrimazole": {
+      "tail": "In Nederland, CBG-vergunningen: 25 (geldig: 24)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "clozapine": {
+      "tail": "In Nederland, CBG-vergunningen: 47 (geldig: 46)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cyanocobalamin": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cyclizine": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cyclopentolate": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "cytarabine": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "desloratadine": {
+      "tail": "In Nederland, CBG-vergunningen: 22 (geldig: 21)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "desmopressin": {
+      "tail": "In Nederland, CBG-vergunningen: 41 (geldig: 40)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "dexamethasone": {
+      "tail": "In Nederland, CBG-vergunningen: 40 (geldig: 37)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "dexketoprofen": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "diazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 28 (geldig: 28)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "diclofenac": {
+      "tail": "In Nederland, CBG-vergunningen: 69 (geldig: 66)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "didanosine": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "dienogest": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 20)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "digoxin": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "dipyridamole": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "donepezil": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "dorzolamide": {
+      "tail": "In Nederland, CBG-vergunningen: 23 (geldig: 18)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "doxorubicin": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "droperidol": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ebastine": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "eletriptan": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 9)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "entacapone": {
+      "tail": "In Nederland, CBG-vergunningen: 38 (geldig: 38)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "epinephrine": {
+      "tail": "In Nederland, CBG-vergunningen: 52 (geldig: 51)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "epirubicin": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "esketamine": {
+      "tail": "In Nederland, CBG-vergunningen: 15 (geldig: 14)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "etoricoxib": {
+      "tail": "In Nederland, CBG-vergunningen: 47 (geldig: 46)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "everolimus": {
+      "tail": "In Nederland, CBG-vergunningen: 60 (geldig: 59)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "felbamate": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "flecainide": {
+      "tail": "In Nederland, CBG-vergunningen: 33 (geldig: 32)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "flunitrazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "fluorometholone": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "fluoxetine": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 9)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "fluvastatin": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 9)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "fosfomycin": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "fosinopril": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "galantamine": {
+      "tail": "In Nederland, CBG-vergunningen: 16 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "gemcitabine": {
+      "tail": "In Nederland, CBG-vergunningen: 22 (geldig: 22)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "glucagon": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "goserelin": {
+      "tail": "In Nederland, CBG-vergunningen: 23 (geldig: 22)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "hyaluronidase": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "hydrocortisone": {
+      "tail": "In Nederland, CBG-vergunningen: 65 (geldig: 63)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "hydromorphone": {
+      "tail": "In Nederland, CBG-vergunningen: 16 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "iloprost": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "indomethacin": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "irbesartan": {
+      "tail": "In Nederland, CBG-vergunningen: 71 (geldig: 70)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "isoleucine": {
+      "tail": "In Nederland, CBG-vergunningen: 54 (geldig: 53)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "itraconazole": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ivermectin": {
+      "tail": "In Nederland, CBG-vergunningen: 17 (geldig: 17)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ketoconazole": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "labetalol": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lactulose": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lanreotide": {
+      "tail": "In Nederland, CBG-vergunningen: 23 (geldig: 22)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lansoprazole": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "latanoprost": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 34)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "leflunomide": {
+      "tail": "In Nederland, CBG-vergunningen: 15 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "letrozole": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "levetiracetam": {
+      "tail": "In Nederland, CBG-vergunningen: 75 (geldig: 75)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "levobupivacaine": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "levocetirizine": {
+      "tail": "In Nederland, CBG-vergunningen: 14 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "levonorgestrel": {
+      "tail": "In Nederland, CBG-vergunningen: 47 (geldig: 46)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "liothyronine": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "loperamide": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 31)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lorazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 38 (geldig: 38)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lormetazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "losartan": {
+      "tail": "In Nederland, CBG-vergunningen: 67 (geldig: 64)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "lubiprostone": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "mebendazole": {
+      "tail": "In Nederland, CBG-vergunningen: 13 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "meloxicam": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "mesalazine": {
+      "tail": "In Nederland, CBG-vergunningen: 78 (geldig: 77)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "metformin": {
+      "tail": "In Nederland, CBG-vergunningen: 123 (geldig: 120)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "methotrexate": {
+      "tail": "In Nederland, CBG-vergunningen: 134 (geldig: 133)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "methylphenidate": {
+      "tail": "In Nederland, CBG-vergunningen: 105 (geldig: 104)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "methylprednisolone": {
+      "tail": "In Nederland, CBG-vergunningen: 12 (geldig: 11)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "metronidazole": {
+      "tail": "In Nederland, CBG-vergunningen: 17 (geldig: 16)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "miconazole": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "midazolam": {
+      "tail": "In Nederland, CBG-vergunningen: 37 (geldig: 36)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "minoxidil": {
+      "tail": "In Nederland, CBG-vergunningen: 14 (geldig: 13)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "misoprostol": {
+      "tail": "In Nederland, CBG-vergunningen: 15 (geldig: 14)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "modafinil": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "montelukast": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 33)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "moxifloxacin": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "naproxen": {
+      "tail": "In Nederland, CBG-vergunningen: 48 (geldig: 48)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "naratriptan": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "nebivolol": {
+      "tail": "In Nederland, CBG-vergunningen: 23 (geldig: 23)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "nitrazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "nystatin": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "octreotide": {
+      "tail": "In Nederland, CBG-vergunningen: 27 (geldig: 27)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ofloxacin": {
+      "tail": "In Nederland, CBG-vergunningen: 16 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "omeprazole": {
+      "tail": "In Nederland, CBG-vergunningen: 84 (geldig: 83)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "orlistat": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxaliplatin": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 5)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxazepam": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxcarbazepine": {
+      "tail": "In Nederland, CBG-vergunningen: 25 (geldig: 24)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxybutynin": {
+      "tail": "In Nederland, CBG-vergunningen: 17 (geldig: 17)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxymetazoline": {
+      "tail": "In Nederland, CBG-vergunningen: 10 (geldig: 9)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "oxytetracycline": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "paclitaxel": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 11)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pantoprazole": {
+      "tail": "In Nederland, CBG-vergunningen: 50 (geldig: 49)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "perindopril": {
+      "tail": "In Nederland, CBG-vergunningen: 124 (geldig: 114)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "phenylephrine": {
+      "tail": "In Nederland, CBG-vergunningen: 15 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pimecrolimus": {
+      "tail": "In Nederland, CBG-vergunningen: 2 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pimozide": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pioglitazone": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "piroxicam": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "polymyxin_b": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pravastatin": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 34)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "prednisolone": {
+      "tail": "In Nederland, CBG-vergunningen: 21 (geldig: 21)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "prilocaine": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "primidone": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 2)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "progesterone": {
+      "tail": "In Nederland, CBG-vergunningen: 18 (geldig: 17)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "propofol": {
+      "tail": "In Nederland, CBG-vergunningen: 16 (geldig: 15)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "propranolol": {
+      "tail": "In Nederland, CBG-vergunningen: 15 (geldig: 14)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "pyridostigmine": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ramipril": {
+      "tail": "In Nederland, CBG-vergunningen: 30 (geldig: 30)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ranitidine": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "rifampicin": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "rifaximin": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ritonavir": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "ropinirole": {
+      "tail": "In Nederland, CBG-vergunningen: 45 (geldig: 45)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "salbutamol": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 33)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "sertraline": {
+      "tail": "In Nederland, CBG-vergunningen: 34 (geldig: 33)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "simvastatin": {
+      "tail": "In Nederland, CBG-vergunningen: 76 (geldig: 73)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "sotalol": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 9)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "sulfasalazine": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "telmisartan": {
+      "tail": "In Nederland, CBG-vergunningen: 73 (geldig: 72)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "temozolomide": {
+      "tail": "In Nederland, CBG-vergunningen: 58 (geldig: 58)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tenofovir": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "terbutaline": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 2)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tetracaine": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "thiopental": {
+      "tail": "In Nederland, CBG-vergunningen: 4 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tiapride": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 0)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tizanidine": {
+      "tail": "In Nederland, CBG-vergunningen: 17 (geldig: 16)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tobramycin": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 16)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tolperisone": {
+      "tail": "In Nederland, CBG-vergunningen: 5 (geldig: 4)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "topotecan": {
+      "tail": "In Nederland, CBG-vergunningen: 8 (geldig: 7)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "travoprost": {
+      "tail": "In Nederland, CBG-vergunningen: 21 (geldig: 21)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "trazodone": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 10)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tretinoin": {
+      "tail": "In Nederland, CBG-vergunningen: 7 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tryptophan": {
+      "tail": "In Nederland, CBG-vergunningen: 58 (geldig: 57)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "tyrosine": {
+      "tail": "In Nederland, CBG-vergunningen: 45 (geldig: 45)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "urofollitropin": {
+      "tail": "In Nederland, CBG-vergunningen: 6 (geldig: 6)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "valine": {
+      "tail": "In Nederland, CBG-vergunningen: 53 (geldig: 53)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "valsartan": {
+      "tail": "In Nederland, CBG-vergunningen: 234 (geldig: 234)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "vancomycin": {
+      "tail": "In Nederland, CBG-vergunningen: 19 (geldig: 18)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "verapamil": {
+      "tail": "In Nederland, CBG-vergunningen: 20 (geldig: 19)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "vinblastine": {
+      "tail": "In Nederland, CBG-vergunningen: 1 (geldig: 1)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "vincristine": {
+      "tail": "In Nederland, CBG-vergunningen: 3 (geldig: 3)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "xylometazoline": {
+      "tail": "In Nederland, CBG-vergunningen: 99 (geldig: 97)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "zidovudine": {
+      "tail": "In Nederland, CBG-vergunningen: 11 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "zolmitriptan": {
+      "tail": "In Nederland, CBG-vergunningen: 28 (geldig: 28)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    },
+    "zonisamide": {
+      "tail": "In Nederland, CBG-vergunningen: 9 (geldig: 8)",
+      "original": "Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens",
+      "date": "2026-11-19"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/abacavir.md",
+      "date": "2026-11-19",
+      "from": "\"Abacavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Abacavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acarbose.md",
+      "date": "2026-11-19",
+      "from": "\"Acarbose: voorspelde nieuwe indicatie Focaal stiff-limb-syndroom (focal stiff limb syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Acarbose: voorspelde nieuwe indicatie Focaal stiff-limb-syndroom (focal stiff limb syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acenocoumarol.md",
+      "date": "2026-11-19",
+      "from": "\"Acenocoumarol: voorspelde nieuwe indicatie Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Acenocoumarol: voorspelde nieuwe indicatie Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acetylcysteine.md",
+      "date": "2026-11-19",
+      "from": "\"Acetylcysteine: voorspelde nieuwe indicatie trombotische aandoening (thrombotic disease) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Acetylcysteine: voorspelde nieuwe indicatie trombotische aandoening (thrombotic disease) (bewijsniveau L2). In Nederland, CBG-vergunningen: 52 (geldig: 52)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/adenosine.md",
+      "date": "2026-11-19",
+      "from": "\"Adenosine: voorspelde nieuwe indicatie Verouderde bundeltakblok (obsolete bundle branch block) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Adenosine: voorspelde nieuwe indicatie Verouderde bundeltakblok (obsolete bundle branch block) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/albendazole.md",
+      "date": "2026-11-19",
+      "from": "\"Albendazole: voorspelde nieuwe indicatie Coenurose (coenurosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Albendazole: voorspelde nieuwe indicatie Coenurose (coenurosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alfacalcidol.md",
+      "date": "2026-11-19",
+      "from": "\"Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alitretinoin.md",
+      "date": "2026-11-19",
+      "from": "\"Alitretinoin: voorspelde nieuwe indicatie Amenorroe (amenorrhea) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Alitretinoin: voorspelde nieuwe indicatie Amenorroe (amenorrhea) (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/allopurinol.md",
+      "date": "2026-11-19",
+      "from": "\"Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (hepatic porphyria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (hepatic porphyria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alprazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 24 (geldig: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alprostadil.md",
+      "date": "2026-11-19",
+      "from": "\"Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alteplase.md",
+      "date": "2026-11-19",
+      "from": "\"Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amantadine.md",
+      "date": "2026-11-19",
+      "from": "\"Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encephalitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encephalitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amlodipine.md",
+      "date": "2026-11-19",
+      "from": "\"Amlodipine: voorspelde nieuwe indicatie Hersenstaminfarct (brain stem infarction) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Amlodipine: voorspelde nieuwe indicatie Hersenstaminfarct (brain stem infarction) (bewijsniveau L5). In Nederland, CBG-vergunningen: 217 (geldig: 217)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ammonia.md",
+      "date": "2026-11-19",
+      "from": "\"Ammonia: voorspelde nieuwe indicatie acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ammonia: voorspelde nieuwe indicatie acrodermatitis chronica atrophicans (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amoxicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Amoxicillin: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Amoxicillin: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 98 (geldig: 97)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/anastrozole.md",
+      "date": "2026-11-19",
+      "from": "\"Anastrozole: voorspelde nieuwe indicatie neuroblastoom (neuroblastoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Anastrozole: voorspelde nieuwe indicatie neuroblastoom (neuroblastoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/articaine.md",
+      "date": "2026-11-19",
+      "from": "\"Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atazanavir.md",
+      "date": "2026-11-19",
+      "from": "\"Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Atazanavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 19 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atenolol.md",
+      "date": "2026-11-19",
+      "from": "\"Atenolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Atenolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 21 (geldig: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atomoxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 43 (geldig: 42)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atorvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Atorvastatin: voorspelde nieuwe indicatie HIV-infectie (HIV infectious disease) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Atorvastatin: voorspelde nieuwe indicatie HIV-infectie (HIV infectious disease) (bewijsniveau L2). In Nederland, CBG-vergunningen: 213 (geldig: 212)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atosiban.md",
+      "date": "2026-11-19",
+      "from": "\"Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/benzydamine.md",
+      "date": "2026-11-19",
+      "from": "\"Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/benzylpenicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/betamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Betamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Betamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L4). In Nederland, CBG-vergunningen: 31 (geldig: 30)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bicalutamide.md",
+      "date": "2026-11-19",
+      "from": "\"Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 14 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bisoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Bisoprolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Bisoprolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 63 (geldig: 58)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bleomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/budesonide.md",
+      "date": "2026-11-19",
+      "from": "\"Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). In Nederland, CBG-vergunningen: 68 (geldig: 67)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bumetanide.md",
+      "date": "2026-11-19",
+      "from": "\"Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/buprenorphine.md",
+      "date": "2026-11-19",
+      "from": "\"Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (acute intermittent porphyria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (acute intermittent porphyria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 62 (geldig: 62)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/calcitriol.md",
+      "date": "2026-11-19",
+      "from": "\"Calcitriol: voorspelde nieuwe indicatie Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Calcitriol: voorspelde nieuwe indicatie Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/captopril.md",
+      "date": "2026-11-19",
+      "from": "\"Captopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Captopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carboplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carvedilol.md",
+      "date": "2026-11-19",
+      "from": "\"Carvedilol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Carvedilol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 34)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cefuroxime.md",
+      "date": "2026-11-19",
+      "from": "\"Cefuroxime: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cefuroxime: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cetirizine.md",
+      "date": "2026-11-19",
+      "from": "\"Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 26 (geldig: 26)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorambucil.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorambucil: voorspelde nieuwe indicatie ALK-positive large B-cell lymphoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Chlorambucil: voorspelde nieuwe indicatie ALK-positive large B-cell lymphoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chloramphenicol.md",
+      "date": "2026-11-19",
+      "from": "\"Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlordiazepoxide.md",
+      "date": "2026-11-19",
+      "from": "\"Chlordiazepoxide: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Chlordiazepoxide: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorthalidone.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorthalidone: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Chlorthalidone: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 18 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cilastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L3). In Nederland, CBG-vergunningen: 8 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cimetidine.md",
+      "date": "2026-11-19",
+      "from": "\"Cimetidine: voorspelde nieuwe indicatie Maagzweerperforatie (peptic ulcer perforation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cimetidine: voorspelde nieuwe indicatie Maagzweerperforatie (peptic ulcer perforation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/citalopram.md",
+      "date": "2026-11-19",
+      "from": "\"Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 40 (geldig: 39)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clarithromycin.md",
+      "date": "2026-11-19",
+      "from": "\"Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). In Nederland, CBG-vergunningen: 9 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonidine.md",
+      "date": "2026-11-19",
+      "from": "\"Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clopidogrel.md",
+      "date": "2026-11-19",
+      "from": "\"Clopidogrel: voorspelde nieuwe indicatie Migraine met hersenstamaura (migraine with brainstem aura) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clopidogrel: voorspelde nieuwe indicatie Migraine met hersenstamaura (migraine with brainstem aura) (bewijsniveau L5). In Nederland, CBG-vergunningen: 26 (geldig: 26)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clotrimazole.md",
+      "date": "2026-11-19",
+      "from": "\"Clotrimazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clotrimazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 25 (geldig: 24)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clozapine.md",
+      "date": "2026-11-19",
+      "from": "\"Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cyanocobalamin.md",
+      "date": "2026-11-19",
+      "from": "\"Cyanocobalamin: voorspelde nieuwe indicatie biotinemetabole ziekte (biotin metabolic disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cyanocobalamin: voorspelde nieuwe indicatie biotinemetabole ziekte (biotin metabolic disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cyclizine.md",
+      "date": "2026-11-19",
+      "from": "\"Cyclizine: voorspelde nieuwe indicatie Allergische urticaria (allergic urticaria) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cyclizine: voorspelde nieuwe indicatie Allergische urticaria (allergic urticaria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cyclopentolate.md",
+      "date": "2026-11-19",
+      "from": "\"Cyclopentolate: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cyclopentolate: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cytarabine.md",
+      "date": "2026-11-19",
+      "from": "\"Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (small cell lung carcinoma) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (small cell lung carcinoma) (bewijsniveau L3). In Nederland, CBG-vergunningen: 6 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/desloratadine.md",
+      "date": "2026-11-19",
+      "from": "\"Desloratadine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Desloratadine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 22 (geldig: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/desmopressin.md",
+      "date": "2026-11-19",
+      "from": "\"Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 41 (geldig: 40)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dexamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). In Nederland, CBG-vergunningen: 40 (geldig: 37)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dexketoprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Diazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Diazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 28 (geldig: 28)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diclofenac.md",
+      "date": "2026-11-19",
+      "from": "\"Diclofenac: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Diclofenac: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 69 (geldig: 66)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/didanosine.md",
+      "date": "2026-11-19",
+      "from": "\"Didanosine: voorspelde nieuwe indicatie feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Didanosine: voorspelde nieuwe indicatie feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dienogest.md",
+      "date": "2026-11-19",
+      "from": "\"Dienogest: voorspelde nieuwe indicatie amenorroe (amenorrhea) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Dienogest: voorspelde nieuwe indicatie amenorroe (amenorrhea) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/digoxin.md",
+      "date": "2026-11-19",
+      "from": "\"Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dipyridamole.md",
+      "date": "2026-11-19",
+      "from": "\"Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/donepezil.md",
+      "date": "2026-11-19",
+      "from": "\"Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dorzolamide.md",
+      "date": "2026-11-19",
+      "from": "\"Dorzolamide: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Dorzolamide: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/doxorubicin.md",
+      "date": "2026-11-19",
+      "from": "\"Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (Ewing sarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (Ewing sarcoma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/droperidol.md",
+      "date": "2026-11-19",
+      "from": "\"Droperidol: voorspelde nieuwe indicatie Gilles-de-la-Tourettesyndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Droperidol: voorspelde nieuwe indicatie Gilles-de-la-Tourettesyndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ebastine.md",
+      "date": "2026-11-19",
+      "from": "\"Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/eletriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/entacapone.md",
+      "date": "2026-11-19",
+      "from": "\"Entacapone: voorspelde nieuwe indicatie PLA2G6-geassocieerde neurodegeneratie (PLA2G6-associated neurodegeneration) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Entacapone: voorspelde nieuwe indicatie PLA2G6-geassocieerde neurodegeneratie (PLA2G6-associated neurodegeneration) (bewijsniveau L5). In Nederland, CBG-vergunningen: 38 (geldig: 38)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/epinephrine.md",
+      "date": "2026-11-19",
+      "from": "\"Epinephrine: voorspelde nieuwe indicatie Obstructieve longziekte (obstructive lung disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Epinephrine: voorspelde nieuwe indicatie Obstructieve longziekte (obstructive lung disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 52 (geldig: 51)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/epirubicin.md",
+      "date": "2026-11-19",
+      "from": "\"Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/esketamine.md",
+      "date": "2026-11-19",
+      "from": "\"Esketamine: voorspelde nieuwe indicatie agorafobie (agoraphobia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Esketamine: voorspelde nieuwe indicatie agorafobie (agoraphobia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etoricoxib.md",
+      "date": "2026-11-19",
+      "from": "\"Etoricoxib: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Etoricoxib: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 47 (geldig: 46)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/everolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 60 (geldig: 59)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/felbamate.md",
+      "date": "2026-11-19",
+      "from": "\"Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flecainide.md",
+      "date": "2026-11-19",
+      "from": "\"Flecainide: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Flecainide: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 33 (geldig: 32)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flunitrazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Flunitrazepam: voorspelde nieuwe indicatie Migraine disorder (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Flunitrazepam: voorspelde nieuwe indicatie Migraine disorder (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluorometholone.md",
+      "date": "2026-11-19",
+      "from": "\"Fluorometholone: voorspelde nieuwe indicatie Postinfectieuze vasculitis (postinfectious vasculitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Fluorometholone: voorspelde nieuwe indicatie Postinfectieuze vasculitis (postinfectious vasculitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluoxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Fluoxetine: voorspelde nieuwe indicatie Schizotypal personality disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Fluoxetine: voorspelde nieuwe indicatie Schizotypal personality disorder (bewijsniveau L3). In Nederland, CBG-vergunningen: 10 (geldig: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fosfomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Fosfomycin: voorspelde nieuwe indicatie Ontstekingsziekte van de baarmoeder (uterine inflammatory disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Fosfomycin: voorspelde nieuwe indicatie Ontstekingsziekte van de baarmoeder (uterine inflammatory disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fosinopril.md",
+      "date": "2026-11-19",
+      "from": "\"Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Fosinopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/galantamine.md",
+      "date": "2026-11-19",
+      "from": "\"Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gemcitabine.md",
+      "date": "2026-11-19",
+      "from": "\"Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 22 (geldig: 22)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/glucagon.md",
+      "date": "2026-11-19",
+      "from": "\"Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/goserelin.md",
+      "date": "2026-11-19",
+      "from": "\"Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hyaluronidase.md",
+      "date": "2026-11-19",
+      "from": "\"Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Hyaluronidase: voorspelde nieuwe indicatie Esotropia (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hydrocortisone.md",
+      "date": "2026-11-19",
+      "from": "\"Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). In Nederland, CBG-vergunningen: 65 (geldig: 63)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hydromorphone.md",
+      "date": "2026-11-19",
+      "from": "\"Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/iloprost.md",
+      "date": "2026-11-19",
+      "from": "\"Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/indomethacin.md",
+      "date": "2026-11-19",
+      "from": "\"Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/irbesartan.md",
+      "date": "2026-11-19",
+      "from": "\"Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 71 (geldig: 70)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/isoleucine.md",
+      "date": "2026-11-19",
+      "from": "\"Isoleucine: voorspelde nieuwe indicatie Gastroparese (gastroparesis (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Isoleucine: voorspelde nieuwe indicatie Gastroparese (gastroparesis (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 54 (geldig: 53)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/itraconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ivermectin.md",
+      "date": "2026-11-19",
+      "from": "\"Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ketoconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 9 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/labetalol.md",
+      "date": "2026-11-19",
+      "from": "\"Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lactulose.md",
+      "date": "2026-11-19",
+      "from": "\"Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lanreotide.md",
+      "date": "2026-11-19",
+      "from": "\"Lanreotide: voorspelde nieuwe indicatie Hypertrichose (hypertrichosis (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lanreotide: voorspelde nieuwe indicatie Hypertrichose (hypertrichosis (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lansoprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Lansoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lansoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/latanoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 34)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/leflunomide.md",
+      "date": "2026-11-19",
+      "from": "\"Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/letrozole.md",
+      "date": "2026-11-19",
+      "from": "\"Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levetiracetam.md",
+      "date": "2026-11-19",
+      "from": "\"Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). In Nederland, CBG-vergunningen: 75 (geldig: 75)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levobupivacaine.md",
+      "date": "2026-11-19",
+      "from": "\"Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levocetirizine.md",
+      "date": "2026-11-19",
+      "from": "\"Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (rheumatoid arthritis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (rheumatoid arthritis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levonorgestrel.md",
+      "date": "2026-11-19",
+      "from": "\"Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/liothyronine.md",
+      "date": "2026-11-19",
+      "from": "\"Liothyronine: voorspelde nieuwe indicatie Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Liothyronine: voorspelde nieuwe indicatie Renale hypodysplasie/aplasie (renal hypodysplasia/aplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/loperamide.md",
+      "date": "2026-11-19",
+      "from": "\"Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 31)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lorazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lorazepam: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 38 (geldig: 38)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lormetazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/losartan.md",
+      "date": "2026-11-19",
+      "from": "\"Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). In Nederland, CBG-vergunningen: 67 (geldig: 64)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lubiprostone.md",
+      "date": "2026-11-19",
+      "from": "\"Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Lubiprostone: voorspelde nieuwe indicatie Alopecia (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mebendazole.md",
+      "date": "2026-11-19",
+      "from": "\"Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/meloxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Meloxicam: voorspelde nieuwe indicatie Acromesomelic dysplasia, Hunter-Thompson type (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Meloxicam: voorspelde nieuwe indicatie Acromesomelic dysplasia, Hunter-Thompson type (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mesalazine.md",
+      "date": "2026-11-19",
+      "from": "\"Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). In Nederland, CBG-vergunningen: 78 (geldig: 77)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metformin.md",
+      "date": "2026-11-19",
+      "from": "\"Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 123 (geldig: 120)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methotrexate.md",
+      "date": "2026-11-19",
+      "from": "\"Methotrexate: voorspelde nieuwe indicatie Pulmonary blastoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Methotrexate: voorspelde nieuwe indicatie Pulmonary blastoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 134 (geldig: 133)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methylphenidate.md",
+      "date": "2026-11-19",
+      "from": "\"Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 105 (geldig: 104)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methylprednisolone.md",
+      "date": "2026-11-19",
+      "from": "\"Methylprednisolone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Methylprednisolone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). In Nederland, CBG-vergunningen: 12 (geldig: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metronidazole.md",
+      "date": "2026-11-19",
+      "from": "\"Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/miconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/midazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 37 (geldig: 36)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/minoxidil.md",
+      "date": "2026-11-19",
+      "from": "\"Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L4). In Nederland, CBG-vergunningen: 14 (geldig: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/misoprostol.md",
+      "date": "2026-11-19",
+      "from": "\"Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/modafinil.md",
+      "date": "2026-11-19",
+      "from": "\"Modafinil: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Modafinil: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/montelukast.md",
+      "date": "2026-11-19",
+      "from": "\"Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 34 (geldig: 33)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/moxifloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/naproxen.md",
+      "date": "2026-11-19",
+      "from": "\"Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 48 (geldig: 48)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/naratriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nebivolol.md",
+      "date": "2026-11-19",
+      "from": "\"Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nitrazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nystatin.md",
+      "date": "2026-11-19",
+      "from": "\"Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/octreotide.md",
+      "date": "2026-11-19",
+      "from": "\"Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 27 (geldig: 27)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ofloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/omeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Omeprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Omeprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 84 (geldig: 83)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/orlistat.md",
+      "date": "2026-11-19",
+      "from": "\"Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxaliplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 6 (geldig: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 10 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxcarbazepine.md",
+      "date": "2026-11-19",
+      "from": "\"Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). In Nederland, CBG-vergunningen: 25 (geldig: 24)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxybutynin.md",
+      "date": "2026-11-19",
+      "from": "\"Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxymetazoline.md",
+      "date": "2026-11-19",
+      "from": "\"Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 10 (geldig: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxytetracycline.md",
+      "date": "2026-11-19",
+      "from": "\"Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paclitaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pantoprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 50 (geldig: 49)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/perindopril.md",
+      "date": "2026-11-19",
+      "from": "\"Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 124 (geldig: 114)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/phenylephrine.md",
+      "date": "2026-11-19",
+      "from": "\"Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 15 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pimecrolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 2 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pimozide.md",
+      "date": "2026-11-19",
+      "from": "\"Pimozide: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pimozide: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L3). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pioglitazone.md",
+      "date": "2026-11-19",
+      "from": "\"Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (opsismodysplasia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (opsismodysplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/piroxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Piroxicam: voorspelde nieuwe indicatie Colobomatous microphthalmia-rhizomelic dysplasia syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Piroxicam: voorspelde nieuwe indicatie Colobomatous microphthalmia-rhizomelic dysplasia syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/polymyxin_b.md",
+      "date": "2026-11-19",
+      "from": "\"Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 8 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pravastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Pravastatin: voorspelde nieuwe indicatie HIV infectious disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pravastatin: voorspelde nieuwe indicatie HIV infectious disease (bewijsniveau L4). In Nederland, CBG-vergunningen: 34 (geldig: 34)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prednisolone.md",
+      "date": "2026-11-19",
+      "from": "\"Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). In Nederland, CBG-vergunningen: 21 (geldig: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prilocaine.md",
+      "date": "2026-11-19",
+      "from": "\"Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/primidone.md",
+      "date": "2026-11-19",
+      "from": "\"Primidone: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Primidone: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/progesterone.md",
+      "date": "2026-11-19",
+      "from": "\"Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 18 (geldig: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/propofol.md",
+      "date": "2026-11-19",
+      "from": "\"Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Propofol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 16 (geldig: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/propranolol.md",
+      "date": "2026-11-19",
+      "from": "\"Propranolol: voorspelde nieuwe indicatie Distale myopathie, type Tateyama (distal myopathy, Tateyama type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Propranolol: voorspelde nieuwe indicatie Distale myopathie, type Tateyama (distal myopathy, Tateyama type) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pyridostigmine.md",
+      "date": "2026-11-19",
+      "from": "\"Pyridostigmine: voorspelde nieuwe indicatie Autoimmune disease of peripheral nervous system (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Pyridostigmine: voorspelde nieuwe indicatie Autoimmune disease of peripheral nervous system (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ramipril.md",
+      "date": "2026-11-19",
+      "from": "\"Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). In Nederland, CBG-vergunningen: 30 (geldig: 30)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ranitidine.md",
+      "date": "2026-11-19",
+      "from": "\"Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ranitidine: voorspelde nieuwe indicatie Peptic ulcer perforation (bewijsniveau L4). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rifampicin.md",
+      "date": "2026-11-19",
+      "from": "\"Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 8 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rifaximin.md",
+      "date": "2026-11-19",
+      "from": "\"Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ritonavir.md",
+      "date": "2026-11-19",
+      "from": "\"Ritonavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ritonavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ropinirole.md",
+      "date": "2026-11-19",
+      "from": "\"Ropinirole: voorspelde nieuwe indicatie Attention deficit-hyperactivity disorder (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Ropinirole: voorspelde nieuwe indicatie Attention deficit-hyperactivity disorder (bewijsniveau L3). In Nederland, CBG-vergunningen: 45 (geldig: 45)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salbutamol.md",
+      "date": "2026-11-19",
+      "from": "\"Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sertraline.md",
+      "date": "2026-11-19",
+      "from": "\"Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/simvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). In Nederland, CBG-vergunningen: 76 (geldig: 73)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sotalol.md",
+      "date": "2026-11-19",
+      "from": "\"Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sulfasalazine.md",
+      "date": "2026-11-19",
+      "from": "\"Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/telmisartan.md",
+      "date": "2026-11-19",
+      "from": "\"Telmisartan: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Telmisartan: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). In Nederland, CBG-vergunningen: 73 (geldig: 72)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/temozolomide.md",
+      "date": "2026-11-19",
+      "from": "\"Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). In Nederland, CBG-vergunningen: 58 (geldig: 58)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tenofovir.md",
+      "date": "2026-11-19",
+      "from": "\"Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/terbutaline.md",
+      "date": "2026-11-19",
+      "from": "\"Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tetracaine.md",
+      "date": "2026-11-19",
+      "from": "\"Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/thiopental.md",
+      "date": "2026-11-19",
+      "from": "\"Thiopental: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Thiopental: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tiapride.md",
+      "date": "2026-11-19",
+      "from": "\"Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 1 (geldig: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tizanidine.md",
+      "date": "2026-11-19",
+      "from": "\"Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 17 (geldig: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tobramycin.md",
+      "date": "2026-11-19",
+      "from": "\"Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tolperisone.md",
+      "date": "2026-11-19",
+      "from": "\"Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/topotecan.md",
+      "date": "2026-11-19",
+      "from": "\"Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/travoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Travoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Travoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). In Nederland, CBG-vergunningen: 21 (geldig: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/trazodone.md",
+      "date": "2026-11-19",
+      "from": "\"Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). In Nederland, CBG-vergunningen: 11 (geldig: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tretinoin.md",
+      "date": "2026-11-19",
+      "from": "\"Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tryptophan.md",
+      "date": "2026-11-19",
+      "from": "\"Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). In Nederland, CBG-vergunningen: 58 (geldig: 57)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tyrosine.md",
+      "date": "2026-11-19",
+      "from": "\"Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Tyrosine: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 45 (geldig: 45)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/urofollitropin.md",
+      "date": "2026-11-19",
+      "from": "\"Urofollitropin: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Urofollitropin: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/valine.md",
+      "date": "2026-11-19",
+      "from": "\"Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Valine: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 53 (geldig: 53)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/valsartan.md",
+      "date": "2026-11-19",
+      "from": "\"Valsartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Valsartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 234 (geldig: 234)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vancomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 19 (geldig: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/verapamil.md",
+      "date": "2026-11-19",
+      "from": "\"Verapamil: voorspelde nieuwe indicatie Obsolete bundle branch block (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Verapamil: voorspelde nieuwe indicatie Obsolete bundle branch block (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vinblastine.md",
+      "date": "2026-11-19",
+      "from": "\"Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 1 (geldig: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vincristine.md",
+      "date": "2026-11-19",
+      "from": "\"Vincristine: voorspelde nieuwe indicatie Vertebral anomalies and variable endocrine and T-cell dysfunction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Vincristine: voorspelde nieuwe indicatie Vertebral anomalies and variable endocrine and T-cell dysfunction (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/xylometazoline.md",
+      "date": "2026-11-19",
+      "from": "\"Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). In Nederland, CBG-vergunningen: 99 (geldig: 97)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zidovudine.md",
+      "date": "2026-11-19",
+      "from": "\"Zidovudine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Zidovudine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zolmitriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). In Nederland, CBG-vergunningen: 28 (geldig: 28)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zonisamide.md",
+      "date": "2026-11-19",
+      "from": "\"Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens\"",
+      "to": "\"Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
-description: "Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 
 # Nitrazepam

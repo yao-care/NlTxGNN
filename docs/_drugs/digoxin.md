@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 last_modified_at: 2026-11-12
-description: "Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
 # Digoxin

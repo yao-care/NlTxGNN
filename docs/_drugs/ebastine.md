@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 last_modified_at: 2026-11-12
-description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
 # Ebastine

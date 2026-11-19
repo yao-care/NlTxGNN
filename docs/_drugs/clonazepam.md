@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-11-12
-description: "Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
 # Clonazepam

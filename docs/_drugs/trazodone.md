@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
-description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
 ---
 
 # Trazodone

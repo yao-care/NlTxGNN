@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-15
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)"
 ---
 
 # Sertraline

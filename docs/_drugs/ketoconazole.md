@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
-description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Ketoconazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
 # Ketoconazole

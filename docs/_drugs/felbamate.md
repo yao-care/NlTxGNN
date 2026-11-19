@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)"
 ---
 
 # Felbamate

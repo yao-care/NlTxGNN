@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-description: "Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 34)"
 ---
 
 # Latanoprost

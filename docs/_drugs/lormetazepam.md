@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "Lormetazepam"
 predicted_indications: ["alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "benign paroxysmal torticollis of infancy"]
-description: "Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
 # Lormetazepam

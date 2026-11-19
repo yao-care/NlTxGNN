@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-15
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
 ---
 
 # Metronidazole

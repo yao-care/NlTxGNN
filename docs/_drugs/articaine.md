@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
 last_modified_at: 2026-11-12
-description: "Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)"
 ---
 
 # Articaine

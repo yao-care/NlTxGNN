@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
-description: "Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). In Nederland, CBG-vergunningen: 67 (geldig: 64)"
 ---
 
 # Losartan

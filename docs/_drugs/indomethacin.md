@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-description: "Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Indomethacin: voorspelde nieuwe indicatie Brachydactyly-syndactyly syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
 # Indomethacin

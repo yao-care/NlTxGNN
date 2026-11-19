@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
 # Iloprost

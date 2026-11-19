@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
 last_modified_at: 2026-11-12
-description: "Entacapone: voorspelde nieuwe indicatie PLA2G6-geassocieerde neurodegeneratie (PLA2G6-associated neurodegeneration) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Entacapone: voorspelde nieuwe indicatie PLA2G6-geassocieerde neurodegeneratie (PLA2G6-associated neurodegeneration) (bewijsniveau L5). In Nederland, CBG-vergunningen: 38 (geldig: 38)"
 ---
 
 # Entacapone

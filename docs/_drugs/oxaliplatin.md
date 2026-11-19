@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
 # Oxaliplatin

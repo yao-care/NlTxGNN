@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-15
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
-description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
 # Zonisamide

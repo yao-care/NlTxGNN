@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Naratriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
 # Naratriptan

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
-description: "Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Hydromorphone: voorspelde nieuwe indicatie Pharyngitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)"
 ---
 
 # Hydromorphone

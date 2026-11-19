@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
 ---
 
 # Tizanidine

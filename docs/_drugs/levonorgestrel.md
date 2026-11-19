@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)"
 ---
 
 # Levonorgestrel

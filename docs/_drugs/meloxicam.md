@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-description: "Meloxicam: voorspelde nieuwe indicatie Acromesomelic dysplasia, Hunter-Thompson type (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Meloxicam: voorspelde nieuwe indicatie Acromesomelic dysplasia, Hunter-Thompson type (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
 # Meloxicam

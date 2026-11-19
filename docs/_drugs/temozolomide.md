@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
 last_modified_at: 2026-11-12
-description: "Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). In Nederland, CBG-vergunningen: 58 (geldig: 58)"
 ---
 
 # Temozolomide

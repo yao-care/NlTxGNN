@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). In Nederland, CBG-vergunningen: 28 (geldig: 28)"
 ---
 
 # Zolmitriptan

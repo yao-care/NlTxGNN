@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
 ---
 
 # Oxymetazoline

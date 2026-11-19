@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 last_modified_at: 2026-11-12
-description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 60 (geldig: 59)"
 ---
 
 # Everolimus

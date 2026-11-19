@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 last_modified_at: 2026-11-12
-description: "Anastrozole: voorspelde nieuwe indicatie neuroblastoom (neuroblastoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Anastrozole: voorspelde nieuwe indicatie neuroblastoom (neuroblastoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 12)"
 ---
 
 # Anastrozole

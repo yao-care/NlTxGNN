@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
 last_modified_at: 2026-11-12
-description: "Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
 # Atosiban

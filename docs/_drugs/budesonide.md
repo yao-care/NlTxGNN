@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 last_modified_at: 2026-11-12
-description: "Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). In Nederland, CBG-vergunningen: 68 (geldig: 67)"
 ---
 
 # Budesonide

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
 last_modified_at: 2026-11-12
-description: "Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
 ---
 
 # Eletriptan

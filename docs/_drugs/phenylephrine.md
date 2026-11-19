@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
-description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 15 (geldig: 15)"
 ---
 
 # Phenylephrine

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
 last_modified_at: 2026-11-12
-description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Cilastatin: voorspelde nieuwe indicatie Staphylococcus aureus-infectie (staphylococcus aureus infection) (bewijsniveau L3). In Nederland, CBG-vergunningen: 8 (geldig: 6)"
 ---
 
 # Cilastatin

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "dipyridamole"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
 last_modified_at: 2026-11-12
-description: "Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
 # Dipyridamole

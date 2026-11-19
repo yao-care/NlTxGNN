@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Droperidol"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
 last_modified_at: 2026-11-12
-description: "Droperidol: voorspelde nieuwe indicatie Gilles-de-la-Tourettesyndroom (Tourette syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Droperidol: voorspelde nieuwe indicatie Gilles-de-la-Tourettesyndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
 ---
 
 # Droperidol

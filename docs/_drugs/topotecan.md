@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-15
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
 # Topotecan

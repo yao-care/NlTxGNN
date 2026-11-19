@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-description: "Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 1 (geldig: 1)"
 ---
 
 # Vinblastine

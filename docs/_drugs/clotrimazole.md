@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 last_modified_at: 2026-11-12
-description: "Clotrimazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Clotrimazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 25 (geldig: 24)"
 ---
 
 # Clotrimazole

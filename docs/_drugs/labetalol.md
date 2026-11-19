@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-description: "Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
 ---
 
 # Labetalol

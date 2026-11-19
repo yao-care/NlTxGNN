@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
 # Nystatin

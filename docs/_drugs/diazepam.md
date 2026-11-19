@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-12
-description: "Diazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Diazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 28 (geldig: 28)"
 ---
 
 # Diazepam

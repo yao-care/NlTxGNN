@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-15
 monitor_inn: "oxytetracycline"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "punctate epithelial keratoconjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
-description: "Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 4)"
 ---
 
 # Oxytetracycline

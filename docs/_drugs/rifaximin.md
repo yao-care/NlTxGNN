@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
-description: "Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Rifaximin: voorspelde nieuwe indicatie Oral candidiasis (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
 # Rifaximin

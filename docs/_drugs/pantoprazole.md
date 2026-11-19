@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
-description: "Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 50 (geldig: 49)"
 ---
 
 # Pantoprazole

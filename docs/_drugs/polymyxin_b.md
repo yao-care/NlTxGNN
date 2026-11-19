@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
-description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 8 (geldig: 6)"
 ---
 
 # Polymyxin B

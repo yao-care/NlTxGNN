@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-15
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
-description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 
 # Pimecrolimus

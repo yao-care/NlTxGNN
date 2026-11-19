@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
-description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). In Nederland, CBG-vergunningen: 99 (geldig: 97)"
 ---
 
 # Xylometazoline

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
-description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). In Nederland, CBG-vergunningen: 78 (geldig: 77)"
 ---
 
 # Mesalazine

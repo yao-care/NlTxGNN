@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
 last_modified_at: 2026-11-12
-description: "Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
 ---
 
 # Fluvastatin

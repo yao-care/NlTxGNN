@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-description: "Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 16)"
 ---
 
 # Tobramycin

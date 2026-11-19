@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). In Nederland, CBG-vergunningen: 25 (geldig: 24)"
 ---
 
 # Oxcarbazepine

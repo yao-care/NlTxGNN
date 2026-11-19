@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Misoprostol"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
-description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)"
 ---
 
 # Misoprostol

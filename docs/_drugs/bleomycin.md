@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 last_modified_at: 2026-11-12
-description: "Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
 ---
 
 # Bleomycin

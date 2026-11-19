@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
-description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)"
 ---
 
 # Levobupivacaine

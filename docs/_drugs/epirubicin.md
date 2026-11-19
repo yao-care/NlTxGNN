@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 last_modified_at: 2026-11-12
-description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
 # Epirubicin

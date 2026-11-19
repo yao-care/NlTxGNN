@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-12
-description: "Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Dexamethasone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). In Nederland, CBG-vergunningen: 40 (geldig: 37)"
 ---
 
 # Dexamethasone

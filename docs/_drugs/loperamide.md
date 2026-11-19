@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
-description: "Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 31)"
 ---
 
 # Loperamide

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
 last_modified_at: 2026-11-12
-description: "Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
 # Clonidine

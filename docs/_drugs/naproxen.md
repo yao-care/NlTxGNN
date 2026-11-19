@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-description: "Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 48 (geldig: 48)"
 ---
 
 # Naproxen

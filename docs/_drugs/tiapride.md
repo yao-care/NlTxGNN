@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-15
 monitor_inn: "tiapride"
 predicted_indications: ["migraine disorder"]
-description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Tiapride: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 1 (geldig: 0)"
 ---
 
 # Tiapride

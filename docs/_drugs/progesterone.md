@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 18 (geldig: 17)"
 ---
 
 # Progesterone

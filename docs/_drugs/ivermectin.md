@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
-description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)"
 ---
 
 # Ivermectin

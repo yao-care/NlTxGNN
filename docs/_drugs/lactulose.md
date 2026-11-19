@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
 ---
 
 # Lactulose

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-description: "Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)"
 ---
 
 # Goserelin

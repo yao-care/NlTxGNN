@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
-description: "Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens"
+description: "Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 
 # Miconazole

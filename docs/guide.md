@@ -14,25 +14,19 @@ Kijk eerst naar het bewijsniveau, dan naar de aanbeveling en lees daarna de bron
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Nederland: gegevens van deze site
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Nederland: een voorbeeld van deze site
 
-Deze site publiceert rapporten over **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen uit de registratiegegevens van [CBG-MEB](https://www.cbg-meb.nl/) (Nederland).
+Een rapport op deze site lees je in drie stappen: bewijsniveau, lokale marktgegevens, controlelogboek.
 
-Dataset: [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); wordt elke week (op maandag) automatisch gedownload en vergeleken. Details: [Gegevensbronnen]({{ '/sources/' | relative_url }}).
+{% assign gx = site.data.local_facts.example %}
+{% if gx %}Open [{{ gx.t }}]({{ gx.u | relative_url }}): de kop toont bewijsniveau **{{ gx.l }}**; de belangrijkste voorspelde nieuwe indicatie is **{{ gx.i }}**; de lokale gegevens bevatten **{{ gx.lt }}** CBG-registraties, waarvan **{{ gx.lv }}** actuele; het controlelogboek van de pagina heeft **{{ gx.r }}** vermeldingen.{% endif %}
 
-Rapporten per bewijsniveau:
+{% if site.data.local_facts.most_reviewed.size > 0 %}Geneesmiddelen met de meeste vermeldingen in het controlelogboek: {% for r in site.data.local_facts.most_reviewed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.r }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Bewijsniveau | Rapporten | Aandeel |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Laatste correcties in het controlelogboek: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Een geneesmiddel opzoeken
 

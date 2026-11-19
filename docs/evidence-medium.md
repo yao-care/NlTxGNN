@@ -3,15 +3,25 @@ layout: default
 title: Matig bewijs (L3-L4)
 nav_order: 22
 permalink: /evidence-medium/
-description: "L3-L4-kandidaten voor geneesmiddelherpositionering in NlTxGNN, onderbouwd met observationeel of preklinisch bewijs."
+description: "40 geneesmiddelen met bewijsniveau L3–L4 op deze site (Nederland), bijv. Acitretin, Alprazolam, Calcipotriol, met per middel de belangrijkste voorspelde indicatie, CBG-registraties en controlelogboek."
 ---
 
 # Matig bewijs (L3-L4)
 
-<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-{% assign pd_m = site.data.drug_stats.level_counts.L3 | plus: site.data.drug_stats.level_counts.L4 %}
-Deze pagina toont **{{ pd_m }}** van de **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen met een gepubliceerd rapport op deze site ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Definitie van de niveaus: [Methodologie]({{ '/methodology/' | relative_url }}).
-<!-- page-data:end -->
+<!-- tier-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+{% assign ev_share = site.data.evidence_tier_facts.medium.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs %}
+Deze pagina toont **{{ site.data.evidence_tier_facts.medium.count }}** van de **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen met een gepubliceerd rapport op deze site ({{ site.data.evidence_tier_facts.medium.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%): L3 **{{ site.data.evidence_tier_facts.medium.by_level.L3 }}**, L4 **{{ site.data.evidence_tier_facts.medium.by_level.L4 }}**.
+Mediaan aandeel L3–L4 over de 30 TxGNN-sites: {{ site.data.evidence_tier_facts.medium.cross.median_share }}%. {% if ev_share > site.data.evidence_tier_facts.medium.cross.median_share %}Deze site zit boven de mediaan.{% elsif ev_share < site.data.evidence_tier_facts.medium.cross.median_share %}Deze site zit onder de mediaan.{% else %}Deze site zit op de mediaan.{% endif %}
+
+{% if site.data.evidence_tier_facts.medium.count > 0 %}
+In de lokale gegevens (CBG-registraties) hebben **{{ site.data.evidence_tier_facts.medium.with_current }}** van deze geneesmiddelen minstens één actuele registratie, **{{ site.data.evidence_tier_facts.medium.none_current }}** hebben registraties maar geen actuele en **{{ site.data.evidence_tier_facts.medium.without_data }}** komen niet in de lokale gegevens voor. **{{ site.data.evidence_tier_facts.medium.with_reviews }}** hebben vermeldingen in het controlelogboek (correcties van registratiegegevens op de geneesmiddelpagina). **{{ site.data.evidence_tier_facts.medium.cross.unique_drugs }}** hebben een voorspelde indicatie die geen andere TxGNN-site voor hetzelfde geneesmiddel noemt.
+{% if site.data.evidence_tier_facts.medium.none_current_list.size > 0 %}
+
+Met registraties, maar geen actuele: {% for r in site.data.evidence_tier_facts.medium.none_current_list %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}.{% endif %}
+{% endif %}
+
+Definitie van alle niveaus: [Methodologie]({{ '/methodology/' | relative_url }}).
+<!-- tier-facts:end -->
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Kandidaten met voorlopig bewijs die verdere validatie vereisen
@@ -31,19 +41,27 @@ Kandidaten met voorlopig bewijs die verdere validatie vereisen
 {% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
 {% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
 
-### L3 ({{ l3_drugs.size }} geneesmiddelen)
+### L3 ({{ site.data.evidence_tier_facts.medium.by_level.L3 }} geneesmiddelen)
 
-| Geneesmiddel | Indicaties | Link |
-|---------|---------|------|
-{% for drug in l3_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [Rapport bekijken]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:start L3（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
 
-### L4 ({{ l4_drugs.size }} geneesmiddelen)
+| Geneesmiddel | Niveau | Belangrijkste voorspelde nieuwe indicatie | CBG-registraties: actuele / totaal | Controlelogboek | Alleen op deze site |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.medium.rows %}{% if r.l == "L3" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}ja ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
 
-| Geneesmiddel | Indicaties | Link |
-|---------|---------|------|
-{% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [Rapport bekijken]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:end -->
+
+### L4 ({{ site.data.evidence_tier_facts.medium.by_level.L4 }} geneesmiddelen)
+
+<!-- tier-table:start L4（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+
+| Geneesmiddel | Niveau | Belangrijkste voorspelde nieuwe indicatie | CBG-registraties: actuele / totaal | Controlelogboek | Alleen op deze site |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.medium.rows %}{% if r.l == "L4" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}ja ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
+
+<!-- tier-table:end -->
 
 ---
 

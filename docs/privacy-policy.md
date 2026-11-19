@@ -49,12 +49,32 @@ ClinicalTrials.gov verzonden.
 
 ---
 
-## Rechten van betrokkenen
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Toepasselijk recht
 
-Deze site heeft geen accounts en bewaart geen persoonsgegevens op eigen servers (die heeft de site niet). De
-gebruiksstatistieken worden verzameld door Google Analytics 4; u kunt de cookies blokkeren of verwijderen in de
-instellingen van uw browser.
-Voor vragen over dit beleid kunt u contact opnemen via service@yao.care.
+Voor bezoekers in Nederland gelden de [Algemene verordening gegevensbescherming (AVG)](https://eur-lex.europa.eu/eli/reg/2016/679/oj) en de [Uitvoeringswet AVG](https://wetten.overheid.nl/BWBR0040940); voor cookies geldt daarnaast artikel 11.7a van de Telecommunicatiewet. Toezichthouder is de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/). De verwerkingsverantwoordelijke zit in Taiwan en heeft geen vestiging in de EU; het gaat om de gebruiksgegevens die Google Analytics 4 via cookies verzamelt.
+
+## Uw rechten en hoe u ze uitoefent
+
+- Recht op inzage (artikel 15) en rectificatie (artikel 16).
+- Recht op gegevenswissing (artikel 17) en beperking (artikel 18).
+- Recht van bezwaar (artikel 21), ook tegen webanalyse.
+- Recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens (artikel 77).
+
+Verzoeken en vragen: service@yao.care. Omdat de site geen accounts heeft, kunnen we gegevens bij Google Analytics alleen behandelen als u genoeg details geeft (bijvoorbeeld datum en pagina's van uw bezoek); u kunt analytische cookies ook in uw browser blokkeren of verwijderen.
+
+## Auteursrecht en gegevensbronnen
+
+De teksten van de site zijn beschermd door de [Auteurswet](https://wetten.overheid.nl/BWBR0001886). De code van de site staat onder de MIT-licentie in de [GitHub-repository](https://github.com/yao-care/NlTxGNN); rapportteksten zijn © 藥提醒科技有限公司 (yao.care).
+
+Gegevensbronnen van deze site en hun voorwaarden:
+
+- **TxGNN**-voorspellingsgegevens (Harvard Dataverse): CC0 1.0 (publiek domein); citeer Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov** en **PubMed**: US National Library of Medicine; zie de [voorwaarden van ClinicalTrials.gov](https://clinicaltrials.gov/about-site/terms-conditions) en het [NCBI-beleid](https://www.ncbi.nlm.nih.gov/home/about/policies/) (sommige PubMed-samenvattingen vallen onder het auteursrecht van de uitgever).
+- **DrugBank**-identificatoren en -gegevens: volgens de licentievoorwaarden van [DrugBank](https://go.drugbank.com/) (niet-commercieel gebruik).
+- **Lokale dataset**: [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/metadata.csv), gepubliceerd door College ter Beoordeling van Geneesmiddelen (CBG-MEB); hergebruik valt onder de voorwaarden van de uitgever, en deze site verleent geen aanvullende rechten.
+
+<!-- privacy-law:end -->
 
 ---
 

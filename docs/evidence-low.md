@@ -3,15 +3,27 @@ layout: default
 title: Alleen modelvoorspelling (L5)
 nav_order: 23
 permalink: /evidence-low/
-description: "L5-kandidaten in NlTxGNN: alleen een modelvoorspelling, nog zonder klinisch bewijs of literatuur."
+description: "259 geneesmiddelen met bewijsniveau L5 op deze site (Nederland), bijv. Valsartan, Ezetimibe, Amlodipine, met per middel de belangrijkste voorspelde indicatie, CBG-registraties en controlelogboek."
 ---
 
 # Alleen modelvoorspelling (L5)
 
-<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
-Deze pagina toont **{{ pd_m }}** van de **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen met een gepubliceerd rapport op deze site ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Definitie van de niveaus: [Methodologie]({{ '/methodology/' | relative_url }}).
-<!-- page-data:end -->
+<!-- tier-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+{% assign ev_share = site.data.evidence_tier_facts.low.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs %}
+Deze pagina toont **{{ site.data.evidence_tier_facts.low.count }}** van de **{{ site.data.drug_stats.total_drugs }}** geneesmiddelen met een gepubliceerd rapport op deze site ({{ site.data.evidence_tier_facts.low.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%): L5 **{{ site.data.evidence_tier_facts.low.by_level.L5 }}**.
+Mediaan aandeel L5 over de 30 TxGNN-sites: {{ site.data.evidence_tier_facts.low.cross.median_share }}%. {% if ev_share > site.data.evidence_tier_facts.low.cross.median_share %}Deze site zit boven de mediaan.{% elsif ev_share < site.data.evidence_tier_facts.low.cross.median_share %}Deze site zit onder de mediaan.{% else %}Deze site zit op de mediaan.{% endif %}
+
+{% if site.data.evidence_tier_facts.low.count > 0 %}
+In de lokale gegevens (CBG-registraties) hebben **{{ site.data.evidence_tier_facts.low.with_current }}** van deze geneesmiddelen minstens één actuele registratie, **{{ site.data.evidence_tier_facts.low.none_current }}** hebben registraties maar geen actuele en **{{ site.data.evidence_tier_facts.low.without_data }}** komen niet in de lokale gegevens voor. **{{ site.data.evidence_tier_facts.low.with_reviews }}** hebben vermeldingen in het controlelogboek (correcties van registratiegegevens op de geneesmiddelpagina). **{{ site.data.evidence_tier_facts.low.cross.unique_drugs }}** hebben een voorspelde indicatie die geen andere TxGNN-site voor hetzelfde geneesmiddel noemt.
+{% if site.data.evidence_tier_facts.low.none_current_list.size > 0 %}
+
+Met registraties, maar geen actuele: {% for r in site.data.evidence_tier_facts.low.none_current_list %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}.{% endif %}
+
+Geneesmiddelen met een actuele lokale registratie staan bovenaan.
+{% endif %}
+
+Definitie van alle niveaus: [Methodologie]({{ '/methodology/' | relative_url }}).
+<!-- tier-facts:end -->
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Kandidaten met alleen een modelvoorspelling en nog geen bewijs bij mensen
@@ -29,12 +41,16 @@ Kandidaten met alleen een modelvoorspelling en nog geen bewijs bij mensen
 
 {% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
 
-### L5 ({{ l5_drugs.size }} geneesmiddelen)
+### L5 ({{ site.data.evidence_tier_facts.low.by_level.L5 }} geneesmiddelen)
 
-| Geneesmiddel | Indicaties | Link |
-|---------|---------|------|
-{% for drug in l5_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [Rapport bekijken]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:start L5（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+
+| Geneesmiddel | Niveau | Belangrijkste voorspelde nieuwe indicatie | CBG-registraties: actuele / totaal | Controlelogboek | Alleen op deze site |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.low.rows %}{% if r.l == "L5" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}ja ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
+
+<!-- tier-table:end -->
 
 ---
 

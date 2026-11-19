@@ -14,6 +14,23 @@ Van AI-voorspelling tot bewijsgradering — elke kandidaat heeft een traceerbare
 
 ---
 
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Nederland: hoe de methode op deze site wordt toegepast
+
+Lokale gegevens: [CBG-MEB Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/metadata.csv). De lokale gegevens zijn de registraties in de Geneesmiddeleninformatiebank van het CBG (metadata.csv). Een registratienummer dat niet meer in de actuele lijst staat, telt hier als niet geregistreerd (CBG: «Niet geregistreerd geneesmiddel»), niet als ingetrokken.
+
+| Niveau | Rapporten | …met actuele lokale registratie |
+|---|---|---|
+| L1 | {{ site.data.local_facts.by_level.L1.n }} | {{ site.data.local_facts.by_level.L1.current }} |
+| L2 | {{ site.data.local_facts.by_level.L2.n }} | {{ site.data.local_facts.by_level.L2.current }} |
+| L3 | {{ site.data.local_facts.by_level.L3.n }} | {{ site.data.local_facts.by_level.L3.current }} |
+| L4 | {{ site.data.local_facts.by_level.L4.n }} | {{ site.data.local_facts.by_level.L4.current }} |
+| L5 | {{ site.data.local_facts.by_level.L5.n }} | {{ site.data.local_facts.by_level.L5.current }} |
+
+Het controlelogboek heeft **{{ site.data.local_facts.reviews.records }}** vermeldingen op **{{ site.data.local_facts.reviews.public_pages_with_records }}** pagina's; correcties wijzigen alleen registratiegegevens, nooit de voorspellingen van het model.
+
+<!-- local-facts:end -->
+
 ## Het volledige proces
 
 <p class="key-answer" data-question="Hoe komt NlTxGNN tot zijn voorspellingen?">

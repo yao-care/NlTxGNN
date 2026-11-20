@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-20T14:50:33.042513+00:00",
-  "count": 11,
+  "fetched_at": "2026-11-20T23:38:51.597334+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "8374d10b5630",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - De Gelderlander",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamc1dHU4WV9Qcjd6U3RmbG41ZDVlQUliQjg3NHlnc0ROSjFtdTRWZjRrV25JRXRuQnFxeHJGeDdwT3N2OXNldmxlM1pGTGVoUW94OGRlU2ZDSmNIbXVkTVpPUkhIOVNvblppYnJJQ3lYWUNvUEFDWExKQTMwNnJQOXk2M3hWbk5kdU53d1AtM0d3QjA3V2FvYWhBV2szMnJEaU1PQmhfczlkZVYyb0xELTNSQWRjeWNaUTlsMDlIM1hSckJxZjUxQ0RWREhadE5RQWRPX1VRU1JKT2h4aVVCYQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "61afdfb4d89f",
       "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
@@ -28,26 +16,38 @@
       ]
     },
     {
-      "id": "7510ebfde665",
-      "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen - NU",
-      "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvrije status | Nieuws&nbsp;&nbsp;AD.nlVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal v",
+      "id": "8374d10b5630",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - De Gelderlander",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHU1ZWlHeW9Lb2RRcXpBTWlqd1FqSnlFSW5Cd2N0bl9jQWxtSGZpOWtVQ1B3MzFGVzFBXzhXcnQ1cC14SE5YRjFZa1R6QnFnR050VnpnQkxFZjdmcW0wSHJMVmZuOE9odk1PaTQ3SFZpZThGMnpKeDJjaERxbjRaS19YVlBOTEVHM0otWm03TEdKNHktSlJTRGJRN2VLdlpCaWtfTEFzT0pLd3p5cFpzY21fZE8xakdSdk8waWdESko?oc=5"
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamc1dHU4WV9Qcjd6U3RmbG41ZDVlQUliQjg3NHlnc0ROSjFtdTRWZjRrV25JRXRuQnFxeHJGeDdwT3N2OXNldmxlM1pGTGVoUW94OGRlU2ZDSmNIbXVkTVpPUkhIOVNvblppYnJJQ3lYWUNvUEFDWExKQTMwNnJQOXk2M3hWbk5kdU53d1AtM0d3QjA3V2FvYWhBV2szMnJEaU1PQmhfczlkZVYyb0xELTNSQWRjeWNaUTlsMDlIM1hSckJxZjUxQ0RWREhadE5RQWRPX1VRU1JKT2h4aVVCYQ?oc=5"
         }
       ]
     },
     {
-      "id": "3e15bdfb98b6",
-      "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen - RTL.nl",
-      "published": "2026-11-18T17:00:05+00:00",
-      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlEen pil uit dezelfde familie als Viagra geeft hoop bij alzheimer: wat is er ontdekt?&nbsp;&nbsp;GezondnuErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
+      "id": "fc49d45da456",
+      "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
+      "published": "2026-11-20T16:12:26+00:00",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedicijn doet tumoren bij patiënten met alvleesklierkanker verdwijnen&nbsp;&nbsp;Newsmonkey -Onderzoekers werken samen aan behand",
       "sources": [
         {
           "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7510ebfde665",
+      "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen - NU",
+      "published": "2026-11-14T09:42:03+00:00",
+      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvr",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHU1ZWlHeW9Lb2RRcXpBTWlqd1FqSnlFSW5Cd2N0bl9jQWxtSGZpOWtVQ1B3MzFGVzFBXzhXcnQ1cC14SE5YRjFZa1R6QnFnR050VnpnQkxFZjdmcW0wSHJMVmZuOE9odk1PaTQ3SFZpZThGMnpKeDJjaERxbjRaS19YVlBOTEVHM0otWm03TEdKNHktSlJTRGJRN2VLdlpCaWtfTEFzT0pLd3p5cFpzY21fZE8xakdSdk8waWdESko?oc=5"
         }
       ]
     },
@@ -60,6 +60,18 @@
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWndxM0lIV2t2QXVpUTF0QXF2Z3p6a2VnZkZWd0sxVll3eWEycXNBdFZCelF5TTRhMlc0QUdQMVpQSXFZOFl2d3Jwd1ZwUVFXUThhMWRVaTIxMF9BOFpWR3ZBTWFBNllTZ0V0cE5qY0hsdW41NGxrUHJINVh0NXNuZm1BRW5XelB2anJERUxBNUo3SDdoeTF2T3psV2FiSFdUUi1VVDFXR25wSFpPeUVEblh6RzlfTGo3OWRlNFUzcUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e15bdfb98b6",
+      "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen - RTL.nl",
+      "published": "2026-11-18T17:00:05+00:00",
+      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlEen pil uit dezelfde familie als Viagra geeft hoop bij alzheimer: wat is er ontdekt?&nbsp;&nbsp;GezondnuErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
         }
       ]
     },
@@ -79,23 +91,11 @@
       "id": "ce23f31c3d46",
       "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
       "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalDuidelijk verband nodig voor erkenning beroepsziekte als gevolg van gewasbeschermingsmiddelen&nbsp;&n",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuidelijk verband nodig voor erkenning beroepsziekte als gevolg van gewasbeschermingsmiddelen&nbsp;&nbsp;www.boerenbond.beGroenen willen ziekten die verband houden met pes",
       "sources": [
         {
           "name": "De Standaard",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "820cae7357c6",
-      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil - Nieuwsblad",
-      "published": "2026-11-17T11:00:00+00:00",
-      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;Nieuwsblad",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0EySkhObFhra3Z2LXNQTlJjYzZfOE1xYTNaX010dEZXRU1UbW1rdzZ4Q3pXeXE0bExqS24xZ0RyV0tZbFJaendaZ1hXdk5fYVI3Nnh4Z3hhMUtPMmtOX1BjYUl2cXBNQmJzS1lHUUlPMnlHR3E1b2dJa0tqcnl2Szh1dzB5OXkzazB2bFdjMGp1eGdMQmFoVjZyRWVKVHpuMkowSFlfZHZxVWtVNmtiTHM1TXUwdUo2Ql9MWnY3ZWU?oc=5"
         }
       ]
     },
@@ -108,30 +108,6 @@
         {
           "name": "Libelle",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e2f5621f1fe",
-      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas - Artsenkrant",
-      "published": "2026-11-17T20:16:52+00:00",
-      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
-      "sources": [
-        {
-          "name": "Artsenkrant",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2fc2999b17d9",
-      "title": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer - HLN",
-      "published": "2026-11-17T15:50:00+00:00",
-      "summary": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM2VMUTZPeGZaNHhiZ0VHUHFBNDJnTk53SWd2bXBKN3NJbEE3S1M5M0hvcWtNaVdDVnp5dVo0M0hFbmt2UjhRZDNrZ0hJMEdIWlhWYThodnBjOXY3VE9peGRrUi10ZE8wZzV1RDh5NU1JWjI4YU5HMDd6M21FYXQ1bXlPYUloZ2l1Y1g3WERIVmxvNTVxUlE3WlMyUlRFLThTSk4yMVFITGhzenY1d1lZeE56WnZ3eGNQM0h2MDJMMlhXa3AxeWZoUVlCWFZ4UzNXbVRTTTF0bDFweXdydXR1TExYWXU5OUF1OXNtVUlzUWtOOWJqYUdJ?oc=5"
         }
       ]
     }

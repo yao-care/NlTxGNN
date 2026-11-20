@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-20T14:50:33.139924+00:00",
-  "total_count": 14,
+  "last_updated": "2026-11-20T23:38:51.675654+00:00",
+  "total_count": 12,
   "matched_count": 6,
   "news": [
+    {
+      "id": "fc49d45da456",
+      "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten",
+      "published": "2026-11-20T16:12:26+00:00",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedicijn doet tumoren bij patiënten met alvleesklierkanker verdwijnen&nbsp;&nbsp;Newsmonkey -Onderzoekers werken samen aan behand",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "8374d10b5630",
       "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - De Gelderlander",
@@ -197,7 +210,7 @@
       "id": "ce23f31c3d46",
       "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
       "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalDuidelijk verband nodig voor erkenning beroepsziekte als gevolg van gewasbeschermingsmiddelen&nbsp;&n",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuidelijk verband nodig voor erkenning beroepsziekte als gevolg van gewasbeschermingsmiddelen&nbsp;&nbsp;www.boerenbond.beGroenen willen ziekten die verband houden met pes",
       "sources": [
         {
           "name": "De Standaard",
@@ -231,45 +244,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4e2f5621f1fe",
-      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas",
-      "published": "2026-11-17T20:16:52+00:00",
-      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
-      "sources": [
-        {
-          "name": "Artsenkrant",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2fc2999b17d9",
-      "title": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer",
-      "published": "2026-11-17T15:50:00+00:00",
-      "summary": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "HLN",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM2VMUTZPeGZaNHhiZ0VHUHFBNDJnTk53SWd2bXBKN3NJbEE3S1M5M0hvcWtNaVdDVnp5dVo0M0hFbmt2UjhRZDNrZ0hJMEdIWlhWYThodnBjOXY3VE9peGRrUi10ZE8wZzV1RDh5NU1JWjI4YU5HMDd6M21FYXQ1bXlPYUloZ2l1Y1g3WERIVmxvNTVxUlE3WlMyUlRFLThTSk4yMVFITGhzenY1d1lZeE56WnZ3eGNQM0h2MDJMMlhXa3AxeWZoUVlCWFZ4UzNXbVRTTTF0bDFweXdydXR1TExYWXU5OUF1OXNtVUlzUWtOOWJqYUdJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "820cae7357c6",
-      "title": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil",
-      "published": "2026-11-17T11:00:00+00:00",
-      "summary": "Verkouden, griep of toch covid? Aan deze symptomen herken je het verschil&nbsp;&nbsp;Nieuwsblad",
-      "sources": [
-        {
-          "name": "Nieuwsblad",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0EySkhObFhra3Z2LXNQTlJjYzZfOE1xYTNaX010dEZXRU1UbW1rdzZ4Q3pXeXE0bExqS24xZ0RyV0tZbFJaendaZ1hXdk5fYVI3Nnh4Z3hhMUtPMmtOX1BjYUl2cXBNQmJzS1lHUUlPMnlHR3E1b2dJa0tqcnl2Szh1dzB5OXkzazB2bFdjMGp1eGdMQmFoVjZyRWVKVHpuMkowSFlfZHZxVWtVNmtiTHM1TXUwdUo2Ql9MWnY3ZWU?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e7e23f401e00",
@@ -443,7 +417,7 @@
       "id": "7510ebfde665",
       "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen",
       "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvrije status | Nieuws&nbsp;&nbsp;AD.nlVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal v",
+      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvr",
       "sources": [
         {
           "name": "NU",

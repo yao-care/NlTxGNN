@@ -56,7 +56,7 @@ maar er zijn **geen klinische studies** en **geen publicaties** over deze aandoe
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Alfacalcidol is een actief vitamine D-analoog dat de renale 1-alfa-hydroxylatiestap omzeilt. Het bevordert de opname van calcium en fosfaat in de darm en de mineralisatie van bot. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Alfacalcidol (niet-officiële vertaling): ‘Vitamine D-receptoragonist’ Oorspronkelijke Engelse tekst: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
+Alfacalcidol is een actief vitamine D-analoog dat de renale 1-alfa-hydroxylatiestap omzeilt. Het bevordert de opname van calcium en fosfaat in de darm en de mineralisatie van bot. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Alfacalcidol (niet-officiële vertaling): ‘Vitamine D-receptoragonist’. Oorspronkelijke Engelse tekst: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
 
 Vanwege deze rol in het botmetabolisme is een theoretisch verband met een skeletdysplasie denkbaar. Craniofaciale conodysplasie is echter een extreem zeldzame skeletaandoening en er is geen aanwijzing dat vitamine D-signalering een rol speelt bij het ontstaan ervan. De hoge score is een op modelberekening gebaseerde voorspelling en is geen bewijs. Het mechanistische verband blijft daarom speculatief.
 
@@ -108,7 +108,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->
 

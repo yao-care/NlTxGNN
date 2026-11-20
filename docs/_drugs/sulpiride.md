@@ -58,7 +58,7 @@ Sulpiride is een selectieve dopamine D2/D3-receptorantagonist, oorspronkelijk ge
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Sulpiride blokkeert selectief de dopamine D2- en D3-receptoren; de affiniteit voor de D4-receptor is laag. Daarnaast laten de voor dit rapport verzamelde gegevens binding aan enkele koolzuuranhydrase-isovormen zien (CA1, CA7, CA12). Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Sulpiride (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
+Sulpiride blokkeert selectief de dopamine D2- en D3-receptoren; de affiniteit voor de D4-receptor is laag. Daarnaast laten de voor dit rapport verzamelde gegevens binding aan enkele koolzuuranhydrase-isovormen zien (CA1, CA7, CA12). Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Sulpiride (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’. Oorspronkelijke Engelse tekst: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
 
 Dopamine speelt een rol in de modulatie van de lichtresponsen van retinale ganglioncellen. In het P23H-rattenmodel van retinitis pigmentosa lijken D2-antagonisten, waaronder sulpiride, de visuele responsen van ganglioncellen te verbeteren: de lichtgevoeligheid neemt toe en abnormale ON-cellen met lange latentietijd worden omgezet in OFF-cellen. Dit biedt een indirecte, preklinische aannemelijkheid voor modulatie van de retinale functie.
 
@@ -130,7 +130,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-15 | “RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
 
 <!-- review:end log -->
 

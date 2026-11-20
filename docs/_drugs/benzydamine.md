@@ -54,7 +54,7 @@ Benzydamine is een lokaal werkend ontstekingsremmend en pijnstillend middel. Het
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Benzydamine (niet-officiële vertaling): ‘Cyclo-oxygenaseremmer’ Oorspronkelijke Engelse tekst: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Benzydamine staat bekend als een lokaal werkend NSAID met ontstekingsremmende, pijnstillende en lokaal verdovende eigenschappen. Het remt pro-inflammatoire cytokines zoals TNF-alfa en IL-1β.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Benzydamine (niet-officiële vertaling): ‘Cyclo-oxygenaseremmer’. Oorspronkelijke Engelse tekst: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Benzydamine staat bekend als een lokaal werkend NSAID met ontstekingsremmende, pijnstillende en lokaal verdovende eigenschappen. Het remt pro-inflammatoire cytokines zoals TNF-alfa en IL-1β.
 
 Chronische ontsteking van de prostaat wordt gezien als een mogelijke bijdrage aan benigne prostaathyperplasie en aan klachten van de lagere urinewegen. Een ontstekingsremmende link is daarom denkbaar, maar blijft volledig hypothetisch en wordt door geen enkel gegeven in dit rapport onderbouwd. De hoge voorspellingsscore alleen mag niet worden gelezen als bewijs van werkzaamheid.
 
@@ -99,7 +99,7 @@ Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkings
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
 
 <!-- review:end log -->
 

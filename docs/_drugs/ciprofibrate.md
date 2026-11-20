@@ -58,7 +58,7 @@ Ciprofibraat is een fibraat dat de PPAR-alfa-receptor activeert en wordt gebruik
 
 ## Waarom is deze voorspelling plausibel?
 
-Ciprofibraat is een fibraat en een agonist van de peroxisoomproliferator-geactiveerde receptor alfa (PPAR-alfa; gen *PPARA*). Via deze receptor verlaagt het triglyceriden en beïnvloedt het de HDL-stofwisseling. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ciprofibrate (niet-officiële vertaling): ‘Agonist van de peroxisoomproliferator-geactiveerde receptor alfa’ Oorspronkelijke Engelse tekst: "Peroxisome proliferator-activated receptor alpha agonist" ([ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
+Ciprofibraat is een fibraat en een agonist van de peroxisoomproliferator-geactiveerde receptor alfa (PPAR-alfa; gen *PPARA*). Via deze receptor verlaagt het triglyceriden en beïnvloedt het de HDL-stofwisseling. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ciprofibrate (niet-officiële vertaling): ‘Agonist van de peroxisoomproliferator-geactiveerde receptor alfa’. Oorspronkelijke Engelse tekst: "Peroxisome proliferator-activated receptor alpha agonist" ([ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
 
 Bij CETP-deficiëntie is de HDL-cholesterolwaarde sterk verhoogd en is de lipoproteïneombouw gewijzigd. Een link via de vetstofwisseling is daarom denkbaar. Het klinische nut is echter onduidelijk: verdere verhoging van HDL is bij CETP-deficiëntie geen voor de hand liggend behandeldoel.
 
@@ -119,7 +119,7 @@ Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkings
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555) |
 
 <!-- review:end log -->
 

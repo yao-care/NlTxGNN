@@ -60,7 +60,7 @@ Etoricoxib is een selectieve COX-2-remmer (pijnstiller/ontstekingsremmer). Het T
 
 Etoricoxib remt selectief cyclo-oxygenase-2 (COX-2). COX-2-afhankelijke prostaglandines (zoals PGE2) dragen bij aan neurogene ontsteking en sensitisatie van het trigeminovasculaire systeem, twee mechanismen die bij migraine een rol spelen. Daarmee is een mechanistisch verband plausibel.
 
-Dit verband is echter theoretisch. De enige gekoppelde publicatie (PMID 42841395) is een scoping review over vastengerelateerde hoofdpijn tijdens de ramadan en biedt slechts indirecte, niet-specifieke steun. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Etoricoxib (niet-officiële vertaling): ‘Cyclo-oxygenase-2-remmer’ Oorspronkelijke Engelse tekst: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
+Dit verband is echter theoretisch. De enige gekoppelde publicatie (PMID 42841395) is een scoping review over vastengerelateerde hoofdpijn tijdens de ramadan en biedt slechts indirecte, niet-specifieke steun. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Etoricoxib (niet-officiële vertaling): ‘Cyclo-oxygenase-2-remmer’. Oorspronkelijke Engelse tekst: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; geraadpleegd op 2026-11-19).
 
 Opvallend is dat er wel case reports en kleine reeksen bestaan over etoricoxib bij andere, zeldzame hoofdpijnaandoeningen (zoals primaire stekende hoofdpijn en indomethacine-responsieve hoofdpijn). Die betreffen niet migraine zelf en tellen daarom niet mee voor het evidentieniveau van de hoofdvoorspelling.
 
@@ -122,7 +122,7 @@ Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkings
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
 
 <!-- review:end log -->
 

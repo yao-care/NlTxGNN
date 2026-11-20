@@ -54,7 +54,7 @@ Distigmine is een cholinesteraseremmer. Het TxGNN-model voorspelt dat het mogeli
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Distigmine (niet-officiële vertaling): ‘Acetylcholinesteraseremmer’ Oorspronkelijke Engelse tekst: "Acetylcholinesterase inhibitor" ([ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Distigmine behoort tot de cholinesterase-remmers, die de afbraak van acetylcholine remmen en zo de neuromusculaire transmissie versterken.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Distigmine (niet-officiële vertaling): ‘Acetylcholinesteraseremmer’. Oorspronkelijke Engelse tekst: "Acetylcholinesterase inhibitor" ([ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Distigmine behoort tot de cholinesterase-remmers, die de afbraak van acetylcholine remmen en zo de neuromusculaire transmissie versterken.
 
 De voorspelling betreft een brede categorie. Een symptomatisch voordeel is alleen denkbaar voor aandoeningen van de neuromusculaire overgang, zoals myasthenia gravis. Voor demyeliniserende neuropathieën zoals CIDP of GBS is dat niet te verwachten. De voorspelling wordt waarschijnlijk gedreven door het verband met myasthenia gravis en is daarom weinig specifiek.
 
@@ -96,7 +96,7 @@ Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkings
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307) |
 
 <!-- review:end log -->
 

@@ -9848,7 +9848,7 @@
    "file": "alfacalcidol.md",
    "action": "mechanism",
    "claim": "Gegevens over het gedetailleerde werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Alfacalcidol (niet-officiële vertaling): ‘Vitamine D-receptoragonist’ Oorspronkelijke Engelse tekst: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Alfacalcidol (niet-officiële vertaling): ‘Vitamine D-receptoragonist’. Oorspronkelijke Engelse tekst: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9865,7 +9865,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Alfacalcidol (niet-officiële vertaling): ‘Vitamine D-receptoragonist’ Oorspronkelijke Engelse tekst: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-alfuzosin-1",
@@ -10278,7 +10285,7 @@
    "file": "atosiban.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Atosiban (niet-officiële vertaling): ‘Oxytocinereceptorantagonist’ Oorspronkelijke Engelse tekst: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Atosiban (niet-officiële vertaling): ‘Oxytocinereceptorantagonist’. Oorspronkelijke Engelse tekst: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10295,7 +10302,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Atosiban (niet-officiële vertaling): ‘Oxytocinereceptorantagonist’ Oorspronkelijke Engelse tekst: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-baclofen-1",
@@ -10357,7 +10371,7 @@
    "file": "benzydamine.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme van benzydamine zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Benzydamine (niet-officiële vertaling): ‘Cyclo-oxygenaseremmer’ Oorspronkelijke Engelse tekst: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Benzydamine (niet-officiële vertaling): ‘Cyclo-oxygenaseremmer’. Oorspronkelijke Engelse tekst: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10374,7 +10388,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Benzydamine (niet-officiële vertaling): ‘Cyclo-oxygenaseremmer’ Oorspronkelijke Engelse tekst: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-benzylpenicillin-1",
@@ -11003,7 +11024,7 @@
    "file": "ciprofibrate.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ciprofibrate (niet-officiële vertaling): ‘Agonist van de peroxisoomproliferator-geactiveerde receptor alfa’ Oorspronkelijke Engelse tekst: \"Peroxisome proliferator-activated receptor alpha agonist\" ([ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ciprofibrate (niet-officiële vertaling): ‘Agonist van de peroxisoomproliferator-geactiveerde receptor alfa’. Oorspronkelijke Engelse tekst: \"Peroxisome proliferator-activated receptor alpha agonist\" ([ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11020,7 +11041,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ciprofibrate (niet-officiële vertaling): ‘Agonist van de peroxisoomproliferator-geactiveerde receptor alfa’ Oorspronkelijke Engelse tekst: \"Peroxisome proliferator-activated receptor alpha agonist\" ([ChEMBL CHEMBL557555 (ciprofibrate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL557555), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-citalopram-1",
@@ -11433,7 +11461,7 @@
    "file": "desogestrel.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Desogestrel (niet-officiële vertaling): ‘Progesteronreceptoragonist’ Oorspronkelijke Engelse tekst: \"Progesterone receptor agonist\" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Desogestrel (niet-officiële vertaling): ‘Progesteronreceptoragonist’. Oorspronkelijke Engelse tekst: \"Progesterone receptor agonist\" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11450,7 +11478,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Desogestrel (niet-officiële vertaling): ‘Progesteronreceptoragonist’ Oorspronkelijke Engelse tekst: \"Progesterone receptor agonist\" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-dexamethasone-1",
@@ -11539,7 +11574,7 @@
    "file": "didanosine.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn op dit moment niet beschikbaar in de voor dit rapport samengestelde data.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Didanosine (niet-officiële vertaling): ‘Remmer van het reverse transcriptase van humaan immunodeficiëntievirus type 1’ Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 reverse transcriptase inhibitor\" ([ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Didanosine (niet-officiële vertaling): ‘Remmer van het reverse transcriptase van humaan immunodeficiëntievirus type 1’. Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 reverse transcriptase inhibitor\" ([ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11556,7 +11591,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Didanosine (niet-officiële vertaling): ‘Remmer van het reverse transcriptase van humaan immunodeficiëntievirus type 1’ Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 reverse transcriptase inhibitor\" ([ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-dienogest-1",
@@ -11564,7 +11606,7 @@
    "file": "dienogest.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Dienogest (niet-officiële vertaling): ‘Onbekend’ Oorspronkelijke Engelse tekst: \"Unknown\" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Dienogest (niet-officiële vertaling): ‘Onbekend’. Oorspronkelijke Engelse tekst: \"Unknown\" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11581,7 +11623,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Dienogest (niet-officiële vertaling): ‘Onbekend’ Oorspronkelijke Engelse tekst: \"Unknown\" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-distigmine-1",
@@ -11589,7 +11638,7 @@
    "file": "distigmine.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Distigmine (niet-officiële vertaling): ‘Acetylcholinesteraseremmer’ Oorspronkelijke Engelse tekst: \"Acetylcholinesterase inhibitor\" ([ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Distigmine (niet-officiële vertaling): ‘Acetylcholinesteraseremmer’. Oorspronkelijke Engelse tekst: \"Acetylcholinesterase inhibitor\" ([ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11606,7 +11655,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Distigmine (niet-officiële vertaling): ‘Acetylcholinesteraseremmer’ Oorspronkelijke Engelse tekst: \"Acetylcholinesterase inhibitor\" ([ChEMBL CHEMBL1199307 (distigmine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1199307), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-dobutamine-1",
@@ -11641,7 +11697,7 @@
    "file": "domperidone.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme van domperidon zijn in de samengestelde gegevens niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Domperidone (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Domperidone (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’. Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11658,7 +11714,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Domperidone (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-donepezil-1",
@@ -11801,7 +11864,7 @@
    "file": "ebastine.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme van ebastine ontbreken in de voor dit rapport verzamelde gegevens.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ebastine (niet-officiële vertaling): ‘Inverse agonist van de histamine-H1-receptor’ Oorspronkelijke Engelse tekst: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ebastine (niet-officiële vertaling): ‘Inverse agonist van de histamine-H1-receptor’. Oorspronkelijke Engelse tekst: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11818,7 +11881,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ebastine (niet-officiële vertaling): ‘Inverse agonist van de histamine-H1-receptor’ Oorspronkelijke Engelse tekst: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-efavirenz-1",
@@ -12177,7 +12247,7 @@
    "file": "etoricoxib.md",
    "action": "mechanism",
    "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn in de samengestelde data niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Etoricoxib (niet-officiële vertaling): ‘Cyclo-oxygenase-2-remmer’ Oorspronkelijke Engelse tekst: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Etoricoxib (niet-officiële vertaling): ‘Cyclo-oxygenase-2-remmer’. Oorspronkelijke Engelse tekst: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12194,7 +12264,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Etoricoxib (niet-officiële vertaling): ‘Cyclo-oxygenase-2-remmer’ Oorspronkelijke Engelse tekst: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-everolimus-1",
@@ -12445,7 +12522,7 @@
    "file": "flunitrazepam.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn in de verzamelde gegevens niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Flunitrazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Flunitrazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’. Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12462,7 +12539,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Flunitrazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-fluorometholone-1",
@@ -13604,7 +13688,7 @@
    "file": "lopinavir.md",
    "action": "mechanism",
    "claim": "Over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens geen gedetailleerde gegevens beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Lopinavir (niet-officiële vertaling): ‘Proteaseremmer van humaan immunodeficiëntievirus type 1’ Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Lopinavir (niet-officiële vertaling): ‘Proteaseremmer van humaan immunodeficiëntievirus type 1’. Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13621,7 +13705,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Lopinavir (niet-officiële vertaling): ‘Proteaseremmer van humaan immunodeficiëntievirus type 1’ Oorspronkelijke Engelse tekst: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-lorazepam-1",
@@ -13953,7 +14044,7 @@
    "file": "minoxidil.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Minoxidil (niet-officiële vertaling): ‘Sulfonylureumreceptor 2, Kir6.2-opener’ Oorspronkelijke Engelse tekst: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Minoxidil (niet-officiële vertaling): ‘Sulfonylureumreceptor 2, Kir6.2-opener’. Oorspronkelijke Engelse tekst: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13970,7 +14061,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Minoxidil (niet-officiële vertaling): ‘Sulfonylureumreceptor 2, Kir6.2-opener’ Oorspronkelijke Engelse tekst: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-misoprostol-1",
@@ -14356,7 +14454,7 @@
    "file": "oxazepam.md",
    "action": "mechanism",
    "claim": "Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’. Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14373,7 +14471,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: \"GABA-A receptor; anion channel positive allosteric modulator\" ([ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-oxcarbazepine-1",
@@ -14462,7 +14567,7 @@
    "file": "oxytetracycline.md",
    "action": "mechanism",
    "claim": "Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxytetracycline (niet-officiële vertaling): ‘Remmer van het bacteriële 70S-ribosoom’ Oorspronkelijke Engelse tekst: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxytetracycline (niet-officiële vertaling): ‘Remmer van het bacteriële 70S-ribosoom’. Oorspronkelijke Engelse tekst: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14479,7 +14584,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxytetracycline (niet-officiële vertaling): ‘Remmer van het bacteriële 70S-ribosoom’ Oorspronkelijke Engelse tekst: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-paclitaxel-1",
@@ -15351,7 +15463,7 @@
    "file": "sulpiride.md",
    "action": "mechanism",
    "claim": "De gedetailleerde werkingsmechanismegegevens uit DrugBank waren niet beschikbaar, dus deze beschrijving is gebaseerd op farmacologische doelwitgegevens.",
-   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Sulpiride (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Sulpiride (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’. Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; geraadpleegd op 2026-11-19).",
    "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15368,7 +15480,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Sulpiride (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; geraadpleegd op 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-tadalafil-1",

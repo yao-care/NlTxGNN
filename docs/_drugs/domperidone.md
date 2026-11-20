@@ -54,7 +54,7 @@ Domperidon is een perifere dopamine-D2/D3-receptorantagonist die wordt gebruikt 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Domperidone (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’ Oorspronkelijke Engelse tekst: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Uit de farmacologische gegevens blijkt dat domperidon de dopamine-D2- en D3-receptoren (DRD2 en DRD3) bindt en perifeer werkt.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Domperidone (niet-officiële vertaling): ‘Dopamine D2-receptorantagonist’. Oorspronkelijke Engelse tekst: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Uit de farmacologische gegevens blijkt dat domperidon de dopamine-D2- en D3-receptoren (DRD2 en DRD3) bindt en perifeer werkt.
 
 Nefrogeen syndroom van inadequate antidiurese wordt veroorzaakt door activerende (gain-of-function) varianten in de vasopressine-V2-receptor (AVPR2) of, in sommige gevallen, in GNAS. Daardoor houdt de nier water vast, onafhankelijk van circulerend vasopressine. Een directe link tussen dopamine-D2/D3-blokkade en V2-receptorsignalering is niet aangetoond. Een speculatieve route zou dopaminesignalering in de nier of een effect op de vasopressinevrijstelling kunnen zijn, maar dit lost een defect op receptorniveau dat onafhankelijk is van vasopressine niet op.
 
@@ -102,7 +102,7 @@ Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkings
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
 
 <!-- review:end log -->
 

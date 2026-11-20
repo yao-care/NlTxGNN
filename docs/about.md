@@ -110,6 +110,10 @@ tegen zeldzame ziekten wordt voorspeld."
 
 ## Gegevensbronnen
 
+<p class="key-answer" data-question="Is er een gratis dataset met voorspellingen voor geneesmiddelherpositionering te downloaden?">
+Ja. De voorspellingsresultaten van NlTxGNN zijn vrij raadpleegbaar en te downloaden: elk geneesmiddelrapport bevat de onderliggende voorspellingsscores en bewijslinks, en de volledige lijst van brondatasets (met licentie en updatefrequentie) staat op de pagina Gegevensbronnen. Er is geen registratie of betaling vereist.
+</p>
+
 De bronnen van voorspellingen, bewijs en geneesmiddelgegevens, met hun licenties en updatefrequentie,
 staan op de pagina <a href="{{ '/sources/' | relative_url }}">Gegevensbronnen</a>.
 

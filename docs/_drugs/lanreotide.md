@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "lanreotide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 description: "Lanreotide: voorspelde nieuwe indicatie Hypertrichose (hypertrichosis (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)"

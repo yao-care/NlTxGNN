@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"

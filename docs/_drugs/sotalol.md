@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 9)"

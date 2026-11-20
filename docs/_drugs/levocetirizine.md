@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (rheumatoid arthritis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)"

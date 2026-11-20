@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 50 (geldig: 49)"

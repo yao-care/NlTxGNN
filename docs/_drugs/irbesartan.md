@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 description: "Irbesartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 71 (geldig: 70)"

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). In Nederland, CBG-vergunningen: 75 (geldig: 75)"

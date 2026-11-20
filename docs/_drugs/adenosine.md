@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Adenosine: voorspelde nieuwe indicatie Verouderde bundeltakblok (obsolete bundle branch block) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 

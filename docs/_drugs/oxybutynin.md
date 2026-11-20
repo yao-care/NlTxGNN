@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Cyanocobalamin: voorspelde nieuwe indicatie biotinemetabole ziekte (biotin metabolic disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 

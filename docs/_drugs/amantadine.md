@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encephalitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 5)"
 ---
 

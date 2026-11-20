@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). In Nederland, CBG-vergunningen: 78 (geldig: 77)"

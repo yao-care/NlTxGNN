@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"

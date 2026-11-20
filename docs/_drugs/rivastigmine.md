@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Rivastigmine: voorspelde nieuwe indicatie Glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Alzheimer (en verwante aandoeningen…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]

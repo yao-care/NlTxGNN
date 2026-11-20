@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: voorspelde nieuwe indicatie Distale myopathie, type Tateyama (distal myopathy, Tateyama type) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)"

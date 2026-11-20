@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 258
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 10 (geldig: 10)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Fluorometholone: voorspelde nieuwe indicatie Postinfectieuze vasculitis (postinfectious vasculitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 

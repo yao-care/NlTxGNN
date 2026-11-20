@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)"

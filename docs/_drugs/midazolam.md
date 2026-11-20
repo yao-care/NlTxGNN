@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 233
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "midazolam"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 37 (geldig: 36)"

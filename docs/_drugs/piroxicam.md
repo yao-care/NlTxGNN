@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: voorspelde nieuwe indicatie Colobomatous microphthalmia-rhizomelic dysplasia syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)"

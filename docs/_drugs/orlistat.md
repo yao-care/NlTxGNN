@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). In Nederland, CBG-vergunningen: 25 (geldig: 24)"

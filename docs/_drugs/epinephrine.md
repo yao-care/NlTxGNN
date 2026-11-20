@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Epinephrine: voorspelde nieuwe indicatie Obstructieve longziekte (obstructive lung disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 52 (geldig: 51)"
 ---
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ciclesonide: voorspelde nieuwe indicatie Atopisch eczeem (bewijsniveau L5). Oorspronkelijke indicatie: Astma, allergische astma, allergische rinitis, vasomotore rinitis"
 monitor_inn: "Ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]

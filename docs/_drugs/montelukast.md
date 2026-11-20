@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 239
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 34 (geldig: 33)"

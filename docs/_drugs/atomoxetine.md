@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 43 (geldig: 42)"

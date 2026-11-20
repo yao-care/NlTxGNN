@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (hepatic porphyria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)"
 ---
 

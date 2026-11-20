@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Alitretinoin: voorspelde nieuwe indicatie Amenorroe (amenorrhea) (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
 ---
 

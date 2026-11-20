@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Cyclophosphamide: voorspelde nieuwe indicatie Wervelafwijkingen met variabele endocriene en T-celdysfunctie (vertebral anomalies and variable endocrine and T-cell dysfunction) (bewijsniveau L5)."
 ---
 

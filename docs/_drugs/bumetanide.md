@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
 description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)"

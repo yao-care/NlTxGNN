@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Ritonavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)"

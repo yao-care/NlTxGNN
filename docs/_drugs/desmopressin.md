@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 41 (geldig: 40)"
 ---
 

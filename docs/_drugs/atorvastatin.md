@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Atorvastatin: voorspelde nieuwe indicatie HIV-infectie (HIV infectious disease) (bewijsniveau L2). In Nederland, CBG-vergunningen: 213 (geldig: 212)"
 ---
 

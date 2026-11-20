@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 

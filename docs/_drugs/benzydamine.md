@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 

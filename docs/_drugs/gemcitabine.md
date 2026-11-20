@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 22 (geldig: 22)"

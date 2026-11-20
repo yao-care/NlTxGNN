@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Alprazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 24 (geldig: 23)"
 ---
 

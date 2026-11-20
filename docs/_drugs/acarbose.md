@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Acarbose: voorspelde nieuwe indicatie Focaal stiff-limb-syndroom (focal stiff limb syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)"
 ---
 

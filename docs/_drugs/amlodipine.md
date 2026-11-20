@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Amlodipine: voorspelde nieuwe indicatie Hersenstaminfarct (brain stem infarction) (bewijsniveau L5). In Nederland, CBG-vergunningen: 217 (geldig: 217)"
 ---
 

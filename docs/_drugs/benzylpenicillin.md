@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)"
 ---
 

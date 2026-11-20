@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Albendazole: voorspelde nieuwe indicatie Coenurose (coenurosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 

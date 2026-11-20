@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
